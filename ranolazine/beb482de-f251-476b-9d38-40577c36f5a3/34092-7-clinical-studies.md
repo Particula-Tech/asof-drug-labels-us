@@ -2,16 +2,16 @@
 
 ## 14.1 Chronic Stable Angina
 
-CARISA (Combination Assessment of Ranolazine In Stable Angina) was a study in 823 chronic angina patients randomized to receive 12 weeks of treatment with twice-daily Ranexa 750 mg, 1000 mg, or placebo, who also continued on daily doses of atenolol 50 mg, amlodipine 5 mg, or diltiazem CD 180 mg.
+CARISA (Combination Assessment of Ranolazine In Stable Angina) was a study in 823 chronic angina patients randomized to receive 12 weeks of treatment with twice-daily RANEXA 750 mg, 1000 mg, or placebo, who also continued on daily doses of atenolol 50 mg, amlodipine 5 mg, or diltiazem CD 180 mg.
 Sublingual nitrates were used in this study as needed.
 
-In this trial, statistically significant (p < 0.05) increases in modified Bruce treadmill exercise duration and time to angina were observed for each Ranexa dose versus placebo, at both trough (12 hours after dosing) and peak (4 hours after dosing) plasma levels, with minimal effects on blood pressure and heart rate.
+In this trial, statistically significant (p < 0.05) increases in modified Bruce treadmill exercise duration and time to angina were observed for each RANEXA dose versus placebo, at both trough (12 hours after dosing) and peak (4 hours after dosing) plasma levels, with minimal effects on blood pressure and heart rate.
 The changes versus placebo in exercise parameters are presented in Table 1.
 Exercise treadmill results showed no increase in effect on exercise at the 1000 mg dose compared to the 750 mg dose.
 
 Table 1 Exercise Treadmill Results (CARISA)
 
-| Ranexa Twice-daily Dose | 750 mg | 1000 mg |
+| RANEXA Twice-daily Dose | 750 mg | 1000 mg |
 | --- | --- | --- |
 |  | Mean Difference from Placebo (sec) |  |
 | Study | CARISA (N = 791) |  |
@@ -25,11 +25,11 @@ Table 1 Exercise Treadmill Results (CARISA)
 | Trough | 20 | 21 |
 | Peak | 41 | 35 |
 
-The effects of Ranexa on angina frequency and nitroglycerin use are shown in Table 2.
+The effects of RANEXA on angina frequency and nitroglycerin use are shown in Table 2.
 
 Table 2 Angina Frequency and Nitroglycerin Use (CARISA)
 
-|  |  | Placebo | Ranexa 750 mgTwice daily | Ranexa 1000 mg |
+|  |  | Placebo | RANEXA 750 mgTwice daily | RANEXA 1000 mg |
 | --- | --- | --- | --- | --- |
 | Angina Frequency (attacks/week) | N | 258 | 272 | 261 |
 | Mean | 3.3 | 2.5 | 2.1 |  |
@@ -38,20 +38,20 @@ Table 2 Angina Frequency and Nitroglycerin Use (CARISA)
 | Mean | 3.1 | 2.1 | 1.8 |  |
 | p-value vs placebo | — | 0.016 | < 0.001 |  |
 
-Tolerance to Ranexa did not develop after 12 weeks of therapy.
-Rebound increases in angina, as measured by exercise duration, have not been observed following abrupt discontinuation of Ranexa.
+Tolerance to RANEXA did not develop after 12 weeks of therapy.
+Rebound increases in angina, as measured by exercise duration, have not been observed following abrupt discontinuation of RANEXA.
 
-Ranexa has been evaluated in patients with chronic angina who remained symptomatic despite treatment with the maximum dose of an antianginal agent.
-In the ERICA (Efficacy of Ranolazine In Chronic Angina) trial, 565 patients were randomized to receive an initial dose of Ranexa 500 mg twice daily or placebo for 1 week, followed by 6 weeks of treatment with Ranexa 1000 mg twice daily or placebo, in addition to concomitant treatment with amlodipine 10 mg once daily.
+RANEXA has been evaluated in patients with chronic angina who remained symptomatic despite treatment with the maximum dose of an antianginal agent.
+In the ERICA (Efficacy of Ranolazine In Chronic Angina) trial, 565 patients were randomized to receive an initial dose of RANEXA 500 mg twice daily or placebo for 1 week, followed by 6 weeks of treatment with RANEXA 1000 mg twice daily or placebo, in addition to concomitant treatment with amlodipine 10 mg once daily.
 In addition, 45% of the study population also received long-acting nitrates.
 Sublingual nitrates were used as needed to treat angina episodes.
 Results are shown in Table 3.
-Statistically significant decreases in angina attack frequency (p = 0.028) and nitroglycerin use (p = 0.014) were observed with Ranexa compared to placebo.
+Statistically significant decreases in angina attack frequency (p = 0.028) and nitroglycerin use (p = 0.014) were observed with RANEXA compared to placebo.
 These treatment effects appeared consistent across age and use of long-acting nitrates.
 
 Table 3 Angina Frequency and Nitroglycerin Use (ERICA)
 
-|  |  | Placebo | Ranexa1000 mg twice daily |
+|  |  | Placebo | RANEXA1000 mg twice daily |
 | --- | --- | --- | --- |
 | Angina Frequency (attacks/week) | N | 281 | 277 |
 | Mean | 4.3 | 3.3 |  |
@@ -73,4 +73,4 @@ There were insufficient numbers of non-Caucasian patients to allow for analyses 
 ## 14.2 Lack of Benefit in Acute Coronary Syndrome
 
 In a large (n = 6,560) placebo-controlled trial (MERLIN-TIMI 36) in patients with acute coronary syndrome, there was no benefit shown on outcome measures.
-However, the study is somewhat reassuring regarding proarrhythmic risks, as ventricular arrhythmias were less common on ranolazine [see Clinical Pharmacology (12.2)], and there was no difference between Ranexa and placebo in the risk of all-cause mortality (relative risk ranolazine:placebo 0.99 with an upper 95% confidence limit of 1.22).
+However, the study is somewhat reassuring regarding proarrhythmic risks, as ventricular arrhythmias were less common on ranolazine [see Clinical Pharmacology (12.2)], and there was no difference between RANEXA and placebo in the risk of all-cause mortality (relative risk ranolazine:placebo 0.99 with an upper 95% confidence limit of 1.22).

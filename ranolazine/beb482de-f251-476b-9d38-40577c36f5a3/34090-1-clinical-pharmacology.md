@@ -14,12 +14,12 @@ The QT prolongation effect of ranolazine on the surface electrocardiogram is the
 
 Hemodynamic Effects
 
-Patients with chronic angina treated with Ranexa in controlled clinical studies had minimal changes in mean heart rate (< 2 bpm) and systolic blood pressure (< 3 mm Hg).
+Patients with chronic angina treated with RANEXA in controlled clinical studies had minimal changes in mean heart rate (< 2 bpm) and systolic blood pressure (< 3 mm Hg).
 Similar results were observed in subgroups of patients with CHF NYHA Class I or II, diabetes, or reactive airway disease, and in elderly patients.
 
 Electrocardiographic Effects
 
-Dose and plasma concentration-related increases in the QTc interval [see Warnings and Precautions (5.1)], reductions in T wave amplitude, and, in some cases, notched T waves, have been observed in patients treated with Ranexa.
+Dose and plasma concentration-related increases in the QTc interval [see Warnings and Precautions (5.1)], reductions in T wave amplitude, and, in some cases, notched T waves, have been observed in patients treated with RANEXA.
 These effects are believed to be caused by ranolazine and not by its metabolites.
 The relationship between the change in QTc and ranolazine plasma concentrations is linear, with a slope of about 2.6 msec/1000 ng/mL, through exposures corresponding to doses several-fold higher than the maximum recommended dose of 1000 mg twice daily.
 The variable blood levels attained after a given dose of ranolazine give a wide range of effects on QTc.
@@ -28,8 +28,8 @@ In cirrhotic subjects with mild or moderate hepatic impairment, the relationship
 
 Age, weight, gender, race, heart rate, congestive heart failure, diabetes, and renal impairment did not alter the slope of the QTc-concentration relationship of ranolazine.
 
-No proarrhythmic effects were observed on 7-day Holter recordings in 3,162 acute coronary syndrome patients treated with Ranexa.
-There was a significantly lower incidence of arrhythmias (ventricular tachycardia, bradycardia, supraventricular tachycardia, and new atrial fibrillation) in patients treated with Ranexa (80%) versus placebo (87%), including ventricular tachycardia ≥ 3 beats (52% versus 61%).
+No proarrhythmic effects were observed on 7-day Holter recordings in 3,162 acute coronary syndrome patients treated with RANEXA.
+There was a significantly lower incidence of arrhythmias (ventricular tachycardia, bradycardia, supraventricular tachycardia, and new atrial fibrillation) in patients treated with RANEXA (80%) versus placebo (87%), including ventricular tachycardia ≥ 3 beats (52% versus 61%).
 However, this difference in arrhythmias did not lead to a reduction in mortality, a reduction in arrhythmia hospitalization, or a reduction in arrhythmia symptoms.
 
 ## 12.3 Pharmacokinetics
@@ -38,20 +38,20 @@ Ranolazine is extensively metabolized in the gut and liver and its absorption is
 For example, at a dose of 1000 mg twice daily, the mean steady-state Cmax was 2600 ng/mL with 95% confidence limits of 400 and 6100 ng/mL.
 The pharmacokinetics of the (+) R- and (-) S-enantiomers of ranolazine are similar in healthy volunteers.
 The apparent terminal half-life of ranolazine is 7 hours.
-Steady state is generally achieved within 3 days of twice-daily dosing with Ranexa.
-At steady state over the dose range of 500 to 1000 mg twice daily, Cmax and AUC0-τ increase slightly more than proportionally to dose, 2.2- and 2.4-fold, respectively.
+Steady state is generally achieved within 3 days of twice-daily dosing with RANEXA.
+At steady state over the dose range of 500 to 1000 mg twice daily, Cmax and AUC0–τ increase slightly more than proportionally to dose, 2.2- and 2.4-fold, respectively.
 With twice-daily dosing, the trough:peak ratio of the ranolazine plasma concentration is 0.3 to 0.6.
 The pharmacokinetics of ranolazine is unaffected by age, gender, or food.
 
 Absorption and Distribution
 
-After oral administration of Ranexa, peak plasma concentrations of ranolazine are reached between 2 and 5 hours.
+After oral administration of RANEXA, peak plasma concentrations of ranolazine are reached between 2 and 5 hours.
 After oral administration of 14C-ranolazine as a solution, 73% of the dose is systemically available as ranolazine or metabolites.
-The bioavailability of ranolazine from Ranexa tablets relative to that from a solution of ranolazine is 76%.
+The bioavailability of ranolazine from RANEXA tablets relative to that from a solution of ranolazine is 76%.
 Because ranolazine is a substrate of P-gp, inhibitors of P-gp may increase the absorption of ranolazine.
 
 Food (high-fat breakfast) has no important effect on the Cmax and AUC of ranolazine.
-Therefore, Ranexa may be taken without regard to meals.
+Therefore, RANEXA may be taken without regard to meals.
 Over the concentration range of 0.25 to 10 µg/mL, ranolazine is approximately 62% bound to human plasma proteins.
 
 Metabolism and Excretion
@@ -71,12 +71,12 @@ Ranolazine is also a substrate of P-glycoprotein.
 
 Strong CYP3A Inhibitors
 
-Plasma levels of ranolazine with Ranexa 1000 mg twice daily are 3.2-fold higher if coadministered with ketoconazole 200 mg twice daily [see Contraindications (4)].
+Plasma levels of ranolazine with RANEXA 1000 mg twice daily are increased by 220% when coadministered with ketoconazole 200 mg twice daily [see Contraindications (4)].
 
 Moderate CYP3A Inhibitors
 
-Plasma levels of ranolazine with Ranexa 1000 mg twice daily are increased about 50 to 130% by diltiazem 180 to 360 mg, respectively.
-Plasma levels of ranolazine with Ranexa 750 mg twice daily are increased about 100% by verapamil 120 mg three times daily [see Drug Interactions 7.1].
+Plasma levels of ranolazine with RANEXA 1000 mg twice daily are increased by 50 to 130% by diltiazem 180 to 360 mg, respectively.
+Plasma levels of ranolazine with RANEXA 750 mg twice daily are increased by 100% by verapamil 120 mg three times daily [see Drug Interactions (7.1)].
 
 Weak CYP3A Inhibitors
 
@@ -88,8 +88,8 @@ Rifampin 600 mg once daily decreases the plasma concentrations of ranolazine (10
 
 CYP2D6 Inhibitors
 
-Paroxetine 20 mg once daily increased ranolazine concentrations 20% in healthy volunteers receiving Ranexa 1000 mg twice daily.
-No dose adjustment of Ranexa is required in patients treated with CYP2D6 inhibitors.
+Paroxetine 20 mg once daily increased ranolazine concentrations by 20% in healthy volunteers receiving RANEXA 1000 mg twice daily.
+No dose adjustment of RANEXA is required in patients treated with CYP2D6 inhibitors.
 
 Digoxin
 
@@ -102,17 +102,24 @@ In vitro ranolazine is an inhibitor of OCT2.
 
 CYP3A Substrates
 
-The plasma levels of simvastatin, a CYP3A substrate, and its active metabolite are each doubled in healthy subjects receiving 80 mg once daily and Ranexa 1000 mg twice daily [see Drug Interactions (7.2)].
+The plasma levels of simvastatin, a CYP3A substrate, and its active metabolite are increased by 100% in healthy volunteers receiving 80 mg once daily and RANEXA 1000 mg twice daily [see Drug Interactions (7.2)].
+Mean exposure to atorvastatin (80 mg daily) is increased by 40% following co-administration with RANEXA (1000 mg twice daily) in healthy volunteers.
+However, in one subject the exposure to atorvastatin and metabolites was increased by ~400% in the presence of RANEXA.
 
 Diltiazem
 
-The pharmacokinetics of diltiazem is not affected by ranolazine in healthy volunteers receiving diltiazem 60 mg three times daily and Ranexa 1000 mg twice daily.
+The pharmacokinetics of diltiazem is not affected by ranolazine in healthy volunteers receiving diltiazem 60 mg three times daily and RANEXA 1000 mg twice daily.
 
 P-gp Substrates
 
-Ranolazine increases digoxin concentrations 50% in healthy volunteers receiving Ranexa 1000 mg twice daily and digoxin 0.125 mg once daily [see Drug Interactions (7.2)].
+Ranolazine increases digoxin concentrations by 50% in healthy volunteers receiving RANEXA 1000 mg twice daily and digoxin 0.125 mg once daily [see Drug Interactions (7.2)].
 
 CYP2D6 Substrates
 
-Ranexa 750 mg twice daily increases the plasma concentrations of a single dose of immediate release metoprolol (100 mg), a CYP2D6 substrate, by 80% in extensive CYP2D6 metabolizers with no need for dose adjustment of metoprolol.
+RANEXA 750 mg twice daily increases the plasma concentrations of a single dose of immediate release metoprolol (100 mg), a CYP2D6 substrate, by 80% in extensive CYP2D6 metabolizers with no need for dose adjustment of metoprolol.
 In extensive metabolizers of dextromethorphan, a substrate of CYP2D6, ranolazine inhibits partially the formation of the main metabolite dextrorphan.
+
+OCT2 Substrates
+
+In subjects with type 2 diabetes mellitus, the exposure to metformin is increased by 40% and 80% following administration of ranolazine 500 mg twice daily and 1000 mg twice daily, respectively.
+If co-administered with RANEXA 1000 mg twice daily, do not exceed metformin doses of 1700 mg/day [see Drug Interactions (7.2)].
