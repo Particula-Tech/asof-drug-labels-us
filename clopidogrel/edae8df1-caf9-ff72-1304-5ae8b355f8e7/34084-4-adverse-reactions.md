@@ -22,12 +22,12 @@ Other bleeding events that were reported more frequently in the clopidogrel grou
 
 The overall incidence of bleeding is described in Table 1.
 
-Table 1: CURE Incidence of Bleeding Complications (% patients)
+TABLE 1: CURE INCIDENCE of BLEEDING COMPLICATIONS (% patients)
 
 |  | (n=6259) | (n=6303) |
 | --- | --- | --- |
 | Event | Clopidogrel Bisulfate (+ aspirin)Other standard therapies were used as appropriate. | Placebo (+ aspirin) |
-| Major bleeding Life-threatening and other major bleeding. | 3.7 Major bleeding event rate for clopidogrel bisulfate + aspirin was dose-dependent on aspirin: <100 mg = 2.6%; 100–200 mg = 3.5%; >200 mg = 4.9% Major bleeding event rates for clopidogrel + aspirin by age were: <65 years = 2.5%, ≥65 to <75 years = 4.1%, ≥75 years = 5.9% | 2.7 Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg = 2.0%; 100–200 mg = 2.3%; >200 mg = 4.0% Major bleeding event rates for placebo + aspirin by age were: <65 years = 2.1%, ≥65 to <75 years = 3.1%, ≥75 years = 3.6% |
+| Major bleeding Life-threatening and other major bleeding. | 3.7 Major bleeding event rate for clopidogrel bisulfate + aspirin was dose-dependent on aspirin: <100 mg = 2.6%; 100 to 200 mg = 3.5%; >200 mg = 4.9%. Major bleeding event rates for clopidogrel + aspirin by age were: <65 years = 2.5%, ≥65 to <75 years = 4.1%, ≥75 years = 5.9%. | 2.7 Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg = 2.0%; 100 to 200 mg = 2.3%; >200 mg = 4.0%. Major bleeding event rates for placebo + aspirin by age were: <65 years = 2.1%, ≥65 to <75 years = 3.1%, ≥75 years = 3.6%. |
 | Life-threatening bleeding | 2.2 | 1.8 |
 | Fatal | 0.2 | 0.2 |
 | 5 g/dL hemoglobin drop | 0.9 | 0.9 |
@@ -38,22 +38,20 @@ Table 1: CURE Incidence of Bleeding Complications (% patients)
 | Other major bleeding | 1.6 | 1.0 |
 | Significantly disabling | 0.4 | 0.3 |
 | Intraocular bleeding with significant loss of vision | 0.05 | 0.03 |
-| Requiring 2–3 units of blood | 1.3 | 0.9 |
+| Requiring 2 to 3 units of blood | 1.3 | 0.9 |
 | Minor bleeding Led to interruption of study medication. | 5.1 | 2.4 |
 
 Ninety-two percent (92%) of the patients in the CURE study received heparin or low molecular weight heparin (LMWH), and the rate of bleeding in these patients was similar to the overall results.
 
 COMMIT
 
-In COMMIT, similar rates of major bleeding were observed in the clopidogrel bisulfate and placebo groups, both of which also received aspirin (Table 2).
-
-Table 2: Incidence of Bleeding Events in COMMIT (% patients)
+In COMMIT, similar rates of major bleeding were observed in the clopidogrel bisulfate and placebo groups, both of which also received aspirin (see Table 2).
 
 Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 
 | Type of bleeding | Clopidogrel bisulfate (+ aspirin) (n=22961) | Placebo (+ aspirin) (n=22891) | p-value |
 | --- | --- | --- | --- |
-| MajorMajor bleeds were cerebral bleeds or non-cerebral bleeds thought to have caused death or that required transfusion. noncerebral or cerebral bleedingThe relative rate of major noncerebral or cerebral bleeding was independent of age. Event rates for Clopidogrel bisulfate + aspirin by age were: <60 years = 0.3%, ≥60 to <70 years = 0.7%, ≥70 years = 0.8%. Event rates for placebo + aspirin by age were: <60 years = 0.4%, ≥60 to <70 years = 0.6%, ≥70 years = 0.7%. | 0.6 | 0.5 | 0.59 |
+| MajorMajor bleeds were cerebral bleeds or non-cerebral bleeds thought to have caused death or that required transfusion. noncerebral or cerebral bleedingThe relative rate of major non cerebral or cerebral bleeding was independent of age. Event rates for clopidogrel bisulfate + aspirin by age were: <60 years = 0.3%, ≥60 to <70 years = 0.7%, ≥70 years = 0.8%. Event rates for placebo + aspirin by age were: <60 years = 0.4%, ≥60 to <70 years = 0.6%, ≥70 years = 0.7%. | 0.6 | 0.5 | 0.59 |
 | Major noncerebral | 0.4 | 0.3 | 0.48 |
 | Fatal | 0.2 | 0.2 | 0.90 |
 | Hemorrhagic stroke | 0.2 | 0.2 | 0.91 |
@@ -89,7 +87,7 @@ Because these reactions are reported voluntarily from a population of an unknown
 - Musculoskeletal, connective tissue and bone disorders: Musculoskeletal bleeding, myalgia, arthralgia, arthritis
 - Nervous system disorders: Taste disorders, fatal intracranial bleeding, headache
 - Psychiatric disorders: Confusion, hallucinations
-- Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, respiratory tract bleeding
+- Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, respiratory tract bleeding, eosinophilic pneumonia
 - Renal and urinary disorders: Increased creatinine levels
-- Skin and subcutaneous tissue disorders: Maculopapular or erythematous rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, erythema multiforme, skin bleeding, lichen planus, generalized pruritus
+- Skin and subcutaneous tissue disorders: Maculopapular or erythematous rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
 - Vascular disorders: Vasculitis, hypotension

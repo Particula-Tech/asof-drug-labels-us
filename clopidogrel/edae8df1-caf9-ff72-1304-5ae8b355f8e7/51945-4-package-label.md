@@ -11,3 +11,17 @@ Clopidogrel Tablets, USP
 Rx
 
 30 count
+
+PRINCIPAL DISPLAY PANEL - 75 mg BOTTLE LABEL
+
+Representative sample of labeling (see HOW SUPPLIED section for complete listing):
+
+APOTEX CORP. NDC 60505-3992-3
+
+Clopidogrel Tablets, USP
+
+75 mg
+
+Rx
+
+30 count

@@ -1,19 +1,23 @@
-Medication Guide Clopidogrel Bisulfate Tablets, USP 75 mg
+# Medication Guide
 
-Read this Medication Guide before you start taking clopidogrel bisulfate tablets and each time you get a refill.
+Clopidogrel Bisulfate Tablets, USP 75 mg
+
+(kloe pid’ oh grel bye sul’ fate)
+
+Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
 
-What is the most important information I should know about Clopidogrel Bisulfate Tablets?
+What is the most important information I should know about clopidogrel?
 
-1. Clopidogrel bisulfate tablets may not work as well in people who:
+1. Clopidogrel may not work as well in people who:
    - have certain genetic factors that affect how the body breaks down clopidogrel.
-     Your doctor may do genetic tests to make sure clopidogdrel is right for you.
+     Your doctor may do genetic tests to make sure clopidogrel is right for you.
    - take certain medicines, especially omeprazole (Prilosec®) or esomeprazole (Nexium®).
-     Your doctor may change the medicine you take for stomach acid problems while you take clopiodgrel.
-2. Clopiodgrel bisulfate tablets can cause bleeding which can be serious and can sometimes lead to death.
+     Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel.
+2. Clopidogrel can cause bleeding which can be serious and can sometimes lead to death.
    Clopidogrel is a blood thinner medicine that lowers the chance of blood clots forming in your body.
-   While you take clopiodgrel:
+   While you take clopidogrel:
    - you may bruise and bleed more easily
    - you are more likely to have nose bleeds
    - it will take longer for any bleeding to stop
@@ -27,58 +31,59 @@ Call your doctor right away if you have any of these signs or symptoms of bleedi
 - cough up blood or blood clots
 - vomit blood or your vomit looks like coffee grounds
 
-Do not stop taking clopidogrel bisulfate tablets without talking to the doctor who prescribes it for you.
+Do not stop taking clopidogrel without talking to the doctor who prescribes it for you.
 People who are treated with a stent, and stop taking clopidogrel too soon, have a higher risk of getting a blood clot on the stent, having a heart attack, or dying.
-If you must stop clopidogrel bisulfate tablets because of bleeding, your risk of a heart attack may be higher.
+If you must stop clopidogrel because of bleeding, your risk of a heart attack may be higher.
 
-What is Clopidogrel Bisulfate?
+What is clopidogrel?
 
-Clopidogrel Bisulate Tablets is a prescription medicine used to treat people who have any of the following:
+Clopidogrel Bisulfate Tablets is a prescription medicine used to treat people who have any of the following:
 
 - chest pain due to heart problems
 - poor circulation in their legs (peripheral arterial disease)
 - a heart attack
 - a stroke
 
-Clopidogrel bisulfate tablets is used alone or with aspirin to lower your chance of having another serious problem with your heart or blood vessels such as heart attack, stroke, or blood clot that can lead to death.
+Clopidogrel is used alone or with aspirin to lower your chance of having another serious problem with your heart or blood vessels such as heart attack, stroke, or blood clot that can lead to death.
 
 Platelets are blood cells that help your blood clot normally.
 Clopidogrel helps to prevent platelets from sticking together and forming a clot that can block an artery.
 
 It is not known if clopidogrel is safe and effective in children.
 
-Who should not take Clopidogrel Bisulfate Tablets?
+Who should not take clopidogrel?
 
-Do not take clopidogrel bisulfate tablets if you:
+Do not take clopidogrel if you:
 
 - currently have a condition that causes bleeding, such as a stomach ulcer
-- are allergic to clopidogrel or other ingredients in clopidogrel bisulfate tablets.
-  See the end of this leaflet for a complete list of ingredients in clopidogrel bisulfate tablets.
+- are allergic to clopidogrel or other ingredients in clopidogrel tablets.
+  See the end of this leaflet for a complete list of ingredients in clopidogrel.
 
-What should I tell my doctor before taking Clopidogrel Bisulfate Tablets?
+What should I tell my doctor before taking clopidogrel?
 
-Before you take clopidogrel bisulfate tablets, tell your doctor if you:
+Before you take clopidogrel, tell your doctor if you:
 
 - have a history of bowel (gastrointestinal) or stomach ulcers
 - have a history of bleeding problems
 - plan to have surgery or a dental procedure.
-  See "How should I take Clopidogrel Bisulfate Tablets?"
+  See "How should I take clopidogrel?"
 - are pregnant or plan to become pregnant.
   It is not known if clopidogrel will harm your unborn baby
 - are breastfeeding or plan to breastfeed.
   It is not known if clopidogrel passes into your breast milk.
   You and your doctor should decide if you will take clopidogrel or breastfeed.
-  You should not do both without talking to your doctor.
+  You should not do both without talking to your doctor
+- have had an allergy or reaction to any medicine used to treat your disease.
 
-Tell all of your doctors and your dentist that you are taking clopidogrel bisulfate tablets.
+Tell all of your doctors and your dentist that you are taking clopidogrel.
 They should talk to the doctor who prescribed clopidogrel for you before you have any surgery or invasive procedure.
 
 Tell your doctor about all the medicines you take, including prescription, non-prescription medicines, vitamins and herbal supplements.
 
-Clopidogrel Bisulfate tablets may affect the way other medicines work, and other medicines may affect how clopidogrel bisulfate tablets works.
-See "What is the most important information I should know about Clopidogrel Bisulfate Tablets?"
+Clopidogrel may affect the way other medicines work, and other medicines may affect how clopidogrel works.
+See "What is the most important information I should know about clopidogrel?"
 
-Taking clopidogrel bisulfate tablets with certain other medicines may increase your risk of bleeding.
+Taking clopidogrel with certain other medicines may increase your risk of bleeding.
 Especially tell your doctor if you take:
 
 - aspirin, especially if you have had a stroke.
@@ -90,28 +95,28 @@ Especially tell your doctor if you take:
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.
 
-How should I take Clopidogrel Bisulfate Tablets?
+How should I take Clopidogrel?
 
-- Take clopidogrel bisulfate tablets exactly as your doctor tells you.
-- Do not change your dose or stop taking clopiodgrel bisulfate tablets without talking to your doctor first.
-  Stopping clopiodgrel bisulfate tablets may increase your risk of heart attack or stroke.
-- Take clopidogrel bisulfate tablets with aspirin as instructed by your doctor.
-- You can take clopiodgrel bisulfate tablets with or without food.
-- If you miss a dose, take clopidogrel bisulfate tablets as soon as you remember.
+- Take clopidogrel exactly as your doctor tells you.
+- Do not change your dose or stop taking clopidogrel without talking to your doctor first.
+  Stopping clopidogrel may increase your risk of heart attack or stroke.
+- Take clopidogrel with aspirin as instructed by your doctor.
+- You can take clopidogrel with or without food.
+- If you miss a dose, take clopidogrel as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Take the next dose at your regular time.
-  Do not take 2 doses of clopidogrel bisulfate tablets at the same time unless your doctor tells you to.
-- If you take too much clopidogrel bisulfate tablets, call your doctor or go to the nearest emergency room right away.
-- Talk with your doctor about stopping your clopidogrel bisulfate tablets before you have surgery.
-  Your doctor may tell you to stop taking clopidogrel bisulfate tablets at least 5 days before you have surgery to avoid excessive bleeding during surgery.
+  Do not take 2 doses of clopidogrel at the same time unless your doctor tells you to.
+- If you take too much clopidogrel, call your doctor or go to the nearest emergency room right away.
+- Talk with your doctor about stopping your clopidogrel before you have surgery.
+  Your doctor may tell you to stop taking clopidogrel at least 5 days before you have surgery to avoid excessive bleeding during surgery.
 
-What are the possible side effects of Clopidogrel Bisulfate Tablets?
+What are the possible side effects of clopidogrel?
 
-Clopidogrel bisulfate tablets can cause serious side effects including:
+Clopidogrel can cause serious side effects including:
 
-- See "What is the most important information I should know about Clopidogrel Bisulfate Tablets?"
+- See "What is the most important information I should know about clopidogrel?"
 - A blood clotting problem called Thrombotic Thrombocytopenic Purpura (TTP).
-  TTP can happen with clopiodgrel, sometimes after a short time (less than 2 weeks).
+  TTP can happen with clopidogrel, sometimes after a short time (less than 2 weeks).
   TTP is a blood clotting problem where blood clots form in blood vessels; and can happen anywhere in the body.
   TTP needs to be treated in a hospital right away, because it may cause death.
   Get medical help right away if you have any of these symptoms and they can not be explained by another medical condition:
@@ -134,43 +139,47 @@ Clopidogrel bisulfate tablets can cause serious side effects including:
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
-These are not all the possible side effects of clopidogrel bisulfate tablets.
+Tell your doctor if you develop an allergic reaction while taking clopidogrel.
+
+These are not all the possible side effects of clopidogrel.
 For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store Clopidogrel Bisulfate Tablets?
+How should I store clopidogrel?
 
-- Store clopidogrel bisulfate tablets at 59°F to 86°F (15°C to 30°C).
+- Store clopidogrel at 59°F to 86°F (15°C to 30°C).
   Protect from moisture.
 
-Keep Clopiodgrel Bisulfate Tablets and all medicines out of the reach of children.
+Keep clopidogrel and all medicines out of the reach of children.
 
-General information about Clopidogrel Bisulfate Tablets
+General information about clopidogrel
 
 Medicines are sometimes used for purposes other than those listed in a Medication Guide.
-Do not take clopidogrel bisulfate tablets for a condition for which it was not prescribed.
-Do not give clopidogrel bisulfate tablets to other people, even if they have the same symptoms that you have.
+Do not take clopidogrel for a condition for which it was not prescribed.
+Do not give clopidogrel to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Medication Guide summarizes the most important information about clopidogrel bisulfate tablets.
+This Medication Guide summarizes the most important information about clopidogrel.
 If you would like more information, talk to your doctor.
-Ask your doctor or pharmacist for information about clopidogrel bisulfate tablets that was written for healthcare professionals.
+Ask your doctor or pharmacist for information about clopidogrel that was written for healthcare professionals.
 
 For more information, go to www.apotexcorp.com or call 1-800-667-4708.
 
-What are the ingredients in Clopidogrel Bisulfate Tablets?
+What are the ingredients in clopidogrel?
 
-Active ingredient: clopidogrel bisulfate
+Active Ingredient: clopidogrel bisulfate
 
-Inactive ingredients:
+Inactive Ingredients:
 
 Tablet: anhydrous lactose, methylcellulose, crospovidone, colloidal silicon dioxide, zinc stearate
 
-Film coating: hydroxypropyl cellulose, hypromellose, polytheylene glycol, titanium dioxide, red ferric oxide.
+Film coating: hydroxypropyl cellulose, hypromellose, polyethylene glycol, titanium dioxide, red ferric oxide.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+APOTEX INC.
+
+CLOPIDOGREL TABLETS, USP 75 mg
 
 | Manufactured by: | Manufactured for: |
 | --- | --- |
@@ -178,8 +187,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-May 2012, Rev.
-17
+Revised: November 2013
+
+Rev.
+18
 
 Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 Prilosec® is a registered trademark of AstraZeneca.

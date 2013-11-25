@@ -9,16 +9,15 @@ Patients were required to have either ECG changes compatible with new ischemia (
 The patient population was largely Caucasian (82%) and included 38% women, and 52% patients ≥65 years of age.
 
 Patients were randomized to receive clopidogrel (300-mg loading dose followed by 75 mg once daily) or placebo, and were treated for up to one year.
-Patients also received aspirin (75–325 mg once daily) and other standard therapies such as heparin.
+Patients also received aspirin (75 to 325 mg once daily) and other standard therapies such as heparin.
 The use of GPIIb/IIIa inhibitors was not permitted for three days prior to randomization.
 
-The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%–28%; p < 0.001) for the clopidogrel-treated group (see Table 4).
+The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10% to 28%; p < 0.001) for the clopidogrel-treated group (see Table 4).
 
 Table 4: Outcome Events in the CURE Primary Analysis
 
-|  | (n=6259) | (n=6303) |  |
+| Outcome | Clopidogrel (+ aspirin)Other standard therapies were used as appropriate. (n=6259) | Placebo (+ aspirin) (n=6303) | Relative Risk Reduction (%) (95% CI) |
 | --- | --- | --- | --- |
-| Outcome | Clopidogrel (+ aspirin)Other standard therapies were used as appropriate. | Placebo (+ aspirin) | Relative Risk Reduction (%) (95% CI) |
 | Primary outcome (Cardiovascular death, MI, stroke) | 582 (9.3%) | 719 (11.4%) | 20% (10.3, 27.9) p < 0.001 |
 | All Individual Outcome Events:The individual components do not represent a breakdown of the primary and co-primary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
 | CV death | 318 (5.1%) | 345 (5.5%) | 7% (-7.7, 20.6) |
@@ -28,12 +27,12 @@ Table 4: Outcome Events in the CURE Primary Analysis
 Most of the benefit of clopidogrel occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
 
 In CURE, the use of clopidogrel was associated with a lower incidence of CV death, MI or stroke in patient populations with different characteristics, as shown in Figure 3.
-The benefits associated with cloppdogrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE-inhibitors.
-The efficacy of clopidogrel was observed independently of the dose of aspirin (75–325 mg once daily).
-The use of oral anticoagulants, non-study anti-platelet drugs, and chronic NSAIDs was not allowed in CURE.
+The benefits associated with clopidogrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE-inhibitors.
+The efficacy of clopidogrel was observed independently of the dose of aspirin (75 to 325 mg once daily).
+The use of oral anticoagulants, non-study antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
 
 The use of clopidogrel in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the clopidogrel group, 126 patients [2.0%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the clopidogrel group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
-The use of clopidogrel in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting), (2253 patients [36.0%] in the clopidogrel group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
+The use of clopidogrel in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting), (2,253 patients [36.0%] in the clopidogrel group, 2,324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
 
 COMMIT
 
@@ -75,7 +74,7 @@ Table 6: Outcome Events in the CAPRIE Primary Analysis
 
 | Patients | n=9599 | n=9586 |
 | --- | --- | --- |
-|  | Clopidogrel | aspirin |
+|  | Clopidogrel | Aspirin |
 | Ischemic stroke (fatal or not) | 438 (4.6%) | 461 (4.8%) |
 | MI (fatal or not) | 275 (2.9%) | 333 (3.5%) |
 | Other vascular death | 226 (2.4%) | 226 (2.4%) |
@@ -96,14 +95,14 @@ The CAPRIE trial included a population that was randomized on the basis of 3 ent
 The efficacy of clopidogrel relative to aspirin was heterogeneous across these randomized subgroups (p=0.043).
 It is not clear whether this difference is real or a chance occurrence.
 Although the CAPRIE trial was not designed to evaluate the relative benefit of clopidogrel over aspirin in the individual patient subgroups, the benefit appeared to be strongest in patients who were enrolled because of peripheral vascular disease (especially those who also had a history of myocardial infarction) and weaker in stroke patients.
-In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopiodgrel was not numerically superior to aspirin.
+In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was not numerically superior to aspirin.
 
 ## 14.3 Lack of Established Benefit of Clopidogrel plus Aspirin in Patients with Multiple Risk Factors or Established Vascular Disease
 
 CHARISMA
 
-The CHARISMA trial was a 15,603 subject, randomized, double-blind, parallel group study comparing clopiodgrel (75 mg daily) to placebo for prevention of ischemic events in patients with vascular disease or multiple risk factors for atherosclerosis.
-All subjects were treated with aspirin 75–162 mg daily.
+The CHARISMA trial was a 15,603 subject, randomized, double-blind, parallel group study comparing clopidogrel (75 mg daily) to placebo for prevention of ischemic events in patients with vascular disease or multiple risk factors for atherosclerosis.
+All subjects were treated with aspirin 75 to 162 mg daily.
 The mean duration of treatment was 23 months.
 The study failed to demonstrate a reduction in the occurrence of the primary endpoint, a composite of CV death, MI, or stroke.
 A total of 534 (6.9%) patients in the clopidogrel group versus 573 (7.4%) patients in the placebo group experienced a primary outcome event (p=0.22).

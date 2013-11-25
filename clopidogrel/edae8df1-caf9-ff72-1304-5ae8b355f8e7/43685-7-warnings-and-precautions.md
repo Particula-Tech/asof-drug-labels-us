@@ -8,7 +8,7 @@ The metabolism of clopidogrel to its active metabolite can be impaired by geneti
 
 Proton Pump Inhibitors
 
-Avoid concomitant use of Clopidogrel with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of Clopidogrel [see Drug Interactions (7.1) and Dosage and Administration (2.4)].
+Avoid concomitant use of clopidogrel with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of clopidogrel [see Drug Interactions (7.1) and Dosage and Administration (2.4)].
 
 ## 5.2 General Risk of Bleeding
 
@@ -17,7 +17,7 @@ If a patient is to undergo surgery and an antiplatelet effect is not desired, di
 In patients who stopped therapy more than five days prior to CABG the rates of major bleeding were similar (event rate 4.4% clopidogrel bisulfate + aspirin; 5.3% placebo + aspirin).
 In patients who remained on therapy within five days of CABG, the major bleeding rate was 9.6% for clopidogrel bisulfate + aspirin, and 6.3% for placebo + aspirin.
 
-Thienopyridines inhibit platelet aggregation for the lifetime of the platelet (7-10 days), so withholding a dose will not be useful in managing a bleeding event or the risk of bleeding associated with an invasive procedure.
+Thienopyridines inhibit platelet aggregation for the lifetime of the platelet (7 to 10 days), so withholding a dose will not be useful in managing a bleeding event or the risk of bleeding associated with an invasive procedure.
 Because the half-life of clopidogrel’s active metabolite is short, it may be possible to restore hemostasis by administering exogenous platelets; however, platelet transfusions within 4 hours of the loading dose or 2 hours of the maintenance dose may be less effective.
 
 ## 5.3 Discontinuation of Clopidogrel Bisulfate
@@ -34,3 +34,7 @@ In patients with recent TIA or stroke who are at high risk for recurrent ischemi
 TTP, sometimes fatal, has been reported following use of clopidogrel bisulfate, sometimes after a short exposure (<2 weeks).
 TTP is a serious condition that requires urgent treatment including plasmapheresis (plasma exchange).
 It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragmented RBCs] seen on peripheral smear), neurological findings, renal dysfunction, and fever [see Adverse Reactions (6.2)].
+
+## 5.6 Allergic Cross-Reactivity
+
+Patients should be evaluated for history of hypersensitivity to another thienopyridine (such as ticlopidine, prasugrel) since allergic cross-reactivity among thienopyridines has been reported.

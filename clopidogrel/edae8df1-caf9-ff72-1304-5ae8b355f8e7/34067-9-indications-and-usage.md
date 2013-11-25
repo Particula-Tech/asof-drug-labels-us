@@ -2,8 +2,8 @@
 
 ## 1.1 Acute Coronary Syndrome (ACS)
 
-- For patients with non-ST-segment elevation ACS [unstable angina (UA)/non-ST-elevation myocardial infarction (NSTEMI)], including patients who are to be managed medically and those who are to be managed with coronary revascularization, clopidogrel bisulate has been shown to decrease the rate of a combined endpoint of cardiovascular death, myocardial infarction (MI), or stroke as well as the rate of a combined endpoint of cardiovascular death, MI, stroke, or refractory ischemia.
-- For patients with ST-elevation myocardial infarction (STEMI), clopidogdrel bisulfate has been shown to reduce the rate of death from any cause and the rate of a combined endpoint of death, re-infarction, or stroke.
+- For patients with non-ST-segment elevation ACS [unstable angina (UA)/non-ST-elevation myocardial infarction (NSTEMI)], including patients who are to be managed medically and those who are to be managed with coronary revascularization, clopidogrel bisulfate has been shown to decrease the rate of a combined endpoint of cardiovascular death, myocardial infarction (MI), or stroke as well as the rate of a combined endpoint of cardiovascular death, MI, stroke, or refractory ischemia.
+- For patients with ST-elevation myocardial infarction (STEMI), clopidogrel bisulfate has been shown to reduce the rate of death from any cause and the rate of a combined endpoint of death, re-infarction, or stroke.
   The benefit for patients who undergo primary percutaneous coronary intervention is unknown.
 
 The optimal duration of clopidogrel bisulfate therapy in ACS is unknown.

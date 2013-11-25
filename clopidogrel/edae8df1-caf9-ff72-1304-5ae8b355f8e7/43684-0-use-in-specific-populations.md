@@ -6,7 +6,7 @@ Pregnancy Category B
 
 Reproduction studies performed in rats and rabbits at doses up to 500 and 300 mg/kg/day, respectively (65 and 78 times the recommended daily human dose, respectively, on a mg/m2 basis), revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.
 There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of a human response, clopiodgrel bisulfate should be used during pregnancy only if clearly needed.
+Because animal reproduction studies are not always predictive of a human response, clopidogrel bisulfate should be used during pregnancy only if clearly needed.
 
 ## 8.3 Nursing Mothers
 
@@ -23,10 +23,10 @@ However, due to Bristol-Myers Squibb’s marketing exclusivity rights, this drug
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in the CAPRIE and CURE controlled clinical studies, approximately 50% of patients treated with clopiodgrel bisulfate were 65 years of age and older, and 15% were 75 years and older.
-In COMMIT, approximately 58% of the patients treated with clopiodgrel bisulfate were 60 years and older, 26% of whom were 70 years and older.
+Of the total number of subjects in the CAPRIE and CURE controlled clinical studies, approximately 50% of patients treated with clopidogrel bisulfate were 65 years of age and older, and 15% were 75 years and older.
+In COMMIT, approximately 58% of the patients treated with clopidogrel bisulfate were 60 years and older, 26% of whom were 70 years and older.
 
-The observed risk of bleeding events with clopiodgrel plus aspirin versus placebo plus aspirin by age category is provided in Table 1 and Table 2 for the CURE and COMMIT trials, respectively [see Adverse Reactions (6.1)].
+The observed risk of bleeding events with clopidogrel plus aspirin versus placebo plus aspirin by age category is provided in Table 1 and Table 2 for the CURE and COMMIT trials, respectively [see Adverse Reactions (6.1)].
 No dosage adjustment is necessary in elderly patients.
 
 ## 8.6 Renal Impairment
