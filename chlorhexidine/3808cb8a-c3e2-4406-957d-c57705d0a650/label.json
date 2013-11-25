@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020774"
+  ],
+  "inn": "chlorhexidine",
+  "labeler": "Dexcel Pharma Technologies Ltd.",
+  "package_ndcs": [
+    "64239-101-20"
+  ],
+  "products": [
+    {
+      "form": "INSERT, EXTENDED RELEASE",
+      "generic": "chlorhexidine gluconate",
+      "name": "PerioChip"
+    }
+  ],
+  "setid": "3808cb8a-c3e2-4406-957d-c57705d0a650",
+  "source": "dailymed"
+}
