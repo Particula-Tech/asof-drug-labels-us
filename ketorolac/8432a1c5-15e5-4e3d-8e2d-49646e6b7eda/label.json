@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021528"
+  ],
+  "inn": "ketorolac",
+  "labeler": "Pacific Pharma, Inc.",
+  "package_ndcs": [
+    "60758-773-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "ketorolac tromethamine",
+      "name": "KETOROLAC TROMETHAMINE"
+    }
+  ],
+  "setid": "8432a1c5-15e5-4e3d-8e2d-49646e6b7eda",
+  "source": "dailymed"
+}
