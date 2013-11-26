@@ -1,6 +1,6 @@
-# 9 DRUG ABUSE AND DEPENDENCE
+# 9DRUG ABUSE AND DEPENDENCE
 
-## 9.1 Controlled Substance Class
+## 9.1 Controlled Substance
 
 Vigabatrin is not a controlled substance.
 
@@ -13,4 +13,4 @@ Consequently, physicians should carefully evaluate patients for history of drug 
 ## 9.3 Dependence
 
 Following chronic administration of vigabatrin to animals, there were no apparent withdrawal signs upon drug discontinuation.
-However, as with all AEDs, vigabatrin should be withdrawn gradually to minimize increased seizure frequency [see WARNINGS AND PRECAUTIONS, Withdrawal of Antiepileptic Drugs (AEDs) (5.6) and PATIENT COUNSELING INFORMATION, Withdrawal of SABRIL Therapy (17.5)].
+However, as with all AEDs, vigabatrin should be withdrawn gradually to minimize increased seizure frequency [see Warnings and Precautions (5.6)].

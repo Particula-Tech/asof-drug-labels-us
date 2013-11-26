@@ -1,94 +1,98 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Vision Loss (see BOXED WARNING)
+## 5.1 Vision Loss
 
-Because of the risk of vision loss and because SABRIL, when it is effective, provides an observable symptomatic benefit, the patient who fails to show substantial clinical benefit within 2 to 4 weeks of initiation of treatment, should be withdrawn from SABRIL.
-If in the clinical judgment of the prescriber evidence of treatment failure becomes obvious earlier than 2 to 4 weeks, treatment with SABRIL should be discontinued at that time.
-Patient response to and continued need for treatment should be periodically assessed.
+Because of the risk of vision loss, and because, when it is effective, SABRIL provides an observable symptomatic benefit, patient response and continued need for treatment should be periodically assessed.
+
+In patients with refractory complex partial seizures, SABRIL should be withdrawn if a substantial clinical benefit is not observed within 3 months of initiating treatment.
+If, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 3 months, treatment should be discontinued at that time.
+
+In patients with infantile spasms, SABRIL should be withdrawn if a substantial clinical benefit is not observed within 2 to 4 weeks.
+If, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 2 to 4 weeks, treatment should be discontinued at that time [see BOXED WARNING].
 
 Monitoring of Vision
 
-Because vision testing in infants and children is difficult, vision loss may not be detected until it is severe.
-However, monitoring of vision must be performed by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina, unless a patient is formally exempted from periodic ophthalmologic assessment as documented in the Support, Help And Resources for Epilepsy (SHARE) program.
-For patients receiving SABRIL who are not exempted, vision assessment is required at baseline (no later than 4 weeks after starting SABRIL), at least every 3 months while on therapy and about 3-6 months after the discontinuation of therapy.
+Monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is required, unless a patient is formally exempted from periodic ophthalmologic assessment as documented in the Support, Help And Resources for Epilepsy (SHARE) program [see Warnings and Precautions (5.2)].
+Because vision testing in infants is difficult, vision loss may not be detected until it is severe.
+For patients receiving SABRIL who are not exempted, vision assessment is required at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months while on therapy and about 3-6 months after the discontinuation of therapy.
 
 The diagnostic approach should be individualized for the patient and clinical situation.
 For all patients, attempts to monitor vision periodically and/or formal exemptions must be documented under the SHARE program.
-In patients exempted from vision assessment, treatment may continue according to clinical judgment, with appropriate caregiver(s) counseling, and with documentation in the SHARE program of the inability to test vision.
+In adults and cooperative pediatric patients, perimetry is recommended, preferably by automated threshold visual field testing.
+Additional testing may also include electrophysiology (e.g., electroretinography [ERG]), retinal imaging (e.g., optical coherence tomography [OCT]), and/or other methods appropriate for the patient, but this additional testing is not required.
+In patients exempted from vision testing, treatment may continue according to clinical judgment, with appropriate patient counseling and with documentation in the SHARE program of the exemption.
 Because of variability, results from ophthalmic monitoring must be interpreted with caution, and repeat assessment is recommended if results are abnormal or uninterpretable.
+Repeat assessment in the first few weeks of treatment is recommended to establish if, and to what degree, reproducible results can be obtained, and to guide selection of appropriate ongoing monitoring for the patient.
 
-The onset and progression of vision loss from SABRIL is unpredictable, and it may occur or worsen precipitously.
+The onset and progression of vision loss from SABRIL is unpredictable, and it may occur or worsen precipitously between assessments.
 Once detected, vision loss due to SABRIL is not reversible.
 It is expected that even with frequent monitoring, some SABRIL patients will develop severe vision loss.
 Drug discontinuation should be considered, balancing benefit and risk, if visual loss is documented.
 
-## 5.2 Distribution Program for SABRIL (SHARE Program)
+## 5.2 SABRIL SHARE Program
 
-SABRIL is available only under a special restricted distribution program called the SHARE program.
-Under the SHARE program, only prescribers and pharmacies registered with the program are able to prescribe and distribute SABRIL.
-In addition, SABRIL may be dispensed only to patients who are enrolled in and meet all conditions of SHARE.
-Contact the SHARE program at 1-888-45-SHARE.
+SABRIL is available only through a restricted distribution program called the SHARE program, because of the risk of vision loss.
 
-To enroll in SHARE, prescribers must understand the risks of SABRIL and complete the SHARE Prescriber Enrollment and Agreement Form indicating agreement to:
+Notable requirements components of the SHARE Program include the following:
 
-- Enroll all patients in SHARE
-- Review the SABRIL Medication Guide with every caregiver
-- Educate caregiver(s) on the risks of SABRIL, including the risk of vision loss [see BOXED WARNING: VISION LOSS]
-- Arrange for visual field and retinal exam by an expert examiner and review visual evaluation prior to initiation of SABRIL treatment and every 3 months during therapy
-- Remove patients from SABRIL therapy if the patients do not experience a meaningful reduction in seizures
-- Counsel caregiver(s) who fail to comply with the program requirements
-- Remove patients from SABRIL therapy whose caregiver(s) fail to comply with the program requirements after appropriate counseling
+- Prescribers must be certified with the program by enrolling and reviewing educational materials and comply with the following:
+  - Assess vision prior to initiating therapy and then every 3 months during therapy.
+  - Remove patients from SABRIL therapy if the patients do not experience a meaningful reduction in seizures.
+  - The prescriber may, with appropriate documentation and caregiver counseling, exempt certain patients from vision assessment, using the Ophthalmologic Assessment Form, if:
+    - The patient is blind (subsequent Ophthalmologic Assessment Forms do not need to be submitted to the REMS coordinating center)
+    - The patient’s general neurological and/or mental condition permanently precludes the need for visual assessment (subsequent Ophthalmologic Assessment Forms do not need to be submitted to the REMS coordinating center)
+    - The patient’s general neurological condition temporarily precludes the ability to assess visual function.
+      The evaluation, however, may be performed at a later time as clinically appropriate.
+    - The patient’s medical condition prevents visual assessment being performed safely
+    - For other reasons specified by the prescriber
+- Patient/parent/legal guardian must understand the risks and benefits and sign a Patient-Prescriber Agreement.
+- Pharmacies that dispense SABRIL must be certified and agree to comply with the REMS requirements.
+  Certified pharmacies must only dispense SABRIL to patients who are enrolled in the program.
 
-The prescriber may, with appropriate documentation and caregiver counseling, exempt certain patients with vision assessment, using the Ophthalmologic Assessment Form, if:
+## 5.3 Magnetic Resonance Imaging (MRI) Abnormalities in Infants
 
-- The patient is blind (subsequent Ophthalmologic Forms do not need to be submitted to the REMS coordinating center)
-- The patient's general neurological and/or mental condition permanently precludes the need for visual assessment (subsequent Ophthalmologic Forms do not need to be submitted to the REMS coordinating center)
-- The patient's general neurological condition temporarily precludes the ability to assess visual function.
-  The evaluation, however, may be performed at a later time as clinically appropriate.
-- The patient's medical condition prevents visual assessment being performed safely
-- For other reasons specified by the prescriber
-
-## 5.3 Magnetic Resonance Imaging (MRI) Abnormalities
-
-Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated for IS with SABRIL.
-In a retrospective epidemiologic study in infants with IS (N=205), the prevalence of these changes was 21.5% in SABRIL treated patients versus 4.1% in patients treated with other therapies.
+Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin for infantile spasms.
+In a retrospective epidemiologic study in infants with IS (N=205), the prevalence of these changes was 22% in vigabatrin treated patients versus 4% in patients treated with other therapies.
 
 In the study above, in post marketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
 In a few patients, the lesion resolved despite continued use.
 It has been reported that some infants exhibited coincident motor abnormalities, but no causal relationship has been established and the potential for long-term clinical sequelae has not been adequately studied.
 
-Neurotoxicity (including convulsions and hypomyelination) was observed in rats exposed to vigabatrin during late gestation and the neonatal and juvenile periods of development.
-The relationship between these findings and the abnormal MRI findings in infants treated for IS with vigabatrin is unknown [see WARNINGS AND PRECAUTIONS, Neurotoxicity (5.4) and USE IN SPECIFIC POPULATIONS, Pregnancy (8.1)].
+Neurotoxicity (brain histopathology and neurobehavioral abnormalities) was observed in rats exposed to vigabatrin during late gestation and the neonatal and juvenile periods of development.
+The relationship between these findings and the abnormal MRI findings in infants treated with vigabatrin for infantile spasms is unknown [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
 
-The specific pattern of signal changes observed in IS patients was not observed in older children and adult patients treated with vigabatrin for refractory complex partial seizures (CPS).
-In a blinded review of MRI images obtained in prospective clinical trials in patients with refractory CPS 3 years and older (N=656), no difference was observed in anatomic distribution or prevalence of MRI signal changes between vigabatrin treated and placebo patients.
+The specific pattern of signal changes observed in IS patients was not observed in older pediatric and adult patients treated with vigabatrin for refractory CPS.
+In a blinded review of MRI images obtained in prospective clinical trials in patients with refractory CPS 3 years and older (N=656), no difference was observed in anatomic distribution or prevalence of MRI signal changes between vigabatrin treated and placebo treated patients.
+
+For adults treated with SABRIL, routine MRI surveillance is unnecessary as there is no evidence that vigabatrin causes MRI changes in this population.
 
 ## 5.4 Neurotoxicity
 
-Vacuolization, characterized by fluid accumulation and separation of the outer layers of myelin, has been observed in brain white matter tracts in adult and juvenile rats and adult mice, dogs, and possibly monkeys following administration of vigabatrin.
+Vacuolation, characterized by fluid accumulation and separation of the outer layers of myelin, has been observed in brain white matter tracts in adult and juvenile rats and adult mice, dogs, and possibly monkeys following administration of vigabatrin.
 This lesion, referred to as intramyelinic edema (IME), was seen in animals at doses within the human therapeutic range.
 A no-effect dose was not established in rodents or dogs.
-In the rat and dog, vacuolization was reversible following discontinuation of vigabatrin treatment, but, in the rat, pathologic changes consisting of swollen or degenerating axons, mineralization, and gliosis were seen in brain areas in which vacuolation had been previously observed.
-Vacuolization in adult animals was correlated with alterations in MRI and changes in visual and somatosensory evoked potentials (EP).
+In the rat and dog, vacuolation was reversible following discontinuation of vigabatrin treatment, but, in the rat, pathologic changes consisting of swollen or degenerating axons, mineralization, and gliosis were seen in brain areas in which vacuolation had been previously observed.
+Vacuolation in adult animals was correlated with alterations in MRI and changes in visual and somatosensory evoked potentials (EP).
 
-Administration of vigabatrin to rats during the neonatal and juvenile periods of development produced vacuolar changes in the gray matter (areas including the thalamus, midbrain, deep cerebellar nuclei, substantia nigra, hippocampus, and forebrain) which are considered distinct from the IME observed in vigabatrin treated adult animals.
-Decreased myelination, retinal dysplasia, and neurobehavioral abnormalities (convulsions, neuromotor impairment, learning deficits) were also observed following vigabatrin treatment of young rats.
-These effects occurred at doses associated with plasma vigabatrin levels substantially lower than those achieved clinically in infants and children.
+Administration of vigabatrin to rats during the neonatal and juvenile periods of development produced vacuolar changes in the brain gray matter (areas including the thalamus, midbrain, deep cerebellar nuclei, substantia nigra, hippocampus, and forebrain) which are considered distinct from the IME observed in vigabatrin treated adult animals.
+Decreased myelination and evidence of oligodendrocyte injury were additional findings in the brains of vigabatrin-treated rats.
+An increase in apoptosis was seen in some brain regions following vigabatrin exposure during the early postnatal period.
+Long-term neurobehavioral abnormalities (convulsions, neuromotor impairment, learning deficits) were also observed following vigabatrin treatment of young rats.
+These effects in young animals occurred at doses lower than those producing neurotoxicity in adult animals and were associated with plasma vigabatrin levels substantially lower than those achieved clinically in infants and children [see Use in Specific Populations (8.1)].
 
 In a published study, vigabatrin (200, 400 mg/kg/day) induced apoptotic neurodegeneration in the brain of young rats when administered by intraperitoneal injection on postnatal days 5-7.
 
 Administration of vigabatrin to female rats during pregnancy and lactation at doses below those used clinically resulted in hippocampal vacuolation and convulsions in the mature offspring.
 
 Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated for IS with vigabatrin.
-Studies of the effects of vigabatrin on MRI and EP in adult epilepsy patients have demonstrated no clear-cut abnormalities [see WARNINGS AND PRECAUTIONS, MRI Abnormalities (5.3)].
+Studies of the effects of vigabatrin on MRI and EP in adult epilepsy patients have demonstrated no clear-cut abnormalities [see Warnings and Precautions (5.3)].
 
 ## 5.5 Suicidal Behavior and Ideation
 
-The following information is pertinent to the possible use of this dosage form in adults.
 Antiepileptic drugs (AEDs), including SABRIL, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED treated patients was 0.43%, compared to 0.24% among 16,029 placebo treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug treated patients in the trials and none in placebo treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
@@ -98,9 +102,9 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
-Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 4 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 3.
+Table 4.
 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
@@ -116,20 +120,24 @@ Anyone considering prescribing SABRIL or any other AED must balance the risk of 
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregiver(s), and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.6 Withdrawal of Antiepileptic Drugs (AEDs)
 
 As with all AEDs, SABRIL should be withdrawn gradually.
+Patients and caregivers should be told not to suddenly discontinue SABRIL therapy.
 
-Caregivers should be told not to suddenly discontinue SABRIL therapy.
-In a controlled clinical study in patients with IS, vigabatrin was tapered by decreasing the daily dose at a rate of 25-50 mg/kg every 3-4 days [see DOSAGE AND ADMINISTRATION, General Dosing Considerations (2.3), PATIENT COUNSELING INFORMATION, Withdrawal of SABRIL Therapy (17.5)].
+In controlled clinical studies in adults with complex partial seizures, SABRIL was tapered by decreasing the daily dose 1000 mg/day on a weekly basis until discontinued.
+
+In a controlled study in pediatric patients with complex partial seizures, SABRIL was tapered by decreasing the daily dose by one third every week for three weeks.
+
+In a controlled clinical study in patients with infantile spasms, SABRIL was tapered by decreasing the daily dose at a rate of 25-50 mg/kg every 3-4 days [see Dosage and Administration (2.1)].
 
 ## 5.7 Anemia
 
-In North American controlled trials in adults, 5.7% of patients (16/280) receiving SABRIL and 1.6% of patients (3/188) receiving placebo had adverse events of anemia and/or met criteria for potentially clinically important hematology changes involving hemoglobin, hematocrit, and/or RBC indices.
-Across U.S. controlled trials, there were mean decreases in hemoglobin of about 3% and 0% in SABRIL and placebo-treated patients, respectively, and in hematocrit of about 1% in Sabril treated patients compared to a gain of about 1% in patients treated with placebo.
+In North American controlled trials in adults, 6% of patients (16/280) receiving SABRIL and 2% of patients (3/188) receiving placebo had adverse events of anemia and/or met criteria for potentially clinically important hematology changes involving hemoglobin, hematocrit, and/or RBC indices.
+Across U.S. controlled trials, there were mean decreases in hemoglobin of about 3% and 0% in SABRIL and placebo treated patients, respectively, and a mean decrease in hematocrit of about 1% in SABRIL treated patients compared to a mean gain of about 1% in patients treated with placebo.
 
 In controlled and open label epilepsy trials in adults and pediatric patients, 3 SABRIL patients (0.06%, 3/4855) discontinued for anemia and 2 SABRIL patients experienced unexplained declines in hemoglobin to below 8 g/dL and/or hematocrit below 24%.
 
@@ -142,34 +150,39 @@ Pooled data from two SABRIL controlled trials in adults demonstrated that 24% (5
 In those same studies, 28% of SABRIL patients experienced fatigue compared to 15% (20/135) of placebo patients.
 Almost 1% of SABRIL patients discontinued from clinical trials for somnolence and almost 1% discontinued for fatigue.
 
+Pooled data from three SABRIL controlled trials in pediatric patients demonstrated that 6% (10/165) of SABRIL patients experienced somnolence compared to 5% (5/104) of placebo patients.
+In those same studies, 10% (17/165) of SABRIL patients experienced fatigue compared to 7% (7/104) of placebo patients.
+No SABRIL patients discontinued from clinical trials due to somnolence or fatigue.
+
 ## 5.9 Peripheral Neuropathy
 
-SABRIL has been shown to cause symptoms of peripheral neuropathy in adults.
-The clinical trials in pediatric patients were not adequately designed to assess whether or not these symptoms occur in the pediatric population.
-
-In a pool of North American controlled and uncontrolled epilepsy studies, 4.2% (19/457) of SABRIL treated patients developed signs and/or symptoms of peripheral neuropathy.
-In the subset of North American placebo controlled epilepsy trials, 1.4% (4/280) of SABRIL treated patients and no (0/188) placebo patients developed signs and/or symptoms of peripheral neuropathy.
+SABRIL causes symptoms of peripheral neuropathy in adults.
+Pediatric clinical trials were not designed to assess symptoms of peripheral neuropathy, but observed incidence of symptoms based on pooled data from controlled pediatric studies appeared similar for pediatric patients on vigabatrin and placebo.
+In a pool of North American controlled and uncontrolled epilepsy studies, 4.2% (19/457) of SABRIL patients developed signs and/or symptoms of peripheral neuropathy.
+In the subset of North American placebo-controlled epilepsy trials, 1.4% (4/280) of SABRIL treated patients and no (0/188) placebo patients developed signs and/or symptoms of peripheral neuropathy.
 Initial manifestations of peripheral neuropathy in these trials included, in some combination, symptoms of numbness or tingling in the toes or feet, signs of reduced distal lower limb vibration or position sensation, or progressive loss of reflexes, starting at the ankles.
 Clinical studies in the development program were not designed to investigate peripheral neuropathy systematically and did not include nerve conduction studies, quantitative sensory testing, or skin or nerve biopsy.
 There is insufficient evidence to determine if development of these signs and symptoms were related to duration of SABRIL treatment, cumulative dose, or if the findings of peripheral neuropathy were completely reversible upon discontinuation of SABRIL.
 
 ## 5.10 Weight Gain
 
-SABRIL has been shown to cause weight gain in adults.
-The clinical trials in pediatric patients were not adequately designed to assess whether or not weight gain occurs in the pediatric population.
+SABRIL causes weight gain in adult and pediatric patients.
 
-Data pooled from randomized controlled trials found that 17% (77/443) of SABRIL patients gained ≥ 7% of baseline body weight versus 8% (22/275) of placebo patients.
+Data pooled from randomized controlled trials in adults found that 17% (77/443) of SABRIL patients versus 8% (22/275) of placebo patients gained ≥7% of baseline body weight.
 In these same trials, the mean weight change among SABRIL patients was 3.5 kg compared to 1.6 kg for placebo patients.
+
+Data pooled from randomized controlled trials in pediatric patients with refractory complex partial seizures found that 47% (77/163) of SABRIL patients versus 19% (19/102) of placebo patients gained ≥7% of baseline body weight.
+
 In all epilepsy trials, 0.6% (31/4855) of SABRIL patients discontinued for weight gain.
 The long term effects of SABRIL related weight gain are not known.
 Weight gain was not related to the occurrence of edema.
 
 ## 5.11 Edema
 
-SABRIL has been shown to cause edema in adults.
-The clinical trials in pediatric patients were not adequately designed to assess whether or not edema occurs in the pediatric population.
+SABRIL causes edema in adults.
+Pediatric clinical trials were not designed to assess edema, but observed incidence of edema based pooled data from controlled pediatric studies appeared similar for pediatric patients on vigabatrin and placebo.
 
 Pooled data from controlled trials demonstrated increased risk among SABRIL patients compared to placebo patients for peripheral edema (SABRIL 2%, placebo 1%), and edema (SABRIL 1%, placebo 0%).
 In these studies, one SABRIL and no placebo patients discontinued for an edema related AE.
-There was no apparent association between edema and cardiovascular adverse events such as hypertension or congestive heart failure.
+In adults, there was no apparent association between edema and cardiovascular adverse events such as hypertension or congestive heart failure.
 Edema was not associated with laboratory changes suggestive of deterioration in renal or hepatic function.
