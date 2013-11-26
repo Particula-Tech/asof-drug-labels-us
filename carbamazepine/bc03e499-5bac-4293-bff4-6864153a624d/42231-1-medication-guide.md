@@ -1,4 +1,4 @@
-Medication Guide CARBATROL (CAR-BA-TROL) (carbamazepine) Extended-Release Capsules
+Medication Guide CARBATROL® (CAR-BA-TROL) (carbamazepine) Extended-Release Capsules
 
 Read this Medication Guide before you start taking CARBATROL and each time you get a refill.
 There may be new information.
@@ -229,4 +229,4 @@ Shire US Inc.
 
 Wayne, PA 19087
 
-Issued [03/2013]
+Issued [08/2013]

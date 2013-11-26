@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Carbatrol (carbamazepine) extended-release capsules is supplied in three dosage strengths.
+Carbatrol® (carbamazepine) extended-release capsules is supplied in three dosage strengths.
 
 100 mg-Two-piece hard gelatin capsule (bluish green opaque body and cap) printed with the Shire logo in white ink.
 
@@ -18,6 +18,6 @@ Supplied in bottles of 120............................NDC 54092-173-12
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP controlled room temperature].
 PROTECT FROM LIGHT AND MOISTURE.
 
-Manufactured for: Shire US Inc. 725 Chesterbrook Blvd, Wayne PA 19087 1-800-828-2088, Made in U.S.A. © 2013 Shire US Inc. Rev 03/2013
+Manufactured for: Shire US Inc. 725 Chesterbrook Blvd, Wayne PA 19087 1-800-828-2088, © 2013 Shire US Inc. Rev 08/2013
 
 *Registered in the US Patent and Trade Office

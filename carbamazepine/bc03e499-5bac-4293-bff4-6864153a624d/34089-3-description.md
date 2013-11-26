@@ -5,8 +5,8 @@ Carbamazepine is a white to off-white powder, practically insoluble in water and
 Its molecular weight is 236.27.
 Its chemical name is 5H-dibenz[b,f]azepine-5-carboxamide, and its structural formula is:
 
-Carbatrol is a multi-component capsule formulation consisting of three different types of beads: immediate-release beads, extended-release beads, and enteric-release beads.
-The three bead types are combined in a specific ratio to provide twice daily dosing of Carbatrol.
+Carbatrol® is a multi-component capsule formulation consisting of three different types of beads: immediate-release beads, extended-release beads, and enteric-release beads.
+The three bead types are combined in a specific ratio to provide twice daily dosing of Carbatrol®.
 
 Inactive ingredients: citric acid, colloidal silicon dioxide, lactose monohydrate, microcrystalline cellulose, polyethylene glycol, povidone, sodium lauryl sulfate, talc, triethyl citrate and other ingredients.
 
