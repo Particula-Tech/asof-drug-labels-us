@@ -1,33 +1,53 @@
 # PRINCIPAL DISPLAY PANEL - Five Million Unit Vial Label
 
+5 FIVE MILLION UNITS
+
 NDC 0049-0520-83
 
-Buffered Rx only
+Buffered Pfizerpen® (penicillin G potassium) For Injection
+
+Rx only
+
+Pfizer Injectables
+
+# PRINCIPAL DISPLAY PANEL - Five Million Unit Vial Carton
+
+10 Vials Buffered
+
+NDC 0049-0520-83 Rx only
 
 Pfizerpen® (penicillin G potassium)
 
 For Injection
 
-FIVE MILLION UNITS
+Pfizer Injectables
 
-5
-
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+5 FIVE MILLION UNITS
 
 # PRINCIPAL DISPLAY PANEL - Twenty Million Unit Vial Label
 
-Rx only
+20 TWENTY MILLION UNITS
 
 NDC 0049-0530-28
+
+Buffered Pfizerpen® (penicillin G potassium) For Injection
+
+For Intravenous Infusion Only
+
+Rx only
+
+Pfizer Injectables
+
+# PRINCIPAL DISPLAY PANEL - Twenty Million Unit Vial Carton
+
+20 TWENTY MILLION UNITS
+
+NDC 0049-0530-28 Rx only
 
 Buffered
 
 Pfizerpen® (penicillin G potassium)
 
-For Injection
+For Injection For Intravenous Infusion Only
 
-TWENTY MILLION UNITS 20
-
-FOR INTRAVENOUS INFUSION ONLY
-
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+Pfizer Injectables
