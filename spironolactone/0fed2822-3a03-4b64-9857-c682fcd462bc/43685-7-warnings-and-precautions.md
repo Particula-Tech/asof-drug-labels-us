@@ -5,6 +5,19 @@
 Potassium supplementation, either in the form of medication or as a diet rich in potassium, should not ordinarily be given in association with ALDACTONE therapy.
 Excessive potassium intake may cause hyperkalemia in patients receiving ALDACTONE (see Precautions: General).
 
+Concomitant administration of ALDACTONE with the following drugs or potassium sources may lead to severe hyperkalemia:
+
+- other potassium-sparing diuretics
+- ACE inhibitors
+- angiotensin II antagonists
+- aldosterone blockers
+- non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin
+- heparin and low molecular weight heparin
+- other drugs known to cause hyperkalemia
+- potassium supplements
+- diet rich in potassium
+- salt substitutes containing potassium
+
 ALDACTONE should not be administered concurrently with other potassium-sparing diuretics.
 ALDACTONE, when used with ACE inhibitors or indomethacin, even in the presence of a diuretic, has been associated with severe hyperkalemia.
 Extreme caution should be exercised when ALDACTONE is given concomitantly with these drugs.
@@ -35,8 +48,6 @@ Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of ca
 Hyperkalemia may occur in patients with impaired renal function or excessive potassium intake and can cause cardiac irregularities, which may be fatal.
 Consequently, no potassium supplement should ordinarily be given with ALDACTONE.
 
-Concomitant administration of potassium-sparing diuretics and ACE inhibitors or nonsteroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin, has been associated with severe hyperkalemia.
-
 If hyperkalemia is suspected (warning signs include paresthesia, muscle weakness, fatigue, flaccid paralysis of the extremities, bradycardia, and shock), an electrocardiogram (ECG) should be obtained.
 However, it is important to monitor serum potassium levels because mild hyperkalemia may not be associated with ECG changes.
 
@@ -58,6 +69,9 @@ Gynecomastia may develop in association with the use of ALDACTONE; physicians sh
 The development of gynecomastia appears to be related to both dosage level and duration of therapy and is normally reversible when ALDACTONE is discontinued.
 In rare instances, some breast enlargement may persist when ALDACTONE is discontinued.
 
+Somnolence and dizziness have been reported to occur in some patients.
+Caution is advised when driving or operating machinery until the response to initial treatment has been determined.
+
 ## Information for patients
 
 Patients who receive ALDACTONE should be advised to avoid potassium supplements and foods containing high levels of potassium, including salt substitutes.
@@ -71,6 +85,10 @@ Periodic determination of serum electrolytes to detect possible electrolyte imba
 ### ACE inhibitors
 
 Concomitant administration of ACE inhibitors with potassium-sparing diuretics has been associated with severe hyperkalemia.
+
+### Angiotensin II antagonists, aldosterone blockers, heparin, low molecular weight heparin, and other drugs known to cause hyperkalemia
+
+Concomitant administration may lead to severe hyperkalemia.
 
 ### Alcohol, barbiturates, or narcotics
 
@@ -105,6 +123,10 @@ Therefore, when ALDACTONE and NSAIDs are used concomitantly, the patient should 
 ALDACTONE has been shown to increase the half-life of digoxin.
 This may result in increased serum digoxin levels and subsequent digitalis toxicity.
 It may be necessary to reduce the maintenance and digitalization doses when ALDACTONE is administered, and the patient should be carefully monitored to avoid over- or under-digitalization.
+
+### Cholestyramine
+
+Hyperkalemic metabolic acidosis has been reported in patients given ALDACTONE concurrently with cholestyramine.
 
 ## Drug/Laboratory test interactions
 

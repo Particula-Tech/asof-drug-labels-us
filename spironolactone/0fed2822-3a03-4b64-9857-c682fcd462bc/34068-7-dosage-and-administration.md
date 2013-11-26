@@ -36,7 +36,7 @@ Subsequently, dosage should be adjusted according to the response of the patient
 
 ALDACTONE in a dosage ranging from 25 mg to 100 mg daily is useful in treating a diuretic-induced hypokalemia, when oral potassium supplements or other potassium-sparing regimens are considered inappropriate.
 
-## Severe heart failure (NYHA class III – IV)
+## Severe heart failure in conjunction with standard therapy (NYHA class III – IV)
 
 Treatment should be initiated with ALDACTONE 25 mg once daily if the patient's serum potassium is ≤5.0 mEq/L and the patient's serum creatinine is ≤ 2.5 mg/dL.
 Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated.
