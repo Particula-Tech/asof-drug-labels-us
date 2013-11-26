@@ -1,8 +1,6 @@
-NDC 0023-3670-60
+NDC 0023-3670-90
 
-Aczone®
-
-(dapsone) gel, 5%
+Aczone® (dapsone) gel, 5%
 
 FOR TOPICAL USE ONLY
 
@@ -10,4 +8,4 @@ ALLERGAN®
 
 Rx only
 
-60 g
+90 g
