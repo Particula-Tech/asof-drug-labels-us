@@ -74,14 +74,14 @@ Before taking NORVIR, tell your doctor if you:
 - have high blood sugar (diabetes).
 - have bleeding problems or hemophilia.
 - are pregnant or plan to become pregnant.
-  It is not known if NORVIR can harm your unborn baby.
-  Pregnancy Registry: You and your doctor will need to decide if taking NORVIR is right for you.
-  If you take NORVIR while you are pregnant, talk to your doctor about how you can take part in the Antiretroviral Pregnancy Registry.
-  The purpose of the registry is to follow the health of you and your baby.
+  It is not known if NORVIR can harm your unborn baby.Pregnancy Registry: There is a pregnancy registry for women who take antiviral medicines during pregnancy.
+  The purpose of the registry is to collect information about the health of you and your baby.
+  Talk to your doctor about how you can take part in this registry.
 - are breastfeeding.
-  Do not breastfeed.
-  We do not know if NORVIR can be passed to the baby through your breast milk and whether it could harm the baby.
-  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+  Do not breastfeed if you take NORVIR
+  - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
+  - It is not known if NORVIR passes into your breast milk.
+  - Talk to your doctor about the best way to feed your baby.
 
 Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Taking NORVIR and certain other medicines may affect each other causing serious side effects.
@@ -92,7 +92,7 @@ Especially tell your doctor if you take:
 - medicine to treat HIV
 - estrogen-based contraceptives (birth control).
   NORVIR might reduce the effectiveness of estrogen-based contraceptives.
-  You must take additional precautions for birth control such as a condom
+  You must take additional precautions for birth control such as a condom.
 - medicine for pain such as tramadol (Ryzolt, Ultracet, Conzip, Ultram), propoxyphene, or meperidine (Demerol)
 - medicine to treat alcohol abuse such as disulfiram (Antabuse)
 - medicine for your heart such as disopyramide (Norpace), lidocaine (Xylocaine Viscous), mexiletine, digoxin (Lanoxin), nifedipine (Procardia, Adalat, Afeditab CR), diltiazem (Cardizem, Dilacor, Cartia, Diltzac, Dilt, Taztia, Tiazac) or verapamil (Calan, Covera, Isoptin, Tarka, Verelan)
@@ -169,7 +169,7 @@ NORVIR can cause serious side effects including:
   Tell your doctor right away if you have signs or symptoms of pancreatitis such as:
   - nausea
   - vomiting
-  - stomach (abdominal) pain
+  - stomach (abdomen) pain
 - Allergic Reactions.
   Sometimes these allergic reactions can become severe and require treatment in a hospital.
   You should call your doctor right away if you develop a rash.
@@ -210,16 +210,13 @@ NORVIR can cause serious side effects including:
 
 The most common side effects of NORVIR include:
 
-- feeling weak or tired
+- diarrhea
 - nausea
 - vomiting
-- diarrhea
-- loss of appetite
-- abdominal pain
-- changes in taste
+- upper and lower stomach (abdomen) pain
 - tingling feeling or numbness in hands or feet or around the lips
-- headache
-- dizziness
+- rash
+- feeling weak or tired
 
 NORVIR liquid contains a large amount of alcohol.
 If a toddler or young child accidentally drinks more than the recommended dose of NORVIR, it could make him/her sick from too much alcohol.
@@ -231,7 +228,7 @@ For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How do I Store NORVIR?
+How should I store NORVIR?
 
 - Store NORVIR Oral Solution at room temperature between 68°F to 77°F (20°C to 25°C).
 - Store NORVIR tablets below 30°C (86°F).
@@ -261,13 +258,19 @@ What are the ingredients in NORVIR?
 
 Active ingredient: ritonavir
 
-Inactive ingredients: NORVIR Tablet: copovidone, anhydrous dibasic calcium phosphate, sorbitan monolaurate, colloidal silicon dioxide, and sodium stearyl fumarate.
+Inactive ingredients:
+
+NORVIR Tablet: copovidone, anhydrous dibasic calcium phosphate, sorbitan monolaurate, colloidal silicon dioxide, and sodium stearyl fumarate.
 The film coating contains: hypromellose, titanium dioxide, polyethylene glycol 400, hydroxypropyl cellulose, talc, polyethylene glycol 3350, colloidal silicon dioxide, and polysorbate 80.
+
 NORVIR Oral Solution: ethanol, water, polyoxyl 35 castor oil, propylene glycol, anhydrous citric acid to adjust pH, saccharin sodium, peppermint oil, creamy caramel flavoring, and FD&C Yellow No. 6.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-NORVIR tablets and oral solution are manufactured by: AbbVie Inc. North Chicago, IL 60064 USA
+NORVIR tablets and oral solution are manufactured by:
+
+AbbVie Inc. North Chicago, IL 60064 USA
 
 * The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
-03-A728 January 2013
+03-A842 November 2013
