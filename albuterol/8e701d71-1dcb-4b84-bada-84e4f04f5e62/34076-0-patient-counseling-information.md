@@ -63,3 +63,23 @@ In general, the technique for administering PROAIR HFA Inhalation Aerosol to chi
 Children should use PROAIR HFA Inhalation Aerosol under adult supervision, as instructed by the patient's physician.
 
 ## 17.9 FDA-Approved Patient Labeling
+
+See tear-off illustrated Information for the Patient leaflet.
+
+Mktd by: Teva Respiratory, LLC Horsham, PA 19044
+
+Mfd by: IVAX Pharmaceuticals Ireland Waterford, Ireland
+
+Copyright ©2012, Teva Respiratory, LLC
+
+All rights reserved.
+
+PROAIR® is a registered trademark of Teva Respiratory, LLC
+
+Manufactured In Ireland
+
+PE 2557 05/12
+
+Attention Pharmacist:
+
+Detach Patient's Instructions for use from package insert and dispense with the product.
