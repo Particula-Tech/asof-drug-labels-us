@@ -4,6 +4,20 @@
 
 Potassium supplementation, either in the form of medication or as a diet rich in potassium, should not ordinarily be given in association with spironolactone therapy.
 Excessive potassium intake may cause hyperkalemia in patients receiving spironolactone (see PRECAUTIONS: General).
+
+Concomitant administration of spironolactone with the following drugs or potassium sources may lead to severe hyperkalemia:
+
+- •other potassium-sparing diuretics
+- •ACE inhibitors
+- •angiotensin II antagonists
+- •aldosterone blockers
+- •non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin
+- •heparin and low molecular weight heparin
+- •other drugs known to cause hyperkalemia
+- •potassium supplements
+- •diet rich in potassium
+- •salt substitutes containing potassium
+
 Spironolactone should not be administered concurrently with other potassium-sparing diuretics.
 Spironolactone, when used with ACE inhibitors or indomethacin, even in the presence of a diuretic, has been associated with severe hyperkalemia.
 Extreme caution should be exercised when spironolactone is given concomitantly with these drugs.
@@ -34,8 +48,6 @@ Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of ca
 Hyperkalemia may occur in patients with impaired renal function or excessive potassium intake and can cause cardiac irregularities, which may be fatal.
 Consequently, no potassium supplement should ordinarily be given with spironolactone.
 
-Concomitant administration of potassium-sparing diuretics and ACE inhibitors or non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin, has been associated with severe hyperkalemia.
-
 If hyperkalemia is suspected (warning signs include paresthesia, muscle weakness, fatigue, flaccid paralysis of the extremities, bradycardia and shock), an electrocardiogram (ECG) should be obtained.
 However, it is important to monitor serum potassium levels because mild hyperkalemia may not be associated with ECG changes.
 
@@ -57,6 +69,9 @@ Gynecomastia may develop in association with the use of spironolactone; physicia
 The development of gynecomastia appears to be related to both dosage level and duration of therapy and is normally reversible when spironolactone is discontinued.
 In rare instances, some breast enlargement may persist when spironolactone is discontinued.
 
+Somnolence and dizziness have been reported to occur in some patients.
+Caution is advised when driving or operating machinery until the response to initial treatment has been determined.
+
 ## Information for Patients
 
 Patients who receive spironolactone should be advised to avoid potassium supplements and foods containing high levels of potassium, including salt substitutes.
@@ -70,6 +85,10 @@ Periodic determination of serum electrolytes to detect possible electrolyte imba
 ### ACE Inhibitors
 
 Concomitant administration of ACE inhibitors with potassium-sparing diuretics has been associated with severe hyperkalemia.
+
+### Angiotensin II Antagonists, Aldosterone Blockers, Heparin, Low Molecular Weight Heparin, and Other Drugs Known to Cause Hyperkalemia
+
+Concomitant administration may lead to severe hyperkalemia.
 
 ### Alcohol, Barbiturates or Narcotics
 
@@ -103,7 +122,11 @@ Therefore, when spironolactone and NSAIDs are used concomitantly, the patient sh
 
 Spironolactone has been shown to increase the half-life of digoxin.
 This may result in increased serum digoxin levels and subsequent digitalis toxicity.
-It may be necessary to reduce the maintenance and digitalization doses when spironolactone is administered, and the patient should be carefully monitored to avoid over- or under digitalization.
+It may be necessary to reduce the maintenance and digitalization doses when spironolactone is administered, and the patient should be carefully monitored to avoid over or under digitalization.
+
+### Cholestyramine
+
+Hyperkalemic metabolic acidosis has been reported in patients given spironolactone concurrently with cholestyramine.
 
 ## Drug/Laboratory Test Interactions
 

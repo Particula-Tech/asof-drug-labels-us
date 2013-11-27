@@ -31,7 +31,7 @@ The survival curves by treatment group are shown in Figure 1.
 Spironolactone reduced the risk of death by 30% compared to placebo (p < 0.001; 95% confidence interval 18% to 40%).
 Spironolactone reduced the risk of cardiac death, primarily sudden death and death from progressive heart failure by 31% compared to placebo (p < 0.001; 95% confidence interval 18% to 42%).
 
-Spironolactone also reduced the risk of hospitalization for cardiac causes (defined as worsening heart failure, angina, ventricular arrhythmias or myocardial infarction) by 30% (p < 0.001 95% confidence interval 18% to 41%).
+Spironolactone also reduced the risk of hospitalization for cardiac causes (defined as worsening heart failure, angina, ventricular arrhythmias or myocardial infarction) by 30% (p < 0.001; 95% confidence interval 18% to 41%).
 Changes in NYHA class were more favorable with spironolactone: In the spironolactone group, NYHA class at the end of the study improved in 41% of patients and worsened in 38% compared to improved in 33% and worsened in 48% in the placebo group (p < 0.001).
 
 Mortality hazard ratios for some subgroups are shown in Figure 2.

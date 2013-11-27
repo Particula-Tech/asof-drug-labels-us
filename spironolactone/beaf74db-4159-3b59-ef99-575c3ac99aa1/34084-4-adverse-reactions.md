@@ -4,19 +4,21 @@ The following adverse reactions have been reported and, within each category (bo
 
 Digestive: Gastric bleeding, ulceration, gastritis, diarrhea and cramping, nausea, vomiting.
 
-Endocrine: Gynecomastia (see PRECAUTIONS), inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding.
+Reproductive: Gynecomastia (see PRECAUTIONS), inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding, breast pain.
 Carcinoma of the breast has been reported in patients taking spironolactone but a cause and effect relationship has not been established.
 
-Hematologic: Agranulocytosis.
+Hematologic: Leukopenia (including agranulocytosis), thrombocytopenia.
 
 Hypersensitivity: Fever, urticaria, maculopapular or erythematous cutaneous eruptions, anaphylactic reactions, vasculitis.
 
-Metabolism: Hyperkalemia (see WARNINGS and PRECAUTIONS).
+Metabolism: Hyperkalemia, electrolyte disturbances (see WARNINGS and PRECAUTIONS).
 
-Nervous System/Psychiatric: Mental confusion, ataxia, headache, drowsiness, lethargy.
+Musculoskeletal: Leg cramps.
+
+Nervous System/Psychiatric: Lethargy, mental confusion, ataxia, dizziness, headache, drowsiness.
 
 Liver/Biliary: A very few cases of mixed cholestatic/hepatocellular toxicity, with one reported fatality, have been reported with spironolactone administration.
 
 Renal: Renal dysfunction (including renal failure).
 
-Skin: Stevens-Johnson Syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms (DRESS).
+Skin: Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug rash with eosinophilia and systemic symptoms (DRESS), alopecia, pruritis.

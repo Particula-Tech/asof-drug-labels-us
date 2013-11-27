@@ -12,7 +12,7 @@ Correction of hypokalemia and of hypertension provides presumptive evidence for 
 ### Short Test
 
 Spironolactone tablets are administered at a daily dosage of 400 mg for 4 days.
-If serum potassium increases during spironolactone tablet administration but drops when spironolactone tablet is discontinued, a presumptive diagnosis of primary hyperaldosteronism should be considered.
+If serum potassium increases during spironolactone tablet administration but drops when spironolactone tablets are discontinued, a presumptive diagnosis of primary hyperaldosteronism should be considered.
 
 After the diagnosis of hyperaldosteronism has been established by more definitive testing procedures, spironolactone tablets may be administered in doses of 100 mg to 400 mg daily in preparation for surgery.
 For patients who are considered unsuitable for surgery, spironolactone tablets may be employed for long-term maintenance therapy at the lowest effective dosage determined for the individual patient.
@@ -36,7 +36,7 @@ Subsequently, dosage should be adjusted according to the response of the patient
 
 Spironolactone tablets in a dosage ranging from 25 mg to 100 mg daily is useful in treating a diuretic-induced hypokalemia, when oral potassium supplements or other potassium-sparing regimens are considered inappropriate.
 
-## Severe Heart Failure (NYHA Class III to IV)
+## Severe Heart Failure in Conjunction with Standard Therapy (NYHA Class III to IV)
 
 Treatment should be initiated with spironolactone tablets 25 mg once daily if the patient's serum potassium is ≤ 5 mEq/L and the patient's serum creatinine is ≤ 2.5 mg/dL.
 Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated.
