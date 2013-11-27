@@ -11,7 +11,7 @@ Dobutamine in 5% Dextrose Injection, USP is oxygen sensitive.
 Dobutamine Hydrochloride, USP is chemically designated (±)-4-[2-[[3-(p-hydroxyphenyl)-1-methylpropyl]amino]ethyl]-pyrocatechol hydrochloride.
 It is a synthetic catecholamine.
 
-Dextrose, USP is chemically designated D-glucose monohydrate (C6H12O6• H2O), a hexose sugar freely soluble in water.
+Dextrose, USP is chemically designated D-glucose monohydrate (C6H12O6 • H2O), a hexose sugar freely soluble in water.
 It has the following structural formula:
 
 Water for Injection, USP is chemically designated H2O.

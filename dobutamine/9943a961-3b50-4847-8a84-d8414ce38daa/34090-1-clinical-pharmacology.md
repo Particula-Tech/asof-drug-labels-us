@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Dobutamine is a direct-acting inotropic agent whose primary activity results from stimulation of the β-receptors of the heart while producing comparatively mild chronotropic, hypertensive, arrhythmogenic, and vasodilative effects.
+Dobutamine is a direct-acting inotropic agent whose primary activity results from stimulation of the β‑receptors of the heart while producing comparatively mild chronotropic, hypertensive, arrhythmogenic, and vasodilative effects.
 It does not cause the release of endogenous norepinephrine, as does dopamine.
 In animal studies, dobutamine produces less increase in heart rate and less decrease in peripheral vascular resistance for a given inotropic effect than does isoproterenol.
 
@@ -16,9 +16,9 @@ Occasionally, minimum vasoconstriction has been observed.
 Most clinical experience with dobutamine is short-term, not more than several hours in duration.
 In the limited number of patients who were studied for 24, 48, and 72 hours, a persistent increase in cardiac output occurred in some, whereas output returned toward baseline values in others.
 
-The onset of action of Dobutamine in 5% Dextrose Injection, USP is within 1 to 2 minutes; however, as much as 10 minutes may be required to obtain the peak effect of a particular infusion rate.
+The onset of action of Dobutamine in 5% Dextrose Injection, USP is within one to two minutes; however, as much as ten minutes may be required to obtain the peak effect of a particular infusion rate.
 
-The plasma half-life of dobutamine in humans is 2 minutes.
+The plasma half-life of dobutamine in humans is two minutes.
 The principal routes of metabolism are methylation of the catechol and conjugation.
 In human urine, the major excretion products are the conjugates of dobutamine and 3-O-methyl dobutamine.
 The 3-O-methyl derivative of dobutamine is inactive.
@@ -26,5 +26,7 @@ The 3-O-methyl derivative of dobutamine is inactive.
 Alteration of synaptic concentrations of catecholamines with either reserpine or tricyclic antidepressants does not alter the actions of dobutamine in animals, which indicates that the actions of dobutamine are not dependent on presynaptic mechanisms.
 
 The effective infusion rate of dobutamine varies widely from patient to patient, and titration is always necessary (see DOSAGE AND ADMINISTRATION).
-At least in pediatric patients, dobutamine-induced increases in cardiac output and systemic pressure are generally seen, in any given patient, at lower infusion rates than those that cause substantial tachycardia.
-(See Pediatric Use under PRECAUTIONS.)
+At least in pediatric patients, dobutamine-induced increases in cardiac output and systemic pressure are generally seen, in any given patient, at lower infusion rates than those that cause substantial tachycardia (See Pediatric Use under PRECAUTIONS).
+
+Dextrose provides a source of calories.
+Dextrose is readily metabolized, may decrease losses of body protein and nitrogen, promotes glycogen disposition and decreases or prevents ketosis if sufficient doses are provided.

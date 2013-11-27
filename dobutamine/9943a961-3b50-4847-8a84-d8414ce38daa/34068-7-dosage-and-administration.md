@@ -1,62 +1,87 @@
 # DOSAGE AND ADMINISTRATION
 
-Do NOT add sodium bicarbonate or other alkalinizing substance, since dobutamine is inactivated in alkaline solution.
-Dobutamine in 5% Dextrose Injection, USP is administered only intravenously via a suitable catheter or needle infusion.
-The less concentrated 0.5 mg/mL solution may be preferred when fluid expansion is not a problem.
-The more concentrated 1 mg/mL, 2 mg/mL, or 4 mg/mL solutions may be preferred in patients with fluid retention or when a slower rate of infusion is desired.
+Recommended Dosage
 
-Recommended Dosage: Infusion of dobutamine should be started at a low rate (0.5 to 1.0 mcg/kg/min) and titrated at intervals of a few minutes, guided by the patient’s response, including systemic blood pressure, urine flow, frequency of ectopic activity, heart rate, and (whenever possible) measurements of cardiac output, central venous pressure, and/or pulmonary capillary wedge pressure.
-In reported trials, the optimal infusion rates have varied from patient to patient, usually 2 to 20 mcg/kg/min but sometimes slightly outside of this range.
-On rare occasions, infusion rates up to 40 mcg/kg/min have been required to obtain the desired effect.
-For the infusion rates necessary to achieve various delivery rates (mcg/kg/min) for patients of different weights, refer to the Dobutamine Infusion Rate (mL/hr) charts below.
+Dobutamine in 5% Dextrose Injection, USP is administered intravenously through a suitable intravenous catheter or needle.
+A calibrated electronic infusion device is recommended for controlling the rate of flow in mL/hour or drops/minute.
 
-Rate of Administration: When administering dobutamine (or any potent medication) by continuous intravenous infusion, it is advisable to use a precision volume control I.V. set.
+Infusion of dobutamine should be started at a low rate (0.5-1.0 µg/kg/min) and titrated at intervals of a few minutes, guided by the patient’s response, including systemic blood pressure, urine flow, frequency of ectopic activity, heart rate, and (whenever possible) measurements of cardiac output, central venous pressure, and/or pulmonary capillary wedge pressure.
+In reported trials, the optimal infusion rates have varied from patient to patient, usually 2-20 µg/kg/min but sometimes slightly outside of this range.
+On rare occasions, infusion rates up to 40 µg/kg/min have been required to obtain the desired effect.
 
-Each patient must be individually titrated to the desired hemodynamic response to dobutamine.
-The rate of administration and the duration of therapy should be adjusted according to the patient's response as determined by heart rate, presence of ectopic activity, blood pressure, urine flow, and, whenever possible, measurement of central venous or pulmonary wedge pressure and cardiac output.
+Rates of infusion in mL/hour for dobutamine hydrochloride concentrations of 500, 1,000, 2,000 and 4,000 mg/L are in Table 2.
 
-As with all potent intravenously administered drugs, care should be taken to control the rate of infusion so as to avoid inadvertent administration of a bolus of the drug.
+This container system may be inappropriate for the dosage requirements of pediatric patients under 30 kg.
+Other dosage forms may be more appropriate.
 
-Parenteral drug products should be visually inspected for particulate matter and discoloration prior to administration, whenever solution and container permit (see PRECAUTIONS).
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
-Dobutamine Infusion Rate (mL/hr) Chart Using 1000 mcg/mL Concentration
+Dobutamine in 5% Dextrose Injection, USP solutions may exhibit a pink color that, if present, will increase with time.
+This color change is due to slight oxidation of the drug, but there is no significant loss of potency.
 
-|  | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Infusion rate (mcg/kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 | 120 |
-| 2.5 | 0.75 | 1.5 | 3 | 4.5 | 6 | 7.5 | 9 | 10.5 | 12 | 13.5 | 15 | 16.5 | 18 |
-| 5 | 1.5 | 3 | 6 | 9 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 | 36 |
-| 7.5 | 2.25 | 4.5 | 9 | 13.5 | 18 | 22.5 | 27 | 31.5 | 36 | 40.5 | 45 | 49.5 | 54 |
-| 10 | 3 | 6 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 66 | 72 |
-| 12.5 | 3.75 | 7.5 | 15 | 22.5 | 30 | 37.5 | 45 | 52.5 | 60 | 67.5 | 75 | 82.5 | 90 |
-| 15 | 4.5 | 9 | 18 | 27 | 36 | 45 | 54 | 63 | 72 | 81 | 90 | 99 | 108 |
-| 17.5 | 5.25 | 10.5 | 21 | 31.5 | 42 | 52.5 | 63 | 73.5 | 84 | 94.5 | 105 | 115.5 | 126 |
+The rate of administration and the duration of therapy should be adjusted according to the patient’s response, as determined by heart rate, presence of ectopic activity, blood pressure, urine flow, and, whenever possible, measurement of central venous or pulmonary wedge pressure and cardiac output.
 
-Dobutamine Infusion Rate (mL/hr) Chart Using 2000 mcg/mL Concentration
+Do not add supplementary medications to Dobutamine in 5% Dextrose Injection, USP.
+Do not administer Dobutamine in 5% Dextrose Injection, USP simultaneously with solutions containing sodium bicarbonate or strong alkaline solutions.
 
-|  | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Infusion rate (mcg/kg/min) | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 | 120 |
-| 2.5 | 2.25 | 3 | 3.75 | 4.5 | 5.25 | 6 | 6.75 | 7.5 | 8.25 | 9 |
-| 5 | 4.5 | 6 | 7.5 | 9 | 10.5 | 12 | 13.5 | 15 | 16.5 | 18 |
-| 7.5 | 6.75 | 9 | 11.25 | 13.5 | 15.75 | 18 | 20.25 | 22.5 | 24.75 | 27 |
-| 10 | 9 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 | 36 |
-| 12.5 | 11.25 | 15 | 18.75 | 22.5 | 26.25 | 30 | 33.75 | 37.5 | 41.25 | 45 |
-| 15 | 13.5 | 18 | 22.5 | 27 | 31.5 | 36 | 40.5 | 45 | 49.5 | 54 |
-| 17.5 | 15.75 | 21 | 26.25 | 31.5 | 36.75 | 42 | 47.25 | 52.5 | 57.75 | 63 |
+Table 2.
+Infusion Rate (mL/hr) of Dobutamine Hydrochloride in 5% Dextrose Injection
 
-Dobutamine Infusion Rate (mL/hr) Chart Using 4000 mcg/mL Concentration
+| 500 mcg/mL Patient’s Weight (kg) |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Drug Delivery Rate (mcg/kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 |
+| 0.5 | 0.3 | 0.6 | 1.2 | 1.8 | 2.4 | 3 | 3.6 | 4.2 | 4.8 | 5.4 | 6 | 6.6 |
+| 1 | 0.6 | 1.2 | 2.4 | 3.6 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 11 | 12 | 13 |
+| 2.5 | 1.5 | 3 | 6 | 9 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 |
+| 5 | 3 | 6 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 66 |
+| 7.5 | 4.5 | 9 | 18 | 27 | 36 | 45 | 54 | 63 | 72 | 81 | 90 | 99 |
+| 10 | 6 | 12 | 24 | 36 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 132 |
+| 12.5 | 7.5 | 15 | 30 | 45 | 60 | 75 | 90 | 105 | 120 | 135 | 150 | 165 |
+| 15 | 9 | 18 | 36 | 54 | 72 | 90 | 108 | 126 | 144 | 162 | 180 | 198 |
+| 17.5 | 11 | 21 | 42 | 63 | 84 | 105 | 126 | 147 | 168 | 189 | 210 | 231 |
+| 20 | 12 | 24 | 48 | 72 | 96 | 120 | 144 | 168 | 192 | 216 | 240 | 264 |
 
-|  | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Infusion rate (mcg/kg/min) | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 | 120 |
-| 2.5 | 1.125 | 1.5 | 1.875 | 2.25 | 2.625 | 3 | 3.375 | 3.75 | 4.125 | 4.5 |
-| 5 | 2.25 | 3 | 3.75 | 4.5 | 5.25 | 6 | 6.75 | 7.5 | 8.25 | 9 |
-| 7.5 | 3.375 | 4.5 | 5.625 | 6.75 | 7.875 | 9 | 10.125 | 11.25 | 12.375 | 13.5 |
-| 10 | 4.5 | 6 | 7.5 | 9 | 10.5 | 12 | 13.5 | 15 | 16.5 | 18 |
-| 12.5 | 5.625 | 7.5 | 9.375 | 11.25 | 13.125 | 15 | 16.875 | 18.75 | 20.625 | 22.5 |
-| 15 | 6.75 | 9 | 11.25 | 13.5 | 15.75 | 18 | 20.25 | 22.5 | 24.75 | 27 |
-| 17.5 | 7.875 | 10.5 | 13.125 | 15.75 | 18.375 | 21 | 23.625 | 26.25 | 28.875 | 31.5 |
+| 1000 mcg/mL Patient’s Weight (kg) |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Drug Delivery Rate (mcg/kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 |
+| 0.5 | 0.15 | 0.3 | 0.6 | 0.9 | 1.2 | 1.5 | 1.8 | 2.1 | 2.4 | 2.7 | 3 | 3.3 |
+| 1 | 0.3 | 0.6 | 1.2 | 1.8 | 2.4 | 3 | 3.6 | 4.2 | 4.8 | 5.4 | 6 | 6.6 |
+| 2.5 | 0.75 | 1.5 | 3 | 4.5 | 6 | 7.5 | 9 | 11 | 12 | 14 | 15 | 17 |
+| 5 | 1.5 | 3 | 6 | 9 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 |
+| 7.5 | 2.3 | 4.5 | 9 | 14 | 18 | 23 | 27 | 32 | 36 | 41 | 45 | 50 |
+| 10 | 3 | 6 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 66 |
+| 12.5 | 3.8 | 7.5 | 15 | 23 | 30 | 38 | 45 | 53 | 60 | 68 | 75 | 83 |
+| 15 | 4.5 | 9 | 18 | 27 | 36 | 45 | 54 | 63 | 72 | 81 | 90 | 99 |
+| 17.5 | 5.3 | 11 | 21 | 32 | 42 | 53 | 63 | 74 | 84 | 95 | 105 | 116 |
+| 20 | 6 | 12 | 24 | 36 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 132 |
+
+| 2000 mcg/mL Patient’s Weight (kg) |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Drug Delivery Rate (mcg/kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 |
+| 0.5 | 0.08 | 0.15 | 0.3 | 0.45 | 0.6 | 0.75 | 0.9 | 1.1 | 1.2 | 1.4 | 1.5 | 1.7 |
+| 1 | 0.15 | 0.3 | 0.6 | 0.9 | 1.2 | 1.5 | 1.8 | 2.1 | 2.4 | 2.7 | 3 | 3.3 |
+| 2.5 | 0.38 | 0.75 | 1.5 | 2.3 | 3 | 3.8 | 4.5 | 5.3 | 6 | 6.8 | 7.5 | 8.3 |
+| 5 | 0.75 | 1.5 | 3 | 4.5 | 6 | 7.5 | 9 | 11 | 12 | 14 | 15 | 17 |
+| 7.5 | 1.1 | 2.3 | 4.5 | 6.8 | 9 | 11 | 14 | 16 | 18 | 20 | 23 | 25 |
+| 10 | 1.5 | 3 | 6 | 9 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 |
+| 12.5 | 1.9 | 3.8 | 7.5 | 11 | 15 | 19 | 23 | 26 | 30 | 34 | 38 | 41 |
+| 15 | 2.3 | 4.5 | 9 | 14 | 18 | 23 | 27 | 32 | 36 | 41 | 45 | 50 |
+| 17.5 | 2.6 | 5.3 | 11 | 16 | 21 | 26 | 32 | 37 | 42 | 47 | 53 | 58 |
+| 20 | 3 | 6 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 66 |
+
+| 4000 mcg/mL Patient’s Weight (kg) |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Drug Delivery Rate (mcg/kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 |
+| 0.5 | 0.04 | 0.08 | 0.15 | 0.23 | 0.3 | 0.38 | 0.45 | 0.53 | 0.6 | 0.68 | 0.75 | 0.83 |
+| 1 | 0.08 | 0.15 | 0.3 | 0.45 | 0.6 | 0.75 | 0.9 | 1.1 | 1.2 | 1.4 | 1.5 | 1.7 |
+| 2.5 | 0.19 | 0.38 | 0.75 | 1.1 | 1.5 | 1.9 | 2.3 | 2.6 | 3 | 3.4 | 3.8 | 4.1 |
+| 5 | 0.38 | 0.75 | 1.5 | 2.3 | 3 | 3.8 | 4.5 | 5.3 | 6 | 6.8 | 7.5 | 8.3 |
+| 7.5 | 0.56 | 1.1 | 2.3 | 3.4 | 4.5 | 5.6 | 6.8 | 7.9 | 9 | 10 | 11 | 12 |
+| 10 | 0.75 | 1.5 | 3 | 4.5 | 6 | 7.5 | 9 | 11 | 12 | 14 | 15 | 17 |
+| 12.5 | 0.94 | 1.9 | 3.8 | 5.6 | 7.5 | 9.4 | 11 | 13 | 15 | 17 | 19 | 21 |
+| 15 | 1.1 | 2.3 | 4.5 | 6.8 | 9 | 11 | 14 | 16 | 18 | 20 | 23 | 25 |
+| 17.5 | 1.3 | 2.6 | 5.3 | 7.9 | 11 | 13 | 16 | 18 | 21 | 24 | 26 | 29 |
+| 20 | 1.5 | 3 | 6 | 9 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 |
 
 INSTRUCTIONS FOR USE
 
