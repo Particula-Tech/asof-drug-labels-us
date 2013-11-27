@@ -27,6 +27,10 @@ Table 2: Incidence (%) of patients with adverse event rates ≥ 5% from two 12-w
 | Sweating increased | 6 (1.5) | 8 (2) | 15 (3.8) | 13 (6.4) | 1 (0.2) |
 | Anorexia | 3 (0.7) | 7 (1.8) | 21(5.3) | 12 (5.9) | 1(0.2) |
 
+The following adverse events were reported from all the chronic pain studies (N=3108).
+
+The lists below include adverse events not otherwise noted in Table 2.
+
 ## Adverse events with incidence rates of 1% to <5%
 
 ### Eye disorders
