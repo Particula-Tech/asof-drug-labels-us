@@ -81,10 +81,10 @@ Philadelphia, PA 19101
 
 under license from
 
-Nycomed GmbH
+Takeda GmbH
 
 D78467 Konstanz, Germany
 
 Novation and NOVAPLUS are registered trademarks of Novation LLC.
 
-LAB-0521-4.0
+LAB-0521-5.0
