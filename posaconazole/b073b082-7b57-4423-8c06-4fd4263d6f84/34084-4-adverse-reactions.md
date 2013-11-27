@@ -10,28 +10,78 @@ The following serious and otherwise important adverse reactions are discussed in
 
 ## 6.2 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of NOXAFIL cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of Noxafil cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+In clinical trials, the type of adverse reactions reported for posaconazole delayed-release tablets were generally similar to that reported in trials of posaconazole oral suspension.
 
-The safety of posaconazole therapy has been assessed in 1844 patients in clinical trials.
+Clinical Trial Experience with Posaconazole Delayed-Release Tablets
+
+The safety of posaconazole delayed-release tablets has been assessed in 230 patients in clinical trials.
+Patients were enrolled in a non-comparative pharmacokinetic and safety trial of posaconazole delayed-release tablets when given as antifungal prophylaxis (Delayed-Release Tablet Study 1).
+Patients were immunocompromised with underlying conditions including hematological malignancy, neutropenia post-chemotherapy, GVHD, and post HSCT.
+This patient population was 62% male, had a mean age of 51 years (range 19-78 years, 17% of patients were ≥65 years of age), and were 93% white and 16% Hispanic.
+Posaconazole therapy was given for a median duration of 28 days.
+Twenty patients received 200 mg daily dose and 210 patients received 300 mg daily dose (following BID dosing on Day 1 in each cohort).
+Table 3 presents treatment-emergent adverse reactions observed in patients treated with 300 mg daily dose at an incidence of ≥10% in posaconazole delayed-release tablet study.
+
+Table 3: Posaconazole Delayed-Release Tablet Study 1: Number (%) of Subjects Treated with 300 mg Daily Dose Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10%
+
+| Body System Preferred Term | Posaconazole delayed-release tablet (300 mg) (n=210) |  |
+| --- | --- | --- |
+| Subjects Reporting any Adverse Reaction | 201 | (99) |
+| Blood and Lymphatic System Disorder |  |  |
+| Anemia | 22 | (10) |
+| Thrombocytopenia | 29 | (14) |
+| Gastrointestinal Disorder |  |  |
+| Abdominal Pain | 23 | (11) |
+| Constipation | 20 | (10) |
+| Diarrhea | 61 | (29) |
+| Nausea | 56 | (27) |
+| Vomiting | 28 | (13) |
+| General Disorders and Administration Site Conditions |  |  |
+| Asthenia | 20 | (10) |
+| Chills | 22 | (10) |
+| Mucosal Inflammation | 29 | (14) |
+| Edema Peripheral | 33 | (16) |
+| Pyrexia | 59 | (28) |
+| Metabolism and Nutrition Disorders |  |  |
+| Hypokalemia | 46 | (22) |
+| Hypomagnesemia | 20 | (10) |
+| Nervous System Disorders |  |  |
+| Headache | 30 | (14) |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Cough | 35 | (17) |
+| Epistaxis | 30 | (14) |
+| Skin and Subcutaneous Tissue Disorders |  |  |
+| Rash | 34 | (16) |
+| Vascular Disorders |  |  |
+| Hypertension | 23 | (11) |
+
+The most frequently reported adverse reactions (>25%) with posaconazole delayed-release tablets 300 mg once daily were diarrhea, pyrexia, and nausea.
+
+The most common adverse reaction leading to discontinuation of posaconazole delayed-release tablets 300 mg once daily was nausea (2%).
+
+Clinical Trial Safety Experience with Posaconazole Oral Suspension
+
+The safety of posaconazole oral suspension has been assessed in 1844 patients.
 This includes 605 patients in the active-controlled prophylaxis studies, 557 patients in the active-controlled OPC studies, 239 patients in refractory OPC studies, and 443 patients from other indications.
-This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy, neutropenia post-chemotherapy, graft vs. host disease post hematopoietic stem cell transplant, and HIV infection, as well as non-neutropenic patients.
-This patient population was 71% male, had a mean age of 42 years (range 8–84 years, 6% of patients were ≥65 years of age and 1% was <18 years of age), and were 64% white, 16% Hispanic, and 36% non-white (including 14% black).
+This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy, neutropenia post-chemotherapy, GVHD post HSCT, and HIV infection, as well as non-neutropenic patients.
+This patient population was 71% male, had a mean age of 42 years (range 8-84 years, 6% of patients were ≥65 years of age and 1% was <18 years of age), and were 64% white, 16% Hispanic, and 36% non-white (including 14% black).
 Posaconazole therapy was given to 171 patients for ≥6 months, with 58 patients receiving posaconazole therapy for ≥12 months.
-Table 2 presents treatment-emergent adverse reactions observed at an incidence of >10% in posaconazole prophylaxis studies.
-Table 3 presents treatment-emergent adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
+Table 4 presents treatment-emergent adverse reactions observed at an incidence of >10% in posaconazole prophylaxis studies.
+Table 5 presents treatment-emergent adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
 
-Prophylaxis of Aspergillus and Candida: In the 2 randomized, comparative prophylaxis studies, the safety of posaconazole 200 mg three times a day was compared to fluconazole 400 mg once daily or itraconazole 200 mg twice a day in severely immunocompromised patients.
+Prophylaxis of Aspergillus and Candida: In the 2 randomized, comparative prophylaxis studies (Oral Suspension Studies 1 and 2), the safety of posaconazole oral suspension 200 mg three times a day was compared to fluconazole 400 mg once daily or itraconazole 200 mg twice a day in severely immunocompromised patients.
 
-The most frequently reported adverse reactions (>30%) in the prophylaxis clinical trials were fever, diarrhea and nausea.
+The most frequently reported adverse reactions (>30%) in the prophylaxis clinical trials were fever, diarrhea, and nausea.
 
 The most common adverse reactions leading to discontinuation of posaconazole in the prophylaxis studies were associated with GI disorders, specifically, nausea (2%), vomiting (2%), and hepatic enzymes increased (2%).
 
-Table 2: Study 1 and Study 2.
-Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10% in the Posaconazole or Fluconazole Treatment Groups (Pooled Prophylaxis Safety Analysis)
+Table 4: Posaconazole Oral Suspension Study 1 and Study 2.
+Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10% in the Posaconazole Oral Suspension or Fluconazole Treatment Groups (Pooled Prophylaxis Safety Analysis)
 
-| Subjects Reporting any Adverse Reaction | 595 | (98) | 531 | (99) | 58 | (100) |
-| --- | --- | --- | --- | --- | --- | --- |
 | Body System Preferred Term | Posaconazole (n=605) |  | Fluconazole (n=539) |  | Itraconazole (n=58) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Subjects Reporting any Adverse Reaction | 595 | (98) | 531 | (99) | 58 | (100) |
 | Body as a Whole - General Disorders |  |  |  |  |  |  |
 | Fever | 274 | (45) | 254 | (47) | 32 | (55) |
 | Headache | 171 | (28) | 141 | (26) | 23 | (40) |
@@ -48,7 +98,6 @@ Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions
 | Disorders of Blood and Lymphatic System |  |  |  |  |  |  |
 | Anemia | 149 | (25) | 124 | (23) | 16 | (28) |
 | Neutropenia | 141 | (23) | 122 | (23) | 23 | (40) |
-| Febrile Neutropenia | 118 | (20) | 85 | (16) | 23 | (40) |
 | Disorders of the Reproductive System and Breast |  |  |  |  |  |  |
 | Vaginal HemorrhagePercentages of sex-specific adverse reactions are based on the number of males/females. | 24 | (10) | 20 | (9) | 3 | (12) |
 | Gastrointestinal System Disorders |  |  |  |  |  |  |
@@ -57,16 +106,11 @@ Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions
 | Vomiting | 174 | (29) | 173 | (32) | 24 | (41) |
 | Abdominal Pain | 161 | (27) | 147 | (27) | 21 | (36) |
 | Constipation | 126 | (21) | 94 | (17) | 10 | (17) |
-| Mucositis NOS | 105 | (17) | 68 | (13) | 15 | (26) |
 | Dyspepsia | 61 | (10) | 50 | (9) | 6 | (10) |
 | Heart Rate and Rhythm Disorders |  |  |  |  |  |  |
 | Tachycardia | 72 | (12) | 75 | (14) | 3 | (5) |
 | Infection and Infestations |  |  |  |  |  |  |
-| Bacteremia | 107 | (18) | 98 | (18) | 16 | (28) |
-| Herpes Simplex | 88 | (15) | 61 | (11) | 10 | (17) |
-| Cytomegalovirus Infection | 82 | (14) | 69 | (13) | 0 |  |
 | Pharyngitis | 71 | (12) | 60 | (11) | 12 | (21) |
-| Upper Respiratory Tract Infection | 44 | (7) | 54 | (10) | 5 | (9) |
 | Liver and Biliary System Disorders |  |  |  |  |  |  |
 | Bilirubinemia | 59 | (10) | 51 | (9) | 11 | (19) |
 | Metabolic and Nutritional Disorders |  |  |  |  |  |  |
@@ -83,7 +127,6 @@ Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions
 | Petechiae | 64 | (11) | 54 | (10) | 9 | (16) |
 | Psychiatric Disorders |  |  |  |  |  |  |
 | Insomnia | 103 | (17) | 92 | (17) | 11 | (19) |
-| Anxiety | 52 | (9) | 61 | (11) | 9 | (16) |
 | Respiratory System Disorders |  |  |  |  |  |  |
 | Coughing | 146 | (24) | 130 | (24) | 14 | (24) |
 | Dyspnea | 121 | (20) | 116 | (22) | 15 | (26) |
@@ -91,27 +134,25 @@ Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |
 | Rash | 113 | (19) | 96 | (18) | 25 | (43) |
 | Pruritus | 69 | (11) | 62 | (12) | 11 | (19) |
-| NOS = not otherwise specified. |  |  |  |  |  |  |
 
-HIV Infected Subjects with OPC: In 2 randomized comparative studies in OPC, the safety of posaconazole at a dose of less than or equal to 400 mg QD in 557 HIV-infected patients was compared to the safety of fluconazole in 262 HIV-infected patients at a dose of 100 mg QD.
+HIV Infected Subjects with OPC: In 2 randomized comparative studies in OPC, the safety of posaconazole oral suspension at a dose of less than or equal to 400 mg QD in 557 HIV-infected patients was compared to the safety of fluconazole in 262 HIV-infected patients at a dose of 100 mg QD.
 
-An additional 239 HIV-infected patients with refractory OPC received posaconazole in 2 non-comparative trials for refractory OPC (rOPC).
+An additional 239 HIV-infected patients with refractory OPC received posaconazole oral suspension in 2 non-comparative trials for refractory OPC (rOPC).
 Of these subjects, 149 received the 800-mg/day dose and the remainder received the less than or equal to 400-mg QD dose.
 
-In the OPC/rOPC studies, the most common adverse reactions were fever, diarrhea, nausea, headache, and vomiting.
+In the OPC/rOPC studies, the most common adverse reactions were fever, diarrhea, nausea, headache, vomiting, and coughing.
 
-The most common adverse reactions that led to treatment discontinuation of posaconazole in the Controlled OPC Pool included respiratory insufficiency (1%) and pneumonia (1%).
-In the refractory OPC pool, the most common adverse reactions that led to treatment discontinuation of posaconazole were AIDS (7%) and respiratory insufficiency (3%).
+The most common adverse reactions that led to treatment discontinuation of posaconazole in the Controlled OPC Pool included respiratory impairment (1%) and pneumonia (1%).
+In the refractory OPC pool, the most common adverse reactions that led to treatment discontinuation of posaconazole were AIDS (7%) and respiratory impairment (3%).
 
-Table 3: Treatment-Emergent Adverse Reactions with Frequency of at Least 10% in OPC Studies (Treated Population)
+Table 5: Treatment-Emergent Adverse Reactions with Frequency of at Least 10% in OPC Studies with Posaconazole Oral Suspension (Treated Population)
 
-| Subjects Reporting any Adverse ReactionNumber of subjects reporting treatment-emergent adverse reactions at least once during the study, without regard to relationship to treatment. Subjects may have reported more than 1 event. | 356 (64) | 175 (67) | 221 (92) |
+| n=557 | n=262 | n=239 |  |
 | --- | --- | --- | --- |
-|  | Number (%) of Subjects |  |  |
-|  | Controlled OPC Pool |  | Refractory OPC Pool |
-|  | Posaconazole | Fluconazole | Posaconazole |
-| Body System |  |  |  |
-| Preferred Term | n=557 | n=262 | n=239 |
+| Body System Preferred Term | Number (%) of Subjects |  |  |
+| Controlled OPC Pool |  | Refractory OPC Pool |  |
+| Posaconazole | Fluconazole | Posaconazole |  |
+| Subjects Reporting any Adverse ReactionNumber of subjects reporting treatment-emergent adverse reactions at least once during the study, without regard to relationship to treatment. Subjects may have reported more than 1 event. | 356 (64) | 175 (67) | 221 (92) |
 | Body as a Whole – General Disorders |  |  |  |
 | Fever | 34 (6) | 22 (8) | 82 (34) |
 | Headache | 44 (8) | 23 (9) | 47 (20) |
@@ -143,7 +184,7 @@ Table 3: Treatment-Emergent Adverse Reactions with Frequency of at Least 10% in 
 | Skin and Subcutaneous Tissue Disorders |  |  |  |
 | Rash | 15 (3) | 10 (4) | 36 (15) |
 | Sweating Increased | 13 (2) | 5 (2) | 23 (10) |
-| OPC=oropharyngeal candidiasis; SGOT=serum glutamic oxaloacetic transaminase (same as AST); SGPT=serum glutamic pyruvic transaminase (same as ALT). |  |  |  |
+| OPC=oropharyngeal candidiasis |  |  |  |
 
 Adverse reactions were reported more frequently in the pool of patients with refractory OPC.
 Among these highly immunocompromised patients with advanced HIV disease, serious adverse reactions (SARs) were reported in 55% (132/239).
@@ -157,44 +198,43 @@ Less Common Adverse Reactions: Clinically significant adverse reactions reported
 - Immune system disorders: allergic reaction [see Contraindications (4.1)]
 - Cardiac disorders: Torsades de pointes [see Warnings and Precautions (5.2)]
 - Vascular disorders: pulmonary embolism
-- Liver and Biliary System Disorders: bilirubinemia, hepatic enzymes increased, hepatic function abnormal, hepatitis, hepatomegaly, jaundice, SGOT Increased, SGPT Increased
+- Liver and Biliary System Disorders: bilirubinemia, hepatic enzymes increased, hepatic function abnormal, hepatitis, hepatomegaly, jaundice, AST Increased, ALT Increased
 - Metabolic and Nutritional Disorders: hypokalemia
 - Platelet, Bleeding, and Clotting Disorders: thrombocytopenia
 - Renal & Urinary System Disorders: renal failure acute
 
 Clinical Laboratory Values: In healthy volunteers and patients, elevation of liver function test values did not appear to be associated with higher plasma concentrations of posaconazole.
-The majority of abnormal liver function tests were minor, transient, and did not lead to discontinuation of therapy.
 
-For the prophylaxis studies, the number of patients with changes in liver function tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 4.
+For the prophylaxis studies, the number of patients with changes in liver function tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 6.
 
-Table 4: Study 1 and Study 2.
+Table 6: Posaconazole Oral Suspension Study 1 and Study 2.
 Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
 
 | Number (%) of Patients With ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. |  |  |
 | --- | --- | --- |
-| Study 1 |  |  |
+| Oral Suspension Study 1 |  |  |
 | Laboratory Parameter | Posaconazole n=301 | Fluconazole n=299 |
 | AST | 11/266 (4) | 13/266 (5) |
 | ALT | 47/271 (17) | 39/272 (14) |
 | Bilirubin | 24/271 (9) | 20/275 (7) |
 | Alkaline Phosphatase | 9/271 (3) | 8/271 (3) |
-| Study 2 |  |  |
+| Oral Suspension Study 2 |  |  |
 | Laboratory Parameter | Posaconazole (n=304) | Fluconazole/Itraconazole (n=298) |
 | AST | 9/286 (3) | 5/280 (2) |
 | ALT | 18/289 (6) | 13/284 (5) |
 | Bilirubin | 20/290 (7) | 25/285 (9) |
 | Alkaline Phosphatase | 4/281 (1) | 1/276 (<1) |
-| CTC = Common Toxicity Criteria; AST= Aspartate Aminotransferase; ALT= Alanine Aminotransferase. |  |  |
+| CTC = Common Toxicity Criteria; AST= Aspartate Aminotransferase; |  |  |
+| ALT= Alanine Aminotransferase. |  |  |
 
-The number of patients treated for OPC with clinically significant liver function test (LFT) abnormalities at any time during the studies is provided in Table 5.
-(LFT abnormalities were present in some of these patients prior to initiation of the study drug).
+The number of patients treated for OPC with clinically significant liver function test (LFT) abnormalities at any time during the studies is provided in Table 7 (LFT abnormalities were present in some of these patients prior to initiation of the study drug).
 
-Table 5: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
+Table 7: Posaconazole Oral Suspension Studies: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
 
-| Laboratory Test | n=557(%) | n=262(%) | n=239(%) |
+| n=557(%) | n=262(%) | n=239(%) |  |
 | --- | --- | --- | --- |
-|  | Controlled |  | Refractory |
-|  | Posaconazole | Fluconazole | Posaconazole |
+| Laboratory Test | Controlled |  | Refractory |
+| Posaconazole | Fluconazole | Posaconazole |  |
 | ALT > 3.0 × ULN | 16/537 (3) | 13/254 (5) | 25/226 (11) |
 | AST > 3.0 × ULN | 33/537 (6) | 26/254 (10) | 39/223 (17) |
 | Total Bilirubin > 1.5 × ULN | 15/536 (3) | 5/254 (2) | 9/197 (5) |

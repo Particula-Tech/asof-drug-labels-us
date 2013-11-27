@@ -1,15 +1,22 @@
 {
   "application_numbers": [
-    "NDA022003"
+    "NDA022003",
+    "NDA205053"
   ],
   "inn": "posaconazole",
   "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
-    "0085-1328-01"
+    "0085-1328-01",
+    "0085-4324-02"
   ],
   "products": [
     {
       "form": "SUSPENSION",
+      "generic": "posaconazole",
+      "name": "NOXAFIL"
+    },
+    {
+      "form": "TABLET, COATED",
       "generic": "posaconazole",
       "name": "NOXAFIL"
     }

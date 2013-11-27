@@ -2,12 +2,15 @@
 
 Posaconazole is primarily metabolized via UDP glucuronidation and is a substrate of p-glycoprotein efflux.
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
+Coadministration of drugs that can decrease the plasma concentrations of posaconazole should generally be avoided unless the benefit outweighs the risk.
+If such drugs are necessary, patients should be monitored closely for breakthrough fungal infections.
+
 Posaconazole is also a strong inhibitor of CYP3A4.
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole [see Clinical Pharmacology (12.3)].
 
 ## 7.1 Immunosuppressants Metabolized by CYP3A4
 
-Sirolimus: Concomitant administration of posaconazole with sirolimus increases the sirolimus blood concentrations by approximately 9 fold and can result in sirolimus toxicity.
+Sirolimus: Concomitant administration of posaconazole with sirolimus increases the sirolimus blood concentrations by approximately 9-fold and can result in sirolimus toxicity.
 Therefore, posaconazole is contraindicated with sirolimus [see Contraindications (4.2) and Clinical Pharmacology (12.3)].
 
 Tacrolimus: Posaconazole has been shown to significantly increase the Cmax and AUC of tacrolimus.
@@ -20,12 +23,12 @@ Frequent monitoring of cyclosporine whole blood trough concentrations should be 
 
 ## 7.2 CYP3A4 Substrates
 
-Concomitant administration of posaconazole with CYP3A4 substrates such as pimozide and quinidine may result in increased plasma concentrations of these drugs, leading to QTc prolongation and rare occurrences of torsades de pointes.
+Concomitant administration of posaconazole with CYP3A4 substrates such as pimozide and quinidine may result in increased plasma concentrations of these drugs, leading to QTc prolongation and cases of torsades de pointes.
 Therefore, posaconazole is contraindicated with these drugs [see Contraindications (4.3) and Warnings and Precautions (5.2)].
 
 ## 7.3 HMG-CoA Reductase Inhibitors (Statins) Primarily Metabolized Through CYP3A4
 
-Concomitant administration of posaconazole with simvastatin increases the simvastatin plasma concentrations by approximately 10 fold.
+Concomitant administration of posaconazole with simvastatin increases the simvastatin plasma concentrations by approximately 10-fold.
 Therefore, posaconazole is contraindicated with HMG-CoA reductase inhibitors primarily metabolized through CYP3A4 [see Contraindications (4.4) and Clinical Pharmacology (12.3)].
 
 ## 7.4 Ergot Alkaloids
@@ -36,7 +39,7 @@ Therefore, posaconazole is contraindicated with ergot alkaloids [see Contraindic
 
 ## 7.5 Benzodiazepines Metabolized by CYP3A4
 
-Concomitant administration of posaconazole with midazolam increases the midazolam plasma concentrations by approximately 5 fold.
+Concomitant administration of posaconazole with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
 Concomitant use of posaconazole and other benzodiazepines metabolized by CYP3A4 (e.g., alprazolam, triazolam) could result in increased plasma concentrations of these benzodiazepines.
 Patients must be monitored closely for adverse effects associated with high plasma concentrations of benzodiazepines metabolized by CYP3A4 and benzodiazepine receptor antagonists must be available to reverse these effects [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
@@ -70,11 +73,19 @@ However, if concomitant administration is required, close monitoring for breakth
 
 ## 7.9 Gastric Acid Suppressors/Neutralizers
 
-Cimetidine (an H2-receptor antagonist) and esomeprazole (a proton pump inhibitor) decrease posaconazole plasma concentrations [see Clinical Pharmacology (12.3)].
-It is recommended to avoid concomitant use of cimetidine and esomeprazole with posaconazole unless the benefit outweighs the risks.
+Posaconazole Delayed-Release Tablet:
+
+No clinically relevant effects on the pharmacokinetics of posaconazole were observed when posaconazole delayed-release tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors [see Clinical Pharmacology (12.3)].
+No dosage adjustment of posaconazole delayed-release tablets is required when posaconazole delayed-release tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
+
+Posaconazole Oral Suspension:
+
+Cimetidine (an H2-receptor antagonist) and esomeprazole (a proton pump inhibitor) when given with posaconazole oral suspension results in decreased posaconazole plasma concentrations [see Clinical Pharmacology (12.3)].
+It is recommended to avoid concomitant use of cimetidine and esomeprazole with posaconazole oral suspension unless the benefit outweighs the risks.
 However, if concomitant administration is required, close monitoring for breakthrough fungal infections is recommended.
-No clinically relevant effects were observed when posaconazole is concomitantly used with antacids and H2-receptor antagonists other than cimetidine.
-No dosage adjustment of posaconazole is required when posaconazole is concomitantly used with antacids and H2-receptor antagonists other than cimetidine.
+
+No clinically relevant effects were observed when posaconazole oral suspension is concomitantly used with antacids and H2-receptor antagonists other than cimetidine.
+No dosage adjustment of posaconazole oral suspension is required when posaconazole oral suspension is concomitantly used with antacids and H2-receptor antagonists other than cimetidine.
 
 ## 7.10 Vinca Alkaloids
 
@@ -95,8 +106,15 @@ Therefore, monitoring of digoxin plasma concentrations is recommended during coa
 
 ## 7.13 Gastrointestinal Motility Agents
 
-Metoclopramide decreases posaconazole plasma concentrations [see Clinical Pharmacology (12.3)].
-If metoclopramide is concomitantly administered, it is recommended to closely monitor for breakthrough fungal infections.
+Posaconazole Delayed-Release Tablet:
+
+Concomitant administration of metoclopramide with posaconazole delayed-release tablets did not affect the pharmacokinetics of posaconazole [see Clinical Pharmacology (12.3)].
+No dosage adjustment of posaconazole delayed-release tablets is required when given concomitantly with metoclopramide.
+
+Posaconazole Oral Suspension:
+
+Metoclopramide, when given with posaconazole oral suspension, decreases posaconazole plasma concentrations [see Clinical Pharmacology (12.3)].
+If metoclopramide is concomitantly administered with posaconazole oral suspension, it is recommended to closely monitor for breakthrough fungal infections.
 
 Loperamide does not affect posaconazole plasma concentrations [see Clinical Pharmacology (12.3)].
 No dosage adjustment of posaconazole is required when loperamide and posaconazole are used concomitantly.
