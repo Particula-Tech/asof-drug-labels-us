@@ -20,6 +20,8 @@ Perform a pre-treatment complete blood count (CBC) and monitor CBCs every 2 to 4
 
 Serious bacterial, mycobacterial, fungal and viral infections may occur.
 Active serious infections should have resolved before starting therapy with Jakafi.
+Tuberculosis has been reported in patients receiving Jakafi for myelofibrosis.
+Attention should be given to the possibility of latent or active tuberculosis.
 Observe patients receiving Jakafi for signs and symptoms of infection and initiate appropriate treatment promptly.
 
 PML

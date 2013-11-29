@@ -133,4 +133,4 @@ All rights reserved.
 U.S. Patent No. 7,598,257; 8,415,362 © 2011-2013 Incyte Corporation.
 All rights reserved.
 
-Issued: June 2013
+Issued: November 2013

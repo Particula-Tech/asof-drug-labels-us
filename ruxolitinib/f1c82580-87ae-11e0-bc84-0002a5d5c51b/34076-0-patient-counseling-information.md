@@ -2,7 +2,7 @@
 
 See FDA-approved patient labeling (Patient Information).
 
-Discuss discuss the following with patients prior to treatment with Jakafi:
+Discuss the following with patients prior to treatment with Jakafi:
 
 ## 17.1 Thrombocytopenia, Anemia and Neutropenia
 
