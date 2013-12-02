@@ -2,4 +2,4 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-LAB-0040-7.0 September 2012
+LAB-0040-8.0 September 2013

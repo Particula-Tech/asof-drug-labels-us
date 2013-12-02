@@ -77,20 +77,26 @@ Both tests were negative.
 
 Fertility studies in rats treated orally with up to 300 mg/kg/day (approximately 1.6 times the highest recommended adult human dose based on mg/m2) revealed no effects on fertility or mating ability.
 
+In oral embryo fetal development studies in rats and subcutaneous embryo fetal development studies in rats and rabbits, no developmental toxicity was observed except at doses that produced maternal toxicity.
+
 ## Pregnancy
 
 ### Teratogenic effects
 
 #### Pregnancy Category B
 
-Reproduction studies performed in rats and mice using oral doses of clindamycin up to 600 mg/kg/day (3.2 and 1.6 times the highest recommended adult human dose based on mg/m2, respectively) or subcutaneous doses of clindamycin up to 250 mg/kg/day (1.3 and 0.7 times the highest recommended adult human dose based on mg/m2, respectively) revealed no evidence of teratogenicity.
+Oral and subcutaneous reproductive toxicity studies in rats and rabbits revealed no evidence of impaired fertility or harm to the fetus due to clindamycin, except at doses that caused maternal toxicity.
+Animal reproduction studies are not always predictive of human response.
 
-There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of the human response, this drug should be used during pregnancy only if clearly needed.
+In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
+
+Clindamycin should be used during the first trimester of pregnancy only if clearly needed.
+There are no adequate and well-controlled studies in pregnant women during the first trimester of pregnancy.
 
 ## Nursing Mothers
 
 Clindamycin has been reported to appear in breast milk in the range of 0.7 to 3.8 mcg/mL.
+Because of the potential for serious adverse reactions in nursing infants, clindamycin should not be taken by nursing mothers.
 
 ## Pediatric Use
 
