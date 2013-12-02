@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA010515"
+  ],
+  "inn": "isoproterenol",
+  "labeler": "Marathon Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "42998-402-01",
+    "42998-402-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "isoproterenol hydrochloride",
+      "name": "Isuprel"
+    }
+  ],
+  "setid": "abf5e543-36e8-416e-b053-483ddbf4e568",
+  "source": "dailymed"
+}
