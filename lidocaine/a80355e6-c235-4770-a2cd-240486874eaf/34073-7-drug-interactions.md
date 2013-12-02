@@ -1,5 +1,9 @@
-# Drug Interactions
+# 7 DRUG INTERACTIONS
 
-Antiarrhythmic Drugs: PLIAGLIS should be used with caution in patients receiving Class I antiarrhythmic drugs (such as tocainide and mexiletine) since the systemic toxic effects are thought to be additive and potentially synergistic with lidocaine and tetracaine.
+## 7.1 Antiarrhythmic Drugs
 
-Local Anesthetics: When PLIAGLIS is used concomitantly with other products containing local anesthetic agents, the amount absorbed from all formulations should be considered since the systemic toxic effects are thought to be additive and potentially synergistic with lidocaine and tetracaine.
+PLIAGLIS Cream should be used with caution in patients receiving Class I antiarrhythmic drugs (such as tocainide and mexiletine) since the systemic toxic effects are thought to be additive and potentially synergistic with lidocaine and tetracaine.
+
+## 7.2 Local Anesthetics
+
+When PLIAGLIS Cream is used concomitantly with other products containing local anesthetic agents, the amount absorbed from all formulations should be considered since the systemic toxic effects are thought to be additive and potentially synergistic with lidocaine and tetracaine.
