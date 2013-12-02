@@ -84,9 +84,7 @@ Histopathological examination of the treated rats that died on study revealed ca
 Non-neoplastic lesions seen in this 2-year study which were not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs and teeth.
 The most important changes included cardiac hypertrophy and dilatation, leading to signs of cardiac insufficiency in some animals.
 
-## 5.11 Use in Pregnancy
-
-Pregnancy Category D
+## 5.11 Embryo-fetal Toxicity
 
 Gleevec can cause fetal harm when administered to a pregnant woman.
 Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area.

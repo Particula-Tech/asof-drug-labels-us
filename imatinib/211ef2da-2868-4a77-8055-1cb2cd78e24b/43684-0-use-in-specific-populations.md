@@ -4,17 +4,21 @@
 
 Pregnancy Category D [see Warnings and Precautions (5.11)].
 
+Risk Summary
+
 Gleevec can cause fetal harm when administered to a pregnant woman.
 There have been post-market reports of spontaneous abortions and infant congenital anomalies from women who have taken Gleevec.
-Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses ≥100 mg/kg (approximately equal to the maximum human dose of 800 mg/day based on body surface area).
-Teratogenic effects included exencephaly or encephalocele, absent/reduced frontal and absent parietal bones.
-Female rats administered doses ≥45 mg/kg (approximately one-half the maximum human dose of 800 mg/day based on body surface area) also experienced significant post-implantation loss as evidenced by either early fetal resorption or stillbirths, nonviable pups and early pup mortality between postpartum Days 0 and 4.
-At doses higher than 100 mg/kg, total fetal loss was noted in all animals.
-Fetal loss was not seen at doses ≤30 mg/kg (one-third the maximum human dose of 800 mg).
-
-There are no adequate and well-controlled studies with Gleevec in pregnant women.
+Imatinib was teratogenic in animals.
 Women should be advised not to become pregnant when taking Gleevec.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+
+Animal Data
+
+Imatinib mesylate was teratogenic in rats when administered orally during organogenesis at doses ≥100 mg/kg (approximately equal to the maximum human dose of 800 mg/day based on body surface area).
+Teratogenic effects included exencephaly or encephalocele, absent/reduced frontal and absent parietal bones.
+Female rats administered doses ≥45 mg/kg (approximately one-half the maximum human dose of 800 mg/day based on body surface area) also experienced significant post-implantation loss as evidenced by early fetal resorption or stillbirths, nonviable pups and early pup mortality between postpartum Days 0 and 4.
+At doses higher than 100 mg/kg, total fetal loss was noted in all animals.
+Fetal loss was not seen at doses ≤30 mg/kg (one-third the maximum human dose of 800 mg).
 
 ## 8.3 Nursing Mothers
 
