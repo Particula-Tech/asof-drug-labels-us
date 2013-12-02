@@ -1,0 +1,32 @@
+# 14 CLINICAL STUDIES
+
+The effectiveness of Dexmethylphenidate Hydrochloride Extended-Release Capsules in the treatment of ADHD was established in randomized, double-blind, placebo-controlled studies in children and adolescents and in adults who met Diagnostic and Statistical Manual 4th edition (DSM-IV) criteria for ADHD [see Indications and Usage (1)].
+
+## 14.1 Children and Adolescents
+
+The effectiveness of Dexmethylphenidate Hydrochloride Extended-Release Capsules was established in a randomized, double-blind, placebo-controlled, parallel-group study in 103 pediatric patients (ages 6 to 12, n=86; ages 13 to 17, n=17) who met DSM-IV criteria for ADHD.
+Patients were randomized to receive either a flexible dose of Dexmethylphenidate Hydrochloride Extended-Release Capsules (5 to 30 mg/day) or placebo once daily for 7 weeks.
+During the first 5 weeks of treatment patients were titrated to their optimal dose and in the last 2 weeks of the study patients remained on their optimal dose without dose changes or interruption.
+
+Signs and symptoms of ADHD were evaluated by comparing the mean change from baseline to endpoint for Dexmethylphenidate Hydrochloride Extended-Release Capsules – and placebo-treated patients using an intent-to-treat analysis of the primary efficacy outcome measure, the DSM-IV total subscale score of the Conners ADHD/DSM-IV Scales for teachers (CADS-T).
+
+There was a statistically significant treatment effect in favor of Dexmethylphenidate Hydrochloride Extended-Release Capsules.
+There were insufficient adolescents enrolled in this study to assess the efficacy for Dexmethylphenidate Hydrochloride Extended-Release Capsules in the adolescent population.
+However, pharmacokinetic considerations and evidence of effectiveness of immediate-release Dexmethylphenidate Hydrochloride in adolescents support the effectiveness of Dexmethylphenidate Hydrochloride Extended-Release Capsules in this population.
+
+In two additional studies in pediatric patients aged 6-12 years who received 20 mg Dexmethylphenidate Hydrochloride Extended-Release Capsules or placebo in a cross-over design, Dexmethylphenidate Hydrochloride Extended-Release Capsules was found to have a statistically significant treatment effect versus placebo on the Swanson, Kotkin, Agler, M-Flynn & Pelham (SKAMP) rating scale combined score at all time points after dosing in each study (0.5, 1, 3, 4, 5, 7, 9, 10, 11 and 12 hours in one study and 1, 2, 4, 6, 8, 9, 10, 11 and 12 hours in the other study).
+A treatment effect was also observed 0.5 hours after administration of Dexmethylphenidate Hydrochloride Extended-Release Capsules 20 mg in an additional study of ADHD patients aged 6-12 years.
+The SKAMP is a reliable and validated scale that assesses specific classroom behaviors related to attention (e.g., getting started, sticking with activities, completing work, and stopping for transition) and deportment or behavior (e.g., remaining quiet, remaining seated, interacting with other students, and interacting with the teacher.)
+Each item is rated on a 7-point impairment scale, and an average rating per item is calculated for the subscales of Attention and Deportment.
+
+## 14.2 Adults
+
+The effectiveness of Dexmethylphenidate Hydrochloride Extended-Release Capsules was established in a randomized, double-blind, placebo-controlled, parallel-group study in 221 adult patients (ages 18 to 60) who met DSM-IV criteria for ADHD.
+Patients were randomized to receive either a fixed dose of Dexmethylphenidate Hydrochloride Extended-Release Capsules (20, 30, or 40 mg/day) or placebo once daily for 5 weeks.
+Patients randomized to Dexmethylphenidate Hydrochloride Extended-Release Capsules were initiated on a 10 mg/day starting dose and titrated in increments of 10 mg/week to the randomly assigned fixed dose.
+Patients were maintained on their fixed dose (20, 30 or 40 mg/day) for a minimum of 2 weeks.
+
+Signs and symptoms of ADHD were evaluated by comparing the mean change from baseline to endpoint for Dexmethylphenidate Hydrochloride Extended-Release Capsules – and placebo-treated patients using an intent-to-treat analysis of the primary efficacy outcome measure, the investigator-administered DSM-IV Attention-Deficit/Hyperactivity Disorder Rating Scale (DSM-IV ADHD RS).
+
+All three Dexmethylphenidate Hydrochloride Extended-Release Capsules doses were statistically significantly superior to placebo.
+There was no obvious increase in effectiveness with increasing dose.

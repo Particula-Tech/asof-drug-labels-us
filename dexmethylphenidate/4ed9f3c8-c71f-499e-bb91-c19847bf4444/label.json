@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA078992"
+  ],
+  "inn": "dexmethylphenidate",
+  "labeler": "Par Pharmaceutical Inc.",
+  "package_ndcs": [
+    "49884-428-01",
+    "49884-428-10",
+    "49884-430-01",
+    "49884-430-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "dexmethylphenidate hydrochloride",
+      "name": "Dexmethylphenidate Hydrochloride Extended-Release"
+    }
+  ],
+  "setid": "4ed9f3c8-c71f-499e-bb91-c19847bf4444",
+  "source": "dailymed"
+}
