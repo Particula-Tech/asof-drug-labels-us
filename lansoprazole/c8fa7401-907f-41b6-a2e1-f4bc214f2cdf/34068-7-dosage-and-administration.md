@@ -58,25 +58,25 @@ However, consider dose adjustment in patients with severe liver impairment.
 
 Lansoprazole Delayed-release Capsules -Oral Administration
 
-- Lansoprazole delayed-release capsules should be swallowed whole.
-- Alternatively, for patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered as follows:
-  - Open capsule.
-  - Sprinkle intact pellets on one tablespoon of either applesauce, ENSURE® pudding, cottage cheese, yogurt or strained pears.
-  - Swallow immediately.
-- Lansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice and administered as follows:
-  - Open capsule.
-  - Sprinkle intact pellets into a small volume of either apple juice, orange juice or tomato juice (60 mL – approximately 2 ounces).
-  - Mix briefly.
-  - Swallow immediately.
-  - To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
+- •Lansoprazole delayed-release capsules should be swallowed whole.
+- •Alternatively, for patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered as follows:
+  - •Open capsule.
+  - •Sprinkle intact pellets on one tablespoon of either applesauce, ENSURE® pudding, cottage cheese, yogurt or strained pears.
+  - •Swallow immediately.
+- •Lansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice and administered as follows:
+  - •Open capsule.
+  - •Sprinkle intact pellets into a small volume of either apple juice, orange juice or tomato juice (60 mL – approximately 2 ounces).
+  - •Mix briefly.
+  - •Swallow immediately.
+  - •To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
 
 Lansoprazole Delayed-release Capsules -Nasogastric Tube (≥ 16 French) Administration
 
-- For patients who have a nasogastric tube in place, lansoprazole delayed-release capsules can be administered as follows:
-  - Open capsule.
-  - Mix intact pellets into 40 mL of apple juice.
+- •For patients who have a nasogastric tube in place, lansoprazole delayed-release capsules can be administered as follows:
+  - •Open capsule.
+  - •Mix intact pellets into 40 mL of apple juice.
     DO NOT USE OTHER LIQUIDS.
-  - Inject through the nasogastric tube into the stomach.
-  - Flush with additional apple juice to clear the tube.
+  - •Inject through the nasogastric tube into the stomach.
+  - •Flush with additional apple juice to clear the tube.
 
 USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.
