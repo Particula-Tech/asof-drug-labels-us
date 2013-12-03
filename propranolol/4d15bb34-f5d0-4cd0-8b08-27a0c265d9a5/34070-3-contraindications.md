@@ -1,3 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Propranolol is contraindicated in 1) cardiogenic shock; 2) sinus bradycardia, sick sinus syndrome, and greater than first-degree block unless a permanent pacemaker is in place; 3) bronchial asthma; and 4) in patients with known hypersensitivity to propranolol hydrochloride.
+INNOPRAN XL is contraindicated in patients with:
+
+- Cardiogenic shock or decompensated heart failure
+- Sinus bradycardia, sick sinus syndrome, and greater than first-degree block unless a permanent pacemaker is in place
+- Bronchial asthma
+- Known hypersensitivity (e.g., anaphylactic reaction) to propranolol hydrochloride or any of the components of INNOPRAN XL.

@@ -2,7 +2,11 @@ PRINCIPAL DISPLAY PANEL - 80 mg Capsule
 
 NDC 24090-450-85
 
-InnoPran XL® (propranolol HCl) Extended Release Capsules
+InnoPran XL®
+
+(propranolol HCl)
+
+Extended Release Capsules
 
 80 mg
 
@@ -14,7 +18,11 @@ PRINCIPAL DISPLAY PANEL - 120 mg Capsule
 
 NDC 24090-451-85
 
-InnoPran XL® (propranolol HCl) Extended Release Capsules
+InnoPran XL®
+
+(propranolol HCl)
+
+Extended Release Capsules
 
 120 mg
 

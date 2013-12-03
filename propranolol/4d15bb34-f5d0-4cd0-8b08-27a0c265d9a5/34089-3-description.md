@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-INNOPRAN XL (propranolol hydrochloride) is a nonselective, beta-adrenergic receptor-blocking agent for oral administration, available as an extended release product.
+INNOPRAN XL contains propranolol hydrochloride, a nonselective, beta-adrenergic receptor-blocking agent for oral administration, as an extended- release product.
 INNOPRAN XL is available as 80-mg and 120-mg capsules which contain sustained-release beads.
 Each of the beads contains propranolol hydrochloride and is coated with dual membranes.
 These membranes are designed to retard release of propranolol hydrochloride for several hours after ingestion followed by the sustained release of propranolol.

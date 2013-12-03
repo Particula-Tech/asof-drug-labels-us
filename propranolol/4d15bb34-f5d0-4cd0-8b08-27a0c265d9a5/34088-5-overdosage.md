@@ -1,9 +1,8 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Most overdoses of propranolol are mild and respond to supportive care.
 
 Propranolol is not significantly dialyzable.
-In the event of overdose or exaggerated response, the following measures should be employed.
 
 Hypotension and bradycardia have been reported following propranolol overdose and should be treated appropriately.
 Glucagon can exert potent inotropic and chronotropic effects and may be particularly useful for the treatment of hypotension or depressed myocardial function after a propranolol overdose.
@@ -14,5 +13,5 @@ Epinephrine, however, may provoke uncontrolled hypertension.
 Bradycardia can be treated with atropine or isoproterenol.
 Serious bradycardia may require temporary cardiac pacing.
 
-The electrocardiogram, pulse, blood pressure, neurobehavioral status and intake and output balance must be monitored.
+Monitor the electrocardiogram, pulse, blood pressure, neurobehavioral status and intake and output balance.
 Isoproterenol and aminophylline may be used for bronchospasm.

@@ -1,139 +1,43 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Cardiac Failure: Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta-blockade may precipitate more severe failure.
-Although beta-blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving additional therapies, including diuretics as needed.
-Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle.
+## 5.1 Cardiac Ischemia after Abrupt Discontinuation
 
-| Angina Pectoris: There have been reports of exacerbation of angina and, in some cases, myocardial infarction, following abrupt discontinuance of propranolol therapy. Therefore, when discontinuance of propranolol is planned, the dosage should be gradually reduced over at least a few weeks, and the patient should be cautioned against interruption or cessation of therapy without a physician's advice. If propranolol therapy is interrupted and exacerbation of angina occurs, it is usually advisable to reinstitute propranolol therapy and take other measures appropriate for the management of angina pectoris. Since coronary artery disease may be unrecognized, it may be prudent to follow the above advice in patients considered at risk of having occult atherosclerotic heart disease who are given propranolol for other indications. |
-| --- |
+Following abrupt discontinuation of therapy with beta-blockers, exacerbations of angina pectoris and myocardial infarction have occurred.
 
-Hypersensitivity and Skin Reactions: Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, have been associated with the administration of propranolol (see ADVERSE REACTIONS).
+When discontinuing chronically administered Innopran XL, particularly in patients with ischemic heart disease, gradually reduce the dose over a period of 1-2 weeks and monitor the patients.
+If angina markedly worsens or acute coronary insufficiency develops, promptly resume therapy, at least temporarily and take other measures appropriate for the management of unstable angina.
+Warn patients against interruption or discontinuation of therapy without physician’s advice.
 
-Cutaneous reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis, erythema multiforme, and urticaria, have been reported with use of propranolol (see ADVERSE REACTIONS).
+Because coronary artery disease is common and may be unrecognized, avoid abrupt discontinuation of Innopran XL therapy even in patients treated only for hypertension.
 
-Nonallergic Bronchospasm (e.g., Chronic Bronchitis, Emphysema): In general, patients with bronchospastic lung disease should not receive beta-blockers.
-Propranolol should be administered with caution in this setting since it may block bronchodilation produced by endogenous and exogenous catecholamine stimulation of beta-receptors.
+## 5.2 Cardiac Failure
 
-Major Surgery: Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+Beta-blockers, like Innopran XL, can cause depression of myocardial contractility and may precipitate heart failure and cardiogenic shock.
+If signs or symptoms of heart failure develop, treat the patient according to recommended guidelines.
+It may be necessary to lower the dose of Innopran XL or to discontinue it.
 
-Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
-However, such patients may be subject to protracted severe hypotension.
+## 5.3 Maintain during Major Surgery
 
-Diabetes and Hypoglycemia: Beta-adrenergic blockade may prevent the appearance of certain premonitory signs and symptoms (pulse rate and blood pressure changes) of acute hypoglycemia, especially in labile insulin-dependent diabetics.
-In these patients, it may be more difficult to adjust the dosage of insulin.
+Chronically administered beta-blocking therapy, including Innopran XL, should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
-Propranolol therapy, particularly in infants and children, diabetic or not, has been associated with hypoglycemia especially during fasting, as in preparation for surgery.
-Hypoglycemia has been reported with propranolol use after prolonged physical exertion and in patients with renal insufficiency.
+## 5.4 Masked Signs of Hypoglycemia
 
-Thyrotoxicosis: Beta-adrenergic blockade may mask certain clinical signs of hyperthyroidism.
-Therefore, abrupt withdrawal of propranolol may be followed by an exacerbation of symptoms of hyperthyroidism, including thyroid storm.
-Propranolol may change thyroid-function tests, increasing T4 and reversing T3, and decreasing T3.
+Beta-blockers, like Innopran XL, may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
 
-Wolff-Parkinson-White Syndrome: Beta-adrenergic blockade in patients with Wolff-Parkinson-White syndrome and tachycardia has been associated with severe bradycardia requiring treatment with a pacemaker.
-In one case, this resulted after an initial dose of 5-mg propranolol.
+## 5.5 Thyrotoxicosis
 
-# PRECAUTIONS
+Innopran XL may mask clinical signs of hyperthyroidism, such as tachycardia.
+Avoid abrupt withdrawal of beta-blockade, which may precipitate a thyroid storm.
 
-General: Propranolol should be used with caution in patients with impaired hepatic or renal function.
-INNOPRAN XL is not indicated for the treatment of hypertensive emergencies.
+## 5.6 Bradycardia
 
-Beta-adrenergic receptor blockade can cause reduction of intraocular pressure.
-Patients should be told that INNOPRAN XL may interfere with the glaucoma screening test.
-Withdrawal may lead to a return of intraocular pressure.
+Bradycardia, including sinus pause, heart block, and cardiac arrest have occurred with the use of Innopran XL.
+Patients with first-degree atrioventricular block, sinus node dysfunction, or conduction disorders (including Wolff-Parkinson-White) may be at increased risk.
+The concomitant use of beta adrenergic blockers and non-dihydropyridine calcium channel blockers (e.g., verapamil and diltiazem), digoxin or clonidine increases the risk of significant bradycardia.
+Monitor heart rate and rhythm in patients receiving Innopran XL.
+If severe bradycardia develops, reduce or stop Innopran XL.
 
-Myopathy: Caution should be exercised when administering propranolol to patients with underlying skeletal muscle disease.
-Isolated cases of exacerbation of myopathy and myotonia have been reported.
+## 5.7 Reduced Effectiveness of Epinephrine in Treating Anaphylaxis
 
-Risk of Anaphylactic Reaction: While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
-Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
-
-Clinical Laboratory Tests: In patients with hypertension, use of propranolol has been associated with elevated levels of serum potassium, and serum transaminases and alkaline phosphatase.
-In severe heart failure, the use of propranolol has been associated with increases in blood urea nitrogen.
-
-Drug Interactions: Caution should be exercised when INNOPRAN XL is administered with drugs that have an effect on CYP2D6, 1A2, or 2C19 metabolic pathways.
-Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see CLINICAL PHARMACOLOGY, Drug Interactions).
-
-Plasma propranolol levels may increase with acute alcohol consumption and decrease upon chronic alcohol use.
-
-Cardiovascular Drugs: ACE Inhibitors: When combined with beta-blockers, ACE inhibitors can cause hypotension, particularly in the setting of acute myocardial infraction.
-
-The antihypertensive effects of clonidine may be antagonized by beta-blockers.
-INNOPRAN XL should be administered cautiously to patients withdrawing from clonidine.
-
-Alpha Blockers: Prazosin has been associated with prolongation of first dose hypotension in the presence of beta-blockers.
-
-Postural hypotension has been reported in patients taking both beta-blockers and terazosin or doxazosin.
-
-Antiarrhythmics: Propafenone has negative inotropic and beta-blocking properties that can be additive to those of propranolol.
-
-Quinidine increases the concentration of propranolol and produces greater degrees of clinical beta-blockade and may cause postural hypotension.
-
-Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with β-blockers such as propranolol.
-
-The clearance of lidocaine and bupivacaine are significantly reduced with administration of propranolol.
-Lidocaine and bupivacaine toxicity has been reported following co-administration with propranolol.
-(see also PRECAUTIONS, Drug Interactions, Non-Cardiovascular Drugs, Anesthetic Agents).
-
-Caution should be exercised when administering INNOPRAN XL with drugs that slow A-V nodal conduction, e.g. digitalis, lidocaine, and calcium channel blockers.
-
-Calcium Channel Blockers: Caution should be exercised when patients receiving a beta-blocker are administered a calcium-channel-blocking drug with negative inotropic and/or chronotropic effects.
-Both agents may depress myocardial contractility or atrioventricular conduction.
-
-There have been reports of significant bradycardia, heart failure, and cardiovascular collapse with concurrent use of verapamil and beta-blockers.
-
-Co-administration of propranolol and diltiazem in patients with cardiac disease has been associated with bradycardia, hypotension, high degree heart block, and heart failure.
-
-Digitalis Glycosides: Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
-Concomitant use can increase the risk of bradycardia.
-
-Inotropic Agents: Patients on long-term therapy with propranolol may experience uncontrolled hypertension if administered epinephrine as a consequence of unopposed alpha-receptor stimulation.
-Epinephrine is therefore not indicated in the treatment of propranolol overdose (see OVERDOSAGE).
-
-Isoproterenol and Dobutamine: Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
-Also, propranolol may reduce sensitivity to dobutamine stress echocardiography in patients undergoing evaluation for myocardial ischemia.
-
-Reserpine: Patients receiving catecholamine-depleting drugs, such as reserpine and INNOPRAN XL, should be closely observed for excessive reduction of resting sympathetic nervous activity, which may result in hypotension, marked bradycardia, vertigo, syncopal attacks, or orthostatic hypotension.
-
-Non-Cardiovascular Drugs: Anesthetic Agents: Methoxyflurane and trichloroethylene may depress myocardial contractility when administered with propranolol.
-
-The clearance of local amide anesthetics (e.g., lidocaine, bupivacaine, mepivacaine) is reduced with administration of propranolol.
-Lidocaine and bupivacaine toxicity has been reported following co-administration with propranolol.
-Caution should be exercised when amide anesthetic agents are administered concomitantly with propranolol.
-
-Antidepressants: The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta-blocking activity of propranolol.
-
-Neuroleptic Drugs: Hypotension and cardiac arrest have been reported with the concomitant use of propranolol and haloperidol.
-
-Nonsteroidal Anti-Inflammatory Drugs: Nonsteroidal anti-inflammatory drugs (NSAIDS) have been reported to blunt the antihypertensive effect of beta-adrenoreceptor blocking agents.
-
-Administration of indomethacin with propranolol may reduce the efficacy of propranolol in reducing blood pressure and heart rate.
-
-Thyroxine: Thyroxine may result in a lower than expected T3 concentration when used concomitantly with propranolol.
-
-Warfarin: Propranolol when administered with warfarin increases the concentration of warfarin.
-Prothrombin time, therefore, should be monitored.
-
-Carcinogenesis, Mutagenesis, Impairment of Fertility: In dietary administration studies in which mice and rats were treated with propranolol HCl for up to 18 months at doses of up to 150 mg/kg/day, there was no evidence of drug-related tumorigenesis.
-On a body surface area basis, this dose in the mouse and rat is, respectively, about equal to and about twice the maximum recommended human oral daily dose (MRHD) of 640 mg propranolol HCl.
-In a study in which both male and female rats were exposed to propranolol HCl in their diets at concentrations of up to 0.05% (about 50 mg/kg body weight and less than the MRHD), from 60 days prior to mating and throughout pregnancy and lactation for 2 generations, there were no effects on fertility.
-Based on differing results from Ames tests performed by different laboratories, there is equivocal evidence for a genotoxic effect of propranolol HCl in bacteria (S. typhimurium strain TA 1538).
-
-Pregnancy: Pregnancy Category C: In a series of reproductive and developmental toxicology studies, propranolol was given to rats by gavage or in the diet throughout pregnancy and lactation.
-At doses of 150 mg/kg/day, but not at doses of 80 mg/kg/day (equivalent to the MRHD on a body surface area basis), treatment was associated with embryotoxicity (reduced litter size and increased resorption rates) as well as neonatal toxicity (deaths).
-Propranolol HCl also was administered (in the feed) to rabbits (throughout pregnancy and lactation) at doses as high as 150 mg/kg/day (about 5 times the maximum recommended human oral daily dose).
-No evidence of embryo or neonatal toxicity was noted.
-
-There are no adequate and well-controlled studies in pregnant women.
-Intrauterine growth retardation, small placentas, and congenital anomalies have been reported for neonates whose mothers received propranolol HCl during pregnancy.
-Neonates whose mothers received propranolol HCl at parturition have exhibited bradycardia, hypoglycemia, and/or respiratory depression.
-Adequate facilities for monitoring such infants at birth should be available.
-INNOPRAN XL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-Nursing Mothers: Propranolol is excreted in human milk.
-Caution should be exercised when INNOPRAN XL is administered to a nursing woman.
-
-Pediatric Use: Safety and effectiveness of propranolol in pediatric patients have not been established.
-
-Geriatric Use: Clinical studies of INNOPRAN XL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Beta adrenergic blocker- treated patients treated with epinephrine for a severe anaphylactic reaction may be less responsive to the typical doses of epinephrine.
+In these patients, consider other medications (e.g., intravenous fluids, glucagon).

@@ -1,24 +1,30 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-General: Propranolol is a nonselective, beta-adrenergic receptor-blocking agent possessing no other autonomic nervous system activity.
+## 12.1 Mechanism of Action
+
+The mechanism of the antihypertensive effect of propranolol has not been established.
+Among factors that contribute to the antihypertensive action are: (1) decreased cardiac output, (2) inhibition of renin release by the kidneys, and (3) diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain.
+Although total peripheral resistance may increase initially, it readjusts to or below the pretreatment level with chronic use.
+Effects of propranolol on plasma volume appear to be minor and somewhat variable.
+
+## 12.2 Pharmacodynamics
+
+Propranolol is a nonselective, beta-adrenergic receptor-blocking agent possessing no other autonomic nervous system activity.
 It specifically competes with beta-adrenergic receptor-stimulating agents for available receptor sites.
+Of the 2 enantiomers of propranolol, the S-enantiomer blocks beta-adrenergic receptors.
 When access to beta-receptor sites is blocked by propranolol, chronotropic, inotropic, and vasodilator responses to beta-adrenergic stimulation are decreased proportionately.
 At dosages greater than required for beta blockade, propranolol also exerts a quinidine-like or anesthetic-like membrane action, which affects the cardiac action potential.
 The significance of the membrane action in the treatment of arrhythmias is uncertain.
 
-Mechanism of Action: The mechanism of the antihypertensive effect of propranolol has not been established.
-Among factors that contribute to the antihypertensive action are: (1) decreased cardiac output, (2) inhibition of renin release by the kidneys, and (3) diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain.
-Although total peripheral resistance may increase initially, it readjusts to or below the pretreatment level with chronic use of propranolol.
-Effects of propranolol on plasma volume appear to be minor and somewhat variable.
+## 12.3 Pharmacokinetics
 
-Pharmacokinetics and Drug Metabolism: Absorption: Propranolol is highly lipophilic and is almost completely absorbed after oral administration.
-However, it undergoes high first-pass metabolism by the liver and on average, only about 25% of propranolol reaches the systemic circulation.
+Absorption: Propranolol is highly lipophilic and is almost completely absorbed after oral administration.
+However, it undergoes high first-pass metabolism by the liver, and, on average, only about 25% of propranolol reaches the systemic circulation.
 
-A single-dose, food-effect study in 36 healthy subjects showed that a high fat meal administered with INNOPRAN XL at 10 p.m., increased the lag time from 3 to 5 hours and the time to reach the maximum concentration from 11.5 to 15.4 hours, under fed conditions, with no effect on the AUC (see DOSAGE AND ADMINISTRATION).
+A single-dose, food-effect study in 36 healthy subjects showed that a high fat meal administered with INNOPRAN XL at 10 p.m., increased the lag time from 3 to 5 hours and the time to reach the maximum concentration from 11.5 to 15.4 hours, with no effect on the AUC.
 
-Following multiple-dose administration of INNOPRAN XL at 10 p.m. under fasting conditions, the steady-state lag time was between 4 and 5 hours and propranolol peak plasma concentrations were reached approximately 12 to 14 hours after dosing.
+Following multiple-dose administration of INNOPRAN XL at 10 p.m. under fasting conditions, the steady state lag time was between 4 and 5 hours and propranolol peak plasma concentrations were reached approximately 12 to 14 hours after dosing.
 Propranolol trough levels were achieved 24 to 27 hours after dosing, and persisted for 3 to 5 hours after the next dose.
-The elimination half-life of propranolol was approximately 8 hours.
 
 The plasma levels of propranolol showed dose-proportional increases after single and multiple administration of 80-, 120-, and 160-mg of INNOPRAN XL.
 
@@ -34,7 +40,7 @@ Propranolol is metabolized through 3 primary routes: Aromatic hydroxylation (mai
 It has been estimated that the percentage contributions of these routes to total metabolism are 42%, 41%, and 17%, respectively, but with considerable variability between individuals.
 The 4 major metabolites are propranolol glucuronide, naphthyloxylactic acid, and glucuronic acid and sulfate conjugates of 4-hydroxy propranolol.
 
-In-vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.
+In vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.
 Side-chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6.
 4-hydroxy propranolol is a weak inhibitor of CYP2D6.
 
@@ -44,92 +50,86 @@ Studies suggest however that p-gp is not dose-limiting for intestinal absorption
 In healthy subjects, no difference was observed between CYP2D6 extensive metabolizers (EMs) and poor metabolizers (PMs) with respect to oral clearance or elimination half-life.
 Partial clearance to 4-hydroxy propranolol was significantly higher and to naphthyloxylactic acid was significantly lower in EMs than PMs.
 
-Enantiomers: Of the 2 enantiomers of propranolol, the S-enantiomer blocks beta-adrenergic receptors.
 In normal subjects receiving oral doses of racemic propranolol, S-enantiomer concentrations exceeded those of the R-enantiomer by 40 to 90% as a result of stereoselective hepatic metabolism.
 
-Special Populations: Pediatric: The pharmacokinetics of INNOPRAN XL have not been investigated in patients younger than 18 years of age.
+The elimination half-life of propranolol was approximately 8 hours.
+
+## 12.6 Specific Populations
+
+Pediatric: The pharmacokinetics of INNOPRAN XL have not been investigated in patients younger than 18 years of age.
 
 Geriatric: The pharmacokinetics of INNOPRAN XL have not been investigated in patients older than 65 years.
-In a study of 12 elderly (62 to 79 years old) and 12 young (25 to 33 years old) healthy subjects, the clearance of the S-enantiomer of propranolol was decreased in the elderly.
+In a study of 12 elderly (62 to 79 years old) and 12 young (25 to 33 years old) healthy subjects administered immediate-release propranolol, the clearance of the S-enantiomer of propranolol was decreased in the elderly.
 Additionally, the half-lives of both R- and S-propranolol were prolonged in the elderly compared with the young (11 hours versus 5 hours).
 
 Gender: In a dose-proportionality study, the pharmacokinetics of INNOPRAN XL were evaluated in 22 male and 14 female healthy volunteers.
 Following single doses under fasting conditions, the mean AUC and Cmax were about 49% and 16% higher for females across the dosage range.
 The mean elimination half-life was longer in females than in males (11 hours versus 7.5 hours).
 
-Race: A study conducted in 12 white and 13 African-American male subjects taking propranolol showed, that at steady state, the clearance of R- and S-propranolol were about 76% and 53% higher in African-Americans than in whites, respectively.
+Race: A study conducted in 12 white and 13 African-American male subjects taking immediate-release propranolol showed, that at steady state, the clearance of R- and S-propranolol were about 76% and 53% higher in African-Americans than in whites, respectively.
 
-Renal Insufficiency: The pharmacokinetics of INNOPRAN XL have not been evaluated in patients with renal insufficiency.
-In a study conducted in 5 patients with chronic renal failure, 6 patients on regular dialysis, and 5 healthy subjects, who received a single oral dose of 40 mg of propranolol, the peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 2- to 3-fold higher (161±41 ng/mL) than those observed in the dialysis patients (47±9 ng/mL) and in the healthy subjects (26±1 ng/mL).
+Renal Impairment: The pharmacokinetics of propranolol after administration of INNOPRAN XL have not been evaluated in patients with renal impairment.
+In a study conducted in 5 patients with chronic renal failure, 6 patients on regular dialysis, and 5 healthy subjects, who received a single oral dose of 40 mg of propranolol, the peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 3- to 5-fold (161±41 ng/mL) those observed in the dialysis patients (47±9 ng/mL) and in the healthy subjects (26±1 ng/mL).
 Propranolol plasma clearance was also reduced in the patients with chronic renal failure.
 
 Chronic renal failure has been associated with a decrease in drug metabolism via down regulation of hepatic cytochrome P450 activity.
 
 Propranolol is not significantly dialyzable.
 
-Hepatic Insufficiency: The pharmacokinetics of INNOPRAN XL have not been evaluated in patients with hepatic impairment.
+Hepatic Impairment: The pharmacokinetics of propranolol after administration of INNOPRAN XL have not been evaluated in patients with hepatic impairment.
 However, propranolol is extensively metabolized by the liver.
-In a study conducted in 7 patients with cirrhosis and 9 healthy subjects receiving 80-mg oral propranolol every 8 hours for 7 doses, the steady-state unbound propranolol concentration in patients with cirrhosis was increased 3-fold in comparison to controls.
-In cirrhosis, the half-life increased to 11 hours compared to 4 hours (see PRECAUTIONS).
+In a study conducted in 7 patients with cirrhosis and 9 healthy subjects receiving 80-mg oral propranolol every 8 hours for 7 doses, the steady-state unbound propranolol concentration in patients with cirrhosis was 3-fold that of controls.
+In cirrhosis, the half-life increased to 11 hours compared to 4 hours.
 
-Drug Interactions: Interactions with Substrates, Inhibitors or Inducers of Cytochrome P450 Enzymes: Because propranolol's metabolism involves multiple pathways in the cytochrome P450 system (CYP2D6, 1A2, 2C19), administration of INNOPRAN XL with drugs that are metabolized by, or affect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see PRECAUTIONS, Drug Interactions).
+## 12.7 Drug-Drug Interactions
 
-Plasma propranolol levels may increase with acute alcohol consumption and decrease upon chronic alcohol use.
+Impact of Propranolol on Other Drugs The effect of propranolol on exposure to other drugs is shown in Table 2.
 
-Substrates or Inhibitors of CYP2D6: Blood levels and/or toxicity of propranolol may be increased by administration of INNOPRAN XL with substrates or inhibitors of CYP2D6, such as amiodarone, cimetidine, delavudin, fluoxetine, paroxetine, quinidine, and ritonavir.
-No interactions were observed with either ranitidine or lansoprazole.
+Table 2 Impact of propranolol on other drugs
 
-Substrates or Inhibitors of CYP1A2: Blood levels and/or toxicity of propranolol may be increased by administration of INNOPRAN XL with substrates or inhibitors of CYP1A2, such as imipramine, cimetidine, ciprofloxacin, fluvoxamine, isoniazid, ritonavir, theophylline, zileuton, zolmitriptan, and rizatriptan.
+| Other drug | Effect on their exposure |
+| --- | --- |
+| Amide anesthetics (lidocaine, bupivacaine, mepivicaine) | Increased |
+| Warfarin | Increased |
+| Propafenone | Increased >200% |
+| Nifedipine | Increased 80% |
+| Verapamil | None |
+| Pravastatin, lovastatin | Decreased 20% |
+| Fluvastatin | None |
+| Zolmitriptan | Increased 60% |
+| Rizatriptan | Increased 80% |
+| Thioridazine | Increased 370% |
+| Diazepam | Increased |
+| Oxazepam, triazolam, lorazepam, alprazolam | None |
+| Theophylline | Increased 70% |
 
-Substrates or Inhibitors of CYP2C19: Blood levels and/or toxicity of propranolol may be increased by administration of INNOPRAN XL with substrates or inhibitors of CYP2C19, such as fluconazole, cimetidine, fluoxetine, fluvoxamine, teniposide, and tolbutamide.
-No interaction was observed with omeprazole.
+Impact of Other Drugs on Propranolol The effect of propranolol on exposure to other drugs is shown in Table 3.
 
-Inducers of Hepatic Drug Metabolism: Blood levels of propranolol may be decreased by administration of INNOPRAN XL with inducers such as rifampin.
-Cigarette smoking also induces hepatic metabolism and has been shown to increase up to 100% the clearance of propranolol, resulting in decreased plasma concentrations.
+Table 3 Impact of other drugs on exposure to propranolol
 
-Cardiovascular Drugs: Antiarrhythmics: The concomitant administration of propranolol and propafenone increased propranolol average steady-state plasma concentrations (213%), AUC (113%), Cmax (83%), Tmax (55%), and T1/2 (30%), and significantly decreased plasma levels of 4-hydroxy propranolol.
-Co-administration of propranolol and propafenone did not produce any significant change in propafenone pharmacokinetics.
-While the therapeutic range for propranolol is wide, a reduction in dosage may be necessary during concomitant administration with propafenone.
-
-The metabolism of propranolol is reduced by co-administration of quinidine, leading to a 2- to 3-fold increase in blood concentrations and greater degrees of clinical beta-blockade.
-
-Concomitant administration of propranolol with lidocaine, bupivacaine or mepivacaine has been reported to decrease the clearance of these amide anesthetics significantly, resulting in higher serum concentrations of the anesthetic.
-
-Calcium channel blockers: The mean Cmax and AUC of propranolol are increased respectively, by 50% and 30% by co-administration of nisoldipine and by 80% and 47%, by co-administration of nicardipine.
-
-The mean Cmax and AUC of nifedipine are increased by 64% and 79%, respectively, by co-administration of propranolol.
-
-Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.
-Verapamil does not affect the pharmacokinetics of propranolol.
-
-Non-Cardiovascular Drugs: Anti-Ulcer Drugs: Co-administration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol concentrations by about 40%.
-Co-administration with aluminum hydroxide gel (1,200 mg) resulted in a 50% decrease in propranolol concentrations.
-
-Co-administration of metoclopramide with propranolol did not have a significant effect on propranolol's pharmacokinetics.
-
-Benzodiazepines: Propranolol can inhibit the metabolism of diazepam, resulting in increased concentrations of diazepam and its metabolites.
-Diazepam does not alter the pharmacokinetics of propranolol.
-
-The pharmacokinetics of oxazepam, triazolam, lorazepam, and alprazolam are not affected by co-administration of propranolol.
-
-Lipid Lowering Drugs: Co-administration of cholesteramine or colestipol with propranolol resulted in up to a 50% decrease in propranolol concentrations.
-
-Co-administration of propranolol with lovastatin or pravastatin decreased 20% to 25% the AUC of both, but did not alter their pharmacodynamics.
-Propranolol did not have an effect on the pharmacokinetics of fluvastatin.
-
-Migraine Drugs: Administration of zolmitriptan or rizatriptan with propranolol resulted in increased concentrations of zolmitriptan (AUC increased by 56% and Cmax by 37%) or rizatriptan (the AUC and Cmax were increased by 67% and 75%, respectively).
-
-Neuroleptic Drugs: Co-administration of propranolol at doses greater than or equal to 160 mg/day resulted in increased thioridazine plasma concentrations ranging from 50% to 370% and increased thioridazine metabolites concentrations ranging from 33% to 210%.
-
-Co-administration of chlorpromazine with propranolol resulted in increased plasma levels of both drugs (70% increase in propranolol concentrations).
-
-Theophylline: Co-administration of theophylline with propranolol decreases theophylline oral clearance by 33% to 52%.
-
-Warfarin: Concomitant administration of propranolol and warfarin has been shown to increase warfarin bioavailability and increase prothrombin time.
-
-Pharmacodynamics and Clinical Effects: Hypertension: In a double-blind, parallel dose-response study in patients with mild-to-moderate hypertension (n=434), doses of INNOPRAN XL from 80 to 640 mg were taken once daily at approximately 10 p.m.
-INNOPRAN XL significantly lowered sitting systolic and diastolic blood pressure when measurements were taken approximately 16 hours later.
-The placebo-subtracted diastolic blood pressure effect for the 80- and 120-mg doses was -3.0 and -4.0 mm Hg, respectively.
-Higher doses of INNOPRAN XL (160, 640 mg) had no additional blood-pressure lowering effect when compared with 120 mg.
-The antihypertensive effects of INNOPRAN XL were seen in the elderly (≥65 years old) and men and women.
-There were too few non-white patients to assess the efficacy of INNOPRAN XL in these patients.
+| Other drug | Effect on propranolol exposure |
+| --- | --- |
+| Inhibitors of CYP2D6, CYP1A2, or CYP2C19 | Increased |
+| Inducers of CYP1A2 or CYP2C19 | Decreased |
+| Quinidine | Increased >200% |
+| Nisoldipine | Increased 50% |
+| Nicardipine | Increased 80% |
+| Chlorpromazine | Increased 70% |
+| Cimetidine | Increased 50% |
+| Cholestyramine, colestipol | Decreased 50% |
+| Alcohol | Increased |
+| Diazepam | None |
+| Verapamil | None |
+| Metochlopramide | None |
+| Ranitidine | None |
+| Lansoprazole | None |
+| Omeprazole | None |
+| Alcohol | Increase acutely or decrease chronically |
+| Propafenone | Increased 200% |
+| Quinidine | Increased 200% |
+| Cimetidine | Increased 40% |
+| Aluminum hydroxide | Decreased 50% |
+| Diazepam | None |
+| Nisoldipine, nicardipine, nifedipine | Increased 50-80% |
+| Verapamil | None |
+| Chlorpromazine | Increased 70% |
