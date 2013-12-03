@@ -59,11 +59,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2012, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
 
-January 2012
-
-FLH:4PI
+FLH:5PI
 
 PHARMACIST—DETACH HERE AND GIVE LEAFLET TO PATIENT

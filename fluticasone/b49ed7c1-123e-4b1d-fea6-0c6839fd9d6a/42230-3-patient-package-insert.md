@@ -172,7 +172,7 @@ Active ingredient: fluticasone propionate (micronized)
 
 Inactive ingredient: propellant HFA-134a
 
-Instructions for Using FLOVENT HFA
+Instructions for Use
 
 The parts of your FLOVENT HFA
 
@@ -196,8 +196,6 @@ And do not use a FLOVENT HFA canister with an actuator from any other inhaler.
 Using your FLOVENT HFA
 
 - •The inhaler should be at room temperature before you use it.
-- •Take your FLOVENT HFA inhaler out of the moisture-protective foil pouch just before you use it for the first time.
-  Safely throw away the foil pouch and the drying packet that comes inside the pouch.
 - •Priming the inhaler: Before you use FLOVENT HFA for the first time, you must prime the inhaler so that you will get the right amount of medicine when you use it.
   To prime the inhaler, take the cap off the mouthpiece and shake the inhaler well for 5 seconds.
   Then spray the inhaler into the air away from your face.
@@ -222,18 +220,17 @@ If you have any questions, ask your doctor or pharmacist.
    Breathe out through your mouth and push as much air from your lungs as you can.
    Put the mouthpiece in your mouth and close your lips around it.
 
-1. 3.Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
+1. 1.Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
    Right after the spray comes out, take your finger off the canister.
    After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
 
-1. 4.Hold your breath as long as you can, up to 10 seconds.
+1. 1.Hold your breath as long as you can, up to 10 seconds.
    Then breathe normally.
-2. 5.Wait about 30 seconds and shake the inhaler well for 5 seconds.
-   Repeat steps 2 through 4.
-3. 6.After you finish taking this medicine, rinse your mouth with water.
+2. 2.Wait about 30 seconds and shake the inhaler well for 5 seconds.
+   Repeat steps 2 through 4.After you finish taking this medicine, rinse your mouth with water.
    Spit out the water.
    Do not swallow it.
-4. 7.Put the cap back on the mouthpiece after each time you use the inhaler.
+3. 3.Put the cap back on the mouthpiece after each time you use the inhaler.
    Make sure it snaps firmly into place.
 
 Cleaning your FLOVENT HFA
@@ -256,7 +253,7 @@ Replacing your FLOVENT HFA
 - •When the counter reads 020, you should refill your prescription or ask your doctor if you need a refill of your prescription.
 - •When the counter reads 000, throw the inhaler away.
   You should not keep using the inhaler because you will not receive the right amount of medicine.
-- •Do not use the inhaler after the expiration date, which is on the packaging it comes in.
+- •Do not use the inhaler after the expiration date, which is on the packaging it comes in.This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 FLOVENT is a registered trademark of GlaxoSmithKline.
 
@@ -267,9 +264,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2013, GlaxoSmithKline.
 All rights reserved.
 
-November 2010
+July 2013
 
-FLH:2PIL
+FLH:3PIL

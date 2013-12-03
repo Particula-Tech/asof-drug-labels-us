@@ -1,14 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-FLOVENT HFA 44 mcg Inhalation Aerosol is supplied in 10.6-g pressurized aluminum canisters containing 120 metered inhalations in boxes of 1 (NDC 0173-0718-20).
+Flovent HFA 44 mcg Inhalation Aerosol is supplied in 10.6-g pressurized aluminum canisters containing 120 metered inhalations in boxes of 1 with patient instructions (NDC 0173-0718-20).
 
-FLOVENT HFA 110 mcg Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered inhalations in boxes of 1 (NDC 0173-0719-20).
+Flovent HFA 110 mcg Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered inhalations in boxes of 1 with patient instructions (NDC 0173-0719-20).
 
-FLOVENT HFA 220 mcg Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered inhalations in boxes of 1 (NDC 0173-0720-20).
+Flovent HFA 220 mcg Inhalation Aerosol is supplied in 12-g pressurized aluminum canisters containing 120 metered inhalations in boxes of 1 with patient instructions (NDC 0173-0720-20).
 
-Each canister is fitted with a counter and a dark orange oral actuator with a peach strapcap packaged within a plastic-coated, moisture-protective foil pouch and patient’s instructions.
-The moisture-protective foil pouch also contains a desiccant that should be discarded when the pouch is opened.
-
+Each canister is fitted with a counter and a dark orange oral actuator with a peach strapcap.
 The dark orange actuator supplied with FLOVENT HFA should not be used with any other product canisters, and actuators from other products should not be used with a FLOVENT HFA canister.
 
 The correct amount of medication in each inhalation cannot be assured after the counter reads 000, even though the canister is not completely empty and will continue to operate.

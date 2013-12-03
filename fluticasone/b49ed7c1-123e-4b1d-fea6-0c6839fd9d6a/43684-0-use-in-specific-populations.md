@@ -54,7 +54,7 @@ The clinical significance of these growth data is not certain.
 Physicians should closely follow the growth of children and adolescents taking corticosteroids by any route, and weigh the benefits of corticosteroid therapy against the possibility of growth suppression if growth appears slowed.
 Patients should be maintained on the lowest dose of inhaled corticosteroid that effectively controls their asthma.
 
-Children Younger Than 4 Years:Pharmacokinetics:[see Clinical Pharmacology (12.3)].
+Children Younger Than 4 Years:Pharmacokinetics: [see Clinical Pharmacology (12.3)].
 
 Pharmacodynamics: A 12-week, double-blind, placebo-controlled, parallel-group study was conducted in children with asthma aged 1 to less than 4 years.
 Twelve-hour overnight urinary cortisol excretion after a 12-week treatment period with 88 mcg of FLOVENT HFA twice daily (n = 73) and with placebo (n = 42) were calculated.

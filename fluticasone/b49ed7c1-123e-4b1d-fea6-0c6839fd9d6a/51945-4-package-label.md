@@ -6,29 +6,25 @@ Flovent® HFA 44 mcg
 
 (fluticasone propionate 44 mcg) Inhalation Aerosol
 
-With Dose Counter
+For oral inhalation with FLOVENT HFA actuator only.
 
-FOR ORAL INHALATION ONLY
+Attention Pharmacist: Dispense with enclosed “Patient Information.”
 
-Contents: Each canister contains a microcrystalline suspension of fluticasone propionate (micronized) in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
-
-Each actuation of the inhaler delivers 50 mcg of fluticasone propionate from the valve and 44 mcg from the actuator.
-
-IMPORTANT: Read accompanying Patient Information leaflet carefully for further information.
-
-Dosage: Use only as directed by your doctor.
-
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+See prescribing information for dosage information.
 
 Rx only
 
+With Dose Counter
+
 Net Wt.
-10.6g 120 Metered Actuations
+10.6g
 
-GlaxoSmithKline, Research Triangle Park, NC 27709
+120 Metered Actuations
 
-10000000105648 Rev.
-4/12
+Made in UK
+
+10000000118776 Rev.
+4/13
 
 Principal Display Panel
 
@@ -38,29 +34,25 @@ Flovent® HFA 110 mcg
 
 (fluticasone propionate 110 mcg) Inhalation Aerosol
 
-With Dose Counter
+For oral inhalation with FLOVENT HFA actuator only.
 
-FOR ORAL INHALATION ONLY
+Attention Pharmacist: Dispense with enclosed “Patient Information.”
 
-Contents: Each canister contains a microcrystalline suspension of fluticasone propionate (micronized) in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
-
-Each actuation of the inhaler delivers 125 mcg of fluticasone propionate from the valve and 110 mcg from the actuator.
-
-IMPORTANT: Read accompanying Patient Information leaflet carefully for further information.
-
-Dosage: Use only as directed by your doctor.
-
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+See prescribing information for dosage information.
 
 Rx only
 
+With Dose Counter
+
 Net Wt.
-12g 120 Metered Actuations
+12 g
 
-GlaxoSmithKline, Research Triangle Park, NC 27709
+120 Metered Actuations
 
-10000000100594 Rev.
-10/11
+Made in Singapore
+
+10000000118729 Rev.
+7/13
 
 Principal Display Panel
 
@@ -70,26 +62,22 @@ Flovent® HFA 220 mcg
 
 (fluticasone propionate 220 mcg) Inhalation Aerosol
 
-With Dose Counter
+For oral inhalation with FLOVENT HFA actuator only.
 
-FOR ORAL INHALATION ONLY
+Attention Pharmacist: Dispense with enclosed “Patient Information.”
 
-Contents: Each canister contains a microcrystalline suspension of fluticasone propionate (micronized) in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
-
-Each actuation of the inhaler delivers 250 mcg of fluticasone propionate from the valve and 220 mcg from the actuator.
-
-IMPORTANT: Read accompanying Patient Information leaflet carefully for further information.
-
-Dosage: Use only as directed by your doctor.
-
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+See prescribing information for dosage information.
 
 Rx only
 
+With Dose Counter
+
 Net Wt.
-12g 120 Metered Actuations
+12 g
 
-GlaxoSmithKline, Research Triangle Park, NC 27709
+120 Metered Actuations
 
-10000000100592 Rev.
-10/11
+Made in Singapore
+
+10000000118730 Rev.
+7/13
