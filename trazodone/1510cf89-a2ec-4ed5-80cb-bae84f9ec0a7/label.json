@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA202180"
+  ],
+  "inn": "trazodone",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-330-01",
+    "13668-330-05",
+    "13668-330-10",
+    "13668-330-30",
+    "13668-330-74",
+    "13668-331-01",
+    "13668-331-05",
+    "13668-331-10",
+    "13668-331-30",
+    "13668-331-74",
+    "13668-332-01",
+    "13668-332-05",
+    "13668-332-10",
+    "13668-332-30",
+    "13668-332-74",
+    "13668-333-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "trazodone hydrochloride",
+      "name": "Trazodone Hydrochloride"
+    }
+  ],
+  "setid": "1510cf89-a2ec-4ed5-80cb-bae84f9ec0a7",
+  "source": "dailymed"
+}
