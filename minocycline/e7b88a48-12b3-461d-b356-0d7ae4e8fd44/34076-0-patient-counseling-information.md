@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-approved patient labeling (PATIENT INFORMATION) ] Patients taking minocycline hydrochloride extended-release tablets should receive the following information and instructions:
+See FDA-approved patient labeling (Patient Labeling) Patients taking minocycline hydrochloride extended-release tablets should receive the following information and instructions:
 
 - Minocycline hydrochloride extended-release tablets should not be used by pregnant women or women attempting to conceive a child [see USE IN SPECIFIC POPULATIONS (8.1), NONCLINICAL TOXICOLOGY (13.1)].
 - It is recommended that minocycline hydrochloride extended-release tablets not be used by men who are attempting to father a child [see NONCLINICAL TOXICOLOGY (13.1)].
@@ -12,7 +12,7 @@
   Patients should seek medical help for persistent headaches or blurred vision.
 - Concurrent use of tetracycline may render oral contraceptives less effective [see DRUG INTERACTIONS (7.5)].
 - Autoimmune syndromes, including drug-induced lupus-like syndrome, autoimmune hepatitis, vasculitis and serum sickness have been observed with tetracycline-class drugs, including minocycline.
-  Symptoms may be manifested by arthralgia, fever, rash, and malaise.
+  Symptoms may be manifested by arthralgia, fever, rash and malaise.
   Patients who experience such symptoms should be cautioned to stop the drug immediately and seek medical help.
 - Patients should be counseled about discoloration of skin, scars, teeth or gums that can arise from minocycline therapy.
 - Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines, including minocycline.
@@ -26,4 +26,4 @@
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Issued: July 2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 11/2013

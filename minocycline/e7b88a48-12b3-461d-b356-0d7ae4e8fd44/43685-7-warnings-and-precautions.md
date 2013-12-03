@@ -4,7 +4,7 @@
 
 A. MINOCYCLINE, LIKE OTHER TETRACYCLINE-CLASS DRUGS, CAN CAUSE FETAL HARM WHEN ADMINISTERED TO A PREGNANT WOMAN.
 IF ANY TETRACYCLINE IS USED DURING PREGNANCY OR IF THE PATIENT BECOMES PREGNANT WHILE TAKING THESE DRUGS, THE PATIENT SHOULD BE APPRISED OF THE POTENTIAL HAZARD TO THE FETUS.
-Minocycline hydrochloride extended-release tablets should not be used during pregnancy or by individuals of either gender who are attempting to conceive a child [see NONCLINICAL TOXICOLOGY (13.1) & USE IN SPECIFIC POPULATIONS (8.1) ].
+Minocycline hydrochloride extended-release tablets should not be used during pregnancy or by individuals of either gender who are attempting to conceive a child [see NONCLINICAL TOXICOLOGY (13.1) and USE IN SPECIFIC POPULATIONS (8.1)].
 B. THE USE OF DRUGS OF THE TETRACYCLINE CLASS DURING TOOTH DEVELOPMENT (LAST HALF OF PREGNANCY, INFANCY, AND CHILDHOOD UP TO THE AGE OF 8 YEARS) MAY CAUSE PERMANENT DISCOLORATION OF THE TEETH (YELLOW-GRAY-BROWN).
 This adverse reaction is more common during long-term use of the drug but has been observed following repeated short-term courses.
 Enamel hypoplasia has also been reported.
@@ -13,18 +13,18 @@ C. All tetracyclines form a stable calcium complex in any bone-forming tissue.
 A decrease in fibula growth rate has been observed in premature human infants given oral tetracycline in doses of 25 mg/kg every 6 hours.
 This reaction was shown to be reversible when the drug was discontinued.
 Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can cause retardation of skeletal development on the developing fetus.
-Evidence of embryotoxicity has been noted in animals treated early in pregnancy [see USE IN SPECIFIC POPULATIONS (8.1) ].
+Evidence of embryotoxicity has been noted in animals treated early in pregnancy [see USE IN SPECIFIC POPULATIONS (8.1)].
 
 ## 5.2 Pseudomembranous Colitis
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including minocycline hydrochloride extended-release tablets, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile .
+Clostridium difficile associated diarrhea (CDAD) has been reported with nearly all antibacterial agents, including minocycline, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C.difficile.
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## 5.3 Hepatotoxicity
 
@@ -80,22 +80,24 @@ If this syndrome is recognized, the drug should be discontinued immediately.
 
 ## 5.10 Tissue Hyperpigmentation
 
-Tetracycline class antibiotics are known to cause hyperpigmentation.
+Tetracycline-class antibiotics are known to cause hyperpigmentation.
 Tetracycline therapy may induce hyperpigmentation in many organs, including nails, bone, skin, eyes, thyroid, visceral tissue, oral cavity (teeth, mucosa, alveolar bone), sclerae and heart valves.
 Skin and oral pigmentation has been reported to occur independently of time or amount of drug administration, whereas other tissue pigmentation has been reported to occur upon prolonged administration.
 Skin pigmentation includes diffuse pigmentation as well as over sites of scars or injury.
 
-## 5.11 Development of Drug Resistant Bacteria
+## 5.11 Development of Drug-Resistant Bacteria
 
 Bacterial resistance to the tetracyclines may develop in patients using minocycline hydrochloride extended-release tablets, therefore, the susceptibility of bacteria associated with infection should be considered in selecting antimicrobial therapy.
 Because of the potential for drug-resistant bacteria to develop during the use of minocycline hydrochloride extended-release tablets, they should be used only as indicated.
 
 ## 5.12 Superinfection
 
-As with other antibiotic preparations, use of minocycline hydrochloride extended-release tablets may result in overgrowth of nonsusceptible organisms, including fungi.
+As with other antibiotic preparations, use of minocycline hydrochloride extended-release tablets
+
+may result in overgrowth of nonsusceptible organisms, including fungi.
 If superinfection occurs, minocycline hydrochloride extended-release tablets should be discontinued and appropriate therapy instituted.
 
 ## 5.13 Laboratory Monitoring
 
-Periodic laboratory evaluations of organ systems, including hematopoietic renal and hepatic studies should be performed.
+Periodic laboratory evaluations of organ systems, including hematopoietic, renal and hepatic studies should be performed.
 Appropriate tests for autoimmune syndromes should be performed as indicated.

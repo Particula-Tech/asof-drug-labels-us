@@ -1,8 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under prescribed conditions, adverse reaction rates observed in the clinical trial may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
 The following table summarizes selected adverse reactions reported in clinical trials at a rate of ≥1% for minocycline hydrochloride extended-release tablets.
 
 Table 2: Selected Treatment-Emergent Adverse Reactions in at least 1% of Clinical Trial Subjects
@@ -26,7 +26,7 @@ Table 2: Selected Treatment-Emergent Adverse Reactions in at least 1% of Clinica
 
 ## 6.2 Postmarketing Experience
 
-Adverse reactions that have been reported with minocycline hydrochloride use in a variety of indications include: Skin and hypersensitivity reactions: fixed drug eruptions, balanitis, erythema multiforme, Stevens-Johnson syndrome, anaphylactoid purpura, photosensitivity, pigmentation of skin and mucous membranes, hypersensitivity reactions, angioneurotic edema, anaphylaxis, DRESS syndrome [see WARNINGS AND PRECAUTIONS (5.9) ].
+Adverse reactions that have been reported with minocycline hydrochloride use in a variety of indications include: Skin and hypersensitivity reactions: fixed drug eruptions, balanitis, erythema multiforme, Stevens-Johnson syndrome, anaphylactoid purpura, photosensitivity, pigmentation of skin and mucous membranes, hypersensitivity reactions, angioneurotic edema, anaphylaxis, DRESS syndrome [see WARNINGS AND PRECAUTIONS (5.9)].
 Autoimmune conditions: polyarthralgia, pericarditis, exacerbation of systemic lupus, pulmonary infiltrates with eosinophilia, transient lupus-like syndrome.
 Central nervous system: pseudotumor cerebri, bulging fontanels in infants, decreased hearing.
 Endocrine: brown-black microscopic thyroid discoloration, abnormal thyroid function.
@@ -35,4 +35,4 @@ Oral: glossitis, dysphagia, tooth discoloration.
 Gastrointestinal: enterocolitis, pancreatitis, hepatitis, liver failure.
 Renal: reversible acute renal failure.
 Hematology: hemolytic anemia, thrombocytopenia, eosinophilia.
-Preliminary studies suggest that use of minocycline may have deleterious effects on human spermatogenesis [see NONCLINICAL TOXICOLOGY (13.1) ].
+Preliminary studies suggest that use of minocycline may have deleterious effects on human spermatogenesis [see NONCLINICAL TOXICOLOGY (13.1)].

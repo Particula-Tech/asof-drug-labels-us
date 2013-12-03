@@ -17,6 +17,6 @@ Table 1: Dosing Table for Minocycline Hydrochloride Extended-Release Tablets
 | 244 to 276 | 111 to 125 | 115 | 1.04 to 0.92 |
 | 277 to 300 | 126 to 136 | 135 | 1.07 to 0.99 |
 
-Minocycline hydrochloride extended-release tablets may be taken with or without food [see CLINICAL PHARMACOLOGY (12) ].
+Minocycline hydrochloride extended-release tablets may be taken with or without food [see CLINICAL PHARMACOLOGY (12.3)].
 Ingestion of food along with minocycline hydrochloride extended-release tablets may help reduce the risk of esophageal irritation and ulceration.
-In patients with renal impairment, the total dosage should be decreased by either reducing the recommended individual doses and/or by extending the time intervals between doses [see WARNINGS AND PRECAUTIONS (5.4) ].
+In patients with renal impairment, the total dosage should be decreased by either reducing the recommended individual doses and/or by extending the time intervals between doses [see WARNINGS AND PRECAUTIONS (5.4)].

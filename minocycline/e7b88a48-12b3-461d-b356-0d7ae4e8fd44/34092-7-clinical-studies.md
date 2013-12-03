@@ -1,12 +1,12 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of minocycline hydrochloride extended-release tablets in the treatment of inflammatory lesions of non-nodular moderate to severe acne vulgaris was assessed in two 12-week, multi-center, randomized, double-blind, placebo-controlled, studies in subjects ≥ 12 years.
+The safety and efficacy of minocycline hydrochloride extended-release tablets in the treatment of inflammatory lesions of non-nodular moderate to severe acne vulgaris was assessed in two 12-week, multi-center, randomized, double-blind, placebo-controlled, trials in subjects ≥ 12 years.
 The mean age of subjects was 20 years and subjects were from the following racial groups: White (73%), Hispanic (13%), Black (11%), Asian/Pacific Islander (2%), and Other (2%).
 In two efficacy and safety trials, a total of 924 subjects with non-nodular moderate to severe acne vulgaris received minocycline hydrochloride extended-release tablets or placebo for a total of 12 weeks, according to the following dose assignments.
 
 Table 3: Clinical Studies Dosing Table
 
-| Subject’s Weight (lbs) | Subject’s Weight (kg) | Available Caplet Strength (mg) | Actual mg/kg Dose |
+| Subject’s Weight (lbs.) | Subject’s Weight (kg) | Available Tablet Strength (mg) | Actual mg/kg Dose |
 | --- | --- | --- | --- |
 | 99 to 131 | 45 to 59 | 45 | 1 to 0.76 |
 | 132 to 199 | 60 to 90 | 90 | 1.5 to 1 |
@@ -18,7 +18,7 @@ Efficacy results are presented in Table 4.
 
 Table 4: Efficacy Results at Week 12
 
-|  | Study 1 |  | Study 2 |  |
+|  | Trial 1 |  | Trial 2 |  |
 | --- | --- | --- | --- | --- |
 |  | Minocycline Hydrochloride Extended-Release Tablets (1 mg/kg) N = 300 | Placebo N = 151 | Minocycline Hydrochloride Extended-Release Tablets (1 mg/kg) N = 315 | Placebo N = 158 |
 | Mean Percent Improvement in Inflammatory Lesions | 43.1% | 31.7% | 45.8% | 30.8% |

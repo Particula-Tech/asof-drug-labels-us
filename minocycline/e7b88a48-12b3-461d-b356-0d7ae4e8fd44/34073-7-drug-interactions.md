@@ -19,7 +19,7 @@ Absorption of tetracyclines is impaired by antacids containing aluminum, calcium
 ## 7.5 Low Dose Oral Contraceptives
 
 In a multi-center study to evaluate the effect of minocycline hydrochloride extended-release tablets on low dose oral contraceptives, hormone levels over one menstrual cycle with and without minocycline hydrochloride extended-release tablets 1 mg/kg once-daily were measured.
-Based on the results of this trial, minocycline-related changes in estradiol, progestinic hormone, FSH and LH plasma levels, of breakthrough bleeding, or of contraceptive failure, can not be ruled out.
+Based on the results of this trial, minocycline-related changes in estradiol, progestinic hormone, FSH and LH plasma levels, of breakthrough bleeding, or of contraceptive failure, cannot be ruled out.
 To avoid contraceptive failure, female patients are advised to use a second form of contraceptive during treatment with minocycline.
 
 ## 7.6 Drug/Laboratory Test Interactions
