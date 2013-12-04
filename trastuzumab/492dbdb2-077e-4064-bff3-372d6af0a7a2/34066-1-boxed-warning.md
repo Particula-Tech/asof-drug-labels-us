@@ -2,8 +2,8 @@
 
 Cardiomyopathy
 
-Herceptin administration can result in sub‑clinical and clinical cardiac failure.
-The incidence and severity was highest in patients receiving Herceptin with anthracycline‑containing chemotherapy regimens.
+Herceptin administration can result in sub-clinical and clinical cardiac failure.
+The incidence and severity was highest in patients receiving Herceptin with anthracycline-containing chemotherapy regimens.
 
 Evaluate left ventricular function in all patients prior to and during treatment with Herceptin.
 Discontinue Herceptin treatment in patients receiving adjuvant therapy and withhold Herceptin in patients with metastatic disease for clinically significant decrease in left ventricular function.
@@ -18,7 +18,7 @@ Monitor patients until symptoms completely resolve.
 Discontinue Herceptin for anaphylaxis, angioedema, interstitial pneumonitis, or acute respiratory distress syndrome.
 [see Warnings and Precautions (5.2, 5.4)]
 
-Embryo Fetal Toxicity
+Embryo-Fetal Toxicity
 
 Exposure to Herceptin during pregnancy can result in oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
 [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)]

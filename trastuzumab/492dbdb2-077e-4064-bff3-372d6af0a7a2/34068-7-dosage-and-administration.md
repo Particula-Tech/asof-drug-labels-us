@@ -14,7 +14,7 @@ During and following paclitaxel, docetaxel, or docetaxel/carboplatin:
 - Initial dose of 4 mg/kg as an intravenous infusion over 90 minutes then at 2 mg/kg as an intravenous infusion over 30 minutes weekly during chemotherapy for the first 12 weeks (paclitaxel or docetaxel) or 18 weeks (docetaxel/carboplatin).
 - One week following the last weekly dose of Herceptin, administer Herceptin at 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks.
 
-As a single agent within three weeks following completion of multi‑modality, anthracycline‑based chemotherapy regimens:
+As a single agent within three weeks following completion of multi-modality, anthracycline-based chemotherapy regimens:
 
 - Initial dose at 8 mg/kg as an intravenous infusion over 90 minutes
 - Subsequent doses at 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks.
@@ -37,7 +37,7 @@ Infusion Reactions
 
 - Decrease the rate of infusion for mild or moderate infusion reactions
 - Interrupt the infusion in patients with dyspnea or clinically significant hypotension
-- Discontinue Herceptin for severe or life‑threatening infusion reactions.
+- Discontinue Herceptin for severe or life-threatening infusion reactions.
 
 Cardiomyopathy
 
@@ -46,7 +46,7 @@ Cardiomyopathy
 Assess left ventricular ejection fraction (LVEF) prior to initiation of Herceptin and at regular intervals during treatment.
 Withhold Herceptin dosing for at least 4 weeks for either of the following:
 
-- ≥ 16% absolute decrease in LVEF from pre‑treatment values
+- ≥ 16% absolute decrease in LVEF from pre-treatment values
 - LVEF below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values.
 
 Herceptin may be resumed if, within 4–8 weeks, the LVEF returns to normal limits and the absolute decrease from baseline is ≤ 15%.
@@ -57,7 +57,7 @@ Permanently discontinue Herceptin for a persistent (> 8 weeks) LVEF decline or f
 
 Reconstitution
 
-Reconstitute each 440 mg vial of Herceptin with 20 mL of Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative to yield a multi‑dose solution containing 21 mg/mL trastuzumab.
+Reconstitute each 440 mg vial of Herceptin with 20 mL of Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative to yield a multi-dose solution containing 21 mg/mL trastuzumab.
 In patients with known hypersensitivity to benzyl alcohol, reconstitute with 20 mL of Sterile Water for Injection (SWFI) without preservative to yield a single use solution.
 
 Use appropriate aseptic technique when performing the following reconstitution steps:
@@ -71,7 +71,7 @@ Use appropriate aseptic technique when performing the following reconstitution s
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Inspect visually for particulates and discoloration.
   The solution should be free of visible particulates, clear to slightly opalescent and colorless to pale yellow.
-- Store reconstituted Herceptin at 2–8° C; discard unused Herceptin after 28 days.
+- Store reconstituted Herceptin at 2–8°C; discard unused Herceptin after 28 days.
   If Herceptin is reconstituted with SWFI without preservative, use immediately and discard any unused portion.
 
 Dilution

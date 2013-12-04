@@ -16,7 +16,7 @@ If oligohydramnios occurs, perform fetal testing that is appropriate for gestati
 The efficacy of IV hydration in management of oligohydramnios due to Herceptin exposure is not known.
 
 Advise women of the potential hazard to the fetus resulting from Herceptin exposure during pregnancy.
-Encourage pregnant women with breast cancer who are using Herceptin to enroll in MotHER the Herceptin Pregnancy Registry: phone 1 800 690 6720.
+Encourage pregnant women with breast cancer who are using Herceptin to enroll in MotHER-the Herceptin Pregnancy Registry: phone 1-800-690-6720.
 [see Patient Counseling Information (17)].
 
 No teratogenic effects were observed in offspring from reproduction studies in cynomolgus monkeys at doses up to 25 times the recommended weekly human dose of 2 mg/kg trastuzumab.
@@ -31,7 +31,7 @@ Published data suggest that breast milk antibodies do not enter the neonatal and
 Trastuzumab was present in the breast milk of lactating cynomolgus monkeys given 12.5 times the recommended weekly human dose of 2 mg/kg of Herceptin.
 Infant monkeys with detectable serum levels of trastuzumab did not have any adverse effects on growth or development from birth to 3 months of age; however, trastuzumab levels in animal breast milk may not accurately reflect human breast milk levels.
 
-Because many drugs are secreted in human milk and because of the potential for serious adverse reactions in nursing infants from Herceptin, a decision should be made whether to discontinue nursing, or discontinue drug, taking into account the elimination half‑life of trastuzumab and the importance of the drug to the mother.
+Because many drugs are secreted in human milk and because of the potential for serious adverse reactions in nursing infants from Herceptin, a decision should be made whether to discontinue nursing, or discontinue drug, taking into account the elimination half-life of trastuzumab and the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 

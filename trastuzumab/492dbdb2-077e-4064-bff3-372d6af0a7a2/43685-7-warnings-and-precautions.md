@@ -8,8 +8,8 @@ Herceptin can also cause asymptomatic decline in left ventricular ejection fract
 There is a 4–6 fold increase in the incidence of symptomatic myocardial dysfunction among patients receiving Herceptin as a single agent or in combination therapy compared with those not receiving Herceptin.
 The highest absolute incidence occurs when Herceptin is administered with an anthracycline.
 
-Withhold Herceptin for ≥ 16% absolute decrease in LVEF from pre‑treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.2)].
-The safety of continuation or resumption of Herceptin in patients with Herceptin‑induced left ventricular cardiac dysfunction has not been studied.
+Withhold Herceptin for ≥ 16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.2)].
+The safety of continuation or resumption of Herceptin in patients with Herceptin-induced left ventricular cardiac dysfunction has not been studied.
 
 Cardiac Monitoring
 
@@ -23,34 +23,34 @@ The following schedule is recommended:
 
 In Study 1, 16% (136/844) of patients discontinued Herceptin due to clinical evidence of myocardial dysfunction or significant decline in LVEF.
 In Study 3, the number of patients who discontinued Herceptin due to cardiac toxicity was 2.6% (44/1678).
-In Study 4, a total of 2.9% (31/1056) patients in the TCH arm (1.5% during the chemotherapy phase and 1.4% during the monotherapy phase) and 5.7% (61/1068) patients in the AC‑TH arm (1.5% during the chemotherapy phase and 4.2% during the monotherapy phase) discontinued Herceptin due to cardiac toxicity.
+In Study 4, a total of 2.9% (31/1056) patients in the TCH arm (1.5% during the chemotherapy phase and 1.4% during the monotherapy phase) and 5.7% (61/1068) patients in the AC-TH arm (1.5% during the chemotherapy phase and 4.2% during the monotherapy phase) discontinued Herceptin due to cardiac toxicity.
 
-Among 32 patients receiving adjuvant chemotherapy (Studies 1 and 2) who developed congestive heart failure, one patient died of cardiomyopathy and all other patients were receiving cardiac medication at last follow‑up.
-Approximately half of the surviving patients had recovery to a normal LVEF (defined as ≥50%) on continuing medical management at the time of last follow‑up.
+Among 32 patients receiving adjuvant chemotherapy (Studies 1 and 2) who developed congestive heart failure, one patient died of cardiomyopathy and all other patients were receiving cardiac medication at last follow-up.
+Approximately half of the surviving patients had recovery to a normal LVEF (defined as ≥ 50%) on continuing medical management at the time of last follow-up.
 Incidence of congestive heart failure is presented in Table 1.
-The safety of continuation or resumption of Herceptin in patients with Herceptin‑induced left ventricular cardiac dysfunction has not been studied.
+The safety of continuation or resumption of Herceptin in patients with Herceptin-induced left ventricular cardiac dysfunction has not been studied.
 
-Table 1: Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
+Table 1 Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
 
 | Study | Regimen | Herceptin | Control |
 | --- | --- | --- | --- |
 |  |  | Incidence of CHF |  |
-| 1 & 2Includes 1 patient with fatal cardiomyopathy. | ACAnthracycline (doxorubicin) and cyclophosphamide → Paclitaxel+Herceptin | 2% (32/1677) | 0.4% (7/1600) |
+| 1 & 2Includes 1 patient with fatal cardiomyopathy. | ACAnthracycline (doxorubicin) and cyclophosphamide →Paclitaxel+Herceptin | 2% (32/1677) | 0.4% (7/1600) |
 | 3 | Chemo → Herceptin | 2% (30/1678) | 0.3% (5/1708) |
-| 4 | AC → Docetaxel+Herceptin | 2% (20/1068) | 0.3% (3/1050) |
+| 4 | AC →Docetaxel+Herceptin | 2% (20/1068) | 0.3% (3/1050) |
 | 4 | Docetaxel+Carbo+Herceptin | 0.4% (4/1056) | 0.3% (3/1050) |
 
-Table 2: Incidence of Cardiac DysfunctionCongestive heart failure or significant asymptomatic decrease in LVEF. in Metastatic Breast Cancer Studies
+Table 2 Incidence of Cardiac DysfunctionCongestive heart failure or significant asymptomatic decrease in LVEF. in Metastatic Breast Cancer Studies
 
 | Study | Event | Herceptin | Control | Herceptin | Control |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Incidence |  |  |  |
-|  |  | NYHA I‑IV |  | NYHA III‑IV |  |
+|  |  | NYHA I–IV |  | NYHA III–IV |  |
 | 5 (AC)Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. | Cardiac Dysfunction | 28% | 7% | 19% | 3% |
 | 5 (paclitaxel) | Cardiac Dysfunction | 11% | 1% | 4% | 1% |
 | 6 | Cardiac DysfunctionIncludes 1 patient with fatal cardiomyopathy. | 7% | N/A | 5% | N/A |
 
-In Study 4, the incidence of NCI‑CTC Grade 3/4 cardiac ischemia/infarction was higher in the Herceptin containing regimens: (AC‑TH: 0.3% (3/1068) and TCH 0.2% (: 2/1056)) as compared to none in AC‑T.
+In Study 4, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the Herceptin containing regimens: (AC-TH: 0.3% (3/1068) and TCH 0.2% (2/1056)) as compared to none in AC-T.
 
 ## 5.2 Infusion Reactions
 
@@ -59,7 +59,7 @@ Infusion reactions consist of a symptom complex characterized by fever and chill
 
 In postmarketing reports, serious and fatal infusion reactions have been reported.
 Severe reactions which include bronchospasm, anaphylaxis, angioedema, hypoxia, and severe hypotension, were usually reported during or immediately following the initial infusion.
-However, the onset and clinical course were variable including progressive worsening, initial improvement followed by clinical deterioration, or delayed post‑infusion events with rapid clinical deterioration.
+However, the onset and clinical course were variable including progressive worsening, initial improvement followed by clinical deterioration, or delayed post-infusion events with rapid clinical deterioration.
 For fatal events, death occurred within hours to days following a serious infusion reaction.
 
 Interrupt Herceptin infusion in all patients experiencing dyspnea, clinically significant hypotension, and intervention of medical therapy administered, which may include: epinephrine, corticosteroids, diphenhydramine, bronchodilators, and oxygen.
@@ -67,26 +67,26 @@ Patients should be evaluated and carefully monitored until complete resolution o
 Permanent discontinuation should be strongly considered in all patients with severe infusion reactions.
 
 There are no data regarding the most appropriate method of identification of patients who may safely be retreated with Herceptin after experiencing a severe infusion reaction.
-Prior to resumption of Herceptin infusion, the majority of patients who experienced a severe infusion reaction were pre‑medicated with antihistamines and/or corticosteroids.
-While some patients tolerated Herceptin infusions, others had recurrent severe infusion reactions despite pre‑medications.
+Prior to resumption of Herceptin infusion, the majority of patients who experienced a severe infusion reaction were pre-medicated with antihistamines and/or corticosteroids.
+While some patients tolerated Herceptin infusions, others had recurrent severe infusion reactions despite pre-medications.
 
 ## 5.3 Embryo-Fetal Toxicity
 
 Herceptin can cause fetal harm when administered to a pregnant woman.
-In post marketing reports, use of Herceptin during pregnancy resulted in cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
+In post-marketing reports, use of Herceptin during pregnancy resulted in cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
 Advise women of the potential hazard to the fetus resulting from Herceptin exposure during pregnancy and provide contraception counseling to women of childbearing potential.
 [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
 ## 5.4 Pulmonary Toxicity
 
 Herceptin use can result in serious and fatal pulmonary toxicity.
-Pulmonary toxicity includes dyspnea, interstitial pneumonitis, pulmonary infiltrates, pleural effusions, non‑cardiogenic pulmonary edema, pulmonary insufficiency and hypoxia, acute respiratory distress syndrome, and pulmonary fibrosis.
+Pulmonary toxicity includes dyspnea, interstitial pneumonitis, pulmonary infiltrates, pleural effusions, non-cardiogenic pulmonary edema, pulmonary insufficiency and hypoxia, acute respiratory distress syndrome, and pulmonary fibrosis.
 Such events can occur as sequelae of infusion reactions [see Warnings and Precautions (5.2)].
 Patients with symptomatic intrinsic lung disease or with extensive tumor involvement of the lungs, resulting in dyspnea at rest, appear to have more severe toxicity.
 
 ## 5.5 Exacerbation of Chemotherapy-Induced Neutropenia
 
-In randomized, controlled clinical trials the per‑patient incidences of NCI CTC Grade 3–4 neutropenia and of febrile neutropenia were higher in patients receiving Herceptin in combination with myelosuppressive chemotherapy as compared to those who received chemotherapy alone.
+In randomized, controlled clinical trials the per-patient incidences of NCI CTC Grade 3–4 neutropenia and of febrile neutropenia were higher in patients receiving Herceptin in combination with myelosuppressive chemotherapy as compared to those who received chemotherapy alone.
 The incidence of septic death was similar among patients who received Herceptin and those who did not.
 [see Adverse Reactions (6.1)]
 
@@ -97,9 +97,8 @@ Due to differences in tumor histopathology, use FDA-approved tests for the speci
 Tests should be performed by laboratories with demonstrated proficiency in the specific technology being utilized.
 Improper assay performance, including use of suboptimally fixed tissue, failure to utilize specified reagents, deviation from specific assay instructions, and failure to include appropriate controls for assay validation, can lead to unreliable results.
 
-Several FDA‑approved commercial assays are available to aid in the selection of breast cancer and metastatic gastric cancer patients for Herceptin therapy.
+Several FDA-approved commercial assays are available to aid in the selection of breast cancer and metastatic gastric cancer patients for Herceptin therapy.
 Users should refer to the package inserts of specific assay kits for information on the Intended Use, and the validation and performance of each assay.
-
 Limitations in assay precision make it inadvisable to rely on a single method to rule out potential Herceptin benefit.
 
 Treatment outcomes for adjuvant breast cancer (Studies 2 and 3) and for metastatic breast cancer (Study 5) as a function of IHC and FISH testing are provided in Tables 8 and 10.
