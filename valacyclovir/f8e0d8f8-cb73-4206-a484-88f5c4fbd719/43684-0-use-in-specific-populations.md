@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. There are no adequate and well-controlled trials of VALTREX or acyclovir in pregnant women.
+Pregnancy Category B. There are no adequate and well─controlled trials of VALTREX or acyclovir in pregnant women.
 Based on prospective pregnancy registry data on 749 pregnancies, the overall rate of birth defects in infants exposed to acyclovir in-utero appears similar to the rate for infants in the general population.
 VALTREX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -15,9 +15,9 @@ Animal reproduction studies performed at oral doses that provided up to 10 and 7
 
 ## 8.3 Nursing Mothers
 
-Following oral administration of a 500 mg dose of VALTREX to 5 nursing mothers, peak acyclovir concentrations (Cmax) in breast milk ranged from 0.5 to 2.3 times (median 1.4) the corresponding maternal acyclovir serum concentrations.
+Following oral administration of a 500─mg dose of VALTREX to 5 nursing mothers, peak acyclovir concentrations (Cmax) in breast milk ranged from 0.5 to 2.3 times (median 1.4) the corresponding maternal acyclovir serum concentrations.
 The acyclovir breast milk AUC ranged from 1.4 to 2.6 times (median 2.2) maternal serum AUC.
-A 500 mg maternal dosage of VALTREX twice daily would provide a nursing infant with an oral acyclovir dosage of approximately 0.6 mg/kg/day.
+A 500─mg maternal dosage of VALTREX twice daily would provide a nursing infant with an oral acyclovir dosage of approximately 0.6 mg/kg/day.
 This would result in less than 2% of the exposure obtained after administration of a standard neonatal dose of 30 mg/kg/day of intravenous acyclovir to the nursing infant.
 Unchanged valacyclovir was not detected in maternal serum, breast milk, or infant urine.
 Caution should be exercised when VALTREX is administered to a nursing woman.
@@ -28,7 +28,7 @@ VALTREX is indicated for treatment of cold sores in pediatric patients aged grea
 
 The use of VALTREX for treatment of cold sores is based on 2 double-blind, placebo-controlled clinical trials in healthy adults and adolescents (aged greater than or equal to 12 years) with a history of recurrent cold sores [see Clinical Studies (14.1)].
 
-The use of VALTREX for treatment of chickenpox in pediatric patients aged 2 to less than 18 years is based on single-dose pharmacokinetic and multiple-dose safety data from an open-label trial with valacyclovir and supported by efficacy and safety data from 3 randomized, double-blind, placebo-controlled trials evaluating oral acyclovir in pediatric subjects with chickenpox [see Dosage and Administration (2.2), Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
+The use of VALTREX for treatment of chickenpox in pediatric patients aged 2 to less than 18 years is based on single─dose pharmacokinetic and multiple─dose safety data from an open─label trial with valacyclovir and supported by efficacy and safety data from 3 randomized, double─blind, placebo─controlled trials evaluating oral acyclovir in pediatric subjects with chickenpox [see Dosage and Administration (2.2), Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 
 The efficacy and safety of valacyclovir have not been established in pediatric patients:
 
@@ -41,12 +41,12 @@ The efficacy and safety of valacyclovir have not been established in pediatric p
 The pharmacokinetic profile and safety of valacyclovir oral suspension in children aged less than 12 years were studied in 3 open‑label trials.
 No efficacy evaluations were conducted in any of the 3 trials.
 
-Trial 1 was a single‑dose pharmacokinetic, multiple‑dose safety trial in 27 pediatric subjects aged 1 to less than 12 years with clinically suspected varicella-zoster virus (VZV) infection [see Dosage and Administration (2.2), Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
+Trial 1 was a single‑dose pharmacokinetic, multiple‑dose safety trial in 27 pediatric subjects aged 1 to less than 12 years with clinically suspected varicella─zoster virus (VZV) infection [see Dosage and Administration (2.2), Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 
 Trial 2 was a single‑dose pharmacokinetic and safety trial in pediatric subjects aged 1 month to less than 6 years who had an active herpes virus infection or who were at risk for herpes virus infection.
-Fifty-seven subjects were enrolled and received a single dose of 25 mg/kg valacyclovir oral suspension.
-In infants and children aged 3 months to less than 6 years, this dose provided comparable systemic acyclovir exposures to that from a 1-gram dose of valacyclovir in adults (historical data).
-In infants aged 1 month to less than 3 months, mean acyclovir exposures resulting from a 25-mg/kg dose were higher (Cmax: ↑30%, AUC: ↑60%) than acyclovir exposures following a 1-gram dose of valacyclovir in adults.
+Fifty─seven subjects were enrolled and received a single dose of 25 mg/kg valacyclovir oral suspension.
+In infants and children aged 3 months to less than 6 years, this dose provided comparable systemic acyclovir exposures to that from a 1─gram dose of valacyclovir in adults (historical data).
+In infants aged 1 month to less than 3 months, mean acyclovir exposures resulting from a 25─mg/kg dose were higher (Cmax: ↑30%, AUC: ↑60%) than acyclovir exposures following a 1─gram dose of valacyclovir in adults.
 Acyclovir is not approved for suppressive therapy in infants and children following neonatal HSV infections; therefore valacyclovir is not recommended for this indication because efficacy cannot be extrapolated from acyclovir.
 
 Trial 3 was a single‑dose pharmacokinetic, multiple‑dose safety trial in 28 pediatric subjects aged 1 to less than 12 years with clinically suspected HSV infection.

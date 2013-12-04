@@ -89,7 +89,7 @@ About all of your medical conditions, including:
 - •if you are breastfeeding.
   VALTREX may pass into your milk and it may harm your baby.
   Talk with your healthcare provider about the best way to feed your baby if you are taking VALTREX.
-- •about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+- •about all the medicines you take, including prescription and non─prescription medicines, vitamins, and herbal supplements.
   VALTREX may affect other medicines, and other medicines may affect VALTREX.
   It is a good idea to keep a complete list of all the medicines you take.
   Show this list to your healthcare provider and pharmacist any time you get a new medicine.
@@ -157,13 +157,17 @@ Active Ingredient: valacyclovir hydrochloride
 
 Inactive Ingredients: carnauba wax, colloidal silicon dioxide, crospovidone, FD&C Blue No. 2 Lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, and titanium dioxide.
 
-Distributed by: GlaxoSmithKline Research Triangle Park, NC 27709
+VALTREX is a registered trademark of the GlaxoSmithKline group of companies.
 
-Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709 or DSM Pharmaceuticals, Inc. Greenville, NC 27834
+Distributed by:
 
-©2013, GlaxoSmithKline.
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2013, GlaxoSmithKline group of companies.
 All rights reserved.
 
-January 2013
+November 2013
 
-VTX:4PIL
+VTX:5PIL

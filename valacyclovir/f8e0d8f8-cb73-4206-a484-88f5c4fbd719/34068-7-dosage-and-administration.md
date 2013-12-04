@@ -17,7 +17,7 @@ Initiate treatment at the first sign or symptom of an episode.
 Suppressive Therapy: The recommended dosage of VALTREX for chronic suppressive therapy of recurrent genital herpes is 1 gram once daily in patients with normal immune function.
 In patients with a history of 9 or fewer recurrences per year, an alternative dose is 500 mg once daily.
 
-In HIV-1 infected patients with a CD4+ cell count greater than or equal to 100 cells/mm3, the recommended dosage of VALTREX for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
+In HIV─1─infected patients with a CD4+ cell count greater than or equal to 100 cells/mm3, the recommended dosage of VALTREX for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
 
 Reduction of Transmission: The recommended dosage of VALTREX for reduction of transmission of genital herpes in patients with a history of 9 or fewer recurrences per year is 500 mg once daily for the source partner.
 
@@ -35,7 +35,7 @@ Therapy should be initiated at the earliest sign or symptom [see Use in Specific
 
 ## 2.3 Extemporaneous Preparation of Oral Suspension
 
-Ingredients and Preparation per USP-NF: VALTREX Caplets 500 mg, cherry flavor, and Suspension Structured Vehicle USP-NF (SSV).
+Ingredients and Preparation per USP─NF: VALTREX Caplets 500 mg, cherry flavor, and Suspension Structured Vehicle USP─NF (SSV).
 Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) should be prepared in lots of 100 mL.
 
 Prepare Suspension at Time of Dispensing as Follows:
@@ -44,18 +44,18 @@ Prepare Suspension at Time of Dispensing as Follows:
 - •Using a pestle and mortar, grind the required number of VALTREX 500 mg Caplets until a fine powder is produced (5 VALTREX Caplets for 25 mg/mL suspension; 10 VALTREX Caplets for 50 mg/mL suspension).
 - •Gradually add approximately 5-mL aliquots of SSV to the mortar and triturate the powder until a paste has been produced.
   Ensure that the powder has been adequately wetted.
-- •Continue to add approximately 5-mL aliquots of SSV to the mortar, mixing thoroughly between additions, until a concentrated suspension is produced, to a minimum total quantity of 20 mL SSV and a maximum total quantity of 40 mL SSV for both the 25-mg/mL and 50-mg/mL suspensions.
+- •Continue to add approximately 5-mL aliquots of SSV to the mortar, mixing thoroughly between additions, until a concentrated suspension is produced, to a minimum total quantity of 20 mL SSV and a maximum total quantity of 40 mL SSV for both the 25-mg/mL and 50─mg/mL suspensions.
 - •Transfer the mixture to a suitable 100-mL measuring flask.
 - •Transfer the cherry flavor* to the mortar and dissolve in approximately 5 mL of SSV.
   Once dissolved, add to the measuring flask.
 - •Rinse the mortar at least 3 times with approximately 5-mL aliquots of SSV, transferring the rinsing to the measuring flask between additions.
 - •Make the suspension to volume (100 mL) with SSV and shake thoroughly to mix.
-- •Transfer the suspension to an amber glass medicine bottle with a child-resistant closure.
+- •Transfer the suspension to an amber glass medicine bottle with a child─resistant closure.
 - •The prepared suspension should be labeled with the following information “Shake well before using.
   Store suspension between 2° to 8°C (36° to 46°F) in a refrigerator.
   Discard after 28 days.”
 
-* The amount of cherry flavor added is as instructed by the suppliers of the cherry flavor.
+*The amount of cherry flavor added is as instructed by the suppliers of the cherry flavor.
 
 ## 2.4 Patients With Renal Impairment
 
@@ -65,7 +65,7 @@ Data are not available for the use of VALTREX in pediatric patients with a creat
 Table 1.
 VALTREX Dosage Recommendations for Adults With Renal Impairment
 
-| Indications | Normal Dosage Regimen (Creatinine Clearance ≥50 mL/min) | Creatinine Clearance (mL/min) |  |  |
+| Indications | Normal DosageRegimen(Creatinine Clearance ≥50 mL/min) | Creatinine Clearance (mL/min) |  |  |
 | --- | --- | --- | --- | --- |
 | 30-49 | 10-29 | <10 |  |  |
 | Cold sores (Herpes labialis) Do not exceed 1 day of treatment. | Two 2 gram doses taken 12 hours apart | Two 1 gram doses taken 12 hours apart | Two 500 mg doses taken 12 hours apart | 500 mg single dose |
@@ -74,14 +74,14 @@ VALTREX Dosage Recommendations for Adults With Renal Impairment
 | Genital herpes: Suppressive therapy |  |  |  |  |
 | Immunocompetent patients | 1 gram every 24 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Alternate dose for immunocompetent patients with less than or equal to 9 recurrences/year | 500 mg every 24 hours | no reduction | 500 mg every 48 hours | 500 mg every 48 hours |
-| HIV-1 infected patients | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
+| HIV─1─infected patients | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Herpes zoster | 1 gram every 8 hours | 1 gram every 12 hours | 1 gram every 24 hours | 500 mg every 24 hours |
 
 Hemodialysis: Patients requiring hemodialysis should receive the recommended dose of VALTREX after hemodialysis.
-During hemodialysis, the half-life of acyclovir after administration of VALTREX is approximately 4 hours.
-About one-third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
+During hemodialysis, the half─life of acyclovir after administration of VALTREX is approximately 4 hours.
+About one-third of acyclovir in the body is removed by dialysis during a 4─hour hemodialysis session.
 
 Peritoneal Dialysis: There is no information specific to administration of VALTREX in patients receiving peritoneal dialysis.
 The effect of chronic ambulatory peritoneal dialysis (CAPD) and continuous arteriovenous hemofiltration/dialysis (CAVHD) on acyclovir pharmacokinetics has been studied.
-The removal of acyclovir after CAPD and CAVHD is less pronounced than with hemodialysis, and the pharmacokinetic parameters closely resemble those observed in patients with end-stage renal disease (ESRD) not receiving hemodialysis.
+The removal of acyclovir after CAPD and CAVHD is less pronounced than with hemodialysis, and the pharmacokinetic parameters closely resemble those observed in patients with end─stage renal disease (ESRD) not receiving hemodialysis.
 Therefore, supplemental doses of VALTREX should not be required following CAPD or CAVHD.

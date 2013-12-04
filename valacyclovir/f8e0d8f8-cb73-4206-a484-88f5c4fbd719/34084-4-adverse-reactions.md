@@ -18,7 +18,7 @@ The frequencies of abnormal ALT (greater than 2 x ULN) were 1.8% for subjects re
 Other laboratory abnormalities (hemoglobin, white blood cells, alkaline phosphatase, and serum creatinine) occurred with similar frequencies in the 2 groups.
 
 Genital Herpes: Initial Episode: In a clinical trial for the treatment of initial episodes of genital herpes, the adverse reactions reported by greater than or equal to 5% of subjects receiving VALTREX 1 gram twice daily for 10 days (n = 318) or oral acyclovir 200 mg 5 times daily for 10 days (n = 318), respectively, included headache (13%, 10%) and nausea (6%, 6%).
-For the incidence of laboratory abnormalities seeTable 2.
+For the incidence of laboratory abnormalities see Table 2.
 
 Recurrent Episodes: In 3 clinical trials for the episodic treatment of recurrent genital herpes, the adverse reactions reported by greater than or equal to 5% of subjects receiving VALTREX 500 mg twice daily for 3 days (n = 402), VALTREX 500 mg twice daily for 5 days (n = 1,136) or placebo (n = 259), respectively, included headache (16%, 11%, 14%) and nausea (5%, 4%, 5%).
 For the incidence of laboratory abnormalities see Table 2.
@@ -26,8 +26,8 @@ For the incidence of laboratory abnormalities see Table 2.
 Suppressive Therapy: Suppression of Recurrent Genital Herpes in Immunocompetent Adults: In a clinical trial for the suppression of recurrent genital herpes infections, the adverse reactions reported by subjects receiving VALTREX 1 gram once daily (n = 269), VALTREX 500 mg once daily (n = 266), or placebo (n = 134), respectively, included headache (35%, 38%, 34%), nausea (11%, 11%, 8%), abdominal pain (11%, 9%, 6%), dysmenorrhea (8%, 5%, 4%), depression (7%, 5%, 5%), arthralgia (6%, 5%, 4%), vomiting (3%, 3%, 2%), and dizziness (4%, 2%, 1%).
 For the incidence of laboratory abnormalities see Table 2.
 
-Suppression of Recurrent Genital Herpes in HIV-1 Infected Subjects: In HIV-1 infected subjects, frequently reported adverse reactions for VALTREX (500 mg twice daily; n = 194, median days on therapy = 172) and placebo (n = 99, median days on therapy = 59), respectively, included headache (13%, 8%), fatigue (8%, 5%), and rash (8%, 1%).
-Post-randomization laboratory abnormalities that were reported more frequently in valacyclovir subjects versus placebo included elevated alkaline phosphatase (4%, 2%), elevated ALT (14%, 10%), elevated AST (16%, 11%), decreased neutrophil counts (18%, 10%), and decreased platelet counts (3%, 0%), respectively.
+Suppression of Recurrent Genital Herpes in HIV─1-Infected Subjects: In HIV─1-infected subjects, frequently reported adverse reactions for VALTREX (500 mg twice daily; n = 194, median days on therapy = 172) and placebo (n = 99, median days on therapy = 59), respectively, included headache (13%, 8%), fatigue (8%, 5%), and rash (8%, 1%).
+Post─randomization laboratory abnormalities that were reported more frequently in valacyclovir subjects versus placebo included elevated alkaline phosphatase (4%, 2%), elevated ALT (14%, 10%), elevated AST (16%, 11%), decreased neutrophil counts (18%, 10%), and decreased platelet counts (3%, 0%), respectively.
 
 Reduction of Transmission: In a clinical trial for the reduction of transmission of genital herpes, the adverse reactions reported by subjects receiving VALTREX 500 mg once daily (n = 743) or placebo once daily (n = 741), respectively, included headache (29%, 26%), nasopharyngitis (16%, 15%), and upper respiratory tract infection (9%, 10%).
 
@@ -39,7 +39,7 @@ Incidence (%) of Laboratory Abnormalities in Herpes Zoster and Genital Herpes Tr
 
 | Laboratory Abnormality | Herpes Zoster |  | Genital Herpes Treatment |  |  | Genital Herpes Suppression |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| VALTREX1 gram3 times daily(n = 967) | Placebo(n = 195) | VALTREX 1 gram twice daily(n = 1,194) | VALTREX500 mg twice daily(n = 1,159) | Placebo(n = 439) | VALTREX1 gram once daily(n = 269) | VALTREX500 mg once daily(n = 266) | Placebo(n = 134) |  |
+| VALTREX1 gram3 Times Daily(n = 967) | Placebo(n = 195) | VALTREX1 gram Twice Daily(n = 1,194) | VALTREX500 mg Twice Daily(n = 1,159) | Placebo(n = 439) | VALTREX1 gram Once Daily(n = 269) | VALTREX500 mg Once Daily(n = 266) | Placebo(n = 134) |  |
 | Hemoglobin (<0.8 x LLN) | 0.8% | 0% | 0.3% | 0.2% | 0% | 0% | 0.8% | 0.8% |
 | White blood cells(<0.75 x LLN) | 1.3% | 0.6% | 0.7% | 0.6% | 0.2% | 0.7% | 0.8% | 1.5% |
 | Platelet count (<100,000/mm3) | 1.0% | 1.2% | 0.3% | 0.1% | 0.7% | 0.4% | 1.1% | 1.5% |
@@ -72,7 +72,7 @@ General: Facial edema, hypertension, tachycardia.
 
 Allergic: Acute hypersensitivity reactions including anaphylaxis, angioedema, dyspnea, pruritus, rash, and urticaria [see Contraindications (4)].
 
-CNS Symptoms: Aggressive behavior; agitation; ataxia; coma; confusion; decreased consciousness; dysarthria; encephalopathy; mania; and psychosis, including auditory and visual hallucinations, seizures, tremors [see Warnings and Precautions (5.3), Use in Specific Populations (8.5), (8.6)].
+CNS Symptoms: Aggressive behavior; agitation; ataxia; coma; confusion; decreased consciousness; dysarthria; encephalopathy; mania; and psychosis, including auditory and visual hallucinations, seizures, tremors [see Warnings and Precautions (5.3), Use in Specific Populations (8.5, 8.6)].
 
 Eye: Visual abnormalities.
 
@@ -80,7 +80,7 @@ Gastrointestinal: Diarrhea.
 
 Hepatobiliary Tract and Pancreas: Liver enzyme abnormalities, hepatitis.
 
-Renal: Renal failure, renal pain (may be associated with renal failure) [see Warnings and Precautions (5.2), Use in Specific Populations (8.5), (8.6)].
+Renal: Renal failure, renal pain (may be associated with renal failure) [see Warnings and Precautions (5.2), Use in Specific Populations (8.5, 8.6)].
 
 Hematologic: Thrombocytopenia, aplastic anemia, leukocytoclastic vasculitis, TTP/HUS [see Warnings and Precautions (5.1)].
 

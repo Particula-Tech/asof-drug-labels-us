@@ -1,3 +1,5 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
 Principal Display Panel
 
 NDC 0173-0933-08
@@ -24,14 +26,14 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in UK
+Made in Ireland
 
 Rev.
-5/11
+9/13
 
-A074074
+A118176
 
-Principal Display Panel
+# Package/Label Display Panel
 
 NDC 0173-0565-04
 
@@ -41,9 +43,9 @@ VALTREX®
 
 1 gram
 
-Rx only
-
 30 Caplets
+
+Rx only
 
 Equivalent to 1 gram valacyclovir per caplet.
 
@@ -57,9 +59,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in UK
+Made in Ireland
 
 Rev.
-5/11
+9/13
 
-A073888
+A118180
