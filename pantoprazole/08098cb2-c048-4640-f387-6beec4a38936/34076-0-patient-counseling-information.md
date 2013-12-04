@@ -17,8 +17,8 @@ For current full prescribing information, please visit www.pfizer.com.
 
 under license from
 
-Nycomed GmbH
+Takeda GmbH
 
 D78467 Konstanz, Germany
 
-LAB-0459-6.0
+LAB-0459-7.0

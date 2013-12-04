@@ -65,7 +65,7 @@ Peak serum concentration (Cmax) and area under the serum concentration time curv
 Pantoprazole does not accumulate, and its pharmacokinetics are unaltered with multiple daily dosing.
 Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially, with a terminal elimination half-life of approximately one hour.
 
-In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 μg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration versus time curve (AUC) is 4.8 μg∙h/mL (range 1.4 to 13.3 μ∙h/mL).
+In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 μg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration versus time curve (AUC) is 4.8 μg∙h/mL (range 1.4 to 13.3 μg∙h/mL).
 Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6–14.0 L/h, and its apparent volume of distribution is 11.0–23.6 L.
 
 A single oral dose of PROTONIX For Delayed-Release Oral Suspension, 40 mg, was shown to be bioequivalent when administered to healthy subjects (N = 22) as granules sprinkled over a teaspoonful of applesauce, as granules mixed with apple juice, or mixed with apple juice followed by administration through a nasogastric tube.
