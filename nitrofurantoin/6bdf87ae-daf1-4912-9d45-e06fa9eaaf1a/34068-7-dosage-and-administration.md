@@ -11,15 +11,17 @@ Furadantin should be given with food to improve drug absorption and, in some pat
 5-7 mg/kg of body weight per 24 hours, given in four divided doses (contraindicated under one month of age).
 
 The following table is based on an average weight in each range receiving 5 to 6 mg/kg of body weight per 24 hours, given in four divided doses.
-It can be used to calculate an average dose of Furadantin Oral Suspension (25 mg/5mL) for pediatric patients (one 5-mL teaspoon of Furadantin Oral Suspension contains 25 mg of nitrofurantoin):
+It can be used to calculate an average dose of Furadantin Oral Suspension (25 mg/5mL) for pediatric patients.
 
-| Body Weight |  |  | No. Teaspoonfuls |  |
-| --- | --- | --- | --- | --- |
-| Pounds |  | Kilograms |  | 4 Times Daily |
-| 15 to 26 |  | 7 to 11 |  | 1/2 (2.5 mL) |
-| 27 to 46 |  | 12 to 21 |  | 1 (5 mL) |
-| 47 to 68 |  | 22 to 30 |  | 1 1/2 (7.5 mL) |
-| 69 to 91 |  | 31 to 41 |  | 2 (10mL) |
+Table 3: Pediatric Dosing Table
+
+| Weight in Kilograms (kg) | Pediatric Doses (milliliters) and Frequency |
+| --- | --- |
+| 7 kg to 11 kg | 2.5 mL Four times Daily |
+| 12 kg to 21 kg | 5 mL Four times Daily |
+| 22 kg to 30 kg | 7.5 mL Four times Daily |
+| 31 kg to 41 kg | 10 mL Four times Daily |
+| 42 kg or greater | See Adult Dose |
 
 Therapy should be continued for one week or for at least 3 days after sterility of the urine is obtained.
 Continued infection indicates the need for reevaluation.

@@ -9,7 +9,7 @@ REPORTS HAVE CITED PULMONARY REACTIONS AS A CONTRIBUTING CAUSE OF DEATH.
 CHRONIC PULMONARY REACTIONS (DIFFUSE INTERSTITIAL PNEUMONITIS OR PULMONARY FIBROSIS, OR BOTH) CAN DEVELOP INSIDIOUSLY.
 THESE REACTIONS OCCUR RARELY AND GENERALLY IN PATIENTS RECEIVING THERAPY FOR SIX MONTHS OR LONGER.
 CLOSE MONITORING OF THE PULMONARY CONDITION OF PATIENTS RECEIVING LONG-TERM THERAPY IS WARRANTED AND REQUIRES THAT THE BENEFITS OF THERAPY BE WEIGHED AGAINST POTENTIAL RISKS.
-(SEE RESPIRATORY REACTIONS.)
+(see RESPIRATORY REACTIONS.)
 
 ## Hepatotoxicity
 
@@ -94,15 +94,17 @@ Doses of 10 mg/kg/day or greater in healthy human males may, in certain unpredic
 
 ## Pregnancy
 
-## Teratogenic effects
+### Teratogenic effects
 
-Pregnancy Category B. Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
+#### Pregnancy Category B
+
+Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
 In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed.
 However at 25 times the human dose, fetal malformations were not observed; the relevance of these findings to humans is uncertain.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-## Non-teratogenic effects
+### Non-teratogenic effects
 
 Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis.
 The relationship of this finding to potential human carcinogenesis is presently unknown.
@@ -116,9 +118,9 @@ See Contraindications.
 
 Nitrofurantoin has been detected in human breast milk in trace amounts.
 Because of the potential for serious adverse reactions from nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-(See CONTRAINDICATIONS.)
+(see CONTRAINDICATIONS)
 
 ## Pediatric Use
 
 Safety and effectiveness of Furadantin in neonates below the age of one month have not been established.
-(See CONTRAINDICATIONS.)
+(see CONTRAINDICATIONS)

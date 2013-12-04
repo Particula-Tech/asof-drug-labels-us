@@ -20,7 +20,7 @@ If the symptoms are not recognized as being drug-related and nitrofurantoin ther
 Acute pulmonary reactions are commonly manifested by fever, chills, cough, chest pain, dyspnea, pulmonary infiltration with consolidation of pleural effusion on x-ray, and eosinophilia.
 Acute reactions usually occur within the first week of treatment and are reversible with cessation of therapy.
 Resolution often is dramatic.
-(See WARNINGS.)
+(see WARNINGS)
 
 Changes in EKG (e.g., non-specific ST/T wave changes, bundle branch block) have been reported in association with pulmonary reactions.
 
@@ -29,13 +29,13 @@ Cyanosis has been reported rarely.
 ## Hepatic
 
 Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic neurosis, occur rarely.
-(See WARNINGS.)
+(see WARNINGS)
 
 ## Neurologic
 
 Peripheral neuropathy, which may become severe or irreversible, has occurred.
 Fatalities have been reported.
-Conditions such as renal impairment (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine), anemia, diabetes mellitus, electrolyte imbalance, vitamin B deficiency, and debilitating diseases may increase the possibility of peripheral neuropathy (See WARNINGS.)
+Conditions such as renal impairment (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine), anemia, diabetes mellitus, electrolyte imbalance, vitamin B deficiency, and debilitating diseases may increase the possibility of peripheral neuropathy (see WARNINGS)
 
 Asthenia, vertigo, nystagmus, dizziness, headache, and drowsiness have also been reported with the use of nitrofurantoin.
 
@@ -50,7 +50,7 @@ Transient alopecia also has been reported.
 ## Allergic
 
 A lupus-like syndrome associated with pulmonary reactions to nitrofurantoin has been reported.
-Also, angioedema; maculopapular, erythematous, or eczematous eruptions; pruritus; urticaria; anaphylaxis; arthralgia; myalgia; drug fever; and chills have been reported.
+Also, angioedema; maculopapular, erythematous, or eczematous eruptions; pruritus; urticaria; anaphylaxis; arthralgia; myalgia; drug fever; and vasculitis (sometimes associated with pulmonary reactions) have been reported.
 Hypersensitivity reactions present the most frequent spontaneously-reported adverse events in world-wide postmarketing experience with nitrofurantoin formulations.
 
 ## Gastrointestinal
@@ -61,7 +61,7 @@ These dose-related reactions can be minimized by reduction of dosage.
 Sialadenitis and pancreatitis have been reported.
 There have been sporadic reports of pseudomembranous colitis with the use of nitrofurantoin.
 The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment.
-(See WARNINGS.)
+(see WARNINGS)
 
 ## Hematologic
 

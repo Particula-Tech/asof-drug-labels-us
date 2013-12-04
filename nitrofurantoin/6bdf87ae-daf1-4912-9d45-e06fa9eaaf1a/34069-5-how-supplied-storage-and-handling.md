@@ -13,4 +13,4 @@ Use within 30 days.
 
 Keep out of reach of children.
 
-Rx only.
+Rx only
