@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 2 mg Capsule Bottle Label
+PRINCIPAL DISPLAY PANEL - 2 mg Capsule Bottle Label
 
 NDC 10144-602-15
 
@@ -12,7 +12,7 @@ Zanaflex Capsules®
 
 STOP Not interchangeable with tizanidine tablets or Zanaflex® tablets.
 
-# PRINCIPAL DISPLAY PANEL - 4 mg Capsule Bottle Label
+PRINCIPAL DISPLAY PANEL - 4 mg Capsule Bottle Label
 
 NDC 10144-604-15
 
@@ -26,7 +26,7 @@ Zanaflex Capsules®
 
 STOP Not interchangeable with tizanidine tablets or Zanaflex® tablets.
 
-# PRINCIPAL DISPLAY PANEL - 6 mg Capsule Bottle Label
+PRINCIPAL DISPLAY PANEL - 6 mg Capsule Bottle Label
 
 NDC 10144-606-15
 
@@ -40,14 +40,16 @@ Zanaflex Capsules®
 
 STOP Not interchangeable with tizanidine tablets or Zanaflex® tablets.
 
-# PRINCIPAL DISPLAY PANEL - 4 mg Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 4 mg Tablet Bottle Label
 
 NDC 10144-594-15
 
-Zanaflex® (tizanidine hydrochloride)
+Zanaflex®
+
+(tizanidine hydrochloride)
 
 4 mg
 
-150 Tablets
+150 Capsules
 
 STOP Zanaflex® (tizanidine hydrochloride) tablets are not interchangeable with Zanaflex Capsules®.

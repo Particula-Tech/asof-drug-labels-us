@@ -1,17 +1,6 @@
-PHARMACOKINETIC DIFFERENCES BETWEEN ZANAFLEX CAPSULES® AND ZANAFLEX® TABLETS:
+Zanaflex® is a registered trademark of Acorda Therapeutics, Inc. Zanaflex Capsules® is a registered trademark of Acorda Therapeutics, Inc.
 
-ZANAFLEX CAPSULES® ARE NOT BIOEQUIVALENT TO ZANAFLEX® TABLETS IN THE FED STATE.
-THE PRESCRIBER SHOULD BE THOROUGHLY FAMILIAR WITH THE COMPLEX EFFECTS OF FOOD ON TIZANIDINE PHARMACOKINETICS (see PHARMACOKINETICS and DOSAGE AND ADMINISTRATION).
+Marketed and Distributed by: Acorda Therapeutics Inc. Ardsley, NY 10502
 
-Rx Only
-
-Zanaflex® is the registered trademark of Acorda Therapeutics, Inc. Zanaflex Capsules® is the trademark of Acorda Therapeutics, Inc.
-
-Marketed and Distributed by: Acorda Therapeutics, Inc. Hawthorne, NY 10532
-
-©2010, Acorda Therapeutics, Inc., All rights reserved.
-
-0610501EP-0
-
-Rev.
-06/10
+©2013 Acorda Therapeutics Inc., All rights reserved.
+0913501ALP-0

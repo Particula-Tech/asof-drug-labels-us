@@ -1,27 +1,40 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## MECHANISM OF ACTION
+## 12.1 Mechanism of action
 
-Tizanidine is an agonist at α2-adrenergic receptor sites and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons.
-In animal models, tizanidine has no direct effect on skeletal muscle fibers or the neuromuscular junction, and no major effect on monosynaptic spinal reflexes.
+Tizanidine is a central alpha-2-adrenergic receptor agonist and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons.
 The effects of tizanidine are greatest on polysynaptic pathways.
 The overall effect of these actions is thought to reduce facilitation of spinal motor neurons.
 
-The imidazoline chemical structure of tizanidine is related to that of the anti-hypertensive drug clonidine and other α2-adrenergic agonists.
-Pharmacological studies in animals show similarities between the two compounds, but tizanidine was found to have one-tenth to one-fiftieth (1/50) of the potency of clonidine in lowering blood pressure.
+## 12.3 Pharmacokinetics
 
-## PHARMACOKINETICS
-
-### Absorption and Distribution
+Absorption and Distribution
 
 Following oral administration, tizanidine is essentially completely absorbed.
 The absolute oral bioavailability of tizanidine is approximately 40% (CV = 24%), due to extensive first-pass hepatic metabolism.
 Tizanidine is extensively distributed throughout the body with a mean steady state volume of distribution of 2.4 L/kg (CV = 21%) following intravenous administration in healthy adult volunteers.
 Tizanidine is approximately 30% bound to plasma proteins.
 
-### Pharmacokinetics, Metabolism and Excretion
+Differences between Zanaflex Capsules® and Zanaflex® Tablets
 
-Tizanidine has linear pharmacokinetics over a dose of 1 to 20 mg.
+Zanaflex Capsules® and Zanaflex® tablets are bioequivalent to each other under fasting conditions, but not under fed conditions.
+A single dose of either two 4 mg tablets or two 4 mg capsules was administered under fed and fasting conditions in an open label, four period, randomized crossover study in 96 human volunteers, of whom 81 were eligible for the statistical analysis.
+Following oral administration of either the tablet or capsule (in the fasted state), peak plasma concentrations of tizanidine occurred 1.0 hours after dosing with a half-life of approximately 2 hours.
+When two 4 mg tablets were administered with food, the mean maximal plasma concentration was increased by approximately 30%, and the median time to peak plasma concentration was increased by 25 minutes, to 1 hour and 25 minutes.
+In contrast, when two 4 mg capsules were administered with food, the mean maximal plasma concentration was decreased by 20%, the median time to peak plasma concentration was increased 2 to 3 hours.
+Consequently, the mean Cmax for the capsule when administered with food is approximately 66% the Cmax for the tablet when administered with food.
+
+Food also increased the extent of absorption for both the tablets and capsules.
+The increase with the tablet (~30%) was significantly greater than with the capsule (~10%).
+Consequently when each was administered with food, the amount absorbed from the capsule was about 80% of the amount absorbed from the tablet.
+Administration of the capsule contents sprinkled on applesauce was not bioequivalent to administration of an intact capsule under fasting conditions.
+Administration of the capsule contents on applesauce resulted in a 15%–20% increase in Cmax and AUC of tizanidine and a 15 minute decrease in the median lag time and time to peak concentration compared to administration of an intact capsule while fasting.
+
+Figure 1: Mean Tizanidine Concentration vs. Time Profiles For Zanaflex Tablets and Capsules (2 × 4 mg) Under Fasted and Fed Conditions
+
+Metabolism and Excretion
+
+Tizanidine has linear pharmacokinetics over the doses studied in clinical development (1–20 mg).
 Tizanidine has a half-life of approximately 2.5 hours (CV=33%).
 Approximately 95% of an administered dose is metabolized.
 The primary cytochrome P450 isoenzyme involved in tizanidine metabolism is CYP1A2.
@@ -29,77 +42,62 @@ Tizanidine metabolites are not known to be active; their half-lives range from 2
 
 Following single and multiple oral dosing of 14C-tizanidine, an average of 60% and 20% of total radioactivity was recovered in the urine and feces, respectively.
 
-### Pharmacokinetic differences between Zanaflex Capsules® and Zanaflex® Tablets
+Special Populations
 
-Zanaflex Capsules® and Zanaflex® tablets are bioequivalent to each other under fasted conditions, but not under fed conditions.
-
-A single dose of either two 4 mg tablets or two 4 mg capsules was administered under fed and fasting conditions in an open label, four period, randomized crossover study in 96 human volunteers, of whom 81 were eligible for the statistical analysis.
-
-Following oral administration of either the tablet or capsule (in the fasted state), tizanidine has peak plasma concentrations occurring 1.0 hours after dosing with a half-life of approximately 2 hours.
-
-When two 4 mg tablets are administered with food the mean maximal plasma concentration is increased by approximately 30%, and the median time to peak plasma concentration is increased by 25 minutes, to 1 hour and 25 minutes.
-
-In contrast, when two 4 mg capsules are administered with food the mean maximal plasma concentration is decreased by 20%, the median time to peak plasma concentration is increased by 2 hours to 3 hours.
-Consequently, the mean Cmax for the capsule when administered with food is approximately 2/3's the Cmax for the tablet when administered with food.
-
-Food also increases the extent of absorption for both the tablets and capsules.
-The increase with the tablet (~30%) is significantly greater than with the capsule (~10%).
-Consequently when each is administered with food, the amount absorbed from the capsule is about 80% of the amount absorbed from the tablet (see Figure 1).
-Administration of the capsule contents sprinkled on applesauce is not bioequivalent to administration of an intact capsule under fasting conditions.
-Administration of the capsule contents on applesauce results in a 15% - 20% increase in Cmax and AUC of tizanidine compared to administration of an intact capsule while fasting, and a 15 minute decrease in the median lag time and time to peak concentration.
-
-Figure 1: Mean Tizanidine Concentration vs. Time Profiles For Zanaflex Tablets and Capsules (2 × 4 mg) Under Fasted and Fed Conditions
-
-## SPECIAL POPULATIONS
-
-### Age Effects
+Age Effects
 
 No specific pharmacokinetic study was conducted to investigate age effects.
-Cross study comparison of pharmacokinetic data following single dose administration of 6 mg tizanidine showed that younger subjects cleared the drug four times faster than the elderly subjects.
-Tizanidine has not been evaluated in children (see PRECAUTIONS).
+Cross study comparison of pharmacokinetic data following single dose administration of 6 mg Zanaflex showed that younger subjects cleared the drug four times faster than the elderly subjects.
+Zanaflex has not been evaluated in children.
+[see Use in Specific Populations (8.4, 8.5)]
 
-### Hepatic Impairment
+Hepatic Impairment
 
 The influence of hepatic impairment on the pharmacokinetics of tizanidine has not been evaluated.
 Because tizanidine is extensively metabolized in the liver, hepatic impairment would be expected to have significant effects on pharmacokinetics of tizanidine.
-Tizanidine should ordinarily be avoided or used with extreme caution in this patient population (see WARNINGS).
+Zanaflex is not recommended in this patient population [see Use in Specific Populations (8.7)]
 
-### Renal Impairment
+Renal Impairment
 
 Tizanidine clearance is reduced by more than 50% in elderly patients with renal insufficiency (creatinine clearance < 25 mL/min) compared to healthy elderly subjects; this would be expected to lead to a longer duration of clinical effect.
-Tizanidine should be used with caution in renally impaired patients (see PRECAUTIONS).
+Zanaflex should be used with caution in renally impaired patients [see Warnings and Precautions (5.7) and Use in Specific Populations (8.6)].
 
-### Gender Effects
+Gender Effects
 
 No specific pharmacokinetic study was conducted to investigate gender effects.
-Retrospective analysis of pharmacokinetic data, however, following single and multiple dose administration of 4 mg tizanidine showed that gender had no effect on the pharmacokinetics of tizanidine.
+Retrospective analysis of pharmacokinetic data, however, following single and multiple dose administration of 4 mg Zanaflex showed that gender had no effect on the pharmacokinetics of tizanidine.
 
-### Race Effects
+Race Effects
 
 Pharmacokinetic differences due to race have not been studied.
 
-## DRUG INTERACTIONS
+Drug Interactions
 
-### Fluvoxamine
+CYP1A2 Inhibitors
 
-The effect of fluvoxamine on the pharmacokinetics of tizanidine was studied in 10 healthy subjects.
+The interaction between Zanaflex and either fluvoxamine or ciprofloxacin is most likely due to inhibition of CYP1A2 by fluvoxamine or ciprofloxacin.
+The effect of fluvoxamine on the pharmacokinetics of a single 4 mg dose of Zanaflex was studied in 10 healthy subjects.
 The Cmax, AUC, and half-life of tizanidine increased by 12-fold, 33-fold, and 3-fold, respectively.
-These changes resulted in significant decreases in blood pressure, increased drowsiness, and psychomotor impairment.
-(See CONTRAINDICATIONS and WARNINGS.)
-
-### Ciprofloxacin
-
-The effect of ciprofloxacin on the pharmacokinetics of tizanidine was studied in 10 healthy subjects.
+The effect of ciprofloxacin on the pharmacokinetics of a single 4 mg dose of Zanaflex was studied in 10 healthy subjects.
 The Cmax and AUC of tizanidine increased by 7-fold and 10-fold, respectively.
-These changes resulted in significant decreases in blood pressure, increased drowsiness, and psychomotor impairment.
-(See CONTRAINDICATIONS and WARNINGS.)
+[see Contraindications (4)]
 
-### CYP1A2 Inhibitors
+Although there have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine, other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrythmics (amiodarone, mexiletine, propafenone and verapamil), cimetidine, famotidine oral contraceptives, acyclovir and ticlopidine, may also lead to substantial increases in tizanidine blood concentrations [see Warnings and Precautions (5.5)].
 
-The interaction between tizanidine and either fluvoxamine or ciprofloxacin is most likely due to inhibition of CYP1A2 by fluvoxamine or ciprofloxacin.
-Although there have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine, other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrythmics (amiodarone, mexiletine, propafenone and verapamil), cimetidine, famotidine, oral contraceptives, acyclovir and ticlopidine, may also lead to substantial increases in tizanidine blood concentrations (see WARNINGS).
+In vitro studies of cytochrome P450 isoenzymes using human liver microsomes indicate that neither tizanidine nor the major metabolites are likely to affect the metabolism of other drugs metabolized by cytochrome P450 isoenzymes.
 
-### Oral Contraceptives
+Oral Contraceptives
 
-No specific pharmacokinetic study was conducted to investigate interaction between oral contraceptives and tizanidine.
-Retrospective analysis of population pharmacokinetic data following single and multiple dose administration of 4 mg tizanidine, however, showed that women concurrently taking oral contraceptives had 50% lower clearance of tizanidine compared to women not on oral contraceptives (see PRECAUTIONS).
+No specific pharmacokinetic study was conducted to investigate interaction between oral contraceptives and Zanaflex.
+Retrospective analysis of population pharmacokinetic data following single and multiple dose administration of 4 mg Zanaflex, however, showed that women concurrently taking oral contraceptives had 50% lower clearance of tizanidine compared to women not on oral contraceptives [see Warnings and Precautions (5.5)].
+
+Acetaminophen
+
+Tizanidine delayed the Tmax of acetaminophen by 16 minutes.
+Acetaminophen did not affect the pharmacokinetics of tizanidine.
+
+Alcohol
+
+Alcohol increased the AUC of tizanidine by approximately 20%, while also increasing its Cmax by approximately 15%.
+This was associated with an increase in side effects of tizanidine.
+The CNS depressant effects of tizanidine and alcohol are additive.
