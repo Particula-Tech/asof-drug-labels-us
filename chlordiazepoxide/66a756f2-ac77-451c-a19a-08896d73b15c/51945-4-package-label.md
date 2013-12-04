@@ -2,13 +2,11 @@ PRINCIPAL DISPLAY PANEL - 5 mg/12.5 mg
 
 NDC 0378-0211-01
 
-ATTENTION: Dispense with Medication Guide
+Chlordiazepoxide and Amitriptyline HCl Tablets, USP CIV 5 mg/ 12.5mg*
 
-CHLORDIAZEPOXIDE and AMITRIPTYLINE HCl TABLETS, USP 5 mg/12.5 mg*
+Rx only 100 TABLETS
 
-100 TABLETS (Rx only)
-
-*Each tablet contains 5 mg of chlordiazepoxide, USP and 12.5 mg of amitriptyline, USP (as the hydrochloride salt).
+*Each film-coated tablet contains 5 mg of chlordiazepoxide, USP and 12.5 mg of amitriptyline, USP (as the hydrochloride salt).
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -17,27 +15,25 @@ Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Usual Adult Dosage: See accompanying prescribing information.
 
-Contains color additives including FD&C Yellow No. 6.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0211A8
+RM0211A10
 
 PRINCIPAL DISPLAY PANEL - 10 mg/25 mg
 
 NDC 0378-0277-01
 
-ATTENTION: Dispense with Medication Guide
+Chlordiazepoxide and Amitriptyline HCl Tablets, USP CIV 10 mg/ 25mg*
 
-CHLORDIAZEPOXIDE and AMITRIPTYLINE HCl TABLETS, USP 10 mg/25 mg*
+Rx only 100 TABLETS
 
-100 TABLETS (Rx only)
-
-*Each tablet contains 10 mg of chlordiazepoxide, USP and 25 mg of amitriptyline, USP (as the hydrochloride salt).
+*Each film-coated tablet contains 10 mg of chlordiazepoxide, USP and 25 mg of amitriptyline, USP (as the hydrochloride salt).
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -46,10 +42,12 @@ Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Usual Adult Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-RM0277A8
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+RM0277A10
