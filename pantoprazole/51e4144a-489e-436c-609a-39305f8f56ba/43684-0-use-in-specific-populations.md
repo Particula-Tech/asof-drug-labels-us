@@ -2,9 +2,9 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-#### Pregnancy Category B
+Pregnancy Category B
 
 Reproduction studies have been performed in rats at intravenous doses up to 20 mg/kg/day (4 times the recommended human dose based on body surface area) and rabbits at intravenous doses up to 15 mg/kg/day (6 times the recommended human dose based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to pantoprazole.
 There are, however, no adequate and well-controlled studies in pregnant women.

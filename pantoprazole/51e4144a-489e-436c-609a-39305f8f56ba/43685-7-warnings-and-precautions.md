@@ -19,7 +19,7 @@ PROTONIX contains edetate disodium (the salt form of EDTA), a chelator of metal 
 Therefore, zinc supplementation should be considered in patients treated with PROTONIX I.V. for Injection who are prone to zinc deficiency.
 Caution should be used when other EDTA containing products are also co-administered intravenously.
 
-## 5.5 Clostridium Difficile associated diarrhea
+## 5.5 Clostridium difficile associated diarrhea
 
 Published observational studies suggest that PPI therapy like PROTONIX may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
@@ -49,9 +49,7 @@ For patients expected to be on prolonged treatment or who take PPIs with medicat
 
 ## 5.9 Interference with Urine Screen for THC
 
-May produce false-positive urine screen for THC (tetrahydrocannabinol)
-
-[see Drug Interactions (7.4)].
+May produce false-positive urine screen for THC (tetrahydrocannabinol) [see Drug Interactions (7.4)].
 
 ## 5.10 Concomitant use of PROTONIX with Methotrexate
 

@@ -6,7 +6,7 @@ Worldwide, approximately 80,500 patients have been treated with pantoprazole in 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-### Gastroesophageal Reflux Disease (GERD)
+Gastroesophageal Reflux Disease (GERD)
 
 Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another proton pump inhibitor, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 1.
@@ -45,7 +45,7 @@ Skin and Appendages: urticaria, rash, pruritus
 
 Special Senses: blurred vision
 
-### Zollinger-Ellison Syndrome
+Zollinger-Ellison Syndrome
 
 In clinical studies of Zollinger-Ellison Syndrome, adverse reactions reported in 35 patients taking PROTONIX 80 mg/day to 240 mg/day for up to 2 years were similar to those reported in adult patients with GERD.
 
@@ -62,7 +62,7 @@ Immune System Disorders: anaphylaxis (including anaphylactic shock)
 
 Investigations: weight changes
 
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN), and angioedema (Quincke’s edema)
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN), and angioedema (Quincke's edema)
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 

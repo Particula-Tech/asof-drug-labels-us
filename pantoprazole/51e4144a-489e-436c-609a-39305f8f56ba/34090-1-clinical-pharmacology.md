@@ -8,7 +8,7 @@ The binding to the (H+, K+)-ATPase results in a duration of antisecretory effect
 
 ## 12.2 Pharmacodynamics
 
-### Antisecretory Activity
+Antisecretory Activity
 
 The magnitude and time course for inhibition of pentagastrin-stimulated acid output (PSAO) by single doses (20 to 120 mg) of PROTONIX I.V. for Injection were assessed in a single-dose, open-label, placebo-controlled, dose-response study.
 The results of this study are shown in Table 2.
@@ -19,36 +19,33 @@ Doses of 20 to 80 mg of PROTONIX I.V. for Injection substantially reduced the 24
 Complete suppression of PSAO was achieved with 80 mg within approximately 2 hours and no further significant suppression was seen with 120 mg.
 The duration of action of PROTONIX I.V. for Injection was 24 hours.
 
-Table 2: Gastric Acid Output (mEq/hr, Mean ± SD) and Percent Inhibitiona (Mean ± SD) of Pentagastrin-Stimulated Acid Output Over 24 Hours Following a Single Dose of PROTONIX I.V. for Injectionb in Healthy Subjects
+Table 2: Gastric Acid Output (mEq/hr, Mean ± SD) and Percent InhibitionCompared to individual subject baseline prior to treatment with PROTONIX I.V. for Injection.
+(Mean ± SD) of Pentagastrin-Stimulated Acid Output Over 24 Hours Following a Single Dose of PROTONIX I.V. for InjectionInhibition of gastric acid output and the percent inhibition of stimulated acid output in response to PROTONIX I.V. for Injection may be higher after repeated doses. in Healthy Subjects
 
-|  | ------2 hours------ |  | ------4 hours------ |  | ------12 hours------ |  | ------24 hours------ |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Treatment Dose | Acid Output | % Inhibition | Acid Output | % Inhibition | Acid Output | % Inhibition | Acid Output | % Inhibition |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | ------2 hours------ |  | ------4 hours------ |  | ------12 hours------ |  | ------24 hours------ |  |
 | 0 mg (Placebo, n=4) | 39 ± 21 | NA | 26 ± 14 | NA | 32 ± 20 | NA | 38 ± 24 | NA |
-| 20mg (n=4-6) | 13 ± 18 | 47 ± 27 | 6 ± 8 | 83 ± 21 | 20 ± 20 | 54 ± 44 | 30 ± 23 | 45 ± 43 |
+| 20mg (n=4–6) | 13 ± 18 | 47 ± 27 | 6 ± 8 | 83 ± 21 | 20 ± 20 | 54 ± 44 | 30 ± 23 | 45 ± 43 |
 | 40 mg (n=8) | 5 ± 5 | 82 ± 11 | 4 ± 4 | 90 ± 11 | 11 ± 10 | 81 ± 13 | 16 ± 12 | 52 ± 36 |
 | 80 mg (n=8) | 0.1 ± 0.2 | 96 ± 6 | 0.3 ± 0.4 | 99 ± 1 | 2 ± 2 | 90 ± 7 | 7 ± 4 | 63 ± 18 |
-
-a: Compared to individual subject baseline prior to treatment with PROTONIX I.V. for Injection.
-NA = not applicable.
-
-b: Inhibition of gastric acid output and the percent inhibition of stimulated acid output in response to PROTONIX I.V. for Injection may be higher after repeated doses.
+| NA = not applicable. |  |  |  |  |  |  |  |  |
 
 In one study of gastric pH in healthy subjects, pantoprazole was administered orally (40 mg enteric coated tablets) or intravenously (40 mg) once daily for 5 days and pH was measured for 24 hours following the fifth dose.
 The outcome measure was median percent of time that pH was ≥ 4 and the results were similar for intravenous and oral medications; however, the clinical significance of this parameter is unknown.
 
-### Serum Gastrin Effects
+Serum Gastrin Effects
 
 Serum gastrin concentrations were assessed in two placebo-controlled studies.
 
-In a 5-day study of oral pantoprazole with 40 and 60 mg doses in healthy subjects, following the last dose on day 5, median 24-hour serum gastrin concentrations were elevated by 3-4 fold compared to placebo in both 40 and 60 mg dose groups.
+In a 5-day study of oral pantoprazole with 40 and 60 mg doses in healthy subjects, following the last dose on day 5, median 24-hour serum gastrin concentrations were elevated by 3–4 fold compared to placebo in both 40 and 60 mg dose groups.
 However, by 24 hours following the last dose, median serum gastrin concentrations for both groups returned to normal levels.
 
 In another placebo-controlled, 7-day study of 40 mg intravenous or oral pantoprazole in patients with GERD and a history of erosive esophagitis, the mean serum gastrin concentration increased approximately 50% from baseline and as compared with placebo, but remained within the normal range.
 
 During 6 days of repeated administration of PROTONIX I.V. for Injection in patients with Zollinger-Ellison Syndrome, consistent changes of serum gastrin concentrations from baseline were not observed.
 
-### Enterochromaffin-Like (ECL) Cell Effects
+Enterochromaffin-Like (ECL) Cell Effects
 
 There are no data available on the effects of intravenous pantoprazole on ECL cells.
 
@@ -64,52 +61,52 @@ Pantoprazole peak serum concentration (Cmax) and area under the serum concentrat
 Pantoprazole does not accumulate and its pharmacokinetics are unaltered with multiple daily dosing.
 Following the administration of PROTONIX I.V. for Injection, the serum concentration of pantoprazole declines biexponentially with a terminal elimination half-life of approximately one hour.
 In CYP2C19 extensive metabolizers [see Clinical Pharmacology (12.5)] with normal liver function receiving a 40 mg dose of PROTONIX I.V. for Injection by constant rate over 15 minutes, the peak concentration (Cmax) is 5.52 ±1.42 mcg/mL and the total area under the plasma concentration versus time curve (AUC) is5.4 ±1.5 mcg• hr/mL.
-The total clearance is 7.6-14.0 L/h.
+The total clearance is 7.6–14.0 L/h.
 
-### Distribution
+Distribution
 
-The apparent volume of distribution of pantoprazole is approximately 11.0-23.6 L, distributing mainly in extracellular fluid.
+The apparent volume of distribution of pantoprazole is approximately 11.0–23.6 L, distributing mainly in extracellular fluid.
 The serum protein binding of pantoprazole is about 98%, primarily to albumin.
 
-### Metabolism
+Metabolism
 
 Pantoprazole is extensively metabolized in the liver through the cytochrome P450 (CYP) system.
 Pantoprazole metabolism is independent of the route of administration (intravenous or oral).
 The main metabolic pathway is demethylation, by CYP2C19, with subsequent sulfation; other metabolic pathways include oxidation by CYP3A4.
 There is no evidence that any of the pantoprazole metabolites have significant pharmacologic activity.
-CYP2C19 displays a known genetic polymorphism due to its deficiency in some sub-populations (e.g., 3% of Caucasians and African-Americans and 17-23% of Asians).
+CYP2C19 displays a known genetic polymorphism due to its deficiency in some sub-populations (e.g., 3% of Caucasians and African-Americans and 17–23% of Asians).
 Although these sub-populations of slow pantoprazole metabolizers have elimination half-life values from 3.5 to 10.0 hours, they still have minimal accumulation (≤ 23%) with once daily dosing.
 
-### Excretion
+Excretion
 
 After administration of a single intravenous dose of 14C-labeled pantoprazole to healthy, extensive CYP2C19 metabolizers, approximately 71% of the dose was excreted in the urine with 18% excreted in the feces through biliary excretion.
 There was no renal excretion of unchanged pantoprazole.
 
-### Geriatric
+Geriatric
 
 After repeated I.V. administration in elderly subjects (65 to 76 years of age), pantoprazole AUC and elimination half-life values were similar to those observed in younger subjects.
 No dosage adjustment is recommended for elderly patients.
 
-### Gender
+Gender
 
 After oral administration there is a modest increase in pantoprazole AUC and Cmax in women compared to men.
 However, weight-normalized clearance values are similar in women and men.
 No dosage adjustment is warranted based on gender.
 
-### Renal Impairment
+Renal Impairment
 
 In patients with severe renal impairment, pharmacokinetic parameters for pantoprazole were similar to those of healthy subjects.
 No dosage adjustment is necessary in patients with renal impairment or in patients undergoing hemodialysis.
 
-### Hepatic Impairment
+Hepatic Impairment
 
 In patients with mild to severe hepatic impairment (Child-Pugh A to C cirrhosis), maximum pantoprazole concentrations increased only slightly (1.5-fold) relative to healthy subjects when pantoprazole was administered orally.
-Although serum half-life values increased to 7-9 hours and AUC values increased by 5- to 7-fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
+Although serum half-life values increased to 7–9 hours and AUC values increased by 5- to 7-fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
 These pharmacokinetic changes in hepatic-impaired patients result in minimal drug accumulation following once-daily, multiple-dose administration.
 No dosage adjustment is needed in patients with mild to severe hepatic impairment.
 Doses higher than 40 mg/day have not been studied in hepatically impaired patients.
 
-### Drug-Drug Interactions
+Drug-Drug Interactions
 
 Pantoprazole is metabolized mainly by CYP2C19 and to minor extents by CYPs 3A4, 2D6 and 2C9.
 In in vivo drug-drug interaction studies with CYP2C19 substrates (diazepam [also a CYP3A4 substrate] and phenytoin [also a CYP3A4 inducer]), nifedipine, midazolam, and clarithromycin (CYP3A4 substrates), metoprolol (a CYP2D6 substrate), diclofenac, naproxen and piroxicam (CYP2C9 substrates) and theophylline (a CYP1A2 substrate) in healthy subjects, the pharmacokinetics of pantoprazole were not significantly altered.
@@ -132,7 +129,7 @@ There have been postmarketing reports of increased INR and prothrombin time in p
 
 Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once daily dosing with high doses of pantoprazole has not been studied in poor metabolizers or individuals who are hepatically impaired.
 
-### Other Effects
+Other Effects
 
 In a clinical pharmacology study, pantoprazole 40 mg given orally once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone, thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin and growth hormone.
 
