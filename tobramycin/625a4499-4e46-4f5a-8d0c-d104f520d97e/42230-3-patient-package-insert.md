@@ -51,7 +51,7 @@ Using TOBI Podhaler with certain other medicines can cause serious side effects.
 If you are using TOBI Podhaler, you should discuss with your healthcare provider if you should take:
 
 - other medicines that may harm your nervous system, kidneys, or hearing
-- “water pills” (diuretics) such as Edecrin (ethacrynic acid), Lasix (furosemide), or mannitol
+- “water pills” (diuretics) such as Edecrin (ethacrynic acid), Lasix (furosemide), or intravenous mannitol
 - urea
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
@@ -157,4 +157,4 @@ Some people do not get this infection until later in their lives, while others g
 It is one of the most damaging bacteria for people with cystic fibrosis.
 If the infection is not properly managed, it will continue to damage your lungs causing further problems to your breathing.
 
-T2013-21 March 2013
+T2013-91 November 2013

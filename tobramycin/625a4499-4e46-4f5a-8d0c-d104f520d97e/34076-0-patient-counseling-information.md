@@ -53,4 +53,4 @@ Advise them to inform their doctor if they are pregnant, become pregnant, or pla
 Inform patients that cough was reported with the use of TOBI Podhaler in clinical trials.
 If coughing that may be experienced with TOBI Podhaler becomes bothersome or cannot be tolerated, advise patients that tobramycin inhalation solution or alternative therapeutic options may be considered.
 
-T2013-20 March 2013
+T2013-90 November 2013

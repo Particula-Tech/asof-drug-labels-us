@@ -58,10 +58,9 @@ Table 1: Adverse reactions reported in Study 1 (occurring in ≥2% of TOBI Podha
 | Musculoskeletal chest pain | 4.5 | 4.8 |
 | Skin and subcutaneous tissue disorders |  |  |
 | Rash | 2.3 | 2.4 |
+| 1This includes adverse events of pulmonary or cystic fibrosis exacerbations |  |  |
 
-1This includes adverse events of pulmonary or cystic fibrosis exacerbations
-
-Adverse drug reactions that occurred in <2% of patients treated with TOBI Podhaler in Study 1 were: bronchospasm (TOBI Podhaler 1.6%, TOBI 0.5%); deafness including deafness unilateral (reported as mild to moderate hearing loss or increased hearing loss) (TOBI Podhaler 1.0%, TOBI 0.5%); and tinnitus (TOBI Podhaler 1.9%, TOBI 2.4%).
+Adverse drug reactions that occurred in <2% of patients treated with TOBI Podhaler in Study 1 were: bronchospasm (TOBI Podhaler 1.6%, TOBI 0.5%); deafness including deafness unilateral (reported as mild to moderate hearing loss or increased hearing loss) (TOBI Podhaler 1.0%, TOBI 0.5%);tinnitus (TOBI Podhaler 1.9%, TOBI 2.4%); and aphonia (TOBI Podhaler 1.0%, TOBI 0%).
 
 Discontinuations in Study 1 were higher in the TOBI Podhaler arm compared to TOBI (27% TOBI Podhaler vs 18% TOBI).
 This was driven primarily by discontinuations due to adverse events (14% TOBI Podhaler vs 8% TOBI).

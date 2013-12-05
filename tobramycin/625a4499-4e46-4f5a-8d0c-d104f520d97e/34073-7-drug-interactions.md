@@ -7,4 +7,4 @@ No clinical signs of drug interactions with these medicines were identified.
 Concurrent and/or sequential use of TOBI Podhaler with other drugs with neurotoxic, nephrotoxic, or ototoxic potential should be avoided.
 
 Some diuretics can enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue.
-TOBI Podhaler should not be administered concomitantly with ethacrynic acid, furosemide, urea, or mannitol.
+TOBI Podhaler should not be administered concomitantly with ethacrynic acid, furosemide, urea, or intravenous mannitol.
