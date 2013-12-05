@@ -277,7 +277,7 @@ In clinical studies of TOBI®, patients taking TOBI® concomitantly with dornase
 
 Concurrent and/or sequential use of TOBI® with other drugs with neurotoxic, nephrotoxic, or ototoxic potential should be avoided.
 Some diuretics can enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue.
-TOBI® should not be administered concomitantly with ethacrynic acid, furosemide, urea, or mannitol.
+TOBI® should not be administered concomitantly with ethacrynic acid, furosemide, urea, or intravenous mannitol.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
