@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA091393"
+  ],
+  "inn": "oxycodone",
+  "labeler": "KVK-TECH,INC",
+  "package_ndcs": [
+    "10702-008-01",
+    "10702-008-50",
+    "10702-009-01",
+    "10702-009-50",
+    "10702-018-01",
+    "10702-018-50",
+    "10702-056-01",
+    "10702-056-50",
+    "10702-057-01",
+    "10702-057-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "oxycodone hydrochloride",
+      "name": "OXYCODONE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "e73897d6-b920-4300-a564-5dbc9c8e9fe9",
+  "source": "dailymed"
+}
