@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA074673"
+  ],
+  "inn": "guanfacine",
+  "labeler": "Epic Pharma, LLC",
+  "package_ndcs": [
+    "42806-048-01",
+    "42806-048-05",
+    "42806-049-01",
+    "42806-049-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "guanfacine",
+      "name": "Guanfacine"
+    }
+  ],
+  "setid": "fac4a4c2-f5f0-46ef-b76b-315abe9136fa",
+  "source": "dailymed"
+}
