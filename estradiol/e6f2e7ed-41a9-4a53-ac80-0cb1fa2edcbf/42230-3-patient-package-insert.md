@@ -90,7 +90,7 @@ For detailed instructions, see the step-by-step instructions for using Vivelle-D
 2. Vivelle-Dot is for skin use only
 3. Change your Vivelle-Dot patch 2 times a week or every 3 to 4 days
 4. Apply your Vivelle-Dot patch to a clean, dry area of your lower abdomen.
-   This area must be clean, dry, and free of powder, oil or lotion for your pouch to stick to your skin
+   This area must be clean, dry, and free of powder, oil or lotion for your patch to stick to your skin
 5. Apply your Vivelle-Dot patch to a different area of your abdomen each time.
    Do not use the same application site 2 times in the same week
 6. Do not apply Vivelle-Dot to your breasts
@@ -160,8 +160,7 @@ What can I do to lower my chances of getting a serious side effect with Vivelle-
 - If you have a uterus, talk to your healthcare provider about whether the addition of a progestin is right for you The addition of a progestin is generally recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus (womb).
 - See your healthcare provider right away if you get vaginal bleeding while using Vivelle-Dot
 - Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
-- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances of getting heart disease.
-  Ask your healthcare provider for ways to lower your chances of getting heart disease.
+- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances of getting heart disease Ask your healthcare provider for ways to lower your chances of getting heart disease.
 
 How should I store and throw away used Vivelle-Dot patches:
 

@@ -60,7 +60,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Genitourinary System
 
-Vaginal hemorrhage and abnormal withdrawal beeding or flow, breakthrough bleeding, spotting, uterine leiomyomata, vaginitis, vaginal discharge, ovarian cancer, endometrial hyperplasia.
+Vaginal hemorrhage and abnormal withdrawal bleeding or flow, breakthrough bleeding, spotting, uterine leiomyomata, vaginitis, vaginal discharge, ovarian cancer, endometrial hyperplasia.
 
 Breast
 

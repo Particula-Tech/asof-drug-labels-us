@@ -24,7 +24,7 @@ How to Apply Vivelle-Dot
 |  | Each patch is individually sealed in a protective pouch. Tear open the pouch at the tear notch (do not use scissors). Remove the patch. |
 | --- | --- |
 |  | Apply the patch immediately after removing from pouch. Holding the patch with the rigid protective liner facing you, remove half of the liner, which covers the sticky surface of the patch. |
-|  | Avoid touching the sticky side of the patch with your fingers. Using the other half of the rigid protective liner as a handle, apply the sticky side of the patch to the selected area of the abdomen or buttocks. |
+|  | Avoid touching the sticky side of the patch with your fingers. Using the other half of the rigid protective liner as a handle, apply the sticky side of the patch to the selected area of the abdomen or buttocks |
 |  | Press the sticky side of the patch firmly into place. Smooth it down. While still holding the sticky side down, fold back the other half of the patch. |
 |  | Grasp an edge of the remaining protective liner and gently pull it off. Avoid touching the sticky side of the patch with your fingers. |
 |  | Press the entire patch firmly into place with the palm of your hand. Continue to apply pressure, with the palm of your hand over the patch, for approximately 10 seconds. |
@@ -51,4 +51,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, NJ 07936
 
 © Novartis
 
-T2013-45 May 2013
+T2013-116 November 2013

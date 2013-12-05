@@ -89,6 +89,6 @@ Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itracon
 
 ## Adhesion
 
-Based on combined data from three short term clinical trials consisting of 471 observations, 85 percent of Vivelle-Dot adhered completely to the skin over the 3.5-day wear period.
+Based on combined data from three short-term clinical trials consisting of 471 observations, 85 percent of Vivelle-Dot adhered completely to the skin over the 3.5-day wear period.
 Three (3 percent) of the systems detached and were reapplied or replaced during the 3.5-day wear period.
 Approximately 80 percent of the transdermal systems evaluated in these studies were Vivelle-Dot 0.05 mg per day.

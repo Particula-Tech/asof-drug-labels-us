@@ -39,4 +39,4 @@ Store at controlled room temperature at 25ºC (77°F).
 Do not store unpouched.
 Apply immediately upon removal from the protective pouch.
 
-T2013-44 May 2013
+T2013-115 November 2013

@@ -57,7 +57,7 @@ RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN-ALONE SUBSTUDY OF WHIa
 | Non-fatal MIc | 0.91 (0.73-1.14) | 40 | 43 |
 | CHD deathc | 1.01 (0.71-1.43) | 16 | 16 |
 | All strokesc | 1.33 (1.05-1.68) | 45 | 33 |
-| Ischemic Strokec | 1.55 (1.19-2.01) | 38 | 25 |
+| Ischemic strokec | 1.55 (1.19-2.01) | 38 | 25 |
 | Deep vein thrombosisc,d | 1.47 (1.06-2.06) | 23 | 15 |
 | Pulmonary embolismc | 1.37 (0.90-2.07) | 14 | 10 |
 | Invasive breast cancerc | 0.80 (0.62-1.04) | 28 | 34 |
@@ -120,7 +120,7 @@ RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN PLUS PROGESTIN SUBSTUDY OF WHI A
 | Non-fatal MI | 1.28 (1.00-1.63) | 31 | 25 |
 | CHD death | 1.10 (0.70-1.75) | 8 | 8 |
 | All strokes | 1.31 (1.03-1.68) | 33 | 25 |
-| Ischemic stroke | 1.44 (1.09-1.90) | 26 | 18 |
+| Ischemic Stroke | 1.44 (1.09-1.90) | 26 | 18 |
 | Deep vein thrombosisd | 1.95 (1.43-2.67) | 26 | 13 |
 | Pulmonary embolism | 2.13 (1.45-3.11) | 18 | 8 |
 | Invasive breast cancere | 1.24 (1.01-1.54) | 41 | 33 |
