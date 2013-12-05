@@ -177,7 +177,7 @@ ADCIRCA® (tadalafil) is a trademark of Eli Lilly and Company.
 *The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
 The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Literature revised June 10, 2013
+Revised 11/2013
 
 Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA
 
@@ -186,4 +186,4 @@ Marketed by: Lung LLC, a wholly-owned subsidiary of United Therapeutics Corporat
 Copyright © 2009, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 6484 AMP
+PV 6485 AMP
