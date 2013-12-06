@@ -22,8 +22,8 @@ TABLE 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
-| <18 18-24 | Increases Compared to Placebo 14 additional cases 5 additional cases |
-| 25-64 ≥65 | Decreases Compared to Placebo 1 fewer case 6 fewer cases |
+| <18 18 to 24 | Increases Compared to Placebo 14 additional cases 5 additional cases |
+| 25 to 64 ≥65 | Decreases Compared to Placebo 1 fewer case 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -53,6 +53,7 @@ The maximum mean (upper bound of the 95% one-sided confidence interval) differen
 Basedon the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
 
 Because of the risk of QTc prolongation at higher citalopram doses, it is recommended that citalopram should not begiven at doses above 40 mg/day.
+
 It is recommended that citalopram should not be used in patients with congenital long QT syndrome, bradycardia, hypokalemia or hypomagnesemia, recent acute myocardial infarction, or uncompensated heart failure.
 Citalopram should also not be used in patients who are taking other drugs that prolong the QTc interval.
 Such drugs include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, antipsychotic medications (e.g., chlorpromazine, thioridazine, antibiotics (e.g., gatifloxacin, moxifloaxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
@@ -77,27 +78,12 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Citalopram Hydrobromide is not approved for use in treating bipolar depression.
 
-## Potential for Interaction with Monoamine Oxidase Inhibitors
+## Serotonin Syndrome
 
-In patients receiving serotonin reuptake inhibitor drugs in combination with a monoamine oxidase inhibitor (MAOI), there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
-These reactions have also been reported in patients who have recently discontinued SSRI treatment and have been started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-Furthermore, limited animal data on the effects of combined use of SSRIs and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
-Therefore, it is recommended that citalopram should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
-Similarly, at least 14 days should be allowed after stopping citalopram before starting an MAOI.
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including citalopram, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, trytophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
-
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including citalopram treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemeble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status chances.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
-
-The concomitant use of citalopram with MAOIs intended to treat depression is contraindicated.
-If concomitant treatment of citalopram with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-
-The concomitant use of citalopram with serotonin precursors (such as tryptophan) is not recommended.
-Treatment with citalopram and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
 # PRECAUTIONS
 
@@ -203,25 +189,11 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 There are no specific laboratory tests recommended.
 
-## QT-Prolongation and Torsade de Pointes
-
-Citalopram causes dose dependent QT prolongation and should not be dosed above 40 mg/day.
-Torsade de Pointes has been reported postmarketing.
-Citalopram should not be used in patients with congenital long QT syndrome.
-Hypokalemia and hypomagnesemia should be corrected prior to initiation of treatment and periodically monitored.
-ECG monitoring is recommended in patients with congestive heart failure, bradyarrhythmias, or patients on concomitant medications that prolong the QT interval.
-Dose escalations over 20 mg/day in CYP2C19 poor metabolizers or patients taking concomitant cimetidine or another CYP2C19 inhibitor are not recommended.
-
 ## Drug Interactions
-
-### Drugs that Prolong the QT interval
-
-ECG monitoring is recommended with concomitant medications that have demonstrated prolongation of the QT interval (see WARNINGS: QT-Prolongation and Torsade de Pointes).
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs including citalopram, and the potential for serotonin syndrome, caution is advised when citalopram is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS: Serotonin Syndrome).
-The concomitant use of citalopram with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS: Drug Interactions).
+See CONTRAINDICATIONS, WARNINGS, and DOSAGE and ADMINISTRATION.
 
 ### Triptans
 
@@ -238,7 +210,7 @@ Although citalopram did not potentiate the cognitive and motor effects of alcoho
 
 ### Monoamine Oxidase Inhibitors (MAOIs)
 
-See CONTRAINDICATIONS and WARNINGS.
+See CONTRAINDICATIONS and WARNINGS and DOSAGE and ADMINISTRATION.
 
 ### Drugs That Interfere with Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
 
@@ -362,20 +334,22 @@ There are no adequate and well-controlled studies in pregnant women; therefore, 
 
 ### Pregnancy-Nonteratogenic Effects
 
-Neonates exposed to citalopram and other SSRIs or SNRIs, late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Neonates exposed to citalopram and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome).
 
-Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1 to 2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective, case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
-The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+PPHN occurs in 1- 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including citalopram) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
 
-When treating a pregnant woman with citalopram during the third trimester, the physician should carefully consider the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
-Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
+Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
+
+When treating a pregnant woman with citalopram, the physician should carefully consider both the potential risks of taking an SSRl, along with the established benefits of treating depression with an antidepressant.
+This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTRATION).
 
 ## Labor and Delivery
 
