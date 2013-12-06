@@ -1,15 +1,31 @@
-# PRINCIPAL DISPLAY PANEL - 70 Lozenge Box
+# PRINCIPAL DISPLAY PANEL
+
+Rx Only
 
 NDC 0574-0107-70
 
-CLOTRIMAZOLE LOZENGE (Clotrimazole Troche)
+ClotrimazoleLozenge (Clotrimazole Troche)
 
 10 mg
 
-Rx ONLY
+DESCRIPTION: Each lozenge contains
 
-DOSAGE: Each lozenge must be dissolved slowly in the mouth.
+10 mg of clotrimazole,
 
-NET CONTENTS 70 LOZENGES
+[1-(o-chloro-α, α-diphenylbenzyl) imidazole]
 
-Paddock Laboratories, Inc.
+DOSAGE: Each lozenge must be dissolved slowly in the mouth
+
+See accompanying literature for complete information
+
+Dispense in tight containers (USP)
+
+Store at 20° to 25°C (68° to 77°F)
+
+[see USP Controlled Room Temperature]
+
+Avoid Freezing.
+
+70 Lozenges
+
+Perrigo®

@@ -1,3 +1,9 @@
 FOR TOPICAL ORAL ADMINISTRATION
 
-Paddock Laboratories, Inc. Minneapolis, MN 55427 (02-08)
+Manufactured By
+
+Perrigo®
+
+Minneapolis, MN 55427 2200403
+
+(03-12)

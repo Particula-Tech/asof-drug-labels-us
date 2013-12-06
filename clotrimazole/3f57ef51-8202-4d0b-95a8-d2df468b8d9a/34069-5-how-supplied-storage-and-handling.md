@@ -11,3 +11,5 @@ Clotrimazole lozenges, 10 mg, white discoid, uncoated tablets, debossed with "PA
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]
 
 Avoid freezing.
+
+Rx Only
