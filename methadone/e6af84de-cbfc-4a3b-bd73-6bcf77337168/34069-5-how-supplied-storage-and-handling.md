@@ -14,7 +14,7 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [s
 
 DISKETS Dispersible Tablets (Methadone Hydrochloride Tablets for Oral Suspension, USP)
 
-40 mg Tablets: peach, cross-scored tablets (Identified 54 883)
+40 mg Tablets: light-pinkish orange, cross-scored tablets (Identified 54 883)
 
 NDC 0054-4538-25: Bottles of 100 dispersible tablets.
 

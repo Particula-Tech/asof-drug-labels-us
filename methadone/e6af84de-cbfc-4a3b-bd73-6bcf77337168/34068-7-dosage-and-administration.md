@@ -65,12 +65,12 @@ Apprise patients of the high risk of relapse to illicit drug use associated with
 
 ## 2.4 Risk of Relapse in Patients on Methadone Maintenance Treatment of Opioid Addiction
 
-Abrupt opioid discontinuation can lead to development of opioid withdrawal symptoms [seeDrug Abuse and Dependence (9.3)].
+Abrupt opioid discontinuation can lead to development of opioid withdrawal symptoms [see Drug Abuse and Dependence (9.3)].
 Opioid withdrawal symptoms have been associated with an increased risk of relapse to illicit drug use in susceptible patients.
 
 ## 2.5 Considerations for Management of Acute Pain During Methadone Maintenance Treatment
 
-Patients in methadone maintenance treatment for opioid dependence who experience physical trauma, postoperative pain or other acute pain cannot beexpected to derive analgesia from their existing dose of methadone.
+Patients in methadone maintenance treatment for opioid dependence who experience physical trauma, postoperative pain or other acute pain cannot be expected to derive analgesia from their existing dose of methadone.
 Such patients should be administered analgesics, including opioids, in doses that would otherwise be indicated for non-methadone-treated patients with similar painful conditions.
 When opioids are required for management of acute pain in methadone maintenance patients, somewhat higher and/or more frequent doses will often be required than would be the case for non-tolerant patients due to the opioid tolerance induced by methadone.
 

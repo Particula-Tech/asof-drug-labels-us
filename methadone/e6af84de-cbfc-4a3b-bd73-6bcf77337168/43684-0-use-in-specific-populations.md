@@ -117,7 +117,7 @@ Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults
 ## 8.7 Renal Impairment
 
 Methadone pharmacokinetics have not been extensively evaluated in patients with renal insufficiency.
-Since unmetabolized methadone andits metabolites are excreted in urine to a variable degree, start these patients on lower doses and with longer dosing intervals and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
+Since unmetabolized methadone and its metabolites are excreted in urine to a variable degree, start these patients on lower doses and with longer dosing intervals and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
 
 ## 8.8 Hepatic Impairment
 

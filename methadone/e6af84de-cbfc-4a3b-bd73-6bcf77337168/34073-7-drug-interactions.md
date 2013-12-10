@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Cytochrome P-450 Interactions
+## 7.1 Cytochrome P450 Interactions
 
 Methadone undergoes hepatic N-demethylation by cytochrome P450 (CYP) isoforms, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6 [see Clinical Pharmacology (12.3)].
 
@@ -25,7 +25,7 @@ Effects of Methadone on Antiretroviral Agents
 Didanosine and Stavudine: Experimental evidence demonstrated that methadone decreased the area under the concentration-time curve (AUC) and peak levels for didanosine and stavudine, witha more significant decrease for didanosine.
 Methadone disposition was not substantially altered.
 
-Zidovudine: Experimental evidence demonstrated that methadone increased the AUC of zidovudine, whichcould result in toxic effects.
+Zidovudine: Experimental evidence demonstrated that methadone increased the AUC of zidovudine, which could result in toxic effects.
 
 ## 7.2 CNS Depressants
 

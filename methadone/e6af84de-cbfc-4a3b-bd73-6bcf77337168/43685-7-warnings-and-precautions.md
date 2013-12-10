@@ -28,8 +28,7 @@ To further reduce the risk of respiratory depression, consider the following:
   Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists who are being converted to treatment with methadone, thus making determination of dosing during opioid treatment conversion complex.
   Deaths have been reported during conversion from chronic, high-dose treatment with other opioid agonists.
 - •Proper dosing and titration are essential and methadone should be prescribed only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone.
-
-Methadone is contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
+- •Methadone is contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
 
 ## 5.2 Life-Threatening QT Prolongation
 

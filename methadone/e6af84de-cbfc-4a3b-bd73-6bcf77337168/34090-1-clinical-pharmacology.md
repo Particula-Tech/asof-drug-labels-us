@@ -20,7 +20,7 @@ Effect of food on the bioavailability of methadone has not been evaluated.
 
 Distribution
 
-Methadone is a lipophilic drug and the steady-state volume of distribution ranges between 1.0 to 8.0 L/kg.
+Methadone is a lipophilic drug and the steady-state volume of distribution ranges between 1 to 8 L/kg.
 In plasma, methadone is predominantly bound to α1-acid glycoprotein (85% to 90%).
 Methadone is secreted in saliva, breast milk, amniotic fluid and umbilical cord plasma.
 

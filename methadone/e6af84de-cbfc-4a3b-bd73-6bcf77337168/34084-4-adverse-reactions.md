@@ -27,7 +27,7 @@ Body as a Whole: asthenia (weakness), edema, headache
 
 Cardiovascular: arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extrasystoles, flushing, heart failure, hypotension,palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsade de pointes, ventricular fibrillation, ventricular tachycardia
 
-- Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances
+Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances
 
 Endocrine: hypogonadism
 
@@ -37,12 +37,13 @@ Hematologic: reversible thrombocytopenia has been described in opioid addicts wi
 
 Metabolic: hypokalemia, hypomagnesemia, weight gain
 
-- Musculoskeletal: decreased muscle mass and strength, osteoporosis and fractures
-- Renal: antidiuretic effect, urinary retention or hesitancy
+Musculoskeletal: decreased muscle mass and strength, osteoporosis and fractures
+
+Renal: antidiuretic effect, urinary retention or hesitancy
 
 Reproductive: amenorrhea, reduced libido and/or potency, reduced ejaculate volume, reduced seminal vesicle and prostate secretions, decreased sperm motility, abnormalities in sperm morphology
 
-- Respiratory: pulmonary edema, respiratory depression
+Respiratory: pulmonary edema, respiratory depression
 
 Skin and Subcutaneous Tissue: pruritus, urticaria, other skin rashes, and rarely, hemorrhagic urticaria
 

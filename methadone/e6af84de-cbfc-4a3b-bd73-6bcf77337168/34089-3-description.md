@@ -10,7 +10,7 @@ Its molecular formula is C21H27NO•HCl and its structural formula is:
 Each DISKETS Dispersible Tablet contains 40 mg of methadone hydrochloride, USP and the following inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, orange lake color, orange-pineapple flavor, potassium phosphate monobasic, pregelatinized starch, and stearic acid.
 
 DISKETS Dispersible Tablets are cross-scored, allowing for flexible dosage adjustment.
-Each tablet may be broken or cut in half to yield two 20-mg doses, or in quarters to yield four 10-mg doses.
+Each tablet may be broken or cut in half to yield two 20 mg doses, or in quarters to yield four 10 mg doses.
 
 DISKETS Dispersible Tablets (Methadone Hydrochloride Tablets for Oral Suspension, USP), are for oral administration following dispersion in a liquid.
 

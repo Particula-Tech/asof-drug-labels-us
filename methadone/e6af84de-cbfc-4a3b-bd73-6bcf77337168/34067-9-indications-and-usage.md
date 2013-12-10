@@ -7,7 +7,7 @@ DISKETS Dispersible Tablets contain methadone, an opioid agonist indicated for t
 
 Conditions For Distribution And Use Of Methadone Products For The Treatment Of Opioid Addiction
 
-Code of Federal Regulations, Title 42, Sec 8
+Code of Federal Regulations, Title 42, Sec 8.
 
 Methadone products when used for the treatment of opioid addiction in detoxification or maintenance programs, shall be dispensed only by opioid treatment programs (and agencies, practitioners or institutions by formal agreement with the program sponsor) certified by the Substance Abuse and Mental Health Services Administration and approved by the designated state authority.
 Certified treatment programs shall dispense and use methadone in oral form only and according to the treatment requirements stipulated in the Federal Opioid Treatment Standards (42 CFR 8.12).
