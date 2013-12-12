@@ -117,19 +117,19 @@ What previous or current medical problems or conditions should I discuss with my
 
 Talk to your doctor or healthcare provider if:
 
-- •You have HIV infection.
-- •You are pregnant or if you become pregnant while taking EPIVIR-HBV.
-- •You are breastfeeding.
-- •You have diabetes.
+- You have HIV infection.
+- You are pregnant or if you become pregnant while taking EPIVIR-HBV.
+- You are breastfeeding.
+- You have diabetes.
   Each 20-mL dose (100 mg) of EPIVIR-HBV Oral Solution contains 4 grams of sucrose.
 
 Also talk to your doctor or healthcare provider about:
 
-- •Problems with your blood counts.
-- •Problems with your muscles.
-- •Problems with your kidneys.
-- •Problems with your pancreas.
-- •Any side effects or unusual symptoms during treatment.
+- Problems with your blood counts.
+- Problems with your muscles.
+- Problems with your kidneys.
+- Problems with your pancreas.
+- Any side effects or unusual symptoms during treatment.
 
 How should I store EPIVIR-HBV Tablets and Oral Solution?
 
