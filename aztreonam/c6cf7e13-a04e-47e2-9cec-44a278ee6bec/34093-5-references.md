@@ -10,25 +10,24 @@
 4. Sattler FR, Schramm M, Swabb EA.
    Safety of aztreonam and SQ 26,992 in elderly patients with renal insufficiency.
    Rev Infect Dis 1985; 7 (suppl 4):S622-S627.
-5. National Committee for Clinical Laboratory Standards.
+5. Clinical and Laboratory Standards Institute (CLSI).
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard -Ninth Edition.
+   CLSI document M07-A9, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
+6. National Committee for Clinical Laboratory Standards.
    Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically—Fifth Edition.
    Approved Standard NCCLS Document M7-A5, Vol. 20, No. 2, NCCLS, Wayne, PA, January 2000.
-6. National Committee for Clinical Laboratory Standards.
-   Performance Standards for Antimicrobial Disk Susceptibility Tests—Seventh Edition.
-   Approved Standard NCCLS Document M2-A7, Vol. 20, No. 1, NCCLS, Wayne, PA, January 2000.
-7. Deger F, Douchamps J, Freschi E, et al: Aztreonam in the treatment of serious gram-negative infections in the elderly.
+7. Clinical and Laboratory Standards Institute (CLSI).
+   Performance Standards for Antimicrobial Disk Diffusion Susceptibility Tests; Approved Standard – Eleventh Edition CLSI document M02-A11, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
+8. Clinical and Laboratory Standards Institute (CLSI).
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-third Informational Supplement.
+   CLSI document M100-S23, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2013.
+9. Deger F, Douchamps J, Freschi E, et al. Aztreonam in the treatment of serious gram-negative infections in the elderly.
    Int J Clin Pharmacol Ther and Toxicol 1988; 26: 22-26.
-8. Knockaert DC, Dejaeger E, Nestor L, et al: Aztreonam-flucloxacillin double beta-lactam treatment as empirical therapy of serious infections in very elderly patients.
-   Age and Aging 1981; 20:135-139.
-9. Roelandts F. Clinical use of aztreonam in a psychogeriatric population.
-   Acta Clin Belg 1992; 47:251-255.
-10. Andrews R, Fasoli R, Scoggins WG, et al. Combined aztreonam and gentamicin therapy for pseudomonal lower respiratory tract infections.
+10. Knockaert DC, Dejaeger E, Nestor L, et al. Aztreonam-flucloxacillin double beta-lactam treatment as empirical therapy of serious infections in very elderly patients.
+    Age and Aging 1981; 20:135-139.
+11. Roelandts F. Clinical use of aztreonam in a psychogeriatric population.
+    Acta Clin Belg 1992; 47:251-255.
+12. Andrews R, Fasoli R, Scoggins WG, et al. Combined aztreonam and gentamicin therapy for pseudomonal lower respiratory tract infections.
     Clin Therap 1994;16:236-252.
-11. National Committee for Clinical Laboratory Standards.
-    Performance Standards for Antimicrobial Susceptibility Testing — Eleventh Informational Supplement, NCCLS Document M100-S11, Vol. 21, No. 1, NCCLS, Wayne, PA, January 2001.
 
-Galaxy, Dianeal, Plasma-Lyte, and Travert are registered trademarks of Baxter International, Inc.
-
-Ionosol® and Normosol® are registered trademarks of Abbott Laboratories Corporation.
-
-Isolyte® is a registered trademark of McGraw Inc.
+The brand names mentioned in this document are the trademarks of their respective owners.

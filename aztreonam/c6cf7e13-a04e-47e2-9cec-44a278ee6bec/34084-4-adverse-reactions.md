@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
-Local reactions such as phlebitis/thrombophlebitis following IV administration, and discomfort/swelling at the injection site following IM administration occurred at rates of approximately 1.9 % and 2.4 %, respectively.
+Local reactions such as phlebitis/thrombophlebitis following intravenous administration, and discomfort/swelling at the injection site following intramuscular administration occurred at rates of approximately 1.9% and 2.4%, respectively.
 
-Systemic reactions (considered to be related to therapy or of uncertain etiology) occurring at an incidence of 1 to 1.3 % include diarrhea, nausea and/or vomiting, and rash.
-Reactions occurring at an incidence of less than 1 % are listed within each body system in order of decreasing severity:
+Systemic reactions (considered to be related to therapy or of uncertain etiology) occurring at an incidence of 1% to 1.3% include diarrhea, nausea and/or vomiting, and rash.
+Reactions occurring at an incidence of less than 1% are listed within each body system in order of decreasing severity:
 
 Hypersensitivity —anaphylaxis, angioedema, bronchospasm
 
@@ -44,15 +44,15 @@ In the US patient population, pain occurred in 1.5% of patients, while each of t
 
 The following laboratory adverse events, regardless of drug relationship, occurred in at least 1% of treated patients: increased eosinophils (6.3%), increased platelets (3.6%), neutropenia (3.2%), increased AST (3.8%), increased ALT (6.5%), and increased serum creatinine (5.8%).
 
-In US pediatric clinical trials, neutropenia (absolute neutrophil count less than 1000/mm3) occurred in 11.3% of patients (8/71) younger than 2 years receiving 30 mg/kg q6h.
-AST and ALT elevations to greater than 3 times the upper limit of normal were noted in 15 to 20% of patients aged 2 years or above receiving 50 mg/kg q6h.
+In US pediatric clinical trials, neutropenia (absolute neutrophil count less than 1,000/mm3) occurred in 11.3% of patients (8/71) younger than 2 years receiving 30 mg/kg every 6 hours.
+AST and ALT elevations to greater than 3 times the upper limit of normal were noted in 15% to 20% of patients aged 2 years or above receiving 50 mg/kg every 6 hours.
 The increased frequency of these reported laboratory adverse events may be due to either increased severity of illness treated or higher doses of aztreonam for injection administered.
 
 ## Adverse Laboratory Changes
 
 Adverse laboratory changes without regard to drug relationship that were reported during clinical trials were:
 
-Hepatic —elevations of AST (SGOT), ALT (SGPT), and alkaline phosphatase; signs or symptoms of hepatobiliary dysfunction occurred in less than 1 % of recipients (see above).
+Hepatic —elevations of AST (SGOT), ALT (SGPT), and alkaline phosphatase; signs or symptoms of hepatobiliary dysfunction occurred in less than 1% of recipients (see above).
 
 Hematologic —increases in prothrombin and partial thromboplastin times, positive Coombs’ test.
 

@@ -1,10 +1,10 @@
 # INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of aztreonam for injection and other antibacterial drugs, aztreonam for injection should only be used to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of aztreonam for injection, USP and other antibacterial drugs, aztreonam for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-Aztreonam for Injection is indicated for the treatment of the following infections caused by susceptible gram-negative microorganisms:
+Aztreonam for Injection is indicated for the treatment of the following infections caused by susceptible Gram-negative microorganisms:
 
 Urinary Tract Infections (complicated and uncomplicated), including pyelonephritis and cystitis (initial and recurrent) caused by Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Enterobacter cloacae, Klebsiella oxytoca*, Citrobacter species* and Serratia marcescens*.
 
@@ -19,14 +19,16 @@ Intra-abdominal Infections, including peritonitis caused by Escherichia coli, Kl
 Gynecologic Infections, including endometritis and pelvic cellulitis caused by Escherichia coli, Klebsiella pneumoniae*, Enterobacter species* including E. cloacae* and Proteus mirabilis*.
 
 Aztreonam for injection is indicated for adjunctive therapy to surgery in the management of infections caused by susceptible organisms, including abscesses, infections complicating hollow viscus perforations, cutaneous infections and infections of serous surfaces.
-Aztreonam for injection is effective against most of the commonly encountered gram-negative aerobic pathogens seen in general surgery.
+Aztreonam for injection is effective against most of the commonly encountered Gram-negative aerobic pathogens seen in general surgery.
 
-*Efficacy for this organism in this organ system was studied in fewer than ten infections
+___________________
+
+*Efficacy for this organism in this organ system was studied in fewer than 10 infections.
 
 ## Concurrent Therapy
 
-Concurrent initial therapy with other antimicrobial agents and aztreonam for injection is recommended before the causative organism(s) is known in seriously ill patients who are also at risk of having an infection due to gram-positive aerobic pathogens.
+Concurrent initial therapy with other antimicrobial agents and aztreonam for injection is recommended before the causative organism(s) is known in seriously ill patients who are also at risk of having an infection due to Gram-positive aerobic pathogens.
 If anaerobic organisms are also suspected as etiologic agents, therapy should be initiated using an anti-anaerobic agent concurrently with aztreonam for injection (see DOSAGE AND ADMINISTRATION).
-Certain antibiotics (e.g., cefoxitin, imipenem) may induce high levels of beta-lactamase in vitro in some gram-negative aerobes such as Enterobacter and Pseudomonas species, resulting in antagonism to many beta-lactam antibiotics including aztreonam.
-These in vitro findings suggest that such beta-lactamase inducing antibiotics not be used concurrently with aztreonam.
+Certain antibiotics (e.g., cefoxitin, imipenem) may induce high levels of beta-lactamase in vitro in some Gram-negative aerobes such as Enterobacter and Pseudomonas species, resulting in antagonism to many beta-lactam antibiotics including aztreonam.
+These in vitro findings suggest that such beta-lactamase-inducing antibiotics not be used concurrently with aztreonam.
 Following identification and susceptibility testing of the causative organism(s), appropriate antibiotic therapy should be continued.
