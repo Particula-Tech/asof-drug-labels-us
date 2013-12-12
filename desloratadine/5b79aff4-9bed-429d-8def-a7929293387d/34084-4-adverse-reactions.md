@@ -60,4 +60,4 @@ Only one of the 246 pediatric subjects receiving CLARINEX Oral Solution in the c
 ## 6.2 Post-Marketing Experience
 
 Because adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following spontaneous adverse events have been reported during the marketing of desloratadine: tachycardia, palpitations, rare cases of hypersensitivity reactions (such as rash, pruritus, urticaria, edema, dyspnea, and anaphylaxis), psychomotor hyperactivity, seizures, and elevated liver enzymes including bilirubin, and very rarely, hepatitis.
+The following spontaneous adverse events have been reported during the marketing of desloratadine: tachycardia, palpitations, rare cases of hypersensitivity reactions (such as rash, pruritus, urticaria, edema, dyspnea, and anaphylaxis), psychomotor hyperactivity, movement disorders (including dystonia, tics, and extrapyramidal symptoms), seizures, and elevated liver enzymes including bilirubin, and very rarely, hepatitis.
