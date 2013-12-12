@@ -7,7 +7,7 @@ Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable
 This leads to the production of microtubule bundles without normal function and to the stabilization of microtubules, which results in the inhibition of mitosis in cells.
 Docetaxel’s binding to microtubules does not alter the number of protofilaments in the bound microtubules, a feature which differs from most spindle poisons currently in clinical use.
 
-## 12.3 Human Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Absorption
 

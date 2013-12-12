@@ -146,6 +146,7 @@ Table 2 -­ Dose Reductions for Evaluation of Creatinine Clearance
 | CrCl ≥60 mL/min | Full dose of cisplatin was given. CrCl was to be repeated before each treatment cycle. |
 | CrCl between 40 and 59 mL/min | Dose of cisplatin was reduced by 50% at subsequent cycle. If CrCl was >60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle. If no recovery was observed, then cisplatin was omitted from the next treatment cycle. |
 | CrCl <40 mL/min | Dose of cisplatin was omitted in that treatment cycle only. If CrCl was still <40 mL/min at the end of cycle, cisplatin was discontinued. If CrCl was >40 and <60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle. If CrCl was >60 mL/min at end of cycle, full cisplatin dose was given at next cycle. |
+| CrCl = Creatinine clearance |  |
 
 Fluorouracil dose modifications and treatment delays
 
@@ -155,6 +156,8 @@ In the event of grade 2 or greater plantar-palmar toxicity, fluorouracil should 
 The fluorouracil dosage should be reduced by 20%.
 
 For other greater than grade 3 toxicities, except alopecia and anemia, chemotherapy should be delayed (for a maximum of 2 weeks from the planned date of infusion) until resolution to grade ≤1 and then recommenced, if medically appropriate.
+
+For other fluorouracil dosage adjustments, also refer to the manufacturers’ prescribing information.
 
 Combination Therapy with Strong CYP3A4 Inhibitors
 

@@ -144,7 +144,8 @@ The most common side effects of Docetaxel Injection, USP include:
 Tell your doctor if you have any side effect that bothers you or does not go away.
 
 These are not all the possible side effects of Docetaxel Injection, USP.
-For more information ask your doctor or pharmacist.Call your doctor for medical advice about side effects.
+For more information ask your doctor or pharmacist.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 General information about Docetaxel Injection, USP
@@ -168,12 +169,8 @@ Inactive ingredients include: ethanol, polysorbate 80, PEG 300 and citric acid
 | Every three-week injection of Docetaxel Injection, USP for prostate cancerTake your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Date: ___________ Time: ___________Date: ___________ Time: ___________(Docetaxel Injection Treatment Day) Time: ___________ |
 | --- |
 
-EN-3042
+EN-3381
 
-Manufactured by: Zydus Hospira Oncology Private Ltd., Gujarat, India
+Manufactured by: Zydus Hospira Oncology Private Ltd., Gujarat, India Distributed by: Hospira, Inc., Lake Forest, IL 60045 USA
 
-Distributed by: Hospira, Inc., Lake Forest, IL 60045 USA
-
-GUJ DRUGS/G/28/1267
-
-Revised: 05/2012
+GUJ-DRUGS/G/28/1267

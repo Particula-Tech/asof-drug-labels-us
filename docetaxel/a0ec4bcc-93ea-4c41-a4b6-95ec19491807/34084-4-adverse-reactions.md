@@ -277,7 +277,7 @@ Table 8 - Adverse Reactions Regardless of Relationship to Treatment in Chemother
 | Infection Any Grade 3/4 | 358 | 378 |
 | Fever in absence of infection Any Grade 3/4 | 33<1 | 291 |
 | Hypersensitivity Reaction* Any Grade 3/4 | 123 | 4<1 |
-| Fluid Retention** Any All severe or life-threatening events Pleural effusion Any All severe or life-threatening events Peripheral edema Any All severe or life-threatening events Weight gain Any All severe or life-threatening events | 542 232 34<1 15<1 | 422 222 18<1 9<1 |
+| Fluid Retention** Any All severe or life‑threatening events Pleural effusion Any All severe or life‑threatening events Peripheral edema Any All severe or life‑threatening events Weight gain Any All severe or life‑threatening events | 54 2 23 2 34 <1 15 <1 | 42 2 22 2 18 <1 9 <1 |
 | Neurosensory Any Grade 3/4 | 474 | 424 |
 | Neuromotor Any Grade 3/4 | 193 | 176 |
 | Skin Any Grade 3/4 | 16<1 | 141 |
@@ -429,7 +429,7 @@ Table 11 – Clinically Important Treatment Emergent Adverse Reactions (Regardle
 | Ischemia myocardial | 2 | 2 | 1 | 0 | 2 | 1 | 1 | 1 |
 | Tearing | 2 | 0 | 1 | 0 | 2 | 0 | 2 | 0 |
 | Conjunctivitis | 1 | 0 | 1 | 0 | 1 | 0 | 0.4 | 0 |
-| *Febrile neutropenia: grade ≥2 fever concomitant with grade 4 neutropenia requiring intravenous antibiotics and/or hospitalization. **Related to treatment. ***Includes superficial and deep vein thrombosis and pulmonary embolism. |  |  |  |  |  |  |  |  |
+| Clinically important treatment emergent adverse reactions based upon frequency, severity, and clinical impact.*Febrile neutropenia: grade ≥2 fever concomitant with grade 4 neutropenia requiring intravenous antibiotics and/or hospitalization. **Related to treatment. ***Includes superficial and deep vein thrombosis and pulmonary embolism. |  |  |  |  |  |  |  |  |
 
 ## 6.2 Post-Marketing Experiences
 
@@ -486,8 +486,7 @@ Rare cases of ototoxicity, hearing disorders and/or hearing loss have been repor
 
 Respiratory
 
-Dyspnea, acute pulmonary edema, acute respiratory distress syndrome, interstitial pneumonia.
-Pulmonary fibrosis has been rarely reported.
+Dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis have rarely been reported and may be associated with fatal outcome.
 Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
 
 Renal
