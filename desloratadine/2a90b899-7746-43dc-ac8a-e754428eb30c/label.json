@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA078352"
+  ],
+  "inn": "desloratadine",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-153-01",
+    "68180-153-02",
+    "68180-153-11",
+    "68180-153-12",
+    "68180-153-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "desloratadine",
+      "name": "DESLORATADINE"
+    }
+  ],
+  "setid": "2a90b899-7746-43dc-ac8a-e754428eb30c",
+  "source": "dailymed"
+}

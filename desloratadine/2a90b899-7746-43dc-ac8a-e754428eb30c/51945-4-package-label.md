@@ -1,0 +1,35 @@
+Desloratadine Tablets
+
+Rx Only
+
+5 mg
+
+NDC 68180-153-11
+
+BLISTER FOIL LABEL
+
+10 TABLETS SINGLE UNIT PACKAGE
+
+Desloratadine Tablets
+
+Rx Only
+
+5 mg
+
+NDC 68180-153-01
+
+BOTTLE LABEL
+
+100 TABLETS
+
+Desloratadine Tablets
+
+Rx Only
+
+5 mg
+
+NDC 68180-153-12
+
+CARTON LABEL
+
+30 (3 x 10) UNIT DOSE TABLETS
