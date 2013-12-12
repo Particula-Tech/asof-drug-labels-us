@@ -19,3 +19,23 @@ Store at controlled room temper- ature 59°–86°F (15°–30°C).
 Monarch Pharmaceuticals®
 
 U.S. Patent 3,761,590
+
+# PRINCIPAL DISPLAY PANEL - 20 g Tube Carton
+
+NDC 61570-131-20 20 grams
+
+SILVADENE® CREAM 1% (silver sulfadiazine)
+
+Monarch Pharmaceuticals®
+
+# PRINCIPAL DISPLAY PANEL - 50 g Jar Label
+
+NDC 61570-131-50
+
+SILVADENE® CREAM 1% (silver sulfadiazine)
+
+Monarch Pharmaceuticals®
+
+Rx Only
+
+50 grams
