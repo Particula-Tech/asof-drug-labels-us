@@ -30,7 +30,7 @@ Call your healthcare provider right away if you have any of the following sympto
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
 Fluoxetine oral solution may be associated with these serious side effects: 2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -39,6 +39,10 @@ This condition can be life-threatening and may include:
 - sweating or fever
 - nausea, vomiting, or diarrhea
 - muscle rigidity
+- dizziness
+- flushing
+- tremor
+- seizures
 
 3.
 Severe allergic reactions:
@@ -48,7 +52,7 @@ Severe allergic reactions:
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 4.
-Abnormal bleeding: Fluoxetine oral solution and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin ® , Jantoven ® ), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal bleeding: Fluoxetine oral solution and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 5.
 Seizures or convulsions 6.
 Manic episodes:
@@ -74,6 +78,15 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
+9.
+Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsade de Pointes).
+This condition can be life threatening.
+The symptoms may include:
+
+- fast, slow, or irregular heartbeat
+- shortness of breath
+- dizziness or fainting
+
 Do not stop fluoxetine oral solution without first talking to your healthcare provider.
 Stopping fluoxetine oral solution too quickly may cause serious symptoms including:
 
@@ -86,6 +99,7 @@ What is fluoxetine oral solution?
 Fluoxetine oral solution is a prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
 You should discuss all treatment choices with your healthcare provider.
+
 Fluoxetine oral solution is used to treat:
 
 - Major Depressive Disorder (MDD)
@@ -96,15 +110,17 @@ Fluoxetine oral solution is used to treat:
 *Not approved for use in children
 
 Talk to your healthcare provider if you do not think that your condition is getting better with fluoxetine oral solution treatment.
+
 Who should not take fluoxetine oral solution?
+
 Do not take fluoxetine oral solution if you:
 
 - are allergic to fluoxetine hydrochloride or any of the ingredients in fluoxetine oral solution.
   See the end of this Medication Guide for a complete list of ingredients in fluoxetine oral solution.
 - take a Monoamine Oxidase Inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI.
-  - Do not take an MAOI within 5 weeks of stopping fluoxetine oral solution.
-  - Do not start fluoxetine oral solution if you stopped taking an MAOI in the last 2 weeks.
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+  - Do not take an MAOI within 5 weeks of stopping fluoxetine oral solution unless directed to do so by your physician.
+  - Do not start fluoxetine oral solution if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take fluoxetine oral solution close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -126,10 +142,10 @@ Before starting fluoxetine oral solution, tell your healthcare provider if you:
 
 - Are taking certain drugs or treatments such as:
   - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, MAOI's (including linezolid, an antibiotic), or antipsychotics
-  - Tramadol
+  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs, or antipsychotics
+  - Tramadol and fentanyl
   - Over-the-counter supplements such as tryptophan or St. John's Wort
-  - Electroconvulsive therapy (ECT)
+- Electroconvulsive therapy (ECT)
 - have liver problems
 - have kidney problems
 - have heart problems
@@ -169,6 +185,7 @@ What should I avoid while taking fluoxetine oral solution?
 Fluoxetine oral solution can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
 You should not drive, operate heavy machinery, or do other dangerous activities until you know how fluoxetine oral solution affects you.
 Do not drink alcohol while using fluoxetine oral solution.
+
 What are the possible side effects of fluoxetine oral solution?
 Fluoxetine oral solution may cause serious side effects, including:
 
@@ -226,10 +243,11 @@ This Medication Guide summarizes the most important information about fluoxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about fluoxetine oral solution that is written for healthcare professionals.
 For more information about fluoxetine oral solution call 1-866-850-2876.
+
 What are the ingredients in fluoxetine oral solution?
-Active ingredient: fluoxetine hydrochloride Inactive ingredients in oral solution: alcohol 0.23%, sucrose, glycerin, benzoic acid, natural peppermint flavor, and purified water Symbyax ® and Sarafem ® are registered trademarks of Eli Lilly and Company.
-Mellaril ® is a registered trademark of Novartis AG Corporation.
-Orap ® is a registered trademark of Teva Pharmaceuticals USA.
-Coumadin ® is a registered trademark of Bristol Myers Squibb.
-Jantoven ® is a registered trademark of Upsher-Smith Laboratories Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad—500 072, India Revised: 08/2012
+Active ingredient: fluoxetine hydrochloride Inactive ingredients in oral solution: alcohol 0.23%, sucrose, glycerin, benzoic acid, natural peppermint flavor, and purified water Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
+Mellaril® is a registered trademark of Novartis AG Corporation.
+Orap® is a registered trademark of Teva Pharmaceuticals USA.
+Coumadin® is a registered trademark of Bristol Myers Squibb.
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad—500 072, India Revised: 09/2013

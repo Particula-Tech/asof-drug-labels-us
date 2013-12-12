@@ -1,10 +1,18 @@
 # 4 CONTRAINDICATIONS
 
+## 4.1 Monoamine Oxidase Inhibitors (MAOIs)
+
+The use of MAOIs intended to treat psychiatric disorders with fluoxetine oral solution or within 5 weeks of stopping treatment with fluoxetine oral solution is contraindicated because of an increased risk of serotonin syndrome.
+The use of fluoxetine oral solution within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated [see Dosage and Administration (2.9) and Warnings and Precautions (5.2)].
+Starting fluoxetine oral solution in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome [see Dosage and Administration (2.10) and Warnings and Precautions (5.2)].
+
+## 4.2 Other Contraindications
+
 The use of fluoxetine oral solution is contraindicated with the following:
 
-- Monoamine Oxidase Inhibitors: Do not use with an MAOI or within 14 days of discontinuing an MAOI due to risk of drug interaction.
-  At least 5 weeks should be allowed after stopping fluoxetine oral solution before treatment with an MAOI [see Drug Interactions (7.1)].
-- Pimozide: Do not use with pimozide due to risk of QTc prolongation [see Drug Interactions (7.8)].
-- Thioridazine: Do not use with thioridazine due to QTc interval prolongation.
-  Do not use thioridazine within 5 weeks of discontinuing fluoxetine oral solution [see Drug Interactions (7.8)].
-- Known hypersensitivity to fluoxetine oral solution: Do not use this product in patients with known hypersensitivity to fluoxetine oral solution due to risk of anaphylactoid reactions, including bronchospasm, angioedema, laryngospasm, and urticaria [see Warnings and Precautions (5.3)].
+- Pimozide [see Warnings and Precautions (5.10) and Drug Interactions (7.7, 7.8)]
+- Thioridazine [see Warnings and Precautions (5.10) and Drug Interactions (7.7, 7.8)]
+
+Pimozide and thioridazine prolong the QT interval.
+Fluoxetine oral solution can increase the levels of pimozide and thioridazine through inhibition of CYP2D6.
+Fluoxetine oral solution can also prolong the QT interval.

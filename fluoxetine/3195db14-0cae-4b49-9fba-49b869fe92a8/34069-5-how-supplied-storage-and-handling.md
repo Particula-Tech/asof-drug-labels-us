@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Fluoxetine Oral Solution USP, 20 mg * /5 mL is a clear, colorless peppermint flavored liquid in round amber colored glass bottle with child-resistant closure.
+Fluoxetine Oral Solution USP, 20 mg*/5 mL is a clear, colorless peppermint flavored liquid in round amber colored glass bottle with child-resistant closure.
 Bottle of 120 mL NDC 65862-306-12 *Fluoxetine base equivalent.
 
 ## 16.2 Storage and Handling
