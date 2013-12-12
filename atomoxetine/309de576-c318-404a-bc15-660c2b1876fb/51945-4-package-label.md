@@ -182,7 +182,7 @@ strattera®
 
 atomoxetine HCl
 
-This sample pack is recommended for children and adolescents whose weight is 63 - 74 lbs (28.6 - 33.3 kg).
+This sample pack is recommended for children and adolescents whose weight is 63 - 74 lbs (28.6 - 33.6 kg).
 
 See full Prescribing Information to determine appropriate therapeutic dose.
 
@@ -218,7 +218,7 @@ strattera®
 
 atomoxetine HCl
 
-This sample pack is recommended for children and adolescents whose weight is 94 - 110 lbs (42.9 - 50.0 kg).
+This sample pack is recommended for children and adolescents whose weight is 95 - 110 lbs (43.1 - 50.0 kg).
 
 See full Prescribing Information to determine appropriate therapeutic dose.
 
@@ -254,7 +254,7 @@ strattera®
 
 atomoxetine HCl
 
-This sample pack is recommended for children and adolescents whose weight is 126 - 147 lbs (57.2 - 66.7 kg) and adults.
+This sample pack is recommended for children and adolescents whose weight is 126 - 147 lbs (57.2 - 66.8 kg) and adults.
 
 See full Prescribing Information to determine appropriate therapeutic dose.
 

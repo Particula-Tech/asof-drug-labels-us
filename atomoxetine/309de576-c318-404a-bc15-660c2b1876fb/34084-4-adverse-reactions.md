@@ -161,7 +161,7 @@ General disorders and administration site conditions — Lethargy.
 
 Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolescents; sensory disturbances; tics.
 
-Psychiatric disorders — Depression and depressed mood; anxiety.
+Psychiatric disorders — Depression and depressed mood; anxiety, libido changes.
 
 Seizures — Seizures have been reported in the postmarketing period.
 The postmarketing seizure cases include patients with pre-existing seizure disorders and those with identified risk factors for seizures, as well as patients with neither a history of nor identified risk factors for seizures.
