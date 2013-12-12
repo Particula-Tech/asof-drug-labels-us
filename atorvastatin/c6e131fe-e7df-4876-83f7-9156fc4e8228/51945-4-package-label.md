@@ -12,6 +12,18 @@ tablets
 
 90 Tablets Rx only
 
+PRINCIPAL DISPLAY PANEL - 10 mg Tablet Blister Pack
+
+Lipitor®
+
+(Atorvastatin Calcium) Tablet
+
+10 mg
+
+DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
+
+EXP & LOT AREA
+
 PRINCIPAL DISPLAY PANEL - 10 mg Blister Pack Carton
 
 Pfizer
@@ -39,6 +51,18 @@ Lipitor® (atorvastatin calcium)
 tablets
 
 90 Tablets Rx only
+
+PRINCIPAL DISPLAY PANEL - 20 mg Tablet Blister Pack
+
+Lipitor®
+
+(Atorvastatin Calcium) Tablet
+
+20 mg
+
+DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
+
+EXP & LOT AREA
 
 PRINCIPAL DISPLAY PANEL - 20 mg Blister Pack Carton
 
@@ -68,6 +92,18 @@ tablets
 
 90 Tablets Rx only
 
+PRINCIPAL DISPLAY PANEL - 40 mg Tablet Blister Pack
+
+Lipitor®
+
+(Atorvastatin Calcium) Tablet
+
+40 mg
+
+DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
+
+EXP & LOT AREA
+
 PRINCIPAL DISPLAY PANEL - 40 mg Blister Pack Carton
 
 Pfizer
@@ -95,6 +131,18 @@ Lipitor® (atorvastatin calcium)
 tablets
 
 90 Tablets Rx only
+
+PRINCIPAL DISPLAY PANEL - 80 mg Tablet Blister Pack
+
+Lipitor®
+
+(Atorvastatin Calcium) Tablet
+
+80 mg
+
+DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
+
+EXP & LOT AREA
 
 PRINCIPAL DISPLAY PANEL - 80 mg Blister Pack Carton
 
