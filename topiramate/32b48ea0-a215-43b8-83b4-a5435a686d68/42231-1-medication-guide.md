@@ -1,22 +1,35 @@
 # MEDICATION GUIDE
 
-Topiramate Tablets Read this Medication Guide before you start taking topiramate tablets and each time you get a refill.
+Topiramate Tablets USP Read this Medication Guide before you start taking topiramate tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 If you have any questions about topiramate tablets, talk to your healthcare provider or pharmacist.
 What is the most important information I should know about topiramate tablets?
+Topiramate tablets may cause eye problems.
+Serious eye problems include:
 
-- Topiramate tablets may cause eye problems.
-  Serious eye problems include:
 - any sudden decrease in vision with or without eye pain and redness,
 - a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma).
 - These eye problems can lead to permanent loss of vision if not treated.
   You should call your healthcare provider right away if you have any new eye symptoms.
-- Topiramate tablets may cause decreased sweating and increased body temperature (fever).
-  People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
-  Some people may need to be hospitalized for this condition.
-- Like other antiepileptic drugs, topiramate tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
+Topiramate tablets may cause decreased sweating and increased body temperature (fever).
+People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
+Some people may need to be hospitalized for this condition.
+Call your healthcare provider right away if you have a high fever, a fever that does not go away, or decreased sweating.
+Topiramate tablets can increase the level of acid in your blood (metabolic acidosis).
+If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones, can slow the rate of growth in children, and may possibly harm your baby if you are pregnant.
+Metabolic acidosis can happen with or without symptoms.
+Sometimes people with metabolic acidosis will:
+
+- feel tired
+- not feel hungry (loss of appetite)
+- feel changes in heartbeat
+- have trouble thinking clearly
+
+Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with topiramate tablets.
+If you are pregnant, you should talk to your healthcare provider about whether you have metabolic acidosis.
+Like other antiepileptic drugs, topiramate tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
@@ -55,6 +68,8 @@ Topiramate tablets can harm your unborn baby.
   You should talk to your doctor about the best kind of birth control to use while you are taking topiramate tablets.
 - Tell your healthcare provider right away if you become pregnant while taking topiramate tablets.
   You and your healthcare provider should decide if you will continue to take topiramate tablets while you are pregnant.
+- Metabolic acidosis may have harmful effects on your baby.
+  Talk to your healthcare provider if topiramate tablets have caused metabolic acidosis during your pregnancy.
 - Pregnancy Registry: If you become pregnant while taking topiramate tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
@@ -68,18 +83,18 @@ Topiramate tablets are a prescription medicine used:
 What should I tell my healthcare provider before taking topiramate tablets?
 Before taking topiramate tablets, tell your healthcare provider about all your medical conditions, including if you:
 
-- have or have had depression, mood problems or suicidal thoughts or behavior
+- have or have had depression, mood problems, or suicidal thoughts or behavior
 - have kidney problems, have kidney stones, or are getting kidney dialysis
 - have a history of metabolic acidosis (too much acid in the blood)
 - have liver problems
-- have osteoporosis, soft bones, or decreased bone density
+- have weak, brittle, or soft bones (osteomalacia, osteoporosis, osteopenia, or decreased bone density)
 - have lung or breathing problems
 - have eye problems, especially glaucoma
 - have diarrhea
 - have a growth problem
 - are on a diet high in fat and low in carbohydrates, which is called a ketogenic diet
 - are having surgery
-- are pregnant or plan to become pregnant.
+- are pregnant or plan to become pregnant
 - are breastfeeding.
   Topiramate passes into breast milk.
   It is not known if the topiramate that passes into breast milk can harm your baby.
@@ -87,10 +102,10 @@ Before taking topiramate tablets, tell your healthcare provider about all your m
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Topiramate tablets and other medicines may affect each other causing side effects.
-Especially, tell your healthcare provider if you take:
+Especially tell your healthcare provider if you take:
 
-- Valproic acid (DEPAKENE®, DEPAKOTE®)
-- any medicines that impair or decrease your thinking, concentration, or muscle coordination.
+- Valproic acid (such as DEPAKENE® or DEPAKOTE®)
+- any medicines that impair or decrease your thinking, concentration, or muscle coordination
 - birth control pills.
   Topiramate tablets may make your birth control pills less effective.
   Tell your healthcare provider if your menstrual bleeding changes while you are taking birth control pills and topiramate tablets.
@@ -114,7 +129,7 @@ How should I take topiramate tablets?
 - If you miss a single dose of topiramate tablets, take it as soon as you can.
   However, if you are within 6 hours of taking your next scheduled dose, wait until then to take your usual dose of topiramate tablets, and skip the missed dose.
   Do not double your dose.
-  If you have missed more than one dose, you should call your healthcare professional for advice.
+  If you have missed more than one dose, you should call your healthcare provider for advice.
 - Do not stop taking topiramate tablets without talking to your healthcare provider.
   Stopping topiramate tablets suddenly may cause serious problems.
   If you have epilepsy and you stop taking topiramate tablets suddenly, you may have seizures that do not stop.
@@ -131,7 +146,7 @@ What should I avoid while taking topiramate tablets?
 What are the possible side effects of topiramate tablets?
 Topiramate tablets may cause serious side effects including: See “What is the most important information I should know about topiramate tablets?”
 
-- Metabolic Acidosis.
+- Metabolic acidosis.
   Metabolic acidosis can cause:
   - tiredness
   - loss of appetite
@@ -140,12 +155,14 @@ Topiramate tablets may cause serious side effects including: See “What is the 
 - High blood ammonia levels.
   High ammonia in the blood can affect your mental activities, slow your alertness, make you feel tired, or cause vomiting.
   This has happened when topiramate tablets are taken with a medicine called valproic acid (DEPAKENE® and DEPAKOTE®).
+- Low body temperature.
+  Taking topiramate tablets when you are also taking valproic acid can cause a drop in body temperature to less than 95oF, feeling tired, confusion, or coma.
 - Kidney stones.
   Drink plenty of fluids when taking topiramate tablets to decrease your chances of getting kidney stones.
-- Effects on Thinking and Alertness.
-  Topiramate tablets may affect how you think, and cause confusion, problems with concentration, attention, memory, or speech.
+- Effects on thinking and alertness.
+  Topiramate tablets may affect how you think and cause confusion, problems with concentration, attention, memory, or speech.
   Topiramate tablets may cause depression or mood problems, tiredness, and sleepiness.
-- Dizziness or Loss of Muscle Coordination.
+- Dizziness or loss of muscle coordination.
 
 Call your healthcare provider right away if you have any of the symptoms above.
 The most common side effects of topiramate tablets include:
@@ -180,9 +197,9 @@ They may harm them.
 This Medication Guide summarizes the most important information about topiramate tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about topiramate tablets that is written for health professionals.
-For more information, call 1-866-850-2876.
+For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in topiramate tablets?
 Active ingredient: topiramate Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, sodium starch glycolate, and titanium dioxide.
 In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg tablet contains iron oxide red.
-DEPAKENE ® and DEPAKOTE ® are registered trademarks of Abbott Laboratories This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2011
+DEPAKENE® and DEPAKOTE® are registered trademarks of Abbott Laboratories This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 11/2012
