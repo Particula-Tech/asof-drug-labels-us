@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Studies Experience
 
-Mild to Moderate Alzheimer’s Disease Adverse Events Leading to Discontinuation The rates of discontinuation from controlled clinical trials of donepezil hydrochloride due to adverse events for the donepezil hydrochloride 5 mg/day treatment groups were comparable to those of placebo treatment groups at approximately 5%.
+Donepezil Hydrochloride 5 mg/day and 10 mg/day Mild to Moderate Alzheimer’s Disease Adverse Events Leading to Discontinuation The rates of discontinuation from controlled clinical trials of donepezil hydrochloride due to adverse events for the donepezil hydrochloride 5 mg/day treatment groups were comparable to those of placebo treatment groups at approximately 5%.
 The rate of discontinuation of patients who received 7-day escalations from 5 mg/day to 10 mg/day was higher at 13%.
 The most common adverse events leading to discontinuation, defined as those occurring in at least 2% of patients and at twice or more the incidence seen in placebo patients, are shown in Table 1.
 
@@ -164,14 +164,85 @@ Body as a Whole: Frequent: abdominal pain, asthenia, fungal infection, flu syndr
 Cardiovascular System: Frequent: hypotension, bradycardia, ECG abnormal, heart failure; Infrequent: myocardial infarction, angina pectoris, atrial fibrillation, congestive heart failure, peripheral vascular disorder, supraventricular extrasystoles, ventricular extrasystoles, cardiomegaly.
 Digestive System: Frequent: constipation, gastroenteritis, fecal incontinence, dyspepsia; Infrequent: gamma glutamyl transpeptidase increase, gastritis, dysphagia, periodontitis, stomach ulcer, periodontal abscess, flatulence, liver function tests abnormal, eructation, esophagitis, rectal hemorrhage.
 Endocrine System: Infrequent: diabetes mellitus.
-Hemic and Lymphatic System: Frequent: anemia; Infrequent : leukocytosis.
-Metabolic and Nutritional Disorders: Frequent: weight loss, peripheral edema, edema, lactic dehydrogenase increased, alkaline phosphatase increased; Infrequent: hypercholesteremia, hypokalemia, hypoglycemia, weight gain, bilirubinemia, BUN increased, B 12 deficiency anemia, cachexia, creatinine increased, gout, hyponatremia, hypoproteinemia, iron deficiency anemia, SGOT increased, SGPT increased.
+Hemic and Lymphatic System: Frequent: anemia; Infrequent: leukocytosis.
+Metabolic and Nutritional Disorders: Frequent: weight loss, peripheral edema, edema, lactic dehydrogenase increased, alkaline phosphatase increased; Infrequent: hypercholesteremia, hypokalemia, hypoglycemia, weight gain, bilirubinemia, BUN increased, B12 deficiency anemia, cachexia, creatinine increased, gout, hyponatremia, hypoproteinemia, iron deficiency anemia, SGOT increased, SGPT increased.
 Musculoskeletal System: Frequent: arthritis; Infrequent: arthrosis, bone fracture, arthralgia, leg cramps, osteoporosis, myalgia.
 Nervous System: Frequent: agitation, anxiety, tremor, convulsion, wandering, abnormal gait; Infrequent: apathy, vertigo, delusions, abnormal dreams, cerebrovascular accident, increased salivation, ataxia, euphoria, vasodilatation, cerebral hemorrhage, cerebral infarction, cerebral ischemia, dementia, extrapyramidal syndrome, grand mal convulsion, hemiplegia, hypertonia, hypokinesia.
 Respiratory System: Frequent: pharyngitis, pneumonia, cough increased, bronchitis; Infrequent: dyspnea, rhinitis, asthma.
 Skin and Appendages: Frequent: rash, skin ulcer, pruritus; Infrequent: psoriasis, skin discoloration, herpes zoster, dry skin, sweating, urticaria, vesiculobullous rash.
 Special Senses: Infrequent: conjunctivitis, glaucoma, abnormal vision, ear pain, lacrimation disorder.
 Urogenital System: Frequent: urinary tract infection, cystitis, hematuria, glycosuria; Infrequent: vaginitis, dysuria, urinary frequency, albuminuria.
+
+Donepezil Hydrochloride 23 mg/day
+
+Moderate to Severe Alzheimer’s Disease
+
+Donepezil hydrochloride 23 mg/day has been administered to over 1300 individuals globally in clinical trials.
+Approximately 1050 of these patients have been treated for at least three months and more than 950 patients have been treated for at least six months.
+The range of patient exposure was from 1 to over 500 days.
+
+Adverse Events Leading to Discontinuation
+
+The rate of discontinuation from a controlled clinical trial of donepezil hydrochloride 23 mg/day due to adverse events was higher (18.6%) than for the 10 mg/day treatment group (7.9%).
+The most common adverse events leading to discontinuation, defined as those occurring in at least 1% of patients and greater than those occurring with 10 mg/day are shown in Table 5.
+
+Table 5.
+Most Frequent Adverse Events Leading to Discontinuation from a Controlled Clinical Trial by Treatment Group
+
+| Dose Group | 23 mg/day Donepezil Hydrochloride | 10 mg/day Donepezil Hydrochloride |
+| --- | --- | --- |
+| Safety Population | 963 | 471 |
+| Event/ %Discontinuing |  |  |
+| Vomiting | 3 | 0 |
+| Diarrhea | 2 | 0 |
+| Nausea | 2 | 0 |
+| Dizziness | 1 | 0 |
+
+The majority of discontinuations due to adverse events in the 23 mg group occurred during the first month of treatment.
+
+Most Frequent Adverse Events Seen in Association with the Use of 23 mg
+
+The most common adverse events, defined as those occurring at a frequency of at least 5%, include nausea, diarrhea, vomiting, and anorexia.
+These adverse events were often of mild to moderate intensity.
+
+Adverse Events Reported in Controlled Trials
+
+The events cited reflect experience gained under closely monitored conditions of a controlled clinical trial in a highly selected patient population.
+In actual clinical practice or in other clinical trials, these frequency estimates may not apply, as the conditions of use, reporting behavior, and the kinds of patients treated may differ.
+Table 6 lists adverse events that were reported in at least 2% of patients who received 23 mg/day of donepezil hydrochloride and at a higher frequency than those receiving 10 mg/day of donepezil hydrochloride in a controlled clinical trial that compared the two doses.
+In this study, there were no important differences in the type of adverse events in patients taking donepezil hydrochloride with or without memantine.
+
+Table 6.
+Adverse Events Reported in a Controlled Clinical Trial in Moderate to Severe Alzheimer’s Disease in at Least 2% of Patients and Higher in the 23 mg/day Group
+
+Table 6.
+Adverse Events Reported in a Controlled Clinical Trial in Moderate to Severe Alzheimer’s Disease in at Least 2% of Patients and Higher in the 23 mg/day Group
+
+| Body System/Adverse Event | 23 mg/day Donepezil Hydrochloride | 10 mg/day Donepezil Hydrochloride |
+| --- | --- | --- |
+| Safety Population | 963 | 471 |
+| Percent of Patients with any Adverse Event | 74 | 64 |
+| Gastrointestinal disorders |  |  |
+| Nausea | 12 | 3 |
+| Vomiting | 9 | 3 |
+| Diarrhea | 8 | 5 |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 2 | 1 |
+| Asthenia | 2 | 1 |
+| Injury, poisoning and procedural complications |  |  |
+| Contusion | 2 | 0 |
+| Investigations |  |  |
+| Weight decreased | 5 | 3 |
+| Metabolism and nutrition disorders |  |  |
+| Anorexia | 5 | 2 |
+| Nervous system |  |  |
+| Dizziness | 5 | 3 |
+| Headache | 4 | 3 |
+| Somnolence | 2 | 1 |
+| Psychiatric disorders |  |  |
+| Insomnia | 3 | 2 |
+| Renal and urinary disorders |  |  |
+| Urinary incontinence | 3 | 1 |
 
 ## 6.2 Postmarketing Experience
 

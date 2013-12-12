@@ -5,7 +5,7 @@ There may be new information.
 This leaflet does not take the place of talking with the doctor about Alzheimer’s disease or treatment for it.
 If you have questions, ask the doctor or pharmacist.
 What are donepezil hydrochloride tablets?
-Donepezil hydrochloride comes as donepezil hydrochloride film-coated tablets in dosage strengths of 5 mg and 10 mg.
+Donepezil hydrochloride comes as donepezil hydrochloride film-coated tablets in dosage strengths of 5 mg, 10 mg and 23 mg.
 Donepezil hydrochloride tablets are a prescription medicine to treat mild, moderate, and severe Alzheimer’s disease.
 Donepezil hydrochloride tablets can help with mental function and with doing daily tasks.
 Donepezil hydrochloride tablets do not work the same in all people.
@@ -63,11 +63,12 @@ How should the patient take donepezil hydrochloride tablets?
   Talk with the doctor first.
 - Give donepezil hydrochloride tablets one time each day.
   Donepezil hydrochloride tablets can be taken with or without food.
+- Donepezil hydrochloride tablets 23 mg should be swallowed whole without the tablets being split, crushed or chewed.
 - If you miss giving the patient a dose of donepezil hydrochloride tablets, just wait.
   Give only the next dose at the usual time.
   Do not give 2 doses at the same time.
 - If donepezil hydrochloride tablets are missed for 7 days or more, talk with the doctor before starting again.
-- If the patient takes too much donepezil hydrochloride tablets at one time, call the doctor or poison control center, or go to the emergency room right away.
+- If the patient takes too much donepezil hydrochloride at one time, call the doctor or poison control center, or go to the emergency room right away.
 
 What are the possible side effects of donepezil hydrochloride tablets?
 Donepezil hydrochloride tablets may cause the following serious side effects:
@@ -76,7 +77,7 @@ Donepezil hydrochloride tablets may cause the following serious side effects:
   This happens more often in people with heart problems.
   Call the doctor right away if the patient faints while taking donepezil hydrochloride tablets.
 - more stomach acid.
-  This raises the chance of ulcers and bleeding.
+  This raises the chance of ulcers and bleeding, especially when taking donepezil hydrochloride tablets 23 mg.
   The risk is higher for patients who had ulcers, or take aspirin or other NSAIDs.
 - worsening of lung problems in people with asthma or other lung disease.
 - seizures.
@@ -116,8 +117,8 @@ Do not give donepezil hydrochloride tablets to people other than the patient, ev
 This leaflet summarizes the most important information about donepezil hydrochloride tablets.
 If you would like more information talk with the patient’s doctor.
 You can ask your pharmacist or doctor for information about donepezil hydrochloride tablets that is written for health professionals.
-For more information call 1-866-850-2876.
+For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in donepezil hydrochloride tablets?
-Active ingredient: donepezil hydrochloride Inactive ingredients: hypromellose, lactose monohydrate, low substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch, talc, and titanium dioxide.
-In addition, the 10 mg tablets also contains yellow iron oxide.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 01/2012
+Active ingredient: donepezil hydrochloride Inactive ingredients: hypromellose, lactose monohydrate, low substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch (maize), talc, and titanium dioxide.
+In addition, the 10 mg tablets also contain yellow iron oxide.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 09/2013
