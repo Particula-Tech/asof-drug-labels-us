@@ -27,7 +27,7 @@ Elderly Patients or Patients with Renal Impairment Atenolol is excreted by the k
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.
 Atenolol excretion would be expected to decrease with advancing age.
-No significant accumulation of atenolol occurs until creatinine clearance falls below 35 mL/min/1.73 m 2 .
+No significant accumulation of atenolol occurs until creatinine clearance falls below 35 mL/min/1.73 m2.
 Accumulation of atenolol and prolongation of its half-life were studied in subjects with creatinine clearance between 5 and 105 mL/min.
 Peak plasma levels were significantly increased in subjects with creatinine clearances below 30 mL/min.
 The following maximum oral dosages are recommended for elderly, renally-impaired patients and for patients with renal impairment due to other causes:

@@ -13,6 +13,6 @@ CARDIAC FAILURE: Digitalize the patient and administer a diuretic.
 Glucagon has been reported to be useful.
 HYPOTENSION: Vasopressors such as dopamine or norepinephrine (levarterenol).
 Monitor blood pressure continuously.
-BRONCHOSPASM: A beta 2 stimulant such as isoproterenol or terbutaline and/or aminophylline.
+BRONCHOSPASM: A beta2 stimulant such as isoproterenol or terbutaline and/or aminophylline.
 HYPOGLYCEMIA: Intravenous glucose.
 Based on the severity of symptoms, management may require intensive support care and facilities for applying cardiac and respiratory support.

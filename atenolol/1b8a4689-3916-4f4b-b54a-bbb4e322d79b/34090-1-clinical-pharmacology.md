@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
-Atenolol is a beta 1 -selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities.
-This preferential effect is not absolute, however, and at higher doses, atenolol inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature.
+Atenolol is a beta1-selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities.
+This preferential effect is not absolute, however, and at higher doses, atenolol inhibits beta2-adrenoreceptors, chiefly located in the bronchial and vascular musculature.
 Pharmacokinetics and Metabolism In man, absorption of an oral dose is rapid and consistent but incomplete.
 Approximately 50% of an oral dose is absorbed from the gastrointestinal tract, the remainder being excreted unchanged in the feces.
 Peak blood levels are reached between two (2) and four (4) hours after ingestion.
@@ -13,8 +13,8 @@ The elimination half-life of oral atenolol is approximately 6 to 7 hours, and th
 Following intravenous administration, peak plasma levels are reached within 5 minutes.
 Declines from peak levels are rapid (5- to 10-fold) during the first 7 hours; thereafter, plasma levels decay with a half-life similar to that of orally administered drug.
 Following oral doses of 50 mg or 100 mg, both beta-blocking and antihypertensive effects persist for at least 24 hours.
-When renal function is impaired, elimination of atenolol is closely related to the glomerular filtration rate; significant accumulation occurs when the creatinine clearance falls below 35 mL/min/1.73 m 2 .
-(See DOSAGE AND ADMINISTRATION .)
+When renal function is impaired, elimination of atenolol is closely related to the glomerular filtration rate; significant accumulation occurs when the creatinine clearance falls below 35 mL/min/1.73 m2.
+(See DOSAGE AND ADMINISTRATION.)
 Pharmacodynamics In standard animal or human pharmacological tests, beta-adrenoreceptor blocking activity of atenolol has been demonstrated by: (1) reduction in resting and exercise heart rate and cardiac output, (2) reduction of systolic and diastolic blood pressure at rest and on exercise, (3) inhibition of isoproterenol induced tachycardia, and (4) reduction in reflex orthostatic tachycardia.
 A significant beta-blocking effect of atenolol, as measured by reduction of exercise tachycardia, is apparent within one hour following oral administration of a single dose.
 This effect is maximal at about 2 to 4 hours, and persists for at least 24 hours.
@@ -22,9 +22,9 @@ Maximum reduction in exercise tachycardia occurs within 5 minutes of an intraven
 For both orally and intravenously administered drug, the duration of action is dose related and also bears a linear relationship to the logarithm of plasma atenolol concentration.
 The effect on exercise tachycardia of a single 10 mg intravenous dose is largely dissipated by 12 hours, whereas beta-blocking activity of single oral doses of 50 mg and 100 mg is still evident beyond 24 hours following administration.
 However, as has been shown for all beta-blocking agents, the antihypertensive effect does not appear to be related to plasma level.
-In normal subjects, the beta 1 selectivity of atenolol has been shown by its reduced ability to reverse the beta 2 -mediated vasodilating effect of isoproterenol as compared to equivalent beta-blocking doses of propranolol.
+In normal subjects, the beta1 selectivity of atenolol has been shown by its reduced ability to reverse the beta2-mediated vasodilating effect of isoproterenol as compared to equivalent beta-blocking doses of propranolol.
 In asthmatic patients, a dose of atenolol producing a greater effect on resting heart rate than propranolol resulted in much less increase in airway resistance.
-In a placebo controlled comparison of approximately equipotent oral doses of several beta-blockers, atenolol produced a significantly smaller decrease of FEV 1 than nonselective beta-blockers such as propranolol and, unlike those agents, did not inhibit bronchodilation in response to isoproterenol.
+In a placebo controlled comparison of approximately equipotent oral doses of several beta-blockers, atenolol produced a significantly smaller decrease of FEV1 than nonselective beta-blockers such as propranolol and, unlike those agents, did not inhibit bronchodilation in response to isoproterenol.
 Consistent with its negative chronotropic effect due to beta-blockade of the SA node, atenolol increases sinus cycle length and sinus node recovery time.
 Conduction in the AV node is also prolonged.
 Atenolol is devoid of membrane stabilizing activity, and increasing the dose well beyond that producing beta-blockade does not further depress myocardial contractility.
