@@ -6,10 +6,8 @@ The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully u
 
 ## 12.2 Pharmacodynamics
 
-Effects on Electrocardiogram
-
-The effect of ONFI 20 mg and 80 mg administered twice daily on QTc interval was evaluated in a randomized, evaluator blinded, placebo-, and active-controlled (moxifloxacin 400 mg) parallel thorough QT study in 280 healthy subjects.
-In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo adjusted, baseline-corrected QTc based on Fridericia correction method was below 10 ms, the threshold for regulatory concern.
+Effects on Electrocardiogram The effect of ONFI 20 mg and 80 mg administered twice daily on QTc interval was evaluated in a randomized, evaluator blinded, placebo-, and active-controlled (moxifloxacin 400 mg) parallel thorough QT study in 280 healthy subjects.
+In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo adjusted, baseline-corrected QTc based on the Fridericia correction method was below 10 ms, the threshold for regulatory concern.
 Thus, at a dose two times the maximum recommended dose, ONFI did not prolong the QTc interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
@@ -19,9 +17,7 @@ Based on a population pharmacokinetic analysis, the pharmacokinetics of clobazam
 Clobazam is converted to N-desmethylclobazam which has about 1/5 the activity of clobazam.
 The estimated mean elimination half-lives (t1/2) of clobazam and N-desmethylclobazam were 36-42 hours and 71-82 hours, respectively.
 
-Absorption
-
-Clobazam is rapidly and extensively absorbed following oral administration.
+Absorption Clobazam is rapidly and extensively absorbed following oral administration.
 The time to peak concentrations (Tmax) of clobazam tablets under fasted conditions ranged from 0.5 to 4 hours after single- or multiple-dose administrations.
 The relative bioavailability of clobazam tablets compared to an oral solution is approximately 100%.
 After single dose administration of the oral suspension under fasted conditions, the Tmax ranged from 0.5 to 2 hours.
@@ -29,14 +25,10 @@ Based on exposure (Cmax and AUC) of clobazam, ONFI tablets and suspension were s
 The administration of ONFI tablets with food or when crushed in applesauce does not affect absorption.
 Although not studied, the oral bioavailability of the oral suspension is unlikely to be affected under fed conditions.
 
-Distribution
-
-Clobazam is lipophilic and distributes rapidly throughout the body.
+Distribution Clobazam is lipophilic and distributes rapidly throughout the body.
 The apparent volume of distribution at steady state was approximately 100 L. The in vitro plasma protein binding of clobazam and N-desmethylclobazam is approximately 80-90% and 70%, respectively.
 
-Metabolism and Excretion
-
-Clobazam is extensively metabolized in the liver, with approximately 2% of the dose recovered in urine and 1% in feces as unchanged drug.
+Metabolism and Excretion Clobazam is extensively metabolized in the liver, with approximately 2% of the dose recovered in urine and 1% in feces as unchanged drug.
 The major metabolic pathway of clobazam involves N-demethylation, primarily by CYP3A4 and to a lesser extent by CYP2C19 and CYP2B6.
 N-desmethylclobazam, an active metabolite, is the major circulating metabolite in humans, and at therapeutic doses, plasma concentrations are 3-5 times higher than those of the parent compound.
 Based on animal and in vitro receptor binding data, estimates of the relative potency of N-desmethylclobazam compared to parent compound range from 1/5 to equal potency.
@@ -47,30 +39,18 @@ Following a single oral dose of radiolabeled drug, approximately 11% of the dose
 The polymorphic CYP2C19 is the major contributor to the metabolism of the pharmacologically active N-desmethylclobazam [see Clinical Pharmacology (12.5)].
 In CYP2C19 poor metabolizers, levels of N-desmethylclobazam were 5-fold higher in plasma and 2- to 3-fold higher in the urine than in CYP2C19 extensive metabolizers.
 
-Pharmacokinetics in Specific Populations
-
-Age
-
-Population pharmacokinetic analyses showed that the clearance of clobazam is lower in elderly subjects compared to other age groups (ages 2 to 64).
+Pharmacokinetics in Specific Populations Age Population pharmacokinetic analyses showed that the clearance of clobazam is lower in elderly subjects compared to other age groups (ages 2 to 64).
 Dosing should be adjusted in the elderly [see Dosage and Administration (2.4)].
 
-Sex
+Sex Population pharmacokinetic analyses showed no difference in the clearance of clobazam between women and men.
 
-Population pharmacokinetic analyses showed no difference in the clearance of clobazam between women and men.
+Race Population pharmacokinetic analyses including Caucasian (75%), African American (15%), and Asian (9%) subjects showed that there is no evidence of clinically significant effect of race on the clearance of clobazam.
 
-Race
-
-Population pharmacokinetic analyses including Caucasian (75%), African American (15%), and Asian (9%) subjects showed that there is no evidence of clinically significant effect of race on the clearance of clobazam.
-
-Renal Impairment
-
-The effect of renal impairment on the pharmacokinetics of clobazam was evaluated in patients with mild (creatinine clearance [CLCR] >50 to 80 mL/min; N=6) and moderate (CLCR=30 to 50 mL/min; N=6) renal dysfunction, with matching healthy controls (N=6), following administration of multiple doses of ONFI 20 mg/day.
+Renal Impairment The effect of renal impairment on the pharmacokinetics of clobazam was evaluated in patients with mild (creatinine clearance [CLCR] >50 to 80 mL/min; N=6) and moderate (CLCR=30 to 50 mL/min; N=6) renal dysfunction, with matching healthy controls (N=6), following administration of multiple doses of ONFI 20 mg/day.
 There were insignificant changes in Cmax (3-24%) and AUC (≤13%) for clobazam or N-desmethylclobazam in patients with mild or moderate renal impairment compared to patients with normal renal function.
 Patients with severe renal impairment or ESRD were not included in this study.
 
-Hepatic Impairment
-
-There are limited data to characterize the effect of hepatic impairment on the pharmacokinetics of clobazam.
+Hepatic Impairment There are limited data to characterize the effect of hepatic impairment on the pharmacokinetics of clobazam.
 In a small study, the pharmacokinetics of a 20 mg single oral dose of ONFI in 9 patients with liver impairment were compared to healthy controls (N=6).
 The Cmax and the mean plasma clearance of clobazam, as well as the Cmax of N-desmethylclobazam, showed no significant change compared to the healthy controls.
 The AUC values of N-desmethylclobazam in these patients were not available.
@@ -78,9 +58,7 @@ Adjust dosage in patients with hepatic impairment [see Dosage and Administration
 
 Drug Interaction Studies
 
-In vitro studies:
-
-Clobazam did not inhibit CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, UGT1A1, UGT1A4, UGT1A6, or UGT2B4 in vitro.
+In vitro studies: Clobazam did not inhibit CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, UGT1A1, UGT1A4, UGT1A6, or UGT2B4 in vitro.
 N-desmethylclobazam showed weak inhibition of CYP2C9, UGT1A4, UGT1A6 and UGT2B4.
 
 Clobazam and N-desmethylclobazam did not significantly increase CYP1A2 or CYP2C19 activities, but did induce CYP3A4 activity in a concentration-dependent manner.
@@ -91,9 +69,7 @@ Clobazam and N-desmethylclobazam do not inhibit P-glycoprotein (P-gp), but are P
 
 In vivo studies:
 
-Potential for ONFI to Affect Other Drugs
-
-The effect of repeated 40 mg once-daily doses of ONFI on the pharmacokinetic profiles of single-dose dextromethorphan (CYP2D6 substrate), midazolam (CYP3A4 substrate), caffeine (CYP1A2 substrate), and tolbutamide (CYP2C9 substrate), was studied when these probe substrates were given as a drug cocktail (N=18).
+Potential for ONFI to Affect Other Drugs The effect of repeated 40 mg once-daily doses of ONFI on the pharmacokinetic profiles of single-dose dextromethorphan (CYP2D6 substrate), midazolam (CYP3A4 substrate), caffeine (CYP1A2 substrate), and tolbutamide (CYP2C9 substrate), was studied when these probe substrates were given as a drug cocktail (N=18).
 
 Clobazam increased AUC and Cmax of dextromethorphan by 90% and 59%, respectively, reflecting its inhibition of CYP2D6 in vivo.
 Drugs metabolized by CYP2D6 may require dose adjustment when used with ONFI.
@@ -105,9 +81,7 @@ Repeated ONFI doses had no effect on caffeine and tolbutamide.
 
 A population pharmacokinetic analysis indicated clobazam did not affect the exposure of valproic acid (a CYP2C9/2C19 substrate) or lamotrigine (a UGT substrate).
 
-Potential for Other Drugs to Affect ONFI
-
-Co-administration of ketoconazole (a strong CYP3A4 inhibitor) 400 mg once-daily for 5 days increased clobazam AUC by 54%, with an insignificant effect on clobazam Cmax.
+Potential for Other Drugs to Affect ONFI Co-administration of ketoconazole (a strong CYP3A4 inhibitor) 400 mg once-daily for 5 days increased clobazam AUC by 54%, with an insignificant effect on clobazam Cmax.
 There was no significant change in AUC and Cmax of N-desmethylclobazam (N=18).
 
 Strong (e.g., fluconazole, fluvoxamine, ticlopidine) and moderate (e.g., omeprazole) inhibitors of CYP2C19 may result in up to a 5-fold increase in exposure to N-desmethylclobazam, the active metabolite of clobazam, based on extrapolation from pharmacogenomic data [see Clinical Pharmacology (12.5)].

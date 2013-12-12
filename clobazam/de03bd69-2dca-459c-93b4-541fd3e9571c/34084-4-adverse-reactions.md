@@ -5,8 +5,8 @@ Clinically significant adverse reactions that appear in other sections of the la
 - Somnolence or Sedation [see Warnings and Precautions (5.1)]
 - Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants [see Warnings and Precautions (5.2)]
 - Withdrawal Symptoms [see Warnings and Precautions (5.3)]
-- Physical and Psychological Dependence [see Warnings and Precautions (5.4)]
-- Serious Dermatological Reactions [see Warnings and Precautions (5.5)]
+- Serious Dermatological Reactions [see Warnings and Precautions (5.4)]
+- Physical and Psychological Dependence [see Warnings and Precautions (5.5)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
@@ -17,13 +17,9 @@ During its development for the adjunctive treatment of seizures associated with 
 The conditions and duration of exposure varied greatly and included single- and multiple-dose clinical pharmacology studies in healthy volunteers and two double-blind studies in patients with LGS (Study 1 and 2) [see Clinical Studies (14)].
 Only Study 1 included a placebo group, allowing comparison of adverse reaction rates on ONFI at several doses to placebo.
 
-Adverse Reactions Leading to Discontinuation in an LGS Placebo Controlled Clinical Trial (Study 1)
+Adverse Reactions Leading to Discontinuation in an LGS Placebo Controlled Clinical Trial (Study 1) The adverse reactions associated with ONFI treatment discontinuation in ≥1% of patients in decreasing order of frequency included lethargy, somnolence, ataxia, aggression, fatigue, and insomnia.
 
-The adverse reactions associated with ONFI treatment discontinuation in ≥1% patients in decreasing order of frequency included lethargy, somnolence, ataxia, aggression, fatigue, and insomnia.
-
-Most Common Adverse Reactions in an LGS Placebo Controlled Clinical Trial (Study 1)
-
-Table 3 lists the adverse reactions that occurred in ≥5% of ONFI treated patients (at any dose), and at a rate greater than placebo treated patients, in the randomized, double-blind, placebo-controlled, parallel group clinical study of adjunctive AED therapy for 15 weeks (Study 1).
+Most Common Adverse Reactions in an LGS Placebo Controlled Clinical Trial (Study 1) Table 3 lists the adverse reactions that occurred in ≥5% of ONFI treated patients (at any dose), and at a rate greater than placebo treated patients, in the randomized, double-blind, placebo-controlled, parallel group clinical study of adjunctive AED therapy for 15 weeks (Study 1).
 
 Table 3.
 Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placebo in Any Treatment Group
@@ -61,11 +57,11 @@ Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placeb
 | Insomnia | 2 | 2 | 5 | 7 | 5 |
 | Respiratory Disorders |  |  |  |  |  |
 | Cough | 0 | 3 | 5 | 7 | 5 |
-| a Maximum daily dose of 5 mg for ≤30 kg body weight; 10 mg for >30 kg body weight b Maximum daily dose of 10 mg for ≤30 kg body weight; 20 mg for >30 kg body weight c Maximum daily dose of 20 mg for ≤30 kg body weight; 40 mg for >30 kg body weight |  |  |  |  |  |
+| aMaximum daily dose of 5 mg for ≤30 kg body weight; 10 mg for >30 kg body weight bMaximum daily dose of 10 mg for ≤30 kg body weight; 20 mg for >30 kg body weight cMaximum daily dose of 20 mg for ≤30 kg body weight; 40 mg for >30 kg body weight |  |  |  |  |  |
 
 ## 6.2 Post Marketing Experience
 
 These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
 Adverse reactions are categorized by system organ class.
 
-Blood Disorders: Anemia, eosinophilia, leukopenia, thrombocytopenia Eye Disorders: Diplopia, vision blurred Gastrointestinal Disorders: Abdominal distention Investigations: Hepatic enzyme increased Musculoskeletal: Muscle spasms Psychiatric Disorders: Agitation, anxiety, apathy, confusional state, depression, delirium, delusion, hallucination Respiratory Disorders: Aspiration, respiratory depression Skin and Subcutaneous Tissue Disorders: Rash, Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), urticaria
+Blood Disorders: Anemia, eosinophilia, leukopenia, thrombocytopenia Eye Disorders: Diplopia, vision blurred Gastrointestinal Disorders: Abdominal distention Investigations: Hepatic enzyme increased Musculoskeletal: Muscle spasms Psychiatric Disorders: Agitation, anxiety, apathy, confusional state, depression, delirium, delusion, hallucination Respiratory Disorders: Aspiration, respiratory depression Skin and Subcutaneous Tissue Disorders: Rash, urticaria

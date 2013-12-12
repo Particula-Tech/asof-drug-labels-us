@@ -2,22 +2,16 @@
 
 ## 7.1 Effect of ONFI on Other Drugs
 
-Hormonal Contraceptives
-
-ONFI is a weak CYP3A4 inducer.
+Hormonal Contraceptives ONFI is a weak CYP3A4 inducer.
 As some hormonal contraceptives are metabolized by CYP3A4, their effectiveness may be diminished when given with ONFI.
 Additional non-hormonal forms of contraception are recommended when using ONFI [see Clinical Pharmacology (12.3), Patient Counseling Information (17)].
 
-Drugs Metabolized by CYP2D6
-
-ONFI inhibits CYP2D6.
+Drugs Metabolized by CYP2D6 ONFI inhibits CYP2D6.
 Dose adjustment of drugs metabolized by CYP2D6 may be necessary [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Effect of Other Drugs on ONFI
 
-Strong and moderate inhibitors of CYP2C19
-
-Strong and moderate inhibitors of CYP2C19 may result in increased exposure to N-desmethylclobazam, the active metabolite of clobazam.
+Strong and moderate inhibitors of CYP2C19 Strong and moderate inhibitors of CYP2C19 may result in increased exposure to N-desmethylclobazam, the active metabolite of clobazam.
 This may increase the risk of dose-related adverse reactions.
 Dosage adjustment of ONFI may be necessary when co-administered with strong CYP2C19 inhibitors (e.g., fluconazole, fluvoxamine, ticlopidine) or moderate CYP2C19 inhibitors (e.g., omeprazole) [see Clinical Pharmacology (12.3)].
 

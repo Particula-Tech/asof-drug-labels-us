@@ -27,15 +27,10 @@ Taper by decreasing the total daily dose by 5-10 mg/day on a weekly basis until 
 
 Instruct patients to read the "Instructions for Use" carefully for complete directions on how to properly dose and administer ONFI oral suspension.
 
-ONFI Tablet Oral Administration
-
-ONFI tablets can be taken with or without food.
-
+ONFI Tablet Oral Administration ONFI tablets can be taken with or without food.
 ONFI tablets can be administered whole, broken in half along the score, or crushed and mixed in applesauce.
 
-ONFI Oral Suspension Oral Administration
-
-ONFI oral suspension can be taken with or without food [see Clinical Pharmacology (12.3)].
+ONFI Oral Suspension Oral Administration ONFI oral suspension can be taken with or without food [see Clinical Pharmacology (12.3)].
 
 Shake ONFI Oral Suspension well before every administration.
 When administering the oral suspension, use only the oral dosing syringe provided with the product.

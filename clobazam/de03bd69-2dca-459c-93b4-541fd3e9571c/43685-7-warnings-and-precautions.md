@@ -26,16 +26,16 @@ Withdrawal symptoms (e.g., convulsions, psychosis, hallucinations, behavioral di
 The more severe withdrawal symptoms have usually been limited to patients who received excessive doses over an extended period of time, followed by an abrupt discontinuation.
 Generally milder withdrawal symptoms (e.g., dysphoria, anxiety, and insomnia) have been reported following abrupt discontinuance of benzodiazepines taken continuously at therapeutic doses for several months.
 
-## 5.4 Physical and Psychological Dependence
+## 5.4 Serious Dermatological Reactions
+
+Serious skin reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported with ONFI in both children and adults during the post-marketing period.
+Patients should be closely monitored for signs or symptoms of SJS/TEN, especially during the first 8 weeks of treatment initiation or when re-introducing therapy.
+ONFI should be discontinued at the first sign of rash, unless the rash is clearly not drug-related.
+If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
+
+## 5.5 Physical and Psychological Dependence
 
 Patients with a history of substance abuse should be under careful surveillance when receiving ONFI or other psychotropic agents because of the predisposition of such patients to habituation and dependence [see Drug Abuse and Dependence (9)].
-
-## 5.5 Serious Dermatological Reactions
-
-Serious skin reactions, including Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported from post-marketing experience with ONFI in both children and adults.
-Reports involved co-administration of other medicines (antiepileptic drugs) and required hospitalization.
-Patients should be closely monitored for signs or symptoms of SJS/TEN, especially during the first 8 weeks of treatment initiation or when re-introducing therapy.
-Discontinue ONFI immediately if signs, symptoms or unexplained rash suggestive of SJS/TEN occur.
 
 ## 5.6 Suicidal Behavior and Ideation
 

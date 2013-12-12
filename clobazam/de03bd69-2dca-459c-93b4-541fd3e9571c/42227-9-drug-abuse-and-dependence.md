@@ -16,18 +16,14 @@ Drug abuse is the intentional non-therapeutic use of a drug, repeatedly or even 
 
 ## 9.3 Dependence
 
-Dependence
-
-Physical dependence is a state of adaptation that is manifested by a specific withdrawal syndrome that can be produced by abrupt cessation, rapid dose reduction, decreasing blood levels of the drug, and/or administration of an antagonist.
+Dependence Physical dependence is a state of adaptation that is manifested by a specific withdrawal syndrome that can be produced by abrupt cessation, rapid dose reduction, decreasing blood levels of the drug, and/or administration of an antagonist.
 In clinical trials, cases of dependency were reported following abrupt discontinuation of ONFI.
 
 The risk of dependence is present even with use of ONFI at the recommended dose range over periods of only a few weeks.
 The risk of dependence increases with increasing dose and duration of treatment.
 The risk of dependence is increased in patients with a history of alcohol or drug abuse.
 
-Withdrawal
-
-Abrupt discontinuation of ONFI causes withdrawal symptoms.
+Withdrawal Abrupt discontinuation of ONFI causes withdrawal symptoms.
 As with other benzodiazepines, ONFI should be withdrawn gradually [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 In ONFI clinical pharmacology trials in healthy volunteers, the most common withdrawal symptoms after abrupt discontinuation were headache, tremor, insomnia, anxiety, irritability, drug withdrawal syndrome, palpitations, and diarrhea [see Warnings and Precautions (5.3)].

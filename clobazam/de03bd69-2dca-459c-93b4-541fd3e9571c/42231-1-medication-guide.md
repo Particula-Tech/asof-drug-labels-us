@@ -1,10 +1,4 @@
-MEDICATION GUIDE
-
-ONFI® (ON-fee)
-
-(clobazam)
-
-Tablets and Oral Suspension
+MEDICATION GUIDE ONFI® (ON-fee) (clobazam) Tablets and Oral Suspension
 
 Read this Medication Guide before you start taking ONFI and each time you get a refill.
 There may be new information.
@@ -43,7 +37,7 @@ Selling or giving away ONFI may harm others, and is against the law.
 Tell your healthcare provider if you have ever abused or been dependent on alcohol, prescription medicines or street drugs.
 
 4.
-Serious skin reactions have been seen when ONFI is taken with other medicines and may require stopping its use.
+Serious skin reactions have been seen with ONFI and may require stopping its use.
 Do not stop taking ONFI without first talking to your healthcare provider.
 
 - A serious skin reaction can happen at any time during your treatment with ONFI, but is more likely to happen within the first 8 weeks of treatment.
@@ -196,17 +190,9 @@ For more information about ONFI, go to www.lundbeckus.com or call Lundbeck at 1-
 
 What are the ingredients in ONFI?
 
-Tablets
+Tablets Active ingredient: clobazam Inactive ingredients: corn starch, lactose monohydrate, magnesium stearate, silicon dioxide, and talc.
 
-Active ingredient: clobazam
-
-Inactive ingredients: corn starch, lactose monohydrate, magnesium stearate, silicon dioxide, and talc.
-
-Oral Suspension
-
-Active ingredient: clobazam
-
-Inactive ingredients: magnesium aluminum silicate, xanthan gum, citric acid monohydrate, disodium hydrogen phosphate dihydrate, simethicone emulsion, polysorbate 80, methylparaben, propylparaben, propylene glycol, sucralose, maltitol solution, berry flavor, purified water.
+Oral Suspension Active ingredient: clobazam Inactive ingredients: magnesium aluminum silicate, xanthan gum, citric acid monohydrate, disodium hydrogen phosphate dihydrate, simethicone emulsion, polysorbate 80, methylparaben, propylparaben, propylene glycol, sucralose, maltitol solution, berry flavor, purified water.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -214,23 +200,15 @@ Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
 ONFI is a registered trademark of Lundbeck
 
-5/2013
+11/2013
 
-Instructions for Use
-
-ONFI® (ON-fee)
-
-(clobazam)
-
-Oral Suspension
+Instructions for Use ONFI® (ON-fee) (clobazam) Oral Suspension
 
 Read this Instructions for Use before using ONFI oral suspension and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
-Prepare ONFI Oral Suspension Dose
-
-You will need the following supplies: See Figure A
+Prepare ONFI Oral Suspension Dose You will need the following supplies: See Figure A
 
 - ONFI oral suspension bottle
 - Bottle adapter
@@ -314,4 +292,4 @@ Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
 ONFI is a registered trademark of Lundbeck
 
-5/2013
+11/2013
