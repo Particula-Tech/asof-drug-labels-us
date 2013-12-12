@@ -3,7 +3,7 @@
 Amlodipine Besylate Tablets, USP Read this information carefully before you start taking amlodipine besylate tablets and each time you refill your prescription.
 There may be new information.
 This information does not replace talking with your doctor.
-If you have any questions about amlodipine besylate tablets , ask your doctor.
+If you have any questions about amlodipine besylate tablets, ask your doctor.
 Your doctor will know if amlodipine besylate tablets are right for you.
 What are amlodipine besylate tablets?
 Amlodipine besylate tablets are a type of medicine known as a calcium channel blocker (CCB).
@@ -17,7 +17,7 @@ Angina feels like a pressing or squeezing pain, usually in your chest under the 
 Sometimes you can feel it in your shoulders, arms, neck, jaws, or back.
 Amlodipine besylate tablets can relieve this pain.
 Who should not use amlodipine besylate tablets?
-Do not use amlodipine besylate tablets if you are allergic to amlodipine (the active ingredient in amlodipine besylate tablets ), or to the inactive ingredients.
+Do not use amlodipine besylate tablets if you are allergic to amlodipine (the active ingredient in amlodipine besylate tablets), or to the inactive ingredients.
 Your doctor or pharmacist can give you a list of these ingredients.
 What should I tell my doctor before taking amlodipine besylate tablets?
 Tell your doctor about any prescription and non-prescription medicines you are taking, including natural or herbal remedies.
@@ -54,7 +54,6 @@ What are the possible side effects of amlodipine besylate tablets?
 Amlodipine besylate tablets may cause the following side effects.
 Most side effects are mild or moderate:
 
-- headache
 - swelling of your legs or ankles
 - tiredness, extreme sleepiness
 - stomach pain, nausea
@@ -66,7 +65,7 @@ Most side effects are mild or moderate:
 It is rare, but when you first start taking amlodipine besylate tablets or increase your dose, you may have a heart attack or your angina may get worse.
 If that happens, call your doctor right away or go directly to a hospital emergency room.
 Tell your doctor if you are concerned about any side effects you experience.
-These are not all the possible side effects of amlodipine besylate tablets .
+These are not all the possible side effects of amlodipine besylate tablets.
 For a complete list, ask your doctor or pharmacist.
 How do I store amlodipine besylate tablets?
 Keep amlodipine besylate tablets away from children.
@@ -78,5 +77,5 @@ General advice about amlodipine besylate tablets Sometimes, doctors will prescri
 Only use amlodipine besylate tablets the way your doctor told you to.
 Do not give amlodipine besylate tablets to other people, even if they have the same symptoms you have.
 They may harm them.
-You can ask your pharmacist or doctor for information about amlodipine besylate tablets , or you can call 1-866-850-2876.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2011
+You can ask your pharmacist or doctor for information about amlodipine besylate tablets, or you can call 1-866-850-2876.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2013

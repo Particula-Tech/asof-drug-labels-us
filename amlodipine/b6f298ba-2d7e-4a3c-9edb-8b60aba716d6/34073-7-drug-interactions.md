@@ -34,7 +34,7 @@ Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
 
 Coadministration of amlodipine besylate with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
 
-## 7.9 Ethanol
+## 7.9 Ethanol (Alcohol)
 
 Single and multiple 10 mg doses of amlodipine besylate had no significant effect on the pharmacokinetics of ethanol.
 
@@ -54,6 +54,10 @@ Monitor for symptoms of hypotension and edema when amlodipine is coadministered 
 No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
 Blood pressure should be closely monitored when amlodipine is coadministered with CYP3A4 inducers.
 
-## 7.13 Drug/Laboratory Test Interactions
+## 7.13 Cyclosporine
+
+A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine.
+
+## 7.14 Drug/Laboratory Test Interactions
 
 None known.

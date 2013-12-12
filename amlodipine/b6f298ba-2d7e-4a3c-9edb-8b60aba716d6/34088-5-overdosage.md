@@ -3,7 +3,7 @@
 Overdosage might be expected to cause excessive peripheral vasodilation with marked hypotension and possibly a reflex tachycardia.
 In humans, experience with intentional overdosage of amlodipine besylate is limited.
 Single oral doses of amlodipine maleate equivalent to 40 mg amlodipine/kg and 100 mg amlodipine/kg in mice and rats, respectively, caused deaths.
-Single oral amlodipine maleate doses equivalent to 4 or more mg amlodipine/kg or higher in dogs (11 or more times the maximum recommended human dose on a mg/m 2 basis) caused a marked peripheral vasodilation and hypotension.
+Single oral amlodipine maleate doses equivalent to 4 or more mg amlodipine/kg or higher in dogs (11 or more times the maximum recommended human dose on a mg/m2 basis) caused a marked peripheral vasodilation and hypotension.
 If massive overdose should occur, initiate active cardiac and respiratory monitoring.
 Frequent blood pressure measurements are essential.
 Should hypotension occur, provide cardiovascular support including elevation of the extremities and the judicious administration of fluids.
