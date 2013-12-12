@@ -31,4 +31,6 @@ If a child accidentally ingests ASTEPRO Nasal Spray, seek medical help or call a
 
 Manufactured by: MEDA Pharmaceuticals Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-Astelin, ASTEPRO and MEDA Pharmaceuticals are registered trademarks of Meda Pharmaceuticals Inc.
+Astelin, ASTEPRO and MEDA PHARMACEUTICALS are registered trademarks of Meda Pharmaceuticals Inc. or a related entity.
+
+U.S. Patents 8,071,073; D447,419; 8,518,919

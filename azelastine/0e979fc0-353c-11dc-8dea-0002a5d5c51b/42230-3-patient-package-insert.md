@@ -1,6 +1,6 @@
 PATIENT INFORMATION ASTEPRO [AS-ta-PRO] (azelastine hydrochloride) Nasal Spray 0.1% Nasal Spray 0.15%
 
-| Important: For use in your nose only |
+| Important: For use in your nose only. |
 | --- |
 
 What is ASTEPRO Nasal Spray?
@@ -12,7 +12,7 @@ It is not known if ASTEPRO Nasal Spray is safe and effective in children under 6
 
 What should I tell my healthcare provider before using ASTEPRO Nasal Spray?
 
-Before using ASTEPRO Nasal Spray tell your healthcare provider if you are:
+Before using ASTEPRO Nasal Spray, tell your healthcare provider if you are:
 
 - allergic to any of the ingredients in ASTEPRO Nasal Spray.
   See the end of this leaflet for a complete list of ingredients in ASTEPRO Nasal Spray.
@@ -95,7 +95,7 @@ Inactive ingredients: sorbitol, sucralose, hypromellose, sodium citrate, edetate
 
 Instructions for Use ASTEPRO [AS-ta-PRO] (azelastine hydrochloride) Nasal Spray 0.1% Nasal Spray 0.15%
 
-| Important: For use in your nose only |
+| Important: For use in your nose only. |
 | --- |
 
 For the correct dose of medicine:
@@ -125,10 +125,9 @@ Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit a
 
 Now your pump is primed and ready to use.
 
-Do not use ASTEPRO Nasal Spray unless you see a fine mist after you do the priming sprays.
-If you do not see a fine mist, clean the tip of the spray nozzle.
-See the “Cleaning the Spray Tip of your ASTEPRO Nasal Spray” section below.
-
+- Do not use ASTEPRO Nasal Spray unless you see a fine mist after you do the priming sprays.
+  If you do not see a fine mist, clean the tip of the spray nozzle.
+  See the “Cleaning the Spray Tip of your ASTEPRO Nasal Spray” section below.
 - If you do not use ASTEPRO Nasal Spray for 3 or more days, you will need to prime the pump with 2 sprays or until you see a fine mist.
 
 Using your ASTEPRO Nasal Spray
@@ -179,4 +178,5 @@ This Patient Information and Instructions for Use has been approved by the U.S. 
 
 Manufactured by: MEDA Pharmaceuticals Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120 ©2013 Meda Pharmaceuticals Inc.
 
-ASTEPRO and MEDA Pharmaceuticals are registered trademarks of Meda Pharmaceuticals Inc. U.S. Patent Pending Revised: 8/2013
+ASTEPRO and MEDA PHARMACEUTICALS are registered trademarks of Meda Pharmaceuticals Inc. or a related entity.
+U.S. Patents 8,518,919, 8,071,073 and D447,419 IN-023D6-07 Revised: 8/2013
