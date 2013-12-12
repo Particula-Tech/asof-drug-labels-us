@@ -18,7 +18,7 @@ CLARINEX-D 12 HOUR Extended Release Tablets should not be used in patients recei
 ## 5.4 Hypersensitivity Reactions
 
 Hypersensitivity reactions including rash, pruritus, urticaria, edema, dyspnea, and anaphylaxis have been reported after administration of desloratadine a component of CLARINEX-D 12 HOUR Extended Release Tablets.
-If such a reaction occurs, therapy with CLARINEX-D 12 HOUR Extended Release Tablets should be stopped and alternative treatment should be considered [see Post-Marketing Experience (6.2)].
+If such a reaction occurs, therapy with CLARINEX-D 12 HOUR Extended Release Tablets should be stopped and alternative treatment should be considered [see Adverse Reactions (6.2)].
 
 ## 5.5 Renal Impairment
 

@@ -12,7 +12,7 @@ Primary efficacy variable results from 1 of 2 trials are shown in Table 3.
 
 Table 3: Changes in Symptoms in a 2-Week Clinical Trial in Subjects With Seasonal Allergic Rhinitis
 
-| Treatment Group (n) | Mean BaselineTo qualify at Baseline, the sum of the twice-daily diary reflective scores for the 3 days prior to Baseline and the morning of the Baseline visit were to total ≥42 for total nasal symptom score (sum of 4 nasal symptoms of rhinorrhea, nasal stuffiness/congestion, nasal itching, and sneezing) and a total of ≥35 for total non-nasal symptoms score (sum of 4 non-nasal symptoms of itching/burning eyes, tearing/watering eyes, redness of eyes, and itching of ears/palate), and a score of ≥14 for each of the individual symptoms of nasal stuffiness/congestion and rhinorrhea. Each symptom was scored on a 4-point severity scale (0=none, 1=mild, 2=moderate, 3=severe). (sem) | Change (% Change) from BaselineMean reduction in score averaged over the 2-week treatment period. (sem) | CLARINEX-D 12 HOUR Comparison to ComponentsThe comparison of interest is shown bolded. (P-value) |
+| Treatment Group (n) | Mean BaselineTo qualify at Baseline, the sum of the twice-daily diary reflective scores for the 3 days prior to Baseline and the morning of the Baseline visit were to total ≥42 for total nasal symptom score (sum of 4 nasal symptoms of rhinorrhea, nasal stuffiness/congestion, nasal itching, and sneezing) and a total of ≥35 for total non-nasal symptoms score (sum of 4 non-nasal symptoms of itching/burning eyes, tearing/watering eyes, redness of eyes, and itching of ears/palate), and a score of ≥14 for each of the individual symptoms of nasal stuffiness/congestion and rhinorrhea. Each symptom was scored on a 4-point severity scale (0=none, 1=mild, 2=moderate, 3=severe). (SEM) | Change (% Change) from BaselineMean reduction in score averaged over the 2-week treatment period. (SEM) | CLARINEX-D 12 HOUR Comparison to ComponentsThe comparison of interest is shown bolded. (P-value) |
 | --- | --- | --- | --- |
 | Total Symptom Score (Excluding Nasal Congestion) |  |  |  |
 | CLARINEX-D 12 HOUR Extended Release Tablets BID (199) | 14.18 (0.21) | -6.54 (-46.0) (0.30) | - |
@@ -22,6 +22,6 @@ Table 3: Changes in Symptoms in a 2-Week Clinical Trial in Subjects With Seasona
 | CLARINEX-D 12 HOUR Extended Release Tablets BID (199) | 2.47 (0.027) | -0.93 (-37.4) (0.046) | - |
 | Pseudoephedrine tablet 120 mg BID (197) | 2.46 (0.027) | -0.75 (-31.2) (0.046) | P=0.006 |
 | CLARINEX 5 mg Tablets QD (197) | 2.50 (0.027) | -0.66 (-26.7) (0.046) | P<0.001 |
-| Sem=Standard Error of the Mean |  |  |  |
+| SEM=Standard Error of the Mean |  |  |  |
 
 There were no significant differences in the efficacy of CLARINEX-D 12 HOUR Extended Release Tablets across subgroups of subjects defined by gender, age, or race.

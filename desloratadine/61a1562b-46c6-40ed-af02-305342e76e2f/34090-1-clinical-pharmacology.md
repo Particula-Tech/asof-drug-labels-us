@@ -81,7 +81,7 @@ These age-related differences are unlikely to be clinically relevant and no dosa
 
 Pediatric Subjects: CLARINEX-D 12 HOUR Extended Release Tablets are not an appropriate dosage form for use in pediatric patients below 12 years of age.
 
-Renally Impaired: Following a single dose of desloratadine 7.5 mg, pharmacokinetics were characterized in subjects with mild (n=7; creatinine clearance 51–69 mL/min/1.73m2), moderate (n=6; creatinine clearance 34–43 mL/min/1.73m2) and severe (n=6; creatinine clearance 5–29 mL/min/1.73m2) renal impairment or hemodialysis dependent (n=6) subjects.
+Renally Impaired: Following a single dose of desloratadine 7.5 mg, pharmacokinetics were characterized in subjects with mild (n=7; creatinine clearance 51–69 mL/min/1.73 m2), moderate (n=6; creatinine clearance 34–43 mL/min/1.73 m2) and severe (n=6; creatinine clearance 5–29 mL/min/1.73 m2) renal impairment or hemodialysis dependent (n=6) subjects.
 In subjects with mild and moderate renal impairment, median Cmax and AUC values increased by approximately 1.2- and 1.9-fold, respectively, relative to subjects with normal renal function.
 In subjects with severe renal impairment or who were hemodialysis dependent, Cmax and AUC values increased by approximately 1.7- and 2.5-fold, respectively.
 Minimal changes in 3-hydroxydesloratadine concentrations were observed.

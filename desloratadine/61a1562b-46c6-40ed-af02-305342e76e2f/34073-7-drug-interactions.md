@@ -6,7 +6,7 @@ No specific interaction studies have been conducted with CLARINEX-D 12 HOUR Exte
 
 CLARINEX-D 12 HOUR Extended Release Tablets should not be used in patients receiving monoamine oxidase (MAO) inhibitor therapy or within fourteen (14) days of stopping such treatment because the action of pseudoephedrine a component of CLARINEX-D 12 HOUR Extended Release tablets on the vascular system may be potentiated by these agents [see Contraindications (4) and Warnings and Precautions (5.3)].
 
-## 7.2 Beta-adrenergic blocking agents
+## 7.2 Beta-Adrenergic Blocking Agents
 
 The antihypertensive effects of beta-adrenergic blocking agents, methyldopa, and reserpine, may be reduced by sympathomimetics such as pseudoephedrine.
 Exercise caution when using CLARINEX-D 12 HOUR Extended Release Tablets with these agents.
@@ -16,7 +16,7 @@ Exercise caution when using CLARINEX-D 12 HOUR Extended Release Tablets with the
 Increased ectopic pacemaker activity can occur when pseudoephedrine is used concomitantly with digitalis.
 Exercise caution when using CLARINEX-D 12 HOUR Extended Release Tablets with these agents.
 
-## 7.4 Inhibitors of cytochrome P450 3A4
+## 7.4 Inhibitors of Cytochrome P450 3A4
 
 In controlled clinical studies co-administration of desloratadine with ketoconazole, erythromycin, or azithromycin resulted in increased plasma concentrations of desloratadine and 3-hydroxydesloratadine but there were no clinically relevant changes in the safety profile of desloratadine [see Clinical Pharmacology (12.3)].
 

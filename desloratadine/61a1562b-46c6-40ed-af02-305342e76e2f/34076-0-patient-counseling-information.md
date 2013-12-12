@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[see FDA-approved patient labeling]
+See FDA-approved patient labeling (Patient Information).
 
 ## 17.1 Cardiovascular and Central Nervous System Effects
 

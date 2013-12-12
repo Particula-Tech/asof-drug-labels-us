@@ -6,7 +6,7 @@ Desloratadine and 3-hydroxydesloratadine are not eliminated by hemodialysis.
 
 ## 10.1 Desloratadine
 
-Information regarding acute overdosage with desloratadine is limited to experience from postmarketing adverse event reports and from clinical trials conducted during the development of the CLARINEX product.
+Information regarding acute overdosage with desloratadine is limited to experience from post-marketing adverse event reports and from clinical trials conducted during the development of the CLARINEX product.
 In the reported cases of overdose, there were no significant adverse events that were attributed to desloratadine.
 In a dose-ranging trial, at doses of 10 mg and 20 mg/day, somnolence was reported.
 
