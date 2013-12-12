@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Clotrimazole Troches (clotrimazole lozenges) are administered only as a lozenge that must be slowly dissolved in the mouth.
+Clotrimazole Troches (clotrimazole lozenges) USP are administered only as a lozenge that must be slowly dissolved in the mouth.
 The recommended dose is one troche five times a day for fourteen consecutive days.
 Only limited data are available on the safety and effectiveness of the clotrimazole troche after prolonged administration; therefore, therapy should be limited to short term use, if possible.
 

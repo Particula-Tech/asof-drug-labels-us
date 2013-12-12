@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Clotrimazole Troches (clotrimazole lozenges) are white, flat face tablets that are plain on one side and embossed with “54 552” on the other side.
+Clotrimazole Troches (clotrimazole lozenges) USP are white, flat face tablets that are plain on one side and embossed with “54 552” on the other side.
 
-Clotrimazole Troche (clotrimazole lozenge), 10 mg
+Clotrimazole Troche (clotrimazole lozenges) USP, 10 mg
 
 0054-4146-22: Bottles of 70
 
@@ -13,6 +13,6 @@ Clotrimazole Troche (clotrimazole lozenge), 10 mg
 Store below 86°F (30°C).
 Avoid freezing.
 
-10001777/06 Revised January 2013
+10001777/07 Revised August 2013
 
 © RLI, 2013
