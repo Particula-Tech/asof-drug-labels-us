@@ -17,6 +17,7 @@ A few cases of anaphylactoid reactions have been reported.
 If a hypersensitivity reaction occurs, the drug should be discontinued.
 The usual agents (epinephrine, corticosteroids, antihistamines) should be available for emergency treatment of serious reactions.
 Acute Generalised Exanthematous Pustulosis (AGEP).
+Toxic epidermal necrolysis.
 
 ## Skin and Mucous Membranes
 
@@ -42,7 +43,7 @@ Drug reaction with eosinophilia and systemic symptoms (DRESS)
 
 ## Local Reactions
 
-Pain, induration and sterile abscess have been reported after intramuscular injection and thrombophlebitis after intravenous infusion.
+Injection site irritation, pain, induration and sterile abscess have been reported after intramuscular injection and thrombophlebitis after intravenous infusion.
 Reactions can be minimized or avoided by giving deep intramuscular injections and avoiding prolonged use of indwelling intravenous catheters.
 
 ## Musculoskeletal
