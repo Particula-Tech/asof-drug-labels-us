@@ -1,16 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-| Indication | Dose | Frequency |
-| --- | --- | --- |
-| Short-Term Treatment of Erosive Esophagitis Associated With GERD (2.1) |  |  |
-| Adults | 40 mg | Once Daily for up to 8 wks |
-| Maintenance of Healing of Erosive Esophagitis (2.1) |  |  |
-| Adults | 40 mg | Once Daily |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome (2.1) |  |  |
-| Adults | 40 mg | Twice Daily |
-
-See Full Prescribing Information for administration instructions
-
 ## 2.1 Recommended Dosing Schedule
 
 Pantoprazole sodium is supplied as delayed-release tablets.
@@ -21,7 +10,10 @@ Table 1: Recommended Dosing Schedule for Pantoprazole Sodium Delayed-Release Tab
 | Indication | Dose | Frequency |
 | --- | --- | --- |
 | Short-Term Treatment of Erosive Esophagitis Associated With GERD |  |  |
-| Adults | 40 mg | Once Daily for up to 8 weeks* |
+| Adults | 40 mg | Once daily for up to 8 weeks* |
+| Children (5 years and older) |  |  |
+| ≥ 15 kg to < 40 kg | 20 mg | Once daily for up to 8 wks |
+| ≥ 40 kg | 40 mg |  |
 | Maintenance of Healing of Erosive Esophagitis |  |  |
 | Adults | 40 mg | Once Daily |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome |  |  |
@@ -31,9 +23,6 @@ Table 1: Recommended Dosing Schedule for Pantoprazole Sodium Delayed-Release Tab
 
 ** Dosage regimens should be adjusted to individual patient needs and should continue for as long as clinically indicated.
 Doses up to 240 mg daily have been administered.
-
-Pediatric dosing information in pediatric patients ages five years and older with erosive esophagitis associated with GERD is approved for Wyeth Pharmaceuticals Inc.’s pantoprazole sodium delayed-release tablets.
-However, due to Wyeth Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.2 Administration Instructions
 

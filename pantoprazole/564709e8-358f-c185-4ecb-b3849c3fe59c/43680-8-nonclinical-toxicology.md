@@ -1,7 +1,5 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-{template}
-
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
 
 In a 24-month carcinogenicity study, Sprague-Dawley rats were treated orally with doses of 0.5 to 200 mg/kg/day, about 0.1 to 40 times the exposure on a body surface area basis of a 50 kg person dosed at 40 mg/day.

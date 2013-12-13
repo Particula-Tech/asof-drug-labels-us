@@ -47,9 +47,9 @@ This may cause a burning feeling in your chest or throat, sour taste, or burping
 • for the long-term treatment of conditions where your stomach makes too much acid.
 This includes a rare condition called Zollinger-Ellison syndrome.
 
-Information describing use in pediatric patients ages five years and older with erosive esophagitis associated with GERD is approved for Wyeth Pharmaceuticals Inc.’s pantoprazole sodium delayed-release tablets.
-However, due to Wyeth Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pantoprazole sodium delayed-release tablets are used in children 5 years of age and older for up to 8 weeks to heal acid-related damage to the lining of the esophagus (erosive esophagitis or EE) caused by GERD.
 
+It is not known if pantoprazole sodium delayed-release tablets are safe if used longer than 8 weeks in children.
 Pantoprazole sodium delayed-release tablets are not for use in children under 5 years of age.
 
 Who should not take pantoprazole sodium delayed-release tablets?
@@ -250,4 +250,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally –500 090 INDIA
 
-Revised:1112
+Revised:1113

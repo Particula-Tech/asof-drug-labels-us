@@ -4,12 +4,9 @@ Pantoprazole sodium delayed-release tablets USP are indicated for:
 
 ## 1.1 Short-Term Treatment of Erosive Esophagitis Associated With Gastroesophageal Reflux Disease (GERD)
 
-Pantoprazole sodium delayed-release tablets USP are indicated in adults for the short-term treatment (up to 8 weeks) in the healing and symptomatic relief of erosive esophagitis.
+Pantoprazole sodium delayed-release tablets USP are indicated in adults and pediatric patients five years of age and older for the short-term treatment (up to 8 weeks) in the healing and symptomatic relief of erosive esophagitis.
 For those adult patients who have not healed after 8 weeks of treatment, an additional 8-week course of pantoprazole sodium delayed-release tablets USP may be considered.
 Safety of treatment beyond 8 weeks in pediatric patients has not been established.
-
-Pediatric indication and usage information in pediatric patients ages five years and older with erosive esophagitis associated with GERD is approved for Wyeth Pharmaceuticals Inc.’s pantoprazole sodium delayed-release tablets.
-However, due to Wyeth Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 1.2 Maintenance of Healing of Erosive Esophagitis
 
