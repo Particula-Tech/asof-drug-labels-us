@@ -1,11 +1,12 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-In controlled clinical trials, single doses of 5, 10, or 20 mg of IMITREX Nasal Spray administered into 1 nostril were effective for the acute treatment of migraine in adults.
-A greater proportion of patients had headache response following a 20-mg dose than following a 5- or 10-mg dose (see CLINICAL TRIALS).
-Individuals may vary in response to doses of IMITREX Nasal Spray.
-The choice of dose should therefore be made on an individual basis, weighing the possible benefit of the 20-mg dose with the potential for a greater risk of adverse events.
-A 10-mg dose may be achieved by the administration of a single 5-mg dose in each nostril.
-There is evidence that doses above 20 mg do not provide a greater effect than 20 mg.
+The recommended adult dose of IMITREX Nasal Spray for the acute treatment of migraine is 5 mg, 10 mg, or 20 mg.
+The 20-mg dose may provide a greater effect than the 5-mg and 10-mg doses, but may have a greater risk of adverse reactions [see Clinical Studies (14)].
 
-If the headache returns, the dose may be repeated once after 2 hours, not to exceed a total daily dose of 40 mg.
-The safety of treating an average of more than 4 headaches in a 30-day period has not been established.
+The 5-mg and 20-mg doses are given as a single spray in 1 nostril.
+The 10-mg dose may be achieved by the administration of a single 5-mg dose in each nostril.
+
+If the migraine has not resolved by 2 hours after taking IMITREX Nasal Spray, or returns after a transient improvement, 1 additional dose may be administered at least 2 hours after the first dose.
+The maximum daily dose is 40 mg in a 24-hour period.
+
+The safety of treating an average of more than 4 headaches in a 30‑day period has not been established.

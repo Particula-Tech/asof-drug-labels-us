@@ -1,63 +1,62 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-Sumatriptan is an agonist for a vascular 5-hydroxytryptamine1 receptor subtype (probably a member of the 5-HT1D family) having only a weak affinity for 5-HT1A, 5-HT5A, and 5-HT7 receptors and no significant affinity (as measured using standard radioligand binding assays) or pharmacological activity at 5-HT2, 5-HT3, or 5-HT4 receptor subtypes or at alpha1-, alpha2-, or beta-adrenergic; dopamine1; dopamine2; muscarinic; or benzodiazepine receptors.
+Sumatriptan binds with high affinity to human cloned 5-HT1B/1D receptors.
+Sumatriptan presumably exerts its therapeutic effects in the treatment of migraine headache through agonist effects at the 5‑HT1B/1D receptors on intracranial blood vessels and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release..
 
-The vascular 5-HT1 receptor subtype that sumatriptan activates is present on cranial arteries in both dog and primate, on the human basilar artery, and in the vasculature of human dura mater and mediates vasoconstriction.
-This action in humans correlates with the relief of migraine headache.
-In addition to causing vasoconstriction, experimental data from animal studies show that sumatriptan also activates 5-HT1 receptors on peripheral terminals of the trigeminal nerve innervating cranial blood vessels.
-Such an action may contribute to the antimigrainous effect of sumatriptan in humans.
+## 12.2 Pharmacodynamics
 
-In the anesthetized dog, sumatriptan selectively reduces the carotid arterial blood flow with little or no effect on arterial blood pressure or total peripheral resistance.
-In the cat, sumatriptan selectively constricts the carotid arteriovenous anastomoses while having little effect on blood flow or resistance in cerebral or extracerebral tissues.
+Blood Pressure: Significant elevation in blood pressure, including hypertensive crisis, has been reported in patients with and without a history of hypertension [see Warnings and Precautions (5.8)].
 
-## Pharmacokinetics
+Peripheral (Small) Arteries: In healthy volunteers (N = 18), a trial evaluating the effects of sumatriptan on peripheral (small vessel) arterial reactivity failed to detect a clinically significant increase in peripheral resistance.
 
-In a study of 20 female volunteers, the mean maximum concentration following a 5- and 20-mg intranasal dose was 5 and 16 ng/mL, respectively.
-The mean Cmax following a 6-mg subcutaneous injection is 71 ng/mL (range: 49 to 110 ng/mL).
+Heart Rate: Transient increases in blood pressure observed in some patients in clinical trials carried out during sumatriptan’s development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
+
+## 12.3 Pharmacokinetics
+
+Absorption and Bioavailability: In a trial of 20 female volunteers, the mean maximum concentration following a 5- and 20-mg intranasal dose was 5 and 16 ng/mL, respectively.
+The mean Cmax following a 6‑mg subcutaneous injection is 71 ng/mL (range: 49 to 110 ng/mL).
 The mean Cmax is 18 ng/mL (range: 7 to 47 ng/mL) following oral dosing with 25 mg and 51 ng/mL (range: 28 to 100 ng/mL) following oral dosing with 100 mg of sumatriptan.
-In a study of 24 male volunteers, the bioavailability relative to subcutaneous injection was low, approximately 17%, primarily due to presystemic metabolism and partly due to incomplete absorption.
-
-Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL, is low, approximately 14% to 21%.
-The effect of sumatriptan on the protein binding of other drugs has not been evaluated, but would be expected to be minor, given the low rate of protein binding.
-The mean volume of distribution after subcutaneous dosing is 2.7 L/kg and the total plasma clearance is approximately 1,200 mL/min.
-
-The elimination half-life of sumatriptan administered as a nasal spray is approximately 2 hours, similar to the half-life seen after subcutaneous injection.
-Only 3% of the dose is excreted in the urine as unchanged sumatriptan; 42% of the dose is excreted as the major metabolite, the indole acetic acid analogue of sumatriptan.
+In a trial of 24 male volunteers, the bioavailability relative to subcutaneous injection was low, approximately 17%, primarily due to presystemic metabolism and partly due to incomplete absorption.
 
 Clinical and pharmacokinetic data indicate that administration of two 5-mg doses, 1 dose in each nostril, is equivalent to administration of a single 10-mg dose in 1 nostril.
 
-## Special Populations
+Distribution: Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL, is low, approximately 14% to 21%.
+The effect of sumatriptan on the protein binding of other drugs has not been evaluated.
+The apparent volume of distribution is 2.7 L/kg.
 
-Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
+Metabolism:In vitro studies with human microsomes suggest that sumatriptan is metabolized by MAO, predominantly the A isoenzyme.
+Most of a radiolabeled dose of sumatriptan excreted in the urine is the major metabolite indole acetic acid (IAA) or the IAA glucuronide, both of which are inactive.
 
-Hepatic Impairment: The effect of hepatic disease on the pharmacokinetics of subcutaneously and orally administered sumatriptan has been evaluated, but the intranasal dosage form has not been studied in hepatic impairment.
-There were no statistically significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in hepatically impaired patients compared with healthy controls.
-However, the liver plays an important role in the presystemic clearance of orally administered sumatriptan.
-In 1 small study involving oral sumatriptan in hepatically impaired patients (N = 8) matched for sex, age, and weight with healthy subjects, the hepatically impaired patients had an approximately 70% increase in AUC and Cmax and a Tmax 40 minutes earlier compared with the healthy subjects.
-The bioavailability of nasally absorbed sumatriptan following intranasal administration, which would not undergo first-pass metabolism, should not be altered in hepatically impaired patients.
-The bioavailability of the swallowed portion of the intranasal sumatriptan dose has not been determined, but would be increased in these patients.
-The swallowed intranasal dose is small, however, compared with the usual oral dose, so that its impact should be minimal.
+Elimination: The elimination half-life of sumatriptan administered as a nasal spray is approximately 2 hours, similar to the half-life seen after subcutaneous injection.
+Only 3% of the dose is excreted in the urine as unchanged sumatriptan; 42% of the dose is excreted as the major metabolite, the indole acetic acid analogue of sumatriptan.
+The total plasma clearance is approximately 1,200 mL/min.
 
-Age: The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
-Intranasal sumatriptan has not been evaluated for age differences (see PRECAUTIONS: Geriatric Use).
+Special Populations: Age: The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in subjects with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
+Intranasal sumatriptan has not been evaluated for age differences.
 
-Race: The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
+Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined.
+
+Hepatic Impairment: The effect of mild to moderate hepatic disease on the pharmacokinetics of the intranasal formulation of sumatriptan has not been evaluated.
+Sumatriptan bioavailability following intranasal administration is 17%, similar to that after oral administration (15%).
+Following oral administration, an approximately 70% increase in Cmax and AUC was observed in one small trial of patients with moderate liver impairment (n = 8) matched for sex, age and weight with healthy subjects (n = 8).
+Similar changes can be expected following intranasal administration.
+
+The pharmacokinetics of sumatriptan in patients with severe hepatic impairment has not been studied.
+The use of IMITREX Nasal Spray in patients with severe hepatic impairment is contraindicated [see Contraindications (4)].
+
+Race: The systemic clearance and Cmax of subcutaneous sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
 Intranasal sumatriptan has not been evaluated for race differences.
 
-## Drug Interactions
+Drug Interaction Studies: Monoamine Oxidase-A Inhibitors:Treatment with MAO-A inhibitors generally leads to an increase of sumatriptan plasma levels [see Contraindications (4) and Drug Interactions (7.2)].
+MAO inhibitors interaction studies have not been performed with intranasal sumatriptan.
 
-Monoamine Oxidase Inhibitors: Treatment with monoamine oxidase inhibitors (MAOIs) generally leads to an increase of sumatriptan plasma levels (see CONTRAINDICATIONS and PRECAUTIONS).
+Due to gut and hepatic metabolic first-pass effects, the increase of systemic exposure after co-administration of an MAO-A inhibitor with oral sumatriptan is greater than after co-administration of the MAO inhibitors with subcutaneous sumatriptan.
+The effects of an MAO inhibitor on systemic exposure after intranasal sumatriptan would be expected to be greater than the effect after subcutaneous sumatriptan but smaller than the effect after oral sumatriptan because only swallowed drug would be subject to first-pass effects.
 
-MAOI interaction studies have not been performed with intranasal sumatriptan.
-Due to gut and hepatic metabolic first-pass effects, the increase of systemic exposure after coadministration of an MAO-A inhibitor with oral sumatriptan is greater than after coadministration of the MAOI with subcutaneous sumatriptan.
-The effects of an MAOI on systemic exposure after intranasal sumatriptan would be expected to be greater than the effect after subcutaneous sumatriptan but smaller than the effect after oral sumatriptan because only swallowed drug would be subject to first-pass effects.
+In a trial of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of subcutaneous sumatriptan, resulting in a 2-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half‑life.
 
-In a study of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of subcutaneous sumatriptan.
-Under the conditions of this experiment, the result was a 2-fold increase in the area under the sumatriptan plasma concentration x time curve (AUC), corresponding to a 40% increase in elimination half-life.
-This interaction was not evident with an MAO-B inhibitor.
+A small trial evaluating the effect of pretreatment with an MAO-A inhibitor on the bioavailability from a 25-mg oral sumatriptan tablet resulted in an approximately 7-fold increase in systemic exposure.
 
-A small study evaluating the effect of pretreatment with an MAO-A inhibitor on the bioavailability from a 25-mg oral sumatriptan tablet resulted in an approximately 7-fold increase in systemic exposure.
-
-Xylometazoline: An in vivo drug interaction study indicated that 3 drops of xylometazoline (0.1% w/v), a decongestant, administered 15 minutes prior to a 20-mg nasal dose of sumatriptan did not alter the pharmacokinetics of sumatriptan.
+Xylometazoline: An in vivo drug interaction trial indicated that 3 drops of xylometazoline (0.1% w/v), a decongestant, administered 15 minutes prior to a 20-mg nasal dose of sumatriptan did not alter the pharmacokinetics of sumatriptan.
