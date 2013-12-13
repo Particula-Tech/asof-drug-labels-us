@@ -2,6 +2,6 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Not for Injection
 
-LAB-0041-8.0
+LAB-0041-9.0
 
-September 2013
+December 2013
