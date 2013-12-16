@@ -125,7 +125,7 @@ In an oral multiple dose study, AUCτ was similar in 6 subjects with moderate he
 The mean peak plasma concentrations (Cmax) were 20% lower in the hepatically impaired group.
 
 It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) receiving voriconazole.
-No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh Class C) [see Dosage and Administration (2.4)].
+No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh Class C) [see Dosage and Administration (2.5)].
 
 Renal Impairment–In a single oral dose (200 mg) study in 24 subjects with normal renal function and mild to severe renal impairment, systemic exposure (AUC) and peak plasma concentration (Cmax) of voriconazole were not significantly affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing in patients with mild to severe renal impairment.
@@ -135,7 +135,7 @@ In a multiple dose study of IV voriconazole (6 mg/kg IV loading dose × 2, then 
 However, in patients with moderate renal dysfunction (creatinine clearance 30–50 mL/min), accumulation of the intravenous vehicle, SBECD, occurs.
 The mean systemic exposure (AUC) and peak plasma concentrations (Cmax) of SBECD were increased 4-fold and almost 50%, respectively, in the moderately impaired group compared to the normal control group.
 
-Intravenous voriconazole should be avoided in patients with moderate or severe renal impairment (creatinine clearance <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of intravenous voriconazole [see Dosage and Administration (2.5)].
+Intravenous voriconazole should be avoided in patients with moderate or severe renal impairment (creatinine clearance <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of intravenous voriconazole [see Dosage and Administration (2.6)].
 
 A pharmacokinetic study in subjects with renal failure undergoing hemodialysis showed that voriconazole is dialyzed with clearance of 121 mL/min.
 The intravenous vehicle, SBECD, is hemodialyzed with clearance of 55 mL/min.
@@ -297,7 +297,7 @@ The pharmacokinetics of adjusted doses of voriconazole and efavirenz were studie
 Coadministration of voriconazole 400 mg q12h with efavirenz 300 mg q24h, decreased voriconazole AUCτ by 7% (90% CI: -23%, 13%) and increased Cmax by 23% (90% CI: -1%, 53%); efavirenz AUCτ was increased by 17% (90% CI: 6%, 29%) and Cmax was equivalent.
 
 Voriconazole may be coadministered with efavirenz if the voriconazole maintenance dose is increased to 400 mg q12h and the efavirenz dose is decreased to 300 mg q24h.
-When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored [see Dosage and Administration (2.4), and Drug Interactions (7)].
+When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored [see Dosage and Administration (2.5), and Drug Interactions (7)].
 
 Phenytoin (CYP2C9 substrate and potent CYP450 inducer)–Repeat dose administration of phenytoin (300 mg once daily) decreased the steady state Cmax and AUCτ of orally administered voriconazole (200 mg q12h × 14 days) by an average of 50% and 70%, respectively, in healthy subjects.
 Administration of a higher voriconazole dose (400 mg q12h × 7 days) with phenytoin (300 mg once daily) resulted in comparable steady state voriconazole Cmax and AUCτ estimates as compared to when voriconazole was given at 200 mg q12h without phenytoin.

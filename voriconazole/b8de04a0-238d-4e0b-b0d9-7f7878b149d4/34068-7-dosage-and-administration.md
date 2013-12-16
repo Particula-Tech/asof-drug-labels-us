@@ -2,7 +2,7 @@
 
 ## 2.1 Instructions for Use in All Patients
 
-Voriconazole Tablets should be taken at least one hour before or after a meal.
+Voriconazole Tablets or Oral Suspension should be taken at least one hour before or after a meal.
 
 ## 2.2 Recommended Dosing in Adults
 
@@ -29,7 +29,7 @@ Table 1: Recommended Dosing Regimen
 
 |  | IV | IV | Oral Adult patients who weigh less than 40 kg should receive half of the oral maintenance dose. |
 | --- | --- | --- | --- |
-| Infection | Loading dose | Maintenance Dose Increase dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.4),In healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see Clinical Pharmacology (12)]. |  |
+| Infection | Loading dose | Maintenance Dose Increase dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5),In healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see Clinical Pharmacology (12)]. |  |
 | Invasive AspergillosisIn a clinical study of invasive aspergillosis, the median duration of IV voriconazole therapy was 10 days (range 2–90 days). The median duration of oral voriconazole therapy was 76 days (range 2–232 days) [see Clinical Studies (14.1)]. | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
 | Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg q12h for the first 24 hours | 3–4 mg/kg q12hIn clinical trials, patients with candidemia received 3 mg/kg IV q12h as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg q12h as salvage therapy. Appropriate dose should be based on the severity and nature of the infection. | 200 mg q12h |
 | Esophageal Candidiasis | Not evaluated in patients with esophageal candidiasis. |  | 200 mg q12h |
@@ -45,12 +45,33 @@ If patient is unable to tolerate 4 mg/kg IV q12h, reduce the intravenous mainten
 
 The maintenance dose of voriconazole should be increased when co-administered with phenytoin or efavirenz [see Drug Interactions (7)].
 
-The maintenance dose of voriconazole should be reduced in patients with mild to moderate hepatic impairment, Child-Pugh Class A and B [see Dosage and Administration (2.4)].
+The maintenance dose of voriconazole should be reduced in patients with mild to moderate hepatic impairment, Child-Pugh Class A and B [see Dosage and Administration (2.5)].
 There are no PK data to allow for dosage adjustment recommendations in patients with severe hepatic impairment (Child-Pugh Class C).
 
 Duration of therapy should be based on the severity of the patient's underlying disease, recovery from immunosuppression, and clinical response.
 
-## 2.4 Use in Patients With Hepatic Impairment
+## 2.4 Oral Suspension
+
+Reconstitution
+
+Tap the bottle to release the powder.
+Add 46 mL of water to the bottle.
+Shake the closed bottle vigorously for about 1 minute.
+Remove child-resistant cap and push bottle adaptor into the neck of the bottle.
+Replace the cap.
+Write the date of expiration of the reconstituted suspension on the bottle label (the shelf-life of the reconstituted suspension is 14 days at controlled room temperature 15-30°C [59-86°F]).
+
+Instructions for use
+
+Shake the closed bottle of reconstituted suspension for approximately 10 seconds before each use.
+The reconstituted oral suspension should only be administered using the oral dispenser supplied with each pack.
+
+Incompatibilities
+
+Voriconazole for Oral Suspension and the 40 mg/mL reconstituted oral suspension should not be mixed with any other medication or additional flavoring agent.
+It is not intended that the suspension be further diluted with water or other vehicles.
+
+## 2.5 Use in Patients With Hepatic Impairment
 
 In the clinical program, patients were included who had baseline liver function tests (ALT, AST) up to 5 times the upper limit of normal.
 No dose adjustment is necessary in patients with this degree of abnormal liver function, but continued monitoring of liver function tests for further elevations is recommended [see Warnings and Precautions (5.9)].
@@ -61,7 +82,7 @@ Voriconazole has not been studied in patients with severe hepatic cirrhosis (Chi
 Voriconazole has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
 Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
 
-## 2.5 Use in Patients With Renal Impairment
+## 2.6 Use in Patients With Renal Impairment
 
 The pharmacokinetics of orally administered voriconazole are not significantly affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing in patients with mild to severe renal impairment [see Clinical Pharmacology (12.3)].

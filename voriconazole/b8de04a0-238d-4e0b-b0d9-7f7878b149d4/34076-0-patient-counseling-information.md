@@ -2,7 +2,7 @@
 
 Voriconazole
 
-(voriconazole tablets)
+(voriconazole tablets, liquid)
 
 Read the Patient Information that comes with voriconazole before you start taking it and each time you get a refill.
 There may be new information.
@@ -67,8 +67,10 @@ How should I take voriconazole?
 
 - Voriconazole may be prescribed to you as:
   - Voriconazole tablets
-- Take voriconazole tablets exactly as your healthcare provider tells you to.
-- Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.
+- Take voriconazole tablets or oral suspension exactly as your healthcare provider tells you to.
+- Take voriconazole tablets or oral suspension at least 1 hour before or at least 1 hour after meals.
+- Voriconazole oral suspension will be mixed for you by your pharmacist.
+  Do not mix voriconazole oral suspension with any other medicine, flavored liquid, or syrup.
 - If you take too much voriconazole, call your healthcare provider or go to the nearest hospital emergency room.
 
 What should I avoid while taking voriconazole?
@@ -145,9 +147,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store voriconazole?
 
-- Store voriconazole tablets at room temperature, 59° to 86° F (15° to 30°C).
+- Store voriconazole tablets and liquid at room temperature, 59° to 86° F (15° to 30°C).
   Do not refrigerate or freeze.
-- Keep voriconazole tablets in a tightly closed container.
+- Voriconazole suspension should be thrown away (discarded) after 14 days.
+- Keep voriconazole tablets and oral suspension in a tightly closed container.
 - Safely throw away medicine that is out of date or no longer needed.
 - Keep voriconazole, as well as all other medicines, out of the reach of children.
 
@@ -169,3 +172,5 @@ Active ingredient: voriconazole
 Inactive ingredients:
 
 Voriconazole tablets: lactose monohydrate, pregelatinized starch, croscarmellose sodium, povidone, magnesium stearate, and a coating containing hypromellose, titanium dioxide, lactose monohydrate, and triacetin
+
+Voriconazole oral suspension: colloidal silicon dioxide, titanium dioxide, xanthan gum, sodium citrate dihydrate, sodium benzoate, anhydrous citric acid, natural orange flavor, and sucrose

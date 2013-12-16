@@ -15,7 +15,7 @@ Liver dysfunction has usually been reversible on discontinuation of therapy [see
 Monitoring of hepatic function: Liver function tests should be evaluated at the start of and during the course of voriconazole therapy.
 Patients who develop abnormal liver function tests during voriconazole therapy should be monitored for the development of more severe hepatic injury.
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
-Discontinuation of voriconazole must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to voriconazole [see Warnings and Precautions (5.9), Dosage and Administration (2.3, 2.4), and Adverse Reactions (6.3)].
+Discontinuation of voriconazole must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to voriconazole [see Warnings and Precautions (5.9), Dosage and Administration (2.3, 2.5), and Adverse Reactions (6.3)].
 
 ## 5.3 Visual Disturbances
 
@@ -60,7 +60,7 @@ Patient management should include laboratory evaluation of renal (particularly s
 
 ## 5.9 Patients With Hepatic Impairment
 
-It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) receiving voriconazole [see Clinical Pharmacology (12.3), and Dosage and Administration (2.4)].
+It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) receiving voriconazole [see Clinical Pharmacology (12.3), and Dosage and Administration (2.5)].
 
 Voriconazole has not been studied in patients with severe cirrhosis (Child-Pugh Class C). Voriconazole has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic insufficiency if the benefit outweighs the potential risk.
 Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
@@ -69,7 +69,7 @@ Patients with hepatic insufficiency must be carefully monitored for drug toxicit
 
 In patients with moderate to severe renal dysfunction (creatinine clearance <50 mL/min), accumulation of the intravenous vehicle, SBECD, occurs.
 Oral voriconazole should be administered to these patients, unless an assessment of the benefit/risk to the patient justifies the use of intravenous voriconazole.
-Serum creatinine levels should be closely monitored in these patients, and if increases occur, consideration should be given to changing to oral voriconazole therapy [see Clinical Pharmacology (12.3), and Dosage and Administration (2.5)].
+Serum creatinine levels should be closely monitored in these patients, and if increases occur, consideration should be given to changing to oral voriconazole therapy [see Clinical Pharmacology (12.3), and Dosage and Administration (2.6)].
 
 ## 5.11 Monitoring of Renal Function
 
