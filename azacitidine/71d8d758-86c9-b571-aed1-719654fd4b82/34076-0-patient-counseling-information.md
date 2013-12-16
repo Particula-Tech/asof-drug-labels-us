@@ -10,7 +10,9 @@ Rx only
 
 Manufactured by:
 
-Cipla Ltd, Verna -Salcette
+Cipla Ltd,
+
+Verna -Salcette
 
 Goa – 403722, INDIA
 
@@ -21,3 +23,13 @@ Dr. Reddy’s Laboratories Limited
 Bachupally – 500 090 INDIA
 
 Issued: 0113
+
+OR
+
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
+
+Visakhapatnam - 530 046 INDIA
+
+Issued: 0913
