@@ -19,7 +19,7 @@ Infants born to women treated during pregnancy with oral erythromycin for early 
 
 ## Clostridium difficile Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ERY-TAB, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ERY-TAB®, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -46,7 +46,7 @@ Therefore, patients receiving concomitant lovastatin and erythromycin should be 
 
 ## General
 
-Prescribing ERY-TAB in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing ERY-TAB® in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function.
 (See CLINICAL PHARMACOLOGY and WARNINGS.)
@@ -55,7 +55,7 @@ Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myast
 
 There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
 In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis, seven neonates (5%) developed symptoms of non-bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy.
-A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8-14 days and 10% for infants who took erythromycin for 15-21 days.4 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
+A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8-14 days and 10% for infants who took erythromycin for 15-21 days.5 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
 Parents should be informed to contact their physician if vomiting or irritability with feeding occurs.
 
 Prolonged or repeated use of erythromycin may result in an overgrowth of nonsusceptible bacteria or fungi.
@@ -67,10 +67,10 @@ Observational studies in humans have reported cardiovascular malformations after
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including ERY-TAB should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including ERY-TAB® should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When ERY-TAB is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ERY-TAB or other antibacterial drugs in the future.
+When ERY-TAB® is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ERY-TAB® or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -189,11 +189,11 @@ Elderly patients may be more susceptible to development of torsades de pointes a
 Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin.
 (See PRECAUTIONS - Drug Interactions).
 
-Ery-Tab Delayed Release Tablets (250 mg) contain 8.3 mg (0.4 mEq) of sodium per tablet.
+Ery-Tab® Delayed Release Tablets (250 mg) contain 8.3 mg (0.4 mEq) of sodium per tablet.
 
-Ery-Tab Delayed Release Tablets (333 mg) contain 11.2 mg (0.5 mEq) of sodium per tablet.
+Ery-Tab® Delayed Release Tablets (333 mg) contain 11.2 mg (0.5 mEq) of sodium per tablet.
 
-Ery-Tab Delayed Release Tablets (500 mg) contain 16.7 mg (0.7 mEq) of sodium per tablet.
+Ery-Tab® Delayed Release Tablets (500 mg) contain 16.7 mg (0.7 mEq) of sodium per tablet.
 
 The geriatric population may respond with a blunted natriuresis to salt loading.
 This may be clinically important with regard to such diseases as congestive heart failure.
