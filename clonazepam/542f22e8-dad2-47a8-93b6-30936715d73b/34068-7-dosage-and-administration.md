@@ -1,11 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
-Clonazepam is available as a tablet or an orally disintegrating tablet (wafer).
+Clonazepam is available as a tablet.
 The tablets should be administered with water by swallowing the tablet whole.
-The orally disintegrating tablet should be administered as follows: After opening the pouch, peel back the foil on the blister.
-Do not push tablet through foil.
-Immediately upon opening the blister, using dry hands, remove the tablet and place it in the mouth.
-Tablet disintegration occurs rapidly in saliva so it can be easily swallowed with or without water.
 
 ## Seizure Disorders
 

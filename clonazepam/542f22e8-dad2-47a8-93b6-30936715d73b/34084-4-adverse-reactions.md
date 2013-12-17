@@ -70,9 +70,9 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Controlled Clinical TrialsEvents reported by at least 1% of patients treated with Klonopin and for which the incidence was greater than that for placebo.
 
-| Clonazepam Maximum Daily Dose |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
 | Adverse Event by Body System | <1mg n=96 % | 1-<2mg n=129 % | 2-<3mg n=113 % | ≥3mg n=235 % | All Klonopin Groups N=574 % | Placebo N=294 % |
+| --- | --- | --- | --- | --- | --- | --- |
+| Clonazepam Maximum Daily Dose |  |  |  |  |  |  |
 | Central & Peripheral Nervous System |  |  |  |  |  |  |
 | SomnolenceIndicates that the p-value for the dose-trend test (Cochran-Mantel-Haenszel) for adverse event incidence was ≤0.10. | 26 | 35 | 50 | 36 | 37 | 10 |
 | Dizziness | 5 | 5 | 12 | 8 | 8 | 4 |

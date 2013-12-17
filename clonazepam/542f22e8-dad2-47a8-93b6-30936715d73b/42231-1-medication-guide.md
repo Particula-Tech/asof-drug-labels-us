@@ -1,6 +1,8 @@
 # Medication Guide
 
-KLONOPIN® (KLON-oh-pin) (clonazepam) Tablets and Wafers CIV
+KLONOPIN® (KLON-oh-pin) (clonazepam) Tablets
+
+CIV
 
 Read this Medication Guide before you start taking KLONOPIN and each time you get a refill.
 There may be new information.
@@ -21,7 +23,13 @@ KLONOPIN can cause serious side effects, including:
   - Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking KLONOPIN until you talk to your healthcare provider.
     When taken with alcohol or drugs that cause sleepiness or dizziness, KLONOPIN may make your sleepiness or dizziness worse.
 - 2.Like other antiepileptic drugs, KLONOPIN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-  Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+  Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you: How can I watch for early symptoms of suicidal thoughts and actions?
+  Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+  Suicidal thoughts or actions can be caused by things other than medicines.
+  If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
+  Do not stop KLONOPIN without first talking to a healthcare provider.
+  Stopping KLONOPIN suddenly can cause serious problems.
+  Stopping KLONOPIN suddenly can cause seizures that will not stop (status epilepticus).
   - thoughts about suicide or dying
   - attempt to commit suicide
   - new or worse depression
@@ -33,15 +41,9 @@ KLONOPIN can cause serious side effects, including:
   - acting aggressive, being angry, or violent
   - acting on dangerous impulses
   - an extreme increase in activity and talking (mania)
-  - other unusual changes in behavior or mood How can I watch for early symptoms of suicidal thoughts and actions?
-    - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-    - Keep all follow-up visits with your healthcare provider as scheduled.
-      Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-      Suicidal thoughts or actions can be caused by things other than medicines.
-      If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
-      Do not stop KLONOPIN without first talking to a healthcare provider.
-      Stopping KLONOPIN suddenly can cause serious problems.
-      Stopping KLONOPIN suddenly can cause seizures that will not stop (status epilepticus).
+  - other unusual changes in behavior or mood
+  - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+  - Keep all follow-up visits with your healthcare provider as scheduled.
 - 3.KLONOPIN may harm your unborn or developing baby.
   - If you take KLONOPIN during pregnancy, your baby is at risk for serious birth defects.
     These defects can happen as early as in the first month of pregnancy, even before you know you are pregnant.
@@ -106,16 +108,10 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 How should I take KLONOPIN?
 
 - Take KLONOPIN exactly as your healthcare provider tells you.
-  KLONOPIN is available as a tablet or as an orally disintegrating tablet (wafer).
+  KLONOPIN is available as a tablet.
 - Do not stop taking KLONOPIN without first talking to your healthcare provider.
   Stopping KLONOPIN suddenly can cause serious problems.
 - KLONOPIN tablets should be taken with water and swallowed whole.
-- KLONOPIN wafers can be taken with or without water.
-  - Do not open the pouch until you are ready to take KLONOPIN.
-  - After opening the pouch, peel back the foil on the blister pack.
-  - Do not push the wafer through the foil.
-  - After opening the blister pack, with dry hands, take the wafer and place it in your mouth.
-  - The wafer will melt quickly.
 - If you take too much KLONOPIN, call your healthcare provider or local Poison Control Center right away.
 
 What should I avoid while taking KLONOPIN?
@@ -147,7 +143,7 @@ For more information, ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or Genentech at 1-888-835-2555.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store KLONOPIN?
 
@@ -178,20 +174,15 @@ Inactive ingredients:
   - 0.5 mg tablets contain lactose, magnesium stearate, microcrystalline cellulose, corn starch, FD&C Yellow No. 6 Lake
   - 1 mg tablets contain lactose, magnesium stearate, microcrystalline cellulose, corn starch, FD&C Blue No. 1 Lake and FD&C Blue No. 2 Lake
   - 2 mg tablets contain lactose, magnesium stearate, microcrystalline cellulose, corn starch
-- Wafers: gelatin, mannitol, methylparaben sodium, propylparaben sodium and xanthan gum
 
-MG Issued: August 2010
+Issued: December 2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Disbributed by:
+Distributed by:
 
 Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
-KNTW_54023_MG_062010_K
-
-© 2010 Genentech, Inc. All rights reserved.
+© 2013 Genentech, Inc. All rights reserved.
 
 For additional copies of this Medication Guide, please call 1-877-436-3683 or visit www.gene.com/gene/products/information/klonopin.
-
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
