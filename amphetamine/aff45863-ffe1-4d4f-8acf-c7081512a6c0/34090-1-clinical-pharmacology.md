@@ -26,7 +26,7 @@ On a mg/kg body weight basis, children have a higher clearance than adolescents 
 ADDERALL XR demonstrates linear pharmacokinetics over the dose range of 20 to 60 mg in adults and adolescents weighing greater than 75 kg/165 lbs, over the dose range of 10 to 40 mg in adolescents weighing less than or equal to 75 kg/165 lbs, and 5 to 30 mg in children aged 6 to 12 years.
 There is no unexpected accumulation at steady state in children.
 
-Food does not affect the extent of absorption of d-amphetamine and l-amphetamine, but prolongs Tmax by 2.5 hours (from 5.2 hrs at fasted state to 7.7 hrs after a high-fat meal) for d-amphetamine and 2.1 hours (from 5.6 hrs at fasted state to 7.7 hrs after a high fat meal) for l-amphetamine after administration of ADDERALL XR 30 mg.
+Food does not affect the extent of absorption of d-amphetamine and l-amphetamine, but prolongs Tmax by 2.5 hours (from 5.2 hrs at fasted state to 7.7 hrs after a high-fat meal) for d-amphetamine and 2.7 hours (from 5.6 hrs at fasted state to 8.3 hrs after a high fat meal) for l-amphetamine after administration of ADDERALL XR 30 mg.
 Opening the capsule and sprinkling the contents on applesauce results in comparable absorption to the intact capsule taken in the fasted state.
 Equal doses of ADDERALL XR strengths are bioequivalent.
 
@@ -47,7 +47,7 @@ Since amphetamine has a pKa of 9.9, urinary recovery of amphetamine is highly de
 Alkaline urine pHs result in less ionization and reduced renal elimination, and acidic pHs and high flow rates result in increased renal elimination with clearances greater than glomerular filtration rates, indicating the involvement of active secretion.
 Urinary recovery of amphetamine has been reported to range from 1% to 75%, depending on urinary pH, with the remaining fraction of the dose hepatically metabolized.
 Consequently, both hepatic and renal dysfunction have the potential to inhibit the elimination of amphetamine and result in prolonged exposures.
-In addition, drugs that effect urinary pH are known to alter the elimination of amphetamine, and any decrease in amphetamine's metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased, [see DRUG INTERACTIONS (7)].
+In addition, drugs that effect urinary pH are known to alter the elimination of amphetamine, and any decrease in amphetamine's metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased [see DRUG INTERACTIONS (7)].
 
 Special Populations
 

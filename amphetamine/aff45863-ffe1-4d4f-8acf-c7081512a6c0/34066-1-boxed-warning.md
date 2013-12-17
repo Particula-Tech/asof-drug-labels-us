@@ -1,4 +1,4 @@
-WARNING: POTENTIAL FOR ABUSE
+# WARNING: POTENTIAL FOR ABUSE
 
 Amphetamines have a high potential for abuse.
 Administration of amphetamines for prolonged periods of time may lead to drug dependence.

@@ -64,11 +64,11 @@ Chronic use of amphetamines can be expected to cause a similar suppression of gr
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in the absence of seizures, and very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, ADDERALL XR should be discontinued.
 
-## 5.5 Peripheral Vasculopathy, including Raynaud’s phenomenon
+## 5.5 Peripheral Vasculopathy, including Raynaud's phenomenon
 
-Stimulants, including ADDERALL XR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+Stimulants, including ADDERALL XR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.

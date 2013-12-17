@@ -38,7 +38,7 @@ Table 1 Adverse Reactions Reported by 2% or More of Children (6-12 Years Old) Re
 | --- | --- | --- | --- |
 | General | Abdominal Pain (stomachache) Fever Infection Accidental Injury Asthenia (fatigue) | 14% 5% 4% 3% 2% | 10% 2% 2% 2% 0% |
 | Digestive System | Loss of Appetite Vomiting Nausea Dyspepsia | 22% 7% 5% 2% | 2% 4% 3% 1% |
-| Nervous System | Insomnia Emotional Lability Nervousness Dizziness | 17% 9% 6% 2% | 2% 2% 2% 0%a |
+| Nervous System | Insomnia Emotional Lability Nervousness Dizziness | 17% 9% 6% 2% | 2% 2% 2% 0% |
 | Metabolic/Nutritional | Weight Loss | 4% | 0% |
 
 Table 2 Adverse Reactions Reported by 5% or More of Adolescents (13-17 Years Old) Weighing ≤ 75 kg/165 lbs Receiving ADDERALL XR with Higher Incidence Than Placebo in a 287 Patient Clinical Forced Weekly-Dose Titration Study*
@@ -84,7 +84,7 @@ There have been isolated reports of cardiomyopathy associated with chronic amphe
 
 Central Nervous System
 
-Psychotic episodes at recommended doses, overstimulation, restlessness, irritability, euphoria, dyskinesia, dysphoria, depression, tremor, tics, aggression, anger, logorrhea, dermatillomania, paresthesia (including formication).
+Psychotic episodes at recommended doses, overstimulation, restlessness, irritability, euphoria, dyskinesia, dysphoria, depression, tremor, tics, aggression, anger, logorrhea, dermatillomania, paresthesia (including formication), and bruxism.
 
 Eye Disorders
 
@@ -101,7 +101,7 @@ Serious skin rashes, including Stevens-Johnson Syndrome and toxic epidermal necr
 
 Endocrine
 
-Impotence, changes in libido.
+Impotence, changes in libido, frequent or prolonged erections.
 
 Skin
 
@@ -109,4 +109,4 @@ Alopecia.
 
 Vascular Disorders
 
-Raynaud’s phenomenon.
+Raynaud's phenomenon.

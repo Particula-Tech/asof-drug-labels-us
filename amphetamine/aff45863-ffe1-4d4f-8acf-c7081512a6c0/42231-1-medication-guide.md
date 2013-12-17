@@ -10,14 +10,14 @@ The following have been reported with use of stimulant medicines.
 1.
 Heart-related problems: • sudden death in patients who have heart problems or heart defects • stroke and heart attack in adults • increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
 Your doctor should check you or your child carefully for heart problems before starting ADDERALL XR.
-Your doctor should check you or your child"s blood pressure and heart rate regularly during treatment with ADDERALL XR.
+Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with ADDERALL XR.
 Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking ADDERALL XR.
 2.
 Mental (Psychiatric) problems: All Patients • new or worse behavior and thought problems • new or worse bipolar illness • new or worse aggressive behavior or hostility Children and Teenagers • new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
 Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking ADDERALL XR, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
 
 3.
-Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]:
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]:
 
 • Fingers or toes may feel numb, cool, painful • Fingers or toes may change from pale, to blue, to red
 
@@ -27,7 +27,7 @@ Call your doctor right away if you have or your child has any unexplained wounds
 
 What Is ADDERALL XR?
 
-ADDERALL XR is a once daily central nervous system stimulantprescription medicine.
+ADDERALL XR is a once daily central nervous system stimulant prescription medicine.
 It is used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
 ADDERALL XR may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
 
@@ -169,5 +169,5 @@ The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2.
 The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide
 
 Manufactured for Shire US Inc., Wayne, PA 19087.
-ADDERALL XR is registered in the US Patent and Trademark Office © 2013 Shire US Inc Rev.
-06/2013 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+ADDERALL XR® is a registered trademark of Shire LLC © 2013 Shire US Inc Rev.
+12/2013 This Medication Guide has been approved by the U.S. Food and Drug Administration.

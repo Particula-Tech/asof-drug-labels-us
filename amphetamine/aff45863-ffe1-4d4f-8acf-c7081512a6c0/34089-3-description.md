@@ -4,7 +4,7 @@ ADDERALL XR is a once daily extended-release, single-entity amphetamine product.
 ADDERALL XR combines the neutral sulfate salts of dextroamphetamine and amphetamine, with the dextro isomer of amphetamine saccharate and d,l-amphetamine aspartate monohydrate.
 The ADDERALL XR capsule contains two types of drug-containing beads designed to give a double-pulsed delivery of amphetamines, which prolongs the release of amphetamine from ADDERALL XR compared to the conventional ADDERALL (immediate-release) tablet formulation.
 
-| Each capsule contains: | 5 mg | 10 mg | 15 mg | 20 mg | 25 mg | 30mg |
+| Each capsule contains: | 5 mg | 10 mg | 15 mg | 20 mg | 25 mg | 30 mg |
 | --- | --- | --- | --- | --- | --- | --- |
 | Dextroamphetamine Saccharate | 1.25 mg | 2.5 mg | 3.75 mg | 5.0 mg | 6.25 mg | 7.5 mg |
 | Amphetamine Aspartate Monohydrate | 1.25 mg | 2.5 mg | 3.75 mg | 5.0 mg | 6.25 mg | 7.5 mg |

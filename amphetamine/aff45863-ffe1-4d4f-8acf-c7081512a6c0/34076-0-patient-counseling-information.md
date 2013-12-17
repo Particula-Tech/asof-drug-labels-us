@@ -25,9 +25,9 @@ Prior to initiating treatment with ADDERALL XR, adequately screen patients with 
 Such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and/or depression.
 Additionally, ADDERALL XR therapy at usual doses may cause treatment-emergent psychotic or manic symptoms in patients without prior history of psychotic symptoms or mania [see WARNINGS AND PRECAUTIONS (5.2)].
 
-## 17.5 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
+## 17.5 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]
 
-Instruct patients beginning treatment with ADDERALL XR about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+Instruct patients beginning treatment with ADDERALL XR about the risk of peripheral vasculopathy, including Raynaud's Phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking ADDERALL XR.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients [see WARNINGS AND PRECAUTIONS (5.5)].
@@ -55,11 +55,11 @@ For more information call 1-800-828-2088
 
 Pharmacist: Medication Guide to be dispensed to patients
 
-ADDERALL XR® is registered in the US Patent and Trademark Office
+ADDERALL XR® is a registered trademark of Shire LLC
 
 ADDERALL® is a registered trademark of Shire LLC, under license to Duramed Pharmaceuticals, Inc.
 
-Copyright© 2013, Shire US Inc.
+Copyright© 2013 Shire US Inc.
 
 Rev.
-06/2013
+12/2013
