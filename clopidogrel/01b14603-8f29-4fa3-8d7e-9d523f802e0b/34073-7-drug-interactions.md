@@ -23,3 +23,7 @@ Coadministration of Plavix and NSAIDs increases the risk of gastrointestinal ble
 Although the administration of clopidogrel 75 mg per day did not modify the pharmacokinetics of S-warfarin (a CYP2C9 substrate) or INR in patients receiving long-term warfarin therapy, coadministration of Plavix with warfarin increases the risk of bleeding because of independent effects on hemostasis.
 
 However, at high concentrations in vitro, clopidogrel inhibits CYP2C9.
+
+## 7.4 SSRIs and SNRIs
+
+Since selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) affect platelet activation, the concomitant administration of SSRIs and SNRIs with clopidogrel may increase the risk of bleeding.

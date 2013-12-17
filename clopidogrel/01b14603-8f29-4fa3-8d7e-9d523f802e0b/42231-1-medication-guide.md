@@ -28,7 +28,7 @@ Call your doctor right away if you have any of these signs or symptoms of bleedi
 - vomit blood or your vomit looks like coffee grounds
 
 Do not stop taking Plavix without talking to the doctor who prescribes it for you.
-People who are treated with a stent, and stop taking Plavix too soon, have a higher risk of getting a blood clot on the stent, having a heart attack, or dying.
+People who stop taking Plavix too soon have a higher risk of having a heart attack or dying.
 If you must stop Plavix because of bleeding, your risk of a heart attack may be higher.
 
 What is Plavix?
@@ -87,6 +87,8 @@ Especially tell your doctor if you take:
 - Non-steroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
 - warfarin (Coumadin®, Jantoven®)
+- selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
+  Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.
