@@ -2,7 +2,7 @@
 
 Hydrochloro­thiazide is the 3,4-dihydro derivative of chlorothiazide.
 Its chemical name is 6-Chloro-3,4-dihydro-2H-1,2,4-benzothiadiazine-7-sulfonamide 1,1-dioxide.
-Its empirical formula is C7H8ClN3O4S2; its molecular weight is 297.74; and its structural formula is:
+Its molecular formula is C7H8ClN3O4S2; its molecular weight is 297.74; and its structural formula is:
 
 It is a white, or practically white, crystalline powder which is slightly soluble in water, but freely soluble in sodium hydroxide solution.
 Hydrochloro­thiazide is supplied as 12.5 mg capsules for oral use.
