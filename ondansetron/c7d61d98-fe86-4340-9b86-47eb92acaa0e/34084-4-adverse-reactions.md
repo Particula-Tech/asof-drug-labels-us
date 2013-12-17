@@ -115,7 +115,7 @@ Oculogyric crisis, appearing alone, as well as with other dystonic reactions
 
 ### Skin
 
-Urticaria, toxic skin eruption, including toxic epidermal necrolysis
+Urticaria, Stevens-Johnson syndrome, and toxic epidermal necrolysis
 
 ### Special Senses
 

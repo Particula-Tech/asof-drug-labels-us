@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-The active ingredient in ZOFRAN Tablets and ZOFRAN Oral Solution is ondansetron hydrochloride (HCl) as the dihydrate, the racemic form of ondansetron and a selective blocking agent of the serotonin 5-HT3 receptor type.
+The active ingredient in ZOFRAN® Tablets and ZOFRAN® Oral Solution is ondansetron hydrochloride (HCl) as the dihydrate, the racemic form of ondansetron and a selective blocking agent of the serotonin 5-HT3 receptor type.
 Chemically it is (±) 1, 2, 3, 9-tetrahydro-9-methyl-3-[(2-methyl-1H-imidazol-1-yl)methyl]-4H-carbazol-4-one, monohydrochloride, dihydrate.
 It has the following structural formula:
 
@@ -8,7 +8,7 @@ The empirical formula is C18H19N3O•HCl•2H2O, representing a molecular weight
 
 Ondansetron HCl dihydrate is a white to off-white powder that is soluble in water and normal saline.
 
-The active ingredient in ZOFRAN ODT Orally Disintegrating Tablets is ondansetron base, the racemic form of ondansetron, and a selective blocking agent of the serotonin 5-HT3 receptor type.
+The active ingredient in ZOFRAN ODT® Orally Disintegrating Tablets is ondansetron base, the racemic form of ondansetron, and a selective blocking agent of the serotonin 5-HT3 receptor type.
 Chemically it is (±) 1, 2, 3, 9-tetrahydro-9-methyl-3-[(2-methyl-1H-imidazol-1-yl)methyl]-4H-carbazol-4-one.
 It has the following structural formula:
 

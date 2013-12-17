@@ -38,6 +38,6 @@ Blagrove, Swindon, Wiltshire, UK SN5 8RU
 ©2013, GlaxoSmithKline.
 All rights reserved.
 
-August 2013
+December 2013
 
 ZFT:5PI
