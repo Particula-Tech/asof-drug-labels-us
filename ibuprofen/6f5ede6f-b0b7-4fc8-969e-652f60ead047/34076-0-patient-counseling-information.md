@@ -21,10 +21,10 @@ Patients’ caregivers should be informed that the infants’ blood will be test
 
 Patients’ caregivers should be informed that the infants’ skin and tissues will be monitored as leakage from administration may be irritating to tissue.
 
-Manufactured by: AAIPharma Services Charleston, SC 29405, U.S.A.
+Manufactured by: AAIPharma Services, Charleston, SC 29405, U.S.A.
 
-For: Recordati Rare Diseases Inc. Lebanon, NJ 08833, U.S.A.
+For: Recordati Rare Diseases Inc., Lebanon, NJ 08833, U.S.A.
 
 RECORDATI RARE DISEASES GROUP
 
-®Trademark of Recordati Rare Diseases Inc. Revised: February 2013 PC-4477B
+® Trademark of Recordati Rare Diseases Inc. Revised: December 2013 PC4477

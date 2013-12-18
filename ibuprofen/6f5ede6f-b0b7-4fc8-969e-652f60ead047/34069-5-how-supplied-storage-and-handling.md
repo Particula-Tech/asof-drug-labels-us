@@ -9,6 +9,6 @@ NeoProfen is supplied in a carton containing 3 single-use vials.
 
 Storage and Handling
 
-Store at 20-25ºC (68-77ºF); excursions permitted 15-30ºC (59- 86ºF) [see USP Controlled Room Temperature].
+Store at 20 – 25°C (68 – 77°F); excursions permitted 15 – 30°C (59 – 86°F) [see USP Controlled Room Temperature].
 Protect from light.
 Store vials in carton until contents have been used.

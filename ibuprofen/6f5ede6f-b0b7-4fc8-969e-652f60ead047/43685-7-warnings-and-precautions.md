@@ -19,7 +19,7 @@ This effect may be exaggerated in patients with underlying hemostatic defects (s
 
 ## 5.4 Bilirubin Displacement
 
-Ibuprofen has been shown to displace bilirubin from albumin bindingsites; therefore, it should be used with caution in patients with elevated total bilirubin.
+Ibuprofen has been shown to displace bilirubin from albumin binding-sites; therefore, it should be used with caution in patients with elevated total bilirubin.
 
 ## 5.5 Administration
 

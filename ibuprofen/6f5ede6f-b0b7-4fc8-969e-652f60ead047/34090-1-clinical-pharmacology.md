@@ -12,8 +12,8 @@ Infants were less than 30 weeks gestational age, weighed between 500 and 1000 g,
 Dosing was initially 10 mg/kg followed by 5 mg/kg at 24 and 48 hours.
 
 The population average clearance and volume of distribution values of racemic ibuprofen for premature infants at birth were 3 mL/kg/h and 320 mL/kg, respectively.
-Clearance increased rapidly with postnatal age (an average increase of approximately 0.5 mL/kg/h per day).
-Interindividual variability in clearance and volume of distribution were 55% and 14%, respectively.
+Clearance increased rapidly with post-natal age (an average increase of approximately 0.5 mL/kg/h per day).
+Inter-individual variability in clearance and volume of distribution were 55% and 14%, respectively.
 In general, the half-life in infants is more than 10 times longer than in adults.
 
 The metabolism and excretion of ibuprofen in premature infants have not been studied.

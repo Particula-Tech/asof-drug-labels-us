@@ -13,6 +13,9 @@ If during continued medical management the ductus arteriosus fails to close or r
 
 For intravenous administration only.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+Do not use NeoProfen if particulate matter is observed.
+
+After the first withdrawal from the vial, any solution remaining must be discarded because NeoProfen contains no preservative.
 
 For administration, NeoProfen should be diluted to an appropriate volume with dextrose or saline.
 NeoProfen should be prepared for infusion and administered within 30 minutes of preparation and infused continuously over a period of 15 minutes.
