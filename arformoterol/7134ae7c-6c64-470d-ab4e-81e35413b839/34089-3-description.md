@@ -1,7 +1,6 @@
 # 11 DESCRIPTION
 
 BROVANA (arformoterol tartrate) Inhalation Solution is a sterile, clear, colorless, aqueous solution of the tartrate salt of arformoterol, the (R,R)-enantiomer of formoterol.
-
 Arformoterol is a selective beta2-adrenergic bronchodilator.
 The chemical name for arformoterol tartrate is formamide, N-[2-hydroxy-5-[(1R)-1-hydroxy-2-[[(1R)-2-(4-methoxyphenyl)-1-methylethyl]amino]ethyl]phenyl]-, (2R,3R)-2,3-dihydroxybutanedioate (1:1 salt), and its established structural formula is as follows:
 

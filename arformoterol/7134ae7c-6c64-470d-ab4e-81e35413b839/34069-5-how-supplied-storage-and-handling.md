@@ -4,6 +4,7 @@ BROVANA (arformoterol tartrate) Inhalation Solution is supplied in a single stre
 BROVANA Inhalation Solution is available in a shelf-carton containing 30 or 60 unit-dose vials.
 
 NDC 63402-911-30: carton of 30 individually pouched unit-dose vials.
+
 NDC 63402-911-64: carton of 60 unit-dose vials (15×4 unit-dose vial pouches).
 
 Storage and Handling

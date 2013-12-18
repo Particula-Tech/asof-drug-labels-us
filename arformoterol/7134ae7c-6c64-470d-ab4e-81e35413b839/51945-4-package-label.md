@@ -2,8 +2,6 @@ PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 60 VIAL CARTON
 
 NDC 63402-911-64
 
-15 mcg
-
 KEEP REFRIGERATED OR STORE AT ROOM TEMPERATURE FOR UP TO 6 WEEKS.
 
 Brovana®
@@ -16,15 +14,13 @@ Inhalation Solution
 
 * Potency expressed as arformoterol
 
+For Oral Inhalation Only.
+
+Rx Only
+
 ATTENTION DISPENSER: Each patient is required to receive the enclosed Medication Guide, also provided at www.Brovana.com or 1-888-394-7377.
 
 SUNOVION
-
-For Oral Inhalation Only.
-
-Rx Only Keep out of reach of children
-
-60 x 2 mL Sterile Unit-Dose Vials
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 4 VIAL POUCH
 
