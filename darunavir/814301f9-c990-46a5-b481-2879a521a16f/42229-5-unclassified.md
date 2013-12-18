@@ -1,4 +1,4 @@
-Manufactured by: PREZISTA oral suspension Janssen Pharmaceutica, N.V.
+Product of Ireland Manufactured by: PREZISTA oral suspension Janssen Pharmaceutica, N.V.
 Beerse, Belgium
 
 PREZISTA tablets Janssen Ortho LLC, Gurabo, PR 00778
@@ -50,11 +50,11 @@ Keep PREZISTA and all medicines out of the reach of children.
 
 This Instruction for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Janssen Pharmaceutica, N.V.
+Product of Ireland Manufactured by: Janssen Pharmaceutica, N.V.
 Beerse, Belgium
 
 Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
 
 © Janssen Pharmaceuticals, Inc. 2006
 
-Revised: April 2013
+Revised: December 2013

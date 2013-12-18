@@ -255,7 +255,7 @@ The film coating contains: OPADRY® Dark Red (iron oxide red, polyethylene glyco
 
 This Patient Information has been approved by the U.S Food and Drug Administration.
 
-Manufactured by: PREZISTA Oral Suspension Janssen Pharmaceutica, N.V.
+Product of Ireland Manufactured by: PREZISTA Oral Suspension Janssen Pharmaceutica, N.V.
 Beerse, Belgium
 
 PREZISTA Tablets Janssen Ortho LLC, Gurabo, PR 00778
@@ -268,4 +268,4 @@ PREZISTA® is a registered trademark of Janssen Pharmaceuticals
 
 © Janssen Pharmaceuticals, Inc. 2006
 
-Revised: November 2013
+Revised: December 2013
