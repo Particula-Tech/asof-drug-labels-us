@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204671"
+  ],
+  "inn": "sofosbuvir",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-1501-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sofosbuvir",
+      "name": "Sovaldi"
+    }
+  ],
+  "setid": "80beab2c-396e-4a37-a4dc-40fdb62859cf",
+  "source": "dailymed"
+}
