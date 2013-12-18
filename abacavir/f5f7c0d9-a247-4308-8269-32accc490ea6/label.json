@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA202912"
+  ],
+  "inn": "abacavir",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-286-01",
+    "68180-286-02",
+    "68180-286-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "abacavir sulfate, lamivudine and zidovudine",
+      "name": "ABACAVIR SULFATE, LAMIVUDINE AND ZIDOVUDINE"
+    }
+  ],
+  "setid": "f5f7c0d9-a247-4308-8269-32accc490ea6",
+  "source": "dailymed"
+}
