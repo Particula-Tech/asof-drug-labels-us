@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Information for Patients
+## Information for Patients
 
 (see Patient Package Insert)
 
@@ -36,4 +36,4 @@ Fever and Neutropenia
 
 Patients who develop a fever of 100.5°F or greater or other evidence of potential infection should be instructed to call their physician.
 
-## 17.2 Patient Package Insert
+## Patient Package Insert
