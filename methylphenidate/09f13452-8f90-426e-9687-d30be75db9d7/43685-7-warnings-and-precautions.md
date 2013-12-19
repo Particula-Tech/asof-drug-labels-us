@@ -41,6 +41,12 @@ Although there is no systematic evidence that stimulants cause aggressive behavi
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
+## Priapism
+
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products in both pediatric and adult patients.
+Priapism was not reported with drug initiation but developed after some time on the drug, often subsequent to an increase in dose.
+Priapism has also appeared during a period of drug withdrawal (drug holidays or discontinuation): Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
+
 ## Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
 Stimulants, including Methylin, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
@@ -98,6 +104,11 @@ If you experience chest pain, vomiting, or difficulty in swallowing or breathing
 Directions – Take this product (child or adult dose) with at least 8 ounces (a full glass) of water or other fluid.
 Taking this product without enough liquid may cause choking.
 See choking warning.
+
+Priapism
+
+Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
+Instruct the patient to seek immediate medical attention in the event of priapism.
 
 Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, Including Raynaud’s Phenomenon]
 
