@@ -2,13 +2,13 @@
 
 Methylin Oral Solution 5 mg per 5 mL is available as a colorless, grape flavored liquid.
 
-- Bottles of 500 mL........
-  NDC 59630-750-50
+Bottles of 500 mL........
+NDC 59630-750-50
 
 Methylin Oral Solution 10 mg per 5 mL is available as a colorless, grape flavored liquid.
 
-- Bottles of 500 mL........
-  NDC 59630-755-50
+Bottles of 500 mL........
+NDC 59630-755-50
 
 Dispense in tight container with child-resistant closure.
 
@@ -22,4 +22,4 @@ Distributed by: Shionogi Inc. Florham Park, NJ 07932
 
 Manufactured by: Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-MOS-PI-02 L20M21 Rev 04/2013
+MOS-PI-04 L20M21 Rev 12/2013
