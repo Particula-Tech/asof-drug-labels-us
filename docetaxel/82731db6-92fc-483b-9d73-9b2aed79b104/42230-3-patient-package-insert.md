@@ -1,6 +1,4 @@
-Patient Information
-
-TAXOTERE (pronounced as TAX-O-TEER) (generic name = docetaxel)
+Patient Information TAXOTERE (TAX-O-TEER) (docetaxel) Injection Concentrate Intravenous Infusion
 
 Read this Patient Information before you receive your first treatment with TAXOTERE and each time before you are treated.
 There may be new information.
@@ -44,11 +42,11 @@ TAXOTERE is a prescription anti-cancer medicine used to treat certain people wit
 - stomach cancer
 - head and neck cancer
 
-The effectiveness of TAXOTERE in children has not been established.
+It is not known if TAXOTERE is effective in children.
 
-Who should not take TAXOTERE?
+Who should not receive TAXOTERE?
 
-Do not take TAXOTERE if you:
+Do not receive TAXOTERE if you:
 
 - have had a severe allergic reaction to: See "What is the most important information I should know about TAXOTERE?" for the signs and symptoms of a severe allergic reaction.
   - docetaxel, the active ingredient in TAXOTERE, or
@@ -61,21 +59,21 @@ What should I tell my doctor before receiving TAXOTERE?
 Before you receive TAXOTERE, tell your doctor if you:
 
 - are allergic to any medicines.
-  See "Who should not take TAXOTERE?"
-  Also, see the end of this leaflet for a list of the ingredients in TAXOTERE.
+  See "Who should not receive TAXOTERE?"
+  Also, see the end of this leaflet for a complete list of the ingredients in TAXOTERE.
 - have liver problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
   TAXOTERE can harm your unborn baby.
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   It is not known if TAXOTERE passes into your breast milk.
-  You and your doctor should decide if you will take TAXOTERE or breast-feed.
+  You and your doctor should decide if you will receive TAXOTERE or breastfeed.
 
-Tell your doctor about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 TAXOTERE may affect the way other medicines work, and other medicines may affect the way TAXOTERE works.
 
 Know the medicines you take.
-Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
 How will I receive TAXOTERE?
 
@@ -83,7 +81,7 @@ How will I receive TAXOTERE?
 - TAXOTERE is usually given every 3 weeks.
 - Your doctor will decide how long you will receive treatment with TAXOTERE.
 - Your doctor will check your blood cell counts and other blood tests during your treatment with TAXOTERE to check for side effects of TAXOTERE.
-- Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while taking TAXOTERE.
+- Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while receiving TAXOTERE.
 
 What are the possible side effects of TAXOTERE?
 
@@ -91,10 +89,11 @@ TAXOTERE may cause serious side effects including death.
 
 - See "What is the most important information I should know about TAXOTERE?"
 - Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who take TAXOTERE along with certain other medicines.
-  Tell your doctor about all the medicines you take.
-- Other Blood Disorders – Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Taxotere.
+- Other Blood Disorders.
+  Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with TAXOTERE.
 - Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
 - Neurologic Symptoms including numbness, tingling, or burning in your hands and feet.
+- Vision Problems including blurred vision or loss of vision.
 
 The most common side effects of TAXOTERE include:
 
@@ -128,9 +127,9 @@ General information about TAXOTERE
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 This Patient Information leaflet summarizes the most important information about TAXOTERE.
 If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about TAXOTERE that is written for healthcare professionals.
+You can ask your pharmacist or doctor for information about TAXOTERE that is written for health professionals.
 
-For more information contact 1-800-633-1610
+For more information, call 1-800-633-1610.
 
 What are the ingredients in TAXOTERE?
 
@@ -143,7 +142,7 @@ Inactive ingredients include: ethanol and polysorbate 80
 | Take your oral corticosteroid medicine as your doctor tells you. |
 | Oral corticosteroid dosing: |
 | Day 1 Date:_________ Time: ______ AM _______ PM |
-| Day 2 Date:_________ Time: ______ AM _______ PM (Taxotere Treatment Day) |
+| Day 2 Date:_________ Time: ______ AM _______ PM (TAXOTERE Treatment Day) |
 | Day 3 Date:_________ Time: ______ AM _______ PM |
 
 | Every three-week injection of TAXOTERE for prostate cancer |
@@ -151,5 +150,7 @@ Inactive ingredients include: ethanol and polysorbate 80
 | Take your oral corticosteroid medicine as your doctor tells you. |
 | Oral corticosteroid dosing: |
 | Date: _________ Time: ___________ |
-| Date: _________ Time: ___________ (Taxotere Treatment Day) |
+| Date: _________ Time: ___________ (TAXOTERE Treatment Day) |
 | Time: ___________ |
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
