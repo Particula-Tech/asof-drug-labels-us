@@ -1,4 +1,6 @@
-# WARNING: BLEEDING RISK
+# WARNING: (A) BLEEDING RISK, (B) ASPIRIN DOSE AND BRILINTA EFFECTIVENESS
+
+A. BLEEDING RISK
 
 - •BRILINTA, like other antiplatelet agents, can cause significant, sometimes fatal bleeding (5.1, 6.1).
 - •Do not use BRILINTA in patients with active pathological bleeding or a history of intracranial hemorrhage (4.1, 4.2).
@@ -8,7 +10,7 @@
 - •If possible, manage bleeding without discontinuing BRILINTA.
   Stopping BRILINTA increases the risk of subsequent cardiovascular events (5.5).
 
-# WARNING: ASPIRIN DOSE AND BRILINTA EFFECTIVENESS
+B. ASPIRIN DOSE AND BRILINTA EFFECTIVENESS
 
-- •Maintenance doses of aspirin above 100 mg reduce the effectiveness of BRILINTA and should be avoided.
-  After any initial dose, use with aspirin 75-100 mg per day (5.2, 14).
+Maintenance doses of aspirin above 100 mg reduce the effectiveness of BRILINTA and should be avoided.
+After any initial dose, use with aspirin 75-100 mg per day (5.2, 14).

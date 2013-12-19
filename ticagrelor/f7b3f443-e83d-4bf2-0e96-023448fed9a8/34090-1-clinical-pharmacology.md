@@ -88,6 +88,7 @@ The effects of other drugs on the pharmacokinetics of ticagrelor are presented i
 Strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, and clarithromycin) substantially increase ticagrelor exposure.
 Moderate CYP3A inhibitors have lesser effects (e.g., diltiazem).
 CYP3A inducers (e.g., rifampin) substantially reduce ticagrelor blood levels.
+P-gp inhibitors (e.g. cyclosporine) increase ticagrelor exposure.
 
 Figure 5 - Effect of co-administered drugs on the pharmacokinetics of ticagrelor
 
@@ -97,7 +98,7 @@ Effects of BRILINTA on Other Drugs
 
 In vitro metabolism studies demonstrate that ticagrelor and its major active metabolite are weak inhibitors of CYP3A4, potential activators of CYP3A5 and inhibitors of the P-gp transporter.
 Ticagrelor and AR-C124910XX were shown to have no inhibitory effect on human CYP1A2, CYP2C19, and CYP2E1 activity.
-For specific in vivo effects on the pharmacokinetics of simvastatin, atorvastatin, ethinyl estradiol, levonorgesterol, tolbutamide, and digoxin, see Figure 6.
+For specific in vivo effects on the pharmacokinetics of simvastatin, atorvastatin, ethinyl estradiol, levonorgesterol, tolbutamide, digoxin and cyclosporine, see Figure 6.
 
 Figure 6 - Impact of BRILINTA on the pharmacokinetics of co-administered drugs
 

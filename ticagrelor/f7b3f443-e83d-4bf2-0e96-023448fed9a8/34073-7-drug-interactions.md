@@ -3,6 +3,7 @@
 Effects of other drugs
 
 Ticagrelor is predominantly metabolized by CYP3A4 and to a lesser extent by CYP3A5.
+Ticagrelor is also a p-glycoprotein (P-gp) substrate.
 
 ## 7.1 CYP3A inhibitors
 

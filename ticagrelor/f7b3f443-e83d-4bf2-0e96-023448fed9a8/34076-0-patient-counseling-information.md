@@ -33,7 +33,7 @@ Instruct patients to:
 
 Tell patients to list all prescription medications, over-the-counter medications or dietary supplements they are taking or plan to take so the physician knows about other treatments that may affect bleeding risk (e.g. warfarin, heparin).
 
-Issued: 08/2013
+Issued: 12/2013
 
 BRILINTA® is a trademark of the AstraZeneca group of companies.
 
