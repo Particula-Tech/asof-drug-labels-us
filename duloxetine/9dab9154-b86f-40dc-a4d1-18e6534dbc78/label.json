@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA090776"
+  ],
+  "inn": "duloxetine",
+  "labeler": "Actavis Elizabeth LLC",
+  "package_ndcs": [
+    "0228-2891-03",
+    "0228-2891-09",
+    "0228-2891-50",
+    "0228-2892-03",
+    "0228-2892-09",
+    "0228-2892-96",
+    "0228-2980-06",
+    "0228-2980-50"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "duloxetine",
+      "name": "Duloxetine"
+    }
+  ],
+  "setid": "9dab9154-b86f-40dc-a4d1-18e6534dbc78",
+  "source": "dailymed"
+}
