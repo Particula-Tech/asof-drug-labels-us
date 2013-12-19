@@ -19,16 +19,35 @@ In view of the potential for liver damage in long-term dantrolene sodium capsule
 
 ## Adults
 
-Begin therapy with 25 mg once daily; increase to 25 mg two, three or four times daily and then by increments of 25 mg up to as high as 100 mg two, three or four times daily if necessary.
-As most patients will respond to a dose of 400 mg/day or less, rarely should doses higher than 400 mg/day be used (see BOX WARNING.)
+The following gradual titration schedule is suggested.
+Some patients will not respond until higher daily dosage is achieved.
+Each dosage level should be maintained for seven days to determine the patient's response.
+If no further benefit is observed at the next higher dose, dosage should be decreased to the previous lower dose.
 
-Each dosage level should be maintained for four to seven days to determine the patient's response.
-The dose should not be increased beyond, and may even have to be reduced to, the amount at which the patient received maximal benefit without adverse effects.
+- 25 mg once daily for seven days, then
+- 25 mg t.i.d. for seven days
+- 50 mg t.i.d. for seven days
+- 100 mg t.i.d.
+
+Therapy with a dose four times daily may be necessary for some individuals.
+Doses higher than 100 mg four times daily should not be used.
+(See Box Warning.)
 
 ## Pediatric Patients
 
-A similar approach should be utilized starting with 0.5 mg/kg of body weight twice daily; this is increased to 0.5 mg/kg three or four times daily then by increments of 0.5 mg/kg up to as high as 3.0 mg/kg two, three or four times daily if necessary.
-Doses higher than 100 mg four times daily should not be used in children.
+The following gradual titration schedule is suggested.
+Some patients will not respond until higher daily dosage is achieved.
+Each dosage level should be maintained for seven days to determine the patient's response.
+If no further benefit is observed at the next higher dose, dosage should be decreased to the previous lower dose.
+
+- 0.5 mg/kg once daily for seven days, then
+- 0.5 mg/kg t.i.d. for seven days
+- 1 mg/kg t.i.d. for seven days
+- 2 mg/kg t.i.d.
+
+Therapy with a dose four times daily may be necessary for some individuals.
+Doses higher than 100 mg four times daily should not be used.
+(See Box Warning.)
 
 ## For Malignant Hyperthermia
 

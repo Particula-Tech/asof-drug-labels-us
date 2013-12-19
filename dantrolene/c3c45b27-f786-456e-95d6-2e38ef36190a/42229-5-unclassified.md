@@ -1,8 +1,8 @@
 Rx only
 
-Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124
+Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
 
 Rx only
 
-Rev.
-12/2009 373-03
+373-04 Rev.
+11/2013

@@ -6,6 +6,8 @@ Liver dysfunction as evidenced by blood chemical abnormalities alone (liver enzy
 Overt hepatitis has occurred at varying intervals after initiation of therapy, but has been most frequently observed between the third and twelfth month of therapy.
 The risk of hepatic injury appears to be greater in females, in patients over 35 years of age, and in patients taking other medication(s) in addition to dantrolene sodium.
 
+Spontaneous reports suggest a higher proportion of hepatic events with fatal outcome in elderly patients receiving dantrolene sodium.
+However, the majority of these cases were complicated with confounding factors such as intercurrent illnesses and/or concomitant potentially hepatotoxic medications (see Geriatric Use subsection).
 Dantrolene sodium should be used only in conjunction with appropriate monitoring of hepatic function including frequent determination of SGOT or SGPT.
 If no observable benefit is derived from the administration of dantrolene sodium after a total of 45 days, therapy should be discontinued.
 The lowest possible effective dose for the individual patient should be prescribed.

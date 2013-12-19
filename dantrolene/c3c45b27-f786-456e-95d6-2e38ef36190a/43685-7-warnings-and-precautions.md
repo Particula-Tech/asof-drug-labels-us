@@ -12,6 +12,7 @@ Some patients have revealed a return to normal laboratory values in the face of 
 
 If symptoms compatible with hepatitis, accompanied by abnormalities in liver function tests or jaundice appear, dantrolene sodium should be discontinued.
 If caused by dantrolene sodium and detected early, the abnormalities in liver function characteristically have reverted to normal when the drug was discontinued.
+
 Dantrolene sodium therapy has been reinstituted in a few patients who have developed clinical and/or laboratory evidence of hepatocellular injury.
 If such reinstitution of therapy is done, it should be attempted only in patients who clearly need dantrolene sodium and only after previous symptoms and laboratory abnormalities have cleared.
 The patient should be hospitalized and the drug should be restarted in very small and gradually increasing doses.
@@ -19,20 +20,41 @@ Laboratory monitoring should be frequent and the drug should be withdrawn immedi
 Some patients have reacted with unmistakable signs of liver abnormality upon administration of a challenge dose, while others have not.
 
 Dantrolene sodium should be used with particular caution in females and in patients over 35 years of age in view of apparent greater likelihood of drug-induced, potentially fatal, hepatocellular disease in these groups.
+Spontaneous reports suggest a higher proportion of hepatic events with fatal outcome in elderly patients receiving dantrolene sodium.
+However, the majority of these cases were complicated with confounding factors such as intercurrent illnesses and/or concomitant potentially hepatotoxic medications (see Geriatric Use subsection).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term safety of dantrolene sodium in humans has not been established.
 Chronic studies in rats, dogs, and monkeys at dosages greater than 30 mg/kg/day showed growth or weight depression and signs of hepatopathy and possible occlusion nephropathy, all of which were reversible upon cessation of treatment.
-Sprague-Dawley female rats fed dantrolene sodium for 18 months at dosage levels of 15, 30, and 60 mg/kg/day showed an increased incidence of benign and malignant mammary tumors compared with concurrent controls, and at the highest dosage, an increase in the incidence of hepatic lymphangiomas and hepatic angiosarcomas.
-These effects were not seen in 2½ year studies in Sprague-Dawley or Fischer 344 rats or in 2 year studies in mice of the HaM/ICR strain.
-Carcinogenicity in humans cannot be fully excluded, so that this possible risk of chronic administration must be weighed against the benefits of the drug (i.e. after a brief trial) for the individual patient.
+Sprague-Dawley female rats fed dantrolene sodium for 18 months at dosage levels of 15, 30, and 60 mg/kg/day showed an increased incidence of benign and malignant mammary tumors compared with concurrent controls.
+At the highest dose level, there was an increase in the incidence of benign lymphatic neoplasms.
+In a 30-month study at the same dose levels also in Sprague-Dawley rats, dantrolene sodium produced a decrease in the time of onset of mammary neoplasms.
+Female rats at the highest dose level showed an increased incidence of hepatic lymphangiomas and hepatic angiosarcomas.
+
+The only drug-related effect seen in a 30-month study in Fischer-344 rats was a dose-related reduction in the time of onset of mammary and testicular tumors.
+A 24-month study in HaM/ICR mice revealed no evidence of carcinogenic activity.
+Carcinogenicity in humans cannot be fully excluded, so that this possible risk of chronic administration must be weighed against the benefits of the drug (i.e., after a brief trial) for the individual patient.
+
+Dantrolene sodium has produced positive results in the Ames S. Typhimurium bacterial mutagenesis assay in the presence and absence of a liver activating system.
 
 ## Pregnancy
 
 ### Pregnancy Category C
 
-The safety of dantrolene sodium in women who are or may become pregnant has not been established; hence it should be given only when the potential benefits have been weighed against possible hazard to mother and child.
+Adequate animal reproduction studies have not been conducted with dantrolene sodium.
+It is also not known whether dantrolene sodium can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
+Dantrolene sodium should be given to a pregnant woman only if clearly needed.
+
+## Labor and Delivery
+
+In one non-randomized open-label study, 21 term pregnant patients received prophylactic oral dantrolene sodium 100 mg per day for 2 to 10 days prior to delivery.
+Dantrolene readily crossed the placenta with maternal and fetal whole blood levels approximately equal at delivery; neonatal levels then fell approximately 50% per day for 2 days before declining sharply.
+No neonatal respiratory and neuromuscular side effects were detected at low dose.
+More data, at higher doses, are needed before more definitive conclusions can be made.
+
+## Nursing Mothers
+
 Dantrolene sodium should not be used in nursing mothers.
 
 ## Usage in Pediatric Patients
@@ -40,14 +62,32 @@ Dantrolene sodium should not be used in nursing mothers.
 The long-term safety of dantrolene sodium in pediatric patients under the age of 5 years has not been established.
 Because of the possibility that adverse effects of the drug could become apparent only after many years, a benefit-risk consideration of the long-term use of dantrolene sodium is particularly important in pediatric patients.
 
+## Geriatric Use
+
+Clinical studies of dantrolene sodium did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience in the literature has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+As with all patients receiving dantrolene sodium, it is recommended that elderly patients receive the lowest dose compatible with the optimal response.
+Spontaneous reports suggest a higher proportion of hepatic events with fatal outcome in elderly patients receiving dantrolene sodium.
+However, the majority of these cases were complicated with confounding factors such as intercurrent illnesses and/or concomitant potentially hepatotoxic medications (for hepatotoxicity details and its management see Black Box and Warnings Sections).
+
 ## Drug Interactions
+
+Drowsiness may occur with dantrolene sodium therapy, and the concomitant administration of CNS depressants such as sedatives and tranquilizing agents may result in further drowsiness.
 
 While a definite drug interaction with estrogen therapy has not yet been established, caution should be observed if the two drugs are to be given concomitantly.
 Hepatotoxicity has occurred more often in women over 35 years of age receiving concomitant estrogen therapy.
 
+Cardiovascular collapse in patients treated simultaneously with verapamil and dantrolene sodium is rare.
+The combination of therapeutic doses of intravenous dantrolene sodium and verapamil in halothane/α-chloralose anesthetized swine has resulted in ventricular fibrillation and cardiovascular collapse in association with marked hyperkalemia.
+Until the relevance of these findings to humans is established, the combination of dantrolene sodium and calcium channel blockers is not recommended during the management of malignant hyperthermia.
+
+Administration of dantrolene sodium may potentiate vecuronium-induced neuromuscular block.
+
 # PRECAUTIONS
 
 Dantrolene sodium should be used with caution in patients with impaired pulmonary function, particularly those with obstructive pulmonary disease, and in patients with severely impaired cardiac function due to myocardial disease.
+Dantrolene sodium is associated with pleural effusion with associated eosinophilia.
 It should be used with caution in patients with a history of previous liver disease or dysfunction (see WARNINGS).
 
 ## Information for Patients
