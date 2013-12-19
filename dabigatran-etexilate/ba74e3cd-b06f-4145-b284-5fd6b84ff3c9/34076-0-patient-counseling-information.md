@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Instructions for Patients
 
@@ -12,6 +12,7 @@ See FDA-approved patient labeling (Medication Guide)
 - Instruct patient to remove only one capsule from the opened bottle at the time of use.
   The bottle should be immediately and tightly closed.
 - Advise patients not to chew or break the capsules before swallowing them and not to open the capsules and take the pellets alone.
+- Advise patients that the capsule should be taken with a full glass of water.
 
 ## 17.2 Bleeding
 
@@ -58,8 +59,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Copyright 2013 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-10 IT5060VD252013
+75461-11 IT5060XL112013
 
-75457-10 IT5400S
+75457-11 IT5400T
 
-301841-05 IT5624G
+301841-06 IT5624H

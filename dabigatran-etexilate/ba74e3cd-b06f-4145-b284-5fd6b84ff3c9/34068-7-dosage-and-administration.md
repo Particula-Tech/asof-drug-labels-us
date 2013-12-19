@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dose
 
-For patients with creatinine clearance (CrCl) >30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily, with or without food.
+For patients with creatinine clearance (CrCl) >30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily.
 For patients with severe renal impairment (CrCl 15-30 mL/min), the recommended dose of PRADAXA is 75 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 Dosing recommendations for patients with a CrCl <15 mL/min or on dialysis cannot be provided.
 
@@ -21,6 +21,7 @@ When necessary, use aPTT or ECT, and not INR, to assess for anticoagulant activi
 ## 2.3 Instructions to Patients
 
 Instruct patients to swallow the capsules whole.
+PRADAXA should be taken with a full glass of water.
 Breaking, chewing, or emptying the contents of the capsule can result in increased exposure [see Clinical Pharmacology (12.3)].
 
 If a dose of PRADAXA is not taken at the scheduled time, the dose should be taken as soon as possible on the same day; the missed dose should be skipped if it cannot be taken at least 6 hours before the next scheduled dose.

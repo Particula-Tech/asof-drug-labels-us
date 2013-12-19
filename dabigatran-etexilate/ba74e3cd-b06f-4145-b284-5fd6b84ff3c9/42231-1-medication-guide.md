@@ -102,6 +102,7 @@ How should I take PRADAXA?
 - Take PRADAXA exactly as prescribed by your doctor.
 - Do not take PRADAXA more often than your doctor tells you to.
 - You can take PRADAXA with or without food.
+- You should take PRADAXA with a full glass of water.
 - PRADAXA comes in a bottle or in a blister package.
 - Only open 1 bottle of PRADAXA at a time.
   Finish your opened bottle of PRADAXA before opening a new bottle.
@@ -174,7 +175,7 @@ This Medication Guide summarizes the most important information about PRADAXA.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about PRADAXA that is written for health professionals.
 
-For more information, go to www.PRADAXA.com or call 1-800-542-6257 or (TTY) 1-800-459-9906.
+For more information, go to www.PRADAXA.com or call 1-800-542-6257 or (TTY) 1-800-459-9906, or scan here to go to www.PRADAXA.com.
 
 What are the ingredients in PRADAXA?
 
@@ -187,14 +188,14 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Revised: April 2013
+Revised: December 2013
 
 The brands listed above are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The owners of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
 Copyright 2013 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-10 IT5060VD252013
+75461-11 IT5060XL112013
 
-75457-10 IT5400S
+75457-11 IT5400T
 
-301841-05 IT5624G
+301841-06 IT5624H

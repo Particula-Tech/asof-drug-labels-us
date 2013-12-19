@@ -58,6 +58,6 @@ In the RE-LY study, drug hypersensitivity (including urticaria, rash, and prurit
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of PRADAXA.
+The following adverse reactions have been identified during post approval use of PRADAXA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following adverse reactions have been identified during postapproval use of PRADAXA: angioedema, thrombocytopenia.
+The following adverse reactions have been identified during post approval use of PRADAXA: angioedema, thrombocytopenia, esophageal ulcer.
