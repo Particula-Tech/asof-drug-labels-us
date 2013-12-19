@@ -1,12 +1,8 @@
-# Patient's Instructions for Use
-
-PHARMACIST—DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# Patient’s Instructions for Use
 
 BECONASE AQ®
 
-(beclomethasonedipropionate,
+(beclomethasone dipropionate,
 
 monohydrate)
 

@@ -13,3 +13,6 @@ GlaxoSmithKline
 Research Triangle Park, NC 27709
 
 April 2005 RL-2182
+
+| PHARMACIST—DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT |
+| --- |

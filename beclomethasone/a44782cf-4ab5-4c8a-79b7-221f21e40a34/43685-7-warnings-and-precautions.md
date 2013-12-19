@@ -68,7 +68,7 @@ Instead, nasal vasoconstrictors or oral antihistamines may be needed until the e
 One to 2 weeks may pass before full relief is obtained.
 The patient should contact the physician if symptoms do not improve, if the condition worsens, or if sneezing or nasal irritation occurs.
 
-For the proper use of BECONASE AQ Nasal Spray and to attain maximum improvement, the patient should read and follow carefully the patient's instructions accompanying the product.
+For the proper use of BECONASE AQ Nasal Spray and to attain maximum improvement, the patient should read and follow carefully the patient’s instructions accompanying the product.
 
 Persons who are using immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.

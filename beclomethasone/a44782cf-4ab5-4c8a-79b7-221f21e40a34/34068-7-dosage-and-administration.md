@@ -24,4 +24,4 @@ In such cases it is advisable to use a nasal vasoconstrictor during the first 2 
 
 ## Directions for Use
 
-Illustrated Patient's Instructions for Use accompany each package of BECONASE AQ Nasal Spray.
+Illustrated Patient’s Instructions for Use accompany each package of BECONASE AQ Nasal Spray.

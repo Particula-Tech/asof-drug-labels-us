@@ -4,7 +4,7 @@ NDC 0173-0388-79
 
 Beconase AQ®
 
-(beclomethasonedipropionate, monohydrate)
+(beclomethasone dipropionate, monohydrate)
 
 Nasal Spray, 42 mcg
 
