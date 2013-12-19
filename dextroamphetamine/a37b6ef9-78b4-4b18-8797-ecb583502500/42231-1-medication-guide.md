@@ -133,11 +133,8 @@ Inactive Ingredients:
 SPANSULE Capsules: Cetyl alcohol, D&C Yellow No. 10, dibutyl sebacate, ethylcellulose, FD&C Blue No. 1, FD&C Blue No. 1 aluminum lake, FD&C Red No. 40, FD&C Yellow No. 6, gelatin, hypromellose, polyethylene glycol, povidone, sodium lauryl sulfate, sugar spheres and trace amounts of other inactive ingredients.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-July 2008 DXD:3MG.
 
-Manufactured by Catalent Pharma Solutions Winchester, KY 40391
-
-For Amedra Pharmaceuticals LLC Horsham, PA 19044 LB# 797-06 Rev.
-May, 2013
+Manufactured by Catalent Pharma Solutions Winchester, KY 40391 For Amedra Pharmaceuticals LLC Horsham, PA 19044 LB# 797-07 Rev.
+October, 2013
 
 For additional copies of the printed patient information/medication guide, please visit www.amedrapharma.com or contact us at 1-888-894-6528.

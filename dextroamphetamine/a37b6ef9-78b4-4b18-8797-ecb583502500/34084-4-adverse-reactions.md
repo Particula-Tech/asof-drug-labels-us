@@ -20,4 +20,4 @@ Urticaria.
 
 ## Endocrine
 
-Impotence, changes in libido.
+Impotence, changes in libido, frequent or prolonged erections.
