@@ -97,6 +97,9 @@ Other serious side effects include:
 - slowing of growth (height and weight) in children
 - seizures, mainly in patients with a history of seizures
 - eyesight changes or blurred vision
+- Painful and prolonged erections (priapism) have occurred with methylphenidate.
+  If you or your child develop priapism, seek medical help right away.
+  Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
 
 Common side effects include:
 
@@ -141,5 +144,9 @@ The individual capsules contain the following coloring agents: 10 mg capsules: F
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Marketed by UCB, Inc. Smyrna, GA 30080 Manufactured by UCB Manufacturing, Inc. Rochester, NY 14623 METADATE CD is a registered trademark of the UCB Group of companies ©2013, UCB, Inc., Smyrna, GA 30080 All rights reserved.
-Printed in U.S.A. 06/2013
+Marketed by UCB, Inc. Smyrna, GA 30080 Manufactured by UCB Manufacturing, Inc. Rochester, NY 14623
+
+METADATE CD is a registered trademark of the UCB Group of companies ©2013, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+Printed in U.S.A.
+
+12/2013

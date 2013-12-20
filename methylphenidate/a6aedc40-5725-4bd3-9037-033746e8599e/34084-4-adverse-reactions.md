@@ -55,5 +55,5 @@ In children, loss of appetite, abdominal pain, weight loss during prolonged ther
 ## Postmarketing Experience
 
 In addition to the adverse events listed above, the following have been reported in patients receiving METADATE CD worldwide.
-The list is alphabetized: abnormal behavior, aggression, anxiety, bruxism, cardiac arrest, depression, fixed drug eruption, hyperactivity, irritability, migraine, obsessive-compulsive disorder, peripheral coldness, Raynaud's phenomenon, reversible ischaemic neurological deficit, sudden death, suicidal behavior (including completed suicide), and thrombocytopenia.
+The list is alphabetized: abnormal behavior, aggression, anxiety, bruxism, cardiac arrest, depression, fixed drug eruption, hyperactivity, irritability, libido changes, migraine, obsessive-compulsive disorder, peripheral coldness, Raynaud's phenomenon, reversible ischaemic neurological deficit, sudden death, suicidal behavior (including completed suicide), and thrombocytopenia.
 Data are insufficient to support an estimation of incidence or establish causation.
