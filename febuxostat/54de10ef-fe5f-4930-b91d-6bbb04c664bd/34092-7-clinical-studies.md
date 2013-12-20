@@ -19,7 +19,7 @@ Subjects who completed Study 2 and Study 3 were eligible to enroll in a phase 3 
 In all three studies, subjects received naproxen 250 mg twice daily or colchicine 0.6 mg once or twice daily for gout flare prophylaxis.
 In Study 1 the duration of prophylaxis was six months; in Study 2 and Study 3 the duration of prophylaxis was eight weeks.
 
-The efficacy of ULORIC was also evaluated in a 4 week dose ranging study which randomized patients to: placebo, ULORIC 40 mg daily, ULORIC 80 mg daily, or ULORIC 120 mg daily.
+The efficacy of ULORIC was also evaluated in a four week dose ranging study which randomized patients to: placebo, ULORIC 40 mg daily, ULORIC 80 mg daily, or ULORIC 120 mg daily.
 Subjects who completed this study were eligible to enroll in a long-term extension study in which subjects received treatment with ULORIC for up to five years.
 
 Patients in these studies were representative of the patient population for which ULORIC use is intended.
@@ -30,7 +30,7 @@ Table 2 summarizes the demographics and baseline characteristics for the subject
 | Male |  | 95% |
 | Race: | Caucasian | 80% |
 |  | African American | 10% |
-| Ethnicity: | Hispanic or Latino | 7% |
+| Ethnicity: Hispanic or Latino |  | 7% |
 | Alcohol User |  | 67% |
 | Mild to Moderate Renal Insufficiency (percent with estimated Clcr less than 90 mL/min) |  | 59% |
 | History of Hypertension |  | 49% |
@@ -44,10 +44,10 @@ Table 2 summarizes the demographics and baseline characteristics for the subject
 Serum Uric Acid Level less than 6 mg/dL at Final Visit: ULORIC 80 mg was superior to allopurinol in lowering serum uric acid to less than 6 mg/dL at the final visit.
 ULORIC 40 mg daily, although not superior to allopurinol, was effective in lowering serum uric acid to less than 6 mg/dL at the final visit (Table 3).
 
-| StudyRandomization was balanced between treatment groups, except in Study 2 in which twice as many patients were randomized to each of the active treatment groups compared to placebo. | ULORIC 40 mg daily | ULORIC 80 mg daily | allopurinol | Placebo | ULORIC 40 mg vs allopurinol | ULORIC 80 mg vs allopurinol |
-| --- | --- | --- | --- | --- | --- | --- |
 | Table 3: Proportion of Patients with Serum Uric Acid Levels less than 6 mg/dL at Final Visit |  |  |  |  |  |  |
-|  |  |  |  |  | Difference in Proportion (95% CI) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| StudyRandomization was balanced between treatment groups, except in Study 2 in which twice as many patients were randomized to each of the active treatment groups compared to placebo. | ULORIC 40 mg daily | ULORIC 80 mg daily | allopurinol | Placebo | Difference in Proportion (95% CI) |  |
+| ULORIC 40 mg vs allopurinol | ULORIC 80 mg vs allopurinol |  |  |  |  |  |
 | Study 1 (6 months) (N=2268) | 45% | 67% | 42% |  | 3% (-2%, 8%) | 25% (20%, 30%) |
 | Study 2 (6 months) (N=643) |  | 72% | 39% | 1% |  | 33% (26%, 42%) |
 | Study 3 (12 months) (N=491) |  | 74% | 36% |  |  | 38% (30%, 46%) |
@@ -57,11 +57,11 @@ Average serum uric acid levels were maintained at 6 mg/dL or below throughout tr
 
 In all treatment groups, fewer subjects with higher baseline serum urate levels (≥10 mg/dL) and/or tophi achieved the goal of lowering serum uric acid to less than 6 mg/dL at the final visit; however, a higher proportion achieved a serum uric acid less than 6 mg/dL with ULORIC 80 mg than with ULORIC 40 mg or allopurinol.
 
-Study 1 evaluated efficacy in patients with mild to moderate renal impairment (i.e., baseline estimated Clcrless than 90 mL/min).
+Study 1 evaluated efficacy in patients with mild to moderate renal impairment (i.e., baseline estimated Clcr less than 90 mL/min).
 The results in this sub-group of patients are shown in Table 4.
 
-| ULORIC 40 mg daily (N=479) | ULORIC 80 mg daily (N=503) | allopurinolAllopurinol patients (n=145) with estimated Clcr ≥30 mL/min and Clcr≤59 mL/min were dosed at 200 mg daily. 300 mg daily (N=501) | ULORIC 40 mg vs allopurinol | ULORIC 80 mg vs allopurinol |
+| Table 4: Proportion of Patients with Serum Uric Acid Levels less than 6 mg/dL in Patients with Mild or Moderate Renal Impairment at Final Visit |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Table 4: Proportion of Patients with Serum Uric Acid Levels less than 6 mg/per dL in Patients with Mild or Moderate Renal Impairment at Final Visit |  |  |  |  |
-|  |  |  | Difference in Proportion (95% CI) |  |
+| ULORIC 40 mg daily (N=479) | ULORIC 80 mg daily (N=503) | allopurinolAllopurinol patients (n=145) with estimated Clcr ≥30 mL/min and Clcr ≤59 mL/min were dosed at 200 mg daily. 300 mg daily (N=501) | Difference in Proportion (95% CI) |  |
+| ULORIC 40 mg vs allopurinol | ULORIC 80 mg vs allopurinol |  |  |  |
 | 50% | 72% | 42% | 7% (1%, 14%) | 29% (23%, 35%) |

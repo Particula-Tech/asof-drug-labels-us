@@ -96,12 +96,12 @@ Inactive ingredients include: lactose monohydrate, microcrystalline cellulose, h
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-Revised: November 2012
+Revised: March 2013
 
-ULORIC is a registered trademark of Teijin Pharma Limited registered in the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
+ULORIC is a registered trademark of Teijin Limited registered in the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
 All other trademarks are the property of their respective owners.
 
-©2009, 2012 Takeda Pharmaceuticals America, Inc.
+©2009-2013 Takeda Pharmaceuticals America, Inc.
 
-ULR015 R3
+ULR015 R4

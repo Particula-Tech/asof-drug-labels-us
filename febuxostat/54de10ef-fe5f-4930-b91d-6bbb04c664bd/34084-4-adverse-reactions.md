@@ -13,10 +13,10 @@ Most Common Adverse Reactions
 In three randomized, controlled clinical studies (Studies 1, 2 and 3), which were six to 12 months in duration, the following adverse reactions were reported by the treating physician as related to study drug.
 Table 1 summarizes adverse reactions reported at a rate of at least 1% in ULORIC treatment groups and at least 0.5% greater than placebo.
 
-| (N=134) | 40 mg daily (N=757) | 80 mg daily (N=1279) | (N=1277) |  |
-| --- | --- | --- | --- | --- |
 | Table 1: Adverse Reactions Occurring in ≥1% of ULORIC-Treated Patients and at Least 0.5% Greater than Seen in Patients Receiving Placebo in Controlled Studies |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Adverse Reactions | Placebo | ULORIC |  | allopurinolOf the subjects who received allopurinol, 10 received 100 mg, 145 received 200 mg, and 1122 received 300 mg, based on level of renal impairment. |
+| (N=134) | 40 mg daily (N=757) | 80 mg daily (N=1279) | (N=1277) |  |
 | Liver Function Abnormalities | 0.7% | 6.6% | 4.6% | 4.2% |
 | Nausea | 0.7% | 1.1% | 1.3% | 0.8% |
 | Arthralgia | 0% | 1.1% | 0.7% | 0.7% |
