@@ -16,7 +16,6 @@ The single- and multiple-dose pharmacokinetics of citalopram are linear and dose
 Biotransformation of citalopram is mainly hepatic, with a mean terminal half-life of about 35 hours.
 With once daily dosing, steady state plasma concentrations are achieved within approximately one week.
 At steady state, the extent of accumulation of citalopram in plasma, based on the half-life, is expected to be 2.5 times the plasma concentrations observed after a single dose.
-The tablet and oral solution dosage forms of citalopram HBr are bioequivalent.
 
 ### Absorption and Distribution
 

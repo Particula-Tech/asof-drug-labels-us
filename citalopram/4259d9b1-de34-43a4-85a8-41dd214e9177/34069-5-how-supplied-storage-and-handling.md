@@ -29,8 +29,4 @@ Imprint on scored side with "F" on the left side and "P" on the right side.
 
 Imprint on the non-scored side with "40 mg".
 
-## Oral Solution:
-
-10 mg/5 mL, peppermint flavor (240 mL) NDC# 0456-4130-08
-
 Store at 25°C (77°F); excursions permitted to 15 - 30°C (59-86°F).

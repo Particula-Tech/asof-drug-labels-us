@@ -4,7 +4,7 @@ Celexa® (se-lek-sa)
 
 (citalopram hydrobromide)
 
-Tablets/Oral Solution
+Tablets
 
 Read the Medication Guide that comes with Celexa before you start taking it and each time you get a refill.
 There may be new information.
@@ -262,14 +262,13 @@ Active ingredient: citalopram hydrobromide
 Inactive ingredients:
 
 - Tablets: copolyvidone, corn starch, crosscarmellose sodium, glycerin, lactose monohydrate, magnesium stearate, hypromellose, microcrystalline cellulose, polyethylene glycol, titanium dioxide and iron dioxide for coloring.
-- Oral Solution: sorbitol, purified water, propylene glycol, methylparaben, natural peppermint flavor, and propylparaben.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: December 2012
+Revised: November 2013
 
 Distributed by: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045 USA
 
 Licensed from H. Lundbeck A/S
 
-© 2010, 2011, 2012Forest Laboratories, Inc.
+© 2010, 2011, 2012, 2013 Forest Laboratories, Inc.

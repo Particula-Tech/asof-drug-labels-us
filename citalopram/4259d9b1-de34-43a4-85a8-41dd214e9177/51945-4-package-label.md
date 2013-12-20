@@ -1,16 +1,6 @@
-# Principal Display Panel – 10mg/5ml Bottle Label
+# Principal Display Panel – 10mg/5ml Bottle Label - Oral Solution
 
-NDC 0456-4130-08
-
-Celexa® citalopram HBr
-
-Oral Solution 10 mg/5 mL
-
-Equivalent to 2 mg citalopram/mL
-
-8 fl oz (240 mL)
-
-FOREST PHARMACEUTICALS, INC. Subsidiary of Forest Laboratories, Inc. St. Louis, Missouri 63045
+Image not Available
 
 # Principal Display Panel – 10mg Bottle Label
 
