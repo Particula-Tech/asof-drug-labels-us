@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020943"
+  ],
+  "inn": "verapamil",
+  "labeler": "Kremers Urban Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62175-570-37",
+    "62175-571-37",
+    "62175-572-37"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "verapamil hydrochloride",
+      "name": "VERELAN PM"
+    }
+  ],
+  "setid": "fd1b433f-1895-4af0-9d1f-3901c6d34c20",
+  "source": "dailymed"
+}
