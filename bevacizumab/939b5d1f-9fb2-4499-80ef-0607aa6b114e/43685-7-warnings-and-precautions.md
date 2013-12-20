@@ -63,7 +63,7 @@ Discontinue Avastin in patients with fistula formation involving an internal org
 
 Serious, sometimes fatal, arterial thromboembolic events (ATE) including cerebral infarction, transient ischemic attacks, myocardial infarction, angina, and a variety of other ATE occurred at a higher incidence in patients receiving Avastin compared to those in the control arm.
 Across indications, the incidence of Grade ≥ 3 ATE in the Avastin containing arms was 2.6% compared to 0.8% in the control arms.
-Among patients receiving Avastin in combination with chemotherapy, the risk of developing ATE during therapy was increased in patients with a history of arterial thromboembolism, or age greater than 65 years.
+Among patients receiving Avastin in combination with chemotherapy, the risk of developing ATE during therapy was increased in patients with a history of arterial thromboembolism, diabetes, or age greater than 65 years.
 [See Use in Specific Populations (8.5).]
 
 The safety of resumption of Avastin therapy after resolution of an ATE has not been studied.
@@ -108,10 +108,9 @@ Patients with a 2 + or greater urine dipstick reading should undergo further ass
 
 Suspend Avastin administration for ≥ 2 grams of proteinuria/24 hours and resume when proteinuria is < 2 gm/24 hours.
 Discontinue Avastin in patients with nephrotic syndrome.
+[See Dosage and Administration (2.4).]
 Data from a postmarketing safety study showed poor correlation between UPCR (Urine Protein/Creatinine Ratio) and 24 hour urine protein (Pearson Correlation 0.39 (95% CI 0.17, 0.57).
 [See Use in Specific Populations (8.5).]
-The safety of continued Avastin treatment in patients with moderate to severe proteinuria has not been evaluated.
-[See Dosage and Administration (2.4).]
 
 ## 5.9 Infusion Reactions
 

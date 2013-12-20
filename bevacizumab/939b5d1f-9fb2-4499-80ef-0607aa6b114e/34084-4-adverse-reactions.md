@@ -75,6 +75,11 @@ The overall incidence of proteinuria (all grades) was only adequately assessed i
 Median onset of proteinuria was 5.6 months (range 15 days to 37 months) after initiation of Avastin.
 Median time to resolution was 6.1 months (95% CI 2.8 months, 11.3 months).
 Proteinuria did not resolve in 40% of patients after median follow up of 11.2 months and required permanent discontinuation of Avastin in 30% of the patients who developed proteinuria (Study 8).
+
+In an exploratory, pooled analysis of 8,273 patients treated in 7 randomized clinical trials, 5.4% (271 of 5037) of patients receiving Avastin in combination with chemotherapy experienced Grade ≥ 2 proteinuria.
+The Grade ≥ 2 proteinuria resolved in 74.2% (201 of 271) of patients.
+Avastin was re-initiated in 41.7% (113 of 271) of patients.
+Of the 113 patients who re-initiated Avastin, 47.8% (54 of 113) experienced a second episode of Grade ≥ 2 proteinuria.
 [See Warnings and Precautions (5.8).]
 
 Congestive Heart Failure (CHF)
