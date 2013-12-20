@@ -2,7 +2,7 @@
 
 ## 5.1 Lymphopenia
 
-TECFIDERA may decrease lymphocyte counts [see Adverse Reactions()]6.1.
+TECFIDERA may decrease lymphocyte counts [see Adverse Reactions(6.1)].
 In the MS placebo controlled trials, mean lymphocyte counts decreased by approximately 30% during the first year of treatment with TECFIDERA and then remained stable.
 Four weeks after stopping TECFIDERA, mean lymphocyte counts increased but did not return to baseline.
 Six percent (6%) of TEDFIDERA patients and <1% of placebo patients experienced lymphocyte counts <0.5x109/L (lower limit of normal 0.91x109/L).

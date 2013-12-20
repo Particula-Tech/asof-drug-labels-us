@@ -8,7 +8,7 @@ TECFIDERA should be swallowed whole and intact.
 TECFIDERA should not be crushed or chewed and the capsule contents should not be sprinkled on food.
 TECFIDERA can be taken with or without food.
 Administration with food may reduce the incidence of flushing.
-[see Clinical Pharmacology()]12.3.
+[see Clinical Pharmacology (12.3)].
 
 ## 2.2 Blood Test Prior to Initiation of Therapy
 

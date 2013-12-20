@@ -1,5 +1,3 @@
-FDA-Approved Patient Labeling
-
 Patient Information
 
 TECFIDERA™ (tek" fi de' rah)
@@ -75,11 +73,7 @@ Active ingredient: dimethyl fumarate
 Inactive ingredients: microcrystalline cellulose, silicified microcrystalline cellulose, croscarmellose sodium, talc, silica colloidal silicon dioxide, magnesium stearate, triethyl citrate, methacrylic acid copolymer - Type A, methacrylic acid copolymer dispersion, simethicone (30% emulsion), sodium lauryl sulphate, and polysorbate 80.
 Capsule Shell: gelatin, titanium dioxide, FD&C blue 1; brilliant blue FCF, yellow iron oxide and black iron oxide.
 
-Manufactured by:
-
-Biogen Idec Inc., Cambridge, MA 02142
-
-www.TECFIDERA.com or call 1-800-456-2255
+Manufactured by: Biogen Idec Inc., Cambridge, MA 02142, www.TECFIDERA.com or call 1-800-456-2255
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 

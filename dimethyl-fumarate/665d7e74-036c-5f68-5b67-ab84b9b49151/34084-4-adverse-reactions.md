@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following important adverse reactions are described elsewhere in labeling: Lymphopenia, Flushing [see Warnings and Precautions(,)]5.15.2.
+The following important adverse reactions are described elsewhere in labeling: Lymphopenia, Flushing [see Warnings and Precautions (5.1,5.2)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -10,20 +10,18 @@ The most common adverse reactions (incidence ≥10% and ≥2% more than placebo)
 
 Adverse Reactions in Placebo-Controlled Trials
 
-In the two well-controlled studies demonstrating effectiveness, 1529 patients received TECFIDERA with an overall exposure of 2244 person-years [see Clinical Studies()]14.
+In the two well-controlled studies demonstrating effectiveness, 1529 patients received TECFIDERA with an overall exposure of 2244 person-years [see Clinical Studies(14)].
 
 The adverse reactions presented in the table below are based on safety information from 769 patients treated with TECFIDERA 240 mg twice a day and 771 placebo-treated patients.
 
 Table 1: Adverse Reactions in Study 1 and 2 reported for TECFIDERA 240 mg BID at ≥2% higher incidence than placebo
 
-|  | TECFIDERA | Placebo |
+|  | TECFIDERA N=769 % | Placebo N=771 % |
 | --- | --- | --- |
-|  | N=769 | N=771 |
-|  | % | % |
 | Blood and Lymphatic System Disorders |  |  |
 | Lymphopenia | 2 | <1 |
 | Gastrointestinal Disorders |  |  |
-| Abdominal pain | 18 | 10 |
+| Abdominal Pain | 18 | 10 |
 | Diarrhea | 14 | 11 |
 | Nausea | 12 | 9 |
 | Vomiting | 9 | 5 |
@@ -31,7 +29,7 @@ Table 1: Adverse Reactions in Study 1 and 2 reported for TECFIDERA 240 mg BID at
 | Vascular Disorders |  |  |
 | Flushing | 40 | 6 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
-| Pruritus | 8 | 4 |
+| Pruritis | 8 | 4 |
 | Rash | 8 | 3 |
 | Erythema | 5 | 1 |
 | Investigations |  |  |

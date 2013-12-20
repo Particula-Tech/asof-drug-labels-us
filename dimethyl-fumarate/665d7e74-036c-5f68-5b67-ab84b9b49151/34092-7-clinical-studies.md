@@ -24,11 +24,11 @@ The results for this study (240 mg twice a day vs. placebo) are shown in Table 2
 
 Table 2: Clinical and MRI Results of Study 1
 
-|  | TECFIDERA | Placebo | P-value |
+|  | TECFIDERA 240 mg BID | Placebo | P-value |
 | --- | --- | --- | --- |
-|  | 240 mg BID |  |  |
 | Clinical Endpoints | (N=410) | (N=408) |  |
-| Proportion relapsing (primary endpoint) Relative risk reduction | 27% 49% | 46% | <0.0001 |
+| Proportion relapsing (primary endpoint) | 27% | 46% | <0.0001 |
+| Relative risk reduction | 49% |  |  |
 | Annualized relapse rate | 0.172 | 0.364 | <0.0001 |
 | Relative Reduction | 53% |  |  |
 | Proportion with disability progression | 16% | 27% | 0.0050 |
@@ -36,7 +36,7 @@ Table 2: Clinical and MRI Results of Study 1
 | MRI Endpoints | (N=152) | (N=165) |  |
 | Mean number of new or newly enlarging T2 lesions over 2 years | 2.6 | 17 | <0.0001 |
 | Percentage of subjects with no new or newly enlarging lesions | 45% | 27% |  |
-| Number of Gd+ lesions at 2 years Mean (median) | 0.1 (0) | 1.8 (0) | <0.0001 |
+| Number of Gd+ lesions at 2 years Mean (median) | 0.1 (0) | 1.8 (0) |  |
 | Percentage of subjects with |  |  |  |
 | 0 lesions | 93% | 62% |  |
 | 1 lesion | 5% | 10% |  |
@@ -66,17 +66,16 @@ The results for this study (240 mg twice a day vs. placebo) are shown in Table 3
 
 Table 3: Clinical and MRI Results of Study 2
 
-|  | TECFIDERA | Placebo | P-value |
+|  | TECFIDERA 240 mg BID | Placebo | P-value |
 | --- | --- | --- | --- |
-|  | 240 mg BID |  |  |
 | Clinical Endpoints | N=359 | N=363 |  |
 | Annualized relapse rate | 0.224 | 0.401 | <0.0001 |
-| Relative reduction (percentage) | 44% |  |  |
+| Relative reduction | 44% |  |  |
 | Proportion relapsing | 29% | 41% | 0.0020 |
 | Relative risk reduction | 34% |  |  |
 | Proportion with disability progression | 13% | 17% | 0.25 |
 | Relative risk reduction | 21% |  |  |
-| MRI Endpoint | N=147 | N=144 |  |
+| MRI Endpoints | N=147 | N=144 |  |
 | Mean number of new or newly enlarging T2 lesions over 2 years | 5.1 | 17.4 | <0.0001 |
 | Percentage of subjects with no new or newly enlarging lesions | 27% | 12% |  |
 | Number of Gd+ lesions at 2 years Mean (median) | 0.5 (0.0) | 2.0 (0.0) |  |
