@@ -19,7 +19,7 @@ Infants born to women treated during pregnancy with oral erythromycin for early 
 
 ## Clostridium difficile Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ERYTHROMYCIN Base Film-coated tablets, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Erythromycin Tablets, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -46,7 +46,7 @@ Therefore, patients receiving concomitant lovastatin and erythromycin should be 
 
 ## General
 
-Prescribing Erythromycin Base Film-coated tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing Erythromycin Tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function.
 (See CLINICAL PHARMACOLOGY and WARNINGS.)
@@ -55,7 +55,7 @@ Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myast
 
 There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
 In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis, seven neonates (5%) developed symptoms of non-bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy.
-A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8-14 days and 10% for infants who took erythromycin for 15-21 days.4 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
+A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8 to 14 days and 10% for infants who took erythromycin for 15 to 21 days.5 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
 Parents should be informed to contact their physician if vomiting or irritability with feeding occurs.
 
 Prolonged or repeated use of erythromycin may result in an overgrowth of nonsusceptible bacteria or fungi.
@@ -67,10 +67,10 @@ Observational studies in humans have reported cardiovascular malformations after
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including Erythromycin Base Film-coated tablets should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including Erythromycin Tablets should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Erythromycin Base Film-coated tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Erythromycin Base Film-coated tablets or other antibacterial drugs in the future.
+When Erythromycin Tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Erythromycin Tablets or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -102,30 +102,17 @@ The following are examples of some clinically significant CYP3A based drug inter
 Interactions with other drugs metabolized by the CYP3A isoform are also possible.
 The following CYP3A based drug interactions have been observed with erythromycin products in post-marketing experience:
 
-#### Ergotamine/dihydroergotamine
-
-Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
-Concomitant administration of erythromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS).
-
-#### Triazolobenzodiazepines (such as triazolam and alprazolam) and related benzodiazepines
-
-Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
-
-#### HMG-CoA Reductase Inhibitors
-
-Erythromycin has been reported to increase concentrations of HMG-CoA reductase inhibitors (e.g., lovastatin and simvastatin).
-Rare reports of rhabdomyolysis have been reported in patients taking these drugs concomitantly.
-
-#### Sildenafil (Viagra)
-
-Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil.
-Reduction of sildenafil dosage should be considered.
-(See Viagra package insert.)
-
-There have been spontaneous or published reports of CYP3A based interactions of erythromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methyl-prednisolone, cilostazol, vinblastine, and bromocriptine.
-
-Concomitant administration of erythromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated.
-(See CONTRAINDICATIONS.)
+- Ergotamine/dihydroergotamine Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
+  Concomitant administration of erythromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS).
+- Triazolobenzodiazepines (such as triazolam and alprazolam) and related benzodiazepines Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
+- HMG-CoA Reductase Inhibitors Erythromycin has been reported to increase concentrations of HMG-CoA reductase inhibitors (e.g., lovastatin and simvastatin).
+  Rare reports of rhabdomyolysis have been reported in patients taking these drugs concomitantly.
+- Sildenafil (Viagra) Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil.
+  Reduction of sildenafil dosage should be considered.
+  (See Viagra package insert.)
+- There have been spontaneous or published reports of CYP3A based interactions of erythromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methyl-prednisolone, cilostazol, vinblastine, and bromocriptine.
+- Concomitant administration of erythromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated.
+  (See CONTRAINDICATIONS.)
 
 In addition, there have been reports of interactions of erythromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate.
 
@@ -152,7 +139,7 @@ Erythromycin interferes with the fluorometric determination of urinary catechola
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long-term oral dietary studies conducted with erythromycin stearate in rats up to 400 mg/kg/day and in mice up to about 500 mg/kg/day (approximately 1-2 fold of the maximum human dose on a body surface area basis) did not provide evidence of tumorigenicity.
+Long-term oral dietary studies conducted with erythromycin stearate in rats up to 400 mg/kg/day and in mice up to about 500 mg/kg/day (approximately 1 to 2 fold of the maximum human dose on a body surface area basis) did not provide evidence of tumorigenicity.
 Erythromycin stearate did not show genotoxic potential in the Ames, and mouse lymphoma assays or induce chromosomal aberrations in CHO cells.
 There was no apparent effect on male or female fertility in rats treated with erythromycin base by oral gavage at 700 mg/kg/day (approximately 3 times the maximum human dose on a body surface area basis).
 
@@ -163,7 +150,7 @@ There was no apparent effect on male or female fertility in rats treated with er
 #### Pregnancy Category B
 
 There is no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base by oral gavage at 350 mg/kg/day (approximately twice the maximum recommended human dose on a body surface area) prior to and during mating, during gestation, and through weaning.
-No evidence of teratogenicity or embryotoxicity was observed when erythromycin base was given by oral gavage to pregnant rats and mice at 700 mg/kg/day and to pregnant rabbits at 125 mg/kg/day (approximately 1-3 times the maximum recommended human dose).
+No evidence of teratogenicity or embryotoxicity was observed when erythromycin base was given by oral gavage to pregnant rats and mice at 700 mg/kg/day and to pregnant rabbits at 125 mg/kg/day (approximately 1 to 3 times the maximum recommended human dose).
 
 ## Labor and Delivery
 
@@ -189,9 +176,9 @@ Elderly patients may be more susceptible to development of torsades de pointes a
 Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin.
 (See PRECAUTIONS - Drug Interactions).
 
-Erythromycin Base Film-coated Tablets (250 mg) contain 8.5 mg (0.4 mEq) of sodium per tablet.
+Erythromycin Tablets (250 mg) contain 8.5 mg (0.4 mEq) of sodium per tablet.
 
-Erythromycin Base Film-coated Tablets (500 mg) contain 17.0 mg (0.7 mEq) of sodium per tablet.
+Erythromycin Tablets (500 mg) contain 17 mg (0.7 mEq) of sodium per tablet.
 
 The geriatric population may respond with a blunted natriuresis to salt loading.
 This may be clinically important with regard to such diseases as congestive heart failure.

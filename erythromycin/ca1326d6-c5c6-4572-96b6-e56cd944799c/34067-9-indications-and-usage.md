@@ -1,10 +1,10 @@
 # INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Erythromycin Base Film-coated tablets and other antibacterial drugs, Erythromycin Base Film-coated tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Erythromycin Tablets, USP and other antibacterial drugs, Erythromycin Tablets, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-Erythromycin Base Film-coated tablets are indicated in the treatment of infections caused by susceptible strains of the designated microorganisms in the diseases listed below:
+Erythromycin Tablets, USP are indicated in the treatment of infections caused by susceptible strains of the designated microorganisms in the diseases listed below:
 
 Upper respiratory tract infections of mild to moderate degree caused by Streptococcus pyogenes; Streptococcus pneumoniae; Haemophilus influenzae (when used concomitantly with adequate doses of sulfonamides, since many strains of H. influenzae are not susceptible to the erythromycin concentrations ordinarily achieved).
 (See appropriate sulfonamide labeling for prescribing information.)
@@ -48,10 +48,10 @@ Although no controlled clinical efficacy studies have been conducted, in vitro a
 
 ### Prevention of Initial Attacks of Rheumatic Fever
 
-Penicillin is considered by the American Heart Association to be the drug of choice in the prevention of initial attacks of rheumatic fever (treatment of Streptococcus pyogenes infections of the upper respiratory tract e.g., tonsillitis, or pharyngitis).3 Erythromycin is indicated for the treatment of penicillin-allergic patients.
+Penicillin is considered by the American Heart Association to be the drug of choice in the prevention of initial attacks of rheumatic fever (treatment of Streptococcus pyogenes infections of the upper respiratory tract e.g., tonsillitis, or pharyngitis).4 Erythromycin is indicated for the treatment of penicillin-allergic patients.
 The therapeutic dose should be administered for ten days.
 
 ### Prevention of Recurrent Attacks of Rheumatic Fever
 
 Penicillin or sulfonamides are considered by the American Heart Association to be the drugs of choice in the prevention of recurrent attacks of rheumatic fever.
-In patients who are allergic to penicillin and sulfonamides, oral erythromycin is recommended by the American Heart Association in the long-term prophylaxis of streptococcal pharyngitis (for the prevention of recurrent attacks of rheumatic fever).3
+In patients who are allergic to penicillin and sulfonamides, oral erythromycin is recommended by the American Heart Association in the long-term prophylaxis of streptococcal pharyngitis (for the prevention of recurrent attacks of rheumatic fever).4
