@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019614"
+  ],
+  "inn": "verapamil",
+  "labeler": "Kremers Urban Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62175-580-37",
+    "62175-581-37",
+    "62175-582-37",
+    "62175-583-37"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE PELLETS",
+      "generic": "verapamil hydrochloride",
+      "name": "VERELAN"
+    }
+  ],
+  "setid": "92f7adf1-cb8c-4c6e-95d1-9afd28fe5116",
+  "source": "dailymed"
+}
