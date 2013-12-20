@@ -1,6 +1,4 @@
-# Medication Guide
-
-Medication guide
+MEDICATION GUIDE
 
 BENLYSTA®(ben-LIST-ah)
 
@@ -19,32 +17,32 @@ Some of these side effects may cause death.
 It is not known if BENLYSTA causes these serious side effects.
 Tell your healthcare provider right away if you have any of the symptoms listed below while receiving BENLYSTA.
 
-1. 1.Infections.
-   Symptoms of an infection can include:
-   - •fever
-   - •chills
-   - •pain or burning with urination
-   - •urinating often
-   - •bloody diarrhea
-   - •coughing up mucus
-2. 2.Heart Problems.
-   Symptoms of heart problems can include:
-   - •chest discomfort or pain
-   - •shortness of breath
-   - •cold sweats
-   - •nausea
-   - •dizziness
-   - •discomfort in other areas of the upper body
-3. 3.Mental health problems and suicide.
-   Symptoms of mental health problems can include:
-   - •thoughts of suicide or dying
-   - •attempt to commit suicide
-   - •trouble sleeping (insomnia)
-   - •new or worse anxiety
-   - •new or worse depression
-   - •acting on dangerous impulses
-   - •other unusual changes in your behavior or mood
-   - •thoughts of hurting yourself or others
+- 1.Infections.
+  Symptoms of an infection can include:
+  1. ∘fever
+  2. ∘chills
+  3. ∘pain or burning with urination
+  4. ∘urinating often
+  5. ∘bloody diarrhea
+  6. ∘coughing up mucus
+- 2.Heart Problems.
+  Symptoms of heart problems can include:
+  1. ∘chest discomfort or pain
+  2. ∘shortness of breath
+  3. ∘cold sweats
+  4. ∘nausea
+  5. ∘dizziness
+  6. ∘discomfort in other areas of the upper body
+- 3.Mental health problems and suicide.
+  Symptoms of mental health problems can include:
+  1. ∘thoughts of suicide or dying
+  2. ∘attempt to commit suicide
+  3. ∘trouble sleeping (insomnia)
+  4. ∘new or worse anxiety
+  5. ∘new or worse depression
+  6. ∘acting on dangerous impulses
+  7. ∘other unusual changes in your behavior or mood
+  8. ∘thoughts of hurting yourself or others
 
 What is BENLYSTA?
 
@@ -113,18 +111,18 @@ BENLYSTA can cause serious side effects.
   BENLYSTA may reduce the activity of your immune system.
   Medicines that affect the immune system may increase your risk of certain cancers.
 - •Allergic (hypersensitivity) and infusion reactions.
-  Seriousallergic or infusion reactions can happen on the day of or the day after receiving BENLYSTA and may cause death.
-  Tell your healthcare provider right away if you have any of the following symptoms of an allergic or infusion reaction:
-  - oitching
-  - oswelling of the face, lips, mouth, tongue, or throat
-  - otrouble breathing
-  - oanxiousness
-  - olow blood pressure
-  - odizziness or fainting
-  - oheadache
-  - onausea
-  - oskin rash, redness, or swelling
-- Your healthcare provider will watch you closely while you are receiving BENLYSTA and after your infusion for signs of a reaction.
+  Serious allergic or infusion reactions can happen on the day of or days after receiving BENLYSTA and may cause death.
+  Your healthcare provider will watch you closely while you are receiving BENLYSTA and after your infusion for signs of a reaction.
+  Allergic reactions can sometimes be delayed; tell your healthcare provider right away if you have any of the following symptoms of an allergic or infusion reaction:
+  - ∘itching
+  - ∘swelling of the face, lips, mouth, tongue, or throat
+  - ∘trouble breathing
+  - ∘anxiousness
+  - ∘low blood pressure
+  - ∘dizziness or fainting
+  - ∘headache
+  - ∘nausea
+  - ∘skin rash, redness, or swelling
 
 The most common side effects of BENLYSTA include:
 
@@ -136,8 +134,12 @@ The most common side effects of BENLYSTA include:
 - •cough (bronchitis)
 - •trouble sleeping
 - •leg or arm pain
+- •depression
 - •headache (migraine)
 - •urinary tract infection
+- •decreased white blood cell count (leukopenia)
+- •vomiting
+- •stomach pain
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -165,9 +167,7 @@ Active ingredient: belimumab.
 
 Inactive ingredients: citric acid, polysorbate 80, sodium citrate, sucrose.
 
-RX Only
-
-BENLYSTA is a registered trademark of Human Genome Sciences, Inc., used under license by GlaxoSmithKline.
+BENLYSTA is a registered trademark of the GlaxoSmithKline group of companies.
 
 Manufactured by
 
@@ -179,16 +179,15 @@ US License No. 1820
 
 Marketed by
 
-Human Genome Sciences, Inc.
-
-Rockville, MD 20850
-
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: March 2012
+©2013, GlaxoSmithKline group of companies.
+All rights reserved.
 
-©2011, Human Genome Sciences, Inc. All rights reserved.
+December 2013
+
+BNL:1MG

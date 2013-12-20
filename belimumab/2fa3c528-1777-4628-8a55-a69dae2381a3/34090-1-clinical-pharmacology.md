@@ -18,28 +18,26 @@ The clinical relevance of normalizing these biomarkers has not been definitively
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic parameters displayed in Table 2 are based on population parameter estimates which are specific to the 563 patients who received belimumab 10 mg/kg in Trials 2 and 3 [see Clinical Studies (14)].
+The pharmacokinetic parameters displayed in Table 2 are based on population parameter estimates which are specific to the 563 patients who received BENLYSTA 10 mg/kg in Trials 2 and 3 [see Clinical Studies (14)].
 
 Table 2.
-Population Pharmacokinetic Parameters in Patients with SLE after Intravenous Infusion of BENLYSTA 10 mg/kgIntravenous infusions were administered at 2-week intervals for the first 3 doses and at 4-week intervals thereafter.
+Population Pharmacokinetic Parameters in Patients With SLE After Intravenous Infusion of BENLYSTA 10 mg/kga
 
 | Pharmacokinetic Parameter | Population Estimates (n = 563) |
 | --- | --- |
-| Peak concentration (Cmax, µg/mL) | 313 |
-| Area under the curve (AUC0-∞, day∙μg/mL) | 3,083 |
+| Peak concentration (Cmax, mcg/mL) | 313 |
+| Area under the curve (AUC0-∞, day●mcg/mL) | 3,083 |
 | Distribution half-life (t½, days) | 1.75 |
 | Terminal half-life (t½, days) | 19.4 |
 | Systemic clearance (CL, mL/day) | 215 |
 | Volume of distribution (Vss, L) | 5.29 |
 
-Drug Interactions: No formal drug interaction studies have been conducted with belimumab.
+Drug Interactions: No formal drug interaction studies have been conducted with BENLYSTA.
 Concomitant use of mycophenolate, azathioprine, methotrexate, antimalarials, NSAIDs, aspirin, and HMG-CoA reductase inhibitors did not significantly influence belimumab pharmacokinetics.
 Coadministration of steroids and angiotensin-converting enzyme (ACE) inhibitors resulted in an increase of systemic clearance of belimumab that was not clinically significant because the magnitude was well within the range of normal variability of clearance.
 The effect of belimumab on the pharmacokinetics of other drugs has not been evaluated.
 
-Special Populations:
-
-The following information is based on the population pharmacokinetic analysis.
+Special Populations: The following information is based on the population pharmacokinetic analysis.
 
 Age: Age did not significantly influence belimumab pharmacokinetics in the study population, where the majority of subjects (70%) were between 18 and 45 years of age.
 No pharmacokinetic data are available in pediatric patients.
@@ -51,10 +49,9 @@ Race: Race did not significantly influence belimumab pharmacokinetics.
 The racial distribution was 53% white/Caucasian, 16% Asian, 16% Alaska native/American Indian, and 14% black/African-American.
 
 Renal Impairment: No formal studies were conducted to examine the effects of renal impairment on the pharmacokinetics of belimumab.
-Belimumab has been studied in a limited number of patients with SLE and renal impairment (261 subjects with moderate renal impairment, creatinine clearance ≥30 and <60 mL/min; 14 subjects with severe renal impairment, creatinine clearance ≥15 and <30 mL/min).
+BENLYSTA has been studied in a limited number of patients with SLE and renal impairment (261 subjects with moderate renal impairment, creatinine clearance ≥30 and <60 mL/min; 14 subjects with severe renal impairment, creatinine clearance ≥15 and <30 mL/min).
 Although increases in creatinine clearance and proteinuria (>2 g/day) increased belimumab clearance, these effects were within the expected range of variability.
 Therefore, dosage adjustment in patients with renal impairment is not recommended.
 
 Hepatic Impairment: No formal studies were conducted to examine the effects of hepatic impairment on the pharmacokinetics of belimumab.
-Belimumab has not been studied in patients with severe hepatic impairment.
 Baseline ALT and AST levels did not significantly influence belimumab pharmacokinetics.
