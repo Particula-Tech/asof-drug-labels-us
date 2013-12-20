@@ -31,7 +31,7 @@ Advise patients that Vyvanse at recommended doses may cause psychotic or manic s
 
 Suppression of Growth
 
-Advise patients, family members, and caregivers that Vyvanse may cause slowing of growth including weight loss [see Warnings and Precautions(5.5)].
+Advise patients, family members, and caregivers that Vyvanse may cause slowing of growth including weight loss [see Warnings and Precautions (5.5)].
 
 Pregnancy
 

@@ -121,7 +121,7 @@ CI: Confidence interval
 
 Figure 1 LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Children Ages 6 to 12 with ADHD after 1 Week of Double Blind Treatment (Study 3)
 
-Higher score on the SKAMP-Deportment scale indicates more severe symptoms.
+Higher score on the SKAMP-Deportment scale indicates more severe symptoms
 
 Figure 2 Kaplan-Meier Estimation of Proportion of Patients with Treatment Failure for Children and Adolescent Ages 6-17 (Study 6)
 

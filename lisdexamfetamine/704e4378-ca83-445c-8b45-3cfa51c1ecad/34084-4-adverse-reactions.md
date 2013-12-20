@@ -90,7 +90,7 @@ Careful follow-up for weight in children ages 6 to 12 years who received Vyvanse
 In a 4-week controlled trial of Vyvanse in adolescents ages 13 to 17 years, mean weight loss from baseline to endpoint was -2.7, -4.3, and -4.8 lbs., respectively, for patients receiving 30 mg, 50 mg, and 70 mg of Vyvanse, compared to a 2.0 pound weight gain for patients receiving placebo.
 
 Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e. treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
-In a controlled trial of amphetamine (d- to l-enantiomer ratio of 3:1) in adolescents, mean weight change from baseline within the initial 4 weeks of therapy was -1.1 pounds and –2.8 pounds, respectively, for patients receiving 10 mg and 20 mg of amphetamine.
+In a controlled trial of amphetamine (d- to l-enantiomer ratio of 3:1) in adolescents, mean weight change from baseline within the initial 4 weeks of therapy was -1.1 pounds and -2.8 pounds, respectively, for patients receiving 10 mg and 20 mg of amphetamine.
 Higher doses were associated with greater weight loss within the initial 4 weeks of treatment.
 [see Warnings and Precautions (5.5)]
 
@@ -102,4 +102,4 @@ In the controlled adult trial (Study 7), mean weight loss after 4 weeks of thera
 
 The following adverse reactions have been identified during post approval use of Vyvanse.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These events are as follows: palpitations, cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, tics, depression, dermatillomania, aggression, Stevens-Johnson Syndrome, angioedema, urticaria, and seizures.
+These events are as follows: palpitations, cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, tics, bruxism, depression, dermatillomania, aggression, Stevens-Johnson Syndrome, angioedema, urticaria, seizures, libido changes, and frequent or prolonged erections.
