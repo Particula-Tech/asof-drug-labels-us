@@ -56,4 +56,4 @@ What else do I need to know about antidepressant medicines?
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA 1088.
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
-Silarx Pharmaceuticals, Inc. Spring Valley, NY 10977
+Silarx Pharmaceuticals, Inc. Carmel, NY 10512
