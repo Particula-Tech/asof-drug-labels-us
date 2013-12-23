@@ -16,4 +16,4 @@ J. Urol.
 Yarker Y et al. Oxybutynin: A review of its Pharmacodynamic and Pharmacokinetic Properties, and its Therapeutic Use in Detrusor Instability.
 Drugs & Aging.
 1995; 6(3): 243-262.
-RX ONLY Manufactured by: Silarx Pharmaceuticals, Inc. Spring Valley, NY 10977
+RX ONLY Manufactured by: Silarx Pharmaceuticals, Inc. Carmel, NY 10512
