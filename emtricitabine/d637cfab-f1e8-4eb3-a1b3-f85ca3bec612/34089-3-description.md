@@ -2,7 +2,7 @@
 
 COMPLERA is a fixed-dose combination tablet containing emtricitabine, rilpivirine hydrochloride, and tenofovir DF.
 EMTRIVA is the brand name for emtricitabine, a synthetic nucleoside analog of cytidine.
-EDURANT is the brand name for rilpivirine, a non-nucleoside reverse transcriptase inhibitor.
+Edurant is the brand name for rilpivirine, a non-nucleoside reverse transcriptase inhibitor.
 VIREAD is the brand name for tenofovir DF, which is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5′-monophosphate.
 VIREAD and EMTRIVA are the components of TRUVADA.
 

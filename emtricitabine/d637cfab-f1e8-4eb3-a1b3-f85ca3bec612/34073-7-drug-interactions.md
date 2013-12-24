@@ -2,7 +2,7 @@
 
 COMPLERA is a complete regimen for the treatment of HIV-1 infection; therefore, COMPLERA should not be administered with other antiretroviral medications.
 Information regarding potential drug-drug interactions with other antiretroviral medications is not provided.
-Please refer to the EDURANT, VIREAD and EMTRIVA prescribing information as needed.
+Please refer to the Edurant, VIREAD and EMTRIVA prescribing information as needed.
 
 There were no drug-drug interaction trials conducted with the fixed-dose combination tablet.
 Drug interaction studies were conducted with emtricitabine, rilpivirine, or tenofovir DF, the components of COMPLERA.

@@ -53,13 +53,15 @@ You may be more likely to get lactic acidosis or severe liver problems if you ar
 
 What is COMPLERA?
 
-COMPLERA is a prescription HIV (Human Immunodeficiency Virus) medicine that:
-
-- is used to treat HIV-1 in adults who have never taken HIV medicines before, and
-- who have an amount of HIV in their blood (this is called 'viral load') that is no more than 100,000 copies/mL.
-  Your healthcare provider will measure your viral load.
-
+COMPLERA is a prescription HIV (Human Immunodeficiency Virus) medicine.
 HIV is the virus that causes AIDS (Acquired Immunodeficiency Syndrome).
+
+COMPLERA is used to treat HIV-1 infection in:
+
+- adults who have never taken HIV medicines before, and who have an amount of HIV in their blood (this is called 'viral load') that is no more than 100,000 copies/mL before they start taking COMPLERA, and
+- certain adults who have a viral load that is less than 50 copies/mL when they start taking COMPLERA, to replace their current HIV medicines.
+
+Your healthcare provider will measure your viral load.
 
 COMPLERA contains 3 medicines, (rilpivirine, emtricitabine, tenofovir disoproxil fumarate) combined in one tablet.
 Emtricitabine (EMTRIVA®) and tenofovir disoproxil fumarate (VIREAD®) are HIV-1 (human immunodeficiency virus) nucleoside analog reverse transcriptase inhibitors (NRTIs).
@@ -92,7 +94,6 @@ Who should not take COMPLERA?
 
 Do not take COMPLERA if:
 
-- your HIV infection has been previously treated with HIV medicines.
 - you are taking any of the following medicines:
   - anti-seizure medicines:
     - carbamazepine (Carbatrol®, Equetro®, Tegretol®, Tegretol- XR®, Teril®, Epitol®)
@@ -101,7 +102,7 @@ Do not take COMPLERA if:
     - phenytoin (Dilantin®, Dilantin-125®, Phenytek®)
   - anti-tuberculosis (anti-TB) medicines:
     - rifabutin (Mycobutin®)
-    - rifampin (Rifater®,Rifamate®, Rimactane®, Rifadin®)
+    - rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
     - rifapentine (Priftin®)
   - proton pump inhibitor (PPI) medicine for certain stomach or intestinal problems:
     - dexlansoprazole (Dexilant®)
@@ -158,7 +159,7 @@ Especially tell your healthcare provider if you take:
   If you take one of these medicines during treatment with COMPLERA, take the acid blocker at least 12 hours before or at least 4 hours after you take COMPLERA.
 - any of these medicines (if taken by mouth or injection):
   - clarithromycin (Biaxin®)
-  - erythromycin (E-Mycin®, Eryc®, Ery-Tab®, PCE®, Pediazole®, Iloson®)
+  - erythromycin (E-Mycin®, Eryc®, Ery-Tab®, PCE®, Pediazole®, Ilosone®)
   - fluconazole (Diflucan®)
   - itraconazole (Sporanox®)
   - ketoconazole (Nizoral®)
@@ -166,7 +167,7 @@ Especially tell your healthcare provider if you take:
   - posaconazole (Noxafil®)
   - telithromycin (Ketek®)
   - voriconazole (Vfend®)
-- medicines that are eliminated by the kidney, including acyclovir (Zovirax®), cidofovir (VISTIDE®), ganciclovir (Cytovene IV®, Vitrasert®), valacyclovir (Valtrex®), and valganciclovir (Valcyte®)
+- certain medicines that can affect how your kidneys work, including acyclovir (Zovirax®), cidofovir (VISTIDE®), ganciclovir (Cytovene IV®, Vitrasert®), valacyclovir (Valtrex®), and valganciclovir (Valcyte®)
 
 Ask your healthcare provider or pharmacist if you are not sure if your medicine is one that is listed above.
 
@@ -248,7 +249,7 @@ These are not all the possible side effects of COMPLERA.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 (1-800-332-1088).
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store COMPLERA?
 
@@ -285,10 +286,10 @@ Gilead Sciences, Inc.
 
 Foster City, CA 94404
 
-Revised: October 2013
+Revised: December 2013
 
-COMPLERA, EMTRIVA, HEPSERA, TRUVADA, VIREAD, and VISTIDE are trademarks of Gilead Sciences, Inc., or its related companies.
+COMPLERA, EMTRIVA, HEPSERA, STRIBILD, TRUVADA, VIREAD, and VISTIDE are trademarks of Gilead Sciences, Inc., or its related companies.
 Edurant is a trademark of Janssen Pharmaceuticals, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-202123-GS-004
+202123-GS-005

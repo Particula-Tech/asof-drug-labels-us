@@ -54,16 +54,16 @@ Patients with severe depressive symptoms should seek immediate medical evaluatio
 ## 5.6 Hepatotoxicity
 
 Hepatic adverse events have been reported in patients receiving a rilpivirine containing regimen.
-Patients with underlying hepatitis B or C, or marked elevations in serum liver biochemistries prior to treatment may be at increased risk for worsening or development of serum liver biochemistries elevations with use of COMPLERA.
+Patients with underlying hepatitis B or C, or marked elevations in liver-associated tests prior to treatment may be at increased risk for worsening or development of liver-associated test elevations with use of COMPLERA.
 A few cases of hepatic toxicity have been reported in patients receiving a rilpivirine containing regimen who had no pre-existing hepatic disease or other identifiable risk factors.
-Appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with COMPLERA is recommended in patients with underlying hepatic disease such as hepatitis B or C, or in patients with marked elevations in serum liver biochemistries prior to treatment initiation.
-Serum liver biochemistries monitoring should also be considered for patients without pre-existing hepatic dysfunction or other risk factors.
+Appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with COMPLERA is recommended in patients with underlying hepatic disease such as hepatitis B or C, or in patients with marked elevations in liver-associated tests prior to treatment initiation.
+Liver-associated test monitoring should also be considered for patients without pre-existing hepatic dysfunction or other risk factors.
 
 ## 5.7 Bone Effects of Tenofovir DF
 
 Bone Mineral Density:
 
-In clinical trials in HIV-1 infected adults, tenofovir DF was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
+In clinical trials in HIV-1-infected adults, tenofovir DF was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving tenofovir DF.
 For more information, please consult the VIREAD prescribing information.
 

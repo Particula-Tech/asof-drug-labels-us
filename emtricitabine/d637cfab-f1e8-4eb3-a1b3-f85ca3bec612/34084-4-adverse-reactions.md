@@ -14,18 +14,20 @@ The following adverse drug reactions are discussed in other sections of the labe
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Studies C209 and C215 – Treatment-Emergent Adverse Drug Reactions: The safety assessment of rilpivirine, used in combination with other antiretroviral drugs, is based on the Week 96 pooled data from 1368 subjects in the Phase 3 trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE) in antiretroviral treatment-naive HIV-1 infected adult subjects.
+In HIV-1-Infected Subjects With No Antiretroviral Treatment History
+
+Studies C209 and C215 – Treatment-Emergent Adverse Drug Reactions: The safety assessment of rilpivirine, used in combination with other antiretroviral drugs, is based on the Week 96 pooled data from 1368 subjects in the Phase 3 trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE) in antiretroviral treatment-naive HIV-1-infected adult subjects.
 A total of 686 subjects received rilpivirine in combination with other antiretroviral drugs as background regimen; most (N=550) received emtricitabine/tenofovir DF as background regimen.
 The number of subjects randomized to the control arm efavirenz was 682, of which 546 received emtricitabine/tenofovir DF as background regimen [See Clinical Studies (14)].
 The median duration of exposure for subjects in either treatment arm was 104 weeks.
 
 Adverse drug reactions (ADR) observed at Week 96 in subjects who received rilpivirine or efavirenz plus emtricitabine/tenofovir DF as background regimen are shown in Table 1.
 No new types of adverse reactions were identified between Week 48 and Week 96.
-The adverse drug reactions observed in this subset of subjects were generally consistent with those seen for the overall patient population participating in these studies (refer to the prescribing information for EDURANT).
+The adverse drug reactions observed in this subset of subjects were generally consistent with those seen for the overall patient population participating in these studies (refer to the prescribing information for Edurant).
 
 The proportion of subjects who discontinued treatment with rilpivirine or efavirenz + emtricitabine/tenofovir DF due to ADR, regardless of severity, was 2% and 5%, respectively.
 The most common ADRs leading to discontinuation were psychiatric disorders: 9 (1.6%) subjects in the rilpivirine + emtricitabine/tenofovir DF arm and 12 (2.2%) subjects in the efavirenz + emtricitabine/tenofovir DF arm.
-Rash led to discontinuation in 1 (0.2%) subjects in the rilpivirine + emtricitabine/tenofovir DF arm and 10 (1.8%) subjects in the efavirenz + emtricitabine/tenofovir DF arm.
+Rash led to discontinuation in 1 (0.2%) subject in the rilpivirine + emtricitabine/tenofovir DF arm and 10 (1.8%) subjects in the efavirenz + emtricitabine/tenofovir DF arm.
 
 Common Adverse Drug Reactions
 
@@ -51,15 +53,19 @@ Table 1 Selected Treatment-Emergent Adverse Drug ReactionsFrequencies of adverse
 
 Rilpivirine: Treatment-emergent adverse drug reactions of at least moderate intensity (≥ Grade 2) that occurred in less than 2% of subjects treated with rilpivirine plus any of the allowed background regimens (N=686) in clinical studies C209 and C215 include (grouped by Body System): vomiting, diarrhea, abdominal discomfort, abdominal pain, fatigue, cholecystitis, cholelithiasis, decreased appetite, somnolence, sleep disorders, anxiety, glomerulonephritis membranous, glomerulonephritis mesangioproliferative, and nephrolithiasis.
 
+In Virologically-Suppressed HIV-1-Infected Subjects
+
+No new adverse reactions to COMPLERA were identified in stable, virologically-suppressed subjects switching to COMPLERA from a regimen containing a ritonavir-boosted protease inhibitor; however the frequency of adverse reactions increased by 20% (Study 106) after switching to COMPLERA.
+
 Emtricitabine and Tenofovir Disoproxil Fumarate: The following adverse reactions were observed in clinical trials of emtricitabine or tenofovir DF in combination with other antiretroviral agents:
 
-The most common adverse drug reactions occurred in at least 10% of treatment-naive subjects in a phase 3 clinical trial of emtricitabine and tenofovir DF in combination with another antiretroviral agent are diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
+The most common adverse drug reactions occurring in at least 10% of HIV-1-infected treatment-naive adult subjects in a Phase 3 clinical trial of emtricitabine and tenofovir DF in combination with another antiretroviral agent are diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
 In addition, adverse drug reactions that occurred in at least 5% of treatment-experienced or treatment-naive subjects receiving emtricitabine or tenofovir DF with other antiretroviral agents in clinical trials include abdominal pain, dyspepsia, vomiting, fever, pain, nasopharyngitis, pneumonia, sinusitis, upper respiratory tract infection, arthralgia, back pain, myalgia, paresthesia, peripheral neuropathy (including peripheral neuritis and neuropathy), anxiety, increased cough, and rhinitis.
 
 Skin discoloration has been reported with higher frequency among emtricitabine-treated subjects; it was manifested by hyperpigmentation on the palms and/or soles and was generally mild and asymptomatic.
 The mechanism and clinical significance are unknown.
 
-Laboratory Abnormalities: The percentage of subjects treated with rilpivirine + emtricitabine/tenofovir DF or efavirenz + emtricitabine/tenofovir DF in studies C209 and C215 with selected treatment-emergent laboratory abnormalities (Grades 1 to 4), representing worst grade toxicity are presented in Table 2.
+Laboratory Abnormalities: The percentage of subjects treated with rilpivirine + emtricitabine/tenofovir DF or efavirenz + emtricitabine/tenofovir DF in studies C209 and C215 with selected treatment-emergent laboratory abnormalities (Grades 1 to 4), representing worst grade toxicity, are presented in Table 2.
 
 Table 2 Selected Laboratory Abnormalities (Grades 1–4) Reported in Subjects Who Received Rilpivirine or Efavirenz in Combination with Emtricitabine/Tenofovir DF in Studies C209 and C215 (Week 96 Analysis)
 
@@ -106,7 +112,7 @@ Emtricitabine or Tenofovir Disoproxil Fumarate: The following laboratory abnorma
 Adrenal Function
 
 In the pooled Phase 3 trials of C209 and C215, in subjects treated with rilpivirine plus any of the allowed background regimen (N=686), at Week 96, there was an overall mean change from baseline in basal cortisol of -19.1 (95% CI: -30.9; -7.4) nmol/L in the rilpivirine group, and of +0.1 (95% CI: -12.6; 12.8) nmol/L in the efavirenz group.
-At Week 96, the mean change from baseline in ACTH-stimulated cortisol levels was lower in the rilpivirine group (+18.4± 8.36 nmol/L) than in the efavirenz group (+54.1± 7.24 nmol/L).
+At Week 96, the mean change from baseline in ACTH-stimulated cortisol levels was lower in the rilpivirine group (+18.4 ± 8.36 nmol/L) than in the efavirenz group (+54.1 ± 7.24 nmol/L).
 Mean values for both basal and ACTH-stimulated cortisol values at Week 96 were within the normal range.
 Overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.
 Effects on adrenal function were comparable by background N(t)RTIs.
@@ -144,7 +150,7 @@ The pharmacokinetic exposure of rilpivirine in coinfected subjects was comparabl
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of emtricitabine or tenofovir DF.
+The following adverse reactions have been identified during postapproval use of rilpivirine- or tenofovir DF-containing regimens.
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Rilpivirine:

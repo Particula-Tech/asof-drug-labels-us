@@ -4,7 +4,7 @@
 
 Pregnancy Category B
 
-Emtricitabine: The incidence of fetal variations and malformations was not increased in embryofetal toxicity studies performed with emtricitabine in mice at exposures (AUC) approximately 60 times higher and in rabbits at approximately 120-times higher than human exposures at the recommended daily dose.
+Emtricitabine: The incidence of fetal variations and malformations was not increased in embryofetal toxicity studies performed with emtricitabine in mice at exposures (AUC) approximately 60 times higher and in rabbits at approximately 120 times higher than human exposures at the recommended daily dose.
 
 Rilpivirine: Studies in animals have shown no evidence of embryonic or fetal toxicity or an effect on reproductive function.
 In offspring from rat and rabbit dams treated with rilpivirine during pregnancy and lactation, there were no toxicologically significant effects on developmental endpoints.
@@ -22,21 +22,21 @@ Healthcare providers are encouraged to register patients by calling 1-800-258-42
 
 The Centers for Disease Control and Prevention recommend that HIV infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
 
-Emtricitabine: Samples of breast milk obtained from five HIV-1 infected mothers show that emtricitabine is secreted in human milk.
+Emtricitabine: Samples of breast milk obtained from five HIV-1-infected mothers show that emtricitabine is secreted in human milk.
 Breastfeeding infants whose mothers are being treated with emtricitabine may be at risk for developing viral resistance to emtricitabine.
 Other emtricitabine-associated risks in infants breastfed by mothers being treated with emtricitabine are unknown.
 
 Rilpivirine: Studies in lactating rats and their offspring indicate that rilpivirine was present in rat milk.
 It is not known whether rilpivirine is secreted in human milk.
 
-Tenofovir Disoproxil Fumarate: Samples of breast milk obtained from five HIV-1 infected mothers in the first post-partum week show that tenofovir is excreted in human milk.
+Tenofovir Disoproxil Fumarate: Samples of breast milk obtained from five HIV-1-infected mothers in the first post-partum week show that tenofovir is excreted in human milk.
 The impact of this exposure in breastfed infants is unknown.
 
 Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving COMPLERA.
 
 ## 8.4 Pediatric Use
 
-COMPLERA is not recommended for patients less than 18 years of age because not all the individual components of the COMPLERA have safety, efficacy and dosing recommendations available for all pediatric age groups [See Clinical Pharmacology (12.3)].
+COMPLERA is not recommended for patients less than 18 years of age because not all the individual components of COMPLERA have safety, efficacy and dosing recommendations available for all pediatric age groups [See Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
