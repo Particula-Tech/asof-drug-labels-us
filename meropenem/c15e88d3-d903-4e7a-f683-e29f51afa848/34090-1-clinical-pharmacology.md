@@ -209,13 +209,13 @@ For anaerobic bacteria, the susceptibility to meropenem as MICs can be determine
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Minimum InhibitoryConcentrations (mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
 | Pathogen | S | I | R | S | I | R |
-| Enterobacteriaceae | ≤1 | 2 | ≥ 4 | ≥ 23 | 20-22 | ≤ 19 |
-| Pseudomonas aeruginosa | ≤ 4 | 8 | ≥ 16 | ≥16 | 14-15 | ≤13 |
-| Haemophilus influenzaeThe current absence of data on resistant isolates precludes defining any category other than “Susceptible”. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 0.5 | — | — | ≥ 20 | — | — |
+| Enterobacteriaceae | ≤ 1 | 2 | ≥ 4 | ≥ 23 | 20-22 | ≤ 19 |
+| Pseudomonas aeruginosa1 | ≤ 2 | 4 | ≥ 8 | ≥ 19 | 16-18 | ≤ 15 |
+| Haemophilus influenzae | ≤ 0.5 | — | — | ≥ 20 | — | — |
 | Neisseria meningitidis | ≤ 0.25 | — | — | ≥ 30 | — | — |
-| Streptococcus pneumoniaeInterpretative criteria in Table 2 should only be used for isolates from CSF. For nonmeningitis isolates of Streptococcus pneumoniae a penicillin MIC of ≤ 0.06 mcg/mL or oxacillin zone ≥ 20 mm can predict susceptibility to meropenem. MIC testing should be performed on isolates that do not test as susceptible by either of these methods, and on all meningitis S. pneumoniae isolates.Reliable disk diffusion tests for meropenem do not yet exist for testing streptococci | ≤ 0.25 | 0.5 | ≥ 1 | — | — | — |
-| Streptococcus agalactiae and Streptococcus pyogenes,Viridans group streptococci should be tested for meropenem susceptibility using an MIC method, | ≤ 0.5 | — | — | — | — | — |
-| AnaerobesMIC values using either Brucella blood or Wilkins Chalgren agar (former reference medium) are considered equivalent, based upon published in vitro literature and a multicenter collaborative trial for these antimicrobial agents. | ≤ 4 | 8 | ≥ 16 | — | — | — |
+| Streptococcus pneumoniae | ≤ 0.25 | 0.5 | ≥ 1 | — | — | — |
+| Streptococcus agalactiae and Streptococcus pyogenes,, | ≤ 0.5 | — | — | — | — | — |
+| Anaerobes | ≤ 4 | 8 | ≥ 16 | — | — | — |
 | S = Susceptible, I = Intermediate, R = ResistantNo interpretative criteria have been established for testing enterococci.Susceptibility of staphylococci to meropenem may be deduced from testing penicillin and either cefoxitin or oxacillin. |  |  |  |  |  |  |
 
 A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound in the blood reaches the concentrations usually achievable.
@@ -243,3 +243,4 @@ Standard meropenem powder should provide the following range of values noted in 
 | Bacteroides fragilisUsing the Reference Agar Dilution procedure.ATCC 25285 | 0.03–0.25 |  |
 | Bacteroides thetaiotaomicronATCC 29741 | 0.125-0.5 |  |
 | Eubacterium lentumATCC 43055 | 0.125-1 |  |
+| Clostridium dificile1ATCC 700057 | 0.5-4 |  |

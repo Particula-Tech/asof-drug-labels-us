@@ -5,7 +5,7 @@ The following are discussed in greater detail in other sections of labeling:
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - •Seizure Potential [see Warnings and Precautions (5.2)]
 - •Interaction with Valproic Acid [see Warnings and Precautions (5.3)]
-- •Clostridium difficile – Associated Diarrhea [see Warnings and Precautions (5.4)]
+- •Clostridium difficile – associated Diarrhea [see Warnings and Precautions (5.4)]
 - •Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.5)]
 - •Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.6)]
 - •Laboratory Tests [see Warnings and Precautions (5.7)]
@@ -88,7 +88,7 @@ Pediatric Patients
 
 Clinical Adverse Reactions
 
-MERREM I.V. was studied in 515 pediatric patients (≥ 3 months to < 13 years of age) with serious bacterial infections (excluding meningitis, see next section.) at dosages of 10 to 20 mg/kg every 8 hours.
+MERREM I.V. was studied in 515 pediatric patients (≥ 3 months to < 13 years of age) with serious bacterial infections (excluding meningitis, see next section) at dosages of 10 to 20 mg/kg every 8 hours.
 The types of clinical adverse events seen in these patients are similar to the adults, with the most common adverse events reported as possibly, probably, or definitely related to MERREM I.V. and their rates of occurrence as follows:
 
 | Diarrhea |  | 3.5% |

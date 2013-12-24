@@ -3,6 +3,8 @@
 ## 2.1 Adult Patients
 
 The recommended dose of MERREM I.V. is 500 mg given every 8 hours for skin and skin structure infections and 1 g given every 8 hours for intra-abdominal infections.
+When treating complicated skin and skin structure infections caused by P.aeruginosa, a dose of 1g every 8 hours is recommended.
+
 MERREM I.V. should be administered by intravenous infusion over approximately 15 to 30 minutes.
 Doses of 1 g may also be administered as an intravenous bolus injection (5 to 20 mL) over approximately 3-5 minutes.
 
@@ -43,13 +45,15 @@ MERREM I.V. should be given as intravenous infusion over approximately 15 to 30 
 There is limited safety data available to support the administration of a 40 mg/kg (up to a maximum of 2 g) bolus dose.
 
 Recommended MERREM I.V.
-Dosage Schedule for Pediatric Patients With Normal Renal Function
+Dosage Schedule for Pediatric Patients with Normal Renal Function
 
 | Type of Infection | Dose (mg/kg) | Up to a Maximum Dose | Dosing Interval |
 | --- | --- | --- | --- |
 | Complicated skin and skin structure | 10 | 500 mg | Every 8 hours |
 | Intra-abdominal | 20 | 1 g | Every 8 hours |
 | Meningitis | 40 | 2 g | Every 8 hours |
+
+When treating complicated skin and skin structure infections caused by P. aeruginosa, a dose of 20 mg/kg (or 1 g for pediatric patients weighing over 50 kg) every 8 hours is recommended.
 
 There is no experience in pediatric patients with renal impairment.
 
@@ -80,49 +84,14 @@ MERREM I.V. should not be mixed with or physically added to solutions containing
 
 ## 2.6 Stability and Storage
 
-Freshly prepared solutions of MERREM I.V. should be used whenever possible.
-However, constituted solutions of MERREM I.V. maintain satisfactory potency at controlled room temperature 15-25ºC (59-77°F) or under refrigeration at 4°C (39°F) as described below.
+Freshly prepared solutions of MERREM I.V. should be used.
+However, constituted solutions of MERREM I.V. maintain satisfactory potency under the conditions described below.
 Solutions of intravenous MERREM I.V. should not be frozen.
 
-Intravenous Bolus Administration
+MERREM I.V. injection vials constituted with sterile Water for Injection for bolus administration (up to 50 mg/mL of MERREM I.V.) may be stored for up to 3 hours at up to 25oC (77oF) or for 13 hours at up to 5°C (41°F).
 
-MERREM I.V. injection vials constituted with sterile Water for Injection for bolus administration (up to 50 mg/mL of MERREM I.V.) may be stored for up to 2 hours at controlled room temperature 15-25°C (59-77°F) or for up to 12 hours at 4°C (39°F).
+Solutions prepared for infusion (MERREM I.V. concentrations ranging from 1 to 20 mg/mL) constituted with Sodium Chloride Injection 0.9% may be stored for 1 hour at up to 25oC (77oF) or 15 hours at up to 5oC (41oF).
 
-Intravenous Infusion Administration
-
-Stability in Infusion Vials: MERREM I.V. infusion vials constituted with Sodium Chloride Injection 0.9% (MERREM I.V. concentrations ranging from 2.5 to 50 mg/mL) are stable for up to 2 hours at controlled room temperature 15-25°C (59- 77°F) or for up to 18 hours at 4°C (39°F).
-Infusion vials of MERREM I.V. constituted with Dextrose Injection 5% (MERREM I.V. concentrations ranging from 2.5 to 50 mg/mL) are stable for up to 1 hour at controlled room temperature 15-25°C (59-77°F) or for up to 8 hours at 4°C (39°F).
-
-Stability in Plastic I.V.
-Bags: Solutions prepared for infusion (MERREM I.V. concentrations ranging from 1 to 20 mg/mL) may be stored in plastic intravenous bags with diluents as shown below:
-
-|  | Number of Hours Stable at Controlled Room Temperature 15-25°C (59-77°F) | Number of Hours Stable at 4°C (39°F) |
-| --- | --- | --- |
-| Sodium Chloride Injection 0.9% | 4 | 24 |
-| Dextrose Injection 5.0% | 1 | 4 |
-| Dextrose Injection 10.0% | 1 | 2 |
-| Dextrose and Sodium Chloride Injection 5.0%/0.9% | 1 | 2 |
-| Dextrose and Sodium Chloride Injection 5.0%/0.2% | 1 | 4 |
-| Potassium Chloride in Dextrose Injection 0.15%/5.0% | 1 | 6 |
-| Sodium Bicarbonate in Dextrose Injection 0.02%/5.0% | 1 | 6 |
-| Dextrose Injection 5.0% in Normosol®-MNORMOSOL is a registered trademark of Hospira Inc. | 1 | 8 |
-| Dextrose Injection 5.0% in Ringers Lactate Injection | 1 | 4 |
-| Dextrose and Sodium Chloride Injection 2.5%/0.45% | 3 | 12 |
-| Mannitol Injection 2.5% | 2 | 16 |
-| Ringers Injection | 4 | 24 |
-| Ringers Lactate Injection | 4 | 12 |
-| Sodium Lactate Injection 1/6 N | 2 | 24 |
-| Sodium Bicarbonate Injection 5.0% | 1 | 4 |
-
-Stability in Baxter Minibag Plus: Solutions of MERREM I.V.
-(MERREM I.V. concentrations ranging from 2.5 to 20 mg/mL) in Baxter Minibag Plus bags with Sodium Chloride Injection 0.9% may be stored for up to 4 hours at controlled room temperatures 15-25°C (59-77°F) or for up to 24 hours at 4°C (39°F).
-Solutions of MERREM I.V.
-(MERREM I.V. concentrations ranging from 2.5 to 20 mg/mL) in Baxter Minibag Plus bags with Dextrose Injection 5.0% may be stored up to 1 hour at controlled room temperatures 15-25°C (59-77°F) or for up to 6 hours at 4°C (39°F).
-
-Stability in Plastic Syringes, Tubing and Intravenous Infusion Sets: Solutions of MERREM I.V.
-(MERREM I.V. concentrations ranging from 1 to 20 mg/mL) in Water for Injection or Sodium Chloride Injection 0.9% (for up to 4 hours) or in Dextrose Injection 5.0% (for up to 2 hours) at controlled room temperatures 15-25°C (59-77°F) are stable in plastic tubing and volume control devices of common intravenous infusion sets.
-
-Solutions of MERREM I.V.
-(MERREM I.V. concentrations ranging from 1 to 20 mg/mL) in Water for Injection or Sodium Chloride Injection 0.9% (for up to 48 hours) or in Dextrose Injection 5% (for up to 6 hours) are stable at 4ºC (39ºF) in plastic syringes.
+Solutions prepared for infusion (MERREM I.V. concentrations ranging from 1 to 20 mg/mL) constituted with Dextrose Injection 5% should be used immediately.
 
 NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

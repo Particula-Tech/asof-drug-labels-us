@@ -9,8 +9,8 @@ Because animal reproduction studies are not always predictive of human response,
 
 ## 8.3 Nursing Mothers
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when MERREM I.V. is administered to a nursing woman.
+Meropenem has been reported to be excreted in human milk.
+Caution should be exercised when MERREM I.V. is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 

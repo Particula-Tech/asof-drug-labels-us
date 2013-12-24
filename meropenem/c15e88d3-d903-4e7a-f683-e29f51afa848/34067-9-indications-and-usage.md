@@ -4,7 +4,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-MERREM I.V. is useful as presumptive therapy in the indicated condition (e.g., intra-abdominal infections) prior to the identification of the causative organisms because of its broad spectrum of bactericidal activity.
+MERREM I.V. is useful as presumptive therapy in the indicated condition (e.g. intra-abdominal infections) prior to the identification of the causative organisms because of its broad spectrum of bactericidal activity.
 
 ## 1.1 Skin and Skin Structure Infections (Adult Patients and Pediatric Patients ≥ 3 Months only)
 
