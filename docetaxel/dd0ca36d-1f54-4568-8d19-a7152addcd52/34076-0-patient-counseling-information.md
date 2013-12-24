@@ -4,7 +4,7 @@ See FDA-Approved Patient Labeling
 
 - Docetaxel may cause fetal harm.
   Advise patients to avoid becoming pregnant while receiving this drug.
-  Women of childbearing potential should use effective contraceptives if receiving docetaxel [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+  Women of childbearing potential should use effective contraceptives if receiving docetaxel [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 - Obtain detailed allergy and concomitant drug information from the patient prior to docetaxel administration.
 - Explain the significance of oral corticosteroids such as dexamethasone administration to the patient to help facilitate compliance.
   Instruct patients to report if they were not compliant with oral corticosteroid regimen.

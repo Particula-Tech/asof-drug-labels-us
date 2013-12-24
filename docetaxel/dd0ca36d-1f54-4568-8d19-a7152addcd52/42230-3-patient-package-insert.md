@@ -1,6 +1,10 @@
 Patient Information
 
-Docetaxel (pronounced as DOSE-ē-tāx-el)
+Docetaxel (DOSE-ē-tāx-el)
+
+Injection Concentrate
+
+Intravenous Infusion
 
 Read this Patient Information before you receive your first treatment with docetaxel and each time before you are treated.
 There may be new information.
@@ -44,11 +48,11 @@ Docetaxel is a prescription anti-cancer medicine used to treat certain people wi
 - stomach cancer
 - head and neck cancer
 
-The effectiveness of docetaxel in children has not been established.
+It is not known if docetaxel is effective in children.
 
-Who should not take docetaxel?
+Who should not receive docetaxel?
 
-Do not take docetaxel if you:
+Do not receive docetaxel if you:
 
 - have had a severe allergic reaction to: See "What is the most important information I should know about docetaxel?" for the signs and symptoms of a severe allergic reaction.
   - docetaxel, the active ingredient in docetaxel, or
@@ -61,21 +65,21 @@ What should I tell my doctor before receiving docetaxel?
 Before you receive docetaxel, tell your doctor if you:
 
 - are allergic to any medicines.
-  See "Who should not take docetaxel?"
-  Also, see the end of this leaflet for a list of the ingredients in docetaxel.
+  See "Who should not receive docetaxel?"
+  Also, see the end of this leaflet for a complete list of the ingredients in docetaxel.
 - have liver problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
   Docetaxel can harm your unborn baby.
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   It is not known if docetaxel passes into your breast milk.
-  You and your doctor should decide if you will take docetaxel or breast-feed.
+  You and your doctor should decide if you will receive docetaxel or breastfeed.
 
-Tell your doctor about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Docetaxel may affect the way other medicines work, and other medicines may affect the way docetaxel works.
 
 Know the medicines you take.
-Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
 How will I receive docetaxel?
 
@@ -83,7 +87,7 @@ How will I receive docetaxel?
 - Docetaxel is usually given every 3 weeks.
 - Your doctor will decide how long you will receive treatment with docetaxel.
 - Your doctor will check your blood cell counts and other blood tests during your treatment with docetaxel to check for side effects of docetaxel.
-- Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while taking docetaxel.
+- Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while receiving docetaxel.
 
 What are the possible side effects of docetaxel?
 
@@ -91,10 +95,11 @@ Docetaxel may cause serious side effects including death.
 
 - See "What is the most important information I should know about docetaxel?"
 - Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who take docetaxel along with certain other medicines.
-  Tell your doctor about all the medicines you take.
-- Other Blood Disorders – Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with docetaxel.
+- Other Blood Disorders.
+  Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with docetaxel.
 - Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
 - Neurologic Symptoms including numbness, tingling, or burning in your hands and feet.
+- Vision Problems including blurred vision or loss of vision.
 
 The most common side effects of docetaxel include:
 
@@ -128,9 +133,9 @@ General information about docetaxel
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 This Patient Information leaflet summarizes the most important information about docetaxel.
 If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about docetaxel that is written for healthcare professionals.
+You can ask your pharmacist or doctor for information about docetaxel that is written for health professionals.
 
-For more information contact 1-800-633-1610
+For more information, call 1-800-633-1610.
 
 What are the ingredients in docetaxel?
 
@@ -153,3 +158,5 @@ Inactive ingredients include: ethanol and polysorbate 80
 | Date: ___________ Time: ___________ |
 | Date: ___________ Time: ___________ (Docetaxel Treatment Day) |
 | Time: ___________ |
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.

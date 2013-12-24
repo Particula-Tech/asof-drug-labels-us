@@ -18,6 +18,12 @@ Docetaxel Injection Concentrate 80 mg/4 mL: 80 mg docetaxel in 4 mL 50/50 (v/v) 
 
 The vial is in a blister pack in one carton.
 
+Docetaxel 160 mg/8 mL (NDC 0955-1022-08)
+
+Docetaxel Injection Concentrate 160 mg/8 mL: 160 mg docetaxel in 8 mL 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol
+
+The vial is in a blister pack in one carton.
+
 ## 16.2 Storage
 
 Store between 2°C and 25°C (36°F and 77°F).

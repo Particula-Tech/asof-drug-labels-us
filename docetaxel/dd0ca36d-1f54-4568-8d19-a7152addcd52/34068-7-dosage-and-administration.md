@@ -189,8 +189,8 @@ Use only a 21 gauge needle to withdraw docetaxel from the vial because larger bo
 
 1. Docetaxel vials should be stored between 2 and 25°C (36 and 77°F).
    If the vials are stored under refrigeration, allow the appropriate number of vials of Docetaxel Injection Concentrate vials to stand at room temperature for approximately 5 minutes before use.
-2. Using only a 21 gauge needle aseptically withdraw the required amount of docetaxel injection concentrate (20 mg docetaxel/mL) with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
-   If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel is not exceeded
+2. Using only a 21 gauge needle, aseptically withdraw the required amount of docetaxel injection concentrate (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection (one shot) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+   If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel is not exceeded.
 3. Thoroughly mix the infusion by gentle manual rotation.
 4. As with all parenteral products, docetaxel should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
    If the docetaxel dilution for intravenous infusion is not clear or appears to have precipitation, it should be discarded.
@@ -201,5 +201,7 @@ The docetaxel dilution for infusion should be administered intravenously as a 1-
 
 ## 2.10 Stability
 
-Docetaxel final dilution for infusion, if stored between 2°C and 25°C (36°F and 77°F) is stable for 4 hours.
-Docetaxel final dilution for infusion (in either 0.9% Sodium Chloride solution or 5% Dextrose solution) should be used within 4 hours (including the 1 hour intravenous administration).
+Docetaxel final dilution for infusion, if stored between 2°C and 25°C (36°F and 77°F) is stable for 6 hours.
+Docetaxel final dilution for infusion (in either 0.9% Sodium Chloride solution or 5% Dextrose solution) should be used within 6 hours (including the 1 hour intravenous administration).
+
+In addition, physical and chemical in-use stability of the infusion solution prepared as recommended has been demonstrated in non-PVC bags up to 48 hours when stored between 2°C and 8°C (36 and 46°F).

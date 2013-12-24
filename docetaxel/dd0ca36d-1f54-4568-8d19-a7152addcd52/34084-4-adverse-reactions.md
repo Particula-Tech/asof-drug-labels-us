@@ -623,10 +623,13 @@ Ophthalmologic: conjunctivitis, lacrimation or lacrimation with or without conju
 Excessive tearing which may be attributable to lacrimal duct obstruction has been reported.
 Rare cases of transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
 These were reversible upon discontinuation of the infusion.
+Cases of cystoid macular edema (CME) have been reported in patients treated with docetaxel.
 
 Hearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
 
-Respiratory dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, and pulmonary fibrosis have rarely been reported and may be associated with fatal outcome.
+Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis have rarely been reported and may be associated with fatal outcome.
 Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
 
 Renal: renal insufficiency and renal failure have been reported, the majority of these cases were associated with concomitant nephrotoxic drugs.
+
+Metabolism and nutrition disorders: cases of hyponatremia have been reported.
