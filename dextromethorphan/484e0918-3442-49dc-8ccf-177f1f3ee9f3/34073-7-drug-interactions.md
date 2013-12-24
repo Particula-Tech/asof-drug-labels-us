@@ -2,8 +2,7 @@
 
 ## 7.1 MAOIs
 
-Do not use NUEDEXTA with monoamine oxidase inhibitors (MAOIs) or in patients who have taken MAOIs within the preceding 14 days.
-[see Contraindications (4.3)].
+Do not use NUEDEXTA with monoamine oxidase inhibitors (MAOIs) or in patients who have taken MAOIs within the preceding 14 days [see Contraindications (4.3)].
 
 ## 7.2 Drugs that Prolong QT and are Metabolized by CYP2D6
 

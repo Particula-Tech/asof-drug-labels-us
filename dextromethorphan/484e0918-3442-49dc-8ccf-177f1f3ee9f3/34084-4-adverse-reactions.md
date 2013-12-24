@@ -14,11 +14,11 @@ Approximately 60% of patients had ALS and 40% MS. Patients were 25 to 80 years o
 Three (3) ALS patients in each drug treatment arm and 1 ALS patient in the placebo arm died during the 12-week placebo-control period.
 All deaths were consistent with the natural progression of ALS.
 
-### Adverse Reactions Leading to Discontinuation
+Adverse Reactions Leading to Discontinuation
 
 The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) that led to discontinuation with the dextromethorphan hydrobromide 20 mg/quinidine sulfate 10 mg twice daily dose were muscle spasticity (3%), respiratory failure (1%), abdominal pain (2%), asthenia (2%), dizziness (2%), fall (1%), and muscle spasms (2%).
 
-### Most Common Adverse Reactions
+Most Common Adverse Reactions
 
 Adverse drug reactions that occurred in ≥ 3% of patients receiving the dextromethorphan hydrobromide 20 mg/quinidine sulfate 10 mg twice daily dose, and at an incidence of ≥ 2 times placebo in short-term clinical trials in ALS and MS are provided in Table 1.
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.

@@ -9,7 +9,7 @@ The most common adverse events were mild to moderate nausea, dizziness, and head
 The most important adverse effects of acute quinidine overdose are ventricular arrhythmias and hypotension.
 Other signs and symptoms of overdose may include vomiting, diarrhea, tinnitus, high-frequency hearing loss, vertigo, blurred vision, diplopia, photophobia, headache, confusion, and delirium.
 
-While therapeutic doses of quinidine for treatment of cardiac arrhythmia or malaria are generally 10-fold or more higher than the dose of quinidine in NUEDEXTA, potentially fatal cardiac arrhythmia, including torsades de pointes, can occur at quinidine exposures that are possible from NUEDEXTA overdose.
+While therapeutic doses of quinidine for treatment of cardiac arrhythmia or malaria are generally 10-fold, or more, higher than the dose of quinidine in NUEDEXTA, potentially fatal cardiac arrhythmia, including torsades de pointes, can occur at quinidine exposures that are possible from NUEDEXTA overdose.
 
 Adverse effects of dextromethorphan overdose include nausea, vomiting, stupor, coma, respiratory depression, seizures, tachycardia, hyperexcitability, and toxic psychosis.
 Other adverse effects include ataxia, nystagmus, dystonia, blurred vision, and changes in muscle reflexes.

@@ -10,7 +10,8 @@ Patients should be instructed to seek medical attention immediately if they expe
 ## 17.2 Cardiac Effects
 
 Patients should be advised to consult their healthcare provider immediately if they feel faint or lose consciousness.
-Patients should be counseled to inform their healthcare provider if they have any personal or family history of QTc prolongation [see Contraindications (4.4), Warnings and Precautions (5.3) Drug Interactions (7)].
+Patients should be counseled to inform their healthcare provider if they have any personal or family history of QTc prolongation.
+[see Contraindications (4.4), Warnings and Precautions (5.3) Drug Interactions (7)].
 
 ## 17.3 Dizziness
 
@@ -43,8 +44,8 @@ Advise patients to keep this and all medications out of reach of children and pe
 
 Marketed by: Avanir Pharmaceuticals, Inc. Aliso Viejo, CA 92656 1-855-4NUEDEX (468-3339) Issued October 2010
 
-Part No. 2000004239 / Rev.
-Date 08/2011
+Part No. 2000005779 / Rev.
+Date 05/2013
 
 AVANIR and NUEDEXTA are trademarks or registered trademarks of Avanir Pharmaceuticals, Inc. in the United States and other countries.
-U.S. Patent Nos.: 7,659,282 and RE38,115 ©2010-2011 Avanir Pharmaceuticals, Inc. All rights reserved.
+U.S. Patent Nos.: 8,227,484 7,659,282 and RE38,115 ©2010-2013 Avanir Pharmaceuticals, Inc. All rights reserved.

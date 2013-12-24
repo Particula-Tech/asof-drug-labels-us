@@ -8,7 +8,7 @@ The mechanism by which dextromethorphan exerts therapeutic effects in patients w
 
 ## 12.2 Pharmacodynamics
 
-### Cardiac Electrophysiology
+Cardiac Electrophysiology
 
 The effect of dextromethorphan hydrobromide 30 mg/quinidine sulfate 10 mg (for 7 doses) on QTc prolongation was evaluated in a randomized, double-blind (except for moxifloxacin), placebo- and positive-controlled (400 mg moxifloxacin) crossover thorough QT study in 50 fasted normal healthy men and women with CYP2D6 extensive metabolizer (EM) genotype.
 Mean changes in QTcF were 6.8 ms for dextromethorphan hydrobromide 30 mg/quinidine sulfate 10 mg and 9.1 ms for the reference positive control (moxifloxacin).
@@ -48,32 +48,32 @@ The 3-hydroxymetabolite is considered to be at least half as pharmacologically a
 When the urine pH is less than 7, about 20% of administered quinidine appears unchanged in the urine, but this fraction drops to as little as 5% when the urine is more alkaline.
 Renal clearance involves both glomerular filtration and active tubular secretion, moderated by (pH-dependent) tubular reabsorption.
 
-### Specific Populations
+Specific Populations
 
-#### Geriatric Use
+Geriatric Use
 
 The pharmacokinetics of dextromethorphan/quinidine have not been investigated systematically in elderly subjects (aged > 65 years) although such subjects were included in the clinical program.
 A population pharmacokinetic analysis of 170 subjects (148 subjects < 65 years old and 22 subjects ≥ 65 years old) administered dextromethorphan hydrobromide 30 mg/quinidine sulfate 30 mg revealed similar pharmacokinetics in subjects < 65 years and those ≥ 65 years of age.
 
-#### Pediatric Use
+Pediatric Use
 
 The pharmacokinetics of NUEDEXTA in pediatric patients have not been studied.
 
-#### Gender
+Gender
 
 A population pharmacokinetic analysis based on data from 109 subjects (75 male; 34 female) showed no apparent gender differences in the pharmacokinetics of NUEDEXTA.
 
-#### Race
+Race
 
 A population pharmacokinetic analysis of race with 109 subjects (20 Caucasian; 71 Hispanic; 18 Black) revealed no apparent racial differences in the pharmacokinetics of NUEDEXTA.
 
-#### Renal Impairment
+Renal Impairment
 
 In a study of a combination dose of dextromethorphan hydrobromide 30 mg/quinidine sulfate 30 mg TWICE DAILY in 12 subjects with mild (CLCR 50-80 mL/min) or moderate (CLCR 30-50 mL/min) renal impairment (6 each) compared to 9 healthy subjects (matched in gender, age, and weight range to impaired subjects), subjects showed little difference in quinidine or dextromethorphan pharmacokinetics compared to healthy subjects.
 Dose adjustment is therefore not required in mild or moderate renal impairment.
 NUEDEXTA has not been studied in patients with severe renal impairment.
 
-#### Hepatic Impairment
+Hepatic Impairment
 
 In a study of a combination dose of dextromethorphan hydrobromide 30 mg/quinidine sulfate 30 mg TWICE DAILY in 12 subjects with mild or moderate hepatic impairment (as indicated by the Child-Pugh method; 6 each) compared to 9 healthy subjects (matched in gender, age, and weight range to impaired subjects), subjects with moderate hepatic impairment showed similar dextromethorphan AUC and Cmax and clearance compared to healthy subjects.
 Mild to moderate hepatic impairment had little effect on quinidine pharmacokinetics.
@@ -97,7 +97,9 @@ Paroxetine (CYP2D6 inhibitor and substrate): Co-administration of the selective 
 Group 1 (N=14) received paroxetine 20 mg once daily for 12 days followed by the addition of dextromethorphan hydrobromide 30 mg/quinidine sulfate 30 mg twice daily for 8 days.
 Group 2 (N=13) received dextromethorphan hydrobromide 30 mg/quinidine sulfate 30 mg twice daily for 8 days followed by the addition of paroxetine 20 mg once daily for 12 days.
 Dextromethorphan exposure (AUC0-12) and Cmax increased by 1.5 fold and 1.4 fold, respectively, and quinidine exposure (AUC0-12) and Cmax increased by 1.4 fold and 1.3 fold, respectively, and dextrorphan exposure (AUC0-12) and Cmax decreased by 14% and 18%, respectively, and paroxetine exposure (AUC0-24) and Cmax increased by 2.3 fold and 2.0 fold, respectively, when paroxetine was added to the combination dose of dextromethorphan/quinidine at steady state (Group 2).
+
 When the combination dose of dextromethorphan/quinidine was added to paroxetine at steady state (Group 1), paroxetine exposure (AUC0-24) and Cmax increased by 1.7 fold and 1.5 fold, respectively, while dextromethorphan and quinidine exposure do not change significantly and dextrorphan exposure (AUC0-12) and Cmax decreased by 34% and 33%, respectively.
+
 Based on these results, whenever NUEDEXTA is prescribed with drugs like paroxetine that inhibit or are extensively metabolized by CYP2D6, consideration should be given to initiating treatment with a lower dose.
 The dose of paroxetine can then be adjusted based on clinical response; however, dosage above 35 mg/day is not recommended [see CYP2D6 Substrate (5.4)].
 
