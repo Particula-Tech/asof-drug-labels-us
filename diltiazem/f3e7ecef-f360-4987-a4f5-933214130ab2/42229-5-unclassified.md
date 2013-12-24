@@ -1,10 +1,10 @@
 Rx only
 
-Caridizem® is a registered trademark of Valeant International (Barbados) SRL
+Caridizem® is a registered trademark of Valeant International Bermuda
 
-Manufactured by: sanofi-aventis U.S. LLC Kansas City, MO, 64137, USA
+Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ, 08807 USA
 
-For: Valeant Pharmaceuticals North America LLC Bridgewater, NJ, 08807, USA
+Made in Canada
 
-LB0078-01 Rev.
-11/10
+50102613A Rev.
+03/13

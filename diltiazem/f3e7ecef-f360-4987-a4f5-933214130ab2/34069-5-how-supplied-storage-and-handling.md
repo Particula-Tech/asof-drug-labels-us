@@ -1,16 +1,16 @@
 # HOW SUPPLIED
 
 CARDIZEM 30-mg tablets are supplied in bottles of 100 (NDC 0187-0771-47) and 500 (NDC 0187-0771-55).
-Each green tablet is engraved with MARION on one side and 1771 on the other.
+Each light green, round tablet is engraved with MARION on one side and 1771 on the other.
 
 CARDIZEM 60-mg scored tablets are supplied in bottles of 100 (NDC 0187-0772-47).
-Each yellow tablet is engraved with MARION on one side and 1772 on the other.
+Each light yellow, round tablet is engraved with MARION on one side and 1772 on the other.
 
 CARDIZEM 90-mg scored tablets are supplied in bottles of 100 (NDC 0187-0791-47).
-Each green oblong tablet is engraved with CARDIZEM on one side and 90 mg on the other.
+Each green, oblong tablet is engraved with CARDIZEM on one side and 90 mg on the other.
 
 CARDIZEM 120-mg scored tablets are supplied in bottles of 100 (NDC 0187-0792-47).
-Each yellow oblong tablet is engraved with CARDIZEM on one side and 120 mg on the other.
+Each light yellow, capsule-shaped tablet is engraved with CARDIZEM on one side and 120 mg on the other.
 
 Store at 25°C (77°); excursions permitted to 15-30°C (59-86°) [see USP Controlled Room Temperature].
 
