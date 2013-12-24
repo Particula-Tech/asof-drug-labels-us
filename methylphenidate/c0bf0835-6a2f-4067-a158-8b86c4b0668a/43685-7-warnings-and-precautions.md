@@ -59,6 +59,13 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
+## Priapism
+
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products in both pediatric and adult patients.
+Priapism was not reported with drug initiation but developed after some time on the drug, often subsequent to an increase in dose.
+Priapism has also appeared during a period of drug withdrawal (drug holidays or during discontinuation).
+Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
+
 ## Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
 Stimulants, including Ritalin and Ritalin-SR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
@@ -95,6 +102,11 @@ A patient Medication Guide is available for Ritalin and Ritalin-SR.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
+
+Priapism
+
+- Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
+  Instruct the patient to seek immediate medical attention in the event of priapism.
 
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
 

@@ -13,7 +13,7 @@ Tablets 20 mg -round, pale yellow, scored (imprinted CIBA 34)
 Bottles of 100 ……………………………......NDC 0078-0441-05
 
 Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F) [see USP Controlled Room Temperature].
-Protect from moisture.
+Protect from light.
 
 Dispense in tight, light-resistant container (USP).
 
@@ -24,8 +24,8 @@ Bottles of 100 ……………………………......NDC 0078-0442-05
 Note: SR Tablets are color-additive free.
 
 Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F) [see USP Controlled Room Temperature].
-Protect from light.
+Protect from moisture.
 
 Dispense in tight, light-resistant container (USP).
 
-T2013-48 June 2013
+T2013-125 December 2013

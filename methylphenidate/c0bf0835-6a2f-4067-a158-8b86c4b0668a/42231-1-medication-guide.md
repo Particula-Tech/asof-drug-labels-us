@@ -91,6 +91,9 @@ Other serious side effects include:
 - slowing of growth (height and weight) in children
 - seizures, mainly in patients with a history of seizures
 - eyesight changes or blurred vision
+- painful and prolonged erections (priapism) have occurred with methylphenidate.
+  If you or your child develop priapism, seek medical help right away.
+  Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
 
 Common side effects include:
 
@@ -110,7 +113,7 @@ How should I store RITALIN?
   Protect from light.
 - Keep RITALIN and all medicines out of the reach of children.
 
-General information about RITALIN
+General information about RITALIN.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use RITALIN for a condition for which it was not prescribed.
@@ -133,7 +136,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-T2013-49 June 2013
+T2013-126 December 2013
 
 # MEDICATION GUIDE
 
@@ -232,6 +235,9 @@ Other serious side effects include:
 - slowing of growth (height and weight) in children
 - seizures, mainly in patients with a history of seizures
 - eyesight changes or blurred vision
+- painful and prolonged erections (priapism) have occurred with methylphenidate.
+  If you or your child develop priapism, seek medical help right away.
+  Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
 
 Common side effects include:
 
@@ -280,4 +286,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2013-50 June 2013
+T2013-127 December 2013
