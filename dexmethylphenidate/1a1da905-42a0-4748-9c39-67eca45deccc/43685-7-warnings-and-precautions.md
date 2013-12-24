@@ -56,23 +56,30 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
-## 5.10 Peripheral Vasculopathy, Including Raynaud’s Phenomenon
+## 5.10 Priapism
+
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products in both pediatric and adult patients.
+Priapism was not reported with drug initiation but developed after some time on the drug, often subsequent to an increase in dose.
+Priapism has also appeared during a period of drug withdrawal (drug holidays or during discontinuation).
+Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
+
+## 5.11 Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
 Stimulants, including Focalin XR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
 Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
-Careful observation for digital changes is necessary during treating with ADHD stimulants.
+Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
-## 5.11 Visual Disturbance
+## 5.12 Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
 
-## 5.12 Use in Children Under Six Years of Age
+## 5.13 Use in Children Under Six Years of Age
 
 Focalin XR should not be used in children under 6 years of age, since safety and efficacy in this age group have not been established.
 
-## 5.13 Hematologic Monitoring
+## 5.14 Hematologic Monitoring
 
 Periodic CBC, differential, and platelet counts are advised during prolonged therapy.

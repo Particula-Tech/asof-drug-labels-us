@@ -141,9 +141,11 @@ Blood/Lymphatic: leukopenia and/or anemia
 
 Hepatobiliary: abnormal liver function, ranging from transaminase elevation to hepatic coma
 
-Psychiatric: transient depressed mood, aggressive behavior
+Psychiatric: transient depressed mood, aggressive behavior, libido changes
 
 Skin/Subcutaneous: scalp hair loss
+
+Urogenital: priapism
 
 Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
 In a single report, a 10-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.

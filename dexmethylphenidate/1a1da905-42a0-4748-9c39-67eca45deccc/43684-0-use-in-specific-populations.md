@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Category C:
 
 There are no adequate and well controlled studies of Focalin in pregnant women.
 Dexmethylphenidate did not cause major malformations in rats or rabbits; however, it did cause delayed skeletal ossification and decreased postweaning weight gain in rats.
@@ -29,7 +29,7 @@ Based on these limited data, the calculated infant daily dose for an exclusively
 ## 8.4 Pediatric Use
 
 The safety and efficacy of Focalin XR in children under 6 years old have not been established.
-Long-term effects of Focalin in children have not been well established [see Warnings and Precautions (5.11)].
+Long-term effects of Focalin in children have not been well established [see Warnings and Precautions (5.13)].
 
 In a study conducted in young rats, racemic methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (Postnatal Day 7) and continuing through sexual maturity (Postnatal Week 10).
 When these animals were tested as adults (Postnatal Weeks 13-14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] of racemic methylphenidate on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (12 times the racemic MRHD on a mg/m2 basis).

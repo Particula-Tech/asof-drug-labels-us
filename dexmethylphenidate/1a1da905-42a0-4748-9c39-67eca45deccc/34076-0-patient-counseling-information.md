@@ -8,6 +8,11 @@ The prescriber or health professional should instruct patients, their families, 
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
+Priapism
+
+Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
+Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.10)].
+
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
 
 - Instruct patients beginning treatment with Focalin XR about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
@@ -15,4 +20,4 @@ Circulation problems in fingers and toes [Peripheral vasculopathy, including Ray
 - Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Focalin XR.
 - Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
-T2013-55 June 2013
+T2013-121 December 2013
