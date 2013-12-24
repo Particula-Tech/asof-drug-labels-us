@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 10 mg
+Package Label – 10mg
 
 Rx Only NDC 0078-0424-05
 
@@ -20,7 +20,7 @@ separately.
 
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 20 mg
+Package Label – 20mg
 
 Rx Only NDC 0078-0370-05
 
@@ -40,7 +40,7 @@ separately.
 
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 30 mg
+Package Label – 30mg
 
 Rx Only NDC 0078-0371-05
 
@@ -60,7 +60,7 @@ separately.
 
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 40 mg
+Package Label – 40mg
 
 Rx Only NDC 0078-0372-05
 

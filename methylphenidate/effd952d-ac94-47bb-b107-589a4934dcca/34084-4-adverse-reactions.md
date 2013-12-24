@@ -65,7 +65,7 @@ Blood/Lymphatic: leukopenia and/or anemia
 
 Hepatobiliary: abnormal liver function, ranging from transaminase elevation to hepatic coma
 
-Psychiatric: transient depressed mood, aggressive behavior
+Psychiatric: transient depressed mood, aggressive behavior, libido changes
 
 Skin/Subcutaneous: scalp hair loss
 

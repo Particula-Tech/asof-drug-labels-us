@@ -94,6 +94,9 @@ Other serious side effects include:
 - slowing of growth (height and weight) in children
 - seizures, mainly in patients with a history of seizures
 - eyesight changes or blurred vision
+- painful and prolonged erections (priapism) have occurred with methylphenidate.
+  If you or your child develop priapism, seek medical help right away.
+  Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
 
 Common side effects include:
 
@@ -139,4 +142,4 @@ Manufactured for Novartis Pharmaceuticals Corporation East Hanover, New Jersey 0
 
 © Novartis
 
-T2013-52 June 2013
+T2013-124 December 2013

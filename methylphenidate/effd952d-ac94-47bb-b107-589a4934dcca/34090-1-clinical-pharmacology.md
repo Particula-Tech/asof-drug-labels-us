@@ -10,7 +10,7 @@ The d-threo enantiomer is more pharmacologically active than the l-threo enantio
 
 Effects on QT Interval
 
-The effect of Focalin XR (dexmethylphenidate, the pharmacologically active d-enantiomer of Ritalin) on the QT interval was evaluated in a double-blind, placebo- and open label active (moxifloxacin)-controlled study following single doses of Focalin XR 40mg in 75 healthy volunteers.
+The effect of Focalin XR (dexmethylphenidate, the pharmacologically active d-enantiomer of Ritalin) on the QT interval was evaluated in a double-blind, placebo- and open label active (moxifloxacin)-controlled study following single doses of Focalin XR 40 mg in 75 healthy volunteers.
 ECGs were collected up to 12 hours postdose.
 Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF).
 The maximum mean prolongation of QTcF intervals was <5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time matched comparisons versus placebo.
@@ -54,8 +54,7 @@ Mean ± SD and Range of Pharmacokinetic Parameters of Methylphenidate After a Si
 | (ng/mL x h-1) | 40.5 - 261.6 | 43.3 - 301.44 | 14.3 - 85.3 | 34.0 - 61.6 |
 | t1/2 (h) | 2.5 ± 0.8 | 2.4 ± 0.7a | 3.5 ± 1.9 | 3.3 ± 0.4 |
 |  | 1.8 - 5.3 | 1.5 - 4.0 | 1.3 - 7.7 | 3.0 - 4.2 |
-
-a N=15
+| a N=15 |  |  |  |  |
 
 ### Dose Proportionality
 
@@ -76,7 +75,7 @@ Therapeutic activity is principally due to the parent compound.
 ### Elimination
 
 In studies with Ritalin LA and Ritalin tablets in adults, methylphenidate from Ritalin tablets is eliminated from plasma with an average half-life of about 3.5 hours, (range 1.3-7.7 hours).
-In children the average half-life is about 2.5 hours, with a range of about 1.5 - 5.0 hours.
+In children the average half-life is about 2.5 hours, with a range of about 1.5-5.0 hours.
 The rapid half-life in both children and adults may result in unmeasurable concentrations between the morning and mid-day doses with Ritalin tablets.
 No accumulation of methylphenidate is expected following multiple once a day oral dosing with Ritalin LA.
 The half-life of ritalinic acid is about 3-4 hours.
