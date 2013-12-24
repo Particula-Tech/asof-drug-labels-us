@@ -24,7 +24,7 @@ Each tablet contains 60 mg pyridostigmine bromide
 
 100 Tablets
 
-VALEANT™
+VALEANT Pharmaceuticals North America LLC
 
 # PRINCIPAL DISPLAY PANEL - 180 mg Bottle Label
 
