@@ -22,8 +22,8 @@ Mean times to reach peak plasma concentrations across all doses of CONCERTA® oc
 CONCERTA® once daily minimizes the fluctuations between peak and trough concentrations associated with immediate-release methylphenidate three times daily (see Figure 1).
 The relative bioavailability of CONCERTA® once daily and methylphenidate three times daily in adults is comparable.
 
-Figure 1.
-Mean methylphenidate plasma concentrations in 36 adults, following a single dose of CONCERTA® 18 mg once daily and immediate-release methylphenidate 5 mg three times daily administered every 4 hours.
+| Figure 1. Mean methylphenidate plasma concentrations in 36 adults, following a single dose of CONCERTA® 18 mg once daily and immediate-release methylphenidate 5 mg three times daily administered every 4 hours. |
+| --- |
 
 The mean single-dose pharmacokinetic parameters in 36 healthy adults following the administration of CONCERTA® 18 mg once daily and methylphenidate 5 mg three times daily are summarized in Table 6.
 

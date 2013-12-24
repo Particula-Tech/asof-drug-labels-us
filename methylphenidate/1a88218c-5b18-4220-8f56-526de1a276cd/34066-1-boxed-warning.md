@@ -21,7 +21,7 @@ Tell your doctor if you or your child has any heart problems, heart defects, hig
 
 Your doctor should check you or your child carefully for heart problems before starting CONCERTA®.
 
-Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with CONCERTA®.
+Your doctor should check your or your child's blood pressure and heart rate regularly during treatment with CONCERTA®.
 
 Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking CONCERTA®.
 
@@ -46,4 +46,4 @@ CONCERTA® is a federally controlled substance (CII) because it can be abused or
 Keep CONCERTA® in a safe place to prevent misuse and abuse.
 Selling or giving away CONCERTA® may harm others, and is against the law.
 
-Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines, or street drugs.
+Tell your doctor if you or your child has (or has a family history of) ever abused or been dependent on alcohol, prescription medicines, or street drugs.

@@ -5,6 +5,13 @@ There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child's treatment with CONCERTA®.
 
 3.
+Painful and prolonged erections (priapism)
+
+Painful and prolonged erections (priapism) have occurred with methylphenidate.
+If you or your child develop priapism, seek medical help right away.
+Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
+
+4.
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]:
 
 - fingers or toes may feel numb, cool, painful
@@ -14,7 +21,7 @@ Tell your doctor if you have or your child has numbness, pain, skin color change
 
 Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking CONCERTA®.
 
-What Is CONCERTA®?
+What is CONCERTA®?
 
 CONCERTA® is a central nervous system stimulant prescription medicine.
 It is used for the treatment of attention deficit and hyperactivity disorder (ADHD).
@@ -26,12 +33,12 @@ Who should not take CONCERTA®?
 
 CONCERTA® should not be taken if you or your child:
 
-- are very anxious, tense, or agitated
-- have an eye problem called glaucoma
-- have tics or Tourette's syndrome, or a family history of Tourette's syndrome.
+- is very anxious, tense, or agitated
+- has an eye problem called glaucoma
+- has tics or Tourette's syndrome, or a family history of Tourette's syndrome.
   Tics are hard-to-control repeated movements or sounds.
-- are taking or have taken within the past 14 days an antidepression medicine called a monoamine oxidase inhibitor or MAOI.
-- are allergic to anything in CONCERTA®.
+- is taking or has taken within the past 14 days an antidepression medicine called a monoamine oxidase inhibitor or MAOI.
+- is allergic to anything in CONCERTA®.
   See the end of this Medication Guide for a complete list of ingredients.
 
 CONCERTA® should not be used in children less than 6 years old because it has not been studied in this age group.
@@ -50,7 +57,7 @@ Tell your doctor if you or your child is pregnant, planning to become pregnant, 
 
 Can CONCERTA® be taken with other medicines?
 
-Tell your doctor about all of the medicines that you or your child take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all of the medicines that you or your child takes including prescription and nonprescription medicines, vitamins, and herbal supplements.
 CONCERTA® and some medicines may interact with each other and cause serious side effects.
 Sometimes the doses of other medicines will need to be adjusted while taking CONCERTA®.
 
@@ -80,7 +87,7 @@ How should CONCERTA® be taken?
 - CONCERTA® can be taken with or without food.
 - Take CONCERTA® once each day in the morning.
   CONCERTA® is an extended-release tablet.
-  It releases medication into your/your child's body throughout the day.
+  It releases medication into your or your child's body throughout the day.
 - The CONCERTA® tablet does not dissolve completely in the body after all the medicine has been released.
   You or your child may sometimes notice the empty tablet in a bowel movement.
   This is normal.
@@ -98,19 +105,15 @@ Other serious side effects include:
 
 - slowing of growth (height and weight) in children
 - seizures, mainly in patients with a history of seizures
-- Circulation problems in fingers and toes: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red
-  - ➣Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
-  - ➣Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking CONCERTA®.
 - eyesight changes or blurred vision
 - blockage of the esophagus, stomach, small or large intestine in patients who already have a narrowing in any of these organs
 
-Common side effects include:
-
-| decreased appetitedry mouthtrouble sleepingdizzinessstomach acheincreased sweating | headachenauseaanxietyweight lossirritability |
+| Common side effects include: |  |
 | --- | --- |
+| decreased appetitedry mouthtrouble sleepingdizzinessstomach acheincreased sweating | headachenauseaanxietyweight lossirritability |
 
 Stimulants may impair the ability of you or your child to operate potentially hazardous machinery or vehicles.
-You or your child should exercise caution until you/your child is reasonably certain that CONCERTA® does not adversely affect your/your child's ability to engage in such activities.
+You or your child should exercise caution until you or your child is reasonably certain that CONCERTA® does not adversely affect your or your child's ability to engage in such activities.
 
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
@@ -159,4 +162,4 @@ Vacaville, CA 95688
 
 Manufactured for: Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
 
-Revised: June 2013
+Revised: December 2013

@@ -53,7 +53,14 @@ Although there is no systematic evidence that stimulants cause aggressive behavi
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
-## 5.4 Peripheral Vasculopathy, including Raynaud's Phenomenon
+## 5.4 Priapism
+
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products, including CONCERTA®, in both pediatric and adult patients [see Adverse Reactions (6.6)].
+Priapism was not reported with drug initiation but developed after some time on the drug, often subsequent to an increase in dose.
+Priapism has also appeared during a period of drug withdrawal (drug holidays or during discontinuation).
+Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
+
+## 5.5 Peripheral Vasculopathy, including Raynaud's Phenomenon
 
 Stimulants, including CONCERTA®, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
@@ -62,22 +69,22 @@ Signs and symptoms generally improve after reduction in dose or discontinuation 
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
-## 5.5 Long-Term Suppression of Growth
+## 5.6 Long-Term Suppression of Growth
 
 Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or nonmedication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and nonmedication-treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
 Published data are inadequate to determine whether chronic use of amphetamines may cause similar suppression of growth; however, it is anticipated that they likely have this effect as well.
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
-## 5.6 Visual Disturbance
+## 5.7 Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
 
-## 5.7 Potential for Gastrointestinal Obstruction
+## 5.8 Potential for Gastrointestinal Obstruction
 
 Because the CONCERTA® tablet is nondeformable and does not appreciably change in shape in the GI tract, CONCERTA® should not ordinarily be administered to patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudo-obstruction, or Meckel's diverticulum).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in nondeformable controlled-release formulations.
 Due to the controlled-release design of the tablet, CONCERTA® should be used only in patients who are able to swallow the tablet whole [see Patient Counseling Information (17)].
 
-## 5.8 Hematologic Monitoring
+## 5.9 Hematologic Monitoring
 
 Periodic CBC, differential, and platelet counts are advised during prolonged therapy.

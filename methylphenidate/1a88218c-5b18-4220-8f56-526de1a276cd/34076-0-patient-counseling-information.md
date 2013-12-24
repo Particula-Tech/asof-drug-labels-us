@@ -2,6 +2,11 @@
 
 See Medication Guide
 
+Priapism
+
+Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
+Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.4)].
+
 Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, including Raynaud's Phenomenon]
 
 Instruct patients beginning treatment with CONCERTA® about the risk of peripheral vasculopathy, including Raynaud's phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
