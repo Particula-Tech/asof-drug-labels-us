@@ -1,133 +1,135 @@
-Medication Guide TRUVADA ® (tru-VAH-dah) (emtricitabine and tenofovir disoproxil fumarate) Tablets
+Medication Guide TRUVADA® (tru-VAH-dah) (emtricitabine and tenofovir disoproxil fumarate) tablets
 
 Read this Medication Guide before you start taking TRUVADA and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+
+This Medication Guide provides information about two different ways that TRUVADA may be used (See the Medication Guide section "What is TRUVADA?" for important information about how TRUVADA may be used):
+
+- to treat Human Immunodeficiency Virus-1 (HIV-1) infection, and
+- to reduce the risk of getting HIV-1 infection in adults who are HIV-negative
+
+HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
 
 What is the most important information I should know about TRUVADA?
 
 TRUVADA can cause serious side effects, including:
 
 - 1.
-  Build-up of an acid in your blood (lactic acidosis).
-  Lactic acidosis is a serious medical emergency that can lead to death.
-- Lactic acidosis can be hard to identify early, because the symptoms could seem like symptoms of other health problems.
-  Call your healthcare provider right away if you get the following symptoms which could be signs of lactic acidosis:
-  - feeling very weak or tired
+  Too much lactic acid in your blood (lactic acidosis).
+  Your body normally makes lactic acid, but too much lactic acid is a serious medical emergency.
+  It can be treated, but it can also lead to death.
+- Call your healthcare provider right away if you get these symptoms:
+  - weakness or being more tired than usual
   - unusual muscle pain
-  - trouble breathing
-  - stomach pain with
-    - nausea
-    - vomiting
-  - feel cold, especially in your arms and legs
+  - being short of breath or fast breathing
+  - nausea, vomiting, and stomach-area pain
+  - cold or blue hands and feet
   - feel dizzy or lightheaded
-  - have a fast or irregular heartbeat
+  - fast or abnormal heartbeats
 - 
 - 2.
   Severe liver problems.
   Severe liver problems can happen in people who take TRUVADA.
   In some cases these liver problems can lead to death.
-  Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis) when you take TRUVADA.
+  Your liver may become large and tender.
+  You may develop fat in your liver when you take TRUVADA.
   Call your healthcare provider right away if you get the following symptoms:
-  - your skin or the white part of your eyes turns yellow (jaundice)
+  - your skin or the white part of your eyes turns yellow
   - dark "tea-colored" urine
-  - light-colored bowel movements (stools)
+  - light-colored stools
   - loss of appetite for several days or longer
   - nausea
-  - stomach pain
-- You may be more likely to get lactic acidosis or severe liver problems if you are female, very overweight (obese), or have been taking TRUVADA for a long time.
+  - stomach-area pain
+- You may be more likely to get lactic acidosis or severe liver problems if you are female, if you are very overweight (obese), or if you have been taking TRUVADA for a long time.
 - 
 - 3.
-  Worsening of your hepatitis B infection.
-  If you have hepatitis B virus (HBV) infection it may become worse (flare-up) if you take TRUVADA and then stop it.
-  A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
+  If you also have hepatitis B virus (HBV) infection and take TRUVADA, your hepatitis B may become worse if you stop taking TRUVADA.
+  - Do not stop taking TRUVADA without first talking to your healthcare provider.
   - Do not run out of TRUVADA.
     Refill your prescription or talk to your healthcare provider before your TRUVADA is all gone.
-  - Do not stop taking TRUVADA without first talking to your healthcare provider.
-  - If you stop taking TRUVADA, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your HBV infection.
-    Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking TRUVADA.
+  - If your healthcare provider stops TRUVADA, your healthcare provider will need to watch you closely for several months to check your hepatitis B infection, or give you a medication to treat hepatitis B.
 
-For more information about side effects, see the section "What are the possible side effects of TRUVADA?".
+Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking TRUVADA.
 
-Before taking TRUVADA to help prevent you from getting HIV:
+For more information about side effects, see the section "What are the possible side effects of TRUVADA?" in this Medication Guide.
 
-- You must get tested to be sure you are HIV-negative.
-  It is important that you also get tested at least every 3 months as recommended by your healthcare provider while taking TRUVADA.
-  Do not take TRUVADA to reduce the risk of getting HIV unless you are confirmed to be HIV-negative.
-- Tell your healthcare provider if you have any of the following symptoms within the last month before you start taking TRUVADA or at any time while taking TRUVADA:These may be signs of HIV infection and you may need to have a different kind of test to diagnose HIV.
-  Also, tell your healthcare provider if you think you were exposed to the HIV virus.
-  If you are already taking TRUVADA to prevent HIV-1 infection, your healthcare provider may tell you to stop taking TRUVADA until an HIV test confirms that you do not have HIV-1 infection.
-  - tiredness
-  - fever
-  - sweating a lot (especially at night)
-  - rash
-  - vomiting
-  - diarrhea
-  - joint or muscle aches
-  - headache
-  - sore throat
-  - enlarged lymph nodes in the neck or groin
-- TRUVADA by itself is not a complete treatment for HIV.
-  If you already have HIV or get HIV and take TRUVADA by itself without other medicines, you may develop resistance to TRUVADA.
-  This means that the HIV virus may become harder to treat.
-- Just taking TRUVADA may not keep you from getting HIV.
-  TRUVADA does not always prevent HIV.
-- You must still practice safer sex at all times.
-  Do not have any kind of sex without protection.
-  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-- You must also use other prevention methods to keep from getting HIV.
-  - Know your HIV status and the HIV status of your partners.
-    While taking TRUVADA, get tested at least every 3 months for HIV, as recommended by your healthcare provider.
-    Ask your partners to get tested.
+Other important information for people who take TRUVADA to help reduce their risk of getting HIV-1 infection:
+
+Before taking TRUVADA to reduce your risk of getting HIV-1 infection:
+
+- You must be HIV-negative to start TRUVADA.
+  You must get tested to make sure that you do not already have HIV-1 infection.
+- Do not take TRUVADA to reduce the risk of getting HIV-1 unless you are confirmed to be HIV-negative.
+- Many HIV-1 tests can miss HIV-1 infection in a person who has recently become infected.
+  If you have flu-like symptoms, you could have recently become infected with HIV-1.
+  Tell your healthcare provider if you had a flu-like illness within the last month before starting TRUVADA or at any time while taking TRUVADA.
+  Symptoms of new HIV-1 infection include: tirednessfeverjoint or muscle achesheadachesore throat vomiting or diarrhearashnight sweatsenlarged lymph nodes in the neck or groin
+
+While you are taking TRUVADA to reduce your risk of getting HIV-1:
+
+- Just taking TRUVADA may not keep you from getting HIV-1.
+- You must continue using safer sex practices while you are taking TRUVADA to reduce your risk of getting HIV-1.
+- You must stay HIV-negative to keep taking TRUVADA to reduce your risk of infection.
+  - Know your HIV-1 status and the HIV-1 status of your partners.
+  - Get tested for HIV-1 at least every 3 months or when your healthcare provider tells you.
   - Get tested for other sexually transmitted infections such as syphilis and gonorrhea.
-    These infections make it easier for HIV to infect you.
+    These infections make it easier for HIV-1 to infect you.
+  - If you think you were exposed to HIV-1, tell your healthcare provider right away.
+    They may want to do more tests to be sure you are still HIV-negative.
   - Get information and support to help reduce risky sexual behavior.
   - Have fewer sex partners.
-- Do not miss any doses of TRUVADA.
-  Missing doses increases your risk of getting HIV.
-- See the section "What is TRUVADA?" and talk to your healthcare provider for more information about how to prevent HIV infection.
+  - Do not miss any doses of TRUVADA.
+    Missing doses may increase your risk of getting HIV-1 infection.
+- If you do become HIV-positive, you need more medicine than TRUVADA alone to treat HIV-1.
+  TRUVADA by itself is not a complete treatment for HIV-1.
+  - If you have HIV-1 and take only TRUVADA, over time your HIV-1 may become harder to treat.
+
+See the section "What should I avoid while taking TRUVADA?" and talk to your healthcare provider for more information about how to prevent HIV-1 infection.
 
 What is TRUVADA?
 
 TRUVADA contains the prescription medicines emtricitabine (EMTRIVA®) and tenofovir disoproxil fumarate (VIREAD®).
 TRUVADA is used:
 
-- with other antiviral medicines to treat Human Immunodeficiency Virus-1 (HIV-1) in adults and children age 12 years and older.
-  HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
-- with safer sex practices at all times, to reduce the risk of getting HIV-1 in men who have sex with men who are at high risk of getting infected with HIV-1 through sex, and heterosexual couples where one partner has HIV-1 and the other does not.
-  This is called Pre-Exposure Prophylaxis or PrEP.
+- to treat HIV-1 infection when used with other HIV-1 medicines in adults and children age 12 years and older
+- to help reduce the risk of getting HIV-1 infection when used with safer sex practices in:
+  - HIV-negative men who have sex with men, who are at high risk of getting infected with HIV-1 through sex.
+  - Male-female sex partners when one partner has HIV-1 infection and the other does not.
 
-It is not known if TRUVADA is safe and effective in children with HIV-1 infection who are under 12 years of age or who weigh less than 77 pounds.
+Use of TRUVADA to treat HIV-1 infection:
 
-When used with other HIV medicines to treat HIV-1 infection, TRUVADA may help:
+- When used with other HIV-1 medicines to treat HIV-1 infection, TRUVADA may help:Reducing the amount of HIV-1 and increasing the CD4+ (T) cells in your blood may help improve your immune system.
+  This may reduce your risk of death or infections that can happen when your immune system is weak.
+  - Reduce the amount of HIV-1 in your blood.
+    This is called "viral load".
+  - Increase the number of CD4+ (T) cells in your blood that help fight off other infections.
+- TRUVADA does not cure HIV-1 or AIDS.
+  If you have HIV-1 infection, you must keep taking HIV-1 medicines to control HIV-1 infection and decrease HIV-related illnesses.
+  It is not known if TRUVADA is safe and effective in children with HIV-1 infection who are under 12 years of age or who weigh less than 77 pounds.
 
-- Reduce the amount of HIV in your blood.
-  This is called "viral load."
-- Increase the number of CD4+ (T) cells in your blood that help fight off other infections.
-- Reducing the amount of HIV and increasing the CD4+ (T) cells in your blood may help improve your immune system.
-  This may reduce your risk of death or infections that can happen when your immune system is weak (opportunistic infections).
+Use of TRUVADA to reduce the risk of HIV-1 infection:
 
-TRUVADA does not cure HIV infection or AIDS.
-If you have HIV infection, you must stay on continuous HIV therapy to control HIV infection and decrease HIV-related illnesses.
-
-Avoid doing things that can increase your risk of getting HIV infection or spreading HIV infection to other people:
-
-- Do not share or re-use needles or other injection equipment.
-- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-- Do not have any kind of sex without protection.
-  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-
-Ask your healthcare provider if you have any questions on how to prevent getting HIV infection or spreading HIV infection to other people.
+- When used with safer sex practices, TRUVADA may help to reduce the risk of getting HIV-1 infection:
+- TRUVADA works better to reduce the risk of getting HIV-1 when the medicines are in your bloodstream before you are exposed to HIV-1.
 
 Who should not take TRUVADA?
 
-Do not take TRUVADA to prevent HIV infection if you are HIV positive or if your HIV status is not known.
+For people using TRUVADA to reduce the risk of getting HIV-1 infection:
+
+TRUVADA can only help reduce your risk of getting HIV-1 before you are infected.
+Do not take TRUVADA to help reduce your risk of getting HIV-1 if:
+
+- you already have HIV-1 infection.
+  If you are HIV-positive, you need to take other medicines with TRUVADA to treat HIV-1.
+  TRUVADA by itself is not a complete treatment for HIV-1.
+- you do not know your HIV-1 infection status.
+  You may already be HIV-positive.
+  You need to take other HIV-1 medicines with TRUVADA to treat HIV-1.
 
 What should I tell my healthcare provider before taking TRUVADA?
 
-See "What is the most important information I should know about TRUVADA?".
-
-Before taking TRUVADA, tell your healthcare provider if you:
+Tell your healthcare provider if you:
 
 - have liver problems including hepatitis B virus infection
 - have kidney problems or receive kidney dialysis treatment
@@ -135,31 +137,33 @@ Before taking TRUVADA, tell your healthcare provider if you:
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
   It is not known if TRUVADA can harm your unborn baby.
-  If you are a female who is taking TRUVADA to prevent HIV infection and you become pregnant while taking TRUVADA, talk to your healthcare provider about whether you will continue taking TRUVADA.
-  Pregnancy Registry.
-  There is a pregnancy registry for women who take antiviral medicines during pregnancy.
-  The purpose of this registry is to collect information about the health of you and your baby.
-  Talk to your healthcare provider about how you can take part in this registry.
+  If you are a female who is taking TRUVADA to reduce the risk of getting HIV-1 infection and you become pregnant while taking TRUVADA, talk to your healthcare provider to decide if you should keep taking TRUVADA.
+  Pregnancy Registry: A pregnancy registry collects information about your health and the health of your baby.
+  There is a pregnancy registry for women who take medicines to treat or prevent HIV-1 during pregnancy.
+  For more information about the registry and how it works, talk to your healthcare provider.
 - are breastfeeding or plan to breastfeed.
-  Do not breastfeed if you take TRUVADA.Talk with your healthcare provider about the best way to feed your baby.
-  - You should not breastfeed if you have HIV because of the risk of passing HIV to your baby.
-  - TRUVADA can pass to your baby in your breast milk.
+  - You should not breastfeed if you have HIV-1.
+    There is a risk you will pass HIV-1 to your baby.
+  - Do not breastfeed if you take TRUVADA.
+    TRUVADA can pass to your baby in your breast milk.
+  - Talk with your healthcare provider about the best way to feed your baby.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-TRUVADA may affect the way other medicines work, and other medicines may affect how TRUVADA works.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-Do not take TRUVADA if you also take:
+Do not take TRUVADA if you also take any of the medicines listed below:
 
-- other medicines that contain tenofovir or emtricitabine (ATRIPLA®, COMPLERA®, EMTRIVA, STRIBILD®, VIREAD)
-- medicines that contain lamivudine (Combivir, Epivir, Epivir-HBV, Epzicom, Trizivir)
+- tenofovir or emtricitabine (ATRIPLA®, COMPLERA®, EMTRIVA, STRIBILD®, or VIREAD).
+  These medicines contain the same active ingredient as TRUVADA.
+- medicines which contain lamivudine (Combivir, Epivir, Epivir-HBV, Epzicom, or Trizivir)
 - adefovir (HEPSERA®)
 
+TRUVADA may interact with other medicines.
 Especially tell your healthcare provider if you take:
 
-- didanosine (Videx EC)
-- atazanavir (Reyataz)
-- darunavir (Prezista)
-- lopinavir with ritonavir (Kaletra)
+| didanosine (Videx EC)atazanavir (Reyataz) | darunavir (Prezista)lopinavir with ritonavir (Kaletra) |
+| --- | --- |
+
+Your doctor may need to check you more often or change your dose if you take any of these medicines and TRUVADA.
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
@@ -167,50 +171,67 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 How should I take TRUVADA?
 
 - Take TRUVADA exactly as prescribed.
-- Do not change your dose or stop taking TRUVADA without first talking with your healthcare provider.
-  Stay under a healthcare provider's care when taking TRUVADA.
-- TRUVADA is usually taken 1 time each day.
-  If you have kidney problems, your healthcare provider may tell you to take TRUVADA less often.
-- When used to treat HIV-1 infection, TRUVADA is always used with other HIV-1 medicines.
-- If you take TRUVADA to reduce the risk of getting HIV-1, you must also use other methods to reduce your risk of getting HIV.
-  See "What is the most important information I should know about TRUVADA?".
 - Take TRUVADA by mouth, with or without food.
-- Take TRUVADA at the same time each day.
+- TRUVADA is usually taken 1 time each day.
+  Take TRUVADA at the same time each day to keep TRUVADA blood levels constant.
+  - If you have kidney problems, your healthcare provider may tell you to take TRUVADA less often.
+- Do not miss any doses of TRUVADA.
+  Missing a dose lowers the amount of medicine in your blood.
 - If you miss a dose of TRUVADA, take it as soon as you remember that day.
   Do not take more than 1 dose of TRUVADA in a day.
   Do not take 2 doses at the same time to make up for a missed dose.
   Call your healthcare provider or pharmacist if you are not sure what to do.
-- It is important that you do not miss any doses of TRUVADA or your other HIV-1 medicines.
-- When your TRUVADA supply starts to run low, get more from your healthcare provider or pharmacy.
-  This is very important because the amount of virus in your blood may increase if the medicine is stopped for even a short time.
-  The virus may develop resistance to TRUVADA and become harder to treat.
+- Do not change your dose or stop taking TRUVADA without first talking with your healthcare provider.
+  Stay under a healthcare provider's care when taking TRUVADA.
+- Refill your TRUVADA prescription before you run out of medicine.
 - If you take too much TRUVADA, call your healthcare provider or go to the nearest hospital emergency room right away.
+- If you take TRUVADA to treat HIV-1 infection, you need to take other HIV-1 medicines.
+  Your healthcare provider will tell you what medicines to take and how to take them.
+- If you take TRUVADA to reduce your risk of getting HIV-1:
+  - you must also use other methods to reduce your risk of getting HIV-1.
+    See the section "What should I avoid while taking TRUVADA?" in this Medication Guide.
+  - Take TRUVADA every day, not just when you think you have been exposed to HIV-1.
+
+What should I avoid while taking TRUVADA?
+
+While taking TRUVADA, avoid doing things that increase your risk of getting HIV-1 or spreading HIV-1 to other people.
+
+- See the section "What is the most important information I should know about TRUVADA?" at the beginning of this Medication Guide.
+- Do not have any kind of sex without protection.
+  Always practice safer sex.
+  Use latex or non-latex condoms, except lambskin, to reduce contact with semen, vaginal fluids, or blood.
+- Do not share personal items that can have blood or body fluids on them, such as toothbrushes and razor blades.
+- Do not share or re-use needles or other injection equipment.
+
+Ask your healthcare provider if you have any questions about how to prevent getting HIV-1 or spreading HIV-1 to other people.
 
 What are the possible side effects of TRUVADA?
 
-TRUVADA may cause the following serious side effects, including:
+TRUVADA may cause serious side effects, including:
 
 - See "What is the most important information I should know about TRUVADA?".
 - New or worse kidney problems, including kidney failure.
-  If you have had kidney problems in the past or need to take another medicine that can cause kidney problems, your healthcare provider may need to do blood tests to check your kidneys before you start and while you are taking TRUVADA.
+  If you had kidney problems in the past or take another medicine that can cause kidney problems, your healthcare provider may do blood tests to check your kidneys before you start and while you are taking TRUVADA.
   Your healthcare provider may tell you to take TRUVADA less often, or to stop taking TRUVADA if you have kidney problems.
 - Bone problems can happen in some people who take TRUVADA.
-  Bone problems include bone pain, softening or thinning (which may lead to fractures).
+  Bone problems include bone pain, or softening or thinning of bones, which may lead to fractures.
   Your healthcare provider may need to do tests to check your bones.
-- Changes in body fat can happen in people who take HIV medicines.
-  These changes may include increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the middle of your body (trunk).
-  Loss of fat from the legs, arms, and face may also happen.
+- Changes in body fat can happen in people who take HIV-1 medicines.
   The exact cause and long-term health effects of these problems are not known.
-- Changes in your immune system (Immune Reconstitution Syndrome) can happen when an HIV-infected person starts taking HIV medicines.
-  Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
-  Tell your healthcare provider right away if you start having any new symptoms after starting your HIV medicine.
+  The changes may include:
+  - increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the middle of your body (trunk)
+  - loss of fat from the legs, arms, and face
+- Changes in your immune system (Immune Reconstitution Syndrome) can happen when an HIV-1-infected person starts taking HIV-1 medicines.
+  Your immune system may get stronger, and can then cause you to develop inflammation in areas of your body where infections may have been hiding for a long time.
+  This inflammation may cause you to have minor symptoms, such as fever, but inflammation can also lead to serious problems.
+  Tell your healthcare provider right away if you start having any new symptoms after starting TRUVADA for treatment of HIV-1 infection.
 
-The most common side effects of TRUVADA in people with HIV-1 infection include:
+The most common side effects of TRUVADA in people taking TRUVADA to treat HIV-1 infection include:
 
 | diarrheanauseatirednessheadache | dizzinessdepressionproblems sleepingabnormal dreamsrash |
 | --- | --- |
 
-Common side effects in people who take TRUVADA to prevent HIV-1 infection include:
+Common side effects in people who take TRUVADA to reduce the risk of getting HIV-1 infection include:
 
 - stomach-area (abdomen) pain
 - headache
