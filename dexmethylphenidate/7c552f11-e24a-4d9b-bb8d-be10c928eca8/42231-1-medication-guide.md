@@ -86,10 +86,13 @@ See “What is the most important information I should know about FOCALIN?” fo
 
 Other serious side effects include:
 
-- Serious allergic reactions (symptoms can be difficulty breathing, swelling of the face, neck and throat, rashes and hives, fever)
+- serious allergic reactions (symptoms can be difficulty breathing, swelling of the face, neck and throat, rashes and hives, fever)
 - slowing of growth (height and weight) in children
 - seizures, mainly in patients with a history of seizures
 - eyesight changes or blurred vision
+- painful and prolonged erections (priapism) have occurred with methylphenidate.
+  If you or your child develop priapism, seek medical help right away.
+  Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
 
 Common side effects include:
 
@@ -103,7 +106,7 @@ Ask your doctor or pharmacist for more information.
 
 How should I store FOCALIN?
 
-- Store FOCALIN in a safe place at room temperature, 59 to 86°F (15 to 30°C).
+- Store FOCALIN in a safe place at room temperature, 59°F to 86°F (15°C to 30°C).
 - Keep FOCALIN and all medicines out of the reach of children.
 
 General information about FOCALIN
@@ -141,4 +144,4 @@ Mikart, Inc. Atlanta, GA 30318
 
 © Novartis
 
-T2013-54 June 2013
+T2013-120 December 2013

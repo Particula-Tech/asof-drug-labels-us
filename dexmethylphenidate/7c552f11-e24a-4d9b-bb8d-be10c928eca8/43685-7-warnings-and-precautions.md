@@ -59,6 +59,13 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
+## Priapism
+
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products in both pediatric and adult patients.
+Priapism was not reported with drug initiation but developed after some time on the drug, often subsequent to an increase in dose.
+Priapism has also appeared during a period of drug withdrawal (drug holidays or discontinuation).
+Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
+
 ## Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
 Stimulants, including Focalin, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
@@ -90,7 +97,12 @@ The prescriber or health professional should instruct patients, their families, 
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
-Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
+Priapism
+
+Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
+Instruct the patient to seek immediate medical attention in the event of priapism.
+
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]:
 
 - Instruct patients beginning treatment with Focalin about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 - Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
@@ -148,7 +160,8 @@ Because many drugs are excreted in human milk, caution should be exercised if Fo
 
 ## Pediatric Use
 
-The safety and efficacy of Focalin in children under 6 years old have not been established.Long-term effects of Focalin in children have not been well established (see WARNINGS).
+The safety and efficacy of Focalin in children under 6 years old have not been established.
+Long-term effects of Focalin in children have not been well established (see WARNINGS).
 
 In a study conducted in young rats, racemic methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (Postnatal Day 7) and continuing through sexual maturity (Postnatal Week 10).
 When these animals were tested as adults (Postnatal Weeks 13-14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 6 times the maximum recommended human dose [MRHD] of racemic methylphenidate on a mg/m2 basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (12 times the racemic MRHD on a mg/m2 basis).
