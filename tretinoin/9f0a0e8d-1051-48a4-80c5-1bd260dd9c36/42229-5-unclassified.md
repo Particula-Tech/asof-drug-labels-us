@@ -13,4 +13,4 @@ Distributed by: Valeant Dermatology, a division of Valeant Pharmaceuticals North
 Manufactured by: Ortho Pharmaceuticals, a division of Janssen Ortho LLC Manati, Puerto Rico 00674
 
 Rev.
-07/12 25150400
+06/13 25150401 25150201
