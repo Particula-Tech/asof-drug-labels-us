@@ -1,0 +1,37 @@
+{
+  "application_numbers": [
+    "NDA017340",
+    "NDA017522",
+    "NDA017579",
+    "NDA017955",
+    "NDA019049"
+  ],
+  "inn": "tretinoin",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-5160-20",
+    "0187-5160-45",
+    "0187-5162-20",
+    "0187-5162-45",
+    "0187-5164-20",
+    "0187-5164-45",
+    "0187-5170-15",
+    "0187-5170-45",
+    "0187-5172-15",
+    "0187-5172-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "tretinoin",
+      "name": "Retin-A"
+    },
+    {
+      "form": "GEL",
+      "generic": "tretinoin",
+      "name": "Retin-A"
+    }
+  ],
+  "setid": "9556d73d-c573-4e0a-9feb-764ce2d1107b",
+  "source": "dailymed"
+}
