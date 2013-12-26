@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11. DESCRIPTION
 
 TYSABRI (natalizumab) is a recombinant humanized IgG4ϰ monoclonal antibody produced in murine myeloma cells.
 Natalizumab contains human framework regions and the complementarity-determining regions of a murine antibody that binds to α4-integrin.

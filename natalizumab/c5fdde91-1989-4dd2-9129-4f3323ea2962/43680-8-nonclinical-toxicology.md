@@ -1,6 +1,6 @@
-# 13 NONCLINICAL TOXICOLOGY
+# 13. NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## 13.1. Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No clastogenic or mutagenic effects of natalizumab were observed in the Ames test or in vitro chromosomal aberration assay in human lymphocytes.
 Natalizumab showed no effects in in vitro assays of α4-integrin positive human tumor line proliferation/cytotoxicity.
@@ -11,7 +11,7 @@ A 47% reduction in pregnancy rate was observed in guinea pigs receiving 30 mg/kg
 Implantations were seen in only 36% of animals having corpora lutea in the 30 mg/kg group versus 66 to 72% in the other groups.
 Natalizumab did not affect male fertility at doses up to 7-fold the clinical dose.
 
-## 13.2 Animal Toxicology and/or Pharmacology
+## 13.2. Animal Toxicology and/or Pharmacology
 
 In reproductive studies in monkeys and guinea pigs, there was no evidence of teratogenic effects at doses up to 30 mg/kg (7 times the human clinical dose based on a body weight comparison).
 In one study where female guinea pigs were exposed to natalizumab during the second half of pregnancy, a small reduction in pup survival was noted at post-natal day 14 with respect to control (3 pups/litter for the group treated with 30 mg/kg natalizumab and 4.3 pups/litter for the control group).

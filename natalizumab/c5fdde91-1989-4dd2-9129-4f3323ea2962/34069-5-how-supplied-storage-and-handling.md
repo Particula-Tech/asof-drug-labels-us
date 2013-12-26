@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
 NDC 64406-008-01, TYSABRI injection is supplied as 300 mg natalizumab in 15 mL in a sterile, single-use vial free of preservatives.
 Each package contains a single-use vial.

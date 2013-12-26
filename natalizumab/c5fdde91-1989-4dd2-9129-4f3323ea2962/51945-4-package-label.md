@@ -2,7 +2,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Vial Label
 
 NDC 64406-008-01
 
-TYSABRI® biogen idec®
+TYSABRI ® biogen idec®
 
 (natalizumab)
 
@@ -27,7 +27,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Carton Label
 
 NDC 64406-008-01
 
-TYSABRI®
+TYSABRI ®
 
 (natalizumab)
 

@@ -1,6 +1,6 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1. Mechanism of Action
 
 Natalizumab binds to the α4-subunit of α4β1 and α4β7 integrins expressed on the surface of all leukocytes except neutrophils, and inhibits the α4-mediated adhesion of leukocytes to their counter-receptor(s).
 The receptors for the α4 family of integrins include vascular cell adhesion molecule-1 (VCAM-1), which is expressed on activated vascular endothelium, and mucosal addressin cell adhesion molecule-1 (MAdCAM-1) present on vascular endothelial cells of the gastrointestinal tract.
@@ -23,12 +23,12 @@ The clinical effect of natalizumab in CD may therefore be secondary to blockade 
 VCAM-1 expression has been found to be upregulated on colonic endothelial cells in a mouse model of IBD and appears to play a role in leukocyte recruitment to sites of inflammation.
 The role of VCAM-1 in CD, however, is not clear.
 
-## 12.2 Pharmacodynamics
+## 12.2. Pharmacodynamics
 
 TYSABRI administration increases the number of circulating leukocytes (including lymphocytes, monocytes, basophils, and eosinophils) due to inhibition of transmigration out of the vascular space.
-TYSABRI does not affect the absolute count of circulating neutrophils [see Warnings and Precautions (5.6)].
+TYSABRI does not affect the absolute count of circulating neutrophils [see Warnings and Precautions (5.7)].
 
-## 12.3 Pharmacokinetics
+## 12.3. Pharmacokinetics
 
 Multiple Sclerosis (MS) Patients:
 

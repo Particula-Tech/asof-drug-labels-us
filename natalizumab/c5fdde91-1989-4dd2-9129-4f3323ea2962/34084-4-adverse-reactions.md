@@ -1,6 +1,4 @@
-# 6 ADVERSE REACTIONS
-
-## 6.1 Clinical Trials Experience
+# 6. ADVERSE REACTIONS
 
 The most serious adverse reactions were [see Warnings and Precautions (5)]:
 
@@ -8,27 +6,27 @@ The most serious adverse reactions were [see Warnings and Precautions (5)]:
 - Hypersensitivity
 - Immunosuppression/Infections
 
+## 6.1. Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 The most common adverse reactions (incidence ≥ 10%) were headache and fatigue in both the multiple sclerosis (MS) and Crohn's disease (CD) studies.
 Other common adverse reactions (incidence ≥ 10%) in the MS population were arthralgia, urinary tract infection, lower respiratory tract infection, gastroenteritis, vaginitis, depression, pain in extremity, abdominal discomfort, diarrhea NOS, and rash.
 Other common adverse reactions (incidence ≥ 10%) in the CD population were upper respiratory tract infections and nausea.
 
-The most frequently reported adverse reactions resulting in clinical intervention (i.e., discontinuation of TYSABRI), in the MS studies were urticaria (1%) and other hypersensitivity reactions (1%), and in the CD studies (Studies CD1 and CD2) were the exacerbation of Crohn's disease (4.2%) and acute hypersensitivity reactions (1.5%) [see Warnings and Precautions (5.3)].
+The most frequently reported adverse reactions resulting in clinical intervention (i.e., discontinuation of TYSABRI), in the MS studies were urticaria (1%) and other hypersensitivity reactions (1%), and in the CD studies (Studies CD1 and CD2) were the exacerbation of Crohn's disease (4.2%) and acute hypersensitivity reactions (1.5%) [see Warnings and Precautions (5.5)].
 
 A total of 1617 multiple sclerosis patients in controlled studies received TYSABRI, with a median duration of exposure of 28 months.
 A total of 1563 patients received TYSABRI in all CD studies for a median exposure of 5 months; of these patients, 33% (n=518) received at least one year of treatment and 19% (n=297) received at least two years of treatment.
 
-Because clinical trials are conducted under widely varying and controlled conditions, adverse reaction rates observed in clinical trials of TYSABRI cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
-The adverse reaction information does, however, provide a basis for identifying the adverse events that appear to be related to drug use and a basis for approximating rates.
-
 Multiple Sclerosis Clinical Studies
 
 The most frequently reported serious adverse reactions in Study MS1 [see Clinical Studies (14.1)] with TYSABRI were infections (3.2% versus 2.6% in placebo, including urinary tract infection [0.8% versus 0.3%] and pneumonia [0.6% versus 0%]), acute hypersensitivity reactions (1.1% versus 0.3%, including anaphylaxis/anaphylactoid reaction [0.8% versus 0%]), depression (1.0% versus 1.0%, including suicidal ideation or attempt [0.6% versus 0.3%]), and cholelithiasis (1.0% versus 0.3%).
-In Study MS2, serious adverse reactions of appendicitis were also more common in patients who received TYSABRI (0.8% versus 0.2% in placebo) [see Warnings and Precautions (5.4), Adverse Reactions - Infections].
+In Study MS2, serious adverse reactions of appendicitis were also more common in patients who received TYSABRI (0.8% versus 0.2% in placebo).
 
 Table 2 enumerates adverse reactions and selected laboratory abnormalities that occurred in Study MS1 at an incidence of at least 1 percentage point higher in TYSABRI-treated patients than was observed in placebo-treated patients.
 
-Table 2.
-Adverse Reactions in Study MS1 (Monotherapy Study)
+Table 2: Adverse Reactions in Study MS1 (Monotherapy Study)
 
 | Adverse Reactions (Preferred Term) | TYSABRI n=627 Percentage | Placebo n=312 Percentage |
 | --- | --- | --- |
@@ -45,16 +43,14 @@ Similar serious adverse events were seen in the maintenance Study CD3.
 Table 3 enumerates adverse drug reactions that occurred in Studies CD1 and CD2 (median exposure of 2.8 months).
 Table 4 enumerates adverse drug reactions that occurred in Study CD3 (median exposure of 11.0 months).
 
-Table 3.
-Adverse Reactions in Studies CD1 and CD2 (Induction Studies)
+Table 3: Adverse Reactions in Studies CD1 and CD2 (Induction Studies)
 
 | Adverse Reactions* | TYSABRI n=983 Percentage | Placebo n=431 Percentage |
 | --- | --- | --- |
 | General Headache Fatigue Arthralgia Influenza-like illness Acute hypersensitivity reactions Tremor Infection Upper respiratory tract infection Vaginal infections** Viral infection Urinary tract infection Respiratory Pharyngolaryngeal pain Cough Gastrointestinal Nausea Dyspepsia Constipation Flatulence Aphthous stomatitis Skin Rash Dry skin Menstrual Disorder Dysmenorrhea** | 32% 10% 8% 5% 2% 1% 22% 4% 3% 3% 6% 3% 17% 5% 4% 3% 2% 6% 1% 2% | 23% 8% 6% 4% <1% <1% 16% 2% 2% 1% 4% <1% 15% 3% 2% 2% <1% 4% 0% <1% |
 | * Occurred at an incidence of at least 1% higher in TYSABRI-treated patients than placebo-treated patients. ** Percentage based on female patients only. |  |  |
 
-Table 4.
-Adverse Reactions in Study CD3 (Maintenance Study)
+Table 4: Adverse Reactions in Study CD3 (Maintenance Study)
 
 | Adverse Reactions* | TYSABRI n=214 Percentage | Placebo n=214 Percentage |
 | --- | --- | --- |
@@ -63,9 +59,9 @@ Adverse Reactions in Study CD3 (Maintenance Study)
 
 Infections
 
-Progressive Multifocal Leukoencephalopathy (PML) occurred in three patients who received TYSABRI in clinical trials [see Boxed Warning, Warnings and Precautions (5.1)].
+Progressive Multifocal Leukoencephalopathy (PML) occurred in three patients who received TYSABRI in clinical trials [see Warnings and Precautions (5.1)].
 Two cases of PML were observed in the 1869 patients with multiple sclerosis who were treated for a median of 120 weeks.
-These two patients had received TYSABRI in addition to interferon beta-1a [see Boxed Warning, Warnings and Precautions (5.1)].
+These two patients had received TYSABRI in addition to interferon beta-1a [see Warnings and Precautions (5.1)].
 The third case occurred after eight doses in one of the 1043 patients with Crohn's disease who were evaluated for PML.
 In the postmarketing setting, additional cases of PML have been reported in TYSABRI-treated multiple sclerosis and Crohn's disease patients who were not receiving concomitant immunomodulatory therapy.
 
@@ -84,7 +80,7 @@ Concurrent use of TYSABRI in CD clinical trials with chronic steroids and/or met
 In Studies CD1 and CD2, the incidence of serious infection was approximately 2.1% in both TYSABRI-treated patients and placebo-treated patients.
 In Study CD3, the incidence of serious infection was approximately 3.3% in TYSABRI-treated patients and approximately 2.8% in placebo-treated patients.
 
-In clinical studies for CD, opportunistic infections (pneumocystis carinii pneumonia, pulmonary mycobacterium avium intracellulare, bronchopulmonary aspergillosis, and burkholderia cepacia) have been observed in <1% of TYSABRI-treated patients; some of these patients were receiving concurrent immunosuppressants [see Warnings and Precautions (5.4)].
+In clinical studies for CD, opportunistic infections (pneumocystis carinii pneumonia, pulmonary mycobacterium avium intracellulare, bronchopulmonary aspergillosis, and burkholderia cepacia) have been observed in <1% of TYSABRI-treated patients; some of these patients were receiving concurrent immunosuppressants [see Warnings and Precautions (5.6)].
 Two serious non-bacterial meningitides occurred in TYSABRI-treated patients compared to none in placebo-treated patients.
 
 Infusion-related Reactions
@@ -95,7 +91,7 @@ In the controlled CD clinical trials, infusion-related reactions occurred in app
 Reactions more common in the TYSABRI-treated MS patients compared to the placebo-treated MS patients included headache, dizziness, fatigue, urticaria, pruritus, and rigors.
 Acute urticaria was observed in approximately 2% of patients.
 Other hypersensitivity reactions were observed in 1% of patients receiving TYSABRI.
-Serious systemic hypersensitivity infusion reactions occurred in <1% of patients [see Warnings and Precautions (5.3)].
+Serious systemic hypersensitivity infusion reactions occurred in <1% of patients [see Warnings and Precautions (5.5)].
 All patients recovered with treatment and/or discontinuation of the infusion.
 
 Infusion-related reactions more common in CD patients receiving TYSABRI than those receiving placebo included headache, nausea, urticaria, pruritus, and flushing.
@@ -103,7 +99,7 @@ Serious infusion reactions occurred in Studies CD1, CD2, and CD3 at an incidence
 
 MS and CD patients who became persistently positive for antibodies to TYSABRI were more likely to have an infusion-related reaction than those who were antibody-negative.
 
-## 6.2 Immunogenicity
+## 6.2. Immunogenicity
 
 Patients in Study MS1 [see Clinical Studies (14.1)] were tested for antibodies to natalizumab every 12 weeks.
 The assays used were unable to detect low to moderate levels of antibodies to natalizumab.
@@ -126,13 +122,13 @@ Approximately 10% of patients were found to have anti-natalizumab antibodies on 
 Five percent (5%) of patients had positive antibodies on more than one occasion.
 Persistent antibodies resulted in reduced efficacy and an increase in infusion-related reactions with symptoms that include urticaria, pruritus, nausea, flushing, and dyspnea.
 
-The long-term immunogenicity of TYSABRI and the effects of low to moderate levels of antibody to natalizumab are unknown [see Warnings and Precautions (5.3), Adverse Reactions (6.1)].
+The long-term immunogenicity of TYSABRI and the effects of low to moderate levels of antibody to natalizumab are unknown [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
 
 Immunogenicity data are highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody-positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to TYSABRI with the incidence of antibodies to other products may be misleading.
 
-## 6.3 Postmarketing Experience
+## 7. DRUG INTERACTIONS
 
-In addition to the adverse reactions listed above, the following adverse reactions have been identified during post-approval use of TYSABRI.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: Herpes infections of the central nervous system, including herpes simplex virus (HSV) encephalitis, HSV meningitis, and herpes zoster virus meningitis.
+Because of the potential for increased risk of PML and other infections, Crohn's disease patients receiving TYSABRI should not be treated with concomitant immunosuppressants (e.g., 6-mercaptopurine, azathioprine, cyclosporine, or methotrexate) or inhibitors of TNF-α, and corticosteroids should be tapered in those patients with Crohn's disease who are on chronic corticosteroids when they start TYSABRI therapy [see Indications and Usage (1.2), Warnings and Precautions (5.1, 5.6)].
+Ordinarily, MS patients receiving chronic immunosuppressant or immunomodulatory therapy should not be treated with TYSABRI [see Indications and Usage (1.1), Warnings and Precautions (5.1, 5.6)].

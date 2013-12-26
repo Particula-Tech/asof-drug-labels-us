@@ -4,184 +4,170 @@ TYSABRI® (tie-SA-bree)
 
 (natalizumab)
 
-Read the Medication Guide given to you before you start TYSABRI and before each infusion.
+injection, for intravenous use
+
+Read this Medication Guide before you start receiving TYSABRI and before you receive each dose.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your medical condition or your treatment.
-Ask your doctor or nurse if you have any questions.
 
 What is the most important information I should know about TYSABRI?
 
-- TYSABRI increases your chance of getting a rare brain infection that usually causes death or severe disability.
+- TYSABRI increases your chance (risk) of getting a rare brain infection that usually leads to death or severe disability.
   This infection is called progressive multifocal leukoencephalopathy (PML).
-  If PML happens, it usually happens in people with weakened immune systems.
-- No one can predict who will get PML.
-- There is no known treatment, prevention, or cure for PML.
-- Your chance of getting PML may be higher if you are also being treated with other medicines that can weaken your immune system, including other treatments for Multiple Sclerosis (MS) and Crohn's disease (CD).
-  You should not take certain medicines that weaken the immune system at the same time you are taking TYSABRI.
-  Even if you use TYSABRI alone to treat your MS or CD, you can still get PML.
-  Your doctor may do a blood test to check if you have been exposed to JCV before you start receiving TYSABRI or during your treatment.
-  There may be other risk factors for getting PML during Tysabri treatment that we do not know about yet.
-  - Your chance of getting PML increases if you have been exposed to John Cunningham Virus (JCV).
-    JCV is a common virus that is harmless in most people but can cause PML in people who have weakened immune systems, such as people taking Tysabri.
-    Most people who are exposed to JCV do not know it or have any symptoms.
-    This exposure usually happens in childhood.
-  - If you have been exposed to JCV, your chance of getting PML increases even more if:
-    - you have received TYSABRI for a long time, especially longer than 2 years
-    - you have received certain medicines that can weaken your immune system before you start receiving TYSABRI
-- Your risk of getting PML is greatest if you have all 3 risk factors listed above.
+  If PML happens, it usually happens in people with weakened immune systems.Your risk of getting PML is greatest if you have all 3 risk factors listed above.
+  There may be other risk factors for getting PML during TYSABRI treatment that we do not know about yet.
   Your doctor should discuss the risks and benefits of TYSABRI treatment with you before you decide to receive TYSABRI.
-- TYSABRI is available only through a restricted distribution program called the TOUCH® Prescribing Program.
-  In order to receive TYSABRI, you must talk to your doctor and understand the benefits and risks of TYSABRI and agree to all of the instructions in the TOUCH® Prescribing Program.
-- If you take TYSABRI, and for 6 months after you stop taking TYSABRI, it is important that you call your doctor right away if you get any new or worsening medical problems (such as a new or sudden change in your thinking, eyesight, balance, or strength or other problems) that have lasted over several days.
-  Tell all of your doctors that you are getting treatment with TYSABRI.
+  See “What are the possible side effects of TYSABRI?”
+  - There is no known treatment, prevention, or cure for PML.
+  - Your chance of getting PML may be higher if you are also being treated with other medicines that can weaken your immune system, including other treatments for Multiple Sclerosis (MS) and Crohn's disease (CD).
+    You should not take certain medicines that weaken your immune system at the same time you are taking TYSABRI.
+    Even if you use TYSABRI alone to treat your MS or CD, you can still get PML.
+  - Your risk of getting PML is higher if you:
+    - have received TYSABRI for a long time, especially longer than 2 years.
+    - have received certain medicines that can weaken your immune system before you start receiving TYSABRI
+    - have been exposed to John Cunningham Virus (JCV).
+      JCV is a common virus that is harmless in most people but can cause PML in people who have weakened immune systems, such as people taking TYSABRI.
+      Most people who are exposed to JCV do not know it or have any symptoms.
+      This exposure usually happens in childhood.
+      Your doctor may do a blood test to check if you have been exposed to JCV before you start receiving TYSABRI or during your treatment
+  - While you receive TYSABRI, and for 6 months after you stop receiving TYSABRI, it is important that you call your doctor right away if you have any new or worsening medical problems that have lasted several days.
+    These may be new or sudden and include problems with:
 
-See "What are the possible side effects with TYSABRI?" for other serious side effects with TYSABRI.
+| thinking eyesight strength balance | weakness on 1 side of your body using your arms and legs |
+| --- | --- |
+
+Tell all your doctors that you are receiving TYSABRI.
+
+- Because of your risk of getting PML while you receive TYSABRI, TYSABRI is available only through a restricted distribution program called the TOUCH® Prescribing Program.
+  To receive TYSABRI, you must talk to your doctor and understand the risks and benefits of TYSABRI and agree to follow all of the instructions in the TOUCH® Prescribing Program.
+  - TYSABRI is only:
+    - prescribed by doctors who are enrolled in the TOUCH® Prescribing Program
+    - given at an infusion center that is enrolled in the TOUCH® Prescribing Program
+    - given to people who are enrolled in the TOUCH® Prescribing Program
+  - Before you receive TYSABRI, your doctor will:
+    - explain the TOUCH® Prescribing Program to you
+    - have you sign the TOUCH® Prescriber and Patient Enrollment Form
 
 What is TYSABRI?
 
-TYSABRI is a prescription medicine approved for:
+TYSABRI is a prescription medicine used to treat adults with:
 
-1. Adult patients with relapsing forms of Multiple Sclerosis (MS) to:Because of the chance of getting PML, TYSABRI is generally recommended for patients that have not been helped enough by, or cannot tolerate another treatment for MS.
-   - Slow the worsening of disability that is common in patients with MS and,
-   - Decrease the number of flare-ups (relapses)
-2. Adult patients with moderate to severe Crohn's disease:
-   - To reduce signs and symptoms of Crohn's disease
-   - In patients who have not been helped enough by, or cannot tolerate usual Crohn's disease medicines and medicines called tumor necrosis factor (TNF) inhibitors.
-
-- TYSABRI does not cure MS or Crohn's disease.
-- TYSABRI has not been studied for use longer than 2 years.
-- TYSABRI has not been studied in patients with chronic progressive MS.
-- It is not known if patients older than 65 years have a different response to TYSABRI.
-- TYSABRI is not approved for use in patients under age 18.
-
-TYSABRI is only:
-
-- prescribed by doctors who are enrolled in the TOUCH® Prescribing Program
-- infused at an infusion center that is enrolled in the TOUCH® Prescribing Program
-- given to patients who are enrolled in the TOUCH® Prescribing Program
+- relapsing forms of Multiple Sclerosis (MS).
+  TYSABRI can:TYSABRI increases the risk of PML.
+  When starting and continuing treatment with TYSABRI, it is important that you discuss with your doctor whether the expected benefit of TYSABRI is enough to outweigh this risk.
+  See “What is the most important information I should know about TYSABRI?”
+  - slow the worsening of symptoms common in people with MS
+  - decrease the number of flare-ups (relapses)
+- moderate to severe Crohn's disease (CD).
+  TYSABRI is used:
+  - to reduce signs and symptoms of CD
+  - in people who have not been helped enough by, or cannot use the usual CD medicines and medicines called tumor necrosis factor (TNF) inhibitors.
+- It is not known if people older than 65 years of age respond differently to TYSABRI.
+- It is not known if TYSABRI is safe and effective in children under 18 years of age.
 
 Who should not receive TYSABRI?
 
 Do not receive TYSABRI if you:
 
 - have PML
-- are allergic to TYSABRI
+- are allergic to natalizumab or any of the ingredients in TYSABRI.
+  See the end of this Medication Guide for a complete list of ingredients in TYSABRI.
 
-TYSABRI is not recommended if you:
+Talk to your doctor before receiving TYSABRI if you have any of these conditions.
 
-- have a medical condition that can weaken your immune system such as HIV infection or AIDS, leukemia or lymphoma, or an organ transplant, and others.
-- are taking medicines that can weaken your immune system.
-  Talk with your doctor about all of the medicines you take or have taken.
+What should I tell my doctor before receiving each dose of TYSABRI?
 
-If you have questions about any of the above, talk to your doctor.
+Before you receive TYSABRI, tell your doctor if you:
 
-What should I tell my doctor and nurse before receiving each infusion of TYSABRI?
-
-Tell your doctor and nurse about all of your medical conditions.
-Tell them if you:
-
-- have any new or worsening medical problems (such as a new or sudden change in your thinking, eyesight, balance, or strength or other problems) that have lasted several days
-- have had hives, itching or trouble breathing during or after an infusion of TYSABRI
+- have medical conditions that can weaken your immune system, including:
+  - HIV infection or AIDS
+  - leukemia or lymphoma
+  - an organ transplant
+  - others medical conditions that can weaken your immune system
+- have any new or worsening medical problems that have lasted several days.
+  These may be new or sudden and include problems with:
+  - thinking
+  - eyesight
+  - balance
+  - strength
+  - weakness on 1 side of your body
+  - using your arms and legs
+- have had hives, itching or trouble breathing during or after receiving a dose of TYSABRI
 - have a fever or infection (including shingles or any unusually long lasting infection)
-- are pregnant or plan to become pregnant
+- are pregnant or plan to become pregnant.
+  It is not known if TYSABRI can harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
-  TYSABRI can pass into your milk.
-  It is not known if the TYSABRI that passes into breast milk can harm your baby.
-- Tell your doctor and nurse about all of the medicines you are taking, including prescription and non-prescription medicines, vitamins and herbal supplements.
-- Know the medicines you take.
-  Keep a list of them with you to show your doctor and nurse.
-  The nurse may ask to see this list before every TYSABRI infusion.
+  TYSABRI can pass into your breast milk.
+  It is not known if the TYSABRI that passes into your breast milk can harm your baby.
+  Talk to your doctor about the best way to feed your baby while you receive TYSABRI.
 
-How do I receive TYSABRI?
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
+Especially tell your doctor if you take medicines that can weaken your immune system.
+Ask your doctor if you are not sure.
 
-- TYSABRI is given once every four weeks through a needle placed in a vein (IV infusion).
-- You must follow all the instructions of the TOUCH® Prescribing Program.
-  Before you can begin to receive TYSABRI, your doctor or nurse will:
-  - explain the TOUCH® Prescribing Program to you
-  - have you sign the TOUCH® Prescriber/Patient Enrollment Form
-- Before every TYSABRI infusion you will be asked a series of questions to confirm that TYSABRI is still right for you.
-- Call your doctor who prescribes TYSABRI right away to report any medical problems that keep getting worse and last several days.
+Know the medicines you take.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
+
+How should I receive TYSABRI?
+
+- TYSABRI is given 1 time every 4 weeks through a needle placed in your vein (IV infusion).
+- Before each TYSABRI dose you will be asked questions to make sure TYSABRI is still right for you.
 
 What are the possible side effects of TYSABRI?
 
-TYSABRI increases your chance of getting a rare brain infection that usually causes death or severe disability.
-This infection is called progressive multifocal leukoencephalopathy (PML).
-If PML happens, it usually happens in people with weakened immune systems.
-(see "What is the most important information I should know about TYSABRI?")
+TYSABRI may cause serious side effects, including:
 
-Other serious side effects with TYSABRI include:
-
+- See “What is the most important information I should know about TYSABRI?”
+- Herpes Encephalitis and Meningitis.
+  TYSABRI may increase your risk of getting an infection of the brain or the covering of your brain and spinal cord (encephalitis or meningitis) caused by herpes viruses that may lead to death.
+  Call your doctor right away if you have sudden fever, severe headache, or if you feel confused after receiving TYSABRI.
+- Liver damage.
+  Symptoms of liver damage can include: yellowing of the skin and eyes (jaundice) unusual darkening of the urine nausea feeling tired or weak vomiting Call your doctor right away if you have symptoms of liver damage.
+  Your doctor can do blood tests to check for liver damage.
+- Allergic reactions, including serious allergic reactions.
+  Symptoms of an allergic reaction can include: hives chills itching rash trouble breathing nausea chest pain flushing of skin dizziness low blood pressure wheezing Serious allergic reactions usually happen within 2 hours of the start of your infusion, but they can happen at any time after you receive TYSABRI.
+  Tell your doctor right away if you have any symptom of an allergic reaction, even if it happens after you leave the infusion center.
+  You may need treatment if you are having an allergic reaction.
 - Infections.
   TYSABRI may increase your chance of getting an unusual or serious infection because TYSABRI can weaken your immune system.
-- Allergic reactions including serious allergic reactions.
-  Symptoms can include:
-  - hives
-  - chills
-  - itching
-  - rash
-  - trouble breathing
-  - nausea
-  - chest pain
-  - flushing of skin
-  - dizziness
-  - low blood pressure
-  - wheezing
-- Serious allergic reactions usually happen within 2 hours of the start of the infusion, but they can happen at any time after receiving TYSABRI.
-- Tell your doctor or nurse right away if you have any symptom of an allergic reaction, even if it happens after you leave the infusion center.
-  You may need treatment if you are having an allergic reaction.
+  You have a higher risk of getting infections if you also take other medicines that can weaken your immune system.
 
-- Liver damage.
-  TYSABRI may cause liver damage.
-  Symptoms can include:
-  - yellowing of the skin and eyes (jaundice)
-  - unusual darkening of the urine
-  - nausea
-  - feeling tired or weak
-  - vomiting
+The most common side effects of TYSABRI include:
 
-Blood tests can be done to check for liver damage.
-Call your doctor right away if you have symptoms of liver damage.
-
-Other side effects with TYSABRI include:
-
-- headache
-- feeling tired
-- urinary tract infection
-- joint pain
-- lung infection
-- depression
-- pain in your arm and legs
-- diarrhea
-- vaginitis
-- rash
-- nose and throat infections
-- stomach area pain
+| headache | feeling tired |
+| --- | --- |
+| urinary tract infection | joint pain |
+| lung infection | depression |
+| pain in your arm and legs | diarrhea |
+| vaginitis | rash |
+| nose and throat infections nausea | stomach area pain |
 
 Tell your doctor about any side effect that bothers you or that does not go away.
 
-These are not all the side effects with TYSABRI.
+These are not all the possible side effects of TYSABRI.
 Ask your doctor for more information.
-
-General information about the safe and effective use of TYSABRI
-
-This Medication Guide provides a summary of the most important information about TYSABRI.
-If you would like more information or have any questions, talk with your doctor or nurse.
-You can ask your doctor or nurse for information about TYSABRI that is written for healthcare professionals.
-You can also call 1-800-456-2255 or visit www.TYSABRI.com.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
+
+General information about the safe and effective use of TYSABRI.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+
+This Medication Guide summarizes the most important information about TYSABRI.
+If you would like more information, talk with your doctor.
+You can ask your pharmacist or doctor for information about TYSABRI that is written for healthcare professionals.
+
+For more information, go to www.TYSABRI.com or call 1-800-456-2255.
 
 What are the ingredients in TYSABRI?
 
 Active ingredient: natalizumab
 
-Inactive Ingredients: sodium chloride, sodium phosphate, monobasic, monohydrate; sodium phosphate, dibasic, heptahydrate; polysorbate 80, and water for injection.
+Inactive Ingredients: sodium chloride, sodium phosphate, monobasic, monohydrate; sodium phosphate, dibasic, heptahydrate; polysorbate 80, and water for injection
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-I61061-20 Revised 06/2013
+Manufactured by: Biogen Idec Inc. 14 Cambridge Center Cambridge, MA 02142 USA
 
-Manufactured by: Biogen Idec Inc., 14 Cambridge Center, Cambridge, MA 02142 USA
-
-TYSABRI®and TOUCH® are registered trademarks of Biogen Idec.
+Revised: December 2013
