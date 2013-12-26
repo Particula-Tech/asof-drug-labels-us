@@ -16,8 +16,10 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 A careful inquiry should be made concerning previous sensitivities to drugs and other allergens.
 
 This product contains benzyl alcohol as a preservative.
-Benzyl alcohol has been associated with a fatal "Gasping Syndrome" in premature infants.
-(See PRECAUTIONS–Pediatric Use.)
+The preservative benzyl alcohol has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
+Although normal therapeutic doses of this product ordinarily deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
+Premature and low birth weight infants may be more likely to develop toxicity.
 
 Usage in Meningitis—Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
 
@@ -97,6 +99,10 @@ In clinical trials with pregnant women, the systemic administration of clindamyc
 Clindamycin should be used during the first trimester of pregnancy only if clearly needed.
 There are no adequate and well-controlled studies in pregnant women during the first trimester of pregnancy.
 
+CLEOCIN PHOSPHATE Sterile Solution contains benzyl alcohol.
+Benzyl alcohol can cross the placenta.
+See WARNINGS.
+
 ## Nursing Mothers
 
 Clindamycin has been reported to appear in breast milk in the range of 0.7 to 3.8 mcg/mL at dosages of 150 mg orally to 600 mg intravenously.
@@ -110,6 +116,7 @@ When CLEOCIN PHOSPHATE Sterile Solution is administered to the pediatric populat
 
 This product contains benzyl alcohol as a preservative.
 Benzyl alcohol has been associated with a fatal "Gasping Syndrome" in premature infants.
+See WARNINGS.
 
 The potential for the toxic effect in the pediatric population from chemicals that may leach from the single dose premixed IV preparation in plastic has not been evaluated.
 
