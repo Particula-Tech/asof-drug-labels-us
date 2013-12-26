@@ -80,9 +80,9 @@ The following adverse events, mostly related to ACE inhibition, were reported mo
 | Hypotension | 10.8 | 6.7 |
 | Creatinine increased | 9.9 | 7 |
 | Hyperkalemia | 6.4 | 3.5 |
-| NPN* increased | 9.2 | 6.5 |
+| NPN1 increased | 9.2 | 6.5 |
 | Syncope | 7 | 5.1 |
-| *NPN = non-protein nitrogen |  |  |
+| 1NPN = non-protein nitrogen |  |  |
 
 ## Acute Myocardial Infarction
 
@@ -90,46 +90,47 @@ In the GISSI-3 trial, in patients treated with lisinopril for six weeks followin
 Patients treated with lisinopril had a significantly higher incidence of hypotension and renal dysfunction compared with patients not taking lisinopril.
 In the GISSI-3 trial, hypotension (9.7%), renal dysfunction (2%), cough (0.5%), post infarction angina (0.3%), skin rash and generalized edema (0.01%), and angioedema (0.01%) resulted in withdrawal of treatment.
 In elderly patients treated with lisinopril, discontinuation due to renal dysfunction was 4.2%.
-Other clinical adverse experiences occurring in 0.3% to 1% of patients with hypertension or heart failure treated with lisinopril in controlled clinical trials and rarer, serious, possibly drug-related events reported in uncontrolled studies or marketing experience are listed below, and within each category are in order of decreasing severity: Body as a Whole: Anaphylactoid reactions (see WARNINGS, Anaphylactoid and Possibly Related Reactions ), syncope, orthostatic effects, chest discomfort, pain, pelvic pain, flank pain, edema, facial edema, virus infection, fever, chills, malaise.
-Cardiovascular: Cardiac arrest; myocardial infarction or cerebrovascular accident possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension ); pulmonary embolism and infarction, arrhythmias (including ventricular tachycardia, atrial tachycardia, atrial fibrillation, bradycardia and premature ventricular contractions), palpitations, transient ischemic attacks, paroxysmal nocturnal dyspnea, orthostatic hypotension, decreased blood pressure, peripheral edema, vasculitis.
-Digestive: Pancreatitis, hepatitis (hepatocellular or cholestatic jaundice) (see WARNINGS, Hepatic Failure ), vomiting, gastritis, dyspepsia, heartburn, gastrointestinal cramps, constipation, flatulence, dry mouth.
+Other clinical adverse experiences occurring in 0.3% to 1% of patients with hypertension or heart failure treated with lisinopril in controlled clinical trials and rarer, serious, possibly drug-related events reported in uncontrolled studies or marketing experience are listed below, and within each category are in order of decreasing severity: Body as a Whole: Anaphylactoid reactions (see WARNINGS, Anaphylactoid and Possibly Related Reactions), syncope, orthostatic effects, chest discomfort, pain, pelvic pain, flank pain, edema, facial edema, virus infection, fever, chills, malaise.
+Cardiovascular: Cardiac arrest; myocardial infarction or cerebrovascular accident possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension); pulmonary embolism and infarction, arrhythmias (including ventricular tachycardia, atrial tachycardia, atrial fibrillation, bradycardia and premature ventricular contractions), palpitations, transient ischemic attacks, paroxysmal nocturnal dyspnea, orthostatic hypotension, decreased blood pressure, peripheral edema, vasculitis.
+Digestive: Pancreatitis, hepatitis (hepatocellular or cholestatic jaundice) (see WARNINGS, Hepatic Failure), vomiting, gastritis, dyspepsia, heartburn, gastrointestinal cramps, constipation, flatulence, dry mouth.
 Hematologic: Rare cases of bone marrow depression, hemolytic anemia, leukopenia/neutropenia and thrombocytopenia.
 Endocrine: Diabetes mellitus, inappropriate antidiuretic hormone secretion.
 Metabolic: Weight loss, dehydration, fluid overload, gout, weight gain.
-Cases of hypoglycemia in diabetic patients on oral antidiabetic agents or insulin have been reported in post-marketing experience (see PRECAUTIONS, Drug Interactions ).
+Cases of hypoglycemia in diabetic patients on oral antidiabetic agents or insulin have been reported in post-marketing experience (see PRECAUTIONS, Drug Interactions).
 Musculoskeletal: Arthritis, arthralgia, neck pain, hip pain, low back pain, joint pain, leg pain, knee pain, shoulder pain, arm pain, lumbago.
-Nervous System/Psychiatric: Stroke, ataxia, memory impairment, tremor, peripheral neuropathy (e.g., dysesthesia), spasm, paresthesia, confusion, insomnia, somnolence, hypersomnia, irritability, nervousness and mood alterations (including depressive symptoms).
+Nervous System/Psychiatric: Stroke, ataxia, memory impairment, tremor, peripheral neuropathy (e.g., dysesthesia), spasm, paresthesia, confusion, insomnia, somnolence, hypersomnia, irritability, nervousness, mood alterations (including depressive symptoms) and hallucinations.
 Respiratory System: Malignant lung neoplasms, hemoptysis, pulmonary infiltrates, bronchospasm, asthma, pleural effusion, pneumonia, eosinophilic pneumonitis, bronchitis, wheezing, orthopnea, painful respiration, epistaxis, laryngitis, sinusitis, pharyngeal pain, pharyngitis, rhinitis, rhinorrhea.
-Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, flushing, diaphoresis, cutaneous pseudolymphoma.
+Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, flushing, diaphoresis, cutaneous pseudolymphoma, psoriasis.
 Other severe skin reactions have been reported rarely, including toxic epidermal necrolysis and Stevens-Johnson syndrome; causal relationship has not been established.
 Special Senses: Visual loss, diplopia, blurred vision, tinnitus, photophobia, taste disturbances, olfactory disturbance.
-Urogenital System: Acute renal failure, oliguria, anuria, uremia, progressive azotemia, renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION ), pyelonephritis, dysuria, urinary tract infection, breast pain.
+Urogenital System: Acute renal failure, oliguria, anuria, uremia, progressive azotemia, renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION), pyelonephritis, dysuria, urinary tract infection, breast pain.
 Miscellaneous: A symptom complex has been reported which may include a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia, fever, vasculitis, eosinophilia and leukocytosis.
 Rash, photosensitivity or other dermatological manifestations may occur alone or in combination with these symptoms.
 Angioedema: Angioedema has been reported in patients receiving lisinopril with an incidence higher in Black than in non-Black patients.
 Angioedema associated with laryngeal edema may be fatal.
 If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with lisinopril should be discontinued and appropriate therapy instituted immediately.
-(See WARNINGS. ) In rare cases, intestinal angioedema has been reported in post marketing experience.
+(See WARNINGS.)
+In rare cases, intestinal angioedema has been reported in post marketing experience.
 Hypotension: In hypertensive patients, hypotension occurred in 1.2% and syncope occurred in 0.1% of patients with an incidence higher in Black than in non-Black patients.
 Hypotension or syncope was a cause of discontinuation of therapy in 0.5% of hypertensive patients.
 In patients with heart failure, hypotension occurred in 5.3% and syncope occurred in 1.8% of patients.
 These adverse experiences were possibly dose-related (see above data from ATLAS Trial) and caused discontinuation of therapy in 1.8% of these patients in the symptomatic trials.
 In patients treated with lisinopril for six weeks after acute myocardial infarction, hypotension (systolic blood pressure ≤100 mmHg) resulted in discontinuation of therapy in 9.7% of the patients.
-(See WARNINGS. ) Fetal/Neonatal Morbidity and Mortality: See WARNINGS, Fetal/Neonatal Morbidity and Mortality .
-Cough: See PRECAUTIONS, Cough Pediatric Patients: No relevant differences between the adverse experience profile for pediatric patients and that previously reported for adult patients were identified.
+(See WARNINGS.)
+Cough:See PRECAUTIONS, Cough Pediatric Patients: No relevant differences between the adverse experience profile for pediatric patients and that previously reported for adult patients were identified.
 
 ## Clinical Laboratory Test Findings
 
-Serum Electrolytes: Hyperkalemia (see PRECAUTIONS ), hyponatremia.
+Serum Electrolytes: Hyperkalemia (see PRECAUTIONS), hyponatremia.
 Creatinine, Blood Urea Nitrogen: Minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 2% of patients with essential hypertension treated with lisinopril alone.
-Increases were more common in patients receiving concomitant diuretics and in patients with renal artery stenosis.
-(See PRECAUTIONS. ) Reversible minor increases in blood urea nitrogen and serum creatinine were observed in approximately 11.6% of patients with heart failure on concomitant diuretic therapy.
+Increases were more common in patients receiving concomitant diuretics and in patients with renal artery stenosis (see PRECAUTIONS).
+Reversible minor increases in blood urea nitrogen and serum creatinine were observed in approximately 11.6% of patients with heart failure on concomitant diuretic therapy.
 Frequently, these abnormalities resolved when the dosage of the diuretic was decreased.
 Hemoglobin and Hematocrit: Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.4 g% and 1.3 vol%, respectively) occurred frequently in patients treated with lisinopril but were rarely of clinical importance in patients without some other cause of anemia.
 In clinical trials, less than 0.1% of patients discontinued therapy due to anemia.
 Hemolytic anemia has been reported; a causal relationship to lisinopril cannot be excluded.
 Liver Function Tests: Rarely, elevations of liver enzymes and/or serum bilirubin have occurred.
-(See WARNINGS, Hepatic Failure .)
+(See WARNINGS, Hepatic Failure.)
 In hypertensive patients, 2% discontinued therapy due to laboratory adverse experiences, principally elevations in blood urea nitrogen (0.6%), serum creatinine (0.5%) and serum potassium (0.4%).
 In the heart failure trials, 3.4% of patients discontinued therapy due to laboratory adverse experiences; 1.8% due to elevations in blood urea nitrogen and/or creatinine and 0.6% due to elevations in serum potassium.
 In the myocardial infarction trial, 2% of patients receiving lisinopril discontinued therapy due to renal dysfunction (increasing creatinine concentration to over 3 mg/dL or a doubling or more of the baseline serum creatinine concentration); less than 1% of patients discontinued therapy due to other laboratory adverse experiences: 0.1% with hyperkalemia and less than 0.1% with hepatic enzyme alterations.
