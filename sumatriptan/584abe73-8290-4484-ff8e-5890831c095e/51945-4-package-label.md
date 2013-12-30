@@ -1,4 +1,12 @@
-# Principal Display Panel
+Package/Label Display Panel
+
+NDC 0173-0735-00
+
+IMITREX®
+
+(SUMATRIPTAN SUCCINATE)
+
+TABLETS
 
 NDC 0173-0735-00
 
@@ -21,7 +29,7 @@ Made in Singapore
 10000000112994 Rev.
 12/12
 
-# Principal Display Panel
+Package/Label Display Panel
 
 NDC 0173-0736-01
 
@@ -44,7 +52,7 @@ Made in Singapore
 10000000112995 Rev.
 12/12
 
-# Prinicpal Display Panel
+Package/Label Display Panel
 
 NDC 0173-0737-01
 

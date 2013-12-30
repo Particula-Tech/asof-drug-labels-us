@@ -1,7 +1,3 @@
-# PATIENT INFORMATION
-
-The following wording is contained in a separate leaflet provided for patients.
-
 Patient Information
 
 IMITREX® (IM-i-trex)
@@ -24,9 +20,9 @@ Heart problems may lead to death.
 Stop taking IMITREX and get emergency medical help right away if you have any of the following symptoms of a heart attack:
 
 - •discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back
-- •chest pain or chest discomfort that feels like heavy pressure, squeezing, or fullness
+- •severe tightness, pain, pressure, or heaviness in your chest, throat, neck, or jaw
 - •pain or discomfort in your arms, back, neck, jaw, or stomach
-- •shortness of breath with or without chest discomfort
+- • shortness of breath with or without chest discomfort
 - •breaking out in a cold sweat
 - •nausea or vomiting
 - •feeling lightheaded
@@ -40,31 +36,14 @@ You have a higher risk for heart disease if you:
 - •are overweight
 - •have diabetes
 - •have a family history of heart disease
-- •are a female who has gone through menopause
-- •are a male over age 40
-
-Serotonin syndrome.
-Serotonin syndrome is a serious and life-threatening problem that can happen in people taking IMITREX, especially if IMITREX is used with anti-depressant medicines called selective serotonin reuptake inhibitors (SSRIs) or selective norepinephrine reuptake inhibitors (SNRIs).
-
-Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
-
-Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
-
-- •mental changes such as seeing things that are not there (hallucinations), agitation, or coma
-- •fast heartbeat
-- •changes in blood pressure
-- •high body temperature
-- •tight muscles
-- •trouble walking
-- •nausea, vomiting, or diarrhea
 
 What is IMITREX?
 
 IMITREX is a prescription medicine used to treat acute migraine headaches with or without aura in adults.
 
-IMITREX is not used to prevent or decrease the number of migraine headaches you have.
+IMITREX is not used to treat other types of headaches such as hemiplegic (that make you unable to move on one side of your body) or basilar (rare form of migraine with aura) migraines.
 
-IMITREX is not used to treat other types of headaches such as hemiplegic (that make you unable to move on one side of your body) or basilar migraines (rare form of migraine with aura).
+IMITREX is not used to prevent or decrease the number of migraine headaches you have.
 
 It is not known if IMITREX is safe and effective to treat cluster headaches.
 
@@ -75,29 +54,27 @@ Who should not take IMITREX?
 Do not take IMITREX if you have:
 
 - •heart problems or a history of heart problems
-- •narrowing of blood vessels to your legs, arms, stomach, or kidney (peripheral vascular disease)
+- •narrowing of blood vessels to your legs, arms, stomach, or kidneys (peripheral vascular disease)
 - •uncontrolled high blood pressure
 - •severe liver problems
 - •hemiplegic migraines or basilar migraines.
   If you are not sure if you have these types of migraines, ask your healthcare provider.
 - •had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
 - •taken any of the following medicines in the last 24 hours:
-  - ∘almotriptan (AXERT®)
-  - ∘eletriptan (RELPAX®)
-  - ∘frovatriptan (FROVA®)
-  - ∘naratriptan (AMERGE®)
-  - ∘rizatriptan (MAXALT®, MAXALT-MLT®)
-  - ∘sumatriptan and naproxen (TREXIMET®)
-  - ∘ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
-  - ∘dihydroergotamine (D.H.E.
+  - oalmotriptan (AXERT®)
+  - oeletriptan (RELPAX®)
+  - ofrovatriptan (FROVA®)
+  - onaratriptan (AMERGE®)
+  - orizatriptan (MAXALT®), MAXALT-MLT®)
+  - osumatriptan and naproxen (TREXIMET®)
+  - oergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
+  - odihydroergotamine (D.H.E.
     45®, MIGRANAL®)
-
-Ask your doctor if you are not sure if your medicine is listed above.
+- Ask your healthcare provider if you are not sure if your medicine is listed above.
 
 - •an allergy to sumatriptan or any of the ingredients in IMITREX.
   See the end of this leaflet for a complete list of ingredients in IMITREX.
-
-What should I tell my healthcare provider before taking IMITREX?
+- What should I tell my healthcare provider before taking IMITREX?
 
 Before you take IMITREX, tell your healthcare provider about all of your medical conditions, including if you:
 
@@ -106,27 +83,25 @@ Before you take IMITREX, tell your healthcare provider about all of your medical
 - •have diabetes
 - •smoke
 - •are overweight
-- •are a female who has gone through menopause
-- •have heart disease or a family history of heart disease or stroke
+- •have heart problems or family history of heart problems or stroke
 - •have kidney problems
 - •have liver problems
 - •have had epilepsy or seizures
 - •are not using effective birth control
-- •are pregnant or plan to become pregnant.
-  It is not known if IMITREX will harm your unborn baby.
-- •become pregnant while taking IMITREX
+- •become pregnant while taking IMITREX.
 - •are breastfeeding or plan to breastfeed.
   IMITREX passes into your breast milk and may harm your baby.
   Talk with your healthcare provider about the best way to feed your baby if you take IMITREX.
 
 Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
-IMITREX and other medicines may affect each other, causing side effects.
+IMITREX and certain other medicines can affect each other, causing serious side effects.
 
 Especially tell your healthcare provider if you take anti-depressant medicines called:
 
 - •selective serotonin reuptake inhibitors (SSRIs)
 - •serotonin norepinephrine reuptake inhibitors (SNRIs)
+- •tricyclic antidepressants (TCAs)
 - •monoamine oxidase inhibitors (MAOIs)
 
 Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
@@ -134,26 +109,33 @@ Ask your healthcare provider or pharmacist for a list of these medicines if you 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
 
-How should I take IMITREX?
-
+- 
+  - 
+    - 
+      - 
+        - 
+          - 
+            - 
+              - 
+                - 
+                  - 
+                    - 
+                      - 
+                        1. How should I take IMITREX?
 - •Certain people should take their first dose of IMITREX in their healthcare provider’s office or in another medical setting.
   Ask your healthcare provider if you should take your first dose in a medical setting.
 - •Take IMITREX exactly as your healthcare provider tells you to take it.
 - •Your healthcare provider may change your dose.
   Do not change your dose without first talking to your healthcare provider.
-- •Take IMITREX with water or other liquids.
-- •If you do not get any relief after your first IMITREX tablet, do not take a second tablet without first talking with your healthcare provider.
+- •Take IMITREX Tablets whole with water or other liquids.
+- •If you do not get any relief after your first tablet, do not take a second tablet without first talking with your healthcare provider.
 - •If your headache comes back or you only get some relief from your headache, you can take a second tablet 2 hours after the first tablet.
-- •Do not take more than a total of 200 mg of IMITREX tablets in a 24‑hour period.
-- •Some people who take too many IMITREX tablets may have worse headaches (medication overuse headache).
-  If your headaches get worse, your healthcare provider may decide to stop your treatment with IMITREX.
+- •Do not take more than 200 mg of IMITREX Tablets in a 24‑hour period.
 - •If you take too much IMITREX, call your healthcare provider or go to the nearest hospital emergency room right away.
 - •You should write down when you have headaches and when you take IMITREX so you can talk with your healthcare provider about how IMITREX is working for you.
-
-What should I avoid while taking IMITREX?
-
-IMITREX can cause dizziness, weakness, or drowsiness.
-If you have these symptoms, do not drive a car, use machinery, or do anything where you need to be alert.
+- What should I avoid while taking IMITREX?
+- IMITREX can cause dizziness, weakness, or drowsiness.
+  If you have these symptoms, do not drive a car, use machinery, or do anything where you need to be alert.
 
 What are the possible side effects of IMITREX?
 
@@ -165,29 +147,45 @@ These serious side effects include:
 - •changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
 - •stomach and intestinal problems (gastrointestinal and colonic ischemic events).
   Symptoms of gastrointestinal and colonic ischemic events include:
-  - ∘sudden or severe stomach pain
-  - ∘stomach pain after meals
-  - ∘weight loss
-  - ∘nausea or vomiting
-  - ∘constipation or diarrhea
-  - ∘bloody diarrhea
-  - ∘fever
+  - osudden or severe stomach pain
+  - ostomach pain after meals
+  - oweight loss
+  - onausea or vomiting
+  - oconstipation or diarrhea
+  - obloody diarrhea
+  - ofever
 - •problems with blood circulation to your legs and feet (peripheral vascular ischemia).
   Symptoms of peripheral vascular ischemia include:
-  - ∘cramping and pain in your legs or hips
-  - ∘feeling of heaviness or tightness in your leg muscles
-  - ∘burning or aching pain in your feet or toes while resting
-  - ∘numbness, tingling, or weakness in your legs
-  - ∘cold feeling or color changes in 1 or both legs or feet
-- •shortness of breath or wheezing
+  - ocramping and pain in your legs or hips
+  - ofeeling of heaviness or tightness in your leg muscles
+  - oburning or aching pain in your feet or toes while resting
+  - onumbness, tingling, or weakness in your legs
+  - ocold feeling or color changes in 1 or both legs or feet
 - •hives (itchy bumps); swelling of your tongue, mouth, or throat
+- •medication overuse headaches.
+  Some people who use too many IMITREX tablets may have worse headaches (medication overuse headache).
+  If your headaches get worse, your healthcare provider may decide to stop your treatment with IMITREX.
+- •serotonin syndrome.
+  Serotonin syndrome is a rare but serious problem that can happen in people using IMITREX, especially if IMITREX is used with anti‑depressant medicines called SSRIs or SNRIs.
+- Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
+- 
+  - omental changes such as seeing things that are not there (hallucinations), agitation, or coma
+  - ofast heartbeat
+  - ochanges in blood pressure
+  - ohigh body temperature
+  - otight muscles
+  - otrouble walking
+- •seizures.
+  Seizures have happened in people taking IMITREX who have never had seizures before.
+  Talk with your healthcare provider about your chance of having seizures while you take IMITREX.
 
-The most common side effects of IMITREX include:
+The most common side effects of IMITREX Tablets include:
 
 - •tingling or numbness in your fingers or toes
-- •dizziness
-- •warm, hot, burning feeling to your face (flushing)
+- •warm or cold feeling
 - •feeling weak, drowsy, or tired
+- •pain, discomfort, or stiffness in your neck, throat, jaw, or chest
+- •dizziness
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -224,19 +222,19 @@ Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate, magnesiu
 
 100‑mg tablets also contain hypromellose, iron oxide, titanium dioxide, and triacetin.
 
-imitrex, AMERGE, and TREXIMET are registered trademarks of GlaxoSmithKline.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+IMITREX, AMERGE, and TREXIMET are registered trademarks of the GlaxoSmithKline group of companies.
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
-
-This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2012, GlaxoSmithKline.
+©2013, GlaxoSmithKline group of companies.
 All rights reserved.
 
-March 2012
+November 2013
 
-IMT:3PIL
+IMT:4PIL

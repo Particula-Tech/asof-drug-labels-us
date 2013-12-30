@@ -1,6 +1,9 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-IMITREX Tablets are indicated for the acute treatment of migraine attacks with or without aura in adults.
+IMITREX® Tablets are indicated for the acute treatment of migraine with or without aura in adults.
 
-IMITREX Tablets are not intended for the prophylactic therapy of migraine or for use in the management of hemiplegic or basilar migraine (see CONTRAINDICATIONS).
-Safety and effectiveness of IMITREX Tablets have not been established for cluster headache, which is present in an older, predominantly male population.
+- Limitations of Use:
+- •Use only if a clear diagnosis of migraine headache has been established.
+  If a patient has no response to the first migraine attack treated with IMITREX, reconsider the diagnosis of migraine before IMITREX is administered to treat any subsequent attacks.
+- •IMITREX is not indicated for the prevention of migraine attacks.
+- •Safety and effectiveness of IMITREX Tablets have not been established for cluster headache.
