@@ -1,17 +1,20 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-In human dermal safety studies, tazarotene 0.05% and 0.1% creams did not induce allergic contact sensitization, phototoxicity, or photoallergy.
+## 6.1 Clinical Trials Experience
 
-## Psoriasis
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The most frequent adverse events reported with TAZORAC® 0.05% and 0.1% creams were limited to the skin.
-Those occurring in 10 to 23% of patients, in descending order, included pruritus, erythema, and burning.
-Events occurring in greater than 1 to less than 10% of patients, in descending order, included irritation, desquamation, stinging, contact dermatitis, dermatitis, eczema, worsening of psoriasis, skin pain, rash, hypertriglyceridemia, dry skin, skin inflammation, and peripheral edema.
+In human dermal safety trials, TAZORAC® Cream, 0.05% and 0.1% did not induce allergic contact sensitization, phototoxicity, or photoallergy.
 
-Tazarotene cream 0.1% was associated with a somewhat greater degree of local irritation than the 0.05% cream.
-In general, the rates of irritation adverse events reported during psoriasis studies with TAZORAC® 0.1% Cream were 1 to 4 percentage points higher than those reported for TAZORAC® 0.05% Cream.
+Psoriasis
 
-## Acne
+The most frequent adverse reactions reported with TAZORAC® Cream, 0.05% and 0.1% occurring in 10 to 23% of subjects, in descending order, included pruritus, erythema, and burning.
+Reactions occurring in greater than 1 to less than 10% of subjects, in descending order, included irritation, desquamation, stinging, contact dermatitis, dermatitis, eczema, worsening of psoriasis, skin pain, rash, hypertriglyceridemia, dry skin, skin inflammation, and peripheral edema.
 
-The most frequent adverse reactions reported during clinical trials with TAZORAC® Cream 0.1% in the treatment of acne, occurring in 10-30% of patients, in descending order included desquamation, dry skin, erythema, and burning sensation.
-Events occurring in 1 to 5% of patients included pruritus, irritation, face pain, and stinging.
+TAZORAC® Cream, 0.1% was associated with a greater degree of local irritation than the 0.05% cream.
+The rates of irritation adverse reactions reported during psoriasis trials with TAZORAC® Cream, 0.1% were 0.1-0.4% higher than those reported for TAZORAC® Cream, 0.05%.
+
+Acne
+
+The most frequent adverse reactions reported during clinical trials with TAZORAC® Cream 0.1% in the treatment of acne, occurring in 10-30% of subjects, in descending order included desquamation, dry skin, erythema, and burning sensation.
+Reactions occurring in 1 to 5% of subjects included pruritus, irritation, face pain, and stinging.

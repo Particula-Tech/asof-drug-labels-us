@@ -1,12 +1,11 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-TAZORAC® Cream is a white cream and contains the compound tazarotene.
-Tazarotene is a member of the acetylenic class of retinoids and is represented by the following structural formula:
+TAZORAC® (tazarotene) Cream, 0.05% and 0.1% is for topical use and contains the active ingredient, tazarotene.
+Each gram of TAZORAC® Cream, 0.05% and 0.1% contains 0.5 and 1 mg of tazarotene, respectively in a white cream base.
 
-## Contains:
+Tazarotene is a member of the acetylenic class of retinoids.
+Chemically, tazarotene is ethyl 6-[(4,4-dimethylthiochroman-6-yl)ethynyl]nicotinate.
+The compound has an empirical formula of C21H21NO2S and molecular weight of 351.46.
+The structural formula is shown below:
 
-Active: Tazarotene 0.05% or 0.1% (w/w)
-
-Preservative: Benzyl alcohol 1% (w/w)
-
-Inactives: Carbomer homopolymer type B, carbomer 1342, edetate disodium, medium chain triglycerides, mineral oil, purified water, sodium thiosulfate, sorbitan monooleate, and sodium hydroxide to adjust pH.
+TAZORAC® Cream contains the following inactive ingredients: benzyl alcohol 1%; carbomer 1342; carbomer homopolymer type B; edetate disodium; medium chain triglycerides; mineral oil; purified water; sodium hydroxide; sodium thiosulfate; and sorbitan monooleate.

@@ -1,164 +1,146 @@
-INFORMATION FOR PATIENTS
+Patient Information
 
-TAZORAC® (tazarotene) Cream 0.05% TAZORAC® (tazarotene) Cream 0.1%
+TAZORAC® (TAZ-or-ac)
 
-Read this leaflet carefully before you start to use your medicine.
-Read the information you get every time you get more medicine.
-There may be new information about the drug.
-This leaflet does not take the place of talks with your doctor.
-If you have any questions, or are not sure about something, ask your doctor or pharmacist.
+(tazarotene)
+
+Cream
+
+| Important information: TAZORAC® Cream is for use on skin only. Do not use TAZORAC® Cream in your eyes, mouth, or vagina. |
+| --- |
+
+What is the most important information I should know about TAZORAC® Cream?
+
+TAZORAC® Cream may cause birth defects if used during pregnancy.
+
+- Females must not be pregnant when they start using TAZORAC® Cream or become pregnant during treatment with TAZORAC® Cream.
+- For females who are able to get pregnant:
+  - Your doctor should order a pregnancy test for you within 2 weeks before you begin treatment with TAZORAC® Cream to be sure that you are not pregnant.
+    Your doctor will decide when to do the test.
+  - You should begin treatment with TAZORAC® Cream during a normal menstrual period.
+  - Use an effective form of birth control during treatment with TAZORAC® Cream.
+    Talk with your doctor about birth control options that may be used to prevent pregnancy during treatment with TAZORAC® Cream.
+  - Stop using TAZORAC® Cream and tell your doctor right away if you become pregnant while using TAZORAC® Cream.
 
 What is TAZORAC® Cream?
 
-TAZORAC® (TAZ-or-ac) Cream 0.05% and 0.1% are used to treat plaque psoriasis.
-In addition, TAZORAC® Cream 0.1% is used to treat acne.
-The active ingredient is tazarotene.
+- TAZORAC® Cream 0.05% and 0.1% is a prescription medicine used on the skin (topical) to treat people with plaque psoriasis.
+- TAZORAC® Cream 0.1% is also used on the skin to treat people with acne vulgaris.
+
+It is not known if TAZORAC® Cream is safe and effective for treating psoriasis in children under 18 years of age, or for treating acne vulgaris in children under 12 years of age.
 
 Who should not use TAZORAC® Cream?
 
-Do not use TAZORAC® Cream if:
+Do not use TAZORAC® Cream if you:
 
-- you are pregnant, plan to become pregnant, or may become pregnant because of the potential harm to an unborn child.
-  Talk with your doctor about effective birth control if you are a woman who is able to become pregnant.
-- you are breast feeding.
-  We do not know if TAZORAC® Cream can pass through the milk to the baby.
-  The potential harm to the baby is unknown.
-- you have sunburn, eczema, or other continuing skin condition.
-  If you have sunburn, wait until full recovery before using TAZORAC® Cream.
-  TAZORAC® Cream may cause severe irritation if used on eczema.
-- you are sensitive to sunlight, unless prescribed differently by your doctor.
-- you take other drugs that increase your sensitivity to sunlight.
-  These include medicines that are thiazides, tetracyclines, fluoroquinolones, phenothiazines, and sulfonamides.
-  Therefore, tell your doctor if you take any medicines.
-  This will help your doctor decide if you can take TAZORAC® Cream.
-- you are allergic to the ingredients in TAZORAC® Cream.
-  The active ingredient is tazarotene.
-  The inactive ingredients are benzyl alcohol, carbomer homopolymer type B, carbomer 1342, edetate disodium, medium chain triglycerides, mineral oil, purified water, sodium hydroxide, sodium thiosulfate, and sorbitan monooleate.
+- are pregnant, or you are able to become pregnant and are not using effective birth control.
+  See the section called “What is the most important information I should know about TAZORAC® Cream?” at the beginning of this leaflet.
+- are allergic to any of the ingredients in TAZORAC® Cream.
+  See the end of this leaflet for a complete list of ingredients in TAZORAC® Cream.
 
-How should I use TAZORAC® Cream 0.1% or 0.05% for treatment of psoriasis?
+What should I tell my doctor before using TAZORAC® Cream?
 
-- Read the directions on your prescription label carefully.
-  Ask your doctor or pharmacist to explain anything you do not understand.
-- Apply a thin film of the cream to your psoriasis areas once a day, in the evening.
-- Carefully avoid application to apparently uninvolved skin.
-  TAZORAC® Cream may be irritating to non-lesional skin.
-- If you bathe or shower before using TAZORAC® Cream, be sure the skin is dry before you use TAZORAC® Cream.
-- If you use a cream or lotion to soften or moisten your skin, apply TAZORAC® Cream after there is no more of the first cream or lotion on the skin.
-- Wash your hands after applying the medicine, unless you are treating your hands for psoriasis.
-  If the cream gets on areas you do not need to treat, wash it off.
-- If you need to treat your hands, avoid hand contact with your eyes.
-- Keep TAZORAC® Cream away from your eyes, eyelids, and mouth.
-  If it gets in your eyes, wash them with large amounts of cool water.
-  Contact your doctor if eye irritation continues.
-- If you miss a dose, do not try to make it up.
-  Continue with your normal schedule.
-- If you are able to become pregnant, take a pregnancy test within 2 weeks prior to beginning to use TAZORAC® Cream to be sure you are not pregnant.
-  If you have menstrual periods, begin taking TAZORAC® Cream during a normal menstrual period.
-  These actions help assure that you are not pregnant when you begin use.
-- If you become pregnant while using TAZORAC® Cream, stop use and contact your doctor right away.
+Before you use TAZORAC® Cream, tell your doctor if you:
 
-Do not use more TAZORAC® Cream than instructed or more often than instructed.
-Using larger amounts of medicine than recommended will not lead to faster or better results and may cause more side effects.
+- have eczema or any other skin problems
+- have any other medical conditions
+- are breastfeeding or plan to breastfeed.
+  It is not known if TAZORAC® Cream passes into your breast milk.
+  You and your doctor should decide if you will use TAZORAC® Cream or breastfeed.
+  You should not do both.
 
-Psoriasis plaques and scales will usually begin to improve in about one to two weeks.
-The redness may take longer to improve.
-Continue to use TAZORAC® Cream as directed by your doctor.
-Contact your doctor if your psoriasis becomes worse.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Certain medicines, vitamins, or supplements may make your skin more sensitive to sunlight.
+Also, tell your doctor about any cosmetics you use, including moisturizers, creams, lotions, or products that can dry out your skin.
 
-How should I use TAZORAC® Cream 0.1% for treatment of acne?
+How should I use TAZORAC® Cream?
 
-- If you are able to become pregnant, take a pregnancy test within 2 weeks prior to beginning to use TAZORAC® Cream to be sure you are not pregnant.
-  If you have menstrual periods, begin taking TAZORAC® Cream during a normal menstrual period.
-  These actions help assure that you are not pregnant when you begin use.
-- If you become pregnant while using TAZORAC® Cream, stop use and contact your doctor right away.
-- Read the directions on your prescription label carefully.
-  Ask your doctor or pharmacist to explain anything you do not understand.
-- Cleanse the face gently.
-- After the skin is dry, apply a thin layer of TAZORAC® Cream once per day, in the evening, to the skin where acne lesions appear.
-- Use enough to cover the entire affected area.
-  In acne, the whole of the skin prone to acne should be treated.
-- Follow your doctor's directions for other routine skin care and the use of make-up.
-  Talk to your doctor about the use of sunscreens and cosmetics.
-- Wash your hands after applying the medicine.
-  If the cream gets on areas you do not need to treat, wash it off.
-- Keep TAZORAC® Cream away from your eyes, eyelids and mouth.
-  If it gets in your eyes, wash them with large amounts of cool water.
-  Contact your doctor if eye irritation continues.
-- If you miss a dose, do not try to make it up.
-  Continue with your normal schedule.
-- Continue to use TAZORAC® Cream as directed by your doctor even though you may not begin to see improvement for at least four weeks.
-  Contact your doctor if your acne becomes worse.
+- Use TAZORAC® Cream exactly as your doctor tells you to use it.
+- If you have psoriasis:
+  - If you shower or bathe before applying TAZORAC® Cream, your skin should be dry before applying the cream.
+  - You may use a cream or lotion to soften or moisten your skin at least 1 hour before you apply TAZORAC® Cream.
+  - Apply a thin layer of TAZORAC® Cream to cover only the psoriasis lesions, 1 time each day, in the evening.
+- If you have acne:
+  - Gently wash and dry your face before applying TAZORAC® Cream.
+  - Apply a thin layer of TAZORAC® Cream to cover all of the affected skin areas, 1 time each day, in the evening.
+- TAZORAC® Cream should not be applied to unaffected skin.
+  TAZORAC® Cream may cause irritation to unaffected skin.
+- TAZORAC® Cream should not be used on skin with eczema because it may cause severe irritation.
+- Do not get TAZORAC® Cream in your eyes, on your eyelids, or in your mouth.
+  If TAZORAC® Cream gets in or near your eyes, rinse them well with water.
+- Wash your hands after applying TAZORAC® Cream.
+- If you swallow TAZORAC® Cream, call your doctor or go to the nearest hospital emergency room right away.
 
 What should I avoid while using TAZORAC® Cream?
 
-- If you are able to become pregnant, take a pregnancy test 2 weeks before beginning to use TAZORAC® Cream to be sure you are not pregnant.
-  If you have menstrual periods, begin applying TAZORAC® Cream during a normal menstrual period.
-  These actions help assure that you are not pregnant when you begin use.
-- If you become pregnant while using TAZORAC® Cream, stop use and contact your doctor right away.
-- Because of increased sensitivity to sun, avoid sunlight as much as possible while using TAZORAC® Cream.
-  Use protective clothing and sunscreens of at least SPF 15 during the day when using TAZORAC® Cream.
-  Also, do not use sunlamps, unless prescribed differently by your doctor.
-- If you are sensitive to sunlight or in the sun a lot on your job, be especially careful to protect your skin.
-  Use sunscreens and protective clothing.
-  Stay out of the sun as much as possible.
-- Do not cover treated areas with dressings or bandages.
-- Do not use TAZORAC® Cream on skin that has eczema.
-  TAZORAC® Cream may cause severe irritation on skin with eczema.
-  Do not use TAZORAC® Cream until your doctor has told you that your eczema is fully recovered.
-- Carefully avoid application to apparently uninvolved skin in psoriasis.
-  TAZORAC® Cream may be more irritating to non-lesional skin.
-  All skin involved with acne should be treated.
-
-What other precautions should I take in using TAZORAC® Cream?
-
-Watch your reaction to TAZORAC® Cream carefully if you are also using other skin products with a strong drying effect or high amounts of alcohol, astringents, spices, lime peel, medicated soaps or shampoos, permanent wave solution, electrolysis, hair depilatories or waxes, or other products or processes that may dry or irritate the skin.
-
-If TAZORAC® Cream is swallowed, contact your doctor or a poison control center.
-
-If you are taking Vitamin A supplements, tell your doctor about your Vitamin A dose.
-TAZORAC® and Vitamin A belong to the same class of chemicals.
+- Avoid sunlight, including sunlamps, as much as possible.
+  TAZORAC® Cream can make your skin more sensitive to the sun, and the light from sunlamps and tanning beds.
+  You could get a severe sunburn.
+  Use sunscreen with at least SPF 15, and wear a hat and clothes that cover your skin if you have to be in sunlight.
+  Talk to your doctor if you get a sunburn during treatment with TAZORAC® Cream.
+  If you get a sunburn, do not use TAZORAC® Cream until your sunburn is healed.
 
 What are the possible side effects of TAZORAC® Cream?
 
-For patients with psoriasis, the most common side effects of TAZORAC® Cream 0.05% and 0.1% are itching, red skin and burning or stinging.
+TAZORAC® Cream may cause serious side effects, including:
 
-For patients with acne, the most common side effects of TAZORAC® Cream 0.1% are peeling, dry skin, red skin, and burning.
+- Skin irritation.
+  TAZORAC® Cream may cause itching, burning, redness, and peeling of your skin.
+  Also, wind or cold weather may be more irritating to your skin while you are using TAZORAC® Cream.
+  Tell your doctor if you develop any of these symptoms of skin irritation with TAZORAC® Cream.
+  Your doctor may tell you to stop using TAZORAC® Cream until your skin heals, change your dose of TAZORAC® Cream, or your doctor may tell you to use it less often, if you get too much skin irritation.
 
-Tell your doctor if these side effects become problems.
-Your doctor may wish to adjust your dose of TAZORAC® Cream.
-However, effectiveness of TAZORAC® Cream when used less often than once a day has not been proven.
+The most common side effects of TAZORAC® Cream in people with plaque psoriasis include:
 
-While you take TAZORAC® Cream, weather extremes, such as wind or cold, may irritate your skin more than usual.
+- itching
+- redness
+- burning
 
-Storage Information
+The most common side effects of TAZORAC® Cream in people with acne include:
 
-Keep the tube tightly closed when not in use.
-Store the tube out of the reach of children, at a temperature of 77°F (25°C).
-Storage temperature can range from 23° to 86°F (-5° to 30°C) for short periods of time.
+- peeling
+- dry skin
+- redness
+- burning
 
-General advice about prescription medicines
+Tell your doctor if you have any side effect that bothers you or that does not go away.
 
-This medicine is for your use only.
-Never give it to other people.
-It may harm them even if their skin problem appears to be the same as yours.
+These are not all the possible side effects of TAZORAC® Cream.
+For more information, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store TAZORAC® Cream?
+
+- Store TAZORAC® Cream at room temperature between 68°F to 77°F (20°C to 25°C).
+
+Keep TAZORAC® Cream and all medicines out of the reach of children.
+
+General information about the safe and effective use of TAZORAC® Cream.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use TAZORAC® Cream for a condition for which it was not prescribed.
-Do not use TAZORAC® Cream after the expiration date on the bottom seal of the tube.
+Do not give TAZORAC® Cream to other people, even if they have the same symptoms you have.
+It may harm them.
 
-Where can I get more information about TAZORAC® Cream?
+If you would like more information, talk with your doctor.
+You can ask your doctor or pharmacist for information about TAZORAC® Cream that is written for health professionals.
 
-You can contact Allergan by calling 1-800-433-8871, or by visiting www.tazorac.com.
-You can ask your doctor or pharmacist for the information about TAZORAC® Cream that is written for health professionals.
+For more information call 1-800-433-8871 or go to www.tazorac.com.
 
-Where can I get more information about psoriasis?
+What are the ingredients in TAZORAC® Cream?
 
-You can get information from: The National Psoriasis Foundation 6600 SW 92nd Avenue, Suite 300, Portland, OR 97223-7195 Telephone 1-800-723-9166, or on the World Wide Web at http://www.psoriasis.org
+Active ingredient: tazarotene
 
-Revised: 02/2011
+Inactive ingredients: benzyl alcohol 1%, Carbomer 1342, carbomer homopolymer type B, edetate disodium, medium chain triglycerides, mineral oil, purified water, sodium hydroxide, sodium thiosulfate, and sorbitan monooleate
 
-© 2011 Allergan, Inc.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Irvine, CA 92612, U.S.A.
+Revised: December 2013
 
-® marks owned by Allergan, Inc. Made in the U.S.A.
+Manufactured by: Allergan, Inc., Irvine, CA 92612, U.S.A.
 
-71521US15C
+© 2014 Allergan, Inc. ® marks owned by Allergan, Inc. Made in the U.S.A.
+
+72709US10
