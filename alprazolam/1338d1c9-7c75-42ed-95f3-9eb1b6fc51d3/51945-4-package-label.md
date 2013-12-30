@@ -1,10 +1,12 @@
-# PRINCIPAL DISPLAY PANEL - 0.5 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Bottle Label
 
 NDC 59762-0057-1 60 Tablets
 
 GREENSTONE® BRAND
 
-alprazolam XR alprazolam extended-release tablets
+alprazolam XR
+
+alprazolam extended-release tablets
 
 CIV
 
@@ -12,13 +14,15 @@ CIV
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 1 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
 NDC 59762-0059-1 60 Tablets
 
 GREENSTONE® BRAND
 
-alprazolam XR alprazolam extended-release tablets
+alprazolam XR
+
+alprazolam extended-release tablets
 
 CIV
 
@@ -26,13 +30,15 @@ CIV
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 2 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
 NDC 59762-0066-1 60 Tablets
 
 GREENSTONE® BRAND
 
-alprazolam XR alprazolam extended-release tablets
+alprazolam XR
+
+alprazolam extended-release tablets
 
 CIV
 
@@ -40,13 +46,15 @@ CIV
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 3 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 3 mg Tablet Bottle Label
 
 NDC 59762-0068-1 60 Tablets
 
 GREENSTONE® BRAND
 
-alprazolam XR alprazolam extended-release tablets
+alprazolam XR
+
+alprazolam extended-release tablets
 
 CIV
 
