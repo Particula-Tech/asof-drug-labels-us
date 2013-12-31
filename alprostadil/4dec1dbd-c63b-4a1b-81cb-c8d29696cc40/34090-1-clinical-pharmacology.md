@@ -69,6 +69,6 @@ The pulmonary extraction of alprostadil following intravascular administration w
 Pulmonary clearance was found to vary as a function of cardiac output and pulmonary intrinsic clearance in a group of 14 patients with ARDS or at risk of developing ARDS following trauma or sepsis.
 In this study, the extraction efficiency of alprostadil ranged from subnormal (11%) to normal (90%), with an overall mean of 67%.
 
-## Drug-Drug Interactions
+### Drug-Drug Interactions
 
 The potential for pharmacokinetic drug-drug interactions between alprostadil and other agents has not been formally studied.

@@ -1,9 +1,8 @@
 For Intracavernosal Use
 
-Rx only
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
 
 Rx only
 
-LAB-0007-3.0
-
-Revised September 2006
+LAB- 0007-4.0 December 2013

@@ -22,7 +22,7 @@ The patient must stay in the physician's office until complete detumescence occu
 ### Erectile Dysfunction of Pure Neurogenic Etiology (Spinal Cord Injury)
 
 Dosage titration should be initiated at 1.25 mcg of alprostadil.
-Because CAVERJECT IMPULSE is designed to deliver doses of 2.5 mcg or greater (see General Procedure for Solution Preparation), CAVERJECT Sterile Powder or CAVERJECT Injection may be used for an initial dose of 1.25 mcg.
+Because CAVERJECT IMPULSE is designed to deliver doses of 2.5 mcg or greater (see General Procedure for Solution Preparation), CAVERJECT Sterile Powder may be used for an initial dose of 1.25 mcg.
 The initial dose may be increased by 1.25 mcg to a dose of 2.5 mcg within 1 hour.
 No more than 2 doses during initial titration should be given within a 24-hour period.
 If additional titration is required, a dose of 5 mcg may be given during the next 24 hours.
@@ -50,13 +50,13 @@ The effectiveness of CAVERJECT for long-term use of up to 6 months has been docu
 The mean dose of CAVERJECT Sterile Powder at the end of 6 months was 20.7 mcg in this study.
 CAVERJECT IMPULSE in the 10 mcg strength is designed to deliver a minimum dose of 2.5 mcg and a maximum dose of 10 mcg.
 CAVERJECT IMPULSE in the 20 mcg strength is designed to deliver a minimum dose of 5 mcg and a maximum dose of 20 mcg.
-The physician should determine the most suitable formulation of CAVERJECT for the individual patient (CAVERJECT IMPULSE, CAVERJECT Sterile Powder, or CAVERJECT Injection).
+The physician should determine the most suitable formulation of CAVERJECT for the individual patient (CAVERJECT IMPULSE or CAVERJECT Sterile Powder).
 
 Careful and continuous follow-up of the patient while in the self-injection program must be exercised.
 This is especially true for the initial self-injections, since adjustments in the dose of CAVERJECT may be needed.
 The recommended frequency of injection is no more than 3 times weekly, with at least 24 hours between each dose.
 All formulations of CAVERJECT are intended for single use only and should be discarded after use.
-The user should be instructed in the proper disposal of the injection materials (e.g., device, needles).
+The user should be instructed in the proper disposal of the injection materials (e.g., delivery system, needles).
 
 While on self-injection treatment, it is recommended that the patient visit the prescribing physician's office every 3 months.
 At that time, the efficacy and safety of the therapy should be assessed, and the dose of CAVERJECT should be adjusted, if needed.
@@ -73,14 +73,16 @@ CAVERJECT IMPULSE consists of a disposable, single-dose, dual chamber syringe sy
 The system includes a glass cartridge, which contains sterile, freeze-dried alprostadil in the front chamber and sterile bacteriostatic water for injection in the rear chamber.
 Following proper reconstitution instructions, the 10 mcg strength syringe can deliver up to 0.5 mL of solution.
 Each 0.5 mL of solution contains 10 mcg of alprostadil, 324.7 mcg of alpha cyclodextrin, 45.4 mg of lactose, 23.5 mcg of sodium citrate, and 4.45 mg of benzyl alcohol.
-The delivery device can be set to deliver a solution volume of 0.125, 0.25, 0.375, or 0.50 mL to enable administration of 2.5, 5, 7.5, or 10 mcg of alprostadil.
+The delivery system can be set to deliver a solution volume of 0.125, 0.25, 0.375, or 0.50 mL to enable administration of 2.5, 5, 7.5, or 10 mcg of alprostadil.
 Following proper reconstitution instructions, the 20 mcg strength syringe can deliver up to 0.5 mL of solution.
 Each 0.5 mL of solution contains 20 mcg of alprostadil, 649.3 mcg of alpha cyclodextrin, 45.4 mg of lactose, 23.5 mcg of sodium citrate, and 4.45 mg of benzyl alcohol.
-The delivery device can be set to deliver a solution volume of 0.125, 0.25, 0.375, or 0.50 mL to enable administration of 5, 10, 15, or 20 mcg of alprostadil.
+The delivery system can be set to deliver a solution volume of 0.125, 0.25, 0.375, or 0.50 mL to enable administration of 5, 10, 15, or 20 mcg of alprostadil.
 After reconstitution, the solution of CAVERJECT should be used within 24 hours when stored at or below 25°C (77°F).
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever the solution and container permit.
 The product should not be used if particulate matter or discoloration are present.
-Following a single use, the injection device and any remaining solution should be properly discarded.
+Following a single use, the injection delivery system and any remaining solution should be properly discarded.
 
-Caution: CAVERJECT IMPULSE is for single use only.
+## Caution
+
+CAVERJECT IMPULSE is for single use only.
 Do not use any remaining CAVERJECT solution.

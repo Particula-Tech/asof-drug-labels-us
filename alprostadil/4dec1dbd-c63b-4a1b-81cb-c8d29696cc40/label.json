@@ -6,7 +6,9 @@
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0009-5181-01",
-    "0009-5182-01"
+    "0009-5181-10",
+    "0009-5182-01",
+    "0009-5182-11"
   ],
   "products": [
     {

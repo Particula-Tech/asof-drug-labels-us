@@ -12,7 +12,7 @@ If priapism is not treated immediately, penile tissue damage and permanent loss 
 ## General Precautions
 
 1. CAVERJECT IMPULSE is designed for one use only.
-   Following a single use, the injection device and any remaining solution should be properly discarded.
+   Following a single use, the injection delivery system and any remaining solution should be properly discarded.
 2. The overall incidence of penile fibrosis, including Peyronie's disease, reported in clinical studies with CAVERJECT Sterile Powder was 3%.
    In one self-injection clinical study where duration of use was up to 18 months, the incidence of fibrosis was 7.8%.
    Regular follow-up of patients, with careful examination of the penis, is strongly recommended to detect signs of penile fibrosis.
@@ -36,7 +36,7 @@ The desirable dose should be established in the physician's office.
 
 Any reconstituted solution with precipitates or discoloration should be discarded.
 The CAVERJECT IMPULSE syringe system is designed for one use only and should be discarded after use.
-The device and the needle must be properly discarded after use.
+The delivery system and the needle must be properly discarded after use.
 Needles must not be re-used or shared with other persons.
 Patient instructions for administration are included in each package of CAVERJECT IMPULSE.
 

@@ -74,3 +74,7 @@ CAVERJECT had no clinically important effect on serum or urine laboratory tests.
 The safety of CAVERJECT IMPULSE was evaluated in a study that compared the formulation of alprostadil for injection contained in CAVERJECT IMPULSE with the formulation contained in CAVERJECT Sterile Powder.
 The doses used by the 87 patients in this crossover study were the same for both formulations.
 The number and type of events reported for CAVERJECT IMPULSE were consistent between formulations in this study and in other controlled and uncontrolled studies with CAVERJECT Sterile Powder.
+
+## Post-Marketing Surveillance
+
+The following additional adverse reactions have been reported: device malfunction/failure, drug ineffective and drug effect decreased.

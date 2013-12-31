@@ -1,4 +1,6 @@
-# Patient Instructions For CAVERJECT IMPULSE® Dual Chamber System alprostadil for injection
+# Patient Instructions For:
+
+CaverJect Impulse® Dual Chamber System alprostadil for injection
 
 Read this information carefully before using CAVERJECT [KAV-er-jeckt].
 Read the information you get each time you renew your prescription, in case anything has changed.
@@ -74,7 +76,7 @@ Call your doctor if you notice any redness, lumps, swelling, tenderness, or curv
 Also, tell your doctor about any penis pain you did not have before or other penis problems you have.
 
 There is a possibility of needle breakage with use of CAVERJECT IMPULSE.
-To best avoid breaking the needle, you should pay careful attention to your doctor's instructions and try to handle the device properly.
+To best avoid breaking the needle, you should pay careful attention to your doctor's instructions and try to handle the syringe and needle properly.
 If the needle breaks during injection and you are able to see and grasp the broken end, you should remove it and contact your doctor.
 If you cannot see or cannot grasp the broken end, you should promptly contact your doctor.
 
@@ -97,72 +99,3 @@ Do not use CAVERJECT for a condition for which it was not prescribed.
 Do not share CAVERJECT with other people.
 
 You can get more information about impotence (erectile dysfunction) and its treatment from the National Institutes of Health (Washington, DC), the American Foundation for Urological Diseases (Baltimore, MD), or the Impotence Institute of America (Washington, DC).
-
-INSTRUCTIONS FOR USE
-
-Before you use CAVERJECT, your doctor must train you in how to prepare and give the injection properly.
-
-Before using CAVERJECT, talk to your doctor about what to expect when using it, possible side effects, and what to do if side effects occur.
-Your dose has been selected for your individual needs.
-Do not change your dose without consulting your doctor.
-If you are not sure of the volume or dose to be used, talk to your doctor or pharmacist.
-
-Follow these instructions exactly to prepare and inject a sterile (germ-free) dose of CAVERJECT.
-
-Supplies Needed
-
-CAVERJECT IMPULSE is packaged with a needle for injection (Figure A) and alcohol swab.
-
-CAVERJECT IMPULSE is available in 10 and 20 mcg strengths.
-MAKE SURE YOU HAVE THE RIGHT STRENGTH OF CAVERJECT IMPULSE.
-
-Prepare the Dose
-
-1. Wash your hands thoroughly and dry them with a clean towel.
-2. Remove the device, needle, and alcohol swabs from the blistered tray.
-3. Using one of the alcohol swabs, clean the rubber membrane at the tip of the syringe (Figure B).
-4. Peel the paper lid from the needle (Figure C).
-5. Attach the needle to the device by pressing the needle on to the tip of the device and turning clockwise until the needle is firmly in place.
-   Remove the outer protective cap from the needle (Figure D).
-6. Hold the device with the needle pointing upward.
-   The white plunger rod is in the extended position (Figure E).
-7. Turn the plunger rod slowly clockwise until it stops.
-   This automatically mixes the alprostadil powder and the diluent.
-   Turn the device upside down several times to make sure the solution is evenly mixed.
-   The solution should be clear.
-   Do not use it if it is cloudy or contains particles (Figure F).
-8. Hold the device with the needle upward and carefully remove the inner protective cap from the needle (Figure G).
-9. Keeping the device upright, press the plunger rod as far as it will go.
-   A few drops will appear at the needlepoint and the solution will be free of bubbles although typically there may be some very small bubbles at the side of the glass cartridge (Figure H).
-10. Turn the end of the plunger rod clockwise slowly to choose the dose your physician has determined is appropriate for you.
-    The number that appears in the window shows the dose in micrograms.
-    If the number is higher than your prescribed dose, continue to turn the plunger rod clockwise slowly until you reach the correct dose (Figure I).
-11. Set the device down on a level surface making sure the needle is not in contact with the surface.
-
-Select Injection Site
-
-1. CAVERJECT IMPULSE will be injected into a corpus cavernosum (spongy tissue) of the penis.
-   One corpus cavernosum runs the length of the right side of the penis.
-   Another corpus cavernosum runs the length of the left side of the penis (see Figures J and K).
-2. Choose an injection site on one side of the shaft of the penis as shown in Figure J. Avoid visible veins.
-3. With each use of CAVERJECT, alternate the side of the penis and vary the site of injection.
-
-Inject Your Dose of CAVERJECT
-
-1. You should be sitting upright or slightly reclined when injecting CAVERJECT.
-2. Holding the head of your penis with your thumb and forefinger, stretch your penis lengthwise along your thigh so that the skin is tight and you can clearly see the selected injection site.
-3. Clean the injection site with a new alcohol swab.
-   Do not discard this swab, you will need to use it again (see step 6).
-4. Reposition the penis firmly against your thigh as in step 2 to keep it from moving during the injection.
-5. Holding the device between your thumb and index finger, push the needle into the selected site through the skin and into the tissue as far as it will go.
-   Push the plunger rod as far as it will go so the entire dose is injected (Figure L). If the injection solution does not flow easily, move the needle slightly and push as before.
-   When using a dose less than the full capacity, a small amount of liquid will remain in the device.
-6. Grasp the device and pull the needle out of your penis.
-   Push on the injection site with the alcohol swab for about 5 minutes or until any bleeding stops.
-7. Carefully replace the outer protective cap on the needle.
-
-Disposal of Injection Materials
-
-After use, dispose of all injection materials safely.
-Your pharmacist may be able to supply a disposal box especially for disposable injection devices.
-As with all prescription medicines, do not allow anyone else to use your medicine.
