@@ -99,16 +99,18 @@ How should I take SUBOXONE sublingual film?
 
 - Each SUBOXONE sublingual film comes in a sealed child-resistant foil pouch.
   Wait to open SUBOXONE until right before you use it.
-- To open your SUBOXONE sublingual film foil pouch, fold along the dotted line and tear down at slit (see Figure 1) or cut with scissors along the arrow.
+- To open your SUBOXONE sublingual film foil pouch, fold along the dotted line and tear down at slit (see Figure 1) or cut with scissors along the arrow.Figure 1
 
 - Before taking SUBOXONE, drink water to moisten your mouth.
   This helps the film dissolve more easily.
 - Hold the film between two fingers by the outside edges.
 - Place SUBOXONE sublingual film under your tongue, close to the base either to the left or right of the center (see Figure 2).
+  Figure 2
   - If your doctor tells you to take 2 films at a time, place the second film under your tongue on the opposite side.
     Try to avoid having the films touch as much as possible.
   - Keep the films in place until they have completely dissolved.
   - If you are directed to take a third film, place it under your tongue on either side after the first 2 films have dissolved.
+
 - While SUBOXONE is dissolving, do not chew or swallow the film because the medicine will not work as well.
 - Talking while the film is dissolving can affect how well the medicine in SUBOXONE is absorbed.
 - If you miss a dose of SUBOXONE, take your medicine when you remember.
@@ -210,8 +212,4 @@ August 2012
 
 SUBOXONE® is a registered trademark of Reckitt Benckiser Healthcare (UK) Ltd.
 
-Copyright © 2010 Reckitt Benckiser Pharmaceuticals Inc.
-
-Printed in USA
-
-1-1202-020-US-0812
+Copyright © 2013 Reckitt Benckiser Pharmaceuticals Inc Printed in USA 1-1202-020-US-0812

@@ -34,13 +34,16 @@ Instruct patients to read the Medication Guide each time Suboxone is dispensed b
   [see Drug Interactions (7.1, 7.2 and 7.3)]
 - Women of childbearing potential who become pregnant or are planning to become pregnant, should be advised to consult their physician regarding the possible effects of using SUBOXONE sublingual film during pregnancy.
   [see Use in Specific Populations (8.1)]
-- Patients should be warned that buprenorphine passes into breast milk.
-  Breast-feeding is not advised in mothers treated with buprenorphine products.
-  [see Use in Specific Populations (8.3)].
+- Advise women who are breastfeeding to monitor the infant for drowsiness and difficulty breathing [see Use in Specific Populations (8.3)].
 - Patients should inform their family members that, in the event of emergency, the treating physician or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with SUBOXONE sublingual film.
 - Refer to the Medication Guide for additional information regarding the counseling information.
 
-1-1202-019-US-0212
+## 17.2 Disposal of Unused SUBOXONE Sublingual Films
+
+Unused SUBOXONE sublingual films should be disposed of as soon as they are no longer needed.
+Unused films should be flushed down the toilet.
+
+Revised: November 2013
 
 Manufactured for Reckitt Benckiser Pharmaceuticals Inc., Richmond, VA 23235 by: MonoSol Rx, LLC, Warren, NJ 07059
 
