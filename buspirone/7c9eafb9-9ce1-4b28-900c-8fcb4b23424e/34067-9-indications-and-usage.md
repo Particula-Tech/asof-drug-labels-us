@@ -10,10 +10,10 @@ Generalized Anxiety Disorder (300.02) is described in the American Psychiatric A
 
 Generalized, persistent anxiety (of at least 1 month continual duration), manifested by symptoms from three of the four following categories:
 
-1. 1.Motor tension: shakiness, jitteriness, jumpiness, trembling, tension, muscle aches, fatigability, inability to relax, eyelid twitch, furrowed brow, strained face, fidgeting, restlessness, easy startle.
-2. 2.Autonomic hyperactivity: sweating, heart pounding or racing, cold, clammy hands, dry mouth, dizziness, lightheadedness, paresthesias (tingling in hands or feet), upset stomach, hot or cold spells, frequent urination, diarrhea, discomfort in the pit of the stomach, lump in the throat, flushing, pallor, high resting pulse and respiration rate.
-3. 3.Apprehensive expectation: anxiety, worry, fear, rumination, and anticipation of misfortune to self or others.
-4. 4.Vigilance and scanning: hyperattentiveness resulting in distractibility, difficulty in concentrating, insomnia, feeling “on edge,” irritability, impatience.
+- 1.Motor tension: shakiness, jitteriness, jumpiness, trembling, tension, muscle aches, fatigability, inability to relax, eyelid twitch, furrowed brow, strained face, fidgeting, restlessness, easy startle.
+- 2.Autonomic hyperactivity: sweating, heart pounding or racing, cold, clammy hands, dry mouth, dizziness, lightheadedness, paresthesias (tingling in hands or feet), upset stomach, hot or cold spells, frequent urination, diarrhea, discomfort in the pit of the stomach, lump in the throat, flushing, pallor, high resting pulse and respiration rate.
+- 3.Apprehensive expectation: anxiety, worry, fear, rumination, and anticipation of misfortune to self or others.
+- 4.Vigilance and scanning: hyperattentiveness resulting in distractibility, difficulty in concentrating, insomnia, feeling “on edge,” irritability, impatience.
 
 The above symptoms would not be due to another mental disorder, such as a depressive disorder or schizophrenia.
 However, mild depressive symptoms are common in GAD.
