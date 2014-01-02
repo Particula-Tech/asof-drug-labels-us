@@ -2,7 +2,7 @@
 
 ## 14.2 Chronic Idiopathic Urticaria
 
-### Adult Patients 18 Years of Age and Older
+Adult Patients 18 Years of Age and Older
 
 The efficacy of levocetirizine dihydrochloride for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria was evaluated in two multi-center, randomized, placebo-controlled, double-blind clinical trials of 4 weeks duration in adult patients 18 to 85 years of age with chronic idiopathic urticaria.
 The two trials included one 4-week dose- ranging trial and one 4-week single-dose level efficacy trial.
@@ -24,18 +24,18 @@ The significant improvement in the instantaneous pruritus severity score over pl
 
 Table 6: Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria Trials
 
-| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | Estimate | 95% CI | p-value |
-| Dose-Ranging Trial-Reflective Pruritus Severity Score |  |  |  |  |  |  |
-| Levocetirizine dihydrochloride 2.5 mg | 69 | 2.08 | 1.02 | 0.82 | (0.58, 1.06) | < 0.001 |
-| Levocetirizine dihydrochloride 5 mg | 62 | 2.07 | 0.92 | 0.91 | (0.66, 1.16) | < 0.001 |
-| Levocetirizine dihydrochloride 10 mg | 55 | 2.04 | 0.73 | 1.11 | (0.85, 1.37) | < 0.001 |
-| Placebo | 60 | 2.25 | 1.84 |  |  |  |
-| Chronic Idiopathic Urticaria Trial-Reflective Pruritus Severity Score |  |  |  |  |  |  |
-| Levocetirizine dihydrochloride 5 mg | 80 | 2.07 | 0.94 | 0.62 | (0.38, 0.86) | < 0.001 |
-| Placebo | 82 | 2.06 | 1.56 |  |  |  |
+| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Estimate |  | 95% CI | p-value |  |  |  |  |
+| Dose-Ranging Trial - Reflective pruritus severity score |  |  |  |  |  |  |  |
+| Levocetirizine dihydrochloride 2.5 mg | 69 | 2.08 | 1.02 |  | 0.82 | (0.58, 1.06) | < 0.001 |
+| Levocetirizine dihydrochloride 5 mg | 62 | 2.07 | 0.92 |  | 0.91 | (0.66, 1.16) | < 0.001 |
+| Levocetirizine dihydrochloride 10 mg | 55 | 2.04 | 0.73 |  | 1.11 | (0.85, 1.37) | < 0.001 |
+| Placebo | 60 | 2.25 | 1.84 |  |  |  |  |
+| Chronic Idiopathic Urticaria Trial - Reflective pruritus severity score |  |  |  |  |  |  |  |
+| Levocetirizine dihydrochloride 5 mg | 80 | 2.07 | 0.94 |  | 0.62 | (0.38, 0.86) | < 0.001 |
+| Placebo | 82 | 2.06 | 1.56 |  |  |  |  |
 
-### Pediatric Patients
+Pediatric Patients
 
-There are no clinical efficacy trials in pediatric patients with chronic idiopathic urticaria [see Use in Specific Populations (8.4)].
+There are no clinical efficacy trials in pediatric patients with chronic idiopathic urticaria [see Use in Specific Populations (8.4)]

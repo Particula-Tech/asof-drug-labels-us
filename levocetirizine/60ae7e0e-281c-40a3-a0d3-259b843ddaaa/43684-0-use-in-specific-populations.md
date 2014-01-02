@@ -2,12 +2,10 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category B
-
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, levocetirizine dihydrochloride should be used during pregnancy only if clearly needed.
 
-### Teratogenic Effects
+Teratogenic Effects:
 
 In rats and rabbits, levocetirizine was not teratogenic at oral doses approximately 320 and 390, respectively, times the maximum recommended daily oral dose in adults on a mg/m2 basis.
 
@@ -21,21 +19,23 @@ Because levocetirizine is also expected to be excreted in human milk, use of lev
 
 ## 8.4 Pediatric Use
 
-The recommended dose of levocetirizine dihydrochloride for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria in patients 12 to 17 years of age is based on extrapolation of efficacy from adults 18 years of age and older [see Clinical Studies (14)].
+The recommended dose of levocetirizine dihydrochloride for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria in patients 6 months to 17 years of age is based on extrapolation of efficacy from adults 18 years of age and older [see Clinical Studies (14)].
 
-The recommended dose of levocetirizine dihydrochloride in patients 6 to 11 years of age for the treatment of the symptoms of chronic idiopathic urticaria is based on cross-study comparisons of the systemic exposure of levocetirizine dihydrochloride in adults and pediatric patients and on the safety profile of levocetirizine dihydrochloride in both adult and pediatric patients at doses equal to or higher than the recommended dose for patients 6 to 11 years of age.
+The recommended dose of levocetirizine dihydrochloride in patients 6 months to 11 years of age for the treatment of the symptoms of chronic idiopathic urticaria is based on cross-study comparisons of the systemic exposure of levocetirizine dihydrochloride in adults and pediatric patients and on the safety profile of levocetirizine dihydrochloride in both adult and pediatric patients at doses equal to or higher than the recommended dose for patients 6 months to 11 years of age.
 
-The safety of levocetirizine dihydrochloride 5 mg once daily was evaluated in 243 pediatric patients 6 to 12 years of age in two placebo-controlled clinical trials lasting 4 and 6 weeks [see Adverse Reactions (6.1)].
+The safety of levocetirizine dihydrochloride 5 mg once daily was evaluated in 243 pediatric patients 6 to 12 years of age in two placebo-controlled clinical trials lasting 4 and 6 weeks.
+The safety of levocetirizine dihydrochloride 1.25 mg twice daily was evaluated in one 2-week clinical trial in 114 pediatric patients 1 to 5 years of age and the safety of levocetirizine dihydrochloride 1.25 mg once daily was evaluated in one 2-week clinical trial in 45 pediatric patients 6 to 11 months of age [see Adverse Reactions (6.1)].
 
-The effectiveness of levocetirizine dihydrochloride 2.5 mg once daily (6 to 11 years of age) for the treatment of the symptoms of chronic idiopathic urticaria is supported by the extrapolation of demonstrated efficacy of levocetirizine dihydrochloride 5 mg once daily in patients 12 years of age and older based on the pharmacokinetic comparison between adults and children.
+The effectiveness of levocetirizine dihydrochloride 1.25 mg once daily (6 months to 5 years of age) and 2.5 mg once daily (6 to 11 years of age) for the treatment of the symptoms of chronic idiopathic urticaria is supported by the extrapolation of demonstrated efficacy of levocetirizine dihydrochloride 5 mg once daily in patients 12 years of age and older based on the pharmacokinetic comparison between adults and children.
 
 Cross-study comparisons indicate that administration of a 5 mg dose of levocetirizine dihydrochloride to 6 to 12 year old pediatric patients resulted in about 2-fold the systemic exposure (AUC) observed when 5 mg of levocetirizine dihydrochloride was administered to healthy adults.
-Therefore, in children 6 to 11 years of age the recommended dose of 2.5 mg once daily should not be exceeded [see Dosage and Administration (2.2); Clinical Studies (14); and Clinical Pharmacology (12.3)].
-
-Pediatric use information in pediatric patients (age 6 months to 5 years) is approved for UCB Inc.'s levocetirizine dihydrochloride drug product labeling.
-However, due to UCB Inc.'s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
+Therefore, in children 6 to 11 years of age the recommended dose of 2.5 mg once daily should not be exceeded.
+In a population pharmacokinetics study the administration
 
 ## 8.5 Geriatric Use
+
+of 1.25 mg once daily in children 6 months to 5 years of age resulted in systemic exposure comparable to 5 mg once daily in adults.
+[see Dosage and Administration (2.2); Clinical Studies (14); and Clinical Pharmacology (12.3)].
 
 Clinical studies of levocetirizine dihydrochloride for each approved indication did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently than younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
