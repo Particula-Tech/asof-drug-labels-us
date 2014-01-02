@@ -145,12 +145,9 @@ Table 4: Incidence (%) of Patients With Lipid Abnormalities of Potential Clinica
 |  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | --- | --- | --- | --- | --- | --- |
 |  |  | PRISTIQ |  |  |  |
-| Total Cholesterol | 2 | 3 | 4 | 4 | 10 |
-| *(Increase of ≥ 50 mg/dl and an absolute value of ≥ 261 mg/dl) |  |  |  |  |  |
-| LDL Cholesterol | 0 | 1 | 0 | 1 | 2 |
-| *(Increase ≥ 50 mg/dl and an absolute value of ≥ 190 mg/dl) |  |  |  |  |  |
-| Triglycerides, fasting | 3 | 2 | 1 | 4 | 6 |
-| *(Fasting: ≥ 327 mg/dl) |  |  |  |  |  |
+| Total Cholesterol *(Increase of ≥ 50 mg/dl and an absolute value of ≥ 261 mg/dl) | 2 | 3 | 4 | 4 | 10 |
+| LDL Cholesterol *(Increase ≥ 50 mg/dl and an absolute value of ≥ 190 mg/dl) | 0 | 1 | 0 | 1 | 2 |
+| Triglycerides, fasting *(Fasting: ≥ 327 mg/dl) | 3 | 2 | 1 | 4 | 6 |
 
 Proteinuria
 

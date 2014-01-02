@@ -52,13 +52,17 @@ For elderly patients, possible reduced renal clearance of PRISTIQ should be cons
 
 SSRIs and SNRIs, including PRISTIQ, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.9)].
 
-## 8.6 Renal Impairment
+## 8.6 Other Patient Factors
+
+The effect of intrinsic patient factors on the pharmacokinetics of PRISTIQ is presented in Figure 3.
+
+Renal Impairment:
 
 In subjects with renal impairment the clearance of PRISTIQ was decreased.
 In subjects with severe renal impairment (24-hr CrCl <30 mL/min, Cockcroft-Gault) and end-stage renal disease, elimination half-lives were significantly prolonged, increasing exposures to PRISTIQ; therefore, dosage adjustment is recommended in these patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-## 8.7 Hepatic Impairment
+Hepatic Impairment:
 
-The mean terminal half life (t1/2) changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
+The mean terminal half-life (t1/2) changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
 The recommended dose in patients with moderate to severe hepatic impairment is 50 mg/day.
 Dose escalation above 100 mg/day is not recommended [see Clinical Pharmacology (12.3)].

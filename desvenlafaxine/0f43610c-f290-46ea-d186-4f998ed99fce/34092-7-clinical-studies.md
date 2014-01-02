@@ -14,13 +14,13 @@ Table 8: Primary Efficacy (HAM-D17) Results for Short-term Studies
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | PRISTIQ |  |  |  |
 | 1 | Baseline Score (SDStandard deviation;) | 23.1 (2.5) |  | 23.2 (2.5) | 22.9 (2.4) | 23.0 (2.2) |
-|  | Difference from Placebo (95% CI Difference between least squares means at final evaluation, calculated as drug response minus placebo response; unadjusted 95% confidence intervals) |  |  | -2.9Adjusted p-value < 0.05; (-5.1, -0.8) | -2.0 | -3.1 (-5.2, -0.9) |
+| Difference from Placebo (95% CI Difference between least squares means at final evaluation, calculated as drug response minus placebo response; unadjusted 95% confidence intervals) |  |  | -2.9Adjusted p-value < 0.05; (-5.1, -0.8) | -2.0 | -3.1 (-5.2, -0.9) |  |
 | 2 | Baseline Score (SD) | 25.3 (3.3) |  |  | 24.8 (2.9) | 25.2 (3.2) |
-|  | Difference from Placebo (95% CI) |  |  |  | -3.3 (-5.3, -1.2) | -2.8 (-4.8, -0.7) |
+| Difference from Placebo (95% CI) |  |  |  | -3.3 (-5.3, -1.2) | -2.8 (-4.8, -0.7) |  |
 | 3 | Baseline Score (SD) | 23.0 (2.6) | 23.4 (2.6) | 23.4 (2.6) |  |  |
-|  | Difference from Placebo (95% CI) |  | -1.9 (-3.5, -0.3) | -1.5 |  |  |
+| Difference from Placebo (95% CI) |  | -1.9 (-3.5, -0.3) | -1.5 |  |  |  |
 | 4 | Baseline Score (SD) | 24.3 (2.6) | 24.3 (2.4) | 24.4 (2.7) |  |  |
-|  | Difference from Placebo (95% CI) |  | -2.5 (-4.1, -0.9) | -3.0 (-4.7, -1.4) |  |  |
+| Difference from Placebo (95% CI) |  | -2.5 (-4.1, -0.9) | -3.0 (-4.7, -1.4) |  |  |  |
 
 Analyses of the relationships between treatment outcome and age and treatment outcome and gender did not suggest any differential responsiveness on the basis of these patient characteristics.
 There was insufficient information to determine the effect of race on outcome in these studies.
@@ -31,7 +31,7 @@ Relapse during the double-blind phase was defined as follows: (1) a HAM-D17 tota
 Patients receiving continued desvenlafaxine treatment experienced statistically significantly longer time to relapse compared with placebo.
 At 26 weeks, the Kaplan-Meier estimated proportion of relapse was 14% with desvenlafaxine treatment versus 30% with placebo.
 
-| Figure 1. Estimated Proportion of Relapses vs. Number of Days since Randomization (Study 5) |
+| Figure 4. Estimated Proportion of Relapses vs. Number of Days since Randomization (Study 5) |
 | --- |
 
 In another longer-term trial (Study 6), adult outpatients meeting DSM-IV criteria for major depressive disorder and who responded to 12 weeks of acute treatment with desvenlafaxine were assigned randomly to the same dose (200 or 400 mg/day) they had received during acute treatment or to placebo for up to 26 weeks of observation for relapse.
@@ -40,5 +40,5 @@ Relapse during the double-blind phase was defined as follows: (1) a HAM-D17 tota
 Patients receiving continued desvenlafaxine treatment experienced statistically significantly longer time to relapse over the subsequent 26 weeks compared with those receiving placebo.
 At 26 weeks, the Kaplan-Meier estimated proportion of relapse was 29% with desvenlafaxine treatment versus 49% with placebo.
 
-| Figure 2. Estimated Proportion of Relapses vs. Number of Days since Randomization (Study 6) |
+| Figure 5. Estimated Proportion of Relapses vs. Number of Days since Randomization (Study 6) |
 | --- |

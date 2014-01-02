@@ -22,7 +22,7 @@ Caution patients about the risk of serotonin syndrome, particularly with the con
 
 Elevated Blood Pressure
 
-Advice patients that they should have regular monitoring of blood pressure when taking PRISTIQ [see Warnings and Precautions (5.3)].
+Advise patients that they should have regular monitoring of blood pressure when taking PRISTIQ [see Warnings and Precautions (5.3)].
 
 Abnormal Bleeding
 
@@ -52,7 +52,7 @@ Caution patients about operating hazardous machinery, including automobiles, unt
 
 Alcohol
 
-Advise patients to avoid alcohol while taking PRISTIQ [see Drug Interactions (7.6)].
+Advise patients to avoid alcohol while taking PRISTIQ [see Drug Interactions (7.7)].
 
 Allergic Reactions
 

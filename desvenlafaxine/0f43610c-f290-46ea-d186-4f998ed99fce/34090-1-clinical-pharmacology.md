@@ -19,7 +19,7 @@ No difference was observed between placebo and desvenlafaxine treatments for the
 
 ## 12.3 Pharmacokinetics
 
-The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 100 to 600 mg/day.
+The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 50 to 600 mg/day.
 With once-daily dosing, steady-state plasma concentrations are achieved within approximately 4 to 5 days.
 At steady-state, multiple-dose accumulation of desvenlafaxine is linear and predictable from the single-dose pharmacokinetic profile.
 
@@ -59,7 +59,7 @@ In vitro studies showed minimal inhibitory effect of desvenlafaxine on CYP2D6.
 Clinical studies have shown that desvenlafaxine does not have a clinically relevant effect on CYP2D6 metabolism at the dose of 100 mg daily.
 When desvenlafaxine succinate was administered at a dose of 100 mg daily in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the Cmax and AUC of desipramine increased approximately 25% and 17%, respectively.
 When 400 mg (8 times the recommended 50 mg dose) was administered, the Cmax and AUC of desipramine increased approximately 50% and 90%, respectively.
-Concomitant use of desvenlafaxine with a drug metabolized by CYP2D6 can result in higher concentrations of that drug [see Drug Interactions (7.4)].
+Concomitant use of desvenlafaxine with a drug metabolized by CYP2D6 can result in higher concentrations of that drug [see Drug Interactions (7.5)].
 
 Drugs metabolized by CYP3A4 (midazolam)
 
@@ -104,7 +104,7 @@ CL/F values were comparable in mild hepatic impairment and healthy subjects (< 5
 
 The mean t1/2 changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
 The recommended dose in patients with hepatic impairment is 50 mg/day.
-Dose escalation above 100 mg/day is not recommended [see Use in Specific Populations (8.7)].
+Dose escalation above 100 mg/day is not recommended [see Use in Specific Populations (8.6)].
 
 Renal insufficiency
 

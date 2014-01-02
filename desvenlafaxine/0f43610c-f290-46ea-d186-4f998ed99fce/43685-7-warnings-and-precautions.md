@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
+## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents and Young Adults
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
