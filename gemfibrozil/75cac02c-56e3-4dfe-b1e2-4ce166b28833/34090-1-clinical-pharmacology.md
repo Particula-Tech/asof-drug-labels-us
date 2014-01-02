@@ -87,8 +87,8 @@ Gemfibrozil pharmacokinetics are affected by the timing of meals relative to tim
 In one study, both the rate and extent of absorption of the drug were significantly increased when administered 0.5 hour before meals.
 Average AUC was reduced by 14 to 44% when gemfibrozil was administered after meals compared to 0.5 hour before meals.
 In a subsequent study, rate of absorption of gemfibrozil was maximum when administered 0.5 hour before meals with the Cmax 50 to 60% greater than when given either with meals or fasting.
-In this study, there were no significant effects on AUC of timing of dose relative to meals (see DOSAGE AND ADMINISTRATION ).
+In this study, there were no significant effects on AUC of timing of dose relative to meals (see DOSAGE AND ADMINISTRATION).
 Gemfibrozil mainly undergoes oxidation of a ring methyl group to successively form a hydroxymethyl and a carboxyl metabolite.
 Approximately seventy percent of the administered human dose is excreted in the urine, mostly as the glucuronide conjugate, with less than 2% excreted as unchanged gemfibrozil.
 Six percent of the dose is accounted for in the feces.
-Gemfibrozil is highly bound to plasma proteins and there is potential for displacement interactions with other drugs (see PRECAUTIONS ).
+Gemfibrozil is highly bound to plasma proteins and there is potential for displacement interactions with other drugs (see PRECAUTIONS).

@@ -44,10 +44,11 @@ The dosage of the anticoagulant should be reduced to maintain the prothrombin ti
 Frequent prothrombin determinations are advisable until it has been definitely determined that the prothrombin level has stabilized.
 
 5.
+The concomitant administration of gemfibrozil with simvastatin is contraindicated (see CONTRAINDICATIONS and PRECAUTIONS).
 Concomitant therapy with gemfibrozil and an HMG-CoA reductase inhibitor is associated with an increased risk of skeletal muscle toxicity manifested as rhabdomyolysis, markedly elevated creatine kinase (CPK) levels, and myoglobinuria, leading in a high proportion of cases to acute renal failure and death.
 IN PATIENTS WHO HAVE HAD AN UNSATISFACTORY LIPID RESPONSE TO EITHER DRUG ALONE, THE BENEFIT OF COMBINED THERAPY WITH GEMFIBROZIL AND an HMG-CoA REDUCTASE INHIBITORS DOES NOT OUTWEIGH THE RISKS OF SEVERE MYOPATHY, RHABDOMYOLYSIS, AND ACUTE RENAL FAILURE (see PRECAUTIONS, Drug Interactions).
 The use of fibrates alone, including gemfibrozil, may occasionally be associated with myositis.
-Patients receiving gemfibrozil and complaining of muscle pain, tenderness, or weakness should have prompt medical evaluation for myositis, including serum creatine-kinease level determination.
+Patients receiving gemfibrozil and complaining of muscle pain, tenderness, or weakness should have prompt medical evaluation for myositis, including serum creatine-kinase level determination.
 If myositis is suspected or diagnosed, gemfibrozil therapy should be withdrawn.
 
 6.
@@ -68,6 +69,7 @@ Periodic determination of serum lipids should be obtained, and the drug withdraw
 
 ### (A) HMG-CoA reductase inhibitors:
 
+The concomitant administration of gemfibrozil with simvastatin is contraindicated (see CONTRAINDICATIONS and WARNINGS).
 The risk of myopathy and rhabdomyolysis is increased with combined gemfibrozil and HMG-CoA reductase inhibitor therapy.
 Myopathy or rhabdomyolysis with or without acute renal failure have been reported as early as three weeks after initiation of combined therapy or after several months (See WARNINGS).
 There is no assurance that periodic monitoring of creatine kinase will prevent the occurrence of severe myopathy and kidney damage.
@@ -88,6 +90,13 @@ Co-administration of gemfibrozil and repaglinide increases the risk of severe hy
 ### (D) Bile Acid-Binding Resins:
 
 Gemfibrozil AUC was reduced by 30% when gemfibrozil was given (600 mg) simultaneously with resin-granule drugs such as colestipol (5 g). Administration of the drugs two hours or more apart is recommended because gemfibrozil exposure was not significantly affected when it was administered two hours apart from colestipol.
+
+### (E) Colchicine
+
+Myopathy, including rhabdomyolysis, has been reported with chronic administration of colchicine at therapeutic doses.
+Concomitant use of gemfibrozil may potentiate the development of myopathy.
+Patients with renal dysfunction and elderly patients are at increased risk.
+Caution should be excercised when prescribing gemfibrozil with colchicine, especially in elderly patients or patients with renal dysfunction.
 
 ## 4. Carcinogenesis, Mutagenesis, Impairment of Fertility
 
