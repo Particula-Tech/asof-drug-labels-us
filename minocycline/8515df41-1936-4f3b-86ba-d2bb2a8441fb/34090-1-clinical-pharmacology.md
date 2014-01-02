@@ -1,5 +1,9 @@
 # CLINICAL PHARMACOLOGY
 
+## Mechanism of Action
+
+The mechanism of action of Arestin as an adjunct to scaling and root planing procedures for reduction of pocket depth in patients with adult periodontitis is unknown.
+
 ## Microbiology
 
 Minocycline, a member of the tetracycline class of antibiotics, has a broad spectrum of activity.1 It is bacteriostatic and exerts its antimicrobial activity by inhibiting protein synthesis.1 In vitro susceptibility testing has shown that the organisms Porphyromonas gingivalis, Prevotella intermedia, Fusobacterium nucleatum, Eikenella corrodens, and Actinobacillus actinomycetemcomitans, which are associated with periodontal disease, are susceptible to minocycline at concentrations of ≤8 μg/mL2; qualitative and quantitative changes in plaque microorganisms have not been demonstrated in patients with periodontitis, using this product.
@@ -82,6 +86,7 @@ Table 3: Mean Pocket Depth Changes (SE) in Subpopulations, Studies 103A and 103B
 
 In both studies, the following patient subgroups were prospectively analyzed: smokers, patients over and under 50 years of age, and patients with a previous history of cardiovascular disease.
 The results of the combined studies are presented in Table 3.
+
 In smokers, the mean reduction in pocket depth at 9 months was less in all treatment groups than in nonsmokers, but the reduction in mean pocket depth at 9 months with SRP + ARESTIN® was significantly greater than with SRP + vehicle or SRP alone.
 
 Table 4: Mean Pocket Depth Change in Patients With Mean Baseline PD ≥5 mm, ≥6 mm, and ≥7 mm at 9 Months From 2 Multicenter US Clinical Trials

@@ -12,8 +12,8 @@ Avoid exposure to excessive heat
 
 Rx only
 
-To order: Call 1-866-ARESTIN (273-7846) or visit our Web site at www.ARESTIN.com
+To order: Call 1-866-ARESTIN (273-7846) or visit our Web site at www.ArestinProfessional.com
+
+oraPHARMA
 
 2 resealable foil pouches 12 cartridges per pouch 1 mg of minocycline per cartridge
-
-oraPHARMA, INC.
