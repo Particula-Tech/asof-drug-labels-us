@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA203496"
+  ],
+  "inn": "treprostinil",
+  "labeler": "United Therapeutics Corp.",
+  "package_ndcs": [
+    "66302-300-01",
+    "66302-302-01",
+    "66302-310-01",
+    "66302-325-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "treprostinil",
+      "name": "Orenitram"
+    }
+  ],
+  "setid": "8ed2003a-c801-411e-831e-d06079bb0d7c",
+  "source": "dailymed"
+}
