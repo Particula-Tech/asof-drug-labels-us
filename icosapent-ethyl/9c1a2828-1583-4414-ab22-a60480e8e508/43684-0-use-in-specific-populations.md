@@ -20,8 +20,8 @@ In pregnant rats given ethyl-EPA from gestation day 17 through lactation day 20 
 ## 8.3 Nursing Mothers
 
 Studies with omega-3-acid ethyl esters have demonstrated excretion in human milk.
-The effect of this excretion is unknown; caution should be exercised when VASCEPA is administered to a nursing mother.
-In lactating rats, given oral gavage 14C-ethyl EPA, drug levels were 6 to 14 times higher in milk than in plasma.
+The effect of this excretion on the infant of a nursing mother is unknown; caution should be exercised when VASCEPA is administered to a nursing mother.
+An animal study in lactating rats given oral gavage 14C-ethyl EPA demonstrated that drug levels were 6 to 14 times higher in milk than in plasma.
 
 ## 8.4 Pediatric Use
 

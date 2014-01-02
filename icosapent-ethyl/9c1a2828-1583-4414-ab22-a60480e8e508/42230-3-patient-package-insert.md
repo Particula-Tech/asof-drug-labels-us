@@ -100,7 +100,7 @@ Inactive Ingredients: tocopherol, gelatin, glycerin, maltitol, sorbitol, and pur
 
 This patient information has been approved by the U.S. Food and Drug Administration.
 
-VASCEPA is a trademark of Amarin Pharmaceuticals Ireland Ltd. ©2012 Amarin Pharmaceuticals Ireland Ltd. PP00120E 03/2013
+VASCEPA is a trademark of Amarin Pharmaceuticals Ireland Ltd. ©2012 Amarin Pharmaceuticals Ireland Ltd. PP00120F 11/2013
 
 Distributed by: Amarin Pharma Inc. Bedminster, NJ, USA
 

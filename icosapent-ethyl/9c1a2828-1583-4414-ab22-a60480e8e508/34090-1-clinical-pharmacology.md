@@ -30,7 +30,7 @@ VASCEPA was studied at the 4 g/day dose level with the following medications whi
 
 Omeprazole: In a drug-drug interaction study with 28 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the steady-state AUCτ or Cmax of omeprazole when co-administered at 40 mg/day to steady-state.
 
-Rosiglitazone: In a drug-drug interaction study with 28 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the single dose AUC or Cmax of rosiglitazone at 4 mg.
+Rosiglitazone: In a drug-drug interaction study with 28 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the single dose AUC or Cmax of rosiglitazone at 8 mg.
 
 Warfarin: In a drug-drug interaction study with 25 healthy adult subjects, VASCEPA 4 g/day at steady-state did not significantly change the single dose AUC or Cmax of R- and S-warfarin or the anti-coagulation pharmacodynamics of warfarin when co-administered as racemic warfarin at 25 mg.
 
