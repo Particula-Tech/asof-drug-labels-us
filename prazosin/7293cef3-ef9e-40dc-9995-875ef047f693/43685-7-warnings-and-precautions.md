@@ -50,7 +50,7 @@ Concomitant administration of prazosin hydrochloride with a phosphodiesterase-5 
 
 In a study on five patients given from 12 to 24 mg of prazosin per day for 10 to 14 days, there was an average increase of 42% in the urinary metabolite of norepinephrine and an average increase in urinary VMA of 17%.
 Therefore, false positive results may occur in screening tests for pheochromocytoma in patients who are being treated with prazosin.
-If an elevated VMA is found, prazosin hydrochloride should be discontinued and the patient retested after a month.
+If an elevated VMA is found, prazosin should be discontinued and the patient retested after a month.
 
 ## Laboratory Tests
 
@@ -58,11 +58,11 @@ In clinical studies in which lipid profiles were followed, there were generally 
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No carcinogenic potential was demonstrated in an 18 month study in rats with prazosin at dose levels more than 225 times the usual maximum recommended human dose of 20 mg per day.
+No carcinogenic potential was demonstrated in an 18 month study in rats with prazosin hydrochloride at dose levels more than 225 times the usual maximum recommended human dose of 20 mg per day.
 Prazosin hydrochloride was not mutagenic in in vivo genetic toxicology studies.
 In a fertility and general reproductive performance study in rats, both males and females, treated with 75 mg/kg (225 times the usual maximum recommended human dose), demonstrated decreased fertility, while those treated with 25 mg/kg (75 times the usual maximum recommended human dose) did not.
 
-In chronic studies (one year or more) of prazosin in rats and dogs, testicular changes consisting of atrophy and necrosis occurred at 25 mg/kg/day (75 times the usual maximum recommended human dose).
+In chronic studies (one year or more) of prazosin hydrochloride in rats and dogs, testicular changes consisting of atrophy and necrosis occurred at 25 mg/kg/day (75 times the usual maximum recommended human dose).
 No testicular changes were seen in rats or dogs at 10 mg/kg/day (30 times the usual maximum recommended human dose).
 In view of the testicular changes observed in animals, 105 patients on long term prazosin hydrochloride therapy were monitored for 17-ketosteroid excretion and no changes indicating a drug effect were observed.
 In addition, 27 males on prazosin hydrochloride for up to 51 months did not have changes in sperm morphology suggestive of drug effect.
