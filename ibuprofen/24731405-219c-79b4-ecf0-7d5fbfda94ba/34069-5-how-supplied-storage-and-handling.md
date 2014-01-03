@@ -8,7 +8,7 @@ Bottles of 90 NDC 55111-682-09
 
 Bottles of 100 NDC 55111-682-01
 
-Bottles of 500 NDC 55111-682-05
+Bottles of 500 NDC 55111-682-05 (PACKAGE NOT CHILD-RESISTANT)
 
 600 mg (white, caplet, debossed 6I)
 
@@ -20,7 +20,7 @@ Bottles of 90 NDC 55111-683-09
 
 Bottles of 100 NDC 55111-683-01
 
-Bottles of 500 NDC 55111-683-05
+Bottles of 500 NDC 55111-683-05 (PACKAGE NOT CHILD-RESISTANT)
 
 800 mg (white, caplet, debossed 8I)
 
@@ -34,7 +34,7 @@ Bottles of 90 NDC 55111-684-09
 
 Bottles of 100 NDC 55111-684-01
 
-Bottles of 500 NDC 55111-684-05
+Bottles of 500 NDC 55111-684-05 (PACKAGE NOT CHILD-RESISTANT)
 
 Store at room temperature.
 Avoid excessive heat 40°C (104°F).
@@ -45,4 +45,4 @@ Dr. Reddy’s Laboratories, Inc.
 
 Bridgewater, NJ 08807 USA
 
-Issued May, 2011
+Revised, July 2013
