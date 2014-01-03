@@ -14,6 +14,7 @@ Each bottle of the oral solution is accompanied by a dosing spoon that is calibr
 ### Storage
 
 BARACLUDE Tablets should be stored in a tightly closed container at 25° C (77° F); excursions permitted between 15–30° C (59–86° F) [see USP Controlled Room Temperature].
+Store in the outer carton to protect from light.
 
 BARACLUDE Oral Solution should be stored in the outer carton at 25° C (77° F); excursions permitted between 15–30° C (59–86° F) [see USP Controlled Room Temperature].
 Protect from light.

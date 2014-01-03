@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of BARACLUDE were evaluated in three Phase 3 active-controlled trials [see (Clinical Studies 14.1, 14.2)].
+The safety and efficacy of BARACLUDE were evaluated in three Phase 3 active-controlled trials [see Clinical Studies (14.1, 14.2)].
 These studies included 1633 subjects 16 years of age or older with chronic hepatitis B virus infection (serum HBsAg-positive for at least 6 months) accompanied by evidence of viral replication (detectable serum HBV DNA, as measured by the bDNA hybridization or PCR assay).
 Subjects had persistently elevated ALT levels at least 1.3 times ULN and chronic inflammation on liver biopsy compatible with a diagnosis of chronic viral hepatitis.
 The safety and efficacy of BARACLUDE were also evaluated in a study of 191 HBV-infected subjects with decompensated liver disease and in a study of 68 subjects co-infected with HBV and HIV [see Clinical Studies (14.1)].
@@ -36,21 +36,19 @@ Table 6: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, N
 | No change | 46% | 40% | 41% | 34% |
 | Worseningc | 8% | 10% | 12% | 15% |
 | Missing Week 48 biopsy | 7% | 14% | 10% | 13% |
-| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |  |  |
-| b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |  |  |
-| c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |  |  |
+| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |  |  |
 
 Table 7: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nucleoside-Naïve Subjects in Studies AI463022 and AI463027
 
-|  | BARACLUDE 0.5 mg n=354 | Lamivudine 100 mg n=355 | BARACLUDE 0.5 mg n=325 | Lamivudine 100 mg n=313 |
-| --- | --- | --- | --- | --- |
-|  | Study AI463022 (HBeAg-Positive) |  | Study AI463027 (HBeAg-Negative) |  |
-| HBV DNAa |  |  |  |  |
-| Proportion undetectable (<300 copies/mL) | 67% | 36% | 90% | 72% |
-| Mean change from baseline (log10 copies/mL) | −6.86 | −5.39 | −5.04 | −4.53 |
-| ALT normalization (≤1 × ULN) | 68% | 60% | 78% | 71% |
-| HBeAg seroconversion | 21% | 18% | NA | NA |
-| a Roche COBAS Amplicor PCR assay [lower limit of quantification (LLOQ) = 300 copies/mL]. |  |  |  |  |
+|  | BARACLUDE 0.5 mg n=354 | Lamivudine 100 mg n=355 | BARACLUDE 0.5 mg n=325 | Lamivudine 100 mg n=313 |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Study AI463022 (HBeAg-Positive) |  | Study AI463027 (HBeAg-Negative) |  |  |  |  |  |  |
+| HBV DNAa |  |  |  |  |  |  |  |  |  |
+| Proportion undetectable (<300 copies/mL) | 67% | 36% | 90% | 72% |  |  |  |  |  |
+| Mean change from baseline (log10 copies/mL) | −6.86 | −5.39 | −5.04 | −4.53 |  |  |  |  |  |
+| ALT normalization (≤1 × ULN) | 68% | 60% | 78% | 71% |  |  |  |  |  |
+| HBeAg seroconversion | 21% | 18% | NA | NA |  |  |  |  |  |
+| a Roche COBAS Amplicor PCR assay [lower limit of quantification (LLOQ) = 300 copies/mL]. |  |  |  |  |  |  |  |  |  |
 
 Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
 
@@ -79,20 +77,18 @@ Table 8: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, L
 | No change | 44% | 42% |
 | Worseningc | 11% | 26% |
 | Missing Week 48 biopsy | 11% | 16% |
-| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |
-| b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |
-| c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |
+| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |
 
 Table 9: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Lamivudine-Refractory Subjects in Study AI463026
 
-|  | BARACLUDE 1 mg n=141 | Lamivudine 100 mg n=145 |
-| --- | --- | --- |
-| HBV DNAa |  |  |
-| Proportion undetectable (<300 copies/mL) | 19% | 1% |
-| Mean change from baseline (log10 copies/mL) | −5.11 | −0.48 |
-| ALT normalization (≤1 × ULN) | 61% | 15% |
-| HBeAg seroconversion | 8% | 3% |
-| a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
+|  | BARACLUDE 1 mg n=141 | Lamivudine 100 mg n=145 |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| HBV DNAa |  |  |  |  |  |
+| Proportion undetectable (<300 copies/mL) | 19% | 1% |  |  |  |
+| Mean change from baseline (log10 copies/mL) | −5.11 | −0.48 |  |  |  |
+| ALT normalization (≤1 × ULN) | 61% | 15% |  |  |  |
+| HBeAg seroconversion | 8% | 3% |  |  |  |
+| a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |  |  |  |
 
 Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
 
@@ -117,11 +113,7 @@ Table 10: Selected Endpoints at Week 48, Subjects with Decompensated Liver Disea
 | Stable or improved CTP scorec | 61% | 67% |
 | HBsAg loss | 5% | 0 |
 | Normalization of ALT (≤1 × ULN)d | 49/78 (63%) | 33/71 (46%) |
-| a Endpoints were analyzed using intention-to-treat (ITT) method, treated subjects as randomized. |  |  |
-| b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
-| c Defined as decrease or no change from baseline in CTP score. |  |  |
-| d Denominator is subjects with abnormal values at baseline. |  |  |
-| ULN=upper limit of normal. |  |  |
+| a Endpoints were analyzed using intention-to-treat (ITT) method, treated subjects as randomized. b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). c Defined as decrease or no change from baseline in CTP score. d Denominator is subjects with abnormal values at baseline. ULN=upper limit of normal. |  |  |
 
 ### Subjects Co-infected with HIV and HBV
 
@@ -142,9 +134,7 @@ Table 11: Virologic and Biochemical Endpoints at Week 24, Study AI463038
 | Proportion undetectable (<300 copies/mL) | 6% | 0 |
 | Mean change from baseline (log10 copies/mL) | −3.65 | +0.11 |
 | ALT normalization (≤1 × ULN) | 34%c | 8%c |
-| a All subjects also received a lamivudine-containing HAART regimen. |  |  |
-| b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
-| c Percentage of subjects with abnormal ALT (>1 × ULN) at baseline who achieved ALT normalization (n=35 for BARACLUDE and n=12 for placebo). |  |  |
+| a All subjects also received a lamivudine-containing HAART regimen. b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). c Percentage of subjects with abnormal ALT (>1 × ULN) at baseline who achieved ALT normalization (n=35 for BARACLUDE and n=12 for placebo). |  |  |
 
 For subjects originally assigned to BARACLUDE, at the end of the open-label phase (Week 48), 8% of subjects had HBV DNA <300 copies/mL by PCR, the mean change from baseline HBV DNA by PCR was −4.20 log10 copies/mL, and 37% of subjects with abnormal ALT at baseline had ALT normalization (≤1 × ULN).
 

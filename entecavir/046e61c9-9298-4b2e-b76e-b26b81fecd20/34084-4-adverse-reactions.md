@@ -2,8 +2,8 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Exacerbations of hepatitis after discontinuation of treatment [see Boxed Warning, Warnings and Precautions (5.1)].
-- Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
+- •Exacerbations of hepatitis after discontinuation of treatment [see Boxed Warning, Warnings and Precautions (5.1)].
+- •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 
 ## 6.1 Clinical Trial Experience
 
@@ -40,9 +40,7 @@ Table 2: Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2–4)
 | Somnolence | <1% | <1% | 0 | 0 |
 | Psychiatric |  |  |  |  |
 | Insomnia | <1% | <1% | 0 | <1% |
-| a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. |  |  |  |  |
-| b Studies AI463022 and AI463027. |  |  |  |  |
-| c Includes Study AI463026 and the BARACLUDE 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
+| a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Studies AI463022 and AI463027. c Includes Study AI463026 and the BARACLUDE 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
 
 #### Laboratory Abnormalities
 
@@ -65,13 +63,7 @@ Table 3: Selected Treatment-Emergenta Laboratory Abnormalities Reported in Four 
 | Glycosuriae | 4% | 3% | 4% | 6% |
 | Hematuriaf | 9% | 10% | 9% | 6% |
 | Platelets <50,000/mm3 | <1% | <1% | <1% | <1% |
-| a On-treatment value worsened from baseline to Grade 3 or Grade 4 for all parameters except albumin (any on-treatment value <2.5 g/dL), confirmed creatinine increase ≥0.5 mg/dL, and ALT >10 × ULN and >2 × baseline. |  |  |  |  |
-| b Studies AI463022 and AI463027. |  |  |  |  |
-| c Includes Study AI463026 and the BARACLUDE 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
-| d Includes hematology, routine chemistries, renal and liver function tests, pancreatic enzymes, and urinalysis. |  |  |  |  |
-| e Grade 3 = 3+, large, ≥ 500 mg/dL; Grade 4 = 4+, marked, severe. |  |  |  |  |
-| f Grade 3 = 3+, large; Grade 4 = ≥ 4+, marked, severe, many. |  |  |  |  |
-| ULN=upper limit of normal. |  |  |  |  |
+| a On-treatment value worsened from baseline to Grade 3 or Grade 4 for all parameters except albumin (any on-treatment value <2.5 g/dL), confirmed creatinine increase ≥0.5 mg/dL, and ALT >10 × ULN and >2 × baseline. b Studies AI463022 and AI463027. c Includes Study AI463026 and the BARACLUDE 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. d Includes hematology, routine chemistries, renal and liver function tests, pancreatic enzymes, and urinalysis. e Grade 3 = 3+, large, ≥500 mg/dL; Grade 4 = 4+, marked, severe. f Grade 3 = 3+, large; Grade 4 = ≥4+, marked, severe, many. ULN=upper limit of normal. |  |  |  |  |
 
 Among BARACLUDE-treated subjects in these studies, on-treatment ALT elevations greater than 10 times the upper limit of normal (ULN) and greater than 2 times baseline generally resolved with continued treatment.
 A majority of these exacerbations were associated with a ≥2 log10/mL reduction in viral load that preceded or coincided with the ALT elevation.
