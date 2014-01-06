@@ -1,17 +1,13 @@
-# PRINCIPAL DISPLAY PANEL - 60 Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
-NDC 0008-4188-04
+Pfizer NDC 0008-4188-04
 
-60 Tablets
-
-Cordarone® (amiodarone HCl)
+Cordarone ® (amiodarone HCl)
 
 200 mg
 
+Tablets
+
 Note to authorized dispenser: Each time Cordarone Tablets is dispensed, give the patient a medication guide.
 
-SEALED FOR YOUR PROTECTION
-
-Rx only
-
-Wyeth®
+60 Tablets Rx only
