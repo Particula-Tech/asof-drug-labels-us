@@ -53,6 +53,6 @@ Takeda GmbH
 
 D78467 Konstanz, Germany
 
-LAB-0574-5.0
+LAB-0574-6.0
 
-November 2013
+December 2013
