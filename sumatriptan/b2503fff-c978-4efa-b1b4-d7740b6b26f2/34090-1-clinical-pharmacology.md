@@ -1,103 +1,46 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-Sumatriptan is an agonist for a vascular 5-hydroxytryptamine 1 receptor subtype (probably a member of the 5-HT 1D family) having only a weak affinity for 5-HT 1A , 5-HT 5A , and 5-HT 7 receptors and no significant affinity (as measured using standard radioligand binding assays) or pharmacological activity at 5-HT 2 , 5-HT 3 , or 5-HT 4 receptor subtypes or at alpha 1 -, alpha 2 -, or beta-adrenergic; dopamine 1 ; dopamine 2 ; muscarinic; or benzodiazepine receptors.
-The vascular 5-HT 1 receptor subtype that sumatriptan activates is present on cranial arteries in both dog and primate, on the human basilar artery, and in the vasculature of human dura mater and mediates vasoconstriction.
-This action in humans correlates with the relief of migraine headache.
-In addition to causing vasoconstriction, experimental data from animal studies show that sumatriptan also activates 5-HT 1 receptors on peripheral terminals of the trigeminal nerve innervating cranial blood vessels.
-Such an action may also contribute to the antimigrainous effect of sumatriptan in humans.
-In the anesthetized dog, sumatriptan selectively reduces the carotid arterial blood flow with little or no effect on arterial blood pressure or total peripheral resistance.
-In the cat, sumatriptan selectively constricts the carotid arteriovenous anastomoses while having little effect on blood flow or resistance in cerebral or extracerebral tissues.
+Sumatriptan binds with high affinity to human cloned 5-HT1B/1D receptors.
+Sumatriptan presumably exerts its therapeutic effects in the treatment of migraine headache through agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-The mean maximum concentration following oral dosing with 25 mg is 18 ng/mL (range: 7 to 47 ng/mL) and 51 ng/mL (range: 28 to 100 ng/mL) following oral dosing with 100 mg of sumatriptan.
-This compares with a C max of 5 and 16 ng/mL following dosing with a 5 and 20 mg intranasal dose, respectively.
-The mean C max following a 6 mg subcutaneous injection is 71 ng/mL (range: 49 to 110 ng/mL).
+Blood Pressure: Significant elevation in blood pressure, including hypertensive crisis, has been reported in patients with and without a history of hypertension [see Warnings and Precautions (5.8)].
+Peripheral (Small) Arteries: In healthy volunteers (N = 18), a trial evaluating the effects of sumatriptan on peripheral (small vessel) arterial reactivity failed to detect a clinically significant increase in peripheral resistance.
+Heart Rate: Transient increases in blood pressure observed in some patients in clinical trials carried out during sumatriptan’s development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
+
+## 12.3 Pharmacokinetics
+
+Absorption and Bioavailability: The mean maximum concentration following oral dosing with 25 mg is 18 ng/mL (range: 7 to 47 ng/mL) and 51 ng/mL (range: 28 to 100 ng/mL) following oral dosing with 100 mg of sumatriptan.
+This compares with a Cmax of 5 and 16 ng/mL following dosing with a 5 and 20 mg intranasal dose, respectively.
+The mean Cmax following a 6 mg subcutaneous injection is 71 ng/mL (range: 49 to 110 ng/mL).
 The bioavailability is approximately 15%, primarily due to presystemic metabolism and partly due to incomplete absorption.
-The C max is similar during a migraine attack and during a migraine-free period, but the T max is slightly later during the attack, approximately 2.5 hours compared to 2 hours.
-When given as a single dose, sumatriptan displays dose proportionality in its extent of absorption (area under the curve [AUC]) over the dose range of 25 to 200 mg, but the C max after 100 mg is approximately 25% less than expected (based on the 25 mg dose).
-A food effect study involving administration of sumatriptan tablets 100 mg to healthy volunteers under fasting conditions and with a high-fat meal indicated that the C max and AUC were increased by 15% and 12%, respectively, when administered in the fed state.
-Plasma protein binding is low (14% to 21%).
-The effect of sumatriptan on the protein binding of other drugs has not been evaluated, but would be expected to be minor, given the low rate of protein binding.
-The apparent volume of distribution is 2.4 L/kg.
-The elimination half-life of sumatriptan is approximately 2.5 hours.
-Radiolabeled 14 C-sumatriptan administered orally is largely renally excreted (about 60%) with about 40% found in the feces.
+The Cmax is similar during a migraine attack and during a migraine-free period, but the Tmax is slightly later during the attack, approximately 2.5 hours compared with 2 hours.
+When given as a single dose, sumatriptan displays dose proportionality in its extent of absorption (area under the curve [AUC]) over the dose range of 25 to 200 mg, but the Cmax after 100 mg is approximately 25% less than expected (based on the 25 mg dose).
+A food effect trial involving administration of sumatriptan tablets 100 mg to healthy volunteers under fasting conditions and with a high-fat meal indicated that the Cmax and AUC were increased by 15% and 12%, respectively, when administered in the fed state.
+Distribution: Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL is low, approximately 14% to 21%.
+The effect of sumatriptan on the protein binding of other drugs has not been evaluated.
+The apparent volume of distribution is 2.7 L/kg.
+Metabolism:In vitro studies with human microsomes suggest that sumatriptan is metabolized by MAO, predominantly the A isoenzyme.
+Most of a radiolabeled dose of sumatriptan excreted in the urine is the major metabolite indole acetic acid (IAA) or the IAA glucuronide, both of which are inactive.
+Elimination: The elimination half-life of sumatriptan is approximately 2.5 hours.
+Radiolabeled 14C-sumatriptan administered orally is largely renally excreted (about 60%) with about 40% found in the feces.
 Most of the radiolabeled compound excreted in the urine is the major metabolite, indole acetic acid (IAA), which is inactive, or the IAA glucuronide.
 Only 3% of the dose can be recovered as unchanged sumatriptan.
-In vitro studies with human microsomes suggest that sumatriptan is metabolized by monoamine oxidase (MAO), predominantly the A isoenzyme, and inhibitors of that enzyme may alter sumatriptan pharmacokinetics to increase systemic exposure.
-No significant effect was seen with an MAO-B inhibitor (see CONTRAINDICATIONS, WARNINGS , and PRECAUTIONS: Drug Interactions ).
-
-## Special Populations
-
-Renal Impairment The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
-Hepatic Impairment The liver plays an important role in the presystemic clearance of orally administered sumatriptan.
+Special Populations:Age: The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in subjects with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
+Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined.
+Hepatic Impairment: The liver plays an important role in the presystemic clearance of orally administered sumatriptan.
 Accordingly, the bioavailability of sumatriptan following oral administration may be markedly increased in patients with liver disease.
-In 1 small study of hepatically impaired patients (N = 8) matched for sex, age, and weight with healthy subjects, the hepatically impaired patients had an approximately 70% increase in AUC and C max and a T max 40 minutes earlier compared to the healthy subjects (see DOSAGE AND ADMINISTRATION ).
-Age The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years) (see PRECAUTIONS: Geriatric Use ).
-Gender In a study comparing females to males, no pharmacokinetic differences were observed between genders for AUC, C max , T max , and half-life.
-Race The systemic clearance and C max of sumatriptan were similar in black (N = 34) and Caucasian (N = 38) healthy male subjects.
-
-## Drug Interactions
-
-Monoamine Oxidase Inhibitors Treatment with MAO-A inhibitors generally leads to an increase of sumatriptan plasma levels (see CONTRAINDICATIONS and PRECAUTIONS ).
-Due to gut and hepatic metabolic first-pass effects, the increase of systemic exposure after coadministration of an MAO-A inhibitor with oral sumatriptan is greater than after coadministration of the monoamine oxidase inhibitors (MAOI) with subcutaneous sumatriptan.
-In a study of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of subcutaneous sumatriptan.
-Under the conditions of this experiment, the result was a 2-fold increase in the area under the sumatriptan plasma concentration x time curve (AUC), corresponding to a 40% increase in elimination half-life.
-This interaction was not evident with an MAO-B inhibitor.
-A small study evaluating the effect of pretreatment with an MAO-A inhibitor on the bioavailability from a 25 mg oral sumatriptan tablet resulted in an approximately 7-fold increase in systemic exposure.
-Alcohol Alcohol consumed 30 minutes prior to sumatriptan ingestion had no effect on the pharmacokinetics of sumatriptan.
-
-## CLINICAL STUDIES
-
-The efficacy of sumatriptan tablets in the acute treatment of migraine headaches was demonstrated in 3, randomized, double-blind, placebo-controlled studies.
-Patients enrolled in these 3 studies were predominately female (87%) and Caucasian (97%), with a mean age of 40 years (range, 18 to 65 years).
-Patients were instructed to treat a moderate to severe headache.
-Headache response, defined as a reduction in headache severity from moderate or severe pain to mild or no pain, was assessed up to 4 hours after dosing.
-Associated symptoms such as nausea, photophobia, and phonophobia were also assessed.
-Maintenance of response was assessed for up to 24 hours postdose.
-A second dose of sumatriptan tablets or other medication was allowed 4 to 24 hours after the initial treatment for recurrent headache.
-Acetaminophen was offered to patients in Studies 2 and 3 beginning at 2 hours after initial treatment if the migraine pain had not improved or worsened.
-Additional medications were allowed 4 to 24 hours after the initial treatment for recurrent headache or as rescue in all 3 studies.
-The frequency and time to use of these additional treatments were also determined.
-In all studies, doses of 25, 50, and 100 mg were compared to placebo in the treatment of migraine attacks.
-In 1 study, doses of 25, 50, and 100 mg were also compared to each other.
-In all 3 trials, the percentage of patients achieving headache response 2 and 4 hours after treatment was significantly greater among patients receiving sumatriptan tablets at all doses compared to those who received placebo.
-In 1 of the 3 studies, there was a statistically significant greater percentage of patients with headache response at 2 and 4 hours in the 50 or 100 mg group when compared to the 25 mg dose groups.
-There were no statistically significant differences between the 50 and 100 mg dose groups in any study.
-The results from the 3 controlled clinical trials are summarized in Table 1.
-Comparisons of drug performance based upon results obtained in different clinical trials are never reliable.
-Because studies are conducted at different times, with different samples of patients, by different investigators, employing different criteria and/or different interpretations of the same criteria, under different conditions (dose, dosing regimen, etc.), quantitative estimates of treatment response and the timing of response may be expected to vary considerably from study to study.
-
-Table 1.
-Percentage of Patients With Headache Response (No or Mild Pain) 2 and 4 Hours Following Treatment
-
-|  | Placebo |  | Sumatriptan Tablets 25 mg |  | Sumatriptan Tablets 50 mg |  | Sumatriptan Tablets 100 mg |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | PlaceboPlacebo |  | Sumatriptan Tablets 25 mgSumatriptan Tablets 25 mg |  | Sumatriptan Tablets 50 mgSumatriptan Tablets 50 mg |  | Sumatriptan Tablets 100 mgSumatriptan Tablets 100 mg |  |
-|  | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr |
-| Study 1 | 27% | 38% | 52%* | 67%* | 61%*† | 78%*† | 62%*† | 79%*† |
-| (N = 94) |  | (N = 298) |  | (N = 296) |  | (N = 296) |  |  |
-| Study 2 | 26% | 38% | 52%* | 70%* | 50%* | 68%* | 56%* | 71%* |
-| (N = 65) |  | (N = 66) |  | (N = 62) |  | (N = 66) |  |  |
-| Study 3 | 17% | 19% | 52%* | 65%* | 54%* | 72%* | 57%* | 78%* |
-| (N = 47) |  | (N = 48) |  | (N = 46) |  | (N = 46) |  |  |
-| * p<0.05 in comparison with placebo. † p<0.05 in comparison with 25 mg. |  |  |  |  |  |  |  |  |
-
-The estimated probability of achieving an initial headache response over the 4 hours following treatment is depicted in Figure 1.
-Figure 1.
-Estimated Probability of Achieving Initial Headache Response Within 240 Minutes* *The figure shows the probability over time of obtaining headache response (no or mild pain) following treatment with sumatriptan.
-The averages displayed are based on pooled data from the 3 clinical controlled trials providing evidence of efficacy.
-Kaplan-Meier plot with patients not achieving response and/or taking rescue within 240 minutes censored to 240 minutes.
-For patients with migraine-associated nausea, photophobia, and/or phonophobia at baseline, there was a lower incidence of these symptoms at 2 hours (Study 1) and at 4 hours (Studies 1, 2, and 3) following administration of sumatriptan tablets compared to placebo.
-As early as 2 hours in Studies 2 and 3 or 4 hours in Study 1, through 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain relief in the form of a second dose of study treatment or other medication.
-The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
-Figure 2.
-The Estimated Probability of Patients Taking a Second Dose or Other Medication for Migraine Over the 24 Hours Following the Initial Dose of Study Treatment* * Kaplan-Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
-Plot also includes patients who had no response to the initial dose.
-No remedication was allowed within 2 hours postdose.
-There is evidence that doses above 50 mg do not provide a greater effect than 50 mg.
-There was no evidence to suggest that treatment with sumatriptan was associated with an increase in the severity of recurrent headaches.
-The efficacy of sumatriptan tablets was unaffected by presence of aura; duration of headache prior to treatment; gender, age, or weight of the patient; relationship to menses; or concomitant use of common migraine prophylactic drugs (e.g., beta-blockers, calcium channel blockers, tricyclic antidepressants).
-There were insufficient data to assess the impact of race on efficacy.
+In one small trial of patients with moderate liver impairment (n = 8) matched for sex, age, and weight with healthy subjects (n = 8), the hepatically-impaired patients had an approximately 70% increase in AUC and Cmax and a Tmax 40 minutes earlier compared to the healthy subjects.
+The pharmacokinetics of sumatriptan in patients with severe hepatic impairment has not been studied.
+The use of sumatriptan tablets in this population is contraindicated [see Contraindications (4) and Use in Specific Populations (8.6)].
+Gender: In a trial comparing females to males, no pharmacokinetic differences were observed between genders for AUC, Cmax, Tmax, and half-life.
+Race: The systemic clearance and Cmax of subcutaneous sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
+Oral sumatriptan has not been evaluated for race differences.
+Drug Interaction Studies:Monoamine Oxidase-A Inhibitors: Treatment with MAO-A inhibitors generally leads to an increase of sumatriptan plasma levels [see Contraindications (4) and Drug Interactions (7.2)].
+Due to gut and hepatic metabolic first-pass effects, the increase of systemic exposure after co-administration of an MAO-A inhibitor with oral sumatriptan is greater than after co­administration of the MAO inhibitors with subcutaneous sumatriptan.
+In a trial of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of subcutaneous sumatriptan, resulting in a 2-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half-life.
+A small trial evaluating the effect of pretreatment with an MAO-A inhibitor on the bioavailability from a 25 mg oral sumatriptan tablet resulted in an approximately 7-fold increase in systemic exposure.
+Alcohol: Alcohol consumed 30 minutes prior to sumatriptan ingestion had no effect on the pharmacokinetics of sumatriptan.
