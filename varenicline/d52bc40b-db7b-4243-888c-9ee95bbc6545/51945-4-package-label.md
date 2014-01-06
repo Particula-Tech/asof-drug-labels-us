@@ -1,0 +1,11 @@
+# PRINCIPAL DISPLAY PANEL - Kit Carton
+
+STARTING PACK (Your first 2 weeks) ONE PER PATIENT
+
+NDC 63539-473-10 Rx only
+
+CHANTIX® (varenicline) TABLETS
+
+Contains: Week 1 (0.5 mg* x 11 tablets) Week 2 (1 mg† x 14 tablets)
+
+PROFESSIONAL SAMPLE – NOT FOR SALE ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE

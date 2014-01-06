@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021928"
+  ],
+  "inn": "varenicline",
+  "labeler": "U.S. Pharmaceuticals",
+  "package_ndcs": [
+    "63539-473-10"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "varenicline tartrate",
+      "name": "CHANTIX"
+    }
+  ],
+  "setid": "d52bc40b-db7b-4243-888c-9ee95bbc6545",
+  "source": "dailymed"
+}
