@@ -2,16 +2,17 @@
 
 ## 14.1 Monotherapy
 
-Three randomized, double-blind, placebo-controlled trials with durations from 16 to 26 weeks were conducted to evaluate the use of pioglitazone hydrochloride as monotherapy in patients with type 2 diabetes.
-These trials examined pioglitazone hydrochloride at doses up to 45 mg or placebo once daily in a total of 865 patients.
-In a 26-week dose-ranging monotherapy trial, 408 patients with type 2 diabetes were randomized to receive 7.5 mg, 15 mg, 30 mg, or 45 mg of pioglitazone hydrochloride, or placebo once daily.
-Therapy with any previous antidiabetic agent was discontinued 8 weeks prior to the double-blind period.
-Treatment with 15 mg, 30 mg, and 45 mg of pioglitazone hydrochloride produced statistically significant improvements in HbA1c and fasting plasma glucose (FPG) at endpoint compared to placebo (see Figure 1, Table 17).
+Three randomized, double-blind, placebo-controlled trials with durations from 16 to 26 weeks were conducted to evaluate the use of pioglitazone as monotherapy in patients with type 2 diabetes.
+These trials examined pioglitazone at doses up to 45 mg or placebo once daily in a total of 865 patients.
+In a 26-week dose-ranging monotherapy trial, 408 patients with type 2 diabetes were randomized to receive 7.5 mg, 15 mg, 30 mg, or 45 mg of pioglitazone, or placebo once daily.
+Therapy with any previous antidiabetic agent was discontinued eight weeks prior to the double-blind period.
+Treatment with 15 mg, 30 mg, and 45 mg of pioglitazone produced statistically significant improvements in HbA1c and fasting plasma glucose (FPG) at endpoint compared to placebo (see Figure 1, Table 17).
 Figure 1 shows the time course for changes in HbA1c in this 26-week study.
 
-Table 17: Glycemic Parameters in a 26-Week Placebo-Controlled Dose-Ranging Monotherapy Trial
+Table 17.
+Glycemic Parameters in a 26-Week Placebo-Controlled Dose-Ranging Monotherapy Trial
 
-|  | Placebo | Pioglitazone Hydrochloride 15 mg Once Daily | Pioglitazone Hydrochloride 30 mg Once Daily | Pioglitazone Hydrochloride 45 mg Once Daily |
+|  | Placebo | Pioglitazone 15 mg Once Daily | Pioglitazone 30 mg Once Daily | Pioglitazone 45 mg Once Daily |
 | --- | --- | --- | --- | --- |
 | Total Population |  |  |  |  |
 | HbA1c (%) | N=79 | N=79 | N=85 | N=76 |
@@ -24,16 +25,17 @@ Table 17: Glycemic Parameters in a 26-Week Placebo-Controlled Dose-Ranging Monot
 | Difference from placebo (adjusted mean*) 95% Confidence Interval |  | -39† (-63, -16) | -41† (-64, -18) | -65† (-89, -42) |
 | * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. placebo |  |  |  |  |
 
-In a 24-week placebo-controlled monotherapy trial, 260 patients with type 2 diabetes were randomized to one of two forced-titration pioglitazone hydrochloride treatment groups or a mock-titration placebo group.
-Therapy with any previous antidiabetic agent was discontinued 6 weeks prior to the double-blind period.
-In one pioglitazone hydrochloride treatment group, patients received an initial dose of 7.5 mg once daily.
+In a 24-week placebo-controlled monotherapy trial, 260 patients with type 2 diabetes were randomized to one of two forced-titration pioglitazone treatment groups or a mock-titration placebo group.
+Therapy with any previous antidiabetic agent was discontinued six weeks prior to the double-blind period.
+In one pioglitazone treatment group, patients received an initial dose of 7.5 mg once daily.
 After four weeks, the dose was increased to 15 mg once daily and after another four weeks, the dose was increased to 30 mg once daily for the remainder of the trial (16 weeks).
-In the second pioglitazone hydrochloride treatment group, patients received an initial dose of 15 mg once daily and were titrated to 30 mg once daily and 45 mg once daily in a similar manner.
-Treatment with pioglitazone hydrochloride, as described, produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo (Table 18).
+In the second pioglitazone treatment group, patients received an initial dose of 15 mg once daily and were titrated to 30 mg once daily and 45 mg once daily in a similar manner.
+Treatment with pioglitazone, as described, produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo (see Table 18).
 
-Table 18: Glycemic Parameters in a 24-Week Placebo-Controlled Forced-Titration Monotherapy Trial
+Table 18.
+Glycemic Parameters in a 24-Week Placebo-Controlled Forced-Titration Monotherapy Trial
 
-|  | Placebo | Pioglitazone Hydrochloride 30 mg* Once Daily | Pioglitazone Hydrochloride 45 mg* Once Daily |
+|  | Placebo | Pioglitazone 30 mg* Once Daily | Pioglitazone 45 mg* Once Daily |
 | --- | --- | --- | --- |
 | Total Population |  |  |  |
 | HbA1c (%) | N=83 | N=85 | N=85 |
@@ -46,13 +48,14 @@ Table 18: Glycemic Parameters in a 24-Week Placebo-Controlled Forced-Titration M
 | Difference from placebo (adjusted mean†) 95% Confidence Interval |  | -62‡ (-82, -0.41) | -68‡ (-88, -0.48) |
 | * Final dose in forced titration † Adjusted for baseline, pooled center, and pooled center by treatment interaction ‡ p ≤ 0.05 vs. placebo |  |  |  |
 
-In a 16-week monotherapy trial, 197 patients with type 2 diabetes were randomized to treatment with 30 mg of pioglitazone hydrochloride or placebo once daily.
-Therapy with any previous antidiabetic agent was discontinued 6 weeks prior to the double-blind period.
-Treatment with 30 mg of pioglitazone hydrochloride produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo (Table 19).
+In a 16-week monotherapy trial, 197 patients with type 2 diabetes were randomized to treatment with 30 mg of pioglitazone or placebo once daily.
+Therapy with any previous antidiabetic agent was discontinued six weeks prior to the double-blind period.
+Treatment with 30 mg of pioglitazone produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo (see Table 19).
 
-Table 19: Glycemic Parameters in a 16-Week Placebo-Controlled Monotherapy Trial
+Table 19.
+Glycemic Parameters in a 16-Week Placebo-Controlled Monotherapy Trial
 
-|  | Placebo | Pioglitazone Hydrochloride 30 mg Once Daily |
+|  | Placebo | Pioglitazone 30 mg Once Daily |
 | --- | --- | --- |
 | Total Population |  |  |
 | HbA1c (%) | N=93 | N=100 |
@@ -63,22 +66,23 @@ Table 19: Glycemic Parameters in a 16-Week Placebo-Controlled Monotherapy Trial
 | Baseline (mean) | 270 | 273 |
 | Change from baseline (adjusted mean*) | 8 | -50 |
 | Difference from placebo (adjusted mean*) 95% Confidence Interval |  | -58† (-77, -38) |
-| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. placebo |  |  |
+| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.050 vs. placebo |  |  |
 
 ## 14.2 Combination Therapy
 
-Three 16-week, randomized, double-blind, placebo-controlled clinical trials were conducted to evaluate the effects of pioglitazone hydrochloride ( 15 mg and/or 30 mg) on glycemic control in patients with type 2 diabetes who were inadequately controlled (HbA1c ≥ 8%) despite current therapy with a sulfonylurea, metformin, or insulin.
-In addition, three 24-week randomized, double-blind clinical trials were conducted to evaluate the effects of pioglitazone hydrochloride 30 mg vs. pioglitazone hydrochloride 45 mg on glycemic control in patients with type 2 diabetes who were inadequately controlled (HbA1c ≥ 8%) despite current therapy with a sulfonylurea, metformin, or insulin.
+Three 16-week, randomized, double-blind, placebo-controlled clinical trials were conducted to evaluate the effects of pioglitazone (15 mg and/or 30 mg) on glycemic control in patients with type 2 diabetes who were inadequately controlled (HbA1c ≥8%) despite current therapy with a sulfonylurea, metformin, or insulin.
+In addition, three 24-week randomized, double-blind clinical trials were conducted to evaluate the effects of pioglitazone 30 mg vs. pioglitazone 45 mg on glycemic control in patients with type 2 diabetes who were inadequately controlled (HbA1c ≥8%) despite current therapy with a sulfonylurea, metformin, or insulin.
 Previous diabetes treatment may have been monotherapy or combination therapy.
-Add-on to Sulfonylurea Trials: Two clinical trials were conducted with pioglitazone hydrochloride in combination with a sulfonylurea.
+Add-on to Sulfonylurea Trials Two clinical trials were conducted with pioglitazone in combination with a sulfonylurea.
 Both studies included patients with type 2 diabetes on any dose of a sulfonylurea, either alone or in combination with another antidiabetic agent.
-All other antidiabetic agents were withdrawn at least 3 weeks prior to starting study treatment.
-In the first study, 560 patients were randomized to receive 15 mg or 30 mg of pioglitazone hydrochloride or placebo once daily for 16 weeks in addition to their current sulfonylurea regimen.
-Treatment with pioglitazone hydrochloride as add-on to sulfonylurea produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo add-on to sulfonylurea (Table 20).
+All other antidiabetic agents were withdrawn at least three weeks prior to starting study treatment.
+In the first study, 560 patients were randomized to receive 15 mg or 30 mg of pioglitazone or placebo once daily for 16 weeks in addition to their current sulfonylurea regimen.
+Treatment with pioglitazone as add-on to sulfonylurea produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo add-on to sulfonylurea (see Table 20)
 
-Table 20: Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Sulfonylurea Trial
+Table 20.
+Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Sulfonylurea Trial
 
-|  | Placebo + Sulfonylurea | Pioglitazone Hydrochloride 15 mg + Sulfonylurea | Pioglitazone Hydrochloride 30 mg + Sulfonylurea |
+|  | Placebo + Sulfonylurea | Pioglitazone 15 mg + Sulfonylurea | Pioglitazone 30 mg + Sulfonylurea |
 | --- | --- | --- | --- |
 | Total Population |  |  |  |
 | HbA1c (%) | N=181 | N=176 | N=182 |
@@ -91,35 +95,37 @@ Table 20: Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Sulfony
 | Difference from placebo + sulfonylurea (adjusted mean*) 95% Confidence Interval |  | -39† (-52, -27) | -58† (-70, -46) |
 | * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. placebo + sulfonylurea |  |  |  |
 
-In the second trial, 702 patients were randomized to receive 30 mg or 45 mg of pioglitazone hydrochloride once daily for 24 weeks in addition to their current sulfonylurea regimen.
+In the second trial, 702 patients were randomized to receive 30 mg or 45 mg of pioglitazone once daily for 24 weeks in addition to their current sulfonylurea regimen.
 The mean reduction from baseline at Week 24 in HbA1c was 1.6% for the 30 mg dose and 1.7% for the 45 mg dose (see Table 21).
 The mean reduction from baseline at Week 24 in FPG was 52 mg/dL for the 30 mg dose and 56 mg/dL for the 45 mg dose.
-The therapeutic effect of pioglitazone hydrochloride in combination with sulfonylurea was observed in patients regardless of the sulfonylurea dose.
+The therapeutic effect of pioglitazone in combination with sulfonylurea was observed in patients regardless of the sulfonylurea dose.
 
-Table 21: Glycemic Parameters in a 24-Week Add-on to Sulfonylurea Trial
+Table 21.
+Glycemic Parameters in a 24-Week Add-on to Sulfonylurea Trial
 
-|  | Pioglitazone Hydrochloride 30 mg + Sulfonylurea | Pioglitazone Hydrochloride 45 mg + Sulfonylurea |
+|  | Pioglitazone 30 mg + Sulfonylurea | Pioglitazone 45 mg + Sulfonylurea |
 | --- | --- | --- |
 | Total Population |  |  |
 | HbA1c (%) | N=340 | N=332 |
 | Baseline (mean) | 9.8 | 9.9 |
 | Change from baseline (adjusted mean*) | -1.6 | -1.7 |
-| Difference from 30 mg daily pioglitazone hydrochloride + sulfonylurea (adjusted mean*) (95% CI) |  | -0.1 (-0.4, 0.1) |
+| Difference from 30 mg daily pioglitazone + sulfonylurea (adjusted mean*) (95% CI) |  | -0.1 (-0.4, 0.1) |
 | Fasting Plasma Glucose (mg/dL) | N=338 | N=329 |
 | Baseline (mean) | 214 | 217 |
 | Change from baseline (adjusted mean*) | -52 | -56 |
-| Difference from 30 mg daily pioglitazone hydrochloride + sulfonylurea (adjusted mean*) (95% CI) |  | -5 (-12, 3) |
+| Difference from 30 mg daily pioglitazone + sulfonylurea (adjusted mean*) (95% CI) |  | -5 (-12, 3) |
 | 95% CI = 95% confidence interval * Adjusted for baseline, pooled center, and pooled center by treatment interaction |  |  |
 
-Add-on to Metformin Trials: Two clinical trials were conducted with pioglitazone hydrochloride in combination with metformin.
+Add-on to Metformin Trials Two clinical trials were conducted with pioglitazone in combination with metformin.
 Both trials included patients with type 2 diabetes on any dose of metformin, either alone or in combination with another antidiabetic agent.
-All other antidiabetic agents were withdrawn at least 3 weeks prior to starting study treatment.
-In the first trial, 328 patients were randomized to receive either 30 mg of pioglitazone hydrochloride or placebo once daily for 16 weeks in addition to their current metformin regimen.
-Treatment with pioglitazone hydrochloride as add-on to metformin produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo add-on to metformin (see Table 22).
+All other antidiabetic agents were withdrawn at least three weeks prior to starting study treatment.
+In the first trial, 328 patients were randomized to receive either 30 mg of pioglitazone or placebo once daily for 16 weeks in addition to their current metformin regimen.
+Treatment with pioglitazone as add-on to metformin produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo add-on to metformin (see Table 22).
 
-Table 22: Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Metformin Trial
+Table 22.
+Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Metformin Trial
 
-|  | Placebo + Metformin | Pioglitazone Hydrochloride 30 mg + Metformin |
+|  | Placebo + Metformin | Pioglitazone 30 mg + Metformin |
 | --- | --- | --- |
 | Total Population |  |  |
 | HbA1c (%) | N=153 | N=161 |
@@ -132,41 +138,43 @@ Table 22: Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Metform
 | Difference from placebo + metformin (adjusted mean*) 95% Confidence Interval |  | -38† (-49, -26) |
 | * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. placebo + metformin |  |  |
 
-In the second trial, 827 patients were randomized to receive either 30 mg or 45 mg of pioglitazone hydrochloride once daily for 24 weeks in addition to their current metformin regimen.
+In the second trial, 827 patients were randomized to receive either 30 mg or 45 mg of pioglitazone once daily for 24 weeks in addition to their current metformin regimen.
 The mean reduction from baseline at Week 24 in HbA1c was 0.8% for the 30 mg dose and 1% for the 45 mg dose (see Table 23).
 The mean reduction from baseline at Week 24 in FPG was 38 mg/dL for the 30 mg dose and 51 mg/dL for the 45 mg dose.
 
-Table 23: Glycemic Parameters in a 24-Week Add-on to Metformin Study
+Table 23.
+Glycemic Parameters in a 24-Week Add-on to Metformin Study
 
-|  | Pioglitazone Hydrochloride 30 mg + Metformin | Pioglitazone Hydrochloride 45 mg + Metformin |
+|  | Pioglitazone 30 mg + Metformin | Pioglitazone 45 mg + Metformin |
 | --- | --- | --- |
 | Total Population |  |  |
-| HbA1C (%) | N=400 | N=398 |
+| HbA1c (%) | N=400 | N=398 |
 | Baseline (mean) | 9.9 | 9.8 |
 | Change from baseline (adjusted mean*) | -0.8 | -1 |
-| Difference from 30 mg daily pioglitazone hydrochloride + Metformin (adjusted mean*) (95% CI) |  | -0.2 (-0.5, 0.1) |
+| Difference from 30 mg daily pioglitazone + Metformin (adjusted mean*) (95% CI) |  | -0.2 (-0.5, 0.1) |
 | Fasting Plasma Glucose (mg/dL) | N=398 | N=399 |
 | Baseline (mean) | 233 | 232 |
 | Change from baseline (adjusted mean*) | -38 | -51 |
-| Difference from 30 mg daily pioglitazone hydrochloride + Metformin (adjusted mean*) (95% CI) |  | -12† (-21, -4) |
-| 95% CI = 95% confidence interval *Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. 30 mg daily pioglitazone hydrochloride + metformin |  |  |
+| Difference from 30 mg daily pioglitazone + Metformin (adjusted mean*) (95% CI) |  | -12† (-21, -4) |
+| 95% CI = 95% confidence interval *Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. 30 mg daily pioglitazone + metformin |  |  |
 
-The therapeutic effect of pioglitazone hydrochloride in combination with metformin was observed in patients regardless of the metformin dose.
-Add-on to Insulin Trials: Two clinical trials were conducted with pioglitazone hydrochloride in combination with insulin.
+The therapeutic effect of pioglitazone in combination with metformin was observed in patients regardless of the metformin dose.
+Add-on to Insulin Trials Two clinical trials were conducted with pioglitazone in combination with insulin.
 Both trials included patients with type 2 diabetes on insulin, either alone or in combination with another antidiabetic agent.
 All other antidiabetic agents were withdrawn prior to starting study treatment.
-In the first trial, 566 patients were randomized to receive either 15 mg or 30 mg of pioglitazone hydrochloride or placebo once daily for 16 weeks in addition to their insulin regimen.
-Treatment with pioglitazone hydrochloride as add-on to insulin produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo add-on to insulin (see Table 24).
+In the first trial, 566 patients were randomized to receive either 15 mg or 30 mg of pioglitazone or placebo once daily for 16 weeks in addition to their insulin regimen.
+Treatment with pioglitazone as add-on to insulin produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo add-on to insulin (see Table 24).
 The mean daily insulin dose at baseline in each treatment group was approximately 70 units.
-The majority of patients (75% overall, 86% treated with placebo, 77% treated with pioglitazone hydrochloride 15 mg, and 61% treated with pioglitazone hydrochloride 30 mg) had no change in their daily insulin dose from baseline to the final study visit.
-The mean change from baseline in daily dose of insulin (including patients with no insulin dose modifications) was -3 units in the patients treated with pioglitazone hydrochloride 15 mg, -8 units in the patients treated with pioglitazone hydrochloride 30 mg, and -1 unit in patients treated with placebo.
+The majority of patients (75% overall, 86% treated with placebo, 77% treated with pioglitazone 15 mg, and 61% treated with pioglitazone 30 mg) had no change in their daily insulin dose from baseline to the final study visit.
+The mean change from baseline in daily dose of insulin (including patients with no insulin dose modifications) was -3 units in the patients treated with pioglitazone 15 mg, -8 units in the patients treated with pioglitazone 30 mg, and -1 unit in patients treated with placebo.
 
-Table 24: Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Insulin Trial
+Table 24.
+Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Insulin Trial
 
-|  | Placebo + Insulin | Pioglitazone Hydrochloride 15 mg + Insulin | Pioglitazone Hydrochloride 30 mg + Insulin |
+|  | Placebo + Insulin | Pioglitazone 15 mg + Insulin | Pioglitazone 30 mg + Insulin |
 | --- | --- | --- | --- |
 | Total Population |  |  |  |
-| HbA1C (%) | N=177 | N=177 | N=185 |
+| HbA1c (%) | N=177 | N=177 | N=185 |
 | Baseline (mean) | 9.8 | 9.8 | 9.8 |
 | Change from baseline (adjusted mean*) | -0.3 | -1 | -1.3 |
 | Difference from placebo + Insulin (adjusted mean*) 95% Confidence Interval |  | -0.7† (-1, -0.5) | -1† (-1.3, -0.7) |
@@ -176,25 +184,26 @@ Table 24: Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Insulin
 | Difference from placebo + Insulin (adjusted mean*) 95% Confidence Interval |  | -35† (-51, -19) | -49† (-65, -33) |
 | * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. placebo + insulin |  |  |  |
 
-In the second trial, 690 patients receiving a median of 60 units per day of insulin were randomized to receive either 30 mg or 45 mg of pioglitazone hydrochloride once daily for 24 weeks in addition to their current insulin regimen.
+In the second trial, 690 patients receiving a median of 60 units per day of insulin were randomized to receive either 30 mg or 45 mg of pioglitazone once daily for 24 weeks in addition to their current insulin regimen.
 The mean reduction from baseline at Week 24 in HbA1c was 1.2% for the 30 mg dose and 1.5% for the 45 mg dose.
 The mean reduction from baseline at Week 24 in FPG was 32 mg/dL for the 30 mg dose and 46 mg/dL for the 45 mg dose (see Table 25).
 The mean daily insulin dose at baseline in both treatment groups was approximately 70 units.
-The majority of patients (55% overall, 58% treated with pioglitazone hydrochloride 30 mg, and 52% treated with pioglitazone hydrochloride 45 mg) had no change in their daily insulin dose from baseline to the final study visit.
-The mean change from baseline in daily dose of insulin (including patients with no insulin dose modifications) was -5 units in the patients treated with pioglitazone hydrochloride 30 mg and -8 units in the patients treated with pioglitazone hydrochloride 45 mg.
-The therapeutic effect of pioglitazone hydrochloride in combination with insulin was observed in patients regardless of the insulin dose.
+The majority of patients (55% overall, 58% treated with pioglitazone 30 mg, and 52% treated with pioglitazone 45 mg) had no change in their daily insulin dose from baseline to the final study visit.
+The mean change from baseline in daily dose of insulin (including patients with no insulin dose modifications) was -5 units in the patients treated with pioglitazone 30 mg and -8 units in the patients treated with pioglitazone 45 mg.
+The therapeutic effect of pioglitazone in combination with insulin was observed in patients regardless of the insulin dose.
 
-Table 25: Glycemic Parameters in a 24-Week Add-on to Insulin Trial
+Table 25.
+Glycemic Parameters in a 24-Week Add-on to Insulin Trial
 
-|  | Pioglitazone Hydrochloride 30 mg + Insulin | Pioglitazone Hydrochloride 45 mg + Insulin |
+|  | Pioglitazone 30 mg + Insulin | Pioglitazone 45 mg + Insulin |
 | --- | --- | --- |
 | Total Population |  |  |
 | HbA1c (%) | N=328 | N=328 |
 | Baseline (mean) | 9.9 | 9.7 |
 | Change from baseline (adjusted mean*) | -1.2 | -1.5 |
-| Difference from 30 mg daily pioglitazone hydrochloride + Insulin (adjusted mean*) (95% CI) |  | -0.3† (-0.5, -0.1) |
+| Difference from 30 mg daily pioglitazone + Insulin (adjusted mean*) (95% CI) |  | -0.3† (-0.5, -0.1) |
 | Fasting Plasma Glucose (mg/dL) | N=325 | N=327 |
 | Baseline (mean) | 202 | 199 |
 | Change from baseline (adjusted mean*) | -32 | -46 |
-| Difference from 30 mg daily pioglitazone hydrochloride + Insulin (adjusted mean*) (95% CI) |  | -14† (-25, -3) |
-| 95% CI = 95% confidence interval * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. 30 mg daily pioglitazone hydrochloride + insulin |  |  |
+| Difference from 30 mg daily pioglitazone + Insulin (adjusted mean*) (95% CI) |  | -14† (-25, -3) |
+| 95% CI = 95% confidence interval * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. 30 mg daily pioglitazone + insulin |  |  |
