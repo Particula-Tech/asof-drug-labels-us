@@ -21,7 +21,7 @@
    304:251-258, 1981.
 6. Illingworth DR, et al. Colestipol plus nicotinic acid in treatment of heterozygous familial hypercholesterolemia.
    Lancet 1:296-298, 1981.
-7. Kuo PT, et al. Familial type II hyperlipoproteinemia with coronary heart disease: Effect of diet-colestipolnicotinic acid treatment.
+7. Kuo PT, et al. Familial type II hyperlipoproteinemia with coronary heart disease: Effect of diet-colestipol-nicotinic acid treatment.
    Chest 79:286-291, 1981.
 8. Blankenhorn DH, et al. Beneficial Effects of Combined Colestipol-Niacin Therapy on Coronary Atherosclerosis and Coronary Venous Bypass Grafts.
    JAMA 257(23):3233-3240, 1987.

@@ -1,5 +1,5 @@
 # OVERDOSAGE
 
-Overdosage of colestipol HCl for oral suspension USP has not been reported.
+Overdosage of colestipol HCl for oral suspension has not been reported.
 Should overdosage occur, however, the chief potential harm would be obstruction of the gastrointestinal tract.
 The location of such potential obstruction, the degree of obstruction and the presence or absence of normal gut motility would determine treatment.

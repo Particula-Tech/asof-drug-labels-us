@@ -1,18 +1,18 @@
 # WARNINGS
 
-TO AVOID ACCIDENTAL INHALATION OR ESOPHAGEAL DISTRESS, COLESTIPOL HCL FOR ORAL SUSPENSION USP SHOULD NOT BE TAKEN IN ITS DRY FORM.
-ALWAYS MIX COLESTIPOL HCL FOR ORAL SUSPENSION USP WITH WATER OR OTHER FLUIDS BEFORE INGESTING.
+TO AVOID ACCIDENTAL INHALATION OR ESOPHAGEAL DISTRESS, COLESTIPOL HCL FOR ORAL SUSPENSION SHOULD NOT BE TAKEN IN ITS DRY FORM.
+ALWAYS MIX COLESTIPOL HCL FOR ORAL SUSPENSION WITH WATER OR OTHER FLUIDS BEFORE INGESTING.
 
 # PRECAUTIONS
 
-Prior to initiating therapy with colestipol HCl for oral suspension USP, secondary causes of hypercholesterolemia (e.g., poorly controlled diabetes mellitus, hypothyroidism, nephrotic syndrome, dysproteinemias, obstructive liver disease, other drug therapy, alcoholism), should be excluded, and a lipid profile performed to assess Total cholesterol, HDL-C, and triglycerides (TG).
+Prior to initiating therapy with colestipol HCl for oral suspension, secondary causes of hypercholesterolemia (e.g., poorly controlled diabetes mellitus, hypothyroidism, nephrotic syndrome, dysproteinemias, obstructive liver disease, other drug therapy, alcoholism), should be excluded, and a lipid profile performed to assess Total cholesterol, HDL-C, and triglycerides (TG).
 For individuals with TG less than 400 mg/dL (<4.5 mmol/L), LDL-C can be estimated using the following equation:
 
 LDL-C = Total cholesterol - [(Triglycerides / 5)+HDL-C]
 
 For TG levels >400 mg/dL, this equation is less accurate and LDL-C concentrations should be determined by ultracentrifugation.
 In hypertriglyceridemic patients, LDL-C may be low or normal despite elevated Total-C.
-In such cases colestipol HCl for oral suspension USP may not be indicated.
+In such cases colestipol HCl for oral suspension may not be indicated.
 
 Because it sequesters bile acids, colestipol hydrochloride may interfere with normal fat absorption and thus may reduce absorption of folic acid and fat soluble vitamins such as A, D, and K.
 
@@ -21,14 +21,14 @@ This will usually respond promptly to parenteral vitamin K1 and recurrences can 
 
 Serum cholesterol and triglyceride levels should be determined periodically based on NCEP guidelines to confirm a favorable initial and adequate long-term response.
 
-Colestipol HCl for oral suspension USP may produce or severely worsen pre-existing constipation.
+Colestipol HCl for oral suspension may produce or severely worsen pre-existing constipation.
 The dosage should be increased gradually in patients to minimize the risk of developing fecal impaction.
 In patients with pre-existing constipation, the starting dose should be 1 packet or 1 scoop once daily for 5-7 days, increasing to twice daily with monitoring of constipation and of serum lipoproteins, at least twice, 4-6 weeks apart.
 Increased fluid and fiber intake should be encouraged to alleviate constipation and a stool softener may occasionally be indicated.
 If the initial dose is well tolerated, the dose may be increased as needed by one dose/day (at monthly intervals) with periodic monitoring of serum lipoproteins.
 If constipation worsens or the desired therapeutic response is not achieved at one to six doses/day, combination therapy or alternate therapy should be considered.
 Particular effort should be made to avoid constipation in patients with symptomatic coronary artery disease.
-Constipation associated with colestipol HCl for oral suspension USP may aggravate hemorrhoids.
+Constipation associated with colestipol HCl for oral suspension may aggravate hemorrhoids.
 
 While there have been no reports of hypothyroidism induced in individuals with normal thyroid function, the theoretical possibility exists, particularly in patients with limited thyroid reserve.
 
@@ -51,11 +51,11 @@ In the Ames assay, colestipol hydrochloride was not mutagenic.
 
 Since colestipol hydrochloride is essentially not absorbed systemically (less than 0.17% of the dose), it is not expected to cause fetal harm when administered during pregnancy in recommended dosages.
 There are no adequate and well controlled studies in pregnant women, and the known interference with absorption of fat soluble vitamins may be detrimental even in the presence of supplementation.
-The use of colestipol HCl for oral suspension USP in pregnancy or by women of childbearing potential requires that the potential benefits of drug therapy be weighed against possible hazards to the mother or child.
+The use of colestipol HCl for oral suspension in pregnancy or by women of childbearing potential requires that the potential benefits of drug therapy be weighed against possible hazards to the mother or child.
 
 ## Nursing Mother
 
-Caution should be exercised when colestipol HCl for oral suspension USP are is administered to a nursing mother.
+Caution should be exercised when colestipol HCl for oral suspension is administered to a nursing mother.
 The possible lack of proper vitamin absorption described in the "pregnancy" section may have an effect on nursing infants.
 
 ## Pediatric Use
@@ -66,14 +66,14 @@ Safety and effectiveness in the pediatric population have not been established.
 
 Since colestipol hydrochloride is an anion exchange resin, it may have a strong affinity for anions other than the bile acids.
 In vitro studies have indicated that colestipol hydrochloride binds a number of drugs.
-Therefore, colestipol HCl for oral suspension USP resin may delay or reduce the absorption of concomitant oral medication.
-The interval between the administration of colestipol HCl for oral suspension USP and any other medication should be as long as possible.
-Patients should take other drugs at least one hour before or four hours after colestipol HCl for oral suspension USP to avoid impeding their absorption.
+Therefore, colestipol HCl for oral suspension resin may delay or reduce the absorption of concomitant oral medication.
+The interval between the administration of colestipol HCl for oral suspension and any other medication should be as long as possible.
+Patients should take other drugs at least one hour before or four hours after colestipol HCl for oral suspension to avoid impeding their absorption.
 
 Repeated doses of colestipol hydrochloride given prior to a single dose of propranolol in human trials have been reported to decrease propranolol absorption.
 However, in a follow-up study in normal subjects, single dose administration of colestipol hydrochloride and propranolol and twice-a-day administration for 5 days of both agents did not effect the extent of propranolol absorption, but had a small yet statistically significant effect on its rate of absorption; the time to reach maximum concentration was delayed 30 minutes.
 Effects on the absorption of other beta-blockers have not been determined.
-Therefore, patients on propranolol should be observed when colestipol HCl for oral suspension USP is either added or deleted from a therapeutic regimen.
+Therefore, patients on propranolol should be observed when colestipol HCl for oral suspension is either added or deleted from a therapeutic regimen.
 
 Studies in humans show that the absorption of chlorothiazide as reflected in urinary excretion is markedly decreased even when administered one hour before colestipol hydrochloride.
 The absorption of tetracycline, furosemide, penicillin G, hydrochlorothiazide, and gemfibrozil was significantly decreased when given simultaneously with colestipol hydrochloride; these drugs were not tested to determine the effect of administration one hour before colestipol hydrochloride.

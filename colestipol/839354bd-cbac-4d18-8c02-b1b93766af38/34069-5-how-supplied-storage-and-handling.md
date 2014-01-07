@@ -9,4 +9,4 @@ Colestipol HCl for oral suspension USP is available as follows:
 
 Each packet or level scoop supplies 5 grams of colestipol HCl for oral suspension USP.
 
-Store at 20° to 25° C (68° to 77° F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].

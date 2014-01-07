@@ -18,5 +18,5 @@ The NCEP treatment guidelines are shown below.
 | --- | --- | --- | --- |
 |  |  | LDL-Cholesterol mg/dL (mmol/L) |  |
 | No | No | ≥190 (≥4.9) | <160 (<4.1) |
-| No | Yes | ≥160 (≥4.1) | (130 (<3.4) |
-| Yes | Yes or No | ≥130 (≥3.4) | (100 (<2.6) |
+| No | Yes | ≥160 (≥4.1) | <130 (<3.4) |
+| Yes | Yes or No | ≥130 (≥3.4) | ≤100 (≤2.6) |

@@ -41,5 +41,5 @@ In many such patients it is possible to normalize serum lipid values.5-7
 Preliminary evidence suggests that the cholesterol-lowering effects of lovastatin and the bile acid sequestrant, colestipol hydrochloride, are additive.
 
 The effect of intensive lipid-lowering therapy on coronary atherosclerosis has been assessed by arteriography in hyperlipidemic patients.
-In these randomized, controlled clinical trials, patients were treated for two to four years by either conventional measures (diet, placebo, or in some cases low-dose resin), or with intensive combination therapy using diet and colestipol HCl for oral suspension USP plus either nicotinic acid or lovastatin.
+In these randomized, controlled clinical trials, patients were treated for two to four years by either conventional measures (diet, placebo, or in some cases low-dose resin), or with intensive combination therapy using diet and colestipol HCl for oral suspension plus either nicotinic acid or lovastatin.
 When compared to conventional measures, intensive lipid-lowering combination therapy significantly reduced the frequency of progression and increased the frequency of regression of coronary atherosclerotic lesions in patients with or at risk for coronary artery disease.8-11

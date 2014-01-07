@@ -12,11 +12,11 @@ Hemorrhoids may be aggravated.
 
 Other, less frequent gastrointestinal complaints consist of abdominal discomfort (abdominal pain and cramping), intestinal gas, (bloating and flatulence), indigestion and heartburn, diarrhea and loose stools, and nausea and vomiting.
 Bleeding hemorrhoids and blood in the stool have been infrequently reported.
-Peptic ulceration, cholecystitis, and cholelithiasis have been rarely reported in patients receiving colestipol HCl for oral suspension USP, and are not necessarily drug related.
+Peptic ulceration, cholecystitis, and cholelithiasis have been rarely reported in patients receiving colestipol HCl for oral suspension, and are not necessarily drug related.
 
 Transient and modest elevations of aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT) and alkaline phosphatase were observed on one or more occasions in various patients treated with colestipol hydrochloride.
 
-The following non-gastrointestinal adverse reactions have been reported with generally equal frequency in patients receiving colestipol HCl for oral suspension USP or placebo in clinical studies:
+The following non-gastrointestinal adverse reactions have been reported with generally equal frequency in patients receiving colestipol HCl for oral suspension or placebo in clinical studies:
 
 ## Cardiovascular
 
@@ -25,7 +25,7 @@ Chest pain, angina, and tachycardia have been infrequently reported.
 ## Hypersensitivity
 
 Rash has been infrequently reported.
-Urticaria and dermatitis have been rarely noted in patients receiving colestipol HCl for oral suspension USP.
+Urticaria and dermatitis have been rarely noted in patients receiving colestipol HCl for oral suspension.
 
 ## Musculoskeletal
 
