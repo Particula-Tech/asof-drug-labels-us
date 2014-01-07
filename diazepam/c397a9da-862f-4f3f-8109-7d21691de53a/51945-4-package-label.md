@@ -2,9 +2,9 @@ PRINCIPAL DISPLAY PANEL - 2 mg
 
 NDC 0378-0271-01
 
-DIAZEPAM TABLETS, USP 2 mg
+Diazepam Tablets, USP 2 mg
 
-100 TABLETS (Rx only)
+Rx only 100 TABLETS
 
 Each tablet contains 2 mg of diazepam, USP.
 
@@ -15,23 +15,25 @@ Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Protect from light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0271A6
+www.mylan.com
+
+RM0271A7
 
 PRINCIPAL DISPLAY PANEL - 5 mg
 
 NDC 0378-0345-01
 
-DIAZEPAM TABLETS, USP 5 mg
+Diazepam Tablets, USP 5 mg
 
-100 TABLETS (Rx only)
+Rx only 100 TABLETS
 
 Each tablet contains 5 mg of diazepam, USP.
 
@@ -42,23 +44,25 @@ Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Protect from light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0345A6
+www.mylan.com
+
+RM0345A7
 
 PRINCIPAL DISPLAY PANEL - 10 mg
 
 NDC 0378-0477-01
 
-DIAZEPAM TABLETS, USP 10 mg
+Diazepam Tablets, USP 10 mg
 
-100 TABLETS (Rx only)
+Rx only 100 TABLETS
 
 Each tablet contains 10 mg of diazepam, USP.
 
@@ -69,12 +73,14 @@ Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Protect from light.
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0477A8
+www.mylan.com
+
+RM0477A9
