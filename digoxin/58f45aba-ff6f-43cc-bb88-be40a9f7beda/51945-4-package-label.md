@@ -1,24 +1,21 @@
-# 500 mcg (0.5 mg)/2 mL Label
+# 500 mcg (0.5 mg) per 2 mL Carton
 
-NDC 0781-3059-72
+NDC 0781-3059-95
 
-Digoxin
-
-Injection, USP
+Digoxin Injection, USP
 
 500 mcg (0.5 mg)/2 mL
 
 [250 mcg (0.25 mg)/mL]
 
-Store at 20°-25°C (68°-
+Sterile
 
-77°F).
-Protect from light.
+For Intravenous or Intramuscular Injection
 
-Rx only Sterile 2 mL
+Dilution not required
 
-Mfd. in Canada by Sandoz
+Rx only
 
-Canada Inc. for Sandoz Inc.,
+5 x 2 mL Ampules
 
-Princeton, NJ 08540
+SANDOZ

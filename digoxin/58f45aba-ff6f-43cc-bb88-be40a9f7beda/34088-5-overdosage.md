@@ -1,75 +1,63 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Signs and Symptoms
+## 10.1 Signs and Symptoms in Adults and Children
 
-The signs and symptoms of toxicity are generally similar to those described in the ADVERSE REACTIONS section but may be more frequent and can be more severe.
+The signs and symptoms of toxicity are generally similar to those previously described [see Adverse Reactions (6.1)] but may be more frequent and can be more severe.
 Signs and symptoms of digoxin toxicity become more frequent with levels above 2 ng/mL.
-However, in deciding whether a patient’s symptoms are due to digoxin, the clinical state together with serum electrolyte levels and thyroid function are important factors (see DOSAGE AND ADMINISTRATION).
+However, in deciding whether a patient’s symptoms are due to digoxin, the clinical state together with serum electrolyte levels and thyroid function are important factors [see Dosage and Administration (2)].
 
-### Adults
+Adults: The most common signs and symptoms of digoxin toxicity are nausea, vomiting, anorexia, and fatigue that occur in 30 to 70% of patients who are overdosed.
+Extremely high serum concentrations produce hyperkalemia especially in patients with impaired renal function.
+Almost every type of cardiac arrhythmia has been associated with digoxin overdose and multiple rhythm disturbances in the same patient are common.
+Peak cardiac effects occur 3 to 6 hours following ingestion and may persist for 24 hours or longer.
+Arrhythmias that are considered more characteristic of digoxin toxicity are new-onset Mobitz type 1 A-V block, accelerated junctional rhythms, non-paroxysmal atrial tachycardia with A-V block, and bi-directional ventricular tachycardia.
+Cardiac arrest from asystole or ventricular fibrillation is usually fatal.
 
-In adults without heart disease, clinical observation suggests that an overdose of digoxin of 10 to 15 mg was the dose resulting in death of half of the patients.
-If more than 25 mg of digoxin was ingested by an adult without heart disease, death or progressive toxicity responsive only to digoxin-binding Fab antibody fragments resulted.
-Cardiac manifestations are the most frequent and serious sign of both acute and chronic toxicity.
-Peak cardiac effects generally occur 3 to 6 hours following overdosage and may persist for the ensuing 24 hours or longer.
-Digoxin toxicity may result in almost any type of arrhythmia (see ADVERSE REACTIONS).
-Multiple rhythm disturbances in the same patient are common.
-Cardiac arrest from asystole or ventricular fibrillation due to digoxin toxicity is usually fatal.
+Digoxin toxicity is related to serum concentration.
+As digoxin serum levels increase above 1.2 ng/mL, there is a potential for increase in adverse reactions.
+Furthermore, lower potassium levels increases the risk for adverse reactions.
+In adults with heart disease, clinical observations suggest that an overdose of digoxin of 10 to 15 mg results in death of half of patients.
+A dose above 25 mg ingested by an adult without heart disease appeared to be uniformly fatal if no Digoxin Immune Fab (DIGIBIND®, DIGIFAB®) was administered.
 
-Among the extra-cardiac manifestations, gastrointestinal symptoms (e.g. nausea, vomiting, anorexia) are very common (up to 80% incidence) and precede cardiac manifestations in approximately half of the patients in most literature reports.
-Neurologic manifestations (e.g. dizziness, various CNS disturbances), fatigue, and malaise are very common.
+Among the extra-cardiac manifestations, gastrointestinal symptoms (e.g., nausea, vomiting, anorexia) are very common (up to 80% incidence) and precede cardiac manifestations in approximately half of the patients in most literature reports.
+Neurologic manifestations (e.g., dizziness, various CNS disturbances), fatigue, and malaise are very common.
 Visual manifestations may also occur with aberration in color vision (predominance of yellow green) the most frequent.
 Neurological and visual symptoms may persist after other signs of toxicity have resolved.
-In chronic toxicity, non-specific extra-cardiac symptoms, such as malaise and weakness, may predominate.
+In chronic toxicity, nonspecific extra-cardiac symptoms, such as malaise and weakness, may predominate.
 
-### Children
+Children: In pediatric patients, signs and symptoms of toxicity can occur during or shortly after the dose of digoxin.
+Frequent non-cardiac effects are similar to those observed in adults although nausea and vomiting are not seen frequently in infants and small pediatric patients.
+Other reported manifestations of overdose are weight loss in older age groups, failure to thrive in infants, abdominal pain caused by mesenteric artery ischemia, drowsiness, and behavioral disturbances including psychotic episodes.
+Arrhythmias and combinations of arrhythmias that occur in adult patients can also occur in pediatric patients although sinus tachycardia, supraventricular tachycardia, and rapid atrial fibrillation are seen less frequently in pediatric patients.
+Pediatric patients are more likely to develop A-V conduction disturbances, or sinus bradycardia.
+Any arrhythmia in a child treated with digoxin should be considered related to digoxin until otherwise ruled out.
+In pediatric patients aged 1 to 3 years without heart disease, clinical observations suggest that an overdose of digoxin of 6 to 10 mg would result in death of half of the patients.
+In the same population, a dose above 10 mg resulted in death if no Digoxin Immune Fab were administered.
 
-In children aged 1 to 3 years without heart disease, clinical observation suggests that an overdose of digoxin of 6 to 10 mg was the dose resulting in death in half of the patients.
-If more than 10 mg of digoxin was ingested by a child aged 1 to 3 years without heart disease, the outcome was uniformly fatal when Fab fragment treatment was not given.
-Most manifestations of toxicity in children occur during or shortly after the loading phase with digoxin.
-The same arrhythmias or combination of arrhythmias that occur in adults can occur in pediatrics.
-Sinus tachycardia, supraventricular tachycardia, and rapid atrial fibrillation are seen less frequently in the pediatric population.
-Pediatric patients are more likely to present with an AV conduction disturbance or a sinus bradycardia.
-Any arrhythmia or alteration in cardiac conduction that develops in a child taking digoxin should be assumed to be caused by digoxin, until further evaluation proves otherwise.
+## 10.2 Treatment
 
-The frequent extracardiac manifestations similar to those seen in adults are gastrointestinal, CNS, and visual.
-However, nausea and vomiting are not frequent in infants and small children.
+Chronic Overdose
 
-In addition to the undesirable effects seen with recommended doses, weight loss in older age groups and failure to thrive in infants, abdominal pain due to mesenteric artery ischemia, drowsiness, and behavioral disturbances including psychotic manifestations have been reported in overdose.
+If there is suspicion of toxicity, discontinue digoxin and place the patient on a cardiac monitor.
+Correct factors such as electrolyte abnormalities, thyroid dysfunction, and concomitant medications [see Dosage and Administration (2.5)].
+Correct hypokalemia by administering potassium so that serum potassium is maintained between 4.0 and 5.5 mmol/L.
+Potassium is usually administered orally, but when correction of the arrhythmia is urgent and serum potassium concentration is low, potassium may be administered by the intravenous route.
+Monitor electrocardiogram for any evidence of potassium toxicity (e.g., peaking of T waves) and to observe the effect on the arrhythmia.
+Avoid potassium salts in patients with bradycardia or heart block.
+Symptomatic arrhythmias may be treated with Digoxin Immune Fab.
 
-## Treatment
+Acute Overdose
 
-In addition to cardiac monitoring, digoxin should be temporarily discontinued until the adverse reaction resolves and may be all that is required to treat the adverse reaction such as in asymptomatic bradycardia or digoxin-related heart block.
-Every effort should also be made to correct factors that may contribute to the adverse reaction (such as electrolyte disturbances, thyroid function, or concurrent medications) (see WARNINGS and PRECAUTIONS: Drug Interactions).
-Once the adverse reaction has resolved, therapy with digoxin may be reinstituted, following a careful reassessment of dose.
-
-When the primary manifestation of digoxin overdosage is a cardiac arrhythmia, additional therapy may be needed.
-
-If the rhythm disturbance is a symptomatic bradyarrhythmia or heart block, consideration should be given to the reversal of toxicity with Digoxin Immune Fab (Ovine) [DIGIBIND® or DIGIFAB®] (see Massive Digitalis Overdosage subsection), the use of atropine, or the insertion of a temporary cardiac pacemaker.
-Digoxin Immune Fab (Ovine) is a specific antidote for digoxin and may be used to reverse potentially life-threatening ventricular arrhythmias due to digoxin overdosage.
-
-If the rhythm disturbance is a ventricular arrhythmia, consideration should be given to the correction of electrolyte disorders, particularly if hypokalemia (see Administration of Potassium subsection) or hypomagnesemia is present.
+Patients who have intentionally or accidently ingested massive doses of digoxin should receive activated charcoal orally or by nasogastric tube regardless of the time since ingestion since digoxin recirculates to the intestine by enterohepatic circulation.
+In addition to cardiac monitoring, temporarily discontinue digoxin until the adverse reaction resolves.
+Correct factors that may be contributing to the adverse reactions [see Warnings and Precautions (5)].
+In particular, correct hypokalemia and hypomagnesemia.
+Digoxin is not effectively removed from the body by dialysis because of its large extravascular volume of distribution.
+Life threatening arrhythmias (ventricular tachycardia, ventricular fibrillation, high degree A-V block, bradyarrhythma, sinus arrest) or hyperkalemia requires administration of Digoxin Immune Fab.
+Digoxin Immune Fab has been shown to be 80 to 90% effective in reversing signs and symptoms of digoxin toxicity.
+Bradycardia and heart block caused by digoxin are parasympathetically mediated and respond to atropine.
+A temporary cardiac pacemaker may also be used.
 Ventricular arrhythmias may respond to lidocaine or phenytoin.
-
-### Administration of Potassium
-
-Before administering potassium in digoxin overdose for hypokalemia, the serum potassium must be known and every effort should be made to maintain the serum potassium concentration between 4 and 5.5 mmol/L.
-Potassium salts should be avoided as they may be dangerous in patients who manifest bradycardia or heart block due to digoxin (unless primarily related to supraventricular tachycardia) and in the setting of massive digitalis overdosage.
-Potassium is usually administered orally, but when correction of the arrhythmia is urgent and the serum potassium concentration is low, potassium may be administered cautiously by the intravenous route.
-The electrocardiogram should be monitored for any evidence of potassium toxicity (e.g., peaking of T waves) and to observe the effect on the arrhythmia.
-
-## Massive Digitalis Overdosage
-
-Manifestations of life-threatening toxicity include ventricular tachycardia or ventricular fibrillation, or progressive bradyarrhythmias, or heart block.
-
-Digoxin Immune Fab (Ovine) should be used to reverse the toxic effects of ingestion of a massive overdose.
-The decision to administer Digoxin Immune Fab (Ovine) to a patient who has ingested a massive dose of digoxin but who has not yet manifested life-threatening toxicity should depend on the likelihood that life-threatening toxicity will occur (see above).
-
-Digoxin is not effectively removed from the body by dialysis due to its large extravascular volume of distribution.
-Patients with massive digitalis ingestion should receive large doses of activated charcoal to prevent absorption and bind digoxin in the gut during enteroenteric recirculation.
-Emesis may be indicated especially if ingestion has occurred within 30 minutes of the patient’s presentation at the hospital.
-Emesis should not be induced in patients who are obtunded.
-If a patient presents more than 2 hours after ingestion or already has toxic manifestations, it may be unsafe to induce vomiting because such maneuvers may induce an acute vagal episode that can worsen digitalis-related arrhythmias.
-
-In cases where a large amount of digoxin has been ingested, hyperkalemia may be present due to release of potassium from skeletal muscle.
-Hyperkalemia caused by massive digitalis toxicity is best treated with Digoxin Immune Fab (Ovine); initial treatment with glucose and insulin may also be required if hyperkalemia itself is acutely life-threatening.
+When a large amount of digoxin has been ingested, especially in patients with impaired renal function, hyperkalemia may be present due to release of potassium from skeletal muscle.
+In this case, treatment with Digoxin Immune Fab is indicated; an initial treatment with glucose and insulin may be needed if the hyperkalemia is life-threatening.
+Once the adverse reaction has resolved, therapy with digoxin may be reinstituted following a careful reassessment of dose.
