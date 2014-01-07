@@ -46,7 +46,7 @@ Anyone considering the use of PRISTIQ in a child or adolescent must balance the 
 
 ## 8.5 Geriatric Use
 
-Of the 4,158 patients in clinical studies with PRISTIQ, 6% were 65 years of age or older.
+Of the 4,158 patients in pre-marketing clinical studies with PRISTIQ, 6% were 65 years of age or older.
 No overall differences in safety or efficacy were observed between these patients and younger patients; however, in the short-term placebo-controlled studies, there was a higher incidence of systolic orthostatic hypotension in patients ≥65 years of age compared to patients <65 years of age treated with PRISTIQ [see Adverse Reactions (6)].
 For elderly patients, possible reduced renal clearance of PRISTIQ should be considered when determining dose [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
