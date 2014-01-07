@@ -51,7 +51,7 @@ Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Musc
 
 Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia
 
-Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Mania
+Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Libido changes, Mania
 
 Urogenital System: Priapism
 

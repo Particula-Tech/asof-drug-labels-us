@@ -49,7 +49,12 @@ Advise patients that QUILLIVANT XR, at recommended doses, can cause psychotic or
 
 Suppression of Growth
 
-Advise patients, families, and caregivers that QUILLIVANT XR can cause slowing of growth and weight loss [see Warnings and Precautions (5.5)].
+Advise patients, families, and caregivers that QUILLIVANT XR can cause slowing of growth and weight loss [see Warnings and Precautions (5.7)].
+
+Priapism
+
+Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
+Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.5)].
 
 Circulation Problems in Fingers and Toes [Peripheral vasculopathy, including Raynaud's phenomenon]
 

@@ -45,7 +45,7 @@ Safety and efficacy in pediatric patients below the age of 6 years have not been
 Long Term Suppression of Growth
 
 Growth should be monitored during treatment with stimulants, including QUILLIVANT XR.
-Children who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.5)].
+Children who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.7)].
 
 Juvenile Animal Data
 

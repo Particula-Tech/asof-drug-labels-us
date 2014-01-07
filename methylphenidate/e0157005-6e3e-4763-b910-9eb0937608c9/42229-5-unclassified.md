@@ -1,4 +1,4 @@
-Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852 LAB-0656-3.0
+Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852 LAB-0656-4.0
 
 Instructions for Use
 

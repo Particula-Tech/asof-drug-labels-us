@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
+PRINCIPAL DISPLAY PANEL - 300 mg Bottle Label
 
 Pfizer
 
@@ -18,7 +18,7 @@ LiquiXR™ TECHNOLOGY
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 300 mg Bottle Carton
+PRINCIPAL DISPLAY PANEL - 300 mg Bottle Carton
 
 Pfizer
 
@@ -38,7 +38,7 @@ SHAKE WELL BEFORE USE
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 600 mg Bottle Label
+PRINCIPAL DISPLAY PANEL - 600 mg Bottle Label
 
 Pfizer
 
@@ -58,7 +58,7 @@ LiquiXR™ TECHNOLOGY
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 600 mg Bottle Carton
+PRINCIPAL DISPLAY PANEL - 600 mg Bottle Carton
 
 Pfizer
 
@@ -78,7 +78,7 @@ SHAKE WELL BEFORE USE
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 750 mg Bottle Label
+PRINCIPAL DISPLAY PANEL - 750 mg Bottle Label
 
 Pfizer
 
@@ -98,7 +98,7 @@ LiquiXR™ TECHNOLOGY
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 750 mg Bottle Carton
+PRINCIPAL DISPLAY PANEL - 750 mg Bottle Carton
 
 Pfizer
 
@@ -118,7 +118,7 @@ SHAKE WELL BEFORE USE
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 900 mg Bottle Label
+PRINCIPAL DISPLAY PANEL - 900 mg Bottle Label
 
 Pfizer
 
@@ -138,7 +138,7 @@ LiquiXR™ TECHNOLOGY
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 900 mg Bottle Carton
+PRINCIPAL DISPLAY PANEL - 900 mg Bottle Carton
 
 Pfizer
 

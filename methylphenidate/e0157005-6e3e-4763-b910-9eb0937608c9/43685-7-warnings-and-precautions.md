@@ -35,7 +35,14 @@ CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g
 If such symptoms occur, consider discontinuing QUILLIVANT XR.
 In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared to 0 in placebo-treated patients.
 
-## 5.5 Peripheral Vasculopathy, including Raynaud's Phenomenon
+## 5.5 Priapism
+
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products in both pediatric and adult patients.
+Priapism was not reported with drug initiation but developed after some time on the drug, often subsequent to an increase in dose.
+Priapism has also appeared during a period of drug withdrawal (drug holidays or during discontinuation).
+Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
+
+## 5.6 Peripheral Vasculopathy, including Raynaud's Phenomenon
 
 Stimulants, including QUILLIVANT XR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
@@ -44,7 +51,7 @@ Signs and symptoms generally improve after reduction in dose or discontinuation 
 Careful observation of digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
-## 5.6 Long-Term Suppression of Growth
+## 5.7 Long-Term Suppression of Growth
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including QUILLIVANT XR.

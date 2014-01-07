@@ -99,6 +99,9 @@ See "What is the most important information I should know about QUILLIVANT XR?" 
 
 Other serious side effects include:
 
+- painful and prolonged erections (priapism) have occurred with methylphenidate.
+  If you or your child develop priapism seek medical help right away.
+  Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately
 - slowing of growth (height and weight) in children
 
 Common side effects include:
@@ -157,6 +160,6 @@ Inactive Ingredients: sodium polystyrene sulfonate, povidone, triacetin, polyvin
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0657-3.0
+LAB-0657-4.0
 
-August 2013
+December 2013
