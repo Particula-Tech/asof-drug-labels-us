@@ -1,8 +1,7 @@
-125 mcg (0.125 mg) and 250 mcg (0.25 mg)
+Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
 
-Rx Only
+684-07 Rev.
+11/2013
 
-Distributed By: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
-
-Rev.
-03/2010 684-06
+DIGIBIND® is a registered trademark of GlaxoSmithKline.
+DIGIFAB® is a registered trademark of Prostherics Inc.
