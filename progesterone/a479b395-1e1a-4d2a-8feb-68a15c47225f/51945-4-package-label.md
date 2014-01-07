@@ -6,7 +6,7 @@ NDC 63323-261-10
 
 Progesterone Injection, USP
 
-50 mg/mL
+500 mg/10 mL (50 mg/mL)
 
 FOR INTRAMUSCULAR USE ONLY
 
@@ -24,7 +24,7 @@ NDC 63323-261-10
 
 Progesterone Injection, USP
 
-50 mg/mL
+500 mg/10 mL (50 mg/mL)
 
 FOR INTRAMUSCULAR USE ONLY
 

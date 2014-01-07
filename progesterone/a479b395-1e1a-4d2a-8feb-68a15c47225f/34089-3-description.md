@@ -13,4 +13,4 @@ C21H30O2 M.W.
 
 Pregn-4-ene-3, 20-dione
 
-Each mL contains: Progesterone 50 mg, Benzyl Alcohol 10% as preservative in Sesame Oil q.s.
+Each mL contains: Progesterone 50 mg, benzyl alcohol 10% as preservative in sesame oil q.s.
