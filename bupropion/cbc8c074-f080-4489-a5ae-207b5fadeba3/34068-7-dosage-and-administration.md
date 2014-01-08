@@ -1,54 +1,41 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## General Dosing Considerations
+## 2.1 General Instructions for Use
 
-It is particularly important to administer WELLBUTRIN SR in a manner most likely to minimize the risk of seizure (see WARNINGS).
-Gradual escalation in dosage is also important if agitation, motor restlessness, and insomnia, often seen during the initial days of treatment, are to be minimized.
-If necessary, these effects may be managed by temporary reduction of dose or the short-term administration of an intermediate to long-acting sedative hypnotic.
-A sedative hypnotic usually is not required beyond the first week of treatment.
-Insomnia may also be minimized by avoiding bedtime doses.
-If distressing, untoward effects supervene, dose escalation should be stopped.
-WELLBUTRIN SR should be swallowed whole and not crushed, divided, or chewed, as this may lead to an increased risk of adverse effects including seizures.
+To minimize the risk of seizure, increase the dose gradually [see Warnings and Precautions (5.3)].
+WELLBUTRIN SR Tablets should be swallowed whole and not crushed, divided, or chewed.
+WELLBUTRIN SR may be taken with or without food.
 
-## Initial Treatment
-
-The usual adult target dose for WELLBUTRIN SR is 300 mg/day, given as 150 mg twice daily.
-Dosing with WELLBUTRIN SR should begin at 150 mg/day given as a single daily dose in the morning.
-If the 150-mg initial dose is adequately tolerated, an increase to the 300-mg/day target dose, given as 150 mg twice daily, may be made as early as day 4 of dosing.
+The usual adult target dose for WELLBUTRIN SR is 300 mg per day, given as 150 mg twice daily.
+Initiate dosing with 150 mg per day given as a single daily dose in the morning.
+After 3 days of dosing, the dose may be increased to the 300-mg-per-day target dose, given as 150 mg twice daily.
 There should be an interval of at least 8 hours between successive doses.
+A maximum of 400 mg per day, given as 200 mg twice daily, may be considered for patients in whom no clinical improvement is noted after several weeks of treatment at 300 mg per day.
+To avoid high peak concentrations of bupropion and/or its metabolites, do not exceed 200 mg in any single dose.
 
-## Increasing the Dosage Above 300 mg/day
+It is generally agreed that acute episodes of depression require several months or longer of antidepressant drug treatment beyond the response in the acute episode.
+It is unknown whether the dose of WELLBUTRIN SR needed for maintenance treatment is identical to the dose that provided an initial response.
+Periodically reassess the need for maintenance treatment and the appropriate dose for such treatment.
 
-As with other antidepressants, the full antidepressant effect of WELLBUTRIN SR may not be evident until 4 weeks of treatment or longer.
-An increase in dosage to the maximum of 400 mg/day, given as 200 mg twice daily, may be considered for patients in whom no clinical improvement is noted after several weeks of treatment at 300 mg/day.
+## 2.2 Dose Adjustment in Patients With Hepatic Impairment
 
-## Maintenance Treatment
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of WELLBUTRIN SR is 100 mg per day or 150 mg every other day.
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
-It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
-In a study in which patients with major depressive disorder, recurrent type, who had responded during 8 weeks of acute treatment with WELLBUTRIN SR were assigned randomly to placebo or to the same dose of WELLBUTRIN SR (150 mg twice daily) during 44 weeks of maintenance treatment as they had received during the acute stabilization phase, longer-term efficacy was demonstrated (see CLINICAL TRIALS under CLINICAL PHARMACOLOGY).
-Based on these limited data, it is unknown whether or not the dose of WELLBUTRIN SR needed for maintenance treatment is identical to the dose needed to achieve an initial response.
-Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
+## 2.3 Dose Adjustment in Patients With Renal Impairment
 
-## Dosage Adjustment for Patients With Impaired Hepatic Function
+Consider reducing the dose and/or frequency of WELLBUTRIN SR in patients with renal impairment (Glomerular Filtration Rate <90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-WELLBUTRIN SR should be used with extreme caution in patients with severe hepatic cirrhosis.
-The dose should not exceed 100 mg every day or 150 mg every other day in these patients.
-WELLBUTRIN SR should be used with caution in patients with hepatic impairment (including mild-to-moderate hepatic cirrhosis) and a reduced frequency and/or dose should be considered in patients with mild-to-moderate hepatic cirrhosis (see CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
-
-## Dosage Adjustment for Patients With Impaired Renal Function
-
-WELLBUTRIN SR should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
-
-## Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
+## 2.4 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with WELLBUTRIN SR.
-Conversely, at least 14 days should be allowed after stopping WELLBUTRIN SR before starting an MAOI antidepressant (see CONTRAINDICATIONS and DRUG INTERACTIONS).
+Conversely, at least 14 days should be allowed after stopping WELLBUTRIN SR before starting an MAOI antidepressant [see Contraindications (4) and Drug Interactions (7.6)].
 
-## Use of WELLBUTRIN SR With Reversible MAOIs Such as Linezolid or Methylene Blue
+## 2.5 Use of WELLBUTRIN SR With Reversible MAOIs Such as Linezolid or Methylene Blue
 
 Do not start WELLBUTRIN SR in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
 Drug interactions can increase the risk of hypertensive reactions.
-In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered (see CONTRAINDICATIONS and DRUG INTERACTIONS).
+In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered [see Contraindications (4) and Drug Interactions (7.6)].
 
 In some cases, a patient already receiving therapy with WELLBUTRIN SR may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of hypertensive reactions in a particular patient, WELLBUTRIN SR should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
@@ -56,4 +43,4 @@ The patient should be monitored for 2 weeks or until 24 hours after the last dos
 Therapy with WELLBUTRIN SR may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with WELLBUTRIN SR is unclear.
-The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use (see CONTRAINDICATIONS and DRUG INTERACTIONS).
+The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4) and Drug Interactions (7.6)].

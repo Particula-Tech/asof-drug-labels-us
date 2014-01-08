@@ -1,16 +1,38 @@
-# CLINICAL TRIALS
+# 14 CLINICAL STUDIES
 
-The efficacy of the immediate-release formulation of bupropion as a treatment for depression was established in two 4-week, placebo-controlled trials in adult inpatients with depression and in one 6-week, placebo-controlled trial in adult outpatients with depression.
-In the first study, patients were titrated in a bupropion dose range of 300 to 600 mg/day on a 3 times daily schedule; 78% of patients received maximum doses of 450 mg/day or less.
-This trial demonstrated the effectiveness of the immediate-release formulation of bupropion on the Hamilton Depression Rating Scale (HDRS) total score, the depressed mood item (item 1) from that scale, and the Clinical Global Impressions (CGI) severity score.
-A second study included 2 fixed doses of the immediate-release formulation of bupropion (300 and 450 mg/day) and placebo.
-This trial demonstrated the effectiveness of the immediate-release formulation of bupropion, but only at the 450-mg/day dose; the results were positive for the HDRS total score and the CGI severity score, but not for HDRS item 1.
-In the third study, outpatients received 300 mg/day of the immediate-release formulation of bupropion.
-This study demonstrated the effectiveness of the immediate-release formulation of bupropion on the HDRS total score, HDRS item 1, the Montgomery-Asberg Depression Rating Scale, the CGI severity score, and the CGI improvement score.
+The efficacy of the immediate‑release formulation of bupropion in the treatment of major depressive disorder was established in two 4‑week, placebo‑controlled trials in adult inpatients with MDD (Trials 1 and 2 in Table 6) and in one 6‑week, placebo‑controlled trial in adult outpatients with MDD (Trial 3 in Table 6).
+In the first trial, the dose range of bupropion was 300 mg to 600 mg per day administered in divided doses; 78% of subjects were treated with doses of 300 mg to 450 mg per day.
+This trial demonstrated the effectiveness of the immediate‑release formulation of bupropion by the Hamilton Depression Rating Scale (HDRS) total score, the HDRS depressed mood item (item 1), and the Clinical Global Impressions severity score (CGI-S).
+The second trial included 2 doses of the immediate‑release formulation of bupropion (300 and 450 mg per day) and placebo.
+This trial demonstrated the effectiveness of the immediate‑release formulation of bupropion, but only at the 450‑mg-per-day dose.
+The efficacy results were significant for the HDRS total score and the CGI-S score, but not for HDRS item 1.
+In the third trial, outpatients were treated with 300 mg per day of the immediate‑release formulation of bupropion.
+This trial demonstrated the efficacy of the immediate‑release formulation of bupropion as measured by the HDRS total score, the HDRS item 1, the Montgomery‑Asberg Depression Rating Scale (MADRS), the CGI-S score, and the CGI-Improvement Scale (CGI-I) score.
 
-Although there are not as yet independent trials demonstrating the antidepressant effectiveness of the sustained-release formulation of bupropion, studies have demonstrated the bioequivalence of the immediate-release and sustained-release forms of bupropion under steady-state conditions, i.e., bupropion sustained-release 150 mg twice daily was shown to be bioequivalent to 100 mg 3 times daily of the immediate-release formulation of bupropion, with regard to both rate and extent of absorption, for parent drug and metabolites.
+Table 6.
+Efficacy of Immediate-Release Bupropion for the Treatment of Major Depressive Disorder
 
-In a longer-term study, outpatients meeting DSM-IV criteria for major depressive disorder, recurrent type, who had responded during an 8-week open trial on WELLBUTRIN SR (150 mg twice daily) were randomized to continuation of their same dose of WELLBUTRIN SR or placebo, for up to 44 weeks of observation for relapse.
+| Trial Number | Treatment Group | Primary Efficacy Measure: HDRS |  |  |
+| --- | --- | --- | --- | --- |
+| Mean Baseline Score (SD) | LS Mean Score at Endpoint Visit (SE) | Placebo-substracted Differencea (95% CI) |  |  |
+| Trial 1 | Immediate-Release Bupropion 300-600 mg/dayb (n = 48) | 28.5 (5.1) | 14.9 (1.3) | -4.7 (-8.8, -0.6) |
+| Placebo (n = 27) | 29.3 (7.0) | 19.6 (1.6) | -- |  |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
+| Trial 2 | Immediate-Release Bupropion 300 mg/day (n = 36) | 32.4 (5.9) | -15.5 (1.7) | -4.1 |
+| Immediate-Release Bupropion 450 mg/dayb (n = 34) | 34.8 (4.6) | -17.4 (1.7) | -5.9 (-10.5, -1.4) |  |
+| Placebo (n = 39) | 32.9 (5.4) | -11.5 (1.6) | -- |  |
+| Trial 3 | Immediate-Release Bupropion 300 mg/dayb (n = 110) | 26.5 (4.3) | -12.0 (NA) | -3.9 (-5.7, -1.0) |
+| Placebo (n = 106) | 27.0 (3.5) | -8.7 (NA) | -- |  |
+
+- n: sample size; SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval included for doses that were demonstrated to be effective; NA: not available.
+
+- a Difference (drug minus placebo) in least-squares estimates with respect to the primary efficacy parameter.
+  For Trial 1, it refers to the mean score at the endpoint visit; for Trials 2 and 3, it refers to the mean change from baseline to the endpoint visit.
+- bDoses that are demonstrated to be statistically significantly superior to placebo.
+
+Although there are not as yet independent trials demonstrating the antidepressant effectiveness of the sustained‑release formulation of bupropion, trials have demonstrated the bioequivalence of the immediate‑release and sustained‑release forms of bupropion under steady‑state conditions, i.e., bupropion sustained‑release 150 mg twice daily was shown to be bioequivalent to 100 mg 3 times daily of the immediate‑release formulation of bupropion, with regard to both rate and extent of absorption, for parent drug and metabolites.
+
+In a longer-term trial, outpatients meeting DSM-IV criteria for major depressive disorder, recurrent type, who had responded during an 8-week open trial on WELLBUTRIN SR (150 mg twice daily) were randomized to continuation of their same dose of WELLBUTRIN SR or placebo for up to 44 weeks of observation for relapse.
 Response during the open phase was defined as CGI Improvement score of 1 (very much improved) or 2 (much improved) for each of the final 3 weeks.
 Relapse during the double-blind phase was defined as the investigator’s judgment that drug treatment was needed for worsening depressive symptoms.
-Patients receiving continued treatment with WELLBUTRIN SR experienced significantly lower relapse rates over the subsequent 44 weeks compared to those receiving placebo.
+Patients receiving continued treatment with WELLBUTRIN SR experienced significantly lower relapse rates over the subsequent 44 weeks compared with those receiving placebo.
