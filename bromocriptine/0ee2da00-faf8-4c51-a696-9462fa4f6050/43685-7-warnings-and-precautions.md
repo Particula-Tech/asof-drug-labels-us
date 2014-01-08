@@ -17,8 +17,8 @@ Some cases of strokes and seizures were also preceded by visual disturbances (bl
 Nine cases of acute myocardial infarction have been reported.
 
 Although a causal relationship between bromocriptine administration and hypertension, seizures, strokes, and myocardial infarction in postpartum women has not been established, use of the drug for prevention of physiological lactation, or in patients with uncontrolled hypertension is not recommended.
-In patients being treated for hyperprolactinemia bromocriptine should be withdrawn when pregnancy is diagnosed (see PRECAUTIONS, Hyperprolactinemic States).
-In the event that bromocriptine is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS, Hyperprolactinemic States) and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
+In patients being treated for hyperprolactinemiabromocriptine should be withdrawn when pregnancy is diagnosed (see PRECAUTIONS, Hyperprolactinemic States).
+In the event that bromocriptine is reinstituted to control a rapidly expanding macroadenoma(see PRECAUTIONS, Hyperprolactinemic States) and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
 When bromocriptine is being used to treat acromegaly or Parkinson's disease in patients who subsequently become pregnant, a decision should be made as to whether the therapy continues to be medically necessary or can be withdrawn.
 If it is continued, the drug should be withdrawn in those who may experience hypertensive disorders of pregnancy (including eclampsia, preeclampsia, or pregnancy-induced hypertension) unless withdrawal of bromocriptine is considered to be medically contraindicated.
 Because of the possibility of an interaction between bromocriptine and other ergot alkaloids, the concomitant use of these medications is not recommended.
