@@ -1,27 +1,23 @@
 PRINCIPAL DISPLAY PANEL - 4 mg Tablet Bottle Label
 
-NDC 0049-2710-30
-
-30 Tablets
-
-Rx only
+Pfizer NDC 0049-2710-30
 
 Cardura® XL (doxazosin mesylate extended release tablets)
 
 4 mg*
 
-Pfizer Distributed by Roerig Division of Pfizer Inc, NY, NY 10017
+Tablets
+
+30 Tablets Rx only
 
 PRINCIPAL DISPLAY PANEL - 8 mg Tablet Bottle Label
 
-NDC 0049-2720-30
-
-30 Tablets
-
-Rx only
+Pfizer NDC 0049-2720-30
 
 Cardura® XL (doxazosin mesylate extended release tablets)
 
 8 mg*
 
-Pfizer Distributed by Roerig Division of Pfizer Inc, NY, NY 10017
+Tablets
+
+30 Tablets Rx only
