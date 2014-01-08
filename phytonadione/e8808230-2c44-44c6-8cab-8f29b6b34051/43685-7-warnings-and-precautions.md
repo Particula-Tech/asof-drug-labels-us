@@ -31,7 +31,7 @@ Tissue loading may occur at even lower rates of administration.
 ## Drug Interactions
 
 Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used.
-If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin- depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium.
+If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium.
 
 Laboratory Tests
 
