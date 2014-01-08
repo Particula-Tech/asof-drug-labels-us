@@ -1,35 +1,8 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-WELLBUTRIN Tablets, 75 mg of bupropion hydrochloride, are yellow-gold, round, biconvex tablets printed with “WELLBUTRIN 75” in bottles of 100 (NDC 0173-0177-55).
+WELLBUTRIN Tablets, 75 mg of bupropion hydrochloride, are yellow‑gold, round, biconvex tablets printed with “WELLBUTRIN 75” in bottles of 100 (NDC 0173-0177-55).
 
 WELLBUTRIN Tablets, 100 mg of bupropion hydrochloride, are red, round, biconvex tablets printed with “WELLBUTRIN 100” in bottles of 100 (NDC 0173-0178-55).
 
-Store at 15° to 25°C (59° to 77°F).
+Store at room temperature, 20° to 25°C (68° to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [See USP Controlled Room Temperature].
 Protect from light and moisture.
-
-WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and ZYBAN are registered trademarks of GlaxoSmithKline.
-
-KALETRA is a registered trademark of Abbott Laboratories.
-
-Distributed by:
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Manufactured by:
-
-DSM Pharmaceuticals, Inc.
-
-Greenville, NC 27834 for
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-©2013, GlaxoSmithKline.
-All rights reserved.
-
-March 2013
-
-WLT:9PI

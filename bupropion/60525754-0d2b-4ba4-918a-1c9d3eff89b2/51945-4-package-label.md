@@ -1,10 +1,10 @@
-# Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0177-55
 
 WELLBUTRIN®
 
-(bupropionHCl)
+(bupropion HCl)
 
 Tablets
 
@@ -14,7 +14,7 @@ Three Times Daily
 
 75 mg
 
-WARNING: Do not use with other medicines that contain bupropionHCl.
+WARNING: Do not use with other medicines that contain bupropion HCl.
 
 Federal Law requires dispensing of WELLBUTRIN® with the Medication Guide under this label.
 
@@ -39,16 +39,14 @@ Research Triangle Park, NC 27709
 
 Made in Germany
 
-10000000099181 Rev.
-10/11
-
-# Principal Display Panel
+10000000119792 Rev.
+11/13
 
 NDC 0173-0178-55
 
 WELLBUTRIN®
 
-(bupropionHCl)
+(bupropion HCl)
 
 Tablets
 
@@ -58,7 +56,7 @@ Three Times Daily
 
 100 mg
 
-WARNING: Do not use with other medicines that contain bupropionHCl.
+WARNING: Do not use with other medicines that contain bupropion HCl.
 
 Federal Law requires dispensing of WELLBUTRIN® with the Medication Guide under this label.
 
@@ -83,5 +81,5 @@ Research Triangle Park, NC 27709
 
 Made in Germany
 
-10000000099182 Rev.
-10/11
+10000000119793 Rev.
+11/13
