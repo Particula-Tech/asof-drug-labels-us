@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Ketoconazole Shampoo, 2% is indicated for the treatment of tinea (pityriasis) versicolor caused by or presumed to be caused by Pityrosporumorbiculare (also known as Malasseziafurfur or M. orbiculare).
+Ketoconazole Shampoo, 2% is indicated for the treatment of tinea (pityriasis) versicolor caused by or presumed to be caused by Pityrosporumorbiculare (also known as Malassezia furfur or M. orbiculare).
 
 Note: Tinea (pityriasis) versicolor may give rise to hyperpigmented or hypopigmented patches on the trunk which may extend to the neck, arms and upper thighs.
 Treatment of the infection may not immediately result in normalization of pigment to the affected sites.
