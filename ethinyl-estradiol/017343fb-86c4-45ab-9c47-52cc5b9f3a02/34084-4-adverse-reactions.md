@@ -39,4 +39,4 @@ Vascular disorders: arterial events (including arterial thromboembolism and myoc
 
 Skin and subcutaneous tissue disorders: urticaria, chloasma
 
-Reproductive system and breast disorders: penile disorders, including local reactions on penis (in male partners of women using NuvaRing)
+Reproductive system and breast disorders: penile disorders, including local reactions on penis (in male partners of women using NuvaRing), galactorrhea

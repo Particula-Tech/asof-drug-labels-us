@@ -7,9 +7,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2001-2012 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 10/2013
+Revised: 12/2013
 
-uspi-mk8342a-rng-1310r04
+uspi-mk8342a-rng-1312r05
 
 Instructions for Use
 
@@ -167,6 +167,6 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2001-2012 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 10/2013
+Revised: 12/2013
 
-usppi-mk8342a-rng-1310r04
+usppi-mk8342a-rng-1312r05

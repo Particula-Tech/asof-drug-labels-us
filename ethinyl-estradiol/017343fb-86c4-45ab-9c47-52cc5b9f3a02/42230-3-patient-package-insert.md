@@ -1,4 +1,4 @@
-# Patient Information
+Patient Information
 
 NuvaRing® (NEW-vah-ring) (etonogestrel/ethinyl estradiol vaginal ring)
 
@@ -91,7 +91,7 @@ Some medicines and herbal products may make hormonal birth control less effectiv
 
 - certain anti-seizure medicines (such as barbiturates, carbamazepine, felbamate, oxcarbazepine, phenytoin, rufinamide, topiramate)
 - medicine to treat fungal infections (griseofulvin)
-- certain combinations of HIV medicines, (such as nelfinavir, ritonavir darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonaivr)
+- certain combinations of HIV medicines, (such as nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir)
 - certain hepatitis C (HCV) medicines (such as boceprevir, telaprevir)
 - non-nucleoside reverse transcriptase inhibitors (such as nevirapine)
 - medicine to treat tuberculosis (such as rifampicin and rifabutin)
@@ -207,7 +207,7 @@ If these symptoms occur, do not stop using NuvaRing.
 The problem will usually go away.
 If it doesn't go away, check with your healthcare provider.
 
-Other side effects seen with NuvaRing include allergic reaction, hives, and penis discomfort of the partner (such as irritation, rash, itching).
+Other side effects seen with NuvaRing include allergic reaction, hives, breast discharge, and penis discomfort of the partner (such as irritation, rash, itching).
 
 Less common side effects seen with combination hormonal birth control include:
 
