@@ -71,6 +71,15 @@ These patients should be carefully monitored for abnormal prolongation of the PR
 
 ## Drug interactions
 
+### HMG-CoA reductase inhibitors
+
+The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
+
+Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.
+Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
+Limit the daily dose of lovastatin to 40 mg.
+Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
+
 ### Beta-blockers
 
 Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction and/or cardiac contractility.

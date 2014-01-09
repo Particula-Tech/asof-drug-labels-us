@@ -6,8 +6,6 @@ In patients with hypertrophic cardiomyopathy (IHSS), alpha-adrenergic agents (ph
 If further support is necessary, dopamine HCl or dobutamine HCl may be administered.
 Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.
 
-Rx only
-
 Manufactured for: G.D.
 Searle LLC Division of Pfizer, Inc NY, NY 10017
 
@@ -17,4 +15,4 @@ Pfizer, Inc Caguas, PR 00725
 
 (240 mg caplets) Abbott GmbH & Co. KG Ludwigshafen, Germany
 
-LAB-0268-5.0 October 2009
+LAB-0268-7.0 October 2013
