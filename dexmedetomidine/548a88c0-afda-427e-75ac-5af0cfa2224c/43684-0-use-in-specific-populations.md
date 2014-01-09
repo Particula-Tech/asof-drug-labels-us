@@ -27,8 +27,10 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-The efficacy, safety, and pharmacokinetics of Precedex in pediatric patients less than 18 years of age have not been established.
-Therefore, Precedex should not be used in this population.
+Safety and efficacy have not been established for Procedural or ICU Sedation in pediatric patients.
+One assessor-blinded trial in pediatric patients and two open label studies in neonates were conducted to assess efficacy for ICU sedation.
+These studies did not meet their primary efficacy endpoints and the safety data submitted were insufficient to fully characterize the safety profile of Precedex for this patient population.
+The use of Precedex for procedural sedation in pediatric patients has not been evaluated.
 
 ## 8.5 Geriatric Use
 

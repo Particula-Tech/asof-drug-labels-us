@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Precedex is a relatively selective alpha2-adrenergic agonist with sedative properties.
-Alpha2 selectivity is observed in animals following slow intravenous infusion of low and medium doses (10–300 mcg/kg).
+Alpha2 selectivity is observed in animals following slow intravenous infusion of low and medium doses (10-300 mcg/kg).
 Both alpha1 and alpha2 activity is observed following slow intravenous infusion of high doses (≥1000 mcg/kg) or with rapid intravenous administration.
 
 ## 12.2 Pharmacodynamics
@@ -24,13 +24,13 @@ Table 8: Mean ± SD Pharmacokinetic Parameters
 | Parameter | Loading Infusion (min)/Total Infusion Duration (hrs) |  |  |  |
 | --- | --- | --- | --- | --- |
 | 10 min/12 hrs | 10 min/24 hrs | 10 min/24 hrs | 35 min/24 hrs |  |
-| Precedex Target Plasma Concentration (ng/mL) and Dose (mcg/kg/hr) |  |  |  |  |
+| Dexmedetomidine Target Plasma Concentration (ng/mL) and Dose (mcg/kg/hr) |  |  |  |  |
 | 0.3/0.17 | 0.3/0.17 | 0.6/0.33 | 1.25/0.70 |  |
 | t1/2*, hour | 1.78 ± 0.30 | 2.22 ± 0.59 | 2.23 ± 0.21 | 2.50 ± 0.61 |
 | CL, liter/hour | 46.3 ± 8.3 | 43.1 ± 6.5 | 35.3 ± 6.8 | 36.5 ± 7.5 |
 | Vss, liter | 88.7 ± 22.9 | 102.4 ± 20.3 | 93.6 ± 17.0 | 99.6 ± 17.8 |
-| Avg Css #, ng/mL | 0.27 ± 0.05 | 0.27 ± 0.05 | 0.67 ± 0.10 | 1.37 ± 0.20 |
-| * Presented as harmonic mean and pseudo standard deviation.# Mean Css = Average steady-state concentration of Precedex. The mean Css was calculated based on post-dose sampling from 2.5 to 9 hours samples for 12 hour infusion and post-dose sampling from 2.5 to 18 hours for 24 hour infusions. The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively. |  |  |  |  |
+| Avg Css#, ng/mL | 0.27 ± 0.05 | 0.27 ± 0.05 | 0.67 ± 0.10 | 1.37 ± 0.20 |
+| * Presented as harmonic mean and pseudo standard deviation.# Mean Css = Average steady-state concentration of Dexmedetomidine. The mean Css was calculated based on post-dose sampling from 2.5 to 9 hours samples for 12 hour infusion and post-dose sampling from 2.5 to 18 hours for 24 hour infusions. The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively. |  |  |  |  |
 
 Dexmedetomidine pharmacokinetic parameters after Precedex maintenance doses of 0.2 to 1.4 mcg/kg/hr for >24 hours were similar to the PK parameters after Precedex maintenance dosing for < 24 hours in other studies.
 The values for clearance (CL), volume of distribution (V), and t1/2 were 39.4 L/hr, 152 L, and 2.67 hours, respectively.
@@ -73,10 +73,6 @@ Geriatrics
 The pharmacokinetic profile of Precedex was not altered by age.
 There were no differences in the pharmacokinetics of Precedex in young (18–40 years), middle age (41–65 years), and elderly (>65 years) subjects.
 
-Pediatrics
-
-The pharmacokinetic profile of Precedex has not been studied in pediatric patients.
-
 Hepatic Impairment
 
 In subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for Precedex were lower than in healthy subjects.
@@ -87,7 +83,7 @@ Although Precedex is dosed to effect, it may be necessary to consider dose reduc
 
 Renal Impairment
 
-Precedex pharmacokinetics (Cmax, Tmax, AUC, t1/2, CL, and Vss) were not significantly different in patients with severe renal impairment (creatinine clearance: <30 mL/min) compared to healthy subjects.
+Dexmedetomidine pharmacokinetics (Cmax, Tmax, AUC, t1/2, CL, and Vss) were not significantly different in patients with severe renal impairment (creatinine clearance: <30 mL/min) compared to healthy subjects.
 
 Drug Interactions
 

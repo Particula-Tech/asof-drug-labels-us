@@ -13,13 +13,13 @@ Most common treatment-emergent adverse reactions, occurring in greater than 2% o
 
 Intensive Care Unit Sedation
 
-Adverse reaction information is derived from the continuous infusion trials of Precedex for sedation in the Intensive Care Unit setting in which 1007 patients received Precedex.
+Adverse reaction information is derived from the continuous infusion trials of Precedex for sedation in the Intensive Care Unit setting in which 1007 adult patients received Precedex.
 The mean total dose was 7.4 mcg/kg (range: 0.8 to 84.1), mean dose per hour was 0.5 mcg/kg/hr (range: 0.1 to 6.0) and the mean duration of infusion of 15.9 hours (range: 0.2 to 157.2).
 The population was between 17 to 88 years of age, 43% ≥65 years of age, 77% male and 93% Caucasian.
 Treatment-emergent adverse reactions occurring at an incidence of >2% are provided in Table 2.
 The most frequent adverse reactions were hypotension, bradycardia and dry mouth [see Warnings and Precautions (5.2)].
 
-Table 2: Adverse Reactions with an Incidence >2%—Intensive Care Unit Sedation Population <24 hours*
+Table 2: Adverse Reactions with an Incidence >2%—Adult Intensive Care Unit Sedation Population <24 hours*
 
 | Adverse Event | All Precedex (N = 1007) (%) | Randomized Precedex (N = 798) (%) | Placebo (N = 400) (%) | Propofol (N = 188) (%) |
 | --- | --- | --- | --- | --- |
@@ -52,10 +52,10 @@ Table 2: Adverse Reactions with an Incidence >2%—Intensive Care Unit Sedation 
 | Edema Peripheral | <1% | 0 | 1% | 2% |
 | * 26 subjects in the all Precedex group and 10 subjects in the randomized Precedex group had exposure for greater than 24 hours. |  |  |  |  |
 
-Adverse reaction information was also derived from the placebo-controlled, continuous infusion trials of Precedex for sedation in the surgical intensive care unit setting in which 387 patients received Precedex for less than 24 hours.
+Adverse reaction information was also derived from the placebo-controlled, continuous infusion trials of Precedex for sedation in the surgical intensive care unit setting in which 387 adult patients received Precedex for less than 24 hours.
 The most frequently observed treatment-emergent adverse events included hypotension, hypertension, nausea, bradycardia, fever, vomiting, hypoxia, tachycardia and anemia (see Table 3).
 
-Table 3: Treatment-Emergent Adverse Events Occurring in >1% Of All Dexmedetomidine-Treated Patients in the Randomized Placebo-Controlled Continuous Infusion <24 Hours ICU Sedation Studies
+Table 3: Treatment-Emergent Adverse Events Occurring in >1% Of All Dexmedetomidine-Treated Adult Patients in the Randomized Placebo-Controlled Continuous Infusion <24 Hours ICU Sedation Studies
 
 | Adverse Event | Randomized Dexmedetomidine (N = 387) | Placebo (N = 379) |
 | --- | --- | --- |
@@ -81,11 +81,11 @@ Table 3: Treatment-Emergent Adverse Events Occurring in >1% Of All Dexmedetomidi
 | Oliguria | 2% | <1% |
 | Thirst | 2% | <1% |
 
-In a controlled clinical trial, Precedex was compared to midazolam for ICU sedation exceeding 24 hours duration.
+In a controlled clinical trial, Precedex was compared to midazolam for ICU sedation exceeding 24 hours duration in adult patients.
 Key treatment emergent adverse events occurring in dexmedetomidine or midazolam treated patients in the randomized active comparator continuous infusion long-term intensive care unit sedation study are provided in Table 4.
 The number (%) of subjects who had a dose-related increase in treatment-emergent adverse events by maintenance adjusted dose rate range in the Precedex group is provided in Table 5.
 
-Table 4: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or Midazolam-Treated Patients in the Randomized Active Comparator Continuous Infusion Long-Term Intensive Care Unit Sedation Study
+Table 4: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or Midazolam-Treated Adult Patients in the Randomized Active Comparator Continuous Infusion Long-Term Intensive Care Unit Sedation Study
 
 | Adverse Event | Dexmedetomidine (N = 244) | Midazolam (N = 122) |
 | --- | --- | --- |
@@ -115,7 +115,7 @@ Table 4: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or 
 The following adverse events occurred between 2 and 5% for Precedex and Midazolam, respectively: renal failure acute (2.5%, 0.8%), acute respiratory distress syndrome (2.5%, 0.8%), and respiratory failure (4.5%, 3.3%).
 
 Table 5.
-Number (%) of Subjects Who Had a Dose-Related Increase in Treatment Emergent Adverse Events by Maintenance Adjusted Dose Rate Range in the Precedex Group
+Number (%) of Adult Subjects Who Had a Dose-Related Increase in Treatment Emergent Adverse Events by Maintenance Adjusted Dose Rate Range in the Precedex Group
 
 | Precedex mcg/kg/hr |  |  |  |
 | --- | --- | --- | --- |
@@ -131,7 +131,7 @@ Number (%) of Subjects Who Had a Dose-Related Increase in Treatment Emergent Adv
 
 Procedural Sedation
 
-Adverse reaction information is derived from the two trials for procedural sedation in which 318 patients received Precedex.
+Adverse reaction information is derived from the two trials for procedural sedation in which 318 adult patients received Precedex.
 The mean total dose was 1.6 mcg/kg (range: 0.5 to 6.7), mean dose per hour was 1.3 mcg/kg/hr (range: 0.3 to 6.1) and the mean duration of infusion of 1.5 hours (range: 0.1 to 6.2).
 The population was between 18 to 93 years of age, 30% ≥65 years of age, 52% male and 61% Caucasian.
 

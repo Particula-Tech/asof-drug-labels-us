@@ -12,16 +12,16 @@ Table 1: Dosage Information
 
 | INDICATION | DOSAGE AND ADMINISTRATION |
 | --- | --- |
-| Initiation of Intensive Care Unit Sedation | For adult patients: a loading infusion of 1 mcg/kg over 10 minutes.For patients being converted from alternate sedative therapy: a loading dose may not be required [see Dosage and Administration: Maintenance of Intensive Care Unit Sedation (2.2)].For patients over 65 years of age: a dose reduction should be considered [see Use in Specific Populations (8.5)].For patients with impaired hepatic-function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
-| Maintenance of Intensive Care Unit Sedation | For adult patients: a maintenance infusion of 0.2 to 0.7 mcg/kg/hr. The rate of the maintenance infusion should be adjusted to achieve the desired level of sedation.For patients over 65 years of age: a dose reduction should be considered [see Use in Specific Populations (8.5)].For patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
-| Initiation of Procedural Sedation | For adult patients: a loading infusion of 1 mcg/kg over 10 minutes. For less invasive procedures such as ophthalmic surgery, a loading infusion of 0.5 mcg/kg given over 10 minutes may be suitable.For awake fiberoptic intubation patients: a loading infusion of 1 mcg/kg over 10 minutes.For patients over 65 years of age: a loading infusion of 0.5 mcg/kg over 10 minutes [see Use in Specific Populations (8.5)].For patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
-| Maintenance of Procedural Sedation | For adult patients: the maintenance infusion is generally initiated at 0.6 mcg/kg/hr and titrated to achieve desired clinical effect with doses ranging from 0.2 to 1 mcg/kg/hr. The rate of the maintenance infusion should be adjusted to achieve the targeted level of sedation. For awake fiberoptic intubation patients: a maintenance infusion of 0.7 mcg/kg/hr is recommended until the endotracheal tube is secured.For patients over 65 years of age: a dose reduction should be considered [see Use in Specific Populations (8.5)].For patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
+| Initiation of Intensive Care Unit Sedation | For adult patients: a loading infusion of one mcg/kg over 10 minutes.For adult patients being converted from alternate sedative therapy: a loading dose may not be required [see Dosage and Administration (2.2)].For patients over 65 years of age: a dose reduction should be considered [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic-function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
+| Maintenance of Intensive Care Unit Sedation | For adult patients: a maintenance infusion of 0.2 to 0.7 mcg/kg/hour. The rate of the maintenance infusion should be adjusted to achieve the desired level of sedation.For patients over 65 years of age: a dose reduction should be considered [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
+| Initiation of Procedural Sedation | For adult patients: a loading infusion of one mcg/kg over 10 minutes. For less invasive procedures such as ophthalmic surgery, a loading infusion of 0.5 mcg/kg given over 10 minutes may be suitable.For awake fiberoptic intubation in adult patients: a loading infusion of one mcg/kg over 10 minutes.For patients over 65 years of age: a loading infusion of 0.5 mcg/kg over 10 minutes [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
+| Maintenance of Procedural Sedation | For adult patients: the maintenance infusion is generally initiated at 0.6 mcg/kg/hour and titrated to achieve desired clinical effect with doses ranging from 0.2 to 1 mcg/kg/hour. The rate of the maintenance infusion should be adjusted to achieve the targeted level of sedation. For awake fiberoptic intubation in adult patients: a maintenance infusion of 0.7 mcg/kg/hour is recommended until the endotracheal tube is secured.For patients over 65 years of age: a dose reduction should be considered [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
 
 ## 2.3 Dosage Adjustment
 
 Due to possible pharmacodynamic interactions, a reduction in dosage of Precedex or other concomitant anesthetics, sedatives, hypnotics or opioids may be required when co-administered [see Drug Interactions (7.1)].
 
-Dosage reductions may need to be considered for patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.7), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.7), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Preparation of Solution
 
@@ -29,17 +29,17 @@ Strict aseptic technique must always be maintained during handling of Precedex.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Precedex Injection, Concentrate, 200 mcg/2 mL (100 mcg/mL)
+Precedex Injection, 200 mcg/2 mL (100 mcg/mL)
 
-Precedex must be diluted in 0.9% sodium chloride solution to achieve required concentration (4 mcg/mL) prior to administration.
+Precedex must be diluted with 0.9% sodium chloride injection to achieve required concentration (4 mcg/mL) prior to administration.
 Preparation of solutions is the same, whether for the loading dose or maintenance infusion.
 
-To prepare the infusion, withdraw 2 mL of Precedex and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
+To prepare the infusion, withdraw 2 mL of Precedex Injection, and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
 Shake gently to mix well.
 
-Precedex Injection, 200 mcg/50 mL (4 mcg/mL) and 400 mcg/100 mL (4 mcg/mL)
+Precedex in 0.9% Sodium Chloride Injection, 200 mcg/50 mL (4 mcg/mL) and 400 mcg/100 mL (4 mcg/mL)
 
-Precedex Injection is supplied in glass containers containing a premixed, ready to use dexmedetomidine hydrochloride solution in 0.9% sodium chloride in water.
+Precedex in 0.9% Sodium Chloride Injection is supplied in glass containers containing a premixed, ready to use dexmedetomidine hydrochloride solution in 0.9% sodium chloride in water.
 No further dilution of these preparations are necessary.
 
 ## 2.5 Administration with Other Fluids

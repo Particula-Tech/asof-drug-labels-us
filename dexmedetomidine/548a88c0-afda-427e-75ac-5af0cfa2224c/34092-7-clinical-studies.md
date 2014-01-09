@@ -1,10 +1,10 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of Precedex has been evaluated in four randomized, double-blind, placebo-controlled multicenter clinical trials in 1185 patients.
+The safety and efficacy of Precedex has been evaluated in four randomized, double-blind, placebo-controlled multicenter clinical trials in 1185 adult patients.
 
 ## 14.1 Intensive Care Unit Sedation
 
-Two randomized, double-blind, parallel-group, placebo-controlled multicenter clinical trials included 754 patients being treated in a surgical intensive care unit.
+Two randomized, double-blind, parallel-group, placebo-controlled multicenter clinical trials included 754 adult patients being treated in a surgical intensive care unit.
 All patients were initially intubated and received mechanical ventilation.
 These trials evaluated the sedative properties of Precedex by comparing the amount of rescue medication (midazolam in one trial and propofol in the second) required to achieve a specified level of sedation (using the standardized Ramsay Sedation Scale) between Precedex and placebo from onset of treatment to extubation or to a total treatment duration of 24 hours.
 The Ramsay Level of Sedation Scale is displayed in Table 9.
@@ -20,7 +20,7 @@ Table 9: Ramsay Level of Sedation Scale
 | 2 | Patient cooperative, oriented, and tranquil |
 | 1 | Patient anxious, agitated, or restless |
 
-In the first study, 175 patients were randomized to receive placebo and 178 to receive Precedex by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of 1 mcg/kg intravenous over 10 minutes.
+In the first study, 175 adult patients were randomized to receive placebo and 178 to receive Precedex by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
 The study drug infusion rate was adjusted to maintain a Ramsay sedation score of ≥3.
 Patients were allowed to receive “rescue” midazolam as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered for pain as needed.
@@ -46,7 +46,7 @@ A prospective secondary analysis assessed the dose of morphine sulfate administe
 On average, Precedex-treated patients received less morphine sulfate for pain than placebo-treated patients (0.47 versus 0.83 mg/h).
 In addition, 44% (79 of 178 patients) of Precedex patients received no morphine sulfate for pain versus 19% (33 of 175 patients) in the placebo group.
 
-In a second study, 198 patients were randomized to receive placebo and 203 to receive Precedex by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of 1 mcg/kg intravenous over 10 minutes.
+In a second study, 198 adult patients were randomized to receive placebo and 203 to receive Precedex by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
 The study drug infusion was adjusted to maintain a Ramsay sedation score of ≥3.
 Patients were allowed to receive “rescue” propofol as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered as needed for pain.
@@ -113,9 +113,9 @@ Table 13: Key Efficacy Results of Procedural Sedation Studies
 
 | Study | Loading Infusion Treatment Arm | Number of Patients Enrolleda | % Not Requiring Midazolam Rescue | Confidenceb Interval on the Difference vs. Placebo | Mean (SD) Total Dose (mg) of Rescue Midazolam Required | Confidenceb Intervals of the Mean Rescue Dose |
 | --- | --- | --- | --- | --- | --- | --- |
-| Study 1 | Precedex 0.5 mcg/kg | 134 | 40 | 37 (27, 48) | 1.4 (1.7) | -2.7 (-3.4, -2.0) |
-| Precedex 1 mcg/kg | 129 | 54 | 51 (40, 62) | 0.9 (1.5) | -3.1 (-3.8, -2.5) |  |
+| Study 1 | Dexmedetomidine 0.5 mcg/kg | 134 | 40 | 37 (27, 48) | 1.4 (1.7) | -2.7 (-3.4, -2.0) |
+| Dexmedetomidine 1 mcg/kg | 129 | 54 | 51 (40, 62) | 0.9 (1.5) | -3.1 (-3.8, -2.5) |  |
 | placebo | 63 | 3 | – | 4.1 (3.0) | – |  |
-| Study 2 | Precedex 1 mcg/kg | 55 | 53 | 39 (20, 57) | 1.1 (1.5) | -1.8 (-2.7, -0.9) |
+| Study 2 | Dexmedetomidine 1 mcg/kg | 55 | 53 | 39 (20, 57) | 1.1 (1.5) | -1.8 (-2.7, -0.9) |
 | placebo | 50 | 14 | – | 2.9 (3.0) | – |  |
 | a Based on ITT population defined as all randomized and treated patients.b Normal approximation to the binomial with continuity correction. |  |  |  |  |  |  |

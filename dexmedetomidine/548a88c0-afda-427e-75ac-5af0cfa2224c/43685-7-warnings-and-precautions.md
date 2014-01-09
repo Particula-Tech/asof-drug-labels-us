@@ -7,7 +7,7 @@ Due to the known pharmacological effects of Precedex, patients should be continu
 
 ## 5.2 Hypotension, Bradycardia, and Sinus Arrest
 
-Clinically significant episodes of bradycardia and sinus arrest have been reported with Precedex administration in young, healthy volunteers with high vagal tone or with different routes of administration including rapid intravenous or bolus administration.
+Clinically significant episodes of bradycardia and sinus arrest have been reported with Precedex administration in young, healthy adult volunteers with high vagal tone or with different routes of administration including rapid intravenous or bolus administration.
 
 Reports of hypotension and bradycardia have been associated with Precedex infusion.
 If medical intervention is required, treatment may include decreasing or stopping the infusion of Precedex, increasing the rate of intravenous fluid administration, elevation of the lower extremities, and use of pressor agents.
@@ -36,15 +36,15 @@ This alone should not be considered as evidence of lack of efficacy in the absen
 
 Intensive Care Unit Sedation
 
-With administration up to 7 days, regardless of dose, 12 (5%) Precedex subjects experienced at least 1 event related to withdrawal within the first 24 hours after discontinuing study drug and 7 (3%) Precedex subjects experienced at least 1 event 24 to 48 hours after end of study drug.
+With administration up to 7 days, regardless of dose, 12 (5%) Precedex adult subjects experienced at least 1 event related to withdrawal within the first 24 hours after discontinuing study drug and 7 (3%) Precedex adult subjects experienced at least 1 event 24 to 48 hours after end of study drug.
 The most common events were nausea, vomiting, and agitation.
 
-Tachycardia and hypertension requiring intervention in the 48 hours following study drug discontinuation occurred at frequencies of <5%.
+In adult subjects, tachycardia and hypertension requiring intervention in the 48 hours following study drug discontinuation occurred at frequencies of <5%.
 If tachycardia and/or hypertension occurs after discontinuation of Precedex supportive therapy is indicated.
 
 Procedural Sedation
 
-Withdrawal symptoms were not seen after discontinuation of short term infusions of Precedex (<6 hours).
+In adult subjects, withdrawal symptoms were not seen after discontinuation of short term infusions of Precedex (<6 hours).
 
 ## 5.6 Tolerance and Tachyphylaxis
 
