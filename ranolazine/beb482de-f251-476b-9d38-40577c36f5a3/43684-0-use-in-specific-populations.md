@@ -33,7 +33,13 @@ This increase was not enough to account for the 3-fold increase in QT prolongati
 
 ## 8.7 Use in Patients with Renal Impairment
 
-Compared to patients with no renal impairment, Cmax was increased between 40% and 50% in patients with mild, moderate or severe renal impairment, suggesting a similar increase in exposure in patients with renal failure independent of the degree of impairment.
+A pharmacokinetic study of RANEXA in subjects with severe renal impairment (CrCL < 30 mL/min) was stopped when 2 of 4 subjects developed acute renal failure after receiving RANEXA 500 mg twice daily for 5 days (lead-in phase) followed by 1000 mg twice a day (1 dose in one subject and 11 doses in the other).
+Increases in creatinine, BUN, and potassium were observed in 3 subjects during the 500 mg lead-in phase.
+One subject required hemodialysis, while the other 2 subjects improved upon drug discontinuation [see Warnings and Precautions (5.2)].
+Monitor renal function periodically in patients with moderate to severe renal impairment.
+Discontinue RANEXA if acute renal failure develops.
+
+In a separate study, Cmax was increased between 40% and 50% in patients with mild, moderate or severe renal impairment compared to patients with no renal impairment, suggesting a similar increase in exposure in patients with renal failure independent of the degree of impairment.
 The pharmacokinetics of ranolazine has not been assessed in patients on dialysis.
 
 ## 8.8 Use in Patients with Heart Failure

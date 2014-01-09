@@ -17,7 +17,7 @@ Titrate RANEXA based on clinical response in patients concomitantly treated with
 
 CYP3A Inducers
 
-Do not use RANEXA with CYP3A inducers such as rifampin, rifabutin, rifapentin, phenobarbital, phenytoin, carbamazepine, and St. John's wort [see Contraindications (4), Clinical Pharmacology (12.3)].
+Do not use RANEXA with CYP3A inducers such as rifampin, rifabutin, rifapentine, phenobarbital, phenytoin, carbamazepine, and St. John's wort [see Contraindications (4), Clinical Pharmacology (12.3)].
 
 ## 7.2 Effects of Ranolazine on Other Drugs
 

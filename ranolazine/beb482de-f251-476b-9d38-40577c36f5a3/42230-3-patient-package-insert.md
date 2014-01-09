@@ -20,9 +20,9 @@ Do not take RANEXA if:
   - for fungus infection: ketoconazole (Nizoral®), itraconazole (Sporanox®, Onmel™)
   - for infection: clarithromycin (Biaxin®)
   - for depression: nefazodone
-  - for HIV: nelfinavir (Viracept®), ritonavir (Norvir®), lopinavir and ritonavir (Kaletra®) indinavir (Crixivan®), saquinavir (Invirase®)
-  - for tuberculosis (TB): rifampin (Rifadin®), rifabutin (Mycobutin®), rifapentin (Priftin®)
-  - for seizures: phenobarbital, phenytoin (Phenytek®, Dilantin® Dilantin-125®), carbamazepine (Tegretol®)
+  - for HIV: nelfinavir (Viracept®), ritonavir (Norvir®), lopinavir and ritonavir (Kaletra®), indinavir (Crixivan®), saquinavir (Invirase®)
+  - for tuberculosis (TB): rifampin (Rifadin®), rifabutin (Mycobutin®), rifapentine (Priftin®)
+  - for seizures: phenobarbital, phenytoin (Phenytek®, Dilantin®, Dilantin-125®), carbamazepine (Tegretol®)
   - St. John's wort (Hypericum perforatum)
 - you have scarring (cirrhosis) of your liver
 
@@ -32,6 +32,7 @@ Before you take RANEXA, tell your doctor if you:
 
 - have or have a family history of a heart problem, called 'QT prolongation' or 'long QT syndrome'.
 - have liver problems.
+- have kidney problems.
 - are pregnant or plan to become pregnant.
   It is not known if RANEXA will harm your unborn baby.
 - are breast-feeding or plan to breast-feed.
@@ -63,8 +64,8 @@ How should I take RANEXA?
 - Do not change your dose unless your doctor tells you to.
 - Tell your doctor if you still have symptoms of angina after starting RANEXA.
 - Take RANEXA by mouth, with or without food.
-- Swallow the Ranexa tablets whole.
-  Do not crush, break, or chew Ranexa tablets before swallowing.
+- Swallow the RANEXA tablets whole.
+  Do not crush, break, or chew RANEXA tablets before swallowing.
 - If you miss a dose of RANEXA, wait to take the next dose of RANEXA at your regular time.
   Do not make up for the missed dose.
   Do not take more than 1 dose at a time.
@@ -75,7 +76,7 @@ What should I avoid while taking RANEXA?
 - Grapefruit and grapefruit juice.
   Limit products that have grapefruit in them.
   They can cause your blood levels of RANEXA to increase.
-- RANEXA can cause dizziness, lightheadness, or fainting.
+- RANEXA can cause dizziness, lightheadedness, or fainting.
   If you have these symptoms, do not drive a car, use machinery, or do anything that needs you to be alert.
 
 What are the possible side effects of RANEXA?
@@ -86,6 +87,8 @@ RANEXA may cause serious side effects, including:
   Your doctor may check the electrical activity of your heart with an ECG.
   Tell your doctor right away if you feel faint, lightheaded, or feel your heart beating irregularly or fast while taking RANEXA.
   These may be symptoms related to QT prolongation.
+- kidney failure in people who already have severe kidney problems.
+  Your doctor may need to do tests to check how your kidneys are working.
 
 The most common side effects of RANEXA include:
 
@@ -104,20 +107,20 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store RANEXA?
 
-Store RANEXA tablets at room temperature between 59° to 86°F (15° to 30°C)
+Store RANEXA tablets at room temperature between 59° to 86°F (15° to 30°C).
 
 Keep RANEXA and all medicines out of the reach of children.
 
 General information about RANEXA
 
-Medicines are sometimes prescribed for purposes other than those listed in Patient Information.
+Medicines are sometimes prescribed for purposes other than those listed in the Patient Information.
 Do not use RANEXA for a condition for which it was not prescribed.
 Do not give RANEXA to other people, even if they have the same condition you have.
 It may harm them.
 
 The Patient Information summarizes the most important information about RANEXA.
 If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about Ranexa that is written for health professionals.
+You can ask your pharmacist or doctor for information about RANEXA that is written for health professionals.
 
 For more information, go to www.ranexa.com or call Gilead Sciences, Inc. at 1-800-445-3235.
 
@@ -142,8 +145,8 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Gilead Sciences, Inc. Foster City, CA 94404
 
-Issued November 2013 RANEXA is a registered trademark of Gilead Sciences, Inc. © 2013 Gilead Sciences, Inc.
+Issued December 2013 RANEXA is a registered trademark of Gilead Sciences, Inc. © 2013 Gilead Sciences, Inc.
 
 All other trademarks are the property of their respective owners.
 
-21-526-GS-012
+21-526-GS-013

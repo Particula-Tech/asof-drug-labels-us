@@ -10,8 +10,10 @@ Patients should be advised:
 - to inform their physician of any other medications when taken concurrently with RANEXA, including over-the-counter medications
 - that RANEXA may produce changes in the electrocardiogram (QTc interval prolongation)
 - to inform their physician of any personal or family history of QTc prolongation, congenital long QT syndrome, or if they are receiving drugs that prolong the QTc interval such as Class Ia (e.g., quinidine) or Class III (e.g., dofetilide, sotalol, amiodarone) antiarrhythmic agents, erythromycin, and certain antipsychotics (e.g., thioridazine, ziprasidone)
+- to inform their physician if they have impaired renal function before or while taking RANEXA
+- that patients with severe renal impairment may be at risk of renal failure while on RANEXA
 - that RANEXA should not be used in patients who are receiving drugs that are strong CYP3A inhibitors (e.g., ketoconazole, clarithromycin, nefazodone, ritonavir)
-- that initiation of treatment with RANEXA should be avoided during administration of inducers of CYP3A (e.g., rifampin, rifabutin, rifapentin, barbiturates, carbamazepine, phenytoin, St. John's wort)
+- that initiation of treatment with RANEXA should be avoided during administration of inducers of CYP3A (e.g., rifampin, rifabutin, rifapentine, barbiturates, carbamazepine, phenytoin, St. John's wort)
 - to inform their physician if they are receiving drugs that are moderate CYP3A inhibitors (e.g., diltiazem, verapamil, erythromycin)
 - to inform their physician if they are receiving P-gp inhibitors (e.g., cyclosporine)
 - that grapefruit juice or grapefruit products should be limited when taking RANEXA

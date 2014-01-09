@@ -51,10 +51,10 @@ Laboratory Abnormalities
 RANEXA produces small reductions in hemoglobin A1c.
 RANEXA is not a treatment for diabetes.
 
-RANEXA produces elevations of serum creatinine by 0.1 mg/dL, regardless of previous renal function.
-The elevation has a rapid onset, shows no signs of progression during long-term therapy, is reversible after discontinuation of RANEXA, and is not accompanied by changes in BUN.
+RANEXA produces elevations of serum creatinine by 0.1 mg/dL, regardless of previous renal function, likely because of inhibition of creatinine's tubular secretion.
+In general, the elevation has a rapid onset, shows no signs of progression during long-term therapy, is reversible after discontinuation of RANEXA, and is not accompanied by changes in BUN.
 In healthy volunteers, RANEXA 1000 mg twice daily had no effect upon the glomerular filtration rate.
-The elevated creatinine levels are likely due to a blockage of creatinine's tubular secretion by ranolazine or one of its metabolites.
+More marked and progressive increases in serum creatinine, associated with increases in BUN or potassium, indicating acute renal failure, have been reported after initiation of RANEXA in patients with severe renal impairment [see Warnings and Precautions (5.2), Use in Specific Populations (8.7)].
 
 ## 6.2 Postmarketing Experience
 

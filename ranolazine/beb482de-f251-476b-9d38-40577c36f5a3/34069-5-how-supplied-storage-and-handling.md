@@ -12,4 +12,4 @@ RANEXA (ranolazine) extended-release tablets are available in:
 | Unit-of-Use Bottle (60 Tablets) | 500 mg | 61958-1003-1 |
 | Unit-of-Use Bottle (60 Tablets) | 1000 mg | 61958-1004-1 |
 
-Store RANEXA tablets at 25 °C (77 °F) with excursions permitted to 15 ° to 30 °C (59 ° to 86 °F).
+Store RANEXA tablets at 25°C (77°F) with excursions permitted to 15° to 30°C (59° to 86°F).
