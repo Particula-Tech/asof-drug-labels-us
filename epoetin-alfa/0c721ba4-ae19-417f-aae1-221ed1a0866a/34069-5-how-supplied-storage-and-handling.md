@@ -8,11 +8,10 @@ Protect from light; store PROCRIT in the carton until use.
 
 Do not use PROCRIT that has been shaken or frozen.
 
-Single-dose, Preservative-free Vial: Each 1 mL of solution contains 2000 (NDC 59676-302-01), 3000 (NDC 59676-303-01) 4000 (NDC 59676-304-01), or 10,000 Units (NDC 59676-310-01) of epoetin alfa.
+Single-dose, Preservative-free Vial: Each 1 mL of solution contains 2000 (NDC 59676-302-01), 3000 (NDC 59676-303-01), 4000 (NDC 59676-304-01), or 10,000 Units (NDC 59676-310-01) of epoetin alfa.
 Each strength is supplied in cartons, each carton containing 6 single-dose vials.
 
-Single-dose, Preservative-free Vial (Tray): Each 1 mL of solution contains 2000 (NDC 59676-302-02), 3000 (NDC 59676-303-02), 4000 (NDC 59676-304-02), or 10,000 Units (NDC 59676-310-02) of epoetin alfa.
-Each strength is supplied in dispensing packs containing 25 single-dose vials.
+Single-dose, Preservative-free Vial (Tray): Each 1 mL of solution contains 10,000 Units (NDC 59676-310-02) of epoetin alfa and is supplied in dispensing packs containing 25 single-dose vials.
 
 Single-dose, Preservative-free Vial (in phosphate-buffered formulation): Each 1 mL of solution contains 40,000 Units (NDC 59676-340-01) of epoetin alfa and is supplied in dispensing packs containing 4 single-dose vials.
 

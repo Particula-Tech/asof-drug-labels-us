@@ -13,83 +13,75 @@ Talk with your healthcare provider regularly about the use of PROCRIT and ask if
 
 What is the most important information I should know about PROCRIT?
 
-Using PROCRIT can lead to death or other serious side effects.
+PROCRIT may cause serious side effects that can lead to death, including:
 
-For patients with cancer:
+For people with cancer:
 
-Your healthcare provider has received special training through the ESA APPRISE Oncology Program in order to prescribe PROCRIT.
-Before you can begin to receive PROCRIT, you must sign the patient-healthcare provider acknowledgment form.
-When you sign this form, you are stating that your healthcare provider talked with you about the risks of taking PROCRIT.
+- Your tumor may grow faster and you may die sooner if you choose to take PROCRIT.
+  Your healthcare provider has received special training in order to prescribe PROCRIT and will talk with you in detail about these risks.
 
-These risks include that your tumor may grow faster and you may die sooner if you choose to take PROCRIT.
+For all people who take PROCRIT, including people with cancer or chronic kidney disease:
 
-You should talk with your healthcare provider about:
-
-- Why PROCRIT treatment is being prescribed for you.
-- What are the chances you will get red blood cell transfusions if you do not take PROCRIT.
-- What are the chances you will get red blood cell transfusions even if you take PROCRIT.
-- How taking PROCRIT may affect the success of your cancer treatment.
-
-After you have finished your chemotherapy course, PROCRIT treatment should be stopped.
-
-For all patients who take PROCRIT, including patients with cancer or chronic kidney disease:
-
-- If you decide to take PROCRIT, your healthcare provider should prescribe the smallest dose of PROCRIT that is needed to reduce your chance of getting red blood cell transfusions.
-- You may get serious heart problems such as heart attack, stroke, heart failure, and may die sooner if you are treated with PROCRIT to reach a normal or near-normal hemoglobin level.
-- You may get blood clots at any time while taking PROCRIT.
+- Serious heart problems, such as heart attack or heart failure, and stroke.
+  You may die sooner if you are treated with PROCRIT to increase red blood cells (RBCs) to near the same level found in healthy people.
+- Blood clots.
+  Blood clots may happen at any time while taking PROCRIT.
   If you are receiving PROCRIT for any reason and you are going to have surgery, talk to your healthcare provider about whether or not you need to take a blood thinner to lessen the chance of blood clots during or following surgery.
   Clots can form in blood vessels (veins), especially in your leg (deep venous thrombosis or DVT).
   Pieces of a blood clot may travel to the lungs and block the blood circulation in the lungs (pulmonary embolus).
+- Call your healthcare provider or get medical help right away if you have any of these symptoms:
+  - Chest pain
+  - Trouble breathing or shortness of breath
+  - Pain in your legs, with or without swelling
+  - A cool or pale arm or leg
+  - Sudden confusion, trouble speaking, or trouble understanding others' speech
+  - Sudden numbness or weakness in your face, arm, or leg, especially on one side of your body
+  - Sudden trouble seeing
+  - Sudden trouble walking, dizziness, loss of balance or coordination
+  - Loss of consciousness (fainting)
+  - Hemodialysis vascular access stops working
 
-Call your healthcare provider or get medical help right away if you have any of these symptoms of blood clots:
+See "What are the possible side effects of PROCRIT ?" below for more information.
 
-- Chest pain
-- Trouble breathing or shortness of breath
-- Pain in your legs, with or without swelling
-- A cool or pale arm or leg
-- Sudden confusion, trouble speaking, or trouble understanding others' speech
-- Sudden numbness or weakness in your face, arm, or leg, especially on one side of your body
-- Sudden trouble seeing
-- Sudden trouble walking, dizziness, loss of balance or coordination
-- Loss of consciousness (fainting)
-- Hemodialysis vascular access stops working
-
-See "What are the possible side effects of PROCRIT ?" below.
+If you decide to take PROCRIT, your healthcare provider should prescribe the smallest dose of PROCRIT that is necessary to reduce your chance of needing RBC transfusions.
 
 What is PROCRIT?
 
-PROCRIT is a man-made form of the protein human erythropoietin that is given to reduce or avoid the need for red blood cell transfusions.
-PROCRIT stimulates your bone marrow to make more red blood cells.
-Having more red blood cells raises your hemoglobin level.
-If your hemoglobin level stays too high or if your hemoglobin goes up too quickly, this may lead to serious health problems which may result in death.
-These serious health problems may happen even if you take PROCRIT and do not have an increase in your hemoglobin level.
+PROCRIT is a prescription medicine used to treat anemia.
+People with anemia have a lower-than-normal number of RBCs.
+PROCRIT works like the human protein called erythropoietin to help your body make more RBCs.
+PROCRIT is used to reduce or avoid the need for RBC transfusions.
 
-PROCRIT may be used to treat a lower than normal number of red blood cells (anemia) if it is caused by:
+PROCRIT may be used to treat anemia if it is caused by:
 
 - Chronic kidney disease (you may or may not be on dialysis).
 - Chemotherapy that will be used for at least two months after starting PROCRIT.
 - A medicine called zidovudine (AZT) used to treat HIV infection.
 
-PROCRIT may also be used to reduce the chance you will need red blood cell transfusions if you are scheduled for certain surgeries where a lot of blood loss is expected.
+PROCRIT may also be used to reduce the chance you will need RBC transfusions if you are scheduled for certain surgeries where a lot of blood loss is expected.
+
+If your hemoglobin level stays too high or if your hemoglobin goes up too quickly, this may lead to serious health problems which may result in death.
+These serious health problems may happen if you take PROCRIT, even if you do not have an increase in your hemoglobin level.
 
 PROCRIT should not be used for treatment of anemia:
 
-- If you have cancer and you will not be receiving chemotherapy that may cause anemia for at least 2 more months.
+- If you have cancer and you will not be receiving chemotherapy that may cause anemia.
 - If you have a cancer that has a high chance of being cured.
-- In place of emergency treatment for anemia (red blood cell transfusions).
+  Talk with your healthcare provider about the kind of cancer you have.
+- In place of emergency treatment for anemia (RBC transfusions).
 
 PROCRIT has not been proven to improve quality of life, fatigue, or well-being.
 
-PROCRIT should not be used to reduce the chance of red blood cell transfusions if:
+PROCRIT should not be used to reduce the chance of RBC transfusions if:
 
-- You are scheduled for surgery on your heart or blood vessels
-- You are able and willing to donate blood prior to surgery
+- You are scheduled for surgery on your heart or blood vessels.
+- You are able and willing to donate blood prior to surgery.
 
 Who should not take PROCRIT?
 
 Do not take PROCRIT if you:
 
-- Have cancer and have not been counseled by your healthcare provider regarding the risks of PROCRIT or if you have not signed the patient-healthcare provider acknowledgment form before you start PROCRIT treatment.
+- Have cancer and have not been counseled by your healthcare provider about treatment with PROCRIT.
 - Have high blood pressure that is not controlled (uncontrolled hypertension).
 - Have been told by your healthcare provider that you have or have ever had a type of anemia called Pure Red Cell Aplasia (PRCA) that starts after treatment with PROCRIT or other erythropoietin protein medicines.
 - Have had a serious allergic reaction to PROCRIT.
@@ -111,7 +103,7 @@ Tell your healthcare provider about all your health conditions, including if you
 - Are pregnant or planning to become pregnant.
   It is not known if PROCRIT may harm your unborn baby.
   Talk to your healthcare provider about possible pregnancy and birth control choices that are right for you.
-- Are breast-feeding or planning to breast-feed.
+- Are breastfeeding or planning to breastfeed.
   It is not known if PROCRIT passes into breast milk.
 
 Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
@@ -121,20 +113,6 @@ Keep a list of your medicines with you and show it to your healthcare provider w
 
 How should I take PROCRIT?
 
-See "What is the most important information I should know about PROCRIT?"
-
-For patients with cancer:
-
-Before you begin to receive PROCRIT, your healthcare provider will:
-
-- Ask you to review this PROCRIT Medication Guide.
-- Explain the risks of PROCRIT and answer all your questions about PROCRIT.
-- Have you sign the patient-healthcare provider acknowledgment form.
-
-For all patients who take PROCRIT:
-
-- Continue to follow your healthcare provider's instructions for diet and medicines, including medicines for high blood pressure, while taking PROCRIT.
-- Have your blood pressure checked as instructed by your healthcare provider.
 - If you or your caregiver has been trained to give PROCRIT shots (injections) at home:
   - Be sure that you read, understand, and follow the "Instructions for Use" that come with PROCRIT.
   - Take PROCRIT exactly as your healthcare provider tells you to.
@@ -142,6 +120,8 @@ For all patients who take PROCRIT:
   - Your healthcare provider will show you how much PROCRIT to use, how to inject it, how often it should be injected, and how to safely throw away the used vials, syringes, and needles.
   - If you miss a dose of PROCRIT, call your healthcare provider right away and ask what to do.
   - If you take more than the prescribed amount of PROCRIT, call your healthcare provider right away.
+- During treatment with PROCRIT, continue to follow your healthcare provider's instructions for diet and medicines.
+- Have your blood pressure checked as instructed by your healthcare provider.
 
 What are the possible side effects of PROCRIT?
 
@@ -158,13 +138,13 @@ PROCRIT may cause serious side effects.
   If you have any seizures while taking PROCRIT, get medical help right away and tell your healthcare provider.
 - Antibodies to PROCRIT.
   Your body may make antibodies to PROCRIT.
-  These antibodies can block or lessen your body's ability to make red blood cells and cause you to have severe anemia.
+  These antibodies can block or lessen your body's ability to make RBCs and cause you to have severe anemia.
   Call your healthcare provider if you have unusual tiredness, lack of energy, dizziness, or fainting.
   You may need to stop taking PROCRIT.
 - Serious allergic reactions.
   Serious allergic reactions can cause a rash over your whole body, shortness of breath, wheezing, dizziness and fainting because of a drop in blood pressure, swelling around your mouth or eyes, fast pulse, or sweating.
   If you have a serious allergic reaction, stop using PROCRIT and call your healthcare provider or get medical help right away.
-- Dangers of giving PROCRIT to newborns, infants, and pregnant or breastfeeding women.
+- Dangers of using PROCRIT from multi-dose vials in newborns, infants, and pregnant or breastfeeding women.
   Do not use PROCRIT from multi-dose vials in newborns, infants, pregnant or breastfeeding women because the PROCRIT in these vials contains benzyl alcohol.
   Benzyl alcohol has been shown to cause brain damage, other serious side effects, and death in newborn and premature babies.
   PROCRIT that comes in single-dose vials does not contain benzyl alcohol.
@@ -235,4 +215,4 @@ Manufactured for:
 
 Janssen Products, LP Horsham, Pennsylvania 19044 © Janssen Products, LP 2000 Printed in U. S. A.
 
-Revised: 05/2012
+Revised: 12/2013

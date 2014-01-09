@@ -65,8 +65,6 @@ Discontinue PROCRIT if an increase in hemoglobin is not achieved at a dose of 30
 
 ## 2.4 Patients on Cancer Chemotherapy
 
-Only prescribers enrolled in the ESA APPRISE Oncology Program may prescribe and/or dispense PROCRIT [see Warnings and Precautions (5.2)].
-
 Initiate PROCRIT in patients on cancer chemotherapy only if the hemoglobin is less than 10 g/dL, and if there is a minimum of two additional months of planned chemotherapy.
 
 Use the lowest dose of PROCRIT necessary to avoid RBC transfusions.

@@ -60,7 +60,7 @@ Patients Having Surgery
 An increased incidence of deep venous thrombosis (DVT) in patients receiving epoetin alfa undergoing surgical orthopedic procedures was demonstrated [see Adverse Reactions (6.1)].
 In a randomized, controlled study, 680 adult patients, not receiving prophylactic anticoagulation and undergoing spinal surgery, were randomized to 4 doses of 600 Units/kg epoetin alfa (7, 14, and 21 days before surgery, and the day of surgery) and standard of care (SOC) treatment (n = 340) or to SOC treatment alone (n = 340).
 A higher incidence of DVTs, determined by either color flow duplex imaging or by clinical symptoms, was observed in the epoetin alfa group (16 [4.7%] patients) compared with the SOC group (7 [2.1%] patients).
-In addition to the 23 patients with DVTs included in the primary analysis, 19 [2.8%] patients (n=680) experienced 1 other thrombovascular event (TVE) each (12 [3.5%] in the epoetin alfa group and 7 [2.1%] in the SOC group).
+In addition to the 23 patients with DVTs included in the primary analysis, 19 [2.8%] patients (n = 680) experienced 1 other thrombovascular event (TVE) each (12 [3.5%] in the epoetin alfa group and 7 [2.1%] in the SOC group).
 Deep venous thrombosis prophylaxis is strongly recommended when ESAs are used for the reduction of allogeneic RBC transfusions in surgical patients [see Dosage and Administration (2.5)].
 
 Increased mortality was observed in a randomized, placebo-controlled study of PROCRIT in adult patients who were undergoing CABG surgery (7 deaths in 126 patients randomized to PROCRIT versus no deaths among 56 patients receiving placebo).
