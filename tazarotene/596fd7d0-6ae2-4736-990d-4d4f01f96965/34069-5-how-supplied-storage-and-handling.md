@@ -1,14 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-How Supplied
+How Supplied:
 
 FABIOR Foam, 0.1% (1 mg/g) is a white to off-white foam, supplied as follows:
 
-50 g aluminum can NDC 0145-0020-03
+50-g aluminum can NDC 0145-0020-03
 
-100 g aluminum can NDC 0145-0020-02
+100-g aluminum can NDC 0145-0020-02
 
-Storage and Handling
+Storage and Handling:
 
 - •Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
   See USP-controlled room temperature.

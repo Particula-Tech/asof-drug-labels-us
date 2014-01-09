@@ -10,4 +10,4 @@ If combination therapy is required, they should be applied at different times of
 
 The impact of tazarotene on the pharmacokinetics of progestin-only oral contraceptives (i.e., minipills) has not been evaluated.
 
-In a study of 27 healthy female subjects between the ages of 20 to 55 years receiving a combination oral contraceptive tablet containing 1 mg norethindrone and 35 mcg ethinyl estradiol, concomitant use of tazarotene did not affect the pharmacokinetics of norethindrone and ethinyl estradiol over a complete cycle.
+In a trial of 27 healthy female subjects between the ages of 20 to 55 years receiving a combination oral contraceptive tablet containing 1 mg norethindrone and 35 mcg ethinyl estradiol, concomitant use of tazarotene did not affect the pharmacokinetics of norethindrone and ethinyl estradiol over a complete cycle.

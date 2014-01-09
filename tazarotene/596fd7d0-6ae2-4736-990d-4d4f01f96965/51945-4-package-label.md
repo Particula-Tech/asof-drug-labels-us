@@ -1,4 +1,4 @@
-Product Display Panel
+PRODUCT DISPLAY PANEL
 
 NDC 0145-0020-03
 

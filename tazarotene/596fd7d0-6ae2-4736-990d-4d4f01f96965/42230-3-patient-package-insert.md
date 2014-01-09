@@ -46,7 +46,7 @@ Before you use FABIOR Foam, tell your doctor if you:
 - •have any other medical conditions.
 - •are pregnant or plan to become pregnant.
   See “Who should not use FABIOR Foam?”
-- •are breast-feeding or plan to breastfeed.
+- •are breastfeeding or plan to breastfeed.
   It is not known if tazarotene passes into your breast milk.
   You and your doctor should decide if you will use FABIOR Foam or breastfeed.
   You should not do both.
@@ -78,7 +78,7 @@ How should I use FABIOR Foam?
 - •Keep FABIOR Foam away from your eyes, eyelids, mouth, and vagina.
   If FABIOR Foam comes into contact with your eyes, rinse them well with water.
 - •Wash your hands after applying FABIOR Foam.
-- •If you use too much FABIOR Foam, you may get redness, peeling or skin irritation in the treated area.
+- •If you use too much FABIOR Foam, you may get redness, peeling, or skin irritation in the treated area.
   Call your doctor if this happens, or if you accidently swallow FABIOR Foam.
 - •Follow your doctor's directions for other routine skin care and the use of make-up.
 - •You may also use a moisturizer as needed.
@@ -133,7 +133,7 @@ What should I avoid while using FABIOR Foam?
 - •Avoid using FABIOR Foam if you have a sunburn.
   If you have a sunburn, wait until it is fully healed before using FABIOR Foam.
 - •Talk to your doctor before using FABIOR Foam if you are sensitive to sunlight, take medications that increase your sensitivity to sunlight, or you must spend a lot of time in the sun for your job.
-- •Avoid weather extremes, such as wind and cold because they may irritate your skin more while you are using FABIOR Foam.
+- •Avoid weather extremes, such as wind and cold, because they may irritate your skin more while you are using FABIOR Foam.
 
 What are the possible side effects of FABIOR Foam?
 
@@ -193,28 +193,18 @@ The foam is dispensed from an aluminum can pressurized with a hydrocarbon (propa
 
 The Patient Information leaflet has been approved by the U.S. Food and Drug Administration
 
+FABIOR is a registered trademark of the GlaxoSmithKline group of companies, used under license by Stiefel Laboratories, Inc.
+
+Licensed from Allergan, Inc.
+
 Manufactured for:
 
 Stiefel Laboratories, Inc.
 
 Research Triangle Park, NC 27709
 
-Manufactured by:
+©2013 Stiefel Laboratories, Inc.
 
-DPT Laboratories, Ltd.
+December 2013
 
-307 E. Josephine Street
-
-San Antonio, TX 78215
-
-Licensed from Allergan, Inc.
-
-FAB:2PIL
-
-Rev: Sept 2012
-
-Issued 05/2012
-
-FABIOR is a trademark of the GlaxoSmithKline group of companies, used under license by Stiefel Laboratories, Inc.
-
-©2012 Stiefel Laboratories, Inc.
+FAB:3PIL

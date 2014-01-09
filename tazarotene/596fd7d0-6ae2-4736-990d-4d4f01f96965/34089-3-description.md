@@ -9,5 +9,5 @@ The structural formula is represented below:
 Molecular Formula: C21H21NO2S Molecular Weight: 351.46
 
 Tazarotene is a pale yellow to yellow substance.
-FABIOR Foam contains tazarotene, 1 mg/g in aqueous-based white to off-white foam vehicle consisting of butylated hydroxytoluene, ceteareth-12, citric acid anhydrous, diisopropyl adipate, light mineral oil, potassium citrate monohydrate, potassium sorbate, purified water, and sorbic acid.
+FABIOR Foam contains tazarotene, 1 mg/g, in aqueous-based white to off-white foam vehicle consisting of butylated hydroxytoluene, ceteareth-12, citric acid anhydrous, diisopropyl adipate, light mineral oil, potassium citrate monohydrate, potassium sorbate, purified water, and sorbic acid.
 FABIOR Foam is dispensed from an aluminum can pressurized with a hydrocarbon (propane/n-butane/isobutane) propellant.

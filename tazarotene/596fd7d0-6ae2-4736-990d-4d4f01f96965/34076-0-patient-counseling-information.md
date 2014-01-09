@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (Patient Information).]
+See FDA-Approved Patient Labeling (Patient Information).
 
 Inform the patient of the following:
 
@@ -18,6 +18,18 @@ Inform the patient of the following:
 - •Keep out of the reach of children.
 - •Not for ophthalmic, oral, or intravaginal use.
 
-FAB:2PI
+FABIOR is a registered trademark of the GlaxoSmithKline group of companies, used under license by Stiefel Laboratories, Inc.
+
+Manufactured for
+
+Stiefel Laboratories, Inc.
+
+Research Triangle Park, NC 27709
+
+Licensed from Allergan, Inc.
+
+©2013, Stiefel Laboratories, Inc.
+
+FAB:3PI
 
 Pharmacist-Detach here and Give Instructions to Patient

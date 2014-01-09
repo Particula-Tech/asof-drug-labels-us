@@ -1,16 +1,17 @@
 # 14 CLINICAL STUDIES
 
-In 2 multi-center, randomized, double-blind, vehicle-controlled studies, a total of 1485 patients with moderate-to-severe acne vulgaris were randomized 1:1 to FABIOR Foam or vehicle applied once daily for 12 weeks.
+In 2 multi-center, randomized, double-blind, vehicle-controlled studies, a total of 1,485 subjects with moderate-to-severe acne vulgaris were randomized 1:1 to FABIOR Foam or vehicle applied once daily for 12 weeks.
 Acne severity was evaluated using lesion counts and the 6-point Investigator’s Global Assessment (IGA) scale (see Table 2).
-At baseline, 80% of patients were graded as “moderate” or Grade 3 and 20% were graded as “severe” or Grade 4 on the IGA scale.
-At baseline, subjects had an average of 79.8 total lesions of which the mean number of inflammatory lesions was 31.9 and the mean number of non inflammatory lesions was 47.8.
-Patients ranged in age from 12 to 45 years, with 860 (58%) patients 12 to 17 years of age; 428 (29%) patients 18 to 25 years old; 143 (10%) patients 26 to 35 years old and 54 (4%) patients 36 to 45 years old.
-Patients enrolled in the studies by race were white (77%), Black (15%), Asian (4%) and other (4%).
+At baseline, 80% of subjects were graded as “moderate” or Grade 3 and 20% were graded as “severe” or Grade 4 on the IGA scale.
+At baseline, subjects had an average of 79.8 total lesions of which the mean number of inflammatory lesions was 31.9 and the mean number of non-inflammatory lesions was 47.8.
+Subjects ranged in age from 12 to 45 years, with 860 (58%) subjects aged 12 to 17 years; 428 (29%) subjects aged 18 to 25 years; 143 (10%) subjects aged 26 to 35 years and 54 (4%) subjects aged 36 to 45 years.
+Subjects enrolled in the studies by race were white (77%), black (15%), Asian (4%), and other (4%).
 Hispanics comprised 18% of the population.
 An equal number of males (49%) and females (51%) were enrolled.
-Treatment success was defined as a score of “clear” (Grade 0) or “almost clear” (Grade 1) and at least 2-grade improvement from the baseline score to week 12.
+Treatment success was defined as a score of “clear” (Grade 0) or “almost clear” (Grade 1) and at least 2‑grade improvement from the baseline score to Week 12.
 
-Table 2: Investigator's Global Assessment Scale
+Table 2.
+Investigator's Global Assessment Scale
 
 | Grade | Description |  |
 | --- | --- | --- |
@@ -21,14 +22,15 @@ Table 2: Investigator's Global Assessment Scale
 | 4 | Severe | Greater than Grade 3, up to many non-inflammatory and inflammatory lesions, but no more than a few nodular lesions. |
 | 5 | Very severe | Many non-inflammatory and inflammatory lesions and more than a few nodular lesions. May have cystic lesions. |
 
-Absolute and percent reductions in lesion counts and the IGA scale after 12 weeks of treatment in these two studies are shown in Table 3.
-Each study needed to have a statistically significant reduction in two out of three lesion counts at Week 12.
+Absolute and percent reductions in lesion counts and the IGA scale after 12 weeks of treatment in these 2 trials are shown in Table 3.
+Each trial needed to have a statistically significant reduction in 2 out of 3 lesion counts at Week 12.
 
-Table 3: Reductions in Lesion Counts and Improvements in Investigator’s Global Assessment at Week 12
+Table 3.
+Reductions in Lesion Counts and Improvements in Investigator’s Global Assessment at Week 12
 
-|  | FABIOR Foam N=371 | Vehicle Foam N=372 | FABIOR Foam N=373 | Vehicle Foam N=369 |
+|  | FABIOR Foam N = 371 | Vehicle Foam N = 372 | FABIOR Foam N = 373 | Vehicle Foam N = 369 |
 | --- | --- | --- | --- | --- |
-|  | Study 1 |  | Study 2 |  |
+|  | Trial 1 |  | Trial 2 |  |
 | Inflammatory Lesions |  |  |  |  |
 | Mean absolute reduction from Baseline | 18.0 | 14.0 | 18.0 | 15.0 |
 | Mean percent reduction from Baseline | 58% | 45% | 55% | 45% |
