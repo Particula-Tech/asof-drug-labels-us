@@ -1,156 +1,88 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-In multiple dose, placebo-controlled clinical studies, 264 patients were treated with tizanidine and 261 with placebo.
-Adverse events, including severe adverse events, were more frequently reported with tizanidine than with placebo.
+The following adverse reactions are described elsewhere in other sections of the prescribing information:
 
-Common Adverse Events Leading to Discontinuation
+- Hypotension [see Warnings and Precautions (5.1)]
+- Liver Injury [see Warnings and Precautions (5.2)]
+- Sedation [see Warnings and Precautions (5.3)]
+- Hallucinosis/Psychotic-Like Symptoms [see Warnings and Precautions (5.4)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
 
-Forty-five of 264 (17%) patients receiving tizanidine and 13 of 261 (5%) of patients receiving placebo in three multiple dose, placebo-controlled clinical studies, discontinued treatment for adverse events.
-When patients withdrew from the study, they frequently had more than one reason for discontinuing.
-The adverse events most frequently leading to withdrawal of tizanidine treated patients in the controlled clinical studies were asthenia (weakness, fatigue and/or tiredness) (3%), somnolence (3%), dry mouth (3%), increased spasm or tone (2%), and dizziness (2%).
+## 6.1 Clinical Trials Experience
 
-Most Frequent Adverse Clinical Events Seen in Association With the Use of Tizanidine
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 
-In multiple dose, placebo-controlled clinical studies involving 264 patients with spasticity, the most frequent adverse effects were dry mouth, somnolence/sedation, asthenia (weakness, fatigue and/or tiredness) and dizziness.
+Three double-blind, randomized, placebo controlled -clinical studies were conducted to evaluate the effect of tizanidine on spasticity control.
+Two studies were conducted in patients with multiple sclerosis and one in patients with spinal cord injury.
+Each study had a 13-week active treatment period which included a 3-week titration phase to the maximum tolerated dose up to 36 mg/day in three divided doses, a 9-week plateau phase where the dose of tizanidine was held constant and a 1-week dose tapering.
+In all, 264 patients received tizanidine and 261 patients received placebo.
+Across the three studies patient ages ranged from 15 to 69 years and 51.4 percent were women.
+The median dose during the plateau phase ranged from 20 to 28 mg/day.
+
+The most frequent adverse reactions reported in multiple dose, placebo-controlled clinical studies involving 264 patients with spasticity were dry mouth, somnolence/sedation, asthenia (weakness, fatigue and/or tiredness) and dizziness.
 Three-quarters of the patients rated the events as mild to moderate and one-quarter of the patients rated the events as being severe.
 These events appeared to be dose related.
 
-Adverse Events Reported in Controlled Studies
-
-The events cited reflect experience gained under closely monitored conditions of clinical studies in a highly selected patient population.
-In actual clinical practice or in other clinical studies, these frequency estimates may not apply, as the conditions of use, reporting behavior, and the kinds of patients treated may differ.
-Table 1 lists treatment emergent signs and symptoms that were reported in greater than 2% of patients in three multiple dose, placebo-controlled studies who received tizanidine where the frequency in the tizanidine group was at least as common as in the placebo group.
-These events are not necessarily related to tizanidine treatment.
+Table 1 lists signs and symptoms that were reported in greater than 2% of patients in three multiple dose, placebo-controlled studies who received tizanidine where the frequency in the tizanidine group was greater than the placebo group.
 For comparison purposes, the corresponding frequency of the event (per 100 patients) among placebo treated patients is also provided.
 
-Table 1: Multiple Dose, Placebo-Controlled Studies—Frequent (> 2%) Adverse Events Reported for Which Tizanidine Tablets Incidence is Greater than Placebo
+Table 1: Multiple Dose, Placebo-Controlled Studies—Frequent (>2%) Adverse Reactions Reported for Which Tizanidine Tablets Incidence is Greater than Placebo
 
 | Event | Placebo N = 261 % | Tizanidine Tablet N = 264 % |
 | --- | --- | --- |
-| Dry Mouth | 10 | 49 |
+| Dry mouth | 10 | 49 |
 | Somnolence | 10 | 48 |
-| Asthenia* | 16 | 41 |
+| Asthenia(weakness, fatigue, and/or tiredness) | 16 | 41 |
 | Dizziness | 4 | 16 |
 | UTI | 7 | 10 |
 | Infection | 5 | 6 |
 | Constipation | 1 | 4 |
-| Liver function tests abnormal | <1 | 3 |
+| Liver test abnormality | 2 | 6 |
 | Vomiting | 0 | 3 |
 | Speech disorder | 0 | 3 |
 | Amblyopia (blurred vision) | <1 | 3 |
 | Urinary frequency | 2 | 3 |
-| Flu symptom | 2 | 3 |
-| SGPT/ALT increased | <1 | 3 |
+| Flu syndrome | 2 | 3 |
 | Dyskinesia | 0 | 3 |
 | Nervousness | <1 | 3 |
 | Pharyngitis | 1 | 3 |
 | Rhinitis | 2 | 3 |
 
-*(weakness, fatigue, and/or tiredness)
-
-In the single dose, placebo-controlled study involving 142 patients with spasticity, the patients were specifically asked if they had experienced any of the four most common adverse events: dry mouth, somnolence (drowsiness), asthenia (weakness, fatigue and/or tiredness) and dizziness.
+In the single dose, placebo-controlled study involving 142 patients with spasticity due to multiple sclerosis (Study 1) [see Clinical Studies (14)], the patients were specifically asked if they had experienced any of the four most common adverse reactions: dry mouth, somnolence (drowsiness), asthenia (weakness, fatigue and/or tiredness) and dizziness.
 In addition, hypotension and bradycardia were observed.
-The occurrence of these adverse effects is summarized in Table 2.
+The occurrence of these reactions is summarized in Table 2.
 Other events were, in general, reported at a rate of 2% or less.
 
-Table 2: Single Dose, Placebo-Controlled Study—Common Adverse Events Reported
+Table 2: Single Dose, Placebo-Controlled Study—Common Adverse Reactions Reported
 
-| Event | Placebo N=48 % | Tizanidine Tablet, 8 mg, N=45 % | Tizanidine Tablet, 16 mg, N=49 % |
+| Event | Placebo N = 48 % | Tizanidine Tablet, 8mg, N = 45 % | Tizanidine Tablet, 16 mg, N = 49 % |
 | --- | --- | --- | --- |
 | Somnolence | 31 | 78 | 92 |
 | Dry mouth | 35 | 76 | 88 |
-| Asthenia* | 40 | 67 | 78 |
+| Asthenia(weakness, fatigue, and/or tiredness) | 40 | 67 | 78 |
 | Dizziness | 4 | 22 | 45 |
 | Hypotension | 0 | 16 | 33 |
 | Bradycardia | 0 | 2 | 10 |
 
-*(weakness, fatigue, and/or tiredness)
+## 6.2 Post-Marketing Experience
 
-Other Adverse Events Observed During the Evaluation of Tizanidine
+The following adverse reactions have been identified during post approval use of tizanidine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Tizanidine was administered to 1385 patients in additional clinical studies where adverse event information was available.
-The conditions and duration of exposure varied greatly, and included (in overlapping categories) double-blind and open-label studies, uncontrolled and controlled studies, inpatient and outpatient studies, and titration studies.
-Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
-Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
+Certain events, such as somnolence, dry mouth, hypotension, decreased blood pressure, bradycardia, dizziness, weakness or asthenia, muscle spasms, hallucinations, fatigue, liver function test abnormality and hepatotoxicity, have been observed in post marketing and clinical trials and are discussed in previous sections of this document.
 
-In the tabulations that follow, reported adverse events were classified using a standard COSTART-based dictionary terminology.
-The frequencies presented, therefore, represent the proportion of the 1385 patients exposed to tizanidine who experienced an event of the type cited on at least one occasion while receiving tizanidine.
-All reported events are included except those already listed in Table 1.
-If the COSTART term for an event was so general as to be uninformative, it was replaced by a more informative term.
-It is important to emphasize that, although the events reported occurred during treatment with tizanidine, they were not necessarily caused by it.
+The following adverse reactions have been identified as occurring in the post marketing experience of tizanidine.
+Based on the information provided regarding these reactions, a causal relationship with tizanidine cannot be entirely excluded.
+The events are listed in order of decreasing clinical significance; severity in the post marketing setting is not reported.
 
-Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled studies appear in this listing); infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare adverse events are those occurring in fewer than 1/1000 patients.
-
-Body as a Whole:
-
-Frequent: Fever
-
-Infrequent: Allergic reaction, moniliasis, malaise, abscess, neck pain, sepsis, cellulitis, death, overdose
-
-Rare: Carcinoma, congenital anomaly, suicide attempt
-
-Cardiovascular System:
-
-Infrequent: Vasodilatation, postural hypotension, syncope, migraine, arrhythmia
-
-Rare: Angina pectoris, coronary artery disorder, heart failure, myocardial infarct, phlebitis, pulmonary embolus, ventricular extrasystoles, ventricular tachycardia
-
-Digestive System:
-
-Frequent: Abdomen pain, diarrhea, dyspepsia
-
-Infrequent: Dysphagia, cholelithiasis, fecal impaction, flatulence, gastrointestinal hemorrhage, hepatitis, melena
-
-Rare: Gastroenteritis, hematemesis, hepatoma, intestinal obstruction, liver damage
-
-Hemic and Lymphatic System:
-
-Infrequent: Ecchymosis, hypercholesteremia, anemia, hyperlipemia, leukopenia, leukocytosis, sepsis
-
-Rare: Petechia, purpura, thrombocythemia, thrombocytopenia
-
-Metabolic and Nutritional System:
-
-Infrequent: Edema, hypothyroidism, weight loss
-
-Rare: Adrenal cortex insufficiency, hyperglycemia, hypokalemia, hyponatremia, hypoproteinemia, respiratory acidosis
-
-Musculoskeletal System:
-
-Frequent: Myasthenia, back pain
-
-Infrequent: Pathological fracture, arthralgia, arthritis, bursitis
-
-Nervous System:
-
-Frequent: Depression, anxiety, paresthesia
-
-Infrequent: Tremor, emotional lability, convulsion, paralysis, thinking abnormal, vertigo, abnormal dreams, agitation, depersonalization, euphoria, migraine, stupor, dysautonomia, neuralgia
-
-Rare: Dementia, hemiplegia, neuropathy
-
-Respiratory System:
-
-Infrequent: Sinusitis, pneumonia, bronchitis
-
-Rare: Asthma
-
-Skin and Appendages:
-
-Frequent: Rash, sweating, skin ulcer
-
-Infrequent: Pruritus, dry skin, acne, alopecia, urticaria
-
-Rare: Exfoliative dermatitis, herpes simplex, herpes zoster, skin carcinoma
-
-Special Senses:
-
-Infrequent: Ear pain, tinnitus, deafness, glaucoma, conjunctivitis, eye pain, optic neuritis, otitis media, retinal hemorrhage, visual field defect
-
-Rare: Iritis, keratitis, optic atrophy
-
-Urogenital System:
-
-Infrequent: Urinary urgency, cystitis, menorrhagia, pyelonephritis, urinary retention, kidney calculus, uterine fibroids enlarged, vaginal moniliasis, vaginitis
-
-Rare: Albuminuria, glycosuria, hematuria, metrorrhagia
+- Stevens Johnson Syndrome
+- Anaphylactic Reaction
+- Exfoliative Dermatitis
+- Ventricular Tachycardia
+- Hepatitis
+- Convulsion
+- Depression
+- Arthralgia
+- Paresthesia
+- Rash
+- Tremor
