@@ -4,7 +4,7 @@ Two double-blind placebo-controlled multicenter studies were conducted in North 
 The primary measures of efficacy were the same in both trials (clinical disease activity index (DAI), and histologic evaluations).
 The DAI is a composite index reflecting rectal bleeding, stool frequency, mucosal appearance at endoscopy, and a physician's global assessment of disease.
 The main difference between the studies was dosage regimen: 500 mg three times daily (1.5 g/d) in Study 1; and 500 mg twice daily (1.0 g/d) in Study 2.
-At total of 173 patients were studied (Study 1, N=79; Study 2, N=94).
+A total of 173 patients were studied (Study 1, N=79; Study 2, N=94).
 Eighty-nine (89) patients received mesalamine suppositories, and eighty-four (84) patients received placebo suppositories.
 Patients were evaluated clinically and sigmoidoscopically after three and six weeks of suppository treatment.
 In Study 1, patients were 17 to 73 years of age (mean = 39 years), 57% were female, and 97% were white.

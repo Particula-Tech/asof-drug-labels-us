@@ -18,16 +18,16 @@ Table 1: ADVERSE REACTIONS OCCURRING IN MORE THAN 1% OF MESALAMINE SUPPOSITORY T
 | Symptom | Mesalamine (n = 177) |  | Placebo (n = 84) |  |
 | --- | --- | --- | --- | --- |
 | N | % | N | % |  |
-| Dizziness | 5 | 3.0 | 2 | 2.4 |
+| Dizziness | 5 | 3 | 2 | 2.4 |
 | Rectal Pain | 3 | 1.8 | 0 | 0 |
 | Fever | 2 | 1.2 | 0 | 0 |
 | Rash | 2 | 1.2 | 0 | 0 |
 | Acne | 2 | 1.2 | 0 | 0 |
 | Colitis | 2 | 1.2 | 0 | 0 |
 
-In the multicenter, open-label, randomized, parallel group study comparing the CANASA 1000 mg suppository administered nightly to that of the CANASA 500 mg suppository twice daily, the two treatment groups had similary adverse event profiles.
+In a multicenter, open-label, randomized, parallel group study comparing the CANASA 1000 mg suppository administered nightly to that of the CANASA 500 mg suppository twice daily, the two treatment groups had similar adverse event profiles.
 The most frequent AEs were headache (14.4%), flatulence (5.2%), abdominal pain (5.2%), diarrhea (3.1%), and nausea (3.1%).
-Three (3) patients had to discontinue medication because of an adverse reaction; one of these adverse reactions (headache) was deemed possibly related to the study medication.
+Three (3) patients had to discontinue medication because of an adverse reaction; one of these adverse reactions (headache) was deemed possibly related to study medication.
 
 ## 6.2 Postmarketing Experience
 
@@ -36,12 +36,12 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Body as a Whole: ﻿drug fever, fatigue, lupus-like syndrome, medication residue
 - Cardiac Disorders: myocarditis, pericarditis, pericardial effusion
-- Eye Disorders: eye swelling
-- Gastrointestinal Disorders: abdominal cramps, abdominal distention, anal pruritus, anorectal discomfort, constipation, feces discolored, flatulence, frequent bowl movements, gastrointestinal bleeding, mucus stools, nausea, painful defecation, pancreatitis, proctalgia, rectal discharge, rectal tenesmus, stomach discomfort, vomiting
+- Eye disorders: eye swelling
+- Gastrointestinal Disorders: abdominal cramps, abdominal distension, anal pruritus, anorectal discomfort, constipation, feces discolored, flatulence, frequent bowel movements, gastrointestinal bleeding, mucus stools, nausea, painful defecation, pancreatitis, proctalgia, rectal discharge, rectal tenesmus, stomach discomfort, vomiting
 - ﻿Hepatic Disorders: ﻿cholestatic jaundice, hepatitis, jaundice, Kawasaki-like syndrome including changes in liver enzymes, liver necrosis, liver failure
 - Hematologic Disorders: ﻿agranulocytosis, aplastic anemia, thrombocytopenia
-- ﻿Neurological/Psychiatric Disorder:﻿ Guillain-Barre syndrome, peripheral neuropathy, transverse myelitis
+- ﻿Neurological/Psychiatric Disorders:﻿ Guillain-Barre syndrome, peripheral neuropathy, transverse myelitis
 - ﻿Renal Disorders:﻿ interstitial nephritis
-- Respiratory, Thoracic and Mediastinal Disorders: hypersensitivity, pneumonitis (including allergic alveolitis, eosinophilic pneumonitis, interstitial pneumonitis)
+- Respiratory, Thoracic and Mediastinal Disorders: hypersensitivity pneumonitis (including allergic alveolitis, eosinophilic pneumonitis, interstitial pneumonitis)
 - Skin and subcutaneous tissue Disorder: alopecia, erythema, erythema nodosum, pruritus, psoriasis, pyoderma gangrenosum, urticaria
-- ﻿Urogenital: ﻿reversible oligospermia
+- ﻿Urogenital:﻿ reversible oligospermia

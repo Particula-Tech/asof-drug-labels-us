@@ -93,9 +93,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store CANASA?
 
-- Store CANASA below 77°F (25°C)
+- Store CANASA below 77°F (25°C).
 - CANASA may be refrigerated.
-- Keep CANASA away from direct heat, light or humidity.
+- Keep CANASA away from direct heat, light, or humidity.
 
 Keep CANASA and all medicines out of the reach of children.
 
@@ -118,7 +118,7 @@ Active ingredients: Mesalamine
 
 Inactive ingredients: Hard fat base
 
-Distrubuted by:
+Distributed by:
 
 Aptalis Pharma US, Inc.
 

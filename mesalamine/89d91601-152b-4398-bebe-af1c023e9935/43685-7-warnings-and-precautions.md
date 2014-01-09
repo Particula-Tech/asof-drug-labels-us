@@ -29,4 +29,4 @@ Caution should be exercised when administering CANASA to patients with liver dis
 
 ## 5.5 Drug-Laboratories Test Interactions
 
-Several reports of possible interference with measurements, by liquid chromatography, of urinary normetanephrine have been observed in patients exposed to sulfasalazine or its metabolite, mesalamine/mesalazine.
+There have been several reports of possible interference with measurements, by liquid chromatography, of urinary normetanephrine in patients exposed to sulfasalazine or its metabolite, mesalamine/mesalazine.
