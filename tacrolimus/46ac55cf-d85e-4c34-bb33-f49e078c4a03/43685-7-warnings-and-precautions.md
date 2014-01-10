@@ -68,7 +68,7 @@ Based on reported adverse reactions terms related to decreased renal function, n
 
 Due to the potential for additive or synergistic impairment of renal function, care should be taken when administering tacrolimus with drugs that may be associated with renal dysfunction.
 These include, but are not limited to, aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors (e.g., tenofovir) and protease inhibitors (e.g., ritonavir, indinavir).
-Similarly, care should be exercised when administering with CYP3A4 inhibitors such as antifungal drugs (e.g., ketoconazole), calcium channel blockers (e.g., diltiazem, verapamil), and macrolide antibiotics (e.g., clarithromycin, erythromycin, troleandomycin) which will result in increased tacrolimus whole blood concentrations due to inhibition of tacrolimus metabolism [see DRUG INTERACTIONS (7.3,7.4, 7.5, 7.6)].
+Similarly, care should be exercised when administering with CYP3A4 inhibitors such as antifungal drugs (e.g., ketoconazole), calcium channel blockers (e.g., diltiazem, verapamil), and macrolide antibiotics (e.g., clarithromycin, erythromycin, troleandomycin) which will result in increased tacrolimus whole blood concentrations due to inhibition of tacrolimus metabolism [see DRUG INTERACTIONS (7.3, 7.4, 7.5, 7.6)].
 
 ## 5.8 Neurotoxicity
 
@@ -116,27 +116,38 @@ Use of sirolimus with tacrolimus in studies of de novo liver transplant patients
 
 Use of sirolimus (2 mg per day) with tacrolimus in heart transplant patients in a U.S. trial was associated with increased risk of renal function impairment, wound healing complications, and insulin-dependent post–transplant diabetes mellitus, and is not recommended [see CLINICAL STUDIES (14.3)].
 
-## 5.13 Use with CYP3A4 Inhibitors and Inducers Including Those That Prolong QT
+## 5.13 Use with CYP3A4 Inhibitors and Inducers
 
-Coadministration with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) is not recommended without adjustments in the dosing regimen of tacrolimus and subsequent close monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions [see DRUG INTERACTIONS (7)].
+When co-oadministering tacrolimus with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) adjustments in the dosing regimen of tacrolimus and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions [see DRUG INTERACTIONS (7)].
 
-When coadministering tacrolimus with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in tacrolimus dose, close monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
+## 5.14 QT Prolongation
+
+Tacrolimus may prolong the QT/QTc interval and may cause Torsade de Pointes.
+Avoid tacrolimus in patients with congenital long QT syndrome.
+In patients with congestive heart failure, bradyarrhythmias, those taking certain antiarrhythmic medications or other medicinal products that lead to QT prolongation and those with electrolyte disturbances such as hypokalemia, hypocalcemia, or hypomagnesemia, consider obtaining electgrocardiograms and monitoring electrolytes (magnesium potassium calcium) periodically during treatment.
+
+When coadministering tacrolimus with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in tacrolimus dose, frequent monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
 Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation.
 
-## 5.14 Myocardial Hypertrophy
+## 5.15 Myocardial Hypertrophy
 
 Myocardial hypertrophy has been reported in infants, children, and adults, particularly those with high tacrolimus trough concentrations, and is generally manifested by echocardiographically demonstrated concentric increases in left ventricular posterior wall and interventricular septum thickness.
 This condition appears reversible in most cases following dose reduction or discontinuance of therapy.
 In patients who develop renal failure or clinical manifestations of ventricular dysfunction while receiving tacrolimus therapy, echocardiographic evaluation should be considered.
 If myocardial hypertrophy is diagnosed, dosage reduction or discontinuation of tacrolimus should be considered [see ADVERSE REACTIONS (6.2)].
 
-## 5.15 Immunizations
+## 5.16 Immunizations
 
 The use of live vaccines should be avoided during treatment with tacrolimus; examples include (not limited to) the following: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
 
-## 5.16 Pure Red Cell Aplasia
+## 5.17 Pure Red Cell Aplasia
 
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with tacrolimus.
 A mechanism for tacrolimus-induced PRCA has not been elucidated.
 All patients reported risk factors for PRCA such as parvovirus B19 infection, underlying disease, or concomitant medications associated with PRCA.
 If PRCA is diagnosed, discontinuation of tacrolimus should be considered [see ADVERSE REACTIONS (6.2)].
+
+## 5.18 Gastrointestinal Perforation
+
+Gastrointestinal perforation has been reported in patients treated with tacrolimus; all reported cases were considered to be a complication of transplant surgery or accompanied by infection, diverticulum, or malignant neoplasm.
+As gastrointestinal perforation may be serious or life-threatening, appropriate medical/surgical management should be instituted promptly [see ADVERSE REACTIONS (6.1)].

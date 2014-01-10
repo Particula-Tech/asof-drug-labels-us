@@ -179,8 +179,8 @@ The most common side effects of Tacrolimus Capsules in people receiving liver tr
 - •weakness
 - •high levels of potassium in the blood
 - •low levels of magnesium in the blood
-- 
-- The most common side effects of tacrolimus capsules for heart transplant patients are:
+
+The most common side effects of tacrolimus capsules for heart transplant patients are:
 
 - •kidney problems
 - •high blood pressure
@@ -242,4 +242,4 @@ Manufactured in India by Sandoz Private Limited for
 
 Sandoz Inc; Princeton NJ 08540
 
-Revised: March 2013
+Revised: September 2013

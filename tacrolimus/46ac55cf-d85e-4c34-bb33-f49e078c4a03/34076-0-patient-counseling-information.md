@@ -50,4 +50,4 @@ Instruct patients to tell their healthcare providers if they plan to become preg
 
 ## 17.11 Immunizations
 
-Inform patients that tacrolimus capsules can interfere with the usual response to immunizations and that they should avoid live vaccines [see WARNINGS AND PRECAUTIONS (5.15)].
+Inform patients that tacrolimus capsules can interfere with the usual response to immunizations and that they should avoid live vaccines [see WARNINGS AND PRECAUTIONS (5.16)].

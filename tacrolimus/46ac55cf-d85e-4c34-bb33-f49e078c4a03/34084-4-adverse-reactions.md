@@ -12,8 +12,9 @@ The following serious and otherwise important adverse drug reactions are discuss
 - •Hyperkalemia [see WARNINGS AND PRECAUTIONS (5.9)]
 - •Hypertension [see WARNINGS AND PRECAUTIONS (5.10)]
 - •Anaphylaxis with Tacrolimus Injection [see WARNINGS AND PRECAUTIONS (5.11)]
-- •Myocardial Hypertrophy [see WARNINGS AND PRECAUTIONS (5.14)]
-- •Pure Red Cell Aplasia [see WARNINGS AND PRECAUTIONS (5.16)]
+- •Myocardial Hypertrophy [see WARNINGS AND PRECAUTIONS (5.15)]
+- •Pure Red Cell Aplasia [see WARNINGS AND PRECAUTIONS (5.17)]
+- •Gastrointestinal Perforation [see WARNINGS AND PRECAUTIONS (5.18)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -86,7 +87,7 @@ Kidney Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treat
 | Pruritus | 15% | 7% |
 
 Two trials were conducted for tacrolimus -based immunosuppression in conjunction with MMF and corticosteroids.
-In the non-US trial (Study 1), the incidence of adverse reactions was based on 1195 kidney transplant patients that received tacrolimus (Group C, n=403), or one of two cyclosporine (CsA) regimens (Group A, n=384 and Group B, n=408) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also received induction with daclizumab.
+In the non-US trial (Study 1), the incidence of adverse reactions was based on 1,195 kidney transplant patients that received tacrolimus (Group C, n=403), or one of two cyclosporine (CsA) regimens (Group A, n=384 and Group B, n=408) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also received induction with daclizumab.
 The trial population had a mean age of 46 years (range 17 to 76), the distribution was 65% male, and the composition was 93% Caucasian.
 The 12 month post-transplant information from this trial is presented below.
 
@@ -240,7 +241,7 @@ Heart Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treate
 | --- | --- | --- |
 |  | (n=157) | (n=157) |
 | Cardiovascular System |  |  |
-| Hypertension | 62% | 59% |
+| Hypertension | 62% | 69% |
 | Pericardial Effusion | 15% | 14% |
 | Body as a Whole |  |  |
 | CMV Infection | 32% | 30% |
@@ -420,7 +421,7 @@ Bile duct stenosis, colitis, enterocolitis, gastroenteritis, gastroesophageal re
 
 Hemic/Lymphatic
 
-Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see WARNINGS AND PRECAUTIONS (5.16)]
+Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see WARNINGS AND PRECAUTIONS (5.17)]
 
 Infections
 
