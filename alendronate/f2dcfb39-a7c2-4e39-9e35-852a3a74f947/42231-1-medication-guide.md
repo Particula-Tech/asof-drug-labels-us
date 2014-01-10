@@ -1,4 +1,4 @@
-MEDICATION GUIDE FOSAMAX® (FOSS-ah-max) (alendronate sodium) Tablets and Oral Solution
+MEDICATION GUIDE FOSAMAX® (FOSS-ah-max) (alendronate sodium) Tablets
 
 Read the Medication Guide that comes with FOSAMAX® before you start taking it and each time you get a refill.
 There may be new information.
@@ -114,11 +114,8 @@ How should I take FOSAMAX?
   - If you take Once Weekly FOSAMAX:
     - Choose the day of the week that best fits your schedule.
     - Take 1 dose of FOSAMAX every week on your chosen day after you get up for the day and before taking your first food, drink, or other medicine.
-  - If you take FOSAMAX Oral Solution:
-    - Drink your prescribed dose of FOSAMAX Oral Solution every week on your chosen day after you get up for the day and before taking your first food, drink or other medicine.
-      Drink at least 2 ounces of plain water after you drink FOSAMAX Oral Solution.
 
-After swallowing FOSAMAX tablet or oral solution, wait at least 30 minutes:
+After swallowing FOSAMAX tablet, wait at least 30 minutes:
 
 - Before you lie down.
   You may sit, stand or walk, and do normal activities like reading.
@@ -189,9 +186,3 @@ Tablets:
 Active ingredient: alendronate sodium
 
 Inactive ingredients: microcrystalline cellulose, anhydrous lactose, croscarmellose sodium, magnesium stearate.
-
-Oral Solution:
-
-Active ingredient: alendronate monosodium salt trihydrate
-
-Inactive ingredients: sodium citrate dihydrate, citric acid anhydrous, sodium saccharin, artificial raspberry flavor, water, sodium propylparaben 0.0225%, sodium butylparaben 0.0075%.

@@ -17,7 +17,7 @@ Even dosing with orange juice or coffee has been shown to markedly reduce the ab
 Instruct patients not to chew or suck on the tablet because of a potential for oropharyngeal ulceration.
 
 Instruct patients to swallow each tablet of FOSAMAX with a full glass of water (6-8 ounces) to facilitate delivery to the stomach and thus reduce the potential for esophageal irritation.
-Instruct patients to drink at least 2 ounces (a quarter of a cup) of water after taking FOSAMAX oral solution to facilitate gastric emptying.
+Instruct patients to drink at least 2 ounces (a quarter of a cup) of water after taking FOSAMAX oral solution, to facilitate gastric emptying.
 
 Instruct patients not to lie down for at least 30 minutes and until after their first food of the day.
 

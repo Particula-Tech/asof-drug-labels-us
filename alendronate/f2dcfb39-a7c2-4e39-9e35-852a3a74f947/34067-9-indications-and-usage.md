@@ -2,7 +2,7 @@
 
 ## 1.1 Treatment of Osteoporosis in Postmenopausal Women
 
-FOSAMAX is indicated for the treatment of osteoporosis in postmenopausal women.
+FOSAMAX® is indicated for the treatment of osteoporosis in postmenopausal women.
 In postmenopausal women, FOSAMAX increases bone mass and reduces the incidence of fractures, including those of the hip and spine (vertebral compression fractures).
 [See Clinical Studies (14.1).]
 

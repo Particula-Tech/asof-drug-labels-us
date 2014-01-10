@@ -5,7 +5,7 @@
 Daily Dosing
 
 The efficacy of FOSAMAX 10 mg daily was assessed in four clinical trials.
-Study 1, a three-year, multicenter double-blind, placebo-controlled, US clinical study enrolled 478 patients with a BMD T-score at or below minus 2.5 with or without a prior vertebral fracture; Study 2, a three-year, multicenter double blind placebo controlled Multinational clinical study enrolled 516 patients with a BMD T-score at or below minus 2.5 with or without a prior vertebral fracture; Study 3, the Three-Year Study of the Fracture Intervention Trial (FIT) a study which enrolled 2027 postmenopausal patients with at least one baseline vertebral fracture; and Study 4, the Four-Year Study of FIT: a study which enrolled 4432 postmenopausal patients with low bone mass but without a baseline vertebral fracture.
+Study 1, a three-year, multicenter, double-blind, placebo-controlled, US clinical study enrolled 478 patients with a BMD T-score at or below minus 2.5 with or without a prior vertebral fracture; Study 2, a three-year, multicenter, double-blind, placebo-controlled Multinational clinical study enrolled 516 patients with a BMD T-score at or below minus 2.5 with or without a prior vertebral fracture; Study 3, the Three-Year Study of the Fracture Intervention Trial (FIT) a study which enrolled 2027 postmenopausal patients with at least one baseline vertebral fracture; and Study 4, the Four-Year Study of FIT: a study which enrolled 4432 postmenopausal patients with low bone mass but without a baseline vertebral fracture.
 
 Effect on Fracture Incidence
 
@@ -103,11 +103,11 @@ These data, together with the normal bone histology and increased bone strength 
 Effect on Height
 
 FOSAMAX, over a three- or four-year period, was associated with statistically significant reductions in loss of height vs. placebo in patients with and without baseline radiographic vertebral fractures.
-At the end of the FIT studies the between-treatment group differences were 3.2 mm in the Three-Year Study and 1.3 mm in the Four-Year Study.
+At the end of the FIT studies, the between-treatment group differences were 3.2 mm in the Three-Year Study and 1.3 mm in the Four-Year Study.
 
 Weekly Dosing
 
-The therapeutic equivalence of once weekly FOSAMAX 70 mg (n=519) and FOSAMAX 10 mg daily (n=370) was demonstrated in a one-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
+The therapeutic equivalence of once-weekly FOSAMAX 70 mg (n=519) and FOSAMAX 10 mg daily (n=370) was demonstrated in a one-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
 In the primary analysis of completers, the mean increases from baseline in lumbar spine BMD at one year were 5.1% (4.8, 5.4%; 95% CI) in the 70-mg once-weekly group (n=440) and 5.4% (5.0, 5.8%; 95% CI) in the 10-mg daily group (n=330).
 The two treatment groups were also similar with regard to BMD increases at other skeletal sites.
 The results of the intention-to-treat analysis were consistent with the primary analysis of completers.

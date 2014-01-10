@@ -2,6 +2,8 @@
 
 Although alendronate tablets 5 mg, 10 mg, 35 mg, and 40 mg are available in the marketplace, FOSAMAX is no longer marketed in the 5 mg, 10 mg, 35 mg, and 40 mg strengths.
 
+Although an oral solution of alendronate may be available in the marketplace, FOSAMAX oral solution is no longer marketed.
+
 ## 2.1 Treatment of Osteoporosis in Postmenopausal Women
 
 The recommended dosage is:
@@ -62,5 +64,5 @@ Patients treated with glucocorticoids should receive adequate amounts of calcium
 
 ## 2.8 Administration Instructions for Missed Doses
 
-If a once-weekly dose of FOSAMAX (tablet or oral solution) is missed, instruct patients to take one dose on the morning after they remember.
+If a once-weekly dose of FOSAMAX is missed, instruct patients to take one dose on the morning after they remember.
 They should not take two doses on the same day but should return to taking one dose once a week, as originally scheduled on their chosen day.

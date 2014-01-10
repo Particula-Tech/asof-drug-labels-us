@@ -12,7 +12,3 @@ Alendronate sodium is a white, crystalline, nonhygroscopic powder.
 It is soluble in water, very slightly soluble in alcohol, and practically insoluble in chloroform.
 
 FOSAMAX tablets for oral administration contain 91.37 mg of alendronate monosodium salt trihydrate, which is the molar equivalent of 70 mg of free acid, and the following inactive ingredients: microcrystalline cellulose, anhydrous lactose, croscarmellose sodium, and magnesium stearate.
-
-Each bottle of the oral solution contains 91.35 mg of alendronate monosodium salt trihydrate, which is the molar equivalent to 70 mg of free acid.
-Each bottle also contains the following inactive ingredients: sodium citrate dihydrate and citric acid anhydrous as buffering agents, sodium saccharin, artificial raspberry flavor, and purified water.
-Added as preservatives are sodium propylparaben 0.0225% and sodium butylparaben 0.0075%.
