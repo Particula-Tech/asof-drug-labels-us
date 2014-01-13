@@ -20,4 +20,4 @@ erythromycin particles in tablets
 
 Rx only
 
-arbor™ PHARMACEUTICALS, INC. www.arborpharma.com
+arbor™ PHARMACEUTICALS, LLC.
