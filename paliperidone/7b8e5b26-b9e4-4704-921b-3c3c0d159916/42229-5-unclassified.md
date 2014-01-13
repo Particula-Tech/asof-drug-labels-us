@@ -8,6 +8,6 @@ Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 OROS is a registered trademark of ALZA Corporation
 
-Revised: June 2011
+Revised: January 2014
 
 ©Janssen Pharmaceuticals, Inc. 2007
