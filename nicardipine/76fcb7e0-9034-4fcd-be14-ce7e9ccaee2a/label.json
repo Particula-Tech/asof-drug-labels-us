@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090534"
+  ],
+  "inn": "nicardipine",
+  "labeler": "American Regent, Inc.",
+  "package_ndcs": [
+    "0517-0735-01",
+    "0517-0735-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "nicardipine hydrochloride",
+      "name": "Nicardipine Hydrochloride"
+    }
+  ],
+  "setid": "76fcb7e0-9034-4fcd-be14-ce7e9ccaee2a",
+  "source": "dailymed"
+}
