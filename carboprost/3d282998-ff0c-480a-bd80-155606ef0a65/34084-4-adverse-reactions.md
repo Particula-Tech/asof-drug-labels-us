@@ -13,7 +13,46 @@ The remaining temperature elevations returned to normal within several hours aft
 
 Adverse effects observed during the use of HEMABATE for abortion and for hemorrhage, not all of which are clearly drug related, in decreasing order of frequency include:
 
-| Vomiting Diarrhea Nausea Flushing or hot flashes Chills or shivering Coughing Headaches Endometritis Hiccough Dysmenorrhea-like pain Paresthesia Backache Muscular pain Breast tenderness Eye pain Drowsiness Dystonia Asthma Injection site pain Tinnitus Vertigo Vaso-vagal syndrome Dryness of mouth Hyperventilation Respiratory distress Hematemesis Taste alterations Urinary tract infection Septic shock Torticollis Lethargy Hypertension Tachycardia Pulmonary edema Endometritis from IUCD | Nervousness Nosebleed Sleep disorders Dyspnea Tightness in chest Wheezing Posterior cervical perforation Weakness Diaphoresis Dizziness Blurred vision Epigastric pain Excessive thirst Twitching eyelids Gagging, retching Dry throat Sensation of choking Thyroid storm Syncope Palpitations Rash Upper respiratory infection Leg cramps Perforated uterus Anxiety Chest pain Retained placental fragment Shortness of breath Fullness of throat Uterine sacculation Faintness, light- headedness Uterine rupture |
+| Vomiting | Nervousness |
 | --- | --- |
+| Diarrhea | Nosebleed |
+| Nausea | Sleep disorders |
+| Flushing or hot flashes | Dyspnea |
+| Chills or shivering | Tightness in chest |
+| Coughing | Wheezing |
+| Headaches | Posterior cervical perforation |
+| Endometritis | Weakness |
+| Hiccough | Diaphoresis |
+| Dysmenorrhea-like pain | Dizziness |
+| Paresthesia | Blurred vision |
+| Backache | Epigastric pain |
+| Muscular pain | Excessive thirst |
+| Breast tenderness | Twitching eyelids |
+| Eye pain | Gagging, retching |
+| Drowsiness | Dry throat |
+| Dystonia | Sensation of choking |
+| Asthma | Thyroid storm |
+| Injection site pain | Syncope |
+| Tinnitus | Palpitations |
+| Vertigo | Rash |
+| Vaso-vagal syndrome | Upper respiratory infection |
+| Dryness of mouth | Leg cramps |
+| Hyperventilation | Perforated uterus |
+| Respiratory distress | Anxiety |
+| Hematemesis | Chest pain |
+| Taste alterations | Retained placental fragment |
+| Urinary tract infection | Shortness of breath |
+| Septic shock | Fullness of throat |
+| Torticollis | Uterine sacculation |
+| Lethargy | Faintness, light-headedness |
+| Hypertension | Uterine rupture |
+| Tachycardia |  |
+| Pulmonary edema |  |
+| Endometritis from IUCD |  |
 
 The most common complications when HEMABATE was utilized for abortion requiring additional treatment after discharge from the hospital were endometritis, retained placental fragments, and excessive uterine bleeding, occurring in about one in every 50 patients.
+
+## Post-marketing experience
+
+Hypersensitivity reactions (e.g.
+Anaphylactic reaction, Anaphylactic shock, Anaphylactoid reaction, Angioedema).
