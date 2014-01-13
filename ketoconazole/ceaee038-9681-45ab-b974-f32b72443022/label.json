@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021738"
+  ],
+  "inn": "ketoconazole",
+  "labeler": "Prestium Pharma, Inc.",
+  "package_ndcs": [
+    "40076-051-00",
+    "40076-051-50"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "ketoconazole",
+      "name": "EXTINA"
+    }
+  ],
+  "setid": "ceaee038-9681-45ab-b974-f32b72443022",
+  "source": "dailymed"
+}

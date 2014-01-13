@@ -1,0 +1,1 @@
+PRINCIPAL DISPLAY PANEL NDC 40076-051-00 100 g Rx only FOR TOPICAL USE ONLY extina® (ketoconazole) Foam, 2%

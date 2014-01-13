@@ -1,0 +1,15 @@
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+EXTINA® Foam, 2% is supplied in 50 g (NDC 40076-051-50) and 100 g (NDC 40076-051-00) aluminum containers.
+
+Store at controlled room temperature 68° to 77°F (20° to 25°C).
+Do not store under refrigerated conditions.
+Do not expose containers to heat, and/or store at temperatures above 120°F (49°C).
+Do not store in direct sunlight.
+
+Contents are flammable.
+
+Contents under pressure.
+Do not puncture and/or incinerate container.
+
+Keep out of reach of children.
