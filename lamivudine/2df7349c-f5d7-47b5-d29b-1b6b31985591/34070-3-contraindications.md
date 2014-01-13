@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-EPIVIR-HBV Tablets and EPIVIR-HBV Oral Solution are contraindicated in patients with previously demonstrated clinically significant hypersensitivity to any of the components of the products.
+EPIVIR-HBV is contraindicated in patients who have experienced a previous hypersensitivity reaction (e.g., anaphylaxis) to lamivudine or to any component of the tablets or oral solution.

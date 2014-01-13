@@ -1,95 +1,81 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Several serious adverse events reported with lamivudine (lactic acidosis and severe hepatomegaly with steatosis, posttreatment exacerbations of hepatitis B, pancreatitis, and emergence of viral mutants associated with reduced drug susceptibility and diminished treatment response) are also described in WARNINGS and PRECAUTIONS.
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-## Clinical Trials In Chronic Hepatitis B:
+- Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.1)].
+- Exacerbation of hepatitis B after discontinuation of treatment [see Warnings and Precautions (5.2)].
+- Risk of emergence of resistant HIV-1 infection [see Warnings and Precautions (5.3)].
+- Risk of emergence of resistant HBV infection [see Warnings and Precautions (5.4)].
 
-Adults: Selected clinical adverse events observed with a ≥5% frequency during therapy with EPIVIR-HBV compared with placebo are listed in Table 5.
-Frequencies of specified laboratory abnormalities during therapy with EPIVIR-HBV compared with placebo are listed in Table 6.
+## 6.1 Clinical Trials Experience
 
-Table 5.
-Selected Clinical Adverse Events (≥5% Frequency) in 3 Placebo-Controlled Clinical Trials in Adults During Treatmenta (Studies 1-3)
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-| Adverse Event | EPIVIR-HBV(n = 332) | Placebo(n = 200) |
+Adverse Reactions in Clinical Trials of Adults With Chronic Hepatitis B Virus Infection: Clinical adverse reactions (regardless of investigator’s causality assessment) reported in greater or equal to 10% of subjects who received EPIVIR-HBV and reported at a rate greater than placebo are listed in Table 2.
+
+Table 2.
+Clinical Adverse Reactionsa Reported in ≥10% of Subjects who Received EPIVIR-HBV for 52 to 68 Weeks and at an Incidence Greater than Placebo (Trials 1-3)
+
+| Adverse Event | EPIVIR-HBV (n = 332) | Placebo (n = 200) |
 | --- | --- | --- |
-| Non-site Specific |  |  |
-| Malaise and fatigue | 24% | 28% |
-| Fever or chills | 7% | 9% |
 | Ear, Nose, and Throat |  |  |
 | Ear, nose, and throat infections | 25% | 21% |
 | Sore throat | 13% | 8% |
 | Gastrointestinal |  |  |
-| Nausea and vomiting | 15% | 17% |
-| Abdominal discomfort and pain | 16% | 17% |
 | Diarrhea | 14% | 12% |
-| Musculoskeletal |  |  |
-| Myalgia | 14% | 17% |
-| Arthralgia | 7% | 5% |
-| Neurological |  |  |
-| Headache | 21% | 21% |
-| Skin |  |  |
-| Skin rashes | 5% | 5% |
-| a Includes patients treated for 52 to 68 weeks. |  |  |
 
-Table 6.
-Frequencies of Specified Laboratory Abnormalities in 3 Placebo-Controlled Trials in Adults During Treatmenta (Studies 1-3)
+aIncludes adverse events regardless of severity and causality assessment.
 
-| Test(Abnormal Level) | Patients With Abnormality/Patients With Observations |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| EPIVIR-HBV | Placebo |  |  |  |  |
-| ALT >3 x baselineb | 37/331 (11%) | 26/199 (13%) |  |  |  |
-| Albumin <2.5 g/dL | 0/331 (0%) | 2/199 (1%) |  |  |  |
-| Amylase >3 x baseline | 2/259 (<1%) | 4/167 (2%) |  |  |  |
-| Serum Lipase ≥2.5 x ULNc | 19/189 (10%) | 9/127 (7%) |  |  |  |
-| CPK ≥7 x baseline | 31/329 (9%) | 9/198 (5%) |  |  |  |
-| Neutrophils <750/mm3 | 0/331 (0%) | 1/199 (<1%) |  |  |  |
-| Platelets <50,000/mm3 | 10/272 (4%) | 5/168 (3%) |  |  |  |
-| a Includes patients treated for 52 to 68 weeks. |  |  |  |  |  |
-| b See Table 7 for posttreatment ALT values. |  |  |  |  |  |
-| c Includes observations during and after treatment in the 2 placebo-controlled trials that collected this information. |  |  |  |  |  |
-| ULN = Upper limit of normal. |  |  |  |  |  |
+Specified laboratory abnormalities reported in subjects who received EPIVIR-HBV and reported at a rate greater than in subjects who received placebo are listed in Table 3.
 
-In patients followed for up to 16 weeks after discontinuation of treatment, posttreatment ALT elevations were observed more frequently in patients who had received EPIVIR-HBV than in patients who had received placebo.
-A comparison of ALT elevations between Weeks 52 and 68 in patients who discontinued EPIVIR-HBV at Week 52 and patients in the same studies who received placebo throughout the treatment course is shown in Table 7.
+Table 3.
+Frequencies of Specified Laboratory Abnormalities Reported During Treatment at a Greater Frequency in Subjects Treated with EPIVIR-HBV Than With Placebo (Trials 1‑3)a
 
-Table 7.
-Posttreatment ALT Elevations in 2 Placebo-Controlled Studies in Adults With No-Active-Treatment Follow-up (Studies 1 and 3)
+| Test (Abnormal Level) | Subjects With Abnormality/Subjects With Observations |  |
+| --- | --- | --- |
+| EPIVIR-HBV | Placebo |  |
+| Serum Lipase ≥2.5 x ULNb | 10% | 7% |
+| CPK ≥7 x baseline | 9% | 5% |
+| Platelets <50,000/mm3 | 4% | 3% |
 
-| Abnormal Value | Patients With ALT Elevation/Patients With Observationsa |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| EPIVIR-HBV | Placebo |  |  |  |  |  |  |  |
-| ALT ≥2 x baseline value | 37/137 (27%) | 22/116 (19%) |  |  |  |  |  |  |
-| ALT ≥3 x baseline valueb | 29/137 (21%) | 9/116 (8%) |  |  |  |  |  |  |
-| ALT ≥2 x baseline value and absolute ALT >500 IU/L | 21/137 (15%) | 8/116 (7%) |  |  |  |  |  |  |
-| ALT ≥2 x baseline value; and bilirubin >2 x ULN and ≥2 x baseline value | 1/137 (0.7%) | 1/116 (0.9%) |  |  |  |  |  |  |
-| a Each patient may be represented in one or more category. |  |  |  |  |  |  |  |  |
-| b Comparable to a Grade 3 toxicity in accordance with modified WHO criteria. |  |  |  |  |  |  |  |  |
-| ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |
+a Includes subjects treated for 52 to 68 weeks.
 
-## Lamivudine in Patients With HIV:
+b Includes observations during and after treatment in the 2 placebo-controlled trials that collected this information.
 
-In HIV-infected patients, safety information reflects a higher dose of lamivudine (150 mg b.i.d.) than the dose used to treat chronic hepatitis B in HIV-negative patients.
-In clinical trials using lamivudine as part of a combination regimen for treatment of HIV infection, several clinical adverse events occurred more often in lamivudine-containing treatment arms than in comparator arms.
-These included nasal signs and symptoms (20% vs. 11%), dizziness (10% vs. 4%), and depressive disorders (9% vs. 4%).
-Pancreatitis was observed in 9 of the 2,613 adult patients (<0.5%) who received EPIVIR in controlled clinical trials.
-Laboratory abnormalities reported more often in lamivudine-containing arms included neutropenia and elevations of liver function tests (also more frequent in lamivudine-containing arms for a retrospective analysis of HIV/HBV dually infected patients in one study), and amylase elevations.
-Please see the complete prescribing information for EPIVIR Tablets and Oral Solution for more information.
+ULN = Upper limit of normal.
 
-## Pediatric Patients With Hepatitis B:
+In subjects followed for up to 16 weeks after discontinuation of treatment, posttreatment ALT elevations were observed more frequently in subjects who had received EPIVIR-HBV than in subjects who had received placebo.
+A comparison of ALT elevations between Weeks 52 and 68 in subjects who discontinued EPIVIR-HBV at Week 52 and subjects in the same trials who received placebo throughout the treatment course is shown in Table 4.
 
-Most commonly observed adverse events in the pediatric trials were similar to those in adult trials; in addition, respiratory symptoms (cough, bronchitis, and viral respiratory infections) were reported in both lamivudine and placebo recipients.
-Posttreatment transaminase elevations were observed in some patients followed after cessation of lamivudine.
+Table 4.
+Posttreatment ALT Elevations With No-Active-Treatment Follow-up (Trails 1 and 3)
 
-## Pediatric Patients With HIV Infection:
+| Abnormal Value | Subjects With ALT Elevation/ Subjects With Observationsa |  |
+| --- | --- | --- |
+| EPIVIR-HBVb | Placebob |  |
+| ALT ≥2 x baseline value | 27% | 19% |
+| ALT ≥3 x baseline valuec | 21% | 8% |
+| ALT ≥2 x baseline value and absolute ALT >500 IU/L | 15% | 7% |
+| ALT ≥2 x baseline value; and bilirubin >2 x ULN and ≥2 x baseline value | 0.7% | 0.9% |
 
-In early open-label studies of lamivudine in children with HIV, peripheral neuropathy and neutropenia were reported, and pancreatitis was observed in 14% to 15% of patients.
+aEach subject may be represented in one or more category.
 
-## Observed During Clinical Practice:
+b During treatment phase.
 
-The following events have been identified during post-approval use of lamivudine in clinical practice.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to either their seriousness, frequency of reporting, potential causal connection to lamivudine, or a combination of these factors.
-Post-marketing experience with lamivudine at this time is largely limited to use in HIV-infected patients.
+cComparable to a Grade 3 toxicity in accordance with modified WHO criteria.
+
+ULN = Upper limit of normal.
+
+Adverse Reactions in Clinical Trials of Pediatric Subjects With Chronic Hepatitis B Virus Infection: Most commonly observed adverse reactions in the pediatric trials were similar to those in adult trials.
+Posttreatment transaminase elevations were observed in some subjects followed after cessation of EPIVIR-HBV.
+
+## 6.2 Postmarketing Experience
+
+In addition to adverse reactions reported from clinical trials, the following adverse reactions have been reported during postmarketing use of EPIVIR-HBV.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
+These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to lamivudine.
+
+Blood and Lympatic System Disorders: Thrombocytopenia.
 
 Digestive: Stomatitis.
 
@@ -97,13 +83,13 @@ Endocrine and Metabolic: Hyperglycemia.
 
 General: Weakness.
 
-Hemic and Lymphatic: Anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
+Blood and Lymphatic: Anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
 
-Hepatic and Pancreatic: Lactic acidosis and steatosis, pancreatitis, posttreatment exacerbation of hepatitis (see WARNINGS and PRECAUTIONS).
+Hepatic and Pancreatic: Lactic acidosis and steatosis, posttreatment exacerbation of hepatitis [see Boxed Warning], pancreatitis.
 
 Hypersensitivity: Anaphylaxis, urticaria.
 
-Musculoskeletal: Rhabdomyolysis.
+Musculoskeletal: Cramps, rhabdomyolysis.
 
 Nervous: Paresthesia, peripheral neuropathy.
 
