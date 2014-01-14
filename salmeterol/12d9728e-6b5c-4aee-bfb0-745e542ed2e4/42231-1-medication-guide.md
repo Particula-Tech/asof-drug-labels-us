@@ -16,8 +16,8 @@ SEREVENT DISKUS can cause serious side effects, including:
    - ∘Call your healthcare provider if breathing problems worsen over time while using SEREVENT DISKUS.
      You may need a different treatment.
    - ∘Get emergency medical care if:
-     - ▪breathing problems worsen quickly, and
-     - ▪you use your rescue inhaler medicine, but it does not relieve your breathing problems.
+   - ∘breathing problems worsen quickly, and
+   - ∘you use your rescue inhaler medicine, but it does not relieve your breathing problems.
 2. 2.Do not use SEREVENT DISKUS as your only asthma medicine.
    SEREVENT DISKUS must only be used with a long-term asthma-control medicine, such as an inhaled corticosteroid.
 3. 3.When your asthma is well controlled, your healthcare provider may tell you to stop taking SEREVENT DISKUS.
