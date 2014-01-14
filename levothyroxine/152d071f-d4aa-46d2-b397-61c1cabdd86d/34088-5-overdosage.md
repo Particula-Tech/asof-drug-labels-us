@@ -1,0 +1,14 @@
+# 10 OVERDOSAGE
+
+In general, the signs and symptoms of overdosage with levothyroxine are those of hyperthyroidism [see Warnings and Precautions (5) and Adverse Reactions (6)].
+In addition, confusion and disorientation may occur.
+Cerebral embolism, shock, coma, and death have been reported.
+Excessive doses of Levothyroxine Sodium for Injection (greater than 500 mcg) are associated with cardiac complications in patients with underlying cardiac disease.
+
+Treatment of Overdosage
+
+Levothyroxine Sodium for Injection should be reduced in dose or temporarily discontinued if signs or symptoms of overdosage occur.
+To obtain up-to-date information about the treatment of overdose, a good resource is the certified Regional Poison Control Center.
+In managing overdosage, consider the possibility of multiple drug overdoses, interaction among drugs, and unusual drug kinetics in the patient.
+
+In the event of an overdose, appropriate supportive treatment should be initiated as dictated by the patient’s medical status.
