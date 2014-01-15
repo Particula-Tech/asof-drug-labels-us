@@ -30,7 +30,7 @@ Instruct patients to:
 
 ## 17.5 Concomitant Medications
 
-Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take, including prescription or over-the-counter proton pump inhibitors (e.g., omeprazole), warfarin or NSAIDs [see Warnings and Precautions (5)].
+Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take [see Warnings and Precautions (5) and Drug Interactions (7)].
 
 Manufactured In Israel By:
 
@@ -46,4 +46,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-D 9/2013
+E 12/2013
