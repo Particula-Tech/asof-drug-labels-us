@@ -2,9 +2,7 @@
 
 Medication Guide
 
-Escitalopram Oxalate
-
-Oral Solution
+Escitalopram Oxalate (EE-sye-TAL-o-pram OX-a-late) Oral Solution
 
 Read the Medication Guide that comes with escitalopram oxalate before you start taking it and each time you get a refill.
 There may be new information.
@@ -259,6 +257,6 @@ Distributed by:
 Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-02-2013
+01-2014
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
