@@ -16,9 +16,6 @@ The maximum sirolimus tablets dose administered on any day should not exceed 40 
 If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days.
 Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
 
-Two milligrams (2 mg) of sirolimus oral solution have been demonstrated to be clinically equivalent to 2 mg sirolimus tablets; hence, are interchangeable on a mg-to-mg basis.
-However, it is not known if higher doses of sirolimus oral solution are clinically equivalent to higher doses of sirolimus tablets on a mg-to-mg basis [see CLINICAL PHARMACOLOGY (12.3)].
-
 ## 2.1 Patients at Low- to Moderate-Immunologic Risk
 
 Sirolimus and Cyclosporine Combination Therapy

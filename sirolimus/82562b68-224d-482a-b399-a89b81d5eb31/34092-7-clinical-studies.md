@@ -172,7 +172,9 @@ INCIDENCE OF FIRST BIOPSY-PROVEN ACUTE REJECTION (%) BY TREATMENT GROUP AT 36 MO
 | Post-randomization from 12 to 36 months | 1.4 | 0.5 |
 | Post-randomization through 36 months | 5.6 | 10.2 |
 | Total at 36 months | 14.9 | 20.5 |
-| a: Includes patients who prematurely discontinued treatment. b: All patients received corticosteroids. c: Randomization occurred at 3 months ± 2 weeks. |  |  |
+| a: Includes patients who prematurely discontinued treatment. |  |  |
+| b: All patients received corticosteroids. |  |  |
+| c: Randomization occurred at 3 months ± 2 weeks. |  |  |
 
 Patients receiving renal allografts with ≥ 4 HLA mismatches experienced significantly higher rates of acute rejection following randomization to the cyclosporine withdrawal group, compared with patients who continued cyclosporine (15.3% vs. 3%).
 Patients receiving renal allografts with ≤ 3 HLA mismatches demonstrated similar rates of acute rejection between treatment groups (6.8% vs. 7.7%) following randomization.
@@ -220,7 +222,8 @@ EFFICACY FAILURE, GRAFT LOSS OR DEATH AND CALCULATED GLOMERULAR FUNCTION RATES (
 | Efficacy Failure (%) | 23.2 |
 | Graft Loss or Death (%) | 9.8 |
 | Renal Function (mean ± SEM)a,b | 52.6 ± 1.6 (n = 222) |
-| a: Calculated glomerular filtration rate by Nankivell equation. b: Patients who had graft loss were included in this analysis with GFR set to 0. |  |
+| a: Calculated glomerular filtration rate by Nankivell equation. |  |
+| b: Patients who had graft loss were included in this analysis with GFR set to 0. |  |
 
 Patient survival at 12 months was 94.6%.
 The incidence of biopsy-confirmed acute rejection was 17.4% and the majority of the episodes of acute rejection were mild in severity.
@@ -282,8 +285,8 @@ The rates of premature study discontinuation (primarily due to adverse events or
 ## 14.6 Pediatrics
 
 Sirolimus was evaluated in a 36 month, open-label, randomized, controlled clinical trial at 14 North American centers in pediatric (aged 3 to < 18 years) renal transplant patients considered to be at high-immunologic risk for developing chronic allograft nephropathy, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy.
-Seventy-eight (78) subjects were randomized in a 2:1 ratio to sirolimus (sirolimus target concentrations of 5 to 15 ng/mL, by chromatographic assay, n = 53) in combination with a calcineurin inhibitor and corticosteroids or to continue calcineurin inhibitor-based immunosuppressive therapy (n = 25).
-The primary endpoint of the study was efficacy failure as defined by the first occurrence of biopsy-confirmed acute rejection, graft loss, or death, and the trial was designed to show superiority of sirolimus added to a calcineurin inhibitor-based immunosuppressive regimen compared to a calcineurin inhibitor-based regimen.
+Seventy-eight (78) subjects were randomized in a 2:1 ratio to sirolimus (sirolimus target concentrations of 5 to 15 ng/mL, by chromatographic assay, n = 53) in combination with a calcineurin-inhibitor and corticosteroids or to continue calcineurin-inhibitor-based immunosuppressive therapy (n = 25).
+The primary endpoint of the study was efficacy failure as defined by the first occurrence of biopsy-confirmed acute rejection, graft loss, or death, and the trial was designed to show superiority of sirolimus added to a calcineurin- inhibitor-based immunosuppressive regimen compared to a calcineurin-inhibitor-based regimen.
 The cumulative incidence of efficacy failure up to 36 months was 45.3% in the sirolimus group compared to 44% in the control group, and did not demonstrate superiority.
 There was one death in each group.
 The use of sirolimus in combination with calcineurin inhibitors and corticosteroids was associated with an increased risk of deterioration of renal function, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections [see WARNINGS AND PRECAUTIONS (5.8)].

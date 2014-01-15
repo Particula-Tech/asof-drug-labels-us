@@ -96,7 +96,10 @@ SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENT
 | Low-to-moderate risk (Study 3) | sirolimus + CsA | 8.6 | 5 to 13a | 9.1 | 5.4 to 14 |
 |  | sirolimus alone | 19 | 14 to 22a | 16 | 11 to 22 |
 | High risk (Study 4) | sirolimus + CsA | 15.7 11.8 11.5 | 5.4 to 27.3b 6.2 to 16.9c 6.3 to 17.3d | _ | _ |
-| a: Months 4 through 12 b: Up to Week 2; observed CsA Cmin was 217 (56 to 432) ng/mL c: Week 2 to Week 26; observed CsA Cmin range was 174 (71 to 288) ng/mL d: Week 26 to Week 52; observed CsA Cmin was 136 (54.5 to 218) ng/mL |  |  |  |  |  |
+| a: Months 4 through 12 |  |  |  |  |  |
+| b: Up to Week 2; observed CsA Cmin was 217 (56 to 432) ng/mL |  |  |  |  |  |
+| c: Week 2 to Week 26; observed CsA Cmin range was 174 (71 to 288) ng/mL |  |  |  |  |  |
+| d: Week 26 to Week 52; observed CsA Cmin was 136 (54.5 to 218) ng/mL |  |  |  |  |  |
 
 The withdrawal of cyclosporine and concurrent increases in sirolimus trough concentrations to steady-state required approximately 6 weeks.
 Following cyclosporine withdrawal, larger sirolimus doses were required due to the absence of the inhibition of sirolimus metabolism and transport by cyclosporine and to achieve higher target sirolimus trough concentrations during concentration-controlled administration [see DOSAGE AND ADMINISTRATION (2.1), DRUG INTERACTIONS (7.1)].
@@ -133,7 +136,9 @@ SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6 to 11 | 8 | 27 ± 10 | 22.1 ± 8.9 | 5.88 ± 4.05 | 10.6 ± 4.3 | 356 ± 127 | 214 ± 129 | 5.4 ± 2.8 |
 | 12 to 18 | 14 | 52 ± 15 | 34.5 ± 12.2 | 2.7 ± 1.5 | 14.7 ± 8.6 | 466 ± 236 | 136 ± 57 | 4.7 ± 1.9 |
-| a: sirolimus coadministered with cyclosporine oral solution [MODIFIED] (e.g., Neoral®$ Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral®$ Soft Gelatin Capsules). b: As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS). c: Oral-dose clearance adjusted by either body weight (kg) or body surface area (m2). |  |  |  |  |  |  |  |  |
+| a: sirolimus coadministered with cyclosporine oral solution [MODIFIED] (e.g., Neoral®$ Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral®$ Soft Gelatin Capsules). |  |  |  |  |  |  |  |  |
+| b: As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS). |  |  |  |  |  |  |  |  |
+| c: Oral-dose clearance adjusted by either body weight (kg) or body surface area (m2). |  |  |  |  |  |  |  |  |
 
 The table below summarizes pharmacokinetic data obtained in pediatric dialysis patients with chronically impaired renal function.
 
@@ -203,7 +208,7 @@ Erythromycin
 
 Erythromycin is a substrate and inhibitor of CYP3A4 and P-gp; coadministration of sirolimus oral solution or tablets and erythromycin is not recommended [see WARNINGS AND PRECAUTIONS (5.17), DRUG INTERACTIONS (7.2)].
 The simultaneous oral administration of 2 mg daily of sirolimus oral solution and 800 mg q 8h of erythromycin as erythromycin ethylsuccinate tablets at steady state to 24 healthy volunteers significantly affected the bioavailability of sirolimus and erythromycin.
-Sirolimus Cmax and AUC were increased 4.4- and 4.2-fold respectively and tmax was increased by 0.4 hr. Erythromycin Cmax and AUC were increased 1.6-and 1.7-fold, respectively, and tmax was increased by 0.3 hr.
+Sirolimus Cmax and AUC were increased 4.4- and 4.2-fold respectively and tmax was increased by 0.4 hr. Erythromycin Cmax and AUC were increased 1.6- and 1.7-fold, respectively, and tmax was increased by 0.3 hr.
 
 Ketoconazole
 

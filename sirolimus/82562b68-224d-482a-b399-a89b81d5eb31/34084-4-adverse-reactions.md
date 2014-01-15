@@ -73,7 +73,7 @@ The following adverse reactions were reported less frequently (≥ 3%, but < 20%
 - Musculoskeletal System – Bone necrosis.
 - Respiratory System – Pneumonia, epistaxis.
 - Skin – Melanoma, squamous cell carcinoma, basal cell carcinoma.
-- Urogenital System – Pyelonephritis, decline in renal function (creatinine increased) in long-term combination of cyclosporine with sirolimus [see WARNINGS AND PRECAUTIONS (5.8)], ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
+- Urogenital System – Pyelonephritis, decline in renal function (creatinine increased) in long-term combination of cyclosporine with sirolimus [see WARNINGS AND PRECAUTIONS(5.8)], ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
 
 Less frequently (< 3%) occurring adverse reactions included: lymphoma/post-transplant lymphoproliferative disorder, mycobacterial infections (including M. tuberculosis), pancreatitis, cytomegalovirus (CMV), and Epstein-Barr virus.
 
@@ -181,18 +181,18 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Body as a Whole – Lymphedema.
 - Cardiovascular – Pericardial effusion (including hemodynamically significant effusions and tamponade requiring intervention in children and adults) and fluid accumulation.
 - Digestive System – Ascites.
-- Hematological/Lymphatic – The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA [see WARNINGS AND PRECAUTIONS (5.13)]; pancytopenia, neutropenia.
+- Hematological/Lymphatic – The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA [see WARNINGS AND PRECAUTIONS(5.13)]; pancytopenia, neutropenia.
 - Hepatobiliary Disorders – Hepatotoxicity, including fatal hepatic necrosis, with elevated sirolimus trough concentrations.
-- Immune System - Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis [see WARNINGS AND PRECAUTIONS (5.4)].
+- Immune System - Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis [see WARNINGS AND PRECAUTIONS(5.4)].
 - Infections – Tuberculosis.
   BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including sirolimus.
   This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss.
-  Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including sirolimus [see WARNINGS AND PRECAUTIONS (5.10)].
+  Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including sirolimus [see WARNINGS AND PRECAUTIONS(5.10)].
   Clostridium difficile enterocolitis.
 - Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia.
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including sirolimus.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of sirolimus.
-  The risk may be increased as the sirolimus trough concentration increases [see WARNINGS AND PRECAUTIONS (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
+  The risk may be increased as the sirolimus trough concentration increases [see WARNINGS AND PRECAUTIONS(5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
 - Skin – Exfoliative dermatitis [see WARNINGS AND PRECAUTIONS (5.4)].
 - Urogenital - Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
   Azoospermia has been reported with the use of sirolimus and has been reversible upon discontinuation of sirolimus in most cases.

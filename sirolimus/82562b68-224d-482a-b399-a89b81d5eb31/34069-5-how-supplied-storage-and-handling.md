@@ -22,26 +22,6 @@ NDC 65841-771-10 in bottle of 1000 tablets
 
 NDC 65841-771-77 in unit-dose blister cartons of 100 (10 x 10) unit dose tablets
 
-Sirolimus Tablets, 1 mg are white to off-white, round, biconvex, film-coated tablets debossed with 11 on one side and plain on other side and are supplied as follows:
-
-NDC 65841-772-01 in bottle of 100 tablets
-
-NDC 65841-772-05 in bottle of 500 tablets
-
-NDC 65841-772-10 in bottle of 1000 tablets
-
-NDC 65841-772-77 in unit-dose blister cartons of 100 (10 x 10) unit dose tablets
-
-Sirolimus Tablets, 2 mg are yellow, round, biconvex, coated tablets, debossed with 21 on one side and plain on other side and are supplied as follows:
-
-NDC 65841-773-01 in bottle of 100 tablets
-
-NDC 65841-773-05 in bottle of 500 tablets
-
-NDC 65841-773-10 in bottle of 1000 tablets
-
-NDC 65841-773-77 in unit-dose blister cartons of 100 (10 x 10) unit dose tablets
-
 Storage
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].

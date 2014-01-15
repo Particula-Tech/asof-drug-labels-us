@@ -30,7 +30,7 @@ See the section "What are the possible side effects of sirolimus?" for informati
 What is sirolimus?
 
 Sirolimus is a prescription medicine used to prevent rejection (anti-rejection medicine) in people 13 years of age and older who have received a kidney transplant.
-Rejection is when your body’s immune system recognizes the new organ as a "foreign" threat and attacks it.
+Rejection is when your body's immune system recognizes the new organ as a "foreign" threat and attacks it.
 
 Sirolimus is used with other medicines called cyclosporine (Gengraf®^, Neoral®$, Sandimmune®#), and corticosteroids.
 Your doctor will decide:
@@ -201,8 +201,7 @@ What are the ingredients in sirolimus tablets?
 
 Active ingredients: sirolimus.
 
-The inactive ingredients: citric acid monohydrate, crospovidone, glyceryl monooleate, hypromellose, lactose monohydrate, microcrystalline cellulose, poloxamer, polyethylene glycol, povidone, sucrose, talc, titanium dioxide and vitamin E acetate.
-Additionally each 0.5 mg tablet contains FD&C yellow #5 Aluminium Lake and iron oxide yellow; 2 mg tablet contains following inactive ingredients: iron oxide black, iron oxide red and iron oxide yellow.
+The inactive ingredients: citric acid monohydrate, crospovidone, FD&C yellow #5 Aluminum Lake, glyceryl monooleate, hypromellose, iron oxide yellow, lactose monohydrate, microcrystalline cellulose, poloxamer, polyethylene glycol, povidone, sucrose, talc, titanium dioxide and vitamin E acetate.
 
 ^Gengraf® is the registered trademark of AbottLabratries
 
