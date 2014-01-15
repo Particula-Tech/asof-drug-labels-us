@@ -19,7 +19,7 @@ The maximum effect usually occurs within 5 minutes of each injection.
 
 Slow Continuous Infusion
 
-Labetalol hydrochloride injection is prepared for continuous intravenous infusion by diluting the contents with commonly used intravenous fluids (see below).
+Labetalol hydrochloride injection is prepared for continuous intravenous infusion by diluting the drug with commonly used intravenous fluids (see below).
 Examples of methods of preparing the infusion solution are:
 
 Labetalol hydrochloride injection 200 mg is added to 160 mL of a commonly used intravenous fluid such that the resultant 200 mL of solution contains 200 mg of labetalol hydrochloride, 1 mg/mL.
@@ -91,3 +91,5 @@ Lactated Ringers Injection, USP
 5% Dextrose and 0.33% Sodium Chloride Injection, USP
 
 Labetalol hydrochloride injection was NOT compatible with 5% Sodium Bicarbonate Injection, USP.
+Care should be taken when administering alkaline drugs, including furosemide, in combination with labetalol.
+Compatibility should be assured prior to administering these drugs together.

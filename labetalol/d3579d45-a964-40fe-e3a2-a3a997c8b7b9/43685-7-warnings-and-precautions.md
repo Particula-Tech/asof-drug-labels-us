@@ -67,8 +67,6 @@ The desired blood pressure lowering should therefore be achieved over as long a 
 
 General
 
-Impaired Hepatic Function
-
 Labetalol injection should be used with caution in patients with impaired hepatic function since metabolism of the drug may be diminished.
 
 Hypotension
@@ -89,7 +87,7 @@ Therefore, use of labetalol should be avoided in such patients.
 
 High-Dose Labetalol
 
-Administration of up to 3 g/d as an infusion for up to 2 to 3 days has been anecdotally reported; several patients experienced hypotension or bradycardia (see DOSAGE AND ADMINISTRATION).
+Administration of up to 3 g/d as an infusion for up to 2 to 3 days has been anecdotally reported; several patients experienced hypotension or bradycardia.
 
 Jaundice or Hepatic Dysfunction
 

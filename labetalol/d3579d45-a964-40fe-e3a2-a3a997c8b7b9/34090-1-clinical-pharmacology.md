@@ -15,7 +15,7 @@ Labetalol consistently, in dose-related fashion, blunted increases in exercise-i
 The pulmonary circulation during exercise was not affected by labetalol dosing.
 
 Single oral doses of labetalol administered in patients with coronary artery disease had no significant effect on sinus rate, intraventricular conduction, or QRS duration.
-The AV conduction time was modestly prolonged in 2 of 7 patients.
+The atrioventricular (AV) conduction time was modestly prolonged in 2 of 7 patients.
 In another study, intravenous labetalol slightly prolonged AV nodal conduction time and atrial effective refractory period with only small changes in heart rate.
 The effects on AV nodal refractoriness were inconsistent.
 
