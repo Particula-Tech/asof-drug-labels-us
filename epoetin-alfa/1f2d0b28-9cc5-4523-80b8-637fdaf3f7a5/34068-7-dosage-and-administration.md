@@ -64,8 +64,6 @@ Discontinue Epogen if an increase in hemoglobin is not achieved at a dose of 300
 
 ## 2.4 Patients on Cancer Chemotherapy
 
-Only prescribers enrolled in the ESA APPRISE Oncology Program may prescribe and/or dispense Epogen [see Warnings and Precautions (5.2)].
-
 Initiate Epogen in patients on cancer chemotherapy only if the hemoglobin is less than 10 g/dL, and if there is a minimum of two additional months of planned chemotherapy.
 
 Use the lowest dose of Epogen necessary to avoid RBC transfusions.

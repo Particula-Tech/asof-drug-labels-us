@@ -8,7 +8,7 @@ Inform patients with cancer that they must sign the patient-healthcare provider 
 
 Inform patients:
 
-- To read the Medication Guide and to review and discuss any questions or concerns with their healthcare provider before starting Epogen and at regular intervals while receiving Epogen.
+- To read the Medication Guide.
 - Of the increased risks of mortality, serious cardiovascular reactions, thromboembolic reactions, stroke, and tumor progression [see Warnings and Precautions (5.1, 5.3)].
 - To undergo regular blood pressure monitoring, adhere to prescribed anti-hypertensive regimen and follow recommended dietary restrictions.
 - To contact their healthcare provider for new-onset neurologic symptoms or change in seizure frequency.

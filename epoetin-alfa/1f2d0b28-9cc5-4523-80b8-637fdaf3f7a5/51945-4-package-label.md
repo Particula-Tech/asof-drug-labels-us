@@ -33,7 +33,7 @@ Thousand Oaks, CA 91320-1799 U.S.A.
 
 U.S. License No. 1080
 
-©2010 Amgen Inc.
+©2012 Amgen Inc.
 
 Rx Only
 
@@ -70,7 +70,7 @@ Thousand Oaks, CA 91320-1799 U.S.A.
 
 U.S. License No. 1080
 
-©2010 Amgen Inc.
+©2012 Amgen Inc.
 
 Rx Only
 
@@ -107,7 +107,7 @@ Thousand Oaks, CA 91320-1799 U.S.A.
 
 U.S. License No. 1080
 
-©2010 Amgen Inc.
+©2012 Amgen Inc.
 
 Rx Only
 
@@ -144,7 +144,7 @@ Thousand Oaks, CA 91320-1799 U.S.A.
 
 U.S. License No. 1080
 
-©2010 Amgen Inc.
+©2012 Amgen Inc.
 
 Rx Only
 
@@ -181,7 +181,7 @@ Thousand Oaks, CA 91320-1799 U.S.A.
 
 U.S. License No. 1080
 
-©2010 Amgen Inc.
+©2012 Amgen Inc.
 
 Rx Only
 
@@ -218,7 +218,7 @@ Thousand Oaks, CA 91320-1799 U.S.A.
 
 U.S. License No. 1080
 
-©2010 Amgen Inc.
+©2012 Amgen Inc.
 
 Rx Only
 
