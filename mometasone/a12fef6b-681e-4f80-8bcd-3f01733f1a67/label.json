@@ -3,7 +3,7 @@
     "ANDA076679"
   ],
   "inn": "mometasone",
-  "labeler": "Perrigo New York Inc",
+  "labeler": "Perrigo New York Inc.",
   "package_ndcs": [
     "45802-257-35",
     "45802-257-42"
@@ -12,7 +12,7 @@
     {
       "form": "CREAM",
       "generic": "mometasone furoate",
-      "name": "mometasone furoate"
+      "name": "Mometasone Furoate"
     }
   ],
   "setid": "a12fef6b-681e-4f80-8bcd-3f01733f1a67",
