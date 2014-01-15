@@ -77,7 +77,7 @@ Limited pharmacokinetic data are available in elderly subjects.
 Following once daily repeat oral administration of 30 mg levocetirizine for 6 days in 9 elderly subjects (65 to 74 years of age), the total body clearance was approximately 33% lower compared to that in younger adults.
 The disposition of racemic cetirizine has been shown to be dependent on renal function rather than on age.
 This finding would also be applicable for levocetirizine, as levocetirizine and cetirizine are both predominantly excreted in urine.
-Therefore, the levocetirizine dose should be adjusted in accordance with renal function in elderly patients [see Dosage and Administration (2)].
+Therefore, the levocetirizine dihydrochloride dose should be adjusted in accordance with renal function in elderly patients [see Dosage and Administration (2)].
 
 - Gender
 
@@ -94,19 +94,19 @@ No race-related differences in the kinetics of racemic cetirizine have been obse
 - Renal Impairment
 
 Levocetirizine exposure (AUC) exhibited 1.8, 3.2, 4.3, and 5.7 fold increase in mild, moderate, severe, renal impaired, and end-stage renal disease patients, respectively, compared to healthy subjects.
-The corresponding increases of half-life estimates were 1.4, 2, 2.9, and 4 fold, respectively.
+The corresponding increases of half-life estimates were 1.4, 2.0, 2.9, and 4 fold, respectively.
 
 The total body clearance of levocetirizine after oral dosing was correlated to the creatinine clearance and was progressively reduced based on severity of renal impairment.
 Therefore, it is recommended to adjust the dose and dosing intervals of levocetirizine based on creatinine clearance in patients with mild, moderate, or severe renal impairment.
 In end-stage renal disease patients (CLCR < 10 mL/min) levocetirizine is contraindicated.
 The amount of levocetirizine removed during a standard 4 hour hemodialysis procedure was < 10%.
 
-The dosage of levocetirizine should be reduced in patients with mild renal impairment.
+The dosage of levocetirizine dihydrochloride should be reduced in patients with mild renal impairment.
 Both the dosage and frequency of administration should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.4)].
 
 - Hepatic Impairment
 
-Levocetirizine has not been studied in patients with hepatic impairment.
+Levocetirizine dihydrochloride has not been studied in patients with hepatic impairment.
 The non-renal clearance (indicative of hepatic contribution) was found to constitute about 28% of the total body clearance in healthy adult subjects after oral administration.
 
 As levocetirizine is mainly excreted unchanged by the kidney, it is unlikely that the clearance of levocetirizine is significantly decreased in patients with solely hepatic impairment [see Dosage and Administration (2)].
