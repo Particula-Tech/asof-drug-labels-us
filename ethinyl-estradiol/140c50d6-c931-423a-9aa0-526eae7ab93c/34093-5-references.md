@@ -1,8 +1,8 @@
 # REFERENCES
 
-1. Trussel J. Contraceptive efficacy.
-   In Hatcher RA, Trussel J, Stewart F, Cates W, Stewart GK, Kowal D, Guest F, Contraceptive Technology: Seventeenth Revised Edition.
-   New York NY: Irvington Publishers, 1998, in press.
+1. Trussell J. Contraceptive efficacy.
+   In Hatcher RA, Trussell J, Stewart F, Cates W, Stewart GK, Kowal D, Guest F, Contraceptive Technology: Seventeenth Revised Edition.
+   New York NY: Irvington Publishers, 1998.
 2. Stadel BV.
    Oral contraceptives and cardiovascular disease.(Pt.
    1).
@@ -13,7 +13,7 @@
    2).
    N Engl J Med 1981; 305:672-677.
 4. Adam SA, Thorogood M. Oral contraception and myocardial infarction revisited: the effects of new preparations and prescribing patterns.
-   Br J Obstet Gynaecol 1981; 88:838-845.
+   Br J Obstet Gynecol 1981; 88:838-845.
 5. Mann JI, Inman WH.
    Oral contraceptives and death from myocardial infarction.
    Br Med J 1975; 2(5965):245-248.
@@ -81,7 +81,7 @@
     A report to the Committee on Safety of Drugs.
     Br Med J 1970; 2:203-209.
 32. Meade TW, Greenberg G, Thompson SG.
-    Progestogens and cardiovascular reactions associated with oral contraceptives and a comparison of the safety of 50- and 35-mcg oestrogen preparations.
+    Progestogens and cardiovascular reactions associated with oral contraceptives and a comparison of the safety of 50- and 35-mcg estrogen preparations.
     Br Med J 1980; 280(6224):1157-1161.
 33. Kay CR.
     Progestogens and arterial disease - evidence from the Royal College of General Practitioners' Study.
@@ -226,7 +226,7 @@
 90. Collaborative Group on Hormonal Factors in Breast Cancer.
     Breast cancer and hormonal contraceptives: collaborative reanalysis of individual data on 53,297 women with breast cancer and 100,239 women without breast cancer from 54 epidemiological studies.
     Lancet 1996; 347:1713-1727.
-91. Palmer JR, Rosenberg L, Kaufman DW, Warshauer ME, Stolley P, Shapiro S. Oral contraceptive Use and Liver Cancer.
+91. Palmer JR, Rosenberg L, Kaufman DW, Warshauer ME, Stolley P, Shapiro S. Oral Contraceptive Use and Liver Cancer.
     Am J Epidemiol 1989; 130:878-882.
 92. Improving access to quality care in family planning: Medical eligibility criteria for contraceptive use.
     Geneva, WHO, Family and Reproductive Health, 1996.
@@ -236,3 +236,7 @@
     Int J Clin Pharmacol Ther 2006;44(3):113-118.
 95. Christensen J, Petrenaite V, Atterman J, et al. Oral contraceptives induce lamotrigine metabolism: evidence from a double-blind, placebo-controlled trial.
     Epilepsia 2007;48(3):484-489.
+96. Chobanian et al. Seventh report of the joint national committee on prevention, detection, evaluation, and treatment of high blood pressure.
+    Hypertension 2003;42;1206–1252.
+97. Brown KS, Armstrong IC, Wang A, Walker JR, Noveck RJ, Swearingen D, Allison M, Kissling JC, Kisicki J, Salazar D. Effect of the bile acid sequestrant colesevelam on the pharmacokinetics of pioglitazone, repaglinide, estrogen estradiol, norethindrone, levothyroxine, and glyburide.
+    J Clin Pharmacol 2010;50:554–565.

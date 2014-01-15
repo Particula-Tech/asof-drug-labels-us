@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-An increased risk of the following serious adverse reactions has been associated with the use of oral contraceptives (see WARNINGSsection).
+An increased risk of the following serious adverse reactions has been associated with the use of oral contraceptives (see WARNINGS).
 
 - Thrombophlebitis and venous thrombosis with or without embolism
 - Arterial thromboembolism
@@ -64,3 +64,5 @@ The following adverse reactions have been reported in users of oral contraceptiv
 - Changes in libido
 - Colitis
 - Budd-Chiari Syndrome
+
+The following adverse reactions were also reported in clinical trials or during postmarketing experience: Gastrointestinal Disorders: diarrhea, pancreatitis; Musculoskeletal and Connective Tissue Disorders: muscle spasms, back pain; Reproductive System and Breast Disorders vulvovaginal pruritus, pelvic pain, dysmenorrhea, vulvovaginal dryness; Psychiatric Disorders: anxiety, mood swings, mood altered; Skin and Subcutaneous Tissue Disorders: pruritus, photosensitivity reaction; General Disorders and Administration Site Conditions: edema peripheral, fatigue, irritability, asthenia, malaise; Neoplasms Benign, Malignant, and Unspecified (Including Cysts and Polyps): breast cancer, breast mass, breast neoplasm, cervix carcinoma; Immune System Disorders: anaphylactic/anaphylactoid reaction; Hepatobiliary Disorders: hepatitis, cholelithiasis.

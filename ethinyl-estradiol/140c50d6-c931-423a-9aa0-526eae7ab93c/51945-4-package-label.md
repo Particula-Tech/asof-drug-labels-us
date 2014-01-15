@@ -1,101 +1,81 @@
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL, Part 1 of 2
 
-## Nortrel 1/35 21 Day Regimen Foil Pouch Text
+# PRINCIPAL DISPLAY PANEL, Part 2 of 2
+
+## Nortrel 1/35 mg, 3 Blister Cards, 21 Tablets Each Carton Text
 
 NDC 0555-9009-42
 
-Nortrel®
-
-(norethindrone and ethinyl
-
-estradiol tablets, USP)
-
-1/35
-
-Each yellow tablet contains 1 mg norethindrone and 0.035 mg
-
-ethinyl estradiol.
+3 Blister Cards, 21 Tablets Each
 
 21 DAY REGIMEN
 
-Rx only
-
-THIS PRODUCT (LIKE ALL ORAL CONTRACEPTIVES)
-
-IS INTENDED TO PREVENT PREGNANCY.
-IT DOES
-
-NOT PROTECT AGAINST HIV INFECTION (AIDS) AND
-
-OTHER SEXUALLY TRANSMITTED DISEASES.
-
-Barr Laboratories, Inc. SHAPING WOMEN'S HEALTH Barr Laboratories, Inc.
-
-# PRINCIPAL DISPLAY PANEL
-
-## Nortrel 1/35 28 Day Regimen Foil Pouch Text
-
-NDC 0555-9010-58
-
-Nortrel®
-
-(norethindrone and ethinyl
-
-estradiol tablets, USP)
+Nortrel® (norethindrone and ethinyl estradiol tablets, USP)
 
 1/35
 
-Each yellow tablet contains 1 mg norethindrone and 0.035 mg
+Rx only
 
-ethinyl estradiol.
-Each white tablet (7) contains inert ingredients.
+Usual Dosage: One tablet daily as recommended in enclosed detailed product information.
+
+To the Dispenser: This carton contains one combination labeling piece of information intended for the patient.
+Informational pieces are to be provided to the patient with each prescription.
+
+barr® Laboratories, Inc.
+
+SHAPING WOMEN'S HEALTH® Barr Laboratories, Inc.
+
+# PRINCIPAL DISPLAY PANEL, Part 1 of 2
+
+# PRINCIPAL DISPLAY PANEL, Part 2 of 2
+
+## Nortrel 1/35 mg, 6 Blister Cards, 28 Tablets Each Carton Text
+
+6 Blister Cards, 28 Tablets Each
 
 28 DAY REGIMEN
 
-Rx only
+NDC 0555-9010-58
 
-THIS PRODUCT (LIKE ALL ORAL CONTRACEPTIVES)
+Nortrel® (norethindrone and ethinyl estradiol tablets, USP)
 
-IS INTENDED TO PREVENT PREGNANCY.
-IT DOES
+1/35
 
-NOT PROTECT AGAINST HIV INFECTION (AIDS) AND
+Contains 6 blister cards, each containing 28 tablets.
+Twenty-one yellow tablets, each containing 1 mg norethindrone and 0.035 mg ethinyl estradiol; and 7 white inert tablets.
 
-OTHER SEXUALLY TRANSMITTED DISEASES.
+Usual Dosage: One tablet daily as recommended in enclosed detailed product information.
 
-Barr Laboratories, Inc. SHAPING WOMEN'S HEALTH Barr Laboratories, Inc.
+To the Dispenser: This carton contains one combination labeling piece of information intended for the patient.
+Informational pieces are to be provided to the patient with each prescription.
 
-# PRINCIPAL DISPLAY PANEL
+barr® Laboratories, Inc.
 
-## Nortrel 0.5/35 28 Day Regimen Foil Pouch Text
+SHAPING WOMEN'S HEALTH® Barr Laboratories, Inc.
+
+# PRINCIPAL DISPLAY PANEL, Part 1 of 2
+
+# PRINCIPAL DISPLAY PANEL, Part 2 of 2
+
+## Nortrel 0.5/35 mg, 3 Blister Cards, 28 Tablets Each Carton Text
 
 NDC 0555-9008-67
 
-Nortrel®
-
-(norethindrone and ethinyl
-
-estradiol tablets, USP)
-
-0.5/35
-
-Each yellow tablet contains 0.5 mg
-
-norethindrone and 0.035 mg ethinyl estradiol.
-
-Each white tablet (7) contains inert ingredients.
+3 Blister Cards, 28 Tablets Each
 
 28 DAY REGIMEN
 
+Nortrel® (norethindrone and ethinyl estradiol tablets, USP)
+
+0.5/35
+
 Rx only
 
-THIS PRODUCT (LIKE ALL ORAL CONTRACEPTIVES)
+Usual Dosage: One tablet daily as recommended in enclosed detailed product information.
 
-IS INTENDED TO PREVENT PREGNANCY.
-IT DOES
+To the Dispenser: This carton contains one combination labeling piece of information intended for the patient.
+Informational pieces are to be provided to the patient with each prescription.
 
-NOT PROTECT AGAINST HIV INFECTION (AIDS) AND
+barr® Laboratories, Inc.
 
-OTHER SEXUALLY TRANSMITTED DISEASES.
-
-Barr Laboratories, Inc. SHAPING WOMEN'S HEALTH Barr Laboratories, Inc.
+SHAPING WOMEN'S HEALTH® Barr Laboratories, Inc.

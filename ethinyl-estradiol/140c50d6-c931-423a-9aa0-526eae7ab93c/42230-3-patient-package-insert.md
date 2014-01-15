@@ -9,7 +9,7 @@ For the majority of women, oral contraceptives can be taken safely.
 But there are some women who are at high risk of developing certain serious diseases that can be fatal or may cause temporary or permanent disability.
 The risks associated with taking oral contraceptives increase significantly if you:
 
-- Smoke
+- smoke
 - have high blood pressure, diabetes, high cholesterol
 - have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice or malignant or benign liver tumors.
 
@@ -34,9 +34,9 @@ However, you should know that the following medical conditions have been associa
 
 The symptoms associated with these serious side effects are discussed in the detailed leaflet given to you with your supply of pills.
 Notify your healthcare professional if you notice any unusual physical disturbances while taking the pill.
-In addition, drugs such as rifampin, as well as some anticonvulsants and some antibiotics may decrease oral contraceptive effectiveness.
+In addition, drugs such as rifampin, bosentan, as well as some seizure medicines and herbal preparations containing St. John’s wort (Hypericum perforatum) may decrease oral contraceptive effectiveness.
 
-Oral contraceptives may interact with lamotrigine (LAMICTAL®), an anticonvulsant used for epilepsy.
+Oral contraceptives may interact with lamotrigine (LAMICTAL®), a seizure medicine used for epilepsy.
 This may increase the risk of seizures so your healthcare professional may need to adjust the dose of lamotrigine.
 
 Various studies give conflicting reports on the relationship between breast cancer and oral contraceptive use.
@@ -74,14 +74,14 @@ BEFORE YOU START TAKING YOUR PILLS:
    If you miss pills you could get pregnant.
    This includes starting the pack late.
    The more pills you miss, the more likely you are to get pregnant.
-3. MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1-3 PACKS OF PILLS.
+3. MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1 TO 3 PACKS OF PILLS.
    If you feel sick to your stomach, do not stop taking the pill.
    The problem will usually go away.
    If it doesn't go away, check with your healthcare professional.
 4. MISSING PILLS CAN ALSO CAUSE SPOTTING OR LIGHT BLEEDING, even when you make up these missed pills.
    On the days you take 2 pills to make up for missed pills, you could also feel a little sick to your stomach.
-5. IF YOU HAVE VOMITING OR DIARRHEA, or IF YOU TAKE SOME MEDICINES, including some antibiotics, your pills may not work as well.
-   Use a back-up method (such as condoms or spermicide) until you check with your healthcare professional.
+5. IF YOU HAVE VOMITING OR DIARRHEA, or IF YOU TAKE SOME MEDICINES, your pills may not work as well.
+   Use a back-up method (such as a condom or spermicide) until you check with your healthcare professional.
 6. IF YOU HAVE TROUBLE REMEMBERING TO TAKE THE PILL, talk to your healthcare professional about how to make pill-taking easier or about using another method of birth control.
 7. IF YOU HAVE ANY QUESTIONS OR ARE UNSURE ABOUT THE INFORMATION IN THIS LEAFLET, call your healthcare professional.
 
@@ -98,7 +98,7 @@ BEFORE YOU START TAKING YOUR PILLS
    Nortrel® 0.5/35 (norethindrone and ethinyl estradiol tablets USP): There are 21 light yellow “active” pills.
 3. ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills.
    CHECK ADDITIONAL INSTRUCTIONS FOR USING THIS PACKAGE IN THE BRIEF SUMMARY PATIENT PACKAGE INSERT.
-4. BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as condoms or spermicide) to use as a back-up method in case you miss pills.
+4. BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as a condom or spermicide) to use as a back-up method in case you miss pills.
    AN EXTRA, FULL PILL PACK.
 
 WHEN TO START THE FIRST PACK OF PILLS
@@ -117,7 +117,7 @@ If your period begins on Sunday, start the pack the same day.
 Nortrel® 0.5/35 (norethindrone and ethinyl estradiol tablets USP): Take the first light yellow “active” pill of the first pack on the Sunday after your period starts, even if you are still bleeding.
 If your period begins on Sunday, start the pack the same day.
 
-Use another method of birth control such as condoms or spermicide as a back-up method if you have sex anytime from the Sunday you start your first pack until the next Sunday (7 days).
+Use another method of birth control such as a condom or spermicide as a back-up method if you have sex anytime from the Sunday you start your first pack until the next Sunday (7 days).
 
 DAY 1 START:
 
@@ -140,7 +140,7 @@ WHAT TO DO DURING THE MONTH
 
 WHAT TO DO IF YOU MISS PILLS
 
-Nortrel® 1/35 (norethindrone and ethinyl estradiol tablets, USP):
+Nortrel® 1/35 (norethindrone and ethinyl estradiol tablets USP):
 
 If you MISS 1 yellow “active” pill:
 
@@ -154,7 +154,7 @@ If you MISS 2 yellow “active” pills in a row in WEEK 1 OR WEEK 2 of your pac
 1. Take 2 pills on the day you remember and 2 pills the next day.
 2. Then take 1 pill a day until you finish the pack.
 3. You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 2 yellow “active” pills in a row in THE 3RD WEEK:
 
@@ -171,7 +171,7 @@ However, if you miss your period 2 months in a row, call your healthcare profess
 
 3.
 You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 3 OR MORE yellow “active” pills in a row (during the first 3 weeks):
 
@@ -188,7 +188,7 @@ However, if you miss your period 2 months in a row, call your doctor or clinic b
 
 3.
 You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 Nortrel® 0.5/35 (norethindrone and ethinyl estradiol tablets USP):
 
@@ -204,7 +204,7 @@ If you MISS 2 light yellow “active” pills in a row in WEEK 1 OR WEEK 2 of yo
 1. Take 2 pills on the day you remember and 2 pills the next day.
 2. Then take 1 pill a day until you finish the pack.
 3. You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 2 light yellow “active” pills in a row in THE 3RD WEEK:
 
@@ -221,7 +221,7 @@ However, if you miss your period 2 months in a row, call your healthcare profess
 
 3.
 You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 3 OR MORE light yellow “active” pills in a row (during the first 3 weeks):
 
@@ -238,7 +238,7 @@ However, if you miss your period 2 months in a row, call your healthcare profess
 
 3.
 You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 A REMINDER FOR THOSE ON 28-DAY PACKS
 
@@ -255,14 +255,14 @@ KEEP TAKING ONE “ACTIVE” PILL EACH DAY until you can reach your healthcare p
 How to Use the Blister Cards for the 21 Tablets
 
 1. The blister pack comes to you set up for Sunday Start.
-   If your physician has instructed you to start pill-taking on the SUNDAY after your menstrual period has begun, or if your period begins on Sunday you will take your first pill that very same day.
+   If your healthcare professional has instructed you to start pill-taking on the SUNDAY after your menstrual period has begun, or if your period begins on Sunday you will take your first pill that very same day.
    Start with the Sundaypill in row #1.
    After the Saturday pill has been taken, begin taking the pills in row #2, and so on, until all 21 pills have been taken.
    You will then take no pills for one week (seven days).
 2. If you start pill-taking on a day other than SUNDAY, peel the attached sticker by selecting the day of the week you plan to start.
    Place the sticker over the pre-printed days of the week and make sure it lines up with the pills.
    This sticker will help to remind you to take your pill every day.
-   Take the yellow pill which corresponds to the day in row #1 for both the 1/35 day regimen and the 0.5/35 day regimen of the first pack during the first 24 hours of your period.
+   Take the yellow pill which corresponds to the day in row #1 for the 1/35 day regimen of the first pack during the first 24 hours of your period.
 3. After the last (Saturday) pill in row #3 has been taken, if any remain in the first row, complete your 21-pill schedule by taking one pill daily starting with Sunday in row #1 until all the pills have been taken.
 4. When you start taking the pill for the first time, use an additional method of protection until you have taken your first 7 pills.
 5. Your tablet dispenser consists of three parts, the foil pouch, wallet, and a blister pack containing 21 individually sealed pills.
@@ -285,7 +285,7 @@ Note: Rows 1, 2 and 3 are “active” pills.
 How to Use the Blister Cards for the 28 Tablets
 
 1. The blister card comes to you set up for Sunday Start.
-   If your physician has instructed you to start pill-taking on the SUNDAY after your menstrual period has begun or if your period begins on Sunday you will take your first pill that very same day.
+   If your healthcare professional has instructed you to start pill-taking on the SUNDAY after your menstrual period has begun or if your period begins on Sunday you will take your first pill that very same day.
    Start with the Sundaypill in row #1.
    Take one active pill daily for 21 days followed by one white placebo pill daily for 7 days.
 2. If you start pill-taking on a day other than SUNDAY, peel the attached sticker by selecting the day of the week you plan to start.
@@ -318,7 +318,7 @@ Note: Rows 1, 2 and 3 are “active” pills and row #4 contains the “reminder
 2. Always go from left to right.
 3. Always finish your pills.
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F).
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
@@ -329,12 +329,12 @@ Therefore, please review this labeling carefully.
 
 The following oral contraceptive products contain a combination of an estrogen and progestogen, the two kinds of female hormones:
 
-Nortrel® 1/35 (norethindrone and ethinyl estradiol tablets, USP) (21) Day Regimen and (28) Day Regimen:
+Nortrel® 1/35 (norethindrone and ethinyl estradiol tablets USP) (21) Day Regimen and (28) Day Regimen:
 
 Each yellow tablet contains 1 mg norethindrone and 0.035 mg ethinyl estradiol.
 Each white tablet in the 1/35 (28) day regimen contains inert ingredients.
 
-Nortrel® 0.5/35 (norethindrone and ethinyl estradiol tablets, USP) (28) Day Regimen:
+Nortrel® 0.5/35 (norethindrone and ethinyl estradiol tablets USP) (28) Day Regimen:
 
 Each light yellow tablet contains 0.5 mg norethindrone and 0.035 mg ethinyl estradiol.
 Each white tablet in the 0.5/35 mg (28) day regimen contains inert ingredients.
@@ -393,6 +393,7 @@ For example, you should not take the pill if you have any of the following condi
 - A history of heart attack or stroke
 - Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), or eyes
 - A history of blood clots in the deep veins of your legs
+- An inherited problem that makes your blood clot more than normal
 - Chest pain (angina pectoris)
 - Known or suspected breast cancer or cancer of the lining of the uterus, cervix or vagina
 - Unexplained vaginal bleeding (until a diagnosis is reached by your healthcare professional)
@@ -429,7 +430,7 @@ Also, be sure to inform your healthcare professional if you smoke or are on any 
 RISKS OF TAKING ORAL CONTRACEPTIVES
 
 1.
-Risk of developing blood clots
+Risk of Developing Blood Clots
 
 Blood clots and blockage of blood vessels are one of the most serious side effects of taking oral contraceptives and can cause death or serious disability.
 In particular, a clot in the legs can cause thrombophlebitis and a clot that travels to the lungs can cause a sudden blocking of the vessel carrying blood to the lungs.
@@ -438,9 +439,9 @@ Rarely, clots occur in the blood vessels of the eye and may cause blindness, dou
 If you take oral contraceptives and need elective surgery, need to stay in bed for a prolonged illness or injury or have recently delivered a baby, you may be at risk of developing blood clots.
 You should consult your healthcare professional about stopping oral contraceptives three to four weeks before surgery and not taking oral contraceptives for two weeks after surgery or during bed rest.
 You should also not take oral contraceptives soon after delivery of a baby.
-It is advisable to wait for at least four weeks after delivery if you are not breast feeding or four weeks after a second trimester abortion.
+It is advisable to wait for at least four weeks after delivery if you are not breastfeeding or four weeks after a second trimester abortion.
 If you are breast feeding, you should wait until you have weaned your child before using the pill.
-(See also the section on Breast feeding in GENERAL PRECAUTIONS.)
+(See also the section on Breastfeeding in GENERAL PRECAUTIONS.)
 
 The risk of circulatory disease in oral contraceptive users may be higher in users of high-dose pills and may be greater with longer duration of oral contraceptive use.
 In addition, some of these increased risks may continue for a number of years after stopping oral contraceptives.
@@ -451,7 +452,7 @@ For oral contraceptive users in general, it has been estimated that in women bet
 In the age group 35 to 44, the risk is estimated to be about 1 in 2,500 per year for oral contraceptive users and about 1 in 10,000 per year for nonusers.
 
 2.
-Heart attacks and strokes
+Heart Attacks and Strokes
 
 Oral contraceptives may increase the tendency to develop strokes (stoppage or rupture of blood vessels in the brain) and angina pectoris and heart attacks (blockage of blood vessels in the heart).
 Any of these conditions can cause death or serious disability.
@@ -460,12 +461,12 @@ Smoking greatly increases the possibility of suffering heart attacks and strokes
 Furthermore, smoking and the use of oral contraceptives greatly increase the chances of developing and dying of heart disease.
 
 3.
-Gallbladder disease
+Gallbladder Disease
 
 Oral contraceptive users probably have a greater risk than nonusers of having gallbladder disease, although this risk may be related to pills containing high doses of estrogens.
 
 4.
-Liver tumors
+Liver Tumors
 
 In rare cases, oral contraceptives can cause benign but dangerous liver tumors.
 These benign liver tumors can rupture and cause fatal internal bleeding.
@@ -473,7 +474,7 @@ In addition, some studies report an increased risk of developing liver cancer.
 However, liver cancers are rare.
 
 5.
-Cancer of the reproductive organs and breasts
+Cancer of the Reproductive Organs and Breasts
 
 Various studies give conflicting reports on the relationship between breast cancer and oral contraceptive use.
 Oral contraceptive use may slightly increase your chance of having breast cancer diagnosed, particularly after using hormonal contraceptives at a younger age.
@@ -503,7 +504,7 @@ ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WITH CONTROL 
 | Periodic abstinence | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
 
 In the above table, the risk of death from any birth control method is less than the risk of childbirth, except for oral contraceptive users over the age of 35 who smoke and pill users over the age of 40 even if they do not smoke.
-It can be seen in the table that for women aged 15 to 39, the risk of death was highest with pregnancy (7-26 deaths per 100,000 women, depending on age).
+It can be seen in the table that for women aged 15 to 39, the risk of death was highest with pregnancy (7 to 26 deaths per 100,000 women, depending on age).
 Among pill users who do not smoke, the risk of death was always lower than that associated with pregnancy for any age group, although over the age of 40, the risk increases to 32 deaths per 100,000 women, compared to 28 associated with pregnancy at that age.
 However, for pill users who smoke and are over the age of 35, the estimated number of deaths exceeds those for other methods of birth control.
 If a woman is over the age of 40 and smokes, her estimated risk of death is four times higher (117/100,000 women) than the estimated risk associated with pregnancy (28/100,000 women) in that age group.
@@ -527,7 +528,7 @@ If any of these adverse effects occur while you are taking oral contraceptives, 
 SIDE EFFECTS OF ORAL CONTRACEPTIVES
 
 1.
-Vaginal bleeding
+Vaginal Bleeding
 
 Irregular vaginal bleeding or spotting may occur while you are taking the pills.
 Irregular bleeding may vary from slight staining between menstrual periods to breakthrough bleeding which is a flow much like a regular period.
@@ -537,12 +538,12 @@ It is important to continue taking your pills on schedule.
 If the bleeding occurs in more than one cycle or lasts for more than a few days, talk to your healthcare professional.
 
 2.
-Contact lenses
+Contact Lenses
 
 If you wear contact lenses and notice a change in vision or an inability to wear your lenses, contact your healthcare professional.
 
 3.
-Fluid retention
+Fluid Retention
 
 Oral contraceptives may cause edema (fluid retention) with swelling of the fingers or ankles and may raise your blood pressure.
 If you experience fluid retention, contact your healthcare professional.
@@ -553,16 +554,16 @@ Melasma
 A spotty darkening of the skin is possible, particularly of the face, which may persist.
 
 5.
-Other side effects
+Other Side Effects
 
-Other side effects may include nausea and vomiting, change in appetite, headache, nervousness, depression, dizziness, loss of scalp hair, rash, vaginal infections and allergic reactions.
+Other side effects may include nausea, vomiting and diarrhea, muscle cramps, change in appetite, headache, nervousness, depression, dizziness, loss of scalp hair, rash, vaginal infections, pancreatitis, skin sensitivity to the sun or ultraviolet, and allergic reactions.
 
 If any of these side effects bother you, call your healthcare professional.
 
 GENERAL PRECAUTIONS
 
 1.
-Missed periods and use of oral contraceptives before or during early pregnancy
+Missed Periods and Use of Oral Contraceptives Before or During Early Pregnancy
 
 There may be times when you may not menstruate regularly after you have completed taking a cycle of pills.
 If you have taken your pills regularly and miss one menstrual period, continue taking your pills for the next cycle but be sure to inform your healthcare professional before doing so.
@@ -577,36 +578,62 @@ Nevertheless, oral contraceptives should not be used during pregnancy.
 You should check with your healthcare professional about risks to your unborn child of any medication taken during pregnancy.
 
 2.
-While breast feeding
+While Breastfeeding
 
-If you are breast feeding, consult your healthcare professional before starting oral contraceptives.
+If you are breastfeeding, consult your healthcare professional before starting oral contraceptives.
 Some of the drug will be passed on to the child in the milk.
 A few adverse effects on the child have been reported, including yellowing of the skin (jaundice) and breast enlargement.
-In addition, combination oral contraceptives may decrease the amount and quality of your milk.
-If possible, do not use combination oral contraceptives while breast feeding.
-You should use another method of contraception since breast feeding provides only partial protection from becoming pregnant and this partial protection decreases significantly as you breast feed for longer periods of time.
-You should consider starting combination oral contraceptives only after you have weaned your child completely.
+In addition, combined oral contraceptives may decrease the amount and quality of your milk.
+If possible, do not use combined oral contraceptives while breastfeeding.
+You should use another method of contraception since breastfeeding provides only partial protection from becoming pregnant and this partial protection decreases significantly as you breast feed for longer periods of time.
+You should consider starting combined oral contraceptives only after you have weaned your child completely.
 
 3.
-Laboratory tests
+Laboratory Tests
 
 If you are scheduled for any laboratory tests, tell your healthcare professional you are taking birth control pills.
 Certain blood tests may be affected by birth control pills.
 
 4.
-Drug interactions
+Drug Interactions
 
-Certain drugs may interact with birth control pills to make them less effective in preventing pregnancy or cause an increase in breakthrough bleeding.
-Such drugs include rifampin, drugs used for epilepsy such as barbiturates (for example, phenobarbital), topiramate (TOPAMAX®),carbamazepine (Tegretol® is one brand of this drug), phenytoin (Dilantin® is one brand of this drug), phenylbutazone (Butazolidin® is one brand), certain drugs used in the treatment of HIV or AIDS, and possibly certain antibiotics.
-Medicine for pulmonary hypertension, such as bosentan (Tracleer®).
-Pregnancies and breakthrough bleeding have been reported by users of combined hormonal contraceptives who also used some form of the herbal supplement St. John’s Wort.
-Hormonal contraceptives may interact with lamotrigine (LAMICTAL®), an anticonvulsant used for epilepsy.
-This may increase the risk of seizures so your healthcare professional may need to adjust the dose of lamotrigine.
-You may need to use additional contraception when you take other products which can make oral contraceptives less effective.
-Be sure to tell your healthcare professional if you are taking or start taking any medications while taking birth control pills.
+Tell your healthcare provider about all medicines and herbal products that you take.
+
+Some medicines and herbal products may make hormonal birth control less effective, including, but not limited to:
+
+- certain seizure medicines (carbamazepine, felbamate, oxcarbazepine, phenytoin, rufinamide, and topiramate)
+- aprepitant
+- barbiturates
+- bosentan
+- colesevelam
+- griseofulvin
+- certain combinations of HIV medicines (nelfinavir, ritonavir, ritonavir-boosted protease inhibitors)
+- certain non nucleoside reverse transcriptase inhibitors (nevirapine)
+- rifampin and rifabutin
+- St. John’s wort
+
+Use another birth control method (such as a condom and spermicide or diaphragm and spermicide) when you take medicines that may make Nortrel® 0.35/35 or 1/35 less effective.
+
+Some medicines and grapefruit juice may increase your level of the hormone ethinyl estradiol if used together, including:
+
+- acetaminophen
+- ascorbic acid
+- medicines that affect how your liver breaks down other medicines (itraconazole, ketoconazole, voriconazole, and fluconazole)
+- certain HIV medicines (atazanavir, indinavir)
+- atorvastatin
+- rosuvastatin
+- etravirine
+
+Hormonal birth control methods may interact with lamotrigine, a seizure medicine used for epilepsy.
+This may increase the risk of seizures, so your healthcare provider may need to adjust the dose of lamotrigine.
+
+Women on thyroid replacement therapy may need increased doses of thyroid hormone.
+
+Know the medicines you take.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
 5.
-Sexually transmitted diseases
+Sexually Transmitted Diseases
 
 This product (like all oral contraceptives) is intended to prevent pregnancy.
 It does not protect against transmission of HIV (AIDS) and other sexually transmitted diseases such as chlamydia, genital herpes, genital warts, gonorrhea, hepatitis B, and syphilis.
@@ -623,14 +650,14 @@ BEFORE YOU START TAKING YOUR PILLS:
    If you miss pills you could get pregnant.
    This includes starting the pack late.
    The more pills you miss, the more likely you are to get pregnant.
-3. MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1-3 PACKS OF PILLS.
+3. MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1 TO 3 PACKS OF PILLS.
    If you feel sick to your stomach, do not stop taking the pill.
    The problem will usually go away.
    If it doesn't go away, check with your healthcare professional.
 4. MISSING PILLS CAN ALSO CAUSE SPOTTING OR LIGHT BLEEDING, even when you make up these missed pills.
    On the days you take 2 pills to make up for missed pills, you could also feel a little sick to your stomach.
 5. IF YOU HAVE VOMITING OR DIARRHEA, or IF YOU TAKE SOME MEDICINES, including some antibiotics, your pills may not work as well.
-   Use a back-up method (such as condoms or spermicide) until you check with your healthcare professional.
+   Use a back-up method (such as a condom or spermicide) until you check with your healthcare professional.
 6. IF YOU HAVE TROUBLE REMEMBERING TO TAKE THE PILL, talk to your healthcare professional about how to make pill-taking easier or about using another method of birth control.
 7. IF YOU HAVE ANY QUESTIONS OR ARE UNSURE ABOUT THE INFORMATION IN THIS LEAFLET, call your healthcare professional.
 
@@ -647,7 +674,7 @@ BEFORE YOU START TAKING YOUR PILLS
    Nortrel® 0.5/35 (norethindrone and ethinyl estradiol tablets USP): There are 21 light yellow “active” pills.
 3. ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills.
    CHECK ADDITIONAL INSTRUCTIONS FOR USING THIS PACKAGE IN THE BRIEF SUMMARY PATIENT PACKAGE INSERT.
-4. BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as condoms or spermicide) to use as a back-up method in case you miss pills.
+4. BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as a condom or spermicide) to use as a back-up method in case you miss pills.
    AN EXTRA, FULL PILL PACK.
 
 WHEN TO START THE FIRST PACK OF PILLS
@@ -666,7 +693,7 @@ If your period begins on Sunday, start the pack the same day.
 Nortrel® 0.5/35 (norethindrone and ethinyl estradiol tablets USP): Take the first light yellow “active” pill of the first pack on the Sunday after your period starts, even if you are still bleeding.
 If your period begins on Sunday, start the pack the same day.
 
-Use another method of birth control such as condoms or spermicide as a back-up method if you have sex anytime from the Sunday you start your first pack until the next Sunday (7 days).
+Use another method of birth control such as a condom or spermicide as a back-up method if you have sex anytime from the Sunday you start your first pack until the next Sunday (7 days).
 
 DAY 1 START:
 
@@ -703,7 +730,7 @@ If you MISS 2 yellow “active” pills in a row in WEEK 1 OR WEEK 2 of your pac
 1. Take 2 pills on the day you remember and 2 pills the next day.
 2. Then take 1 pill a day until you finish the pack.
 3. You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 2 yellow “active” pills in a row in THE 3RD WEEK:
 
@@ -720,7 +747,7 @@ However, if you miss your period 2 months in a row, call your healthcare profess
 
 3.
 You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 3 OR MORE yellow “active” pills in a row (during the first 3 weeks):
 
@@ -737,7 +764,7 @@ However, if you miss your period 2 months in a row, call your healthcare profess
 
 3.
 You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 Nortrel® 0.5/35 (norethindrone and ethinyl estradiol tablets USP):
 
@@ -753,7 +780,7 @@ If you MISS 2 light yellow “active” pills in a row in WEEK 1 OR WEEK 2 of yo
 1. Take 2 pills on the day you remember and 2 pills the next day.
 2. Then take 1 pill a day until you finish the pack.
 3. You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-   You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+   You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 2 light yellow “active” pills in a row in THE 3RD WEEK:
 
@@ -770,7 +797,7 @@ However, if you miss your period 2 months in a row, call your healthcare profess
 
 3.
 You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 If you MISS 3 OR MORE light yellow “active” pills in a row (during the first 3 weeks):
 
@@ -787,7 +814,7 @@ However, if you miss your period 2 months in a row, call your healthcare profess
 
 3.
 You COULD BECOME PREGNANT if you have sex in the 7 days after you miss pills.
-You MUST use another birth control method (such as condoms or spermicide) as a back-up method for those 7 days.
+You MUST use another birth control method (such as a condom or spermicide) as a back-up method for those 7 days.
 
 A REMINDER FOR THOSE ON 28-DAY PACKS
 
@@ -803,9 +830,9 @@ KEEP TAKING ONE “ACTIVE” PILL EACH DAY until you can reach your healthcare p
 
 PREGNANCY DUE TO PILL FAILURE
 
-Combination Oral Contraceptives
+Combined Oral Contraceptives
 
-The incidence of pill failure resulting in pregnancy is approximately one percent (i.e., one pregnancy per 100 women per year) if taken every day as directed, but more typical failure rates are about 5%.
+The incidence of pill failure resulting in pregnancy is approximately one percent (i.e., one pregnancy per 100 women per year) if taken every day as directed, but more typical failure rates are 5%.
 If failure does occur, the risk to the fetus is minimal.
 
 PREGNANCY AFTER STOPPING THE PILL
@@ -834,7 +861,7 @@ This drug has been prescribed specifically for you; do not give it to others who
 
 HEALTH BENEFITS FROM ORAL CONTRACEPTIVES
 
-In addition to preventing pregnancy, use of combination oral contraceptives may provide certain benefits.
+In addition to preventing pregnancy, use of combined oral contraceptives may provide certain benefits.
 They are:
 
 - menstrual cycles may become more regular
@@ -848,12 +875,11 @@ They are:
 
 If you want more information about birth control pills, ask your healthcare professional.
 They have a more technical leaflet called the Professional Labeling, which you may wish to read.
-The professional labeling is also published in a book entitled Physicians' Desk Reference, available in many book stores and public libraries.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F).
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
@@ -862,4 +888,4 @@ All brand names listed are the registered trademarks of their respective owners 
 MANUFACTURED BY BARR LABORATORIES, INC. POMONA, NY 10970
 
 Rev.
-A 6/2012
+B 10/2013

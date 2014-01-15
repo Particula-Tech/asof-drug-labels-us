@@ -7,12 +7,9 @@
   "inn": "ethinyl-estradiol",
   "labeler": "Barr Laboratories Inc.",
   "package_ndcs": [
-    "0555-9008-58",
     "0555-9008-67",
     "0555-9009-42",
-    "0555-9009-57",
-    "0555-9010-58",
-    "0555-9010-67"
+    "0555-9010-58"
   ],
   "products": [
     {

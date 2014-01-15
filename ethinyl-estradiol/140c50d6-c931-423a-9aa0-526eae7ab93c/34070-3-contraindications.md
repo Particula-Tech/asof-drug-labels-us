@@ -4,9 +4,10 @@ Oral contraceptives should not be used in women who currently have the following
 
 - Thrombophlebitis or thromboembolic disorders
 - A past history of deep vein thrombophlebitis or thromboembolic disorders
+- Known thrombophilic conditions
 - Cerebral vascular or coronary artery disease (current or history)
 - Valvular heart disease with complications
-- Severe hypertension
+- Persistent blood pressure values of > 160 mm Hg systolic or > 100 mg Hg diastolic96
 - Diabetes with vascular involvement
 - Headaches with focal neurological symptoms
 - Major surgery with prolonged immobilization

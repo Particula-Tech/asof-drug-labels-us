@@ -1,13 +1,13 @@
 # INDICATIONS AND USAGE
 
-Nortrel® 1/35 (21) Tablets and (28) Tablets, Nortrel® 0.5/35 (28) Tablets are indicated for the prevention of pregnancy in women who elect to use this product as a method of contraception.
+Nortrel® 1/35 and Nortrel® 0.5/35 Tablets are indicated for the prevention of pregnancy in women who elect to use this product as a method of contraception.
 
 Oral contraceptives are highly effective.
-Table I lists the typical accidental pregnancy rates for users of combination oral contraceptives and other methods of contraception.
+Table 1 lists the typical accidental pregnancy rates for users of combined oral contraceptives and other methods of contraception.
 The efficacy of these contraceptive methods, except sterilization, the IUD, and the NORPLANT System depends upon the reliability with which they are used.
 Correct and consistent use of methods can result in lower failure rates.
 
-TABLE I: PERCENTAGE OF WOMEN EXPERIENCING AN UNINTENDED PREGNANCY DURING THE FIRST YEAR OF TYPICAL USE AND THE FIRST YEAR OF PERFECT USE OF CONTRACEPTION AND THE PERCENTAGE CONTINUING USE AT THE END OF THE FIRST YEAR.
+TABLE 1: PERCENTAGE OF WOMEN EXPERIENCING AN UNINTENDED PREGNANCY DURING THE FIRST YEAR OF TYPICAL USE AND THE FIRST YEAR OF PERFECT USE OF CONTRACEPTION AND THE PERCENTAGE CONTINUING USE AT THE END OF THE FIRST YEAR.
 UNITED STATES
 
 |  | % of Women Experiencing an Unintended Pregnancy within the First Year of Use |  | % of Women Continuing Use at One Year Among couples attempting to avoid pregnancy, the percentage who continue to use a method for one year. |
