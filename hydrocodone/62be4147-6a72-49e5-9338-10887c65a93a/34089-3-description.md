@@ -18,6 +18,6 @@ Hydrocodone Bitartrate, USP...........................
 Acetaminophen, USP....................................
 325 mg
 
-In addition, each tablet contains the following inactive ingredients: colloidal silicon dioxide, magnesium stearate and microcrystalline cellulose.
+In addition, each tablet contains the following inactive ingredients: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose, povidone, pregelatinized starch and stearic acid.
 
 Meets USP Dissolution Test 1.
