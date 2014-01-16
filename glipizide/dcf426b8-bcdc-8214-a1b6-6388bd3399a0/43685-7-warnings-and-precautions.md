@@ -91,6 +91,10 @@ The effect of concomitant administration of fluconazole and glipizide has been d
 All subjects received glipizide alone and following treatment with 100 mg of fluconazole as a single daily oral dose for 7 days.
 The mean percentage increase in the glipizide AUC after fluconazole administration was 56.9% (range: 35 to 81).
 
+In studies assessing the effect of colesevelam on the pharmacokinetics of glipizide ER in healthy volunteers, reductions in glipizide AUC0-∞ and Cmax of 12% and 13%, respectively were observed when colesevelam was coadministered with glipizide ER.
+When glipizide ER was administered 4 hours prior to colesevelam, there was no significant change in glipizide AUC0-∞ or Cmax, -4% and 0%, respectively.
+Therefore, glipizide should be administered at least 4 hours prior to colesevelam to ensure that colesevelam does not reduce the absorption of glipizide.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 A twenty month study in rats and an eighteen month study in mice at doses up to 75 times the maximum human dose revealed no evidence of drug-related carcinogenicity.
