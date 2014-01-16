@@ -16,12 +16,6 @@ Each Blister card contains
 
 14 Tablets
 
-Manufactured for
-
-Stiefel Laboratories, Inc.
-
-Research Triangle Park, NC 27709
-
 ©2011 Stiefel Laboratories, Inc.
 
 ONMEL is a trademark of Stiefel Laboratories, Inc.

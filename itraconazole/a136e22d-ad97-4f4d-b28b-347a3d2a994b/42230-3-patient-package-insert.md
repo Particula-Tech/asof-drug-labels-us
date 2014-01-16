@@ -16,35 +16,35 @@ Do not take ONMEL if you have had heart failure, including congestive heart fail
 
 Stop taking ONMEL and call your doctor right away if you have any of these symptoms of congestive heart failure:
 
-- shortness of breath
-- swelling of your feet, ankles, or legs
-- sudden weight gain
-- increased tiredness
-- coughing up white or pink phlegm
-- fast heartbeat
-- waking up at night more than normal for you
+- •shortness of breath
+- •swelling of your feet, ankles, or legs
+- •sudden weight gain
+- •increased tiredness
+- •coughing up white or pink phlegm
+- •fast heartbeat
+- •waking up at night more than normal for you
 
 2.
 Serious cardiovascular effects.
 Do not take ONMEL if you also take the following medicines:
 
-- cisapride (Propulsid)
-- pimozide (Orap)
-- quinidine (Quindine Gluconate, Quindine Sulfate)
-- dofetilide (Tikosyn)
-- levomethadyl (Oralaam)
-- midazolam (Versed)
-- felodipine, nisoldipine (Lexxel, Plendil, Sular)
-- triazolam (Halcion)
-- lovastatin (Mevacor, Advicor, Altoprev)
-- simvastatin (Zocor, Simcor, Vytorin)
-- ergot alkaloids (Migranal, Ergonovine, Cafergot, Methergine, Dihydroergotamine Mesylate, Methylergonovine)
-- methadone (Dolophine)
+- •cisapride (Propulsid)
+- •pimozide (Orap)
+- •quinidine (Quindine Gluconate, Quindine Sulfate)
+- •dofetilide (Tikosyn)
+- •levomethadyl (Oralaam)
+- •midazolam (Versed)
+- •felodipine, nisoldipine (Lexxel, Plendil, Sular)
+- •triazolam (Halcion)
+- •lovastatin (Mevacor, Advicor, Altoprev)
+- •simvastatin (Zocor, Simcor, Vytorin)
+- •ergot alkaloids (Migranal, Ergonovine, Cafergot, Methergine, Dihydroergotamine Mesylate, Methylergonovine)
+- •methadone (Dolophine)
 
 This is not a complete list of medicines that can interact with ONMEL.
 
-- Before taking ONMEL, tell your doctor about all the medicine you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-- Before you start any new medicine, ask your doctor or pharmacist if it is safe to take it with ONMEL.
+- •Before taking ONMEL, tell your doctor about all the medicine you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+- •Before you start any new medicine, ask your doctor or pharmacist if it is safe to take it with ONMEL.
 
 What is ONMEL?
 
@@ -55,26 +55,26 @@ Who should not take ONMEL?
 
 Do not take ONMEL if you:
 
-- have or had heart failure, including congestive heart failure.
-- Take certain medicines.
+- •have or had heart failure, including congestive heart failure.
+- •Take certain medicines.
   See “What is the most important information I should know about ONMEL?”
-- are pregnant or plan to be become pregnant.
+- •are pregnant or plan to be become pregnant.
   ONMEL can harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-- have ever had an allergic reaction to itraconazole or any of the other ingredients in ONMEL.
+- •have ever had an allergic reaction to itraconazole or any of the other ingredients in ONMEL.
   Ask your doctor or pharmacist for a list of these ingredients.
 
 What should I tell my doctor before taking ONMEL?
 
 Before taking ONMEL, tell your doctor if you:
 
-- have or had heart, lung, liver or kidney problems
-- have any other medical conditions
-- are pregnant or planning to become pregnant.
+- •have or had heart, lung, liver or kidney problems
+- •have any other medical conditions
+- •are pregnant or planning to become pregnant.
   See “Who should not take ONMEL?”.
   Females who can become pregnant should use effective birth control during treatment with ONMEL and for 2 months after you stop treatment with ONMEL.
   Talk to your doctor about the type of birth control that is best for you while taking ONMEL.
-- are breast-feeding or plan to breast-feed.
+- •are breast-feeding or plan to breast-feed.
   ONMEL can pass into your breastmilk and may harm your baby.
   Talk to your doctor about the best way to feed your baby if you take ONMEL.
 
@@ -82,8 +82,8 @@ Tell your doctor about all the medicines you take, including prescription and no
 
 Taking ONMEL with certain other medicines could lead to serious or life-threatening medical problems.
 
-- See “What is the most important information I should know about ONMEL?”
-- Fentanyl.
+- •See “What is the most important information I should know about ONMEL?”
+- •Fentanyl.
   Taking fentanyl, a strong opioid narcotic main medicine with ONMEL could cause serious breathing problems that can lead to death.
 
 Talk to your doctor or pharmacist before you start any new medicine.
@@ -97,40 +97,39 @@ How should I take ONMEL?
 Take ONMEL exactly as prescribed by your doctor.
 Be sure to finish all of your ONMEL as prescribed by your doctor.
 
-- ONMEL comes in a 14 tablet blisterpack container.
-- Take ONMEL with a full meal at the same time each day.
-- Your doctor should do blood tests to check your liver function before you start and while you take ONMEL, especially if you have liver problems.
-- If you forget to take or miss doses of ONMEL, skip that dose and take the next dose at your regular time.
+- •ONMEL comes in a 14 tablet blisterpack container.
+- •Take ONMEL with a full meal at the same time each day.
+- •Your doctor should do blood tests to check your liver function before you start and while you take ONMEL, especially if you have liver problems.
+- •If you forget to take or miss doses of ONMEL, skip that dose and take the next dose at your regular time.
   Do not make up missed doses.
-- If you take too many ONMEL, call your local poison control center or go to the nearest hospital emergency room right away.
+- •If you take too many ONMEL, call your local poison control center or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of ONMEL?
 
 ONMEL can cause serious side effects, including:
 
-- See “What is the most important information I should know about ONMEL?”
-- liver failure and death.
+- •See “What is the most important information I should know about ONMEL?”
+- •liver failure and death.
   Stop taking ONMEL and call your doctor right away if you have symptoms of liver failure including:
-
-- nerve damage (neuropathy).
+- •nerve damage (neuropathy).
   Call your doctor right away if you have tingling or numbness in your hands or feet.
   Your may need to stop taking ONMEL if this happens.
-- hearing loss.
+- •hearing loss.
   Hearing loss can happen for a short time or permanently in some people who take ONMEL with other medications.
   Stop taking ONMEL and call your doctor right away if you have any changes in your hearing.
 
 Common side effects of ONMEL include:
 
-- increased liver enzyme in blood test results
-- upper respiratory infection or cold (runny nose, cough and sneeze)
-- urinary tract infection (burning and painful urination)
-- stomach pain
-- diarrhea
-- nausea
-- headache
-- tiredness
-- throat pain
-- back pain
+- •increased liver enzyme in blood test results
+- •upper respiratory infection or cold (runny nose, cough and sneeze)
+- •urinary tract infection (burning and painful urination)
+- •stomach pain
+- •diarrhea
+- •nausea
+- •headache
+- •tiredness
+- •throat pain
+- •back pain
 
 These are not all of the possible side effects of ONMEL.
 Tell your doctor if you any side effect that bothers you or that does not go away.
@@ -141,9 +140,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ONMEL?
 
-- Store at controlled room temperature between 59° to 77°F (15° to 25°C).
-- Keep ONMEL away from light and moisture.
-- Keep ONMEL and all medicines out of reach of children.
+- •Store at controlled room temperature between 59° to 77°F (15° to 25°C).
+- •Keep ONMEL away from light and moisture.
+- •Keep ONMEL and all medicines out of reach of children.
 
 General Information:
 

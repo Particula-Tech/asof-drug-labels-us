@@ -193,17 +193,17 @@ Administration with itraconazole may increase plasma concentrations of alfentani
 
 Other
 
-- Elevated concentrations of ergot alkaloids can cause ergotism, i.e., a risk for vasospasm potentially leading to cerebral ischemia and/or ischemia of the extremities.
+- •Elevated concentrations of ergot alkaloids can cause ergotism, i.e., a risk for vasospasm potentially leading to cerebral ischemia and/or ischemia of the extremities.
   Concomitant administration of ergot alkaloids such as dihydroergotamine, ergometrine (ergonovine), ergotamine and methylergometrine (methylergonovine) with ONMEL is contraindicated.
-- Halofantrine has the potential to prolong the QT interval at high plasma concentrations.
+- •Halofantrine has the potential to prolong the QT interval at high plasma concentrations.
   Caution is advised when ONMEL and halofantrine are administered concomitantly.
-- Human pharmacokinetic data suggest that concomitant administration of itraconazole and buspirone results in significant increases in plasma concentrations of buspirone.
-- Itraconazole may inhibit the metabolism of certain glucocorticosteroids such as budesonide, dexamethasone, fluticasone and methylprednisolone.
-- Itraconazole enhances the anticoagulant effect of coumarin-like drugs, such as warfarin.
-- Cilostazol and eletriptan are CYP3A4 metabolized drugs that should be used with caution when co-administered with ONMEL.
-- Co-administration of itraconazole with meloxicam decreased peak plasma concentrations and the exposure of meloxicam by 64% and 37%, respectively.
+- •Human pharmacokinetic data suggest that concomitant administration of itraconazole and buspirone results in significant increases in plasma concentrations of buspirone.
+- •Itraconazole may inhibit the metabolism of certain glucocorticosteroids such as budesonide, dexamethasone, fluticasone and methylprednisolone.
+- •Itraconazole enhances the anticoagulant effect of coumarin-like drugs, such as warfarin.
+- •Cilostazol and eletriptan are CYP3A4 metabolized drugs that should be used with caution when co-administered with ONMEL.
+- •Co-administration of itraconazole with meloxicam decreased peak plasma concentrations and the exposure of meloxicam by 64% and 37%, respectively.
   Monitor patients for responses to meloxicam when itraconazole is concomitantly administered and dose adjustment should be considered if warranted.
-- Co-administration of itraconazole with fexofenadine increased the peak plasma concentration and the total exposure of fexofenadine by approximately 3-fold and augmented its anti-histamine effects.
-- Co-administration of itraconazole with loperamide increased peak plasma concentrations of loperamide by 3-fold and the total exposure by 3.9-fold.
+- •Co-administration of itraconazole with fexofenadine increased the peak plasma concentration and the total exposure of fexofenadine by approximately 3-fold and augmented its anti-histamine effects.
+- •Co-administration of itraconazole with loperamide increased peak plasma concentrations of loperamide by 3-fold and the total exposure by 3.9-fold.
   In addition, itraconazole is an inhibitor of P-glycoprotein and may inhibit the transport of loperamide out of the brain, leading to elevated concentrations of loperamide in the brain.
   Patients should be monitored for signs and symptoms of loperamide overdose, such as CNS depression, including drowsiness, dizziness and respiratory depression, and a dose or dosing frequency should be adjusted as necessary.
