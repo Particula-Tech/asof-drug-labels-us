@@ -1,17 +1,27 @@
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-uspi-0518-t-1310r025
-
-Copyright © 2007, 2009, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
-
 For patent information: www.merck.com/product/patent/home.html
+
+Copyright © 2007, 2013 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+uspi-mk0518-mf-1312r026
 
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-Revised 10/2013
-
-usppi-0518-t-1310r024
-
-Copyright © 2007, 2009, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+Revised December 2013
 
 For patent information: www.merck.com/product/patent/home.html
+
+Copyright © 2007, 2013 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+usppi-mk0518-mf-1312r025
+
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
+
+Issued December 2013
+
+For patent information: www.merck.com/product/patent/home.html
+
+Copyright © 2013 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+ifu-mk0518-mf-1312r000

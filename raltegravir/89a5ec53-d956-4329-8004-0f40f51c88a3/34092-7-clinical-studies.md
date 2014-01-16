@@ -9,12 +9,14 @@ The evidence of durable efficacy of ISENTRESS is based on the analyses of 240-we
 STARTMRK (Protocol 021) is a Phase 3 study to evaluate the safety and antiretroviral activity of ISENTRESS 400 mg twice daily + emtricitabine (+) tenofovir versus efavirenz 600 mg at bedtime plus emtricitabine (+) tenofovir in treatment-naïve HIV-1-infected subjects with HIV-1 RNA >5000 copies/mL.
 Randomization was stratified by screening HIV-1 RNA level (≤50,000 copies/mL; and >50,000 copies/mL) and by hepatitis status.
 
-Table 10 shows the demographic characteristics of subjects in the group receiving ISENTRESS 400 mg twice daily and subjects in the comparator group.
+Table 11 shows the demographic characteristics of subjects in the group receiving ISENTRESS 400 mg twice daily and subjects in the comparator group.
 
-Table 10: Baseline Characteristics
+Table 11: Baseline Characteristics
 
-| Randomized Study Protocol 021 | ISENTRESS 400 mg Twice Daily (N = 281) | Efavirenz 600 mg At Bedtime (N = 282) |
+|  | (N = 281) | (N = 282) |
 | --- | --- | --- |
+| Randomized Study | ISENTRESS | Efavirenz |
+| Protocol 021 | 400 mg Twice Daily | 600 mg At Bedtime |
 | Gender |  |  |
 | Male | 81% | 82% |
 | Female | 19% | 18% |
@@ -58,19 +60,18 @@ Table 10: Baseline Characteristics
 | >200 cells/mm3 | 53% | 51% |
 | Hepatitis Status |  |  |
 | Hepatitis B or C PositiveEvidence of hepatitis B surface antigen or evidence of HCV RNA by polymerase chain reaction (PCR) quantitative test for hepatitis C Virus. | 6% | 6% |
-| Notes: |  |  |
-| ISENTRESS and Efavirenz were administered with emtricitabine (+) tenofovir |  |  |
-| N = Number of subjects in each group. |  |  |
+| Notes: ISENTRESS and Efavirenz were administered with emtricitabine (+) tenofovir N = Number of subjects in each group. |  |  |
 
-Week 240 outcomes from Protocol 021 are shown in Table 11.
+Week 240 outcomes from Protocol 021 are shown in Table 12.
 
-Table 11: Virologic Outcomes of Randomized Treatment of Protocol 021 at 240 Weeks
+Table 12: Virologic Outcomes of Randomized Treatment of Protocol 021 at 240 Weeks
 
 |  | ISENTRESS 400 mg Twice Daily (N = 281) | Efavirenz 600 mg At Bedtime (N = 282) | Difference (ISENTRESS – Efavirenz) (CI) |
 | --- | --- | --- | --- |
 | Subjects with HIV-1 RNA less than 50 copies/mL | 66% | 60% | 6.6% (-1.4%, 14.5%) |
-| Virologic FailureIncludes subjects who discontinued prior to Week 240 for lack of efficacy or subjects who are ≥50 copies/mL in the 240-week window (+/- 6-weeks). | 8% | 15% |  |
-| No virologic data at Week 240 Window Reasons |  |  |  |
+| Virologic FailureIncludes subjects who discontinued prior to Week 240 for lack of efficacy or subjects who are ≥50 copies/mL in the 240-week window (+/-6-weeks). | 8% | 15% |  |
+| No virologic data at Week 240 Window |  |  |  |
+| Reasons |  |  |  |
 | Discontinued study due to AE or deathIncludes subjects who discontinued due to AE or Death at any time point from Day 1 through the Week 240 window if this resulted in no virologic data on treatment during Week 240 visit window. | 5% | 10% |  |
 | Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, moved etc., if the viral load at the time of discontinuation was <50 copies/mL. | 15% | 14% |  |
 | Missing data during window but on study | 6% | 2% |  |
@@ -83,12 +84,13 @@ BENCHMRK 1 and BENCHMRK 2 are Phase 3 studies to evaluate the safety and antiret
 Randomization was stratified by degree of resistance to PI (1PI vs. >1PI) and the use of enfuvirtide in the OBT.
 Prior to randomization, OBT was selected by the investigator based on genotypic/phenotypic resistance testing and prior ART history.
 
-Table 12 shows the demographic characteristics of subjects in the group receiving ISENTRESS 400 mg twice daily and subjects in the placebo group.
+Table 13 shows the demographic characteristics of subjects in the group receiving ISENTRESS 400 mg twice daily and subjects in the placebo group.
 
-Table 12: Baseline Characteristics
+Table 13: Baseline Characteristics
 
-| Randomized Studies Protocol 018 and 019 | ISENTRESS 400 mg Twice Daily + OBT (N = 462) | Placebo + OBT (N = 237) |
+| (N = 462) | (N = 237) |  |
 | --- | --- | --- |
+| Randomized Studies Protocol 018 and 019 | ISENTRESS 400 mg Twice Daily + OBT | Placebo + OBT |
 | Gender |  |  |
 | Male | 88% | 89% |
 | Female | 12% | 11% |
@@ -121,12 +123,13 @@ Table 12: Baseline Characteristics
 | Enfuvirtide in OBT | 38% | 38% |
 | Resistant to ≥2 PI | 97% | 95% |
 
-Table 13 compares the characteristics of optimized background therapy at baseline in the group receiving ISENTRESS 400 mg twice daily and subjects in the control group.
+Table 14 compares the characteristics of optimized background therapy at baseline in the group receiving ISENTRESS 400 mg twice daily and subjects in the control group.
 
-Table 13: Characteristics of Optimized Background Therapy at Baseline
+Table 14: Characteristics of Optimized Background Therapy at Baseline
 
-| Randomized Studies Protocol 018 and 019 | ISENTRESS 400 mg Twice Daily + OBT (N = 462) | Placebo + OBT (N = 237) |
+|  | (N = 462) | (N = 237) |
 | --- | --- | --- |
+| Randomized Studies Protocol 018 and 019 | ISENTRESS 400 mg Twice Daily + OBT | Placebo + OBT |
 | Number of ARTs in OBT |  |  |
 | Median (min, max) | 4 (1 to 7) | 4 (2 to 7) |
 | Number of Active PI in OBT by Phenotypic Resistance TestDarunavir use in OBT in darunavir-naïve subjects was counted as one active PI. |  |  |
@@ -143,15 +146,16 @@ Table 13: Characteristics of Optimized Background Therapy at Baseline
 | 2 | 24% | 21% |
 | 3 or more | 11% | 10% |
 
-Week 96 outcomes for the 699 subjects randomized and treated with the recommended dose of ISENTRESS 400 mg twice daily or placebo in the pooled BENCHMRK 1 and 2 studies are shown in Table 14.
+Week 96 outcomes for the 699 subjects randomized and treated with the recommended dose of ISENTRESS 400 mg twice daily or placebo in the pooled BENCHMRK 1 and 2 studies are shown in Table 15.
 
-Table 14: Virologic Outcomes of Randomized Treatment of Protocols 018 and 019 at 96 Weeks (Pooled Analysis)
+Table 15: Virologic Outcomes of Randomized Treatment of Protocols 018 and 019 at 96 Weeks (Pooled Analysis)
 
 |  | ISENTRESS 400 mg Twice Daily + OBT (N = 462) | Placebo + OBT (N = 237) |
 | --- | --- | --- |
 | Subjects with HIV-1 RNA less than 50 copies/mL | 55% | 27% |
 | Virologic FailureIncludes subjects who switched to open-label raltegravir after Week 16 due to the protocol-defined virologic failure, subjects who discontinued prior to Week 96 for lack of efficacy, subjects changed OBT due to lack of efficacy prior to Week 96, or subjects who were ≥50 copies in the 96 week window. | 35% | 66% |
-| No virologic data at Week 96 Window Reasons |  |  |
+| No virologic data at Week 96 Window |  |  |
+| Reasons |  |  |
 | Discontinued study due to AE or deathIncludes subjects who discontinued due to AE or Death at any time point from Day 1 through the Week 96 window if this resulted in no virologic data on treatment during the Week 96 window. | 3% | 3% |
 | Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, moved etc., if the viral load at the time of discontinuation was <50 copies/mL. | 4% | 4% |
 | Missing data during window but on study | 4% | <1% |
@@ -160,14 +164,13 @@ The mean changes in CD4 count from baseline were 118 cells/mm3 in the group rece
 
 Treatment-emergent CDC Category C events occurred in 4% of the group receiving ISENTRESS 400 mg twice daily and 5% of the control group.
 
-Virologic responses at Week 96 by baseline genotypic and phenotypic sensitivity score are shown in Table 15.
+Virologic responses at Week 96 by baseline genotypic and phenotypic sensitivity score are shown in Table 16.
 
-Table 15: Virologic Response at 96 Week Window by Baseline Genotypic/Phenotypic Sensitivity Score
+Table 16: Virologic Response at 96 Week Window by Baseline Genotypic/Phenotypic Sensitivity Score
 
-|  | n |  | n |  |
+| n | ISENTRESS 400 mg Twice Daily + OBT (N = 462) | n | Placebo + OBT (N = 237) |  |
 | --- | --- | --- | --- | --- |
 |  | Percent with HIV-1 RNA <50 copies/mL At Week 96 |  |  |  |
-|  |  | ISENTRESS 400 mg Twice Daily + OBT (N = 462) |  | Placebo + OBT (N = 237) |
 | Phenotypic Sensitivity Score (PSS)The Phenotypic Sensitivity Score (PSS) and the Genotypic Sensitivity Score (GSS) were defined as the total oral ARTs in OBT to which a subject's viral isolate showed phenotypic sensitivity and genotypic sensitivity, respectively, based upon phenotypic and genotypic resistance tests. Enfuvirtide use in OBT in enfuvirtide-naïve subjects was counted as one active drug in OBT in the GSS and PSS. Similarly, darunavir use in OBT in darunavir-naïve subjects was counted as one active drug in OBT. |  |  |  |  |
 | 0 | 67 | 43 | 43 | 5 |
 | 1 | 144 | 58 | 71 | 23 |
@@ -192,10 +195,12 @@ Clinical and laboratory adverse events occurred at similar frequencies in the tr
 
 ## 14.3 Pediatric Subjects
 
+2 to 18 Years of Age
+
 IMPAACT P1066 is a Phase I/II open label multicenter trial to evaluate the pharmacokinetic profile, safety, tolerability, and efficacy of raltegravir in HIV infected children.
 This study enrolled 126 treatment experienced children and adolescents 2 to 18 years of age.
 Subjects were stratified by age, enrolling adolescents first and then successively younger children.
-Subjects received either the 400 mg film-coated tablet formulation (6 to 18 years of age) or the chewable tablet formulation (2 to less than 12 years of age).
+Subjects were enrolled into cohorts according to age and received the following formulations: Cohort I (12 to less than 18 years old), 400 mg film-coated tablet; Cohort IIa (6 to less than 12 years old), 400 mg film-coated tablet; Cohort IIb (6 to less than 12 years old), chewable tablet; Cohort III (2 to less than 6 years), chewable tablet.
 Raltegravir was administered with an optimized background regimen.
 
 The initial dose finding stage included intensive pharmacokinetic evaluation.
@@ -208,5 +213,24 @@ At baseline, mean plasma HIV-1 RNA was 4.3 log10 copies/mL, median CD4 cell coun
 Overall, 8% had baseline plasma HIV-1 RNA >100,000 copies/mL and 59% had a CDC HIV clinical classification of category B or C. Most subjects had previously used at least one NNRTI (78%) or one PI (83%).
 
 Ninety-three (97%) subjects 2 to 18 years of age completed 24 weeks of treatment (3 discontinued due to non-compliance).
-At Week 24, 54% achieved HIV RNA <50 copies/mL; 72% achieved HIV RNA <400 copies/mL or ≥1 log10 HIV RNA drop from baseline.
+At Week 24, 54% achieved HIV RNA <50 copies/mL; 66% achieved HIV RNA <400 copies/mL.
 The mean CD4 count (percent) increase from baseline to Week 24 was 119 cells/mm3 (3.8%).
+
+4 Weeks to Less Than 2 Years of Age
+
+IMPAACT P1066 also enrolled HIV-infected, infants and toddlers 4 weeks to less than 2 years of age (Cohorts IV and V) who had received prior antiretroviral therapy either as prophylaxis for prevention of mother-to-child transmission (PMTCT) and/or as combination antiretroviral therapy for treatment of HIV infection.
+Raltegravir was administered as an oral suspension without regard to food in combination with an optimized background regimen.
+
+The 26 subjects had a median age of 28 weeks (range: 4 -100), were 35% female, 85% Black and 8% Caucasian.
+At baseline, mean plasma HIV-1 RNA was 5.7 log10 copies/mL (range: 3.1 – 7), median CD4 cell count was 1400 cells/mm3 (range: 131 – 3648) and median CD4% was 18.6% (range: 3.3 – 39.3).
+Overall, 69% had baseline plasma HIV-1 RNA exceeding 100,000 copies/mL and 23% had a CDC HIV clinical classification of category B or C. None of the 26 patients were completely treatment naïve.
+All infants under 6 months of age had received nevirapine or zidovudine for prevention of mother-to-infant transmission, and 43% of patients greater than 6 months of age had received two or more antiretrovirals.
+
+Of the 26 treated subjects, 23 subjects were included in the Week 24 and 48 efficacy analyses, respectively.
+All 26 treated subjects were included for safety analyses.
+
+At Week 24, 39% achieved HIV RNA <50 copies/mL and 61% achieved HIV RNA <400 copies/mL.
+The mean CD4 count (percent) increase from baseline to Week 24 was 500 cells/mm3 (7.5%).
+
+At Week 48, 44% achieved HIV RNA <50 copies/mL and 61% achieved HIV RNA <400 copies/mL.
+The mean CD4 count (percent) increase from baseline to Week 48 was 492 cells/mm3 (7.8%).

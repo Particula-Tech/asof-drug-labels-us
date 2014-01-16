@@ -31,7 +31,7 @@ There is little to no accumulation in AUC and Cmax.
 The average accumulation ratio for C12hr ranged from approximately 1.2 to 1.6.
 
 The absolute bioavailability of raltegravir has not been established.
-Based on a formulation comparison study in healthy adult volunteers, the chewable tablet has higher oral bioavailability compared to the 400 mg film-coated tablet.
+Based on a formulation comparison study in healthy adult volunteers, the chewable tablet and oral suspension have higher oral bioavailability compared to the 400 mg film-coated tablet.
 
 In subjects who received 400 mg twice daily alone, raltegravir drug exposures were characterized by a geometric mean AUC0-12hr of 14.3 µM∙hr and C12hr of 142 nM.
 
@@ -51,6 +51,8 @@ Food appears to increase pharmacokinetic variability relative to fasting.
 
 Administration of the chewable tablet with a high fat meal led to an average 6% decrease in AUC, 62% decrease in Cmax, and 188% increase in C12hr compared to administration in the fasted state.
 Administration of the chewable tablet with a high fat meal does not affect raltegravir pharmacokinetics to a clinically meaningful degree and the chewable tablet can be administered without regard to food.
+
+The effect of food on the formulation for oral suspension was not studied.
 
 Distribution
 
@@ -75,19 +77,27 @@ Special Populations
 
 Pediatric
 
-The doses recommended for HIV-infected children and adolescents 2 to 18 years of age [see Dosage and Administration (2.3)] resulted in a pharmacokinetic profile of raltegravir similar to that observed in adults receiving 400 mg twice daily.
-Table 8 displays steady state pharmacokinetic parameters in the 400 mg film-coated tablet (6 to 18 years of age) and the chewable tablet (2 to less than 12 years of age).
+Two pediatric formulations were evaluated in healthy adult volunteers, where the chewable tablet and oral suspension were compared to the 400 mg tablet.
+The chewable tablet and oral suspension demonstrated higher oral bioavailability, thus higher AUC, compared to the 400 mg tablet.
+In the same study, the oral suspension resulted in higher oral bioavailability compared to the chewable tablet.
+These observations resulted in proposed pediatric doses targeting 6 mg/kg/dose for the chewable tablets and oral suspension.
+As displayed in Table 9, the doses recommended for HIV-infected infants, children and adolescents 4 weeks to 18 years of age [see Dosage and Administration (2.3)] resulted in a pharmacokinetic profile of raltegravir similar to that observed in adults receiving 400 mg twice daily.
 
-Table 8: Raltegravir Steady State Pharmacokinetic Parameters Following Administration of Recommended Doses
+Overall, dosing in pediatric patients achieved exposures (Ctrough) above 45 nM in the majority of subjects, but some differences in exposures between formulations were observed.
+Pediatric patients above 25 kg administered the chewable tablets had lower trough concentrations (113 nM) compared to pediatric patients above 25 kg administered the 400 mg tablet formulation (233 nM) [see Clinical Studies (14.3)].
+As a result, the 400 mg film-coated tablet is the recommended dose in patients weighing at least 25 kg; however, the chewable tablet offers an alternative regimen in patients weighing at least 25 kg who are unable to swallow the film-coated tablet [see Dosage and Administration (2.3)].
+In addition, pediatric patients weighing 11 to 25 kg who were administered the chewable tablets had the lowest trough concentrations (82 nM) compared to all other pediatric subgroups.
 
-| Age | Formulation | Dose | NNumber of patients with intensive pharmacokinetic (PK) results at the final recommended dose. | Geometric Mean (%CV) AUC0-12hr (µM∙hr) | Geometric Mean (%CV) C12hr (nM) |
+Table 9: Raltegravir Steady State Pharmacokinetic Parameters in Pediatric Patients Following Administration of Recommended Doses
+
+| Body Weight | Formulation | Dose | NNumber of patients with intensive pharmacokinetic (PK) results at the final recommended dose. | Geometric Mean (%CVGeometric coefficient of variation.) AUC0-12hr (µM∙hr) | Geometric Mean (%CV) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
-| 12 to 18 years | Film-coated tablet | 400 mg twice daily, regardless of weightPatients in this age group received approximately 8 mg/kg/dose at time of intensive PK which met PK and safety targets. Based on review of the individual profiles and receipt of a mean dose of 390 mg, 400 mg twice daily was selected as the recommended dose for this age group. | 11 | 15.7 (98%) | 333 (78%) |
-| 6 to less than 12 years | Film-coated tablet | 400 mg twice daily, for patients ≥25 kg | 11 | 15.8 (120%) | 246 (221%) |
-| 6 to less than 12 years | Chewable tablet | Weight based dosing, see Table 1 | 10 | 22.6 (34%) | 130 (88%) |
-| 2 to less than 6 years | Chewable tablet | Weight based dosing, see Table 1 | 12 | 18.0 (59%) | 71 (55%) |
+| ≥25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121%) | 233 (157%) |
+| ≥25 kg | Chewable tablet | Weight based dosing, see Table 1 | 9 | 22.1 (36%) | 113 (80%) |
+| 11 to less than 25 kg | Chewable tablet | Weight based dosing, see Table 2 | 13 | 18.6 (68%) | 82 (123%) |
+| 3 to less than 20 kg | Oral suspension | Weight based dosing, see Table 2 | 19 | 24.5 (43%) | 113 (69%) |
 
-The pharmacokinetics of raltegravir in children under 2 years of age has not been established.
+The pharmacokinetics of raltegravir in infants under 4 weeks of age has not been established.
 
 Age
 
@@ -130,7 +140,7 @@ In a comparison of 30 adult subjects with *28/*28 genotype (associated with redu
 
 Drug Interactions [see Drug Interactions (7)]
 
-Table 9: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adults
+Table 10: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adults
 
 | n | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

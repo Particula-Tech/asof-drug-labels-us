@@ -45,3 +45,20 @@ Phenylketonurics: contains phenylalanine (a component of aspartame) 0.05 mg per 
 Rx only
 
 60 Tablets
+
+PRINCIPAL DISPLAY PANEL - 100 mg Packet Carton
+
+NDC 0006-3603-60
+
+Isentress® (raltegravir) For Oral Suspension
+
+100 mg
+
+For Pediatric Use
+
+Each packet contains 108.6 mg raltegravir potassium, equivalent to 100 mg raltegravir.
+Inactive ingredients: hydroxypropyl cellulose, sucralose, mannitol, monoammonium glycyrrhizinate, sorbitol, fructose, natural flavors, maltodextrin, sucrose, crospovidone, magnesium stearate, ethylcellulose 20 cP, ammonium hydroxide, medium chain triglycerides, oleic acid, hypromellose 2910/6cP, macrogol/PEG 400, and Avicel CL-611 (microcrystalline cellulose and carboxymethylcellulose sodium).
+
+Rx only
+
+60 packets

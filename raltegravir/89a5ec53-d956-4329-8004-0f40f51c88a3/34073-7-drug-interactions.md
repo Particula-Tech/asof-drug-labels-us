@@ -17,7 +17,7 @@ Based on in vivo and in vitro studies, raltegravir is eliminated mainly by metab
 
 Rifampin, a strong inducer of UGT1A1, reduces plasma concentrations of ISENTRESS.
 Therefore, in adults the dose of ISENTRESS should be increased during coadministration with rifampin.
-There are no data to guide co-administration of ISENTRESS with rifampin in patients below 18 years of age [see Dosage and Administration (2)].
+There are no data to guide co-administration of ISENTRESS with rifampin in patients below 18 years of age [see Dosage and Administration (2.1)].
 The impact of other inducers of drug metabolizing enzymes, such as phenytoin and phenobarbital, on UGT1A1 is unknown.
 
 Coadministration of ISENTRESS with drugs that inhibit UGT1A1 may increase plasma levels of raltegravir.
@@ -30,9 +30,9 @@ Therefore, when ISENTRESS is coadministered with calcium carbonate-containing an
 
 All interaction studies were performed in adults.
 
-Selected drug interactions are presented in Table 7 [see Clinical Pharmacology (12.3)].
+Selected drug interactions are presented in Table 8 [see Clinical Pharmacology (12.3)].
 
-Table 7: Selected Drug Interactions in Adults
+Table 8: Selected Drug Interactions in Adults
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Raltegravir | Clinical Comment |
 | --- | --- | --- |

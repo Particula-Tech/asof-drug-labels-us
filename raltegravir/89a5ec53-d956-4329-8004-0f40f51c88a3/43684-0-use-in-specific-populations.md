@@ -36,10 +36,10 @@ There were no effects in rat offspring attributable to exposure of ISENTRESS thr
 
 ## 8.4 Pediatric Use
 
-The safety, tolerability, pharmacokinetic profile, and efficacy of ISENTRESS were evaluated in HIV-1 infected children and adolescents 2 to 18 years of age in an open-label, multicenter clinical trial, IMPAACT P1066 [see Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
-The safety profile was comparable to that observed in adults [see Adverse Reactions (6.5)].
-See Dosage and Administration (2.3) for dosing recommendations for children 2 years of age and older.
-Safety and effectiveness of ISENTRESS in children under 2 years of age have not been established.
+The safety, tolerability, pharmacokinetic profile, and efficacy of ISENTRESS were evaluated in HIV-1 infected infants, children and adolescents 4 weeks to 18 years of age in an open-label, multicenter clinical trial, IMPAACT P1066 [see Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
+The safety profile was comparable to that observed in adults [see Adverse Reactions (6.1)].
+See Dosage and Administration (2.3) for dosing recommendations for children 4 weeks of age and older.
+The safety and dosing information for ISENTRESS have not been established in infants less than 4 weeks of age.
 
 ## 8.5 Geriatric Use
 
