@@ -21,7 +21,7 @@ Heart Failure: In the MERIT-HF study comparing TOPROL-XL in daily doses up to 20
 
 The table below lists adverse reactions in the MERIT-HF study that occurred at an incidence of ≥ 1% in the TOPROL-XL group and greater than placebo by more than 0.5%, regardless of the assessment of causality.
 
-Adverse Reactions Occurring in the MERIT-HF Study at an Incidence ≥1% in TOPROL-XL Group and Greater Than Placebo by More than 0.5%
+Adverse Reactions Occurring in the MERIT-HF Study at an Incidence ≥1% in the TOPROL-XL Group and Greater Than Placebo by More Than 0.5%
 
 |  | TOPROL-XL n=1990 % of patients | Placebo n=2001 % of patients |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Adverse Reactions Occurring in the MERIT-HF Study at an Incidence ≥1% in TOPRO
 | Accident and/or injury | 1.4 | 0.8 |
 
 Post-operative Adverse Events: In a randomized, double-blind, placebo-controlled trial of 8351 patients with or at risk for atherosclerotic disease undergoing non-vascular surgery and who were not taking beta–blocker therapy, TOPROL-XL 100 mg was started 2 to 4 hours prior to surgery then continued for 30 days at 200 mg per day.
-TOPROL-XL use was associated with a higher incidence of bradycardia (6.6% vs 2.4%; HR, 2.74; 95% CI 2.19, 3.43), hypotension (15% vs. 9.7%; HR 1.55; 95% CI 1.37, 1.74), stroke (1.0% vs 0.5%; HR 2.17; 95% CI 1.26, 3.74) and death (3.1% vs 2.3%; HR 1.33; 95% CI 1,03, 1.74) compared to placebo.
+TOPROL-XL use was associated with a higher incidence of bradycardia (6.6% vs. 2.4%; HR 2.74; 95% CI 2.19, 3.43), hypotension (15% vs. 9.7%; HR 1.55; 95% CI 1.37, 1.74), stroke (1.0% vs. 0.5%; HR 2.17; 95% CI 1.26, 3.74) and death (3.1% vs. 2.3%; HR 1.33; 95% CI 1.03, 1.74) compared to placebo.
 
 ## 6.2 Post-Marketing Experience
 

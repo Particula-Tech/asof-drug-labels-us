@@ -23,8 +23,8 @@ The study did not meet its primary endpoint (dose response for reduction in SBP)
 Some pre-specified secondary endpoints demonstrated effectiveness including:
 
 - •Dose-response for reduction in DBP,
-- •mg/kg vs. placebo for change in SBP, and
-- •mg/kg vs. placebo for change in SBP and DBP.
+- •1.0 mg/kg vs. placebo for change in SBP, and
+- •2.0 mg/kg vs. placebo for change in SBP and DBP.
 
 The mean placebo corrected reductions in SBP ranged from 3 to 6 mmHg, and DBP from 1 to 5 mmHg.
 Mean reduction in heart rate ranged from 5 to 7 bpm but considerably greater reductions were seen in some individuals [see Dosage and Administration (2.1)].
