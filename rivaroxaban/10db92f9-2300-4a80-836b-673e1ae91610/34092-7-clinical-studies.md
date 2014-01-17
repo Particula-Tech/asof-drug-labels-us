@@ -5,7 +5,7 @@
 The evidence for the efficacy and safety of XARELTO was derived from ROCKET AF, a multi-national, double-blind study comparing XARELTO (at a dose of 20 mg once daily with the evening meal in patients with CrCl >50 mL/min and 15 mg once daily with the evening meal in patients with CrCl 30 to <50 mL/min) to warfarin (titrated to INR 2.0 to 3.0) to reduce the risk of stroke and non-central nervous system (CNS) systemic embolism in patients with nonvalvular atrial fibrillation (AF).
 Patients had to have one or more of the following additional risk factors for stroke:
 
-- a prior stroke (ischemic or unknown type), transient ischemic attack (TIA) or non-CNS systemic embolism, or
+- a prior stroke (ischemic or unknown type), transient ischemic attack (TIA) or non‑CNS systemic embolism, or
 - 2 or more of the following risk factors:
   - age ≥75 years,
   - hypertension,
@@ -160,7 +160,7 @@ Table 12: Summary of Key Efficacy Analysis Results for Patients Undergoing Total
 | Distal DVT | 12 (0.8%) | 26 (1.8%) |  | 11 (1.3%) | 43 (5.2%) |  |
 | Non-fatal PE | 3 (0.2%) | 1 (0.1%) |  | 1 (0.1%) | 4 (0.5%) |  |
 | Death (any cause) | 4 (0.3%) | 4 (0.3%) |  | 2 (0.2%) | 4 (0.5%) |  |
-| Number of Patients | N= 1600 | N = 1587 |  | N= 928 | N = 929 |  |
+| Number of Patients | N = 1600 | N = 1587 |  | N = 928 | N = 929 |  |
 | Major VTEProximal DVT, nonfatal PE or VTE-related death | 3 (0.2%) | 33 (2.1%) | 91% (95% CI: 71, 97), p<0.001 | 6 (0.7%) | 45 (4.8%) | 87% (95% CI: 69, 94), p<0.001 |
 | Number of Patients | N = 2103 | N = 2119 |  | N = 1178 | N = 1179 |  |
 | Symptomatic VTE | 5 (0.2%) | 11 (0.5%) |  | 3 (0.3%) | 15 (1.3%) |  |
@@ -171,7 +171,7 @@ The mean age (± SD) of patients in the study was 68 ± 9.0 (range 28 to 91) yea
 Sixty-eight percent (68%) of patients were female.
 Eighty-one percent (81%) of patients were White, less than 7% were Asian, and less than 2% were Black.
 The study excluded patients with severe renal impairment defined as an estimated creatinine clearance <30 mL/min or patients with significant liver disease (hepatitis or cirrhosis).
-The mean exposure duration (± SD) to active XARELTO and enoxaparin was 11.9 + 2.3 and 12.5 + 3.0 days, respectively.
+The mean exposure duration (± SD) to active XARELTO and enoxaparin was 11.9 ± 2.3 and 12.5 ± 3.0 days, respectively.
 The efficacy data are provided in Table 13.
 
 Table 13: Summary of Key Efficacy Analysis Results for Patients Undergoing Total Knee Replacement Surgery - Modified Intent-to-Treat Population

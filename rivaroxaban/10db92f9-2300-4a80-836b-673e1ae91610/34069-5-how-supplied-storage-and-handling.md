@@ -2,7 +2,7 @@
 
 XARELTO (rivaroxaban) Tablets are available in the strengths and packages listed below:
 
-- 10 mg tablets are round, light red, biconvex film-coated tablets marked with a triangle pointing down above a "10" on one side, and an "Xa" on the other side.
+- 10 mg tablets are round, light red, biconvex film-coated tablets marked with a triangle pointing down above a "10" on one side, and "Xa" on the other side.
   The tablets are supplied in the packages listed: NDC 50458-580-30Bottle containing 30 tabletsNDC 50458-580-10Blister package containing 100 tablets (10 blister cards containing 10 tablets each)
 - 15 mg tablets are round, red, biconvex film-coated tablets with a triangle pointing down above a "15" marked on one side and "Xa" on the other side.
   The tablets are supplied in the packages listed: NDC 50458-578-30Bottle containing 30 tabletsNDC 50458-578-90Bottle containing 90 tabletsNDC 50458-578-10Blister package containing 100 tablets (10 blister cards containing 10 tablets each)

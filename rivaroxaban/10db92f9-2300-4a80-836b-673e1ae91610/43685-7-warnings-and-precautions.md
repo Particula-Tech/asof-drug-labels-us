@@ -15,17 +15,18 @@ Promptly evaluate any signs or symptoms of blood loss and consider the need for 
 Discontinue XARELTO in patients with active pathological hemorrhage.
 The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
 
-A specific antidote for rivaroxaban is not available.
-Because of high plasma protein binding, rivaroxaban is not expected to be dialyzable [see Clinical Pharmacology (12.3)].
-Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban.
-There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving rivaroxaban.
-There is neither scientific rationale for benefit nor experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving rivaroxaban.
-Use of procoagulant reversal agents such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate (APCC), or recombinant factor VIIa (rFVIIa) may be considered but has not been evaluated in clinical trials.
-
-Concomitant use of other drugs affecting hemostasis increases the risk of bleeding.
+Concomitant use of other drugs that impair hemostasis increases the risk of bleeding.
 These include aspirin, P2Y12 platelet inhibitors, other antithrombotic agents, fibrinolytic therapy, and non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.3)].
 
 Concomitant use of drugs that are combined P-gp and CYP3A4 inhibitors (e.g., ketoconazole and ritonavir) increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.1)].
+
+Reversal of Anticoagulant Effect:
+
+A specific antidote for rivaroxaban is not available.
+Because of high plasma protein binding, rivaroxaban is not expected to be dialyzable [see Clinical Pharmacology (12.3)].
+Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban.
+Partial reversal of prothrombin time prolongation has been seen after administration of prothrombin complex concentrates (PCCs) in healthy volunteers.
+The use of other procoagulant reversal agents like activated prothrombin complex concentrate (APCC) or recombinant factor VIIa (rFVIIa) has not been evaluated.
 
 ## 5.3 Spinal/Epidural Anesthesia or Puncture
 
@@ -61,11 +62,11 @@ Avoid use of XARELTO in patients with moderate (Child-Pugh B) and severe (Child-
 
 ## 5.6 Use with P-gp and Strong CYP3A4 Inhibitors or Inducers
 
-Avoid concomitant use of XARELTO with combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, lopinavir/ritonavir, ritonavir, indinavir/ritonavir, and conivaptan) [see Drug Interactions (7.1)].
+Avoid concomitant use of XARELTO with combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, lopinavir/ritonavir, ritonavir, indinavir, and conivaptan) [see Drug Interactions (7.1)].
 
 Avoid concomitant use of XARELTO with drugs that are combined P-gp and strong CYP3A4 inducers (e.g., carbamazepine, phenytoin, rifampin, St. John's wort) [see Drug Interactions (7.2)].
 
-## 5.7 Risk of Pregnancy Related Hemorrhage
+## 5.7 Risk of Pregnancy-Related Hemorrhage
 
 In pregnant women, XARELTO should be used only if the potential benefit justifies the potential risk to the mother and fetus.
 XARELTO dosing in pregnancy has not been studied.
@@ -76,3 +77,7 @@ Promptly evaluate any signs or symptoms suggesting blood loss (e.g., a drop in h
 
 The safety and efficacy of XARELTO have not been studied in patients with prosthetic heart valves.
 Therefore, use of XARELTO is not recommended in these patients.
+
+## 5.9 Acute PE in Hemodynamically Unstable Patients or Patients Who Require Thrombolysis or Pulmonary Embolectomy
+
+Initiation of XARELTO is not recommended acutely as an alternative to unfractionated heparin in patients with pulmonary embolism who present with hemodynamic instability or who may receive thrombolysis or pulmonary embolectomy.

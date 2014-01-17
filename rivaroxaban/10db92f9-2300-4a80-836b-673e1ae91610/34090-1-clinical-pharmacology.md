@@ -2,12 +2,15 @@
 
 ## 12.1 Mechanism of Action
 
-XARELTO is an orally bioavailable factor Xa inhibitor that selectively blocks the active site of factor Xa and does not require a cofactor (such as Anti-thrombin III) for activity.
-Activation of factor X to factor Xa (FXa) via the intrinsic and extrinsic pathways plays a central role in the cascade of blood coagulation.
+XARELTO is a selective inhibitor of FXa.
+It does not require a cofactor (such as Anti-thrombin III) for activity.
+Rivaroxaban inhibits free FXa and prothrombinase activity.
+Rivaroxaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin.
+By inhibiting FXa, rivaroxaban decreases thrombin generation.
 
 ## 12.2 Pharmacodynamics
 
-Dose-dependent inhibition of factor Xa activity was observed in humans and the Neoplastin® prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest® are prolonged dose-dependently.
+Dose-dependent inhibition of FXa activity was observed in humans and the Neoplastin® prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest® are prolonged dose-dependently.
 Anti-factor Xa activity is also influenced by rivaroxaban.
 
 ## 12.3 Pharmacokinetics
@@ -63,7 +66,7 @@ Gender did not influence the pharmacokinetics or pharmacodynamics of XARELTO.
 
 Race
 
-Healthy Japanese subjects were found to have 20 to 40% on average, higher exposures compared to other ethnicities including Chinese.
+Healthy Japanese subjects were found to have 20 to 40% on average higher exposures compared to other ethnicities including Chinese.
 However, these differences in exposure are reduced when values are corrected for body weight.
 
 Elderly

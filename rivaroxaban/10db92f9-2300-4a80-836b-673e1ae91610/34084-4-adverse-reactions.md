@@ -22,7 +22,7 @@ Nonvalvular Atrial Fibrillation
 In the ROCKET AF trial, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 4.3% for XARELTO vs. 3.1% for warfarin.
 The incidence of discontinuations for non-bleeding adverse events was similar in both treatment groups.
 
-Table 1 shows the number of patients experiencing various types of bleeding events in the ROCKET AF study.
+Table 1 shows the number of patients experiencing various types of bleeding events in the ROCKET AF trial.
 
 Table 1: Bleeding Events in ROCKET AFFor all sub-types of major bleeding, single events may be represented in more than one row, and individual patients may have more than one event.
 
@@ -146,10 +146,9 @@ Reported by ≥1% of XARELTO-Treated Patients in EINSTEIN Extension Study
 
 Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in RECORD 1–3 studies are shown in Table 6.
 
-Table 6: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication.
-Reported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
+Table 6: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication Reported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
 
-|  | (N = 4487) n (%) | (N = 4524) n (%) |
+|  | N = 4487 n (%) | N = 4524 n (%) |
 | --- | --- | --- |
 | System/Organ Class Adverse Reaction | XARELTO 10 mg | EnoxaparinIncludes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) |
 | Injury, poisoning and procedural complications |  |  |

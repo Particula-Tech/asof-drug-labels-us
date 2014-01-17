@@ -11,7 +11,7 @@ Animal reproduction studies showed no increased risk of structural malformations
 XARELTO should be used during pregnancy only if the potential benefit justifies the potential risk to mother and fetus [see Warnings and Precautions (5.7)].
 
 Rivaroxaban crosses the placenta in animals.
-Animal reproduction studies have shown pronounced maternal hemorrhagic complications in rats and an increased incidence of post-implantation pregnancy loss in rabbits.
+Animal reproduction studies have shown pronounced maternal hemorrhagic complications in rats and an increased incidence of post‑implantation pregnancy loss in rabbits.
 Rivaroxaban increased fetal toxicity (increased resorptions, decreased number of live fetuses, and decreased fetal body weight) when pregnant rabbits were given oral doses of ≥10 mg/kg rivaroxaban during the period of organogenesis.
 This dose corresponds to about 4 times the human exposure of unbound drug, based on AUC comparisons at the highest recommended human dose of 20 mg/day.
 Fetal body weights decreased when pregnant rats were given oral doses of 120 mg/kg.

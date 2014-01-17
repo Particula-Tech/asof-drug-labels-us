@@ -24,7 +24,7 @@ Avoid concomitant use of XARELTO with drugs that are combined P-gp and strong CY
 ## 7.3 Anticoagulants and NSAIDs/Aspirin
 
 Single doses of enoxaparin and XARELTO given concomitantly resulted in an additive effect on anti-factor Xa activity.
-Single doses of warfarin and XARELTO resulted in an additive effect on factor Xa inhibition and PT.
+Single doses of warfarin and XARELTO resulted in an additive effect on factor Xa (FXa) inhibition and PT.
 Concomitant aspirin use has been identified as an independent risk factor for major bleeding in efficacy trials.
 NSAIDs are known to increase bleeding, and bleeding risk may be increased when NSAIDs are used concomitantly with XARELTO.
 Coadministration of the platelet aggregation inhibitor clopidogrel and XARELTO resulted in an increase in bleeding time for some subjects [see Clinical Pharmacology (12.3)].

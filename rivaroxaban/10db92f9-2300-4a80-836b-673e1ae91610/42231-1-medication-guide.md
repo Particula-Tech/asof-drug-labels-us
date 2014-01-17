@@ -32,7 +32,7 @@ What is the most important information I should know about XARELTO?
   - headaches, feeling dizzy or weak
   - pain, swelling, or new drainage at wound sites
 - Spinal or epidural blood clots (hematoma).
-  People who take a blood thinner medicine (anticoagulant) like XARELTO, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot than can cause long-term or permanent loss of the ability to move (paralysis).
+  People who take a blood thinner medicine (anticoagulant) like XARELTO, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot that can cause long-term or permanent loss of the ability to move (paralysis).
   Your risk of developing a spinal or epidural blood clot is higher if:
   - a thin tube called an epidural catheter is placed in your back to give you certain medicine.
   - you take NSAIDs or a medicine to prevent blood from clotting
@@ -175,11 +175,11 @@ Active ingredient: rivaroxaban
 
 Inactive ingredients: croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
 
-The proprietary film coating mixture for XARELTO 10 mg tablets is Opadry® Pink contains: ferric oxide red, hypromellose, polyethylene glycol 3350, and titanium dioxide.
+The proprietary film coating mixture for XARELTO 10 mg tablets is Opadry® Pink and contains: ferric oxide red, hypromellose, polyethylene glycol 3350, and titanium dioxide.
 
-The proprietary film coating mixture for XARELTO 15 mg tablets is Opadry® Red, contains: ferric oxide red, hypromellose, polyethylene glycol 3350, and titanium dioxide.
+The proprietary film coating mixture for XARELTO 15 mg tablets is Opadry® Red and contains: ferric oxide red, hypromellose, polyethylene glycol 3350, and titanium dioxide.
 
-The proprietary film coating mixture for XARELTO 20 mg tablets is Opadry® II Dark Red, contains: ferric oxide red, polyethylene glycol 3350, polyvinyl alcohol (partially hydrolyzed), talc, and titanium dioxide.
+The proprietary film coating mixture for XARELTO 20 mg tablets is Opadry® II Dark Red and contains: ferric oxide red, polyethylene glycol 3350, polyvinyl alcohol (partially hydrolyzed), talc, and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -189,7 +189,7 @@ Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 Licensed from: Bayer HealthCare AG 51368 Leverkusen, Germany
 
-Revised: August 2013
+Revised: January 2014
 
 © Janssen Pharmaceuticals, Inc. 2011
 

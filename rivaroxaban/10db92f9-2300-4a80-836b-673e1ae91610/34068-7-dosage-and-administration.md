@@ -25,7 +25,7 @@ Switching from XARELTO to Warfarin - No clinical trial data are available to gui
 XARELTO affects INR, so INR measurements made during coadministration with warfarin may not be useful for determining the appropriate dose of warfarin.
 One approach is to discontinue XARELTO and begin both a parenteral anticoagulant and warfarin at the time the next dose of XARELTO would have been taken.
 
-Switching from XARELTO to Anticoagulants other than Warfarin - For patients currently taking XARELTO and transitioning to an anticoagulant with rapid onset, discontinue XARELTO and give the first dose of the other anticoagulant (oral or parenteral) at the time that the next XARELTO dose would have been taken [see Drug Interactions (7.3)]
+Switching from XARELTO to Anticoagulants other than Warfarin - For patients currently taking XARELTO and transitioning to an anticoagulant with rapid onset, discontinue XARELTO and give the first dose of the other anticoagulant (oral or parenteral) at the time that the next XARELTO dose would have been taken [see Drug Interactions (7.3)].
 
 Switching from Anticoagulants other than Warfarin to XARELTO - For patients currently receiving an anticoagulant other than warfarin, start XARELTO 0 to 2 hours prior to the next scheduled evening administration of the drug (e.g., low molecular weight heparin or non-warfarin oral anticoagulant) and omit administration of the other anticoagulant.
 For unfractionated heparin being administered by continuous infusion, stop the infusion and start XARELTO at the same time.
@@ -44,7 +44,7 @@ The recommended dose of XARELTO for reduction in the risk of recurrence of DVT o
 ## 2.5 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
 The recommended dose of XARELTO is 10 mg taken orally once daily with or without food.
-The initial dose should be taken at least 6 to 10 hours after surgery once hemostasis has been established [see Dosage and Administration (2.6)].
+The initial dose should be taken 6 to 10 hours after surgery provided that hemostasis has been established [see Dosage and Administration (2.6)].
 
 - For patients undergoing hip replacement surgery, treatment duration of 35 days is recommended.
 - For patients undergoing knee replacement surgery, treatment duration of 12 days is recommended.
@@ -63,7 +63,7 @@ If a dose of XARELTO is not taken at the scheduled time, administer the dose as 
 - For patients receiving 15 mg twice daily: The patient should take XARELTO immediately to ensure intake of 30 mg XARELTO per day.
   In this particular instance, two 15 mg tablets may be taken at once.
   The patient should continue with the regular 15 mg twice daily intake as recommended on the following day.
-- For patients receiving 20, 15 or 10 mg once daily: The patient should take the missed XARELTO dose immediately.
+- For patients receiving 20 mg, 15 mg or 10 mg once daily: The patient should take the missed XARELTO dose immediately.
 
 ## 2.8 Administration Options
 
