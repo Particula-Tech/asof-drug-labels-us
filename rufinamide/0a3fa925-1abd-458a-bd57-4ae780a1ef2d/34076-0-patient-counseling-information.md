@@ -28,5 +28,5 @@ Patients should be advised to notify their physician if they are breast-feeding 
 
 Patients who are prescribed the oral suspension should be advised to shake the bottle vigorously before every administration and to use the adaptor and oral dosing syringe.
 
-When applicable patients should be advised that Banzel oral suspension does not contain lactose or gluten and is dye-free.
+When applicable patients should be advised that BANZEL oral suspension does not contain lactose or gluten and is dye-free.
 The oral suspension does contain carbohydrates.

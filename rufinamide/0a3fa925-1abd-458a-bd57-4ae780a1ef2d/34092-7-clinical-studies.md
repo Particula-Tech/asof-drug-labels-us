@@ -1,11 +1,11 @@
 # 14 CLINICAL STUDIES
 
-The effectiveness of BANZEL as adjunctive treatment for the seizures associated with Lennox-Gastaut syndrome (LGS) was established in a single multicenter, double-blind, placebo-controlled, randomized, parallel-group study (n=138).
+The effectiveness of BANZEL as adjunctive treatment for the seizures associated with Lennox-Gastaut Syndrome (LGS) was established in a single multicenter, double-blind, placebo-controlled, randomized, parallel-group study (N=138).
 Male and female patients (between 4 and 30 years of age) were included if they had a diagnosis of inadequately controlled seizures associated with LGS (including both atypical absence seizures and drop attacks) and were being treated with 1 to 3 concomitant stable dose AEDs.
 Each patient must have had at least 90 seizures in the month prior to study entry.
 After completing a 4 week Baseline Phase on stable therapy, patients were randomized to have BANZEL or placebo added to their ongoing therapy during the 12 week Double-blind Phase.
 The Double-blind Phase consisted of 2 periods: the Titration Period (1 to 2 weeks) and the Maintenance Period (10 weeks).
-During the Titration Period, the dose was increased to a target dosage of approximately 45 mg/kg/day (3200 mg in adults of ≥70 kg), given on a b.i.d. schedule.
+During the Titration Period, the dose was increased to a target dosage of approximately 45 mg/kg/day (3200 mg in adults of ≥ 70 kg), given on a b.i.d. schedule.
 Dosage reductions were permitted during titration if problems in tolerability were encountered.
 Final doses at titration were to remain stable during the maintenance period.
 Target dosage was achieved in 88% of the BANZEL-treated patients.

@@ -58,13 +58,15 @@ Caution should be used when administering BANZEL with other drugs that shorten t
 
 ## 5.4 Multi-organ Hypersensitivity Reactions
 
-Multi-organ hypersensitivity syndrome, a serious condition sometimes induced by antiepileptic drugs, has occurred in association with BANZEL therapy in clinical trials.
+Multi-organ Hypersensitivity Syndrome, a serious condition sometimes induced by antiepileptic drugs, has occurred in association with BANZEL therapy in clinical trials.
 One patient experienced rash, urticaria, facial edema, fever, elevated eosinophils, stuperous state, and severe hepatitis, beginning on day 29 of Banzel therapy and extending over a course of 30 days of continued Banzel therapy with resolution 11 days after discontinuation.
 Additional possible cases presented with rash and one or more of the following: fever, elevated liver function studies, hematuria, and lymphadenopathy.
 These cases occurred in children less than 12 years of age, within four weeks of treatment initiation, and were noted to resolve and/or improve upon BANZEL discontinuation.
 This syndrome has been reported with other anticonvulsants and typically, although not exclusively, presents with fever and rash associated with other organ system involvement.
 Because this disorder is variable in its expression, other organ system signs and symptoms not noted here may occur.
 If this reaction is suspected, BANZEL should be discontinued and alternative treatment started.
+In addition, rare cases of DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms) and Stevens-Johnson syndrome have been reported in association with rufinamide therapy post marketing.
+If an antiepileptic drug hypersensitivity syndrome is suspected, rufinamide should be discontinued and alternative treatment started.
 
 All patients who develop a rash while taking BANZEL must be closely supervised.
 
@@ -77,9 +79,9 @@ In clinical trials, BANZEL discontinuation was achieved by reducing the dose by 
 ## 5.6 Status Epilepticus
 
 Estimates of the incidence of treatment emergent status epilepticus among patients treated with BANZEL are difficult because standard definitions were not employed.
-In a controlled Lennox-Gastaut syndrome trial, 3 of 74 (4.1%) BANZEL-treated patients had episodes that could be described as status epilepticus in the BANZEL-treated patients compared with none of the 64 patients in the placebo-treated patients.
+In a controlled Lennox-Gastaut Syndrome trial, 3 of 74 (4.1%) BANZEL-treated patients had episodes that could be described as status epilepticus in the BANZEL-treated patients compared with none of the 64 patients in the placebo-treated patients.
 In all controlled trials that included patients with different epilepsies, 11 of 1240 (0.9%) BANZEL-treated patients had episodes that could be described as status epilepticus compared with none of 635 patients in the placebo-treated patients.
 
 ## 5.7 Laboratory Tests
 
-Leucopenia (white cell count <3×109 L) was more commonly observed in BANZEL-treated patients (43 of 1171, 3.7%) than placebo-treated patients (7 of 579, 1.2%) in all controlled trials.
+Leucopenia (white cell count <3X109 L) was more commonly observed in BANZEL-treated patients (43 of 1171 (3.7%) than placebo-treated patients, 7 of 579 (1.2%) in all controlled trials.

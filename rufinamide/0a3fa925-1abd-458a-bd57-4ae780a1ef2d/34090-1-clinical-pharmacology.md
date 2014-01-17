@@ -70,7 +70,7 @@ Pediatrics: Based on a population analysis in 117 children (age 4-11 years) and 
 
 Elderly: The results of a study evaluating single-dose (400 mg) and multiple dose (800 mg/day for 6 days) pharmacokinetics of rufinamide in 8 healthy elderly subjects (65-80 years old) and 7 younger healthy subjects (18-45 years old) found no significant age-related differences in the pharmacokinetics of rufinamide.
 
-Renal Impairment: Rufinamide pharmacokinetics in 9 patients with severe renal impairment (creatinine clearance <30 mL/min) was similar to that of healthy subjects.
+Renal Impairment: Rufinamide pharmacokinetics in 9 patients with severe renal impairment (creatinine clearance < 30 mL/min) was similar to that of healthy subjects.
 Patients undergoing dialysis 3 hours post rufinamide dosing showed a reduction in AUC and Cmax by 29% and 16% respectively.
 Adjusting rufinamide dose for the loss of drug upon dialysis should be considered.
 
