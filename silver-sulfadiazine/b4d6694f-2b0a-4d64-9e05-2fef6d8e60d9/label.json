@@ -3,10 +3,12 @@
     "NDA018810"
   ],
   "inn": "silver-sulfadiazine",
-  "labeler": "Ascend Laboratories LLC",
+  "labeler": "Ascend Laboratories, LLC",
   "package_ndcs": [
     "67877-124-05",
+    "67877-124-10",
     "67877-124-20",
+    "67877-124-25",
     "67877-124-40",
     "67877-124-50",
     "67877-124-85"
@@ -15,7 +17,7 @@
     {
       "form": "CREAM",
       "generic": "silver sulfadiazine",
-      "name": "Thermazene"
+      "name": "Silver Sulfadiazine"
     }
   ],
   "setid": "b4d6694f-2b0a-4d64-9e05-2fef6d8e60d9",

@@ -1,8 +1,12 @@
+# DOSAGE AND ADMINISTRATION
+
 Prompt institution of appropriate regimens for care of the burned patient is of prime importance and includes the control of shock and pain.
-The burn wounds are then cleansed and debrided; Thermazene Cream is then applied under sterile conditions.
-The burn areas should be covered with Thermazene Cream at all times.
+The burn wounds are then cleansed and debrided, silver sulfadiazine cream, USP 1% is then applied under sterile conditions.
+The burn areas should be covered with silver sulfadiazine cream, USP 1% at all times.
 The cream should be applied once to twice daily to a thickness of approximately one sixteenth of an inch.
-Whenever necessary, the cream should be reapplied to any areas from which it has been removed due to patient activity.
+Whenever necessary, the cream should be reapplied to any areas from which it has been removed by patient activity.
 Administration may be accomplished in minimal time because dressings are not required.
-However, if individual patient requirements make dressings necessary, they may be used.Reapply immediately after hydrotherapy.Treatment with Thermazene Cream should be continued until satisfactory healing has occurred or until the burn site is ready for grafting.
+However, if individual patient requirements make dressings necessary, they may be used.
+Reapply immediately after hydrotherapy.
+Treatment with silver sulfadiazine cream, USP 1% should be continued until satisfactory healing has occurred or until the burn site is ready for grafting.
 The drug should not be withdrawn from the therapeutic regimen while there remains the possibility of infection except if a significant adverse reaction occurs.
