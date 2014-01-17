@@ -18,7 +18,7 @@ Phenylketonurics: Contains Phenylalanine, 0.87 mg per Tablet.
 
 Usual Adult Dosage: Consult the package insert for prescribing information.
 
-Storage Conditions: Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Storage Conditions: Store at 20°C to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 Protect from moisture.
 
@@ -26,13 +26,12 @@ KEEP OUT OF REACH OF CHILDREN.
 
 Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Jazz Pharmaceuticals Commercial Corp.
+Distributed by Jazz Pharmaceuticals, Inc.
 
-1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
-U.S. Patent Nos. 6,024,981; 6,221,392.
+Palo Alto, CA 94304 USA.
+U.S. Patent Nos. 6,024,981; 6,221,392; and 6,106,861.
 FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
-All rights reserved.
-Aug 2012, FZCLtb-12-12a
+Aug 2013, FZCLtb-13-12
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 25 mg (Bottle)
 
@@ -54,7 +53,7 @@ Phenylketonurics: Contains Phenylalanine, 1.74 mg per Tablet.
 
 Usual Adult Dosage: Consult the package insert for prescribing information.
 
-Storage Conditions: Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Storage Conditions: Store at 20°C to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 Protect from moisture.
 
@@ -62,13 +61,13 @@ KEEP OUT OF REACH OF CHILDREN.
 
 Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Jazz Pharmaceuticals Commercial Corp.
+Distributed by Jazz Pharmaceuticals, Inc.
 
-1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
-U.S. Patent Nos. 6,024,981; 6,221,392.
+Palo Alto, CA 94304 USA.
+U.S. Patent Nos. 6,024,981; 6,221,392; and 6,106,861.
 FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
-All rights reserved.
-Aug 2012, FZCLtb-12-22a
+
+Aug 2013, FZCLtb-13-22
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 100 mg (Bottle)
 
@@ -90,7 +89,7 @@ Phenylketonurics: Contains Phenylalanine, 6.96 mg per Tablet.
 
 Usual Adult Dosage: Consult the package insert for prescribing information.
 
-Storage Conditions: Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Storage Conditions: Store at 20°C to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 Protect from moisture.
 
@@ -98,13 +97,12 @@ KEEP OUT OF REACH OF CHILDREN.
 
 Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Jazz Pharmaceuticals Commercial Corp.
+Distributed by Jazz Pharmaceuticals, Inc.
 
-1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
-U.S. Patent Nos. 6,024,981; 6,221,392.
+Palo Alto, CA 94304 USA.
+U.S. Patent Nos. 6,024,981; 6,221,392; and 6,106,861.
 FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
-All rights reserved.
-Aug 2012, FZCLtb-12-32a
+Aug 2013, FZCLtb-13-32
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 150 mg (Bottle)
 
@@ -126,7 +124,7 @@ Phenylketonurics: Contains Phenylalanine, 10.44 mg per Tablet.
 
 Usual Adult Dosage: Consult the package insert for prescribing information.
 
-Storage Conditions: Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Storage Conditions: Store at 20°C to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 Protect from moisture.
 
@@ -134,13 +132,12 @@ KEEP OUT OF REACH OF CHILDREN.
 
 Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Jazz Pharmaceuticals Commercial Corp.
+Distributed by Jazz Pharmaceuticals, Inc.
 
-1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
-U.S. Patent Nos. 6,024,981; 6,221,392.
+Palo Alto, CA 94304 USA.
+U.S. Patent Nos. 6,024,981; 6,221,392; and 6,106,861.
 FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
-All rights reserved.
-Aug 2012, FZCLtb-12-42a
+Aug 2013, FZCLtb-13-42
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 200 mg (Bottle)
 
@@ -162,7 +159,7 @@ Phenylketonurics: Contains Phenylalanine, 13.92 mg per Tablet.
 
 Usual Adult Dosage: Consult the package insert for prescribing information.
 
-Storage Conditions: Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Storage Conditions: Store at 20°C to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 Protect from moisture.
 
@@ -170,9 +167,8 @@ KEEP OUT OF REACH OF CHILDREN.
 
 Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Distributed by Jazz Pharamceuticals Commercial Corp.
+Distributed by Jazz Pharamceuticals, Inc.
 
-1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA U.S. Patent Nos. 6,024,981; 6,221,392.
+Palo Alto, CA 94304 USA U.S. Patent Nos. 6,024,981; 6,221,392; and 6,106,861.
 FazaClo® is a registered trademark of Jazz Pharmaceuticals plc or its subsidiaries.
-All rights reserved.
-Aug 2012, FZCLtb-12-52a
+Aug 2013, FZCLtb-13-52.
