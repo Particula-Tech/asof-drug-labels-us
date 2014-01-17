@@ -3,7 +3,7 @@
 ## A. Benign Prostatic Hyperplasia (BPH)
 
 The incidence of adverse events has been ascertained from worldwide clinical trials in 965 BPH patients.
-The incidence rates presented below (Table 3) are based on combined data from seven placebo-controlled trials involving once-daily administration of doxazosin in doses of 1 to 16 mg in hypertensives and 0.5-8 mg in normotensives.
+The incidence rates presented below (Table 3) are based on combined data from seven placebo-controlled trials involving once-daily administration of doxazosin in doses of 1 to 16 mg in hypertensives and 0.5 to 8 mg in normotensives.
 The adverse events when the incidence in the doxazosin group was at least 1% are summarized in Table 3.
 No significant difference in the incidence of adverse events compared to placebo was seen except for dizziness, fatigue, hypotension, edema, and dyspnea.
 Dizziness and dyspnea appeared to be dose-related.
@@ -50,7 +50,7 @@ TABLE 3 ADVERSE REACTIONS DURING PLACEBO-CONTROLLED STUDIES BENIGN PROSTATIC HYP
 
 In these placebo-controlled studies of 665 doxazosin patients treated for a mean of 85 days, additional adverse reactions have been reported.
 These are less than 1% and not distinguishable from those that occurred in the placebo group.
-Adverse reactions with an incidence of less than 1% but of clinical interest are (doxazosin vs. placebo): Cardiovascular System: angina pectoris (0.6% vs. 0.7%), postural hypotension (0.3% vs. 0.3%), syncope (0.5% vs. 0.0%), tachycardia (0.9% vs. 0.0%); Urogenital System: dysuria (0.5% vs. 1.3%), and Psychiatric Disorders: libido decreased (0.8% vs. 0.3%).
+Adverse reactions with an incidence of less than 1% but of clinical interest are (doxazosin vs. placebo): Cardiovascular System: angina pectoris (0.6% vs. 0.7%), postural hypotension (0.3% vs. 0.3%), syncope (0.5% vs. 0.0%), tachycardia (0.9% vs. 0.0%); Urogenital System: dysuria (0.5% vs. 1.3%); and Psychiatric Disorders: libido decreased (0.8% vs. 0.3%).
 The safety profile in patients treated for up to three years was similar to that in the placebo-controlled studies.
 
 The majority of adverse experiences with doxazosin were mild.
@@ -143,4 +143,4 @@ Doxazosin has not been associated with any clinically significant changes in rou
 No clinically relevant adverse effects were noted on serum potassium, serum glucose, uric acid, blood urea nitrogen, creatinine or liver function tests.
 Doxazosin has been associated with decreases in white blood cell counts (see PRECAUTIONS, Leukopenia/Neutropenia).
 
-In post-marketing, experience the following additional adverse reactions have been reported: Autonomic Nervous System: priapism; Central Nervous System: hypoesthesia; Endocrine System: gynecomastia; Gastrointestinal System: vomiting; General Body System: allergic reaction; Heart Rate/Rhythm: bradycardia; Hematopoietic: leukopenia, thrombocytopenia; Liver/Biliary System: hepatitis, hepatitis cholestatic; Respiratory System: bronchospasm aggravated; Skin Disorders: urticaria; Special Senses: Intraoperative Floppy Iris Syndrome (see PRECAUTIONS, Cataract Surgery); Urinary System: hematuria, micturition disorder, micturition frequency, nocturia.
+In post-marketing experience, the following additional adverse reactions have been reported: Autonomic Nervous System: priapism; Central Nervous System: hypoesthesia; Endocrine System: gynecomastia; Gastrointestinal System: vomiting; General Body System: allergic reaction; Heart Rate/Rhythm: bradycardia; Hematopoietic: leukopenia, thrombocytopenia; Liver/Biliary System: hepatitis, hepatitis cholestatic; Respiratory System: bronchospasm aggravated; Skin Disorders: urticaria; Special Senses: Intraoperative Floppy Iris Syndrome (see PRECAUTIONS, Cataract Surgery); Urinary System: hematuria, micturition disorder, micturition frequency, nocturia.

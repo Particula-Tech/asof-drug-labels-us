@@ -15,7 +15,7 @@ Bottles of 100:
 
 8 mg (NDC 60505-0096-0)
 
-Bottles of 1000:
+Bottles of 1,000:
 
 1 mg (NDC 60505-0093-1)
 
@@ -35,14 +35,14 @@ DOXAZOSIN TABLETS, USP
 
 1 mg, 2 mg, 4 mg and 8 mg
 
-| Manufactured by: | Manufactured for: |
+| Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
 | Canada | 33326 |
 | M9L 1T9 |  |
 
-Revised: February 2011
+Revised: December 2013
 
 Rev.
-2
+3

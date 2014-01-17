@@ -12,18 +12,18 @@ However, the severity of BPH symptoms and the degree of urethral obstruction do 
 The dynamic component of BPH is associated with an increase in smooth muscle tone in the prostate and bladder neck.
 The degree of tone in this area is mediated by the alpha1 adrenoceptor, which is present in high density in the prostatic stroma, prostatic capsule and bladder neck.
 Blockade of the alpha1 receptor decreases urethral resistance and may relieve the obstruction and BPH symptoms.
-In the human prostate, doxazosin antagonizes phenylephrine (alpha1 agonist)-induced contractions, in vitro, and binds with high affinity to the alpha1c adrenoceptor.
+In the human prostate, doxazosin antagonizes phenylephrine (alpha1 agonist)- induced contractions, in vitro, and binds with high affinity to the alpha1c adrenoceptor.
 The receptor subtype is thought to be the predominant functional type in the prostate.
 Doxazosin acts within 1 to 2 weeks to decrease the severity of BPH symptoms and improve urinary flow rate.
 Since alpha1 adrenoceptors are of low density in the urinary bladder (apart from the bladder neck), doxazosin should maintain bladder contractility.
 
 The efficacy of doxazosin was evaluated extensively in over 900 patients with BPH in double-blind, placebo-controlled trials.
 Doxazosin treatment was superior to placebo in improving patient symptoms and urinary flow rate.
-Significant relief with doxazosin was seen as early as one week into the treatment regimen, with doxazosin treated patients (N=173) showing a significant (p<0.01) increase in maximum flow rate of 0.8 mL/sec compared to a decrease of 0.5 mL/sec in the placebo group (N=41).
-In long-term studies improvement was maintained for up to 2 years of treatment.
+Significant relief with doxazosin was seen as early as one week into the treatment regimen, with doxazosin-treated patients (N=173) showing a significant (p<0.01) increase in maximum flow rate of 0.8 mL/sec compared to a decrease of 0.5 mL/sec in the placebo group (N=41).
+In long-term studies, improvement was maintained for up to 2 years of treatment.
 In 66 to 71% of patients, improvements above baseline were seen in both symptoms and maximum urinary flow rate.
 
-In three placebo-controlled studies of 14 to 16 weeks duration obstructive symptoms (hesitation, intermittency, dribbling, weak urinary stream, incomplete emptying of the bladder) and irritative symptoms (nocturia, daytime frequency, urgency, burning) of BPH were evaluated at each visit by patient-assessed symptom questionnaires.
+In three placebo-controlled studies of 14 to 16 weeks' duration, obstructive symptoms (hesitation, intermittency, dribbling, weak urinary stream, incomplete emptying of the bladder) and irritative symptoms (nocturia, daytime frequency, urgency, burning) of BPH were evaluated at each visit by patient-assessed symptom questionnaires.
 The bothersomeness of symptoms was measured with a modified Boyarsky questionnaire.
 Symptom severity/frequency was assessed using a modified Boyarsky questionnaire or an AUA-based questionnaire.
 Uroflowmetric evaluations were performed at times of peak (2 to 6 hours post-dose) and/or trough (24 hours post-dose) plasma concentrations of doxazosin.
@@ -32,7 +32,7 @@ The results from the three placebo-controlled studies (N=609) showing significan
 In all three studies, doxazosin resulted in statistically significant relief of obstructive and irritative symptoms compared to placebo.
 Statistically significant improvements of 2.3 to 3.3 mL/sec in maximum flow rate were seen with doxazosin in Studies 1 and 2, compared to 0.1 to 0.7 mL/sec with placebo.
 
-In one fixed dose study (Study 2) doxazosin therapy (4 to 8 mg, once daily) resulted in a significant and sustained improvement in maximum urinary flow rate of 2.3 to 3.3 mL/sec (Table 1) compared to placebo (0.1 mL/sec).
+In one fixed-dose study (Study 2), doxazosin therapy (4 to 8 mg, once daily) resulted in a significant and sustained improvement in maximum urinary flow rate of 2.3 to 3.3 mL/sec (Table 1) compared to placebo (0.1 mL/sec).
 In this study, the only study in which weekly evaluations were made, significant improvement with doxazosin vs. placebo was seen after one week.
 The proportion of patients who responded with a maximum flow rate improvement of ≥3 mL/sec was significantly larger with doxazosin (34 to 42%) than placebo (13 to 17%).
 A significantly greater improvement was also seen in average flow rate with doxazosin (1.6 mL/sec) than with placebo (0.2 mL/sec).
@@ -42,7 +42,7 @@ In BPH patients (N=450) treated for up to 2 years in open-label studies, doxazos
 The significant effects of doxazosin were maintained over the entire treatment period.
 
 Although blockade of alpha1 adrenoceptors also lowers blood pressure in hypertensive patients with increased peripheral vascular resistance, doxazosin treatment of normotensive men with BPH did not result in a clinically significant blood pressure lowering effect (Table 2).
-The proportion of normotensive patients with a sitting systolic blood pressure less than 90 mmHg and/or diastolic blood pressure less than 60 mmHg at any time during treatment with doxazosin 1–8 mg once daily was 6.7% with doxazosin and not significantly different (statistically) from that with placebo (5%).
+The proportion of normotensive patients with a sitting systolic blood pressure less than 90 mmHg and/or diastolic blood pressure less than 60 mmHg at any time during treatment with doxazosin 1 to 8 mg once daily was 6.7% with doxazosin and not significantly different (statistically) from that with placebo (5%).
 
 TABLE 2 Mean Changes in Blood Pressure from Baseline to the Mean of the Final Efficacy Phase in Normotensives (Diastolic BP <90 mmHg) in Two Double-blind, Placebo-controlled U.S. Studies with Doxazosin 1 to 8 mg once daily.
 
@@ -80,7 +80,7 @@ In the same patient population, patients receiving doxazosin gained a mean of 0.
 ## Pharmacokinetics
 
 After oral administration of therapeutic doses, peak plasma levels of doxazosin occur at about 2 to 3 hours.
-Bioavailability is approximately 65%, reflecting-first pass metabolism of doxazosin by the liver.
+Bioavailability is approximately 65%, reflecting first-pass metabolism of doxazosin by the liver.
 The effect of food on the pharmacokinetics of doxazosin was examined in a crossover study with twelve hypertensive subjects.
 Reductions of 18% in mean maximum plasma concentration and 12% in the area under the concentration-time curve occurred when doxazosin was administered with food.
 Neither of these differences was statistically or clinically significant.
@@ -89,7 +89,7 @@ Doxazosin is extensively metabolized in the liver, mainly by O-demethylation of 
 Although several active metabolites of doxazosin have been identified, the pharmacokinetics of these metabolites have not been characterized.
 In a study of two subjects administered radiolabelled doxazosin 2 mg orally and 1 mg intravenously on two separate occasions, approximately 63% of the dose was eliminated in the feces and 9% of the dose was found in the urine.
 On average only 4.8% of the dose was excreted as unchanged drug in the feces and only a trace of the total radioactivity in the urine was attributed to unchanged drug.
-At the plasma concentrations achieved by therapeutic doses approximately 98% of the circulating drug is bound to plasma proteins.
+At the plasma concentrations achieved by therapeutic doses, approximately 98% of the circulating drug is bound to plasma proteins.
 
 Plasma elimination of doxazosin is biphasic, with a terminal elimination half-life of about 22 hours.
 Steady-state studies in hypertensive patients given doxazosin doses of 2 to 16 mg once daily showed linear kinetics and dose proportionality.

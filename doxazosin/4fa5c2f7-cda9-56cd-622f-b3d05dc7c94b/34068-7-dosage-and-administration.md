@@ -1,11 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
 DOSAGE MUST BE INDIVIDUALIZED.
-The initial dosage of Doxazosin Tablets in patients with hypertension and/or BPH is 1 mg given once daily in the a.m. or p.m.
+The initial dosage of doxazosin tablets in patients with hypertension and/or BPH is 1 mg given once daily in the a.m. or p.m.
 This starting dose is intended to minimize the frequency of postural hypotension and first-dose syncope associated with doxazosin.
 Postural effects are most likely to occur between 2 and 6 hours after a dose.
 Therefore, blood pressure measurements should be taken during this time period after the first dose and with each increase in dose.
-If Doxazosin Tablets administration is discontinued for several days, therapy should be restarted using the initial dosing regimen.
+If doxazosin tablets administration is discontinued for several days, therapy should be restarted using the initial dosing regimen.
 
 Concomitant administration of doxazosin with a PDE-5 inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension; therefore, PDE-5 inhibitor therapy should be initiated at the lowest dose in patients taking doxazosin.
 

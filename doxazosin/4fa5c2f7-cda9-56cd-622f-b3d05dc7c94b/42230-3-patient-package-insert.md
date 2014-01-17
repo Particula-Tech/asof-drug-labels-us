@@ -31,7 +31,7 @@ The four main treatment options for BPH are:
 - If you are not bothered by your symptoms, you and your doctor may decide on a program of "watchful waiting."
   It is not an active treatment like taking medication or surgery but involves having regular checkups to see if your condition is getting worse or causing problems.
 - Treatment with Doxazosin Tablets or other similar drugs.
-  Doxazosin Tablets is the medication your doctor has prescribed for you.
+  Doxazosin Tablets are the medication your doctor has prescribed for you.
   See "What Doxazosin Tablets Do," below.
 - Treatment with the medication class of 5-alpha reductase inhibitors (e.g., finasteride).
   It can cause the prostate to shrink.
@@ -45,12 +45,12 @@ The four main treatment options for BPH are:
 Doxazosin works on a specific type of muscle found in the prostate, causing it to relax.
 This in turn decreases the pressure within the prostate, thus improving the flow of urine and your symptoms.
 
-- Doxazosin Tablets helps relieve the symptoms of BPH (weak stream, start-and-stop stream, a feeling that your bladder is not completely empty, delay in beginning of urination, need to urinate often during the day and especially at night, and feeling that you must urinate immediately).
+- Doxazosin Tablets help relieve the symptoms of BPH (weak stream, start-and-stop stream, a feeling that your bladder is not completely empty, delay in beginning of urination, need to urinate often during the day and especially at night, and feeling that you must urinate immediately).
   It does not change the size of the prostate.
   The prostate may continue to grow; however, a larger prostate is not necessarily related to more symptoms or to worse symptoms.
   Doxazosin Tablets can decrease your symptoms and improve urinary flow, without decreasing the size of the prostate.
-- If Doxazosin Tablets is helping you, you should notice an effect within 1 to 2 weeks after you start your medication.
-  Doxazosin Tablets has been studied in over 900 patients for up to 2 years and the drug has been shown to continue to work during long-term treatment.
+- If Doxazosin Tablets are helping you, you should notice an effect within 1 to 2 weeks after you start your medication.
+  Doxazosin Tablets have been studied in over 900 patients for up to 2 years and the drug has been shown to continue to work during long-term treatment.
   Even though you take Doxazosin Tablets and it may help you, Doxazosin Tablets may not prevent the need for surgery in the future.
 - Doxazosin Tablets do not affect PSA levels.
   PSA is the abbreviation for Prostate Specific Antigen.
@@ -116,14 +116,14 @@ DOXAZOSIN TABLETS, USP
 
 1 mg, 2 mg, 4 mg and 8 mg
 
-| Manufactured by: | Manufactured for: |
+| Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
 | Canada | 33326 |
 | M9L 1T9 |  |
 
-Revised: February 2011
+Revised: December 2013
 
 Rev.
-2
+3

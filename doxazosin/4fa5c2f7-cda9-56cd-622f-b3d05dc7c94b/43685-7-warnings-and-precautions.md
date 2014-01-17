@@ -12,7 +12,7 @@ Patients being titrated with doxazosin should be cautioned to avoid situations w
 In an early investigational study of the safety and tolerance of increasing daily doses of doxazosin in normotensives beginning at 1 mg/day, only 2 of 6 subjects could tolerate more than 2 mg/day without experiencing symptomatic postural hypotension.
 In another study of 24 healthy normotensive male subjects receiving initial doses of 2 mg/day of doxazosin, seven (29%) of the subjects experienced symptomatic postural hypotension between 0.5 and 6 hours after the first dose, necessitating termination of the study.
 In this study, 2 of the normotensive subjects experienced syncope.
-Subsequent trials in hypertensive patients always began doxazosin dosing at 1 mg/day resulting in a 4% incidence of postural side effects at 1 mg/day, with no cases of syncope.
+Subsequent trials in hypertensive patients always began doxazosin dosing at 1 mg/day, resulting in a 4% incidence of postural side effects at 1 mg/day with no cases of syncope.
 
 In multiple-dose clinical trials in hypertension involving over 1500 hypertensive patients with dose titration every one to two weeks, syncope was reported in 0.7% of patients.
 None of these events occurred at the starting dose of 1 mg, and 1.2% (8/664) occurred at 16 mg/day.
@@ -55,7 +55,7 @@ While syncope is the most severe orthostatic effect of doxazosin, other symptoms
 These symptoms were common in clinical trials in hypertension, occurring in up to 23% of all patients treated and causing discontinuation of therapy in about 2%.
 
 In placebo-controlled titration trials in hypertension, orthostatic effects were minimized by beginning therapy at 1 mg per day and titrating every two weeks to 2, 4, or 8 mg per day.
-There was an increased frequency of orthostatic effects in patients given 8 mg or more, 10%, compared to 5% at 1-4 mg and 3% in the placebo group.
+There was an increased frequency of orthostatic effects in patients given 8 mg or more, 10%, compared to 5% at 1 to 4 mg and 3% in the placebo group.
 
 #### b) Benign Prostatic Hyperplasia
 
@@ -64,12 +64,12 @@ The incidence of discontinuations due to hypotensive or orthostatic symptoms was
 The titration interval in these studies was one to two weeks.
 
 Patients in occupations in which orthostatic hypotension could be dangerous should be treated with particular caution.
-As alpha1 antagonists can cause orthostatic effects, it is important to evaluate standing blood pressure two minutes after standing and patients should be advised to exercise care when arising from a supine or sitting position.
+As alpha1 antagonists can cause orthostatic effects, it is important to evaluate standing blood pressure two minutes after standing, and patients should be advised to exercise care when arising from a supine or sitting position.
 
 If hypotension occurs, the patient should be placed in the supine position and, if this measure is inadequate, volume expansion with intravenous fluids or vasopressor therapy may be used.
 A transient hypotensive response is not a contraindication to further doses of doxazosin.
 
-## Information for Patients(See patient package insert)
+## Information for Patients (See patient package insert)
 
 Patients should be made aware of the possibility of syncopal and orthostatic symptoms, especially at the initiation of therapy, and urged to avoid driving or hazardous tasks for 24 hours after the first dose, after a dosage increase, and after interruption of therapy when treatment is resumed.
 They should be cautioned to avoid situations where injury could result should syncope occur during initiation of doxazosin therapy.
@@ -79,7 +79,7 @@ Patients should also be told that drowsiness or somnolence can occur with doxazo
 
 Patients should be advised about the possibility of priapism as a result of treatment with alpha1 antagonists.
 Patients should know that this adverse event is very rare.
-If they experience priapism, it should be brought to immediate medical attention, for if, not treated promptly, it can lead to permanent erectile dysfunction (impotence).
+If they experience priapism, it should be brought to immediate medical attention, for, if not treated promptly, it can lead to permanent erectile dysfunction (impotence).
 
 ## Drug/Laboratory Test Interactions
 
@@ -89,7 +89,7 @@ There is no definitive controlled clinical experience on the concomitant use of 
 
 ## Impaired Liver Function
 
-Doxazosin should be administered with caution to patients with evidence of impaired hepatic function or to patients receiving drugs known to influence hepatic metabolism (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+Doxazosin should be administered with caution to patients with evidence of impaired hepatic function, or to patients receiving drugs known to influence hepatic metabolism (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
 
 ## Leukopenia/Neutropenia
 
@@ -126,7 +126,7 @@ There is no evidence that similar lesions occur in humans.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Chronic dietary administration (up to 24 months) of doxazosin at maximally tolerated doses of 40 mg/kg/day in rats and 120 mg/kg/day in mice revealed no evidence of carcinogenic potential.
+Chronic dietary administration (up to 24 months) of doxazosin mesylate at maximally tolerated doses of 40 mg/kg/day in rats and 120 mg/kg/day in mice revealed no evidence of carcinogenic potential.
 The highest doses evaluated in the rat and mouse studies are associated with AUCs (a measure of systemic exposure) that are 8 times and 4 times, respectively, the human AUC at a dose of 16 mg/day.
 
 Mutagenicity studies revealed no drug- or metabolite-related effects at either chromosomal or subchromosomal levels.
@@ -148,7 +148,7 @@ Radioactivity was found to cross the placenta following oral administration of l
 
 ## Nonteratogenic Effects
 
-In peri-postnatal studies in rats, postnatal development at maternal doses of 40 or 50 mg/kg/day of doxazosin (8 times human AUC exposure with a 12 mg/day therapeutic dose) was delayed as evidenced by slower body weight gain and slightly later appearance of anatomical features and reflexes.
+In peri-postnatal studies in rats, postnatal development at maternal doses of 40 or 50 mg/kg/day of doxazosin (8 times human AUC exposure with a 12 mg/day therapeutic dose) was delayed, as evidenced by slower body weight gain and slightly later appearance of anatomical features and reflexes.
 
 ## Nursing Mothers
 
