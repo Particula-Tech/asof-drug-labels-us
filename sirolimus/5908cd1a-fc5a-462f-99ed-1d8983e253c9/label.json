@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA021110"
+  ],
+  "inn": "sirolimus",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-1001-1",
+    "59762-1001-2",
+    "59762-1001-3",
+    "59762-1002-1",
+    "59762-1002-2",
+    "59762-1002-3",
+    "59762-1003-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, SUGAR COATED",
+      "generic": "sirolimus",
+      "name": "Sirolimus"
+    }
+  ],
+  "setid": "5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+  "source": "dailymed"
+}
