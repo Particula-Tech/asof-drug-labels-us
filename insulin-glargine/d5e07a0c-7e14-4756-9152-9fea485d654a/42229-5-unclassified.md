@@ -47,7 +47,7 @@ What is Diabetes?
 
 What is LANTUS?
 
-- LANTUS (insulin glargine [recombinant DNA origin]) is a long-acting insulin..
+- LANTUS (insulin glargine [recombinant DNA origin]) is a long-acting insulin.
   Because Lantus is made by recombinant DNA technology (rDNA) and is chemically different from the insulin made by the human body, it is called an insulin analog.
   LANTUS is used to treat patients with diabetes for the control of high blood sugar.
   It is used once a day to lower blood glucose.
@@ -82,7 +82,7 @@ Check with your healthcare provider if you are not sure.
 
 How should I use LANTUS?
 
-See the "Instructions for SoloStar® Use" section for additional information.
+See the "Instructions for SoloStar Use" section for additional information.
 
 - Follow the instructions given by your healthcare provider about the type or types of insulin you are using.
   Do not make any changes with your insulin unless you have talked to your healthcare provider.
@@ -95,7 +95,7 @@ See the "Instructions for SoloStar® Use" section for additional information.
 - Inject LANTUS under your skin (subcutaneously) in your upper arm, abdomen (stomach area), or thigh (upper leg).
   Never inject it into a vein or muscle.
 - Change (rotate) injection sites within the same body area.
-- NEEDLES AND SOLOSTAR® MUST NOT BE SHARED.
+- NEEDLES AND SOLOSTAR MUST NOT BE SHARED.
 - Disposable needles should be used only once.
   Used needle should be placed in sharps containers (such as red biohazard containers), hard plastic containers (such as detergent bottles), or metal containers (such as an empty coffee can).
   Such containers should be sealed and disposed of properly.
@@ -105,15 +105,15 @@ Mixing with LANTUS
 - Do NOT dilute or mix LANTUS with any other insulin or solution.
   It will not work as intended and you may lose blood sugar control, which could be serious.
 
-Instructions for SoloStar® Use
+Instructions for SoloStar Use
 
-It is important to read, understand, and follow the step-by-step instructions in the "SoloStar® Instruction Leaflet" before using SoloStar® disposable insulin Pen.
+It is important to read, understand, and follow the step-by-step instructions in the "SoloStar Instruction Leaflet" before using SoloStar disposable insulin Pen.
 Failure to follow the instructions may result in getting too much or too little insulin.
 If you have lost your leaflet or have a question, go to www.lantus.com or call 1-800-633-1610.
 
 The following general notes should be taken into consideration before injecting Lantus:
 
-- Always wash your hands before handling the SoloStar® disposable insulin Pen.
+- Always wash your hands before handling the SoloStar disposable insulin Pen.
 - Always attach a new needle before use.
   BD Ultra-Fine™ needles† are compatible with SoloStar.
   These are sold separately and are manufactured by BD.
@@ -128,7 +128,7 @@ The following general notes should be taken into consideration before injecting 
   Then pull the needle straight out.
   Gently press on the spot where you injected yourself for a few seconds.
   Do not rub the area.
-- Do not drop the SoloStar® disposable insulin Pen.
+- Do not drop the SoloStar disposable insulin Pen.
 
 If your blood glucose reading is high or low, tell your healthcare provider so the dose can be adjusted.
 
@@ -168,7 +168,7 @@ Take extra insulin and supplies with you.
 
 Pregnancy or nursing.
 The effects of LANTUS on an unborn child or on a nursing baby are unknown.
-Therefore, tell your healthcare provider if you planning to have a baby, are pregnant, or nursing a baby.
+Therefore, tell your healthcare provider if you are planning to have a baby, are pregnant, or nursing a baby.
 Good control of diabetes is especially important during pregnancy and nursing.
 
 What are the possible side effects of LANTUS and other insulins?
@@ -337,20 +337,20 @@ Ask your healthcare provider or pharmacist for more information.
 
 How should I store LANTUS?
 
-- Unopened SoloStar®:Store new unopened SoloStar® disposable insulin pen in a refrigerator (not the freezer) between 36°F to 46°F (2°C to 8°C).
+- Unopened SoloStar:Store new unopened SoloStar disposable insulin pen in a refrigerator (not the freezer) between 36°F to 46°F (2°C to 8°C).
   Do not freeze LANTUS.
   Keep LANTUS out of direct heat and light.
   If a disposable insulin pen has been frozen or overheated, throw it away.
-- Open (In-Use) SoloStar®:Once SoloStar® is opened (in-use), SoloStar® should NOT be refrigerated but should be kept at room temperature (below 86°F [30°C]) away from direct heat and light.
-  The opened (in-use) SoloStar® kept at room temperature must be discarded after 28 days.
+- Open (In-Use) SoloStar:Once SoloStar is opened (in-use), SoloStar should NOT be refrigerated but should be kept at room temperature (below 86°F [30°C]) away from direct heat and light.
+  The opened (in-use) SoloStar kept at room temperature must be discarded after 28 days.
 
 These storage conditions are summarized in the following table:
 
 |  | Not in-use (unopened) Refrigerated | Not in-use (unopened) Room Temperature | In-use (opened) Room Temperature (Do not refrigerate) |
 | --- | --- | --- | --- |
-| 3 mL SoloStar® disposable insulin device | Until expiration date | 28 days | 28 days |
+| 3 mL SoloStar disposable insulin device | Until expiration date | 28 days | 28 days |
 
-- Do not use SoloStar® with LANTUS after the expiration date stamped on the label.
+- Do not use SoloStar with LANTUS after the expiration date stamped on the label.
 - Do not use LANTUS if it is cloudy, colored, or if you see particles.
 
 General Information about LANTUS
@@ -378,7 +378,7 @@ To get more information about diabetes, check with your healthcare professional 
 Additional information about LANTUS can be obtained by calling 1-800-633-1610 or by visiting www.lantus.com.
 
 Rev.
-October 2013
+December 2013
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
@@ -391,28 +391,28 @@ LANTUS® SOLOSTAR® (insulin glargine [rDNA origin] injection)
 Instruction Leaflet
 
 Your healthcare professional has decided that SoloStar® is right for you.
-Talk with your healthcare professional about proper injection technique before using SoloStar®.
+Talk with your healthcare professional about proper injection technique before using SoloStar.
 
-Read these instructions carefully before using your SoloStar®.
-If you are not able to follow all the instructions completely on your own, use SoloStar® only if you have help from a person who is able to follow the instructions.
+Read these instructions carefully before using your SoloStar.
+If you are not able to follow all the instructions completely on your own, use SoloStar only if you have help from a person who is able to follow the instructions.
 
-Follow these instructions completely each time you use SoloStar® to ensure that you get an accurate dose.
+Follow these instructions completely each time you use SoloStar to ensure that you get an accurate dose.
 If you do not follow these instructions you may get too much or too little insulin, which may affect your blood glucose.
 
-SoloStar® is a disposable pen for the injection of insulin.
-Each SoloStar® contains in total 300 units of insulin.
+SoloStar is a disposable pen for the injection of insulin.
+Each SoloStar contains in total 300 units of insulin.
 You can set doses from 1 to 80 units in steps of 1 unit.
 The pen plunger moves with each dose.
 The plunger will only move to the end of the cartridge when 300 units of insulin have been given.
 
 Keep this leaflet for future reference.
 
-If you have any questions about SoloStar® or about diabetes, ask your healthcare professional, go to www.lantus.com or call sanofi-aventis at 1-800-633-1610.
+If you have any questions about SoloStar or about diabetes, ask your healthcare professional, go to www.lantus.com or call sanofi-aventis at 1-800-633-1610.
 
-Important information for use of SoloStar®:
+Important information for use of SoloStar:
 
 - Always attach a new needle before each use.
-  BD Ultra-Fine needles are compatible with SoloStar®.
+  BD Ultra-Fine® needlesThe brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC are compatible with SoloStar.
   These are sold separately and are manufactured by BD.
   Contact your healthcare professional for further information.
 - Always perform the safety test before each injection.
@@ -420,55 +420,18 @@ Important information for use of SoloStar®:
 - This pen is only for your use.
   Do not share it with anyone else.
 - If your injection is given by another person, special caution must be taken by this person to avoid accidental needle injury and transmission of infection.
-- Never use SoloStar® if it is damaged or if you are not sure that it is working properly.
-- Always have a spare SoloStar® in case your SoloStar® is lost or damaged.
-
-Storage Instructions
-
-Please check the leaflet for the insulin for complete instructions on how to store SoloStar®.
-
-If your SoloStar® is in cool storage, take it out 1 to 2 hours before you inject to allow it to warm up.
-Cold insulin is more painful to inject.
-
-Keep SoloStar® out of the reach and sight of children.
-
-Keep your SoloStar® in cool storage (36°F – 46°F [2°C – 8°C]) until first use.
-Do not allow it to freeze.
-Do not put it next to the freezer compartment of your refrigerator, or next to a freezer pack.
-
-Once you take your SoloStar® out of cool storage, for use or as a spare, you can use it for up to 28 days.
-During this time it can be safely kept at room temperature up to 86°F (30°C).
-Do not use it after this time.
-SoloStar® in use must not be stored in a refrigerator.
-
-Do not use SoloStar® after the expiration date printed on the label of the pen or on the carton.
-
-Protect SoloStar® from light.
-
-Discard your used SoloStar® as required by your local authorities.
-
-Maintenance
-
-Protect your SoloStar® from dust and dirt.
-
-You can clean the outside of your SoloStar® by wiping it with a damp cloth.
-
-Do not soak, wash or lubricate the pen as this may damage it.
-
-Your SoloStar® is designed to work accurately and safely.
-It should be handled with care.
-Avoid situations where SoloStar® might be damaged.
-If you are concerned that your SoloStar® may be damaged, use a new one.
+- Never use SoloStar if it is damaged or if you are not sure that it is working properly.
+- Always have a spare SoloStar in case your SoloStar is lost or damaged.
 
 Step 1.
 Check the insulin
 
-- A.Check the label on your SoloStar® to make sure you have the correct insulin.
+- A.Check the label on your SoloStar to make sure you have the correct insulin.
   The Lantus® SoloStar® is grey with a purple injection button.
 - B.Take off the pen cap.
 - C.Check the appearance of your insulin.
-  Lantus® is a clear insulin.
-  Do not use this SoloStar® if the insulin is cloudy, colored or has particles.
+  Lantus is a clear insulin.
+  Do not use this SoloStar if the insulin is cloudy, colored or has particles.
 
 Step 2.
 Attach the needle
@@ -505,8 +468,8 @@ You may have to perform the safety test several times before insulin is seen.
 - If no insulin comes out, check for air bubbles and repeat the safety test two more times to remove them.
 - If still no insulin comes out, the needle may be blocked.
   Change the needle and try again.
-- If no insulin comes out after changing the needle, your SoloStar® may be damaged.
-  Do not use this SoloStar®.
+- If no insulin comes out after changing the needle, your SoloStar may be damaged.
+  Do not use this SoloStar.
 
 Step 4.
 Select the dose
@@ -521,7 +484,7 @@ If you need a dose greater than 80 units, you should give it as two or more inje
 - Do not push the injection button while turning, as insulin will come out.
 - You cannot turn the dosage selector past the number of units left in the pen.
   Do not force the dosage selector to turn.
-  In this case, either you can inject what is remaining in the pen and complete your dose with a new SoloStar® or use a new SoloStar® for your full dose.
+  In this case, either you can inject what is remaining in the pen and complete your dose with a new SoloStar or use a new SoloStar for your full dose.
 
 Step 5.
 Inject the dose
@@ -537,7 +500,7 @@ Inject the dose
 Step 6.
 Remove and discard the needle
 
-Always remove the needle after each injection and store SoloStar® without a needle attached.
+Always remove the needle after each injection and store SoloStar without a needle attached.
 This helps prevent:
 
 - Contamination and/or infection
@@ -553,10 +516,46 @@ This helps prevent:
   If you are giving an injection to a third person, you should remove the needle in an approved manner to avoid needle-stick injuries.
 - C.Always put the pen cap back on the pen, then store the pen until your next injection.
 
+Storage Instructions
+
+Please check the leaflet for the insulin for complete instructions on how to store SoloStar.
+
+If your SoloStar is in cool storage, take it out 1 to 2 hours before you inject to allow it to warm up.
+Cold insulin is more painful to inject.
+
+Keep SoloStar out of the reach and sight of children.
+
+Keep your SoloStar in cool storage (36°F - 46°F [2°C – 8°C]) until first use.
+Do not allow it to freeze.
+Do not put it next to the freezer compartment of your refrigerator, or next to a freezer pack.
+
+Once you take your SoloStar out of cool storage, for use or as a spare, you can use it for up to 28 days.
+During this time it can be safely kept at room temperature up to 86°F (30°C).
+Do not use it after this time.
+
+Do not use SoloStar after the expiration date printed on the label of the pen or on the carton.
+
+Protect SoloStar from light.
+
+Discard your used SoloStar as required by your local authorities.
+
+Maintenance
+
+Protect your SoloStar from dust and dirt.
+
+You can clean the outside of your SoloStar by wiping it with a damp cloth.
+
+Do not soak, wash or lubricate the pen as this may damage it.
+
+Your SoloStar is designed to work accurately and safely.
+It should be handled with care.
+Avoid situations where SoloStar might be damaged.
+If you are concerned that your SoloStar may be damaged, use a new one.
+
+SoloStar in use must not be stored in a refrigerator.
+
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Country of Origin: Germany
-
-Date of revision: May 2013
+Date of revision: November 2013
 
 ©2013 sanofi-aventis U.S. LLC
