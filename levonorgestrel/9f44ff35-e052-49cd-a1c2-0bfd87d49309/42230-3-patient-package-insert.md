@@ -123,7 +123,7 @@ Your healthcare provider should tell you how to check that Skyla is in place.
 First, wash your hands with soap and water.
 You can check by reaching up to the top of your vagina with clean fingers to feel the removal threads.
 Do not pull on the threads.
-If you feel more than just the threads or if you cannot feel the threads, Skyla is not in the right position and may not prevent pregnancy.
+If you feel more than just the threads or if you cannot feel the threads, Skyla may not be in the right position and may not prevent pregnancy.
 Use non-hormonal back-up birth control (such as condoms and spermicide) and ask your healthcare provider to check that Skyla is still in the right place.
 
 How soon after placement of Skyla should I return to my healthcare provider?
@@ -194,9 +194,9 @@ Skyla can cause serious side effects, including:
   PID is usually treated with antibiotics.
   More serious cases of PID may require surgery.
   A hysterectomy (removal of the uterus) is sometimes needed.
-  In rare cases, infections that start as PID can even cause death.
-- Tell your healthcare provider right away if you have any of these signs of PID: long-lasting or heavy bleeding, unusual vaginal discharge, low abdominal (stomach area) pain, painful sex, chills, or fever.
-
+  In rare cases, infections that start as PID can even cause death.Tell your healthcare provider right away if you have any of these signs of PID: long-lasting or heavy bleeding, unusual vaginal discharge, low abdominal (stomach area) pain, painful sex, chills, or fever.Life-threatening infection.
+  Life-threatening infection can occur within the first few days after Skyla is placed.
+  Call your healthcare provider immediately if you develop severe pain or fever shortly after Skyla is placed.
 - •Life-threatening infection.
   Life-threatening infection can occur within the first few days after Skyla is placed.
   Call your healthcare provider immediately if you develop severe pain or fever shortly after Skyla is placed.
