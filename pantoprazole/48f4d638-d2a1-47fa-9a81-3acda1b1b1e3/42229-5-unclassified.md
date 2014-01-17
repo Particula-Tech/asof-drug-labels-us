@@ -85,6 +85,6 @@ Takeda GmbH
 
 D78467 Konstanz, Germany
 
-Novation and NOVAPLUS are registered trademarks of Novation LLC.
+NOVAPLUS is a registered trademark of Novation, LLC.
 
-LAB-0521-5.0
+LAB-0521-6.0
