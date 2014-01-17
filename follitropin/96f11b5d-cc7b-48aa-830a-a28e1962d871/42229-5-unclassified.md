@@ -4,26 +4,27 @@ Manufactured by: Vetter Pharma-Fertigung GmbH & Co. KG, Ravensburg, Germany
 
 BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company
 
-U.S. Patent Nos. 5,767,251; 5,929,028; 7,446,090 and 7,563,763.
+For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2004, 2010, 2011 MSD Oss B.V., a subsidiary of Merck & Co., Inc. All rights reserved
+Copyright © 2004, 2010, 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 08/2012
+Revised: 10/2013
 
-900328-FTB-SOi-P-USPI.10
+uspi-mk8328-SOi-1310R011
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Manufactured by: Vetter Pharma-Fertigung GmbH & Co. KG, Ravensburg, Germany
 
 BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company.
-U.S. Patent Nos. 5,767,251; 5,929,028; 7,446,090 and 7,563,763.
 
-Copyright © 2004, 2010, 2011 MSD Oss B.V., a subsidiary of Merck & Co., Inc. All rights reserved
+For patent information: www.merck.com/product/patent/home.html
 
-Revised: 08/2012
+Copyright © 2004, 2010, 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-900328-FTB-SOi-P-PPI.10
+Revised: 10/2013
+
+usppi-mk8328-SOi-1310R012
 
 PATIENT INSTRUCTIONS FOR USE
 
@@ -281,10 +282,10 @@ Manufactured by: Vetter Pharma-Fertigung GmbH & Co. KG, Ravensburg, Germany
 
 BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company.
 
-U.S. Patent Nos. 5,767,251; 5,929,028; 7,446,090 and 7,563,763.
+For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2004, 2010, 2011 MSD Oss B.V., a subsidiary of Merck & Co., Inc. All rights reserved
+Copyright © 2004, 2010, 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 08/2012
+Revised: 10/2013
 
-900328-FTB-SOi-P-PPI.10
+usppi-mk8328-SOi-1310R012
