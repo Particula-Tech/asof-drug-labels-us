@@ -71,7 +71,7 @@ Treatment-related acute myeloid leukemia (AML) or myelodysplasia has occurred in
 In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin and cyclophosphamide [see Clinical Studies (14.2)].
 In TAC-treated patients, the risk of delayed myelodysplasia or myeloid leukemia requires hematological follow-up.
 
-## 5.7 Cutaneous Reactions
+## 5.7 Cutaneous Reaction
 
 Localized erythema of the extremities with edema followed by desquamation has been observed.
 In case of severe skin toxicity, an adjustment in dosage is recommended [see Dosage and Administration (2.7)].
@@ -86,12 +86,19 @@ If symptoms persist, treatment should be discontinued [see Dosage and Administra
 Patients who experienced neurotoxicity in clinical trials and for whom follow-up information on the complete resolution of the event was available had spontaneous reversal of symptoms with a median of 9 weeks from onset (range: 0 to 106 weeks).
 Severe peripheral motor neuropathy mainly manifested as distal extremity weakness occurred in 4.4% (42/965).
 
-## 5.9 Asthenia
+## 5.9 Eye Disorders
+
+Cystoid macular edema (CME) has been reported in patients treated with Docetaxel.
+Patients with impaired vision should undergo a prompt and comprehensive ophthalmologic examination.
+If CME is diagnosed, Docetaxel treatment should be discontinued and appropriate treatment initiated.
+Alternative non-taxane cancer treatment should be considered.
+
+## 5.10 Asthenia
 
 Severe asthenia has been reported in 14.9% (144/965) of metastatic breast cancer patients but has led to treatment discontinuation in only 1.8%.
 Symptoms of fatigue and weakness may last a few days up to several weeks and may be associated with deterioration of performance status in patients with progressive disease.
 
-## 5.10 Use in Pregnancy
+## 5.11 Use in Pregnancy
 
 Docetaxel Injection, USP can cause fetal harm when administered to a pregnant woman.
 Docetaxel caused embryofetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.

@@ -4,7 +4,7 @@ See FDA-Approved Patient Labeling
 
 - Docetaxel Injection, USP may cause fetal harm.
   Advise patients to avoid becoming pregnant while receiving this drug.
-  Women of childbearing potential should use effective contraceptives if receiving Docetaxel Injection, USP [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+  Women of childbearing potential should use effective contraceptives if receiving Docetaxel Injection, USP [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 - Obtain detailed allergy and concomitant drug information from the patient prior to Docetaxel Injection, USP administration.
 - Explain the significance of oral corticosteroids such as dexamethasone administration to the patient to help facilitate compliance.
   Instruct patients to report if they were not compliant with oral corticosteroid regimen.
@@ -68,7 +68,7 @@ What is Docetaxel Injection, USP?
   - stomach cancer
   - head and neck cancer
 
-The effectiveness of Docetaxel Injection, USP in children has not been established.
+It is not known if Docetaxel Injection, USP is effective in children.
 
 Who should not take Docetaxel Injection, USP?
 
@@ -89,7 +89,7 @@ Before you receive Docetaxel Injection, USP tell your doctor if you:
 
 - are allergic to any medicines.
   See “Who should not take Docetaxel Injection, USP?”
-  Also, see the end of this leaflet for a list of the ingredients in Docetaxel Injection, USP.
+  Also, see the end of this leaflet for a complete list of the ingredients in Docetaxel Injection, USP.
 - have liver problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
@@ -101,11 +101,11 @@ Before you receive Docetaxel Injection, USP tell your doctor if you:
 Tell your doctor about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Docetaxel Injection, USP may affect the way other medicines work, and other medicines may affect the way Docetaxel Injection, USP works.
 Know the medicines you take.
-Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
 How will I receive Docetaxel Injection, USP?
 
-- Docetaxel Injection, USP will be given to you as an intravenous injection into your vein, usually over 1 hour.
+- Docetaxel Injection, USP will be given to you as an intravenous (IV) injection into your vein, usually over 1 hour.
 - Docetaxel Injection, USP is usually given every 3 weeks.
 - Your doctor will decide how long you will receive treatment with Docetaxel Injection, USP.
 - Your doctor will check your blood cell counts and other blood tests during your treatment with Docetaxel Injection, USP to check for side effects of Docetaxel Injection, USP.
@@ -117,10 +117,10 @@ Docetaxel Injection, USP may cause serious side effects including death.
 
 - See “What is the most important information I should know about Docetaxel Injection, USP?”
 - Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who take Docetaxel Injection, USP along with certain other medicines.
-  Tell your doctor about all the medicines you take.
 - Other Blood Disorders – Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection, USP.
 - Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
 - Neurologic Symptoms including numbness, tingling, or burning in your hands and feet.
+- Vision Problems including blurred vision or loss of vision.
 
 The most common side effects of Docetaxel Injection, USP include:
 
@@ -169,7 +169,7 @@ Inactive ingredients include: ethanol, polysorbate 80, PEG 300 and citric acid
 | Every three-week injection of Docetaxel Injection, USP for prostate cancerTake your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Date: ___________ Time: ___________Date: ___________ Time: ___________(Docetaxel Injection Treatment Day) Time: ___________ |
 | --- |
 
-EN-3381
+EN-3409
 
 Manufactured by: Zydus Hospira Oncology Private Ltd., Gujarat, India Distributed by: Hospira, Inc., Lake Forest, IL 60045 USA
 

@@ -4,7 +4,7 @@
 
 Pregnancy Category D
 
-[See Warnings and Precautions (5.10).]
+[See Warnings and Precautions (5.11).]
 
 Based on its mechanism of action and findings in animals, Docetaxel Injection, USP can cause fetal harm when administered to a pregnant woman.
 If Docetaxel Injection, USP is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.

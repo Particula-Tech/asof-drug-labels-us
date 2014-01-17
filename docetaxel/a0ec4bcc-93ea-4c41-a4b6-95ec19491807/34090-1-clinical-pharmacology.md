@@ -59,7 +59,7 @@ Effect of Ketoconazole
 
 The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
 Patients were randomized to receive either docetaxel (100 mg/m2 intravenous) alone or docetaxel (10 mg/m2 intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
-The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2‑fold and its clearance was reduced by 49% when docetaxel was co-administration with ketoconazole [see Dosage and Administration (2.7) and Drug-Drug Interactions (7)].
+The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2‑fold and its clearance was reduced by 49% when docetaxel was co-administration with ketoconazole [see Dosage and Administration (2.7) and Drug Interactions (7)].
 
 Effect of Combination Therapies:
 

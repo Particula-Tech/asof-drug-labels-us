@@ -69,7 +69,7 @@ Docetaxel Injection, USP in combination with doxorubicin and cyclophosphamide sh
 Patients who experience febrile neutropenia should receive G-CSF in all subsequent cycles.
 Patients who continue to experience this reaction should remain on G-CSF and have their Docetaxel Injection, USP dose reduced to 60 mg/m2.
 Patients who experience grade 3 or 4 stomatitis should have their Docetaxel Injection, USP dose decreased to 60 mg/m2.
-Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection, USP therapy should have their dosage of Docetaxel Injection, USP reduced from 75 to 60 mg/m2.
+Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection, USP therapy should have their dosage of Docetaxel Injection, USP reduced from 75 mg/m2 to 60 mg/m2.
 If the patient continues to experience these reactions at 60 mg/m2, treatment should be discontinued.
 
 Non-Small Cell Lung Cancer

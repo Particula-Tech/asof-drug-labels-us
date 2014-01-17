@@ -22,7 +22,7 @@ Table 12 - Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Prev
 | Median Time to Progression | 4.3 months | 2.5 months | p = 0.01Log Rank |
 | Risk Ratio*, Progression (Docetaxel: Control) 95% CI (Risk Ratio) | 0.750.61-0.94 |  |  |
 | Overall Response Rate Complete Response Rate | 28.1% 3.4% | 9.5% 1.6% | p<0.0001 Chi Square |
-| *For the risk ratio, a value less than 1.00 favors docetaxel. |  |  |  |
+| * For the risk ratio, a value less than 1.00 favors docetaxel. |  |  |  |
 
 In a second randomized trial, patients previously treated with an alkylating-containing regimen were assigned to treatment with docetaxel (100 mg/m2) or doxorubicin (75 mg/m2) every 3 weeks.
 One hundred sixty-one patients were randomized to docetaxel and 165 patients to doxorubicin.
@@ -40,7 +40,7 @@ Table 13 - Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Prev
 | Median Time to Progression | 6.5 months | 5.3 months | p = 0.45 Log Rank |
 | Risk Ratio*, Progression (Docetaxel: Control) 95% CI (Risk Ratio) | 0.930.71-1.16 |  |  |
 | Overall Response Rate Complete Response Rate | 45.3%6.8% | 29.7%4.2% | p = 0.004Chi Square |
-| *For the risk ratio, a value less than 1.00 favors docetaxel. |  |  |  |
+| * For the risk ratio, a value less than 1.00 favors docetaxel. |  |  |  |
 
 In another multicenter open-label, randomized trial (TAX313), in the treatment of patients with advanced breast cancer who progressed or relapsed after one prior chemotherapy regimen, 527 patients were randomized to receive docetaxel monotherapy 60 mg/m2 (n = 151), 75 mg/m2 (n = 188) or 100 mg/m2 (n = 188).
 In this trial, 94% of patients had metastatic disease and 79% had received prior anthracycline therapy.
@@ -85,7 +85,7 @@ Table 14 - Subset Analyses-Adjuvant Breast Cancer Study
 | Patient subset | Number of patients | Hazard ratio* | 95% CI | Hazard ratio* | 95% CI |
 | No. of positive nodes Overall 1-3 4+ | 744 467 277 | 0.740.64 0.84 | (0.60, 0.92) (0.47, 0.87) (0.63, 1.12) | 0.69 0.450.93 | (0.53, 0.90) (0.29, 0.70) (0.66, 1.32) |
 | Receptor status Positive Negative | 566178 | 0.76 0.68 | (0.59, 0.98) (0.48, 0.97) | 0.69 0.66 | (0.48, 0.99)(0.44, 0.98) |
-| *A hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. |  |  |  |  |  |
+| * A hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. |  |  |  |  |  |
 
 ## 14.3 Non-Small Cell Lung Cancer (NSCLC)
 
@@ -117,7 +117,7 @@ Table 15 - Efficacy of Docetaxel in the Treatment of Non-Small Cell Lung Cancer 
 | % 1-year Survival 95% CI | 37%**† (24, 50) | 12%(2, 23) | 30%**†(22, 39) | 20% (13, 27) |
 | Time to Progression 95% CI | 12.3 weeks** (9.0, 18.3) | 7.0 weeks (6.0, 9.3) | 8.3 weeks (7.0, 11.7) | 7.6 weeks (6.7, 10.1) |
 | Response Rate 95% CI | 5.5% (1.1, 15.1) | Not Applicable | 5.7% (2.3, 11.3) | 0.8% (0.0, 4.5) |
-| *Vinorelbine/Ifosfamide.††a value less than 1.00 favors docetaxel.**p≤0.05.†Uncorrected for multiple comparisons. |  |  |  |  |
+| * Vinorelbine/Ifosfamide.†† a value less than 1.00 favors docetaxel.** p≤0.05.† Uncorrected for multiple comparisons. |  |  |  |  |
 
 Only one of the two trials (TAX317) showed a clear effect on survival, the primary endpoint; that trial also showed an increased rate of survival to one year.
 In the second study (TAX320) the rate of survival at one year favored docetaxel 75 mg/m2.
@@ -146,7 +146,7 @@ Table 16 - Survival Analysis of Docetaxel in Combination Therapy for Chemotherap
 | p-valuea | 0.122 |  |
 | Estimated Hazard Ratiob | 0.88 |  |
 | Adjusted 95% CIc | (0.74, 1.06) |  |
-| aFrom the superiority test (stratified log rank) comparing docetaxel+cisplatin to vinorelbine+cisplatin.bHazard ratio of docetaxel+cisplatin vs. vinorelbine+cisplatin. A hazard ratio of less than 1 indicates that docetaxel+cisplatin is associated with a longer survival. cAdjusted for interim analysis and multiple comparisons. |  |  |
+| a From the superiority test (stratified log rank) comparing docetaxel+cisplatin to vinorelbine+cisplatin.b Hazard ratio of docetaxel+cisplatin vs. vinorelbine+cisplatin. A hazard ratio of less than 1 indicates that docetaxel+cisplatin is associated with a longer survival. c Adjusted for interim analysis and multiple comparisons. |  |  |
 
 The second comparison in the same three-arm study, vinorelbine+cisplatin versus docetaxel+carboplatin, did not demonstrate superior survival associated with the docetaxel arm (Kaplan-Meier estimate of median survival was 9.1 months for docetaxel +carboplatin compared to 10.0 months on the vinorelbine+cisplatin arm) and the docetaxel+carboplatin arm did not demonstrate preservation of at least 50% of the survival effect of vinorelbine added to cisplatin.
 Secondary endpoints evaluated in the trial included objective response and time to progression.
@@ -158,7 +158,7 @@ Table 17 - Response and TTP Analysis of Docetaxel in Combination Therapy for Che
 | --- | --- | --- | --- |
 | Objective Response Rate (95% CI)a | 31.6% (26.5%, 36.8%) | 24.4%(19.8%, 29.2%) | Not Significant |
 | Median Time to Progressionb (95% CI)a | 21.4 weeks(19.3, 24.6) | 22.1 weeks (18.1, 25.6) | Not Significant |
-| aAdjusted for multiple comparisons. bKaplan-Meier estimates. |  |  |  |
+| a Adjusted for multiple comparisons. b Kaplan-Meier estimates. |  |  |  |
 
 ## 14.4 Hormone Refractory Prostate Cancer
 
@@ -172,7 +172,7 @@ A total of 1006 patients with Karnofsky Performance Status (KPS) ≥60 were rand
 All 3 regimens were administered in combination with prednisone 5 mg twice daily, continuously.
 
 In the docetaxel every three week arm, a statistically significant overall survival advantage was demonstrated compared to mitoxantrone.
-In the docetaxel weekly arm, no overall survival advantage was demonstrated compared to the mitoxantrone controlarm.
+In the docetaxel weekly arm, no overall survival advantage was demonstrated compared to the mitoxantrone control arm.
 Efficacy results for the docetaxel every 3 week arm versus the control arm are summarized in Table 18 and Figure 5.
 
 Table 18 - Efficacy of Docetaxel in the Treatment of Patients with Androgen Independent (Hormone Refractory) Metastatic Prostate Cancer (Intent-to-Treat Analysis)
@@ -180,7 +180,7 @@ Table 18 - Efficacy of Docetaxel in the Treatment of Patients with Androgen Inde
 |  | Docetaxel+Prednisone every 3 weeks | Mitoxantrone+Prednisone every 3 weeks |
 | --- | --- | --- |
 | Number of patientsMedian survival (months) 95% CI Hazard ratio 95% CI p-value* | 33518.9(17.0-21.2)0.761(0.619-0.936)0.0094 | 33716.5(14.4-18.6)——— |
-| *Stratified log rank test. Threshold for statistical significance = 0.0175 because of 3 arms. |  |  |
+| * Stratified log rank test. Threshold for statistical significance = 0.0175 because of 3 arms. |  |  |
 
 Figure 5 - TAX327 Survival K-M Curves
 
@@ -202,13 +202,13 @@ Table 19 - Efficacy of Docetaxel Injection in the Treatment of Patients with Gas
 
 | Endpoint | TCF n = 221 | CF n = 224 |
 | --- | --- | --- |
-| Median TTP (months) (95%CI) Hazard ratio†(95%CI) *p-value | 5.6 (4.86-5.91) | 3.7 (3.45-4.47) |
+| Median TTP (months) (95% CI) Hazard ratio†(95% CI) *p-value | 5.6 (4.86-5.91) | 3.7 (3.45-4.47) |
 | 0.68 (0.55-0.84) 0.0004 |  |  |
-| Median survival (months) (95%CI) Hazard ratio†(95%CI) *p-value | 9.2 (8.38-10.58) | 8.6 (7.16-9.46) |
+| Median survival (months) (95% CI) Hazard ratio†(95% CI) *p-value | 9.2 (8.38-10.58) | 8.6 (7.16-9.46) |
 | 0.77 (0.62-0.96) 0.0201 |  |  |
 | Overall Response Rate (CR+PR) (%) | 36.7 | 25.4 |
 | p-value | 0.0106 |  |
-| *Unstratified log-rank test.†For the hazard ratio (TCF/CF), values less than 1.00 favor the Docetaxel Injection arm. Subgroup analyses were consistent with the overall results across age, gender and race. |  |  |
+| * Unstratified log-rank test.† For the hazard ratio (TCF/CF), values less than 1.00 favor the Docetaxel Injection arm. Subgroup analyses were consistent with the overall results across age, gender and race. |  |  |
 
 Figure 6 - Gastric Cancer Study (TAX325) Time to Progression K-M Curve
 
