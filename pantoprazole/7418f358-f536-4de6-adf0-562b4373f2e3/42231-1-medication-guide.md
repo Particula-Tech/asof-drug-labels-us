@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Pantoprazole Sodium Delayed-Release Tablets, USP
+Pantoprazole Sodium Delayed-Release Tablets, USP (pan toe' pra zole soe' dee um)
 
 Read this Medication Guide before you start taking pantoprazole sodium delayed-release tablets and each time you get a refill.
 There may be new information.
@@ -169,5 +169,5 @@ Instructions for Use
 - If you have trouble swallowing a pantoprazole sodium delayed-release tablet 40 mg, you can take two 20 mg tablets instead.
 - Do not split, chew, or crush pantoprazole sodium delayed-release tablets.
 
-This Medication Guide has been approved by the U.S. food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 06/2013
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 01/2014

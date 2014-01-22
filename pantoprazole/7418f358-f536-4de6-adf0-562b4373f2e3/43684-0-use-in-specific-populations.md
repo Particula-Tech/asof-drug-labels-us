@@ -2,9 +2,11 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-Pregnancy Category B Reproduction studies have been performed in rats at oral doses up to 88 times the recommended human dose and in rabbits at oral doses up to 16 times the recommended human dose and have revealed no evidence of impaired fertility or harm to the fetus due to pantoprazole.
+Pregnancy Category B
+
+Reproduction studies have been performed in rats at oral doses up to 88 times the recommended human dose and in rabbits at oral doses up to 16 times the recommended human dose and have revealed no evidence of impaired fertility or harm to the fetus due to pantoprazole.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed [see Nonclinical Toxicology (13.2)].
 
