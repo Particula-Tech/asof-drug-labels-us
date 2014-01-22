@@ -22,12 +22,11 @@ Talk to your healthcare provider or your family member’s healthcare provider a
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-- 2.Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+- •Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+- •Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-
+- •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 - •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
 - •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
@@ -128,8 +127,8 @@ Do not take WELLBUTRIN SR if you
 - •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy), benzodiazepines or anti-seizure medicines, and you stop using them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - odo not take an MAOI within 2 weeks of stopping WELLBUTRIN SR unless directed to do so by your healthcare provider.
-  - odo not start WELLBUTRIN SR if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+  - ∘do not take an MAOI within 2 weeks of stopping WELLBUTRIN SR unless directed to do so by your healthcare provider.
+  - ∘do not start WELLBUTRIN SR if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 - •are allergic to the active ingredient in WELLBUTRIN SR, bupropion, or to any of the inactive ingredients.
   See the end of this Medication Guide for a complete list of ingredients in WELLBUTRIN SR.
 

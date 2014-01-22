@@ -25,7 +25,6 @@ Efficacy of Immediate-Release Bupropion for the Treatment of Major Depressive Di
 | Placebo (n = 106) | 27.0 (3.5) | -8.7 (NA) | -- |  |
 
 - n: sample size; SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval included for doses that were demonstrated to be effective; NA: not available.
-
 - a Difference (drug minus placebo) in least-squares estimates with respect to the primary efficacy parameter.
   For Trial 1, it refers to the mean score at the endpoint visit; for Trials 2 and 3, it refers to the mean change from baseline to the endpoint visit.
 - bDoses that are demonstrated to be statistically significantly superior to placebo.
