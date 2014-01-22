@@ -12,7 +12,7 @@
 
 Used PLIAGLIS Cream contains a large amount of lidocaine and tetracaine.
 The potential exists for a small child or pet to suffer serious adverse effects from ingesting PLIAGLIS Cream, although this risk with PLIAGLIS Cream has not been evaluated.
-After use, replace the child-proof cap securely on the tube.
+After use, replace the cap securely on the tube.
 It is important to store and dispose of PLIAGLIS Cream out of the reach of children and pets.
 
 ## 5.3 Methemoglobinemia
