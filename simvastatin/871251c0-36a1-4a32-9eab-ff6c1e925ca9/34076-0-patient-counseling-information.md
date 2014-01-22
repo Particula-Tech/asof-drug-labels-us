@@ -35,3 +35,19 @@ Manufactured By: Intas Pharmaceuticals Limited, Plot No: 457, 458, Village – M
 India.
 
 10 1331 8 644882 Issued February 2013
+
+Manufactured By:
+
+Intas Pharmaceuticals Limited,
+
+Plot No. 5, 6 & 7, Pharmez,
+
+Sarkhej-Bavla, National Highway No. 8-A,
+
+Near Village Matoda, Tal Sanand,
+
+Ahmedabad - 382 213, Gujarat, India
+
+51 1118 0 700311
+
+Issued July 2011
