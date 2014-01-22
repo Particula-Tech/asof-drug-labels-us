@@ -13,6 +13,6 @@ Tobramycin:
 Chemical Name: O-3-Amino-3-deoxy-α-D-glucopyranosyl-(1→ 4)-O- [2,6-diamino-2,3,6-trideoxy-α-D-ribo-hexopyranosyl- (1→ 6)] -2-deoxystreptamine
 
 Each mL contains: Actives: Loteprednol Etabonate 5 mg (0.5%) and Tobramycin 3 mg (0.3%).
-Inactives: Edetate Disodium, Glycerin, Povidone, Purified Water, Tyloxapol, and Benzalkonium Chloride 0.01% (preservative).
+Inactives: Edetate Disodium, Glycerin, Povidone, Purified Water, Tyloxapol,.
 Sulfuric Acid and/or Sodium Hydroxide may be added to adjust the pH to 5.7-5.9.
 The suspension is essentially isotonic with a tonicity of 260 to 320 mOsm/kg.

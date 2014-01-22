@@ -11,4 +11,10 @@ BAUSCH & LOMB INCORPORATED
 
 TAMPA, FLORIDA 33637 USA
 
-©Bausch & Lomb Incorporated U.S. Patent Numbers: Patent No. 5,540,930; Patent No. 5,747,061 Zylet is a registered trademark of Bausch & Lomb Incorporated.
+©Bausch & Lomb Incorporated Zylet is a registered trademark of Bausch & Lomb Incorporated.
+
+9007705 (folded)
+
+9004405 (flat)
+
+Revised 08/2013
