@@ -12,7 +12,7 @@ Endocrine: Decreased carbohydrate and glucose tolerance, development of cushingo
 
 Fluid and electrolyte disturbances: Congestive heart failure in susceptible patients, fluid retention, hypokalemic alkalosis, potassium loss, sodium retention.
 
-Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrathecal administration), elevation in serum liver enzymes levels (usually reversible upon discontinuation), hepatomegaly, increased appetite, nausea, pancreatitis, peptic ulcer with possible subsequent perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis.
+Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrathecal administration), elevation in serum liver enzyme levels (usually reversible upon discontinuation), hepatomegaly, increased appetite, nausea, pancreatitis, peptic ulcer with possible subsequent perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis.
 
 Metabolic: Negative nitrogen balance due to protein catabolism.
 
@@ -32,4 +32,4 @@ Intranasal: Allergic reactions, rhinitis, temporary/permanent visual impairment 
 
 Ophthalmic: Increased intraocular pressure, infection, ocular and periocular inflammation including allergic reactions, residue or slough at injection site, temporary/permanent visual impairment including blindness.
 
-Miscellaneous injection sites: (scalp, tonsillar fauces, sphenopalatine ganglion): Blindness.
+Miscellaneous injection sites (scalp, tonsillar fauces, sphenopalatine ganglion): Blindness.

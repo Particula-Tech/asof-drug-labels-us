@@ -1,27 +1,27 @@
 # DOSAGE AND ADMINISTRATION
 
-NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS, Pediatric Use).
+NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS: Pediatric Use)
 
 Because of possible physical incompatibilities, DEPO-MEDROL Sterile Aqueous Suspension should not be diluted or mixed with other solutions.
 
 The initial dosage of parenterally administered DEPO-MEDROL will vary from 4 to 120 mg depending on the specific disease entity being treated.
-However, in certain overwhelming, acute, life-threatening situations, administrations in dosages exceeding the usual dosages may be justified and may be in multiples of the oral doses.
+However, in certain overwhelming, acute, life-threatening situations, administration in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages.
 
-It Should Be Emphasized that Dosage Requirements are Variable and Must Be Individualized on the Basis of the Disease Under Treatment and the Response of the Patient.
-After a favorable response is noted, the proper maintenance dose should be determined by decreasing the initial drug dosage in small increments at appropriate time intervals until the lowest dosage which will maintain an adequate clinical response is reached.
+It Should Be Emphasized that Dosage Requirements Are Variable and Must Be Individualized on the Basis of the Disease Under Treatment and the Response of the Patient.
+After a favorable response is noted, the proper maintenance dosage should be determined by decreasing the initial drug dosage in small decrements at appropriate time intervals until the lowest dosage which will maintain an adequate clinical response is reached.
 Situations which may make dosage adjustments necessary are changes in clinical status secondary to remissions or exacerbations in the disease process, the patient's individual drug responsiveness, and the effect of patient exposure to stressful situations not directly related to the disease entity under treatment.
-In this latter situation it may be necessary to increase the dosage of the corticosteroid for a period of time consistent with the patient's condition.
-If after long term therapy the drug is to be stopped, it is recommended that it be withdrawn gradually rather than abruptly.
+In this latter situation, it may be necessary to increase the dosage of the corticosteroid for a period of time consistent with the patient's condition.
+If after long-term therapy the drug is to be stopped, it is recommended that it be withdrawn gradually rather than abruptly.
 
 ## A. Administration for Local Effect
 
 Therapy with DEPO-MEDROL does not obviate the need for the conventional measures usually employed.
 Although this method of treatment will ameliorate symptoms, it is in no sense a cure and the hormone has no effect on the cause of the inflammation.
 
-### 1. Rheumatoid and Osteoarthritis
+### 1. Rheumatoid Arthritis and Osteoarthritis
 
 The dose for intra-articular administration depends upon the size of the joint and varies with the severity of the condition in the individual patient.
-In chronic cases, injections may be repeated at intervals ranging from one to five or more weeks depending upon the degree of relief obtained from the initial injection.
+In chronic cases, injections may be repeated at intervals ranging from one to five or more weeks, depending upon the degree of relief obtained from the initial injection.
 The doses in the following table are given as a general guide:
 
 | Size of Joint | Examples | Range of Dosage |
@@ -61,7 +61,7 @@ After injection, the needle is withdrawn and a small dressing applied.
 
 ### 3. Miscellaneous: Ganglion, Tendinitis, Epicondylitis
 
-In the treatment of conditions such as tendinitis or tenosynovitis, care should be taken, following application of a suitable antiseptic to the overlying skin, to inject the suspension into the tendon sheath rather than into the substance of the tendon.
+In the treatment of conditions such as tendinitis or tenosynovitis, care should be taken following application of a suitable antiseptic to the overlying skin to inject the suspension into the tendon sheath rather than into the substance of the tendon.
 The tendon may be readily palpated when placed on a stretch.
 When treating conditions such as epicondylitis, the area of greatest tenderness should be outlined carefully and the suspension infiltrated into the area.
 For ganglia of the tendon sheaths, the suspension is injected directly into the cyst.
@@ -99,7 +99,7 @@ In chronic contact dermatitis, repeated injections at 5 to 10 day intervals may 
 In seborrheic dermatitis, a weekly dose of 80 mg may be adequate to control the condition.
 
 Following intramuscular administration of 80 to 120 mg to asthmatic patients, relief may result within 6 to 48 hours and persist for several days to two weeks.
-Similarly in patients with allergic rhinitis (hay fever), an intramuscular dose of 80 to 120 mg may be followed by relief of coryzal symptoms within six hours persisting for several days to three weeks.
+Similarly, in patients with allergic rhinitis (hay fever), an intramuscular dose of 80 to 120 mg may be followed by relief of coryzal symptoms within six hours persisting for several days to three weeks.
 
 If signs of stress are associated with the condition being treated, the dosage of the suspension should be increased.
 If a rapid hormonal effect of maximum intensity is required, the intravenous administration of highly soluble methylprednisolone sodium succinate is indicated.
@@ -111,7 +111,7 @@ For the purpose of comparison, the following is the equivalent milligram dose of
 | Cortisone, 25 | Triamcinolone, 4 |
 | --- | --- |
 | Hydrocortisone, 20 | Paramethasone, 2 |
-| Prednisolone, 5 | Netamethasone, 0.75 |
+| Prednisolone, 5 | Betamethasone, 0.75 |
 | Prednisone, 5 | Dexamethasone, 0.75 |
 | Methylprednisolone, 4 |  |
 
