@@ -95,7 +95,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Diltiazem 240 mg QD, 28 days | 40 mg, SD | ↑ 51% | No change |
 | Erythromycin 500 mg QID, 7 days | 10 mg, SD | ↑ 33% | ↑ 38% |
 | Amlodipine 10 mg, single dose | 80 mg, SD | ↑ 15% | ↓ 12 % |
-| Cimetidine 300 mg QD, 4 weeks | 10 mg QD for 2 weeks | ↓ Less than 1% | ↓ 11% |
+| Cimetidine 300 mg QID, 2 weeks | 10 mg QD for 2 weeks | ↓ Less than 1% | ↓ 11% |
 | Colestipol 10 mg BID, 28 weeks | 40 mg QD for 28 weeks | Not determined | ↓ 26%Single sample taken 8–16 h post dose. |
 | Maalox TC® 30 mL QD, 17 days | 10 mg QD for 15 days | ↓ 33% | ↓ 34% |
 | Efavirenz 600 mg QD, 14 days | 10 mg for 3 days | ↓ 41% | ↓ 1% |

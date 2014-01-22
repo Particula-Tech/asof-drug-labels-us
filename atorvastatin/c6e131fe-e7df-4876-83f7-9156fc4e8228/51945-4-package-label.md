@@ -38,6 +38,27 @@ For in-institution use only
 
 100 Tablets
 
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Packet Carton
+
+NDC 0071-0155-97 PROFESSIONAL SAMPLE – NOT FOR SALE
+
+LIPITOR® atorvastatin calcium tablets
+
+10 mg* 7 TABLETS
+
+PACKAGE NOT CHILD RESISTANT.
+KEEP OUT OF REACH OF CHILDREN.
+
+Rx only
+
+Patient information enclosed
+
+7 Tablets x 10 mg
+
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Packet
+
+LIPITOR ® (atorvastatin calcium) tablets
+
 PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
 
 NDC 0071-0156-23
@@ -78,6 +99,27 @@ For in-institution use only
 
 100 Tablets
 
+# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Packet Carton
+
+NDC 0071-0156-96 PROFESSIONAL SAMPLE – NOT FOR SALE
+
+LIPITOR® atorvastatin calcium tablets
+
+20 mg* 7 TABLETS
+
+PACKAGE NOT CHILD RESISTANT.
+KEEP OUT OF REACH OF CHILDREN.
+
+Rx only
+
+Patient information enclosed
+
+7 Tablets x 20 mg
+
+# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Packet
+
+LIPITOR ® (atorvastatin calcium) tablets
+
 PRINCIPAL DISPLAY PANEL - 40 mg Tablet Bottle Label
 
 NDC 0071-0157-23
@@ -117,6 +159,27 @@ tablets
 For in-institution use only
 
 100 Tablets
+
+# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Packet Carton
+
+NDC 0071-0157-97 PROFESSIONAL SAMPLE – NOT FOR SALE
+
+LIPITOR® atorvastatin calcium tablets
+
+40 mg* 7 TABLETS
+
+PACKAGE NOT CHILD RESISTANT.
+KEEP OUT OF REACH OF CHILDREN.
+
+Rx only
+
+Patient information enclosed
+
+7 Tablets x 40 mg
+
+# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Packet
+
+LIPITOR ® (atorvastatin calcium) tablets
 
 PRINCIPAL DISPLAY PANEL - 80 mg Tablet Bottle Label
 

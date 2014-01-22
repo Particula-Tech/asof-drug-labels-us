@@ -22,7 +22,7 @@ Women of childbearing age should be advised to use an effective method of birth 
 Discuss future pregnancy plans with your patients, and discuss when to stop LIPITOR if they are trying to conceive.
 Patients should be advised that if they become pregnant, they should stop taking LIPITOR and call their healthcare professional.
 
-## 17.4 Breastfeeding
+## 17.4 Breast-feeding
 
 Women who are breastfeeding should be advised to not use LIPITOR.
-Patients who have a lipid disorder and are breastfeeding, should be advised to discuss the options with their healthcare professional.
+Patients who have a lipid disorder and are breast-feeding, should be advised to discuss the options with their healthcare professional.
