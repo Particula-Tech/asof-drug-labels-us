@@ -26,7 +26,7 @@ As with other 5-HT1 agonists, sensations of tightness, pain, pressure, and heavi
 However, perform a cardiac evaluation if these patients are at high cardiac risk.
 The use of IMITREX Injection is contraindicated in patients shown to have CAD and those with Prinzmetal’s variant angina.
 
-## 5.4Cerebrovascular Events
+## 5.4 Cerebrovascular Events
 
 Cerebral hemorrhage, subarachnoid hemorrhage, and stroke have occurred in patients treated with 5-HT1 agonists, and some have resulted in fatalities.
 In a number of cases, it appears possible that the cerebrovascular events were primary, the 5-HT1 agonist having been administered in the incorrect belief that the symptoms experienced were a consequence of migraine when they were not.

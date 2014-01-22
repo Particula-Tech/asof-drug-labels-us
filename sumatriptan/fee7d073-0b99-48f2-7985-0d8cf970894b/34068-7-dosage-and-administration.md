@@ -9,7 +9,7 @@ For the treatment of cluster headache, the efficacy of lower doses has not been 
 The maximum cumulative dose that may be given in 24 hours is 12 mg, two 6-mg injections separated by at least 1 hour.
 A second 6-mg dose should only be considered if some response to a first injection was observed.
 
-## 2.2 Administration Using the IMITREX STATdose Pen®
+## 2.2 Administration Using the IMITREX STATdose Pen ®
 
 An autoinjector device (IMITREX STATdose Pen) is available for use with 4- and 6-mg prefilled syringe cartridges.
 With this device, the needle penetrates approximately 1/4 inch (5 to 6 mm).

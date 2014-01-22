@@ -95,7 +95,6 @@ Injection
 - •1 Carrying Case
 - •Instructions for Use/Information for the Patient
 - •Prescribing Information
-- 
 
 Rx only
 

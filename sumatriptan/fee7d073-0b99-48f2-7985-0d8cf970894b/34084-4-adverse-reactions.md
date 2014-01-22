@@ -23,7 +23,7 @@ Only reactions that occurred at a frequency of 2% or more in groups treated with
 Table 1.
 Adverse Reactions Reported by at Least 2% of Subjects and at a Greater Frequency Than Placebo in 2 Placebo-Controlled Migraine Clinical Trials (Studies 2 and 3)a
 
-|  | Percent of Subjects Reporting |  |
+| Adverse Reaction | Percent of Subjects Reporting |  |
 | --- | --- | --- |
 | IMITREX Injection6 mg Subcutaneous(n = 547) | Placebo(n = 370) |  |
 | Atypical sensations | 42 | 9 |
@@ -104,7 +104,7 @@ Neurological: Convulsions, hallucinations, syncope, suicide, and twitching.
 
 Miscellaneous: Edema, hypersensitivity, swelling of extremities, and swelling of face.
 
-## 6.2Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of IMITREX Tablets, IMITREX Nasal Spray, and IMITREX Injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

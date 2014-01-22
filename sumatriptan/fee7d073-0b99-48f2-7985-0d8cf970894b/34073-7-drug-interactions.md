@@ -10,10 +10,10 @@ Because these effects may be additive, use of ergotamine-containing or ergot-typ
 MAO-A inhibitors increase systemic exposure by 2-fold.
 Therefore, the use of IMITREX Injection in patients receiving MAO-A inhibitors is contraindicated [see Clinical Pharmacology (12.3)].
 
-## 7.3 Other 5-HT1 Agonists
+## 7.3 Other 5-HT 1 Agonists
 
 Because their vasospastic effects may be additive, coadministration of IMITREX Injection and other 5-HT1 agonists (e.g., triptans) within 24 hours of each other is contraindicated.
 
 ## 7.4 Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
 
-Cases of serotonin syndrome have been reported during coadministration of triptans and SSRIs, or SNRIs, SNRIs, TCAs, and MAO inhibitors [see Warnings and Precautions (5.7)].
+Cases of serotonin syndrome have been reported during coadministration of triptans and SSRIs, or SNRIs, TCAs, and MAO inhibitors [see Warnings and Precautions (5.7)].

@@ -35,7 +35,7 @@ These reports include reactions similar in nature to those reported rarely in ad
 A myocardial infarction has been reported in a 14-year-old male following the use of oral IMITREX; clinical signs occurred within 1 day of drug administration.
 Since clinical data to determine the frequency of serious adverse reactions in pediatric patients who might receive subcutaneous, oral, or intranasal IMITREX are not presently available, the use of IMITREX in patients under 18 years of age is not recommended.
 
-## 8.5Geriatric Use
+## 8.5 Geriatric Use
 
 Clinical trials of IMITREX Injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger subjects.

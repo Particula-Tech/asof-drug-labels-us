@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1Migraine
+## 14.1 Migraine
 
 In controlled clinical trials enrolling more than 1,000 subjects during migraine attacks who were experiencing moderate or severe pain and 1 or more of the symptoms enumerated in Table 3, onset of relief began as early as 10 minutes following a 6-mg IMITREX Injection.
 Lower doses of IMITREX Injection may also prove effective, although the proportion of subjects obtaining adequate relief was decreased and the latency to that relief is greater with lower doses.
@@ -48,7 +48,7 @@ Proportion of Subjects With Pain Relief and Relief of Migraine Symptoms After 1 
 | Subjects without photophobia | 31% | 72%a | 35% | 71%a |
 | Subjects with little or no clinical disabilityb | 42% | 85%a | 49% | 84%a |
 
-- aP <0.05 versus placebo.
+- a P <0.05 versus placebo.
 - b A successful outcome in terms of clinical disability was defined prospectively as ability to work mildly impaired or ability to work and function normally.
 - c Includes subjects that may have received an additional placebo injection 1 hour after the initial injection.
 - d Includes subjects that may have received an additional 6 mg of IMITREX Injection 1 hour after the initial injection.
@@ -58,7 +58,7 @@ Similar efficacy was seen when subjects self-administered IMITREX Injection usin
 
 The efficacy of IMITREX Injection was unaffected by whether or not the migraine was associated with aura, duration of attack, gender or age of the subject, or concomitant use of common migraine prophylactic drugs (e.g., beta-blockers).
 
-## 14.2Cluster Headache
+## 14.2 Cluster Headache
 
 The efficacy of IMITREX Injection in the acute treatment of cluster headache was demonstrated in 2 randomized, double-blind, placebo-controlled, 2-period crossover trials (Studies 4 and 5).
 Subjects aged 21 to 65 years were enrolled and were instructed to treat a moderate to very severe headache within 10 minutes of onset.
@@ -74,9 +74,9 @@ Proportion of Subjects With Cluster Headache Relief by Time in Studies 4 and 5
 | Subjects with pain relief (no/mild) |  |  |  |  |
 | 5 Minutes post-injection | 8% | 21% | 7% | 23%a |
 | 10 Minutes post-injection | 10% | 49%a | 25% | 49%a |
-| 15 m inutes post-injection | 26% | 74%a | 35% | 75%a |
+| 15 Minutes post-injection | 26% | 74%a | 35% | 75%a |
 
-- aP <0.05.
+- a P <0.05.
 - (n = Number of headaches treated.)
 
 An estimate of the cumulative probability of a subject with a cluster headache obtaining relief after being treated with either IMITREX Injection or placebo is presented in Figure 1.

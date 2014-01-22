@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis: In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage.
 Mice were dosed for 78 weeks and rats were dosed for 104 weeks.
@@ -16,7 +16,7 @@ However, following oral administration, a treatment-related decrease in fertilit
 The no-effect dose for this finding was approximately 8 times the maximum recommended single human dose of 6 mg on a mg/m2 basis.
 It is not clear whether the problem is associated with the treatment of males or females or both.
 
-## 13.2Animal Toxicology and/or Pharmacology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Corneal Opacities: Dogs receiving oral sumatriptan developed corneal opacities and defects in the corneal epithelium.
 Corneal opacities were seen at the lowest dosage tested, 2 mg/kg/day, and were present after 1 month of treatment.

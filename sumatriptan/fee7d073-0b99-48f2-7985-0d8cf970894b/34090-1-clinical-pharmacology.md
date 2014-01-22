@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 Sumatriptan binds with high affinity to human cloned 5-HT1B/1D receptors.
 IMITREX presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5-HT1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system.
@@ -8,7 +8,7 @@ IMITREX presumably exerts its therapeutic effects in the treatment of migraine h
 Current theories proposed to explain the etiology of migraine headache suggest that symptoms are due to local cranial vasodilatation and/or to the release of sensory neuropeptides (including substance P and calcitonin gene-related peptide) through nerve endings in the trigeminal system.
 The therapeutic activity of IMITREX for the treatment of migraine and cluster headaches is thought to be due to the agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels (including the arterio-venous anastomoses) and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
 
-## 12.2Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 Blood Pressure: Significant elevation in blood pressure, including hypertensive crisis, has been reported in patients with and without a history of hypertension [see Warnings and Precautions (5.8)].
 
@@ -16,7 +16,7 @@ Peripheral (Small) Arteries: In healthy volunteers (N = 18), a trial evaluating 
 
 Heart Rate: Transient increases in blood pressure observed in some subjects in clinical trials carried out during sumatriptan’s development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
 
-## 12.3Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Absorption and Bioavailability: The bioavailability of sumatriptan via subcutaneous site injection to 18 healthy male subjects was 97% ± 16% of that obtained following intravenous injection.
 
@@ -36,7 +36,7 @@ Elimination: After a single 6-mg subcutaneous dose, 22% ± 4% was excreted in th
 
 Following a 6-mg subcutaneous injection into the deltoid area of the arm, the systemic clearance of sumatriptan was 1,194 ± 149 mL/min and the terminal half-life was 115 ± 19 minutes.
 
-Special Populations:Age:The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in subjects with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
+Special Populations:Age: The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in subjects with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
 
 Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined.
 
@@ -47,4 +47,4 @@ The use of IMITREX Injection in this population is contraindicated [see Contrain
 
 Race: The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
 
-Drug Interaction Studies:Monoamine Oxidase-A Inhibitors:In a trial of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of sumatriptan, resulting in a 2-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half-life.
+Drug Interaction Studies: Monoamine Oxidase-A Inhibitors:In a trial of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of sumatriptan, resulting in a 2-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half-life.
