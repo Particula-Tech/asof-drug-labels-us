@@ -7,7 +7,7 @@ The following serious adverse reactions are discussed below and elsewhere in the
 
 ## 6.1 Clinical Studies Experience
 
-Because clinical trials are conducted under widely varying conditions and durations of follow-up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions and durations of follow up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 Clopidogrel bisulfate has been evaluated for safety in more than 54,000 patients, including over 21,000 patients treated for 1 year or more.
 The clinically important adverse reactions observed in trials comparing clopidogrel bisulfate plus aspirin to placebo plus aspirin and trials comparing clopidogrel bisulfate alone to aspirin alone are discussed below.
 Bleeding CURE In CURE, clopidogrel bisulfate use with aspirin was associated with an increase in major bleeding (primarily gastrointestinal and at puncture sites) compared to placebo with aspirin (see Table 1).
@@ -62,16 +62,16 @@ No other difference in the rate of adverse events (other than bleeding) was repo
 The following adverse reactions have been identified during post-approval use of clopidogrel bisulfate.
 Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP)
+- Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
 - Eye disorders: Eye (conjunctival, ocular, retinal) bleeding
 - Gastrointestinal disorders: Gastrointestinal and retroperitoneal hemorrhage with fatal outcome, colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever, hemorrhage of operative wound
-- Hepatobiliary disorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test
+- Hepato-biliary disorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test
 - Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
 - Musculoskeletal, connective tissue and bone disorders: Musculoskeletal bleeding, myalgia, arthralgia, arthritis
 - Nervous system disorders: Taste disorders, fatal intracranial bleeding, headache
 - Psychiatric disorders: Confusion, hallucinations
 - Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, respiratory tract bleeding, eosinophilic pneumonia
 - Renal and urinary disorders: Increased creatinine levels
-- Skin and subcutaneous tissue disorders: Maculopapular or erythematous rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
+- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
 - Vascular disorders: Vasculitis, hypotension

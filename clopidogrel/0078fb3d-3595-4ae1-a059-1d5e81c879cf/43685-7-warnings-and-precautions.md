@@ -31,6 +31,6 @@ TTP, sometimes fatal, has been reported following use of clopidogrel bisulfate, 
 TTP is a serious condition that requires urgent treatment including plasmapheresis (plasma exchange).
 It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragmented RBCs] seen on peripheral smear), neurological findings, renal dysfunction, and fever [see Adverse Reactions (6.2)].
 
-## 5.6 Allergic Cross-Reactivity
+## 5.6 Cross-Reactivity among Thienopyridines
 
-Patients should be evaluated for history of hypersensitivity to another thienopyridine (such as ticlopidine, prasugrel) since allergic cross-reactivity among thienopyridines has been reported.
+Hypersensitivity including rash, angioedema or hematologic reaction have been reported in patients receiving clopidogrel, including patients with a history of hypersensitivity or hematologic reaction to other thienopyridines [see Contraindications (4.2) and Adverse Reactions (6.2)].

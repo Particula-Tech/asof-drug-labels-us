@@ -1,6 +1,6 @@
 # Medication Guide
 
-Clopidogrel Tablets, USP Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
+Clopidogrel Tablets, USP (Kloe pid’ oh grel) Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
 What is the most important information I should know about clopidogrel tablets?
@@ -31,7 +31,7 @@ Call your doctor right away if you have any of these signs or symptoms of bleedi
 - vomit blood or your vomit looks like coffee grounds
 
 Do not stop taking clopidogrel tablets without talking to the doctor who prescribes them for you.
-People who are treated with a stent, and stop taking clopidogrel tablets too soon, have a higher risk of getting a blood clot on the stent, having a heart attack, or dying.
+People who stop taking clopidogrel tablets too soon have a higher risk of having a heart attack or dying.
 If you must stop clopidogrel tablets because of bleeding, your risk of a heart attack may be higher.
 What are clopidogrel tablets?
 Clopidogrel tablets are a prescription medicine used to treat people who have any of the following:
@@ -80,6 +80,8 @@ Especially tell your doctor if you take:
 - Non-steroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
 - warfarin (Coumadin®, Jantoven®)
+- selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
+  Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.
@@ -161,4 +163,4 @@ Inactive ingredients: crospovidone, hydrogenated castor oil, hydroxypropyl cellu
 Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 Prilosec® and Nexium® are registered trademarks of AstraZeneca.
 Jantoven® is a registered trademark of USL Pharma.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: October 2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 01/2014

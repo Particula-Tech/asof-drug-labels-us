@@ -45,6 +45,7 @@ Table 5: Outcome Events in the COMMIT Analysis
 | Death Non-fatal MI** Non-fatal Stroke** | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.7, 1.13) | 0.029 0.011 0.33 |
 | * The difference between the composite endpoint and the sum of death+non-fatal MI+non-fatal stroke indicates that 9 patients (2 clopidogrel and 7 placebo) suffered both a non-fatal stroke and a non-fatal MI. ** Non-fatal MI and non-fatal stroke exclude patients who died (of any cause). |  |  |  |  |
 
+* All treated patients received aspirin.
 The effect of clopidogrel bisulfate did not differ significantly in various pre-specified subgroups as shown in Figure 6.
 The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history (see Figure 7).
 Such subgroup analyses should be interpreted cautiously.
