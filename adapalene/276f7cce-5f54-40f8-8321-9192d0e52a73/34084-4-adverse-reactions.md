@@ -4,10 +4,9 @@ In controlled clinical trials, local cutaneous irritation was monitored in 285 a
 The frequency and severity of erythema, scaling, dryness, pruritus and burning were assessed during these studies.
 The incidence of local cutaneous irritation with adapalene cream from the controlled clinical studies is provided in the following table:
 
-Incidence of Local Cutaneous Irritations with Adapalene Cream from Controlled Clinical Studies (N=285)
-
-|  | None | Mild | Moderate | Severe |
+| Incidence of Local Cutaneous Irritations with Adapalene Cream from Controlled Clinical Studies (N=285) |  |  |  |  |
 | --- | --- | --- | --- | --- |
+|  | None | Mild | Moderate | Severe |
 | Erythema | 52% (148) | 38% (108) | 10% (28) | <1% (1) |
 | Scaling | 58% (166) | 35% (100) | 6% (18) | <1% (1) |
 | Dryness | 48% (136) | 42% (121) | 9% (26) | <1% (2) |

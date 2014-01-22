@@ -7,10 +7,9 @@ No other topical medications, other than adapalene cream, were to be applied to 
 Adapalene cream was significantly more effective than its vehicle in the reduction of acne lesion counts.
 The mean percent reduction in lesion counts from baseline after treatment for 12 weeks are presented in the following table:
 
-MEAN PERCENT REDUCTION IN LESION COUNTS FROM BASELINE TO WEEK 12
-
-|  | Study No. 1 |  | Study No. 2 |  |
+| MEAN PERCENT REDUCTION IN LESION COUNTS FROM BASELINE TO WEEK 12 |  |  |  |  |
 | --- | --- | --- | --- | --- |
+|  | Study No. 1 |  | Study No. 2 |  |
 | Efficacy Variable | Adapalene Cream, 0.1% N=119 | Cream Vehicle N=118 | Adapalene Cream, 0.1% N=175 | Cream Vehicle N=175 |
 | Non-inflammatory lesions | 34% | 18% | 35% | 15% |
 | Inflammatory lesions | 32% | 17% | 14% | 6% |

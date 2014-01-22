@@ -16,7 +16,7 @@ Avoid contact with the eyes, lips, angles of the nose, and mucous membranes.
 The product should not be applied to cuts, abrasions, eczematous or sunburned skin.
 As with other retinoids, use of "waxing" as a depilatory method should be avoided on skin treated with adapalene.
 
-## INFORMATION FOR PATIENTS:
+## Information for Patients:
 
 Patients using adapalene cream should receive the following information and instructions:
 
@@ -32,13 +32,13 @@ Patients using adapalene cream should receive the following information and inst
    This is due to the action of this medication on previously unseen lesions and should not be considered a reason to discontinue therapy.
    Overall clinical benefit may be noticed after two weeks of therapy, but at least eight weeks are required to obtain consistent beneficial effects.
 
-## DRUG INTERACTIONS:
+## Drug Interactions:
 
 As adapalene cream has the potential to produce local irritation in some patients, concomitant use of other potentially irritating topical products (medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime rind) should be approached with caution.
 Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid in combination with adapalene cream.
 If these preparations have been used, it is advisable not to start therapy with adapalene cream until the effects of such preparations in the skin have subsided.
 
-## CARCINOGENESIS, MUTAGENESIS, AND IMPAIRMENT OF FERTILITY:
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility:
 
 Carcinogenicity studies with adapalene have been conducted in mice at topical doses of 0.4, 1.3, and 4.0 mg/kg/day, and in rats at oral doses of 0.15, 0.5, and 1.5 mg/kg/day.
 These doses are up to 8 times (mice) and 6 times (rats) in terms of mg/m2/day the maximum potential exposure at the recommended topical human dose (MRHD), assumed to be 2.5 grams adapalene cream, which is approximately 1.5 mg/m2 adapalene.
@@ -52,9 +52,9 @@ Adapalene did not exhibit mutagenic or genotoxic effects in vivo (mouse micronuc
 
 Reproductive function and fertility studies were conducted in rats administered oral doses of adapalene in amounts up to 20 mg/kg/day (up to 80 times the MRHD based on mg/m2 comparisons).
 No effects of adapalene were found on the reproductive performance or fertility of the Fo males or females.
-There were also no detectable effects on the growth, development and subsequent reproductive function of the F1 generation
+There were also no detectable effects on the growth, development and subsequent reproductive function of the F1 generation.
 
-## PREGNANCY: TERATOGENIC EFFECTS. PREGNANCY CATEGORY C.
+## Pregnancy: Teratogenic effects. Pregnancy Category C.
 
 No teratogenic effects were seen in rats at oral doses of 0.15 to 5.0 mg/kg/day adapalene (up to 20 times the MRHD based on mg/m2 comparisons).
 However, adapalene administered orally at doses of ≥ 25 mg/kg, (100 times the MRHD for rats or 200 times MRHD for rabbits) has been shown to be teratogenic.
@@ -62,16 +62,16 @@ Cutaneous teratology studies in rats and rabbits at doses of 0.6, 2.0, and 6.0 m
 There are no adequate and well-controlled studies in pregnant women.
 Adapalene should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## NURSING MOTHERS:
+## Nursing Mothers:
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when adapalene cream is administered to a nursing woman.
 
-## PEDIATRIC USE:
+## Pediatric Use:
 
 Safety and effectiveness in pediatric patients below the age of 12 have not been established.
 
-## GERIATRIC USE:
+## Geriatric Use:
 
 Clinical studies of adapalene cream were conducted in patients 12 to 30 years of age with acne vulgaris and therefore did not include subjects 65 years and older to determine whether they respond differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
