@@ -13,8 +13,8 @@ Smaller doses than those recommended above should not be used.
 Higher doses should be used for stubborn or severe infections.
 In stubborn infections, therapy may be required for several weeks.
 It may be necessary to continue clinical and/or bacteriological follow-up for several months after cessation of therapy.
-Urethritis in males due to N. gonorrhoeae .
-Adults – Two doses of 500 mg each at an interval of 8 to 12 hours.
+Urethritis in males due to N. gonorrhoeae.
+Adults –Two doses of 500 mg each at an interval of 8 to 12 hours.
 Treatment may be repeated if necessary or extended if required.
 In the treatment of complications of gonorrheal urethritis, such as prostatitis and epididymitis, prolonged and intensive therapy is recommended.
 Cases of gonorrhea with a suspected primary lesion of syphilis should have darkfield examinations before receiving treatment.
@@ -28,7 +28,7 @@ Septicemia Adults and children – 150 to 200 mg/kg/day.
 Start with intravenous administration for at least three days and continue with the intramuscular route every 3 to 4 hours.
 Treatment of all infections should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
 A minimum of 10-days treatment is recommended for any infection caused by Group A beta-hemolytic streptococci to help prevent the occurrence of acute rheumatic fever or acute glomerulonephritis.
-For Administration by Intravenous Infusion – Reconstitute as directed below (see Directions for Proper Use of Pharmacy Bulk Package ) prior to diluting with an intravenous solution.
+For Administration by Intravenous Infusion – Reconstitute as directed below (see Directions for Proper Use of Pharmacy Bulk Package) prior to diluting with an intravenous solution.
 IMPORTANT: This chemical stability information in no way indicates that it would be acceptable practice to use this product well after the preparation time.
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
 Stability studies on ampicillin sodium at several concentrations in various intravenous solutions indicate the drug will lose less than 10% activity at the temperatures noted for the time periods stated.

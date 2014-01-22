@@ -1,14 +1,14 @@
 # INDICATIONS AND USAGE
 
-Ampicillin for injection, USP is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the following conditions: Respiratory tract Infections caused by S. pneumoniae (formerly D. pneumoniae ).
-Staphylococcus aureus (penicillinase and nonpenicillinase-producing), H. influenzae , and Group A beta-hemolytic Streptococci.
-Bacterial Meningitis caused by E. coli , Group B Streptococci, and other Gram-negative bacteria ( Listeria monocytogenes , N. meningitidis ).
+Ampicillin for injection, USP is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the following conditions: Respiratory tract Infections caused by S. pneumoniae (formerly D. pneumoniae).
+Staphylococcus aureus (penicillinase and nonpenicillinase-producing), H. influenzae, and Group A beta-hemolytic Streptococci.
+Bacterial Meningitis caused by E. coli, Group B Streptococci, and other Gram-negative bacteria (Listeria monocytogenes, N. meningitidis).
 The addition of an aminoglycoside with ampicillin may increase its effectiveness against Gram-negative bacteria.
 Septicemia and Endocarditis caused by susceptible Gram-positive organisms including Streptococcus sp., penicillin G-susceptible staphylococci, and enterococci.
-Gram-negative sepsis caused by E. coli , Proteus mirabilis and Salmonella sp. respond to ampicillin.
+Gram-negative sepsis caused by E. coli, Proteus mirabilis and Salmonella sp. respond to ampicillin.
 Endocarditis due to enterococcal strains usually respond to intravenous therapy.
 The addition of an aminoglycoside may enhance the effectiveness of ampicillin when treating streptoccoccal endocarditis.
-Urinary Tract Infections caused by sensitve strains of E. coli and Proteus mirabilis .
+Urinary Tract Infections caused by sensitve strains of E. coli and Proteus mirabilis.
 Gastrointestinal Infections caused by Salmonella typhosa (typhoid fever), other Salmonella sp., and Shigella sp.
 (dysentery) usually respond to oral or intravenous therapy.
 Bacteriology studies to determine the causative organisms and their susceptibility to ampicillin should be performed.
