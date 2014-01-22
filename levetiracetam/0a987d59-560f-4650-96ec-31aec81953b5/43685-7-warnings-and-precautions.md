@@ -23,7 +23,7 @@ Two (0.3%) adult levetiracetam-treated patients were hospitalized and their trea
 Both events, reported as psychosis, developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
 There was no difference between drug and placebo-treated patients in the incidence of the pediatric patients who discontinued treatment due to psychotic and non-psychotic adverse reactions.
 
-The above psychiatric signs symptoms should be monitored.
+The above psychiatric signs and symptoms should be monitored.
 
 ## 5.2 Suicidal Behavior and Ideation
 
@@ -79,7 +79,7 @@ In 0.5% of treated patients and in 0.2% of placebo patients the dose was reduced
 
 Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
 
-Patients should be monitored for these signs symptoms and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
+Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their ability to drive or operate machinery.
 
 ## 5.4 Serious Dermatological Reactions
 

@@ -4,6 +4,8 @@ LEVETIRACETAM TABLETS, USP
 
 (lee'' va tye ra' se tam)
 
+250 mg, 500 mg, 750 mg and 1000 mg
+
 Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
@@ -167,7 +169,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about levetiracetam tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about levetiracetam tablets that is written for health professionals.
-You can also get information about levetiracetam tablets at Mylan.com or call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-INFO-RX).
+You can also get information about levetiracetam tablets at Mylan.com or call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients of levetiracetam tablets, USP?
 
@@ -180,8 +182,8 @@ Levetiracetam tablets do not contain lactose or gluten.
 Information on the use of levetiracetam in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets and oral solution.
 However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-This Medication Guide has been approved by the US Food and Drug Administration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JANUARY 2013 LVTC:R8mpbmt/MG:LVTC:R5
+REVISED DECEMBER 2013 LVTC:R9mpbmt/MG:LVTC:R6

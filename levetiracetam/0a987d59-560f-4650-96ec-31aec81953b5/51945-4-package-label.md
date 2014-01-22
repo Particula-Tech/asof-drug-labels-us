@@ -79,6 +79,8 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
+This container is not intended for dispensing for household use.
+
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 www.mylan.com
