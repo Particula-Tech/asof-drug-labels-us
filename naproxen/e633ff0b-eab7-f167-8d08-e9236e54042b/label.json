@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020353"
+  ],
+  "inn": "naproxen",
+  "labeler": "ALMATICA PHARMA INC.",
+  "package_ndcs": [
+    "52427-272-01",
+    "52427-273-75",
+    "52427-274-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "naproxen sodium",
+      "name": "Naprelan"
+    }
+  ],
+  "setid": "e633ff0b-eab7-f167-8d08-e9236e54042b",
+  "source": "dailymed"
+}
