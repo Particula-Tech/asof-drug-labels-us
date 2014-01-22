@@ -1,5 +1,17 @@
 # CONTRAINDICATIONS
 
-Metronidazole is contraindicated in patients with a prior history of hypersensitivity to metronidazole or other nitroimidazole derivatives.
+## Hypersensitivity
 
-In patients with trichomoniasis, metronidazole is contraindicated during the first trimester of pregnancy (see WARNINGS).
+Metronidazole tablets are contraindicated in patients with a prior history of hypersensitivity to metronidazole or other nitroimidazole derivatives.
+
+In patients with trichomoniasis, metronidazole is contraindicated during the first trimester of pregnancy (see PRECAUTIONS).
+
+## Psychotic Reaction With Disulfiram
+
+Use of oral metronidazole is associated with psychotic reactions in alcoholic patients who were using disulfiram concurrently.
+Do not administer metronidazole to patients who have taken disulfiram within the last two weeks (see PRECAUTIONS, Drug Interactions).
+
+## Interaction With Alcohol
+
+Use of oral metronidazole is associated with a disulfiram-like reaction to alcohol, including abdominal cramps, nausea, vomiting, headaches, and flushing.
+Discontinue consumption of alcohol or products containing propylene glycol during and for at least three days after therapy with metronidazole (see PRECAUTIONS, Drug Interactions).

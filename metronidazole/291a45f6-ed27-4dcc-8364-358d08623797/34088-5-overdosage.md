@@ -6,7 +6,7 @@ Symptoms reported include nausea, vomiting, and ataxia.
 Oral metronidazole has been studied as a radiation sensitizer in the treatment of malignant tumors.
 Neurotoxic effects, including seizures and peripheral neuropathy, have been reported after 5 to 7 days of doses of 6 to 10.4 g every other day.
 
-## Treatment
+## Treatment of Overdosage
 
 There is no specific antidote for metronidazole overdose; therefore, management
 

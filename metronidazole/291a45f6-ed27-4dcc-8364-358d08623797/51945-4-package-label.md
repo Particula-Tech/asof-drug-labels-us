@@ -1,8 +1,10 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Metronidazole Tablets USP, 250 mg 100 Tablets Label Text
+## Metronidazole Tablets USP, 250 mg 100s Label Text
 
-NDC 50111-333-01 METRONIDAZOLE Tablets USP 250 mg
+NDC 50111-333-01
+
+METRONIDAZOLE Tablets USP 250 mg
 
 Rx only
 
@@ -12,9 +14,11 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Metronidazole Tablets USP, 500 mg 100 Tablets Label Text
+## Metronidazole Tablets USP, 500 mg 100s Label Text
 
-NDC 50111-334-01 METRONIDAZOLE Tablets USP 500 mg
+NDC 50111-334-01
+
+METRONIDAZOLE Tablets USP 500 mg
 
 Rx only
 

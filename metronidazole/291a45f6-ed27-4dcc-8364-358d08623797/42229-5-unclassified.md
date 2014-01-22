@@ -2,9 +2,6 @@
 
 334
 
-Rev.
-A 6/2011
-
 Rx only
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of metronidazole and other antibacterial drugs, metronidazole should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
