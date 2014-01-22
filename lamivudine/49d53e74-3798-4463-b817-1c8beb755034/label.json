@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA203277"
+  ],
+  "inn": "lamivudine",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-753-06",
+    "31722-753-31",
+    "31722-753-32",
+    "31722-753-60",
+    "31722-754-06",
+    "31722-754-30",
+    "31722-754-31",
+    "31722-754-32"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lamivudine",
+      "name": "Lamivudine"
+    }
+  ],
+  "setid": "49d53e74-3798-4463-b817-1c8beb755034",
+  "source": "dailymed"
+}
