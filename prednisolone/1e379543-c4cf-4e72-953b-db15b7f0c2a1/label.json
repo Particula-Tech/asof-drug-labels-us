@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021959"
+  ],
+  "inn": "prednisolone",
+  "labeler": "Concordia Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59212-700-48",
+    "59212-701-48",
+    "59212-702-48"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "prednisolone sodium phosphate",
+      "name": "Orapred"
+    }
+  ],
+  "setid": "1e379543-c4cf-4e72-953b-db15b7f0c2a1",
+  "source": "dailymed"
+}
