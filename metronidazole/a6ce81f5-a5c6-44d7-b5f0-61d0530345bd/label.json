@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020531"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-960-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "metronidazole",
+      "name": "METRONIDAZOLE"
+    }
+  ],
+  "setid": "a6ce81f5-a5c6-44d7-b5f0-61d0530345bd",
+  "source": "dailymed"
+}
