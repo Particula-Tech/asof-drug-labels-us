@@ -12,13 +12,13 @@ Multiple small injections into the area of the lesion should be made whenever po
 The technique of intra-articular and intramuscular injection should include precautions against injection or leakage into the dermis.
 Injection into the deltoid muscle should be avoided because of a high incidence of subcutaneous atrophy.
 
-It is critical that, during administration of DEPO-MEDROL, appropriate technique be used and care taken to assure proper placement of drug.
+It is critical that, during administration of DEPO-MEDROL, appropriate technique be used and care taken to ensure proper placement of drug.
 
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
 
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, and after the stressful situation.
 
-Results from one multicenter, randomized, placebo controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
+Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
 High doses of systemic corticosteroids, including DEPO-MEDROL, should not be used for the treatment of traumatic brain injury.
 
 ## Cardio-renal
@@ -33,8 +33,7 @@ Literature reports suggest an apparent association between use of corticosteroid
 ## Endocrine
 
 Hypothalamic-pituitary adrenal (HPA) axis suppression.
-Cushing's syndrome, and hyperglycemia.
-Monitor patients for these conditions with chronic use.
+Cushing's syndrome, and Hyperglycemia: Monitor patients for these conditions with chronic use.
 
 Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
@@ -56,7 +55,7 @@ Corticosteroids may mask some signs of infection and new infections may appear d
 ### Fungal Infections
 
 Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug interactions.
-There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS, Drug Interactions, Amphotericin B injection and potassium-depleting agents).
+There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions, Amphotericin B injection and potassium-depleting agents).
 
 ### Special Pathogens
 
@@ -81,9 +80,9 @@ During prolonged corticosteroid therapy, these patients should receive chemoprop
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
-However, the response to such vaccines can not be predicted.
+However, the response to such vaccines cannot be predicted.
 
-Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
+Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy (e.g., for Addison's disease).
 
 ### Viral Infections
 
@@ -131,11 +130,9 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
 ### Gastrointestinal
 
-Steroids should be used with caution in active or latent peptic ulcer, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of perforation.
+Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of perforation.
 
 Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
-
-There is an enhanced effect due to decreased metabolism of corticosteroids in patients with cirrhosis.
 
 ### Parenteral Administration
 
@@ -153,7 +150,7 @@ Local injection of a steroid into a previously infected joint is not usually rec
 
 Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (e.g., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
 This, together with a decrease in the protein matrix of the bone secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to an inhibition of bone growth in pediatric patients and the development of osteoporosis at any age.
-Special consideration should be given to increased risk of osteoporosis (e.g., postmenopausal women) before initiating corticosteroid therapy.
+Special consideration should be given to patients at increased risk of osteoporosis (i.e., postmenopausal women) before initiating corticosteroid therapy.
 
 ### Neuro-psychiatric
 
@@ -195,7 +192,7 @@ There have been cases reported in which concomitant use of amphotericin B and hy
 
 ### Antibiotics
 
-Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see Drug Interactions, Hepatic Enzyme Inhibitors).
+Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see PRECAUTIONS: Drug Interactions, Hepatic Enzyme Inhibitors).
 
 ### Anticholinesterases
 
@@ -244,9 +241,9 @@ Drugs which inhibit cytochrome P450 3A4 have the potential to result in increase
 
 Ketoconazole has been reported to significantly decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
 
-### Non-steroidal anti-inflammatory agents (NSAIDs)
+### Nonsteroidal anti-inflammatory drugs (NSAIDs)
 
-Concomitant use of aspirin (or other non-steroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
+Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
 Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
 The clearance of salicylates may be increased with concurrent use of corticosteroids.
 
@@ -258,7 +255,7 @@ Corticosteroids may suppress reactions to skin tests.
 
 Patients on prolonged corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response.
 Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
-Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS, Infections, Vaccinations).
+Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS: Infections, Vaccinations).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -286,15 +283,15 @@ Because of the potential for serious adverse reactions in nursing infants from c
 ## Pediatric Use
 
 The efficacy and safety of corticosteroids in the pediatric population are based on the well-established course of effect of corticosteroids which is similar in pediatric and adult populations.
-Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephritic syndrome (patients >2 years of age), and aggressive lymphomas and leukemias (patients >1 month of age).
-Other indications for pediatric use of corticosteroids, e.g., severe asthma and wheezing, are based on adequate and well-controlled clinical trials conducted in adults, on the premises that the course of the diseases and their pathophysiology are considered to be substantially similar in both populations.
+Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephritic syndrome (patients >2 years of age) and aggressive lymphomas and leukemias (patients >1 month of age).
+Other indications for pediatric use of corticosteroids (e.g., severe asthma and wheezing) are based on adequate and well-controlled clinical trials conducted in adults, on the premises that the course of the diseases and their pathophysiology are considered to be substantially similar in both populations.
 
 The adverse effects of corticosteroids in pediatric patients are similar to those in adults (see ADVERSE REACTIONS).
 Like adults, pediatric patients should be carefully observed with frequent measurements of blood pressure, weight, height, intraocular pressure, and clinical evaluation for the presence of infection, psychosocial disturbances, thromboembolism, peptic ulcers, cataracts, and osteoporosis.
 Pediatric patients who are treated with corticosteroids by any route, including systemically administered corticosteroids, may experience a decrease in their growth velocity.
-This negative impact of corticosteroids on growth has been observed at low systemic doses and in the absence of laboratory evidence of hypothalamic-pituitary-adrenal (HPA) axis suppression (e.g., cosyntropin stimulation and basal cortisol plasma levels).
+This negative impact of corticosteroids on growth has been observed at low systemic doses and in the absence of laboratory evidence of HPA axis suppression (i.e., cosyntropin stimulation and basal cortisol plasma levels).
 Growth velocity may therefore be a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
-The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the ability of treatment alternatives.
+The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availibility of treatment alternatives.
 In order to minimize the potential growth effects of corticosteroids, pediatric patients should be titrated to the lowest effective dose.
 
 ## Geriatric Use

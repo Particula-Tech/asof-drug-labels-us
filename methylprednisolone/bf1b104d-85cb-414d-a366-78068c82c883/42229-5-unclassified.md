@@ -4,6 +4,4 @@ Not For Intravenous Use
 
 NOVAPLUS is a registered trademark of Novation, LLC.
 
-Rx only
-
-LAB-0407-3.0 July 2009
+LAB-0407-5.0 April 2012
