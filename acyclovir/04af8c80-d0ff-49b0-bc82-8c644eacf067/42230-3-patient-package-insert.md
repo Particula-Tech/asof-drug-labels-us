@@ -26,24 +26,24 @@ How do I use ZOVIRAX Cream?
 ZOVIRAX Cream is most effective when used early, at the start of a cold sore.
 For best results, apply the cream at the first sign of a cold sore (such as tingle, redness, bump, or itch).
 
-- Wash your hands before using ZOVIRAX Cream.
-- Apply ZOVIRAX Cream to clean, dry skin.
-- Apply a layer of ZOVIRAX Cream to cover only the cold sore or cover only the area of tingling (or other symptoms) before the cold sore appears.
+- •Wash your hands before using ZOVIRAX Cream.
+- •Apply ZOVIRAX Cream to clean, dry skin.
+- •Apply a layer of ZOVIRAX Cream to cover only the cold sore or cover only the area of tingling (or other symptoms) before the cold sore appears.
   Rub the cream in until it disappears.
-- Apply the cream 5 times a day for 4 days.
-- Wash your hands with soap and water after applying ZOVIRAX Cream.
+- •Apply the cream 5 times a day for 4 days.
+- •Wash your hands with soap and water after applying ZOVIRAX Cream.
   This should remove any cream left on the hands.
 
 What Should I Avoid While Using ZOVIRAX Cream?
 
-- Use ZOVIRAX Cream only on your affected skin.
+- •Use ZOVIRAX Cream only on your affected skin.
   Do not swallow ZOVIRAX Cream.
   Do not apply ZOVIRAX Cream to the eyes, inside the mouth or nose, or on unaffected skin.
   Do not use ZOVIRAX Cream for genital herpes.
-- Do not cover the cold sore area with a bandage or dressing unless otherwise instructed by your doctor.
-- Do not apply another type of skin product (for example, cosmetics, sun screens, or lip balms) or other skin medication to the cold sore area while using ZOVIRAX Cream unless otherwise instructed by your doctor.
-- Avoid irritation of the cold sore area while using ZOVIRAX Cream.
-- Do not bathe, shower, or swim right after applying ZOVIRAX Cream.
+- •Do not cover the cold sore area with a bandage or dressing unless otherwise instructed by your doctor.
+- •Do not apply another type of skin product (for example, cosmetics, sun screens, or lip balms) or other skin medication to the cold sore area while using ZOVIRAX Cream unless otherwise instructed by your doctor.
+- •Avoid irritation of the cold sore area while using ZOVIRAX Cream.
+- •Do not bathe, shower, or swim right after applying ZOVIRAX Cream.
   This could wash off the medicine.
 
 What Are the Possible Side Effects of ZOVIRAX Cream?
