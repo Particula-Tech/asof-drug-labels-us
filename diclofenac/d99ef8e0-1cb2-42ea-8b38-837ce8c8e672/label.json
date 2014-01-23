@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020947"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Mallinckrodt, Inc",
+  "package_ndcs": [
+    "23635-510-12"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "diclofenac sodium topical solution",
+      "name": "PENNSAID"
+    }
+  ],
+  "setid": "d99ef8e0-1cb2-42ea-8b38-837ce8c8e672",
+  "source": "dailymed"
+}
