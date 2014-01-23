@@ -1,21 +1,13 @@
 {
   "application_numbers": [
-    "NDA020560",
-    "NDA021575"
+    "NDA020560"
   ],
   "inn": "alendronate",
   "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
-    "0006-0031-44",
-    "0006-3833-01",
-    "0006-3833-34"
+    "0006-0031-44"
   ],
   "products": [
-    {
-      "form": "SOLUTION",
-      "generic": "alendronate sodium",
-      "name": "FOSAMAX"
-    },
     {
       "form": "TABLET",
       "generic": "alendronate sodium",
