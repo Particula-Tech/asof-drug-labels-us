@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Sotalol HCl Tablets USP 80 mg 100s Label Text
+## Sotalol Hydrochloride Tablets USP 80 mg 100s Label Text
 
 NDC 0093-1061-01
 
@@ -14,7 +14,7 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Sotalol HCl Tablets USP 120 mg 100s Label Text
+## Sotalol Hydrochloride Tablets USP 120 mg 100s Label Text
 
 NDC 0093-1060-01
 
@@ -28,7 +28,7 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Sotalol HCl Tablets USP 160 mg 100s Label Text
+## Sotalol Hydrochloride Tablets USP 160 mg 100s Label Text
 
 NDC 0093-1062-01
 
@@ -42,7 +42,7 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Sotalol HCl Tablets USP 240 mg 100s Label Text
+## Sotalol Hydrochloride Tablets USP 240 mg 100s Label Text
 
 NDC 0093-1063-01
 
