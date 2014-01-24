@@ -2,7 +2,11 @@
 
 ## Acetazolamide for Injection, USP (lyophilized) powder.
 
-NDC 39822-0190-1 500 mg Vial
+X-GEN Labeled Product: NDC 39822-0190-1 500 mg Vial
+
+NovaPlus Labeled Product: NDC 39822-0190-7 500 mg Vial
+
+Premier Pro Labeled Product: NDC 39822-0191-9 500 mg Vial
 
 Store drug product at controlled room temperature 20° to 25°C (68° to 77°F).
 
