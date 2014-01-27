@@ -15,20 +15,23 @@ Suicidal thoughts or actions:
 - •Paroxetine tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers or young adults within the first few months of treatment or when the dose is changed.
 - •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - •Watch for these changes and call your healthcare provider right away if you notice:
-  - ∘New or sudden changes in mood, behavior, actions, thoughts or feelings, especially if severe.
-  - ∘Pay particular attention to such changes when paroxetine tablets are started or when the dose is changed.
-- Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
-- Call your healthcare provider right away if you have any of the following symptoms or call 911 if an emergency, especially if they are new, worse or worry you:
-  - ∘attempts to commit suicide
-  - ∘acting on dangerous impulses
-  - ∘acting aggressive or violent
-  - ∘thoughts about suicide or dying
-  - ∘new or worse depression
-  - ∘new or worse anxiety or panic attacks
-  - ∘feeling agitated, restless, angry or irritable
-  - ∘trouble sleeping
-  - ∘an increase in activity or talking more than what is normal for you
-  - ∘other unusual changes in behavior or mood
+  - •New or sudden changes in mood, behavior, actions, thoughts or feelings, especially if severe.
+  - •Pay particular attention to such changes when paroxetine tablets are started or when the dose is changed.
+
+Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
+
+Call your healthcare provider right away if you have any of the following symptoms or call 911 if an emergency, especially if they are new, worse or worry you:
+
+- •attempts to commit suicide
+- •acting on dangerous impulses
+- •acting aggressive or violent
+- •thoughts about suicide or dying
+- •new or worse depression
+- •new or worse anxiety or panic attacks
+- •feeling agitated, restless, angry or irritable
+- •trouble sleeping
+- •an increase in activity or talking more than what is normal for you
+- •other unusual changes in behavior or mood
 
 Call your healthcare provider right away if you have any of the following symptoms or call 911 if an emergency.
 Paroxetine tablets may be associated with these serious side effects:
@@ -116,12 +119,12 @@ Do not take paroxetine tablets if you:
 - •Do not start paroxetine tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 - •People who take paroxetine tablets close in time to an MAOI may have serious or even life threatening side effects.
   Get medical help right away if you have any of these symptoms:
-  - ∘high fever
-  - ∘uncontrolled muscle spasms
-  - ∘stiff muscles
-  - ∘rapid changes in heart rate or blood pressure
-  - ∘confusion
-  - ∘loss of consciousness (pass out)
+  - •high fever
+  - •uncontrolled muscle spasms
+  - •stiff muscles
+  - •rapid changes in heart rate or blood pressure
+  - •confusion
+  - •loss of consciousness (pass out)
 - •take MELLARIL®* (thioridazine).
   Do not take MELLARIL®* together with paroxetine tablets because this can cause serious heart rhythm problems or sudden death.
 - •take the antipsychotic medicine pimozide (ORAP®*) because this can cause serious heart problems.
@@ -139,21 +142,21 @@ Before starting paroxetine tablets, tell your healthcare provider if you:
 - •are breast-feeding.
   Paroxetine passes into your milk.
   Talk to your healthcare provider about the best way to feed your baby while taking paroxetine tablets.
-  - ∘triptans used to treat migraine headache
-  - ∘other antidepressants (SSRIs, SNRIs, tricyclics or lithium) or antipsychotics
-  - ∘drugs that affect serotonin, such as lithium, tramadol, tryptophan, St. John’s wort
-  - ∘certain drugs used to treat irregular heart beats
-  - ∘certain drugs used to treat schizophrenia
-  - ∘certain drugs used to treat HIV infection
-  - ∘certain drugs that affect the blood, such as warfarin, aspirin and ibuprofen
-  - ∘certain drugs used to treat epilepsy
-  - ∘atomoxetine
-  - ∘cimetidine
-  - ∘fentanyl
-  - ∘metoprolol
-  - ∘pimozide
-  - ∘procyclidine
-  - ∘tamoxifen
+  - •triptans used to treat migraine headache
+  - •other antidepressants (SSRIs, SNRIs, tricyclics or lithium) or antipsychotics
+  - •drugs that affect serotonin, such as lithium, tramadol, tryptophan, St. John’s wort
+  - •certain drugs used to treat irregular heart beats
+  - •certain drugs used to treat schizophrenia
+  - •certain drugs used to treat HIV infection
+  - •certain drugs that affect the blood, such as warfarin, aspirin and ibuprofen
+  - •certain drugs used to treat epilepsy
+  - •atomoxetine
+  - •cimetidine
+  - •fentanyl
+  - •metoprolol
+  - •pimozide
+  - •procyclidine
+  - •tamoxifen
 - •have liver problems
 - •have kidney problems
 - •have heart problems
@@ -238,4 +241,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JANUARY 2013 PXTT:R8mpbmt/MG:PXTT:R3mpb/MG:PXTT:R3mt
+REVISED JANUARY 2014 PXTT:R9mpbmt/MG:PXTT:R3mpb/MG:PXTT:R3mt
