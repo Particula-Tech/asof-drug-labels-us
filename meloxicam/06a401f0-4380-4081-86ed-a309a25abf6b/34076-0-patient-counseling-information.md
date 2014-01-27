@@ -56,24 +56,9 @@ Baltimore, Maryland 21202
 
 United States
 
-Manufactured by:
+MADE IN INDIA.
 
-Lupin Limited
-
-Goa 403 722
-
-INDIA.
-
-or
-
-Lupin Limited
-
-Pithampur (M.P.)-454 775
-
-INDIA.
-
-Revised: May, 2013.
-ID#: 232981
+Revised: January 15, 2014 ID#: 235837
 
 Meloxicam Tablets USP
 
@@ -241,20 +226,6 @@ Baltimore, Maryland 21202
 
 United States
 
-Manufactured by:
+MADE IN INDIA.
 
-Lupin Limited
-
-Goa-403 722
-
-INDIA
-
-or
-
-Lupin Limited
-
-Pithampur (M.P.)-454 775
-
-INDIA.
-
-Revised: May, 2013 ID#: 232982
+Revised: January 15, 2014 ID#: 235838
