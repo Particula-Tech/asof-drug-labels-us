@@ -4,14 +4,10 @@ NDC 0168-0064-15
 
 Fougera ®
 
-FLUOCINOLONE ACETONIDE OINTMENT
+FLUOCINOLONE ACETONIDE OINTMENT USP, 0.025%
 
-USP, 0.025%
-
-Rx only FOR EXTERNAL USE ONLY.
+Rx only FOR TOPICAL USE ONLY.
 NOT FOR OPHTHALMIC USE.
-
-Contains: 0.25 mg of Fluocinolone Acetonide per gram in a White Petrolatum base.
 
 NET WT 15 grams
 
@@ -23,7 +19,7 @@ Fougera ® Rx only
 
 FLUOCINOLONE ACETONIDE OINTMENT USP, 0.025%
 
-FOR EXTERNAL USE ONLY.
+FOR TOPICAL USE ONLY.
 NOT FOR OPHTHALMIC USE.
 
 WARNING: Keep out of reach of children.

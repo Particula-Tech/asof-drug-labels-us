@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
-Topical corticosteroids are indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+Fluocinolone Acetonide ointment is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.

@@ -1,3 +1,4 @@
-For Dermatologic Use Only - Not for Ophthalmic Use
+For Topical Use Only.
+Not for Ophthalmic Use.
 
 Rx only
