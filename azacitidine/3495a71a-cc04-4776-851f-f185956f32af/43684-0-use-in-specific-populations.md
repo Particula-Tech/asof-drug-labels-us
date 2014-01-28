@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warning and Precautions (5.5)]
+Pregnancy Category D [see Warning and Precautions (5.4)]
 
 VIDAZA may cause fetal harm when administered to a pregnant woman.
 Azacitidine was teratogenic in animals.
@@ -39,14 +39,19 @@ Of the 179 patients randomized to azacitidine in Study 4, 68% were 65 years and 
 Survival data for patients 65 years and older were consistent with overall survival results.
 The majority of adverse reactions occurred at similar frequencies in patients < 65 years of age and patients 65 years of age and older.
 
-Azacitidine and its metabolites are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function [see Dosage and Administration (2.5) and Warnings and Precautions (5.3)].
+Elderly patients are more likely to have decreased renal function.
+Monitor renal function in these patients [see Dosage and Administration (2.5) and Warnings and Precautions (5.3)].
 
-## 8.6 Gender
+## 8.6 Renal Impairment
+
+Severe renal impairment (CLcr < 30 mL/min) has no major effect on the exposure of azacitidine after multiple SC administrations.
+Therefore, azacitidine can be administered to patients with renal impairment without Cycle 1 dose adjustment [see Clinical Pharmacology (12.3)].
+
+## 8.7 Gender
 
 There were no clinically relevant differences in safety and efficacy based on gender.
 
-## 8.7 Race
+## 8.8 Race
 
 Greater than 90% of all patients in all trials were Caucasian.
 Therefore, no comparisons between Caucasians and non-Caucasians were possible.

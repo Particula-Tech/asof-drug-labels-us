@@ -10,15 +10,12 @@ Advise men not to father a child while receiving treatment with VIDAZA.
 | Manufactured for: | Celgene Corporation |
 | --- | --- |
 |  | Summit, NJ 07901 |
-| Manufactured by: | Ben Venue Laboratories, Inc. |
-|  | Bedford, OH 44146 |
-|  | Or |
-|  | Baxter Oncology GmbH |
+| Manufactured by: | Baxter Oncology GmbH |
 |  | 33790 Halle/Westfalen Germany |
 |  | Or |
 |  | BSP Pharmaceuticals S.r.l. |
 |  | 04013 Latina Scalo (Lt) |
 |  | Italy |
 
-VIDAZA® is a registered trademark of Celgene Corporation. ©2004-2012 Celgene Corporation, All Rights Reserved.
-VIDPI.007 12/12
+VIDAZA® is a registered trademark of Celgene Corporation. ©2004-2014 Celgene Corporation, All Rights Reserved.
+VIDPI.008 01/14

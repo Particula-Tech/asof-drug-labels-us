@@ -5,6 +5,8 @@
 The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m2 subcutaneously or intravenously, daily for 7 days.
 Patients should be premedicated for nausea and vomiting.
 
+Complete blood counts, liver chemistries and serum creatinine should be obtained prior to first dose.
+
 ## 2.2 Subsequent Treatment Cycles
 
 Cycles should be repeated every 4 weeks.
@@ -36,7 +38,7 @@ If a nadir as defined in the table above has occurred, the next course of treatm
 If a >25% increase above the nadir is not seen by day 28, counts should be reassessed every 7 days.
 If a 25% increase is not seen by day 42, then the patient should be treated with 50% of the scheduled dose.
 
-## 2.4 Dosage Adjustment Based on Renal Function and Serum Electrolytes
+## 2.4 Dosage Adjustment Based on Serum Electrolytes and Renal Toxicity
 
 If unexplained reductions in serum bicarbonate levels to <20 mEq/L occur, the dosage should be reduced by 50% on the next course.
 Similarly, if unexplained elevations of BUN or serum creatinine occur, the next cycle should be delayed until values return to normal or baseline and the dose should be reduced by 50% on the next treatment course [see Warnings and Precautions (5.3)].

@@ -1,21 +1,19 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Overview
+The following adverse reactions are described in other labeling sections:
 
-Adverse Reactions Described in Other Labeling Sections: anemia, neutropenia, thrombocytopenia, elevated serum creatinine, renal failure, renal tubular acidosis, hypokalemia, hepatic coma [see Warnings and Precautions (5.1, 5.2, 5.3)].
+- Anemia, neutropenia and thrombocytopenia [see Warnings and Precautions (5.1)]
+- Hepatic coma [see Warnings and Precautions (5.2)]
+- Elevated serum creatinine, renal failure, and renal tubular acidosis [see Warnings and Precautions (5.3)]
 
 Most Commonly Occurring Adverse Reactions (SC or IV Route): nausea, anemia, thrombocytopenia, vomiting, pyrexia, leukopenia, diarrhea, injection site erythema, constipation, neutropenia, ecchymosis.
 The most common adverse reactions by IV route also included petechiae, rigors, weakness and hypokalemia.
 
-Adverse Reactions Most Frequently (>2%) Resulting in Clinical Intervention (SC or IV Route):
-
-Discontinuation: leukopenia, thrombocytopenia, neutropenia.
-
+Adverse Reactions Most Frequently (>2%) Resulting in Clinical Intervention (SC or IV Route): Discontinuation: leukopenia, thrombocytopenia, neutropenia.
 Dose Held: leukopenia, neutropenia, thrombocytopenia, pyrexia, pneumonia, febrile neutropenia.
-
 Dose Reduced: leukopenia, neutropenia, thrombocytopenia.
 
-## 6.2 Adverse Reactions in Clinical Trials
+## 6.1 Adverse Reactions in Clinical Trials
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -206,7 +204,7 @@ Surgical and medical procedures: cholecystectomy.
 
 Vascular disorders: orthostatic hypotension.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postmarketing use of VIDAZA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
