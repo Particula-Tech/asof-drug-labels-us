@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022331"
+  ],
+  "inn": "clonidine",
+  "labeler": "Concordia Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59212-658-60",
+    "59212-659-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "clonidine hydrochloride",
+      "name": "Kapvay"
+    }
+  ],
+  "setid": "aa7700e2-ae5d-44c4-a609-76de19c705a7",
+  "source": "dailymed"
+}
