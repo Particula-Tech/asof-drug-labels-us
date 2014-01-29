@@ -1,4 +1,4 @@
-## PROVENTIL® brand of albuterol, USP Inhalation Aerosol Bronchodilator Aerosol FOR ORAL INHALATION ONLY
+PROVENTIL® brand of albuterol, USP Inhalation Aerosol Bronchodilator Aerosol FOR ORAL INHALATION ONLY
 
 Patient's Instructions For Use
 
