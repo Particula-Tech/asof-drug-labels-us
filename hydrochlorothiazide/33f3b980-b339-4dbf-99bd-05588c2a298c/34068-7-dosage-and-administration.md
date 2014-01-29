@@ -8,7 +8,7 @@ Use the smallest dosage necessary to achieve the required response.
 For Edema
 
 The usual adult dosage is 25 to 100 mg daily as a single or divided dose.
-Many patients with edema respond to intermittent therapy, i.e., administration on alternate days or on three to five days each week.
+Many patients with edema respond to intermittent therapy, i.e., administration on alternate days or on 3 to 5 days each week.
 With an intermittent schedule, excessive response and the resulting undesirable electrolyte imbalance are less likely to occur.
 
 For Control of Hypertension
