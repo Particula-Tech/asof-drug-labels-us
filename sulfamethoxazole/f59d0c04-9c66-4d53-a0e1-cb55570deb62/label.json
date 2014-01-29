@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA017377"
+  ],
+  "inn": "sulfamethoxazole",
+  "labeler": "Caraco Pharma, Inc.",
+  "package_ndcs": [
+    "49708-145-01",
+    "49708-146-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "Bactrim"
+    },
+    {
+      "form": "TABLET",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "Bactrim DS"
+    }
+  ],
+  "setid": "f59d0c04-9c66-4d53-a0e1-cb55570deb62",
+  "source": "dailymed"
+}
