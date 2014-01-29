@@ -4,7 +4,7 @@ Ondansetron Injection, USP, 2 mg/mL, is available as follows:
 
 2 mL Single Dose Vial packaged in 25s (NDC 0641-6080-25)
 
-This product, including the packaging components, is free of latex.
+This product, including the packaging components, is not made with natural rubber latex.
 Store at 20°-25°C (68°-77°F) [See USP Controlled Room Temperature].
 Protect from light.
 

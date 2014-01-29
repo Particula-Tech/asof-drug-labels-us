@@ -6,4 +6,4 @@ N+ and NOVAPLUS are registered trademarks of Novation, LLC.
 
 NOVAPLUS®
 
-Revised November 2012 462-568-04
+Revised October 2013 462-568-05

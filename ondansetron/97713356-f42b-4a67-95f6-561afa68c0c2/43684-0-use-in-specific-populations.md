@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. Reproduction studies have been performed in pregnant rats and rabbits at intravenous doses up to 4 mg/kg per day (approximately 1.4 and 2.9 times the recommended human intravenous dose of 0.15 mg/kg given three times a day, respectively, based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to ondansetron.
+Teratogenic Effects: Pregnancy Category B Reproduction studies have been performed in pregnant rats and rabbits at intravenous doses up to 4 mg/kg per day (approximately 1.4 and 2.9 times the recommended human intravenous dose of 0.15 mg/kg given three times a day, respectively, based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to ondansetron.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
