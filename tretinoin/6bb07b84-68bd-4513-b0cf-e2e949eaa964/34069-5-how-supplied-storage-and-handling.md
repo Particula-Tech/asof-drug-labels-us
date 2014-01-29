@@ -16,6 +16,6 @@ Rx Only
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-REVISED SEPTEMBER 2010 022.4 Patent #’s: 5,700,483 and 5,650,171
+REVISED JUNE 2011 022.5 Patent #’s: 5,700,483 and 5,650,171
 
-Remove this portion before dispensing.
+Remove this portion before dispensing

@@ -24,10 +24,10 @@ Study 1
 
 Study 2
 
-|  | N = 58 | N = 58 |
-| --- | --- | --- |
-|  | AVITA® Gel, 0.025% | Vehicle Gel |
-| Noninflammatory Lesions | -42% | -26% |
-| Inflammatory Lesions | -38% | -23% |
-| Total Lesions | -41% | -26% |
-| N = Number of Subjects |  |  |
+|  | N = 58 | N = 58 |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | AVITA® Gel, 0.025% | Vehicle Gel |  |  |  |
+| Noninflammatory Lesions | -42% | -26% |  |  |  |
+| Inflammatory Lesions | -38% | -23% |  |  |  |
+| Total Lesions | -41% | -26% |  |  |  |
+| N = Number of Subjects |  |  |  |  |  |
