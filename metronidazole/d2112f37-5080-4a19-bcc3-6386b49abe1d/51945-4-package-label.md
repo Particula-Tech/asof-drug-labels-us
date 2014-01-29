@@ -16,4 +16,12 @@ Each 100 mL contains 500 mg Metronidazole USP 790 mg Sodium Chloride USP 47.6 mg
 
 Baxter Logo USA 2B3421
 
-Carton Label - not available at this time; will be included in final, approved version
+Lot: P123456 QTY:24-100 mL
+
+Exp: JAN00 Code: 2B3421
+
+METRONIDAZOLE INJ 500MG / 100mL
+
+Bar Code (17)000100(10)P123456
+
+Bar Code (01) 50303381055481
