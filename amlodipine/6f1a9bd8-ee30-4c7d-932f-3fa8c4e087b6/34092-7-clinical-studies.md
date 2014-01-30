@@ -274,7 +274,7 @@ In a double-blind, placebo-controlled study followed by an open-label phase, 187
 Inclusion in the study required 1) a baseline LDL-C level ≥ 190 mg/dL or 2) a baseline LDL-C level ≥ 160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative.
 The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5–385.0 mg/dL) in the atorvastatin group compared to 230.0 mg/dL (range: 160.0–324.5 mg/dL) in the placebo group.
 The dosage of atorvastatin (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL.
-The number of atorvastatin-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 80 (57.1%).
+The number of atorvastatin-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (55.7 %).
 
 Atorvastatin significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 13).
 
