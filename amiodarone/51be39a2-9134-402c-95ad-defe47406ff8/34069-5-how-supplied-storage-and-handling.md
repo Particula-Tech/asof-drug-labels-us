@@ -21,6 +21,6 @@ Manufactured by Sanofi Winthrop Industrie
 
 33440 Ambares, France
 
-LAB-0564-1.0
+LAB-0564-2.0
 
-Revised October 2011
+Revised January 2014
