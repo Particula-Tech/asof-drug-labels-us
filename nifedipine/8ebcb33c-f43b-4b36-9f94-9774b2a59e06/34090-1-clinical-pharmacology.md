@@ -56,6 +56,8 @@ Patients with hepatic impairment (liver cirrhosis) have a longer disposition hal
 The degree of serum protein binding of nifedipine is high (92–98%).
 Protein binding may be greatly reduced in patients with renal or hepatic impairment.
 
+Following intravenous administration, clearance of nifedipine was decreased by 33% in elderly healthy subjects relative to young healthy subjects.
+
 ## Hemodynamics
 
 Like other slow-channel blockers, nifedipine exerts a negative inotropic effect on isolated myocardial tissue.

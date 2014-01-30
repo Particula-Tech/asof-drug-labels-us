@@ -12,6 +12,8 @@ Subsequent titration to higher or lower doses may be necessary and should be ini
 Experience with doses greater than 90 mg in patients with angina is limited.
 Therefore, doses greater than 90 mg should be used with caution and only when clinically warranted.
 
+Avoid co-administration of nifedipine with grapefruit juice (see CLINICAL PHARMACOLOGY and PRECAUTIONS: Other Interactions).
+
 No "rebound effect" has been observed upon discontinuation of PROCARDIA XL Extended Release Tablets.
 However, if discontinuation of nifedipine is necessary, sound clinical practice suggests that the dosage should be decreased gradually with close physician supervision.
 

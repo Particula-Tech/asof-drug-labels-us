@@ -114,10 +114,22 @@ Ranitidine produced smaller, non-significant increases.
 The effect may be mediated by the known inhibition of cimetidine on hepatic cytochrome P-450, the enzyme system probably responsible for the first-pass metabolism of nifedipine.
 If nifedipine therapy is initiated in a patient currently receiving cimetidine, cautious titration is advised.
 
+Nifedipine is metabolized by CYP3A4.
+Co-administration of nifedipine with phenytoin, an inducer of CYP3A4, lowers the systemic exposure to nifedipine by approximately 70%.
+Avoid co-administration of nifedipine with phenytoin or any known CYP3A4 inducer or consider an alternative antihypertensive therapy.
+
+### Other Interactions
+
+#### Grapefruit Juice
+
+Co-administration of nifedipine with grapefruit juice resulted in approximately a doubling in nifedipine AUC and Cmax with no change in half-life.
+The increased plasma concentrations most likely result from inhibition of CYP 3A4 related first-pass metabolism.
+Avoid ingestion of grapefruit and grapefruit juice should be avoided while taking nifedipine.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Nifedipine was administered orally to rats for two years and was not shown to be carcinogenic.
-When given to rats prior to mating, nifedipine caused reduced fertility at a dose approximately 30 times the maximum recommended human dose.
+When given to rats prior to mating, nifedipine caused reduced fertility at a dose approximately 5 times the maximum recommended human dose.
 There is a literature report of reversible reduction in the ability of human sperm obtained from a limited number of infertile men taking recommended doses of nifedipine to bind to and fertilize an ovum in vitro.
 In vivo mutagenicity studies were negative.
 
@@ -128,13 +140,24 @@ In vivo mutagenicity studies were negative.
 Nifedipine has been shown to produce teratogenic findings in rats and rabbits, including digital anomalies similar to those reported for phenytoin.
 Digital anomalies have been reported to occur with other members of the dihydropyridine class and are possibly a result of compromised uterine blood flow.
 Nifedipine administration was associated with a variety of embryotoxic, placentotoxic, and fetotoxic effects, including stunted fetuses (rats, mice, rabbits), rib deformities (mice), cleft palate (mice), small placentas and underdeveloped chorionic villi (monkeys), embryonic and fetal deaths (rats, mice, rabbits), and prolonged pregnancy/decreased neonatal survival (rats; not evaluated in other species).
-On a mg/kg basis, all of the doses associated with the teratogenic embryotoxic or fetotoxic effects in animals were higher (3.5 to 42 times) than the maximum recommended human dose of 120 mg/day.
+On a mg/kg basis, all of the doses associated with the teratogenic embryotoxic or fetotoxic effects in animals were higher (5 to 50 times) than the maximum recommended human dose of 120 mg/day.
 On a mg/m2 basis, some doses were higher and some were lower than the maximum recommended human dose, but all are within an order of magnitude of it.
 The doses associated with placentotoxic effects in monkeys were equivalent to or lower than the maximum recommended human dose on a mg/m2 basis.
 
 There are no adequate and well-controlled studies in pregnant women.
-PROCARDIA XL Extended Release Tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+PROCARDIA XL Extended Release Tablets should be used during pregnancy only if the potential benefit justifies the potential risk.
+
+### Lactation
+
+Nifedipine is transferred through breast milk.
+PROCARDIA XL should be used during breast-feeding only if the potential benefit justifies the potential risk.
 
 ## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
+
+## Geriatric Use
+
+Age appears to have a significant effect on the pharmacokinetics of nifedipine.
+The clearance is decreased resulting in a higher AUC in the elderly.
+These changes are not due to changes in renal function (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
