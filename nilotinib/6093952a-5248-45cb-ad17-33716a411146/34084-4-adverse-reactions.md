@@ -3,11 +3,11 @@
 The following serious adverse reactions can occur with Tasigna and are discussed in greater detail in other sections of the package insert [see Boxed Warning, Warnings and Precautions (5)].
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
-- QT prolongation [see Boxed Warning, Warnings and Precautions (5.2)]
-- Sudden deaths [see Boxed Warning, Warnings and Precautions (5.3)]
-- Elevated serum lipase [see Warnings and Precautions (5.4)]
-- Hepatotoxicity [see Warnings and Precautions (5.5)]
-- Electrolyte abnormalities [see Boxed Warning, Warnings and Precautions (5.6)]
+- QT Prolongation [see Boxed Warning, Warnings and Precautions (5.2)]
+- Sudden Deaths [see Boxed Warning, Warnings and Precautions (5.3)]
+- Pancreatitis and Elevated Serum Lipase [see Warnings and Precautions (5.5)]
+- Hepatotoxicity [see Warnings and Precautions (5.6)]
+- Electrolyte Abnormalities [see Boxed Warning, Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,13 +16,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In Patients with Newly Diagnosed Ph+ CML-CP
 
 The data below reflect exposure to Tasigna from a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase treated at the recommended dose of 300 mg twice daily (n=279).
-The median time on treatment in the nilotinib 300 mg twice daily group was 36.4 months (range 0.1–46.7 months).
+The median time on treatment in the nilotinib 300 mg twice daily group was 48 months (range 0.1 to 59 months).
 The median actual dose intensity was 594 mg/day in the nilotinib 300 mg twice daily group.
 
-The most common (>10%) non-hematologic adverse drug reactions were rash, pruritus, headache, nausea, fatigue and myalgia.
-Upper abdominal pain, alopecia, constipation, diarrhea, dry skin, muscle spasms, arthralgia, abdominal pain, peripheral edema, vomiting, pain in extremity, dyspepsia, and asthenia were observed less commonly (≤10% and >5%) and have been of mild to moderate severity, manageable and generally did not require dose reduction.
+The most common (>10%) non-hematologic adverse drug reactions were rash, pruritus, headache, nausea, fatigue, alopecia and myalgia.
+Upper abdominal pain, constipation, diarrhea, dry skin, muscle spasms, arthralgia, abdominal pain, peripheral edema, vomiting, and asthenia were observed less commonly (≤10% and >5%) and have been of mild to moderate severity, manageable and generally did not require dose reduction.
 Pleural and pericardial effusions, occurred in 1% and <1% of patients, respectively.
-Gastrointestinal hemorrhage was reported in 2.5% of patients.
+Gastrointestinal hemorrhage was reported in 3% of patients.
 
 Increase in QTcF >60 msec from baseline was observed in 1 patient (0.4%) in the 300 mg twice daily treatment group.
 No patient had an absolute QTcF of >500 msec while on study drug.
@@ -36,10 +36,10 @@ In Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
 
 In the single open-label multicenter clinical trial, a total of 458 patients with Ph+ CML-CP and CML-AP resistant to or intolerant to at least one prior therapy including imatinib were treated (CML-CP=321; CML-AP=137) at the recommended dose of 400 mg twice daily.
 
-The median duration of exposure in days for CML-CP and CML-AP patients is 561 (range 1-1096) and 264 (range 2-1160), respectively.
-The median dose intensity for patients with CML-CP and CML-AP is 789 mg/day (range 151–1110) and 780 mg/day (range 150-1149), respectively and corresponded to the planned 400 mg twice daily dosing.
+The median duration of exposure in days for CML-CP and CML-AP patients is 561 (range 1 to 1096) and 264 (range 2 to 1160), respectively.
+The median dose intensity for patients with CML-CP and CML-AP is 789 mg/day (range 151 to 1110) and 780 mg/day (range 150 to 1149), respectively and corresponded to the planned 400 mg twice daily dosing.
 
-The median cumulative duration in days of dose interruptions for the CML-CP patients was 20 (range 1-345), and the median duration in days of dose interruptions for the CML-AP patients was 23 (range 1–234).
+The median cumulative duration in days of dose interruptions for the CML-CP patients was 20 (range 1 to 345), and the median duration in days of dose interruptions for the CML-AP patients was 23 (range 1 to 234).
 
 In patients with CML-CP, the most commonly reported non-hematologic adverse drug reactions (≥10%) were rash, pruritus, nausea, fatigue, headache, constipation, diarrhea, vomiting and myalgia.
 The common serious drug-related adverse reactions (≥1% and <10%) were thrombocytopenia, neutropenia and anemia.
@@ -56,9 +56,9 @@ Discontinuation due to adverse drug reactions was observed in 16% of CML-CP and 
 Most Frequently Reported Adverse Reactions
 
 Tables 5 and 6 show the percentage of patients experiencing non-hematologic adverse reactions (excluding laboratory abnormalities) regardless of relationship to study drug.
-Adverse reactions reported in greater than 10% of patients who received at least one dose of Tasigna are listed.
+Adverse reactions reported in greater than 10% of patients who received at least 1 dose of Tasigna are listed.
 
-Table 5: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Patients with Newly Diagnosed Ph+ CML-CP (≥10% in Tasigna 300 mg twice daily or Imatinib 400 mg once daily groups) 36-Month Analysisa
+Table 5: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Patients with Newly Diagnosed Ph+ CML-CP (≥10% in Tasigna 300 mg Twice Daily or Imatinib 400 mg Once Daily Groups) 48-Month Analysisa
 
 |  |  | Patients with Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -67,35 +67,36 @@ Table 5: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless 
 | Body System and Preferred Term |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
 | Skin and subcutaneous tissue disorders | Rash | 38 | 18 | <1 | 2 |
 |  | Pruritus | 21 | 7 | <1 | 0 |
-|  | Alopecia | 13 | 6 | 0 | 0 |
-|  | Dry skin | 10 | 6 | 0 | 0 |
-| Gastrointestinal disorders | Nausea | 21 | 40 | 1 | 1 |
-|  | Constipation | 18 | 7 | <1 | 0 |
-|  | Diarrhea | 16 | 44 | <1 | 3 |
-|  | Vomiting | 14 | 25 | 0 | <1 |
+|  | Alopecia | 13 | 7 | 0 | 0 |
+|  | Dry skin | 12 | 6 | 0 | 0 |
+| Gastrointestinal disorders | Nausea | 22 | 41 | 2 | 1 |
+|  | Constipation | 19 | 8 | <1 | 0 |
+|  | Diarrhea | 18 | 45 | <1 | 3 |
+|  | Vomiting | 15 | 26 | <1 | <1 |
 |  | Abdominal pain upper | 17 | 13 | 1 | <1 |
-|  | Abdominal pain | 15 | 11 | 1 | <1 |
-|  | Dyspepsia | 8 | 11 | 0 | 0 |
-| Nervous system disorders | Headache | 30 | 20 | 3 | <1 |
-|  | Dizziness | 10 | 10 | 0 | <1 |
-| General disorders and administration site conditions | Fatigue | 22 | 17 | 1 | 1 |
-|  | Pyrexia | 13 | 12 | <1 | 0 |
-|  | Asthenia | 13 | 10 | <1 | 0 |
-|  | Peripheral edema | 9 | 20 | <1 | 0 |
-|  | Face edema | <1 | 13 | 0 | <1 |
-| Musculoskeletal and connective tissue disorders | Myalgia | 18 | 18 | <1 | <1 |
-|  | Arthralgia | 18 | 14 | <1 | <1 |
-|  | Muscle spasms | 12 | 33 | 0 | 1 |
-|  | Pain in extremity | 11 | 14 | <1 | <1 |
-|  | Back pain | 15 | 14 | <1 | 1 |
-| Respiratory, thoracic and mediastinal disorders | Cough | 15 | 11 | 0 | 0 |
-|  | Oropharyngeal pain | 10 | 6 | 0 | 0 |
-| Infections and infestations | Nasopharyngitis | 24 | 19 | 0 | 0 |
-|  | Upper respiratory tract infection | 15 | 11 | <1 | 0 |
-|  | Influenza | 11 | 8 | 0 | 0 |
+|  | Abdominal pain | 15 | 12 | 2 | 0 |
+|  | Dyspepsia | 9 | 12 | 0 | 0 |
+| Nervous system disorders | Headache | 32 | 23 | 3 | <1 |
+|  | Dizziness | 11 | 10 | <1 | <1 |
+| General disorders and administration site conditions | Fatigue | 23 | 19 | 1 | 1 |
+|  | Pyrexia | 13 | 13 | <1 | 0 |
+|  | Asthenia | 14 | 12 | <1 | 0 |
+|  | Peripheral edema | 10 | 21 | <1 | 0 |
+|  | Face edema | <1 | 14 | 0 | <1 |
+| Musculoskeletal and connective tissue disorders | Myalgia | 19 | 19 | <1 | <1 |
+|  | Arthralgia | 20 | 16 | <1 | <1 |
+|  | Muscle spasms | 12 | 34 | 0 | 1 |
+|  | Pain in extremity | 13 | 15 | <1 | <1 |
+|  | Back pain | 17 | 16 | 1 | 1 |
+| Respiratory, thoracic and mediastinal disorders | Cough | 17 | 13 | 0 | 0 |
+|  | Oropharyngeal pain | 11 | 6 | 0 | 0 |
+|  | Dyspnea | 10 | 6 | 2 | <1 |
+| Infections and infestations | Nasopharyngitis | 25 | 21 | 0 | 0 |
+|  | Upper respiratory tract infection | 16 | 14 | <1 | 0 |
+|  | Influenza | 12 | 9 | 0 | 0 |
 | Eye disorders | Eyelid edema | 1 | 18 | 0 | <1 |
 |  | Periorbital edema | <1 | 15 | 0 | 0 |
-| Psychiatric disorders | Insomnia | 10 | 9 | 0 | 0 |
+| Psychiatric disorders | Insomnia | 11 | 9 | 0 | 0 |
 | aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0 |  |  |  |  |  |
 
 Table 6: Most Frequently Reported Non-hematologic Adverse Reactions in Patients with Resistant or Intolerant Ph+ CML Receiving Tasigna 400 mg Twice Daily (Regardless of Relationship to Study Drug) (≥10% in any Group) 24-Month Analysisa
@@ -153,9 +154,9 @@ Table 7: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 | Neutropenia | 12 | 21 | 312 | 424 |
 | Anemia | 4 | 6 | 11 | 27 |
 | Biochemistry Parameters |  |  |  |  |
-| Elevated lipase | 8 | 4 | 18 | 18 |
-| Hyperglycemia | 6 | 0 | 12 | 6 |
-| Hypophosphatemia | 6 | 9 | 17 | 15 |
+| Elevated lipase | 9 | 4 | 18 | 18 |
+| Hyperglycemia | 6 | <1 | 12 | 6 |
+| Hypophosphatemia | 6 | 10 | 17 | 15 |
 | Elevated bilirubin (total) | 4 | <1 | 7 | 9 |
 | Elevated SGPT (ALT) | 4 | 3 | 4 | 4 |
 | Hyperkalemia | 2 | 1 | 6 | 4 |
@@ -173,17 +174,20 @@ Table 7: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 The following adverse drug reactions were reported in patients in the Tasigna clinical studies at the recommended doses.
 These adverse drug reactions are ranked under a heading of frequency, the most frequent first using the following convention: common (≥1% and <10%), uncommon (≥0.1% and <1%), and unknown frequency (single events).
 For laboratory abnormalities, very common events (≥10%), which were not included in Tables 5 and 6, are also reported.
-These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category.
+These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category, obtained from 2 clinical studies:
+
+1. Newly diagnosed Ph+CML-CP 48 month analysis and,
+2. Resistant or intolerant Ph+CML-CP and CMP-AP 24 months’ analysis.
 
 Infections and Infestations: Common: folliculitis, upper respiratory tract infection (including pharyngitis, nasopharyngitis, rhinitis).
 Uncommon: pneumonia, bronchitis, urinary tract infection, candidiasis (including oral candidiasis), gastroenteritis.
 Unknown frequency: sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis.
 
-Neoplasms Benign, Malignant and Unspecified: Common: skin papilloma.
+Neoplasms Benign, Malignant, and Unspecified: Common: skin papilloma.
 Unknown frequency: oral papilloma, paraproteinemia.
 
-Blood and Lymphatic System Disorders: Common: febrile neutropenia, pancytopenia, lymphopenia.
-Unknown frequency: thrombocythemia, leukocytosis, eosinophilia.
+Blood and Lymphatic System Disorders: Common: eosinophilia, febrile neutropenia, pancytopenia, lymphopenia.
+Unknown frequency: thrombocythemia, leukocytosis.
 
 Immune System Disorders: Unknown frequency: hypersensitivity.
 
@@ -191,16 +195,16 @@ Endocrine Disorders: Uncommon: hyperthyroidism, hypothyroidism.
 Unknown frequency: hyperparathyroidism secondary, thyroiditis.
 
 Metabolism and Nutrition Disorders: Very Common: hypophosphatemia.
-Common: electrolyte imbalance (including hypomagnesemia, hyperkalemia, hypokalemia, hyponatremia, hypocalcemia, hypercalcemia, hyperphosphatemia), diabetes mellitus, hyperglycemia, hypercholesterolemia, hyperlipidemia.
+Common: electrolyte imbalance (including hypomagnesemia, hyperkalemia, hypokalemia, hyponatremia, hypocalcemia, hypercalcemia, hyperphosphatemia), diabetes mellitus, hyperglycemia, hypercholesterolemia, hyperlipidemia, hypertriglyceridemia.
 Uncommon: gout, dehydration, increased appetite.
-Unknown frequency: hyperuricemia, hypoglycemia, dyslipidemia.
+Unknown frequency: hyperuricemia, hypoglycemia.
 
 Psychiatric Disorders: Common: depression, insomnia, anxiety.
 Unknown frequency: disorientation, confusional state, amnesia, dysphoria.
 
 Nervous System Disorders: Common: dizziness, peripheral neuropathy, hypoesthesia, paresthesia.
 Uncommon: intracranial hemorrhage, migraine, loss of consciousness (including syncope), tremor, disturbance in attention, hyperesthesia.
-Unknown frequency: brain edema, optic neuritis, lethargy, dysesthesia, restless legs syndrome.
+Unknown frequency: transient ischemic attack, brain edema, optic neuritis, lethargy, dysesthesia, restless legs syndrome.
 
 Eye Disorders: Common: eye hemorrhage, periorbital edema, eye pruritus, conjunctivitis, dry eye (including xerophthalmia).
 Uncommon: vision impairment, vision blurred, visual acuity reduced, photopsia, hyperemia (scleral, conjunctival, ocular), eye irritation, conjunctival hemorrhage.
@@ -214,16 +218,16 @@ Uncommon: cardiac failure, pericardial effusion, coronary artery disease, cyanos
 Unknown frequency: myocardial infarction, ventricular dysfunction, pericarditis, ejection fraction decrease.
 
 Vascular Disorders: Common: hypertension, flushing.
-Uncommon: hypertensive crisis, peripheral arterial occlusive disease, hematoma.
-Unknown frequency: shock hemorrhagic, hypotension, thrombosis, arteriosclerosis.
+Uncommon: hypertensive crisis, peripheral arterial occlusive disease, intermittent claudication, arterial stenosis limb, hematoma, arteriosclerosis.
+Unknown frequency: shock hemorrhagic, hypotension, thrombosis.
 
 Respiratory, Thoracic and Mediastinal Disorders: Common: dyspnea, dyspnea exertional, epistaxis, cough, dysphonia.
 Uncommon: pulmonary edema, pleural effusion, interstitial lung disease, pleuritic pain, pleurisy, pharyngolaryngeal pain, throat irritation.
 Unknown frequency: pulmonary hypertension, wheezing, oropharyngeal pain.
 
 Gastrointestinal Disorders: Common: pancreatitis, abdominal discomfort, abdominal distension, dyspepsia, dysgeusia, flatulence.
-Uncommon: gastrointestinal hemorrhage, melena, mouth ulceration, gastroesophageal reflux, stomatitis, esophageal pain, dry mouth, sensitivity of teeth.
-Unknown frequency: gastrointestinal ulcer perforation, retroperitoneal hemorrhage, hematemesis, gastric ulcer, esophagitis ulcerative, subileus, gastritis, enterocolitis, hemorrhoids, hiatus hernia, rectal hemorrhage, gingivitis.
+Uncommon: gastrointestinal hemorrhage, melena, mouth ulceration, gastroesophageal reflux, stomatitis, esophageal pain, dry mouth, gastritis, sensitivity of teeth.
+Unknown frequency: gastrointestinal ulcer perforation, retroperitoneal hemorrhage, hematemesis, gastric ulcer, esophagitis ulcerative, subileus, enterocolitis, hemorrhoids, hiatus hernia, rectal hemorrhage, gingivitis.
 
 Hepatobiliary Disorders: Very Common: hyperbilirubinemia.
 Common: hepatic function abnormal.
@@ -250,6 +254,6 @@ Uncommon: face edema, gravitational edema, influenza-like illness, chills, feeli
 Unknown frequency: localized edema.
 
 Investigations: Very Common: alanine aminotransferase increased, aspartate aminotransferase increased, lipase increased.
-Common: hemoglobin decreased, blood amylase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, blood alkaline phosphatase increased, weight decreased, weight increased.
+Common: hemoglobin decreased, blood amylase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, blood alkaline phosphatase increased, weight decreased, weight increased, lipoprotein increased (including very low density and high density).
 Uncommon: blood lactate dehydrogenase increased, blood urea increased, globulins decreased.
-Unknown frequency: troponin increased, blood bilirubin unconjugated increased, blood insulin increased, blood insulin decreased, insulin C-peptide decreased, lipoprotein increased (including very low density and high density), blood parathyroid hormone increased.
+Unknown frequency: troponin increased, blood bilirubin unconjugated increased, insulin C-peptide decreased, blood parathyroid hormone increased.

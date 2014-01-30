@@ -16,7 +16,7 @@ If Tasigna is administered with drugs that are substrates of P-gp, increased con
 ## 7.2 Drugs that Inhibit or Induce Cytochrome P450 3A4 Enzymes
 
 Nilotinib undergoes metabolism by CYP3A4, and concomitant administration of strong inhibitors or inducers of CYP3A4 can increase or decrease nilotinib concentrations significantly.
-The administration of Tasigna with agents that are strong CYP3A4 inhibitors should be avoided [see Boxed Warning, Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.7)].
+The administration of Tasigna with agents that are strong CYP3A4 inhibitors should be avoided [see Boxed Warning, Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.8)].
 Concomitant use of Tasigna with medicinal products and herbal preparations that are potent inducers of CYP3A4 is likely to reduce exposure to nilotinib to a clinically relevant extent.
 Therefore, in patients receiving Tasigna, concomitant use of alternative therapeutic agents with less potential for CYP3A4 induction should be selected.
 
@@ -33,11 +33,11 @@ Increasing the dose of Tasigna when coadministered with such agents is not likel
 Since proton pump inhibitors affect pH of the upper GI tract for an extended period, separation of doses may not eliminate the interaction.
 The concomitant use of proton pump inhibitors with Tasigna is not recommended.
 
-In healthy subjects, no significant change in nilotinib pharmacokinetics was observed when a single 400 mg dose of Tasigna was administered ten hours after and two hours before famotidine (an H2 blocker).
-Therefore, when the concurrent use of a H2 blocker is necessary, it may be administered approximately ten hours before and approximately two hours after the dose of Tasigna.
+In healthy subjects, no significant change in nilotinib pharmacokinetics was observed when a single 400 mg dose of Tasigna was administered 10 hours after and 2 hours before famotidine (an H2 blocker).
+Therefore, when the concurrent use of a H2 blocker is necessary, it may be administered approximately 10 hours before and approximately 2 hours after the dose of Tasigna.
 
-Administration of an antacid (aluminum hydroxide/magnesium hydroxide/simethicone) to healthy subjects, two hours before or two hours after a single 400 mg dose of Tasigna did not alter nilotinib pharmacokinetics.
-Therefore, if necessary, an antacid may be administered approximately two hours before or approximately two hours after the dose of Tasigna.
+Administration of an antacid (aluminum hydroxide/magnesium hydroxide/simethicone) to healthy subjects, 2 hours before or 2 hours after a single 400 mg dose of Tasigna did not alter nilotinib pharmacokinetics.
+Therefore, if necessary, an antacid may be administered approximately 2 hours before or approximately 2 hours after the dose of Tasigna.
 
 ## 7.4 Drugs that Inhibit Drug Transport Systems
 
@@ -46,4 +46,4 @@ If Tasigna is administered with drugs that inhibit P-gp, increased concentration
 
 ## 7.5 Drugs that May Prolong the QT Interval
 
-The administration of Tasigna with agents that may prolong the QT interval such as anti-arrhythmic medicines should be avoided [see Boxed Warning, Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.7)].
+The administration of Tasigna with agents that may prolong the QT interval such as anti-arrhythmic medicines should be avoided [see Boxed Warning, Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.8)].

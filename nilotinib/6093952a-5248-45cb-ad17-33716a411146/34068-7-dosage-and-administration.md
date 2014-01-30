@@ -4,10 +4,9 @@
 
 Tasigna should be taken twice daily at approximately 12-hour intervals and must be taken on an empty stomach.
 No food should be consumed for at least 2 hours before the dose is taken and for at least 1 hour after the dose is taken.
-Advise patients to swallow the capsules whole with water.
-[see Boxed Warning, Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
+Advise patients to swallow the capsules whole with water [see Boxed Warning, Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
 
-For patients who are unable to swallow capsules, the contents of each capsule may be dispersed in one teaspoon of applesauce (puréed apple).
+For patients who are unable to swallow capsules, the contents of each capsule may be dispersed in 1 teaspoon of applesauce (puréed apple).
 The mixture should be taken immediately (within 15 minutes) and should not be stored for future use [see Clinical Pharmacology (12.3)].
 
 Tasigna may be given in combination with hematopoietic growth factors such as erythropoietin or G-CSF if clinically indicated.
@@ -56,7 +55,7 @@ If clinically appropriate, escalation of the dose back to 300 mg (newly diagnose
 For Grade 3 to 4 lipase elevations, dosing should be withheld, and may be resumed at 400 mg once daily.
 Test serum lipase levels monthly or as clinically indicated.
 For Grade 3 to 4 bilirubin or hepatic transaminase elevations, dosing should be withheld, and may be resumed at 400 mg once daily.
-Test bilirubin and hepatic transaminases levels monthly or as clinically indicated [see Warnings and Precautions (5.4, 5.5), Use in Specific Populations (8.7)].
+Test bilirubin and hepatic transaminases levels monthly or as clinically indicated [see Warnings and Precautions (5.5, 5.6), Use in Specific Populations (8.7)].
 
 Hepatic Impairment
 
@@ -69,7 +68,7 @@ Table 4: Dose Adjustments for Hepatic Impairment (At Baseline)
 | --- | --- | --- |
 | Resistant or intolerant Ph+ CML in chronic phase or accelerated phase at 400 mg twice daily | Mild or Moderate* | An initial dosing regimen of 300 mg twice daily followed by dose escalation to 400 mg twice daily based on tolerability |
 |  | Severe* | A starting dose of 200 mg twice daily followed by a sequential dose escalation to 300 mg twice daily and then to 400 mg twice daily based on tolerability |
-| *Mild=mild hepatic impairment (Child-Pugh Class A); Moderate=moderate hepatic impairment (Child-Pugh Class B); Severe=severe hepatic impairment (Child-Pugh Class C) [see Warnings and Precautions (5.9), Use in Specific Populations (8.7)]. |  |  |
+| *Mild=mild hepatic impairment (Child-Pugh Class A); Moderate=moderate hepatic impairment (Child-Pugh Class B); Severe=severe hepatic impairment (Child-Pugh Class C) [see Warnings and Precautions (5.10), Use in Specific Populations (8.7)]. |  |  |
 
 Concomitant Strong CYP3A4 Inhibitors
 
@@ -79,7 +78,7 @@ Should treatment with any of these agents be required, therapy with Tasigna shou
 If patients must be coadministered a strong CYP3A4 inhibitor, based on pharmacokinetic studies, consider a dose reduction to 300 mg once daily in patients with resistant or intolerant Ph+ CML or to 200 mg once daily in patients with newly diagnosed Ph+ CML-CP.
 However, there are no clinical data with this dose adjustment in patients receiving strong CYP3A4 inhibitors.
 If the strong inhibitor is discontinued, a washout period should be allowed before the Tasigna dose is adjusted upward to the indicated dose.
-For patients who cannot avoid use of strong CYP3A4 inhibitors, monitor closely for prolongation of the QT interval [see Boxed Warning, Warnings and Precautions (5.2, 5.7), Drug Interactions (7.2)].
+For patients who cannot avoid use of strong CYP3A4 inhibitors, monitor closely for prolongation of the QT interval [see Boxed Warning, Warnings and Precautions (5.2, 5.8), Drug Interactions (7.2)].
 
 Concomitant Strong CYP3A4 Inducers
 

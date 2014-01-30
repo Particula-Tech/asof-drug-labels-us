@@ -58,10 +58,11 @@ Do not take if you have:
 
 What should I tell my doctor before starting Tasigna?
 
-Tasigna may not be right for you.
 Before taking Tasigna, tell your doctor about all of your medical conditions, including if you have:
 
 - heart problems
+- had a stroke or other problems due to decreased blood flow to the brain
+- problems with decreased blood flow to your legs
 - irregular heartbeat
 - QTc prolongation or a family history of it
 - liver problems
@@ -82,11 +83,11 @@ Before taking Tasigna, tell your doctor about all of your medical conditions, in
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 
-If you need to take antacids(medicines to treat heartburn) do not take them at the same time that you take Tasigna.
+If you need to take antacids (medicines to treat heartburn) do not take them at the same time that you take Tasigna.
 If you take:
 
 - a medicine to block the amount of acid produced in the stomach (H2 blocker): Take these medicines about 10 hours before you take Tasigna, or about 2 hours after you take Tasigna.
-- an antacid that contains aluminum hydroxide, magnesium hydroxide and simethicone to reduce the amount of acid in the stomach: Take these medicines about 2 hours before or about 2 hours after you take Tasigna.
+- an antacid that contains aluminum hydroxide, magnesium hydroxide, and simethicone to reduce the amount of acid in the stomach: Take these medicines about 2 hours before or about 2 hours after you take Tasigna.
 
 Tasigna can interact with many medicines and supplements and increase your chance for serious and life-threatening side effects.
 See “What is the most important information I should know about Tasigna?”
@@ -133,6 +134,15 @@ What are the possible side effects of Tasigna?
 Tasigna may cause serious side effects including:
 
 - See “What is the most important information I should know about Tasigna?”
+- Decreased blood flow to the leg, heart, or brain.
+  People who have recently been diagnosed with Ph+ CML and take Tasigna may develop decreased blood flow to the leg, the heart, or brain.
+  Get medical help right away if you suddenly develop any of the following symptoms:
+  - chest pain or discomfort
+  - numbness or weakness
+  - problems walking or speaking
+  - leg pain
+  - your leg feels cold
+  - change in the skin color of your leg
 - Low blood counts.
   Low blood counts are common with Tasigna.
   Your doctor will check your blood counts regularly during treatment with Tasigna.
@@ -156,7 +166,7 @@ Your doctor may do blood tests to check you for TLS.
 
 The most common side effects of Tasigna include:
 
-| low blood count rash nausea fever headache itching tiredness stomach (abdominal) pain diarrhea | constipation muscle and joint pain back pain muscle spasms weakness hair loss runny or stuffy nose, sneezing, sore throat cough |
+| low blood count nausea rash headache tiredness itching vomiting diarrhea | cough constipation muscle and joint pain runny or stuffy nose, sneezing, sore throat fever night sweats |
 | --- | --- |
 
 Tell your doctor if you have any side effect that bothers you or does not go away.
@@ -171,7 +181,8 @@ How should I store Tasigna?
 
 - Store Tasigna at room temperature between 68°F to 77°F (20°C to 25°C).
 - Safely throw away medicine that is out of date or no longer needed.
-- Keep Tasigna and all medicines out of the reach of children.
+
+Keep Tasigna and all medicines out of the reach of children.
 
 General information about Tasigna
 
@@ -200,8 +211,8 @@ Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-Revised: September 2013
+Revised: January 2014
 
 © Novartis
 
-T2013-77 September 2013
+T2014-03 January 2014

@@ -2,12 +2,15 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.14)].
+Pregnancy Category D [see Warnings and Precautions (5.15)].
+
+Risk Summary
 
 Based on its mechanism of action and findings in animals, Tasigna may cause fetal harm when administered to a pregnant woman.
-There are no adequate and well controlled studies with Tasigna in pregnant women.
 Women should be advised to avoid becoming pregnant while on Tasigna.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+
+Animal Data
 
 Nilotinib was studied for effects on embryo-fetal development in pregnant rats and rabbits given oral doses of 10, 30, 100 mg/kg/day, and 30, 100, 300 mg/kg/day, respectively, during organogenesis.
 In rats, nilotinib at doses of 100 mg/kg/day (approximately 5.7 times the AUC in patients at the dose of 400 mg twice daily) was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption).
@@ -49,7 +52,7 @@ Caution should be exercised in patients with relevant cardiac disorders [see Box
 Nilotinib exposure is increased in patients with impaired hepatic function.
 In a study of subjects with mild to severe hepatic impairment following a single dose administration of 200 mg of Tasigna, the mean AUC values were increased on average of 35%, 35%, and 56% in subjects with mild (Child-Pugh class A, score 5 to 6), moderate (Child-Pugh class B, score 7 to 9) and severe hepatic impairment (Child-Pugh class C, score 10 to 15), respectively, compared to a control group of subjects with normal hepatic function.
 Table 8 summarizes the Child-Pugh Liver Function Classification applied in this study.
-A lower starting dose is recommended in patients with hepatic impairment and the QT interval should be monitored closely in these patients [see Dosage and Administration (2.2), Warnings and Precautions (5.9)].
+A lower starting dose is recommended in patients with hepatic impairment and the QT interval should be monitored closely in these patients [see Dosage and Administration (2.2), Warnings and Precautions (5.10)].
 
 Table 8: Child-Pugh Liver Function Classification
 

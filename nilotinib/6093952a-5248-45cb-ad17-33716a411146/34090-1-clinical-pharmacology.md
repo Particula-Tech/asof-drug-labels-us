@@ -26,11 +26,11 @@ There was no relevant increase in exposure to nilotinib when the dose was increa
 The bioavailability of nilotinib was increased when given with a meal.
 Compared to the fasted state, the systemic exposure (AUC) increased by 82% when the dose was given 30 minutes after a high fat meal.
 
-Single dose administration of two 200 mg nilotinib capsules each dispersed in one teaspoon of applesauce and administered within 15 minutes was shown to be bioequivalent to a single dose administration of two 200 mg intact capsules.
+Single dose administration of two 200 mg nilotinib capsules each dispersed in 1 teaspoon of applesauce and administered within 15 minutes was shown to be bioequivalent to a single dose administration of two 200 mg intact capsules.
 The blood-to-serum ratio of nilotinib is 0.68.
 Serum protein binding is approximately 98% on the basis of in vitro experiments.
 
-Median steady-state trough concentration of nilotinib was decreased by 53% in patients with total gastrectomy compared to patients who had not undergone surgeries [see Warnings and Precautions (5.11)].
+Median steady-state trough concentration of nilotinib was decreased by 53% in patients with total gastrectomy compared to patients who had not undergone surgeries [see Warnings and Precautions (5.12)].
 
 Pharmacokinetics, Metabolism and Excretion
 
@@ -50,14 +50,14 @@ Age, body weight, gender, or ethnic origin did not significantly affect the phar
 
 Drug-Drug Interactions
 
-In a Phase 1 trial of nilotinib 400 mg twice daily in combination with imatinib 400 mg daily or 400 mg twice daily, the AUC increased 30%-50% for nilotinib and approximately 20% for imatinib.
+In a Phase 1 trial of nilotinib 400 mg twice daily in combination with imatinib 400 mg daily or 400 mg twice daily, the AUC increased 30% to 50% for nilotinib and approximately 20% for imatinib.
 
 ## 12.5 Pharmacogenomics
 
 Tasigna can increase bilirubin levels.
 A pharmacogenetic analysis of 97 patients evaluated the polymorphisms of UGT1A1 and its potential association with hyperbilirubinemia during Tasigna treatment.
 In this study, the (TA)7/(TA)7 genotype was associated with a statistically significant increase in the risk of hyperbilirubinemia relative to the (TA)6/(TA)6 and (TA)6/(TA)7 genotypes.
-However, the largest increases in bilirubin were observed in the (TA)7/(TA)7 genotype (UGT1A1*28) patients [see Warnings and Precautions (5.5)].
+However, the largest increases in bilirubin were observed in the (TA)7/(TA)7 genotype (UGT1A1*28) patients [see Warnings and Precautions (5.6)].
 
 ## 12.6 QT/QTc Prolongation
 
