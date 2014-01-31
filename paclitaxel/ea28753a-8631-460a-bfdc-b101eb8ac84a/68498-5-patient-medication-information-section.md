@@ -125,9 +125,9 @@ A tumor is a mass of unhealthy cells that are dividing and growing fast and in a
 When a tumor invades surrounding healthy body tissue, it is known as a malignant tumor.
 A malignant tumor can spread (metastasize) from its original site to other parts of the body if not found and treated early.
 
-Revised: 02/2012
+Revised: 07/2013
 
-433354
+434104
 
 Hospira, Inc.
 

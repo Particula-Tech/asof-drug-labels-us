@@ -49,13 +49,6 @@ Paclitaxel should not be given to patients with AIDS-related Kaposi’s sarcoma 
 Patients who experience severe neutropenia (neutrophil <500 cells/mm3 for a week or longer) or severe peripheral neuropathy during Paclitaxel Injection, USP therapy should have dosage reduced by 20% for subsequent courses of paclitaxel.
 The incidence of neurotoxicity and the severity of neutropenia increase with dose.
 
-Preparation and Administration Precautions: Paclitaxel is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised in handling paclitaxel.
-The use of gloves is recommended.
-If paclitaxel solution contacts the skin, wash the skin immediately and thoroughly with soap and water.
-Following topical exposure, events have included tingling, burning, and redness.
-If paclitaxel contacts mucous membranes, the membranes should be flushed thoroughly with water.
-Upon inhalation, dyspnea, chest pain, burning eyes, sore throat, and nausea have been reported.
-
 Hepatic Impairment: Patients with hepatic impairment may be at increased risk of toxicity, particularly grade III–IV myelosuppression (see CLINICAL PHARMACOLOGY and PRECAUTIONS: Hepatic).
 Recommendations for dosage adjustment for the first course of therapy are shown in Table 17 for both 3- and 24-hour infusions.
 Further dose reduction in subsequent courses should be based on individual tolerance.

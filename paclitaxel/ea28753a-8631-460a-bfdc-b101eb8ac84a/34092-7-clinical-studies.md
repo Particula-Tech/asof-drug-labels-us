@@ -134,7 +134,7 @@ Figure 6.
 Disease-Free Survival: Receptor Status Positive AC Versus AC+T
 
 Figure 7.
-Disease-Free Survival: Premonopausal AC Versus AC+T
+Disease-Free Survival: Premenopausal AC Versus AC+T
 
 Figure 8.
 Disease-Free Survival: Postmenopausal AC Versus AC+T
