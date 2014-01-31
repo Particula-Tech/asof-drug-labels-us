@@ -247,13 +247,13 @@ Patients were corticosteroid dependent (i.e., an inability to successfully taper
 
 Trial UC-1 was divided into 2 parts.
 In Part 1 (dose finding), patients were randomized to one of 4 treatment groups: 400 mg SIMPONI administered subcutaneously (SC) at Week 0 and 200 mg at Week 2 (400/200 mg), 200 mg SIMPONI SC at Week 0 and 100 mg at Week 2 (200/100 mg), 100 mg SIMPONI SC at Week 0 and 50 mg at Week 2 (100/50 mg), or placebo SC at Weeks 0 and 2.
-In Part 2 (dose confirming), 771 patients were randomized to receive either 400 mg SIMPONI SC at Week 0 and 200 mg at Week 2, 200 mg SIMPONI SC at Week 0 and 100 mg at Week 2, or placebo SC at Weeks 0 and 2.
+In Part 2 (dose confirming), efficacy was evaluated in 761 patients who were randomized to receive either 400 mg SIMPONI SC at Week 0 and 200 mg at Week 2, 200 mg SIMPONI SC at Week 0 and 100 mg at Week 2, or placebo SC at Weeks 0 and 2.
 SIMPONI 100/50 mg SC was not evaluated in Part 2; its safety and effectiveness has not been established in UC.
 Concomitant stable doses of oral aminosalicylates (5-ASA), oral corticosteroids (less than 40 mg/day), azathioprine (AZA), 6-mercaptopurine (6-MP), and/or methotrexate (MTX) were permitted.
 Patients who received previous TNF inhibitors were excluded.
 The primary endpoint was the percent of patients in clinical response at Week 6, defined as a decrease from baseline in the Mayo score by ≥ 30% and ≥ 3 points, accompanied by a decrease in the rectal bleeding subscore of ≥ 1 or a rectal bleeding subscore of 0 (no blood seen) or 1 (streaks of blood with stool less than half the time).
 
-Trial UC-2 was a randomized-withdrawal maintenance trial that evaluated 463 patients who achieved clinical response with SIMPONI induction and tolerated SIMPONI treatment.
+Trial UC-2 was a randomized-withdrawal maintenance trial that evaluated 456 patients who achieved clinical response with SIMPONI induction and tolerated SIMPONI treatment.
 Patients were randomized to receive SIMPONI 50 mg, SIMPONI 100 mg or placebo administered subcutaneously every 4 weeks.
 Concomitant stable doses of oral aminosalicylates, azathioprine, 6-mercaptopurine, and/or methotrexate were permitted.
 Corticosteroids were to be tapered at the start of the maintenance trial.
@@ -278,11 +278,11 @@ The Proportion of Patients with UC in Clinical Response, Clinical Remission and 
 
 | Trial UC-1 (6-Week Induction Trial) |  |  |  |
 | --- | --- | --- | --- |
-|  | Placebo N=256 | SIMPONI 200/100 mg N=257 | Treatment difference (95% C.I.) |
-| Clinical responsePatients who had a prohibited change in concomitant UC medication, an ostomy or colectomy, discontinued trial agent due to lack of therapeutic effect, or a dose adjustment in Trial UC-2 were considered not to be in clinical response, clinical remission or have an improvement in endoscopic appearance of the mucosa from the time of the event onward. at Week 6 | 30% | 52% | 22% (14%, 30%)p<0.0001; |
-| Clinical remission at Week 6 | 6% | 19% | 12% (7%, 18%) |
-| Improvement of endoscopic appearance of the mucosa at Week 6 | 29% | 43% | 15% (6%, 23%)p=0.0005; |
+|  | Placebo N=251 | SIMPONI 200/100 mg N=253 | Treatment difference (95% C.I.) |
+| Clinical responsePatients who had a prohibited change in concomitant UC medication, an ostomy or colectomy, discontinued trial agent due to lack of therapeutic effect, or a dose adjustment in Trial UC-2 were considered not to be in clinical response, clinical remission or have an improvement in endoscopic appearance of the mucosa from the time of the event onward. at Week 6 | 30% | 51% | 21% (12%, 29%)p<0.0001; |
+| Clinical remission at Week 6 | 6% | 18% | 11% (6%, 17%) |
+| Improvement of endoscopic appearance of the mucosa at Week 6 | 29% | 42% | 14% (5%, 22%)p=0.0014; |
 | Trial UC-2 (54-Week Maintenance Trial)Results in Trial UC-2 are based on patients who were in clinical response to SIMPONI at trial entry. |  |  |  |
-|  | Placebo N=156 | SIMPONI 100 mg N=154 | Treatment difference (95% C.I.) |
-| Clinical response through Week 54Patients were assessed for UC disease activity by partial Mayo score every 4 weeks (loss of response was confirmed by endoscopy). Therefore, a patient who maintained clinical response was in response at each evaluation through Week 54. | 31% | 51% | 19% (8%, 30%)p<0.001; |
-| Clinical remission at both Week 30 and Week 54A patient had to be in remission at both Weeks 30 and 54 (without demonstrating a loss of response at any time point through Week 54) to achieve sustained remission. | 15% | 29% | 13% (4%, 22%)p=0.003 |
+|  | Placebo N=154 | SIMPONI 100 mg N=151 | Treatment difference (95% C.I.) |
+| Clinical response through Week 54Patients were assessed for UC disease activity by partial Mayo score every 4 weeks (loss of response was confirmed by endoscopy). Therefore, a patient who maintained clinical response was in response at each evaluation through Week 54. | 31% | 50% | 19% (8%, 29%)p<0.001; |
+| Clinical remission at both Week 30 and Week 54A patient had to be in remission at both Weeks 30 and 54 (without demonstrating a loss of response at any time point through Week 54) to achieve sustained remission. | 16% | 28% | 12% (3%, 21%)p=0.004 |

@@ -3,7 +3,7 @@
 ## 7.1 Methotrexate
 
 For the treatment of RA, SIMPONI should be used with methotrexate (MTX) [see Clinical Studies (14.1)].
-Since the presence or absence of concomitant MTX did not appear to influence the efficacy or safety of SIMPONI in the treatment of PsA or AS, SIMPONI can be used with or without MTX in the treatment of PsA and AS [see Clinical Studies (14.1) and Clinical Pharmacology (12.3)].
+Since the presence or absence of concomitant MTX did not appear to influence the efficacy or safety of SIMPONI in the treatment of PsA or AS, SIMPONI can be used with or without MTX in the treatment of PsA and AS [see Clinical Studies (14.2, 14.3) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Biological Products for RA, PsA, and/or AS
 

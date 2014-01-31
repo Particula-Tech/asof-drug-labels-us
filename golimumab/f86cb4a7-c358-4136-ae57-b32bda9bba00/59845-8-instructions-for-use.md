@@ -65,7 +65,7 @@ Choose and prepare the injection site
   See Figure E.
 
 - If more than one injection is needed for a dose of SIMPONI, each injection should be given at different sites on the body.
-- Choose a different injection area each time you give your injection.
+- Choose a different injection site each time you give your injection.
   See Figures D and E.
 - Do not inject into areas where the skin is tender, bruised, red, scaly, or hard.
   Avoid areas with scars or stretch marks.
