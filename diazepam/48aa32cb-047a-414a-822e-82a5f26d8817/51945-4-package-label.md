@@ -1,8 +1,10 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Diazepam Tablets USP 2mg 100s Label Text
+## Diazepam Tablets USP 2 mg CIV 100s Label Text
 
 NDC 0172-3925-60
+
+CIV
 
 DIAZEPAM Tablets USP 2 mg
 
@@ -14,9 +16,11 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Diazepam Tablets USP 5mg 100s Label Text
+## Diazepam Tablets USP 5 mg CIV 100s Label Text
 
 NDC 0172-3926-60
+
+CIV
 
 DIAZEPAM Tablets USP 5 mg
 
@@ -28,9 +32,11 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Diazepam Tablets USP 10 mg 100s Label Text
+## Diazepam Tablets USP 10 mg CIV 100s Label Text
 
 NDC 0172-3927-60
+
+CIV
 
 DIAZEPAM Tablets USP 10 mg
 
