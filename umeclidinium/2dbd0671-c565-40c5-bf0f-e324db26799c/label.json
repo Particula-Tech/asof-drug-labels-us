@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA203975"
+  ],
+  "inn": "umeclidinium",
+  "labeler": "GlaxoSmithKline LLC",
+  "package_ndcs": [
+    "0173-0869-06",
+    "0173-0869-10"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "umeclidinium bromide and vilanterol trifenatate",
+      "name": "Anoro Ellipta"
+    }
+  ],
+  "setid": "2dbd0671-c565-40c5-bf0f-e324db26799c",
+  "source": "dailymed"
+}
