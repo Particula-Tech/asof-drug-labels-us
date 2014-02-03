@@ -151,7 +151,7 @@ Tell your healthcare provider right away if you or your child have any of these 
 
 • Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
 Rarely, this can happen in people with asthma who take montelukast sodium.
-This usually, but not always, happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
+This sometimes happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
 
 Tell your healthcare provider right away if you get one or more of these symptoms:
 
@@ -197,7 +197,7 @@ Other side effects with montelukast sodium include:
 
 • palpitations
 
-• nose bleed, stuffy nose
+• nose bleed, stuffy nose, swelling (inflammation) of the lungs
 
 • heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
 
@@ -262,4 +262,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0413
+Revised: 0114
