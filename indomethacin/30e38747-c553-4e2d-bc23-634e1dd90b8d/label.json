@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022536"
+  ],
+  "inn": "indomethacin",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-659-09"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "indomethacin",
+      "name": "Indomethacin"
+    }
+  ],
+  "setid": "30e38747-c553-4e2d-bc23-634e1dd90b8d",
+  "source": "dailymed"
+}
