@@ -29,17 +29,13 @@ There is little difference in relative bioavailability when PROCARDIA capsules a
 However, biting through the capsule prior to swallowing does result in slightly earlier plasma concentrations (27 ng/mL 10 minutes after 10 mg) than if capsules are swallowed intact.
 PROCARDIA is highly bound by serum proteins.
 PROCARDIA is extensively converted to inactive metabolites and approximately 80 percent of PROCARDIA and metabolites are eliminated via the kidneys.
-The half-life of nifedipine in plasma is approximately two hours.
+The elimination half-life of nifedipine is approximately two hours.
 Since hepatic biotransformation is the predominant route for the disposition of nifedipine, the pharmacokinetics may be altered in patients with chronic liver disease.
 Patients with hepatic impairment (liver cirrhosis) have a longer disposition half-life and higher bioavailability of nifedipine than healthy volunteers.
 The degree of serum protein binding of nifedipine is high (92–98%).
 Protein binding may be greatly reduced in patients with renal or hepatic impairment.
 
-In healthy subjects, the elimination half-life of a BID sustained release nifedipine formulation [that was neither Procardia capsules nor Procardia XL (nifedipine) extended release tablets] was longer in elderly subjects (6.7 h) compared to young subjects (3.8 h) following oral administration.
-A decreased clearance was also observed in the elderly (348 mL/min) following intravenous administration.
-
-Co-administration of nifedipine with grapefruit juice resulted in approximately a 2-fold increase in nifedipine AUC and Cmax with no change in half-life.
-The increased plasma concentrations are most likely due to inhibition of CYP 3A4 related first-pass metabolism.
+Following intravenous administration, clearance of nifedipine was decreased by 33% in elderly healthy subjects relative to young healthy subjects.
 
 ## Hemodynamics
 

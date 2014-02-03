@@ -19,7 +19,7 @@ Based on the patient's physical activity level, attack frequency, and sublingual
 In hospitalized patients under close observation, the dose may be increased in 10 mg increments over four- to six-hour periods as required to control pain and arrhythmias due to ischemia.
 A single dose should rarely exceed 30 mg.
 
-Co-administration of nifedipine with grapefruit juice is to be avoided (see CLINICAL PHARMACOLOGY and PRECAUTIONS: Other Interactions).
+Avoid co-administration of nifedipine with grapefruit juice (see CLINICAL PHARMACOLOGY and PRECAUTIONS: Other Interactions).
 
 No "rebound effect" has been observed upon discontinuation of PROCARDIA.
 However, if discontinuation of PROCARDIA is necessary, sound clinical practice suggests that the dosage should be decreased gradually with close physician supervision.
