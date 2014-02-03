@@ -9,14 +9,16 @@ Detailed information on serious and adverse reactions of particular importance i
 - Tics or a family history of Tourette's syndrome [see Contraindications (4.4)]
 - Monoamine Oxidase Inhibitors [see Contraindications (4.5) and Drug Interactions (7.1)]
 - Serious Cardiovascular Events [see Warnings and Precautions (5.1)]
-- Increase in Blood Pressure [see Warnings and Precautions (5.2)]
+- Increase in Blood Pressure [see Warnings and Precautions (5.1)]
 - Psychiatric Adverse Events [see Warnings and Precautions (5.2)]
 - Seizures [see Warnings and Precautions (5.3)]
-- Long-Term Suppression of Growth [see Warnings and Precautions (5.4)]
-- Visual Disturbance [see Warnings and Precautions (5.5)]
-- Contact Sensitization [see Warnings and Precautions (5.6)]
-- External Heat [see Warnings and Precautions (5.7)]
-- Hematologic Monitoring [see Warnings and Precautions (5.8)]
+- Priapism [see Warnings and Precautions (5.4)]
+- Peripheral Vasculopathy [see Warnings and Precautions (5.5)]
+- Long-Term Suppression of Growth [see Warnings and Precautions (5.6)]
+- Visual Disturbance [see Warnings and Precautions (5.7)]
+- Contact Sensitization [see Warnings and Precautions (5.8)]
+- External Heat [see Warnings and Precautions (5.9)]
+- Hematologic Monitoring [see Warnings and Precautions (5.10)]
 
 The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in children aged 6-12 included appetite decreased, insomnia, nausea, vomiting, weight decreased, tic, affect lability, and anorexia.
 The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in adolescents aged 13-17 were appetite decreased, nausea, insomnia, weight decreased, dizziness, abdominal pain and anorexia [see Adverse Reactions (6.1)].
@@ -53,17 +55,16 @@ Daytrana is a dermal irritant.
 In addition to the most commonly reported adverse reactions presented in Table 2, the majority of subjects in those studies had minimal to definite skin erythema at the patch application site.
 This erythema generally caused no or minimal discomfort and did not usually interfere with therapy or result in discontinuation from treatment.
 Erythema is not by itself a manifestation of contact sensitization.
-However, contact sensitization should be suspected if erythema is accompanied by evidence of a more intense local reaction (edema, papules, vesicles) that does not significantly improve within 48 hours or spreads beyond the patch site [see Warnings and Precautions (5.6)].
+However, contact sensitization should be suspected if erythema is accompanied by evidence of a more intense local reaction (edema, papules, vesicles) that does not significantly improve within 48 hours or spreads beyond the patch site [see Warnings and Precautions (5.8)].
 
 Most Commonly Reported Adverse Reactions
 
 Table 2 lists treatment-emergent adverse reactions reported in ≥ 1% Daytrana-treated children or adolescents with ADHD in two 7 week double-blind, parallel-group, placebo-controlled studies conducted in the outpatient setting.
 Overall, in these studies, 75.5% of children and 78.6% of adolescents experienced at least 1 adverse event.
 
-Table 2 Number (%) of Subjects with Commonly Reported Adverse Reactions (≥ 1% in the Daytrana Group) in 7-Week Placebo-controlled Studies in Either Children or Adolescents - Safety Population
-
-|  | Adolescents |  | Children |  |
+| Table 2 Number (%) of Subjects with Commonly Reported Adverse Reactions (≥ 1% in the Daytrana Group) in 7-Week Placebo-controlled Studies in Either Children or Adolescents - Safety Population |  |  |  |  |
 | --- | --- | --- | --- | --- |
+|  | Adolescents |  | Children |  |
 | System Organ Class Preferred term | Placebo N = 72 | Daytrana N = 145 | Placebo N = 85 | Daytrana N = 98 |
 | Cardiac Disorders |  |  |  |  |
 | Tachycardia | 0 (0) | 1 (0.7) | 0 (0) | 1 (1.0) |
@@ -113,7 +114,7 @@ Investigations: blood pressure increased
 
 Nervous System Disorders: convulsion, dyskinesia
 
-Psychiatric Disorders: transient depressed mood, hallucination, nervousness
+Psychiatric Disorders: transient depressed mood, hallucination, nervousness, libido changes
 
 Skin and Subcutaneous Tissue Disorders: alopecia
 

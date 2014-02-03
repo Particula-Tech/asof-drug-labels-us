@@ -1,4 +1,4 @@
-# 3 Dosage Form and strengths
+# 3 DOSAGE FORM AND STRENGTHS
 
 Four dosage strengths are available:
 

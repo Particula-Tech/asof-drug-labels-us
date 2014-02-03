@@ -1,4 +1,4 @@
-# 5 WARNINGS and PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Serious Cardiovascular Events
 
@@ -53,7 +53,14 @@ Although there is no systematic evidence that stimulants cause aggressive behavi
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
-## 5.4 Peripheral Vasculopathy, including Raynaud’s phenomenon
+## 5.4 Priapism
+
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products in both pediatric and adult patients.
+Priapism was not reported with drug initiation but developed after some time on the drug, often subsequent to an increase in dose.
+Priapism has also appeared during a period of drug withdrawal (drug holidays or during discontinuation).
+Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
+
+## 5.5 Peripheral Vasculopathy, including Raynaud’s phenomenon
 
 Stimulants, including Daytrana, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
@@ -62,17 +69,17 @@ Signs and symptoms generally improve after reduction in dose or discontinuation 
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
-## 5.5 Long-Term Suppression of Growth
+## 5.6 Long-Term Suppression of Growth
 
 Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
 Published data are inadequate to determine whether chronic use of amphetamines may cause a similar suppression of growth, however, it is anticipated that they likely have this effect as well.
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
-## 5.6 Visual Disturbance
+## 5.7 Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
 
-## 5.7 Contact Sensitization
+## 5.8 Contact Sensitization
 
 In an open-label study of 305 subjects conducted to characterize dermal reactions in children with ADHD treated with Daytrana using a 9-hour wear time, one subject (0.3%) was confirmed by patch testing to be sensitized to methylphenidate (allergic contact dermatitis).
 This subject experienced erythema and edema at Daytrana application sites with concurrent urticarial lesions on the abdomen and legs resulting in treatment discontinuation.
@@ -92,13 +99,13 @@ No cases of systemic sensitization have been observed in clinical trials of Dayt
 Patients who develop contact sensitization to Daytrana and require oral treatment with methylphenidate should be initiated on oral medication under close medical supervision.
 It is possible that some patients sensitized to methylphenidate by exposure to Daytrana may not be able to take methylphenidate in any form.
 
-## 5.8 Patients Using External Heat
+## 5.9 Patients Using External Heat
 
 Patients should be advised to avoid exposing the Daytrana application site to direct external heat sources, such as hair dryers, heating pads, electric blankets, heated water beds, etc., while wearing the patch.
 When heat is applied to Daytrana after patch application, both the rate and extent of absorption are significantly increased.
 The temperature-dependent increase in methylphenidate absorption can be greater than 2-fold [see Clinical Pharmacology (12.3)].
 This increased absorption can be clinically significant and can result in overdose of methylphenidate [see Overdosage (10)].
 
-## 5.9 Hematologic Monitoring
+## 5.10 Hematologic Monitoring
 
 Periodic CBC, differential, and platelet counts are advised during prolonged therapy.

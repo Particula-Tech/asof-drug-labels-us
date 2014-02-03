@@ -4,6 +4,11 @@ See Medication Guide
 
 ## 17.1 Information for Patients
 
+Priapism
+
+Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
+Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.4)]
+
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
 
 - Instruct patients beginning treatment with Daytrana about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red
@@ -62,16 +67,14 @@ Manufactured for: Noven Therapeutics, LLC, Miami, FL 33186.
 
 By: Noven Pharmaceuticals, Inc., Miami, FL 33186.
 
-For more information call 1-877-567-7857 or visit www.daytrana.com..
+For more information call 1-877-567-7857 or visit www.daytrana.com.
 
-Dot Matrix™ is a trademark of Noven Pharmaceuticals, Inc.
-
-Daytrana® is a registered trademark of Noven Therapeutics, LLC.
+Dot Matrix™ is a trademark of Noven Pharmaceuticals, Inc. Daytrana® is a registered trademark of Noven Therapeutics, LLC.
 
 © 2009, 2013 Noven Pharmaceuticals, Inc.
 
 This product is covered by US patents including for use with 6,905,016.
 
-Last Modified: 05/2013
+Last Modified: 10/2013
 
 102086-13

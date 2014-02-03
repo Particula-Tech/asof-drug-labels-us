@@ -126,24 +126,15 @@ How should I use Daytrana?
 - If you wear Daytrana longer than 9 hours, or if you wear more than 1 patch at a time, you have used too much Daytrana.
   Remove all Daytrana patches and wash the application sites right away.
   Call your local poison control center or go to the nearest hospital emergency room right away if you have:
-
-- vomiting
-
-- agitation
-
-- shaking
-
-- confusion or mental changes
-
-- see things that are not there (hallucinations)
-
-- sweating
-
-- redness in your face
-
-- headache
-
-- heartbeat changes
+  - vomiting
+  - agitation
+  - shaking
+  - confusion or mental changes
+  - see things that are not there (hallucinations)
+  - sweating
+  - redness in your face
+  - headache
+  - heartbeat changes
 
 - Read the Patient Instructions for Use at the end of this Medication Guide.
 
@@ -163,6 +154,9 @@ Daytrana may cause serious side effects, including:
 - See "What is the most important information I should know about Daytrana?"
 - Seizures.
   This usually happens in people with a history of seizures.
+- Painful and prolonged erections (priapism) have occurred with methylphenidate.
+  If you or your child develop priapism, seek medical help right away.
+  Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
 - Slowing of growth (weight and height).
   You should have your height and weight checked while using Daytrana.
 - Eyesight changes or blurred vision
@@ -238,12 +232,9 @@ To use the Daytrana Dosing Chart, follow these instructions:
   For example, if the patch is applied to the skin at 6:00 a.m., remove the patch at 3:00 p.m. on the same day.
   After you remove and throw away the patch, write down the time you removed the patch and how and where you threw it away.
 - If the patch you placed on your child is missing, ask your child:
-
-- when the patch came off
-
-- how the patch came off
-
-- where the patch is
+  - when the patch came off
+  - how the patch came off
+  - where the patch is
 
 Daytrana Schedule for 9 Hour Dosing
 
@@ -341,11 +332,11 @@ How to remove and throw away Daytrana
 
 - When you remove the patch, peel it off slowly.
   If the patch is too sticky on your skin and you need something to help you remove it:
-- Gently apply an oil-based product (petroleum jelly, olive oil, or mineral oil) to the patch edges.
-  Gently spread the oil underneath the patch edges.
-- Apply an oil-based product or lotion to your skin if any adhesive (glue) remains after you remove your patch.
-  This will gently loosen and remove any adhesive that is left over.
-- If you still can not easily remove the patch, ask your doctor or pharmacist about what to do for this problem.
+  - Gently apply an oil-based product (petroleum jelly, olive oil, or mineral oil) to the patch edges.
+    Gently spread the oil underneath the patch edges.
+  - Apply an oil-based product or lotion to your skin if any adhesive (glue) remains after you remove your patch.
+    This will gently loosen and remove any adhesive that is left over.
+  - If you still can not easily remove the patch, ask your doctor or pharmacist about what to do for this problem.
 - Fold the used Daytrana patch in half and press it together firmly so that the sticky side sticks to itself.
   Flush the used patch down the toilet or put the patch in a container with a lid right away.
 - Do not flush the protective pouches or the protective liners down the toilet.
@@ -353,20 +344,15 @@ How to remove and throw away Daytrana
 - Wash your hands after you handle the patch.
 - After you remove the patch and throw the patch away, write down the time on the dosing chart.
 - Safely throw away any unused Daytrana patches that are left over from the prescription as soon as they are no longer needed.
-
-To safely throw away the patches:
-
-- Remove the leftover patches from their protective pouches and remove the protective liners.
-
-- Either fold the patches in half with the sticky sides together, and flush the patches down the toilet, or
-
-- throw the patches away in a container with a lid.
+  To safely throw away the patches:
+  - Remove the leftover patches from their protective pouches and remove the protective liners.
+  - Either fold the patches in half with the sticky sides together, and flush the patches down the toilet, or
+  - throw the patches away in a container with a lid.
 
 Manufactured for: Noven Therapeutics, LLC, Miami, FL 33186.
 
 By: Noven Pharmaceuticals, Inc., Miami, FL 33186. © 2009, 2013 Noven Pharmaceuticals, Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Rev.
-05/2013
+Revised 10/2013
 
 102086-13

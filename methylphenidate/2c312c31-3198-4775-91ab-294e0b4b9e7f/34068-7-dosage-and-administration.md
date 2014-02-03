@@ -5,10 +5,9 @@ Dosage should be titrated to effect.
 The recommended dose titration schedule is shown in the table below.
 Dose titration, final dosage, and wear time should be individualized according to the needs and response of the patient.
 
-TABLE 1 Daytrana - Recommended Titration Schedule (Patients New to Methylphenidate)
-
-| Upward Titration, if Response is Not Maximized |  |  |  |  |
+| Table 1 Daytrana - Recommended Titration Schedule (Patients New to Methylphenidate) |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| Upward Titration, if Response is Not Maximized |  |  |  |  |
 |  | Week 1 | Week 2 | Week 3 | Week 4 |
 | Patch Size | 12.5 cm2 | 18.75 cm2 | 25 cm2 | 37.5 cm2 |
 | Nominal Delivered Dose* (mg/9 hours) | 10 mg | 15 mg | 20 mg | 30 mg |
@@ -42,7 +41,7 @@ Patches should not be applied or re-applied with dressings, tape, or other commo
 In the event that a patch does not fully adhere to the skin upon application, or becomes partially or fully detached during wear time, the patch should be discarded according to the directions provided in this label [see Dosage and Administration (2.3)] and a new patch may be applied at a different site.
 The total recommended wear time for that day should remain 9 hours regardless of the number of patches used [see Patient Counseling Information (17.1)].
 
-All patients should be advised to avoid exposing the Daytrana application site to direct external heat sources, such as hair dryers, heating pads, electric blankets, heated water beds, etc., while wearing the patch [see Warnings and Precautions (5.7)].
+All patients should be advised to avoid exposing the Daytrana application site to direct external heat sources, such as hair dryers, heating pads, electric blankets, heated water beds, etc., while wearing the patch [see Warnings and Precautions (5.9)].
 When heat is applied to Daytrana after patch application, both the rate and the extent of absorption are significantly increased.
 The temperature-dependent increase in methylphenidate absorption can be greater than 2-fold (see CLINICAL PHARMACOLOGY: Pharmacokinetics/Absorption).
 This increased absorption can be clinically significant and result in overdose of methylphenidate (see OVERDOSAGE).

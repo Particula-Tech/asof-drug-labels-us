@@ -23,10 +23,9 @@ On single dosing with Daytrana to children or adolescents, there was a delay of,
 On repeat dosing, low concentrations (1.2-3.0 ng/mL in children and 0.5-1.7ng/mL in adolescents, on average across the dose range) were observed earlier in the profile, due to carry-over effect.
 Following the application of Daytrana once daily with a 9 hour wear time, the mean pharmacokinetic parameters of d-methylphenidate in children and adolescents with ADHD after 4 weeks of therapy are summarized in Table 3.
 
-Table 3 Mean Plasma d-Methylphenidate Pharmacokinetic Parameters After Repeated 9-Hour Applications of Daytrana or Oral ER-MPH for up to 28 days to Pediatric ADHD Patients (Aged 6 - 17 years)
-
-| Children |  |  |  |  |
+| Table 3 Mean Plasma d-Methylphenidate Pharmacokinetic Parameters After Repeated 9-Hour Applications of Daytrana or Oral ER-MPH for up to 28 days to Pediatric ADHD Patients (Aged 6 - 17 years) |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| Children |  |  |  |  |
 | Parameter | Daytrana1 12.5cm2 (N=12) | Daytrana2 37.5cm2 (N=10) | Oral ER-MPH3 18mg | Oral ER-MPH3 54mg |
 | Cssmax (ng/mL) | 15.7 ± 9.39 | 42.9 ± 22.4 | 8.37 ± 4.14 | 26.1 ± 11.2 |
 | Cssmin (ng/mL) | 1.04 ± 1.17 | 1.96 ± 1.73 | 0.708 ± 1.08 | 1.19 ± 1.54 |
@@ -37,7 +36,7 @@ Table 3 Mean Plasma d-Methylphenidate Pharmacokinetic Parameters After Repeated 
 | Cssmin (ng/mL) | 0.544 ± 0.383 | 1.02 ± 0.629 | 0.360 ± 0.478 | 1.50 ± 0.937 |
 | AUCss (ng·hr/mL) | 85.7 ± 50.0 | 167 ± 66.0 | 59.7 ± 19.1 | 216 ± 80.8 |
 | tlag (h)4 | 0 (0 - 2.0) | 0 (0 - 2.0) | 0 | 0 |
-| 1 Dose maintained fixed for 28 days; 2 Dose escalated at 7 day intervals from 12.5 cm2 through 18.75 cm2 and 25 cm2 to 37.5 cm2; 3 Dose escalated at 7 day intervals from 18 mg through 27 mg and 36 mg to 54 mg; 4 Median (minimum - maximum); tlag = Last Sampling Time Prior to Time of First Quantifiable Plasma Concentration |  |  |  |  |
+| 1 Dose maintained fixed for 28 days;2 Dose escalated at 7 day intervals from 12.5 cm2 through 18.75 cm2 and 25 cm2 to 37.5 cm2;3 Dose escalated at 7 day intervals from 18 mg through 27 mg and 36 mg to 54 mg;4 Median (minimum - maximum); tlag = Last Sampling Time Prior to Time of First Quantifiable Plasma Concentration |  |  |  |  |
 
 Following administration of Daytrana 12.5cm2 to pediatric and adolescent ADHD patients daily for 7 days, there were 13% and 14% increases, respectively, in steady state area under the plasma concentration-time curve (AUCss) relative to that anticipated on the basis of single dose pharmacokinetics (AUC0-∞); after 28 days administration, these increments increased to 64% and 76%, respectively.
 Cmax increased by nearly 69% and 100% within 4 weeks of daily administration of the starting dose in children and adolescents, respectively.

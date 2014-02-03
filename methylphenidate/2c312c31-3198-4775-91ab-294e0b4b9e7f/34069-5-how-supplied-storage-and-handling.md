@@ -9,7 +9,7 @@ See the chart below for information regarding available strengths.
 | 15 | 1.6 | 18.75 | 41.3 | 30 | 68968-5553-3 |
 | 20 | 2.2 | 25 | 55 | 30 | 68968-5554-3 |
 | 30 | 3.3 | 37.5 | 82.5 | 30 | 68968-5555-3 |
-| *Nominal in vivo delivery rate per hour in children and adolescents when applied to the hip, based on a 9-hour wear period. **Methylphenidate content in each patch. |  |  |  |  |  |
+| *Nominal in vivo delivery rate per hour in children and adolescents when applied to the hip, based on a 9-hour wear period.**Methylphenidate content in each patch. |  |  |  |  |  |
 
 Store at 25° C (77° F); excursions permitted to 15-30° C (59-86° F) [see USP Controlled Room Temperature].
 Do not store patches unpouched.
