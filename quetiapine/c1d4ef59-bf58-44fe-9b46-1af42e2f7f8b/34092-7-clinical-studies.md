@@ -48,7 +48,7 @@ Table 19: Schizophrenia Short-Term Trials
 |  | Quetiapine Fumarate(750 mg/day) | 41 (9.6) | -8.7 (1.6) | -7.8 (-12.2, -3.4) |
 |  | Placebo | 38.4 (9.7) | -1 (1.6) | -- |
 | Study 3 | Quetiapine Fumarate (450 mg/day BID) | 42.1 (10.7) | -10 (1.3) | -4.6 (-7.8, -1.4) |
-|  | Quetiapine Fumarate (450 mg/day TID) | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0) |
+|  | Quetiapine Fumarate (450 mg/day TID)Doses that are statistically significant superior to quetiapine fumarate 50 mg BID. | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0) |
 |  | Quetiapine Fumarate(50 mg BID) | 41.7 (10) | -5.4 (1.3) | -- |
 |  |  | Primary Efficacy Endpoint: PANSS Total |  |  |
 |  |  | Mean Baseline Score (SD) | LS Mean Change From Baseline (SE) | Placebo-Subtracted Differencea (95% CI) |
@@ -84,6 +84,7 @@ Adjunct Therapy
 In this 3 week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥ 20) were randomized to receive quetiapine fumarate or placebo as adjunct treatment to lithium or divalproex.
 Patients may or may not have received an adequate treatment course of lithium or divalproex prior to randomization.
 Quetiapine fumarate was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score.
+(Study 3 in Table 20).
 
 The majority of patients in this trial taking quetiapine fumarate were dosed in a range between 400 mg/day and 800 mg per day.
 In a similarly designed trial (n = 200), quetiapine fumarate was associated with an improvement in YMRS scores but did not demonstrate superiority to placebo, possibly due to a higher placebo effect.
@@ -111,10 +112,12 @@ Table 20: Mania Trials
 | Study 2 | Quetiapine Fumarate (200 to 800 mg/day) | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5) |
 |  | Lithium, | 33.3 (7.1) | -15.2 (1.6) | -8.5 (-11.5, -5.5) |
 |  | Placebo | 34 (6.9) | -6.7 (1.6) | -- |
-| Study 4 (children and adolescents) | Quetiapine Fumarate (400 mg/day) | 29.4 (5.9) | -14.3 (0.96) | -5.2 (-8.1, -2.3) |
+| Study 3 | Quetiapine Fumarate(200 to 800 mg/day)c + mood stabilizer | 31.5 (5.8) | -13.8 (1.6) | -3.8 (-7.1, -0.6) |
+|  | Placebo + mood stabilizer | 31.1 (5.5) | -10 (1.5) | -- |
+| Study 4 | Quetiapine Fumarate (400 mg/day) | 29.4 (5.9) | -14.3 (0.96) | -5.2 (-8.1, -2.3) |
 |  | Quetiapine Fumarate (600 mg/day) | 29.6 (6.4) | -15.6 (0.97) | -6.6 (-9.5, -3.7) |
 |  | Placebo | 30.7 (5.9) | -9 (1.1) | -- |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
+| Mood stabilizer: lithium or divalproex; SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
 Bipolar Disorder, Depressive Episodes
 
@@ -148,7 +151,7 @@ Table 21: Depressive Episodes Associated With Bipolar Disorder
 
 Maintenance Treatment as an Adjunct to Lithium or Divalproex
 
-The efficacy of quetiapine fumarate in the maintenance treatment of bipolar I disorder was established in 2 placebo-controlled trials in patients (n = 1326) who met DSM-IV criteria for bipolar I disorder (studies 7 and 8 in Figure 1 and Figure2).
+The efficacy of quetiapine fumarate in the maintenance treatment of bipolar I disorder was established in 2 placebo-controlled trials in patients (n = 1326) who met DSM-IV criteria for bipolar I disorder (studies 7 and 8 in Figures 1 and 2).
 The trials included patients whose most recent episode was manic, depressed, or mixed, with or without psychotic features.
 In the open-label phase, patients were required to be stable on quetiapine fumarate plus lithium or divalproex for at least 12 weeks in order to be randomized.
 On average, patients were stabilized for 15 weeks.

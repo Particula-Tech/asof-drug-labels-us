@@ -3,7 +3,7 @@
 See FDA-approved patient labeling (Medication Guide)
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with quetiapine fumarate and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for quetiapine fumarate tablets.
+A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for quetiapine fumarate.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -42,7 +42,7 @@ Weight Gain
 Patients should be advised that they may experience weight gain.
 Patients should have their weight monitored regularly [see Warnings and Precautions (5.5)].
 
-Hypotension
+Orthostatic Hypotension
 
 Patients should be advised of the risk of orthostatic hypotension (symptoms include feeling dizzy or lightheaded upon standing, which may lead to falls), especially during the period of initial dose titration, and also at times of re-initiating treatment or increases in dose [see Warnings and Precautions (5.7)].
 
@@ -76,7 +76,6 @@ Need for Comprehensive Treatment Program
 Quetiapine fumarate is indicated as an integral part of a total treatment program for adolescents with schizophrenia and pediatric bipolar disorder that may include other measures (psychological, educational, and social).
 Effectiveness and safety of quetiapine fumarate have not been established in pediatric patients less than 13 years of age for schizophrenia or less than 10 years of age for bipolar mania.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
-
 The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
 
 TEVA PHARMACEUTICALS USA
@@ -84,4 +83,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-C 5/2013
+D 11/2013

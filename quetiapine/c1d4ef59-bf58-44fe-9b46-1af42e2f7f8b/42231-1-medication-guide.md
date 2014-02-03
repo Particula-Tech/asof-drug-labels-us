@@ -8,7 +8,7 @@ This information does not take the place of talking to your healthcare provider 
 
 What is the most important information I should know about quetiapine fumarate tablets?
 
-Quetiapine fumarate tablets may cause serious side effects, including
+Quetiapine fumarate tablets may cause serious side effects, including:
 
 1. Risk of death in the elderly with dementia.
    Medicines like quetiapinefumarate tablets can increase the risk of death in elderly people who havememory loss (dementia).
@@ -119,9 +119,8 @@ How should I take quetiapine fumarate tablets?
 
 What should I avoid while taking quetiapine fumarate tablets?
 
-Do not drive, operate machinery, or do other dangerous activities until you know how quetiapine fumarate tablets affect you.
-Quetiapine fumarate tablets may make you drowsy.
-
+- Do not drive, operate machinery, or do other dangerous activities until you know how quetiapine fumarate tablets affect you.
+  Quetiapine fumarate tablets may make you drowsy.
 - Avoid getting overheated or dehydrated.
   - Do not over-exercise.
   - In hot weather, stay inside in a cool place if possible.
@@ -148,10 +147,7 @@ Quetiapine fumarate tablets can cause serious side effects, including:
   - changes in your breathing, heartbeat, and blood pressure
 - High blood sugar(hyperglycemia).
   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
-
-High blood sugar could lead to:
-
-- 
+  High blood sugar could lead to:
   - build up of acid in your blood due to ketones (ketoacidosis)
   - coma
   - death
@@ -159,7 +155,6 @@ High blood sugar could lead to:
 Increases in blood sugar can happen in some people who take quetiapine fumarate tablets.
 Extremely high blood sugar can lead to coma or death.
 If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start quetiapine fumarate tablets and during therapy.
-
 Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking quetiapine fumarate tablets:
 
 - 
@@ -179,7 +174,7 @@ Call your healthcare provider if you have any of these symptoms of high blood su
   These may be signs of a serious condition.
   Tardive dyskinesia may not go away, even if you stop taking quetiapine fumarate tablets.
   Tardive dyskinesia may also start after you stop taking quetiapine fumarate tablets.
-- decreased blood pressure (hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
+- decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
 - increases in blood pressure in children and teenagers.
   Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine fumarate tablets and during therapy.
 - low white blood cell count
@@ -192,7 +187,7 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 - sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
 - increased body temperature
 - difficulty swallowing
-- trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting if you suddenly stop taking quetiapine fumarate tablets.
+- trouble sleeping or trouble staying asleep (insomnia), nausea, or vomiting if you suddenly stop taking quetiapine fumarate tablets.
   These symptoms usually get better 1 week after you start having them.
 
 The most common side effects of quetiapine fumarate tablets include:
@@ -250,4 +245,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-B 5/2013
+C 11/2013

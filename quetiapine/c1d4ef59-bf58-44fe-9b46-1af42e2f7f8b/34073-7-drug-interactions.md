@@ -11,13 +11,13 @@ Quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoc
 CYP3A4 inhibitors:
 
 Coadministration of ketoconazole, a potent inhibitor of cytochrome CYP3A4, resulted in significant increase in quetiapine exposure.
-The dose of quetiapine fumarate should be reduced to one sixth of the original dose if coadministered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+The dose of quetiapine fumarate should be reduced to one sixth of the original dose if coadministered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 CYP3A4 inducers:
 
 Coadministration of quetiapine and phenytoin, a CYP3A4 inducer increased the mean oral clearance of quetiapine by 5-fold.
-Increased doses of quetiapine fumarate up to 5 fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
-When the CYP3A4 inducer is discontinued, the dose of quetiapine fumarate should be reduced to the original level within 7 to 14 days [see Dosage and Administration (2.5)].
+Increased doses of quetiapine fumarate up to 5 fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+When the CYP3A4 inducer is discontinued, the dose of quetiapine fumarate should be reduced to the original level within 7 to 14 days [see Dosage and Administration (2.6)].
 
 The potential effects of several concomitant medications on quetiapine pharmacokinetics were studied [see Clinical Pharmacology (12.3)].
 
@@ -28,4 +28,4 @@ Because of its potential for inducing hypotension, quetiapine fumarate may enhan
 Quetiapine fumarate may antagonize the effects of levodopa and dopamine agonists.
 
 There are no clinically relevant pharmacokinetic interactions of quetiapine fumarate on other drugs based on the CYP pathway.
-Quetiapine fumarate and its metabolites are non-inhibitors of major metabolizing CYP’s (1A2, 2C9, 2C19, 2D6 and 3A4.
+Quetiapine fumarate and its metabolites are non-inhibitors of major metabolizing CYP’s (1A2, 2C9, 2C19, 2D6 and 3A4).

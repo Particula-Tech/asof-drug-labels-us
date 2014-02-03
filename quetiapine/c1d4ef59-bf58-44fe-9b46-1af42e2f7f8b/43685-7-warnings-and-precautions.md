@@ -103,7 +103,7 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Adults:
 
-Table 3: Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo-Controlled Studies
+Table 3: Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo-Controlled StudiesIncludes quetiapine fumarate and quetiapine fumarate extended-release data.
 
 | LaboratoryAnalyte | Category Change(At Least Once)from Baseline | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
@@ -112,10 +112,10 @@ Table 3: Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in S
 | Borderline to High | Quetiapine | 572 | 67 (11.7%) |  |
 | (≥ 100 mg/dL and<126 mg/dL to ≥126 mg/dL) | Placebo | 279 | 33 (11.8%) |  |
 
-In a 24 week trial (active-controlled, 115 patients treated with quetiapine fumarate) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥ 200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥ 126 mg/dL was 2.6%.
+In a 24-week trial (active-controlled, 115 patients treated with quetiapine fumarate) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥ 200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥ 126 mg/dL was 2.6%.
 The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2 hour glucose from baseline was -1.8 mg/dL for quetiapine.
 
-In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar maintenance, mean exposure of 213 days for quetiapine fumarate (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5 mg/dL for quetiapine fumarate and -0.05 mg/dL for placebo.
+In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for quetiapine fumarate (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5 mg/dL for quetiapine fumarate and -0.05 mg/dL for placebo.
 The exposure-adjusted rate of any increased blood glucose level (≥ 126 mg/dL) for patients more than 8 hours since a meal (however, some patients may not have been precluded from calorie intake from fluids during fasting period) was 18 per 100 patient years for quetiapine fumarate (10.7% of patients; n = 556) and 9.5 for placebo per 100 patient years (4.6% of patients; n = 581).
 
 Children and Adolescents:
@@ -123,6 +123,10 @@ Children and Adolescents:
 In a placebo-controlled quetiapine fumarate monotherapy study of adolescent patients (13 to 17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for quetiapine fumarate (n = 138) compared to placebo (n = 67) was –0.75 mg/dL versus –1.70 mg/dL.
 In a placebo-controlled quetiapine fumarate monotherapy study of children and adolescent patients (10 to 17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for quetiapine fumarate (n = 170) compared to placebo (n = 81) was 3.62 mg/dL versus –1.17 mg/dL.
 No patient in either study with a baseline normal fasting glucose level (< 100 mg/dL) or a baseline borderline fasting glucose level (≥ 100 mg/dL and < 126 mg/dL) had a treatment-emergent blood glucose level of ≥ 126 mg/dL.
+
+In a placebo-controlled quetiapine fumarate extended-release monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the mean change in fasting glucose levels for quetiapine fumarate extended-release (n = 60) compared to placebo (n = 62) was 1.8 mg/dL versus 1.6 mg/dL.
+In this study, there were no patients in the quetiapine fumarate extended-release or placebo-treated groups with a baseline normal fasting glucose level (< 100 mg/dL) that had an increase in blood glucose level > 126 mg/dL.
+There was one patient in the quetiapine fumarate extended-release group with a baseline borderline fasting glucose level (> 100 mg/dL) and (< 126 mg/dL) who had an increase in blood glucose level of > 126 mg/dL compared to zero patients in the placebo group.
 
 Dyslipidemia
 
@@ -176,12 +180,16 @@ Table 5: Percentage of Children and Adolescents With Shifts in Total Cholesterol
 | Bipolar Mania | Quetiapine Fumarate | 154 | 16 (10%) |  |
 | Placebo | 61 | 4 (7%) |  |  |
 
+In a placebo-controlled quetiapine fumarate extended-release monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥ 200 mg/dL), triglycerides (≥ 150 mg/dL), LDL-cholesterol (≥ 130 mg/dL) and HDL-cholesterol (≤ 40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for quetiapine fumarate extended-release vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for quetiapine fumarate extended-release vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for quetiapine fumarate extended-release vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for quetiapine fumarate extended-release vs. 15% (11/74) for placebo.
+
 Weight Gain
 
 Increases in weight have been observed in clinical trials.
 Patients receiving quetiapine should receive regular monitoring of weight.
 
-Adults: In clinical trials with quetiapine fumarate the following increases in weight have been reported.
+Adults:
+
+In clinical trials with quetiapine fumarate the following increases in weight have been reported.
 
 Table 6: Proportion of Patients With Weight Gain ≥ 7% of Body Weight (Adults)
 
@@ -216,6 +224,9 @@ After 26 weeks of treatment, the mean increase in body weight was 4.4 kg.
 Forty-five percent of the patients gained ≥ 7% of their body weight, not adjusted for normal growth.
 In order to adjust for normal growth over 26 weeks an increase of at least 0.5 standard deviation from baseline in BMI was used as a measure of a clinically significant change; 18.3% of patients on quetiapine fumarate met this criterion after 26 weeks of treatment.
 
+In a clinical trial for quetiapine fumarate extended-release in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of patients with weight gain ≥ 7% of body weight at any time was 15% (14/92) for quetiapine fumarate extended-release vs. 10% (10/100) for placebo.
+The mean change in body weight was 1.4 kg in the quetiapine fumarate extended-release group vs. 0.6 kg in the placebo group.
+
 When treating pediatric patients with quetiapine fumarate for any indication, weight gain should be assessed against that expected for normal growth.
 
 ## 5.6 Tardive Dyskinesia
@@ -246,14 +257,16 @@ Syncope was reported in 1% (28/3265) of the patients treated with quetiapine fum
 Orthostatic hypotension, dizziness, and syncope may lead to falls.
 
 Quetiapine fumarate should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia and treatment with antihypertensive medications).
-The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg twice daily [see Dosage and Administration (2.1)].
+The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg twice daily [see Dosage and Administration (2.2)].
 If hypotension occurs during titration to the target dose, a return to the previous dose in the titration schedule is appropriate.
 
 ## 5.8 Increases in Blood Pressure (Children and Adolescents)
 
-In placebo-controlled trials in children and adolescents with schizophrenia (6 week duration) or bipolar mania (3 week duration), the incidence of increases at any time in systolic blood pressure (≥ 20 mmHg) was 15.2% (51/335) for quetiapine fumarate and 5.5% (9/163) for placebo; the incidence of increases at any time in diastolic blood pressure (≥ 10 mmHg) was 40.6% (136/335) for quetiapine fumarate and 24.5% (40/163) for placebo.
-In the 26 week open-label clinical trial, one child with a reported history of hypertension experienced a hypertensive crisis.
+In placebo-controlled trials in children and adolescents with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of increases at any time in systolic blood pressure (≥ 20 mmHg) was 15.2% (51/335) for quetiapine fumarate and 5.5% (9/163) for placebo; the incidence of increases at any time in diastolic blood pressure (≥ 10 mmHg) was 40.6% (136/335) for quetiapine fumarate and 24.5% (40/163) for placebo.
+In the 26-week open-label clinical trial, one child with a reported history of hypertension experienced a hypertensive crisis.
 Blood pressure in children and adolescents should be measured at the beginning of, and periodically during treatment.
+
+In a placebo-controlled quetiapine fumarate extended-release clinical trial (8 weeks duration) in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the incidence of increases at any time in systolic blood pressure (≥ 20 mmHg) was 6.5% (6/92) for quetiapine fumarate extended-release and 6% (6/100) for placebo; the incidence of increases at any time in diastolic blood pressure (≥10 mmHg) was 46.7% (43/92) for quetiapine fumarate extended-release and 36% (36/100) for placebo.
 
 ## 5.9 Leukopenia, Neutropenia and Agranulocytosis
 
@@ -303,13 +316,17 @@ Therefore, both TSH and free T4, in addition to clinical assessment, should be m
 In the mania adjunct studies, where quetiapine fumarate was added to lithium or divalproex, 12% (24/196) of quetiapine fumarate treated patients compared to 7% (15/203) of placebo-treated patients had elevated TSH levels.
 Of the quetiapine fumarate treated patients with elevated TSH levels, 3 had simultaneous low free T4 levels (free T4 <0.8 LLN).
 
-In all quetiapine trials, the incidence of potentially clinically significant shifts in thyroid hormones and TSH werea: decrease in free T4 (free T4 <0.8 LLN), 2% (357/17513); decrease in total T4, 4% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2% (26/1312), and increase in TSH, 4.9% (956/19412).
+About 0.7% (26/3489) of quetiapine fumarate patients did experience TSH increases in monotherapy studies.
+Some patients with TSH increases needed replacement thyroid treatment.
+
+In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH werea: decrease in free T4 (free T4 <0.8 LLN), 2% (357/17513); decrease in total T4, 4% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2% (26/1312), and increase in TSH, 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
-Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
+Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
 Shifts in total T4, free T4, total T3 and free T3 are defined as < 0.8 x LLN (pmol/L) and shift in TSH is > 5 mIU/L at any time.
+Includes quetiapine fumarate and quetiapine fumarate extended-release data.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -320,7 +337,7 @@ In short-term placebo-controlled monotherapy trials, the incidence of reciprocal
 
 Children and Adolescents:
 
-In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6 week duration) or bipolar mania (3 week duration), the incidence of shifts to potentially clinically important thyroid function values at any time for quetiapine fumarate treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
+In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts for thyroid function values at any time for quetiapine fumarate treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
 Of the quetiapine fumarate treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
 
 ## 5.14 Hyperprolactinemia

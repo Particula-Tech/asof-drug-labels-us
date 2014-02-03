@@ -62,7 +62,7 @@ In vitro studies using human liver microsomes revealed that the cytochrome P450 
 
 Age
 
-Oral clearance of quetiapine was reduced by 40% in elderly patients (≥ 65 years, n = 9) compared to young patients (n = 12), and dosing adjustment may be necessary [see Dosage and Administration (2.2)].
+Oral clearance of quetiapine was reduced by 40% in elderly patients (≥ 65 years, n = 9) compared to young patients (n = 12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
 
 Gender
 
@@ -85,11 +85,11 @@ Hepatic Insufficiency
 
 Hepatically impaired patients (n = 8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
 In two of the 8 hepatically impaired patients, AUC and Cmax were 3 times higher than those observed typically in healthy subjects.
-Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
+Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
 
 Drug-Drug Interaction Studies
 
-The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.4 and 2.5) and Drug Interactions (7.1)].
+The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.5 and 2.6) and Drug Interactions (7.1)].
 
 Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 
@@ -97,8 +97,7 @@ Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 | --- | --- | --- | --- |
 | CoadministeredDrug | Quetiapine |  |  |
 | Phenytoin | 100 mg three times daily | 250 mg three times daily | 5 fold Increase in oral clearance |
-| Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state. |
-|  |  |  | No affect on absorption or mean oral clearance |
+| Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state. No effect on absorption or mean oral clearance |
 | Thioridazine | 200 mg twice daily | 300 mg twice daily | 65% increase in oral clearance |
 | Cimetidine | 400 mg three times daily for 4 days | 150 mg threetimes daily | 20% decrease in mean oral clearance |
 | Ketoconazole(potent CYP3A4 inhibitor) | 200 mg once daily for 4 days | 25 mg single dose | 84% decrease in oral clearance resulting in a 6.2 fold increasein AUC of quetiapine |
