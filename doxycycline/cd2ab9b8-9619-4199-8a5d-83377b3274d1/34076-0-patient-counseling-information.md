@@ -28,3 +28,14 @@ Patients should be counseled that antibacterial drugs including doxycycline hycl
 They do not treat viral infections (for example, the common cold).
 When doxycycline hyclate delayed-release tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by doxycycline hyclate delayed-release tablets or other antibacterial drugs in the future.
+
+## 17.1 Instructions for Breaking the 150 mg Doxycycline Hyclate Delayed-Release Dual-Scored Tablet
+
+The tablet is marked with separation lines (score lines) and may be broken at these score lines to provide any of the following doses.
+
+- 150 mg treatment (the entire tablet is taken)
+- 100 mg treatment (two thirds of the tablet or two 50 mg tablet segments are taken)
+- 50 mg treatment (one third of the tablet is taken)
+
+To break the tablet, the tablet is held between the thumbs and index fingers close to the appropriate score line.
+Then, with the score line facing the patient, enough pressure is applied to snap the tablet segments apart (segments that do not break along the score line should not be used).

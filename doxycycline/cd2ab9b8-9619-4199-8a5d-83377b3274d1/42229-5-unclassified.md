@@ -6,4 +6,4 @@ Manufactured by: Mayne Pharma International Pty Ltd 1538 Main North Road Salisbu
 
 Distributed by: Midlothian Laboratories Montgomery, AL 36117 USA 1-800-344-8661
 
-July 2013 501200/1
+Dec 2013 501200/2

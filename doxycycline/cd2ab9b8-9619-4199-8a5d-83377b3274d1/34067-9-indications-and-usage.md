@@ -32,7 +32,7 @@ Psittacosis (ornithosis) caused by Chlamydophila psittaci.
 
 Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
 
-Doxycycline is indicated for treatment of infections caused by the following microorganisms, when bacteriological testing indicates appropriate susceptibility to the drug:
+Doxycycline is indicated for treatment of infections caused by the following micro-organisms, when bacteriological testing indicates appropriate susceptibility to the drug:
 
 Respiratory tract infections caused by Haemophilus influenzae.
 
@@ -99,4 +99,4 @@ In severe acne, doxycycline may be useful adjunctive therapy.
 
 ## 1.9 Prophylaxis of malaria
 
-Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (less than 4 months) to areas with chloroquine and/or pyrimethamine- sulfadoxine resistant strains [see Dosage and Administration (2.2) and Patient Counseling Information (17)].
+Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (less than 4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [see Dosage and Administration (2.2) and Patient Counseling Information (17)].

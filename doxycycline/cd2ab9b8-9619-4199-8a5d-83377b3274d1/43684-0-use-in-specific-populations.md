@@ -34,6 +34,8 @@ Because of the effects of drugs of the tetracycline-class on tooth development a
 Clinical studies of doxycycline hyclate delayed-release tablets, USP did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
-Doxycycline hyclate delayed-release tablets, USP 75 mg tablets contain 4.5 mg (0.196 mEq) of sodium.
+Doxycycline hyclate delayed-release tablets, USP 75 mg contain 4.5 mg (0.196 mEq) of sodium.
 
-Doxycycline hyclate delayed-release tablets, USP 100 mg tablets contain 6 mg (0.261 mEq) of sodium.
+Doxycycline hyclate delayed-release tablets, USP 100 mg contain 6 mg (0.261 mEq) of sodium.
+
+Doxycycline hyclate delayed-release tablets, USP 150 mg contains 9 mg (0.392 mEq) of sodium.

@@ -29,3 +29,19 @@ Each tablet contains specially coated pellets of doxycycline hyclate equivalent 
 100 TABLETS Rx Only
 
 Midlothian LABORATORIES
+
+PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
+
+NDC 68308-715-10
+
+Doxycycline Hyclate Delayed-Release Tablets, USP
+
+150 mg
+
+Do not chew or crush tablets.
+
+Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 150 mg of doxycycline.
+
+100 TABLETS Rx Only
+
+Midlothian LABORATORIES

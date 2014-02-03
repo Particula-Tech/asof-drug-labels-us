@@ -9,7 +9,8 @@ Doxycycline is an antimicrobial drug [see Microbiology (12.4)].
 Doxycycline is virtually completely absorbed after oral administration.
 Following administration of a single 200 mg dose to adult volunteers, average peak serum doxycycline levels were 2.6 mcg/mL at 2 hours, decreasing to 1.45 mcg/mL at 24 hours.
 The mean Cmax and AUC0-∞ of doxycycline are 24% and 13% lower, respectively, following single dose administration of doxycycline hyclate delayed-release tablets, USP 100 mg with a high fat meal (including milk) compared to fasted conditions.
-The clinical significance of this decrease is unknown.
+The mean Cmax of doxycycline is 19% lower and the AUC0-∞ unchanged following single dose administration of doxycycline hyclate delayed-release tablets, 150 mg with high fat meal (including milk) compared to fasted conditions.
+The clinical significance of these differences is unknown.
 
 When doxycycline hyclate delayed-release tablets, USP are sprinkled over applesauce and taken with or without water, the extent of doxycycline absorption is unchanged, but the rate of absorption is increased slightly.
 
@@ -114,7 +115,7 @@ Table 2: Acceptable Quality Control Ranges for Susceptibility Testing for Doxycy
 | Enterococcus faecalis ATCC 29212 Doxycycline Tetracycline | 2-8 8-32 | - - | - - |
 | Escherichia coli ATCC 25922 Doxycycline Tetracycline | 0.5-2 0.5-2 | 18-24 18-25 | - - |
 | Haemophilus influenzae ATCC 49247 Tetracycline | 4-32 | 14-22 | - |
-| Neisseria gononhoeae ATCC 49226 Tetracycline | - | 30-42 | 0.25-1 |
+| Neisseria gonorrhoeae ATCC 49226 Tetracycline | - | 30-42 | 0.25-1 |
 | Staphylococcus aureus ATCC 25923 Doxycycline Tetracycline | - - | 23-29 24-30 | - - |
 | Staphylococcus aureus ATCC 29213 Doxycycline Tetracycline | 0.12-0.5 0.12-1 |  | - - |
 | Staphylococcus pneumoniae ATCC 49619 Doxycycline Tetracycline | 0.015-0.12 0.06-0.5 | 25-34 27-31 | - - |
