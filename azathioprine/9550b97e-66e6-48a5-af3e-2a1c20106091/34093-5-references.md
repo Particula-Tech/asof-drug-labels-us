@@ -101,6 +101,6 @@
 
 IMURAN® and ZYLOPRIM® are registered trademarks of Prometheus Laboratories Inc.
 
-PROMETHEUS LABORATORIES INC. Manufactured by XXXXXXXXXX for Prometheus Laboratories Inc. San Diego, CA 92121 © 2011 Prometheus Laboratories Inc.
+PROMETHEUS LABORATORIES INC. Manufactured by XXXXXXXXXX for Prometheus Laboratories Inc. San Diego, CA 92121 © 2001-2014 Prometheus Laboratories Inc.
 
-May 2011 IM014A
+January 2014 IM014B
