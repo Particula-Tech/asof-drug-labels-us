@@ -1,5 +1,24 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Doxorubicin has been used successfully to produce regression in disseminated neoplastic conditions such as acute lymphoblastic leukemia, acute myeloblastic leukemia, Wilms' tumor, neuroblastoma, soft tissue and bone sarcomas, breast carcinoma, ovarian carcinoma, transitional cell bladder carcinoma, thyroid carcinoma, gastric carcinoma, Hodgkin's disease, malignant lymphoma, and bronchogenic carcinoma in which the small cell histologic type is the most responsive compared to other cell types.
+## 1.1 Adjuvant Breast Cancer
 
-Doxorubicin is also indicated for use as a component of adjuvant therapy in women with evidence of axillary lymph node involvement following resection of primary breast cancer.
+Doxorubicin HCl is indicated as a component of multi-agent adjuvant chemotherapy for treatment of women with axillary lymph node involvement following resection of primary breast cancer [see Clinical Studies (14.1)].
+
+## 1.2 Other Cancers
+
+Doxorubicin HCl is indicated for the treatment of
+
+- acute lymphoblastic leukemia
+- acute myeloblastic leukemia
+- Hodgkin lymphoma
+- non-Hodgkin lymphoma (NHL)
+- metastatic breast cancer
+- metastatic Wilms' tumor
+- metastatic neuroblastoma
+- metastatic soft tissue sarcoma
+- metastatic bone sarcoma
+- metastatic ovarian carcinoma
+- metastatic transitional cell bladder carcinoma
+- metastatic thyroid carcinoma
+- metastatic gastric carcinoma
+- metastatic bronchogenic carcinoma

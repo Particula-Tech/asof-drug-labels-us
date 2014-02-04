@@ -1,4 +1,9 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Patients should not be treated with doxorubicin if they have any of the following conditions: baseline neutrophil count <1500 cells/mm3; severe hepatic impairment; recent myocardial infarction; severe myocardial insufficiency; severe arrhythmias; previous treatment with complete cumulative doses of doxorubicin, daunorubicin, idarubicin, and/or other anthracyclines and anthracenediones; or hypersensitivity to doxorubicin, any of its excipients, or other anthracyclines or anthracenediones.
-[See WARNINGS and DOSAGE AND ADMINISTRATION.]
+Doxorubicin HCl is contraindicated in patients with:
+
+- Severe myocardial insufficiency [see Warnings and Precautions (5.1)]
+- Recent (occurring within the past 4–6 weeks) myocardial infarction [see Warnings and Precautions (5.1)]
+- Severe persistent drug-induced myelosuppression [see Warnings and Precautions (5.4)]
+- Severe hepatic impairment (defined as Child Pugh Class C or serum bilirubin level greater than 5 mg/dL) [see Warnings and Precautions (5.5)]
+- Severe hypersensitivity reaction to doxorubicin HCl including anaphylaxis [see Adverse Reactions (6.2)]

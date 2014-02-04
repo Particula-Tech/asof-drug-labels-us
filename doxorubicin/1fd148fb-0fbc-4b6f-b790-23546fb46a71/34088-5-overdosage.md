@@ -1,8 +1,10 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Acute overdosage with doxorubicin enhances the toxic effect of mucositis, leukopenia, and thrombocytopenia.
-Treatment of acute overdosage consists of treatment of the severely myelosuppressed patient with hospitalization, antimicrobials, platelet transfusions, and symptomatic treatment of mucositis.
-Use of hemopoietic growth factor (G-CSF, GM-CSF) may be considered.
-The 150 mg doxorubicin hydrochloride for injection and the 75 mL and 100 mL (2 mg/mL) doxorubicin hydrochloride injection vials are packaged as multiple dose vials and caution should be exercised to prevent inadvertent overdosage.
-Cumulative dosage with doxorubicin increases the risk of cardiomyopathy and resultant congestive heart failure (see WARNINGS).
-Treatment consists of vigorous management of congestive heart failure with digitalis preparations, diuretics, and after-load reducers such as ACE inhibitors.
+Few cases of overdose have been described.
+A 58-year-old man with acute lymphoblastic leukemia received 10-fold overdose of doxorubicin HCl (300 mg/m2) in one day.
+He was treated with charcoal filtration, hemopoietic growth factor (G-CSF), proton pump inhibitor and antimicrobial prophylaxis.
+The patient suffered sinus tachycardia, grade 4 neutropenia and thrombocytopenia for 11 days, severe mucositis and sepsis.
+The patient recovered completely 26 days after the overdose.
+A 17-year-old girl with osteogenic sarcoma received 150 mg of doxorubicin HCl daily for 2 days (intended dose was 50 mg per day for 3 days).
+The patient developed severe mucositis on days 4–7 after the overdose and chills and pyrexia on day 7.
+The patient was treated with antibiotics and platelets and recovered 18 days after overdose.

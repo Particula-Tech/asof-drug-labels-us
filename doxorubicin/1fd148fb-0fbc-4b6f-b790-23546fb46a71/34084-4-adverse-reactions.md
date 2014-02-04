@@ -1,78 +1,67 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Dose limiting toxicities of therapy are myelosuppression and cardiotoxicity.
-Other reactions reported are:
+The following adverse reactions are discussed in more detail in other sections of the labeling.
 
-Cardiotoxicity (See WARNINGS.)
+- Cardiomyopathy and Arrhythmias [see Warnings and Precautions (5.1)]
+- Secondary Malignancies [see Warnings and Precautions (5.2)]
+- Extravasation and Tissue Necrosis [see Warnings and Precautions (5.3)]
+- Severe Myelosuppression [see Warnings and Precautions (5.4)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.6)]
+- Radiation Sensitization and Radiation Recall [see Warnings and Precautions (5.7)]
 
-Cutaneous – Reversible complete alopecia occurs in most cases.
-Hyperpigmentation of nailbeds and dermal creases, primarily in pediatric patients, and onycholysis have been reported in a few cases.
-Radiation recall reaction has occurred with doxorubicin administration.
-Rash, itching, or photosensitivity may occur.
+## 6.1 Clinical Trial Experience in Breast Cancer
 
-Gastrointestinal – Acute nausea and vomiting occurs frequently and may be severe.
-This may be alleviated by antiemetic therapy.
-Mucositis (stomatitis and esophagitis) may occur within 5 to 10 days of beginning therapy, and most patients recover from this adverse event within another 5 to 10 days.
-The effect may be severe, leading to ulceration and represents a site of origin for severe infections.
-The dosage regimen consisting of administration of doxorubicin on three successive days results in greater incidence and severity of mucositis.
-Ulceration and necrosis of the colon, especially the cecum, may occur, leading to bleeding or severe infections which can be fatal.
-This reaction has been reported in patients with acute non-lymphocytic leukemia treated with a 3-day course of doxorubicin combined with cytarabine.
-Anorexia, abdominal pain, dehydration, diarrhea, and hyperpigmentation of the oral mucosa have been occasionally reported.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Hematologic – (See WARNINGS.)
+The safety data below were collected from 1492 women who received doxorubicin HCl at a dose of 60 mg/m2 and cyclophosphamide at a dose of 600 mg/m2 (AC) every 3 weeks for 4 cycles for the adjuvant treatment of axillary lymph node positive breast cancer.
+The median number of cycles received was 4.
+Selected adverse reactions reported in this study are provided in Table 1.
+No treatment-related deaths were reported in patients on either arm of the study.
 
-Hypersensitivity – Fever, chills, and urticaria have been reported occasionally.
-Anaphylaxis may occur.
-A case of apparent cross sensitivity to lincomycin has been reported.
-
-Neurological – Peripheral neurotoxicity in the form of local-regional sensory and/or motor disturbances have been reported in patients treated intra-arterially with doxorubicin, mostly in combination with cisplatin.
-Animal studies have demonstrated seizures and coma in rodents and dogs treated with intra-carotid doxorubicin.
-Seizures and coma have been reported in patients treated with doxorubicin in combination with cisplatin or vincristine.
-
-Ocular – Conjunctivitis, keratitis, and lacrimation occur rarely.
-
-Other – Malaise/asthenia have been reported.
-
-## Adverse Reactions in Patients with Early Breast Cancer Receiving Doxorubicin-Containing Adjuvant Therapy
-
-Safety data were collected from approximately 2300 women who participated in a randomized, open-label trial (NSABP B-15) evaluating the use of AC versus CMF in the treatment of early breast cancer involving axillary lymph nodes.
-In the safety analysis, the follow-up data from all patients receiving AC were combined (N=1492 evaluable patients) and compared with data from patients receiving conventional CMF (i.e., oral cyclophosphamide; N=739 evaluable patients).
-The most relevant adverse events reported in this study are provided in Table 2.
-
-Table 2.
-Relevant Adverse Events in Patients with Early Breast Cancer Involving Axillary Lymph Nodes
+Table 1.
+Selected Adverse Reactions in Patients with Early Breast Cancer Involving Axillary Lymph Nodes
 
 |  | N=1492 | N=739 |
 | --- | --- | --- |
 |  | ACIncludes pooled data from patients who received either AC alone for 4 cycles, or who were treated with AC for 4 cycles followed by 3 cycles of CMF | Conventional CMF |
-| Treatment administration |  |  |
-| Mean number of cycles | 3.8 | 5.5 |
-| Total cycles | 5676 | 4068 |
-| Adverse events, % of patients |  |  |
+| Adverse reactions, % of patients |  |  |
 | Leukopenia |  |  |
 | Grade 3 (1,000–1,999 /mm3) | 3.4 | 9.4 |
 | Grade 4 (<1000 /mm3) | 0.3 | 0.3 |
 | Thrombocytopenia |  |  |
 | Grade 3 (25,000–49,999 /mm3) | 0 | 0.3 |
 | Grade 4 (<25,000 /mm3) | 0.1 | 0 |
-| Shock, sepsis | 1.5 | 0.9 |
-| Systemic infection | 2.4 | 1.2 |
-| Nausea and vomiting |  |  |
-| Nausea only | 15.5 | 42.8 |
-| Vomiting ≤12 hours | 34.4 | 25.2 |
-| Vomiting >12 hours | 36.8 | 12.0 |
-| Intractable | 4.7 | 1.6 |
-| Alopecia | 92.4 | 71.4 |
-| Partial | 22.9 | 56.3 |
-| Complete | 69.5 | 15.1 |
-| Weight loss |  |  |
-| 5–10% | 6.2 | 5.7 |
-| >10% | 2.4 | 2.8 |
-| Weight gain |  |  |
-| 5–10% | 10.6 | 27.9 |
-| >10% | 3.8 | 14.3 |
-| Cardiac function |  |  |
+| Shock, sepsis | 2 | 1 |
+| Systemic infection | 2 | 1 |
+| Vomiting |  |  |
+| Vomiting ≤12 hours | 34 | 25 |
+| Vomiting >12 hours | 37 | 12 |
+| Intractable | 5 | 2 |
+| Alopecia | 92 | 71 |
+| Cardiac dysfunction |  |  |
 | Asymptomatic | 0.2 | 0.1 |
 | Transient | 0.1 | 0 |
 | Symptomatic | 0.1 | 0 |
-| Treatment-related death | 0 | 0 |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of doxorubicin HCl.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Cardiac – cardiogenic shock
+
+Cutaneous –Skin and nail hyperpigmentation, oncolysis, rash, itching, photosensitivity, urticaria, acral erythema, palmar plantar erythrodysesthesia
+
+Gastrointestinal – Nausea, mucositis, stomatitis, necrotizing colitis, typhlitis, gastric erosions, gastrointestinal tract bleeding, hematochezia, esophagitis, anorexia, abdominal pain, dehydration, diarrhea, hyperpigmentation of the oral mucosa
+
+Hypersensitivity – Anaphylaxis
+
+Laboratory Abnormalities –Increased alanine aminotransferase, increased aspartate aminotransferase
+
+Neurological – Peripheral sensory and motor neuropathy, seizures, coma
+
+Ocular – Conjunctivitis, keratitis, lacrimation
+
+Vascular – Phlebosclerosis, phlebitis/thrombophlebitis, hot flashes, thromboembolism
+
+Other – Malaise/asthenia, fever, chills, weight gain
