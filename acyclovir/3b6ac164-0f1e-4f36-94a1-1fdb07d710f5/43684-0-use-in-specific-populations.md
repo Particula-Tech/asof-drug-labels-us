@@ -2,12 +2,10 @@
 
 ## 8.1 Pregnancy
 
-Category B
-
 Teratogenic Effects
 
-Acyclovir was not teratogenic in the mouse, rabbit or rat at exposures greatly in excess of human exposure.
-There are no adequate and well-controlled studies of systemic acyclovir in pregnant women.
+Pregnancy Category B. Acyclovir was not teratogenic in the mouse, rabbit or rat at exposures greatly in excess of human exposure.
+There are no adequate and well-controlled trials of systemic acyclovir in pregnant women.
 A prospective epidemiologic registry of acyclovir use during pregnancy between 1984 and 1999 followed 749 pregnancies in women exposed to systemic acyclovir during the first trimester of pregnancy resulting in 756 outcomes.
 The occurrence rate of birth defects approximated that found in the general population.
 However, the size of the registry was insufficient to evaluate the risk for less common defects or to permit reliable or definitive conclusions regarding the safety of acyclovir in pregnant women and their developing fetuses.
@@ -16,7 +14,7 @@ Corticosteroids are generally teratogenic in laboratory animals when administere
 The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 
 Animal reproduction studies have not been conducted with XERESE.
-No studies have been performed in pregnant women.
+No trials have been performed in pregnant women.
 Systemic exposure of acyclovir and hydrocortisone following topical administration of XERESE is minimal.
 
 ## 8.3 Nursing Mothers
@@ -27,7 +25,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric subjects less than 12 years of age have not been established.
+Safety and effectiveness in pediatric subjects less than 6 years of age have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -39,7 +37,7 @@ Even though the safety of XERESE has been studied in immunocompromised subjects,
 Immunocompromised subjects should be encouraged to consult a physician concerning the treatment of any infection.
 
 Benefit has not been adequately assessed in immunocompromised patients.
-A randomized, double-blind study was conducted in 107 immunocompromised subjects with stable HIV infection and recurrent herpes labialis.
+A randomized, double-blind trial was conducted in 107 immunocompromised subjects with stable HIV infection and recurrent herpes labialis.
 Subjects had on average 3.7 episodes of herpes labialis in the previous 12 months.
 The median age was 30 years (range 19 to 64 years), 46% were female, and all Caucasian.
 Median CD4+ T-cell count at screening was 344/mm3 (range 100-500/mm3).

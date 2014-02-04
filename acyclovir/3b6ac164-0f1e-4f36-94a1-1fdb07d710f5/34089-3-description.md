@@ -2,7 +2,7 @@
 
 XERESE contains acyclovir, a synthetic nucleoside analogue active against herpes viruses, and hydrocortisone, an anti-inflammatory corticosteroid, combined in a cream for topical administration.
 Each gram of XERESE contains 5% (w/w) of acyclovir, 1% (w/w) of hydrocortisone and the following inactive ingredients: cetostearyl alcohol, mineral oil, Poloxamer 188, propylene glycol, isopropyl myristate, sodium lauryl sulfate, white petrolatum, citric acid, sodium hydroxide and water.
-Sodium hydroxide or hydrochloric acid may be added to adjust the pH to approximately pH 5.
+Sodium hydroxide or hydrochloric acid may have been added to adjust the pH to approximately pH 5.
 
 Acyclovir, 2-amino-1,9-dihydro-9-[(2-hydroxyethoxy)methyl]-6H-purin-6-one, is a synthetic nucleoside analogue active against herpes viruses.
 The maximum solubility of acyclovir in water at 37°C is 2.5 mg/mL.

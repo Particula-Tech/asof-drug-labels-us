@@ -5,4 +5,4 @@ Therapy should be initiated as early as possible after the first signs and sympt
 
 For each dose, topically apply a quantity of XERESE sufficient to cover the affected area, including the outer margin.
 Avoid unnecessary rubbing of the affected area to avoid aggravating or transferring the infection.
-For adolescents 12 years of age and older, the dosage is the same as in adults.
+For children 6 years of age and older, the dosage is the same as in adults.
