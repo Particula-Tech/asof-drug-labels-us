@@ -50,7 +50,9 @@ These MICs provide estimates of the susceptibility of bacteria to antimicrobial 
 The MICs should be determined using a standardized procedure.
 Standardized procedures are based on dilution methods (broth or agar)2,3 or equivalent with standardized inoculum concentrations and standardized concentrations of ampicillin powder.
 The MIC values should be interpreted according to the criteria in Table 4.
-Diffusion Techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+Diffusion Techniques:
+
+Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 10 mcg ampicillin to test the susceptibility of bacteria to ampicillin.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for amoxicillin.
