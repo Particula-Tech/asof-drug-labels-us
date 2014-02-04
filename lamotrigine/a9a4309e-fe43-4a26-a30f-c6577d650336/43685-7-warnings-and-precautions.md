@@ -13,7 +13,7 @@ Adult Populatio: Serious rash associated with hospitalization and discontinuatio
 In the bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received lamotrigine as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received lamotrigine as adjunctive therapy.
 No fatalities occurred among these individuals.
 However, in worldwide postmarketing experience, rare cases of rash-related death have been reported, but their numbers are too few to permit a precise estimate of the rate.
-Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.2)] .
+Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.2)].
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered lamotrigine in the absence of valproate were hospitalized.
 Patients With History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation of lamotrigine is exceeded and in patients with a history of allergy or rash to other AEDs.
@@ -35,7 +35,7 @@ Prior to initiation of treatment with lamotrigine, the patient should be instruc
 
 ## 5.3 Blood Dyscrasias
 
-There have been reports of blood dyscrasias that may or may not be associated with multiorgan hypersensitivity (also known as DRESS) [see Warnings and Precautions (5.2)] .
+There have been reports of blood dyscrasias that may or may not be associated with multiorgan hypersensitivity (also known as DRESS) [see Warnings and Precautions (5.2)].
 These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytopenia, and, rarely, aplastic anemia and pure red cell aplasia.
 
 ## 5.4 Suicidal Behavior and Ideation
@@ -71,14 +71,14 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.5 Use in Patients With Bipolar Disorder
 
-Acute Treatment of Mood Episodes : Safety and effectiveness of lamotrigine in the acute treatment of mood episodes have not been established.
-Children and Adolescents (less than 18 years of age) : Safety and effectiveness of lamotrigine in patients below the age of 18 years with mood disorders have not been established [see Warnings and Precautions (5.4)] .
-Clinical Worsening and Suicide Risk Associated With Bipolar Disorder :Patients with bipolar disorder may experience worsening of their depressive symptoms and/or the emergence of suicidal ideation and behaviors (suicidality) whether or not they are taking medications for bipolar disorder.
+Acute Treatment of Mood Episodes: Safety and effectiveness of lamotrigine in the acute treatment of mood episodes have not been established.
+Children and Adolescents (less than 18 years of age): Safety and effectiveness of lamotrigine in patients below the age of 18 years with mood disorders have not been established [see Suicidal Behavior and Ideation (5.4)].
+Clinical Worsening and Suicide Risk Associated With Bipolar Disorder: Patients with bipolar disorder may experience worsening of their depressive symptoms and/or the emergence of suicidal ideation and behaviors (suicidality) whether or not they are taking medications for bipolar disorder.
 Patients should be closely monitored for clinical worsening (including development of new symptoms) and suicidality, especially at the beginning of a course of treatment or at the time of dose changes.
-In addition, patients with a history of suicidal behavior or thoughts, those patients exhibiting a significant degree of suicidal ideation prior to commencement of treatment, and young adults are at an increased risk of suicidal thoughts or suicide attempts, and should receive careful monitoring during treatment [see Warnings and Precautions (5.4)] .
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients who experience clinical worsening (including development of new symptoms) and/or the emergence of suicidal ideation/behavior especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+In addition, patients with a history of suicidal behavior or thoughts, those patients exhibiting a significant degree of suicidal ideation prior to commencement of treatment, and young adults are at an increased risk of suicidal thoughts or suicide attempts, and should receive careful monitoring during treatment [see Suicidal Behavior and Ideation (5.4)].
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients who experience clinical worsening (including development of new symptoms) and/or the emergence of suicidal ideation/behavior especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Prescriptions for lamotrigine should be written for the smallest quantity of tablets consistent with good patient management in order to reduce the risk of overdose.
-Overdoses have been reported for lamotrigine, some of which have been fatal [see Overdosage (10.1)] .
+Overdoses have been reported for lamotrigine, some of which have been fatal [see Overdosage (10.1)].
 
 ## 5.6 Aseptic Meningitis
 
@@ -106,8 +106,8 @@ To avoid the medication error of using the wrong drug or formulation, patients s
 
 ## 5.8 Concomitant Use With Oral Contraceptives
 
-Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see Clinical Pharmacology (12.3)] .
-Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking lamotrigine [see Dosage and Administration (2.1)] .
+Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see Clinical Pharmacology (12.3)].
+Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking lamotrigine [see Dosage and Administration (2.1)].
 During the week of inactive hormone preparation (“pill-free” week) of oral contraceptive therapy, plasma lamotrigine levels are expected to rise, as much as doubling at the end of the week.
 Adverse reactions consistent with elevated levels of lamotrigine, such as dizziness, ataxia, and diplopia, could occur.
 
@@ -116,13 +116,13 @@ Adverse reactions consistent with elevated levels of lamotrigine, such as dizzin
 As with other AEDs, lamotrigine should not be abruptly discontinued.
 In patients with epilepsy there is a possibility of increasing seizure frequency.
 In clinical trials in patients with Bipolar Disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine; however, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients.
-Unless safety concerns require a more rapid withdrawal, the dose of lamotrigine should be tapered over a period of at least 2 weeks (approximately 50% reduction per week) [see Dosage and Administration (2.1)] .
+Unless safety concerns require a more rapid withdrawal, the dose of lamotrigine should be tapered over a period of at least 2 weeks (approximately 50% reduction per week) [see Dosage and Administration (2.1)].
 
 ## 5.10 Status Epilepticus
 
 Valid estimates of the incidence of treatment-emergent status epilepticus among patients treated with lamotrigine are difficult to obtain because reporters participating in clinical trials did not all employ identical rules for identifying cases.
 At a minimum, 7 of 2,343 adult patients had episodes that could unequivocally be described as status epilepticus.
-In addition, a number of reports of variably defined episodes of seizure exacerbation (e.g., seizure clusters, seizure flurries, etc.) were made.
+In addition, a number of reports of variably defined episodes of seizure exacerbation (e.g., seizure clusters, seizure flurries) were made.
 
 ## 5.11 Sudden Unexplained Death in Epilepsy (SUDEP)
 
@@ -144,7 +144,7 @@ Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigin
 Because lamotrigine binds to melanin, it could accumulate in melanin-rich tissues over time.
 This raises the possibility that lamotrigine may cause toxicity in these tissues after extended use.
 Although ophthalmological testing was performed in one controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long-term exposure.
-Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine's binding to melanin is unknown [see Clinical Pharmacology (12.2)] .
+Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine's binding to melanin is unknown [see Clinical Pharmacology (12.2)].
 Accordingly, although there are no specific recommendations for periodic ophthalmological monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects.
 
 ## 5.14 Laboratory Tests

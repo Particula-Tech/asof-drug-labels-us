@@ -15,5 +15,5 @@ Safety and effectiveness of lamotrigine tablets USP have not been established (1
 
 Lamotrigine tablets USP are indicated for the maintenance treatment of Bipolar I Disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in adults (≥18 years of age) treated for acute mood episodes with standard therapy.
 The effectiveness of lamotrigine tablets USP in the acute treatment of mood episodes has not been established.
-The effectiveness of lamotrigine tablets USP as maintenance treatment was established in 2 placebo-controlled trials in patients with Bipolar I Disorder as defined by DSM-IV [see Clinical Studies (14.2)] .
+The effectiveness of lamotrigine tablets USP as maintenance treatment was established in 2 placebo-controlled trials in patients with Bipolar I Disorder as defined by DSM-IV [see Clinical Studies (14.2)].
 The physician who elects to prescribe lamotrigine tablets USP for periods extending beyond 16 weeks should periodically re-evaluate the long-term usefulness of the drug for the individual patient.

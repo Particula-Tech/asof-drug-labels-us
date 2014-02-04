@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Lamotrigine Tablets USP Read this Medication Guide before you start taking lamotrigine tablets and each time you get a refill.
+Lamotrigine Tablets USP (la moe' tri jeen) Read this Medication Guide before you start taking lamotrigine tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 If you have questions about lamotrigine tablets, ask your healthcare provider or pharmacist.
@@ -201,4 +201,4 @@ Active ingredient: lamotrigine.
 Inactive ingredients: microcrystalline cellulose, lactose monohydrate, povidone, sodium starch glycolate, magnesium stearate; FD&C yellow No 6 (100 mg tablet only); ferric oxide yellow (150 mg tablet only); and FD&C blue No 2 lake (200 mg tablet only).
 DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 09/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 01/2014
