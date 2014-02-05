@@ -16,14 +16,15 @@ The occurrence of higher rates of these reactions in countries with higher frequ
 Across Asian populations, notable variation exists in the prevalence of HLA-B*1502.
 Greater than 15% of the population is reported positive in Hong Kong, Thailand, Malaysia, and parts of the Philippines, compared to about 10% in Taiwan and 4% in North China.
 South Asians, including Indians, appear to have intermediate prevalence of HLA-B*1502, averaging 2 to 4%, but higher in some groups.
-HLA-B*1502 is present in <1% of the population in Japan and Korea.
+HLA-B*1502 is present in less than 1% of the population in Japan and Korea.
 
-HLA-B*1502 is largely absent in individuals not of Asian origin (e.g., Caucasians, African-Americans, Hispanics, and Native Americans).
+HLA-B*1502 is largely absent in individuals not of Asian origin (e.g.
+Caucasians, African-Americans, Hispanics, and Native Americans).
 
 Prior to initiating Tegretol therapy, testing for HLA-B*1502 should be performed in patients with ancestry in populations in which HLA-B*1502 may be present.
 In deciding which patients to screen, the rates provided above for the prevalence of HLA-B*1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
 Tegretol should not be used in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.
-Tested patients who are found to be negative for the allele are thought to have a low risk of SJS/TEN (see WARNINGS and PRECAUTIONS, Laboratory Tests).
+Tested patients who are found to be negative for the allele are thought to have a low risk of SJS/TEN (see BOXED WARNING and PRECAUTIONS, Laboratory Tests).
 
 Over 90% of Tegretol treated patients who will experience SJS/TEN have this reaction within the first few months of treatment.
 This information may be taken into consideration in determining the need for screening of genetically at-risk patients currently on Tegretol.
@@ -51,21 +52,21 @@ The role of other possible factors in the development of, and morbidity from, SJ
 Aplastic anemia and agranulocytosis have been reported in association with the use of TEGRETOL (see BOXED WARNING).
 Patients with a history of adverse hematologic reaction to any drug may be particularly at risk of bone marrow depression.
 
-## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity
+## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
-Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan hypersensitivity, has occurred with Tegretol.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has occurred with Tegretol.
 Some of these events have been fatal or life-threatening.
 DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 This disorder is variable in its expression, and other organ systems not noted here may be involved.
-It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
+It is important to note that early manifestations of hypersensitivity (e.g. fever, lymphadenopathy) may be present even though rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.
 Tegretol should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
 Hypersensitivity
 
 Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to anticonvulsants including phenytoin, primidone, and phenobarbital.
-If such history is present, benefits and risks should be carefully considered, and, if carbamazepine is initiated, the signs and symptoms of hypersensitivity should be carefully monitored.
+If such history is present, benefits and risks should be carefully considered and, if carbamazepine is initiated, the signs and symptoms of hypersensitivity should be carefully monitored.
 
 In patients who have exhibited hypersensitivity reactions to carbamazepine, approximately 25 to 30% may experience hypersensitivity reactions with oxcarbazepine (Trileptal®).
 
@@ -83,7 +84,7 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
@@ -110,7 +111,7 @@ Tegretol has shown mild anticholinergic activity; therefore, patients with incre
 
 Because of the relationship of the drug to other tricyclic compounds, the possibility of activation of a latent psychosis and, in elderly patients, of confusion or agitation should be borne in mind.
 
-The use of Tegretol should be avoided in patients with a history of hepatic porphyria (e.g., acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
+The use of Tegretol should be avoided in patients with a history of hepatic porphyria (e.g. acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
 Acute attacks have been reported in such patients receiving Tegretol therapy.
 Carbamazepine administration has also been demonstrated to increase porphyrin precursors in rodents, a presumed mechanism for the induction of acute attacks of porphyria.
 
@@ -121,17 +122,17 @@ As with all antiepileptic drugs, Tegretol should be withdrawn gradually to minim
 Carbamazepine can cause fetal harm when administered to a pregnant woman.
 
 Epidemiological data suggest that there may be an association between the use of carbamazepine during pregnancy and congenital malformations, including spina bifida.
-There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g., craniofacial defects, cardiovascular malformations, hypospadias, and anomalies involving various body systems).
+There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g. craniofacial defects, cardiovascular malformations, hypospadias, and anomalies involving various body systems).
 Developmental delays based on neurobehavioral assessments have been reported.
-In treating or counseling women of childbearing potential, the prescribing physician will wish to weigh the benefits of therapy against the risks.
+When treating or counseling women of childbearing potential, the prescribing physician will wish to weigh the benefits of therapy against the risks.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
 Retrospective case reviews suggest that, compared with monotherapy, there may be a higher prevalence of teratogenic effects associated with the use of anticonvulsants in combination therapy.
 Therefore, if therapy is to be continued, monotherapy may be preferable for pregnant women.
 
-In humans, transplacental passage of carbamazepine is rapid (30-60 minutes), and the drug is accumulated in the fetal tissues, with higher levels found in liver and kidney than in brain and lung.
+In humans, transplacental passage of carbamazepine is rapid (30 to 60 minutes), and the drug is accumulated in the fetal tissues, with higher levels found in liver and kidney than in brain and lung.
 
-Carbamazepine has been shown to have adverse effects in reproduction studies in rats when given orally in dosages 10-25 times the maximum human daily dosage (MHDD) of 1200 mg on a mg/kg basis or 1.5-4 times the MHDD on a mg/m2 basis.
+Carbamazepine has been shown to have adverse effects in reproduction studies in rats when given orally in dosages 10 to 25 times the maximum human daily dosage (MHDD) of 1200 mg on a mg/kg basis or 1.5 to 4 times the MHDD on a mg/m2 basis.
 In rat teratology studies, 2 of 135 offspring showed kinked ribs at 250 mg/kg and 4 of 119 offspring at 650 mg/kg showed other anomalies (cleft palate, 1; talipes, 1; anophthalmos, 2).
 In reproduction studies in rats, nursing offspring demonstrated a lack of weight gain and an unkempt appearance at a maternal dosage level of 200 mg/kg.
 
@@ -163,6 +164,10 @@ This occurred generally, but not solely, in patients with underlying EKG abnorma
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
 In some cases, hepatic effects may progress despite discontinuation of the drug.
+In addition rare instances of vanishing bile duct syndrome have been reported.
+This syndrome consists of a cholestatic process with a variable clinical course ranging from fulminant to indolent, involving the destruction and disappearance of the intrahepatic bile ducts.
+Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions.
+As an example there has been a report of vanishing bile duct syndrome associated with Stevens-Johnson syndrome and in another case an association with fever and eosinophilia.
 
 Since a given dose of Tegretol suspension will produce higher peak levels than the same dose given as the tablet, it is recommended that patients given the suspension be started on lower doses and increased slowly to avoid unwanted side effects (see DOSAGE AND ADMINISTRATION).
 
@@ -223,7 +228,7 @@ Interference with some pregnancy tests has been reported.
 ## Drug Interactions
 
 There has been a report of a patient who passed an orange rubbery precipitate in his stool the day after ingesting Tegretol suspension immediately followed by Thorazine®* solution.
-Subsequent testing has shown that mixing Tegretol suspension and chlorpromazine solution (both generic and brand name) as well as Tegretol suspension and liquid Mellaril® resulted in the occurrence of this precipitate.
+Subsequent testing has shown that mixing Tegretol suspension and chlorpromazine solution (both generic and brand name) as well as Tegretol suspension and liquid Mellaril®, resulted in the occurrence of this precipitate.
 Because the extent to which this occurs with other liquid medications is not known, Tegretol suspension should not be administered simultaneously with other liquid medicinal agents or diluents (see DOSAGE AND ADMINISTRATION).
 
 Clinically meaningful drug interactions have occurred with concomitant medications and include, but are not limited to, the following:
@@ -234,20 +239,24 @@ When carbamazepine is given with drugs that can increase or decrease carbamazepi
 
 Agents That Increase Carbamazepine Levels
 
-CYP 3A4 inhibitors inhibit Tegretol metabolism and can thus increase plasma carbamazepine levels.
-Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include: Aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, nefazodone, trazodone, loxapine,* olanzapine, quetiapine*, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, protease inhibitors, valproate*. *increased levels of the active carbamazepine-10,11-epoxide †decreased levels of carbamazepine and increased levels of the 10,11-epoxide
+CYP3A4 inhibitors inhibit Tegretol metabolism and can thus increase plasma carbamazepine levels.
+Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include:
+
+aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, nefazodone, trazodone, loxapine,* olanzapine, quetiapine*, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, protease inhibitors, valproate*.
 
 Agents That Decrease Carbamazepine Levels
 
-CYP 3A4 inducers can increase the rate of Tegretol metabolism.
-Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include: cisplatin, doxorubicin HCl, felbamate†, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline.
+CYP3A4 inducers can increase the rate of Tegretol metabolism.
+Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include:
+
+cisplatin, doxorubicin HCl, felbamate†, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline. ___________________________________________________________________________________________________ *increased levels of the active carbamazepine-10,11-epoxide †decreased levels of carbamazepine and increased levels of the 10,11-epoxide
 
 ## Effect of Tegretol on Plasma Levels of Concomitant Agents
 
 Decreased Levels of Concomitant Medications
 
-Tegretol is a potent inducer of hepatic CYP 3A4 and may therefore reduce plasma concentrations of comedications mainly metabolized by CYP3A4 through induction of their metabolism.
-Tegretol causes, or would be expected to cause, decreased levels of the following: acetaminophen, albendazole, alprazolam, aprepitant, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g., prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
+Tegretol is a potent inducer of hepatic CYP3A4 and may therefore reduce plasma concentrations of comedications mainly metabolized by CYP3A4 through induction of their metabolism.
+Tegretol causes, or would be expected to cause, decreased levels of the following: acetaminophen, albendazole, alprazolam, aprepitant, buprenorphone, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g. prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g. felodipine), doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, mianserin, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, sertraline, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g. imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
 
 In concomitant use with Tegretol, monitoring of concentrations or dosage adjustment of the above agents may be necessary.
 
@@ -262,7 +271,7 @@ When carbamazepine is withdrawn from the combination therapy, the aripiprazole d
 When carbamazepine is used with tacrolimus, monitoring of tacrolimus blood concentrations and appropriate dosage adjustments are recommended.
 
 The use of concomitant strong CYP3A4 inducers such as carbamazepine should be avoided with temsirolimus.
-Based on pharmacokinetic studies, if patients must be co-administered carbamazepine with temsirolimus, an adjustment of temsirolimus dosage should be considered.
+Based on pharmacokinetic studies, if patients must be coadministered carbamazepine with temsirolimus, an adjustment of temsirolimus dosage should be considered.
 
 The use of carbamazepine with lapatinib should generally be avoided.
 Dosage adjustment should be considered if lapatinib is coadministered with carbamazepine.
@@ -282,7 +291,7 @@ Concomitant medication with Tegretol and some diuretics (hydrochlorothiazide, fu
 
 Alterations of thyroid function have been reported in combination therapy with other anticonvulsant medications.
 
-Concomitant use of Tegretol with hormonal contraceptive products (e.g., oral, and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
+Concomitant use of Tegretol with hormonal contraceptive products (e.g. oral, and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
 Breakthrough bleeding and unintended pregnancies have been reported.
 Alternative or back-up methods of contraception should be considered.
 
@@ -310,7 +319,7 @@ The effect of Tegretol on human labor and delivery is unknown.
 
 Tegretol and its epoxide metabolite are transferred to breast milk.
 The ratio of the concentration in breast milk to that in maternal plasma is about 0.4 for Tegretol and about 0.5 for the epoxide.
-The estimated doses given to the newborn during breast-feeding are in the range of 2-5 mg daily for Tegretol and 1-2 mg daily for the epoxide.
+The estimated doses given to the newborn during breastfeeding are in the range of 2 to 5 mg daily for Tegretol and 1 to 2 mg daily for the epoxide.
 
 Because of the potential for serious adverse reactions in nursing infants from carbamazepine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
@@ -318,7 +327,8 @@ Because of the potential for serious adverse reactions in nursing infants from c
 
 Substantial evidence of Tegretol’s effectiveness for use in the management of children with epilepsy (see INDICATIONS AND USAGE for specific seizure types) is derived from clinical investigations performed in adults and from studies in several in vitro systems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
 
-Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e., 4-12 mcg/mL) is the same in children and adults.
+Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e.
+4 to 12 mcg/mL) is the same in children and adults.
 
 The evidence assembled was primarily obtained from short-term use of carbamazepine.
 The safety of carbamazepine in children has been systematically studied up to 6 months.

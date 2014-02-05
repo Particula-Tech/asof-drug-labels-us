@@ -6,7 +6,7 @@ TEGRETOL® and TEGRETOL®-XR (Teg-ret-ol)
 
 Tablets, Suspension, Chewable Tablets, Extended-Release Tablets
 
-Read this Medication Guide before you start taking Tegretol or Tegretol –XR (TEGRETOL) and each time you get a refill.
+Read this Medication Guide before you start taking Tegretol or Tegretol–XR (TEGRETOL) and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
@@ -132,7 +132,7 @@ How should I take TEGRETOL?
 - Take TEGRETOL with food.
 - TEGRETOL-XR Tablets:
   - Do not crush, chew, or break TEGRETOL-XR tablets.
-  - Tell you healthcare provider if you can not swallow TEGRETOL-XR whole.
+  - Tell your healthcare provider if you can not swallow TEGRETOL-XR whole.
 - TEGRETOL Suspension:
   - Shake the bottle well each time before use.
   - Do not take TEGRETOL suspension at the same time you take other liquid medicines.
@@ -166,7 +166,7 @@ These include:
   - loss of appetite
   - nausea or vomiting
 
-Get medical help right away if you have any of the symptoms listed above or listed in “What is the most important information I should know about TEGRETOL”.
+Get medical help right away if you have any of the symptoms listed above or listed in “What is the most important information I should know about TEGRETOL?”
 
 The most common side effects of TEGRETOL include:
 
@@ -191,7 +191,7 @@ How should I store TEGRETOL?
 - Do not store TEGRETOL Chewable Tablets above 30°C (86°F).
   - Keep TEGRETOL Chewable Tablets out of the light.
   - Keep TEGRETOL Chewable Tablets dry.
-- Store TEGRETOL-XR Tablets between 15°C to 30°C (59°F to 86°F).
+- Store TEGRETOL-XR Tablets at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
   - Keep TEGRETOL-XR Tablets dry.
 - Do not store TEGRETOL Suspension above 30°C (86°F).
   - Shake well before using.
@@ -218,9 +218,9 @@ Active ingredient: carbamazepine
 
 Inactive ingredients:
 
-- TEGRETOL Tablets: colloidal silicon dioxide, D&C Red No. 30 Aluminum Lake (chewable tablets only), FD&C Red No. 40 (200-mg tablets only), flavoring (chewable tablets only), gelatin, glycerin, magnesium stearate, sodium starch glycolate (chewable tablets only), starch, stearic acid, and sucrose (chewable tablets only).
+- TEGRETOL Tablets: colloidal silicon dioxide, D&C Red No. 30 Aluminum Lake (chewable tablets only), FD&C Red No. 40 (200 mg tablets only), flavoring (chewable tablets only), gelatin, glycerin, magnesium stearate, sodium starch glycolate (chewable tablets only), starch, stearic acid, and sucrose (chewable tablets only).
 - TEGRETOL Suspension: Citric acid, FD&C Yellow No. 6, flavoring, polymer, potassium sorbate, propylene glycol, purified water, sorbitol, sucrose, and xanthan gum.
-- TEGRETOL-XR Tablets: cellulose compounds, dextrates, iron oxides, magnesium stearate, mannitol, polyethylene glycol, sodium lauryl sulfate, titanium dioxide (200-mg tablets only).
+- TEGRETOL-XR Tablets: cellulose compounds, dextrates, iron oxides, magnesium stearate, mannitol, polyethylene glycol, sodium lauryl sulfate, titanium dioxide (200 mg tablets only).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -228,4 +228,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2013-24 March 2013
+T2014-05 January 2014

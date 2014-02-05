@@ -5,7 +5,7 @@ If adverse reactions are of such severity that the drug must be discontinued, th
 The most severe adverse reactions have been observed in the hemopoietic system and skin (see BOXED WARNING), the liver, and the cardiovascular system.
 
 The most frequently observed adverse reactions, particularly during the initial phases of therapy, are dizziness, drowsiness, unsteadiness, nausea, and vomiting.
-To minimize the possibility of such reactions, therapy should be initiated at the low dosage recommended.
+To minimize the possibility of such reactions, therapy should be initiated at the lowest dosage recommended.
 
 The following additional adverse reactions have been reported:
 
@@ -15,12 +15,12 @@ Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see B
 In certain cases, discontinuation of therapy may be necessary.
 Isolated cases of hirsutism have been reported, but a causal relationship is not clear.
 
-Cardiovascular System: Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.
+Cardiovascular System: Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g. pulmonary embolism), and adenopathy or lymphadenopathy.
 
 Some of these cardiovascular complications have resulted in fatalities.
 Myocardial infarction has been associated with other tricyclic compounds.
 
-Liver: Abnormalities in liver function tests, cholestatic and hepatocellular jaundice, hepatitis; very rare cases of hepatic failure.
+Liver: Abnormalities in liver function tests, cholestatic and hepatocellular jaundice, hepatitis, very rare cases of hepatic failure.
 
 Pancreatic: Pancreatitis.
 
@@ -30,7 +30,7 @@ Genitourinary System: Urinary frequency, acute urinary retention, oliguria with 
 Albuminuria, glycosuria, elevated BUN, and microscopic deposits in the urine have also been reported.
 There have been very rare reports of impaired male fertility and/or abnormal spermatogenesis.
 
-Testicular atrophy occurred in rats receiving Tegretol orally from 4-52 weeks at dosage levels of 50-400 mg/kg/day.
+Testicular atrophy occurred in rats receiving Tegretol orally from 4 to 52 weeks at dosage levels of 50 to 400 mg/kg/day.
 Additionally, rats receiving Tegretol in the diet for 2 years at dosage levels of 25, 75, and 250 mg/kg/day had a dose-related incidence of testicular atrophy and aspermatogenesis.
 In dogs, it produced a brownish discoloration, presumably a metabolite, in the urinary bladder at dosage levels of 50 mg/kg and higher.
 Relevance of these findings to humans is unknown.

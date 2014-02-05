@@ -23,14 +23,14 @@ Following a b.i.d. dosage regimen, the suspension provides higher peak levels an
 On the other hand, following a t.i.d. dosage regimen, Tegretol suspension affords steady-state plasma levels comparable to Tegretol tablets given b.i.d. when administered at the same total mg daily dose.
 Following a b.i.d. dosage regimen, Tegretol-XR tablets afford steady-state plasma levels comparable to conventional Tegretol tablets given q.i.d., when administered at the same total mg daily dose.
 Tegretol in blood is 76% bound to plasma proteins.
-Plasma levels of Tegretol are variable and may range from 0.5-25 µg/mL, with no apparent relationship to the daily intake of the drug.
-Usual adult therapeutic levels are between 4 and 12 µg/mL.
+Plasma levels of Tegretol are variable and may range from 0.5 to 25 mcg/mL/mL, with no apparent relationship to the daily intake of the drug.
+Usual adult therapeutic levels are between 4 and 12 mcg/mL.
 In polytherapy, the concentration of Tegretol and concomitant drugs may be increased or decreased during therapy, and drug effects may be altered (see PRECAUTIONS, Drug Interactions).
-Following chronic oral administration of suspension, plasma levels peak at approximately 1.5 hours compared to 4-5 hours after administration of conventional Tegretol tablets, and 3-12 hours after administration of Tegretol-XR tablets.
+Following chronic oral administration of suspension, plasma levels peak at approximately 1.5 hours compared to 4 to 5 hours after administration of conventional Tegretol tablets, and 3 to 12 hours after administration of Tegretol-XR tablets.
 The CSF/serum ratio is 0.22, similar to the 24% unbound Tegretol in serum.
 Because Tegretol induces its own metabolism, the half-life is also variable.
-Autoinduction is completed after 3-5 weeks of a fixed dosing regimen.
-Initial half-life values range from 25-65 hours, decreasing to 12-17 hours on repeated doses.
+Autoinduction is completed after 3 to 5 weeks of a fixed dosing regimen.
+Initial half-life values range from 25 to 65 hours, decreasing to 12 to 17 hours on repeated doses.
 Tegretol is metabolized in the liver.
 Cytochrome P450 3A4 was identified as the major isoform responsible for the formation of carbamazepine-10,11-epoxide from Tegretol.
 After oral administration of 14C-carbamazepine, 72% of the administered radioactivity was found in the urine and 28% in the feces.
@@ -39,6 +39,6 @@ This urinary radioactivity was composed largely of hydroxylated and conjugated m
 The pharmacokinetic parameters of Tegretol disposition are similar in children and in adults.
 However, there is a poor correlation between plasma concentrations of carbamazepine and Tegretol dose in children.
 Carbamazepine is more rapidly metabolized to carbamazepine-10,11-epoxide (a metabolite shown to be equipotent to carbamazepine as an anticonvulsant in animal screens) in the younger age groups than in adults.
-In children below the age of 15, there is an inverse relationship between CBZ-E/CBZ ratio and increasing age (in one report from 0.44 in children below the age of 1 year to 0.18 in children between 10-15 years of age).
+In children below the age of 15, there is an inverse relationship between CBZ-E/CBZ ratio and increasing age (in one report from 0.44 in children below the age of 1 year to 0.18 in children between 10 to 15 years of age).
 
 The effects of race and gender on carbamazepine pharmacokinetics have not been systematically evaluated.

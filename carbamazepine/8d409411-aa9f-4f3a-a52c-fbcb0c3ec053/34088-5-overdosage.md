@@ -4,13 +4,13 @@ Acute Toxicity
 
 Lowest known lethal dose: adults, 3.2 g (a 24-year-old woman died of a cardiac arrest and a 24-year-old man died of pneumonia and hypoxic encephalopathy); children, 4 g (a 14-year-old girl died of a cardiac arrest), 1.6 g (a 3-year-old girl died of aspiration pneumonia).
 
-Oral LD50 in animals (mg/kg): mice, 1100-3750; rats, 3850-4025; rabbits, 1500-2680; guinea pigs, 920.
+Oral LD50 in animals (mg/kg): mice, 1100 to 3750; rats, 3850 to 4025; rabbits, 1500 to 2680; guinea pigs, 920.
 
 Signs and Symptoms
 
-The first signs and symptoms appear after 1-3 hours.
+The first signs and symptoms appear after 1 to 3 hours.
 Neuromuscular disturbances are the most prominent.
-Cardiovascular disorders are generally milder, and severe cardiac complications occur only when very high doses (>60 g) have been ingested.
+Cardiovascular disorders are generally milder, and severe cardiac complications occur only when very high doses (greater than 60 g) have been ingested.
 
 Respiration: Irregular breathing, respiratory depression.
 
