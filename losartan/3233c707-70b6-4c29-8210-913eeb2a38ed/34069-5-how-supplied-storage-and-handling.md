@@ -44,7 +44,7 @@ Protect from light.
 
 Dispense in a tight, light-resistant container.
 
-***Trademark of Paddock Laboratories, Inc.
+The trademarks depicted herein are owned by their respective companies
 
 Manufactured by:
 
@@ -58,6 +58,4 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-Rev.: 01/13
-
-Revision Date: 2013/01/12
+Rev.: 01/14

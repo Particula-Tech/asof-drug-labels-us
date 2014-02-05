@@ -6,10 +6,9 @@ This leaflet does not take the place of talking with your doctor about your cond
 
 ## What is the most important information I should know about losartan potassium tablets?
 
-Do not take losartan potassium tablets if you are pregnant or plan to become pregnant.
-Losartan potassium tablets can harm your unborn baby causing injury and even death.
-Stop taking losartan potassium tablets if you become pregnant and call your doctor right away.
-If you plan to become pregnant, talk to your doctor about other treatment options before taking losartan potassium tablets.
+- Losartan potassium tablets can cause harm or death to an unborn baby.
+- Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+- If you get pregnant while taking losartan potassium tablets, tell your doctor right away.
 
 ## What is losartan potassium tablet?
 
@@ -43,6 +42,8 @@ If you have diabetic nephropathy it means that your kidneys do not work properly
 • Do not take losartan potassium tablets if you are allergic to any of the ingredients of losartan potassium tablets.
 See the end of this leaflet for a complete list of ingredients in losartan potassium tablets.
 
+• Do not take losartan potassium tablets if you have diabetes and are taking a medicine called aliskiren to reduce blood pressure.
+
 ## What should I tell my doctor before taking losartan potassium tablets?
 
 Tell your doctor about all of your medical conditions including if you:
@@ -64,7 +65,7 @@ Especially tell your doctor if you are taking:
 - salt substitutes containing potassium
 - water pills (diuretics)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDS), including COX-2 inhibitors.
-- other medicines to reduce blood pressure
+- other medicines to reduce blood pressure.
 
 ## How should I take losartan potassium tablets?
 

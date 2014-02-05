@@ -5,8 +5,8 @@ Losartan potassium, a non-peptide molecule, is chemically described as 2-butyl-4
 
 Its molecular formula is C22H22ClKN6O, and its structural formula is:
 
-Losartan potassium USP, is off-white to creamish-yellow powder with a molecular weight of 461.01.
-It is soluble in water.
+Losartan potassium, USP is white to off-white powder with a molecular weight of 461.01.
+It is freely soluble in water; soluble in isopropyl alcohol; slightly soluble in acetonitrile.
 Oxidation of the 5-hydroxymethyl group on the imidazole ring results in the active metabolite of losartan.
 
 Each losartan potassium tablet intended for oral administration contains 25 mg or 50 mg or 100 mg of losartan potassium.
