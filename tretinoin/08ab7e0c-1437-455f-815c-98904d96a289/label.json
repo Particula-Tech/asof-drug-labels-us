@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA020475"
+  ],
+  "inn": "tretinoin",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-5140-20",
+    "0187-5140-45",
+    "0187-5140-50",
+    "0187-5144-20",
+    "0187-5144-45",
+    "0187-5144-50",
+    "0187-5148-02",
+    "0187-5148-50"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "tretinoin",
+      "name": "Retin-A MICRO"
+    }
+  ],
+  "setid": "08ab7e0c-1437-455f-815c-98904d96a289",
+  "source": "dailymed"
+}
