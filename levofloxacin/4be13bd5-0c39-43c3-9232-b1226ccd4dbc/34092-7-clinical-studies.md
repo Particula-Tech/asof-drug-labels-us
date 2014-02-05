@@ -25,7 +25,7 @@ Table 11: Clinical Success Rates and Bacteriological Eradication Rates (Nosocomi
 | S. marcescens | 11 | 9 (81.8)/7 (63.6) | 7 | 2 (28.6)/3 (42.9) |
 | E. coli | 12 | 10 (83.3)/7 (58.3) | 11 | 7 (63.6)/8 (72.7) |
 | K. pneumoniaeThe observed differences in rates for the clinical and microbiological outcomes may reflect other factors that were not accounted for in the study | 11 | 9 (81.8)/5 (45.5) | 7 | 6 (85.7)/3 (42.9) |
-| H. influenzae | 16 | 13 (81.3)/10 (62.5) | 15 | 14 (93.3)/l1 (73.3) |
+| H. influenzae | 16 | 13 (81.3)/10 (62.5) | 15 | 14 (93.3)/11 (73.3) |
 | S. pneumoniae | 4 | 3 (75.0)/3 (75.0) | 7 | 5 (71.4)/4 (57.1) |
 
 ## 14.2 Community-Acquired Pneumonia: 7 to 14 day Treatment Regimen

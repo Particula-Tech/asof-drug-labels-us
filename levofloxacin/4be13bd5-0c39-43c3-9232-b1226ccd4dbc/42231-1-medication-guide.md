@@ -273,7 +273,7 @@ Pseudomembranous colitis can happen 2 or more months after you have finished you
 • Changes in sensation and possible nerve damage (Peripheral Neuropathy)
 
 Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including levofloxacin.
-Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+Stop levofloxacin tablets and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
 
 - pain
 - burning
@@ -281,7 +281,7 @@ Talk with your healthcare provider right away if you get any of the following sy
 - numbness
 - weakness
 
-Levofloxacin tablets may need to be stopped to prevent permanent nerve damage.
+The nerve damage may be permanent.
 
 • Serious heart rhythm changes (QT prolongation and torsades de pointes)
 
@@ -386,6 +386,6 @@ Goa 403 722
 
 INDIA.
 
-Revised: January 1, 2013 ID: #230708
+Revised: February 2014 ID: #236606
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

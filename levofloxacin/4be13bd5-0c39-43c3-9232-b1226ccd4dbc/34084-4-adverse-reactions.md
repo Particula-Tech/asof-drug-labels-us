@@ -4,19 +4,19 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- Tendon Effects [see WARNINGS AND PRECAUTIONS (5.1)]
-- Exacerbation of Myasthenia Gravis [see WARNINGS AND PRECAUTIONS (5.2)]
-- Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS (5.3)]
-- Other Serious and Sometimes Fatal Reactions [see WARNINGS AND PRECAUTIONS (5.4)]
-- Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.5)]
-- Central Nervous System Effects [see WARNINGS AND PRECAUTIONS (5.6)]
-- Clostridium difficile-Associated Diarrhea [see WARNINGS AND PRECAUTIONS (5.7)]
-- Peripheral Neuropathy [see WARNINGS AND PRECAUTIONS (5.8)]
-- Prolongation of the QT Interval [see WARNINGS AND PRECAUTIONS (5.9)]
-- Musculoskeletal Disorders in Pediatric Patients [see WARNINGS AND PRECAUTIONS (5.10)]
-- Blood Glucose Disturbances [see WARNINGS AND PRECAUTIONS (5.11)]
-- Photosensitivity/Phototoxicity [see WARNINGS AND PRECAUTIONS (5.12)]
-- Development of Drug Resistant Bacteria [see WARNINGS AND PRECAUTIONS (5.13)]
+- Tendon Effects [see WARNINGS AND PRECAUTIONS(5.1)]
+- Exacerbation of Myasthenia Gravis [see WARNINGS AND PRECAUTIONS(5.2)]
+- Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS(5.3)]
+- Other Serious and Sometimes Fatal Reactions [see WARNINGS AND PRECAUTIONS(5.4)]
+- Hepatotoxicity [see WARNINGS AND PRECAUTIONS(5.5)]
+- Central Nervous System Effects [see WARNINGS AND PRECAUTIONS(5.6)]
+- Clostridium difficile -Associated Diarrhea [see WARNINGS AND PRECAUTIONS(5.7)]
+- Peripheral Neuropathy that may be irreversible [seeWARNINGS AND PRECAUTIONS(5.8)]
+- Prolongation of the QT Interval [see WARNINGS AND PRECAUTIONS(5.9)]
+- Musculoskeletal Disorders in Pediatric Patients [seeWARNINGS AND PRECAUTIONS(5.10)]
+- Blood Glucose Disturbances [see WARNINGS AND PRECAUTIONS(5.11)]
+- Photosensitivity/Phototoxicity [see WARNINGS AND PRECAUTIONS(5.12)]
+- Development of Drug Resistant Bacteria [see WARNINGS AND PRECAUTIONS(5.13)]
 
 Crystalluria and cylindruria have been reported with quinolones, including levofloxacin.
 Therefore, adequate hydration of patients receiving levofloxacin should be maintained to prevent the formation of a highly concentrated urine [see DOSAGE AND ADMINISTRATION (2.5)].
@@ -89,7 +89,7 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see WARNINGS AND PRECAUTIONS (5.4)] eosinophilia |
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see WARNINGS AND PRECAUTIONS (5.3, 5.4)] |
 | Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see WARNINGS AND PRECAUTIONS (5.6)] |
-| Nervous System Disorders | exacerbation of myasthenia gravis [see WARNINGS AND PRECAUTIONS (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy [see WARNINGS AND PRECAUTIONS (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see WARNINGS AND PRECAUTIONS (5.6)] |
+| Nervous System Disorders | exacerbation of myasthenia gravis [see WARNINGS AND PRECAUTIONS (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see WARNINGS AND PRECAUTIONS (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see WARNINGS AND PRECAUTIONS (5.6)] |
 | Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see WARNINGS AND PRECAUTIONS (5.9)] tachycardia |

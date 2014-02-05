@@ -54,9 +54,7 @@ Levofloxacin should be discontinued immediately if the patient develops signs an
 ## 5.6 Central Nervous System Effects
 
 Convulsions, toxic psychoses, increased intracranial pressure (including pseudotumor cerebri) have been reported in patients receiving fluoroquinolones, including levofloxacin.
-Fluoroquinolones may also cause central nervous system stimulation which may lead to tremors,
-
-restlessness, anxiety, lightheadedness, confusion, hallucinations, paranoia, depression, nightmares, insomnia, and, rarely, suicidal thoughts or acts.
+Fluoroquinolones may also cause central nervous system stimulation which may lead to tremors, restlessness, anxiety, lightheadedness, confusion, hallucinations, paranoia, depression, nightmares, insomnia, and, rarely, suicidal thoughts or acts.
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving levofloxacin, the drug should be discontinued and appropriate measures instituted.
 As with other fluoroquinolones, levofloxacin should be used with caution in patients with a known or suspected central nervous system (CNS) disorder that may predispose them to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose them to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction.)
@@ -77,8 +75,9 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## 5.8 Peripheral Neuropathy
 
-Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including levofloxacin.
-Levofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation in order to prevent the development of an irreversible condition [see ADVERSE REACTIONS (6), PATIENT COUNSELING INFORMATION (17.3)].
+Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including levofloxacin.
+Symptoms may occur soon after initiation of levofloxacin tablets and may be irreversible.
+Levofloxacin tablets should be discontinued immediately if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation [see ADVERSE REACTIONS (6.2), PATIENT COUNSELING INFORMATION (17.3)].
 
 ## 5.9 Prolongation of the QT Interval
 

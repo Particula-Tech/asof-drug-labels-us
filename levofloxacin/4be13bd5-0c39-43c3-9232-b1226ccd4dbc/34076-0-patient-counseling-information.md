@@ -60,7 +60,9 @@ If this occurs, patients should contact their physician as soon as possible.
 
 Peripheral Neuropathies
 
-If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should discontinue treatment and contact their physician.
+Patients should be informed that peripheral neuropathy has been associated with levofloxacin tablets use.
+Symptoms may occur soon after initiation of therapy and may be irreversible.
+If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should immediately discontinue treatment and contact their physician.
 
 Prolongation of the QT Interval
 
@@ -107,6 +109,6 @@ Goa 403 722
 
 INDIA.
 
-Revised: January 1, 2013 ID: #230707
+Revised: February 2014 ID: #236605
 
 ## 17.6 FDA-Approved Medication Guide
