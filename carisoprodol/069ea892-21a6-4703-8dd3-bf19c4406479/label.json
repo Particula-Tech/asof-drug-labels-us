@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203374"
+  ],
+  "inn": "carisoprodol",
+  "labeler": "ScieGen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50228-109-10",
+    "50228-109-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carisoprodol",
+      "name": "CARISOPRODOL"
+    }
+  ],
+  "setid": "069ea892-21a6-4703-8dd3-bf19c4406479",
+  "source": "dailymed"
+}
