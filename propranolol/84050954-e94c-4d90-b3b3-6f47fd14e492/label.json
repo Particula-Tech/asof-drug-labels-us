@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA021438"
+  ],
+  "inn": "propranolol",
+  "labeler": "Mist Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "76299-420-77",
+    "76299-420-85",
+    "76299-420-88",
+    "76299-422-77",
+    "76299-422-85",
+    "76299-422-88"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "propranolol hydrochloride",
+      "name": "INDERAL XL"
+    }
+  ],
+  "setid": "84050954-e94c-4d90-b3b3-6f47fd14e492",
+  "source": "dailymed"
+}
