@@ -1,10 +1,13 @@
 {
   "application_numbers": [
+    "ANDA040583",
     "ANDA040612"
   ],
   "inn": "methylprednisolone",
-  "labeler": "APP Pharmaceuticals, LLC",
+  "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-255-03",
+    "63323-258-03",
     "63323-265-30"
   ],
   "products": [

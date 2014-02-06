@@ -1,5 +1,8 @@
 # CONTRAINDICATIONS
 
-The use of Methylprednisolone Sodium Succinate for Injection, USP is contraindicated in premature infants because the 1 g multiple dose vial when reconstituted will contain benzyl alcohol.
-Benzyl alcohol has been reported to be associated with a fatal “Gasping Syndrome” in premature infants.
-Methylprednisolone Sodium Succinate for Injection, USP is also contraindicated in systemic fungal infections and patients with known hypersensitivity to the product and its constituents.
+Methylprednisolone Sodium Succinate for Injection, USP sterile powder is contraindicated: • in systemic fungal infections and patients with known hypersensitivity to the product and its constituents. • for intrathecal administration.
+Reports of severe medical events have been associated with this route of administration.
+Intramuscular corticosteroid preparations are contraindicated for idiopathic thrombocytopenic purpura.
+
+After mixing as directed, methylprednisolone contains benzyl alcohol.
+The use of methylprednisolone, reconstituted with benzyl alcohol, is contraindicated for use in premature infants (see WARNINGS and PRECAUTIONS, Pediatric Use)

@@ -1,3 +1,7 @@
+After mixing as directed, contains Benzyl Alcohol.
+
+Not for use in neonates.
+
 For Intravenous or Intramuscular Administration
 
 Rx only
@@ -12,6 +16,6 @@ Store solution at 20° to 25°C (68° to 77°F) [see USP Controlled Room Tempera
 
 Use solution within 48 hours after mixing.
 
-451013B
+451282
 
-Revised: February 2008
+Issued: May 2013
