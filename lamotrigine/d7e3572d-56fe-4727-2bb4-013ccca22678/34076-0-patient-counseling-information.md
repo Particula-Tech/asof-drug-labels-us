@@ -62,7 +62,7 @@ To reduce the potential of medication errors, write and say LAMICTAL clearly.
 Depictions of the LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are LAMICTAL, as well as the correct formulation of LAMICTAL, each time they fill their prescription [see Dosage Forms and Strengths (3.1, 3.2, 3.3), How Supplied/Storage and Handling (16)].
 
-LAMICTAL is a registered trademark of GlaxoSmithKline.
+LAMICTAL and LAMICTAL ODT are registered trademarks of the GlaxoSmithKline group of companies.
 
 Microcaps and AdvaTab are registered trademarks of Eurand, Inc.
 
@@ -80,7 +80,7 @@ LAMICTAL Orally Disintegrating Tablets are manufactured by
 
 Eurand, Inc., Vandalia, OH 45377
 
-©2012, GlaxoSmithKline.
+©2013, GlaxoSmithKline group of companies.
 All rights reserved.
 
-LMT:8PI
+LMT:9PI

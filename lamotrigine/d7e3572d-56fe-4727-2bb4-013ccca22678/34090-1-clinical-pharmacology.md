@@ -243,7 +243,7 @@ The patients with severe hepatic impairment were without ascites (n = 2) or with
 The mean apparent clearances of lamotrigine in patients with mild (n = 12), moderate (n = 5), severe without ascites (n = 2), and severe with ascites (n = 5) liver impairment were 0.30 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
 Mean half-lives of lamotrigine in patients with mild, moderate, severe without ascites, and severe with ascites hepatic impairment were 46 ± 20, 72 ± 44, 67 ± 11, and 100 ± 48 hours, respectively, as compared with 33 ± 7 hours in healthy controls [see Dosage and Administration (2.1)].
 
-Age:Pediatric Patients: The pharmacokinetics of lamotrigine following a single 2-mg/kg dose were evaluated in 2 studies of pediatric patients (n = 29 for patients 10 months to 5.9 years of age and n = 26 for patients 5 to 11 years of age).
+Age: Pediatric Patients: The pharmacokinetics of lamotrigine following a single 2-mg/kg dose were evaluated in 2 studies of pediatric patients (n = 29 for patients 10 months to 5.9 years of age and n = 26 for patients 5 to 11 years of age).
 Forty-three patients received concomitant therapy with other AEDs and 12 patients received lamotrigine as monotherapy.
 Lamotrigine pharmacokinetic parameters for pediatric patients are summarized in Table 16.
 

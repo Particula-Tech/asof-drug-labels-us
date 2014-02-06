@@ -30,10 +30,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in England
+Made in India
 
-10000000067774 Rev.
-4/09
+10000000098122 Rev.
+8/11
 
 Principal Display Panel
 
@@ -67,10 +67,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in England
+Made in India
 
-10000000067776 Rev.
-4/09
+10000000098123 Rev.
+8/11
 
 Principal Display Panel
 
@@ -104,10 +104,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in England
+Made in India
 
-10000000067778 Rev.
-4/09
+10000000098124 Rev.
+8/11
 
 Principal Display Panel
 
@@ -141,10 +141,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in England
+Made in India
 
-10000000067830 Rev.
-4/09
+10000000098125 Rev.
+8/11
 
 Principal Display Panel
 
@@ -312,7 +312,7 @@ Research Triangle Park, NC 27709
 Made in India
 
 10000000098065 Rev.
-8/1
+8/11
 
 Principal Display Panel
 

@@ -5,7 +5,7 @@ The following adverse reactions are described in more detail in the Warnings and
 - •Serious skin rashes [see Warnings and Precautions (5.1)]
 - •Multiorgan hypersensitivity reactions and organ failure [see Warnings and Precautions (5.2)]
 - •Blood dyscrasias [see Warnings and Precautions (5.3)]
-- •Suicidal behaviorand ideation [see Warnings and Precautions (5.4)]
+- •Suicidal behavior and ideation [see Warnings and Precautions (5.4)]
 - •Aseptic meningitis [see Warnings and Precautions (5.6)]
 - •Withdrawal seizures [see Warnings and Precautions(5.9)]
 - •Status epilepticus [see Warnings and Precautions(5.10)]
@@ -19,7 +19,7 @@ LAMICTAL has been evaluated for safety in patients with epilepsy and in patients
 Adverse reactions reported for each of these patient populations are provided below.
 Excluded are adverse reactions considered too general to be informative and those not reasonably attributable to the use of the drug.
 
-Epilepsy:Most Common Adverse Reactions in All Clinical Studies:Adjunctive Therapy in Adults With Epilepsy: The most commonly observed (≥5% for LAMICTAL and more common on drug than placebo) adverse reactions seen in association with LAMICTAL during adjunctive therapy in adults and not seen at an equivalent frequency among placebo-treated patients were: dizziness, ataxia, somnolence, headache, diplopia, blurred vision, nausea, vomiting, and rash.
+Epilepsy:Most Common Adverse Reactions in All Clinical Studies: Adjunctive Therapy in Adults With Epilepsy: The most commonly observed (≥5% for LAMICTAL and more common on drug than placebo) adverse reactions seen in association with LAMICTAL during adjunctive therapy in adults and not seen at an equivalent frequency among placebo-treated patients were: dizziness, ataxia, somnolence, headache, diplopia, blurred vision, nausea, vomiting, and rash.
 Dizziness, diplopia, ataxia, blurred vision, nausea, and vomiting were dose-related.
 Dizziness, diplopia, ataxia, and blurred vision occurred more commonly in patients receiving carbamazepine with LAMICTAL than in patients receiving other AEDs with LAMICTAL.
 Clinical data suggest a higher incidence of rash, including serious rash, in patients receiving concomitant valproate than in patients not receiving valproate [see Warnings and Precautions (5.1)].
@@ -106,9 +106,9 @@ In a randomized, parallel study comparing placebo and 300 and 500 mg/day of LAMI
 Table 9.
 Dose-Related Adverse Reactions From a Randomized, Placebo-Controlled Adjunctive Trial in Adults With Epilepsy
 
-| Adverse Reaction | Percent of Patients Experiencing Adverse Reactions |  |  |
+|  | Percent of Patients Experiencing Adverse Reactions |  |  |
 | --- | --- | --- | --- |
-| Placebo(n = 73) | LAMICTAL300 mg(n = 71) | LAMICTAL500 mg(n = 72) |  |
+| Adverse Reaction | Placebo(n = 73) | LAMICTAL300 mg(n = 71) | LAMICTAL500 mg(n = 72) |
 | Ataxia | 10 | 10 | 28ab |
 | Blurred vision | 10 | 11 | 25ab |
 | Diplopia | 8 | 24a | 49ab |

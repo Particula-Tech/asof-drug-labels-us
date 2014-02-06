@@ -113,7 +113,7 @@ In most cases, symptoms were reported to resolve after discontinuation of LAMICT
 Re-exposure resulted in a rapid return of symptoms (from within 30 minutes to 1 day following re-initiation of treatment) that were frequently more severe.
 Some of the patients treated with LAMICTAL who developed aseptic meningitis had underlying diagnoses of systemic lupus erythematosus or other autoimmune diseases.
 
-Cerebrospinal fluid (CSF) analyzed at the time of clinical presentation in reported cases was characterized by a mild-to-moderate pleocytosis, normal glucose levels, and mild-to-moderate increase in protein.
+Cerebrospinal fluid (CSF) analyzed at the time of clinical presentation in reported cases was characterized by a mild to moderate pleocytosis, normal glucose levels, and mild to moderate increase in protein.
 CSF white blood cell count differentials showed a predominance of neutrophils in a majority of the cases, although a predominance of lymphocytes was reported in approximately one third of the cases.
 Some patients also had new onset of signs and symptoms of involvement of other organs (predominantly hepatic and renal involvement), which may suggest that in these cases the aseptic meningitis observed was part of a hypersensitivity reaction [see Warnings and Precautions (5.2)].
 
@@ -167,7 +167,7 @@ Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigin
 Because lamotrigine binds to melanin, it could accumulate in melanin-rich tissues over time.
 This raises the possibility that lamotrigine may cause toxicity in these tissues after extended use.
 Although ophthalmological testing was performed in 1 controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long-term exposure.
-Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine's binding to melanin is unknown [see Clinical Pharmacology (12.2)].
+Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine’s binding to melanin is unknown [see Clinical Pharmacology (12.2)].
 
 Accordingly, although there are no specific recommendations for periodic ophthalmological monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects.
 
