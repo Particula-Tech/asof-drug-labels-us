@@ -38,7 +38,7 @@ Mean Decreases in Plaque Elevation, Scaling and Erythema in Two Controlled Clini
 |  |  | TAZORAC® Cream, 0.05% |  |  |  |  |  | TAZORAC® Cream, 0.1% |  |  |  |  |  | Vehicle Cream |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Lesion |  | Trunk/Arm/ Leg lesions |  | Knee/Elbow lesions |  | All Treated |  | Trunk/Arm/ Leg lesions |  | Knee/Elbow lesions |  | All Treated |  |  | Trunk/Arm/ Leg lesions |  | Knee/Elbow lesions |  | All Treated |  |
-|  |  | Trial 1 | Trail 2 | Trail 1 | Trail 2 | Trail 1 | Trail 2 | Trail 1 | Trail 2 | Trail 1 | Trail 2 | Trail 1 | Trail 2 |  | Trail 1 | Trail 2 | Trail 1 | Trail 2 | Trail 1 | Trail 2 |
+|  |  | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 |  | Trial 1 | Trial 2 | Trial 1 | Trial 2 | Trial 1 | Trial 2 |
 |  |  | N=218 | N=210 | N=218 | N=210 | N=218 | N=210 | N=221 | N=211 | N=221 | N=211 | N=221 | N=211 |  | N=229 | N=214 | N=229 | N=214 | N=229 | N=214 |
 | Plaque elevation | B# C-12 C-24 | 2.29 -0.83* -0.75* | 2.50 -0.98* | 2.40 -0.91* -0.73* | 2.52 -1.04* | 2.28 -0.75* -0.60* | 2.51 -0.90* | 2.34 -1.08* -0.87* | 2.52 -1.25* | 2.35 -0.96* -0.73* | 2.49 -1.21* | 2.32 -0.83* -0.63* | 2.51 -1.08* |  | 2.28 -0.59 -0.57 | 2.51 -0.69 | 2.35 -0.57 -0.49 | 2.51 -0.68 | 2.29 -0.48 -0.42 | 2.51 -0.61 |
 | Scaling | B# C-12 C-24 | 2.26 -0.75 -0.68 | 2.45 -0.90 | 2.47 -0.78* -0.62* | 2.60 -0.98* | 2.32 -0.67* -0.51* | 2.47 -0.80 | 2.37 -0.84* -0.79* | 2.45 -1.06* | 2.40 -0.76* -0.61* | 2.57 -1.13* | 2.36 -0.73* -0.59* | 2.53 -1.03* |  | 2.34 -0.66 -0.56 | 2.46 -0.79 | 2.45 -0.62 -0.45 | 2.61 -0.76 | 2.31 -0.46 -0.34 | 2.53 -0.70 |
