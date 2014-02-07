@@ -51,14 +51,14 @@ Do not use Alora if you:
 
 Tell your healthcare provider:
 
-- if you are breastfeeding.
+- If you are breastfeeding.
   The hormone in Alora may pass into your milk.
-- about all of your medical problems.
+- About all of your medical problems.
   Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing); epilepsy (seizures); migraine; endometriosis; lupus; problems with your heart; liver; thyroid; kidneys; or have high calcium levels in your blood.
-- about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+- About all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
   Some medicines may affect how Alora works.
   Alora may also affect how your other medicines work.
-- if you are going to have surgery or will be on bed rest.
+- If you are going to have surgery or will be on bed rest.
   You may need to stop estrogens.
 
 ## What Are the Possible Side Effects of Alora?
@@ -252,10 +252,10 @@ Inactive components of each patch include sorbitan monooleate, NF; acrylic adhes
 
 Keep out of reach of children.
 
-For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 USA 800-272-5525
+For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 USA 1-800-272-5525
 
-Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: August 2012
+Content Updated: November 2013
 
-200178-11
+200178-12

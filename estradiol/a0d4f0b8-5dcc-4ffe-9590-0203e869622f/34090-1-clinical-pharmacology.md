@@ -51,7 +51,7 @@ Table 1 Mean (SD) Pharmacokinetic Profile of Alora Over an 84-Hour Dosing Interv
 | Buttock | 31 | Single | 67 (45) | - | 45 (21) | 66 (23) |  |
 | Hip* | 31 | Single | 69 (30) | - | 48 (17) | 62 (18) |  |
 
-*C max and C avg statistically different from abdomen
+*Cmax and Cavg statistically different from abdomen
 
 Steady-state estradiol serum concentrations were measured in two well-controlled clinical trials in the treatment of menopausal symptoms of 3 month duration (Studies 1 and 2), and one trial in the prevention of postmenopausal osteoporosis of 2 year duration (Study 3).
 Table 2 provides a summary of these data.

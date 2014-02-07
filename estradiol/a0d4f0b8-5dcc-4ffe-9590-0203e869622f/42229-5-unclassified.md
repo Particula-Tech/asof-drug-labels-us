@@ -11,14 +11,12 @@ Alora was shown to be statistically better than placebo at Weeks 4 and 12 for re
 
 Table 3 Mean Change from Baseline in Frequency of Moderate to Severe Vasomotor Symptoms for Alora Compared to Placebo (ITT)
 
-| Week of Therapy | Alora 0.05 mg/day N = 87 Baseline = 90 | Alora 0.1 mg/day N = 91 Baseline = 85 | Placebo N = 90 Baseline = 92 |
-| --- | --- | --- | --- |
 |  | Mean Change from Baseline |  |  |
-| 4 * | - 57 | - 70 | - 45 |
-| 8 | - 65 | - 77 | - 49 |
-| 12 * | - 68 | - 79 | - 54 |
-
-*Indicates statistically significant differences between both strengths of Alora and placebo using an ANCOVA model adjusting for baseline.
+| --- | --- | --- | --- |
+| Week of Therapy | Alora 0.05 mg/day N = 87 Baseline = 90 | Alora 0.1 mg/day N = 91 Baseline = 85 | Placebo N = 90 Baseline = 92 |
+| 4Indicates statistically significant differences between both strengths of Alora and placebo using an ANCOVA model adjusting for baseline. | -57 | -70 | -45 |
+| 8 | -65 | -77 | -49 |
+| 12 | -68 | -79 | -54 |
 
 ## Effects on vulvar and vaginal atrophy
 
@@ -77,8 +75,7 @@ Table 4 Relative and Absolute Risk Seen in the CE/MPA Substudy of WHIa
 
 a adapted from JAMA, 2002; 288:321-333 b includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer c a subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes d not included in Global Index * normal confidence intervals unadjusted for multiple looks and multiple comparisons For those outcomes included in the “global index,” absolute excess risks per 10,000 person-years in the group treated with CE/MPA were 7 more CHD events, 8 more strokes, 8 more PEs, and 8 more invasive breast cancers, while absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years.
-There was no difference between the groups in terms of all-cause mortality.
-(See BOXED WARNINGS , WARNINGS , and PRECAUTIONS .)
+There was no difference between the groups in terms of all-cause mortality [see BOXED WARNINGS, WARNINGS, and PRECAUTIONS].
 
 ## Women’s Health Initiative Memory Study
 
@@ -87,5 +84,4 @@ The Women’s Health Initiative Memory Study (WHIMS), a substudy of WHI, enrolle
 After an average follow-up of 4 years, 40 women in the estrogen/progestin group (45 per 10,000 women-years) and 21 in the placebo group (22 per 10,000 women-years) were diagnosed with probable dementia.
 The relative risk of probable dementia in the hormone therapy group was 2.05 (95% CI, 1.21 to 3.48) compared to placebo.
 Differences between groups became apparent in the first year of treatment.
-It is unknown whether these findings apply to younger postmenopausal women.
-(See BOXED WARNINGS and WARNINGS, Dementia, and PRECAUTIONS, Geriatric Use.)
+It is unknown whether these findings apply to younger postmenopausal women [see BOXED WARNINGS andWARNINGS, Dementia, and PRECAUTIONS, Geriatric Use].
