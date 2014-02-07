@@ -1,11 +1,27 @@
-# PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
+# PRINCIPAL DISPLAY PANEL - Carton
+
+Rx Only
 
 NDC 0574-0820-01
 
-TESTOSTERONE CYPIONATE INJECTION, USP CIII
+Testosterone Cypionate Injection, USP
 
-200 mg/mL Rx ONLY
+200 mg/mL
 
-For IM Use Only
+For Intramuscular Use Only
 
-1 mL STERILE VIAL
+One 1 mL Sterile Vial
+
+# PRINCIPAL DISPLAY PANEL - Carton
+
+Rx Only
+
+NDC 0574-0820-01
+
+Testosterone Cypionate Injection, USP
+
+200 mg/mL
+
+For Intramuscular Use Only
+
+One 1 mL Sterile Vial
