@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA021392"
+  ],
+  "inn": "diltiazem",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-705-30",
+    "68682-705-90",
+    "68682-706-30",
+    "68682-706-90",
+    "68682-707-30",
+    "68682-707-90",
+    "68682-708-30",
+    "68682-708-90",
+    "68682-709-30",
+    "68682-709-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "diltiazem hydrochloride extended-release tablets",
+      "name": "Diltiazem Hydrochloride"
+    }
+  ],
+  "setid": "73b3607a-99d0-44d8-92ef-0074684c9d7d",
+  "source": "dailymed"
+}
