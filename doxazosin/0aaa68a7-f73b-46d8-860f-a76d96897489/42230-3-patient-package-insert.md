@@ -6,14 +6,14 @@ Rx only
 
 Read this leaflet:
 
-- before you start taking doxazosin tablets USP
+- before you start taking doxazosin tablets
 - each time you get a new prescription.
 
-You and your doctor should discuss this treatment and your BPH symptoms before you start taking doxazosin tablets USP and at your regular checkups.
+You and your doctor should discuss this treatment and your BPH symptoms before you start taking doxazosin tablets and at your regular checkups.
 This leaflet does NOT take the place of discussions with your doctor.
 
-Doxazosin tablets USP are used to treat both benign prostatic hyperplasia (BPH) and high blood pressure (hypertension).
-This leaflet describes doxazosin tablets USP as treatment for BPH (although you may be taking doxazosin tablets USP for both your BPH and high blood pressure).
+Doxazosin tablets are used to treat both benign prostatic hyperplasia (BPH) and high blood pressure (hypertension).
+This leaflet describes doxazosin tablets as treatment for BPH (although you may be taking doxazosin tablets for both your BPH and high blood pressure).
 
 What is BPH?
 
@@ -34,9 +34,9 @@ The four main treatment options for BPH are:
 
 - If you are not bothered by your symptoms, you and your doctor may decide on a program of “watchful waiting.”
   It is not an active treatment like taking medication or surgery but involves having regular checkups to see if your condition is getting worse or causing problems.
-- Treatment with doxazosin tablets USP or other similar drugs.
-  Doxazosin tablets USP are the medication your doctor has prescribed for you.
-  See “What Doxazosin Tablets USP Do,” below.
+- Treatment with doxazosin tablets or other similar drugs.
+  Doxazosin tablets are the medication your doctor has prescribed for you.
+  See “What Doxazosin Tablets Do,” below.
 - Treatment with the medication class of 5-alpha reductase inhibitors (e.g., Proscar®).
   It can cause the prostate to shrink.
   It may take 6 months or more for the full benefit of finasteride to be seen.
@@ -44,19 +44,19 @@ The four main treatment options for BPH are:
   Your doctor can describe these procedures to you.
   The best procedure for you depends on your BPH symptoms and medical condition.
 
-What Doxazosin Tablets USP Do
+What Doxazosin Tablets Do
 
-Doxazosin tablets USP work on a specific type of muscle found in the prostate, causing it to relax.
+Doxazosin tablets work on a specific type of muscle found in the prostate, causing it to relax.
 This in turn decreases the pressure within the prostate, thus improving the flow of urine and your symptoms.
 
-- Doxazosin tablets USP help relieve the symptoms of BPH (weak stream, start-and-stop stream, a feeling that your bladder is not completely empty, delay in beginning of urination, need to urinate often during the day and especially at night, and feeling that you must urinate immediately).
+- Doxazosin tablets help relieve the symptoms of BPH (weak stream, start-and-stop stream, a feeling that your bladder is not completely empty, delay in beginning of urination, need to urinate often during the day and especially at night, and feeling that you must urinate immediately).
   It does not change the size of the prostate.
   The prostate may continue to grow; however, a larger prostate is not necessarily related to more symptoms or to worse symptoms.
-  Doxazosin tablets USP can decrease your symptoms and improve urinary flow, without decreasing the size of the prostate.
-- If doxazosin tablets USP are helping you, you should notice an effect within 1 to 2 weeks after you start your medication.
-  Doxazosin tablets USP have been studied in over 900 patients for up to 2 years and the drug has been shown to continue to work during long-term treatment.
-  Even though you take doxazosin tablets USP and they may help you, doxazosin tablets USP may not prevent the need for surgery in the future.
-- Doxazosin tablets USP do not affect PSA levels.
+  Doxazosin tablets can decrease your symptoms and improve urinary flow, without decreasing the size of the prostate.
+- If doxazosin tablets are helping you, you should notice an effect within 1 to 2 weeks after you start your medication.
+  Doxazosin tablets have been studied in over 900 patients for up to 2 years and the drug has been shown to continue to work during long-term treatment.
+  Even though you take doxazosin tablets and they may help you, doxazosin tablets may not prevent the need for surgery in the future.
+- Doxazosin tablets do not affect PSA levels.
   PSA is the abbreviation for Prostate Specific Antigen.
   Your doctor may have done a blood test called PSA.
   You may want to ask your doctor more about this if you have had a PSA test done.
@@ -65,22 +65,22 @@ Other Important Facts
 
 - You should see an improvement of your symptoms within 1 to 2 weeks.
   In addition to your other regular checkups you will need to continue seeing your doctor regularly to check your progress regarding your BPH and to monitor your blood pressure.
-- Doxazosin tablets USP are not a treatment for prostate cancer.
-  Your doctor has prescribed doxazosin tablets USP for your BPH and not for prostate cancer; however, a man can have BPH and prostate cancer at the same time.
+- Doxazosin tablets are not a treatment for prostate cancer.
+  Your doctor has prescribed doxazosin tablets for your BPH and not for prostate cancer; however, a man can have BPH and prostate cancer at the same time.
   Doctors usually recommend that men be checked for prostate cancer once a year when they turn 50 (or 40 if a family member has had prostate cancer).
   A higher incidence of prostate cancer has been noted in men of African-American descent.
-  These checks should continue even if you are taking doxazosin tablets USP.
+  These checks should continue even if you are taking doxazosin tablets.
 
-How To Take Doxazosin Tablets USP and What You Should Know While Taking Doxazosin Tablets USP for BPH
+How To Take Doxazosin Tablets and What You Should Know While Taking Doxazosin Tablets for BPH
 
-Doxazosin Tablets USP Can Cause a Sudden Drop in Blood Pressure After the VERY FIRST DOSE.
+Doxazosin Tablets Can Cause a Sudden Drop in Blood Pressure After the VERY FIRST DOSE.
 You may feel dizzy, faint or “light-headed,” especially after you stand up from a lying or sitting position.
 This is more likely to occur after you’ve taken the first few doses or if you increase your dose, but can occur at any time while you are taking the drug.
 It can also occur if you stop taking the drug and then restart treatment.
 If you feel very dizzy, faint or “light-headed” you should contact your doctor.
 Your doctor will discuss with you how often you need to visit and how often your blood pressure should be checked.
 
-Your blood pressure should be checked when you start taking doxazosin tablets USP even if you do not have high blood pressure (hypertension).
+Your blood pressure should be checked when you start taking doxazosin tablets even if you do not have high blood pressure (hypertension).
 Your doctor will discuss with you the details of how blood pressure is measured.
 
 Blood Pressure Measurement: Whatever equipment is used, it is usual for your blood pressure to be measured in the following way: measure your blood pressure after lying quietly on your back for five minutes.
@@ -88,31 +88,31 @@ Then, after standing for two minutes measure your blood pressure again.
 Your doctor will discuss with you what other times during the day your blood pressure should be taken, such as two to six hours after a dose, before bedtime or after waking up in the morning.
 Note that moderate to high-intensity exercise can, over a period of time, lower your average blood pressure.
 
-You can take doxazosin tablets USP either in the morning or at bedtime and it will be equally effective.
-If you take doxazosin tablets USP at bedtime but need to get up from bed to go to the bathroom, get up slowly and cautiously until you are sure how the medication affects you.
-It is important to get up slowly from a chair or bed at any time until you learn how you react to doxazosin tablets USP.
+You can take doxazosin tablets either in the morning or at bedtime and it will be equally effective.
+If you take doxazosin tablets at bedtime but need to get up from bed to go to the bathroom, get up slowly and cautiously until you are sure how the medication affects you.
+It is important to get up slowly from a chair or bed at any time until you learn how you react to doxazosin tablets.
 You should not drive or do any hazardous tasks until you are used to the effects of the medication.
 If you begin to feel dizzy, sit or lie down until you feel better.
 
-- You will start with a 1 mg dose of doxazosin tablets USP once daily.
+- You will start with a 1 mg dose of doxazosin tablets once daily.
   Then the once daily dose will be increased as your body gets used to the effects of the medication.
-  Follow your doctor’s instructions about how to take doxazosin tablets USP.
+  Follow your doctor’s instructions about how to take doxazosin tablets.
   You must take it every day at the dose prescribed.
   Talk with your doctor if you don’t take it for a few days for some reason; you may then need to restart the medication at a 1 mg dose, increase your dose gradually and again be cautious about possible dizziness.
-  Do not share doxazosin tablets USP with anyone else; they were prescribed only for you.
-- Other side effects you could have while taking doxazosin tablets USP, in addition to lowering of the blood pressure, include dizziness, fatigue (tiredness), swelling of the feet and shortness of breath.
+  Do not share doxazosin tablets with anyone else; they were prescribed only for you.
+- Other side effects you could have while taking doxazosin tablets, in addition to lowering of the blood pressure, include dizziness, fatigue (tiredness), swelling of the feet and shortness of breath.
   Most side effects are mild.
   However, you should discuss any unexpected effects you notice with your doctor.
-- WARNING: Extremely rarely, doxazosin tablets USP and similar medications have caused painful erection of the penis, sustained for hours and unrelieved by sexual intercourse or masturbation.
+- WARNING: Extremely rarely, doxazosin tablets and similar medications have caused painful erection of the penis, sustained for hours and unrelieved by sexual intercourse or masturbation.
   This condition is serious, and if untreated it can be followed by permanent inability to have an erection.
   If you have a prolonged abnormal erection, call your doctor or go to an emergency room as soon as possible.
-- Tell your surgeon if you take or have taken doxazosin tablets USP if you plan to have surgery for cataracts (clouding of the eye).
-  During cataract surgery, a condition called Intraoperative Floppy Iris Syndrome (IFIS) can happen if you take or have taken doxazosin tablets USP.
-- If you use doxazosin tablets USP with an oral erectile dysfunction medicine (phosphodiesterase-5 (PDE-5) inhibitor), it can cause a sudden drop in your blood pressure and you can become dizzy or faint.
+- Tell your surgeon if you take or have taken doxazosin tablets if you plan to have surgery for cataracts (clouding of the eye).
+  During cataract surgery, a condition called Intraoperative Floppy Iris Syndrome (IFIS) can happen if you take or have taken doxazosin tablets.
+- If you use doxazosin tablets with an oral erectile dysfunction medicine (phosphodiesterase-5 (PDE-5) inhibitor), it can cause a sudden drop in your blood pressure and you can become dizzy or faint.
   Talk with your healthcare provider before using PDE-5 inhibitors.
-- Keep doxazosin tablets USP and all medicines out of the reach of children.
+- Keep doxazosin tablets and all medicines out of the reach of children.
 
-FOR MORE INFORMATION ABOUT DOXAZOSIN TABLETS USP AND BPH TALK WITH YOUR DOCTOR, NURSE, PHARMACIST OR OTHER HEALTH CARE PROVIDER.
+FOR MORE INFORMATION ABOUT DOXAZOSIN TABLETS AND BPH TALK WITH YOUR DOCTOR, NURSE, PHARMACIST OR OTHER HEALTHCARE PROVIDER.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
@@ -129,4 +129,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-D 2/2013
+E 11/2013

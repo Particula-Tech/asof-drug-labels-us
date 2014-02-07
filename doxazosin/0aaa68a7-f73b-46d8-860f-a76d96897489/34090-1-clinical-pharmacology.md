@@ -42,7 +42,7 @@ TABLE 1: SUMMARY OF EFFECTIVENESS DATA IN PLACEBO-CONTROLLED TRIALS
 | Doxazosin mesylate | 49 | 14.5 | -4.9p < 0.01 compared to placebo mean change. | 41 | 9.8 | +2.9 |
 | STUDY 2 (Titration to fixed dose-14 weeks)Study in hypertensives with BPH. |  |  |  |  |  |  |
 | Placebo | 37 | 20.7 | -2.5 | 30 | 10.6 | +0.1 |
-| Doxazosin mesylate 4 mg | 38 | 21.2 | -5.0 | 32 | 9.8 | +2.3p < 0.05 compared to placebo mean change. |
+| Doxazosin mesylate 4 mg | 38 | 21.2 | -5 | 32 | 9.8 | +2.3p < 0.05 compared to placebo mean change. |
 | Doxazosin mesylate 8 mg | 42 | 19.9 | -4.2 | 36 | 10.5 | +3.3 |
 | STUDY 3 (Titration to fixed dose-12 weeks) |  |  |  |  |  |  |
 | Placebo | 47 | 14.9 | -4.7 | 44 | 9.9 | +2.1 |
@@ -118,7 +118,7 @@ The area under the curve after morning dosing was, however, 11% less than that a
 The pharmacokinetics of doxazosin mesylate in young (< 65 years) and elderly (≥ 65 years) subjects were similar for plasma half-life values and oral clearance.
 Pharmacokinetic studies in elderly patients and patients with renal impairment have shown no significant alterations compared to younger patients with normal renal function.
 Administration of a single 2 mg dose to patients with cirrhosis (Child-Pugh Class A) showed a 40% increase in exposure to doxazosin.
-There are only limited data on the effects of drugs known to influence the hepatic metabolism of doxazosin [e.g., cimetidine (see PRECAUTIONS, Drug Interactions)].
+There are only limited data on the effects of drugs known to influence the hepatic metabolism of doxazosin [e.g., cimetidine (see PRECAUTIONS,Drug Interactions)].
 As with any drug wholly metabolized by the liver, use of doxazosin mesylate in patients with altered liver function should be undertaken with caution.
 
 In two placebo-controlled studies of normotensive and hypertensive BPH patients, in which doxazosin was administered in the morning and the titration interval was two weeks and one week, respectively, trough plasma concentrations of doxazosin mesylate were similar in the two populations.

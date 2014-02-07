@@ -59,7 +59,7 @@ These symptoms were common in clinical trials in hypertension, occurring in up t
 In placebo-controlled titration trials in hypertension, orthostatic effects were minimized by beginning therapy at 1 mg per day and titrating every two weeks to 2, 4, or 8 mg per day.
 There was an increased frequency of orthostatic effects in patients given 8 mg or more, 10%, compared to 5% at 1 to 4 mg and 3% in the placebo group.
 
-#### Benign prostatic hyperplasia
+#### Benign Prostatic Hyperplasia
 
 In placebo-controlled trials in BPH, the incidence of orthostatic hypotension with doxazosin was 0.3% and did not increase with increasing dosage (to 8 mg/day).
 The incidence of discontinuations due to hypotensive or orthostatic symptoms was 3.3% with doxazosin and 1% with placebo.
@@ -95,7 +95,7 @@ Doxazosin mesylate should be administered with caution to patients with evidence
 
 ### Leukopenia/Neutropenia
 
-Analysis of hematologic data from hypertensive patients receiving doxazosin mesylate in controlled hypertension clinical trials showed that the mean WBC (N = 474) and mean neutrophil counts (N = 419) were decreased by 2.4% and 1.0%, respectively, compared to placebo, a phenomenon seen with other alpha-blocking drugs.
+Analysis of hematologic data from hypertensive patients receiving doxazosin mesylate in controlled hypertension clinical trials showed that the mean WBC (N = 474) and mean neutrophil counts (N = 419) were decreased by 2.4% and 1%, respectively, compared to placebo, a phenomenon seen with other alpha-blocking drugs.
 In BPH patients, the incidence of clinically significant WBC abnormalities was 0.4% (2/459) with doxazosin mesylate and 0% (0/147) with placebo, with no statistically significant difference between the two treatment groups.
 A search through a data base of 2400 hypertensive patients and 665 BPH patients revealed 4 hypertensives in which drug-related neutropenia could not be ruled out and one BPH patient in which drug-related leukopenia could not be ruled out.
 Two hypertensives had a single low value on the last day of treatment.
@@ -141,7 +141,7 @@ There have been no reports of any effects of doxazosin on male fertility in huma
 
 ### Teratogenic Effects
 
-#### Pregnancy category C
+#### Pregnancy Category C
 
 Studies in pregnant rabbits and rats at daily oral doses of up to 41 and 20 mg/kg, respectively (plasma drug concentrations 10 and 4 times human Cmax and AUC exposures with a 12 mg/day therapeutic dose), have revealed no evidence of harm to the fetus.
 A dosage regimen of 82 mg/kg/day in the rabbit was associated with reduced fetal survival.

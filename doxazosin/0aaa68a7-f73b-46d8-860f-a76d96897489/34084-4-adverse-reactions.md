@@ -13,43 +13,43 @@ TABLE 3: ADVERSE REACTIONS DURING PLACEBO-CONTROLLED STUDIES BENIGN PROSTATIC HY
 | Body System | DOXAZOSIN MESYLATE(N = 665) | PLACEBO(N = 300) |
 | --- | --- | --- |
 | BODY AS A WHOLE |  |  |
-| Back Pain | 1.8% | 2.0% |
+| Back Pain | 1.8% | 2% |
 | Chest Pain | 1.2% | 0.7% |
-| Fatigue | 8.0%p ≤ 0.05 for treatment differences | 1.7% |
-| Headache | 9.9% | 9.0% |
-| Influenza-like Symptoms | 1.1% | 1.0% |
-| Pain | 2.0% | 1.0% |
+| Fatigue | 8%p ≤ 0.05 for treatment differences | 1.7% |
+| Headache | 9.9% | 9% |
+| Influenza-like Symptoms | 1.1% | 1% |
+| Pain | 2% | 1% |
 | CARDIOVASCULAR SYSTEM |  |  |
-| Hypotension | 1.7% | 0.0% |
+| Hypotension | 1.7% | 0% |
 | Palpitation | 1.2% | 0.3% |
 | DIGESTIVE SYSTEM |  |  |
-| Abdominal Pain | 2.4% | 2.0% |
-| Diarrhea | 2.3% | 2.0% |
+| Abdominal Pain | 2.4% | 2% |
+| Diarrhea | 2.3% | 2% |
 | Dyspepsia | 1.7% | 1.7% |
 | Nausea | 1.5% | 0.7% |
 | METABOLIC AND NUTRITIONAL DISORDERS |  |  |
 | Edema | 2.7% | 0.7% |
 | NERVOUS SYSTEM |  |  |
-| DizzinessIncludes vertigo | 15.6% | 9.0% |
+| DizzinessIncludes vertigo | 15.6% | 9% |
 | Mouth Dry | 1.4% | 0.3% |
-| Somnolence | 3.0% | 1.0% |
+| Somnolence | 3% | 1% |
 | RESPIRATORY SYSTEM |  |  |
 | Dyspnea | 2.6% | 0.3% |
 | Respiratory Disorder | 1.1% | 0.7% |
 | SPECIAL SENSES |  |  |
 | Vision Abnormal | 1.4% | 0.7% |
 | UROGENITAL SYSTEM |  |  |
-| Impotence | 1.1% | 1.0% |
+| Impotence | 1.1% | 1% |
 | Urinary Tract Infection | 1.4% | 2.3% |
 | SKIN & APPENDAGES |  |  |
-| Sweating Increased | 1.1% | 1.0% |
+| Sweating Increased | 1.1% | 1% |
 | PSYCHIATRIC DISORDERS |  |  |
 | Anxiety | 1.1% | 0.3% |
 | Insomnia | 1.2% | 0.3% |
 
 In these placebo-controlled studies of 665 doxazosin mesylate patients treated for a mean of 85 days, additional adverse reactions have been reported.
 These are less than 1% and not distinguishable from those that occurred in the placebo group.
-Adverse reactions with an incidence of less than 1% but of clinical interest are (doxazosin mesylate vs. placebo): Cardiovascular System: angina pectoris (0.6% vs. 0.7%), postural hypotension (0.3% vs. 0.3%), syncope (0.5% vs. 0.0%), tachycardia (0.9% vs. 0.0%); Urogenital System: dysuria (0.5% vs. 1.3%); and Psychiatric Disorders: libido decreased (0.8% vs. 0.3%).
+Adverse reactions with an incidence of less than 1% but of clinical interest are (doxazosin mesylate vs. placebo): Cardiovascular System: angina pectoris (0.6% vs. 0.7%), postural hypotension (0.3% vs. 0.3%), syncope (0.5% vs. 0%), tachycardia (0.9% vs. 0%); Urogenital System: dysuria (0.5% vs. 1.3%); and Psychiatric Disorders: libido decreased (0.8% vs. 0.3%).
 The safety profile in patients treated for up to three years was similar to that in the placebo-controlled studies.
 
 The majority of adverse experiences with doxazosin mesylate were mild.
