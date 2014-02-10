@@ -14,7 +14,13 @@ Other measures, in conjunction with discontinuation of TOPAMAX®, may be helpful
 
 Elevated intraocular pressure of any etiology, if left untreated, can lead to serious sequelae including permanent vision loss.
 
-## 5.2 Oligohidrosis and Hyperthermia
+## 5.2 Visual Field Defects
+
+Visual field defects have been reported in patients receiving topiramate independent of elevated intraocular pressure.
+In clinical trials, most of these events were reversible after topiramate discontinuation.
+If visual problems occur at any time during topiramate treatment, consideration should be given to discontinuing the drug [see Patient Counseling Information (17)].
+
+## 5.3 Oligohidrosis and Hyperthermia
 
 Oligohidrosis (decreased sweating), infrequently resulting in hospitalization, has been reported in association with TOPAMAX® use.
 Decreased sweating and an elevation in body temperature above normal characterized these cases.
@@ -24,7 +30,7 @@ The majority of the reports have been in pediatric patients.
 Patients, especially pediatric patients, treated with TOPAMAX® should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
 Caution should be used when TOPAMAX® is prescribed with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity.
 
-## 5.3 Metabolic Acidosis
+## 5.4 Metabolic Acidosis
 
 Hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) is associated with TOPAMAX® treatment.
 This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of topiramate on carbonic anhydrase.
@@ -63,13 +69,13 @@ A reduction in growth rate may eventually decrease the maximal height achieved.
 The effect of topiramate on growth and bone-related sequelae has not been systematically investigated in long-term, placebo-controlled trials.
 Long-term, open-label treatment of infants/toddlers, with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in Z SCORES for length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal infants.
 Reductions in Z SCORES for length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
-Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.6) and Use in Specific Populations (8.1)].
+Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
 
 Measurement of baseline and periodic serum bicarbonate during topiramate treatment is recommended.
 If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing topiramate (using dose tapering).
 If the decision is made to continue patients on topiramate in the face of persistent acidosis, alkali treatment should be considered.
 
-## 5.4 Suicidal Behavior and Ideation
+## 5.5 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including TOPAMAX®, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -105,7 +111,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, or behavior or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.5 Cognitive/Neuropsychiatric Adverse Reactions
+## 5.6 Cognitive/Neuropsychiatric Adverse Reactions
 
 Adverse reactions most often associated with the use of TOPAMAX® were related to the central nervous system and were observed in both the epilepsy and migraine populations.
 In adults, the most frequent of these can be classified into three general categories: 1) Cognitive-related dysfunction (e.g., confusion, psychomotor slowing, difficulty with concentration/attention, difficulty with memory, speech or language problems, particularly word-finding difficulties); 2) Psychiatric/behavioral disturbances (e.g., depression or mood problems); and 3) Somnolence or fatigue.
@@ -133,7 +139,7 @@ Rarely, topiramate-treated patients experienced three concurrent cognitive react
 
 Psychiatric/Behavioral Disturbances
 
-Psychiatric/behavioral disturbances (depression or mood) were dose-related for both the epilepsy and migraine populations [see Warnings and Precautions (5.4)].
+Psychiatric/behavioral disturbances (depression or mood) were dose-related for both the epilepsy and migraine populations [see Warnings and Precautions (5.5)].
 
 Somnolence/Fatigue
 
@@ -155,28 +161,28 @@ No patients discontinued treatment due to any adverse reactions in the adjunctiv
 In the monotherapy epilepsy double-blind trial, 1 pediatric patient (2%) in the 50 mg/day group and 7 pediatric patients (12%) in the 400 mg/day group discontinued treatment due to any adverse reactions.
 The most common adverse reaction associated with discontinuation of therapy was difficulty with concentration/attention; all occurred in the 400 mg/day group.
 
-## 5.6 Fetal Toxicity
+## 5.7 Fetal Toxicity
 
 TOPAMAX® can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts).
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
-Consider the benefits and the risks of TOPAMAX® when administering this drug in women of childbearing potential, particularly when TOPAMAX® is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.9) and Patient Counseling Information (17.8)].
+Consider the benefits and the risks of TOPAMAX® when administering this drug in women of childbearing potential, particularly when TOPAMAX® is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.9) and Patient Counseling Information (17)].
 TOPAMAX® should be used during pregnancy only if the potential benefit outweighs the potential risk.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1) and (8.9)].
 
-## 5.7 Withdrawal of Antiepileptic Drugs (AEDs)
+## 5.8 Withdrawal of Antiepileptic Drugs (AEDs)
 
 In patients with or without a history of seizures or epilepsy, antiepileptic drugs, including TOPAMAX®, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
 In situations where rapid withdrawal of TOPAMAX® is medically required, appropriate monitoring is recommended.
 
-## 5.8 Sudden Unexplained Death in Epilepsy (SUDEP)
+## 5.9 Sudden Unexplained Death in Epilepsy (SUDEP)
 
 During the course of premarketing development of topiramate tablets, 10 sudden and unexplained deaths were recorded among a cohort of treated patients (2796 subject years of exposure).
 This represents an incidence of 0.0035 deaths per patient year.
 Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with epilepsy not receiving TOPAMAX® (ranging from 0.0005 for the general population of patients with epilepsy, to 0.003 for a clinical trial population similar to that in the TOPAMAX® program, to 0.005 for patients with refractory epilepsy).
 
-## 5.9 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use)
+## 5.10 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use)
 
 Hyperammonemia/Encephalopathy Without Concomitant Valproic Acid (VPA)
 
@@ -212,7 +218,7 @@ Although not studied, topiramate treatment or an interaction of concomitant topi
 
 In patients who develop unexplained lethargy, vomiting, or changes in mental status associated with any topiramate treatment, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
 
-## 5.10 Kidney Stones
+## 5.11 Kidney Stones
 
 A total of 32/2086 (1.5%) of adults exposed to topiramate during its adjunctive epilepsy therapy development reported the occurrence of kidney stones, an incidence about 2 to 4 times greater than expected in a similar, untreated population.
 In the double-blind monotherapy epilepsy study, a total of 4/319 (1.3%) of adults exposed to topiramate reported the occurrence of kidney stones.
@@ -222,40 +228,40 @@ During long-term (up to 1 year) topiramate treatment in an open-label extension 
 TOPAMAX® is not approved for pediatric patients less than 2 years old [see Use in Specific Populations (8.4)].
 
 An explanation for the association of TOPAMAX® and kidney stones may lie in the fact that topiramate is a carbonic anhydrase inhibitor.
-Carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide, or dichlorphenamide) can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.3)].
+Carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide, or dichlorphenamide) can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.4)].
 The concomitant use of TOPAMAX® with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet, may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
 
 Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.
 Hydration is recommended to reduce new stone formation.
 
-## 5.11 Hypothermia with Concomitant Valproic Acid (VPA) Use
+## 5.12 Hypothermia with Concomitant Valproic Acid (VPA) Use
 
 Hypothermia, defined as an unintentional drop in body core temperature to <35°C (95°F), has been reported in association with topiramate use with concomitant valproic acid (VPA) both in conjunction with hyperammonemia and in the absence of hyperammonemia.
 This adverse reaction in patients using concomitant topiramate and valproate can occur after starting topiramate treatment or after increasing the daily dose of topiramate [see Drug Interactions (7.1)].
 Consideration should be given to stopping topiramate or valproate in patients who develop hypothermia, which may be manifested by a variety of clinical abnormalities including lethargy, confusion, coma, and significant alterations in other major organ systems such as the cardiovascular and respiratory systems.
 Clinical management and assessment should include examination of blood ammonia levels.
 
-## 5.12 Paresthesia
+## 5.13 Paresthesia
 
 Paresthesia (usually tingling of the extremities), an effect associated with the use of other carbonic anhydrase inhibitors, appears to be a common effect of TOPAMAX®.
 Paresthesia was more frequently reported in the monotherapy epilepsy trials and migraine prophylaxis trials than in the adjunctive therapy epilepsy trials.
 In the majority of instances, paresthesia did not lead to treatment discontinuation.
 
-## 5.13 Adjustment of Dose in Renal Failure
+## 5.14 Adjustment of Dose in Renal Failure
 
 The major route of elimination of unchanged topiramate and its metabolites is via the kidney.
 Dosage adjustment may be required in patients with reduced renal function [see Dosage and Administration (2.4)].
 
-## 5.14 Decreased Hepatic Function
+## 5.15 Decreased Hepatic Function
 
 In hepatically impaired patients, TOPAMAX® should be administered with caution as the clearance of topiramate may be decreased [see Dosage and Administration (2.7)].
 
-## 5.15 Monitoring: Laboratory Tests
+## 5.16 Monitoring: Laboratory Tests
 
 Topiramate treatment was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies.
 
 Topiramate treatment causes non-anion gap, hyperchloremic metabolic acidosis manifested by a decrease in serum bicarbonate and an increase in serum chloride.
-Measurement of baseline and periodic serum bicarbonate during TOPAMAX® treatment is recommended [see Warnings and Precautions (5.3)].
+Measurement of baseline and periodic serum bicarbonate during TOPAMAX® treatment is recommended [see Warnings and Precautions (5.4)].
 
 Controlled trials of adjunctive topiramate treatment of adults for partial onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate, 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate, 1% placebo), and decreased serum potassium (0.4 % topiramate, 0.1 % placebo).
 The clinical significance of these abnormalities has not been clearly established.
@@ -264,4 +270,4 @@ Changes in several clinical laboratory values (i.e., increased creatinine, BUN, 
 
 Topiramate treatment produced a dose-related increased shift in serum creatinine from normal at baseline to an increased value at the end of 4 months treatment in adolescent patients (ages 12–16 years) who were treated for migraine prophylaxis in a double-blind, placebo-controlled study.
 
-TOPAMAX® treatment with or without concomitant valproic acid (VPA) can cause hyperammonemia with or without encephalopathy [see Warnings and Precautions (5.9)].
+TOPAMAX® treatment with or without concomitant valproic acid (VPA) can cause hyperammonemia with or without encephalopathy [see Warnings and Precautions (5.10)].

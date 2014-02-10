@@ -5,17 +5,18 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
 - Acute Myopia and Secondary Angle Closure [see Warnings and Precautions (5.1)]
-- Oligohidrosis and Hyperthermia [see Warnings and Precautions (5.2)]
-- Metabolic Acidosis [see Warnings and Precautions (5.3)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.4)]
-- Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.5)]
-- Fetal Toxicity [see Warnings and Precautions (5.6) and Use in Specific Populations (8.1)]
-- Withdrawal of Antiepileptic Drugs (AEDs) [see Warnings and Precautions (5.7)]
-- Sudden Unexplained Death in Epilepsy (SUDEP) [see Warnings and Precautions (5.8)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use [see Warnings and Precautions (5.9)]
-- Kidney Stones [see Warnings and Precautions (5.10)]
-- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.11)]
-- Paresthesia [see Warnings and Precautions (5.12)]
+- Visual Field Defects [see Warnings and Precautions (5.2)]
+- Oligohidrosis and Hyperthermia [see Warnings and Precautions (5.3)]
+- Metabolic Acidosis [see Warnings and Precautions (5.4)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
+- Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
+- Fetal Toxicity [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)]
+- Withdrawal of Antiepileptic Drugs (AEDs) [see Warnings and Precautions (5.8)]
+- Sudden Unexplained Death in Epilepsy (SUDEP) [see Warnings and Precautions (5.9)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use [see Warnings and Precautions (5.10)]
+- Kidney Stones [see Warnings and Precautions (5.11)]
+- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.12)]
+- Paresthesia [see Warnings and Precautions (5.13)]
 
 The data described in the following sections were obtained using TOPAMAX® (topiramate) Tablets.
 
@@ -33,7 +34,7 @@ Pediatric Patients 6 to <16 Years of Age
 The adverse reactions in the controlled trial that occurred most commonly in pediatric patients in the 400 mg/day TOPAMAX® group and at a rate higher (≥ 5%) than in the 50 mg/day group were fever, weight decrease, mood problems, cognitive problems, infection, flushing, and paresthesia (see Table 5).
 
 Approximately 14% of the 77 pediatric patients in the 400 mg/day group who received TOPAMAX® as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
-The most common (> 2% more frequent than low-dose 50 mg/day TOPAMAX®) adverse reactions resulting in discontinuation in this trial were difficulty with concentration/attention, fever, flushing, and confusion.
+The most common (≥ 2% more frequent than low-dose 50 mg/day TOPAMAX®) adverse reactions resulting in discontinuation in this trial were difficulty with concentration/attention, fever, flushing, and confusion.
 
 Table 5: Incidence of Treatment-Emergent Adverse Reactions in Monotherapy Epilepsy Where the Rate Was at Least 2% in Any TOPAMAX® Group and the Rate in the 400 mg/day TOPAMAX® Group Was Greater Than the Rate in the 50 mg/day TOPAMAX® Group for Adults (≥16 Years) and Pediatric (6 to <16 Years) Patients in Study TOPMAX-EPMN-106
 
@@ -523,7 +524,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Anorexia | 6 | 9 | 15 | 14 |
 | Somnolence | 5 | 8 | 7 | 10 |
 | Difficulty with memory | 2 | 7 | 7 | 11 |
-| Difficulty with concentration/attention | 2 | 3 | 6 | 10 |
+| Difficulty with concentration/ attention | 2 | 3 | 6 | 10 |
 | Insomnia | 5 | 6 | 7 | 6 |
 | Anxiety | 3 | 4 | 5 | 6 |
 | Mood problems | 2 | 3 | 6 | 5 |
@@ -588,7 +589,7 @@ Table 11: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlle
 | Weight decrease | 1 | 6 | 9 | 11 |
 | Difficulty with memory | 2 | 7 | 7 | 11 |
 | Diarrhea | 4 | 9 | 11 | 11 |
-| Difficulty with concentration/attention | 2 | 3 | 6 | 10 |
+| Difficulty with concentration/ attention | 2 | 3 | 6 | 10 |
 | Somnolence | 5 | 8 | 7 | 10 |
 | Hypoesthesia | 2 | 6 | 7 | 8 |
 | Anxiety | 3 | 4 | 5 | 6 |

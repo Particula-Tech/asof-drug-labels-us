@@ -46,7 +46,7 @@ Renal Impairment
 The clearance of topiramate was reduced by 42% in moderately renally impaired (creatinine clearance 30 to 69 mL/min/1.73m2) and by 54% in severely renally impaired subjects (creatinine clearance <30 mL/min/1.73m2) compared to normal renal function subjects (creatinine clearance >70 mL/min/1.73m2).
 Since topiramate is presumed to undergo significant tubular reabsorption, it is uncertain whether this experience can be generalized to all situations of renal impairment.
 It is conceivable that some forms of renal disease could differentially affect glomerular filtration rate and tubular reabsorption resulting in a clearance of topiramate not predicted by creatinine clearance.
-In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4) and (2.5) and Warnings and Precautions (5.13)].
+In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4) and (2.5) and Warnings and Precautions (5.14)].
 
 Hemodialysis
 
@@ -69,7 +69,7 @@ Similarly, topiramate half-life was longer (13%) in the elderly.
 Reduced topiramate clearance resulted in slightly higher maximum plasma concentration (23%) and AUC (25%) in elderly subjects than observed in young adults.
 Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced.
 As recommended for all patients, dosage adjustment may be indicated in the elderly patient when impaired renal function (creatinine clearance rate ≤70 mL/min/1.73 m2) is evident.
-It may be useful to monitor renal function in the elderly patient [see Dosage and Administration (2.4) and Warnings and Precautions (5.13)].
+It may be useful to monitor renal function in the elderly patient [see Dosage and Administration (2.4) and Warnings and Precautions (5.14)].
 
 Clearance of topiramate in adults was not affected by gender or race.
 
@@ -113,7 +113,7 @@ Table 12: Summary of AED Interactions with TOPAMAX®
 | NE = Not Evaluated. |  |  |
 | TPM = Topiramate |  |  |
 
-In addition to the pharmacokinetic interaction described in the above table, concomitant administration of valproic acid and TOPAMAX® has been associated with hyperammonemia with and without encephalopathy and hypothermia [see Warnings and Precautions (5.9), (5.11) and Drug Interactions (7.1)].
+In addition to the pharmacokinetic interaction described in the above table, concomitant administration of valproic acid and TOPAMAX® has been associated with hyperammonemia with and without encephalopathy and hypothermia [see Warnings and Precautions (5.10), (5.12) and Drug Interactions (7.1)].
 
 CNS Depressants
 

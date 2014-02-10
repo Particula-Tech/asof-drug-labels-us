@@ -12,7 +12,7 @@ Its saturated solution has a pH of 6.3.
 Topiramate has the molecular formula C12H21NO8S and a molecular weight of 339.36.
 Topiramate is designated chemically as 2,3:4,5-Di-O-isopropylidene-β-D-fructopyranose sulfamate and has the following structural formula:
 
-TOPAMAX® Tablets contain the following inactive ingredients: lactose monohydrate, pregelatinized starch, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, purified water, carnauba wax, hypromellose, titanium dioxide, polyethylene glycol, synthetic iron oxide, and polysorbate 80.
+TOPAMAX® Tablets contain the following inactive ingredients: carnauba wax, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, purified water, sodium starch glycolate, synthetic iron oxide, and titanium dioxide.
 
 TOPAMAX® Sprinkle Capsules contain topiramate-coated beads in a hard gelatin capsule.
 The inactive ingredients are sugar spheres (sucrose and starch), povidone, cellulose acetate, gelatin, sorbitan monolaurate, sodium lauryl sulfate, titanium dioxide, and black pharmaceutical ink.

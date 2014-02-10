@@ -131,7 +131,7 @@ Table 14: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy 
 | Y3 | N | 28 | -- | -- | -- | 28 | -- | -- |
 | Median % Reduction |  | -20.6 | -- | -- | -- | 24.3 | -- | -- |
 | % Responders |  | 0 | -- | -- | -- | 43 | -- | -- |
-| 119 N |  | 91 | 168 | -- | -- | -- | -- | -- |
+| 119 | N | 91 | 168 | -- | -- | -- | -- | -- |
 | Median % Reduction |  | 20.0 | 44.2 | -- | -- | -- | -- | -- |
 | % Responders |  | 24 | 45 | -- | -- | -- | -- | -- |
 | Studies in Pediatric Patients |  |  |  |  |  |  |  |  |

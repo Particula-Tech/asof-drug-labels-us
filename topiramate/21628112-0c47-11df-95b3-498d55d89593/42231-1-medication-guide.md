@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 TOPAMAX® (TOE-PA-MAX) (topiramate) Tablets and Sprinkle Capsules
 
@@ -15,7 +15,7 @@ Serious eye problems include:
 - any sudden decrease in vision with or without eye pain and redness,
 - a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma).
 - These eye problems can lead to permanent loss of vision if not treated.
-  You should call your healthcare provider right away if you have any new eye symptoms.
+- You should call your healthcare provider right away if you have any new eye symptoms, including any new problems with your vision.
 
 TOPAMAX® may cause decreased sweating and increased body temperature (fever).
 People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
@@ -237,7 +237,7 @@ Inactive ingredients:
 - Tablets - lactose monohydrate, pregelatinized starch, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, purified water, carnauba wax, hypromellose, titanium dioxide, polyethylene glycol, synthetic iron oxide, and polysorbate 80.
 - Sprinkle Capsules - sugar spheres (sucrose and starch), povidone, cellulose acetate, gelatin, sorbitan monolaurate, sodium lauryl sulfate, titanium dioxide, and black pharmaceutical ink.
 
-Revised October 2012
+Revised January 2014
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
