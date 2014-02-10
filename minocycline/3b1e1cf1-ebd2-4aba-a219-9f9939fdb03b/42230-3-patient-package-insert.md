@@ -1,6 +1,8 @@
 Patient Information
 
-Minocycline Hydrochloride Extended-Release Tablets
+Minocycline Hydrochloride Extended-release Tablets
+
+(mye no SYE kleen)
 
 Rx only
 
@@ -71,7 +73,7 @@ How should I take minocycline hydrochloride extended-release tablets?
 
 - Take minocycline hydrochloride extended-release tablets exactly as your doctor tells you.
 - Skipping doses or not taking all doses of minocycline hydrochloride extended-release tablets may:
-- make treatment not work as well.
+- make the treatment not work as well.
 - increase the chances that the bacteria will become resistant to minocycline hydrochloride extended-release tablets.
 - Minocycline hydrochloride extended-release tablets can be taken with or without food.
   Taking minocycline hydrochloride extended-release tablets with food may lower your chances of getting irritation or ulcers in your esophagus.
@@ -98,7 +100,7 @@ Minocycline hydrochloride extended-release tablets may cause serious side effect
 - Harm to an unborn baby.
   See "What should I tell my doctor before taking minocycline hydrochloride extended-release tablets?"
 - Permanent teeth discoloration.
-  Minocycline hydrochloride extended-release tablets may permanently turn a baby or child’s teeth yellow-grey-brown during tooth development.
+  Minocycline hydrochloride extended-release tablets may permanently turn a baby or child's teeth yellow-grey-brown during tooth development.
   Minocycline hydrochloride extended-release tablets should not be used during tooth development.
   Tooth development happens in the last half of pregnancy, and from birth to 8 years of age.
   See "What should I tell my doctor before taking minocycline hydrochloride extended-release tablets?"
@@ -115,13 +117,13 @@ Minocycline hydrochloride extended-release tablets may cause serious side effect
 - confusion
 - sleepiness
 - Central nervous system effects.
-  See "What should I avoid while taking minocycline hydrochloride extended-release tablets?"
+  See "What should I avoid while taking minocycline hydrochloride extended-release tablets ?"
   Central nervous system effects such as light headedness, dizziness, and a spinning feeling (vertigo) may go away during your treatment with minocycline hydrochloride extended-release tablets or if treatment is stopped.
 - Benign intracranial hypertension, also called pseudotumor cerebri.
   This is a condition where there is high pressure in the fluid around the brain.
   This swelling may lead to vision changes and permanent vision loss.
   Stop taking minocycline hydrochloride extended-release tablets and tell your doctor right away if you have blurred vision, vision loss, or unusual headaches.
-- Immune system reactions including a lupus-like syndrome, hepatitis, and inflammation of blood or lymph vessels (vasculitis).
+  Immune system reactions including a lupus-like syndrome, hepatitis, and inflammation of blood or lymph vessels (vasculitis).
   Using minocycline hydrochloride extended-release tablets for a long time to treat acne may cause immune system reactions.
   Tell your doctor right away if you get a fever, rash, joint pain, or body weakness.
   Your doctor may do tests to check your blood for immune system reactions.
@@ -159,7 +161,7 @@ You may also report side effects to Lupin Pharmaceuticals, Inc. at 1-800-399-256
 How should I store minocycline hydrochloride extended-release tablets?
 
 - Store minocycline hydrochloride extended-release tablets between 59°F to 86°F (15°C to 30°C).
-- Keep minocycline hydrochloride extended-release tablets in the container that they come in and keep the container tightly closed.
+- Keep minocycline hydrochloride extended-release tablets in the container that it comes in and keep the container tightly closed.
 - Keep minocycline hydrochloride extended-release tablets dry.
 
 Keep minocycline hydrochloride extended-release tablets and all medicines out of the reach of children.
@@ -175,12 +177,14 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk to your doctor.
 You can ask your doctor or pharmacist for information about minocycline hydrochloride extended-release tablets that is written for health professionals.
 
-What are the Ingredients in Minocycline Hydrochloride Extended-Release Tablets?
+For more information, call 1-800-399-2561.
+
+What are the Ingredients in minocycline hydrochloride extended-release tablets?
 
 Active Ingredient: Minocycline Hydrochloride USP
 
-Inactive Ingredients: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
-The 45 mg tablets also contain iron oxide red, the 90 mg tablets also contain iron oxide yellow and talc and 135 mg tablets also contain iron oxide red and iron oxide yellow.
+Inactive Ingredients: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide.
+The 45 mg tablets also contain iron oxide red, the 90 mg tablets also contain iron oxide yellow and talc, and 135 mg tablets also contain iron oxide red and iron oxide yellow.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -200,4 +204,4 @@ Pithampur (M.P.) - 454 775
 
 INDIA
 
-October 2011 ID#: 226682
+February 2014 ID#: 236593

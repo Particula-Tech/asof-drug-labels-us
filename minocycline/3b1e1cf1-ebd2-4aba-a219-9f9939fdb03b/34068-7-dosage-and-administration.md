@@ -5,7 +5,7 @@ Higher doses have not shown to be of additional benefit in the treatment of infl
 
 The following table shows tablet strength and body weight to achieve approximately 1 mg/kg.
 
-Table 1: Dosing Table for Minocycline Hydrochloride Extended-Release Tablets
+Table 1: Dosing Table for Minocycline Hydrochloride Extended-release Tablets
 
 | Patient's Weight (lbs.) | Patient's Weight (kg) | Tablet Strength (mg) | Actual mg/kg Dose |
 | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ Table 1: Dosing Table for Minocycline Hydrochloride Extended-Release Tablets
 | 244 - 276 | 111 - 125 | 115 | 1.04 - 0.92 |
 | 277 - 300 | 126 - 136 | 135 | 1.07 - 0.99 |
 
-Minocycline hydrochloride extended-release tablets may be taken with or without food [see CLINICAL PHARMACOLOGY (12)].
+Minocycline hydrochloride extended-release tablets may be taken with or without food [see CLINICAL PHARMACOLOGY (12.3)].
 Ingestion of food along with minocycline hydrochloride extended-release tablets may help reduce the risk of esophageal irritation and ulceration.
 
 In patients with renal impairment, the total dosage should be decreased by either reducing the recommended individual doses and/or by extending the time intervals between doses [see WARNINGS AND PRECAUTIONS (5.4)].

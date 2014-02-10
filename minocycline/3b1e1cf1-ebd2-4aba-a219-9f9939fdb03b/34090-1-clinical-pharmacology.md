@@ -11,8 +11,8 @@ The pharmacodynamics of minocycline hydrochloride extended-release tablets for t
 ## 12.3 Pharmacokinetics
 
 Minocycline hydrochloride extended-release tablets are not bioequivalent to non-modified release minocycline products.
-Based on pharmacokinetic studies in healthy adults, minocycline hydrochloride extended-release tablets produce a delayed Tmax at 3.5 to 4 hours as compared to a non-modified release reference minocycline product (Tmax at 2.25 to 3 hours).
-At steady-state (Day 6), the mean AUC (0-24) and Cmax were 33.32 mcg × hr/mL and 2.63 mcg/mL for minocycline hydrochloride extended-release tablets and 46.35 mcg × hr/mL and 2.92 mcg/mL for Minocin® capsules, respectively.
+Based on pharmacokinetic studies in healthy adults, minocycline hydrochloride extended-release tablets produce a delayed Tmax at 3.5 to 4.0 hours as compared to a non-modified release reference minocycline product (Tmax at 2.25 to 3 hours).
+At steady-state (Day 6), the mean AUC (0-24) and Cmax were 33.32 mcg hr/mL and 2.63 mcg/mL for minocycline hydrochloride extended-release tablets and 46.35 mcg hr/mL and 2.92 mcg/mL for Minocin® capsules, respectively.
 These parameters are based on dose adjusted to 135 mg per day for both products.
 
 A single-dose, four-way crossover study demonstrated that minocycline hydrochloride extended-release tablets used in the study (45 mg, 90 mg, 135 mg) exhibited dose-proportional pharmacokinetics.

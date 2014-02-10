@@ -1,8 +1,8 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (Patient Information)]
+[See FDA-Approved Patient Labeling (Patient Labeling)]
 
-Patients taking Minocycline Hydrochloride Extended-Release Tablets should receive the following information and instructions:
+Patients taking minocycline hydrochloride extended-release tablets should receive the following information and instructions:
 
 - Minocycline hydrochloride extended-release tablets should not be used by pregnant women or women attempting to conceive a child [see USE IN SPECIFIC POPULATIONS (8.1), NONCLINICAL TOXICOLOGY (13.1)].
 - It is recommended that minocycline hydrochloride extended-release tablets not be used by men who are attempting to father a child [see NONCLINICAL TOXICOLOGY (13.1)].
@@ -18,7 +18,7 @@ Patients taking Minocycline Hydrochloride Extended-Release Tablets should receiv
   Patients who experience such symptoms should be cautioned to stop the drug immediately and seek medical help.
 - Patients should be counseled about discoloration of skin, scars, teeth or gums that can arise from minocycline therapy.
 - Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines, including minocycline.
-  Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while using minocycline.
+  Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UV A/B treatment) while using minocycline.
   If patients need to be outdoors while using minocycline, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   Treatment should be discontinued at the first evidence of skin erythema.
 - Minocycline hydrochloride extended-release tablets should be taken exactly as directed.
@@ -46,4 +46,4 @@ Pithampur (M.P.) - 454 775
 
 INDIA
 
-October 2011 ID#: 226681
+February 2014 ID#: 236592

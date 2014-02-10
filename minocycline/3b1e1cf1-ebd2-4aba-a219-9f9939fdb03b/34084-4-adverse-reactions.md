@@ -1,14 +1,14 @@
 # 6. ADVERSE REACTIONS
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under prescribed conditions, adverse reaction rates observed in the clinical trial may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
 
 The following table summarizes selected adverse reactions reported in clinical trials at a rate of ≥1% for minocycline hydrochloride extended-release tablets.
 
 Table 2: Selected Treatment-Emergent Adverse Reactions in at least 1% of Clinical Trial Subjects
 
-| Adverse Reactions | Minocycline hydrochloride Extended-Release Tablets (1 mg/kg) N = 674 (%) | Placebo N = 364 (%) |
+| Adverse Reactions | Minocycline hydrochloride extended-release tablets (1 mg/kg) N = 674 (%) | Placebo N = 364 (%) |
 | --- | --- | --- |
 | At least one treatment-emergent event | 379 (56) | 197 (54) |
 | Headache | 152 (23) | 83 (23) |

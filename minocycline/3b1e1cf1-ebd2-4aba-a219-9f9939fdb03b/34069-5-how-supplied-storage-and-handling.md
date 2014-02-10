@@ -1,7 +1,5 @@
 # 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
-
 Minocycline hydrochloride extended-release tablets are supplied as aqueous film coated tablets containing minocycline hydrochloride equivalent to 45 mg, 90 mg, or 135 mg minocycline.
 
 The 45 mg extended-release tablets are pink colored, round shaped, biconvex, film-coated tablets debossed with "F21" on one side and "LU" on the other side.
@@ -25,11 +23,11 @@ NDC 68180-381-06 Bottle of 30
 
 NDC 68180-381-01 Bottle of 100
 
-## 16.2 Storage
+## 16.1 Storage
 
-Store at 25ºC (77ºF); excursions are permitted to 15º to 30ºC (59º to 86ºF) [See USP Controlled Room Temperature].
+Store at 25 C (77 F); excursions are permitted to 15 to 30 C (59 to 86 F) [see USP Controlled Room Temperature].
 
-## 16.3 Handling
+## 16.2 Handling
 
 Keep out of reach of children.
 

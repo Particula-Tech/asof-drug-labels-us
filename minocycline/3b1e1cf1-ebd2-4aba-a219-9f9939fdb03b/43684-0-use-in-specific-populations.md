@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy category D [see WARNINGS AND PRECAUTIONS (5.1)]
+Teratogenic Effects: Pregnancy Category D [see WARNINGS AND PRECAUTIONS (5.1)]
 
 Minocycline hydrochloride extended-release tablets should not be used during pregnancy.
 If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus and stop treatment immediately.

@@ -5,7 +5,7 @@
 A. MINOCYCLINE, LIKE OTHER TETRACYCLINE-CLASS DRUGS, CAN CAUSE FETAL HARM WHEN ADMINISTERED TO A PREGNANT WOMAN.
 IF ANY TETRACYCLINE IS USED DURING PREGNANCY OR IF THE PATIENT BECOMES PREGNANT WHILE TAKING THESE DRUGS, THE PATIENT SHOULD BE APPRISED OF THE POTENTIAL HAZARD TO THE FETUS.
 
-Minocycline hydrochloride extended-release tablets should not be used during pregnancy or by individuals of either gender who are attempting to conceive a child [see NONCLINICAL TOXICOLOGY (13.1)& USE IN SPECIFIC POPULATIONS (8.1)].
+Minocycline hydrochloride extended-release tablets should not be used during pregnancy or by individuals of either gender who are attempting to conceive a child [see NONCLINICAL TOXICOLOGY (13.1) and USE IN SPECIFIC POPULATIONS (8.1)].
 
 B. THE USE OF DRUGS OF THE TETRACYCLINE CLASS DURING TOOTH DEVELOPMENT (LAST HALF OF PREGNANCY, INFANCY, AND CHILDHOOD UP TO THE AGE OF 8 YEARS) MAY CAUSE PERMANENT DISCOLORATION OF THE TEETH (YELLOW-GRAY-BROWN).
 
@@ -22,7 +22,7 @@ Evidence of embryotoxicity has been noted in animals treated early in pregnancy 
 
 ## 5.2 Pseudomembranous Colitis
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with the use of nearly all antibacterial agents, including minocycline hydrochloride, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with nearly all antibacterial agents, including minocycline, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -30,7 +30,7 @@ Hypertoxin producing strains of C. difficile cause increased morbidity and morta
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotics use not directed against C. difficile may need to be discontinued.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## 5.3 Hepatotoxicity
@@ -74,7 +74,7 @@ Use of all tetracycline-class drugs should be discontinued immediately.
 
 Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines.
 This has been reported rarely with minocycline.
-Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while using minocycline.
+Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UV A/B treatment) while using minocycline.
 If patients need to be outdoors while using minocycline, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
 
 ## 5.9 Serious Skin/Hypersensitivity Reaction
@@ -93,7 +93,7 @@ Tetracycline therapy may induce hyperpigmentation in many organs, including nail
 Skin and oral pigmentation has been reported to occur independently of time or amount of drug administration, whereas other tissue pigmentation has been reported to occur upon prolonged administration.
 Skin pigmentation includes diffuse pigmentation as well as over sites of scars or injury.
 
-## 5.11 Development of Drug Resistant Bacteria
+## 5.11 Development of Drug-Resistant Bacteria
 
 Bacterial resistance to the tetracyclines may develop in patients using minocycline hydrochloride extended-release tablets, therefore, the susceptibility of bacteria associated with infection should be considered in selecting antimicrobial therapy.
 Because of the potential for drug-resistant bacteria to develop during the use of minocycline hydrochloride extended-release tablets, it should be used only as indicated.
@@ -105,5 +105,5 @@ If superinfection occurs, minocycline hydrochloride extended-release tablets sho
 
 ## 5.13 Laboratory Monitoring
 
-Periodic laboratory evaluations of organ systems, including hematopoietic renal and hepatic studies should be performed.
+Periodic laboratory evaluations of organ systems, including hematopoietic, renal and hepatic studies should be performed.
 Appropriate tests for autoimmune syndromes should be performed as indicated.

@@ -4,5 +4,5 @@ Minocycline hydrochloride, a semi synthetic derivative of tetracycline, is [4S-(
 The structural formula is represented below:
 
 Minocycline hydrochloride extended-release tablets for oral administration contain minocycline hydrochloride USP equivalent to 45 mg, 90 mg or 135 mg of minocycline.
-In addition, 45 mg, 90 mg and 135 mg tablets contain the following inactive ingredients: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
-The 45 mg tablets also contain iron oxide red, the 90 mg tablets also contain iron oxide yellow and talc and 135 mg tablets also contain iron oxide red and iron oxide yellow.
+In addition, 45 mg, 90 mg and 135 mg tablets contain the following inactive ingredients: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide.
+The 45 mg tablets also contain iron oxide red, the 90 mg tablets also contain iron oxide yellow and talc, and 135 mg tablets also contain iron oxide red and iron oxide yellow.
