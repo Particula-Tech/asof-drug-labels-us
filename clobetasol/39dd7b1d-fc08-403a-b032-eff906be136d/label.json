@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021142"
+  ],
+  "inn": "clobetasol",
+  "labeler": "Prestium Pharma, Inc.",
+  "package_ndcs": [
+    "40076-031-00",
+    "40076-031-50"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "clobetasol propionate",
+      "name": "OLUX"
+    }
+  ],
+  "setid": "39dd7b1d-fc08-403a-b032-eff906be136d",
+  "source": "dailymed"
+}
