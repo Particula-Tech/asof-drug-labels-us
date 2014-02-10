@@ -5,9 +5,9 @@
 Two identical multicenter, randomized, double-blind, double-dummy studies of Zoledronic Acid Injection 4 mg given as a 5-minute intravenous infusion or pamidronate 90 mg given as a 2-hour intravenous infusion were conducted in 185 patients with hypercalcemia of malignancy (HCM).
 NOTE: Administration of Zoledronic Acid Injection 4 mg given as a 5-minute intravenous infusion has been shown to result in an increased risk of renal toxicity, as measured by increases in serum creatinine, which can progress to renal failure.
 The incidence of renal toxicity and renal failure has been shown to be reduced when Zoledronic Acid Injection 4 mg is given as a 15-minute intravenous infusion.
-Zoledronic Acid Injection should be administered by intravenous infusion over no less than 15 minutes [see Warnings And Precautions (5.1, 5.2) and Dosage And Administration (2.4)].
+Zoledronic Acid Injection should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5.1 and 5.2) and Dosage and Administration (2.4)].
 The treatment groups in the clinical studies were generally well balanced with regards to age, sex, race, and tumor types.
-The mean age of the study population was 59 years; 81% were Caucasian, 15% were Black, and 4% were of other races.
+The mean age of the study population was 59 years; 81% were Caucasian, 15% were black, and 4% were of other races.
 60% of the patients were male.
 The most common tumor types were lung, breast, head and neck, and renal.
 

@@ -50,7 +50,7 @@ Discontinue use if severe symptoms develop.
 Most patients had relief of symptoms after stopping.
 A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate [see Adverse Reactions (6.2)].
 
-## 5.6 Atypical subtrochanteric and diaphyseal femoral fractures
+## 5.6 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
 
 Atypical subtrochanteric and diaphyseal femoral fractures have been reported in patients receiving bisphosphonate therapy, including Zoledronic Acid Injection.
 These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to just above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution.
@@ -79,6 +79,14 @@ Bisphosphonates, such as Zoledronic Acid Injection, are incorporated into the bo
 There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 
 Zoledronic Acid Injection may cause fetal harm when administered to a pregnant woman.
-In reproductive studies in pregnant rats, subcutaneous doses equivalent to 2.4 or 4.8 times the human systemic exposure resulted in pre- and post-implantation losses, decreases in viable fetuses and fetal skeletal, visceral, and external malformations.
+In reproductive studies in pregnant rats, subcutaneous doses equivalent to 2.4 or 4.8 times the human systemic exposure resulted in pre- and postimplantation losses, decreases in viable fetuses and fetal skeletal, visceral, and external malformations.
 There are no adequate and well controlled studies in pregnant women.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
+
+## 5.10 Hypocalcemia
+
+Hypocalcemia has been reported in patients treated with Zoledronic Acid Injection.
+Cardiac arrhythmias and neurologic adverse events (seizures, tetany, and numbness) have been reported secondary to cases of severe hypocalcemia.
+In some instances, hypocalcemia may be life-threatening.
+Hypocalcemia must be corrected before initiating Zoledronic Acid Injection.
+Adequately supplement patients with calcium and vitamin D.

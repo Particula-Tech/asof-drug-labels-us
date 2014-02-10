@@ -15,4 +15,4 @@ The patient developed paresthesia and abnormal liver function tests with increas
 The outcome of this case is not known.
 
 In controlled clinical trials, administration of Zoledronic Acid Injection 4 mg as an intravenous infusion over 5 minutes has been shown to increase the risk of renal toxicity compared to the same dose administered as a 15-minute intravenous infusion.
-In controlled clinical trials, Zoledronic Acid Injection 8 mg has been shown to be associated with an increased risk of renal toxicity compared to Zoledronic Acid Injection 4 mg, even when given as a 15-minute intravenous infusion, and was not associated with added benefit in patients with hypercalcemia of malignancy [see Dosage And Administration (2.4)].
+In controlled clinical trials, Zoledronic Acid Injection 8 mg has been shown to be associated with an increased risk of renal toxicity compared to Zoledronic Acid Injection 4 mg, even when given as a 15-minute intravenous infusion, and was not associated with added benefit in patients with hypercalcemia of malignancy [see Dosage and Administration (2.4)].
