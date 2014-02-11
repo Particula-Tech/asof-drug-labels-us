@@ -2,14 +2,14 @@
 
 REVATIO Tablets
 
-REVATIO tablets are supplied as white, film-coated, round tablets engraved with "RVT20" containing sildenafil citrate equivalent to 20 mg of sildenafil.
+White, film-coated, round tablets engraved with "RVT20" containing sildenafil citrate equivalent to 20 mg of sildenafil.
 
 REVATIO Injection
 
-REVATIO injection is supplied as a single use vial containing 10 mg (12.5 mL) of sildenafil.
+Single use vial containing 10 mg/12.5 mL of sildenafil.
 
 REVATIO for Oral Suspension
 
-REVATIO for oral suspension is supplied in 125 mL bottles containing 32.27 g of a white to off-white powder.
-Following constitution with water, the volume of the oral suspension is 112 mL and each bottle contains 1.57 g of sildenafil citrate (1.12 g sildenafil).
-A 2 mL oral syringe and a press-in bottle adaptor are also provided.
+White to off-white powders containing 1.57 g of sildenafil citrate (equivalent to 1.12 g of sildenafil) in a bottle intended for constitution.
+Following constitution with 90 mL of water, the volume of the oral suspension is 112 mL and the oral suspension contains 10 mg/mL sildenafil.
+A 2 mL oral syringe (with 0.5 mL and 2 mL dose markings) and a press-in bottle adaptor are also provided.

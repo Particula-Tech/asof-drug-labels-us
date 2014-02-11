@@ -2,7 +2,7 @@
 
 Studies of Adults with Pulmonary Arterial Hypertension
 
-Study 1
+Study 1 (REVATIO monotherapy (20 mg, 40 mg, and 80 mg three times a day))
 
 A randomized, double-blind, placebo-controlled study of REVATIO (Study 1) was conducted in 277 patients with PAH (defined as a mean pulmonary artery pressure of greater than or equal to 25 mmHg at rest with a pulmonary capillary wedge pressure less than 15 mmHg).
 Patients were predominantly World Health Organization (WHO) functional classes II–III.
@@ -11,13 +11,13 @@ The use of prostacyclin analogues, endothelin receptor antagonists, and arginine
 Subjects who had failed to respond to bosentan were also excluded.
 Patients with left ventricular ejection fraction less than 45% or left ventricular shortening fraction less than 0.2 also were not studied.
 
-Patients were randomized to receive placebo (n=70) or REVATIO 20 mg (n = 69), 40 mg (n = 67) or 80 mg (n = 71) TID for a period of 12 weeks.
+Patients were randomized to receive placebo (n=70) or REVATIO 20 mg (n = 69), 40 mg (n = 67) or 80 mg (n = 71) three times a day for a period of 12 weeks.
 They had either primary pulmonary hypertension (PPH) (63%), PAH associated with CTD (30%), or PAH following surgical repair of left-to-right congenital heart lesions (7%).
 The study population consisted of 25% men and 75% women with a mean age of 49 years (range: 18–81 years) and baseline 6-minute walk distance between 100 and 450 meters (mean 343).
 
 The primary efficacy endpoint was the change from baseline at week 12 (at least 4 hours after the last dose) in the 6-minute walk distance.
 Placebo-corrected mean increases in walk distance of 45–50 meters were observed with all doses of REVATIO.
-These increases were significantly different from placebo, but the REVATIO dose groups were not different from each other (see Figure 9), indicating no additional clinical benefit from doses higher than 20 mg TID.
+These increases were significantly different from placebo, but the REVATIO dose groups were not different from each other (see Figure 9), indicating no additional clinical benefit from doses higher than 20 mg three times a day.
 The improvement in walk distance was apparent after 4 weeks of treatment and was maintained at week 8 and week 12.
 
 | Figure 9. Change from Baseline in 6-Minute Walk Distance (meters) at Weeks 4, 8, and 12 in Study 1: Mean (95% Confidence Interval) |
@@ -27,32 +27,14 @@ Figure 10 displays subgroup efficacy analyses in Study 1 for the change from bas
 
 | Figure 10. Placebo-Corrected Change From Baseline in 6-Minute Walk Distance (meters) at Week 12 by study subpopulation in Study 1: Mean (95% Confidence Interval) |
 | --- |
-
-Key: PAH = pulmonary arterial hypertension; CTD = connective tissue disease; PH = pulmonary hypertension; PAP = pulmonary arterial pressure; PVRI = pulmonary vascular resistance index; TID = three times daily.
-
-Patients on all REVATIO doses achieved a statistically significant reduction in mean pulmonary arterial pressure (mPAP) compared to those on placebo.
-Data from other hemodynamic parameters for the REVATIO 20 mg TID and placebo dosing regimens is displayed in Table 3.
-The relationship between these effects and improvements in 6-minute walk distance is unknown.
-
-Table 3.
-Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for the REVATIO 20 mg TID and Placebo Group
-
-|  | Placebo (n = 65)The number of patients per treatment group varied slightly for each parameter due to missing assessments. | REVATIO 20 mg TID (n = 65) |
-| --- | --- | --- |
-| mPAP (mmHg) | 0.6 (-0.8, 2.0) | -2.1 (-4.3, 0.0) |
-| PVR (dyn∙s/cm5) | 49 (-54, 153) | -122 (-217, -27) |
-| SVR (dyn∙s/cm5) | -78 (-197, 41) | -167 (-307, -26) |
-| RAP (mmHg) | 0.3 (-0.9, 1.5) | -0.8 (-1.9, 0.3) |
-| CO (L/min) | -0.1 (-0.4, 0.2) | 0.4 (0.1, 0.7) |
-| HR (beats/min) | -1.3 (-4.1, 1.4) | -3.7 (-5.9, -1.4) |
-| mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate |  |  |
+| Key: PAH = pulmonary arterial hypertension; CTD = connective tissue disease; PH = pulmonary hypertension; PAP = pulmonary arterial pressure; PVRI = pulmonary vascular resistance index; TID = three times daily. |
 
 Of the 277 treated patients, 259 entered a long-term, uncontrolled extension study.
 At the end of 1 year, 94% of these patients were still alive.
 Additionally, walk distance and functional class status appeared to be stable in patients taking REVATIO.
 Without a control group, these data must be interpreted cautiously.
 
-Study 2
+Study 2 (REVATIO co-administered with epoprostenol)
 
 A randomized, double-blind, placebo controlled study (Study 2) was conducted in 267 patients with PAH who were taking stable doses of intravenous epoprostenol.
 Patients had to have a mean pulmonary artery pressure (mPAP) greater than or equal to 25 mmHg and a pulmonary capillary wedge pressure (PCWP) less than or equal to 15 mmHg at rest via right heart catheterization within 21 days before randomization, and a baseline 6-minute walk test distance greater than or equal to 100 meters and less than or equal to 450 meters (mean 349 meters).
@@ -91,3 +73,28 @@ Clinical Worsening Events in Study 2
 
 Improvements in WHO functional class for PAH were also demonstrated in subjects on REVATIO compared to placebo.
 More than twice as many REVATIO-treated patients (36%) as placebo-treated patients (14%) showed an improvement in at least one functional New York Heart Association (NYHA) class for PAH.
+
+Study 3 (REVATIO monotherapy (1 mg, 5 mg, and 20 mg three times a day))
+
+A randomized, double-blind, parallel dose study (Study 3) was planned in 219 patients with PAH.
+This study was prematurely terminated with 129 subjects enrolled.
+Patients were required to have a mPAP greater than or equal to 25 mmHg and a PCWP less than or equal to 15 mmHg at rest via right heart catheterization within 12 weeks before randomization, and a baseline 6-minute walk test distance greater than or equal to 100 meters and less than or equal to 450 meters (mean 345 meters).
+Patients were randomized to 1 of 3 doses of REVATIO: 1 mg, 5 mg, and 20 mg, three times a day.
+
+At baseline patients had PPH (74%) or secondary PAH (26%); WHO functional class II (57%), III (41%), or IV (2%); the mean age was 44 years; and 67% were female.
+The majority of subjects were Asian (67%), and 28% were Caucasian.
+
+The primary efficacy endpoint was the change from baseline at Week 12 (at least 4 hours after the last dose) in the 6-minute walk distance.
+Similar increases in walk distance (mean increase of 38–41 meters) were observed in the 5 and 20 mg dose groups.
+These increases were significantly better than those observed in the 1 mg dose group (Figure 12).
+
+| Figure 12. Mean Change from Baseline in Six Minute Walk (meters) by Visit to Week 12 – ITT Population Sildenafil Protocol A1481244 |
+| --- |
+
+Study 4 (REVATIO added to bosentan therapy – lack of effect on exercise capacity)
+
+A randomized, double-blind, placebo controlled study was conducted in 103 patients with PAH who were on bosentan therapy for a minimum of three months.
+The PAH patients included those with primary PAH, and PAH associated with CTD.
+Patients were randomized to placebo or sildenafil (20 mg three times a day) in combination with bosentan (62.5–125 mg twice a day).
+The primary efficacy endpoint was the change from baseline at Week 12 in 6MWD.
+The results indicate that there is no significant difference in mean change from baseline on 6MWD observed between sildenafil 20 mg plus bosentan and bosentan alone.

@@ -4,8 +4,7 @@
 
 In a long-term trial in pediatric patients with PAH, an increase in mortality with increasing REVATIO dose was observed.
 Deaths were first observed after about 1 year and causes of death were typical of patients with PAH.
-Use of REVATIO, particularly chronic use, is not recommended in children.
-[see Use in Specific Populations (8.4)].
+Use of REVATIO, particularly chronic use, is not recommended in children [see Use in Specific Populations (8.4)].
 
 ## 5.2 Hypotension
 

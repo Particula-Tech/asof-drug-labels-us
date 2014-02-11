@@ -5,6 +5,4 @@ The delay in clinical worsening was demonstrated when REVATIO was added to backg
 
 Studies establishing effectiveness were short-term (12 to 16 weeks), and included predominately patients with New York Heart Association (NYHA) Functional Class II–III symptoms and idiopathic etiology (71%) or associated with connective tissue disease (CTD) (25%).
 
-Limitation of Use
-
-The efficacy of REVATIO in the treatment of pulmonary arterial hypertension (PAH) has not been adequately evaluated in patients taking bosentan.
+Limitation of Use: Adding sildenafil to bosentan therapy does not result in any beneficial effect on exercise capacity [see Clinical Studies (14)].

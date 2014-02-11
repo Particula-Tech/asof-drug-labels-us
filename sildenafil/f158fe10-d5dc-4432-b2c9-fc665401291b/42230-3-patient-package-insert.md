@@ -1,4 +1,4 @@
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 REVATIO® (re-VAH-tee-oh) (sildenafil) tablets
 
@@ -31,7 +31,7 @@ Your heart has to work hard to pump blood into your lungs.
 REVATIO improves the ability to exercise and can slow down worsening changes in your physical condition.
 
 - REVATIO is not for use in children
-- It is not known if REVATIO is effective for the treatment of PAH in people who are also taking a medicine called bosentan (Tracleer®)
+- Adding REVATIO to another medication used to treat PAH, bosentan (Tracleer®), does not result in improvement in your ability to exercise.
 
 REVATIO contains the same medicine as VIAGRA® (sildenafil), which is used to treat erectile dysfunction (impotence).
 Do not take REVATIO with VIAGRA or other PDE-5 inhibitors.
@@ -85,7 +85,7 @@ How should I take REVATIO?
 REVATIO may be prescribed to you as
 
 - REVATIO tablets or REVATIO oral suspension
-- Take REVATIO tablet or oral suspension 3 times a day about 4 to 6 hours apart.
+- Take REVATIO tablet or oral suspension 3 times a day about 4 to 6 hours apart
 - Take REVATIO tablets or oral suspension at the same times every day.
 - REVATIO oral suspension will be mixed for you by your pharmacist.
   Do not mix REVATIO oral suspension with other medicine or flavoring.
@@ -130,10 +130,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store REVATIO?
 
-- Store REVATIO tablets at controlled room temperature, between 68°F to 77°F (20°C –25°C).
-- Store REVATIO constituted oral suspension below 86°F (30°C) or in a refrigerator between 36°F to 46°F (2°C to 8°C).
+- Store REVATIO tablets at controlled room temperature, between 20°C –25°C (68°F to 77°F).
+- Store REVATIO constituted oral suspension below 30°C (86°F) or in a refrigerator between 2°C to 8°C (36°F to 46°F).
 - Do not freeze REVATIO oral suspension.
-- Throw away REVATIO oral suspension after 30 days.
+- Throw away REVATIO oral suspension after 60 days.
 - Keep REVATIO and all medicines away from children.
 
 General information about REVATIO
@@ -145,9 +145,7 @@ It could harm them.
 
 This patient leaflet summarizes the most important information about REVATIO.
 If you would like more information about REVATIO talk with your doctor.
-You can ask
-
-your doctor or pharmacist for information about REVATIO that is written for health professionals.
+You can ask your doctor or pharmacist for information about REVATIO that is written for health professionals.
 
 For more information go to www.REVATIO.com or call 1-800-879-3477.
 
@@ -170,4 +168,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-LAB-0335-6.0 August 2012
+LAB-0335-7.0 January 2014
