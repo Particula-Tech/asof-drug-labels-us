@@ -116,7 +116,7 @@ The risks of using haloperidol in combination with other drugs have been evaluat
 
 Since QT-prolongation has been observed during Haldol treatment, caution is advised when prescribing to a patient with QT-prolongation conditions (long QT-syndrome, hypokalemia, electrolyte imbalance) or to patients receiving medications known to prolong the QT-interval or known to cause electrolyte imbalance.
 
-As with other antipsychotic agents, it should be noted that HALDOL may be capable of potentiating CNS depressants such as anesthetics, opiates and alcohol.
+As with other antipsychotic agents, it should be noted that HALDOL may be capable of potentiating CNS depressants such as anesthetics, opiates, and alcohol.
 
 Ketoconazole is a potent inhibitor of CYP3A4.
 Increases in QTc have been observed when haloperidol was given in combination with the metabolic inhibitors ketoconazole (400 mg/day) and paroxetine (20 mg/day).

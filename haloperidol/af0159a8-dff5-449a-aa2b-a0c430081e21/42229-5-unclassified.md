@@ -1,8 +1,8 @@
 For IM Injection Only
 
-Manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium
+Manufactured by: GlaxoSmithKline Manufacturing S.p.A.
+Parma, Italy
 
-Manufactured for: Ortho-McNeil Neurologics, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Revised August 2011 ©Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2005
+Revised July 2013 © Janssen Pharmaceuticals, Inc. 2005
