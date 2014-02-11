@@ -46,8 +46,7 @@ Table 1: Most Common Adverse Reactions (≥1%) in Wet AMD Studies
 | Eyelid edema | 1% | 2% |
 | Corneal edema | 1% | 1% |
 
-Less common serious adverse reactions reported in <1% of the patients treated with EYLEA were retinal detachment, retinal tear, and endophthalmitis.
-Hypersensitivity has also been reported in less than 1% of the patients treated with EYLEA.
+Less common serious adverse reactions reported in <1% of the patients treated with EYLEA were hypersensitivity, retinal detachment, retinal tear, and endophthalmitis.
 
 Macular Edema Following Central Retinal Vein Occlusion (CRVO)
 

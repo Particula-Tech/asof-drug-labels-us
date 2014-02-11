@@ -19,7 +19,7 @@ Anatomic data were not used to influence treatment decisions.
 
 Macular Edema Following Central Retinal Vein Occlusion (CRVO)
 
-Reductions in mean retinal thickness were observed in COPERNICUS and GALILEO at Week 24 compared to baseline.
+Reductions in mean retinal thickness were observed in COPERNICUS and GALILEO at week 24 compared to baseline.
 Anatomic data were not used to influence treatment decisions.
 [see Clinical Studies (14.2)].
 
