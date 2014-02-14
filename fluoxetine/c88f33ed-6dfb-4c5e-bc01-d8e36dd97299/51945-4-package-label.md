@@ -2,7 +2,7 @@ PACKAGE LABEL- Prozac 10 mg, bottle of 100
 
 NDC 0777-3104-02
 
-100 Pulvules®
+100 PULVULES®
 
 No. 3104
 
