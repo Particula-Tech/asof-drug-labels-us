@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA021392"
+  ],
+  "inn": "diltiazem",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-2045-30",
+    "0187-2045-90",
+    "0187-2046-30",
+    "0187-2046-90",
+    "0187-2047-30",
+    "0187-2047-90",
+    "0187-2048-30",
+    "0187-2048-90",
+    "0187-2049-30",
+    "0187-2049-90",
+    "0187-2050-30",
+    "0187-2050-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "diltiazem hydrochloride",
+      "name": "Cardizem LA"
+    }
+  ],
+  "setid": "3e180dc7-c871-4efc-8755-cae882976c8d",
+  "source": "dailymed"
+}
