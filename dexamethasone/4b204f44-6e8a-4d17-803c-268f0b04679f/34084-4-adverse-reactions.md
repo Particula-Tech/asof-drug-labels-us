@@ -30,4 +30,4 @@ Following a second injection of OZURDEX® in cases where a second injection was 
 
 The following reactions have been identified during post-marketing use of OZURDEX® in clinical practice.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to OZURDEX®, or a combination of these factors, include: complication of device insertion (implant misplacement), device dislocation with or without corneal edema, endophthalmitis, and hypotony of the eye (associated with vitreous leakage due to injection).
+The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to OZURDEX®, or a combination of these factors, include: complication of device insertion (implant misplacement), device dislocation with or without corneal edema, endophthalmitis, hypotony of the eye (associated with vitreous leakage due to injection), and retinal detachment.

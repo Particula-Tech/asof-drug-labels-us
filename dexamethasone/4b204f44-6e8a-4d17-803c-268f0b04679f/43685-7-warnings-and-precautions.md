@@ -2,7 +2,7 @@
 
 ## 5.1 Intravitreal Injection-related Effects
 
-Intravitreal injections have been associated with endophthalmitis, eye inflammation, increased intraocular pressure, and retinal detachments.
+Intravitreal injections, including those with OZURDEX®, have been associated with endophthalmitis, eye inflammation, increased intraocular pressure, and retinal detachments.
 
 Patients should be monitored regularly following the injection [see Patient Counseling Information (17)].
 
