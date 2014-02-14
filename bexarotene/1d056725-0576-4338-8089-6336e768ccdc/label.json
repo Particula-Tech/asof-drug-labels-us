@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021055"
+  ],
+  "inn": "bexarotene",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-5526-75"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "bexarotene",
+      "name": "Targretin"
+    }
+  ],
+  "setid": "1d056725-0576-4338-8089-6336e768ccdc",
+  "source": "dailymed"
+}
