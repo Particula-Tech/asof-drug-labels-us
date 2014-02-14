@@ -1,12 +1,15 @@
 # ADVERSE REACTIONS
 
-In controlled clinical trials, patients predominantly with moderate to severe motor fluctuations while on carbidopa and levodopa tablets were randomized to therapy with either carbidopa and levodopa tablets or carbidopa and levodopa extended release tablets.
-The adverse experience frequency profile of carbidopa and levodopa extended release tablets did not differ substantially from that of carbidopa and levodopa tablets, as shown in Table I.
+In controlled clinical trials, patients predominantly with moderate to severe motor fluctuations while on carbidopa and levodopa tablets were randomized to therapy with either carbidopa and levodopa tablets or carbidopa and levodopa extended-release tablets.
+The adverse experience frequency profile of carbidopa and levodopa extended-release tablets did not differ substantially from that of carbidopa and levodopa tablets, as shown in Table 1.
 
-Table I. Clinical Adverse Experiences Occurring in 1% or Greater of Patients
+Table 1.
+Clinical Adverse Experiences Occurring in 1% or Greater of Patients
 
-| Adverse Experience | Carbidopa and levodopa extended release tablets n=491 % | Carbidopa and levodopa tablets n=524 % |
+| Adverse Experience | % | % |
 | --- | --- | --- |
+|  | Carbidopa and levodopa extended-release tablets | Carbidopa and levodopa tablets |
+|  | n = 491 | n = 524 |
 | Dyskinesia | 16.5 | 12.2 |
 | Nausea | 5.5 | 5.7 |
 | Hallucinations | 3.9 | 3.2 |
@@ -14,32 +17,31 @@ Table I. Clinical Adverse Experiences Occurring in 1% or Greater of Patients
 | Dizziness | 2.9 | 2.3 |
 | Depression | 2.2 | 1.3 |
 | Urinary tract infection | 2.2 | 2.3 |
-| Headache | 2.0 | 1.9 |
+| Headache | 2 | 1.9 |
 | Dream abnormalities | 1.8 | 0.8 |
 | Dystonia | 1.8 | 0.8 |
 | Vomiting | 1.8 | 1.9 |
-| Upper respiratory infection | 1.8 | 1.0 |
+| Upper respiratory infection | 1.8 | 1 |
 | Dyspnea | 1.6 | 0.4 |
-| “On-Off” phenomena | 1.6 | 1.1 |
+| `On-Off' phenomena | 1.6 | 1.1 |
 | Back pain | 1.6 | 0.6 |
 | Dry mouth | 1.4 | 1.1 |
 | Anorexia | 1.2 | 1.1 |
 | Diarrhea | 1.2 | 0.6 |
-| Insomnia | 1.2 | 1.0 |
-| Orthostatic hypotension | 1.0 | 1.1 |
-| Shoulder pain | 1.0 | 0.6 |
-| Chest pain | 1.0 | 0.8 |
-| Muscle cramps | 0.8 | 1.0 |
+| Insomnia | 1.2 | 1 |
+| Orthostatic hypotension | 1 | 1.1 |
+| Shoulder pain | 1 | 0.6 |
+| Chest pain | 1 | 0.8 |
+| Muscle cramps | 0.8 | 1 |
 | Paresthesia | 0.8 | 1.1 |
 | Urinary frequency | 0.8 | 1.1 |
 | Dyspepsia | 0.6 | 1.1 |
 | Constipation | 0.2 | 1.5 |
 
-Abnormal laboratory findings occurring at a frequency of 1% or greater in approximately 443 patients who received carbidopa and levodopa extended release tablets and 475 who received carbidopa and levodopa tablets during controlled clinical trials included: decreased hemoglobin and hematocrit; elevated serum glucose; white blood cells, bacteria and blood in the urine.
-
+Abnormal laboratory findings occurring at a frequency of 1% or greater in approximately 443 patients who received carbidopa and levodopa extended-release tablets and 475 who received carbidopa and levodopa tablets during controlled clinical trials included: decreased hemoglobin and hematocrit; elevated serum glucose; white blood cells, bacteria and blood in the urine.
 The adverse experiences observed in patients in uncontrolled studies were similar to those seen in controlled clinical studies.
 
-Other adverse experiences reported overall in clinical trials in 748 patients treated with carbidopa and levodopa extended release tablets, listed by body system in order of decreasing frequency, include:
+Other adverse experiences reported overall in clinical trials in 748 patients treated with carbidopa and levodopa extended-release tablets, listed by body system in order of decreasing frequency, include:
 
 Body as a Whole: Asthenia, fatigue, abdominal pain, orthostatic effects.
 
@@ -63,33 +65,20 @@ Urogenital: Urinary incontinence.
 
 Laboratory Tests: Decreased white blood cell count and serum potassium; increased BUN, serum creatinine and serum LDH; protein and glucose in the urine.
 
-The following adverse experiences have been reported in post-marketing experience with carbidopa and levodopa extended release tablets.
-
-Cardiovascular: Cardiac irregularities, syncope.
+The following adverse experiences have been reported in postmarketing experience with carbidopa and levodopa extended-release tablets: Cardiovascular: Cardiac irregularities, syncope
 
 Gastrointestinal: Taste alterations, dark saliva.
 
 Hypersensitivity: Angioedema, urticaria, pruritus, bullous lesions (including pemphigus-like reactions).
-
-Nervous System/Psychiatric: Neuroleptic malignant syndrome (see WARNINGS), increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, increased libido.
-
+Nervous System/Psychiatric: Neuroleptic malignant syndrome (NMS, see WARNINGS), increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
 Skin: Alopecia, flushing, dark sweat.
-
 Urogenital: Dark urine.
-
-Other adverse reactions that have been reported with levodopa alone and with various carbidopa and levodopa formulations and may occur with carbidopa and levodopa extended release tablets are:
-
-Cardiovascular: Phlebitis.
-
+Other adverse reactions that have been reported with levodopa alone and with various carbidopa and levodopa formulations and may occur with carbidopa and levodopa extended-release tablets are: Cardiovascular: Phlebitis.
 Gastrointestinal: Gastrointestinal bleeding, development of duodenal ulcer, sialorrhea, bruxism, hiccups, flatulence, burning sensation of tongue.
-
-Hematologic: Hemolytic and nonhemolytic anemia, thrombocytopenia, leukopenia, agranulocytosis.
-
+Hematologic: Hemolytic and non-hemolytic anemia, thrombocytopenia, leukopenia, agranulocytosis.
 Hypersensitivity: Henoch-Schonlein purpura.
-
 Metabolic: Weight gain, edema.
-
-Nervous System/Psychiatric: Ataxia, depression with suicidal tendencies, dementia, euphoria, convulsions (however, a causal relationship has not been established); bradykinetic episodes, numbness, muscle twitching, blepharospasm (which may be taken as an early sign of excess dosage; consideration of dosage reduction may be made at this time), trismus, activation of latent Horner’s syndrome, nightmares.
+Nervous System/Psychiatric: Ataxia, depression with suicidal tendencies, dementia, euphoria, convulsions (however, a causal relationship has not been established); bradykinetic episodes, numbness, muscle twitching, blepharospasm (which may be taken as an early sign of excess dosage; consideration of dosage reduction may be made at this time), trismus, activation of latent Horner's syndrome, nightmares.
 
 Skin: Malignant melanoma (see also CONTRAINDICATIONS), increased sweating.
 
