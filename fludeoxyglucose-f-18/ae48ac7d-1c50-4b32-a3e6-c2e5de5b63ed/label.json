@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203935"
+  ],
+  "inn": "fludeoxyglucose-f-18",
+  "labeler": "Washington University School of Medicine",
+  "package_ndcs": [
+    "75913-647-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fludeoxyglucose f 18",
+      "name": "Fludeoxyglucose F 18"
+    }
+  ],
+  "setid": "ae48ac7d-1c50-4b32-a3e6-c2e5de5b63ed",
+  "source": "dailymed"
+}
