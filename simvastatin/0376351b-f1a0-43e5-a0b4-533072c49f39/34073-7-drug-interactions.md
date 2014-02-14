@@ -9,16 +9,16 @@ Elevated plasma levels of HMG-CoA reductase inhibitory activity increases the ri
 Concomitant use of drugs labeled as having a strong inhibitory effect on CYP3A4 is contraindicated [see Contraindications (4)].
 If treatment with itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with simvastatin must be suspended during the course of treatment.
 Cyclosporine or Danazol: The risk of myopathy, including rhabdomyolysis is increased by concomitant administration of cyclosporine or danazol.
-Therefore, concomitant use of these drugs is contraindicated [see Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)] .
+Therefore, concomitant use of these drugs is contraindicated [see Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Lipid-Lowering Drugs That Can Cause Myopathy When Given Alone
 
-Gemfibrozil: Contraindicated with simvastatin [see Contraindications (4) and Warnings and Precautions (5.1)] .
-Other fibrates: Caution should be used when prescribing with simvastatin [see Warnings and Precautions (5.1)] .
+Gemfibrozil: Contraindicated with simvastatin [see Contraindications (4) and Warnings and Precautions (5.1)].
+Other fibrates: Caution should be used when prescribing with simvastatin [see Warnings and Precautions (5.1)].
 
 ## 7.3 Amiodarone, Dronedarone, Ranolazine, or Calcium Channel Blockers
 
-The risk of myopathy, including rhabdomyolysis, is increased by concomitant administration of amiodarone, dronedarone, ranolazine, or calcium channel blockers such as verapamil, diltiazem, or amlodipine [see Dosage and Administration (2.3), Warnings and Precautions (5.1), and Table 3 in Clinical Pharmacology (12.3)] .
+The risk of myopathy, including rhabdomyolysis, is increased by concomitant administration of amiodarone, dronedarone, ranolazine, or calcium channel blockers such as verapamil, diltiazem, or amlodipine [see Dosage and Administration (2.3), Warnings and Precautions (5.1), and Table 3 in Clinical Pharmacology (12.3)].
 
 ## 7.4 Niacin
 
@@ -30,7 +30,7 @@ Because the risk for myopathy is dose-related, Chinese patients should not recei
 ## 7.5 Digoxin
 
 In one study, concomitant administration of digoxin with simvastatin resulted in a slight elevation in digoxin concentrations in plasma.
-Patients taking digoxin should be monitored appropriately when simvastatin is initiated [see Clinical Pharmacology (12.3)] .
+Patients taking digoxin should be monitored appropriately when simvastatin is initiated [see Clinical Pharmacology (12.3)].
 
 ## 7.6 Coumarin Anticoagulants
 

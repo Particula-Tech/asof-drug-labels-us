@@ -20,18 +20,28 @@ Because there were only 57 deaths among the patients with angina alone at baseli
 However, trends in reduced coronary mortality, major coronary events and revascularization procedures were consistent between this group and the total study cohort.
 Additionally, simvastatin resulted in similar decreases in relative risk for total mortality, CHD mortality, and major coronary events in elderly patients (≥65 years), compared with younger patients.
 The Heart Protection Study (HPS) was a large, multi-center, placebo-controlled, double-blind study with a mean duration of 5 years conducted in 20,536 patients (10,269 on simvastatin 40 mg and 10,267 on placebo).
-Patients were allocated to treatment using a covariate adaptive method which took into account the distribution of 10 important baseline characteristics of patients already enrolled and minimized the imbalance of those characteristics across the groups.
+Patients were allocated to treatment using a covariate adaptive method4 which took into account the distribution of 10 important baseline characteristics of patients already enrolled and minimized the imbalance of those characteristics across the groups.
 Patients had a mean age of 64 years (range 40 to 80 years), were 97% Caucasian and were at high risk of developing a major coronary event because of existing CHD (65%), diabetes (Type 2, 26%; Type 1, 3%), history of stroke or other cerebrovascular disease (16%), peripheral vessel disease (33%), or hypertension in males ≥65 years (6%).
 At baseline, 3,421 patients (17%) had LDL-C levels below 100 mg/dL, of whom 953 (5%) had LDL-­C levels below 80 mg/dL; 7,068 patients (34%) had levels between 100 and 130 mg/dL; and 10,047 patients (49%) had levels greater than 130 mg/dL.
 The HPS results showed that simvastatin 40 mg/day significantly reduced: total and CHD mortality; non-­fatal MI, stroke, and revascularization procedures (coronary and non-coronary) (see Table 4).
+
+—————————————————
+
+4 D.R.
+Taves, Minimization: a new method of assigning patients to treatment and control groups.
+Clin.
+Pharmacol.
+Ther.
+15 (1974), pp.
+443-453
 
 TABLE 4 Summary of Heart Protection Study Results
 
 | Endpoint | Simvastatin (N=10,269) n (%)† | Placebo (N=10,267) n (%)† | Risk Reduction (%) (95% CI) | p-Value |
 | --- | --- | --- | --- | --- |
-| Primary Mortality CHD mortality | 1,328 (12.9) 587 (5.7) | 1,507 (14.7) 707 (6.9) | 13 (6-19) 18 (8-26) | p=0.0003 p=0.0005 |
-| Secondary Non-fatal MI Stroke | 357 (3.5) 444 (4.3) | 574 (5.6) 585 (5.7) | 38 (30-46) 25 (15-34) | p<0.0001 p<0.0001 |
-| Tertiary Coronary revascularization Peripheral and other non-coronary revascularization | 513 (5) 450 (4.4) | 725 (7.1) 532 (5.2) | 30 (22-38) 16 (5-26) | p<0.0001 p=0.006 |
+| Primary Mortality CHD mortality | 1,328 (12.9) 587 (5.7) | 1,507 (14.7) 707 (6.9) | 13 (6 to 19) 18 (8 to 26) | p=0.0003 p=0.0005 |
+| Secondary Non-fatal MI Stroke | 357 (3.5) 444 (4.3) | 574 (5.6) 585 (5.7) | 38 (30 to 46) 25 (15 to 34) | p<0.0001 p<0.0001 |
+| Tertiary Coronary revascularization Peripheral and other non-coronary revascularization | 513 (5) 450 (4.4) | 725 (7.1) 532 (5.2) | 30 (22 to 38) 16 (5 to 26) | p<0.0001 p=0.006 |
 | † n = number of patients with indicated event |  |  |  |  |
 
 Two composite endpoints were defined in order to have sufficient events to assess relative risk reductions across a range of baseline characteristics (see Figure 1).
@@ -41,7 +51,9 @@ Significant relative risk reductions were observed for both composite endpoints 
 Treatment with simvastatin produced significant relative risk reductions for all components of the composite endpoints.
 The risk reductions produced by simvastatin in both MCE and MVE were evident and consistent regardless of cardiovascular disease related medical history at study entry (i.e., CHD alone; or peripheral vascular disease, cerebrovascular disease, diabetes or treated hypertension, with or without CHD), gender, age, creatinine levels up to the entry limit of 2.3 mg/dL, baseline levels of LDL-C, HDL-C, apolipoprotein B and A-1, baseline concomitant cardiovascular medications (i.e., aspirin, beta blockers, or calcium channel blockers), smoking status, alcohol intake, or obesity.
 Diabetics showed risk reductions for MCE and MVE due to simvastatin treatment regardless of baseline HbA1c levels or obesity with the greatest effects seen for diabetics without CHD.
-Figure 1 The Effects of Treatment with Simvastatin on Major Vascular Events and Major Coronary Events in HPS N = number of patients in each subgroup.
+Figure 1 The Effects of Treatment with Simvastatin on Major Vascular Events and Major Coronary Events in HPS
+
+N = number of patients in each subgroup.
 The inverted triangles are point estimates of the relative risk, with their 95% confidence intervals represented as a line.
 The area of a triangle is proportional to the number of patients with MVE or MCE in the subgroup relative to the number with MVE or MCE, respectively, in the entire study population.
 The vertical solid line represents a relative risk of one.
@@ -63,7 +75,7 @@ TABLE 5 Mean Response in Patients with Primary Hyperlipidemia and Combined (mixe
 | Lower Dose Comparative Study‡ (Mean % Change at Week 6) Simvastatin 5 mg q.p.m. Simvastatin 10 mg q.p.m. | 109 110 | -19 -23 | -26 -30 | 10 12 | -12 -15 |
 | Scandinavian Simvastatin Survival Study§ (Mean % Change at Week 6) Placebo Simvastatin 20 mg q.p.m. | 2223 2221 | -1 -28 | -1 -38 | 0 8 | -2 -19 |
 | Upper Dose Comparative Study\|\| (Mean % Change Averaged at Weeks 18 and 24) Simvastatin 40 mg q.p.m. Simvastatin 80 mg q.p.m.¶ | 433 664 | -31 -36 | -41 -47 | 9 8 | -18 -24 |
-| Multi-Center Combined Hyperlipidemia Study†† (Mean % Change at Week 6) Placebo Simvastatin 40 mg q.p.m Simvastatin 80 mg q.p.m | 125 123 124 | 1 -25 -31 | 2 -29 -36 | 3 13 16 | -4 -28 -33 |
+| Multi-Center Combined Hyperlipidemia Study†† (Mean % Change at Week 6) Placebo Simvastatin 40 mg q.p.m. Simvastatin 80 mg q.p.m. | 125 123 124 | 1 -25 -31 | 2 -29 -36 | 3 13 16 | -4 -28 -33 |
 | † median percent change ‡ mean baseline LDL-C 244 mg/dL and median baseline TG 168 mg/dL § mean baseline LDL-C 188 mg/dL and median baseline TG 128 mg/dL \|\| mean baseline LDL-C 226 mg/dL and median baseline TG 156 mg/dL ¶ 21% and 36% median reduction in TG in patients with TG ≤200 mg/dL and TG >200 mg/dL, respectively. Patients with TG >350 mg/dL were excluded †† mean baseline LDL-C 156 mg/dL and median baseline TG 391 mg/dL. |  |  |  |  |  |
 
 Hypertriglyceridemia (Fredrickson type IV) The results of a subgroup analysis in 74 patients with type IV hyperlipidemia from a 130-patient, double-blind, placebo-controlled, 3-period crossover study are presented in Table 6.
@@ -100,13 +112,6 @@ In another 24-week study, simvastatin 20 to 40 mg had no detectable effect on sp
 In 4S, in which 4,444 patients were randomized to simvastatin 20 to 40 mg/day or placebo for a median duration of 5.4 years, the incidence of male sexual adverse events in the two treatment groups was not significantly different.
 Because of these factors, the small changes in plasma testosterone are unlikely to be clinically significant.
 The effects, if any, on the pituitary-gonadal axis in pre-­menopausal women are unknown.
-D.R.
-Taves, Minimization: a new method of assigning patients to treatment and control groups.
-Clin.
-Pharmacol.
-Ther.
-15 (1974), pp.
-443-453
 
 ## 14.2 Clinical Studies in Adolescents
 

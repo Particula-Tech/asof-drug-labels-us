@@ -47,14 +47,14 @@ The combined use of simvastatin with gemfibrozil, cyclosporine, or danazol is co
 
 Caution should be used when prescribing other fibrates with simvastatin, as these agents can cause myopathy when given alone and the risk is increased when they are coadministered [see Drug Interactions (7.2)].
 
-The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates or ≥1 g/day of niacin), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 3 in Clinical Pharmacology (12.3)].
+The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates or ≥1 g/day of niacin), or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 3 in Clinical Pharmacology (12.3)] [also see Dosage and Administration, Patients with Homozygous Familial Hypercholesterolemia (2.4)].
 
 Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
 In an ongoing, double-blind, randomized cardiovascular outcomes trial, an independent safety monitoring committee identified that the incidence of myopathy is higher in Chinese compared with non-Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses of a niacin-containing product.
 Caution should be used when treating Chinese patients with simvastatin in doses exceeding 20 mg/day coadministered with lipid-modifying doses of niacin-containing products.
 Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
 It is unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients [see Drug Interactions (7.4)].
-Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3), Drug Interactions (7), Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3, 2.4), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 TABLE 1 Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
@@ -63,7 +63,9 @@ TABLE 1 Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyoly
 | Strong CYP3A4 Inhibitors e.g.,: Itraconazole Ketoconazole Posaconazole Voriconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir Nefazodone Gemfibrozil Cyclosporine Danazol | Contraindicated with simvastatin |
 | Verapamil Diltiazem Dronedarone | Do not exceed 10 mg simvastatin daily |
 | Amiodarone Amlodipine Ranolazine | Do not exceed 20 mg simvastatin daily |
+| Lomitapide | For patients with HoFH, do not exceed 20 mg Simvastatin daily* |
 | Grapefruit juice | Avoid grapefruit juice |
+| * For patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 40 mg simvastatin when taking lomitapide. |  |
 
 ## 5.2 Liver Dysfunction
 
@@ -71,7 +73,7 @@ Persistent increases (to more than 3X the ULN) in serum transaminases have occur
 When drug treatment was interrupted or discontinued in these patients, the transaminase levels usually fell slowly to pretreatment levels.
 The increases were not associated with jaundice or other clinical signs or symptoms.
 There was no evidence of hypersensitivity.
-In the Scandinavian Simvastatin Survival Study (4S) [see Clinical Studies (14.1)] , the number of patients with more than one transaminase elevation to >3X ULN, over the course of the study, was not significantly different between the simvastatin and placebo groups (14 [0.7%] vs. 12 [0.6%]).
+In the Scandinavian Simvastatin Survival Study (4S) [see Clinical Studies (14.1)], the number of patients with more than one transaminase elevation to >3X ULN, over the course of the study, was not significantly different between the simvastatin and placebo groups (14 [0.7%] vs. 12 [0.6%]).
 Elevated transaminases resulted in the discontinuation of 8 patients from therapy in the simvastatin group (n=2,221) and 5 in the placebo group (n=2,223).
 Of the 1,986 simvastatin treated patients in 4S with normal liver function tests (LFTs) at baseline, 8 (0.4%) developed consecutive LFT elevations to >3X ULN and/or were discontinued due to transaminase elevations during the 5.4 years (median follow-up) of the study.
 Among these 8 patients, 5 initially developed these abnormalities within the first year.
@@ -82,7 +84,7 @@ It is recommended that liver function tests be performed before the initiation o
 There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including simvastatin.
 If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with simvastatin, promptly interrupt therapy.
 If an alternate etiology is not found do not restart simvastatin.
-Note that ALT may emanate from muscle, therefore ALT rising with CK may indicate myopathy [see Warnings and Precautions (5.1)] .
+Note that ALT may emanate from muscle, therefore ALT rising with CK may indicate myopathy [see Warnings and Precautions (5.1)].
 The drug should be used with caution in patients who consume substantial quantities of alcohol and/or have a past history of liver disease.
 Active liver diseases or unexplained transaminase elevations are contraindications to the use of simvastatin.
 As with other lipid-lowering agents, moderate (less than 3X ULN) elevations of serum transaminases have been reported following therapy with simvastatin.

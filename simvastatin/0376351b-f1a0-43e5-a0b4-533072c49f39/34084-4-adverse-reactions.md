@@ -30,12 +30,12 @@ The incidence of rhabdomyolysis (defined as myopathy with a CK >40 times ULN) in
 The incidence of myopathy, including rhabdomyolysis, was highest during the first year and then notably decreased during the subsequent years of treatment.
 In this trial, patients were carefully monitored and some interacting medicinal products were excluded.
 Other adverse reactions reported in clinical trials were: diarrhea, rash, dyspepsia, flatulence, and asthenia.
-Laboratory Tests Marked persistent increases of hepatic transaminases have been noted [see Warnings and Precautions (5.2)] .
+Laboratory Tests Marked persistent increases of hepatic transaminases have been noted [see Warnings and Precautions (5.2)].
 Elevated alkaline phosphatase and γ-glutamyl transpeptidase have also been reported.
 About 5% of patients had elevations of CK levels of 3 or more times the normal value on one or more occasions.
 This was attributable to the noncardiac fraction of CK.
 [See Warnings and Precautions (5.1).]
-Adolescent Patients (ages 10 to 17 years) In a 48-week, controlled study in adolescent boys and girls who were at least 1 year post-menarche, 10 to 17 years of age (43.4% female, 97.7% Caucasians, 1.7% Hispanics, 0.6% Multiracial) with heterozygous familial hypercholesterolemia (n=175), treated with placebo or simvastatin (10 to 40 mg daily), the most common adverse reactions observed in both groups were upper respiratory infection, headache, abdominal pain, and nausea [see Use in Specific Populations (8.4) and Clinical Studies (14.2)] .
+Adolescent Patients (ages 10 to 17 years) In a 48-week, controlled study in adolescent boys and girls who were at least 1 year post-menarche, 10 to 17 years of age (43.4% female, 97.7% Caucasians, 1.7% Hispanics, 0.6% Multiracial) with heterozygous familial hypercholesterolemia (n=175), treated with placebo or simvastatin (10 to 40 mg daily), the most common adverse reactions observed in both groups were upper respiratory infection, headache, abdominal pain, and nausea [see Use in Specific Populations (8.4) and Clinical Studies (14.2)].
 
 ## 6.2 Postmarketing Experience
 

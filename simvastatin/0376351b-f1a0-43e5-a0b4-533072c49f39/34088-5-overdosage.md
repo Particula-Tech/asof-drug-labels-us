@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
-Significant lethality was observed in mice after a single oral dose of 9 g/m 2 .
-No evidence of lethality was observed in rats or dogs treated with doses of 30 and 100 g/m 2 , respectively.
+Significant lethality was observed in mice after a single oral dose of 9 g/m2.
+No evidence of lethality was observed in rats or dogs treated with doses of 30 and 100 g/m2, respectively.
 No specific diagnostic signs were observed in rodents.
 At these doses the only signs seen in dogs were emesis and mucoid stools.
 A few cases of overdosage with simvastatin have been reported; the maximum dose taken was 3.6 g. All patients recovered without sequelae.

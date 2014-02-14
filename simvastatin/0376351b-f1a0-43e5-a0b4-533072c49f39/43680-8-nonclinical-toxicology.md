@@ -18,7 +18,7 @@ No evidence of mutagenicity was observed in a microbial mutagenicity (Ames) test
 In addition, no evidence of damage to genetic material was noted in an in vitro alkaline elution assay using rat hepatocytes, a V-79 mammalian cell forward mutation study, an in vitro chromosome aberration study in CHO cells, or an in vivo chromosomal aberration assay in mouse bone marrow.
 There was decreased fertility in male rats treated with simvastatin for 34 weeks at 25 mg/kg body weight (4 times the maximum human exposure level, based on AUC, in patients receiving 80 mg/day); however, this effect was not observed during a subsequent fertility study in which simvastatin was administered at this same dose level to male rats for 11 weeks (the entire cycle of spermatogenesis including epididymal maturation).
 No microscopic changes were observed in the testes of rats from either study.
-At 180 mg/kg/day, (which produces exposure levels 22 times higher than those in humans taking 80 mg/day based on surface area, mg/m 2 ), seminiferous tubule degeneration (necrosis and loss of spermatogenic epithelium) was observed.
+At 180 mg/kg/day, (which produces exposure levels 22 times higher than those in humans taking 80 mg/day based on surface area, mg/m2), seminiferous tubule degeneration (necrosis and loss of spermatogenic epithelium) was observed.
 In dogs, there was drug-related testicular atrophy, decreased spermatogenesis, spermatocytic degeneration and giant cell formation at 10 mg/kg/day, (approximately 2 times the human exposure, based on AUC, at 80 mg/day).
 The clinical significance of these findings is unclear.
 

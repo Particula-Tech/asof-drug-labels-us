@@ -6,27 +6,26 @@ Pregnancy Category X [See Contraindications (4).]
 Simvastatin is contraindicated in women who are or may become pregnant.
 Lipid-lowering drugs offer no benefit during pregnancy, because cholesterol and cholesterol derivatives are needed for normal fetal development.
 Atherosclerosis is a chronic process, and discontinuation of lipid-lowering drugs during pregnancy should have little impact on long-term outcomes of primary hypercholesterolemia therapy.
-There are no adequate and well-controlled studies of use with simvastatin during pregnancy; however, there are rare reports of congenital anomalies in infants exposed to statins in utero .
+There are no adequate and well-controlled studies of use with simvastatin during pregnancy; however, there are rare reports of congenital anomalies in infants exposed to statins in utero.
 Animal reproduction studies of simvastatin in rats and rabbits showed no evidence of teratogenicity.
 Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol or cholesterol derivatives are essential for fetal development.
 Because statins decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, simvastatin may cause fetal harm when administered to a pregnant woman.
 If simvastatin is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 There are rare reports of congenital anomalies following intrauterine exposure to statins.
-In a review of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or another structurally related statin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed those expected in the general population.
+In a review3 of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or another structurally related statin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed those expected in the general population.
 However, the study was only able to exclude a 3- to 4-fold increased risk of congenital anomalies over the background rate.
 In 89% of these cases, drug treatment was initiated prior to pregnancy and was discontinued during the first trimester when pregnancy was identified.
-Simvastatin was not teratogenic in rats or rabbits at doses (25, 10 mg/kg/day, respectively) that resulted in 3 times the human exposure based on mg/m 2 surface area.
+Simvastatin was not teratogenic in rats or rabbits at doses (25, 10 mg/kg/day, respectively) that resulted in 3 times the human exposure based on mg/m2 surface area.
 However, in studies with another structurally-related statin, skeletal malformations were observed in rats and mice.
 Women of childbearing potential, who require treatment with simvastatin for a lipid disorder, should be advised to use effective contraception.
 For women trying to conceive, discontinuation of simvastatin should be considered.
-If pregnancy occurs, simvastatin should be immediately discontinued.
-Manson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996
+If pregnancy occurs, simvastatin should be immediately discontinued. ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ 3 Manson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996.
 
 ## 8.3 Nursing Mothers
 
 It is not known whether simvastatin is excreted in human milk.
 Because a small amount of another drug in this class is excreted in human milk and because of the potential for serious adverse reactions in nursing infants, women taking simvastatin should not nurse their infants.
-A decision should be made whether to discontinue nursing or discontinue drug, taking into account the importance of the drug to the mother [see Contraindications (4)] .
+A decision should be made whether to discontinue nursing or discontinue drug, taking into account the importance of the drug to the mother [see Contraindications (4)].
 
 ## 8.4 Pediatric Use
 
@@ -49,7 +48,7 @@ A pharmacokinetic study with simvastatin showed the mean plasma level of statin 
 In 4S, 1,021 (23%) of 4,444 patients were 65 or older.
 Lipid-lowering efficacy was at least as great in elderly patients compared with younger patients, and simvastatin significantly reduced total mortality and CHD mortality in elderly patients with a history of CHD.
 In HPS, 52% of patients were elderly (4,891 patients 65 to 69 years and 5,806 patients 70 years or older).
-The relative risk reductions of CHD death, non-fatal MI, coronary and non-coronary revascularization procedures, and stroke were similar in older and younger patients [see Clinical Studies (14.1)] .
+The relative risk reductions of CHD death, non-fatal MI, coronary and non-coronary revascularization procedures, and stroke were similar in older and younger patients [see Clinical Studies (14.1)].
 In HPS, among 32,145 patients entering the active run-in period, there were 2 cases of myopathy/rhabdomyolysis; these patients were aged 67 and 73.
 Of the 7 cases of myopathy/rhabdomyolysis among 10,269 patients allocated to simvastatin, 4 were aged 65 or more (at baseline), of whom one was over 75.
 There were no overall differences in safety between older and younger patients in either 4S or HPS.
@@ -64,4 +63,4 @@ Caution should be exercised when simvastatin is administered to patients with se
 
 ## 8.7 Hepatic Impairment
 
-Simvastatin is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.2)] .
+Simvastatin is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.2)].
