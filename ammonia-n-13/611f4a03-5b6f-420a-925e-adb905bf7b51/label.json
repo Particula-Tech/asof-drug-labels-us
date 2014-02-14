@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204506"
+  ],
+  "inn": "ammonia-n-13",
+  "labeler": "Washington University School of Medicine",
+  "package_ndcs": [
+    "75913-113-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nh3n13",
+      "name": "Ammonia N 13"
+    }
+  ],
+  "setid": "611f4a03-5b6f-420a-925e-adb905bf7b51",
+  "source": "dailymed"
+}
