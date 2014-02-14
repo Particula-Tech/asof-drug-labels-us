@@ -4,4 +4,4 @@ Distributed and Marketed by: Pharmacyclics, Inc. Sunnyvale, CA USA 94085 and Mar
 
 Patent http://www.imbruvica.com IMBRUVICA™ is a trademark owned by Pharmacyclics, Inc.
 
-©Pharmacyclics, Inc. 2013 Issued: November 2013
+©Pharmacyclics, Inc. 2014 Issued: February 2014

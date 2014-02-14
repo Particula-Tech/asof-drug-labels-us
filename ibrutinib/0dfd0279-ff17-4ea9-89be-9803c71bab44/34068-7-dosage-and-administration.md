@@ -6,9 +6,15 @@ Administer IMBRUVICA orally once daily at approximately the same time each day.
 Swallow the capsules whole with water.
 Do not open, break, or chew the capsules.
 
-## 2.2 Dosage for Mantle Cell Lymphoma
+## 2.2 Dosage
+
+Mantle Cell Lymphoma
 
 The recommended dose of IMBRUVICA for MCL is 560 mg (four 140 mg capsules) orally once daily.
+
+Chronic Lymphocytic Leukemia
+
+The recommended dose of IMBRUVICA for CLL is 420 mg (three 140 mg capsules) orally once daily.
 
 ## 2.3 Dose Modifications for Adverse Reactions
 
@@ -20,12 +26,12 @@ If these toxicities persist or recur following two dose reductions, discontinue 
 
 Recommended dose modifications for these toxicities are described below:
 
-| Toxicity Occurrence | MCL Dose Modification After Recovery Starting Dose = 560 mg |
-| --- | --- |
-| First | Restart at 560 mg daily |
-| Second | Restart at 420 mg daily |
-| Third | Restart at 280 mg daily |
-| Fourth | Discontinue IMBRUVICA |
+| Toxicity Occurrence | MCL Dose Modification After Recovery Starting Dose = 560 mg | CLL Dose Modification After Recovery Starting Dose = 420 mg |
+| --- | --- | --- |
+| First | Restart at 560 mg daily | Restart at 420 mg daily |
+| Second | Restart at 420 mg daily | Restart at 280 mg daily |
+| Third | Restart at 280 mg daily | Restart at 140 mg daily |
+| Fourth | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
 
 ## 2.4 Dose Modifications for Use with CYP3A Inhibitors
 

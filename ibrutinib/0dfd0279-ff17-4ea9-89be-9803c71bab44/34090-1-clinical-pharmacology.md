@@ -18,7 +18,7 @@ Absorption
 
 Ibrutinib is absorbed after oral administration with a median Tmax of 1 to 2 hours.
 Ibrutinib exposure increases with doses up to 840 mg.
-The steady-state AUC observed in patients at 560 mg is (mean ± standard deviation) 953 ± 705 ng∙h/mL.
+The steady-state AUC (mean ± standard deviation) observed in patients at 560 mg is 953 ± 705 ng∙h/mL and in patients at 420 mg is 680 ± 517 ng∙h/mL.
 Administration with food increases ibrutinib exposure approximately 2-fold compared with administration after overnight fasting.
 
 Distribution

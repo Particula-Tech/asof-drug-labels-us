@@ -13,7 +13,7 @@ Animal Data
 
 Ibrutinib was administered orally to pregnant rats during the period of organogenesis at oral doses of 10, 40 and 80 mg/kg/day.
 Ibrutinib at a dose of 80 mg/kg/day was associated with visceral malformations (heart and major vessels) and increased post-implantation loss.
-The dose of 80 mg/kg/day in animals is approximately 14 times the exposure (AUC) in patients with MCL administered the dose of 560 mg daily.
+The dose of 80 mg/kg/day in animals is approximately 14 times the exposure (AUC) in patients with MCL and 20 times the exposure in patients with CLL administered the dose of 560 mg daily and 420 mg daily, respectively.
 Ibrutinib at doses of 40 mg/kg/day or greater was associated with decreased fetal weights.
 The dose of 40 mg/kg/day in animals is approximately 6 times the exposure (AUC) in patients with MCL administered the dose of 560 mg daily.
 
@@ -31,6 +31,11 @@ The safety and effectiveness of IMBRUVICA in pediatric patients has not been est
 Of the 111 patients treated for MCL, 63% were 65 years of age or older.
 No overall differences in effectiveness were observed between these patients and younger patients.
 Cardiac adverse events (atrial fibrillation and hypertension), infections (pneumonia and cellulitis) and gastrointestinal events (diarrhea and dehydration) occurred more frequently among elderly patients.
+
+Of the 48 patients treated for CLL, 52% were 65 years of age or older.
+No overall differences in effectiveness were observed between these patients and younger patients.
+A greater number of adverse events were reported in those 65 years of age and older.
+Grade 3 or higher adverse events occurred more frequently among elderly patients (80% of patients 65 and older versus 61% of younger patients).
 
 ## 8.6 Renal Impairment
 

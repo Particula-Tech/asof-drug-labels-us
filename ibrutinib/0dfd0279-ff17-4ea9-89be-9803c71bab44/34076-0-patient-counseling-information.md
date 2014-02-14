@@ -7,7 +7,7 @@ See FDA-approved patient labeling (Patient Information)
 - Infections: Inform patients of the possibility of serious infection, and to report any signs or symptoms (fever, chills) suggestive of infection [see Warnings and Precautions (5.2)].
 - Renal toxicity: Inform patients of the possibility of renal toxicity.
   Advise patients to maintain adequate hydration [see Warnings and Precautions (5.4)].
-- Second primary malignancies: Inform patients that other malignancies have occurred in patients with MCL who have been treated with IMBRUVICA, including skin cancers and other carcinomas [see Warnings and Precautions (5.5)].
+- Second primary malignancies: Inform patients that other malignancies have occurred in patients who have been treated with IMBRUVICA, including skin cancers and other carcinomas [see Warnings and Precautions (5.5)].
 - Embryo-fetal toxicity: Advise women of the potential hazard to a fetus and to avoid becoming pregnant [see Warnings and Precautions (5.6)].
 - Inform patients to take IMBRUVICA orally once daily according to their physician's instructions and that the capsules should be swallowed whole with a glass of water without being opened, broken, or chewed at approximately the same time each day [see Dosage and Administration (2.1)].
 - Advise patients that in the event of a missed daily dose of IMBRUVICA, it should be taken as soon as possible on the same day with a return to the normal schedule the following day.

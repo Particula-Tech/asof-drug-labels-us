@@ -1,7 +1,8 @@
 | Patient Information IMBRUVICA (im-BRU-vih-kuh) (ibrutinib) capsules |
 | --- |
 | What is IMBRUVICA? |
-| IMBRUVICA is a prescription medicine used to treat people with mantle cell lymphoma (MCL) who have received at least one prior treatment. |
+| IMBRUVICA is a prescription medicine used to treat people with: |
+| Mantle cell lymphoma (MCL) who have received at least one prior treatment Chronic lymphocytic leukemia (CLL) who have received at least one prior treatment |
 | It is not known if IMBRUVICA is safe and effective in children. |
 | What should I tell my healthcare provider before taking IMBRUVICA? |
 | Before you take IMBRUVICA, tell your healthcare provider about all of your medical conditions, including if you: |
@@ -13,8 +14,9 @@
 | You should not drink grapefruit juice, eat grapefruit, or eat Seville oranges (often used in marmalades) while you are taking IMBRUVICA. These products may increase the amount of IMBRUVICA in your blood. |
 | What are the possible side effects of IMBRUVICA? |
 | IMBRUVICA may cause serious side effects, including: |
-| Bleeding problems can happen during treatment with IMBRUVICA that can be serious. Tell your healthcare provider if you have any signs of bleeding, including: blood in your stools or black stools (looks like tar), pink or brown urine, unexpected bleeding or bleeding that is severe or that you can not control, vomit blood or vomit looks like coffee grounds, cough up blood or blood clots, increased bruising, feel dizzy or weak, confusion, change in your speech, or a headache that lasts a long time. Infections can happen during treatment with IMBRUVICA. Infections can be serious and may lead to death. Tell your healthcare provider if you have fever, chills, or any other signs or symptoms of an infection while taking IMBRUVICA.Decrease in blood cell counts. Your healthcare provider should do monthly blood tests to check your blood counts.Kidney problems. Kidney failure and death have happened with IMBRUVICA treatment. Drink fluids during treatment with IMBRUVICA to help prevent too much fluid loss (dehydration). Your healthcare provider should do blood tests to check how well your kidneys are working.Second primary cancers. New cancers have happened in people who have been treated with IMBRUVICA, including cancers of the skin or other organs. |
-| The most common side effects of IMBRUVICA include: low blood platelet count, diarrhea, low white blood cell count, low red blood cell count, fatigue, muscle and bone pain, swelling of legs and feet, upper respiratory tract infection, nausea, bruising, shortness of breath, constipation, rash, stomach (abdomen) pain, vomiting, and decreased appetite. |
+| Bleeding problems can happen during treatment with IMBRUVICA that can be serious. Tell your healthcare provider if you have any signs of bleeding, including: blood in your stools or black stools (looks like tar), pink or brown urine, unexpected bleeding or bleeding that is severe or that you can not control, vomit blood or vomit looks like coffee grounds, cough up blood or blood clots, increased bruising, feel dizzy or weak, confusion, change in your speech, or a headache that lasts a long time. Your risk of bleeding may increase if you are also taking a blood thinner medicine.Infections can happen during treatment with IMBRUVICA. Infections can be serious and may lead to death. Tell your healthcare provider if you have fever, chills, or any other signs or symptoms of an infection while taking IMBRUVICA.Decrease in blood cell counts. Your healthcare provider should do monthly blood tests to check your blood counts.Kidney problems. Kidney failure and death have happened with IMBRUVICA treatment. Drink fluids during treatment with IMBRUVICA to help prevent too much fluid loss (dehydration). Your healthcare provider should do blood tests to check how well your kidneys are working.Second primary cancers. New cancers have happened in people who have been treated with IMBRUVICA, including cancers of the skin or other organs. |
+| The most common side effects of IMBRUVICA in people with mantle cell lymphoma (MCL) include: low blood platelet count, diarrhea, low white blood cell count, low red blood cell count, fatigue, muscle and bone pain, swelling of legs and feet, upper respiratory tract infection, nausea, bruising, shortness of breath, constipation, rash, stomach (abdomen) pain, vomiting, and decreased appetite. |
+| The most common side effects of IMBRUVICA in people with chronic lymphocytic leukemia (CLL) include: low blood platelet count, diarrhea, bruising, low white blood cell count, low red blood cell count, upper respiratory tract infection, fatigue, muscle and bone pain, rash, fever, constipation, swelling of legs and feet, joint pain, nausea, mouth sores, sinus infection, and dizziness. |
 | Diarrhea is a common side effect in people who take IMBRUVICA. Tell your healthcare provider if you have diarrhea that does not go away. |
 | These are not all the possible side effects of IMBRUVICA. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
 | How should I store IMBRUVICA? |
@@ -26,7 +28,4 @@
 | Active ingredient: ibrutinib |
 | Inactive ingredients: croscarmellose sodium, magnesium stearate, microcrystalline cellulose, sodium lauryl sulfate. The capsule shell contains gelatin, titanium dioxide and black ink. |
 | Distributed and Marketed by: Pharmacyclics, Inc. Sunnyvale, CA USA 94085 and Marketed by: Janssen Biotech, Inc. Horsham, PA USA 19044 For more information call 1-877-877-3536 |
-
-This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Issued: 11/2013
+| This Patient Information has been approved by the U.S. Food and Drug Administration. Revised: 02/2014 |
