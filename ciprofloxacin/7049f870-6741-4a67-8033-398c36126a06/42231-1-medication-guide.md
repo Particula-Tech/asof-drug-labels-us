@@ -235,8 +235,8 @@ Other serious side effects of CIPROFLOXACIN include:
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
   Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
-- Changes in sensation and possible nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including CIPROFLOXACIN.
-  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet: CIPROFLOXACIN may need to be stopped to prevent permanent nerve damage.
+- Changes in sensation and nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including CIPROFLOXACIN.
+  Stop CIPROFLOXACIN and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet: The nerve damage may be permanent.
   - Pain
   - Burning
   - Tingling
@@ -284,7 +284,7 @@ What are the ingredients in CIPROFLOXACIN?
   - Active ingredient: ciprofloxacin
   - Inactive ingredients: dextrose monohydrate as a tonicity agent, lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
-Revised: February 2013
+Revised: August 2013
 
 SAGENT™
 
