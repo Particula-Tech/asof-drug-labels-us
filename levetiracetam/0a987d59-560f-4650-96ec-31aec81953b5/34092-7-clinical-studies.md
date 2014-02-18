@@ -117,7 +117,7 @@ Table 13: Responder Rate (≥ 50% Reduction from Baseline) in Myoclonic Seizure 
 
 ## 14.3 Primary Generalized Tonic-Clonic Seizures
 
-### Effectiveness in Primary Generalized Tonic-Clonic Seizures in Patients = 6 Years of Age
+### Effectiveness in Primary Generalized Tonic-Clonic Seizures in Patients ≥ 6 Years of Age
 
 The effectiveness of levetiracetam as adjunctive therapy (added to other antiepileptic drugs) in patients 6 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic (PGTC) seizures was established in one multicenter, randomized, double-blind, placebo-controlled study, conducted at 50 sites in eight countries.
 Eligible patients on a stable dose of one or two antiepileptic drugs (AEDs) experiencing at least three PGTC seizures during the 8-week combined baseline period (at least one PGTC seizure during the 4 weeks prior to the prospective baseline period and at least one PGTC seizure during the 4-week prospective baseline period) were randomized to either levetiracetam or placebo.
