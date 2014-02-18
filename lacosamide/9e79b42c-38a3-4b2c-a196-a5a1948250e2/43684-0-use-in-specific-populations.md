@@ -64,7 +64,7 @@ In elderly patients, dose titration should be performed with caution.
 
 ## 8.6 Patients with Renal Impairment
 
-A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30mL/min) and in patients with endstage renal disease.
+A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30 mL/min) and in patients with endstage renal disease.
 VIMPAT is effectively removed from plasma by hemodialysis.
 Dosage supplementation of up to 50% following hemodialysis should be considered.
 In all renally impaired patients, dose titration should be performed with caution.

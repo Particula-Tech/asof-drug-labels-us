@@ -5,28 +5,28 @@ They are supplied as follows:
 
 | Bottles of 60 | NDC 0131-2477-35 |
 | --- | --- |
-| Unit Dose Carton of 60 tablets [6 cards of 10 tablets] | NDC 0131-2477-60 |
+| Unit Dose Carton of 60 tablets [6 cards, each card contains 10 tablets] | NDC 0131-2477-60 |
 
 VIMPAT (lacosamide) Tablets 100 mg are dark yellow, oval, film-coated tablets debossed with "SP" on one side and "100" on the other.
 They are supplied as follows:
 
 | Bottles of 60 | NDC 0131-2478-35 |
 | --- | --- |
-| Unit Dose Carton of 60 tablets [6 cards of 10 tablets] | NDC 0131-2478-60 |
+| Unit Dose Carton of 60 tablets [6 cards, each card contains 10 tablets] | NDC 0131-2478-60 |
 
 VIMPAT (lacosamide) Tablets 150 mg are salmon, oval, film-coated tablets debossed with "SP" on one side and "150" on the other.
 They are supplied as follows:
 
 | Bottles of 60 | NDC 0131-2479-35 |
 | --- | --- |
-| Unit Dose Carton of 60 tablets [6 cards of 10 tablets] | NDC 0131-2479-60 |
+| Unit Dose Carton of 60 tablets [6 cards, each card contains 10 tablets] | NDC 0131-2479-60 |
 
 VIMPAT (lacosamide) Tablets 200 mg are blue, oval, film-coated tablets debossed with "SP" on one side and "200" on the other.
 They are supplied as follows:
 
 | Bottles of 60 | NDC 0131-2480-35 |
 | --- | --- |
-| Unit Dose Carton of 60 tablets [6 cards of 10 tablets] | NDC 0131-2480-60 |
+| Unit Dose Carton of 60 tablets [6 cards, each card contains 10 tablets] | NDC 0131-2480-60 |
 
 VIMPAT (lacosamide) injection 200 mg/20 mL is a clear, colorless sterile solution supplied in 20 mL colorless single-use glass vials.
 
@@ -42,8 +42,8 @@ It is supplied in PET bottles as follows:
 
 ## 16.1 Storage
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).
+[See USP Controlled Room Temperature]
 
-Do not freeze Vimpat injection or oral solution.
-Discard any unused Vimpat oral solution remaining after seven (7) weeks of first opening the bottle.
+Do not freeze VIMPAT injection or oral solution.
+Discard any unused VIMPAT oral solution remaining after seven (7) weeks of first opening the bottle.

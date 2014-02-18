@@ -73,7 +73,7 @@ A maximum dose of 300 mg/day is recommended for patients with severe renal impai
 VIMPAT is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, AUC of VIMPAT is reduced by approximately 50%.
 Therefore dosage supplementation of up to 50% following hemodialysis should be considered.
-In all renal impaired patients, the dose titration should be performed with caution.
+In all renally impaired patients, the dose titration should be performed with caution.
 [See Dosage and Administration (2.3)]
 
 Hepatic impairment
@@ -167,7 +167,7 @@ Midazolam
 
 Midazolam is a 3A4 substrate.
 
-There was no effect of VIMPAT (200 mg single dose or repeat doses of 400 mg/day given as 200 mg BID) on the pharmacokinetics of midazolam (single dose, 7.5mg), indicating no inhibitory or inducing effects on CYP3A4.
+There was no effect of VIMPAT (200 mg single dose or repeat doses of 400 mg/day given as 200 mg BID) on the pharmacokinetics of midazolam (single dose, 7.5 mg), indicating no inhibitory or inducing effects on CYP3A4.
 
 Oral Contraceptives
 

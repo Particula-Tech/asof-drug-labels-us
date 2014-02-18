@@ -10,13 +10,17 @@ Healthcare providers should recommend a device that can measure and deliver the 
 
 VIMPAT can be initiated with either oral or intravenous administration.
 The initial dose should be 50 mg twice daily (100 mg per day).
-VIMPAT can be increased at weekly intervals by 100 mg/day given as two divided doses up to the recommended maintenance dose of 200 to 400 mg/day, based on individual patient response and tolerability.
+Based on individual patient response and tolerability, the dose can be increased at weekly intervals by 100 mg per day given as two divided doses.
+The recommended maintenance dose is 200 mg to 400 mg/day, given as two divided doses.
 In clinical trials, the 600 mg daily dose was not more effective than the 400 mg daily dose, and was associated with a substantially higher rate of adverse reactions.
 [See Clinical Studies (14.1)]
 
+A gradual withdrawal of VIMPAT over at least 1 week is recommended.
+[See Withdrawal of Antiepileptic Drugs (5.5)]
+
 Switching from Oral to Intravenous Dosing
 
-When switching from oral VIMPAT, the initial total daily intravenous dosage of VIMPAT should be equivalent to the total daily dosage and frequency of oral VIMPAT and should be infused intravenously over a period of 30 to 60 minutes.
+When switching from oral VIMPAT, the initial total daily intravenous dosage of VIMPAT should be equivalent to the total daily dosage and frequency of oral VIMPAT and should be infused intravenously over a period of 30 minutes to 60 minutes.
 There is experience with twice daily intravenous infusion for up to 5 days.
 
 Switching from Intravenous to Oral Dosing
@@ -26,7 +30,7 @@ At the end of the intravenous treatment period, the patient may be switched to V
 Compatibility and Stability
 
 VIMPAT injection can be administered intravenously without further dilution or may be mixed with diluents.
-VIMPAT injection was found to be physically compatible and chemically stable when mixed with the following diluents for at least 24 hours and stored in glass or polyvinyl chloride (PVC) bags at ambient room temperature 15-30°C (59-86°F).
+VIMPAT injection was found to be physically compatible and chemically stable when mixed with the following diluents for at least 24 hours and stored in glass or polyvinyl chloride (PVC) bags at ambient room temperature 15°C to 30°C (59°F to 86°F).
 
 Diluents:
 
@@ -40,7 +44,7 @@ Any unused portion of VIMPAT injection should be discarded.
 ## 2.2 Patients with Renal Impairment
 
 No dose adjustment is necessary in patients with mild to moderate renal impairment.
-A maximum dose of 300 mg/day VIMPAT is recommended for patients with severe renal impairment [creatinine clearance (CLCR) ≤30mL/min] and in patients with endstage renal disease.
+A maximum dose of 300 mg per day VIMPAT is recommended for patients with severe renal impairment [creatinine clearance (CLCR) less than or equal to 30 mL/min] and in patients with endstage renal disease.
 VIMPAT is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, dosage supplementation of up to 50% should be considered.
 In all renally impaired patients, the dose titration should be performed with caution.
@@ -51,8 +55,9 @@ Dose reduction may be necessary in these patients.
 ## 2.3 Patients with Hepatic Impairment
 
 The dose titration should be performed with caution in patients with hepatic impairment.
-A maximum dose of 300 mg/day is recommended for patients with mild or moderate hepatic impairment.
+A maximum dose of 300 mg per day is recommended for patients with mild or moderate hepatic impairment.
 
-VIMPAT use is not recommended in patients with severe hepatic impairment Patients with hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 may have a significant increase in exposure to VIMPAT.
+VIMPAT use is not recommended in patients with severe hepatic impairment.
+Patients with hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 may have a significant increase in exposure to VIMPAT.
 Dose reduction may be necessary in these patients.
 [See Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)]

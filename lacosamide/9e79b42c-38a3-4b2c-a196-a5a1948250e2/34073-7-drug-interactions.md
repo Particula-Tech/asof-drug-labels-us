@@ -1,7 +1,8 @@
 # 7 DRUG INTERACTIONS
 
 Drug-drug interaction studies in healthy subjects showed no pharmacokinetic interactions between VIMPAT and carbamazepine, valproate, digoxin, metformin, omeprazole, midazolam, or an oral contraceptive containing ethinylestradiol and levonorgestrel.
-There was no evidence for any relevant drug-drug interaction of VIMPAT with common AEDs in the placebo-controlled clinical trials in patients with partial-onset seizures [see Clinical Pharmacology (12.3)].
+There was no evidence for any relevant drug-drug interaction of VIMPAT with common AEDs in the placebo-controlled clinical trials in patients with partial-onset seizures.
+[See Clinical Pharmacology (12.3)]
 
 The lack of pharmacokinetic interaction does not rule out the possibility of pharmacodynamic interactions, particularly among drugs that affect the heart conduction system.
 

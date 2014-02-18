@@ -90,7 +90,7 @@ Psychiatric disorders: confusional state, mood altered, depressed mood
 ### Intravenous Adverse Reactions
 
 Adverse reactions with intravenous administration generally appeared similar to those observed with the oral formulation, although intravenous administration was associated with local adverse events such as injection site pain or discomfort (2.5%), irritation (1%), and erythema (0.5%).
-One case of profound bradycardia (26 bpm: BP 100/60 mmHg) was observed in a patient during a 15 minute infusion of 150mg VIMPAT.
+One case of profound bradycardia (26 bpm: BP 100/60 mmHg) was observed in a patient during a 15 minute infusion of 150 mg VIMPAT.
 This patient was on a beta-blocker.
 Infusion was discontinued and the patient experienced a rapid recovery.
 

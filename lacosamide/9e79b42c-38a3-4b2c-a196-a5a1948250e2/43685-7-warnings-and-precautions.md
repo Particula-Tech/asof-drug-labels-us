@@ -45,7 +45,7 @@ In patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizzines
 Ataxia was experienced by 6% of patients randomized to the recommended doses (200 to 400 mg/day) of VIMPAT (compared to 2% of placebo patients).
 The onset of dizziness and ataxia was most commonly observed during titration.
 There was a substantial increase in these adverse events at doses higher than 400 mg/day.
-[see Adverse Reactions/Table 2 (6.1)]
+[See Adverse Reactions/Table 2 (6.1)]
 
 ## 5.3 Cardiac Rhythm and Conduction Abnormalities
 

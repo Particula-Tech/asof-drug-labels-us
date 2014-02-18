@@ -33,4 +33,5 @@ To ensure broad program access and reach, either a healthcare provider or the pa
 
 Patients should also be encouraged to enroll in the North American Antiepileptic Drug Pregnancy Registry if they become pregnant.
 This Registry is collecting information about the safety of AEDs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+To enroll, patients can call the toll free number 1-888-233-2334.
+[See Use in Specific Populations (8.1)]
