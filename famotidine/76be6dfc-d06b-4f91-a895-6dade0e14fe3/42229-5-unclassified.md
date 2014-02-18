@@ -54,15 +54,3 @@ While each study had a different design, acid suppression data over time are sum
 The duration of effect of famotidine I.V.
 0.5 mg/kg on gastric pH and acid suppression was shown in one study to be longer in pediatric patients <1 month of age than in older pediatric patients.
 This longer duration of gastric acid suppression is consistent with the decreased clearance in pediatric patients <3 months of age (see Table 6).
-
-PRINCIPAL DISPLAY PANEL - 40 MG TABLETS
-
-NDC 42998-649-09
-
-Pepcid® (Famotidine) Tablets, USP
-
-Each Tablet contains 40 mg of famotidine
-
-40 mg
-
-Rx only 30 Tablets

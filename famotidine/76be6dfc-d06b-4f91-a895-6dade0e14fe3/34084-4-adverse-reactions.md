@@ -20,7 +20,7 @@ Hematologic: rare cases of agranulocytosis, pancytopenia, leukopenia, thrombocyt
 
 Hypersensitivity: anaphylaxis, angioedema, orbital or facial edema, urticaria, rash, conjunctival injection
 
-Musculoskeletal: musculoskeletal pain including muscle cramps, arthralgia
+Musculoskeletal: rhabdomyolysis, musculoskeletal pain including muscle cramps, arthralgia
 
 Nervous System/Psychiatric: grand mal seizure; psychic disturbances, which were reversible in cases for which follow-up was obtained, including hallucinations, confusion, agitation, depression, anxiety, decreased libido; paresthesia; insomnia; somnolence.
 Convulsions, in patients with impaired renal function, have been reported very rarely.

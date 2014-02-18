@@ -2,7 +2,7 @@
 
 ## GI Effects
 
-PEPCID is a competitive inhibitor of histamine H2-receptors.
+PEPCID is a competitive inhibitor of histamine H2‑receptors.
 The primary clinically important pharmacologic activity of PEPCID is inhibition of gastric secretion.
 Both the acid concentration and volume of gastric secretion are suppressed by PEPCID, while changes in pepsin secretion are proportional to volume output.
 
@@ -13,7 +13,7 @@ Duration of inhibition of secretion by doses of 20 and 40 mg was 10 to 12 hours.
 Single evening oral doses of 20 and 40 mg inhibited basal and nocturnal acid secretion in all subjects; mean nocturnal gastric acid secretion was inhibited by 86% and 94%, respectively, for a period of at least 10 hours.
 The same doses given in the morning suppressed food-stimulated acid secretion in all subjects.
 The mean suppression was 76% and 84%, respectively, 3 to 5 hours after administration, and 25% and 30%, respectively, 8 to 10 hours after administration.
-In some subjects who received the 20-mg dose, however, the antisecretory effect was dissipated within 6-8 hours.
+In some subjects who received the 20-mg dose, however, the antisecretory effect was dissipated within 6‑8 hours.
 There was no cumulative effect with repeated doses.
 The nocturnal intragastric pH was raised by evening doses of 20 and 40 mg of PEPCID to mean values of 5.0 and 6.4, respectively.
 When PEPCID was given after breakfast, the basal daytime interdigestive pH at 3 and 8 hours after 20 or 40 mg of PEPCID was raised to about 5.
