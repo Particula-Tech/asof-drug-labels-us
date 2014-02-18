@@ -1,19 +1,19 @@
 # 14 CLINICAL STUDIES
 
-The co-administration of sitagliptin and metformin has been studied in patients with type 2 diabetes inadequately controlled on diet and exercise and in combination with other antihyperglycemic agents.
+The coadministration of sitagliptin and metformin has been studied in patients with type 2 diabetes inadequately controlled on diet and exercise and in combination with other antihyperglycemic agents.
 
-None of the clinical efficacy studies described below was conducted with JANUMET; however, bioequivalence of JANUMET with co-administered sitagliptin and metformin hydrochloride tablets was demonstrated.
+None of the clinical efficacy studies described below was conducted with JANUMET; however, bioequivalence of JANUMET with coadministered sitagliptin and metformin hydrochloride tablets was demonstrated.
 
-Sitagliptin and Metformin Co-administration in Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise
+Sitagliptin and Metformin Coadministration in Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise
 
-A total of 1091 patients with type 2 diabetes and inadequate glycemic control on diet and exercise participated in a 24-week, randomized, double-blind, placebo-controlled factorial study designed to assess the efficacy of sitagliptin and metformin co-administration.
+A total of 1091 patients with type 2 diabetes and inadequate glycemic control on diet and exercise participated in a 24-week, randomized, double-blind, placebo-controlled factorial study designed to assess the efficacy of sitagliptin and metformin coadministration.
 Patients on an antihyperglycemic agent (N=541) underwent a diet, exercise, and drug washout period of up to 12 weeks duration.
 After the washout period, patients with inadequate glycemic control (A1C 7.5% to 11%) were randomized after completing a 2-week single-blind placebo run-in period.
 Patients not on antihyperglycemic agents at study entry (N=550) with inadequate glycemic control (A1C 7.5% to 11%) immediately entered the 2-week single-blind placebo run-in period and then were randomized.
 Approximately equal numbers of patients were randomized to receive placebo, 100 mg of sitagliptin once daily, 500 mg or 1000 mg of metformin twice daily, or 50 mg of sitagliptin twice daily in combination with 500 mg or 1000 mg of metformin twice daily.
 Patients who failed to meet specific glycemic goals during the study were treated with glyburide (glibenclamide) rescue.
 
-Sitagliptin and metformin co-administration provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo, to metformin alone, and to sitagliptin alone (Table 8, Figure 1).
+Sitagliptin and metformin coadministration provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo, to metformin alone, and to sitagliptin alone (Table 8, Figure 1).
 Mean reductions from baseline in A1C were generally greater for patients with higher baseline A1C values.
 For patients not on an antihyperglycemic agent at study entry, mean reductions from baseline in A1C were: sitagliptin 100 mg once daily, -1.1%; metformin 500 mg bid, -1.1%; metformin 1000 mg bid, -1.2%; sitagliptin 50 mg bid with metformin 500 mg bid, -1.6%; sitagliptin 50 mg bid with metformin 1000 mg bid, -1.9%; and for patients receiving placebo, -0.2%.
 Lipid effects were generally neutral.
@@ -116,12 +116,12 @@ Table 11: Glycemic Parameters at Week 18 for Sitagliptin in Add-on Combination T
 |  | Week 18 |  |
 | --- | --- | --- |
 |  | Sitagliptin 100 mg + Metformin + Rosiglitazone | Placebo + Metformin + Rosiglitazone |
-| A1C (%) | N =176 | N = 93 |
+| A1C (%) | N = 176 | N = 93 |
 | Baseline (mean) | 8.8 | 8.7 |
 | Change from baseline (adjusted meanLeast squares means adjusted for prior antihyperglycemic therapy status and baseline value.) | -1.0 | -0.4 |
 | Difference from placebo + rosiglitazone + metformin (adjusted mean) (95% CI) | -0.7p<0.001 compared to placebo + metformin + rosiglitazone. (-0.9,-0.4) |  |
 | Patients (%) achieving A1C <7% | 39 (22%) | 9 (10%) |
-| FPG (mg/dL) | N = 179 | N =94 |
+| FPG (mg/dL) | N = 179 | N = 94 |
 | Baseline (mean) | 181 | 182 |
 | Change from baseline (adjusted mean) | -30 | -11 |
 | Difference from placebo + rosiglitazone + metformin (adjusted mean) (95% CI) | -18 (-26, -10) |  |
@@ -153,9 +153,9 @@ Table 12: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin as 
 | --- | --- | --- |
 | A1C (%) | N = 223 | N = 229 |
 | Baseline (mean) | 8.7 | 8.6 |
-| Change from baseline (adjusted meanLeast squares mean adjusted for insulin use at the screening visit, type of insulin used at the screening visit (pre-mixed vs. non pre-mixed [intermediate- or long-acting]), and baseline value.,Treatment by insulin stratum interaction was not significant (p >0.10).) | -0.7 | -0.1 |
+| Change from baseline (adjusted meanLeast squares means adjusted for insulin use at the screening visit, type of insulin used at the screening visit (pre-mixed vs. non pre-mixed [intermediate- or long-acting]), and baseline value.,Treatment by insulin stratum interaction was not significant (p >0.10).) | -0.7 | -0.1 |
 | Difference from placebo (adjusted mean) (95% CI) | -0.5p<0.001 compared to placebo. (-0.7, -0.4) |  |
-| Patients (%) achieving A1C (%) <7% | 32 (14%) | 12 (5%) |
+| Patients (%) achieving A1C <7% | 32 (14%) | 12 (5%) |
 | FPG (mg/dL) | N = 225 | N = 229 |
 | Baseline (mean) | 173 | 176 |
 | Change from baseline (adjusted mean) | -22 | -4 |

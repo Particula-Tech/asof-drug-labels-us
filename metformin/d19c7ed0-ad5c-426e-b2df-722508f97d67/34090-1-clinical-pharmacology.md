@@ -36,10 +36,10 @@ In patients with type 2 diabetes, administration of sitagliptin led to inhibitio
 After an oral glucose load or a meal, this DPP-4 inhibition resulted in a 2- to 3-fold increase in circulating levels of active GLP-1 and GIP, decreased glucagon concentrations, and increased responsiveness of insulin release to glucose, resulting in higher C-peptide and insulin concentrations.
 The rise in insulin with the decrease in glucagon was associated with lower fasting glucose concentrations and reduced glucose excursion following an oral glucose load or a meal.
 
-Sitagliptin and Metformin hydrochloride Co-administration
+Sitagliptin and Metformin hydrochloride Coadministration
 
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
-Co-administration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
+Coadministration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
 Sitagliptin, but not metformin, increased active GIP concentrations.
 It is unclear what these findings mean for changes in glycemic control in patients with type 2 diabetes.
 
@@ -59,14 +59,14 @@ In patients with type 2 diabetes administered sitagliptin 100 mg (N=81) or sitag
 
 JANUMET
 
-The results of a bioequivalence study in healthy subjects demonstrated that the JANUMET (sitagliptin and metformin HCl) 50 mg/500 mg and 50 mg/1000 mg combination tablets are bioequivalent to co-administration of corresponding doses of sitagliptin (JANUVIA®) and metformin hydrochloride as individual tablets.
+The results of a bioequivalence study in healthy subjects demonstrated that the JANUMET (sitagliptin and metformin HCl) 50 mg/500 mg and 50 mg/1000 mg combination tablets are bioequivalent to coadministration of corresponding doses of sitagliptin (JANUVIA®) and metformin hydrochloride as individual tablets.
 
 Absorption
 
 Sitagliptin
 
 The absolute bioavailability of sitagliptin is approximately 87%.
-Co-administration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics of sitagliptin.
+Coadministration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics of sitagliptin.
 
 Metformin hydrochloride
 
@@ -201,7 +201,7 @@ Drug Interactions
 
 Sitagliptin and Metformin hydrochloride
 
-Co-administration of multiple doses of sitagliptin (50 mg) and metformin (1000 mg) given twice daily did not meaningfully alter the pharmacokinetics of either sitagliptin or metformin in patients with type 2 diabetes.
+Coadministration of multiple doses of sitagliptin (50 mg) and metformin (1000 mg) given twice daily did not meaningfully alter the pharmacokinetics of either sitagliptin or metformin in patients with type 2 diabetes.
 
 Pharmacokinetic drug interaction studies with JANUMET have not been performed; however, such studies have been conducted with the individual components of JANUMET (sitagliptin and metformin hydrochloride).
 
@@ -220,50 +220,50 @@ In Vivo Assessment of Drug Interactions
 
 Table 4: Effect of Sitagliptin on Systemic Exposure of Coadministered Drugs
 
-|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified | Cmax |
+|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without sitagliptin) No Effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without sitagliptin) No Effect = 1.00 |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |  |
-| Digoxin | 0.25 mgMultiple dose once daily for 10 days | 100 mg once daily for 10 days | Digoxin | 1.11AUC0-24hr | 1.18 |
+| Digoxin | 0.25 mgMultiple dose. once daily for 10 days | 100 mg once daily for 10 days | Digoxin | 1.11AUC0-24hr. | 1.18 |
 | Glyburide | 1.25 mg | 200 mg once daily for 6 days | Glyburide | 1.09 | 1.01 |
-| Simvastatin | 20 mg | 200 mg once daily for 5 days | Simvastatin | 0.85AUC0-last | 0.80 |
+| Simvastatin | 20 mg | 200 mg once daily for 5 days | Simvastatin | 0.85AUC0-last. | 0.80 |
 |  |  | Simvastatin Acid | 1.12 | 1.06 |  |
 | Rosiglitazone | 4 mg | 200 mg once daily for 5 days | Rosiglitazone | 0.98 | 0.99 |
 | Warfarin | 30 mg single dose on day 5 | 200 mg once daily for 11 days | S(-) Warfarin | 0.95 | 0.89 |
 |  | R(+) Warfarin | 0.99 | 0.89 |  |  |
 | Ethinyl estradiol and norethindrone | 21 days once daily of 35 µg ethinyl estradiol with norethindrone 0.5 mg × 7 days, 0.75 mg × 7 days, 1.0 mg × 7 days | 200 mg once daily for 21 days | Ethinyl estradiol | 0.99 | 0.97 |
 | Norethindrone | 1.03 | 0.98 |  |  |  |
-| Metformin | 1000 mg twice daily for 14 days | 50 mg twice daily for 7 days | Metformin | 1.02AUC0-12hr | 0.97 |
+| Metformin | 1000 mg twice daily for 14 days | 50 mg twice daily for 7 days | Metformin | 1.02AUC0-12hr. | 0.97 |
 
 Table 5: Effect of Coadministered Drugs on Systemic Exposure of Sitagliptin
 
-|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified | Cmax |
+|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Cyclosporine | 600 mg once daily | 100 mg once daily | Sitagliptin | 1.29 | 1.68 |
-| Metformin | 1000 mgMultiple dose twice daily for 14 days | 50 mg twice daily for 7 days | Sitagliptin | 1.02AUC0-12hr | 1.05 |
+| Metformin | 1000 mgMultiple dose. twice daily for 14 days | 50 mg twice daily for 7 days | Sitagliptin | 1.02AUC0-12hr. | 1.05 |
 
 Table 6: Effect of Metformin on Systemic Exposure of Coadministered Drugs
 
-|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified | Cmax |
+|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified | Dose of Metformin | Geometric Mean Ratio (ratio with/without metformin) No Effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Metformin | Geometric Mean Ratio (ratio with/without metformin) No Effect = 1.00 |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |  |
-| Cimetidine | 400 mg | 850 mg | Cimetidine | 0.95AUC0-24hr | 1.01 |
-| Glyburide | 5 mg | 500 mgGLUMETZA (metformin hydrochloride extended-release tablets) 500 mg | Glyburide | 0.78Ratio of arithmetic means, p value of difference <0.05 | 0.63 |
+| Cimetidine | 400 mg | 850 mg | Cimetidine | 0.95AUC0-24hr. | 1.01 |
+| Glyburide | 5 mg | 500 mgGLUMETZA (metformin hydrochloride extended-release tablets) 500 mg. | Glyburide | 0.78Ratio of arithmetic means, p value of difference <0.05. | 0.63 |
 | Furosemide | 40 mg | 850 mg | Furosemide | 0.87 | 0.69 |
 | Nifedipine | 10 mg | 850 mg | Nifedipine | 1.10 | 1.08 |
 | Propranolol | 40 mg | 850 mg | Propranolol | 1.01 | 0.94 |
-| Ibuprofen | 400 mg | 850 mg | Ibuprofen | 0.97Ratio of arithmetic means | 1.01 |
+| Ibuprofen | 400 mg | 850 mg | Ibuprofen | 0.97Ratio of arithmetic means. | 1.01 |
 
 Table 7: Effect of Coadministered Drugs on Systemic Exposure of Metformin
 
-|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified | Cmax |
+|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |  |
-| Glyburide | 5 mg | 500 mgGLUMETZA (metformin hydrochloride extended-release tablets) 500 mg | Metformin | 0.98Ratio of arithmetic means | 0.99 |
+| Glyburide | 5 mg | 500 mgGLUMETZA (metformin hydrochloride extended-release tablets) 500 mg. | Metformin | 0.98Ratio of arithmetic means. | 0.99 |
 | Furosemide | 40 mg | 850 mg | Metformin | 1.09 | 1.22 |
 | Nifedipine | 10 mg | 850 mg | Metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | Metformin | 0.90 | 0.94 |
@@ -271,4 +271,4 @@ Table 7: Effect of Coadministered Drugs on Systemic Exposure of Metformin
 | Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution. [See Warnings and Precautions (5.10) and Drug Interactions (7.2).] |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | Metformin | 1.40 | 1.61 |
 | Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution. [See Warnings and Precautions (5.1) and Drug Interactions (7.1).] |  |  |  |  |  |
-| Topiramate | 100 mgSteady state 100 mg Topiramate every 12 hr + metformin 500 mg every 12 hr AUC = AUC0-12hr | 500 mg | Metformin | 1.25 | 1.17 |
+| Topiramate | 100 mgSteady state 100 mg Topiramate every 12 hr + metformin 500 mg every 12 hr AUC = AUC0-12hr. | 500 mg | Metformin | 1.25 | 1.17 |

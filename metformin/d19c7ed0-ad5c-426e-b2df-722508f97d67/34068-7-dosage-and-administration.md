@@ -23,7 +23,7 @@ For patients taking metformin 850 mg twice daily, the recommended starting dose 
 
 Patients treated with an insulin secretagogue or insulin
 
-Co-administration of JANUMET with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.9)].
+Coadministration of JANUMET with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.9)].
 
 No studies have been performed specifically examining the safety and efficacy of JANUMET in patients previously treated with other oral antihyperglycemic agents and switched to JANUMET.
 Any change in therapy of type 2 diabetes should be undertaken with care and appropriate monitoring as changes in glycemic control can occur.
