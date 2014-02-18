@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA202467"
+  ],
+  "inn": "pioglitazone",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-054-07",
+    "33342-054-10",
+    "33342-054-12",
+    "33342-054-15",
+    "33342-055-07",
+    "33342-055-10",
+    "33342-055-12",
+    "33342-055-15",
+    "33342-056-07",
+    "33342-056-10",
+    "33342-056-12",
+    "33342-056-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pioglitazone",
+      "name": "Pioglitazone"
+    }
+  ],
+  "setid": "482cef76-0623-4b4f-a0ea-f008c97b2281",
+  "source": "dailymed"
+}
