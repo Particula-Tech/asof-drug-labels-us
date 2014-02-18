@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA076118"
+  ],
+  "inn": "benazepril",
+  "labeler": "Solco healthcare U.S., LLC",
+  "package_ndcs": [
+    "43547-335-10",
+    "43547-336-10",
+    "43547-336-50",
+    "43547-337-10",
+    "43547-337-50",
+    "43547-338-10",
+    "43547-338-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "benazepril hydrochloride",
+      "name": "Benazepril Hydrochloride"
+    }
+  ],
+  "setid": "bb91223e-ffa5-4a3a-b191-fe121250c20c",
+  "source": "dailymed"
+}
