@@ -100,3 +100,6 @@
     Am J Hosp Pharm, 1996; 43:1193-1204.
 
 *ZYLOPRIM® is registered trademarks of Prometheus Laboratories Inc.
+
+This product's label may have been updated.
+For current package insert, please visit www.zydususa.com
