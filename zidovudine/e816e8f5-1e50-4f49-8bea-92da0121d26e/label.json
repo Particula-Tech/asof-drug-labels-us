@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA203259"
+  ],
+  "inn": "zidovudine",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-739-05",
+    "31722-739-31",
+    "31722-739-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lamivudine and zidovudine",
+      "name": "Lamivudine and Zidovudine"
+    }
+  ],
+  "setid": "e816e8f5-1e50-4f49-8bea-92da0121d26e",
+  "source": "dailymed"
+}
