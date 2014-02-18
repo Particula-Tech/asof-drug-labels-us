@@ -30,27 +30,21 @@ Table 1: Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in ARI
 | Intraocular§ | 32 (0.21) | 22 (0.14) | 1.42 (0.83, 2.45) | - |
 | Fatal¶ | 10 (0.06) | 37 (0.24) | 0.27 (0.13, 0.53) | - |
 | CRNM** | 318 (2.08) | 444 (3.00) | 0.70 (0.60, 0.80) | <0.0001 |
-| * Confidence interval. |  |  |  |  |
-| † International Society on Thrombosis and Hemostasis (ISTH) major bleed assessed by sequential testing strategy for superiority designed to control the overall type I error in the trial. |  |  |  |  |
-| ‡ GI bleed includes upper GI, lower GI, and rectal bleeding. |  |  |  |  |
-| § Intraocular bleed is within the corpus of the eye (a conjunctival bleed is not an intraocular bleed). |  |  |  |  |
-| ¶ Fatal bleed is an adjudicated death because of bleeding during the treatment period and includes both fatal extracranial bleeds and fatal hemorrhagic stroke. |  |  |  |  |
-| ** CRNM = clinically relevant nonmajor bleeding. |  |  |  |  |
-| Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |  |
+| * Confidence interval. † International Society on Thrombosis and Hemostasis (ISTH) major bleed assessed by sequential testing strategy for superiority designed to control the overall type I error in the trial. ‡ GI bleed includes upper GI, lower GI, and rectal bleeding. § Intraocular bleed is within the corpus of the eye (a conjunctival bleed is not an intraocular bleed). ¶ Fatal bleed is an adjudicated death because of bleeding during the treatment period and includes both fatal extracranial bleeds and fatal hemorrhagic stroke. ** CRNM = clinically relevant nonmajor bleeding. Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |  |
 
-In ARISTOTLE, the results for major bleeding were generally consistent across most major subgroups including age, weight, CHADS2 score (a scale from 0 to 6 used to estimate risk of stroke, with higher scores predicting greater risk), prior warfarin use, geographic region, ELIQUIS dose, type of AF, and aspirin use at randomization (Figure 1).
-Subjects treated with apixaban with diabetes bled more (3.0%/year) than did subjects without diabetes (1.9%/year).
+In ARISTOTLE, the results for major bleeding were generally consistent across most major subgroups including age, weight, CHADS2 score (a scale from 0 to 6 used to estimate risk of stroke, with higher scores predicting greater risk), prior warfarin use, geographic region, ELIQUIS dose, type of atrial fibrillation (AF), and aspirin use at randomization (Figure 1).
+Subjects treated with apixaban with diabetes bled more (3.0% per year) than did subjects without diabetes (1.9% per year).
 
 Figure 1: Major Bleeding Hazard Ratios by Baseline Characteristics – ARISTOTLE Study
 
 Table 2: Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in AVERROES
 
-|  | ELIQUIS N=2978 n (%/year) | Aspirin N=2780 n (%/year) | Hazard Ratio (95% CI) | P-value |
-| --- | --- | --- | --- | --- |
-| Major | 45 (1.41) | 29 (0.92) | 1.54 (0.96, 2.45) | 0.07 |
-| Fatal | 5 (0.16) | 5 (0.16) | 0.99 (0.23, 4.29) | - |
-| Intracranial | 11 (0.34) | 11 (0.35) | 0.99 (0.39, 2.51) | - |
-| Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |  |
+|  | ELIQUIS N=2978 n (%/year) | Aspirin N=2780 n (%/year) | Hazard Ratio (95% CI) | P-value |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Major | 45 (1.41) | 29 (0.92) | 1.54 (0.96, 2.45) | 0.07 |  |  |  |  |  |
+| Fatal | 5 (0.16) | 5 (0.16) | 0.99 (0.23, 4.29) | - |  |  |  |  |  |
+| Intracranial | 11 (0.34) | 11 (0.35) | 0.99 (0.39, 2.51) | - |  |  |  |  |  |
+| Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |  |  |  |  |  |  |
 
 ### Other Adverse Reactions
 

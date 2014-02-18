@@ -3,8 +3,8 @@
 ## 5.1 Increased Risk of Stroke with Discontinuation of ELIQUIS
 
 Discontinuing ELIQUIS in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
-An increased rate of stroke was observed during the transition from ELIQUIS to warfarin in clinical trials in patients with nonvalvular atrial fibrillation.
-If ELIQUIS must be discontinued for a reason other than pathological bleeding, consider coverage with another anticoagulant [see Dosage and Administration (2.3)].
+An increased rate of stroke was observed during the transition from ELIQUIS to warfarin in clinical trials in patients with nonvalvular atrial fibrillation [see Clinical Studies (14.1)].
+If ELIQUIS must be discontinued for a reason other than pathological bleeding, consider coverage with another anticoagulant [see Dosage and Administration (2.5)].
 
 ## 5.2 Bleeding
 
@@ -16,9 +16,9 @@ These include aspirin and other antiplatelet agents, other anticoagulants, hepar
 Patients should be made aware of signs and symptoms of blood loss and instructed to report them immediately or go to an emergency room.
 ELIQUIS should be discontinued in patients with active pathological hemorrhage.
 
-There is no established way to reverse the anticoagulant effect of apixaban, which can be expected to persist for about 24 hours after the last dose, i.e., for about two half-lives.
+There is no established way to reverse the anticoagulant effect of apixaban, which can be expected to persist for at least 24 hours after the last dose, i.e., for about two half-lives.
 A specific antidote for ELIQUIS is not available.
-Because of high plasma protein binding, apixaban is not expected to be dialyzable [see Clinical Pharmacology (12.3)].
+Hemodialysis does not appear to have a substantial impact on apixaban exposure [see Clinical Pharmacology (12.3)].
 Protamine sulfate and vitamin K would not be expected to affect the anticoagulant activity of apixaban.
 There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving apixaban.
 There is neither scientific rationale for reversal nor experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban.
@@ -27,5 +27,5 @@ Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaba
 
 ## 5.3 Patients with Prosthetic Heart Valves
 
-The safety and efficacy of ELIQUIS has not been studied in patients with prosthetic heart valves.
+The safety and efficacy of ELIQUIS have not been studied in patients with prosthetic heart valves.
 Therefore, use of ELIQUIS is not recommended in these patients.

@@ -2,17 +2,17 @@
 
 ## 14.1 ARISTOTLE
 
-Evidence for the efficacy and safety of ELIQUIS was derived from ARISTOTLE, a multinational, double-blind study in patients with nonvalvular atrial fibrillation (AF) comparing the effects of ELIQUIS and warfarin on the risk of stroke and non-central nervous system (CNS) systemic embolism.
+Evidence for the efficacy and safety of ELIQUIS was derived from ARISTOTLE, a multinational, double-blind study in patients with nonvalvular AF comparing the effects of ELIQUIS and warfarin on the risk of stroke and non-central nervous system (CNS) systemic embolism.
 In ARISTOTLE, patients were randomized to ELIQUIS 5 mg orally twice daily (or 2.5 mg twice daily in subjects with at least 2 of the following characteristics: age ≥80 years, body weight ≤60 kg, or serum creatinine ≥1.5 mg/dL) or to warfarin (targeted to an INR range of 2.0-3.0).
 Patients had to have one or more of the following additional risk factors for stroke:
 
-- prior stroke or transient ischemic attack (TIA)
-- prior systemic embolism
-- age ≥75 years
-- arterial hypertension requiring treatment
-- diabetes mellitus
-- heart failure ≥New York Heart Association Class 2
-- left ventricular ejection fraction ≤40%
+- ●prior stroke or transient ischemic attack (TIA)
+- ●prior systemic embolism
+- ●age ≥75 years
+- ●arterial hypertension requiring treatment
+- ●diabetes mellitus
+- ●heart failure ≥New York Heart Association Class 2
+- ●left ventricular ejection fraction ≤40%
 
 The primary objective of ARISTOTLE was to determine whether ELIQUIS 5 mg twice daily (or 2.5 mg twice daily) was effective (noninferior to warfarin) in reducing the risk of stroke (ischemic or hemorrhagic) and systemic embolism.
 Superiority of ELIQUIS to warfarin was also examined for the primary endpoint (rate of stroke and systemic embolism), major bleeding, and death from any cause.
@@ -54,11 +54,15 @@ In ARISTOTLE, the results for the primary efficacy endpoint were generally consi
 
 Figure 5: Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics – ARISTOTLE Study
 
+At the end of the ARISTOTLE study, warfarin patients who completed the study were generally maintained on a VKA with no interruption of anticoagulation.
+ELIQUIS patients who completed the study were generally switched to a VKA with a 2-day period of coadministration of ELIQUIS and VKA, so that some patients may not have been adequately anticoagulated after stopping ELIQUIS until attaining a stable and therapeutic INR.
+During the 30 days following the end of the study, there were 21 stroke or systemic embolism events in the 6791 patients (0.3%) in the ELIQUIS arm compared to 5 in the 6569 patients (0.1%) in the warfarin arm [see Dosage and Administration (2.5)].
+
 ## 14.2 AVERROES
 
 In AVERROES, patients with nonvalvular atrial fibrillation thought not to be candidates for warfarin therapy were randomized to treatment with ELIQUIS 5 mg orally twice daily (or 2.5 mg twice daily in selected patients) or aspirin 81 to 324 mg once daily.
 The primary objective of the study was to determine if ELIQUIS was superior to aspirin for preventing the composite outcome of stroke or systemic embolism.
-AVERROES was stopped early on the basis of a prespecified interim analysis showing a significant reduction in stroke and systemic embolism for ELIQUIS compared to aspirin that was associated with a modest increase in major bleeding (Table 4); [see Adverse Reactions (6.1)].
+AVERROES was stopped early on the basis of a prespecified interim analysis showing a significant reduction in stroke and systemic embolism for ELIQUIS compared to aspirin that was associated with a modest increase in major bleeding (Table 4) [see Adverse Reactions (6.1)].
 
 Table 4: Key Efficacy Outcomes in Patients with Nonvalvular Atrial Fibrillation in AVERROES
 

@@ -35,3 +35,9 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Of the total subjects in clinical studies of apixaban, >69% were 65 and older, and >31% were 75 and older.
 The effects of ELIQUIS on the risk of stroke and major bleeding compared to warfarin were maintained in geriatric subjects.
+
+## 8.6 End-Stage Renal Disease Patients Maintained with Hemodialysis
+
+Patients with ESRD with or without hemodialysis were not studied in clinical efficacy and safety studies with ELIQUIS; therefore, the dosing recommendation is based on pharmacokinetic and pharmacodynamic (anti-Factor Xa activity) data in subjects with ESRD maintained on dialysis.
+The recommended dose for ESRD patients maintained with hemodialysis is 5 mg orally twice daily.
+For ESRD patients maintained with hemodialysis with one of the following patient characteristics, age ≥80 years or body weight ≤60 kg, reduce dose to 2.5 mg twice daily [see Dosage and Administration (2.7) and Clinical Pharmacology (12.2,12.3)].

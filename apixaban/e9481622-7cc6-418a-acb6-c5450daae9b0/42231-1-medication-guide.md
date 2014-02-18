@@ -1,8 +1,10 @@
-MEDICATION GUIDE ELIQUIS® (ELL eh kwiss) (apixaban) tablets
+# MEDICATION GUIDE
+
+ELIQUIS® (ELL eh kwiss) (apixaban) tablets
 
 What is the most important information I should know about ELIQUIS?
 
-- People with atrial fibrillation (a type of irregular heartbeat) are at an increased risk of forming a blood clot in the heart, which can travel to the brain, causing a stroke, or to other parts of the body.
+- ●People with atrial fibrillation (a type of irregular heartbeat) are at an increased risk of forming a blood clot in the heart, which can travel to the brain, causing a stroke, or to other parts of the body.
   ELIQUIS lowers your chance of having a stroke by helping to prevent clots from forming.
   If you stop taking ELIQUIS, you may have increased risk of forming a clot in your blood.
   Do not stop taking ELIQUIS without talking to the doctor who prescribes it for you.
@@ -11,31 +13,33 @@ What is the most important information I should know about ELIQUIS?
   Ask the doctor who prescribed ELIQUIS for you when you should stop taking it.
   Your doctor will tell you when you may start taking ELIQUIS again after your surgery or procedure.
   If you have to stop taking ELIQUIS, your doctor may prescribe another medicine to help prevent a blood clot from forming.
-- ELIQUIS can cause bleeding which can be serious and rarely may lead to death.
+- ●ELIQUIS can cause bleeding which can be serious and rarely may lead to death.
   This is because ELIQUIS is a blood thinner medicine that reduces blood clotting.
-  You may have a higher risk of bleeding if you take ELIQUIS and take other medicines that increase your risk of bleeding, including: Tell your doctor if you take any of these medicines.
+  You may have a higher risk of bleeding if you take ELIQUIS and take other medicines that increase your risk of bleeding, including:
+  - ●aspirin or aspirin-containing products
+  - ●long-term (chronic) use of nonsteroidal anti-inflammatory drugs (NSAIDs)
+  - ●warfarin sodium (COUMADIN®, JANTOVEN®)
+  - ●any medicine that contains heparin
+  - ●selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs)
+  - ●other medicines to help prevent or treat blood clots
+- Tell your doctor if you take any of these medicines.
   Ask your doctor or pharmacist if you are not sure if your medicine is one listed above.
-  While taking ELIQUIS: Call your doctor or get medical help right away if you have any of these signs or symptoms of bleeding when taking ELIQUIS:
-  - aspirin or aspirin-containing products
-  - long-term (chronic) use of nonsteroidal anti-inflammatory drugs (NSAIDs)
-  - warfarin sodium (COUMADIN®, JANTOVEN®)
-  - any medicine that contains heparin
-  - selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs)
-  - other medicines to help prevent or treat blood clots
-  - you may bruise more easily
-  - it may take longer than usual for any bleeding to stop
-  - unexpected bleeding, or bleeding that lasts a long time, such as:
-    - unusual bleeding from the gums
-    - nosebleeds that happen often
-    - menstrual bleeding or vaginal bleeding that is heavier than normal
-  - bleeding that is severe or you cannot control
-  - red, pink, or brown urine
-  - red or black stools (looks like tar)
-  - cough up blood or blood clots
-  - vomit blood or your vomit looks like coffee grounds
-  - unexpected pain, swelling, or joint pain
-  - headaches, feeling dizzy or weak
-- ELIQUIS is not for patients with artificial heart valves.
+  While taking ELIQUIS:
+  - ●you may bruise more easily
+  - ●it may take longer than usual for any bleeding to stop
+- Call your doctor or get medical help right away if you have any of these signs or symptoms of bleeding when taking ELIQUIS:
+  - ●unexpected bleeding, or bleeding that lasts a long time, such as:
+    - ●unusual bleeding from the gums
+    - ●nosebleeds that happen often
+    - ●menstrual bleeding or vaginal bleeding that is heavier than normal
+  - ●bleeding that is severe or you cannot control
+  - ●red, pink, or brown urine
+  - ●red or black stools (looks like tar)
+  - ●cough up blood or blood clots
+  - ●vomit blood or your vomit looks like coffee grounds
+  - ●unexpected pain, swelling, or joint pain
+  - ●headaches, feeling dizzy or weak
+- ●ELIQUIS is not for patients with artificial heart valves.
 
 What is ELIQUIS?
 
@@ -47,20 +51,20 @@ Who should not take ELIQUIS?
 
 Do not take ELIQUIS if you:
 
-- currently have certain types of abnormal bleeding.
-- have had a serious allergic reaction to ELIQUIS.
+- ●currently have certain types of abnormal bleeding.
+- ●have had a serious allergic reaction to ELIQUIS.
   Ask your doctor if you are not sure.
 
 What should I tell my doctor before taking ELIQUIS?
 
 Before you take ELIQUIS, tell your doctor if you:
 
-- have kidney or liver problems
-- have any other medical condition
-- have ever had bleeding problems
-- are pregnant or plan to become pregnant.
+- ●have kidney or liver problems
+- ●have any other medical condition
+- ●have ever had bleeding problems
+- ●are pregnant or plan to become pregnant.
   It is not known if ELIQUIS will harm your unborn baby.
-- are breastfeeding or plan to breastfeed.
+- ●are breastfeeding or plan to breastfeed.
   It is not known if ELIQUIS passes into your breast milk.
   You and your doctor should decide if you will take ELIQUIS or breastfeed.
   You should not do both.
@@ -78,29 +82,29 @@ Keep a list of them to show your doctor and pharmacist when you get a new medici
 
 How should I take ELIQUIS?
 
-- Take ELIQUIS exactly as prescribed by your doctor.
-- Take ELIQUIS twice every day with or without food.
-- Do not change your dose or stop taking ELIQUIS unless your doctor tells you to.
-- If you miss a dose of ELIQUIS, take it as soon as you remember.
+- ●Take ELIQUIS exactly as prescribed by your doctor.
+- ●Take ELIQUIS twice every day with or without food.
+- ●Do not change your dose or stop taking ELIQUIS unless your doctor tells you to.
+- ●If you miss a dose of ELIQUIS, take it as soon as you remember.
   Do not take more than one dose of ELIQUIS at the same time to make up for a missed dose.
-- Your doctor will decide how long you should take ELIQUIS.
+- ●Your doctor will decide how long you should take ELIQUIS.
   Do not stop taking it without first talking with your doctor.
   Stopping ELIQUIS may increase your risk of having a stroke.
-- Do not run out of ELIQUIS.
+- ●Do not run out of ELIQUIS.
   Refill your prescription before you run out.
-- If you take too much ELIQUIS, call your doctor or go to the nearest hospital emergency room right away.
-- Call your doctor or healthcare provider right away if you fall or injure yourself, especially if you hit your head.
+- ●If you take too much ELIQUIS, call your doctor or go to the nearest hospital emergency room right away.
+- ●Call your doctor or healthcare provider right away if you fall or injure yourself, especially if you hit your head.
   Your doctor or healthcare provider may need to check you.
 
 What are the possible side effects of ELIQUIS?
 
-- See "What is the most important information I should know about ELIQUIS?"
-- ELIQUIS can cause a skin rash or severe allergic reaction.
+- ●See "What is the most important information I should know about ELIQUIS?"
+- ●ELIQUIS can cause a skin rash or severe allergic reaction.
   Call your doctor or get medical help right away if you have any of the following symptoms:
-  - chest pain or tightness
-  - swelling of your face or tongue
-  - trouble breathing or wheezing
-  - feeling dizzy or faint
+  - ●chest pain or tightness
+  - ●swelling of your face or tongue
+  - ●trouble breathing or wheezing
+  - ●feeling dizzy or faint
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -136,3 +140,12 @@ Inactive ingredients: anhydrous lactose, microcrystalline cellulose, croscarmell
 The film coating contains lactose monohydrate, hypromellose, titanium dioxide, triacetin, and yellow iron oxide (2.5 mg tablets) or red iron oxide (5 mg tablets).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Manufactured by: Bristol-Myers Squibb Company Princeton, New Jersey 08543 USA
+
+Marketed by: Bristol-Myers Squibb Company Princeton, New Jersey 08543 USA and Pfizer Inc New York, New York 10017 USA
+
+COUMADIN® is a registered trademark of Bristol-Myers Squibb Pharma Company.
+
+All other trademarks are property of their respective companies.
+
+Rev January 2014
