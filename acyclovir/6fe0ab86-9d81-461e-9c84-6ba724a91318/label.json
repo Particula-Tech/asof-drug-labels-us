@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "NDA018828",
+    "NDA019909",
+    "NDA020089"
+  ],
+  "inn": "acyclovir",
+  "labeler": "Prestium Pharma, Inc.",
+  "package_ndcs": [
+    "40076-945-55",
+    "40076-949-55",
+    "40076-953-96",
+    "40076-991-55"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "acyclovir",
+      "name": "ZOVIRAX"
+    },
+    {
+      "form": "SUSPENSION",
+      "generic": "acyclovir",
+      "name": "ZOVIRAX"
+    },
+    {
+      "form": "TABLET",
+      "generic": "acyclovir",
+      "name": "ZOVIRAX"
+    }
+  ],
+  "setid": "6fe0ab86-9d81-461e-9c84-6ba724a91318",
+  "source": "dailymed"
+}
