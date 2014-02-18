@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA202747"
+  ],
+  "inn": "furosemide",
+  "labeler": "Claris Lifesciences, Inc",
+  "package_ndcs": [
+    "36000-063-01",
+    "36000-064-01",
+    "36000-065-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "furosemide",
+      "name": "FUROSEMIDE"
+    }
+  ],
+  "setid": "c71371a7-75c5-45b8-b762-8d782d4c71bc",
+  "source": "dailymed"
+}

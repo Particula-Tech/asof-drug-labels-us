@@ -1,0 +1,29 @@
+# PRINCIPAL PANEL DISPLAY- 2 mL Vial
+
+NDC 36000-063-01 2mL
+
+SINGLE DOSE VIAL
+
+FUROSEMIDE INJECTION, USP 20 mg/2 mL (10 mg/mL) FOR IV OR IM USE Rx Only
+
+Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
+
+# PRINCIPAL PANEL DISPLAY- 4 mL Vial
+
+NDC 36000-064-01 4mL
+
+SINGLE DOSE VIALS
+
+FUROSEMIDE INJECTION, USP 40 mg/4 mL (10 mg/mL) FOR INTRAVENOUS OR INTRAMUSCULAR USE Rx Only
+
+Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
+
+# PRINCIPAL PANEL DISPLAY- 10 mL Vial
+
+NDC 36000-065-01 10mL
+
+SINGLE DOSE VIALS
+
+FUROSEMIDE INJECTION, USP 100 mg/10 mL (10 mg/mL) FOR INTRAVENOUS OR INTRAMUSCULAR USE Rx Only
+
+Manufactured for: Claris Lifesciences Inc. North Brunswick, NJ 08902
