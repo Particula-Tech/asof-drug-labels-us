@@ -96,7 +96,7 @@ The high doses are approximately 30-times the daily maximum recommended human do
 No embryo-fetal effects were observed in rats at the high dose which caused increased maternal lethality.
 An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity with the fetal No Observed Adverse Effect Level being approximately 8-times the MRHD on a BSA basis.
 
-In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at subcutaneous doses of 4.4, 13.3, & 40 mg/kg mg/kg/day, decreased pup survival was observed at the high dose.
+In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at subcutaneous doses of 4.4, 13.3, & 40 mg/kg, decreased pup survival was observed at the high dose.
 The high dose is approximately 30-times the daily MRHD of 12 mg/day on a BSA basis.
 
 Labor and Delivery: Spinal anesthesia has a recognized use during labor and delivery.

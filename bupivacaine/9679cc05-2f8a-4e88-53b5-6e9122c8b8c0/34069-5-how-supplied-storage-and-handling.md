@@ -7,14 +7,14 @@ Single-dose ampuls of 2 mL (15 mg bupivacaine hydrochloride with 165 mg dextrose
 | 0409-1761-02 | Uni-AmpTM | 2 mL | package of 10 |
 | 0409-1761-62 | Uni-AmpTM | 2 mL | bulk package of 800 |
 
-Store at 20 to 25ºC (68 to 77ºF).
+Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
 
 MARCAINE Spinal solution may be autoclaved once at 15 pound pressure, 121°C (250°F) for 15 minutes.
 Do not administer any solution which is discolored or contains particulate matter.
 
-Revised: 10/2011
+Revised: 08/2013
 
-EN-2919
+EN-3326
 
 Hospira, Inc., Lake Forest, IL 60045 USA
