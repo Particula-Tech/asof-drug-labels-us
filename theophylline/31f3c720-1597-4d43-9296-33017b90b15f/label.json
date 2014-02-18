@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA090430"
+  ],
+  "inn": "theophylline",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-025-30",
+    "46708-025-31",
+    "46708-025-71",
+    "46708-025-91",
+    "46708-026-30",
+    "46708-026-31",
+    "46708-026-71"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "theophylline",
+      "name": "Theophylline"
+    }
+  ],
+  "setid": "31f3c720-1597-4d43-9296-33017b90b15f",
+  "source": "dailymed"
+}
