@@ -33,4 +33,5 @@ NDC 0006-0277-82 bottles of 1000.
 
 Storage
 
-Store at 20-25°C (68-77°F), excursions permitted to 15-30°C (59-86°F), [see USP Controlled Room Temperature].
+Store at 20-25°C (68-77°F), excursions permitted to 15-30°C (59-86°F).
+[See USP Controlled Room Temperature.]
