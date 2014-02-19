@@ -1,35 +1,35 @@
-# PRINCIPAL DISPLAY PANEL - 30-mg Tablet Label
+# PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Label
 
-NDC 0069-2650-66
+Pfizer NDC 0069-2650-66
 
-100 Tablets
-
-Procardia XL® (nifedipine) extended release
+Procardia XL® (nifedipine)
 
 30 mg GITS*
 
-Pfizer Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+Extended Release Tablets
 
-# PRINCIPAL DISPLAY PANEL - 60-mg Tablet Label
+100 Tablets Rx only
 
-NDC 0069-2660-66
+# PRINCIPAL DISPLAY PANEL - 60 mg Tablet Bottle Label
 
-100 Tablets
+Pfizer NDC 0069-2660-66
 
-Procardia XL® (nifedipine) extended release
+Procardia XL® (nifedipine)
 
 60 mg GITS*
 
-Pfizer Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+Extended Release Tablets
 
-# PRINCIPAL DISPLAY PANEL - 90-mg Tablet Label
+100 Tablets Rx only
 
-NDC 0069-2670-66
+# PRINCIPAL DISPLAY PANEL - 90 mg Tablet Bottle Label
 
-100 Tablets
+Pfizer NDC 0069-2670-66
 
-Procardia XL® (nifedipine) extended release
+Procardia XL® (nifedipine)
 
 90 mg GITS*
 
-Pfizer Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+Extended Release Tablets
+
+100 Tablets Rx only
