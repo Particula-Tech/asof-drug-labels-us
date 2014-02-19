@@ -1,40 +1,54 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Treatment of Adverse Reactions Produced by Overdosage
+## 10.1 Signs and Symptoms in Adults
 
-Digoxin should be temporarily discontinued until the adverse reaction resolves.
-Every effort should also be made to correct factors that may contribute to the adverse reaction (such as electrolyte disturbances or concurrent medications).
-Once the adverse reaction has resolved, therapy with digoxin may be reinstituted, following a careful reassessment of dose.
+The signs and symptoms of toxicity are generally similar to those previously described [see Adverse Reactions (6.1)] but may be more frequent and can be more severe.
+Signs and symptoms of digoxin toxicity become more frequent with levels above 2 ng/mL.
+However, in deciding whether a patient’s symptoms are due to digoxin, the clinical state together with serum electrolyte levels and thyroid function are important factors [see Dosage and Administration (2)].
 
-Withdrawal of digoxin may be all that is required to treat the adverse reaction.
-However, when the primary manifestation of digoxin overdosage is a cardiac arrhythmia, additional therapy may be needed.
+Adults: The most common signs and symptoms of digoxin toxicity are nausea, vomiting, anorexia, and fatigue that occur in 30-70% of patients who are overdosed.
+Extremely high serum concentrations produce hyperkalemia especially in patients with impaired renal function.
+Almost every type of cardiac arrhythmia has been associated with digoxin overdose and multiple rhythm disturbances in the same patient are common.
+Peak cardiac effects occur 3-6 hours following ingestion and may persist for 24 hours or longer.
+Arrhythmias that are considered more characteristic of digoxin toxicity are new-onset Mobitz type 1 A-V block, accelerated junctional rhythms, non-paroxysmal atrial tachycardia with A-V block, and bi-directional ventricular tachycardia.
+Cardiac arrest from asystole or ventricular fibrillation is usually fatal.
 
-If the rhythm disturbance is a symptomatic bradyarrhythmia or heart block, consideration should be given to the reversal of toxicity with Digoxin Immune Fab (Ovine) (see below), the use of atropine, or the insertion of a temporary cardiac pacemaker.
-However, asymptomatic bradycardia or heart block related to digoxin may require only temporary withdrawal of the drug and cardiac monitoring of the patient.
+Digoxin toxicity is related to serum concentration.
+As digoxin serum levels increase above 1.2 ng/mL, there is a potential for increase in adverse reactions.
+Furthermore, lower potassium levels increases the risk for adverse reactions.
+In adults with heart disease, clinical observations suggest that an overdose of digoxin of 10-15 mg results in death of half of patients.
+A dose above 25 mg ingested by an adult without heart disease appeared to be uniformly fatal if no Digoxin Immune Fab (DIGIBIND®, DIGIFAB®) was administered.
 
-If the rhythm disturbance is a ventricular arrhythmia, consideration should be given to the correction of electrolyte disorders, particularly if hypokalemia (see below) or hypomagnesemia is present.
-Digoxin Immune Fab (Ovine) is a specific antidote for digoxin and may be used to reverse potentially life-threatening ventricular arrhythmias due to digoxin overdosage.
+Among the extra-cardiac manifestations, gastrointestinal symptoms (e.g., nausea, vomiting, anorexia) are very common (up to 80% incidence) and precede cardiac manifestations in approximately half of the patients in most literature reports.
+Neurologic manifestations (e.g., dizziness, various CNS disturbances), fatigue, and malaise are very common.
+Visual manifestations may also occur with aberration in color vision (predominance of yellow green) the most frequent.
+Neurological and visual symptoms may persist after other signs of toxicity have resolved.
+In chronic toxicity, nonspecific extra-cardiac symptoms, such as malaise and weakness, may predominate.
 
-### ADMINISTRATION OF POTASSIUM
+## 10.2 Treatment
 
-Every effort should be made to maintain the serum potassium concentration between 4 and 5.5 mmol/L.
-Potassium is usually administered orally, but when correction of the arrhythmia is urgent and the serum potassium concentration is low, potassium may be administered cautiously by the intravenous route.
-The electrocardiogram should be monitored for any evidence of potassium toxicity (e.g., peaking of T waves) and to observe the effect on the arrhythmia.
-Potassium salts may be dangerous in patients who manifest bradycardia or heart block due to digoxin (unless primarily related to supraventricular tachycardia) and in the setting of massive digitalis overdosage (see Massive Digitalis Overdosage subsection).
+Chronic Overdose
 
-## Massive Digitalis Overdosage
+If there is suspicion of toxicity, discontinue digoxin and place the patient on a cardiac monitor.
+Correct factors such as electrolyte abnormalities, thyroid dysfunction, and concomitant medications [see Dosage and Administration (2.4].
+Correct hypokalemia by administering potassium so that serum potassium is maintained between 4.0 and 5.5 mmol/L.
+Potassium is usually administered orally, but when correction of the arrhythmia is urgent and serum potassium concentration is low, potassium may be administered by the intravenous route.
+Monitor electrocardiogram for any evidence of potassium toxicity (e.g., peaking of T waves) and to observe the effect on the arrhythmia.
+Avoid potassium salts in patients with bradycardia or heart block.
+Symptomatic arrhythmias may be treated with Digoxin Immune Fab.
 
-Manifestations of life-threatening toxicity include ventricular tachycardia or ventricular fibrillation, or progressive bradyarrhythmias, or heart block.
-The administration of more than 10 mg of digoxin in a previously healthy adult, or more than 4 mg in a previously healthy child, or a steady-state serum concentration greater than 10 ng/mL often results in cardiac arrest.
+Acute Overdose
 
-Digoxin Immune Fab (Ovine) should be used to reverse the toxic effects of ingestion of a massive overdose.
-The decision to administer Digoxin Immune Fab (Ovine) to a patient who has ingested a massive dose of digoxin but who has not yet manifested life-threatening toxicity should depend on the likelihood that life-threatening toxicity will occur (see above).
-
-Patients with massive digitalis ingestion should receive large doses of activated charcoal to prevent absorption and bind digoxin in the gut during enteroenteric recirculation.
-Emesis or gastric lavage may be indicated especially if ingestion has occurred within 30 minutes of the patient’s presentation at the hospital.
-Emesis should not be induced in patients who are obtunded.
-If a patient presents more than 2 hours after ingestion or already has toxic manifestations, it may be unsafe to induce vomiting or attempt passage of a gastric tube, because such maneuvers may induce an acute vagal episode that can worsen digitalis-related arrhythmias.
-
-Severe digitalis intoxication can cause a massive shift of potassium from inside to outside the cell, leading to life-threatening hyperkalemia.
-The administration of potassium supplements in the setting of massive intoxication may be hazardous and should be avoided.
-Hyperkalemia caused by massive digitalis toxicity is best treated with Digoxin Immune Fab (Ovine); initial treatment with glucose and insulin may also be required if hyperkalemia itself is acutely life-threatening.
+Patients who have intentionally or accidently ingested massive doses of digoxin should receive activated charcoal orally or by nasogastric tube regardless of the time since ingestion since digoxin recirculates to the intestine by enterohepatic circulation.
+In addition to cardiac monitoring, temporarily discontinue digoxin until the adverse reaction resolves.
+Correct factors that may be contributing to the adverse reactions [see Warnings and Precautions (5)].
+In particular, correct hypokalemia and hypomagnesemia.
+Digoxin is not effectively removed from the body by dialysis because of its large extravascular volume of distribution.
+Life threatening arrhythmias (ventricular tachycardia, ventricular fibrillation, high degree A-V block, bradyarrhythma, sinus arrest) or hyperkalemia requires administration of Digoxin Immune Fab.
+Digoxin Immune Fab has been shown to be 80-90% effective in reversing signs and symptoms of digoxin toxicity.
+Bradycardia and heart block caused by digoxin are parasympathetically mediated and respond to atropine.
+A temporary cardiac pacemaker may also be used.
+Ventricular arrhythmias may respond to lidocaine or phenytoin.
+When a large amount of digoxin has been ingested, especially in patients with impaired renal function, hyperkalemia may be present due to release of potassium from skeletal muscle.
+In this case, treatment with Digoxin Immune Fab is indicated; an initial treatment with glucose and insulin may be needed if the hyperkalemia is life-threatening.
+Once the adverse reaction has resolved, therapy with digoxin may be reinstituted following a careful reassessment of dose.
