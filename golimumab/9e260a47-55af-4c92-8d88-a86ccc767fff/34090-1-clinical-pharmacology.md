@@ -15,32 +15,32 @@ The clinical relevance of these findings is unknown.
 ## 12.2 Pharmacodynamics
 
 Following treatment with SIMPONI ARIA in patients with RA, decreases from baseline were observed in tissue inhibitor of metalloproteinases 1 (TIMP-1), matrix metalloproteinase-1 (MMP-1), matrix metalloproteinase-3 (MMP-3), resistin, interleukin-6 (IL-6), macrophage inflammatory protein-1 (MIP-1b), vascular endothelial growth factor (VEGF), serum amyloid A (SAA), S100A12, and high sensitivity C-Reactive protein (hsCRP).
-Conversely, increases from baseline were observed in abstract tartrate-resistant acid phosphatase (TRAP-5b).
+Conversely, increases from baseline were observed in tartrate-resistant acid phosphatase (TRAP-5b).
 The clinical relevance of this information is not known.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-Following a single intravenous administration of 2 mg/kg SIMPONI ARIA, a mean Cmax of 44.4 ±11.3 µg/ml was observed in patients with RA.
+Following a single intravenous administration of 2 mg/kg SIMPONI ARIA, a mean Cmax of 44.4 ±11.3 µg/mL was observed in patients with RA.
 Data directly comparing 2 mg/kg intravenous administration and 50 mg subcutaneous administration are not available.
 
 Distribution
 
-Following a single intravenous administration of 2 mg/kg SIMPONI ARIA, the mean volume of distribution was estimated to be 115 ± 19 ml/kg in healthy subjects, and 151 ± 61 ml/kg in patients with RA.
+Following a single intravenous administration of 2 mg/kg SIMPONI ARIA, the mean volume of distribution was estimated to be 115 ± 19 mL/kg in healthy subjects, and 151 ± 61 mL/kg in patients with RA.
 The volume of distribution of golimumab may indicate that golimumab is distributed primarily in the circulatory system with limited extravascular distribution.
 
 Elimination
 
 The elimination pathways for golimumab have not been characterized.
 
-Following a single intravenous administration of 2 mg/kg SIMPONI ARIA, the systemic clearance of golimumab was estimated to be 6.9 ± 2.0 ml/day/kg in healthy subjects and 7.6 ± 2.0 ml/day/kg in patients with RA.
+Following a single intravenous administration of 2 mg/kg SIMPONI ARIA, the systemic clearance of golimumab was estimated to be 6.9 ± 2.0 mL/day/kg in healthy subjects and 7.6 ± 2.0 mL/day/kg in patients with RA.
 The mean terminal half-life was estimated to be 12 ± 3 days in healthy subjects and the mean terminal half-life in RA patients was 14 ± 4 days.
 
 When 2 mg/kg SIMPONI ARIA was administered intravenously to patients with RA at weeks 0, 4 and every 8 weeks thereafter, serum concentrations reached steady state by Week 12.
 Following IV administration, concomitant administration of methotrexate decreases the clearance of SIMPONI ARIA by approximately 9% based on population PK analysis.
 In addition, concomitant administration of methotrexate decreases the SIMPONI ARIA clearance by reducing the development of anti-golimumab antibodies.
-With concomitant use of MTX, treatment with 2 mg/kg golimumab every 8 weeks resulted in a mean steady-state trough serum concentration of approximately 0.4 ± 0.4 µg/ml in patients with active RA despite MTX therapy.
+With concomitant use of MTX, treatment with 2 mg/kg golimumab every 8 weeks resulted in a mean steady-state trough serum concentration of approximately 0.4 ± 0.4 µg/mL in patients with active RA despite MTX therapy.
 
 Population PK analysis indicated that concomitant use of NSAIDs, oral corticosteroids or sulfasalazine did not influence the apparent clearance of SIMPONI following SC administration.
 

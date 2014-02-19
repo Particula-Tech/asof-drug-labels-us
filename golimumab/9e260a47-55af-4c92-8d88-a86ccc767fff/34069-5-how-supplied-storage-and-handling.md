@@ -4,7 +4,7 @@ SIMPONI ARIA is available in packs of 1 vial NDC 57894-350-01
 
 Vial
 
-Each vial contains 50 mg of SIMPONI ARIA per 4 mL of solution.
+Each single-use vial contains 50 mg of SIMPONI ARIA per 4 mL of solution.
 
 Storage and Stability
 

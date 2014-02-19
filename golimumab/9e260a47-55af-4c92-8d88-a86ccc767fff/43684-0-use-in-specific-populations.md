@@ -6,7 +6,7 @@ Pregnancy Category B – There are no adequate and well-controlled studies of SI
 Because animal reproduction and developmental studies are not always predictive of human response, it is not known whether SIMPONI ARIA can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 SIMPONI ARIA should be used during pregnancy only if clearly needed.
 
-An embryofetal developmental toxicology study was performed in which pregnant cynomolgus monkeys were treated subcutaneously with golimumab during the first trimester with doses up to 50 mg/kg twice weekly (200 times greater than the maximum recommended human dose-MHRD) and has revealed no evidence of harm to maternal animals or fetuses.
+An embryofetal developmental toxicology study was performed in which pregnant cynomolgus monkeys were treated subcutaneously with golimumab during the first trimester with doses up to 50 mg/kg twice weekly (200 times greater than the maximum recommended human dose-MRHD) and has revealed no evidence of harm to maternal animals or fetuses.
 Umbilical cord blood samples collected at the end of the second trimester showed that fetuses were exposed to golimumab during gestation.
 In this study, in utero exposure to golimumab produced no developmental defects to the fetus.
 

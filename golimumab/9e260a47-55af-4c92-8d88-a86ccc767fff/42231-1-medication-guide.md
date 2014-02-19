@@ -63,7 +63,7 @@ Before receiving SIMPONI ARIA, tell your doctor about all your medical condition
 - have or have had a condition that affects your nervous system, such as multiple sclerosis or Guillain-Barré syndrome
 - have a skin problem called psoriasis
 - have recently received or are scheduled to receive a vaccine.
-  People receiving SIMPONI ARIA should not receive live vaccines.
+  People receiving SIMPONI ARIA should not receive live vaccines or treatment with a weakened bacteria (such as BCG for bladder cancer).
   People receiving SIMPONI ARIA can receive non-live vaccines.
 - have a baby and you received SIMPONI ARIA during your pregnancy.
   Tell your baby's doctor before your baby receives any vaccine.
@@ -186,4 +186,4 @@ Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864 at 
 
 © Janssen Biotech, Inc. 2013
 
-Approved: July 2013
+Approved: February 2014

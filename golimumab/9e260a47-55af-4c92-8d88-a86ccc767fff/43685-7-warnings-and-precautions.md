@@ -35,7 +35,8 @@ Prior to initiating SIMPONI ARIA, assess if treatment for latent tuberculosis is
 Consider anti-tuberculosis therapy prior to initiation of SIMPONI ARIA in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection.
 Consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
 
-Monitor patients for the development of signs and symptoms of tuberculosis including patients who tested negative for latent tuberculosis infection prior to initiating therapy.
+Cases of active tuberculosis have occurred in patients treated with the subcutaneous formulation of golimumab during and after treatment for latent tuberculosis.
+Monitor patients for the development of signs and symptoms of tuberculosis including patients who tested negative for latent tuberculosis infection prior to initiating therapy, patients who are on treatment for latent tuberculosis, or patients who were previously treated for tuberculosis infection.
 
 Consider tuberculosis in the differential diagnosis in patients who develop a new infection during SIMPONI ARIA treatment, especially in patients who have previously or recently traveled to countries with a high prevalence of tuberculosis, or who have had close contact with a person with active tuberculosis.
 
@@ -69,9 +70,9 @@ Malignancies in Pediatric Patients
 Malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with TNF-blocking agents (initiation of therapy ≤ 18 years of age), of which SIMPONI ARIA is a member.
 Approximately half the cases were lymphomas, including Hodgkin's and non-Hodgkin's lymphoma.
 The other cases represented a variety of malignancies, including rare malignancies that are usually associated with immunosuppression, and malignancies that are not usually observed in children and adolescents.
-The malignancies occurred after a median of 30 months (range 1 to 84 months) after the first dose of TNF blocker therapy.
+The malignancies occurred after a median of 30 months (range 1 to 84 months) after the first dose of TNF-blocker therapy.
 Most of the patients were receiving concomitant immunosuppressants.
-These cases were reported post-marketing and are derived from a variety of sources, including registries and spontaneous postmarketing reports.
+These cases were reported post-marketing and are derived from a variety of sources, including registries and spontaneous post-marketing reports.
 Use of SIMPONI ARIA in patients under 18 years of age has not been established.
 
 Malignancies in Adult Patients
@@ -81,7 +82,7 @@ The risks and benefits of TNF-blocker treatment including SIMPONI ARIA should be
 In the controlled portions of clinical trials of TNF-blockers including the subcutaneous formulation of golimumab more cases of lymphoma have been observed among patients receiving anti-TNF treatment compared with patients in the control groups.
 Patients with RA and other chronic inflammatory diseases, particularly patients with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF-blocking therapy.
 Cases of acute and chronic leukemia have been reported with post-marketing TNF-blocker use in rheumatoid arthritis and other indications.
-Even in the absence of TNF blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
+Even in the absence of TNF-blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
 
 Melanoma has been reported in patients treated with TNF-blocking agents, including the subcutaneous formulation of golimumab.
 Merkel cell carcinoma has been reported in patients treated with TNF-blocking agents.
@@ -127,10 +128,18 @@ There have been post-marketing reports of pancytopenia, leukopenia, neutropenia,
 In clinical studies, cases of pancytopenia, leukopenia, neutropenia, and thrombocytopenia have also occurred in SIMPONI ARIA-treated patients.
 Caution should be exercised when using TNF-blockers, including SIMPONI ARIA, in patients who have or have had significant cytopenias.
 
-## 5.9 Vaccinations
+## 5.9 Vaccinations/Therapeutic Infectious Agents
+
+Live Vaccines
 
 Patients treated with SIMPONI ARIA may receive vaccinations, except for live vaccines.
-No data are available on the response to live vaccination or the risk of infection, or transmission of infection after the administration of live vaccines to patients receiving SIMPONI ARIA.
+In patients receiving anti-TNF therapy, limited data are available on the response to live vaccination, or on the secondary transmission of infection by live vaccines.
+Use of live vaccines could result in clinical infections, including disseminated infections.
+
+Therapeutic Infectious Agents
+
+Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
+It is recommended that therapeutic infectious agents not be given concurrently with SIMPONI ARIA.
 
 ## 5.10 Hypersensitivity Reactions
 

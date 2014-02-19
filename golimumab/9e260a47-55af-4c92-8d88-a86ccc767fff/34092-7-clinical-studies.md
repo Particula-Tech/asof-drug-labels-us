@@ -3,13 +3,13 @@
 The efficacy and safety of SIMPONI ARIA were evaluated in one multicenter, randomized, double-blind, controlled trial (Trial 1) in 592 patients ≥ 18 years of age with moderately to severely active RA despite concurrent MTX therapy and had not previously been treated with a biologic TNF-blocker.
 Patients were diagnosed according to the American College of Rheumatology (ACR) criteria, at least 3 months prior to administration of study agent and were required to have at least 6 swollen and 6 tender joints.
 Patients were randomized to receive either SIMPONI ARIA 2 mg/kg (n=395) or placebo (n=197) over a 30 minute intravenous infusion at Weeks 0, 4 and every 8 weeks thereafter in addition to their weekly maintenance MTX dose (15–25 mg).
-All patients receiving placebo + MTX received SIMPONI ARIA + MTX after Week 24, but the trial remained blinded until all patients had completed 52 weeks of treatment.
+All patients receiving placebo + MTX received SIMPONI ARIA + MTX after Week 24, but the trial remained blinded until all patients had completed 108 weeks of treatment.
 Efficacy data were collected and analyzed through Week 52.
-Patients were allowed to continue stable doses of concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs and patients may have received oral MTX during the trials.
+Patients were allowed to continue stable doses of concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs.
 The use of other DMARDs including cytotoxic agents or other biologics was prohibited.
 
 The primary endpoint in Trial 1 was the percentage of patients achieving an ACR 20 response at Week 14.
-In Trial 1, the majority of subjects were women (82%) and were Caucasian (81%) with a median age of 52 years and a median weight of 70 kg.
+In Trial 1, the majority of subjects were women (82%) and were Caucasian (80%) with a median age of 52 years and a median weight of 70 kg.
 Median disease duration was 4.7 years, and 50% of the patients used at least one DMARD other than MTX in the past.
 At baseline, 81% of patients received concomitant NSAIDs and 81% of patients received low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day).
 The median baseline DAS28-CRP was 5.9 and the median van der Heijde-Sharp score at baseline was 28.5.

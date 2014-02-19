@@ -31,13 +31,13 @@ In the controlled and uncontrolled portions of Trial 1, in SIMPONI ARIA treated 
 Malignancies
 
 One case of malignancy other than lymphoma and NMSC with SIMPONI ARIA was reported through Week 24 during the controlled phase of Trial 1.
-In the controlled and uncontrolled portions through approximately 92 weeks, the incidence of malignancies per 100 patient years, other than lymphoma and NMSC, in SIMPONI ARIA-treated patients was 0.31 (CI: 0.06, 0.92) and the incidence of NMSC was 0.1 (95% CI: 0.00, 0.58).
+In the controlled and uncontrolled portions through approximately 92 weeks, the incidence of malignancies per 100 patient-years, other than lymphoma and NMSC, in SIMPONI ARIA-treated patients was 0.31 (CI: 0.06, 0.92) and the incidence of NMSC was 0.1 (95% CI: 0.00, 0.58).
 
 Liver Enzyme Elevations
 
 There have been reports of severe hepatic reactions including acute liver failure in patients receiving TNF-blockers.
 
-In the controlled phase of Trial 1, through Week 24, ALT elevations ≥ 5 × ULN occurred in 0.6% of SIMPONI ARIA-treated patients and 0% of control-treated patients and ALT elevations ≥ 3 × ULN occurred in 2.4% of SIMPONI ARIA-treated patients and 2.5% of control-treated patients.
+In the controlled phase of Trial 1, through Week 24, ALT elevations ≥ 5 × ULN occurred in 0.8% of SIMPONI ARIA-treated patients and 0% of control-treated patients and ALT elevations ≥ 3 × ULN occurred in 2.3% of SIMPONI ARIA-treated patients and 2.5% of control-treated patients.
 
 Since many of the patients in the Phase 3 trial were also taking medications that cause liver enzyme elevations (e.g., nonsteroidal anti-inflammatory drugs [NSAIDs], methotrexate [MTX], or isoniazid prophylaxis), the relationship between SIMPONI ARIA and liver enzyme elevation is not clear.
 
@@ -72,23 +72,23 @@ Table 1 summarizes the adverse drug reactions that occurred at a rate of at leas
 
 Table 1: Adverse Drug Reactions Reported by ≥ 1% of SIMPONI ARIA-Treated Patients and with a Higher Incidence than Placebo-Treated Patients in Trial 1 through Week 24
 
-|  | SIMPONI ARIA + MTX | Placebo + MTX |
+|  | Placebo + MTX | SIMPONI ARIA + MTX |
 | --- | --- | --- |
-| Patients treated | 463 | 197 |
+| Patients treated | 197 | 463 |
 | Adverse Reaction |  |  |
 | Infections and Infestations |  |  |
-| Upper respiratory tract infection (such as upper respiratory tract infection, nasopharyngitis, pharyngitis, laryngitis, and rhinitis) | 13% | 12% |
-| Viral infections (such as influenza and herpes) | 4% | 3% |
-| Bacterial infections | 1% | 0% |
-| Bronchitis | 3% | 1% |
+| Upper respiratory tract infection (such as upper respiratory tract infection, nasopharyngitis, pharyngitis, laryngitis, and rhinitis) | 12% | 13% |
+| Viral infections (such as influenza and herpes) | 3% | 4% |
+| Bacterial infections | 0% | 1% |
+| Bronchitis | 1% | 3% |
 | Vascular disorders |  |  |
-| Hypertension | 3% | 2% |
+| Hypertension | 2% | 3% |
 | Skin and subcutaneous disorders |  |  |
-| Rash | 3% | 1% |
+| Rash | 1% | 3% |
 | General disorders and administration site conditions |  |  |
-| Pyrexia | 2% | 1% |
+| Pyrexia | 1% | 2% |
 | Blood and lymphatic disorders |  |  |
-| Leukopenia | 1% | 0% |
+| Leukopenia | 0% | 1% |
 
 Other and less common clinical trial adverse drug reactions
 
@@ -111,5 +111,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Neoplasm Benign and Malignant: Melanoma [see Warnings and Precautions (5.2)]
 
 Immune System Disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.10)], sarcoidosis
+
+Respiratory, thoracic and mediastinal disorders: Interstitial lung disease
 
 Skin and subcutaneous tissue disorders: Skin exfoliation
