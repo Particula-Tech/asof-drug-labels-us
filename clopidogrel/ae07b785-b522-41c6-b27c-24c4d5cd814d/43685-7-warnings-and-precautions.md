@@ -34,3 +34,7 @@ In patients with recent TIA or stroke who are at high risk for recurrent ischemi
 TTP, sometimes fatal, has been reported following use of clopidogrel bisulfate, sometimes after a short exposure (<2 weeks).
 TTP is a serious condition that requires urgent treatment including plasmapheresis (plasma exchange).
 It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragmented RBCs] seen on peripheral smear), neurological findings, renal dysfunction, and fever [see Adverse Reactions (6.2)].
+
+## 5.6 Cross-Reactivity among Thienopyridines
+
+Hypersensitivity including rash, angioedema or hematologic reaction have been reported in patients receiving clopidogrel bisulfate, including patients with a history of hypersensitivity or hematologic reaction to other thienopyridines [see Contraindications (4.2) and Adverse Reactions (6.2)].

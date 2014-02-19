@@ -1,4 +1,4 @@
-WARNING: DIMINISHED EFFECTIVENESS IN POOR METABOLIZERS
+## WARNING: DIMINISHED EFFECTIVENESS IN POOR METABOLIZERS
 
 The effectiveness of clopidogrel bisulfate is dependent on its activation to an active metabolite by the cytochrome P450 (CYP) system, principally CYP2C19 [see Warnings and Precautions (5.1)].
 Clopidogrel bisulfate at recommended doses forms less of that metabolite and has a smaller effect on platelet function in patients who are CYP2C19 poor metabolizers.

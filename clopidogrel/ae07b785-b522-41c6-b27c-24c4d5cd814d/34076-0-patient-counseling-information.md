@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-[See Medication Guide (17.6)]
+[See Medication Guide]
 
 ## 17.1 Benefits and Risks
 
@@ -30,15 +30,22 @@ Instruct patients to:
 
 ## 17.5 Concomitant Medications
 
-Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take, including prescription or over-the-counter proton pump inhibitors (e.g., omeprazole), warfarin, or NSAIDs [see Warnings and Precautions (5)].
+Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take [see Warnings and Precautions (5) and Drug Interactions (7)].
 
-## 17.6 Medication Guide
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
+Mehsana, INDIA.
+
+For:
+
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
+
+8044790 Revised January 2014
 
 Medication Guide
 
 Clopidogrel Tablets, USP
-
-Rx Only
 
 Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
 There may be new information.
@@ -73,7 +80,7 @@ Call your doctor right away if you have any of these signs or symptoms of bleedi
 - vomit blood or your vomit looks like coffee grounds
 
 Do not stop taking clopidogrel tablets without talking to the doctor who prescribes it for you.
-People who are treated with a stent, and stop taking clopidogrel tablets too soon, have a higher risk of getting a blood clot on the stent, having a heart attack, or dying.
+People who stop taking clopidogrel tablets too soon have a higher risk of having a heart attack or dying.
 If you must stop clopidogrel tablets because of bleeding, your risk of a heart attack may be higher.
 
 What are clopidogrel tablets?
@@ -107,13 +114,15 @@ Before you take clopidogrel tablets, tell your doctor if you:
 - have a history of bowel (gastrointestinal) or stomach ulcers
 - have a history of bleeding problems
 - plan to have surgery or a dental procedure.
-  See "How should I take clopidogrel tablets?"
+  See "How should Itake clopidogrel tablets ?
+  "
 - are pregnant or plan to become pregnant.
   It is not known if clopidogrel tablets will harm your unborn baby
 - are breastfeeding or plan to breastfeed.
   It is not known if clopidogrel bisulfate passes into your breast milk.
   You and your doctor should decide if you will take clopidogrel tablets or breastfeed.
   You should not do both without talking to your doctor.
+- have had an allergy or reaction to any medicine used to treat your disease.
 
 Tell all of your doctors and your dentist that you are taking clopidogrel tablets.
 They should talk to the doctor who prescribed clopidogrel tablets for you before you have any surgery or invasive procedure.
@@ -131,6 +140,8 @@ Especially tell your doctor if you take:
 - Non-steroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
 - warfarin (Coumadin®, Jantoven®)
+- selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
+  Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.
@@ -179,6 +190,7 @@ Clopidogrel tablets can cause serious side effects including:
 - vision changes
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
+Tell your doctor if you develop an allergic reaction while taking clopidogrel tablets.
 
 These are not all the possible side effects of clopidogrel tablets.
 For more information, ask your doctor or pharmacist.
@@ -217,19 +229,15 @@ Film coating: ferric oxide red, hypromellose 2910, and titanium dioxide
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Trade marks are property of their respective owner.
+
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD.,
-
-Indrad-382 721, Dist.
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
 Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC.,
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
 
-5380 Holiday Terrace, Suite 40,
-
-Kalamazoo, Michigan 49009.
-
-8033504 Revised March 2012
+8044791 Revised January 2014
