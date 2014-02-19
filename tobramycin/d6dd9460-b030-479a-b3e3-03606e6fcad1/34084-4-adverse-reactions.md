@@ -17,4 +17,4 @@ In some of the clinical studies and in the animal studies, tobramycin caused nep
 In some other clinical studies, no significant difference in the incidence of nephrotoxicity between tobramycin and gentamicin was found.
 
 Other reported adverse reactions possibly related to tobramycin include anemia, granulocytopenia, and thrombocytopenia; and fever, rash, exfoliative dermatitis, itching, urticaria, nausea, vomiting, diarrhea, headache, lethargy, pain at the injection site, mental confusion, and disorientation.
-Laboratory abnormalities possibly related to tobramycin include increased serum transaminases (AST, ALT); increased serum LDH and bilirubin; decreased serum calcium, magnesium, sodium, and potassium; and leukopenia, leukocytosis, and eosinophilia.
+Laboratory abnormalities possibly related to tobramycin include increased serum transaminases (AST, ALT); increased serum LDH and bilirubin; decreased serum calcium, magnesium, sodium, and potassium, and leukopenia, leukocytosis, and eosinophilia.

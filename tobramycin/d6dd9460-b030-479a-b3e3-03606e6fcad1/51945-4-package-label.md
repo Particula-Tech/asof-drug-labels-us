@@ -44,10 +44,8 @@ NDC 63323-306-30
 
 Tobramycin Injection, USP
 
-1200 mg/30 mL (40 mg/mL)
+1,200 mg/30 mL (40 mg/mL)
 
 Rx only
 
-30 mL
-
-Multiple Dose Vial
+30 mL Multiple Dose Vial

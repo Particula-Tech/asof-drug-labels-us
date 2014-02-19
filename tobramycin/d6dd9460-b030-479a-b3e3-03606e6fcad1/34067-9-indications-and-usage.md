@@ -1,24 +1,24 @@
 # INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Tobramycin Injection, USP and other bacterial drugs, Tobramycin Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Tobramycin Injection, USP and other antibacterial drugs, Tobramycin Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
 Tobramycin injection is indicated for the treatment of serious bacterial infections caused by susceptible strains of the designated microorganisms in the diseases listed below:
 
-Septicemia in the pediatric patient and adult caused by P. aeruginosa, E. coli, and Klebsiella spp.
+Septicemia in the pediatric patient and adult caused by P. aeruginosa, E. coli, and Klebsiella spp
 
-Lower respiratory tract infections caused by P. aeruginosa, Klebsiella spp, Enterobacter spp, Serratia spp, E. coli, and S. aureus (penicillinase- and non-penicillinase-producing strains).
+Lower respiratory tract infections caused by P. aeruginosa, Klebsiella spp, Enterobacter spp, Serratia spp, E. coli, and S. aureus (penicillinase- and non-penicillinase-producing strains)
 
-Serious central-nervous-system infections (meningitis) caused by susceptible organisms.
+Serious central-nervous-system infections (meningitis) caused by susceptible organisms
 
-Intra-abdominal infections, including peritonitis, caused by E. coli, Klebsiella spp, and Enterobacter spp.
+Intra-abdominal infections, including peritonitis, caused by E. coli, Klebsiella spp, and Enterobacter spp
 
-Skin, bone, and skin structure infections caused by P. aeruginosa, Proteus spp, E. coli, Klebsiella spp, Enterobacter spp, and S. aureus.
+Skin, bone, and skin structure infections caused by P. aeruginosa, Proteus spp, E. coli, Klebsiella spp, Enterobacter spp, Serratia spp and S. aureus
 
-Complicated and recurrent urinary tract infections caused by P. aeruginosa, Proteus spp, (indole-positive and indole-negative), E. coli, Klebsiella spp, Enterobacter spp, Serratia spp, S. aureus, Providencia spp, and Citrobacter spp.
+Complicated and recurrent urinary tract infections caused by P. aeruginosa, Proteus spp, (indole-positive and indole-negative), E. coli, Klebsiella spp, Enterobacter spp, Serratia spp, S. aureus, Providencia spp, and Citrobacter spp
 
-Aminoglycosides, including tobramycin are not indicated in uncomplicated initial episodes of urinary tract infections unless the causative organisms are not susceptible to antibiotics having less potential toxicity.
+Aminoglycosides, including tobramycin, are not indicated in uncomplicated initial episodes of urinary tract infections unless the causative organisms are not susceptible to antibiotics having less potential toxicity.
 Tobramycin may be considered in serious staphylococcal infections when penicillin or other potentially less toxic drugs are contraindicated and when bacterial susceptibility testing and clinical judgment indicate its use.
 
 Bacterial cultures should be obtained prior to and during treatment to isolate and identify etiologic organisms and to test their susceptibility to tobramycin.
