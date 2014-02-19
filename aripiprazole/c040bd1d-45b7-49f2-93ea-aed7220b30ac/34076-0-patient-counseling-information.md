@@ -19,7 +19,7 @@ Such symptoms should be reported to the patient’s prescriber or health profess
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see WARNINGS AND PRECAUTIONS (5.2)].
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with ABILIFY and should counsel them in its appropriate use.
-A patient Medication Guide including information about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for ABILIFY.
+A patient Medication Guide including information about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for ABILIFY.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 It should be noted that ABILIFY is not approved as a single agent for treatment of depression and has not been evaluated in pediatric major depressive disorder.
@@ -66,16 +66,16 @@ Patients should be advised that each mL of ABILIFY Oral Solution contains 400 mg
 Phenylketonurics
 
 Phenylalanine is a component of aspartame.
-Each ABILIFY DISCMELT Orally Disintegrating Tablet contains the following amounts: 10 mg - 1.12 mg phenylalanine and 15 mg - 1.68 mg phenylalanine.
+Each ABILIFY DISCMELT Orally Disintegrating Tablet contains the following amounts: 10 mg, 1.12 mg phenylalanine and 15 mg, 1.68 mg phenylalanine.
 
-Tablets manufactured by Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan or Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
+Tablets manufactured by Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan or Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
 
 Orally Disintegrating Tablets, Oral Solution, and Injection manufactured by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
 
-Distributed and marketed by Otsuka America Pharmaceutical, Inc, Rockville, MD 20850 USA
+Distributed and marketed by Otsuka America Pharmaceutical, Inc., Rockville, MD 20850 USA
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550B3 03US13L-1028 Rev April 2013
+1239550B4 03US13L-1119 Rev August 2013
 
-© 2013, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
+© 2013, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan

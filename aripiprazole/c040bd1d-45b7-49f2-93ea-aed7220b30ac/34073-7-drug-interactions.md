@@ -81,8 +81,8 @@ No dosage adjustment of lamotrigine is required when aripiprazole is added to la
 
 Dextromethorphan
 
-Aripiprazole at doses of 10 mg/day to 30 mg/day for 14 days had no effect on dextromethorphan’s O-dealkylation to its major metabolite, dextrorphan, a pathway dependent on CYP2D6 activity.
-Aripiprazole also had no effect on dextromethorphan’s N-demethylation to its metabolite 3-methoxymorphinan, a pathway dependent on CYP3A4 activity.
+Aripiprazole at doses of 10 mg/day to 30 mg/day for 14 days had no effect on dextromethorphan's O-dealkylation to its major metabolite, dextrorphan, a pathway dependent on CYP2D6 activity.
+Aripiprazole also had no effect on dextromethorphan's N-demethylation to its metabolite 3-methoxymorphinan, a pathway dependent on CYP3A4 activity.
 No dosage adjustment of dextromethorphan is required when administered concomitantly with aripiprazole.
 
 Warfarin

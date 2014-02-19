@@ -49,9 +49,8 @@ The effect of aripiprazole on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
-Aripiprazole has been demonstrated to be excreted in milk of rats during lactation.
-In humans, data on excretion in breast milk is limited.
-It is recommended that women receiving aripiprazole should not breast-feed.
+Aripiprazole is excreted in human breast milk.
+A decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
@@ -79,15 +78,15 @@ Also, the pharmacokinetics of aripiprazole after multiple doses in elderly patie
 No dosage adjustment is recommended for elderly patients [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
 
 Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
-The majority (81%) of the 1073 patients were diagnosed with Dementia of the Alzheimer’s type.
+The majority (81%) of the 1073 patients were diagnosed with Dementia of the Alzheimer's type.
 
 Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or major depressive disorder did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 Of the 749 patients treated with aripiprazole injection in clinical trials, 99 (13%) were ≥65 years old and 78 (10%) were ≥75 years old.
 Placebo-controlled studies of aripiprazole injection in patients with agitation associated with schizophrenia or bipolar mania did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
-Studies of elderly patients with psychosis associated with Alzheimer’s disease have suggested that there may be a different tolerability profile in this population compared to younger patients with schizophrenia [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
-The safety and efficacy of ABILIFY in the treatment of patients with psychosis associated with Alzheimer’s disease has not been established.
+Studies of elderly patients with psychosis associated with Alzheimer's disease have suggested that there may be a different tolerability profile in this population compared to younger patients with schizophrenia [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
+The safety and efficacy of ABILIFY in the treatment of patients with psychosis associated with Alzheimer's disease has not been established.
 If the prescriber elects to treat such patients with ABILIFY, vigilance should be exercised.
 
 ## 8.6 Renal Impairment

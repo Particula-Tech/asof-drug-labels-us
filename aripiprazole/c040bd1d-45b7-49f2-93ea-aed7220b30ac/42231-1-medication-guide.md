@@ -59,7 +59,7 @@ What else do I need to know about antidepressant medicines?
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-  Talk to your child’s healthcare provider for more information.
+  Talk to your child's healthcare provider for more information.
 
 What is ABILIFY?
 
@@ -124,9 +124,8 @@ Before taking ABILIFY, tell your healthcare provider if you have or had:
 - pregnancy or plans to become pregnant.
   It is not known if ABILIFY will harm your unborn baby.
 - breast-feeding or plans to breast-feed.
-  It is not known if ABILIFY will pass into your breast milk.
-  You and your healthcare provider should decide if you will take ABILIFY or breast-feed.
-  You should not do both.
+  ABILIFY can pass into your breast milk and may harm your baby.
+  Talk to your healthcare provider about the best way to feed your baby if you receive ABILIFY.
 - low white blood cell count.
 - phenylketonuria.
   ABILIFY DISCMELT Orally Disintegrating Tablets contain phenylalanine.
@@ -265,14 +264,14 @@ The oral solution is flavored with natural orange cream and other natural flavor
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Tablets manufactured by Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan or Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
+Tablets manufactured by Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan or Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
 
 Orally Disintegrating Tablets, Oral Solution, and Injection manufactured by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
 
-Distributed and marketed by Otsuka America Pharmaceutical, Inc, Rockville, MD 20850 USA
+Distributed and marketed by Otsuka America Pharmaceutical, Inc., Rockville, MD 20850 USA
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550B3 03US13L-1028C Rev April 2013
+1239550B4 03US13L-1119C Rev August 2013
 
-© 2013, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
+© 2013, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan

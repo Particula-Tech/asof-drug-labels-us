@@ -13,9 +13,9 @@ In placebo-controlled clinical studies (two flexible dose and one fixed dose stu
 In the fixed-dose study, there was a statistically significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
 Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see also BOXED WARNING].
 
-Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer’s Disease
+Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer's Disease
 
-In three, 10-week, placebo-controlled studies of aripiprazole in elderly patients with psychosis associated with Alzheimer’s disease (n=938; mean age: 82.4 years; range: 56-99 years), the treatment-emergent adverse events that were reported at an incidence of ≥3% and aripiprazole incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole 5%], somnolence (including sedation) [placebo 3%, aripiprazole 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole 5%], excessive salivation [placebo 0%, aripiprazole 4%], and lightheadedness [placebo 1%, aripiprazole 4%].
+In three, 10-week, placebo-controlled studies of aripiprazole in elderly patients with psychosis associated with Alzheimer's disease (n=938; mean age: 82.4 years; range: 56-99 years), the treatment-emergent adverse events that were reported at an incidence of ≥3% and aripiprazole incidence at least twice that for placebo were lethargy [placebo 2%, aripiprazole 5%], somnolence (including sedation) [placebo 3%, aripiprazole 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, aripiprazole 5%], excessive salivation [placebo 0%, aripiprazole 4%], and lightheadedness [placebo 1%, aripiprazole 4%].
 
 The safety and efficacy of ABILIFY in the treatment of patients with psychosis associated with dementia have not been established.
 If the prescriber elects to treat such patients with ABILIFY, vigilance should be exercised, particularly for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see also BOXED WARNING].
@@ -351,7 +351,7 @@ Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should di
 
 In short-term, placebo-controlled trials, seizures/convulsions occurred in 0.1% (3/2467) of adult patients treated with oral aripiprazole, in 0.2% (1/611) of pediatric patients (6 to 17 years), and in 0.2% (1/501) of adult aripiprazole injection-treated patients.
 
-As with other antipsychotic drugs, aripiprazole should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold, eg, Alzheimer’s dementia.
+As with other antipsychotic drugs, aripiprazole should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold, eg, Alzheimer's dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
 ## 5.9 Potential for Cognitive and Motor Impairment
@@ -364,7 +364,7 @@ Despite the relatively modest increased incidence of these events compared to pl
 
 ## 5.10 Body Temperature Regulation
 
-Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents.
+Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing aripiprazole for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (eg, exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration) [see ADVERSE REACTIONS (6.3)].
 
 ## 5.11 Suicide
@@ -377,7 +377,7 @@ In two 6-week, placebo-controlled studies of aripiprazole as adjunctive treatmen
 ## 5.12 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use, including ABILIFY.
-Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer’s dementia.
+Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer's dementia.
 Aripiprazole and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [see WARNINGS AND PRECAUTIONS (5.1) and ADVERSE REACTIONS (6.3)].
 
 ## 5.13 Use in Patients with Concomitant Illness
