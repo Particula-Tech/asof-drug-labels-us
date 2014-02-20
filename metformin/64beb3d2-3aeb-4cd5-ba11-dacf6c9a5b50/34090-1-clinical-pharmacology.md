@@ -33,10 +33,10 @@ In patients with type 2 diabetes, administration of sitagliptin led to inhibitio
 After an oral glucose load or a meal, this DPP-4 inhibition resulted in a 2- to 3-fold increase in circulating levels of active GLP-1 and GIP, decreased glucagon concentrations, and increased responsiveness of insulin release to glucose, resulting in higher C-peptide and insulin concentrations.
 The rise in insulin with the decrease in glucagon was associated with lower fasting glucose concentrations and reduced glucose excursion following an oral glucose load or a meal.
 
-Sitagliptin and Metformin hydrochloride Co-administration
+Sitagliptin and Metformin hydrochloride Coadministration
 
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
-Co-administration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
+Coadministration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
 Sitagliptin, but not metformin, increased active GIP concentrations.
 It is unclear what these findings mean for changes in glycemic control in patients with type 2 diabetes.
 
@@ -56,7 +56,7 @@ In patients with type 2 diabetes administered sitagliptin 100 mg (N=81) or sitag
 
 JANUMET XR
 
-The results of a study in healthy subjects demonstrated that the JANUMET XR (sitagliptin and metformin HCl extended-release) 50 mg/500 mg and 100 mg/1000 mg tablets are bioequivalent to co-administration of corresponding doses of sitagliptin and metformin hydrochloride extended-release.
+The results of a study in healthy subjects demonstrated that the JANUMET XR (sitagliptin and metformin HCl extended-release) 50 mg/500 mg and 100 mg/1000 mg tablets are bioequivalent to coadministration of corresponding doses of sitagliptin and metformin hydrochloride extended-release.
 
 Bioequivalence between two JANUMET XR 50 mg/500 mg tablets and one JANUMET XR 100 mg/1000 mg tablet was also demonstrated.
 
@@ -75,7 +75,7 @@ After administration of JANUMET XR with a high-fat breakfast, the AUC for metfor
 Sitagliptin
 
 The absolute bioavailability of sitagliptin is approximately 87%.
-Co-administration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics of sitagliptin.
+Coadministration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics of sitagliptin.
 
 Distribution
 
@@ -204,7 +204,7 @@ Drug Interactions
 
 Sitagliptin and Metformin hydrochloride
 
-Co-administration of multiple doses of sitagliptin (50 mg) and metformin (1000 mg) given twice daily did not meaningfully alter the pharmacokinetics of either sitagliptin or metformin in patients with type 2 diabetes.
+Coadministration of multiple doses of sitagliptin (50 mg) and metformin (1000 mg) given twice daily did not meaningfully alter the pharmacokinetics of either sitagliptin or metformin in patients with type 2 diabetes.
 
 Pharmacokinetic drug interaction studies with JANUMET XR have not been performed; however, such studies have been conducted with the individual components of JANUMET XR (sitagliptin and metformin hydrochloride extended-release).
 

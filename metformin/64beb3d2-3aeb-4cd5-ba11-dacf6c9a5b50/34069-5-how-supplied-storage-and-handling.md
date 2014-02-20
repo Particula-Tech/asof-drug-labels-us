@@ -15,6 +15,7 @@ They are supplied as follows:
 
 NDC 0006-0081-31 unit-of-use bottles of 30 NDC 0006-0081-54 unit-of-use bottles of 90 NDC 0006-0081-82 bulk bottles of 1000.
 
-Store at 20-25°C (68-77°F), excursions permitted to 15-30°C (59-86°F), [See USP Controlled Room Temperature].
+Store at 20-25°C (68-77°F), excursions permitted to 15-30°C (59-86°F).
+[See USP Controlled Room Temperature.]
 Store in a dry place with cap tightly closed.
 When container is subdivided, dispense into a USP tightly closed, moisture-resistant container.

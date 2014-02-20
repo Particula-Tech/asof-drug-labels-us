@@ -1,14 +1,14 @@
 # 14 CLINICAL STUDIES
 
-The co-administration of sitagliptin and metformin immediate-release has been studied in patients with type 2 diabetes inadequately controlled on diet and exercise and in combination with other antidiabetic medications.
+The coadministration of sitagliptin and metformin immediate-release has been studied in patients with type 2 diabetes inadequately controlled on diet and exercise and in combination with other antidiabetic medications.
 
 There have been no clinical efficacy or safety studies conducted with JANUMET XR to characterize its effect on hemoglobin A1c (A1C) reduction.
-Bioequivalence of JANUMET XR tablets with co-administered sitagliptin and extended-release metformin tablets has been demonstrated for all tablet strengths [see Clinical Pharmacology (12.3)].
+Bioequivalence of JANUMET XR tablets with coadministered sitagliptin and extended-release metformin tablets has been demonstrated for all tablet strengths [see Clinical Pharmacology (12.3)].
 
 Metformin Extended-Release Compared to Metformin Immediate-Release in Patients with Type 2 Diabetes
 
 In a multicenter, randomized, double-blind, active-controlled, dose-ranging, parallel group trial extended-release metformin 1500 mg once daily, extended-release metformin 1500 mg per day in divided doses (500 mg in the morning and 1000 mg in the evening), and extended-release metformin 2000 mg once daily were compared to immediate-release metformin 1500 mg per day in divided doses (500 mg in the morning and 1000 mg in the evening).
-This trial enrolled patients (n = 338) who were newly diagnosed with diabetes, patients treated only with diet and exercise, patients treated with a single anti-diabetic medication (sulfonylureas, alpha-glucosidase inhibitors, thiazolidinediones, or meglinitides), and patients (n = 368) receiving metformin up to 1500 mg/day plus a sulfonylurea at a dose equal to or less than one-half the maximum dose.
+This trial enrolled patients (n = 338) who were newly diagnosed with diabetes, patients treated only with diet and exercise, patients treated with a single anti-diabetic medication (sulfonylureas, alpha-glucosidase inhibitors, thiazolidinediones, or meglitinides), and patients (n = 368) receiving metformin up to 1500 mg/day plus a sulfonylurea at a dose equal to or less than one-half the maximum dose.
 Patients who were enrolled on monotherapy or combination antidiabetic therapy underwent a 6-week washout.
 Patients randomized to extended-release metformin began titration from 1000 mg/day up to their assigned treatment dose over 3 weeks.
 Patients randomized to immediate-release metformin initiated 500 mg twice daily for 1 week followed by 500 mg with breakfast and 1000 mg with dinner for the second week.
@@ -16,16 +16,16 @@ The 3-week treatment period was followed by an additional 21-week period at the 
 For HbA1c and fasting plasma glucose, each of the extended-release metformin regimens was at least as effective as immediate-release metformin.
 Additionally, once daily dosing of extended-release metformin was as effective as twice daily dosing of the immediate-release metformin formulation.
 
-Sitagliptin and Metformin Immediate-Release Co-administration in Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise
+Sitagliptin and Metformin Immediate-Release Coadministration in Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise
 
-A total of 1091 patients with type 2 diabetes and inadequate glycemic control on diet and exercise participated in a 24-week, randomized, double-blind, placebo-controlled factorial study designed to assess the efficacy of sitagliptin and metformin immediate-release co-administration.
+A total of 1091 patients with type 2 diabetes and inadequate glycemic control on diet and exercise participated in a 24-week, randomized, double-blind, placebo-controlled factorial study designed to assess the efficacy of sitagliptin and metformin immediate-release coadministration.
 Patients on an antihyperglycemic agent (N=541) underwent a diet, exercise, and drug washout period of up to 12 weeks duration.
 After the washout period, patients with inadequate glycemic control (A1C 7.5% to 11%) were randomized after completing a 2-week single-blind placebo run-in period.
 Patients not on antihyperglycemic agents at study entry (N=550) with inadequate glycemic control (A1C 7.5% to 11%) immediately entered the 2-week single-blind placebo run-in period and then were randomized.
 Approximately equal numbers of patients were randomized to receive placebo, 100 mg of sitagliptin once daily, 500 mg or 1000 mg of metformin immediate-release twice daily, or 50 mg of sitagliptin twice daily in combination with 500 mg or 1000 mg of metformin immediate-release twice daily.
 Patients who failed to meet specific glycemic goals during the study were treated with glyburide (glibenclamide) rescue.
 
-Sitagliptin and metformin immediate-release co-administration provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo, to metformin immediate-release alone, and to sitagliptin alone (Table 8, Figure 1).
+Sitagliptin and metformin immediate-release coadministration provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo, to metformin immediate-release alone, and to sitagliptin alone (Table 8, Figure 1).
 For patients not on an antihyperglycemic agent at study entry, mean reductions from baseline in A1C were: sitagliptin 100 mg once daily, -1.1%; metformin immediate-release 500 mg bid, -1.1%; metformin immediate-release 1000 mg bid, -1.2%; sitagliptin 50 mg bid with metformin immediate-release 500 mg bid, -1.6%; sitagliptin 50 mg bid with metformin immediate-release 1000 mg bid, -1.9%; and for patients receiving placebo, -0.2%.
 Lipid effects were generally neutral.
 The decrease in body weight in the groups given sitagliptin in combination with metformin immediate-release was similar to that in the groups given metformin alone or placebo.
@@ -52,7 +52,7 @@ Table 8: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin and 
 | Figure 1: Mean Change from Baseline for A1C (%) over 24 Weeks with Sitagliptin and Metformin Immediate-Release, Alone and in Combination in Patients with Type 2 Diabetes Inadequately Controlled with Diet and ExerciseThe Completers Population: least squares means adjusted for prior antihyperglycemic therapy and baseline value. |
 | --- |
 
-Initial combination therapy or maintenance of combination therapy should be individualized and are left to the discretion of the health care provider.
+Initial combination therapy or maintenance of combination therapy should be individualized and are left to the discretion of the healthcare provider.
 
 Sitagliptin Add-on Therapy in Patients with Type 2 Diabetes Inadequately Controlled on Metformin Immediate-Release Alone
 

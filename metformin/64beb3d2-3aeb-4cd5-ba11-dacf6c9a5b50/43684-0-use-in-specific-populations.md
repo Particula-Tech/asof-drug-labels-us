@@ -10,7 +10,7 @@ There are no adequate and well-controlled studies in pregnant women with JANUMET
 JANUMET XR should be used during pregnancy only if clearly needed.
 
 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., maintains a registry to monitor the pregnancy outcomes of women exposed to JANUMET XR while pregnant.
-Health care providers are encouraged to report any prenatal exposure to JANUMET XR by calling the Pregnancy Registry at 1-800-986-8999.
+Healthcare providers are encouraged to report any prenatal exposure to JANUMET XR by calling the Pregnancy Registry at 1-800-986-8999.
 
 No animal studies have been conducted with the combined products in JANUMET XR to evaluate effects on reproduction.
 The following data are based on findings in studies performed with sitagliptin or metformin individually.

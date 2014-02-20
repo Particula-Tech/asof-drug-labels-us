@@ -4,11 +4,11 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Sitagliptin and Metformin Immediate-Release Co-administration in Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise
+Sitagliptin and Metformin Immediate-Release Coadministration in Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise
 
-Table 1 summarizes the most common (≥5% of patients) adverse reactions reported (regardless of investigator assessment of causality) in a 24-week placebo-controlled factorial study in which sitagliptin and metformin immediate-release were co-administered to patients with type 2 diabetes inadequately controlled on diet and exercise.
+Table 1 summarizes the most common (≥5% of patients) adverse reactions reported (regardless of investigator assessment of causality) in a 24-week placebo-controlled factorial study in which sitagliptin and metformin immediate-release were coadministered to patients with type 2 diabetes inadequately controlled on diet and exercise.
 
-Table 1: Sitagliptin and Metformin Immediate-Release Co-administered to Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise: Adverse Reactions Reported (Regardless of Investigator Assessment of Causality) in ≥5% of Patients Receiving Combination Therapy (and Greater than in Patients Receiving Placebo) Intent-to-treat population.
+Table 1: Sitagliptin and Metformin Immediate-Release Coadministered to Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise: Adverse Reactions Reported (Regardless of Investigator Assessment of Causality) in ≥5% of Patients Receiving Combination Therapy (and Greater than in Patients Receiving Placebo) Intent-to-treat population.
 
 |  | N = 176 | N = 179 | N = 364 | N = 372 |
 | --- | --- | --- | --- | --- |
@@ -56,10 +56,10 @@ In a 24-week placebo-controlled study of sitagliptin 100 mg as add-on therapy in
 Hypoglycemia
 
 In all (N=5) studies, adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required although most (77%) reports of hypoglycemia were accompanied by a blood glucose measurement ≤70 mg/dL.
-When the combination of sitagliptin and metformin immediate-release was co-administered with a sulfonylurea or with insulin, the percentage of patients reporting at least one adverse reaction of hypoglycemia was higher than that observed with placebo and metformin immediate-release co-administered with a sulfonylurea or with insulin (Table 3).
+When the combination of sitagliptin and metformin immediate-release was coadministered with a sulfonylurea or with insulin, the percentage of patients reporting at least one adverse reaction of hypoglycemia was higher than that observed with placebo and metformin immediate-release coadministered with a sulfonylurea or with insulin (Table 3).
 
 Table 3: Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required: Intent-to-treat population.
-(Regardless of Investigator Assessment of Causality) in Placebo-Controlled Clinical Studies of Sitagliptin in Combination with Metformin Immediate-Release Co-administered with Glimepiride or Insulin
+(Regardless of Investigator Assessment of Causality) in Placebo-Controlled Clinical Studies of Sitagliptin in Combination with Metformin Immediate-Release Coadministered with Glimepiride or Insulin
 
 | Add-On to Glimepiride + Metformin Immediate-Release (24 weeks) | Sitagliptin 100 mg + Metformin Immediate-Release + Glimepiride | Placebo + Metformin Immediate-Release + Glimepiride |
 | --- | --- | --- |

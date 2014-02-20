@@ -2,12 +2,12 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., 
 
 Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA OR Patheon Inc., Whitby, Ontario, Canada L1N 5Z5
 
-US Patent Nos.: 6,699,871 and 7,326,708
+For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 07/2013
+Revised: 02/2014
 
-USMG-XRT-0431A1307R003
+usmg-mk0431a-xrt-1402r004

@@ -115,6 +115,9 @@ How should I take JANUMET XR?
 - Take JANUMET XR tablets whole.
   Do not break, cut, crush, dissolve, or chew JANUMET XR tablets before swallowing.
   If you cannot swallow JANUMET XR tablets whole, tell your doctor.
+- You may see something that looks like the JANUMET XR tablet in your stool (bowel movement).
+  If you see tablets in your stool several times, talk to your doctor.
+  Do not stop taking JANUMET XR without talking to your doctor.
 - Continue to take JANUMET XR as long as your doctor tells you.
 - If you take too much JANUMET XR, call your doctor or local Poison Control Center right away.
 - If you miss a dose, take it with food as soon as you remember.

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide.
+See FDA-Approved Patient Labeling (Medication Guide).
 
 ## 17.1 Instructions
 
@@ -30,6 +30,10 @@ If symptoms of allergic reactions (including rash, hives, and swelling of the fa
 
 Patients should be informed that the tablets must be swallowed whole and never split, crushed or chewed.
 
+Patients should be informed that incompletely dissolved JANUMET XR tablets may be eliminated in the feces.
+Tell patients that, if they repeatedly see tablets in feces, they should report this finding to their healthcare provider.
+If a patient reports repeatedly observing tablets in feces, the healthcare provider should assess adequacy of glycemic control.
+
 Physicians should instruct their patients to read the Medication Guide before starting JANUMET XR therapy and to reread each time the prescription is renewed.
 Patients should be instructed to inform their doctor if they develop any bothersome or unusual symptom, or if any symptom persists or worsens.
 
@@ -45,8 +49,8 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., 
 
 Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA OR Patheon Inc., Whitby, Ontario, Canada L1N 5Z5
 
-US Patent Nos.: 6,699,871 and 7,326,708
+For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-USPI-XRT-0431A1307R003
+uspi-mk0431a-xrt-1402r004
