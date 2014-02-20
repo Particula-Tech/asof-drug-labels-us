@@ -8,8 +8,7 @@ Over the course of a typical 10-week controlled trial, the rate of death in drug
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
-INVEGA® SUSTENNA® (paliperidone palmitate) is not approved for the treatment of patients with dementia-related psychosis.
-[see Boxed Warning].
+INVEGA® SUSTENNA® (paliperidone palmitate) is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
@@ -201,7 +200,7 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 
 ## 5.10 Potential for Cognitive and Motor Impairment
 
-Somnolence, sedation, and dizziness were reported as adverse reactions in subjects treated with INVEGA® SUSTENNA®[see Adverse Reactions (6.1)].
+Somnolence, sedation, and dizziness were reported as adverse reactions in subjects treated with INVEGA® SUSTENNA® [see Adverse Reactions (6.1)].
 Antipsychotics, including INVEGA® SUSTENNA®, have the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about performing activities requiring mental alertness, such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that paliperidone therapy does not adversely affect them.
 

@@ -1,10 +1,10 @@
 # 7 DRUG INTERACTIONS
 
-Since paliperidone palmitate is hydrolyzed to paliperidone [see Clinical Pharmacology (12.3)], results from studies with oral paliperidone should be taken into consideration when assessing drug-drug interaction potential.
+Because paliperidone palmitate is hydrolyzed to paliperidone [see Clinical Pharmacology (12.3)], results from studies with oral paliperidone should be taken into consideration when assessing drug-drug interaction potential.
 
 ## 7.1 Potential for INVEGA® SUSTENNA® to Affect Other Drugs
 
-Given the primary CNS effects of paliperidone [see Adverse Reactions (6.1)], INVEGA® SUSTENNA® should be used with caution when administered concomitantlywith other centrally acting drugs and alcohol.
+Given the primary CNS effects of paliperidone [see Adverse Reactions (6.1)], INVEGA® SUSTENNA® should be used with caution when administered concomitantly with other centrally acting drugs and alcohol.
 Paliperidone may antagonize the effect of levodopa and other dopamine agonists.
 
 Because of its potential for inducing orthostatic hypotension, an additive effect may occur when INVEGA® SUSTENNA® is administered with other therapeutic agents that have this potential [see Warnings and Precautions (5.7)].

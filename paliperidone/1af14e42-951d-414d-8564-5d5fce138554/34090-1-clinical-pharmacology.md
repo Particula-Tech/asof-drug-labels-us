@@ -102,7 +102,7 @@ Hepatic Impairment
 INVEGA® SUSTENNA® has not been studied in patients with hepatic impairment.
 Based on a study with oral paliperidone in subjects with moderate hepatic impairment (Child-Pugh class B), no dose adjustment is required in patients with mild or moderate hepatic impairment.
 In the study with oral paliperidone in subjects with moderate hepatic impairment (Child-Pugh class B), the plasma concentrations of free paliperidone were similar to those of healthy subjects, although total paliperidone exposure decreased because of a decrease in protein binding.
-Paliperidone has not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.7).
+Paliperidone has not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
 
 Elderly
 

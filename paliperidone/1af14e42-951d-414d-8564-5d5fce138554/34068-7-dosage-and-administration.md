@@ -36,9 +36,9 @@ When making dose adjustments, the prolonged-release characteristics of INVEGA® 
 Avoiding Missed Doses
 
 It is recommended that the second initiation dose of INVEGA® SUSTENNA® be given one week after the first dose.
-To avoid a missed dose, patients may be given the second dose 4 days before or after the one-week timepoint.
+To avoid a missed dose, patients may be given the second dose 4 days before or after the one-week time point.
 Similarly, the third and subsequent injections after the initiation regimen are recommended to be given monthly.
-To avoid a missed monthly dose, patients may be given the injection up to 7 days before or after the monthly timepoint.
+To avoid a missed monthly dose, patients may be given the injection up to 7 days before or after the monthly time point.
 
 If the target date for the second INVEGA® SUSTENNA® injection (one week ± 4 days) is missed, the recommended reinitiation depends on the length of time which has elapsed since the patient's first injection.
 
@@ -54,7 +54,7 @@ If 4 to 7 weeks have elapsed since the first injection of INVEGA® SUSTENNA®, r
 
 Missed second initiation dose (> 7 weeks from first injection)
 
-If more than 7 weeks have elapsed since the first injection of INVEGA® SUSTENNA®, initiate dosing as described in Section 2.1 above.
+If more than 7 weeks have elapsed since the first injection of INVEGA® SUSTENNA®, initiate dosing as described in Section 2.2 above.
 
 Missed Maintenance Dose (1 Month to 6 Weeks)
 
@@ -67,7 +67,7 @@ If more than 6 weeks have elapsed since the last injection of INVEGA® SUSTENNA�
 
 Missed Maintenance Dose (> 6 Months)
 
-If more than 6 months have elapsed since the last injection of INVEGA® SUSTENNA®, initiate dosing as described in Section 2.1 above.
+If more than 6 months have elapsed since the last injection of INVEGA® SUSTENNA®, initiate dosing as described in Section 2.2 above.
 
 ## 2.4 Use with Oral Paliperidone or with Risperidone
 
@@ -105,7 +105,7 @@ Switching from Oral Antipsychotics
 For patients who have never taken oral paliperidone or oral or injectable risperidone, tolerability should be established with oral paliperidone or oral risperidone prior to initiating treatment with INVEGA® SUSTENNA®.
 
 Previous oral antipsychotics can be discontinued at the time of initiation of treatment with INVEGA® SUSTENNA®.
-Recommended initiation of INVEGA® SUSTENNA® is with a dose of 234 mg on treatment day 1 and 156 mg one week later. both administered in the deltoid muscle [see Dosage and Administration (2.2)].
+Recommended initiation of INVEGA® SUSTENNA® is with a dose of 234 mg on treatment day 1 and 156 mg one week later, both administered in the deltoid muscle [see Dosage and Administration (2.2)].
 Patients previously stabilized on different doses of INVEGA® Extended-Release tablets can attain similar paliperidone steady-state exposure during maintenance treatment with INVEGA® SUSTENNA® monthly doses as depicted in Table 1.
 
 Table 1.
@@ -153,7 +153,7 @@ INVEGA® SUSTENNA® is for single use only.
 
 - g.Inject the entire contents intramuscularly into the selected deltoid or gluteal muscle of the patient.
   Do not administer intravascularly or subcutaneously.
-- h.After the injection is complete, use either thumb or finger of one hand (8a, 8b) or a flat surface (8c) to activate the needle protection system.
+- h.After the injection is complete, use either thumb or finger of one hand (h1, h2) or a flat surface (h3) to activate the needle protection system.
   The needle protection system is fully activated when a 'click' is heard.
   Discard the syringe with needle appropriately.
 

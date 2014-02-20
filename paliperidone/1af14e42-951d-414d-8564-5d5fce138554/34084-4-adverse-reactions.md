@@ -111,7 +111,9 @@ Reproductive system and breast disorders: amenorrhea, breast discharge, erectile
 
 Skin and subcutaneous tissue disorders: drug eruption, pruritus, pruritus generalized, rash, urticaria
 
-Discontinuations Due to Adverse EventsThe percentages of subjects who discontinued due to adverse events in the four fixed-dose, double-blind, placebo-controlled trials were 5.0% and 7.8% in INVEGA® SUSTENNA®- and placebo-treated subjects, respectively.
+Discontinuations Due to Adverse Events
+
+The percentages of subjects who discontinued due to adverse events in the four fixed-dose, double-blind, placebo-controlled trials were 5.0% and 7.8% in INVEGA® SUSTENNA®- and placebo-treated subjects, respectively.
 
 Dose-Related Adverse Reactions
 
