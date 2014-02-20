@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA065149"
+  ],
+  "inn": "penicillin-g",
+  "labeler": "WG Critical Care, LLC",
+  "package_ndcs": [
+    "44567-310-10",
+    "44567-311-10",
+    "44567-312-01",
+    "44567-312-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "penicillin g potassium",
+      "name": "Penicillin G Potassium"
+    }
+  ],
+  "setid": "e0ced9d8-b9ea-466e-bf2c-10e9cc636f3f",
+  "source": "dailymed"
+}
