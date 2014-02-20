@@ -11,6 +11,7 @@ The following are discussed in greater detail in other sections of labeling:
 - Laboratory Tests [see Warnings and Precautions (5.7)]
 - Patients with Renal Impairment [see Warnings and Precautions (5.8)]
 - Dialysis [see Warnings and Precautions (5.9)]
+- Potential for Neuromotor Impairment [see Warnings and Precautions (5.10)]
 
 ## 6.1 Adverse Reactions from Clinical Trials
 
@@ -58,7 +59,7 @@ Hemic/Lymphatic: anemia, hypochromic anemia, hypervolemia
 
 Metabolic/Nutritional: peripheral edema, hypoxia
 
-Nervous System: insomnia, agitation/delirium, confusion, dizziness, seizure, nervousness, paresthesia, hallucinations, somnolence, anxiety, depression, asthenia [see Warnings and Precautions (5.2)]
+Nervous System: insomnia, agitation/delirium, confusion, dizziness, seizure, nervousness, paresthesia, hallucinations, somnolence, anxiety, depression, asthenia [see Warnings and Precautions (5.2) and (5.10)]
 
 Respiratory: respiratory disorder, dyspnea, pleural effusion, asthma, cough increased, lung edema
 
@@ -90,8 +91,7 @@ Pediatric Patients
 
 Clinical Adverse Reactions
 
-Meropenem for injection (I.V.) was studied in 515 pediatric patients (≥ 3 months to < 13 years of age) with serious bacterial infections (excluding meningitis.
-See next section.) at dosages of 10 to 20 mg/kg every 8 hours.
+Meropenem for injection (I.V.) was studied in 515 pediatric patients (≥ 3 months to < 13 years of age) with serious bacterial infections (excluding meningitis, see next section.) at dosages of 10 to 20 mg/kg every 8 hours.
 The types of clinical adverse events seen in these patients are similar to the adults, with the most common adverse events reported as possibly, probably, or definitely related to Meropenem for injection (I.V.) and their rates of occurrence as follows:
 
 Diarrhea 3.5%

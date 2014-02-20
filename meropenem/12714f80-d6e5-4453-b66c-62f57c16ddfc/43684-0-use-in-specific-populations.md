@@ -17,7 +17,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 The safety and effectiveness of Meropenem for injection (I.V.) have been established for pediatric patients ≥ 3 months of age.
 Use of Meropenem for injection (I.V.) in pediatric patients with bacterial meningitis is supported by evidence from adequate and well-controlled studies in the pediatric population.
 Use of Meropenem for injection (I.V.) in pediatric patients with intra-abdominal infections is supported by evidence from adequate and well-controlled studies with adults with additional data from pediatric pharmacokinetics studies and controlled clinical trials in pediatric patients.
-Use of Meropenem for injection (I.V.) in pediatric patients with complicated skin and skin structure infections is supported by evidence from an adequate and well-controlled study with adults and additional data from pediatric pharmacokinetics studies [see Indications and Usage (1.3), Dosage and Administration (2.3) and (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
+Use of Meropenem for injection (I.V.) in pediatric patients with complicated skin and skin structure infections is supported by evidence from an adequate and well-controlled study with adults and additional data from pediatric pharmacokinetics studies [see Indications and Usage (1.3), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
 
 ## 8.5 Geriatric Use
 
@@ -32,4 +32,4 @@ A pharmacokinetic study with Meropenem for injection (I.V.) in elderly patients 
 
 ## 8.6 Patients with Renal Impairment
 
-Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration (2.2), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].
+Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration (2.2), Warnings and Precautions (5.8), and Clinical Pharmacology (12.3)].

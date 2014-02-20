@@ -8,7 +8,7 @@ Meropenem for injection (I.V.) is useful as presumptive therapy in the indicated
 
 ## 1.1 Skin and Skin Structure Infections (Adult Patients and Pediatric Patients ≥ 3 Months only)
 
-Meropenem for injection (I.V.) is indicated as a single agent therapy for the treatment of complicated skin and skin structure infections due to Staphylococcus aureus (β-lactamase- and non-β-lactamase-producing, methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (excluding vancomycin-resistant isolates), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis, and Peptostreptococcus species.
+Meropenem for injection (I.V.) is indicated as a single agent therapy for the treatment of complicated skin and skin structure infections due to Staphylococcus aureus, (methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (vancomycin-susceptible isolates only), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis, and Peptostreptococcus species.
 
 ## 1.2 Intra-abdominal Infections (Adult Patients and Pediatric Patients ≥ 3 Months only)
 
@@ -16,10 +16,10 @@ Meropenem for injection (I.V.) is indicated as a single agent therapy for the tr
 
 ## 1.3 Bacterial Meningitis (Pediatric Patients ≥ 3 Months only)
 
-Meropenem for injection (I.V.) is indicated as a single agent therapy for the treatment of bacterial meningitis caused by Streptococcus pneumoniae‡, Haemophilus influenzae (β-lactamase- and non-β-lactamase-producing isolates), and Neisseria meningitidis.
+Meropenem for injection (I.V.) is indicated as a single agent therapy for the treatment of bacterial meningitis caused by Streptococcus pneumoniae‡, Haemophilus influenzae, and Neisseria meningitidis.
 
 ‡ The efficacy of meropenem as monotherapy in the treatment of meningitis caused by penicillin nonsusceptible isolates of Streptococcus pneumoniae has not been established.
 
 Meropenem for injection (I.V.) has been found to be effective in eliminating concurrent bacteremia in association with bacterial meningitis.
 
-For information regarding use in pediatric patients (3 months of age and older) [see Indications and Usage (1.1), (1.2) or (1.3); Dosage and Administration (2.5), and Adverse Reactions (6.1)].
+For information regarding use in pediatric patients (3 months of age and older) [see Indications and Usage (1.1), (1.2) or (1.3); Dosage and Administration (2.3), and Adverse Reactions (6.1)].

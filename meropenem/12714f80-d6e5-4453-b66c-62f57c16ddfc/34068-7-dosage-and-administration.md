@@ -38,6 +38,8 @@ For pediatric patients from 3 months of age and older, the Meropenem for injecti
 Pediatric patients weighing over 50 kg should be administered Meropenem for injection (I.V.) at a dose of 500 mg every 8 hours for complicated skin and skin structure infections, 1 g every 8 hours for intra-abdominal infections and 2 g every 8 hours for meningitis.
 Meropenem for injection (I.V.) should be given as intravenous infusion over approximately 15 to 30 minutes or as an intravenous bolus injection (5 to 20 mL) over approximately 3-5 minutes.
 
+There is limited safety data available to support the administration of a 40 mg/kg (up to a maximum of 2 g) bolus dose.
+
 Recommended Meropenem for injection (I.V.)
 Dosage Schedule for Pediatric Patients With Normal Renal Function
 
@@ -53,8 +55,7 @@ There is no experience in pediatric patients with renal impairment.
 
 For Intravenous Bolus Administration
 
-Constitute injection vials (500 mg and 1 g) with sterile Water for Injection.
-(See table below.)
+Constitute injection vials (500 mg and 1 g) with sterile Water for Injection (see table below.)
 Shake to dissolve and let stand until clear.
 
 | Vial size | Amount of Diluent Added (mL) | Approximate Withdrawable Volume (mL) | Approximate Average Concentration (mg/mL) |
@@ -101,7 +102,7 @@ Bags: Solutions prepared for infusion (Meropenem concentrations ranging from 1 t
 | Dextrose and Sodium Chloride Injection 5% / 0.2% | 1 | 4 |
 | Potassium Chloride in Dextrose Injection 0.15% / 5% | 1 | 6 |
 | Sodium Bicarbonate in Dextrose Injection 0.02% / 5% | 1 | 6 |
-| Dextrose Injection 5% in Normosol®-M† | 1 | 8 |
+| Dextrose Injection 5% in Normosol®-M1 | 1 | 8 |
 | Dextrose Injection 5% in Ringers Lactate Injection | 1 | 4 |
 | Dextrose and Sodium Chloride Injection 2.5% / 0.45% | 3 | 12 |
 | Mannitol Injection 2.5% | 2 | 16 |
@@ -110,7 +111,7 @@ Bags: Solutions prepared for infusion (Meropenem concentrations ranging from 1 t
 | Sodium Lactate Injection 1/6 N | 2 | 24 |
 | Sodium Bicarbonate Injection 5% | 1 | 4 |
 
-†NORMOSOL is a registered trademark of Hospira Inc.
+1NORMOSOL is a registered trademark of Hospira Inc.
 
 Stability in Baxter Minibag Plus: Solutions of Meropenem (Meropenem concentrations ranging from 2.5 to 20 mg/mL) in Baxter Minibag Plus bags with Sodium Chloride Injection 0.9% may be stored for up to 4 hours at controlled room temperatures 15-25°C (59-77°F) or for up to 24 hours at 4°C (39°F).
 Solutions of Meropenem (Meropenem concentrations ranging from 2.5 to 20 mg/mL) in Baxter Minibag Plus bags with Dextrose Injection 5% may be stored up to 1 hour at controlled room temperatures 15-25°C (59-77°F) or for up to 6 hours at 4°C (39°F).

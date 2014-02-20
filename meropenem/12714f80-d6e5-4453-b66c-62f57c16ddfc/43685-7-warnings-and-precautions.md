@@ -69,3 +69,8 @@ In patients with renal impairment, thrombocytopenia has been observed but no cli
 ## 5.9 Dialysis
 
 There is inadequate information regarding the use of Meropenem for injection (I.V.) in patients on hemodialysis or peritoneal dialysis.
+
+## 5.10 Potential for Neuromotor Impairment
+
+Patients receiving Meropenem for injection (I.V.) on an outpatient basis may develop adverse events such as seizures, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
+Until it is reasonably well established that Meropenem for injection (I.V.) is well tolerated, patients should not operate machinery or motorized vehicles [see Adverse Reactions (6.1)].
