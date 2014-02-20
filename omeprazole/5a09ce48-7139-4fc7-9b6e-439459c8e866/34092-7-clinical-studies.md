@@ -207,7 +207,7 @@ Results showed success rates of 60% (9/15; 10 mg omeprazole) and 59% (58/98; 20 
 
 Healing of Erosive Esophagitis
 
-In an uncontrolled, open-label dose-titration study, healing of erosive esophagitis in pediatric patients 2 to 16 years of age required doses that ranged from 0.7 to 3.5 mg/kg/day (80 mg/day).
+In an uncontrolled, open-label dose-titration study, healing of erosive esophagitis in pediatric patients 1 to 16 years of age required doses that ranged from 0.7 to 3.5 mg/kg/day (80 mg/day).
 Doses were initiated at 0.7 mg/kg/day.
 Doses were increased in increments of 0.7 mg/kg/day (if intraesophageal pH showed a pH of < 4 for less than 6% of a 24-hour study).
 After titration, patients remained on treatment for 3 months.

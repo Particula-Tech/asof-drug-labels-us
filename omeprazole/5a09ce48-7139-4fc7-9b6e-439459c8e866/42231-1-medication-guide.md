@@ -228,4 +228,4 @@ Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-June 2013
+January 2014
