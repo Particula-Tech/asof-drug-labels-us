@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019734"
+  ],
+  "inn": "nicardipine",
+  "labeler": "Cornerstone Therapeutics Inc.",
+  "package_ndcs": [
+    "10122-313-01",
+    "10122-313-10",
+    "10122-314-01",
+    "10122-314-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "nicardipine hydrochloride",
+      "name": "Cardene IV"
+    }
+  ],
+  "setid": "0d58f812-37bf-439f-b3f2-c31f8eefe22e",
+  "source": "dailymed"
+}
