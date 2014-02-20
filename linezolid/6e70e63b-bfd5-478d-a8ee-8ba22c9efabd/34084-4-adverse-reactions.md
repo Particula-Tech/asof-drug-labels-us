@@ -8,27 +8,36 @@ Adults:
 
 The safety of ZYVOX formulations was evaluated in 2046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
 
-Table 2 shows the incidence of drug-related adverse reactions reported in at least 1% of adult patients in these trials by dose of ZYVOX.
+Of the patients treated for uncomplicated skin and skin structure infections (uSSSIs), 25.4% of ZYVOX-treated and 19.6% of comparator-treated patients experienced at least one drug-related adverse event.
+For all other indications, 20.4% of ZYVOX -treated and 14.3% of comparator-treated patients experienced at least one drug-related adverse event.
+
+Table 2 shows the incidence of all-causality, treatment-emergent adverse reactions reported in at least 1% of adult patients in these trials by dose of ZYVOX.
 
 Table 2.
-Incidence (%) of Drug-Related Adverse Reactions Occurring in >1% of Adult Patients Treated with ZYVOX in Comparator-Controlled Clinical Trials
+Incidence (%) of Treatment–Emergent Adverse Reactions Occurring in >1% of Adult Patients Treated with ZYVOX in Comparator-Controlled Clinical Trials
 
 |  | ZYVOX 400 mg by mouth every 12 hours (n=548) | Clarithromycin 250 mg by mouth every 12 hours (n=537) | ZYVOX 600 mg every 12 hours (n=1498) | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. (n=1464) |
 | --- | --- | --- | --- | --- |
 | ADVERSE REACTIONS | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
-| % of patients with 1 drug-related adverse reaction | 25.4 | 19.6 | 20.4 | 14.3 |
-| % of patients discontinuing due to drug-related adverse reactionsThe most commonly reported drug-related adverse reactions leading to discontinuation in patients treated with ZYVOX were nausea, headache, diarrhea, and vomiting. | 3.5 | 2.4 | 2.1 | 1.7 |
-| Diarrhea | 5.3 | 4.8 | 4.0 | 2.7 |
-| Nausea | 3.5 | 3.5 | 3.3 | 1.8 |
-| Headache | 2.7 | 2.2 | 1.9 | 1.0 |
-| Taste alteration | 1.8 | 2.0 | 0.9 | 0.2 |
-| Vaginal moniliasis | 1.6 | 1.3 | 1.0 | 0.4 |
-| Fungal infection | 1.5 | 0.2 | 0.1 | < 0.1 |
-| Abnormal liver function tests | 0.4 | 0 | 1.3 | 0.5 |
-| Vomiting | 0.9 | 0.4 | 1.2 | 0.4 |
-| Tongue discoloration | 1.1 | 0 | 0.2 | 0 |
-| Dizziness | 1.1 | 1.5 | 0.4 | 0.3 |
-| Oral moniliasis | 0.4 | 0 | 1.1 | 0.4 |
+| Headache | 8.8 | 8.4 | 5.7 | 4.4 |
+| Diarrhea | 8.2 | 6.1 | 8.3 | 6.4 |
+| Nausea | 5.1 | 4.5 | 6.6 | 4.6 |
+| Vomiting | 2.0 | 1.5 | 4.3 | 2.3 |
+| Dizziness | 2.6 | 3.0 | 1.8 | 1.5 |
+| Rash | 1.1 | 1.1 | 2.3 | 2.6 |
+| Anemia | 0.4 | 0 | 2.1 | 1.4 |
+| Taste alteration | 1.8 | 2.0 | 1.0 | 0.3 |
+| Vaginal moniliasis | 1.8 | 1.3 | 1.1 | 0.5 |
+| Oral moniliasis | 0.5 | 0 | 1.7 | 1.0 |
+| Abnormal liver function tests | 0.4 | 0.2 | 1.6 | 0.8 |
+| Fungal infection | 1.5 | 0.2 | 0.3 | 0.2 |
+| Tongue discoloration | 1.3 | 0 | 0.3 | 0 |
+| Localized abdominal pain | 1.3 | 0.6 | 1.2 | 0.8 |
+| Generalized abdominal pain | 0.9 | 0.4 | 1.2 | 1.0 |
+
+Of the patients treated for uSSSIs, 3.5% of ZYVOX -treated and 2.4% of comparator-treated patients discontinued treatment due to drug-related adverse events.
+For all other indications, discontinuations due to drug-related adverse events occurred in 2.1% of ZYVOX -treated and 1.7% of comparator-treated patients.
+The most common reported drug-related adverse events leading to discontinuation of treatment were nausea, headache, diarrhea, and vomiting.
 
 Pediatric Patients:
 
@@ -37,28 +46,32 @@ These patients were enrolled in two Phase 3 comparator-controlled clinical trial
 In the study of hospitalized pediatric patients (birth through 11 years) with Gram-positive infections, who were randomized 2 to 1 (linezolid: vancomycin), mortality was 6.0% (13/215) in the linezolid arm and 3.0% (3/101) in the vancomycin arm.
 However, given the severe underlying illness in the patient population, no causality could be established.
 
-Table 3 shows the incidence of drug-related adverse reactions reported in more than 1% of pediatric patients (and more than 1 patient) in either treatment group in the comparator-controlled Phase 3 trials.
+Of the pediatric patients treated for uSSSIs, 19.2% of ZYVOX-treated and 14.1% of comparator-treated patients experienced at least one drug-related adverse event.
+For all other indications, 18.8% of ZYVOX-treated and 34.3% of comparator-treated patients experienced at least one drug-related adverse event.
+
+Table 3 shows the incidence of all-causality, treatment-emergent adverse reactions reported in more than 1% of pediatric patients (and more than 1 patient) in either treatment group in the comparator-controlled Phase 3 trials.
 
 Table 3.
-Incidence (%) of Drug-Related Adverse Reactions Occurring in > 1% of Pediatric Patients (and >1 Patient) in Either Treatment Group in Comparator-Controlled Clinical Trials
+Incidence (%) of Treatment-Emergent Adverse Reactions Occurring in > 1% of Pediatric Patients (and >1 Patient) in Either Treatment Group in Comparator-Controlled Clinical Trials
 
-| ZYVOX (n=248) | Cefadroxil (n=251) | ZYVOX (n=215) | Vancomycin (n=101) |  |
+|  | ZYVOX (n=248) | Cefadroxil (n=251) | ZYVOX (n=215) | Vancomycin (n=101) |
 | --- | --- | --- | --- | --- |
-| Event | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received ZYVOX 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received ZYVOX 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other IndicationsPatients from birth through 11 years of age received ZYVOX 10 mg/kg intravenously by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6–24 hours, depending on age and renal clearance. |  |
-| % of patients with ≥1 drug-related adverse reaction | 19.2 | 14.1 | 18.8 | 34.3 |
-| % of patients discontinuing due to a drug-related adverse reaction | 1.6 | 2.4 | 0.9 | 6.1 |
-| Diarrhea | 5.7 | 5.2 | 3.8 | 6.1 |
-| Nausea | 3.3 | 2.0 | 1.4 | 0 |
-| Headache | 2.4 | 0.8 | 0 | 0 |
-| Loose stools | 1.2 | 0.8 | 1.9 | 0 |
-| Thrombocytopenia | 0 | 0 | 1.9 | 0 |
-| Vomiting | 1.2 | 2.4 | 1.9 | 1.0 |
-| Generalized abdominal pain | 1.6 | 1.2 | 0 | 0 |
-| Localized abdominal pain | 1.6 | 1.2 | 0 | 0 |
-| Anemia | 0 | 0 | 1.4 | 1.0 |
-| Eosinophilia | 0.4 | 0.4 | 1.4 | 0 |
+| ADVERSE REACTIONS | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received ZYVOX 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received ZYVOX 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other IndicationsPatients from birth through 11 years of age received ZYVOX 10 mg/kg intravenously by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6–24 hours, depending on age and renal clearance. |  |
+| Diarrhea | 7.8 | 8.0 | 10.8 | 12.1 |
+| Vomiting | 2.9 | 6.4 | 9.4 | 9.1 |
+| Headache | 6.5 | 4.0 | 0.9 | 0 |
+| Anemia | 0 | 0 | 5.6 | 7.1 |
+| Thrombocytopenia | 0 | 0 | 4.7 | 2.0 |
+| Nausea | 3.7 | 3.2 | 1.9 | 0 |
+| Generalized abdominal pain | 2.4 | 2.8 | 0.9 | 2.0 |
+| Localized abdominal pain | 2.4 | 2.8 | 0.5 | 1.0 |
+| Loose stools | 1.6 | 0.8 | 2.3 | 3.0 |
+| Eosinophilia | 0.4 | 0.8 | 1.9 | 1.0 |
+| Pruritus at non-application site | 0.8 | 0.4 | 1.4 | 2.0 |
 | Vertigo | 1.2 | 0.4 | 0 | 0 |
-| Pruritus at non-application site | 0.4 | 0 | 0 | 2.0 |
+
+Of the pediatric patients treated for uSSSIs, 1.6% of ZYVOX-treated and 2.4% of comparator-treated patients discontinued treatment due to drug-related adverse events.
+For all other indications, discontinuations due to drug-related adverse events occurred in 0.9% of ZYVOX-treated and 6.1% of comparator-treated patients.
 
 Laboratory Abnormalities:
 
@@ -79,7 +92,7 @@ Table 4.
 Percent of Adult Patients who Experienced at Least One Substantially Abnormal<75% (<50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; <75% (<50% for neutrophils) of LLN and of baseline for values abnormal at baseline.
 Hematology Laboratory Value in Comparator-Controlled Clinical Trials with ZYVOX
 
-| ZYVOX 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | ZYVOX 600 mg every 12 hours | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. |  |
+|  | ZYVOX 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | ZYVOX 600 mg every 12 hours | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. |
 | --- | --- | --- | --- | --- |
 | Laboratory Assay | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
 | Hemoglobin (g/dL) | 0.9 | 0.0 | 7.1 | 6.6 |
@@ -91,7 +104,7 @@ Table 5.
 Percent of Adult Patients who Experienced at Least One Substantially Abnormal>2 × Upper Limit of Normal (ULN) for values normal at baseline; >2 × ULN and >2 × baseline for values abnormal at baseline.
 Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with ZYVOX
 
-| ZYVOX 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | ZYVOX 600 mg every 12 hours | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. |  |
+|  | ZYVOX 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | ZYVOX 600 mg every 12 hours | All Other ComparatorsComparators included cefpodoxime proxetil 200 mg by mouth every 12 hours; ceftriaxone 1 g intravenously every 12 hours; dicloxacillin 500 mg by mouth every 6 hours; oxacillin 2 g intravenously every 6 hours; vancomycin 1 g intravenously every 12 hours. |
 | --- | --- | --- | --- | --- |
 | Laboratory Assay | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
 | AST (U/L) | 1.7 | 1.3 | 5.0 | 6.8 |
@@ -108,7 +121,7 @@ Table 6.
 Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal<75% (<50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; <75% (<50% for neutrophils) of LLN and <75% (<50% for neutrophils, <90% for hemoglobin if baseline <LLN) of baseline for values abnormal at baseline.
 Hematology Laboratory Value in Comparator-Controlled Clinical Trials with ZYVOX
 
-| ZYVOX | Cefadroxil | ZYVOX | Vancomycin |  |
+|  | ZYVOX | Cefadroxil | ZYVOX | Vancomycin |
 | --- | --- | --- | --- | --- |
 | Laboratory Assay | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received ZYVOX 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received ZYVOX 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other IndicationsPatients from birth through 11 years of age received ZYVOX 10 mg/kg intravenously by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6–24 hours, depending on age and renal clearance. |  |
 | Hemoglobin (g/dL) | 0.0 | 0.0 | 15.7 | 12.4 |
@@ -120,7 +133,7 @@ Table 7.
 Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal>2 × Upper Limit of Normal (ULN) for values normal at baseline; >2 × ULN and >2 (>1.5 for total bilirubin) × baseline for values abnormal at baseline.
 Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with ZYVOX
 
-| ZYVOX | Cefadroxil | ZYVOX | Vancomycin |  |
+|  | ZYVOX | Cefadroxil | ZYVOX | Vancomycin |
 | --- | --- | --- | --- | --- |
 | Laboratory Assay | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received ZYVOX 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received ZYVOX 600 mg mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other IndicationsPatients from birth through 11 years of age received ZYVOX 10 mg/kg intravenously/by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6–24 hours, depending on age and renal clearance. |  |
 | ALT (U/L) | 0.0 | 0.0 | 10.1 | 12.5 |

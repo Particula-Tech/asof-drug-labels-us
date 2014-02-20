@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 100 mL Bag Label
+# PRINCIPAL DISPLAY PANEL - 100 mL Bag Label
 
 NDC 0009-5137-01 Rx only ZYVOX® (linezolid) injection
 
@@ -24,7 +24,7 @@ EXP
 
 free flex
 
-PRINCIPAL DISPLAY PANEL - 300 mL Bag Label
+# PRINCIPAL DISPLAY PANEL - 300 mL Bag Label
 
 NDC 0009-5140-01 Rx only ZYVOX® (linezolid) injection
 
@@ -53,7 +53,7 @@ EXP
 
 freeflex 123456789 FUU 0703 01-68-26-020
 
-PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
 
 NDC 0009-5135-02
 
@@ -65,11 +65,11 @@ ZYVOX® (linezolid) tablets
 
 Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
-PRINCIPAL DISPLAY PANEL - 600 mL Blister Pack
+# PRINCIPAL DISPLAY PANEL - 600 mL Blister Pack
 
 Zyvox® (linezolid) tablets 600 mg Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 MADE IN SINGAPORE
 
-PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Carton
 
 UNIT DOSE
 
@@ -85,7 +85,7 @@ For in-institution use only
 
 30 Tablets Rx only
 
-PRINCIPAL DISPLAY PANEL - 150 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 150 mL Bottle Label
 
 NDC 0009-5136-01
 
@@ -99,7 +99,7 @@ ZYVOX®
 
 Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
-PRINCIPAL DISPLAY PANEL - 150 mL Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 150 mL Bottle Carton
 
 NDC 0009-5136-01 150 mL (when constituted) Rx only
 

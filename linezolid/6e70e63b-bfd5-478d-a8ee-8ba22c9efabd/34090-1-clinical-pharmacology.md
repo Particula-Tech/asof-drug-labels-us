@@ -17,7 +17,7 @@ Plasma concentrations of linezolid at steady-state after oral doses of 600 mg gi
 Table 8.
 Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 
-| Dose of Linezolid | Cmax mcg/mL | Cmin mcg/mL | Tmax hrs | AUC AUC for single dose = AUC0–∞; for multiple dose = AUC0–t mcg•h/mL | t1/2 hrs | CL mL/min |
+| Dose of Linezolid | Cmax mcg/mL | Cmin mcg/mL | Tmax hrs | AUC AUC for single dose = AUC0–∞; for multiple dose = AUC0–τ mcg•h/mL | t1/2 hrs | CL mL/min |
 | --- | --- | --- | --- | --- | --- | --- |
 | 400 mg tablet single dose Data dose-normalized from 375 mg every 12 hours | 8.10 (1.83) 11.00 (4.37) | --- 3.08 (2.25) | 1.52 (1.01) 1.12 (0.47) | 55.10 (25.00) 73.40 (33.50) | 5.20 (1.50) 4.69 (1.70) | 146 (67) 110 (49) |
 | 600 mg tablet single dose every 12 hours | 12.70 (3.96) 21.20 (5.78) | --- 6.15 (2.94) | 1.28 (0.66) 1.03 (0.62) | 91.40 (39.30) 138.00 (42.10) | 4.26 (1.65) 5.40 (2.06) | 127 (48) 80 (29) |
