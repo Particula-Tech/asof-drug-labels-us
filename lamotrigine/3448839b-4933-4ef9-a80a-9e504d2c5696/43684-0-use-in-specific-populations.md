@@ -39,14 +39,21 @@ The effect of lamotrigine on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
-Preliminary data indicate that lamotrigine passes into human milk.
-Because the effects on the infant exposed to lamotrigine by this route are unknown, breastfeeding while taking lamotrigine is not recommended.
+Lamotrigine is present in milk from lactating women taking lamotrigine.
+Data from multiple small studies indicate that lamotrigine plasma levels in human milk-fed infants have been reported to be as high as 50% of the maternal serum levels.
+Neonates and young infants are at risk for high serum levels because maternal serum and milk levels can rise to high levels postpartum if lamotrigine dosage has been increased during pregnancy but not later reduced to the pre-pregnancy dosage.
+Lamotrigine exposure is further increased due to the immaturity of the infant glucuronidation capacity needed for drug clearance.
+Events including apnea, drowsiness, and poor sucking have been reported in infants who have been human milk-fed by mothers using lamotrigine; whether or not these events were caused by lamotrigine is unknown.
+Human milk-fed infants should be closely monitored for adverse events resulting from lamotrigine.
+Measurement of infant serum levels should be performed to rule out toxicity if concerns arise.
+Human milk-feeding should be discontinued in infants with lamotrigine toxicity.
+Caution should be exercised when lamotrigine is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
 Lamotrigine is indicated for adjunctive therapy in patients ≥2 years of age for partial seizures, and the generalized seizures of Lennox-Gastaut syndrome, and primary generalized tonic-clonic seizures.
 
-Safety and efficacy of lamotrigine, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months).
+Safety and efficacy of lamotrigine, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months of age).
 Lamotrigine was associated with an increased risk for infectious adverse reactions (Lamotrigine 37%, Placebo 5%), and respiratory adverse reactions (Lamotrigine 26%, Placebo 5%).
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.

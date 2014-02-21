@@ -3,14 +3,13 @@
 The following adverse reactions are described in more detail in the Warnings and Precautions section of the label:
 
 - Serious skin rashes [see Warnings and Precautions (5.1)]
-- Hypersensitivity reactions [see Warnings and Precautions (5.2)]
-- Acute multiorgan failure [see Warnings and Precautions (5.3)]
-- Blood dyscrasias [see Warnings and Precautions (5.4)]
-- Suicidal behavior and ideation [see Warnings and Precautions (5.5)]
-- Aseptic meningitis [see Warnings and Precautions (5.7)]
-- Withdrawal seizures [see Warnings and Precautions (5.10)]
-- Status epilepticus [see Warnings and Precautions (5.11)]
-- Sudden unexplained death in epilepsy [see Warnings and Precautions (5.12)]
+- Multiorgan hypersensitivity reactions and organ failure [see Warnings and Precautions (5.2)]
+- Blood dyscrasias [see Warnings and Precautions (5.3)]
+- Suicidal behavior and ideation [see Warnings and Precautions (5.4)]
+- Aseptic meningitis [see Warnings and Precautions (5.6)]
+- Withdrawal seizures [see Warnings and Precautions (5.9)]
+- Status epilepticus [see Warnings and Precautions (5.10)]
+- Sudden unexplained death in epilepsy [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials
 
@@ -72,7 +71,7 @@ Dose-Related Adverse Reactions From a Randomized, Placebo-Controlled Adjunctive 
 | --- | --- | --- | --- |
 | Adverse Reaction | Placebo (n = 73) | Lamotrigine 300 mg (n = 71) | Lamotrigine 500 mg (n = 72) |
 | Ataxia Blurred vision Diplopia Dizziness Nausea Vomiting | 10 10 8 27 11 4 | 10 11 24a 31 18 11 | 28 ab 25 ab 49 ab 54 ab 25a 18a |
-| a Significantly greater than placebo group (p<0.05). b Significantly greater than group receiving lamotrigine 300 mg (p<0.05). |  |  |  |
+| a Significantly greater than placebo group (P<0.05). b Significantly greater than group receiving lamotrigine 300 mg (P<0.05). |  |  |  |
 
 The overall adverse reaction profile for lamotrigine was similar between females and males, and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to lamotrigine in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
@@ -174,7 +173,7 @@ Urogenital: Urinary frequency.
 
 Adverse Reactions Following Abrupt Discontinuation: In the 2 maintenance trials, there was no increase in the incidence, severity or type of adverse reactions in Bipolar Disorder patients after abruptly terminating therapy with lamotrigine.
 In clinical trials in patients with Bipolar Disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine.
-However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients [see Warnings and Precautions (5.10)].
+However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients [see Warnings and Precautions (5.9)].
 
 Mania/Hypomania/Mixed Episodes: During the double-blind, placebo-controlled clinical trials in Bipolar I Disorder in which patients were converted to monotherapy with lamotrigine (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with lamotrigine (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
 In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with lamotrigine (n = 956), 3% of patients treated with lithium (n = 280), and 4% of patients treated with placebo (n = 803).
@@ -211,7 +210,7 @@ Musculoskeletal System: Infrequent: Arthritis, leg cramps, myasthenia, and twitc
 Rare: Bursitis, muscle atrophy, pathological fracture, and tendinous contracture.
 
 Nervous System: Frequent: Confusion and paresthesia.
-Infrequent: Akathisia, apathy, aphasia, CNS depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
+Infrequent: Akathisia, apathy, aphasia, central nervous system (CNS) depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
 Rare: Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal syndrome, faintness, grand mal convulsions, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, manic depression reaction, muscle spasm, neuralgia, neurosis, paralysis, and peripheral neuritis.
 
 Respiratory System: Infrequent: Yawn.
@@ -229,7 +228,7 @@ Rare: Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatin
 The following adverse events (not listed above in clinical trials or other sections of the prescribing information) have been identified during postapproval use of lamotrigine.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic: Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
+Blood and Lymphatic: Agranulocytosis, hemolytic anemia, lymphadonepathy not associated with hypersensitivity disorder
 
 Gastrointestinal: Esophagitis.
 
