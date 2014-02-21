@@ -6,8 +6,8 @@ Tranexamic acid is about 10 times more potent in vitro than aminocaproic acid.
 Tranexamic acid binds more strongly than aminocaproic acid to both the strong and weak receptor sites of the plasminogen molecule in a ratio corresponding to the difference in potency between the compounds.
 Tranexamic acid in a concentration of 1 mg per mL does not aggregate platelets in vitro.
 
-Tranexamic acid in concentrations up to 10 mg per mL blood has no influence on the platelet count, the coagulation time, or various coagulation factors in whole blood or citrated blood from normal subjects.
-On the other hand, tranexamic acid in concentrations of 10 mg and 1 mg per mL blood prolongs the thrombin time.
+Tranexamic acid, in concentrations as low as 1 mg per mL, can prolong the thrombin time.
+However, tranexamic acid in concentrations up to 10 mg per mL in blood showed no influence on the platelet count, the coagulation time, or other coagulation factors in whole blood or citrated blood from normal subjects.
 
 The plasma protein binding of tranexamic acid is about 3% at therapeutic plasma levels and seems to be fully accounted for by its binding to plasminogen.
 Tranexamic acid does not bind to serum albumin.
