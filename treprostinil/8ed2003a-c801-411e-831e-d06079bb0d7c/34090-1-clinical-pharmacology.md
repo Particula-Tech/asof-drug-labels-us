@@ -12,7 +12,7 @@ Orenitram has not been evaluated in a thorough QTc study.
 
 ## 12.3 Pharmacokinetics
 
-In patients with PAH, pharmacokinetics of treprostinil is dose-proportional for systemic exposure (AUC0-t).over the dose range of 0.5 and 15 mg BID.
+In patients with PAH, pharmacokinetics of treprostinil is dose-proportional for systemic exposure (AUC0-t) over the dose range of 0.5 and 15 mg BID.
 Upon repeat administration with a BID regimen, the accumulation in the systemic exposures to treprostinil is minimal and results in a peak-to-trough ratio of approximately 7.
 However, a TID regimen will reduce the peak-to-trough fluctuations to approximately 2.5 for the same total daily dose.
 

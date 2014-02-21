@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Orenitram is a 7 mm round biconvex tablet with strength identifying color and printing and supplied as follows:
+Orenitram is an 8 mm round biconvex tablet with strength identifying color and printing and supplied as follows:
 
 | Strength | Color | Printing on Tablets | NDC # Bottle/100 |
 | --- | --- | --- | --- |

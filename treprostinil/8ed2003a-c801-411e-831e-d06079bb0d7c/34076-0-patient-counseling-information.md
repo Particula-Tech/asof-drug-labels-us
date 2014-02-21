@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Package Insert).
+See FDA-approved patient labeling (Patient Information).
 
 Tell patients:
 
