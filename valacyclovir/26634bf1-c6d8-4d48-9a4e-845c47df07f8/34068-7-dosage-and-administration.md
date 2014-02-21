@@ -71,7 +71,7 @@ Valacyclovir Tablets Dosage Recommendations for Adults With Renal Impairment
 | Cold sores (Herpes labialis) Do not exceed 1 day of treatment. | Two 2 gram doses taken 12 hours apart | Two 1 gram doses taken 12 hours apart | Two 500 mg doses taken 12 hours apart | 500 mg single dose |
 | Genital herpes: Initialepisode | 1 gram every 12 hours | no reduction | 1 gram every 24 hours | 500 mg every 24 hours |
 | Genital herpes: Recurrent episode | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
-| Genital herpes: Suppressive therapy Immunocompetentpatients | 1 gram every 24 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
+| Genital herpes: Suppressive therapy Immuno competent patients | 1 gram every 24 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Alternate dose for immunocompetent patients with ≤ 9 recurrences/year | 500 mg every 24 hours | no reduction | 500 mg every 48 hours | 500 mg every 48 hours |
 | HIV-infected patients | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Herpes zoster | 1 gram every 8 hours | 1 gram every 12 hours | 1 gram every 24 hours | 500 mg every 24 hours |

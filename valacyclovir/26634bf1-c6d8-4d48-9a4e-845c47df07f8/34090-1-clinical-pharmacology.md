@@ -13,7 +13,7 @@ Pharmacokinetics in Adults:Absorption and Bioavailability: After oral administra
 The absolute bioavailability of acyclovir after administration of valacyclovir hydrochloride is 54.5% ± 9.1% as determined following a 1 gram oral dose of valacyclovir hydrochloride and a 350 mg intravenous acyclovir dose to 12 healthy volunteers.
 Acyclovir bioavailability from the administration of valacyclovir hydrochloride is not altered by administration with food (30 minutes after an 873 Kcal breakfast, which included 51 grams of fat).
 
-Acyclovir pharmacokinetic parameter estimates following administration of valacyclovir hydrochloride to healthy adult volunteers are presented in Table3.
+Acyclovir pharmacokinetic parameter estimates following administration of valacyclovir hydrochloride to healthy adult volunteers are presented in Table 3.
 There was a less than dose-proportional increase in acyclovir maximum concentration (Cmax) and area under the acyclovir concentration-time curve (AUC) after single-dose and multiple-dose administration (4 times daily) of valacyclovir hydrochloride from doses between 250 mg to 1 gram.
 
 There is no accumulation of acyclovir after the administration of valacyclovir at the recommended dosage regimens in adults with normal renal function.

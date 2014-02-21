@@ -39,7 +39,7 @@ Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 
 | Outcome | 6 Months |  |  | 12 Months |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Valacyclovir hydrochloride 1 gram once daily (n = 269) | Oral acyclovir 400 mg twice daily (n = 267) | Placebo (n = 134) | Valacyclovir hydrochloride1 gram once daily (n = 269) | Oral acyclovir 400 mg twice daily (n = 267) | Placebo (n = 134) |  |
+| Valacyclovir hydrochloride 1 gram once daily (n = 269) | Oral acyclovir 400 mg twice daily (n = 267) | Placebo (n = 134) | Valacyclovir hydrochloride 1 gram once daily (n = 269) | Oral acyclovir 400 mg twice daily (n = 267) | Placebo (n = 134) |  |
 | Recurrence free | 55% | 54% | 7% | 34% | 34% | 4% |
 | Recurrences | 35% | 36% | 83% | 46% | 46% | 85% |
 | Unknown* | 10% | 10% | 10% | 19% | 19% | 10% |
@@ -56,7 +56,7 @@ Outcomes for the overall study population are shown in Table 6.
 Table 6.
 Recurrence Rates in HIV-Infected Adults at 6 Months
 
-| Outcome | Valacyclovir hydrochloride500 mg twice daily (n = 194) | Placebo (n = 99) |
+| Outcome | Valacyclovir hydrochloride 500 mg twice daily (n = 194) | Placebo (n = 99) |
 | --- | --- | --- |
 | Recurrence free | 65% | 26% |
 | Recurrences | 17% | 57% |

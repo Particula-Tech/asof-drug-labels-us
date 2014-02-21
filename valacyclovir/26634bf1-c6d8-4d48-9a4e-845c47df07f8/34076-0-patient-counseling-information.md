@@ -46,7 +46,13 @@ Ranbaxy Pharmaceuticals Inc.
 
 Jacksonville, FL 32257 USA
 
-by: Alembic Pharmaceuticals Limited,
+by: Ohm Laboratories Inc.
+
+North Brunswick, NJ 08902 USA
+
+and
+
+Alembic Pharmaceuticals Limited,
 
 Village Panelav, P.O.
 Tajpura,
