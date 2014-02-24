@@ -15,31 +15,31 @@ Suicidal thoughts or actions:
 - •Citalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - •Watch for these changes and call your healthcare provider right away if you notice:
-  - oNew or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - oPay particular attention to such changes when citalopram tablets are started or when the dose is changed.
-- Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
-- Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
-  - oattempts to commit suicide
-  - oacting on dangerous impulses
-  - oacting aggressive or violent
-  - othoughts about suicide or dying
-  - onew or worse depression
-  - onew or worse anxiety or panic attacks
-  - ofeeling agitated, restless, angry or irritable
-  - otrouble sleeping
-  - oan increase in activity or talking more than what is normal for you
-  - oother unusual changes in behavior or mood
-- Call your healthcare provider rightaway if you have any of the following symptoms, or call 911 if an emergency.
+  - •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+  - •Pay particular attention to such changes when citalopram tablets are started or when the dose is changed.
+- •Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
+- •Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
+  - •attempts to commit suicide
+  - •acting on dangerous impulses
+  - •acting aggressive or violent
+  - •thoughts about suicide or dying
+  - •new or worse depression
+  - •new or worse anxiety or panic attacks
+  - •feeling agitated, restless, angry or irritable
+  - •trouble sleeping
+  - •an increase in activity or talking more than what is normal for you
+  - •other unusual changes in behavior or mood
+- •Call your healthcare provider rightaway if you have any of the following symptoms, or call 911 if an emergency.
   Citalopram tablets may be associated with these serious side effects:
 
 2.
 Changes in the electrical activity of your heart (QT prolongation andTorsade de Pointes).
 
-- This condition can be life threatening.
+- •This condition can be life threatening.
   The symptoms may include: chest pain
-  - ofast or slow heartbeat
-  - oshortness of breath
-  - odizziness or fainting
+  - •fast or slow heartbeat
+  - •shortness of breath
+  - •dizziness or fainting
 
 3.
 Serotonin Syndrome.
@@ -92,10 +92,9 @@ Symptoms may include:
 Do not stop citalopram tablets without first talking to your healthcare provider.
 Stopping citalopram tablets too quickly may cause serious symptoms including:
 
-- 
-  - •anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
-  - •headache, sweating, nausea, dizziness
-  - •electric shock-like sensations, shaking, confusion
+- •anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
+- •headache, sweating, nausea, dizziness
+- •electric shock-like sensations, shaking, confusion
 
 What is citalopram?
 
