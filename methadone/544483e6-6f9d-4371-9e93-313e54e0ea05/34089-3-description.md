@@ -13,7 +13,7 @@ The tablet preparation of methadone hydrochloride tablets for oral suspension co
 
 Each Methadone Hydrochloride Tablet for Oral Suspension USP contains:
 
-- Methadone Hydrochloride USP...............40 mg (0.116 mmol)
+Methadone Hydrochloride USP...............40 mg (0.116 mmol)
 
 In addition, each METHADOSE™ Dispersible Tablet also contains: dibasic calcium phosphate, microcrystalline cellulose, magnesium stearate, colloidal silicon dioxide, pregelatinized starch, stearic acid.
 

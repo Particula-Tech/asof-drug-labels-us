@@ -22,4 +22,4 @@ In addition, reductions in serum testosterone levels and sperm motility, and abn
 Published animal studies provide additional data indicating that methadone treatment of males can alter reproductive function.
 Methadone produces a significant regression of sex accessory organs and testes of male mice and rats.
 Additional data have been published indicating that methadone treatment of male rats (once a day for three consecutive days) increased embryolethality and neonatal mortality.
-Examination of uterine contents of methadone-naive female mice bred to methadone-treated mice indicated that methadone treatment produced an increase in the rate of preimplantation deaths in all post-meiotic states.
+Examination of uterine contents of methadone-naïve female mice bred to methadone-treated mice indicated that methadone treatment produced an increase in the rate of preimplantation deaths in all post-meiotic states.

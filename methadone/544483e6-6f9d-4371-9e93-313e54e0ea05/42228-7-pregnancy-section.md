@@ -22,10 +22,12 @@ Methadone does not appear to be teratogenic in the rat or rabbit models.
 However, following large doses, methadone produced teratogenic effects in the guinea pig, hamster and mouse.
 One published study in pregnant hamsters indicated that a single subcutaneous dose of methadone ranging from 31 to 185 mg/kg (the 31 mg/kg dose is approximately twice a human daily oral dose of 120 mg/day on a mg/m2 basis) on day 8 of gestation resulted in a decrease in the number of fetuses per litter and an increase in the percentage of fetuses exhibiting congenital malformations described as exencephaly, cranioschisis, and “various other lesions”.
 The majority of the doses tested also resulted in maternal death.
-In another study, a single subcutaneous dose of 22 to 24 mg/kg methadone (estimated exposure was approximately equivalent to a human daily oral dose of 120 mg/day on a mg/m2 basis) administered on day 9 of gestation in mice also produced exencephaly in 11% of the embryos.
+In another study, a single subcutaneous dose of 22 to
+
+24 mg/kg methadone (estimated exposure was approximately equivalent to a human daily oral dose of 120 mg/day on a mg/m2 basis) administered on day 9 of gestation in mice also produced exencephaly in 11% of the embryos.
 However, no effects were reported in rats and rabbits at oral doses up to 40 mg/kg (estimated exposure was approximately 3 and 6 times, respectively, a human daily oral dose of 120 mg/day on a mg/m2 basis) administered during days 6 to 15 and 6 to 18, respectively.
 
-Nonteratogenetic Effects – Babies born to mothers who have been taking opioids regularly prior to delivery may be physically dependent.
+Nonteratogenic Effects – Babies born to mothers who have been taking opioids regularly prior to delivery may be physically dependent.
 Onset of withdrawal symptoms in infants is usually in the first days after birth.
 Withdrawal signs in the newborn include irritability and excessive crying, tremors, hyperactive reflexes, increased respiratory rate, increased stools, sneezing, yawning, vomiting, and fever.
 The intensity of the syndrome does not always correlate with the maternal dose or the duration of maternal exposure.
@@ -48,7 +50,7 @@ Additional studies demonstrated that methadone treatment of male rats for 21 to 
 Mechanistic studies in this rat model suggest that the developmental effects of “paternal” methadone on the progeny appear to be due to decreased testosterone production.
 These animal data mirror the reported clinical findings of decreased testosterone levels in human males on methadone maintenance therapy for opioid addiction and in males receiving chronic intraspinal opioids.
 
-Clinical Pharmacology for Pregnancy – Pregnant women appear to have significantly lower trough plasma methadone concentrations, increased plasma methadone clearance, and shorter methadone half-life than after delivery.
+Clinical Pharmacology in Pregnancy – Pregnant women appear to have significantly lower trough plasma methadone concentrations, increased plasma methadone clearance, and shorter methadone half-life than after delivery.
 Dosage adjustment using higher doses or administering the daily dose in divided doses may be necessary in pregnant women treated with methadone (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 Methadone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
