@@ -1,6 +1,4 @@
-MEDICATION GUIDE
-
-XELJANZ (ZEL' JANS') (tofacitinib)
+# MEDICATION GUIDE XELJANZ (ZEL' JANS') (tofacitinib)
 
 Read this Medication Guide before you start taking XELJANZ and each time you get a refill.
 There may be new information.

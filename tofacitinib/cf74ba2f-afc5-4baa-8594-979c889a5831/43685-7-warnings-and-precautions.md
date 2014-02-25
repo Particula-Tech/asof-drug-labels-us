@@ -4,12 +4,12 @@
 
 Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in rheumatoid arthritis patients receiving XELJANZ.
 The most common serious infections reported with XELJANZ included pneumonia, cellulitis, herpes zoster and urinary tract infection [see Adverse Reactions (6.1)].
-Among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcus, esophageal candidiasis, pneumocystosis, multidermatomal herpes zoster, cytomegalovirus, and BK virus were reported with XELJANZ.
+Among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcosis, esophageal candidiasis, pneumocystosis, multidermatomal herpes zoster, cytomegalovirus, and BK virus were reported with XELJANZ.
 Some patients have presented with disseminated rather than localized disease, and were often taking concomitant immunomodulating agents such as methotrexate or corticosteroids.
 
 Other serious infections that were not reported in clinical studies may also occur (e.g., histoplasmosis, coccidioidomycosis, and listeriosis).
 
-XELJANZ should not be initiated in patients with an active infection, including localized infections.
+Avoid use of XELJANZ in patients with an active, serious infection, including localized infections.
 The risks and benefits of treatment should be considered prior to initiating XELJANZ in patients:
 
 - with chronic or recurrent infection
@@ -39,7 +39,7 @@ Viral reactivation, including cases of herpes virus reactivation (e.g., herpes z
 The impact of XELJANZ on chronic viral hepatitis reactivation is unknown.
 Patients who screened positive for hepatitis B or C were excluded from clinical trials.
 
-## 5.2 Malignancy and Lymphoproliferative Disorder
+## 5.2 Malignancy and Lymphoproliferative Disorders
 
 Consider the risks and benefits of XELJANZ treatment prior to initiating therapy in patients with a known malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing XELJANZ in patients who develop a malignancy.
 Malignancies were observed in clinical studies of XELJANZ [see Adverse Reactions (6.1)].
@@ -47,7 +47,7 @@ Malignancies were observed in clinical studies of XELJANZ [see Adverse Reactions
 In the seven controlled rheumatoid arthritis clinical studies, 11 solid cancers and one lymphoma were diagnosed in 3328 patients receiving XELJANZ with or without DMARD, compared to 0 solid cancers and 0 lymphomas in 809 patients in the placebo with or without DMARD group during the first 12 months of exposure.
 Lymphomas and solid cancers have also been observed in the long-term extension studies in rheumatoid arthritis patients treated with XELJANZ.
 
-In Phase 2B, controlled dose-ranging trials in de-novo renal transplant patients, all of whom received induction therapy with basiliximab, high dose corticosteroids, and mycophenolic acid products, Epstein Barr Virus-associated post-transplant lymphoproliferative disorder was observed in 5 out of 218 patients treated with XELJANZ (2.3%) compared to 0 out of 111 patients treated with cyclosporine.
+In Phase 2B, controlled dose-ranging trials in de-novo renal transplant patients, all of whom received induction therapy with basiliximab, high-dose corticosteroids, and mycophenolic acid products, Epstein Barr Virus-associated post-transplant lymphoproliferative disorder was observed in 5 out of 218 patients treated with XELJANZ (2.3%) compared to 0 out of 111 patients treated with cyclosporine.
 
 ## 5.3 Gastrointestinal Perforations
 
@@ -56,20 +56,20 @@ Events of gastrointestinal perforation have been reported in clinical studies wi
 XELJANZ should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis).
 Patients presenting with new onset abdominal symptoms should be evaluated promptly for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
-## 5.4 Laboratory Parameters
+## 5.4 Laboratory Abnormalities
 
-Lymphocytes
+Lymphocyte Abnormalities
 
-Treatment with XELJANZ was associated with initial lymphocytosis at one month of exposure followed by a gradual decrease in mean lymphocyte counts below the baseline of approximately 10% during 12 months of therapy.
+Treatment with XELJANZ was associated with initial lymphocytosis at one month of exposure followed by a gradual decrease in mean absolute lymphocyte counts below the baseline of approximately 10% during 12 months of therapy.
 Lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections.
 
 Avoid initiation of XELJANZ treatment in patients with a low lymphocyte count (i.e., less than 500 cells/mm3).
 In patients who develop a confirmed absolute lymphocyte count less than 500 cells/mm3 treatment with XELJANZ is not recommended.
 
 Monitor lymphocyte counts at baseline and every 3 months thereafter.
-For recommended modifications based on lymphocyte counts see Dosage and Administration (2.3).
+For recommended modifications based on lymphocyte counts see Dosage and Administration (2.2).
 
-Neutrophils
+Neutropenia
 
 Treatment with XELJANZ was associated with an increased incidence of neutropenia (less than 2000 cells/mm3) compared to placebo.
 
@@ -78,17 +78,17 @@ For patients who develop a persistent ANC of 500–1000 cells/mm3, interrupt XEL
 In patients who develop an ANC less than 500 cells/mm3, treatment with XELJANZ is not recommended.
 
 Monitor neutrophil counts at baseline and after 4–8 weeks of treatment and every 3 months thereafter.
-For recommended modifications based on ANC results see Dosage and Administration (2.3).
+For recommended modifications based on ANC results see Dosage and Administration (2.2).
 
-Hemoglobin
+Anemia
 
 Avoid initiation of XELJANZ treatment in patients with a low hemoglobin level (i.e. less than 9 g/dL).
 Treatment with XELJANZ should be interrupted in patients who develop hemoglobin levels less than 8 g/dL or whose hemoglobin level drops greater than 2 g/dL on treatment.
 
 Monitor hemoglobin at baseline and after 4–8 weeks of treatment and every 3 months thereafter.
-For recommended modifications based on hemoglobin results see Dosage and Administration (2.3).
+For recommended modifications based on hemoglobin results see Dosage and Administration (2.2).
 
-Liver Enzymes
+Liver Enzyme Elevations
 
 Treatment with XELJANZ was associated with an increased incidence of liver enzyme elevation compared to placebo.
 Most of these abnormalities occurred in studies with background DMARD (primarily methotrexate) therapy.
@@ -96,7 +96,7 @@ Most of these abnormalities occurred in studies with background DMARD (primarily
 Routine monitoring of liver tests and prompt investigation of the causes of liver enzyme elevations is recommended to identify potential cases of drug-induced liver injury.
 If drug-induced liver injury is suspected, the administration of XELJANZ should be interrupted until this diagnosis has been excluded.
 
-Lipids
+Lipid Elevations
 
 Treatment with XELJANZ was associated with increases in lipid parameters including total cholesterol, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol.
 Maximum effects were generally observed within 6 weeks.
@@ -109,10 +109,6 @@ Manage patients according to clinical guidelines [e.g., National Cholesterol Edu
 ## 5.5 Vaccinations
 
 No data are available on the response to vaccination or on the secondary transmission of infection by live vaccines to patients receiving XELJANZ.
-Live vaccines should not be given concurrently with XELJANZ.
+Avoid use of live vaccines concurrently with XELJANZ.
 
 Update immunizations in agreement with current immunization guidelines prior to initiating XELJANZ therapy.
-
-## 5.6 Hepatic Impairment
-
-Treatment with XELJANZ is not recommended in patients with severe hepatic impairment [see Adverse Reactions (6.1) and Use in Specific Populations (8.6)].

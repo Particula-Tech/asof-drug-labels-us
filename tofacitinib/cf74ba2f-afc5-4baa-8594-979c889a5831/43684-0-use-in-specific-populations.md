@@ -44,12 +44,14 @@ As there is a higher incidence of infections in the elderly population in genera
 
 ## 8.6 Hepatic Impairment
 
+XELJANZ-treated patients with moderate hepatic impairment had greater tofacitinib levels than XELJANZ-treated patients with normal hepatic function [see Clinical Pharmacology (12.3)].
+Higher blood levels may increase the risk of some adverse reactions, therefore, XELJANZ dose should be reduced to 5 mg once daily in patients with moderate hepatic impairment [see Dosage and Administration (2.4)].
+XELJANZ has not been studied in patients with severe hepatic impairment; therefore, use of XELJANZ in patients with severe hepatic impairment is not recommended.
 No dose adjustment is required in patients with mild hepatic impairment.
-XELJANZ dose should be reduced to 5 mg once daily in patients with moderate hepatic impairment.
-The safety and efficacy of XELJANZ have not been studied in patients with severe hepatic impairment or in patients with positive hepatitis B virus or hepatitis C virus serology [see Dosage and Administration (2.1) and Warnings and Precautions (5.6)].
+The safety and efficacy of XELJANZ have not been studied in patients with positive hepatitis B virus or hepatitis C virus serology.
 
 ## 8.7 Renal Impairment
 
-No dose adjustment is required in patients with mild renal impairment.
-XELJANZ dose should be reduced to 5 mg once daily in patients with moderate and severe renal impairment [see Dosage and Administration (2.1)].
+XELJANZ-treated patients with moderate and severe renal impairment had greater tofacitinib blood levels than XELJANZ-treated patients with normal renal function; therefore, XELJANZ dose should be reduced to 5 mg once daily in patients with moderate and severe renal impairment [see Dosage and Administration (2.4)].
 In clinical trials, XELJANZ was not evaluated in rheumatoid arthritis patients with baseline creatinine clearance values (estimated by the Cockroft-Gault equation) less than 40 mL/min.
+No dose adjustment is required in patients with mild renal impairment.

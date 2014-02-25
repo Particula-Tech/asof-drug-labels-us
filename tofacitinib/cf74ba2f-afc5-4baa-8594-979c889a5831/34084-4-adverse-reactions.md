@@ -1,6 +1,10 @@
 # 6 ADVERSE REACTIONS
 
+## 6.1 Clinical Trial Experience
+
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
+
+Although other doses have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
 
 The following data includes two Phase 2 and five Phase 3 double-blind, controlled, multicenter trials.
 In these trials, patients were randomized to doses of XELJANZ 5 mg twice daily (292 patients) and 10 mg twice daily (306 patients) monotherapy, XELJANZ 5 mg twice daily (1044 patients) and 10 mg twice daily (1043 patients) in combination with DMARDs (including methotrexate) and placebo (809 patients).
@@ -11,8 +15,6 @@ Comparisons between placebo and XELJANZ were based on the first 3 months of expo
 The long-term safety population includes all patients who participated in a double-blind, controlled trial (including earlier development phase studies) and then participated in one of two long-term safety studies.
 The design of the long-term safety studies allowed for modification of XELJANZ doses according to clinical judgment.
 This limits the interpretation of the long-term safety data with respect to dose.
-
-## 6.1 Clinical Trial Experience
 
 The most common serious adverse reactions were serious infections [see Warnings and Precautions (5.1)].
 
@@ -64,15 +66,15 @@ One of these malignancies was a case of lymphoma that occurred during the 0 to 1
 
 The most common types of malignancy, including malignancies observed during the long-term extension, were lung and breast cancer, followed by gastric, colorectal, renal cell, prostate cancer, lymphoma, and malignant melanoma [see Warnings and Precautions (5.2)].
 
-Laboratory Tests
+Laboratory Abnormalities
 
-Lymphocytes
+Lymphopenia
 
-In the controlled clinical trials, confirmed decreases in lymphocyte counts below 500 cells/mm3 occurred in 0.04% of patients for the 5 mg twice daily and 10 mg twice daily XELJANZ groups combined during the first 3 months of exposure.
+In the controlled clinical trials, confirmed decreases in absolute lymphocyte counts below 500 cells/mm3 occurred in 0.04% of patients for the 5 mg twice daily and 10 mg twice daily XELJANZ groups combined during the first 3 months of exposure.
 
 Confirmed lymphocyte counts less than 500 cells/mm3 were associated with an increased incidence of treated and serious infections [see Warnings and Precautions (5.4)].
 
-Neutrophils
+Neutropenia
 
 In the controlled clinical trials, confirmed decreases in ANC below 1000 cells/mm3 occurred in 0.07% of patients for the 5 mg twice daily and 10 mg twice daily XELJANZ groups combined during the first 3 months of exposure.
 
@@ -82,7 +84,7 @@ There was no clear relationship between neutropenia and the occurrence of seriou
 
 In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the controlled clinical trials [see Warnings and Precautions (5.4)].
 
-Liver Enzyme Tests
+Liver Enzyme Elevations
 
 Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3× ULN) were observed in patients treated with XELJANZ.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of XELJANZ, or reduction in XELJANZ dose, resulted in decrease or normalization of liver enzymes.
@@ -95,7 +97,7 @@ In these trials, AST elevations greater than 3× ULN were observed in 0.6%, 0.5%
 One case of drug-induced liver injury was reported in a patient treated with XELJANZ 10 mg twice daily for approximately 2.5 months.
 The patient developed symptomatic elevations of AST and ALT greater than 3× ULN and bilirubin elevations greater than 2× ULN, which required hospitalizations and a liver biopsy.
 
-Lipids
+Lipid Elevations
 
 In the controlled clinical trials, dose-related elevations in lipid parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were observed at one month of exposure and remained stable thereafter.
 Changes in lipid parameters during the first 3 months of exposure in the controlled clinical trials are summarized below:
@@ -108,7 +110,7 @@ In a controlled clinical trial, elevations in LDL cholesterol and ApoB decreased
 
 In the long-term safety population, elevations in lipid parameters remained consistent with what was seen in the controlled clinical trials.
 
-Serum Creatinine
+Serum Creatinine Elevations
 
 In the controlled clinical trials, dose-related elevations in serum creatinine were observed with XELJANZ treatment.
 The mean increase in serum creatinine was <0.1 mg/dL in the 12-month pooled safety analysis; however with increasing duration of exposure in the long-term extensions, up to 2% of patients were discontinued from XELJANZ treatment due to the protocol-specified discontinuation criterion of an increase in creatinine by more than 50% of baseline.
@@ -122,7 +124,7 @@ Table 4: Adverse Reactions Occurring in at Least 2% or More of Patients on 5 or 
 
 | Preferred Term | N = 1336 (%) | N = 1349 (%) | N = 809 (%) |
 | --- | --- | --- | --- |
-|  | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice Daily | Placebo |
+|  | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice DailyThe recommended dose of XELJANZ is 5 mg twice daily. | Placebo |
 | Diarrhea | 4.0 | 2.9 | 2.3 |
 | Nasopharyngitis | 3.8 | 2.8 | 2.8 |
 | Upper respiratory tract infection | 4.5 | 3.8 | 3.3 |
@@ -132,4 +134,27 @@ Table 4: Adverse Reactions Occurring in at Least 2% or More of Patients on 5 or 
 
 Other adverse reactions occurring in controlled and open-label extension studies included:
 
-Blood and lymphatic system disorders: Anemia Metabolism and nutrition disorders: Dehydration Psychiatric disorders: Insomnia Nervous system disorders: Paresthesia Respiratory, thoracic and mediastinal disorders: Dyspnea, cough, sinus congestion Gastrointestinal disorders: Abdominal pain, dyspepsia, vomiting, gastritis, nausea Hepatobiliary disorders: Hepatic steatosis Skin and subcutaneous tissue disorders: Rash, erythema, pruritus Musculoskeletal, connective tissue and bone disorders: Musculoskeletal pain, arthralgia, tendonitis, joint swelling General disorders and administration site conditions: Pyrexia, fatigue, peripheral edema
+Blood and lymphatic system disorders: Anemia
+
+Metabolism and nutrition disorders: Dehydration
+
+Psychiatric disorders: Insomnia
+
+Nervous system disorders: Paresthesia
+
+Respiratory, thoracic and mediastinal disorders: Dyspnea, cough, sinus congestion
+
+Gastrointestinal disorders: Abdominal pain, dyspepsia, vomiting, gastritis, nausea
+
+Hepatobiliary disorders: Hepatic steatosis
+
+Skin and subcutaneous tissue disorders: Rash, erythema, pruritus
+
+Musculoskeletal, connective tissue and bone disorders: Musculoskeletal pain, arthralgia, tendonitis, joint swelling
+
+General disorders and administration site conditions: Pyrexia, fatigue, peripheral edema
+
+Clinical Experience in Methotrexate-Naïve Patients
+
+Study VI was an active-controlled clinical trial in methotrexate-naïve patients [see Clinical Studies (14)].
+The safety experience in these patients was consistent with Studies I–V.

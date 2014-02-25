@@ -60,7 +60,7 @@ The effect of renal and hepatic impairment and other intrinsic factors on the ph
 
 Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics
 
-Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and White, respectively; Reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function.
+Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and White, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function.
 
 Drug Interactions
 

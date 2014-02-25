@@ -23,4 +23,4 @@ Patients should be closely monitored for the development of signs and symptoms o
 MALIGNANCIES
 
 Lymphoma and other malignancies have been observed in patients treated with XELJANZ.
-Epstein Barr Virus- associated post-transplant lymphoproliferative disorder has been observed at an increased rate in renal transplant patients treated with XELJANZ and concomitant immunosuppressive medications [see Warnings and Precautions (5.2)].
+Epstein Barr Virus-associated post-transplant lymphoproliferative disorder has been observed at an increased rate in renal transplant patients treated with XELJANZ and concomitant immunosuppressive medications [see Warnings and Precautions (5.2)].

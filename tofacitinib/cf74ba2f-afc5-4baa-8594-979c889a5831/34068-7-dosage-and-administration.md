@@ -1,28 +1,33 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-XELJANZ is given orally with or without food.
+## 2.1 Dosage in Rheumatoid Arthritis
 
-## 2.1 Rheumatoid Arthritis
+- XELJANZ may be used as monotherapy or in combination with methotrexate or other nonbiologic disease-modifying antirheumatic drugs (DMARDs).
+  The recommended dose of XELJANZ is 5 mg twice daily.
+- XELJANZ is given orally with or without food.
 
-XELJANZ may be used as monotherapy or in combination with methotrexate or other nonbiologic disease modifying antirheumatic drugs (DMARDs).
-The recommended dose of XELJANZ is 5 mg twice daily.
+## 2.2 Dosage Modifications due to Serious Infections and Cytopenias
 
-- Dose interruption is recommended for management of lymphopenia, neutropenia and anemia [see Dosage and Administration (2.3), Warnings and Precautions (5.4), and Adverse Reactions (6.1)].
+(See Tables 1, 2, and 3 below.)
+
+- It is recommended that XELJANZ not be initiated in patients with an absolute lymphocyte count less than 500 cells/mm3, an absolute neutrophil count (ANC) less than 1000 cells/mm3 or who have hemoglobin levels less than 9 g/dL.
+- Dose interruption is recommended for management of lymphopenia, neutropenia and anemia [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+- Avoid use of XELJANZ if a patient develops a serious infection until the infection is controlled.
+
+## 2.3 Dosage Modifications due to Drug Interactions
+
 - XELJANZ dosage should be reduced to 5 mg once daily in patients:
-  - with moderate or severe renal insufficiency
-  - with moderate hepatic impairment
-  - receiving potent inhibitors of Cytochrome P450 3A4 (CYP3A4) (e.g., ketoconazole)
+  - receiving potent inhibitors of Cytochrome P450 3A4 (CYP3A4) (e.g., ketoconazole).
   - receiving one or more concomitant medications that result in both moderate inhibition of CYP3A4 and potent inhibition of CYP2C19 (e.g., fluconazole).
+- Coadministration of potent inducers of CYP3A4 (e.g., rifampin) with XELJANZ may result in loss of or reduced clinical response to XELJANZ.
+  Coadministration of potent inducers of CYP3A4 with XELJANZ is not recommended.
 
-## 2.2 General Considerations for Administration
+## 2.4 Dosage Modifications in Patients with Renal or Hepatic Impairment
 
-- XELJANZ should not be used in patients with severe hepatic impairment.
-- It is recommended that XELJANZ not be initiated in patients with a lymphocyte count less than 500 cells/mm3, an absolute neutrophil count (ANC) less than 1000 cells/mm3, or who have hemoglobin levels less than 9 g/dL.
-- Coadministration of XELJANZ with potent inducers of CYP3A4 (e.g., rifampin) may result in loss of or reduced clinical response to XELJANZ.
-
-## 2.3 Dosage Modifications
-
-XELJANZ treatment should be interrupted if a patient develops a serious infection until the infection is controlled.
+- XELJANZ dosage should be reduced to 5 mg once daily in patients:
+  - with moderate or severe renal insufficiency.
+  - with moderate hepatic impairment.
+- Use of XELJANZ in patients with severe hepatic impairment is not recommended.
 
 Table 1: Dose Adjustments for Lymphopenia
 
