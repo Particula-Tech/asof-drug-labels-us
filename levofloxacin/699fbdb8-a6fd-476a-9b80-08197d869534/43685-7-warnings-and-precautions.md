@@ -17,7 +17,7 @@ Patients should be advised to rest at the first sign of tendinitis or tendon rup
 
 Fluoroquinolones, including levofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
 Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
-Avoid levofloxacin in patients with a known history of myasthenia gravis [see Adverse Reactions (6.3), and Patient Counseling Information (17.3)].
+Avoid levofloxacin in patients with a known history of myasthenia gravis [see Adverse Reactions (6.3); Patient Counseling Information (17.3)].
 
 ## 5.3 Hypersensitivity Reactions
 
@@ -74,8 +74,9 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## 5.8 Peripheral Neuropathy
 
-Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including levofloxacin.
-Levofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation in order to prevent the development of an irreversible condition [see Adverse Reactions (6), Patient Counseling Information (17.3)].
+Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including levofloxacin.
+Symptoms may occur soon after initiation of levofloxacin and may be irreversible.
+Levofloxacin should be discontinued immediately if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation [see Adverse Reactions (6), Patient Counseling Information (17.3)].
 
 ## 5.9 Prolongation of the QT Interval
 

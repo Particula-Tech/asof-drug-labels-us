@@ -47,8 +47,7 @@ Talk with your healthcare provider about whether you should continue to take LEV
 2. Worsening of myasthenia gravis (a problem that causes muscle weakness).
    Fluoroquinolones like LEVOFLOXACIN may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
    Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
-
-- See “What are the possible side effects of LEVOFLOXACIN?”
+   - See “What are the possible side effects of LEVOFLOXACIN?”
 
 What is LEVOFLOXACIN?
 
@@ -172,19 +171,43 @@ LEVOFLOXACIN can cause serious side effects, including:
   - faint
   - skin rash
 - Liver damage (hepatotoxicity): Hepatotoxicity can happen in people who take LEVOFLOXACIN.
-  Call your healthcare provider right away if you have unexplained symptoms such as: nausea or vomiting stomach pain fever weakness abdominal pain or tenderness itching unusual tiredness loss of appetite light colored bowel movements dark colored urine yellowing of your skin or the whites of your eyes Stop taking LEVOFLOXACIN and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
+  Call your healthcare provider right away if you have unexplained symptoms such as: Stop taking LEVOFLOXACIN and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
   These can be signs of a serious reaction to LEVOFLOXACIN (a liver problem).
+  - nausea or vomiting
+  - stomach pain
+  - fever
+  - weakness
+  - abdominal pain or tenderness
+  - itching
+  - unusual tiredness
+  - loss of appetite
+  - light colored bowel movements
+  - dark colored urine
+  - yellowing of your skin or the whites of your eyes
 - Central Nervous System Effects.
   Seizures have been reported in people who take fluoroquinolone antibiotics including LEVOFLOXACIN.
   Tell your healthcare provider if you have a history of seizures.
   Ask your healthcare provider whether taking LEVOFLOXACIN will change your risk of having a seizure.Central Nervous System (CNS) side effects may happen as soon as after taking the first dose of LEVOFLOXACIN.
-  Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior: seizures hear voices, see things, or sense things that are not there (hallucinations) feel restless tremors feel anxious or nervous confusion depression trouble sleeping nightmares feel lightheaded feel more suspicious (paranoia) suicidal thoughts or acts a headache that will not go away, with or without blurred vision.
+  Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
+  - seizures
+  - hear voices, see things, or sense things that are not there (hallucinations)
+  - feel restless
+  - tremors
+  - feel anxious or nervous
+  - confusion
+  - depression
+  - trouble sleeping
+  - nightmares
+  - feel lightheaded
+  - feel more suspicious (paranoia)
+  - suicidal thoughts or acts
+  - a headache that will not go away, with or without blurred vision.
 - Intestine infection (Pseudomembranous colitis) Pseudomembranous colitis can happen with many antibiotics, including LEVOFLOXACIN.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
   Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
-- Changes in sensation and possible nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including LEVOFLOXACIN.
-  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:LEVOFLOXACIN may need to be stopped to prevent permanent nerve damage.
+- Changes in sensation and nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including LEVOFLOXACIN.
+  Stop LEVOFLOXACIN and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:The nerve damage may be permanent.
   - pain
   - burning
   - tingling
@@ -252,8 +275,8 @@ LEVOFLOXACIN Injection in 5% dextrose in Single-Use Flexible Containers:
 
 SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2012 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2013 Sagent Pharmaceuticals, Inc.
 
-Revised: May 2012
+Revised: October 2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

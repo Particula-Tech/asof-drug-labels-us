@@ -178,7 +178,7 @@ Gram-Positive Bacteria
 - Staphylococcus aureus (methicillin-susceptible isolates)
 - Staphylococcus epidermidis (methicillin-susceptible isolates)
 - Staphylococcus saprophyticus
-- Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]) 1
+- Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]1)
 - Streptococcus pyogenes
 
 1 MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.

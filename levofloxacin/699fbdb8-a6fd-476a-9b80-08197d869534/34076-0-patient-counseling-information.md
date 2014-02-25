@@ -32,7 +32,9 @@ Patients should be informed of the following serious adverse reactions that have
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
-- Peripheral Neuropathies: If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should discontinue treatment and contact their physician.
+- Peripheral Neuropathies: Patients should be informed that peripheral neuropathy has been associated with levofloxacin use.
+  Symptoms may occur soon after initiation of therapy and may be irreversible.
+  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should immediately discontinue treatment and contact their physician.
 - Prolongation of the QT Interval: Patients should inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
   Patients should notify their physicians if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
 - Musculoskeletal Disorders in Pediatric Patients: Parents should inform their child's physician if their child has a history of joint-related problems before taking this drug.
@@ -56,8 +58,8 @@ Therefore, approval for these conditions was based on efficacy studies conducted
 
 SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2012 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2013 Sagent Pharmaceuticals, Inc.
 
-Revised: May 2012
+Revised: October 2013
 
 ## 17.6 FDA-Approved Medication Guide

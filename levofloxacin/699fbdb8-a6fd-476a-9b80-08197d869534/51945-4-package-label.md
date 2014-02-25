@@ -6,7 +6,7 @@ NDC 25021-132-81
 
 Levofloxacin Injection in 5% Dextrose
 
-250 mg in (5 mg per mL)
+250 mg (5 mg per mL)
 
 Rx only
 
