@@ -6,9 +6,9 @@ The safety and efficacy of EPIVIR-HBV 100 mg once daily versus placebo were eval
 All subjects were aged 16 years or older and had chronic hepatitis B virus infection (serum HBsAg-positive for at least 6 months) accompanied by evidence of HBV replication (serum HBeAg-positive and positive for serum HBV DNA) and persistently elevated ALT levels and/or chronic inflammation on liver biopsy compatible with a diagnosis of chronic viral hepatitis.
 The results of these trials are summarized below.
 
-- Trial 1 was a randomized, double-blind trial of EPIVIR-HBV 100 mg once daily versus placebo for 52 weeks followed by a 16-week no-treatment period in 141 treatment-naive US subjects.
-- Trial 2 was a randomized, double-blind, 3-arm trial that compared EPIVIR-HBV 25 mg once daily versus EPIVIR-HBV 100 mg once daily versus placebo for 52 weeks in 358 Asian subjects.
-- Trial 3 was a randomized, partially-blind trial conducted primarily in North America and Europe in 238 subjects who had ongoing evidence of active chronic hepatitis B despite previous treatment with interferon alfa.
+- •Trial 1 was a randomized, double-blind trial of EPIVIR-HBV 100 mg once daily versus placebo for 52 weeks followed by a 16-week no-treatment period in 141 treatment-naive US subjects.
+- •Trial 2 was a randomized, double-blind, 3-arm trial that compared EPIVIR-HBV 25 mg once daily versus EPIVIR-HBV 100 mg once daily versus placebo for 52 weeks in 358 Asian subjects.
+- •Trial 3 was a randomized, partially-blind trial conducted primarily in North America and Europe in 238 subjects who had ongoing evidence of active chronic hepatitis B despite previous treatment with interferon alfa.
   The trial compared EPIVIR-HBV 100 mg once daily for 52 weeks, followed by either EPIVIR-HBV 100 mg or matching placebo once daily for 16 weeks (Arm 1), versus placebo once daily for 68 weeks (Arm 2).
 
 Principal endpoint comparisons for the histologic and serologic outcomes in subjects receiving EPIVIR- HBV (100 mg daily) or placebo in these trials are shown in the following tables.

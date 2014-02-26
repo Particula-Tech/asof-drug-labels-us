@@ -20,10 +20,10 @@ There is insufficient evidence to determine whether re-initiation of EPIVIR-HBV 
 
 EPIVIR-HBV tablets and oral solution contain a lower lamivudine dose than the lamivudine dose in the following drugs used to treat HIV-1 infection:
 
-- EPIVIR® tablets and oral solution,
-- COMBIVIR® (lamivudine/zidovudine) tablets,
-- EPZICOM® (abacavir sulfate and lamivudine) tablets, and
-- TRIZIVIR® (abacavir, lamivudine, and zidovudine) tablets
+- •EPIVIR® tablets and oral solution,
+- •COMBIVIR® (lamivudine/zidovudine) tablets,
+- •EPZICOM® (abacavir sulfate and lamivudine) tablets, and
+- •TRIZIVIR® (abacavir, lamivudine, and zidovudine) tablets
 
 The formulation and dosage of lamivudine in EPIVIR-HBV are not approved for patients co-infected with HBV and HIV.
 If a decision is made to administer lamivudine to such patients, the higher dosage indicated for HIV therapy should be used as part of an appropriate combination regimen, and the prescribing information for EPIVIR, COMBIVIR, EPZICOM, or TRIZIVIR as well as for EPIVIR-HBV should be consulted.

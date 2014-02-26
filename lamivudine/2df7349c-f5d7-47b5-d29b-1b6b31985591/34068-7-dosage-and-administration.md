@@ -34,10 +34,10 @@ There are insufficient data to recommend a specific dosage of EPIVIR-HBV in pedi
 
 ## 2.5 Important Administration Instructions
 
-- EPIVIR-HBV tablets and oral solution may be administered with or without food.
-- The tablets and oral solution may be used interchangeably [see Clinical Pharmacology (12.3)].
-- The oral solution should be used for doses less than 100 mg.
-- EPIVIR-HBV should not be used with other medications that contain lamivudine or medications that contain emtricitabine [see Warnings and Precautions (5.4)].
+- •EPIVIR-HBV tablets and oral solution may be administered with or without food.
+- •The tablets and oral solution may be used interchangeably [see Clinical Pharmacology (12.3)].
+- •The oral solution should be used for doses less than 100 mg.
+- •EPIVIR-HBV should not be used with other medications that contain lamivudine or medications that contain emtricitabine [see Warnings and Precautions (5.4)].
 
 ## 2.6 Assessing Patients During Treatment
 
