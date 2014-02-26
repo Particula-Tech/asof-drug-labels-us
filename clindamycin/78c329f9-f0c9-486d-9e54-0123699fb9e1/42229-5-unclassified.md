@@ -6,4 +6,5 @@ Made in Canada
 
 U.S. Patent 6,387,383 and RE 41,134
 
-05100256
+05100256 Rev.
+03/2012
