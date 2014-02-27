@@ -53,10 +53,10 @@ The dose of theophylline selected for initiation of therapy should be low and, i
 Serum theophylline concentration measurements are readily available and should be used to determine whether the dosage is appropriate.
 Specifically, the serum theophylline concentration should be measured as follows:
 
-1. When initiating therapy to guide final dosage adjustment after titration.
-2. Before making a dose increase to determine whether the serum concentration is sub-therapeutic in a patient who continues to be symptomatic.
-3. Whenever signs or symptoms of theophylline toxicity are present.
-4. Whenever there is a new illness, worsening of a chronic illness or a change in the patient’s treatment regimen that may alter theophylline clearance (e.g., fever >102°F sustained for ≥24 hours, hepatitis, or drugs listed in Table II are added or discontinued).
+1. 1.When initiating therapy to guide final dosage adjustment after titration.
+2. 2.Before making a dose increase to determine whether the serum concentration is sub-therapeutic in a patient who continues to be symptomatic.
+3. 3.Whenever signs or symptoms of theophylline toxicity are present.
+4. 4.Whenever there is a new illness, worsening of a chronic illness or a change in the patient’s treatment regimen that may alter theophylline clearance (e.g., fever >102°F sustained for ≥24 hours, hepatitis, or drugs listed in Table II are added or discontinued).
 
 To guide a dose increase, the blood sample should be obtained at the time of the expected peak serum theophylline concentration; 12 hours after an evening dose or 9 hours after a morning dose at steady-state.
 For most patients, steady-state will be reached after 3 days of dosing when no doses have been missed, no extra doses have been added, and none of the doses have been taken at unequal intervals.
