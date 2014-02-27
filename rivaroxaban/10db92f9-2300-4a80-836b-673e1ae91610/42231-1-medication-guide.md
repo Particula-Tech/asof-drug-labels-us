@@ -189,7 +189,7 @@ Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 Licensed from: Bayer HealthCare AG 51368 Leverkusen, Germany
 
-Revised: January 2014
+Revised: February 2014
 
 © Janssen Pharmaceuticals, Inc. 2011
 

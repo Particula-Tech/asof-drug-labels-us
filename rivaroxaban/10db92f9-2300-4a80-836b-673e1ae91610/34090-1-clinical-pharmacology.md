@@ -164,9 +164,9 @@ There was no change in the pharmacokinetics of either drug.
 
 Drug-Disease Interactions with Drugs that Inhibit Cytochrome P450 3A4 Enzymes and Drug Transport Systems
 
-Based on simulated pharmacokinetic data, patients with renal impairment receiving full dose XARELTO in combination with drugs classified as combined P-gp and weak or moderate CYP3A4 inhibitors may have increases in exposure compared with patients with normal renal function and no inhibitor use, since both pathways of rivaroxaban elimination are affected.
-
-While increases in rivaroxaban exposure can be expected under such conditions, results from an analysis in the ROCKET AF trial, which allowed concomitant use with combined P-gp and weak or moderate CYP3A4 inhibitors (e.g., amiodarone, diltiazem, verapamil, chloramphenicol, cimetidine, and erythromycin), did not show an increase in bleeding in patients with CrCl 30 to <50 mL/min [Hazard Ratio (95% CI): 1.05 (0.77, 1.42)] [see Use in Specific Populations (8.7)].
+In a pharmacokinetic trial, XARELTO was administered as a single dose in subjects with mild (CrCl = 50 to 79 mL/min) or moderate renal impairment (CrCl = 30 to 49 mL/min) receiving multiple doses of erythromycin (a combined P-gp and moderate CYP3A4 inhibitor).
+Compared to XARELTO administered alone in subjects with normal renal function (CrCl >80 mL/min), subjects with mild and moderate renal impairment concomitantly receiving erythromycin reported a 76% and 99% increase in AUCinf and a 56% and 64% increase in Cmax, respectively.
+Similar trends in pharmacodynamic effects were also observed.
 
 Drugs that are Substrates of CYP3A4 and/or Drug Transport Systems
 
