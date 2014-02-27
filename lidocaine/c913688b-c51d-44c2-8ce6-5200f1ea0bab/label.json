@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022114"
+  ],
+  "inn": "lidocaine",
+  "labeler": "Medline Industries, Inc.",
+  "package_ndcs": [
+    "53329-200-57"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "lidocaine hydrochloride",
+      "name": "Zingo"
+    }
+  ],
+  "setid": "c913688b-c51d-44c2-8ce6-5200f1ea0bab",
+  "source": "dailymed"
+}
