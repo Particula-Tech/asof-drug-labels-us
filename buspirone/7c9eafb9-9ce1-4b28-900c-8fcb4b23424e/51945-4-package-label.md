@@ -2,9 +2,9 @@ PRINCIPAL DISPLAY PANEL - 5 mg
 
 NDC 0378-1140-01
 
-busPIRone HCl Tablets, USP 5 mg
+busPIRone Hydrochloride Tablets, USP 5 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Buspirone hydrochloride, USP 5 mg
 
@@ -21,17 +21,17 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-www.mylan.com
+Mylan.com
 
-RM1140A6
+RM1140A7
 
 PRINCIPAL DISPLAY PANEL - 7.5 mg
 
 NDC 0378-1145-01
 
-busPIRone HCl Tablets, USP 7.5 mg
+busPIRone Hydrochloride Tablets, USP 7.5 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Buspirone hydrochloride, USP 5 mg
 
@@ -48,17 +48,17 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-www.mylan.com
+Mylan.com
 
-RM1145A1
+RM1145A2
 
 PRINCIPAL DISPLAY PANEL - 10 mg
 
 NDC 0378-1150-01
 
-busPIRone HCl Tablets, USP 10 mg
+busPIRone Hydrochloride Tablets, USP 10 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Buspirone hydrochloride, USP 10 mg
 
@@ -75,19 +75,19 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-www.mylan.com
+Mylan.com
 
-RM1150A6
+RM1150A7
 
 PRINCIPAL DISPLAY PANEL - 15 mg
 
 NDC 0378-1165-91
 
-busPIRone HCl Tablets, USP 15 mg
+busPIRone Hydrochloride Tablets, USP 15 mg
 
 PHARMACIST: Dispense the accompanying Patient Instruction Sheet to each patient.
 
-Rx only 60 TABLETS
+Rx only 60 Tablets
 
 Each tablet contains: Buspirone hydrochloride, USP 15 mg
 
@@ -104,19 +104,19 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-www.mylan.com
+Mylan.com
 
-RM1165D6
+RM1165D7
 
 PRINCIPAL DISPLAY PANEL - 30 mg
 
 NDC 0378-1175-91
 
-busPIRone HCl Tablets, USP 30 mg
+busPIRone Hydrochloride Tablets, USP 30 mg
 
-PHARMACIST: Dispense the accompanying Patient Instruction Sheet to each patient.
+PHARMACIST: Dispense the accompanying Patient InstructionSheet to each patient.
 
-Rx only 60 TABLETS
+Rx only 60 Tablets
 
 Each tablet contains: Buspirone hydrochloride, USP 30 mg
 
@@ -133,6 +133,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-www.mylan.com
+Mylan.com
 
-RM1175D6
+RM1175D7
