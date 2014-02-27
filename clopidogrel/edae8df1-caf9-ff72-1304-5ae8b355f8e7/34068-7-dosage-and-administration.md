@@ -2,7 +2,7 @@
 
 ## 2.1 Acute Coronary Syndrome
 
-Clopidogrel Tablets can be administered with or without food [see Clinical Pharmacology (12.3)].
+Clopidogrel tablets can be administered with or without food [see Clinical Pharmacology (12.3)].
 
 - For patients with non-ST-elevation ACS (UA/NSTEMI), initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily.
   Initiate aspirin (75 to 325 mg once daily) and continue in combination with clopidogrel tablets [see Clinical Studies (14.1)].

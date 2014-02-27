@@ -19,7 +19,7 @@ Platelet aggregation and bleeding time gradually return to baseline values after
 
 Geriatric Patients
 
-Elderly (≥ 75 years) and young healthy subjects had similar effects on platelet aggregation.
+Elderly (≥75 years) and young healthy subjects had similar effects on platelet aggregation.
 
 Renally-Impaired Patients
 
@@ -45,7 +45,7 @@ Absorption is at least 50%, based on urinary excretion of clopidogrel metabolite
 Effect of Food
 
 Clopidogrel can be administered with or without food.
-In a study in healthy male subjects when Clopidogrel 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
+In a study in healthy male subjects when clopidogrel 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
 The active metabolite AUC0–24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite Cmax.
 Similar results were observed when a clopidogrel 300 mg loading dose was administered with a high-fat breakfast.
 

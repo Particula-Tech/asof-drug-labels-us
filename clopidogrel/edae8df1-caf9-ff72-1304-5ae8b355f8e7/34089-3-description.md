@@ -11,8 +11,8 @@ It is practically insoluble in water at neutral pH but freely soluble at pH 1.
 It also dissolves freely in methanol, dissolves sparingly in methylene chloride, and is practically insoluble in ethyl ether.
 It has a specific optical rotation of about +56°.
 
-Clopidogrel Tablets, USP 75 mg for oral administration are provided as pink, round, biconvex, film coated tablets, engraved “APO” on one side, “CL” over “75” on the other side.
+Clopidogrel tablets, USP 75 mg for oral administration are provided as pink, round, biconvex, film coated tablets, engraved “APO” on one side, “CL” over “75” on the other side.
 The tablets contain 97.875 mg of clopidogrel bisulfate, which is the molar equivalent of 75 mg of clopidogrel base.
 
 Each tablet contains anhydrous lactose, colloidal silicon dioxide, crospovidone, methylcellulose and zinc stearate as inactive ingredients.
-The pink film coating contains red ferric oxide, hydroxypropyl cellulose, hypromellose 2910, polyethylene glycol and titanium dioxide.
+The pink film coating contains hydroxypropyl cellulose, hypromellose, polyethylene glycol, red ferric oxide and titanium dioxide.

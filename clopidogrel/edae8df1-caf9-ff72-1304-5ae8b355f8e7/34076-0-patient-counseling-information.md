@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See Medication Guide (17.6)]
+[See Medication Guide]
 
 ## 17.1 Benefits and Risks
 
@@ -30,13 +30,13 @@ Instruct patients to:
 
 ## 17.5 Concomitant Medications
 
-Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take, including prescription or over-the-counter proton pump inhibitors (e.g., omeprazole), warfarin or NSAIDs [see Warnings and Precautions (5)].
+Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take [see Warnings and Precautions (5) and Drug Interactions (7)].
 
 APOTEX INC.
 
 CLOPIDOGREL TABLETS, USP 75 mg
 
-Manufactured by: Manufactured for:
+Manufactured by Manufactured for
 
 Apotex Inc. Apotex Corp.
 
@@ -44,7 +44,7 @@ Toronto, Ontario Weston, Florida
 
 Canada M9L 1T9 33326
 
-Revised: November 2013
+Revised: January 2014
 
 Rev.
-18
+19
