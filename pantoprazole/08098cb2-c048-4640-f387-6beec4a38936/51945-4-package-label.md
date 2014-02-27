@@ -1,34 +1,30 @@
-PRINCIPAL DISPLAY PANEL – 20 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
 
-NDC 0008-0843-81
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-90 Tablets
+Pfizer NDC 0008-0843-81
 
-PROTONIX® (pantoprazole sodium)
+Protonix® (pantoprazole sodium) delayed-release tablets
 
-Delayed-Release Tablets Equivalent to 20 mg pantoprazole
+20 mg*
 
-20 mg
+*Equivalent to 20 mg pantoprazole
 
-Rx only
+90 Tablets Rx only
 
-Pfizer
+# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Bottle Label
 
-PRINCIPAL DISPLAY PANEL – 40 mg Tablet Bottle Label
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-NDC 0008-0841-81
+Pfizer NDC 0008-0841-81
 
-90 Tablets
+Protonix® (pantoprazole sodium) delayed-release tablets
 
-PROTONIX® (pantoprazole sodium)
+40 mg*
 
-Delayed-Release Tablets Equivalent to 40 mg pantoprazole
+*Equivalent to 40 mg pantoprazole
 
-40 mg
-
-Rx only
-
-Pfizer
+90 Tablets Rx only
 
 PRINCIPAL DISPLAY PANEL - 40 mg Tablet Blister Pack
 
@@ -38,28 +34,28 @@ Protonix® (pantoprazole sodium)
 
 Delayed-Release Tablet equivalent to 40 mg pantoprazole
 
-PAA021304 MADE IN GERMANY
+14158300 MADE IN GERMANY
 
 Wyeth® Phila.
 PA 19101
 
-PRINCIPAL DISPLAY PANEL – 40 mg Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Blister Pack Carton
 
-NDC 0008-0841-99
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-100 Tablets
+Pfizer NDC 0008-0841-99
+
+Protonix® (pantoprazole sodium) delayed-release tablets
+
+40 mg*
+
+*Equivalent to 40 mg pantoprazole
 
 10 Redipak® Blister Strips of 10 Tablets
 
-PROTONIX® (pantoprazole sodium) Delayed-Release Tablets
+100 Tablets Rx only
 
-equivalent to 40 mg pantoprazole
-
-Rx only
-
-Distributed by Pfizer Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc, Philadelphia, PA 19101
-
-PRINCIPAL DISPLAY PANEL – 40 mg Tablet Blister Pack
+PRINCIPAL DISPLAY PANEL - 40 mg Tablet Sample Blister Pack
 
 NDC 0008-0841-17
 
@@ -75,7 +71,7 @@ Visit www.protonix.com for more information.
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL – 40 mg Tablet Blister Pack Carton
+PRINCIPAL DISPLAY PANEL - 40 mg Tablet Sample Carton
 
 NDC 0008-0841-17
 
@@ -91,7 +87,7 @@ www.protonix.com
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL – 40 mg Granule Packet
+PRINCIPAL DISPLAY PANEL - 40 mg Granule Packet
 
 NDC 0008-0844-01
 
@@ -105,7 +101,7 @@ USA F.1/0813/6090377
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL – 40 mg Granule Packet Carton
+PRINCIPAL DISPLAY PANEL - 40 mg Granule Packet Carton
 
 Pfizer
 
