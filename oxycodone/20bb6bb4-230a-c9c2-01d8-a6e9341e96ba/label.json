@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA202116"
+  ],
+  "inn": "oxycodone",
+  "labeler": "Alvogen, Inc.",
+  "package_ndcs": [
+    "47781-263-01",
+    "47781-263-05",
+    "47781-264-01",
+    "47781-264-05",
+    "47781-265-01",
+    "47781-265-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "oxycodone hydrochloride",
+      "name": "Oxycodone hydrochloride"
+    }
+  ],
+  "setid": "20bb6bb4-230a-c9c2-01d8-a6e9341e96ba",
+  "source": "dailymed"
+}
