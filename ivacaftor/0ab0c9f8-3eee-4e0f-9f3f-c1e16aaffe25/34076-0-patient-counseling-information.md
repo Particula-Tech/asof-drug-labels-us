@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 ## 17.1 Transaminase (ALT or AST) Elevations and Monitoring
 
 Inform patients that elevation in liver tests have occurred in patients treated with KALYDECO.
@@ -9,7 +11,7 @@ Liver function tests will be performed prior to initiating KALYDECO, every 3 mon
 
 Ask patients to tell you all the medications they are taking including any herbal supplements or vitamins.
 Co-administration of KALYDECO with strong CYP3A inducers (e.g., rifampin, St. John's Wort) is not recommended as they may reduce the therapeutic effectiveness of KALYDECO.
-Reduction of the dose of KALYDECO to 150 mg twice-a-week is recommended when co-administered with strong CYP3A inhibitors, such as ketoconazole.
+Reduction of the dose of KALYDECO to 150 mg twice a week is recommended when co-administered with strong CYP3A inhibitors, such as ketoconazole.
 Dose reduction to 150 mg once daily is recommended when co-administered with moderate CYP3A inhibitors, such as fluconazole.
 Food containing grapefruit or Seville oranges should be avoided [see Drug Interactions (7.1, 7.2) and Clinical Pharmacology (12.3)].
 
@@ -21,8 +23,8 @@ KALYDECO has not been studied in patients with severe hepatic impairment (Child-
 When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients with severe hepatic impairment at a dose of 150 mg given once daily or less frequently.
 No dose adjustment is recommended for patients with mild hepatic impairment (Child-Pugh Class A, score 5-6) [see Clinical Pharmacology (12.3)].
 
-## 17.4 Take with Fat-containing Food
+## 17.4 Take with Fat-Containing Food
 
-Inform your patients that KALYDECO is best absorbed by the body when taken with fatty food.
+Inform your patients that KALYDECO is best absorbed by the body when taken with fat-containing food.
 A typical CF diet will satisfy this requirement.
 Examples include eggs, butter, peanut butter, cheese pizza, etc.

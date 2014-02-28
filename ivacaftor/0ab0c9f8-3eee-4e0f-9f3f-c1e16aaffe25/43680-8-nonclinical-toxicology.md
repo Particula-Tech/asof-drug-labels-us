@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two-year studies were conducted in mice and rats to assess carcinogenic potential of KALYDECO.
 No evidence of tumorigenicity was observed in mice or rats at ivacaftor oral doses up to 200 mg/kg/day and 50 mg/kg/day, respectively (approximately equivalent to and 3 to 5 times the MRHD, respectively, based on summed AUCs of ivacaftor and its metabolites).

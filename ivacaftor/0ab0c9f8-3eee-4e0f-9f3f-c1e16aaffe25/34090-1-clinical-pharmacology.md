@@ -4,19 +4,26 @@
 
 Ivacaftor is a potentiator of the CFTR protein.
 The CFTR protein is a chloride channel present at the surface of epithelial cells in multiple organs.
-Ivacaftor facilitates increased chloride transport by potentiating the channel-open probability (or gating) of the G551D-CFTR protein.
+Ivacaftor facilitates increased chloride transport by potentiating the channel-open probability (or gating) of the CFTR protein.
 
-In vitro, ivacaftor increased CFTR-mediated transepithelial current (IT) in rodent cells expressing G551D-CFTR protein following addition of a cyclic adenosine monophosphate (cAMP) agonist with an EC50 of 100 ± 47 nM; however, ivacaftor did not increase IT in the absence of cAMP agonist.
-Ivacaftor also increased IT in human bronchial epithelial cells expressing G551D-CFTR protein following addition of a cAMP agonist by 10-fold with an EC50 of 236 ±200 nM.
+In vitro, ivacaftor increased CFTR-mediated transepithelial current (IT) in rodent cells expressing the G551D-CFTR protein following addition of a cyclic adenosine monophosphate (cAMP) agonist with an EC50 of 100 ± 47 nM; however, ivacaftor did not increase IT in the absence of cAMP agonist.
+Ivacaftor also increased IT in human bronchial epithelial cells expressing G551D-CFTR protein following addition of a cAMP agonist by 10-fold with an EC50 of 236 ± 200 nM.
 Ivacaftor increased the open probability of G551D-CFTR protein in single channel patch clamp experiments using membrane patches from rodent cells expressing G551D-CFTR protein by 6-fold versus untreated cells after addition of PKA and ATP.
+In addition to G551D-CFTR, ivacaftor increased the channel-open probability of other mutant CFTR forms expressed in rodent cells, resulting in enhanced CFTR-mediated IT.
+These mutant CFTR forms included G178R-, S549N-, S549R-, G551S-, G970R-, G1244E-, S1251N-, S1255P-, and G1349D-CFTR.
+In vitro responses do not necessarily correspond to in vivo pharmacodynamic response or clinical benefit.
 
 ## 12.2 Pharmacodynamics
 
 Sweat Chloride Evaluation
 
-In clinical trials in patients with the G551D mutation in the CFTR gene, KALYDECO led to statistically significant reductions in sweat chloride concentration.
-In two randomized, double-blind, placebo-controlled clinical trials (one in patients 12 and older and the other in patients 6-11 years of age), the mean change in sweat chloride from baseline through week 24 was -48 mmol/L (95% CI -51, -45) and -54 mmol/L (95% CI -62, -47) respectively.
+Changes in sweat chloride response to KALYDECO were evaluated in four clinical trials.
+In two randomized, double-blind, placebo-controlled clinical trials in patients with a G551D mutation in the CFTR gene, one in patients 12 and older (Trial 1) and the other in patients 6-11 years of age (Trial 2), the treatment difference (between KALYDECO and placebo) in mean change in sweat chloride from baseline through Week 24 was -48 mmol/L (95% CI -51, -45) and -54 mmol/L (95% CI -62, -47), respectively.
 These changes persisted through 48 weeks.
+In a 16-week randomized, double-blind, placebo-controlled, parallel-group clinical trial in patients with CF age 12-years and older who were homozygous for the F508del mutation in the CFTR gene (Trial 3), the treatment difference in mean change in sweat chloride from baseline through 8 weeks of treatment was -3 mmol/L (95% CI -6, -0.2).
+In a two-part, randomized, double-blind, placebo-controlled, crossover clinical trial in patients with CF who had a G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene (Trial 4), the treatment difference in mean change in sweat chloride from baseline through 8 weeks of treatment was -49 mmol/L (95% CI -57, -41).
+In Trial 4, mean changes in sweat chloride for the mutations for which KALYDECO is indicated ranged from -51 to -78, whereas the range for individual subjects with the G970R mutations was -1 to -11 mmol/L.
+
 There was no direct correlation between decrease in sweat chloride levels and improvement in lung function (FEV1).
 
 ECG Evaluation
@@ -30,14 +37,14 @@ The pharmacokinetics of ivacaftor is similar between healthy adult volunteers an
 
 After oral administration of a single 150 mg dose to healthy volunteers in a fed state, peak plasma concentrations (Tmax) occurred at approximately 4 hours, and the mean (±SD) for AUC and Cmax were 10600 (5260) ng*hr/mL and 768 (233) ng/mL, respectively.
 
-After every 12 hour dosing, steady-state plasma concentrations of ivacaftor were reached by days 3 to 5, with an accumulation ratio ranging from 2.2 to 2.9.
+After every 12-hour dosing, steady-state plasma concentrations of ivacaftor were reached by days 3 to 5, with an accumulation ratio ranging from 2.2 to 2.9.
 
 Absorption
 
 The exposure of ivacaftor increased approximately 2- to 4-fold when given with food containing fat.
 Therefore, KALYDECO should be administered with fat-containing food.
 Examples of fat-containing foods include eggs, butter, peanut butter, and cheese pizza.
-The median (range) tmax is approximately 4.0 (3.0; 6.0) hours in the fed state.
+The median (range) Tmax is approximately 4.0 (3.0; 6.0) hours in the fed state.
 
 Distribution
 
@@ -69,7 +76,7 @@ Special populations
 Hepatic impairment
 
 Patients with moderately impaired hepatic function (Child-Pugh Class B, score 7 to 9) had similar ivacaftor Cmax, but an approximately two-fold increase in ivacaftor AUC0-∞ compared with healthy subjects matched for demographics.
-Therefore, a reduced KALYDECO dose of 150 mg once daily is recommended for patients with moderate hepatic impairment.
+Based on simulations of these results, a reduced KALYDECO dose of 150 mg once daily is recommended for patients with moderate hepatic impairment.
 The impact of mild hepatic impairment (Child-Pugh Class A) on pharmacokinetics of ivacaftor has not been studied, but the increase in ivacaftor AUC0-∞ is expected to be less than two-fold.
 Therefore, no dose adjustment is necessary for patients with mild hepatic impairment.
 The impact of severe hepatic impairment (Child-Pugh Class C, score 10-15) on pharmacokinetics of ivacaftor has not been studied.
@@ -78,8 +85,8 @@ When benefits are expected to outweigh the risks, KALYDECO should be used with c
 
 Renal impairment
 
-KALYDECO has not been studied in patients with mild, moderate or severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or in patients with end stage renal disease.
-No dose adjustments are recommended for mild and moderate renal impairment patients because of minimal elimination of ivacaftor and its metabolites in urine (only 6.6% of total radioactivity was recovered in the urine in a human PK study); however, caution is recommended when administering KALYDECO to patients with severe renal impairment or end stage renal disease.
+KALYDECO has not been studied in patients with mild, moderate or severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or in patients with end-stage renal disease.
+No dose adjustments are recommended for mild and moderate renal impairment patients because of minimal elimination of ivacaftor and its metabolites in urine (only 6.6% of total radioactivity was recovered in the urine in a human PK study); however, caution is recommended when administering KALYDECO to patients with severe renal impairment or end-stage renal disease.
 
 Gender
 
@@ -94,10 +101,11 @@ Dosing recommendations based on clinical studies or potential drug interactions 
 
 Potential for Ivacaftor to Affect Other Drugs
 
-In vitro studies showed that ivacaftor is a weak inhibitor of CYP3A and has potential to inhibit P-gp at therapeutic concentrations, and may also inhibit the CYP2C8 and CYP2C9 isozymes.
-Metabolite M1, but not M6, also has potential to inhibit CYP3A and P-gp.
-Ivacaftor, M1, and M6 were not inducers of CYP isozymes.
-Dosing recommendations for co-administered drugs following administration with KALYDECO are shown in Figure 1.
+Based on in vitro results, ivacaftor and metabolite M1 have the potential to inhibit CYP3A and P-gp.
+Clinical studies showed that KALYDECO is a weak inhibitor of CYP3A and P-gp, but not an inhibitor of CYP2C8.
+In vitro studies suggest that ivacaftor and M1 may inhibit CYP2C9.
+In vitro, ivacaftor, M1, and M6 were not inducers of CYP isozymes.
+Dosing recommendations for co-administered drugs with KALYDECO are shown in Figure 1.
 
 Figure 1: Impact of KALYDECO on Other Drugs
 
@@ -106,6 +114,7 @@ Note: The data obtained with substrates but without co-administration of KALYDEC
 Potential for Other Drugs to Affect Ivacaftor
 
 In vitro studies showed that ivacaftor and metabolite M1 were substrates of CYP3A enzymes (i.e., CYP3A4 and CYP3A5).
+Exposure to ivacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.3) and Drug Interactions (7)].
 KALYDECO dosing recommendations for co-administration with CYP3A inhibitors or inducers are shown in Figure 2.
 
 Figure 2: Impact of Other Drugs on KALYDECO

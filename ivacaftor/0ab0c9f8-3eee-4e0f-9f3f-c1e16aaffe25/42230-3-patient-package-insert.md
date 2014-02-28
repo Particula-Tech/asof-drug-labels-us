@@ -1,6 +1,4 @@
-Patient Information is perforated for dispensing to the patient.
-
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 KALYDECO (kuh-LYE-deh-koh) (ivacaftor) Film-Coated Tablets
 
@@ -10,10 +8,10 @@ This information does not take the place of talking to your doctor about your me
 
 What is KALYDECO?
 
-KALYDECO is a prescription medicine used for the treatment of cystic fibrosis (CF) in patients age 6 years and older who have a certain mutation in their CF gene called the G551D mutation.
+KALYDECO is a prescription medicine used for the treatment of cystic fibrosis (CF) in patients age 6 years and older who have one of the following mutations in their CF gene: G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, or S549R.
 
 KALYDECO is not for use in people with CF due to other mutations in the CF gene.
-It is not effective in CF patients with two copies of the F508del mutation (F508del/F508del) in the CF gene.
+KALYDECO is not effective in CF patients with two copies of the F508del mutation (F508del/F508del) in the CF gene.
 
 It is not known if KALYDECO is safe and effective in children under 6 years of age.
 
@@ -42,7 +40,7 @@ Before you take KALYDECO, tell your doctor if you:
 
 KALYDECO may affect the way other medicines work, and other medicines may affect how KALYDECO works.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements as the dose of KALYDECO may need to be adjusted when taken with certain medications.
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements, as the dose of KALYDECO may need to be adjusted when taken with certain medications.
 
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
@@ -57,8 +55,8 @@ Keep a list of them to show your doctor and pharmacist when you get a new medici
 How should I take KALYDECO?
 
 - Take KALYDECO exactly as your doctor tells you to take it.
-- Always take KALYDECO with fatty food.
-  Examples of fat-containing food include eggs, butter, peanut butter, cheese pizza, etc.
+- Always take KALYDECO with fat-containing food.
+  Examples of fat-containing foods include eggs, butter, peanut butter, cheese pizza, etc.
 
 Your doses of KALYDECO should be taken 12 hours apart.
 
@@ -130,7 +128,9 @@ For more information, go to www.kalydeco.com or call 1-877-752-5933.
 
 What are the ingredients in KALYDECO?
 
-Active ingredient: ivacaftor Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
+Active ingredient: ivacaftor
+
+Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
 
 The tablet film coat contains: carnauba wax, FD&C Blue #2, PEG 3350, polyvinyl alcohol, talc, and titanium dioxide.
 
@@ -138,10 +138,9 @@ The printing ink contains: ammonium hydroxide, iron oxide black, propylene glyco
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Vertex Pharmaceuticals Incorporated 130 Waverly Street Cambridge, MA 02139
+Manufactured for: Vertex Pharmaceuticals Incorporated 50 Northern Avenue Boston, MA 02210
 
-Approved August 2012
+Approved February 2014
 
-KALYDECO is a trademark of Vertex Pharmaceuticals Incorporated.
-VERTEX and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2012 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-01
+KALYDECO, VERTEX, and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
+All other trademarks referenced herein are the property of their respective owners. ©2014 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-02

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The active ingredient in KALYDECO tablets is ivacaftor which has the following chemical name: N-(2,4-di-tert-butyl-5-hydroxyphenyl)-1,4-dihydro-4-oxoquinoline-3-carboxamide.
+The active ingredient in KALYDECO tablets is ivacaftor, which has the following chemical name: N-(2,4-di-tert-butyl-5-hydroxyphenyl)-1,4-dihydro-4-oxoquinoline-3-carboxamide.
 Its molecular formula is C24H28N2O3 and its molecular weight is 392.49.
 Ivacaftor has the following structural formula:
 

@@ -17,8 +17,7 @@ Caution should be exercised when KALYDECO is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of KALYDECO in patients 6 to 17 years of age with CF who have a G551D mutation in the CFTR gene has been demonstrated in 2 placebo-controlled clinical trials.
-Trial 1 evaluated 161 patients with CF who were 12 years of age or older and Trial 2 evaluated 52 patients with CF who were 6 to 11 years of age [see Clinical Studies (14.1)].
+The safety and efficacy of KALYDECO in patients 6 to 17 years of age with CF who have a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene has been demonstrated [see Adverse Reactions (6) and Clinical Studies (14)].
 
 The safety and efficacy of KALYDECO in patients with CF younger than age 6 years have not been established.
 
@@ -30,14 +29,14 @@ Clinical trials of KALYDECO did not include sufficient numbers of patients 65 ye
 ## 8.6 Hepatic Impairment
 
 No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). A reduced dose of 150 mg once daily is recommended in patients with moderate hepatic impairment (Child-Pugh Class B). Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C) but exposure is expected to be higher than in patients with moderate hepatic impairment.
-Therefore, use with caution at a dose of 150 mg once daily or less frequently in patients with severe hepatic impairment after weighing the risks and benefit of treatment [see Pharmacokinetics (12.3)].
+Therefore, use with caution at a dose of 150 mg once daily or less frequently in patients with severe hepatic impairment after weighing the risks and benefits of treatment [see Pharmacokinetics (12.3)].
 
 ## 8.7 Renal Impairment
 
-KALYDECO has not been studied in patients with mild, moderate, or severe renal impairment or in patients with end stage renal disease.
-No dose adjustment is necessary for patients with mild to moderate renal impairment; however, caution is recommended while using KALYDECO in patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end stage renal disease.
+KALYDECO has not been studied in patients with mild, moderate, or severe renal impairment or in patients with end-stage renal disease.
+No dose adjustment is necessary for patients with mild to moderate renal impairment; however, caution is recommended while using KALYDECO in patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end-stage renal disease.
 
 ## 8.8 Patients with CF who are Homozygous for the F508del Mutation in the CFTR Gene
 
-Efficacy results from a double-blind, placebo-controlled trial in patients with CF who are homozygous for the F508del mutation in the CFTR gene showed no statistically significant difference in forced expiratory volume exhaled in one second (FEV1) over 16 weeks of KALYDECO treatment compared to placebo [see Clinical Studies (14.2)].
+Efficacy results from a double-blind, placebo-controlled trial in patients with CF who are homozygous for the F508del mutation in the CFTR gene showed no statistically significant difference in forced expiratory volume exhaled in one second (FEV1) over 16 weeks of KALYDECO treatment compared to placebo [see Clinical Studies (14.3)].
 Therefore, KALYDECO should not be used in patients homozygous for the F508del mutation in the CFTR gene.

@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-None known.
+None

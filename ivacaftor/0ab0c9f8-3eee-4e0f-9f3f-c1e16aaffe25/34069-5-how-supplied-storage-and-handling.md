@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-KALYDECO™ (ivacaftor) is supplied as light blue, film-coated, capsule-shaped tablets containing 150 mg of ivacaftor.
+KALYDECO® (ivacaftor) is supplied as light blue, film-coated, capsule-shaped tablets containing 150 mg of ivacaftor.
 Each tablet is printed with the characters "V 150" on one side and plain on the other, and is packaged as follows:
 
 |  | 56-count carton (contains 4 individual blister cards of 14 tablets per card) | NDC 51167-200-01 |
