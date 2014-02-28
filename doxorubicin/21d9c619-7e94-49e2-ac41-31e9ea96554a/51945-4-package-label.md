@@ -13,7 +13,7 @@ FOR INTRAVENOUS INFUSION ONLY
 Refrigerate, 2°-8°C (36°-46°F).
 Avoid freezing.
 
-Janssen
+janssen
 
 alza
 

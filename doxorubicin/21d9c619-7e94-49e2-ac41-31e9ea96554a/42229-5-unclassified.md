@@ -1,8 +1,8 @@
-Manufactured by: Ben Venue Laboratories, Inc. Bedford, OH 44146
+Manufactured by: ALZA Corporation Bedford, OH 44146
 
 Manufactured for: Janssen Products, LP Horsham, PA 19044 © Janssen Products, LP 2010
 
-Revised August 2013
+Revised January 2014
 
 An ALZA STEALTH® Technology Product
 
