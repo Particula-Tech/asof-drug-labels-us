@@ -1,14 +1,14 @@
 # CLINICAL STUDIES
 
 Cryptococcal meningitis: In a multicenter study comparing fluconazole (200 mg/day) to amphotericin B (0.3 mg/kg/day) for treatment of cryptococcal meningitis in patients with AIDS, a multivariate analysis revealed three pretreatment factors that predicted death during the course of therapy: abnormal mental status, cerebrospinal fluid cryptococcal antigen titer greater than 1:1024, and cerebrospinal fluid white blood cell count of less than 20 cells/mm3.
-Mortality among high risk patients was 33% and 40% for amphotericin B and fluconazole patients, respectively (p=0.58), with overall deaths 14% (9 of 63 subjects) and 18% (24 of 131 subjects) for the 2 arms of the study (p =0.48).
+Mortality among high risk patients was 33% and 40% for amphotericin B and fluconazole patients, respectively (p=0.58), with overall deaths 14% (9 of 63 subjects) and 18% (24 of 131 subjects) for the 2 arms of the study (p=0.48).
 Optimal doses and regimens for patients with acute cryptococcal meningitis and at high risk for treatment failure remain to be determined.
-(Saag, et al. N Engl J Med 1992; 326:83-9.)
+(Saag, et al. N Engl JMed 1992; 326:83-9.)
 
-Vaginal candidiasis: Two adequate and well-controlled studies were conducted in the U.S. using the 150 mg tablet.
+Vaginal candidiasis: Two adequate and well-controlled studies were conducted in the U.S. usingthe 150 mg tablet.
 In both, the results of the fluconazole regimen were comparable to the control regimen (clotrimazole or miconazole intravaginally for 7 days) both clinically and statistically at the one month post-treatment evaluation.
 
-The therapeutic cure rate, defined as a complete resolution of signs and symptoms of vaginal candidiasis (clinical cure), along with a negative KOH examination and negative culture for Candida (microbiologic eradication), was 55% in both the fluconazole group and the vaginal products group.
+The therapeutic cure rate, defined as a complete resolution of signs and symptoms of vaginal candidiasis (clinical cure), along with a negative KOH examination and negative culture for Candida (microbiologic eradication),was 55% in both the fluconazole group and the vaginal products group.
 
 |  | Fluconazole PO 150 mg tablet | Vaginal Product qhs x 7 days |
 | --- | --- | --- |
@@ -56,7 +56,9 @@ Mycologically, 76% of fluconazole treated patients had the infecting organism er
 | --- | --- | --- |
 | Enrolled | 96 | 90 |
 | Clinical Cure | 76/88 (86%) | 36/78 (46%) |
-| Mycological eradicationSubjects without follow-up cultures for any reason were considered nonevaluable for mycological response. | 55/72 (76%) | 6/54 (11%) |
+| Mycological eradication* | 55/72 (76%) | 6/54 (11%) |
+
+* Subjects without follow-up cultures for any reason were considered nonevaluable for mycological response.
 
 The proportion of patients with clinical relapse 2 weeks after the end of treatment was 14% for subjects receiving fluconazole and 16% for subjects receiving nystatin.
-At 4 weeks after the end of treatment, the percentages of patients with clinical relapse were 22% for fluconazole and 23% for nystatin.
+At 4 weeks after the end of treatment, the percentages of patients with clinical relapse were 22% for fluconazole and 23% for nystatin

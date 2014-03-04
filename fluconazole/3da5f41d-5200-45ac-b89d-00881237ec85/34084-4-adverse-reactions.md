@@ -4,7 +4,7 @@ Fluconazole is generally well tolerated.
 
 In some patients, particularly those with serious underlying diseases such as AIDS and cancer, changes in renal and hematological function test results and hepatic abnormalities have been observed during treatment with fluconazole and comparative agents, but the clinical significance and relationship to treatment is uncertain.
 
-## In Patients Receiving a Single Dose for Vaginal Candidiasis:
+In Patients Receiving a Single Dose for Vaginal Candidiasis:
 
 During comparative clinical studies conducted in the United States, 448 patients with vaginal candidiasis were treated with fluconazole, 150 mg single dose.
 The overall incidence of side effects possibly related to fluconazole was 26%.
@@ -14,7 +14,7 @@ Other side effects reported with an incidence equal to or greater than 1% includ
 Most of the reported side effects were mild to moderate in severity.
 Rarely, angioedema and anaphylactic reaction have been reported in marketing experience.
 
-## In Patients Receiving Multiple Doses for Other Infections:
+In Patients Receiving Multiple Doses for Other Infections:
 
 Sixteen percent of over 4000 patients treated with fluconazole in clinical trials of 7 days or more experienced adverse events.
 Treatment was discontinued in 1.5% of patients due to adverse clinical events and in 1.3% of patients due to laboratory test abnormalities.
@@ -63,7 +63,7 @@ Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
 
 Skin and Appendages: Acute generalized exanthematous-pustulosis, drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis (see WARNINGS), alopecia.
 
-## Adverse Reactions in Children:
+Adverse Reactions in Children:
 
 The pattern and incidence of adverse events and laboratory abnormalities recorded during pediatric clinical trials are comparable to those seen in adults.
 
@@ -73,10 +73,9 @@ The most commonly reported events were vomiting (5%), abdominal pain (3%), nause
 Treatment was discontinued in 2.3% of patients due to adverse clinical events and in 1.4% of patients due to laboratory test abnormalities.
 The majority of treatment-related laboratory abnormalities were elevations of transaminases or alkaline phosphatase.
 
-Percentage of Patients With Treatment-Related Side Effects
-
-|  | Fluconazole (N=577) | Comparative Agents (N=451) |
+| Percentage of Patients With Treatment-Related Side Effects |  |  |
 | --- | --- | --- |
+|  | Fluconazole(N=577) | Comparative Agents (N=451) |
 | With any side effect | 13.0 | 9.3 |
 | Vomiting | 5.4 | 5.1 |
 | Abdominal pain | 2.8 | 1.6 |
