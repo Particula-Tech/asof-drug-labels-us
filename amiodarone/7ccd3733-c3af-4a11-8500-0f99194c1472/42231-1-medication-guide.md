@@ -185,13 +185,13 @@ Inactive Ingredients: colloidal silicon dioxide, corn starch, D&C yellow No. 10 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Rx only Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 26110 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
+Rx only Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-Revised: June 2013
+Revised: February 2014
 
 Tagamet® is a registered trademark of SmithKline Beecham Pharmaceuticals Co.
 
 Claritin® is a registered trademark of Schering Corporation.
 
 Alavert® is a registered trademark of Wyeth.
-71008-0613-9
+71008-0214-10

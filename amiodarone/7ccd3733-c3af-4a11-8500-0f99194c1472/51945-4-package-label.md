@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
 TARO
 
@@ -6,31 +6,27 @@ NDC 51672-4055-6
 
 30 Tablets
 
-Amiodarone HCl Tablets
-
-100 mg
+Amiodarone HCl Tablets 100 mg
 
 Dispense the accompanying medication guide to each patient.
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
 TARO
 
-NDC 51672-4025-4
+NDC 51672-4025-3
 
-60 Tablets
+1000 Tablets
 
-Amiodarone HCl Tablets
+Amiodarone HCl Tablets 200 mg
 
-200 mg
-
-Dispense with Medication Guide
+Dispense the accompanying medication guide to each patient.
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 400 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 400 mg Tablet Bottle Label
 
 TARO
 
@@ -38,10 +34,8 @@ NDC 51672-4057-6
 
 30 Tablets
 
-Amiodarone HCl Tablets
+Amiodarone HCl Tablets 400 mg
 
-400 mg
-
-Dispense with Medication Guide
+Dispense the accompanying medication guide to each patient.
 
 Rx only
