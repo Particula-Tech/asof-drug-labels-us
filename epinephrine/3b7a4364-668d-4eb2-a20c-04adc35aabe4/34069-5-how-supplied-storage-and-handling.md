@@ -1,10 +1,19 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Each carton contains 25 single-use vials containing 1 mL Adrenalin® (epinephrine injection, USP) solution 1 mg/mL (1:1000) in a 3 mL clear glass vial.
+Adrenalin® 1 mL Single-Use Vials:
 
-NDC 42023-159-25 3 mL vial
+- Each carton contains 25 single-use vials containing 1 mL Adrenalin® (epinephrine injection, USP) solution 1 mg/mL (1:1000) in a 3 mL clear glass vial.
+- NDC 42023-159-25 1 mL vial
 
-Store between 20°C to 25°C (68°F to 77°F).
+Adrenalin® 30 mL Multi-Dose Vials:
+
+- Each carton contains either 1 multiple-dose vial or 10 multiple-dose vials containing 30 mL Adrenalin® (epinephrine injection, USP) solution 1 mg/mL (1:1000) in a 36 mL amber glass vial.
+- NDC 42023-168-01 30 mL vial, pack of 1
+- NDC 42023-168-10 30 mL vial, pack of 10
+
+Vial and contents must be discarded 30 days after initial use.
+
+Store between 20° to 25°C (68° to 77°F).
 (See USP Controlled Room Temperature.)
 Epinephrine is light sensitive.
 Protect from light and freezing.

@@ -12,7 +12,7 @@ Through its action on beta-adrenergic receptors, epinephrine causes bronchial sm
 
 Epinephrine also alleviates pruritus, urticaria, and angioedema and may relieve gastrointestinal and genitourinary symptoms associated with anaphylaxis because of its relaxer effects on the smooth muscle of the stomach, intestine, uterus and urinary bladder.
 
-Epinephrine increases glycogenolysis, reduces glucose up take by tissues, and inhibits insulin release in the pancreas, resulting in hyperglycemia and increased blood lactic acid [see Warnings and Precautions (5.3)].
+Epinephrine increases glycogenolysis, reduces glucose up take by tissues, and inhibits insulin release in the pancreas, resulting in hyperglycemia and increased blood lactic acid [see Warnings and Precautions (5.4)].
 
 Epinephrine causes mydriasis when administered intraocularly or parenterally.
 

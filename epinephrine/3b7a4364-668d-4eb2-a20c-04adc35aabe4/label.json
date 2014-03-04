@@ -1,11 +1,14 @@
 {
   "application_numbers": [
-    "NDA204200"
+    "NDA204200",
+    "NDA204640"
   ],
   "inn": "epinephrine",
   "labeler": "JHP Pharmaceuticals LLC",
   "package_ndcs": [
-    "42023-159-25"
+    "42023-159-25",
+    "42023-168-01",
+    "42023-168-10"
   ],
   "products": [
     {

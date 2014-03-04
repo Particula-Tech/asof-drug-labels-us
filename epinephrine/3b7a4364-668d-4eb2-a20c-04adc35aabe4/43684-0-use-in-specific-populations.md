@@ -30,7 +30,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 Clinical use data support weight-based dosing for treatment of anaphylaxis in pediatric patients, and other reported clinical experience with the use of epinephrine suggests that the adverse reactions seen in children are similar in nature and extent to those both expected and reported in adults.
 
 The safety and effectiveness of epinephrine (at a dilution of 1:100,000 to 1:400,000) for induction and maintenance of mydriasis during intraocular surgery have been established in pediatric patients.
-Use of Adrenalin for induction and maintenance of mydriasis during intraocular surgery in pediatric patients is supported by adequate and well controlled studies in adults and uncontrolled studies in pediatric patients.
+Use of Adrenalin® for induction and maintenance of mydriasis during intraocular surgery in pediatric patients is supported by adequate and well controlled studies in adults and uncontrolled studies in pediatric patients.
 
 ## 8.5 Geriatric Use
 
