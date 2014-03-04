@@ -63,7 +63,7 @@ In a separate study, a gastric NE-cell tumor without concomitant ECL-cell prolif
 Pantoprazole peak serum concentration (Cmax) and area under the serum concentration-time curve (AUC) increase in a manner proportional to intravenous doses from 10 mg to 80 mg.
 Pantoprazole does not accumulate and its pharmacokinetics are unaltered with multiple daily dosing.
 Following the administration of PROTONIX I.V. for Injection, the serum concentration of pantoprazole declines biexponentially with a terminal elimination half-life of approximately one hour.
-In CYP2C19 extensive metabolizers [see Clinical Pharmacology (12.5)] with normal liver function receiving a 40 mg dose of PROTONIX I.V. for Injection by constant rate over 15 minutes, the peak concentration (Cmax) is 5.52 ±1.42 mcg/mL and the total area under the plasma concentration versus time curve (AUC) is 5.4 ±1.5 mcg• hr/mL.
+In CYP2C19 extensive metabolizers [see Clinical Pharmacology (12.5)] with normal liver function receiving a 40 mg dose of PROTONIX I.V. for Injection by constant rate over 15 minutes, the peak concentration (Cmax) is 5.52 ±1.42 mcg/mL and the total area under the plasma concentration versus time curve (AUC) is 5.4 ±1.5 mcg∙ hr/mL.
 The total clearance is 7.6-14.0 L/h.
 
 ### Distribution

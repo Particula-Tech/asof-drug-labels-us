@@ -62,7 +62,7 @@ Immune System Disorders: anaphylaxis (including anaphylactic shock)
 
 Investigations: weight changes
 
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN), and angioedema (Quincke’s edema)
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN), and angioedema (Quincke's edema)
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 

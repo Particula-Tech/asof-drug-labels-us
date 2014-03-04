@@ -5,7 +5,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 Parenteral routes of administration other than intravenous are not recommended.
 
 PROTONIX I.V. for Injection may be administered intravenously through a dedicated line or through a Y-site.
-The intravenous line should be flushed before and after administration of PROTONIX I.V. for Injection with either 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer’s Injection, USP.
+The intravenous line should be flushed before and after administration of PROTONIX I.V. for Injection with either 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
 When administered through a Y-site, PROTONIX I.V. for Injection is compatible with the following solutions: 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
 
 Midazolam HCl has been shown to be incompatible with Y-site administration of PROTONIX I.V. for Injection.

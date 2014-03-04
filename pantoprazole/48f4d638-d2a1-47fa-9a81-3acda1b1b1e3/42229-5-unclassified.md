@@ -7,7 +7,7 @@ A multicenter, double-blind, two-period placebo-controlled study was conducted t
 Gastroesophageal reflux disease (GERD) patients (n=65, 26 to 64 years; 35 female; 9 Black, 11 Hispanic, 44 White, 1 other) with a history of erosive esophagitis were randomized to receive either 20 or 40 mg of oral pantoprazole once per day for 10 days (period 1), and then were switched in period 2 to either daily intravenous pantoprazole or placebo for 7 days, matching their respective dose level from period 1.
 Patients were administered all test medication with a light meal.
 Maximum acid output (MAO) and basal acid output (BAO) were determined 24 hours following the last day of oral medication (day 10), the first day (day 1) of intravenous administration and the last day of intravenous administration (day 7).
-MAO was estimated from a 1 hour continuous collection of gastric contents following subcutaneous injection of 6.0 μg/kg of pentagastrin.
+MAO was estimated from a 1 hour continuous collection of gastric contents following subcutaneous injection of 6.0 µg/kg of pentagastrin.
 
 This study demonstrated that, after 10 days of repeated oral administration followed by 7 days of intravenous administration, the oral and intravenous dosage forms of PROTONIX 40 mg are similar in their ability to suppress MAO and BAO in patients with GERD and a history of erosive esophagitis (see Table 3).
 Also, patients on oral PROTONIX who were switched to intravenous placebo experienced a significant increase in acid output within 48 hours of their last oral dose (see Table 3).
@@ -29,7 +29,7 @@ Study 1 was a multicenter, double-blind, placebo-controlled, study of the pharma
 Patients with GERD and a history of erosive esophagitis (n=78, 20-67 years; 39 females; 7 Black, 19 Hispanic, 52 White) were randomized to receive either 40 mg intravenous pantoprazole, 40 mg oral pantoprazole, or placebo once daily for 7 days.
 Following an overnight fast, test medication was administered and patients were given a light meal within 15 minutes.
 MAO and BAO were determined 24 hours following the last day of study medication.
-MAO was estimated from a 1 hour continuous collection of gastric contents following subcutaneous injection of 6.0 μg/kg of pentagastrin to stimulate acid secretion.
+MAO was estimated from a 1 hour continuous collection of gastric contents following subcutaneous injection of 6.0 µg/kg of pentagastrin to stimulate acid secretion.
 This study demonstrated that, after treatment for 7 days, patients treated with PROTONIX I.V. for Injection had a significantly lower MAO and BAO than those treated with placebo (p<0.001), and results were comparable to those of patients treated with oral PROTONIX (see Table 4).
 
 Table 4: ANTISECRETORY EFFECTS (mEq/h) OF INITIAL TREATMENT WITH 40 mg PROTONIX I.V. for INJECTION AND 40 mg ORAL PROTONIX IN GERD PATIENTS WITH A HISTORY OF EROSIVE ESOPHAGITIS
