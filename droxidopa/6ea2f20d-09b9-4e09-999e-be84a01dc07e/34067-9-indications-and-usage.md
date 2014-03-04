@@ -1,0 +1,5 @@
+# 1. INDICATIONS AND USAGE
+
+NORTHERA is indicated for the treatment of orthostatic dizziness, lightheadedness, or the “feeling that you are about to black out” in adult patients with symptomatic neurogenic orthostatic hypotension (NOH) caused by primary autonomic failure [Parkinson's disease (PD), multiple system atrophy and pure autonomic failure], dopamine beta-hydroxylase deficiency, and non-diabetic autonomic neuropathy.
+Effectiveness beyond 2 weeks of treatment has not been established.
+The continued effectiveness of NORTHERA should be assessed periodically.

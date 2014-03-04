@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA203202"
+  ],
+  "inn": "droxidopa",
+  "labeler": "Chelsea Therapeutics Inc",
+  "package_ndcs": [
+    "76320-100-21",
+    "76320-100-90",
+    "76320-200-21",
+    "76320-200-90",
+    "76320-300-21",
+    "76320-300-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "droxidopa",
+      "name": "Northera"
+    }
+  ],
+  "setid": "6ea2f20d-09b9-4e09-999e-be84a01dc07e",
+  "source": "dailymed"
+}
