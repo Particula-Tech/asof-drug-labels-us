@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202508"
+  ],
+  "inn": "levonorgestrel",
+  "labeler": "Novel Laboratories, Inc.",
+  "package_ndcs": [
+    "40032-622-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levonorgestrel",
+      "name": "Levonorgestrel"
+    }
+  ],
+  "setid": "ac13a073-a33a-45f7-8483-eecc9190195f",
+  "source": "dailymed"
+}
