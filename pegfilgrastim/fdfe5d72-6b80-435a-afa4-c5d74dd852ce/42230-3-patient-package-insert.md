@@ -4,13 +4,15 @@ Neulasta®
 
 Pegfilgrastim
 
+Information for Patients and Caregivers
+
 This patient package insert provides information and instructions for people who will be receiving Neulasta or their caregivers.
 This patient package insert does not tell you everything about Neulasta.
 You should discuss any questions you have about treatment with Neulasta with your doctor.
 
 What is Neulasta?
 
-Neulasta is a man-made form of granulocyte colony-stimulating factor (G-CSF), which is made using the bacteria E coli.
+Neulasta is a man-made form of granulocyte colony-stimulating factor (G-CSF), which is made using the bacteria Escherichia coli.
 G-CSF is a substance produced by the body.
 It stimulates the growth of neutrophils (nu-tro-fils), a type of white blood cell important in the body’s fight against infection.
 
@@ -22,7 +24,7 @@ Do not take Neulasta if you have had:
 
 What important information do I need to know about receiving Neulasta?
 
-Occasionally pain and redness may occur at the injection site.
+Occasionally, pain and redness may occur at the injection site.
 If there is a lump, swelling, or bruising at the injection site that does not go away, talk to the doctor.
 
 Neulasta should only be injected on the day the doctor has determined and should not be injected until approximately 24 hours after receiving chemotherapy.
@@ -31,7 +33,7 @@ The needle cover on the single-use prefilled syringe contains dry natural rubber
 
 What should I tell my healthcare provider before taking Neulasta?
 
-If you have a sickle cell disorder, make sure that your doctor knows about it before using Neulasta.
+If you have a sickle cell disorder, make sure that your doctor knows about it before you start using Neulasta.
 If you have a sickle cell crisis after getting Neulasta, tell your doctor right away.
 
 If you have any questions, talk to your doctor.
@@ -63,7 +65,7 @@ What are possible serious side effects of Neulasta?
 What are the most common side effects of Neulasta?
 
 The most common side effect you may experience is aching in the bones and muscles.
-If this happens, it can usually be relieved with a non aspirin pain reliever, such as acetaminophen.
+If this happens, it can usually be relieved with a non-aspirin pain reliever, such as acetaminophen.
 
 What about pregnancy or breastfeeding?
 
@@ -107,14 +109,14 @@ Note: The needle cover on the single-use prefilled syringe contains dry natural 
    - Puncture-proof disposal container
 4. Wash your hands with soap and warm water.
    HOW TO PREPARE FOR INJECTION OF NEULASTA
-5. Remove the syringe from the package and the tray.
+5. Remove the prefilled syringe from the package and the tray.
    Check to see that the plastic blue needle guard is covering the barrel of the glass syringe.
    DO NOT push the blue needle guard over the needle cover before injection.
    This may activate or lock the needle guard.
    If the blue needle guard is covering the needle that means it has been activated.
-   Do NOT use that syringe.
+   DO NOT use that syringe.
    Dispose of that syringe in the puncture-proof disposal container.
-   Use a new syringe.
+   Use a new prefilled syringe.
    Do not activate the needle guard prior to injection.
 6. Hold the syringe barrel through the needle guard windows with the needle pointing up.
    Holding the syringe with the needle pointing up helps to prevent medicine from leaking out of the needle.
@@ -137,13 +139,7 @@ Note: The needle cover on the single-use prefilled syringe contains dry natural 
     Use the other hand to pinch a fold of skin at the cleaned injection site.
     Note: Hold the syringe barrel through the needle guard windows when giving the injection.
 13. Holding the syringe like a pencil, use a quick “dart-like” motion to insert the needle either straight up and down (90 degree angle) or at a slight angle (45 degrees) into the skin.
-14. After the needle is inserted, let go of the skin.
-    Pull the plunger back slightly.
-    If no blood appears, slowly push down on the plunger all the way, until all the Neulasta is injected.
-    If blood comes into the syringe, do not inject Neulasta, because the needle has entered a blood vessel.
-    Withdraw the syringe and discard it in the puncture-proof container.
-    Repeat the steps to prepare a new prefilled syringe and choose and clean a new injection site.
-    Remember to check again for blood before injecting Neulasta.
+14. Inject the prescribed dose subcutaneously as directed by your doctor, nurse, or pharmacist.
 15. When the syringe is empty, pull the needle out of the skin and place a cotton ball or gauze over the injection site and press for several seconds.
 16. Use a prefilled syringe with the needle guard only once.
     Activating the Needle Guard after the injection has been given
@@ -152,8 +148,7 @@ Note: The needle cover on the single-use prefilled syringe contains dry natural 
     While holding the clear plastic finger grip of the syringe with one hand, grasp the blue needle guard with your free hand and slide the blue needle guard over the needle until the needle is completely covered and the needle guard clicks into place.
     NOTE: If an audible click is not heard, the needle guard may not be completely activated.
 18. Place the prefilled syringe with the activated needle guard into a puncture-proof container for proper disposal as described below.
-
-Disposal of prefilled syringes and needle guards
+    Disposal of prefilled syringes and needle guards
 
 You should always follow the instructions given by your doctor, nurse, or pharmacist on how to properly dispose of containers with used syringes and needle guards.
 There may be special state and local laws for disposal of used needles and syringes.
@@ -161,7 +156,7 @@ There may be special state and local laws for disposal of used needles and syrin
 - Do not throw the container in the household trash.
   Do not recycle.
 - DO NOT put the needle cover (the cap) back on the needle.
-- Place all used needle covers and syringes in a hard plastic container with a screw-on cap or in a metal container with a plastic lid, such as a coffee can, labeled “used syringes.”
+- Place all used needle covers and syringes in a hard plastic container with a screw-on cap or in a metal container with a plastic lid such as a coffee can labeled “used syringes.”
   If a metal container is used, cut a small hole in the plastic lid and tape the lid to the metal container.
   If a hard plastic container is used, always screw the cap on tightly after each use.
 - Do not use glass or clear plastic containers.
@@ -183,14 +178,14 @@ What are the ingredients in Neulasta?
 
 Each syringe contains pegfilgrastim in a sterile, clear, colorless, preservative-free solution containing acetate, sorbitol, polysorbate 20, and sodium.
 
-[Amgen Logo]
+[Amgen logo]
 
 Neulasta® (pegfilgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
 
-This product, its production, and/or its use may be covered by one or more US Patents, including US Patent Nos. 5,824,784; 5,582,823; 5,580,755, as well as other patents or patents pending.
+Patent: http://pat.amgen.com/neulasta/
 
-© 2010 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436)
+© 2002-2014 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436)
 
-1xxxxx
+Revised: 02/2014
 
-v 8.0
+1xxxxx v10
