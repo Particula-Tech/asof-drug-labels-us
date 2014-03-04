@@ -52,7 +52,7 @@ Table 1: Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6 to
 |  | Adults given 50 mg once daily for 7 days N=12 |  | Age 6 to 16 given 0.7 mg/kg once daily for 7 days N=25 |  |
 | --- | --- | --- | --- | --- |
 | Parent | Active Metabolite | Parent | Active Metabolite |  |
-| AUC0-24*(ng•h/mL) | 442 ± 173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
+| AUC0-24(ng•h/mL)* | 442 ± 173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
 | C MAX (ng/mL)* | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
 | T1/2 (h)† | 2.1 ± 0.7 | 7.4 ± 2.4 | 2.3 ± 0.8 | 5.6 ± 1.2 |
 | TPEAK (h)‡ | 0.9 | 3.5 | 2 | 4.1 |
@@ -170,9 +170,9 @@ The Components of Primary Endpoint (as a first event) counts only the events tha
 
 Table 2: Incidence of Primary Endpoint Events
 
-|  | Losartan Potassium |  | Atenolol |  | Risk Reduction* | 95% CI | p-Value |
+|  | Losartan Potassium |  | Atenolol |  | Risk Reduction† | 95% CI | p-Value |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| N (%) | Rate† | N (%) | Rate† |  |  |  |  |
+| N (%) | Rate* | N (%) | Rate* |  |  |  |  |
 | Primary Composite Endpoint | 508 (11) | 23.8 | 588 (13) | 27.9 | 13% | 2% to 23% | 0.021 |
 | Components of Primary Composite Endpoint (as a first event) |  |  |  |  |  |  |  |
 | Stroke (nonfatal‡) | 209 (5) |  | 286 (6) |  |  |  |  |
@@ -185,7 +185,7 @@ Table 2: Incidence of Primary Endpoint Events
 | Due to CHD | 125 (3) | 5.6 | 124 (3) | 5.6 | -3% | -32% to 20% | 0.839 |
 | Due to Stroke | 40 (1) | 1.8 | 62 (1) | 2.8 | 35% | 4% to 67% | 0.032 |
 | Other§ | 39 (1) | 1.8 | 48 (1) | 2.2 | 16% | -28% to 45% | 0.411 |
-| * Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy † Rate per 1000 patient-years of follow-up ‡ First report of an event, in some cases the patient died subsequently to the event reported § Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease |  |  |  |  |  |  |  |
+| * Rate per 1000 patient-years of follow-up † Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy ‡ First report of an event, in some cases the patient died subsequently to the event reported § Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease |  |  |  |  |  |  |  |
 
 Although the LIFE study favored losartan potassium over atenolol with respect to the primary endpoint (p=0.021), this result is from a single study and, therefore, is less compelling than the difference between losartan potassium and placebo.
 Although not measured directly, the difference between losartan potassium and placebo is compelling because there is evidence that atenolol is itself effective (vs. placebo) in reducing cardiovascular events, including stroke, in hypertensive patients.

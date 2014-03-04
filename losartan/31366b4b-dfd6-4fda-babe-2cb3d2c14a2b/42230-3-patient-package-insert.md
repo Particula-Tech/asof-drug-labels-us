@@ -1,16 +1,16 @@
 # PATIENT INFORMATION ABOUT
 
-LOSARTAN POTASSIUM TABLETS USP Rx only Read the Patient Information that comes with losartan potassium tablets USP before you start taking them and each time you get a refill.
+LOSARTAN POTASSIUM TABLETS USP (loe sar' tan poe tas' ee um) Rx only Read the Patient Information that comes with losartan potassium tablets USP before you start taking them and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 What is the most important information I should know about losartan potassium tablets USP?
 
-Do not take losartan potassium tablets USP if you are pregnant or plan to become pregnant.
-Losartan potassium tablets USP can harm your unborn baby causing injury and even death.
-Stop taking losartan potassium tablets USP if you become pregnant and call your doctor right away.
-If you plan to become pregnant, talk to your doctor about other treatment options before taking losartan potassium tablets USP.
+- Losartan potassium tablets USP can cause harm or death to an unborn baby.
+- Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+- If you get pregnant while taking losartan potassium tablets USP, tell your doctor right away.
 
 What are losartan potassium tablets USP?
+
 Losartan potassium tablets USP are a prescription medicine called an angiotensin receptor blocker (ARB).
 They are used:
 
@@ -42,9 +42,9 @@ Tell your doctor about all of your medical conditions including if you:
 
 - are pregnant or planning to become pregnant.
   See “What is the most important information I should know about losartan potassium tablets USP?”
-- are breast-feeding.
+- are breastfeeding.
   It is not known if losartan potassium passes into your breast milk.
-  You should choose either to take losartan potassium tablets USP or breast-feed, but not both.
+  You should choose either to take losartan potassium tablets USP or breastfeed, but not both.
 - are vomiting a lot or having a lot of diarrhea
 - have liver problems
 - have kidney problems
@@ -121,4 +121,4 @@ If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about losartan potassium tablets USP that is written for health professionals.
 What are the ingredients in losartan potassium tablets USP?
 Active ingredient: losartan potassium USP Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelatinized starch (maize), low substituted hydroxypropyl cellulose, magnesium stearate, hydroxypropyl cellulose, hypromellose 6 cP, titanium dioxide, FD&C blue #2/indigo carmine aluminum lake, D&C yellow #10 aluminum lake, and purified water.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 04/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 02/2014

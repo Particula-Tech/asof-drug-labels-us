@@ -9,6 +9,8 @@ The following table of adverse events is based on four 6- to 12-week, placebo-co
 All doses of losartan are grouped because none of the adverse events appeared to have a dose-related frequency.
 The adverse experiences reported in ≥1% of patients treated with losartan potassium and more commonly than placebo are shown in the table below.
 
+Table 5
+
 |  | Losartan (n=1075) Incidence % | Placebo (n=334) Incidence % |
 | --- | --- | --- |
 | Musculoskeletal |  |  |
@@ -35,6 +37,8 @@ Patients who had typical ACE-inhibitor cough when challenged with lisinopril, wh
 The double-blind treatment period lasted up to 8 weeks.
 The incidence of cough is shown below.
 
+Table 6
+
 | Study 1* | HCTZ | Losartan | Lisinopril |
 | --- | --- | --- | --- |
 | Cough | 25% | 17% | 69% |
@@ -43,12 +47,14 @@ The incidence of cough is shown below.
 | * Demographics = (89% caucasian, 64% female) † Demographics = (90% caucasian, 51% female) |  |  |  |
 
 These studies demonstrate that the incidence of cough associated with losartan therapy, in a population that all had cough associated with ACE-inhibitor therapy, is similar to that associated with hydrochlorothiazide or placebo therapy.
-Cases of cough, including positive re-challenges, have been reported with the use of losartan in post-marketing experience.
+Cases of cough, including positive re-challenges, have been reported with the use of losartan in postmarketing experience.
 Pediatric Patients No relevant differences between the adverse experience profile for pediatric patients and that previously reported for adult patients were identified.
 Hypertensive Patients with Left Ventricular Hypertrophy In the LIFE study, adverse events with losartan potassium were similar to those reported previously for patients with hypertension.
 Nephropathy in Type 2 Diabetic Patients In the RENAAL study involving 1513 patients treated with losartan potassium or placebo, the overall incidences of reported adverse experiences were similar for the two groups.
 Losartan potassium was generally well tolerated as evidenced by a similar incidence of discontinuations due to side effects compared to placebo (19% for losartan potassium, 24% for placebo).
 The adverse experiences, regardless of drug relationship, reported with an incidence of >4% of patients treated with losartan potassium and occurring more commonly than placebo, on a background of conventional antihypertensive therapy, are shown in the table below.
+
+Table 7
 
 |  | Losartan and Conventional Antihypertensive Therapy Incidence % (n=751) | Placebo and Conventional Antihypertensive Therapy Incidence % (n=762) |
 | --- | --- | --- |
@@ -93,9 +99,9 @@ The adverse experiences, regardless of drug relationship, reported with an incid
 | Urogenital |  |  |
 | Urinary tract infection | 16 | 13 |
 
-## Post-marketing Experience
+## Postmarketing Experience
 
-The following additional adverse reactions have been reported in post-marketing experience: Digestive: Hepatitis (reported rarely).
+The following additional adverse reactions have been reported in postmarketing experience: Digestive: Hepatitis (reported rarely).
 General Disorders and Administration Site Conditions: Malaise.
 Hemic: Thrombocytopenia (reported rarely).
 Hypersensitivity: Angioedema, including swelling of the larynx and glottis, causing airway obstruction and/or swelling of the face, lips, pharynx, and/or tongue has been reported rarely in patients treated with losartan; some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
