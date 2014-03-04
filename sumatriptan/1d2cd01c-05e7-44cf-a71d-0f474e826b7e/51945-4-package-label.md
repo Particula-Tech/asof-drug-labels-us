@@ -1,10 +1,8 @@
-PRINCIPAL DISPLAY PANEL - 25 mg
+PRICIPAL DISPLAY PANEL – 25 mg
 
 NDC 0378-5630-59
 
-Sumatriptan Tablets, USP
-
-25 mg
+Sumatriptan Tablets, USP 25 mg
 
 PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
@@ -35,13 +33,11 @@ Mylan.com
 
 RM5630CL3
 
-PRINCIPAL DISPLAY PANEL - 50 mg
+PRICIPAL DISPLAY PANEL – 50 mg
 
 NDC 0378-5631-59
 
-Sumatriptan Tablets, USP
-
-50 mg
+Sumatriptan Tablets, USP 50 mg
 
 PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
@@ -72,13 +68,11 @@ Mylan.com
 
 RM5631CL3
 
-PRINCIPAL DISPLAY PANEL - 100 mg
+PRICIPAL DISPLAY PANEL – 100 mg
 
 NDC 0378-5632-59
 
-Sumatriptan Tablets, USP
-
-100 mg
+Sumatriptan Tablets, USP 100 mg
 
 PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 

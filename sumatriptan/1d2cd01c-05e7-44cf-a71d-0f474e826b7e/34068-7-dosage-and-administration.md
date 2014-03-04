@@ -1,16 +1,20 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-In controlled clinical trials, single doses of 25 mg, 50 mg or 100 mg of sumatriptan tablets were effective for the acute treatment of migraine in adults.
-There is evidence that doses of 50 mg and 100 mg may provide a greater effect than 25 mg (see CLINICAL TRIALS).
-There is also evidence that doses of 100 mg do not provide a greater effect than 50 mg.
-Individuals may vary in response to doses of sumatriptan tablets.
-The choice of dose should therefore be made on an individual basis, weighing the possible benefit of a higher dose with the potential for a greater risk of adverse events.
+## 2.1 Dosing Information
 
-If the headache returns or the patient has a partial response to the initial dose, the dose may be repeated after 2 hours, not to exceed a total daily dose of 200 mg.
-If a headache returns following an initial treatment with sumatriptan succinate injection, additional single sumatriptan tablets (up to 100 mg/day) may be given with an interval of at least 2 hours between tablet doses.
-The safety of treating an average of more than four headaches in a 30-day period has not been established.
+The recommended dose of sumatriptan tablets is 25 mg, 50 mg, or 100 mg.
+Doses of 50 mg and 100 mg may provide a greater effect than the 25 mg dose, but doses of 100 mg may not provide a greater effect than the 50 mg dose.
+Higher doses may have a greater risk of adverse reactions [see Clinical Studies (14)].
 
-Because of the potential of MAO-A inhibitors to cause unpredictable elevations in the bioavailability of oral sumatriptan, their combined use is contraindicated (see CONTRAINDICATIONS).
+If the migraine has not resolved by 2 hours after taking sumatriptan tablets, or returns after a transient improvement, a second dose may be administered at least 2 hours after the first dose.
+The maximum daily dose is 200 mg in a 24 hour period.
 
-Hepatic disease/functional impairment may also cause unpredictable elevations in the bioavailability of orally administered sumatriptan.
-Consequently, if treatment is deemed advisable in the presence of liver disease, the maximum single dose should in general not exceed 50 mg (see CLINICAL PHARMACOLOGY for the basis of this recommendation).
+### Use After Sumatriptan Succinate Injection
+
+If the migraine returns following an initial treatment with sumatriptan succinate injection, additional single sumatriptan tablets (up to 100 mg/day) may be given with an interval of at least 2 hours between tablet doses.
+
+The safety of treating an average of more than four headaches in a 30 day period has not been established.
+
+## 2.2 Dosing in Patients With Hepatic Impairment
+
+If treatment is deemed advisable in the presence of mild to moderate hepatic impairment, the maximum single dose should not exceed 50 mg [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
