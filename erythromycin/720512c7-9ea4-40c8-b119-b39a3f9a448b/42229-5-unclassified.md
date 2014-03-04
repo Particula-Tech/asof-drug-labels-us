@@ -1,11 +1,11 @@
+Rx ONLY
+
 2% TOPICAL OINTMENT FOR ACNE
 
 FOR EXTERNAL USE ONLY
 
-Rx ONLY
+Marketed by:
 
-Distributed by:
+CORIA LABORATORIES, LTD. Fort Worth, Texas 76107 Reorder No. 13548-030-25
 
-CORIA LABORATORIES, a division of Valeant Pharmaceuticals North America Fort Worth, TX 76107 1-800-321-4576 www.CoriaLabs.com
-
-Manufactured by: DPT Laboratories Ltd. San Antonio, TX 78215 129177-0610
+Manufactured by: DPT Laboratories Ltd. San Antonio, TX 78215 128312-1105
