@@ -111,4 +111,4 @@ Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
 
 Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Rev. date: 09/2012 174696-1
+Rev. date: 01/2014 174696-2
