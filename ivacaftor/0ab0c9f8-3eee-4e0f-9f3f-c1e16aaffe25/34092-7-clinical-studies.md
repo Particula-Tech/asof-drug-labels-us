@@ -79,7 +79,7 @@ Table 3: Effect of KALYDECO for Efficacy Variables in the Overall Populations an
 | --- | --- | --- | --- | --- | --- |
 | Mutation (n) | Absolute change in percent predicted FEV1 |  |  | BMI (kg/m2) | CF Respiratory Symptom Score (points) |
 | All patients (n=39) Results shown as mean (95% CI) change from baseline KALYDECO vs placebo-treated patients: |  |  |  |  |  |
-|  | 8.3 (4.5, 12.1) | 10.0 (6.2, 13.8) | 13.8 (9.9, 17.6) | 0.66Result for weight gain as a component of body mass index was consistent with BMI. (0.33, 1.0) | 12.8 (6.7, 18.9) |
+|  | 8.3 (4.5, 12.1) | 10.0 (6.2, 13.8) | 13.8 (9.9, 17.6) | 0.66Result for weight gain as a component of body mass index was consistent with BMI. (0.34, 0.99) | 12.8 (6.7, 18.9) |
 | Patients grouped under mutation types (n) Results shown as mean (minimum, maximum) for change from baseline for KALYDECO-treated patientsStatistical testing was not performed due to small numbers for individual mutations.: |  |  |  |  |  |
 | G1244E (5) | 11 (-5, 25) | 6 (-5, 13) | 8 (-1, 18) | 0.63 (0.34, 1.32) | 3.3 (-27.8, 22.2) |
 | G1349D (2) | 19 (5, 33) | 18 (2, 35) | 20 (3, 36) | 1.15 (1.07, 1.22) | 16.7 (-11.1, 44.4) |
@@ -87,9 +87,9 @@ Table 3: Effect of KALYDECO for Efficacy Variables in the Overall Populations an
 | G551S (2) | 0 (-5, 5) | 0.3 (-5, 6) | 3Reflects results from the one patient with the G551S mutation with data at the 8-week time point. | 0.16 | 16.7 |
 | G970R (4) | 7 (1, 13) | 7 (1, 14) | 3 (-1, 5) | 0.48 (-0.38, 1.75) | 1.4 (-16.7, 16.7) |
 | S1251N (8) | 2 (-23, 20) | 8 (-13, 26) | 9 (-20, 21) | 0.73 (0.08, 1.83) | 23.3 (5.6, 50.0) |
-| S1255P (2) | 11 (8, 14) | 9 (5, 13) | 3 (-1, 8) | 1.62 (1.39, 1.84) | 8.3 (5.60, 11.1) |
+| S1255P (2) | 11 (8, 14) | 9 (5, 13) | 3 (-1, 8) | 1.62 (1.39, 1.84) | 8.3 (5.6, 11.1) |
 | S549N (6) | 11 (5, 16) | 8 (-9, 19) | 11 (-2, 20) | 0.79 (0.00, 1.91) | 8.8 (-8.3, 27.8) |
-| S549R (4) | 3 (-4, 8) | 4 (-4, 10) | 5 (-3, 13) | 0.53 (0.33, 0.80) | 6.9 (0.0, -11.1) |
+| S549R (4) | 3 (-4, 8) | 4 (-4, 10) | 5 (-3, 13) | 0.53 (0.33, 0.80) | 6.9 (0.0, 11.1) |
 
 ## 14.3 Trial in Patients Homozygous for the F508del Mutation in the CFTR Gene
 
