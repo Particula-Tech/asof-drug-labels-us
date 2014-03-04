@@ -14,6 +14,8 @@ Tizanidine tablets USP 4 mg are debossed with "U" and "169" on one side and quad
 
 Bottles of 150: NDC 29300- 169-15
 
+Bottles of 300: NDC 29300- 169-03
+
 Bottles of 500: NDC 29300- 169-05
 
 Bottles of 1000: NDC 29300-169-10
