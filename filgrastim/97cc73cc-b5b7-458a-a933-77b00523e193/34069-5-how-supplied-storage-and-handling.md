@@ -18,8 +18,14 @@ Dispensing packs of 10 (NDC 55513-546-10).
 
 ## Prefilled Syringes (SingleJect®)
 
+Single-dose‚ preservative-free, prefilled syringe with 27 gauge, ½ inch needle with an UltraSafe® Needle Guard, containing 300 mcg (0.5 mL) of filgrastim (600 mcg/mL).
+Dispensing packs of 1 (NDC 55513-924-91).
+
 Single-dose‚ preservative-free, prefilled syringes with 27 gauge, ½ inch needles with an UltraSafe® Needle Guard, containing 300 mcg (0.5 mL) of filgrastim (600 mcg/mL).
 Dispensing packs of 10 (NDC 55513-924-10).
+
+Single-dose‚ preservative-free, prefilled syringe with 27 gauge, ½ inch needle with an UltraSafe® Needle Guard, containing 480 mcg (0.8 mL) of filgrastim (600 mcg/mL).
+Dispensing packs of 1 (NDC 55513-209-91).
 
 Single-dose‚ preservative-free, prefilled syringes with 27 gauge, ½ inch needles with an UltraSafe® Needle Guard, containing 480 mcg (0.8 mL) of filgrastim (600 mcg/mL).
 Dispensing packs of 10 (NDC 55513-209-10).
