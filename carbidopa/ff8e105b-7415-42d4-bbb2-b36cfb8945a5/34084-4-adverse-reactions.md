@@ -24,9 +24,20 @@ Metabolic: edema, weight gain, weight loss.
 
 Musculoskeletal: back pain, leg pain, muscle cramps, shoulder pain.
 
-Nervous System/Psychiatric: agitation, anxiety, ataxia, blepharospasm (which may be taken as an early sign of excess dosage; consideration of dosage reduction may be made at this time), bradykinetic episodes ("on-off" phenomenon), confusion, decreased mental acuity, disorientation, euphoria, dizziness, dream abnormalities including nightmares, extrapyramidal disorder, falling, gait abnormalities, headache, increased tremor, insomnia, memory impairment, muscle twitching, nervousness, numbness, paresthesia, peripheral neuropathy, somnolence, trismus, activation of latent Horner's syndrome, increased libido.
+Nervous System/Psychiatric: Psychotic episodes including delusions, hallucinations and
 
-Respiratory: upper respiratory infection, dyspnea, pharyngeal pain, cough.
+paranoid ideation, neuroleptic malignant syndrome (NMS, see WARNINGS), bradykinetic
+
+episodes (“on-off” phenomenon), confusion, agitation, dizziness, somnolence, dream
+
+abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without
+
+development of suicidal tendencies, dementia, pathological gambling, increased libido including
+
+hypersexuality, impulse control symptoms.
+Convulsions also have occurred; however, a causal
+
+relationship with LODOSYN and levodopa, has not been established.
 
 Skin: flushing, increased sweating, malignant melanoma (see also CONTRAINDICATIONS), rash, alopecia, dark sweat.
 

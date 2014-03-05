@@ -6,6 +6,9 @@ Manufactured in Canada by: Valeant Pharmaceuticals International, Inc. Steinbach
 
 Manufactured for: Aton Pharma, Inc. (division of Valeant Pharmaceuticals North America LLC) Bridgewater, NJ 08807 USA
 
-Revised October 2011
+Rev.
+2/2014
 
-LB0087-01
+LB0087-02
+
+9379200

@@ -1,29 +1,65 @@
 # DOSAGE AND ADMINISTRATION
 
-Whether given with SINEMET (Carbidopa-Levodopa) or with levodopa, the optimal daily dosage of LODOSYN must be determined by careful titration.
-Most patients respond to a 1:10 proportion of carbidopa and levodopa, provided the daily dosage of carbidopa is 70 mg or more a day.
-The maximum daily dosage of carbidopa should not exceed 200 mg, since clinical experience with larger dosages is limited.
-If the patient is taking SINEMET (Carbidopa-Levodopa), the amount of carbidopa in SINEMET (Carbidopa-Levodopa) should be considered when calculating the total amount of LODOSYN to be administered each day.
+Whether given with carbidopa-levodopa or with levodopa, the optimal daily dose of
 
-## Patients Receiving SINEMET (Carbidopa-Levodopa) Who Require Additional Carbidopa
+LODOSYN must be determined by careful titration.
+Most patients respond to a 1:10
 
-Some patients taking SINEMET (Carbidopa-Levodopa) may not have adequate reduction in nausea and vomiting when the dosage of carbidopa is less than 70 mg a day, and the dosage of levodopa is less than 700 mg a day.
-When these patients are taking SINEMET 10-100SINEMET 10-100 (Carbidopa-Levodopa) contains 10 mg of carbidopa and 100 mg of levodopa.
-(Carbidopa-Levodopa), 25 mg of LODOSYN may be given with the first dose of SINEMET (Carbidopa-Levodopa) each day.
-Additional doses of 12.5 mg or 25 mg may be given during the day with each dose of SINEMET (Carbidopa-Levodopa).
-When patients are taking SINEMET 25-250SINEMET 25-250 (Carbidopa-Levodopa) contains 25 mg of carbidopa and 250 mg of levodopa.
-(Carbidopa-Levodopa) or SINEMET 25-100SINEMET 25-100 (Carbidopa-Levodopa) contains 25 mg of carbidopa and 100 mg of levodopa.
-(Carbidopa-Levodopa), 25 mg of LODOSYN may be given with any dose of SINEMET (Carbidopa-Levodopa) as required for optimum therapeutic response.
-The maximum daily dosage of carbidopa, given as LODOSYN and as SINEMET (Carbidopa-Levodopa), should not exceed 200 mg.
+proportion of carbidopa and levodopa, provided the daily dosage of carbidopa is 70 mg or
+
+more a day.
+The maximum daily dosage of carbidopa should not exceed 200 mg, since
+
+clinical experience with larger dosages is limited.
+If the patient is taking carbidopa-levodopa,
+
+the amount of carbidopa in carbidopa-levodopa should be considered when calculating the
+
+total amount of LODOSYN to be administered each day.
+
+## Patients Receiving Carbidopa-Levodopa Who Require Additional Carbidopa
+
+Some patients taking carbidopa-levodopa may not have adequate reduction in nausea and
+
+vomiting when the dosage of carbidopa is less than 70 mg a day, and the dosage of levodopa
+
+is less than 700 mg a day.
+When these patients are taking carbidopa-levodopa, 25 mg of LODOSYN may be given with the first dose of carbidopa-levodopa each day.
+Additional doses of 12.5 mg or 25 mg may be given during the day with each dose of carbidopalevodopa.
+LODOSYN may be given with any dose carbidopa-levodopa as required for optimum therapeutic response.
+The maximum daily dosage of carbidopa, given as LODOSYN
+
+and as carbidopa- levodopa), should not exceed 200 mg.
 
 ## Patients Requiring Individual Titration of Carbidopa and Levodopa Dosage
 
-Although SINEMET (Carbidopa-Levodopa) is the preferred method of carbidopa and levodopa administration, there may be an occasional patient who requires individually titrated doses of these two drugs.
-In these patients, LODOSYN (Carbidopa) should be initiated at a dosage of 25 mg three or four times a day.
-The two drugs should be given at the same time, starting with no more than one-fifth (20%) to one-fourth (25%) of the previous or recommended daily dosage of levodopa when given without LODOSYN (Carbidopa).
-In patients already receiving levodopa therapy, at least twelve hours should elapse between the last dose of levodopa and initiation of therapy with LODOSYN (Carbidopa) and levodopa.
-A convenient way to initiate therapy in these patients is in the morning following a night when the patient has not taken levodopa for at least twelve hours.
-Physicians who prescribe separate doses of LODOSYN and levodopa should be thoroughly familiar with the directions for use of each drug.
+Although carbidopa-levodopa is the most frequently used of carbidopa and levodopa
+
+administration, there may be an occasional patient who requires individually titrated doses of
+
+these two drugs.
+In these patients, LODOSYN (carbidopa) should be initiated at a dosage
+
+of 25 mg three or four times a day.
+The two drugs should be given at the same time,
+
+starting with no more than one-fifth (20%) to one-fourth (25%) of the previous or
+
+recommended daily dosage of levodopa when given without LODOSYN (Carbidopa).
+In
+
+patients already receiving levodopa therapy, at least twelve hours should elapse between
+
+the last dose of levodopa and initiation of therapy with LODOSYN (Carbidopa) and
+
+levodopa.
+A convenient way to initiate therapy in these patients is in the morning
+
+following a night when the patient has not taken levodopa for at least twelve hours.
+
+Health care providers who prescribe separate doses of LODOSYN and levodopa should be
+
+thoroughly familiar with the directions for use of each drug.
 
 ## Dosage Adjustment
 
@@ -34,12 +70,22 @@ The occurrence of involuntary movements may require dosage reduction.
 Blepharospasm may be a useful early sign of excess dosage in some patients.
 
 Current evidence indicates other standard antiparkinsonian drugs may be continued while carbidopa and levodopa are being administered.
-However, the dosage of such other standard antiparkinsonian drugs may require adjustment.
+However, the dosage of such other standard antiparkinsonian drugs
+
+may require adjustment.
 
 ## Interruption of Therapy
 
-Sporadic cases of a symptom complex resembling the Neuroleptic Malignant Syndrome (NMS) have been associated with dose reductions and withdrawal of SINEMET (Carbidopa-Levodopa) or SINEMET CR (Carbidopa-Levodopa) Sustained-Release.
-Patients should be observed carefully if abrupt reduction or discontinuation of SINEMET (Carbidopa-Levodopa) or SINEMET CR (Carbidopa-Levodopa) Sustained-Release is required, especially if the patient is receiving neuroleptics.
+Sporadic cases of hyperpyrexia and confusion have been associated with dose reductions and
+
+withdrawal of carbidopa-Levodopa) or carbidopa-levodopa Extended Release.
+Patients should
+
+be observed carefully if abrupt reduction or discontinuation of carbidopa-levodopa or
+
+carbidopa-levodopa Extended-Release is required, especially if the patient is receiving
+
+neuroleptics.
 (See WARNINGS.)
 
 If general anesthesia is required, therapy may be continued as long as the patient is permitted to take fluids and medication by mouth.

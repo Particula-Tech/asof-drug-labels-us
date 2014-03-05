@@ -1,6 +1,8 @@
 # HOW SUPPLIED
 
-LODOSYN Tablets, 25 mg, are round, orange-colored, compressed tablets that are scored and coded 711 on one side and LODOSYN on the other.
+Tablets LODOSYN, 25 mg, are orange, round, compressed tablets that are scored and coded
+
+711 on one side and LODOSYN on the other.
 
 They are supplied as follows:
 

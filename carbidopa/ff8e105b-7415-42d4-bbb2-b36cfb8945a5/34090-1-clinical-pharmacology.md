@@ -32,10 +32,10 @@ Carbidopa reduces the amount of levodopa required to produce a given response by
 
 In clinical pharmacologic studies, simultaneous administration of separate tablets of carbidopa and levodopa produced greater urinary excretion of levodopa in proportion to the excretion of dopamine when compared to the two drugs administered at separate times.
 
-Supplemental pyridoxine (vitamin B6) can be given to patients when they are receiving carbidopa and levodopa concomitantly or as SINEMETSINEMET is a registered trademark of Merck Sharp & Dohme Corp. CR (Carbidopa-Levodopa) Sustained-Release or SINEMET (Carbidopa-Levodopa).
+Supplemental pyridoxine (vitamin B6) can be given to patients when they are receiving carbidopa and levodopa concomitantly or the fixed combination carbidopa-levodopa or carbidopa-levodopa extended release.
 Previous reports in the medical literature cautioned that high doses of vitamin B6 should not be taken by patients on levodopa therapy alone because exogenously administered pyridoxine would enhance the metabolism of levodopa to dopamine.
 The introduction of carbidopa to levodopa therapy, which inhibits the peripheral decarboxylation of levodopa to dopamine, counteracts the metabolic-enhancing effect of pyridoxine.
 
-Carbidopa is combined with levodopa in SINEMET (Carbidopa-Levodopa) and SINEMET CR (Carbidopa-Levodopa) Sustained-Release tablets.
-These combination tablets are available in three strengths for SINEMET: SINEMET 10-100 (Carbidopa-Levodopa), SINEMET 25-250 (Carbidopa-Levodopa) (1:10 ratio of carbidopa to levodopa) and SINEMET 25-100 (Carbidopa-Levodopa) (1:4 ratio of carbidopa to levodopa), and in two strengths for SINEMET CR: SINEMET CR 50-200 (Carbidopa-Levodopa) Sustained-Release and SINEMET CR 25-100 (Carbidopa-Levodopa) Sustained-Release (1:4 ratio of carbidopa to levodopa).
-Clinical trials show that these ratios of carbidopa and levodopa provide useful therapeutic effects in most patients.
+Carbidopa is combined with levodopa in carbidopa-levodopa and carbidopa-levodopa
+
+extended release tablets.
