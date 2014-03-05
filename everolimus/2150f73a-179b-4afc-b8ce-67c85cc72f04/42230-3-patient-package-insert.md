@@ -94,6 +94,7 @@ Before taking AFINITOR or AFINITOR DISPERZ, tell your healthcare provider about 
 - Are pregnant, or could become pregnant.
   AFINITOR or AFINITOR DISPERZ can cause harm to your unborn baby.
   You should use effective birth control while using AFINITOR or AFINITOR DISPERZ and for 8 weeks after stopping treatment.
+  Talk to your healthcare provider about birth control options while taking AFINITOR or AFINITOR DISPERZ.
 - Are breastfeeding or plan to breastfeed.
   It is not known if AFINITOR or AFINITOR DISPERZ passes into your breast milk.
   You and your healthcare provider should decide if you will take AFINITOR or AFINITOR DISPERZ, or breastfeed.
@@ -126,7 +127,7 @@ How should I take AFINITOR or AFINITOR DISPERZ?
 
 - Your healthcare provider will prescribe the dose of AFINITOR or AFINITOR DISPERZ that is right for you.
 - Take AFINITOR or AFINITOR DISPERZ exactly as your healthcare provider tells you to.
-- Your healthcare provider may change your dose of AFINITOR or AFINITOR DISPERZ if needed.
+- Your healthcare provider may change your dose of AFINITOR or AFINITOR DISPERZ or tell you to temporarily interrupt dosing, if needed.
 - Use scissors to open the blister pack.
 
 AFINITOR:
@@ -142,7 +143,7 @@ AFINITOR DISPERZ:
   When possible, the suspension should be prepared by an adult who is not pregnant or planning to become pregnant.
 - Anyone who prepares suspensions of AFINITOR DISPERZ for another person should wear gloves to avoid possible contact with the medicine.
 
-• Take AFINITOR or AFINITOR DISPERZ one time each day at about the same time.
+• Take AFINITOR or AFINITOR DISPERZ 1 time each day at about the same time.
 
 • Take AFINITOR or AFINITOR DISPERZ the same way each time, either with food or without food.
 
@@ -152,7 +153,7 @@ Take the pack of AFINITOR or AFINITOR DISPERZ with you.
 • If you miss a dose of AFINITOR or AFINITOR DISPERZ, you may still take it up to 6 hours after the time you normally take it.
 If it is more than 6 hours after you normally take your AFINITOR or AFINITOR DISPERZ, skip the dose for that day.
 The next day, take AFINITOR or AFINITOR DISPERZ at your usual time.
-Do not take 2 doses to make up for the one that you missed.
+Do not take 2 doses to make up for a missed dose.
 If you are not sure about what to do, call your healthcare provider.
 
 • You should have blood tests before you start AFINITOR or AFINITOR DISPERZ and as needed during your treatment.
@@ -171,6 +172,13 @@ What are the possible side effects of AFINITOR or AFINITOR DISPERZ?
 AFINITOR and AFINITOR DISPERZ can cause serious side effects.
 
 - See “What is the most important information I should know about AFINITOR and AFINITOR DISPERZ?” for more information.
+- Delayed wound healing.
+  AFINITOR can cause incisions to heal slowly or not heal well.
+  Call your healthcare provider right away if you have any of the following symptoms:
+  - your incision is red, warm or painful
+  - blood, fluid, or pus in your incision
+  - your incision opens up
+  - swelling of your incision
 
 Common side effects of AFINITOR in people with advanced hormone receptor-positive, HER 2-negative breast cancer, advanced pancreatic neuroendocrine tumors, and advanced kidney cancer include:
 
@@ -218,7 +226,7 @@ Common side effects of AFINITOR and AFINITOR DISPERZ in people who have SEGA or 
 - Feeling tired
 - Anxiety, aggression, and other abnormal behaviors
 - Absence of menstrual periods (menstruation).
-  You may miss one or more menstrual periods.
+  You may miss 1 or more menstrual periods.
   Tell your healthcare provider if this happens.
 - Low red blood cells, white blood cells or platelets
 - Increased blood cholesterol level and certain other blood tests
@@ -274,10 +282,10 @@ Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-Revised Nov 2013
+Revised Feb 2014
 
 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Novartis.
 
 © Novartis
 
-T2013-105 November 2013
+T2014-17 February 2014

@@ -2,12 +2,15 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.10)].
+Pregnancy Category D
 
-There are no adequate and well-controlled studies of AFINITOR in pregnant women; however, based on the mechanism of action, AFINITOR can cause fetal harm when administered to a pregnant woman.
+Risk Summary
+
+Based on the mechanism of action, AFINITOR can cause fetal harm when administered to a pregnant woman.
 Everolimus caused embryo-fetal toxicities in animals at maternal exposures that were lower than human exposures.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to use a highly effective method of contraception while receiving AFINITOR and for up to 8 weeks after ending treatment.
+If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, apprise the patient of the potential hazard to the fetus [see Warnings and Precautions (5.11)].
+
+Animal Data
 
 In animal reproductive studies, oral administration of everolimus to female rats before mating and through organogenesis induced embryo-fetal toxicities, including increased resorption, pre-implantation and post-implantation loss, decreased numbers of live fetuses, malformation (e.g., sternal cleft), and retarded skeletal development.
 These effects occurred in the absence of maternal toxicities.
@@ -38,7 +41,7 @@ Study 1 was a randomized, double-blind, multicenter trial comparing AFINITOR (n=
 The median age was 9.5 years (range 0.8 to 26 years).
 At the time of randomization, a total of 20 patients were < 3 years of age, 54 patients were 3 to < 12 years of age, 27 patients were 12 to < 18 years of age, and 16 patients were ≥ 18 years of age.
 The overall nature, type, and frequency of adverse reactions across the age groups evaluated were similar, with the exception of a higher per patient incidence of infectious serious adverse events in patients < 3 years of age.
-A total of 6 of 13 patients (46%) < 3 years of age had at least one serious adverse event due to infection, compared to 2 of 7 patients (29%) treated with placebo.
+A total of 6 of 13 patients (46%) < 3 years of age had at least 1 serious adverse event due to infection, compared to 2 of 7 patients (29%) treated with placebo.
 No patient in any age group discontinued AFINITOR due to infection [see Adverse Reactions (6.5)].
 Subgroup analyses showed reduction in SEGA volume with AFINITOR treatment in all pediatric age subgroups.
 
@@ -51,25 +54,45 @@ Everolimus clearance normalized to body surface area was higher in pediatric pat
 
 ## 8.5 Geriatric Use
 
-In the randomized advanced hormone receptor positive, HER2-negative breast cancer study, 40% of AFINITOR-treated patients were ≥ 65 years of age, while 15% were 75 and over.
-No overall differences in effectiveness were observed between elderly and younger subjects.
+In the randomized advanced hormone receptor positive, HER2-negative breast cancer study, 40% of AFINITOR-treated patients were ≥ 65 years of age, while 15% were 75 years and over.
+No overall differences in effectiveness were observed between elderly and younger patients.
 The incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥ 65 years of age compared to 2% in patients < 65 years of age.
-Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥ 65 years of age compared to 17% in patients < 65 years of age [see Warnings and Precautions (5.5)].
+Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥ 65 years of age compared to 17% in patients < 65 years of age [see Warnings and Precautions (5.6)].
 
-In two other randomized trials (advanced renal cell carcinoma and advanced neuroendocrine tumors of pancreatic origin), no overall differences in safety or effectiveness were observed between elderly and younger subjects.
-In the randomized advanced RCC study, 41% of AFINITOR treated patients were ≥ 65 years of age, while 7% were 75 and over.
-In the randomized advanced PNET study, 30% of AFINITOR-treated patients were ≥ 65 years of age, while 7% were 75 and over.
+In two other randomized trials (advanced renal cell carcinoma and advanced neuroendocrine tumors of pancreatic origin), no overall differences in safety or effectiveness were observed between elderly and younger patients.
+In the randomized advanced RCC study, 41% of AFINITOR treated patients were ≥ 65 years of age, while 7% were 75 years and over.
+In the randomized advanced PNET study, 30% of AFINITOR-treated patients were ≥ 65 years of age, while 7% were 75 years and over.
 
 Other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.3)].
 
 No dosage adjustment in initial dosing is required in elderly patients, but close monitoring and appropriate dose adjustments for adverse reactions is recommended [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
-## 8.6 Renal Impairment
+## 8.6 Females and Males of Reproductive Potential
+
+Contraception
+
+Females
+
+AFINITOR can cause fetal harm when administered to a pregnant woman.
+Advise female patients of reproductive potential to use highly effective contraception while receiving AFINITOR and for up to 8 weeks after ending treatment [see Use in Specific Populations (8.1)].
+
+Infertility
+
+Females
+
+Menstrual irregularities, secondary amenorrhea, and increases in luteinizing hormone (LH) and follicle stimulating hormone (FSH) occurred in female patients taking AFINITOR.
+Based on these clinical findings and findings in animals, female fertility may be compromised by treatment with AFINITOR [see Adverse Reactions (6.2, 6.4, 6.5) and Nonclinical Toxicology (13.1)].
+
+Males
+
+AFINITOR treatment may impair fertility in male patients based on animal findings [see Nonclinical Toxicology (13.1)].
+
+## 8.7 Renal Impairment
 
 No clinical studies were conducted with AFINITOR in patients with decreased renal function.
 Renal impairment is not expected to influence drug exposure and no dosage adjustment of everolimus is recommended in patients with renal impairment [see Clinical Pharmacology (12.3)].
 
-## 8.7 Hepatic Impairment
+## 8.8 Hepatic Impairment
 
 The safety, tolerability and pharmacokinetics of AFINITOR were evaluated in a 34 subject single oral dose study of everolimus in subjects with impaired hepatic function relative to subjects with normal hepatic function.
 Exposure was increased in patients with mild (Child-Pugh class A), moderate (Child-Pugh class B), and severe (Child-Pugh class C) hepatic impairment [see Clinical Pharmacology (12.3)].

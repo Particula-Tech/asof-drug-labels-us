@@ -3,10 +3,10 @@
 ## 14.1 Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer
 
 A randomized, double-blind, multicenter study of AFINITOR plus exemestane versus placebo plus exemestane was conducted in 724 postmenopausal women with estrogen receptor-positive, HER 2/neu-negative advanced breast cancer with recurrence or progression following prior therapy with letrozole or anastrozole.
-Randomization was stratified by documented sensitivity to prior hormonal therapy (yes vs. no) and by the presence of visceral metastasis (yes vs. no). Sensitivity to prior hormonal therapy was defined as either (1) documented clinical benefit (complete response [CR], partial response [PR], stable disease ≥ 24 weeks) to at least one prior hormonal therapy in the advanced setting or (2) at least 24 months of adjuvant hormonal therapy prior to recurrence.
+Randomization was stratified by documented sensitivity to prior hormonal therapy (yes versus no) and by the presence of visceral metastasis (yes versus no). Sensitivity to prior hormonal therapy was defined as either (1) documented clinical benefit (complete response [CR], partial response [PR], stable disease ≥ 24 weeks) to at least one prior hormonal therapy in the advanced setting or (2) at least 24 months of adjuvant hormonal therapy prior to recurrence.
 Patients were permitted to have received 0-1 prior lines of chemotherapy for advanced disease.
 
-The primary endpoint for the trial was progression-free survival (PFS) evaluated by RECIST (Response Evaluation Criteria in Solid Tumors), based on investigator (local radiology) assessment.
+The primary endpoint for the trial was progression-free survival (PFS) evaluated by Response Evaluation Criteria In Solid Tumors (RECIST), based on investigator (local radiology) assessment.
 Other endpoints included overall survival (OS), objective response rate (ORR), and safety.
 
 Patients were randomly allocated in a 2:1 ratio to AFINITOR 10 mg/day plus exemestane 25 mg/day (n = 485) or to placebo plus exemestane 25 mg/day (n = 239).
@@ -17,7 +17,7 @@ The median progression-free survival by investigator assessment at the time of t
 The results of the PFS analysis based on independent central radiological assessment were consistent with the investigator assessment.
 PFS results were also consistent across the subgroups of age, race, presence and extent of visceral metastases, and sensitivity to prior hormonal therapy.
 
-Objective response rate was 12.6% (95% CI: 9.8, 15.9) in the AFINITOR plus exemestane arm vs. 1.7% (95% CI: 0.5, 4.2) in the placebo plus exemestane arm.
+Objective response rate was 12.6% (95% CI: 9.8, 15.9) in the AFINITOR plus exemestane arm versus 1.7% (95% CI: 0.5, 4.2) in the placebo plus exemestane arm.
 There were 3 complete responses (0.6%) and 58 partial responses (12.0%) in the AFINITOR plus exemestane arm.
 There were no complete responses and 4 partial responses (1.7%) in the placebo plus exemestane arm.
 
@@ -39,7 +39,7 @@ Table 12: Progression-free Survival Results
 Locally Advanced or Metastatic Advanced Pancreatic Neuroendocrine Tumors (PNET)
 
 A randomized, double-blind, multi-center trial of AFINITOR plus best supportive care (BSC) versus placebo plus BSC was conducted in patients with locally advanced or metastatic advanced pancreatic neuroendocrine tumors (PNET) and disease progression within the prior 12 months.
-Patients were stratified by prior cytotoxic chemotherapy (yes/no) and by WHO performance status (0 vs. 1 and 2).
+Patients were stratified by prior cytotoxic chemotherapy (yes versus no) and by WHO performance status (0 versus 1 and 2).
 Treatment with somatostatin analogs was allowed as part of BSC.
 The primary endpoint for the trial was progression-free survival (PFS) evaluated by RECIST (Response Evaluation Criteria in Solid Tumors).
 After documented radiological progression, patients could be unblinded by the investigator; those randomized to placebo were then able to receive open-label AFINITOR.
@@ -47,7 +47,7 @@ Other endpoints included safety, objective response rate [ORR (complete response
 
 Patients were randomized 1:1 to receive either AFINITOR 10 mg/day (n=207) or placebo (n=203).
 Demographics were well balanced (median age 58 years, 55% male, 79% Caucasian).
-Crossover from placebo to open-label AFINITOR occurred in 73% (148/203) of patients.
+Cross-over from placebo to open-label AFINITOR occurred in 73% (148/203) of patients.
 
 The trial demonstrated a statistically significant improvement in PFS (median 11.0 months versus 4.6 months), resulting in a 65% risk reduction in investigator-determined PFS (HR 0.35; 95%CI: 0.27 to 0.45; p<0.001) (see Table 13 and Figure 2).
 PFS improvement was observed across all patient subgroups, irrespective of prior somatostatin analog use.
@@ -77,18 +77,18 @@ The study did not meet its primary efficacy endpoint of a statistically signific
 
 An international, multi-center, randomized, double-blind trial comparing AFINITOR 10 mg daily and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic RCC whose disease had progressed despite prior treatment with sunitinib, sorafenib, or both sequentially.
 Prior therapy with bevacizumab, interleukin 2, or interferon-α was also permitted.
-Randomization was stratified according to prognostic score and prior anticancer therapy [see References (15)].
+Randomization was stratified according to prognostic score1 and prior anticancer therapy.
 
 Progression-free survival (PFS), documented using Response Evaluation Criteria in Solid Tumors (RECIST) was assessed via a blinded, independent, central radiologic review.
 After documented radiological progression, patients could be unblinded by the investigator: those randomized to placebo were then able to receive open-label AFINITOR 10 mg daily.
 
 In total, 416 patients were randomized 2:1 to receive AFINITOR (n=277) or placebo (n=139).
-Demographics were well balanced between the two arms (median age 61 years; 77% male, 88% Caucasian, 74% received prior sunitinib or sorafenib, and 26% received both sequentially).
+Demographics were well balanced between the 2 arms (median age 61 years; 77% male, 88% Caucasian, 74% received prior sunitinib or sorafenib, and 26% received both sequentially).
 
 AFINITOR was superior to placebo for PFS (see Table 14 and Figure 3).
 The treatment effect was similar across prognostic scores and prior sorafenib and/or sunitinib.
-Final overall survival (OS) results yield a hazard ratio of 0.90 (95% CI: 0.71 to 1.14), with no statistically significant difference between the two treatment groups.
-Planned crossover from placebo due to disease progression to open label AFINITOR occurred in 111 of the 139 patients (79.9%) and may have confounded the OS benefit.
+Final overall survival (OS) results yield a hazard ratio of 0.90 (95% CI: 0.71 to 1.14), with no statistically significant difference between the 2 treatment groups.
+Planned cross-over from placebo due to disease progression to open label AFINITOR occurred in 111 of the 139 patients (79.9%) and may have confounded the OS benefit.
 
 Table 14: Efficacy Results by Central Radiologic Review
 
@@ -106,22 +106,22 @@ The key eligibility requirements for this trial were at least one angiomyolipoma
 Patients received daily oral AFINITOR 10 mg or matching placebo until disease progression or unacceptable toxicity.
 CT or MRI scans for disease assessment were obtained at baseline, 12, 24, and 48 weeks and annually thereafter.
 Clinical and photographic assessment of skin lesions were conducted at baseline and every 12 weeks thereafter until treatment discontinuation.
-The major efficacy outcome measure was angiomyolipoma response rate based on independent central radiology review, which was defined as a ≥ 50% reduction in angiomyolipoma volume, absence of new angiomyolipoma lesion ≥ 1 cm, absence of kidney volume increase ≥ 20%, and no angiomyolipoma related bleeding of ≥ grade 2.
+The major efficacy outcome measure was angiomyolipoma response rate based on independent central radiology review, which was defined as a ≥ 50% reduction in angiomyolipoma volume, absence of new angiomyolipoma lesion ≥ 1 cm, absence of kidney volume increase ≥ 20%, and no angiomyolipoma related bleeding of ≥ Grade 2.
 Key supportive efficacy outcome measures were time to angiomyolipoma progression and skin lesion response rate.
 Analyses of efficacy outcome measures were limited to the blinded treatment period which ended 6 months after the last patient was randomized.
-The comparative angiomyolipoma response rate analysis was stratified by use of enzyme-inducing antiepileptic drugs (EIAEDs) at randomization (yes/no).
+The comparative angiomyolipoma response rate analysis was stratified by use of enzyme-inducing antiepileptic drugs (EIAEDs) at randomization (yes versus no).
 
 Of the 118 patients enrolled, 79 were randomized to AFINITOR and 39 to placebo.
 The median age was 31 years (range 18 to 61 years), 34% were male, and 89% were Caucasian.
 At baseline, 17% of patients were receiving EIAEDs.
-On central radiology review at baseline, 92% of patients had at least one angiomyolipoma of ≥ 3 cm in longest diameter, 29% had angiomyolipomas ≥ 8 cm, 78% had bilateral angiomyolipomas, and 97% had skin lesions.
+On central radiology review at baseline, 92% of patients had at least 1 angiomyolipoma of ≥ 3 cm in longest diameter, 29% had angiomyolipomas ≥ 8 cm, 78% had bilateral angiomyolipomas, and 97% had skin lesions.
 The median values for the sum of all target renal angiomyolipoma lesions at baseline were 85 cm3 (range 9 to 1612 cm3) and 120 cm3 (range 3 to 4520 cm3) in the AFINITOR and placebo arms respectively.
 Forty-six (39%) patients had prior renal embolization or nephrectomy.
 The median duration of follow-up was 8.3 months (range 0.7 to 24.8 months).
 
 The renal angiomyolipoma response rate was statistically significantly higher in AFINITOR-treated patients; there were 33 (41.8%) patients with angiomyolipoma responses in the AFINITOR arm as compared to none in the placebo arm.
 Results are displayed in Table 15.
-The median response duration is 5.3+ months (range 2.3+ to 19.6+ months).
+The median response duration was 5.3+ months (range 2.3+ to 19.6+ months).
 
 Table 15: Angiomyolipoma Response
 
@@ -137,7 +137,7 @@ There were 3 patients in the AFINITOR arm and 8 patients in the placebo arm with
 The time to angiomyolipoma progression was statistically significantly longer in the AFINITOR arm (HR 0.08 [95% CI: 0.02, 0.37]; p <0.0001).
 
 Skin lesion response rates were assessed by local investigators in 77 patients in the AFINITOR arm and 37 patients in the placebo arm with skin lesions at study entry.
-The skin lesion response rate was statistically significantly higher in the AFINITOR arm (26% vs. 0, p=0.0011); all skin lesion responses were partial responses, defined as visual improvement in 50%-99% skin lesions, considering all skin lesions, durable for at least eight weeks (Physician's Global Assessment of Clinical Condition).
+The skin lesion response rate was statistically significantly higher in the AFINITOR arm (26% versus 0, p=0.0011); all skin lesion responses were partial responses, defined as visual improvement in 50%-99% skin lesions, considering all skin lesions, durable for at least 8 weeks (Physician's Global Assessment of Clinical Condition).
 
 ## 14.5 Subependymal Giant Cell Astrocytoma with Tuberous Sclerosis Complex
 
@@ -150,7 +150,7 @@ MRI scans for disease assessment were obtained at baseline, 12, 24, and 48 weeks
 The main efficacy outcome measure was SEGA response rate based on independent central radiology review.
 SEGA response was defined as a ≥ 50% reduction in the sum of SEGA volume relative to baseline, in the absence of unequivocal worsening of non-target SEGA lesions, a new SEGA lesion ≥ 1 cm, and new or worsening hydrocephalus.
 Analysis of SEGA response rate was limited to the blinded treatment period which ended 6 months after the last patient was randomized.
-The analysis of SEGA response rate was stratified by use of enzyme-inducing antiepileptic drugs (EIAEDs) at randomization (yes/no).
+The analysis of SEGA response rate was stratified by use of enzyme-inducing antiepileptic drugs (EIAEDs) at randomization (yes versus no).
 
 Of the 117 patients enrolled, 78 were randomized to AFINITOR and 39 to placebo.
 The median age was 9.5 years (range 0.8 to 26 years; 69% were 3 to < 18 years at enrollment; 17% were < 3 years at enrollment), 57% were male, and 93% were Caucasian.
@@ -166,7 +166,7 @@ Results are displayed in Table 16.
 At the time of the final analysis, all SEGA responses were ongoing and the median duration of response was 5.3 months (range 2.1 to 8.4 months).
 No patient in either treatment arm required surgical intervention during the course of Study 1.
 
-Table 16: SEGA response
+Table 16: SEGA Response
 
 |  | AFINITOR | Placebo | p-value |
 | --- | --- | --- | --- |
@@ -186,10 +186,10 @@ Four patients had surgical resection of their SEGA lesions with subsequent re-gr
 After the core treatment phase, patients could continue to receive AFINITOR treatment as part of an extension treatment phase where SEGA volume was assessed every 6 months.
 The median duration of treatment was 34.2 months (range 4.7-47.1 months).
 
-At 6 months, 9 out of 28 patients (32%, 95% CI: 16% to 52%) had a ≥ 50% reduction in the tumor volume of their largest SEGA lesion.
-The median duration of response for these 9 patients was 11.8 months (range 3.2 to 39.1 months).
-Seven of these 9 patients had an ongoing volumetric reduction of ≥ 50% at the data cutoff.
+At 6 months, nine of 28 patients (32%, 95% CI: 16% to 52%) had a ≥ 50% reduction in the tumor volume of their largest SEGA lesion.
+The median duration of response for these nine patients was 11.8 months (range 3.2 to 39.1 months).
+Seven of these nine patients had an ongoing volumetric reduction of ≥ 50% at the data cutoff.
 
-Three of 4 patients who had prior surgery experienced a ≥ 50% reduction in the tumor volume of their largest SEGA lesion.
+Three of four patients who had prior surgery experienced a ≥ 50% reduction in the tumor volume of their largest SEGA lesion.
 One of these three patients responded by month 6.
 No patient developed new lesions.

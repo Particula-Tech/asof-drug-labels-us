@@ -65,7 +65,7 @@ See USP Controlled Room Temperature.
 Store in the original container, protect from light and moisture.
 Keep this and all drugs out of the reach of children.
 
-Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published [see References (15)].
-AFINITOR tablets should not be crushed.
+Follow special handling and disposal procedures for anticancer pharmaceuticals.2
+
+AFINITOR Tablets and AFINITOR DISPERZ should not be crushed.
 Do not take tablets which are crushed or broken.

@@ -5,17 +5,16 @@
 Administration of everolimus for up to 2 years did not indicate oncogenic potential in mice and rats up to the highest doses tested (0.9 mg/kg) corresponding respectively to 3.9 and 0.2 times the estimated clinical exposure (AUC0-24h) at the 10 mg daily human dose.
 
 Everolimus was not genotoxic in a battery of in vitro assays (Ames mutation test in Salmonella, mutation test in L5178Y mouse lymphoma cells, and chromosome aberration assay in V79 Chinese hamster cells).
-Everolimus was not genotoxic in an in vivo mouse bone marrow micronucleus test at doses up to 500 mg/kg/day (1500 mg/m2/day, approximately 255-fold the 10 mg daily human dose, and 103-fold the maximum dose administered to patients with SEGA, based on the body surface area), administered as two doses, 24 hours apart.
+Everolimus was not genotoxic in an in vivo mouse bone marrow micronucleus test at doses up to 500 mg/kg/day (1500 mg/m2/day, approximately 255-fold the 10 mg daily human dose, and 103-fold the maximum dose administered to patients with SEGA, based on the body surface area), administered as 2 doses, 24 hours apart.
 
 Based on non-clinical findings, male fertility may be compromised by treatment with AFINITOR.
 In a 13-week male fertility study in rats, testicular morphology was affected at 0.5 mg/kg and above.
 Sperm motility, sperm count, and plasma testosterone levels were diminished in rats treated with 5 mg/kg.
-These doses result in exposures which are within the range of therapeutic exposure (52 ng.hr/mL and 414 ng.hr/mL respectively compared to 560 ng.hr/mL human exposure at 10 mg/day), and resulted in infertility in the rats at 5 mg/kg.
+These doses result in exposures which are within the range of therapeutic exposure (52 ng•hr/mL and 414 ng•hr/mL respectively compared to 560 ng•hr/mL human exposure at 10 mg/day), and resulted in infertility in the rats at 5 mg/kg.
 Effects on male fertility occurred at the AUC0-24h values below that of therapeutic exposure (approximately 10%-81% of the AUC0-24h in patients receiving the 10 mg daily dose).
 After a 10-13 week non-treatment period, the fertility index increased from zero (infertility) to 60% (12/20 mated females were pregnant).
 
-Oral doses of everolimus in female rats at ≥0.1 mg/kg (approximately 4% the AUC0-24h in patients receiving the 10 mg daily dose) resulted in increases in pre-implantation loss, suggesting that the drug may reduce female fertility.
-Everolimus crossed the placenta and was toxic to the conceptus [see Use in Specific Populations (8.1)].
+Oral doses of everolimus in female rats at ≥0.1 mg/kg (approximately 4% the AUC0-24h in patients receiving the 10 mg daily dose) resulted in increased incidence of pre-implantation loss, suggesting that the drug may reduce female fertility.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

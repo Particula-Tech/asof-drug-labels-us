@@ -30,18 +30,18 @@ However, as responses have been observed at trough concentrations as low as 5 ng
 
 Absorption
 
-In patients with advanced solid tumors, peak everolimus concentrations are reached 1 to 2 hours after administration of oral doses ranging from 5 mg to 70 mg.
-Following single doses, Cmax is dose-proportional between 5 mg and 10 mg.
-At doses of 20 mg and higher, the increase in Cmax is less than dose-proportional, however AUC shows dose-proportionality over the 5 mg to 70 mg dose range.
+After administration of AFINITOR tablets in patients with advanced solid tumors, peak everolimus concentrations are reached 1 to 2 hours after administration of oral doses ranging from 5 mg to 70 mg.
+Following single doses, Cmax is dose-proportional with daily dosing between 5 mg and 10 mg.
+With single doses of 20 mg and higher, the increase in Cmax is less than dose-proportional, however AUC shows dose-proportionality over the 5 mg to 70 mg dose range.
 Steady-state was achieved within 2 weeks following once-daily dosing.
 
 Dose Proportionality in Patients with SEGA and TSC: In patients with SEGA and TSC, everolimus Cmin was approximately dose-proportional within the dose range from 1.35 mg/m2 to 14.4 mg/m2.
 
-Food effect: In healthy subjects, high fat meals reduced systemic exposure to AFINITOR 10 mg tablet (as measured by AUC) by 22% and the peak blood concentration Cmax by 54%.
-Light fat meals reduced AUC by 32% and Cmax by 42%.
+Food effect: In healthy subjects, high-fat meals reduced systemic exposure to AFINITOR 10 mg tablet (as measured by AUC) by 22% and the peak blood concentration Cmax by 54%.
+Light-fat meals reduced AUC by 32% and Cmax by 42%.
 Food, however, had no apparent effect on the post absorption phase concentration-time profile.
 
-Relative bioavailability of AFINITOR DISPERZ (everolimus tablets for oral suspension): The AUC0-∞ of AFINITOR DISPERZ was equivalent to that of AFINITOR Tablets; the Cmax of this dosage form was 20-36% lower than that of AFINITOR Tablets.
+Relative bioavailability of AFINITOR DISPERZ (everolimus tablets for oral suspension): The AUC0-∞ of AFINITOR DISPERZ was equivalent to that of AFINITOR Tablets; the Cmax of this dosage form was 20%-36% lower than that of AFINITOR Tablets.
 The predicted trough concentrations at steady-state were similar after daily administration.
 
 Distribution
@@ -59,9 +59,9 @@ These metabolites were also identified in animal species used in toxicity studie
 
 In vitro, everolimus competitively inhibited the metabolism of CYP3A4 and was a mixed inhibitor of the CYP2D6 substrate dextromethorphan.
 
-Excretion
+Elimination
 
-No specific excretion studies have been undertaken in cancer patients.
+No specific elimination studies have been undertaken in cancer patients.
 Following the administration of a 3 mg single dose of radiolabeled everolimus in patients who were receiving cyclosporine, 80% of the radioactivity was recovered from the feces, while 5% was excreted in the urine.
 The parent substance was not detected in urine or feces.
 The mean elimination half-life of everolimus is approximately 30 hours.
@@ -69,13 +69,13 @@ The mean elimination half-life of everolimus is approximately 30 hours.
 Patients with Renal Impairment
 
 Approximately 5% of total radioactivity was excreted in the urine following a 3 mg dose of [14C]-labeled everolimus.
-In a population pharmacokinetic analysis which included 170 patients with advanced cancer, no significant influence of creatinine clearance (25–178 mL/min) was detected on oral clearance (CL/F) of everolimus [see Use in Specific Populations (8.6)].
+In a population pharmacokinetic analysis which included 170 patients with advanced cancer, no significant influence of creatinine clearance (25–178 mL/min) was detected on oral clearance (CL/F) of everolimus [see Use in Specific Populations (8.7)].
 
 Patients with Hepatic Impairment
 
 The safety, tolerability and pharmacokinetics of AFINITOR were evaluated in a single oral dose study of everolimus in subjects with impaired hepatic function relative to subjects with normal hepatic function.
 Compared to normal subjects (N=13), there was a 1.8-fold, 3.2-fold, and 3.6-fold increase in exposure (i.e.
-AUC) for subjects with mild (Child-Pugh class A, N=6), moderate (Child-Pugh class B, N=9), and severe (Child-Pugh class C, N=6) hepatic impairment, respectively.
+AUC) for subjects with mild (Child-Pugh class A, n=6), moderate (Child-Pugh class B, n=9), and severe (Child-Pugh class C, n=6) hepatic impairment, respectively.
 In another study, the average AUC of everolimus in eight subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in eight subjects with normal hepatic function.
 
 For advanced HR+ BC, advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
@@ -94,11 +94,11 @@ Ethnicity
 
 Based on a cross-study comparison, Japanese patients (n=6) had on average exposures that were higher than non-Japanese patients receiving the same dose.
 
-Based on analysis of population pharmacokinetics, oral clearance (CL/F) is on average 20% higher in Black patients than in Caucasians.
+Based on analysis of population pharmacokinetics, oral clearance (CL/F) is on average 20% higher in black patients than in Caucasians.
 
-The significance of these differences on the safety and efficacy of everolimus in Japanese or Black patients has not been established.
+The significance of these differences on the safety and efficacy of everolimus in Japanese or black patients has not been established.
 
 ## 12.6 QT/QTc Prolongation Potential
 
-In a randomized, placebo-controlled, crossover study, 59 healthy subjects were administered a single oral dose of AFINITOR (20 mg and 50 mg) and placebo.
+In a randomized, placebo-controlled, cross-over study, 59 healthy subjects were administered a single oral dose of AFINITOR (20 mg and 50 mg) and placebo.
 There is no indication of a QT/QTc prolonging effect of AFINITOR in single doses up to 50 mg.
