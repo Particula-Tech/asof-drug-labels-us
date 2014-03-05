@@ -5,7 +5,7 @@
 Carcinogenicity studies with decitabine have not been conducted.
 
 The mutagenic potential of decitabine was tested in several in vitro and in vivo systems.
-Decitabine increased mutation frequency in L5178Y mouse lymphoma cells, and mutations were produced in an Escherichia coli lac-I transgene in colonic DNA of decitabine-treated mice.
+Decitabine increased mutation frequency in L5178Y mouse lymphoma cells, and mutations were produced in an Escherichiacoli lac-I transgene in colonic DNA of decitabine-treated mice.
 Decitabine caused chromosomal rearrangements in larvae of fruit flies.
 
 The effect of decitabine on postnatal development and reproductive capacity was evaluated in mice administered a single 3 mg/m2 IP injection (approximately 7% the recommended daily clinical dose) on day 10 of gestation.

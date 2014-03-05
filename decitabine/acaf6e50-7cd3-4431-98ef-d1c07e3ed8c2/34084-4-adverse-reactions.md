@@ -6,15 +6,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Most Commonly Occurring Adverse Reactions: neutropenia, thrombocytopenia, anemia, fatigue, pyrexia, nausea, cough, petechiae, constipation, diarrhea, and hyperglycemia.
 
-Adverse Reactions Most Frequently (≥ 1%) Resulting in Clinical Intervention in the Phase 3 Trial in the Dacogen Arm:
+Adverse Reactions Most Frequently (≥ 1%) Resulting in Clinical Intervention in the Phase 3 Trials in the Dacogen Arm:
 
 - Discontinuation: thrombocytopenia, neutropenia, pneumonia, Mycobacterium avium complex infection, cardio-respiratory arrest, increased blood bilirubin, intracranial hemorrhage, abnormal liver function tests.
 - Dose Delayed: neutropenia, pulmonary edema, atrial fibrillation, central line infection, febrile neutropenia.
 - Dose Reduced: neutropenia, thrombocytopenia, anemia, lethargy, edema, tachycardia, depression, pharyngitis.
 
-Discussion of Adverse Reactions Information
-
-Dacogen was studied in 3 single-arm studies (N = 66, N = 98, N = 99) and 1 controlled supportive care study (N = 83 Dacogen, N = 81 supportive care).
+Discussion of Adverse Reactions Information Dacogen was studied in 3 single-arm studies (N = 66, N = 98, N = 99) and 1 controlled supportive care study (N = 83 Dacogen, N = 81 supportive care).
 The data described below reflect exposure to Dacogen in 83 patients in the MDS trial.
 In the trial, patients received 15 mg/m2 intravenously every 8 hours for 3 days every 6 weeks.
 The median number of Dacogen cycles was 3 (range 0 to 9).
@@ -74,9 +72,9 @@ Table 1 Adverse Events Reported in ≥ 5% of Patients in the Dacogen Group and a
 | Catheter site erythema | 4 (5) | 1 (1) |
 | Catheter site pain | 4 (5) | 0 (0) |
 | Injection site swelling | 4 (5) | 0 (0) |
-| Hepatobiliary Disorders |  |  |
+| Hepatobiliary disorders |  |  |
 | Hyperbilirubinemia | 12 (14) | 4 (5) |
-| Infections and Infestations |  |  |
+| Infections and infestations |  |  |
 | Pneumonia NOS | 18 (22) | 11 (14) |
 | Cellulitis | 10 (12) | 6 (7) |
 | Candidal infection NOS | 8 (10) | 1 (1) |
@@ -152,14 +150,12 @@ Table 1 Adverse Events Reported in ≥ 5% of Patients in the Dacogen Group and a
 | Hypotension NOS | 5 (6) | 4 (5) |
 | Hematoma NOS | 4 (5) | 3 (4) |
 
-Discussion of Clinically Important Adverse Reactions
-
-In the controlled trial using Dacogen dosed at 15 mg/m2, administered by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days, the highest incidence of Grade 3 or Grade 4 adverse events in the Dacogen arm were neutropenia (87%), thrombocytopenia (85%), febrile neutropenia (23%) and leukopenia (22%).
+Discussion of Clinically Important Adverse Reactions In the controlled trial using Dacogen dosed at 15 mg/m2, administered by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days, the highest incidence of Grade 3 or Grade 4 adverse events in the Dacogen arm were neutropenia (87%), thrombocytopenia (85%), febrile neutropenia (23%) and leukopenia (22%).
 Bone marrow suppression was the most frequent cause of dose reduction, delay and discontinuation.
 Six patients had fatal events associated with their underlying disease and myelosuppression (anemia, neutropenia, and thrombocytopenia) that were considered at least possibly related to drug treatment [See Warnings and Precautions (5.1)].
 Of the 83 Dacogen-treated patients, 8 permanently discontinued therapy for adverse events; compared to 1 of 81 patients in the supportive care arm.
 
-In a single-arm study (N=99) Dacogen was dosed at 20 mg/m2 intravenous, infused over one hour daily for 5 consecutive days of a 4 week cycle.
+In a single-arm MDS study (N=99) Dacogen was dosed at 20 mg/m2 intravenous, infused over one hour daily for 5 consecutive days of a 4 week cycle.
 Table 2 presents all adverse events regardless of causality occurring in at least 5% of patients.
 
 Table 2 Adverse Events Reported in ≥ 5% of Patients in a Single-arm Study*
@@ -262,9 +258,7 @@ Table 2 Adverse Events Reported in ≥ 5% of Patients in a Single-arm Study*
 | Hypotension | 11 (11%) |
 | * In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities. Thus not all laboratory abnormalities were recorded as adverse events. |  |
 
-Discussion of Clinically Important Adverse Reactions
-
-In the single-arm study (N=99) when Dacogen was dosed at 20 mg/m2 intravenous, infused over one hour daily for 5 consecutive days, the highest incidence of Grade 3 or Grade 4 adverse events were neutropenia (37%), thrombocytopenia (24%) and anemia (22%).
+Discussion of Clinically Important Adverse Reactions In the single-arm study (N=99) when Dacogen was dosed at 20 mg/m2 intravenous, infused over one hour daily for 5 consecutive days, the highest incidence of Grade 3 or Grade 4 adverse events were neutropenia (37%), thrombocytopenia (24%) and anemia (22%).
 Seventy-eight percent of patients had dose delays, the median duration of this delay was 7 days and the largest percentage of delays were due to hematologic toxicities.
 Hematologic toxicities and infections were the most frequent causes of dose delays and discontinuation.
 Eight patients had fatal events due to infection and/or bleeding (seven of which occurred in the clinical setting of myelosuppression) that were considered at least possibly related to drug treatment.
@@ -295,4 +289,4 @@ Serious Adverse Events that occurred in patients receiving Dacogen regardless of
 The following adverse reactions have been identified during post-approval use of Dacogen.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cases of Sweet's Syndrome (acute febrile neutrophilic dermatosis) have been reported.
+Cases of Sweet’s Syndrome (acute febrile neutrophilic dermatosis) have been reported.

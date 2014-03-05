@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Dacogen (decitabine) for Injection contains decitabine (5-aza-2'-deoxycitidine), an analogue of the natural nucleoside 2'-deoxycytidine.
+Dacogen (decitabine) for Injection contains decitabine (5-aza-2’-deoxycitidine), an analogue of the natural nucleoside 2’-deoxycytidine.
 Decitabine is a fine, white to almost white powder with the molecular formula of C8H12N4O4 and a molecular weight of 228.21.
 Its chemical name is 4-amino-1-(2-deoxy-β-D-erythro-pentofuranosyl)-1,3,5-triazin-2(1H)-one and it has the following structural formula:
 

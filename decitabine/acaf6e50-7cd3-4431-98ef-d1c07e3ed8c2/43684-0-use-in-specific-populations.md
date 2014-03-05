@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.2)]
-
 Dacogen can cause fetal harm when administered to a pregnant woman.
 There are no adequate and well-controlled studies of Dacogen in pregnant women.
 
