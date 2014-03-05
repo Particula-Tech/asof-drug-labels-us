@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA202632"
+  ],
+  "inn": "moxifloxacin",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-603-10",
+    "65862-603-30",
+    "65862-603-55",
+    "65862-603-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "moxifloxacin hydrochloride",
+      "name": "Moxifloxacin Hydrochloride"
+    }
+  ],
+  "setid": "d6789c17-4a2f-4519-9060-e3b0dba422f0",
+  "source": "dailymed"
+}
