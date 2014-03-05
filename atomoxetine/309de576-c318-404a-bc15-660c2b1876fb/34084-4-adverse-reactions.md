@@ -69,7 +69,7 @@ Table 3: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 | b Constipation didn't meet the statistical significance on Breslow-Day test but is included in the table because of pharmacologic plausibility. |  |  |  |  |
 | c Mood swings didn't meet the statistical significance on Breslow-Day test at 0.05 level but p-value was <0.1 (trend). |  |  |  |  |
 
-The following adverse reactions occurred in at least 2% of PM patients and were either twice as frequent or statistically significantly more frequent in PM patients compared with EM patients: insomnia (15% of PMs, 10% of EMs); weight decreased (7% of PMs, 4% of EMs); constipation (7% of PMs, 4% of EMs); depression1 (7% of PMs, 4% of EMs); tremor (5% of PMs, 1% of EMs); excoriation (4% of PMs, 2% of EMs); conjunctivitis (3% of PMs, 1% of EMs); syncope (3% of PMs, 1% of EMs); early morning awakening (2% of PMs, 1% of EMs); mydriasis (2% of PMs, 1% of EMs).
+The following adverse reactions occurred in at least 2% of child and adolescent CYP2D6 PM patients and were statistically significantly more frequent in PM patients compared with CYP2D6 EM patients: insomnia (11% of PMs, 6% of EMs); weight decreased (7% of PMs, 4% of EMs); constipation (7% of PMs, 4% of EMs); depression1 (7% of PMs, 4% of EMs); tremor (5% of PMs, 1% of EMs); excoriation (4% of PMs, 2% of EMs); middle insomnia (3% of PMs, 1% of EMs); conjunctivitis (3% of PMs, 1% of EMs); syncope (3% of PMs, 1% of EMs); early morning awakening (2% of PMs, 1% of EMs); mydriasis (2% of PMs, 1% of EMs); sedation (4% of PMs, 2% of EMs).
 
 1Depression includes the following terms: depression, major depression, depressive symptoms, depressed mood, dysphoria.
 
@@ -138,6 +138,8 @@ Table 4: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 | e Urinary hesitation includes the terms: urinary hesitation, urine flow decreased. |  |  |
 | f Based on total number of males (STRATTERA, N=943; placebo, N=869). |  |  |
 | g Based on total number of females (STRATTERA, N=754; placebo, N=691). |  |  |
+
+The following adverse events occurred in at least 2% of adult CYP2D6 poor metaboliser (PM) patients and were statistically significantly more frequent in PM patients compared to CYP2D6 extensive metaboliser (EM) patients: vision blurred (4% of PMs, 1% of EMs); dry mouth (35% of PMs, 17% of EMs); constipation (11% of PMs, 7% of EMs); feeling jittery (5% of PMs, 2% of EMs); decreased appetite (23% of PMs, 15% of EMs); tremor (5% of PMs, 1% of EMs); insomnia (19% of PMs, 11% of EMs); sleep disorder (7% of PMs, 3% of EMs); middle insomnia (5% of PMs, 3% of EMs); terminal insomnia (3% of PMs, 1% of EMs); urinary retention (6% of PMs, 1% of EMs); erectile dysfunction (21% of PMs, 9% of EMs); ejaculation disorder (6% of PMs, 2% of EMs); hyperhidrosis (15% of PMs, 7% of EMs); peripheral coldness (3% of PMs, 1% of EMs).
 
 Male and female sexual dysfunction — Atomoxetine appears to impair sexual function in some patients.
 Changes in sexual desire, sexual performance, and sexual satisfaction are not well assessed in most clinical trials because they need special attention and because patients and physicians may be reluctant to discuss them.

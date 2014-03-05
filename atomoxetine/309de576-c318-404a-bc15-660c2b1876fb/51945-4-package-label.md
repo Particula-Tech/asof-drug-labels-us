@@ -8,7 +8,7 @@ PU 3227
 
 strattera®
 
-atomoxetine HCl
+atomoxetine capsules
 
 Rx only
 
@@ -32,7 +32,7 @@ PU 3238
 
 strattera®
 
-atomoxetine HCl
+atomoxetine capsules
 
 Rx only
 
@@ -56,7 +56,7 @@ PU 3228
 
 strattera®
 
-atomoxetine HCl
+atomoxetine capsules
 
 Rx only
 
@@ -80,7 +80,7 @@ PU 3229
 
 strattera®
 
-atomoxetine HCl
+atomoxetine capsules
 
 Rx only
 
@@ -104,7 +104,7 @@ PU 3239
 
 strattera®
 
-atomoxetine HCl
+atomoxetine capsules
 
 Rx only
 
@@ -128,7 +128,7 @@ PU 3250
 
 strattera®
 
-atomoxetine HCl
+atomoxetine capsules
 
 Rx only
 
@@ -152,7 +152,7 @@ PU 3251
 
 strattera®
 
-atomoxetine HCl
+atomoxetine capsules
 
 Rx only
 

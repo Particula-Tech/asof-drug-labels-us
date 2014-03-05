@@ -1,4 +1,4 @@
-MEDICATION GUIDE STRATTERA® (Stra-TAIR-a) (atomoxetine hydrochloride)
+MEDICATION GUIDE STRATTERA® (Stra-TAIR-a) (atomoxetine) Capsules
 
 Read the Medication Guide that comes with STRATTERA® before you or your child starts taking it and each time you get a refill.
 There may be new information.
@@ -228,13 +228,13 @@ Emsam® is a registered trademark of Somerset Pharmaceuticals Inc.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Patient Information revised August 5, 2013
+Patient Information revised February 20, 2014
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.strattera.com
 
-Copyright © 2003, 2013, Eli Lilly and Company.
+Copyright © 2003, 2014, Eli Lilly and Company.
 All rights reserved.
 
-PV 5858 AMP
+PV 5859 AMP
