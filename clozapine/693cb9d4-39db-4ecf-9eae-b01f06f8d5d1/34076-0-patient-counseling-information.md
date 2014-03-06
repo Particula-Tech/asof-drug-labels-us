@@ -41,4 +41,4 @@ VRSCp-13-01 Revised: July 2013
 
 Printed in USA
 
-Medical Affairs – 1-877-329-2256
+Medical Affairs – 1-800-520-5568
