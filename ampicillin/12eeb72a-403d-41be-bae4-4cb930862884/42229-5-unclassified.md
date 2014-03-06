@@ -84,6 +84,6 @@ The 3 g UNASYN ADD-Vantage® vials are only to be used with Abbott Laboratories'
 
 Rx only
 
-LAB-0018-6.0
+LAB-0018-8.0
 
-September 2012
+December 2013
