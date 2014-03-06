@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA076938"
+  ],
+  "inn": "moxifloxacin",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-112-01",
+    "55111-112-05",
+    "55111-112-30",
+    "55111-112-66",
+    "55111-112-79"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "moxifloxacin",
+      "name": "Moxifloxacin"
+    }
+  ],
+  "setid": "71b02da1-3175-1db8-192a-c0a8a6cd98a5",
+  "source": "dailymed"
+}
