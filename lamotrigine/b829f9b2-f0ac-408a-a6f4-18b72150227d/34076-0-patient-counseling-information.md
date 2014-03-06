@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide that accompanies the product.
+See FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Rash
 

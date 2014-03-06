@@ -16,7 +16,7 @@ What is the most important information I should know about Lamotrigine?
   You may or may not have a rash with these types of reactions.
   Call your healthcare provider right away if you have any of the following:These symptoms may be the first signs of a serious reaction.
   A healthcare provider should examine you to decide if you should continue taking lamotrigine.
-  - take lamotrigine while taking valproate [DEPAKENE® (valproic acid) or DEPAKOTE® (divalproex sodium)]
+  - take lamotrigine while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)]
   - take a higher starting dose of lamotrigine than your healthcare provider prescribed
   - increase your dose of lamotrigine faster than prescribed.
   - a skin rash
@@ -56,17 +56,17 @@ What is the most important information I should know about Lamotrigine?
   For more information ask your healthcare provider or pharmacist.
   Tell your healthcare provider if you have any side effect that bothers you.
   Be sure to read the section below entitled "What are the possible side effects of Lamotrigine?"
-  - headache
-  - fever
-  - nausea
-  - vomiting
-  - stiff neck
-  - rash
-  - unusual sensitivity to light
-  - muscle pains
-  - chills
-  - confusion
-  - drowsiness
+  - Headache
+  - Fever
+  - Nausea
+  - Vomiting
+  - Stiff neck
+  - Rash
+  - Unusual sensitivity to light
+  - Muscle pains
+  - Chills
+  - Confusion
+  - Drowsiness
 - 4.Patients prescribed lamotrigine have sometimes been given the wrong medicine because many medicines have names similar to lamotrigine, so always check that you receive lamotrigine.
   Taking the wrong medication can cause serious health problems.
   When your healthcare provider gives you a prescription for lamotrigine:
@@ -104,7 +104,7 @@ What should I tell my healthcare provider before taking Lamotrigine?
 Before taking lamotrigine, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have had a rash or allergic reaction to another antiseizure medicine.
-- have or have had depression, mood problems, or suicidal thoughts or behavior.
+- have or have had depression, mood problems or suicidal thoughts or behavior.
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
@@ -122,7 +122,7 @@ Before taking lamotrigine, tell your healthcare provider about all of your medic
   Talk to your healthcare provider about the best way to feed your baby if you take lamotrigine.
 
 Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Using lamotrigine with certain other medicines, can affect each other, causing side effects.
+Using lamotrigine with certain other medicines can affect each other, causing side effects.
 
 How should I take Lamotrigine?
 
@@ -140,13 +140,13 @@ How should I take Lamotrigine?
 - You may not feel the full effect of lamotrigine for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow lamotrigine tablets whole.
-- If you have trouble swallowing lamotrigine tablets, tell your healthcare provider because there may be another form of lamotrigine you can take.
+- If you have trouble swallowing lamotrigine tablets, there may be another form of lamotrigine you can take.
 - If you receive lamotrigine in a blisterpack, examine the blisterpack before use.
   Do not use if blisters are torn, broken, or missing.
 
 What should I avoid while taking Lamotrigine?
 
-Do not drive a car or operate complex, hazardous machinery until you know how lamotrigine affects you.
+- Do not drive a car or operate complex, hazardous machinery until you know how lamotrigine affects you.
 
 What are possible side effects of Lamotrigine?
 
@@ -185,6 +185,8 @@ This Medication Guide summarizes the most important information about lamotrigin
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about lamotrigine that is written for healthcare professionals.
 
+For more information about lamotrigine, call 1-866-923-4914.
+
 What are the ingredients in Lamotrigine?
 
 Lamotrigine Tablets, USP
@@ -195,6 +197,6 @@ Inactive ingredients: croscarmellose sodium, crospovidone, FD&C Blue #2 Aluminum
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
+DEPAKENE and DEPAKOTE are the property of their respective owners.
 
-Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 26110 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: November, 2012
+Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: February, 2014

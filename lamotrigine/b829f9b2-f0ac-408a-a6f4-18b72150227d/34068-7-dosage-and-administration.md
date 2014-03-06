@@ -113,7 +113,7 @@ Dosing recommendations for oral contraceptives can be found in General Dosing Co
 Patients on rifampin, or other drugs that induce lamotrigine glucuronidation and increase clearance, should follow the same dosing titration/maintenance regimen as that used with anticonvulsants that have this effect.
 
 Table 3.
-The Initial Weight-Based Dosing Guide for Patients 2 to 12 Years Taking Valproate (Weeks 1 to 4) With Epilepsy
+The Initial Weight-Based Dosing Guide for Patients 2 to 12 Years of Age Taking Valproate (Weeks 1 to 4) With Epilepsy
 
 | Greater than | And less than | Weeks 1 and 2 | Weeks 3 and 4 |
 | --- | --- | --- | --- |
