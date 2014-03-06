@@ -115,6 +115,6 @@ Note: Once vial is sealed, do not attempt to remove.
 4. Mix container contents thoroughly and use within the specified time.
    Figure 5 Figure 6
 
-LAB-0017-5.0
+LAB-0017-7.0
 
-August 2012
+December 2013
