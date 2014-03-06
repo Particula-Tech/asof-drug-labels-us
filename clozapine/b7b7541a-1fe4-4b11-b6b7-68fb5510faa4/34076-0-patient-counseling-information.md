@@ -3,8 +3,11 @@
 Discuss the following issues with patients and caregivers:
 
 - •Agranulocytosis: Prior to initiating treatment, educate patients and caregivers about the significant risk of developing agranulocytosis.
-  Advise them to immediately report the appearance of signs or symptoms consistent with agranulocytosis or infection (e.g., fever; mucus membrane ulcers; skin, pharyngeal, vaginal, urinary, or pulmonary infection; or extreme weakness or lethargy) at any time during FAZACLO therapy [see Warnings and Precautions (5.1)]. - Inform patients and caregivers that FAZACLO will be made available only through a special program designed to ensure the required blood monitoring in order to reduce the risk of developing agranulocytosis.
-  Inform patients and caregivers the WBC count and ANC will be monitored as follows:
+  Advise them to immediately report the appearance of signs or symptoms consistent with agranulocytosis or infection (e.g., fever; mucus membrane ulcers; skin, pharyngeal, vaginal, urinary, or pulmonary infection; or extreme weakness or lethargy) at any time during FAZACLO therapy [see Warnings and Precautions (5.1)].
+- - Inform patients and caregivers that FAZACLO will be made available only through a special program designed
+- to ensure the required blood monitoring in order to reduce the risk of developing agranulocytosis.
+  Inform patients
+- and caregivers the WBC count and ANC will be monitored as follows:
 
 Distributed by:
 
@@ -22,4 +25,4 @@ FZCLpc-13-01 Revised: July 2013
 
 Printed in USA
 
-Medical Affairs 1-877-FAZACLO (1-877-329-2256)
+Medical Affairs 1-800-520-5568
