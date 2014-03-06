@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022219"
+  ],
+  "inn": "testosterone",
+  "labeler": "Endo Pharmaceuticals Solutions Inc.",
+  "package_ndcs": [
+    "67979-511-43"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "testosterone undecanoate",
+      "name": "Aveed"
+    }
+  ],
+  "setid": "f80f025b-17d8-40af-8739-20ce07902045",
+  "source": "dailymed"
+}
