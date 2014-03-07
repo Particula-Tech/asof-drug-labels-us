@@ -12,10 +12,10 @@ The structural formulas for estradiol and levonorgestrel are:
 The Climara Pro transdermal system comprises 3 layers.
 Proceeding from the visible surface towards the surface attached to the skin, these layers are:
 
-1. 1.A translucent polyethylene backing film.
-2. 2.An acrylate adhesive matrix containing estradiol and levonorgestrel.
-3. 3.A protective liner of either siliconized or fluoropolymer coated polyester film.
-   The protective liner is attached to the adhesive surface and must be removed before the system can be used.
+- 1.A translucent polyethylene backing film.
+- 2.An acrylate adhesive matrix containing estradiol and levonorgestrel.
+- 3.A protective liner of either siliconized or fluoropolymer coated polyester film.
+  The protective liner is attached to the adhesive surface and must be removed before the system can be used.
 
 The active components of the transdermal system are estradiol and levonorgestrel.
 The remaining components of the transdermal system (acrylate copolymer adhesive and polyvinylpyrrolidone/vinyl acetate copolymer) are pharmacologically inactive.
