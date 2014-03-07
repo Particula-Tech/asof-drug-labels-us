@@ -33,7 +33,7 @@ Nervous system disorders: dizziness, insomnia
 
 Psychiatric disorders: anxiety, depression, irritability, decreased libido
 
-Reproductive system and breast disorders: breast pain, breast tenderness, menometrorrhagia, menorrhagia, menstruation irregular, uterine hemorrhage, vaginal hemorrhage
+Reproductive system and breast disorders: breast pain, breast tenderness, dysmenorrhea, menometrorrhagia, menorrhagia, menstruation irregular, uterine hemorrhage, vaginal hemorrhage
 
 Skin disorders: acne
 

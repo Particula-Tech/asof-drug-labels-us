@@ -204,7 +204,7 @@ The most common side effects are:
   If there is swelling or your skin gets hot, has pus or looks bruised one or more days after your shot, call your healthcare provider.
 - Headache.
 
-Women using depo-subQ provera 104 for birth control or endometriosis had these less common side effects: abdominal pain, acne, breast tenderness, being irritable, depression, hot flushes, insomnia, joint pain, lack of energy, less sex drive, nausea and sleepiness.
+Women using depo-subQ provera 104 for birth control or endometriosis had these less common side effects: abdominal pain, acne, breast tenderness, being irritable, depression, hot flushes, insomnia, joint pain, lack of energy, less sex drive, painful periods, nausea and sleepiness.
 
 If you feel you are having other side effects, talk with your healthcare provider.
 
