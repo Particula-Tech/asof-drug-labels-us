@@ -10,15 +10,13 @@ EXTENDED-RELEASE TABLETS
 
 25 mg
 
-RX only
+Once A Day
 
-Once A Day LAMICTAL XR
+RX only
 
 CAUTION: Verify Product Dispensed
 
 30 Tablets
-
-LAMICTAL XR 25
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -32,12 +30,12 @@ Visit www.LAMICTALXR.com
 
 GlaxoSmithKline RTP, NC 27709
 
-Made in England
+Made in India
 
 Rev.
-4/09
+8/11
 
-A043355
+A098128
 
 Principal Display Panel
 
@@ -51,15 +49,15 @@ EXTENDED-RELEASE TABLETS
 
 50 mg
 
-Rx only
+Once A Day
 
-30 tablets
+Rx only
 
 CAUTION: Verify Product Dispensed
 
-Dispense the accompanying Medication Guide to each patient.
+30 tablets
 
-Once A Day LAMICTAL XR
+Dispense the accompanying Medication Guide to each patient.
 
 See prescribing information for dosage information.
 
@@ -69,14 +67,16 @@ Store at 25oC (77oF); excursions permitted to 15 – 30oC (59 – 86oF).
 
 Visit www.LAMICTALXR.com
 
-GlaxoSmithKline RTP, NC 27709
+GlaxoSmithKline
 
-Made in England
+RTP, NC 27709
+
+Made in India
 
 Rev.
-4/09
+8/11
 
-A043354
+A098129
 
 Principal Display Panel
 
@@ -90,15 +90,15 @@ EXTENDED-RELEASE TABLETS
 
 100 mg
 
-Rx only
+Once A Day
 
-30 tablets
+Rx only
 
 CAUTION: Verify Product Dispensed
 
-Dispense the accompanying Medication Guide to each patient.
+30 tablets
 
-Once A Day LAMICTAL XR
+Dispense the accompanying Medication Guide to each patient.
 
 See prescribing information for dosage information.
 
@@ -108,14 +108,16 @@ Store at 25oC (77oF); excursions permitted to 15 – 30oC (59 – 86oF).
 
 Visit www.LAMICTALXR.com
 
-GlaxoSmithKline RTP, NC 27709
+GlaxoSmithKline
 
-Made in England
+RTP, NC 27709
+
+Made in India
 
 Rev.
-4/09
+8/11
 
-A043353
+A098130
 
 Principal Display Panel
 
@@ -129,15 +131,15 @@ EXTENDED-RELEASE TABLETS
 
 200 mg
 
-Rx only
+Once A Day
 
-30 tablets
+Rx only
 
 CAUTION: Verify Product Dispensed
 
-Dispense the accompanying Medication Guide to each patient.
+30 tablets
 
-Once A Day LAMICTAL XR
+Dispense the accompanying Medication Guide to each patient.
 
 See prescribing information for dosage information.
 
@@ -147,14 +149,16 @@ Store at 25oC (77oF); excursions permitted to 15 – 30oC (59 – 86oF).
 
 Visit www.LAMICTALXR.com
 
-GlaxoSmithKline RTP, NC 27709
+GlaxoSmithKline
 
-Made in England
+RTP, NC 27709
+
+Made in India
 
 Rev.
-4/09
+8/11
 
-A043352
+A098131
 
 NDC 0173-0781-00
 
@@ -166,15 +170,15 @@ EXTENDED- RELEASE TABLETS
 
 250 mg
 
-Rx only
+Once A Day
 
-30 tablets
+Rx only
 
 CAUTION: Verify Product Dispensed
 
 Dispense the accompanying Medication Guide to each patient.
 
-Once A Day
+30 tablets
 
 See prescribing information for dosage information.
 
@@ -182,18 +186,18 @@ Do not use if printed safety seal under cap is broken or missing.
 
 Store at 25oC (77oF); excursion permitted to 15 – 30oC (59 – 86oF).
 
-Visit _Refwww.LAMICTALXR.com
+Visit www.LAMICTALXR.com
 
 GlaxoSmithKline
 
 RTP, NC 27709
 
-Made in England
+Made in India
 
 Rev.
-7/11
+9/11
 
-A097701
+A098909
 
 Principal Display Panel
 
@@ -206,8 +210,6 @@ LAMICTAL® XRTM
 EXTENDED-RELEASE TABLETS
 
 Rx only
-
-CAUTION: Verify Product Dispensed
 
 For patients TAKING valproate*
 
@@ -225,19 +227,20 @@ Each tablet contains 50 mg of lamotrigine
 
 Please check with your physician about proper maintenance dose before week 5.
 
-Weeks / Tablets per day
-
-1 & 2 Take 1 (25 mg) tablet every OTHER day
-
-3 & 4 Take 1 (25 mg) tablet ONCE a DAY
-
-5 Take 1 (50 mg) tablet ONCE a DAY
+| Weeks | Tablets per day |
+| --- | --- |
+| 1 & 2 | Take 1 (25mg) tablet every OTHER day |
+| 3 &4 | Take 1 (25mg) tablet ONCE a DAY |
+| 5 | Take 1 (50mg) tablet ONCE a DAY |
 
 Dispense the accompanying Medication Guide to each patient.
 
+CAUTION: Verify Product Dispensed
+
 GlaxoSmithKline
 
-10000000045586
+10000000098324 Rev.
+8/11
 
 Principal Display Panel
 
@@ -250,8 +253,6 @@ LAMICTAL® XRTM
 EXTENDED-RELEASE TABLETS
 
 Rx only
-
-CAUTION: Verify Product Dispensed
 
 For patients TAKING carbamazepine, phenytoin, phenobarbital, or primidone and NOT TAKING valproate*
 
@@ -273,19 +274,20 @@ Each tablet contains 200 mg of lamotrigine
 
 Please check with your physician about proper maintenance dose before week 5.
 
-Weeks / Tablets per day
-
-1 & 2 Take 1 (50 mg) tablet ONCE a DAY
-
-3 & 4 Take 1 (100 mg) tablet ONCE a DAY
-
-5 Take 1 (200 mg) tablet ONCE a DAY
+| Weeks | Tablets per day |
+| --- | --- |
+| 1 & 2 | Take 1 (50mg) tablet ONCE a DAY |
+| 3 &4 | Take 1 (100mg) tablet ONCE a DAY |
+| 5 | Take 1 (200mg) tablet ONCE a DAY |
 
 Dispense the accompanying Medication Guide to each patient.
 
+CAUTION: Verify Product Dispensed
+
 GlaxoSmithKline
 
-10000000045582
+10000000098323 Rev.
+8/11
 
 Principal Display Panel
 
@@ -298,8 +300,6 @@ LAMICTAL® XRTM
 EXTENDED-RELEASE TABLETS
 
 Rx only
-
-CAUTION: Verify Product Dispensed
 
 For patients NOT TAKING carbamazepine, phenytoin, phenobarbital, primidone, or valproate*
 
@@ -321,19 +321,20 @@ Each tablet contains 100 mg of lamotrigine
 
 Please check with your physician about proper maintenance dose before week 5.
 
-Weeks / Tablets per day
-
-1 & 2 Take 1 (25 mg) tablet ONCE a DAY
-
-3 & 4 Take 1 (50 mg) tablet ONCE a DAY
-
-5 Take 1 (100 mg) tablet ONCE a DAY
+| Weeks | Tablets per day |
+| --- | --- |
+| 1 & 2 | Take 1 (25mg) tablet ONCE a DAY |
+| 3 & 4 | Take 1 (50mg) tablet ONCE a DAY |
+| 5 | Take 1 (100mg) tablet ONCE a DAY |
 
 Dispense the accompanying Medication Guide to each patient.
 
+CAUTION: Verify Product Dispensed
+
 GlaxoSmithKline
 
-10000000045590
+10000000098325 Rev.
+8/11
 
 Principal Display Panel
 
@@ -347,15 +348,15 @@ EXTENDED- RELEASE TABLETS
 
 300 mg
 
-Rx only
+Once A Day
 
-30 tablets
+Rx only
 
 CAUTION: Verify Product Dispensed
 
-Dispense the accompanying Medication Guide to each patient.
+30 tablets
 
-Once A Day
+Dispense the accompanying Medication Guide to each patient.
 
 See prescribing information for dosage information.
 
@@ -363,15 +364,15 @@ Do not use if printed safety seal under cap is broken or missing.
 
 Store at 25oC (77oF); excursion permitted to 15 – 30oC (59 – 86oF).
 
-Visit _Refwww.LAMICTALXR.com
+Visit www.LAMICTALXR.com
 
 GlaxoSmithKline
 
 RTP, NC 27709
 
-Made in England
+Made in India
 
 Rev.
-10/09
+8/11
 
-A071527
+A098132

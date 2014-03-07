@@ -10,7 +10,7 @@ Prior to initiation of treatment with LAMICTAL XR, the patient should be instruc
 
 Patients should be instructed that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with LAMICTAL.
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
-Patients should contact their physician immediately if they experience any signs or symptoms of these conditions [see Warnings andPrecautions (5.2, 5.3)].
+Patients should contact their physician immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.2, 5.3)].
 
 ## 17.3 Suicidal Thinking and Behavior
 
@@ -67,13 +67,13 @@ The label on the bottle includes a depiction of the tablets that further communi
 The unit-of-use bottle with a distinctive orange cap and distinctive bottle label features serves to identify the different presentations of the drug and thus may help to reduce the risk of medication errors.
 To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are LAMICTAL XR each time they fill their prescription and to immediately talk to their doctor/pharmacist if they receive a LAMICTAL XR tablet without a white center and without “LAMICTAL XR” and the strength printed on the tablet as they may have received the wrong medication[see Dosage Forms and Strengths (3), How Supplied/Storage and Handling (16)].
 
-LAMICTAL XR and DiffCORE are trademarks of GlaxoSmithKline.
+LAMICTAL XR and DiffCORE are trademarks of the GlaxoSmithKline group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2012, GlaxoSmithKline.
+©2013, GlaxoSmithKline group of companies.
 All rights reserved.
 
-LXR:13PI
+LXR:14PI

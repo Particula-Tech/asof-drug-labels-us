@@ -50,7 +50,7 @@ Therefore, doses may need to be adjusted in some subjects based on therapeutic r
 Table 6.
 Steady-State Bioavailability of LAMICTAL XR Relative to Immediate-Release Lamotrigine at Equivalent Daily Doses (Ratio of Extended-Release to Immediate-Release 90% CI)
 
-| Concomitant Antiepileptic Drug | AUC (0-24ss) | Cmax | Cmin |
+| Concomitant Antiepileptic Drug | AUC(0-24ss) | Cmax | Cmin |
 | --- | --- | --- | --- |
 | Enzyme-inducing antiepileptic drugsa | 0.79 (0.69, 0.90) | 0.71 (0.61, 0.82) | 0.99 (0.89, 1.09) |
 | Valproate | 0.94 (0.81, 1.08) | 0.88 (0.75, 1.03) | 0.99 (0.88, 1.10) |

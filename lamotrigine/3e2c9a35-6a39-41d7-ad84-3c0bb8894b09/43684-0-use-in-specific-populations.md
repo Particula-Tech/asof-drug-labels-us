@@ -63,7 +63,7 @@ The no-effect dose for adverse effects on neurobehavioral development is less th
 ## 8.5 Geriatric Use
 
 Clinical studies of LAMICTAL XR for epilepsy did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects or exhibit a different safety profile than that of younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 ## 8.6 Patients With Hepatic Impairment
 
