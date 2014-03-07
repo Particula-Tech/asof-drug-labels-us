@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091649"
+  ],
+  "inn": "capecitabine",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-7473-06",
+    "0093-7474-89"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "capecitabine",
+      "name": "Capecitabine"
+    }
+  ],
+  "setid": "5753679a-506c-4ac4-b8b2-b27c664d1d40",
+  "source": "dailymed"
+}
