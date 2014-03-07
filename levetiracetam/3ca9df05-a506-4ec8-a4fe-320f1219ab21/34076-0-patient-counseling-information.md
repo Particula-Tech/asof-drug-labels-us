@@ -29,5 +29,4 @@ Pregnancy
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during KEPPRA therapy.
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334.
-Additionally, inform patients they can enroll in the UCB AED Pregnancy Registry and they or their healthcare provider can call 1-888-537-7734 (toll free) [see Use In Specific Populations (8.1)].
+To enroll, patients can call the toll free number 1-888-233-2334 [see Use In Specific Populations (8.1)].

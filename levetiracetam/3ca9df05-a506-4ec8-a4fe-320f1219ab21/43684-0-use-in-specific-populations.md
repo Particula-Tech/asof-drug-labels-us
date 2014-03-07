@@ -30,9 +30,6 @@ To provide information regarding the effects of in utero exposure to KEPPRA, phy
 This can be done by calling the toll free number 1-888-233-2334, and must be done by the patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
-UCB, Inc. has established the UCB AED Pregnancy Registry to advance scientific knowledge about safety and outcomes associated with pregnant women being treated with all UCB antiepileptic drugs, including KEPPRA.
-To ensure broad program access and reach, either a healthcare provider or the patient can initiate enrollment in the UCB AED Pregnancy Registry by calling 1-888-537-7734 (toll free).
-
 ## 8.2 Labor and Delivery
 
 The effect of KEPPRA on labor and delivery in humans is unknown.
