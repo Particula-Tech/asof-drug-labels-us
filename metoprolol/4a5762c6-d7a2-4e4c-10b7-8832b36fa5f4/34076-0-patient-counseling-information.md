@@ -10,13 +10,13 @@ Heart failure patients should be advised to consult their physician if they expe
 
 TOPROL-XL and PLENDIL are trademarks of the AstraZeneca group of companies.
 
-© AstraZeneca 2013
+© AstraZeneca 2012
 
 Distributed by: AstraZeneca LP
 
 Wilmington, DE 19850
 
-35556-03
+35556-02
 
 Rev.
-10/2013
+10/2012
