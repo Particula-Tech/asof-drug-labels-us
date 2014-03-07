@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA020572",
+    "NDA020573"
+  ],
+  "inn": "sodium-phenylbutyrate",
+  "labeler": "Hyperion Therapeutics, Inc.",
+  "package_ndcs": [
+    "76325-188-64",
+    "76325-496-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sodium phenylbutyrate",
+      "name": "BUPHENYL"
+    },
+    {
+      "form": "POWDER",
+      "generic": "sodium phenylbutyrate",
+      "name": "Buphenyl"
+    }
+  ],
+  "setid": "aa638c13-3048-42b2-8a8b-79dae040ea35",
+  "source": "dailymed"
+}
