@@ -15,12 +15,11 @@ Advise patients to use effective contraceptive measures to prevent pregnancy and
 Inform patients that HYCAMTIN may cause asthenia or fatigue.
 If these symptoms occur, caution should be observed when driving or operating machinery.
 
-HYCAMTIN is a registered trademark of GlaxoSmithKline.
-
+HYCAMTIN is a registered trademark of the GSK group of companies.
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
-HYJ:21PI
+HYJ:22PI
