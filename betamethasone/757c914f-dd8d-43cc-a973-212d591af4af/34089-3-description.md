@@ -15,5 +15,5 @@ Betamethasone dipropionate has the chemical name Pregna-1,4-diene-3,20-dione-9-f
 
 Betamethasone dipropionate is a white to almost white, crystalline powder.
 
-Each gram of Taclonex® Topical Suspension contains 52.18 mcg of calcipotriene hydrate (equivalent to 50 mcg of calcipotriene) and 0.643 mg of betamethasone dipropionate (equivalent to 0.5 mg of betamethasone) in a base of hydrogenated castor oil, PPG-15 stearyl ether and mineral oil.
+Each gram of Taclonex® Topical Suspension contains 52.18 mcg of calcipotriene hydrate (equivalent to 50 mcg of calcipotriene) and 0.643 mg of betamethasone dipropionate (equivalent to 0.5 mg of betamethasone) in a base of hydrogenated castor oil, PPG-11 stearyl ether, all-rac-alpha-tocopherol, butylhydroxytoluene, and mineral oil.
 Taclonex® Topical Suspension is an odorless clear to slightly off white suspension.

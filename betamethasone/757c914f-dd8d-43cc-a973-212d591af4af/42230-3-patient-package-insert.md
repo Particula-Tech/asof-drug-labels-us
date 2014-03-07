@@ -135,4 +135,4 @@ What are the ingredients in Taclonex® Topical Suspension?
 
 Active ingredients: calcipotriene hydrate and betamethasone dipropionate.
 
-Inactive ingredients: hydrogenated castor oil, PPG-15 stearyl ether and mineral oil.
+Inactive ingredients: hydrogenated castor oil, PPG-11 stearyl ether, all-rac-alpha-tocopherol, butylhydroxytoluene, and mineral oil.
