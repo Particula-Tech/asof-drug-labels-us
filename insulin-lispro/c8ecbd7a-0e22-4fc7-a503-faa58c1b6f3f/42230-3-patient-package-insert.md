@@ -33,7 +33,6 @@ HUMALOG comes in:
 
 - 10 mL vials (bottles) for use with a syringe or external insulin pump
 - 3 mL vials (bottles) for use with a syringe or external insulin pump
-- 3 mL prefilled pens
 - 3 mL Humalog® KwikPen™
 - 3 mL cartridges for use with a reusable pen or external insulin pump
 
@@ -222,7 +221,7 @@ __________
 
 Humalog® and Humalog® KwikPen™ are registered trademarks of Eli Lilly and Company.
 
-Patient Information revised March 11, 2013
+Patient Information revised November 14, 2013
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
@@ -231,7 +230,7 @@ www.humalog.com
 Copyright © 2007, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 5565 AMP
+PV 5566 AMP
 
 Instructions for Use HUMALOG® KwikPen™ insulin lispro injection (rDNA origin)
 

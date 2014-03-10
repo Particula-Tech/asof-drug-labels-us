@@ -8,7 +8,6 @@ HUMALOG 100 units per mL (U-100) is available as:
 | --- | --- |
 | 3 mL vials | NDC 0002-7510-17 (VL-7533) |
 | 5 x 3 mL cartridges1 | NDC 0002-7516-59 (VL-7516) |
-| 5 x 3 mL prefilled pen | NDC 0002-8725-59 (HP-8725) |
 | 5 x 3 mL Humalog KwikPen (prefilled) | NDC 0002-8799-59 (HP-8799) |
 
 ## 16.2 Storage and Handling
@@ -17,7 +16,7 @@ Do not use after the expiration date.
 
 Unopened HUMALOG should be stored in a refrigerator (36° to 46°F [2° to 8°C]), but not in the freezer.
 Do not use HUMALOG if it has been frozen.
-In-use HUMALOG vials, cartridges, pens, and HUMALOG KwikPen should be stored at room temperature, below 86°F (30°C) and must be used within 28 days or be discarded, even if they still contain HUMALOG.
+In-use HUMALOG vials, cartridges, and HUMALOG KwikPen should be stored at room temperature, below 86°F (30°C) and must be used within 28 days or be discarded, even if they still contain HUMALOG.
 Protect from direct heat and light.
 See table below:
 
@@ -26,7 +25,6 @@ See table below:
 | 10 mL vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
 | 3 mL vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
 | 3 mL cartridge | 28 days | Until expiration date | 28 days, Do not refrigerate. |
-| 3 mL prefilled pen | 28 days | Until expiration date | 28 days, Do not refrigerate. |
 | 3 mL Humalog KwikPen (prefilled) | 28 days | Until expiration date | 28 days, Do not refrigerate. |
 
 Use in an External Insulin Pump — Change the HUMALOG in the reservoir at least every 7 days, change the infusion sets and the infusion set insertion site at least every 3 days or after exposure to temperatures that exceed 98.6°F (37°C).
