@@ -15,8 +15,7 @@ The clinical trial safety profile in patients greater than 65 years of age was s
 
 The clinical trial safety profile in pediatric patients who received PRILOSEC Delayed-Release Capsules was similar to that in adult patients.
 Unique to the pediatric population, however, adverse reactions of the respiratory system were most frequently reported in both the 1 to <2 and 2 to 16 year age groups (75.0% and 18.5%, respectively).
-Similarly, fever was frequently reported in the 1 to 2 year age group (33.0%), and accidental injuries were reported frequently in the 2 to 16 year age group (3.8%).
-[See Use in Specific Populations (8.4)]
+Similarly, fever was frequently reported in the 1 to 2 year age group (33.0%), and accidental injuries were reported frequently in the 2 to 16 year age group (3.8%) [seeUse in Specific Populations (8.4)].
 
 ## 6.2 Clinical Trials Experience with PRILOSEC in Combination Therapy for H. pylori Eradication
 
@@ -26,13 +25,13 @@ Adverse reactions observed were limited to those previously reported with omepra
 Dual Therapy (PRILOSEC/clarithromycin)
 
 Adverse reactions observed in controlled clinical trials using combination therapy with PRILOSEC and clarithromycin (n = 346) that differed from those previously described for PRILOSEC alone were taste perversion (15%), tongue discoloration (2%), rhinitis (2%), pharyngitis (1%) and flu-syndrome (1%).
-(For more information on clarithromycin, refer to the clarithromycin prescribing information, Adverse Reactions section).
+(For more information on clarithromycin, refer to the clarithromycin prescribing information, Adverse Reactions section.)
 
 Triple Therapy (PRILOSEC/clarithromycin/amoxicillin)
 
 The most frequent adverse reactions observed in clinical trials using combination therapy with PRILOSEC, clarithromycin, and amoxicillin (n = 274) were diarrhea (14%), taste perversion (10%), and headache (7%).
 None of these occurred at a higher frequency than that reported by patients taking antimicrobial agents alone.
-(For more information on clarithromycin or amoxicillin, refer to the respective prescribing information, Adverse Reactions sections).
+(For more information on clarithromycin or amoxicillin, refer to the respective prescribing information, Adverse Reactions sections.)
 
 ## 6.3 Post-marketing Experience
 
@@ -48,6 +47,7 @@ Endocrine: Gynecomastia
 Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis.
 During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
 These polyps are benign and appear to be reversible when treatment is discontinued.
+
 Gastroduodenal carcinoids have been reported in patients with ZE syndrome on long-term treatment with PRILOSEC.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
 

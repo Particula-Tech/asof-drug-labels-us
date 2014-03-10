@@ -11,7 +11,7 @@ Atrophic gastritis has been noted occasionally in gastric corpus biopsies from p
 ## 5.3 Clostridium difficile associated diarrhea
 
 Published observation studies suggest that PPI therapy like PRILOSEC may be associated with an increase risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
-This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
+This diagnosis should be considered for diarrhea that does not improve [seeAdverse Reactions (6.2)].
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
@@ -32,8 +32,7 @@ When using PRILOSEC, consider alternative anti-platelet therapy [see Drug Intera
 Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines.
-[see Dosage and Administration (2) and Adverse Reactions (6.3)]
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.3)].
 
 ## 5.6 Hypomagnesemia
 
@@ -41,13 +40,12 @@ Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patien
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
-For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
-[See Adverse Reactions (6.3)]
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.3)].
 
-## 5.7 Concomitant use of PRILOSEC with St John’s Wort or rifampin
+## 5.7 Concomitant use of PRILOSEC with St. John’s Wort or rifampin
 
-Drugs which induce CYP2C19 or CYP3A4 (such as St John’s Wort or rifampin) can substantially decrease omeprazole concentrations.
-[See Drug Interactions (7.3)] Avoid concomitant use of PRILOSEC with St John’s Wort or rifampin.
+Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s Wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7.3)].
+Avoid concomitant use of PRILOSEC with St. John’s Wort or rifampin.
 
 ## 5.8 Interactions with Diagnostic Investigations for Neuroendocrine Tumors
 
@@ -59,5 +57,4 @@ If serial tests are performed (e.g. for monitoring), the same commercial laborat
 ## 5.9 Concomitant use of PRILOSEC with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients.
-[see Drug Interactions (7.7)]
+In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.7)].

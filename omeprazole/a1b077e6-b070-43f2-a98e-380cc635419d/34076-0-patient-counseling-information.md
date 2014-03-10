@@ -32,15 +32,15 @@ For patients with a nasogastric or gastric tube in place:
 - •Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach.
 
 Advise patients to immediately report and seek care for diarrhea that does not improve.
-This may be a sign of Clostridiumdifficile associated diarrhea [seeWarnings and Precautions (5.3)].
+This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.3)].
 
-Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.6)].
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [seeWarnings and Precautions (5.6)].
 
 PRILOSEC is a trademark of the AstraZeneca group of companies.
 
 Manufactured for: AstraZeneca LP, Wilmington, DE 19850
 
-©AstraZeneca 2013
+©AstraZeneca 2014
 
 Rev.
-May 2013
+February 2014

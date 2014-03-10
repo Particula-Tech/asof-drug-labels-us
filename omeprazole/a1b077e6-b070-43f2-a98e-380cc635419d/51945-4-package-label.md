@@ -64,7 +64,7 @@ For Delayed-Release Oral Suspension
 
 2.5 mg
 
-Packet contains 2.8 mg of omeprazole magnesium which is equivalent
+This packet contains 2.8 mg of omeprazole magnesium which is equivalent
 
 to 2.5 mg of omeprazole as delayed-release granules.
 
@@ -72,7 +72,13 @@ Dispense the enclosed Medication Guide to each patient.
 
 Rx only
 
-Manufactured for: AstraZeneca LP, Wilmington, DE 19850
+Mfd for: AstraZeneca LP, Wilmington, DE 19850
+
+By: AstraZeneca AB, Sodertalje, Sweden
+
+Product of Sweden
+
+AstraZeneca
 
 # Package/Label Display Panel - 10 mg Oral Suspension
 
@@ -86,7 +92,7 @@ For Delayed-Release Oral Suspension
 
 10 mg
 
-Packet contains 11.2 mg of omeprazole magnesium which is equivalent
+This packet contains 11.2 mg of omeprazole magnesium which is equivalent
 
 to 10 mg of omeprazole as delayed-release granules.
 
@@ -94,4 +100,10 @@ Dispense the enclosed Medication Guide to each patient.
 
 Rx only
 
-Manufactured for: AstraZeneca LP, Wilmington, DE 19850
+Mfd for: AstraZeneca LP, Wilmington, DE 19850
+
+By: AstraZeneca AB, Sodertalje, Sweden
+
+Product of Sweden
+
+AstraZeneca

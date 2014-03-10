@@ -8,7 +8,7 @@ Omeprazole is a white to off-white crystalline powder that melts with decomposit
 It is a weak base, freely soluble in ethanol and methanol, and slightly soluble in acetone and isopropanol and very slightly soluble in water.
 The stability of omeprazole is a function of pH; it is rapidly degraded in acid media, but has acceptable stability under alkaline conditions.
 
-The active ingredient in PRILOSEC (omeprazole magnesium) for Delayed Release Oral Suspension, is 5-Methoxy-2-[[(4-methoxy-3,5-dimethyl-2-pyridinyl)methyl]sulfinyl]-1H-benzimidazole, magnesium salt (2:1)
+The active ingredient in PRILOSEC (omeprazole magnesium) for Delayed-Release Oral Suspension, is 5-Methoxy-2-[[(4-methoxy-3,5-dimethyl-2-pyridinyl)methyl]sulfinyl]-1H-benzimidazole, magnesium salt (2:1)
 
 Omeprazole magnesium is a white to off white powder with a melting point with degradation at 200°C.
 The salt is slightly soluble (0.25 mg/mL) in water at 25°C, and it is soluble in methanol.

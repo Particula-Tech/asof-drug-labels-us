@@ -23,4 +23,18 @@ Omeprazole was negative in the in vitro Ames test, an in vitro mouse lymphoma ce
 
 Omeprazole at oral doses up to 138 mg/kg/day in rats (about 56 times the human dose on a body surface area basis) was found to have no effect on fertility and reproductive performance.
 
-In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [See Warnings and Precautions (5)] Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
+In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [seeWarnings and Precautions (5)].
+Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
+
+## 13.2 Animal Toxicology and/or Pharmacology
+
+Reproduction Studies
+
+Reproduction studies have been performed in rats at oral doses up to 280 mg/kg/day (about 57 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at oral doses up to 86 mg/kg/day (about 35 times an oral human dose of 40 mg on a body surface area basis) and have revealed no evidence of impaired fertility or harm to the fetus due to esomeprazole [seePregnancy, Animal Data (8.1)].
+
+Juvenile Animal Study
+
+A 28-day toxicity study with a 14-day recovery phase was conducted in juvenile rats with esomeprazole magnesium at doses of 70 to 280 mg /kg/day (about 17 to 57 times a daily oral human dose of 40 mg on a body surface area basis).
+An increase in the number of deaths at the high dose of 280 mg /kg/day was observed when juvenile rats were administered esomeprazole magnesium from postnatal day 7 through postnatal day 35.
+In addition, doses equal to or greater than 140 mg/kg/day (about 34 times a daily oral human dose of 40 mg on a body surface area basis), produced treatment-related decreases in body weight (approximately 14%) and body weight gain, decreases in femur weight and femur length, and affected overall growth.
+Comparable findings described above have also been observed in this study with another esomeprazole salt, esomeprazole strontium, at equimolar doses of esomeprazole.
