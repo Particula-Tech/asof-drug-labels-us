@@ -20,14 +20,12 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2004-2012 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0653a-t-1310r028
+uspi-mk0653a-t-1402r029
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-This patient information has been approved by the U.S. Food and Drug Administration
-
 Copyright © 2004-2012 MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 10/2013
+Revised: 02/2014
 
-usppi-mk0653a-t-1310r026
+usppi-mk0653a-t-1402r027

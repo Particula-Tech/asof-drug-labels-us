@@ -28,7 +28,7 @@ Patients taking Amiodarone, Amlodipine or Ranolazine
 
 Patients taking Bile Acid Sequestrants
 
-- Dosing of VYTORIN should occur either ≥2 hours before or ≥4 hours after administration of a bile acid sequestrant [see Drug Interactions (7.5)].
+- Dosing of VYTORIN should occur either greater than or equal to 2 hours before or greater than or equal to 4 hours after administration of a bile acid sequestrant [see Drug Interactions (7.5)].
 
 ## 2.4 Patients with Homozygous Familial Hypercholesterolemia
 
@@ -38,23 +38,19 @@ VYTORIN should be used as an adjunct to other lipid-lowering treatments (e.g., L
 Simvastatin exposure is approximately doubled with concomitant use of lomitapide; therefore, the dose of VYTORIN should be reduced by 50% if initiating lomitapide.
 VYTORIN dosage should not exceed 10/20 mg/day (or 10/40 mg/day for patients who have previously taken simvastatin 80 mg/day chronically, e.g., for 12 months or more, without evidence of muscle toxicity) while taking lomitapide.
 
-## 2.5 Patients with Hepatic Impairment
+## 2.5 Patients with Renal Impairment/Chronic Kidney Disease
 
-No dosage adjustment is necessary in patients with mild hepatic impairment [see Warnings and Precautions (5.3)].
-
-## 2.6 Patients with Renal Impairment/Chronic Kidney Disease
-
-In patients with mild renal impairment (estimated GFR ≥60 mL/min/1.73 m2), no dosage adjustment is necessary.
-In patients with chronic kidney disease and estimated glomerular filtration rate <60 mL/min/1.73 m2, the dose of VYTORIN is 10/20 mg/day in the evening.
+In patients with mild renal impairment (estimated GFR greater than or equal to 60 mL/min/1.73 m2), no dosage adjustment is necessary.
+In patients with chronic kidney disease and estimated glomerular filtration rate less than 60 mL/min/1.73 m2, the dose of VYTORIN is 10/20 mg/day in the evening.
 In such patients, higher doses should be used with caution and close monitoring [see Warnings and Precautions (5.1); Clinical Pharmacology (12.3)].
 
-## 2.7 Geriatric Patients
+## 2.6 Geriatric Patients
 
 No dosage adjustment is necessary in geriatric patients [see Clinical Pharmacology (12.3)].
 
-## 2.8 Chinese Patients Taking Lipid-Modifying Doses (≥1 g/day Niacin) of Niacin-Containing Products
+## 2.7 Chinese Patients Taking Lipid-Modifying Doses (greater than or equal to 1 g/day Niacin) of Niacin-Containing Products
 
-Because of an increased risk for myopathy in Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products, caution should be used when treating Chinese patients with VYTORIN doses exceeding 10/20 mg/day coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
+Because of an increased risk for myopathy in Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses (greater than or equal to 1 g/day niacin) of niacin-containing products, caution should be used when treating Chinese patients with VYTORIN doses exceeding 10/20 mg/day coadministered with lipid-modifying doses (greater than or equal to 1 g/day niacin) of niacin-containing products.
 Because the risk for myopathy is dose-related, Chinese patients should not receive VYTORIN 10/80 mg coadministered with lipid-modifying doses of niacin-containing products.
 The cause of the increased risk of myopathy is not known.
 It is also unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients.

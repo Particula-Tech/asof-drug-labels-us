@@ -4,7 +4,7 @@
 
 VYTORIN
 
-## 7.1 Strong CYP3A4 Inhibitors, cyclosporine, or danazol
+## 7.1 Strong CYP3A4 Inhibitors, Cyclosporine, or Danazol
 
 Strong CYP3A4 inhibitors: The risk of myopathy is increased by reducing the elimination of the simvastatin component of VYTORIN.
 Hence when VYTORIN is used with an inhibitor of CYP3A4 (e.g., as listed below), elevated plasma levels of HMG-CoA reductase inhibitory activity increases the risk of myopathy and rhabdomyolysis, particularly with higher doses of VYTORIN.
@@ -19,7 +19,7 @@ Therefore, concomitant use of these drugs is contraindicated [see Contraindicati
 
 Gemfibrozil: Contraindicated with VYTORIN [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-Other fibrates: Caution should be used when prescribing with VYTORIN [see Warnings and Precautions (5.1)].
+Fenofibrates (e.g., fenofibrate and fenofibric acid): Caution should be used when prescribing with VYTORIN [see Warnings and Precautions (5.1) and Drug Interactions (7.7)].
 
 ## 7.3 Amiodarone, Dronedarone, Ranolazine, or Calcium Channel Blockers
 
@@ -43,13 +43,14 @@ The incremental LDL-C reduction due to adding VYTORIN to cholestyramine may be r
 In one study, concomitant administration of digoxin with simvastatin resulted in a slight elevation in plasma digoxin concentrations.
 Patients taking digoxin should be monitored appropriately when VYTORIN is initiated.
 
-## 7.7 Fibrates
+## 7.7 Fenofibrates (e.g., fenofibrate and fenofibric acid)
 
 The safety and effectiveness of VYTORIN administered with fibrates have not been established.
-Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of fibrates, VYTORIN should be administered with caution when used concomitantly with fibrates (other than gemfibrozil, which is contraindicated) [see Contraindications (4) and Warnings and Precautions (5.1)].
+Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of fenofibrates, VYTORIN should be administered with caution when used concomitantly with a fenofibrate [see Warnings and Precautions (5.1)].
 
-Fibrates may increase cholesterol excretion into the bile, leading to cholelithiasis.
+Fenofibrates may increase cholesterol excretion into the bile, leading to cholelithiasis.
 In a preclinical study in dogs, ezetimibe increased cholesterol in the gallbladder bile [see Animal Toxicology and/or Pharmacology (13.2)].
+If cholelithiasis is suspected in a patient receiving VYTORIN and a fenofibrate, gallbladder studies are indicated and alternative lipid-lowering therapy should be considered [see the product labeling for fenofibrate and fenofibric acid].
 
 ## 7.8 Coumarin Anticoagulants
 
@@ -61,7 +62,7 @@ If the dose of VYTORIN is changed or discontinued, the same procedure should be 
 Simvastatin therapy has not been associated with bleeding or with changes in prothrombin time in patients not taking anticoagulants.
 
 Concomitant administration of ezetimibe (10 mg once daily) had no significant effect on bioavailability of warfarin and prothrombin time in a study of twelve healthy adult males.
-There have been post-marketing reports of increased INR in patients who had ezetimibe added to warfarin.
+There have been postmarketing reports of increased INR in patients who had ezetimibe added to warfarin.
 Most of these patients were also on other medications.
 
 The effect of VYTORIN on the prothrombin time has not been studied.

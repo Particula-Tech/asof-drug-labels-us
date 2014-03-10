@@ -1,24 +1,25 @@
-VYTORIN® (ezetimibe/simvastatin) Tablets Patient Information about VYTORIN (VI-tor-in) Generic name: ezetimibe/simvastatin tablets
+Patient Information VYTORIN® (VI-tor-in) (ezetimibe/simvastatin) Tablets
 
-Read this information carefully before you start taking VYTORIN®.
-Review this information each time you refill your prescription for VYTORIN as there may be new information.
+Read this Patient Information carefully before you start taking VYTORIN® and each time you get a refill.
+There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about VYTORIN, ask your doctor.
 Only your doctor can determine if VYTORIN is right for you.
 
 What is VYTORIN?
 
-VYTORIN contains two cholesterol-lowering medications, ezetimibe and simvastatin.
-VYTORIN is a prescription medicine used to lower levels of total cholesterol, LDL (bad) cholesterol, and fatty substances called triglycerides in the blood.
-In addition, VYTORIN raises levels of HDL (good) cholesterol.
-VYTORIN is for patients who cannot control their cholesterol levels by diet and exercise alone.
-You should stay on a cholesterol-lowering diet while taking this medicine.
+VYTORIN is a prescription medicine that contains 2 cholesterol lowering medicines, ezetimibe and simvastatin.
+VYTORIN is used along with diet to:
 
-VYTORIN works to reduce your cholesterol in two ways.
-It reduces the cholesterol absorbed in your digestive tract, as well as the cholesterol your body makes by itself.
-VYTORIN does not help you lose weight.
+- lower the level of your "bad" cholesterol (LDL)
+- increase the level of your "good" cholesterol (HDL)
+- lower the level of fat in your blood (triglycerides)
+
+VYTORIN is for patients who cannot control their cholesterol levels by diet and exercise alone.
 
 VYTORIN has not been shown to reduce heart attacks or strokes more than simvastatin alone.
+
+It is not known if VYTORIN is safe and effective in children under 10 years of age or in girls who have not started their period (menses).
 
 The usual dose of VYTORIN is 10/10 mg to 10/40 mg 1 time each day.
 
@@ -29,8 +30,6 @@ The 10/80 mg dose should only be used by people who:
 - do not need to take certain other medicines with VYTORIN that would increase your chance of getting muscle damage.
 
 If you are unable to reach your LDL-cholesterol goal using VYTORIN 10/40 mg, your doctor should switch you to another cholesterol-lowering medicine.
-
-For more information about cholesterol, see the section called "What should I know about high cholesterol?"
 
 Who should not take VYTORIN?
 
@@ -48,33 +47,46 @@ Do not take VYTORIN if you take:
   - clarithromycin
   - telithromycin
 - nefazodone
+- medicines containing cobicistat
 - A fibric acid medicine for lowering cholesterol called gemfibrozil
 - cyclosporine
 - danazol
 
-Ask your doctor if you are not sure if your medicine is listed above.
+Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
-Also do not take VYTORIN:
+Also do not take VYTORIN if you:
 
-- If you are allergic to ezetimibe or simvastatin, the active ingredients in VYTORIN, or to the inactive ingredients.
-  For a list of inactive ingredients, see the "Inactive ingredients" section at the end of this information sheet.
-- If you have active liver disease or repeated blood tests indicating possible liver problems.
-- If you are pregnant, or think you may be pregnant, or planning to become pregnant or breast-feeding.
-- If you are a woman of childbearing age, you should use an effective method of birth control to prevent pregnancy while using VYTORIN.
-
-VYTORIN has not been studied in children under 10 years of age.
+- are allergic to ezetimibe or simvastatin or any of the ingredients in VYTORIN.
+  See the end of this leaflet for a complete list of ingredients in VYTORIN.
+- have liver problems.
+- are pregnant or plan to become pregnant.
+  VYTORIN may harm your unborn baby.
+  If you are a woman of childbearing age, you should use an effective method of birth control to prevent pregnancy while using VYTORIN.
+  If you become pregnant while taking VYTORIN, stop taking VYTORIN and call your doctor.
+- are breastfeeding or plan to breastfeed.
+  It is not known if VYTORIN passes into your breast milk.
+  You and your doctor should decide the best way to feed your baby if you take VYTORIN.
 
 What should I tell my doctor before and while taking VYTORIN?
 
-Tell your doctor right away if you have unexplained muscle pain, tenderness, or weakness especially with fever while you take VYTORIN.
-Muscle problems, including muscle breakdown, can be serious in some people and rarely cause kidney damage that can lead to death.
+Tell your doctor if you:
 
-The risk of muscle breakdown is greater at higher doses of VYTORIN, particularly the 10/80 mg dose.
+- have unexplained muscle aches or weakness
+- have kidney problems
+- have or have had liver problems or drink more than 2 glasses of alcohol daily
+- have thyroid problems
+- are 65 years of age or older
 
-The risk of muscle breakdown is greater in people 65 years of age and older, females, and people with kidney or thyroid problems.
+Also see "What are the possible side effects of VYTORIN?"
 
-If you have muscle problems that do not go away even after your doctor has advised you to stop taking VYTORIN, notify your doctor.
-Your doctor may do further tests to diagnose the cause of your muscle problems.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+
+Tell your doctor who prescribes VYTORIN if another doctor increases the dose of another medicine you are taking.
+
+Talk to your doctor before you start taking any new medicines.
+
+Taking VYTORIN with certain other medicines may affect each other causing side effects.
+VYTORIN may affect the way other medicines work, and other medicines may affect how VYTORIN works.
 
 Taking VYTORIN with certain substances can increase the risk of muscle problems.
 It is especially important to tell your doctor if you take:
@@ -93,88 +105,92 @@ It is also important to tell your doctor if you are taking coumarin anticoagulan
 
 Tell your doctor about all the medicines you take, including any prescription and nonprescription medicines, vitamins, and herbal supplements.
 
-If you have more than 1 doctor, tell all of your doctors that you take VYTORIN.
-This is especially important when they prescribe a new medicine or increase the dose of your other medicines.
-
-Tell your doctor about all your medical conditions including allergies.
-
-Tell your doctor if you:
-
-- drink substantial quantities of alcohol or ever had liver problems.
-  VYTORIN may not be right for you.
-- are pregnant or plan to become pregnant.
-  Do not use VYTORIN if you are pregnant, trying to become pregnant or suspect that you are pregnant.
-  If you become pregnant while taking VYTORIN, stop taking it and contact your doctor immediately.
-- are breast-feeding.
-  Do not use VYTORIN if you are breast-feeding.
-
-Tell other doctors prescribing a new medication that you are taking VYTORIN.
-
 How should I take VYTORIN?
 
 - Take VYTORIN exactly as your doctor tells you to take it.
-- Take VYTORIN once a day, in the evening, with or without food.
+- Do not change your dose or stop taking VYTORIN without talking to your doctor.
+- Take VYTORIN 1 time each day in the evening.
+- Take VYTORIN with or without food.
+- While taking VYTORIN, continue to follow your cholesterol-lowering diet and to exercise as your doctor told you to.
 - If you miss a dose, do not take an extra dose.
   Just resume your usual schedule.
-- Continue to follow a cholesterol-lowering diet while taking VYTORIN.
-  Ask your doctor if you need diet information.
-- Keep taking VYTORIN unless your doctor tells you to stop.
-  If you stop taking VYTORIN, your cholesterol may rise again.
-
-What should I do in case of an overdose?
-
-Contact your doctor immediately.
+- Your doctor should do fasting blood tests to check your cholesterol while you take VYTORIN.
+  Your doctor may change your dose of VYTORIN if needed.
+- If you take too much VYTORIN, call your doctor or Poison Control Center at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of VYTORIN?
 
-See your doctor regularly to check your cholesterol level and to check for side effects.
-Your doctor should do blood tests to check your liver before you start taking VYTORIN and if you have any symptoms of liver problems while you take VYTORIN.
-Call your doctor right away if you have the following symptoms of liver problems:
+VYTORIN may cause serious side effects, including:
 
-- feel tired or weak
-- loss of appetite
-- upper belly pain
-- dark urine
-- yellowing of your skin or the whites of your eyes
+- Muscle pain, tenderness and weakness (myopathy) Muscle problems, including muscle breakdown, can be serious in some people and rarely cause kidney damage that can lead to death.
+  Tell your doctor right away if:Your chances of getting muscle problems are higher if you:
+  - you have unexplained muscle pain, tenderness, or weakness, especially if you have a fever or feel more tired than usual, while you take VYTORIN.
+  - you have muscle problems that do not go away even after your doctor has advised you to stop taking VYTORIN.
+    Your doctor may do further tests to diagnose the cause of your muscle problems.
+  - are taking certain other medicines while you take VYTORIN
+  - are 65 years of age or older
+  - are female
+  - have thyroid problems (hypothyroidism) that are not controlled
+  - have kidney problems
+  - are taking higher doses of VYTORIN, particularly the 10/80 mg dose
+- Liver problems.
+  Your doctor should do blood tests to check your liver before you start taking VYTORIN and if you have any symptoms of liver problems while you take VYTORIN.
+  Call your doctor right away if you have the following symptoms of liver problems:
+  - loss of appetite
+  - upper belly pain
+  - dark urine
+  - yellowing of your skin or the whites of your eyes
+  - feel tired or weak
 
-In clinical studies patients reported the following common side effects while taking VYTORIN: headache, muscle pain, and diarrhea (see What should I tell my doctor before and while taking VYTORIN?).
+The most common side effects of VYTORIN include:
 
-The following side effects have been reported in general use with VYTORIN or with ezetimibe or simvastatin tablets (tablets that contain the active ingredients of VYTORIN):
+- headache
+- increased liver enzyme levels
+- muscle pain
+- upper respiratory infection
+- diarrhea
 
-- allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing (which may require treatment right away), rash, hives; raised red rash, sometimes with target-shaped lesions; joint pain; muscle pain, tenderness, or weakness; alterations in some laboratory blood tests; liver problems (sometimes serious); inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; gallstones; inflammation of the gallbladder; trouble sleeping; poor memory; memory loss; confusion; erectile dysfunction; breathing problems including persistent cough and/or shortness of breath or fever.
+Additional side effects that have been reported in general use with VYTORIN or with ezetimibe or simvastatin tablets (tablets that contain the active ingredients of VYTORIN) include:
 
-Tell your doctor if you are having these or any other medical problems while on VYTORIN.
-This is not a complete list of side effects.
-For a complete list, ask your doctor or pharmacist.
+- allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing (which may require treatment right away), rash, hives; joint pain; inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; gallstones; trouble sleeping; poor memory; memory loss; confusion; erectile dysfunction; breathing problems including persistent cough and/or shortness of breath or fever.
 
-What should I know about high cholesterol?
+Tell your doctor if you have any side effect that bothers you or does not go away.
 
-Cholesterol is a type of fat found in your blood.
-Cholesterol comes from two sources.
-It is produced by your body and it comes from the food you eat.
-Your total cholesterol is made up of both LDL and HDL cholesterol.
+These are not all the possible side effects of VYTORIN.
+For more information, ask your doctor or pharmacist.
 
-LDL cholesterol is called "bad" cholesterol because it can build up in the wall of your arteries and form plaque.
-Over time, plaque build-up can cause a narrowing of the arteries.
-This narrowing can slow or block blood flow to your heart, brain, and other organs.
-High LDL cholesterol is a major cause of heart disease and one of the causes for stroke.
+Call your doctor about medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-HDL cholesterol is called "good" cholesterol because it keeps the bad cholesterol from building up in the arteries.
+How should I store VYTORIN?
 
-Triglycerides also are fats found in your body.
+- Store VYTORIN at room temperature between 68°F to 77°F (20°C to 25°C).
+- Keep VYTORIN in its original container until you use it.
+- Keep VYTORIN in a tightly closed container, and keep VYTORIN out of light.
 
-General Information about VYTORIN
+Keep VYTORIN and all medicines out of the reach of children.
 
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+General Information about the safe and effective use of VYTORIN.
+
+VYTORIN works to reduce your cholesterol in two ways.
+It reduces the cholesterol absorbed in your digestive tract, as well as the cholesterol your body makes by itself.
+VYTORIN does not help you lose weight.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use VYTORIN for a condition for which it was not prescribed.
-Do not give VYTORIN to other people, even if they have the same condition you have.
+Do not give VYTORIN to other people, even if they have the same condition that you have.
 It may harm them.
 
-This summarizes the most important information about VYTORIN.
+This Patient Information summarizes the most important information about VYTORIN.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about VYTORIN that is written for health professionals.
-For additional information, visit the following web site: vytorin.com.
 
-Inactive ingredients:
+For more information, go to www.VYTORIN.com, or call 1-800-672-6372.
 
-Butylated hydroxyanisole NF, citric acid monohydrate USP, croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, magnesium stearate NF, microcrystalline cellulose NF, and propyl gallate NF.
+What are the ingredients in VYTORIN?
+
+Active Ingredients: ezetimibe and simvastatin
+
+Inactive ingredients: butylated hydroxyanisole NF, citric acid monohydrate USP, croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, magnesium stearate NF, microcrystalline cellulose NF, and propyl gallate NF.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.

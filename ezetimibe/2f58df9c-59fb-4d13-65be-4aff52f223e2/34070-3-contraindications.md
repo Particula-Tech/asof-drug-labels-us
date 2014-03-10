@@ -2,7 +2,7 @@
 
 VYTORIN is contraindicated in the following conditions:
 
-- Concomitant administration of strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, HIV protease inhibitors, boceprevir, telaprevir, erythromycin, clarithromycin, telithromycin and nefazodone) [see Warnings and Precautions (5.1)].
+- Concomitant administration of strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, HIV protease inhibitors, boceprevir, telaprevir, erythromycin, clarithromycin, telithromycin, nefazodone, and cobicistat-containing products) [see Warnings and Precautions (5.1)].
 - Concomitant administration of gemfibrozil, cyclosporine, or danazol [see Warnings and Precautions (5.1)].
 - Hypersensitivity to any component of this medication [see Adverse Reactions (6.2)].
 - Active liver disease or unexplained persistent elevations in hepatic transaminase levels [see Warnings and Precautions (5.2)].
@@ -16,4 +16,4 @@ VYTORIN is contraindicated in the following conditions:
   If the patient becomes pregnant while taking this drug, VYTORIN should be discontinued immediately and the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
 - Nursing mothers.
   It is not known whether simvastatin is excreted into human milk; however, a small amount of another drug in this class does pass into breast milk.
-  Because statins have the potential for serious adverse reactions in nursing infants, women who require VYTORIN treatment should not breast-feed their infants [see Use in Specific Populations (8.3)].
+  Because statins have the potential for serious adverse reactions in nursing infants, women who require VYTORIN treatment should not breastfeed their infants [see Use in Specific Populations (8.3)].
