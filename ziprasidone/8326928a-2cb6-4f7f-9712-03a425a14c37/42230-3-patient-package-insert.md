@@ -160,7 +160,7 @@ Keep GEODON and all medicines out of the reach of children.
 
 How To Store GEODON
 
-Store GEODON capsules at room temperature (59°–86°F or 15°–30°C).
+Store GEODON capsules at room temperature (59°F to 86°F or 15°C to 30°C).
 
 For More Information About GEODON
 
