@@ -4,22 +4,21 @@ Humalog Mix75/25 [75% insulin lispro protamine suspension and 25% insulin lispro
 
 | 10 mL vials | NDC 0002-7511-01 (VL-7511) |
 | --- | --- |
-| 5 x 3 mL prefilled insulin delivery devices (Pen) | NDC 0002-8794-59 (HP-8794) |
 | 5 x 3 mL prefilled insulin delivery devices (KwikPen™) | NDC 0002-8797-59 (HP-8797) |
 
 Storage — Humalog Mix75/25 should be stored in a refrigerator [2° to 8°C (36° to 46°F)], but not in the freezer.
 Do not use Humalog Mix75/25 if it has been frozen.
 Unrefrigerated [below 30°C (86°F)] vials must be used within 28 days or be discarded, even if they still contain Humalog Mix75/25.
-Unrefrigerated [below 30°C (86°F)] Pens, and KwikPens must be used within 10 days or be discarded, even if they still contain Humalog Mix75/25.
+Unrefrigerated [below 30°C (86°F)] KwikPens must be used within 10 days or be discarded, even if they still contain Humalog Mix75/25.
 Protect from direct heat and light.
 See table below:
 
 |  | Not In-Use (Unopened) Room Temperature [Below 30°C (86°F)] | Not In-Use (Unopened) Refrigerated | In-Use (Opened) Room Temperature [Below 30°C (86°F)] |
 | --- | --- | --- | --- |
 | 10 mL Vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
-| 3 mL Pen and KwikPen (prefilled) | 10 days | Until expiration date | 10 days. Do not refrigerate. |
+| 3 mL KwikPen (prefilled) | 10 days | Until expiration date | 10 days. Do not refrigerate. |
 
-Literature revised March 11, 2013
+Literature revised November 14, 2013
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
@@ -28,4 +27,4 @@ www.humalog.com
 Copyright © 2007, 2013, Eli Lilly and Company.
 All rights reserved.
 
-PV 5552 AMP
+PV 5553 AMP
