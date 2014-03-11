@@ -1,20 +1,22 @@
 # 6 ADVERSE REACTIONS
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
 - Acute Myopia and Secondary Angle Closure [see Warnings and Precautions (5.1)]
-- Oligohidrosis and Hyperthermia [see Warnings and Precautions (5.2)]
-- Metabolic Acidosis [see Warnings and Precautions (5.3)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.4)]
-- Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.5)]
-- Fetal Toxicity [see Warnings and Precautions (5.6) and Use in Specific Populations (8.1)]
-- Withdrawal of Antiepileptic Drugs (AEDs) [see Warnings and Precautions (5.7)]
-- Sudden Unexplained Death in Epilepsy (SUDEP) [see Warnings and Precautions (5.8)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.9)]
-- Kidney Stones [see Warnings and Precautions (5.10)]
-- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.11)]
-- Paresthesia [see Warnings and Precautions (5.12)]
+- Visual Field Defects [see Warnings and Precautions (5.2)]
+- Oligohidrosis and Hyperthermia [see Warnings and Precautions (5.3)]
+- Metabolic Acidosis [see Warnings and Precautions (5.4)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
+- Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
+- Fetal Toxicity [see Warnings and Precautions (5.7)and Use in Specific Populations (8.1)]
+- Withdrawal of Antiepileptic Drugs (AEDs) [see Warnings and Precautions (5.8)]
+- Sudden Unexplained Death in Epilepsy (SUDEP) [see Warnings and Precautions (5.9)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.10)]
+- Kidney Stones [see Warnings and Precautions (5.11)]
+- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.12)]
+- Paresthesia [see Warnings and Precautions (5.13)]
 
 The data described in the following sections were obtained using topiramate tablets.
 
@@ -23,7 +25,9 @@ The data described in the following sections were obtained using topiramate tabl
 Adults ≥16 Years The adverse reactions in the controlled trial that occurred most commonly in adults in the 400 mg/day topiramate group and at a rate higher (≥ 5%) than in the 50 mg/day group were: paresthesia, weight decrease, anorexia, somnolence, and difficulty with memory (see Table 5).
 Approximately 21% of the 159 adult patients in the 400 mg/day group who received topiramate as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
 The most common (≥ 2% more frequent than low-dose 50 mg/day topiramate) adverse reactions causing discontinuation in this trial were difficulty with memory, fatigue, asthenia, insomnia, somnolence, and paresthesia.
-Pediatric Patients 6 to <16 Years of Age The adverse reactions in the controlled trial that occurred most commonly in pediatric patients in the 400 mg/day topiramate group and at a rate higher (≥ 5%) than in the 50 mg/day group were fever, weight decrease, mood problems, cognitive problems, infection, flushing, and paresthesia (see Table 5).
+Pediatric Patients 6 to <16 Years of Age The adverse reactions in the controlled trial that occurred most commonly in pediatric patients in the 400 mg/day topiramate
+
+group and at a rate higher (≥ 5%) than in the 50 mg/day group were fever, weight decrease, mood problems, cognitive problems, infection, flushing, and paresthesia (see Table 5).
 Approximately 14% of the 77 pediatric patients in the 400 mg/day group who received topiramate as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
 The most common (≥ 2% more frequent than low-dose 50 mg/day topiramate) adverse reactions resulting in discontinuation in this trial were difficulty with concentration/attention, fever, flushing, and confusion.
 
@@ -403,7 +407,7 @@ Body as a Whole: Frequent: syncope.
 Infrequent: abdomen enlarged.
 Rare: alcohol intolerance.
 Cardiovascular Disorders, General: Infrequent: hypotension, postural hypotension, angina pectoris.
-Central & Peripheral Nervous System Disorders: Infrequent: neuropathy, apraxia, hyperesthesia, dyskinesia, dysphonia, scotoma, ptosis, dystonia, visual field defect, encephalopathy, EEG abnormal.
+Central & Peripheral Nervous System Disorders: Infrequent: neuropathy, apraxia, hyperesthesia, dyskinesia, dysphonia, scotoma, ptosis, dystonia, visual field defect1, encephalopathy, EEG abnormal.
 Rare: upper motor neuron lesion, cerebellar syndrome, tongue paralysis.
 Gastrointestinal System Disorders: Infrequent: hemorrhoids, stomatitis, melena, gastritis, esophagitis.
 Rare: tongue edema.

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Topiramate Tablets USP Read this Medication Guide before you start taking topiramate tablets and each time you get a refill.
+Topiramate Tablets USP (toe pir' a mate) Read this Medication Guide before you start taking topiramate tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 If you have any questions about topiramate tablets, talk to your healthcare provider or pharmacist.
@@ -11,7 +11,7 @@ Serious eye problems include:
 - any sudden decrease in vision with or without eye pain and redness,
 - a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma).
 - These eye problems can lead to permanent loss of vision if not treated.
-  You should call your healthcare provider right away if you have any new eye symptoms.
+- You should call your healthcare provider right away if you have any new eye symptoms, including any new problems with your vision.
 
 Topiramate tablets may cause decreased sweating and increased body temperature (fever).
 People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
@@ -202,4 +202,4 @@ What are the ingredients in topiramate tablets?
 Active ingredient: topiramate Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, sodium starch glycolate, and titanium dioxide.
 In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg tablet contains iron oxide red.
 DEPAKENE® and DEPAKOTE® are registered trademarks of Abbott Laboratories This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 11/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2014

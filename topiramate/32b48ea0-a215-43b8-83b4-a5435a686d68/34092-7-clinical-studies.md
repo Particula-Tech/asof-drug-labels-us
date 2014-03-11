@@ -104,5 +104,7 @@ Table 14: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy 
 |  | Improvement in Seizure Severityj | 28 | -- | -- | -- | -- | -- | 52d |
 | Comparisons with placebo: a p=0.08; b p≤0.01; c p≤0.001; d p≤0.05; e p=0.065; f p≤0.005; g p=0.071; h Median % reduction and % responders are reported for PGTC Seizures; i Median % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; j Percent of subjects who were minimally, much, or very much improved from baseline * For Protocols YP and YTC, protocol-specified target dosages (<9.3 mg/kg/day) were assigned based on subject’s weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |
 
-Subset analyses of the antiepileptic efficacy of topiramate tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
+Subset analyses of the antiepileptic efficacy of topiramate
+
+tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
 In clinical trials for epilepsy, daily dosages were decreased in weekly intervals by 50 to 100 mg/day in adults and over a 2- to 8-week period in children; transition was permitted to a new antiepileptic regimen when clinically indicated.
