@@ -49,9 +49,9 @@ Adjustments should be made at intervals of 4 weeks or more.
 Because ZOCOR does not undergo significant renal excretion, modification of dosage should not be necessary in patients with mild to moderate renal impairment.
 However, caution should be exercised when ZOCOR is administered to patients with severe renal impairment; such patients should be started at 5 mg/day and be closely monitored [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-## 2.7 Chinese Patients Taking Lipid-Modifying Doses (≥1 g/day Niacin) of Niacin-Containing Products
+## 2.7 Chinese Patients Taking Lipid-Modifying Doses (greater than or equal to 1 g/day Niacin) of Niacin-Containing Products
 
-Because of an increased risk for myopathy in Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products, caution should be used when treating Chinese patients with simvastatin doses exceeding 20 mg/day coadministered with lipid-modifying doses of niacin-containing products.
+Because of an increased risk for myopathy in Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses (greater than or equal to 1 g/day niacin) of niacin-containing products, caution should be used when treating Chinese patients with simvastatin doses exceeding 20 mg/day coadministered with lipid-modifying doses of niacin-containing products.
 Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
 The cause of the increased risk of myopathy is not known.
 It is also unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients.

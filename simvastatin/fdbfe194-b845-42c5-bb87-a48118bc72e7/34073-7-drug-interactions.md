@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Strong CYP3A4 Inhibitors, cyclosporine, or danazol
+## 7.1 Strong CYP3A4 Inhibitors, Cyclosporine, or Danazol
 
 Strong CYP3A4 inhibitors: Simvastatin, like several other inhibitors of HMG-CoA reductase, is a substrate of CYP3A4.
 Simvastatin is metabolized by CYP3A4 but has no CYP3A4 inhibitory activity; therefore it is not expected to affect the plasma concentrations of other drugs metabolized by CYP3A4.
@@ -11,8 +11,7 @@ Concomitant use of drugs labeled as having a strong inhibitory effect on CYP3A4 
 If treatment with itraconazole, ketoconazole, posaconazole, voriconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with simvastatin must be suspended during the course of treatment.
 
 Cyclosporine or Danazol: The risk of myopathy, including rhabdomyolysis is increased by concomitant administration of cyclosporine or danazol.
-Therefore, concomitant use of these drugs is contraindicated.
-[see Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Therefore, concomitant use of these drugs is contraindicated [see Contraindications (4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Lipid-Lowering Drugs That Can Cause Myopathy When Given Alone
 

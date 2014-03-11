@@ -42,7 +42,7 @@ Drug Interactions
 The risk of myopathy and rhabdomyolysis is increased by high levels of statin activity in plasma.
 Simvastatin is metabolized by the cytochrome P450 isoform 3A4.
 Certain drugs which inhibit this metabolic pathway can raise the plasma levels of simvastatin and may increase the risk of myopathy.
-These include itraconazole, ketoconazole, posaconazole, voriconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, or grapefruit juice [see Clinical Pharmacology (12.3)].
+These include itraconazole, ketoconazole, posaconazole, voriconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, cobicistat-containing products, or grapefruit juice [see Clinical Pharmacology (12.3)].
 Combination of these drugs with simvastatin is contraindicated.
 If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy with simvastatin must be suspended during the course of treatment.
 [See Contraindications (4) and Drug Interactions (7.1).]
@@ -63,11 +63,11 @@ It is unknown if the risk for myopathy with coadministration of simvastatin with
 
 Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3, 2.4), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-TABLE 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
+Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
-| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Voriconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir Nefazodone Gemfibrozil Cyclosporine Danazol | Contraindicated with simvastatin |
+| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Voriconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir Nefazodone Cobicistat-containing products Gemfibrozil Cyclosporine Danazol | Contraindicated with simvastatin |
 | Verapamil Diltiazem Dronedarone | Do not exceed 10 mg simvastatin daily |
 | Amiodarone Amlodipine Ranolazine | Do not exceed 20 mg simvastatin daily |
 | Lomitapide | For patients with HoFH, do not exceed 20 mg simvastatin dailyFor patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 40 mg simvastatin when taking lomitapide. |
@@ -98,7 +98,7 @@ Note that ALT may emanate from muscle, therefore ALT rising with CK may indicate
 The drug should be used with caution in patients who consume substantial quantities of alcohol and/or have a past history of liver disease.
 Active liver diseases or unexplained transaminase elevations are contraindications to the use of simvastatin.
 
-As with other lipid-lowering agents, moderate (less than 3X ULN) elevations of serum transaminases have been reported following therapy with simvastatin.
+Moderate (less than 3X ULN) elevations of serum transaminases have been reported following therapy with simvastatin.
 These changes appeared soon after initiation of therapy with simvastatin, were often transient, were not accompanied by any symptoms and did not require interruption of treatment.
 
 ## 5.3 Endocrine Function
