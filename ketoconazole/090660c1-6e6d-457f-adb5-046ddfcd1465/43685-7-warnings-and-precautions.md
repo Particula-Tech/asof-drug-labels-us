@@ -25,7 +25,7 @@ If it is decided to restart oral ketoconazole, monitor the patient frequently to
 ## QT Prolongation and Drug Interactions Leading to QT Prolongation
 
 Ketoconazole can prolong the QT interval.
-Co-administration of the following drugs with ketoconazole is contraindicated: dofetilide, quinidine, pimozide, and cisapride.
+Co-administration of the following drugs with ketoconazole is contraindicated: dofetilide, quinidine, pimozide, cisapride, methadone, disopyramide, dronedarone, ranolazine.
 Ketoconazole can cause elevated plasma concentrations of these drugs which may prolong the QT interval, sometimes resulting in life-threatening ventricular dysrhythmias such as torsades de pointes.
 
 ## Adrenal Insufficiency
@@ -49,18 +49,6 @@ It is not possible to ascertain from the information available whether death was
 Anaphylaxis has been reported after the first dose.
 Several cases of hypersensitivity reactions including urticaria have also been reported.
 
-## Enhanced Sedation
-
-Co-administration of NIZORAL® Tablets with oral midazolam, oral triazolam or alprazolam has resulted in elevated plasma concentrations of these drugs.
-This may potentiate and prolong hypnotic and sedative effects, especially with repeated dosing or chronic administration of these agents.
-Concomitant administration of NIZORAL® Tablets with oral triazolam, oral midazolam, or alprazolam is contraindicated.
-(See CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions sections.)
-
-## Myopathy
-
-Co-administration of CYP3A4 metabolized HMG-CoA reductase inhibitors such as simvastatin, and lovastatin is contraindicated with NIZORAL® Tablets.
-(See CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions sections.)
-
 # PRECAUTIONS
 
 ## General
@@ -77,177 +65,81 @@ Such signs and symptoms may include unusual fatigue, anorexia, nausea and/or vom
 
 ## Drug Interactions
 
-Drugs that affect the absorption, distribution, metabolism, and excretion of ketoconazole may alter the plasma concentrations of ketoconazole.
-For example, gastric acid suppressants (e.g., antacids, histamine H2-blockers, proton pump inhibitors) have been shown to reduce plasma concentrations of ketoconazole.
+Ketoconazole is mainly metabolized through CYP3A4.
+Other substances that either share this metabolic pathway or modify CYP3A4 activity may influence the pharmacokinetics of ketoconazole.
+Similarly, ketoconazole may modify the pharmacokinetics of other substances that share this metabolic pathway.
+Ketoconazole is a potent CYP3A4 inhibitor and a P-glycoprotein inhibitor.
+When using concomitant medication, the corresponding label should be consulted for information on the route of metabolism and the possible need to adjust dosages.
 
-Ketoconazole is a substrate and potent inhibitor of CYP3A4.
-Therefore, the following drug interactions may occur when NIZORAL® is co-administered with other drugs that interact with CYP3A4.
-(See Table 1 and Table 2 for an overview of these drug interactions; details are provided in the text that follows these tables.)
+Interaction studies have only been performed in adults.
+The relevance of the results from these studies in pediatric patients is unknown.
 
-1. NIZORAL® may decrease the elimination of drugs metabolized by CYP3A4, thereby increasing their plasma concentrations.
-   Increased exposure to these drugs may cause an increase or prolongation of their therapeutic and/or adverse effects.
-   Concomitant use with NIZORAL® Tablets is contraindicated for drugs known to present a risk of serious side effects with increased exposure (see BOXED WARNING, CONTRAINDICATIONS section, and PRECAUTIONS: Drug Interactions, Table 1).
-   For others, monitoring of plasma concentrations is advised when possible.
-   Clinical signs and symptoms associated with these drugs should be monitored, with dosage adjusted as needed.
-2. Inducers of CYP3A4 may decrease the plasma concentrations of ketoconazole (see Table 2).
-   NIZORAL® may not be effective in patients concomitantly taking one of these drugs.
-   Therefore, administration of these drugs with NIZORAL® is not recommended.
-3. Other inhibitors of CYP3A4 may increase the plasma concentrations of ketoconazole (see Table 2).
-   Patients who must take NIZORAL® concomitantly with one of these drugs should be monitored closely for signs or symptoms of increased or prolonged pharmacologic effects of NIZORAL®.
+### Drugs that may decrease ketoconazole plasma concentrations
 
-Table 1.
-Selected Drugs That Have Been Shown To or Are Predicted To Have Their Plasma Concentrations Altered By NIZORAL®This list is not all-inclusive.
+Drugs that reduce the gastric acidity (e.g. acid neutralizing medicines such as aluminum hydroxide, or acid secretion suppressors such as H2-receptor antagonists and proton pump inhibitors) impair the absorption of ketoconazole from NIZORAL® Tablets.
+These drugs should be used with caution when coadministered with NIZORAL® Tablets:
 
-| Systemic exposure to these drugs is increased significantly by the addition of ketoconazole: Concomitant use with ketoconazole is contraindicated. |  |
-| --- | --- |
-| Alprazolam, midazolam, triazolam | HMG-CoA reductase inhibitors (lovastatin, simvastatin) |
-| Cisapride | Nisoldipine |
-| Dofetilide | Pimozide |
-| Eplerenone | Quinidine |
-| Ergot alkaloids (ergotamine, dihydroergotamine) |  |
-| Systemic exposure to these drugs is increased by ketoconazole: Careful monitoring, with possible adjustment in dosage, is recommended. |  |
-| Alfentanil, fentanyl, sulfentanil | Indinavir, saquinavir |
-| Amlodipine, felodipine, nicardipine, nifedipine | Methylprednisolone |
-| Bosentan | Rifabutin |
-| Buspirone | Sildenafil |
-| Busulfan | Sirolimus (co-administration not recommended) |
-| Carbamazepine | Tacrolimus |
-| Cilostazol | Telithromycin |
-| Cyclosporine | Tolterodine |
-| Digoxin | Trimetrexate |
-| Docetaxel, paclitaxel | Verapamil |
-| Oral anti-coagulants | Vinca alkaloids (vincristine, - vinblastine, vinorelbine) |
+- NIZORAL® Tablets should be administered with an acidic beverage (such as non-diet cola) upon co-treatment with drugs reducing gastric acidity.
+- Acid neutralizing medicines (e.g. aluminum hydroxide) should be administered at least 1 hour before or 2 hours after the intake of NIZORAL® Tablets.
+- Upon coadministration, the antifungal activity should be monitored and the NIZORAL® Tablets dose increased as deemed necessary.
 
-Table 2.
-Selected Drugs That Have Been Shown To or Are Predicted To Alter The Plasma Concentration Of NIZORAL®
+Coadministration of NIZORAL® Tablets with potent enzyme inducers of CYP3A4 may decrease the bioavailability of ketoconazole to such an extent that efficacy may be reduced.
+Examples include:
 
-| Systemic exposure to ketoconazole is reduced significantly by these drugs: Concomitant use with ketoconazole is not recommended. |  |
-| --- | --- |
-| Carbamazepine | Phenytoin |
-| Gastric Acid Suppressants (antacids, antimuscarinics, histamine H2-blockers, proton pump inhibitors, sucralfate) | Rifampin, rifabutin, isoniazid |
-| Nevirapine |  |
-| Systemic exposure to ketoconazole is increased significantly by this drug: Dose reduction of ketoconazole should be considered |  |
-| Ritonavir |  |
-| * This list is not all-inclusive. |  |
+- Antibacterials: isoniazid, rifabutin (see also under 'Drugs that may have their plasma concentrations increased'), rifampicin.
+- Anticonvulsants: carbamazepine (see also under 'Drugs that may have their plasma concentrations increased'), phenytoin.
+- Antivirals: efavirenz, nevirapine.
 
-### 1. Effects of ketoconazole on other drugs
+Therefore, administration of potent enzyme inducers of CYP3A4 with NIZORAL® Tablets is not recommended.
+The use of these drugs should be avoided from 2 weeks before and during treatment with NIZORAL® Tablets, unless the benefits outweigh the risk of potentially reduced ketoconazole efficacy.
+Upon coadministration, the antifungal activity should be monitored and the NIZORAL® Tablets dose increased as deemed necessary.
 
-- 1.1Systemic exposure to the following drugs is significantly increased by co-administration of ketoconazole.
-  Concomitant use of these drugs with NIZORAL® Tablets is contraindicated: Alprazolam, midazolam, triazolam Co-administration of NIZORAL® Tablets with alprazolam, midazolam, or triazolam has resulted in elevated plasma concentrations of these drugs.
-  This may potentiate and prolong hypnotic and sedative effects, especially with repeated or chronic administration of these agents.
-  Concomitant administration of NIZORAL® Tablets with alprazolam, oral midazolam, and oral triazolam is contraindicated.
-  (See CONTRAINDICATIONS and WARNINGS sections.)
-  Special precaution and patient monitoring are required with concomitant parenteral midazolam, because the sedative effect may be prolonged.
-  Cisapride Oral ketoconazole potently inhibits the metabolism of cisapride resulting in a mean eight-fold increase in AUC of cisapride, which can lead to prolongation of QT interval.
-  Therefore concomitant administration of NIZORAL® Tablets with cisapride is contraindicated.
-  (See BOXED WARNING, CONTRAINDICATIONS, and WARNINGS sections.)
-  Dofetilide The class III antiarrhythmic dofetilide is known to prolong the QT interval.
-  The potential increase in dofetilide plasma concentrations when administered concomitantly with ketoconazole could result in serious cardiovascular events including QTc prolongation and rare occurrences of torsades de pointes.
-  Therefore, concomitant administration of NIZORAL® Tablets with dofetilide is contraindicated.
-  (See BOXED WARNING, CONTRAINDICATIONS, and WARNINGS sections.)
-  Eplerenone Ketoconazole increases the eplerenone AUC by roughly 5-fold, thereby increasing the risk for hyperkalemia and hypotension.
-  Co-administration of NIZORAL® and eplerenone is contraindicated.
-  (See CONTRAINDICATIONS section.)
-  Ergot Alkaloids Elevated concentrations of ergot alkaloids can cause ergotism, i.e., a risk for vasospasm potentially leading to cerebral ischemia and/or ischemia of the extremities.
-  Concomitant administration of ergot alkaloids such as dihydroergotamine and ergotamine with NIZORAL® Tablets is contraindicated.
-  (See CONTRAINDICATIONS section.)
-  HMG-CoA Enzyme Inhibitors (lovastatin, simvastatin) Co-administration of ketoconazole with CYP3A4-metabolized HMG-CoA reductase inhibitors such as simvastatin, and lovastatin, may increase the risk of skeletal muscle toxicity, including rhabdomyolysis.
-  Concomitant administration of NIZORAL® Tablets with these HMG-CoA reductase inhibitors is contraindicated.
-  (See CONTRAINDICATIONS and WARNINGS sections.)
-  Nisoldipine Pre-treatment with and concomitant administration of ketoconazole resulted in a 24-fold and 11-fold increase in mean AUC and Cmax of nisoldipine, respectively, compared with treatment with nisoldipine 5 mg alone.
-  Concomitant administration of ketoconazole with nisoldipine is contraindicated.
-  (See CONTRAINDICATIONS section.)
-  Pimozide Pimozide is known to prolong the QT interval and is partially metabolized by CYP3A4.
-  Co-administration of NIZORAL® and pimozide could result in serious cardiovascular events including QTc prolongation and rare occurrences of torsades de pointes, and is therefore contraindicated.
-  (See BOXED WARNING, CONTRAINDICATIONS, and WARNINGS sections.)
-  Quinidine The class IA antiarhythmic quinidine is known to prolong the QT interval.
-  The potential increase in quinidine plasma concentrations when administered concomitantly with ketoconazole could result in serious cardiovascular events including QTc prolongation and rare occurrences of torsades de pointes.
-  Therefore, concomitant administration of NIZORAL® Tablets with quinidine is contraindicated.
-  (See BOXED WARNING, CONTRAINDICATIONS, and WARNINGS sections.)
-- 1.2.Co-administration of ketoconazole with the following agents was shown or is expected to result in increased exposure to these drugs.
-  Therefore, careful monitoring of plasma concentrations or adverse events of these drugs is recommended.
-  Adjustment of dosage of these drugs may be needed.
-  Alfentanil, sufentanil, fentanyl In vitro data suggest that alfentanil, sufentanil and fentanyl are metabolized by CYP3A4.
-  Concomitant administration of NIZORAL® Tablets and alfentanil, sufentanil, or fentanyl may increase plasma concentrations of the latter drugs.
-  Amlodipine, felodipine, nicardipine, nifedipine CYP3A4 metabolized calcium channel blockers such as amlodipine, felodipine, nicardipine, and nifedipine should be used cautiously with NIZORAL® Tablets as ketoconazole may cause several-fold increases in plasma concentrations of these calcium channel blockers.
-  Bosentan Concomitant administration of ketoconazole increased the Cmax and AUC of bosentan 2.1- and 2.3 – fold, respectively.
-  No dosage adjustment of bosentan is needed but close monitoring for increased bosentan-associated adverse effects is recommended.
-  Buspirone Concomitant administration of buspirone with ketoconazole may result in significant increases in plasma concentrations of buspirone.
-  When administered with NIZORAL® Tablets, a low initial dose of buspirone with subsequent dosage adjustment based on clinical assessment is recommended.
-  Busulfan NIZORAL® Tablets may decrease the clearance and thus increase the systemic exposure to busulfan.
-  Carbamazepine In vivo studies have demonstrated an increase in plasma carbamazepine concentrations in subjects concomitantly receiving ketoconazole.
-  Close monitoring of plasma carbamazepine concentrations is recommended whenever ketoconazole is given to patients stabilized on carbamazepine therapy.
-  Cilostazol Ketoconazole had been shown to increase both cilostazol AUC and Cmax by about two-fold when administered concurrently.
-  Co-administration of ketoconazole with cilostazol resulted in increased incidences of adverse effects, such as headache.
-  When NIZORAL® Tablets is administered concomitantly with cilostazol, the prescriber should consider up to a 50% reduction in cilostazol dosage.
-  Cyclosporine Ketoconazole tablets may alter the metabolism of cyclosporine, thereby resulting in elevated cyclosporine plasma concentrations.
-  Dosage adjustment may be required if cyclosporine or tacrolimus is given concomitantly with NIZORAL® Tablets.
-  Digoxin Rare cases of elevated plasma concentrations of digoxin have been reported.
-  It is not clear whether this was due to the combination of therapy.
-  It is, therefore, advisable to monitor digoxin concentrations in patients receiving ketoconazole.
-  Docetaxel In the presence of ketoconazole, the clearance of docetaxel in cancer patients was shown to decrease by 50%.
-  When docetaxel and NIZORAL® are administered together, dosage reduction in docetaxel may be necessary in order to minimize the incidence of toxicities associated with docetaxel.
-  Indinavir, saquinavir Concomitant administration of NIZORAL® and protease inhibitors metabolized by CYP3A4, such as indinavir and saquinavir, may increase plasma concentrations of these protease inhibitors.
-  Dosage reduction of indinavir is recommended when administering ketoconazole concomitantly.
-  No dosage adjustments are recommended when saquinavir and ketoconazole are co-administered for a short period of time.
-  Methylprednisolone NIZORAL® Tablets may alter the metabolism of methylprednisolone, resulting in elevated plasma concentrations of methylprednisolone.
-  Dose adjustments may be required if methylprednisolone is given concomitantly with NIZORAL® Tablets.
-  Oral anti-coagulants Oral imidazole compounds such as ketoconazole may enhance the anticoagulant effect of coumarin-like drugs, thus the anticoagulant effect should be carefully titrated and monitored.
-  Oral hypoglycemic agents Because severe hypoglycemia has been reported in patients concomitantly receiving oral miconazole (an imidazole) and oral hypoglycemic agents, such a potential interaction involving the latter agents when used concomitantly with ketoconazole tablets (an imidazole) cannot be ruled out.
-  Rifabutin Ketoconazole was shown to inhibit the CYP-mediated metabolism of rifabutin in vitro.
-  Co-administration with NIZORAL® Tablets may result in elevated plasma concentrations of rifabutin.
-  Sildenafil Ketoconazole had been shown to increase sildenafil plasma concentrations.
-  When used concomitantly with NIZORAL® Tablets, a 50% reduction in sildenafil starting dose should be considered.
-  Sirolimus Multiple-dose ketoconazole had been shown to increase sirolimus Cmax and AUC by 4.3-fold and 10.9-fold, respectively.
-  The concomitant use of NIZORAL® Tablets and sirolimus is not recommended.
-  Tacrolimus Ketoconazole had been shown to decrease the oral clearance of tacrolimus thereby leading to a 2-fold increase in tacrolimus oral bioavailability.
-  Adjustment in tacrolimus dosage may be required if tacrolimus is given concomitantly with NIZORAL® Tablets.
-  Telithromycin Ketoconazole increased the AUC of telithromycin by 1.5 to 2-fold.
-  Use caution when administering telithromycin concurrently with NIZORAL® Tablets since this may result in an increased risk for telithromycin associated adverse events.
-  Tolterodine In the presence of ketoconazole, the apparent oral clearance of tolterodine decreased resulting in at least a two-fold increase in tolterodine.
-  For patients receiving ketoconazole, a 50% reduction in the initial tolterodine dosage is recommended.
-  Trimetrexate In vitro data suggest that trimetrexate is extensively metabolized by CYP3A4.
-  In vitro animal models have demonstrated that ketoconazole potently inhibits the metabolism of trimetrexate.
-  Patients treated concomitantly with trimetrexate and NIZORAL® Tablets should be carefully monitored for trimetrexate-associated toxicities.
-  Verapamil Findings of in vitro metabolic studies indicate that verapamil is metabolized by enzymes including CYP3A4.
-  Ketoconazole may increase verapamil serum concentrations.
-  Caution should be taken when co-administering verapamil with NIZORAL® Tablets.
-  Vinca Alkaloids (vincristine, vinblastine, vinorelbine) NIZORAL® may inhibit the metabolism of vinca alkaloids metabolized by CYP3A4.
-  Close monitoring for toxicities associated with vincristine, vinblastine, or vinorelbine is recommended when co-administered with NIZORAL® Tablets.
+### Drugs that may increase ketoconazole plasma concentrations
 
-### 2. Effects of other drugs on ketoconazole
+Potent inhibitors of CYP3A4 (e.g. antivirals such as ritonavir, ritonavir-boosted darunavir and ritonavir-boosted fosamprenavir) may increase the bioavailability of ketoconazole.
+These drugs should be used with caution when coadministered with NIZORAL® Tablets.
+Patients who must take NIZORAL® Tablets concomitantly with potent inhibitors of CYP3A4 should be monitored closely for signs or symptoms of increased or prolonged pharmacologic effects of ketoconazole, and the NIZORAL® Tablets dose should be decreased as deemed necessary.
+When appropriate, ketoconazole plasma concentrations should be measured.
 
-- 2.1Drugs affecting the absorption of ketoconazole Gastric Acid Suppressors/Neutralizers Studies have shown that absorption of ketoconazole is impaired when gastric acid production is decreased.
-  Reduced plasma concentrations of ketoconazole were reported when NIZORAL® Tablets were administered with antacids, antimuscarinics, histamine H2-blockers, proton pump inhibitors (omeprazole, lansoprazole) and sucralfate.
-  (See PRECAUTIONS, Drug Interactions (General) section.)
-- 2.2Drugs that were shown or are expected to significantly reduce the systemic exposure to ketoconazole Co-administration of ketoconazole with potent CYP3A4 enzyme inducers is not recommended.
-  Carbamazepine Concomitant administration of ketoconazole tablets with carbamazepine may alter the metabolism of one or both of the drugs.
-  Close monitoring for both plasma concentrations of carbamazepine and reduced ketoconazole efficacy is recommended.
-  Nevirapine Ketoconazole AUC and Cmax decreased by a median of 63% and 40%, respectively, in HIV-infected patients who were given nevirapine 200 mg once daily for two weeks along with ketoconazole 400 mg daily.
-  Concomitant administration of NIZORAL® Tablets and nevirapine is not recommended.
-  Phenytoin Concomitant administration of ketoconazole with phenytoin may alter the metabolism of one or both of the drugs.
-  Close monitoring for both plasma concentrations of phenytoin and reduced efficacy of NIZORAL® Tablets is recommended.
-  Rifampin, rifabutin, isoniazid Concomitant administration of rifampin and rifabutin with ketoconazole tablets reduces the blood concentrations of the latter.
-  INH (Isoniazid) was also reported to affect ketoconazole concentrations adversely.
-  These antitubercular drugs should not be given concomitantly with NIZORAL® Tablets.
-- 2.3Drugs that significantly increase the systemic exposure to ketoconazole Ritonavir Concomitant administration of ritonavir with ketoconazole tablets increases was shown to increase the oral bioavailability of ketoconazole.
-  Therefore, when ritonavir is to be given concomitantly, higher doses (>200 mg/day) of NIZORAL® Tablets should not be used.
+### Drugs that may have their plasma concentrations increased by ketoconazole
 
-### 3. Other drug interactions
+Ketoconazole can inhibit the metabolism of drugs metabolized by CYP3A4 and can inhibit the drug transport by P-glycoprotein, which may result in increased plasma concentrations of these drugs and/or their active metabolite(s) when they are administered with ketoconazole.
+These elevated plasma concentrations may increase or prolong both therapeutic and adverse effects of these drugs.
+CYP3A4-metabolized drugs known to prolong the QT interval may be contraindicated with NIZORAL® Tablets, since the combination may lead to ventricular tachyarrhythmias, including occurrences of torsade de pointes, a potentially fatal arrhythmia.
 
-- Alcohol Rare cases of a disulfiram-like reaction to alcohol have been reported.
-  These experiences have been characterized by flushing, rash, peripheral edema, nausea, and headache.
-  Symptoms resolved within a few hours.
-  Loratadine After the co-administration of 200 mg oral ketoconazole twice daily and one 20 mg dose of loratadine to 11 subjects, the AUC and Cmax of loratadine averaged 302% (±142 S.D.) and 251% (± 68 S.D.), respectively, of those obtained after co-treatment with placebo.
-  The AUC and Cmax of descarboethoxyloratadine, an active metabolite, averaged 155% (± 27 S.D.) and 141% (± 35 S.D.), respectively.
-  However, no related changes were noted in the QTc on ECG taken at 2, 6, and 24 hours after the coadministration.
-  Also, there were no clinically significant differences in adverse events when loratadine was administered with or without ketoconazole.
+Examples of drugs that may have their plasma concentrations increased by ketoconazole presented by drug class with advice regarding coadministration with NIZORAL® Tablets:
+
+| Drug Class | Contraindicated | Not Recommended | Use with Caution | Comments |
+| --- | --- | --- | --- | --- |
+|  | Under no circumstances should the drug be coadministered with NIZORAL® Tablets, and up to one week after discontinuation of treatment with ketoconazole. | The use of the drug should be avoided during and up to one week after discontinuation of treatment with NIZORAL® Tablets, unless the benefits outweigh the potentially increased risks of side effects. If coadministration cannot be avoided, clinical monitoring for signs or symptoms of increased or prolonged effects or side effects of the interacting drug is recommended, and its dosage should be reduced or interrupted as deemed necessary. When appropriate, plasma concentrations should be measured. The label of the coadministered drug should be consulted for information on dose adjustment and adverse effects. | Careful monitoring is recommended when the drug is coadministered with NIZORAL® Tablets. Upon coadministration, patients should be monitored closely for signs or symptoms of increased or prolonged effects or side effects of the interacting drug, and its dosage should be reduced as deemed necessary. When appropriate, plasma concentrations should be measured. The label of the coadministered drug should be consulted for information on dose adjustment and adverse effects. |  |
+| Alpha Blockers |  | tamsulosin |  |  |
+| Analgesics | methadone |  | alfentanil, buprenorphine IV and sublingual, fentanyl, oxycodone, sufentanil | Methadone: The potential increase in plasma concentrations of methadone when coadministered with NIZORAL® Tablets may increase the risk of serious cardiovascular events including QT prolongation and torsade de pointes, or respiratory or CNS depression. [See CONTRAINDICATIONS.] Fentanyl: The potential increase in plasma concentrations of fentanyl when coadministered with NIZORAL® Tablets may increase the risk of potentially fatal respiratory depression. Sufentanil: No human pharmacokinetic data of an interaction with ketoconazole are available. In vitro data suggest that sufentanil is metabolized by CYP3A4 and so potentially increased sufentanil plasma concentrations would be expected when coadministered with NIZORAL® Tablets. |
+| Antiarrhythmics | disopyramide, dofetilide, dronedarone, quinidine |  | digoxin | Disopyramide, dofetilide, dronedarone, quinidine: The potential increase in plasma concentrations of these drugs when coadministered with ketoconazole may increase the risk of serious cardiovascular events including QT prolongation. Digoxin: Rare cases of elevated plasma concentrations of digoxin have been reported. It is not clear whether this was due to the combination of therapy. It is, therefore, advisable to monitor digoxin concentrations in patients receiving ketoconazole. |
+| Antibacterials |  | rifabutin | telithromycin | Rifabutin: see also under 'Drugs that may decrease ketoconazole plasma concentrations'. Telithromycin: A multiple-dose interaction study with ketoconazole showed that Cmax of telithromycin was increased by 51% and AUC by 95%. |
+| Anticoagulants and Antiplatelet Drugs |  | rivaroxaban | cilostazol, coumarins, dabigatran | Cilostazol: Concomitant administration of single doses of cilostazol 100 mg and ketoconazole 400 mg approximately doubled cilostazol concentrations and altered (increase/decrease) the concentrations of the active metabolites of cilostazol. Coumarins: Ketoconazole may enhance the anticoagulant effect of coumarin-like drugs, thus the anticoagulant effect should be carefully titrated and monitored. Dabigatran: In patients with moderate renal impairment (CrCL 50 mL/min to ≤ 80 mL/min), consider reducing the dose of dabigatran to 75 mg twice daily when it is coadministered with ketoconazole. |
+| Anticonvulsants |  | carbamazepine |  | Carbamazepine: In vivo studies have demonstrated an increase in plasma carbamazepine concentrations in subjects concomitantly receiving ketoconazole. In addition, the bioavailability of ketoconazole may be reduced by carbamazepine. |
+| Antidiabetics |  |  | repaglinide, saxagliptin |  |
+| Antihelmintics and Antiprotozoals |  |  | praziquantel |  |
+| Antimigraine Drugs | ergot alkaloids, such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine) |  | eletriptan | Ergot alkaloids: The potential increase in plasma concentrations of ergot alkaloids when coadministered with NIZORAL® Tablets may increase the risk of ergotism, i.e., a risk for vasospasm potentially leading to cerebral ischemia and/or ischemia of the extremities. Eletriptan: Eletriptan should be used with caution with ketoconazole, and specifically, should not be used within at least 72 hours of treatment with ketoconazole. |
+| Antineoplastics | irinotecan | dasatinib, lapatinib, nilotinib | bortezomib, busulphan, docetaxel, erlotinib, imatinib, ixabepilone, paclitaxel, trimetrexate, vinca alkaloids | Irinotecan: The potential increase in plasma concentrations of irinotecan when coadministered with NIZORAL® Tablets may increase the risk of potentially fatal adverse events. Docetaxel: In the presence of ketoconazole, the clearance of docetaxel in cancer patients was shown to decrease by 50%. |
+| Antipsychotics, Anxiolytics and Hypnotics | alprazolam, lurasidone, oral midazolam, pimozide, triazolam |  | aripiprazole, buspirone, haloperidol, midazolam IV, quetiapine, ramelteon, risperidone | Alprazolam, midazolam, triazolam: Coadministration of NIZORAL® Tablets with oral midazolam or triazolam, or alprazolam may cause several-fold increases in plasma concentrations of these drugs. This may potentiate and prolong hypnotic and sedative effects, especially with repeated dosing or chronic administration of these agents. Pimozide: The potential increase in plasma concentrations of pimozide when coadministered with NIZORAL® Tablets may increase the risk of serious cardiovascular events including QT prolongation and torsade de pointes. Aripiprazole: Coadministration of ketoconazole (200 mg/day for 14 days) with a 15 mg single dose of aripiprazole increased the AUC of aripiprazole and its active metabolite by 63% and 77%, respectively. The effect of a higher ketoconazole dose (400 mg/day) has not been studied. When ketoconazole is given concomitantly with aripiprazole, the aripiprazole dose should be reduced to one-half of the recommended dose. Buspirone: Ketoconazole is expected to inhibit buspirone metabolism and increase plasma concentrations of buspirone. If a patient has been titrated to a stable dosage on buspirone, a dose reduction of buspirone may be necessary to avoid adverse events attributable to buspirone or diminished anxiolytic activity. |
+| Antivirals |  |  | indinavir, maraviroc, saquinavir |  |
+| Beta Blockers |  |  | nadolol |  |
+| Calcium Channel Blockers | felodipine, nisoldipine |  | other dihydropyridines, verapamil | Calcium channel blockers can have a negative inotropic effect which may be additive to those of ketoconazole. The potential increase in plasma concentrations of calcium channel blockers when co-administered with NIZORAL® Tablets may increase the risk of edema and congestive heart failure. Dihydropyridines: Concomitant administration of NIZORAL® Tablets may cause several-fold increases in plasma concentrations of dihydropyridines. |
+| Cardiovascular Drugs, Miscellaneous | ranolazine |  | aliskiren, bosentan | Ranolazine: The potential increase in plasma concentrations of ranolazine when coadministered with NIZORAL® Tablets may increase the risk of serious cardiovascular events including QT prolongation. Bosentan: Coadministration of bosentan 125 mg twice daily and ketoconazole, increased the plasma concentrations of bosentan by approximately 2-fold in normal volunteers. No dose adjustment of bosentan is necessary, but patients should be monitored for increased pharmacologic effects and adverse reactions of bosentan. |
+| Diuretics | eplerenone |  |  | The potential increase in plasma concentrations of eplerenone when coadministered with NIZORAL® Tablets may increase the risk of hyperkalemia and hypotension. |
+| Gastrointestinal Drugs | cisapride |  | aprepitant | Cisapride: Oral ketoconazole potently inhibits the metabolism of cisapride resulting in a mean eight-fold increase in AUC of cisapride, which can lead to serious cardiovascular events including QT prolongation. |
+| Immunosuppressants |  | everolimus, rapamycin (also known as sirolimus), temsirolimus | budesonide, ciclesonide, cyclosporine, dexamethasone, fluticasone, methylprednisolone, tacrolimus | Rapamycin (sirolimus): NIZORAL® Tablets 200 mg daily for 10 days increased the Cmax and AUC of a single 5-mg dose of sirolimus by 4.3-fold and 10.9-fold, respectively in 23 healthy subjects. Fluticasone: Coadministration of fluticasone propionate and ketoconazole is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects. |
+| Lipid Regulating Drugs | lovastatin, simvastatin |  | atorvastatin | The potential increase in plasma concentrations of atorvastatin, lovastatin and simvastatin when coadministered with NIZORAL® Tablets may increase the risk of skeletal muscle toxicity, including rhabdomyolysis. |
+| Respiratory Drugs |  | salmeterol |  |  |
+| Urological Drugs |  |  | fesoterodine, sildenafil, solifenacin, tadalafil, tolterodine, vardenafil | Vardenafil: A single dose of 5 mg of vardenafil should not be exceeded when coadministered with ketoconazole. |
+| Other | colchicine, in subjects with renal or hepatic impairment; tolvaptan | colchicine | alcohol, cinacalcet | Colchicine: The potential increase in plasma concentrations of colchicine when coadministered with NIZORAL® Tablets may increase the risk of potentially fatal adverse events. Tolvaptan: Ketoconazole 200 mg administered with tolvaptan increased tolvaptan exposure by 5-fold. Larger doses would be expected to produce larger increases in tolvaptan exposure. There is not adequate experience to define the dose adjustment that would be needed to allow safe use of tolvaptan with strong CYP3A inhibitors such as ketoconazole. Alcohol: Exceptional cases have been reported of a disulfiram-like reaction to alcohol, characterized by flushing, rash, peripheral edema, nausea and headache. All symptoms completely resolved within a few hours. |
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Ketoconazole did not show any signs of mutagenic potential when evaluated using the dominant lethal mutation test or the Ames Salmonella microsomal activator assay.
 Ketoconazole was not carcinogenic in an 18-month, oral study in Swiss albino mice or a 24-month oral carcinogenicity study in Wistar rats at dose levels of 5, 20 and 80 mg/kg/day.
-The high dose in these studies was approximately 1x (mouse) or 2x (rat) the clinical dose in humans based on a mg/m2 comparison.
+The high dose in these studies was approximately 1× (mouse) or 2× (rat) the clinical dose in humans based on a mg/m2 comparison.
 
 ## Pregnancy
 
