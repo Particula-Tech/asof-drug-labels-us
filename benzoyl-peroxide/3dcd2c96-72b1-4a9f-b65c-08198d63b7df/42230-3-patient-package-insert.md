@@ -112,11 +112,11 @@ Ask your doctor or pharmacist for more information.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-You may also report side effects to CORIA Laboratories at 1-800-321-4576.
+You may also report side effects to Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
 
 How should I store ACANYA Gel?
 
-- Store ACANYA Gel at room temperature at or below 22°C (77°F).
+- Store ACANYA Gel at room temperature at or below 25°C (77°F).
 - The expiration date of ACANYA Gel is 10 weeks from the date you fill your prescription.
 - Safely throw away expired ACANYA Gel.
 - Do not freeze.
@@ -143,12 +143,13 @@ Active Ingredients: clindamycin phosphate 1.2% and benzoyl peroxide 2.5%
 
 Inactive Ingredients: purified water, carbomer 980, propylene glycol, and potassium hydroxide
 
-Issued 07/2011
-
-Marketed by: Coria Laboratories, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
+Marketed by: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
 
 Manufactured by: Contract Pharmaceuticals Limited Mississauga, Ontario Canada L5N 6L6
 
-U.S. Patents 5,733,886 and 6,117,843 Additional Patents Pending
+U.S. Patents 5,733,886 and 8,288,434
 
-2005482
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Rev.
+02/2014 2006787 9379500

@@ -4,8 +4,7 @@
 
 Pregnancy Category C.
 
-There are no well-controlled trials in pregnant women treated with ACANYA Gel.
-It also is not known whether ACANYA Gel can cause fetal harm when administered to a pregnant woman.
+There are no adequate and well-controlled studies in pregnant women treated with ACANYA Gel.
 ACANYA Gel should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Animal reproductive/developmental toxicity studies have not been conducted with ACANYA Gel or benzoyl peroxide.
@@ -21,9 +20,6 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 
 Safety and effectiveness of ACANYA Gel in pediatric patients under the age of 12 have not been evaluated.
 
-Clinical trials of ACANYA Gel included patients 12-17 years of age.
-[See Clinical Studies (14)]
-
 ## 8.5 Geriatric Use
 
-Clinical studies of ACANYA Gel did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.
+Clinical trials of ACANYA Gel did not include sufficient numbers of subjects aged 65 and older to determine whether they respond differently from younger subjects.

@@ -14,9 +14,6 @@ Studies indicate toxin(s) produced by Clostridia is one primary cause of antibio
 The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus.
 Stool cultures for Clostridium difficile and stool assay for C. difficile toxin may be helpful diagnostically.
 
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation and treatment with an antibacterial drug clinically effective against C. difficile colitis.
-
 ## 5.2 Ultraviolet Light and Environmental Exposure
 
-Minimize sun exposure following drug application [See Nonclinical Toxicology (13.1)].
+Minimize sun exposure including use of tanning beds or sun lamps following drug application [see Nonclinical Toxicology (13.1)].
