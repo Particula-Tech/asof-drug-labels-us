@@ -74,17 +74,18 @@ Study AMD-4
 
 Study AMD-4 was a randomized, double-masked, active treatment-controlled, two-year study designed to assess the safety and efficacy of LUCENTIS 0.5 mg administered monthly or less frequently than monthly in patients with neovascular AMD.
 Patients randomized to the LUCENTIS 0.5 mg less frequent dosing arm received 3 monthly doses followed by monthly assessments where patients were eligible to receive LUCENTIS injections guided by pre-specified re-treatment criteria.
-A total of 550 patients were enrolled in the two 0.5 mg treatment groups; 521 (95%) of these patients completed Month 12 of this study.
-Data are available through Month 12.
+A total of 550 patients were enrolled in the two 0.5 mg treatment groups with 467 (85%) completing through Month 24.
+Data are available through Month 24.
+Clinical results at Month 24 remain similar to that observed at Month 12.
 
-From Month 3 through Month 12, patients in the 0.5 mg less frequent dosing arm gained an average of 0.1 letters in visual acuity and patients in the 0.5 mg monthly arm gained an average of 1.7 letters (see Figure 3).
-Over the same time period, patients in the 0.5 mg less frequent dosing and 0.5 mg monthly arms averaged 4.8 and 8.3 injections, respectively.
+From Month 3 through Month 24, visual acuity decreased by 0.3 letters in the 0.5 mg less frequent dosing arm and increased by 0.7 letters in the 0.5 mg monthly arm (see Figure 3).
+Over this 21 month period, patients in the 0.5 mg less frequent dosing and the 0.5 mg monthly arms averaged 10.3 and 18.5 injections, respectively.
 The distribution of injections received in the less frequent dosing arm is shown in Figure 4.
 
-| Figure 3 Mean Change in Visual Acuity from Baseline to Month 12 in Study AMD-4 |
+| Figure 3 Mean Change in Visual Acuity from Baseline to Month 24 in Study AMD-4 |
 | --- |
 
-| Figure 4 Distribution of Injections from Month 3 to Month 12 in the Less Frequent Dosing Arm in Study AMD-4 |
+| Figure 4 Distribution of Injections from Month 3 to Month 24 in the Less Frequent Dosing Arm in Study AMD-4 |
 | --- |
 
 ## 14.2 Macular Edema Following Retinal Vein Occlusion (RVO)

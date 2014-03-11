@@ -19,7 +19,7 @@ In patients treated with LUCENTIS, CPT decreased, on average, more than in the s
 CPT decreased by Month 1 and decreased further at Month 3, on average.
 In this study, CPT data did not provide information useful in influencing treatment decisions [see Clinical Studies (14.1)].
 
-In Study AMD-4, CFT was assessed by spectral domain (SD)-OCT in all patients; on average, CFT reductions were observed beginning at Day 7 following the first LUCENTIS injection through Month 12 in both arms.
+In Study AMD-4, CFT was assessed by spectral domain (SD)-OCT in all patients; on average, CFT reductions were observed beginning at Day 7 following the first LUCENTIS injection through Month 24.
 CFT data did not provide information capable of predicting final visual acuity results [see Clinical Studies (14.1)].
 
 In patients treated with LUCENTIS, the area of CNV leakage, on average, decreased by Month 3 as assessed by FA.

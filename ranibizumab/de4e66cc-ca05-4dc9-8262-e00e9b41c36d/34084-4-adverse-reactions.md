@@ -93,7 +93,7 @@ As with all therapeutic proteins, there is the potential for an immune response 
 The immunogenicity data reflect the percentage of patients whose test results were considered positive for antibodies to LUCENTIS in immunoassays and are highly dependent on the sensitivity and specificity of the assays.
 
 The pre-treatment incidence of immunoreactivity to LUCENTIS was 0%-5% across treatment groups.
-After monthly dosing with LUCENTIS for 6 to 24 months, antibodies to LUCENTIS were detected in approximately 1%-8% of patients.
+After monthly dosing with LUCENTIS for 6 to 24 months, antibodies to LUCENTIS were detected in approximately 1%-9% of patients.
 
 The clinical significance of immunoreactivity to LUCENTIS is unclear at this time.
 Among neovascular AMD patients with the highest levels of immunoreactivity, some were noted to have iritis or vitritis.

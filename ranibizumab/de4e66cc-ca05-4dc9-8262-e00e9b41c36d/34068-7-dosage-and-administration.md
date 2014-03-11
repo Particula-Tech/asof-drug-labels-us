@@ -8,12 +8,12 @@ FOR OPHTHALMIC INTRAVITREAL INJECTION ONLY.
 
 LUCENTIS 0.5 mg (0.05 mL of 10 mg/mL LUCENTIS solution) is recommended to be administered by intravitreal injection once a month (approximately 28 days).
 
-Although not as effective, patients may be treated with three monthly doses followed by less frequent dosing with regular assessment.
-In the nine months after three initial monthly doses, less frequent dosing with 4-5 doses on average is expected to maintain visual acuity while monthly dosing may be expected to result in an additional average 1-2 letter gain.
+Although not as effective, patients may be treated with 3 monthly doses followed by less frequent dosing with regular assessment.
+In the nine months after 3 initial monthly doses, less frequent dosing with 4-5 doses on average is expected to maintain visual acuity while monthly dosing may be expected to result in an additional average 1-2 letter gain.
 Patients should be assessed regularly [see Clinical Studies (14.1)].
 
 Although not as effective, patients may also be treated with one dose every 3 months after 4 monthly doses.
-Compared to continued monthly dosing, dosing every 3 months over the next 9 months will lead to an approximate 5-letter (1-line) loss of visual acuity benefit, on average.
+Compared with continued monthly dosing, dosing every 3 months over the next 9 months will lead to an approximate 5-letter (1-line) loss of visual acuity benefit, on average.
 Patients should be assessed regularly [see Clinical Studies (14.1)].
 
 ## 2.3 Macular Edema Following Retinal Vein Occlusion (RVO)
