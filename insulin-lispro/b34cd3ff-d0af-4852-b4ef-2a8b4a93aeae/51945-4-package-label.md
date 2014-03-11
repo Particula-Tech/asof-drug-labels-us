@@ -64,4 +64,4 @@ For subcutaneous use only.
 
 5 x 3 mL Prefilled Pens
 
-Read User Manual for instructions
+Read Insulin Delivery Device Instructions for Use
