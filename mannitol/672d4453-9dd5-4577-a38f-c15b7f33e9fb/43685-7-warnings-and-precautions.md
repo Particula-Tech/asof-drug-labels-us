@@ -34,23 +34,15 @@ Unused portions should be discarded and a fresh container of appropriate size us
 Do not administer unless solution is clear, seal is intact and container is undamaged.
 Discard unused portion.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+Carcinogenesis, Mutagenesis, Impairment of Fertility: Studies with Sorbitol-Mannitol Irrigation have not been performed to evaluate carcinogenic potential, mutagenic potential, or effects on fertility.
 
-Studies with Sorbitol-Mannitol Irrigation have not been performed to evaluate carcinogenic potential, mutagenic potential, or effects on fertility.
+Nursing Mothers: Caution should be exercised when Sorbitol-Mannitol Irrigation is administered to a nursing woman.
 
-## Nursing Mothers:
-
-Caution should be exercised when Sorbitol-Mannitol Irrigation is administered to a nursing woman.
-
-## Pregnancy:
-
-Teratogenic Effects.
+Pregnancy: Teratogenic Effects.
 
 Pregnancy Category C. Animal reproduction studies have not been conducted with Sorbitol-Mannitol Irrigation.
 It is also not known whether Sorbitol-Mannitol Irrigation can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Sorbitol-Mannitol Irrigation should be given to a pregnant woman only if clearly needed.
 
-## Pediatric Use:
-
-The safety and effectiveness of Sorbitol-Mannitol Irrigation have not been established.
+Pediatric Use: The safety and effectiveness of Sorbitol-Mannitol Irrigation have not been established.
 Its limited use in pediatric patients has been inadequate to fully define proper dosage and limitations for use.
