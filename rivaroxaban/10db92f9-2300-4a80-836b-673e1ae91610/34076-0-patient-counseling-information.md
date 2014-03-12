@@ -16,7 +16,7 @@ See FDA-approved patient labeling (Medication Guide).
 
 - Advise patients to report any unusual bleeding or bruising to their physician.
   Inform patients that it might take them longer than usual to stop bleeding, and that they may bruise and/or bleed more easily when they are treated with XARELTO [see Warnings and Precautions (5.2)].
-- If patients have had neuraxial anesthesia or spinal puncture, and particularly, if they are taking concomitant NSAIDs or platelet inhibitors, advise patients to watch for signs and symptoms of spinal or epidural hematoma, such as tingling, numbness (especially in the lower limbs) and muscular weakness.
+- If patients have had neuraxial anesthesia or spinal puncture, and particularly, if they are taking concomitant NSAIDs or platelet inhibitors, advise patients to watch for signs and symptoms of spinal or epidural hematoma, such as back pain, tingling, numbness (especially in the lower limbs), muscle weakness, and stool or urine incontinence.
   If any of these symptoms occur, advise the patient to contact his or her physician immediately [see Boxed Warning].
 
 ## 17.3 Invasive or Surgical Procedures

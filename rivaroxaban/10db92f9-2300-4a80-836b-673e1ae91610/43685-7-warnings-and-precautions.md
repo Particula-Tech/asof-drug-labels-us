@@ -32,9 +32,16 @@ The use of other procoagulant reversal agents like activated prothrombin complex
 
 When neuraxial anesthesia (spinal/epidural anesthesia) or spinal puncture is employed, patients treated with anticoagulant agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis [see Boxed Warning].
 
+To reduce the potential risk of bleeding associated with the concurrent use of rivaroxaban and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of rivaroxaban [see Clinical Pharmacology (12.3)].
+Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of rivaroxaban is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
+
 An epidural catheter should not be removed earlier than 18 hours after the last administration of XARELTO.
 The next XARELTO dose is not to be administered earlier than 6 hours after the removal of the catheter.
 If traumatic puncture occurs, the administration of XARELTO is to be delayed for 24 hours.
+
+Should the physician decide to administer anticoagulation in the context of epidural or spinal anesthesia/analgesia or lumbar puncture, monitor frequently to detect any signs or symptoms of neurological impairment, such as midline back pain, sensory and motor deficits (numbness, tingling, or weakness in lower limbs), bowel and/or bladder dysfunction.
+Instruct patients to immediately report if they experience any of the above signs or symptoms.
+If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis and treatment including consideration for spinal cord decompression even though such treatment may not prevent or reverse neurological sequelae.
 
 ## 5.4 Use in Patients with Renal Impairment
 

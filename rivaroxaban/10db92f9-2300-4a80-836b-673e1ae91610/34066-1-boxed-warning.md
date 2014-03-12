@@ -16,6 +16,7 @@ Factors that can increase the risk of developing epidural or spinal hematomas in
 - concomitant use of other drugs that affect hemostasis, such as non-steroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants
 - a history of traumatic or repeated epidural or spinal punctures
 - a history of spinal deformity or spinal surgery
+- optimal timing between the administration of XARELTO and neuraxial procedures is not known
 
 [see Warnings and Precautions (5.2, 5.3) and Adverse Reactions (6.2)].
 
