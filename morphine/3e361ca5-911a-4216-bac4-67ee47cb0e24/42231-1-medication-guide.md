@@ -67,6 +67,7 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov
 
-Manufactured for: King Pharmaceuticals, Inc., Bristol, TN 37620 by: Alkermes Pharma Ireland Limited", Athlone, Ireland, www.avinza.com or call 1-800-438-1985
+Manufactured for: King Pharmaceuticals, Inc., Bristol, TN 37620 by: Alkermes Gainesville LLC, Gainesville, GA, www.avinza.com or call 1-800-438-1985
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.Issue: July 2012
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Issue: April 2013
