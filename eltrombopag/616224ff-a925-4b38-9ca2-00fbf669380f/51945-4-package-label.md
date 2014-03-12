@@ -136,6 +136,14 @@ NDC 0007-4644-13
 
 PROMACTA®
 
+Product Discontinued
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 0007-4646-13
+
+PROMACTA®
+
 (eltrombopag) Tablets
 
 100 mg*
@@ -151,13 +159,19 @@ Federal Law requires dispensing of PROMACTA® with the Medication Guide provided
 Store between 20o and 25oC (68o to77oF); excursions permitted to 15o to 30oC (59o to 86oF).
 Do not remove desiccant.
 
-Dosage: See accompanying prescribing information.
+Do not use if printed safety seal under cap is broken or missing.
 
-Important: Use safety closures when dispensing this product unless otherwise directed by physicians or requested by purchaser.
+Dosage:
+
+See accompanying prescribing information.
+
+Important:
+
+Use safety closures when dispensing this product unless otherwise directed by physicians or requested by purchaser.
 
 GlaxoSmithKline, RTP, NC 27709
 
 Made in Ireland
 
-10000000111069 Rev.
-11/12
+10000000123249 Rev.
+1/14

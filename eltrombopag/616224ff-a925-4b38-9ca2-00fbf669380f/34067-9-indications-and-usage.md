@@ -1,10 +1,10 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Treatment of Thrombocytopenia in Patients with Chronic ITP
+## 1.1 Treatment of Thrombocytopenia in Patients With Chronic ITP
 
-PROMACTA® is indicated for the treatment of thrombocytopenia in patients with chronic immune (idiopathic) thrombocytopenia (ITP) who have had an insufficient response to corticosteroids, immunoglobulins, or splenectomy.
+PROMACTA is indicated for the treatment of thrombocytopenia in patients with chronic immune (idiopathic) thrombocytopenia (ITP) who have had an insufficient response to corticosteroids, immunoglobulins, or splenectomy.
 
-## 1.2 Treatment of Thrombocytopenia in Patients with Hepatitis C Infection
+## 1.2 Treatment of Thrombocytopenia in Patients With Hepatitis C Infection
 
 PROMACTA is indicated for the treatment of thrombocytopenia in patients with chronic hepatitis C to allow the initiation and maintenance of interferon-based therapy.
 

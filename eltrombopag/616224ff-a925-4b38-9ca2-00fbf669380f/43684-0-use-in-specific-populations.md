@@ -44,7 +44,7 @@ No overall differences in safety or effectiveness were observed between these pa
 
 Hepatic impairment influences the exposure of PROMACTA [see Clinical Pharmacology (12.3)].
 
-A reduction in the initial dose of PROMACTA in patients with chronic ITP is recommended for patients with hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)].
+A reduction in the initial dose of PROMACTA in patients with chronic ITP is recommended for patients with hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1) and Warnings and Precautions (5.2)].
 No dosage adjustment is necessary for HCV patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment

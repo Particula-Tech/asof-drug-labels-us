@@ -33,7 +33,7 @@ Probe substrates for CYP2C8 were not evaluated in this trial.
 
 Rosuvastatin: In a clinical trial, co-administration of 75 mg of PROMACTA once daily for 5 days with a single 10 mg dose of the OATP1B1 and BCRP substrate, rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin AUC0-∞ by 55% and Cmax by 103%.
 
-Lopinavir/Ritonavir: In a clinical trial, co-administration of repeat dose lopinavir 400 mg /ritonavir 100 mg twice daily with a single dose of PROMACTA 100 mg to 40 healthy adult subjects decreased plasma eltrombopag AUC0-∞ by 17%.
+Lopinavir/Ritonavir: In a clinical trial, co-administration of repeat dose lopinavir 400 mg/ritonavir 100 mg twice daily with a single dose of PROMACTA 100 mg to 40 healthy adult subjects decreased plasma eltrombopag AUC0-∞ by 17%.
 
 Pegylated Interferon alfa-2a + Ribavirin and Pegylated Interferon alfa-2b + Ribavirin: The pharmacokinetics of eltrombopag in both the presence and absence of pegylated interferon alfa 2a and 2b therapy were evaluated using a population pharmacokinetic analysis in 635 patients with chronic hepatitis C. The population PK model estimates of clearance indicate no significant difference in eltrombopag clearance in the presence of pegylated interferon alfa plus ribavirin therapy.
 

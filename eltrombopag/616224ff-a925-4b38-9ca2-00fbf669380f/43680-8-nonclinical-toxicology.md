@@ -20,7 +20,7 @@ There was no evidence of in vivo cutaneous or ocular phototoxicity in rodents.
 
 Treatment-related cataracts were detected in rodents in a dose- and time-dependent manner.
 At ≥6 times the human clinical exposure based on AUC in ITP patients at 75 mg/day and 3 times the human clinical exposure based on AUC in chronic hepatitis C patients at 100 mg/day, cataracts were observed in mice after 6 weeks and in rats after 28 weeks of dosing.
-At ≥4 times the human clinical exposure based on AUC in ITP patients at 75 mg/day and 2 times the human clinical exposure based on AUC in chronic hepatitis C patients at 100 mg/day, cataracts were observed in mice after 13 weeks and in rats after 39 weeks of dosing [see Warnings and Precautions (5.6)].
+At ≥4 times the human clinical exposure based on AUC in ITP patients at 75 mg/day and 2 times the human clinical exposure based on AUC in chronic hepatitis C patients at 100 mg/day, cataracts were observed in mice after 13 weeks and in rats after 39 weeks of dosing [see Warnings and Precautions (5.4)].
 
 Renal tubular toxicity was observed in studies up to 14 days in duration in mice and rats at exposures that were generally associated with morbidity and mortality.
 Tubular toxicity was also observed in a 2-year oral carcinogenicity study in mice at doses of 25, 75, and 150 mg/kg/day.

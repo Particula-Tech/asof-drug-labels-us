@@ -4,7 +4,7 @@
 
 Use the lowest dose of PROMACTA to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding.
 Dose adjustments are based upon the platelet count response.
-Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.4)].
+Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.3)].
 In clinical trials, platelet counts generally increased within 1 to 2 weeks after starting PROMACTA and decreased within 1 to 2 weeks after discontinuing PROMACTA [see Clinical Studies (14.1)].
 
 Initial Dose Regimen: Initiate PROMACTA at a dose of 50 mg once daily, except in patients who are of East Asian ancestry (such as Chinese, Japanese, Taiwanese, or Korean) or who have mild to severe hepatic impairment (Child-Pugh Class A, B, C).
@@ -18,8 +18,8 @@ For ITP patients of East Asian ancestry with hepatic impairment (Child-Pugh Clas
 Monitoring and Dose Adjustment: After initiating PROMACTA, adjust the dose to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding.
 Do not exceed a dose of 75 mg daily.
 Monitor clinical hematology and liver tests regularly throughout therapy with PROMACTA and modify the dosage regimen of PROMACTA based on platelet counts as outlined in Table 1.
-During therapy with PROMACTA, assess CBCs with differentials (including platelet counts) weekly until a stable platelet count has been achieved.
-Obtain CBCs with differentials (including platelet counts) monthly thereafter.
+During therapy with PROMACTA, assess CBCs with differentials, including platelet counts, weekly until a stable platelet count has been achieved.
+Obtain CBCs with differentials, including platelet counts, monthly thereafter.
 
 Table 1.
 Dose Adjustments of PROMACTA in Adults With Chronic Immune (Idiopathic) Thrombocytopenia
@@ -37,13 +37,14 @@ Modify the dosage regimen of concomitant ITP medications, as medically appropria
 Do not administer more than one dose of PROMACTA within any 24-hour period.
 
 Discontinuation: Discontinue PROMACTA if the platelet count does not increase to a level sufficient to avoid clinically important bleeding after 4 weeks of therapy with PROMACTA at the maximum daily dose of 75 mg.
-Excessive platelet count responses, as outlined in Table 1, or important liver test abnormalities also necessitate discontinuation of PROMACTA [see Warnings and Precautions (5.1)].
+Excessive platelet count responses, as outlined in Table 1, or important liver test abnormalities also necessitate discontinuation of PROMACTA [see Warnings and Precautions (5.2)].
+Obtain CBCs with differentials, including platelet counts, weekly for at least 4 weeks following discontinuation of PROMACTA.
 
 ## 2.2 Chronic Hepatitis C-Associated Thrombocytopenia
 
 Use the lowest dose of PROMACTA to achieve and maintain a platelet count necessary to initiate and maintain antiviral therapy with pegylated interferon and ribavirin.
 Dose adjustments are based upon the platelet count response.
-Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.4)].
+Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.3)].
 In clinical trials, platelet counts generally began to rise within the first week of treatment with PROMACTA [see Clinical Studies (14.2)].
 
 Initial Dose Regimen: Initiate PROMACTA at a dose of 25 mg once daily.
@@ -52,7 +53,7 @@ Monitoring and Dose Adjustment: Adjust the dose of PROMACTA in 25 mg increments 
 Monitor platelet counts every week prior to starting antiviral therapy.
 
 During antiviral therapy, adjust the dose of PROMACTA to avoid dose reductions of peginterferon.
-Monitor CBCs with differentials (including platelet counts) weekly during antiviral therapy until a stable platelet count is achieved.
+Monitor CBCs with differentials, including platelet counts, weekly during antiviral therapy until a stable platelet count is achieved.
 Monitor platelet counts monthly thereafter.
 Do not exceed a dose of 100 mg daily.
 Monitor clinical hematology and liver tests regularly throughout therapy with PROMACTA.
@@ -73,7 +74,7 @@ Discontinuation: The prescribing information for pegylated interferon and ribavi
 Refer to pegylated interferon and ribavirin prescribing information for discontinuation recommendations for antiviral treatment futility.
 
 PROMACTA should be discontinued when antiviral therapy is discontinued.
-Excessive platelet count responses, as outlined in Table 2, or important liver test abnormalities also necessitate discontinuation of PROMACTA [see Warnings and Precautions (5.1)].
+Excessive platelet count responses, as outlined in Table 2, or important liver test abnormalities also necessitate discontinuation of PROMACTA [see Warnings and Precautions (5.2)].
 
 ## 2.3 Administration
 
