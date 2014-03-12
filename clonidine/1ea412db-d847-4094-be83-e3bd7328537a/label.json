@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA070974",
+    "ANDA070975",
+    "ANDA070976"
+  ],
+  "inn": "clonidine",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-237-00",
+    "68001-237-03",
+    "68001-238-00",
+    "68001-238-03",
+    "68001-239-00"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clonidine hydrochloride",
+      "name": "Clonidine Hydrochloride"
+    }
+  ],
+  "setid": "1ea412db-d847-4094-be83-e3bd7328537a",
+  "source": "dailymed"
+}
