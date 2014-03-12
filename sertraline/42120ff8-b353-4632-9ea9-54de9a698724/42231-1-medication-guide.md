@@ -1,6 +1,6 @@
 Medication Guide
 
-SERTRALINE TABLETS USP
+SERTRALINE TABLETS USP (ser′ tra leen)
 
 25 mg, 50 mg and 100 mg
 
@@ -321,4 +321,4 @@ Goa 403 722
 
 INDIA
 
-Revised: June 15, 2013 ID#: 232442
+Revised: March 15, 2014 ID#: 237063
