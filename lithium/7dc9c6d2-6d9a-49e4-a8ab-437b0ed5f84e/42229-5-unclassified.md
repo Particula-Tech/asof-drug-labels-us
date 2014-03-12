@@ -89,8 +89,6 @@ The relationship between renal functional and morphologic changes and their asso
 When kidney function is assessed, for baseline data prior to starting lithium therapy or thereafter, routine urinalysis and other tests may be used to evaluate tubular function (e.g., urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (e.g., serum creatinine or creatinine clearance).
 During lithium therapy, progressive or sudden changes in renal function, even within the normal range, indicate the need for reevaluation of treatment.
 
-Lithium toxicity is closely related to serum lithium levels, and can occur at doses close to therapeutic levels (see DOSAGE AND ADMINISTRATION).
-
 # PRECAUTIONS
 
 ## General
@@ -146,7 +144,7 @@ In a study conducted in healthy subjects, mean steady-state lithium plasma level
 
 ## Pregnancy, Teratogenic Effects
 
-### Teratogenic Effects: Pregnancy Category D:
+### Pregnancy Category D:
 
 See WARNINGS section.
 
@@ -326,10 +324,10 @@ NDC 0054-3527-63: Bottles of 500 mL.
 Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
 Dispense in a tight container as defined in the USP/NF.
 
-4055500/09
+4055500//08
 
-Revised October 2012
+Revised October 2011
 
-© RLI, 2012
+© RLI, 2011
 
 Package Label - Lithium Carbonate Tablets USP
