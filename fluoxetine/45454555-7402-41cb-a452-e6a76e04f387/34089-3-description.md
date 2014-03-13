@@ -8,6 +8,6 @@ The structural formula is:
 
 Fluoxetine hydrochloride is a white to off-white crystalline solid with a solubility of 14 mg/mL in water.
 Each capsule contains fluoxetine hydrochloride equivalent to 10 mg (32.3 μmol), 20 mg (64.7 μmol), or 40 mg (129.3 μmol) of fluoxetine.
-The capsules also contain the following inactive ingredients: pregelatinized starch, colloidal silicon dioxide, FD&C Blue #1, yellow iron oxide, titanium dioxide, sodium lauryl sulphate, and gelatin.
+The capsules also contain the following inactive ingredients: colloidal silicon dioxide, FD&C Blue #1, gelatin, pregelatinized starch (maize), sodium lauryl sulphate, titanium dioxide and yellow iron oxide.
 In addition 40 mg also contains FD&C Yellow #6.
-The capsules are printed with edible ink containing black iron oxide and shellac.
+The capsules are printed with edible ink containing black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.

@@ -1,6 +1,6 @@
 # Medication Guide
 
-Fluoxetine Capsules, USP Read the Medication Guide that comes with fluoxetine capsules before you start taking them and each time you get a refill.
+Fluoxetine Capsules, USP (floo ox' e teen) Read the Medication Guide that comes with fluoxetine capsules before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -79,6 +79,15 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
+9.
+Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsade de Pointes).
+This condition can be life threatening.
+The symptoms may include:
+
+- fast, slow, or irregular heartbeat
+- shortness of breath
+- dizziness or fainting
+
 Do not stop fluoxetine capsules without first talking to your healthcare provider.
 Stopping fluoxetine capsules too quickly may cause serious symptoms including:
 
@@ -98,7 +107,9 @@ Fluoxetine capsules are used to treat:
 - Panic Disorder*
 - Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa)*
 
-* Not approved for use in children Talk to your healthcare provider if you do not think that your condition is getting better with fluoxetine capsules treatment.
+* Not approved for use in children Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
+However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Talk to your healthcare provider if you do not think that your condition is getting better with fluoxetine capsules treatment.
 Who should not take fluoxetine capsules?
 Do not take fluoxetine capsules if you:
 
@@ -211,7 +222,7 @@ CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
 YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 How should I store fluoxetine capsules?
 
-- Store fluoxetine capsules at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+- Store fluoxetine capsules at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 - Keep fluoxetine capsules away from light.
 - Keep fluoxetine capsules bottle closed tightly.
 
@@ -225,13 +236,13 @@ If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about fluoxetine capsules that is written for healthcare professionals.
 For more information about fluoxetine capsules call 1-866-850-2876.
 What are the ingredients in fluoxetine capsules?
-Active ingredient: fluoxetine hydrochloride Inactive ingredients: pregelatinized starch, colloidal silicon dioxide, FD&C Blue #1, yellow iron oxide, titanium dioxide, sodium lauryl sulphate, and gelatin.
+Active ingredient: fluoxetine hydrochloride Inactive ingredients: colloidal silicon dioxide, FD&C Blue #1, gelatin, pregelatinized starch (maize), sodium lauryl sulphate, titanium dioxide and yellow iron oxide.
 In addition 40 mg also contains FD&C Yellow #6.
-The capsules are printed with edible ink containing black iron oxide and shellac.
+The capsules are printed with edible ink containing black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
 Mellaril® is a registered trademark of Novartis AG Corporation.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Zyprexa® is a registered trademark of Eli Lilly and Company.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 02/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 02/2014
