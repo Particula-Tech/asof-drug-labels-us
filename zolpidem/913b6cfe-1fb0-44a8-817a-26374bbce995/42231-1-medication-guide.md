@@ -158,4 +158,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Distributed by: Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-Issued: January 2014
+Issued: February 2013

@@ -57,6 +57,8 @@ Open the Intermezzo pouch you placed by your bed.
 - Fold the Intermezzo pouch along the dotted line.
   While the Intermezzo pouch is folded, tear the pouch open at the notch at the center of the dotted line (see Figure D).
 
+Figure D
+
 Step 3.
 Remove the tablet from the Intermezzo pouch.
 
@@ -79,4 +81,4 @@ This Medication Guide and Instructions for Use have been approved by the U.S. Fo
 Distributed by: Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-Issued: January 2014
+Issued: February 2013

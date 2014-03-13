@@ -48,4 +48,4 @@ Stamford, CT 06901-3431 Manufactured by: Patheon Pharmaceuticals, Inc., Cincinna
 
 U.S. Patent Numbers 7658945; 7682628; 8,242,131; 8,252,809
 
-©2012, Purdue Pharma L.P.
+©2013, Purdue Pharma L.P.
