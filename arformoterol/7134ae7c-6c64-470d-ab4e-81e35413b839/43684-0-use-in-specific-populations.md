@@ -50,8 +50,8 @@ Other reported clinical experience has not identified differences in responses b
 
 ## 8.6 Hepatic Impairment
 
-BROVANA Inhalation Solution should be used cautiously in patients with hepatic impairment due to increased systemic exposure in these patients [see Pharmacokinetics (12.3)].
+BROVANA Inhalation Solution should be used cautiously in patients with hepatic impairment due to increased systemic exposure in these patients [see CLINICAL PHARMACOLOGY (12.3)].
 
 ## 8.7 Renal Impairment
 
-The systemic exposure to arformoterol was similar to renally impaired patients compared with demographically matched healthy control subjects [see Pharmacokinetics (12.3)].
+The systemic exposure to arformoterol was similar to renally impaired patients compared with demographically matched healthy control subjects [see CLINICAL PHARMACOLOGY (12.3)].

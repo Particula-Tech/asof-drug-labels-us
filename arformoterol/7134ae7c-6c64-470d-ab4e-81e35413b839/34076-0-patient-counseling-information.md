@@ -1,6 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be instructed to read the accompanying Medication Guide with each new prescription and refill.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use) with each new prescription and refill.
+
 The complete text of the Medication Guide is reprinted at the end of this document.
 Patients should be given the following information:
 
@@ -43,14 +44,14 @@ FDA-Approved Medication Guide
 
 See the accompanying Medication Guide.
 
-SUNOVION
+SUNOVION Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
 
-Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
-
-© 2011 Sunovion Pharmaceuticals Inc. All rights reserved.
+© 2011, 2014 Sunovion Pharmaceuticals Inc. All rights reserved.
 
 For customer service, call 1-888-394-7377.
+
 To report adverse events, call 1-877-737-7226.
+
 For medical information, call 1-800-739-0565.
 
-February 2012 901552R01
+901552R02

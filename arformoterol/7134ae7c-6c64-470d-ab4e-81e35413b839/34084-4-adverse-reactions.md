@@ -10,13 +10,13 @@ Adverse reactions to BROVANA Inhalation Solution are expected to be similar in n
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
+Adults with COPD in Short-Term Trials (12 weeks)
+
 The safety data described below for adults ≥35 years of age are based on 2 clinical trials of 12 weeks.
 In the 2 trials of 12 weeks duration, 1456 patients (860 males and 596 females, ages 34 to 89 years old) with COPD were treated with BROVANA Inhalation Solution 15 mcg twice daily, 25 mcg twice daily, 50 mcg once daily, salmeterol 42 mcg twice daily, or placebo.
 The racial/ethnic distribution in these two trials included 1383 Caucasians, 49 Blacks, 10 Asians, and 10 Hispanics, and 4 patients classified as Other.
 
-Adults with COPD
-
-Among 1,456 COPD patients in two 12-week, placebo-controlled trials, 288 were treated with BROVANA Inhalation Solution 15 mcg twice daily and 293 were treated with placebo.
+Among the 1,456 COPD patients in two 12-week, placebo-controlled trials, 288 were treated with BROVANA Inhalation Solution 15 mcg twice daily and 293 were treated with placebo.
 Doses of 25 mcg twice daily and 50 mcg once daily were also evaluated.
 
 Table 1 shows adverse reaction rates among patients from these two trials where the frequency was greater than or equal to 2% in the BROVANA Inhalation Solution 15 mcg twice daily group and where the rate in the BROVANA Inhalation Solution 15 mcg twice daily group exceeded the rate in the placebo group.
@@ -67,3 +67,13 @@ Urogenital: breast neoplasm, calcium crystalluria, cystitis, glycosuria, hematur
 In these trials, the overall frequency of all cardiovascular adverse events was 6.9% in BROVANA Inhalation Solution 15 mcg twice daily and 13.3% in the placebo group.
 There were no frequently occurring specific cardiovascular adverse events for BROVANA Inhalation Solution (frequency ≥1% and greater than placebo).
 The rate of COPD exacerbations was also comparable between the BROVANA Inhalation Solution 15 mcg twice daily and placebo groups, 12.2% and 15.1%, respectively.
+
+Adults with COPD in Long-Term (52-week) Safety Trial
+
+BROVANA Inhalation Solution was evaluated in one 52 week double-blind, randomized, placebo-controlled, safety trial conducted in patients with moderate to severe COPD.
+The primary endpoint was time to either respiratory death or first COPD exacerbation-related hospitalization, whichever occurred first.
+The event had to be a death or hospitalization for which the patient's respiratory status was predominant and/or inciting contributor, as determined by the clinical investigator.
+The objective of the trial was to demonstrate that the risk of respiratory death or COPD exacerbation-related hospitalization for patients treated with BROVANA Inhalation Solution was not greater than 40% more than the risk for patient treated with placebo.
+A total of 841 patients (479 males and 361 females, ages 41 to 94 years old) with COPD were randomized: 420 to BROVANA Inhalation Solution 15 mcg twice daily and 421 to placebo.
+Of the randomized patients, 255 (61%) in the BROVANA Inhalation Solution group and 211 (50%) in the placebo group, completed one year of treatment.
+The trial objective was met demonstrating that COPD patients treated with BROVANA Inhalation Solution are not at an increased risk of respiratory death or COPD exacerbation-related hospitalizations compared to placebo.

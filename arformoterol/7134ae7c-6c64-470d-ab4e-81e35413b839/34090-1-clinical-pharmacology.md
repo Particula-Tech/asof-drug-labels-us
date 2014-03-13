@@ -144,7 +144,7 @@ Dosage adjustments of BROVANA Inhalation Solution are not necessary when the dru
 
 Arformoterol did not inhibit CYP1A2, CYP2A6, CYP2C9/10, CYP2C19, CYP2D6, CYP2E1, CYP3A4/5, or CYP4A9/11 enzymes at >1,000-fold higher concentrations than the expected peak plasma concentrations following a therapeutic dose.
 
-## 12.4 Pharmacogenetics
+## 12.5 Pharmacogenomics
 
 Arformoterol is eliminated through the action of multiple drug metabolizing enzymes.
 Direct glucuronidation of arformoterol is mediated by several UGT enzymes and is the primary elimination route.
