@@ -12,8 +12,7 @@ This dose also caused an increase in total fetal malformations.
 The most frequent malformations were of the eye (microphthalmia, anophthalmia, rosette formation of the retina, coloboma of the retina, ectopic orbit), brain (dilated lateral and third ventricles), skull, and vertebrae.
 
 There are no adequate and well controlled studies of topotecan in pregnant women.
-If this drug is used during pregnancy, or if a patient becomes pregnant while receiving Topotecan Injection, the patient should be apprised of the potential hazard to a fetus.
-[see Warnings and Precautions (5.4)]
+If this drug is used during pregnancy, or if a patient becomes pregnant while receiving Topotecan Injection, the patient should be apprised of the potential hazard to a fetus [see Warnings and Precautions (5.4)].
 
 ## 8.3 Nursing Mothers
 

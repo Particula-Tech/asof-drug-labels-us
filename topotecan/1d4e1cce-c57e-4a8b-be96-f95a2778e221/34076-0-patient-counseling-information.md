@@ -15,10 +15,8 @@ Advise patients to use effective contraceptive measures to prevent pregnancy and
 Inform patients that topotecan may cause asthenia or fatigue.
 If these symptoms occur, caution should be observed when driving or operating machinery.
 
-Manufactured and Distributed by:
+EN-3455
 
-Hospira, Inc.
-
-Lake Forest, IL 60045 USA EN-2749
+Manufactured by: Zydus Hospira Oncology Private Ltd., Gujarat, India Distributed by: Hospira, Inc., Lake Forest, IL 60045 USA GUJ-DRUGS/G/28/1267
 
 Made in India

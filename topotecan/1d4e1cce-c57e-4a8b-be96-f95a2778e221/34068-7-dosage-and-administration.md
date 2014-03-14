@@ -1,5 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+Verify dose using body surface area prior to dispensing.
+Recommended dosage should generally not exceed 4 mg intravenously [see Overdosage (10)].
+
 Prior to administration of the first course of Topotecan Injection, patients must have a baseline neutrophil count of >1,500 cells/mm3 and a platelet count of >100,000 cells/mm3.
 
 ## 2.1 Small Cell Lung Cancer
