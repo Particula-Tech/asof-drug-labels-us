@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021044"
+  ],
   "inn": "hydromorphone",
-  "labeler": "Purdue Pharma L.P.",
+  "labeler": "Purdue Pharma LP",
   "package_ndcs": [
     "59011-312-20",
     "59011-312-60",
@@ -12,7 +14,13 @@
     "59011-315-20",
     "59011-315-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Palladone"
+    }
+  ],
   "setid": "706e938f-a0a0-42f6-b99b-60c31cbfb441",
   "source": "dailymed"
 }

@@ -1,4 +1,4 @@
-## MEDICATION GUIDE
+# MEDICATION GUIDE
 
 PALLADONE™ (PAL-ah-doan) (hydromorphone hydrochloride extended-release) Capsules CII 12 mg, 16 mg, 24 mg, 32 mg
 
