@@ -100,7 +100,7 @@ Canagliflozin is also a substrate of drug transporters P-glycoprotein (P-gp) and
 
 In Vivo Assessment of Drug Interactions
 
-Table 5: Effect of Co−Administered Drugs on Systemic Exposures of Canagliflozin
+Table 5: Effect of Co–Administered Drugs on Systemic Exposures of Canagliflozin
 
 | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- |

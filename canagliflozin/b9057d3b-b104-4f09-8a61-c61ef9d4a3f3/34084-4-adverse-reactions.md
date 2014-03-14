@@ -28,12 +28,12 @@ Baseline renal function was normal or mildly impaired (mean eGFR 88 mL/min/1.73 
 Table 1 shows common adverse reactions associated with the use of INVOKANA.
 These adverse reactions were not present at baseline, occurred more commonly on INVOKANA than on placebo, and occurred in at least 2% of patients treated with either INVOKANA 100 mg or INVOKANA 300 mg.
 
-Table 1: Adverse Reactions From Pool of Four 26−Week Placebo-Controlled Studies Reported in ≥ 2% of INVOKANA-Treated PatientsThe four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin, metformin and sulfonylurea, or metformin and pioglitazone.
+Table 1: Adverse Reactions From Pool of Four 26–Week Placebo-Controlled Studies Reported in ≥ 2% of INVOKANA-Treated PatientsThe four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin, metformin and sulfonylurea, or metformin and pioglitazone.
 
 | Adverse Reaction | Placebo N=646 | INVOKANA 100 mg N=833 | INVOKANA 300 mg N=834 |
 | --- | --- | --- | --- |
 | Female genital mycotic infectionsFemale genital mycotic infections include the following adverse reactions: Vulvovaginal candidiasis, Vulvovaginal mycotic infection, Vulvovaginitis, Vaginal infection, Vulvitis, and Genital infection fungal. Percentages calculated with the number of female subjects in each group as denominator: placebo (N=312), INVOKANA 100 mg (N=425), and INVOKANA 300 mg (N=430). | 3.2% | 10.4% | 11.4% |
-| Urinary tract infectionsUrinary tract infections includes the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 4.0% | 5.9% | 4.3% |
+| Urinary tract infectionsUrinary tract infections include the following adverse reactions: Urinary tract infection, Cystitis, Kidney infection, and Urosepsis. | 4.0% | 5.9% | 4.3% |
 | Increased urinationIncreased urination includes the following adverse reactions: Polyuria, Pollakiuria, Urine output increased, Micturition urgency, and Nocturia. | 0.8% | 5.3% | 4.6% |
 | Male genital mycotic infectionsMale genital mycotic infections include the following adverse reactions: Balanitis or Balanoposthitis, Balanitis candida, and Genital infection fungal. Percentages calculated with the number of male subjects in each group as denominator: placebo (N=334), INVOKANA 100 mg (N=408), and INVOKANA 300 mg (N=404). | 0.6% | 4.2% | 3.7% |
 | Vulvovaginal pruritus | 0.0% | 1.6% | 3.0% |
@@ -56,14 +56,14 @@ At baseline, the population had diabetes for an average of 11 years, had a mean 
 Baseline renal function was normal or mildly impaired (mean eGFR 81 mL/min/1.73 m2).
 
 The types and frequency of common adverse reactions observed in the pool of eight clinical trials were consistent with those listed in Table 1.
-In this pool, INVOKANA was also associated with the adverse reactions of fatigue (1.7% with comparator, 2.2% with INVOKANA 100 mg, and 2.0% with INVOKANA 300 mg) and loss of strength or energy (i.e., asthenia) (0.6% with comparator, 0.7% with INVOKANA 100 mg and 1.1% with INVOKANA 300 mg).
+In this pool, INVOKANA was also associated with the adverse reactions of fatigue (1.7% with comparator, 2.2% with INVOKANA 100 mg, and 2.0% with INVOKANA 300 mg) and loss of strength or energy (i.e., asthenia) (0.6% with comparator, 0.7% with INVOKANA 100 mg, and 1.1% with INVOKANA 300 mg).
 
 In the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.9, 2.7, and 0.9 per 1000 patient-years of exposure to comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 
 In the pool of eight clinical trials with a longer mean duration of exposure to INVOKANA (68 weeks), the incidence rate of bone fracture was 14.2, 18.7, and 17.6 per 1000 patient years of exposure to comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Upper extremity fractures occurred more commonly on INVOKANA than comparator.
 
-In the pool of eight clinical trials, hypersensitivity-related adverse reactions (including erythema, rash, pruritus, urticaria, and angioedema) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, INVOKANA 100 mg and INVOKANA 300 mg respectively.
+In the pool of eight clinical trials, hypersensitivity-related adverse reactions (including erythema, rash, pruritus, urticaria, and angioedema) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg respectively.
 Five patients experienced serious adverse reactions of hypersensitivity with INVOKANA, which included 4 patients with urticaria and 1 patient with a diffuse rash and urticaria occurring within hours of exposure to INVOKANA.
 Among these patients, 2 patients discontinued INVOKANA.
 One patient with urticaria had recurrence when INVOKANA was re-initiated.
@@ -77,14 +77,14 @@ Volume Depletion-Related Adverse Reactions
 INVOKANA results in an osmotic diuresis, which may lead to reductions in intravascular volume.
 In clinical studies, treatment with INVOKANA was associated with a dose-dependent increase in the incidence of volume depletion-related adverse reactions (e.g., hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration).
 An increased incidence was observed in patients on the 300 mg dose.
-The three factors associated with the largest increase in volume depletion-related adverse reactions were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2) and age 75 years and older (Table 2) [see Dosage and Administration (2.2) Warnings and Precautions (5.1), and Use in Specific Populations (8.5 and 8.6)].
+The three factors associated with the largest increase in volume depletion-related adverse reactions were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2), and age 75 years and older (Table 2) [see Dosage and Administration (2.2), Warnings and Precautions (5.1), and Use in Specific Populations (8.5 and 8.6)].
 
-Table 2: Proportion of Patients With at Least one Volume Depletion-Related Adverse Reactions (Pooled Results from 8 Clinical Trials)
+Table 2: Proportion of Patients With at Least One Volume Depletion-Related Adverse Reaction (Pooled Results from 8 Clinical Trials)
 
 | Baseline Characteristic | Comparator GroupIncludes placebo and active-comparator groups % | INVOKANA 100 mg % | INVOKANA 300 mg % |
 | --- | --- | --- | --- |
 | Overall population | 1.5% | 2.3% | 3.4% |
-| 75 years of age and olderPatients could have more than 1of the listed risk factors | 2.6% | 4.9% | 8.7% |
+| 75 years of age and olderPatients could have more than 1 of the listed risk factors | 2.6% | 4.9% | 8.7% |
 | eGFR less than 60 mL/min/1.73 m2 | 2.5% | 4.7% | 8.1% |
 | Use of loop diuretic | 4.7% | 3.2% | 8.8% |
 

@@ -9,5 +9,5 @@ Consider other antihyperglycemic therapy in patients with an eGFR of 45 to less 
 
 ## 7.2 Digoxin
 
-There was an increase in the area AUC and mean peak drug concentration (Cmax) of digoxin (20% and 36%, respectively) when co-administered with INVOKANA 300 mg [see Clinical Pharmacology (12.3)].
+There was an increase in the AUC and mean peak drug concentration (Cmax) of digoxin (20% and 36%, respectively) when co-administered with INVOKANA 300 mg [see Clinical Pharmacology (12.3)].
 Patients taking INVOKANA with concomitant digoxin should be monitored appropriately.

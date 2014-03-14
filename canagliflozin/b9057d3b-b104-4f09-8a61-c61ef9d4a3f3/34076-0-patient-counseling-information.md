@@ -51,5 +51,3 @@ Urinary Tract Infections
 Inform patients of the potential for urinary tract infections.
 Provide them with information on the symptoms of urinary tract infections.
 Advise them to seek medical advice if such symptoms occur.
-
-Active ingredient made in Belgium

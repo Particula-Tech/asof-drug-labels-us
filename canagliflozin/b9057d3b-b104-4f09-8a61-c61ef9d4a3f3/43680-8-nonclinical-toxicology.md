@@ -25,7 +25,7 @@ Impairment of Fertility
 
 Canagliflozin had no effects on the ability of rats to mate and sire or maintain a litter up to the high dose of 100 mg/kg (approximately 14 times and 18 times the 300 mg clinical dose in males and females, respectively), although there were minor alterations in a number of reproductive parameters (decreased sperm velocity, increased number of abnormal sperm, slightly fewer corpora lutea, fewer implantation sites, and smaller litter sizes) at the highest dosage administered.
 
-## 13.2 Reproduction and Development
+## 13.2 Animal Toxicology and/or Pharmacology
 
 In a juvenile toxicity study in which canagliflozin was dosed directly to young rats from postnatal day (PND) 21 until PND 90 at doses of 4, 20, 65, or 100 mg/kg, increased kidney weights and a dose-related increase in the incidence and severity renal pelvic and renal tubular dilatation were reported at all dose levels.
 Exposure at the lowest dose tested was greater than or equal to 0.5 times the maximum clinical dose of 300 mg.

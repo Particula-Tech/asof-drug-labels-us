@@ -1,4 +1,4 @@
-MEDICATION GUIDE INVOKANA™ (in-vo-KAHN-uh) (canagliflozin) Tablets
+# MEDICATION GUIDE INVOKANA™ (in-vo-KAHN-uh) (canagliflozin) Tablets
 
 What is the most important information I should know about INVOKANA?
 
