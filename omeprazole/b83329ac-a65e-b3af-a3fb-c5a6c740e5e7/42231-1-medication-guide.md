@@ -217,12 +217,10 @@ The capsule imprinting ink contains ammonium hydroxide, black iron oxide, ethyl 
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Manufactured for:
-
-Apotex Inc. Apotex Corp
-
-Toronto, Ontario Weston, Florida
-
-Canada M9L 1T9 USA 33326
+| Manufactured by: | Manufactured for: |
+| --- | --- |
+| Apotex Inc. | Apotex Corp. |
+| Toronto, Ontario | Weston, Florida |
+| Canada M9L 1T9 | USA 33326 |
 
 June 2013

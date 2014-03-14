@@ -58,7 +58,7 @@ Nervous System/Psychiatric: Psychiatric and sleep disturbances including depress
 
 Respiratory: Epistaxis, pharyngeal pain
 
-Skin: Severe generalized skin reactions including toxic epidermal necrolysis (some fatal), Stevens-Johnson syndrome, and erythema multiforme; photosensitivity; urticaria; rash; skin inflammation; pruritus; petechiae; purpura; alopecia; dry skin; hyperhidrosis
+Skin:Severe generalized skin reactions including toxic epidermal necrolysis (some fatal), Stevens-Johnson syndrome, and erythema multiforme; photosensitivity; urticaria; rash; skin inflammation; pruritus; petechiae; purpura; alopecia; dry skin; hyperhidrosis
 
 Special Senses: Tinnitus, taste perversion
 

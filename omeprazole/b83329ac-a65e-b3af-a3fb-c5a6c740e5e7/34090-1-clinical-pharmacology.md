@@ -20,17 +20,14 @@ The inhibitory effect of omeprazole on acid secretion increases with repeated on
 Results from numerous studies of the antisecretory effect of multiple doses of 20 mg and 40 mg of omeprazole in normal volunteers and patients are shown below.
 The “max” value represents determinations at a time of maximum effect (2 to 6 hours after dosing), while “min” values are those 24 hours after the last dose of omeprazole.
 
-Table 1
+Table 1 Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of Omeprazole After Multiple Daily Dosing
 
 | Parameter | Max | Min | Max | Min |
 | --- | --- | --- | --- | --- |
-| Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of Omeprazole After Multiple Daily Dosing |  |  |  |  |
 |  | Omeprazole 20 mg |  | Omeprazole 40 mg |  |
-| % Decrease in Basal Acid Output | 78* | 58 to 80 | 94* | 80 to 93 |
-| % Decrease in Peak Acid Output | 79* | 50 to 59 | 88* | 62 to 68 |
+| % Decrease in Basal Acid Output | 78Single Studies | 58 to 80 | 94 | 80 to 93 |
+| % Decrease in Peak Acid Output | 79 | 50 to 59 | 88 | 62 to 68 |
 | % Decrease in 24–hr Intragastric Acidity |  | 80 to97 |  | 92 to 94 |
-
-*Single Studies
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
 
@@ -118,16 +115,13 @@ For clarithromycin, the mean Cmax was 10% greater, the mean Cmin was 27% greater
 Similar results were seen for 14-hydroxy-clarithromycin, the mean Cmax was 45% greater, the mean Cmin was 57% greater, and the mean AUC0-8 was 45% greater.
 Clarithromycin concentrations in the gastric tissue and mucus were also increased by concomitant administration of omeprazole.
 
-Table 2
+Table 2 Clarithromycin Tissue Concentrations 2 hours after DoseMean ± SD (mcg/g)
 
 | Tissue | Clarithromycin | Clarithromycin + Omeprazole |
 | --- | --- | --- |
-| Clarithromycin Tissue Concentrations 2 hours after Dose1 |  |  |
 | Antrum | 10.48 ± 2.01 (n = 5) | 19.96 ± 4.71 (n=5) |
 | Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n= 5) |
 | Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n=4) |
-
-1Mean ± SD (mcg/g)
 
 Concomitant Use with Clopidogrel
 
@@ -152,23 +146,16 @@ Pediatric Use
 
 The pharmacokinetics of omeprazole have been investigated in pediatric patients 2 to 16 years of age:
 
-Table 3
+Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
-| Single or Repeated Oral Dosing/ Parameter | Children† ≤ 20 kg 2 to 5 years 10 mg | Children† > 20 kg 6 to 16 years 20 mg | Adults‡ (mean 76 kg) 23 to 29 years (n=12) |
+| Single or Repeated Oral Dosing/ Parameter | ChildrenData from single and repeated dose studies ≤ 20 kg 2 to 5 years 10 mg | Children > 20 kg 6 to 16 years 20 mg | AdultsData from a single and repeated dose study (mean 76 kg) 23 to 29 years (n=12) |
 | --- | --- | --- | --- |
-| Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults |  |  |  |
 | Single Dosing |  |  |  |
-| Cmax *(ng/mL)AUC(ng h/mL) | 288 (n=10) 511 (n=7) | 495(n=49) 1140 (n=32) | 668 |
-| 1220 |  |  |  |
+| Cmax plasma concentration adjusted to an oral dose of 1 mg/kg. (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
+| AUC (ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
 | Repeated Dosing |  |  |  |
-| Cmax *(ng/mL) AUC(ng h/mL) | 539 (n=4) 1179 (n=2) | 851 (n=32) 2276(n=23) | 1458 |
-| 3352 |  |  |  |
-
-Note: * = plasma concentration adjusted to an oral dose of 1 mg/kg.
-
-† Data from single and repeated dose studies
-
-‡ Data from a single and repeated dose study
+| Cmax (ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
+| AUC (ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
 
 Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules
 
@@ -206,26 +193,21 @@ Amoxicillin pretreatment susceptible isolates (≤ 0.25 mcg/mL) were found in 99
 Amoxicillin pretreatment minimum inhibitory concentrations (MICs) > 0.25 mcg/mL occurred in 0.7% (3/439) of the patients, all of whom were in the clarithromycin and amoxicillin study arm.
 One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of > 256 mcg/mL by Etest®.
 
-Table 4
+Table 4 Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 
-| Clarithromycin Pretreatment Results |  |  | Clarithromycin Post-treatment Results |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes |  |  |  |  |  |
-| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes a |  |  |  |  |  |
-|  | H. pylori negative – eradicated | H. pylori positive – not eradicatedPost-treatment susceptibility results |  |  |  |
-|  | S b | I b | R b | No MIC |  |
-| Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5) |  |  |  |  |  |
-| Susceptible b 108 | 72 | 1 |  | 26 | 9 |
-| Intermediate b 1 |  |  |  | 1 |  |
-| Resistant b 4 |  |  |  | 4 |  |
-| Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) |  |  |  |  |  |
-| Susceptible b 171 | 153 | 7 |  | 3 | 8 |
-| Intermediate b |  |  |  |  |  |
-| Resistant b 14 | 4 | 1 |  | 6 | 3 |
-
-a Includes only patients with pretreatment clarithromycin susceptibility test results
-
-b Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL
+|  |  |  | S Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL | I | R | No MIC |
+| --- | --- | --- | --- | --- | --- | --- |
+| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes Includes only patients with pretreatment clarithromycin susceptibility test results |  |  |  |  |  |  |
+| Clarithromycin Pretreatment Results |  | Clarithromycin Post-treatment Results |  |  |  |  |
+|  |  | H. pylori negative – eradicated | H. pylori positive – not eradicated Post-treatment susceptibility results |  |  |  |
+| Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5) |  |  |  |  |  |  |
+| Susceptible | 108 | 72 | 1 |  | 26 | 9 |
+| Intermediate | 1 |  |  |  | 1 |  |
+| Resistant | 4 |  |  |  | 4 |  |
+| Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) |  |  |  |  |  |  |
+| Susceptible | 171 | 153 | 7 |  | 3 | 8 |
+| Intermediate |  |  |  |  |  |  |
+| Resistant | 14 | 4 | 1 |  | 6 | 3 |
 
 Patients not eradicated of H. pylori following omeprazole/clarithromycin/amoxicillin triple therapy or omeprazole/clarithromycin dual therapy will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, if possible.
