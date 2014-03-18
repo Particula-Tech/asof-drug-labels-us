@@ -1,12 +1,16 @@
 for IM Injection only
 
-Manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium
+Product of Belgium
 
-Manufactured for: Patriot Pharmaceuticals, LLC Horsham, PA 19044
+Manufactured by: GlaxoSmithKline Manufacturing S.p.A.
+Parma, Italy
+
+Manufactured for: Patriot Pharmaceuticals, LLC
+
+Horsham, PA 19044
 
 For more information, call 1-800-667-8570
 
 ©Patriot 2011
 
-Issued May 2011
+Revised July 2013

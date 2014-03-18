@@ -55,4 +55,4 @@ Clinical experience with haloperidol decanoate at doses greater than 450 mg per 
 | --- | --- |
 | 2.Hold the ampule between thumb and index finger with the colored point facing you. | Step 2 |
 | 3.Position the index finger of the other hand to support the neck of the ampule. Position the thumb so that it covers the colored point and is parallel to the colored ring(s). | Step 3 |
-| 4.Keeping the thumb on the colored point and with the index fingers close together, apply firm pressure on the colored point in the direction of the arrow to snap the ampule open. | Step 4 |
+| 4.Keeping the thumb on the colored point, and with the index fingers close together, apply firm pressure on the colored point in the direction of the arrow to snap the ampule open. | Step 4 |
