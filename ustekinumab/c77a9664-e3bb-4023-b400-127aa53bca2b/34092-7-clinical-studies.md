@@ -47,12 +47,12 @@ Clinical Outcomes by Weight Ps STUDY 1 and Ps STUDY 2
 |  |  | STELARA® |  |  | STELARA® |  |
 | Subjects randomized | 255 | 255 | 256 | 410 | 409 | 411 |
 | PASI 75 response at Week 12Patients were dosed with study medication at Weeks 0 and 4. |  |  |  |  |  |  |
-| ≤ 100 kg | 4% | 74% | 65% | 4% | 73% | 78% |
+| ≤100 kg | 4% | 74% | 65% | 4% | 73% | 78% |
 |  | 6/166 | 124/168 | 107/164 | 12/290 | 218/297 | 225/289 |
 | >100 kg | 2% | 54% | 68% | 3% | 49% | 71% |
 |  | 2/89 | 47/87 | 63/92 | 3/120 | 55/112 | 86/121 |
 | PGA of Cleared or Minimal at Week 12 |  |  |  |  |  |  |
-| ≤ 100 kg | 4% | 64% | 63% | 5% | 74% | 75% |
+| ≤100 kg | 4% | 64% | 63% | 5% | 74% | 75% |
 |  | 7/166 | 108/168 | 103/164 | 14/290 | 220/297 | 216/289 |
 | >100 kg | 3% | 49% | 58% | 3% | 51% | 69% |
 |  | 3/89 | 43/87 | 53/92 | 4/120 | 57/112 | 84/121 |
@@ -78,11 +78,12 @@ In PsA STUDY 2, 58% (n=180) of the patients had been previously treated with an 
 
 Clinical Response
 
-In both studies, a greater proportion of patients achieved ACR 20, ACR 50 and PASI 75response in the STELARA® 45 mg and 90 mg groups compared to placebo at Week 24 (see Table 4).
+In both studies, a greater proportion of patients achieved ACR 20, ACR 50 and PASI 75 response in the STELARA® 45 mg and 90 mg groups compared to placebo at Week 24 (see Table 4).
 ACR 70 responses were also higher in the STELARA® 45 mg and 90 mg groups, although the difference was only numerical (p=NS) in Study 2.
 Responses were similar in patients regardless of prior TNFα exposure.
 
-Table 4: ACR 20, ACR 50, ACR 70 and PASI 75 responses in PsA STUDY1 and PsA STUDY 2 at Week 24
+Table 4.
+ACR 20, ACR 50, ACR 70 and PASI 75 responses in PsA STUDY 1 and PsA STUDY 2 at Week 24
 
 | Number of patients randomized | 206 | 205 | 204 | 104 | 103 | 105 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -103,7 +104,8 @@ Figure 1: Percent of patients achieving ACR 20 response through Week 24
 
 The results of the components of the ACR response criteria are shown in Table 5.
 
-Table 5: Mean change from baseline in ACR components at Week 24
+Table 5.
+Mean change from baseline in ACR components at Week 24
 
 |  | Placebo (N=206) | 45 mg (N= 205) | 90 mg (N= 204) |
 | --- | --- | --- | --- |

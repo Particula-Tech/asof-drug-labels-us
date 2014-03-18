@@ -101,6 +101,9 @@ Before you receive STELARA®, tell your doctor if you:
 - are pregnant or planning to become pregnant.
   It is not known if STELARA® will harm your unborn baby.
   You and your doctor should decide if you will take STELARA®.
+  There is a pregnancy registry for women who take STELARA® during pregnancy.
+  The purpose of this registry is to collect information about the health of you and your baby.
+  If you are pregnant or become pregnant while taking STELARA®, talk to your doctor about how you can join this pregnancy registry or you may contact the registry at 1-877-311-8972 to enroll.
 - are breast-feeding or plan to breast-feed.
   It is thought that STELARA® passes into your breast milk.
   You should not breast-feed while taking STELARA® without first talking with your doctor.
@@ -189,6 +192,6 @@ Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US 
 
 Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US License No. 1864 at Cilag AG, Schaffhausen, Switzerland
 
-Revised 09/2013
+Revised 03/2014
 
 © Janssen Biotech, Inc. 2012

@@ -2,9 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-Ustekinumab is a human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit used by both the IL-12 and IL-23 cytokines.
+Ustekinumab is a human IgG1κ monoclonal antibody that binds with specificity to the p40 protein subunit used by both the IL-12 and IL-23 cytokines.
 IL-12 and IL-23 are naturally occurring cytokines that are involved in inflammatory and immune responses, such as natural killer cell activation and CD4+ T-cell differentiation and activation.
-Levels of IL-12/23 and p40 are elevated in the skin and blood of psoriasis patients, and blood of psoriatic arthritis patients implicating IL-12 and IL-23 in the pathophysiology of psoriatic inflammatory diseases.
 In in vitro models, ustekinumab was shown to disrupt IL-12 and IL-23 mediated signaling and cytokine cascades by disrupting the interaction of these cytokines with a shared cell-surface receptor chain, IL-12Rβ1.
 
 ## 12.2 Pharmacodynamics
@@ -24,7 +23,7 @@ There was no apparent accumulation in serum ustekinumab concentration over time 
 Distribution
 
 Following subcutaneous administration of 45 mg (N=18) and 90 mg (N=21) of ustekinumab to subjects with psoriasis, the mean (±SD) apparent volume of distribution during the terminal phase (Vz/F) was 161 ± 65 mL/kg and 179 ± 85 mL/kg, respectively.
-The mean (± SD) volume of distribution during the terminal phase (Vz) following a single intravenous administration to subjects with psoriasis ranged from 56.1 ± 6.5 to 82.1 ± 23.6 mL/kg.
+The mean (±SD) volume of distribution during the terminal phase (Vz) following a single intravenous administration to subjects with psoriasis ranged from 56.1 ± 6.5 to 82.1 ± 23.6 mL/kg.
 
 Metabolism
 
@@ -33,7 +32,7 @@ As a human IgG1κ monoclonal antibody ustekinumab is expected to be degraded int
 
 Elimination
 
-The mean (± SD) systemic clearance (CL) following a single intravenous administration of ustekinumab to subjects with psoriasis ranged from 1.90 ± 0.28 to 2.22 ± 0.63 mL/day/kg.
+The mean (±SD) systemic clearance (CL) following a single intravenous administration of ustekinumab to subjects with psoriasis ranged from 1.90 ± 0.28 to 2.22 ± 0.63 mL/day/kg.
 The mean (±SD) half-life ranged from 14.9 ± 4.6 to 45.6 ± 80.2 days across all psoriasis studies following intravenous and subcutaneous administration.
 
 Weight

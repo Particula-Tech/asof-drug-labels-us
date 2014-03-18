@@ -11,7 +11,7 @@ Instruct patients to seek medical advice if signs or symptoms suggestive of an i
 Exercise caution when considering the use of STELARA® in patients with a chronic infection or a history of recurrent infection.
 
 Serious infections requiring hospitalization occurred in the psoriasis and psoriatic arthritis development programs.
-In the psoriasis program, serious infections included diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis and sepsis.
+In the psoriasis program, serious infections included diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis, sepsis, osteomyelitis, viral infections, gastroenteritis and urinary tract infections.
 In the psoriatic arthritis program, serious infections included cholecystitis.
 
 ## 5.2 Theoretical Risk for Vulnerability to Particular Infections
@@ -50,10 +50,9 @@ If an anaphylactic or other clinically significant hypersensitivity reaction occ
 
 ## 5.6 Reversible Posterior Leukoencephalopathy Syndrome
 
-One case of reversible posterior leukoencephalopathy syndrome (RPLS) was observed during the psoriasis clinical development program which included 3758 STELARA®-treated subjects.
+One case of reversible posterior leukoencephalopathy syndrome (RPLS) was observed in the clinical trial safety databases for psoriasis and psoriatic arthritis.
 The subject, who had received 12 doses of STELARA® over approximately two years, presented with headache, seizures and confusion.
-No additional STELARA® injections were administered and the subject fully recovered with appropriate treatment.
-No additional cases of RPLS were observed in the psoriatic arthritis clinical development program which included 914 STELARA®-treated subjects.
+No additional STELARA® injections were administered and the subject fully recovered with appropriate treatment..
 
 RPLS is a neurological disorder, which is not caused by demyelination or a known infectious agent.
 RPLS can present with headache, seizures, confusion and visual disturbances.
@@ -73,6 +72,6 @@ Non-live vaccinations received during a course of STELARA® may not elicit an im
 
 ## 5.8 Concomitant Therapies
 
-In psoriasis studies the safety of STELARA® in combination with immunosuppressive agents or phototherapy has not been evaluated.
+In psoriasis studies the safety of STELARA® in combination with other immunosuppressive agents or phototherapy has not been evaluated.
 In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA® [see Drug Interactions (7.2)].
 Ultraviolet-induced skin cancers developed earlier and more frequently in mice genetically manipulated to be deficient in both IL-12 and IL-23 or IL-12 alone [see Nonclinical Toxicology (13)].

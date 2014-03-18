@@ -4,11 +4,16 @@
 
 Pregnancy Category B
 
+Pregnancy Registry
+
+There is a pregnancy registry that monitors pregnancy outcomes in women exposed to STELARA® during pregnancy.
+Patients should be encouraged to enroll by calling 1-877-311-8972.
+
 There are no adequate and well controlled studies of STELARA® in pregnant women.
 Developmental toxicity studies conducted with monkeys found no evidence of harm to the fetus due to ustekinumab.
 STELARA® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Ustekinumab was tested in two embryo-fetal development toxicity studies with cynomologus monkeys.
+Ustekinumab was tested in two embryo-fetal development toxicity studies with cynomolgus monkeys.
 No teratogenic effects or other adverse developmental effects were observed in fetuses from pregnant monkeys that were administered ustekinumab during the period of organogenesis either twice weekly via subcutaneous injections or weekly by intravenous injections at doses up to 45 times the maximum recommended human dose (MRHD) (on a mg/kg basis at a maternal dose of 45 mg/kg).
 
 In a combined embryo-fetal development and pre- and post-natal development toxicity study, pregnant cynomolgus monkeys were administered subcutaneous doses of ustekinumab twice weekly up to 45 times the MRHD (on a mg/kg basis at a maternal dose of 45 mg/kg) from the beginning of organogenesis to Day 33 after delivery.

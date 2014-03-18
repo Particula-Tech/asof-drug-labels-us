@@ -1,5 +1,11 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are discussed elsewhere in the label:
+
+- Infections [see Warnings and Precautions (5.1)]
+- Malignancies [see Warnings and Precautions (5.4)]
+- Reversible Posterior Leukoencephalopathy Syndrome [see Warnings and Precautions (5.6)]
+
 ## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
