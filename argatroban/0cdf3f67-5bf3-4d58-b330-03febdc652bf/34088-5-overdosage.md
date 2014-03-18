@@ -3,7 +3,6 @@
 Excessive anticoagulation, with or without bleeding, may be controlled by discontinuing argatroban or by decreasing the argatroban dose.
 In clinical studies, anticoagulation parameters generally returned from therapeutic levels to baseline within 2 to 4 hours after discontinuation of the drug.
 Reversal of anticoagulant effect may take longer in patients with hepatic impairment.
-
 No specific antidote to argatroban is available; if life-threatening bleeding occurs and excessive plasma levels of argatroban are suspected, discontinue argatroban immediately and measure aPTT and other coagulation parameters.
 When argatroban was administered as a continuous infusion (2 mcg/kg/min) prior to and during a 4-hour hemodialysis session, approximately 20% of argatroban was cleared through dialysis.
 

@@ -27,7 +27,7 @@ The relationship between INR on co-therapy and warfarin alone is dependent on bo
 This relationship is influenced by the International Sensitivity Index (ISI) of the thromboplastin.
 Data for 2 commonly utilized thromboplastins with ISI values of 0.88 (Innovin, Dade) and 1.78 (Thromboplastin C Plus, Dade) are presented in Figure 2 for an argatroban dose of 2 mcg/kg/min.
 Thromboplastins with higher ISI values than shown result in higher INRs on combined therapy of warfarin and argatroban.
-These data are based on results obtained in normal individuals [see Dosage And Administration (2.5), Warnings And Precautions (5.3)].
+These data are based on results obtained in normal individuals [see Dosage and Administration (2.6), Warnings and Precautions (5.3)].
 
 Figure 2 demonstrates the relationship between INR for warfarin alone and INR for warfarin co-administered with argatroban at a dose of 2 mcg/kg/min.
 To calculate INR for warfarin alone (INRW), based on INR for co-therapy of warfarin and argatroban (INRWA), when the argatroban dose is 2 mcg/kg/min, use the equation next to the appropriate curve.
@@ -41,15 +41,11 @@ Thus, INRW cannot be reliably predicted from INRWA at doses greater than 2 mcg/k
 
 ## 12.3 Pharmacokinetics
 
-### Distribution:
-
-Argatroban distributes mainly in the extra cellular fluid as evidenced by an apparent steady-state volume of distribution of 174 mL/kg (12.18 L in a 70 kg adult).
+Distribution: Argatroban distributes mainly in the extracellular fluid as evidenced by an apparent steady-state volume of distribution of 174 mL/kg (12.18 L in a 70-kg adult).
 Argatroban is 54% bound to human serum proteins, with binding to albumin and α1-acid glycoprotein being 20% and 34%, respectively.
 
-### Metabolism:
-
-The main route of argatroban metabolism is hydroxylation and aromatization of the 3-methyltetrahydroquinoline ring in the liver.
-The formation of each of the 4 known metabolites is catalyzed in vitro by the human liver microsomal cytochrome P450 enzymes CYP3A4/5.
+Metabolism: The main route of argatroban metabolism is hydroxylation and aromatization of the 3-methyltetrahydroquinoline ring in the liver.
+The formation of each of the 4 known metabolites is catalyzed invitro by the human liver microsomal cytochrome P450 enzymes CYP3A4/5.
 The primary metabolite (M1) exerts 3- to 5-fold weaker anticoagulant effects than argatroban.
 Unchanged argatroban is the major component in plasma.
 The plasma concentrations of M1 range between 0% and 20% of that of the parent drug.
@@ -62,28 +58,24 @@ The terminal elimination half-life of argatroban ranges between 39 and 51 minute
 There is no interconversion of the 21–(R):21–(S) diastereoisomers.
 The plasma ratio of these diastereoisomers is unchanged by metabolism or hepatic impairment, remaining constant at 65:35 (± 2%).
 
-### Excretion:
-
-Argatroban is excreted primarily in the feces, presumably through biliary secretion.
+Excretion: Argatroban is excreted primarily in the feces, presumably through biliary secretion.
 In a study in which 14C-argatroban (5 mcg/kg/min) was infused for 4 hours into healthy subjects, approximately 65% of the radioactivity was recovered in the feces within 6 days of the start of infusion with little or no radioactivity subsequently detected.
 Approximately 22% of the radioactivity appeared in the urine within 12 hours of the start of infusion.
 Little or no additional urinary radioactivity was subsequently detected.
 Average percent recovery of unchanged drug, relative to total dose, was 16% in urine and at least 14% in feces.
 
-### Special Populations:
-
-Hepatic Impairment: The dosage of argatroban should be decreased in patients with hepatic impairment [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Special Populations: Hepatic Impairment: The dosage of argatroban should be decreased in patients with hepatic impairment [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
 Patients with hepatic impairment were not studied in percutaneous coronary intervention (PCI) trials.
-At a dose of 2.5 mcg/kg/min, hepatic impairment is associated with decreased clearance and increased elimination half-life of argatroban (to 1.9 mL/kg/min and 181 minutes, respectively, for patients with a Child-Pugh score >6).
+At a dose of 2.5 mcg/kg/min, hepatic impairment is associated with decreased clearance and increased elimination half-life of argatroban (to 1.9 L/kg/min and 181 minutes, respectively, for patients with a Child-Pugh score greater than 6).
 
 Renal Impairment: No dosage adjustment is necessary in patients with renal dysfunction.
-The effect of renal disease on the pharmacokinetics of argatroban was studied in 6 subjects with normal renal function (mean Clcr = 95 ± 16 mL/min) and in 18 subjects with mild (mean Clcr = 64±10 mL/min), moderate (mean Clcr = 41 ± 5.8 mL/min), and severe (mean Clcr = 5 ± 7 mL/min) renal impairment.
+The effect of renal disease on the pharmacokinetics of argatroban was studied in 6 subjects with normal renal function (mean Clcr = 95 + 16 mL/min) and in 18 subjects with mild (mean Clcr = 64 ± 10 mL/min), moderate (mean Clcr = 41 ± 5.8 mL/min), and severe (mean Clcr = 5 ± 7 mL/min) renal impairment.
 The pharmacokinetics and pharmacodynamics of argatroban at dosages up to 5 mcg/kg/min were not significantly affected by renal dysfunction.
 
 Use of argatroban was evaluated in a study of 12 patients with stable end-stage renal disease undergoing chronic intermittent hemodialysis.
 Argatroban was administered at a rate of 2 to 3 mcg/kg/min (begun at least 4 hours prior to dialysis) or as a bolus dose of 250 mcg/kg at the start of dialysis followed by a continuous infusion of 2 mcg/kg/min.
 Although these regimens did not achieve the goal of maintaining ACT values at 1.8 times the baseline value throughout most of the hemodialysis period, the hemodialysis sessions were successfully completed with both of these regimens.
-The mean ACTs produced in this study ranged from 1.39 to 1.82 times baseline, and the mean aPTTs ranged from 1.96 to 3.4 times baseline.
+The mean ACTs produced in this study ranged from 1.39 to 1.82 times baseline, and the mean aPTTs ranged from 1.96 to 3.4 times the baseline.
 When argatroban was administered as a continuous infusion of 2 mcg/kg/min prior to and during a 4-hour hemodialysis session, approximately 20% was cleared through dialysis.
 
 Age, Gender: There are no clinically significant effects of age or gender on the pharmacokinetics or pharmacodynamics (e.g., aPTT) of argatroban in adults.
@@ -94,11 +86,9 @@ Clearance in pediatric patients (0.16 L/hr/kg) was 50% lower compared to healthy
 Four pediatric patients with elevated bilirubin (secondary to cardiac complications or hepatic impairment) had, on average, 80% lower clearance (0.03 L/hr/kg) when compared to pediatric patients with normal bilirubin levels.
 [see Use in Specific Populations (8.4).]
 
-### Drug-Drug Interactions:
-
-Digoxin: In 12 healthy volunteers, intravenous infusion of argatroban (2 mcg/kg/min) over 5 days (study days 11 to 15) did not affect the steady-state pharmacokinetics of oral digoxin (0.375 mg daily for 15 days).
+Drug-Drug Interactions: Digoxin: In 12 healthy volunteers, intravenous infusion of argatroban (2 mcg/kg/min) over 5 days (study days 11 to 15) did not affect the steady-state pharmacokinetics of oral digoxin (0.375 mg daily for 15 days).
 
 Erythromycin: In 10 healthy subjects, orally administered erythromycin (a potent inhibitor of CYP3A4/5) at 500 mg four times daily for 7 days had no effect on the pharmacokinetics of argatroban at a dose of 1 mcg/kg/min for 5 hours.
 These data suggest oxidative metabolism by CYP3A4/5 is not an important elimination pathway in vivo for argatroban.
 
-Aspirin and Acetaminophen: Drug-drug interactions have not been demonstrated between argatroban and concomitantly administered aspirin (162.5 mg orally given 26 and 2 hours prior to initiation of argatroban 1 mcg/kg/min over 4 hours) or acetaminophen (1,000 mg orally given 12, 6, and 0 hours prior to, and 6 and 12 hours subsequent to, initiation of argatroban 1.5 mcg/kg/min over 18 hours).
+Aspirin and Acetaminophen: Drug-drug interactions have not been demonstrated between argatroban and concomitantly administered aspirin (162.5 mg orally given 26 and 2 hours prior to initiation of argatroban 1 mcg/kg/min over 4 hours) or acetaminophen (1000 mg orally given 12, 6, and 0 hours prior to, and 6 and 12 hours subsequent to, initiation of argatroban1.5 mcg/kg/min over 18 hours).

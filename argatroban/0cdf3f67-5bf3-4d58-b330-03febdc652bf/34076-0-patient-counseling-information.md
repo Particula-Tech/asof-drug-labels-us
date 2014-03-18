@@ -8,8 +8,8 @@ Specifically, inform patients to report:
 - any bleeding signs or symptoms.
 - the occurrence of any signs or symptoms of allergic reactions (e.g., airway reactions, skin reactions and vasodilation reactions).
 
-Manufactured by: Afton Scientific Corporation Charlottesville, VA 22902
+Manufactured by: Exela Pharma Sciences, LLC Lenoir, NC 28645
 
-Distributed by: West-ward Pharmaceutical Corp. Eatontown, NJ 07724
+Distributed by: West-Ward Pharmaceutical Corp., Eatontown, NJ 07724
 
-Issued December 2011
+Revised August 2012

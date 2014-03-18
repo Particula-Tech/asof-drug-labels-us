@@ -13,7 +13,7 @@ Concomitant use of argatroban with antiplatelet agents, thrombolytics, and other
 
 Use caution when administering argatroban to patients with hepatic impairment by starting with a lower dose and carefully titrating until the desired level of anticoagulation is achieved.
 Upon cessation of argatroban infusion in the hepatically impaired patient, full reversal of anticoagulant effects may require longer than 4 hours due to decreased clearance and increased elimination half-life of argatroban [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
-Use of argatroban in PCI patients with clinically significant hepatic disease or AST/ALT levels ≥3 times the upper limit of normal should be avoided.
+Use of argatroban in PCI patients with clinically significant hepatic disease or AST/ALT levels ≥ 3 times the upper limit of normal should be avoided.
 
 ## 5.3 Laboratory Tests
 
