@@ -1,177 +1,115 @@
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 MG LABEL
-
-NDC 0008-1211-30
-
-Pristiq®
-
-desvenlafaxine
-
-Extended-Release Tablets
-
-50 mg *
-
-Note: Give attached Medication Guide when dispensing Pristiq®.
-
-Rx only Pfizer
-
-Unit of Use 30 Tablets
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 MG BLISTERS
-
-NDC 0008-1211-50
-
-Pristiq®
-
-(desvenlafaxine)
-
-Extended-Release Tablets
-
-50 mg*
-
-*Equivalent to 76 mg desvenlafaxine succinate MADE IN SWITZERLAND
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 MG CARTON
-
-NDC 0008-1211-50
-
-100 Tablets
-
-10 Redipak® Blister Strips of 10 Tablets
-
-Pristiq®
-
-desvenlafaxine
-
-Extended-Release Tablets
-
-50 mg *
-
-Note: Give Medication Guide when dispensing Pristiq®.
-
-*Each tablet contains 76 mg desvenlafaxine succinate equivalent to 50 mg desvenlafaxine.
-
-Pfizer
-
-Rx only
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 MG SAMPLE PACK
-
-NDC 0008-1211-70
-
-PROFESSIONAL SAMPLE – NOT FOR SALE
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Blister Pack Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
+Pfizer
+
+NDC 0008-1211-50
+
+10 Redipak® Blister Strips of 10 Tablets
+
+Pristiq® (desvenlafaxine) Extended-Release Tablets
+
+50 mg*
+
+100 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Blister Pack
+
+NDC 0008-1211-50 Pristiq® (desvenlafaxine)
+
+Extended-Release Tablets 50 mg*
+
+*Equivalent to 76 mg desvenlafaxine succinate MADE IN SINGAPORE
+
+PAA041479
+
+Wyeth® Phila., PA 19101
+
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0008-1211-30
+
+Pristiq® (desvenlafaxine) Extended-Release Tablets
+
+50 mg*
+
+Unit of Use 30 Tablets
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Sample Wallet
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+PROFESSIONAL SAMPLE–NOT FOR SALE NDC 0008-1211-70
+
 Patient Sample Pack
 
-Pristiq®
-
-desvenlafaxine
-
-Extended-Release Tablets
+Pristiq® desvenlafazine EXTENDED-RELEASE TABLETS
 
 50 mg*
 
 One Card Containing 7 Tablets
 
-*Each tablet contains 76 mg desvenlafaxine succinate equivalent to 50 mg desvenlafaxine.
+*Each tablet contains 76 mg desvenlafaxine succinate equivalent to 50 mg desvenlafaxine
 
-Please see Full Prescribing Information, including boxed warning, and Medication Guide attached.
+Please see Full Prescribing Information, including boxed warning, and Medication Guide enclosed.
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 MG SAMPLE CARTON
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Sample Wallet Carton
 
-NDC 0008-1211-70
-
-PROFESSIONAL SAMPLE – NOT FOR SALE
+PROFESSIONAL SAMPLE–NOT FOR SALE NDC 0008-1211-70
 
 5 PATIENT SAMPLE PACKS
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pristiq®
+Pristiq® desvenlafazine EXTENDED-RELEASE TABLETS
 
-desvenlafaxine
+50 mg* Rx only
 
-Extended-Release Tablets
+Please see Full Prescribing Information, including boxed warning, and Medication Guide inside display carton.
 
-50 mg*
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack Carton
 
-Please see Full Prescribing information, including boxed warning, and Medication Guide inside display carton.
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Rx only
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 MG SAMPLE LABEL
-
-NDC 0008-1211-80
-
-Pristiq™
-
-desvenlafaxine
-
-Extended-Release Tablets
-
-50 mg
-
-Note: Give attached Medication Guide when dispensing Pristiq™.
-
-Unit of Use 30 Tablets
-
-Rx only
-
-Wyeth®
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 MG LABEL
-
-NDC 0008-1222-30
-
-Pristiq®
-
-desvenlafaxine
-
-Extended-Release Tablets
-
-100 mg *
-
-Note: Give attached Medication Guide when dispensing Pristiq®.
-
-Rx only Pfizer
-
-Unit of Use 30 Tablets
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 MG BLISTERS
+Pfizer
 
 NDC 0008-1222-50
-
-Pristiq®
-
-(desvenlafaxine)
-
-Extended-Release Tablets
-
-100 mg*
-
-*Equivalent to 152 mg desvenlafaxine succinate MADE IN SWITZERLAND
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 MG CARTON
-
-NDC 0008-1222-50
-
-100 Tablets
 
 10 Redipak® Blister Strips of 10 Tablets
 
-Pristiq®
+Pristiq® (desvenlafaxine) Extended-Release Tablets
 
-desvenlafaxine
+100 mg*
 
-Extended-Release Tablets
+100 Tablets Rx only
 
-100 mg *
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack
 
-Note: Give Medication Guide when dispensing Pristiq®.
+NDC 0008-1222-50 Pristiq® (desvenlafaxine)
 
-*Each tablet contains 152 mg desvenlafaxine succinate equivalent to 100 mg desvenlafaxine.
+Extended-Release Tablets 100 mg*
 
-Pfizer
+*Equivalent to 152 mg desvenlafaxine succinate MADE IN SINGAPORE
+
+PAA041470
+
+Wyeth® Phila., PA 19101
+
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0008-1222-30
+
+Pristiq® (desvenlafaxine) Extended-Release Tablets
+
+100 mg*
+
+Unit of Use 30 Tablets
 
 Rx only
