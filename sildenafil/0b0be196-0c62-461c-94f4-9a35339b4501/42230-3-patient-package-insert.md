@@ -1,184 +1,167 @@
-# PATIENT SUMMARY OF INFORMATION ABOUT
+# Patient Information VIAGRA® (vi-AG-rah) (sildenafil citrate) Tablets
 
-This summary contains important information about VIAGRA®.
-It is not meant to take the place of your doctor's instructions.
-Read this information carefully before you start taking VIAGRA.
-Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about VIAGRA.
+What is the most important information I should know about VIAGRA?
 
-This medicine can help many men when it is used as prescribed by their doctors.
-However, VIAGRA is not for everyone.
-It is intended for use only by men who have a condition called erectile dysfunction.
-VIAGRA must never be used by men who are taking medicines that contain nitrates of any kind, at any time.
-This includes nitroglycerin.
-If you take VIAGRA with any nitrate medicine your blood pressure could suddenly drop to an unsafe or life threatening level.
+VIAGRA can cause your blood pressure to drop suddenly to an unsafe level if it is taken with certain other medicines.
+Do not take VIAGRA if you take any other medicines called "nitrates."
+Nitrates are used to treat chest pain (angina).
+A sudden drop in blood pressure can cause you to feel dizzy, faint, or have a heart attack or stroke.
 
-• WHAT IS VIAGRA?
+Tell all your healthcare providers that you take VIAGRA.
+If you need emergency medical care for a heart problem, it will be important for your healthcare provider to know when you last took VIAGRA.
 
-VIAGRA is a pill used to treat erectile dysfunction (impotence) in men.
-It can help many men who have erectile dysfunction get and keep an erection when they become sexually excited (stimulated).
+Stop sexual activity and get medical help right away if you get symptoms such as chest pain, dizziness, or nausea during sex.
 
+Sexual activity can put an extra strain on your heart, especially if your heart is already weak from a heart attack or heart disease.
+Ask your doctor if your heart is healthy enough to handle the extra strain of having sex.
+
+VIAGRA does not protect you or your partner from getting sexually transmitted diseases, including HIV—the virus that causes AIDS.
+
+What is VIAGRA?
+
+VIAGRA is a prescription medicine used to treat erectile dysfunction (ED).
 You will not get an erection just by taking this medicine.
-VIAGRA helps a man with erectile dysfunction get an erection only when he is sexually excited.
+VIAGRA helps a man with erectile dysfunction get and keep an erection only when he is sexually excited (stimulated).
 
-• HOW SEX AFFECTS THE BODY
+VIAGRA is not for use in women or children.
 
-When a man is sexually excited, the penis rapidly fills with more blood than usual.
-The penis then expands and hardens.
-This is called an erection.
-After the man is done having sex, this extra blood flows out of the penis back into the body.
-The erection goes away.
-If an erection lasts for a long time (more than 6 hours), it can permanently damage your penis.
-You should call a doctor immediately if you ever have a prolonged erection that lasts more than 4 hours.
+It is not known if VIAGRA is safe and effective in women or children under 18 years of age.
 
-Some conditions and medicines interfere with this natural erection process.
-The penis cannot fill with enough blood.
-The man cannot have an erection.
-This is called erectile dysfunction if it becomes a frequent problem.
+Who should not take VIAGRA?
 
-During sex, your heart works harder.
-Therefore sexual activity may not be advisable for people who have heart problems.
-Before you start any treatment for erectile dysfunction, ask your doctor if your heart is healthy enough to handle the extra strain of having sex.
-If you have chest pains, dizziness or nausea during sex, stop having sex and immediately tell your doctor you have had this problem.
+Do not take VIAGRA if you:
 
-• HOW VIAGRA WORKS
+- take medicines called "nitrates" (such as nitroglycerin)
+- use street drugs called "poppers" such as amyl nitrate or amyl nitrite, and butyl nitrate
+- are allergic to sildenafil, as contained in VIAGRA and REVATIO, or any of the ingredients in VIAGRA.
+  See the end of this leaflet for a complete list of ingredients in VIAGRA.
 
-VIAGRA enables many men with erectile dysfunction to respond to sexual stimulation.
-When a man is sexually excited, VIAGRA helps the penis fill with enough blood to cause an erection.
-After sex is over, the erection goes away.
+What should I tell my healthcare provider before taking VIAGRA?
 
-• VIAGRA IS NOT FOR EVERYONE
+Before you take VIAGRA, tell your healthcare provider if you:
 
-As noted above (How Sex Affects the Body), ask your doctor if your heart is healthy enough for sexual activity.
+- have or have had heart problems such as a heart attack, irregular heartbeat, angina, chest pain, narrowing of the aortic valve or heart failure
+- have had heart surgery within the last 6 months
+- have had a stroke
+- have low blood pressure, or high blood pressure that is not controlled
+- have a deformed penis shape
+- have had an erection that lasted for more than 4 hours
+- have problems with your blood cells such as sickle cell anemia, multiple myeloma, or leukemia
+- have retinitis pigmentosa, a rare genetic (runs in families) eye disease
+- have ever had severe vision loss, including an eye problem called non-arteritic anterior ischemic optic neuropathy (NAION)
+- have bleeding problems
+- have or have had stomach ulcers
+- have liver problems
+- have kidney problems or are having kidney dialysis
+- have any other medical conditions
 
-If you take any medicines that contain nitrates – either regularly or as needed – you should never take VIAGRA.
-If you take VIAGRA with any nitrate medicine or recreational drug containing nitrates, your blood pressure could suddenly drop to an unsafe level.
-You could get dizzy, faint, or even have a heart attack or stroke.
-Nitrates are found in many prescription medicines that are used to treat angina (chest pain due to heart disease) such as:
+Tell your healthcare provider about all the medicines you takeThe other brands listed are trademarks of their respective owners and are not trademarks of Pfizer Inc. The makers of these brands are not affiliated with and do not endorse Pfizer Inc or its products., including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-- nitroglycerin (sprays, ointments, skin patches or pastes, and tablets that are swallowed or dissolved in the mouth)
-- isosorbide mononitrate and isosorbide dinitrate (tablets that are swallowed, chewed, or dissolved in the mouth)
+VIAGRA may affect the way other medicines work, and other medicines may affect the way VIAGRA works causing side effects.
+Especially tell your healthcare provider if you take any of the following:
 
-Nitrates are also found in recreational drugs such as amyl nitrate or nitrite ("poppers").
-If you are not sure if any of your medicines contain nitrates, or if you do not understand what nitrates are, ask your doctor or pharmacist.
-
-VIAGRA is only for patients with erectile dysfunction.
-VIAGRA is not for newborns, children, or women.
-Do not let anyone else take your VIAGRA.
-VIAGRA must be used only under a doctor's supervision.
-
-• WHAT VIAGRA DOES NOT DO
-
-- VIAGRA does not cure erectile dysfunction.
-  It is a treatment for erectile dysfunction.
-- VIAGRA does not protect you or your partner from getting sexually transmitted diseases, including HIV—the virus that causes AIDS.
-- VIAGRA is not a hormone or an aphrodisiac.
-
-• WHAT TO TELL YOUR DOCTOR BEFORE YOU BEGIN VIAGRA
-
-Only your doctor can decide if VIAGRA is right for you.
-VIAGRA can cause mild, temporary lowering of your blood pressure.
-You will need to have a thorough medical exam to diagnose your erectile dysfunction and to find out if you can safely take VIAGRA alone or with your other medicines.
-Your doctor should determine if your heart is healthy enough to handle the extra strain of having sex.
-
-Be sure to tell your doctor if you:
-
-- have ever had any heart problems (e.g., angina, chest pain, heart failure, irregular heart beats, heart attack or narrowing of the aortic valve)
-- have ever had a stroke
-- have low or high blood pressure
-- have ever had severe vision loss
-- have a rare inherited eye disease called retinitis pigmentosa
-- have ever had any kidney problems
-- have ever had any liver problems
-- have ever had any blood problems, including sickle cell anemia or leukemia
-- are allergic to sildenafil or any of the other ingredients of VIAGRA tablets
-- have a deformed penis, Peyronie's disease, or ever had an erection that lasted more than 4 hours
-- have stomach ulcers or any types of bleeding problems
-- are taking any other medicines
-
-• VIAGRA AND OTHER MEDICINES
-
-Some medicines can change the way VIAGRA works.
-Tell your doctor about any medicines you are taking.
-Do not start or stop taking any medicines before checking with your doctor or pharmacist.
-This includes prescription and nonprescription medicines or remedies:
-
-- Remember, VIAGRA should never be used with medicines that contain nitrates (see VIAGRA Is Not for Everyone).
-- If you are taking medicines called alpha-blockers for the treatment of high blood pressure or prostate problems, your blood pressure could suddenly drop.
-  You could get dizzy or faint.
-- If you are taking a protease inhibitor, your dose may be adjusted (please see Finding the Right Dose for You).
-- VIAGRA should not be used with any other medical treatments that cause erections.
-  These treatments include pills, medicines that are injected or inserted into the penis, implants or vacuum pumps.
+- medicines called nitrates (see "What is the most important information I should know about VIAGRA?")
+- medicines called alpha blockers such as Hytrin (terazosin HCl), Flomax (tamsulosin HCl), Cardura (doxazosin mesylate), Minipress (prazosin HCl), Uroxatral (alfuzosin HCl), Jalyn (dutasteride and tamsulosin HCl), or Rapaflo (silodosin).
+  Alpha-blockers are sometimes prescribed for prostate problems or high blood pressure.
+  In some patients, the use of VIAGRA with alpha-blockers can lead to a drop in blood pressure or to fainting.
+- medicines called HIV protease inhibitors, such as ritonavir (Norvir), indinavir sulfate (Crixivan), saquinavir (Fortovase or Invirase) or atazanavir sulfate (Reyataz)
+- some types of oral antifungal medicines, such as ketoconazole (Nizoral), and itraconozale (Sporanox)
+- some types of antibiotics, such as clarithromycin (Biaxin), telithromycin (Ketek), or erythromycin
+- other medicines that treat high blood pressure
+- other medicines or treatments for ED
 - VIAGRA contains sildenafil, which is the same medicine found in another drug called REVATIO.
-  REVATIO is used to treat a rare disease called pulmonary arterial hypertension.
-  VIAGRA should not be used with REVATIO.
+  REVATIO is used to treat a rare disease called pulmonary arterial hypertension (PAH).
+  VIAGRA should not be used with REVATIO or with other PAH treatments containing sildenafil or any other PDE5 inhibitors (such as Adcirca [tadalafil]).
 
-• FINDING THE RIGHT DOSE FOR YOU
+Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
 
-VIAGRA comes in different doses (25 mg, 50 mg and 100 mg).
-If you do not get the results you expect, talk with your doctor.
-You and your doctor can determine the dose that works best for you.
+Know the medicines you take.
+Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.
 
-- Do not take more VIAGRA than your doctor prescribes.
-- If you think you need a larger dose of VIAGRA, check with your doctor.
-- VIAGRA should not be taken more than once a day.
+How should I take VIAGRA?
 
-Your doctor may prescribe a lower dose of VIAGRA in certain circumstances.
-For example:
+- Take VIAGRA exactly as your healthcare provider tells you to take it.
+- Your healthcare provider will tell you how much VIAGRA to take and when to take it.
+- Your healthcare provider may change your dose if needed.
+- Take VIAGRA about 1 hour before sexual activity.
+  You may take VIAGRA between 30 minutes to 4 hours before sexual activity if needed.
+- VIAGRA can be taken with or without food.
+  If you take VIAGRA after a high fat meal (such as a cheeseburger and french fries), VIAGRA may take a little longer to start working
+- Do not take VIAGRA more than 1 time a day.
+- If you accidentally take too much VIAGRA, call your doctor or go to the nearest hospital emergency room right away.
 
-- If you are older than age 65, or have serious liver or kidney problems, your doctor may start you at the lowest dose (25 mg) of VIAGRA.
-- If you are taking protease inhibitors, such as for the treatment of HIV, your doctor may recommend a 25 mg dose and may limit you to a maximum single dose of 25 mg of VIAGRA in a 48 hour period.
-- If you have prostate problems or high blood pressure for which you take medicines called alpha blockers, your doctor may start you on a lower dose of VIAGRA.
+What are the possible side effects of VIAGRA?
 
-• HOW TO TAKE VIAGRA
+VIAGRA can cause serious side effects.
+Rarely reported side effects include:
 
-Take VIAGRA about one hour before you plan to have sex.
-Beginning in about 30 minutes and for up to 4 hours, VIAGRA can help you get an erection if you are sexually excited.
-If you take VIAGRA after a high-fat meal (such as a cheeseburger and french fries), the medicine may take a little longer to start working.
-VIAGRA can help you get an erection when you are sexually excited.
-You will not get an erection just by taking the pill.
+- an erection that will not go away (priapism).
+  If you have an erection that lasts more than 4 hours, get medical help right away.
+  If it is not treated right away, priapism can permanently damage your penis.
+- sudden vision loss in one or both eyes.
+  Sudden vision loss in one or both eyes can be a sign of a serious eye problem called non-arteritic anterior ischemic optic neuropathy (NAION).
+  Stop taking VIAGRA and call your healthcare provider right away if you have sudden vision loss in one or both eyes.
+- sudden hearing decrease or hearing loss.
+  Some people may also have ringing in their ears (tinnitus) or dizziness.
+  If you have these symptoms, stop taking VIAGRA and contact a doctor right away.
 
-• POSSIBLE SIDE EFFECTS
+The most common side effects of VIAGRA are:
 
-Like all medicines, VIAGRA can cause some side effects.
-These effects are usually mild to moderate and usually don't last longer than a few hours.
-Some of these side effects are more likely to occur with higher doses.
-The most common side effects of VIAGRA are headache, flushing of the face, and upset stomach.
-Less common side effects that may occur are temporary changes in color vision (such as trouble telling the difference between blue and green objects or having a blue color tinge to them), eyes being more sensitive to light, or blurred vision.
+- headache
+- flushing
+- upset stomach
+- abnormal vision, such as changes in color vision (such as having a blue color tinge) and blurred vision
+- stuffy or runny nose
+- back pain
+- muscle pain
+- nausea
+- dizziness
+- rash
 
-In rare instances, men taking PDE5 inhibitors (oral erectile dysfunction medicines, including VIAGRA) reported a sudden decrease or loss of vision in one or both eyes.
-It is not possible to determine whether these events are related directly to these medicines, to other factors such as high blood pressure or diabetes, or to a combination of these.
-If you experience sudden decrease or loss of vision, stop taking PDE5 inhibitors, including VIAGRA, and call a doctor right away.
+In addition, heart attack, stroke, irregular heartbeats and death have happened rarely in men taking VIAGRA.
+Most, but not all, of these men had heart problems before taking VIAGRA.
+It is not known if VIAGRA caused these problems.
 
-In rare instances, men have reported an erection that lasts many hours.
-You should call a doctor immediately if you ever have an erection that lasts more than 4 hours.
-If not treated right away, permanent damage to your penis could occur (see How Sex Affects the Body).
+Tell your healthcare provider if you have any side effect that bothers you or does not go away.
 
-Sudden loss or decrease in hearing, sometimes with ringing in the ears and dizziness, has been rarely reported in people taking PDE5 inhibitors, including VIAGRA.
-It is not possible to determine whether these events are related directly to the PDE5 inhibitors, to other diseases or medications, to other factors, or to a combination of factors.
-If you experience these symptoms, stop taking VIAGRA and contact a doctor right away.
+These are not all the possible side effects of VIAGRA.
+For more information, ask your healthcare provider or pharmacist.
 
-Heart attack, stroke, irregular heart beats, and death have been reported rarely in men taking VIAGRA.
-Most, but not all, of these men had heart problems before taking this medicine.
-It is not possible to determine whether these events were directly related to VIAGRA.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-VIAGRA may cause other side effects besides those listed on this sheet.
-If you want more information or develop any side effects or symptoms you are concerned about, call your doctor.
+How should I store VIAGRA?
 
-• ACCIDENTAL OVERDOSE
+- Store VIAGRA at room temperature between 68°F to 77°F (20°C to 25°C).
 
-In case of accidental overdose, call your doctor right away.
+Keep VIAGRA and all medicines out of the reach of children.
 
-• STORING VIAGRA
+General information about the safe and effective use of VIAGRA.
 
-Keep VIAGRA out of the reach of children.
-Keep VIAGRA in its original container.
-Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use VIAGRA for a condition for which it was not prescribed.
+Do not give VIAGRA to other people, even if they have the same symptoms that you have.
+It may harm them.
 
-• FOR MORE INFORMATION ON VIAGRA
+This Patient Information leaflet summarizes the most important information about VIAGRA.
+If you would like more information, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about VIAGRA that is written for health professionals.
 
-VIAGRA is a prescription medicine used to treat erectile dysfunction.
-Only your doctor can decide if it is right for you.
-This sheet is only a summary.
-If you have any questions or want more information about VIAGRA, talk with your doctor or pharmacist, visit www.viagra.com, or call 1-888-4VIAGRA.
+For more information, go to www.viagra.com, or call 1-888-4VIAGRA
 
-LAB-0220-7.0 January 2010
+What are the ingredients in VIAGRA?
+
+Active ingredient: sildenafil citrate
+
+Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phosphate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, lactose, triacetin, and FD & C Blue #2 aluminum lake
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+LAB-0220-8.0
+
+03/2014
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
+Viagra (sildenafil citrate), Revatio (sildenafil), Cardura (doxazosin mesylate), and Minipress (prazosin HCl) are registered trademarks of Pfizer Inc.

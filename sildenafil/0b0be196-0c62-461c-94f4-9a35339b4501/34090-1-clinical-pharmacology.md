@@ -1,113 +1,160 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
 The physiologic mechanism of erection of the penis involves release of nitric oxide (NO) in the corpus cavernosum during sexual stimulation.
 NO then activates the enzyme guanylate cyclase, which results in increased levels of cyclic guanosine monophosphate (cGMP), producing smooth muscle relaxation in the corpus cavernosum and allowing inflow of blood.
-Sildenafil has no direct relaxant effect on isolated human corpus cavernosum, but enhances the effect of nitric oxide (NO) by inhibiting phosphodiesterase type 5 (PDE5), which is responsible for degradation of cGMP in the corpus cavernosum.
+
+Sildenafil enhances the effect of NO by inhibiting phosphodiesterase type 5 (PDE5), which is responsible for degradation of cGMP in the corpus cavernosum.
+Sildenafil has no direct relaxant effect on isolated human corpus cavernosum.
 When sexual stimulation causes local release of NO, inhibition of PDE5 by sildenafil causes increased levels of cGMP in the corpus cavernosum, resulting in smooth muscle relaxation and inflow of blood to the corpus cavernosum.
 Sildenafil at recommended doses has no effect in the absence of sexual stimulation.
 
+Binding Characteristics
+
 Studies in vitro have shown that sildenafil is selective for PDE5.
 Its effect is more potent on PDE5 than on other known phosphodiesterases (10-fold for PDE6, >80-fold for PDE1, >700-fold for PDE2, PDE3, PDE4, PDE7, PDE8, PDE9, PDE10, and PDE11).
-The approximately 4,000-fold selectivity for PDE5 versus PDE3 is important because PDE3 is involved in control of cardiac contractility.
+Sildenafil is approximately 4,000-fold more selective for PDE5 compared to PDE3.
+PDE3 is involved in control of cardiac contractility.
 Sildenafil is only about 10-fold as potent for PDE5 compared to PDE6, an enzyme found in the retina which is involved in the phototransduction pathway of the retina.
-This lower selectivity is thought to be the basis for abnormalities related to color vision observed with higher doses or plasma levels (see Pharmacodynamics).
+This lower selectivity is thought to be the basis for abnormalities related to color vision [see Clinical Pharmacology (12.2)].
 
-In addition to human corpus cavernosum smooth muscle, PDE5 is also found in lower concentrations in other tissues including platelets, vascular and visceral smooth muscle, and skeletal muscle.
-The inhibition of PDE5 in these tissues by sildenafil may be the basis for the enhanced platelet antiaggregatory activity of nitric oxide observed in vitro, an inhibition of platelet thrombus formation in vivo and peripheral arterial-venous dilatation in vivo.
+In addition to human corpus cavernosum smooth muscle, PDE5 is also found in other tissues including platelets, vascular and visceral smooth muscle, and skeletal muscle, brain, heart, liver, kidney, lung, pancreas, prostate, bladder, testis, and seminal vesicle.
+The inhibition of PDE5 in some of these tissues by sildenafil may be the basis for the enhanced platelet antiaggregatory activity of NO observed in vitro, an inhibition of platelet thrombus formation in vivo and peripheral arterial-venous dilatation in vivo.
 
-## Pharmacokinetics and Metabolism
+## 12.2 Pharmacodynamics
 
-VIAGRA is rapidly absorbed after oral administration, with a mean absolute bioavailability of 41% (range 25–63%).
-Its pharmacokinetics are dose-proportional over the recommended dose range.
-It is eliminated predominantly by hepatic metabolism (mainly cytochrome P450 3A4) and is converted to an active metabolite with properties similar to the parent, sildenafil.
-The concomitant use of potent cytochrome P450 3A4 inhibitors (e.g., erythromycin, ketoconazole, itraconazole) as well as the nonspecific CYP inhibitor, cimetidine, is associated with increased plasma levels of sildenafil (see DOSAGE AND ADMINISTRATION).
-Both sildenafil and the metabolite have terminal half lives of about 4 hours.
-
-Mean sildenafil plasma concentrations measured after the administration of a single oral dose of 100 mg to healthy male volunteers is depicted below:
-
-| Figure 1: Mean Sildenafil Plasma Concentrations in Healthy Male Volunteers. |
-| --- |
-
-### Absorption and Distribution
-
-VIAGRA is rapidly absorbed.
-Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state.
-When VIAGRA is taken with a high fat meal, the rate of absorption is reduced, with a mean delay in Tmax of 60 minutes and a mean reduction in Cmax of 29%.
-The mean steady state volume of distribution (Vss) for sildenafil is 105 L, indicating distribution into the tissues.
-Sildenafil and its major circulating N-desmethyl metabolite are both approximately 96% bound to plasma proteins.
-Protein binding is independent of total drug concentrations.
-
-Based upon measurements of sildenafil in semen of healthy volunteers 90 minutes after dosing, less than 0.001% of the administered dose may appear in the semen of patients.
-
-### Metabolism and Excretion
-
-Sildenafil is cleared predominantly by the CYP3A4 (major route) and CYP2C9 (minor route) hepatic microsomal isoenzymes.
-The major circulating metabolite results from N-desmethylation of sildenafil, and is itself further metabolized.
-This metabolite has a PDE selectivity profile similar to sildenafil and an in vitro potency for PDE5 approximately 50% of the parent drug.
-Plasma concentrations of this metabolite are approximately 40% of those seen for sildenafil, so that the metabolite accounts for about 20% of sildenafil's pharmacologic effects.
-
-After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the feces (approximately 80% of administered oral dose) and to a lesser extent in the urine (approximately 13% of the administered oral dose).
-Similar values for pharmacokinetic parameters were seen in normal volunteers and in the patient population, using a population pharmacokinetic approach.
-
-## Pharmacokinetics in Special Populations
-
-### Geriatrics
-
-Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 84% and 107% higher plasma AUC values of sildenafil and its active N-desmethyl metabolite, respectively, compared to those seen in healthy younger volunteers (18–45 years).
-Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active N-desmethyl metabolite were 45% and 57%, respectively.
-
-### Renal Insufficiency
-
-In volunteers with mild (CLcr=50–80 mL/min) and moderate (CLcr=30–49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of VIAGRA (50 mg) were not altered.
-In volunteers with severe (CLcr=<30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment.
-
-In addition, N-desmethyl metabolite AUC and Cmax values significantly increased 200% and 79% respectively in subjects with severe renal impairment compared to subjects with normal renal function.
-
-### Hepatic Insufficiency
-
-In volunteers with hepatic cirrhosis (Child-Pugh A and B), sildenafil clearance was reduced, resulting in increases in AUC (85%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
-The pharmacokinetics of sildenafil in patients with severely impaired hepatic function (Child Pugh class C) have not been studied.
-
-Therefore, age >65, hepatic impairment and severe renal impairment are associated with increased plasma levels of sildenafil.
-A starting oral dose of 25 mg should be considered in those patients (see DOSAGE AND ADMINISTRATION).
-
-## Pharmacodynamics
-
-### Effects of VIAGRA on Erectile Response
-
-In eight double-blind, placebo-controlled crossover studies of patients with either organic or psychogenic erectile dysfunction, sexual stimulation resulted in improved erections, as assessed by an objective measurement of hardness and duration of erections (RigiScan®), after VIAGRA administration compared with placebo.
+Effects of VIAGRA on Erectile Response: In eight double-blind, placebo-controlled crossover studies of patients with either organic or psychogenic erectile dysfunction, sexual stimulation resulted in improved erections, as assessed by an objective measurement of hardness and duration of erections (RigiScan®), after VIAGRA administration compared with placebo.
 Most studies assessed the efficacy of VIAGRA approximately 60 minutes post dose.
 The erectile response, as assessed by RigiScan®, generally increased with increasing sildenafil dose and plasma concentration.
 The time course of effect was examined in one study, showing an effect for up to 4 hours but the response was diminished compared to 2 hours.
 
-### Effects of VIAGRA on Blood Pressure
-
-Single oral doses of sildenafil (100 mg) administered to healthy volunteers produced decreases in sitting blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8.3/5.3 mmHg).
+Effects of VIAGRA on Blood Pressure: Single oral doses of sildenafil (100 mg) administered to healthy volunteers produced decreases in sitting blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8.3/5.3 mmHg).
 The decrease in sitting blood pressure was most notable approximately 1–2 hours after dosing, and was not different than placebo at 8 hours.
 Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg of VIAGRA, therefore the effects are not related to dose or plasma levels within this dosage range.
-Larger effects were recorded among patients receiving concomitant nitrates (see CONTRAINDICATIONS).
+Larger effects were recorded among patients receiving concomitant nitrates [see Contraindications (4.1)].
 
-| Figure 2: Mean Change from Baseline in Sitting Systolic Blood Pressure, Healthy Volunteers. |
+| Figure 1: Mean Change from Baseline in Sitting Systolic Blood Pressure, Healthy Volunteers. |
 | --- |
 
-### Effects of VIAGRA on Cardiac Parameters
+Effects of VIAGRA on Blood Pressure When Nitroglycerin is Subsequently Administered: Based on the pharmacokinetic profile of a single 100 mg oral dose given to healthy normal volunteers, the plasma levels of sildenafil at 24 hours post dose are approximately 2 ng/mL (compared to peak plasma levels of approximately 440 ng/mL).
+In the following patients: age >65 years, hepatic impairment (e.g., cirrhosis), severe renal impairment (e.g., creatinine clearance <30 mL/min), and concomitant use of erythromycin or strong CYP3A4 inhibitors, plasma levels of sildenafil at 24 hours post dose have been found to be 3 to 8 times higher than those seen in healthy volunteers.
+Although plasma levels of sildenafil at 24 hours post dose are much lower than at peak concentration, it is unknown whether nitrates can be safely co-administered at this time point [see Contraindications (4.1)].
 
-Single oral doses of sildenafil up to 100 mg produced no clinically relevant changes in the ECGs of normal male volunteers.
+Effects of VIAGRA on Blood Pressure When Co-administered with Alpha-Blockers: Three double-blind, placebo-controlled, randomized, two-way crossover studies were conducted to assess the interaction of VIAGRA with doxazosin, an alpha-adrenergic blocking agent.
+
+Study 1: VIAGRA with Doxazosin
+
+In the first study, a single oral dose of VIAGRA 100 mg or matching placebo was administered in a 2-period crossover design to 4 generally healthy males with benign prostatic hyperplasia (BPH).
+Following at least 14 consecutive daily doses of doxazosin, VIAGRA 100 mg or matching placebo was administered simultaneously with doxazosin.
+Following a review of the data from these first 4 subjects (details provided below), the VIAGRA dose was reduced to 25 mg.
+Thereafter, 17 subjects were treated with VIAGRA 25 mg or matching placebo in combination with doxazosin 4 mg (15 subjects) or doxazosin 8 mg (2 subjects).
+The mean subject age was 66.5 years.
+
+For the 17 subjects who received VIAGRA 25 mg and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
+
+| Placebo-subtracted mean maximum decrease in systolic blood pressure (mm Hg) | VIAGRA 25 mg |
+| --- | --- |
+| Supine | 7.4 (-0.9, 15.7) |
+| Standing | 6.0 (-0.8, 12.8) |
+
+The mean profiles of the change from baseline in standing systolic blood pressure in subjects treated with doxazosin in combination with 25 mg VIAGRA or matching placebo are shown in Figure 2.
+
+Figure 2: Mean Standing Systolic Blood Pressure Change from Baseline
+
+Blood pressure was measured immediately pre-dose and at 15, 30, 45 minutes, and 1, 1.5, 2, 2.5, 3, 4, 6 and 8 hours after VIAGRA or matching placebo.
+Outliers were defined as subjects with a standing systolic blood pressure of <85 mmHg or a decrease from baseline in standing systolic blood pressure of >30 mmHg at one or more timepoints.
+There were no subjects treated with VIAGRA 25 mg who had a standing SBP < 85mmHg.
+There were three subjects with a decrease from baseline in standing systolic BP >30mmHg following VIAGRA 25 mg, one subject with a decrease from baseline in standing systolic BP > 30 mmHg following placebo and two subjects with a decrease from baseline in standing systolic BP > 30 mmHg following both VIAGRA and placebo.
+No severe adverse events potentially related to blood pressure effects were reported in this group.
+
+Of the four subjects who received VIAGRA 100 mg in the first part of this study, a severe adverse event related to blood pressure effect was reported in one patient (postural hypotension that began 35 minutes after dosing with VIAGRA with symptoms lasting for 8 hours), and mild adverse events potentially related to blood pressure effects were reported in two others (dizziness, headache and fatigue at 1 hour after dosing; and dizziness, lightheadedness and nausea at 4 hours after dosing).
+There were no reports of syncope among these patients.
+For these four subjects, the placebo-subtracted mean maximum decreases from baseline in supine and standing systolic blood pressures were 14.8 mmHg and 21.5 mmHg, respectively.
+Two of these subjects had a standing SBP < 85mmHg.
+Both of these subjects were protocol violators, one due to a low baseline standing SBP, and the other due to baseline orthostatic hypotension.
+
+Study 2: VIAGRA with Doxazosin
+
+In the second study, a single oral dose of VIAGRA 50 mg or matching placebo was administered in a 2-period crossover design to 20 generally healthy males with BPH.
+Following at least 14 consecutive days of doxazosin, VIAGRA 50 mg or matching placebo was administered simultaneously with doxazosin 4 mg (17 subjects) or with doxazosin 8 mg (3 subjects).
+The mean subject age in this study was 63.9 years.
+
+Twenty subjects received VIAGRA 50 mg, but only 19 subjects received matching placebo.
+One patient discontinued the study prematurely due to an adverse event of hypotension following dosing with VIAGRA 50 mg.
+This patient had been taking minoxidil, a potent vasodilator, during the study.
+
+For the 19 subjects who received both VIAGRA and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
+
+| Placebo-subtracted mean maximum decrease in systolic blood pressure (mm Hg) | VIAGRA 50 mg (95% CI) |
+| --- | --- |
+| Supine | 9.08 (5.48, 12.68) |
+| Standing | 11.62 (7.34, 15.90) |
+
+The mean profiles of the change from baseline in standing systolic blood pressure in subjects treated with doxazosin in combination with 50 mg VIAGRA or matching placebo are shown in Figure 3.
+
+Figure 3: Mean Standing Systolic Blood Pressure Change from Baseline
+
+Blood pressure was measured after administration of VIAGRA at the same times as those specified for the first doxazosin study.
+There were two subjects who had a standing SBP of < 85 mmHg.
+In these two subjects, hypotension was reported as a moderately severe adverse event, beginning at approximately 1 hour after administration of VIAGRA 50 mg and resolving after approximately 7.5 hours.
+There was one subject with a decrease from baseline in standing systolic BP >30mmHg following VIAGRA 50 mg and one subject with a decrease from baseline in standing systolic BP > 30 mmHg following both VIAGRA 50 mg and placebo.
+There were no severe adverse events potentially related to blood pressure and no episodes of syncope reported in this study.
+
+Study 3: VIAGRA with Doxazosin
+
+In the third study, a single oral dose of VIAGRA 100 mg or matching placebo was administered in a 3-period crossover design to 20 generally healthy males with BPH.
+In dose period 1, subjects were administered open-label doxazosin and a single dose of VIAGRA 50 mg simultaneously, after at least 14 consecutive days of doxazosin.
+If a subject did not successfully complete this first dosing period, he was discontinued from the study.
+Subjects who had successfully completed the previous doxazosin interaction study (using VIAGRA 50 mg), including no significant hemodynamic adverse events, were allowed to skip dose period 1.
+Treatment with doxazosin continued for at least 7 days after dose period 1.
+Thereafter, VIAGRA 100 mg or matching placebo was administered simultaneously with doxazosin 4 mg (14 subjects) or doxazosin 8 mg (6 subjects) in standard crossover fashion.
+The mean subject age in this study was 66.4 years.
+
+Twenty-five subjects were screened.
+Two were discontinued after study period 1: one failed to meet pre-dose screening qualifications and the other experienced symptomatic hypotension as a moderately severe adverse event 30 minutes after dosing with open-label VIAGRA 50 mg.
+Of the twenty subjects who were ultimately assigned to treatment, a total of 13 subjects successfully completed dose period 1, and seven had successfully completed the previous doxazosin study (using VIAGRA 50 mg).
+
+For the 20 subjects who received VIAGRA 100 mg and matching placebo, the placebo-subtracted mean maximum decreases from baseline (95% CI) in systolic blood pressure were as follows:
+
+| Placebo-subtracted mean maximum decrease in systolic blood pressure (mm Hg) | VIAGRA 100 mg |
+| --- | --- |
+| Supine | 7.9 (4.6, 11.1) |
+| Standing | 4.3 (-1.8,10.3) |
+
+The mean profiles of the change from baseline in standing systolic blood pressure in subjects treated with doxazosin in combination with 100 mg VIAGRA or matching placebo are shown in Figure 4.
+
+Figure 4: Mean Standing Systolic Blood Pressure Change from Baseline
+
+Blood pressure was measured after administration of VIAGRA at the same times as those specified for the previous doxazosin studies.
+There were three subjects who had a standing SBP of < 85 mmHg.
+All three were taking VIAGRA 100 mg, and all three reported mild adverse events at the time of reductions in standing SBP, including vasodilation and lightheadedness.
+There were four subjects with a decrease from baseline in standing systolic BP > 30 mmHg following VIAGRA 100 mg, one subject with a decrease from baseline in standing systolic BP > 30 mmHg following placebo and one subject with a decrease from baseline in standing systolic BP > 30 mmHg following both VIAGRA and placebo.
+While there were no severe adverse events potentially related to blood pressure reported in this study, one subject reported moderate vasodilatation after both VIAGRA 50 mg and 100 mg.
+There were no episodes of syncope reported in this study.
+
+Effect of VIAGRA on Blood Pressure When Co-administered with Anti-hypertensives: When VIAGRA 100 mg oral was co-administered with amlodipine, 5 mg or 10 mg oral, to hypertensive patients, the mean additional reduction on supine blood pressure was 8 mmHg systolic and 7 mmHg diastolic.
+
+Effect of VIAGRA on Blood Pressure When Co-administered with Alcohol: VIAGRA (50 mg) did not potentiate the hypotensive effect of alcohol (0.5 g/kg) in healthy volunteers with mean maximum blood alcohol levels of 0.08%.
+The maximum observed decrease in systolic blood pressure was -18.5 mmHg when sildenafil was co-administered with alcohol versus -17.4 mmHg when alcohol was administered alone.
+The maximum observed decrease in diastolic blood pressure was -17.2 mmHg when sildenafil was co-administered with alcohol versus -11.1 mmHg when alcohol was administered alone.
+There were no reports of postural dizziness or orthostatic hypotension.
+The maximum recommended dose of 100 mg sildenafil was not evaluated in this study [see Drug Interactions (7.5)].
+
+Effects of VIAGRA on Cardiac Parameters: Single oral doses of sildenafil up to 100 mg produced no clinically relevant changes in the ECGs of normal male volunteers.
 
 Studies have produced relevant data on the effects of VIAGRA on cardiac output.
 In one small, open-label, uncontrolled, pilot study, eight patients with stable ischemic heart disease underwent Swan-Ganz catheterization.
 A total dose of 40 mg sildenafil was administered by four intravenous infusions.
 
-The results from this pilot study are shown in Table 1; the mean resting systolic and diastolic blood pressures decreased by 7% and 10% compared to baseline in these patients.
+The results from this pilot study are shown in Table 3; the mean resting systolic and diastolic blood pressures decreased by 7% and 10% compared to baseline in these patients.
 Mean resting values for right atrial pressure, pulmonary artery pressure, pulmonary artery occluded pressure and cardiac output decreased by 28%, 28%, 20% and 7% respectively.
 Even though this total dosage produced plasma sildenafil concentrations which were approximately 2 to 5 times higher than the mean maximum plasma concentrations following a single oral dose of 100 mg in healthy male volunteers, the hemodynamic response to exercise was preserved in these patients.
 
-TABLE 1.
-HEMODYNAMIC DATA IN PATIENTS WITH STABLE ISCHEMIC HEART DISEASE AFTER IV ADMINISTRATION OF 40 MG SILDENAFIL
+Table 3.
+Hemodynamic Data in Patients with Stable Ischemic Heart Disease after Intravenous Administration of 40 mg of Sildenafil
 
-|  | n | Baseline (B2) | n | Sildenafil (D1) | n | Baseline | n | Sildenafil |
+|  | N | Baseline (B2) | n | Sildenafil (D1) | n | Baseline | n | Sildenafil |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Means ± SD | At rest |  |  |  | After 4 minutes of exercise |  |  |  |
 | PAOP (mmHg) | 8 | 8.1 ± 5.1 | 8 | 6.5 ± 4.3 | 8 | 36.0 ± 13.7 | 8 | 27.8 ± 15.3 |
@@ -123,79 +170,107 @@ The primary endpoint was time to limiting angina in the evaluable cohort.
 The mean times (adjusted for baseline) to onset of limiting angina were 423.6 and 403.7 seconds for sildenafil (N=70) and placebo, respectively.
 These results demonstrated that the effect of VIAGRA on the primary endpoint was statistically non-inferior to placebo.
 
-### Effects of VIAGRA on Vision
-
-At single oral doses of 100 mg and 200 mg, transient dose-related impairment of color discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test, with peak effects near the time of peak plasma levels.
+Effects of VIAGRA on Vision: At single oral doses of 100 mg and 200 mg, transient dose-related impairment of color discrimination was detected using the Farnsworth-Munsell 100-hue test, with peak effects near the time of peak plasma levels.
 This finding is consistent with the inhibition of PDE6, which is involved in phototransduction in the retina.
+Subjects in the study reported this finding as difficulties in discriminating blue/green.
 An evaluation of visual function at doses up to twice the maximum recommended dose revealed no effects of VIAGRA on visual acuity, intraocular pressure, or pupillometry.
 
-## Clinical Studies
+Effects of VIAGRA on Sperm: There was no effect on sperm motility or morphology after single 100 mg oral doses of VIAGRA in healthy volunteers.
 
-In clinical studies, VIAGRA was assessed for its effect on the ability of men with erectile dysfunction (ED) to engage in sexual activity and in many cases specifically on the ability to achieve and maintain an erection sufficient for satisfactory sexual activity.
-VIAGRA was evaluated primarily at doses of 25 mg, 50 mg and 100 mg in 21 randomized, double-blind, placebo-controlled trials of up to 6 months in duration, using a variety of study designs (fixed dose, titration, parallel, crossover).
-VIAGRA was administered to more than 3,000 patients aged 19 to 87 years, with ED of various etiologies (organic, psychogenic, mixed) with a mean duration of 5 years.
-VIAGRA demonstrated statistically significant improvement compared to placebo in all 21 studies.
-The studies that established benefit demonstrated improvements in success rates for sexual intercourse compared with placebo.
+## 12.3 Pharmacokinetics
 
-The effectiveness of VIAGRA was evaluated in most studies using several assessment instruments.
-The primary measure in the principal studies was a sexual function questionnaire (the International Index of Erectile Function - IIEF) administered during a 4-week treatment-free run-in period, at baseline, at follow-up visits, and at the end of double-blind, placebo-controlled, at-home treatment.
-Two of the questions from the IIEF served as primary study endpoints; categorical responses were elicited to questions about (1) the ability to achieve erections sufficient for sexual intercourse and (2) the maintenance of erections after penetration.
-The patient addressed both questions at the final visit for the last 4 weeks of the study.
-The possible categorical responses to these questions were (0) no attempted intercourse, (1) never or almost never, (2) a few times, (3) sometimes, (4) most times, and (5) almost always or always.
-Also collected as part of the IIEF was information about other aspects of sexual function, including information on erectile function, orgasm, desire, satisfaction with intercourse, and overall sexual satisfaction.
-Sexual function data were also recorded by patients in a daily diary.
-In addition, patients were asked a global efficacy question and an optional partner questionnaire was administered.
+VIAGRA is rapidly absorbed after oral administration, with a mean absolute bioavailability of 41% (range 25–63%).
+The pharmacokinetics of sildenafil are dose-proportional over the recommended dose range.
+It is eliminated predominantly by hepatic metabolism (mainly CYP3A4) and is converted to an active metabolite with properties similar to the parent, sildenafil.
+Both sildenafil and the metabolite have terminal half lives of about 4 hours.
 
-The effect on one of the major end points, maintenance of erections after penetration, is shown in Figure 3, for the pooled results of 5 fixed-dose, dose-response studies of greater than one month duration, showing response according to baseline function.
-Results with all doses have been pooled, but scores showed greater improvement at the 50 and 100 mg doses than at 25 mg.
-The pattern of responses was similar for the other principal question, the ability to achieve an erection sufficient for intercourse.
-The titration studies, in which most patients received 100 mg, showed similar results.
-Figure 3 shows that regardless of the baseline levels of function, subsequent function in patients treated with VIAGRA was better than that seen in patients treated with placebo.
-At the same time, on-treatment function was better in treated patients who were less impaired at baseline.
+Mean sildenafil plasma concentrations measured after the administration of a single oral dose of 100 mg to healthy male volunteers is depicted below:
 
-| Figure 3. Effect of VIAGRA and Placebo on Maintenance of Erection by Baseline Score. |
+| Figure 5: Mean Sildenafil Plasma Concentrations in Healthy Male Volunteers. |
 | --- |
 
-The frequency of patients reporting improvement of erections in response to a global question in four of the randomized, double-blind, parallel, placebo-controlled fixed dose studies (1797 patients) of 12 to 24 weeks duration is shown in Figure 4.
-These patients had erectile dysfunction at baseline that was characterized by median categorical scores of 2 (a few times) on principal IIEF questions.
-Erectile dysfunction was attributed to organic (58%; generally not characterized, but including diabetes and excluding spinal cord injury), psychogenic (17%), or mixed (24%) etiologies.
-Sixty-three percent, 74%, and 82% of the patients on 25 mg, 50 mg and 100 mg of VIAGRA, respectively, reported an improvement in their erections, compared to 24% on placebo.
-In the titration studies (n=644) (with most patients eventually receiving 100 mg), results were similar.
+Absorption and Distribution: VIAGRA is rapidly absorbed.
+Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state.
+When VIAGRA is taken with a high fat meal, the rate of absorption is reduced, with a mean delay in Tmax of 60 minutes and a mean reduction in Cmax of 29%.
+The mean steady state volume of distribution (Vss) for sildenafil is 105 L, indicating distribution into the tissues.
+Sildenafil and its major circulating N-desmethyl metabolite are both approximately 96% bound to plasma proteins.
+Protein binding is independent of total drug concentrations.
 
-| Figure 4. Percentage of Patients Reporting an Improvement in Erections. |
-| --- |
+Based upon measurements of sildenafil in semen of healthy volunteers 90 minutes after dosing, less than 0.001% of the administered dose may appear in the semen of patients.
 
-The patients in studies had varying degrees of ED.
-One-third to one-half of the subjects in these studies reported successful intercourse at least once during a 4-week, treatment-free run-in period.
+Metabolism and Excretion: Sildenafil is cleared predominantly by the CYP3A4 (major route) and CYP2C9 (minor route) hepatic microsomal isoenzymes.
+The major circulating metabolite results from N-desmethylation of sildenafil, and is itself further metabolized.
+This metabolite has a PDE selectivity profile similar to sildenafil and an in vitro potency for PDE5 approximately 50% of the parent drug.
+Plasma concentrations of this metabolite are approximately 40% of those seen for sildenafil, so that the metabolite accounts for about 20% of sildenafil's pharmacologic effects.
 
-In many of the studies, of both fixed dose and titration designs, daily diaries were kept by patients.
-In these studies, involving about 1600 patients, analyses of patient diaries showed no effect of VIAGRA on rates of attempted intercourse (about 2 per week), but there was clear treatment-related improvement in sexual function: per patient weekly success rates averaged 1.3 on 50–100 mg of VIAGRA vs 0.4 on placebo; similarly, group mean success rates (total successes divided by total attempts) were about 66% on VIAGRA vs about 20% on placebo.
+After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the feces (approximately 80% of administered oral dose) and to a lesser extent in the urine (approximately 13% of the administered oral dose).
+Similar values for pharmacokinetic parameters were seen in normal volunteers and in the patient population, using a population pharmacokinetic approach.
 
-During 3 to 6 months of double-blind treatment or longer-term (1 year), open-label studies, few patients withdrew from active treatment for any reason, including lack of effectiveness.
-At the end of the long-term study, 88% of patients reported that VIAGRA improved their erections.
+Pharmacokinetics in Special Populations
 
-Men with untreated ED had relatively low baseline scores for all aspects of sexual function measured (again using a 5-point scale) in the IIEF.
-VIAGRA improved these aspects of sexual function: frequency, firmness and maintenance of erections; frequency of orgasm; frequency and level of desire; frequency, satisfaction and enjoyment of intercourse; and overall relationship satisfaction.
+Geriatrics: Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 84% and 107% higher plasma AUC values of sildenafil and its active N-desmethyl metabolite, respectively, compared to those seen in healthy younger volunteers (18–45 years).
+Due to age-differences in plasma protein binding, the corresponding increase in the AUC of free (unbound) sildenafil and its active N-desmethyl metabolite were 45% and 57%, respectively [see Dosage and Administration (2.5), and Use in Specific Populations (8.5)]
 
-One randomized, double-blind, flexible-dose, placebo-controlled study included only patients with erectile dysfunction attributed to complications of diabetes mellitus (n=268).
-As in the other titration studies, patients were started on 50 mg and allowed to adjust the dose up to 100 mg or down to 25 mg of VIAGRA; all patients, however, were receiving 50 mg or 100 mg at the end of the study.
-There were highly statistically significant improvements on the two principal IIEF questions (frequency of successful penetration during sexual activity and maintenance of erections after penetration) on VIAGRA compared to placebo.
-On a global improvement question, 57% of VIAGRA patients reported improved erections versus 10% on placebo.
-Diary data indicated that on VIAGRA, 48% of intercourse attempts were successful versus 12% on placebo.
+Renal Impairment: In volunteers with mild (CLcr=50–80 mL/min) and moderate (CLcr=30–49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of VIAGRA (50 mg) were not altered.
+In volunteers with severe (CLcr <30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment [see Dosage and Administration (2.5), and Use in Specific Populations (8.6)].
 
-One randomized, double-blind, placebo-controlled, crossover, flexible-dose (up to 100 mg) study of patients with erectile dysfunction resulting from spinal cord injury (n=178) was conducted.
-The changes from baseline in scoring on the two end point questions (frequency of successful penetration during sexual activity and maintenance of erections after penetration) were highly statistically significantly in favor of VIAGRA.
-On a global improvement question, 83% of patients reported improved erections on VIAGRA versus 12% on placebo.
-Diary data indicated that on VIAGRA, 59% of attempts at sexual intercourse were successful compared to 13% on placebo.
+In addition, N-desmethyl metabolite AUC and Cmax values significantly increased by 200% and 79%, respectively in subjects with severe renal impairment compared to subjects with normal renal function.
 
-Across all trials, VIAGRA improved the erections of 43% of radical prostatectomy patients compared to 15% on placebo.
+Hepatic Impairment: In volunteers with hepatic impairment (Child-Pugh Class A and B), sildenafil clearance was reduced, resulting in increases in AUC (85%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
+The pharmacokinetics of sildenafil in patients with severely impaired hepatic function (Child-Pugh Class C) have not been studied [see Dosage and Administration (2.5), and Use in Specific Populations (8.7)].
 
-Subgroup analyses of responses to a global improvement question in patients with psychogenic etiology in two fixed-dose studies (total n=179) and two titration studies (total n=149) showed 84% of VIAGRA patients reported improvement in erections compared with 26% of placebo.
-The changes from baseline in scoring on the two end point questions (frequency of successful penetration during sexual activity and maintenance of erections after penetration) were highly statistically significantly in favor of VIAGRA.
-Diary data in two of the studies (n=178) showed rates of successful intercourse per attempt of 70% for VIAGRA and 29% for placebo.
+Therefore, age >65, hepatic impairment and severe renal impairment are associated with increased plasma levels of sildenafil.
+A starting oral dose of 25 mg should be considered in those patients [see Dosage and Administration (2.5)].
 
-A review of population subgroups demonstrated efficacy regardless of baseline severity, etiology, race and age.
-VIAGRA was effective in a broad range of ED patients, including those with a history of coronary artery disease, hypertension, other cardiac disease, peripheral vascular disease, diabetes mellitus, depression, coronary artery bypass graft (CABG), radical prostatectomy, transurethral resection of the prostate (TURP) and spinal cord injury, and in patients taking antidepressants/antipsychotics and antihypertensives/diuretics.
+Drug Interaction Studies
 
-Analysis of the safety database showed no apparent difference in the side effect profile in patients taking VIAGRA with and without antihypertensive medication.
-This analysis was performed retrospectively, and was not powered to detect any pre-specified difference in adverse reactions.
+Effects of Other Drugs on VIAGRA
+
+Sildenafil metabolism is principally mediated by CYP3A4 (major route) and CYP2C9 (minor route).
+Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance.
+The concomitant use of erythromycin or strong CYP3A4 inhibitors (e.g., saquinavir, ketoconazole, itraconazole) as well as the nonspecific CYP inhibitor, cimetidine, is associated with increased plasma levels of sildenafil [see Dosage and Administration (2.4)].
+
+In vivo studies:
+
+Cimetidine (800 mg), a nonspecific CYP inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with VIAGRA (50 mg) to healthy volunteers.
+
+When a single 100 mg dose of VIAGRA was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg bid for 5 days), there was a 160% increase in sildenafil Cmax and a 182% increase in sildenafil AUC.
+In addition, in a study performed in healthy male volunteers, co-administration of the HIV protease inhibitor saquinavir, also a CYP3A4 inhibitor, at steady state (1200 mg tid) with Viagra (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
+Viagra had no effect on saquinavir pharmacokinetics.
+A stronger CYP3A4 inhibitor such as ketoconazole or itraconazole could be expected to have greater effect than that seen with saquinavir.
+Population pharmacokinetic data from patients in clinical trials also indicated a reduction in sildenafil clearance when it was co-administered with CYP3A4 inhibitors (such as ketoconazole, erythromycin, or cimetidine) [see Dosage and Administration (2.4) and Drug Interactions (7.4)].
+
+In another study in healthy male volunteers, co-administration with the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg bid) with VIAGRA (100 mg single dose) resulted in a 300% (4-fold) increase in sildenafil Cmax and a 1000% (11-fold) increase in sildenafil plasma AUC.
+At 24 hours the plasma levels of sildenafil were still approximately 200 ng/mL, compared to approximately 5 ng/mL when sildenafil was dosed alone.
+This is consistent with ritonavir's marked effects on a broad range of P450 substrates.
+VIAGRA had no effect on ritonavir pharmacokinetics [see Dosage and Administration (2.4) and Drug Interactions (7.4)].
+
+Although the interaction between other protease inhibitors and sildenafil has not been studied, their concomitant use is expected to increase sildenafil levels.
+
+In a study of healthy male volunteers, co-administration of sildenafil at steady state (80 mg t.i.d.) with endothelin receptor antagonist bosentan (a moderate inducer of CYP3A4, CYP2C9 and possibly of CYP2C19) at steady state (125 mg b.i.d.) resulted in a 63% decrease of sildenafil AUC and a 55% decrease in sildenafil Cmax.
+Concomitant administration of strong CYP3A4 inducers, such as rifampin, is expected to cause greater decreases in plasma levels of sildenafil.
+
+Single doses of antacid (magnesium hydroxide/aluminum hydroxide) did not affect the bioavailability of VIAGRA.
+
+In healthy male volunteers, there was no evidence of a clinically significant effect of azithromycin (500 mg daily for 3 days) on the systemic exposure of sildenafil or its major circulating metabolite.
+
+Pharmacokinetic data from patients in clinical trials showed no effect on sildenafil pharmacokinetics of CYP2C9 inhibitors (such as tolbutamide, warfarin), CYP2D6 inhibitors (such as selective serotonin reuptake inhibitors, tricyclic antidepressants), thiazide and related diuretics, ACE inhibitors, and calcium channel blockers.
+The AUC of the active metabolite, N-desmethyl sildenafil, was increased 62% by loop and potassium-sparing diuretics and 102% by nonspecific beta-blockers.
+These effects on the metabolite are not expected to be of clinical consequence.
+
+Effects of VIAGRA on Other Drugs
+
+In vitro studies:
+
+Sildenafil is a weak inhibitor of the CYP isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 >150 µM).
+Given sildenafil peak plasma concentrations of approximately 1 µM after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
+
+In vivo studies:
+
+No significant interactions were shown with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolized by CYP2C9.
+
+In a study of healthy male volunteers, sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV protease inhibitors, saquinavir and ritonavir, both of which are CYP3A4 substrates.
+
+VIAGRA (50 mg) did not potentiate the increase in bleeding time caused by aspirin (150 mg).
+
+Sildenafil at steady state, at a dose not approved for the treatment of erectile dysfunction (80 mg t.i.d.) resulted in a 50% increase in AUC and a 42% increase in Cmax of bosentan (125 mg b.i.d.).
