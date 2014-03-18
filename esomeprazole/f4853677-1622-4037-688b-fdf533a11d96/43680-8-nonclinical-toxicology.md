@@ -24,10 +24,13 @@ Omeprazole at oral doses up to 138 mg/kg/day in rats (about 56 times the human d
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Reproductive Toxicology Studies
+Reproduction Studies
 
-Reproductive studies have been performed in rats at oral doses up to 280 mg/kg/day (about 57 times the human dose on a body surface area basis) and in rabbits at oral doses up to 86 mg/kg/day (about 35 times the human dose on a body surface area basis) and have revealed no evidence of impaired fertility or harm to the fetus due to esomeprazole.
+Reproduction studies have been performed in rats at oral doses up to 280 mg/kg/day (about 57 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at oral doses up to 86 mg/kg/day (about 35 times an oral human dose of 40 mg on a body surface area basis) and have revealed no evidence of impaired fertility or harm to the fetus due to esomeprazole [see Pregnancy, Animal Data (8.1)].
 
-Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 56 times the human dose on a body surface area basis) and in rabbits at doses up to 69 mg/kg/day (about 56 times the human dose on a body surface area basis) did not disclose any evidence for a teratogenic potential of omeprazole.
-In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 5.5 to 56 times the human dose on a body surface area basis) produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
-In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 5.6 to 56 times the human dose on a body surface area basis).
+Juvenile Animal Study
+
+A 28-day toxicity study with a 14-day recovery phase was conducted in juvenile rats with esomeprazole magnesium at doses of 70 to 280 mg /kg/day (about 17 to 57 times a daily oral human dose of 40 mg on a body surface area basis).
+An increase in the number of deaths at the high dose of 280 mg/kg/day was observed when juvenile rats were administered esomeprazole magnesium from postnatal day 7 through postnatal day 35.
+In addition, doses equal to or greater than 140 mg/kg/day (about 34 times a daily oral human dose of 40 mg on a body surface area basis), produced treatment-related decreases in body weight (approximately 14%) and body weight gain, decreases in femur weight and femur length, and affected overall growth.
+Comparable findings described above have also been observed in this study with another esomeprazole salt, esomeprazole strontium, at equimolar doses of esomeprazole.

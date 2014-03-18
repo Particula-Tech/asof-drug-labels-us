@@ -48,7 +48,7 @@ Urogenital: abnormal urine, albuminuria, cystitis, dysuria, fungal infection, he
 
 Visual: conjunctivitis, vision abnormal.
 
-The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [seeClinical Pharmacology (12)].
+The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [see Clinical Pharmacology (12)].
 Decreases were seen in hemoglobin, white blood cell count, platelets, potassium, sodium, and thyroxine.
 
 Endoscopic findings that were reported as adverse reactions include: duodenitis, esophagitis, esophageal stricture, esophageal ulceration, esophageal varices, gastric ulcer, gastritis, hernia, benign polyps or nodules, Barrett’s esophagus, and mucosal discoloration.
@@ -61,12 +61,12 @@ The most common adverse reactions that were reported as possibly or probably rel
 
 Pediatrics
 
-The safety of NEXIUM was evaluated in 316 pediatric and adolescent patients aged 1 to 17 years in four clinical trials for the treatment of symptomatic GERD [seeClinical Studies (14.2)].
+The safety of NEXIUM was evaluated in 316 pediatric and adolescent patients aged 1 to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.2)].
 In 109 pediatric patients aged 1 to 11 years, the most frequently reported (at least 1%) treatment-related adverse reactions in these patients were diarrhea (2.8%), headache (1.9%) and somnolence (1.9%).
 In 149 pediatric patients aged 12 to 17 years the most frequently reported (at least 2%) treatment-related adverse reactions in these patients were headache (8.1%), abdominal pain (2.7%), diarrhea (2%), and nausea (2%).
 
-The safety of NEXIUM was evaluated in 167 pediatric patients from birth to <1 year of age in three clinical trials.
-[See Clinical Studies (14.3)] In a study that included 26 pediatric patients aged birth to 1 month there were no treatment related adverse reactions.
+The safety of NEXIUM was evaluated in 167 pediatric patients from birth to <1 year of age in three clinical trials [see Clinical Studies (14.3)].
+In a study that included 26 pediatric patients aged birth to 1 month there were no treatment related adverse reactions.
 In a study that included 43 pediatric patients age 1 to 11 months, inclusive the most frequently reported (at least 5%) adverse reactions, irrespective of causality, were irritability and vomiting.
 In a study that included 98 pediatric patients, age 1 to 11 months, inclusive exposed to esomeprazole for up to 6 weeks (including 39 patients randomized to the withdrawal phase), there were 4 treatment-related adverse reactions: abdominal pain (1%), regurgitation (1%), tachypnea (1%), and increased ALT (1%).
 

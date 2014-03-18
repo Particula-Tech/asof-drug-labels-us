@@ -37,7 +37,7 @@ The increased CgA levels may cause false positive results in diagnostic investig
 
 Enterochromaffin-like (ECL) Cell Effects
 
-In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [seeNonclinical Toxicology (13.1)].
+In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology (13.1)].
 Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
 Human gastric biopsy specimens have been obtained from more than 3,000 patients treated with omeprazole in long-term clinical trials.
@@ -88,9 +88,9 @@ Metabolism
 
 Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP) enzyme system.
 The metabolites of esomeprazole lack antisecretory activity.
-The major part of esomeprazole’s metabolism is dependent upon the CYP 2C19 isoenzyme, which forms the hydroxy and desmethyl metabolites.
-The remaining amount is dependent on CYP 3A4 which forms the sulphone metabolite.
-CYP 2C19 isoenzyme exhibits polymorphism in the metabolism of esomeprazole, since some 3% of Caucasians and 15 to 20% of Asians lack CYP 2C19 and are termed Poor Metabolizers.
+The major part of esomeprazole’s metabolism is dependent upon the CYP2C19 isoenzyme, which forms the hydroxy and desmethyl metabolites.
+The remaining amount is dependent on CYP3A4 which forms the sulphone metabolite.
+CYP2C19 isoenzyme exhibits polymorphism in the metabolism of esomeprazole, since some 3% of Caucasians and 15 to 20% of Asians lack CYP2C19 and are termed Poor Metabolizers.
 At steady state, the ratio of AUC in Poor Metabolizers to AUC in the rest of the population (Extensive Metabolizers) is approximately 2.
 
 Following administration of equimolar doses, the S- and R-isomers are metabolized differently by the liver, resulting in higher plasma levels of the S- than of the R-isomer.
@@ -189,7 +189,7 @@ Hepatic Insufficiency
 The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [seeDosage and Administration (2)].
+No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
 
 Renal Insufficiency
 
@@ -197,7 +197,7 @@ The pharmacokinetics of NEXIUM in patients with renal impairment are not expecte
 
 Other pharmacokinetic observations
 
-Coadministration of oral contraceptives, diazepam, phenytoin, or quinidine did not seem to change the pharmacokinetic profile of esomeprazole.
+Co-administration of oral contraceptives, diazepam, phenytoin, or quinidine did not seem to change the pharmacokinetic profile of esomeprazole.
 
 Studies evaluating concomitant administration of esomeprazole and either naproxen (non-selective NSAID) or rofecoxib (COX-2 selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of esomeprazole or these NSAIDs.
 

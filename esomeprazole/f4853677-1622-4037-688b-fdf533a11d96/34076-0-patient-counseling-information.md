@@ -25,7 +25,7 @@ Wilmington, DE 19850
 
 NEXIUM and the color purple as applied to the capsule are registered trademarks of the AstraZeneca group of companies.
 
-©AstraZeneca 2012
+©AstraZeneca 2014
 
 Rev.
-11/2012
+02/2014

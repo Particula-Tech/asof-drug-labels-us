@@ -15,7 +15,7 @@ This diagnosis should be considered for diarrhea that does not improve [see Adve
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
-Clostridium diffficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
 For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with NEXIUM, refer to WARNINGS and PRECAUTIONS sections of those package inserts.
 
 ## 5.4 Interaction with Clopidogrel
@@ -25,8 +25,7 @@ Clopidogrel is a prodrug.
 Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
 The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as esomeprazole that inhibit CYP2C19 activity.
 Concomitant use of clopidogrel with 40 mg esomeprazole reduces the pharmacological activity of clopidogrel.
-When using NEXIUM consider alternative anti-platelet therapy.
-[see Drug Interactions (7.3)and Pharmacokinetics (12.3)]
+When using NEXIUM consider alternative anti-platelet therapy [see Drug Interactions (7.3) and Pharmacokinetics (12.3)].
 
 ## 5.5 Bone Fracture
 
@@ -34,7 +33,7 @@ Several published observational studies suggest that proton pump inhibitor (PPI)
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines.
-[seeDosage and Administration (2) and Adverse Reactions (6.2)]
+[see Dosage and Administration (2)andAdverse Reactions (6.2)]
 
 ## 5.6 Hypomagnesemia
 
@@ -42,13 +41,12 @@ Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patien
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
-For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
-[SeeAdverse Reactions (6.2)]
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
-## 5.7 Concomitant use of NEXIUM with St John’s Wort or rifampin
+## 5.7 Concomitant use of NEXIUM with St. John’s Wort or rifampin
 
-Drugs which induce CYP2C19 or CYP3A4 (such as St John’s Wort or rifampin) can substantially decrease esomeprazole concentrations.
-[seeDrug Interactions (7.3)] Avoid concomitant use of NEXIUM with St John’s Wort, or rifampin.
+Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s Wort or rifampin) can substantially decrease esomeprazole concentrations [see Drug Interactions (7.3)].
+Avoid concomitant use of NEXIUM with St. John’s Wort or rifampin.
 
 ## 5.8 Interactions with Diagnostic Investigations for Neuroendocrine Tumors
 
@@ -60,5 +58,4 @@ If serial tests are performed (e.g. for monitoring), the same commercial laborat
 ## 5.9 Concomitant use of NEXIUM with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients.
-[see Drug Interactions (7.7)]
+In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.7)].
