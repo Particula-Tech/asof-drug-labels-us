@@ -34,8 +34,18 @@ Patients receiving risperidone experienced a significantly longer time to relaps
 
 Pediatrics
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia.
-Clinical trial information for pediatric patients with schizophrenia, 13 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+The efficacy of risperidone in the treatment of schizophrenia in adolescents aged 13 to 17 years was demonstrated in two short-term (6 and 8 weeks), double-blind controlled trials.
+All patients met DSM-IV diagnostic criteria for schizophrenia and were experiencing an acute episode at time of enrollment.
+In the first trial (study #1), patients were randomized into one of three treatment groups: risperidone 1 to 3 mg/day (n = 55, mean modal dose = 2.6 mg), risperidone 4 to 6 mg/day (n = 51, mean modal dose = 5.3 mg), or placebo (n = 54).
+In the second trial (study # 2), patients were randomized to either risperidone 0.15 to 0.6 mg/day (n = 132, mean modal dose = 0.5 mg) or risperidone 1.5 to 6 mg/day (n = 125, mean modal dose = 4 mg).
+In all cases, study medication was initiated at 0.5 mg/day (with the exception of the 0.15 to 0.6 mg/day group in study # 2, where the initial dose was 0.05 mg/day) and titrated to the target dosage range by approximately Day 7.
+Subsequently, dosage was increased to the maximum tolerated dose within the target dose range by Day 14.
+The primary efficacy variable in all studies was the mean change from baseline in total PANSS score.
+
+Results of the studies demonstrated efficacy of risperidone in all dose groups from 1 to 6 mg/day compared to placebo, as measured by significant reduction of total PANSS score.
+The efficacy on the primary parameter in the 1 to 3 mg/day group was comparable to the 4 to 6 mg/day group in study # 1, and similar to the efficacy demonstrated in the 1.5 to 6 mg/day group in study # 2.
+In study # 2, the efficacy in the 1.5 to 6 mg/day group was statistically significantly greater than that in the 0.15 to 0.6 mg/day group.
+Doses higher than 3 mg/day did not reveal any trend towards greater efficacy.
 
 ## 14.2 Bipolar Mania - Monotherapy
 
@@ -48,16 +58,22 @@ The primary rating instrument used for assessing manic symptoms in these trials 
 The primary outcome in these trials was change from baseline in the YMRS total score.
 The results of the trials follow:
 
-(1) In one 3-week placebo-controlled trial (n = 246), limited to patients with manic episodes, which involved a dose range of risperidone1 to 6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 4.1 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
+(1) In one 3-week placebo-controlled trial (n = 246), limited to patients with manic episodes, which involved a dose range of risperidone 1 to 6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 4.1 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
 
 (2) In another 3-week placebo-controlled trial (n = 286), which involved a dose range of 1 to 6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 5.6 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
 
 Pediatrics
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with bipolar mania.
-Clinical trial information for pediatric patients with bipolar mania, 10 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+The efficacy of risperidone in the treatment of mania in children or adolescents with Bipolar I disorder was demonstrated in a 3-week, randomized, double-blind, placebo-controlled, multicenter trial including patients ranging in ages from 10 to 17 years who were experiencing a manic or mixed episode of bipolar I disorder.
+Patients were randomized into one of three treatment groups: risperidone 0.5 to 2.5 mg/day (n = 50, mean modal dose = 1.9 mg), risperidone 3 to 6 mg/day (n = 61, mean modal dose = 4.7 mg), or placebo (n = 58).
+In all cases, study medication was initiated at 0.5 mg/day and titrated to the target dosage range by Day 7, with further increases in dosage to the maximum tolerated dose within the targeted dose range by Day 10.
+The primary rating instrument used for assessing efficacy in this study was the mean change from baseline in the total YMRS score.
 
-## 14.3 Bipolar Mania – Combination Therapy
+Results of this study demonstrated efficacy of risperidone in both dose groups compared with placebo, as measured by significant reduction of total YMRS score.
+The efficacy on the primary parameter in the 3 to 6 mg/day dose group was comparable to the 0.5 to 2.5 mg/day dose group.
+Doses higher than 2.5 mg/day did not reveal any trend towards greater efficacy.
+
+## 14.3 Bipolar Mania – Adjunctive Therapy with Lithium or Valproate
 
 The efficacy of risperidone with concomitant lithium or valproate in the treatment of acute manic or mixed episodes was established in one controlled trial in adult patients who met the DSM-IV criteria for Bipolar I Disorder.
 This trial included patients with or without psychotic features and with or without a rapid-cycling course.
@@ -73,8 +89,8 @@ A possible explanation for the failure of this trial was induction of risperidon
 
 Short-Term Efficacy
 
-The efficacy of risperidonein the treatment of irritability associated with autistic disorder was established in two 8-week, placebo-controlled trials in children and adolescents (aged 5 to 16 years) who met the DSM-IV criteria for autistic disorder.
-Over 90% of these subjects were under 12 years of age and most weighed over 20 kg (16-104.3 kg).
+The efficacy of risperidone in the treatment of irritability associated with autistic disorder was established in two 8-week, placebo-controlled trials in children and adolescents (aged 5 to 16 years) who met the DSM-IV criteria for autistic disorder.
+Over 90% of these subjects were under 12 years of age and most weighed over 20 kg (16 to 104.3 kg).
 
 Efficacy was evaluated using two assessment scales: the Aberrant Behavior Checklist (ABC) and the Clinical Global Impression - Change (CGI-C) scale.
 The primary outcome measure in both trials was the change from baseline to endpoint in the Irritability subscale of the ABC (ABC-I).
@@ -86,7 +102,26 @@ The results of these trials are as follows:
 (1) In one of the 8-week, placebo-controlled trials, children and adolescents with autistic disorder (n = 101), aged 5 to 16 years, received twice daily doses of placebo or risperidone 0.5 to 3.5 mg/day on a weight-adjusted basis.
 Risperidone, starting at 0.25 mg/day or 0.5 mg/day depending on baseline weight (< 20 kg and ≥ 20 kg, respectively) and titrated to clinical response (mean modal dose of 1.9 mg/day, equivalent to 0.06 mg/kg/day), significantly improved scores on the ABC-I subscale and on the CGI-C scale compared with placebo.
 
-(2) In the other 8-week, placebo-controlled trial in children with autistic disorder (n = 55), aged 5 to 12 years, risperidone0.02 to 0.06 mg/kg/day given once or twice daily, starting at 0.01 mg/kg/day and titrated to clinical response (mean modal dose of 0.05 mg/kg/day, equivalent to 1.4 mg/day), significantly improved scores on the ABC-I subscale compared with placebo.
+(2) In the other 8-week, placebo-controlled trial in children with autistic disorder (n = 55), aged 5 to 12 years, risperidone 0.02 to 0.06 mg/kg/day given once or twice daily, starting at 0.01 mg/kg/day and titrated to clinical response (mean modal dose of 0.05 mg/kg/day, equivalent to 1.4 mg/day), significantly improved scores on the ABC-I subscale compared with placebo.
+
+A third trial was a 6-week, multicenter, randomized, double-blind, placebo-controlled, fixed-dose study to evaluate the efficacy and safety of a lower than recommended dose of risperidone in subjects (N = 96) 5 to 17 years of age with autistic disorder (defined by DSM-IV criteria) and associated irritability and related behavioral symptoms.
+Approximately 77% of patients were younger than 12 years of age (mean age = 9), and 88% were male.
+Most patients (73%) weighed less than 45 kg (mean weight = 40 kg).
+Approximately 90% of patients were antipsychotic-naïve before entering the study.
+
+There were two weight-based, fixed doses of risperidone (high-dose and low-dose).
+The high dose was 1.25 mg per day for patients weighing 20 to < 45 kg, and it was 1.75 mg per day for patients weighing > 45 kg.
+The low dose was 0.125 mg per day for patients weighing 20 to < 45 kg, and it was 0.175 mg per day for patients weighing > 45 kg.
+The dose was administered once daily in the morning, or in the evening if sedation occurred.
+
+The primary efficacy endpoint was the mean change in the Aberrant Behavior Checklist –
+
+Irritability subscale (ABC-I) score from baseline to the end of Week 6.
+The study demonstrated the efficacy of high-dose risperidone, as measured by the mean change in ABC-I score.
+It did not demonstrate efficacy for low-dose risperidone.
+The mean baseline ABC-I scores were 29 in the placebo group (n = 35), 27 in the risperidone low-dose group (n = 30), and 28 in the risperidone high-dose group (n = 31).
+The mean changes in ABC-I scores were -3.5, -7.4, and -12.4 in the placebo, low-dose, and high-dose group respectively.
+The results in the high-dose group were statistically significant (p < 0.001) but not in the low-dose group (p = 0.164).
 
 Long-Term Efficacy
 

@@ -1,5 +1,20 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+Table 1.
+Recommended Daily Dosage by Indication
+
+|  | Initial Dose | Titration(Increments) | Target Dose | Effective DoseRange |
+| --- | --- | --- | --- | --- |
+| Schizophrenia: adults (2.1) | 2 mg | 1 to 2 mg | 4 to 8 mg | 4 to 16 mg |
+| Schizophrenia: adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 3 mg | 1 to 6 mg |
+| Bipolar mania: adults (2.2) | 2 to 3 mg | 1 mg | 1 to 6 mg | 1 to 6 mg |
+| Bipolar mania: children and adolescents (2.2) | 0.5 mg | 0.5 to 1mg | 1 to 2.5 mg | 1 to 6 mg |
+| Irritability in autisticdisorder (2.3) | 0.25 mg Can increase to 0.5 mg by Day 4: (body weight less than 20 kg) 0.5 mg Can increase to 1 mg by Day 4: (body weight greater than or equal to 20 kg) | After Day 4, at intervals of > 2 weeks: 0.25 mg (body weight less than 20 kg) 0.5 mg (body weight greater than or equal to 20 kg) | 0.5 mg: (body weight less than 20 kg) 1 mg: (body weight greater than or equal to 20 kg) | 0.5 to 3 mg |
+
+Severe Renal and Hepatic Impairment in Adults: use a lower starting dose of 0.5 mg twice daily.
+
+May increase to dosages above 1.5 mg twice daily at intervals of at one week or longer
+
 ## 2.1 Schizophrenia
 
 Adults
@@ -7,35 +22,36 @@ Adults
 Usual Initial Dose
 
 Risperidone orally disintegrating tablets can be administered once or twice daily.
-Initial dosing is generally 2 mg/day.
-Dose increases should then occur at intervals not less than 24 hours, in increments of 1 to 2 mg/day, as tolerated, to a recommended dose of 4 to 8 mg/day.
+Initial dosing is 2 mg per day.
+May increase the dose at intervals of 24 hours or greater, in increments of 1 to 2 mg per day, as tolerated, to a recommended dose of 4 to 8 mg per day.
 In some patients, slower titration may be appropriate.
-Efficacy has been demonstrated in a range of 4 to 16 mg/day [see Clinical Studies (14.1)].
-However, doses above 6 mg/day for twice daily dosing were not demonstrated to be more efficacious than lower doses, were associated with more extrapyramidal symptoms and other adverse effects, and are generally not recommended.
+Efficacy has been demonstrated in a range of 4 mg to 16 mg per day.
+However, doses above 6 mg per day for twice daily dosing were not demonstrated to be more efficacious than lower doses, were associated with more extrapyramidal symptoms and other adverse effects, and are generally not recommended.
 In a single study supporting once-daily dosing, the efficacy results were generally stronger for 8 mg than for 4 mg.
-The safety of doses above 16 mg/day has not been evaluated in clinical trials.
-
-Maintenance Therapy
-
-While it is unknown how long a patient with schizophrenia should remain on risperidone orally disintegrating tablets, the effectiveness of risperidone orally disintegrating tablets 2 mg/day to 8 mg/day at delaying relapse was demonstrated in a controlled trial in patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [see Clinical Studies (14.1)].
-Patients should be periodically reassessed to determine the need for maintenance treatment with an appropriate dose.
+The safety of doses above 16 mg per day has not been evaluated in clinical trials [see Clinical Studies (14.1)].
 
 Adolescents
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia.
-Dosage and administration information for pediatric patients with schizophrenia, 13 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+The initial dose is 0.5 mg once daily, administered as a single-daily dose in the morning or evening.
+The dose may be adjusted at intervals of 24 hours or greater, in increments of 0.5 mg or 1 mg per day, as tolerated, to a recommended dose of 3 mg per day.
+Although efficacy has been demonstrated in studies of adolescent patients with schizophrenia at doses between 1 mg to 6 mg per day, no additional benefit was observed above 3 mg per day, and higher doses were associated with more adverse events.
+Doses higher than 6 mg per day have not been studied.
+
+Patients experiencing persistent somnolence may benefit from administering half the daily dose twice daily.
+
+Maintenance Therapy
+
+While it is unknown how long a patient with schizophrenia should remain on risperidone orally disintegrating tablets, the effectiveness of risperidone orally disintegrating tablets 2 mg per day to 8 mg per day at delaying relapse was demonstrated in a controlled trial in adult patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [see Clinical Studies (14.1)].
+Both adult and adolescent patients who respond acutely should generally be maintained on their effective dose beyond the acute episode.
+Patients should be periodically reassessed to determine the need for maintenance treatment.
 
 Reinitiation of Treatment in Patients Previously Discontinued
 
-Although there are no data to specifically address reinitiation of treatment, it is recommended that after an interval off risperidone, the initial titration schedule should be followed.
+Although there are no data to specifically address reinitiation of treatment, it is recommended that after an interval off risperidone orally disintegrating tablets, the initial titration schedule should be followed.
 
 Switching From Other Antipsychotics
 
-There are no systematically collected data to specifically address switching schizophrenic patients from other antipsychotics to risperidone, or treating patients with concomitant antipsychotics.
-While immediate discontinuation of the previous antipsychotic treatment may be acceptable for some schizophrenic patients, more gradual discontinuation may be most appropriate for others.
-The period of overlapping antipsychotic administration should be minimized.
-When switching schizophrenic patients from depot antipsychotics, initiate risperidone therapy in place of the next scheduled injection.
-The need for continuing existing EPS medication should be re-evaluated periodically.
+There are no systematically collected data to specifically address switching schizophrenic patients from other antipsychotics to risperidone orally disintegrating tablets, or treating patients with concomitant antipsychotics.
 
 ## 2.2 Bipolar Mania
 
@@ -43,66 +59,61 @@ Usual Dose
 
 Adults
 
-Risperidone should be administered on a once-daily schedule, starting with 2 mg to 3 mg per day.
-Dosage adjustments, if indicated, should occur at intervals of not less than 24 hours and in dosage increments/decrements of 1 mg per day, as studied in the short-term, placebo-controlled trials.
-In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1 to 6 mg per day [see Clinical Studies (14.2, 14.3)].
-Risperidone doses higher than 6 mg per day were not studied.
+The initial dose range is 2 mg to 3 mg per day.
+The dose may be adjusted at intervals of 24 hours or greater, in increments of 1 mg per day.
+The effective dose range is 1 mg to 6 mg per day, as studied in the short-term, placebo-controlled trials.
+In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1 mg to 6 mg per day [see Clinical Studies (14.2, 14.3)].
+Risperidone orally disintegrating tablets doses higher than 6 mg per day were not studied.
 
 Pediatrics
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with bipolar mania.
-Dosage and administration information for the treatment of pediatric patients with bipolar disorder is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+The initial dose is 0.5 mg once daily, administered as a single-daily dose in the morning or evening.
+The dose may be adjusted at intervals of 24 hours or greater, in increments of 0.5 mg or 1 mg per day, as tolerated, to the recommended target dose of 1 mg to 2.5 mg per day.
+Although efficacy has been demonstrated in studies of pediatric patients with bipolar mania at doses between 0.5 mg and 6 mg per day, no additional benefit was observed above 2.5 mg per day, and higher doses were associated with more adverse events.
+Doses higher than 6 mg per day have not been studied.
+
+Patients experiencing persistent somnolence may benefit from administering half the daily dose twice daily.
 
 Maintenance Therapy
 
 There is no body of evidence available from controlled trials to guide a clinician in the longer-term management of a patient who improves during treatment of an acute manic episode with risperidone orally disintegrating tablets.
-While it is generally agreed that pharmacological treatment beyond an acute response in mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the use of risperidone in such longer-term treatment (i.e., beyond 3 weeks).
-The physician who elects to use risperidone for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
+While it is generally agreed that pharmacological treatment beyond an acute response in mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the use of risperidone orally disintegrating tablets in such longer-term treatment (i.e., beyond 3 weeks).
+The physician who elects to use risperidone orally disintegrating tablets for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
 
 ## 2.3 Irritability Associated with Autistic Disorder – Pediatrics (Children and Adolescents)
-
-The safety and effectiveness of risperidone orally disintegrating tablets in pediatric patients with autistic disorder less than 5 years of age have not been established.
 
 The dosage of risperidone orally disintegrating tablets should be individualized according to the response and tolerability of the patient.
 The total daily dose of risperidone orally disintegrating tablets can be administered once daily, or half the total daily dose can be administered twice daily.
 
-Dosing should be initiated at 0.25 mg per day for patients < 20 kg and 0.5 mg per day for patients ≥ 20 kg.
-After a minimum of four days from treatment initiation, the dose may be increased to the recommended dose of 0.5 mg per day for patients < 20 kg and 1 mg per day for patients ≥ 20 kg.
-This dose should be maintained for a minimum of 14 days.
-In patients not achieving sufficient clinical response, dose increases may be considered at ≥ 2-week intervals in increments of 0.25 mg per day for patients < 20 kg or 0.5 mg per day for patients ≥ 20 kg.
-Caution should be exercised with dosage for smaller children who weigh less than 15 kg.
+For patients with body weight less than 20 kg, initiate dosing at 0.25 mg per day.
+For patients with body weight greater than or equal to 20 kg, initiate dosing at 0.5 mg per day.
+After a minimum of four days, the dose may be increased to the recommended dose of 0.5 mg per day for patients less than 20 kg and 1 mg per day for patients greater than or equal to 20 kg.
+Maintain this dose for a minimum of 14 days.
+In patients not achieving sufficient clinical response, the dose may be increased at intervals of 2 weeks or greater, in increments of 0.25 mg per day for patients less than 20 kg, or increments of 0.5 mg per day for patients greater than or equal to 20 kg.
+The effective dose range is 0.5 mg to 3 mg per day.
+No dosing data are available for children who weigh less than 15 kg.
 
-In clinical trials, 90% of patients who showed a response (based on at least 25% improvement on ABC-I, [see Clinical Studies (14.4)]) received doses of risperidone between 0.5 mg and 2.5 mg per day.
-The maximum daily dose of risperidone in one of the pivotal trials, when the therapeutic effect reached plateau, was 1 mg in patients < 20 kg, 2.5 mg in patients ≥ 20 kg, or 3 mg in patients > 45 kg.
-No dosing data is available for children who weighed less than 15 kg.
-
-Once sufficient clinical response has been achieved and maintained, consideration should be given to gradually lowering the dose to achieve the optimal balance of efficacy and safety.
-The physician who elects to use risperidone for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
+Once sufficient clinical response has been achieved and maintained, consider gradually lowering the dose to achieve the optimal balance of efficacy and safety.
+The physician who elects to use risperidone orally disintegrating tablets for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
 
 Patients experiencing persistent somnolence may benefit from a once-daily dose administered at bedtime or administering half the daily dose twice daily, or a reduction of the dose.
 
-## 2.4 Dosage in Special Populations
+## 2.4 Dosing in Patients with Severe Renal or Hepatic Impairment
 
-The recommended initial dose is 0.5 mg twice daily in patients who are elderly or debilitated, patients with severe renal or hepatic impairment, and patients either predisposed to hypotension or for whom hypotension would pose a risk.
-Dosage increases in these patients should be in increments of no more than 0.5 mg twice daily.
-Increases to dosages above 1.5 mg twice daily should generally occur at intervals of at least 1 week.
-In some patients, slower titration may be medically appropriate.
+For patients with severe renal impairment (CLcr < 30 mL/min) or hepatic impairment (10 to 15 points on Child Pugh System), the initial starting dose is 0.5 mg twice daily.
+The dose may be increased in increments of 0.5 mg or less, administered twice daily.
+For doses above 1.5 mg twice daily, increase in intervals of one week or greater [see Use in Specific Populations (8.6 and 8.7)].
 
-Elderly or debilitated patients, and patients with renal impairment, may have less ability to eliminate risperidone orally disintegrating tablets than normal adults.
-Patients with impaired hepatic function may have increases in the free fraction of risperidone orally disintegrating tablets, possibly resulting in an enhanced effect [see Clinical Pharmacology (12.3)].
-Patients with a predisposition to hypotensive reactions or for whom such reactions would pose a particular risk likewise need to be titrated cautiously and carefully monitored [see Warnings and Precautions (5.2, 5.7, 5.16)].
-If a once-daily dosing regimen in the elderly or debilitated patient is being considered, it is recommended that the patient be titrated on a twice-daily regimen for 2 to 3 days at the target dose.
-Subsequent switches to a once-daily dosing regimen can be done thereafter.
+## 2.5 Dose Adjustments for Specific Drug Interactions
 
-## 2.5 Co-Administration of Risperidone with Certain Other Medications
+When risperidone orally disintegrating tablets is co-administered with enzyme inducers (e.g., carbamazepine), the dose of risperidone orally disintegrating tablets should be increased up to double the patient’s usual dose.
+It may be necessary to decrease the risperidone orally disintegrating tablets dose when enzyme inducers such as carbamazepine are discontinued [see Drug Interactions (7.1)].
+Similar effect may be expected with co-administration of risperidone orally disintegrating tablets with other enzyme inducers (e.g., phenytoin, rifampin, and phenobarbital).
 
-Co-administration of carbamazepine and other enzyme inducers (e.g., phenytoin, rifampin, phenobarbital) with risperidone orally disintegrating tablets would be expected to cause decreases in the plasma concentrations of the sum of risperidone orally disintegrating tablets and 9-hydroxyrisperidone combined, which could lead to decreased efficacy of risperidone treatment.
-The dose of risperidone orally disintegrating tablets needs to be titrated accordingly for patients receiving these enzyme inducers, especially during initiation or discontinuation of therapy with these inducers [see Drug Interactions (7.11)].
-
-Fluoxetine and paroxetine have been shown to increase the plasma concentration of risperidone 2.5 to 2.8 fold and 3 to 9 fold, respectively.
-Fluoxetine did not affect the plasma concentration of 9-hydroxyrisperidone.
-Paroxetine lowered the concentration of 9-hydroxyrisperidone by about 10%.
-The dose of risperidone orally disintegrating tablets needs to be titrated accordingly when fluoxetine or paroxetine is co-administered [see Drug Interactions (7.10)].
+When fluoxetine or paroxetine is co-administered with risperidone orally disintegrating tablets, the dose of risperidone orally disintegrating tablets should be reduced.
+The risperidone orally disintegrating tablets dose should not exceed 8 mg per day in adults when co-administered with these drugs.
+When initiating therapy, risperidone orally disintegrating tablets should be titrated slowly.
+It may be necessary to increase the risperidone orally disintegrating tablets dose when enzyme inhibitors such as fluoxetine or paroxetine are discontinued [see Drug Interactions (7.1)].
 
 ## 2.7 Directions for Use of Risperidone Orally Disintegrating Tablets
 
@@ -110,9 +121,9 @@ Tablet Accessing
 
 Risperidone orally disintegrating tablets 0.5 mg, 1 mg, 2 mg, 3 mg and 4 mg
 
-Risperidone orally disintegrating tablets 0.5 mg, 1 mg and 2 mg are supplied in bottles and unit-dose pouch packs.
+Risperidone orally disintegrating tablets 0.5 mg, 1 mg, and 2 mg are supplied in bottles and unit-dose pouch packs.
 
-Risperidone orally disintegrating tablets 3 mg and 4 mg are supplied in bottles and unit-dose blister or unit-dose pouch packs.
+Risperidone orally disintegrating tablets 3 mg and 4 mg are supplied in bottles and blister or unit-dose pouch packs.
 
 The child-resistant pouch should be torn open at the notch to access the blister.
 Do not open the blister until ready to administer.
@@ -122,6 +133,6 @@ DO NOT push the tablet through the foil, because this could damage the tablet.
 Tablet Administration
 
 Using dry hands, remove the tablet from the blister or pouch and immediately place the entire risperidone orally disintegrating tablet on the tongue.
-The risperidone orally disintegrating tablet should be consumed immediately, as the tablet cannot stored once removed from the blister unit or pouch.
+The risperidone orally disintegrating tablet should be consumed immediately, as the tablet cannot be stored once removed from the blister or pouch.
 Risperidone orally disintegrating tablets disintegrate in the mouth within seconds and can be swallowed subsequently with or without liquid.
 Patients should not attempt to split or to chew the tablet.
