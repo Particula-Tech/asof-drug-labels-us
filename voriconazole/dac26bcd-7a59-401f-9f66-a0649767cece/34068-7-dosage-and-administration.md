@@ -6,7 +6,7 @@ VFEND I.V. for Injection requires reconstitution to 10 mg/mL and subsequent dilu
 
 Do not administer as an IV bolus injection.
 
-## 2.2 Use of VFEND I.V. with other Parenteral Drug Products
+## 2.2 Use of VFEND I.V. With Other Parenteral Drug Products
 
 Blood products and concentrated electrolytes
 
@@ -31,9 +31,9 @@ Therapy must be initiated with the specified loading dose regimen of intravenous
 Intravenous treatment should be continued for at least 7 days.
 Once the patient has clinically improved and can tolerate medication given by mouth, the oral tablet form or oral suspension form of VFEND may be utilized.
 The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg IV; a 300 mg oral dose achieves an exposure similar to 4 mg/kg IV.
-Switching between the intravenous and oral formulations is appropriate because of the high bioavailabilty of the oral formulation in adults [see Clinical Pharmacology (12)].
+Switching between the intravenous and oral formulations is appropriate because of the high bioavailability of the oral formulation in adults [see Clinical Pharmacology (12)].
 
-Candidemia in nonneutropenic patients and other deep tissue Candida infections
+Candidemia in non-neutropenic patients and other deep tissue Candida infections
 
 See Table 1.
 Patients should be treated for at least 14 days following resolution of symptoms or following last positive culture, whichever is longer.
@@ -43,7 +43,7 @@ Esophageal Candidiasis
 See Table 1.
 Patients should be treated for a minimum of 14 days and for at least 7 days following resolution of symptoms.
 
-Table 1 Recommended Dosing Regimen
+Table 1: Recommended Dosing Regimen
 
 |  | IV | IV | OralAdult patients who weigh less than 40 kg should receive half of the oral maintenance dose. |
 | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ If patient is unable to tolerate 4 mg/kg IV q12h, reduce the intravenous mainten
 
 The maintenance dose of voriconazole should be increased when co-administered with phenytoin or efavirenz [see Drug Interactions (7)].
 
-The maintenance dose of voriconazole should be reduced in patients with mild to moderate hepatic impairment, Child-Pugh Class A and B [see Use in Patients with Hepatic Impairment (2.7)].
+The maintenance dose of voriconazole should be reduced in patients with mild to moderate hepatic impairment, Child-Pugh Class A and B [see Dosage and Administration (2.7)].
 There are no PK data to allow for dosage adjustment recommendations in patients with severe hepatic impairment (Child-Pugh Class C).
 
 Duration of therapy should be based on the severity of the patient's underlying disease, recovery from immunosuppression, and clinical response.
@@ -90,7 +90,7 @@ Therefore, the required volume of the 10 mg/mL VFEND concentrate should be furth
 
 The final VFEND solution must be infused over 1–2 hours at a maximum rate of 3 mg/kg per hour.
 
-Table 2 Required Volumes of 10 mg/mL VFEND Concentrate
+Table 2: Required Volumes of 10 mg/mL VFEND Concentrate
 
 | Body Weight (kg) | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) |
 | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ The mildly alkaline nature of this diluent caused slight degradation of VFEND af
 Although refrigerated storage is recommended following reconstitution, use of this diluent is not recommended as a precautionary measure.
 Compatibility with other concentrations is unknown.
 
-## 2.6 Use in Patients with Hepatic Impairment
+## 2.6 Use in Patients With Hepatic Impairment
 
 In the clinical program, patients were included who had baseline liver function tests (ALT, AST) up to 5 times the upper limit of normal.
 No dose adjustment is necessary in patients with this degree of abnormal liver function, but continued monitoring of liver function tests for further elevations is recommended [see Warnings and Precautions (5.9)].
@@ -143,7 +143,7 @@ VFEND has not been studied in patients with severe hepatic cirrhosis (Child-Pugh
 VFEND has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
 Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
 
-## 2.7 Use in Patients with Renal Impairment
+## 2.7 Use in Patients With Renal Impairment
 
 The pharmacokinetics of orally administered VFEND are not significantly affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing in patients with mild to severe renal impairment [see Clinical Pharmacology (12.3)].

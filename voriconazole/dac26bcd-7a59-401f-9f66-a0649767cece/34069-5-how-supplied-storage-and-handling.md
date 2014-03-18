@@ -20,6 +20,6 @@ Chemical and physical in-use stability has been demonstrated for 24 hours at 2°
 This medicinal product is for single use only and any unused solution should be discarded.
 Only clear solutions without particles should be used [see Dosage and Administration (2.1)].
 
-LAB-0509-2.0
+LAB-0509-3.0
 
-June 2011
+December 2011
