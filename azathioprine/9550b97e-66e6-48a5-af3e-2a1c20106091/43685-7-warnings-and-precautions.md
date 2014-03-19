@@ -43,11 +43,11 @@ Leukopenia does not correlate with therapeutic effect; therefore the dose should
 ## Serious infections
 
 Patients receiving immunosuppressants, including Imuran, are at increased risk for bacterial, viral, fungal, protozoal, and opportunistic infections, including reactivation of latent infections.
-These infections may lead to serious, including fatal outcomes.
+These infections may lead to serious, including fatal, outcomes.
 
-Progressive Multifocal leukoencphalopathy
+Progressive Multifocal Leukoencephalopathy
 
-Cases of JC virus-associated infection resulting in progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppresants, including Imuran.
+Cases of JC virus-associated infection resulting in progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including Imuran.
 Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
 Consider the diagnosis of PML in any patient presenting with new-onset neurological manifestations and consider consultation with a neurologist as clinically indicated.
 Consider reducing the amount of immunosuppression in patients who develop PML.
