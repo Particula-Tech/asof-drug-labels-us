@@ -34,7 +34,15 @@ Patients who develop abnormal liver function tests during posaconazole therapy s
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
 Discontinuation of posaconazole must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to posaconazole.
 
-## 5.4 Use with Midazolam
+## 5.4 Renal Impairment
+
+Due to the variability in exposure with Noxafil delayed-release tablets and oral suspension, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
+
+Noxafil injection should be avoided in patients with moderate or severe renal impairment (eGFR <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of Noxafil injection.
+In patients with moderate or severe renal impairment (eGFR <50 mL/min), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
+Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
+
+## 5.5 Use with Midazolam
 
 Concomitant administration of Noxafil with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.

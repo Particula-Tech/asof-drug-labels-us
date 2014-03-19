@@ -11,7 +11,61 @@ The following serious and otherwise important adverse reactions are discussed in
 ## 6.2 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of Noxafil cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-In clinical trials, the type of adverse reactions reported for posaconazole delayed-release tablets were generally similar to that reported in trials of posaconazole oral suspension.
+In clinical trials, the type of adverse reactions reported for posaconazole injection and posaconazole delayed-release tablets were generally similar to that reported in trials of posaconazole oral suspension.
+
+Clinical Trial Experience with Posaconazole Injection
+
+Multiple doses of posaconazole injection administered via a peripheral venous catheter were associated with thrombophlebitis (60% incidence).
+Therefore, in subsequent studies, posaconazole injection was administered via central venous catheter.
+
+The safety of posaconazole injection has been assessed in 268 patients in a clinical trial.
+Patients were enrolled in a non-comparative pharmacokinetic and safety trial of posaconazole injection when given as antifungal prophylaxis (Posaconazole Injection Study 1).
+Patients were immunocompromised with underlying conditions including hematological malignancy, neutropenia post-chemotherapy, GVHD, and post HSCT.
+This patient population was 55% male, had a mean age of 51 years (range 18-82 years, 19% of patients were ≥65 years of age), and were 95% white and 8% Hispanic.
+Ten patients received a single dose of 200 mg posaconazole injection, 21 patients received 200 mg daily dose for a median of 14 days, and 237 patients received 300 mg daily dose for a median of 9 days.
+
+Table 4 presents treatment-emergent adverse reactions observed in patients treated with posaconazole injection 300 mg daily dose in the posaconazole injection study.
+Each patient received a loading dose, 300 mg twice on Day 1.
+Following posaconazole intravenous therapy, patients received posaconazole oral suspension to complete 28 days of total posaconazole therapy.
+
+Table 4: Posaconazole Injection Study 1: Number (%) of Subjects Treated with Posaconazole Injection 300 mg Daily Dose Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10%
+
+| Body System Preferred Term | Posaconazole Injection Treatment Phase n=237 (%)Adverse reactions reported in patients with an onset during the posaconazole intravenous dosing phase of the study. |  | Posaconazole Injection Treatment Phase or Subsequent Oral Suspension Treatment Phase n=237(%)Adverse reactions reported with an onset at any time during the study in patients who were treated for up to 28 days of posaconazole therapy. |  |
+| --- | --- | --- | --- | --- |
+| Subjects Reporting any Adverse Reaction | 220 | (93) | 235 | (99) |
+| Blood and Lymphatic System Disorder |  |  |  |  |
+| Anemia | 16 | (7) | 23 | (10) |
+| Thrombocytopenia | 17 | (7) | 25 | (11) |
+| Gastrointestinal Disorders |  |  |  |  |
+| Abdominal Pain Upper | 15 | (6) | 25 | (11) |
+| Abdominal Pain | 30 | (13) | 41 | (17) |
+| Constipation | 18 | (8) | 31 | (13) |
+| Diarrhea | 75 | (32) | 93 | (39) |
+| Nausea | 46 | (19) | 70 | (30) |
+| Vomiting | 29 | (12) | 45 | (19) |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Fatigue | 19 | (8) | 24 | (10) |
+| Chills | 28 | (12) | 38 | (16) |
+| Edema Peripheral | 28 | (12) | 35 | (15) |
+| Pyrexia | 49 | (21) | 73 | (31) |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased appetite | 23 | (10) | 29 | (12) |
+| Hypokalemia | 51 | (22) | 67 | (28) |
+| Hypomagnesemia | 25 | (11) | 30 | (13) |
+| Nervous System Disorders |  |  |  |  |
+| Headache | 33 | (14) | 49 | (21) |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough | 21 | (9) | 31 | (13) |
+| Dyspnea | 16 | (7) | 24 | (10) |
+| Epistaxis | 34 | (14) | 40 | (17) |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
+| Petechiae | 20 | (8) | 24 | (10) |
+| Rash | 35 | (15) | 56 | (24) |
+| Vascular Disorders |  |  |  |  |
+| Hypertension | 20 | (8) | 26 | (11) |
+
+The most frequently reported adverse reactions with an onset during the posaconazole intravenous phase of dosing with 300 mg once daily were diarrhea (32%), hypokalemia (22%), pyrexia (21%), and nausea (19%).
+These adverse reactions were consistent with those seen in studies with Noxafil oral suspension.
 
 Clinical Trial Experience with Posaconazole Delayed-Release Tablets
 
@@ -20,10 +74,10 @@ Patients were enrolled in a non-comparative pharmacokinetic and safety trial of 
 Patients were immunocompromised with underlying conditions including hematological malignancy, neutropenia post-chemotherapy, GVHD, and post HSCT.
 This patient population was 62% male, had a mean age of 51 years (range 19-78 years, 17% of patients were ≥65 years of age), and were 93% white and 16% Hispanic.
 Posaconazole therapy was given for a median duration of 28 days.
-Twenty patients received 200 mg daily dose and 210 patients received 300 mg daily dose (following BID dosing on Day 1 in each cohort).
-Table 3 presents treatment-emergent adverse reactions observed in patients treated with 300 mg daily dose at an incidence of ≥10% in posaconazole delayed-release tablet study.
+Twenty patients received 200 mg daily dose and 210 patients received 300 mg daily dose (following twice daily dosing on Day 1 in each cohort).
+Table 5 presents treatment-emergent adverse reactions observed in patients treated with 300 mg daily dose at an incidence of ≥10% in posaconazole delayed-release tablet study.
 
-Table 3: Posaconazole Delayed-Release Tablet Study 1: Number (%) of Subjects Treated with 300 mg Daily Dose Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10%
+Table 5: Posaconazole Delayed-Release Tablet Study 1: Number (%) of Subjects Treated with 300 mg Daily Dose Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10%
 
 | Body System Preferred Term | Posaconazole delayed-release tablet (300 mg) (n=210) |  |
 | --- | --- | --- |
@@ -31,7 +85,7 @@ Table 3: Posaconazole Delayed-Release Tablet Study 1: Number (%) of Subjects Tre
 | Blood and Lymphatic System Disorder |  |  |
 | Anemia | 22 | (10) |
 | Thrombocytopenia | 29 | (14) |
-| Gastrointestinal Disorder |  |  |
+| Gastrointestinal Disorders |  |  |
 | Abdominal Pain | 23 | (11) |
 | Constipation | 20 | (10) |
 | Diarrhea | 61 | (29) |
@@ -67,8 +121,8 @@ This includes 605 patients in the active-controlled prophylaxis studies, 557 pat
 This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy, neutropenia post-chemotherapy, GVHD post HSCT, and HIV infection, as well as non-neutropenic patients.
 This patient population was 71% male, had a mean age of 42 years (range 8-84 years, 6% of patients were ≥65 years of age and 1% was <18 years of age), and were 64% white, 16% Hispanic, and 36% non-white (including 14% black).
 Posaconazole therapy was given to 171 patients for ≥6 months, with 58 patients receiving posaconazole therapy for ≥12 months.
-Table 4 presents treatment-emergent adverse reactions observed at an incidence of >10% in posaconazole prophylaxis studies.
-Table 5 presents treatment-emergent adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
+Table 6 presents treatment-emergent adverse reactions observed at an incidence of >10% in posaconazole prophylaxis studies.
+Table 7 presents treatment-emergent adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
 
 Prophylaxis of Aspergillus and Candida: In the 2 randomized, comparative prophylaxis studies (Oral Suspension Studies 1 and 2), the safety of posaconazole oral suspension 200 mg three times a day was compared to fluconazole 400 mg once daily or itraconazole 200 mg twice a day in severely immunocompromised patients.
 
@@ -76,7 +130,7 @@ The most frequently reported adverse reactions (>30%) in the prophylaxis clinica
 
 The most common adverse reactions leading to discontinuation of posaconazole in the prophylaxis studies were associated with GI disorders, specifically, nausea (2%), vomiting (2%), and hepatic enzymes increased (2%).
 
-Table 4: Posaconazole Oral Suspension Study 1 and Study 2.
+Table 6: Posaconazole Oral Suspension Study 1 and Study 2.
 Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10% in the Posaconazole Oral Suspension or Fluconazole Treatment Groups (Pooled Prophylaxis Safety Analysis)
 
 | Body System Preferred Term | Posaconazole (n=605) |  | Fluconazole (n=539) |  | Itraconazole (n=58) |  |
@@ -145,7 +199,7 @@ In the OPC/rOPC studies, the most common adverse reactions were fever, diarrhea,
 The most common adverse reactions that led to treatment discontinuation of posaconazole in the Controlled OPC Pool included respiratory impairment (1%) and pneumonia (1%).
 In the refractory OPC pool, the most common adverse reactions that led to treatment discontinuation of posaconazole were AIDS (7%) and respiratory impairment (3%).
 
-Table 5: Treatment-Emergent Adverse Reactions with Frequency of at Least 10% in OPC Studies with Posaconazole Oral Suspension (Treated Population)
+Table 7: Treatment-Emergent Adverse Reactions with Frequency of at Least 10% in OPC Studies with Posaconazole Oral Suspension (Treated Population)
 
 | n=557 | n=262 | n=239 |  |
 | --- | --- | --- | --- |
@@ -205,9 +259,9 @@ Less Common Adverse Reactions: Clinically significant adverse reactions reported
 
 Clinical Laboratory Values: In healthy volunteers and patients, elevation of liver function test values did not appear to be associated with higher plasma concentrations of posaconazole.
 
-For the prophylaxis studies, the number of patients with changes in liver function tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 6.
+For the prophylaxis studies, the number of patients with changes in liver function tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 8.
 
-Table 6: Posaconazole Oral Suspension Study 1 and Study 2.
+Table 8: Posaconazole Oral Suspension Study 1 and Study 2.
 Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
 
 | Number (%) of Patients With ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. |  |  |
@@ -227,9 +281,9 @@ Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to 
 | CTC = Common Toxicity Criteria; AST= Aspartate Aminotransferase; |  |  |
 | ALT= Alanine Aminotransferase. |  |  |
 
-The number of patients treated for OPC with clinically significant liver function test (LFT) abnormalities at any time during the studies is provided in Table 7 (LFT abnormalities were present in some of these patients prior to initiation of the study drug).
+The number of patients treated for OPC with clinically significant liver function test (LFT) abnormalities at any time during the studies is provided in Table 9 (LFT abnormalities were present in some of these patients prior to initiation of the study drug).
 
-Table 7: Posaconazole Oral Suspension Studies: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
+Table 9: Posaconazole Oral Suspension Studies: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
 
 | n=557(%) | n=262(%) | n=239(%) |  |
 | --- | --- | --- | --- |

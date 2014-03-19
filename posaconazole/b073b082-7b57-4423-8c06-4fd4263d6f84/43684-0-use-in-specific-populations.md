@@ -19,21 +19,28 @@ Because of the potential for serious adverse reactions from Noxafil in nursing i
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of Noxafil injection in pediatric patients below the age of 18 years of age has not been established.
+Noxafil injection should not be used in pediatric patients because of nonclinical safety concerns [see Nonclinical Toxicology (13.2)].
+
 The safety and effectiveness of posaconazole oral suspension and posaconazole delayed-release tablets have been established in the age groups 13 to 17 years of age.
 Use of posaconazole in these age groups is supported by evidence from adequate and well-controlled studies of posaconazole in adults.
 The safety and effectiveness of posaconazole in pediatric patients below the age of 13 years have not been established.
 
 A total of 12 patients 13 to 17 years of age received 600 mg/day (200 mg three times a day) of posaconazole oral suspension for prophylaxis of invasive fungal infections.
 The safety profile in these patients <18 years of age appears similar to the safety profile observed in adults.
-Based on pharmacokinetic data in 10 of these pediatric patients, the mean steady-state average posaconazole concentration (Cav) was similar between these patients and adults (≥18 years of age).
+Based on pharmacokinetic data in 10 of these pediatric patients, the mean steady-state average posaconazole concentration (Cavg) was similar between these patients and adults (≥18 years of age).
 
 A total of 16 patients 8 to 17 years of age were treated with 800 mg/day (400 mg twice a day or 200 mg four times a day) of posaconazole oral suspension in a study for another indication.
-Based on pharmacokinetic data in 12 of these pediatric patients, the mean steady-state average posaconazole concentration (Cav) was similar between these patients and adults (≥18 years of age).
+Based on pharmacokinetic data in 12 of these pediatric patients, the mean steady-state average posaconazole concentration (Cavg) was similar between these patients and adults (≥18 years of age).
 
-In the prophylaxis studies, the mean steady-state posaconazole average concentration (Cav) was similar among ten adolescents (13 to 17 years of age) and adults (≥18 years of age).
-This is consistent with pharmacokinetic data from another study in which mean steady-state posaconazole Cav from 12 adolescent patients (8-17 years of age) was similar to that in the adults (≥18 years of age).
+In the prophylaxis studies, the mean steady-state posaconazole average concentration (Cavg) was similar among ten adolescents (13 to 17 years of age) and adults (≥18 years of age).
+This is consistent with pharmacokinetic data from another study in which mean steady-state posaconazole Cavg from 12 adolescent patients (8 to 17 years of age) was similar to that in the adults (≥18 years of age).
 
 ## 8.5 Geriatric Use
+
+Of the 279 patients treated with posaconazole injection, 52 (19%) were greater than 65 years of age.
+The pharmacokinetics of posaconazole injection are comparable in young and elderly subjects.
+No overall differences in safety were observed between the geriatric patients and younger patients; therefore, no dosage adjustment is recommended for Noxafil injection in geriatric patients.
 
 Of the 230 patients treated with posaconazole delayed-release tablets, 38 (17%) were greater than 65 years of age.
 The pharmacokinetics of posaconazole delayed-release tablets are comparable in young and elderly subjects.
@@ -41,17 +48,22 @@ No overall differences in safety were observed between the geriatric patients an
 
 Of the 605 patients randomized to posaconazole oral suspension in the prophylaxis clinical trials, 63 (10%) were ≥65 years of age.
 In addition, 48 patients treated with greater than or equal to 800-mg/day posaconazole in another indication were ≥65 years of age.
-No overall differences in safety were observed between the geriatric patients and younger patients; therefore, no dosage adjustment is recommended for geriatric patients.
-The pharmacokinetics of posaconazole oral suspension are comparable in young and elderly subjects (≥65 years of age).
-No adjustment in the dosage of Noxafil is necessary in elderly patients (≥65 years of age) based on age.
+No overall differences in safety were observed between the geriatric patients and younger patients.
+
+The pharmacokinetics of posaconazole oral suspension are comparable in young and elderly subjects (≥65 years of age); therefore no adjustment in the dosage of Noxafil oral suspension is necessary in geriatric patients.
+
 No overall differences in the pharmacokinetics and safety were observed between elderly and young subjects during clinical trials, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
-Following single-dose administration of 400 mg of the oral suspension, there was no significant effect of mild (CLcr: 50-80 mL/min/1.73 m2, n=6) or moderate (CLcr: 20-49 mL/min/1.73 m2, n=6) renal impairment on posaconazole pharmacokinetics; therefore, no dose adjustment is required in patients with mild to moderate renal impairment.
-In subjects with severe renal impairment (CLcr: <20 mL/min/1.73 m2), the mean plasma exposure (AUC) was similar to that in patients with normal renal function (CLcr: >80 mL/min/1.73 m2); however, the range of the AUC estimates was highly variable (CV=96%) in these subjects with severe renal impairment as compared to that in the other renal impairment groups (CV<40%).
+Following single-dose administration of 400 mg of the oral suspension, there was no significant effect of mild (eGFR: 50-80 mL/min/1.73 m2, n=6) or moderate (eGFR: 20-49 mL/min/1.73 m2, n=6) renal impairment on posaconazole pharmacokinetics; therefore, no dose adjustment is required in patients with mild to moderate renal impairment.
+In subjects with severe renal impairment (eGFR: <20 mL/min/1.73 m2), the mean plasma exposure (AUC) was similar to that in patients with normal renal function (eGFR: >80 mL/min/1.73 m2); however, the range of the AUC estimates was highly variable (CV=96%) in these subjects with severe renal impairment as compared to that in the other renal impairment groups (CV<40%).
 Due to the variability in exposure, patients with severe renal impairment should be monitored closely for breakthrough fungal infections [see Dosage and Administration (2)].
 Similar recommendations apply to posaconazole delayed-release tablets; however, a specific study has not been conducted with the delayed-release tablets.
+
+Noxafil injection should be avoided in patients with moderate or severe renal impairment (eGFR <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of Noxafil injection.
+In patients with moderate or severe renal impairment (eGFR <50 mL/min), receiving the Noxafil injection, accumulation of the intravenous vehicle, SBECD, is expected to occur.
+Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral Noxafil therapy [see Dosage and Administration (2.5) and Warnings and Precautions (5.4)].
 
 ## 8.7 Hepatic Impairment
 
@@ -62,6 +74,8 @@ The elimination half-life (t½) was 27 hours, 39 hours, 27 hours, and 43 hours i
 
 It is recommended that no dose adjustment of Noxafil is needed in patients with mild to severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2) and Warnings and Precautions (5.3)].
 Similar recommendations apply to posaconazole delayed-release tablets; however, a specific study has not been conducted with the delayed-release tablets.
+
+Similar recommendations apply to posaconazole injection; however, a specific study has not been conducted with the posaconazole injection.
 
 ## 8.8 Gender
 

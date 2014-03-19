@@ -29,3 +29,17 @@ Each tablet contains 100 mg posaconazole.
 Rx only
 
 60 Tablets
+
+# PRINCIPAL DISPLAY PANEL - 300 mg Vial Carton
+
+NDC 0085-4331-01
+
+Noxafil® (posaconazole) Injection
+
+300 mg/16.7 mL (18 mg/mL)
+
+For Intravenous Use Only
+
+Requires further dilution prior to infusion.
+
+Rx only Single-Dose Vial

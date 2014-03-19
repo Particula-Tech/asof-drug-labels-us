@@ -1,12 +1,15 @@
 # 7 DRUG INTERACTIONS
 
-Posaconazole is primarily metabolized via UDP glucuronidation and is a substrate of p-glycoprotein efflux.
+Posaconazole is primarily metabolized via UDP glucuronosyltransferase and is a substrate of p-glycoprotein (P-gp) efflux.
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
 Coadministration of drugs that can decrease the plasma concentrations of posaconazole should generally be avoided unless the benefit outweighs the risk.
 If such drugs are necessary, patients should be monitored closely for breakthrough fungal infections.
 
 Posaconazole is also a strong inhibitor of CYP3A4.
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole [see Clinical Pharmacology (12.3)].
+
+The following information was derived from data with posaconazole oral suspension or early tablet formulation.
+All drug interactions with posaconazole oral suspension, except for those that affect the absorption of posaconazole (via gastric pH and motility) are considered relevant to posaconazole injection as well [see Drug Interactions (7.9) and (7.13)].
 
 ## 7.1 Immunosuppressants Metabolized by CYP3A4
 
@@ -42,7 +45,7 @@ Therefore, posaconazole is contraindicated with ergot alkaloids [see Contraindic
 Concomitant administration of posaconazole with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
 Concomitant use of posaconazole and other benzodiazepines metabolized by CYP3A4 (e.g., alprazolam, triazolam) could result in increased plasma concentrations of these benzodiazepines.
-Patients must be monitored closely for adverse effects associated with high plasma concentrations of benzodiazepines metabolized by CYP3A4 and benzodiazepine receptor antagonists must be available to reverse these effects [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+Patients must be monitored closely for adverse effects associated with high plasma concentrations of benzodiazepines metabolized by CYP3A4 and benzodiazepine receptor antagonists must be available to reverse these effects [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].
 
 ## 7.6 Anti-HIV Drugs
 
@@ -116,7 +119,7 @@ Posaconazole Oral Suspension:
 Metoclopramide, when given with posaconazole oral suspension, decreases posaconazole plasma concentrations [see Clinical Pharmacology (12.3)].
 If metoclopramide is concomitantly administered with posaconazole oral suspension, it is recommended to closely monitor for breakthrough fungal infections.
 
-Loperamide does not affect posaconazole plasma concentrations [see Clinical Pharmacology (12.3)].
+Loperamide does not affect posaconazole plasma concentrations after posaconazole oral suspension administration [see Clinical Pharmacology (12.3)].
 No dosage adjustment of posaconazole is required when loperamide and posaconazole are used concomitantly.
 
 ## 7.14 Glipizide

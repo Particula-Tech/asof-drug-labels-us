@@ -7,9 +7,15 @@
   "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0085-1328-01",
-    "0085-4324-02"
+    "0085-4324-02",
+    "0085-4331-01"
   ],
   "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "posaconazole",
+      "name": "NOXAFIL"
+    },
     {
       "form": "SUSPENSION",
       "generic": "posaconazole",

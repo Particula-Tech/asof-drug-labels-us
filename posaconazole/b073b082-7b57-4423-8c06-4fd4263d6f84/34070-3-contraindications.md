@@ -2,7 +2,7 @@
 
 ## 4.1 Hypersensitivity
 
-Noxafil is contraindicated in persons with known hypersensitivity to posaconazole, any component of Noxafil, or other azole antifungal agents.
+Noxafil is contraindicated in persons with known hypersensitivity to posaconazole or other azole antifungal agents.
 
 ## 4.2 Use with Sirolimus
 

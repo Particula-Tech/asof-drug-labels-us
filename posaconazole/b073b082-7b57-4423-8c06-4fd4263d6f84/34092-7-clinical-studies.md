@@ -8,9 +8,9 @@ The first study (Oral Suspension Study 1) was a randomized, double-blind trial t
 Efficacy of prophylaxis was evaluated using a composite endpoint of proven/probable IFIs, death, or treatment with systemic antifungal therapy (patients may have met more than one of these criteria).
 This assessed all patients while on study therapy plus 7 days and at 16 weeks post-randomization.
 The mean duration of therapy was comparable between the 2 treatment groups (80 days, posaconazole; 77 days, fluconazole).
-Table 17 contains the results from Oral Suspension Study 1.
+Table 21 contains the results from Oral Suspension Study 1.
 
-Table 17: Results from Blinded Clinical Study in Prophylaxis of IFI in All Randomized Patients with Hematopoietic Stem Cell Transplant (HSCT) and Graft-vs.-Host Disease (GVHD): Oral Suspension Study 1
+Table 21: Results from Blinded Clinical Study in Prophylaxis of IFI in All Randomized Patients with Hematopoietic Stem Cell Transplant (HSCT) and Graft-vs.-Host Disease (GVHD): Oral Suspension Study 1
 
 |  | Posaconazole n=301 | Fluconazole n=299 |
 | --- | --- | --- |
@@ -40,9 +40,9 @@ The second study (Oral Suspension Study 2) was a randomized, open-label study th
 As in Oral Suspension Study 1, efficacy of prophylaxis was evaluated using a composite endpoint of proven/probable IFIs, death, or treatment with systemic antifungal therapy (Patients might have met more than one of these criteria).
 This study assessed patients while on treatment plus 7 days and 100 days postrandomization.
 The mean duration of therapy was comparable between the 2 treatment groups (29 days, posaconazole; 25 days, fluconazole or itraconazole).
-Table 18 contains the results from Oral Suspension Study 2.
+Table 22 contains the results from Oral Suspension Study 2.
 
-Table 18: Results from Open-Label Clinical Study 2 in Prophylaxis of IFI in All Randomized Patients with Hematologic Malignancy and Prolonged Neutropenia: Oral Suspension Study 2
+Table 22: Results from Open-Label Clinical Study 2 in Prophylaxis of IFI in All Randomized Patients with Hematologic Malignancy and Prolonged Neutropenia: Oral Suspension Study 2
 
 |  | Posaconazole n=304 | Fluconazole/Itraconazole n=298 |
 | --- | --- | --- |
@@ -69,8 +69,8 @@ Table 18: Results from Open-Label Clinical Study 2 in Prophylaxis of IFI in All 
 | Event free lost to follow-upPatients who are lost to follow-up (not observed for 100 days), and who did not meet another clinical failure endpoint. These patients were considered failures. | 34 (11%) | 24 (8%) |
 
 In summary, 2 clinical studies of prophylaxis were conducted with the posaconazole oral suspension.
-As seen in the accompanying tables (Tables 17 and 18), clinical failure represented a composite endpoint of breakthrough IFI, mortality and use of systemic antifungal therapy.
-In Oral Suspension Study 1 (Table 17), the clinical failure rate of posaconazole (33%) was similar to fluconazole (37%), (95% CI for the difference posaconazole–comparator -11.5% to 3.7%) while in Oral Suspension Study 2 (Table 18) clinical failure was lower for patients treated with posaconazole (27%) when compared to patients treated with fluconazole or itraconazole (42%), (95% CI for the difference posaconazole–comparator -22.9% to -7.8%).
+As seen in the accompanying tables (Tables 21 and 22), clinical failure represented a composite endpoint of breakthrough IFI, mortality and use of systemic antifungal therapy.
+In Oral Suspension Study 1 (Table 21), the clinical failure rate of posaconazole (33%) was similar to fluconazole (37%), (95% CI for the difference posaconazole–comparator -11.5% to 3.7%) while in Oral Suspension Study 2 (Table 22) clinical failure was lower for patients treated with posaconazole (27%) when compared to patients treated with fluconazole or itraconazole (42%), (95% CI for the difference posaconazole–comparator -22.9% to -7.8%).
 
 All-cause mortality was similar at 16 weeks for both treatment arms in Oral Suspension Study 1 [POS 58/301 (19%) vs. FLU 59/299 (20%)]; all-cause mortality was lower at 100 days for posaconazole-treated patients in Oral Suspension Study 2 [POS 44/304 (14%) vs. FLU/ITZ 64/298 (21%)].
 Both studies demonstrated substantially fewer breakthrough infections caused by Aspergillus species in patients receiving posaconazole prophylaxis when compared to patients receiving fluconazole or itraconazole.
@@ -81,14 +81,14 @@ Posaconazole Oral Suspension Study 3 was a randomized, controlled, evaluator-bli
 Patients were treated with posaconazole or fluconazole oral suspension (both posaconazole and fluconazole were given as follows: 100 mg twice a day for 1 day followed by 100 mg once a day for 13 days).
 
 Clinical and mycological outcomes were assessed after 14 days of treatment and at 4 weeks after the end of treatment.
-Patients who received at least 1 dose of study medication and had a positive oral swish culture of Candida species at baseline were included in the analyses (see Table 19).
+Patients who received at least 1 dose of study medication and had a positive oral swish culture of Candida species at baseline were included in the analyses (see Table 23).
 The majority of the subjects had C. albicans as the baseline pathogen.
 
-Clinical success at Day 14 (complete or partial resolution of all ulcers and/or plaques and symptoms) and clinical relapse rates (recurrence of signs or symptoms after initial cure or improvement) 4 weeks after the end of treatment were similar between the treatment arms (see Table 19).
+Clinical success at Day 14 (complete or partial resolution of all ulcers and/or plaques and symptoms) and clinical relapse rates (recurrence of signs or symptoms after initial cure or improvement) 4 weeks after the end of treatment were similar between the treatment arms (see Table 23).
 
-Mycologic eradication rates (absence of colony forming units in quantitative culture at the end of therapy, Day 14), as well as mycologic relapse rates (4 weeks after the end of treatment) were also similar between the treatment arms (see Table 19).
+Mycologic eradication rates (absence of colony forming units in quantitative culture at the end of therapy, Day 14), as well as mycologic relapse rates (4 weeks after the end of treatment) were also similar between the treatment arms (see Table 23).
 
-Table 19: Posaconazole Oral Suspension Clinical Success, Mycological Eradication, and Relapse Rates in Oropharyngeal Candidiasis
+Table 23: Posaconazole Oral Suspension Clinical Success, Mycological Eradication, and Relapse Rates in Oropharyngeal Candidiasis
 
 |  | Posaconazole | Fluconazole |
 | --- | --- | --- |
