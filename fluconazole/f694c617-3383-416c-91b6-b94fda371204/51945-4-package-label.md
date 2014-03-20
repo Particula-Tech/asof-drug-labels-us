@@ -28,31 +28,37 @@ DIFLUCAN® (Fluconazole Tablet)
 
 100 mg
 
-ROERIG DIV OF PFIZER INC, NY, NY 10017
+Distributed by ROERIG DIV OF PFIZER INC, NY, NY 10017 MADE IN USA (includes foreign content)
+
+13041200
 
 EXP & LOT AREA
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack Carton
 
-100 Tablets NDC 0049-3420-41
+UNIT DOSE
 
-DIFLUCAN® 100 (Fluconazole Tablets)
+Pfizer
+
+NDC 0049-3420-41
+
+DIFLUCAN® (Fluconazole Tablets)
 
 100 mg
 
 For in-institution use only
 
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+100 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 150 mg Tablet Blister Pack
 
-1 Blister x 1 Tablet * Due to Candida
+1 Blister x 1 Tablet *Due to Candida
 
 The easy ORAL cure for most vaginal yeast* infections
 
-Diflucan®150-mg (fluconazole tablet)
+Pfizer
 
-Rx only
+Diflucan® (fluconazole tablet) 150 mg
 
 Directions: Push tablet through foil and take by mouth
 
@@ -65,19 +71,19 @@ Some important things to know about Diflucan
 
 - Diflucan may be taken anytime—day or night, with or without meals—so you should take it by mouth immediately to ensure the earliest possible relief from the infection and its symptoms.
 
+Rx only
+
 *Due to Candida
 
 # PRINCIPAL DISPLAY PANEL - 12 x 150 mg Tablet Blister Pack Carton
 
-12 Blisters x 1 Tablet
+Pfizer
 
-NDC 0049-3500-79 Rx only
+NDC 0049-3500-79
 
-Diflucan®150-mg (fluconazole tablet)
+Diflucan® (fluconazole tablet) 150 mg
 
-Distributed by
-
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+12 Blisters x 1 Tablet Rx only
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
@@ -97,82 +103,84 @@ DIFLUCAN® (Fluconazole Tablet)
 
 200 mg
 
-ROERIG DIV OF PFIZER INC, NY, NY 10017
+Distributed by ROERIG DIV OF PFIZER INC, NY, NY 10017 MADE IN USA (includes foreign content)
+
+13041700
 
 EXP & LOT AREA
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Tablet Blister Pack Carton
 
-100 Tablets NDC 0049-3430-41
+UNIT DOSE
 
-DIFLUCAN® 200 (Fluconazole Tablets)
+Pfizer
+
+NDC 0049-3430-41
+
+DIFLUCAN® (Fluconazole Tablets)
 
 200 mg
 
 For in-institution use only
 
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+100 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Label
 
+Pfizer
+
 NDC 0049-3440-19
 
-35 mL when reconstituted
-
-DIFLUCAN® (Fluconazole for Oral Suspension)
-
-ORANGE FLAVORED
+DIFLUCAN® (fluconazole) for Oral Suspension
 
 10 mg/mL
 
-when reconstituted
+ORANGE FLAVORED 35 mL when reconstituted
 
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Carton
 
+Pfizer
+
 NDC 0049-3440-19
 
-35 mL when reconstituted
-
-DIFLUCAN® (Fluconazole for Oral Suspension)
-
-ORANGE FLAVORED
+DIFLUCAN® (fluconazole) for Oral Suspension
 
 10 mg/mL
 
-when reconstituted
+ORANGE FLAVORED
 
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+35 mL when reconstituted
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 40 mg/mL Bottle Label
 
+Pfizer
+
 NDC 0049-3450-19
 
-35 mL when reconstituted
-
-DIFLUCAN® (Fluconazole for Oral Suspension)
-
-ORANGE FLAVORED
+DIFLUCAN® (fluconazole) for Oral Suspension
 
 40 mg/mL
 
-when reconstituted
+ORANGE FLAVORED 35 mL when reconstituted
 
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 40 mg/mL Bottle Carton
 
+Pfizer
+
 NDC 0049-3450-19
 
-35 mL when reconstituted
-
-DIFLUCAN® (Fluconazole for Oral Suspension)
-
-ORANGE FLAVORED
+DIFLUCAN® (fluconazole) for Oral Suspension
 
 40 mg/mL
 
-when reconstituted
+ORANGE FLAVORED
 
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+35 mL when reconstituted
+
+Rx only
