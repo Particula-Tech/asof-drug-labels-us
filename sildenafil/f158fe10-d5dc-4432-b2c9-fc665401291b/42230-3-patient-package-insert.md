@@ -107,7 +107,6 @@ What are the possible side effects of REVATIO?
   More shortness of breath than usual may be due to your underlying medical condition.
 - decreased eyesight or loss of sight in one or both eyes (NAION).
   If you notice a sudden decrease or loss of eyesight, talk to your doctor right away.
-  It is not possible to determine if these events are related to oral medicines for the treatment of erectile dysfunction, including sildenafil, or to other medical problems, or combination of these factors.
 - sudden decrease or loss of hearing.
   If you notice a sudden decrease or loss of hearing, talk to your doctor right away.
   It is not possible to determine whether these events are related directly to this class of oral medicines, including REVATIO, or to other diseases or medicines, to other factors, or to a combination of factors.
@@ -168,4 +167,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-LAB-0335-7.0 January 2014
+LAB-0335-8.0 March 2014

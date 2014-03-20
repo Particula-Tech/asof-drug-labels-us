@@ -30,8 +30,10 @@ The safety of REVATIO is unknown in patients with bleeding disorders or active p
 
 When used to treat erectile dysfunction, non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported postmarketing in temporal association with the use of phosphodiesterase type 5 (PDE-5) inhibitors, including sildenafil.
 Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking.
+Based on published literature, the annual incidence of NAION is 2.5–11.8 cases per 100,000 males aged ≥ 50 per year in the general population.
+An observational study evaluated whether recent, episodic use of PDE5 inhibitors (as a class), typical of erectile dysfunction treatment, was associated with acute onset of NAION.
+The results suggest an approximately 2-fold increase in the risk of NAION within 5 half-lives of PDE5 inhibitor use.
 It is not possible to determine whether these events are related directly to the use of PDE-5 inhibitors, to the patient's underlying vascular risk factors or anatomical defects, to a combination of these factors, or to other factors.
-
 Advise patients to seek immediate medical attention in the event of a sudden loss of vision in one or both eyes while taking PDE-5 inhibitors, including REVATIO.
 Physicians should also discuss the increased risk of NAION with patients who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators, such as PDE-5 inhibitors.
 

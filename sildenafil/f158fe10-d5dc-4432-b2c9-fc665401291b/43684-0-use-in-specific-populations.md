@@ -21,7 +21,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 In a randomized, double-blind, multi-center, placebo-controlled, parallel-group, dose-ranging study, 234 patients with PAH, aged 1 to 17 years, body weight greater than or equal to 8 kg, were randomized, on the basis of body weight, to three dose levels of REVATIO, or placebo, for 16 weeks of treatment.
 Most patients had mild to moderate symptoms at baseline: WHO Functional Class I (32%), II (51%), III (15%), or IV (0.4%).
-One-third of patients had primary PAH; two-thirds had secondary PAH (systemic-to-pulmonary shunt in 36%; surgical repair in 30%).
+One-third of patients had primary PAH; two-thirds had secondary PAH (systemic-to-pulmonary shunt in 37%; surgical repair in 30%).
 Sixty-two percent of patients were female.
 Drug or placebo was administered three times a day.
 
@@ -31,11 +31,11 @@ No patients died during the 16-week controlled study.
 
 After completing the 16-week controlled study, a patient originally randomized to REVATIO remained on his/her dose of REVATIO or, if originally randomized to placebo, was randomized to low-, medium-, or high-dose REVATIO.
 After all patients completed 16 weeks of follow-up in the controlled study, the blind was broken and doses were adjusted as clinically indicated.
-Patients were followed for a median of 4 years (range 0.3 years to 7.0 years).
+Patients treated with sildenafil were followed for a median of 4.6 years (range 2 days to 8.6 years).
 Mortality during the long-term study, by originally assigned dose, is shown in Figure 6:
 
-An increase in mortality was observed with increasing REVATIO doses.
-The hazard ratio for high dose compared to low dose was 3.5, p=0.015.
+During the study, there were 42 reported deaths, with 37 of these deaths reported prior to a decision to titrate subjects to a lower dosage because of a finding of increased mortality with increasing REVATIO doses.
+For the survival analysis which included 37 deaths, the hazard ratio for high dose compared to low dose was 3.9, p=0.007.
 Causes of death were typical of patients with PAH.
 Use of REVATIO, particularly chronic use, is not recommended in children.
 

@@ -39,3 +39,33 @@ Revatio® (sildenafil) Injection
 For Intravenous Use Sterile Single-use Vial, Discard Unused Portion
 
 Pfizer Injectables
+
+# PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Label
+
+NDC 0069-0336-21
+
+Revatio® (sildenafil) for oral suspension
+
+10 mg/mL
+
+Shake Well Before Each Use For Oral Use Only
+
+Pfizer
+
+# PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Carton
+
+NDC 0069-0336-21
+
+Revatio® (sildenafil) for oral suspension
+
+10 mg/mL
+
+For Oral Use Only Shake Well Before Each Use
+
+112 mL following Constitution
+
+Grape Flavored
+
+Pfizer
+
+Rx only
