@@ -64,9 +64,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Label
 
-NDC 59762-5029-1
-
-35 mL when reconstituted
+NDC 59762-5029-1 35 mL when reconstituted
 
 GREENSTONE® BRAND
 
@@ -80,9 +78,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Carton
 
-NDC 59762-5029-1
-
-35 mL when reconstituted
+NDC 59762-5029-1 35 mL when reconstituted
 
 GREENSTONE® BRAND
 
@@ -96,9 +92,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 40 mg/mL Bottle Label
 
-NDC 59762-5030-1
-
-35 mL when reconstituted
+NDC 59762-5030-1 35 mL when reconstituted
 
 GREENSTONE® BRAND
 
@@ -112,9 +106,7 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 40 mg/mL Bottle Carton
 
-NDC 59762-5030-1
-
-35 mL when reconstituted
+NDC 59762-5030-1 35 mL when reconstituted
 
 GREENSTONE® BRAND
 
