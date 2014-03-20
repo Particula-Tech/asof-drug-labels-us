@@ -24,8 +24,14 @@ Patients using DIFFERIN Gel, 0.3%, should receive the following information and 
 Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, Texas 76177 USA
 
-Manufactured by: DPT Laboratories, Ltd. San Antonio, Texas 78215 USA GALDERMA is a registered trademark.
-325089-0810
+Manufactured by:
 
-Manufactured by: G Production Inc. Baie d’Urfe´, QC, H9X 3S4 Canada Made in Canada GALDERMA is a registered trademark.
-P51238-1
+G Production Inc. Baie d’Urfé, QC, H9X 3S4 Canada Made in Canada GALDERMA is a registered trademark.
+
+Or (only one manufacturer will be listed as appropriate)
+
+P51958-X
+
+Manufactured by: DPT Laboratories, Ltd. San Antonio, Texas 78215 USA GALDERMA is a registered trademark.
+
+PXXXXX-X

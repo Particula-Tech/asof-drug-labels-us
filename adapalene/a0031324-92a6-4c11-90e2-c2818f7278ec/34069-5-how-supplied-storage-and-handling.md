@@ -1,6 +1,9 @@
 # 16 HOW SUPPLIED/ STORAGE AND HANDLING
 
 DIFFERIN Gel, 0.3% is supplied in the following size.
+
+15 g tube - NDC 0299-5918-15
+
 45 g tube – NDC 0299-5918-45
 
 45 g pump - NDC 0299-5918-25
