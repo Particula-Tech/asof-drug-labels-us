@@ -27,7 +27,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 The individual component, brinzolamide, has been studied in pediatric glaucoma patients 4 weeks to 5 years of age.
 The individual component, brimonidine tartrate, has been studied in pediatric patients 2 to 7 years old.
 Somnolence (50-83%) and decreased alertness was seen in patients 2 to 6 years old.
-SIMBRINZA™ is contraindicated in children under the age of 2 years [see Contraindications (4.2)].
+SIMBRINZA™ is contraindicated in children under the age of 2 years [see Contraindications (4.3)].
 
 ## 8.5 Geriatric Use
 

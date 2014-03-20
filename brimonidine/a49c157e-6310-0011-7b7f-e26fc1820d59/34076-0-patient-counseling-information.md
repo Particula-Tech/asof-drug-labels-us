@@ -35,4 +35,4 @@ If more than one topical ophthalmic drug is being used, the drugs should be admi
 The preservative in SIMBRINZA™, benzalkonium chloride, may be absorbed by soft contact lenses.
 Contact lenses should be removed during instillation of SIMBRINZA™, but may be reinserted 15 minutes after instillation.
 
-©2012 Novartis U.S. Patent No: 6,316,441 ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA 1-800-757-9195 alcon.medinfo@alcon.com
+©2013 Novartis U.S. Patent No: 6,316,441 ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA 1-800-757-9195 alcon.medinfo@alcon.com 9009970-0913
