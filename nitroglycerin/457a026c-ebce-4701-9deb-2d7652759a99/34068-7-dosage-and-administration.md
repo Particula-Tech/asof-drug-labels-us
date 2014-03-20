@@ -29,7 +29,9 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 Do not add supplementary medication to Nitroglycerin in 5% Dextrose Injection.
 
-| Table 3 Necessary Flow Rates (mL/hrWith a set that produces 60 drops/mL, 1mL/hr = 1 drop/min.) |  |  |  |
+Table 3
+
+| Necessary Flow Rates (mL/hrWith a set that produces 60 drops/mL, 1mL/hr = 1 drop/min.) |  |  |  |
 | --- | --- | --- | --- |
 | Desired Dose (mcg/min) | Solution Concentration (mcg/mL) |  |  |
 | 100 | 200 | 400 |  |

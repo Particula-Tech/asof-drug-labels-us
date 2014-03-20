@@ -7,7 +7,7 @@ The organic nitrates are vasodilators, active on both arteries and veins.
 
 Dextrose (Dextrose Hydrous, USP) is D-glucose monohydrate, a hexose sugar whose structural formula is
 
-whose empiric formula is C6H12O6• H2O, and whose molecular weight is 198.17.
+whose empiric formula is C6H12O6 • H2O, and whose molecular weight is 198.17.
 
 Nitroglycerin in 5% Dextrose Injection is a sterile, nonpyrogenic solution of nitroglycerin and dextrose in water for injection.
 The solution is clear and practically colorless.
@@ -18,9 +18,10 @@ Although dry nitroglycerin is explosive, nitroglycerin in 5% dextrose is not.
 
 Composition, osmolarity and pH are given in Table 1.
 
-| Table 1 |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 1
+
 |  | Composition |  | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (≥600 mOsmol/L) may cause vein damage.Osmolarity (mOsmol/L) (calc) | pH |
+| --- | --- | --- | --- | --- |
 | Nitroglycerin (mcg/mL) | Dextrose Hydrous, USP (g/L) |  |  |  |
 | 25 mg Nitroglycerin in 5% Dextrose Injection | 100 | 50 | 428 | 4.0 (3.0 to 5.0) |
 | 50 mg Nitroglycerin in 5% Dextrose Injection | 200 | 50 | 440 | 4.0 (3.0 to 5.0) |
