@@ -2,8 +2,8 @@ MEDICATION GUIDE
 
 Omeprazole Delayed-Release Capsules, USP
 
-CIA77775C Rev.
-3E 06/2013
+CIA77775D Rev.
+4E 03/2014
 
 Read this Medication Guide before you start taking Omeprazole Delayed-Release Capsules and each time you get a refill.
 There may be new information.
@@ -226,4 +226,4 @@ In addition, the 20 mg and 40 mg capsule shells also contain yellow iron oxide.
 The imprinting ink also contains ammonium hydroxide, butyl alcohol, black iron oxide, isopropyl alcohol, propylene glycol and shellac glaze.
 The ink may also contain dehydrated alcohol.
 
-This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Adminstration.
+This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
