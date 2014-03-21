@@ -1,9 +1,9 @@
 # CLINICAL PHARMACOLOGY
 
-Following a single dose of two minocycline hydrochloride 100 mg capsules administered to 18 normal fasting adult volunteers, maximum serum concentrations were attained in 1 to 4 hours (average 2.1 hours) and ranged from 2.1 to 5.1 mcg/mL (average 3.5 mcg/mL).
+Following a single dose of two minocycline hydrochloride capsules, 100 mg administered to 18 normal fasting adult volunteers, maximum serum concentrations were attained in 1 to 4 hours (average 2.1 hours) and ranged from 2.1 to 5.1 mcg/mL (average 3.5 mcg/mL).
 The serum half-life in the normal volunteers ranged from 11.1 to 22.1 hours (average 15.5 hours).
 When minocycline hydrochloride capsules were given concomitantly with a high-fat meal, which included dairy products, the extent of absorption of minocycline hydrochloride capsules was unchanged compared to dosing under fasting conditions.
-The mean T max was delayed by one hour when administered with food, compared to dosing under fasting conditions.
+The mean Tmax was delayed by one hour when administered with food, compared to dosing under fasting conditions.
 Minocycline hydrochloride capsules may be administered with or without food.
 In previous studies with other minocycline dosage forms, the minocycline serum half-life ranged from 11 to 16 hours in 7 patients with hepatic dysfunction, and from 18 to 69 hours in 5 patients with renal dysfunction.
 The urinary and fecal recovery of minocycline when administered to 12 normal volunteers was one-half to one-third that of other tetracyclines.
@@ -13,124 +13,122 @@ The urinary and fecal recovery of minocycline when administered to 12 normal vol
 The tetracyclines are primarily bacteriostatic and are thought to exert their antimicrobial effect by the inhibition of protein synthesis.
 The tetracyclines, including minocycline, have a similar antimicrobial spectrum of activity against a wide range of gram-positive and gram-negative organisms.
 Cross-resistance of these organisms to tetracycline is common.
-Minocycline has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section: AEROBIC GRAM-POSITIVE MICROORGANISMS Because many strains of the following gram-positive microorganisms have been shown to be resistant to tetracyclines, culture and susceptibility testing are especially recommended.
+Minocycline has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section: GRAM-POSITIVE BACTERIA Because many strains of the following gram-positive microorganisms have been shown to be resistant to tetracyclines, culture and susceptibility testing are especially recommended.
 Tetracycline antibiotics should not be used for streptococcal diseases unless the organism has been demonstrated to be susceptible.
 Tetracyclines are not the drug of choice in the treatment of any type of staphylococcal infection.
-Bacillus anthracis 1 Listeria monocytogenes 1 Staphylococcus aureus Streptococcus pneumoniae AEROBIC GRAM-NEGATIVE MICROORGANISMS Bartonella bacilliformis Brucella species Calymmatobacterium granulomatis Campylobacter fetus Francisella tularensis Haemophilus ducreyi Vibrio cholerae Yersinia pestis Because many strains of the following groups of gram-negative microorganisms have been shown to be resistant to tetracyclines, culture and susceptibility tests are especially recommended.
-Acinetobacter species Enterobacter aerogenes Escherichia coli Haemophilus influenzae Klebsiella species Neisseria gonorrhoeae 1 Neisseria meningitidis 1 Shigella species "OTHER" MICROORGANISMS Actinomyces species 1 Borrelia recurrentis Chlamydia psittaci Chlamydia trachomatis Clostridium species 1 Entamoeba species Fusobacterium nucleatum subspecies fusiforme 1 Mycobacterium marinum Mycoplasma pneumoniae Propionibacterium acnes Rickettsiae Treponema pallidum subspecies pallidum 1 Treponema pallidum subspecies pertenue 1 Ureaplasma urealyticum ——————————————————————————————————————————————— 1 When penicillin is contraindicated, tetracyclines are alternative drugs in the treatment of infections caused by the cited microorganisms.
+Bacillus anthracis1 Listeria monocytogenes1 Staphylococcus aureus Streptococcus pneumoniae GRAM-NEGATIVE BACTERIA Bartonella bacilliformis Brucella species Calymmatobacterium granulomatis Campylobacter fetus Francisella tularensis Haemophilus ducreyi Vibrio cholerae Yersinia pestis Because many strains of the following groups of gram-negative microorganisms have been shown to be resistant to tetracyclines, culture and susceptibility tests are especially recommended.
+Acinetobacter species Enterobacter aerogenes Escherichia coli Haemophilus influenzae Klebsiella species Neisseria gonorrhoeae1 Neisseria meningitidis1 Shigella species "OTHER" MICROORGANISMS Actinomyces species1 Borrelia recurrentis Chlamydia psittaci Chlamydia trachomatis Clostridium species1 Entamoeba species Fusobacterium nucleatum subspecies fusiforme1 Mycobacterium marinum Mycoplasma pneumoniae Propionibacterium acnes Rickettsiae Treponema pallidum subspecies pallidum1 Treponema pallidum subspecies pertenue1 Ureaplasma urealyticum 1 When penicillin is contraindicated, tetracyclines are alternative drugs in the treatment of infections caused by the cited microorganisms.
 
 ## Susceptibility Tests
 
 Susceptibility testing should be performed with tetracycline since it predicts susceptibility to minocycline.
-However, certain organisms (e.g., some staphylococci , and Acinetobacter species) may be more susceptible to minocycline and doxycycline than to tetracycline.
+However, certain organisms (e.g., some staphylococci, and Acinetobacter species) may be more susceptible to minocycline and doxycycline than to tetracycline.
 Dilution techniques Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method (Ref1, Ref3) (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of tetracycline powder.
-The MIC values should be interpreted according to the following criteria: For testing aerobic gram-negative microorganisms ( Enterobacteriaceae ), Acinetobacter species and Staphylococcus aureus:
+The MIC values should be interpreted according to the following criteria: For testing aerobic gram-negative microorganisms (Enterobacteriaceae), Acinetobacter spp., and Staphylococcus aureus:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤4 | Susceptible (S) |
+| ≤ 4 | Susceptible (S) |
 | 8 | Intermediate (I) |
-| ≥16 | Resistant (R) |
+| ≥ 16 | Resistant (R) |
 
-For testing Haemophilus influenzae 2 and Streptococcus pneumoniae 3 :
+For testing Haemophilus influenzae2 and Streptococcus pneumoniae3:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤2 | Susceptible (S) |
+| ≤ 2 | Susceptible (S) |
 | 4 | Intermediate (I) |
-| ≥8 | Resistant (R) |
+| ≥ 8 | Resistant (R) |
 
 2 These interpretative standards are applicable only to broth microdilution susceptibility testing with Haemophilus influenzae using Haemophilus Test Medium.
-Ref1 3 These interpretative standards are applicable only to broth microdilution susceptibility testing using cation-adjusted Muller-Hinton broth with 2 to 5% lysed horse blood.
-1 For testing Neisseria gonorrhoeae 4 :
+
+3 These interpretative standards are applicable only to broth microdilution susceptibility testing using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
+For testing Neisseria gonorrhoeae4:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤0.25 | Susceptible (S) |
-| 0.5-1 | Intermediate (I) |
-| ≥2 | Resistant (R) |
+| ≤ 0.25 | Susceptible (S) |
+| 0.5 to 1 | Intermediate (I) |
+| ≥ 2 | Resistant (R) |
 
 4 These interpretative standards are applicable only to agar dilution susceptibility testing using GC agar base and 1% defined growth supplements.
-Ref1 A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
+A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
+Quality Control Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard tetracycline powder should provide the following MIC values:
 
 | Microorganism | MIC Range (mcg/mL) |
 | --- | --- |
-| Escherichia coli ATCC 25922 | 0.5-2 |
-| Enterococcus faecalis ATCC 29212 | 8-32 |
-| Staphylococcus aureus ATCC 29213 | 0.25-1 |
-| Haemophilus influenzae ATCC 49247 | 4-32 |
-| Streptococcus pneumoniae ATCC 49619 | 0.12-0.5 |
-| Neisseria gonorrhoeae ATCC 49226 | 0.25-1 |
+| Escherichia coli ATCC 25922 | 0.5 to 2 |
+| Staphylococcus aureus ATCC 29213 | 0.12 to 1 |
+| Haemophilus influenzae ATCC 49247 | 4 to 32 |
+| Streptococcus pneumoniae ATCC 49619 | 0.06 to 0.5 |
+| Neisseria gonorrhoeae ATCC 49226 | 0.25 to 1 |
 
 Diffusion techniques Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure Ref2, Ref3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 30 mcg tetracycline (class disk) or 30 mcg minocycline to test the susceptibility of microorganisms to minocycline.
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30 mcg tetracycline or minocycline disk should be interpreted according to the following criteria: For testing aerobic Enterobacteriaceae and Acinetobacter spp.:
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30 mcg tetracycline or minocycline disk should be interpreted according to the following criteria:
+| Zone Diameter (mm) | Interpretation | MIC (mcg/mL) |
+| --- | --- | --- |
+| ≥16 | Susceptible (S) | ≤ 4 |
+| 13 to 15 | Intermediate (I) | - |
+| ≤ 12 | Resistant (R) | ≥ 16 |
 
-For testing aerobic gram-negative microorganisms ( Enterobacteriaceae ), Acinetobacter species and Staphylococcus aureus:
+These zone diameter standards are applicable only to susceptibility testing using Mueller-Hinton agar and 30 mcg minocycline disk.
+For testing Staphylococcus aureus:
 
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥19 | Susceptible (S) |
-| 15-18 | Intermediate (I) |
-| ≤14 | Resistant (R) |
+| Zone Diameter (mm) | Interpretation | MIC (mcg/mL) |
+| --- | --- | --- |
+| ≥19 | Susceptible (S) | ≤ 4 |
+| 15 to 18 | Intermediate (I) | - |
+| ≤14 | Resistant (R) | ≥ 16 |
 
-For testing Haemophilus influenzae 5 :
+These zone diameter standards are applicable only to susceptibility testing using Mueller-Hinton agar and a 30 mcg minocycline disk.
+For testing Haemophilus influenzae5:
 
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥29 | Susceptible (S) |
-| 26-28 | Intermediate (I) |
-| ≤25 | Resistant (R) |
+| Zone Diameter (mm) | Interpretation | MIC (mcg/mL) |
+| --- | --- | --- |
+| ≥ 29 | Susceptible (S) | ≤ 2 |
+| 26 to 28 | Intermediate (I) | - |
+| ≤ 25 | Resistant (R) | ≥ 8 |
 
 5 These zone diameter standards are applicable only to susceptibility testing with Haemophilus influenzae using Haemophilus Test Medium and a 30 mcg tetracycline disk.
-Ref2 For testing Neisseria gonorrhoeae 6 :
+For testing Neisseria gonorrhoeae6:
 
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥38 | Susceptible (S) |
-| 31-37 | Intermediate (I) |
-| ≤30 | Resistant (R) |
+| Zone Diameter (mm) | Interpretation | MIC (mcg/mL) |
+| --- | --- | --- |
+| ≥ 38 | Susceptible (S) | ≤ 0.25 |
+| 31 to 37 | Intermediate (I) | - |
+| ≤ 30 | Resistant (R) | ≥ 2 |
 
 6 These interpretative standards are applicable only to disk diffusion testing using GC agar and 1% growth supplements, and a 30 mcg tetracycline disk.
-Ref2 For testing Streptococcus pneumoniae 7 :
+For testing Streptococcus pneumoniae7:
 
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥23 | Susceptible (S) |
-| 19-22 | Intermediate (I) |
-| ≤18 | Resistant (R) |
+| Zone Diameter (mm) | Interpretation | MIC (mcg/mL) |
+| --- | --- | --- |
+| ≥ 23 | Susceptible (S) | ≤ 2 |
+| 19 to 22 | Intermediate (I) | - |
+| ≤ 18 | Resistant (R) | ≥ 8 |
 
-7 These interpretative standards are applicable only to disk diffusion testing using Muller-Hinton agar adjusted with 5% sheep blood and a 30 mcg tetracycline disk.
-Ref2 For testing Vibrio cholerae 8 :
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥19 | Susceptible (S) |
-| 15-18 | Intermediate (I) |
-| ≤14 | Resistant (R) |
-
-8 These interpretative standards are applicable only to disk diffusion testing performed with a 30 mcg tetracycline disk.
-(Ref2) Interpretation should be as stated above for results using dilution techniques.
+7 These interpretative standards are applicable only to disk diffusion testing using Mueller-Hinton agar adjusted with 5% sheep blood and a 30 mcg tetracycline disk.
+Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for tetracycline.
-As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
+Quality Control As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
 For the diffusion technique, the 30 mcg tetracycline or minocycline disk should provide the following zone diameters in these laboratory test quality control strains:
 
 | Microorganism | Zone Diameter Range (mm) |  |
 | --- | --- | --- |
 |  | Tetracycline | Minocycline |
-| Escherichia coli ATCC 25922 | 18-25 | 19-25 |
-| Staphylococcus aureus ATCC 29213 | 24-30 | 25-30 |
-| Haemophilus influenzae ATCC 49247 | 14-22 | - |
-| Neisseria gonorrhoeae ATCC 49226 | 30-42 | - |
-| Streptococcus pneumoniae ATCC 49619 | 27-31 | - |
+| Escherichia coli ATCC 25922 | 18 to 25 | 19 to 25 |
+| Staphylococcus aureus ATCC 25923 | 24 to 30 | 25 to 30 |
+| Haemophilus influenzae ATCC 49247 | 14 to 22 | - |
+| Neisseria gonorrhoeae ATCC 49226 | 30 to 42 | - |
+| Streptococcus pneumoniae ATCC 49619 | 27 to 31 | - |

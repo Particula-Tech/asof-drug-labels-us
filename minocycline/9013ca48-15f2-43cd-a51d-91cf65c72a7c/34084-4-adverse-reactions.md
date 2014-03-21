@@ -6,11 +6,11 @@ Body as a whole: Fever, and discoloration of secretions.
 Gastrointestinal: Anorexia, nausea, vomiting, diarrhea, dyspepsia, stomatitis, glossitis, dysphagia, enamel hypoplasia, enterocolitis, pseudomembranous colitis, pancreatitis, inflammatory lesions (with monilial overgrowth) in the oral and anogenital regions.
 Instances of esophagitis and esophageal ulcerations have been reported in patients taking the tetracycline-class antibiotics in capsule and tablet form.
 Most of these patients took the medication immediately before going to bed.
-(See DOSAGE AND ADMINISTRATION .)
+(See DOSAGE AND ADMINISTRATION.)
 Genitourinary: Vulvovaginitis.
 Hepatic toxicity: Hyperbilirubinemia, hepatic cholestasis, increases in liver enzymes, fatal hepatic failure, and jaundice.
 Hepatitis, including autoimmune hepatitis, and liver failure have been reported.
-(See PRECAUTIONS .)
+(See PRECAUTIONS.)
 Skin: Alopecia, erythema nodosum, hyperpigmentation of nails, pruritus, toxic epidermal necrolysis, and vasculitis.
 Maculopapular and erythematous rashes.
 Exfoliative dermatitis has been reported.
@@ -18,12 +18,12 @@ Fixed drug eruptions have been reported.
 Lesions occurring on the glans penis have caused balanitis.
 Erythema multiforme and Stevens-Johnson syndrome have been reported.
 Photosensitivity is discussed above.
-(See WARNINGS .)
+(See WARNINGS.)
 Pigmentation of the skin and mucous membranes has been reported.
 Respiratory: Cough, dyspnea, bronchospasm, exacerbation of asthma, and pneumonitis.
 Renal toxicity: Interstitial nephritis.
 Elevations in BUN have been reported and are apparently dose related.
-(See WARNINGS .)
+(See WARNINGS.)
 Reversible acute renal failure has been reported.
 Musculoskeletal: Arthralgia, arthritis, bone discoloration, myalgia, joint stiffness, and joint swelling.
 Hypersensitivity reactions: Urticaria, angioneurotic edema, polyarthralgia, anaphylaxis/anaphylactoid reaction (including shock and fatalities), anaphylactoid purpura, myocarditis, pericarditis, exacerbation of systemic lupus erythematosus and pulmonary infiltrates with eosinophilia have been reported.
@@ -31,13 +31,13 @@ A transient lupus-like syndrome and serum sickness-like reactions also have been
 Blood: Agranulocytosis, hemolytic anemia, thrombocytopenia, leukopenia, neutropenia, pancytopenia, and eosinophilia have been reported.
 Central Nervous System: Convulsions, dizziness, hypesthesia, paresthesia, sedation, and vertigo.
 Bulging fontanels in infants and benign intracranial hypertension (pseudotumor cerebri) in adults have been reported.
-(See PRECAUTIONS - General .)
+(See PRECAUTIONS - General.)
 Headache has also been reported.
 Other: Thyroid cancer has been reported in the postmarketing setting in association with minocycline products.
 When minocycline therapy is given over prolonged periods, monitoring for signs of thyroid cancer should be considered.
 When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of the thyroid gland.
 Cases of abnormal thyroid function have been reported.
-Tooth discoloration in children less than 8 years of age (see WARNINGS ) and also, in adults has been reported.
+Tooth discoloration in children less than 8 years of age (see WARNINGS) and also, in adults has been reported.
 Oral cavity discoloration (including tongue, lip, and gum) have been reported.
 Tinnitus and decreased hearing have been reported in patients on minocycline hydrochloride.
 The following syndromes have been reported.

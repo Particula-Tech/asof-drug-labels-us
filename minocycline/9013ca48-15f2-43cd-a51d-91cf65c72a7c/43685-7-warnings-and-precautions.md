@@ -1,6 +1,6 @@
 # WARNINGS
 
-MINOCYCLINE HYDROCHLORIDE, LIKE OTHER TETRACYCLINE-CLASS ANTIBIOTICS, CAN CAUSE FETAL HARM WHEN ADMINISTERED TO A PREGNANT WOMAN.
+MINOCYCLINE HYDROCHLORIDE CAPSULES, LIKE OTHER TETRACYCLINE-CLASS ANTIBIOTICS, CAN CAUSE FETAL HARM WHEN ADMINISTERED TO A PREGNANT WOMAN.
 IF ANY TETRACYCLINE IS USED DURING PREGNANCY OR IF THE PATIENT BECOMES PREGNANT WHILE TAKING THESE DRUGS, THE PATIENT SHOULD BE APPRISED OF THE POTENTIAL HAZARD TO THE FETUS.
 THE USE OF DRUGS OF THE TETRACYCLINE CLASS DURING TOOTH DEVELOPMENT (LAST HALF OF PREGNANCY, INFANCY, AND CHILDHOOD TO THE AGE OF 8 YEARS) MAY CAUSE PERMANENT DISCOLORATION OF THE TEETH (YELLOW-GRAY-BROWN).
 This adverse reaction is more common during long-term use of the drug but has been observed following repeated short-term courses.
@@ -16,7 +16,7 @@ If this syndrome is recognized, the drug should be discontinued immediately.
 The anti-anabolic action of the tetracyclines may cause an increase in BUN.
 While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis.
 Under such conditions, monitoring of creatinine and BUN is recommended, and the total daily dosage should not exceed 200 mg in 24 hours.
-(See DOSAGE AND ADMINISTRATION .)
+(See DOSAGE AND ADMINISTRATION.)
 If renal impairment exists, even usual oral or parenteral doses may lead to systemic accumulation of the drug and possible liver toxicity.
 Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines.
 This has been reported with minocycline.
@@ -24,13 +24,13 @@ Central nervous system side effects including light-headedness, dizziness, or ve
 Patients who experience these symptoms should be cautioned about driving vehicles or using hazardous machinery while on minocycline therapy.
 These symptoms may disappear during therapy and usually disappear rapidly when the drug is discontinued.
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including minocycline hydrochloride, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile .
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
 
@@ -55,9 +55,9 @@ Photosensitivity manifested by an exaggerated sunburn reaction has been observed
 Patients apt to be exposed to direct sunlight or ultraviolet light should be advised that this reaction can occur with tetracycline drugs, and treatment should be discontinued at the first evidence of skin erythema.
 This reaction has been reported with use of minocycline.
 Patients who experience central nervous system symptoms should be cautioned about driving vehicles or using hazardous machinery while on minocycline therapy.
-(See WARNINGS .)
+(See WARNINGS.)
 Concurrent use of tetracycline with oral contraceptives may render oral contraceptives less effective.
-(See Drug Interactions .)
+(See Drug Interactions.)
 Patients should be counseled that antibacterial drugs including minocycline hydrochloride capsules should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When minocycline hydrochloride capsules are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -78,7 +78,7 @@ The concurrent use of tetracycline and methoxyflurane has been reported to resul
 Concurrent use of tetracyclines with oral contraceptives may render oral contraceptives less effective.
 Administration of isotretinoin should be avoided shortly before, during, and shortly after minocycline therapy.
 Each drug alone has been associated with pseudotumor cerebri.
-(See PRECAUTIONS .)
+(See PRECAUTIONS.)
 Increased risk of ergotism when ergot alkaloids or their derivatives are given with tetracyclines.
 
 ## Drug/Laboratory Test Interactions
@@ -87,7 +87,7 @@ False elevations of urinary catecholamine levels may occur due to interference w
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Dietary administration of minocycline in long term tumorigenicity studies in rats resulted in evidence of thyroid tumor production.
+Dietary administration of minocycline in long-term tumorigenicity studies in rats resulted in evidence of thyroid tumor production.
 Minocycline has also been found to produce thyroid hyperplasia in rats and dogs.
 In addition, there has been evidence of oncogenic activity in rats in studies with a related antibiotic, oxytetracycline (i.e., adrenal and pituitary tumors).
 Likewise, although mutagenicity studies of minocycline have not been conducted, positive results in in vitro mammalian cell assays (i.e., mouse lymphoma and Chinese hamster lung cells) have been reported for related antibiotics (tetracycline hydrochloride and oxytetracycline).
@@ -97,7 +97,7 @@ Segment I (fertility and general reproduction) studies have provided evidence th
 
 ### Teratogenic Effects
 
-Pregnancy Category D. (See WARNINGS .)
+Pregnancy Category D. (See WARNINGS.)
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 There are no adequate and well-controlled studies on the use of minocycline in pregnant women.
 Minocycline, like other tetracycline-class antibiotics, crosses the placenta and may cause fetal harm when administered to a pregnant woman.
@@ -107,7 +107,7 @@ If minocycline is used during pregnancy or if the patient becomes pregnant while
 
 ### Nonteratogenic Effects
 
-(See WARNINGS .)
+(See WARNINGS.)
 
 ## Labor and Delivery
 
@@ -117,15 +117,15 @@ The effect of tetracyclines on labor and delivery is unknown.
 
 Tetracyclines are excreted in human milk.
 Because of the potential for serious adverse reactions in nursing infants from the tetracyclines, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
-(See WARNINGS .)
+(See WARNINGS.)
 
 ## Pediatric Use
 
 Minocycline is not recommended for the use in children below 8 years of age unless the expected benefits of therapy outweigh the risks.
-(See WARNINGS .)
+(See WARNINGS.)
 
 ## Geriatric Use
 
 Clinical studies of oral minocycline did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-(See WARNINGS, DOSAGE AND ADMINISTRATION. )
+(See WARNINGS, DOSAGE AND ADMINISTRATION.)

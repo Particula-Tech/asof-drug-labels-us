@@ -46,13 +46,13 @@ When penicillin is contraindicated, minocycline is an alternative drug in the tr
 - Actinomycosis caused by Actinomyces israelii.
 - Infections caused by Clostridium species.
 
-In acute intestinal amebiasis , minocycline may be a useful adjunct to amebicides.
-In severe acne , minocycline may be useful adjunctive therapy.
+In acute intestinal amebiasis, minocycline may be a useful adjunct to amebicides.
+In severe acne, minocycline may be useful adjunctive therapy.
 Oral minocycline is indicated in the treatment of asymptomatic carriers of Neisseria meningitidis to eliminate meningococci from the nasopharynx.
 In order to preserve the usefulness of minocycline in the treatment of asymptomatic meningococcal carriers, diagnostic laboratory procedures, including serotyping and susceptibility testing, should be performed to establish the carrier state and the correct treatment.
 It is recommended that the prophylactic use of minocycline be reserved for situations in which the risk of meningococcal meningitis is high.
 Oral minocycline is not indicated for the treatment of meningococcal infection.
-Although no controlled clinical efficacy studies have been conducted, limited clinical data show that oral minocycline hydrochloride has been used successfully in the treatment of infections caused by Mycobacterium marinum .
+Although no controlled clinical efficacy studies have been conducted, limited clinical data show that oral minocycline hydrochloride has been used successfully in the treatment of infections caused by Mycobacterium marinum.
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of minocycline hydrochloride capsules, USP and other antibacterial drugs, minocycline hydrochloride capsules, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
