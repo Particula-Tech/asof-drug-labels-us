@@ -4,7 +4,7 @@ NDC 0378-0222-01
 
 Chlorthalidone Tablets, USP 25 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Chlorthalidone, USP 25 mg
 
@@ -23,9 +23,9 @@ Usual Adult Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0222A10
+RM0222A11
 
 PRINCIPAL DISPLAY PANEL - 50 mg
 
@@ -33,7 +33,7 @@ NDC 0378-0213-01
 
 Chlorthalidone Tablets, USP 50 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Chlorthalidone, USP 50 mg
 
@@ -52,6 +52,6 @@ Usual Adult Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0213A10
+RM0213A11
