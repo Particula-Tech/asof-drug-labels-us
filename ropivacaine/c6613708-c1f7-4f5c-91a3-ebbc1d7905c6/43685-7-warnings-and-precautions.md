@@ -8,12 +8,19 @@ Should cardiac arrest occur, prolonged resuscitative efforts may be required to 
 Naropin should be administered in incremental doses.
 It is not recommended for emergency situations, where a fast onset of surgical anesthesia is necessary.
 Historically, pregnant patients were reported to have a high risk for cardiac arrhythmias, cardiac/circulatory arrest and death when 0.75% bupivacaine (another member of the amino amide class of local anesthetics) was inadvertently rapidly injected intravenously.
-Prior to receiving major blocks the general condition of the patient should be optimized and the patient should have an i.v. line inserted.
+Prior to receiving major blocks the general condition of the patient should be optimized and the patient should have an IV line inserted.
 All necessary precautions should be taken to avoid intravascular injection.
-Local anesthetics should only be administered by clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies which might arise from the block to be employed, and then only after ensuring the immediate (without delay) availability of oxygen, other resuscitative drugs, cardiopulmonary resuscitative equipment, and the personnel resources needed for proper management of toxic reactions and related emergencies (see also ADVERSE REACTIONS, PRECAUTIONS, and MANAGEMENT OF LOCAL ANESTHETIC EMERGENCIES).
+Local anesthetics should only be administered by clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies which might arise from the block to be employed, and then only after ensuring the immediate (without delay) availability of oxygen, other resuscitative drugs, cardiopulmonary resuscitative equipment, and the personnel resources needed for proper management of toxic reactions and related emergencies (see also ADVERSE REACTIONS, PRECAUTIONS and MANAGEMENT OF LOCAL ANESTHETIC EMERGENCIES).
 Delay in proper management of dose-related toxicity, underventilation from any cause, and/or altered sensitivity may lead to the development of acidosis, cardiac arrest and, possibly, death.
 Solutions of Naropin should not be used for the production of obstetrical paracervical block anesthesia, retrobulbar block, or spinal anesthesia (subarachnoid block) due to insufficient data to support such use.
 Intravenous regional anesthesia (bier block) should not be performed due to a lack of clinical experience and the risk of attaining toxic blood levels of ropivacaine.
+
+Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
+The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
+There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
+The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
+Currently, there is no effective treatment for chondrolysis; patients who experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
+
 It is essential that aspiration for blood, or cerebrospinal fluid (where applicable), be done prior to injecting any local anesthetic, both the original dose and all subsequent doses, to avoid intravascular or subarachnoid injection.
 However, a negative aspiration does not ensure against an intravascular or subarachnoid injection.
 A well-known risk of epidural anesthesia may be an unintentional subarachnoid injection of local anesthetic.
@@ -29,6 +36,7 @@ Patients treated with class III antiarrhythmic drugs (eg, amiodarone) should be 
 ## General
 
 The safe and effective use of local anesthetics depends on proper dosage, correct technique, adequate precautions and readiness for emergencies.
+
 Resuscitative equipment, oxygen and other resuscitative drugs should be available for immediate use (see WARNINGS and ADVERSE REACTIONS).
 The lowest dosage that results in effective anesthesia should be used to avoid high plasma levels and serious adverse events.
 Injections should be made slowly and incrementally, with frequent aspirations before and during the injection to avoid intravascular injection.
@@ -40,11 +48,13 @@ Administration of higher than recommended doses of Naropin to achieve greater mo
 Tolerance to elevated blood levels varies with the physical condition of the patient.
 Debilitated, elderly patients and acutely ill patients should be given reduced doses commensurate with their age and physical condition.
 Local anesthetics should also be used with caution in patients with hypotension, hypovolemia or heart block.
+
 Careful and constant monitoring of cardiovascular and respiratory vital signs (adequacy of ventilation) and the patient's state of consciousness should be performed after each local anesthetic injection.
 It should be kept in mind at such times that restlessness, anxiety, incoherent speech, light-headedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of central nervous system toxicity.
 Because amide-type local anesthetics such as ropivacaine are metabolized by the liver, these drugs, especially repeat doses, should be used cautiously in patients with hepatic disease.
 Patients with severe hepatic disease, because of their inability to metabolize local anesthetics normally, are at a greater risk of developing toxic plasma concentrations.
 Local anesthetics should also be used with caution in patients with impaired cardiovascular function because they may be less able to compensate for functional changes associated with the prolongation of A-V conduction produced by these drugs.
+
 Many drugs used during the conduct of anesthesia are considered potential triggering agents for malignant hyperthermia (MH).
 Amide-type local anesthetics are not known to trigger this reaction.
 However, since the need for supplemental general anesthesia cannot be predicted in advance, it is suggested that a standard protocol for MH management should be available.
@@ -69,6 +79,7 @@ The test dose itself may produce a systemic toxic reaction, high spinal or epine
 
 Ropivacaine plasma concentrations may approach the threshold for central nervous system toxicity after the administration of 300 mg of ropivacaine for brachial plexus block.
 Caution should be exercised when using the 300 mg dose (see OVERDOSAGE).
+
 The dose for a major nerve block must be adjusted according to the site of administration and patient status.
 Supraclavicular brachial plexus blocks may be associated with a higher frequency of serious adverse reactions, regardless of the local anesthetic used.
 
@@ -109,7 +120,8 @@ Coadministration of a selective and potent inhibitor of CYP3A4, ketoconazole (10
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long term studies in animals of most local anesthetics, including ropivacaine, to evaluate the carcinogenic potential have not been conducted.
+Long-term studies in animals of most local anesthetics, including ropivacaine, to evaluate the carcinogenic potential have not been conducted.
+
 Weak mutagenic activity was seen in the mouse lymphoma test.
 Mutagenicity was not noted in the other assays, demonstrating that the weak signs of in vitro activity in the mouse lymphoma test were not manifest under diverse in vivo conditions.
 Studies performed with ropivacaine in rats did not demonstrate an effect on fertility or general reproductive performance over 2 generations.

@@ -3,15 +3,18 @@
     "NDA020533"
   ],
   "inn": "ropivacaine",
-  "labeler": "APP Pharmaceuticals, LLC",
+  "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
-    "63323-285-67"
+    "63323-285-67",
+    "63323-286-37",
+    "63323-286-95",
+    "63323-288-29"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
-      "generic": "ropivacaine hydrochloride monohydrate",
-      "name": "NAROPIN"
+      "generic": "ropivacaine hydrochloride",
+      "name": "Naropin"
     }
   ],
   "setid": "c6613708-c1f7-4f5c-91a3-ebbc1d7905c6",
