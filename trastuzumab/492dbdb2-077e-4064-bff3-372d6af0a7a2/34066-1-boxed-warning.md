@@ -18,7 +18,7 @@ Monitor patients until symptoms completely resolve.
 Discontinue Herceptin for anaphylaxis, angioedema, interstitial pneumonitis, or acute respiratory distress syndrome.
 [see Warnings and Precautions (5.2, 5.4)]
 
-Embryo-Fetal Toxicity
+Embryo Fetal Toxicity
 
 Exposure to Herceptin during pregnancy can result in oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
 [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)]

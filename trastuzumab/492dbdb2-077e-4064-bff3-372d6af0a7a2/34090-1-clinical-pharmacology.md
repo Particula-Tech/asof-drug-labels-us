@@ -8,7 +8,7 @@ Herceptin has been shown, in both in vitro assays and in animals, to inhibit the
 Herceptin is a mediator of antibody-dependent cellular cytotoxicity (ADCC).
 In vitro, Herceptin-mediated ADCC has been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
 
-## 12.3 Pharmacokinetics
+## 12.2 Pharmacokinetics
 
 The pharmacokinetics of trastuzumab were studied in women with metastatic breast cancer.
 Short duration intravenous infusions of 10 to 500 mg Herceptin once weekly demonstrated dose-dependent pharmacokinetics.
@@ -28,4 +28,4 @@ In patients with metastatic gastric cancer (Study 7), mean serum trastuzumab tro
 Sixty-four percent (286/447) of women with metastatic breast cancer had detectable circulating extracellular domain of the HER2 receptor (shed antigen), which ranged as high as 1880 ng/mL (median 11 ng/mL).
 Patients with higher baseline shed antigen levels were more likely to have lower serum trough concentrations.
 
-Data suggest that the disposition of trastuzumab is not altered based on age or serum creatinine (≤ 2.0 mg creatinine/dL).
+Data suggest that the disposition of trastuzumab is not altered based on age or serum creatinine (≤2.0 mg creatinine/dL).

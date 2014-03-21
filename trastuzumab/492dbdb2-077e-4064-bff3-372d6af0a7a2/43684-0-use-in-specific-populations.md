@@ -16,7 +16,7 @@ If oligohydramnios occurs, perform fetal testing that is appropriate for gestati
 The efficacy of IV hydration in management of oligohydramnios due to Herceptin exposure is not known.
 
 Advise women of the potential hazard to the fetus resulting from Herceptin exposure during pregnancy.
-Encourage pregnant women with breast cancer who are using Herceptin to enroll in MotHER-the Herceptin Pregnancy Registry: phone 1-800-690-6720.
+Encourage pregnant women with breast cancer who are using Herceptin to enroll in MotHER the Herceptin Pregnancy Registry: phone 1 800 690 6720.
 [see Patient Counseling Information (17)].
 
 No teratogenic effects were observed in offspring from reproduction studies in cynomolgus monkeys at doses up to 25 times the recommended weekly human dose of 2 mg/kg trastuzumab.

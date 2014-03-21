@@ -2,8 +2,9 @@
 
 ## 2.1 Recommended Doses and Schedules
 
-Do not administer as an intravenous push or bolus.
-Do not mix Herceptin with other drugs.
+- Do not administer as an intravenous push or bolus.
+  Do not mix Herceptin with other drugs.
+- Do not substitute Herceptin (trastuzumab) for or with ado-trastuzumab emtansine.
 
 Adjuvant Treatment, Breast Cancer:
 
@@ -55,6 +56,8 @@ Permanently discontinue Herceptin for a persistent (> 8 weeks) LVEF decline or f
 
 ## 2.3 Preparation for Administration
 
+To prevent medication errors, it is important to check the vial labels to ensure that the drug being prepared and administered is Herceptin (trastuzumab) and not ado-trastuzumab emtansine.
+
 Reconstitution
 
 Reconstitute each 440 mg vial of Herceptin with 20 mL of Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative to yield a multi-dose solution containing 21 mg/mL trastuzumab.
@@ -71,7 +74,7 @@ Use appropriate aseptic technique when performing the following reconstitution s
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Inspect visually for particulates and discoloration.
   The solution should be free of visible particulates, clear to slightly opalescent and colorless to pale yellow.
-- Store reconstituted Herceptin at 2–8°C; discard unused Herceptin after 28 days.
+- Store reconstituted Herceptin at 2–8° C; discard unused Herceptin after 28 days.
   If Herceptin is reconstituted with SWFI without preservative, use immediately and discard any unused portion.
 
 Dilution

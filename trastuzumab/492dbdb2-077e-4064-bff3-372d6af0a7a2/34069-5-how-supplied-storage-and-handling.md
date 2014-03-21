@@ -9,6 +9,7 @@ NDC 50242-134-68.
 ## 16.2 Stability and Storage
 
 Vials of Herceptin are stable at 2–8°C (36–46°F) prior to reconstitution.
+
 Do not use beyond the expiration date stamped on the vial.
 A vial of Herceptin reconstituted with BWFI, as supplied, is stable for 28 days after reconstitution when stored refrigerated at 2–8°C (36–46°F).
 Discard any remaining multi-dose reconstituted solution after 28 days.

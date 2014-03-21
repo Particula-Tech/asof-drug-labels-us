@@ -21,36 +21,36 @@ The following schedule is recommended:
 - Repeat LVEF measurement at 4 week intervals if Herceptin is withheld for significant left ventricular cardiac dysfunction [see Dosage and Administration (2.2)]
 - LVEF measurements every 6 months for at least 2 years following completion of Herceptin as a component of adjuvant therapy.
 
-In Study 1, 16% (136/844) of patients discontinued Herceptin due to clinical evidence of myocardial dysfunction or significant decline in LVEF.
+In Study 1, 15% (158/1031) of patients discontinued Herceptin due to clinical evidence of myocardial dysfunction or significant decline in LVEF after a median follow-up duration of 8.7 years in the AC-TH arm.
 In Study 3, the number of patients who discontinued Herceptin due to cardiac toxicity was 2.6% (44/1678).
 In Study 4, a total of 2.9% (31/1056) patients in the TCH arm (1.5% during the chemotherapy phase and 1.4% during the monotherapy phase) and 5.7% (61/1068) patients in the AC-TH arm (1.5% during the chemotherapy phase and 4.2% during the monotherapy phase) discontinued Herceptin due to cardiac toxicity.
 
-Among 32 patients receiving adjuvant chemotherapy (Studies 1 and 2) who developed congestive heart failure, one patient died of cardiomyopathy and all other patients were receiving cardiac medication at last follow-up.
-Approximately half of the surviving patients had recovery to a normal LVEF (defined as ≥ 50%) on continuing medical management at the time of last follow-up.
+Among 64 patients receiving adjuvant chemotherapy (Studies 1 and 2) who developed congestive heart failure, one patient died of cardiomyopathy, one patient died suddenly without documented etiology and 33 patients were receiving cardiac medication at last follow-up.
+Approximately 24% of the surviving patients had recovery to a normal LVEF (defined as ≥50%) and no symptoms on continuing medical management at the time of last follow-up.
 Incidence of congestive heart failure is presented in Table 1.
 The safety of continuation or resumption of Herceptin in patients with Herceptin-induced left ventricular cardiac dysfunction has not been studied.
 
-Table 1 Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
+Table 1: Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
 
 | Study | Regimen | Herceptin | Control |
 | --- | --- | --- | --- |
 |  |  | Incidence of CHF |  |
-| 1 & 2Includes 1 patient with fatal cardiomyopathy. | ACAnthracycline (doxorubicin) and cyclophosphamide →Paclitaxel+Herceptin | 2% (32/1677) | 0.4% (7/1600) |
+| 1 & 2Median follow-up duration for studies 1 and 2 combined was 8.3 years in the AC→TH arm. | ACAnthracycline (doxorubicin) and cyclophosphamide. → Paclitaxel+Herceptin | 3.2% (64/2000) Includes 1 patient with fatal cardiomyopathy and 1 patient with sudden death without documented etiology. | 1.3% (21/1655) |
 | 3 | Chemo → Herceptin | 2% (30/1678) | 0.3% (5/1708) |
-| 4 | AC →Docetaxel+Herceptin | 2% (20/1068) | 0.3% (3/1050) |
+| 4 | AC → Docetaxel+Herceptin | 2% (20/1068) | 0.3% (3/1050) |
 | 4 | Docetaxel+Carbo+Herceptin | 0.4% (4/1056) | 0.3% (3/1050) |
 
-Table 2 Incidence of Cardiac DysfunctionCongestive heart failure or significant asymptomatic decrease in LVEF. in Metastatic Breast Cancer Studies
+Table 2: Incidence of Cardiac DysfunctionCongestive heart failure or significant asymptomatic decrease in LVEF. in Metastatic Breast Cancer Studies
 
 | Study | Event | Herceptin | Control | Herceptin | Control |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Incidence |  |  |  |
-|  |  | NYHA I–IV |  | NYHA III–IV |  |
+|  |  | NYHA I-IV |  | NYHA III-IV |  |
 | 5 (AC)Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. | Cardiac Dysfunction | 28% | 7% | 19% | 3% |
 | 5 (paclitaxel) | Cardiac Dysfunction | 11% | 1% | 4% | 1% |
 | 6 | Cardiac DysfunctionIncludes 1 patient with fatal cardiomyopathy. | 7% | N/A | 5% | N/A |
 
-In Study 4, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the Herceptin containing regimens: (AC-TH: 0.3% (3/1068) and TCH 0.2% (2/1056)) as compared to none in AC-T.
+In Study 4, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the Herceptin containing regimens: (AC-TH: 0.3% (3/1068) and TCH 0.2% (: 2/1056)) as compared to none in AC-T.
 
 ## 5.2 Infusion Reactions
 
@@ -73,7 +73,7 @@ While some patients tolerated Herceptin infusions, others had recurrent severe i
 ## 5.3 Embryo-Fetal Toxicity
 
 Herceptin can cause fetal harm when administered to a pregnant woman.
-In post-marketing reports, use of Herceptin during pregnancy resulted in cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
+In post marketing reports, use of Herceptin during pregnancy resulted in cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
 Advise women of the potential hazard to the fetus resulting from Herceptin exposure during pregnancy and provide contraception counseling to women of childbearing potential.
 [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
@@ -99,6 +99,7 @@ Improper assay performance, including use of suboptimally fixed tissue, failure 
 
 Several FDA-approved commercial assays are available to aid in the selection of breast cancer and metastatic gastric cancer patients for Herceptin therapy.
 Users should refer to the package inserts of specific assay kits for information on the Intended Use, and the validation and performance of each assay.
+
 Limitations in assay precision make it inadvisable to rely on a single method to rule out potential Herceptin benefit.
 
 Treatment outcomes for adjuvant breast cancer (Studies 2 and 3) and for metastatic breast cancer (Study 5) as a function of IHC and FISH testing are provided in Tables 8 and 10.
