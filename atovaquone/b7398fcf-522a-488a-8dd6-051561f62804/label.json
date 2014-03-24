@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202960"
+  ],
+  "inn": "atovaquone",
+  "labeler": "Amneal Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "65162-693-88"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "atovaquone",
+      "name": "Atovaquone"
+    }
+  ],
+  "setid": "b7398fcf-522a-488a-8dd6-051561f62804",
+  "source": "dailymed"
+}
