@@ -16,9 +16,9 @@ The National Drug Codes for the various packages are
 | Dose | Bottle of 100 | Tablet Imprint |
 | --- | --- | --- |
 | 5/6.25 | NDC 30698-451-01 | 57 |
-| 10/12.5 | NDC 30698-452-01 | 72 |
-| 20/12.5 | NDC 30698-453-01 | 74 |
-| 20/25 | NDC 30698-454-01 | 75 |
+| 10/12.5 | NDC 30698-452-01 | 452 |
+| 20/12.5 | NDC 30698-453-01 | 453 |
+| 20/25 | NDC 30698-454-01 | 454 |
 
 Tablets are oblong and scored, with "Lotensin HCT" on one side and appropriate number imprinted on the other side.
 
@@ -32,6 +32,6 @@ Validus Pharmaceuticals LLC Parsippany, New Jersey 07054 info@validuspharma.com 
 
 © 2013 Validus Pharmaceuticals LLC
 
-April 2013
+June 2013
 
-455000-01
+455000-02
