@@ -21,7 +21,7 @@ This leaflet does not take the place of talking with your doctor about your cond
 Important information: Taclonex® Ointment is for use on the skin only (topical use only).
 Do not use Taclonex® Ointment on the face, under arms or on groin area.
 Do not swallow Taclonex® Ointment.
-Another product, Taclonex Scalp® Topical Suspension contains the same medicine that is in Taclonex® Ointment and is used to treat psoriasis vulgaris on the scalp.
+Another product, Taclonex® Topical Suspension contains the same medicine that is in Taclonex® Ointment and is used to treat psoriasis vulgaris on the scalp.
 If you use both medicines to treat your psoriasis vulgaris, be sure to follow your doctor’s directions carefully so that you do not use too much of one or both of these medications.
 What is Taclonex® Ointment?
 Taclonex® Ointment is a prescription medicine that is for use on the skin only (a topical medicine).
@@ -81,7 +81,6 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Taclonex® Ointment that is written for health professionals.
 What are the ingredients in Taclonex® Ointment?
 Active ingredients: calcipotriene hydrate, betamethasone dipropionate.
-Inactive ingredients: mineral oil, PPG-15 stearyl ether, dl-alpha tocopherol, white petrolatum.
+Inactive ingredients: mineral oil, PPG-11 stearyl ether, all-rac-alpha-tocopherol, butylhydroxytoluene, and white petrolatum.
 
 Manufactured by: LEO Laboratories Ltd. (LEO Pharma) Dublin, Ireland Distributed by: LEO Pharma Inc. 1 Sylvan Way, Parsippany, NJ 07054 USA 1-877-494-4536 U.S. Patent Nos.: RE39,706 E and 6,753,013.
-024598-01 024599-01
