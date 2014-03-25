@@ -1,34 +1,68 @@
-PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
+
+Pfizer
 
 NDC 0049-3170-30
-
-30 Tablets
 
 Vfend® (voriconazole)
 
 50 mg
 
+Tablets
+
+30 Tablets Rx only
+
+526230
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
+
 Pfizer
 
-Distributed by Roerig Division of Pfizer Inc, NY, NY 10017
+NDC 0049-3180-30
 
-PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
+Vfend® (voriconazole)
 
-Rx only NDC 0049-3190-28
+200 mg
+
+Tablets
+
+30 Tablets Rx only
+
+526240
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Vial Bottle Label
+
+NDC 0049-3190-28
 
 Vfend® I.V.
 (voriconazole) for injection
 
-200 mg* of voriconazole
+200 mg* 200 mg* of voriconazole
 
-200 mg*
+No Latex No Preservatives
 
-Sterile Singel Use Vial For I.V.
+Sterile Single Use Vial For I.V.
 Infusion Only
 
-Pfizer
+Pfizer Injectables
 
-Distributed by Roerig Division of Pfizer Inc, NY, NY 10017
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Vial Bottle Carton
+
+NDC 0049-3190-28 Rx only
+
+1 Vial Vfend® I.V.
+(voriconazole) for injection
+
+200 mg* 200 mg* of voriconazole
+
+No Latex No Preservatives
+
+Sterile Single Use Vial For I.V.
+Infusion Only
+
+Pfizer Injectables
 
 PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label
 
