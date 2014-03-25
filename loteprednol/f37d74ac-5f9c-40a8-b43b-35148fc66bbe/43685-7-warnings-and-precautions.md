@@ -34,7 +34,7 @@ Patients should be advised not to allow the dropper tip to touch any surface, as
 If pain develops, redness, itching or inflammation becomes aggravated, the patient should be advised to consult a physician.
 As with all ophthalmic preparations containing benzalkonium chloride, patients should be advised not to wear soft contact lenses when using LOTEMAX®.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term animal studies have not been conducted to evaluate the carcinogenic potential of loteprednol etabonate.
 Loteprednol etabonate was not genotoxic in vitro in the Ames test, the mouse lymphoma tk assay, or in a chromosome aberration test in human lymphocytes, or in vivo in the single dose mouse micronucleus assay.

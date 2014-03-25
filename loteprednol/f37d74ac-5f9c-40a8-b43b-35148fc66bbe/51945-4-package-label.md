@@ -4,4 +4,4 @@ NDC 24208-299-15
 
 Bausch & Lomb
 
-Lotemax® loteprednol etabonate ophthmalic suspension 0.5% Sterile Rx only 15 mL
+Lotemax® loteprednol etabonate ophthalmic suspension 0.5% Sterile Rx only 15 mL
