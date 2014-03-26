@@ -16,16 +16,16 @@ Who should not use Carac?
 
 Do not use Carac
 
-- if you are pregnant or might become pregnant.
+- • if you are pregnant or might become pregnant.
   Carac may harm your unborn child.
-- if you are nursing a baby.
+- • if you are nursing a baby.
   We do not know if Carac can pass to the baby through the milk.
-- if you have dihydropyrimidine dehydrogenase (DPD) enzyme deficiency.
+- • if you have dihydropyrimidine dehydrogenase (DPD) enzyme deficiency.
   The active ingredient in Carac, fluorouracil, can cause serious side effects in patients who are DPD enzyme deficient.
   If you have DPD enzyme deficiency and use medications containing fluorouracil, you may develop serious side effects such as stomach pain, bloody diarrhea, vomiting, fever, or chills.
-- if you are allergic to the ingredients in Carac.
+- • if you are allergic to the ingredients in Carac.
   Ask your doctor or pharmacist about the inactive ingredients.
-- if under 18 years of age.
+- • if under 18 years of age.
   Carac should not be used in children
 
 Tell your doctor if you are able to become pregnant.
@@ -37,13 +37,13 @@ Use Carac once a day as instructed by your doctor.
 Use it only on your skin.
 You should use Carac for up to 4 weeks.
 
-1. Clean the area where you will apply Carac.
+1. 1.Clean the area where you will apply Carac.
    Rinse well and dry the area with a towel and wait 10 minutes before applying Carac.
-2. Put Carac on your face as directed by your physician, using your fingertips.
+2. 2.Put Carac on your face as directed by your physician, using your fingertips.
    Use enough to cover the affected skin.
-3. Avoid contact with your eyes, nostrils, and mouth.
-4. Wash your hands as soon as you finish putting the Carac on your skin.
-5. A moisturizer/sunscreen may be applied 2 hours after Carac has been applied.
+3. 3.Avoid contact with your eyes, nostrils, and mouth.
+4. 4.Wash your hands as soon as you finish putting the Carac on your skin.
+5. 5.A moisturizer/sunscreen may be applied 2 hours after Carac has been applied.
    Do not use any other skin products including creams, lotions, medications or cosmetics -unless instructed by your doctor.
 
 What should I avoid while using Carac?

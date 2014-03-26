@@ -23,19 +23,19 @@ There is a possibility of increased absorption through ulcerated or inflamed ski
 
 Patients using Carac should receive the following information and instructions:
 
-1. This medication is to be used as directed.
-2. This medication should not be used for any disorder other than that for which it was prescribed.
-3. It is for external use only.
-4. Avoid contact with the eyes, eyelids, nostrils, and mouth.
-5. Cleanse affected area and wait 10 minutes before applying Carac.
-6. Wash hands immediately after applying Carac.
-7. Avoid prolonged exposure to sunlight or other forms of ultraviolet irradiation during treatment, as the intensity of the reaction may be increased.
-8. Most patients using Carac get skin reactions where the medicine is used.
+1. 1.This medication is to be used as directed.
+2. 2.This medication should not be used for any disorder other than that for which it was prescribed.
+3. 3.It is for external use only.
+4. 4.Avoid contact with the eyes, eyelids, nostrils, and mouth.
+5. 5.Cleanse affected area and wait 10 minutes before applying Carac.
+6. 6.Wash hands immediately after applying Carac.
+7. 7.Avoid prolonged exposure to sunlight or other forms of ultraviolet irradiation during treatment, as the intensity of the reaction may be increased.
+8. 8.Most patients using Carac get skin reactions where the medicine is used.
    These reactions include redness, dryness, burning, pain, erosion (loss of the upper layer of skin), and swelling.
    Irritation at the application site may persist for two or more weeks after therapy is discontinued.
    Treated areas may be unsightly during and after therapy.
-9. If you develop abdominal pain, bloody diarrhea, vomiting, fever, or chills while on Carac therapy, stop the medication and contact your physician and/or pharmacist.
-10. Report any side effects to the physician and/or pharmacist.
+9. 9.If you develop abdominal pain, bloody diarrhea, vomiting, fever, or chills while on Carac therapy, stop the medication and contact your physician and/or pharmacist.
+10. 10.Report any side effects to the physician and/or pharmacist.
 
 ## Laboratory Tests
 
