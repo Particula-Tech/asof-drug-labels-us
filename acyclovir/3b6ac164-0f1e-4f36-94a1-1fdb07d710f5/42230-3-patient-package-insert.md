@@ -3,7 +3,7 @@ FDA-Approved Patient Labeling
 PATIENT INFORMATION XERESE® (sûr-eeze) (acyclovir and hydrocortisone) Cream 5%/1%
 
 Important Information: XERESE is for use on cold sores on the lips and around the mouth only.
-XERESE should not be used in eyes, mouth, nose or on genitals.
+XERESE should not be used in eyes, mouth, nose or on your genitals.
 
 What is XERESE?
 
@@ -74,5 +74,5 @@ For more information call 1-800-321-4576.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Rev.
+9379300 Rev.
 01/2014

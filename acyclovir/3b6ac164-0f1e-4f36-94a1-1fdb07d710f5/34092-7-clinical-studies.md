@@ -13,7 +13,7 @@ Clinical signs in terms of size of the cold sore and symptoms such as tenderness
 ## 14.2 Clinical Trial Experience in Pediatric Subjects
 
 An open label safety trial in adolescents with recurrent herpes labialis was conducted in 134 subjects.
-Subjects had, on average, 4.0 episodes of herpes labialis in the previous 12 months.
+Subjects had, on average, 4 episodes of herpes labialis in the previous 12 months.
 The median age was 14 years (range 12 to 17 years); 50% were female and all were Caucasian.
 XERESE was applied using the same dosing regimen as in adults and subjects were monitored for adverse events and selected efficacy parameters.
 The safety profile of XERESE appeared similar to that observed in adults.

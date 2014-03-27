@@ -2,8 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Acyclovir is an antiviral drug and hydrocortisone an anti-inflammatory drug.
-[see Clinical Pharmacology (12.4)].
+Acyclovir is an antiviral drug and hydrocortisone an anti-inflammatory drug [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -38,13 +37,13 @@ Antiviral Activity
 
 The quantitative relationship between the cell culture susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
 Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC50), vary greatly depending upon a number of factors.
-Using plaque reduction assays on Vero cells, the median EC50 value of acyclovir against clinical herpes virus isolates (subjects receiving placebo) was 1.3 µM (range: <0.56 to 3.3 µM).
+Using plaque-reduction assays on Vero cells, the median EC50 value of acyclovir against clinical herpes virus isolates (subjects receiving placebo) was 1.3 µM (range: <0.56 to 3.3 µM).
 
 Resistance
 
 Resistance of HSV to acyclovir can result from qualitative and quantitative changes in the viral TK and/or DNA polymerase.
 Clinical isolates of HSV with reduced susceptibility to acyclovir have been recovered from immunocompromised subjects, especially with advanced HIV infection.
-While most of the acyclovir resistant mutants isolated from immunocompromised subjects thus far have been found to be TK-deficient mutants, other mutants involving the viral TK gene (TK partial and TK altered) and DNA polymerase have been isolated.
+While most of the acyclovir-resistant mutants isolated from immunocompromised subjects thus far have been found to be TK-deficient mutants, other mutants involving the viral TK gene (TK partial and TK altered) and DNA polymerase have been isolated.
 TK-negative mutants may cause severe disease in infants and immunocompromised adults.
 
 The possibility of viral resistance to acyclovir should be considered in patients who show poor clinical response during therapy.
