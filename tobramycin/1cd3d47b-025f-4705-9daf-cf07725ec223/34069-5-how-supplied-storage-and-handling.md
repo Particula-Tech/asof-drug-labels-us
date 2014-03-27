@@ -2,9 +2,8 @@
 
 BETHKIS 300 mg/4 mL is a clear, colorless to pale yellow solution and is available as follows:
 
-NDC 10122-820-56
-
-4 mL single-use ampule (carton of 14 foil pouches each containing four ampules)
+- NDC 10122-820-56: 4 mL single-use ampule (carton of 14 foil pouches each containing four ampules)
+- NDC 10122-820-28: 4 mL single-use ampule (carton of 7 foil pouches each containing four ampules)
 
 Storage
 

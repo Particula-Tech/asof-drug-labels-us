@@ -134,7 +134,8 @@ BETHKIS®
 Follow the instructions below for taking BETHKIS.
 If you have any questions, ask your healthcare provider or pharmacist.
 
-Each BETHKIS carton (28-day supply) contains 56 ampules including 14 foil pouches of 4 BETHKIS ampules.
+BETHKIS is available as a 28-day supply containing 56 ampules including 14 foil pouches and as a 14-day supply containing 28 ampules including 7 foil pouches.
+Each foil pouch contains 4 BETHKIS ampules.
 
 Supplies you will need to take BETHKIS (See Figure A):
 
@@ -255,6 +256,6 @@ Manufactured for Cornerstone Therapeutics Inc. by: Catalent Pharma Solutions, LL
 
 All trademarks referenced herein are the property of their prospective owners.
 
-Issued: 10/2012
+Issued: 10/2013
 
-CTB-006-0113-00-SPL
+CTB-006-1013-01-SPL

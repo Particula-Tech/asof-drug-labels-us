@@ -2,7 +2,7 @@
 
 ## 2.1 Dosing Information
 
-The recommended dosage for patients six years of age and older is to administer one single- use ampule (300 mg/4 mL) twice daily by oral inhalation in repeated cycles of 28 days on drug, followed by 28 days off drug.
+The recommended dosage for patients six years of age and older is to administer one single-use ampule (300 mg/4 mL) twice daily by oral inhalation in repeated cycles of 28 days on drug, followed by 28 days off drug.
 The doses should be taken as close to 12 hours apart as possible and not less than 6 hours apart.
 
 The 300 mg/4 mL dose of BETHKIS is the same for patients regardless of age or weight.

@@ -64,6 +64,6 @@ Rx Only U.S. Patent 6,987,094.
 
 Manufactured for Cornerstone Therapeutics Inc. by Catalent Pharma Solutions, LLC Woodstock, Illinois 60098
 
-DATE OF ISSUANCE 05/2013 © Cornerstone Therapeutics Inc. 2013 Printed in USA
+DATE OF ISSUANCE 10/2013 © Cornerstone Therapeutics Inc. 2013 Printed in USA
 
-CTB-004-0413-01-SPL
+CTB-004-1013-02-SPL
