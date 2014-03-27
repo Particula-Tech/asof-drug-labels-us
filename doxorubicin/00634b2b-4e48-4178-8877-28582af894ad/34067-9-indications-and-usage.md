@@ -2,7 +2,7 @@
 
 ## 1.1 Adjuvant Breast Cancer
 
-Doxorubicin HCl is indicated as a component of multi-agent adjuvant chemotherapy for treatment of women with axillary lymph node involvement following resection of primary breast cancer [see Clinical Studies (14.1)].
+Doxorubicin HCl is indicated as a component of multi-agent adjuvant chemotherapy for treatment of women with axillary lymph node involvement following resection of primary breast cancer [see Clinical Studies (14)].
 
 ## 1.2 Other Cancers
 
