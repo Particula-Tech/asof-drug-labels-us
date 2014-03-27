@@ -44,3 +44,15 @@ When transfer occurred with FORTESTA while covering a thigh with boxer shorts, m
 Effect of showering In a two-way crossover study, the effects of showering on the pharmacokinetics of total testosterone following application of FORTESTA (30 mg testosterone to each thigh; total 60 mg testosterone) were assessed in 7 hypogonadal males.
 There were two 7-day treatment phases, with showering 2 hours post FORTESTA application, and without showering on Day 7 of each treatment phase.
 Showering decreased Cavg by 3% and it increased Cmax by 13% [see Dosage and Administration (2.2)].
+
+Effect of hand washing and application site (inner thigh) washing In an open-label, single-dose study, the amount of residual testosterone on the application finger and application site after washing was evaluated in 12 healthy male subjects.
+Prior to application of FORTESTA, each index finger and each intended application site (left and right front and inner thighs) was wiped using dry sponges to assess baseline skin testosterone.
+Subjects then used each index finger to rub FORTESTA (40 mg testosterone) onto each inner thigh.
+On one side, the index finger was immediately wiped using dry sponges to collect residual testosterone.
+On the other side, each subject washed their hands with liquid soap and warm tap water immediately after drug application, then wiped the index finger using dry sponges to collect residual testosterone.
+A mean (SD) of 0.002 (0.006) mg of residual testosterone (i.e., 99.8% reduction compared to when hand was not washed) was recovered after washing hands with liquid soap and warm tap water.
+
+Two hours after the application of FORTESTA onto each inner thigh, one thigh was wiped using dry sponges.
+On the other thigh, the application site was washed with liquid soap and warm tap water, dried, and then wiped using dry sponges.
+The sponges were assayed for testosterone.
+A mean (SD) of 0.24 (0.009) mg of residual testosterone (i.e., 94.3% reduction compared to when application site was not washed) was recovered after application site washing.

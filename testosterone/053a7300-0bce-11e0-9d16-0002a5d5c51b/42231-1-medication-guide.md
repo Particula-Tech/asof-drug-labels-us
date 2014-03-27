@@ -51,6 +51,7 @@ What is FORTESTA?
 
 FORTESTA is a prescription medicine that contains testosterone.
 FORTESTA is used to treat adult males who have low or no testosterone.
+
 Your healthcare provider will test your blood before you start taking and while you are taking FORTESTA.
 
 It is not known if FORTESTA is safe or effective in children younger than 18 years old.
@@ -206,8 +207,8 @@ Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany
 
 Manufactured for: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
-© 2013 Endo Pharmaceuticals Inc. All rights reserved.
+© 2014 Endo Pharmaceuticals Inc. All rights reserved.
 
-Revised: 10/2013
+Revised: 3/2014
 
-PG2564
+LFT-TOS-US-001

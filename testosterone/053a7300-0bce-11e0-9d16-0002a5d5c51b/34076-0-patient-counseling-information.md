@@ -47,15 +47,15 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - It is important to adhere to all recommended monitoring.
 - Report any changes in their state of health, such as changes in urinary habits, breathing, sleep, and mood.
 - FORTESTA is prescribed to meet the patient’s specific needs, therefore, the patient should never share FORTESTA with anyone.
+- Wait 2 hours before swimming or washing following application of FORTESTA.
+  This will ensure that the greatest amount of FORTESTA is absorbed into their system.
 
 Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany
 
 Manufactured for: Endo Pharmaceuticals Inc., Malvern, PA 19355
 
-© 2013 Endo Pharmaceuticals Inc. All rights reserved.
+© 2014 Endo Pharmaceuticals Inc. All rights reserved.
 
 FORTESTA is a registered trademark of Endo Pharmaceuticals Inc.
 
-PG2927
-
-Revised: 10/2013
+LFT-TOS-US-002
