@@ -8,8 +8,8 @@ Corticosteroid-containing preparations have also been reported to cause acute an
 Keratitis, conjunctivitis, corneal ulcers, mydriasis, conjunctival hyperemia, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids.
 
 The development of secondary ocular infection (bacterial, fungal, and viral) have occurred.
-Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroid.
+Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids.
 The possibility of fungal invasion should be considered in any persistent corneal ulceration where steroid treatment has been used (see WARNINGS).
 
-Transient burning and stinging upon instillation and other minor symptoms of ocular irritation have been reported with the use of prednisolone acetate ophthalmic suspension 1.0%.
-Other adverse events reported with the use of prednisolone acetate ophthalmic suspension 1.0% include: visual disturbance (blurry vision); foreign body sensation; and allergic reactions.
+Transient burning and stinging upon instillation and other minor symptoms of ocular irritation have been reported with the use of prednisolone acetate ophthalmic suspension 1%.
+Other adverse events reported with the use of prednisolone acetate ophthalmic suspension 1% include: visual disturbance (blurry vision); foreign body sensation; and allergic reactions.

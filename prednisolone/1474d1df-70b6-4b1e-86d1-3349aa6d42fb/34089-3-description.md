@@ -1,14 +1,10 @@
 # DESCRIPTION
 
-Prednisolone acetate ophthalmic suspension, USP 1.0% is a topical anti-inflammatory agent for ophthalmic use.
+Prednisolone acetate ophthalmic suspension, USP 1% is a topical anti-inflammatory agent for ophthalmic use.
 
-Chemical Name:
+Chemical Name: 11ß,17, 21-Trihydroxypregna-1,4-diene-3, 20-dione 21-acetate
 
-11ß,17, 21-Trihydroxypregna-1,4-diene-3, 20-dione 21-acetate
-
-Contains: Active: prednisolone acetate (microfine suspension) 1.0%.
-Preservative: benzalkonium chloride.
-Inactives: boric acid; edetate disodium; hypromellose; polysorbate 80; purified water; sodium bisulfite; sodium chloride; and sodium citrate.
+Contains: Active: prednisolone acetate (microfine suspension) 1% Preservative: benzalkonium chloride Inactives: boric acid; edetate disodium; hypromellose; polysorbate 80; purified water; sodium bisulfite; sodium chloride; and sodium citrate.
 The pH during its shelf life ranges from 5.0 - 6.0.
 
 Structural Formula:

@@ -25,15 +25,19 @@ Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic pe
 
 # PRECAUTIONS
 
-General: The initial prescription and renewal of the medication order beyond 20 milliliters of prednisolone acetate ophthalmic suspension 1.0% should be made by a physician only after examination of the patient with the aid of magnification, such as slit lamp biomicroscopy, and, where appropriate, fluorescein staining.
+General
+
+The initial prescription and renewal of the medication order beyond 20 milliliters of prednisolone acetate ophthalmic suspension 1% should be made by a physician only after examination of the patient with the aid of magnification, such as slit lamp biomicroscopy, and, where appropriate, fluorescein staining.
 If signs and symptoms fail to improve after 2 days, the patient should be re-evaluated.
 
-As fungal infections of the cornea are particularly prone to develop coincidentally with longterm local corticosteroid applications, fungal invasion should be suspected in any persistent corneal ulceration where a corticosteroid has been used or is in use.
+As fungal infections of the cornea are particularly prone to develop coincidentally with long-term local corticosteroid applications, fungal invasion should be suspected in any persistent corneal ulceration where a corticosteroid has been used or is in use.
 Fungal cultures should be taken when appropriate.
 
 If this product is used for 10 days or longer, intraocular pressure should be monitored (see WARNINGS).
 
-Information for patients: If inflammation or pain persists longer than 48 hours or becomes aggravated, the patient should be advised to discontinue use of the medication and consult a physician.
+Information for Patients
+
+If inflammation or pain persists longer than 48 hours or becomes aggravated, the patient should be advised to discontinue use of the medication and consult a physician.
 
 This product is sterile when packaged.
 To prevent contamination, care should be taken to avoid touching the bottle tip to eyelids or to any other surface.
@@ -41,19 +45,29 @@ The use of this bottle by more than one person may spread infection.
 Keep bottle tightly closed when not in use.
 Keep out of the reach of children.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: No studies have been conducted in animals or in humans to evaluate the potential of these effects.
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Pregnancy Category C: Prednisolone has been shown to be teratogenic in mice when given in doses 1-10 times the human dose.
+No studies have been conducted in animals or in humans to evaluate the potential of these effects.
+
+Pregnancy Category C
+
+Prednisolone has been shown to be teratogenic in mice when given in doses 1-10 times the human dose.
 There are no adequate well-controlled studies in pregnant women.
 Prednisolone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Dexamethasone, hydrocortisone, and prednisolone were ocularly applied to both eyes of pregnant mice five times per day on days 10 through 13 of gestation.
 A significant increase in the incidence of cleft palate was observed in the fetuses of the treated mice.
 
-Nursing Mothers: It is not known whether topical ophthalmic administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in breast milk.
+Nursing Mothers
+
+It is not known whether topical ophthalmic administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in breast milk.
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 Because of the potential for serious adverse reactions in nursing infants from prednisolone, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-Pediatric Use: Safety and effectiveness in pediatric patients have not been established.
+Pediatric Use
 
-Geriatric Use: No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+Safety and effectiveness in pediatric patients have not been established.
+
+Geriatric Use
+
+No overall differences in safety or effectiveness have been observed between elderly and younger patients.
