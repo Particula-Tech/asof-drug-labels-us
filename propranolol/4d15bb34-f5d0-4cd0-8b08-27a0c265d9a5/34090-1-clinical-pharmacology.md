@@ -26,7 +26,7 @@ A single-dose, food-effect study in 36 healthy subjects showed that a high fat m
 Following multiple-dose administration of INNOPRAN XL at 10 p.m. under fasting conditions, the steady state lag time was between 4 and 5 hours and propranolol peak plasma concentrations were reached approximately 12 to 14 hours after dosing.
 Propranolol trough levels were achieved 24 to 27 hours after dosing, and persisted for 3 to 5 hours after the next dose.
 
-The plasma levels of propranolol showed dose-proportional increases after single and multiple administration of 80-, 120-, and 160-mg of INNOPRAN XL.
+The plasma levels of propranolol showed dose-proportional increases after single and multiple administration of 80, 120, and 160mg of INNOPRAN XL.
 
 At steady state, the bioavailability of a 160-mg dose of INNOPRAN XL and propranolol hydrochloride long-acting capsules did not differ significantly.
 
@@ -78,7 +78,7 @@ Propranolol is not significantly dialyzable.
 
 Hepatic Impairment: The pharmacokinetics of propranolol after administration of INNOPRAN XL have not been evaluated in patients with hepatic impairment.
 However, propranolol is extensively metabolized by the liver.
-In a study conducted in 7 patients with cirrhosis and 9 healthy subjects receiving 80-mg oral propranolol every 8 hours for 7 doses, the steady-state unbound propranolol concentration in patients with cirrhosis was 3-fold that of controls.
+In a study conducted in 7 patients with cirrhosis and 9 healthy subjects receiving 80 mg oral propranolol every 8 hours for 7 doses, the steady-state unbound propranolol concentration in patients with cirrhosis was 3-fold that of controls.
 In cirrhosis, the half-life increased to 11 hours compared to 4 hours.
 
 ## 12.7 Drug-Drug Interactions
@@ -131,5 +131,3 @@ Table 3 Impact of other drugs on exposure to propranolol
 | Aluminum hydroxide | Decreased 50% |
 | Diazepam | None |
 | Nisoldipine, nicardipine, nifedipine | Increased 50-80% |
-| Verapamil | None |
-| Chlorpromazine | Increased 70% |

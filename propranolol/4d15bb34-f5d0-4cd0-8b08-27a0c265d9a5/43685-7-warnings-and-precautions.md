@@ -4,38 +4,38 @@
 
 Following abrupt discontinuation of therapy with beta-blockers, exacerbations of angina pectoris and myocardial infarction have occurred.
 
-When discontinuing chronically administered Innopran XL, particularly in patients with ischemic heart disease, gradually reduce the dose over a period of 1-2 weeks and monitor the patients.
+When discontinuing chronically administered INNOPRAN XL, particularly in patients with ischemic heart disease, gradually reduce the dose over a period of 1-2 weeks and monitor the patients.
 If angina markedly worsens or acute coronary insufficiency develops, promptly resume therapy, at least temporarily and take other measures appropriate for the management of unstable angina.
 Warn patients against interruption or discontinuation of therapy without physician’s advice.
 
-Because coronary artery disease is common and may be unrecognized, avoid abrupt discontinuation of Innopran XL therapy even in patients treated only for hypertension.
+Because coronary artery disease is common and may be unrecognized, avoid abrupt discontinuation of INNOPRAN XL therapy even in patients treated only for hypertension.
 
 ## 5.2 Cardiac Failure
 
-Beta-blockers, like Innopran XL, can cause depression of myocardial contractility and may precipitate heart failure and cardiogenic shock.
+Beta-blockers, like INNOPRAN XL, can cause depression of myocardial contractility and may precipitate heart failure and cardiogenic shock.
 If signs or symptoms of heart failure develop, treat the patient according to recommended guidelines.
-It may be necessary to lower the dose of Innopran XL or to discontinue it.
+It may be necessary to lower the dose of INNOPRAN XL or to discontinue it.
 
-## 5.3 Maintain during Major Surgery
+## 5.3 Maintain During Major Surgery
 
-Chronically administered beta-blocking therapy, including Innopran XL, should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+Chronically administered beta-blocking therapy, including INNOPRAN XL, should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## 5.4 Masked Signs of Hypoglycemia
 
-Beta-blockers, like Innopran XL, may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+Beta-blockers, like INNOPRAN XL, may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
 
 ## 5.5 Thyrotoxicosis
 
-Innopran XL may mask clinical signs of hyperthyroidism, such as tachycardia.
+INNOPRAN XL may mask clinical signs of hyperthyroidism, such as tachycardia.
 Avoid abrupt withdrawal of beta-blockade, which may precipitate a thyroid storm.
 
 ## 5.6 Bradycardia
 
-Bradycardia, including sinus pause, heart block, and cardiac arrest have occurred with the use of Innopran XL.
+Bradycardia, including sinus pause, heart block, and cardiac arrest have occurred with the use of INNOPRAN XL.
 Patients with first-degree atrioventricular block, sinus node dysfunction, or conduction disorders (including Wolff-Parkinson-White) may be at increased risk.
 The concomitant use of beta adrenergic blockers and non-dihydropyridine calcium channel blockers (e.g., verapamil and diltiazem), digoxin or clonidine increases the risk of significant bradycardia.
-Monitor heart rate and rhythm in patients receiving Innopran XL.
-If severe bradycardia develops, reduce or stop Innopran XL.
+Monitor heart rate and rhythm in patients receiving INNOPRAN XL.
+If severe bradycardia develops, reduce or stop INNOPRAN XL.
 
 ## 5.7 Reduced Effectiveness of Epinephrine in Treating Anaphylaxis
 
