@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA125389"
+  ],
+  "inn": "human-immunoglobulin-g",
+  "labeler": "Biotest Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "59730-6502-1",
+    "59730-6503-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "human immunoglobulin g",
+      "name": "BIVIGAM"
+    }
+  ],
+  "setid": "a80da7b0-fd11-4dcd-b58c-1a475147476d",
+  "source": "dailymed"
+}
