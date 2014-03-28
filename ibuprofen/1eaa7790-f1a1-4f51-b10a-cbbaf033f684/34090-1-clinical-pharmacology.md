@@ -15,14 +15,19 @@ The pharmacokinetic parameters of Caldolor determined in a study with volunteers
 
 Table 3: Pharmacokinetic Parameters of Intravenous Ibuprofen
 
-|  | 400 mg= 60 minute infusion time Caldolor Mean (CV%) | 800 mg Caldolor Mean (CV%) |
+|  | 400 mg* Caldolor Mean (CV%) | 800 mg* Caldolor Mean (CV%) |
 | --- | --- | --- |
 | Number of Patients | 12 | 12 |
-| AUC (mcg.h/mL) | 109.3 (26.4) | 192.8 (18.5) |
+| AUC (mcg·h/mL) | 109.3 (26.4) | 192.8 (18.5) |
 | Cmax (mcg/mL) | 39.2 (15.5) | 72.6 (13.2) |
 | KEL (1/h) | 0.32 (17.9) | 0.29 (12.8) |
 | T1/2 (h) | 2.22 (20.1) | 2.44 (12.9) |
-| AUC = Area-under-the-curve Cmax = Peak plasma concentration CV = Coefficient of Variation KEL = First-order elimination rate constant T1/2 = Elimination half-life |  |  |
+| AUC = Area-under-the-curve |  |  |
+| Cmax = Peak plasma concentration |  |  |
+| CV = Coefficient of Variation |  |  |
+| KEL = First-order elimination rate constant |  |  |
+| T1/2 = Elimination half-life |  |  |
+| * = 60 minute infusion time |  |  |
 
 Ibuprofen, like most NSAIDs, is highly protein bound (>99% bound at 20 mcg/mL).
 Protein binding is saturable, and at concentrations >20 mcg/mL binding is nonlinear.

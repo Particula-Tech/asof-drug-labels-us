@@ -29,11 +29,11 @@ Pain Studies
 
 The incidence rates of adverse reactions listed in the following table were derived from multi-center, controlled clinical studies in post-operative patients comparing Caldolor to placebo in patients also receiving morphine as needed for post-operative pain.
 
-Table 1: Post-operative Patients with Adverse Reactions Observed in ≥ 3% of Patients in any Caldolor Treatment Group in Pain StudiesAll patients received concomitant morphine during these studies.
+Table 1: Post-operative Patients with Adverse Reactions Observed in ≥ 3% of Patients in any Caldolor Treatment Group in Pain Studies*
 
-| 400 mg (N=134) | 800 mg (N=304) |  |  |
-| --- | --- | --- | --- |
 | Event | Caldolor |  | Placebo (N=287) |
+| --- | --- | --- | --- |
+| 400 mg (N=134) | 800 mg (N=304) |  |  |
 | Any Reaction | 118 (88%) | 260 (86%) | 258 (90%) |
 | Nausea | 77 (57%) | 161 (53%) | 179 (62%) |
 | Vomiting | 30 (22%) | 46 (15%) | 50 (17%) |
@@ -50,6 +50,7 @@ Table 1: Post-operative Patients with Adverse Reactions Observed in ≥ 3% of Pa
 | Abdominal discomfort | 4 (3%) | 2 (<1%) | 0 |
 | Cough | 4 (3%) | 2 (<1%) | 1 (<1%) |
 | Hypokalemia | 5 (4%) | 3 (<1%) | 8 (3%) |
+| * All patients received concomitant morphine during these studies. |  |  |  |
 
 Fever Studies
 

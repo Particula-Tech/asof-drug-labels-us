@@ -11,4 +11,4 @@ Severe, rarely fatal anaphylactic-like reactions to NSAIDs have been reported in
 
 ## 4.3 Coronary Artery Bypass Graft (CABG)
 
-Caldolor is contraindicated for the treatment of perioperative pain in the setting of coronary artery bypass graft (CABG) surgery [see Warnings and Precautions (5.1)].
+Caldolor is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery [see Warnings and Precautions (5.1)].

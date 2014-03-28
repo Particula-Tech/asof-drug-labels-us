@@ -16,7 +16,7 @@ Inform patients of the importance of this follow-up [see Warnings and Precaution
 
 ## 17.3 Hepatotoxicity
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flulike" symptoms).
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flulike” symptoms).
 Instruct patients to stop therapy with Caldolor and seek immediate medical therapy if any of these occur [see Warnings and Precautions (5.3)].
 
 ## 17.4 Adverse Skin Reactions
@@ -37,3 +37,5 @@ If these occur, therapy should be discontinued and medical therapy initiated [se
 ## 17.7 Effects During Pregnancy
 
 Starting at 30 weeks gestation, Caldolor and other NSAIDs should be avoided by pregnant women as premature closure of the ductus arteriosus in the fetus may occur [see Use in Specific Populations (8.1)].
+
+Manufactured for: Cumberland Pharmaceuticals Inc. Nashville, TN 37203 US Patent Number 6,727,286
