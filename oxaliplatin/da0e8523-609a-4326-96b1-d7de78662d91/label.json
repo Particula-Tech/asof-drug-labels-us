@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091358"
+  ],
+  "inn": "oxaliplatin",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-442-20",
+    "67457-469-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "oxaliplatin",
+      "name": "Oxaliplatin"
+    }
+  ],
+  "setid": "da0e8523-609a-4326-96b1-d7de78662d91",
+  "source": "dailymed"
+}
