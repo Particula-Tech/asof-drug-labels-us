@@ -73,7 +73,9 @@ Fort Worth, Texas 76177 USA
 
 Manufactured by: G Production Inc. Baie d’Urfe´, QC, H9X 3S4 Canada Made in Canada GALDERMA is a registered trademark. www.differin.com P51959-2
 
-Differin® 0.3(adapalene)gel, 0.3%
+Differin® 0.3
+
+(adapalene) gel, 0.3%
 
 GEL
 
@@ -101,4 +103,4 @@ Storage: Store at controlled room temperature 68° to 77°F (20° to 25°C) with
 Protect from freezing.
 
 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA Manufactured by: G Production Inc. Baie d’Urfe´, QC, H9X 3S4 Canada Made in Canada GALDERMA is a registered trademark. www.differin.com P51241-1
+Fort Worth, Texas 76177 USA Manufactured by: G Production Inc. Baie d’Urfe´, QC, H9X 3S4 Canada Made in Canada GALDERMA is a registered trademark. www.differin.com P51241-2
