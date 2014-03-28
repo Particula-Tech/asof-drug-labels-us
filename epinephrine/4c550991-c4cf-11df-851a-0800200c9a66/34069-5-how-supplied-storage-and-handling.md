@@ -1,14 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 HOW SUPPLIED
+## 16.1 How Supplied
 
-Carton containing two Auvi‑Q™ (epinephrine injection, USP) 0.3 mg auto-injectors and a single Auvi‑Q™ Trainer - NDC 0024-5833-02
+Carton containing two Auvi‑Q® (epinephrine injection, USP) 0.3 mg auto-injectors and a single Auvi‑Q® Trainer - NDC 0024-5833-02
 
-Carton containing two Auvi‑Q™ (epinephrine injection, USP) 0.15 mg auto-injectors and a single Auvi‑Q™ Trainer - NDC 0024-5831-02
+Carton containing two Auvi‑Q® (epinephrine injection, USP) 0.15 mg auto-injectors and a single Auvi‑Q® Trainer - NDC 0024-5831-02
 
 Rx only
 
-## 16.2 STORAGE AND HANDLING
+## 16.2 Storage and Handling
 
 Epinephrine is light sensitive and should be stored in the outer case provided to protect it from light.
 Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F).

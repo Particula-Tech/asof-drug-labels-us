@@ -1,10 +1,10 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 MECHANISM OF ACTION
+## 12.1 Mechanism of Action
 
 Epinephrine acts on both alpha and beta-adrenergic receptors.
 
-## 12.2 PHARMACODYNAMICS
+## 12.2 Pharmacodynamics
 
 Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension.
 

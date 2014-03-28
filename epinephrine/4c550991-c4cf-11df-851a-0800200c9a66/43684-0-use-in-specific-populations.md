@@ -1,6 +1,6 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 PREGNANCY
+## 8.1 Pregnancy
 
 Teratogenic Effects: Pregnancy Category C.
 
@@ -13,18 +13,18 @@ Epinephrine has been shown to have teratogenic effects when administered subcuta
 
 These effects were not seen in mice at approximately 3 times the maximum recommended daily subcutaneous or intramuscular dose (on a mg/m2 basis at a subcutaneous maternal dose of 0.5 mg/kg/day for 10 days).
 
-## 8.3 NURSING MOTHERS
+## 8.3 Nursing Mothers
 
 It is not known whether epinephrine is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Auvi‑Q™ is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Auvi‑Q® is administered to a nursing woman.
 
-## 8.4 PEDIATRIC USE
+## 8.4 Pediatric Use
 
-Auvi‑Q™ may be given safely to pediatric patients at a dosage appropriate to body weight [see DOSAGE AND ADMINISTRATION (2)].
+Auvi‑Q® may be given safely to pediatric patients at a dosage appropriate to body weight [see DOSAGE AND ADMINISTRATION (2)].
 However, studies in pediatric patients weighing less than 15 kg (33 pounds) have not been conducted.
 
-## 8.5 GERIATRIC USE
+## 8.5 Geriatric Use
 
-Clinical studies of Auvi‑Q™ did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of Auvi‑Q® did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 Epinephrine should be administered with caution in elderly individuals, who may be at greater risk for developing adverse reactions after epinephrine administration [see WARNINGS AND PRECAUTIONS (5.4), OVERDOSAGE (10)].

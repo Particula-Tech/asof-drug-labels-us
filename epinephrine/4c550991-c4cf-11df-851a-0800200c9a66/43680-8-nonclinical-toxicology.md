@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies to evaluate the carcinogenic potential of epinephrine have not been conducted.
 

@@ -6,7 +6,7 @@ FOR ALLERGIC EMERGENCIES in patients weighing over 66 lb
 
 PUSH HERE & LIFT
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi-Q® epinephrine injection, USP 0.3 mg auto-injector
 
 2 PREFILLED AUTO-INJECTORS + 1 TRAINER
 
@@ -23,7 +23,7 @@ FOR ALLERGIC EMERGENCIES in patients weighing over 66 lb
 
 PUSH HERE & LIFT
 
-Auvi-Q™ epinephrine injection, USP 0.3 mg auto-injector
+Auvi-Q® epinephrine injection, USP 0.3 mg auto-injector
 
 1 PREFILLED AUTO-INJECTOR + 1 TRAINER
 
@@ -37,7 +37,7 @@ FOR ALLERGIC EMERGENCIES in patients weighing 33 lb–66 lb
 
 PUSH HERE & LIFT
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi-Q® epinephrine injection, USP 0.15 mg auto-injector
 
 2 PREFILLED AUTO-INJECTORS + 1 TRAINER
 
@@ -54,7 +54,7 @@ FOR ALLERGIC EMERGENCIES in patients weighing 33 lb–66 lb
 
 PUSH HERE & LIFT
 
-Auvi-Q™ epinephrine injection, USP 0.15 mg auto-injector
+Auvi-Q® epinephrine injection, USP 0.15 mg auto-injector
 
 1 PREFILLED AUTO-INJECTOR + 1 TRAINER
 
@@ -66,7 +66,7 @@ Principal Display Panel - Trainer Carton
 
 PUSH HERE & LIFT
 
-TRAINER FOR Auvi-Q™
+TRAINER FOR Auvi-Q®
 
 CONTAINS NO ACTIVE DRUG OR NEEDLE
 
