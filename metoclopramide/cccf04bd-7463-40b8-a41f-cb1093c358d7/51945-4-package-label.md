@@ -1,10 +1,10 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-## Metoclopramide Injection 5 mg/mL, 25 x 2 mL Single Dose Vial Tray Text
+## Metoclopramide Injection 5 mg/mL, 25 x 2 mL Single-Use Vials, Tray Text
 
 NDC 0703-4502-04 Rx only
 
-Metoclopramide Injection, USP
+Metoclopramide Injection USP
 
 10 mg/2 mL
 
@@ -12,9 +12,9 @@ Metoclopramide Injection, USP
 
 of metoclopramide present as the hydrochloride
 
-25 x 2 mL Single Dose Vials
+25 x 2 mL Single-Use Vials
 
-For IM or IV Use
+For Intramuscular or Intravenous Use
 
 Dispense the accompanying Medication Guide to each patient.
 

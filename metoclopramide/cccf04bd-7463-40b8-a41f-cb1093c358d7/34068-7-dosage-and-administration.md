@@ -48,7 +48,7 @@ For dosage, see intubation above.
 Since metoclopramide is excreted principally through the kidneys, in those patients whose creatinine clearance is below 40 mL/min, therapy should be initiated at approximately one-half the recommended dosage.
 Depending upon clinical efficacy and safety considerations, the dosage may be increased or decreased as appropriate.
 
-SeeOVERDOSAGE section for information regarding dialysis.
+See OVERDOSAGE section for information regarding dialysis.
 
 Metoclopramide undergoes minimal hepatic metabolism, except for simple conjugation.
 Its safe use has been described in patients with advanced liver disease whose renal function was normal.

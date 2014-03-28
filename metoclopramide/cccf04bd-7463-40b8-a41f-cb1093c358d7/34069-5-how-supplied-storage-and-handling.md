@@ -1,10 +1,10 @@
 # HOW SUPPLIED
 
-Metoclopramide injection USP is supplied in 2 mL single dose vials packaged 25 per shelf pack.
+Metoclopramide injection USP is supplied in 2 mL single-use vials packaged 25 per shelf pack.
 
 | NDC Number | Metoclopramide Injection USP | Volume |
 | --- | --- | --- |
-| 0703-4502-04 | 5 mg/mL | 2 mL in a 2 mL single dose vial |
+| 0703-4502-04 | 5 mg/mL | 2 mL in a 2 mL single-use vial |
 
 PROTECT FROM LIGHT.
 Store in shelf pack until time of use.
@@ -14,11 +14,11 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Inspect the vial before use and discard if either color or particulate is observed.
 Dilutions may be stored unprotected from light under normal light conditions for up to 24 hours after preparation.
 Do not freeze.
-Do not store open single dose vials for later use, as they contain no preservative.
+Do not store open single-use vials for later use, as they contain no preservative.
 Discard unused portion.
 
 Rev.
-A 11/2012
+B 10/2013
 
 Teva Parenteral Medicines, Inc.
 

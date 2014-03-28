@@ -10,7 +10,7 @@ In arriving at a diagnosis, it is important to identify cases where the clinical
 Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, malignant hyperthermia, drug fever and primary central nervous system (CNS) pathology.
 
 The management of NMS should include 1) immediate discontinuation of metoclopramide and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
-Bromocriptine and dantrolene sodium have been used in treatment of NMS, but their effectiveness have not been established (seeADVERSE REACTIONS).
+Bromocriptine and dantrolene sodium have been used in treatment of NMS, but their effectiveness have not been established (see ADVERSE REACTIONS).
 
 ## Extrapyramidal Symptoms (EPS)
 
@@ -115,14 +115,14 @@ Caution should be exercised when metoclopramide is administered to a nursing mot
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established except as stated to facilitate small bowel intubation (seeOVERDOSAGEandDOSAGE AND ADMINISTRATION).
+Safety and effectiveness in pediatric patients have not been established except as stated to facilitate small bowel intubation (see OVERDOSAGEandDOSAGE AND ADMINISTRATION).
 
-Care should be exercised in administering metoclopramide to neonates since prolonged clearance may produce excessive serum concentrations (seeCLINICAL PHARMACOLOGY — Pharmacokinetics).
-In addition, neonates have reduced levels of NADH-cytochrome b5 reductase which, in combination with the aforementioned pharmacokinetic factors, make neonates more susceptible to methemoglobinemia (seeOVERDOSAGE).
+Care should be exercised in administering metoclopramide to neonates since prolonged clearance may produce excessive serum concentrations (see CLINICAL PHARMACOLOGY — Pharmacokinetics).
+In addition, neonates have reduced levels of NADH-cytochrome b5 reductase which, in combination with the aforementioned pharmacokinetic factors, make neonates more susceptible to methemoglobinemia (see OVERDOSAGE).
 
 The safety profile of metoclopramide in adults cannot be extrapolated to pediatric patients.
 Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults.
-(SeeWARNINGS andADVERSE REACTIONS — Extrapyramidal Reactions.)
+(See WARNINGS andADVERSE REACTIONS — Extrapyramidal Reactions.)
 
 ## Geriatric Use
 
@@ -132,16 +132,16 @@ The risk of developing parkinsonian-like side effects increases with ascending d
 Geriatric patients should receive the lowest dose of metoclopramide injection USP that is effective.
 If parkinsonian-like symptoms develop in a geriatric patient receiving metoclopramide injection USP, metoclopramide injection USP should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS).
 
-The elderly may be at greater risk for tardive dyskinesia (seeWARNINGS - Tardive Dyskinesia).
+The elderly may be at greater risk for tardive dyskinesia (see WARNINGS - Tardive Dyskinesia).
 
 Sedation has been reported in metoclopramide injection USP users.
-Sedation may cause confusion and manifest as over-sedation in elderly (seeCLINICAL PHARMACOLOGY, PRECAUTIONS – Information for Patients andADVERSE REACTIONS – CNS Effects).
+Sedation may cause confusion and manifest as over-sedation in elderly (see CLINICAL PHARMACOLOGY, PRECAUTIONS – Information for Patients and ADVERSE REACTIONS – CNS Effects).
 
-Metoclopramide injection USP is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (seeDOSAGE AND ADMINISTRATION - Use in Patients With Renal or Hepatic Impairment).
+Metoclopramide injection USP is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION - Use in Patients With Renal or Hepatic Impairment).
 
-For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (seeUse in Patients With Renal or Hepatic Impairment).
+For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see Use in Patients With Renal or Hepatic Impairment).
 
 ## Other Special Populations
 
 Patients with NADH-cytochrome b5 reductase deficiency are at an increased risk of developing methemoglobinemia and/or sulfhemoglobinemia when metoclopramide is administered.
-In patients with G6PD deficiency who experience metoclopramide-induced methemoglobinemia, methylene blue treatment is not recommended (seeOVERDOSAGE).
+In patients with G6PD deficiency who experience metoclopramide-induced methemoglobinemia, methylene blue treatment is not recommended (see OVERDOSAGE).

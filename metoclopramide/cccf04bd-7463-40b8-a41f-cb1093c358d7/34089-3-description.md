@@ -8,6 +8,6 @@ Metoclopramide injection USP is a clear, colorless, sterile solution with a pH o
 This product is light sensitive.
 It should be inspected before use and discarded if either color or particulate is observed.
 
-Metoclopramide injection USP is supplied in 2 mL single dose vials.
+Metoclopramide injection USP is supplied in 2 mL single-use vials.
 
 Each 1 mL contains: Metoclopramide base 5 mg (present as the hydrochloride), Sodium Chloride, USP 8.5 mg, Water for Injection, USP q.s. pH is adjusted with hydrochloric acid and/or sodium hydroxide if necessary.
