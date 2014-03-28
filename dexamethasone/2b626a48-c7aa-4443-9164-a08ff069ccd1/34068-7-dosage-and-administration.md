@@ -63,7 +63,7 @@ Dexamethasone tablets, 0.75 mg: second and third days, 4 tablets in two divided 
 
 This schedule is designed to ensure adequate therapy during acute episodes, while minimizing the risk of overdosage in chronic cases.
 
-## Intra-articular, Intralesiona and Soft Tissue Injection
+## Intra-articular, Intralesional and Soft Tissue Injection
 
 Intra-articular, intralesional, and soft tissue injections are generally employed when the affected joints or areas are limited to one or two sites.
 Dosage and frequency of injection varies depending on the condition and the site of injection.

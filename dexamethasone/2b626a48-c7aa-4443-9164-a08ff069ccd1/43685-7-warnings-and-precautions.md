@@ -18,7 +18,7 @@ Since mineralocorticoid secretion may be impaired, salt and/or a mineralocortico
 
 Corticosteroids may mask some signs of infection, and new infections may appear during their use.
 There may be decreased resistance and inability to localize infection when corticosteroids are used.
-Moreover, corticosteroids may affect the nitrobluetetrazolium test for bacterial infection and produce false negative results.
+Moreover, corticosteroids may affect the nitroblue-tetrazolium test for bacterial infection and produce false negative results.
 
 In cerebral malaria, a double-blind trial has shown that the use of corticosteroids is associated with prolongation of coma and a higher incidence of pneumonia and gastrointestinal bleeding.
 
