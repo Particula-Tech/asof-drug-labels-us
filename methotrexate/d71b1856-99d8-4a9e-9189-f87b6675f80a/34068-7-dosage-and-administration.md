@@ -4,7 +4,7 @@
 
 Oral administration in tablet form is often preferred when low doses are being administered since absorption is rapid and effective serum levels are obtained.
 
-### Choriocarcinoma andSsimila TtrophoblasticDdiseases
+### Choriocarcinomaand similar trophoblastic diseases
 
 Methotrexate is administered orally or intramuscularly in doses of 15 to 30 mg daily for a five-day course.
 Such courses are usually repeated for 3 to 5 times as required, with rest periods of one or more weeks interposed between courses, until any manifesting toxic symptoms subside.
@@ -13,7 +13,7 @@ One to two courses of methotrexate after normalization of hCG is usually recomme
 Before each course of the drug careful clinical assessment is essential.
 Cyclic combination therapy of methotrexate with other antitumor drugs has been reported as being useful.
 
-Since hydatidiforme mole may precede choriocarcinoma, prophylactic chemotherapy with methotrexate has been recommended.
+Since hydatidiform mole may precede choriocarcinoma, prophylactic chemotherapy with methotrexate has been recommended.
 
 Chorioadenoma destruens is considered to be an invasive form of hydatidiform mole.
 Methotrexate is administered in these disease states in doses similar to those recommended for choriocarcinoma.
@@ -55,8 +55,8 @@ Methotrexate has also been administered twice weekly in doses ranging from 15 to
 
 Recommended Starting Dosage Schedules
 
-1. Single oral doses of 7.5 mg once weekly.
-2. Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a course once weekly.
+- 1.Single oral doses of 7.5 mg once weekly.
+- 2.Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a course once weekly.
 
 ### Polyarticular-Course Juvenile Rheumatoid Arthritis
 
@@ -73,14 +73,12 @@ The optimal duration of therapy is unknown.
 Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least two years with continued therapy.
 When methotrexate is discontinued, the arthritis usually worsens within 3 to 6 weeks.
 
-The patient should befully informed of the risks involved and should be under constant supervision of the physician..
+The patient should befully informed of the risks involved and should be under constant supervision of the physician.
 (See Information for Patients under PRECAUTIONS.)
 Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting methotrexate therapy.
 (See PRECAUTIONS.)
 Appropriate steps should be taken to avoid conception during methotrexate therapy.
 (See PRECAUTIONS and CONTRAINDICATIONS.)
-
-Weekly therapy may be instituted to provide doses over a range of 5 mg to 15 mg administered as a single weekly dose.
 
 All schedules should be continually tailored to the individual patient.
 An initial test dose may be given prior to the regular dosing schedule to detect any extreme sensitivity to adverse effects.
@@ -91,8 +89,8 @@ Maximal myelosuppression usually occurs in seven to ten days.
 
 Recommended Starting Dose Schedules
 
-1. Weekly single oral, IM or IV dose schedule: 10 to 25 mg per week until adequate response is achieved.
-2. Divided oral dose schedule: 2.5 mg at 12-hour intervals for three doses.
+- 1.Weekly single oral, IM or IV dose schedule: 10 to 25 mg per week until adequate response is achieved.
+- 2.Divided oral dose schedule: 2.5 mg at 12-hour intervals for three doses.
 
 Dosages in each schedule may be gradually adjusted to achieve optimal clinical response; 30 mg/week should not ordinarily be exceeded.
 
