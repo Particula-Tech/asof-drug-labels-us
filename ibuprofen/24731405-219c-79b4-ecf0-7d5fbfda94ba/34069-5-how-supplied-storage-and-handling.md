@@ -39,10 +39,10 @@ Bottles of 500 NDC 55111-684-05 (PACKAGE NOT CHILD-RESISTANT)
 Store at room temperature.
 Avoid excessive heat 40°C (104°F).
 
-Distributed by:
+Manufactured by:
 
-Dr. Reddy’s Laboratories, Inc.
+Dr. Reddy’s Laboratories Louisiana, LLC
 
-Bridgewater, NJ 08807 USA
+Shreveport, LA 71106 USA
 
-Revised, July 2013
+Revised, October 2013
