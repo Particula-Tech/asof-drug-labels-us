@@ -8,7 +8,7 @@ Use of drugs that act on the renin-angiotensin system during the second and thir
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue Exforge HCT as soon as possible.
-These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
+These adverse outcomes are usually associated with use of these drugs in the second and third trimesters of pregnancy.
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
 Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
@@ -17,8 +17,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue Exforge HCT, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to Exforge HCT for hypotension, oliguria, and hyperkalemia.
-[see Use in Specific Populations (8.4)]
+Closely observe infants with histories of in utero exposure to Exforge HCT for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
 
 Hydrochlorothiazide
 
@@ -52,8 +51,8 @@ No overall differences in the efficacy or safety of Exforge HCT were observed in
 
 ## 8.6 Renal Impairment
 
-Safety and effectiveness of Exforge HCT in patients with severe renal impairment (CrCl< 30 mL/min) have not been established.
-No dose adjustment is required in patients with mild (60-90 mL/min) or moderate (CrCl 30-60) renal impairment.
+Safety and effectiveness of Exforge HCT in patients with severe renal impairment (CrCl <30 mL/min) have not been established.
+No dose adjustment is required in patients with mild (CrCl 60 to 90 mL/min) or moderate (CrCl 30 to 60 mL/min) renal impairment.
 
 ## 8.7 Hepatic Impairment
 

@@ -10,7 +10,7 @@ A total of 55% of patients were male, 14% were 65 years or older, 72% were Cauca
 At week 8, the triple combination therapy produced greater reductions in blood pressure than each of the 3 dual combination treatments (p<0.0001 for both diastolic and systolic blood pressures reductions).
 The reductions in systolic/diastolic blood pressure with Exforge HCT were 7.6/5.0 mmHg greater than with valsartan/HCTZ, 6.2/3.3 mmHg greater than with amlodipine/valsartan, and 8.2/5.3 mmHg greater than with amlodipine/HCTZ (see Figure 1).
 The full blood pressure lowering effect was achieved 2 weeks after being on the maximal dose of Exforge HCT (see Figure 2 and Figure 3).
-As the pivotal study was an active-controlled trial, the treatment effects shown in Figure 1, 2, and 3 include a placebo effect of unknown size.
+As the pivotal study was an active-controlled trial, the treatment effects shown in Figures 1, 2, and 3 include a placebo effect of unknown size.
 
 A subgroup of 283 patients was studied with ambulatory blood pressure monitoring.
 The blood pressure lowering effect in the triple therapy group was maintained throughout the 24-hour period (see Figure 4 and Figure 5).

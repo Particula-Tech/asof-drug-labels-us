@@ -41,7 +41,7 @@ Consider withholding or discontinuing therapy in patients who develop a clinical
 
 In the controlled trial of Exforge HCT in moderate to severe hypertensive patients, the incidence of hypokalemia (serum potassium <3.5 mEq/L) at any time post-baseline with the maximum dose of Exforge HCT (10/320/25 mg) was 10% compared to 25% with HCTZ/amlodipine (25/10 mg), 7% with valsartan/HCTZ (320/25 mg), and 3% with amlodipine/valsartan (10/320 mg).
 One patient (0.2%) discontinued therapy due to an adverse event of hypokalemia in each of the Exforge HCT and HCTZ/amlodipine groups.
-The incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4% with Exforge HCT compared to 0.2-0.7% with the dual therapies.
+The incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4% with Exforge HCT compared to 0.2% to 0.7% with the dual therapies.
 
 Some patients with heart failure have developed increases in potassium on valsartan.
 These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment.
@@ -53,7 +53,7 @@ Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
 Monitor serum electrolytes periodically.
 
 If hypokalemia is accompanied by clinical signs (e.g., muscular weakness, paresis, or ECG alterations), Exforge HCT should be discontinued.
-Correction of hypokalemia and any coexisting hypomagnesmia is recommended prior to the initiation of thiazides.
+Correction of hypokalemia and any coexisting hypomagnesemia is recommended prior to the initiation of thiazides.
 
 ## 5.6 Hypersensitivity Reaction
 
@@ -65,7 +65,8 @@ Thiazide diuretics have been reported to cause exacerbation or activation of sys
 
 ## 5.8 Lithium Interaction
 
-Lithium generally should not be given with thiazides [see Drug Interactions, Hydrochlorothiazide, Lithium (7)].
+Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of valsartan or thiazide diuretics.
+Monitor lithium levels in patients receiving Exforge HCT and lithium [see Drug Interactions (7)].
 
 ## 5.9 Metabolic Imbalances
 

@@ -109,20 +109,20 @@ Exforge HCT may be administered with or without food.
 
 Amlodipine
 
-Peak plasma concentrations of amlodipine are reached 6-12 hours after administration of amlodipine alone.
+Peak plasma concentrations of amlodipine are reached 6 to 12 hours after administration of amlodipine alone.
 Absolute bioavailability has been estimated to be between 64% and 90%.
 The apparent volume of distribution of amlodipine is 21 L/kg.
 Approximately 93% of circulating amlodipine is bound to plasma proteins in hypertensive patients.
 
 Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism with 10% of the parent compound and 60% of the metabolites excreted in the urine.
 
-Elimination of amlodipine from the plasma is biphasic with a terminal elimination half-life of about 30-50 hours.
+Elimination of amlodipine from the plasma is biphasic with a terminal elimination half-life of about 30 to 50 hours.
 Steady state plasma levels of amlodipine are reached after 7 to 8 days of consecutive daily dosing.
 
 Valsartan
 
 Following oral administration of valsartan alone peak plasma concentrations of valsartan are reached in 2 to 4 hours.
-Absolute bioavailability is about 25% (range 10%-35%).
+Absolute bioavailability is about 25% (range 10% to 35%).
 
 The steady state volume of distribution of valsartan after intravenous administration is 17 L indicating that valsartan does not distribute into tissues extensively.
 Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
@@ -163,10 +163,9 @@ There is no apparent correlation between renal function (measured by creatinine 
 Valsartan has not been studied in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
 
-In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30 < CrCl < 90 mL/min) and tripled in severe renal impairment (≤ 30 mL/min), compared to individuals with normal renal function (CrCl > 90 mL/min).
-[see Use in Special Populations (8.6)]
+In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30< CrCl <90 mL/min) and tripled in severe renal impairment (CrCl ≤30 mL/min), compared to individuals with normal renal function (CrCl >90 mL/min) [see Use in Special Populations (8.6)].
 
-Hepatic Insufficiency: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40%-60%.
+Hepatic Insufficiency: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40% to 60%.
 On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight).
 [see Use in Special Populations (8.7)]
 
@@ -208,7 +207,7 @@ Conversely, pro-kinetic drugs may decrease the bioavailability of thiazide diure
 Cholestyramine: In a dedicated drug interaction study, administration of cholestyramine 2 hours before hydrochlorothiazide resulted in a 70% reduction in exposure to hydrochlorothiazide.
 Further, administration of hydrochlorothiazide 2 hours before cholestyramine resulted in 35% reduction in exposure to hydrochlorothiazide.
 
-Antineoplastic agents (e.g. cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.
+Antineoplastic agents (e.g., cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.
 
 Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
 

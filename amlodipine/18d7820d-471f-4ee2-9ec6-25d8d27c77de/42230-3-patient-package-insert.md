@@ -75,8 +75,8 @@ Especially tell your doctor if you take:
 - digoxin or other digitalis glycosides (a heart medicine)
 - muscle relaxants (medicines used during operations)
 - certain cancer medicines, like cyclophosphamide or methotrexate
-- medicines used to prevent and treat fungal infections (such as ketoconazole, intraconazole).
-- medicines used to treat bacterial infections (such as clarithromycin, telithromycin).
+- medicines used to prevent and treat fungal infections (such as ketoconazole, intraconazole)
+- medicines used to treat bacterial infections (such as clarithromycin, telithromycin)
 - certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
 
@@ -143,7 +143,7 @@ The most common side effects of EXFORGE HCT include:
 - tiredness
 - muscle spasms
 - back pain
-- nausea.
+- nausea
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -197,4 +197,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-191 September 2012
+T2014-35 March 2014
