@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021232"
+  ],
+  "inn": "nitisinone",
+  "labeler": "SWEDISH ORPHAN BIOVITRUM AB (PUBL)",
+  "package_ndcs": [
+    "66658-102-60",
+    "66658-105-60",
+    "66658-110-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nitisinone",
+      "name": "Orfadin"
+    }
+  ],
+  "setid": "5d449b73-d503-4132-b978-d890491975df",
+  "source": "dailymed"
+}
