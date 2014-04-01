@@ -17,8 +17,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue Diovan, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to Diovan for hypotension, oliguria, and hyperkalemia.
-[see Use in Specific Populations (8.4)]
+Closely observe infants with histories of in utero exposure to Diovan for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
 
 ## 8.3 Nursing Mothers
 
@@ -38,7 +37,7 @@ Diovan is not recommended for pediatric patients under 6 years of age due to saf
 
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
 
-There is limited clinical experience with Diovan in pediatric patients with mild to moderate hepatic impairment [See Warnings and Precautions (5.3)].
+There is limited clinical experience with Diovan in pediatric patients with mild to moderate hepatic impairment [see Warnings and Precautions (5.3)].
 
 Daily oral dosing of neonatal/juvenile rats with valsartan at doses as low as 1 mg/kg/day (about 10% of the maximum recommended pediatric dose on a mg/m2 basis) from postnatal day 7 to postnatal day 70 produced persistent, irreversible kidney damage.
 These kidney effects in neonatal rats represent expected exaggerated pharmacological effects that are observed if rats are treated during the first 13 days of life.
@@ -60,8 +59,8 @@ There were no notable differences in efficacy or safety between older and younge
 
 ## 8.6 Renal Impairment
 
-Safety and effectiveness of Diovan in patients with severe renal impairment (CrCl ≤ 30 mL/min) have not been established.
-No dose adjustment is required in patients with mild (CrCl 60-90 mL/min) or moderate (CrCl 30-60) renal impairment.
+Safety and effectiveness of Diovan in patients with severe renal impairment (CrCl ≤30 mL/min) have not been established.
+No dose adjustment is required in patients with mild (CrCl 60 to 90 mL/min) or moderate (CrCl 30 to 60) renal impairment.
 
 ## 8.7 Hepatic Impairment
 

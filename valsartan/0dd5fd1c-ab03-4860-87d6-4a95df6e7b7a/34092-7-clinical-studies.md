@@ -4,7 +4,7 @@
 
 Adult Hypertension
 
-The antihypertensive effects of Diovan (valsartan) were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (one in patients over 65) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115.
+The antihypertensive effects of Diovan (valsartan) were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (one in patients over 65 years) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115 mmHg.
 The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.
 
 Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic and diastolic blood pressure, usually with little or no orthostatic change.
@@ -24,7 +24,7 @@ Abrupt withdrawal of valsartan has not been associated with a rapid increase in 
 The blood pressure lowering effect of valsartan and thiazide-type diuretics are approximately additive.
 
 The 7 studies of valsartan monotherapy included over 2,000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo.
-Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6-9/3-5 mmHg at 80-160 mg and 9/6 mmHg at 320 mg.
+Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6-9/3-5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg.
 In a controlled trial the addition of HCTZ to valsartan 80 mg resulted in additional lowering of systolic and diastolic blood pressure by approximately 6/3 and 12/5 mmHg for 12.5 and 25 mg of HCTZ, respectively, compared to valsartan 80 mg alone.
 
 Patients with an inadequate response to 80 mg once daily were titrated to either 160 mg once daily or 80 mg twice daily, which resulted in a comparable response in both groups.
@@ -39,7 +39,7 @@ Pediatric Hypertension
 
 The antihypertensive effects of Diovan were evaluated in two randomized, double-blind clinical studies.
 
-In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed < 35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed ≥ 35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
+In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed ≥35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
 Renal and urinary disorders, and essential hypertension with or without obesity were the most common underlying causes of hypertension in children enrolled in this study.
 At the end of 2 weeks, valsartan reduced both systolic and diastolic blood pressure in a dose-dependent manner.
 Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by -8, -10, -12 mm Hg from the baseline, respectively.
@@ -48,8 +48,7 @@ In patients who continued to receive the medium and high doses of valsartan, sys
 In patients receiving the low dose of valsartan, systolic blood pressure at trough was similar to that of patients who received the placebo treatment.
 Overall, the dose-dependent antihypertensive effect of valsartan was consistent across all the demographic subgroups.
 
-In a clinical study involving 90 hypertensive pediatric patients 1 to 5 years of age with a similar study design, there was some evidence of effectiveness, but safety findings for which a relationship to treatment could not be excluded mitigate against recommending use in this age group.
-[see Adverse Reactions (6.1)].
+In a clinical study involving 90 hypertensive pediatric patients 1 to 5 years of age with a similar study design, there was some evidence of effectiveness, but safety findings for which a relationship to treatment could not be excluded mitigate against recommending use in this age group [see Adverse Reactions (6.1)].
 
 ## 14.2 Heart Failure
 
@@ -59,7 +58,7 @@ Other background therapy included diuretics (86%), digoxin (67%), and beta-block
 The population studied was 80% male, 46% 65 years or older and 89% Caucasian.
 At the end of the trial, patients in the valsartan group had a blood pressure that was 4 mmHg systolic and 2 mmHg diastolic lower than the placebo group.
 There were two primary end points, both assessed as time to first event: all-cause mortality and heart failure morbidity, the latter defined as all-cause mortality, sudden death with resuscitation, hospitalization for heart failure, and the need for intravenous inotropic or vasodilatory drugs for at least 4 hours.
-These results are summarized in the table below.
+These results are summarized in the following table.
 
 |  | Placebo | Valsartan | Hazard Ratio | Nominal |
 | --- | --- | --- | --- | --- |
@@ -113,7 +112,7 @@ The mean daily dose of Diovan in the monotherapy group was 217 mg.
 
 The primary endpoint was time to all-cause mortality.
 Secondary endpoints included (1) time to cardiovascular (CV) mortality, and (2) time to the first event of cardiovascular mortality, reinfarction, or hospitalization for heart failure.
-The results are summarized in the table below:
+The results are summarized in the following table.
 
 |  | Valsartan vs. Captopril (N=4,909) (N=4,909) |  |  | Valsartan + Captopril vs. Captopril (N=4,885) (N=4,909) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -126,9 +125,9 @@ There was no difference in overall mortality among the three treatment groups.
 There was thus no evidence that combining the ACE inhibitor captopril and the angiotensin II blocker valsartan was of value.
 
 The data were assessed to see whether the effectiveness of valsartan could be demonstrated by showing in a non-inferiority analysis that it preserved a fraction of the effect of captopril, a drug with a demonstrated survival effect in this setting.
-A conservative estimate of the effect of captopril (based on a pooled analysis of 3 post-infarction studies of captopril and 2 other ACE inhibitors) was a 14-16% reduction in mortality compared to placebo.
+A conservative estimate of the effect of captopril (based on a pooled analysis of 3 post-infarction studies of captopril and 2 other ACE inhibitors) was a 14% to 16% reduction in mortality compared to placebo.
 Valsartan would be considered effective if it preserved a meaningful fraction of that effect and unequivocally preserved some of that effect.
-As shown in the table, the upper bound of the CI for the hazard ratio (valsartan/captopril) for overall or CV mortality is 1.09-1.11, a difference of about 9-11%, thus making it unlikely that valsartan has less than about half of the estimated effect of captopril and clearly demonstrating an effect of valsartan.
+As shown in the table, the upper bound of the CI for the hazard ratio (valsartan/captopril) for overall or CV mortality is 1.09 to 1.11, a difference of about 9% to 11%, thus making it unlikely that valsartan has less than about half of the estimated effect of captopril and clearly demonstrating an effect of valsartan.
 The other secondary endpoints were consistent with this conclusion.
 
 There were no clear differences in all-cause mortality based on age, gender, race, or baseline therapies, as shown in the figure above.

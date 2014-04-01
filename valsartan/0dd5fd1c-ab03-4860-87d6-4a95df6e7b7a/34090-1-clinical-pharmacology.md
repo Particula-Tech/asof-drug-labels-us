@@ -37,7 +37,7 @@ In multiple-dose studies in hypertensive patients, valsartan had no notable effe
 
 Valsartan peak plasma concentration is reached 2 to 4 hours after dosing.
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
-Absolute bioavailability for Diovan is about 25% (range 10%-35%).
+Absolute bioavailability for Diovan is about 25% (range 10% to 35%).
 The bioavailability of the suspension [see Dosage and Administration; Pediatric Hypertension (2.2)] is 1.6 times greater than with the tablet.
 With the capsule, food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
 AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range.
@@ -57,7 +57,7 @@ Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
 
 Special Populations:
 
-Pediatric: In a study of pediatric hypertensive patients (n=26, 1-16 years of age) given single doses of a suspension of Diovan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
+Pediatric: In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of Diovan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
 
 Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
 No dosage adjustment is necessary [see Dosage and Administration (2.1)].
@@ -76,6 +76,6 @@ No studies have been performed in patients with severe impairment of renal funct
 Valsartan is not removed from the plasma by hemodialysis.
 In the case of severe renal disease, exercise care with dosing of valsartan [see Dosage and Administration (2.1)].
 
-Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex and weight).
+Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight).
 In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.
 Care should be exercised in patients with liver disease [see Dosage and Administration (2.1)].

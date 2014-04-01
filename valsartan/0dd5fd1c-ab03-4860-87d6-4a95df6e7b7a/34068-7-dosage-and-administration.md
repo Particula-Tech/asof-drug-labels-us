@@ -17,7 +17,7 @@ Diovan may be administered with other antihypertensive agents.
 
 Diovan may be administered with or without food.
 
-## 2.2 Pediatric Hypertension 6-16 years of age
+## 2.2 Pediatric Hypertension 6 to 16 Years of Age
 
 For children who can swallow capsules, the usual recommended starting dose is 1.3 mg/kg once daily (up to 40 mg total).
 (Doses below 80 mg are available only in the tablet form.)
@@ -27,11 +27,9 @@ Doses higher than 2.7 mg/kg (up to 160 mg) once daily have not been studied in p
 For children who cannot swallow capsules or tablets, or children for whom the calculated dosage (mg/kg) does not correspond to the available tablet strengths of Diovan, the use of a suspension is recommended.
 The suspension preparation instructions are available based on the Diovan tablet form.
 
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
-[See Pediatric Use (8.4)]
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2[see Pediatric Use (8.4)].
 
-Diovan is not recommended for patients <6 years old.
-[See Adverse Reactions (6.1), Clinical Studies (14.1)]
+Diovan is not recommended for patients <6 years old [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
 ## 2.3 Heart Failure
 

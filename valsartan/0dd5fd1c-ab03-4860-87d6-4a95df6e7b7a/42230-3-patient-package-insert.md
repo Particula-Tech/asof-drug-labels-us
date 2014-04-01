@@ -57,9 +57,9 @@ See the end of this leaflet for a complete list of ingredients in DIOVAN.
 • are pregnant or planning to become pregnant.
 See “What is the most important information I should know about DIOVAN?”
 
-• are breast-feeding.
+• are breastfeeding.
 It is not known if DIOVAN passes into your breast milk.
-You and your doctor should decide if you will take DIOVAN or breast-feed, but not both.
+You and your doctor should decide if you will take DIOVAN or breastfeed, but not both.
 Talk with your doctor about the best way to feed your baby if you take DIOVAN.
 
 • have ever had a reaction called angioedema, to another blood pressure medicine.
@@ -82,6 +82,8 @@ Your doctor may check the amount of potassium in your blood periodically
 
 • certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
 These drugs may increase the effect of valsartan.
+
+• lithium, a medicine used in some types of depression
 
 Know the medicines you take.
 Keep a list of your medicines with you to show to your doctor and pharmacist when a new medicine is prescribed.
@@ -169,7 +171,7 @@ For a complete list, ask your doctor or pharmacist.
 
 How do I store DIOVAN?
 
-• Store DIOVAN capsules at room temperature between 59º to 86ºF (15ºC - 30ºC).
+• Store DIOVAN capsules at room temperature between 59ºF to 86ºF (15ºC to 30ºC).
 
 • Keep DIOVAN capsules in a closed container in a dry place.
 
@@ -202,4 +204,4 @@ East Hanover, NJ 07936
 
 © Novartis
 
-T2013-103 October 2013
+T2014-27 March 2014
