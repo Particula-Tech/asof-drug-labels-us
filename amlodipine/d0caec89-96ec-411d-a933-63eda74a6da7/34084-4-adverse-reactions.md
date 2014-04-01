@@ -10,7 +10,7 @@ Studies with Exforge:
 Exforge has been evaluated for safety in over 2600 patients with hypertension; over 1440 of these patients were treated for at least 6 months and over 540 of these patients were treated for at least 1 year.
 Adverse reactions have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
 
-The hazards [see Warnings and Precautions(5)] of valsartan are generally independent of dose; those of amlodipine are a mixture of dose-dependent phenomena (primarily peripheral edema) and dose-independent phenomena, the former much more common than the latter.
+The hazards [see Warnings and Precautions (5)] of valsartan are generally independent of dose; those of amlodipine are a mixture of dose-dependent phenomena (primarily peripheral edema) and dose-independent phenomena, the former much more common than the latter.
 
 The overall frequency of adverse reactions was neither dose-related nor related to gender, age, or race.
 In placebo-controlled clinical trials, discontinuation due to side effects occurred in 1.8% of patients in the Exforge-treated patients and 2.1% in the placebo-treated group.
@@ -140,7 +140,7 @@ Jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or he
 
 Valsartan: The following additional adverse reactions have been reported in postmarketing experience with valsartan:
 
-Blood and Lymphatic: Decrease in hemoglobin, decrease in hematocrit, neutropenia,
+Blood and Lymphatic: Decrease in hemoglobin, decrease in hematocrit, neutropenia
 
 Hypersensitivity: There are rare reports of angioedema.
 Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
@@ -152,7 +152,7 @@ Renal: Impaired renal function, renal failure
 
 Clinical Laboratory Tests: Hyperkalemia
 
-Dermatologic: Alopecia
+Dermatologic: Alopecia, bullous dermatitis
 
 Vascular: Vasculitis
 

@@ -84,7 +84,7 @@ Both amlodipine and valsartan lower blood pressure by reducing peripheral resist
 
 Amlodipine
 
-Peak plasma concentrations of amlodipine are reached 6-12 hours after administration of amlodipine alone.
+Peak plasma concentrations of amlodipine are reached 6 to 12 hours after administration of amlodipine alone.
 Absolute bioavailability has been estimated to be between 64% and 90%.
 The bioavailability of amlodipine is not altered by the presence of food.
 
@@ -98,8 +98,8 @@ Steady state plasma levels of amlodipine are reached after 7-8 days of consecuti
 
 Valsartan
 
-Following oral administration of valsartan alone peak plasma concentrations of valsartan are reached in 2-4 hours.
-Absolute bioavailability is about 25% (range 10%-35%).
+Following oral administration of valsartan alone peak plasma concentrations of valsartan are reached in 2 to 4 hours.
+Absolute bioavailability is about 25% (range 10% to 35%).
 Food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
 
 The steady state volume of distribution of valsartan after intravenous administration is 17 L indicating that valsartan does not distribute into tissues extensively.
@@ -117,7 +117,7 @@ Following intravenous administration, plasma clearance of valsartan is about 2 L
 
 Exforge
 
-Following oral administration of Exforge in normal healthy adults, peak plasma concentrations of valsartan and amlodipine are reached in 3 and 6-8 hours, respectively.
+Following oral administration of Exforge in normal healthy adults, peak plasma concentrations of valsartan and amlodipine are reached in 3 and 6 to 8 hours, respectively.
 The rate and extent of absorption of valsartan and amlodipine from Exforge are the same as when administered as individual tablets.
 The bioavailabilities of amlodipine and valsartan are not altered by the coadministration of food.
 
@@ -146,7 +146,7 @@ In the case of severe renal disease, exercise care with dosing of valsartan.
 
 Hepatic Insufficiency
 
-Studies with Amlodipine: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40%-60%.
+Studies with Amlodipine: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40% to 60%.
 
 Studies with Valsartan: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex and weight).
 In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.

@@ -63,6 +63,7 @@ Especially tell your doctor if you take:
 - medicines used to treat bacterial infections (such as clarithromycin, telithromycin)
 - certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
+- lithium, a medicine used in some types of depression
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor or pharmacist when you get a new medicine.
@@ -180,4 +181,4 @@ East Hanover, New Jersey 07936
 
 ©Novartis
 
-T2012-189 September 2012
+T2014-33 March 2014

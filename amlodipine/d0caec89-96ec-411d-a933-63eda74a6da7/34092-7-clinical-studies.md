@@ -30,7 +30,7 @@ Table 2: Effect of Exforge on Sitting Systolic Blood Pressure
 *Mean Change and Placebo-Subtracted Mean Change from Baseline (mmHg) at Week 8 in Sitting Systolic Blood Pressure.
 Mean baseline systolic BP was 152.8 mmHg.
 
-In a double-blind, placebo controlled study, a total of 1246 patients with mild to moderate hypertension received treatments of 2 combinations of amlodipine and valsartan (10/160, 10/320 mg), or amlodipine alone (10 mg), valsartan alone (160 or 320 mg) or placebo.
+In a double-blind, placebo-controlled study, a total of 1246 patients with mild to moderate hypertension received treatments of 2 combinations of amlodipine and valsartan (10/160, 10/320 mg), or amlodipine alone (10 mg), valsartan alone (160 or 320 mg) or placebo.
 With the exception of the 10/320 mg dose, treatment was initiated at the randomized dose.
 The high dose was initiated at a dose of 5/160 mg and titrated to the randomized dose after 1 week.
 At week 8, the combination treatments were statistically significantly superior to their monotherapy components in reduction of diastolic and systolic blood pressures.
@@ -95,7 +95,7 @@ Mean baseline BP was 147.0/95.1 (systolic/diastolic) mmHg
 Exforge was also evaluated for safety in a 6-week, double-blind, active-controlled trial of 130 hypertensive patients with severe hypertension (mean baseline BP of 171/113 mmHg).
 Adverse events were similar in patients with severe hypertension and mild/moderate hypertension treated with Exforge.
 
-A wide age range of the adult population, including the elderly was studied (range 19-92 years, mean 54.7 years).
+A wide age range of the adult population, including the elderly was studied (range 19 to 92 years, mean 54.7 years).
 Women comprised almost half of the studied population (47.3%).
 Of the patients in the studied Exforge group, 87.6% were Caucasian.
 Black and Asian patients each represented approximately 4% of the population in the studied Exforge group.
