@@ -104,11 +104,11 @@ Incidence ≥2% of Grade 3-4 Abnormalities (ACTG Criteria) Trials A4001027 and A
 
 | Laboratory Parameter Preferred Term | Limit | SELZENTRYTwice Daily + OBT(N = 421)a% | Placebo + OBT(N = 207)a% |
 | --- | --- | --- | --- |
-| Aspartate aminotransferase | >5.0x ULN | 4.8 | 2.9 |
-| Alanine aminotransferase | >5.0x ULN | 2.6 | 3.4 |
-| Total bilirubin | >5.0x ULN | 5.5 | 5.3 |
-| Amylase | >2.0x ULN | 5.7 | 5.8 |
-| Lipase | >2.0x ULN | 4.9 | 6.3 |
+| Aspartate aminotransferase | >5.0 x ULN | 4.8 | 2.9 |
+| Alanine aminotransferase | >5.0 x ULN | 2.6 | 3.4 |
+| Total bilirubin | >2.5 x ULN | 5.5 | 5.3 |
+| Amylase | >2.0 x ULN | 5.7 | 5.8 |
+| Lipase | >2.0 x ULN | 4.9 | 6.3 |
 | Absolute neutrophil count | <750/mm3 | 4.3 | 2.4 |
 
 aPercentages based on total subjects evaluated for each laboratory parameter.

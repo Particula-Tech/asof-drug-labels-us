@@ -33,10 +33,10 @@ In the Phase 2b/3 trial in treatment-naive subjects, 3 subjects (0.8%) who recei
 
 When SELZENTRY was administered to healthy volunteers at doses higher than the recommended dose, symptomatic postural hypotension was seen at a greater frequency than in placebo.
 However, when SELZENTRY was given at the recommended dose in HIV-1-infected subjects in Phase 3 trials, postural hypotension was seen at a rate similar to placebo (approximately 0.5%).
-Caution should be used when administering SELZENTRY in patients with a history of postural hypotension or on concomitant medication known to lower blood pressure.
+Caution should be used when administering SELZENTRY in patients with a history of or risk factors for postural hypotension, cardiovascular comorbidities, or on concomitant medication known to lower blood pressure.
+Patients with cardiovascular comorbidities could be at increased risk of cardiovascular adverse events triggered by postural hypotension.
 
-Postural Hypotension in Patients With Renal Impairment: Patients with impaired renal function may have cardiovascular co-morbidities and could be at increased risk of cardiovascular adverse events triggered by postural hypotension.
-An increased risk of postural hypotension may occur in patients with severe renal insufficiency or in those with ESRD due to increased maraviroc exposure in some patients.
+Postural Hypotension in Patients With Renal Impairment: An increased risk of postural hypotension may occur in patients with severe renal insufficiency or in those with ESRD due to increased maraviroc exposure in some patients.
 SELZENTRY should be used in patients with severe renal impairment or ESRD only if they are not receiving a concomitant potent CYP3A inhibitor or inducer.
 However, the use of SELZENTRY in these patients should only be considered when no alternative treatment options are available.
 If patients with severe renal impairment or ESRD experience any symptoms of postural hypotension while taking 300 mg twice daily, the dose should be reduced to 150 mg twice daily [see Dosage and Administration (2.2)].

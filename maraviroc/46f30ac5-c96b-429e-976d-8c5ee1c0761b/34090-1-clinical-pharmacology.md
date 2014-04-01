@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Maraviroc is an antiviral drug [see Clinical Pharmacology (12.4)].
+Maraviroc is an antiviral drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -48,7 +48,7 @@ No subject experienced an interval exceeding the potentially clinically relevant
 Table 9.
 Mean Maraviroc Pharmacokinetic Parameters
 
-| Patient Population | Maraviroc Dose | N | AUC12 (ng.hr/mL) | Cmax (ng/mL) | Cmin (ng/mL) |
+| Patient Population | Maraviroc Dose | N | AUC12 (ng.h/mL) | Cmax (ng/mL) | Cmin (ng/mL) |
 | --- | --- | --- | --- | --- | --- |
 | Healthy volunteers (Phase 1) | 300 mg twice daily | 64 | 2,908 | 888 | 43.1 |
 | Asymptomatic HIV subjects (Phase 2a) | 300 mg twice daily | 8 | 2,550 | 618 | 33.6 |
@@ -108,7 +108,7 @@ Geometric mean ratios for maraviroc AUCtau, Cmax, and Cmin were 16% higher, 29% 
 Based on the data from this trial, no adjustment in dose is recommended for patients with mild or moderate renal impairment [see Dosage and Administration (2.2)].
 
 Effect of Concomitant Drugs on the Pharmacokinetics of Maraviroc: Maraviroc is a substrate of CYP3A and P-gp and hence its pharmacokinetics are likely to be modulated by inhibitors and inducers of these enzymes/transporters.
-The CYP3A/P-gp inhibitors ketoconazole, lopinavir/ritonavir, ritonavir, darunavir/ritonavir, saquinavir/ritonavir, and atazanavir ± ritonavir all increased the Cmax and AUC of maraviroc (see Table 10).
+The CYP3A/P-gp inhibitors ketoconazole, telaprevir, boceprevir, lopinavir/ritonavir, ritonavir, darunavir/ritonavir, saquinavir/ritonavir, and atazanavir ± ritonavir all increased the Cmax and AUC of maraviroc (see Table 10).
 The CYP3A inducers rifampin, etravirine, and efavirenz decreased the Cmax and AUC of maraviroc (see Table 10).
 
 Tipranavir/ritonavir (net CYP3A inhibitor/P-gp inducer) did not affect the steady‑state pharmacokinetics of maraviroc (see Table 10).
@@ -128,6 +128,8 @@ Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
 | Atazanavir400 mg q.d. | 12 | 300 mg b.i.d. | 4.19(3.65, 4.80) | 3.57(3.30, 3.87) | 2.09(1.72, 2.55) |
 | Atazanavir/ritonavir300 mg/100 mg q.d. | 12 | 300 mg b.i.d. | 6.67(5.78, 7.70) | 4.88(4.40, 5.41) | 2.67(2.32, 3.08) |
 | Darunavir/ritonavir600 mg/100 mg b.i.d. | 12 | 150 mg b.i.d. | 8.00(6.35, 10.1) | 4.052.94, 5.59 | 2.29(1.46, 3.59) |
+| Boceprevir800 mg t.i.d. | 14 | 150 mg b.i.d. | 2.78(2.40, 3.23) | 3.02(2.53, 3.59) | 3.33(2.54, 4.36) |
+| Telaprevir750 mg t.i.d.b | 13 | 150 mg b.i.d. | 10.17(8.73, 11.85) | 9.49(7.94, 11.34) | 7.81(5.92, 10.32) |
 | CYP3A and/or P-gp Inducers |  |  |  |  |  |
 | Efavirenz 600 mg q.d. | 12 | 100 mg b.i.d. | 0.55(0.43, 0.72) | 0.55(0.49, 0.62) | 0.49(0.38, 0.63) |
 | Efavirenz600 mg q.d. | 12 | 200 mg b.i.d.(+ efavirenz):100 mg b.i.d. (alone) | 1.09(0.89, 1.35) | 1.15(0.98, 1.35) | 1.16(0.87, 1.55) |
@@ -147,6 +149,9 @@ Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
 
 aCompared with historical data.
 
+bConducted under fed conditions.
+The geometric mean Cmax of maraviroc is 858 ng/mL when maraviroc is coadministered with telaprevir.
+
 Effect of Maraviroc on the Pharmacokinetics of Concomitant Drugs: Maraviroc is unlikely to inhibit the metabolism of coadministered drugs metabolized by the following cytochrome P enzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP3A) because maraviroc did not inhibit activity of those enzymes at clinically relevant concentrations in vitro.
 Maraviroc does not induce CYP1A2 in vitro.
 
@@ -160,7 +165,7 @@ Coadministration of fosamprenavir 1,400 mg/ritonavir 100 mg once daily and marav
 No dosage adjustment is necessary when SELZENTRY is dosed 150 mg twice daily in combination with fosamprenavir/ritonavir dosed once or twice daily.
 Fosamprenavir should be given with ritonavir when coadministered with SELZENTRY.
 
-Maraviroc had no effect on the pharmacokinetics of zidovudine or lamivudine.
+Maraviroc had no significant effect on the pharmacokinetics of boceprevir, telaprevir, zidovudine, or lamivudine.
 Maraviroc decreased the Cmin and AUC of raltegravir by 27% and 37%, respectively, which is not clinically significant.
 Maraviroc had no clinically relevant effect on the pharmacokinetics of midazolam, the oral contraceptives ethinylestradiol and levonorgestrel, no effect on the urinary 6β-hydroxycortisol/cortisol ratio, suggesting no induction of CYP3A in vivo.
 Maraviroc had no effect on the debrisoquine metabolic ratio (MR) at 300 mg twice daily or less in vivo and did not cause inhibition of CYP2D6 in vitro until concentrations >100 µM.
@@ -176,7 +181,7 @@ Antiviral Activity in Cell Culture: Maraviroc inhibits the replication of CCR5-t
 The mean EC50 value (50% effective concentration) for maraviroc against HIV-1 group M isolates (subtypes A to J and circulating recombinant form AE) and group O isolates ranged from 0.1 to 4.5 nM (0.05 to 2.3 ng/mL) in cell culture.
 
 When used with other antiretroviral agents in cell culture, the combination of maraviroc was not antagonistic with NNRTIs (delavirdine, efavirenz, and nevirapine), NRTIs (abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine, and zidovudine), or protease inhibitors (amprenavir, atazanavir, darunavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, and tipranavir).
-Maraviroc was additive/synergistic with the HIV fusion inhibitor enfuvirtide.
+Maraviroc was not antagonistic with the HIV fusion inhibitor enfuvirtide.
 Maraviroc was not active against CXCR4-tropic and dual-tropic viruses (EC50 value >10 µM).
 The antiviral activity of maraviroc against HIV-2 has not been evaluated.
 

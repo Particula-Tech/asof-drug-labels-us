@@ -6,7 +6,7 @@ These trials were supported by a 48-week trial in antiretroviral treatment-exper
 ## 14.1 Trials in CCR5-Tropic, Treatment-Experienced Subjects
 
 Trials A4001027 and A4001028 were double-blind, randomized, placebo-controlled, multicenter trials in subjects infected with CCR5-tropic HIV-1.
-Subjects were required to have an HIV-1 RNA of greater than 5,000 copies/mL despite at least 6 months of prior therapy with at least 1 agent from 3 of the 4 antiretroviral drug classes (≥1 NRTI, ≥1 NNRTI, ≥2 PIs, and/or enfuvirtide) or documented resistance to at least 1 member of each class.
+Subjects were required to have an HIV-1 RNA greater than 5,000 copies/mL despite at least 6 months of prior therapy with at least 1 agent from 3 of the 4 antiretroviral drug classes (≥1 NRTI, ≥1 NNRTI, ≥2 PIs, and/or enfuvirtide) or documented resistance to at least 1 member of each class.
 All subjects received an optimized background regimen consisting of 3 to 6 antiretroviral agents (excluding low-dose ritonavir) selected on the basis of the subject’s prior treatment history and baseline genotypic and phenotypic viral resistance measurements.
 In addition to the optimized background regimen, subjects were then randomized in a 2:2:1 ratio to SELZENTRY 300 mg once daily, SELZENTRY 300 mg twice daily, or placebo.
 Doses were adjusted based on background therapy as described in Dosing and Administration (2), Table 1.
@@ -113,7 +113,7 @@ Demographic and Baseline Characteristics of Subjects in Trial A4001026
 | Median (range) HIV-1 RNA (log10 copies/mL) | 4.9 (3-7) | 4.9 (3-7) |
 
 The treatment outcomes at 96 weeks for Trial A4001026 are shown in Table 15.
-Treatment outcomes are based on reanalysis of the screening samples using a more sensitive tropism assay, Enhanced sensitivity TROFILE HIV tropism assay, which became available after the Week 48 analysis, approximately 15% of the subjects identified as CCR5-tropic in the original analysis had dual/mixed- or CXCR4-tropic virus.
+Treatment outcomes are based on reanalysis of the screening samples using a more sensitive tropism assay, enhanced sensitivity TROFILE HIV tropism assay, which became available after the Week 48 analysis, approximately 15% of the subjects identified as CCR5-tropic in the original analysis had dual/mixed- or CXCR4-tropic virus.
 Screening with enhanced sensitivity version of the TROFILE tropism assay reduced the number of maraviroc virologic failures with CXCR4- or dual/mixed-tropic virus at failure to 12 compared with 24 when screening with the original TROFILE HIV tropism assay.
 
 Table 15: Trial Outcome (Snapshot) at Week 96 Using Enhanced Sensitivity Assaya
@@ -139,7 +139,7 @@ These numbers are different than those presented in Table 14 because the numbers
 
 bWeek 48 results: Virologic responders (<400): 228/311 (73%) in SELZENTRY, 219/303 (72%) in efavirenz;
 
-Virologic responders (<50): 213/311 (69 %) in SELZENTRY, 207/303 (68%) in efavirenz
+Virologic responders (<50): 213/311 (69 %) in SELZENTRY, 207/303 (68%) in efavirenz.
 
 cOther reasons for discontinuation include lost to follow-up, withdrawn, protocol violation, and other.
 

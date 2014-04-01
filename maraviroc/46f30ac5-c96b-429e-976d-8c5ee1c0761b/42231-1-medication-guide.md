@@ -34,7 +34,7 @@ Use of SELZENTRY is not recommended in people with dual/mixed or CXCR4-tropic HI
 - •It is very important that you stay under the care of your healthcare provider during treatment with SELZENTRY.
 - •The long-term effects of SELZENTRY are not known at this time.
 
-SELZENTRY has not been studied in children less than 16 years of age.
+SELZENTRY has not been studied in children less than 18 years of age.
 
 General information about SELZENTRY
 
@@ -99,13 +99,13 @@ The levels of SELZENTRY in your blood may change and your healthcare provider ma
 | - lopinavir/ritonavir (KALETRA®, NORVIR®) | - ketoconazole (NIZORAL®) |
 | - atazanavir (REYATAZ®) | - itraconazole (SPORANOX®) |
 | - saquinavir (INVIRASE®) | - clarithromycin (BIAXIN®) |
-| - nelfinavir (VIRACEPT®) | - nefazodone (SERZONE®) |
+| - nelfinavir (VIRACEPT®) | - nefazodone |
 | - indinavir (CRIXIVAN®) | - telithromycin (KETEK®) |
 | - fosamprenavir (LEXIVA®) | - efavirenz (SUSTIVA®, ATRIPLA®) |
 | - etravirine (INTELENCE®) | - rifampin (RIFADIN®, RIFATER®) |
-| - carbamezepine (TEGRETOL®) | - phenobarbital (LUMINAL®) |
-| - phenytoin (DILANTIN®) |  |
-| - ritonavir (NORVIR®) |  |
+| - carbamazepine (TEGRETOL®) | - phenobarbital |
+| - phenytoin (DILANTIN®) | - boceprevir (VICTRELIS®) |
+| - ritonavir (NORVIR®) | - telaprevir (INCIVEK™) |
 
 Do not take products that contain St. John’s wort (Hypericum perforatum).
 St. John’s wort may lower the levels of SELZENTRY in your blood so that it will not work to treat your CCR5-tropic HIV-1 infection.
@@ -148,19 +148,19 @@ There have been serious side effects when SELZENTRY has been given with other an
 - •Serious skin rash and allergic reactions.
   Severe and potentially life-threatening skin reactions and allergic reactions have been reported in some patients taking SELZENTRY.
   If you develop a rash with any of the following symptoms, stop using SELZENTRY and contact your doctor right away:
-  - ∘fever
-  - ∘generally ill feeling
-  - ∘muscle aches
-  - ∘blisters or sores in your mouth
-  - ∘blisters or peeling of the skin
-  - ∘redness or swelling of the eyes
-  - ∘swelling of the mouth or face or lips
-  - ∘problems breathing
-  - ∘yellowing of the skin or whites of your eyes
-  - ∘dark or tea colored urine
-  - ∘pain, aching, or tenderness on the right side below the ribs
-  - ∘loss of appetite
-  - ∘nausea/vomiting
+  - •fever
+  - •generally ill feeling
+  - •muscle aches
+  - •blisters or sores in your mouth
+  - •blisters or peeling of the skin
+  - •redness or swelling of the eyes
+  - •swelling of the mouth or face or lips
+  - •problems breathing
+  - •yellowing of the skin or whites of your eyes
+  - •dark or tea colored urine
+  - •pain, aching, or tenderness on the right side below the ribs
+  - •loss of appetite
+  - •nausea/vomiting
 - •Heart problems including heart attack.
 - •Low blood pressure when standing up (postural hypotension).
   Low blood pressure when standing up can cause dizziness or fainting.
@@ -210,8 +210,10 @@ Inactive ingredients: microcrystalline cellulose, dibasic calcium phosphate (anh
 
 Film-coat: FD&C blue #2 aluminum lake, soya lecithin, polyethylene glycol (macrogol 3350), polyvinyl alcohol, talc, and titanium dioxide
 
-The brands listed are the trademarks or registered marks of their respective owners and are not trademarks of ViiV Healthcare.
-The makers of these brands are not affiliated with and do not endorse ViiV Healthcare or its products.
+SELZENTRY is a registered trademark of the ViiV Healthcare group of companies.
+
+The brands listed are the trademarks of their respective owners and are not trademarks of the ViiV Healthcare group of companies.
+The makers of these brands are not affiliated with and do not endorse the ViiV Healthcare group of companies or its products.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
@@ -227,9 +229,9 @@ Pfizer Manufacturing Deutschland GmbH
 
 Freiburg, Germany
 
-©2013, ViiV Healthcare.
+©2014, the ViiV Healthcare group of companies.
 All rights reserved.
 
-February 2013
+March 2014
 
-SEL:4MG
+SEL:5MG

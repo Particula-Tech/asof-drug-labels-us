@@ -13,7 +13,7 @@ Recommended Dosing Regimen
 
 | Concomitant Medications | Dose of SELZENTRY |
 | --- | --- |
-| Potent CYP3A inhibitors (with or without a potent CYP3A inducer) including: •protease inhibitors (except tipranavir/ritonavir)•delavirdine•ketoconazole, itraconazole, clarithromycin•other potent CYP3A inhibitors (e.g., nefazodone, telithromycin) | 150 mg twice daily |
+| Potent CYP3A inhibitors (with or without a potent CYP3A inducer) including: •protease inhibitors (except tipranavir/ritonavir)•delavirdine•ketoconazole, itraconazole, clarithromycin•other potent CYP3A inhibitors (e.g., nefazodone, telithromycin)•boceprevir, telaprevir | 150 mg twice daily |
 | Other concomitant medications, including tipranavir/ritonavir, nevirapine, raltegravir, all NRTIs, and enfuvirtide | 300 mg twice daily |
 | Potent CYP3A inducers (without a potent CYP3A inhibitor) including: •efavirenz•rifampin•etravirine•carbamazepine, phenobarbital, and phenytoin | 600 mg twice daily |
 
@@ -26,7 +26,7 @@ Recommended Dosing Regimens Based on Renal Function
 
 | Concomitant Medicationsa | Dose of SELZENTRY Based on Renal Function |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Normal(CrCl >80 mL/min) | Mild(CrCl >50 and ≤80 mL/min) | Moderate(CrCl ≥30 and ≤50 mL/min) | Severe(CrCl <30 mL/min) | End-Stage Renal Disease On Regular Hemodialysis |  |
+| Normal(CrCl >80 mL/min) | Mild(CrCl >50 and ≤80 mL/min) | Moderate(CrCl ≥30 and ≤50 mL/min) | Severe(CrCl <30 mL/min) | End-Stage Renal DiseaseOn Regular Hemodialysis |  |
 | Potent CYP3A inhibitors (with or without a CYP3A inducer)a | 150 mg twice daily | 150 mg twice daily | 150 mg twice daily | NR | NR |
 | Other concomitant medicationsa | 300 mg twice daily | 300 mg twice daily | 300 mg twice daily | 300 mg twice dailyb | 300 mg twice dailyb |
 | Potent CYP3A Inducers (without a potent CYP3A inhibitor)a | 600 mg twice daily | 600 mg twice daily | 600 mg twice daily | NR | NR |

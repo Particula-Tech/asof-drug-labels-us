@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-The highest dose administered in clinical trials was 1,200 mg.
+The highest single dose administered in clinical trials was 1,200 mg.
 The dose-limiting adverse event was postural hypotension, which was observed at 600 mg.
 While the recommended dose for SELZENTRY in patients receiving a CYP3A inducer without a CYP3A inhibitor is 600 mg twice daily, this dose is appropriate due to enhanced metabolism.
 
@@ -12,4 +12,4 @@ Treatment of overdose should consist of general supportive measures including ke
 
 If indicated, elimination of unabsorbed active maraviroc should be achieved by emesis.
 Administration of activated charcoal may also be used to aid in removal of unabsorbed drug.
-Since maraviroc is moderately protein-bound, dialysis may be beneficial in removal of this medicine.
+Hemodialysis had a minimal effect on maraviroc clearance and exposure in a trial in subjects with ESRD [see Clinical Pharmacology (12.3)].

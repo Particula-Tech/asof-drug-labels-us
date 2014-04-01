@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 Patients should be informed that liver problems including life-threatening cases have been reported with SELZENTRY.
 Patients should be informed that if they develop signs or symptoms of hepatitis or allergic reaction following use of SELZENTRY (rash, skin or eyes look yellow, dark urine, vomiting, abdominal pain), they should stop SELZENTRY and seek medical evaluation immediately.
@@ -31,7 +31,9 @@ Patients should be advised that when their supply of SELZENTRY starts to run low
 Caution should be used when administering SELZENTRY in patients with a history of postural hypotension or on concomitant medication known to lower blood pressure.
 Patients should be advised that if they experience dizziness while taking SELZENTRY, they should avoid driving or operating machinery.
 
-TROFILE® is a registered trademark of Monogram Biosciences, Inc.
+SELZENTRY is a registered trademark of the ViiV Healthcare group of companies.
+
+TROFILE is a registered trademark of Monogram Biosciences, Inc.
 
 Manufactured for:
 
@@ -45,9 +47,9 @@ Pfizer Manufacturing Deutschland GmbH
 
 Freiburg, Germany
 
-©2013, ViiV Healthcare.
+©2014, the ViiV Healthcare group of companies.
 All rights reserved.
 
-SEL:9PI
+SEL:10PI
 
 PHARMACIST‑DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT
