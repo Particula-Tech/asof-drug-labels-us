@@ -1,33 +1,21 @@
-# WARNING
+# WARNING: NEUROPSYCHIATRIC REACTIONS; AND SUICIDAL THOUGHTS AND BEHAVIORS
 
-Serious neuropsychiatric events, including but not limited to depression, suicidal ideation, suicide attempt, and completed suicide have been reported in patients taking ZYBAN for smoking cessation.
-Some cases may have been complicated by the symptoms of nicotine withdrawal in patients who stopped smoking.
-Depressed mood may be a symptom of nicotine withdrawal.
-Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessation attempt without medication.
+NEUROPSYCHIATRIC REACTIONS IN PATIENTS TAKING BUPROPION FOR SMOKING CESSATION
+
+Serious neuropsychiatric reactions have occurred in patients taking ZYBAN® for smoking cessation [see Warnings and Precautions (5.1)].
+The majority of these reactions occurred during bupropion treatment, but some occurred in the context of discontinuing treatment.
+In many cases, a causal relationship to bupropion treatment is not certain, because depressed mood may be a symptom of nicotine withdrawal.
 However, some of these symptoms have occurred in patients taking ZYBAN who continued to smoke.
 
-All patients being treated with ZYBAN should be observed for neuropsychiatric symptoms including changes in behavior, hostility, agitation, depressed mood, and suicide-related events, including ideation, behavior, and attempted suicide.
-These symptoms, as well as worsening of pre-existing psychiatric illness and completed suicide have been reported in some patients attempting to quit smoking while taking ZYBAN in the postmarketing experience.
-When symptoms were reported, most were during treatment with ZYBAN, but some were following discontinuation of treatment with ZYBAN.
-These events have occurred in patients with and without pre-existing psychiatric disease; some have experienced worsening of their psychiatric illnesses.
-Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the premarketing studies of ZYBAN.
-
-Advise patients and caregivers that the patient should stop taking ZYBAN and contact a healthcare provider immediately if agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
-In many postmarketing cases, resolution of symptoms after discontinuation of ZYBAN was reported, although in some cases the symptoms persisted; therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
-
 The risks of ZYBAN should be weighed against the benefits of its use.
-ZYBAN has been demonstrated to increase the likelihood of abstinence from smoking for as long as 6 months compared to treatment with placebo.
+ZYBAN has been demonstrated to increase the likelihood of abstinence from smoking for as long as 6 months compared with treatment with placebo.
 The health benefits of quitting smoking are immediate and substantial.
-(See WARNINGS: Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment and PRECAUTIONS: Information for Patients.)
 
-Use in Treating Psychiatric Disorders
+SUICIDALITY AND ANTIDEPRESSANT DRUGS
 
-Although ZYBAN is not indicated for treatment of depression, it contains the same active ingredient as the antidepressant medications WELLBUTRIN®, WELLBUTRIN SR ®, and WELLBUTRIN XL®.
-Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders.
-Anyone considering the use of ZYBAN or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.
-Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older.
-Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide.
-Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
-Families and caregivers should be advised of the need for close observation and communication with the prescriber.
-ZYBAN is not approved for use in pediatric patients.
-(See WARNINGS: Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use.)
+Although ZYBAN is not indicated for treatment of depression, it contains the same active ingredient as the antidepressant medications WELLBUTRIN®, WELLBUTRIN® SR, and WELLBUTRIN XL®.
+Antidepressants increased the risk of suicidal thoughts and behavior in children, adolescents, and young adults in short-term trials.
+These trials did not show an increase in the risk of suicidal thoughts and behavior with antidepressant use in subjects over age 24; there was a reduction in risk with antidepressant use in subjects aged 65 and older [see Warnings and Precautions (5.2)].
+
+In patients of all ages who are started on antidepressant therapy, monitor closely for worsening, and for emergence of suicidal thoughts and behaviors.
+Advise families and caregivers of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.2)].

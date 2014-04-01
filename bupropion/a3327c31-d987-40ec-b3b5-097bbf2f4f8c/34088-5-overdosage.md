@@ -1,8 +1,8 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Human Overdose Experience
+## 10.1 Human Overdose Experience
 
-Overdoses of up to 30 g or more of bupropion have been reported.
+Overdoses of up to 30 grams or more of bupropion have been reported.
 Seizure was reported in approximately one-third of all cases.
 Other serious reactions reported with overdoses of bupropion alone included hallucinations, loss of consciousness, sinus tachycardia, and ECG changes such as conduction disturbances (including QRS prolongation) or arrhythmias.
 Fever, muscle rigidity, rhabdomyolysis, hypotension, stupor, coma, and respiratory failure have been reported mainly when bupropion was part of multiple drug overdoses.
@@ -10,21 +10,15 @@ Fever, muscle rigidity, rhabdomyolysis, hypotension, stupor, coma, and respirato
 Although most patients recovered without sequelae, deaths associated with overdoses of bupropion alone have been reported in patients ingesting large doses of the drug.
 Multiple uncontrolled seizures, bradycardia, cardiac failure, and cardiac arrest prior to death were reported in these patients.
 
-## Overdosage Management
+## 10.2 Overdosage Management
 
+Consult a Certified Poison Control Center for up-to-date guidance and advice.
+Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference (PDR).
+Call 1-800-222-1222 or refer to www.poison.org.
+
+There are no known antidotes for bupropion.
+In case of an overdose, provide supportive care, including close medical supervision and monitoring.
+Consider the possibility of multiple drug overdose.
 Ensure an adequate airway, oxygenation, and ventilation.
 Monitor cardiac rhythm and vital signs.
-EEG monitoring is also recommended for the first 48 hours post-ingestion.
-General supportive and symptomatic measures are also recommended.
 Induction of emesis is not recommended.
-
-Activated charcoal should be administered.
-There is no experience with the use of forced diuresis, dialysis, hemoperfusion, or exchange transfusion in the management of bupropion overdoses.
-No specific antidotes for bupropion are known.
-
-Due to the dose-related risk of seizures with ZYBAN, hospitalization following suspected overdose should be considered.
-Based on studies in animals, it is recommended that seizures be treated with intravenous benzodiazepine administration and other supportive measures, as appropriate.
-
-In managing overdosage, consider the possibility of multiple drug involvement.
-The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
-Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference (PDR).
