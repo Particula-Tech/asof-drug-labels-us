@@ -40,3 +40,10 @@ If there are no adverse drug reactions, the infusion rate for subsequent infusio
 For patients experiencing adverse drug reactions, it is advisable to reduce the infusion rate in subsequent infusions.
 
 Table 1: Recommended Infusion Rates for BIVIGAM
+
+Monitor patient vital signs throughout the infusion.
+Slow or stop the infusion if adverse reactions occur.
+If symptoms subside promptly, the infusion may be resumed at a lower rate that is comfortable for the patient.
+
+Ensure that patients with pre-existing renal insufficiency are not volume depleted.
+For patients judged to be at risk for renal dysfunction or thrombotic events, administer BIVIGAM at the minimum infusion rate practicable, and consider discontinuation of administration if renal function deteriorates (see Boxed Warning, Warnings and Precautions [5.1, 5.3]
