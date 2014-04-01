@@ -18,12 +18,10 @@ What is DIOVAN?
 DIOVAN is a prescription medicine called an angiotensin receptor blocker (ARB).
 It is used in adults to:
 
-• lower high blood pressure (hypertension) in adults and children, 6 to 16 years of age.
-
-• treat heart failure in adults.
-In these patients, DIOVAN may lower the need for hospitalization that happens from heart failure.
-
-• improve the chance of living longer after a heart attack (myocardial infarction) in adults.
+- lower high blood pressure (hypertension) in adults and children, 6 to 16 years of age.
+- treat heart failure in adults.
+  In these patients, DIOVAN may lower the need for hospitalization that happens from heart failure.
+- improve the chance of living longer after a heart attack (myocardial infarction) in adults.
 
 DIOVAN is not for children under 6 years of age or children with certain kidney problems.
 
@@ -45,43 +43,33 @@ What should I tell my doctor before taking DIOVAN?
 
 Tell your doctor about all your medical conditions including whether you:
 
-• have any allergies.
-See the end of this leaflet for a complete list of ingredients in DIOVAN.
-
-• have a heart condition
-
-• have liver problems
-
-• have kidney problems
-
-• are pregnant or planning to become pregnant.
-See “What is the most important information I should know about DIOVAN?”
-
-• are breast-feeding.
-It is not known if DIOVAN passes into your breast milk.
-You and your doctor should decide if you will take DIOVAN or breast-feed, but not both.
-Talk with your doctor about the best way to feed your baby if you take DIOVAN.
-
-• have ever had a reaction called angioedema, to another blood pressure medicine.
-Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
+- have any allergies.
+  See the end of this leaflet for a complete list of ingredients in DIOVAN.
+- have a heart condition
+- have liver problems
+- have kidney problems
+- are pregnant or planning to become pregnant.
+  See “What is the most important information I should know about DIOVAN?”
+- are breastfeeding.
+  It is not known if DIOVAN passes into your breast milk.
+  You and your doctor should decide if you will take DIOVAN or breastfeed, but not both.
+  Talk with your doctor about the best way to feed your baby if you take DIOVAN.
+- have ever had a reaction called angioedema, to another blood pressure medicine.
+  Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
 
 Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
 Especially tell your doctor if you take:
 
-• other medicines for high blood pressure or a heart problem
-
-• water pills (also called “diuretics”)
-
-• potassium supplements.
-Your doctor may check the amount of potassium in your blood periodically
-
-• a salt substitute.
-Your doctor may check the amount of potassium in your blood periodically
-
-• Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
-
-• certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
-These drugs may increase the effect of valsartan.
+- other medicines for high blood pressure or a heart problem
+- water pills (also called “diuretics”)
+- potassium supplements.
+  Your doctor may check the amount of potassium in your blood periodically
+- a salt substitute.
+  Your doctor may check the amount of potassium in your blood periodically
+- Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
+- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+  These drugs may increase the effect of valsartan.
+- Lithium, a medicine used in some types of depression
 
 Know the medicines you take.
 Keep a list of your medicines with you to show to your doctor and pharmacist when a new medicine is prescribed.
@@ -90,24 +78,18 @@ Your doctor or pharmacist will know what medicines are safe to take together.
 
 How should I take DIOVAN?
 
-• Take DIOVAN exactly as prescribed by your doctor.
-
-• For treatment of high blood pressure, take DIOVAN one time each day, at the same time each day.
-
-• If your child cannot swallow tablets, or if tablets are not available in the prescribed strength, your pharmacist will mix DIOVAN as a liquid suspension for your child.
-If your child switches between taking the tablet and the suspension, your doctor will adjust the dose as needed.
-Shake the bottle of suspension well for at least 10 seconds before pouring the dose of medicine to give to your child.
-
-• For adult patients with heart failure or who have had a heart attack, take DIOVAN two times each day, at the same time each day.
-Your doctor may start you on a low dose of DIOVAN and may increase the dose during your treatment.
-
-• DIOVAN can be taken with or without food.
-
-• If you miss a dose, take it as soon as you remember.
-If it is close to your next dose, do not take the missed dose.
-Take the next dose at your regular time.
-
-• If you take too much DIOVAN, call your doctor or Poison Control Center, or go to the nearest hospital emergency room.
+- Take DIOVAN exactly as prescribed by your doctor.
+- For treatment of high blood pressure, take DIOVAN one time each day, at the same time each day.
+- If your child cannot swallow tablets, or if tablets are not available in the prescribed strength, your pharmacist will mix DIOVAN as a liquid suspension for your child.
+  If your child switches between taking the tablet and the suspension, your doctor will adjust the dose as needed.
+  Shake the bottle of suspension well for at least 10 seconds before pouring the dose of medicine to give to your child.
+- For adult patients with heart failure or who have had a heart attack, take DIOVAN two times each day, at the same time each day.
+  Your doctor may start you on a low dose of DIOVAN and may increase the dose during your treatment.
+- DIOVAN can be taken with or without food.
+- If you miss a dose, take it as soon as you remember.
+  If it is close to your next dose, do not take the missed dose.
+  Take the next dose at your regular time.
+- If you take too much DIOVAN, call your doctor or Poison Control Center, or go to the nearest hospital emergency room.
 
 What are the possible side effects of DIOVAN?
 
@@ -129,42 +111,30 @@ If you have heart failure, your doctor should check your kidney function before 
 
 The most common side effects of DIOVAN used to treat people with high blood pressure include:
 
-• headache
-
-• dizziness
-
-• flu symptoms
-
-• tiredness
-
-• stomach (abdominal) pain
+- headache
+- dizziness
+- flu symptoms
+- tiredness
+- stomach (abdominal) pain
 
 Side effects were generally mild and brief.
 They generally have not caused patients to stop taking DIOVAN.
 
 The most common side effects of DIOVAN used to treat people with heart failure include:
 
-• dizziness
-
-• low blood pressure
-
-• diarrhea
-
-• joint and back pain
-
-• tiredness
-
-• high blood potassium
+- dizziness
+- low blood pressure
+- diarrhea
+- joint and back pain
+- tiredness
+- high blood potassium
 
 Common side effects of DIOVAN used to treat people after a heart attack which caused them to stop taking the drug include:
 
-• low blood pressure
-
-• cough
-
-• high blood creatinine (decreased kidney function)
-
-• rash
+- low blood pressure
+- cough
+- high blood creatinine (decreased kidney function)
+- rash
 
 Tell your doctor if you get any side effect that bothers you or that does not go away.
 
@@ -173,13 +143,10 @@ For a complete list, ask your doctor or pharmacist.
 
 How do I store DIOVAN?
 
-• Store DIOVAN tablets at room temperature between 59º to 86ºF (15ºC - 30ºC).
-
-• Keep DIOVAN tablets in a closed container in a dry place.
-
-• Store bottles of DIOVAN suspension at room temperature less than 86ºF (30ºC) for up to 30 days, or refrigerate between 35ºF - 46ºF (2ºC - 8ºC) for up to 75 days.
-
-• Keep DIOVAN and all medicines out of the reach of children.
+- Store DIOVAN tablets at room temperature between 59º to 86ºF (15ºC to 30ºC).
+- Keep DIOVAN tablets in a closed container in a dry place.
+- Store bottles of DIOVAN suspension at room temperature less than 86ºF (30ºC) for up to 30 days, or refrigerate between 35ºF - 46ºF (2ºC - 8ºC) for up to 75 days.
+- Keep DIOVAN and all medicines out of the reach of children.
 
 General information about DIOVAN
 
@@ -208,4 +175,4 @@ East Hanover, NJ 07936
 
 © Novartis
 
-T2012-137 July 2012
+T2014-29 March 2014

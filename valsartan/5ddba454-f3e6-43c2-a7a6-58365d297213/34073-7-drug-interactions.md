@@ -25,6 +25,9 @@ Closely monitor blood pressure, renal function and electrolytes in patients on D
 Do not coadminister aliskiren with Diovan in patients with diabetes.
 Avoid use of aliskiren with Diovan in patients with renal impairment (GFR <60 mL/min).
 
+Lithium: Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including Diovan.
+Monitor serum lithium levels during concomitant use.
+
 ## 7.1 Clinical Laboratory Test Findings
 
 In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of Diovan.

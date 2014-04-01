@@ -27,13 +27,12 @@ A transient hypotensive response is not a contraindication to further treatment,
 ## 5.3 Impaired Renal Function
 
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
-Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g. patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Diovan.
+Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Diovan.
 Monitor renal function periodically in these patients.
-Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Diovan [See Drug Interactions (7)].
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Diovan [see Drug Interactions (7)].
 
 ## 5.4 Hyperkalemia
 
 Some patients with heart failure have developed increases in potassium.
 These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment.
-Dosage reduction and/or discontinuation of Diovan may be required.
-[see Adverse Reactions (6.1)]
+Dosage reduction and/or discontinuation of Diovan may be required [see Adverse Reactions (6.1)].

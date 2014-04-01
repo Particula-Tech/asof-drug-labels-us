@@ -52,13 +52,13 @@ Other reported events seen less frequently in clinical trials included chest pai
 Pediatric Hypertension
 
 Diovan has been evaluated for safety in over 400 pediatric patients aged 6 to 17 years and more than 160 pediatric patients aged 6 months to 5 years.
-No relevant differences were identified between the adverse experience profile for pediatric patients aged 6-16 years and that previously reported for adult patients.
+No relevant differences were identified between the adverse experience profile for pediatric patients aged 6 to 16 years and that previously reported for adult patients.
 Headache and hyperkalemia were the most common adverse events suspected to be study drug-related in older children (6 to 17 years old) and younger children (6 months to 5 years old), respectively.
 Hyperkalemia was mainly observed in children with underlying renal disease.
 Neurocognitive and developmental assessment of pediatric patients aged 6 to 16 years revealed no overall clinically relevant adverse impact after treatment with Diovan for up to 1 year.
 
 Diovan is not recommended for pediatric patients under 6 years of age.
-In a study (n=90) of pediatric patients (1-5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
+In a study (n=90) of pediatric patients (1 to 5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
 These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
 A causal relationship to Diovan has not been established.
 In a second study in which 75 children aged 1 to 6 years were randomized, no deaths and one case of marked liver transaminase elevations occurred during a 1 year open-label extension.
@@ -94,7 +94,7 @@ From the long-term data in the Valsartan Heart Failure Trial, there did not appe
 Post-Myocardial Infarction
 
 The safety profile of Diovan was consistent with the pharmacology of the drug and the background diseases, cardiovascular risk factors, and clinical course of patients treated in the post-myocardial infarction setting.
-The table shows the percent of patients discontinued in the valsartan and captopril-treated groups in the Valsartan in Acute Myocardial Infarction Trial (VALIANT) with a rate of at least 0.5% in either of the treatment groups.
+The table shows the percentage of patients discontinued in the valsartan and captopril-treated groups in the Valsartan in Acute Myocardial Infarction Trial (VALIANT) with a rate of at least 0.5% in either of the treatment groups.
 
 Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated patients and 0.8% of captopril-treated patients.
 
@@ -107,9 +107,9 @@ Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated 
 | Blood creatinine increased | 0.6% | 0.4% |
 | Rash NOS | 0.2% | 0.6% |
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been reported in post-marketing experience:
+The following additional adverse reactions have been reported in postmarketing experience:
 
 Hypersensitivity: There are rare reports of angioedema.
 Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
@@ -121,7 +121,7 @@ Renal: Impaired renal function, renal failure
 
 Clinical Laboratory Tests: Hyperkalemia
 
-Dermatologic: Alopecia
+Dermatologic: Alopecia, bullous dermatitis
 
 Blood and Lymphatic: There are very rare reports of thrombocytopenia
 
