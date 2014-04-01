@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Dobutamine hydrochloride is a direct-acting inotropic agent whose primary activity results from stimulation of the ß-receptors of the heart while producing comparatively mild chronotropic, hypertensive, arrhythmogenic, and vasodilative effects.
+Dobutamine hydrochloride is a direct-acting inotropic agent whose primary activity results from stimulation of the beta-receptors of the heart while producing comparatively mild chronotropic, hypertensive, arrhythmogenic, and vasodilative effects.
 It does not cause the release of endogenous norepinephrine, as does dopamine.
 In animal studies, dobutamine produces less increase in heart rate and less decrease in peripheral vascular resistance for a given inotropic effect than does isoproterenol.
 

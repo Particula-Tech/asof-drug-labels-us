@@ -20,10 +20,8 @@ Dobutamine Hydrochloride in 5% Dextrose Injection.
 
 | Dobutamine (mg/Container) | Dobutamine (mcg/mL) | Dextrose Hydrous, USP (g/L) | Osmolarity (mOsmol/L) (calc)Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (≥ 600 mOsmol/L) may cause vein damage. | pH | kcal/L |
 | --- | --- | --- | --- | --- | --- |
-| 250 mg/500 mL | 500 | 50 | 256 | 3.5 (2.5 to 5.5) | 170 |
-| 250 mg/250 mL | 1000 | 50 | 259 | 170 |  |
-| 500 mg/500 mL | 1000 | 50 | 259 | 3.5 (2.5 to 5.5) | 170 |
-| 500 mg/250 mL | 2000 | 50 | 266 | 170 |  |
+| 250 mg/250 mL | 1000 | 50 | 259 | 3.5 (2.5 to 5.5) | 170 |
+| 500 mg/250 mL | 2000 | 50 | 266 | 3.5 (2.5 to 5.5) | 170 |
 | 1000 mg/250 mL | 4000 | 50 | 280 | 3.5 (2.5 to 5.5) | 170 |
 
 This VIAFLEX Plus plastic container is fabricated from a specially formulated polyvinyl chloride (PL 2207 Plastic).

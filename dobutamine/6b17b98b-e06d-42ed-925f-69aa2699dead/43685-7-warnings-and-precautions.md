@@ -38,7 +38,7 @@ In addition, pulmonary wedge pressure and cardiac output should be monitored whe
 
 Hypovolemia should be corrected with suitable volume expanders before treatment with dobutamine is instituted.
 
-Animal studies indicate that dobutamine may be ineffective if the patient has recently received a ß-blocking drug.
+Animal studies indicate that dobutamine may be ineffective if the patient has recently received a beta-blocking drug.
 In such a case, the peripheral vascular resistance may increase.
 
 No improvement may be observed in the presence of marked mechanical obstruction, such as severe valvular aortic stenosis.

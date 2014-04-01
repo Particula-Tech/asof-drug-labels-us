@@ -8,10 +8,6 @@ Dobutamine Hydrochloride in 5% Dextrose Injection in VIAFLEX Plus plastic contai
 
 2B0793 Dobutamine 1000 mg/250 mL NDC 0338-1077-02
 
-2B0795 Dobutamine 250 mg/500 mL NDC 0338-1071-03
-
-2B0796 Dobutamine 500 mg/500 mL NDC 0338-1073-03
-
 Exposure of pharmaceutical products to heat should be minimized.
 Avoid excessive heat.
 Protect from freezing.
@@ -43,21 +39,9 @@ Such use could result in air embolism due to residual air being drawn from the p
 Table 2.
 Infusion Rate (mL/hr) of Dobutamine Hydrochloride in 5% Dextrose Injection.
 
-| 500 mcg/mL Patient's Weight (Kg) |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1000 mcg/mL Patient's Weight (kg) |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Drug Delivery Rate (mcg/Kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 |
-| 0.5 | 0.30 | 0.60 | 1.2 | 1.8 | 2.4 | 3.0 | 3.6 | 4.2 | 4.8 | 5.4 | 6.0 | 6.6 |
-| 1 | 0.60 | 1.2 | 2.4 | 3.6 | 4.8 | 6.0 | 7.2 | 8.4 | 9.6 | 11 | 12 | 13 |
-| 2.5 | 1.5 | 3.0 | 6.0 | 9.0 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 33 |
-| 5 | 3.0 | 6.0 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 66 |
-| 7.5 | 4.5 | 9.0 | 18 | 27 | 36 | 45 | 54 | 63 | 72 | 81 | 90 | 99 |
-| 10 | 6.0 | 12 | 24 | 36 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 132 |
-| 12.5 | 7.5 | 15 | 30 | 45 | 60 | 75 | 90 | 105 | 120 | 135 | 150 | 165 |
-| 15 | 9.0 | 18 | 36 | 54 | 72 | 90 | 108 | 126 | 144 | 162 | 180 | 198 |
-| 17.5 | 11 | 21 | 42 | 63 | 84 | 105 | 126 | 147 | 168 | 189 | 210 | 231 |
-| 20 | 12 | 24 | 48 | 72 | 96 | 120 | 144 | 168 | 192 | 216 | 240 | 264 |
-| 1000 mcg/mL Patient's Weight (Kg) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Drug Delivery Rate (mcg/Kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 |
+| Drug Delivery Rate (mcg/kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 |
 | 0.5 | 0.15 | 0.30 | 0.60 | 0.90 | 1.2 | 1.5 | 1.8 | 2.1 | 2.4 | 2.7 | 3.0 | 3.3 |
 | 1 | 0.30 | 0.60 | 1.2 | 1.8 | 2.4 | 3.0 | 3.6 | 4.2 | 4.8 | 5.4 | 6.0 | 6.6 |
 | 2.5 | 0.75 | 1.5 | 3.0 | 4.5 | 6.0 | 7.5 | 9.0 | 11 | 12 | 14 | 15 | 17 |
@@ -68,8 +52,8 @@ Infusion Rate (mL/hr) of Dobutamine Hydrochloride in 5% Dextrose Injection.
 | 15 | 4.5 | 9.0 | 18 | 27 | 36 | 45 | 54 | 63 | 72 | 81 | 90 | 99 |
 | 17.5 | 5.3 | 11 | 21 | 32 | 42 | 53 | 63 | 74 | 84 | 95 | 105 | 116 |
 | 20 | 6.0 | 12 | 24 | 36 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 132 |
-| 2000 mcg/mL Patient's Weight (Kg) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Drug Delivery Rate (mcg/Kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 |
+| 2000 mcg/mL Patient's Weight (kg) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Drug Delivery Rate (mcg/kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 |
 | 0.5 | 0.08 | 0.15 | 0.30 | 0.45 | 0.60 | 0.75 | 0.90 | 1.1 | 1.2 | 1.4 | 1.5 | 1.7 |
 | 1 | 0.15 | 0.30 | 0.60 | 0.90 | 1.2 | 1.5 | 1.8 | 2.1 | 2.4 | 2.7 | 3.0 | 3.3 |
 | 2.5 | 0.38 | 0.75 | 1.5 | 2.3 | 3.0 | 3.8 | 4.5 | 5.3 | 6.0 | 6.8 | 7.5 | 8.3 |
@@ -80,8 +64,8 @@ Infusion Rate (mL/hr) of Dobutamine Hydrochloride in 5% Dextrose Injection.
 | 15 | 2.3 | 4.5 | 9.0 | 14 | 18 | 23 | 27 | 32 | 36 | 41 | 45 | 50 |
 | 17.5 | 2.6 | 5.3 | 11 | 16 | 21 | 26 | 32 | 37 | 42 | 47 | 53 | 58 |
 | 20 | 3.0 | 6.0 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 66 |
-| 4000 mcg/mL Patient's Weight (Kg) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Drug Delivery Rate (mcg/Kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 |
+| 4000 mcg/mL Patient's Weight (kg) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Drug Delivery Rate (mcg/kg/min) | 5 | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 |
 | 0.5 | 0.04 | 0.08 | 0.15 | 0.23 | 0.30 | 0.38 | 0.45 | 0.53 | 0.60 | 0.68 | 0.75 | 0.83 |
 | 1 | 0.08 | 0.15 | 0.30 | 0.45 | 0.60 | 0.75 | 0.90 | 1.1 | 1.2 | 1.4 | 1.5 | 1.7 |
 | 2.5 | 0.19 | 0.38 | 0.75 | 1.1 | 1.5 | 1.9 | 2.3 | 2.6 | 3.0 | 3.4 | 3.8 | 4.1 |
@@ -100,6 +84,4 @@ All rights reserved.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-7-19-71-235 Revised September 2012
-
-*BAR CODE POSITION ONLY 071971235
+7-19-72-324 Revised October 2013

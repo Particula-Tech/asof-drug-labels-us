@@ -5,7 +5,7 @@ The following is provided to serve as a guide if such an overdose is encountered
 
 ## Signs and Symptoms
 
-Toxicity from dobutamine is usually due to excessive cardiac ß-receptor stimulation.
+Toxicity from dobutamine is usually due to excessive cardiac beta-receptor stimulation.
 The duration of action of dobutamine is generally short (T1/2 = two minutes) because it is rapidly metabolized by catechol-O-methyltransferase.
 The symptoms of toxicity may include anorexia, nausea, vomiting, tremor, anxiety, palpitations, headache, shortness of breath, and anginal and nonspecific chest pain.
 The positive inotropic and chronotropic effects of dobutamine on the myocardium may cause hypertension, tachyarrhythmias, myocardial ischemia, and ventricular fibrillation.
