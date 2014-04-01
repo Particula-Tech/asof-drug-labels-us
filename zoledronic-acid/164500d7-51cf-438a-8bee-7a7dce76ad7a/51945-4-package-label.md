@@ -15,3 +15,5 @@ For Intravenous Infusion
 Do not mix with calcium-containing solutions
 
 Infusion time must not be less than 15 minutes
+
+Single Use Only – Discard Unused Portion
