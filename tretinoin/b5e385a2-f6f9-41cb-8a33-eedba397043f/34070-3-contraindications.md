@@ -1,3 +1,3 @@
 # CONTRAINDICATIONS
 
-Use of the product should be discontinued if hypersensitivity to any of the ingredients is noted.
+The product should not be used if there is hypersensitivity to any of the ingredients.

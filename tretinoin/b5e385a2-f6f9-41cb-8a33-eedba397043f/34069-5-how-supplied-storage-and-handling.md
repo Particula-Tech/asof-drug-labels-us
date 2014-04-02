@@ -1,8 +1,11 @@
 # HOW SUPPLIED
 
-Tretinoin Cream 0.025% is supplied in 20 g and 45 g tubes.
+Tretinoin Cream 0.025% is supplied in 20 g (NDC 0472-0117-20) and 45 g (NDC 0472-0117-45) tubes.
 
-Storage Conditions: Store below 80°F.
+Storage Conditions: Store below 30°C (86°F).
+Avoid freezing.
+
+Keep this and all medications out of the reach of children.
 
 Manufactured by:
 
@@ -15,6 +18,6 @@ Lincolnton, NC 28092 USA
 FORM NO. 0117
 
 Rev.
-9/08
+9/13
 
-VC3208
+VC4135

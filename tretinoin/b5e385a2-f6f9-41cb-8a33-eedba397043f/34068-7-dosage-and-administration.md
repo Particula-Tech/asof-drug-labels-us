@@ -1,15 +1,13 @@
 # DOSAGE AND ADMINISTRATION
 
-Tretinoin Cream should be applied once a day, before retiring, to the skin where acne lesions appear, using enough to cover the entire affected area lightly.
-
-Application may cause a transitory feeling of warmth or slight stinging.
+Tretinoin Cream should be applied once a day, in the evening, to the skin where acne lesions appear, using enough to cover the entire affected area lightly.
+Application may cause a transient feeling of warmth or slight stinging.
 In cases where it has been necessary to temporarily discontinue therapy or reduce the frequency of application, therapy may be resumed or frequency of application increased when the patients become able to tolerate the treatment.
-Alteration of vehicle, drug concentration, or dose frequency should be closely monitored by careful observation of the clinical therapeutic response and skin tolerance.
+Alterations of dose frequency should be closely monitored by careful observation of the clinical therapeutic response and skin tolerance.
+Efficacy has not been established for less than once-daily dosing frequencies.
 
-During the early weeks of therapy, an apparent exacerbation of inflammatory lesions may occur.
-This is due to the action of the medication on deep, previously unseen lesions and should not be considered a reason to discontinue therapy.
+During the early weeks of therapy, an apparent increase in number and exacerbation of inflammatory acne lesions may occur.
+This is due, in part, to the action of the medication on deep, previously unseen lesions and should not be considered a reason to discontinue therapy.
 Therapeutic results should be noticed after two to three weeks but more than six weeks of therapy may be required before definite beneficial effects are seen.
 
-Once the acne lesions have responded satisfactorily, it may be possible to maintain the improvement with less frequent applications, or other dosage forms.
-
-Patients treated with tretinoin cream acne treatment may use cosmetics, but the area to be treated should be cleansed thoroughly before the medication is applied (see PRECAUTIONS).
+Patients treated with tretinoin cream may use cosmetics, but the areas to be treated should be cleansed thoroughly before the medication is applied (see PRECAUTIONS section).
