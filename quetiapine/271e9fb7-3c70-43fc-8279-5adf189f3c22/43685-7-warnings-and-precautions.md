@@ -63,7 +63,7 @@ However, prior to initiating treatment with an antidepressant, including quetiap
 ## 5.3 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
-Quetiapine fumarate is not approved for the treatment of patients with dementia-related psychosis [see also Boxed WarningandWarnings and Precautions (5.1)].
+Quetiapine fumarate is not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warningand Warnings and Precautions (5.1)].
 
 ## 5.4 Neuroleptic Malignant Syndrome (NMS)
 
