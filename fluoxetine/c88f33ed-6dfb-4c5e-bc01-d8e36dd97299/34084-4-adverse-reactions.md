@@ -105,7 +105,7 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Dis
 | Special Senses |  |  |
 | Abnormal vision | 2 | 1 |
 | 1 Incidence less than 1%. |  |  |
-| 2 Includes US data for Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-US data for Panic Disorder clinical trials. |  |  |
+| 2 Includes US data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-US data for Panic Disorder clinical trials. |  |  |
 
 Associated with discontinuation in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 5 lists the adverse reactions associated with discontinuation of PROZAC treatment (incidence at least twice that for placebo and at least 1% for PROZAC in clinical trials collecting only a primary reaction associated with discontinuation) in Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-US Panic Disorder clinical trials.
 
@@ -117,7 +117,7 @@ Table 5: Most Common Adverse Reactions Associated with Discontinuation in Major 
 | -- | -- | -- | Insomnia (2%) | -- |
 | -- | Nervousness (1%) | -- | -- | Nervousness (1%) |
 | -- | -- | Rash (1%) | -- | -- |
-| 1 Includes US Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-US Panic Disorder clinical trials. |  |  |  |  |
+| 1 Includes US Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-US Panic Disorder clinical trials. |  |  |  |  |
 
 Other adverse reactions in pediatric patients (children and adolescents) — Treatment-emergent adverse reactions were collected in 322 pediatric patients (180 fluoxetine-treated, 142 placebo-treated).
 The overall profile of adverse reactions was generally similar to that seen in adult studies, as shown in Tables 4 and 5.
@@ -159,6 +159,8 @@ Digestive System — Infrequent: dysphagia, gastritis, gastroenteritis, melena, 
 
 Hemic and Lymphatic System — Infrequent: ecchymosis; Rare: petechia, purpura.
 
+Investigations — Frequent: QT interval prolongation (QTcF ≥450 msec)3
+
 Nervous System — Frequent: emotional lability; Infrequent: akathisia, ataxia, balance disorder1, bruxism1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
 
 Respiratory System — Rare: larynx edema.
@@ -173,6 +175,8 @@ Urogenital System — Frequent: micturition disorder; Infrequent: dysuria, gynec
 
 2 Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
 Adjusted for gender.
+
+3 QT prolongation data are based on routine ECG measurements in clinical trials.
 
 ## 6.3 Postmarketing Experience
 
