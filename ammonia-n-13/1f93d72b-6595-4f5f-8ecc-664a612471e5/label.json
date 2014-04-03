@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204496"
+  ],
+  "inn": "ammonia-n-13",
+  "labeler": "UCSF Radiopharmaceutical Facility",
+  "package_ndcs": [
+    "24275-0385-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nh3n13",
+      "name": "Ammonia N 13"
+    }
+  ],
+  "setid": "1f93d72b-6595-4f5f-8ecc-664a612471e5",
+  "source": "dailymed"
+}
