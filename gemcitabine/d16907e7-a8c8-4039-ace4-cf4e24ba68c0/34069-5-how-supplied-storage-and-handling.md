@@ -4,9 +4,9 @@
 
 Gemcitabine for Injection, USP is available in sterile single-use vials individually packaged in a carton containing:
 
-200 mg white to off-white, lyophilized powder in a 10-mL size sterile single-use vial - NDC 0409-0185-01
+200 mg white to off-white, lyophilized powder in a 10-mL size sterile single-use vial - NDC 0409‑0185-01
 
-1 g white to off-white, lyophilized powder in a 50-mL size sterile single-use vial - NDC 0409-0186-01
+1 g white to off-white, lyophilized powder in a 50-mL size sterile single-use vial - NDC 0409‑0186-01
 
 ## 16.2 Storage and Handling
 

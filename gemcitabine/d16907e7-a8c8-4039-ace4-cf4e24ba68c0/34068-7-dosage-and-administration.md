@@ -1,145 +1,129 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Gemcitabine for Injection, USP is for intravenous use only.
-Gemcitabine for Injection, USP may be administered on an outpatient basis.
-
 ## 2.1 Ovarian Cancer
 
-Gemcitabine should be administered intravenously at a dose of 1000 mg/m2 over 30 minutes on Days 1 and 8 of each 21-day cycle.
-Carboplatin AUC 4 should be administered intravenously on Day 1 after gemcitabine administration.
-Patients should be monitored prior to each dose with a complete blood count, including differential counts.
-Patients should have an absolute granulocyte count ≥1500 x 106/L and a platelet count ≥100,000 x 106/L prior to each cycle.
+Recommended Dose and Schedule
+
+The recommended dose of Gemcitabine is 1000 mg/m2 as an intravenous infusion over 30 minutes on Days 1 and 8 of each 21-day cycle, in combination with carboplatin AUC 4 intravenously after gemcitabine administration on Day 1 of each 21-day cycle.
+Refer to carboplatin prescribing information for additional information.
 
 Dose Modifications
 
-Gemcitabine dosage adjustment for hematological toxicity within a cycle of treatment is based on the granulocyte and platelet counts taken on Day 8 of therapy.
-If marrow suppression is detected, gemcitabine dosage should be modified according to guidelines in Table 1.
+Recommended Gemcitabine dose modifications for myelosuppression are described in Table 1 and Table 2 [see Warnings and Precautions (5.2)].
+Refer to Dosage and Administration (2.5) for recommendations for non-hematologic adverse reactions.
 
-Table 1: Day 8 Dosage Reduction Guidelines for Gemcitabine in Combination with Carboplatin
+Table 1: Dosage Reduction Guidelines for Gemcitabine for Myelosuppression on Day of Treatment in Ovarian Cancer
 
-| Absolute granulocyte count (x 106/L) |  | Platelet count (x 106/L) | % of full dose |
-| --- | --- | --- | --- |
-| ≥1500 | And | ≥100,000 | 100 |
-| 1000-1499 | And/or | 75,000-99,999 | 50 |
-| <1000 | And/or | <75,000 | Hold |
+| Treatment Day | Absolute granulocyte count (x 106/L) |  | Platelet count (x 106/L) | % of full dose |
+| --- | --- | --- | --- | --- |
+| Day 1 | ≥1500less than 1500 | andor | ≥100,000less than 100,000 | 100%Delay Treatment Cycle |
+| Day 8 | ≥15001000-1499less than 1000 | andoror | ≥100,00075,000-99,999less than 75,000 | 10050Hold |
 
-In general, for severe (Grade 3 or 4) non-hematological toxicity, except nausea/vomiting, therapy with gemcitabine should be held or decreased by 50% depending on the judgment of the treating physician.
-For carboplatin dosage adjustment, see manufacturer’s prescribing information.
+Table 2: Gemcitabine Dose Modification for Myelosuppression in Previous Cycle in Ovarian Cancer
 
-Dose adjustment for gemcitabine in combination with carboplatin for subsequent cycles is based upon observed toxicity.
-The dose of gemcitabine in subsequent cycles should be reduced to 800 mg/m2 on Days 1 and 8 in case of any of the following hematologic toxicities:
-
-- Absolute granulocyte count <500 x 106/L for more than 5 days
-- Absolute granulocyte count <100 x 106/L for more than 3 days
-- Febrile neutropenia
-- Platelets <25,000 x 106/L
-- Cycle delay of more than one week due to toxicity
-
-If any of the above toxicities recur after the initial dose reduction, for the subsequent cycle, gemcitabine should be given on Day 1 only at 800 mg/m2.
+| Occurrence | Myelosuppression During Treatment Cycle | Dose Modification |
+| --- | --- | --- |
+| Initial Occurrence | Absolute granulocyte count less than 500 x 106/L for more than 5 daysAbsolute granulocyte count less than 100 x 106/L for more than 3 days Febrile neutropeniaPlatelets less than 25,000 x 106/L Cycle delay of more than one week due to toxicity | Permanently reduce Gemcitabine to 800 mg/m2 on Days 1 and 8 |
+| Subsequent Occurrence | If any of the above toxicities occur after the initial dose reduction | Permanently reduce Gemcitabine dose to 800 mg/m2 on Day 1 only |
 
 ## 2.2 Breast Cancer
 
-Gemcitabine should be administered intravenously at a dose of 1250 mg/m2 over 30 minutes on Days 1 and 8 of each 21-day cycle.
-Paclitaxel should be administered at 175 mg/m2 on Day 1 as a 3-hour intravenous infusion before gemcitabine administration.
-Patients should be monitored prior to each dose with a complete blood count, including differential counts.
-Patients should have an absolute granulocyte count ≥1500 x 106/L and a platelet count ≥100,000 x 106/L prior to each cycle.
+Recommended Dose and Schedule
+
+The recommended dose of Gemcitabine is 1250 mg/m2 intravenously over 30 minutes on Days 1 and 8 of each 21-day cycle that includes paclitaxel.
+Paclitaxel should be administered at 175 mg/m2 on Day 1 as a 3 hour intravenous infusion before gemcitabine administration.
 
 Dose Modifications
 
-Gemcitabine dosage adjustment for hematological toxicity is based on the granulocyte and platelet counts taken on Day 8 of therapy.
-If marrow suppression is detected, gemcitabine dosage should be modified according to the guidelines in Table 2.
+Recommended dose modifications for Gemcitabine for myelosuppression are described in Table 3 [see Warnings and Precautions (5.2)].
+Refer to Dosage and Administration (2.5) for recommendations for non-hematologic adverse reactions.
 
-Table 2: Day 8 Dosage Reduction Guidelines for Gemcitabine in Combination with Paclitaxel
+Table 3: Recommended Dose Reductions for Gemcitabine for Myelosuppression on Day of Treatment in Breast Cancer
 
-| Absolute granulocyte count(x 106/L) |  | Platelet count(x 106/L) | % of full dose |
-| --- | --- | --- | --- |
-| ≥1200 | And | >75,000 | 100 |
-| 1000-1199 | Or | 50,000-75,000 | 75 |
-| 700-999 | And | ≥50,000 | 50 |
-| <700 | Or | <50,000 | Hold |
-
-In general, for severe (Grade 3 or 4) non-hematological toxicity, except alopecia and nausea/vomiting, therapy with gemcitabine should be held or decreased by 50% depending on the judgment of the treating physician.
-For paclitaxel dosage adjustment, see manufacturer’s prescribing information.
+| Treatment Day | Absolute granulocyte count |  | Platelet count | % of full dose |
+| --- | --- | --- | --- | --- |
+| Day 1 | ≥1500less than 1500 | andor | ≥100,000less than 100,000 | 100%Hold |
+| Day 8 | ≥12001000-1199700-999less than 700 | andorandor | greater than 75,00050,000-75,000≥50,000less than 50,000 | 100%75%50%Hold |
 
 ## 2.3 Non-Small Cell Lung Cancer
 
-Two schedules have been investigated and the optimum schedule has not been determined [see Clinical Studies (14.3)].
-With the 4-week schedule, gemcitabine should be administered intravenously at 1000 mg/m2 over 30 minutes on Days 1, 8, and 15 of each 28-day cycle.
-Cisplatin should be administered intravenously at 100 mg/m2 on Day 1 after the infusion of gemcitabine.
-With the 3-week schedule, gemcitabine should be administered intravenously at 1250 mg/m2 over 30 minutes on Days 1 and 8 of each 21-day cycle.
-Cisplatin at a dose of 100 mg/m2 should be administered intravenously after the infusion of gemcitabine on Day 1.
-See prescribing information for cisplatin administration and hydration guidelines.
+Recommended Dose and Schedule
+
+Every 4-week schedule
+
+The recommended dose of gemcitabine is 1000 mg/m2 intravenously over 30 minutes on Days 1, 8, and 15 in combination with cisplatin therapy.
+Administer cisplatin intravenously at 100 mg/m2 on Day 1 after the infusion of gemcitabine.
+
+Every 3-week schedule
+
+The recommended dose of gemcitabine is 1250 mg/m2 intravenously over 30 minutes on Days 1 and 8 in combination with cisplatin therapy.
+Administer cisplatin intravenously at 100 mg/m2 on Day 1 after the infusion of gemcitabine.
 
 Dose Modifications
 
-Dosage adjustments for hematologic toxicity may be required for gemcitabine and for cisplatin.
-Gemcitabine dosage adjustment for hematological toxicity is based on the granulocyte and platelet counts taken on the day of therapy.
-Patients receiving gemcitabine should be monitored prior to each dose with a complete blood count (CBC), including differential and platelet counts.
-If marrow suppression is detected, therapy should be modified or suspended according to the guidelines in Table 3.
-For cisplatin dosage adjustment, see manufacturer’s prescribing information.
-
-In general, for severe (Grade 3 or 4) non-hematological toxicity, except alopecia and nausea/vomiting, therapy with gemcitabine plus cisplatin should be held or decreased by 50% depending on the judgment of the treating physician.
-During combination therapy with cisplatin, serum creatinine, serum potassium, serum calcium, and serum magnesium should be carefully monitored (Grade 3/4 serum creatinine toxicity for gemcitabine plus cisplatin was 5% versus 2% for cisplatin alone).
+Recommended dose modifications for gemcitabine myelosuppression are described in Table 4 [see Warnings and Precautions (5.2)].
+Refer to Dosage and Administration (2.5) for gemcitabine recommendations for non-hematologic adverse reactions.
 
 ## 2.4 Pancreatic Cancer
 
-Gemcitabine should be administered by intravenous infusion at a dose of 1000 mg/m2 over 30 minutes once weekly for up to 7 weeks (or until toxicity necessitates reducing or holding a dose), followed by a week of rest from treatment.
-Subsequent cycles should consist of infusions once weekly for 3 consecutive weeks out of every 4 weeks.
+Recommended Dose and Schedule
+
+The recommended dose of gemcitabine is 1000 mg/m2 over 30 minutes intravenously.
+The recommended treatment schedule:
+
+- Weeks 1-8: weekly dosing for the first 7 weeks followed by one week rest.
+- After week 8: weekly dosing on Days 1, 8, and 15 of 28-day cycles.
 
 Dose Modifications
 
-Dosage adjustment is based upon the degree of hematologic toxicity experienced by the patient [see Warnings and Precautions (5.2)].
-Clearance in women and the elderly is reduced and women were somewhat less able to progress to subsequent cycles [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Recommended dose modifications for gemcitabine for myelosuppression are described in Table 4 [see Warnings and Precautions (5.2)].
+Refer to Dosage and Administration (2.5) for recommendations for non-hematologic adverse reactions.
 
 Patients receiving gemcitabine should be monitored prior to each dose with a complete blood count (CBC), including differential and platelet count.
-If marrow suppression is detected, therapy should be modified or suspended according to the guidelines in Table 3.
+If marrow suppression is detected, therapy should be modified or suspended according to the guidelines in Table 4.
 
-Table 3: Dosage Reduction Guidelines
+Table 4: Recommended Dose Reductions for Gemcitabine for Myelosuppression in Pancreatic Cancer and Non-Small Cell Lung Cancer
 
 | Absolute granulocyte count(x 106/L) |  | Platelet count(x 106/L) | % of full dose |
 | --- | --- | --- | --- |
-| ≥1000 | And | ≥100,000 | 100 |
-| 500-999 | Or | 50,000-99,999 | 75 |
-| <500 | Or | <50,000 | Hold |
+| ≥1000500-999less than 500 | andoror | ≥100,00050,000-99,999less than 50,000 | 10075Hold |
 
-Laboratory evaluation of renal and hepatic function, including transaminases and serum creatinine, should be performed prior to initiation of therapy and periodically thereafter.
-Gemcitabine should be administered with caution in patients with evidence of significant renal or hepatic impairment as there is insufficient information from clinical studies to allow clear dose recommendation for these patient populations.
+## 2.5 Dose Modifications for Non-Hematologic Adverse Reactions
 
-Patients treated with gemcitabine who complete an entire cycle of therapy may have the dose for subsequent cycles increased by 25%, provided that the absolute granulocyte count (AGC) and platelet nadirs exceed 1500 x 106/L and 100,000 x 106/L, respectively, and if non-hematologic toxicity has not been greater than WHO Grade 1.
-If patients tolerate the subsequent course of gemcitabine at the increased dose, the dose for the next cycle can be further increased by 20%, provided again that the AGC and platelet nadirs exceed 1500 x 106/L and 100,000 x 106/L, respectively, and that non-hematologic toxicity has not been greater than WHO Grade 1.
+Permanently discontinue Gemcitabine for any of the following
 
-## 2.5 Preparation and Administration Precautions
+- Unexplained dyspnea or other evidence of severe pulmonary toxicity
+- Severe hepatic toxicity
+- Hemolytic-Uremic Syndrome
+- Capillary Leak Syndrome
 
-Caution should be exercised in handling and preparing gemcitabine solutions.
-The use of gloves is recommended.
-If gemcitabine solution contacts the skin or mucosa, immediately wash the skin thoroughly with soap and water or rinse the mucosa with copious amounts of water.
-Although acute dermal irritation has not been observed in animal studies, 2 of 3 rabbits exhibited drug-related systemic toxicities (death, hypoactivity, nasal discharge, shallow breathing) due to dermal absorption.
+Withhold gemcitabine or reduce dose by 50% for other severe (Grade 3 or 4) non-hematological toxicity until resolved.
+No dose modifications are recommended for alopecia, nausea, or vomiting.
 
-Procedures for proper handling and disposal of anti-cancer drugs should be considered.
-Several guidelines on this subject have been published [see References (15)].
+## 2.6 Preparation and Administration Precautions
 
-## 2.6 Preparation for Intravenous Infusion Administration
+Exercise caution and wear gloves when preparing gemcitabine solutions.
+Immediately wash the skin thoroughly or rinse the mucosa with copious amounts of water if gemcitabine contacts the skin or mucus membranes.
+Death has occurred in animal studies due to dermal absorption.
+For further guidance on handling gemcitabine go to “OSHA Hazardous Drugs” (refer to antineoplastic weblinks including OSHA Technical Manual) at OSHA.
 
-The recommended diluent for reconstitution of Gemcitabine for Injection, USP is 0.9% Sodium Chloride Injection without preservatives.
-Due to solubility considerations, the maximum concentration for gemcitabine upon reconstitution is 40 mg/mL.
-Reconstitution at concentrations greater than 40 mg/mL may result in incomplete dissolution, and should be avoided.
+http://www.osha.gov/SLTC/hazardousdrugs/index.html
 
-To reconstitute, add 5 mL of 0.9% Sodium Chloride Injection to the 200-mg vial or 25 mL of 0.9% Sodium Chloride Injection to the 1-g vial.
-Shake to dissolve.
-These dilutions each yield a gemcitabine concentration of 38 mg/mL which includes accounting for the displacement volume of the lyophilized powder (0.26 mL for the 200-mg vial or 1.3 mL for the 1-g vial).
-The total volume upon reconstitution will be 5.26 mL or 26.3 mL, respectively.
-Complete withdrawal of the vial contents will provide 200 mg or 1 g of gemcitabine, respectively.
+## 2.7 Preparation for Intravenous Infusion Administration
+
+Reconstitute the vials with 0.9% Sodium Chloride Injection without preservatives.
+
+Add 5 mL to the 200-mg vial or 25 mL to the 1-g vial.
+These dilutions each yield a gemcitabine concentration of 38 mg/mL.
+Complete withdrawal of the vial contents will provide 200 mg or 1 g of gemcitabine.
 Prior to administration the appropriate amount of drug must be diluted with 0.9% Sodium Chloride Injection.
 Final concentrations may be as low as 0.1 mg/mL.
 
 Reconstituted Gemcitabine for Injection, USP is a clear, colorless to light straw-colored solution.
-After reconstitution with 0.9% Sodium Chloride Injection, the pH of the resulting solution lies in the range of 2.7 to 3.3.
-The solution should be inspected visually for particulate matter and discoloration prior to administration, whenever solution or container permit.
-If particulate matter or discoloration is found, do not administer.
+Inspect visually prior to administration and discard for particulate matter or discoloration.
 
-When prepared as directed, gemcitabine solutions are stable for 24 hours at controlled room temperature 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Gemcitabine solutions are stable for 24 hours at controlled room temperature of 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Discard unused portion.
-Solutions of reconstituted gemcitabine should not be refrigerated, as crystallization may occur.
+Do not refrigerate as crystallization can occur.
 
-The compatibility of gemcitabine with other drugs has not been studied.
 No incompatibilities have been observed with infusion bottles or polyvinyl chloride bags and administration sets.
