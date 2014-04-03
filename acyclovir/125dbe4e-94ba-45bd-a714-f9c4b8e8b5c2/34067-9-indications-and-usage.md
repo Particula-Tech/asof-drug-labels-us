@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-ZOVIRAX Cream is indicated for the treatment of recurrent herpes labialis (cold sores) in adults and adolescents (12 years of age and older).
+ZOVIRAX Cream is a herpes simplex virus (HSV) nucleoside analogue DNA polymerase inhibitor indicated for the treatment of recurrent herpes labialis (cold sores) in immunocompetent adults and adolescents 12 years of age and older.
