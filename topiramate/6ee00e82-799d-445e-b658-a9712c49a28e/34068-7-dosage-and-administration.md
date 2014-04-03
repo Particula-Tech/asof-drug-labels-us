@@ -49,7 +49,7 @@ Titration should begin at 25 mg/day (or less, based on a range of 1 to 3 mg/kg/d
 The dosage should then be increased at 1- or 2-week intervals by increments of 1 to 3 mg/kg/day (administered in two divided doses), to achieve optimal clinical response.
 Dose titration should be guided by clinical outcome.
 
-In the study of primary generalized tonic-clonic seizures the initial titration rate was slower than in previous studies; the assigned dose of 6 mg/kg/day was reached at the end of 8 weeks [see Clinical Studies (14.1)].
+In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose of 6 mg/kg/day was reached at the end of 8 weeks [see Clinical Studies (14.1)].
 
 ## 2.4 Patients With Renal Impairment
 

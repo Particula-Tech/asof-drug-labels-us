@@ -15,14 +15,14 @@ Serious eye problems include:
 - any sudden decrease in vision with or without eye pain and redness,
 - a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma).
 - These eye problems can lead to permanent loss of vision if not treated.
-  You should call your healthcare provider right away if you have any new eye symptoms.
+- You should call your healthcare provider right away if you have any new eye symptoms, including any new problems with your vision.
 
 Topiramate tablets may cause decreased sweating and increased body temperature (fever).
 People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
 Some people may need to be hospitalized for this condition.
 Call your healthcare provider right away if you have a high fever, a fever that does not go away, or decreased sweating.
 
-Topiramate can increase the level of acid in your blood (metabolic acidosis).
+Topiramate tablets can increase the level of acid in your blood (metabolic acidosis).
 If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones, can slow the rate of growth in children, and may possibly harm your baby if you are pregnant.
 Metabolic acidosis can happen with or without symptoms.
 
@@ -244,6 +244,6 @@ Marketed by:
 
 Rochelle Park, NJ 07662.
 
-03-R-01/2013
+04-R-03/2014
 
-13004237
+13006284

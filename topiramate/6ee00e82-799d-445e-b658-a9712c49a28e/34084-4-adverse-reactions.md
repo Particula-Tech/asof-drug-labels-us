@@ -5,17 +5,18 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
 - Acute Myopia and Secondary Angle Closure [see Warnings and Precautions (5.1)]
-- Oligohidrosis and Hyperthermia [see Warnings and Precautions (5.2)]
-- Metabolic Acidosis [see Warnings and Precautions (5.3)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.4)]
-- Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.5)]
-- Fetal Toxicity [see Warnings and Precautions (5.6) and Use in Specific Populations (8.1)]
-- Withdrawal of Antiepileptic Drugs (AEDs) [see Warnings and Precautions (5.7)]
-- Sudden Unexplained Death in Epilepsy (SUDEP) [see Warnings and Precautions (5.8)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use [see Warnings and Precautions (5.9)]
-- Kidney Stones [see Warnings and Precautions (5.10)]
-- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.11)]
-- Paresthesia [see Warnings and Precautions (5.12)]
+- Visual Field Defects [see Warnings and Precautions (5.2)]
+- Oligohidrosis and Hyperthermia [see Warnings and Precautions (5.3)]
+- Metabolic Acidosis [see Warnings and Precautions (5.4)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
+- Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
+- Fetal Toxicity [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)]
+- Withdrawal of Antiepileptic Drugs (AEDs) [see Warnings and Precautions (5.8)]
+- Sudden Unexplained Death in Epilepsy (SUDEP) [see Warnings and Precautions (5.9)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use [see Warnings and Precautions (5.10)]
+- Kidney Stones [see Warnings and Precautions (5.11)]
+- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.12)]
+- Paresthesia [see Warnings and Precautions (5.13)]
 
 The data described in the following sections were obtained using topiramate tablets.
 

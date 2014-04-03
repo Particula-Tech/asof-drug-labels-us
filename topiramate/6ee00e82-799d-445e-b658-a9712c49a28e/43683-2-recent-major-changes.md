@@ -1,4 +1,1 @@
-- Indication and Usage (1.1) 07/2011
-- Dosage and Administration (2.1) 07/2011
-- Metabolic Acidosis (5.3) 07/2011
-- Hypothermia with Concomitant Valproic Acid (VPA) Use (5.11) 07/2011
+# RECENT MAJOR CHANGES

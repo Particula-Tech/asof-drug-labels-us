@@ -30,7 +30,7 @@ The effectiveness of topiramate as an adjunctive treatment for adults with parti
 
 Patients in these studies were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate tablets or placebo.
 In each study, patients were stabilized on optimum dosages of their concomitant AEDs during baseline phase lasting between 4 and 12 weeks.
-Patients who experienced a prespecified minimum number of partial onset seizures, with or without secondary generalization, during the baseline phase (12 seizures for 12 week baseline, 8 for 8 week baseline or 3 for 4 week baseline) were randomly assigned to placebo or a specified dose of topiramate tablets in addition to their other AEDs.
+Patients who experienced a prespecified minimum number of partial onset seizures, with or without secondary generalization, during the baseline phase (12 seizures for 12-week baseline, 8 for 8-week baseline or 3 for 4-week baseline) were randomly assigned to placebo or a specified dose of topiramate tablets in addition to their other AEDs.
 
 Following randomization, patients began the double-blind phase of treatment.
 In five of the six studies, patients received active drug beginning at 100 mg per day; the dose was then increased by 100 mg or 200 mg/day increments weekly or every other week until the assigned dose was reached, unless intolerance prevented increases.

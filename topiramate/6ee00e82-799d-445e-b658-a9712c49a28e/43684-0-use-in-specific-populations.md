@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [See Warnings and Precautions (5.6)]
+Pregnancy Category D [See Warnings and Precautions (5.7)]
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts).
@@ -26,9 +26,9 @@ The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED 
 The UK Epilepsy and Pregnancy Register reported a similarly increased prevalence of oral clefts of 3.2% among infants exposed to topiramate monotherapy.
 The observed rate of oral clefts was 16 times higher than the background rate in the UK, which is approximately 0.2%.
 
-Topiramate treatment can cause metabolic acidosis [see Warnings and Precautions (5.3)].
+Topiramate treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
 The effect of topiramate-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
-Pregnant patients should be monitored for metabolic acidosis and treated as in the nonpregnant state [see Warnings and Precautions (5.3)].
+Pregnant patients should be monitored for metabolic acidosis and treated as in the nonpregnant state [see Warnings and Precautions (5.4)].
 Newborns of mothers treated with topiramate should be monitored for metabolic acidosis because of transfer of topiramate to the fetus and possible occurrence of transient metabolic acidosis following birth.
 
 Animal Data
@@ -76,21 +76,21 @@ A generally similar profile was observed in older children [see Adverse Reaction
 
 Topiramate resulted in an increased incidence of patients with increased creatinine (any topiramate dose 5%, placebo 0%), BUN (any topiramate dose 3%, placebo 0%), and protein (any topiramate dose 34%, placebo 6%), and an increased incidence of decreased potassium (any topiramate dose 7%, placebo 0%).
 This increased frequency of abnormal values was not dose-related.
-Creatinine was the only analyte showing a noteworthy increased incidence (topiramate 25 mg/kg/day 5%, placebo 0%) of a markedly abnormal increase [see Warnings and Precautions (5.15)].
+Creatinine was the only analyte showing a noteworthy increased incidence (topiramate 25 mg/kg/day 5%, placebo 0%) of a markedly abnormal increase [see Warnings and Precautions (5.16)].
 The significance of these findings is uncertain.
 
 Topiramate treatment also produced a dose-related increase in the percentage of patients who had a shift from normal at baseline to high/increased (above the normal reference range) in total eosinophil count at the end of treatment.
-The incidence of these abnormal shifts was 6% for placebo, 10% for 5 mg/kg/day, 9% for 15 mg/kg/day, 14% for 25 mg/kg/day, and 11% for any topiramate dose [see Warnings and Precautions (5.15)].
+The incidence of these abnormal shifts was 6% for placebo, 10% for 5 mg/kg/day, 9% for 15 mg/kg/day, 14% for 25 mg/kg/day, and 11% for any topiramate dose [see Warnings and Precautions (5.16)].
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Topiramate produced a dose-related increased incidence of treatment-emergent hyperammonemia [see Warnings and Precautions (5.9)].
+Topiramate produced a dose-related increased incidence of treatment-emergent hyperammonemia [see Warnings and Precautions (5.10)].
 
-Treatment with topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.3) and Adverse Reactions (6)].
+Treatment with topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 
 In open-label, uncontrolled experience, increasing impairment of adaptive behavior was documented in behavioral testing over time in this population.
 There was a suggestion that this effect was dose-related.
-However, because of the absence of an appropriate control group, it is not known if this decrement in function was treatment-related or reflects the patient's underlying disease (e.g., patients who received higher doses may have more severe underlying disease) [see Warnings and Precautions (5.5)].
+However, because of the absence of an appropriate control group, it is not known if this decrement in function was treatment-related or reflects the patient's underlying disease (e.g., patients who received higher doses may have more severe underlying disease) [see Warnings and Precautions (5.6)].
 
 In this open-label, uncontrolled study, the mortality was 37 deaths/1000 patient years.
 It is not possible to know whether this mortality rate is related to topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1 to 24 months) with partial epilepsy is not known.
@@ -129,7 +129,7 @@ The actual adjustment should take into account the duration of dialysis period, 
 
 ## 8.9 Women of Childbearing Potential
 
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) [see Warnings and Precautions (5.6) and Use in Specific Populations (8.1)].
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
 Consider the benefits and the risks of topiramate when prescribing this drug to women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death.
 Because of the risk of oral clefts to the fetus, which occur in the first trimester of pregnancy before many women know they are pregnant, all women of childbearing potential should be apprised of the potential hazard to the fetus from exposure to topiramate.
 If the decision is made to use topiramate, women who are not planning a pregnancy should use effective contraception [see Drug Interactions (7.3)].

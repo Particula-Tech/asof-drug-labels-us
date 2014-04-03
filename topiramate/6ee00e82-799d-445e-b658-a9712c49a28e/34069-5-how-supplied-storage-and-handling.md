@@ -10,6 +10,8 @@ Bottles of 60: NDC 29300-115-16
 
 Bottles of 100: NDC 29300-115-01
 
+Bottles of 500: NDC 29300-115-05
+
 Bottles of 1000: NDC 29300-115-10
 
 50 mg Tablet:
@@ -19,6 +21,8 @@ White to off-white, round, bevel edged, biconvex, film-coated tablets with 'U' d
 Bottles of 60: NDC 29300-116-16
 
 Bottles of 100: NDC 29300-116-01
+
+Bottles of 500: NDC 29300-116-05
 
 Bottles of 1000: NDC 29300-116-10
 
@@ -30,6 +34,8 @@ Bottles of 60: NDC 29300-117-16
 
 Bottles of 100: NDC 29300-117-01
 
+Bottles of 500: NDC 29300-117-05
+
 Bottles of 1000: NDC 29300-117-10
 
 200 mg Tablet:
@@ -39,6 +45,8 @@ Yellow, round, bevel edged, biconvex, film-coated tablets with 'U' debossed on o
 Bottles of 60: NDC 29300-118-16
 
 Bottles of 100: NDC 29300-118-01
+
+Bottles of 500: NDC 29300-118-05
 
 Bottles of 1000: NDC 29300-118-10
 

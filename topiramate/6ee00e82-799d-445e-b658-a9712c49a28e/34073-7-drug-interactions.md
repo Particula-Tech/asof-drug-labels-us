@@ -12,7 +12,7 @@ Concomitant administration of phenytoin or carbamazepine with topiramate decreas
 
 Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy.
 Concomitant administration of topiramate with valproic acid has also been associated with hypothermia (with and without hyperammonemia) in patients who have tolerated either drug alone.
-It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.9), (5.11) or Clinical Pharmacology (12.3)].
+It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.10), (5.12) or Clinical Pharmacology (12.3)].
 
 ## 7.2 CNS Depressants
 
