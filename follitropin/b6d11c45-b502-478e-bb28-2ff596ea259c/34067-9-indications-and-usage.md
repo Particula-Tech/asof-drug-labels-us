@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1. INDICATIONS AND USAGE
 
 ## 1.1 Induction of Ovulation and Pregnancy in Oligo-Anovulatory Women in whom the Cause of Infertility is Functional and Not Due to Primary Ovarian Failure
 

@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3. DOSAGE FORMS AND STRENGTHS
 
 | • Injection: | Gonal-f® RFF Redi-ject™ 300 International Units per 0.5 mL in prefilled, multiple dose disposable delivery system |
 | --- | --- |

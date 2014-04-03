@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5. WARNINGS AND PRECAUTIONS
 
 Gonal-f® RFF Redi-ject™ should only be used by physicians who are experienced in infertility treatment.
 Gonal-f® RFF Redi-ject™ contains a gonadotropic substance capable of causing Ovarian Hyperstimulation Syndrome (OHSS) in women with or without pulmonary or vascular complications [see Warnings and Precautions (5.2, 5.3, 5.4, 5.5)] and multiple births [see Warnings and Precautions (5.6)].
@@ -40,12 +40,12 @@ Treatment is primarily symptomatic and overall should consist of bed rest, fluid
 Because the use of diuretics can accentuate the diminished intravascular volume, diuretics should be avoided except in the late phase of resolution as described below.
 The management of OHSS may be divided into three phases as follows:
 
-- Acute Phase:Management should be directed at preventing hemoconcentration due to loss of intravascular volume to the third space and minimizing the risk of thromboembolic phenomena and kidney damage.
+- Acute Phase: Management should be directed at preventing hemoconcentration due to loss of intravascular volume to the third space and minimizing the risk of thromboembolic phenomena and kidney damage.
   Fluid intake and output, weight, hematocrit, serum and urinary electrolytes, urine specific gravity, BUN and creatinine, total proteins with albumin: globulin ratio, coagulation studies, electrocardiogram to monitor for hyperkalemia, and abdominal girth should be thoroughly assessed daily or more often based on the clinical need.
   Treatment, consisting of limited intravenous fluids, electrolytes, human serum albumin, is intended to normalize electrolytes while maintaining an acceptable but somewhat reduced intravascular volume.
   Full correction of the intravascular volume deficit may lead to an unacceptable increase in the amount of third space fluid accumulation.
-- Chronic Phase:After the acute phase is successfully managed as above, excessive fluid accumulation in the third space should be limited by instituting severe potassium, sodium, and fluid restriction.
-- Resolution Phase:As third space fluid returns to the intravascular compartment, a fall in hematocrit and increasing urinary output are observed in the absence of any increase in intake.
+- Chronic Phase: After the acute phase is successfully managed as above, excessive fluid accumulation in the third space should be limited by instituting severe potassium, sodium, and fluid restriction.
+- Resolution Phase: As third space fluid returns to the intravascular compartment, a fall in hematocrit and increasing urinary output are observed in the absence of any increase in intake.
   Peripheral and/or pulmonary edema may result if the kidneys are unable to excrete third space fluid as rapidly as it is mobilized.
   Diuretics may be indicated during the resolution phase, if necessary, to combat pulmonary edema.
 
