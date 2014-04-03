@@ -2,6 +2,8 @@
 
 Omeprazole Delayed-Release Capsules, USP
 
+(oh-MEE-pray-zole)
+
 Read this Medication Guide before you start taking omeprazole delayed-release capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -25,7 +27,7 @@ Omeprazole delayed-release capsules can cause serious side effects, including:
 Omeprazole delayed-release capsules can have other serious side effects.
 See “What are the possible side effects of omeprazole delayed-release capsules?”
 
-What is omeprazole delayed-release capsule?
+What are omeprazole delayed-release capsules?
 
 Omeprazole delayed-release capsules are a prescription medicine called a proton pump inhibitor (PPI).
 Omeprazole delayed-release capsules reduces the amount of acid in your stomach.
@@ -145,8 +147,8 @@ Omeprazole delayed-release capsules can cause serious side effects, including:
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
 - Tell your doctor right away if you develop any of these symptoms:
-- •Seizures
-- •Dizziness
+- •seizures
+- •dizziness
 - •abnormal or fast heart beat
 - •jitteriness
 - •jerking movements or shaking (tremors)
@@ -208,7 +210,11 @@ You can ask your doctor or pharmacist for information that is written for health
 
 For more information, call Sandoz Inc. at 1-800-525-8747.
 
-What are the Ingredients in Omeprazole Delayed-Release Capsules?
+Instructions for Use
+
+For instructions on taking Delayed-Release Capsules, please see "How should I take omeprazole delayed-release capsules?"
+
+What are the Ingredients in omeprazole delayed-release capsules?
 
 Active ingredient: Omeprazole
 
@@ -228,4 +234,4 @@ Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-January 2014
+March 2014

@@ -26,7 +26,7 @@ Dose reduction of saquinavir should be considered from the safety perspective fo
 
 There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
 
-## 7.2 Drugs for which Gastric pH can Affect Bioavailability
+## 7.2 Drugs for Which Gastric pH can Affect Bioavailability
 
 Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability.
 Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, ampicillin esters, iron salts and erlotinib can decrease, while the absorption of drugs such as digoxin can increase during treatment with omeprazole.

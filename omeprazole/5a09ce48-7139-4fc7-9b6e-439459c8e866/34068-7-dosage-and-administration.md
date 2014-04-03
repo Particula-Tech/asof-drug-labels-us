@@ -6,11 +6,11 @@ In the clinical trials, antacids were used concomitantly with omeprazole.
 Patients should be informed that the omeprazole delayed-release capsule should be swallowed whole.
 
 For patients unable to swallow an intact capsule, alternative administration options are available.
-[See DOSAGE AND ADMINISTRATION (2.8)]
+[See DOSAGE AND ADMINISTRATION(2.8)]
 
 ## 2.1 Short-Term Treatment of Active Duodenal Ulcer
 
-The recommended adult oral dose of omeprazole delayed-release capsules,USP is 20 mg once daily.
+The recommended adult oral dose of omeprazole delayed-release capsules, USP is 20 mg once daily.
 Most patients heal within four weeks.
 Some patients may require an additional four weeks of therapy.
 
@@ -34,7 +34,7 @@ The recommended adult oral dose for the treatment of patients with erosive esoph
 ## 2.5 Maintenance of Healing of Erosive Esophagitis
 
 The recommended adult oral dose is 20 mg daily.
-[See CLINICAL STUDIES (14.4)]
+[See CLINICAL STUDIES(14.4)]
 
 ## 2.6 Pathological Hypersecretory Conditions
 

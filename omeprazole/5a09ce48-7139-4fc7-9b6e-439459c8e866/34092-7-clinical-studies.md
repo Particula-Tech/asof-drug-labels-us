@@ -186,7 +186,8 @@ In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance
 In open studies of 136 patients with pathological hypersecretory conditions, such as Zollinger-Ellison (ZE) syndrome with or without multiple endocrine adenomas, omeprazole delayed-release capsules significantly inhibited gastric acid secretion and controlled associated symptoms of diarrhea, anorexia, and pain.
 Doses ranging from 20 mg every other day to 360 mg per day maintained basal acid secretion below 10 mEq/hr in patients without prior gastric surgery, and below 5 mEq/hr in patients with prior gastric surgery.
 
-Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [see DOSAGE AND ADMINISTRATION (2)] omeprazole was well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
+Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [see DOSAGE AND ADMINISTRATION(2)].
+Omeprazole was well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
 In most ZE patients, serum gastrin levels were not modified by omeprazole.
 However, in some patients serum gastrin increased to levels greater than those present prior to initiation of omeprazole therapy.
 At least 11 patients with ZE syndrome on long-term treatment with omeprazole developed gastric carcinoids.

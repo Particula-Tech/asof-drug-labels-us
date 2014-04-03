@@ -8,14 +8,14 @@ Symptomatic response to therapy with omeprazole does not preclude the presence o
 
 Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long-term with omeprazole.
 
-## 5.3 Clostridium difficileAssociated Diarrhea
+## 5.3 Clostridium difficile Associated Diarrhea
 
-Published observational studies suggest that PPI therapy like omeprazole may be associated with an increased risk of Clostridium difficileassociated diarrhea, especially in hospitalized patients.
+Published observational studies suggest that PPI therapy like omeprazole may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see ADVERSE REACTIONS (6.2)].
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
-Clostridium difficileassociated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
 For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with omeprazole, refer to WARNINGS and PRECAUTIONSsections of those package inserts.
 
 ## 5.4 Interaction with Clopidogrel
@@ -47,7 +47,7 @@ For patients expected to be on prolonged treatment or who take PPIs with medicat
 ## 5.7 Concomitant Use of Omeprazole with St John’s Wort or Rifampin
 
 Drugs which induce CYP2C19 or CYP3A4 (such as St John’s Wort or rifampin) can substantially decrease omeprazole concentrations.
-[SeeDRUG INTERACTIONS(7.3)] Avoid concomitant use of Omeprazole with St John’s Wort or rifampin.
+[SeeDRUG INTERACTIONS(7.3)] Avoid concomitant use of omeprazole with St John’s Wort or rifampin.
 
 ## 5.8 Interactions with Diagnostic Investigations for Neuroendocrine Tumors
 

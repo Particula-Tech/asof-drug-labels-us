@@ -154,14 +154,14 @@ Table 3
 
 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
-| Single or Repeated Oral Dosing /Parameter | ChildrenNote: * =plasma concentration adjusted to an oral dose of 1 mg/kg. ≤ 20 kg 2 to 5 years 10 mg | Children > 20 kg 6 to 16 years 20 mg | AdultsData from a single and repeated dose studies (mean 76 kg) 23 to 29 years (n=12) |
+| Single or Repeated Oral Dosing /Parameter | ChildrenNote: * =plasma concentration adjusted to an oral dose of 1 mg/kg. ≤ 20 kg 2 to 5 years 10 mg | ChildrenNote: * =plasma concentration adjusted to an oral dose of 1 mg/kg. > 20 kg 6 to 16 years 20 mg | AdultsData from a single and repeated dose studies (mean 76 kg) 23 to 29 years (n=12) |
 | --- | --- | --- | --- |
 | Single Dosing |  |  |  |
 | CmaxData from a single and repeated dose study (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
-| AUC (ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
+| AUCData from a single and repeated dose study (ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
 | Repeated Dosing |  |  |  |
-| Cmax (ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
-| AUC (ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
+| CmaxData from a single and repeated dose study (ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
+| AUCData from a single and repeated dose study (ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
 
 Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules.
 
