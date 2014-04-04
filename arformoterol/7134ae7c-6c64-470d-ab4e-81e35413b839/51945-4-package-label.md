@@ -22,6 +22,8 @@ ATTENTION DISPENSER: Each patient is required to receive the enclosed Medication
 
 SUNOVION
 
+______________________________________________________________________________
+
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 4 VIAL POUCH
 
 NDC 63402-911-04

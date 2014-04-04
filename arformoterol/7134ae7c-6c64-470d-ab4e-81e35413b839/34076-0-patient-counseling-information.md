@@ -49,9 +49,7 @@ SUNOVION Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 U
 © 2011, 2014 Sunovion Pharmaceuticals Inc. All rights reserved.
 
 For customer service, call 1-888-394-7377.
-
 To report adverse events, call 1-877-737-7226.
-
 For medical information, call 1-800-739-0565.
 
 901552R02

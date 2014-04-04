@@ -31,4 +31,6 @@ SUNOVION Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 U
 
 © 2011, 2014 Sunovion Pharmaceuticals Inc. All rights reserved.
 
-February 2014 901552R02
+February 2014
+
+901552R02

@@ -15,7 +15,6 @@ Adults with COPD in Short-Term Trials (12 weeks)
 The safety data described below for adults ≥35 years of age are based on 2 clinical trials of 12 weeks.
 In the 2 trials of 12 weeks duration, 1456 patients (860 males and 596 females, ages 34 to 89 years old) with COPD were treated with BROVANA Inhalation Solution 15 mcg twice daily, 25 mcg twice daily, 50 mcg once daily, salmeterol 42 mcg twice daily, or placebo.
 The racial/ethnic distribution in these two trials included 1383 Caucasians, 49 Blacks, 10 Asians, and 10 Hispanics, and 4 patients classified as Other.
-
 Among the 1,456 COPD patients in two 12-week, placebo-controlled trials, 288 were treated with BROVANA Inhalation Solution 15 mcg twice daily and 293 were treated with placebo.
 Doses of 25 mcg twice daily and 50 mcg once daily were also evaluated.
 
