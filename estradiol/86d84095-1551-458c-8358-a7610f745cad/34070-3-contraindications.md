@@ -1,11 +1,21 @@
 # 4 CONTRAINDICATIONS
 
-Evamist should not be used in women with any of the following conditions:
+Evamist is contraindicated in women with any of the following conditions:
 
-- Undiagnosed abnormal genital bleeding
-- Known, suspected, or history of cancer of the breast
-- Known or suspected estrogen-dependent neoplasia
-- Active deep vein thrombosis, pulmonary embolism, or history of these conditions
-- Active or recent (within the past year) arterial thromboembolic disease (for example, stroke and myocardial infarction)
-- Known liver dysfunction or disease
-- Known or suspected pregnancy
+• Undiagnosed abnormal genital bleeding
+
+• Known, suspected, or history of cancer of the breast
+
+• Known or suspected estrogen-dependent neoplasia
+
+• Active DVT, PE, or history of these conditions
+
+• Active arterial thromboembolic disease (for example, stroke and MI), or history of these conditions
+
+• Known anaphylactic reaction or angioedema with Evamist
+
+• Known liver impairment or disease
+
+• Known protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders
+
+• Known or suspected pregnancy

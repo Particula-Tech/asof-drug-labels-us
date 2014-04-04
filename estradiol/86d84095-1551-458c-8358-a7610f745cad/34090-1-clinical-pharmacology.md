@@ -6,26 +6,28 @@ Endogenous estrogens are largely responsible for the development and maintenance
 Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level.
 
 The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle.
-After menopause, most endogenous estrogen is produced by conversion of androstenedione, secreted by the adrenal cortex, to estrone by peripheral tissues.
+After menopause, most endogenous estrogen is produced by conversion of androstenedione, secreted by the adrenal cortex, to estrone in the peripheral tissues.
 Thus, estrone and the sulfate conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women.
-
-## 12.2 Pharmacodynamics
 
 Estrogens act through binding to nuclear receptors in estrogen-responsive tissues.
 To date, two estrogen receptors have been identified.
-These vary in proportions from tissue to tissue.
+These vary in proportion from tissue to tissue.
 
-Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH), through a negative feedback mechanism.
+Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and FSH, through a negative feed back mechanism.
 Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women.
+
+## 12.2 Pharmacodynamics
+
+There are no pharmacodynamic data for Evamist.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
 In a multiple-dose study, 72 postmenopausal women were treated for 14 days with Evamist to the inner forearm.
-Serum concentrations of estradiol appeared to reach steady state after 7 to 8 days of application of one, two, or three 90-mcL sprays of Evamist per day (Figure 1).
+Serum concentrations of estradiol appeared to reach steady state after 7 to 8 days of application of one, two, or three 90 mcL sprays of Evamist per day (Figure 1).
 
-Pharmacokinetics parameters for estradiol from one, two, or three 90-mcL sprays of Evamist, as assessed on Day 14 of this study, are described in Table 2.
+Pharmacokinetics parameters for estradiol from one, two, or three 90 mcL sprays of Evamist, as assessed on Day 14 of this study, are described in Table 2.
 
 Table 2.
 Estradiol Pharmacokinetic Parameters on Day 14 (Unadjusted for Baseline)
@@ -40,7 +42,7 @@ Distribution
 
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
-Estrogens circulate in blood largely bound to sex hormone binding globulin (SHBG) and albumin.
+Estrogens circulate in blood largely bound to SHBG and albumin.
 
 Metabolism
 
@@ -55,14 +57,17 @@ Excretion
 
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 
-Effect of Application Site Washing
+Use in Specific Populations
 
-The effect of application site washing was evaluated in 20 healthy postmenopausal women who applied three 90-mcL sprays of Evamist to the inner forearm.
-Application site washing with warm water and soap one hour after the application of three 90-mcL sprays to the inner forearm did not have a significant effect on average 24-hour serum concentrations of estradiol.
+No pharmacokinetic studies were conducted with Evamist in specific populations, including women with renal or hepatic impairment.
 
 Potential for Estradiol Transfer
 
-The effect of estradiol transfer was evaluated in 20 healthy postmenopausal women who applied three 90-mcL sprays of Evamist to the inner forearm.
-One hour after applying Evamist, subjects held the dosed forearm against the inner forearm of a non-dosed (recipient) male subject for one 5-minute period of continual contact without rubbing.
+The effect of estradiol transfer was evaluated in 20 healthy postmenopausal women who applied three 90-mcL sprays of Evamist to the inner forearm once daily.
+One hour after applying Evamist, subjects held the dosed forearm against the inner forearm of a non-dosed (recipient) male subject for one 5-minute period of continual contact.
 A 4% increase in serum estradiol exposure was observed in persons who came in contact with the application site.
-The possibility of unintentional secondary exposure to Evamist should be brought to the attention of the physicians and Evamist users.
+The possibility of unintentional secondary exposure to Evamist should be brought to the attention of physicians and Evamist users.
+
+#### Effect of Application Site Washing
+
+Site washing with warm water and soap one hour after the application of three 90 mcL sprays to the inner forearm did not have a significant effect on average 24-hour serum concentrations of estradiol.

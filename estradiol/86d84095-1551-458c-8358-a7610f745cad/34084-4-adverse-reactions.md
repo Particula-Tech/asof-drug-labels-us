@@ -1,15 +1,20 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Study Experience
+The following serious adverse reactions are discussed elsewhere in the labeling:
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+- •Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions (5.1)]
+- •Malignant Neoplasms [see Boxed Warning, Warnings and Precautions (5.2)]
 
-In a 12-week, randomized, placebo-controlled trial of Evamist in 454 women, 80-90 percent of women randomized to active drug received at least 70 days of therapy and 75-85 percent randomized to placebo received at least 70 days of therapy.
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+In a 12-week, randomized, placebo-controlled trial of Evamist in 454 women, 80 to 90 percent of women randomized to active drug received at least 70 days of therapy and 75 to 85 percent randomized to placebo received at least 70 days of therapy.
 
 The adverse reactions that occurred in at least 5 percent of women in any treatment group are shown in Table 1.
 
 Table 1.
-Frequency of Adverse Reactions (≥ 5%) in Any Treatment Group in a Controlled Study of Evamist
+Frequency of Adverse Reactions (≥ 5 Percent) in Any Treatment Group in a Controlled Study of Evamist
 
 | Placebo (N = 77) | Evamist (N = 76) | Placebo (N = 76) | Evamist (N = 74) | Placebo (N = 75) | Evamist (N = 76) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -30,38 +35,29 @@ Frequency of Adverse Reactions (≥ 5%) in Any Treatment Group in a Controlled S
 
 Application site reactions were reported in 3 out of 226 (1.3%) women treated with Evamist.
 
-## 6.2 Additional Adverse Reactions Reported With Estrogen and/or Progestin Therapy
+## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been reported with estrogen and/or progestin therapy.
+The following adverse reactions have been identified during post-approval use of Evamist.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Genitourinary System
+Breasts: Breast swelling, breast mass, breast enlargement
 
-Abnormal uterine bleeding/spotting, dysmenorrhea/pelvic pain, increase in size of uterine leiomyomata, vaginitis including vaginal candidiasis, change in amount of cervical secretion, changes in cervical ectropion, ovarian cancer, endometrial hyperplasia, endometrial cancer.
+Cardiovascular: Heart rate increased
 
-Breasts
+Central nervous system: Dizziness, dysgeusia, paresthesia, lethargy, hypoesthesia
 
-Tenderness, enlargement, pain, nipple discharge, galactorrhea, fibrocystic breast changes, breast cancer.
+Eyes: Eye irritation, ocular hyperemia
 
-Cardiovascular
+Gastrointestinal: Abdominal pain, diarrhea, constipation, abdominal distension, dry mouth, decreased appetite
 
-Deep and superficial venous thrombosis, pulmonary embolism, thrombophlebitis, myocardial infarction, stroke, increase in blood pressure.
+Genitourinary system: Vaginal bleeding
 
-Gastrointestinal
+Musculoskeletal: Muscle spasms, arthritis
 
-Nausea, vomiting, abdominal cramps, bloating, cholestatic jaundice, increased incidence of gallbladder disease, pancreatitis, enlargement of hepatic hemangiomas.
+Psychiatric: Insomnia, mood swings, anxiety, irritability, mood altered, depression
 
-Skin
+Respiratory tract: Cough, dyspnea, dry throat
 
-Chloasma or melasma, that may persist when drug is discontinued; erythema multiforme, erythema nodosum, hemorrhagic eruption, loss of scalp hair, hirsutism, pruritus, rash.
+Skin: Nipple and areola discoloration, usually on the same side of the body as the inner forearm on which Evamist is applied, rash, pruritus, alopecia, urticaria, dry skin, skin discoloration, chloasma
 
-Eyes
-
-Retinal vascular thrombosis, intolerance to contact lenses.
-
-Central Nervous System
-
-Headache, migraine, dizziness, mental depression, exacerbation of chorea, nervousness, mood disturbances, irritability, exacerbation of epilepsy, dementia.
-
-Miscellaneous
-
-Increase or decrease in weight, glucose intolerance, aggravation of porphyria, edema, arthralgias, leg cramps, changes in libido, urticaria, angioedema, anaphylactoid/anaphylactic reactions, hypocalcemia (preexisting condition), exacerbation of asthma, increased triglycerides.
+Miscellaneous: Weight increased, malaise, fatigue, asthenia
