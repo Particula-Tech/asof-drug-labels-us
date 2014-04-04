@@ -24,26 +24,14 @@ Non-laboratory adverse reactions listed in Table 4 or discussed below were those
 
 Table 4: Selected WHO-Graded Adverse Reactions in Patients Receiving Single-Agent Gemcitabine WHO Grades (% incidence)a
 
-|  | All Patients b |  |  | Pancreatic Cancer Patients c |  |  | Discontinuations (%) d |
+|  | All Patientsb |  |  | Pancreatic Cancer Patientsc |  |  | Discontinuations (%)d |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 | All Patients |
+|  | All Grades | Grade 3 | Grade4 | All Grades | Grade3 | Grade4 | All Patients |
 | LaboratoryeHematologic Anemia Leukopenia Neutropenia Thrombocytopenia | 68626324 | 79194 | 1<161 | 73646136 | 88177 | 217<1 | <1<1-<1 |
-| Hepatic ALT AST AlkalinePhosphatase Bilirubin | 686755 13 | 867 2 | 222 <1 | 727877 26 | 101216 6 | 154 2 | <1 |
+| Hepatic ALT AST Alkaline Phosphatase Bilirubin | 68675513 | 8672 | 222<1 | 72787726 | 1012166 | 1542 | <1 |
 | Renal Proteinuria Hematuria BUN Creatinine | 4535168 | <1<10<1 | 0000 | 3223156 | <1000 | 0000 | <1 |
-| Non-laboratoryf Nausea andVomiting Fever Rash Dyspnea Diarrhea Hemorrhage Infection Alopecia Stomatitis Somnolence Paresthesias | 69 41302319171615111110 | 13 2<131<11<1<1<1<1 | 1 00<10<1<100<10 | 71 3828103041016101110 | 10 2<103220<12<1 | 2 00<10<1<100<10 | <1 <1<1<10<1<10<1<10 |
-
-a Grade based on criteria from the World Health Organization (WHO).
-
-b N=699-974; all patients with laboratory or non-laboratory data.
-
-c N=161-241; all pancreatic cancer patients with laboratory or non-laboratory data.
-
-d N=979.
-
-e Regardless of causality.
-
-f Table includes non-laboratory data with incidence for all patients ≥10%.
-For approximately 60% of the patients, non-laboratory adverse reactions were graded only if assessed to be possibly drug-related.
+| Non-laboratoryf Nausea and Vomiting Fever Rash Dyspnea Diarrhea Hemorrhage Infection Alopecia Stomatitis Somnolence Paresthesias | 6941302319171615111110 | 132<131<11<1<1<1<1 | 100<10<1<100<10 | 713828103041016101110 | 102<103220<12<1 | 200<10<1<100<10 | <1<1<1<10<1<10<1<10 |
+| a Grade based on criteria from the World Health Organization (WHO).b N=699-974; all patients with laboratory or non-laboratory data.c N=161-241; all pancreatic cancer patients with laboratory or non-laboratory data.d N=979.e Regardless of causality.f Table includes non-laboratory data with incidence for all patients ≥10%. For approximately 60% of the patients, non-laboratory adverse reactions were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |  |
 
 Hematologic - In studies in pancreatic cancer myelosuppression is the dose-limiting toxicity with gemcitabine, but <1% of patients discontinued therapy for either anemia, leukopenia, or thrombocytopenia.
 Red blood cell transfusions were required by 19% of patients.
@@ -173,22 +161,7 @@ Table 5: Selected CTC-Graded Adverse Reactions From Comparative Trial of Gemcita
 | Renal Proteinuria Hematuria Creatinine | 231538 | 004 | 00<1 | 181331 | 002 | 00<1 |
 | Other Laboratory Hyperglycemia Hypomagnesemia Hypocalcemia | 303018 | 442 | 030 | 23177 | 320 | 00<1 |
 | Non-laboratoryf Nausea Vomiting Alopecia Neuro Motor Neuro Hearing Diarrhea Neuro Sensory Infection Fever Neuro Cortical Neuro Mood Local Neuro Headache Stomatitis Hemorrhage Dyspnea Hypotension Rash | 937853352524231816161615141414121211 | 251111262130310011410 | 2120002020100000300 | 8771331521131812591067541173 | 20100360110110000310 | <190000000000000200 |
-
-a Grade based on Common Toxicity Criteria (CTC).
-Table includes data for adverse reactions with incidence ≥10% in either arm.
-
-b N=217-253; all Gemcitabine plus cisplatin patients with laboratory or non-laboratory data.
-Gemcitabine at 1000 mg/m2 on Days 1, 8, and 15 and cisplatin at 100 mg/m2 on Day 1 every 28 days.
-
-c N=213-248; all cisplatin patients with laboratory or non-laboratory data.
-Cisplatin at 100 mg/m2 on Day 1 every 28 days.
-
-d Regardless of causality.
-
-e Percent of patients receiving transfusions.
-Percent transfusions are not CTC-graded events.
-
-f Non-laboratory events were graded only if assessed to be possibly drug-related.
+| a Grade based on Common Toxicity Criteria (CTC). Table includes data for adverse reactions with incidence ≥10% in either arm. b N=217-253; all Gemcitabine plus cisplatin patients with laboratory or non-laboratory data. Gemcitabine at 1000 mg/m2 on Days 1, 8, and 15 and cisplatin at 100 mg/m2 on Day 1 every 28 days.c N=213-248; all cisplatin patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 every 28 days.d Regardless of causality.e Percent of patients receiving transfusions. Percent transfusions are not CTC-graded events.f Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |
 
 Table 6: Selected WHO-Graded Adverse Reactions From Comparative Trial of Gemcitabine Plus Cisplatin Versus Etoposide Plus Cisplatin in NSCLC WHO Grades (% incidence)a
 
@@ -199,23 +172,7 @@ Table 6: Selected WHO-Graded Adverse Reactions From Comparative Trial of Gemcita
 | Hepatic ALT AST Alkaline Phosphatase Bilirubin | 63160 | 0000 | 0000 | 1211110 | 0000 | 0000 |
 | Renal Proteinuria Hematuria BUN Creatinine | 122262 | 0000 | 0000 | 51042 | 0000 | 0000 |
 | Non-laboratoryf, g Nausea and Vomiting Fever Rash Dyspnea Diarrhea Hemorrhage Infection Alopecia Stomatitis Somnolence Paresthesias | 966101149287720338 | 3500010313400 | 40011310000 | 86333133219218316 | 1900000851222 | 70002300000 |
-
-a Grade based on criteria from the World Health Organization (WHO).
-
-b N=67-69; all Gemcitabine plus cisplatin patients with laboratory or non-laboratory data.
-Gemcitabine at 1250 mg/m2 on Days 1 and 8 and cisplatin at 100 mg/m2 on Day 1 every 21 days.
-
-c N=57-63; all cisplatin plus etoposide patients with laboratory or non-laboratory data.
-Cisplatin at 100 mg/m2 on Day 1 and IV etoposide at 100 mg/m2 on Days 1, 2, and 3 every 21 days.
-
-d Regardless of causality.
-
-e Percent of patients receiving transfusions.
-Percent transfusions are not WHO-graded events.
-
-f Non-laboratory events were graded only if assessed to be possibly drug-related.
-
-g Pain data were not collected.
+| a Grade based on criteria from the World Health Organization (WHO). b N=67-69; all Gemcitabine plus cisplatin patients with laboratory or non-laboratory data. Gemcitabine at 1250 mg/m2 on Days 1 and 8 and cisplatin at 100 mg/m2 on Day 1 every 21 days.c N=57-63; all cisplatin plus etoposide patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 and IV etoposide at 100 mg/m2 on Days 1, 2, and 3 every 21 days.d Regardless of causality.e Percent of patients receiving transfusions. Percent transfusions are not WHO-graded events.f Non-laboratory events were graded only if assessed to be possibly drug-related.g Pain data were not collected. |  |  |  |  |  |  |
 
 Combination Use in Breast Cancer
 
@@ -228,25 +185,20 @@ Table 7 presents the safety data occurrences of ≥10% (all grades) from the gem
 
 Table 7: Adverse Reactions From Comparative Trial of Gemcitabine Plus Paclitaxel Versus Single-Agent Paclitaxel in Breast Cancera CTC Grades (% incidence)
 
-|  | Gemcitabine plus Paclitaxel(N=262) |  |  | Paclitaxel(N=259) |  |  |
+|  | Gemcitabine plus Paclitaxel (N=262) |  |  | Paclitaxel (N=259) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
-| Laboratoryb Hematologic Anemia Neutropenia Thrombocytopenia Leukopenia | 69692621 | 631510 | 117<11 | 5131712 | 34<12 | <17<10 |
+| LaboratorybHematologic Anemia Neutropenia Thrombocytopenia Leukopenia | 69692621 | 631510 | 117<11 | 5131712 | 34<12 | <17<10 |
 | Hepatobiliary ALT AST | 1816 | 52 | <10 | 65 | <1<1 | 00 |
 | Non-laboratoryc Alopecia Neuropathy-sensory Nausea Fatigue Myalgia Vomiting Arthralgia Diarrhea Anorexia Neuropathy-motor Stomatitis/pharyngitis Fever Rash/desquamation | 90645040332924201715131311 | 145164233021<1<1 | 4<10<100000<1<10<1 | 92583128331522131210835 | 193213222<1<1<100 | 300<1<10<1000000 |
-
-a Grade based on Common Toxicity Criteria (CTC) Version 2.0 (all grades ≥10%).
-
-b Regardless of causality.
-
-c Non-laboratory events were graded only if assessed to be possibly drug-related.
+| a Grade based on Common Toxicity Criteria (CTC) Version 2.0 (all grades ≥10%).b Regardless of causality.c Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |
 
 The following are the clinically relevant adverse reactions that occurred in >1% and <10% (all grades) of patients on either arm.
 In parentheses are the incidences of Grade 3 and 4 adverse reactions (Gemcitabine plus paclitaxel versus paclitaxel): febrile neutropenia (5.0% versus 1.2%), infection (0.8% versus 0.8%), dyspnea (1.9% versus 0), and allergic reaction/hypersensitivity (0 versus 0.8%).
 
 No differences in the incidence of laboratory and non-laboratory events were observed in patients 65 years or older, as compared to patients younger than 65.
 
-Combination Use in Ovarian Cancer
+Combination Use in Ovarian Cancer:
 
 In the gemcitabine plus carboplatin versus carboplatin study, dose reductions occurred with 10.4% of gemcitabine injections and 1.8% of carboplatin injections on the combination arm, versus 3.8% on the carboplatin alone arm.
 On the combination arm, 13.7% of gemcitabine doses were omitted and 0.2% of carboplatin doses were omitted, compared to 0% of carboplatin doses on the carboplatin alone arm.
@@ -256,19 +208,12 @@ Table 8 presents the adverse reactions (all grades) occurring in ≥10% of patie
 
 Table 8: Adverse Reactions From Comparative Trial of Gemcitabine Plus Carboplatin Versus Single-Agent Carboplatin in Ovarian Cancera CTC Grades (% incidence)
 
-|  | Gemcitabine plus Carboplatin N=175 |  |  | Carboplatin N=174 |  |  |
+|  | Gemcitabine plus Carboplatin (N=175) |  |  | Carboplatin (N=174) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
 | LaboratorybHematologic Neutropenia Anemia Leukopenia Thrombocytopenia RBC Transfusionsc Platelet Transfusionsc | 90868678389 | 42224830 | 29655 | 58757057153 | 119610 | 12<11 |
-| Non-laboratoryb Nausea Alopecia Vomiting Constipation Fatigue Neuropathy-sensory Diarrhea Stomatitis/pharyngitis Anorexia | 69 49 46 42 40 29 25 22 16 | 6 0 6 6 3 1 3 <1 1 | 0 0 0 1 <1 0 0 0 0 | 61 17 36 37 32 27 14 13 13 | 3 0 2 3 5 2 <1 0 0 | 0 0 <1 0 0 0 0 0 0 |
-
-a Grade based on Common Toxicity Criteria (CTC) Version 2.0 (all grades ≥10%).
-
-b Regardless of causality.
-
-c Percent of patients receiving transfusions.
-Transfusions are not CTC-graded events.
-Blood transfusions included both packed red blood cells and whole blood.
+| Non-laboratoryb Nausea Alopecia Vomiting Constipation Fatigue Neuropathy-sensory Diarrhea Stomatitis/pharyngitis Anorexia | 694946424029252216 | 6066313<11 | 0001<10000 | 611736373227141313 | 302352<100 | 00<1000000 |
+| a Grade based on Common Toxicity Criteria (CTC) Version 2.0 (all grades ≥10%). b Regardless of causality. c Percent of patients receiving transfusions. Transfusions are not CTC-graded events. Blood transfusions included both packed red blood cells and whole blood. |  |  |  |  |  |  |
 
 In addition to blood product transfusions as listed in Table 8, myelosuppression was also managed with hematopoietic agents.
 These agents were administered more frequently with combination therapy than with monotherapy (granulocyte growth factors: 23.6% and 10.1%, respectively; erythropoietic agents: 7.3% and 3.9%, respectively).
