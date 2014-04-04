@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Xolair (omalizumab) is a recombinant DNA-derived humanized IgG1κ monoclonal antibody that selectively binds to human immunoglobulin E (IgE).
+Xolair is a recombinant DNA-derived humanized IgG1κ monoclonal antibody that selectively binds to human immunoglobulin E (IgE).
 The antibody has a molecular weight of approximately 149 kiloDaltons.
 Xolair is produced by a Chinese hamster ovary cell suspension culture in a nutrient medium containing the antibiotic gentamicin.
 Gentamicin is not detectable in the final product.

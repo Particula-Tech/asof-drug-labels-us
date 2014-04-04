@@ -5,7 +5,9 @@
 Anaphylaxis has been reported to occur after administration of Xolair in premarketing clinical trials and in postmarketing spontaneous reports.
 Signs and symptoms in these reported cases have included bronchospasm, hypotension, syncope, urticaria, and/or angioedema of the throat or tongue.
 Some of these events have been life-threatening.
-In premarketing clinical trials the frequency of anaphylaxis attributed to Xolair use was estimated to be 0.1%.
+In premarketing clinical trials in allergic asthma, anaphylaxis was reported in 3 of 3507 (0.1%) patients in clinical trials.
+Anaphylaxis occurred with the first dose of Xolair in two patients and with the fourth dose in one patient.
+The time to onset of anaphylaxis was 90 minutes after administration in two patients and 2 hours after administration in one patient.
 In postmarketing spontaneous reports, the frequency of anaphylaxis attributed to Xolair use was estimated to be at least 0.2% of patients based on an estimated exposure of about 57,300 patients from June 2003 through December 2006.
 Anaphylaxis has occurred as early as after the first dose of Xolair, but also has occurred beyond one year after beginning regularly scheduled treatment.
 
@@ -29,8 +31,9 @@ Do not use Xolair to treat acute bronchospasm or status asthmaticus.
 
 ## 5.4 Corticosteroid Reduction
 
-Do not discontinue systemic or inhaled corticosteroids abruptly upon initiation of Xolair therapy.
+Do not discontinue systemic or inhaled corticosteroids abruptly upon initiation of Xolair therapy for allergic asthma.
 Decrease corticosteroids gradually under the direct supervision of a physician.
+In CIU patients, the use of Xolair in combination with corticosteroids has not been evaluated.
 
 ## 5.5 Eosinophilic Conditions
 
@@ -41,11 +44,10 @@ A causal association between Xolair and these underlying conditions has not been
 
 ## 5.6 Fever, Arthralgia, and Rash
 
-In post-approval use, some patients have experienced a constellation of signs and symptoms including arthritis/arthralgia, rash (urticaria or other forms), fever and lymphadenopathy with an onset 1 to 5 days after the first or subsequent injections of Xolair.
+In post-approval use, some patients have experienced a constellation of signs and symptoms including arthritis/arthralgia, rash, fever and lymphadenopathy with an onset 1 to 5 days after the first or subsequent injections of Xolair.
 These signs and symptoms have recurred after additional doses in some patients.
 Although circulating immune complexes or a skin biopsy consistent with a Type III reaction were not seen with these cases, these signs and symptoms are similar to those seen in patients with serum sickness.
-Physicians should stop Xolair if a patient develops this constellation of signs and symptoms.
-[see Adverse Reactions, Postmarketing Experience (6.2)]
+Physicians should stop Xolair if a patient develops this constellation of signs and symptoms [see Adverse Reactions (6.4)].
 
 ## 5.7 Parasitic (Helminth) Infection
 
@@ -60,4 +62,4 @@ Response to appropriate anti-geohelminth treatment of infection as measured by s
 
 Serum total IgE levels increase following administration of Xolair due to formation of Xolair:IgE complexes [see Clinical Pharmacology (12.2)].
 Elevated serum total IgE levels may persist for up to 1 year following discontinuation of Xolair.
-Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen because these levels may not reflect steady state free IgE levels.
+Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen for allergic asthma patients, because these levels may not reflect steady state free IgE levels.

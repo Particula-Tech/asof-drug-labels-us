@@ -1,4 +1,4 @@
-# WARNING: Anaphylaxis
+# WARNING: ANAPHYLAXIS
 
 Anaphylaxis presenting as bronchospasm, hypotension, syncope, urticaria, and/or angioedema of the throat or tongue, has been reported to occur after administration of Xolair.
 Anaphylaxis has occurred as early as after the first dose of Xolair, but also has occurred beyond 1 year after beginning regularly administered treatment.
