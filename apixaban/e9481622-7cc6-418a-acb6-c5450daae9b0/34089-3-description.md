@@ -5,7 +5,7 @@ Its molecular formula is C25H25N5O4, which corresponds to a molecular weight of 
 Apixaban has the following structural formula:
 
 Apixaban is a white to pale-yellow powder.
-At physiological pH (1.2-6.8), apixaban does not ionize; its aqueous solubility across the physiological pH range is ~0.04 mg/mL.
+At physiological pH (1.2–6.8), apixaban does not ionize; its aqueous solubility across the physiological pH range is ~0.04 mg/mL.
 
 ELIQUIS tablets are available for oral administration in strengths of 2.5 mg and 5 mg of apixaban with the following inactive ingredients: anhydrous lactose, microcrystalline cellulose, croscarmellose sodium, sodium lauryl sulfate, and magnesium stearate.
 The film coating contains lactose monohydrate, hypromellose, titanium dioxide, triacetin, and yellow iron oxide (2.5 mg tablets) or red iron oxide (5 mg tablets).

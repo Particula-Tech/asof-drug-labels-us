@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Apixaban is an oral, reversible, and selective active site inhibitor of FXa.
+Apixaban is a selective inhibitor of FXa.
 It does not require antithrombin III for antithrombotic activity.
 Apixaban inhibits free and clot-bound FXa, and prothrombinase activity.
 Apixaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin.
@@ -38,13 +38,15 @@ Apixaban has no effect on the QTc interval in humans at doses up to 50 mg.
 
 ## 12.3 Pharmacokinetics
 
+Apixaban demonstrates linear pharmacokinetics with dose-proportional increases in exposure for oral doses up to 10 mg.
+
 ### Absorption
 
 The absolute bioavailability of apixaban is approximately 50% for doses up to 10 mg of ELIQUIS.
 Food does not affect the bioavailability of apixaban.
 Maximum concentrations (Cmax) of apixaban appear 3 to 4 hours after oral administration of ELIQUIS.
-Apixaban demonstrates linear pharmacokinetics with dose-proportional increases in exposure for oral doses up to 10 mg.
 At doses ≥25 mg, apixaban displays dissolution-limited absorption with decreased bioavailability.
+Following administration of a crushed 5 mg ELIQUIS tablet that was suspended in 60 mL D5W and delivered through a nasogastric tube (NGT), exposure was similar to that seen in other clinical trials involving healthy volunteers receiving a single oral 5 mg tablet dose.
 
 ### Distribution
 

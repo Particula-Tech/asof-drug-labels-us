@@ -2,17 +2,27 @@
 
 ## 2.1 Recommended Dose
 
+### Reduction of Risk of Stroke and Systemic Embolism in Patients with Nonvalvular Atrial Fibrillation
+
 The recommended dose of ELIQUIS for most patients is 5 mg taken orally twice daily.
+
+### Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
+
+The recommended dose of ELIQUIS is 2.5 mg taken orally twice daily.
+The initial dose should be taken 12 to 24 hours after surgery.
+
+- ●In patients undergoing hip replacement surgery, the recommended duration of treatment is 35 days.
+- ●In patients undergoing knee replacement surgery, the recommended duration of treatment is 12 days.
 
 ## 2.2 Dosage Adjustments
 
-The recommended dose of ELIQUIS is 2.5 mg twice daily in patients with any 2 of the following characteristics:
+In patients with nonvalvular atrial fibrillation: The recommended dose of ELIQUIS is 2.5 mg twice daily in patients with any 2 of the following characteristics:
 
 - ●age ≥80 years
 - ●body weight ≤60 kg
 - ●serum creatinine ≥1.5 mg/dL
 
-CYP3A4 and P-gp inhibitors: When ELIQUIS is coadministered with drugs that are strong dual inhibitors of cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp) (e.g., ketoconazole, itraconazole, ritonavir, clarithromycin), the recommended dose is 2.5 mg twice daily [see Clinical Pharmacology (12.3)].
+Coadministration with CYP3A4 and P-gp inhibitors: For patients receiving ELIQUIS 5 mg twice daily when ELIQUIS is coadministered with drugs that are strong dual inhibitors of cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp) (e.g., ketoconazole, itraconazole, ritonavir, clarithromycin), the recommended dose is 2.5 mg twice daily [see Clinical Pharmacology (12.3)].
 
 In patients already taking 2.5 mg twice daily, coadministration of ELIQUIS with strong dual inhibitors of CYP3A4 and P-gp should be avoided.
 
@@ -48,5 +58,10 @@ ELIQUIS is not recommended in patients with severe hepatic impairment [see Clini
 ## 2.7 Renal Impairment
 
 The dosing adjustment for moderate renal impairment is described above [see Dosage and Administration (2.2)].
-The recommended dose for patients with end-stage renal disease (ESRD) maintained on hemodialysis is 5 mg twice daily.
+The recommended dose for nonvalvular atrial fibrillation patients with end-stage renal disease (ESRD) maintained on hemodialysis is 5 mg twice daily.
 Reduce dose to 2.5 mg twice daily if one of the following patient characteristics (age ≥80 years or body weight ≤60 kg) is present [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+## 2.8 Administration Options
+
+For patients who are unable to swallow whole tablets, 5 mg and 2.5 mg ELIQUIS tablets may be crushed and suspended in 60 mL D5W and immediately delivered through a nasogastric tube (NGT) [see Clinical Pharmacology (12.3)].
+Information regarding the administration of crushed and suspended ELIQUIS tablets swallowed by mouth is not available.

@@ -4,7 +4,7 @@ ELIQUIS® (ELL eh kwiss) (apixaban) tablets
 
 What is the most important information I should know about ELIQUIS?
 
-- ●People with atrial fibrillation (a type of irregular heartbeat) are at an increased risk of forming a blood clot in the heart, which can travel to the brain, causing a stroke, or to other parts of the body.
+- ●For people taking ELIQUIS for atrial fibrillation: People with atrial fibrillation (a type of irregular heartbeat) are at an increased risk of forming a blood clot in the heart, which can travel to the brain, causing a stroke, or to other parts of the body.
   ELIQUIS lowers your chance of having a stroke by helping to prevent clots from forming.
   If you stop taking ELIQUIS, you may have increased risk of forming a clot in your blood.
   Do not stop taking ELIQUIS without talking to the doctor who prescribes it for you.
@@ -40,10 +40,22 @@ What is the most important information I should know about ELIQUIS?
   - ●unexpected pain, swelling, or joint pain
   - ●headaches, feeling dizzy or weak
 - ●ELIQUIS is not for patients with artificial heart valves.
+- ●Spinal or epidural blood clots or bleeding (hematoma).
+  People who take a blood thinner medicine (anticoagulant) like ELIQUIS, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot that can cause long-term or permanent loss of the ability to move (paralysis).
+  Your risk of developing a spinal or epidural blood clot is higher if:
+  - ●a thin tube called an epidural catheter is placed in your back to give you certain medicine
+  - ●you take NSAIDs or a medicine to prevent blood from clotting
+  - ●you have a history of difficult or repeated epidural or spinal punctures
+  - ●you have a history of problems with your spine or have had surgery on your spine
+- If you take ELIQUIS and receive spinal anesthesia or have a spinal puncture, your doctor should watch you closely for symptoms of spinal or epidural blood clots or bleeding.
+  Tell your doctor right away if you have tingling, numbness, or muscle weakness, especially in your legs and feet.
 
 What is ELIQUIS?
 
-ELIQUIS is a prescription medicine used to reduce the risk of stroke and blood clots in people who have atrial fibrillation.
+ELIQUIS is a prescription medicine used to:
+
+- ●reduce the risk of stroke and blood clots in people who have atrial fibrillation.
+- ●reduce the risk of forming a blood clot in the legs and lungs of people who have just had hip or knee replacement surgery.
 
 It is not known if ELIQUIS is safe and effective in children.
 
@@ -89,9 +101,10 @@ How should I take ELIQUIS?
   Do not take more than one dose of ELIQUIS at the same time to make up for a missed dose.
 - ●Your doctor will decide how long you should take ELIQUIS.
   Do not stop taking it without first talking with your doctor.
-  Stopping ELIQUIS may increase your risk of having a stroke.
+  If you are taking ELIQUIS for atrial fibrillation, stopping ELIQUIS may increase your risk of having a stroke.
 - ●Do not run out of ELIQUIS.
   Refill your prescription before you run out.
+  When leaving the hospital following hip or knee replacement, be sure that you will have ELIQUIS available to avoid missing any doses.
 - ●If you take too much ELIQUIS, call your doctor or go to the nearest hospital emergency room right away.
 - ●Call your doctor or healthcare provider right away if you fall or injure yourself, especially if you hit your head.
   Your doctor or healthcare provider may need to check you.
@@ -148,4 +161,4 @@ COUMADIN® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 
 All other trademarks are property of their respective companies.
 
-Rev January 2014
+1289808A0 / 1289807A0 / 1298500A0 1295958A0 Revised March 2014
