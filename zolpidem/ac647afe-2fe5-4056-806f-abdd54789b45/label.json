@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA078970"
+  ],
+  "inn": "zolpidem",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-779-01",
+    "68180-779-02",
+    "68180-779-03",
+    "68180-779-06",
+    "68180-779-11",
+    "68180-779-13",
+    "68180-780-01",
+    "68180-780-02",
+    "68180-780-03",
+    "68180-780-06",
+    "68180-780-11",
+    "68180-780-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "zolpidem tartrate",
+      "name": "ZOLPIDEM TARTRATE"
+    }
+  ],
+  "setid": "ac647afe-2fe5-4056-806f-abdd54789b45",
+  "source": "dailymed"
+}
