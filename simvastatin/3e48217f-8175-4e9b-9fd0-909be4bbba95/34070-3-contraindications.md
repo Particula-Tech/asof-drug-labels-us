@@ -1,7 +1,9 @@
-# 4 CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
 Simvastatin is contraindicated in the following conditions:
 
+- Concomitant administration of strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, HIV protease inhibitors, boceprevir, telaprevir, erythromycin, clarithromycin, telithromycin, nefazodone, and cobicistat-containing products) [see WARNINGS AND PRECAUTIONS (5.1)].
+- Concomitant administration of gemfibrozil, cyclosporine, or danazol [see WARNINGS AND PRECAUTIONS (5.1)].
 - Hypersensitivity to any component of this medication [see ADVERSE REACTIONS (6.2)].
 - Active liver disease, which may include unexplained persistent elevations in hepatic transaminase levels [see WARNINGS AND PRECAUTIONS (5.2)].
 - Women who are pregnant or may become pregnant.

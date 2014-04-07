@@ -19,15 +19,13 @@
     "68180-481-03",
     "68180-482-03",
     "68180-482-06",
-    "68180-482-09",
-    "68180-482-11",
-    "68180-482-13"
+    "68180-482-09"
   ],
   "products": [
     {
-      "form": "TABLET",
+      "form": "TABLET, FILM COATED",
       "generic": "simvastatin",
-      "name": "Simvastatin"
+      "name": "SIMVASTATIN"
     }
   ],
   "setid": "3e48217f-8175-4e9b-9fd0-909be4bbba95",
