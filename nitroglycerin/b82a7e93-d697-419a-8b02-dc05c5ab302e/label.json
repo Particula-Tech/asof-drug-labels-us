@@ -1,0 +1,18 @@
+{
+  "application_numbers": [],
+  "inn": "nitroglycerin",
+  "labeler": "G. POHL-BOSKAMP GmbH & Co. KG",
+  "package_ndcs": [
+    "62627-100-25",
+    "62627-100-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "nitroglycerin",
+      "name": "Nitronal"
+    }
+  ],
+  "setid": "b82a7e93-d697-419a-8b02-dc05c5ab302e",
+  "source": "dailymed"
+}
