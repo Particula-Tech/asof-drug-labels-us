@@ -132,6 +132,6 @@ Metabolic and Nutritional Disorders: Frequent: decreased appetite, increased app
 Renal and Urinary Disorders: Frequent: pollakiuria.
 Infrequent: urinary incontinence, dysuria, hematuria, nephrolithiasis, polyuria, enuresis, nocturia, incontinence.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 Decreased weight has been reported in patients receiving rufinamide both in the presence and absence of gastrointestinal symptoms.
