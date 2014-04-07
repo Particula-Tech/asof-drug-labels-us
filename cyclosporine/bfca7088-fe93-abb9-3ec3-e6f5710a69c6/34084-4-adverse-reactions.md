@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The principal adverse reactions of cyclosporine therapy are renal dysfunction, tremor, hirsutism, hypertension, and gum hyperplasia.
+The principal adverse reactions of cyclosporine capsules therapy are renal dysfunction, tremor, hirsutism, hypertension, and gum hyperplasia.
 
 Hypertension
 
@@ -21,9 +21,9 @@ Clinical Studies
 
 The following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants:
 
-|  | Randomized Kidney Patients |  | All Cyclosporine Patients |  |  |
+|  | Randomized Kidney Patients |  | All Cyclosporine capsules Patients |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Cyclosporine | Azathioprine | Kidney | Heart | Liver |
+|  | Cyclosporine capsules | Azathioprine | Kidney | Heart | Liver |
 | Body System/ | (N=227) | (N=228) | (N=705) | (N=112) | (N=75) |
 | Adverse Reactions | % | % | % | % | % |
 | Genitourinary |  |  |  |  |  |
@@ -61,8 +61,8 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 
 | Renal Transplant Patients in Whom Therapy Was Discontinued |  |  |  |
 | --- | --- | --- | --- |
-|  | Randomized Patients |  | All Cyclosporine Patients |
-|  | Cyclosporine | Azathioprine |  |
+|  | Randomized Patients |  | All Cyclosporine capsules Patients |
+|  | Cyclosporine capsules | Azathioprine |  |
 |  | (N=227) | (N=228) | (N=705) |
 | Reason for Discontinuation | % | % | % |
 | Renal Toxicity | 5.7 | 0 | 5.4 |
@@ -73,7 +73,7 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Hypertension | 0 | 0 | 0.3 |
 | Hematological Abnormalities | 0 | 0.4 | 0 |
 | Other | 0 | 0 | 0.7 |
-| Cyclosporine was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
+| Cyclosporine capsules was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
 
 Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine -containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
 Both generalized and localized infections can occur.
@@ -82,7 +82,7 @@ Fatal outcomes have been reported (see WARNINGS).
 
 | Infectious Complications in the Randomized Renal Transplant Patients |  |  |
 | --- | --- | --- |
-|  | Cyclosporine Treatment | Standard TreatmentSome patients also received ALG. |
+|  | Cyclosporine capsules Treatment | Standard TreatmentSome patients also received ALG. |
 |  | (N=227) | (N=228) |
 | Complication | % of Complications | % of Complications |
 | Septicemia | 5.3 | 4.8 |
@@ -99,11 +99,11 @@ Fatal outcomes have been reported (see WARNINGS).
 
 Hepatotoxicity
 
-Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported (see WARNINGS/ Hepatotoxicity).
+Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported (see WARNINGS, Hepatotoxicity).
 
 Increased Risk of Infections
 
-Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS/ Polyoma Virus Infection).
+Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS, Polyoma Virus Infection).
 
 Headache, including Migraine
 

@@ -4,11 +4,11 @@ Kidney, Liver and Heart Transplant
 
 (See boxed WARNINGS.)
 
-Cyclosporine capsules, USP NON-MODIFIED, when used in high doses, can cause hepatotoxicity and nephrotoxicity.
+Cyclosporine capsules, (NON-MODIFIED), when used in high doses, can cause hepatotoxicity and nephrotoxicity.
 
 Nephrotoxicity
 
-It is not unusual for serum creatinine and BUN levels to be elevated during cyclosporine therapy.
+It is not unusual for serum creatinine and BUN levels to be elevated during cyclosporine capsules therapy.
 These elevations in renal transplant patients do not necessarily indicate rejection, and each patient must be fully evaluated before dosage adjustment is initiated.
 
 Nephrotoxicity has been noted in 25% of cases of renal transplantation, 38% of cases of cardiac transplantation, and 37% of cases of liver transplantation.
@@ -17,7 +17,7 @@ These elevations were often responsive to dosage reduction.
 
 More overt nephrotoxicity was seen early after transplantation and was characterized by a rapidly rising BUN and creatinine.
 Since these events are similar to rejection episodes, care must be taken to differentiate between them.
-This form of nephrotoxicity is usually responsive to cyclosporine dosage reduction.
+This form of nephrotoxicity is usually responsive to cyclosporine capsules dosage reduction.
 
 Although specific diagnostic criteria which reliably differentiate renal graft rejection from drug toxicity have not been found, a number of parameters have been significantly associated to one or the other.
 It should be noted however, that up to 20% of patients may have simultaneous nephrotoxicity and rejection.
@@ -69,7 +69,7 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 |  | (131 I-hippuran) > decrease in perfusion | Increased uptake of Indium 111 labeled platelets or |
 |  | (99m Tc DTPA) | Tc-99m in colloid |
 | Therapy | Responds to decreased | Responds to increased steroids or |
-|  | (cyclosporine) | antilymphocyte globulin |
+|  | cyclosporine capsules | antilymphocyte globulin |
 
 ap < 0.05, bp < 0.01, cp < 0.001, dp < 0.0001
 
@@ -86,16 +86,16 @@ The reversibility of interstitial fibrosis and its correlation to renal function
 
 Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
 In patients with persistent high elevations of BUN and creatinine who are unresponsive to dosage adjustments, consideration should be given to switching to other immunosuppressive therapy.
-In the event of severe and unremitting rejection, it is preferable to allow the kidney transplant to be rejected and removed rather than increase the cyclosporine dosage to a very high level in an attempt to reverse the rejection.
+In the event of severe and unremitting rejection, it is preferable to allow the kidney transplant to be rejected and removed rather than increase the cyclosporine capsules dosage to a very high level in an attempt to reverse the rejection.
 
-Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when co-administering cyclosporine with other drugs that may impair renal function (see PRECAUTIONS, Drug Interactions).
+Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when co-administering cyclosporine capsules with other drugs that may impair renal function (see PRECAUTIONS, Drug Interactions).
 
 Thrombotic Microangiopathy
 
 Occasionally patients have developed a syndrome of thrombocytopenia and microangiopathic hemolytic anemia which may result in graft failure.
 The vasculopathy can occur in the absence of rejection and is accompanied by avid platelet consumption within the graft as demonstrated by Indium 111 labeled platelet studies.
 Neither the pathogenesis nor the management of this syndrome is clear.
-Though resolution has occurred after reduction or discontinuation of cyclosporine and 1) administration of streptokinase and heparin or 2) plasmapheresis, this appears to depend upon early detection with Indium 111 labeled platelet scans (see ADVERSE REACTIONS).
+Though resolution has occurred after reduction or discontinuation of cyclosporine capsules and 1) administration of streptokinase and heparin or 2) plasmapheresis, this appears to depend upon early detection with Indium 111 labeled platelet scans (see ADVERSE REACTIONS).
 
 Hyperkalemia
 
@@ -108,33 +108,33 @@ Most reports included patients with significant comorbidities, underlying condit
 In some cases, mainly in transplant patients, fatal outcomes have been reported (see ADVERSE REACTIONS, Postmarketing Experience).
 
 Hepatotoxicity, usually manifested by elevations in hepatic enzymes and bilirubin, was reported in patients treated with cyclosporine in clinical trials: 4% in renal transplantation, 7% in cardiac transplantation, and 4% in liver transplantation.
-This was usually noted during the first month of therapy when high doses of cyclosporine were used.
+This was usually noted during the first month of therapy when high doses of cyclosporine capsules were used.
 The chemistry elevations usually decreased with a reduction in dosage.
 
 Malignancies
 
-As in patients receiving other immunosuppressants, those patients receiving cyclosporine are at increased risk for development of lymphomas and other malignancies, particularly those of the skin.
+As in patients receiving other immunosuppressants, those patients receiving cyclosporine capsules are at increased risk for development of lymphomas and other malignancies, particularly those of the skin.
 The increased risk appears related to the intensity and duration of immunosuppression rather than to the use of specific agents.
-Because of the danger of oversuppression of the immune system, which can also increase susceptibility to infection, cyclosporine should not be administered with other immunosuppressive agents except adrenal corticosteroids.
+Because of the danger of oversuppression of the immune system, which can also increase susceptibility to infection, cyclosporine capsules should not be administered with other immunosuppressive agents except adrenal corticosteroids.
 The efficacy and safety of cyclosporine in combination with other immunosuppressive agents have not been determined.
 Some malignancies may be fatal.
 Transplant patients receiving cyclosporine are at increased risk for serious infection with fatal outcome.
 
 ## Serious Infections
 
-Patients receiving immunosuppressants, including cyclosporine are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
+Patients receiving immunosuppressants, including cyclosporine capsules are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
 These infections may lead to serious, including fatal, outcomes (see BOXED WARNING, and ADVERSE REACTIONS).
 
 Polyoma Virus Infections
 
-Patients receiving immunosuppressants, including cyclosporine, are at increased risk for opportunistic infections, including polyoma virus infections.
+Patients receiving immunosuppressants, including cyclosporine capsules, are at increased risk for opportunistic infections, including polyoma virus infections.
 Polyoma virus infections in transplant patients may have serious, and sometimes, fatal outcomes.
 These include cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), and polyoma virus-associated nephropathy (PVAN), especially due to BK virus infection, which have been observed in patients receiving cyclosporine.
 
-PVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss, (see ADVERSE REACTIONS/Postmarketing Experience).
+PVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss, (see ADVERSE REACTIONS, Postmarketing Experience).
 Patient monitoring may help detect patients at risk for PVAN.
 
-Cases of PML have been reported in patients treated with cyclosporine.
+Cases of PML have been reported in patients treated with cyclosporine capsules.
 PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies and ataxia.
 Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
 In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
@@ -158,26 +158,26 @@ Specific Excipients
 
 Alcohol (methanol)
 
-The alcohol content (see DESCRIPTION) of cyclosporine should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g. pregnant or breast feeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
+The alcohol content (see DESCRIPTION) of cyclosporine capsules should be taken into account when given to patients in whom alcohol intake should be avoided or minimized, e.g. pregnant or breast feeding women, in patients presenting with liver disease or epilepsy, in alcoholic patients, or pediatric patients.
 For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 gram of alcohol which is approximately 6% of the amount of alcohol contained in a standard drink.
 The daily intravenous dose would deliver approximately 15% of the amount of alcohol contained in a standard drink.
 
-Care should be taken in using cyclosporine with nephrotoxic drugs (see PRECAUTIONS).
+Care should be taken in using cyclosporine capsules with nephrotoxic drugs (see PRECAUTIONS).
 
-Conversion from Neoral to Cyclosporine
+Conversion from Neoral to Cyclosporine capsules
 
-Because cyclosporine, capsules USP NON-MODIFIED is not bioequivalent to Neoral®*, conversion from Neoral®* to cyclosporine capsules, USP NON-MODIFIED using a 1:1 ratio (mg/kg/day) may result in a lower cyclosporine blood concentration.
-Conversion from Neoral®* to cyclosporine capsules, USP NON-MODIFIED should be made with increased blood concentration monitoring to avoid the potential of underdosing.
+Because cyclosporine capsules (NON-MODIFIED), is not bioequivalent to Neoral®*, conversion from Neoral®* to cyclosporine capsules, (NON-MODIFIED) using a 1:1 ratio (mg/kg/day) may result in a lower cyclosporine blood concentration.
+Conversion from Neoral®* to cyclosporine capsules, (NON-MODIFIED) should be made with increased blood concentration monitoring to avoid the potential of underdosing.
 
 # PRECAUTIONS
 
 ## General
 
-Patients with malabsorption may have difficulty in achieving therapeutic concentrations with cyclosporine.
+Patients with malabsorption may have difficulty in achieving therapeutic concentrations with cyclosporine capsules.
 
 ## Hypertension
 
-Hypertension is a common side effect of cyclosporine therapy (see ADVERSE REACTIONS).
+Hypertension is a common side effect of cyclosporine capsules therapy (see ADVERSE REACTIONS).
 Mild or moderate hypertension is more frequently encountered than severe hypertension and the incidence decreases over time.
 Antihypertensive therapy may be required.
 Control of blood pressure can be accomplished with any of the common antihypertensive agents.
@@ -186,7 +186,7 @@ While calcium antagonists can be effective agents in treating cyclosporine-assoc
 
 ## Vaccination
 
-During treatment with cyclosporine capsules, USP NON-MODIFIED, vaccination may be less effective and the use of live attenuated vaccines should be avoided.
+During treatment with cyclosporine capsules, (NON-MODIFIED), vaccination may be less effective and the use of live attenuated vaccines should be avoided.
 
 ## Information for Patients
 
@@ -219,7 +219,7 @@ If a significant impairment of renal function occurs, reduction in the dosage of
 Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
 Various agents are known to either increase or decrease plasma or whole blood concentrations of cyclosporine usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
 Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
-Appropriate cyclosporine dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (see Blood Concentration Monitoring).
+Appropriate cyclosporine capsules dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (see Blood Concentration Monitoring).
 
 ### 1.Drugs That Increase Cyclosporine Concentrations
 
@@ -410,13 +410,13 @@ Cyclosporine oral solution, USP has been shown to be embryo- and fetotoxic in ra
 At toxic doses (rats at 30 mg/kg/day and rabbits at 100 mg/kg/day), cyclosporine oral solution, USP was embryo- and fetotoxic as indicated by increased pre- and postnatal mortality and reduced fetal weight together with related skeletal retardations.
 In the well-tolerated dose range (rats at up to 17 mg/kg/day and rabbits at up to 30 mg/kg/day), cyclosporine oral solution, USP proved to be without any embryolethal or teratogenic effects.
 
-There are no adequate and well-controlled studies in pregnant women and therefore, cyclosporine should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
+There are no adequate and well-controlled studies in pregnant women and therefore, cyclosporine capsules should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
 
 In pregnant transplant recipients who are being treated with immunosuppressants, the risk of premature birth is increased.
-The following data represent the reported outcomes of 116 pregnancies in women receiving cyclosporine during pregnancy, 90% of whom were transplant patients, and most of whom received cyclosporine throughout the entire gestational period.
+The following data represent the reported outcomes of 116 pregnancies in women receiving cyclosporine capsules during pregnancy, 90% of whom were transplant patients, and most of whom received cyclosporine capsules throughout the entire gestational period.
 Since most of the patients were not prospectively identified, the results are likely to be biased toward negative outcomes.
 The only consistent patterns of abnormality were premature birth (gestational period of 28 to 36 weeks) and low birth weight for gestational age.
-It is not possible to separate the effects of cyclosporine on these pregnancies from the effects of the other immunosuppressants, the underlying maternal disorders, or other aspects of the transplantation milieu.
+It is not possible to separate the effects of cyclosporine capsules on these pregnancies from the effects of the other immunosuppressants, the underlying maternal disorders, or other aspects of the transplantation milieu.
 Sixteen fetal losses occurred.
 Most of the pregnancies (85 of 100) were complicated by disorders; including, preeclampsia, eclampsia, premature labor, abruptio placentae, oligohydramnios, Rh incompatibility and fetoplacental dysfunction.
 Preterm delivery occurred in 47%.
@@ -434,8 +434,8 @@ The alcohol content of the cyclosporine formulations should also be taken into a
 ## Nursing Mothers
 
 Cyclosporine is present in breast milk.
-Because of the potential for serious adverse drug reactions in nursing infants from cyclosporine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-Cyclosporine contains methanol.
+Because of the potential for serious adverse drug reactions in nursing infants from cyclosporine capsules, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Cyclosporine capsules contains methanol.
 Methanol will be present in human milk at levels similar to that found in maternal serum and if present in breast milk will be orally absorbed by a nursing infant (see WARNINGS).
 
 ## Pediatric Use
@@ -444,6 +444,6 @@ Although no adequate and well-controlled studies have been conducted in children
 
 ## Geriatric Use
 
-Clinical studies of cyclosporine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger patients.
+Clinical studies of cyclosporine capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

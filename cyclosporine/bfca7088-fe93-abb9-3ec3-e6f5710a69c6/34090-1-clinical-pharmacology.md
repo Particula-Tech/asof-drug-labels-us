@@ -1,18 +1,18 @@
 # CLINICAL PHARMACOLOGY
 
-Cyclosporine is a potent immunosuppressive agent which in animals prolongs survival of allogeneic transplants involving skin, heart, kidney, pancreas, bone marrow, small intestine, and lung.
-Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund's adjuvant arthritis, and graft vs. host disease in many animal species for a variety of organs.
+Cyclosporine capsules is a potent immunosuppressive agent which in animals prolongs survival of allogeneic transplants involving skin, heart, kidney, pancreas, bone marrow, small intestine, and lung.
+Cyclosporine capsules has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund's adjuvant arthritis, and graft vs. host disease in many animal species for a variety of organs.
 
-Successful kidney, liver, and heart allogeneic transplants have been performed in man using cyclosporine.
+Successful kidney, liver, and heart allogeneic transplants have been performed in man using cyclosporine capsules.
 
-The exact mechanism of action of cyclosporine is not known.
+The exact mechanism of action of cyclosporine capsules is not known.
 Experimental evidence suggests that the effectiveness of cyclosporine is due to specific and reversible inhibition of immunocompetent lymphocytes in the G0- or G1-phase of the cell cycle.
 T-lymphocytes are preferentially inhibited.
 The T-helper cell is the main target, although the T-suppressor cell may also be suppressed.
-Cyclosporine also inhibits lymphokine production and release including interleukin-2 or T-cell growth factor (TCGF).
+Cyclosporine capsules also inhibits lymphokine production and release including interleukin-2 or T-cell growth factor (TCGF).
 
 No functional effects on phagocytic (changes in enzyme secretions not altered, chemotactic migration of granulocytes, macrophage migration, carbon clearance in vivo) or tumor cells (growth rate, metastasis) can be detected in animals.
-Cyclosporine does not cause bone marrow suppression in animal models or man.
+Cyclosporine capsules does not cause bone marrow suppression in animal models or man.
 
 The absorption of cyclosporine from the gastrointestinal tract is incomplete and variable.
 Peak concentrations (Cmax) in blood and plasma are achieved at about 3.5 hours.

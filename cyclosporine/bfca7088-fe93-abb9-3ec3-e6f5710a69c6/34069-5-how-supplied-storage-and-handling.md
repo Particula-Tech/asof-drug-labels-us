@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Cyclosporine capsules, USP NON-MODIFIED
+Cyclosporine capsules, USP (NON-MODIFIED)
 
 25 mg
 
@@ -22,7 +22,7 @@ APOTEX INC. CYCLOSPORINE CAPSULES, USP 25 mg and 100 mg
 
 Manufactured by: Manufactured for: Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: July 2013 Rev.
-8
+Revised: April 2014 Rev.
+9
 
 *Neoral® (cyclosporine capsules, USP) MODIFIED manufactured by Novartis.
