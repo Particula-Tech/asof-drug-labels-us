@@ -1,0 +1,16 @@
+When Carbidopa is to be given to carbidopa-naive patients who are being treated with levodopa, the two drugs should be given at the same time, starting with no more than 20 to 25% of the previous daily dosage of levodopa when given without Carbidopa.
+At least twelve hours should elapse between the last dose of levodopa and initiation of therapy with Carbidopa and levodopa.
+See the WARNINGS and DOSAGE AND ADMINISTRATION sections before initiating therapy.
+
+Manufactured in Canada by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
+
+Distributed By: Oceanside Pharmaceuticals,
+
+a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+
+Rev.
+February 2014
+
+LB0100-00
+
+9036300

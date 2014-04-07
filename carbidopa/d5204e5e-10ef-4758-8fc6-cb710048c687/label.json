@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017830"
+  ],
+  "inn": "carbidopa",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-200-25"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbidopa tablets",
+      "name": "Carbidopa"
+    }
+  ],
+  "setid": "d5204e5e-10ef-4758-8fc6-cb710048c687",
+  "source": "dailymed"
+}
