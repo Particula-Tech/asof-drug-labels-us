@@ -1,10 +1,10 @@
 PRINCIPAL DISPLAY PANEL - 2.5 mg
 
-NDC 0378-2042-01
+NDC 0378-2042-93
 
 Bromocriptine Mesylate Tablets, USP 2.5 mg*
 
-Rx only 100 TABLETS
+Rx only 30 Tablets
 
 *Each tablet contains bromocriptine mesylate, USP equivalent to 2.5 mg bromocriptine.
 
@@ -23,17 +23,17 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM2042A2
+RM2042H3
 
 PRINCIPAL DISPLAY PANEL - 5 mg
 
-NDC 0378-7096-01
+NDC 0378-7096-93
 
 Bromocriptine Mesylate Capsules, USP 5 mg*
 
-Rx only 100 TABLETS
+Rx only 30 Tablets
 
 *Each capsule contains bromocriptine mesylate, USP equivalent to 5 mg bromocriptine.
 
@@ -52,6 +52,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM7096A1
+RM7096H2

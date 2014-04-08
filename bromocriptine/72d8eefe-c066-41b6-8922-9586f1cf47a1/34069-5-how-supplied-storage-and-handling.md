@@ -20,12 +20,12 @@ NDC 0378-7096-93 bottles of 30 capsules
 NDC 0378-7096-01 bottles of 100 capsules
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED AUGUST 2006 BROMTC:R3
+REVISED FEBRUARY 2014 BROMTC:R4

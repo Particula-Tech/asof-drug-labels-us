@@ -11,7 +11,7 @@ The initial dosage of bromocriptine mesylate tablets in adults is one-half to on
 An additional 2.5 mg tablet may be added to the treatment regimen as tolerated every 2 to 7 days until an optimal therapeutic response is achieved.
 The therapeutic dosage ranged from 2.5 to 15 mg daily in adults studied clinically.
 
-Based on limited data in children of age 11 to 15, (see Pediatric Use subsection) the initial dose is one-half to one 2.5 mg scored tablet daily.
+Based on limited data in children of age 11 to 15, (see Pediatric Use) the initial dose is one-half to one 2.5 mg scored tablet daily.
 Dosing may need to be increased as tolerated until a therapeutic response is achieved.
 The therapeutic dosage ranged from 2.5 to 10 mg daily in children with prolactin-secreting pituitary adenomas.
 
@@ -36,7 +36,7 @@ Patients treated with pituitary irradiation should be withdrawn from bromocripti
 Usually a 4 to 8 week withdrawal period is adequate for this purpose.
 Recurrence of the signs/symptoms or increases in growth hormone indicate the disease process is still active and further courses of bromocriptine should be considered.
 
-## Parkinson's Disease
+## Parkinson’s Disease
 
 The basic principle of bromocriptine mesylate therapy is to initiate treatment at a low dosage and, on an individual basis, increase the daily dosage slowly until a maximum therapeutic response is achieved.
 The dosage of levodopa during this introductory period should be maintained, if possible.
@@ -45,4 +45,4 @@ Assessments are advised at 2 week intervals during dosage titration to ensure th
 If necessary, the dosage may be increased every 14 to 28 days by 2.5 mg/day with meals.
 Should it be advisable to reduce the dosage of levodopa because of adverse reactions, the daily dosage of bromocriptine, if increased, should be accomplished gradually in small (2.5 mg) increments.
 
-The safety of bromocriptine mesylate tablets and capsules has not been demonstrated in dosages exceeding 100 mg/day.
+The safety of bromocriptine mesylate tablets and capsules has not been demonstrated in dosages exceeding 100 mg/day

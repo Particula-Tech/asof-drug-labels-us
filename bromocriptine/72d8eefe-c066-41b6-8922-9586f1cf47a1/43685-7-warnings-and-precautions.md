@@ -8,26 +8,42 @@ In most cases, the compression resolves following delivery.
 Reinitiation of bromocriptine treatment has been reported to produce improvement in the visual fields of patients in whom nerve compression has occurred during pregnancy.
 The safety of bromocriptine treatment during pregnancy to the mother and fetus has not been established.
 
+Bromocriptine has been associated with somnolence, and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
+Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported.
+Patients must be informed of this and advised not to drive or operate machines during treatment with bromocriptine.
+Patients who have experienced somnolence and/or an episode of sudden sleep onset must not drive or operate machines.
+Furthermore, a reduction of dosage or termination of therapy may be considered.
+
 Symptomatic hypotension can occur in patients treated with bromocriptine for any indication.
 In postpartum studies with bromocriptine, decreases in supine systolic and diastolic pressures of greater than 20 mm and 10 mm Hg, respectively, have been observed in almost 30% of patients receiving bromocriptine.
 On occasion, the drop in supine systolic pressure was as much as 50 to 59 mm of Hg.
-While hypotension during the start of therapy with bromocriptine occurs in some patients, in post-marketing experience in the U.S. in postpartum patients 89 cases of hypertension have been reported, sometimes at the initiation of therapy, but often developing in the second week of therapy; seizures have been reported in 72 cases (including 4 cases of status epilepticus), both with and without the prior development of hypertension; 30 cases of stroke have been reported mostly in postpartum patients whose prenatal and obstetric courses had been uncomplicated.
-Many of these patients experiencing seizures and/or strokes reported developing a constant and often progressively severe headache hours to days prior to the acute event.
-Some cases of strokes and seizures were also preceded by visual disturbances (blurred vision, and transient cortical blindness).
-Nine cases of acute myocardial infarction have been reported.
 
-Although a causal relationship between bromocriptine administration and hypertension, seizures, strokes, and myocardial infarction in postpartum women has not been established, use of the drug for prevention of physiological lactation, or in patients with uncontrolled hypertension is not recommended.
+Since, especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
+
+While hypotension during the start of therapy with bromocriptine occurs in some patients, in rare cases serious adverse events, including hypertension, myocardial infarction, seizures, stroke, have been reported in postpartum women treated with bromocriptine.
+Hypertension have been reported, sometimes at the initiation of therapy, but often developing in the second week of therapy; seizures have also been reported, both with and without the prior development of hypertension; stroke has been reported mostly in postpartum patients whose prenatal and obstetric courses had been uncomplicated.
+Many of these patients experiencing seizures (including cases of status epilepticus) and/or strokes reported developing a constant and often progressively severe headache hours to days prior to the acute event.
+Some cases of strokes and seizures were also preceded by visual disturbances (blurred vision, and transient cortical blindness).
+Cases of acute myocardial infarction have also been reported.
+
+Although a causal relationship between bromocriptine administration and hypertension, seizures, strokes, and myocardial infarction in postpartum women has not been established, use of the drug in patients with uncontrolled hypertension is not recommended.
 In patients being treated for hyperprolactinemia, bromocriptine should be withdrawn when pregnancy is diagnosed (see PRECAUTIONS: Hyperprolactinemic States).
-In the event that bromocriptine is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS: Hyperprolactinemic States) and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
-When bromocriptine is being used to treat acromegaly or Parkinson's disease in patients who subsequently become pregnant, a decision should be made as to whether the therapy continues to be medically necessary or can be withdrawn.
+In the event that bromocriptine is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS: Hyperprolactinemic States)and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
+When bromocriptine is being used to treat acromegaly or Parkinson’s disease in patients who subsequently become pregnant, a decision should be made as to whether the therapy continues to be medically necessary or can be withdrawn.
 If it is continued, the drug should be withdrawn in those who may experience hypertensive disorders of pregnancy (including eclampsia, preeclampsia, or pregnancy-induced hypertension) unless withdrawal of bromocriptine is considered to be medically contraindicated.
 Because of the possibility of an interaction between bromocriptine and other ergot alkaloids, the concomitant use of these medications is not recommended.
-Particular attention should be paid to patients who have recently received other drugs that can alter the blood pressure.
 Periodic monitoring of the blood pressure, particularly during the first weeks of therapy is prudent.
 If hypertension, severe, progressive, or unremitting headache (with or without visual disturbance), or evidence of CNS toxicity develops, drug therapy should be discontinued and the patient should be evaluated promptly.
+Particular attention should be paid to patients who have recently been treated or are on concomitant therapy with drugs that can alter blood pressure.
+Their concomitant use in the puerperium is not recommended.
 
-Long-term treatment (6 to 36 months) with bromocriptine mesylate tablets and capsules in doses ranging from 20 to 100 mg/day has been associated with pulmonary infiltrates, pleural effusion and thickening of the pleura in a few patients.
+Among patients on bromocriptine, particularly on long-term and high-dose treatment, pleural and pericardial effusions, as well as pleural and pulmonary fibrosis and constrictive pericarditis, have been reported.
+Patients with unexplained pleuropulmonary disorders should be examined thoroughly and discontinuation of bromocriptine therapy should be considered.
 In those instances in which bromocriptine treatment was terminated, the changes slowly reverted towards normal.
+
+In a few patients on bromocriptine, particularly on long-term and high-dose treatment, retroperitoneal fibrosis has been reported.
+To ensure recognition of retroperitoneal fibrosis at an early reversible stage it is recommended that its manifestations (e.g., back pain, edema of the lower limbs, impaired kidney function) should be watched in this category of patients.
+Bromocriptine medication should be withdrawn if fibrotic changes in the retroperitoneum are diagnosed or suspected.
 
 # PRECAUTIONS
 
@@ -37,14 +53,16 @@ Safety and efficacy of bromocriptine have not been established in patients with 
 Care should be exercised when administering bromocriptine therapy concomitantly with other medications known to lower blood pressure.
 
 The drug should be used with caution in patients with a history of psychosis or cardiovascular disease.
-If acromegalic patients or patients with prolactinoma or Parkinson's disease are being treated with bromocriptine during pregnancy, they should be cautiously observed, particularly during the postpartum period if they have a history of cardiovascular disease.
+If acromegalic patients or patients with prolactinoma or Parkinson’s disease are being treated with bromocriptine during pregnancy, they should be cautiously observed, particularly during the postpartum period if they have a history of cardiovascular disease.
+
+Patients with rare hereditary problems of galactose intolerance, severe lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 ## Hyperprolactinemic States
 
 Visual field impairment is a known complication of macroprolactinoma.
 Effective treatment with bromocriptine leads to a reduction in hyperprolactinemia and often to a resolution of the visual impairment.
 In some patients, however, a secondary deterioration of visual fields may subsequently develop despite normalized prolactin levels and tumor shrinkage, which may result from traction on the optic chiasm which is pulled down into the now partially empty sella.
-In these cases the visual field defect may improve on reduction of bromocriptine dosage while there is some elevation of prolactin and some tumor reexpansion.
+In these cases, the visual field defect may improve on reduction of bromocriptine dosage while there is some elevation of prolactin and some tumor reexpansion.
 Monitoring of visual fields in patients with macroprolactinoma is therefore recommended for an early recognition of secondary field loss due to chiasmal herniation and adaptation of drug dosage.
 
 The relative efficacy of bromocriptine versus surgery in preserving visual fields is not known.
@@ -57,18 +75,20 @@ Treatment with bromocriptine tablets or capsules should be discontinued as soon 
 Patients must be monitored closely throughout pregnancy for signs and symptoms that may signal the enlargement of a previously undetected or existing prolactin-secreting tumor.
 Discontinuation of bromocriptine treatment in patients with known macroadenomas has been associated with rapid regrowth of tumor and increase in serum prolactin in most cases.
 
+Cerebrospinal fluid rhinorrhea has been observed in some patients with prolactin-secreting adenomas treated with bromocriptine.
+
 ## Acromegaly
 
-Cold sensitive digital vasospasm has been observed in some acromegalic patients treated with bromocriptine.
+Cold-sensitive digital vasospasm has been observed in some acromegalic patients treated with bromocriptine.
 The response, should it occur, can be reversed by reducing the dose of bromocriptine and may be prevented by keeping the fingers warm.
 Cases of severe gastrointestinal bleeding from peptic ulcers have been reported, some fatal.
 Although there is no evidence that bromocriptine increases the incidence of peptic ulcers in acromegalic patients, symptoms suggestive of peptic ulcer should be investigated thoroughly and treated appropriately.
 Patients with a history of peptic ulcer or gastrointestinal bleeding should be observed carefully during treatment with bromocriptine.
 
 Possible tumor expansion while receiving bromocriptine therapy has been reported in a few patients.
-Since the natural history of growth hormone secreting tumors is unknown, all patients should be carefully monitored and, if evidence of tumor expansion develops, discontinuation of treatment and alternative procedures considered.
+Since the natural history of growth hormone-secreting tumors is unknown, all patients should be carefully monitored and, if evidence of tumor expansion develops, discontinuation of treatment and alternative procedures considered.
 
-## Parkinson's Disease
+## Parkinson’s Disease
 
 Safety during long-term use for more than 2 years at the doses required for parkinsonism has not been established.
 
@@ -82,37 +102,59 @@ Bromocriptine administered alone or concomitantly with levodopa may cause halluc
 Hallucinations usually resolve with dosage reduction; occasionally, discontinuation of bromocriptine is required.
 Rarely, after high doses, hallucinations have persisted for several weeks following discontinuation of bromocriptine.
 
+Post-marketing reports suggest that patients treated with anti-Parkinson medications can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, and other intense urges.
+Patients may be unable to control these urges while taking one or more of the medications that are generally used for the treatment of Parkinson’s disease and that increase central dopaminergic tone, including bromocriptine.
+In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.
+Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with bromocriptine.
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking bromocriptine.
+
 As with levodopa, caution should be exercised when administering bromocriptine to patients with a history of myocardial infarction who have a residual atrial, nodal, or ventricular arrhythmia.
 
 Retroperitoneal fibrosis has been reported in a few patients receiving long-term therapy (2 to 10 years) with bromocriptine mesylate in doses ranging from 30 to 140 mg daily.
 
+Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2-approximately 6-fold higher) of developing melanoma than the general population.
+Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using bromocriptine for any indication.
+Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
+
+Discontinuation of bromocriptine should be undertaken gradually whenever possible, even if the patient is to remain on L-dopa.
+A symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in antiparkinsonian therapy.
+
 ## Information for Patients
 
 During clinical trials, dizziness, drowsiness, faintness, fainting, and syncope have been reported early in the course of bromocriptine therapy.
-In post-marketing reports, bromocriptine has been associated with somnolence, and episodes of sudden sleep onset, particularly in patients with Parkinson's disease.
+In post-marketing reports, bromocriptine has been associated with somnolence, and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
 Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported very rarely.
 All patients receiving bromocriptine should be cautioned with regard to engaging in activities requiring rapid and precise responses, such as driving an automobile or operating machinery.
+Patients being treated with bromocriptine and presenting with somnolence and/or sudden sleep episodes must be advised not to drive or engage in activities where impaired alertness may put themselves or others at risk of serious injury or death (e.g., operating machines).
 
 Patients receiving bromocriptine for hyperprolactinemic states associated with macroadenoma or those who have had previous transsphenoidal surgery, should be told to report any persistent watery nasal discharge to their physician.
 Patients receiving bromocriptine for treatment of a macroadenoma should be told that discontinuation of drug may be associated with rapid regrowth of the tumor and recurrence of their original symptoms.
+
+Patients and their caregivers should be alerted to the possibility that they may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges and other intense urges and the inability to control these urges while taking bromocriptine (see Precautions).
+
+Especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
 
 ## Drug Interactions
 
 The risk of using bromocriptine in combination with other drugs has not been systematically evaluated, but alcohol may potentiate the side effects of bromocriptine.
 Bromocriptine may interact with dopamine antagonists, butyrophenones, and certain other agents.
 Compounds in these categories result in a decreased efficacy of bromocriptine: phenothiazines, haloperidol, metoclopramide, pimozide.
-Concomitant use of bromocriptine with other ergot alkaloids is not recommended.
+Bromocriptine is a substrate of CYP3A4.
+Caution should therefore be used when co-administering drugs which are strong inhibitors of this enzyme (such as azole antimycotics, HIV protease inhibitors).
+The concomitant use of macrolide antibiotics such as erythromycin was shown to increase the plasma levels of bromocriptine (mean AUC and Cmax values increased 3.7-fold and 4.6-fold, respectively).1 The concomitant treatment of acromegalic patients with bromocriptine and octreotide led to increased plasma levels of bromocriptine (bromocriptine AUC increased about 38%).4 Concomitant use of bromocriptine with other ergot alkaloids is not recommended.
+Dose adjustment may be necessary in those cases where high doses of bromocriptine are being used (such as Parkinson’s disease indication).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 A 74 week study was conducted in mice using dietary levels of bromocriptine mesylate equivalent to oral doses of 10 and 50 mg/kg/day.
 A 100 week study in rats was conducted using dietary levels equivalent to oral doses of 1.7, 9.8, and 44 mg/kg/day.
 The highest doses tested in mice and rats were approximately 2.5 and 4.4 times, respectively, the maximum human dose administered in controlled clinical trials (100 mg/day) based on body surface area.
-Malignant uterine tumors, endometrial and myometrial, were found in rats as follows: 0/50 control females, 2/50 females given 1.7 mg/kg daily, 7/49 females given 9.8 mg/kg daily, and 9/50 females given 44 mg/kg daily.
+Malignant uterine tumors, endometrial and myometrial were found in rats as follows: 0/50 control females, 2/50 females given 1.7 mg/kg daily, 7/49 females given 9.8 mg/kg daily, and 9/50 females given 44 mg/kg daily.
 The occurrence of these neoplasms is probably attributable to the high estrogen/progesterone ratio which occurs in rats as a result of the prolactin-inhibiting action of bromocriptine mesylate.
 The endocrine mechanisms believed to be involved in the rats are not present in humans.
 There is no known correlation between uterine malignancies occurring in bromocriptine-treated rats and human risk.
-In contrast to the findings in rats, the uteri from mice killed after 74 weeks treatment did not exhibit evidence of drug-related changes.
+In contrast to the findings in rats, the uteri from mice killed after 74 weeks of treatment did not exhibit evidence of drug-related changes.
 
 Bromocriptine mesylate was evaluated for mutagenic potential in the battery of tests that included Ames bacterial mutation assay, mutagenic activity in vitro on V79 Chinese hamster fibroblasts, cytogenetic analysis of Chinese hamster bone marrow cells following in vivo treatment, and an in vivo micronucleus test for mutagenic potential in mice.
 
@@ -124,7 +166,7 @@ Increased perinatal loss was produced in the subgroups of dams, sacrificed on da
 
 ## Pregnancy
 
-### Category B
+### Teratogenic Effects. Category B
 
 Administration of 10 to 30 mg/kg of bromocriptine to 2 strains of rats on days 6 to 15 post coitum (p.c.) as well as a single-dose of 10 mg/kg on day 5 p.c. interfered with nidation.
 Three mg/kg given on days 6 to 15 were without effect on nidation, and did not produce any anomalies.
@@ -135,7 +177,7 @@ No fetotoxic effects were found in offspring of dams treated during the perinata
 Two studies were conducted in rabbits (2 strains) to determine the potential to interfere with nidation.
 Dose levels of 100 or 300 mg/kg/day from day 1 to day 6 p.c. did not adversely affect nidation.
 The high dose was approximately 63 times the maximum human dose administered in controlled clinical trials (100 mg/day), based on body surface area.
-In New Zealand white rabbits some embryo mortality occurred at 300 mg/kg which was a reflection of overt maternal toxicity.
+In New Zealand white rabbits, some embryo mortality occurred at 300 mg/kg which was a reflection of overt maternal toxicity.
 Three studies were conducted in 2 strains of rabbits to determine the teratological potential of bromocriptine at dose levels of 3, 10, 30, 100, and 300 mg/kg given from day 6 to day 18 p.c.
 In 2 studies with the Yellow-silver strain, cleft palate was found in 3 and 2 fetuses at maternally toxic doses of 100 and 300 mg/kg, respectively.
 One control fetus also exhibited this anomaly.
@@ -179,4 +221,4 @@ Safety and effectiveness of bromocriptine in pediatric patients have not been es
 Clinical studies for bromocriptine did not include sufficient numbers of subjects aged 65 and over to determine whether the elderly respond differently from younger subjects.
 However, other reported clinical experiences, including post-marketing reporting of adverse events, have not identified differences in response or tolerability between elderly and younger patients.
 Even though no variation in efficacy or adverse reaction profile in geriatric patients taking bromocriptine has been observed, greater sensitivity of some elderly individuals cannot be categorically ruled out.
-In general, dose selection for an elderly patient should be cautious, starting at the lower end of the dose range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy in this population.
+In general, dose selection for an elderly patient should be cautious, starting at the lower end of the dose range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy in this population
