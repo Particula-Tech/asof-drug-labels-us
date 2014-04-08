@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090859"
+  ],
+  "inn": "fenofibrate",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-349-01",
+    "55111-349-30",
+    "55111-395-01",
+    "55111-395-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fenofibrate",
+      "name": "Fenofibrate"
+    }
+  ],
+  "setid": "16ea8ce4-8c1c-4111-509e-86aa688d89a0",
+  "source": "dailymed"
+}
