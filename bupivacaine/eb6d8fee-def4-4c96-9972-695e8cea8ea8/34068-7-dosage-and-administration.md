@@ -8,7 +8,7 @@ The rapid injection of a large volume of local anesthetic solution should be avo
 For specific techniques and procedures, refer to standard textbooks.
 
 There have been adverse event reports of chondrolysis in patients receiving intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures.
-Sensorcaine is not approved for this use (see WARNINGS and DOSAGE AND ADMINISTRATION).).
+Sensorcaine is not approved for this use (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 In recommended doses, Sensorcaine (bupivacaine HCl) produces complete sensory block, but the effect on motor function differs among the three concentrations.
 

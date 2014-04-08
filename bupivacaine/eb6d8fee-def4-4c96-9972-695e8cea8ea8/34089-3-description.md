@@ -6,7 +6,7 @@ Solutions of bupivacaine HCl may be autoclaved if they do not contain epinephrin
 
 Sensorcaine injections contain bupivacaine HCl which is chemically designated as 2-piperidinecarboxamide, 1-butyl-N-(2, 6-dimethylphenyl)-, monohydrochloride, monohydrate and has the following structure:
 
-Epinephrine is (-)-3, 4-Dihydroxy-α [(methylamino)methyl] benzyl alcohol.
+Epinephrine is (-)-3,4-Dihydroxy-α [(methylamino)methyl] benzyl alcohol.
 It has the following structural formula:
 
 The pKa of bupivacaine (8.1) is similar to that of lidocaine (7.86).
