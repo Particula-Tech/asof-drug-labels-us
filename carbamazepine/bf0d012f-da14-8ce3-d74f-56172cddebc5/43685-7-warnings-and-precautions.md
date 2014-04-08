@@ -35,7 +35,7 @@ Consideration should be given to avoiding use of other drugs associated with SJS
 
 ## Hypersensitivity Reactions and HLA-A*3101 Allele
 
-Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-­ A*3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine.
+Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-A*3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine.
 These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see DRESS/Multiorgan hypersensitivity below).
 
 HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu) and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
@@ -49,12 +49,12 @@ The role of other possible factors in the development of, and morbidity from, SJ
 ## Aplastic Anemia and Agranulocytosis
 
 Aplastic anemia and agranulocytosis have been reported in association with the use of carbamazepine.
-[see Boxed Warning.]
+[see Boxed Warning].
 Patients with a history of adverse hematologic reaction to any drug may be particularly at risk of bone marrow depression.
 
 ## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity
 
-Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan hypersensitivity, have occurred with carbamazepine.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan hypersensitivity, has occurred with carbamazepine.
 Some of these events have been fatal or life-threatening.
 DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
@@ -122,7 +122,7 @@ As with all antiepileptic drugs, carbamazepine should be withdrawn gradually to 
 Carbamazepine can cause fetal harm when administered to a pregnant woman.
 
 Epidemiological data suggest that there may be an association between the use of carbamazepine during pregnancy and congenital malformations, including spina bifida.
-There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g., craniofacial defects, cardiovascular malformations, hypospadias and anomalies involving various body systems).
+There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g., craniofacial defects, cardiovascular malformations, hypospadias, and anomalies involving various body systems).
 Developmental delays based on neurobehavioral assessments have been reported.
 In treating or counseling women of childbearing potential, the prescribing physician will wish to weigh the benefits of therapy against the risks.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -159,11 +159,15 @@ Carbamazepine should be used with caution in patients with a mixed seizure disor
 
 Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of cardiac conduction disturbance, including second and third degree AV heart block; cardiac, hepatic, or renal damage; adverse hematologic or hypersensitivity reaction to other drugs, including reactions to other anticonvulsants; or interrupted courses of therapy with carbamazepine.
 
-AV heart block, including second and third degree block, have been reported following, carbamazepine treatment.
+AV heart block, including second and third degree block, have been reported following carbamazepine treatment.
 This occurred generally, but not solely, in patients with underlying EKG abnormalities or risk factors for conduction disturbances.
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
 In some cases, hepatic effects may progress despite discontinuation of the drug.
+In addition, rare instances of vanishing bile duct syndrome have been reported.
+This syndrome consists of a cholestatic process with a variable clinical course ranging from fulminant to indolent, involving the destruction and disappearance of the intrahepatic bile ducts.
+Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions.
+As an example there has been a report of vanishing bile duct syndrome associated with Stevens-Johnson syndrome and in another case an association with fever and eosinophilia.
 
 Since a given dose of carbamazepine suspension will produce higher peak levels than the same dose given as the tablet, it is recommended that patients given the suspension be started on lower doses and increased slowly to avoid unwanted side effects (see DOSAGE AND ADMINISTRATION).
 
@@ -238,16 +242,16 @@ Drugs that have been shown, or would be expected, to increase plasma carbamazepi
 
 Aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, nefazodone, trazodone, loxapine*, olanzapine, quetiapine*, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, protease inhibitors, valproate*.
 
-*increased levels of the active carbamazepine-10,11-epoxide
-
-†decreased levels of carbamazepine and increased levels of the 10,11-epoxide
-
 ### Agents That Decrease Carbamazepine Levels
 
 CYP 3A4 inducers can increase the rate of carbamazepine metabolism.
 Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include:
 
 cisplatin, doxorubicin HCl, felbamate†, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline.
+
+*increased levels of the active carbamazepine-10,11-epoxide
+
+†decreased levels of carbamazepine and increased levels of the 10,11-epoxide
 
 ## Effect of Carbamazepine on Plasma Levels of Concomitant Agents
 
@@ -256,7 +260,7 @@ cisplatin, doxorubicin HCl, felbamate†, fosphenytoin, rifampin, phenobarbital,
 Carbamazepine is a potent inducer of hepatic CYP 3A4 and may therefore reduce plasma concentrations of comedications mainly metabolized by CYP3A4 through induction of their metabolism.
 Carbamazepine causes, or would be expected to cause, decreased levels of the following:
 
-acetaminophen, albendazole, alprazolam, aprepitant, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g., prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
+acetaminophen, albendazole, alprazolam, aprepitant, buprenorphone, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g., prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, mianserin, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, sertaline, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
 
 In concomitant use with carbamazepine, monitoring of concentrations or dosage adjustment of the above agents may be necessary.
 

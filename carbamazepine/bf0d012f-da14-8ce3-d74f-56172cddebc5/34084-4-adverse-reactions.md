@@ -15,7 +15,7 @@ Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thromboc
 
 Skin
 
-Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, and onychomadesis.
+Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis and onychomadesis.
 In certain cases, discontinuation of therapy may be necessary.
 Isolated cases of hirsutism have been reported, but a causal relationship is not clear.
 
