@@ -211,24 +211,24 @@ Since cross reactivity, including bronchospasm, between aspirin and other NSAIDs
 Patients should be informed of the following information before initiating therapy with TREXIMET and periodically during the course of ongoing therapy.
 Patients should also be encouraged to read the Medication Guide that accompanies each prescription dispensed.
 
-1. 1.TREXIMET may cause serious cardiovascular side effects such as myocardial infarction or stroke, which may result in hospitalization and even death.
-   Although serious cardiovascular events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS: Cardiovascular Effects).
-2. 2.TREXIMET, like other NSAID-containing products, may cause gastrointestinal discomfort and, rarely, serious gastrointestinal side effects such as ulcers and bleeding, which may result in hospitalization and even death.
-   Although serious gastrointestinal tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding and should ask for medical advice when observing any indicative sign or symptoms, including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS: Risk of Gastrointestinal Ulceration, Bleeding, and Perforation With Nonsteroidal Anti-inflammatory Drug Therapy).
-3. 3.TREXIMET, like other NSAID-containing products, may increase the risk of serious skin side effects such as exfoliative dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis, which may result in hospitalizations and even death.
-   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching and should ask for medical advice when observing any indicative signs or symptoms.
-   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
-4. 4.Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
-5. 5.Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, flu-like symptoms).
-   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
-6. 6.Patients should be informed of the signs of an anaphylactic/anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS: Anaphylactic/Anaphylactoid Reactions).
-7. 7.TREXIMET should not be used in late pregnancy because NSAID-containing products have been shown to cause premature closure of the ductus arteriosus.
-   TREXIMET should not be used during early pregnancy unless the potential benefit justifies the potential risk to the fetus.
-8. 8.Patients should be cautioned about the risk of serotonin syndrome, particularly during concomitant use with SSRIs or SNRIs.
-9. 9.Caution should be exercised by patients whose activities require alertness if they experience drowsiness, dizziness, vertigo, or depression during therapy with TREXIMET.
+- 1.TREXIMET may cause serious cardiovascular side effects such as myocardial infarction or stroke, which may result in hospitalization and even death.
+  Although serious cardiovascular events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
+  Patients should be apprised of the importance of this follow-up (see WARNINGS: Cardiovascular Effects).
+- 2.TREXIMET, like other NSAID-containing products, may cause gastrointestinal discomfort and, rarely, serious gastrointestinal side effects such as ulcers and bleeding, which may result in hospitalization and even death.
+  Although serious gastrointestinal tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding and should ask for medical advice when observing any indicative sign or symptoms, including epigastric pain, dyspepsia, melena, and hematemesis.
+  Patients should be apprised of the importance of this follow-up (see WARNINGS: Risk of Gastrointestinal Ulceration, Bleeding, and Perforation With Nonsteroidal Anti-inflammatory Drug Therapy).
+- 3.TREXIMET, like other NSAID-containing products, may increase the risk of serious skin side effects such as exfoliative dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis, which may result in hospitalizations and even death.
+  Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching and should ask for medical advice when observing any indicative signs or symptoms.
+  Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
+- 4.Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
+- 5.Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, flu-like symptoms).
+  If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
+- 6.Patients should be informed of the signs of an anaphylactic/anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
+  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS: Anaphylactic/Anaphylactoid Reactions).
+- 7.TREXIMET should not be used in late pregnancy because NSAID-containing products have been shown to cause premature closure of the ductus arteriosus.
+  TREXIMET should not be used during early pregnancy unless the potential benefit justifies the potential risk to the fetus.
+- 8.Patients should be cautioned about the risk of serotonin syndrome, particularly during concomitant use with SSRIs or SNRIs.
+- 9.Caution should be exercised by patients whose activities require alertness if they experience drowsiness, dizziness, vertigo, or depression during therapy with TREXIMET.
 
 ## Laboratory Tests
 
