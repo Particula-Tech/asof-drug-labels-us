@@ -37,18 +37,20 @@ Hydrochlorothiazide: Thiazide diuretics have been reported to cause exacerbation
 
 ## 5.6 Lithium Interaction
 
-Hydrochlorothiazide: Lithium generally should not be given with thiazides [see Drug Interactions (7)].
+Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of valsartan or thiazide diuretics.
+Monitor lithium levels in patients receiving Diovan HCT and lithium.
+[see Drug Interactions (7)].
 
 ## 5.7 Potassium Abnormalities
 
-Valsartan – Hydrochlorothiazide: In the controlled trials of various doses of Diovan HCT the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.5 mEq/L) was 3.0%; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4%.
+Valsartan–Hydrochlorothiazide: In the controlled trials of various doses of Diovan HCT the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.5 mEq/L) was 3.0%; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4%.
 
 Hydrochlorothiazide can cause hypokalemia and hyponatremia.
 Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion.
 Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
 Monitor serum electrolytes periodically.
 
-If hypokalemia is accompanied by clinical signs (e.g. muscular weakness, paresis, or ECG alterations), Diovan HCT should be discontinued.
+If hypokalemia is accompanied by clinical signs (e.g., muscular weakness, paresis, or ECG alterations), Diovan HCT should be discontinued.
 Correction of hypokalemia and any coexisting hypomagnesemia is recommended prior to the initiation of thiazides.
 
 Some patients with heart failure have developed increases in potassium with Diovan therapy.

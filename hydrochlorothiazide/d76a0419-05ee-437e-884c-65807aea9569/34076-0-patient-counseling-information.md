@@ -13,4 +13,4 @@ All patients should be cautioned that inadequate fluid intake, excessive perspir
 
 Potassium Supplements: A patient receiving Diovan HCT should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
 
-T2012-186 October 2012
+T2014-30 March 2014

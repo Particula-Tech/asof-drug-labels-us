@@ -52,7 +52,7 @@ Vascular: Hypotension
 
 Other reported reactions seen less frequently in clinical trials included abnormal vision, anaphylaxis, bronchospasm, constipation, depression, dehydration, decreased libido, dysuria, epistaxis, flushing, gout, increased appetite, muscle weakness, pharyngitis, pruritus, sunburn, syncope, and viral infection.
 
-Initial Therapy - Hypertension
+Initial Therapy-Hypertension
 
 In a clinical study in patients with severe hypertension (diastolic blood pressure ≥110 mmHg and systolic blood pressure ≥140 mmHg), the overall pattern of adverse reactions reported through 6 weeks of follow-up was similar in patients treated with Diovan HCT as initial therapy and in patients treated with valsartan as initial therapy.
 Comparing the groups treated with Diovan HCT (force-titrated to 320/25 mg) and valsartan (force-titrated to 320 mg), dizziness was observed in 6% and 2% of patients, respectively.
@@ -114,7 +114,7 @@ Renal: Impaired renal function
 
 Clinical Laboratory Tests: Hyperkalemia
 
-Dermatologic: Alopecia
+Dermatologic: Alopecia, bullous dermatitis
 
 Vascular: Vasculitis
 

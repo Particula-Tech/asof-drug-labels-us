@@ -18,7 +18,7 @@ There was essentially no change in heart rate in patients treated with the combi
 
 There are no trials of the Diovan HCT combination tablet demonstrating reductions in cardiovascular risk in patients with hypertension, but the hydrochlorothiazide component and several ARBs, which are the same pharmacological class as the valsartan component, have demonstrated such benefits.
 
-Valsartan: The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115.
+Valsartan: The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65 years) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115 mmHg.
 The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.
 
 Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic and diastolic blood pressure, usually with little or no orthostatic change.
@@ -36,7 +36,7 @@ The explanation for this difference from previous findings is unclear.
 Abrupt withdrawal of valsartan has not been associated with a rapid increase in blood pressure.
 
 The 7 studies of valsartan monotherapy included over 2000 patients randomized to various doses of valsartan and about 800 patients randomized to placebo.
-Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6-9/3-5 mmHg at 80-160 mg and 9/6 mmHg at 320 mg.
+Doses below 80 mg were not consistently distinguished from those of placebo at trough, but doses of 80, 160 and 320 mg produced dose-related decreases in systolic and diastolic blood pressure, with the difference from placebo of approximately 6-9/3-5 mmHg at 80 to 160 mg and 9/6 mmHg at 320 mg.
 
 Patients with an inadequate response to 80 mg once daily were titrated to either 160 mg once daily or 80 mg twice daily, which resulted in a comparable response in both groups.
 

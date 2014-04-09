@@ -51,8 +51,8 @@ No overall difference in the efficacy or safety of valsartan-hydrochlorothiazide
 
 ## 8.6 Renal Impairment
 
-Safety and effectiveness of Diovan HCT in patients with severe renal impairment (CrCl ≤ 30 mL/min) have not been established.
-No dose adjustment is required in patients with mild (CrCl 60-90 mL/min) or moderate (CrCl 30-60) renal impairment.
+Safety and effectiveness of Diovan HCT in patients with severe renal impairment (CrCl ≤30 mL/min) have not been established.
+No dose adjustment is required in patients with mild (CrCl 60 to 90 mL/min) or moderate (CrCl 30 to 60 mL/min) renal impairment.
 
 ## 8.7 Hepatic Impairment
 

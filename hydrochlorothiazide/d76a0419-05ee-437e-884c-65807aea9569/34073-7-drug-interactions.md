@@ -1,11 +1,16 @@
 # 7 DRUG INTERACTIONS
 
+Valsartan-Hydrochlorothiazide:
+
+Lithium: Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists or thiazides.
+Monitor lithium levels in patients taking Diovan HCT.
+
 Valsartan: No clinically significant pharmacokinetic interactions were observed when valsartan was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
 The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
 
 Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
 
-CYP 450 Interactions: In vitro metabolism studies indicate that CYP 450 mediated drug interactions between valsartan and co-administered drugs are unlikely because of the low extent of metabolism [see Clinical Pharmacology (12.3)].
+CYP 450 Interactions: In vitro metabolism studies indicate that CYP 450 mediated drug interactions between valsartan and coadministered drugs are unlikely because of the low extent of metabolism [see Clinical Pharmacology (12.3)].
 
 Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2.
 Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.
@@ -16,8 +21,8 @@ Monitor renal function periodically in patients receiving valsartan and NSAID th
 
 The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
-Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium sparing diuretics (e.g. spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
-If co-medication is considered necessary, monitoring of serum potassium is advisable.
+Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
+If comedication is considered necessary, monitoring of serum potassium is advisable.
 
 Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Closely monitor blood pressure, renal function, and electrolytes in patients on Diovan HCT and other agents that affect the RAS.
@@ -29,14 +34,10 @@ Hydrochlorothiazide: When administered concurrently, the following drugs may int
 
 Antidiabetic Drugs (oral agents and insulin) - Dosage adjustment of the antidiabetic drug may be required.
 
-Lithium - Diuretic agents increase the risk of lithium toxicity.
-Refer to the package insert for lithium preparations before use of such preparations with Diovan HCT.
-Monitoring of serum lithium concentrations is recommended during concurrent use.
-
 Nonsteroidal Anti-inflammatory Drugs (NSAIDs and COX-2 selective inhibitors) - When Diovan HCT and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 Carbamazepine – May lead to symptomatic hyponatremia.
 
-Ion exchange resins: Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins would potentially minimize the interaction [see Clinical Pharmacology (12.3)].
+Ion exchange resins: Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4 to 6 hours after the administration of resins would potentially minimize the interaction [see Clinical Pharmacology (12.3)].
 
 Cyclosporine: Concomitant treatment with cyclosporine may increase the risk of hyperuricemia and gout-type complications.

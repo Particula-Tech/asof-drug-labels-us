@@ -51,7 +51,7 @@ Digitalis glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predisp
 
 Valsartan: Valsartan peak plasma concentration is reached 2 to 4 hours after dosing.
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
-Absolute bioavailability for the capsule formulation is about 25% (range 10%-35%).
+Absolute bioavailability for the capsule formulation is about 25% (range 10% to 35%).
 Food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
 AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range.
 Valsartan does not accumulate appreciably in plasma following repeated administration.
@@ -60,7 +60,7 @@ Hydrochlorothiazide: The estimated absolute bioavailability of hydrochlorothiazi
 Peak plasma hydrochlorothiazide concentrations (Cmax) are reached within 2 to 5 hours after oral administration.
 There is no clinically significant effect of food on the bioavailability of hydrochlorothiazide.
 
-Hydrochlorothiazide binds to albumin (40 to 70%) and distributes into erythrocytes.
+Hydrochlorothiazide binds to albumin (40% to 70%) and distributes into erythrocytes.
 Following oral administration, plasma hydrochlorothiazide concentrations decline bi-exponentially, with a mean distribution half-life of about 2 hours and an elimination half-life of about 10 hours.
 
 Diovan HCT: Diovan HCT may be administered with or without food.
@@ -101,7 +101,7 @@ Renal Insufficiency: There is no apparent correlation between renal function (me
 Valsartan has not been studied in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
 
-In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30 < CrCl < 90 mL/min) and tripled in severe renal impairment (≤ 30 mL/min), compared to individuals with normal renal function (CrCl > 90 mL/min) [see Use in Specific Populations (8.6)].
+In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30< CrCl <90 mL/min) and tripled in severe renal impairment (CrCl ≤30 mL/min), compared to individuals with normal renal function (CrCl >90 mL/min) [see Use in Specific Populations (8.6)].
 
 Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight) [see Use in Specific Populations (8.7)].
 
