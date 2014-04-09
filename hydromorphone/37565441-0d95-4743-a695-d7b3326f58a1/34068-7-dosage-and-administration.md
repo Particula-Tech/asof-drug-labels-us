@@ -46,7 +46,7 @@ Dose titration should be guided more by the need for analgesia than the absolute
 
 OPIOID ANALGESIC EQUIVALENTS WITH APPROXIMATELY EQUIANALGESIC POTENCY*
 
-| Nonproprietary (Trade) Name | IM or SC Dose | ORAL Dose |
+| Nonproprietary(Trade) Name | IM or SCDose | ORALDose |
 | --- | --- | --- |
 | Morphine sulfate | 10 mg | 40 to 60 mg |
 | Hydromorphone HCl (DILAUDID) | 1.3 to 2 mg | 6.5 to 7.5 mg |

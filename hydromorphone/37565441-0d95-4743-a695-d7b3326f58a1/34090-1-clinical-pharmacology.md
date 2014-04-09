@@ -48,7 +48,7 @@ Bioequivalence between the Hydromorphone Hydrochloride 8 mg tablet and an equiva
 
 After oral administration of 8 mg Hydromorphone Hydrochloride Oral Solution or tablets, peak plasma hydromorphone concentrations are generally attained within ½ to 1-hour.
 
-| Dosage Form | C max (ng) | T max (hrs) | AUC (ng*hr/mL) | T ½ (hrs) |
+| Dosage Form | C max(ng) | T max(hrs) | AUC(ng*hr/mL) | T ½(hrs) |
 | --- | --- | --- | --- | --- |
 | Mean (%cv) |  |  |  |  |
 | 8 mg Tablet | 5.5 (33%) | 0.74 (34%) | 23.7 (28%) | 2.6 (18%) |
