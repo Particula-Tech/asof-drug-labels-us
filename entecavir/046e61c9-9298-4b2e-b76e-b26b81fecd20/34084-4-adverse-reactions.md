@@ -5,7 +5,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 - •Exacerbations of hepatitis after discontinuation of treatment [see Boxed Warning, Warnings and Precautions (5.1)].
 - •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trial Experience in Adults
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -19,13 +19,13 @@ The most common adverse reactions of any severity (≥3%) with at least a possib
 The most common adverse reactions among lamivudine-treated subjects were headache, fatigue, and dizziness.
 One percent of BARACLUDE-treated subjects in these four studies compared with 4% of lamivudine-treated subjects discontinued for adverse events or abnormal laboratory test results.
 
-Clinical adverse reactions of moderate-severe intensity and considered at least possibly related to treatment occurring during therapy in four clinical studies in which BARACLUDE was compared with lamivudine are presented in Table 2.
+Clinical adverse reactions of moderate-severe intensity and considered at least possibly related to treatment occurring during therapy in four clinical studies in which BARACLUDE was compared with lamivudine are presented in Table 3.
 
-Table 2: Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2–4) Reported in Four Entecavir Clinical Trials Through 2 Years
+Table 3: Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2–4) Reported in Four Entecavir Clinical Trials Through 2 Years
 
 | Body System/ Adverse Reaction | BARACLUDE 0.5 mg n=679 | Lamivudine 100 mg n=668 | BARACLUDE 1 mg n=183 | Lamivudine 100 mg n=190 |
 | --- | --- | --- | --- | --- |
-|  | Nucleoside-Naïveb |  | Lamivudine-Refractoryc |  |
+|  | Nucleoside-Inhibitor-Naïveb |  | Lamivudine-Refractoryc |  |
 | Any Grade 2–4 adverse reactiona | 15% | 18% | 22% | 23% |
 | Gastrointestinal |  |  |  |  |
 | Diarrhea | <1% | 0 | 1% | 0 |
@@ -44,20 +44,20 @@ Table 2: Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2–4)
 
 #### Laboratory Abnormalities
 
-Frequencies of selected treatment-emergent laboratory abnormalities reported during therapy in four clinical trials of BARACLUDE compared with lamivudine are listed in Table 3.
+Frequencies of selected treatment-emergent laboratory abnormalities reported during therapy in four clinical trials of BARACLUDE compared with lamivudine are listed in Table 4.
 
-Table 3: Selected Treatment-Emergenta Laboratory Abnormalities Reported in Four Entecavir Clinical Trials Through 2 Years
+Table 4: Selected Treatment-Emergenta Laboratory Abnormalities Reported in Four Entecavir Clinical Trials Through 2 Years
 
 | Test | BARACLUDE 0.5 mg n=679 | Lamivudine 100 mg n=668 | BARACLUDE 1 mg n=183 | Lamivudine 100 mg n=190 |
 | --- | --- | --- | --- | --- |
-|  | Nucleoside-Naïveb |  | Lamivudine-Refractoryc |  |
+|  | Nucleoside-Inhibitor-Naïveb |  | Lamivudine-Refractoryc |  |
 | Any Grade 3–4 laboratory abnormalityd | 35% | 36% | 37% | 45% |
 | ALT >10 × ULN and >2 × baseline | 2% | 4% | 2% | 11% |
-| ALT >5.0 × ULN | 11% | 16% | 12% | 24% |
+| ALT >5 × ULN | 11% | 16% | 12% | 24% |
 | Albumin <2.5 g/dL | <1% | <1% | 0 | 2% |
 | Total bilirubin >2.5 × ULN | 2% | 2% | 3% | 2% |
 | Lipase ≥2.1 × ULN | 7% | 6% | 7% | 7% |
-| Creatinine >3.0 × ULN | 0 | 0 | 0 | 0 |
+| Creatinine >3 × ULN | 0 | 0 | 0 | 0 |
 | Confirmed creatinine increase ≥0.5 mg/dL | 1% | 1% | 2% | 1% |
 | Hyperglycemia, fasting >250 mg/dL | 2% | 1% | 3% | 1% |
 | Glycosuriae | 4% | 3% | 4% | 6% |
@@ -72,17 +72,17 @@ Periodic monitoring of hepatic function is recommended during treatment.
 #### Exacerbations of Hepatitis after Discontinuation of Treatment
 
 An exacerbation of hepatitis or ALT flare was defined as ALT greater than 10 times ULN and greater than 2 times the subject’s reference level (minimum of the baseline or last measurement at end of dosing).
-For all subjects who discontinued treatment (regardless of reason), Table 4 presents the proportion of subjects in each study who experienced post-treatment ALT flares.
+For all subjects who discontinued treatment (regardless of reason), Table 5 presents the proportion of subjects in each study who experienced post-treatment ALT flares.
 In these studies, a subset of subjects was allowed to discontinue treatment at or after 52 weeks if they achieved a protocol-defined response to therapy.
 If BARACLUDE is discontinued without regard to treatment response, the rate of post-treatment flares could be higher.
-[See also Warnings and Precautions (5.1).]
+[See Warnings and Precautions (5.1).]
 
-Table 4: Exacerbations of Hepatitis During Off-Treatment Follow-up, Subjects in Studies AI463022, AI463027, and AI463026
+Table 5: Exacerbations of Hepatitis During Off-Treatment Follow-up, Subjects in Studies AI463022, AI463027, and AI463026
 
 |  | BARACLUDE | Lamivudine |
 | --- | --- | --- |
 |  | Subjects with ALT Elevations >10 × ULN and >2 × Referencea |  |
-| Nucleoside-naïve |  |  |
+| Nucleoside-inhibitor-naïve |  |  |
 | HBeAg-positive | 4/174 (2%) | 13/147 (9%) |
 | HBeAg-negative | 24/302 (8%) | 30/270 (11%) |
 | Lamivudine-refractory | 6/52 (12%) | 0/16 |
@@ -92,7 +92,7 @@ Table 4: Exacerbations of Hepatitis During Off-Treatment Follow-up, Subjects in 
 
 Study AI463048 was a randomized, open-label study of BARACLUDE 1 mg once daily versus adefovir dipivoxil 10 mg once daily given for up to 48 weeks in adult subjects with chronic HBV infection and evidence of hepatic decompensation, defined as a Child-Turcotte-Pugh (CTP) score of 7 or higher [see Clinical Studies (14.1)].
 Among the 102 subjects receiving BARACLUDE, the most common treatment-emergent adverse events of any severity, regardless of causality, occurring through Week 48 were peripheral edema (16%), ascites (15%), pyrexia (14%), hepatic encephalopathy (10%), and upper respiratory infection (10%).
-Clinical adverse reactions not listed in Table 2 that were observed through Week 48 include blood bicarbonate decreased (2%) and renal failure (<1%).
+Clinical adverse reactions not listed in Table 3 that were observed through Week 48 include blood bicarbonate decreased (2%) and renal failure (<1%).
 
 Eighteen of 102 (18%) subjects treated with BARACLUDE and 18/89 (20%) subjects treated with adefovir dipivoxil died during the first 48 weeks of therapy.
 The majority of deaths (11 in the BARACLUDE group and 16 in the adefovir dipivoxil group) were due to liver-related causes such as hepatic failure, hepatic encephalopathy, hepatorenal syndrome, and upper gastrointestinal hemorrhage.
@@ -110,7 +110,16 @@ The safety profile of BARACLUDE 1 mg (n=51) in HIV/HBV co-infected subjects enro
 
 Among 65 subjects receiving BARACLUDE in an open-label, post-liver transplant trial [see Use in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with those expected in patients who have received a liver transplant and the known safety profile of BARACLUDE.
 
-## 6.2 Postmarketing Experience
+## 6.2 Clinical Trial Experience in Pediatric Subjects
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The safety of BARACLUDE in pediatric subjects 2 to less than 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
+These trials provide experience in 168 HBeAg-positive subjects treated with BARACLUDE for a median duration of 72 weeks.
+The adverse reactions observed in pediatric subjects who received treatment with BARACLUDE were consistent with those observed in clinical trials of BARACLUDE in adults.
+Adverse drug reactions reported in greater than 1% of pediatric subjects included abdominal pain, rash events, poor palatability (“product taste abnormal”), nausea, diarrhea, and vomiting.
+
+## 6.3 Postmarketing Experience
 
 The following adverse reactions have been reported during postmarketing use of BARACLUDE.
 Because these reactions were reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to BARACLUDE exposure.

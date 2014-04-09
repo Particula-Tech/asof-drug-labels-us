@@ -6,4 +6,4 @@ See HOW SUPPLIED section for a complete list of available packages of BARACLUDE.
 
 30 Tablets NDC 0003-1612-12 Rx only Baraclude® (entecavir) Tablets 1 mg Bristol-Myers Squibb
 
-210 mL NDC 0003-1614-12 Rx only Baraclude® (entecavir) Oral Solution 0.05 mg/mL Bristol-Myers Squibb
+210 mL NDC 0003-1614-12 Baraclude® (entecavir) Oral Solution 0.05 mg/mL Store Bottle in Carton to Protect from Light Bristol-Myers Squibb Rx only

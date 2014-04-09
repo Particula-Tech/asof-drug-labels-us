@@ -5,12 +5,14 @@
 ### Pregnancy Category C
 
 There are no adequate and well-controlled studies of BARACLUDE in pregnant women.
-When pregnant rats and rabbits received entecavir at 28 and 212 times the human exposure at the highest human dose, there were no signs of embryofetal toxicity.
-Because animal reproduction studies are not always predictive of human response, BARACLUDE should be used during pregnancy only if clearly needed and after careful consideration of the risks and benefits.
+Because animal reproduction studies are not always predictive of human response, BARACLUDE should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to entecavir, a pregnancy registry has been established.
+Antiretroviral Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to BARACLUDE, an Antiretroviral Pregnancy Registry has been established.
 Healthcare providers are encouraged to register patients by calling 1-800-258-4263.
 
+### Animal Data
+
+Animal reproduction studies with entecavir in rats and rabbits revealed no evidence of teratogenicity.
 Developmental toxicity studies were performed in rats and rabbits.
 There were no signs of embryofetal or maternal toxicity when pregnant animals received oral entecavir at approximately 28 (rat) and 212 (rabbit) times the human exposure achieved at the highest recommended human dose of 1 mg/day.
 In rats, maternal toxicity, embryofetal toxicity (resorptions), lower fetal body weights, tail and vertebral malformations, reduced ossification (vertebrae, sternebrae, and phalanges), and extra lumbar vertebrae and ribs were observed at exposures 3100 times those in humans.
@@ -29,18 +31,26 @@ Because many drugs are excreted into human milk and because of the potential for
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of entecavir in pediatric patients below the age of 16 years have not been established.
+BARACLUDE was evaluated in two clinical trials of pediatric subjects 2 years of age and older with HBeAg-positive chronic HBV infection and compensated liver disease.
+The exposure of BARACLUDE in nucleoside-inhibitor-treatment-naïve and lamivudine-experienced pediatric subjects 2 years of age and older with HBeAg-positive chronic HBV infection and compensated liver disease receiving 0.015 mg/kg (up to 0.5 mg once daily) or 0.03 mg/kg (up to 1 mg once daily), respectively, was evaluated in Study AI463028.
+Safety and efficacy of the selected dose in treatment-naïve pediatric subjects were confirmed in Study AI463189, a randomized, placebo-controlled treatment trial [see Indications and Usage (1), Dosage and Administration (2.3), Adverse Reactions (6.2), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+
+There are limited data available on the use of BARACLUDE in lamivudine-experienced pediatric patients; BARACLUDE should be used in these patients only if the potential benefit justifies the potential risk to the child.
+Since some pediatric patients may require long-term or even lifetime management of chronic active hepatitis B, consideration should be given to the impact of BARACLUDE on future treatment options [see Microbiology (12.4)].
+
+The efficacy and safety of BARACLUDE have not been established in patients less than 2 years of age.
+Use of BARACLUDE in this age group has not been evaluated because treatment of HBV in this age group is rarely required.
 
 ## 8.5 Geriatric Use
 
 Clinical studies of BARACLUDE did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
 Entecavir is substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.2)].
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.4)].
 
 ## 8.6 Racial/Ethnic Groups
 
 There are no significant racial differences in entecavir pharmacokinetics.
-The safety and efficacy of BARACLUDE 0.5 mg once daily were assessed in a single-arm, open-label trial of HBeAg-positive or -negative, nucleoside-naïve, Black/African American (n=40) and Hispanic (n=6) subjects with chronic HBV infection.
+The safety and efficacy of BARACLUDE 0.5 mg once daily were assessed in a single-arm, open-label trial of HBeAg-positive or -negative, nucleoside-inhibitor-naïve, Black/African American (n=40) and Hispanic (n=6) subjects with chronic HBV infection.
 In this trial, 76% of subjects were male, the mean age was 42 years, 57% were HBeAg-positive, the mean baseline HBV DNA was 7.0 log10 IU/mL, and the mean baseline ALT was 162 U/L.
 At Week 48 of treatment, 32 of 46 (70%) subjects had HBV DNA <50 IU/mL (approximately 300 copies/mL), 31 of 46 (67%) subjects had ALT normalization (≤1 × ULN), and 12 of 26 (46%) HBeAg-positive subjects had HBe seroconversion.
 Safety data were similar to those observed in the larger controlled clinical trials.
@@ -49,7 +59,7 @@ Because of low enrollment, safety and efficacy have not been established in the 
 
 ## 8.7 Renal Impairment
 
-Dosage adjustment of BARACLUDE is recommended for patients with creatinine clearance less than 50 mL/min, including patients on hemodialysis or CAPD [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Dosage adjustment of BARACLUDE is recommended for patients with creatinine clearance less than 50 mL/min, including patients on hemodialysis or CAPD [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Liver Transplant Recipients
 
@@ -66,4 +76,4 @@ No subjects had HBV DNA values ≥50 IU/mL while receiving BARACLUDE (plus hepat
 All 61 evaluable subjects lost HBsAg post-transplant; 2 of these subjects experienced recurrence of measurable HBsAg without recurrence of HBV viremia.
 This trial was not designed to determine whether addition of BARACLUDE to hepatitis B immune globulin decreased the proportion of subjects with measurable HBV DNA post-transplant compared to hepatitis B immune globulin alone.
 
-If BARACLUDE treatment is determined to be necessary for a liver transplant recipient who has received or is receiving an immunosuppressant that may affect renal function, such as cyclosporine or tacrolimus, renal function must be carefully monitored both before and during treatment with BARACLUDE [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+If BARACLUDE treatment is determined to be necessary for a liver transplant recipient who has received or is receiving an immunosuppressant that may affect renal function, such as cyclosporine or tacrolimus, renal function must be carefully monitored both before and during treatment with BARACLUDE [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

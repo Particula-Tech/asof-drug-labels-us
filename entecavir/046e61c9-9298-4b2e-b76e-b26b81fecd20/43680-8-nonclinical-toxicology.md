@@ -2,6 +2,8 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
+### Carcinogenesis
+
 Long-term oral carcinogenicity studies of entecavir in mice and rats were carried out at exposures up to approximately 42 times (mice) and 35 times (rats) those observed in humans at the highest recommended dose of 1 mg/day.
 In mouse and rat studies, entecavir was positive for carcinogenic findings.
 
@@ -17,9 +19,14 @@ Skin fibromas were induced in females at exposures 4 times those in humans.
 
 It is not known how predictive the results of rodent carcinogenicity studies may be for humans.
 
+### Mutagenesis
+
 Entecavir was clastogenic to human lymphocyte cultures.
 Entecavir was not mutagenic in the Ames bacterial reverse mutation assay using S. typhimurium and E. coli strains in the presence or absence of metabolic activation, a mammalian-cell gene mutation assay, and a transformation assay with Syrian hamster embryo cells.
 Entecavir was also negative in an oral micronucleus study and an oral DNA repair study in rats.
+
+### Impairment of Fertility
+
 In reproductive toxicology studies, in which animals were administered entecavir at up to 30 mg/kg for up to 4 weeks, no evidence of impaired fertility was seen in male or female rats at systemic exposures greater than 90 times those achieved in humans at the highest recommended dose of 1 mg/day.
 In rodent and dog toxicology studies, seminiferous tubular degeneration was observed at exposures 35 times or greater than those achieved in humans.
 No testicular changes were evident in monkeys.

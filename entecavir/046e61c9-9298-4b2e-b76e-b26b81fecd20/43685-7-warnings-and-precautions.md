@@ -16,10 +16,10 @@ BARACLUDE has not been studied as a treatment for HIV infection and is not recom
 
 ## 5.3 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including BARACLUDE, alone or in combination with antiretrovirals.
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogue inhibitors, including BARACLUDE, alone or in combination with antiretrovirals.
 A majority of these cases have been in women.
-Obesity and prolonged nucleoside exposure may be risk factors.
-Particular caution should be exercised when administering nucleoside analogues to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
+Obesity and prolonged nucleoside inhibitor exposure may be risk factors.
+Particular caution should be exercised when administering nucleoside analogue inhibitors to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
 
 Lactic acidosis with BARACLUDE use has been reported, often in association with hepatic decompensation, other serious medical conditions, or drug exposures.
 Patients with decompensated liver disease may be at higher risk for lactic acidosis.
