@@ -13,7 +13,7 @@ Hepatic dysfunction, including hepatitis and cholestatic jaundice has been assoc
 Hepatic toxicity is usually reversible; however, deaths have been reported.
 Hepatic function should be monitored at regular intervals in patients with hepatic impairment.
 
-## 5.3 Clostridium difficile Associated Diarrhea (CDAD)
+## 5.3 Clostridium difficileAssociated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including amoxicillin and clavulanate potassium, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.

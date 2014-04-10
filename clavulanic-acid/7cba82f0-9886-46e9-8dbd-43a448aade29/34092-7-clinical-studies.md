@@ -30,7 +30,7 @@ One US/Canadian clinical trial was conducted which compared 45/6.4 mg/kg/day (di
 Only the suspension formulations were used in this trial.
 A total of 575 pediatric patients (aged 2 months to 12 years) were enrolled, with an even distribution among the 2 treatment groups and a comparable number of patients were evaluable (i.e., ≥ 84%) per treatment group.
 Otitis media-specific criteria were required for eligibility and a strong correlation was found at the end of therapy and follow-up between these criteria and physician assessment of clinical response.
-The clinical efficacy rates at the end of therapy visit (defined as 2-4 days after the completion of therapy) and at the follow-up visit (defined as 22-28 days post-completion of therapy) were comparable for the 2 treatment groups, with the following cure rates obtained for the evaluable patients: At end of therapy, 87% (n = 265) and 82% (n = 260) for 45 mg/kg/day every 12 hours and 40 mg/kg/day every 8 hours, respectively.
+The clinical efficacy rates at the end of therapy visit (defined as 2 to 4 days after the completion of therapy) and at the follow-up visit (defined as 22 to 28 days post-completion of therapy) were comparable for the 2 treatment groups, with the following cure rates obtained for the evaluable patients: At end of therapy, 87% (n = 265) and 82% (n = 260) for 45 mg/kg/day every 12 hours and 40 mg/kg/day every 8 hours, respectively.
 At follow-up, 67% (n = 249) and 69% (n = 243) for 45 mg/kg/day every 12 hours and 40 mg/kg/day every 8 hours, respectively.
 
 Diarrhea was defined as either: (a) 3 or more watery or 4 or more loose/watery stools in 1 day; OR (b) 2 watery stools per day or 3 loose/watery stools per day for 2 consecutive days.
