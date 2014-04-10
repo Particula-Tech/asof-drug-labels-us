@@ -3,12 +3,11 @@
 SPECIAL WARNING ON INCREASED RISK OF CARDIOVASCULAR MORTALITY:
 
 The administration of oral hypoglycemic drugs has been reported to be associated with increased cardiovascular mortality as compared to treatment with diet alone or diet plus insulin.
-This warning is based on the study conducted by the University Group Diabetics Program (UGDP), a long-term prospective clinical trial designed to evaluate the effectiveness of glucose-lowering drugs in preventing or delaying vascular complications in patients with non-insulin-dependent diabetes.
-The study involved 823 patients who were randomly assigned to one of four treatment groups.
-(Diabetes, 19, supp.
-2:747-830, 1970).
+This warning is based on the study conducted by the University Group Diabetes Program (UGDP), a long-term prospective clinical trial designed to evaluate the effectiveness of glucose-lowering drugs in preventing or delaying vascular complications in patients with non-insulin-dependent diabetes.
+The study involved 823 patients who were randomly assigned to one of four treatment groups (Diabetes, 19, supp.
+2: 747-830, 1970).
 
-UGDP reported that patients treated for 5 to 8 years with diet plus a fixed dose of tolbutamide (1.5 grams per day) had a rate of cardiovascular mortality approximately 2 ½ times that of patients treated with diet alone.
+UGDP reported that patients treated for 5 to 8 years with diet plus a fixed dose of tolbutamide (1.5 grams per day) had a rate of cardiovascular mortality approximately 2 1/2 times that of patients treated with diet alone.
 A significant increase in total mortality was not observed, but the use of tolbutamide was discontinued based on the increase in cardiovascular mortality, thus limiting the opportunity for the study to show an increase in overall mortality.
 Despite controversy regarding the interpretation of these results, the findings of the UGDP study provide an adequate basis for this warning.
 The patient should be informed of the potential risks and advantages of glipizide and of alternative modes of therapy.
@@ -82,6 +81,10 @@ Whether this interaction also occurs with the intravenous, topical, or vaginal p
 The effect of concomitant administration of fluconazole and glipizide has been demonstrated in a placebo-controlled crossover study in normal volunteers.
 All subjects received glipizide alone and following treatment with 100 mg of fluconazole as a single daily oral dose for 7 days.
 The mean percentage increase in the glipizide AUC after fluconazole administration was 56.9% (range: 35 to 81).
+
+In studies assessing the effect of colesevelam on the pharmacokinetics of glipizide ER in healthy volunteers, reductions in glipizide AUC0-∞ and Cmax of 12% and 13%, respectively were observed when colesevelam was coadministered with glipizide ER.
+When glipizide ER was administered 4 hours prior to colesevelam, there was no significant change in glipizide AUC0-∞ or Cmax, -4% and 0%, respectively.
+Therefore, glipizide should be administered at least 4 hours prior to colesevelam to ensure that colesevelam does not reduce the absorption of glipizide.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 

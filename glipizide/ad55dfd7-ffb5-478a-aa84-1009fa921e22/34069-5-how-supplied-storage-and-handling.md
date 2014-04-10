@@ -10,6 +10,8 @@ Store below 30°C (86°F).
 
 Dispense in a tight container as defined in the USP.
 
-Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA Distributed By: Watson Pharma, Inc. Corona, CA 92880 USA
+Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Revised: January 2013
+Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+
+Revised: February 2014

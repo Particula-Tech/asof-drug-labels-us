@@ -19,7 +19,7 @@ Alternatively, glipizide may be effective in some patients who have not responde
 
 It has been shown that glipizide therapy was effective in controlling blood sugar without deleterious changes in the plasma lipoprotein profiles of patients treated for NIDDM.
 
-In a placebo-controlled, crossover study in normal volunteers, glipizide had no antidiuretic activity, and, in fact, led to a slight increase in free water clearance.
+In a placebo-controlled, crossover study in normal volunteers, glipizide had no antidiuretic activity and, in fact, led to a slight increase in free water clearance.
 
 ## Pharmacokinetics:
 
