@@ -1,7 +1,9 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-EstroGel is an estrogen indicated in the
+## 1.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
 
-1. Treatment of moderate to severe vasomotor symptoms due to menopause.
-2. Treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause.
-   When prescribing solely for the treatment of symptoms of vulvar and vaginal atrophy, topical vaginal products should be considered.
+## 1.2 Treatment of Moderate to Severe Symptoms of Vulvar and Vaginal Atrophy due to Menopause
+
+Limitation of Use
+
+When prescribing solely for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause, topical vaginal products should be considered.
