@@ -1,11 +1,35 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-EstroGel 1.25 g is the single approved dose for the treatment of moderate to severe vasomotor symptoms and for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause.
-The lowest effective dose of EstroGel for these indications has not been determined.
+Generally, when estrogen is prescribed for a postmenopausal woman with a uterus, a progestin should also be considered to reduce the risk of endometrial cancer.
+A woman without a uterus does not need progestin.
+In some cases, however, hysterectomized women with a history of endometriosis may need a progestin [see Warnings and Precautions (5.2, 5.14)].
+
+Use of estrogen-alone or in combination with a progestin, should be with the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
+Postmenopausal women should be reevaluated periodically as clinically appropriate to determine if treatment is still necessary.
+
+## 2.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
+
+EstroGel 0.06% 1.25 g per day is the single approved dose for the treatment of moderate to severe vasomotor symptoms due to menopause.
+The lowest effective dose of EstroGel 0.06% for this indication has not been determined.
+
+Before using the canister for the first time, it must be primed.
+Remove the large canister cover, and fully depress the pump 3 times.
+Discard the unused gel by thoroughly rinsing down the sink or placing it in the household trash.
+After priming, the pump is ready to use.
+
+The recommended area of application is the arm.
+Apply a thin layer over the entire arm on the inside and outside from wrist to shoulder.
+
+## 2.2 Treatment of Moderate to Severe Symptoms of Vulvar and Vaginal Atrophy due to Menopause
+
+EstroGel 0.06% 1.25 g per day is the single approved dose for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause.
+The lowest effective dose of EstroGel 0.06% for this indication has not been determined.
 When prescribing solely for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy, topical vaginal products should be considered.
 
-When estrogen is prescribed for a postmenopausal woman with a uterus, generally, a progestin should also be initiated to reduce the risk of endometrial cancer.
-A woman without a uterus does not need progestin.
-Use of estrogen, alone or in combination with a progestin, should be with the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
-Patients should be reevaluated periodically as clinically appropriate (for example at 3-month to 6-month intervals) to determine if treatment is still necessary (see BOXED WARNINGS and WARNINGS).
-For women who have a uterus, adequate diagnostic measures, such as endometrial sampling, when indicated, should be undertaken to rule out malignancy in cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
+Before using the canister for the first time, it must be primed.
+Remove the large canister cover, and fully depress the pump 3 times.
+Discard the unused gel by thoroughly rinsing down the sink or placing it in the household trash.
+After priming, the pump is ready to use.
+
+The recommended area of application is the arm.
+Apply a thin layer over the entire arm on the inside and outside from wrist to shoulder.
