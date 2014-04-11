@@ -178,86 +178,81 @@ Drug Interactions: Pharmacokinetic Parameters of Azithromycin in the Presence of
 
 Mechanism of Action
 
-Azithromycin acts by binding to the 50S ribosomal subunit of susceptible microorganisms, thus interfering with microbial protein synthesis.
+Azithromycin acts by binding to the 50S ribosomal subunit of susceptible microorganisms and interferes with bacterial protein synthesis.
 Nucleic acid synthesis is not affected.
 
-Spectrum of Activity
+Cross Resistance
 
-Azithromycin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+Azithromycin demonstrates cross-resistance with erythromycin-resistant Gram-positive isolates.
 
-Aerobic and facultative Gram-positive microorganisms Streptococcus pneumoniae
+Azithromycin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in [see Indications and Usage (1)].
 
-NOTE: Erythromycin- and penicillin-resistant Gram-positive isolates may demonstrate cross-resistance to azithromycin.
+Gram-Positive Bacteria
 
-Aerobic and facultative Gram-negative microorganisms Haemophilus influenzae Moraxella catarrhalis
+Streptococcus pneumoniae
 
-Beta-lactamase production should not affect azithromycin activity.
+Gram-Negative Bacteria
 
-"Other" microorganisms Chlamydophila pneumoniae Mycoplasma pneumoniae
+Haemophilus influenzae
 
-The following in vitro data are available, but their clinical significance is unknown.
+Moraxella catarrhalis
 
-At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the azithromycin susceptible breakpoints of <4 µg/mL.
-However, the safety and effectiveness of azithromycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled trials.
+"Other" Bacteria
 
-Aerobic and facultative Gram-positive microorganisms Staphylococcus aureus Streptococcus agalactiae Streptococcus pyogenes Streptococci (Groups C, F, G) Viridans group streptococci
+Chlamydia pneumoniae
 
-Aerobic and facultative Gram-negative microorganisms Bordetella pertussis Legionella pneumophila
+Mycoplasma pneumoniae
 
-Anaerobic microorganisms Peptostreptococcus species Prevotella bivia
+Susceptibility Testing Methods
 
-"Other" microorganisms Ureaplasma urealyticum
+When available, clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-Susceptibility Testing Methods:
+Dilution Techniques
 
-When available, the clinical microbiology laboratory should provide cumulative results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting the most effective antimicrobial.
-
-Dilution techniques:
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+Quantitative methods are used to determine minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method1,3 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of azithromycin powder.
-The MIC values should be interpreted according to criteria provided in Table 7.
+The MICs should be determined using a standardized test method 1,3,4 (broth and/or agar).
+The MIC values should be interpreted according to criteria provided in Table 1.
 
-Diffusion techniques:
+Diffusion Techniques
 
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 15-µg azithromycin to test the susceptibility of microorganisms to azithromycin.
+Quantitative methods that require measurement of zone diameters can provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+The zone size should be determined using standardized methods 2,3,4.
+This procedure uses paper disk impregnated with 15 mcg azithromycin to test the susceptibility of bacteria to azithromycin.
 The disk diffusion interpretive criteria are provided in Table 7.
 
-Table 7.
-Susceptibility Test Result Interpretive Criteria for Azithromycin
+Table 7: Susceptibility Interpretive Criteria for Azithromycin
 
-| Pathogen | S | I | RThe current absence of data on resistant strains precludes defining any category other than "susceptible." If strains yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. | S | I | R |
+|  | S | I | R | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Minimum Inhibitory Concentrations (µg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
-| Haemophilus influenzae | ≤ 4 | -- | -- | ≥ 12 | -- | -- |
-| Streptococcus pneumoniae | ≤ 0.5 | 1 | ≥ 2 | ≥ 18 | 14–17 | ≤ 13 |
+| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
+| Haemophilus influenzaeInsufficient information is available to determine Intermediate or Resistant interpretive criteria | ≤4 | - | - | ≥12 | - | - |
+| Streptococcus pneumoniae | ≤0.5 | 1 | ≥2 | ≥18 | 14–17 | ≤13 |
+| Moraxella catarrhalis | ≤0.25 | - | - | ≥26 | - | - |
 
-No interpretive criteria have been established for testing Moraxella catarrhalis.
-This species is not usually tested.
+A report of "Susceptible" indicates that the pathogen is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
+A report of "Intermediate" indicates that the result should be considered equivocal, and if the microorganism is not fully susceptible to alternative clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of "Resistant" indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-A report of "susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound reaches the concentrations usually achievable.
-A report of "intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone, which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound reaches the concentrations usually achievable; other therapy should be selected.
+Quality Control
 
-Quality Control:
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test 1,2,3,4.
+Standard azithromycin powder should provide the following range of MIC values provided in Table 8.
+For the diffusion technique using the 15-mcg azithromycin disk the criteria provided in Table 8 should be achieved.
 
-Standardized susceptibility test procedures require the use of quality control microorganisms to determine if the test was performed correctly.
-Standard azithromycin powder should provide the range of values noted in Table 8.
-Quality control (QC) microorganisms are specific strains of organisms with intrinsic biological properties.
-QC strains are very stable strains, which will give a standard and repeatable susceptibility pattern.
-The specific strains used for microbiological quality control are not clinically significant.
+Table 8: Acceptable Quality Control Ranges for Susceptibility Testing
 
-Table 8.
-Acceptable Quality Control Ranges for Azithromycin
-
-| QC Strain | Minimum Inhibitory Concentrations (µg/mL) | Disk Diffusion (zone diameters in mm) |
+| Quality Control Organism | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (zone diameters in mm) |
 | --- | --- | --- |
-| Haemophilus influenzae ATCC 49247 | 1.0–4.0 | 13–21 |
+| Staphylococcus aureus ATCC 25923 | Not Applicable | 21–26 |
+| Staphylococcus aureus ATCC 29213 | 0.5–2 | Not Applicable |
+| Haemophilus Influenzae ATCC 49247 | 1.0–4.0 | 13–21 |
 | Streptococcus pneumoniae ATCC 49619 | 0.06–0.25 | 19–25 |
+| ATCC = American Type Culture Collection |  |  |
+
+The ability to correlate MIC values and plasma drug levels is difficult as azithromycin concentrates in macrophages and tissues.
+[See Clinical Pharmacology (12)]
