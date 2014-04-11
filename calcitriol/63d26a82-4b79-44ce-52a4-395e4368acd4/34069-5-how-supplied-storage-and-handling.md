@@ -17,12 +17,12 @@ Lake Forest, IL 60045 USA
 
 For:
 
-Abbott Laboratories
+AbbVie Inc.
 
 North Chicago, IL 60064 USA
 
-©Abbott 2012
+© AbbVie Inc. 2013
 
 Printed in USA
 
-Revised: 03/2012
+Revised: 05/2013
