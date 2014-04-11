@@ -13,12 +13,12 @@ The following have been observed with BENLYSTA and are discussed in detail in th
 
 ## 6.1 Clinical Trials Experience
 
-The data described below reflect exposure to BENLYSTA plus standard of care compared with placebo plus standard of care in 2,133 patients in 3 controlled studies.
+The data described below reflect exposure to BENLYSTA plus standard of care compared with placebo plus standard of care in 2,133 patients in 3 controlled trials.
 Patients received BENLYSTA at doses of 1 mg/kg (N = 673), 4 mg/kg (N = 111; Trial 1 only), or 10 mg/kg (N = 674) or placebo (N = 675) intravenously over a 1-hour period on Days 0, 14, 28, and then every 28 days.
-In 2 of the studies (Trial 1 and Trial 3), treatment was given for 48 weeks, while in the other study (Trial 2) treatment was given for 72 weeks [see Clinical Studies (14)].
+In 2 of the trials (Trial 1 and Trial 3), treatment was given for 48 weeks, while in the other trial (Trial 2) treatment was given for 72 weeks [see Clinical Studies (14)].
 Because there was no apparent dose-related increase in the majority of adverse events observed with BENLYSTA, the safety data summarized below are presented for the 3 doses pooled, unless otherwise indicated; the adverse reaction table displays the results for the recommended dose of 10 mg/kg compared with placebo.
 
-The population had a mean age of 39 (range 18–75), 94% were female, and 52% were Caucasian.
+The population had a mean age of 39 (range: 18 to 75), 94% were female, and 52% were Caucasian.
 In these trials, 93% of patients treated with BENLYSTA reported an adverse reaction compared with 92% treated with placebo.
 
 The most common serious adverse reactions were serious infections (6.0% and 5.2% in the groups receiving BENLYSTA and placebo, respectively) [see Warnings and Precautions (5.2)].

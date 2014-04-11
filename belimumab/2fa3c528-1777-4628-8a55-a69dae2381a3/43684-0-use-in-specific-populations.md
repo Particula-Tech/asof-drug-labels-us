@@ -10,7 +10,7 @@ Women of childbearing potential should use adequate contraception during treatme
 Nonclinical reproductive studies have been performed in pregnant cynomolgus monkeys receiving belimumab at doses of 0, 5, and 150 mg/kg by intravenous infusion (the high dose was approximately 9 times the anticipated maximum human exposure) every 2 weeks from gestation day 20 to 150.
 Belimumab was shown to cross the placenta.
 Belimumab was not associated with direct or indirect teratogenicity under the conditions tested.
-Fetal deaths were observed in 14%, 24% and 15% of pregnant females in the 0, 5 and 150 mg/kg groups, respectively.
+Fetal deaths were observed in 14%, 24%, and 15% of pregnant females in the 0, 5 and 150 mg/kg groups, respectively.
 Infant deaths occurred with an incidence of 0%, 8%, and 5%.
 The cause of fetal and infant deaths is not known.
 The relevance of these findings to humans is not known.

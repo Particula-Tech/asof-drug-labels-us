@@ -32,6 +32,8 @@ Population Pharmacokinetic Parameters in Patients With SLE After Intravenous Inf
 | Systemic clearance (CL, mL/day) | 215 |
 | Volume of distribution (Vss, L) | 5.29 |
 
+a Intravenous infusions were administered at 2‑ week intervals for the first 3 doses and at 4‑ week intervals thereafter.
+
 Drug Interactions: No formal drug interaction studies have been conducted with BENLYSTA.
 Concomitant use of mycophenolate, azathioprine, methotrexate, antimalarials, NSAIDs, aspirin, and HMG-CoA reductase inhibitors did not significantly influence belimumab pharmacokinetics.
 Coadministration of steroids and angiotensin-converting enzyme (ACE) inhibitors resulted in an increase of systemic clearance of belimumab that was not clinically significant because the magnitude was well within the range of normal variability of clearance.
@@ -39,19 +41,19 @@ The effect of belimumab on the pharmacokinetics of other drugs has not been eval
 
 Special Populations: The following information is based on the population pharmacokinetic analysis.
 
-Age: Age did not significantly influence belimumab pharmacokinetics in the study population, where the majority of subjects (70%) were between 18 and 45 years of age.
+Age: Age did not significantly influence belimumab pharmacokinetics in the trial population, where the majority of subjects (70%) were aged between 18 and 45 years.
 No pharmacokinetic data are available in pediatric patients.
-Limited pharmacokinetic data are available for elderly patients as only 1.4% of the subjects included in the pharmacokinetic analysis were 65 years of age or older [see Use in Specific Populations (8.5)].
+Limited pharmacokinetic data are available for elderly patients as only 1.4% of the subjects included in the pharmacokinetic analysis were aged 65 years or older [see Use in Specific Populations (8.5)].
 
-Gender: Gender did not significantly influence belimumab pharmacokinetics in the largely (94%) female study population.
+Gender: Gender did not significantly influence belimumab pharmacokinetics in the largely (94%) female trial population.
 
 Race: Race did not significantly influence belimumab pharmacokinetics.
 The racial distribution was 53% white/Caucasian, 16% Asian, 16% Alaska native/American Indian, and 14% black/African-American.
 
-Renal Impairment: No formal studies were conducted to examine the effects of renal impairment on the pharmacokinetics of belimumab.
+Renal Impairment: No formal trials were conducted to examine the effects of renal impairment on the pharmacokinetics of belimumab.
 BENLYSTA has been studied in a limited number of patients with SLE and renal impairment (261 subjects with moderate renal impairment, creatinine clearance ≥30 and <60 mL/min; 14 subjects with severe renal impairment, creatinine clearance ≥15 and <30 mL/min).
 Although increases in creatinine clearance and proteinuria (>2 g/day) increased belimumab clearance, these effects were within the expected range of variability.
 Therefore, dosage adjustment in patients with renal impairment is not recommended.
 
-Hepatic Impairment: No formal studies were conducted to examine the effects of hepatic impairment on the pharmacokinetics of belimumab.
+Hepatic Impairment: No formal trials were conducted to examine the effects of hepatic impairment on the pharmacokinetics of belimumab.
 Baseline ALT and AST levels did not significantly influence belimumab pharmacokinetics.

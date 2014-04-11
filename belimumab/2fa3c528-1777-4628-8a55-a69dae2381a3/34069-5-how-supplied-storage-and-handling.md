@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-BENLYSTA is a sterile, preservative-free lyophilized powder for reconstitution, dilution, and intravenous infusion provided in single-use glass vials with a rubber stopper (not made with natural rubber latex) and a flip-off seal.
+BENLYSTA is a sterile, preservative-free, lyophilized powder for reconstitution, dilution, and intravenous infusion provided in single-use glass vials with a rubber stopper (not made with natural rubber latex) and a flip-off seal.
 Each 5-mL vial contains 120 mg of belimumab.
 Each 20-mL vial contains 400 mg of belimumab.
 

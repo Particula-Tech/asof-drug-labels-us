@@ -5,7 +5,7 @@
 There were more deaths reported with BENLYSTA than with placebo during the controlled period of the clinical trials.
 Out of 2,133 patients in 3 clinical trials, a total of 14 deaths occurred during the placebo-controlled, double-blind treatment periods: 3/675 (0.4%), 5/673 (0.7%), 0/111 (0%), and 6/674 (0.9%) deaths in the groups receiving placebo, BENLYSTA 1 mg/kg, BENLYSTA 4 mg/kg, and BENLYSTA 10 mg/kg, respectively.
 No single cause of death predominated.
-Etiologies included infection, cardiovascular disease and suicide.
+Etiologies included infection, cardiovascular disease, and suicide.
 
 ## 5.2 Serious Infections
 
@@ -21,6 +21,11 @@ The most frequent serious infections included pneumonia, urinary tract infection
 Infections leading to discontinuation of treatment occurred in 0.7% of patients receiving BENLYSTA and 1.0% of patients receiving placebo.
 Infections resulting in death occurred in 0.3% (4/1,458) of patients treated with BENLYSTA and in 0.1% (1/675) of patients receiving placebo.
 
+Progressive Multifocal Leukoencephalopathy (PML): Cases of JC virus-associated PML resulting in neurological deficits, including fatal cases, have been reported in patients with SLE receiving immunosuppressants, including BENLYSTA.
+Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
+Consider the diagnosis of PML in any patient presenting with new-onset or deteriorating neurological signs and symptoms and consult with a neurologist or other appropriate specialist as clinically indicated.
+In patients with confirmed PML, consider stopping immunosuppressant therapy, including BENLYSTA.
+
 ## 5.3 Malignancy
 
 The impact of treatment with BENLYSTA on the development of malignancies is not known.
@@ -31,7 +36,7 @@ The mechanism of action of BENLYSTA could increase the risk for the development 
 ## 5.4 Hypersensitivity Reactions, Including Anaphylaxis
 
 Acute hypersensitivity reactions, including anaphylaxis and death, have been reported in association with BENLYSTA.
-These events generally occurred within hours of the infusion; however they may occur later.
+These events generally occurred within hours of the infusion; however, they may occur later.
 Non-acute hypersensitivity reactions including rash, nausea, fatigue, myalgia, headache, and facial edema, have been reported and typically occurred up to a week following the most recent infusion.
 Hypersensitivity, including serious reactions, has occurred in patients who have previously tolerated infusions of BENLYSTA.
 Limited data suggest that patients with a history of multiple drug allergies or significant hypersensitivity may be at increased risk.
@@ -52,7 +57,7 @@ In the controlled clinical trials, adverse events associated with the infusion (
 Serious infusion reactions (excluding hypersensitivity reactions) were reported in 0.5% of patients receiving BENLYSTA and 0.4% of patients receiving placebo and included bradycardia, myalgia, headache, rash, urticaria, and hypotension.
 The most common infusion reactions (≥3% of patients receiving BENLYSTA) were headache, nausea, and skin reactions.
 Due to overlap in signs and symptoms, it was not possible to distinguish between hypersensitivity reactions and infusion reactions in all cases [see Warnings and Precautions (5.4)].
-Some patients (13%) received premedication, which may have mitigated or masked an infusion reaction; however there is insufficient evidence to determine whether premedication diminishes the frequency or severity of infusion reactions [see Adverse Reactions (6.1)].
+Some patients (13%) received premedication, which may have mitigated or masked an infusion reaction; however, there is insufficient evidence to determine whether premedication diminishes the frequency or severity of infusion reactions [see Adverse Reactions (6.1)].
 
 BENLYSTA should be administered by healthcare providers prepared to manage infusion reactions.
 The infusion rate may be slowed or interrupted if the patient develops an infusion reaction.
