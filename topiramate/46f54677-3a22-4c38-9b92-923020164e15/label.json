@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA205122"
+  ],
+  "inn": "topiramate",
+  "labeler": "Upsher-Smith Laboratories, Inc.",
+  "package_ndcs": [
+    "0245-1071-15",
+    "0245-1072-15",
+    "0245-1073-15",
+    "0245-1074-15",
+    "0245-1075-15"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "topiramate",
+      "name": "QUDEXY"
+    }
+  ],
+  "setid": "46f54677-3a22-4c38-9b92-923020164e15",
+  "source": "dailymed"
+}
