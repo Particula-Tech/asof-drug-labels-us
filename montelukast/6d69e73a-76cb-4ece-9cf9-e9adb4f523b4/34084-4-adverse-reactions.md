@@ -20,7 +20,7 @@ TABLE 1: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Gr
 | Digestive System Disorders Dyspepsia Pain, dental Gastroenteritis, infectious | 2.1 1.7 1.5 | 1.1 1 0.5 |
 | Nervous System/Psychiatric Headache Dizziness | 18.4 1.9 | 18.1 1.4 |
 | Respiratory System Disorders Influenza Cough Congestion, nasal | 4.2 2.7 1.6 | 3.9 2.4 1.3 |
-| Skin/Skin AppendagesDisorder Rash | 1.6 | 1.2 |
+| Skin/Skin Appendages Disorder Rash | 1.6 | 1.2 |
 | Laboratory Adverse Experiences* ALT increased AST increased Pyuria | 2.1 1.6 1 | 2 1.2 0.9 |
 
 *Number of patients tested (montelukast sodium and placebo, respectively): ALT and AST, 1935, 1170; pyuria, 1924, 1159.
@@ -55,7 +55,7 @@ In pediatric patients 2 to 5 years of age receiving montelukast sodium, the foll
 
 Adults and Adolescents 15 Years of Age and Older with Seasonal Allergic Rhinitis
 
-Montelukast sodium has been evaluated for safety in 2199 adult and adolescent patients 15 years of age and older in clinical trials.
+Montelukast sodium has been evaluated for safety in 2,199 adult and adolescent patients 15 years of age and older in clinical trials.
 Montelukast sodium administered once daily in the morning or in the evening had a safety profile similar to that of placebo.
 In placebo-controlled clinical trials, the following event was reported with montelukast sodium with a frequency ≥1% and at an incidence greater than placebo: upper respiratory infection, 1.9% of patients receiving montelukast sodium vs. 1.5% of patients receiving placebo.
 In a 4-week, placebo-controlled clinical study, the safety profile was consistent with that observed in 2-week studies.
@@ -69,7 +69,7 @@ In this study, the following events occurred with a frequency ≥2% and at an in
 
 Adults and Adolescents 15 Years of Age and Older with Perennial Allergic Rhinitis
 
-Montelukast sodium has been evaluated for safety in 3357 adult and adolescent patients 15 years of age and older with perennial allergic rhinitis of whom 1632 received montelukast sodium in two, 6-week, clinical studies.
+Montelukast sodium has been evaluated for safety in 3,357 adult and adolescent patients 15 years of age and older with perennial allergic rhinitis of whom 1,632 received montelukast sodium in two, 6-week, clinical studies.
 Montelukast sodium administered once daily had a safety profile consistent with that observed in patients with seasonal allergic rhinitis and similar to that of placebo.
 In these two studies, the following events were reported with montelukast sodium with a frequency ≥1% and at an incidence greater than placebo: sinusitis, upper respiratory infection, sinus headache, cough, epistaxis, and increased ALT.
 The incidence of somnolence was similar to that of placebo.
@@ -93,7 +93,7 @@ Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures.
 
 Cardiac disorders: palpitations.
 
-Respiratory, thoracic and mediastinal disorders: epistaxis.
+Respiratory, thoracic and mediastinal disorders: epistaxis, pulmonary eosinophilia.
 
 Gastrointestinal disorders: diarrhea, dyspepsia, nausea, pancreatitis, vomiting.
 
@@ -107,5 +107,5 @@ Musculoskeletal and connective tissue disorders: arthralgia, myalgia including m
 General disorders and administration site conditions: edema.
 
 Patients with asthma on therapy with montelukast sodium may present with systemic eosinophilia, sometimes presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition which is often treated with systemic corticosteroid therapy.
-These events usually, but not always, have been associated with the reduction of oral corticosteroid therapy.
+These events have been sometimes associated with the reduction of oral corticosteroid therapy.
 Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [see WARNINGS AND PRECAUTIONS (5.5)].

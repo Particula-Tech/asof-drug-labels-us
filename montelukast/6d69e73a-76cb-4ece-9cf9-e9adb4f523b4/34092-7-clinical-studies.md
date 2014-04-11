@@ -6,7 +6,7 @@ Adults and Adolescents 15 Years of Age and Older with Asthma
 
 Clinical trials in adults and adolescents 15 years of age and older demonstrated there is no additional clinical benefit to montelukast doses above 10 mg once daily.
 
-The efficacy of montelukast sodium for the chronic treatment of asthma in adults and adolescents 15 years of age and older was demonstrated in two (U.S. and Multinational) similarly designed, randomized, 12-week, double-blind, placebo-controlled trials in 1576 patients (795 treated with montelukast, sodium 530 treated with placebo, and 251 treated with active control).
+The efficacy of montelukast sodium for the chronic treatment of asthma in adults and adolescents 15 years of age and older was demonstrated in two (U.S. and Multinational) similarly designed, randomized, 12-week, double-blind, placebo-controlled trials in 1,576 patients (795 treated with montelukast, sodium 530 treated with placebo, and 251 treated with active control).
 The median age was 33 years (range 15 to 85); 56.8% were females and 43.2% were males.
 The ethnic/racial distribution in these studies was 71.6% Caucasian, 17.7% Hispanic, 7.2% other origins and 3.5% Black.
 Patients had mild or moderate asthma and were non-smokers who required approximately 5 puffs of inhaled β-agonist per day on an “as-needed” basis.
@@ -134,7 +134,7 @@ In pediatric patients 6 to 14 years of age, using the 5 mg chewable tablet, a 2-
 Seasonal Allergic Rhinitis
 
 The efficacy of montelukast sodium tablets for the treatment of seasonal allergic rhinitis was investigated in 5 similarly designed, randomized, double-blind, parallel-group, placebo- and active-controlled (loratadine) trials conducted in North America.
-The 5 trials enrolled a total of 5029 patients, of whom 1799 were treated with montelukast sodium tablets.
+The 5 trials enrolled a total of 5,029 patients, of whom 1,799 were treated with montelukast sodium tablets.
 Patients were 15 to 82 years of age with a history of seasonal allergic rhinitis, a positive skin test to at least one relevant seasonal allergen, and active symptoms of seasonal allergic rhinitis at study entry.
 
 The period of randomized treatment was 2 weeks in 4 trials and 4 weeks in one trial.
@@ -164,7 +164,7 @@ TABLE 4: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Pla
 Perennial Allergic Rhinitis
 
 The efficacy of montelukast sodium tablets for the treatment of perennial allergic rhinitis was investigated in 2 randomized, double-blind, placebo-controlled studies conducted in North America and Europe.
-The two studies enrolled a total of 3357 patients, of whom 1632 received montelukast sodium 10 mg tablets.
+The two studies enrolled a total of 3,357 patients, of whom 1,632 received montelukast sodium 10 mg tablets.
 Patients 15 to 82 years of age with perennial allergic rhinitis as confirmed by history and a positive skin test to at least one relevant perennial allergen (dust mites, animal dander, and/or mold spores), who had active symptoms at the time of study entry, were enrolled.
 
 In the study in which efficacy was demonstrated, the median age was 35 years (range 15 to 81); 64.1% were females and 35.9% were males.

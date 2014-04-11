@@ -31,13 +31,15 @@ What is montelukastsodiumtablet?
 
 Montelukast sodium tablet is used to:
 
-1. 1.Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 2 years and older.Do not take montelukast sodium tablets if you need relief right away for a sudden asthma attack.
-   If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
-2. 2.Prevent exercise-induced asthma in people 15 years of age and older.
-3. 3.Help control the symptoms of allergic rhinitis (sneezing, stuffy nose, runny nose, itching of the nose).
-   Montelukast sodium tablet is used to treat:
-   - ooutdoor allergies that happen part of the year (seasonal allergic rhinitis) in adults and children ages 2 years and older, and
-   - oindoor allergies that happen all year (perennial allergic rhinitis) in adults and children ages 2 years and older.
+- 1.Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 2 years and older.
+- Do not take montelukast sodium tablets if you need relief right away for a sudden asthma attack.
+  If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
+- 2.Prevent exercise-induced asthma in people 15 years of age and older.
+- 3.Help control the symptoms of allergic rhinitis (sneezing, stuffy nose, runny nose, itching of the nose).
+  Montelukast sodium tablet is used to treat:
+
+- •outdoor allergies that happen part of the year (seasonal allergic rhinitis) in adults and children ages 2 years and older, and
+- •indoor allergies that happen all year (perennial allergic rhinitis) in adults and children ages 2 years and older.
 
 Who should not take montelukastsodium tablets?
 
@@ -130,12 +132,14 @@ Montelukast sodiumtablets may cause serious side effects.
 - •trouble sleeping
 - •Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
   Rarely, this can happen in people with asthma who take montelukast sodium tablets.
-  This usually, but not always, happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
-- •Tell your healthcare provider right away if you get one or more of these symptoms:
-  - oa feeling of pins and needles or numbness of arms or legs
-  - oa flu-like illness
-  - orash
-  - osevere inflammation (pain and swelling) of the sinuses (sinusitis)
+  This sometimes happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
+
+Tell your healthcare provider right away if you get one or more of these symptoms:
+
+- •a feeling of pins and needles or numbness of arms or legs
+- •a flu-like illness
+- •rash
+- •severe inflammation (pain and swelling) of the sinuses (sinusitis)
 
 The most common side effects with montelukast sodiumtablets include:
 
@@ -157,7 +161,7 @@ Other side effects with montelukast sodiumtablets include:
 - •allergic reactions [including swelling of the face, lips, tongue, and/or throat (which may cause trouble breathing or swallowing), hives and itching]
 - •dizziness, drowsiness, pins and needles/numbness, seizures (convulsions or fits)
 - •palpitations
-- •nose bleed, stuffy nose
+- •nose bleed, stuffy nose, swelling (inflammation) of the lungs
 - •heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
 - •hepatitis
 - •bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
@@ -213,4 +217,4 @@ Manufactured in India by Sandoz Private Ltd.
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-April 2013
+January 2014
