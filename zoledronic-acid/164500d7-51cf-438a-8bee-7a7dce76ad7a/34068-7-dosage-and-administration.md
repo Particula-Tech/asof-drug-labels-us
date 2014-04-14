@@ -9,6 +9,10 @@ Zoledronic Acid Injection must be administered as an intravenous infusion over n
 - Intravenous infusion should be followed by a 10 mL normal saline flush of the intravenous line.
 - Administration of acetaminophen following Zoledronic Acid Injection administration may reduce the incidence of acute-phase reaction symptoms.
 
+Caution: After removing the overwrap check for minute leaks by squeezing the inner bag firmly.
+If leaks are found, discard container as sterility may be compromised.
+Use only if solution is clear and the container is undamaged.
+
 ## 2.6 Treatment of Paget's Disease of Bone
 
 The recommended dose is a 5 mg infusion.
@@ -40,7 +44,7 @@ The Zoledronic Acid Injection infusion time must not be less than 15 minutes giv
 
 The i.v. infusion should be followed by a 10 mL normal saline flush of the intravenous line.
 
-Zoledronic Acid Injection solution for infusion must not be allowed to come in contact with any calcium or other divalent cation-containing solutions, and should be administered as a single intravenous solution through a separate vented infusion line.
+Zoledronic Acid Injection solution for infusion must not be allowed to come in contact with any calcium or other divalent cation-containing solutions, and should be administered as a single intravenous solution through a separate infusion line.
 
 If refrigerated, allow the refrigerated solution to reach room temperature before administration.
 After opening, the solution is stable for 24 hours at 2°C–8°C (36°F -46°F) [see How Supplied/Storage and Handling (16)].
