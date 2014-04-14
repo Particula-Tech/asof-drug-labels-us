@@ -4,10 +4,11 @@ Use of Levocetirizine Dihydrochloride has been associated with somnolence, fatig
 
 ## 6.1 Clinical Trials Experience
 
-The safety data described below reflect exposure to levocetirizine dihydrochloride in 12 controlled clinical trials of 1 week to 6 months duration.
+The safety data described below reflect exposure to levocetirizine dihydrochloride in 2708 patients with seasonal or perennial allergic rhinitis or chronic idiopathic urticaria in 14 controlled clinical trials of 1 week to 6 months duration.
+
 The short-term (exposure up to 6 weeks) safety data for adults and adolescents are based upon eight clinical trials in which 1896 patients (825 males and 1071 females aged 12 years and older) were treated with Levocetirizine Dihydrochloride 2.5, 5, or 10 mg once daily in the evening.
-The short-term safety data from pediatric patients are based upon two clinical trials in which 243 children (162 males and 81 females 6 to 12 years of age) were treated with Levocetirizine Dihydrochloride 5 mg once daily for 4 to 6 weeks, one clinical trial in which 114 children (65 males and 49 females 1 to 5 years of age) treated with Levocetirizine Dihydrochloride 1.25 mg twice daily for 2 weeks, and one clinical trial in which 45 children (28 males and 17 females 6 to 11 months of age) treated with Levocetirizine Dihydrochloride 1.25 mg once daily for 2 weeks.
-The long-term (exposure of 4 or 6 months) safety data in adults and adolescents are based upon two clinical trials in which 428 patients (190 males and 238 females) were exposed to treatment with Levocetirizine Dihydrochloride 5 mg once daily.
+The short-term safety data from pediatric patients are based upon two clinical trials in which 243 children with seasonal or perennial allergic rhinitis (162 males and 81 females 6 to 12 years of age) were treated with Levocetirizine Dihydrochloride 5 mg once daily for 4 to 6 weeks, one clinical trial in which 114 children (65 males and 49 females 1 to 5 years of age) with allergic rhinitis or chronic idiopathic urticaria were treated with Levocetirizine Dihydrochloride 1.25 mg twice daily for 2 weeks, and one clinical trial in which 45 children (28 males and 17 females 6 to 11 months of age) with symptoms of allergic rhinitis or chronic urticaria were treated with Levocetirizine Dihydrochloride 1.25 mg once daily for 2 weeks.
+The long-term (exposure of 4 or 6 months) safety data in adults and adolescents are based upon two clinical trials in which 428 patients (190 males and 238 females) with allergic rhinitis were exposed to treatment with Levocetirizine Dihydrochloride 5 mg once daily.
 Long term safety data are also available from an 18-month trial in 255 Levocetirizine Dihydrochloride-treated subjects 12 to 24 months of age.
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 Adults and Adolescents 12 years of Age and Older In studies up to 6 weeks in duration, the mean age of the adult and adolescent patients was 32 years, 44% of the patients were men and 56% were women, and the large majority (more than 90%) was Caucasian.
@@ -66,16 +67,14 @@ Levocetirizine Dihydrochloride 1.25 mg once daily in the placebo-controlled safe
 Long-Term Clinical Trials Experience In two controlled clinical trials, 428 patients (190 males and 238 females) aged 12 years and older were treated with Levocetirizine Dihydrochloride 5 mg once daily for 4 or 6 months.
 The patient characteristics and the safety profile were similar to that seen in the short-term studies.
 Ten (2.3%) patients treated with Levocetirizine Dihydrochloride discontinued because of somnolence, fatigue or asthenia compared to 2 (<1%) in the placebo group.
-There are no long term clinical trials in children below 12 years of age with chronic idiopathic urticaria.
-Laboratory Test Abnormalities
-
-Elevations of blood bilirubin and transaminases were reported in <1% of patients in the clinical trials.
+There are no long term clinical trials in children below 12 years of age with allergic rhinitis or chronic idiopathic urticaria.
+Laboratory Test Abnormalities Elevations of blood bilirubin and transaminases were reported in <1% of patients in the clinical trials.
 The elevations were transient and did not lead to discontinuation in any patient.
 
 ## 6.2 Post-Marketing Experience
 
 In addition to the adverse reactions reported during clinical trials and listed above, adverse events have also been identified during post-approval use of Levocetirizine Dihydrochloride.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Adverse events of hypersensitivity and anaphylaxis, increased appetite, angioedema, fixed drug eruption, pruritus, rash and urticaria, convulsion, paraesthesia, dizziness, tremor, dysgeusia, vertigo, aggression and agitation, hallucinations, depression, insomnia, suicidal ideation, visual disturbances, blurred vision, palpitations, tachycardia, dyspnea, nausea, vomiting, hepatitis, dysuria, urinary retention, myalgia, and edema have been reported.
+Adverse events of hypersensitivity and anaphylaxis, increased appetite, angioedema, fixed drug eruption, pruritus, rash and urticaria, convulsion, paraesthesia, dizziness, tremor, dysgeusia, vertigo, movement disorders (including dystonia and oculogyric crisis),aggression and agitation, hallucinations, depression, insomnia, suicidal ideation, visual disturbances, blurred vision, palpitations, tachycardia, dyspnea, nausea, vomiting, hepatitis, dysuria, urinary retention, myalgia, and edema have been reported.
 Besides these events reported under treatment with Levocetirizine Dihydrochloride, other potentially severe adverse events have been reported from the post-marketing experience with cetirizine.
-Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with Levocetirizine Dihydrochloride: orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, and still birth.
+Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with Levocetirizine Dihydrochloride: orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, still birth, tic, myoclonus, and extrapyramidal symptoms.

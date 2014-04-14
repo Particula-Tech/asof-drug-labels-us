@@ -30,8 +30,8 @@ The accumulation ratio following daily oral administration is 1.12 with steady s
 Peak concentrations are typically 270 ng/mL and 308 ng/mL following a single and a repeated 5 mg once daily dose, respectively.
 Food had no effect on the extent of exposure (AUC) of the levocetirizine tablet, but Tmax was delayed by about 1.25 hours and Cmax was decreased by about 36% after administration with a high fat meal; therefore, levocetirizine can be administered with or without food.
 
-A dose of 5 mg (10 mL) of levocetirizine dihydrochloride oral solution is bioequivalent to a 5 mg dose of Levocetirizine Dihydrochloride tablets.
-Following oral administration of a 5 mg dose of levocetirizine dihydrochloride oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post-dose.
+A dose of 5 mg (10 mL) of Levocetirizine Dihydrochloride oral solution is bioequivalent to a 5 mg dose of Levocetirizine Dihydrochloride tablets.
+Following oral administration of a 5 mg dose of Levocetirizine Dihydrochloride oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post-dose.
 
 - Distribution
 
