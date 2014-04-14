@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205410"
+  ],
+  "inn": "propranolol",
+  "labeler": "Pierre Fabre Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64370-375-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "propranolol hydrochloride",
+      "name": "HEMANGEOL"
+    }
+  ],
+  "setid": "b6f9dd2a-632b-87eb-70f0-b2064d7ed48a",
+  "source": "dailymed"
+}
