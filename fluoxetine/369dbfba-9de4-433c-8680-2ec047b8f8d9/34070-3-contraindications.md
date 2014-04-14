@@ -13,5 +13,8 @@ Starting fluoxetine in a patient who is being treated with MAOIs such as linezol
 
 The use of fluoxetine is contraindicated with the following:
 
-- Pimozide [see Drug Interactions (7.7)]
-- Thioridazine [see Drug Interactions (7.7)]
+- •Pimozide [see Warnings and Precautions (5.10) and Drug Interactions (7.7, 7.8)]
+- •Thioridazine [see Warnings and Precautions (5.10) and Drug Interactions (7.7, 7.8)]
+- Pimozide and thioridazine prolong the QT interval.
+  Fluoxetine can increase the levels of pimozide and thioridazine through inhibition of CYP2D6.
+  Fluoxetine can also prolong the QT interval.

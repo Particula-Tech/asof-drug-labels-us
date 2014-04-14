@@ -29,24 +29,27 @@ There have been rare reports of prolonged seizures in patients on fluoxetine rec
 
 ## 7.6 Potential for Other Drugs to Affect Fluoxetine
 
-Drugs Tightly Bound to Plasma Proteins— Because fluoxetine is tightly bound to plasma proteins, adverse effects may result from displacement of protein-bound fluoxetine by other tightly-bound drugs [see Clinical Pharmacology (12.3)].
+Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma proteins, adverse effects may result from displacement of protein-bound fluoxetine by other tightly-bound drugs [see Clinical Pharmacology (12.3)].
 
 ## 7.7 Potential for Fluoxetine to Affect Other Drugs
 
-Pimozide— Concomitant use in patients taking pimozide is contraindicated.
-Clinical studies of pimozide with other antidepressants demonstrate an increase in drug interaction or QTc prolongation.
-While a specific study with pimozide and fluoxetine has not been conducted, the potential for drug interactions or QTc prolongation warrants restricting the concurrent use of pimozide and fluoxetine [see Contraindications (4.2)].
+Pimozide — Concomitant use in patients taking pimozide is contraindicated.
+Pimozide can prolong the QT interval.
+Fluoxetine can increase the level of pimozide through inhibition of CYP2D6.
+Fluoxetine can also prolong the QT interval.
+Clinical studies of pimozide with other antidepressants demonstrate an increase in drug interaction or QT prolongation.
+While a specific study with pimozide and fluoxetine has not been conducted, the potential for drug interactions or QT prolongation warrants restricting the concurrent use of pimozide and fluoxetine [see Contraindications (4.2), Warnings and Precautions (5.10), and Drug Interactions (7.8)].
 
-Thioridazine— Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued [see Contraindications (4.2)].
+Thioridazine — Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued, because of the risk of QT Prolongation [see Contraindications (4.2), Warnings and Precautions (5.10), and Drug Interactions (7.8)].
 
 In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4 fold higher Cmax and a 4.5 fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.
 The rate of debrisoquin hydroxylation is felt to depend on the level of CYP2D6 isozyme activity.
 Thus, this study suggests that drugs which inhibit CYP2D6, such as certain SSRIs, including fluoxetine, will produce elevated plasma levels of thioridazine.
 
-Thioridazine administration produces a dose-related prolongation of the QTc interval, which is associated with serious ventricular arrhythmias, such as torsade de pointes-type arrhythmias, and sudden death.
+Thioridazine administration produces a dose-related prolongation of the QTinterval, which is associated with serious ventricular arrhythmias, such as torsade de pointes-type arrhythmias, and sudden death.
 This risk is expected to increase with fluoxetine-induced inhibition of thioridazine metabolism.
 
-Drugs Metabolized by CYP2D6— Fluoxetine inhibits the activity of CYP2D6, and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer.
+Drugs Metabolized by CYP2D6 — Fluoxetine inhibits the activity of CYP2D6, and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer.
 Coadministration of fluoxetine with other drugs that are metabolized by CYP2D6, including certain antidepressants (e.g., TCAs), antipsychotics (e.g., phenothiazines and most atypicals), and antiarrhythmics (e.g., propafenone, flecainide, and others) should be approached with caution.
 Therapy with medications that are predominantly metabolized by the CYP2D6 system and that have a relatively narrow therapeutic index (see list below) should be initiated at the low end of the dose range if a patient is receiving fluoxetine concurrently or has taken it in the previous 5 weeks.
 Thus, his/her dosing requirements resemble those of poor metabolizers.
@@ -58,7 +61,7 @@ Tricyclic Antidepressants (TCAs) — In 2 studies, previously stable plasma leve
 This influence may persist for 3 weeks or longer after fluoxetine is discontinued.
 Thus, the dose of TCAs may need to be reduced and plasma TCA concentrations may need to be monitored temporarily when fluoxetine is coadministered or has been recently discontinued [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
-Benzodiazapines — The half-life of concurrently administered diazepam may be prolonged in some patients [see Clinical Pharmacology (12.3)].
+Benzodiazepines — The half-life of concurrently administered diazepam may be prolonged in some patients [see Clinical Pharmacology (12.3)].
 Coadministration of alprazolam and fluoxetine has resulted in increased alprazolam plasma concentrations and in further psychomotor performance decrement due to increased alprazolam levels.
 
 Antipsychotics — Some clinical data suggests a possible pharmacodynamic and/or pharmacokinetic interaction between SSRIs and antipsychotics.
@@ -81,3 +84,12 @@ Olanzapine — Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) cau
 The magnitude of the impact of this factor is small in comparison to the overall variability between individuals, and therefore dose modification is not routinely recommended.
 
 When using fluoxetine and olanzapine in combination, also refer to the Drug Interactions section of the package insert for Symbyax.
+
+## 7.8 Drugs that Prolong the QT Interval
+
+Do not use fluoxetine in combination with thioridazine or pimozide.
+Use fluoxetine with caution in combination with other drugs that cause QT prolongation.
+These include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol); specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin); Class 1A antiarrhythmic medications (e.g., quinidine, procainamide); Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
+Fluoxetine is primarily metabolized by CYP2D6.
+Concomitant treatment with CYP2D6 inhibitors can increase the concentration of fluoxetine.
+Concomitant use of other highly protein-bound drugs can increase the concentration of fluoxetine [see Contraindications (4.2), Warnings and Precautions (5.10), Drug Interactions (7.7), and Clinical Pharmacology (12.3)].

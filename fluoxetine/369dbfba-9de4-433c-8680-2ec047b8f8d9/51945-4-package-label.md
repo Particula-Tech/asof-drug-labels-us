@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Fluoxetine Capsules USP 40 mg 30s Label Text
 

@@ -30,6 +30,6 @@ Therefore, the physician who elects to use fluoxetine capsules USP for extended 
 
 When using fluoxetine capsules USP and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax®.
 
-Fluoxetine Capsules USP and olanzapine in combination is indicated for the acute treatment of depressive episodes associated with Bipolar I Disorder in adult patients.
+Fluoxetine Capsules USP and olanzapine in combination is indicated for the acute treatment of depressive episodes associated with Bipolar I Disorder.
 
 Fluoxetine Capsules USP monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.

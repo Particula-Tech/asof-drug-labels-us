@@ -85,9 +85,12 @@ Nevertheless, patients should be periodically reassessed to determine the need f
 
 When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
-Fluoxetine should be administered in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
+Adult — Fluoxetine should be administered in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of fluoxetine 20 to 50 mg and oral olanzapine 5 to 12.5 mg.
 Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination with a dose range of olanzapine 6 to 12 mg and fluoxetine 25 to 50 mg.
+Safety of coadministration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
+Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
+However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Safety and efficacy of fluoxetine in combination with olanzapine was determined in clinical trials supporting approval of Symbyax (fixed-dose combination of olanzapine and fluoxetine).
 Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
@@ -108,8 +111,6 @@ Table 1: Approximate Dose Correspondence Between SymbyaxSymbyax (olanzapine/fluo
 While there is no body of evidence to answer the question of how long a patient treated with fluoxetine and olanzapine in combination should remain on it, it is generally accepted that Bipolar I Disorder, including the depressive episodes associated with Bipolar I Disorder, is a chronic illness requiring chronic treatment.
 The physician should periodically re-examine the need for continued pharmacotherapy.
 
-Safety of coadministration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
-
 Fluoxetine monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 
 ## 2.7 Dosing in Specific Populations
@@ -126,7 +127,7 @@ Concomitant Illness — Patients with concurrent disease or on multiple concomit
 Fluoxetine and Olanzapine in Combination — The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, non-smoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modifications may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
-Fluoxetine and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 18 years of age [see Warnings and Precautions (5.14) and Drug Interactions (7.7)].
+Fluoxetine and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 10 years of age [see Warnings and Precautions (5.14) and Drug Interactions (7.7)].
 
 ## 2.8 Discontinuation of Treatment
 
@@ -146,6 +147,5 @@ In some cases, a patient already receiving fluoxetine therapy may require urgent
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, fluoxetine should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for five weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with fluoxetine may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.2)].
-
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with fluoxetine is unclear.
 The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].

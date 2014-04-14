@@ -47,8 +47,10 @@ Families and caregivers of patients being treated with antidepressants for Major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for fluoxetine capsules should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
-It should be noted that fluoxetine is approved in the pediatric population only for Major Depressive Disorder and Obsessive Compulsive Disorder.
-Safety and effectiveness of fluoxetine and olanzapine in combination in patients less than 18 years of age have not been established.
+It should be noted that fluoxetine is approved in the pediatric population for Major Depressive Disorder and Obsessive Compulsive Disorder.
+
+Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
+However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 5.2 Serotonin Syndrome
 
@@ -162,9 +164,27 @@ Anxiety was reported in 14% of patients treated with fluoxetine and in 7% of pat
 In U.S. placebo-controlled clinical trials for Bulimia Nervosa, insomnia was reported in 33% of patients treated with fluoxetine 60 mg, and 13% of patients treated with placebo.
 Anxiety and nervousness were reported, respectively, in 15% and 11% of patients treated with fluoxetine 60 mg and in 9% and 5% of patients treated with placebo.
 
-Among the most common adverse reactions associated with discontinuation (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in U.S. placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in Major Depressive Disorder) [seeTable 5].
+Among the most common adverse reactions associated with discontinuation (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in U.S. placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in Major Depressive Disorder) [see Table 5].
 
-## 5.10 Use in Patients With Concomitant Illness
+## 5.10 QT Prolongation
+
+Postmarketing cases of QT interval prolongation and ventricular arrhythmia including torsade de pointes have been reported in patients treated with fluoxetine.
+Fluoxetine should be used with caution in patients with congenital long QT syndrome; a previous history of QT prolongation; a family history of long QT syndrome or sudden cardiac death; and other conditions that predispose to QT prolongation and ventricular arrhythmia.
+Such conditions include concomitant use of drugs that prolong the QT interval; hypokalemia or hypomagnesemia; recent myocardial infarction, uncompensated heart failure, bradyarrhythmias, and other significant arrhythmias; and conditions that predispose to increased fluoxetine exposure (overdose, hepatic impairment, use of CYP2D6 inhibitors, CYP2D6 poor metabolizer status, or use of other highly protein-bound drugs).
+Fluoxetine is primarily metabolized by CYP2D6 [see Contraindications (4.2), Drug Interactions (7.7, 7.8), Overdose (10.1), and Clinical Pharmacology (12.3)].
+
+Pimozide and thioridazine are contraindicated for use with fluoxetine.
+Avoid the concomitant use of drugs known to prolong the QT interval.
+These include specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine,
+
+mesoridazine, droperidol,); specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin); Class 1A
+
+antiarrhythmic medications (e.g., quinidine, procainamide); Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Drug Interactions (7.7, 7.8) and Clinical Pharmacology (12.3)].
+
+Consider ECG assessment and periodic ECG monitoring if initiating treatment with fluoxetine in patients with risk factors for QT prolongation and ventricular arrhythmia.
+Consider discontinuing fluoxetine and obtaining a cardiac evaluation if patients develop signs or symptoms consistent with ventricular arrhythmia
+
+## 5.11 Use in Patients With Concomitant Illness
 
 Clinical experience with fluoxetine in patients with concomitant systemic illness is limited.
 Caution is advisable in using fluoxetine in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
@@ -180,17 +200,17 @@ As is true with many other types of medication when taken concurrently by patien
 
 Acute Narrow-Angle Glaucoma — Mydriasis has been reported in association with fluoxetine; therefore, caution should be used when prescribing fluoxetine in patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma.
 
-## 5.11 Potential for Cognitive and Motor Impairment
+## 5.12 Potential for Cognitive and Motor Impairment
 
 As with any CNS-active drug, fluoxetine has the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that the drug treatment does not affect them adversely.
 
-## 5.12 Long Elimination Half-Life
+## 5.13 Long Elimination Half-Life
 
 Because of the long elimination half-lives of the parent drug and its major active metabolite, changes in dose will not be fully reflected in plasma for several weeks, affecting both strategies for titration to final dose and withdrawal from treatment.
 This is of potential consequence when drug discontinuation is required or when drugs are prescribed that might interact with fluoxetine and norfluoxetine following the discontinuation of fluoxetine [see Clinical Pharmacology (12.3)].
 
-## 5.13 Discontinuation of Treatment
+## 5.14 Discontinuation Adverse Reactions
 
 During marketing of fluoxetine, SNRIs, and SSRIs, there have been spontaneous reports of adverse reactions occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these reactions are generally self-limiting, there have been reports of serious discontinuation symptoms.
@@ -200,6 +220,6 @@ If intolerable symptoms occur following a decrease in the dose or upon discontin
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conclusion of therapy which may minimize the risk of discontinuation symptoms with this drug.
 
-## 5.14 Fluoxetine and Olanzapine in Combination
+## 5.15 Fluoxetine and Olanzapine in Combination
 
 When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.

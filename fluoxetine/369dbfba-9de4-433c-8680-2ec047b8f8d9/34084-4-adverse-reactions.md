@@ -23,7 +23,7 @@ The cited figures, however, do provide the prescribing physician with some basis
 Incidence in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 3 enumerates the most common treatment-emergent adverse reactions associated with the use of fluoxetine (incidence of at least 5% for fluoxetine and at least twice that for placebo within at least 1 of the indications) for the treatment of Major Depressive Disorder, OCD, and bulimia in U.S. controlled clinical trials and Panic Disorder in U.S. plus non-U.S. controlled trials.
 Table 5 enumerates treatment-emergent adverse reactions that occurred in 2% or more patients treated with fluoxetine and with incidence greater than placebo who participated in U.S. Major Depressive Disorder, OCD, and bulimia controlled clinical trials and U.S. plus non-U.S.
 Panic Disorder controlled clinical trials.
-Table 4 provides combined data for the pool of studies that are provided separately by indication in Table3.
+Table 4 provides combined data for the pool of studies that are provided separately by indication in Table 3.
 
 Table 3: Most Common Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical TrialsIncidence less than 1%.,Includes U.S. data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials.
 
@@ -66,7 +66,7 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Dis
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
 |  | Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Combined |  |
-| Body System/AdverseReaction | Fluoxetine (N = 2869) | Placebo (N = 1673) |
+| Body System/Adverse Reaction | Fluoxetine (N = 2869) | Placebo (N = 1673) |
 | Body as a Whole |  |  |
 | Headache | 21 | 19 |
 | Asthenia | 11 | 6 |
@@ -163,7 +163,7 @@ Special Senses — Frequent: taste perversion; Infrequent: mydriasis.
 
 Urogenital System — Frequent: micturition disorder; Infrequent: dysuria, gynecological bleeding2.
 
-1 MedDRA dictionary term from integrated database of placebo controlled trials of 15,870 patients, of which 9673 patients received fluoxetine.
+1 MedDRA dictionary term from integrated database of placebo controlled trials of 15870 patients, of which 9673 patients received fluoxetine.
 
 2 Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
 Adjusted for gender.
