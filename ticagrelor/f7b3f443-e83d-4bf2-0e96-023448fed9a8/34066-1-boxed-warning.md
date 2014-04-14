@@ -12,5 +12,5 @@ A. BLEEDING RISK
 
 B. ASPIRIN DOSE AND BRILINTA EFFECTIVENESS
 
-Maintenance doses of aspirin above 100 mg reduce the effectiveness of BRILINTA and should be avoided.
-After any initial dose, use with aspirin 75-100 mg per day (5.2, 14).
+- •Maintenance doses of aspirin above 100 mg reduce the effectiveness of BRILINTA and should be avoided.
+  After any initial dose, use with aspirin 75-100 mg per day (5.2, 14).
