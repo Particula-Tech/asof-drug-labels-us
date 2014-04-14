@@ -16,6 +16,6 @@ Brands listed are the trademarks of their respective owners.
 
 SAGENT™
 
-Manufactured for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2013 Sagent Pharmaceuticals, Inc.
+Manufactured for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2014 Sagent Pharmaceuticals, Inc.
 
-Revised: October 2013
+Revised: February 2014

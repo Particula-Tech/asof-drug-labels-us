@@ -50,6 +50,10 @@ Bags of Zoledronic Acid Injection ready-to-use solution for infusion contain ove
 This solution is ready to use and may be administered directly to the patient without further preparation.
 For single use only.
 
+Caution: After removing the overwrap check for minute leaks by squeezing the inner bag firmly.
+If leaks are found, discard container as sterility may be compromised.
+Use only if solution is clear and the container is undamaged.
+
 ## 2.4 Method of Administration
 
 Due to the risk of clinically significant deterioration in renal function, which may progress to renal failure, single doses of Zoledronic Acid Injection should not exceed 4 mg and the duration of infusion should be no less than 15 minutes [see Warnings and Precautions (5.3)].
