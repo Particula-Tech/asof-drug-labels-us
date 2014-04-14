@@ -91,7 +91,7 @@ Published uncontrolled clinical studies in pediatric patients have employed dose
 
 ## Geriatric Use
 
-Of the 4966 subjects in clinical studies who were treated with famotidine, 488 subjects (9.8%) were 65 and older, and 88 subjects (1.7%) were greater than 75 years of age.
+Of the 4,966 subjects in clinical studies who were treated with famotidine, 488 subjects (9.8%) were 65 and older, and 88 subjects (1.7%) were greater than 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 However, greater sensitivity of some older individuals cannot be ruled out.
 

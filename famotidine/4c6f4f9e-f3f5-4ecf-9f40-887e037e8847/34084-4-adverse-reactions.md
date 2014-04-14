@@ -32,7 +32,7 @@ Anaphylaxis, angioedema, orbital or facial edema, urticaria, rash, conjunctival 
 
 ## Musculoskeletal
 
-Musculoskeletal pain including muscle cramps, arthralgia
+Rhabdomyolysis, musculoskeletal pain including muscle cramps, arthralgia
 
 ## Nervous System/Psychiatric
 
