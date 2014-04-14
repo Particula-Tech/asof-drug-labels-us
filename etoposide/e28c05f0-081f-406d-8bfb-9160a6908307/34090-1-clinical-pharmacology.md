@@ -13,13 +13,13 @@ The predominant macromolecular effect of etoposide appears to be the induction o
 ## ETOPOPHOS Bioequivalence
 
 Following intravenous administration of ETOPOPHOS, etoposide phosphate is rapidly and completely converted to etoposide in plasma.
-A direct comparison of the pharmacokinetic parameters [area under the concentration time curve (AUC) and the maximum plasma concentration (Cmax)] of etoposide following intravenous administration of molar equivalent doses of ETOPOPHOS and VePesid® was made in two randomized crossover studies in patients with a variety of malignancies.
+A direct comparison of the pharmacokinetic parameters (area under the concentration time curve [AUC] and the maximum plasma concentration [Cmax]) of etoposide following intravenous administration of molar equivalent doses of ETOPOPHOS and VePesid® was made in two randomized crossover studies in patients with a variety of malignancies.
 In the first study of 41 evaluable patients, the etoposide mean ± S.D.
-AUC values were 168.3 ± 48.2 µg•hr/mL and 156.7 ± 43.4 µg•hr/mL following administration of molar equivalent doses of 150 mg/m2 ETOPOPHOS or VePesid with a 3.5-hour infusion time; the corresponding mean ± S.D.
+AUC values were 168.3 ± 48.2 µg•h/mL and 156.7 ± 43.4 µg•h/mL following administration of molar equivalent doses of 150 mg/m2 ETOPOPHOS or VePesid with a 3.5-hour infusion time; the corresponding mean ± S.D.
 Cmax values were 20.0 ± 3.7 µg/mL and 19.6 ± 4.2 µg/mL, respectively.
 The point estimate (90% confidence interval) for the bioavailability of etoposide from ETOPOPHOS, relative to VePesid, was 107% (105%, 110%) for AUC and 103% (99%, 106%) for Cmax.
 In the second study of 29 evaluable patients following intravenous administration of 90, 100, and 110 mg/m2 molar equivalents of ETOPOPHOS or VePesid with a 60-minute infusion time, the etoposide mean ± S.D.
-AUC values (normalized to the 100 mg/m2 dose) were 96.1 ± 22.6 µg•hr/mL and 86.5 ± 25.8 µg•hr/mL, respectively; the corresponding mean ± S.D.
+AUC values (normalized to the 100 mg/m2 dose) were 96.1 ± 22.6 µg•h/mL and 86.5 ± 25.8 µg•h/mL, respectively; the corresponding mean ± S.D.
 Cmax values (normalized to the 100 mg/m2 dose) were 20.1 ± 4.1 µg/mL and 19.0 ± 5.1 µg/mL, respectively.
 The point estimate (90% confidence interval) for the bioavailability of etoposide from ETOPOPHOS, relative to VePesid, was 113% (107%, 119%) for AUC and 107% (101%, 113%) for Cmax indicating bioequivalence.
 Results from both studies demonstrated no statistically significant differences in the AUC and Cmax parameters for etoposide when administered as ETOPOPHOS or VePesid.

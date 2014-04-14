@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-ETOPOPHOS® (etoposide phosphate) for Injection is supplied as individual cartoned vials with white flip-off seals containing etoposide phosphate equivalent to 100 mg etoposide:
+ETOPOPHOS® (etoposide phosphate) for Injection is supplied as individual cartoned vials containing etoposide phosphate equivalent to 100 mg etoposide:
 
 NDC 0015-3404-20 100 mg single-dose vial
 
