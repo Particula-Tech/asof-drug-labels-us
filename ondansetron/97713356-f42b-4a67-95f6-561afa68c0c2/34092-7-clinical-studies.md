@@ -74,6 +74,7 @@ This was followed by the oral administration of ondansetron ranging from 4 to 24
 In the US trial, Ondansetron Injection was administered intravenously (only) in three doses of 0.15 mg/kg each for a total daily dose of 7.2 to 39 mg.
 In these studies, 58% of the 196 evaluable patients had a complete response (no emetic episodes) on day 1.
 Thus, prevention of vomiting in these pediatric patients was essentially the same as for patients older than 18 years of age.
+
 An open-label, multicenter, noncomparative trial has been performed in 75 pediatric cancer patients 6 to 48 months of age receiving at least one moderately or highly emetogenic chemotherapeutic agent.
 Fifty-seven percent (57%) were females; 67% were white, 18% were American Hispanic, and 15% were black patients.
 Ondansetron Injection was administered intravenously over 15 minutes in three doses of 0.15 mg/kg.

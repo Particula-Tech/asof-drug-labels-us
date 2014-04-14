@@ -59,6 +59,7 @@ Liver failure and death have been reported in patients with cancer receiving con
 Local Reactions: Pain, redness, and burning at site of injection.
 Lower Respiratory: Hiccups Neurological: Oculogyric crisis, appearing alone, as well as with other dystonic reactions.
 Transient dizziness during or shortly after intravenous infusion.
-Skin: Urticaria Eye Disorders: Cases of transient blindness, predominantly during intravenous administration, have been reported.
+Skin: Urticaria, Stevens-Johnson syndrome, and toxic epidermal necrolysis.
+Eye Disorders: Cases of transient blindness, predominantly during intravenous administration, have been reported.
 These cases of transient blindness were reported to resolve within a few minutes up to 48 hours.
 Transient blurred vision, in some cases associated with abnormalities of accommodation, have also been reported.
