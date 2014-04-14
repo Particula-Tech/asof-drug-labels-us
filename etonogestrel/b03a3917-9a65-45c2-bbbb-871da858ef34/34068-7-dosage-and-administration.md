@@ -254,6 +254,8 @@ The implant can then be removed.
 
 Step 8.
 Confirm that the entire implant, which is 4 cm long, has been removed by measuring its length.
+There have been reports of broken implants while in the patient's arm.
+In some cases, difficult removal of the broken implant has been reported.
 If a partial implant (less than 4 cm) is removed, the remaining piece should be removed by following the instructions in section 2.3.
 [See Dosage and Administration (2.3).]
 If the woman would like to continue using NEXPLANON, a new implant may be inserted immediately after the old implant is removed using the same incision [see Dosage and Administration (2.4)].

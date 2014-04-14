@@ -72,7 +72,7 @@ NEXPLANON is a progestin-only contraceptive.
 It is unknown whether this increased risk is applicable to etonogestrel alone.
 It is recommended, however, that women with risk factors known to increase the risk of venous and arterial thromboembolism be carefully assessed.
 
-There have been postmarketing reports of serious arterial and venous thromboembolic events, including cases of pulmonary emboli (some fatal), deep vein thrombosis, myocardial infarction, and strokes, in women using the non-radiopaque etonogestrel implant.
+There have been postmarketing reports of serious arterial and venous thromboembolic events, including cases of pulmonary emboli (some fatal), deep vein thrombosis, myocardial infarction, and strokes, in women using etonogestrel implants.
 NEXPLANON should be removed in the event of a thrombosis.
 
 Due to the risk of thromboembolism associated with pregnancy and immediately following delivery, NEXPLANON should not be used prior to 21 days postpartum.
@@ -157,11 +157,19 @@ It is unknown if NEXPLANON causes fluid retention.
 
 Contact lens wearers who develop visual changes or changes in lens tolerance should be assessed by an ophthalmologist.
 
-## 5.16 Monitoring
+## 5.16 In Situ Broken or Bent Implant
+
+There have been reports of broken or bent implants while in the patient's arm.
+Based on in vitro data, when the implant is broken or bent, the release rate of etonogestrel may be slightly increased.
+This change is not expected to have clinically meaningful effects.
+
+When an implant is removed, it is important to remove it in its entirety [see Dosage and Administration (2.3)].
+
+## 5.17 Monitoring
 
 A woman who is using NEXPLANON should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated health care.
 
-## 5.17 Drug-Laboratory Test Interactions
+## 5.18 Drug-Laboratory Test Interactions
 
 Sex hormone-binding globulin concentrations may be decreased for the first six months after NEXPLANON insertion followed by gradual recovery.
 Thyroxine concentrations may initially be slightly decreased followed by gradual recovery to baseline.

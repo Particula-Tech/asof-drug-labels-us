@@ -235,6 +235,11 @@ A few women who use birth control that contains hormones may get:
 - Gallbladder problems
 - Rare cancerous or noncancerous liver tumors
 
+• Broken or Bent Implant
+
+If the implant breaks or bends while in your arm, how the implant works should not be affected.
+If you have questions contact your healthcare provider.
+
 When should I call my healthcare provider?
 
 Call your healthcare provider right away if you have:
@@ -282,6 +287,6 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 09/2013
+Revised: 03/2014
 
-usppi-mk8415-ipt-1309r012
+usppi-mk8415-iptx-1403r013

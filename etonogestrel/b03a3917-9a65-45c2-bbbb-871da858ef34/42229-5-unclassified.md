@@ -7,9 +7,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2011 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 09/2013
+Revised: 03/2014
 
-uspi-mk8415-ipt-1309r012
+uspi-mk8415-iptx-1403r013
 
 NEXPLANON® (etonogestrel implant) Radiopaque Subdermal Use Only
 
