@@ -159,11 +159,19 @@ It is unknown if IMPLANON causes fluid retention.
 
 Contact lens wearers who develop visual changes or changes in lens tolerance should be assessed by an ophthalmologist.
 
-## 5.16 Monitoring
+## 5.16 In Situ Broken or Bent Implant
+
+There have been reports of broken or bent implants while in the patient's arm.
+Based on in vitro data, when the implant is broken or bent, the release rate of etonogestrel may be slightly increased.
+This change is not expected to have clinically meaningful effects.
+
+When an implant is removed, it is important to remove it in its entirety [see Dosage and Administration (2.3)].
+
+## 5.17 Monitoring
 
 A woman who is using IMPLANON should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated health care.
 
-## 5.17 Drug-Laboratory Test Interactions
+## 5.18 Drug-Laboratory Test Interactions
 
 Sex hormone-binding globulin concentrations may be decreased for the first 6 months after IMPLANON insertion followed by a gradual recovery.
 Thyroxine concentrations may initially be slightly decreased followed by gradual recovery to baseline.

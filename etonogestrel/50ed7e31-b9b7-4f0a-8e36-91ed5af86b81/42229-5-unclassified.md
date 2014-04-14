@@ -1,26 +1,28 @@
-Manufactured by: N.V.
-Organon, Oss, The Netherlands, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Copyright © 2006, 2009, 2012 N.V.
-Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
-
-Revised: 03/2012
-
-900415-IMP-IPT-USPI.6
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Manufactured by: N.V.
-Organon, Oss, The Netherlands, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
 
-Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2012 N.V.
-Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2006, 2009, 2012 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 03/2012
+Revised: 03/2014
 
-900415-IMP-IPT-PPI.6
+uspi-mk8415-ipt-1403r007
+
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manufactured by: N.V.
+Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
+
+For patent information: www.merck.com/product/patent/home.html
+
+Copyright © 2012 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+Revised: 03/2014
+
+usppi-mk8415-ipt-1403r007
 
 IMPLANON® (etonogestrel implant) 68 mg For Subdermal Use Only
 
@@ -86,14 +88,15 @@ She has stated that she understands the information and has had an opportunity t
 | --- | --- | --- |
 | (Signature of Translator) |  | (Date) |
 
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
 Manufactured by: N.V.
-Organon, Oss, The Netherlands, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
 
-Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2006, 2009 N.V.
-Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2006, 2009 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: March 2012
+Revised: 03/2014
 
-900415-IMP-IPT-PCF.2
+pcf-mk8415-ipt-1403r003
