@@ -28,41 +28,34 @@ The plasma elimination half-life of eltrombopag is approximately 21 to 32 hours 
 Drug Interactions:Polyvalent Cation-containing Antacids: In a clinical trial, co-administration of 75 mg of PROMACTA with a polyvalent cation-containing antacid (1,524 mg aluminum hydroxide, 1,425 mg magnesium carbonate, and sodium alginate) to 26 healthy adult subjects decreased plasma eltrombopag AUC0-∞ and Cmax by approximately 70%.
 The contribution of sodium alginate to this interaction is not known.
 
-Cytochrome P450 Enzymes (CYPs): In a clinical trial, PROMACTA 75 mg once daily was administered for 7 days to 24 healthy male subjects did not show inhibition or induction of the metabolism of a combination of probe substrates for CYP1A2 (caffeine), CYP2C19 (omeprazole), CYP2C9 (flurbiprofen), or CYP3A4 (midazolam) in humans.
-Probe substrates for CYP2C8 were not evaluated in this trial.
-
-Rosuvastatin: In a clinical trial, co-administration of 75 mg of PROMACTA once daily for 5 days with a single 10 mg dose of the OATP1B1 and BCRP substrate, rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin AUC0-∞ by 55% and Cmax by 103%.
-
-Lopinavir/Ritonavir: In a clinical trial, co-administration of repeat dose lopinavir 400 mg/ritonavir 100 mg twice daily with a single dose of PROMACTA 100 mg to 40 healthy adult subjects decreased plasma eltrombopag AUC0-∞ by 17%.
-
-Pegylated Interferon alfa-2a + Ribavirin and Pegylated Interferon alfa-2b + Ribavirin: The pharmacokinetics of eltrombopag in both the presence and absence of pegylated interferon alfa 2a and 2b therapy were evaluated using a population pharmacokinetic analysis in 635 patients with chronic hepatitis C. The population PK model estimates of clearance indicate no significant difference in eltrombopag clearance in the presence of pegylated interferon alfa plus ribavirin therapy.
-
-In vitro Studies: Eltrombopag is an inhibitor of CYP2C8 and CYP2C9 in vitro.
-Eltrombopag is an inhibitor of UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, and UGT2B15 in vitro.
-Eltrombopag is an inhibitor of the organic anion transporting polypeptide OATP1B1 and BCRP in vitro.
+- Cytochrome P450 Enzymes (CYPs): In a clinical trial, PROMACTA 75 mg once daily was administered for 7 days to 24 healthy male subjects did not show inhibition or induction of the metabolism of a combination of probe substrates for CYP1A2 (caffeine), CYP2C19 (omeprazole), CYP2C9 (flurbiprofen), or CYP3A4 (midazolam) in humans.
+  Probe substrates for CYP2C8 were not evaluated in this trial.
+- Rosuvastatin: In a clinical trial, co-administration of 75 mg of PROMACTA once daily for 5 days with a single 10 mg dose of the OATP1B1 and BCRP substrate, rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin AUC0-∞ by 55% and Cmax by 103%.
+- Protease Inhibitors: HIV Protease Inhibitors: In a clinical trial, co-administration of repeat dose lopinavir 400 mg/ritonavir 100 mg twice daily with a single dose of PROMACTA 100 mg to 40 healthy adult subjects decreased plasma eltrombopag AUC0-∞ by 17%.
+- HCV Protease Inhibitors: In a clinical trial, co-administration of repeat dose telaprevir 750 mg every 8 hours or boceprevir 800 mg every 8 hours with a single dose of PROMACTA 200 mg to healthy adult subjects did not alter plasma telaprevir, boceprevir, or eltrombopag AUC0-∞ or Cmax to a significant extent.
+- Pegylated Interferon alfa-2a + Ribavirin and Pegylated Interferon alfa-2b + Ribavirin: The pharmacokinetics of eltrombopag in both the presence and absence of pegylated interferon alfa 2a and 2b therapy were evaluated using a population pharmacokinetic analysis in 635 patients with chronic hepatitis C. The population PK model estimates of clearance indicate no significant difference in eltrombopag clearance in the presence of pegylated interferon alfa plus ribavirin therapy.
+- In vitro Studies: Eltrombopag is an inhibitor of CYP2C8 and CYP2C9 in vitro.
+  Eltrombopag is an inhibitor of UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, and UGT2B15 in vitro.
+  Eltrombopag is an inhibitor of the organic anion transporting polypeptide OATP1B1 and BCRP in vitro.
 
 Specific Populations:Ethnicity: Based on two population PK analyses of eltrombopag concentrations in ITP and chronic hepatitis C patients, East Asian (i.e., Japanese, Chinese, Taiwanese, and Korean) subjects exhibited 50 to 55% higher eltrombopag plasma concentrations compared to non-East Asian subjects [see Dosage and Administration (2.1, 2.2)].
 
-An approximately 40% higher systemic eltrombopag exposure in healthy African-American subjects was noted in at least one clinical pharmacology trial.
-The effect of African-American ethnicity on exposure and related safety and efficacy of eltrombopag has not been established.
-
-Hepatic Impairment: In a pharmacokinetic trial, the disposition of a single 50 mg dose of PROMACTA in patients with mild, moderate, and severe hepatic impairment was compared to subjects with normal hepatic function.
-The degree of hepatic impairment was based on Child-Pugh score.
-Plasma eltrombopag AUC0-∞ was 41% higher in patients with mild hepatic impairment (Child-Pugh Class A) compared to subjects with normal hepatic function.
-Plasma eltrombopag AUC0-∞ was approximately 2-fold higher in patients with moderate (Child-Pugh Class B) and severe hepatic impairment (Child-Pugh Class C). The half-life of eltrombopag was prolonged 2-fold in these patients.
-This clinical trial did not evaluate protein binding effects.
-
-Chronic Liver Disease: A population PK analysis in thrombocytopenic patients with chronic liver disease following repeat doses of eltrombopag demonstrated that mild hepatic impairment resulted in an 87% to 110% higher plasma eltrombopag AUC(0-τ) and patients with moderate hepatic impairment had approximately 141% to 240% higher plasma eltrombopag AUC(0-τ) values compared to patients with normal hepatic function.
-The half-life of eltrombopag was prolonged 3-fold in patients with mild hepatic impairment and 4-fold in patients with moderate hepatic impairment.
-This clinical trial did not evaluate protein binding effects.
-
-Chronic Hepatitis C: A population PK in 28 healthy adults and 635 patients with chronic hepatitis C demonstrated that patients with chronic hepatitis C treated with PROMACTA had higher plasma AUC(0-τ) values as compared to healthy subjects, and AUC(0-τ) increased with increasing Child-Pugh score.
-Patients with chronic hepatitis C and mild hepatic impairment had approximately 100% to 144% higher plasma AUC(0-τ) compared with healthy subjects.
-This clinical trial did not evaluate protein binding effects.
-
-Renal Impairment: The disposition of a single 50 mg dose of PROMACTA in patients with mild (creatinine clearance (CrCl) of 50 to 80 mL/min), moderate (CrCl of 30 to 49 mL/min), and severe (CrCl less than 30 mL/min) renal impairment was compared to subjects with normal renal function.
-Average total plasma eltrombopag AUC0-∞ was 32% to 36% lower in subjects with mild to moderate renal impairment and 60% lower in subjects with severe renal impairment compared with healthy subjects.
-The effect of renal impairment on unbound (active) eltrombopag exposure has not been assessed.
+- An approximately 40% higher systemic eltrombopag exposure in healthy African-American subjects was noted in at least one clinical pharmacology trial.
+  The effect of African-American ethnicity on exposure and related safety and efficacy of eltrombopag has not been established.
+- Hepatic Impairment: In a pharmacokinetic trial, the disposition of a single 50 mg dose of PROMACTA in patients with mild, moderate, and severe hepatic impairment was compared to subjects with normal hepatic function.
+  The degree of hepatic impairment was based on Child-Pugh score.
+  Plasma eltrombopag AUC0-∞ was 41% higher in patients with mild hepatic impairment (Child-Pugh Class A) compared to subjects with normal hepatic function.
+  Plasma eltrombopag AUC0-∞ was approximately 2-fold higher in patients with moderate (Child-Pugh Class B) and severe hepatic impairment (Child-Pugh Class C). The half-life of eltrombopag was prolonged 2-fold in these patients.
+  This clinical trial did not evaluate protein binding effects.
+- Chronic Liver Disease: A population PK analysis in thrombocytopenic patients with chronic liver disease following repeat doses of eltrombopag demonstrated that mild hepatic impairment resulted in an 87% to 110% higher plasma eltrombopag AUC(0-τ) and patients with moderate hepatic impairment had approximately 141% to 240% higher plasma eltrombopag AUC(0-τ) values compared to patients with normal hepatic function.
+  The half-life of eltrombopag was prolonged 3-fold in patients with mild hepatic impairment and 4-fold in patients with moderate hepatic impairment.
+  This clinical trial did not evaluate protein binding effects.
+- Chronic Hepatitis C: A population PK in 28 healthy adults and 635 patients with chronic hepatitis C demonstrated that patients with chronic hepatitis C treated with PROMACTA had higher plasma AUC(0-τ) values as compared to healthy subjects, and AUC(0-τ) increased with increasing Child-Pugh score.
+  Patients with chronic hepatitis C and mild hepatic impairment had approximately 100% to 144% higher plasma AUC(0-τ) compared with healthy subjects.
+  This clinical trial did not evaluate protein binding effects.
+- Renal Impairment: The disposition of a single 50 mg dose of PROMACTA in patients with mild (creatinine clearance (CrCl) of 50 to 80 mL/min), moderate (CrCl of 30 to 49 mL/min), and severe (CrCl less than 30 mL/min) renal impairment was compared to subjects with normal renal function.
+  Average total plasma eltrombopag AUC0-∞ was 32% to 36% lower in subjects with mild to moderate renal impairment and 60% lower in subjects with severe renal impairment compared with healthy subjects.
+  The effect of renal impairment on unbound (active) eltrombopag exposure has not been assessed.
 
 ## 12.6 Assessment of Risk of QT/QTc Prolongation
 

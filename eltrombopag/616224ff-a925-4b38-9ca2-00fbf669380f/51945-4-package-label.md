@@ -16,20 +16,20 @@ Rx only
 
 Federal Law requires dispensing of PROMACTA® with the Medication Guide provided with this bottle.
 
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+Store between 20o and 25oC (68o to 77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+
+Do not use if printed safety seal under cap is broken or missing.
 
 Dosage: See accompanying prescribing information.
 
 Important: Use safety closures when dispensing this product unless otherwise directed by physicians or requested by purchaser.
 
-GlaxoSmithKline
-
-RTP, NC 27709
+GlaxoSmithKline, RTP, NC 27709
 
 Made in Ireland
 
-10000000098985 Rev.
-9/11
+10000000123247 Rev.
+1/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -49,20 +49,20 @@ Rx only
 
 Federal Law requires dispensing of PROMACTA® with the Medication Guide provided with this bottle.
 
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+Store between 20o and 25oC (68o to 77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+
+Do not use if printed safety seal under cap is broken or missing.
 
 Dosage: See accompanying prescribing information.
 
 Important: Use safety closures when dispensing this product unless otherwise directed by physicians or requested by purchaser.
 
-GlaxoSmithKline
-
-RTP, NC 27709
+GlaxoSmithKline, RTP, NC 27709
 
 Made in Ireland
 
-10000000091675 Rev.
-2/11
+10000000123416 Rev.
+1/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -82,20 +82,20 @@ Rx only
 
 Federal Law requires dispensing of PROMACTA® with the Medication Guide provided with this bottle.
 
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+Store between 20o and 25oC (68o to 77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+
+Do not use if printed safety seal under cap is broken or missing.
 
 Dosage: See accompanying prescribing information.
 
 Important: Use safety closures when dispensing this product unless otherwise directed by physicians or requested by purchaser.
 
-GlaxoSmithKline
-
-RTP, NC 27709
+GlaxoSmithKline, RTP, NC 27709
 
 Made in Ireland
 
-10000000091676 Rev.
-2/11
+10000000123417 Rev.
+1/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -115,28 +115,20 @@ Rx only
 
 Federal Law requires dispensing of PROMACTA® with the Medication Guide provided with this bottle.
 
-Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+Store between 20o and 25oC (68o to 77oF); excursions permitted to 15o to 30oC (59o to 86oF).
+
+Do not use if printed safety seal under cap is broken or missing.
 
 Dosage: See accompanying prescribing information.
 
 Important: Use safety closures when dispensing this product unless otherwise directed by physicians or requested by purchaser.
 
-GlaxoSmithKline
-
-RTP, NC 27709
+GlaxoSmithKline, RTP, NC 27709
 
 Made in Ireland
 
-10000000091677 Rev.
-2/11
-
-PRINCIPAL DISPLAY PANEL
-
-NDC 0007-4644-13
-
-PROMACTA®
-
-Product Discontinued
+10000000123248 Rev.
+1/14
 
 PRINCIPAL DISPLAY PANEL
 

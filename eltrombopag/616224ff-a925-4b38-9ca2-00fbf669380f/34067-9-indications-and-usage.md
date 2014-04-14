@@ -13,4 +13,4 @@ PROMACTA is indicated for the treatment of thrombocytopenia in patients with chr
 - •PROMACTA should not be used to normalize platelet counts.
 - •PROMACTA should be used only in patients with ITP whose degree of thrombocytopenia and clinical condition increase the risk for bleeding.
 - •PROMACTA should be used only in patients with chronic hepatitis C whose degree of thrombocytopenia prevents the initiation of interferon-based therapy or limits the ability to maintain interferon-based therapy.
-- •Safety and efficacy have not been established in combination with direct acting antiviral agents approved for treatment of chronic hepatitis C genotype 1 infection.
+- •Safety and efficacy have not been established in combination with direct-acting antiviral agents used without interferon for treatment of chronic hepatitis C infection.

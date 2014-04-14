@@ -18,11 +18,15 @@ Use caution when concomitantly administering PROMACTA and drugs that are substra
 Monitor patients closely for signs and symptoms of excessive exposure to the drugs that are substrates of OATP1B1 or BCRP and consider reduction of the dose of these drugs, if appropriate.
 In clinical trials with PROMACTA, a dose reduction of rosuvastatin by 50% was recommended.
 
-## 7.3 Lopinavir/ritonavir
+## 7.3 Protease Inhibitors
 
-In a drug interaction trial, co-administration of PROMACTA with lopinavir/ritonavir (LPV/RTV) decreased plasma eltrombopag exposure by 17% [see Clinical Pharmacology (12.3)].
+HIV Protease Inhibitors: In a drug interaction trial, co-administration of PROMACTA with lopinavir/ritonavir (LPV/RTV) decreased plasma eltrombopag exposure by 17% [see Clinical Pharmacology (12.3)].
 No dose adjustment is recommended when PROMACTA is co-administered with LPV/RTV.
 Drug interactions with other HIV protease inhibitors have not been evaluated.
+
+Hepatitis C Virus (HCV) Protease Inhibitors:Coadministration of PROMACTA with either boceprevir or telaprevir did not affect eltrombopag or protease inhibitor exposure significantly [see Clinical Pharmacology (12.3)].
+No dose adjustments are recommended.
+Drug interactions with other HCV protease inhibitors have not been evaluated.
 
 ## 7.4 Peginterferon Alfa 2a/b Therapy
 

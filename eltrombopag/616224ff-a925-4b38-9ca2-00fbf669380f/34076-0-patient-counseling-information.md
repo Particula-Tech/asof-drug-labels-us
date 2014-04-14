@@ -9,12 +9,12 @@ Prior to treatment, patients should fully understand and be informed of the foll
 - •Therapy with PROMACTA may be associated with hepatobiliary laboratory abnormalities.
 - •Advise patients with chronic hepatitis C and cirrhosis that they may be at risk for hepatic decompensation when receiving alfa interferon therapy.
 - •Advise patients that they should report any of the following signs and symptoms of liver problems to their healthcare provider right away.
-  - ∘yellowing of the skin or the whites of the eyes (jaundice)
-  - ∘unusual darkening of the urine
-  - ∘unusual tiredness
-  - ∘right upper stomach area pain
-  - ∘confusion
-  - ∘swelling of the stomach area (abdomen)
+  - •yellowing of the skin or the whites of the eyes (jaundice)
+  - •unusual darkening of the urine
+  - •unusual tiredness
+  - •right upper stomach area pain
+  - •confusion
+  - •swelling of the stomach area (abdomen)
 - •Advise patients that thrombocytopenia and risk of bleeding may reoccur upon discontinuing PROMACTA, particularly if PROMACTA is discontinued while the patient is on anticoagulants or antiplatelet agents.
 - •Advise patients that too much PROMACTA may result in excessive platelet counts and a risk for thrombotic/thromboembolic complications.
 - •Advise patients that during therapy with PROMACTA, they should continue to avoid situations or medications that may increase the risk for bleeding.

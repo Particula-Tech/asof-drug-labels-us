@@ -109,7 +109,7 @@ a PROMACTA given in combination with peginterferon alfa-2a (180 mcg once weekly 
 
 b PROMACTA given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally).
 
-c Target platelet count was ≥90 x 109 /L for Trial 1 and ≥100 x 109 /L for Trial 2.
+c Target platelet count was ≥90 x 10 9 /L for Trial 1 and ≥100 x 10 9 /L for Trial 2.
 
 dP value <0.05 for PROMACTA versus placebo.
 
