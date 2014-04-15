@@ -1,14 +1,17 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-TRI-LUMA Cream should be applied once daily at night.
-It should be applied at least 30 minutes before bedtime.
+Apply a thin film of TRI-LUMA Cream to the effected area once daily, at least 30 minutes before bedtime.
 
 Gently wash the face and neck with a mild cleanser.
 Rinse and pat the skin dry.
-Apply a thin film of the cream to the hyperpigmented areas of melasma including about 1/2 inch of normal appearing skin surrounding each lesion.
+Apply TRI-LUMA Cream to the hyperpigmented areas of melasma including about 1/2 inch of normal appearing skin surrounding each lesion.
 Rub lightly and uniformly into the skin.
-Do not use occlusive dressing.
+
+Therapy should be discontinued when control is achieved.
 
 During the day, use a sunscreen of SPF 30, and wear protective clothing.
 Avoid sunlight exposure.
 Patients may use moisturizers and/or cosmetics during the day.
+
+TRI-LUMA Cream is for topical use only.
+It is not for oral, ophthalmic, or intravaginal use.

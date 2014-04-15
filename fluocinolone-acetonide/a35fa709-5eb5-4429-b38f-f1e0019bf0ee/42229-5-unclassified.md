@@ -1,173 +1,177 @@
-# PATIENT INFORMATION
+PATIENT INFORMATION
 
-For External Use Only.
-Not for Ophthalmic Use.
+TRI-LUMA® (try-LOOM-ah)
 
-TRI-LUMA®Cream (fluocinolone acetonide 0.01%, hydroquinone 4%, tretinoin 0.05%)
+(fluocinolone acetonide 0.01%, hydroquinone 4%, and tretinoin 0.05%)
 
-Read this information carefully before you begin treatment.
-Read the information you get whenever you get more medicine.
-There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
-If you have any questions about TRI-LUMA (try-LOOM-ah), ask your doctor.
-Only your doctor can determine if TRI-LUMA is right for you.
+Cream
+
+Important information: TRI-LUMA Cream is for use on skin only.
+Do not use TRI-LUMA Cream in your mouth, eyes, or vagina.
 
 What is the most important information I should know about TRI-LUMA Cream?
 
-Use of TRI-LUMA Cream in pregnant women may carry the chance of having birth defects in the baby.
-Tell your doctor if you are pregnant, may be pregnant, or plan to become pregnant.
-Your doctor will talk with you about the benefits and risks of using TRI-LUMA during pregnancy to help decide if the benefits for you are greater than the risks.
-You may decide to delay treatment until after your baby is born.
+TRI-LUMA Cream may cause birth defects or death of the baby if used during pregnancy.
+The risk of birth defects or death of the baby may be greater if TRI-LUMA Cream is used during the first trimester of pregnancy.
+Tell your doctor if you are pregnant or plan to become pregnant.
 
-If you become pregnant while taking TRI-LUMA Cream, tell your doctor right away.
-You should discuss the chances that your baby may be harmed.
-Using TRI-LUMA Cream early in pregnancy may be more likely to produce birth defects than using it later in pregnancy.
+If you become pregnant while using TRI-LUMA Cream, tell your doctor right away.
 
 What is TRI-LUMA Cream?
 
-TRI-LUMA (try-LOOM-ah) Cream is a medicine with three active components.
-You put TRI-LUMA Cream on your face to treat a skin condition called melasma.
-Melasma consists of dark (hyperpigmented) spots on facial skin, especially on the cheeks and forehead.
-This condition usually happens with hormone changes.
+TRI-LUMA Cream is a prescription medicine used for the short-term treatment of moderate to severe melasma of the face, in combination with sun avoidance and the use of sunscreens.
 
-TRI-LUMA Cream is for SHORT-TERM (up to 8 weeks) treatment of moderate to severe melasma of the face.
-It is NOT FOR LONG-TERM (more than 8 weeks) or maintenance (continuous) treatment of melasma.
-Milder forms of melasma may not need treatment with medicine.
-Melasma can also be managed by staying out of the sun or by stopping the use of birth control methods that involve hormones.
+TRI-LUMA Cream is not for continuous treatment of melasma.
 
-In studies, after 8 weeks of treatment with TRI-LUMA Cream, most patients had at least some improvement.
-Some had their dark spots clear up completely (38% in one study and 13% in another).
-In most patients treated with TRI-LUMA Cream, their melasma came back after treatment.
-If the underlying cause of melasma, such as the use of certain birth control pills or too much exposure to sunlight, are not removed, melasma will come back when you stop treatment.
-TRI-LUMA Cream may improve your melasma, but it is NOT a cure.
+It is not known if TRI-LUMA Cream is safe and effective in children.
+
+It is not known if TRI-LUMA Cream is safe and effective in people with dark brown to black skin color.
+
+It is not known if TRI-LUMA Cream is safe and effective in the treatment of dark spots (hyperpigmentation) of the skin caused by conditions other than melasma of the face.
+
+It is not known if TRI-LUMA Cream is safe and effective in females who are pregnant or who are breastfeeding.
+See “What is the most important information I should know about TRI-LUMA Cream?” and “What should I tell my doctor before using TRI-LUMA Cream?”
 
 Who should not use TRI-LUMA Cream?
 
-Do not use TRI-LUMA if you are allergic to the medicine or any of its ingredients.
-See the end of this leaflet for a list of ingredients.
+Do not use TRI-LUMA Cream if you are allergic to it or any of the ingredients in TRI-LUMA Cream.
+See the end of this leaflet for a complete list of ingredients in TRI-LUMA Cream.
 
-What should I tell my doctor before taking TRI-LUMA?
+What should I tell my doctor before using TRI-LUMA Cream?
 
-If you are pregnant, think you are pregnant, plan to be pregnant or are nursing an infant, tell your doctor.
-Your doctor will decide with you whether the benefits in using TRI-LUMA Cream will be greater than the risks.
-If possible, delay treatment with TRI-LUMA Cream until after the baby is born.
+Before you use TRI-LUMA Cream, tell your doctor if you:
 
-Tell your doctor about all the other medicines and skin products you use, including prescription and non-prescription medicines, cosmetics, and supplements.
-They may make your skin more sensitive to sunlight.
+- are allergic to sulfites
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
+  See “What is the most important information I should know about TRI-LUMA Cream?”
+- are breastfeeding or plan to breastfeed.
+  It is not known if TRI-LUMA Cream passes into your breast milk.
+  You should avoid skin-to-skin contact between areas treated with TRI-LUMA Cream and your baby.
+
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal supplements and skin products that you use.
 
 How should I use TRI-LUMA Cream?
 
-TRI-LUMA Cream should be used as instructed by your doctor.
-
-To help you use the medicine correctly, follow these steps:
-
-- Gently wash your face with a mild cleanser.
-  Don’t use a wash cloth to apply the cleanser, just your fingers.
-  Rinse and pat your skin dry.
-- Apply TRI-LUMA Cream at night, at least 30 minutes before bedtime.
-- Put a small amount (pea sized or 1/2 inch or less) of TRI-LUMA Cream on your fingertip.
-  Apply a thin coat onto the discolored spot(s).
+- Use TRI-LUMA Cream exactly as your doctor tells you to use it.
+- Before you apply TRI-LUMA Cream, gently wash your face with a mild cleanser.
+  Rinse your face and pat your skin dry.
+- Apply TRI-LUMA Cream 1 time a day, at least 30 minutes before bedtime.
+- Apply a thin layer of TRI-LUMA Cream to the affected skin areas.
   Include about 1/2 inch of normal skin surrounding the affected area.
-  After you have used the medicine for a while, you may find that you need slightly less to do the job.
-- Rub the medicine lightly and uniformly into your skin.
-  The medicine should become invisible almost at once.
-  If you can still see it, you are using too much.
-- Keep the medicine away from the corners of your nose, your mouth, eyes and open wounds.
-  Spread it away from those areas when applying it.
-- Do not use more TRI-LUMA Cream or apply it more often than recommended by your doctor.
-  Too much TRI-LUMA Cream may irritate your skin, waste medicine, and won’t give you faster or better results.
-- Do not cover the treated area with anything after applying TRI-LUMA Cream.
-- If your skin gets too irritated, stop using TRI-LUMA Cream, and let your doctor know.
-- To help avoid skin dryness, you may use a moisturizer in the morning after you wash your face.
-- You may also use a moisturizer and cosmetics during the day.
-
-Use a sunscreen of at least SPF 30 and a wide-brimmed hat over the treated areas.
-It requires only a small amount of sunlight to worsen melasma.
-Melasma can get worse even if you don’t get sunburn.
-
-Only your doctor knows which other medicines may be helpful during treatment, and will tell you about them if needed.
-Do not use other medicines unless your doctor approves them.
-
-If you get sunburned, stop using TRI-LUMA Cream until your skin is healed.
-
-After stopping TRI-LUMA treatment, continue to protect your skin from sunlight.
+- Gently rub TRI-LUMA Cream evenly into your skin.
+- Do not get TRI-LUMA Cream near the corners of your mouth, your nose, your eyes, or open wounds.
+- Do not bandage or cover the treated skin after applying TRI-LUMA Cream.
+- You may use moisturizers and cosmetics during the day.
+- Wash your hands after applying TRI-LUMA Cream.
 
 What should I avoid while using TRI-LUMA Cream?
 
-Sunlight or ultraviolet light.
-Too much natural sunlight or artificial sunlight from a sunlamp can cause sunburn.
-Dark skin patches may become darker when the skin is exposed to sunlight.
-You don’t have to have a sunburn to make your melasma worse.
+- You should avoid sunlight, sunlamps, tanning beds, and ultraviolet light during treatment with TRI-LUMA Cream.
 
-TRI-LUMA can make your skin more likely to get sunburn or develop other unwanted effects from the sun.
-Protect your skin from natural sunlight as much as possible to help prevent further darkening of existing dark patches and formation of new ones.
-Staying out of the sun is especially important for women who take birth control pills or hormone replacement therapy, and for people who have had dark patches in the past.
+- Use sunscreen with an SPF (sun protection factor) of 30 or more.
+  If you have to be in the sunlight, wear a wide-brimmed hat or other protective clothing to cover the treated areas.
+- Melasma can get worse with even a small amount of sunlight.
+  You should continue to avoid sunlight, use sunscreen, and wear protective clothing after treatment with TRI-LUMA Cream.
 
-Use an effective sunscreen any time you are outside, even on hazy days.
-The sunscreen should have SPF (sun protection factor) of 30 or more.
-Use sunscreen year-round on areas of the skin that are regularly exposed to sunlight, such as your face and hands.
-If possible, protect the treated area from sunlight exposure.
-
-If you spend a lot of time outside, be especially careful of sunlight.
-Ask your doctor what SPF level will give you the needed high level of protection.
-If you will be outside, wear protective clothing, including a hat.
-
-Do not use sunlamps while you use TRI-LUMA Cream.
-
-Heat, wind and cold.
-Heat and cold tend to dry or irritate normal skin.
-Skin treated with TRI-LUMA Cream may be more likely to react to heat and cold.
-Your doctor can recommend ways to manage your melasma under these conditions.
-
-Other skin products and medicines.
-Avoid products that may dry or irritate your skin.
-These may include soaps and cleansers that are rough or cause drying; certain astringents, such as alcohol-containing products, soaps and toiletries containing alcohol, spices, or lime; or certain medicated soaps, shampoos, and hair permanent products.
-Do not use any other medicines with TRI-LUMA Cream unless you have consulted your doctor.
-The medicines and product you have used in the past may cause redness or peeling when used with TRI-LUMA.
+- Females should avoid the use of hormonal forms of birth control.
+  Hormonal birth control methods can cause your melasma to become worse.
+  Talk to your doctor about other birth control options.
+- Heat and cold weather may irritate skin treated with TRI-LUMA.
+  Talk with your doctor about ways to manage skin irritation.
 
 What are the possible side effects of TRI-LUMA Cream?
 
-A very few patients may get severe allergic reactions from TRI-LUMA.
-This includes people allergic to sulfites.
-They may have trouble breathing or severe asthma attacks, which can be life-threatening.
+TRI-LUMA Cream may cause serious side effects, including:
 
-While you use TRI-LUMA Cream, your skin may develop mild to moderate redness, peeling, burning, dryness, or itching.
+- allergic reactions.
+TRI-LUMA Cream may cause allergic reactions that can be life threatening.
+Stop using TRI-LUMA Cream and call your doctor or get medical help right away if you get any of the following symptoms:
 
-TRI-LUMA Cream contains a corticosteroid medicine as one of its active components.
-The following side effects have been reported with application of corticosteroid medicines to the skin: itching, irritation, dryness, infection of the hair follicles, acne, change in skin color, inflammation around the mouth, allergic skin reaction, skin infection, skin thinning, stretch marks, and sweat problems.
+- swelling of your face, eyes, lips, tongue, or throat
+- trouble breathing
+- severe itching
+- skin rash or hives
 
-Stop using TRI-LUMA Cream and contact your doctor if you have
+- change in skin color.
+One of the medicines in TRI-LUMA Cream can cause a blue-black darkening of your skin.
+Stop using TRI-LUMA Cream and tell you doctor if you develop a blue-black darkening of your skin.
 
-- severe or continued irritation, blistering, oozing, scaling, or crusting
-- severe burning or swelling of your skin
-- irritation of your eyes, nose, and mouth
+- TRI-LUMA Cream can pass through your skin.
+Too much TRI-LUMA Cream passing through your skin can cause your adrenal glands to stop working.
+Your doctor may do blood tests to check for adrenal gland problems.
 
-Some patients using TRI-LUMA Cream develop dark spots on their skin (hyperpigmentation), tingling, increased skin sensitivity, rash, acne, skin redness caused by a condition called rosacea, skin bumps, blisters, or tiny red lines or blood vessels showing through the skin (telangiectasia).
+- skin irritation.
+Stop using TRI-LUMA Cream and call your doctor if you have:
 
-If you are concerned about how your skin is reacting to the medicine, call your doctor.
+- blistering or crusting of your skin
+- severe burning
+- swelling of your skin
+- irritation of your eyes, nose, or mouth
 
-General information about prescription medicines
+The most common side effects of TRI-LUMA Cream include:
 
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not use TRI-LUMA for a condition for which it was not prescribed.
-Do not give TRI-LUMA to other people, even if they have the same symptoms you have.
+- redness
+- peeling
+- burning
+- dryness
+- itching
+- acne
+
+Tell your doctor if you have any side effect that bothers you or that does not go away.
+
+These are not all the possible side effects of TRI-LUMA Cream.
+For more information, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+You may also report side effects to Galderma Laboratories, L.P. at 1-866-735-4137.
+
+How should I store TRI-LUMA Cream?
+
+- Store TRI-LUMA Cream in a refrigerator, between 36°F to 46°F (2°C to 8 °C).
+- Keep TRI-LUMA Cream tube tightly closed.
+- Do not freeze TRI-LUMA Cream.
+
+General information about the safe and effective use of TRI-LUMA Cream
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use TRI-LUMA Cream for a condition for which it was not prescribed.
+Do not give TRI-LUMA Cream to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This leaflet summarizes the most important information about TRI-LUMA.
 If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about TRI-LUMA that is written for health professionals.
+You can ask your pharmacist or doctor for information about TRI-LUMA Cream that is written for health professionals.
 
-Ingredients: TRI-LUMA Cream contains fluocinolone acetonide, hydroquinone, and tretinoin as active ingredients, as well as the following in the cream base: butylated hydroxytoluene, cetyl alcohol, citric acid, glycerin, glyceryl stearate, magnesium aluminum silicate, methyl gluceth-10, methylparaben, PEG-100 stearate, propylparaben, purified water, sodium metabisulfite, stearic acid, and stearyl alcohol.
+What are the ingredients in TRI-LUMA Cream?
 
-Marketed by: GALDERMA LABORATORIES, L.P.
+Active ingredients: fluocinolone acetonide, hydroquinone, and tretinoin
+
+Inactive ingredients: butylated hydroxytoluene, cetyl alcohol, citric acid anhydrous, glycerin, glyceryl stearate, magnesium aluminum silicate, methyl gluceth-10, methylparaben, PEG-100 stearate, propylparaben, purified water, sodium metabisulfite, stearic acid, and stearyl alcohol
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Marketed by:
+
+GALDERMA LABORATORIES, L.P.
+
 Fort Worth, TX 76177 USA
 
 Manufactured by:
 
-Hill Dermaceuticals, Inc. Sanford, FL 32773 USA
+Hill Dermaceuticals, Inc.
+
+Sanford, FL 32773 USA
 
 or
 
-Manufactured by: G Production Inc. Baie d’Urfé, QC, H9X 3S4 Canada Made in Canada.
+Manufactured by:
 
-P52091-0 Revised: January 2013
+G Production Inc.
+
+Baie d’Urfé, QC, H9X 3S4 Canada
+
+Made in Canada.
+
+Revised: March 2014

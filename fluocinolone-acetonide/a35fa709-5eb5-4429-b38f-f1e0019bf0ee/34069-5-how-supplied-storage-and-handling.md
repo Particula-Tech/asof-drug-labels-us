@@ -1,29 +1,7 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-TRI-LUMA Cream is supplied in 30 g aluminum tubes,
+TRI-LUMA Cream is light yellow in color, and supplied in 30 g aluminum tubes, NDC 0299-5950-30.
 
-NDC 0299-5950-30.
-
-Storage: Keep tightly closed.
-Store in a refrigerator, 36° – 46°F (2° – 8°C).
+Storage:Keep tightly closed.
+Store in a refrigerator, 2° - 8°C (36° - 46°F).
 Protect from freezing.
-
-Marketed by:
-
-GALDERMA LABORATORIES, L.P.Fort Worth, TX 76177 USA
-
-Manufactured by:
-
-Hill Dermaceuticals, Inc.Sanford, FL 32773 USA
-
-or
-
-Manufactured by:
-
-G Production Inc.
-
-Baie d’Urfé, QC, H9X 3S4 Canada
-
-Made in Canada.
-
-P52091-0 Revised: January 2013
