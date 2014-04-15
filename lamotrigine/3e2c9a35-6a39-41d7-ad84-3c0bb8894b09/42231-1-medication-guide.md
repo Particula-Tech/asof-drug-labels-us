@@ -22,14 +22,15 @@ The risk of getting a rash is higher if you:
 
 - •take LAMICTAL XR while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)].
 - •take a higher starting dose of LAMICTAL XR than your healthcare provider prescribed.
-- •increase your dose of LAMICTAL XR faster than prescribed.LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like the liver or blood cells.
+- •increase your dose of LAMICTAL XR faster than prescribed.
+- LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like the liver or blood cells.
   You may or may not have a rash with these types of reactions.
 
 Call your healthcare provider right away if you have any of the following:
 
 - •a skin rash
 - •hives
-  - ∘fever
+  - •fever
 - •swollen lymph glands
 - •painful sores in the mouth or around your eyes
 - •swelling of your lips or tongue
