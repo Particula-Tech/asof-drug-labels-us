@@ -24,14 +24,14 @@ Renal function must be carefully monitored in all patients receiving Zometa and 
 
 ## 2.2 Multiple Myeloma and Metastatic Bone Lesions of Solid Tumors
 
-The recommended dose of Zometa in patients with multiple myeloma and metastatic bone lesions from solid tumors for patients with creatinine clearance greater than 60 mL/min is 4 mg infused over no less than 15 minutes every 3-4 weeks.
+The recommended dose of Zometa in patients with multiple myeloma and metastatic bone lesions from solid tumors for patients with creatinine clearance (CrCl) greater than 60 mL/min is 4 mg infused over no less than 15 minutes every 3 to 4 weeks.
 The optimal duration of therapy is not known.
 
 Upon treatment initiation, the recommended Zometa doses for patients with reduced renal function (mild and moderate renal impairment) are listed in Table 1.
-These doses are calculated to achieve the same AUC as that achieved in patients with creatinine clearance of 75 mL/min.
-Creatinine clearance (CrCl) is calculated using the Cockcroft-Gault formula [see Warnings and Precautions (5.2)].
+These doses are calculated to achieve the same area under the curve (AUC) as that achieved in patients with creatinine clearance of 75 mL/min.
+CrCl is calculated using the Cockcroft-Gault formula [see Warnings and Precautions (5.2)].
 
-Table 1: Reduced Doses for Patients with Baseline CrCl Less Than or Equal to 60 mL/min
+Table 1: Reduced Doses for Patients with Baseline CrCl Less than or Equal to 60 mL/min
 
 | Baseline Creatinine Clearance (mL/min) | Zometa Recommended Dose* |
 | --- | --- |
@@ -47,7 +47,7 @@ In the clinical studies, renal deterioration was defined as follows: For patient
 In the clinical studies, Zometa treatment was resumed only when the creatinine returned to within 10% of the baseline value.
 Zometa should be reinitiated at the same dose as that prior to treatment interruption.
 
-Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 IU of Vitamin D daily.
+Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of Vitamin D daily.
 
 ## 2.3 Preparation of Solution
 
@@ -57,7 +57,7 @@ Zometa must not be mixed with calcium or other divalent cation-containing infusi
 
 Bottles of Zometa ready-to-use solution for infusion contain overfill allowing for the administration of 100 mL of solution (equivalent to 4 mg zoledronic acid).
 This solution is ready-to-use and may be administered directly to the patient without further preparation.
-For single use only
+For single use only.
 
 To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the Zometa solution from the bottle (see Table 2) and replace with an equal volume of sterile 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP.
 Administer the newly-prepared dose-adjusted solution to the patient by infusion.

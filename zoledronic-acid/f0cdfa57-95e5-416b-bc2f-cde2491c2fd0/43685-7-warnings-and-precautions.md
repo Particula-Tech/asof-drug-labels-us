@@ -67,7 +67,7 @@ It is unknown whether the risk of atypical femur fracture continues after stoppi
 
 ## 5.7 Patients with Asthma
 
-While not observed in clinical trials with Zometa, there have been reports of bronchoconstriction in aspirin sensitive patients receiving bisphosphonates.
+While not observed in clinical trials with Zometa, there have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates.
 
 ## 5.8 Hepatic Impairment
 

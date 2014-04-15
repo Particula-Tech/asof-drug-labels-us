@@ -5,7 +5,7 @@
 - Zometa should not be given if the patient is pregnant or plans to become pregnant, or if she is breastfeeding.
 - Patients should be advised to have a dental examination prior to treatment with Zometa and should avoid invasive dental procedures during treatment.
 - Patients should be informed of the importance of good dental hygiene and routine dental care.
-- Patients with multiple myeloma and bone metastasis of solid tumors should be advised to take an oral calcium supplement of 500 mg and a multiple vitamin containing 400 IU of Vitamin D daily.
+- Patients with multiple myeloma and bone metastasis of solid tumors should be advised to take an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of Vitamin D daily.
 - Patients should be advised to report any thigh, hip, or groin pain.
   It is unknown whether the risk of atypical femur fracture continues after stopping therapy.
 - Patients should be aware of the most common side effects including: anemia, nausea, vomiting, constipation, diarrhea, fatigue, fever, weakness, lower limb edema, anorexia, decreased weight, bone pain, myalgia, arthralgia, back pain, malignant neoplasm aggravated, headache, dizziness, insomnia, paresthesia, dyspnea, cough, and abdominal pain.
@@ -16,4 +16,4 @@ Manufactured by Novartis Pharma Stein AG Stein, Switzerland for Novartis Pharmac
 
 © Novartis
 
-T2013-75 September 2013
+T2014-40 April 2014

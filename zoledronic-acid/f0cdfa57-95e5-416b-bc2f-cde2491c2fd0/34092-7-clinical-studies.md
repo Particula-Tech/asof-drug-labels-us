@@ -7,7 +7,7 @@ NOTE: Administration of Zometa 4 mg given as a 5-minute intravenous infusion has
 The incidence of renal toxicity and renal failure has been shown to be reduced when Zometa 4 mg is given as a 15-minute intravenous infusion.
 Zometa should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5.1 and 5.2) and Dosage and Administration (2.4)].
 The treatment groups in the clinical studies were generally well balanced with regards to age, sex, race, and tumor types.
-The mean age of the study population was 59 years; 81% were Caucasian, 15% were black, and 4% were of other races.
+The mean age of the study population was 59 years; 81% were Caucasian, 15% were Black, and 4% were of other races.
 60% of the patients were male.
 The most common tumor types were lung, breast, head and neck, and renal.
 
@@ -34,7 +34,7 @@ Table 11: Secondary Efficacy Variables in Pooled HCM Studies
 | Duration of Response | N | Median Duration (Days) | N | Median Duration (Days) |
 | Time to Relapse | 86 | 30* | 99 | 17 |
 | Duration of Complete Response | 76 | 32 | 69 | 18 |
-| *P less than 0.05 versus pamidronate 90 mg. |  |  |  |  |
+| * P less than 0.05 versus pamidronate 90 mg. |  |  |  |  |
 
 ## 14.2 Clinical Trials in Multiple Myeloma and Bone Metastases of Solid Tumors
 
@@ -60,7 +60,7 @@ Table 12: Overview of Efficacy Population for Phase III Studies
 | Multiple myeloma or metastatic breast cancer | 1,648 | 4 and 8* mg Q3-4 weeks | Pamidronate 90 mg Q3-4 weeks | 12.0 months (13 months) |
 | Metastatic prostate cancer | 643 | 4 and 8* mg Q3 weeks | Placebo | 10.5 months (15 months) |
 | Metastatic solid tumor other than breast or prostate cancer | 773 | 4 and 8* mg Q3 weeks | Placebo | 3.8 months (9 months) |
-| *Patients who were randomized to the 8 mg Zometa group are not included in any of the analyses in this package insert. |  |  |  |  |
+| * Patients who were randomized to the 8 mg Zometa group are not included in any of the analyses in this package insert. |  |  |  |  |
 
 Each study evaluated skeletal-related events (SREs), defined as any of the following: pathologic fracture, radiation therapy to bone, surgery to bone, or spinal cord compression.
 Change in antineoplastic therapy due to increased pain was a SRE in the prostate cancer study only.
@@ -80,7 +80,7 @@ Table 13: Zometa Compared to Placebo in Patients with Bone Metastases from Prost
 
 In the breast cancer and myeloma trial, efficacy was determined by a noninferiority analysis comparing Zometa to pamidronate 90 mg for the proportion of patients with a SRE.
 This analysis required an estimation of pamidronate efficacy.
-Historical data from 1,128 patients in three pamidronate placebo-controlled trials demonstrated that pamidronate decreased the proportion of patients with a SRE by 13.1% (95% CI = 7.3%, 18.9%).
+Historical data from 1,128 patients in three pamidronate placebo-controlled trials demonstrated that pamidronate decreased the proportion of patients with a SRE by 13.1% (95% CI=7.3%, 18.9%).
 Results of the comparison of treatment with Zometa compared to pamidronate are given in Table 14.
 
 Table 14: Zometa Compared to Pamidronate in Patients with Multiple Myeloma or Bone Metastases from Breast Cancer

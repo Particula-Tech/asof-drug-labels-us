@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precaution (5.9)]
+Pregnancy Category D [see Warnings and Precautions (5.9)]
 
 There are no adequate and well-controlled studies of Zometa in pregnant women.
 Zometa may cause fetal harm when administered to a pregnant woman.
@@ -20,7 +20,7 @@ This appears to be a bisphosphonate-class effect.
 
 In pregnant rats given a subcutaneous dose of zoledronic acid of 0.1, 0.2, or 0.4 mg/kg/day during gestation, adverse fetal effects were observed in the mid- and high-dose groups (with systemic exposures of 2.4 and 4.8 times, respectively, the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
 These adverse effects included increases in pre- and postimplantation losses, decreases in viable fetuses, and fetal skeletal, visceral, and external malformations.
-Fetal skeletal effects observed in the high-dose group included unossified or incompletely ossified bones, thickened, curved or shortened bones, wavy ribs, and shortened jaw.
+Fetal skeletal effects observed in the high-dose group included unossified or incompletely ossified bones, thickened, curved, or shortened bones, wavy ribs, and shortened jaw.
 Other adverse fetal effects observed in the high-dose group included reduced lens, rudimentary cerebellum, reduction or absence of liver lobes, reduction of lung lobes, vessel dilation, cleft palate, and edema.
 Skeletal variations were also observed in the low-dose group (with systemic exposure of 1.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
 Signs of maternal toxicity were observed in the high-dose group and included reduced body weights and food consumption, indicating that maximal exposure levels were achieved in this study.
@@ -39,8 +39,8 @@ Zoledronic acid binds to bone long term and may be released over weeks to years.
 
 Zometa is not indicated for use in children.
 
-The safety and effectiveness of zoledronic acid was studied in a one-year active-controlled trial of 152 pediatric subjects (74 receiving zoledronic acid).
-The enrolled population was subjects with severe osteogenesis imperfecta, aged 1-17 years, 55% male, 84% Caucasian, with a mean lumbar spine BMD of 0.431 gm/cm2, which is 2.7 standard deviations below the mean for age-matched controls (BMD Z-score of -2.7).
+The safety and effectiveness of zoledronic acid was studied in a one-year, active-controlled trial of 152 pediatric subjects (74 receiving zoledronic acid).
+The enrolled population was subjects with severe osteogenesis imperfecta, aged 1-17 years, 55% male, 84% Caucasian, with a mean lumbar spine bone mineral density (BMD) of 0.431 gm/cm2, which is 2.7 standard deviations below the mean for age-matched controls (BMD Z-score of -2.7).
 At one year, increases in BMD were observed in the zoledronic acid treatment group.
 However, changes in BMD in individual patients with severe osteogenesis imperfecta did not necessarily correlate with the risk for fracture or the incidence or severity of chronic bone pain.
 The adverse events observed with Zometa use in children did not raise any new safety findings beyond those previously seen in adults treated for hypercalcemia of malignancy or bone metastases.

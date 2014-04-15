@@ -15,7 +15,7 @@ Renal Toxicity
 
 Administration of Zometa 4 mg given as a 5-minute intravenous infusion has been shown to result in an increased risk of renal toxicity, as measured by increases in serum creatinine, which can progress to renal failure.
 The incidence of renal toxicity and renal failure has been shown to be reduced when Zometa 4 mg is given as a 15-minute intravenous infusion.
-Zometa should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5) and Dosage and Administration (2)].
+Zometa should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5.3), Dosage and Administration (2.4)].
 
 The most frequently observed adverse events were fever, nausea, constipation, anemia, and dyspnea (see Table 4).
 
@@ -71,12 +71,13 @@ Rare cases of rash, pruritus, and chest pain have been reported following treatm
 
 Acute Phase Reaction
 
-Within three days after Zometa administration, an acute phase reaction has been reported in patients, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, and influenza-like illness; these symptoms usually resolve within a few days.
+Within three days after Zometa administration, an acute phase reaction has been reported in patients, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, and influenza-like illness.
+These symptoms usually resolve within a few days.
 Pyrexia has been the most commonly associated symptom, occurring in 44% of patients.
 
 Mineral and Electrolyte Abnormalities
 
-Electrolyte abnormalities, most commonly hypocalcemia, hypophosphatemia and hypomagnesemia, can occur with bisphosphonate use.
+Electrolyte abnormalities, most commonly hypocalcemia, hypophosphatemia, and hypomagnesemia, can occur with bisphosphonate use.
 
 Grade 3 and Grade 4 laboratory abnormalities for serum creatinine, serum calcium, serum phosphorus, and serum magnesium observed in two clinical trials of Zometa in patients with HCM are shown in Table 5 and 6.
 
@@ -103,7 +104,7 @@ Table 6: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Hypocalcemia2 | 0/86 | — | 0/100 | — |
 | Hypophosphatemia3 | 1/70 | (1%) | 4/81 | (5%) |
 | Hypomagnesemia4 | 0/71 | — | 1/84 | (1%) |
-| 1Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) 2Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L) |  |  |  |  |
+| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4 Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L) |  |  |  |  |
 
 Injection Site Reactions
 
@@ -113,7 +114,7 @@ In most cases, no specific treatment is required and the symptoms subside after 
 Ocular Adverse Events
 
 Ocular inflammation such as uveitis and scleritis can occur with bisphosphonate use, including Zometa.
-No cases of iritis, scleritis or uveitis were reported during these clinical trials.
+No cases of iritis, scleritis, or uveitis were reported during these clinical trials.
 However, cases have been seen in postmarketing use [see Adverse Reactions (6.2)].
 
 Multiple Myeloma and Bone Metastases of Solid Tumors
@@ -201,7 +202,7 @@ Table 8: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Hypophosphatemia3 | 115/973 | (12%) | 38/537 | (7%) | 14/415 | (3%) |
 | Hypermagnesemia4 | 19/971 | (2%) | 2/535 | (<1%) | 8/415 | (2%) |
 | Hypomagnesemia5 | 1/971 | (<1%) | 0/535 | — | 1/415 | (<1%) |
-| 1Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) *Serum creatinine data for all patients randomized after the 15-minute infusion amendment 2Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L) 5Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L) |  |  |  |  |  |  |
+| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) * Serum creatinine data for all patients randomized after the 15-minute infusion amendment 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4 Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L) 5 Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L) |  |  |  |  |  |  |
 
 Table 9: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Three Clinical Trials in Patients with Bone Metastases
 
@@ -215,7 +216,7 @@ Table 9: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Hypophosphatemia3 | 5/973 | (<1%) | 0/537 | — | 1/415 | (<1%) |
 | Hypermagnesemia4 | 0/971 | — | 0/535 | — | 2/415 | (<1%) |
 | Hypomagnesemia5 | 2/971 | (<1%) | 1/535 | (<1%) | 0/415 | — |
-| 1Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) *Serum creatinine data for all patients randomized after the 15-minute infusion amendment 2Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L) 5Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L) |  |  |  |  |  |  |
+| 1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) * Serum creatinine data for all patients randomized after the 15-minute infusion amendment 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4 Grade 3 (greater than 3 mEq/L); Grade 4 (greater than 8 mEq/L) 5 Grade 3 (less than 0.9 mEq/L); Grade 4 (less than 0.7 mEq/L) |  |  |  |  |  |  |
 
 Among the less frequently occurring adverse events (less than 15% of patients), rigors, hypokalemia, influenza-like illness, and hypocalcemia showed a trend for more events with bisphosphonate administration (Zometa 4 mg and pamidronate groups) compared to the placebo group.
 
@@ -227,7 +228,7 @@ Renal Toxicity
 In the bone metastases trials, renal deterioration was defined as an increase of 0.5 mg/dL for patients with normal baseline creatinine (less than 1.4 mg/dL) or an increase of 1.0 mg/dL for patients with an abnormal baseline creatinine (greater than or equal to1.4 mg/dL).
 The following are data on the incidence of renal deterioration in patients receiving Zometa 4 mg over 15 minutes in these trials (see Table 10).
 
-Table 10: Percentage of Patients with Treatment Emergent Renal Function Deterioration by Baseline Serum Creatinine*
+Table 10: Percentage of Patients with Treatment-Emergent Renal Function Deterioration by Baseline Serum Creatinine*
 
 | Patient Population/Baseline Creatinine |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -250,7 +251,7 @@ Table 10: Percentage of Patients with Treatment Emergent Renal Function Deterior
 
 The risk of deterioration in renal function appeared to be related to time on study, whether patients were receiving Zometa (4 mg over 15 minutes), placebo, or pamidronate.
 
-In the trials and in postmarketing experience, renal deterioration, progression to renal failure and dialysis have occurred in patients with normal and abnormal baseline renal function, including patients treated with 4 mg infused over a 15-minute period.
+In the trials and in postmarketing experience, renal deterioration, progression to renal failure, and dialysis have occurred in patients with normal and abnormal baseline renal function, including patients treated with 4 mg infused over a 15-minute period.
 There have been instances of this occurring after the initial Zometa dose.
 
 ## 6.2 Postmarketing Experience
@@ -264,16 +265,16 @@ Cases of osteonecrosis (primarily involving the jaws) have been reported predomi
 Many of these patients were also receiving chemotherapy and corticosteroids which may be a risk factor for ONJ.
 Data suggests a greater frequency of reports of ONJ in certain cancers, such as advanced breast cancer and multiple myeloma.
 The majority of the reported cases are in cancer patients following invasive dental procedures, such as tooth extraction.
-It is therefore prudent to avoid invasive dental procedures as recovery may be prolonged [see Warnings and Precautions (5)].
+It is therefore prudent to avoid invasive dental procedures as recovery may be prolonged [see Warnings and Precautions (5.4)].
 
 Acute Phase Reaction
 
-Within three days after Zometa administration, an acute phase reaction has been reported, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, and influenza-like illness; these symptoms usually resolve within three days of onset, but resolution could take up to 7 to 14 days.
+Within three days after Zometa administration, an acute phase reaction has been reported, with symptoms including pyrexia, fatigue, bone pain and/or arthralgias, myalgias, chills, influenza-like illness and arthritis with subsequent joint swelling; these symptoms usually resolve within three days of onset, but resolution could take up to 7 to 14 days.
 However, some of these symptoms have been reported to persist for a longer duration.
 
 Musculoskeletal Pain
 
-Severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported with bisphosphonate use [see Warnings and Precautions (5)].
+Severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported with bisphosphonate use [see Warnings and Precautions (5.5)].
 
 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
 
@@ -291,4 +292,4 @@ Very rare cases of anaphylactic reaction/shock have also been reported.
 
 Additional adverse reactions reported in postmarketing use include:
 
-CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue, or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia.
+CNS: taste disturbance, hyperesthesia, tremor; Special Senses: blurred vision; Gastrointestinal: dry mouth; Skin: Increased sweating; Musculoskeletal: muscle cramps; Cardiovascular: hypertension, bradycardia, hypotension (associated with syncope or circulatory collapse primarily in patients with underlying risk factors); Respiratory: bronchospasms, interstitial lung disease (ILD) with positive rechallenge; Renal: hematuria, proteinuria; General Disorders and Administration Site: weight increase, influenza-like illness (pyrexia, asthenia, fatigue or malaise) persisting for greater than 30 days; Laboratory Abnormalities: hyperkalemia, hypernatremia.

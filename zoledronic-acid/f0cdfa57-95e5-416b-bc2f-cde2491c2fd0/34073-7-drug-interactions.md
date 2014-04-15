@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-In vitro studies indicate that the plasma protein binding of zoledronic acid is low, with the unbound fraction ranging from 60-77%.
+In vitro studies indicate that the plasma protein binding of zoledronic acid is low, with the unbound fraction ranging from 60%-77%.
 In vitro studies also indicate that zoledronic acid does not inhibit microsomal CYP450 enzymes.
 In vivo studies showed that zoledronic acid is not metabolized, and is excreted into the urine as the intact drug.
 
@@ -20,5 +20,5 @@ Caution is indicated when Zometa is used with other potentially nephrotoxic drug
 ## 7.4 Thalidomide
 
 No dose adjustment for Zometa 4 mg is needed when coadministered with thalidomide.
-In a pharmacokinetic study of 24 patients with multiple myeloma, Zometa 4 mg given as a 15 minute infusion was administered either alone or with thalidomide (100 mg once daily on days 1-14 and 200 mg once daily on days 15-28).
+In a pharmacokinetic study of 24 patients with multiple myeloma, Zometa 4 mg given as a 15-minute infusion was administered either alone or with thalidomide (100 mg once daily on days 1-14 and 200 mg once daily on days 15-28).
 Coadministration of thalidomide with Zometa did not significantly change the pharmacokinetics of zoledronic acid or creatinine clearance.
