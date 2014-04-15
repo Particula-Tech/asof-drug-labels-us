@@ -1,10 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See the FDA-approved Medication Guide for the oral formulations.
+See FDA-approved Medication Guide.
 
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking olanzapine as monotherapy.
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking olanzapine as monotherapy or in combination with fluoxetine.
 If you do not think you are getting better or have any concerns about your condition while taking olanzapine, call your doctor.
-When using olanzapine and fluoxetine in combination, also refer to the Patient Counseling Information section of the package insert for olanzapine and fluoxetine in combination.
+When using olanzapine and fluoxetine in combination, also refer to the Patient Counseling Information section of the package insert for Symbyax.
 
 ## 17.1 Information on Medication Guide
 
@@ -12,11 +12,11 @@ Prescribers or other health professionals should inform patients, their families
 A patient Medication Guide is available for olanzapine.
 Prescribers or other health professionals should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-When using olanzapine and fluoxetine in combination, also refer to the Medication Guide for olanzapine and fluoxetine in combination.
+When using olanzapine and fluoxetine in combination, also refer to the Medication Guide for Symbyax.
 
 ## 17.2 Elderly Patients with Dementia-Related Psychosis: Increased Mortality and Cerebrovascular Adverse Events (CVAE), Including Stroke
 
-Patients and caregivers should be advised that elderly patients with dementia-related psychosis treated with antipsychotic drugs are at increased risk of death.
+Patients and caregivers should be advised that elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Patients and caregivers should be advised that elderly patients with dementia-related psychosis treated with olanzapine had a significantly higher incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack) compared with placebo.
 
 Olanzapine is not approved for elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
@@ -59,7 +59,7 @@ Patients should be advised to call their doctor right away if they become severe
 
 ## 17.10 Concomitant Medication
 
-Patients should be advised to inform their physicians if they are taking, or plan to take, olanzapine and fluoxetine in combination.
+Patients should be advised to inform their physicians if they are taking, or plan to take, Symbyax.
 Patients should be advised to inform their physicians if they are taking, plan to take, or have stopped taking any prescription or over-the-counter drugs, including herbal supplements, since there is a potential for interactions [see Drug Interactions (7)].
 
 ## 17.11 Alcohol
@@ -82,23 +82,28 @@ Patients should be advised not to breastfeed an infant if they are taking olanza
 
 Pediatric Use
 
+Olanzapine is indicated for treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder in adolescents 13 to 17 years of age.
 Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic aminotransferase levels.
+Patients should be counseled about the potential long-term risks associated with olanzapine and advised that these risks may lead them to consider other drugs first [see Indications and Usage (1.1, 1.2)].
+Safety and effectiveness of olanzapine in patients under 13 years of age have not been established.
+Safety and effectiveness of olanzapine and fluoxetine in combination in patients < 10 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
 
-Safety and effectiveness of olanzapine in patients under 13 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
-
-Safety and effectiveness of olanzapine and fluoxetine in combination in patients <18 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
-
-Pediatric use information in pediatric patients with schizophrenia and bipolar 1 disorder is approved for Eli Lilly and Company’s olanzapine drugproduct labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatricinformation.
+Safety and effectiveness information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s olanzapine tablets and olanzapine orally disintegrating tablets.
+However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 17.14 Need for Comprehensive Treatment Program in Pediatric Patients
 
-Pediatric use information in pediatric patients with schizophrenia and bipolar 1 disorder is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Olanzapine is indicated as an integral part of a total treatment program for pediatric patients with schizophrenia and bipolar disorder that may include other measures (psychological, educational, social) for patients with the disorder.
+Effectiveness and safety of olanzapine have not been established in pediatric patients less than 13 years of age.
+Atypical antipsychotics are not intended for use in the pediatric patient who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
+Appropriate educational placement is essential and psychosocial intervention is often helpful.
+The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
+
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
 TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
 
-Iss.
-9/2011
+Rev.
+A 2/2014

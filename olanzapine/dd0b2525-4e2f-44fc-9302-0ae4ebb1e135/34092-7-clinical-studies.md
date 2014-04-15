@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-When using olanzapine and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for olanzapine and fluoxetine in combination.
+When using olanzapine and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
 ## 14.1 Schizophrenia
 
@@ -29,8 +29,15 @@ Examination of population subsets (race and gender) did not reveal any different
 
 Adolescents
 
-Clinical trial information in pediatric patients with schizophrenia is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The efficacy of oral olanzapine in the acute treatment of schizophrenia in adolescents (ages 13 to 17 years) was established in a 6 week double-blind, placebo-controlled, randomized trial of inpatients and outpatients with schizophrenia (n=107) who met diagnostic criteria according to DSM-IV-TR and confirmed by the Kiddie Schedule for Affective Disorders and Schizophrenia for School Aged Children-Present and Lifetime Version (K-SADS-PL).
+
+The primary rating instrument used for assessing psychiatric signs and symptoms in this trial was the Anchored Version of the Brief Psychiatric Rating Scale for Children (BPRS-C) total score.
+
+In this flexible-dose trial, olanzapine 2.5 to 20 mg/day (mean modal dose 12.5 mg/day, mean dose of 11.1 mg/day) was more effective than placebo in the treatment of adolescents diagnosed with schizophrenia, as supported by the statistically significantly greater mean reduction in BPRS-C total score for patients in the olanzapine treatment group than in the placebo group.
+
+While there is no body of evidence available to answer the question of how long the adolescent patient treated with olanzapine should be maintained, maintenance efficacy can be extrapolated from adult data along with comparisons of olanzapine pharmacokinetic parameters in adult and adolescent patients.
+It is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
+Patients should be periodically reassessed to determine the need for maintenance treatment.
 
 ## 14.2 Bipolar I Disorder (Manic or Mixed Episodes)
 
@@ -70,5 +77,15 @@ Olanzapine (in a dose range of 5 to 20 mg/day, once daily, starting at 10 mg/day
 
 Adolescents
 
-Clinical trial information in pediatric patients with bipolar 1 disorder is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Acute Monotherapy
+
+The efficacy of oral olanzapine in the treatment of acute manic or mixed episodes in adolescents (ages 13 to 17 years) was established in a 3 week, double-blind, placebo-controlled, randomized trial of adolescent inpatients and outpatients who met the diagnostic criteria for manic or mixed episodes associated with bipolar I disorder (with or without psychotic features) according to the DSM-IV-TR (n=161).
+Diagnosis was confirmed by the K-SADS-PL.
+
+The primary rating instrument used for assessing manic symptoms in this trial was the Adolescent Structured Young-Mania Rating Scale (Y-MRS) total score.
+
+In this flexible-dose trial, olanzapine 2.5 to 20 mg/day (mean modal dose 10.7 mg/day, mean dose of 8.9 mg/day) was more effective than placebo in the treatment of adolescents with manic or mixed episodes associated with bipolar I disorder, as supported by the statistically significantly greater mean reduction in Y-MRS total score for patients in the olanzapine treatment group than in the placebo group.
+
+While there is no body of evidence available to answer the question of how long the adolescent patient treated with olanzapine should be maintained, maintenance efficacy can be extrapolated from adult data along with comparisons of olanzapine pharmacokinetic parameters in adult and adolescent patients.
+It is generally recommended that responding patients be continued beyond the acute response, but at the lowest dose needed to maintain remission.
+Patients should be periodically reassessed to determine the need for maintenance treatment.

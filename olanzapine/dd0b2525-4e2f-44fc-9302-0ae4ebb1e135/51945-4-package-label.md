@@ -1,6 +1,8 @@
-# Principal Display Panel
+# Principal Display Panel, PART 1 OF 2
 
-## OLANZAPINE Orally Disintegrating Tablets 5 mg Carton Text
+# Principal Display Panel, PART 2 OF 2
+
+## OLANZAPINE Orally Disintegrating Tablets 5 mg, 30s Carton Text
 
 NDC 0093-5245-65
 
@@ -18,9 +20,11 @@ Rx only
 
 TEVA
 
-# Principal Display Panel
+# Principal Display Panel, PART 1 OF 2
 
-## OLANZAPINE Orally Disintegrating Tablets 10 mg Carton Text
+# Principal Display Panel, PART 2 OF 2
+
+## OLANZAPINE Orally Disintegrating Tablets 10 mg, 30s Carton Text
 
 NDC 0093-5246-65
 
@@ -38,9 +42,11 @@ Rx only
 
 TEVA
 
-# Principal Display panel
+# Principal Display panel, PART 1 OF 2
 
-## OLANZAPINE Orally Disintegrating Tablets 15 mg Carton Text
+# Principal Display panel, PART 2 OF 2
+
+## OLANZAPINE Orally Disintegrating Tablets 15 mg, 30s Carton Text
 
 NDC 0093-5247-65
 
@@ -58,9 +64,11 @@ Rx only
 
 TEVA
 
-# principal display panel
+# principal display panel, PART 1 OF 2
 
-## OLANZAPINE Orally Disintegrating Tablets 20 mg Carton Text
+# principal display panel, PART 2 OF 2
+
+## OLANZAPINE Orally Disintegrating Tablets 20 mg, 30s Carton Text
 
 NDC 0093-5248-65
 

@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-When using olanzapine and fluoxetine in combination, also refer to the Adverse Reactions section of the package insert for olanzapine and fluoxetine in combination.
+When using olanzapine and fluoxetine in combination, also refer to the Adverse Reactions section of the package insert for Symbyax.
 
 ## 6.1 Clinical Trials Experience
 
@@ -85,7 +85,7 @@ Table 10: Common Treatment-Emergent Adverse Reactions Associated with the Use of
 | Dizziness | 18 | 6 |
 | Tremor | 6 | 3 |
 
-Adverse Reactions Occurring at an Incidence of 2% or More among Oral Olanzapine-Treated Patients in Short Term, Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of 2% or More Among Oral Olanzapine-Treated Patients in Short Term, Placebo-Controlled Trials
 
 Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred in 2% or more of patients treated with oral olanzapine (doses > 2.5 mg/day) and with incidence greater than placebo who participated in the acute phase of placebo-controlled trials.
 
@@ -157,7 +157,7 @@ Table 12: Common Treatment-Emergent Adverse Reactions Associated with the Use of
 | Amnesia | 5 | 2 |
 | Paresthesia | 5 | 2 |
 
-Adverse Reactions Occurring at an Incidence of 2% or More among Oral Olanzapine-Treated Patients in Short Term Trials of Olanzapine as Adjunct to Lithium or Valproate
+Adverse Reactions Occurring at an Incidence of 2% or More Among Oral Olanzapine-Treated Patients in Short Term Trials of Olanzapine as Adjunct to Lithium or Valproate
 
 Table 13 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred in 2% or more of patients treated with the combination of olanzapine (doses ≥ 5 mg/day) and lithium or valproate and with incidence greater than lithium or valproate alone who participated in the acute phase of placebo-controlled combination trials.
 
@@ -224,8 +224,8 @@ Table 15: Treatment-Emergent Extrapyramidal Symptoms Assessed by Rating Scales I
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Placebo | Olanzapine 5 ± 2.5 mg/day | Olanzapine 10 ± 2.5 mg/day | Olanzapine 15 ± 2.5 mg/day |
-| ParkinsonismPercentage of patients with a Simpson-Angus Scale total score > 3. | 15 | 14 | 12 | 14 |
-| Akathisia Percentage of patients with a Barnes Akathisia Scale global score ≥ 2. | 23 | 16 | 19 | 27 |
+| ParkinsonismPercentage of patients with a Simpson-Angus Scale total score >3. | 15 | 14 | 12 | 14 |
+| AkathisiaPercentage of patients with a Barnes Akathisia Scale global score ≥2. | 23 | 16 | 19 | 27 |
 
 The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by spontaneously reported adverse reactions during acute therapy in the same controlled clinical trial comparing olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6 week trial.
 
@@ -325,7 +325,7 @@ Commonly Observed Adverse Reactions in Oral Olanzapine Short Term, Placebo-Contr
 
 Adverse reactions in adolescent patients treated with oral olanzapine (doses ≥ 2.5 mg) reported with an incidence of 5% or more and reported at least twice as frequently as placebo-treated patients are listed in Table 21.
 
-Table 21: Treatment-Emergent Adverse Reactions of ≥ 5% Incidence among Adolescents (13 to 17 Years Old) with Schizophrenia or Bipolar I Disorder (Manic or Mixed Episodes)
+Table 21: Treatment-Emergent Adverse Reactions of ≥ 5% Incidence Among Adolescents (13 to 17 Years Old) with Schizophrenia or Bipolar I Disorder (Manic or Mixed Episodes)
 
 | Adverse Reactions | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |

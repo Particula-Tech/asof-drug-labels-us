@@ -38,7 +38,7 @@ Fluoxetine
 
 Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) causes a small (mean 16%) increase in the maximum concentration of olanzapine and a small (mean 16%) decrease in olanzapine clearance.
 The magnitude of the impact of this factor is small in comparison to the overall variability between individuals, and therefore dose modification is not routinely recommended.
-When using olanzapine and fluoxetine in combination, also refer to the Drug Interactions section of the package insert for olanzapine and fluoxetine in combination.
+When using olanzapine and fluoxetine in combination, also refer to the Drug Interactions section of the package insert for Symbyax.
 
 Warfarin
 

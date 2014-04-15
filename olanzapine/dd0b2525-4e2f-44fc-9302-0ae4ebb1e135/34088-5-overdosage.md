@@ -15,6 +15,7 @@ In 1 case of death, the amount of acutely ingested olanzapine was reported to be
 
 ## 10.2 Management of Overdose
 
+For current information on the management of olanzapine overdose, contact a certified poison control center (1-800-222-1222 or www.poison.org).
 The possibility of multiple drug involvement should be considered.
 In case of acute overdosage, establish and maintain an airway and ensure adequate oxygenation and ventilation, which may include intubation.
 Gastric lavage (after intubation, if patient is unconscious) and administration of activated charcoal together with a laxative should be considered.
@@ -31,3 +32,4 @@ Hypotension and circulatory collapse should be treated with appropriate measures
 Close medical supervision and monitoring should continue until the patient recovers.
 
 For specific information about overdosage with lithium or valproate, refer to the Overdosage section of the package inserts for these products.
+For specific information about overdosage with olanzapine and fluoxetine in combination, refer to the Overdosage section of the Symbyax package insert.

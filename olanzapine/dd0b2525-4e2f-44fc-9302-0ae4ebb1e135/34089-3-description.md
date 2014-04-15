@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Olanzapine USP is an atypical antipsychotic that belongs to the thienobenzodiazepine class.
+Olanzapine Orally Disintegrating Tablets are an atypical antipsychotic that belongs to the thienobenzodiazepine class.
 The chemical designation is 2-methyl-4-(4-methyl-1-piperazinyl)-10H-thieno[2,3-b] [1,5]benzodiazepine and has the following chemical structure:
 
 Olanzapine USP is a yellow crystalline powder, which is practically insoluble in water.

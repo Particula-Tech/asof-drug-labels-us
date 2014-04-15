@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-When using olanzapine and fluoxetine in combination, also refer to the Warnings and Precautions section of the package insert for olanzapine and fluoxetine in combination.
+When using olanzapine and fluoxetine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
 
 ## 5.1 Elderly Patients with Dementia-Related Psychosis
 
@@ -368,7 +368,7 @@ In a pooled analysis from clinical trials including 454 adolescents treated with
 
 ## 5.16 Use in Combination with Fluoxetine, Lithium or Valproate
 
-When using olanzapine and fluoxetine in combination, the prescriber should also refer to the Warnings and Precautions section of the package insert for olanzapine and fluoxetine in combination.
+When using olanzapine and fluoxetine in combination, the prescriber should also refer to the Warnings and Precautions section of the package insert for Symbyax.
 When using olanzapine in combination with lithium or valproate, the prescriber should refer to the Warnings and Precautions sections of the package inserts for lithium or valproate [see Drug Interactions (7)].
 
 ## 5.17 Laboratory Tests

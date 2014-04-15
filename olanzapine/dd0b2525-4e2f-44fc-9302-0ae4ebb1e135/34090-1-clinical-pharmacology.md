@@ -10,7 +10,7 @@ The mechanism of action of olanzapine in the treatment of acute manic or mixed e
 
 Olanzapine binds with high affinity to the following receptors: serotonin 5HT2A/2C, 5HT6 (Ki = 4, 11, and 5 nM, respectively), dopamine D1-4 (Ki = 11 to 31 nM), histamine H1 (Ki = 7 nM), and adrenergic α1 receptors (Ki = 19 nM).
 Olanzapine is an antagonist with moderate affinity binding for serotonin 5HT3 (Ki = 57 nM) and muscarinic M1-5 (Ki = 73, 96, 132, 32, and 48 nM, respectively).
-Olanzapine binds weakly to GABAA, BZD, and β-adrenergic receptors (Ki > 10 mcgM).
+Olanzapine binds weakly to GABAA, BZD, and β-adrenergic receptors (Ki > 10 μM).
 
 Antagonism at receptors other than dopamine and 5HT2 may explain some of the other therapeutic and side effects of olanzapine.
 Olanzapine’s antagonism of muscarinic M1-5 receptors may explain its anticholinergic-like effects.
@@ -87,5 +87,4 @@ Dosing modification may be necessary in patients who exhibit a combination of fa
 
 Adolescents (ages 13 to 17 years)
 
-Pharmacokinetic information in pediatric patients is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+In clinical studies, most adolescents were nonsmokers and this population had a lower average body weight, which resulted in higher average olanzapine exposure compared to adults.
