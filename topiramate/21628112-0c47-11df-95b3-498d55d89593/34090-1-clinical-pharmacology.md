@@ -11,6 +11,13 @@ Topiramate has anticonvulsant activity in rat and mouse maximal electroshock sei
 Topiramate is only weakly effective in blocking clonic seizures induced by the GABAA receptor antagonist, pentylenetetrazole.
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
 
+Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for migraine prophylaxis.
+The most notable changes were SBP < 90 mm Hg, DBP < 50 mm Hg, SBP or DBP increases or decreases ≥ 20 mm Hg, and pulse increases or decreases ≥ 30 beats per minute.
+These changes were often dose-related, and were most frequently associated with the greatest treatment difference at the 200 mg dose level.
+When a position was specified for measurement of vital signs in a trial, measurements were made in a sitting position.
+Systematic collection of orthostatic vital signs has not been conducted.
+The clinical significance of these various changes in vital signs has not been clearly established.
+
 ## 12.3 Pharmacokinetics
 
 The sprinkle formulation is bioequivalent to the immediate-release tablet formulation and, therefore, may be substituted as a therapeutic equivalent.
@@ -39,7 +46,7 @@ In rats, given probenecid to inhibit tubular reabsorption, along with topiramate
 This interaction has not been evaluated in humans.
 Overall, oral plasma clearance (CL/F) is approximately 20 to 30 mL/min in adults following oral administration.
 
-Special Populations
+Specific Populations
 
 Renal Impairment
 
@@ -75,10 +82,10 @@ Clearance of topiramate in adults was not affected by gender or race.
 
 Pediatric Pharmacokinetics
 
-Pharmacokinetics of topiramate were evaluated in patients aged 2 to <16 years.
+Pharmacokinetics of topiramate were evaluated in patients age 2 to <16 years.
 Patients received either no or a combination of other antiepileptic drugs.
 A population pharmacokinetic model was developed on the basis of pharmacokinetic data from relevant topiramate clinical studies.
-This dataset contained data from 1217 subjects including 258 pediatric patients aged 2 to <16 years (95 pediatric patients <10 years of age).
+This dataset contained data from 1217 subjects including 258 pediatric patients age 2 to <16 years (95 pediatric patients <10 years of age).
 
 Pediatric patients on adjunctive treatment exhibited a higher oral clearance (L/h) of topiramate compared to patients on monotherapy, presumably because of increased clearance from concomitant enzyme-inducing antiepileptic drugs.
 In comparison, topiramate clearance per kg is greater in pediatric patients than in adults and in young pediatric patients (down to 2 years) than in older pediatric patients.
@@ -92,12 +99,12 @@ Drug-Drug Interactions
 Antiepileptic Drugs
 
 Potential interactions between topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 12.
+The effects of these interactions on mean plasma AUCs are summarized in Table 13.
 
-In Table 12, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
+In Table 13, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate in experimental settings when TOPAMAX® was given alone.
 
-Table 12: Summary of AED Interactions with TOPAMAX®
+Table 13: Summary of AED Interactions with TOPAMAX®
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |

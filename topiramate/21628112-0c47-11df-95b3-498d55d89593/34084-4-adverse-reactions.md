@@ -1,7 +1,5 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
 - Acute Myopia and Secondary Angle Closure [see Warnings and Precautions (5.1)]
@@ -20,23 +18,28 @@ The following adverse reactions are discussed in more detail in other sections o
 
 The data described in the following sections were obtained using TOPAMAX® (topiramate) Tablets.
 
-## 6.1 Monotherapy Epilepsy
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, the incidence of adverse reactions observed in the clinical trials of a drug cannot be directly compared to the incidence of adverse reactions in the clinical trials of another drug, and may not reflect the incidence of adverse reactions observed in practice.
+
+Monotherapy Epilepsy
 
 Adults ≥16 Years
 
-The adverse reactions in the controlled trial that occurred most commonly in adults in the 400 mg/day TOPAMAX® group and at a rate higher (≥ 5 %) than in the 50 mg/day group were: paresthesia, weight decrease, anorexia, somnolence, and difficulty with memory (see Table 5).
+The adverse reactions in the controlled trial that occurred most commonly in adults in the 400 mg/day TOPAMAX® group and at an incidence higher (≥ 5 %) than in the 50 mg/day group were: paresthesia, weight decrease, anorexia, somnolence, and difficulty with memory (see Table 5).
 
 Approximately 21% of the 159 adult patients in the 400 mg/day group who received topiramate as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
 The most common (≥ 2% more frequent than low-dose 50 mg/day TOPAMAX®) adverse reactions causing discontinuation in this trial were difficulty with memory, fatigue, asthenia, insomnia, somnolence, and paresthesia.
 
 Pediatric Patients 6 to <16 Years of Age
 
-The adverse reactions in the controlled trial that occurred most commonly in pediatric patients in the 400 mg/day TOPAMAX® group and at a rate higher (≥ 5%) than in the 50 mg/day group were fever, weight decrease, mood problems, cognitive problems, infection, flushing, and paresthesia (see Table 5).
+The adverse reactions in the controlled trial that occurred most commonly in pediatric patients in the 400 mg/day TOPAMAX® group and at an incidence higher (≥ 5%) than in the 50 mg/day group were fever, weight decrease, mood problems, cognitive problems, infection, flushing, and paresthesia (see Table 5).
+Table 5 also presents the incidence of adverse reactions occurring in at least 2% of adult and pediatric patients treated with 400 mg/day TOPAMAX® and occurring with greater incidence than 50 mg/day TOPAMAX®.
 
 Approximately 14% of the 77 pediatric patients in the 400 mg/day group who received TOPAMAX® as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
-The most common (≥ 2% more frequent than low-dose 50 mg/day TOPAMAX®) adverse reactions resulting in discontinuation in this trial were difficulty with concentration/attention, fever, flushing, and confusion.
+The most common (> 2% more frequent than low-dose 50 mg/day TOPAMAX®) adverse reactions resulting in discontinuation in this trial were difficulty with concentration/attention, fever, flushing, and confusion.
 
-Table 5: Incidence of Treatment-Emergent Adverse Reactions in Monotherapy Epilepsy Where the Rate Was at Least 2% in Any TOPAMAX® Group and the Rate in the 400 mg/day TOPAMAX® Group Was Greater Than the Rate in the 50 mg/day TOPAMAX® Group for Adults (≥16 Years) and Pediatric (6 to <16 Years) Patients in Study TOPMAX-EPMN-106
+Table 5: Incidence (%) of Treatment-Emergent Adverse Reactions in Monotherapy Epilepsy Where the Incidence Was at Least 2% in Any TOPAMAX® Group and the Incidence in the 400 mg/day TOPAMAX® Group Was Greater Than the Incidence in the 50 mg/day TOPAMAX® Group for Adults (≥16 Years) and Pediatric (6 to <16 Years) Patients in Study TOPMAX-EPMN-106
 
 | Adverse Reaction | %Percentages calculated with the number of subjects in each group as denominator | % | % | % |
 | --- | --- | --- | --- | --- |
@@ -115,12 +118,13 @@ Table 5: Incidence of Treatment-Emergent Adverse Reactions in Monotherapy Epilep
 | Vascular (Extracardiac) Disorders |  |  |  |  |
 | Flushing | 0 | 5 |  |  |
 
-## 6.2 Adjunctive Therapy Epilepsy
+Adjunctive Therapy Epilepsy
 
-The most commonly observed adverse reactions associated with the use of TOPAMAX® at dosages of 200 to 400 mg/day in controlled trials in adults with partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, that were seen at greater frequency in TOPAMAX®-treated patients and did not appear to be dose-related were somnolence, dizziness, ataxia, speech disorders and related speech problems, psychomotor slowing, abnormal vision, difficulty with memory, paresthesia and diplopia (see Table 6).
-The most common dose-related adverse reactions at dosages of 200 to 1,000 mg/day were fatigue, nervousness, difficulty with concentration or attention, confusion, depression, anorexia, language problems, anxiety, mood problems, and weight decrease (see Table 8).
+The most commonly observed adverse reactions associated with the use of TOPAMAX® at dosages of 200 to 400 mg/day (recommended dose range) in controlled trials in adults with partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, that were seen at an incidence higher (≥ 5%) than in the placebo group were: somnolence, weight decrease, anorexia, dizziness, ataxia, speech disorders and related speech problems, language problems, psychomotor slowing, confusion, abnormal vision, difficulty with memory, paresthesia, diplopia, nervousness, and asthenia (see Table 6).
+Dose-related adverse reactions at dosages of 200 to 1,000 mg/day are shown in Table 8.
 
-Adverse reactions associated with the use of TOPAMAX® at dosages of 5 to 9 mg/kg/day in controlled trials in pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, that were seen at greater frequency in TOPAMAX®- treated patients were fatigue, somnolence, anorexia, nervousness, difficulty with concentration/attention, difficulty with memory, aggressive reaction, and weight decrease (see Table 9).
+The most commonly observed adverse reactions associated with the use of TOPAMAX® at dosages of 5 to 9 mg/kg/day in controlled trials in pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome, that were seen at an incidence higher (≥ 5%) than in the placebo group were: fatigue, somnolence, anorexia, nervousness, difficulty with concentration/attention, difficulty with memory, aggressive reaction, and weight decrease (see Table 9).
+Table 9 also presents the incidence of adverse reactions occurring in at least 1% of pediatric patients treated with TOPAMAX® and occurring with greater incidence than placebo.
 
 In controlled clinical trials in adults, 11% of patients receiving TOPAMAX® 200 to 400 mg/day as adjunctive therapy discontinued due to adverse reactions.
 This rate appeared to increase at dosages above 400 mg/day.
@@ -132,23 +136,23 @@ These adverse reactions were psychomotor slowing (4.0%), difficulty with memory 
 Approximately 11% of the 310 pediatric patients who received TOPAMAX® at dosages up to 30 mg/kg/day discontinued due to adverse reactions.
 Adverse reactions associated with discontinuing therapy included aggravated convulsions (2.3%), difficulty with concentration/attention (1.6%), language problems (1.3%), personality disorder (1.3%), and somnolence (1.3%).
 
-## 6.3 Incidence in Epilepsy Controlled Clinical Trials – Adjunctive Therapy – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, and Lennox-Gastaut Syndrome
+Incidence in Epilepsy Controlled Clinical Trials – Adjunctive Therapy – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, and Lennox-Gastaut Syndrome
 
-Table 6 lists treatment-emergent adverse reactions that occurred in at least 1% of adults treated with 200 to 400 mg/day TOPAMAX® in controlled trials that were numerically more common at this dose than in the patients treated with placebo.
+Table 6 lists the incidence of adverse reactions that occurred in at least 1% of adults treated with 200 to 400 mg/day TOPAMAX® (and also higher daily dosing of 600 mg to 1000 mg) in controlled trials and that was numerically greater with TOPAMAX® than with placebo.
 In general, most patients who experienced adverse reactions during the first eight weeks of these trials no longer experienced them by their last visit.
-Table 9 lists treatment-emergent adverse reactions that occurred in at least 1% of pediatric patients treated with 5 to 9 mg/kg TOPAMAX® in controlled trials that were numerically more common than in patients treated with placebo.
+Table 9 lists the incidence of treatment-emergent adverse reactions that occurred in at least 1% of pediatric patients treated with 5 to 9 mg/kg TOPAMAX® in controlled trials and that was numerically greater than the incidence in patients treated with placebo.
 
 The prescriber should be aware that these data were obtained when TOPAMAX® was added to concurrent antiepileptic drug therapy and cannot be used to predict the frequency of adverse reactions in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
 Similarly, the cited frequencies cannot be directly compared with data obtained from other clinical investigations involving different treatments, uses, or investigators.
 Inspection of these frequencies, however, does provide the prescribing physician with a basis to estimate the relative contribution of drug and non-drug factors to the adverse reaction incidences in the population studied.
 
-## 6.4 Other Adverse Reactions Observed During Double-Blind Epilepsy Adjunctive Therapy Trials
+Other Adverse Reactions Observed During Double-Blind Epilepsy Adjunctive Therapy Trials
 
 Other adverse reactions that occurred in more than 1% of adults treated with 200 to 400 mg of TOPAMAX® in placebo-controlled epilepsy trials but with equal or greater frequency in the placebo group were headache, injury, anxiety, rash, pain, convulsions aggravated, coughing, fever, diarrhea, vomiting, muscle weakness, insomnia, personality disorder, dysmenorrhea, upper respiratory tract infection, and eye pain.
 
 Table 6: Incidence of Treatment-Emergent Adverse Reactions in Placebo-Controlled, Add-On Epilepsy Trials in AdultsPatients in these add-on/ adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to TOPAMAX® or placebo., Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
-Where Incidence Was >1% in Any TOPAMAX® Group and Greater Than the Rate in Placebo-Treated Patients
+Where Incidence Was ≥1% in Any TOPAMAX® Group and Greater Than the Incidence in Placebo-Treated Patients
 
 | Adverse Reaction Adverse reactions reported by at least 1% of patients in the TOPAMAX® 200–400 mg/day group and more common than in the placebo group are listed in this table. | (N=291) | (N=183) | (N=414) |
 | --- | --- | --- | --- |
@@ -249,13 +253,13 @@ Where Incidence Was >1% in Any TOPAMAX® Group and Greater Than the Rate in Plac
 | White Cell and RES Disorders |  |  |  |
 | Leukopenia | 1 | 2 | 1 |
 
-## 6.5 Incidence in Study 119 – Add-On Therapy– Adults with Partial Onset Seizures
+Incidence in Study 119 – Add-On Therapy– Adults with Partial Onset Seizures
 
 Study 119 was a randomized, double-blind, add-on/adjunctive, placebo-controlled, parallel group study with 3 treatment arms: 1) placebo; 2) TOPAMAX® 200 mg/day with a 25 mg/day starting dose, increased by 25 mg/day each week for 8 weeks until the 200 mg/day maintenance dose was reached; and 3) TOPAMAX® 200 mg/day with a 50 mg/day starting dose, increased by 50 mg/day each week for 4 weeks until the 200 mg/day maintenance dose was reached.
 All patients were maintained on concomitant carbamazepine with or without another concomitant antiepileptic drug.
 
-The incidence of adverse reactions (Table 7) did not differ significantly between the 2 TOPAMAX® regimens.
-Because the frequencies of adverse reactions reported in this study were markedly lower than those reported in the previous epilepsy studies, they cannot be directly compared with data obtained in other studies.
+The most commonly observed adverse reactions associated with the use of TOPAMAX® that were seen at an incidence higher (≥ 5%) than in the placebo group were: paresthesia, nervousness, somnolence, difficulty with concentration/attention, and fatigue (see Table 7).
+Because these TOPAMAX® treatment difference incidence (TOPAMAX® % - Placebo %) of many adverse reactions reported in this study were markedly lower than those reported in the previous epilepsy studies, they cannot be directly compared with data obtained in other studies.
 
 Table 7: Incidence of Treatment-Emergent Adverse Reactions in Study 119Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to TOPAMAX® or placebo.,Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
@@ -305,7 +309,7 @@ Where Incidence Was ≥ 2% in the TOPAMAX® Group and Greater Than the Rate in P
 
 Table 8: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled, Add-On Trials in Adults With Partial Onset SeizuresDose-response studies were not conducted for other adult indications or for pediatric indications.
 
-| Adverse Reaction | (N = 216) | (N = 45) | (N = 68) | (N = 414) |
+| Adverse Reaction | (N = 216) % | (N = 45) % | (N = 68) % | (N = 414) % |
 | --- | --- | --- | --- | --- |
 |  |  | TOPAMAX® Dosage (mg/day) |  |  |
 |  | Placebo | 200 | 400 | 600 – 1,000 |
@@ -324,9 +328,9 @@ Table 9: Incidence (%) of Treatment-Emergent Adverse Reactions in Placebo-Contro
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
 (Reactions That Occurred in at Least 1% of TOPAMAX®-Treated Patients and Occurred More Frequently in TOPAMAX®-Treated Than Placebo-Treated Patients)
 
-| Adverse Reaction | (N=101) | (N=98) |
+| Body System/ Adverse Reaction | (N=101) % | (N=98) % |
 | --- | --- | --- |
-| Body System/ | Placebo | TOPAMAX® |
+|  | Placebo | TOPAMAX® |
 | Body as a Whole - General Disorders |  |  |
 | Fatigue | 5 | 16 |
 | Injury | 13 | 14 |
@@ -409,7 +413,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | White Cell and RES Disorders |  |  |
 | Leukopenia | 0 | 2 |
 
-## 6.6 Other Adverse Reactions Observed During All Epilepsy Clinical Trials
+Other Adverse Reactions Observed During All Epilepsy Clinical Trials
 
 TOPAMAX® has been administered to 2246 adults and 427 pediatric patients with epilepsy during all clinical studies, only some of which were placebo-controlled.
 During these studies, all adverse reactions were recorded by the clinical investigators using terminology of their own choosing.
@@ -474,20 +478,23 @@ Rare: mydriasis, iritis.
 White Cell and Reticuloendothelial System Disorders: Infrequent: lymphadenopathy, eosinophilia, lymphopenia, granulocytopenia.
 Rare: lymphocytosis.
 
-## 6.7 Migraine
+Migraine
 
-In the four multicenter, randomized, double-blind, placebo-controlled, parallel group migraine prophylaxis clinical trials, most of the adverse reactions with TOPAMAX® were mild or moderate in severity.
+Adults
+
+In the four multicenter, randomized, double-blind, placebo-controlled, parallel group migraine prophylaxis clinical trials (which included 35 adolescent patients age 12 to 15 years), most of the adverse reactions with TOPAMAX® were mild or moderate in severity.
 Most adverse reactions occurred more frequently during the titration period than during the maintenance period.
 
+The most commonly observed adverse reactions associated with the use of the 100 mg TOPAMAX® dose in controlled trials in migraine prophylaxis trials of predominantly adults that were seen at an incidence higher (≥5 %) than in the placebo group were: paresthesia, anorexia, weight decrease, taste perversion, diarrhea, difficulty with memory, hypoesthesia, and nausea (see Table 10).
 Table 10 includes those adverse reactions reported for patients in the placebo-controlled trials where the incidence in any TOPAMAX® treatment group was at least 2% and was greater than that for placebo patients.
 
-Table 10: Incidence of Treatment-Emergent Adverse Reactions in Placebo-Controlled, Migraine Trials Where Incidence Was ≥2 % in Any TOPAMAX® Group and Greater Than the Rate in Placebo-Treated PatientsValues represent the percentage of patients reporting a given adverse reaction.
+Table 10: Incidence (%) of Treatment-Emergent Adverse Reactions in Placebo-Controlled, Migraine Trials Where Incidence Was ≥2 % in Any TOPAMAX® Group and Greater Than the Rate in Placebo-Treated PatientsIncludes 35 adolescent patients age 12 to 15 years.Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
 
-| Adverse Reaction | (N=445) | (N=235) | (N=386) | (N=514) |
+| Body System/ Adverse Reaction | (N=445) % | (N=235) % | (N=386) % | (N=514) % |
 | --- | --- | --- | --- | --- |
 |  |  | TOPAMAX® Dosage (mg/day) |  |  |
-| Body System/ | Placebo | 50 | 100 | 200 |
+|  | Placebo | 50 | 100 | 200 |
 | Body as a Whole-General Disorders |  |  |  |  |
 | Fatigue | 11 | 14 | 15 | 19 |
 | Injury | 7 | 9 | 6 | 6 |
@@ -564,7 +571,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Blurred vision Blurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. | 2 | 4 | 2 | 4 |
 | Conjunctivitis | 1 | 1 | 2 | 1 |
 
-Of the 1135 patients exposed to TOPAMAX® in the placebo-controlled studies, 25% discontinued due to adverse reactions, compared to 10% of the 445 placebo patients.
+Of the 1135 patients exposed to TOPAMAX® in the adult placebo-controlled studies, 25% discontinued due to adverse reactions, compared to 10% of the 445 placebo patients.
 The adverse reactions associated with discontinuing therapy in the TOPAMAX® -treated patients included paresthesia (7%), fatigue (4%), nausea (4%), difficulty with concentration/attention (3%), insomnia (3%), anorexia (2%), and dizziness (2%).
 
 Patients treated with TOPAMAX® experienced mean percent reductions in body weight that were dose-dependent.
@@ -573,11 +580,11 @@ Mean changes of 0%, -2%, -3%, and -4% were seen for the placebo group, TOPAMAX®
 
 Table 11 shows adverse reactions that were dose-dependent.
 Several central nervous system adverse reactions, including some that represented cognitive dysfunction, were dose-related.
-The most common dose-related adverse reactions were paresthesia, fatigue, nausea, anorexia, dizziness, difficulty with memory, diarrhea, weight decrease, difficulty with concentration/attention, and somnolence.
+The most common, dose-related adverse reactions (treatment difference ≥5% for the 100 mg dose) were: paresthesia, nausea, anorexia, difficulty with memory, diarrhea, weight decrease, and hypoesthesia.
 
-Table 11: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled, Migraine TrialsThe incidence of adverse reactions in the 200 mg/day group was ≥ 2% than the incidence in both the placebo group and the 50 mg/day group.
+Table 11: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled, Migraine TrialsIncludes 35 adolescent patients age 12 to <16 years The incidence of adverse reactions in the 200 mg/day group was ≥ 2% than the incidence in both the placebo group and the 50 mg/day group.
 
-| Adverse Reaction | (N=445) | (N=235) | (N=386) | (N=514) |
+| Adverse Reaction | (N=445) % | (N=235) % | (N=386) % | (N=514) % |
 | --- | --- | --- | --- | --- |
 |  |  | TOPAMAX® Dosage (mg/day) |  |  |
 |  | Placebo | 50 | 100 | 200 |
@@ -601,13 +608,82 @@ Table 11: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlle
 | Abnormal vision | <1 | 1 | 2 | 3 |
 | Renal calculus | 0 | 0 | 1 | 2 |
 
-## 6.8 Other Adverse Reactions Observed During Migraine Clinical Trials
+Adolescents 12 to 17 Years of Age
 
-TOPAMAX®, for the treatment of prophylaxis of migraine headache, has been administered to 1367 patients in all clinical studies (includes double-blind and open-label extension).
+In five, randomized, double-blind, placebo-controlled, parallel group migraine prophylaxis clinical trials, most of the adverse reactions with TOPAMAX® were mild or moderate in severity.
+Most adverse reactions occurred more frequently during the titration period than during the maintenance period.
+Among adverse reactions with onset during titration, approximately half persisted into the maintenance period.
+
+In four, fixed-dose, double-blind migraine prophylaxis clinical trials in TOPAMAX®-treated adolescent patients, the most commonly observed adverse reactions associated with the use of 100 mg of TOPAMAX® that were seen at an incidence higher (≥ 5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain (see Table 12).
+Table 12 shows adverse reactions from the adolescent pivotal trial (Study 3 demonstrating the efficacy of TOPAMAX®; [see Clinical Studies (14.3)]) in which there were 103 adolescent patients who were treated with placebo or 50 mg or 100 mg of TOPAMAX® and three predominantly adult trials in which there were 49 adolescent patients (12 to 17 years) who were treated with placebo or 50 mg, 100 mg or 200 mg of TOPAMAX®.
+Table 12 also shows adverse reactions in adolescents in the controlled migraine trials when the incidence in a TOPAMAX® dose group was at least 5 % or higher than the incidence of placebo.
+Many adverse reactions shown in Table 12 indicated a dose-dependent relationship.
+
+Table 12: Incidence (%) of Treatment-Emergent Adverse Reactions in at Least 5% or Greater than the Placebo Incidence of Adolescents (12–17 Years) in Any TOPAMAX® Group in Pooled Double-Blind Migraine Prophylaxis Studies35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Tables 10 and 11)Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
+
+| Adverse Reaction | (N=45) % | (N=46) % | (N=48) % | (N=13) % |
+| --- | --- | --- | --- | --- |
+|  | TOPAMAX® Dosage |  |  |  |
+| Body System/ | Placebo | 50 mg/day | 100 mg/day | 200 mg/day |
+| Body as a Whole – General Disorders |  |  |  |  |
+| Allergy | 0 | 0 | 4 | 8 |
+| Fatigue | 7 | 7 | 8 | 15 |
+| Fever | 2 | 4 | 6 | 0 |
+| Leg pain | 0 | 2 | 2 | 8 |
+| Central & Peripheral Nervous System Disorders |  |  |  |  |
+| Dizziness | 4 | 4 | 6 | 0 |
+| Headache | 2 | 2 | 4 | 8 |
+| Language problems | 2 | 0 | 0 | 15 |
+| Muscle contractions involuntary | 0 | 0 | 0 | 8 |
+| Paresthesia | 7 | 20 | 19 | 38 |
+| Endocrine Disorders |  |  |  |  |
+| Hyperthyroidism | 0 | 0 | 0 | 8 |
+| Gastrointestinal System Disorders |  |  |  |  |
+| Abdominal pain | 9 | 7 | 15 | 15 |
+| Diarrhea | 0 | 2 | 2 | 8 |
+| Nausea | 4 | 4 | 8 | 0 |
+| Metabolic and Nutritional Disorders |  |  |  |  |
+| Oedema pharynx | 0 | 0 | 0 | 8 |
+| Weight decrease | 2 | 7 | 4 | 31 |
+| Platelet, Bleeding & Clotting Disorders |  |  |  |  |
+| Epistaxis | 0 | 2 | 2 | 8 |
+| Psychiatric Disorders |  |  |  |  |
+| Anorexia | 4 | 9 | 10 | 15 |
+| Anxiety | 0 | 0 | 0 | 8 |
+| Difficulty with concentration/ attention | 0 | 0 | 2 | 15 |
+| Difficulty with memory | 2 | 0 | 0 | 8 |
+| Insomnia | 2 | 9 | 2 | 0 |
+| Mood problems | 4 | 2 | 2 | 8 |
+| Psychomotor slowing | 0 | 2 | 0 | 8 |
+| Somnolence | 2 | 2 | 6 | 15 |
+| Resistance Mechanism Disorders |  |  |  |  |
+| Infection viral | 4 | 4 | 8 | 15 |
+| Otitis media | 0 | 0 | 0 | 8 |
+| Respiratory System Disorders |  |  |  |  |
+| Coughing | 0 | 7 | 2 | 0 |
+| Laryngitis | 0 | 0 | 0 | 8 |
+| Rhinitis | 2 | 7 | 6 | 8 |
+| Sinusitis | 2 | 9 | 4 | 15 |
+| Upper respiratory tract infection | 11 | 26 | 23 | 23 |
+| Skin and Appendages Disorders |  |  |  |  |
+| Rash erythematous | 0 | 0 | 0 | 8 |
+| Special Senses Other, Disorders |  |  |  |  |
+| Taste perversion | 2 | 2 | 6 | 8 |
+| Vision Disorders |  |  |  |  |
+| Conjunctivitis | 4 | 7 | 4 | 0 |
+
+In the double-blind placebo-controlled studies, adverse reactions led to discontinuation of treatment in 8% of placebo patients compared with 6% of TOPAMAX®-treated patients.
+Adverse reactions associated with discontinuing therapy that occurred in more than one TOPAMAX®-treated patient were fatigue (1%), headache (1%), and somnolence (1%).
+
+Other Adverse Reactions Observed During Migraine Clinical Trials
+
+Adults
+
+TOPAMAX®, for the treatment of prophylaxis of migraine headache, has been administered to 1367 patients (including 33 adolescent patients aged 12 to <16 years) in all clinical studies (includes double-blind and open-label extension).
 During these studies, all adverse reactions were recorded by the clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals having adverse reactions, similar types of reactions were grouped into a smaller number of standardized categories using modified WHOART dictionary terminology.
 
-The following additional adverse reactions that were not described earlier were reported by greater than 1% of the 1367 TOPAMAX®-treated patients in the controlled clinical trials:
+The following additional adverse reactions that were not described in Table 10 were reported by greater than 1% of the 1367 TOPAMAX®-treated patients in the controlled clinical trials:
 
 Body as a Whole: Pain, chest pain, allergic reaction.
 
@@ -629,7 +705,33 @@ Skin and Appendages Disorders: Rash, alopecia.
 
 Vision Disorders: Abnormal accommodation, eye pain.
 
-## 6.9 Postmarketing and Other Experience
+Adolescents 12 to 17 Years of Age
+
+In two clinical studies for the treatment of prophylaxis of migraine headache in pediatric patients only, TOPAMAX® has been administered to 134 adolescent patients (includes double-blind and open-label extension).
+During these studies, all adverse reactions were recorded by the clinical investigators using terminology of their own choosing.
+To provide a meaningful estimate of the proportion of individuals having adverse reactions, similar types of reactions were grouped into a smaller number of standardized categories using modified WHOART dictionary terminology.
+
+The following additional adverse reactions that were not described in Table 12 were reported by at least 2% of the 134 TOPAMAX®-treated patients in the controlled clinical trials:
+
+Body as a Whole: Injury, influenza-like symptoms, back pain, pain.
+
+Gastrointestinal System Disorders: Gastroenteritis, vomiting.
+
+Musculoskeletal system disorders: Myalgia.
+
+Psychiatric disorders: Nervousness.
+
+Resistance Mechanism Disorders: Infection.
+
+Respiratory System Disorders: Pharyngitis, asthma, bronchitis.
+
+Skin and Appendages Disorders: Pruritus, rash.
+
+Urinary System Disorders: Urinary incontinence, urinary tract infection.
+
+Vision Disorders: Eye pain, vision abnormal.
+
+## 6.2 Postmarketing and Other Experience
 
 In addition to the adverse experiences reported during clinical testing of TOPAMAX®, the following adverse experiences have been reported worldwide in patients receiving TOPAMAX® post-approval.
 

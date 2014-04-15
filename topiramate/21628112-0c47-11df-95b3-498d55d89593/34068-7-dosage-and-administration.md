@@ -39,7 +39,7 @@ During the titration period, the initial dose of TOPAMAX® should be 25 mg/day a
 Based upon tolerability, the dosage can be increased to 50 mg/day (25 mg twice daily) in the second week.
 Dosage can be increased by 25–50 mg/day each subsequent week as tolerated.
 Titration to the minimum maintenance dose should be attempted over 5–7 weeks of the total titration period.
-Based upon tolerability and seizure control, additional titration to a higher dose (up to the maximum maintenance dose) can be attempted at 25–50 mg/day weekly increments.
+Based upon tolerability and clinical response, additional titration to a higher dose (up to the maximum maintenance dose) can be attempted at 25–50 mg/day weekly increments.
 The total daily dose should not exceed the maximum maintenance dose for each range of body weight (Table 2).
 
 Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to <10 Years
@@ -75,10 +75,10 @@ In the study of primary generalized tonic-clonic seizures, the initial titration
 
 ## 2.2 Migraine
 
-The recommended total daily dose of TOPAMAX® as treatment for adults for prophylaxis of migraine headache is 100 mg/day administered in two divided doses (Table 3).
+The recommended total daily dose of TOPAMAX® as treatment for adults and adolescents 12 years of age and older for prophylaxis of migraine headache is 100 mg/day administered in two divided doses (Table 3).
 The recommended titration rate for topiramate for migraine prophylaxis to 100 mg/day is:
 
-Table 3: Migraine Prophylaxis Titration Schedule for Adults
+Table 3: Migraine Prophylaxis Titration Schedule for Adults and Adolescents Patients 12 Years and Older
 
 |  | Morning Dose | Evening Dose |
 | --- | --- | --- |

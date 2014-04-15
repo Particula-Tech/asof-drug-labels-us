@@ -11,5 +11,5 @@ TOPAMAX® Tablets and TOPAMAX® Sprinkle Capsules are indicated as adjunctive th
 
 ## 1.3 Migraine
 
-TOPAMAX® Tablets and TOPAMAX® Sprinkle Capsules are indicated for adults for the prophylaxis of migraine headache [see Clinical Studies (14.3)].
+TOPAMAX® Tablets and TOPAMAX® Sprinkle Capsules are indicated for adults and adolescents 12 years of age and older for the prophylaxis of migraine headache [see Clinical Studies (14.3)].
 The usefulness of TOPAMAX® in the acute treatment of migraine headache has not been studied.

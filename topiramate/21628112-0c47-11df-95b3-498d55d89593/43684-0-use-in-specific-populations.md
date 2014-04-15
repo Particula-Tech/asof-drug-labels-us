@@ -20,7 +20,7 @@ Information about the North American Drug Pregnancy Registry can be found at htt
 Human Data
 
 Data from the NAAED Pregnancy Registry indicate an increased risk of oral clefts in infants exposed to topiramate monotherapy during the first trimester of pregnancy.
-The prevalence of oral clefts was 1.2% compared to a prevalence of 0.39% – 0.46% in infants exposed to other AEDs, and a prevalence of 0.12% in infants of mothers without epilepsy or treatment with other AEDs.
+The prevalence of oral clefts was 1.2% compared to a prevalence of 0.39% – 0.46% in infants exposed to other AEDs and a prevalence of 0.12% in infants of mothers without epilepsy or treatment with other AEDs.
 For comparison, the Centers for Disease Control and Prevention (CDC) reviewed available data on oral clefts in the United States and found a similar background rate of 0.17%.
 The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval = CI 3.6 – 25.7) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a similarly increased prevalence of oral clefts of 3.2% among infants exposed to topiramate monotherapy.
@@ -75,7 +75,7 @@ The following adverse reactions were observed in at least 3% of patients on topi
 A generally similar profile was observed in older children [see Adverse Reactions (6)].
 
 Topiramate resulted in an increased incidence of patients with increased creatinine (any topiramate dose 5%, placebo 0%), BUN (any topiramate dose 3%, placebo 0%), and protein (any topiramate dose 34%, placebo 6%), and an increased incidence of decreased potassium (any topiramate dose 7%, placebo 0%).
-This increased frequency of abnormal values was not dose related.
+This increased frequency of abnormal values was not dose-related.
 Creatinine was the only analyte showing a noteworthy increased incidence (topiramate 25 mg/kg/day 5%, placebo 0%) of a markedly abnormal increase [see Warnings and Precautions (5.16)].
 The significance of these findings is uncertain.
 
@@ -99,12 +99,40 @@ Monotherapy Treatment in Partial Onset Epilepsy in Patients <2 Years Old
 
 Safety and effectiveness in patients below the age of 2 years have not been established for the monotherapy treatment of epilepsy.
 
-Migraine Prophylaxis in Pediatrics
+Migraine Prophylaxis in Adolescents 12 to 17 Years
 
-Safety and effectiveness in pediatric patients have not been established for the prophylaxis treatment of migraine headache.
+Safety and effectiveness of topiramate in the prophylaxis of migraine was studied in 5 double-blind, randomized, placebo-controlled, parallel-group trials in a total of 219 pediatric patients, at doses of 50 to 200 mg/day, or 2 to 3 mg/kg/day.
+These comprised a fixed dose study in 103 adolescents age 12 to 17 years [see Clinical Studies (14.3)], a flexible dose (2 to 3 mg/kg/day), placebo-controlled study in 157 pediatric patients age 6 to 16 years (including 67 adolescent patients age 12 to 16 years), and a total of 49 adolescents age 12 to 17 years in 3 studies of migraine prophylaxis primarily in adults.
+Open-label extension phases of 3 studies enabled evaluation of long-term safety for up to 6 months after the end of the double-blind phase.
 
-Topiramate treatment produced a dose-related increased shift in serum creatinine from normal at baseline to an increased value at the end of 4 months treatment in adolescent patients (ages 12–16 years) who were treated for migraine prophylaxis in a double-blind, placebo-controlled study.
-The incidence of these abnormal shifts was 4% for placebo, 4% for 50 mg, and 18% for 100 mg [see Warnings and Precautions (5.16)].
+Efficacy of topiramate for migraine prophylaxis in adolescents is demonstrated for a 100 mg daily dose in Study 3 [see Clinical Studies (14.3)].
+Efficacy of topiramate (2 to 3 mg/kg/day) for migraine prophylaxis was not demonstrated in a placebo-controlled trial of 157 pediatric patients (6 to 16 years) that included treatment of 67 adolescents (12 to 16 years) for 20 weeks.
+
+In the adolescent trials (12 to 17 years) in which patients were randomized to placebo or a fixed daily dose of TOPAMAX®, the most commonly observed adverse reactions associated with the use of TOPAMAX® that were seen at an incidence higher (≥ 5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain [see Adverse Reactions (6)].
+
+The most common cognitive adverse reaction in pooled double-blind studies in adolescent patients age 12 to 17 years was difficulty with concentration/attention [see Warnings and Precautions (5.6)].
+
+Markedly abnormally low serum bicarbonate values indicative of metabolic acidosis were reported in topiramate-treated adolescent migraine patients [see Warnings and Precautions (5.4)].
+
+In topiramate-treated adolescent patients (12 to 17 years) compared to placebo-treated patients, abnormally increased results were more frequent for creatinine, BUN, uric acid, chloride, ammonia, total protein, and platelets.
+Abnormally decreased results were observed with topiramate vs placebo treatment for phosphorus and bicarbonate [see Warnings and Precautions (5.16)].
+
+Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse were observed occurred more commonly in adolescents treated with topiramate compared to adolescents treated with placebo [see Clinical Pharmacology (12.2)].
+
+Migraine Prophylaxis in Children 6–11 Years Old
+
+Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the prophylaxis treatment of migraine headache.
+
+In a double-blind study in 90 children age 6 to 11 years (including 59 topiramate-treated and 31 placebo patients), the adverse reaction profile was generally similar to that in pooled double-blind studies of adolescents age 12 to 17 years.
+The adverse reactions that occurred most commonly in TOPAMAX®-treated children age 6 to 11 years, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight decrease (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).
+Difficulty with concentration/attention occurred in 3 topiramate-treated patients (5%) and 0 placebo patients.
+
+The risk for cognitive adverse reaction was greater in younger patients (6 to 11 years) than in older patients (12 to 17 years) [see Warnings and Precautions (5.6)].
+
+For patients 6 to 11 years, the following were noted to be abnormally increased more frequently with topiramate than with placebo: alkaline phosphatase, creatinine, and eosinophils.
+Analytes abnormally decreased were: total white count and neutrophils [see Warnings and Precautions (5.16)].
+
+Serum bicarbonate, chloride, phosphorus, and ammonia data were not collected for pediatric patients 6 to 11 years of age.
 
 Juvenile Animal Studies
 
@@ -114,7 +142,7 @@ When topiramate (30, 90, or 300 mg/kg/day) was administered orally to rats durin
 
 In clinical trials, 3% of patients were over 60.
 No age-related differences in effectiveness or adverse effects were evident.
-However, clinical studies of topiramate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently than younger subjects.
+However, clinical studies of topiramate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently than younger subjects.
 Dosage adjustment may be necessary for elderly with impaired renal function (creatinine clearance rate <70 mL/min/1.73 m2) due to reduced clearance of topiramate [see Clinical Pharmacology (12.3) and Dosage and Administration (2.5)].
 
 ## 8.6 Race and Gender Effects
@@ -140,4 +168,4 @@ Data from pregnancy registries indicate that infants exposed to TOPAMAX® in ute
 Consider the benefits and the risks of TOPAMAX® when prescribing this drug to women of childbearing potential, particularly when TOPAMAX® is considered for a condition not usually associated with permanent injury or death.
 Because of the risk of oral clefts to the fetus, which occur in the first trimester of pregnancy before many women know they are pregnant, all women of childbearing potential should be apprised of the potential hazard to the fetus from exposure to TOPAMAX®.
 If the decision is made to use TOPAMAX®, women who are not planning a pregnancy should use effective contraception [see Drug Interactions (7.3)].
-Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of TOPAMAX® use during pregnancy, and alternative therapeutic options should be considered for these patients [see Patient Counseling Information (17)].
+Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of TOPAMAX® use during pregnancy, and alternative therapeutic options should be considered for these patients.

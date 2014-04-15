@@ -1,6 +1,6 @@
 # 13 NON-CLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 

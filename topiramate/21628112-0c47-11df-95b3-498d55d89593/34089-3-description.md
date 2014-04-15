@@ -15,4 +15,4 @@ Topiramate is designated chemically as 2,3:4,5-Di-O-isopropylidene-β-D-fructopy
 TOPAMAX® Tablets contain the following inactive ingredients: carnauba wax, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, purified water, sodium starch glycolate, synthetic iron oxide, and titanium dioxide.
 
 TOPAMAX® Sprinkle Capsules contain topiramate-coated beads in a hard gelatin capsule.
-The inactive ingredients are sugar spheres (sucrose and starch), povidone, cellulose acetate, gelatin, sorbitan monolaurate, sodium lauryl sulfate, titanium dioxide, and black pharmaceutical ink.
+The inactive ingredients are black pharmaceutical ink, cellulose acetate, gelatin, povidone, sodium lauryl sulfate, sorbitan monolaurate, sugar spheres (sucrose and starch) and titanium dioxide.
