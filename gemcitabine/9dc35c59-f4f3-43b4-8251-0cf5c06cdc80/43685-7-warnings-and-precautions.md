@@ -57,5 +57,6 @@ Discontinue Gemzar if CLS develops during therapy.
 
 ## 5.9 Posterior Reversible Encephalopathy Syndrome
 
-Posterior reversible encephalopathy syndrome (PRES) with severe consequences has been reported in patients receiving Gemzar as a single agent or in combination with other chemotherapeutic agents.
-Discontinue Gemzar if PRES develops during therapy.
+Posterior reversible encephalopathy syndrome (PRES) has been reported in patients receiving Gemzar as a single agent or in combination with other chemotherapeutic agents.
+PRES can present with headache, seizure, lethargy, hypertension, confusion, blindness, and other visual and neurologic disturbances.
+Confirm the diagnosis of PRES with magnetic resonance imaging (MRI) and discontinue Gemzar if PRES develops during therapy.

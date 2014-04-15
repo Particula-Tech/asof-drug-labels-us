@@ -122,7 +122,7 @@ Efficacy results are presented in Table 14 and Figure 3 for overall survival.
 A randomized (1:1), multicenter trial was conducted in 135 patients with Stage IIIB or IV NSCLC.
 Patients were randomized to receive Gemzar 1250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to receive etoposide 100 mg/m2 intravenously on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21 -day cycle.
 
-There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided see Table 14).
+There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided, see Table 14).
 The median survival was 8.7 months for the Gemzar plus cisplatin arm versus 7.0 months for the etoposide plus cisplatin arm.
 Median time to disease progression for the Gemzar plus cisplatin arm was 5.0 months compared to 4.1 months on the etoposide plus cisplatin arm (Log rank p=0.015, two-sided).
 The objective response rate for the Gemzar plus cisplatin arm was 33% compared to 14% on the etoposide plus cisplatin arm (Fisher's Exact p=0.01, two-sided).
