@@ -73,10 +73,10 @@ Four positional isomers, 1-O, 2-O, 3-O, and 4-O-acylglucuronide exist, and each 
 Renal Impairment
 
 An open, parallel-group single-center study compared dabigatran pharmacokinetics in healthy subjects and patients with mild to moderate renal impairment receiving a single dose of PRADAXA 150 mg.
-Exposure to dabigatran increases with severity of renal function impairment (Table 3).
-Similar findings were observed in the RE-LY trial.
+Exposure to dabigatran increases with severity of renal function impairment (Table 6).
+Similar findings were observed in the RE-LY and RE-COVER trials.
 
-Table 3 Impact of Renal Impairment on Dabigatran Pharmacokinetics
+Table 6 Impact of Renal Impairment on Dabigatran Pharmacokinetics
 
 | Renal Function | CrCl (mL/min) | Increase in AUC | Increase in Cmax | t1/2 (h) |
 | --- | --- | --- | --- | --- |
@@ -84,7 +84,7 @@ Table 3 Impact of Renal Impairment on Dabigatran Pharmacokinetics
 | Mild | 50-80 | 1.5x | 1.1x | 15 |
 | Moderate | 30-50 | 3.2x | 1.7x | 18 |
 | Severe+ | 15-30 | 6.3x | 2.1x | 27 |
-| +Patients with severe renal impairment were not studied in RE-LY. Dosing recommendations in subjects with severe renal impairment are based on pharmacokinetic modeling [see Dosage and Administration (2.1) and Use in Specific Populations (8.6)]. |  |  |  |  |
+| +Patients with severe renal impairment were not studied in RE-LY and RE-COVER. Dosing recommendations in subjects with severe renal impairment are based on pharmacokinetic modeling [see Dosage and Administration (2.1, 2.2) and Use in Specific Populations (8.6)]. |  |  |  |  |
 
 Hepatic Impairment
 
@@ -92,9 +92,7 @@ Administration of PRADAXA in patients with moderate hepatic impairment (Child-Pu
 
 Drug Interactions
 
-Impact of Other Drugs on Dabigatran
-
-P-gp Inducers
+Impact of Other Drugs on Dabigatran P-gp Inducers
 
 Rifampin: Rifampin 600 mg once daily for 7 days followed by a single dose of dabigatran decreased its AUC and Cmax by 66% and 67%, respectively.
 By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to normal [see Warnings and Precautions (5.4) and Drug Interactions (7)].
@@ -114,13 +112,14 @@ The extent of increase depends on the formulation of verapamil and timing of adm
 If verapamil is present in the gut when dabigatran is taken, it will increase exposure to dabigatran with the greatest increase observed when a single dose of immediate-release verapamil is given one hour prior to dabigatran (AUC increased by a factor of 2.4).
 If verapamil is given 2 hours after dabigatran, the increase in AUC is negligible.
 In the population pharmacokinetics study from RE-LY, no important changes in dabigatran trough levels were observed in patients who received verapamil.
+Similar findings were observed in the RE-COVER study.
 
 Amiodarone: When dabigatran etexilate was coadministered with a single 600 mg oral dose of amiodarone, the dabigatran AUC and Cmax increased by 58% and 50%, respectively.
 The increase in exposure was mitigated by a 65% increase in the renal clearance of dabigatran in the presence of amiodarone.
 The increase in renal clearance may persist after amiodarone is discontinued because of amiodarone’s long half-life.
 In the population pharmacokinetics study from RE-LY, no important changes in dabigatran trough levels were observed in patients who received amiodarone.
 
-Quinidine: Quinidine was given as 200 mg dose every 2 hours up to a total dose of 1000 mg.
+Quinidine: Quinidine was given as a 200 mg dose every 2 hours up to a total dose of 1000 mg.
 Dabigatran etexilate was given over 3 consecutive days, the last evening dose on Day 3 with or without quinidine pre-dosing.
 Concomitant quinidine administration increased dabigatran’s AUC and Cmax by 53% and 56%, respectively.
 
@@ -139,6 +138,4 @@ Diclofenac, Ranitidine, and Digoxin: None of these drugs alters exposure to dabi
 In RE-LY, dabigatran plasma samples were also collected.
 The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran.
 
-Impact of Dabigatran on Other Drugs
-
-In clinical studies exploring CYP3A4, CYP2C9, P-gp and other pathways, dabigatran did not meaningfully alter the pharmacokinetics of amiodarone, atorvastatin, clarithromycin, diclofenac, clopidogrel, digoxin, pantoprazole, or ranitidine.
+Impact of Dabigatran on Other Drugs In clinical studies exploring CYP3A4, CYP2C9, P-gp and other pathways, dabigatran did not meaningfully alter the pharmacokinetics of amiodarone, atorvastatin, clarithromycin, diclofenac, clopidogrel, digoxin, pantoprazole, or ranitidine.

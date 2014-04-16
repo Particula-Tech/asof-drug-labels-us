@@ -35,6 +35,9 @@ Instruct patients to call their health care provider or to get prompt medical at
 - Bleeding from a cut that takes a long time to stop
 - Menstrual bleeding or vaginal bleeding that is heavier than normal
 
+If patients have had neuraxial anesthesia or spinal puncture, and particularly, if they are taking concomitant NSAIDs or platelet inhibitors, advise patients to watch for signs and symptoms of spinal or epidural hematoma, such as back pain, tingling, numbness (especially in the lower limbs), muscle weakness, and stool or urine incontinence.
+If any of these symptoms occur, advise the patient to contact his or her physician immediately [see Boxed Warning].
+
 ## 17.3 Gastrointestinal Adverse Reactions
 
 Instruct patients to call their health care provider if they experience any signs or symptoms of dyspepsia or gastritis:
@@ -57,10 +60,10 @@ Instruct patients to inform their health care provider if they will have or have
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Copyright 2013 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Copyright 2014 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-11 IT5060XL112013
+75461-12 IT5060YD22014
 
-75457-11 IT5400T
+75457-12 IT5400V
 
-301841-06 IT5624H
+301841-07 IT5624J

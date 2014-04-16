@@ -1,23 +1,27 @@
 # 6 ADVERSE REACTIONS
 
+The most serious adverse reactions reported with PRADAXA were related to bleeding [see Warnings and Precautions (5.2)].
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The RE-LY (Randomized Evaluation of Long-term Anticoagulant Therapy) study provided safety information on the use of two doses of PRADAXA and warfarin [see Clinical Studies (14)].
+Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
+
+The RE-LY (Randomized Evaluation of Long-term Anticoagulant Therapy) study provided safety information on the use of two doses of PRADAXA and warfarin [see Clinical Studies (14.1)].
 The numbers of patients and their exposures are described in Table 1.
 Limited information is presented on the 110 mg dosing arm because this dose is not approved.
 
 Table 1 Summary of Treatment Exposure in RE-LY
 
-|  | PRADAXA 110 mg twice daily | PRADAXA 150 mg twice daily | Warfarin |
-| --- | --- | --- | --- |
-| Total number treated | 5983 | 6059 | 5998 |
-| Exposure |  |  |  |
-| > 12 months | 4936 | 4939 | 5193 |
-| > 24 months | 2387 | 2405 | 2470 |
-| Mean exposure (months) | 20.5 | 20.3 | 21.3 |
-| Total patient-years | 10,242 | 10,261 | 10,659 |
+|  |  | PRADAXA 110 mg twice daily | PRADAXA 150 mg twice daily | Warfarin |
+| --- | --- | --- | --- | --- |
+| Total number treated |  | 5983 | 6059 | 5998 |
+| Exposure |  |  |  |  |
+|  | > 12 months | 4936 | 4939 | 5193 |
+|  | > 24 months | 2387 | 2405 | 2470 |
+| Mean exposure (months) |  | 20.5 | 20.3 | 21.3 |
+| Total patient-years |  | 10,242 | 10,261 | 10,659 |
 
 Drug Discontinuation in RE-LY
 
@@ -55,6 +59,100 @@ These were commonly dyspepsia (including abdominal pain upper, abdominal pain, a
 Hypersensitivity Reactions
 
 In the RE-LY study, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in <0.1% of patients receiving PRADAXA.
+
+Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
+
+PRADAXA was studied in 4387 patients in 4 pivotal, parallel, randomized, double-blind trials.
+Three of these trials were active-controlled (warfarin) (RE-COVER, RE-COVER II, and RE-MEDY), and one study (RE-SONATE) was placebo-controlled.
+The demographic characteristics were similar among the 4 pivotal studies and between the treatment groups within these studies.
+Approximately 60% of the treated patients were male, with a mean age of 55.1 years.
+The majority of the patients were white (87.7%), 10.3% were Asian, and 1.9% were black with a mean CrCl of 105.6 mL/min.
+
+Bleeding events for the 4 pivotal studies were classified as major bleeding events if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal bleeding, intra-articular bleeding, or pericardial bleeding), bleeding causing a fall in hemoglobin level of 2.0 g/dL (1.24 mmol/L or more, or leading to transfusion of 2 or more units of whole blood or red cells).
+
+RE-COVER and RE-COVER II studies compared PRADAXA 150 mg twice daily and warfarin for the treatment of deep vein thrombosis and pulmonary embolism.
+Patients received 5-10 days of an approved parenteral anticoagulant therapy followed by 6 months, with mean exposure of 164 days, of oral only treatment; warfarin was overlapped with parenteral therapy.
+Table 3 shows the number of patients experiencing bleeding events in the pooled analysis of RE-COVER and RE-COVER II studies during the full treatment including parenteral and oral only treatment periods after randomization.
+
+Table 3 Bleeding Events in RE-COVER and RE-COVER II Treated Patients
+
+|  |  | Bleeding Events-Full Treatment Period Including Parenteral Treatment |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | PRADAXA 150 mg twice daily N (%) | Warfarin N (%) | Hazard Ratio (95% CI)c |
+| Patients |  | N=2553 | N=2554 |  |
+| Major bleeding eventa |  | 37 (1.4) | 51 (2.0) | 0.73 (0.48, 1.11) |
+|  | Fatal bleeding | 1 (0.04) | 2 (0.1) |  |
+|  | Bleeding in a critical area or organ | 7 (0.3) | 15 (0.6) |  |
+|  | Fall in hemoglobin ≥2g/dL or transfusion ≥2 units of whole blood or packed red blood cells | 32 (1.3) | 38 (1.5) |  |
+| Bleeding sites for MBEb |  |  |  |  |
+|  | Intracranial | 2 (0.1) | 5 (0.2) |  |
+|  | Retroperitoneal | 2 (0.1) | 1 (0.04) |  |
+|  | Intraarticular | 2 (0.1) | 4 (0.2) |  |
+|  | Intramuscular | 2 (0.1) | 6 (0.2) |  |
+|  | Gastrointestinal | 15 (0.6) | 14 (0.5) |  |
+|  | Urogenital | 7 (0.3) | 14 (0.5) |  |
+|  | Other | 8 (0.3) | 8 (0.3) |  |
+| Clinically relevant non-major bleeding |  | 101 (4.0) | 170 (6.7) | 0.58 (0.46, 0.75) |
+| Any bleeding |  | 411 (16.1) | 567 (22.7) | 0.70 (0.61, 0.79) |
+| Note: MBE can belong to more than one criterion. aPatients with at least one MBE. bBleeding site based on investigator assessment. Patients can have more than one site of bleeding. cConfidence interval |  |  |  |  |
+
+The rate of any gastrointestinal bleeds in patients receiving PRADAXA 150 mg in the full treatment period was 3.1% (2.4% on warfarin).
+
+The RE-MEDY and RE-SONATE studies provided safety information on the use of PRADAXA for the reduction in the risk of recurrence of deep vein thrombosis and pulmonary embolism.
+
+RE-MEDY was an active-controlled study (warfarin) in which 1430 patients received PRADAXA 150 mg twice daily following 6 to 18 months of oral anticoagulant regimen.
+Patients in the treatment studies who rolled over into the RE-MEDY study had a combined treatment duration of up to more than 3 years, with mean exposure of 473 days.
+Table 4 shows the number of patients experiencing bleeding events in the study.
+
+Table 4 Bleeding Events in RE-MEDY Treated Patients
+
+|  |  | PRADAXA 150 mg twice daily N (%) | Warfarin N (%) | Hazard Ratio (95% CI)c |
+| --- | --- | --- | --- | --- |
+| Patients |  | N=1430 | N=1426 |  |
+| Major bleeding eventa |  | 13 (0.9) | 25 (1.8) | 0.54 (0.25, 1.16) |
+|  | Fatal bleeding | 0 | 1 (0.1) |  |
+|  | Bleeding in a critical area or organ | 7 (0.5) | 11 (0.8) |  |
+|  | Fall in hemoglobin ≥2g/dL or transfusion ≥2 units of whole blood or packed red blood cells | 7 (0.5) | 16 (1.1) |  |
+| Bleeding sites for MBEb |  |  |  |  |
+|  | Intracranial | 2 (0.1) | 4 (0.3) |  |
+|  | Intraocular | 4 (0.3) | 2 (0.1) |  |
+|  | Retroperitoneal | 0 | 1 (0.1) |  |
+|  | Intraarticular | 0 | 2 (0.1) |  |
+|  | Intramuscular | 0 | 4 (0.3) |  |
+|  | Gastrointestinal | 4 (0.3) | 8 (0.6) |  |
+|  | Urogenital | 1 (0.1) | 1 (0.1) |  |
+|  | Other | 2 (0.1) | 4 (0.3) |  |
+| Clinically relevant non-major bleeding |  | 71 (5.0) | 125 (8.8) | 0.56 (0.42, 0.75) |
+| Any bleeding |  | 278 (19.4) | 373 (26.2) | 0.71 (0.61, 0.83) |
+| Note: MBE can belong to more than one criterion. aPatients with at least one MBE. bBleeding site based on investigator assessment. Patients can have more than one site of bleeding. cConfidence interval |  |  |  |  |
+
+In the RE-MEDY study, the rate of any gastrointestinal bleeds in patients receiving PRADAXA 150 mg was 3.1% (2.2% on warfarin).
+
+RE-SONATE was a placebo-controlled study in which 684 patients received PRADAXA 150 mg twice daily following 3 to 6 months of oral anticoagulant regimen.
+Patients in the treatment studies who rolled over into the RE-SONATE study had combined treatment duration up to 9 months, with mean exposure of 165 days.
+Table 5 shows the number of patients experiencing bleeding events in the study.
+
+Table 5 Bleeding Events in RE-SONATE Treated Patients
+
+|  |  | PRADAXA 150 mg twice daily N (%) | Placebo N (%) | Hazard Ratio (95% CI)c |
+| --- | --- | --- | --- | --- |
+| Patients |  | N=684 | N=659 |  |
+| Major bleeding eventa |  | 2 (0.3) | 0 |  |
+|  | Bleeding in a critical area or organ | 2 (0.3) | 0 |  |
+|  | Gastrointestinalb | 2 (0.3) | 0 |  |
+| Clinically relevant non-major bleeding |  | 34 (5.0) | 13 (2.0) | 2.54 (1.34, 4.82) |
+| Any bleeding |  | 72 (10.5) | 40 (6.1) | 1.77 (1.20, 2.61) |
+| Note: MBE can belong to more than one criterion. aPatients with at least one MBE. bBleeding site based on investigator assessment. Patients can have more than one site of bleeding. cConfidence interval |  |  |  |  |
+
+In the RE-SONATE study, the rate of any gastrointestinal bleeds in patients receiving PRADAXA 150 mg was 0.7% (0.3% on placebo).
+
+Clinical Myocardial Infarction Events In the active-controlled VTE studies, a higher rate of clinical myocardial infarction was reported in patients who received PRADAXA [20 (0.66 per 100 patient-years)] than in those who received warfarin [5 (0.17 per 100 patient-years)].
+In the placebo-controlled study, a similar rate of non-fatal and fatal clinical myocardial infarction was reported in patients who received PRADAXA [1 (0.32 per 100 patient-years)] and in those who received placebo [1 (0.34 per 100 patient-years)].
+
+Gastrointestinal Adverse Reactions In the four pivotal studies, patients on PRADAXA 150 mg had a similar incidence of gastrointestinal adverse reactions (24.7% vs. 22.7% on warfarin).
+Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on PRADAXA in 7.5% vs. 5.5% on warfarin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 3.0% vs. 1.7%, respectively.
+
+Hypersensitivity Reactions In the 4 pivotal studies, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in 0.1% of patients receiving PRADAXA.
 
 ## 6.2 Postmarketing Experience
 

@@ -2,9 +2,27 @@
 
 ## 2.1 Recommended Dose
 
+| Indication | Dosage |  |
+| --- | --- | --- |
+| Reduction in Risk of Stroke and Systemic Embolism in Non-valvular AF | CrCl >30 mL/min: | 150 mg twice daily |
+| CrCl 15 to 30 mL/min: | 75 mg twice daily |  |
+| CrCl <15 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
+| CrCl 30 to 50 mL/min with concomitant use of P-gp inhibitors: | Consider reducing dose to 75 mg twice daily if given with P-gp inhibitors dronedarone or ketoconazole. Dose adjustment is not necessary when co-administered with other P-gp inhibitors |  |
+| CrCl <30 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |  |
+| Treatment of DVT and PE Reduction in the Risk of Recurrence of DVT and PE | CrCl >30 mL/min: | 150 mg twice daily |
+| CrCl <30 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
+| CrCl <50 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |  |
+
+Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
+
 For patients with creatinine clearance (CrCl) >30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily.
 For patients with severe renal impairment (CrCl 15-30 mL/min), the recommended dose of PRADAXA is 75 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 Dosing recommendations for patients with a CrCl <15 mL/min or on dialysis cannot be provided.
+
+Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
+
+For patients with CrCl >30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily, after 5-10 days of parenteral anticoagulation.
+Dosing recommendations for patients with a CrCl <30 mL/min or on dialysis cannot be provided [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.2 Dosing Adjustments
 
@@ -12,11 +30,18 @@ Assess renal function prior to initiation of treatment with PRADAXA.
 Periodically assess renal function as clinically indicated (i.e., more frequently in clinical situations that may be associated with a decline in renal function) and adjust therapy accordingly.
 Discontinue PRADAXA in patients who develop acute renal failure while on PRADAXA and consider alternative anticoagulant therapy.
 
-In patients with moderate renal impairment (CrCl 30-50 mL/min), concomitant use of the P-gp inhibitor dronedarone or systemic ketoconazole can be expected to produce dabigatran exposure similar to that observed in severe renal impairment.
-Consider reducing the dose of PRADAXA to 75 mg twice daily [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
-
 Generally, the extent of anticoagulation does not need to be assessed.
 When necessary, use aPTT or ECT, and not INR, to assess for anticoagulant activity in patients on PRADAXA [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
+
+Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
+
+In patients with moderate renal impairment (CrCl 30-50 mL/min), concomitant use of the P-gp inhibitor dronedarone or systemic ketoconazole can be expected to produce dabigatran exposure similar to that observed in severe renal impairment.
+Consider reducing the dose of PRADAXA to 75 mg twice daily [see Warnings and Precautions (5.5), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+
+Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
+
+Dosing recommendations for patients with CrCl <30 mL/min cannot be provided.
+Avoid use of concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Instructions to Patients
 
@@ -46,10 +71,10 @@ For patients currently receiving a parenteral anticoagulant, start PRADAXA 0 to 
 
 For patients currently taking PRADAXA, wait 12 hours (CrCl ≥30 mL/min) or 24 hours (CrCl <30 mL/min) after the last dose of PRADAXA before initiating treatment with a parenteral anticoagulant [see Clinical Pharmacology (12.3)].
 
-## 2.6 Surgery and Interventions
+## 2.6 Discontinuation for Surgery and Other Interventions
 
 If possible, discontinue PRADAXA 1 to 2 days (CrCl ≥50 mL/min) or 3 to 5 days (CrCl <50 mL/min) before invasive or surgical procedures because of the increased risk of bleeding.
 Consider longer times for patients undergoing major surgery, spinal puncture, or placement of a spinal or epidural catheter or port, in whom complete hemostasis may be required [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 If surgery cannot be delayed, there is an increased risk of bleeding [see Warnings and Precautions (5.2)].
-This risk of bleeding should be weighed against the urgency of intervention [see Warnings and Precautions (5.1)].
+This risk of bleeding should be weighed against the urgency of intervention [see Warnings and Precautions (5.1, 5.3)].

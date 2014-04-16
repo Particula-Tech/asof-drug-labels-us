@@ -6,7 +6,7 @@ This Medication Guide does not take the place of talking with your doctor about 
 
 What is the most important information I should know about PRADAXA?
 
-- People with atrial fibrillation (a type of irregular heartbeat) are at an increased risk of forming a blood clot in the heart, which can travel to the brain, causing a stroke, or to other parts of the body.
+- For people taking PRADAXA for atrial fibrillation: People with atrial fibrillation (a type of irregular heartbeat) are at an increased risk of forming a blood clot in the heart, which can travel to the brain, causing a stroke, or to other parts of the body.
   PRADAXA lowers your chance of having a stroke by helping to prevent clots from forming.
   If you stop taking PRADAXA, you may have increased risk of forming a clot in your blood.
   Do not stop taking PRADAXA without talking to the doctor who prescribes it for you.
@@ -38,6 +38,10 @@ What is the most important information I should know about PRADAXA?
   PRADAXA may need to be stopped, if possible, for one or more days before any surgery, or medical or dental procedure.
   If you need to stop taking PRADAXA for any reason, talk to the doctor who prescribed PRADAXA for you to find out when you should stop taking it.
   Your doctor will tell you when to start taking PRADAXA again after your surgery or procedure.
+  Spinal or epidural blood clots (hematoma).
+  People who take a blood thinner medicine (anticoagulant) like PRADAXA, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot that can cause long-term or permanent loss of the ability to move (paralysis).
+  Your risk of developing a spinal or epidural blood clot is higher if: If you take PRADAXA and receive spinal anesthesia or have a spinal puncture, your doctor should watch you closely for symptoms of spinal or epidural blood clots.
+  Tell your doctor right away if you have back pain, tingling, numbness, muscle weakness (especially in your legs and feet), loss of control of the bowels or bladder (incontinence).
   See "What are the possible side effects of PRADAXA?" for more information about side effects.
   - you may bruise more easily
   - it may take longer for any bleeding to stop
@@ -53,13 +57,20 @@ What is the most important information I should know about PRADAXA?
   - vomit blood or your vomit looks like "coffee grounds"
   - unexpected pain, swelling, or joint pain
   - headaches, feeling dizzy or weak
+  - a thin tube called an epidural catheter is placed in your back to give you certain medicine.
+  - you take NSAIDs or a medicine to prevent blood from clotting
+  - you have a history of difficult or repeated epidural or spinal punctures
+  - you have a history of problems with your spine or have had surgery on your spine.
 
 What is PRADAXA?
 
-PRADAXA is a prescription medicine used to reduce the risk of stroke and blood clots in people who have a medical condition called atrial fibrillation.
-With atrial fibrillation, part of the heart does not beat the way it should.
-This can lead to blood clots forming and increase your risk of a stroke.
-PRADAXA is a blood thinner medicine that lowers the chance of blood clots forming in your body.
+PRADAXA is a prescription blood thinner medicine that lowers the chance of blood clots forming in your body.
+PRADAXA is used to:
+
+- reduce the risk of stroke and blood clots in people who have a medical condition called atrial fibrillation.
+  With atrial fibrillation, part of the heart does not beat the way it should.
+  This can lead to blood clots forming and increase your risk of a stroke.
+- treat blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism) and reduce the risk of them occurring again.
 
 PRADAXA is not for use in people with artificial (prosthetic) heart valves.
 
@@ -175,7 +186,7 @@ This Medication Guide summarizes the most important information about PRADAXA.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about PRADAXA that is written for health professionals.
 
-For more information, go to www.PRADAXA.com or call 1-800-542-6257 or (TTY) 1-800-459-9906, or scan here to go to www.PRADAXA.com.
+For more information, go to www.PRADAXA.com or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or (TTY) 1-800-459-9906, or scan here to go to www.PRADAXA.com.
 
 What are the ingredients in PRADAXA?
 
@@ -188,14 +199,14 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Revised: December 2013
+Revised: April 2014
 
 The brands listed above are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The owners of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright 2013 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Copyright 2014 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-11 IT5060XL112013
+75461-12 IT5060YD22014
 
-75457-11 IT5400T
+75457-12 IT5400V
 
-301841-06 IT5624H
+301841-07 IT5624J

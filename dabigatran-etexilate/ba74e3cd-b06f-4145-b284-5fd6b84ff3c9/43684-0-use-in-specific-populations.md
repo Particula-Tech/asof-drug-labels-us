@@ -20,7 +20,7 @@ Death of offspring and mother rats during labor in association with uterine blee
 ## 8.3 Nursing Mothers
 
 It is not known whether dabigatran is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when PRADAXA is administered to a nursing woman.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from PRADAXA, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
@@ -29,12 +29,21 @@ Safety and effectiveness of PRADAXA in pediatric patients have not been establis
 ## 8.5 Geriatric Use
 
 Of the total number of patients in the RE-LY study, 82% were 65 and over, while 40% were 75 and over.
-The risk of stroke and bleeding increases with age, but the risk-benefit profile is favorable in all age groups [see Warnings and Precautions (5), Adverse Reactions (6.1), and Clinical Studies (14)].
+The risk of stroke and bleeding increases with age, but the risk-benefit profile is favorable in all age groups [see Warnings and Precautions (5), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 
 ## 8.6 Renal Impairment
+
+Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
 
 No dose adjustment of PRADAXA is recommended in patients with mild or moderate renal impairment [see Clinical Pharmacology (12.3)].
 Reduce the dose of PRADAXA in patients with severe renal impairment (CrCl 15-30 mL/min) [see Dosage and Administration (2.1, 2.2) and Clinical Pharmacology (12.3)].
 Dosing recommendations for patients with CrCl <15 mL/min or on dialysis cannot be provided.
 
-Adjust dose appropriately in patients with renal impairment receiving concomitant P-gp inhibitors [see Warnings and Precautions (5.4), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Adjust dose appropriately in patients with renal impairment receiving concomitant P-gp inhibitors [see Warnings and Precautions (5.5), Drug Interactions (7.1), and Clinical Pharmacology (12.3)].
+
+Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
+
+Patients with severe renal impairment (CrCL <30 mL/min) were excluded from RE-COVER.
+
+Dosing recommendations for patients with CrCl <30 mL/min or on dialysis cannot be provided.
+Avoid use of PRADAXA with concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
