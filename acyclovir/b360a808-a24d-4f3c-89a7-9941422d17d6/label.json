@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018604"
+  ],
+  "inn": "acyclovir",
+  "labeler": "Watson Laboratories, Inc",
+  "package_ndcs": [
+    "0591-1159-30"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "acyclovir",
+      "name": "Acyclovir"
+    }
+  ],
+  "setid": "b360a808-a24d-4f3c-89a7-9941422d17d6",
+  "source": "dailymed"
+}
