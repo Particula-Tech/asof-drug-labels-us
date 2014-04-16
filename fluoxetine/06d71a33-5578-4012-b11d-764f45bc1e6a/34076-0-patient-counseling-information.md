@@ -48,23 +48,28 @@ Patients should be advised that hyponatremia has been reported as a result of tr
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death [see Warnings and Precautions (5.8)].
 
-## 17.7 Potential for Cognitive and Motor Impairment
+## 17.7 QT Prolongation
+
+Patients should be advised that QT interval prolongation and ventricular arrhythmia including torsade de pointes have been reported in patients treated with fluoxetine.
+Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular heart rate, dyspnea, syncope, or dizziness, which may indicate serious cardiac arrhythmia [see Warnings and Precautions (5.10)].
+
+## 17.8 Potential for Cognitive and Motor Impairment
 
 Fluoxetine may impair judgment, thinking, or motor skills.
 Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.11)].
 
-## 17.8 Use of Concomitant Medications
+## 17.9 Use of Concomitant Medications
 
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax® (olanzapine and fluoxetine hydrochloride capsules), Sarafem® (fluoxetine capsules), or over-the-counter drugs, including herbal supplements or alcohol.
 Patients should also be advised to inform their physicians if they plan to discontinue any medications they are taking while on fluoxetine.
 
-## 17.9 Discontinuation of Treatment
+## 17.10 Discontinuation of Treatment
 
 Patients should be advised to take fluoxetine exactly as prescribed, and to continue taking fluoxetine as prescribed even after their symptoms improve.
 Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their physician [see Warnings and Precautions (5.13)].
 Patients should be advised to consult with their healthcare provider if their symptoms do not improve with fluoxetine.
 
-## 17.10 Use in Specific Populations
+## 17.11 Use in Specific Populations
 
 Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
@@ -72,12 +77,14 @@ Fluoxetine should be used during pregnancy only if the potential benefit justifi
 Nursing Mothers — Patients should be advised to notify their physician if they intend to breast-feed an infant during therapy.
 Because fluoxetine is excreted in human milk, nursing while taking fluoxetine is not recommended [see Use in Specific Populations (8.3)].
 
-Pediatric Use — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
+Pediatric Use of Fluoxetine — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
-Height and weight should be monitored periodically in pediatric patients receiving fluoxetine.
-Safety and effectiveness of fluoxetine and olanzapine in combination in patients less than 18 years of age have not been established [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
+Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 
-Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
+Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
+However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
 Manufactured In Poland By: PLIVA Krakow Pharmaceutical Company S.A.
 Krakow, Poland
@@ -85,4 +92,4 @@ Krakow, Poland
 Manufactured For: TEVA PHARMACEUTICALS USA Sellersville, PA 18960
 
 Rev.
-E 8/2013
+F 2/2014
