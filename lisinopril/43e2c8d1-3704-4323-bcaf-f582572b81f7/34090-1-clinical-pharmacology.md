@@ -26,7 +26,7 @@ This terminal phase probably represents saturable binding to ACE and is not prop
 
 Lisinopril does not appear to be bound to other serum proteins.
 Lisinopril does not undergo metabolism and is excreted unchanged entirely in the urine.
-Based on urinary recovery, the mean extent of absorption of lisinopril is approximately 25%, with large intersubject variability (6%-60%) at all doses tested (5-80 mg).
+Based on urinary recovery, the mean extent of absorption of lisinopril is approximately 25%, with large intersubject variability (6% to 60%) at all doses tested (5 to 80 mg).
 Lisinopril absorption is not influenced by the presence of food in the gastrointestinal tract.
 The absolute bioavailability of lisinopril is reduced to 16% in patients with stable NYHA Class II-IV congestive heart failure, and the volume of distribution appears to be slightly smaller than that in normal subjects.
 The oral bioavailability of lisinopril in patients with acute myocardial infarction is similar to that in healthy volunteers.
@@ -69,7 +69,7 @@ Two dose-response studies utilizing a once-daily regimen were conducted in 438 m
 Blood pressure was measured 24 hours after dosing.
 An antihypertensive effect of lisinopril was seen with 5 mg in some patients.
 However, in both studies blood pressure reduction occurred sooner and was greater in patients treated with 10, 20 or 80 mg of lisinopril.
-In controlled clinical studies, lisinopril 20-80 mg has been compared in patients with mild to moderate hypertension to hydrochlorothiazide 12.5-50 mg and with atenolol 50-200 mg; and in patients with moderate to severe hypertension to metoprolol 100-200 mg.
+In controlled clinical studies, lisinopril 20 to 80 mg has been compared in patients with mild to moderate hypertension to hydrochlorothiazide 12.5 to 50 mg and with atenolol 50 to 200 mg; and in patients with moderate to severe hypertension to metoprolol 100 to 200 mg.
 It was superior to hydrochlorothiazide in effects on systolic and diastolic pressure in a population that was 3/4 Caucasian.
 Lisinopril was approximately equivalent to atenolol and metoprolol in effects on diastolic blood pressure, and had somewhat greater effects on systolic blood pressure.
 
@@ -98,7 +98,7 @@ In two placebo controlled, 12-week clinical studies using doses of lisinopril up
 In one of the studies, beneficial response was also noted for: orthopnea, presence of third heart sound and the number of patients classified as NYHA Class III and IV.
 Exercise tolerance was also improved in this study.
 The once-daily dosing for the treatment of congestive heart failure was the only dosage regimen used during clinical trial development and was determined by the measurement of hemodynamic response.
-A large (over 3000 patients) survival study, the ATLAS Trial, comparing 2.5 and 35 mg of lisinopril in patients with heart failure, showed that the higher dose of lisinopril had outcomes at least as favorable as the lower dose.
+A large (over 3000 patients) survival study, the ATLAS Trial, comparing 2.5 mg and 35 mg of lisinopril in patients with heart failure, showed that the higher dose of lisinopril had outcomes at least as favorable as the lower dose.
 
 ### Acute Myocardial Infarction:
 

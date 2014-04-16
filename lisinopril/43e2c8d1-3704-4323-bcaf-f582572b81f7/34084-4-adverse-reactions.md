@@ -115,7 +115,7 @@ Cases of hypoglycemia in diabetic patients on oral antidiabetic agents or insuli
 
 Musculoskeletal: Arthritis, arthralgia, neck pain, hip pain, low back pain, joint pain, leg pain, knee pain, shoulder pain, arm pain, lumbago.
 
-Nervous System/Psychiatric: Stroke, ataxia, memory impairment, tremor, peripheral neuropathy (e.g., dysesthesia), spasm, paresthesia, confusion, insomnia, somnolence, hypersomnia, irritability, nervousness and mood alterations (including depressive symptoms).
+Nervous System/Psychiatric: Stroke, ataxia, memory impairment, tremor, peripheral neuropathy (e.g., dysesthesia), spasm, paresthesia, confusion, insomnia, somnolence, hypersomnia, irritability, nervousness, mood alterations (including depressive symptoms) and hallucinations.
 
 Respiratory System: Malignant lung neoplasms, hemoptysis, pulmonary infiltrates, bronchospasm, asthma, pleural effusion, pneumonia, eosinophilic pneumonitis, bronchitis, wheezing, orthopnea, painful respiration, epistaxis, laryngitis, sinusitis, pharyngeal pain, pharyngitis, rhinitis, rhinorrhea.
 
