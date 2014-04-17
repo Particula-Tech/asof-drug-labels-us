@@ -38,7 +38,7 @@ Patients received XELJANZ 5 or 10 mg twice daily, adalimumab 40 mg subcutaneousl
 Placebo patients were advanced as in Study II.
 The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, HAQ-DI at Month 3, and DAS28-4(ESR) less than 2.6 at Month 6.
 
-Study IV is an ongoing 2-year trial with a planned analysis at 1 year in which 797 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to MTX received XELJANZ 5 or 10 mg twice daily or placebo added to background MTX.
+Study IV was a 2-year trial with a planned analysis at 1 year in which 797 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to MTX received XELJANZ 5 or 10 mg twice daily or placebo added to background MTX.
 Placebo patients were advanced as in Study II.
 The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, mean change from baseline in van der Heijde-modified total Sharp Score (mTSS) at Month 6, HAQ-DI at Month 3, and DAS28-4(ESR) less than 2.6 at Month 6.
 
@@ -46,7 +46,7 @@ Study V was a 6-month trial in which 399 patients with moderate to severe active
 At the Month 3 visit, all patients randomized to placebo treatment were advanced in a blinded fashion to a second predetermined treatment of XELJANZ 5 or 10 mg twice daily.
 The primary endpoints at Month 3 were the proportion of patients who achieved an ACR20 response, HAQ-DI, and DAS28-4(ESR) less than 2.6.
 
-Study VI is an ongoing 2-year monotherapy trial with a planned analysis at 1 year in which 952 MTX-naïve patients with moderate to severe active rheumatoid arthritis received XELJANZ 5 or 10 mg twice daily or MTX dose-titrated over 8 weeks to 20 mg weekly.
+Study VI was a 2-year monotherapy trial with a planned analysis at 1 year in which 952 MTX-naïve patients with moderate to severe active rheumatoid arthritis received XELJANZ 5 or 10 mg twice daily or MTX dose-titrated over 8 weeks to 20 mg weekly.
 The primary endpoints were mean change from baseline in van der Heijde-modified Total Sharp Score (mTSS) at Month 6 and the proportion of patients who achieved an ACR70 response at Month 6.
 
 Clinical Response

@@ -152,6 +152,8 @@ Skin and subcutaneous tissue disorders: Rash, erythema, pruritus
 
 Musculoskeletal, connective tissue and bone disorders: Musculoskeletal pain, arthralgia, tendonitis, joint swelling
 
+Neoplasms benign, malignant and unspecified (including cysts and polyps): Non-melanoma skin cancers
+
 General disorders and administration site conditions: Pyrexia, fatigue, peripheral edema
 
 Clinical Experience in Methotrexate-Naïve Patients
