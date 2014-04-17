@@ -27,9 +27,9 @@ The possibility of viral resistance to acyclovir should be considered in patient
 
 Manufactured by:
 
-Valeant Pharmaceuticals International Inc.,
+GlaksoSmithKline
 
-Laval, QC H7L 4A8 Canada
+Mississauga, Ontario, L5N 6L4 Canada
 
 Distributed by:
 
@@ -40,6 +40,6 @@ Parsippany, NJ 07054 USA
 ZOVIRAX® is a registered trademark of the GlaxoSmithKline group of companies and used under license by Valeant.
 
 Rev.
-February 2014
+April 2013
 
-218920-1
+A118365

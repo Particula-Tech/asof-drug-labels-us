@@ -4,15 +4,15 @@ ACYCLOVIR OINTMENT 5%
 
 Manufactured by:
 
-Valeant Pharmaceuticals International Inc.,
-
-Laval, QC H7L 4A8 Canada
+GlaksoSmithKline Mississauga, Ontario, L5N 6L4 Canada
 
 Distributed by:
 
 Watson Pharma, Inc.
 
 Parsippany, NJ 07054 USA
+
+Made In Canada
 
 NDC 0591-1159-30
 
