@@ -1,4 +1,6 @@
-MEDICATION GUIDE Ketoconazole Tablets USP, 200 mg
+# MEDICATION GUIDE
+
+Ketoconazole (KEE-toe-KON-a-zole) Tablets USP, 200 mg
 
 What is the most important information I should know about ketoconazole tablets USP?
 
@@ -19,7 +21,7 @@ Ketoconazole tablets USP can cause serious side effects, including:
   - fever or rash
 - changes in the electrical activity of your heart called QT prolongation.
   QT prolongation can cause irregular heart beats that can be life threatening.
-  This can happen when ketoconazole tablets are taken with certain medicines, such as dofetilide, quinidine, pimozide, and cisapride.
+  This can happen when ketoconazole tablets are taken with certain medicines, such as dofetilide, quinidine, pimozide, cisapride, methadone, disopyramide, dronedarone, and ranolazine.
   Talk to your healthcare provider about other medicines you are taking before you start taking ketoconazole tablets.
   Tell your healthcare provider right away if you feel faint, lightheaded, dizzy, or feel your heart beating irregularly or fast.
   These may be symptoms related to QT prolongation.
@@ -38,7 +40,7 @@ Who should not take ketoconazole tablets USP?
   - have liver problems
   - take simvastatin, and lovastatin.
     Ketoconazole tablets when taken with these medicines may cause muscle problems.
-  - take eplerenone, dihydroergotamine, ergotamine, and nisoldipine.
+  - take eplerenone, dihydroergotamine, ergotamine, ergometrine (ergonovine), methylergometrine (methylergonovine) or nisoldipine.
   - take triazolam, midazolam, or alprazolam.
     Taking ketoconazole tablets with these medicines may make you very drowsy and make your drowsiness last longer.
   - are allergic to ketoconazole or any of the ingredients in ketoconazole tablets.
@@ -91,7 +93,6 @@ The most common side effects of ketoconazole tablets include nausea, headache, d
 
 These are not all the possible side effects of ketoconazole tablets.
 For more information, ask your healthcare provider or pharmacist.
-
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
@@ -119,3 +120,9 @@ Active ingredient: ketoconazole.
 Inactive ingredients: colloidal silicon dioxide, corn starch, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and povidone.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
+
+Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761
+
+Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
+
+Revised: April 2014 MG79775-0414-4

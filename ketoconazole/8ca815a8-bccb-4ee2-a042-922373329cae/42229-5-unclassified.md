@@ -1,13 +1,9 @@
 Rx only
 
-Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 26110 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
+Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761
 
-Revised: August, 2013
+Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-79775-0813-3
+Revised: April 2014
 
-Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 26110 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
-
-Revised: August, 2013
-
-79775-0813-3
+79775-0414-4

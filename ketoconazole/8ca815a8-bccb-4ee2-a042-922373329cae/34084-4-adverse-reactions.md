@@ -49,7 +49,7 @@ Endocrine Disorders: adrenocortical insufficiency
 
 Nervous System Disorders: reversible intracranial pressure increased (e.g. papilloedema, fontanelle bulging in infants)
 
-Hepatobiliary Disorders: serious hepatotoxicity including hepatitis cholestatic, biopsyconfirmed hepatic necrosis, cirrhosis, hepatic failure including cases resulting in transplantation or death
+Hepatobiliary Disorders: serious hepatotoxicity including hepatitis cholestatic, biopsy-confirmed hepatic necrosis, cirrhosis, hepatic failure including cases resulting in transplantation or death
 
 Skin and Subcutaneous Tissue Disorders: acute generalized exanthematous pustulosis, photosensitivity
 
