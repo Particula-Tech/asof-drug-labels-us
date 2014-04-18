@@ -43,6 +43,7 @@ NDC 0186-4020–01 unit dose packages of 30: 20 mg packets
 
 NDC 0186-4040–01 unit dose packages of 30: 40 mg packets
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F).
+[See USP Controlled Room Temperature].
 Keep NEXIUM Delayed-Release Capsules container tightly closed.
 Dispense in a tight container if the NEXIUM Delayed-Release Capsules product package is subdivided.

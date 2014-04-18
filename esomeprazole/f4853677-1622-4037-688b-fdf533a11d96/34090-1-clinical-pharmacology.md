@@ -34,13 +34,14 @@ This increase reached a plateau within two to three months of therapy and return
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
 The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+Healthcare providers should temporarily stop esomeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 
 Enterochromaffin-like (ECL) Cell Effects
 
-In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology (13.1)].
+In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [seeNonclinical Toxicology (13.1)].
 Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
-Human gastric biopsy specimens have been obtained from more than 3,000 patients treated with omeprazole in long-term clinical trials.
+Human gastric biopsy specimens have been obtained from more than 3,000 patients (both children and adults) treated with omeprazole in long-term clinical trials.
 The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
 
 In over 1,000 patients treated with NEXIUM (10, 20 or 40 mg/day) up to 6 to 12 months, the prevalence of ECL cell hyperplasia increased with time and dose.
@@ -73,7 +74,7 @@ Table 4: Pharmacokinetic Parameters of NEXIUM on Day 5 Following Oral Dosing for
 
 | Parameter Values represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation (CV) | NEXIUM 40 mg | NEXIUM 20 mg |
 | --- | --- | --- |
-| AUC (μmol*h/L) | 12.6 (42%) | 4.2 (59%) |
+| AUC (μmol·h/L) | 12.6 (42%) | 4.2 (59%) |
 | Cmax (μmol/L) | 4.7 (37%) | 2.1 (45%) |
 | Tmax (h) | 1.6 | 1.6 |
 | t1/2 (h) | 1.5 | 1.2 |
@@ -133,8 +134,8 @@ Table 5: Summary of PK parameters in 1 month to < 1 year Olds with GERD Followin
 |  | 1 month to < 1 year |
 | --- | --- |
 | Parameter | 1.0 mg/kg |
-| AUC (μmol*h/L) (n=7)Geometric mean | 3.51 |
-| C,max (μmol/L) (n=15) | 0.87 |
+| AUC (μmol·h/L) (n=7)Geometric mean | 3.51 |
+| Css,,max (μmol/L) (n=15) | 0.87 |
 | t½ (hours) (n=8) | 0.93 |
 | tmax (hours) (n=15)Median | 3.0 |
 
@@ -153,7 +154,7 @@ Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD following 5 Day
 |  | 1 to 5 Year Olds | 6 to 11 Year Olds |  |
 | --- | --- | --- | --- |
 | Parameter | 10 mg (N=8) | 10 mg (N=7) | 20 mg (N=6) |
-| AUC (μmol*h/L)Geometric mean; | 4.83 | 3.70 | 6.28 |
+| AUC (μmol·h/L)Geometric mean; | 4.83 | 3.70 | 6.28 |
 | Cmax (μmol/L) | 2.98 | 1.77 | 3.73 |
 | tmax (h)arithmetic mean | 1.44 | 1.79 | 1.75 |
 | t½λz (h) | 0.74 | 0.88 | 0.73 |
@@ -173,7 +174,7 @@ Data were obtained from two independent studies.
 |  | 12 to 17 Year Olds (N=28) |  | Adults (N=36) |  |
 | --- | --- | --- | --- | --- |
 |  | 20 mg | 40 mg | 20 mg | 40 mg |
-| AUC (μmol*h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
+| AUC (μmol·h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
 | Cmax (μmol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
 | tmax (h) | 2.00 | 1.75 | 1.6 | 1.6 |
 | t½λz (h) | 0.82 | 1.22 | 1.2 | 1.5 |
@@ -189,7 +190,7 @@ Hepatic Insufficiency
 The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
+No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [seeDosage and Administration (2)].
 
 Renal Insufficiency
 

@@ -12,7 +12,7 @@ Table 1: Recommended Dosage Schedule of NEXIUM
 | Indication | Dose | Frequency |
 | --- | --- | --- |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
-| Healing of Erosive Esophagitis | 20 mg or 40 mg | Once Daily for 4 to 8 Weeks[See Clinical Studies (14.1)] The majority of patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be considered. |
+| Healing of Erosive Esophagitis | 20 mg or 40 mg | Once Daily for 4 to 8 Weeks[See Clinical Studies (14.1)]The majority of patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be considered. |
 | Maintenance of Healing of Erosive Esophagitis | 20 mg | Once DailyControlled studies did not extend beyond six months. |
 | Symptomatic Gastroesophageal Reflux Disease | 20 mg | Once Daily for 4 WeeksIf symptoms do not resolve completely after 4 weeks, an additional 4 weeks of treatment may be considered. |
 | Pediatric GERD12 to 17 Year Olds |  |  |
@@ -33,7 +33,7 @@ Table 1: Recommended Dosage Schedule of NEXIUM
 | NEXIUM | 40 mg | Once Daily for 10 Days |
 | Amoxicillin | 1000 mg | Twice Daily for 10 Days |
 | Clarithromycin | 500 mg | Twice Daily for 10 Days |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 40 mgThe dosage of NEXIUM in patients with pathological hypersecretory conditions varies with the individual patient. Dosage regimens should be adjusted to individual patient needs. | Doses up to 240 mg daily have been administered [see Drug Interactions (7)]. Twice Daily |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 40 mgThe dosage of NEXIUM in patients with pathological hypersecretory conditions varies with the individual patient. Dosage regimens should be adjusted to individual patient needs. | Doses up to 240 mg daily have been administered [see Drug Interactions (7)].Twice Daily |
 
 Please refer to amoxicillin and clarithromycin prescribing information for Contraindications, Warnings, and dosing in elderly and renally-impaired patients.
 
@@ -42,7 +42,7 @@ Special Populations
 Hepatic Insufficiency
 
 In patients with mild to moderate liver impairment (Child Pugh Classes A and B), no dosage adjustment is necessary.
-For patients with severe liver impairment (Child Pugh Class C), a dose of 20 mg of NEXIUM should not be exceeded [see Clinical Pharmacology (12.3)].
+For patients with severe liver impairment (Child Pugh Class C), a dose of 20 mg of NEXIUM should not be exceeded [seeClinical Pharmacology (12.3)].
 
 Directions for use specific to the route and available methods of administration for each of these dosage forms are presented in Table 2.
 

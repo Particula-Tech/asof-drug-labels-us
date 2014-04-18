@@ -118,7 +118,7 @@ Table 11: Cumulative percentage of patients without gastric ulcers at 26 weeks:
 | 1 | 191194184 | NEXIUM 20 mgNEXIUM 40 mgPlacebo | 95.496.788.2 |
 | 2 | 267271257 | NEXIUM 20 mgNEXIUM 40 mgPlacebo | 94.795.383.3 |
 
-## 14.5 Helicobacter pylori (H.pylori) Eradication in Patients with Duodenal Ulcer Disease
+## 14.5 Helicobacter pylori (H. pylori) Eradication in Patients with Duodenal Ulcer Disease
 
 Triple Therapy (NEXIUM/amoxicillin/clarithromycin): Two multicenter, randomized, double-blind studies were conducted using a 10 day treatment regimen.
 The first study (191) compared NEXIUM 40 mg once daily in combination with amoxicillin 1000 mg twice daily and clarithromycin 500 mg twice daily to NEXIUM 40 mg once daily plus clarithromycin 500 mg twice daily.
@@ -130,9 +130,9 @@ Table 12: H. pylori Eradication Rates at 4 Weeks after 10 Day Treatment Regimen 
 
 | Study | Treatment Group | Per-ProtocolPatients were included in the analysis if they had H. pylori infection documented at baseline, had at least one endoscopically verified duodenal ulcer ≥ 0.5 cm in diameter at baseline or had a documented history of duodenal ulcer disease within the past 5 years, and were not protocol violators. Patients who dropped out of the study due to an adverse reaction related to the study drug were included in the analysis as not H. pylori eradicated. | Intent-to-TreatPatients were included in the analysis if they had documented H. pylori infection at baseline, had at least one documented duodenal ulcer at baseline, or had a documented history of duodenal ulcer disease, and took at least one dose of study medication. All dropouts were included as not H. pylori eradicated. |
 | --- | --- | --- | --- |
-| 191 | NEXIUM plus amoxicillin and clarithromycin | 84% p < 0.05 compared to NEXIUM plus clarithromycin.[78, 89](n=196) | 77%[71, 82](n=233) |
+| 191 | NEXIUM plus amoxicillin and clarithromycin | 84% p < 0.05 compared to NEXIUM plus clarithromycin[78, 89](n=196) | 77%[71, 82](n=233) |
 |  | NEXIUM plus clarithromycin | 55%[48, 62](n=187) | 52%[45, 59](n=215) |
-| 193 | NEXIUM plus amoxicillin and clarithromycin | 85% p < 0.05 compared to NEXIUM alone.[74, 93](n=67) | 78%[67, 87](n=74) |
+| 193 | NEXIUM plus amoxicillin and clarithromycin | 85% p < 0.05 compared to NEXIUM alone[74, 93](n=67) | 78%[67, 87](n=74) |
 |  | NEXIUM | 5%[0, 23](n=22) | 4%[0, 21](n=24) |
 
 The percentage of patients with a healed baseline duodenal ulcer by 4 weeks after the 10 day treatment regimen in the NEXIUM plus amoxicillin and clarithromycin group was 75% (n=156) and 57% (n=60) respectively, in the 191 and 193 studies (per-protocol analysis).

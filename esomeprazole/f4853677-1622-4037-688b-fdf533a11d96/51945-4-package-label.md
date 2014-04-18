@@ -2,7 +2,7 @@
 
 NDC 0186-5020-31
 
-NEXIUM®
+NEXIUM ®
 
 (esomeprazole magnesium)
 
@@ -82,7 +82,7 @@ AstraZeneca
 
 NDC 0186-4025-01
 
-NEXIUM®
+NEXIUM ®
 
 (esomeprazole magnesium*)
 
@@ -108,7 +108,7 @@ AstraZeneca
 
 NDC 0186-4050-01
 
-NEXIUM®
+NEXIUM ®
 
 (esomeprazole magnesium*)
 
@@ -134,7 +134,7 @@ AstraZeneca
 
 NDC 0186-4010-01
 
-NEXIUM®
+NEXIUM ®
 
 (esomeprazole magnesium*)
 
@@ -160,7 +160,7 @@ AstraZeneca
 
 NDC 0186-4020-01
 
-NEXIUM®
+NEXIUM ®
 
 (esomeprazole magnesium*)
 
@@ -186,7 +186,7 @@ AstraZeneca
 
 NDC 0186-4040-01
 
-NEXIUM®
+NEXIUM ®
 
 (esomeprazole magnesium*)
 

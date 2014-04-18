@@ -1,4 +1,4 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 NEXIUM® (nex-e-um)
 
@@ -73,9 +73,7 @@ Before you take NEXIUM, tell your doctor if you:
 - •are pregnant or plan to become pregnant.
   It is not known if NEXIUM can harm your unborn baby.
 - •are breastfeeding or planning to breastfeed.
-  It is not known if NEXIUM passes into your breastmilk.
-  You and your doctor should decide if you will take NEXIUM or breastfeed.
-  You should not do both.
+  NEXIUM may pass into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take NEXIUM.
 
 Tell your doctor about all of the medicines you take, including prescription and non-prescription drugs, vitamins and herbal supplements.
@@ -127,11 +125,10 @@ NEXIUM can cause serious side effects, including:
   You may or may not have symptoms.
   Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
 - •Low magnesium levels in your body.
-  This problem can be serious.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
-  You may or may not have symptoms of low magnesium.
-  Tell you doctor right away if you have any of these symptoms:
+- You may or may not have symptoms of low magnesium.
+  Tell your doctor right away if you have any of these symptoms:
   - •seizures
   - •dizziness
   - •abnormal or fast heart beat
@@ -255,7 +252,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Issued February 2014
+Revised March 2014
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 

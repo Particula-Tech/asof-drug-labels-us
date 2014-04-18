@@ -17,16 +17,16 @@ Because of the observed effect at high doses of esomeprazole magnesium on develo
 Human Data
 
 Esomeprazole is the S-isomer of omeprazole.
-Four epidemiological studies compared the frequency of congenital abnormalities among infants born to women who used omeprazole during pregnancy with the frequency of abnormalities among infants of women exposed to H2 receptor antagonists or other controls.
+Four epidemiological studies compared the frequency of congenital abnormalities among infants born to women who used omeprazole during pregnancy with the frequency of abnormalities among infants of women exposed to H2-receptor antagonists or other controls.
 
-A population based retrospective cohort epidemiological study from the Swedish Medical Birth Registry, covering approximately 99% of pregnancies, from 1995-99, reported on 955 infants (824 exposed during the first trimester with 39 of these exposed beyond first trimester, and 131 exposed after the first trimester) whose mothers used omeprazole during pregnancy.
+A population-based retrospective cohort epidemiological study from the Swedish Medical Birth Registry, covering approximately 99% of pregnancies, from 1995-99, reported on 955 infants (824 exposed during the first trimester with 39 of these exposed beyond first trimester, and 131 exposed after the first trimester) whose mothers used omeprazole during pregnancy.
 The number of infants exposed in utero to omeprazole that had any malformation, low birth weight, low Apgar score, or hospitalization was similar to the number observed in this population.
 The number of infants born with ventricular septal defects and the number of stillborn infants was slightly higher in the omeprazole-exposed infants than the expected number in this population.
 
 A population-based retrospective cohort study covering all live births in Denmark from 1996-2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837, 317 live births whose mothers did not use any proton pump inhibitor.
 The overall rate of birth defects in infants born to mothers with first trimester exposure to omeprazole was 2.9% and 2.6% in infants born to mothers not exposed to any proton pump inhibitor during the first trimester.
 
-A retrospective cohort study reported on 689 pregnant women exposed to either H2 blockers or omeprazole in the first trimester (134 exposed to omeprazole) and 1,572 pregnant women unexposed to either during the first trimester.
+A retrospective cohort study reported on 689 pregnant women exposed to either H2-blockers or omeprazole in the first trimester (134 exposed to omeprazole) and 1,572 pregnant women unexposed to either during the first trimester.
 The overall malformation rate in offspring born to mothers with first trimester exposure to omeprazole, an H2-blocker, or were unexposed was 3.6%, 5.5%, and 4.1% respectively.
 
 A small prospective observational cohort study followed 113 women exposed to omeprazole during pregnancy (89% first trimester exposures).
@@ -52,10 +52,9 @@ A pre- and postnatal development study in rats with esomeprazole strontium (usin
 
 ## 8.3 Nursing Mothers
 
-Omeprazole concentrations have been measured in breast milk of one woman taking omeprazole 20 mg per day.
-However, the excretion of esomeprazole in milk has not been studied.
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for NEXIUM in rat carcinogenicity studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Esomeprazole is likely present in human milk.
+Esomeprazole is the S-isomer of omeprazole and limited data indicate that maternal doses of omeprazole 20 mg daily produce low levels in human milk.
+Caution should be exercised when Nexium is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
@@ -65,12 +64,12 @@ However, the safety and effectiveness of NEXIUM have not been established in pat
 
 1 to 17 years of age
 
-Use of NEXIUM in pediatric and adolescent patients 1 to 17 years of age for short-term treatment (up to eight weeks) of GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety and pharmacokinetic studies performed in pediatric and adolescent patients [see Clinical Pharmacology (12.3), Dosage and Administration (2),Adverse Reactions (6.1), andClinical Studies (14.3)].
+Use of NEXIUM in pediatric and adolescent patients 1 to 17 years of age for short-term treatment (up to eight weeks) of GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety and pharmacokinetic studies performed in pediatric and adolescent patients [seeDosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), andClinical Studies (14.3)].
 The safety and effectiveness of NEXIUM for other pediatric uses have not been established.
 
 Erosive esophagitis due to acid-mediated GERD in infants 1 month to less than one year of age
 
-Use of NEXIUM in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [see Clinical Pharmacology (12.3),Dosage and Administration (2),Adverse Reactions (6.1),andClinical Studies, (14.3)].
+Use of NEXIUM in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [seeDosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), andClinical Studies (14.3)].
 
 Symptomatic GERD in infants 1 month to less than one year of age
 
@@ -83,7 +82,7 @@ There were 80 patients who attained a pre-specified level of symptom improvement
 Efficacy was assessed by observing the time from randomization to study discontinuation due to symptom worsening during the four-week, treatment-withdrawal phase.
 
 The following pharmacokinetic and pharmacodynamic information was obtained in pediatric patients with GERD aged birth to less than one year of age.
-In infants (1 to 11 months old, inclusive) given NEXIUM 1 mg/kg once daily, the percent time with intragastric pH > 4 increased from 29% at baseline to 69% on Day 7, which is similar to the pharmacodynamic effect in adults [see Clinical Pharmacology (12.2)].
+In infants (1 to 11 months old, inclusive) given NEXIUM 1 mg/kg once daily, the percent time with intragastric pH > 4 increased from 29% at baseline to 69% on Day 7, which is similar to the pharmacodynamic effect in adults [seeClinical Pharmacology (12.2)].
 Apparent clearance (CL/F) increases with age in pediatric patients from birth to 2 years of age.
 
 Neonates 0 to 1 month of age
@@ -91,11 +90,6 @@ Neonates 0 to 1 month of age
 Following administration of oral NEXIUM in neonates the geometric mean (range) for the apparent clearance (CL/F) was 0.55 L/h/kg (0.25-1.6 L/h/kg).
 
 The safety and effectiveness of NEXIUM in neonates have not been established.
-
-Juvenile Animal Data
-
-In a juvenile rat toxicity study, esomeprazole was administered with both magnesium and strontium salts at oral doses about 34 to 57 times a daily human dose of 40 mg based on body surface area.
-Increases in death were seen at the high dose, and at all doses of esomeprazole, there were decreases in body weight, body weight gain, femur weight and femur length, and decreases in overall growth [see Nonclinical Toxicology (13.2)].
 
 ## 8.5 Geriatric Use
 
