@@ -9,4 +9,4 @@ NDC Number: 58914-601-20, Blister pack of 120.
 
 Storage
 
-Store at controlled room temperature [68° to 77°F or 20° to 25°C]
+Store at controlled room temperature [68° to 77°F or 20° to 25°C].

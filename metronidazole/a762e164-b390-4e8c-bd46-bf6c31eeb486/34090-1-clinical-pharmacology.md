@@ -123,8 +123,7 @@ The antibacterial action of bismuth salts is not well understood.
 
 Activity in vitro and in vivo
 
-PYLERA plus omeprazole therapy has been shown to be active against most strains of Helicobacter pylori both in vitro and in clinical infections.
-[See Clinical Studies (14)].
+PYLERA plus omeprazole therapy has been shown to be active against most strains of Helicobacter pylori both in vitro and in clinical infections [See Clinical Studies (14)].
 
 Susceptibility Test Methods
 

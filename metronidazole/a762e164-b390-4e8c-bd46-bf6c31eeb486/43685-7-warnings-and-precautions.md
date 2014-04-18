@@ -5,7 +5,7 @@
 There are no adequate and well-controlled studies of PYLERA in pregnant women.
 However, tetracycline can cause fetal harm when administered to a pregnant women.
 The use of drugs of the tetracycline class during the second and third trimester pregnancy can also cause permanent discoloration of the teeth (yellow-gray brown) and possibly inhibit bone development [See Warnings and Precautions (5.3)].
-Administration of oral tetracycline to pregnant rats at various doses resulted in yellow fluorescence in teeth and bones in newborn animals.
+Administration of oral tetracycline to pregnant rats at various doses resulted in yellow fluorescence in teeth and bones in the newborn animals.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [See Use in Specific Populations (8.1)]
 
 ## 5.2 Maternal Toxicity
@@ -15,7 +15,7 @@ This syndrome may result in stillborn or premature birth due to maternal patholo
 
 ## 5.3 Tooth Enamel Discoloration and Hypoplasia
 
-The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy, and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray brown).
+The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy, and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
 This adverse reaction is more common during long-term use of the drug, but has been observed following repeated short-term courses.
 Enamel hypoplasia has also been reported.
 PYLERA, therefore, should not be used in this age group unless other drugs are not likely to be effective or are contraindicated [See Use in Specific Populations (8.4)].
@@ -39,14 +39,14 @@ While this condition and related symptoms usually resolve soon after discontinua
 Bismuth-containing products: Cases of neurotoxicity associated with excessive doses of various bismuth-containing products have been reported.
 Effects have been reversible with discontinuation of bismuth therapy.
 
-The appearance of abnormal neurologic signs and symptoms demands the prompt evaluation of the benefit/risk ratio of the continuation of PYLERA therapy [See Adverse Reactions (6.3)]
+The appearance of abnormal neurologic signs and symptoms demands the prompt evaluation of the benefit/risk ratio of the continuation of PYLERA therapy [See Adverse Reactions (6.3)].
 
 ## 5.5 Development of Superinfections
 
 Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with metronidazole and requires treatment with an antifungal agent.
 
 As with other antibiotics, use of tetracycline hydrochloride may result in overgrowth of nonsusceptible organisms, including fungi.
-If superinfection occurs, discontinue PYLERA and institute appropriate therapy
+If superinfection occurs, discontinue PYLERA and institute appropriate therapy.
 
 ## 5.6 Photosensitivity
 
@@ -57,7 +57,7 @@ Discontinue treatment at the first evidence of skin erythema.
 
 ## 5.7 Darkening of the Tongue and/or Black Stool
 
-Bismuth subcitrate potassium may cause temporary and harmless darkening of the tongue and/or black stool, generally reversible within several days after treatment is stopped [See Adverse Reactions (6.1)].
+Bismuth subcitrate potassium may cause temporary and harmless darkening of the tongue and/or black stools, generally reversible within several days after treatment is stopped [See Adverse Reactions (6.1)].
 Stool darkening should not be confused with melena.
 
 ## 5.8 Use in Patients with Blood Dyscrasias
@@ -76,7 +76,7 @@ However, this change does not interfere with standard tests for occult blood.
 Metronizadole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and hexokinase glucose.
 Values of zero may be observed.
 All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide (NAD+ <=> NADH).
-Interference is due to the similarity in absorbance peaks of NADH (340 nm) and metronidazole (322 nm) at pH 7
+Interference is due to the similarity in absorbance peaks of NADH (340 nm) and metronidazole (322 nm) at pH 7.
 
 ## 5.10 Development of Drug Resistant Bacteria
 

@@ -17,7 +17,7 @@ Tetracycline
 
 Published case reports have described the yellowing of bones and teeth in human infants exposed to tetracycline during the second and third trimester of pregnancy.
 The yellowing is caused by the direct deposition of tetracycline during the mineralization process.
-The discoloration is more common during long-term use of the drug but has also been observed following repeated short-term courses.
+This discoloration is more common during long-term use of the drug but has also been observed following repeated short-term courses.
 All tetracyclines form a stable calcium complex in any bone forming tissue.
 A decrease in fibula growth rate was observed in premature infants given oral tetracycline in doses of 25 mg/kg every six hours.
 This effect resolved when the drug was discontinued.
@@ -37,7 +37,7 @@ Many studies included first trimester exposures.
 One study showed an increased risk of cleft lip, with or without cleft palate, in infants exposed to metronidazole in-utero; however, these findings were not confirmed.
 In additon, more than ten randomized, placebo-controlled clinical trials enrolled more than 5000 pregnant women to assess the use of antibiotic treatment (including metronidazole) for bacterial vaginosis on the incidence of preterm delivery.
 Most studies did not show an increased risk for congenital anomalies or other adverse fetal outcomes following metronidazole exposure during pregnancy.
-These studies conducted to assess the risk of infant cancer following metronidazole exposure during pregnancy did not show an increased risk; however, the ability of these studies to detect such a signal was limited.
+Three studies conducted to assess the risk of infant cancer following metronidazole exposure during pregnancy did not show an increased risk; however, the ability of these studies to detect such a signal was limited.
 
 Metronidazole crosses the placental barrier and its effects on the human fetal organogenesis are not known.
 No fetotoxicity was observed when metronidazole was administered orally to pregnant mice at 10 mg/kg/day, approximately 5 percent of the indicated human dose (1500 mg/day) based on body surface area; however in a single small study where the drug was administered intraperitoneally, some intrauterine deaths were observed.

@@ -6,7 +6,7 @@ One omeprazole 20 mg capsule should be taken twice a day with PYLERA after the m
 
 Table 1: Daily Dosing Schedule for PYLERA
 
-| Time of dose | Number of capsules of PYLERA | Number of capsules of Omeprazole 20 mg |
+| Time of dose | Number of capsules of PYLERA | Number of capsules of omeprazole 20 mg |
 | --- | --- | --- |
 | After morning meal | 3 | 1 |
 | After lunch | 3 | 0 |

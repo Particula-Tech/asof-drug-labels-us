@@ -49,7 +49,7 @@ Table 2: Adverse reactions with an incidence of ≥ 1% from North American trial
 | Rash | 1 (0.7%) | 3 (2.0%) |
 | Pruritus | 0 | 4 (2.6%) |
 
-Adverse reactions with an incidence of <1% for OBMT group are: back pain, vomiting, tongue darkening [See Warnings and Precautions (5.7)]., anxiety, gastritis, gastroenteritis, myalgia, chest pain, increased appetite, blood creatine phosphokinase increased, malaise, somnolence, tachycardia, duodenal ulcer, visual disturbance, weight increased.
+Adverse reactions with an incidence of <1% for OBMT group are: back pain, vomiting, tongue darkening [See Warnings and Precautions (5.7)], anxiety, gastritis, gastroenteritis, myalgia, chest pain, increased appetite, blood creatine phosphokinase increased, malaise, somnolence, tachycardia, duodenal ulcer, visual disturbance, weight increased.
 
 ## 6.2 Postmarketing Experience
 
@@ -64,7 +64,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Metronidazole
 
-Blood and Lymphatic system disorders: reversible neutropenia, (leucopenia) in cases of prolonged treatment; rarely reversible thrombocytopenia however no persistent haematological abnormalities attributable to metronidazole have been observed [See Warnings and Precautions (5.4)].
+Blood and Lymphatic system disorders: reversible neutropenia (leucopenia) in cases of prolonged treatment; rarely reversible thrombocytopenia however no persistent haematological abnormalities attributable to metronidazole have been observed [See Warnings and Precautions (5.4)].
 
 Cardiac disorders: Flattening of the T-wave may be seen in electrocardiographic tracings.
 
