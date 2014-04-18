@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075657"
+  ],
   "inn": "enalapril",
   "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
@@ -12,7 +14,13 @@
     "51672-4040-1",
     "51672-4040-3"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "enalapril maleate",
+      "name": "Enalapril Maleate"
+    }
+  ],
   "setid": "f103b9f9-e081-419d-a2d8-b86acda834dd",
   "source": "dailymed"
 }

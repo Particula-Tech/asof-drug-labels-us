@@ -2,17 +2,16 @@
 
 ## Anaphylactoid and Possibly Related Reactions
 
-Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including enalapril) may be subject to a variety of adverse reactions, some of them serious.
+Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including enalapril maleate) may be subject to a variety of adverse reactions, some of them serious.
 
 ## Head and Neck Angioedema
 
-Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin converting enzyme inhibitors, including enalapril.
+Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin converting enzyme inhibitors, including enalapril maleate.
 This may occur at any time during treatment.
-In such cases enalapril should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms has occurred.
+In such cases enalapril maleate should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms has occurred.
 In instances where swelling has been confined to the face and lips the condition has generally resolved without treatment, although antihistamines have been useful in relieving symptoms.
 Angioedema associated with laryngeal edema may be fatal.
-Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway should be promptly provided.
-(See ADVERSE REACTIONS.)
+Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway, should be promptly provided (see ADVERSE REACTIONS).
 
 ## Intestinal Angioedema
 
@@ -35,18 +34,16 @@ Anaphylactoid reactions have also been reported in patients undergoing low-densi
 
 ## Hypotension
 
-Excessive hypotension is rare in uncomplicated hypertensive patients treated with enalapril alone.
-Patients with heart failure given enalapril commonly have some reduction in blood pressure, especially with the first dose, but discontinuation of therapy for continuing symptomatic hypotension usually is not necessary when dosing instructions are followed; caution should be observed when initiating therapy.
-(See DOSAGE AND ADMINISTRATION.)
+Excessive hypotension is rare in uncomplicated hypertensive patients treated with enalapril maleate alone.
+Patients with heart failure given enalapril maleate commonly have some reduction in blood pressure, especially with the first dose, but discontinuation of therapy for continuing symptomatic hypotension usually is not necessary when dosing instructions are followed; caution should be observed when initiating therapy (see DOSAGE AND ADMINISTRATION).
 Patients at risk for excessive hypotension, sometimes associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death, include those with the following conditions or characteristics: heart failure, hyponatremia, high dose diuretic therapy, recent intensive diuresis or increase in diuretic dose, renal dialysis, or severe volume and/or salt depletion of any etiology.
-It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with enalapril in patients at risk for excessive hypotension who are able to tolerate such adjustments.
-(See PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS.)
+It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with enalapril maleate in patients at risk for excessive hypotension who are able to tolerate such adjustments (see PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS).
 In patients at risk for excessive hypotension, therapy should be started under very close medical supervision and such patients should be followed closely for the first two weeks of treatment and whenever the dose of enalapril and/or diuretic is increased.
 Similar considerations may apply to patients with ischemic heart or cerebrovascular disease, in whom an excessive fall in blood pressure could result in a myocardial infarction or cerebrovascular accident.
 
 If excessive hypotension occurs, the patient should be placed in the supine position and, if necessary, receive an intravenous infusion of normal saline.
-A transient hypotensive response is not a contraindication to further doses of enalapril which usually can be given without difficulty once the blood pressure has stabilized.
-If symptomatic hypotension develops, a dose reduction or discontinuation of enalapril or concomitant diuretic may be necessary.
+A transient hypotensive response is not a contraindication to further doses of enalapril maleate, which usually can be given without difficulty once the blood pressure has stabilized.
+If symptomatic hypotension develops, a dose reduction or discontinuation of enalapril maleate or concomitant diuretic may be necessary.
 
 ## Neutropenia/Agranulocytosis
 
@@ -61,34 +58,25 @@ Rarely, ACE inhibitors have been associated with a syndrome that starts with cho
 The mechanism of this syndrome is not understood.
 Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow-up.
 
-## Fetal/Neonatal Morbidity and Mortality
+## Fetal toxicity
 
-ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women.
-Several dozen cases have been reported in the world literature.
-When pregnancy is detected, ACE inhibitors should be discontinued as soon as possible.
+### Pregnancy category D
 
-In a published retrospective epidemiological study, infants whose mothers had taken an ACE inhibitor during the first trimester of pregnancy appeared to have an increased risk of major congenital malformations compared with infants whose mothers had not undergone first trimester exposure to ACE inhibitor drugs.
-The number of cases of birth defects is small and the findings of this study have not yet been repeated.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected, discontinue enalapril maleate as soon as possible.
+These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
+Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
+Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
-The use of ACE inhibitors during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function: oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
-Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to the ACE- inhibitor exposure.
-
-These adverse effects do not appear to have resulted from intrauterine ACE-inhibitor exposure that has been limited to the first trimester.
-Mothers whose embryos and fetuses are exposed to ACE inhibitors only during the first trimester should be so informed.
-Nonetheless, when patients become pregnant, physicians should make every effort to discontinue the use of enalapril as soon as possible.
-
-Rarely (probably less often than once in every thousand pregnancies), no alternative to ACE inhibitors will be found.
-In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intraamniotic environment.
-
-If oligohydramnios is observed, enalapril should be discontinued unless it is considered lifesaving for the mother.
-Contraction stress testing (CST), a non-stress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
-Patients and physicians should be aware, however, that oligohydramnois may not appear until after the fetus has sustained irreversible injury.
-
-Infants with histories of in utero exposure to ACE inhibitors should be closely observed for hypotension, oliguria, and hyperkalemia.
-If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
-Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
-Enalapril, which crosses the placenta, has been removed from neonatal circulation by peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+Perform serial ultrasound examinations to assess the intra-amniotic environment.
+If oligohydramnios is observed, discontinue enalapril maleate, unless it is considered lifesaving for the mother.
+Fetal testing may be appropriate, based on the week of pregnancy.
+Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
+Closely observe infants with histories of in utero exposure to enalapril for hypotension, oliguria, and hyperkalemia.
+[see PRECAUTIONS, Pediatric Use]
 
 No teratogenic effects of enalapril were seen in studies of pregnant rats and rabbits.
 On a body surface area basis, the doses used were 57 times and 12 times, respectively, the maximum recommended human daily dose (MRHDD).
@@ -104,18 +92,18 @@ As with all vasodilators, enalapril should be given with caution to patients wit
 ### Impaired Renal Function
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death.
+In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril maleate, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death.
+(see PRECAUTIONS, Drug Interactions)
 
 In clinical studies in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine were observed in 20 percent of patients.
 These increases were almost always reversible upon discontinuation of enalapril and/or diuretic therapy.
 In such patients renal function should be monitored during the first few weeks of therapy.
 
-Some patients with hypertension or heart failure with no apparent pre-existing renal vascular disease have developed increases in blood urea and serum creatinine, usually minor and transient, especially when enalapril has been given concomitantly with a diuretic.
+Some patients with hypertension or heart failure with no apparent pre-existing renal vascular disease have developed increases in blood urea and serum creatinine, usually minor and transient, especially when enalapril maleate has been given concomitantly with a diuretic.
 This is more likely to occur in patients with pre-existing renal impairment.
-Dosage reduction and/or discontinuation of the diuretic and/or enalapril may be required.
+Dosage reduction and/or discontinuation of the diuretic and/or enalapril maleate may be required.
 
-Evaluation of patients with hypertension or heart failure should always include assessment of renal function.
-(See DOSAGE AND ADMINISTRATION.)
+Evaluation of patients with hypertension or heart failure should always include assessment of renal function (see DOSAGE AND ADMINISTRATION).
 
 ### Hyperkalemia
 
@@ -124,8 +112,7 @@ In most cases these were isolated values which resolved despite continued therap
 Hyperkalemia was a cause of discontinuation of therapy in 0.28 percent of hypertensive patients.
 In clinical trials in heart failure, hyperkalemia was observed in 3.8 percent of patients but was not a cause for discontinuation.
 
-Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with enalapril.
-(See Drug Interactions.)
+Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes, which should be used cautiously, if at all, with enalapril maleate (see Drug Interactions).
 
 ### Cough
 
@@ -148,7 +135,6 @@ Patients should be so advised and told to report immediately any signs or sympto
 
 Patients should be cautioned to report lightheadedness, especially during the first few days of therapy.
 If actual syncope occurs, the patients should be told to discontinue the drug until they have consulted with the prescribing physician.
-
 All patients should be cautioned that excessive perspiration and dehydration may lead to an excessive fall in blood pressure because of reduction in fluid volume.
 Other causes of volume depletion such as vomiting or diarrhea may also lead to a fall in blood pressure; patients should be advised to consult with the physician.
 
@@ -162,8 +148,9 @@ Patients should be told to report promptly any indication of infection (e.g., so
 
 ### Pregnancy
 
-Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors.
-These patients should be asked to report pregnancies to their physicians as soon as possible.
+Female patients of childbearing age should be told about the consequences of exposure to enalapril maleate during pregnancy.
+Discuss treatment options with women planning to become pregnant.
+Patients should be asked to report pregnancies to their physicians as soon as possible.
 
 NOTE: As with many other drugs, certain advice to patients being treated with enalapril is warranted.
 This information is intended to aid in the safe and effective use of this medication.
@@ -171,43 +158,54 @@ It is not a disclosure of all possible adverse or intended effects.
 
 ## Drug Interactions
 
-### Hypotension- - Patients on Diuretic Therapy
+### Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function and electrolytes in patients on enalapril maletate and other agents that affect the RAS.
+
+Do not co-administer aliskiren with Vasotec in patients with diabetes.
+Avoid use of aliskiren with enalapril maletate in patients with renal impairment (GFR <60 mL/min).
+
+### Hypotension - Patients on Diuretic Therapy
 
 Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril.
 The possibility of hypotensive effects with enalapril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with enalapril.
-If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour.
-(See WARNINGS and DOSAGE AND ADMINISTRATION.)
+If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (See WARNINGS and DOSAGE AND ADMINISTRATION).
 
 ### Agents Causing Renin Release
 
-The antihypertensive effect of enalapril is augmented by antihypertensive agents that cause renin release (e.g., diuretics).
+The antihypertensive effect of enalapril maleate is augmented by antihypertensive agents that cause renin release (e.g., diuretics).
 
-### Non-steroidal Anti-inflammatory Agents
+### Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
-In some patients with compromised renal function who are being treated with non-steroidal anti-inflammatory drugs, the co-administration of enalapril may result in a further deterioration of renal function.
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
+Monitor renal function periodically in patients receiving enalapril and NSAID therapy.
 
-In a clinical pharmacology study, indomethacin or sulindac was administered to hypertensive patients receiving Enalapril.
-In this study there was no evidence of a blunting of the antihypertensive action of Enalapril.
+In a clinical pharmacology study, indomethacin or sulindac was administered to hypertensive patients receiving enalapril maleate.
+In this study there was no evidence of a blunting of the antihypertensive action of enalapril maleate.
 However, reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
-This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors.
 
 ### Other Cardiovascular Agents
 
-Enalapril has been used concomitantly with beta adrenergic-blocking agents, methyldopa, nitrates, calcium-blocking agents, hydralazine, prazosin and digoxin without evidence of clinically significant adverse interactions.
+Enalapril maleate has been used concomitantly with beta adrenergic-blocking agents, methyldopa, nitrates, calcium-blocking agents, hydralazine, prazosin and digoxin without evidence of clinically significant adverse interactions.
 
 ### Agents Increasing Serum Potassium
 
-Enalapril attenuates potassium loss caused by thiazide-type diuretics.
+Enalapril maleate attenuates potassium loss caused by thiazide-type diuretics.
 Potassium-sparing diuretics (e.g., spironolactone, triamterene, or amiloride), potassium supplements, or potassium-containing salt substitutes may lead to significant increases in serum potassium.
 Therefore, if concomitant use of these agents is indicated because of demonstrated hypokalemia, they should be used with caution and with frequent monitoring of serum potassium.
-Potassium sparing agents should generally not be used in patients with heart failure receiving enalapril.
+Potassium sparing agents should generally not be used in patients with heart failure receiving enalapril maleate.
 
 ### Lithium
 
 Lithium toxicity has been reported in patients receiving lithium concomitantly with drugs which cause elimination of sodium, including ACE inhibitors.
-A few cases of lithium toxicity have been reported in patients receiving concomitant enalapril and lithium and were reversible upon discontinuation of both drugs.
+A few cases of lithium toxicity have been reported in patients receiving concomitant enalapril maleate and lithium and were reversible upon discontinuation of both drugs.
 It is recommended that serum lithium levels be monitored frequently if enalapril is administered concomitantly with lithium.
+
+### Gold
+
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including enalapril maleate.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -221,18 +219,20 @@ There were no adverse effects on reproductive performance of male and female rat
 
 ## Pregnancy
 
-### Pregnancy Categories C (first trimester) and D (second and third trimesters)
-
-See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
-
 ## Nursing Mothers
 
 Enalapril and enalaprilat have been detected in human breast milk.
-Because of the potential for serious adverse reactions in nursing infants from enalapril, a decision should be made whether to discontinue nursing or to discontinue enalapril, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in nursing infants from enalapril, a decision should be made whether to discontinue nursing or to discontinue enalapril maleate, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
-Antihypertensive effects of Enalapril have been established in hypertensive pediatric patients age 1 month to 16 years.
-Use of Enalapril in these age groups is supported by evidence from adequate and well-controlled studies of Enalapril in pediatric and adult patients as well as by published literature in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients and DOSAGE AND ADMINISTRATION).
+### Neonates with a history of in utero exposure to enalapril maleate
 
-Enalapril is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
+If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
+Enalapril, which crosses the placenta, has been removed from neonatal circulation by peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
+
+Antihypertensive effects of enalapril maleate have been established in hypertensive pediatric patients age 1 month to 16 years.
+Use of enalapril maleate in these age groups is supported by evidence from adequate and well-controlled studies of enalapril maleate in pediatric and adult patients as well as by published literature in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients and DOSAGE AND ADMINISTRATION).
+
+Enalapril maleate is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/ min/1.73 m2, as no data are available.
