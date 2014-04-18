@@ -4,7 +4,7 @@ The minimum lethal dose of esomeprazole sodium in rats after bolus administratio
 The major signs of acute toxicity were reduced motor activity, changes in respiratory frequency, tremor, ataxia and intermittent clonic convulsions.
 
 The symptoms described in connection with deliberate NEXIUM overdose (limited experience of doses in excess of 240 mg/day) are transient.
-Single doses of 80 mg of esomeprazole were uneventful.
+Single oral doses of 80 mg and intravenous doses of 308 mg of esomeprazole over 24 hours were uneventful.
 Reports of overdosage with omeprazole in humans may also be relevant.
 Doses ranged up to 2,400 mg (120 times the usual recommended clinical dose).
 Manifestations were variable, but included confusion, drowsiness, blurred vision, tachycardia, nausea, diaphoresis, flushing, headache, dry mouth, and other adverse reactions similar to those seen in normal clinical experience (see omeprazole package insert - ADVERSE REACTIONS).

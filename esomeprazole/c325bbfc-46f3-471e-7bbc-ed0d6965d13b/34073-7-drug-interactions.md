@@ -10,18 +10,16 @@ Increases in INR and prothrombin time may lead to abnormal bleeding and even dea
 Patients treated with proton pump inhibitors and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time.
 
 Esomeprazole may potentially interfere with CYP2C19, the major esomeprazole metabolizing enzyme.
-Coadministration of esomeprazole 30 mg and diazepam, a CYP2C19 substrate, resulted in a 45% decrease in clearance of diazepam.
+Co-administration of esomeprazole 30 mg and diazepam, a CYP2C19 substrate, resulted in a 45% decrease in clearance of diazepam.
 Increased plasma levels of diazepam were observed 12 hours after dosing and onwards.
 However, at that time, the plasma levels of diazepam were below the therapeutic interval, and thus this interaction is unlikely to be of clinical relevance.
-
-Clopidogrel
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of esomeprazole 40 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
 Avoid concomitant administration of NEXIUM I.V. with clopidogrel.
-When using NEXIUM I.V., consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
+When using NEXIUM I.V., consider use of alternative anti-platelet therapy [see Clinical Pharmacology (12.3)].
 
-Omeprazole acts as an inhibitor of CYP 2C19.
+Omeprazole acts as an inhibitor of CYP2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26%, respectively.
 Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
 Co-administration of cilostazol with esomeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
@@ -32,11 +30,11 @@ Dose adjustment of esomeprazole is not normally required for the recommended dos
 However, in patients who may require higher doses, dose adjustment may be considered.
 
 Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased esomeprazole serum levels.
-Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s wort, an inducer of CYP3A4.
-In a cross-over study in 12 healthy male subjects, St John’s wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolizers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolizers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
+Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s Wort, an inducer of CYP3A4.
+In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolizers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolizers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
 Avoid concomitant use of St. John’s Wort or rifampin with NEXIUM.
 
-Coadministration of oral contraceptives, diazepam, phenytoin, or quinidine did not seem to change the pharmacokinetic profile of esomeprazole.
+Co-administration of oral contraceptives, diazepam, phenytoin, or quinidine did not seem to change the pharmacokinetic profile of esomeprazole.
 
 Concomitant use of atazanavir and proton pump inhibitors is not recommended.
 Co-administration of atazanavir with proton pump inhibitors is expected to substantially decrease atazanavir plasma concentrations and thereby reduce its therapeutic effect.
@@ -65,7 +63,7 @@ Therefore, patients may need to be monitored when digoxin is taken concomitantly
 
 ## 7.1 Interactions with Investigations of Neuroendocrine Tumors
 
-Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.8) and Clinical Pharmacology (12.2)].
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.8) andClinical Pharmacology (12.2)].
 
 ## 7.2 Tacrolimus
 
