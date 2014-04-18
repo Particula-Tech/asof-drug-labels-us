@@ -157,6 +157,11 @@ Lorazepam
 
 Concomitant administration of valproate (500 mg BID) and lorazepam (1 mg BID) in normal male volunteers (n = 9) was accompanied by a 17% decrease in the plasma clearance of lorazepam.
 
+Olanzapine
+
+No dose adjustment for olanzapine is necessary when olanzapine is administered concomitantly with valproate.
+Co-administration of valproate (500 mg BID) and Olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in Cmax and 35% reduction in AUC of olanzapine.
+
 Oral Contraceptive Steroids
 
 Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (250 µg) to 6 women on valproate (200 mg BID) therapy for 2 months did not reveal any pharmacokinetic interaction.
