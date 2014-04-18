@@ -10,7 +10,7 @@ They are supplied as follows:
 
 NDC 0186-0742-31 unit of use bottles of 30
 
-NDC 0186-0742-82 bottles of 1000.
+NDC 0186-0742-82 bottles of 1000
 
 PRILOSEC Delayed-Release Capsules, 40 mg, are opaque, hard gelatin, apricot and amethyst colored capsules, coded 743 on cap and PRILOSEC 40 on the body.
 They are supplied as follows:
@@ -32,4 +32,4 @@ Store PRILOSEC Delayed-Release Capsules in a tight container protected from ligh
 Store between 15°C and 30°C (59°F and 86°F).
 
 Store PRILOSEC For Delayed-Release Oral Suspension at 25°C (77°F); excursions permitted to 15 – 30°C (59 – 86°F).
-[See USP Controlled Room Temperature].
+[See USP Controlled Room Temperature.]

@@ -18,7 +18,7 @@ If resistance to clarithromycin is demonstrated or susceptibility testing is not
 
 ## 1.2 Gastric Ulcer (adults)
 
-PRILOSEC is indicated for short-term treatment (4-8 weeks) of active benign gastric ulcer in adults [seeClinical Studies (14.2)].
+PRILOSEC is indicated for short-term treatment (4-8 weeks) of active benign gastric ulcer in adults [seeClinical Studies (14.2)Clinical Studies (14.2)].
 
 ## 1.3 Treatment of Gastroesophageal Reflux Disease (GERD) (adults and pediatric patients)
 

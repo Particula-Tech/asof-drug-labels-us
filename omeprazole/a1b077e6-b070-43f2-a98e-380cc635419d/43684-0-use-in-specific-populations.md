@@ -9,6 +9,8 @@ Risk Summary
 There are no adequate and well-controlled studies with PRILOSEC in pregnant women.
 Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
 
+Animal reproduction studies with omeprazole in rats and rabbits resulted in dose-dependent embryolethality at doses that were approximately 2.8 to 28 times the daily human dose of 40 mg.
+
 Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 57 times and 35 times, respectively, an oral human dose of 40 mg.
 However, changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 33.6 times an oral human dose of 40 mg (see Animal Data).
 Because of the observed effect at high doses of esomeprazole magnesium on developing bone in rat studies, PRILOSEC should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -35,15 +37,15 @@ Several studies have reported no apparent adverse short-term effects on the infa
 
 Animal Data
 
-Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 56 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at doses up to 69 mg/kg/day (about 56 times an oral human dose of 40 mg on a body surface area basis) did not disclose any evidence for a teratogenic potential of omeprazole.
-In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 5.5 to 56 times an oral human dose of 40 mg on a body surface area basis) produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
-In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 5.6 to 56 times an oral human doses of 40 mg on a body surface area basis).
+Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 28 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at doses up to 69 mg/kg/day (about 28 times an oral human dose of 40 mg on a body surface area basis) did not disclose any evidence for a teratogenic potential of omeprazole.
+In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 2.8 to 28 times an oral human dose of 40 mg on a body surface area basis) produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
+In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 2.8 to 28 times an oral human doses of 40 mg on a body surface area basis).
 
 Reproduction studies have been performed with esomeprazole magnesium in rats at oral doses up to 280 mg/kg/day (about 57 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at oral doses up to 86 mg/kg/day (about 35 times an oral human dose of 40 mg on a body surface area basis) and have revealed no evidence of impaired fertility or harm to the fetus due to esomeprazole magnesium.
 
 A pre- and postnatal developmental toxicity study in rats with additional endpoints to evaluate bone development was performed with esomeprazole magnesium at oral doses of 14 to 280 mg/kg/day (about 3.4 to 57 times an oral human dose of 40 mg on a body surface area basis).
 Neonatal/early postnatal (birth to weaning) survival was decreased at doses equal to or greater than 138 mg/kg/day (about 33 times an oral human dose of 40 mg on a body surface area basis).
-Body weight and body weight gain were reduced and neurobehavioral or general developmental delays in the immediate post-weaning timeframe were evident at doses equal to or greater than 69 mg /kg/day (about 16.8 times an oral human dose of 40 mg on a body surface area basis).
+Body weight and body weight gain were reduced and neurobehavioral or general developmental delays in the immediate post-weaning timeframe were evident at doses equal to or greater than 69 mg/kg/day (about 16.8 times an oral human dose of 40 mg on a body surface area basis).
 In addition, decreased femur length, width and thickness of cortical bone, decreased thickness of the tibial growth plate and minimal to mild bone marrow hypocellularity were noted at doses equal to or greater than 14 mg/kg/day (about 3.4 times an oral human dose of 40 mg on a body surface area basis).
 Physeal dysplasia in the femur was observed in offspring of rats treated with oral doses of esomeprazole magnesium at doses equal to or greater than 138 mg/kg/day (about 33.6 times an oral human dose of 40 mg on a body surface area basis).
 

@@ -55,7 +55,7 @@ Hepatic: Liver disease including hepatic failure (some fatal), liver necrosis (s
 
 Infections and Infestations: Clostridium difficile associated diarrhea
 
-Metabolism and Nutritional disorders: Hypoglycemia, hypomagnesemia, hyponatremia, weight gain
+Metabolism and Nutritional disorders: Hypoglycemia, hypomagnesemia, with or without hypocalcemia and/or hypokalemia, hyponatremia, weight gain
 
 Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain, bone fracture
 
