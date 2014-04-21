@@ -14,7 +14,7 @@ Tablets
 
 DEPAKOTE (dep-a-kOte)
 
-(divalproex sodium coated particles in capsules)
+(divalproex sodium)
 
 Sprinkle Capsules
 
@@ -231,7 +231,7 @@ For more information, go to www.rxabbvie.com or call 1-800-633-9110.
 
 What are the ingredients in Depakote or Depakene?
 
-Depakote
+Depakote:
 
 Active ingredient: divalproex sodium
 
@@ -243,7 +243,7 @@ Inactive ingredients:
   Individual tablets also contain: 125 mg tablets: FD&C Blue No. 1 and FD&C Red No. 40, 250 mg tablets: FD&C Yellow No. 6 and iron oxide, 500 mg tablets: D&C Red No. 30, FD&C Blue No. 2, and iron oxide.
 - Depakote Sprinkle Capsules: cellulosic polymers, D&C Red No. 28, FD&C Blue No. 1 gelatin, iron oxide, magnesium stearate, silica gel, titanium dioxide, and triethyl citrate.
 
-Depakene
+Depakene:
 
 Active ingredient: valproic acid
 
@@ -252,28 +252,28 @@ Inactive ingredients:
 - Depakene Capsules: corn oil, FD&C Yellow No. 6, gelatin, glycerin, iron oxide, methylparaben, propylparaben, and titanium dioxide.
 - Depakene Oral Solution: FD&C Red No. 40, glycerin, methylparaben, propylparaben, sorbitol, sucrose, water, and natural and artificial flavors.
 
-Depakote ER
+Depakote ER:
 
 - 250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617
 - 500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or
 - AbbVie LTD, Barceloneta, PR 00617
 - For AbbVie Inc., North Chicago, IL 60064 U.S.A.
 
-Depakote Tablets
+Depakote Tablets:
 
 - Mfd. by AbbVie LTD, Barceloneta, PR 00617
 - For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-Depakote Sprinkle Capsules
+Depakote Sprinkle Capsules:
 
 - AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-Depakene Capsules
+Depakene Capsules:
 
 - Mfd. by Banner Pharmacaps, Inc., High Point, NC 27265 U.S.A.
 - For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-Depakene Oral solution
+Depakene Oral solution:
 
 - Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A.
 - OR by DPT Laboratories, Ltd., San Antonio, TX 78215, U.S.A.
@@ -281,4 +281,4 @@ Depakene Oral solution
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-03-A837 May 2013
+03-A916 March 2014

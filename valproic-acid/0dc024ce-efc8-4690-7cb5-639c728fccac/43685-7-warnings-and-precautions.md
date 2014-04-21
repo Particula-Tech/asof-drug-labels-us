@@ -97,7 +97,7 @@ Patients who develop symptoms of unexplained hyperammonemic encephalopathy while
 
 ## 5.7 Brain Atrophy
 
-There have been postmarketing reports of reversible and irreversible cerebral and cerebellar atrophy temporally associated with the use valproate products; in some cases, patients recovered with permanent sequelae [see Adverse Reactions (6.4)].
+There have been postmarketing reports of reversible and irreversible cerebral and cerebellar atrophy temporally associated with the use of valproate products; in some cases, patients recovered with permanent sequelae [see Adverse Reactions (6.4)].
 The motor and cognitive functions of patients on valproate should be routinely monitored and drug should be evaluated for continued use in the presence of suspected or apparent signs of brain atrophy.
 
 Reports of cerebral atrophy have also been reported in children who were exposed in utero to valproate products [see Use in Specific Populations (8.1)].
@@ -156,7 +156,7 @@ Hyperammonemia has been reported in association with valproate therapy and may b
 In patients who develop unexplained lethargy and vomiting or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
 Hyperammonemia should also be considered in patients who present with hypothermia [see Warnings and Precautions (5.12)].
 If ammonia is increased, valproate therapy should be discontinued.
-Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.6, 5.11)].
+Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.6, 5.10, 5.11)].
 
 During the placebo controlled pediatric mania trial, one (1) in twenty (20) adolescents (5%) treated with valproate developed increased plasma ammonia levels compared to no (0) patients treated with placebo.
 

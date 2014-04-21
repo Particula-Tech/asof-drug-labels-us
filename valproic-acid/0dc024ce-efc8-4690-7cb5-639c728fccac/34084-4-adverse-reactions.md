@@ -12,7 +12,7 @@ Pancreatitis (5.5)
 
 Thrombocytopenia (5.9)
 
-Hyperammonemic encephalopathy (5.10, 5.11)
+Hyperammonemic encephalopathy (5.6, 5.10, 5.11)
 
 Multi-organ hypersensitivity reactions (5.13)
 
