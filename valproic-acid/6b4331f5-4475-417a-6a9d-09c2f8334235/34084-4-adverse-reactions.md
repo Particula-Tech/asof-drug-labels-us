@@ -12,7 +12,7 @@ Pancreatitis (5.5)
 
 Thrombocytopenia (5.9)
 
-Hyperammonemic encephalopathy (5.10, 5.11)
+Hyperammonemic encephalopathy (5.6, 5.10, 5.11)
 
 Multi-organ hypersensitivity reactions (5.13)
 
@@ -179,7 +179,7 @@ Although recovery has been described following drug withdrawal, there have been 
 
 There have been postmarketing reports of reversible and irreversible cerebral and cerebellar atrophy temporally associated with the use of valproate products.
 In some cases the patients recovered with permanent sequelae [see Warnings and Precautions (5.7)].
-Cerebral atrophy has been reported in children exposed to valproate in utero [see Use in Specific Populations (8.1)].
+Cerebral atrophy has been reported in children exposed to valproate in utero[see Use in Specific Populations (8.1)].
 
 Dermatologic: Transient hair loss, skin rash, photosensitivity, generalized pruritus, erythema multiforme, and Stevens-Johnson syndrome.
 Rare cases of toxic epidermal necrolysis have been reported including a fatal case in a 6 month old infant taking valproate and several other concomitant medications.
