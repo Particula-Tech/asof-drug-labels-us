@@ -59,8 +59,8 @@ Table 4: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Na
 | Grade 3 | 251 - 500 | 2% | 1% |
 | Grade 4 | >500 | 0% | 0% |
 | Total serum bilirubin |  |  |  |
-| Grade 2 | 1.6 - 2.5 × ULN | 5% | 0% |
-| Grade 3 | 2.6 - 5.0 × ULN | 1% | <1% |
+| Grade 2 | 1.6 - 2.5 × ULN | 5% | <1% |
+| Grade 3 | 2.6 - 5.0 × ULN | 1% | 0% |
 | Grade 4 | >5.0 × ULN | <1% | 0% |
 | Serum aspartate aminotransferase |  |  |  |
 | Grade 2 | 2.6 - 5.0 × ULN | 8% | 10% |

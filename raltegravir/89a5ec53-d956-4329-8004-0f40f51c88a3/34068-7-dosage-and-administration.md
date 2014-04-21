@@ -33,7 +33,7 @@ Table 1: Alternative DoseThe weight-based dosing recommendation for the chewable
   Patients can remain on the oral suspension as long as their weight is below 20 kg.
   Refer to Table 2 for appropriate dosing [see Clinical Studies (14.3)].
 
-Table 2: Recommended DoseThe weight-based dosing recommendation for the chewable tablet and oral suspension is based on approximately 6 mg/kg/dose twice daily [see Clinical Pharmacology (12.3)]. for ISENTRESS for Oral Suspension and Chewable Tablets in Pediatric Patients Weighing Less than 25 kg
+Table 2: Recommended DoseThe weight-based dosing recommendation for the chewable tablet and oral suspension is based on approximately 6 mg/kg/dose twice daily [see Clinical Pharmacology (12.3)]. for ISENTRESS For Oral Suspension and Chewable Tablets in Pediatric Patients Weighing Less than 25 kg
 
 | Body Weight (kg) | Volume (Dose) of Suspension to be Administered | Number of Chewable Tablets |
 | --- | --- | --- |

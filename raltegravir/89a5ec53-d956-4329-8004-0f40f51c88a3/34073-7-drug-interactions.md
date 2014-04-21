@@ -8,7 +8,7 @@ A midazolam drug interaction study confirmed the low propensity of raltegravir t
 Similarly, raltegravir is not an inhibitor (IC50>50 µM) of the UDP-glucuronosyltransferases (UGT) tested (UGT1A1, UGT2B7), and raltegravir does not inhibit P-glycoprotein-mediated transport.
 Based on these data, ISENTRESS is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or P-glycoprotein (e.g., protease inhibitors, NNRTIs, opioid analgesics, statins, azole antifungals, proton pump inhibitors and anti-erectile dysfunction agents).
 
-In drug interaction studies, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of the following: hormonal contraceptives, methadone, lamivudine, tenofovir, etravirine, darunavir/ritonavir.
+In drug interaction studies, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of the following: hormonal contraceptives, methadone, lamivudine, tenofovir, etravirine, darunavir/ritonavir, telaprevir, boceprevir.
 
 ## 7.2 Effect of Other Agents on the Pharmacokinetics of Raltegravir
 
@@ -47,6 +47,8 @@ Table 8: Selected Drug Interactions in Adults
 | calcium carbonate antacids | ↓ | No dose adjustment is recommended when ISENTRESS is coadministered with calcium carbonate-containing antacids. |
 | H2 Blockers and Proton Pump Inhibitors |  |  |
 | omeprazole | ↑ | Coadministration of medicinal products that increase gastric pH (e.g., omeprazole) may increase raltegravir levels based on increased raltegravir solubility at higher pH. However, since concomitant use of ISENTRESS with proton pump inhibitors and H2 blockers did not result in a unique safety signal in Phase 3 studies, no dose adjustment is recommended. |
-| Other Agents |  |  |
+| HCV-Antiviral Agents |  |  |
 | boceprevir | ↔ | No dose adjustment required for ISENTRESS or boceprevir. |
+| telaprevir | ↑ | No dose adjustment required for ISENTRESS or telaprevir. |
+| Other Agents |  |  |
 | rifampin | ↓ | Rifampin, a strong inducer of UGT1A1, reduces plasma concentrations of raltegravir. The recommended dosage of ISENTRESS is 800 mg twice daily during coadministration with rifampin. |

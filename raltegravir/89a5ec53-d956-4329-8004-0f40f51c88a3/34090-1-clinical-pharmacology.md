@@ -158,6 +158,7 @@ Table 10: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adult
 | rifampin | 600 mg daily | 400 mg single dose | 9 | 0.62 (0.37, 1.04) | 0.60 (0.39, 0.91) | 0.39 (0.30, 0.51) |
 | rifampin | 600 mg daily | 400 mg twice daily when administered alone; 800 mg twice daily when administered with rifampin | 14 | 1.62 (1.12, 2.33) | 1.27 (0.94, 1.71) | 0.47 (0.36, 0.61) |
 | ritonavir | 100 mg twice daily | 400 mg single dose | 10 | 0.76 (0.55, 1.04) | 0.84 (0.70, 1.01) | 0.99 (0.70, 1.40) |
+| telaprevir | 750 mg every 8 hours | 400 mg twice daily | 20 | 1.26 (0.97, 1.62) | 1.31 (1.03, 1.67) | 1.78 (1.26, 2.53) |
 | tenofovir | 300 mg daily | 400 mg twice daily | 9 | 1.64 (1.16, 2.32) | 1.49 (1.15, 1.94) | 1.03 (0.73, 1.45) |
 | tipranavir/ritonavir | 500 mg/200 mg twice daily | 400 mg twice daily | 15 (14 for Cmin) | 0.82 (0.46, 1.46) | 0.76 (0.49, 1.19) | 0.45 (0.31, 0.66) |
 
