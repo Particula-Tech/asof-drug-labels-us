@@ -4,9 +4,7 @@ NDC 59762-0057-1 60 Tablets
 
 GREENSTONE® BRAND
 
-alprazolam XR
-
-alprazolam extended-release tablets
+alprazolam XR alprazolam extended-release tablets
 
 CIV
 
@@ -20,9 +18,7 @@ NDC 59762-0059-1 60 Tablets
 
 GREENSTONE® BRAND
 
-alprazolam XR
-
-alprazolam extended-release tablets
+alprazolam XR alprazolam extended-release tablets
 
 CIV
 
@@ -36,9 +32,7 @@ NDC 59762-0066-1 60 Tablets
 
 GREENSTONE® BRAND
 
-alprazolam XR
-
-alprazolam extended-release tablets
+alprazolam XR alprazolam extended-release tablets
 
 CIV
 
@@ -52,9 +46,7 @@ NDC 59762-0068-1 60 Tablets
 
 GREENSTONE® BRAND
 
-alprazolam XR
-
-alprazolam extended-release tablets
+alprazolam XR alprazolam extended-release tablets
 
 CIV
 
