@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA200910"
+  ],
+  "inn": "ethinyl-estradiol",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-3340-16",
+    "0378-3340-53"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "norelgestromin and ethinyl estradiol",
+      "name": "Norelgestromin and Ethinyl Estradiol"
+    }
+  ],
+  "setid": "f7848550-086a-43d8-8ae5-047f4b9e4382",
+  "source": "dailymed"
+}
