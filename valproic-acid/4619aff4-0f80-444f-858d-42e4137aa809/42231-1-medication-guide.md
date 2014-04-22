@@ -14,7 +14,7 @@ Tablets
 
 DEPAKOTE (dep-a-kOte)
 
-(divalproex sodium coated particles in capsules)
+(divalproex sodium)
 
 Sprinkle Capsules
 
@@ -142,7 +142,7 @@ How should I take Depakote or Depakene?
   Your healthcare provider will tell you how much Depakote or Depakene to take and when to take it.
 - Your healthcare provider may change your dose.
 - Do not change your dose of Depakote or Depakene without talking to your healthcare provider.
-- Do not stop taking Depakote or Depakote without first talking to your healthcare provider.
+- Do not stop taking Depakote or Depakene without first talking to your healthcare provider.
   Stopping Depakote or Depakene suddenly can cause serious problems.
 - Swallow Depakote tablets, Depakote ER tablets or Depakene capsules whole.
   Do not crush or chew Depakote tablets, Depakote ER tablets, or Depakene capsules.
@@ -206,11 +206,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Depakote or Depakene?
 
-- Store Depakote Extended Release Tablets between 59°F to 86°F (15°C to 30°C)
-- Store Depakote Delayed Release Tablets below 86°F (30°C)
-- Store Depakote Sprinkle Capsules below 77°F (25°C)
-- Store Depakene Capsules between 59°F to 77°F (15°C to 25°C)
-- Store Depakene Oral Solution below 86°F (30°C)
+- Store Depakote Extended Release Tablets between 59°F to 86°F (15°C to 30°C).
+- Store Depakote Delayed Release Tablets below 86°F (30°C).
+- Store Depakote Sprinkle Capsules below 77°F (25°C).
+- Store Depakene Capsules between 59°F to 77°F (15°C to 25°C).
+- Store Depakene Oral Solution below 86°F (30°C).
 
 Keep Depakote or Depakene and all medicines out of the reach of children.
 
@@ -285,4 +285,4 @@ For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-03-A478 May 2013
+03-A915 March 2014

@@ -17,7 +17,7 @@ Maternal valproate use during pregnancy for any indication increases the risk of
 The risk of major structural abnormalities is greatest during the first trimester; however, other serious developmental effects can occur with valproate use throughout pregnancy.
 The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see Warnings and Precautions (5.3)].
 
-Exposure in utero to valproate products has been associated with cerebral atrophy [see Warnings and Precautions (5.7) and Adverse Reactions (6.4)].
+Exposure in utero to valproate products has been associated with cerebral atrophy [see Warnings and Precautions (5.7) and Adverse Reactions (6.2)].
 
 Several published epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero[see Warnings and Precautions (5.3)].
 

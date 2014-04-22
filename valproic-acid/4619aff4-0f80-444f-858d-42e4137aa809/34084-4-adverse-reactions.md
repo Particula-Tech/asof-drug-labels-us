@@ -10,7 +10,7 @@ Decreased IQ following in utero exposure (5.3)
 
 Pancreatitis (5.5)
 
-Hyperammonemic encephalopathy (5.6, 5.10)
+Hyperammonemic encephalopathy (5.6, 5.10, 5.11)
 
 Thrombocytopenia (5.9)
 

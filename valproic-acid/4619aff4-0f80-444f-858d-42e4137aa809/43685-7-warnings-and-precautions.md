@@ -96,7 +96,7 @@ Patients who develop symptoms of unexplained hyperammonemic encephalopathy while
 
 ## 5.7 Brain Atrophy
 
-There have been postmarketing reports of reversible and irreversible cerebral and cerebellar atrophy temporally associated with the use valproate products; in some cases, patients recovered with permanent sequelae [see Adverse Reactions (6.4)].
+There have been postmarketing reports of reversible and irreversible cerebral and cerebellar atrophy temporally associated with the use of valproate products; in some cases, patients recovered with permanent sequelae [see Adverse Reactions (6.2)].
 The motor and cognitive functions of patients on valproate should be routinely monitored and drug should be evaluated for continued use in the presence of suspected or apparent signs of brain atrophy.
 
 Reports of cerebral atrophy have also been reported in children who were exposed in utero to valproate products [see Use in Specific Populations (8.1)].
