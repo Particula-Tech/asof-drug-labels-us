@@ -239,7 +239,7 @@ There were no Grade 3 or 4 laboratory abnormalities considered as ADRs in this s
 
 Study TMC114-C230
 
-Clinical ADRs to PREZISTA/ritonavir (all grades, greater than or equal to 3%), were vomiting (33%), nausea (25%), diarrhea (16.7%), abdominal pain (8.3%), decreased appetite (8.3%), prurirtus (8.3%), and rash (8.3%).
+Clinical ADRs to PREZISTA/ritonavir (all grades, greater than or equal to 3%), were vomiting (33%), nausea (25%), diarrhea (16.7%), abdominal pain (8.3%), decreased appetite (8.3%), pruritus (8.3%), and rash (8.3%).
 
 There were no Grade 3 or 4 laboratory abnormalities considered as ADRs in this study.
 
@@ -252,4 +252,4 @@ Redistribution of body fat has been reported.
 
 Rarely, rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors and PREZISTA/ritonavir) has been reported.
 
-In addition, toxic epidermal necrolysis and acute generalized exanthematous pustulosis have been reported rarely [see Warnings and Precautions (5.3)].
+In addition, toxic epidermal necrolysis,acute generalized exanthematous pustulosis and drug rash with eosinophilia and systemic symptoms have been reported rarely [see Warnings and Precautions (5.3)].

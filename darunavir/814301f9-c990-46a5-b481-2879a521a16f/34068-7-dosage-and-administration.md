@@ -9,7 +9,7 @@ Patients who have difficulty swallowing PREZISTA tablets can use the 100 mg/mL P
 
 Treatment-Naïve Adult Patients
 
-The recommended oral dose of PREZISTA is 800 mg (one 800 mg tablet or two 400 mg tablets or 8 mL of the oral suspension) taken with ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL of a 80 mg/mL ritonavir oral solution) once daily and with food.
+The recommended oral dose of PREZISTA is 800 mg (one 800 mg tablet or 8 mL of the oral suspension) taken with ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL of a 80 mg/mL ritonavir oral solution) once daily and with food.
 An 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe.
 
 Treatment-Experienced Adult Patients
@@ -19,7 +19,7 @@ Table 1: Treatment-Experienced Adult Patients
 | With no darunavir resistance associated substitutionsV11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V and L89V | With at least one darunavir resistance associated substitution |
 | --- | --- |
 | Formulations: PREZISTA tablets or oral suspension (100 mg/mL) and ritonavir tablets/capsules (100 mg) or solution (80 mg/mL) |  |
-| PREZISTA 800 mg (one 800 mg tablet or two 400 mg tablets) or 8 mLAn 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe(oral suspension) once daily with ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL (oral solution) once daily and with food | PREZISTA 600 mg (e.g. one 600 mg tablet) or 6 mL (oral suspension) twice daily with ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL (oral solution) twice daily and with food |
+| PREZISTA 800 mg (one 800 mg tablet) or 8 mLAn 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe(oral suspension) once daily with ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL (oral solution) once daily and with food | PREZISTA 600 mg (e.g. one 600 mg tablet) or 6 mL (oral suspension) twice daily with ritonavir 100 mg (one 100 mg tablet/capsule or 1.25 mL (oral solution) twice daily and with food |
 
 For antiretroviral treatment-experienced patients genotypic testing is recommended.
 However, when genotypic testing is not feasible, PREZISTA/ritonavir 600/100 mg twice daily dosing is recommended.

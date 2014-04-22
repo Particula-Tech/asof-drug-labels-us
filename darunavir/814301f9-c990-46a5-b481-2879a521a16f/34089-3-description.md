@@ -13,7 +13,6 @@ PREZISTA 100 mg/mL oral suspension is available as a white to off-white opaque s
 PREZISTA 75 mg tablets are available as white, caplet-shaped, film-coated tablets for oral administration.
 PREZISTA 150 mg tablets are available as white, oval-shaped, film-coated tablets for oral administration.
 PREZISTA 600 mg tablets are available as orange, oval-shaped, film-coated tablets for oral administration.
-PREZISTA 400 mg tablets are available as light orange, oval-shaped, film-coated tablets for oral administration.
 PREZISTA 800 mg tablets are available as dark red, oval-shaped, film-coated tablets for oral administration.
 
 Each mL of the oral suspension contains darunavir ethanolate equivalent to 100 mg darunavir.
@@ -21,14 +20,13 @@ In addition, each mL contains the inactive ingredients hydroxypropyl cellulose, 
 
 Each 75 mg tablet contains darunavir ethanolate equivalent to 75 mg of darunavir.
 Each 150 mg tablet contains darunavir ethanolate equivalent to 150 mg of darunavir.
-Each 400 mg tablet contains darunavir ethanolate equivalent to 400 mg of darunavir.
 Each 600 mg tablet contains darunavir ethanolate equivalent to 600 mg of darunavir.
 Each 800 mg tablet contains darunavir ethanolate equivalent to 800 mg of darunavir.
 During storage, partial conversion from ethanolate to hydrate may occur; however, this does not affect product quality or performance.
 Each tablet also contains the inactive ingredients colloidal silicon dioxide, crospovidone, magnesium stearate, and microcrystalline cellulose.
 The 800 mg tablet also contains hypromellose.
 The 75 and 150 mg tablet film coating, OPADRY® White, contains polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, and titanium dioxide.
-The 400 and 600 mg tablet film coating, OPADRY® Light Orange and OPADRY® Orange, respectively, contains FD&C Yellow No. 6, polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, and titanium dioxide.
+The 600 mg tablet film coating, OPADRY® Orange, contains FD&C Yellow No. 6, polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, and titanium dioxide.
 The 800 mg tablet film coating, OPADRY® Dark Red, contains iron oxide red, polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, and titanium dioxide.
 
 All dosages for PREZISTA are expressed in terms of the free form of darunavir.

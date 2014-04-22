@@ -74,11 +74,11 @@ Who should not take PREZISTA?
 Do not take PREZISTA with any of the following medicines:
 
 - alfuzosin (Uroxatral®)
-- dihydroergotamine (D.H.E.
-  45®, Embolex®, Migranal®), ergonovine, ergotamine (Cafergot®,Ergomar®) methylergonovine
+- ergot-containing medicines: dihydroergotamine (D.H.E.
+  45®, Embolex®, Migranal®), ergotamine (Cafergot®,Ergomar®) methylergonovine
 - cisapride
 - pimozide (Orap®)
-- oral midazolam, triazolam (Halcion®)
+- oral midazolam (Versed®), triazolam (Halcion®)
 - the herbal supplement St. John's Wort (Hypericum perforatum)
 - the cholesterol lowering medicines lovastatin (Mevacor®, Altoprev®, Advicor®) or simvastatin (Zocor®, Simcor®, Vytorin®)
 - rifampin (Rifadin®, Rifater®, Rifamate®, Rimactane®)
@@ -109,34 +109,58 @@ Tell your healthcare provider about all the medicines you take including prescri
 Using PREZISTA and certain other medicines may affect each other causing serious side effects.
 PREZISTA may affect the way other medicines work and other medicines may affect how PREZISTA works.
 
-Especially tell your healthcare provider if you take:
+Especially tell your healthcare provider if you take any of the medicines listed below.
+The generic name is provided, followed by examples of possible brand names for the drug product:
 
-- other medicine to treat HIV
+- medicine to treat HIV
 - estrogen-based contraceptives (birth control).
   PREZISTA might reduce the effectiveness of estrogen-based contraceptives.
   You must take additional precautions for birth control such as a condom.
-- medicine for your heart such as bepridil, lidocaine (Xylocaine Viscous®), quinidine (Nuedexta®), amiodarone (Pacerone®, Cardarone®), digoxin (Lanoxin®), flecainide (Tambocor®), propafenone (Rythmol®)
-- warfarin (Coumadin®, Jantoven®)
-- medicine for seizures such as carbamazepine (Carbatrol®, Equetro®, Tegretol®, Epitol®), phenobarbital, phenytoin (Dilantin®, Phenytek®)
-- medicine for depression such as trazadone and desipramine (Norpramin®)
+- medicines to prevent organ transplant rejection such as cyclosporine (Gengraf®, Sandimmune®, Neoral®), tacrolimus (Prograf®), sirolimus (Rapamune®)
+- amiodarone (Pacerone®, Cardarone®)
+- artemether/lumefantrine (Coartem®)
+- atorvastatin (Lipitor®)
+- bepridil (Bepadin®, Vascor®)
+- boceprevir (Victrelis™)
+- bosentan (Tracleer®)
+- buprenorphine (Butrans®, Buprenex®, Subutex®)
+- buprenorphine/naloxone (Suboxone®, Zubsolv®)
+- carbamazepine (Carbatrol®, Equetro®, Tegretol®, Epitol®)
 - clarithromycin (Prevpac®, Biaxin®)
-- medicine for fungal infections such as ketoconazole (Nizoral®), itraconazole (Sporanox®, Onmel®), voriconazole (VFend®)
 - colchicine (Colcrys®, Col-Probenecid®)
+- desipramine (Norpramin®)
+- dexamethasone (Ozurdex®)
+- digoxin (Lanoxin®)
+- felodipine (Plendil®)
+- flecainide (Tambocor®)
+- fluticasone (Advair Diskus®, Veramyst®, Flovent®, Flonase®)
+- itraconazole (Sporanox®, Onmel®)
+- ketoconazole (Nizoral®)
+- lidocaine (Xylocaine Viscous®)
+- methadone (Methadose®)
+- metoprolol (Lopressor®, Toprol-XL®)
+- nicardipine (Cardene®)
+- nifedipine (Procardia®, Adalat CC®, Afeditab CR®)
+- paroxetine (Paxil®, Pexeva®)
+- phenobarbital
+- phenytoin (Dilantin®, Phenytek®)
+- pravastatin (Pravachol®),
+- propafenone (Rythmol®)
+- quinidine (Nuedexta®)
 - rifabutin (Mycobutin®)
-- medicine used to treat blood pressure, a heart attack, heart failure, or to lower pressure in the eye such as metoprolol (Lopressor®, Toprol-XL®), timolol (Cosopt®, Betimol®, Timoptic®, Isatolol®, Combigan®)
-- midazolam administered by injection
-- medicine for heart disease such as felodipine (Plendil®), nifedipine (Procardia®, Adalat CC®, Afeditab CR®), nicardipine (Cardene®)
-- steroids such as dexamethasone, fluticasone (Advair Diskus®, Veramyst®, Flovent®, Flonase®)
-- bosentan(Tracleer®)
-- medicine to treat chronic hepatitis C such as boceprevir (Victrelis™), telaprevir (Incivek™)
-- medicine for cholesterol such as pravastatin (Pravachol®), atorvastatin (Lipitor®), rosuvastatin (Crestor®)
-- medicine to prevent organ transplant failure such as cyclosporine (Gengraf®, Sandimmune®, Neoral®), tacrolimus (Prograf®), sirolimus (Rapamune®)
+- risperidone (Risperdal®)
+- rosuvastatin (Crestor®)
 - salmeterol (Advair®, Serevent®)
-- medicine for narcotic withdrawal such as methadone (Methadose®, Dolophine Hydrochloride), buprenorphine (Butrans®, Buprenex®, Subutex®), buprenorphine/naloxone (Suboxone®)
-- medicine to treat schizophrenia such as risperidone (Risperdal®), thioridazine
-- medicine to treat erectile dysfunction or pulmonary hypertension such as sildenafil (Viagra®, Revatio®), vardenafil (Levitra®, Staxyn®), tadalafil (Cialis®, Adcirca®)
-- medicine to treat anxiety, depression or panic disorder such as sertraline (Zoloft®), paroxetine (Paxil®, Pexeva®)
-- medicine to treat malaria such as artemether/lumefantrine (Coartem®)
+- sertraline (Zoloft®)
+- sildenafil (Viagra®, Revatio®)
+- tadalafil (Cialis®, Adcirca®)
+- telaprevir (IncivekTM)
+- thioridazine (Mellaril®)
+- timolol (Cosopt®, Betimol®, Timoptic®, Isatolol®, Combigan®)
+- trazodone (Oleptro®, Desyrel®)
+- warfarin (Coumadin®, Jantoven®)
+- vardenafil (Levitra®, Staxyn®)
+- voriconazole (VFend®)
 
 This is not a complete list of medicines that you should tell your healthcare provider that you are taking.
 Ask your healthcare provider or pharmacist if you are not sure if your medicine is one that is listed above.
@@ -247,7 +271,7 @@ PREZISTA Oral Suspension: hydroxypropyl cellulose, microcrystalline cellulose, s
 PREZISTA 75 mg and 150 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose.
 The film coating contains: OPADRY® White (polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
 
-PREZISTA 400 mg and 600 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose.
+PREZISTA 600 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose.
 The film coating contains: OPADRY® Orange (FD&C Yellow No. 6, polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
 
 PREZISTA 800 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose, hypromellose.
@@ -268,4 +292,4 @@ PREZISTA® is a registered trademark of Janssen Pharmaceuticals
 
 © Janssen Pharmaceuticals, Inc. 2006
 
-Revised: December 2013
+Revised: April 2014

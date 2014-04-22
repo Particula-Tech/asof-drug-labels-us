@@ -60,9 +60,7 @@ janssen
 
 PRINCIPAL DISPLAY PANEL - 800 mg Tablet Bottle Label
 
-30 Tablets
-
-NDC 59676-566-30
+30 Tablets NDC 59676-566-30
 
 PREZISTA® (darunavir) tablets
 

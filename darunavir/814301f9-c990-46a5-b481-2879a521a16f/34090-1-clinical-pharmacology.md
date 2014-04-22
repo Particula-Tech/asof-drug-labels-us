@@ -195,6 +195,8 @@ Table 15: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 |  | 1000 mg b.i.d. when administered with darunavir/ritonavir |  |  |  |  |  |  |
 | Co-Administration With Other HIV Antiretrovirals |  |  |  |  |  |  |  |
 | Didanosine | 400 mg q.d. | 600/100 mg b.i.d. | 17 | ↔ | 0.84 (0.59–1.20) | 0.91 (0.75–1.10) | - |
+| Dolutegravir | 30 mg q.d | 600/100 mg b.i.d. | 15 | ↓ | 0.89 (0.83–0.97) | 0.78 (0.72–0.85) | 0.62Noted as Cτ or C24 in the dolutegravir U.S. prescribing information (0.56–0.69) |
+| Dolutegravir | 50 mg q.d. | 600/100 mg b.i.d. with 200 mg b.i.d. etravirine | 9 | ↓ | 0.88 (0.78–1.00) | 0.75 (0.69–0.81) | 0.63 (0.52–0.76) |
 | Efavirenz | 600 mg q.d. | 300/100 mg b.i.d. | 12 | ↑ | 1.15 (0.97–1.35) | 1.21 (1.08–1.36) | 1.17 (1.01–1.36) |
 | Etravirine | 100 mg b.i.d. | 600/100 mg b.i.d. | 14 | ↓ | 0.68 (0.57–0.82) | 0.63 (0.54–0.73) | 0.51 (0.44–0.61) |
 | Nevirapine | 200 mg b.i.d. | 400/100 mg b.i.d. | 8 | ↑ | 1.18 (1.02–1.37) | 1.27 (1.12–1.44) | 1.47 (1.20–1.82) |
@@ -251,7 +253,7 @@ Antiviral Activity
 Darunavir exhibits activity against laboratory strains and clinical isolates of HIV-1 and laboratory strains of HIV-2 in acutely infected T-cell lines, human peripheral blood mononuclear cells and human monocytes/macrophages with median EC50 values ranging from 1.2 to 8.5 nM (0.7 to 5.0 ng/mL).
 Darunavir demonstrates antiviral activity in cell culture against a broad panel of HIV-1 group M (A, B, C, D, E, F, G), and group O primary isolates with EC50 values ranging from less than 0.1 to 4.3 nM.
 The EC50 value of darunavir increases by a median factor of 5.4 in the presence of human serum.
-Darunavir did not show antagonism when studied in combination with the PIs amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, or tipranavir, the N(t)RTIs abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine, or zidovudine, the NNRTIs delavirdine, efavirenz, etravirine, or nevirapine, and the fusion inhibitor enfuvirtide.
+Darunavir did not show antagonism when studied in combination with the PIs amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, or tipranavir, the N(t)RTIs abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine, or zidovudine, the NNRTIs delavirdine, rilpivirine, efavirenz, etravirine, or nevirapine, and the fusion inhibitor enfuvirtide.
 
 Resistance
 
