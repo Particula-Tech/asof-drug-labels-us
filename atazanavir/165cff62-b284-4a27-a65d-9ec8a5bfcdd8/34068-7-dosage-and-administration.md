@@ -2,13 +2,13 @@
 
 General Dosing Recommendations:
 
-- REYATAZ Capsules must be taken with food.
-- Do not open the capsules.
-- The recommended oral dosage of REYATAZ depends on the treatment history of the patient and the use of other coadministered drugs.
+- •REYATAZ Capsules must be taken with food.
+- •Do not open the capsules.
+- •The recommended oral dosage of REYATAZ depends on the treatment history of the patient and the use of other coadministered drugs.
   When coadministered with H2-receptor antagonists or proton-pump inhibitors, dose separation may be required [see Dosage and Administration (2.1)].
-- When coadministered with didanosine buffered or enteric-coated formulations, REYATAZ should be given (with food) 2 hours before or 1 hour after didanosine.
-- REYATAZ without ritonavir is not recommended for treatment-experienced adult or pediatric patients with prior virologic failure [see Clinical Studies (14)].
-- Efficacy and safety of REYATAZ with ritonavir in doses greater than 100 mg once daily have not been established.
+- •When coadministered with didanosine buffered or enteric-coated formulations, REYATAZ should be given (with food) 2 hours before or 1 hour after didanosine.
+- •REYATAZ without ritonavir is not recommended for treatment-experienced adult or pediatric patients with prior virologic failure [see Clinical Studies (14)].
+- •Efficacy and safety of REYATAZ with ritonavir in doses greater than 100 mg once daily have not been established.
   The use of higher ritonavir doses might alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and, therefore, is not recommended.
   Prescribers should consult the complete prescribing information for NORVIR® (ritonavir) when using this agent.
 
@@ -23,15 +23,15 @@ Table 1: REYATAZ Dosing Regimens
 | --- | --- |
 | If unable to tolerate ritonavir | REYATAZ 400 mg once daily |
 | When combined with any of the following: Tenofovir H2-receptor antagonist Proton-pump inhibitor | REYATAZ 300 mg with ritonavir 100 mg once daily |
-| • The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 40 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. • If unable to tolerate ritonavir, administer REYATAZ 400 mg once daily at least 2 hours before and at least 10 hours after the H2-receptor antagonist. No single dose of the H2-receptor antagonist should exceed a dose comparable to famotidine 20 mg and the total daily dose should not exceed a dose comparable to famotidine 40 mg. • The proton-pump inhibitor dose should not exceed a dose comparable to omeprazole 20 mg daily and must be taken approximately 12 hours prior to REYATAZ and ritonavir. |  |
+| •The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 40 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist.•If unable to tolerate ritonavir, administer REYATAZ 400 mg once daily at least 2 hours before and at least 10 hours after the H2-receptor antagonist. No single dose of the H2-receptor antagonist should exceed a dose comparable to famotidine 20 mg and the total daily dose should not exceed a dose comparable to famotidine 40 mg.•The proton-pump inhibitor dose should not exceed a dose comparable to omeprazole 20 mg daily and must be taken approximately 12 hours prior to REYATAZ and ritonavir. |  |
 | When combined with efavirenz | REYATAZ 400 mg with ritonavir 100 mg once daily |
-| • Efavirenz should be administered on an empty stomach, preferably at bedtime. |  |
+| •Efavirenz should be administered on an empty stomach, preferably at bedtime. |  |
 | Treatment-Experienced Patients | REYATAZ 300 mg with ritonavir 100 mg once daily |
 | Do not coadminister with proton-pump inhibitors or efavirenz in treatment-experienced patients. |  |
 | When given with an H2-receptor antagonist | REYATAZ 300 mg with ritonavir 100 mg once daily |
-| • The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. |  |
+| •The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. |  |
 | When given with both tenofovir and an H2-receptor antagonist | REYATAZ 400 mg with ritonavir 100 mg once daily |
-| • The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. |  |
+| •The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. |  |
 
 [For these drugs and other antiretroviral agents for which dosing modification may be appropriate, see Drug Interactions (7).]
 
@@ -59,12 +59,12 @@ For patients at least 13 years of age and at least 40 kg receiving concomitant t
 
 Dosing During Pregnancy and the Postpartum Period:
 
-- REYATAZ should not be administered without ritonavir.
-- REYATAZ should only be administered to pregnant women with HIV-1 strains susceptible to atazanavir.
-- For pregnant patients, no dose adjustment is required for REYATAZ with the following exceptions:
-  - For treatment-experienced pregnant women during the second or third trimester, when REYATAZ is coadministered with either an H2-receptor antagonist or tenofovir, REYATAZ 400 mg with ritonavir 100 mg once daily is recommended.
+- •REYATAZ should not be administered without ritonavir.
+- •REYATAZ should only be administered to pregnant women with HIV-1 strains susceptible to atazanavir.
+- •For pregnant patients, no dose adjustment is required for REYATAZ with the following exceptions:
+  - oFor treatment-experienced pregnant women during the second or third trimester, when REYATAZ is coadministered with either an H2-receptor antagonist or tenofovir, REYATAZ 400 mg with ritonavir 100 mg once daily is recommended.
     There are insufficient data to recommend a REYATAZ dose for use with both an H2-receptor antagonist and tenofovir in treatment-experienced pregnant women.
-- No dose adjustment is required for postpartum patients.
+- •No dose adjustment is required for postpartum patients.
   However, patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery.
   [See Use in Specific Populations (8.1) and Clinical Pharmacology (12.3).]
 

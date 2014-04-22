@@ -2,16 +2,16 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- cardiac conduction abnormalities [see Warnings and Precautions (5.2)]
-- rash [see Warnings and Precautions (5.3)]
-- hyperbilirubinemia [see Warnings and Precautions (5.4)]
-- nephrolithiasis and cholelithiasis [see Warnings and Precautions (5.6)]
+- •cardiac conduction abnormalities [see Warnings and Precautions (5.2)]
+- •rash [see Warnings and Precautions (5.3)]
+- •hyperbilirubinemia [see Warnings and Precautions (5.4)]
+- •nephrolithiasis and cholelithiasis [see Warnings and Precautions (5.6)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 ## 6.1 Clinical Trial Experience in Adults
 
-Treatment-Emergent Adverse Reactions in Treatment-Naive Patients
+### Treatment-Emergent Adverse Reactions in Treatment-Naive Patients
 
 The safety profile of REYATAZ in treatment-naive adults is based on 1625 HIV-1 infected patients in clinical trials.
 536 patients received REYATAZ 300 mg with ritonavir 100 mg and 1089 patients received REYATAZ 400 mg or higher (without ritonavir).
@@ -32,11 +32,7 @@ Table 4: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe In
 | Diarrhea | 2% | 12% |
 | Skin and Appendages |  |  |
 | Rash | 3% | 2% |
-| * None reported in this treatment arm. |  |  |
-| a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. |  |  |
-| b Based on the regimen containing REYATAZ. |  |  |
-| c Median time on therapy. |  |  |
-| d As a fixed-dose combination: 300 mg tenofovir, 200 mg emtricitabine once daily. |  |  |
+| * None reported in this treatment arm. a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Based on the regimen containing REYATAZ. c Median time on therapy. d As a fixed-dose combination: 300 mg tenofovir, 200 mg emtricitabine once daily. |  |  |
 
 Table 5: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥2% of Adult Treatment-Naive Patients,b Studies AI424-034, AI424-007, and AI424-008
 
@@ -58,14 +54,10 @@ Table 5: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe In
 | Peripheral neurologic symptoms | <1% | 1% | 4% | 3% |
 | Skin and Appendages |  |  |  |  |
 | Rash | 7% | 10% | 5% | 1% |
-| * None reported in this treatment arm. |  |  |  |  |
-| a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. |  |  |  |  |
-| b Based on regimens containing REYATAZ. |  |  |  |  |
-| c Median time on therapy. |  |  |  |  |
-| d Includes long-term follow-up. |  |  |  |  |
-| e As a fixed-dose combination: 150 mg lamivudine, 300 mg zidovudine twice daily. |  |  |  |  |
 
-Treatment-Emergent Adverse Reactions in Treatment-Experienced Patients
+* None reported in this treatment arm. a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Based on regimens containing REYATAZ. c Median time on therapy. d Includes long-term follow-up. e As a fixed-dose combination: 150 mg lamivudine, 300 mg zidovudine twice daily.
+
+### Treatment-Emergent Adverse Reactions in Treatment-Experienced Patients
 
 The safety profile of REYATAZ in treatment-experienced adults is based on 119 HIV-1 infected patients in clinical trials.
 
@@ -88,13 +80,10 @@ Table 6: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe In
 | Depression | 2% | <1% |
 | Musculoskeletal System |  |  |
 | Myalgia | 4% | * |
-| * None reported in this treatment arm. |  |  |
-| a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. |  |  |
-| b Based on the regimen containing REYATAZ. |  |  |
-| c Median time on therapy. |  |  |
-| d As a fixed-dose combination. |  |  |
 
-Laboratory Abnormalities in Treatment-Naive Patients
+* None reported in this treatment arm. a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Based on the regimen containing REYATAZ. c Median time on therapy. d As a fixed-dose combination.
+
+### Laboratory Abnormalities in Treatment-Naive Patients
 
 The percentages of adult treatment-naive patients treated with combination therapy including REYATAZ (atazanavir sulfate) 300 mg with ritonavir 100 mg and REYATAZ 400 mg (without ritonavir) with Grade 3–4 laboratory abnormalities are presented in Tables 7 and 8, respectively.
 
@@ -105,18 +94,15 @@ Table 7: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatme
 | REYATAZ 300 mg with ritonavir 100 mg (once daily) and tenofovir with emtricitabined | lopinavir 400 mg with ritonavir 100 mg (twice daily) and tenofovir with emtricitabined |  |  |
 | (n=441) | (n=437) |  |  |
 | Chemistry | High |  |  |
-| SGOT/AST | ≥5.1 x ULN | 3% | 1% |
-| SGPT/ALT | ≥5.1 x ULN | 3% | 2% |
-| Total Bilirubin | ≥2.6 x ULN | 44% | <1% |
-| Lipase | ≥2.1 x ULN | 2% | 2% |
-| Creatine Kinase | ≥5.1 x ULN | 8% | 7% |
+| SGOT/AST | ≥5.1 × ULN | 3% | 1% |
+| SGPT/ALT | ≥5.1 × ULN | 3% | 2% |
+| Total Bilirubin | ≥2.6 × ULN | 44% | <1% |
+| Lipase | ≥2.1 × ULN | 2% | 2% |
+| Creatine Kinase | ≥5.1 × ULN | 8% | 7% |
 | Total Cholesterol | ≥240 mg/dL | 11% | 25% |
 | Hematology | Low |  |  |
 | Neutrophils | <750 cells/mm3 | 5% | 2% |
-| a Based on the regimen containing REYATAZ. |  |  |  |
-| b Median time on therapy. |  |  |  |
-| c ULN = upper limit of normal. |  |  |  |
-| d As a fixed-dose combination: 300 mg tenofovir, 200 mg emtricitabine once daily. |  |  |  |
+| a Based on the regimen containing REYATAZ. b Median time on therapy. c ULN = upper limit of normal. d As a fixed-dose combination: 300 mg tenofovir, 200 mg emtricitabine once daily. |  |  |  |
 
 Table 8: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatment-Naive Patients,a Studies AI424-034, AI424-007, and AI424-008
 
@@ -126,25 +112,21 @@ Table 8: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatme
 | 64 weeksb | 64 weeksb | 120 weeksb,c | 73 weeksb,c |  |  |
 | REYATAZ 400 mg once daily + lamivudine + zidovudinee | efavirenz 600 mg once daily + lamivudine + zidovudinee | REYATAZ 400 mg once daily + stavudine + lamivudine or + stavudine + didanosine | nelfinavir 750 mg TID or 1250 mg BID + stavudine + lamivudine or + stavudine + didanosine |  |  |
 | Chemistry | High |  |  |  |  |
-| SGOT/AST | ≥5.1 x ULN | 2% | 2% | 7% | 5% |
-| SGPT/ALT | ≥5.1 x ULN | 4% | 3% | 9% | 7% |
-| Total Bilirubin | ≥2.6 x ULN | 35% | <1% | 47% | 3% |
-| Amylase | ≥2.1 x ULN | * | * | 14% | 10% |
-| Lipase | ≥2.1 x ULN | <1% | 1% | 4% | 5% |
-| Creatine Kinase | ≥5.1 x ULN | 6% | 6% | 11% | 9% |
+| SGOT/AST | ≥5.1 × ULN | 2% | 2% | 7% | 5% |
+| SGPT/ALT | ≥5.1 × ULN | 4% | 3% | 9% | 7% |
+| Total Bilirubin | ≥2.6 × ULN | 35% | <1% | 47% | 3% |
+| Amylase | ≥2.1 × ULN | * | * | 14% | 10% |
+| Lipase | ≥2.1 × ULN | <1% | 1% | 4% | 5% |
+| Creatine Kinase | ≥5.1 × ULN | 6% | 6% | 11% | 9% |
 | Total Cholesterol | ≥240 mg/dL | 6% | 24% | 19% | 48% |
 | Triglycerides | ≥751 mg/dL | <1% | 3% | 4% | 2% |
 | Hematology | Low |  |  |  |  |
 | Hemoglobin | <8.0 g/dL | 5% | 3% | <1% | 4% |
 | Neutrophils | <750 cells/mm3 | 7% | 9% | 3% | 7% |
-| * None reported in this treatment arm. |  |  |  |  |  |
-| a Based on regimen(s) containing REYATAZ. |  |  |  |  |  |
-| b Median time on therapy. |  |  |  |  |  |
-| c Includes long-term follow-up. |  |  |  |  |  |
-| d ULN = upper limit of normal. |  |  |  |  |  |
-| e As a fixed-dose combination: 150 mg lamivudine, 300 mg zidovudine twice daily. |  |  |  |  |  |
 
-Laboratory Abnormalities in Treatment-Experienced Patients
+* None reported in this treatment arm. a Based on regimen(s) containing REYATAZ. b Median time on therapy. c Includes long-term follow-up. d ULN = upper limit of normal. e As a fixed-dose combination: 150 mg lamivudine, 300 mg zidovudine twice daily.
+
+### Laboratory Abnormalities in Treatment-Experienced Patients
 
 The percentages of adult treatment-experienced patients treated with combination therapy including REYATAZ/ritonavir with Grade 3–4 laboratory abnormalities are presented in Table 9.
 
@@ -155,23 +137,21 @@ Table 9: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatme
 | Variable | Limitc | 48 weeksb | 48 weeksb |
 | REYATAZ/ritonavir 300/100 mg once daily + tenofovir + NRTI | lopinavir/ritonavir 400/100 mg twice dailyd + tenofovir + NRTI |  |  |
 | Chemistry | High |  |  |
-| SGOT/AST | ≥5.1 x ULN | 3% | 3% |
-| SGPT/ALT | ≥5.1 x ULN | 4% | 3% |
-| Total Bilirubin | ≥2.6 x ULN | 49% | <1% |
-| Lipase | ≥2.1 x ULN | 5% | 6% |
-| Creatine Kinase | ≥5.1 x ULN | 8% | 8% |
+| SGOT/AST | ≥5.1 × ULN | 3% | 3% |
+| SGPT/ALT | ≥5.1 × ULN | 4% | 3% |
+| Total Bilirubin | ≥2.6 × ULN | 49% | <1% |
+| Lipase | ≥2.1 × ULN | 5% | 6% |
+| Creatine Kinase | ≥5.1 × ULN | 8% | 8% |
 | Total Cholesterol | ≥240 mg/dL | 25% | 26% |
 | Triglycerides | ≥751 mg/dL | 8% | 12% |
 | Glucose | ≥251 mg/dL | 5% | <1% |
 | Hematology | Low |  |  |
 | Platelets | <50,000 cells/mm3 | 2% | 3% |
 | Neutrophils | <750 cells/mm3 | 7% | 8% |
-| a Based on regimen(s) containing REYATAZ. |  |  |  |
-| b Median time on therapy. |  |  |  |
-| c ULN = upper limit of normal. |  |  |  |
-| d As a fixed-dose combination. |  |  |  |
 
-Lipids, Change from Baseline in Treatment-Naive Patients
+a Based on regimen(s) containing REYATAZ. b Median time on therapy. c ULN = upper limit of normal. d As a fixed-dose combination.
+
+### Lipids, Change from Baseline in Treatment-Naive Patients
 
 For Study AI424-138 and Study AI424-034, changes from baseline in LDL-cholesterol, HDL-cholesterol, total cholesterol, and triglycerides are shown in Tables 10 and 11, respectively.
 
@@ -186,12 +166,7 @@ Table 10: Lipid Values, Mean Change from Baseline, Study AI424-138
 | HDL-Cholesterolf | 37 | 46 | +29% | 44 | +21% | 36 | 48 | +37% | 46 | +29% |
 | Total Cholesterolf | 149 | 169 | +13% | 169 | +13% | 150 | 187 | +25% | 186 | +25% |
 | Triglyceridesf | 126 | 145 | +15% | 140 | +13% | 129 | 194 | +52% | 184 | +50% |
-| a REYATAZ 300 mg with ritonavir 100 mg once daily with the fixed-dose combination: 300 mg tenofovir, 200 mg emtricitabine once daily. |  |  |  |  |  |  |  |  |  |  |
-| b Values obtained after initiation of serum lipid-reducing agents were not included in these analyses. At baseline, serum lipid-reducing agents were used in 1% in the lopinavir/ritonavir treatment arm and 1% in the REYATAZ/ritonavir arm. Through Week 48, serum lipid-reducing agents were used in 8% in the lopinavir/ritonavir treatment arm and 2% in the REYATAZ/ritonavir arm. Through Week 96, serum lipid-reducing agents were used in 10% in the lopinavir/ritonavir treatment arm and 3% in the REYATAZ/ritonavir arm. |  |  |  |  |  |  |  |  |  |  |
-| c Lopinavir 400 mg with ritonavir 100 mg twice daily with the fixed-dose combination 300 mg tenofovir, 200 mg emtricitabine once daily. |  |  |  |  |  |  |  |  |  |  |
-| d The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 48 or Week 96 values and is not a simple difference of the baseline and Week 48 or Week 96 mean values, respectively. |  |  |  |  |  |  |  |  |  |  |
-| e Number of patients with LDL-cholesterol measured. |  |  |  |  |  |  |  |  |  |  |
-| f Fasting. |  |  |  |  |  |  |  |  |  |  |
+| a REYATAZ 300 mg with ritonavir 100 mg once daily with the fixed-dose combination: 300 mg tenofovir, 200 mg emtricitabine once daily. b Values obtained after initiation of serum lipid-reducing agents were not included in these analyses. At baseline, serum lipid-reducing agents were used in 1% in the lopinavir/ritonavir treatment arm and 1% in the REYATAZ/ritonavir arm. Through Week 48, serum lipid-reducing agents were used in 8% in the lopinavir/ritonavir treatment arm and 2% in the REYATAZ/ritonavir arm. Through Week 96, serum lipid-reducing agents were used in 10% in the lopinavir/ritonavir treatment arm and 3% in the REYATAZ/ritonavir arm. c Lopinavir 400 mg with ritonavir 100 mg twice daily with the fixed-dose combination 300 mg tenofovir, 200 mg emtricitabine once daily. d The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 48 or Week 96 values and is not a simple difference of the baseline and Week 48 or Week 96 mean values, respectively. e Number of patients with LDL-cholesterol measured. f Fasting. |  |  |  |  |  |  |  |  |  |  |
 
 Table 11: Lipid Values, Mean Change from Baseline, Study AI424-034
 
@@ -203,15 +178,13 @@ Table 11: Lipid Values, Mean Change from Baseline, Study AI424-034
 | LDL-Cholesterolf | 98 | 98 | +1% | 98 | 114 | +18% |
 | HDL-Cholesterol | 39 | 43 | +13% | 38 | 46 | +24% |
 | Total Cholesterol | 164 | 168 | +2% | 162 | 195 | +21% |
-| Triglyceridesf | 138 | 124 | -9% | 129 | 168 | +23% |
-| a REYATAZ 400 mg once daily with the fixed-dose combination: 150 mg lamivudine, 300 mg zidovudine twice daily. |  |  |  |  |  |  |
-| b Values obtained after initiation of serum lipid-reducing agents were not included in these analyses. At baseline, serum lipid-reducing agents were used in 0% in the efavirenz treatment arm and <1% in the REYATAZ arm. Through Week 48, serum lipid-reducing agents were used in 3% in the efavirenz treatment arm and 1% in the REYATAZ arm. |  |  |  |  |  |  |
-| c Efavirenz 600 mg once daily with the fixed-dose combination: 150 mg lamivudine, 300 mg zidovudine twice daily. |  |  |  |  |  |  |
-| d The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 48 values and is not a simple difference of the baseline and Week 48 mean values. |  |  |  |  |  |  |
-| e Number of patients with LDL-cholesterol measured. |  |  |  |  |  |  |
-| f Fasting. |  |  |  |  |  |  |
+| Triglyceridesf | 138 | 124 | −9% | 129 | 168 | +23% |
 
-Lipids, Change from Baseline in Treatment-Experienced Patients
+a REYATAZ 400 mg once daily with the fixed-dose combination: 150 mg lamivudine, 300 mg zidovudine twice daily. b Values obtained after initiation of serum lipid-reducing agents were not included in these analyses.
+At baseline, serum lipid-reducing agents were used in 0% in the efavirenz treatment arm and <1% in the REYATAZ arm.
+Through Week 48, serum lipid-reducing agents were used in 3% in the efavirenz treatment arm and 1% in the REYATAZ arm. c Efavirenz 600 mg once daily with the fixed-dose combination: 150 mg lamivudine, 300 mg zidovudine twice daily. d The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 48 values and is not a simple difference of the baseline and Week 48 mean values. e Number of patients with LDL-cholesterol measured. f Fasting.
+
+### Lipids, Change from Baseline in Treatment-Experienced Patients
 
 For Study AI424-045, changes from baseline in LDL-cholesterol, HDL-cholesterol, total cholesterol, and triglycerides are shown in Table 12.
 The observed magnitude of dyslipidemia was less with REYATAZ/ritonavir than with lopinavir/ritonavir.
@@ -224,16 +197,14 @@ Table 12: Lipid Values, Mean Change from Baseline, Study AI424-045
 |  | REYATAZ/ritonavira,b |  |  | lopinavir/ritonavirb,c |  |  |
 | Baseline | Week 48 | Week 48 | Baseline | Week 48 | Week 48 |  |
 | mg/dL | mg/dL | Changed | mg/dL | mg/dL | Changed |  |
-| LDL-Cholesterolf | 108 | 98 | -10% | 104 | 103 | +1% |
-| HDL-Cholesterol | 40 | 39 | -7% | 39 | 41 | +2% |
-| Total Cholesterol | 188 | 170 | -8% | 181 | 187 | +6% |
-| Triglyceridesf | 215 | 161 | -4% | 196 | 224 | +30% |
-| a REYATAZ 300 mg once daily + ritonavir + tenofovir + 1 NRTI. |  |  |  |  |  |  |
-| b Values obtained after initiation of serum lipid-reducing agents were not included in these analyses. At baseline, serum lipid-reducing agents were used in 4% in the lopinavir/ritonavir treatment arm and 4% in the REYATAZ/ritonavir arm. Through Week 48, serum lipid-reducing agents were used in 19% in the lopinavir/ritonavir treatment arm and 8% in the REYATAZ/ritonavir arm. |  |  |  |  |  |  |
-| c Lopinavir/ritonavir (400/100 mg) BID + tenofovir + 1 NRTI. |  |  |  |  |  |  |
-| d The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 48 values and is not a simple difference of the baseline and Week 48 mean values. |  |  |  |  |  |  |
-| e Number of patients with LDL-cholesterol measured. |  |  |  |  |  |  |
-| f Fasting. |  |  |  |  |  |  |
+| LDL-Cholesterolf | 108 | 98 | −10% | 104 | 103 | +1% |
+| HDL-Cholesterol | 40 | 39 | −7% | 39 | 41 | +2% |
+| Total Cholesterol | 188 | 170 | −8% | 181 | 187 | +6% |
+| Triglyceridesf | 215 | 161 | −4% | 196 | 224 | +30% |
+
+a REYATAZ 300 mg once daily + ritonavir + tenofovir + 1 NRTI. b Values obtained after initiation of serum lipid-reducing agents were not included in these analyses.
+At baseline, serum lipid-reducing agents were used in 4% in the lopinavir/ritonavir treatment arm and 4% in the REYATAZ/ritonavir arm.
+Through Week 48, serum lipid-reducing agents were used in 19% in the lopinavir/ritonavir treatment arm and 8% in the REYATAZ/ritonavir arm. c Lopinavir/ritonavir (400/100 mg) BID + tenofovir + 1 NRTI. d The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 48 values and is not a simple difference of the baseline and Week 48 mean values. e Number of patients with LDL-cholesterol measured. f Fasting.
 
 ## 6.2 Clinical Trial Experience in Pediatric Patients
 

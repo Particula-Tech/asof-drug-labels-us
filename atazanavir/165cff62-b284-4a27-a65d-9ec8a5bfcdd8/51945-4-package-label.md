@@ -1,15 +1,21 @@
---------------------------------------------- REPRESENTATIVE PACKAGING
+# REYATAZ 100 mg Capsules Representative Packaging
 
-See HOW SUPPLIED section for a complete list of available packages of REYATAZ
+See HOW SUPPLIED section for a complete list of available packages of REYATAZ.
 
 NDC 0003-3623-12 Bristol-Myers Squibb 60 Capsules REYATAZ® (atazanavir sulfate) 100 mg Rx only Note to pharmacist: Do not cover ALERT box with pharmacy label.
 ALERT: Find out about medicines that should NOT be taken with REYATAZ®
 
+# REYATAZ 150 mg Capsules Representative Packaging
+
 NDC 0003-3624-12 Bristol-Myers Squibb 60 Capsules REYATAZ® (atazanavir sulfate) 150 mg Rx only Note to pharmacist: Do not cover ALERT box with pharmacy label.
 ALERT: Find out about medicines that should NOT be taken with REYATAZ®
+
+# REYATAZ 200 mg Capsules Representative Packaging
 
 NDC 0003-3631-12 Bristol-Myers Squibb 60 Capsules REYATAZ® (atazanavir sulfate) 200 mg Rx only Note to pharmacist: Do not cover ALERT box with pharmacy label.
 ALERT: Find out about medicines that should NOT be taken with REYATAZ®
 
-NDC 0003-3622-12 Bristol-Myers Squibb 60 Capsules REYATAZ® (atazanavir sulfate) 300 mg Rx only Note to pharmacist: Do not cover ALERT box with pharmacy label.
+# REYATAZ 300 mg Capsules Representative Packaging
+
+NDC 0003-3622-12 Bristol-Myers Squibb 30 Capsules REYATAZ® (atazanavir sulfate) 300 mg Rx only Note to pharmacist: Do not cover ALERT box with pharmacy label.
 ALERT: Find out about medicines that should NOT be taken with REYATAZ®

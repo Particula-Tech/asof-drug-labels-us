@@ -2,12 +2,12 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+### Pregnancy Category B
 
 Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to REYATAZ, an Antiretroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients by calling 1-800-258-4263.
 
-Risk Summary
+### Risk Summary
 
 Atazanavir has been evaluated in a limited number of women during pregnancy and postpartum.
 Available human and animal data suggest that atazanavir does not increase the risk of major birth defects overall compared to the background rate.
@@ -19,27 +19,27 @@ Nucleoside analogues are associated with an increased risk of lactic acidosis sy
 Hyperbilirubinemia occurs frequently in patients who take REYATAZ, including pregnant women.
 All infants, including neonates exposed to REYATAZ in-utero, should be monitored for the development of severe hyperbilirubinemia during the first few days of life.
 
-Clinical Considerations
+### Clinical Considerations
 
 Dosing During Pregnancy and the Postpartum Period:
 
-- REYATAZ should not be administered without ritonavir.
-- REYATAZ should only be administered to pregnant women with HIV-1 strains susceptible to atazanavir.
-- For pregnant patients, no dose adjustment is required for REYATAZ with the following exceptions:
-  - For treatment-experienced pregnant women during the second or third trimester, when REYATAZ is coadministered with either an H2-receptor antagonist or tenofovir, REYATAZ 400 mg with ritonavir 100 mg once daily is recommended.
+- •REYATAZ should not be administered without ritonavir.
+- •REYATAZ should only be administered to pregnant women with HIV-1 strains susceptible to atazanavir.
+- •For pregnant patients, no dose adjustment is required for REYATAZ with the following exceptions:
+  - oFor treatment-experienced pregnant women during the second or third trimester, when REYATAZ is coadministered with either an H2-receptor antagonist or tenofovir, REYATAZ 400 mg with ritonavir 100 mg once daily is recommended.
     There are insufficient data to recommend a REYATAZ dose for use with both an H2-receptor antagonist and tenofovir in treatment-experienced pregnant women.
-- No dose adjustment is required for postpartum patients.
+- •No dose adjustment is required for postpartum patients.
   However, patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery.
   [See Dosage and Administration (2, 2.3) and Clinical Pharmacology (12.3).]
 
-Human Data
+### Human Data
 
 Clinical Trials: In clinical trial AI424-182, REYATAZ/ritonavir (300/100 mg or 400/100 mg) in combination with zidovudine/lamivudine was administered to 41 HIV-infected pregnant women during the second or third trimester.
 Among the 39 women who completed the study, 38 women achieved an HIV RNA <50 copies/mL at time of delivery.
 Six of 20 (30%) women on REYATAZ/ritonavir 300/100 mg and 13 of 21 (62%) women on REYATAZ/ritonavir 400/100 mg experienced hyperbilirubinemia (total bilirubin greater than or equal to 2.6 times the upper limit of normal).
 There were no cases of lactic acidosis observed in clinical trial AI424-182.
 
-Atazanavir drug concentrations in fetal umbilical cord blood were approximately 12–19% of maternal concentrations.
+Atazanavir drug concentrations in fetal umbilical cord blood were approximately 12-19% of maternal concentrations.
 Among the 40 infants born to 40 HIV-infected pregnant women, all had test results that were negative for HIV-1 DNA at the time of delivery and/or during the first 6 months postpartum.
 All 40 infants received antiretroviral prophylactic treatment containing zidovudine.
 No evidence of severe hyperbilirubinemia (total bilirubin levels greater than 20 mg/dL) or acute or chronic bilirubin encephalopathy was observed among neonates in this study.
@@ -56,11 +56,11 @@ Birth defects occurred in 9 of 393 (2.3%) live births (first trimester exposure)
 Among pregnant women in the U.S. reference population, the background rate of birth defects is 2.7%.
 There was no association between atazanavir and overall birth defects observed in the APR.
 
-Pharmacokinetics of Atazanavir in Pregnancy
+### Pharmacokinetics of Atazanavir in Pregnancy
 
 [See Clinical Pharmacology (12.3).]
 
-Animal Data
+### Animal Data
 
 In animal reproduction studies, there was no evidence of teratogenicity in offspring born to animals at systemic drug exposure levels (AUC) 0.7 (in rabbits) to 1.2 (in rats) times those observed at the human clinical dose (300 mg/day atazanavir boosted with 100 mg/day ritonavir).
 In pre- and post-natal development studies in the rat, atazanavir caused body weight loss or weight gain suppression in the animal offspring with maternal drug exposure (AUC) 1.3 times the human exposure at this clinical dose.
@@ -90,7 +90,7 @@ In general, appropriate caution should be exercised in the administration and mo
 
 ## 8.6 Age/Gender
 
-A study of the pharmacokinetics of atazanavir was performed in young (n=29; 18–40 years) and elderly (n=30; ≥65 years) healthy subjects.
+A study of the pharmacokinetics of atazanavir was performed in young (n=29; 18-40 years) and elderly (n=30; ≥65 years) healthy subjects.
 There were no clinically important pharmacokinetic differences observed due to age or gender.
 
 ## 8.7 Impaired Renal Function

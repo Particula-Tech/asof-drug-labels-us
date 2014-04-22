@@ -1,10 +1,6 @@
-Patient Information
+# Patient Information
 
-REYATAZ® (RAY-ah-taz)
-
-(generic name = atazanavir sulfate)
-
-Capsules
+REYATAZ® (RAY-ah-taz) (generic name = atazanavir sulfate) Capsules
 
 ALERT: Find out about medicines that should NOT be taken with REYATAZ.
 Read the section “What important information should I know about taking REYATAZ with other medicines?”
@@ -32,21 +28,21 @@ You should remain under the care of a doctor when using REYATAZ.
 
 Avoid doing things that can spread HIV-1 infection.
 
-- Do not share needles or other injection equipment.
-- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-- Do not have any kind of sex without protection.
+- •Do not share needles or other injection equipment.
+- •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- •Do not have any kind of sex without protection.
   Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 
 Who should not take REYATAZ?
 
 Do not take REYATAZ if you:
 
-- are taking certain medicines.
+- •are taking certain medicines.
   (See “What important information should I know about taking REYATAZ with other medicines?”)
   Serious life-threatening side effects or death may happen.
-  Before you take REYATAZ, tell your healthcare provider about all medicines you are taking or planning to take.
+  Before you take Reyataz, tell your healthcare provider about all medicines you are taking or planning to take.
   These include other prescription and nonprescription medicines, vitamins, and herbal supplements.
-- are allergic to REYATAZ or to any of its ingredients.
+- •are allergic to REYATAZ or to any of its ingredients.
   The active ingredient is atazanavir sulfate.
   See the end of this leaflet for a complete list of ingredients in REYATAZ.
   Tell your healthcare provider if you think you have had an allergic reaction to any of these ingredients.
@@ -55,49 +51,49 @@ What should I tell my healthcare provider before I take REYATAZ?
 
 Tell your healthcare provider:
 
-- If you are pregnant or plan to become pregnant.
+- •If you are pregnant or plan to become pregnant.
   REYATAZ use during pregnancy has not been associated with an increase in birth defects.
   Pregnant women have experienced serious side effects when taking REYATAZ with other HIV medicines called nucleoside analogues.
   You and your healthcare provider will need to decide if REYATAZ is right for you.
   If you use REYATAZ while you are pregnant, talk to your healthcare provider about the Antiretroviral Pregnancy Registry.
-  - After your baby is born, tell your healthcare provider if your baby’s skin or the white part of his/her eyes turns yellow.
-- If you are breastfeeding.
+  - oAfter your baby is born, tell your healthcare provider if your baby’s skin or the white part of his/her eyes turns yellow.
+- •If you are breastfeeding.
   Do not breastfeed.
   It is not known if REYATAZ can be passed to your baby in your breast milk and whether it could harm your baby.
-  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
-- If you have liver problems or are infected with the hepatitis B or C virus.
+  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in breast milk.
+- •If you have liver problems or are infected with the hepatitis B or C virus.
   See “What are the possible side effects of REYATAZ?”
-- If you have end stage kidney disease managed with hemodialysis.
-- If you have diabetes.
+- •If you have end stage kidney disease managed with hemodialysis.
+- •If you have diabetes.
   See “What are the possible side effects of REYATAZ?”
-- If you have hemophilia.
+- •If you have hemophilia.
   See “What are the possible side effects of REYATAZ?”
-- About all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+- •About all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
   Keep a list of your medicines with you to show your healthcare provider.
   For more information, see “What important information should I know about taking REYATAZ with other medicines?” and “Who should not take REYATAZ?”
   Some medicines can cause serious side effects if taken with REYATAZ.
 
 How should I take REYATAZ?
 
-- Take REYATAZ once every day exactly as instructed by your healthcare provider.
+- •Take REYATAZ once every day exactly as instructed by your healthcare provider.
   Your healthcare provider will prescribe the amount of REYATAZ that is right for you.
-- Always take REYATAZ with food (a meal or snack) to help it work better.
+- •Always take REYATAZ with food (a meal or snack) to help it work better.
   Swallow the capsules whole.
   Do not open the capsules.
   Take REYATAZ at the same time each day.
-- If you are taking antacids or didanosine (VIDEX® or VIDEX® EC), take REYATAZ 2 hours before or 1 hour after these medicines.
-- If you are taking medicines for indigestion, heartburn, or ulcers such as AXID® (nizatidine), PEPCID AC® (famotidine), TAGAMET® (cimetidine), ZANTAC® (ranitidine), AcipHex® (rabeprazole), NEXIUM® (esomeprazole), PREVACID® (lansoprazole), PRILOSEC® (omeprazole), or PROTONIX® (pantoprazole), talk to your healthcare provider.
-- Do not change your dose or stop taking REYATAZ without first talking with your healthcare provider.
+- •If you are taking antacids or didanosine (VIDEX® or VIDEX® EC), take REYATAZ 2 hours before or 1 hour after these medicines.
+- •If you are taking medicines for indigestion, heartburn, or ulcers such as AXID® (nizatidine), PEPCID AC® (famotidine), TAGAMET® (cimetidine), ZANTAC® (ranitidine), AcipHex® (rabeprazole), NEXIUM® (esomeprazole), PREVACID® (lansoprazole), PRILOSEC® (omeprazole), or PROTONIX® (pantoprazole), talk to your healthcare provider.
+- •Do not change your dose or stop taking REYATAZ without first talking with your healthcare provider.
   It is important to stay under a healthcare provider’s care while taking REYATAZ.
-- When your supply of REYATAZ starts to run low, get more from your healthcare provider or pharmacy.
+- •When your supply of REYATAZ starts to run low, get more from your healthcare provider or pharmacy.
   It is important not to run out of REYATAZ.
   The amount of HIV in your blood may increase if the medicine is stopped for even a short time.
-- If you miss a dose of REYATAZ, take it as soon as possible and then take your next scheduled dose at its regular time.
+- •If you miss a dose of REYATAZ, take it as soon as possible and then take your next scheduled dose at its regular time.
   If, however, it is within 6 hours of your next dose, do not take the missed dose.
   Wait and take the next dose at the regular time.
   Do not double the next dose.
   It is important that you do not miss any doses of REYATAZ or your other anti-HIV medicines.
-- If you take more than the prescribed dose of REYATAZ, call your healthcare provider or poison control center right away.
+- •If you take more than the prescribed dose of REYATAZ, call your healthcare provider or poison control center right away.
 
 What are the possible side effects of REYATAZ?
 
@@ -108,39 +104,39 @@ Your healthcare provider may be able to help you manage these side effects.
 
 The following side effects have been reported with REYATAZ:
 
-- mild rash (redness and itching) without other symptoms sometimes occurs in patients taking REYATAZ, most often in the first few weeks after the medicine is started.
+- •mild rash (redness and itching) without other symptoms sometimes occurs in patients taking REYATAZ, most often in the first few weeks after the medicine is started.
   Rashes usually go away within 2 weeks with no change in treatment.
   Tell your healthcare provider if rash occurs.
-- severe rash: Rash may develop in association with other symptoms which could be serious and potentially cause death.
+- •severe rash: Rash may develop in association with other symptoms which could be serious and potentially cause death.
   If you develop a rash with any of the following symptoms stop using REYATAZ and call your healthcare provider right away:
-  - shortness of breath
-  - general ill feeling or “flu-like” symptoms
-  - fever
-  - muscle or joint aches
-  - conjunctivitis (red or inflamed eyes, like “pink eye”)
-  - blisters
-  - mouth sores
-  - swelling of your face
-- yellowing of the skin or eyes.
+  - oshortness of breath
+  - ogeneral ill feeling or “flu-like” symptoms
+  - ofever
+  - omuscle or joint aches
+  - oconjunctivitis (red or inflamed eyes, like “pink eye”)
+  - oblisters
+  - omouth sores
+  - oswelling of your face
+- •yellowing of the skin or eyes.
   These effects may be due to increases in bilirubin levels in the blood (bilirubin is made by the liver).
-  Although these effects may not be damaging to your liver, skin, or eyes, call your healthcare provider promptly if your skin or the white part of your eyes turn yellow.
-- a change in the way your heart beats (heart rhythm change).
+  Although these effects may not be damaging to your liver, skin, or eyes, call your healthcare provider promptly if your skin or the white part of your eyes turns yellow.
+- •a change in the way your heart beats (heart rhythm change).
   Call your healthcare provider right away if you get dizzy or lightheaded.
   These could be symptoms of a heart problem.
-- diabetes and high blood sugar (hyperglycemia) sometimes happen in patients taking protease inhibitor medicines like REYATAZ.
+- •diabetes and high blood sugar (hyperglycemia) sometimes happen in patients taking protease inhibitor medicines like REYATAZ.
   Some patients had diabetes before taking protease inhibitors while others did not.
   Some patients may need changes in their diabetes medicine.
-- if you have liver disease including hepatitis B or C, your liver disease may get worse when you take anti-HIV medicines like REYATAZ.
-- kidney stones have been reported in patients taking REYATAZ.
+- •if you have liver disease including hepatitis B or C, your liver disease may get worse when you take anti-HIV medicines like REYATAZ.
+- •kidney stones have been reported in patients taking REYATAZ.
   If you develop signs or symptoms of kidney stones (pain in your side, blood in your urine, pain when you urinate) tell your healthcare provider promptly.
-- gallbladder disorders (which may include gallstones and gallbladder inflammation) have been reported in patients taking REYATAZ.
+- •gallbladder disorders (which may include gallstones and gallbladder inflammation) have been reported in patients taking REYATAZ.
   If you develop signs or symptoms of gallstones (pain in the right or middle upper stomach, fever, nausea and vomiting, or yellowing of skin and whites of the eyes), tell your healthcare provider promptly.
-- some patients with hemophilia have increased bleeding problems with protease inhibitors like REYATAZ.
-- changes in body fat.
+- •some patients with hemophilia have increased bleeding problems with protease inhibitors like REYATAZ.
+- •changes in body fat.
   These changes may include an increased amount of fat in the upper back and neck (“buffalo hump”), breast, and around the trunk.
   Loss of fat from the legs, arms, and face may also happen.
   The cause and long-term health effects of these conditions are not known at this time.
-- immune reconstitution syndrome.
+- •immune reconstitution syndrome.
   In some patients with advanced HIV infection (AIDS) and a history of opportunistic infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment, including REYATAZ, is started.
 
 Other common side effects of REYATAZ taken with other anti-HIV medicines include nausea; headache; stomach pain; vomiting; diarrhea; depression; fever; dizziness; trouble sleeping; numbness, tingling, or burning of hands or feet; and muscle pain.
@@ -150,69 +146,70 @@ What important information should I know about taking REYATAZ with other medicin
 Do not take REYATAZ if you take the following medicines (not all brands may be listed; tell your healthcare provider about all the medicines you take).
 REYATAZ may cause serious, life-threatening side effects or death when used with these medicines.
 
-- Ergot medicines: dihydroergotamine, ergonovine, ergotamine, and methylergonovine such as CAFERGOT®, MIGRANAL®, D.H.E.
+- •Ergot medicines: dihydroergotamine, ergonovine, ergotamine, and methylergonovine such as CAFERGOT®, MIGRANAL®, D.H.E.
   45®, ergotrate maleate, METHERGINE®, and others (used for migraine headaches).
-- ORAP® (pimozide, used for Tourette’s disorder).
-- PROPULSID® (cisapride, used for certain stomach problems).
-- Triazolam, also known as HALCION® (used for insomnia).
-- Midazolam, also known as VERSED® (used for sedation), when taken by mouth.
+- •ORAP® (pimozide, used for Tourette’s disorder).
+- •PROPULSID® (cisapride, used for certain stomach problems).
+- •Triazolam, also known as HALCION® (used for insomnia).
+- •Midazolam, also known as VERSED® (used for sedation), when taken by mouth.
 
 Do not take the following medicines with REYATAZ because of possible serious side effects:
 
-- CAMPTOSAR® (irinotecan, used for cancer).
-- CRIXIVAN® (indinavir, used for HIV infection).
+- •CAMPTOSAR® (irinotecan, used for cancer).
+- •CRIXIVAN® (indinavir, used for HIV infection).
   Both REYATAZ and CRIXIVAN sometimes cause increased levels of bilirubin in the blood.
-- Cholesterol-lowering medicines MEVACOR® (lovastatin) or ZOCOR® (simvastatin).
-- UROXATRAL® (alfuzosin, used to treat benign enlargement of the prostate).
-- REVATIO® (sildenafil, used to treat pulmonary arterial hypertension).
+- •Cholesterol-lowering medicines MEVACOR® (lovastatin) or ZOCOR® (simvastatin).
+- •UROXATRAL® (alfuzosin, used to treat benign enlargement of the prostate).
+- •REVATIO® (sildenafil, used to treat pulmonary arterial hypertension).
 
 Do not take the following medicines with REYATAZ because they may lower the amount of REYATAZ in your blood.
 This may lead to an increased HIV viral load.
 Resistance to REYATAZ or cross-resistance to other HIV medicines may develop:
 
-- Rifampin (also known as RIMACTANE®, RIFADIN®, RIFATER®, or RIFAMATE®, used for tuberculosis).
-- St. John’s wort (Hypericum perforatum), an herbal product sold as a dietary supplement, or products containing St. John’s wort.
-- VIRAMUNE® (nevirapine, used for HIV infection).
+- •Rifampin (also known as RIMACTANE®, RIFADIN®, RIFATER®, or RIFAMATE®, used for tuberculosis).
+- •St.
+  John’s wort (Hypericum perforatum), an herbal product sold as a dietary supplement, or products containing St. John’s wort.
+- •VIRAMUNE® (nevirapine, used for HIV infection).
 
 The following medicines are not recommended with REYATAZ:
 
-- SEREVENT DISKUS® (salmeterol) and ADVAIR® (salmeterol with fluticasone), used to treat asthma, emphysema/chronic obstructive pulmonary disease also known as COPD.
-- VICTRELIS® (boceprevir), used to treat chronic hepatitis C infection in adults.
-- VFEND® (voriconazole), used to treat fungal infections.
+- •SEREVENT DISKUS® (salmeterol) and ADVAIR® (salmeterol with fluticasone), used to treat asthma, emphysema/chronic obstructive pulmonary disease also known as COPD.
+- •VICTRELIS® (boceprevir), used to treat chronic hepatitis C infection in adults.
+- •VFEND® (voriconazole), used to treat fungal infections.
 
 The following medicines may require your healthcare provider to monitor your therapy more closely (for some medicines a change in the dose or dose schedule may be needed):
 
-- CIALIS® (tadalafil), LEVITRA® (vardenafil), or VIAGRA® (sildenafil), used to treat erectile dysfunction.
+- •CIALIS® (tadalafil), LEVITRA® (vardenafil), or VIAGRA® (sildenafil), used to treat erectile dysfunction.
   REYATAZ may increase the chances of serious side effects that can happen with CIALIS, LEVITRA, or VIAGRA.
   Do not use CIALIS, LEVITRA, or VIAGRA while you are taking REYATAZ unless your healthcare provider tells you it is okay.
-- ADCIRCA® (tadalafil) or TRACLEER® (bosentan), used to treat pulmonary arterial hypertension.
-- LIPITOR® (atorvastatin) or CRESTOR® (rosuvastatin).
+- •ADCIRCA® (tadalafil) or TRACLEER® (bosentan), used to treat pulmonary arterial hypertension.
+- •LIPITOR® (atorvastatin) or CRESTOR® (rosuvastatin).
   There is an increased chance of serious side effects if you take REYATAZ with this cholesterol-lowering medicine.
-- Medicines for abnormal heart rhythm: CORDARONE® (amiodarone), lidocaine, quinidine (also known as CARDIOQUIN®, QUINIDEX®, and others).
-- MYCOBUTIN® (rifabutin, an antibiotic used to treat tuberculosis).
-- BUPRENEX®, SUBUTEX®, SUBOXONE® (buprenorphine or buprenorphine/naloxone, used to treat pain and addiction to narcotic painkillers).
-- VASCOR® (bepridil, used for chest pain).
-- COUMADIN® (warfarin).
-- Tricyclic antidepressants such as ELAVIL® (amitriptyline), NORPRAMIN® (desipramine), SINEQUAN® (doxepin), SURMONTIL® (trimipramine), TOFRANIL® (imipramine), or VIVACTIL® (protriptyline).
-- Medicines to prevent organ transplant rejection: SANDIMMUNE® or NEORAL® (cyclosporin), RAPAMUNE® (sirolimus), or PROGRAF® (tacrolimus).
-- The antidepressant trazodone (DESYREL® and others).
-- Fluticasone propionate (FLONASE®, FLOVENT®), given by nose or inhaled to treat allergic symptoms or asthma.
+- •Medicines for abnormal heart rhythm: CORDARONE® (amiodarone), lidocaine, quinidine (also known as CARDIOQUIN®, QUINIDEX®, and others).
+- •MYCOBUTIN® (rifabutin, an antibiotic used to treat tuberculosis).
+- •BUPRENEX®, SUBUTEX®, SUBOXONE®, (buprenorphine or buprenorphine/naloxone, used to treat pain and addiction to narcotic painkillers).
+- •VASCOR® (bepridil, used for chest pain).
+- •COUMADIN® (warfarin).
+- •Tricyclic antidepressants such as ELAVIL® (amitriptyline), NORPRAMIN® (desipramine), SINEQUAN® (doxepin), SURMONTIL® (trimipramine), TOFRANIL® (imipramine), or VIVACTIL® (protriptyline).
+- •Medicines to prevent organ transplant rejection: SANDIMMUNE® or NEORAL® (cyclosporin), RAPAMUNE® (sirolimus), or PROGRAF® (tacrolimus).
+- •The antidepressant trazodone (DESYREL® and others).
+- •Fluticasone propionate (FLONASE®, FLOVENT®), given by nose or inhaled to treat allergic symptoms or asthma.
   Your doctor may choose not to keep you on fluticasone, especially if you are also taking NORVIR®.
-- Colchicine (COLCRYS®), used to prevent or treat gout or treat familial Mediterranean fever.
+- •Colchicine (COLCRYS®), used to prevent or treat gout or treat familial Mediterranean fever.
 
 The following medicines may require a change in the dose or dose schedule of either REYATAZ or the other medicine:
 
-- INVIRASE® (saquinavir).
-- NORVIR® (ritonavir).
-- SUSTIVA® (efavirenz).
-- Antacids or buffered medicines.
-- VIDEX® (didanosine).
-- VIREAD® (tenofovir disoproxil fumarate).
-- MYCOBUTIN® (rifabutin).
-- Calcium channel blockers such as CARDIZEM® or TIAZAC® (diltiazem), COVERA-HS® or ISOPTIN SR® (verapamil) and others.
-- BIAXIN® (clarithromycin).
-- Medicines for indigestion, heartburn, or ulcers such as AXID® (nizatidine), PEPCID AC® (famotidine), TAGAMET® (cimetidine), or ZANTAC® (ranitidine).
-- Antiepileptic medicines such as CARBATROL® or EPITOL®(carbamazepine), DILANTIN® (phenytoin), or phenobarbital, or LAMICTAL® (lamotrigine).
+- •INVIRASE® (saquinavir).
+- •NORVIR® (ritonavir).
+- •SUSTIVA® (efavirenz).
+- •Antacids or buffered medicines.
+- •VIDEX® (didanosine).
+- •VIREAD® (tenofovir disoproxil fumarate).
+- •MYCOBUTIN® (rifabutin).
+- •Calcium channel blockers such as CARDIZEM® or TIAZAC® (diltiazem), COVERA‑HS® or ISOPTIN SR® (verapamil) and others.
+- •BIAXIN® (clarithromycin).
+- •Medicines for indigestion, heartburn, or ulcers such as AXID® (nizatidine), PEPCID AC® (famotidine), TAGAMET® (cimetidine), or ZANTAC® (ranitidine).
+- •Antiepileptic medicines such as CARBATROL® or EPITOL® (carbamazepine), DILANTIN® (phenytoin), or phenobarbital, or LAMICTAL® (lamotrigine).
 
 Talk to your healthcare provider about choosing an effective method of contraception.
 REYATAZ may affect the safety and effectiveness of hormonal contraceptives such as birth control pills or the contraceptive patch.
@@ -220,15 +217,15 @@ Hormonal contraceptives do not prevent the spread of HIV to others.
 
 Remember:
 
-1. Know all the medicines you take.
-2. Tell your healthcare provider about all the medicines you take.
-3. Do not start a new medicine without talking to your healthcare provider.
+1. 1.Know all the medicines you take.
+2. 2.Tell your healthcare provider about all the medicines you take.
+3. 3.Do not start a new medicine without talking to your healthcare provider.
 
 How should I store REYATAZ?
 
-- Store REYATAZ Capsules at room temperature, 59° to 86° F (15° to 30° C). Do not store this medicine in a damp place such as a bathroom medicine cabinet or near the kitchen sink.
-- Keep your medicine in a tightly closed container.
-- Keep all medicines out of the reach of children and pets at all times.
+- •Store REYATAZ Capsules at room temperature, 59° to 86° F (15° to 30° C). Do not store this medicine in a damp place such as a bathroom medicine cabinet or near the kitchen sink.
+- •Keep your medicine in a tightly closed container.
+- •Keep all medicines out of the reach of children and pets at all times.
   Do not keep medicine that is out of date or that you no longer need.
   Dispose of unused medicines through community take-back disposal programs when available or place REYATAZ in an unrecognizable, closed container in the household trash.
 
@@ -258,6 +255,8 @@ Other brands listed are the trademarks of their respective owners and are not tr
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1246226B5
+Product of Ireland
 
-Rev August 2013
+1246226B6
+
+Rev April 2014

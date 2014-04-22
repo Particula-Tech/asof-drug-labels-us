@@ -10,4 +10,4 @@ REYATAZ® (atazanavir sulfate) Capsules are available in the following strengths
 | 300 mg | red/blue | BMS 300 mg (white) | 3622 (white) | 30 | 0003-3622-12 |
 | * atazanavir equivalent as atazanavir sulfate. |  |  |  |  |  |
 
-REYATAZ (atazanavir sulfate) Capsules should be stored at 25° C (77° F); excursions permitted to 15–30° C (59–86° F) [see USP Controlled Room Temperature].
+REYATAZ (atazanavir sulfate) Capsules should be stored at 25° C (77° F); excursions permitted to 15-30° C (59-86° F) [see USP Controlled Room Temperature].
