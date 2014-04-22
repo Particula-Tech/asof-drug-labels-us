@@ -1,65 +1,56 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-## 17.1 Asthma-Related Death
+Asthma-Related Death:Inform patients with asthma that salmeterol, one of the active ingredients in ADVAIR DISKUS, increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.Also inform them that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 
-Patients with asthma should be informed that salmeterol, one of the active ingredients in ADVAIR DISKUS, increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-They should also be informed that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABAs.
+Not for Acute Symptoms: Inform patients that ADVAIR DISKUS is not meant to relieve acute asthma symptoms or exacerbations of COPD and extra doses should not be used for that purpose.
+Advise patients to treat acute symptoms with an inhaled, short-acting beta2‑agonist such as albuterol.
+Provide patients with such medication and instruct them in how it should be used.
 
-## 17.2 Not for Acute Symptoms
-
-ADVAIR DISKUS is not meant to relieve acute asthma symptoms or exacerbations of COPD and extra doses should not be used for that purpose.
-Acute symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol.
-The physician should provide the patient with such medication and instruct the patient in how it should be used.
-
-Patients should be instructed to notify their physician immediately if they experience any of the following:
+Instruct patients to seek medical attention immediately if they experience any of the following:
 
 - •Decreasing effectiveness of inhaled, short-acting beta2-agonists
 - •Need for more inhalations than usual of inhaled, short-acting beta2-agonists
 - •Significant decrease in lung function as outlined by the physician
 
-Patients should not stop therapy with ADVAIR DISKUS without physician/provider guidance since symptoms may recur after discontinuation.
+Tell patients they should not stop therapy with ADVAIR DISKUS without physician/provider guidance since symptoms may recur after discontinuation.
 
-## 17.3 Do Not Use Additional Long-Acting Beta2-Agonists
+Do Not Use Additional Long-Acting Beta2-Agonists: Instruct patients not to use other LABA for asthma and COPD.
 
-When patients are prescribed ADVAIR DISKUS, other LABAs for asthma and COPD should not be used.
+Local Effects: Inform patients that localized infections with Candida albicans occurred in the mouth and pharynx in some patients.
+If oropharyngeal candidiasis develops, treat it with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with ADVAIR DISKUS, but at times therapy with ADVAIR DISKUS may need to be temporarily interrupted under close medical supervision.
+Rinsing the mouth with water without swallowing after inhalation is advised to help reduce the risk of thrush.
 
-## 17.4 Risks Associated With Corticosteroid Therapy
+Pneumonia: Patients with COPD have a higher risk of pneumonia; instruct them to contact their healthcare provider if they develop symptoms of pneumonia.
 
-Local Effects: Patients should be advised that localized infections with Candida albicans occurred in the mouth and pharynx in some patients.
-If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with ADVAIR DISKUS, but at times therapy with ADVAIR DISKUS may need to be temporarily interrupted under close medical supervision.
-Rinsing the mouth after inhalation is advised.
+Immunosuppression: Warn patients who are on immunosuppressant doses of corticosteroids to avoid exposure to chickenpox or measles and, if exposed, to consult their physicians without delay.
+Inform patients of potential worsening of existing tuberculosis; fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
-Pneumonia: Patients with COPD have a higher risk of pneumonia and should be instructed to contact their healthcare provider if they develop symptoms of pneumonia.
-
-Immunosuppression: Patients who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chickenpox or measles and, if exposed, to consult their physician without delay.
-Patients should be informed of potential worsening of existing tuberculosis, fungal, bacterial, viral, or parasitic infections, or ocular herpes simplex.
-
-Hypercorticism and Adrenal Suppression: Patients should be advised that ADVAIR DISKUS may cause systemic corticosteroid effects of hypercorticism and adrenal suppression.
-Additionally, patients should be instructed that deaths due to adrenal insufficiency have occurred during and after transfer from systemic corticosteroids.
+Hypercorticism and Adrenal Suppression: Advise patients that ADVAIR DISKUS may cause systemic corticosteroid effects of hypercorticism and adrenal suppression.
+Additionally, inform patients that deaths due to adrenal insufficiency have occurred during and after transfer from systemic corticosteroids.
 Patients should taper slowly from systemic corticosteroids if transferring to ADVAIR DISKUS.
 
-Reduction in Bone Mineral Density: Patients who are at an increased risk for decreased BMD should be advised that the use of corticosteroids may pose an additional risk.
+Immediate Hypersensitivity Reactions: Advise patients that immediate hypersensitivity reactions (e.g., urticaria, angioedema, rash, bronchospasm, hypotension), including anaphylaxis, may occur after administration of ADVAIR DISKUS.
+Patients should discontinue ADVAIR DISKUS if such reactions occur.
+There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of powder products containing lactose; therefore, patients with severe milk protein allergy should not take ADVAIR DISKUS.
 
-Reduced Growth Velocity: Patients should be informed that orally inhaled corticosteroids, including fluticasone propionate, a component of ADVAIR DISKUS, may cause a reduction in growth velocity when administered to pediatric patients.
+Reduction in Bone Mineral Density: Advise patients who are at an increased risk for decreased BMD that the use of corticosteroids may pose an additional risk.
+
+Reduced Growth Velocity: Inform patients that orally inhaled corticosteroids, including fluticasone propionate, may cause a reduction in growth velocity when administered to pediatric patients.
 Physicians should closely follow the growth of children and adolescents taking corticosteroids by any route.
 
-Ocular Effects: Long-term use of inhaled corticosteroids may increase the risk of some eye problems (cataracts or glaucoma); regular eye examinations should be considered.
+Ocular Effects: Long-term use of inhaled corticosteroids may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
-## 17.5 Risks Associated With Beta-Agonist Therapy
+Risks Associated With Beta-Agonist Therapy: Inform patients of adverse effects associated with beta2‑agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
-Patients should be informed of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
-
-ADVAIR, ADVAIR DISKUS, DISKHALER, DISKUS, FLONASE, FLOVENT, ROTADISK, SEREVENT, and VENTOLIN are registered trademarks of GlaxoSmithKline.
+ADVAIR, ADVAIR DISKUS, DISKHALER, DISKUS, FLONASE, FLOVENT, ROTADISK, and VENTOLIN are registered trademarks of the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-September 2011
-
-ADD: 9PI
+ADD:10PI
