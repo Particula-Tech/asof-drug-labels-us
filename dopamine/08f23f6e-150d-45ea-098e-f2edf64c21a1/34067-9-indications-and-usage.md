@@ -24,6 +24,6 @@ In many instances the renal fraction of the total cardiac output has been found 
 Increase in cardiac output produced by dopamine is not associated with substantial decreases in systemic vascular resistance as may occur with isoproterenol.
 
 Hypotension: Low to moderate doses of dopamine, which have little effect on SVR, can be used to manage hypotension due to inadequate cardiac output.
-At high therapeutic doses, dopamine’s α-adrenergic action becomes more prominent and thus may correct hypotension due to diminished SVR.
+At high therapeutic doses, dopamine’s α‑adrenergic action becomes more prominent and thus may correct hypotension due to diminished SVR.
 As in other circulatory decompensation states, prognosis is better in patients whose blood pressure and urine flow have not undergone extreme deterioration.
 Therefore, it is suggested the physician administer dopamine as soon as a definite trend toward decreased systolic and diastolic pressure becomes apparent.
