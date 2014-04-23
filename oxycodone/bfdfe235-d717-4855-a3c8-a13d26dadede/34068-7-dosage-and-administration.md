@@ -2,53 +2,51 @@
 
 ## 2.1 Initial Dosing
 
-Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience.
-Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with OxyContin [see Warnings and Precautions (5.2)].
+OXYCONTIN should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-Consider the following factors when selecting an initial dose of OxyContin:
+OXYCONTIN 60 mg and 80 mg tablets, a single dose greater than 40 mg, or a total daily dose greater than 80 mg are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
+Patients considered opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine/day, 25 mcg transdermal fentanyl/hour, 30 mg oral oxycodone/day, 8 mg oral hydromorphone/day, 25 mg oral oxymorphone/day, or an equianalgesic dose of another opioid.
 
-- Total daily dose, potency, and any prior opioid the patient has been taking previously;
-- Reliability of the relative potency estimate used to calculate the equivalent dose of oxycodone needed (Note: potency estimates may vary with the route of administration);
-- Patient's degree of opioid experience and opioid tolerance;
-- General condition and medical status of the patient;
-- Concurrent medication;
-- Type and severity of the patient's pain.
+Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with OXYCONTIN [see Warnings and Precautions (5.2)].
 
-Use of OxyContin as the First Opioid Analgesic
+OXYCONTIN tablets must be taken whole, one tablet at a time, with enough water to ensure complete swallowing immediately after placing in the mouth [see Patient Counseling Information (17)].
+Crushing, chewing, or dissolving OXYCONTIN tablets will result in uncontrolled delivery of oxycodone and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
-Initiate therapy with 10 mg every 12 hours.
+Use of OXYCONTIN as the First Opioid Analgesic Initiate treatment with OXYCONTIN with one 10 mg tablet orally every 12 hours.
+Use of OXYCONTIN in Patients who are not Opioid Tolerant The starting dose for patients who are not opioid tolerant is OXYCONTIN 10 mg orally every 12 hours.
+Patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, or an equianalgesic dose of another opioid.
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression.
 
-Conversion from other Oral Oxycodone Formulations to OxyContin
+Conversion from other Oral Oxycodone Formulations to OXYCONTIN
 
-Patients receiving other oral oxycodone formulations may be converted to OxyContin by administering one-half of the patient's total daily oral oxycodone dose as OxyContin every 12 hours.
+Patients receiving other oral oxycodone formulations may be converted to OXYCONTIN by administering one-half of the patient's total daily oral oxycodone dose as OXYCONTIN every 12 hours.
 
-Conversion from other Opioids to OxyContin
+Conversion from other Opioids to OXYCONTIN Discontinue all other around-the-clock opioid drugs when OXYCONTIN therapy is initiated.
+There are no established conversion ratios for conversion from other opioids to OXYCONTIN defined by clinical trials.
+Discontinue all other around-the-clock opioid drugs when OXYCONTIN therapy is initiated and initiate dosing using OXYCONTIN 10 mg orally every 12 hours.
+It is safer to underestimate a patient’s 24-hour oral oxycodone requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral oxycodone requirements which could result in adverse reactions.
+While useful tables of opioid equivalents are readily available, there is substantial inter-patient variability in the relative potency of different opioid drugs and products.
+Conversion from Methadone to OXYCONTIN Close monitoring is of particular importance when converting from methadone to other opioid agonists.
+The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
+Methadone has a long half-life and can accumulate in the plasma.
 
-While there are useful tables of oral and parenteral equivalents, there is substantial inter-patient variation in the relative potency of different opioid drugs and formulations.
-Specific recommendations are not available because of a lack of systematic evidence for these types of analgesic substitutions.
-As such, it is safer to underestimate a patient's 24-hour oral oxycodone requirement and provide rescue medication (e.g., immediate-release oxycodone) than to overestimate and precipitate an adverse reaction.
-In general, begin with half of the estimated daily oxycodone requirement as the initial daily OxyContin estimate, then divide into two doses taken 12 hours apart, and manage inadequate analgesia by supplementation with immediate-release oxycodone.
+Conversion from Transdermal Fentanyl to OXYCONTIN
 
-Published relative potency data are available and may be referred to in clinical practice guidelines such as those published by authorities in the field of pain medicine, but such ratios are approximations.
-Consider contacting your specific state medical or pharmacy professional societies for further information on how to safely convert patients from one opioid to another.
-
-Conversion from Transdermal Fentanyl to OxyContin
-
-Eighteen hours following the removal of the transdermal fentanyl patch, OxyContin treatment can be initiated.
-Although there has been no systematic assessment of such conversion, a conservative oxycodone dose, approximately 10 mg every 12 hours of OxyContin, should be initially substituted for each 25 mcg/hr fentanyl transdermal patch.
-Follow the patient closely during conversion from transdermal fentanyl to OxyContin, as there is limited documented experience with this conversion.
+Eighteen hours following the removal of the transdermal fentanyl patch, OXYCONTIN treatment can be initiated.
+Although there has been no systematic assessment of such conversion, a conservative oxycodone dose, approximately 10 mg every 12 hours of OXYCONTIN, should be initially substituted for each 25 mcg/hr fentanyl transdermal patch.
+Follow the patient closely during conversion from transdermal fentanyl to OXYCONTIN, as there is limited documented experience with this conversion.
 
 ## 2.2 Titration and Maintenance of Therapy
 
-Individually titrate OxyContin to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving OxyContin to assess the maintenance of pain control and the relative incidence of adverse reactions.
-During chronic therapy, especially for non-cancer-related pain (or other pain associated with terminal illnesses), periodically reassess the continued need for the use of opioid analgesics.
-
-If the level of pain increases, attempt to identify the source of increased pain, while adjusting the OxyContin dose to decrease the level of pain.
-Because steady-state plasma concentrations are approximated in 1 day, OxyContin dosage adjustments may be done every 1 to 2 days.
-Patients who experience breakthrough pain may require dosage adjustment or rescue medication with an appropriate dose of an immediate-release opioid and non-opioid medication.
-
-If signs of excessive opioid-related adverse reactions are observed, the next dose may be reduced.
+Individually titrate OXYCONTIN to a dose that provides adequate analgesia and minimizes adverse reactions.
+Continually reevaluate patients receiving OXYCONTIN to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse and misuse.
+Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
+During chronic therapy, periodically reassess the continued need for the use of opioid analgesics.
+Patients who experience breakthrough pain may require a dose increase of OXYCONTIN or may need rescue medication with an appropriate dose of an immediate-release analgesic.
+If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the OXYCONTIN dose.
+Because steady-state plasma concentrations are approximated in 1 day, OXYCONTIN dosage may be adjusted every 1 to 2 days.
+If unacceptable opioid-related adverse reactions are observed, the subsequent dose may be reduced.
 Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 There are no well-controlled clinical studies evaluating the safety and efficacy with dosing more frequently than every 12 hours.
@@ -58,14 +56,14 @@ As a guideline, the total daily oxycodone dose usually can be increased by 25% t
 
 For patients with hepatic impairment, start dosing patients at 1/3 to 1/2 the usual starting dose followed by careful dose titration [see Clinical Pharmacology (12.3)].
 
-## 2.4 Discontinuation of OxyContin
+## 2.4 Discontinuation of OXYCONTIN
 
-When the patient no longer requires therapy with OxyContin tablets, use a gradual downward titration of the dose to prevent signs and symptoms of withdrawal in the physically dependent patient.
-Do not abruptly discontinue OxyContin.
+When the patient no longer requires therapy with OXYCONTIN tablets, use a gradual downward titration of the dose to prevent signs and symptoms of withdrawal in the physically dependent patient.
+Do not abruptly discontinue OXYCONTIN.
 
-## 2.5 Administration of OxyContin
+## 2.5 Administration of OXYCONTIN
 
-Instruct patients to swallow OxyContin tablets intact.
-The tablets are not to be crushed, dissolved, or chewed due to the risk of rapid release and absorption of a potentially fatal dose of oxycodone [see Warnings and Precautions (5.1, 5.2)].
+Instruct patients to swallow OXYCONTIN tablets intact.
+The tablets are not to be crushed, dissolved, or chewed due to the risk of rapid release and absorption of a potentially fatal dose of oxycodone [see Warnings and Precautions (5.1)].
 
-Instruct patients to take OxyContin one tablet at a time and with enough water to ensure complete swallowing immediately after placing in the mouth [see Warnings and Precautions (5.9), and Patient Counseling Information (17)].
+Instruct patients to take OXYCONTIN one tablet at a time and with enough water to ensure complete swallowing immediately after placing in the mouth [see Warnings and Precautions (5.9) and Patient Counseling Information (17)].

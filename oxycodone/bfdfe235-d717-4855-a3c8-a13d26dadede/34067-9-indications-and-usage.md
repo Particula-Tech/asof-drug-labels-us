@@ -1,16 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-OxyContin is indicated for the management of moderate to severe pain when a continuous, around-the-clock opioid analgesic is needed for an extended period of time.
+OXYCONTIN is indicated for the management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
 
 Limitations of Use
 
-OxyContin is not for use:
-
-- As an as-needed (prn) analgesic
-- For pain that is mild or not expected to persist for an extended period of time
-- For acute pain
-- In the immediate postoperative period (the first 24 hours following surgery) for patients not previously taking the drug, because its safety in this setting has not been established.
-- For postoperative pain unless the patient is already receiving chronic opioid therapy prior to surgery, or if the postoperative pain is expected to be moderate to severe and persist for an extended period of time.
-
-OxyContin 60 mg and 80 mg tablets, a single dose greater than 40 mg, or a total daily dose greater than 80 mg are only for patients in whom tolerance to an opioid of comparable potency is established.
-Patients considered opioid tolerant are those who are taking at least 60 mg oral morphine/day, 25 mcg transdermal fentanyl/hour, 30 mg oral oxycodone/day, 8 mg oral hydromorphone/day, 25 mg oral oxymorphone/day, or an equianalgesic dose of another opioid for one week or longer.
+- Because of the risks of addiction, abuse, and misuse with opioids, even at recommended doses, and because of the greater risks of overdose and death with extended-release opioid formulations, reserve OXYCONTIN for use in patients for whom alternative treatment options (e.g., non-opioid analgesics or immediate-release opioids) are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
+- OXYCONTIN is not indicated as an as-needed (prn) analgesic

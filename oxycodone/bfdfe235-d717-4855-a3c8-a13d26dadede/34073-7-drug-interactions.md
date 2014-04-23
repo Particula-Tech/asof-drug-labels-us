@@ -2,41 +2,35 @@
 
 ## 7.1 CNS Depressants
 
-Concurrent use of OxyContin and other central nervous system (CNS) depressants including sedatives or hypnotics, general anesthetics, phenothiazines, tranquilizers, and alcohol can increase the risk of respiratory depression, hypotension, profound sedation or coma.
-Monitor patients receiving CNS depressants and OxyContin for signs of respiratory depression and hypotension.
-When such combined therapy is contemplated, start OxyContin at 1/3 to 1/2 of the usual dosage and consider using a lower dose of the concomitant CNS depressant.
+The concomitant use of OXYCONTIN and other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma, or death.
+Monitor patients receiving CNS depressants and OXYCONTIN for signs of respiratory depression, sedation, and hypotension.
+
+When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 
 ## 7.2 Muscle Relaxants
 
 Oxycodone may enhance the neuromuscular blocking action of true skeletal muscle relaxants and produce an increased degree of respiratory depression.
-Monitor patients receiving muscle relaxants and OxyContin for signs of respiratory depression that may be greater than otherwise expected.
+Monitor patients receiving muscle relaxants and OXYCONTIN for signs of respiratory depression that may be greater than otherwise expected.
 
-## 7.3 Agents Affecting Cytochrome P450 Isoenzymes
+## 7.3 Drugs Affecting Cytochrome P450 Isoenzymes
 
-Inhibitors of CYP3A4
+Inhibitors of CYP3A4 and 2D6
 
-Co-administration of a strong CYP3A4 inhibitor ketoconazole, with OxyContin, significantly increased the plasma concentrations of oxycodone.
-Inhibition of CYP3A4 activity by its inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may prolong opioid effects.
-If co-administration is necessary, caution is advised when initiating therapy with, currently taking, or discontinuing CYP3A4 inhibitors.
-Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
+Because the CYP3A4 isoenzyme plays a major role in the metabolism of oxycodone, drugs that inhibit CYP3A4 activity may cause decreased clearance of oxycodone which could lead to an increase in oxycodone plasma concentrations and result in increased or prolonged opioid effects.
+These effects could me more pronounced with concomitant use of CYP2D6 and 3A4 inhibitors.
+If co-administration with OXYCONTIN is necessary, monitor patients for respiratory depression and sedation at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
 
 Inducers of CYP3A4
 
-A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, significantly decreased plasma oxycodone concentrations.
-CYP450 inducers, such as rifampin, carbamazepine, and phenytoin, may induce the metabolism of oxycodone and, therefore, may cause increased clearance of the drug which could lead to a decrease in oxycodone plasma concentrations, lack of efficacy or, possibly, development of an abstinence syndrome in a patient who had developed physical dependence to oxycodone.
-If co-administration with OxyContin is necessary, caution is advised when initiating therapy with, currently taking, or discontinuing CYP3A4 inducers.
-Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
+CYP450 3A4 inducers may induce the metabolism of oxycodone and, therefore, may cause increased clearance of the drug which could lead to a decrease in oxycodone plasma concentrations, lack of efficacy or, possibly, development of an abstinence syndrome in a patient who had developed physical dependence to oxycodone.
+If co-administration with OXYCONTIN is necessary, monitor for signs of opioid withdrawal and consider dose adjustments until stable drug effects are achieved.
 
-Inhibitors of CYP2D6
+After stopping the treatment of a CYP3A4 inducer, as the effects of the inducer decline, the oxycodone plasma concentration will increase which could increase or prolong both the therapeutic and adverse effects, and may cause serious respiratory depression [see Clinical Pharmacology (12.3)].
 
-Oxycodone is metabolized in part to oxymorphone via CYP2D6.
-While this pathway may be blocked by a variety of drugs such as certain cardiovascular drugs (e.g., quinidine) and antidepressants (e.g., fluoxetine), such blockade has not been shown to be of clinical significance during oxycodone treatment.
-However, clinicians should be aware of this possible interaction.
+## 7.4 Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
 
-## 7.4 Mixed Agonist/Antagonist Opioid Analgesics
-
-Mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, and butorphanol) should generally not be administered to a patient who has received or is receiving a course of therapy with a pure opioid agonist analgesic such as OxyContin.
-In this situation, mixed agonist/antagonist analgesics may reduce the analgesic effect of oxycodone and may precipitate withdrawal symptoms in these patients.
+Mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) and partial agonist (buprenorphine) analgesics may reduce the analgesic effect of oxycodone or precipitate withdrawal symptoms.
+Avoid the use of mixed agonist/antagonist and partial agonist analgesics in patients receiving OXYCONTIN.
 
 ## 7.5 Diuretics
 
@@ -46,4 +40,4 @@ Opioids may also lead to acute retention of urine by causing spasm of the sphinc
 ## 7.6 Anticholinergics
 
 Anticholinergics or other medications with anticholinergic activity when used concurrently with opioid analgesics may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
-Monitor patients for signs of urinary retention or reduced gastric motility when OxyContin is used concurrently with anticholinergic drugs.
+Monitor patients for signs of urinary retention or reduced gastric motility when OXYCONTIN is used concurrently with anticholinergic drugs.

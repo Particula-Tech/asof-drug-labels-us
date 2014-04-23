@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-OxyContin is contraindicated in patients with:
+OXYCONTIN is contraindicated in patients with:
 
 - Significant respiratory depression
 - Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment

@@ -1,10 +1,9 @@
 # 12 CLINICAL PHARMACOLOGY
 
-Oxycodone is primarily a mu receptor opioid agonist whose principal therapeutic action is analgesia.
-Other members of the class known as opioid agonists include substances such as morphine, hydromorphone, fentanyl, codeine, hydrocodone and oxymorphone.
-Pharmacological effects of opioid agonists include anxiolysis, euphoria, feelings of relaxation, respiratory depression, constipation, miosis, and cough suppression, as well as analgesia.
-In general, increasing doses of mu receptor agonists are associated with increasing analgesia.
-There is no defined maximum dose; the ceiling to analgesic effectiveness is imposed only by adverse reactions, the more serious of which may include somnolence and respiratory depression.
+Oxycodone hydrochloride is a full opioid agonist and is relatively selective for the mu receptor, although it can bind to other opioid receptors at higher doses.
+The principal therapeutic action of oxycodone is analgesia.
+Like all full opioid agonists, there is no ceiling effect to analgesia for oxycodone.
+Clinically, dosage is titrated to provide adequate analgesia and may be limited by adverse reactions, including respiratory and CNS depression.
 
 ## 12.1 Mechanism of Action
 
@@ -15,8 +14,8 @@ However, specific CNS opioid receptors for endogenous compounds with opioid-like
 
 ## 12.2 Pharmacodynamics
 
-A single-dose, double-blind, placebo- and dose-controlled study was conducted using OxyContin (10, 20, and 30 mg) in an analgesic pain model involving 182 patients with moderate to severe pain.
-OxyContin doses of 20 mg and 30 mg produced statistically significant pain reduction compared to placebo.
+A single-dose, double-blind, placebo- and dose-controlled study was conducted using OXYCONTIN (10, 20, and 30 mg) in an analgesic pain model involving 182 patients with moderate to severe pain.
+OXYCONTIN doses of 20 mg and 30 mg produced statistically significant pain reduction compared to placebo.
 
 Effects on the Central Nervous System
 
@@ -66,21 +65,21 @@ Concentration –Adverse Reaction Relationships
 There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related side effects.
 
-The dose of OxyContin must be individualized because the effective analgesic dose for some patients will be too high to be tolerated by other patients [see Dosage and Administration (2.1)].
+The dose of OXYCONTIN must be individualized because the effective analgesic dose for some patients will be too high to be tolerated by other patients [see Dosage and Administration (2.1)].
 
 ## 12.3 Pharmacokinetics
 
-The activity of OxyContin is primarily due to the parent drug oxycodone.
-OxyContin is designed to provide delivery of oxycodone over 12 hours.
+The activity of OXYCONTIN is primarily due to the parent drug oxycodone.
+OXYCONTIN is designed to provide delivery of oxycodone over 12 hours.
 
-Cutting, breaking, chewing, crushing or dissolving OxyContin impairs the controlled-release delivery mechanism and results in the rapid release and absorption of a potentially fatal dose of oxycodone.
+Cutting, breaking, chewing, crushing or dissolving OXYCONTIN impairs the controlled-release delivery mechanism and results in the rapid release and absorption of a potentially fatal dose of oxycodone.
 
-Oxycodone release from OxyContin is pH independent.
+Oxycodone release from OXYCONTIN is pH independent.
 The oral bioavailability of oxycodone is 60% to 87%.
-The relative oral bioavailability of oxycodone from OxyContin to that from immediate-release oral dosage forms is 100%.
-Upon repeated dosing with OxyContin in healthy subjects in pharmacokinetic studies, steady-state levels were achieved within 24-36 hours.
+The relative oral bioavailability of oxycodone from OXYCONTIN to that from immediate-release oral dosage forms is 100%.
+Upon repeated dosing with OXYCONTIN in healthy subjects in pharmacokinetic studies, steady-state levels were achieved within 24-36 hours.
 Oxycodone is extensively metabolized and eliminated primarily in the urine as both conjugated and unconjugated metabolites.
-The apparent elimination half-life (t½) of oxycodone following the administration of OxyContin was 4.5 hours compared to 3.2 hours for immediate-release oxycodone.
+The apparent elimination half-life (t½) of oxycodone following the administration of OXYCONTIN was 4.5 hours compared to 3.2 hours for immediate-release oxycodone.
 
 Absorption
 
@@ -89,15 +88,15 @@ This high oral bioavailability is due to low pre-systemic and/or first-pass meta
 
 Plasma Oxycodone Concentration over Time
 
-Dose proportionality has been established for OxyContin 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 3).
-Given the short elimination t½ of oxycodone, steady-state plasma concentrations of oxycodone are achieved within 24-36 hours of initiation of dosing with OxyContin.
-In a study comparing 10 mg of OxyContin every 12 hours to 5 mg of immediate-release oxycodone every 6 hours, the two treatments were found to be equivalent for AUC and Cmax, and similar for Cmin (trough) concentrations.
+Dose proportionality has been established for OXYCONTIN 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 3).
+Given the short elimination t½ of oxycodone, steady-state plasma concentrations of oxycodone are achieved within 24-36 hours of initiation of dosing with OXYCONTIN.
+In a study comparing 10 mg of OXYCONTIN every 12 hours to 5 mg of immediate-release oxycodone every 6 hours, the two treatments were found to be equivalent for AUC and Cmax, and similar for Cmin (trough) concentrations.
 
 TABLE 3
 
 | Mean [% coefficient of variation] |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Regimen | Dosage Form | AUC (ng-hr/mL)* | Cmax (ng/mL) | Tmax (hr) |
+| Regimen | Dosage Form | AUC (ng·hr/mL)* | Cmax (ng/mL) | Tmax (hr) |
 | Single Dose† | 10 mg | 136 [27] | 11.5 [27] | 5.11 [21] |
 |  | 15 mg | 196 [28] | 16.8 [29] | 4.59 [19] |
 |  | 20 mg | 248 [25] | 22.7 [25] | 4.63 [22] |
@@ -109,7 +108,7 @@ TABLE 3
 
 Food Effects
 
-Food has no significant effect on the extent of absorption of oxycodone from OxyContin.
+Food has no significant effect on the extent of absorption of oxycodone from OXYCONTIN.
 
 Distribution
 
@@ -138,9 +137,9 @@ Oxycodone and its metabolites are excreted primarily via the kidney.
 The amounts measured in the urine have been reported as follows: free and conjugated oxycodone 8.9%, free noroxycodone 23%, free oxymorphone less than 1%, conjugated oxymorphone 10%, free and conjugated noroxymorphone 14%, reduced free and conjugated metabolites up to 18%.
 The total plasma clearance was approximately 1.4 L/min in adults.
 
-Special Populations
+Specific Populations
 
-Elderly (≥ 65 years)
+Geriatric Use
 
 The plasma concentrations of oxycodone are only nominally affected by age, being 15% greater in elderly as compared to young subjects (age 21-45).
 
@@ -168,7 +167,7 @@ Drug-Drug Interactions
 CYP3A4 Inhibitors
 
 CYP3A4 is the major enzyme involved in noroxycodone formation.
-Co-administration of OxyContin (10 mg single dose) and the CYP3A4 inhibitor ketoconazole (200 mg BID) increased oxycodone AUC and Cmax by 170% and 100%, respectively [see Drug Interactions (7.3)].
+Co-administration of OXYCONTIN (10 mg single dose) and the CYP3A4 inhibitor ketoconazole (200 mg BID) increased oxycodone AUC and Cmax by 170% and 100%, respectively [see Drug Interactions (7.3)].
 
 CYP3A4 Inducers
 
@@ -177,4 +176,4 @@ A published study showed that the co-administration of rifampin, a drug metaboli
 CYP2D6 Inhibitors
 
 Oxycodone is metabolized in part to oxymorphone via CYP2D6.
-While this pathway may be blocked by a variety of drugs such as certain cardiovascular drugs (e.g., quinidine) and antidepressants (e.g., fluoxetine), such blockade has not been shown to be of clinical significance with OxyContin [see Drug Interactions (7.3)].
+While this pathway may be blocked by a variety of drugs such as certain cardiovascular drugs (e.g., quinidine) and antidepressants (e.g., fluoxetine), such blockade has not been shown to be of clinical significance with OXYCONTIN [see Drug Interactions (7.3)].
