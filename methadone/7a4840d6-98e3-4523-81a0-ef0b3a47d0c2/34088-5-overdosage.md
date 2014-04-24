@@ -1,9 +1,13 @@
 # 10 OVERDOSAGE
 
-Clinical Symptoms: Acute overdosage of methadone is manifested by respiratory depression, somnolence progressing to stupor or coma, maximally constricted pupils, skeletal-muscle flaccidity, cold and clammy skin, and sometimes, bradycardia and hypotension.
+Clinical Presentation
+
+Acute overdosage of methadone is manifested by respiratory depression, somnolence progressing to stupor or coma, maximally constricted pupils, skeletal-muscle flaccidity, cold and clammy skin, and sometimes, bradycardia and hypotension.
 In severe overdosage, particularly by the intravenous route, apnea, circulatory collapse, cardiac arrest, and death may occur.
 
-Treatment of Overdose: In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation if needed.
+Treatment of Overdose
+
+In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation if needed.
 Employ other supportive measures (including oxygen, vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life support techniques.
 

@@ -6,7 +6,7 @@ Carcinogenesis: The results of carcinogenicity assessment in B6C2F1 mice and Fis
 Mice consumed 15 mg/kg/day or 60 mg/kg/day methadone for two years.
 These doses were approximately 0.6 and 2.5 times a human daily oral dose of 120 mg/day on a body surface area basis (mg/m2).
 There was a significant increase in pituitary adenomas in female mice treated with 15 mg/kg/day but not with 60 mg/kg/day.
-Under the conditions of the assay, there was no clear evidence for a treatment-related increase in the incidence of neoplasms in male rats.
+Under the conditions of the assay, there was no clear evidence for a treatment- related increase in the incidence of neoplasms in male rats.
 Due to decreased food consumption in males at the high dose, male rats consumed 16 mg/kg/day and 28 mg/kg/day of methadone for two years.
 These doses were approximately 1.3 and 2.3 times a human daily oral dose of 120 mg/day, based on body surface area comparison.
 In contrast, female rats consumed 46 mg/kg/day or 88 mg/kg/day for two years.
