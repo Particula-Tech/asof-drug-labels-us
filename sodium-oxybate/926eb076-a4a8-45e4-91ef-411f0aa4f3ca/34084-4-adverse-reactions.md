@@ -10,15 +10,16 @@ The following adverse reactions appear in other sections of the labeling:
 - •Parasomnias [see Warnings and Precautions (5.7)]
 - •Use in Patients Sensitive to High Sodium Intake [see Warnings and Precautions (5.8)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Xyrem was studied in three placebo-controlled clinical trials (Trials N1, N3, and N4, described in Sections 14.1 and 14.2) in 611 patients with narcolepsy (398 subjects treated with Xyrem, and 213 with placebo).A total of 781 patients with narcolepsy were treated with Xyrem in controlled and uncontrolled clinical trials.
+Xyrem was studied in three placebo-controlled clinical trials (Trials N1, N3, and N4, described in Sections 14.1 and 14.2) in 611 patients with narcolepsy (398 subjects treated with Xyrem, and 213 with placebo).
+A total of 781 patients with narcolepsy were treated with Xyrem in controlled and uncontrolled clinical trials.
 
-Section 6.1 and Table 3 presents adverse reactions from three pooled, controlled trials (N1, N3, N4,) in patients with narcolepsy.
+Section 6.1 and Table 3 presents adverse reactions from three pooled, controlled trials (N1, N3, N4) in patients with narcolepsy.
 
-Adverse Reactions Leading to Treatment Discontinuation
+Adverse Reactions Leading to Treatment Discontinuation:
 
 Of the 398 Xyrem-treated patients with narcolepsy, 10.3% of patients discontinued because of adverse reactions compared with 2.8% of patients receiving placebo.
 The most common adverse reaction leading to discontinuation was nausea (2.8%).
@@ -34,10 +35,10 @@ Table 3 lists adverse reactions that occurred at a frequency of 2% or more in an
 Adverse reactions are summarized by dose at onset.
 Nearly all patients in these studies initiated treatment at 4.5 g per night.
 In patients who remained on treatment, adverse reactions tended to occur early and to diminish over time.
+Table 3 Adverse Reactions Occurring in ≥2% of Patients and More Frequently with Xyrem than Placebo in Three Controlled Trials (N1, N3, N4) by Body System and Dose at Onset
 
-| System Organ Class /MedDRA Preferred Term | Placebo (n=213) % | Xyrem 4.5g (n=185) % | Xyrem 6g (n=258)% | Xyrem 9g (n=178) % |
+| System Organ Class/MedDRA Preferred Term | Placebo (n=213) % | Xyrem 4.5g (n=185) % | Xyrem 6g (n=258) % | Xyrem 9g (n=178) % |
 | --- | --- | --- | --- | --- |
-| Table 3 Adverse Reactions Occurring in ≥2% of Patients and More Frequently with Xyrem than Placebo in Three Controlled Trials (N1, N3, N4) by Body System and Dose at Onset |  |  |  |  |
 | ANY ADVERSE REACTION | 62 | 45 | 55 | 70 |
 | GASTROINTESTINAL DISORDERS |  |  |  |  |
 | Nausea | 3 | 8 | 13 | 20 |
@@ -46,13 +47,13 @@ In patients who remained on treatment, adverse reactions tended to occur early a
 | Abdominal pain upper | 2 | 3 | 1 | 2 |
 | Dry mouth | 2 | 1 | 2 | 1 |
 | GENERAL DISORDERS AND ADMINISTRATIVE SITE CONDITIONS |  |  |  |  |
-| Pain | 1 | 1 | <1 | 3 |
-| Feeling drunk | 1 | 0 | <1 | 3 |
+| Pain | 1 | 1 | < 1 | 3 |
+| Feeling drunk | 1 | 0 | < 1 | 3 |
 | Edema peripheral | 1 | 3 | 0 | 0 |
 | MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |  |  |  |
 | Pain in extremity | 1 | 3 | 1 | 1 |
 | Cataplexy | 1 | 1 | 1 | 2 |
-| Muscle spasms | 2 | 2 | <1 | 2 |
+| Muscle spasms | 2 | 2 | < 1 | 2 |
 | NERVOUS SYSTEM DISORDERS |  |  |  |  |
 | Dizziness | 4 | 9 | 11 | 15 |
 | Somnolence | 4 | 1 | 3 | 8 |
@@ -63,7 +64,7 @@ In patients who remained on treatment, adverse reactions tended to occur early a
 | PSYCHIATRIC DISORDERS |  |  |  |  |
 | Disorientation | 1 | 1 | 2 | 3 |
 | Anxiety | 1 | 1 | 1 | 2 |
-| Irritability | 1 | 0 | <1 | 3 |
+| Irritability | 1 | 0 | < 1 | 3 |
 | Sleep walking | 0 | 0 | 0 | 3 |
 | RENAL AND URINARY DISORDERS |  |  |  |  |
 | Enuresis | 1 | 3 | 3 | 7 |

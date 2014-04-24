@@ -14,7 +14,7 @@ The rapid onset of sedation, coupled with the amnestic features of Xyrem, partic
 
 Illicit GHB is abused in social settings primarily by young adults.
 Some of the doses estimated to be abused are in a similar dosage range to that used for treatment of patients with cataplexy.
-GHB has some commonalties with ethanol over a limited dose range, and some cross tolerance with ethanol has been reported as well.
+GHB has some commonalities with ethanol over a limited dose range, and some cross tolerance with ethanol has been reported as well.
 Cases of severe dependence and craving for GHB have been reported when the drug is taken around the clock.
 Patterns of abuse indicative of dependence include: 1) the use of increasingly large doses, 2) increased frequency of use, and 3) continued use despite adverse consequences.
 

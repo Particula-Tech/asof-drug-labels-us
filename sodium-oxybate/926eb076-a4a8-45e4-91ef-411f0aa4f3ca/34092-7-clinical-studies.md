@@ -15,8 +15,8 @@ Patients were randomized to receive placebo, Xyrem 3 g per night, Xyrem 6 g per 
 
 Trial N2 was a randomized withdrawal trial with 55 narcoleptic patients who had been taking open-label Xyrem for 7 to 44 months prior to study entry.
 To be included, patients were required to have a history of at least 5 cataplexy attacks per week prior to any treatment for cataplexy.
-Patients were randomized to continued treatment with Xyrem at their stable dose (ranging from 3 g to 9 g per night) or to placebo for 4 weeks.
-Trial N2 was designed specifically to evaluate the continued efficacy of sodium oxybate after long-term use
+Patients were randomized to continued treatment with Xyrem at their stable dose (ranging from 3 g to 9 g per night) or to placebo for 2 weeks.
+Trial N2 was designed specifically to evaluate the continued efficacy of sodium oxybate after long-term use.
 
 The primary efficacy measure in Trials N1 and N2 was the frequency of cataplexy attacks.
 
@@ -106,5 +106,5 @@ Change in Baseline in the Maintenance of Wakefulness Test Score (in minutes) at 
 | Treatment Group | Baseline | Week 8 | Mean Change from Baseline at Week 8 | p-value |
 | --- | --- | --- | --- | --- |
 | Placebo (modafinil withdrawn) (n=55) | 9.7 | 6.9 | -2.7 | - |
-| Xyrem (modafinil withdrawn) (n=50) | 11.3 | 12.0 | 0.6 | <0.001 |
-| Xyrem plus modafinil (n=54) | 10.4 | 13.2 | 2.7 | <0.001 |
+| Xyrem (modafinil withdrawn) (n=50) | 11.3 | 12.0 | 0.6 | < 0.001 |
+| Xyrem plus modafinil (n=54) | 10.4 | 13.2 | 2.7 | < 0.001 |

@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-- Pregnancy Category C
+Pregnancy Category C
 
 There are no adequate and well-controlled studies in pregnant women.
 Xyrem should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -42,4 +42,4 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Hepatic Impairment
 
-The starting dose of Xyrem should be reduced by one-half in patients with liver impairment [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+The starting dose of Xyrem should be reduced by one-half in patients with liver impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].

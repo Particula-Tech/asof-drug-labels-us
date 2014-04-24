@@ -6,8 +6,8 @@ Xyrem may only be dispensed to patients enrolled in the Xyrem Success Program [s
 
 ## 1.1 Cataplexy in Narcolepsy
 
-Xyrem (sodium oxybate) oral solution is indicated for the treatment of cataplexy in narcolepsy [see Clinical Studies (14.1)].
+Xyrem (sodium oxybate) oral solution is indicated for the treatment of cataplexy in narcolepsy.
 
 ## 1.2 Excessive Daytime Sleepiness in Narcolepsy
 
-Xyrem (sodium oxybate) oral solution is indicated for the treatment of excessive daytime sleepiness (EDS) in narcolepsy [see Clinical Studies (14.2)].
+Xyrem (sodium oxybate) oral solution is indicated for the treatment of excessive daytime sleepiness (EDS) in narcolepsy.
