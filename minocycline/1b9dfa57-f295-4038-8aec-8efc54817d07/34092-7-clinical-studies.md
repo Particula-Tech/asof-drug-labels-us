@@ -15,8 +15,8 @@ Table 3: Clinical Studies Dosing Table
 
 The two primary efficacy endpoints were:
 
-- 1)Mean percent change in inflammatory lesion counts from Baseline to 12 weeks.
-- 2)Percentage of subjects with an Evaluator's Global Severity Assessment (EGSA) of clear or almost clear at 12 weeks.
+- •Mean percent change in inflammatory lesion counts from Baseline to 12 weeks.
+- •Percentage of subjects with an Evaluator's Global Severity Assessment (EGSA) of clear or almost clear at 12 weeks.
   Efficacy results are presented in Table 4.
 
 Table 4: Efficacy Results at Week 12

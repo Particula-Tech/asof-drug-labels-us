@@ -12,9 +12,9 @@ SOLODYN is not effective for acne that is not red-looking (this means acne that 
 
 It is not known if SOLODYN is:
 
-- safe for use longer than 12 weeks.
-- safe and effective for the treatment of infections.
-- safe and effective in children under the age of 12 years.
+- • safe for use longer than 12 weeks.
+- •safe and effective for the treatment of infections.
+- • safe and effective in children under the age of 12 years.
 
 Who should not take SOLODYN?
 
@@ -25,21 +25,21 @@ What should I tell my doctor before taking SOLODYN?
 
 Before you take SOLODYN, tell your doctor if you:
 
-- have kidney problems.
+- • have kidney problems.
   Your doctor may prescribe a lower dose of medicine for you.
-- have liver problems.
-- have diarrhea or watery stools.
-- have vision problems.
-- plan to have surgery with general anesthesia.
-- have any other medical conditions.
-- are a male, and you and your female partner are trying to conceive a baby.
+- • have liver problems.
+- • have diarrhea or watery stools.
+- • have vision problems.
+- • plan to have surgery with general anesthesia.
+- • have any other medical conditions.
+- • are a male, and you and your female partner are trying to conceive a baby.
   You should not take SOLODYN\.
-- are pregnant or plan to become pregnant.
+- • are pregnant or plan to become pregnant.
   SOLODYN may harm your unborn baby.
   Taking SOLODYN while you are pregnant may cause serious side effects on the growth of bone and teeth of your baby.
   Talk to your doctor before taking SOLODYN if you plan to become pregnant, or if you are already taking SOLODYN and plan to become pregnant.
   Stop taking SOLODYN and call your doctor right away if you become pregnant while taking SOLODYN.
-- are breastfeeding or plan to breastfeed.
+- • are breastfeeding or plan to breastfeed.
   SOLODYN passes into your milk and may harm your baby.
   You and your doctor should decide if you will take SOLODYN or breastfeed.
   You should not do both.
@@ -49,15 +49,15 @@ SOLODYN® may affect the way other medicines work, and other medicines may affec
 
 Especially tell your doctor if you take:
 
-- birth control pills.
+- •birth control pills.
   SOLODYN® may make your birth control pills less effective.
   You could become pregnant.
   You should use a second form of birth control while taking SOLODYN®.
-- a blood thinner medicine.
-- a penicillin antibiotic medicine.
+- •a blood thinner medicine.
+- •a penicillin antibiotic medicine.
   SOLODYN® and penicillins should not be used together.
-- antacids that contain aluminum, calcium, or magnesium or iron-containing products.
-- an acne medicine that contains isotretinoin (Amnesteem, Claravis, Sotret).
+- •antacids that contain aluminum, calcium, or magnesium or iron-containing products.
+- • an acne medicine that contains isotretinoin (Amnesteem, Claravis, Sotret).
   SOLODYN® and isotretinoin should not be used together.
 
 Ask your doctor or pharmacist if you are not sure if your medicine is one that is listed above.
@@ -67,14 +67,14 @@ Keep a list of them to show your doctor and pharmacist.
 
 How should I take SOLODYN?
 
-- Take SOLODYN exactly as your doctor tells you.
-- Skipping doses or not taking all doses of SOLODYN may:
-  - make the treatment not work as well.
-  - increase the chance that the bacteria will become resistant to SOLODYN.
-- SOLODYN can be taken with or without food.
+- •Take SOLODYN exactly as your doctor tells you.
+- • Skipping doses or not taking all doses of SOLODYN may:
+  - • make the treatment not work as well.
+  - • increase the chance that the bacteria will become resistant to SOLODYN.
+- •SOLODYN can be taken with or without food.
   Taking SOLODYN with food may lower your chances of getting irritation or ulcers in your esophagus.
   Your esophagus is the tube that connects your mouth to your stomach.
-- Swallow SOLODYN Tablets whole.
+- •Swallow SOLODYN Tablets whole.
   Do not chew, crush, or split the tablets.
 
 If you take too much SOLODYN, call your doctor or poison control center right away.
@@ -82,67 +82,67 @@ Your doctor may do blood tests to check you for side effects during treatment wi
 
 What should I avoid while taking SOLODYN?
 
-- Avoid sunlight, sunlamps, and tanning beds.
+- • Avoid sunlight, sunlamps, and tanning beds.
   SOLODYN can make your skin sensitive to the sun and the light from sunlamps and tanning beds.
   You could get severe sunburn.
-- Protect your skin while out in sunlight.
-- You should not drive or operate dangerous machinery until you know how SOLODYN affects you.
+- • Protect your skin while out in sunlight.
+- • You should not drive or operate dangerous machinery until you know how SOLODYN affects you.
   SOLODYN may cause you to feel dizzy or lightheaded, or have a spinning feeling (vertigo).
 
 What are possible side effects of SOLODYN?
 
 SOLODYN may cause serious side effects, including:
 
-- Harm to an unborn baby.
+- •Harm to an unborn baby.
   See "What should I tell my doctor before taking SOLODYN?"
-- Permanent teeth discoloration.
+- •Permanent teeth discoloration.
   SOLODYN may permanently turn a baby or child's teeth yellow-grey-brown during tooth development.
   SOLODYN should not be used during tooth development.
   Tooth development happens in the last half of pregnancy, and from birth to 8 years of age.
   See "What should I tell my doctor before taking SOLODYN?"
-- Intestine infection (pseudomembranous colitis).
+- •Intestine infection (pseudomembranous colitis).
   Pseudomembranous colitis can happen with most antibiotics, including SOLODYN.
   Call your doctor right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
-- Serious liver problems.
+- •Serious liver problems.
   Stop taking SOLODYN and call your doctor right away if you get any of the following symptoms of liver problems:
-  - loss of appetite
-  - tiredness
-  - diarrhea
-  - yellowing of your skin or the whites of your eyes
-  - unexplained bleeding
-  - confusion
-  - sleepiness
-- Central nervous system effects.
+  - • loss of appetite
+  - • tiredness
+  - • diarrhea
+  - • yellowing of your skin or the whites of your eyes
+  - • unexplained bleeding
+  - • confusion
+  - • sleepiness
+- •Central nervous system effects.
   See "What should I avoid while taking SOLODYN?"
   Central nervous system effects such as light headedness, dizziness, and a spinning feeling (vertigo) may go away during your treatment with SOLODYN or if treatment is stopped.
-- Benign intracranial hypertension, also called pseudotumor cerebri.
+- •Benign intracranial hypertension, also called pseudotumor cerebri.
   This is a condition where there is high pressure in the fluid around the brain.
   This swelling may lead to vision changes and permanent vision loss.
   Stop taking SOLODYN and tell your doctor right away if you have blurred vision, vision loss, or unusual headaches.
-- Immune system reactions including a lupus-like syndrome, hepatitis, and inflammation of blood or lymph vessels (vasculitis).
+- •Immune system reactions including a lupus-like syndrome, hepatitis, and inflammation of blood or lymph vessels (vasculitis).
   Using SOLODYN for a long time to treat acne may cause immune system reactions.
   Tell your doctor right away if you get a fever, rash, joint pain, or body weakness.
   Your doctor may do tests to check your blood for immune system reactions.
-- Serious rash and allergic reactions.
+- •Serious rash and allergic reactions.
   SOLODYN may cause a serious rash and allergic reactions that may affect parts of your body such as your liver, lungs, kidneys and heart.
   Sometimes these can lead to death.
-- Stop taking SOLODYN and get medical help right away if you have any of these symptoms:
-  - skin rash, hives, sores in your mouth, or your skin blisters and peels
-  - swelling of your face, eyes, lips, tongue, or throat
-  - trouble swallowing or breathing
-  - blood in your urine
-  - fever, yellowing of the skin or the whites of your eyes, dark colored urine
-  - pain on the right side of the stomach area (abdominal pain)
-  - chest pain or abnormal heartbeats
-  - swelling in your legs, ankles, and feet
-  - darkening of your nails, skin, eyes, scars, teeth, and gums
+- • Stop taking SOLODYN and get medical help right away if you have any of these symptoms:
+  - • skin rash, hives, sores in your mouth, or your skin blisters and peels
+  - • swelling of your face, eyes, lips, tongue, or throat
+  - • trouble swallowing or breathing
+  - • blood in your urine
+  - • fever, yellowing of the skin or the whites of your eyes, dark colored urine
+  - • pain on the right side of the stomach area (abdominal pain)
+  - • chest pain or abnormal heartbeats
+  - • swelling in your legs, ankles, and feet
+  - • darkening of your nails, skin, eyes, scars, teeth, and gums
 
 The most common side effects of SOLODYN include:
 
-- headache
-- tiredness
-- dizziness or spinning feeling
-- itching
+- • headache
+- • tiredness
+- • dizziness or spinning feeling
+- • itching
 
 Call your doctor if you have a side effect that bothers you or that does not go away.
 Your doctor may do tests to check you for side effects during treatment with SOLODYN.
@@ -152,13 +152,13 @@ Ask your doctor or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-You may also report side effects to Medicis at 1-800-321-4576.
+You may also report side effects to Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
 
 How should I store SOLODYN?
 
-- Store SOLODYN between 59°F to 86°F (15°C to 30°C).
-- Keep SOLODYN Tablets in the container that it comes in and keep the container tightly closed.
-- Keep SOLODYN Tablets dry.
+- • Store SOLODYN between 59°F to 86°F (15°C to 30°C).
+- • Keep SOLODYN Tablets in the container that it comes in and keep the container tightly closed.
+- • Keep SOLODYN Tablets dry.
 
 Keep SOLODYN and all medicines out of the reach of children.
 

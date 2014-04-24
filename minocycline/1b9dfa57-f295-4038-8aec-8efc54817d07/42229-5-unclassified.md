@@ -8,3 +8,5 @@ All other trademarks are the properties of their respective owners.
 Manufactured for: Medicis, The Dermatology Company Scottsdale, AZ 85256 Manufactured by: WellSpring Pharmaceutical Canada Corp. Oakville, Ontario, CANADA L6H 1M5
 
 Product of Portugal
+
+9387300

@@ -2,18 +2,18 @@
 
 ## 5.1 Teratogenic Effects
 
-1. MINOCYCLINE, LIKE OTHER TETRACYCLINE-CLASS DRUGS, CAN CAUSE FETAL HARM WHEN ADMINISTERED TO A PREGNANT WOMAN.
-   IF ANY TETRACYCLINE IS USED DURING PREGNANCY OR IF THE PATIENT BECOMES PREGNANT WHILE TAKING THESE DRUGS, THE PATIENT SHOULD BE APPRISED OF THE POTENTIAL HAZARD TO THE FETUS.
-   SOLODYN should not be used during pregnancy or by individuals of either gender who are attempting to conceive a child [see Nonclinical Toxicology (13.1) & Use in Specific Populations (8.1)].
-2. THE USE OF DRUGS OF THE TETRACYCLINE CLASS DURING TOOTH DEVELOPMENT (LAST HALF OF PREGNANCY, INFANCY, AND CHILDHOOD UP TO THE AGE OF 8 YEARS) MAY CAUSE PERMANENT DISCOLORATION OF THE TEETH (YELLOW-GRAY-BROWN).
-   This adverse reaction is more common during long-term use of the drug but has been observed following repeated short-term courses.
-   Enamel hypoplasia has also been reported.
-   TETRACYCLINE DRUGS, THEREFORE, SHOULD NOT BE USED DURING TOOTH DEVELOPMENT.
-3. All tetracyclines form a stable calcium complex in any bone-forming tissue.
-   A decrease in fibula growth rate has been observed in premature human infants given oral tetracycline in doses of 25 mg/kg every 6 hours.
-   This reaction was shown to be reversible when the drug was discontinued.
-   Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can cause retardation of skeletal development on the developing fetus.
-   Evidence of embryotoxicity has been noted in animals treated early in pregnancy [see Use in Specific Populations (8.1)].
+- A. MINOCYCLINE, LIKE OTHER TETRACYCLINE-CLASS DRUGS, CAN CAUSE FETAL HARM WHEN ADMINISTERED TO A PREGNANT WOMAN.
+  IF ANY TETRACYCLINE IS USED DURING PREGNANCY OR IF THE PATIENT BECOMES PREGNANT WHILE TAKING THESE DRUGS, THE PATIENT SHOULD BE APPRISED OF THE POTENTIAL HAZARD TO THE FETUS.
+  SOLODYN should not be used during pregnancy or by individuals of either gender who are attempting to conceive a child [see Nonclinical Toxicology (13.1) & Use in Specific Populations (8.1)].
+- B.THE USE OF DRUGS OF THE TETRACYCLINE CLASS DURING TOOTH DEVELOPMENT (LAST HALF OF PREGNANCY, INFANCY, AND CHILDHOOD UP TO THE AGE OF 8 YEARS) MAY CAUSE PERMANENT DISCOLORATION OF THE TEETH (YELLOW-GRAY-BROWN).
+  This adverse reaction is more common during long-term use of the drug but has been observed following repeated short-term courses.
+  Enamel hypoplasia has also been reported.
+  TETRACYCLINE DRUGS, THEREFORE, SHOULD NOT BE USED DURING TOOTH DEVELOPMENT.
+- C.All tetracyclines form a stable calcium complex in any bone-forming tissue.
+  A decrease in fibula growth rate has been observed in premature human infants given oral tetracycline in doses of 25 mg/kg every 6 hours.
+  This reaction was shown to be reversible when the drug was discontinued.
+  Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can cause retardation of skeletal development on the developing fetus.
+  Evidence of embryotoxicity has been noted in animals treated early in pregnancy [see Use in Specific Populations (8.1)].
 
 ## 5.2 Pseudomembranous Colitis
 

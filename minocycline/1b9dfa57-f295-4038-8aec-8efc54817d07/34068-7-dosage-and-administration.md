@@ -18,7 +18,7 @@ Table 1: Dosing Table for SOLODYN
 | 244 – 276 | 111 – 125 | 115 | 1.04 – 0.92 |
 | 277 – 300 | 126 – 136 | 135 | 1.07 – 0.99 |
 
-SOLODYN Tablets may be taken with or without food [see Clinical Pharmacology (12)].
+SOLODYN Tablets may be taken with or without food [see Clinical Pharmacology (12.3)].
 Ingestion of food along with SOLODYN may help reduce the risk of esophageal irritation and ulceration.
 
 In patients with renal impairment, the total dosage should be decreased by either reducing the recommended individual doses and/or by extending the time intervals between doses [see Warnings and Precautions (5.4)].

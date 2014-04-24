@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trial Experience
 
-Because clinical trials are conducted under prescribed conditions, adverse reaction rates observed in the clinical trial may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
 
 The following table summarizes selected adverse reactions reported in clinical trials at a rate of ≥ 1% for SOLODYN.
 
