@@ -59,9 +59,6 @@ Nitroglycerin should be kept in the original glass container and must be tightly
 
 ## Drug Interactions
 
-Patients receiving antihypertensive drugs, beta-adrenergic blockers, or phenothiazines and nitrates should be observed for possible additive hypotensive effects.
-Marked orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used concomitantly.
-
 Concomitant use of nitrates and alcohol may cause hypotension.
 
 The vasodilatory and hemodynamic effects of nitroglycerin may be enhanced by concomitant administration of aspirin.
@@ -93,13 +90,14 @@ Nitrates may interfere with the Zlatkis-Zak color reaction, causing a false repo
 
 Animal carcinogenesis studies with sublingually administered nitroglycerin have not been performed.
 
-Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes.
+Carcinogenicity potential of nitroglycerin was evaluated in rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years.
+Rats developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes.
 At high dose, the incidences of hepatocellular carcinomas in males was 48% and in females was 33%, compared to 0% in untreated controls.
 Incidences of testicular tumors were 52% vs. 8% in controls.
 Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice.
 
-Nitroglycerin was weakly mutagenic in Ames tests performed in 2 different laboratories.
-Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, PO, or in ex vivo cytogenetic tests in rat and dog tissues.
+Nitroglycerin was mutagenic in Ames tests performed in 2 different laboratories.
+Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, PO, or in ex vivo cytogenetic tests in rat and dog cells.
 
 In a 3-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for 6 months prior to mating of the F0 generation, with treatment continuing through successive F1 and F2 generations.
 The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings.
@@ -107,11 +105,10 @@ No specific effect on the fertility of the F0 generation was seen.
 Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males.
 In this 3-generation study, there was no clear evidence of teratogenicity.
 
-## Pregnancy Category C
+## Pregnancy Category B
 
 Animal reproduction and teratogenicity studies have not been conducted with nitroglycerin sublingual tablets.
-Teratology studies in rats and rabbits, however, were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively.
-No toxic effects on dams or fetuses were seen at any dose tested.
+However, teratology studies conducted in rats and rabbits with topically applied nitroglycerin ointment at dosages up to 80 mg/kg/day and 240 mg/kg/day, respectively revealed no toxic effects on dams or fetuses.
 
 There are no adequate and well-controlled studies in pregnant women.
 Nitroglycerin should be given to a pregnant woman only if clearly needed.
