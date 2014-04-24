@@ -2,14 +2,15 @@
 
 ## 7.1 CNS Depressants
 
-Concurrent use of MS CONTIN and other central nervous system (CNS) depressants including sedatives or hypnotics, general anesthetics, phenothiazines, tranquilizers, and alcohol can increase the risk of respiratory depression, hypotension, profound sedation or coma.
-Monitor patients receiving CNS depressants and MS CONTIN for signs of respiratory depression and hypotension.
-When such combined therapy is contemplated, reduce the initial dose of one or both agents.
+The concomitant use of MS CONTIN with other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma, and death.
+Monitor patients receiving CNS depressants and MS CONTIN for signs of respiratory depression, sedation, and hypotension.
 
-## 7.2 Mixed Agonists/Antagonist Opioid Analgesics
+When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 
-Mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, butorphanol) may reduce the analgesic effect of MS CONTIN or may precipitate withdrawal symptoms in these patients.
-Avoid the use of agonist/antagonist analgesics in patients receiving MS CONTIN.
+## 7.2 Interactions with Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
+
+Mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) and partial agonist (buprenorphine) analgesics may reduce the analgesic effect of MS CONTIN or precipitate withdrawal symptoms.
+Avoid the use of agonist/antagonist and partial agonist analgesics in patients receiving MS CONTIN.
 
 ## 7.3 Muscle Relaxants
 

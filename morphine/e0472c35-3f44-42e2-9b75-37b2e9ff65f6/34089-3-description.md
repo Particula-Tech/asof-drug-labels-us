@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-MS CONTIN tablets are for oral use and contain morphine sulfate, an agonist at the mu-opioid receptor.
+MS CONTIN (morphine sulfate extended-release tablets) are for oral use and contain morphine sulfate, an agonist at the mu-opioid receptor.
 
 Each tablet contains the following inactive ingredients common to all strengths: cetostearyl alcohol, hydroxyethyl cellulose, hypromellose, magnesium stearate, polyethylene glycol, talc and titanium dioxide.
 

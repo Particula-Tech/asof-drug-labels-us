@@ -1,29 +1,29 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Abuse Potential
+Addiction, Abuse, and Misuse
 
-Inform patients that MS CONTIN contains morphine, a Schedule II controlled substance that is subject to abuse.
+Inform patients that the use of MS CONTIN, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
 Instruct patients not to share MS CONTIN with others and to take steps to protect MS CONTIN from theft or misuse.
 
 Life-Threatening Respiratory Depression
 
-Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting MS CONTIN or when the dose is increased.
-Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting MS CONTIN or when the dose is increased, and that it can occur even at recommended doses [see Warnings and Precautions (5.2)].
+Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
-Accidental Exposure
+Accidental Ingestion
 
-Instruct patients to take steps to store MS CONTIN securely.
-Accidental exposure, especially in children, may results in serious harm or death.
-Advise patients to dispose of unused MS CONTIN by flushing the tablets down the toilet.
+Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+Instruct patients to take steps to store MS CONTIN securely and to dispose of unused MS CONTIN by flushing the tablets down the toilet.
 
-Risks from Concomitant Use of Alcohol and other CNS Depressants
+Neonatal Opioid Withdrawal Syndrome
 
-Inform patients that the concomitant use of alcohol with MS CONTIN can increase the risk of life-threatening respiratory depression.
-Instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter drug products that contain alcohol, during treatment with MS CONTIN.
+Inform female patients of reproductive potential that prolonged use of MS CONTIN during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.3)].
 
-Inform patients that potentially serious additive effects may occur if MS CONTIN is used with other CNS depressants, and not to use such drugs unless supervised by a health care provider.
+Interactions with Alcohol and other CNS Depressants
+
+Inform patients that potentially serious additive effects may occur if MS CONTIN is used with alcohol or other CNS depressants, and not to use such drugs unless supervised by a health care provider.
 
 Important Administration Instructions
 
@@ -59,7 +59,11 @@ Advise female patients that MS CONTIN can cause fetal harm and to inform the pre
 
 Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
 
+Disposal of Unused MS CONTIN
+
+Advise patients to flush the unused tablets down the toilet when MS CONTIN is no longer needed.
+
 Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-©2012, Purdue Pharma L.P.
+©2014, Purdue Pharma L.P.

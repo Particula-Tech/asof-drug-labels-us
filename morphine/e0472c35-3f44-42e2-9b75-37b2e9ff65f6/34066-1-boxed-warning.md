@@ -1,14 +1,10 @@
-# WARNING: ABUSE POTENTIAL, LIFE-THREATENING RESPIRATORY DEPRESSION, and ACCIDENTAL EXPOSURE
+# WARNING: ADDICTION, ABUSE, and MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; and NEONATAL OPIOID WITHDRAWAL SYNDROME
 
-Abuse Potential MS CONTIN® contains morphine, an opioid agonist and Schedule II controlled substance with an abuse liability similar to other opioid agonists, legal or illicit [see Warnings and Precautions (5.1)].
-Assess each patient’s risk for opioid abuse or addiction prior to prescribing MS CONTIN.
-The risk for opioid abuse is increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depressive disorder).
-Routinely monitor all patients receiving MS CONTIN for signs of misuse, abuse, and addiction during treatment [see Drug Abuse and Dependence (9)].
-
-Life-Threatening Respiratory Depression Respiratory depression, including fatal cases, may occur with use of MS CONTIN, even when the drug has been used as recommended and not misused or abused [see Warnings and Precautions (5.2)].
-Proper dosing and titration are essential and MS CONTIN should only be prescribed by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+Addiction, Abuse, and Misuse MS CONTIN® exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
+Assess each patient’s risk prior to prescribing MS CONTIN, and monitor all patients regularly for the development of these behaviors or conditions [see Warnings and Precautions (5.1)].
+Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of MS CONTIN.
 Monitor for respiratory depression, especially during initiation of MS CONTIN or following a dose increase.
-Instruct patients to swallow MS CONTIN tablets whole.
-Crushing, dissolving, or chewing the tablet can cause rapid release and absorption of a potentially fatal dose of morphine.
-
-Accidental Exposure Accidental ingestion of MS CONTIN, especially in children, can result in a fatal overdose of morphine [see Warnings and Precautions (5.3)].
+Instruct patients to swallow MS CONTIN tablets whole; crushing, chewing, or dissolving MS CONTIN tablets can cause rapid release and absorption of a potentially fatal dose of morphine [see Warnings and Precautions (5.2)].
+Accidental Ingestion Accidental ingestion of even one dose of MS CONTIN, especially by children, can result in a fatal overdose of morphine [see Warnings and Precautions (5.2)].
+Neonatal Opioid Withdrawal Syndrome Prolonged use of MS CONTIN during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Warnings and Precautions (5.3)].

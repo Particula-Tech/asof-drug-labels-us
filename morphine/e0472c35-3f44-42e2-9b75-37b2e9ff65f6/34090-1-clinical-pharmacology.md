@@ -59,7 +59,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 ## 12.3 Pharmacokinetics
 
-MS CONTIN is a controlled-release tablet containing morphine sulfate.
+MS CONTIN is an extended-release tablet containing morphine sulfate.
 Morphine is released from MS CONTIN somewhat more slowly than from immediate-release oral preparations.
 Following oral administration of a given dose of morphine, the amount ultimately absorbed is essentially the same whether the source is MS CONTIN or an immediate-release formulation.
 Because of pre-systemic elimination (i.e., metabolism in the gut wall and liver) only about 40% of the administered dose reaches the central compartment.
@@ -93,7 +93,7 @@ Approximately 10% of the dose is excreted unchanged in urine.
 In some studies involving longer periods of plasma sampling, a longer terminal half-life of about 15 hours was reported.
 A small amount of the glucuronide conjugate is excreted in the bile, and there is some minor enterohepatic recycling.
 
-Special Populations
+Specific Populations
 
 Geriatric Patients
 

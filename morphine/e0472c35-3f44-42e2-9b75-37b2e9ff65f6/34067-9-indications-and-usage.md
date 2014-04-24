@@ -1,16 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-MS CONTIN is indicated for the management of moderate to severe pain when a continuous, around-the-clock opioid analgesic is needed for an extended period of time.
+MS CONTIN is indicated for the management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
 
 Limitations of Use
 
-MS CONTIN is not for use:
-
-- As an as-needed (prn) analgesic.
-- For pain that is mild or not expected to persist for an extended period of time
-- For acute pain
-- In the immediate postoperative period (the first 24 hours following surgery) for patients not previously taking the drug, because its safety in this setting has not been established.
-- For postoperative pain unless the patient is already receiving chronic opioid therapy prior to surgery or if the postoperative pain is expected to be moderate to severe and persist for an extended period of time.
-
-MS CONTIN 100 mg and 200 mg tablets are only for patients in whom tolerance to an opioid of comparable potency is established.
-Patients considered opioid-tolerant are those taking at least 60 mg of morphine daily, at least 30 mg of oral oxycodone daily, at least 8 mg of oral hydromorphone daily, or an equianalgesic dose of another opioid for a week or longer.
+- Because of the risks of addiction, abuse, and misuse with opioids, even at recommended doses, and because of the greater risks of overdose and death with extended-release opioid formulations, reserve MS CONTIN for use in patients for whom alternative treatment options (e.g., non-opioid analgesics or immediate-release opioids) are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
+- MS CONTIN is not indicated as an as-needed (prn) analgesic.
