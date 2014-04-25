@@ -105,3 +105,209 @@ For IV Use Only
 4.5 GRAM
 
 NOVAPLUS®
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL- 40.5 GRAM - VIAL
+
+NDC 0206-2416-01
+
+ZOSYN®
+
+(Piperacillin and Tazobactam for Injection, USP)
+
+Reconstituted stock solution must be transferred and further diluted for I.V. infusion
+
+Does not contain preservatives.
+
+Contains 9 mg of edetate disodium dehydrate.
+
+40.5 GRAM VIAL
+
+PHARMACY BULK PACKAGE
+
+Not for Direct Infusion
+
+Rx only
+
+NOVAPLUS®
+
+Distributed by Wyeth Pharmaceuticals Inc
+
+A subsidiary of Pfizer Inc
+
+Phildadelphia, PA 19101
+
+NOVAPLUS is a registered trademark of Novation, LLC
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40.5 GRAM - CARTON
+
+NDC 0206-2416-01
+
+ZOSYN®
+
+(Piperacillin and Tazobactam for Injection, USP)
+
+Contains piperacillin and tazobactam cryodesiccated powders for injection equivalent to 36 grams of piperacillin, 4.5 grams of tazobactam and 100.4 mEq (2,304 mg) of sodium.
+Contains 9 mg of edetate disodium dihydrate.
+
+40.5 GRAM VIAL
+
+PHARMACY BULK PACKAGE
+
+Not for Direct Infusion
+
+Rx only
+
+RECONSTITUTED STOCK SOLUTION MUST BE TRANSFERRED AND FURTHER DILUTED FOR I.V.
+INFUSION
+
+NOVAPLUS®
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 2.25 G SINGLE DOSE CONTAINER
+
+NDC 0206-2409-01
+
+ZOSYN®
+
+(Piperacillin and Tazobactam Injection)
+
+2.25 g
+
+NOVAPLUS®
+
+GALAXY
+
+Single Dose
+
+Container
+
+Code 2G3585
+
+50 mL Iso-osmotic
+
+Sterile Nonpyrogenic
+
+Rx ONLY
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 2.25 G - LABEL UNIT
+
+NDC 0206-2409-02
+
+ZOSYN®
+
+(Piperacillin and Tazobactam Injection)
+
+2.25 g
+
+NOVAPLUS®
+
+Code 2G3585
+
+12 - 50 mL Single Dose Containers
+
+Iso-osmotic
+
+Store at or below -20°C/-4°F.
+
+Do not refreeze
+
+Rx ONLY
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 3.375 G - SINGLE DOSE CONTAINER
+
+NDC 0206-2411-01
+
+ZOSYN®
+
+(Piperacillin and Tazobactam Injection)
+
+3.375 g
+
+NOVAPLUS®
+
+GALAXY
+
+Single Dose
+
+Container
+
+50 mL Iso-osmotic
+
+Code 2G3586
+
+Sterile Nonpyrogenic
+
+Rx ONLY
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 3.375 G - LABEL UNIT
+
+NDC 0206-2411-02
+
+ZOSYN®
+
+(Piperacillin and Tazobactam Injection)
+
+3.375 g
+
+NOVAPLUS®
+
+Code 2G3586
+
+12 - 50 mL Single Dose Containers
+
+Iso-osmotic
+
+Store at or below -20°C/-4°F.
+
+Do not refreeze
+
+Rx ONLY
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 4.5 G - SINGLE DOSE CONTAINER
+
+NDC 0206-2413-01
+
+ZOSYN®
+
+(Piperacillin and Tazobactam Injection)
+
+4.5 g
+
+NOVAPLUS®
+
+GALAXY
+
+Single Dose
+
+Container
+
+100 mL Iso-osmotic
+
+Code 2G3587
+
+Sterile Nonpyrogenic
+
+Rx ONLY
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 4.5 G - LABEL UNIT
+
+NDC 0206-2413-02
+
+ZOSYN®
+
+(Piperacillin and Tazobactam Injection)
+
+4.5 g
+
+NOVAPLUS®
+
+Code 2G3587
+
+6 - 100 mL Single Dose Containers
+
+Iso-osmotic
+
+Store at or below -20°C/-4°F.
+
+Do not refreeze
+
+Rx ONLY

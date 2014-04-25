@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "NDA050684"
+    "NDA050684",
+    "NDA050750"
   ],
   "inn": "piperacillin",
   "labeler": "Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.",
@@ -10,11 +11,23 @@
     "0206-2405-01",
     "0206-2405-02",
     "0206-2408-01",
-    "0206-2408-02"
+    "0206-2408-02",
+    "0206-2409-01",
+    "0206-2409-02",
+    "0206-2411-01",
+    "0206-2411-02",
+    "0206-2413-01",
+    "0206-2413-02",
+    "0206-2416-01"
   ],
   "products": [
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "piperacillin sodium and tazobactam sodium",
+      "name": "Zosyn"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
       "generic": "piperacillin sodium and tazobactam sodium",
       "name": "Zosyn"
     }

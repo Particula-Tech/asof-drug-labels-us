@@ -1,1 +1,7 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of ZOSYN® (piperacillin and tazobactam) injection and other antibacterial drugs, ZOSYN (piperacillin and tazobactam) should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia, PA 19101
+
+NOVAPLUS®
+
+NOVAPLUS is a registered trademark of Novation, LLC.
+
+LAB-0713-1.0

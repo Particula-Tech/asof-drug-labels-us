@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-ZOSYN (piperacillin and tazobactam for injection, USP) is an injectable antibacterial combination product consisting of the semisynthetic antibiotic piperacillin sodium and the β‑lactamase inhibitor tazobactam sodium for intravenous administration.
+ZOSYN (piperacillin and tazobactam) for Injection and ZOSYN (piperacillin and tazobactam) Injection are injectable antibacterial combination products consisting of the semisynthetic antibacterial piperacillin sodium and the β-lactamase inhibitor tazobactam sodium for intravenous administration.
 
 Piperacillin sodium is derived from D(-)-α-aminobenzyl-penicillin.
 The chemical name of piperacillin sodium is sodium (2S,5R,6R)-6-[(R)-2-(4-ethyl-2,3-dioxo-1-piperazine-carboxamido)-2-phenylacetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate.
@@ -12,7 +12,7 @@ Its chemical name is sodium (2S,3S,5R)-3-methyl-7-oxo-3-(1H-1,2,3-triazol-1-ylme
 The chemical formula is C10H11N4NaO5S and the molecular weight is 322.3.
 The chemical structure of tazobactam sodium is:
 
-ZOSYN, piperacillin/tazobactam parenteral combination, is a white to off-white sterile, cryodesiccated powder consisting of piperacillin and tazobactam as their sodium salts packaged in glass vials.
+ZOSYN (piperacillin and tazobactam) for Injection, is a white to off-white sterile, cryodesiccated powder consisting of piperacillin and tazobactam as their sodium salts packaged in glass vials.
 The formulation also contains edetate disodium dihydrate (EDTA) and sodium citrate.
 
 Each ZOSYN 2.25 g single dose vial contains an amount of drug sufficient for withdrawal of piperacillin sodium equivalent to 2 grams of piperacillin and tazobactam sodium equivalent to 0.25 g of tazobactam.
@@ -24,4 +24,21 @@ The product also contains 0.75 mg of EDTA per vial.
 Each ZOSYN 4.5 g single dose vial contains an amount of drug sufficient for withdrawal of piperacillin sodium equivalent to 4 grams of piperacillin and tazobactam sodium equivalent to 0.5 g of tazobactam.
 The product also contains 1 mg of EDTA per vial.
 
-ZOSYN (piperacillin and tazobactam for injection, USP) contains a total of 2.79 mEq (64 mg) of sodium (Na+) per gram of piperacillin in the combination product.
+Each Zosyn 40.5 g pharmacy bulk vial contains piperacillin sodium equivalent to 36 grams of piperacillin and tazobactam sodium equivalent to 4.5 g of tazobactam sufficient for delivery of multiple doses.
+
+ZOSYN Injection in the GALAXY Container is a frozen iso-osmotic sterile non-pyrogenic premixed solution.
+The components and dosage formulations are given in the table below:
+
+Table 5: ZOSYN In GALAXY Containers Premixed Frozen Solution
+
+|  |  | 2.25 g/50 mL | 3.375 g/50 mL | 4.5 g/100 mL |
+| --- | --- | --- | --- | --- |
+| ComponentPiperacillin and tazobactam are present in the formulation as sodium salts. Dextrose hydrous, sodium citrate dihydrate, and edetate disodium dihydrate amounts are approximate. | Function | Dosage Formulations |  |  |
+| Piperacillin | active ingredient | 2 g | 3 g | 4 g |
+| Tazobactam | β-lactamase inhibitor | 250 mg | 375 mg | 500 mg |
+| Dextrose Hydrous | osmolality adjusting agent | 1 g | 350 mg | 2 g |
+| Sodium Citrate Dihydrate | buffering agent | 100 mg | 150 mg | 200 mg |
+| Edetate Disodium Dihydrate | metal chelator | 0.5 mg | 0.75 mg | 1 mg |
+| Water for Injection | solvent | q.s. 50 mL | q.s. 50 mL | q.s. 100 mL |
+
+ZOSYN contains a total of 2.79 mEq (64 mg) of sodium (Na+) per gram of piperacillin in the combination product.
