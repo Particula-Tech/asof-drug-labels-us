@@ -67,5 +67,4 @@ Combined Effects — The combined effects of age, smoking, and gender could lead
 The clearance in young smoking males, for example, may be 3 times higher than that in elderly nonsmoking females.
 Dosing modification may be necessary in patients who exhibit a combination of factors that may result in slower metabolism of olanzapine [see Dosage and Administration (2)].
 
-Adolescents (ages 13 to 17 years) — Pharmacokinetic information in pediatric patients is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Adolescents (ages 13 to 17 years) — In clinical studies, most adolescents were nonsmokers and this population had a lower average body weight, which resulted in higher average olanzapine exposure compared to adults.

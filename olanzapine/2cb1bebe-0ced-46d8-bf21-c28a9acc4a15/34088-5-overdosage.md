@@ -13,10 +13,9 @@ Among less commonly reported symptoms were the following potentially medically s
 Reports have been received of fatalities in association with overdose of olanzapine alone.
 In 1 case of death, the amount of acutely ingested olanzapine was reported to be possibly as low as 450 mg of oral olanzapine; however, in another case, a patient was reported to survive an acute olanzapine ingestion of approximately 2 g of oral olanzapine.
 
-.
-
 ## 10.2 Management of Overdose
 
+For current information on the management of olanzapine overdose, contact a certified poison control center (1-800-222-1222 or www.poison.org).
 The possibility of multiple drug involvement should be considered.
 In case of acute overdosage, establish and maintain an airway and ensure adequate oxygenation and ventilation, which may include intubation.
 Gastric lavage (after intubation, if patient is unconscious) and administration of activated charcoal together with a laxative should be considered.

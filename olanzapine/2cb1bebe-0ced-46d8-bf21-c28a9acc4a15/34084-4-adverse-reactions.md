@@ -4,14 +4,12 @@ When using olanzapine and fluoxetine in combination, also refer to the Adverse R
 
 ## 6.1 Clinical Trials Experience
 
-Clinical Trials Experience
-
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect or predict the rates observed in practice.
 
 Clinical Trials in Adults
 
 The information below for olanzapine is derived from a clinical trial database for olanzapine consisting of 8661 adult patients with approximately 4165 patient-years of exposure to oral olanzapine.
-This database includes: (1) 2500 patients who participated in multiple-dose oral olanzapine premarketing trials in schizophrenia and Alzheimer’s disease representing approximately 1122 patient-years of exposure as of February 14, 1995; (2) 182 patients who participated in oral olanzapine premarketing bipolar I disorder (manic or mixed episodes) trials representing approximately 66 patient-years of exposure; (3) 191 patients who participated in an oral olanzapine trial of patients having various psychiatric symptoms in association with Alzheimer’s disease representing approximately 29 patient-years of exposure; and (4) 5788 patients from 88 additional oral olanzapine clinical trials as of December 31, 2001.
+This database includes: (1) 2500 patients who participated in multiple-dose oral olanzapine premarketing trials in schizophrenia and Alzheimer's disease representing approximately 1122 patient-years of exposure as of February 14, 1995; (2) 182 patients who participated in oral olanzapine premarketing bipolar I disorder (manic or mixed episodes) trials representing approximately 66 patient-years of exposure; (3) 191 patients who participated in an oral olanzapine trial of patients having various psychiatric symptoms in association with Alzheimer's disease representing approximately 29 patient-years of exposure; and (4) 5788 patients from 88 additional oral olanzapine clinical trials as of December 31, 2001.
 In addition, information from the premarketing 6-week clinical study database for olanzapine in combination with lithium or valproate, consisting of 224 patients who participated in bipolar I disorder (manic or mixed episodes) trials with approximately 22 patient-years of exposure, is included below.
 
 The conditions and duration of treatment with olanzapine varied greatly and included (in overlapping categories) open-label and double-blind phases of studies, inpatients and outpatients, fixed-dose and dose-titration studies, and short-term or longer-term exposure.
@@ -37,7 +35,7 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 Incidence of Adverse Reactions in Short-Term, Placebo-Controlled and Combination Trials
 
-The following findings are based on premarketing trials of oral olanzapine for schizophrenia, bipolar I disorder (manic or mixed episodes), a subsequent trial of patients having various psychiatric symptoms in association with Alzheimer’s disease, and premarketing combination trials.
+The following findings are based on premarketing trials of oral olanzapine for schizophrenia, bipolar I disorder (manic or mixed episodes), a subsequent trial of patients having various psychiatric symptoms in association with Alzheimer's disease, and premarketing combination trials.
 
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
 
@@ -68,7 +66,7 @@ Table 9: Common Treatment-Emergent Adverse Reactions Associated with theUse of O
 | Akathisia | 5 | 1 |
 | a Personality disorder is the COSTART term for designating nonaggressive objectionable behavior. |  |  |
 
-Table 10: Common Treatment-Emergent Adverse Reactions Associated with the Use of Oral Olanzapine in 3-Week and 4-Week Trials — Bipolar I Disorder (Manic or Mixed Episodes)
+Table 10: Common Treatment-Emergent Adverse Reactions Associated with the Use of Oral Olanzapine in 3-Week and 4-Week Trials - Bipolar I Disorder (Manic or Mixed Episodes)
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -205,7 +203,7 @@ Table 13: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo
 | Urogenital System |  |  |
 | Dysmenorrheaa | 2 | 0 |
 | Vaginitisa | 2 | 0 |
-| a Denominator used was for females only (olanzapine, N=128; placebo, N=51). |  |  |
+| aDenominator used was for females only (olanzapine, N=128; placebo, N=51). |  |  |
 
 For specific information about the adverse reactions observed with lithium or valproate, refer to the Adverse Reactions section of the package inserts for these other products.
 
@@ -257,7 +255,7 @@ Table 17: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactio
 | Dyskinetic events | 0 | 1 |
 | Nonspecific events | 0 | 4 |
 | Any extrapyramidal event | 6 | 10 |
-| a Categories are based on Standard MedDRA Queries (SMQ) for extrapyramidal symptoms as defined in MedDRA version 12.0. |  |  |
+| aCategories are based on Standard MedDRA Queries (SMQ) for extrapyramidal symptoms as defined in MedDRA version 12.0. |  |  |
 
 Dystonia, Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.

@@ -30,7 +30,7 @@ Signs and symptoms of NMS include hyperpyrexia, muscle rigidity, altered mental 
 
 Patients should be advised of the potential risk of hyperglycemia-related adverse reactions.
 Patients should be monitored regularly for worsening of glucose control.
-Patients who have diabetes should follow their doctor’s instructions about how often to check their blood sugar while taking olanzapine [see Warnings and Precautions (5.4)].
+Patients who have diabetes should follow their doctor's instructions about how often to check their blood sugar while taking olanzapine [see Warnings and Precautions (5.4)].
 
 ## 17.5 Hyperlipidemia
 
@@ -77,17 +77,22 @@ Pregnancy — Patients should be advised to notify their physician if they becom
 
 Nursing Mothers — Patients should be advised not to breast-feed an infant if they are taking olanzapine [see Use in Specific Populations (8.3)].
 
-Pediatric Use — Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic transaminase levels.
+Pediatric Use — Olanzapine is indicated for treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder in adolescents 13 to 17 years of age.
+Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic aminotransferase levels.
+Patients should be counseled about the potential long-term risks associated with olanzapine and advised that these risks may lead them to consider other drugs first [see Indications and Usage (1.1, 1.2)].
 Safety and effectiveness of olanzapine in patients under 13 years of age have not been established.
-Safety and effectiveness of olanzapine and fluoxetine in combination in patients <18 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
+Safety and effectiveness of olanzapine and fluoxetine in combination in patients < 10 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].
 
-Pediatric use information in pediatric patients with schizophrenia and bipolar I disorder is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Safety and effectiveness information for pediatric patients (10-17 years) is approved for Eli Lilly and Company's olanzapine tablets and olanzapine orally disintegrating tablets.
+However, due to Eli Lilly and Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 17.14 Need for Comprehensive Treatment Program in Pediatric Patients
 
-Pediatric use information in pediatric patients with schizophrenia and bipolar I disorder is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Olanzapine is indicated as an integral part of a total treatment program for pediatric patients with schizophrenia and bipolar disorder that may include other measures (psychological, educational, social) for patients with the disorder.
+Effectiveness and safety of olanzapine have not been established in pediatric patients less than 13 years of age.
+Atypical antipsychotics are not intended for use in the pediatric patient who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
+Appropriate educational placement is essential and psychosocial intervention is often helpful.
+The decision to prescribe atypical antipsychotic medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms [see Indications and Usage (1.3)].
 
 Manufactured by:
 
@@ -96,17 +101,15 @@ Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8033160 Revised February 2012
+8043417 Revised March 2014
 
 Medication Guide
 
-Olanzapine Tablets, USP
+Olanzapine (oh-LAN-za-peen) Tablets, USP
 
-Olanzapine Orally Disintegrating Tablets
-
-Rx Only
+Olanzapine (oh-LAN-za-peen) Orally Disintegrating Tablets
 
 Read the Medication Guide that comes with olanzapine tablets or orally disintegrating tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -117,28 +120,18 @@ What is the most important information I should know about olanzapine tablets or
 
 Olanzapine tablets or orally disintegrating tablets may cause serious side effects, including:
 
-1.
-Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
-
-2.
-High blood sugar (hyperglycemia).
-
-3.
-High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17.
-
-4.
-Weight gain, especially in teenagers age 13 to 17.
+1. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+2. High blood sugar (hyperglycemia).
+3. High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
+4. Weight gain, especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
 
 These serious side effects are described below.
 
-1.
-Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
-Olanzapine tablets or orally disintegrating tablets are not approved for treating psychosis in elderly people with dementia.
-
-2.
-High blood sugar (hyperglycemia).
-High blood sugar can happen if you have diabetes already or if you have never had diabetes.
-High blood sugar could lead to:
+1. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+   Olanzapine tablets or orally disintegrating tablets are not approved for treating psychosis in elderly people with dementia.
+2. High blood sugar (hyperglycemia).
+   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+   High blood sugar could lead to:
 
 • a build up of acid in your blood due to ketones (ketoacidosis)
 
@@ -150,31 +143,27 @@ Your doctor should do tests to check your blood sugar before you start taking ol
 In people who do not have diabetes, sometimes high blood sugar goes away when olanzapine tablets or orally disintegrating tablets are stopped.
 People with diabetes and some people who did not have diabetes before taking olanzapine tablets or orally disintegrating tablets need to take medicine for high blood sugar even after they stop taking olanzapine tablets or orally disintegrating tablets.
 
-If you have diabetes, follow your doctor’s instructions about how often to check your blood sugar while taking olanzapine tablets or orally disintegrating tablets.
+If you have diabetes, follow your doctor's instructions about how often to check your blood sugar while taking olanzapine tablets or orally disintegrating tablets.
 
 Call your doctor if you have any of these symptoms of high blood sugar (hyperglycemia) while taking olanzapine tablets or orally disintegrating tablets:
 
-• feel very thirsty
-
-• need to urinate more than usual
-
-• feel very hungry
-
-• feel weak or tired
-
-• feel sick to your stomach
-
-• feel confused, or your breath smells fruity.
+- feel very thirsty
+- need to urinate more than usual
+- feel very hungry
+- feel weak or tired
+- feel sick to your stomach
+- feel confused or your breath smells fruity
 
 3.
 High fat levels in your blood (cholesterol and triglycerides).
-High fat levels may happen in people treated with olanzapine tablets or orally disintegrating tablets, especially in teenagers (13 to 17 years old).
+High fat levels may happen in people treated with olanzapine tablets or orally disintegrating tablets, especially in teenagers (13 to 17 years old), or when used in combination with fluoxetine in children (10 to 17 years old).
 You may not have any symptoms, so your doctor should do blood tests to check your cholesterol and triglyceride levels before you start taking olanzapine tablets or orally disintegrating tablets and during treatment.
 
 4.
 Weight gain.
 Weight gain is very common in people who take olanzapine tablets or orally disintegrating tablets.
 Teenagers (13 to 17 years old) are more likely to gain weight and to gain more weight than adults.
+Children (10 to 17 years old) are also more likely to gain weight and to gain more weight than adults when olanzapine is used in combination with fluoxetine.
 Some people may gain a lot of weight while taking olanzapine tablets or orally disintegrating tablets, so you and your doctor should check your weight regularly.
 Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
 
@@ -182,19 +171,18 @@ What are olanzapine tablets or orally disintegrating tablets?
 
 Olanzapine tablets or orally disintegrating tablets are a prescription medicine used to treat:
 
-• schizophrenia.
-
-• bipolar disorder, including:
-
-• manic or mixed episodes that happen with bipolar I disorder.
-
-• manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate, in adults.
-
-• long-term treatment of bipolar I disorder in adults.
-
-• episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine, in adults.
+- schizophrenia in people age 13 or older.
+- bipolar disorder, including:
+- manic or mixed episodes that happen with bipolar I disorder in people age 13 or older.
+- manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate, in adults.
+- long-term treatment of bipolar I disorder in adults.
+- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine in people age 10 or older.
 
 Olanzapine tablets or orally disintegrating tablets have not been approved for use in children under 13 years of age.
+Olanzapine tablets or orally disintegrating tablets in combination with fluoxetine has not been approved for use in children under 10 years of age.
+
+Safety and effectiveness information for pediatric patients (10-17 years) is approved for Eli Lilly and Company's olanzapine tablets and olanzapine orally disintegrating tablets.
+However, due to Eli Lilly and Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
 
@@ -202,9 +190,6 @@ The symptoms of bipolar I disorder include alternating periods of depression and
 
 Some of your symptoms may improve with treatment.
 If you do not think you are getting better, call your doctor.
-
-Pediatric use information is approved for Eli Lilly and Company’s olanzapine drug product labeling.
-However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 What should I tell my doctor before taking olanzapine tablets or orally disintegrating tablets?
 
@@ -250,7 +235,7 @@ How should I take olanzapine tablets or orally disintegrating tablets?
 - If you miss a dose of olanzapine tablets or orally disintegrating tablets, take the missed dose as soon as you remember.
   If it is almost time for the next dose, just skip the missed dose and take your next dose at the regular time.
   Do not take two doses of olanzapine tablets or orally disintegrating tablets at the same time.
-- To prevent serious side effects, do not stop taking olanzapine tablets or orally disintegrating tablets suddenly.
+- To prevent serious side effects do not stop taking olanzapine tablets or orally disintegrating tablets suddenly.
   If you need to stop taking olanzapine tablets or orally disintegrating tablets, your doctor can tell you how to safely stop taking it.
 - If you take too much olanzapine tablets or orally disintegrating tablets, call your doctor or poison control center at 1-800-222-1222 right away, or get emergency treatment.
 - Olanzapine tablets or orally disintegrating tablets can be taken with or without food.
@@ -358,6 +343,8 @@ Orally disintegrating tablets - aspartame, crospovidone, magnesium stearate, man
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Trademarks are the property of their respective owners.
+
 Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
@@ -365,6 +352,6 @@ Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8033160 Revised February 2012
+8043418 Revised March 2014

@@ -65,7 +65,7 @@ Table 2: Changes in Fasting Glucose Levels from Adult Olanzapine Monotherapy Stu
 
 |  |  |  | Up to 12 weeks exposure |  | At least 48 weeks exposure |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
+| LaboratoryAnalyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
 |  | Normal to High | Olanzapine | 543 | 2.2% | 345 | 12.8% |
 | Fasting | (<100 mg/dL to ≥126 mg/dL) | Placebo | 293 | 3.4% | NANot Applicable. | NA |
 | Glucose | Borderline to High (≥100 mg/dL and <126 mg/dL | Olanzapine | 178 | 17.4% | 127 | 26.0% |
@@ -109,11 +109,11 @@ Table 4 shows categorical changes in fasting lipids values.
 
 Table 4: Changes in Fasting Lipids Values from Adult Olanzapine Monotherapy Studies
 
-|  |  |  | Up to 12 weeks exposure |  | At least 48 weeks exposure |  |
+|  |  |  | Up to 12 week exposure |  | At least 48 week exposure |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
 |  | Increase by ≥50 | Olanzapine | 745 | 39.6% | 487 | 61.4% |
-|  | mg/dL | Placebo | 402 | 26.1% | NANot Applicable. | NA |
+|  | mg/dL | Placebo | 402 | 26.1% | NANot Applicable | NA |
 |  | Normal to High (<150 | Olanzapine | 457 | 9.2% | 293 | 32.4% |
 | Fasting | mg/dL to ≥200 mg/dL) | Placebo | 251 | 4.4% | NA | NA |
 | Triglycerides | Borderline to High | Olanzapine | 135 | 39.3% | 75 | 70.7% |
@@ -204,7 +204,7 @@ Table 7: Weight Gain with Olanzapine Use in Adolescents from 4 Placebo-Controlle
 |  | Olanzapine-treated patients | Placebo-treated patients |
 | --- | --- | --- |
 | Mean change in body weight from baseline (median exposure = 3 weeks) | 4.6 kg (10.1 lb) | 0.3 kg (0.7 lb) |
-| Percentage of patients who gained at least 7% of baseline body weight | 40.6% (median exposure to 7% = 4 weeks) | 9.8% (median exposure to 7% = 8 weeks) |
+| Percentage of patients who gained at least 7% of baseline body weight | 40.6% (median exposure to 7%= 4 weeks) | 9.8% (median exposure to 7% = 8 weeks) |
 | Percentage of patients who gained at least 15% of baseline body weight | 7.1% (median exposure to 15% = 19 weeks) | 2.7% (median exposure to 15% = 8 weeks) |
 
 In long-term studies (at least 24 weeks), the mean weight gain was 11.2 kg (24.6 lb); (median exposure of 201 days, N=179).

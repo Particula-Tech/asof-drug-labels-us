@@ -1,6 +1,6 @@
 # 13. NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis — Oral carcinogenicity studies were conducted in mice and rats.
 Olanzapine was administered to mice in two 78-week studies at doses of 3, 10, 30/20 mg/kg/day (equivalent to 0.8-5 times the maximum recommended human daily oral dose on a mg/m2 basis) and 0.25, 2, 8 mg/kg/day (equivalent to 0.06-2 times the maximum recommended human daily oral dose on a mg/m2 basis).
