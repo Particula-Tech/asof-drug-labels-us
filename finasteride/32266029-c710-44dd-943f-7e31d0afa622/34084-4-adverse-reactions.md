@@ -64,7 +64,7 @@ New reports of drug-related sexual adverse experiences decreased with duration o
 ## 6.2 Postmarketing Experience
 
 The following additional adverse events have been reported in postmarketing experience with finasteride.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: - hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face. - testicular pain. - sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, decreased libido and ejaculation disorders (e.g., reduced ejaculate volume).
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: - hypersensitivity reactions, such as pruritus, urticaria, and angioedema (including swelling of the lips, tongue, throat, and face) - testicular pain. - sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, decreased libido and ejaculation disorders (e.g., reduced ejaculate volume).
 These events were reported rarely in men taking finasteride for the treatment of BPH.
 Most men were older and were taking concomitant medications and/or had co-morbid conditions.
 The independent role of finasteride in these events is unknown. - male infertility and/or poor seminal quality were reported rarely in men taking finasteride for the treatment of BPH.

@@ -56,7 +56,7 @@ Table 3: Mean (SD) Pharmacokinetic Parameters in Healthy Young Subjects (n=15)
 
 |  | Mean (± SD) |
 | --- | --- |
-| Bioavailability | 63% (34-108%)* |
+| Bioavailability | 63% (34 to 108%)* |
 | Clearance (mL/min) | 165 (55) |
 | Volume of Distribution (L) | 76 (14) |
 | Half-Life (hours) | 6.2 (2.1) |

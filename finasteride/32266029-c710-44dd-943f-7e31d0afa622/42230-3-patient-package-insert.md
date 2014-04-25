@@ -1,6 +1,6 @@
 # Finasteride Tablets, USP
 
-Patient Information about Finasteride Tablets, USP Finasteride tablets are for use by men only.
+Patient Information about Finasteride Tablets, USP (fin-AS-tur-eyed) Finasteride tablets are for use by men only.
 Please read this leaflet before you start taking finasteride tablets.
 Also, read it each time you renew your prescription, just in case anything has changed.
 Remember, this leaflet does not take the place of careful discussions with your doctor.
@@ -47,12 +47,12 @@ The most common side effects of finasteride tablets include:
 
 The following have been reported in general use with finasteride tablets and/or finasteride at lower doses:
 
-- allergic reactions, including rash, itching, hives, and swelling of the lips and face
+- allergic reactions, including rash, itching, hives, and swelling of the lips, tongue, throat and face
 - rarely, some men may have testicular pain
 - trouble getting or keeping an erection that continued after stopping the medication
 - problems with ejaculation that continued after stopping the medication
 - male infertility and/or poor quality of semen.
-  Improvement in the quality of semen has been reported after stopping the medication
+  Improvement in the quality of semen has been reported after stopping the medication.
 - depression
 - decrease in sex drive that continued after stopping the medication
 - in rare cases, male breast cancer has been reported.
@@ -112,4 +112,4 @@ However, since each case of BPH is different, you should know that:
 - You may need to take finasteride tablets for six (6) months or more to see whether it improves your symptoms.
 - Therapy with finasteride tablets may reduce the need for surgery for an enlarged prostate.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: April 2014

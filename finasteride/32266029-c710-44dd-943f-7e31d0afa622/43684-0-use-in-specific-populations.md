@@ -2,9 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X. [See Contraindications (4).]
-Finasterideis contraindicated for use in women who are or may become pregnant.
-Finasterideis a Type II 5α-reductase inhibitor that prevents conversion of testosterone to 5α-dihydrotestosterone (DHT), a hormone necessary for normal development of male genitalia.
+Teratogenic Effects Pregnancy Category X. [See Contraindications (4).]
+Finasteride is contraindicated for use in women who are or may become pregnant.
+Finasteride is a Type II 5α-reductase inhibitor that prevents conversion of testosterone to 5α-dihydrotestosterone (DHT), a hormone necessary for normal development of male genitalia.
 In animal studies, finasteride caused abnormal development of external genitalia in male fetuses.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the male fetus.
 Abnormal male genital development is an expected consequence when conversion of testosterone to 5α-dihydrotestosterone (DHT) is inhibited by 5α-reductase inhibitors.
