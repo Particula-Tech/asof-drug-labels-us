@@ -61,7 +61,7 @@ Table 3: Incidence (%) Of Adverse Reactions In Placebo-Controlled, Add-On Studie
 | Diplopia | 2 | 1 |
 
 In controlled adult clinical studies, 15% of patients receiving levetiracetam and 12% receiving placebo either discontinued or had a dose reduction as a result of an adverse reaction.
-Table 4 lists the most common (>1%) adverse reactions that resulted in discontinuation or dose reduction and that occurred more frequently in levetiracetam-treated patients than in placebo-treated patients.
+Table 4 lists the most common (greater than 1%) adverse reactions that resulted in discontinuation or dose reduction and that occurred more frequently in levetiracetam-treated patients than in placebo-treated patients.
 
 Table 4: Adverse Reactions That Most Commonly Resulted In Discontinuation Or Dose Reduction That Occurred More Frequently In Levetiracetam-Treated Patients In Placebo-Controlled Studies In Adult Patients Experiencing Partial Onset Seizures
 
@@ -72,7 +72,7 @@ Table 4: Adverse Reactions That Most Commonly Resulted In Discontinuation Or Dos
 | Dizziness | 1 | 0 |
 | Somnolence | 4 | 2 |
 
-Pediatric Patients 4 Years to <16 Years The adverse reaction data presented below was obtained from a pooled analysis of two controlled pediatric clinical studies in children 4 to 16 years of age with partial onset seizures.
+Pediatric Patients 4 Years to less than 16 Years The adverse reaction data presented below was obtained from a pooled analysis of two controlled pediatric clinical studies in children 4 to 16 years of age with partial onset seizures.
 The adverse reactions most frequently reported with the use of levetiracetam in combination with other AEDs, for events with rates greater than placebo, were fatigue, aggression, nasal congestion, decreased appetite, and irritability.
 
 Table 5 lists adverse reactions from the pooled pediatric controlled studies (4 to 16 years of age) that occurred in at least 2% of pediatric levetiracetam-treated patients and were numerically more common than in pediatric patients treated with placebo.
@@ -227,5 +227,5 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 In addition to the adverse reactions listed above, [see Adverse Reactions (6.1)], the following adverse events have been reported in patients receiving marketed levetiracetam worldwide.
-The listing is alphabetized: abnormal liver function test, choreoathetosis, dyskinesia, erythema multiforme, hepatic failure, hepatitis, leukopenia, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), thrombocytopenia, and weight loss.
+The listing is alphabetized: abnormal liver function test, choreoathetosis, dyskinesia, erythema multiforme, hepatic failure, hepatitis, leukopenia, muscle weakness, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
 Alopecia has been reported with levetiracetam use; recovery was observed in majority of cases where levetiracetam was discontinued.

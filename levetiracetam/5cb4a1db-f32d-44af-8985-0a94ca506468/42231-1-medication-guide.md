@@ -174,4 +174,4 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 Manufactured by: Actavis Mid Atlantic LLC 1877 Kawai Road Lincolnton, NC 28092 USA
 
 FORM NO. 0235 Rev.
-08/13 VC101942
+04/14 VC111595

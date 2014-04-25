@@ -78,10 +78,10 @@ Cross study comparisons involving Caucasians (N=12) and Asians (N=12), however, 
 Because levetiracetam is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.
 
 Renal Impairment The disposition of levetiracetam was studied in adult subjects with varying degrees of renal function.
-Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50-80 mL/min), 50% in the moderate group (CLcr = 30-50 mL/min) and 60% in the severe renal impairment group (CLcr <30 mL/min).
+Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr equal to 50 to 80 mL/min), 50% in the moderate group (CLcr equal to 30 to 50 mL/min) and 60% in the severe renal impairment group (CLcr less than 30 mL/min).
 Clearance of levetiracetam is correlated with creatinine clearance.
 
-In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80 mL/min).
+In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr greater than 80 mL/min).
 Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4- hour hemodialysis procedure.
 
 Dosage should be reduced in patients with impaired renal function receiving levetiracetam, and supplemental doses should be given to patients after dialysis [see Dosage and Administration (2.5)].

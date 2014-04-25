@@ -9,13 +9,13 @@ A total of 13.3% of adult levetiracetam-treated patients and 37.6% of pediatric 
 A randomized double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of levetiracetam as adjunctive therapy in pediatric patients (4 to 16 years of age).
 The results from an exploratory analysis indicated a worsening in levetiracetam-treated patients on aggressive behavior (one of eight behavior dimensions) as measured in a standardized and systematic way using a validated instrument, the Achenbach Child Behavior Checklist (CBCL/6-18).
 
-In pediatric patients 1 month to < 4 years of age, irritability was reported in 11.7% of the levetiracetam-treated patients compared to 0% of placebo patients.
+In pediatric patients 1 month to less than 4 years of age, irritability was reported in 11.7% of the levetiracetam-treated patients compared to 0% of placebo patients.
 
 A total of 1.7% of adult levetiracetam-treated patients discontinued treatment due to behavioral adverse events, compared to 0.2% of placebo patients.
 The treatment dose was reduced in 0.8% of adult levetiracetam-treated patients and in 0.5% of placebo patients.
 Overall, 10.9% of levetiracetam-treated pediatric patients experienced behavioral symptoms associated with discontinuation or dose reduction, compared to 6.2% of placebo patients.
 
-One percent of adult levetiracetam-treated patients, 2% of children 4 to 16 years of age, and 17% of children 1 month to <4 years of age experienced psychotic symptoms, compared to 0.2%, 2%, and 5% respectively, in the placebo patients.
+One percent of adult levetiracetam-treated patients, 2% of children 4 to 16 years of age, and 17% of children 1 month to less than 4 years of age experienced psychotic symptoms, compared to 0.2%, 2%, and 5% respectively, in the placebo patients.
 In the controlled study that assessed the neurocognitive and behavioral effects of levetiracetam in pediatric patients 4 to 16 years of age, 1 (1.6%) levetiracetam-treated patient experienced paranoia compared to no placebo patients.
 There were 2 (3.1%) levetiracetam-treated patients that experienced confusional state compared to no placebo patients [see Use in Specific Populations (8.4)].
 
@@ -42,7 +42,7 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2 Risk by indication for antiepileptic drugs in the pooled analysis
+Table 2: Risk by indication for antiepileptic drugs in the pooled analysis
 
 |  |  |  | Placebo Patients | Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -110,25 +110,25 @@ Antiepileptic drugs, including levetiracetam, should be withdrawn gradually to m
 
 Partial Onset Seizures Adults Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients in controlled trials.
 
-A total of 3.2% of treated and 1.8% of placebo patients had at least one possibly significant (≤2.8 x 109/L) decreased WBC, and 2.4% of treated and 1.4% of placebo patients had at least one possibly significant (≤1.0 x 109/L) decreased neutrophil count.
+A total of 3.2% of treated and 1.8% of placebo patients had at least one possibly significant (less than or equal to 2.8 x 109/L) decreased WBC, and 2.4% of treated and 1.4% of placebo patients had at least one possibly significant (less than or equal to 1.0 x 109/L) decreased neutrophil count.
 Of the treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
-Pediatric Patients 4 Years to < 16 Years Statistically significant decreases in WBC and neutrophil counts were seen in levetiracetam-treated patients as compared to placebo.
+Pediatric Patients 4 Years to less than 16 Years Statistically significant decreases in WBC and neutrophil counts were seen in levetiracetam-treated patients as compared to placebo.
 The mean decreases from baseline in the levetiracetam-treated group were -0.4 × 109/L and -0.3 × 109/L, respectively, whereas there were small increases in the placebo group.
 Mean relative lymphocyte counts increased by 1.7% in levetiracetam-treated patients, compared to a decrease of 4% in placebo patients (statistically significant).
 
 In the controlled trial, more levetiracetam-treated patients had a possibly clinically significant abnormally low WBC value (3.0% levetiracetam-treated versus 0% placebo), however, there was no apparent difference between treatment groups with respect to neutrophil count (5.0% levetiracetam-treated versus 4.2% placebo).
 No patient was discontinued secondary to low WBC or neutrophil counts.
 
-In the controlled cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the levetiracetam-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7X109/L).
+In the controlled cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the levetiracetam-treated group had high eosinophil count values that were possibly clinically significant (greater than or equal to 10% or greater than or equal to 0.7X109/L).
 
 Juvenile Myoclonic Epilepsy Although there were no obvious hematologic abnormalities observed in patients with JME, the limited number of patients makes any conclusion tentative.
 The data from the partial seizure patients should be considered to be relevant for JME patients.
 
 ## 5.8 Blood Pressure Increases
 
-In a randomized, placebo-controlled study in patients aged 1 month to <4 years of age, a significantly higher risk of at least one measured increase in diastolic blood pressure was observed in the levetiracetam-treated patients (17%) compared to the placebo-treated patients (2%).
+In a randomized, placebo-controlled study in patients aged 1 month to less than 4 years of age, a significantly higher risk of at least one measured increase in diastolic blood pressure was observed in the levetiracetam-treated patients (17%) compared to the placebo-treated patients (2%).
 There was no overall difference in mean diastolic blood pressure between the treatment groups.
 This disparity between the levetiracetam and placebo treatment groups was not observed in the studies of older children or in adults.
 

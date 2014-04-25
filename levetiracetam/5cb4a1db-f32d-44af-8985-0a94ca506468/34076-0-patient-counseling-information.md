@@ -21,9 +21,7 @@ Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pr
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use In Specific Populations (8.1)].
 
-Rx Only
-
 Manufactured by: Actavis Mid Atlantic LLC 1877 Kawai Road Lincolnton, NC 28092 USA
 
 FORM NO. 0235 Rev.
-08/13 VC101942
+04/14 VC111595

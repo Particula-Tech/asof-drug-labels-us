@@ -5,7 +5,7 @@
 Levetiracetam is given orally with or without food.
 The levetiracetam dosing regimen depends on the indication, age group, dosage form (oral solution), and renal function.
 
-Prescribe the oral solution for pediatric patients with body weight ≤ 20 kg.
+Prescribe the oral solution for pediatric patients with body weight less than or equal to 20 kg.
 Prescribe the oral solution for pediatric patients with body weight above 20 kg.
 
 When using the oral solution in pediatric patients, dosing is weight-based (mg per kg) using a calibrated measuring device (not a household teaspoon or tablespoon).
@@ -23,7 +23,7 @@ There is no evidence that doses greater than 3000 mg/day confer additional benef
 Pediatric Patients Dosing information in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam oral solution.
 However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-4 Years to < 16 Years Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
+4 Years to less than 16 Years Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
 The daily dose should be increased every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
 If a patient cannot tolerate a daily dose of 60 mg/kg, the daily dose may be reduced.
 In the clinical efficacy trial, the mean daily dose was 44 mg/kg.
@@ -45,10 +45,10 @@ Adults 16 Years and Older Treatment should be initiated with a dose of 1000 mg/d
 Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
 The effectiveness of doses lower than 3000 mg/day has not been adequately studied.
 
-Pediatric Patients Ages 6 to <16 Years Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
+Pediatric Patients Ages 6 to less than 16 Years Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
 The daily dose should be increased every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
 The effectiveness of doses lower than 60 mg/kg/day has not been adequately studied.
-Patients with body weight ≤20 kg should be dosed with oral solution.
+Patients with body weight less than or equal to 20 kg should be dosed with oral solution.
 Patients with body weight above 20 kg can be dosed with either tablets or oral solution [see Dosage and Administration (2.1)].
 
 ## 2.5 Adult Patients with Impaired Renal Function
