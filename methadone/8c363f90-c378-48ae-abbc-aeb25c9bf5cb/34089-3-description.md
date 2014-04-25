@@ -9,4 +9,4 @@ A solution (1:100) in water has a pH between 4.5 and 6.5.
 
 It has the following structural formula:
 
-Each 5 mL of oral solution contains 5 or 10 mg of methadone hydrochloride USP and the following inactive ingredients: alcohol (8%), benzoic acid, citric acid, FD&C Red #40, FD&C Yellow #6, flavoring (lemon), glycerin, sorbitol, and water.
+Each 5 mL of oral solution contains 5 or 10 mg of Methadone Hydrochloride USP and the following inactive ingredients: alcohol (8%), benzoic acid, citric acid, FD&C Red #40, FD&C Yellow #6, flavoring (lemon), glycerin, sorbitol, and water.

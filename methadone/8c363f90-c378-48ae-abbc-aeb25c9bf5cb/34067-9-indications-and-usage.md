@@ -2,18 +2,15 @@
 
 Methadone Hydrochloride Oral Solution USP is indicated for the:
 
-- •Management of moderate to severe pain when a continuous, around-the-clock opioid analgesic is needed for an extended period of time.
-- •Detoxification treatment of opioid addiction (heroin or other morphine-like drugs).
-- •Maintenance treatment of opioid addiction (heroin or other morphine-like drugs), in conjunction with appropriate social and medical services.
+- •Management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
 
 Limitations of Use
 
-Methadone Hydrochloride Oral Solution USP is not for use:
-
-- •As an as-needed (prn) analgesic
-- •For pain that is mild or not expected to persist for an extended period of time
-- •For acute pain
-- •For postoperative pain
+- 
+  - •Because of the risks of addiction, abuse, and misuse with opioids, even at recommended doses, and because of the greater risks of overdose and death with long-acting opioids, reserve Methadone Hydrochloride Oral Solution USP for use in patients for whom alternative analgesic treatment options (e.g., non-opioid analgesics or immediate-release opioid analgesics) are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
+  - •Methadone Hydrochloride Oral Solution USP is not indicated as an as-needed (prn) analgesic.
+- •Detoxification treatment of opioid addiction (heroin or other morphine-like drugs).
+- •Maintenance treatment of opioid addiction (heroin or other morphine-like drugs), in conjunction with appropriate social and medical services.
 
 Conditions For Distribution And Use Of Methadone Products For The Treatment Of Opioid Addiction
 
@@ -25,6 +22,8 @@ See below for important regulatory exceptions to the general requirement for cer
 
 Failure to abide by the requirements in these regulations may result in criminal prosecution, seizure of the drug supply, revocation of the program approval, and injunction precluding operation of the program.
 
-Regulatory Exceptions To The General Requirement For Certification To Provide Opioid Agonist Treatment: During inpatient care, when the patient was admitted for any condition other than concurrent opioid addiction (pursuant to 21CFR 1306.07(c)), to facilitate the treatment of the primary admitting diagnosis).
+Regulatory Exceptions To The General Requirement For Certification To Provide Opioid Agonist Treatment:
+
+During inpatient care, when the patient was admitted for any condition other than concurrent opioid addiction (pursuant to 21CFR 1306.07(c)), to facilitate the treatment of the primary admitting diagnosis).
 
 During an emergency period of no longer than 3 days while definitive care for the addiction is being sought in an appropriately licensed facility (pursuant to 21CFR 1306.07(b)).

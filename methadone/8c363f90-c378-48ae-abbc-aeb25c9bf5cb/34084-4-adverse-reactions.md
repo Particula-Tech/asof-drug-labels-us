@@ -1,20 +1,20 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions and/or conditions are discussed elsewhere in the labeling:
+The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- •Respiratory Depression [seeWarnings and Precautions(5.2)]
-- •QT Prolongation [see Warnings and Precautions(5.3)]
-- •Chronic Pulmonary Disease [see Warnings and Precautions(5.6)]
-- •Head Injuries and Increased Intracranial Pressure [see Warnings and Precautions(5.9)]
-- •Interactions with Other CNS Depressants [see Warnings and Precautions(5.7)]
-- •Hypotensive Effect [seeWarnings and Precautions(5.8)]
-- •Gastrointestinal Effects [see Warnings and Precautions(5.10)]
+- •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- •Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- •QT Prolongation [see Warnings and Precautions (5.3)]
+- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- •Interactions with Other CNS Depressants [see Warnings and Precautions (5.5)]
+- •Hypotensive Effect [see Warnings and Precautions (5.8)]
+- •Gastrointestinal Effects [see Warnings and Precautions (5.10)]
 - •Seizures [see Warnings and Precautions (5.11)]
 
 The major hazards of methadone are respiratory depression and, to a lesser degree, systemic hypotension.
 Respiratory arrest, shock, cardiac arrest, and death have occurred.
 
-The most frequently observed adverse reactions include lightheadedness, dizziness, sedation, nausea, vomiting, and sweating.
+The most frequently observed adverse reactions include lightheadedness, dizziness, sedation, nausea, vomiting and sweating.
 These effects seem to be more prominent in ambulatory patients and in those who are not suffering severe pain.
 In such individuals, lower doses are advisable.
 
@@ -30,7 +30,7 @@ Endocrine: hypogonadism
 
 Gastrointestinal: abdominal pain, anorexia, biliary tract spasm, constipation, dry mouth, glossitis
 
-Hematologic: reversible thrombocytopenia has been described in opioid addicts with chronic hepatits
+Hematologic: reversible thrombocytopenia has been described in opioid addicts with chronic hepatitis
 
 Metabolic: hypokalemia, hypomagnesemia, weight gain
 
@@ -42,7 +42,7 @@ Respiratory: pulmonary edema, respiratory depression
 
 Skin and Subcutaneous Tissue: pruritus, urticaria, other skin rashes, and rarely, hemorrhagic urticaria
 
-Hypersensitivity: Anaphylaxis has been reported with ingredients contained in methadone hydrochloride oral solution.
+Hypersensitivity: Anaphylaxis has been reported with ingredients contained in methadone.
 Advise patients how to recognize such a reaction and when to seek medical attention.
 
 Maintenance on a Stabilized Dose: During prolonged administration of methadone, as in a methadone maintenance treatment program, constipation and sweating often persist and hypogonadism, decreased serum testosterone and reproductive effects are thought to be related to chronic opioid use.
