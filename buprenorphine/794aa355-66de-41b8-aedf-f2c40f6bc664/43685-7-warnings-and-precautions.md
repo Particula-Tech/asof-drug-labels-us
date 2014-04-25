@@ -1,67 +1,71 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Abuse Potential
+## 5.1 Addiction, Abuse, and Misuse
 
-BUTRANS contains buprenorphine, a partial agonist at the mu opioid receptor and a Schedule III controlled substance.
-Buprenorphine can be abused in a manner similar to other opioid agonists, legal or illicit.
-Opioid agonists are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
-Consider these risks when prescribing or dispensing BUTRANS in situations where there is concern about increased risks of misuse, abuse, or diversion.
-Concerns about abuse, addiction, and diversion should not, however, prevent the proper management of pain.
+BUTRANS contains buprenorphine, a Schedule III controlled substance.
+As an opioid, BUTRANS exposes users to the risks of addiction, abuse, and misuse.
+As modified-release products such as BUTRANS deliver the opioid over an extended period of time, there is a greater risk for overdose and death, due to the larger amount of buprenorphine present.
 
-Assess each patient’s risk for opioid abuse or addiction prior to prescribing BUTRANS.
-The risk for opioid abuse is increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
-Patients at increased risk may still be appropriately treated with modified-release opioid formulations; however these patients will require intensive monitoring for signs of misuse, abuse, or addiction.
-Routinely monitor all patients receiving opioids for signs of misuse, abuse, and addiction because these drugs carry a risk for addiction even under appropriate medical use.
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed BUTRANS and in those who obtain the drug illicitly.
+Addiction can occur at recommended doses and if the drug is misused or abused [see Drug Abuse and Dependence (9)].
 
-Misuse or abuse of BUTRANS by chewing, swallowing, snorting or injecting buprenorphine extracted from the transdermal system will result in the uncontrolled delivery of the opioid and pose a significant risk that could result in overdose and death [see Overdosage (10)].
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing BUTRANS, and monitor all patients receiving BUTRANS for the development of these behaviors or conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed modified-release opioid formulations such as BUTRANS, but use in such patients necessitates intensive counseling about the risks and proper use of BUTRANS, along with intensive monitoring for signs of addiction, abuse, or misuse.
 
+Abuse or misuse of BUTRANS by placing it in the mouth, chewing it, swallowing it, or using it in ways other than indicated may cause choking, overdose and death [see Overdosage (10)].
+
+Opioid agonists such as BUTRANS are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing BUTRANS.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Life-Threatening Respiratory Depression
 
-Respiratory depression is the primary risk of BUTRANS.
-Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Respiratory depression from opioids is manifested by a reduced urge to breathe and a decreased rate of respiration, often associated with a “sighing” pattern of breathing (deep breaths separated by abnormally long pauses).
-Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of modified-release opioids, even when used as recommended.
+Respiratory depression, from opioid use, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of BUTRANS, the risk is greatest during the initiation of therapy or following a dose increase.
 Closely monitor patients for respiratory depression when initiating therapy with BUTRANS and following dose increases.
-Instruct patients against use by individuals other than the patient for whom BUTRANS was prescribed and to keep BUTRANS out of the reach of children, as such inappropriate use may result in fatal respiratory depression.
 
-To reduce the risk of respiratory depression, proper dosing and titration of BUTRANS are essential [see Dosage and Administration (2.1, 2.2)].
+To reduce the risk of respiratory depression, proper dosing and titration of BUTRANS are essential [see Dosage and Administration (2)].
 Overestimating the BUTRANS dose when converting patients from another opioid product can result in fatal overdose with the first dose.
-Respiratory depression has also been reported with use of modified-release opioids when used as recommended and not misused or abused.
 
-To further reduce the risk of respiratory depression, consider the following:
+Accidental exposure to BUTRANS, especially in children, can result in respiratory depression and death due to an overdose of buprenorphine.
 
-- Proper dosing and titration are essential and BUTRANS should only be prescribed by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
-- BUTRANS is contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
+## 5.3 Neonatal Opioid Withdrawal Syndrome
 
-## 5.3 Accidental Exposure
+Prolonged use of BUTRANS during pregnancy can result in withdrawal signs in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available.
 
-Accidental exposure to BUTRANS, especially in children, can result in a fatal overdose of buprenorphine.
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
+The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 
-## 5.4 Elderly, Cachectic, and Debilitated Patients
+## 5.4 Interactions with Central Nervous System Depressants
 
-Respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics due to poor fat stores, muscle wasting, or altered clearance compared to younger, healthier patients.
-Therefore, monitor such patients closely, particularly when initiating and titrating BUTRANS and when BUTRANS is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+Hypotension, profound sedation, coma, respiratory depression, and death may result if BUTRANS is used concomitantly with alcohol or other (CNS) depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, other opioids).
 
-## 5.5 Use in Patients with Chronic Pulmonary Disease
+When considering the use of BUTRANS in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
+Additionally, evaluate the patient’s use, of alcohol or illicit drugs that cause CNS depression.
+If the decision to begin BUTRANS therapy is made, start with BUTRANS 5 mcg/hour patch, monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7.2)].
+
+## 5.5 Use in Elderly, Cachectic, and Debilitated Patients
+
+Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients.
+Monitor such patients closely, particularly when initiating and titrating BUTRANS and when BUTRANS is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+
+## 5.6 Use in Patients with Chronic Pulmonary Disease
 
 Monitor patients with significant chronic obstructive pulmonary disease or cor pulmonale, and patients having a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression for respiratory depression, particularly when initiating therapy and titrating with BUTRANS, as in these patients, even usual therapeutic doses of BUTRANS may decrease respiratory drive to the point of apnea [see Warnings and Precautions (5.2)].
 Consider the use of alternative non-opioid analgesics in these patients if possible.
 
-## 5.6 Interactions with Alcohol, CNS Depressants, and Illicit Drugs
-
-Hypotension, profound sedation, coma or respiratory depression may result if BUTRANS is added to a regimen that includes other CNS depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, muscle relaxants, other opioids).
-When considering the use of BUTRANS in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
-Additionally, consider the patient’s use, if any, of alcohol or illicit drugs that cause CNS depression.
-If BUTRANS therapy is to be initiated in a patient taking a CNS depressant, start with a lower BUTRANS dose than usual and monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7.3)].
-
 ## 5.7 QTc Prolongation
 
-A positive-controlled study of the effects of BUTRANS on the QTc interval in healthy subjects demonstrated no clinically meaningful effect at a BUTRANS dose of 10 mcg/hour; however, a BUTRANS dose of 40 mcg/hour (given as two BUTRANS 20 mcg/hour Transdermal Systems) was observed to prolong the QTc interval [see Clinical Pharmacology (12.2)].
+A positive-controlled study of the effects of BUTRANS on the QTc interval in healthy subjects demonstrated no clinically meaningful effect at a BUTRANS dose of 10 mcg/hour; however, a BUTRANS dose of 40 mcg/hour (given as two BUTRANS 20 mcg/hour Transdermal Systems) was observed to prolong the QTc interval [see Dosage and Administration (2.2) and Clinical Pharmacology (12.2)].
 
 Consider these observations in clinical decisions when prescribing BUTRANS to patients with hypokalemia or clinically unstable cardiac disease, including: unstable atrial fibrillation, symptomatic bradycardia, unstable congestive heart failure, or active myocardial ischemia.
 Avoid the use of BUTRANS in patients with a history of Long QT Syndrome or an immediate family member with this condition, or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide).
@@ -69,7 +73,7 @@ Avoid the use of BUTRANS in patients with a history of Long QT Syndrome or an im
 ## 5.8 Hypotensive Effects
 
 BUTRANS may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
-There is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7.3)].
+There is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7.2)].
 Monitor these patients for signs of hypotension after initiating or titrating the dose of BUTRANS.
 
 ## 5.9 Use in Patients with Head Injury or Increased Intracranial Pressure
@@ -124,19 +128,11 @@ Opioids may cause increases in the serum amylase.
 The buprenorphine in BUTRANS may aggravate convulsions in patients with convulsive disorders, and may induce or aggravate seizures in some clinical settings.
 Monitor patients with a history of seizure disorders for worsened seizure control during BUTRANS therapy.
 
-## 5.17 Avoidance of Withdrawal
-
-Symptoms of withdrawal include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-Significant fluid losses from vomiting and diarrhea can require intravenous fluid administration.
-
-When discontinuing BUTRANS, gradually taper the dose [see Dosage and Administration (2.3)].
-Do not abruptly discontinue BUTRANS.
-
-## 5.18 Driving and Operating Machinery
+## 5.17 Driving and Operating Machinery
 
 BUTRANS may impair the mental and physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of BUTRANS and know how they will react to the medication.
 
-## 5.19 Use in Addiction Treatment
+## 5.18 Use in Addiction Treatment
 
 BUTRANS has not been studied and is not approved for use in the management of addictive disorders.

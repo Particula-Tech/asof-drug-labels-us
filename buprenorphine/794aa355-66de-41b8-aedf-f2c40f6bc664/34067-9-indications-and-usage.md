@@ -1,12 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-BUTRANS is indicated for the management of moderate to severe chronic pain when a continuous, around-the-clock opioid analgesic is needed for an extended period of time.
+BUTRANS is indicated for the management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
 
 Limitations of Use
 
-BUTRANS is not for use:
-
-- As an as-needed (prn) analgesic
-- For pain that is mild or not expected to persist for an extended period of time
-- For acute pain
-- For postoperative pain unless the patient is already receiving chronic opioid therapy prior to surgery or if the postoperative pain is expected to be moderate to severe and persist for an extended period of time
+- Because of the risks of addiction, abuse and misuse with opioids, even at recommended doses, and because of the greater risk of overdose and death with extended-release opioid formulations, reserve BUTRANS for use in patients for whom alternative treatment options (e.g., non-opioid analgesics or immediate-release opioids) are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
+- BUTRANS is not indicated as an as-needed (prn) analgesic

@@ -1,20 +1,19 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Abuse Potential Inform patients that BUTRANS contains buprenorphine, a Schedule III controlled substance that is subject to abuse.
+Addiction, Abuse, and Misuse Inform patients that the use of BUTRANS, even when taken as recommended, can result in addiction, abuse, and misuse, which could lead to overdose and death [see Warnings and Precautions (5.1)].
 Instruct patients not to share BUTRANS with others and to take steps to protect BUTRANS from theft or misuse.
 
-Life-Threatening Respiratory Depression Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting BUTRANS or when the dose is increased.
-Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
+Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting BUTRANS or when the dose is increased, and that it can occur even at recommended doses [see Warnings and Precautions (5.2)].
+Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
-Accidental Exposure Instruct patients to take steps to store BUTRANS securely.
-Accidental exposure, especially in children, may result in serious harm or death.
-Advise patients to dispose of unused BUTRANS folding in half and flushing down the toilet.
+Accidental Exposure Inform patients that accidental exposure, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+Instruct patients to take steps to store BUTRANS securely and to dispose of unused BUTRANS by folding the patch in half and flushing it down the toilet.
 
-Risks from Concomitant Use of Alcohol and other CNS Depressants Inform patients that the concomitant use of alcohol with BUTRANS can increase the risk of life-threatening respiratory depression.
+Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential that prolonged use of BUTRANS during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.3)].
 
-Inform patients that potentially serious additive effects may occur if BUTRANS is used with other CNS depressants, and not to use such drugs unless supervised by a health care provider.
+Interaction with Alcohol and other CNS Depressants Inform patients that potentially serious additive effects may occur if BUTRANS is used with alcohol or other CNS depressants, and not to use such drugs unless supervised by a health care provider.
 
 Important Administration Instructions
 
@@ -42,10 +41,20 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Pregnancy Advise female patients that BUTRANS can cause fetal harm and to inform the prescriber if they are pregnant or plan to become pregnant.
 
+Disposal
+
+Instruct patients to refer to the Instructions for Use for proper disposal of BUTRANS.
+Patients can dispose of used or unused BUTRANS patches in the trash by sealing them in the Patch-Disposal Unit, following the instructions on the unit.
+
+Alternatively, instruct patients to dispose of used patches by folding the adhesive side of the patch to itself, then flushing the patch down the toilet immediately upon removal.
+Unused patches should be removed from their pouches, the protective liners removed, the patches folded so that the adhesive side of the patch adheres to itself, and immediately flushed down the toilet.
+
+Instruct patients to dispose of any patches remaining from a prescription as soon as they are no longer needed.
+
 Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
 
 Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431 Manufactured by: LTS Lohmann Therapie-Systeme AG, Andernach, Germany
 
-U.S. Patent Numbers 5681413; 5804215; 6264980; 6315854; 6344211; RE41408; RE41489; RE41571.
+U.S. Patent Numbers 5681413; 5804215; 6264980; 6315854; 6344211; RE41408; RE41489; RE41571
 
-© 2013, Purdue Pharma L.P.
+© 2014, Purdue Pharma L.P.

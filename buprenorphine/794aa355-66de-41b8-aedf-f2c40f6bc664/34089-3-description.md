@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 BUTRANS is a transdermal system providing systemic delivery of buprenorphine, a mu opioid partial agonist analgesic, continuously for 7 days.
-The chemical name of buprenorphine is 6,14-ethenomorphinan-7-methanol, 17-(cyclopropylmethyl)- ɑ-(1,1-dimethylethyl)-4, 5-epoxy-18, 19-dihydro-3-hydroxy-6-methoxy-ɑ-methyl-, [5ɑ, 7ɑ, (S)].
+The chemical name of buprenorphine is 6,14-ethenomorphinan-7-methanol, 17-(cyclopropylmethyl)- α-(1,1-dimethylethyl)-4, 5-epoxy-18, 19-dihydro-3-hydroxy-6-methoxy-α-methyl-, [5α, 7α, (S)].
 The structural formula is:
 
 The molecular weight of buprenorphine is 467.6; the empirical formula is C29H41NO4.

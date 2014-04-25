@@ -1,12 +1,10 @@
-# WARNING: ABUSE POTENTIAL, LIFE-THREATENING RESPIRATORY DEPRESSION, and ACCIDENTAL EXPOSURE
+# WARNING: ADDICTION, ABUSE, and MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL EXPOSURE; and NEONATAL OPIOID WITHDRAWAL SYNDROME
 
-Abuse Potential BUTRANS contains buprenorphine, an opioid agonist and Schedule III controlled substance with an abuse liability similar to other Schedule III opioids, legal or illicit [see Warnings and Precautions (5.1)].
-Assess each patient’s risk for opioid abuse or addiction prior to prescribing BUTRANS.
-The risk for opioid abuse is increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depressive disorder).
-Routinely monitor all patients receiving BUTRANS for signs of misuse, abuse, and addiction during treatment [see Drug Abuse and Dependence (9)].
-
-Life-Threatening Respiratory Depression Respiratory depression, including fatal cases, may occur with use of BUTRANS, even when the drug has been used as recommended and not misused or abused [see Warnings and Precautions (5.2)].
-Proper dosing and titration are essential and BUTRANS should only be prescribed by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+Addiction, Abuse, and Misuse BUTRANS® exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
+Assess each patient’s risk prior to prescribing BUTRANS, and monitor all patients regularly for the development of these behaviors or conditions [see Warnings and Precautions (5.1) and Overdosage (10)].
+Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of BUTRANS.
 Monitor for respiratory depression, especially during initiation of BUTRANS or following a dose increase.
-
-Accidental Exposure Accidental exposure to BUTRANS, especially in children, can result in a fatal overdose of buprenorphine [see Warnings and Precautions (5.3)].
+Misuse or abuse of BUTRANS by chewing, swallowing, snorting or injecting buprenorphine extracted from the transdermal system will result in the uncontrolled delivery of buprenorphine and pose a significant risk of overdose and death [see Warnings and Precautions (5.2)].
+Accidental Exposure Accidental exposure to even one dose of BUTRANS, especially by children, can result in a fatal overdose of buprenorphine [see Warnings and Precautions (5.2)].
+Neonatal Opioid Withdrawal Syndrome Prolonged use of BUTRANS during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Warnings and Precautions (5.3)].

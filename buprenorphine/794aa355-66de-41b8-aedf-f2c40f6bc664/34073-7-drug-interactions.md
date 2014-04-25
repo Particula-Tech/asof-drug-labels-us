@@ -1,19 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Hepatic Enzyme Inhibitors and Inducers
-
-CYP3A4 Inhibitors Co-administration of ketoconazole, a strong CYP3A4 inhibitor, with BUTRANS, did not have any effect on Cmax (maximum concentration) and AUC (area under the curve) of buprenorphine.
-Based on this observation, the pharmacokinetics of BUTRANS are not expected to be affected by co-administration of CYP3A4 inhibitors.
-
-However, certain protease inhibitors (PIs) with CYP3A4 inhibitory activity such as atazanavir and atazanavir/ritonavir resulted in elevated levels of buprenorphine and norbuprenorphine following sublingual administration of buprenorphine and naloxone.
-Patients in this study reported increased sedation, and symptoms of opiate excess have been found in post-marketing reports of patients receiving sublingual buprenorphine and atazanavir with and without ritonavir concomitantly.
-Atazanavir is both a CYP3A4 and UGT1A1 inhibitor.
-As such, the drug-drug interaction potential for buprenorphine with CYP3A4 inhibitors is likely to be dependent on the route of administration as well as the specificity of enzyme inhibition [see Clinical Pharmacology (12.3)].
-
-CYP3A4 Inducers The interaction between buprenorphine and CYP3A4 enzyme inducers has not been studied.
-Monitor patients receiving concurrent therapy with BUTRANS and CYP3A4 inducers (e.g., phenobarbital, carbamazepine, phenytoin, rifampin) closely for reduced efficacy or signs of withdrawal [see Clinical Pharmacology (12.3)].
-
-## 7.2 Benzodiazepines
+## 7.1 Benzodiazepines
 
 There have been a number of reports regarding coma and death associated with the misuse and abuse of the combination of buprenorphine and benzodiazepines.
 In many, but not all of these cases, buprenorphine was misused by self-injection of crushed buprenorphine tablets.
@@ -21,15 +8,31 @@ Preclinical studies have shown that the combination of benzodiazepines and bupre
 Closely monitor patients with concurrent use of BUTRANS and benzodiazepines.
 Warn patients that it is extremely dangerous to self-administer benzodiazepines while taking BUTRANS, and warn patients to use benzodiazepines concurrently with BUTRANS only as directed by their physician.
 
-## 7.3 CNS Depressants
+## 7.2 CNS Depressants
 
-Concurrent use of BUTRANS and other central nervous system (CNS) depressants (e.g., sedatives, hypnotics, general anesthetics, antiemetics, phenothiazines, other tranquilizers, and alcohol) can increase the risk of respiratory depression, hypotension, and profound sedation or coma.
-Monitor patients receiving CNS depressants and BUTRANS for signs of respiratory depression and hypotension.
-When such combined therapy is contemplated, reduce the initial dose of one or both agents.
+The concomitant use of BUTRANS with other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma and death.
+Monitor patients receiving CNS depressants and BUTRANS for signs of respiratory depression, sedation, and hypotension.
+When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 
-## 7.4 Skeletal Muscle Relaxants
+## 7.3 Drugs Affecting Cytochrome P450 Isoenzymes
 
-BUTRANS, like other opioids, may interact with skeletal muscle relaxants to enhance neuromuscular blocking action and increase respiratory depression.
+Inhibitors of CYP3A4 and 2D6
+
+Because the CYP3A4 isoenzyme plays a major role in the metabolism of buprenorphine, drugs that inhibit CYP3A4 activity may cause decreased clearance of buprenorphine which could lead to an increase in buprenorphine plasma concentrations and result in increased or prolonged opioid effects.
+These effects could be more pronounced with concomitant use of CYP2D6 and 3A4 inhibitors.
+If co-administration with BUTRANS is necessary, monitor patients for respiratory depression and sedation at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
+
+Inducers of CYP3A4
+
+CYP450 3A4 inducers may induce the metabolism of buprenorphine and, therefore, may cause increased clearance of the drug which could lead to a decrease in buprenorphine plasma concentrations, lack of efficacy or, possibly, development of an abstinence syndrome in a patient who had developed physical dependence to buprenorphine.
+
+After stopping the treatment of a CYP3A4 inducer, as the effects of the inducer decline, the buprenorphine plasma concentration will increase which could increase or prolong both the therapeutic and adverse effects, and may cause serious respiratory depression.
+If co-administration or discontinuation of a CYP3A4 inducer with BUTRANS is necessary, monitor for signs of opioid withdrawal and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
+
+## 7.4 Muscle Relaxants
+
+Buprenorphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Monitor patients receiving muscle relaxants and BUTRANS for signs of respiratory depression that may be greater than otherwise expected.
 
 ## 7.5 Anticholinergics
 

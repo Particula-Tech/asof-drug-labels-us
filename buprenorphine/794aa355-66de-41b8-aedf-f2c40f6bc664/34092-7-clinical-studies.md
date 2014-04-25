@@ -2,14 +2,13 @@
 
 The efficacy of BUTRANS has been evaluated in four 12-week double-blind, controlled clinical trials in opioid-naïve and opioid-experienced patients with moderate to severe chronic low back pain or osteoarthritis using pain scores as the primary efficacy variable.
 Two of these studies, described below, demonstrated efficacy in patients with low back pain.
-One study in low back pain failed to show efficacy.
-One study in osteoarthritis, that included an active comparator, failed to show efficacy for BUTRANS and the active comparator.
+One study in low back pain and one study in osteoarthritis did not show a statistically significant pain reduction for either BUTRANS or the respective active comparators.
 
 12-Week Study in Opioid-Naïve Patients with Chronic Low Back Pain A total of 1,024 patients with chronic low back pain who were suboptimally responsive to their non-opioid therapy entered an open-label, dose-titration period for up to four weeks.
 Patients initiated therapy with three days of treatment with BUTRANS 5 mcg/hour.
-After three days, if adverse events were tolerated but the pain persisted (≥ 5 on an 11-point, 0 to 10 Numerical Rating Scale), the dose was increased to BUTRANS 10 mcg/hour.
+After three days, if adverse events were tolerated, the dose was increased to BUTRANS 10 mcg/hour.
 If adverse effects were tolerated but adequate analgesia was not reached, the dose was increased to BUTRANS 20 mcg/hour for an additional 10-12 days.
-Patients who achieved adequate analgesia and tolerable adverse effects on BUTRANS were then randomized to remain on their titrated dose of BUTRANS or matching placebo.
+Patients who achieved adequate analgesia and tolerable adverse effects on BUTRANS 10 or 20 mcg/hour were then randomized to remain on their titrated dose of BUTRANS or matching placebo.
 Fifty-three percent of the patients who entered the open-label titration period were able to titrate to a tolerable and effective dose and were randomized into a 12-week, double-blind treatment period.
 Twenty-three percent of patients discontinued due to an adverse event from the open-label titration period and 14% discontinued due to lack of a therapeutic effect.
 The remaining 10% of patients were dropped due to various administrative reasons.

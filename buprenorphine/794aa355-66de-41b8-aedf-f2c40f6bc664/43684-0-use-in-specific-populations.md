@@ -2,8 +2,14 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects (Pregnancy Category C) There are no adequate and well-controlled studies with BUTRANS in pregnant women.
-BUTRANS should be used during pregnancy only if the potential benefit justifies the potential risk to the mother and the fetus.
+Clinical Considerations
+
+Fetal/neonatal adverse reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome, such as poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.3)].
+
+Teratogenic Effects - Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
+BUTRANS should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
 In animal studies, buprenorphine caused an increase in the number of stillborn offspring, reduced litter size, and reduced offspring growth in rats at maternal exposure levels that were approximately 10 times that of human subjects who received one BUTRANS 20 mcg/hour, the maximum recommended human dose (MRHD).
 
 Studies in rats and rabbits demonstrated no evidence of teratogenicity following BUTRANS or subcutaneous (SC) administration of buprenorphine during the period of major organogenesis.
@@ -20,13 +26,10 @@ Maternal toxicity was also observed at the no observed adverse effect level (NOA
 
 ## 8.2 Labor and Delivery
 
-BUTRANS is not for use in women immediately prior to and during labor, where use of short-acting analgesics or other analgesic techniques are more appropriate [see Indications and Usage (1)].
-Occasionally, opioid analgesics may prolong labor through actions which temporarily reduce the strength, duration and frequency of uterine contractions.
+Opioids cross the placenta and may produce respiratory depression in neonates.
+BUTRANS is not for use in women during and immediately prior to labor, when shorter acting analgesics or other analgesic techniques are more appropriate.
+Opioid analgesics can prolong labor through actions that temporarily reduce the strength, duration, and frequency of uterine contractions.
 However this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
-
-Opioids cross the placenta and may produce respiratory depression and psychophysiologic effects in neonates.
-Closely observe neonates whose mothers received opioid analgesics during labor for signs of respiratory depression.
-An opioid antagonist, such as naloxone, should be available for reversal of opioid-induced respiratory depression in the neonate in such situations.
 
 ## 8.3 Nursing Mothers
 
@@ -57,11 +60,4 @@ Although specific dose adjustments on the basis of advanced age are not required
 
 In a study utilizing intravenous buprenorphine, peak plasma levels (Cmax) and exposure (AUC) of buprenorphine in patients with mild and moderate hepatic impairment did not increase as compared to those observed in subjects with normal hepatic function.
 BUTRANS has not been evaluated in patients with severe hepatic impairment.
-As BUTRANS is intended for 7-day dosing, consider the use of alternate analgesic therapy in patients with severe hepatic impairment [see Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].
-
-## 8.7 Neonatal Opioid Withdrawal Syndrome
-
-Chronic maternal use of buprenorphine during pregnancy can affect the fetus with subsequent withdrawal signs.
-Neonatal withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
-The onset, duration and severity of neonatal withdrawal syndrome vary based on the drug used, duration of use, the dose of last maternal use, and rate of elimination drug by the newborn.
-Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening and should be treated according to protocols developed by neonatology experts.
+As BUTRANS is intended for 7-day dosing, consider the use of alternate analgesic therapy in patients with severe hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

@@ -3,8 +3,9 @@
 ## 12.1 Mechanism of Action
 
 Buprenorphine is a partial agonist at mu opioid receptors.
-Buprenorphine is also an antagonist at kappa opioid receptors, an agonist at delta opioid receptors, and a partial agonist at ORL-1 (nociceptin) receptors.
-Its clinical actions result from binding to the opioid receptors.
+
+Buprenorphine is also an antagonist at kappa-opioid receptors, an agonist at delta-opioid receptors, and a partial agonist at ORL-1 (nociceptin) receptors.
+The contributions of these actions to its analgesic profile are unclear.
 
 ## 12.2 Pharmacodynamics
 
@@ -51,7 +52,6 @@ Figure 2 Mean (SD) Buprenorphine Plasma Concentrations Following Three Consecuti
 BUTRANS 5, 10, and 20 mcg/hour provide dose-proportional total buprenorphine exposures (AUC) following 7-day applications.
 BUTRANS single 7-day application and steady-state pharmacokinetic parameters are summarized in Table 6.
 Plasma buprenorphine concentrations after titration showed no further change over the 60-day period studied.
-After removal of BUTRANS, mean buprenorphine concentrations decrease approximately 50% within 10 - 24 hours, followed by decline with an apparent terminal half-life of approximately 26 hours.
 
 Table 6: Pharmacokinetic Parameters of BUTRANS in Healthy Subjects, Mean (%CV)
 
@@ -65,45 +65,8 @@ Table 6: Pharmacokinetic Parameters of BUTRANS in Healthy Subjects, Mean (%CV)
 
 Transdermal delivery studies showed that intact human skin is permeable to buprenorphine.
 In clinical pharmacology studies, the median time for BUTRANS 10 mcg/hour to deliver quantifiable buprenorphine concentrations (≥ 25 pg/mL) was approximately 17 hours.
+
 The absolute bioavailability of BUTRANS relative to IV administration, following a 7-day application, is approximately 15% for all doses (BUTRANS 5, 10, and 20 mcg/hour).
-
-Distribution Buprenorphine is approximately 96% bound to plasma proteins, mainly to alpha- and beta-globulin.
-
-Studies of IV buprenorphine have shown a large volume of distribution (approximately 430 L), implying extensive distribution of buprenorphine.
-
-Following IV administration, buprenorphine and its metabolites are secreted into bile and excreted in urine.
-CSF buprenorphine concentrations appear to be approximately 15-25% of concurrent plasma concentrations.
-
-Metabolism Buprenorphine metabolism in the skin following BUTRANS application is negligible.
-Following transdermal application, buprenorphine is eliminated via hepatic metabolism, with subsequent biliary excretion and renal excretion of soluble metabolites.
-
-Buprenorphine primarily undergoes N-dealkylation by CYP3A4 to norbuprenorphine and glucuronidation by UGT-isoenzymes (mainly UGT1A1 and 2B7) to buprenorphine 3β-O-glucuronide.
-Norbuprenorphine, the major metabolite, is also glucuronidated (mainly UGT1A3) prior to excretion.
-
-Norbuprenorphine is the only known active metabolite of buprenorphine.
-It has been shown to be a respiratory depressant in rats, but only at concentrations at least 50-fold greater than those observed following application to humans of BUTRANS 20 mcg/hour.
-
-Since metabolism and excretion of buprenorphine occur mainly via hepatic elimination, reductions in hepatic blood flow induced by some general anesthetics (e.g., halothane) and other drugs may result in a decreased rate of hepatic elimination of the drug, resulting in increased plasma concentrations.
-
-Excretion Following intramuscular administration of 2 mcg/kg dose of buprenorphine, approximately 70% of the dose was excreted in feces within 7 days.
-Approximately 27% was excreted in urine.
-The total clearance of buprenorphine is approximately 55 L/hour in postoperative patients.
-
-Drug Interactions
-
-Effect of CYP3A4 inhibitors In a drug-drug interaction study, BUTRANS 10 mcg/hour (single dose x 7 days) was co-administered with 200 mg ketoconazole, a strong CYP3A4 inhibitor or ketoconazole placebo twice daily for 11 days and the pharmacokinetics of buprenorphine and its metabolites were evaluated.
-Plasma buprenorphine concentrations did not accumulate during co-medication with ketoconazole 200 mg twice daily.
-Based on the results from this study, metabolism during therapy with BUTRANS is not expected to be affected by co-administration of CYP3A4 inhibitors [see Drug Interactions (7.1)].
-
-Antiretroviral agents have been evaluated for CYP3A4 mediated interactions with sublingual buprenorphine.
-Nucleoside reverse transcriptase inhibitors (NRTIs) and non-nucleoside reverse transcriptase inhibitors (NNRTIs) do not appear to have clinically significant interactions with buprenorphine.
-However, certain protease inhibitors (PIs) with CYP3A4 inhibitory activity such as atazanavir and atazanavir/ritonavir resulted in elevated levels of buprenorphine and norbuprenorphine when buprenorphine and naloxone were administered sublingually.
-Cmax and AUC for buprenorphine increased by up to 1.6 and 1.9 fold, and Cmax and AUC for norbuprenorphine increased by up to 1.6 and 2.0 fold respectively, when sublingual buprenorphine was administered with these PIs.
-Patients in this study reported increased sedation, and symptoms of opiate excess have been found in post-marketing reports of patients receiving buprenorphine and atazanavir with and without ritonavir concomitantly.
-It should be noted that atazanavir is both a CYP3A4 and UGT1A1 inhibitor.
-As such, the drug-drug interaction potential for buprenorphine with CYP3A4 inhibitors is likely to be dependent on the route of administration as well as the specificity of enzyme inhibition [see Drug Interactions (7.1)].
-
-Effect of CYP3A4 Inducers The interaction between buprenorphine and CYP3A4 inducers has not been studied.
 
 Effects of Application Site A study in healthy subjects demonstrated that the pharmacokinetic profile of buprenorphine delivered by BUTRANS 10 mcg/hour is similar when applied to the upper outer arm, upper chest, upper back, or the side of the chest [see Dosage and Administration (2.5)].
 
@@ -118,7 +81,48 @@ As a result, febrile patients are at increased risk for the possibility of BUTRA
 Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.14)].
 In a crossover study of healthy subjects receiving endotoxin or placebo challenge during BUTRANS 10 mcg/hour wear, the AUC and Cmax were similar despite a physiologic response of mild fever to endotoxin.
 
-Special Populations
+Distribution Buprenorphine is approximately 96% bound to plasma proteins, mainly to alpha- and beta-globulin.
+
+Studies of IV buprenorphine have shown a large volume of distribution (approximately 430 L), implying extensive distribution of buprenorphine.
+
+CSF buprenorphine concentrations appear to be approximately 15-25% of concurrent plasma concentrations.
+
+Metabolism Buprenorphine metabolism in the skin following BUTRANS application is negligible.
+
+Buprenorphine primarily undergoes N-dealkylation by CYP3A4 to norbuprenorphine and glucuronidation by UGT-isoenzymes (mainly UGT1A1 and 2B7) to buprenorphine 3β-O-glucuronide.
+Norbuprenorphine, the major metabolite, is also glucuronidated (mainly UGT1A3) prior to excretion.
+
+Norbuprenorphine is the only known active metabolite of buprenorphine.
+It has been shown to be a respiratory depressant in rats, but only at concentrations at least 50-fold greater than those observed following application to humans of BUTRANS 20 mcg/hour.
+
+Elimination Following IV administration, buprenorphine and its metabolites are secreted into bile and excreted in urine.
+
+Following intramuscular administration of 2 mcg/kg dose of buprenorphine, approximately 70% of the dose was excreted in feces within 7 days.
+Approximately 27% was excreted in urine.
+
+Following transdermal application, buprenorphine is eliminated via hepatic metabolism, with subsequent biliary excretion and renal excretion of soluble metabolites.
+After removal of BUTRANS, mean buprenorphine concentrations decrease approximately 50% within 10-24 hours, followed by decline with an apparent terminal half-life of approximately 26 hours.
+Since metabolism and excretion of buprenorphine occur mainly via hepatic elimination, reductions in hepatic blood flow induced by some general anesthetics (e.g., halothane) and other drugs may result in a decreased rate of hepatic elimination of the drug, leading to increased plasma concentrations.
+
+The total clearance of buprenorphine is approximately 55 L/hour in postoperative patients.
+
+Drug Interactions
+
+Effect of CYP3A4 inhibitors In a drug-drug interaction study, BUTRANS 10 mcg/hour (single dose x 7 days) was co-administered with 200 mg ketoconazole, a strong CYP3A4 inhibitor or ketoconazole placebo twice daily for 11 days and the pharmacokinetics of buprenorphine and its metabolites were evaluated.
+Plasma buprenorphine concentrations did not accumulate during co-medication with ketoconazole 200 mg twice daily.
+Based on the results from this study, metabolism during therapy with BUTRANS is not expected to be affected by co-administration of CYP3A4 inhibitors [see Drug Interactions (7.3)].
+
+Antiretroviral agents have been evaluated for CYP3A4 mediated interactions with sublingual buprenorphine.
+Nucleoside reverse transcriptase inhibitors (NRTIs) and non-nucleoside reverse transcriptase inhibitors (NNRTIs) do not appear to have clinically significant interactions with buprenorphine.
+However, certain protease inhibitors (PIs) with CYP3A4 inhibitory activity such as atazanavir and atazanavir/ritonavir resulted in elevated levels of buprenorphine and norbuprenorphine when buprenorphine and naloxone were administered sublingually.
+Cmax and AUC for buprenorphine increased by up to 1.6 and 1.9 fold, and Cmax and AUC for norbuprenorphine increased by up to 1.6 and 2.0 fold respectively, when sublingual buprenorphine was administered with these PIs.
+Patients in this study reported increased sedation, and symptoms of opiate excess have been found in post-marketing reports of patients receiving buprenorphine and atazanavir with and without ritonavir concomitantly.
+It should be noted that atazanavir is both a CYP3A4 and UGT1A1 inhibitor.
+As such, the drug-drug interaction potential for buprenorphine with CYP3A4 inhibitors is likely to be dependent on the route of administration as well as the specificity of enzyme inhibition [see Drug Interactions (7.3)].
+
+Effect of CYP3A4 Inducers The interaction between buprenorphine and CYP3A4 inducers has not been studied.
+
+Specific Populations
 
 Geriatric Patients Following a single application of BUTRANS 10 mcg/hour to 12 healthy young adults (mean age 32 years) and 12 healthy elderly subjects (mean age 72 years), the pharmacokinetic profile of BUTRANS was similar in healthy elderly and healthy young adult subjects, though the elderly subjects showed a trend toward higher plasma concentrations immediately after BUTRANS removal.
 Both groups eliminated buprenorphine at similar rates after system removal [see Use in Specific Populations (8.5)].
