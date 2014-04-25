@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "NDA021343",
+    "NDA021379",
+    "NDA021488",
+    "NDA021731"
+  ],
+  "inn": "leuprolide",
+  "labeler": "TOLMAR Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62935-220-04",
+    "62935-222-05",
+    "62935-225-05",
+    "62935-300-30",
+    "62935-301-29",
+    "62935-302-30",
+    "62935-450-45",
+    "62935-451-44",
+    "62935-452-45",
+    "62935-750-75",
+    "62935-751-74",
+    "62935-752-75"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "leuprolide acetate",
+      "name": "ELIGARD"
+    }
+  ],
+  "setid": "0342f4a9-1037-4d41-b791-e5b0dbaeffeb",
+  "source": "dailymed"
+}

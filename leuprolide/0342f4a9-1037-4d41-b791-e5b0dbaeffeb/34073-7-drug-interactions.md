@@ -1,0 +1,3 @@
+# 7 DRUG INTERACTIONS
+
+No pharmacokinetic drug-drug interaction studies were conducted with ELIGARD®.
