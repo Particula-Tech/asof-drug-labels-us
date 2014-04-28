@@ -10,12 +10,12 @@ Omeprazole delayed-release capsules in combination with clarithromycin and amoxi
 
 Omeprazole delayed-release capsules, in combination with clarithromycin are indicated for treatment of patients with H. pylori infection and duodenal ulcer disease to eradicate H. pylori in adults.
 
-Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see CLINICAL STUDIES (14.1) AND DOSAGE AND ADMINISTRATION(2)].
+Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see CLINICAL STUDIES (14.1) andDOSAGE AND ADMINISTRATION(2)].
 
 Among patients who fail therapy, omeprazole delayed-release capsules with clarithromycin is more likely to be associated with the development of clarithromycin resistance as compared with triple therapy.
 In patients who fail therapy, susceptibility testing should be done.
 If resistance to clarithromycin is demonstrated or susceptibility testing is not possible, alternative antimicrobial therapy should be instituted.
-[See MICROBIOLOGY SECTION(12.4)], and the clarithromycin package insert, Microbiology section.)
+[See Microbiology section(12.4)], and the clarithromycin package insert, Microbiology section.)
 
 ## 1.2 Gastric Ulcer (adults)
 
@@ -31,7 +31,7 @@ Omeprazole delayed-release capsules, USP are indicated for the treatment of hear
 Erosive Esophagitis
 
 Omeprazole delayed-release capsules, USP are indicated for the short-term treatment (4 to 8 weeks) of erosive esophagitis that has been diagnosed by endoscopy in pediatric patients and adults.
-[See CLINICAL STUDIES(14.4)]
+[See CLINICAL STUDIES(14.414.4)]
 
 The efficacy of omeprazole delayed-release capsules, USP used for longer than 8 weeks in these patients has not been established.
 If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.

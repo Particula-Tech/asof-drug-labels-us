@@ -56,7 +56,7 @@ For the treatment of GERD and maintenance of healing of erosive esophagitis, the
 
 On a per kg basis, the doses of omeprazole required to heal erosive esophagitis in pediatric patients are greater than those for adults.
 
-Alternative administrative options can be used for pediatric patients unable to swallow an intact capsule [See DOSAGE AND ADMINISTRATION (2.8)].
+Alternative administrative options can be used for pediatric patients unable to swallow an intact capsule [see DOSAGE AND ADMINISTRATION (2.8)].
 
 ## 2.8 Alternative Administration Options
 

@@ -14,9 +14,8 @@ Additional adverse reactions that were reported with an incidence ≥1% included
 The clinical trial safety profile in patients greater than 65 years of age was similar to that in patients 65 years of age or less.
 
 The clinical trial safety profile in pediatric patients who received omeprazole delayed-release capsules was similar to that in adult patients.
-Unique to the pediatric population, however, adverse reactions of the respiratory system were most frequently reported in both the 2 to 16 year age groups (18.5%).
-Similarly, accidental injuries were reported frequently in the 2 to 16 year age group (3.8%).
-[See USE IN SPECIFIC POPULATIONS (8.4)]
+Unique to the pediatric population, however, adverse reactions of the respiratory system were most frequently reported in 2 to 16 year age group (18.5%).
+Similarly, accidental injuries were reported frequently in the 2 to 16 year age group (3.8%) [see USE IN SPECIFIC POPULATIONS (8.4)].
 
 ## 6.2 Clinical Trials Experience with Omeprazole in Combination Therapy for H. pylori Eradication
 
@@ -54,9 +53,9 @@ This finding is believed to be a manifestation of the underlying condition, whic
 
 Hepatic: Liver disease including hepatic failure (some fatal), liver necrosis (some fatal), hepatic encephalopathy hepatocellular disease, cholestatic disease, mixed hepatitis, jaundice, and elevations of liver function tests [ALT, AST, GGT, alkaline phosphatase, and bilirubin]
 
-Infections and Infestations: Clostridium difficile associated diarrhea
+Infections and Infestations: Clostridium difficileassociated diarrhea
 
-Metabolism and Nutritional Disorders: Hypoglycemia, hypomagnesemia, hyponatremia, weight gain
+Metabolism and Nutritional Disorders: Hypoglycemia, hypomagnesemia, with or without hypocalcemia and/or hypokalemia, hyponatremia, weight gain
 
 Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain, bone fracture
 

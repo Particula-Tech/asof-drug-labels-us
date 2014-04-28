@@ -76,10 +76,8 @@ Before you take omeprazole delayed-release capsules, tell your doctor if you:
 - •are pregnant or plan to become pregnant.
   It is not known if omeprazole delayed-release capsules will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
-  Omeprazole can pass into your breast milk and may harm your baby.
-  You and your doctor should decide if you will take omeprazole delayed-release capsules or breastfeed.
-  You should not do both.
-  Talk to your doctor about the best way to feed your baby if you breastfeed.
+  Omeprazole passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take omeprazole delayed-release capsules.
 
 Tell your doctor about all of the medicines you take including prescription and non-prescription drugs, anti-cancer drugs, vitamins and herbal supplements.
 Omeprazole delayed-release capsules may affect how other medicines work, and other medicines may affect how omeprazole delayed-release capsules works.
@@ -142,7 +140,6 @@ Omeprazole delayed-release capsules can cause serious side effects, including:
   You may or may not have symptoms.
   Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
 - •Low magnesium levels in your body.
-  This problem can be serious.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
@@ -181,7 +178,8 @@ Tell your doctor if you get any of the following symptoms with omeprazole delaye
 - •face swelling
 - •throat tightness
 - •difficulty breathing
-- Your doctor may stop omeprazole delayed-release capsules if these symptoms happen.
+
+Your doctor may stop omeprazole delayed-release capsules if these symptoms happen.
 
 Tell your doctor if you have any side effect that bothers you or that do not go away.
 These are not all the possible side effects with omeprazole delayed-release capsules.
@@ -192,7 +190,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store omeprazole delayed-release capsules?
 
 - •Store omeprazole delayed-release capsules at room temperature between 68°F to 77°F (20°C to 25°C).
-- •Keep the container of omeprazole delayed-release capsules closed tightly.
+  - •Keep the container of omeprazole delayed-release capsules closed tightly.
 - •Keep the container of omeprazole delayed-release capsules dry and away from light.
 
 Keep omeprazole delayed-release capsules and all medicines out of the reach of children.
@@ -227,11 +225,11 @@ The ink used for printing contains black iron oxide.
 
 The brands listed are the registered trademarks of their respective owners and are not trademarks of Sandoz Inc.
 
-This medication guide has been approved by the U.S. Food and Drug Administration
+This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration
 
 Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-March 2014
+April 2014

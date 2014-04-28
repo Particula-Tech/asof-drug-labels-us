@@ -191,8 +191,7 @@ Omeprazole was well tolerated at these high dose levels for prolonged periods (>
 In most ZE patients, serum gastrin levels were not modified by omeprazole.
 However, in some patients serum gastrin increased to levels greater than those present prior to initiation of omeprazole therapy.
 At least 11 patients with ZE syndrome on long-term treatment with omeprazole developed gastric carcinoids.
-These findings are believed to be a manifestation of the underlying condition, which is known to be associated with such tumors, rather than the result of the administration of omeprazole.
-[See ADVERSE REACTIONS (6)]
+These findings are believed to be a manifestation of the underlying condition, which is known to be associated with such tumors, rather than the result of the administration of omeprazole [see ADVERSE REACTIONS (6)].
 
 ## 14.6 Pediatric GERD
 

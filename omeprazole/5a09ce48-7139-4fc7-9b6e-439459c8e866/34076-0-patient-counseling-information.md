@@ -14,6 +14,6 @@ The pellets should not be chewed or crushed.
 The pellets/applesauce mixture should not be stored for future use.
 
 Advise patients to immediately report and seek care for diarrhea that does not improve.
-This may be a sign of Clostridium difficile associated diarrhea [see WARNINGS AND PRECAUTIONS (5.3)].
+This may be a sign of Clostridium difficileassociated diarrhea [see WARNINGS AND PRECAUTIONS (5.3)].
 
 Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see WARNINGS AND PRECAUTIONS (5.6)].

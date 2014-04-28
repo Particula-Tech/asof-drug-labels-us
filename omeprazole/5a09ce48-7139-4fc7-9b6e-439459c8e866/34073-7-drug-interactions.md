@@ -73,10 +73,10 @@ There are no adequate combination studies of a lower dose of omeprazole or a hig
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.
 
-## 7.5 Interactions with Investigations of Neuroendocrine Tumors
+## 7.5 Interactions With Investigations of Neuroendocrine Tumors
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
-[see WARNINGS AND PRECAUTIONS (5.8) AND CLINICAL PHARMACOLOGY (12)].
+[see WARNINGS AND PRECAUTIONS (5.8) and CLINICAL PHARMACOLOGY (12)].
 
 ## 7.6 Combination Therapy with Clarithromycin
 
