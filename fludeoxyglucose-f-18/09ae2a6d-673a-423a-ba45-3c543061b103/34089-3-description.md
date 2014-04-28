@@ -12,7 +12,7 @@ The solution is packaged in a multiple-dose glass vial and does not contain any 
 
 ## 11.2 Physical Characteristics
 
-Fluorine F 18 decays by emitting positron to Oxygen O 16 (stable) and has a physical half-life of 109.7 minutes.
+Fluorine F 18 decays by emitting positron to Oxygen O 18 (stable) and has a physical half-life of 109.7 minutes.
 The principal photons useful for imaging are the dual 511 keV gamma photons, that are produced and emitted simultaneously in opposite direction when the positron interacts with an electron (Table 2).
 
 Table 2.
@@ -23,12 +23,12 @@ Principal Radiation Emission Data for Fluorine F 18
 | Positron(β+) | 96.73 | 249.8 keV |
 | Gamma(±)* | 193.46 | 511.0 keV |
 
-*Produced by Positron Annihilation
+*Produced by positron annihilation
 
 From: Kocher, D.C.
 Radioactive Decay Tables DOE/TIC-I 1026, 89 (1981)
 
-The specific gamma ray constant for fluorine F 18 is 5.7 R/hr/mCi (1.35 × 10-6 Gy/hr/kBq) at 1 cm.
+The specific gamma ray constant (point source air kerma coefficient) for fluorine F 18 is 5.7 R/hr/mCi (1.35 × 10-6 Gy/hr/kBq) at 1 cm.
 The half-value layer (HVL) for the 511 keV photons is 4 mm lead (Pb).
 The range of attenuation coefficients for this radionuclide as a function of lead shield thickness is shown in Table 3.
 For example, the interposition of an 8 mm thickness of Pb, with a coefficient of attenuation of 0.25, will decrease the external radiation by 75%.

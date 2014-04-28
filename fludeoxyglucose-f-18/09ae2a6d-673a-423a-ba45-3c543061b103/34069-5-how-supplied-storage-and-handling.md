@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND DRUG HANDLING
 
-Fludeoxyglucose F 18 Injection is supplied in multiple dose vials containing between 0.74 - 18.5 GBq (20 - 500 mCi), of no carrier added 2-deoxy-2-[F 18] fluoro-D-glucose, at end of synthesis.
+Fludeoxyglucose F 18 Injection is supplied in multi-dose, capped 30 or 50 mL vials containing between 0.74 - 18.5 GBq (20 - 500 mCi/mL), of no carrier added 2-deoxy-2-[F 18] fluoro-D-glucose, at end of synthesis, in approximately 23-30 mL.
 The contents of each vial are sterile, pyrogen-free and preservative-free.
 
-NDC Code: 30 mL Vial: NDC 52768-001-30 50 mL Vial: NDC 52768-001-50
+30 mL Vial: NDC 52768-001-30 50 mL Vial: NDC 52768-001-50
 
 This radiopharmaceutical is licensed by the State of Tennessee, Department of Environment and Conservation, for distribution to entities licensed pursuant to chapter 1200-02-07 Division of Radiological Health Regulations or under the equivalent licenses of an Agreement State or Licensing State.
 

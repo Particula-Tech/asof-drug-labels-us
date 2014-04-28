@@ -17,7 +17,6 @@ Use alternatives to breast feeding (e.g., stored breast milk or infant formula) 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of Fludeoxyglucose F 18 Injection in pediatric patients with epilepsy is established on the basis of studies in adult and pediatric patients.
-In pediatric patients with epilepsy, the recommended dose is 96.2 MBq (2.6 mCi).
+In pediatric patients with epilepsy, the recommended dose is 2.6 mCi.
 The optimal dose adjustment on the basis of body size or weight has not been determined.
-
 In the oncology or cardiology settings, the safety and effectiveness of Fludeoxyglucose F 18 Injection have not been established in pediatric patients.
