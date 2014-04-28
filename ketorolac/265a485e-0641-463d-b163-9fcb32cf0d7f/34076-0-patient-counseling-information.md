@@ -54,7 +54,7 @@ Avoid the use of SPRIX at or beyond 30 weeks gestation as ketorolac can cause pr
 
 ## 17.10 Single Day Container
 
-Instruct patients not to use any single bottle of SPRIX for more than one day [see Dosage and Administration (2.4)].
+Instruct patients not to use any single bottle of SPRIX for more than one day [see Dosage and Administration (2.5)].
 
 ## 17.11 Nasal Discomfort
 
@@ -62,4 +62,4 @@ Advise patients that they may experience transient, mild to moderate nasal irrit
 
 Distributed by:
 
-American Regent, Inc. Shirley, NY 11967
+American Regent, Inc. Shirley, NY 11967 IN8880

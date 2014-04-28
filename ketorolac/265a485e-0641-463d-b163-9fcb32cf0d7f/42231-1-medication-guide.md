@@ -1,11 +1,41 @@
 # Medication Guide For Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-| (See the end of this Medication Guide for a list of prescription NSAID medicines.) What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?NSAID medicines may increase the chance of a heart attack or stroke that can lead to death. This chance increases: with longer use of NSAID medicines in people who have heart disease NSAID medicines should never be used right before or after a heart surgery called a “coronary artery bypass graft (CABG).”NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment. Ulcers and bleeding: can happen without warning symptoms may cause death The chance of a person getting an ulcer or bleeding increases with: taking medicines called “corticosteroids” and “anticoagulants” longer use smoking drinking alcohol older age having poor health NSAID medicines should only be used: exactly as prescribed at the lowest dose possible for your treatment for the shortest time needed |
-| --- |
+(See the end of this Medication Guide for a list of prescription NSAID medicines.)
+
+What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+
+NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.
+This chance increases:
+
+- with longer use of NSAID medicines
+- in people who have heart disease
+
+NSAID medicines should never be used right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
+
+NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment.
+Ulcers and bleeding:
+
+- can happen without warning symptoms
+- may cause death
+
+The chance of a person getting an ulcer or bleeding increases with:
+
+- taking medicines called “corticosteroids” and “anticoagulants”
+- longer use
+- smoking
+- drinking alcohol
+- older age
+- having poor health
+
+NSAID medicines should only be used:
+
+- exactly as prescribed
+- at the lowest dose possible for your treatment
+- for the shortest time needed
 
 What are Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
-NSAID medicines are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as:
+NSAID medicines are used to treat pain, redness, swelling, and heat (inflammation) from medical conditions such as:
 
 - different types of arthritis
 - menstrual cramps and other types of short-term pain
@@ -24,9 +54,9 @@ Tell your healthcare provider:
   NSAIDs and some other medicines can interact with each other and cause serious side effects.
   Keep a list of your medicines to show to your healthcare provider and pharmacist.
 - if you are pregnant.
-  Use of NSAID medicines (at or after 30 weeks of pregnancy) can harm your baby.
+  NSAID medicines should not be used by pregnant women late in their pregnancy.
 - if you are breastfeeding.
-  Some SPRIX® (ketorolac tromethamine) Nasal Spray may pass into your breast milk.
+  SPRIX® (ketorolac tromethamine) Nasal Spray can pass into your breast milk.
 
 What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
@@ -58,6 +88,9 @@ Stop your NSAID medicine and call your healthcare provider right away if you hav
 These are not all the side effects with NSAID medicines.
 Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs):
 
 - Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
@@ -70,23 +103,30 @@ NSAID medicines that need a prescription:
 
 | Generic Name | Tradename |
 | --- | --- |
-| Celecoxib | Celebrex |
-| Diclofenac | Flector, Cataflam, Voltaren, Arthrotec (combined with misoprostol) |
-| Diflunisal | Dolobid |
-| Etodolac | Lodine, Lodine XL |
-| Fenoprofen | Nalfon, Nalfon 200 |
-| Flurbiprofen | Ansaid |
-| Ibuprofen | Motrin, Tab-Profen, Vicoprofen (combined with hydrocodone), Combunox (combined with oxycodone) |
-| Indomethacin | Indocin, Indocin SR, Indo-Lemmon, Indomethagan |
-| Ketoprofen | Oruvail |
-| Ketorolac | SPRIX® |
-| Mefenamic Acid | Ponstel |
-| Meloxicam | Mobic |
-| Nabumetone | Relafen |
-| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naproxyn, Naprelan, Naprapac (copackaged with lansoprazole) |
-| Oxaprozin | Daypro |
-| Piroxicam | Feldene |
-| Sulindac | Clinoril |
-| Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
+| Celecoxib | Celebrex® |
+| Diclofenac | Flector®, Cataflam®, Voltaren®, Arthrotec® (combined with misoprostol), PENNSAID®, Zorvolex, Cambia, Voltaren gel, Zipsor |
+| Diflunisal | Dolobid® |
+| Etodolac | Lodine®, Lodine XL® |
+| Fenoprofen | Nalfon®, Nalfon® 200 |
+| Flurbiprofen | Ansaid® |
+| Ibuprofen | Motrin®, Tab-Profen®, Vicoprofen® (combined with hydrocodone), Combunox™ (combined with oxycodone), Duexis (combined with famotidine) |
+| Indomethacin | Indocin®, Indocin SR®, Indo-Lemmon™, Indomethagan™, Tivorbex |
+| Ketoprofen | Oruvail® |
+| Ketorolac | Toradol®, SPRIX® |
+| Mefenamic Acid | Ponstel® |
+| Meloxicam | Mobic® |
+| Nabumetone | Relafen® |
+| Naproxen | Naprosyn®, Anaprox®, Anaprox® DS, EC-Naproxyn®, Naprelan®, Naprapac® (copackaged with lansoprazole), Treximet (combined with sumatriptan succinate) and Vimovo (combined with esomeprazole magnesium) |
+| Oxaprozin | Daypro® |
+| Piroxicam | Feldene® |
+| Sulindac | Clinoril® |
+| Tolmetin | Tolectin®, Tolectin DS®, Tolectin® 600 |
+
+*Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAID, and is usually used for less than 10 days to treat pain.
+The OTC NSAID label warns that long-term continuous use may increase the risk of heart attack or stroke.
+
+All registered trademarks in this document are the property of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Revised: 4/2014

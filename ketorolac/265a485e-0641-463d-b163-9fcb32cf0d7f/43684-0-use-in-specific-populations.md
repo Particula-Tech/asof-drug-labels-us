@@ -22,11 +22,13 @@ In rat studies, maternal exposure to NSAIDs, as with other drugs known to inhibi
 ## 8.3 Nursing Mothers
 
 Ketorolac is excreted in human milk.
-Ten nursing mothers received 10 mg of oral ketorolac, four times a day, for two days.
-In four women, ketorolac was undetectable in milk (assay limit 5 ng/mL).
-In the remaining six women, ketorolac concentrations in milk ranged from 5.2 to 7.9 ng/mL.
-Based on these concentrations, the estimated maximum infant daily dose of ketorolac from breast milk is 1.185 mcg/kg/day.
+Limited data from one published study involving ten nursing mothers 2-6 days postpartum showed low levels of ketorolac in breast milk.
+Levels were undetectable (less than 5 ng/mL) in 4 of the patients.
+After a single administration of 10 mg ketorolac, the maximum milk concentration observed was 7.3 ng/mL, and the maximum milk to plasma ratio was 0.037.
+After 1 day of dosing (10 mg every 6 hours), the maximum milk concentration was 7.9 ng/mL, and the maximum milk-to-plasma ratio was 0.025.
+Assuming a daily intake of 400-1000 mL of human milk per day and a maternal body weight of 60 kg, the calculated maximum daily infant exposure was 0.00263 mg/kg/day, which is 0.4% of the maternal weight adjusted dose.
 Exercise caution when administering SPRIX to a nursing woman.
+Available information has not shown any specific adverse events in nursing infants; however, instruct patients to contact their infant's health care provider if they note any adverse events.
 
 ## 8.4 Pediatric Use
 
@@ -36,5 +38,5 @@ The safety and effectiveness of ketorolac in pediatric patients 17 years of age 
 
 Exercise caution when treating the elderly (65 years and older) with SPRIX.
 Carefully consider the potential benefits and risks of SPRIX and other treatment options before deciding to use SPRIX.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see Dosage and Administration (2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.4)].
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see Dosage and Administration (2.4), Warnings and Precautions (5.2), Clinical Pharmacology (12.4)].
 After observing the response to initial therapy with SPRIX, then adjust the dose and frequency to suit an individual patient's needs.

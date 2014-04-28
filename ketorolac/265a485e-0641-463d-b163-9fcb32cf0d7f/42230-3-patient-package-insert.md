@@ -1,105 +1,121 @@
-# Patient Instructions
+# Instructions for Use
 
-Guide to Proper Use of SPRIX® (ketorolac tromethamine) Nasal Spray
+SPRIX® (spriks) (ketorolac tromethamine) Nasal Spray
 
-Each Nasal Spray Bottle Contains 1 Day's Supply of Pain Medication
+Read this Instructions for Use before you start using SPRIX and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-Discard each nasal spray bottle within 24 hours of taking your first dose, even if the bottle still contains some unused medication.
+Important information:
 
-Please read this leaflet carefully before you start to take your medicine.
-It is important that you use SPRIX properly to achieve the desired results.
+- SPRIX is for use in your nose only.
+  Do not breathe in (inhale) SPRIX.
+- Each SPRIX bottle has enough pain medicine for 1 day.
+- Throw away each SPRIX bottle within 24 hours of taking your first dose, even if the bottle still contains unused medicine.
 
-For further information ask your doctor or pharmacist.
+Your healthcare provider has prescribed SPRIX to treat moderate to severe pain.
 
-USE OF SPRIX FOR ACUTE MODERATE TO MODERATELY SEVERE PAIN
+- Use SPRIX exactly as your healthcare provider tells you to use it.
+- Your healthcare provider will tell you how many sprays you should use each time you use SPRIX.
+- Do not use SPRIX for more than 5 days.
+  If you still have pain after 5 days, contact your healthcare provider.
+- Do not use SPRIX more than every 6 hours.
+- It is important that you drink plenty of fluids while you are using SPRIX.
+  Tell your healthcare provider if you urinate less while using SPRIX.
 
-Your doctor has prescribed SPRIX to treat pain.
-It is important that you use SPRIX only as prescribed by your doctor.
-Do not use SPRIX for more than 5 days in a row.
-If you are still experiencing pain after 5 days, please contact your doctor or healthcare provider.
+You may have discomfort or irritation in your nose when using SPRIX.
+This usually lasts for a short time.
+Do not breathe in (inhale) SPRIX while spraying.
 
-SPRIX contains ketorolac, a potent non-steroidal anti-inflammatory drug (NSAID) that reduces inflammation and pain.
-For more information about NSAID products, please see the separate NSAID Medication Guide.
+Using SPRIX nasal spray
 
-As with all pain medications, it is important that you drink plenty of fluids while you are taking SPRIX.
+Parts of your SPRIX bottle
 
-USING YOUR NASAL SPRAY
+Follow the instructions below to use SPRIX.
 
-Always follow your doctor's instructions about how often to use SPRIX.
-The doctor will tell you how many sprays you should use each time you take SPRIX.
-These instructions will provide you with information on how to use the spray bottle.
+Before you use SPRIX for the first time, you will need to prime the bottle.
+Priming SPRIX:
 
-Some patients experience discomfort or irritation in the nose when using SPRIX.
-Generally, this lasts only a few minutes and does not worsen when you use SPRIX again.
-Some people experience a brief sensation in the throat.
-If this happens, you may want to take a sip of water after using SPRIX.
+Step 1.
+Hold the finger flange with your fingers (See Figure A), and remove the clear plastic cover with your opposite hand.
+Keep the clear plastic cover for later.
+Remove and throw away the blue plastic safety clip.
+Figure A
 
-Components of SPRIX Bottle
+If the clear plastic cover is improperly removed, the tip of the bottle may be pulled off of the glass vial.
+If this happens, place the tip back onto the glass vial by lining it up carefully and gently pushing it back on until it is back in the correct position (See Figure B). The SPRIX bottle should work properly again.
 
-FOLLOW THESE SIMPLE INSTRUCTIONS
+Figure B
 
-1. First hold the finger flange with your fingers (See Figure 1), and remove the clear plastic cover with your opposite hand; then remove the blue plastic safety clip.
-   Keep the clear plastic cover; you may throw away the blue plastic safety clip.
-   Figure 1
-2. Before using the bottle for the FIRST time, you must activate the pump.
-   To activate the pump, hold the bottle at arm's length away from you with your index finger and middle finger resting on the top of the finger flange and your thumb supporting the base (see Figure 2).
-   Press down evenly and release the pump 5 times.
-   Note: you may not see a spray the first few times you press down.
-   The bottle is now ready to use.
-   There is no need to activate the pump again if you use more doses from this bottle.
-   Figure 2
-3. It's important to get the medication to the correct place in your nose so it will be most effective.
-   Here's the simple way to do this.
-   Blow your nose gently to clear your nostrils.
-   Sit up straight or stand.
-   Tilt your head slightly forward.
-   Insert the tip of the container into your right nostril.
-   Point the container away from the center of your nose (see Figure 3).
-   Figure 3Spray once into your right nostril, pressing down evenly on both sides, as shown in Figure 3.
-   If your doctor has prescribed only one spray per dose for you, you have now completed administration; skip to Step 5 below.
-4. If your doctor has prescribed a dose of 2 sprays for you, repeat the process for your left nostril.
-   Again, be sure to point the spray away from the center of your nose.
-   Spray once into your left nostril.
-5. Replace the clear plastic cover and place the bottle in a cool, dry location out of direct sunlight, such as inside a medication cabinet.
-   Keep out of reach of children.
+Step 2.
+Hold the SPRIX bottle upright at arm’s length away from you with your index finger and middle finger resting on the top of the finger flange and your thumb supporting the base (see Figure C).
 
-DOSING AND ADMINISTRATION
+Press down on the finger flange and release the pump 5 times.
+You may not see a spray the first few times you press down.
 
-- - For adults under 65 years of age, the usual recommended dose is one dose every 6-8 hours, as needed for relief of pain.
-  One dose consists of one spray into each nostril (two sprays in total).
-- - For adults 65 years of age or older, the usual recommended dose is one dose every 6-8 hours, as needed.
-  One dose consists of one spray into either nostril (one spray in total).
-- - Do not use more than the prescribed amount, and do not use more frequently than once every 6 hours.
+Now the pump is primed and ready to use.
+You do not need to prime the pump again if you use more doses from this bottle.
 
-STORING AND DISCARDING YOUR CONTAINERS
+Figure C
 
-- - Keep SPRIX upright in a cool, dry location out of direct sunlight.
-- - SPRIX does not contain a preservative.
-  It is important that you throw away each bottle of SPRIX within 24 hours of administering the first dose.
-  Once a bottle has been used, do not keep it for more than 24 hours.
-- - Always keep SPRIX out of the reach of children.
-- - Do not allow SPRIX to become frozen.
-- - Discard in the trash (non-recyclable).
+Step 3.
+Blow your nose to clear your nostrils.
 
-ASSEMBLY INSTRUCTIONS
+Step 4.
+Sit up straight or stand.
 
-- - If the clear plastic cover is improperly removed, the top portion of the nasal spray may be pulled off of the glass vial.
-  If this happens, reinsert the top portion back onto the glass vial by lining it up carefully and softly pushing it back on until it is back in the correct position (See Figure 4).
-  The nasal spray bottle will now work properly again.
+Step 5.
+Keep your head tilted downward toward your toes.
 
-Figure 4
+Step 6.
+Place the tip of the SPRIX bottle into your right nostril.
 
-FOR MORE INFORMATION
+Step 7.
+Hold the SPRIX bottle upright and aim the tip toward the back of your nose (see Figure D).
 
-If you have any questions about SPRIX, or are unsure about something, you should ask your doctor or pharmacist.
+Figure D
 
-Do not throw this leaflet away, so you may read it again when you administer additional doses or begin using a new bottle of SPRIX Nasal Spray.
+Step 8.
+Hold your breath and spray 1 time into your right nostril, pressing down on both sides of the finger flange (See Figure D).
 
-Distributed by:
+Step 9.
+Breathe in gently through your mouth after you use SPRIX.
+You may also pinch your nose to help keep the medicine in your nose.
 
-American Regent, Inc. Shirley, NY 11967
+Step 10.
+If your healthcare provider has prescribed only 1 spray per dose for you, you have now finished your dose, skip to Step 12 below.
 
-MG 8880
+Step 11.
+If your healthcare provider has prescribed 2 sprays for you, repeat steps 3 - 9 above for your left nostril.
+Be sure to point the spray away from the center of your nose.
+Spray 1 time into your left nostril.
 
-Rev.
-10/11
+Step 12.
+When you are finished using SPRIX, put the clear plastic cover back on the SPRIX bottle.
+
+How should I store SPRIX?
+
+- Store unopened SPRIX bottles between 36°F to 46°F (2°C to 8°C).
+- Keep opened bottles of SPRIX at room temperature.
+- Keep SPRIX out of direct sunlight.
+- Do not freeze SPRIX.
+- SPRIX does not contain a preservative.
+  Throw away each SPRIX bottle within 24 hours of taking your first dose, even if the bottle still contains unused medicine.
+
+Keep SPRIX and all medicines out of the reach of children.
+
+General information about the safe and effective use of SPRIX.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not give SPRIX to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+You can ask your pharmacist or healthcare provider for information about SPRIX that is written for health professionals.
+
+What are the ingredients in SPRIX?
+Active ingredient: ketorolac tromethamine Inactive ingredient: edetate disodium (EDTA), monobasic potassium phosphate, sodium hydroxide, and water for injection
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Distributed by: American Regent, Inc. Shirley, NY 11967
+
+MG8880 Revised: 4/2014
