@@ -21,8 +21,8 @@ SPRYCEL® tablets should be stored at 20° to 25°C (68° to 77°F); excursions 
 
 ## 16.3 Handling and Disposal
 
-Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published [see References (15)].
+SPRYCEL is an antineoplastic product.
+Follow special handling and disposal procedures.
 
 SPRYCEL (dasatinib) tablets consist of a core tablet (containing the active drug substance), surrounded by a film coating to prevent exposure of pharmacy and clinical personnel to the active drug substance.
 However, if tablets are inadvertently crushed or broken, pharmacy and clinical personnel should wear disposable chemotherapy gloves.

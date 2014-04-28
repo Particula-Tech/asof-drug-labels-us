@@ -26,7 +26,7 @@ Exercise caution if patients are required to take medications that inhibit plate
 SPRYCEL is associated with fluid retention.
 In clinical trials, severe fluid retention was reported in up to 10% of patients.
 Severe ascites, pulmonary edema, and generalized edema were each reported in ≤1% of patients.
-Patients who develop symptoms suggestive of pleural effusion, such as dyspnea or dry cough, should be evaluated by chest X-ray.
+Patients who develop symptoms suggestive of pleural effusion, such as dyspnea or dry cough, should be evaluated by chest x-ray.
 Severe pleural effusion may require thoracentesis and oxygen therapy.
 Fluid retention events were typically managed by supportive care measures that include diuretics or short courses of steroids.
 In dose-optimization studies, fluid retention events were reported less frequently with once daily dosing than with other dosing regimens.
@@ -54,9 +54,11 @@ PAH may be reversible on discontinuation of SPRYCEL.
 Evaluate patients for signs and symptoms of underlying cardiopulmonary disease prior to initiating SPRYCEL and during treatment.
 If PAH is confirmed, SPRYCEL should be permanently discontinued.
 
-## 5.7 Use in Pregnancy
+## 5.7 Embryo-fetal Toxicity
 
-SPRYCEL may cause fetal harm when administered to a pregnant woman.
-In nonclinical studies, at plasma concentrations below those observed in humans receiving therapeutic doses of dasatinib, embryo-fetal toxicities, including skeletal malformations, were observed in rats and rabbits.
-There are no adequate and well-controlled studies of SPRYCEL in pregnant women.
-Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with SPRYCEL [see Use in Specific Populations (8.1)].
+SPRYCEL can cause fetal harm when administered to a pregnant woman.
+Adverse fetal and infant outcomes have been reported from women who have taken SPRYCEL during pregnancy.
+In animal reproduction studies, embryo-fetal toxicities, including skeletal malformations, were observed in rats and rabbits at plasma concentrations below those in humans receiving therapeutic doses of dasatinib.
+If SPRYCEL is used during pregnancy, or if the patient becomes pregnant while taking SPRYCEL, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
+
+Advise females of reproductive potential to avoid pregnancy, which may include the use of contraception, during treatment with SPRYCEL [see Use in Specific Populations (8.8)].

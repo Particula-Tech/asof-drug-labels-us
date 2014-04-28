@@ -14,11 +14,11 @@ Patients should be informed of the possibility of developing low blood cell coun
 
 Patients should be informed of the possibility of developing fluid retention (swelling, weight gain, or shortness of breath) and to seek medical attention if those symptoms arise.
 
-## 17.4 Pregnancy
+## 17.4 Embryo-fetal Toxicity
 
-Patients should be informed that dasatinib may cause fetal harm when administered to a pregnant woman.
+Patients should be informed that SPRYCEL can cause fetal harm when administered to a pregnant woman.
 Women should be advised of the potential hazard to the fetus and to avoid becoming pregnant.
-If SPRYCEL is used during pregnancy, or if the patient becomes pregnant while taking SPRYCEL, the patient should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.7)].
+If SPRYCEL is used during pregnancy, or if the patient becomes pregnant while taking SPRYCEL, the patient should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1, 8.8)].
 
 ## 17.5 Gastrointestinal Complaints
 

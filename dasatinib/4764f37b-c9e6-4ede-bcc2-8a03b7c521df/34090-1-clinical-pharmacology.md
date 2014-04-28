@@ -15,7 +15,7 @@ Under the conditions of the assays, dasatinib was able to overcome imatinib resi
 
 Maximum plasma concentrations (Cmax) of dasatinib are observed between 0.5 and 6 hours (Tmax) following oral administration.
 Dasatinib exhibits dose proportional increases in AUC and linear elimination characteristics over the dose range of 15 mg to 240 mg/day.
-The overall mean terminal half-life of dasatinib is 3–5 hours.
+The overall mean terminal half-life of dasatinib is 3 to 5 hours.
 
 Data from a trial of 54 healthy subjects administered a single, 100-mg dose of dasatinib 30 minutes following consumption of a high-fat meal resulted in a 14% increase in the mean AUC of dasatinib.
 The observed food effects were not clinically relevant.
@@ -23,7 +23,7 @@ The observed food effects were not clinically relevant.
 ### Distribution
 
 In patients, dasatinib has an apparent volume of distribution of 2505 L, suggesting that the drug is extensively distributed in the extravascular space.
-Binding of dasatinib and its active metabolite to human plasma proteins in vitro was approximately 96% and 93%, respectively, with no concentration dependence over the range of 100–500 ng/mL.
+Binding of dasatinib and its active metabolite to human plasma proteins in vitro was approximately 96% and 93%, respectively, with no concentration dependence over the range of 100 to 500 ng/mL.
 
 ### Metabolism
 
@@ -53,8 +53,8 @@ Pharmacokinetic analyses of demographic data indicate that there are no clinical
 
 Dasatinib doses of 50 mg and 20 mg were evaluated in eight patients with moderate (Child-Pugh class B) and seven patients with severe (Child-Pugh class C) hepatic impairment, respectively.
 Matched controls with normal hepatic function (n=15) were also evaluated and received a dasatinib dose of 70 mg.
-Compared to subjects with normal liver function, patients with moderate hepatic impairment had decreases in dose normalized Cmax and AUC by 47% and 8%, respectively.
-Patients with severe hepatic impairment had dose normalized Cmax decreased by 43% and AUC decreased by 28% compared to the normal controls.
+Compared to subjects with normal liver function, patients with moderate hepatic impairment had decreases in dose-normalized Cmax and AUC by 47% and 8%, respectively.
+Patients with severe hepatic impairment had dose-normalized Cmax decreased by 43% and AUC decreased by 28% compared to the normal controls.
 
 These differences in Cmax and AUC are not clinically relevant.
 Dose adjustment is not necessary in patients with hepatic impairment.

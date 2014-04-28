@@ -2,12 +2,12 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Myelosuppression [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
-- Bleeding related events [see Warnings and Precautions (5.2)].
-- Fluid retention [see Warnings and Precautions (5.3)].
-- QT prolongation [see Warnings and Precautions (5.4)].
-- Congestive heart failure, left ventricular dysfunction, and myocardial infarction [see Warnings and Precautions (5.5)].
-- Pulmonary Arterial Hypertension [see Warnings and Precautions (5.6)].
+- •Myelosuppression [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
+- •Bleeding related events [see Warnings and Precautions (5.2)].
+- •Fluid retention [see Warnings and Precautions (5.3)].
+- •QT prolongation [see Warnings and Precautions (5.4)].
+- •Congestive heart failure, left ventricular dysfunction, and myocardial infarction [see Warnings and Precautions (5.5)].
+- •Pulmonary Arterial Hypertension [see Warnings and Precautions (5.6)].
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -21,7 +21,7 @@ The median duration of treatment with SPRYCEL 140 mg once daily was 15 months (r
 
 The majority of SPRYCEL-treated patients experienced adverse reactions at some time.
 In the newly diagnosed chronic phase CML trial, drug was discontinued for adverse reactions in 6% of SPRYCEL-treated patients with a minimum of 12 months follow up.
-After a minimum of 36 month follow up, the cumulative discontinuation rate was 9%.
+After a minimum of 36 months follow up, the cumulative discontinuation rate was 9%.
 Among patients with resistance or intolerance to prior imatinib therapy, the rates of discontinuation for adverse reactions at 2 years were 15% in chronic phase CML for all dosages, 16% in accelerated phase CML, 15% in myeloid blast phase CML, 8% in lymphoid blast phase CML, and 8% in Ph+ ALL.
 In a dose-optimization trial in patients with resistance or intolerance to prior imatinib therapy and chronic phase CML with a minimum of 60 months follow up, the rate of discontinuation for adverse reactions was 18% in patients treated with 100 mg once daily.
 
@@ -47,7 +47,7 @@ Table 2: Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed C
 | Pleural effusion | 19 | <1 | 2 | 0 |
 | Superficial localized edema | 13 | 37 | 0 | <1 |
 | Generalized edema | 3 | 7 | 0 | 0 |
-| Congestive heart failure/ cardiac dysfunctiona | 2 | 1 | <1 | <1 |
+| Congestive heart failure/cardiac dysfunctiona | 2 | 1 | <1 | <1 |
 | Pericardial effusion | 3 | 1 | 1 | 0 |
 | Pulmonary hypertension | 2 | 0 | <1 | 0 |
 | Pulmonary edema | 1 | 0 | 0 | 0 |
@@ -64,10 +64,7 @@ Table 2: Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed C
 | CNS bleeding | 0 | <1 | 0 | <1 |
 | Vomiting | 5 | 11 | 0 | 0 |
 | Muscle spasms | 5 | 21 | 0 | <1 |
-| a Includes cardiac failure acute, cardiac failure congestive, cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and left ventricular dysfunction. |  |  |  |  |
-| b Includes erythema, erythema multiforme, rash, rash generalized, rash macular, rash papular, rash pustular, skin exfoliation, and rash vesicular. |  |  |  |  |
-| c Adverse reaction of special interest with <10% frequency. |  |  |  |  |
-| d Includes conjunctival hemorrhage, ear hemorrhage, ecchymosis, epistaxis, eye hemorrhage, gingival bleeding, hematoma, hematuria, hemoptysis, intra-abdominal hematoma, petechiae, scleral hemorrhage, uterine hemorrhage, and vaginal hemorrhage. |  |  |  |  |
+| a Includes cardiac failure acute, cardiac failure congestive, cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and left ventricular dysfunction. b Includes erythema, erythema multiforme, rash, rash generalized, rash macular, rash papular, rash pustular, skin exfoliation, and rash vesicular. c Adverse reaction of special interest with <10% frequency. d Includes conjunctival hemorrhage, ear hemorrhage, ecchymosis, epistaxis, eye hemorrhage, gingival bleeding, hematoma, hematuria, hemoptysis, intra-abdominal hematoma, petechiae, scleral hemorrhage, uterine hemorrhage, and vaginal hemorrhage. |  |  |  |  |
 
 The cumulative rates of the majority of adverse reactions (all grades) in newly diagnosed patients with chronic phase CML were similar after 12 and 36 months minimum follow up including congestive heart failure/cardiac dysfunction (2% vs 2%), pericardial effusion (2% vs 3%), pulmonary edema (<1% vs 1%), gastrointestinal bleeding (2% vs 2%), diarrhea (18% vs 21%), and generalized edema (3% vs 3%).
 Cumulative adverse reaction rates (all grades) that increased between 12 months and 36 months minimum follow up included overall fluid retention (23% vs 31%), pleural effusion (12% vs 19%), and superficial edema (10% vs 13%).
@@ -77,72 +74,70 @@ At 36 months, there were 17 deaths in the dasatinib-treated patients (6.6%) and 
 
 Table 3: Adverse Reactions Reported in ≥10% of Patients with Chronic Phase CML Resistant or Intolerant to Prior Imatinib Therapy (minimum of 36 months follow up)
 
-| Percent (%) of Patients |  |  |
-| --- | --- | --- |
-|  | 100 mg Once Daily |  |
-|  | Chronic (n=165) |  |
-| Preferred Term | All Grades | Grade 3/4 |
-| Fluid retention | 42 | 5 |
-| Superficial localized edema | 21 | 0 |
-| Pleural effusion | 24 | 4 |
-| Generalized edema | 4 | 0 |
-| Pericardial effusion | 2 | 1 |
-| Congestive heart failure/cardiac dysfunctiona | 0 | 0 |
-| Pulmonary edema | 0 | 0 |
-| Headache | 33 | 1 |
-| Diarrhea | 28 | 2 |
-| Fatigue | 26 | 4 |
-| Dyspnea | 24 | 2 |
-| Musculoskeletal pain | 22 | 2 |
-| Nausea | 18 | 1 |
-| Skin rashb | 18 | 2 |
-| Myalgia | 13 | 0 |
-| Arthralgia | 12 | 1 |
-| Infection (including bacterial, viral, fungal, and non-specified) | 13 | 1 |
-| Abdominal pain | 12 | 1 |
-| Hemorrhage | 11 | 1 |
-| Gastrointestinal bleeding | 2 | 1 |
-| CNS bleeding | 0 | 0 |
-| Pruritus | 10 | 1 |
-| Pain | 10 | 1 |
-| a Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and ventricular failure. |  |  |
-| b Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalized erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin irritation, urticaria vesiculosa, and rash vesicular. |  |  |
+| Percent (%) of Patients |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 100 mg Once Daily |  |  |  |  |  |  |
+|  | Chronic (n=165) |  |  |  |  |  |  |
+| Preferred Term | All Grades | Grade 3/4 |  |  |  |  |  |
+| Fluid retention | 42 | 5 |  |  |  |  |  |
+| Superficial localized edema | 21 | 0 |  |  |  |  |  |
+| Pleural effusion | 24 | 4 |  |  |  |  |  |
+| Generalized edema | 4 | 0 |  |  |  |  |  |
+| Pericardial effusion | 2 | 1 |  |  |  |  |  |
+| Congestive heart failure/cardiac dysfunctiona | 0 | 0 |  |  |  |  |  |
+| Pulmonary edema | 0 | 0 |  |  |  |  |  |
+| Headache | 33 | 1 |  |  |  |  |  |
+| Diarrhea | 28 | 2 |  |  |  |  |  |
+| Fatigue | 26 | 4 |  |  |  |  |  |
+| Dyspnea | 24 | 2 |  |  |  |  |  |
+| Musculoskeletal pain | 22 | 2 |  |  |  |  |  |
+| Nausea | 18 | 1 |  |  |  |  |  |
+| Skin rashb | 18 | 2 |  |  |  |  |  |
+| Myalgia | 13 | 0 |  |  |  |  |  |
+| Arthralgia | 12 | 1 |  |  |  |  |  |
+| Infection (including bacterial, viral, fungal, and non-specified) | 13 | 1 |  |  |  |  |  |
+| Abdominal pain | 12 | 1 |  |  |  |  |  |
+| Hemorrhage | 11 | 1 |  |  |  |  |  |
+| Gastrointestinal bleeding | 2 | 1 |  |  |  |  |  |
+| CNS bleeding | 0 | 0 |  |  |  |  |  |
+| Pruritus | 10 | 1 |  |  |  |  |  |
+| Pain | 10 | 1 |  |  |  |  |  |
+| a Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and ventricular failure. b Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalized erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin irritation, urticaria vesiculosa, and rash vesicular. |  |  |  |  |  |  |  |
 
 With a minimum follow up of 60 months (see Table 3), the cumulative rates of the majority of adverse reactions (all grades) in patients with chronic phase CML treated with a starting dose of 100 mg once daily were identical with a minimum follow up of 24 and 60 months including congestive heart failure/cardiac dysfunction, pericardial effusion, pulmonary edema, and gastrointestinal bleeding or similar for diarrhea (27% vs 28%), and generalized edema (3% vs 4%).
 Cumulative adverse reaction rates (all grades) that increased between 24 months and 60 months minimum follow up included: overall fluid retention (34% vs 42%), pleural effusion (18% vs 24%), and superficial edema (18% vs 21%).
-The cumulative rate of Grade 3 or 4 pleural effusion was 2% vs 4%, respectively.
+The cumulative rate of Grade 3 or 4 pleural effusion was 2% versus 4%, respectively.
 
 Table 4: Adverse Reactions Reported in ≥10% of Patients with Advanced Phase CML Resistant or Intolerant to Prior Imatinib Therapy
 
-| Percent (%) of Patients |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 140 mg Once Daily |  |  |  |  |  |  |  |
-|  | Accelerated (n=157) |  | Myeloid Blast (n=74) |  | Lymphoid Blast (n=33) |  |  |  |
-| Preferred Term | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |
-| Fluid retention | 35 | 8 | 34 | 7 | 21 | 6 |  |  |
-| Superficial localized edema | 18 | 1 | 14 | 0 | 3 | 0 |  |  |
-| Pleural effusion | 21 | 7 | 20 | 7 | 21 | 6 |  |  |
-| Generalized edema | 1 | 0 | 3 | 0 | 0 | 0 |  |  |
-| Pericardial effusion | 3 | 1 | 0 | 0 | 0 | 0 |  |  |
-| Congestive heart failure/cardiac dysfunctiona | 0 | 0 | 4 | 0 | 0 | 0 |  |  |
-| Pulmonary edema | 1 | 0 | 4 | 3 | 0 | 0 |  |  |
-| Headache | 27 | 1 | 18 | 1 | 15 | 3 |  |  |
-| Diarrhea | 31 | 3 | 20 | 5 | 18 | 0 |  |  |
-| Fatigue | 19 | 2 | 20 | 1 | 9 | 3 |  |  |
-| Dyspnea | 20 | 3 | 15 | 3 | 3 | 3 |  |  |
-| Musculoskeletal pain | 11 | 0 | 8 | 1 | 0 | 0 |  |  |
-| Nausea | 19 | 1 | 23 | 1 | 21 | 3 |  |  |
-| Skin rashb | 15 | 0 | 16 | 1 | 21 | 0 |  |  |
-| Arthralgia | 10 | 0 | 5 | 1 | 0 | 0 |  |  |
-| Infection (including bacterial, viral, fungal, and non-specified) | 10 | 6 | 14 | 7 | 9 | 0 |  |  |
-| Hemorrhage | 26 | 8 | 19 | 9 | 24 | 9 |  |  |
-| Gastrointestinal bleeding | 8 | 6 | 9 | 7 | 9 | 3 |  |  |
-| CNS bleeding | 1 | 1 | 0 | 0 | 3 | 3 |  |  |
-| Vomiting | 11 | 1 | 12 | 0 | 15 | 0 |  |  |
-| Pyrexia | 11 | 2 | 18 | 3 | 6 | 0 |  |  |
-| Febrile neutropenia | 4 | 4 | 12 | 12 | 12 | 12 |  |  |
-| a Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and ventricular failure. |  |  |  |  |  |  |  |  |
-| b Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalized erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin irritation, urticaria vesiculosa, and rash vesicular. |  |  |  |  |  |  |  |  |
+| Percent (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 140 mg Once Daily |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Accelerated (n=157) |  | Myeloid Blast (n=74) |  | Lymphoid Blast (n=33) |  |  |  |  |  |  |  |  |  |
+| Preferred Term | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |
+| Fluid retention | 35 | 8 | 34 | 7 | 21 | 6 |  |  |  |  |  |  |  |  |
+| Superficial localized edema | 18 | 1 | 14 | 0 | 3 | 0 |  |  |  |  |  |  |  |  |
+| Pleural effusion | 21 | 7 | 20 | 7 | 21 | 6 |  |  |  |  |  |  |  |  |
+| Generalized edema | 1 | 0 | 3 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |
+| Pericardial effusion | 3 | 1 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |
+| Congestive heart failure/cardiac dysfunctiona | 0 | 0 | 4 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |
+| Pulmonary edema | 1 | 0 | 4 | 3 | 0 | 0 |  |  |  |  |  |  |  |  |
+| Headache | 27 | 1 | 18 | 1 | 15 | 3 |  |  |  |  |  |  |  |  |
+| Diarrhea | 31 | 3 | 20 | 5 | 18 | 0 |  |  |  |  |  |  |  |  |
+| Fatigue | 19 | 2 | 20 | 1 | 9 | 3 |  |  |  |  |  |  |  |  |
+| Dyspnea | 20 | 3 | 15 | 3 | 3 | 3 |  |  |  |  |  |  |  |  |
+| Musculoskeletal pain | 11 | 0 | 8 | 1 | 0 | 0 |  |  |  |  |  |  |  |  |
+| Nausea | 19 | 1 | 23 | 1 | 21 | 3 |  |  |  |  |  |  |  |  |
+| Skin rashb | 15 | 0 | 16 | 1 | 21 | 0 |  |  |  |  |  |  |  |  |
+| Arthralgia | 10 | 0 | 5 | 1 | 0 | 0 |  |  |  |  |  |  |  |  |
+| Infection (including bacterial, viral, fungal, and non-specified) | 10 | 6 | 14 | 7 | 9 | 0 |  |  |  |  |  |  |  |  |
+| Hemorrhage | 26 | 8 | 19 | 9 | 24 | 9 |  |  |  |  |  |  |  |  |
+| Gastrointestinal bleeding | 8 | 6 | 9 | 7 | 9 | 3 |  |  |  |  |  |  |  |  |
+| CNS bleeding | 1 | 1 | 0 | 0 | 3 | 3 |  |  |  |  |  |  |  |  |
+| Vomiting | 11 | 1 | 12 | 0 | 15 | 0 |  |  |  |  |  |  |  |  |
+| Pyrexia | 11 | 2 | 18 | 3 | 6 | 0 |  |  |  |  |  |  |  |  |
+| Febrile neutropenia | 4 | 4 | 12 | 12 | 12 | 12 |  |  |  |  |  |  |  |  |
+| a Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and ventricular failure. b Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalized erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin irritation, urticaria vesiculosa, and rash vesicular. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ### Laboratory Abnormalities
 
@@ -182,25 +177,25 @@ Laboratory abnormalities reported in patients with CML resistant or intolerant t
 
 Table 6: CTC Grade 3/4 Laboratory Abnormalities in Clinical Studies of CML: Resistance or Intolerance to Prior Imatinib Therapy
 
-|  | Percent (%) of Patients |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  | Advanced Phase CML |  |  |
-|  | Chronic Phase CML | 140 mg Once Daily |  |  |
-|  | 100 mg Once Daily (n=165) | Accelerated Phase (n=157) | Myeloid Blast Phase (n=74) | Lymphoid Blast Phase (n=33) |
-| Hematology Parameters* |  |  |  |  |
-| Neutropenia | 36 | 58 | 77 | 79 |
-| Thrombocytopenia | 24 | 63 | 78 | 85 |
-| Anemia | 13 | 47 | 74 | 52 |
-| Biochemistry Parameters |  |  |  |  |
-| Hypophosphatemia | 10 | 13 | 12 | 18 |
-| Hypokalemia | 2 | 7 | 11 | 15 |
-| Hypocalcemia | <1 | 4 | 9 | 12 |
-| Elevated SGPT (ALT) | 0 | 2 | 5 | 3 |
-| Elevated SGOT (AST) | <1 | 0 | 4 | 3 |
-| Elevated Bilirubin | <1 | 1 | 3 | 6 |
-| Elevated Creatinine | 0 | 2 | 8 | 0 |
-| CTC grades: neutropenia (Grade 3 ≥0.5–<1.0 × 109/L, Grade 4 <0.5 × 109/L); thrombocytopenia (Grade 3 ≥25–<50 × 109/L, Grade 4 <25 × 109/L); anemia (hemoglobin Grade 3 ≥65–<80 g/L, Grade 4 <65 g/L); elevated creatinine (Grade 3 >3–6 × upper limit of normal range (ULN), Grade 4 >6 × ULN); elevated bilirubin (Grade 3 >3–10 × ULN, Grade 4 >10 × ULN); elevated SGOT or SGPT (Grade 3 >5–20 × ULN, Grade 4 >20 × ULN); hypocalcemia (Grade 3 <7.0–6.0 mg/dL, Grade 4 <6.0 mg/dL); hypophosphatemia (Grade 3 <2.0–1.0 mg/dL, Grade 4 <1.0 mg/dL); hypokalemia (Grade 3 <3.0–2.5 mmol/L, Grade 4 <2.5 mmol/L). |  |  |  |  |
-| * Hematology parameters for 100 mg once-daily dosing in chronic phase CML reflects 60 month minimum follow up. |  |  |  |  |
+|  | Percent (%) of Patients |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Chronic Phase CML | Advanced Phase CML |  |  |  |  |  |
+|  | 100 mg Once Daily | 140 mg Once Daily |  |  |  |  |  |
+|  |  | Accelerated Phase | Myeloid Blast Phase | Lymphoid Blast Phase |  |  |  |
+|  | (n=165) | (n=157) | (n=74) | (n=33) |  |  |  |
+| Hematology Parameters* |  |  |  |  |  |  |  |
+| Neutropenia | 36 | 58 | 77 | 79 |  |  |  |
+| Thrombocytopenia | 24 | 63 | 78 | 85 |  |  |  |
+| Anemia | 13 | 47 | 74 | 52 |  |  |  |
+| Biochemistry Parameters |  |  |  |  |  |  |  |
+| Hypophosphatemia | 10 | 13 | 12 | 18 |  |  |  |
+| Hypokalemia | 2 | 7 | 11 | 15 |  |  |  |
+| Hypocalcemia | <1 | 4 | 9 | 12 |  |  |  |
+| Elevated SGPT (ALT) | 0 | 2 | 5 | 3 |  |  |  |
+| Elevated SGOT (AST) | <1 | 0 | 4 | 3 |  |  |  |
+| Elevated Bilirubin | <1 | 1 | 3 | 6 |  |  |  |
+| Elevated Creatinine | 0 | 2 | 8 | 0 |  |  |  |
+| CTC grades: neutropenia (Grade 3 ≥0.5–<1.0 × 109/L, Grade 4 <0.5 × 109/L); thrombocytopenia (Grade 3 ≥25–<50 × 109/L, Grade 4 <25 × 109/L); anemia (hemoglobin Grade 3 ≥65–<80 g/L, Grade 4 <65 g/L); elevated creatinine (Grade 3 >3–6 × upper limit of normal range (ULN), Grade 4 >6 × ULN); elevated bilirubin (Grade 3 >3–10 × ULN, Grade 4 >10 × ULN); elevated SGOT or SGPT (Grade 3 >5–20 × ULN, Grade 4 >20 × ULN); hypocalcemia (Grade 3 <7.0–6.0 mg/dL, Grade 4 <6.0 mg/dL); hypophosphatemia (Grade 3 <2.0–1.0 mg/dL, Grade 4 <1.0 mg/dL); hypokalemia (Grade 3 <3.0–2.5 mmol/L, Grade 4 <2.5 mmol/L). * Hematology parameters for 100 mg once-daily dosing in chronic phase CML reflects 60 month minimum follow up. |  |  |  |  |  |  |  |
 
 Among chronic phase CML patients with resistance or intolerance to prior imatinib therapy, cumulative Grade 3 or 4 cytopenias were similar at 2 and 5 years including: neutropenia (36% vs 36%), thrombocytopenia (23% vs 24%) and anemia (13% vs 13%).
 
@@ -234,7 +229,7 @@ Musculoskeletal and Connective Tissue Disorders: 1%–<10% – muscular weakness
 
 Investigations: 1%–<10% – weight increased, weight decreased; 0.1%–<1% – blood creatine phosphokinase increased.
 
-Infections and Infestations: 1%–<10% – pneumonia (including bacterial, viral, and fungal), upper respiratory tract infection/inflammation, herpes virus infection, enterocolitis infection, sepsis (including fatal outcomes (0.2%)).
+Infections and Infestations: 1%–<10% – pneumonia (including bacterial, viral, and fungal), upper respiratory tract infection/inflammation, herpes virus infection, enterocolitis infection, sepsis (including fatal outcomes [0.2%]).
 
 Metabolism and Nutrition Disorders: 1%–<10% – anorexia, appetite disturbances, hyperuricemia; 0.1%–<1% – hypoalbuminemia.
 
