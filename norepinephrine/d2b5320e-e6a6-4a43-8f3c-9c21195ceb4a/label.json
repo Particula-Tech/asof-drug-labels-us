@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA007513"
+  ],
+  "inn": "norepinephrine",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-3375-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "norepinephrine bitartrate",
+      "name": "LEVOPHED"
+    }
+  ],
+  "setid": "d2b5320e-e6a6-4a43-8f3c-9c21195ceb4a",
+  "source": "dailymed"
+}
