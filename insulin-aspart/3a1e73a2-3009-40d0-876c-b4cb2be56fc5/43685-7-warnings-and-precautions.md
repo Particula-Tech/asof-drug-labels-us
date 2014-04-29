@@ -65,8 +65,9 @@ In controlled and uncontrolled clinical trials, 3 of 2341 (0.1%) NovoLog-treated
 Increases in anti-insulin antibody titers that react with both human insulin and insulin aspart have been observed in patients treated with NovoLog.
 Increases in anti-insulin antibodies are observed more frequently with NovoLog than with regular human insulin.
 Data from a 12-month controlled trial in patients with type 1 diabetes suggest that the increase in these antibodies is transient, and the differences in antibody levels between the regular human insulin and insulin aspart treatment groups observed at 3 and 6 months were no longer evident at 12 months.
-The clinical significance of these antibodies is not known.
-These antibodies do not appear to cause deterioration in glycemic control or necessitate increases in insulin dose.
+In this study these antibodies did not appear to cause deterioration in glycemic control or necessitate increases in insulin dose.
+
+In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency towards hyperglycemia or hypoglycemia.
 
 ## 5.8 Mixing of Insulins
 

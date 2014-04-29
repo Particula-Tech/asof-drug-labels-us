@@ -187,7 +187,8 @@ Step 12: Pull the needle out of your skin.
 After that, you may see a drop of NovoLog® at the needle tip.
 This is normal and does not affect the dose you just received (See Figure L).
 
-- •If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
+- •If you see blood after you take the needle out of your skin, press the injection site lightly with a
+- piece of gauze or an alcohol swab.
   Do not rub the area.
 
 After your injection:
@@ -250,27 +251,27 @@ NovoLog® 3 mL PenFill® cartridge (100 Units/mL, U-100)
 
 Before using the NovoLog® cartridge
 
-1. 1.Talk with your healthcare provider for information about where to inject NovoLog® (injection sites) and how to give an injection with your insulin delivery device.
-2. 2.Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill® cartridge with the device.
+- 1.Talk with your healthcare provider for information about where to inject NovoLog® (injection sites) and how to give an injection with your insulin delivery device.
+- 2.Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill® cartridge with the device.
 
 How to use the NovoLog® cartridge
 
-1. 1.Check your insulin.
-   Just before using your NovoLog® cartridge, check to make sure that you have the right type of insulin.
-   This is especially important if you use different types of insulin.
-2. 2.Carefully look at the cartridge and the insulin inside it.
-   The insulin should be clear and colorless.
-   The tamper-resistant foil should be in place before the first use.
-   If the foil has been broken or removed before your first use of the cartridge, or if the insulin is cloudy or colored, do not use it.
-   Call Novo Nordisk at 1-800-727-6500.
-3. 3.Wash your hands well with soap and water.
-   If you clean your injection site with an alcohol swab, let the injection site dry before you inject.
-   Talk with your healthcare provider for guidance on injection sites and how to give an injection with your insulin delivery device.
-4. 4.Gather your supplies for injecting NovoLog®.
-5. 5.Insert a 3 mL cartridge into your Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery device.
-   Wipe the front rubber stopper of the 3 mL PenFill® cartridge with an alcohol swab, then attach a new needle.
-   For NovoFine® needles, remove the big outer needle cap and the inner needle cap.
-   Always use a new needle for each injection to prevent infection.
+- 1.Check your insulin.
+  Just before using your NovoLog® cartridge, check to make sure that you have the right type of insulin.
+  This is especially important if you use different types of insulin.
+- 2.Carefully look at the cartridge and the insulin inside it.
+  The insulin should be clear and colorless.
+  The tamper-resistant foil should be in place before the first use.
+  If the foil has been broken or removed before your first use of the cartridge, or if the insulin is cloudy or colored, do not use it.
+  Call Novo Nordisk at 1-800-727-6500.
+- 3.Wash your hands well with soap and water.
+  If you clean your injection site with an alcohol swab, let the injection site dry before you inject.
+  Talk with your healthcare provider for guidance on injection sites and how to give an injection with your insulin delivery device.
+- 4.Gather your supplies for injecting NovoLog®.
+- 5.Insert a 3 mL cartridge into your Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery device.
+  Wipe the front rubber stopper of the 3 mL PenFill® cartridge with an alcohol swab, then attach a new needle.
+  For NovoFine® needles, remove the big outer needle cap and the inner needle cap.
+  Always use a new needle for each injection to prevent infection.
 
 Giving the airshot before each injection:
 
@@ -431,8 +432,8 @@ Step 9:
   Press and hold in the dose button until the dose counter shows “0”.
   The “0” must line up with the dose pointer.
 - •A drop of insulin should be seen at the needle tip (See Figure J).
-  - oIf you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.
-  - oIf you still do not see a drop of insulin, change the needle and repeat steps 7 to 9.
+  - •If you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.
+  - •If you still do not see a drop of insulin, change the needle and repeat steps 7 to 9.
 
 (Figure J)
 
@@ -442,18 +443,18 @@ Step 10:
 
 - •Turn the dose selector to select the number of units you need to inject.
   The dose pointer should line up with your dose (See Figure K).
-  - oIf you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.
-  - oThe even numbers are printed on the dial.
-  - oThe odd numbers are shown as lines.
+  - •If you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.
+  - •The even numbers are printed on the dial.
+  - •The odd numbers are shown as lines.
 
 (Figure K)
 
 - •The NovoLog FlexTouch Pen insulin scale will show you how much insulin is left in your Pen (See Figure L).
 - •To see how much insulin is left in your NovoLog FlexTouch Pen:
-  - oTurn the dose selector until it stops.
+  - •Turn the dose selector until it stops.
     The dose counter will line up with the number of units of insulin that is left in your Pen.
     If the dose counter shows 80, there are at least 80 units left in your Pen.
-  - oIf the dose counter shows less than 80, the number shown in the dose counter is the number of units left in your Pen.
+  - •If the dose counter shows less than 80, the number shown in the dose counter is the number of units left in your Pen.
 
 (Figure L)
 
@@ -475,7 +476,7 @@ Step 11:
 Step 12:
 
 - •Insert the needle into your skin (See Figure N).
-  - oMake sure you can see the dose counter.
+  - •Make sure you can see the dose counter.
     Do not cover it with your fingers, this can stop your injection.
 
 (Figure N)
@@ -483,7 +484,7 @@ Step 12:
 Step 13:
 
 - •Press and hold down the dose button until the dose counter shows “0” (See Figure O).
-  - oThe “0” must line up with the dose pointer.
+  - •The “0” must line up with the dose pointer.
     You may then hear or feel a click.
 
 (Figure O)
@@ -493,15 +494,15 @@ Step 13:
 (Figure P)
 
 - 
-  - oWhen the dose counter returns to “0”, you will not get your full dose until 6 seconds later.
-  - oIf the needle is removed before you count to 6, you may see a stream of insulin coming from the needle tip.
-  - oIf you see a stream of insulin coming from the needle tip you will not get your full dose.
+  - •When the dose counter returns to “0”, you will not get your full dose until 6 seconds later.
+  - •If the needle is removed before you count to 6, you may see a stream of insulin coming from the needle tip.
+  - •If you see a stream of insulin coming from the needle tip you will not get your full dose.
     If this happens you should check your blood sugar levels more often because you may need more insulin.
 
 Step 14:
 
 - •Pull the needle out of your skin (See Figure Q).
-  - oIf you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
+  - •If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
     Do not rub the area.
 
 (Figure Q)
@@ -509,7 +510,7 @@ Step 14:
 Step 15:
 
 - •Carefully remove the needle from the Pen and throw it away (See Figure R).
-  - oDo not recap the needle.
+  - •Do not recap the needle.
     Recapping the needle can lead to needle stick injury.
 
 (Figure R)
@@ -519,7 +520,7 @@ Step 15:
 (Figure S)
 
 - 
-  - oDo not store the Pen with the needle attached.
+  - •Do not store the Pen with the needle attached.
     Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen.
 
 Step 16:
@@ -533,11 +534,11 @@ After your injection:
 - •Put your used NovoLog FlexTouch Pen and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - omade of a heavy-duty plastic
-  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - oupright and stable during use
-  - oleak-resistant
-  - oproperly labeled to warn of hazardous waste inside the container
+  - •made of a heavy-duty plastic
+  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+  - •upright and stable during use
+  - •leak-resistant
+  - •properly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
