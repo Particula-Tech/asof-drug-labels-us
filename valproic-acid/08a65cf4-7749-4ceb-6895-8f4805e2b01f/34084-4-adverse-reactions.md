@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following Adverse Reactions are discussed in greater detail in other sections of the labeling.
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 Hepatic failure (5.1)
 
@@ -12,7 +12,7 @@ Pancreatitis (5.5)
 
 Thrombocytopenia (5.9)
 
-Hyperammonemic encephalopathy (5.10, 5.11)
+Hyperammonemic encephalopathy (5.6, 5.10, 5.11)
 
 Multi-organ hypersensitivity reactions (5.13)
 
@@ -303,7 +303,7 @@ Acute pancreatitis including fatalities [see Warnings and Precautions (5.5)].
 
 Metabolic
 
-Hyperammonemia [see Warnings and Precautions (5.10,5.11)], hyponatremia, and inappropriate ADH secretion.
+Hyperammonemia [see Warnings and Precautions (5.10, 5.11)], hyponatremia, and inappropriate ADH secretion.
 
 There have been rare reports of Fanconi's syndrome occurring chiefly in children.
 

@@ -14,7 +14,7 @@ Tablets
 
 DEPAKOTE (dep-a-kOte)
 
-(divalproex sodium coated particles in capsules)
+(divalproex sodium)
 
 Sprinkle Capsules
 
@@ -36,9 +36,7 @@ Stopping Depakote or Depakene suddenly can cause serious problems.
 
 Depakote and Depakene can cause serious side effects, including:
 
-1. Serious liver damage that can cause death, especially in children younger than 2 years old.
-   The risk of getting this serious liver damage is more likely to happen within the first 6 months of treatment.
-   Call your healthcare provider right away if you get any of the following symptoms:In some cases, liver damage may continue despite stopping the drug.
+1. Serious liver damage that can cause death, especially in children younger than 2 years old.The risk of getting this serious liver damage is more likely to happen within the first 6 months of treatment.Call your healthcare provider right away if you get any of the following symptoms:In some cases, liver damage may continue despite stopping the drug.
    - nausea or vomiting that does not go away
    - loss of appetite
    - pain on the right side of your stomach (abdomen)
@@ -63,13 +61,10 @@ Depakote and Depakene can cause serious side effects, including:
    - Pregnancy Registry: If you become pregnant while taking Depakote or Depakene, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
      You can enroll in this registry by calling 1-888-233-2334.
      The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-3. Inflammation of your pancreas that can cause death.
-   Call your healthcare provider right away if you have any of these symptoms:
+3. Inflammation of your pancreas that can cause death.Call your healthcare provider right away if you have any of these symptoms:
    - severe stomach pain that you may also feel in your back
    - nausea or vomiting that does not go away
-4. Like other antiepileptic drugs, Depakote or Depakene may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-   Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:How can I watch for early symptoms of suicidal thoughts and actions?Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-   Do not stop Depakote or Depakene without first talking to a healthcare provider.
+4. Like other antiepileptic drugs, Depakote or Depakene may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you: How can I watch for early symptoms of suicidal thoughts and actions?Call your healthcare provider between visits as needed, especially if you are worried about symptoms.Do not stop Depakote or Depakene without first talking to a healthcare provider.
    Stopping Depakote or Depakene suddenly can cause serious problems.
    Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
    Suicidal thoughts or actions can be caused by things other than medicines.
@@ -145,7 +140,7 @@ How should I take Depakote or Depakene?
   Your healthcare provider will tell you how much Depakote or Depakene to take and when to take it.
 - Your healthcare provider may change your dose.
 - Do not change your dose of Depakote or Depakene without talking to your healthcare provider.
-- Do not stop taking Depakote or Depakote without first talking to your healthcare provider.
+- Do not stop taking Depakote or Depakene without first talking to your healthcare provider.
   Stopping Depakote or Depakene suddenly can cause serious problems.
 - Swallow Depakote tablets, Depakote ER tablets or Depakene capsules whole.
   Do not crush or chew Depakote tablets, Depakote ER tablets, or Depakene capsules.
@@ -209,11 +204,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Depakote or Depakene?
 
-- Store Depakote Extended Release Tablets between 59°F to 86°F (15°C to 30°C)
-- Store Depakote Delayed Release Tablets below 86°F (30°C)
-- Store Depakote Sprinkle Capsules below 77°F (25°C)
-- Store Depakene Capsules between 59°F to 77°F (15°C to 25°C)
-- Store Depakene Oral Solution below 86°F (30°C)
+- Store Depakote Extended Release Tablets between 59°F to 86°F (15°C to 30°C).
+- Store Depakote Delayed Release Tablets below 86°F (30°C).
+- Store Depakote Sprinkle Capsules below 77°F (25°C).
+- Store Depakene Capsules between 59°F to 77°F (15°C to 25°C).
+- Store Depakene Oral Solution below 86°F (30°C).
 
 Keep Depakote or Depakene and all medicines out of the reach of children.
 
@@ -232,7 +227,7 @@ For more information, go to www.rxabbvie.com or call 1-800-633-9110.
 
 What are the ingredients in Depakote or Depakene?
 
-Depakote
+Depakote:
 
 Active ingredient: divalproex sodium
 
@@ -289,4 +284,4 @@ For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-03-A924 February 2014
+03-A929 March 2014
