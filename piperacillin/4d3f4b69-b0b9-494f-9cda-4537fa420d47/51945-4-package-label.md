@@ -1,74 +1,70 @@
-# 2.25 gram Vial Label
+# 2.25 grams Label
 
 NDC 0409-3383-02 Rx only
 
-Piperacillin and
+Piperacillin and Tazobactam
 
-Tazobactam for Injection
+for Injection, USP
 
-2.25 grams*/vial
+- 2.25 grams*/vial
+- 10 x 2.25 gram Single Use Vials For IV Use Only
 
-SINGLE USE VIAL For IV Use Only
+*Each vial provides piperacillin and
 
-For IV Use Only
+tazobactam cryodesiccated powders
 
-*Each vial provides piperacillin and tazobac-
+for injection equivalent to 2 g piperacillin,
 
-tam cryodesiccated powders for injection
+0.25 g tazobactam and 4.69 mEq (108 mg)
 
-equivalent to 2 g piperacillin,
+of sodium.
 
-0.25 g tazobactam and
-
-4.69 mEq (108 mg) of sodium.
 Hospira
 
-# 3.375 gram Vial Label
+# 3.375 grams Label
 
 NDC 0409-3385-13 Rx only
 
-Piperacillin and
+Piperacillin and Tazobactam
 
-Tazobactam for Injection
+for Injection, USP
 
 3.375 grams*/vial
 
-SINGLE USE VIAL For IV Use Only
+10 x 3.375 gram Single Use Vials For IV Use Only
 
-For IV Use Only
+*Each vial provides piperacillin and
 
-*Each vial provides piperacillin and tazobac-
+tazobactam cryodesiccated powders
 
-tam cryodesiccated powders for injection
+for injection equivalent to 3 g piperacillin,
 
-equivalent to 3 g piperacillin,
+0.375 g tazobactam and 7.04 mEq
 
-0.375 g tazobactam and
+(162 mg) of sodium.
 
-7.04 mEq (162 mg) of sodium.
 Hospira
 
-# 4.5 gram Vial Label
+# 4.5 grams Label
 
 NDC 0409-3390-04 Rx only
 
-Piperacillin and
+Piperacillin and Tazobactam
 
-Tazobactam for Injection
+for Injection, USP
 
 4.5 grams*/vial
 
-SINGLE USE VIAL For IV Use Only
+10 x 4.5 gram Single Use Vials For IV Use Only
 
-For IV Use Only
+*Each vial provides piperacillin and
 
-*Each vial provides piperacillin and tazobac-
+tazobactam cryodesiccated powders
 
-tam cryodesiccated powders for injection
+for injection equivalent to 4 g piperacillin,
 
-equivalent to 4 g piperacillin,
+0.5 g tazobactam and 9.39 mEq (216 mg)
 
-0.5 g tazobactam and
+of sodium.
 
-9.39 mEq (216 mg) of sodium.
 Hospira

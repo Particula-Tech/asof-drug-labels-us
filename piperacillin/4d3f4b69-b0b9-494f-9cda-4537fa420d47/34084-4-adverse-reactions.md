@@ -1,124 +1,148 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Adverse Events From Clinical Trials
+## 6.1 Clinical Trials Experience
 
-During the initial clinical investigations, 2621 patients worldwide were treated with Piperacillin and Tazobactam for Injection in phase 3 trials.
-In the key North American clinical trials (n=830 patients), 90% of the adverse events reported were mild to moderate in severity and transient in nature.
-However, in 3.2% of the patients treated worldwide, Piperacillin and Tazobactam for Injection was discontinued because of adverse events primarily involving the skin (1.3%), including rash and pruritus; the gastrointestinal system (0.9%), including diarrhea, nausea, and vomiting; and allergic reactions (0.5%).
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse local reactions that were reported, irrespective of relationship to therapy with Piperacillin and Tazobactam for Injection, were phlebitis (1.3%), injection site reaction (0.5%), pain (0.2%), inflammation (0.2%), thrombophlebitis (0.2%), and edema (0.1%).
+During the initial clinical investigations, 2621 patients worldwide were treated with piperacillin and tazobactam for injection in phase 3 trials.
+In the key North American monotherapy clinical trials (n=830 patients), 90% of the adverse events reported were mild to moderate in severity and transient in nature.
+However, in 3.2% of the patients treated worldwide, piperacillin and tazobactam for injection was discontinued because of adverse events primarily involving the skin (1.3%), including rash and pruritus; the gastrointestinal system (0.9%), including diarrhea, nausea, and vomiting; and allergic reactions (0.5%).
 
-Based on patients from the North American trials (n=1063), the events with the highest incidence in patients, irrespective of relationship to Piperacillin and Tazobactam for Injection therapy, were diarrhea (11.3%); headache (7.7%); constipation (7.7%); nausea (6.9%); insomnia (6.6%); rash (4.2%), including maculopapular, bullous, urticarial, and eczematoid; vomiting (3.3%); dyspepsia (3.3%); pruritus (3.1%); stool changes (2.4%); fever (2.4%); agitation (2.1%); pain (1.7%); moniliasis (1.6%); hypertension (1.6%); dizziness (1.4%); abdominal pain (1.3%); chest pain (1.3%); edema (1.2%); anxiety (1.2%); rhinitis (1.2%); and dyspnea (1.1%).
+Table 3: Adverse Reactions from Piperacillin and Tazobactam for Injection Monotherapy Clinical Trials
 
-Additional adverse systemic clinical events reported in 1% or less of the patients in the initial North American trials are listed below within each body system.
+| System Organ Class Adverse Reaction |
+| --- |
+| Gastrointestinaldisorders |
+| Diarrhea (11.3%) |
+| Constipation (7.7%) |
+| Nausea (6.9%) |
+| Vomiting (3.3%) |
+| Dyspepsia (3.3%) |
+| Abdominal pain (1.3%) |
+| Pseudomembranous colitis (≤1%) |
+| General disorders and administration site conditions |
+| Fever (2.4%) |
+| Injection site reaction (≤1%) |
+| Rigors (≤1%) |
+| Immune system disorders |
+| Anaphylaxis (≤1%) |
+| Infections and infestations |
+| Candidiasis (1.6%) |
+| Metabolism and nutrition disorders |
+| Hypoglycemia (≤1%) |
+| Musculoskeletal and connective tissue disorders |
+| Myalgia(≤1%) |
+| Arthralgia (≤1%) |
+| Nervous system disorders |
+| Headache (7.7%) |
+| Insomnia (6.6%) |
+| Skin and subcutaneous tissue disorders |
+| Rash (4.2%, including maculopapular, bullous, and urticarial) |
+| Pruritus (3.1%) |
+| Vascular disorders |
+| Phlebitis (1.3%) |
+| Thrombophlebitis (≤1%) |
+| Hypotension (≤1%) |
+| Purpura (≤1%) |
+| Epistaxis (≤1%) |
+| Flushing (≤1%) |
 
-Autonomic nervous system – hypotension, ileus, syncope
+Nosocomial Pneumonia Trials
 
-Body as a whole – rigors, back pain, malaise
-
-Cardiovascular – tachycardia, including supraventricular and ventricular; bradycardia; arrhythmia, including atrial fibrillation, ventricular fibrillation, cardiac arrest, cardiac failure, circulatory failure, myocardial infarction
-
-Central nervous system – tremor, convulsions, vertigo
-
-Gastrointestinal – melena, flatulence, hemorrhage, gastritis, hiccough, ulcerative stomatitis
-
-Pseudomembranous colitis was reported in one patient during the clinical trials.
-The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment.
-(See WARNINGS.)
-
-Hearing and Vestibular System – tinnitus
-
-Hypersensitivity – anaphylaxis
-
-Metabolic and Nutritional – symptomatic hypoglycemia, thirst
-
-Musculoskeletal – myalgia, arthralgia
-
-Platelets, Bleeding, Clotting – mesenteric embolism, purpura, epistaxis, pulmonary embolism (See PRECAUTIONS: General).
-
-Psychiatric – confusion, hallucination, depression
-
-Reproductive, Female – leukorrhea, vaginitis
-
-Respiratory – pharyngitis, pulmonary edema, bronchospasm, coughing
-
-Skin and Appendages – genital pruritus, diaphoresis
-
-Special senses – taste perversion
-
-Urinary – retention, dysuria, oliguria, hematuria, incontinence
-
-Vision – photophobia
-
-Vascular (extracardiac) – flushing
-
-### Nosocomial Pneumonia Trials
-
-In a completed study of nosocomial lower respiratory tract infections, 222 patients were treated with Piperacillin and Tazobactam for Injection in a dosing regimen of 4.5 g every 6 hours in combination with an aminoglycoside and 215 patients were treated with imipenem/cilastatin (500 mg/500 mg q6h) in combination with an aminoglycoside.
+Two trials of nosocomial lower respiratory tract infections were conducted.
+In one study, 222 patients were treated with piperacillin and tazobactam for injection in a dosing regimen of 4.5 g every 6 hours in combination with an aminoglycoside and 215 patients were treated with imipenem/cilastatin (500 mg/500 mg q6h) in combination with an aminoglycoside.
 In this trial, treatment-emergent adverse events were reported by 402 patients, 204 (91.9%) in the piperacillin/tazobactam group and 198 (92.1%) in the imipenem/cilastatin group.
 Twenty-five (11%) patients in the piperacillin/tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
 
-In this study of Piperacillin and Tazobactam for Injection in combination with an aminoglycoside, adverse events that occurred in more than 1% patients and were considered by the investigator to be drug-related were: diarrhea (17.6%), fever (2.7%), vomiting (2.7%), urinary tract infection (2.7%), rash (2.3%), abdominal pain (1.8%), generalized edema (1.8%), moniliasis (1.8%), nausea (1.8%), oral moniliasis (1.8%), BUN increased (1.8%), creatinine increased (1.8%), peripheral edema (1.8%), abdomen enlarged (1.4%), headache (1.4%), constipation (1.4%), liver function tests abnormal (1.4%), thrombocythemia (1.4%), excoriations (1.4%), and sweating (1.4%).
+The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 
-Drug-related adverse events reported in 1% or less of patients in the nosocomial pneumonia study of Piperacillin and Tazobactam for Injection with an aminoglycoside were: acidosis, acute kidney failure, agitation, alkaline phosphatase increased, anemia, asthenia, atrial fibrillation, chest pain, CNS depression, colitis, confusion, convulsion, cough increased, thrombocytopenia, dehydration, depression, diplopia, drug level decreased, dry mouth, dyspepsia, dysphagia, dyspnea, dysuria, eosinophilia, fungal dermatitis, gastritis, glossitis, grand mal convulsion, hematuria, hyperglycemia, hypernatremia, hypertension, hypertonia, hyperventilation, hypochromic anemia, hypoglycemia, hypokalemia, hyponatremia, hypophosphatemia, hypoxia, ileus, injection site edema, injection site pain, injection site reaction, kidney function abnormal, leukocytosis, leukopenia, local reaction to procedure, melena, pain, prothrombin decreased, pruritus, respiratory disorder, SGOT increased, SGPT increased, sinus bradycardia, somnolence, stomatitis, stupor, tremor, tachycardia, ventricular extrasystoles, and ventricular tachycardia.
+Table 4: Adverse Reactions from Piperacillin and Tazobactam Injection Plus Aminoglycoside Clinical TrialsFor adverse drug reactions that appeared in both studies the higher frequency is presented.
 
-In a previous nosocomial pneumonia study conducted with a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside, the following adverse events, irrespective of drug relationship, were observed: diarrhea (20%); constipation (8.4%); agitation (7.1%); nausea (5.8%); headache (4.5%); insomnia (4.5%); oral thrush (3.9%); erythematous rash (3.9%); anxiety (3.2%); fever (3.2%); pain (3.2%); pruritus (3.2%); hiccough (2.6%); vomiting (2.6%); dyspepsia (1.9%); edema (1.9%); fluid overload (1.9%); stool changes (1.9%); anorexia (1.3%); cardiac arrest (1.3%); confusion (1.3%); diaphoresis (1.3%); duodenal ulcer (1.3%); flatulence (1.3%); hypertension (1.3%); hypotension (1.3%); inflammation at injection site (1.3%); pleural effusion (1.3%); pneumothorax (1.3%); rash, not otherwise specified (1.3%); supraventricular tachycardia (1.3%); thrombophlebitis (1.3%); and urinary incontinence (1.3%).
+| System Organ Class Adverse Reaction |
+| --- |
+| Blood and lymphatic system disorders |
+| Thrombocythemia (1.4%) |
+| Anemia (≤1%) |
+| Thrombocytopenia (≤1%) |
+| Eosinophilia (≤1%) |
+| Gastrointestinal disorders |
+| Diarrhea (20%) |
+| Constipation (8.4%) |
+| Nausea (5.8%) |
+| Vomiting (2.7%) |
+| Dyspepsia (1.9%) |
+| Abdominal pain (1.8%) |
+| Stomatitis (≤1%) |
+| General disorders and administration site conditions |
+| Fever (3.2%) |
+| Injection site reaction (≤1%) |
+| Infections and infestations |
+| Oral candidiasis (3.9%) |
+| Candidiasis (1.8%) |
+| Investigations |
+| BUN increased (1.8%) |
+| Blood creatinine increased (1.8%) |
+| Liver function test abnormal (1.4%) |
+| Alkaline phosphatase increased (≤1%) |
+| Aspartate aminotransferase increased (≤1%) |
+| Alanine aminotransferase increased (≤1%) |
+| Metabolism and nutrition disorders |
+| Hypoglycemia (≤1%) |
+| Hypokalemia (≤1%) |
+| Nervous system disorders |
+| Headache (4.5%) |
+| Insomnia (4.5%) |
+| Renal and urinary disorders |
+| Renal failure (≤1%) |
+| Skin and subcutaneous tissue disorders |
+| Rash (3.9%) |
+| Pruritus (3.2%) |
+| Vascular disorders |
+| Thrombophlebitis (1.3%) |
+| Hypotension (1.3%) |
 
-Adverse events irrespective of drug relationship observed in 1% or less of patients in the above study with Piperacillin and Tazobactam for Injection and an aminoglycoside included: aggressive reaction (combative), angina, asthenia, atelectasis, balanoposthitis, cerebrovascular accident, chest pain, conjunctivitis, deafness, dyspnea, earache, ecchymosis, fecal incontinence, gastric ulcer, gout, hemoptysis, hypoxia, pancreatitis, perineal irritation/pain, urinary tract infection with trichomonas, vitamin B12 deficiency anemia, xerosis, and yeast in urine.
+Pediatrics
 
-### Pediatrics
+Studies of piperacillin and tazobactam for injection in pediatric patients suggest a similar safety profile to that seen in adults.
+In a prospective, randomized, comparative, open-label clinical trial of pediatric patients with severe intra-abdominal infections (including appendicitis and/or peritonitis), 273 patients were treated with piperacillin and tazobactam for injection (112.5 mg/kg every 8 hours) and 269 patients were treated with cefotaxime (50 mg/kg) plus metronidazole (7.5 mg/kg) every 8 hours.
+In this trial, treatment-emergent adverse events were reported by 146 patients, 73 (26.7%) in the piperacillin and tazobactam for injection group and 73 (27.1%) in the cefotaxime/metronidazole group.
+Six patients (2.2%) in the piperacillin and tazobactam for injection group and 5 patients (1.9%) in the cefotaxime/metronidazole group discontinued due to an adverse event.
 
-Studies of Piperacillin and Tazobactam for Injection in pediatric patients suggest a similar safety profile to that seen in adults.
-In a prospective, randomized, comparative, open-label clinical trial of pediatric patients with severe intra-abdominal infections (including appendicitis and/or peritonitis), 273 patients were treated with Piperacillin and Tazobactam for Injection (112.5 mg/kg every 8 hours) and 269 patients were treated with cefotaxime (50 mg/kg) plus metronidazole (7.5 mg/kg) every 8 hours.
-In this trial, treatment-emergent adverse events were reported by 146 patients, 73 (26.7%) in the Piperacillin and Tazobactam for Injection group and 73 (27.1%) in the cefotaxime/metronidazole group.
-Six patients (2.2%) in the Piperacillin and Tazobactam for Injection group and 5 patients (1.9%) in the cefotaxime/metronidazole group discontinued due to an adverse event.
+Adverse Laboratory Events (Seen During Clinical Trials)
 
-In this study, adverse events that were reported in more than 1% of patients, irrespective of relationship to therapy with Piperacillin and Tazobactam for Injection were: diarrhea (7%), fever (4.8%), vomiting (3.7%), local reaction (3.3%), abscess (2.2%), sepsis (2.2%), abdominal pain (1.8%), infection (1.8%), bloody diarrhea (1.1%), pharyngitis (1.5%), constipation (1.1%) and SGOT increase (1.1%).
+Of the trials reported, including that of nosocomial lower respiratory tract infections in which a higher dose of piperacillin and tazobactam for injection was used in combination with an aminoglycoside, changes in laboratory parameters include:
 
-Adverse events reported in 1% or less of pediatric patients receiving Piperacillin and Tazobactam for Injection are consistent with adverse events reported in adults.
+Hematologic–decreases in hemoglobin and hematocrit, thrombocytopenia, increases in platelet count, eosinophilia, leukopenia, neutropenia.
+These patients were withdrawn from therapy; some had accompanying systemic symptoms (e.g., fever, rigors, chills).
 
-Additional controlled studies in pediatric patients showed a similar safety profile as that described above.
+Coagulation–positive direct Coombs’ test, prolonged prothrombin time, prolonged partial thromboplastin time
 
-### Post-Marketing Experience
+Hepatic–transient elevations of AST (SGOT), ALT (SGPT), alkaline phosphatase, bilirubin
 
-Additional adverse events reported from worldwide marketing experience with Piperacillin and Tazobactam for Injection, occurring under circumstances where causal relationship to Piperacillin and Tazobactam for Injection is uncertain:
+Renal–increases in serum creatinine, blood urea nitrogen
 
-Gastrointestinal – hepatitis, cholestatic jaundice
+Additional laboratory events include abnormalities in electrolytes (i.e., increases and decreases in sodium, potassium, and calcium), hyperglycemia, decreases in total protein or albumin, blood glucose decreased, gamma-glutamyltransferase increased, hypokalemia, and bleeding time prolonged.
 
-Hematologic – hemolytic anemia, anemia, thrombocytosis, agranulocytosis, pancytopenia
+## 6.2 Post-Marketing Experience
 
-Immune – hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock)
+In addition to the adverse drug reactions identified in clinical trials in Table 3 and Table 4, the following adverse reactions have been identified during postapproval use of piperacillin and tazobactam for injection.
 
-Infections – candidal superinfections
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish causal relationship to drug exposure.
 
-Renal – interstitial nephritis, renal failure
+Gastrointestinal–hepatitis, jaundice
 
-Skin and Appendages – erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis
+Hematologic–hemolytic anemia, agranulocytosis, pancytopenia
 
-Post-marketing experience with Piperacillin and Tazobactam for Injection in pediatric patients suggests a similar safety profile to that seen in adults.
+Immune–hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock)
 
-## Adverse Laboratory Events (Seen During Clinical Trials)
+Renal–interstitial nephritis
 
-Of the studies reported, including that of nosocomial lower respiratory tract infections in which a higher dose of Piperacillin and Tazobactam for Injection was used in combination with an aminoglycoside, changes in laboratory parameters, without regard to drug relationship, include:
+Skin and Appendages–erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis
 
-Hematologic – decreases in hemoglobin and hematocrit, thrombocytopenia, increases in platelet count, eosinophilia, leukopenia, neutropenia.
-The leukopenia/neutropenia associated with Piperacillin and Tazobactam for Injection administration appears to be reversible and most frequently associated with prolonged administration, ie, ≥21 days of therapy.
-These patients were withdrawn from therapy; some had accompanying systemic symptoms (eg, fever, rigors, chills).
-
-Coagulation – positive direct Coombs’ test, prolonged prothrombin time, prolonged partial thromboplastin time
-
-Hepatic – transient elevations of AST (SGOT), ALT (SGPT), alkaline phosphatase, bilirubin
-
-Renal – increases in serum creatinine, blood urea nitrogen
-
-Urinalysis – proteinuria, hematuria, pyuria
-
-Additional laboratory events include abnormalities in electrolytes (ie, increases and decreases in sodium, potassium, and calcium), hyperglycemia, decreases in total protein or albumin, blood glucose decreased, gamma-glutamyltransferase increased, hypokalemia, and bleeding time prolonged.
+## 6.3 Additional Experience with Piperacillin
 
 The following adverse reaction has also been reported for piperacillin for injection:
 
-Skeletal – prolonged muscle relaxation (See PRECAUTIONS: Drug Interactions.)
+Skeletal–prolonged muscle relaxation [see Drug Interactions (7.4)].
 
-Piperacillin therapy has been associated with an increased incidence of fever and rash in cystic fibrosis patients.
-
-To report SUSPECTED ADVERSE EVENTS, contact FDA at 1-800-FDA-1088 or www.fda.gov.
+Post-marketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults

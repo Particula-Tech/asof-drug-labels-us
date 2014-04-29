@@ -1,29 +1,28 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Piperacillin and Tazobactam for Injection is indicated for the treatment of patients with moderate to severe infections caused by piperacillin-resistant, piperacillin/tazobactam-susceptible, β-lactamase producing strains of the designated microorganisms in the specified conditions listed below:
+Piperacillin and tazobactam for injection USP is a combination product consisting of a penicillin-class antibacterial, piperacillin, and a β-lactamase inhibitor, tazobactam, indicated for the treatment of patients with moderate to severe infections caused by susceptible isolates of the designated bacteria in the conditions listed below.
 
-Appendicitis (complicated by rupture or abscess) and peritonitis caused by piperacillin-resistant, β-lactamase producing strains of Escherichia coli or the following members of the Bacteroides fragilis group: B. fragilis, B. ovatus, B. thetaiotaomicron, or B. vulgatus.
-The individual members of this group were studied in less than 10 cases.
+## 1.1 Intra-abdominal Infections
 
-Uncomplicated and complicated skin and skin structure infections, including cellulitis, cutaneous abscesses and ischemic/diabetic foot infections caused by piperacillin-resistant, β-lactamase producing strains of Staphylococcus aureus.
+Appendicitis (complicated by rupture or abscess) and peritonitis caused by β-lactamase producing isolates of Escherichia coli or the following members of the Bacteroidesfragilisgroup: B. fragilis, B. ovatus, B. thetaiotaomicron, or B. vulgatus.
+The individual members of this group were studied in fewer than 10 cases.
 
-Postpartum endometritis or pelvic inflammatory disease caused by piperacillin-resistant, β-lactamase producing strains of Escherichia coli.
-Community-acquired pneumonia (moderate severity only) caused by piperacillin-resistant, β-lactamase producing strains of Haemophilus influenzae.
+## 1.2 Skin and Skin Structure Infections
 
-Nosocomial pneumonia (moderate to severe) caused by piperacillin-resistant, β-lactamase producing strains of Staphylococcus aureus and by piperacillin/tazobactam-susceptible Acinetobacter baumanii, Haemophilus influenzae, Klebsiella pneumoniae, and Pseudomonas aeruginosa (Nosocomial pneumonia caused by P. aeruginosa should be treated in combination with an aminoglycoside).
-(See DOSAGE AND ADMINISTRATION.)
+Uncomplicated and complicated skin and skin structure infections, including cellulitis, cutaneous abscesses and ischemic/diabetic foot infections caused by β-lactamase producing isolates of Staphylococcus aureus.
 
-Piperacillin and Tazobactam for Injection is indicated only for the specified conditions listed above.
-Infections caused by piperacillin-susceptible organisms, for which piperacillin has been shown to be effective, are also amenable to Piperacillin and Tazobactam for Injection treatment due to its piperacillin content.
-The tazobactam component of this combination product does not decrease the activity of the piperacillin component against piperacillin-susceptible organisms.
-Therefore, the treatment of mixed infections caused by piperacillin-susceptible organisms and piperacillin-resistant, β-lactamase producing organisms susceptible to Piperacillin and Tazobactam for Injection should not require the addition of another antibiotic.
-(See DOSAGE AND ADMINISTRATION.)
+## 1.3 Female Pelvic Infections
 
-Piperacillin and Tazobactam for Injection is useful as presumptive therapy in the indicated conditions prior to the identification of causative organisms because of its broad spectrum of bactericidal activity against gram-positive and gram-negative aerobic and anaerobic organisms.
+Postpartum endometritis or pelvic inflammatory disease caused by β-lactamase producing isolates of Escherichia coli.
 
-Appropriate cultures should usually be performed before initiating antimicrobial treatment in order to isolate and identify the organisms causing infection and to determine their susceptibility to Piperacillin and Tazobactam for Injection.
-Antimicrobial therapy should be adjusted, if appropriate, once the results of culture(s) and antimicrobial susceptibility testing are known.
+## 1.4 Community-acquired Pneumonia
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Piperacillin and Tazobactam for Injection and other antibacterial drugs, Piperacillin and Tazobactam for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+Community-acquired pneumonia (moderate severity only) caused by β-lactamase producing isolates of Haemophilusinfluenzae.
+
+## 1.5 Nosocomial Pneumonia
+
+Nosocomial pneumonia (moderate to severe) caused by β-lactamase producing isolates of Staphylococcus aureusand by piperacillin/tazobactam-susceptible Acinetobacterbaumannii, Haemophilusinfluenzae, Klebsiellapneumoniae, and Pseudomonas aeruginosa(Nosocomial pneumonia caused by P. aeruginosashould be treated in combination with an aminoglycoside) [see Dosage and Administration (2)].
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of piperacillin and tazobactam for injection USP and other antibacterial drugs, piperacillin and tazobactam for injection USP should be used only to treat infections that are proven or strongly suspected to be caused by bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
