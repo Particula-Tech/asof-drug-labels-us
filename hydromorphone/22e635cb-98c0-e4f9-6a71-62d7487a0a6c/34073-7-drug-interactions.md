@@ -2,12 +2,15 @@
 
 ## 7.1 CNS Depressants
 
-Avoid use of EXALGO with central nervous system depressants such as hypnotics, sedatives, general anesthetics, antipsychotics and alcohol, due to the increased risk of respiratory depression, hypotension and profound sedation or coma.
+The concomitant use of EXALGO with other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma and death.
+Monitor patients receiving CNS depressants and EXALGO for signs of respiratory depression, sedation and hypotension.
 
-## 7.2 Mixed Agonist/Antagonist Opioid Analgesics
+When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 
-Mixed agonist/antagonists (buprenorphine, nalbuphine, pentazocine) may reduce the analgesic effect of EXALGO and/or may precipitate withdrawal symptoms in these patients.
-Avoid the use of agonist/antagonist analgesics in patients receiving EXALGO.
+## 7.2 Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
+
+Mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) and partial agonist (buprenorphine) analgesics may reduce the analgesic effect of EXALGO or precipitate withdrawal symptoms.
+Avoid the use of mixed agonist/antagonist and partial agonist analgesics in patients receiving EXALGO.
 
 ## 7.3 Monoamine Oxidase Inhibitors (MAOI)
 

@@ -2,7 +2,7 @@
 
 How Supplied
 
-EXALGO Tablet Strengths
+EXALGO Extended-Release Tablet Strengths
 
 | Strength | Color | Tablet Description | Bottle Count | NDC |
 | --- | --- | --- | --- | --- |

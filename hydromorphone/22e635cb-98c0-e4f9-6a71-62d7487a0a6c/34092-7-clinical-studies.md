@@ -20,5 +20,4 @@ The proportion of patients with various degrees of improvement from screening to
 For this analysis, patients who discontinued treatment for any reason prior to Week 12 were assigned a value of zero improvement.
 
 Figure 2.
-
 Percent Reduction in Average Pain Intensity from Screening to Week 12 or Final Visit

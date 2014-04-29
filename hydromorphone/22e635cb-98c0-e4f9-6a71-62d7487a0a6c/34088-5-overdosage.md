@@ -1,15 +1,9 @@
 # 10 OVERDOSAGE
 
-Clinical Presentation
-
-Acute overdosage with opioids can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and sometimes pulmonary edema, bradycardia, hypotension and death.
+Clinical Presentation Acute overdosage with opioids can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and sometimes pulmonary edema, bradycardia, hypotension and death.
 Marked mydriasis rather than miosis may be seen due to severe hypoxia in overdose situations.
 
-Treatment of Overdose
-
-Due to the delayed mean apparent peak plasma level of EXALGO occurring at 16 hours following administration as well as the 11 hour mean elimination half-life of EXALGO, patients who receive an overdose will require an extended period of monitoring and treatment that may go beyond 24 to 48 hours.
-
-In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation if needed.
+Treatment of Overdose In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation if needed.
 Employ other supportive measures (including oxygen, vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life support techniques.
 

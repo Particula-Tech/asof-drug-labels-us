@@ -1,14 +1,10 @@
 # 1 INDICATIONS AND USAGE
 
-EXALGO is indicated for the management of moderate to severe pain in opioid tolerant patients requiring continuous, around-the-clock opioid analgesia for an extended period of time.
+EXALGO is indicated for the management of pain in opioid-tolerant patients severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
 
-Patients considered opioid tolerant are those who are taking at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl/hour, 30 mg oral oxycodone/day, 8 mg oral hydromorphone/day, 25 mg oral oxymorphone/day or an equianalgesic dose of another opioid, for a week or longer.
+Patients considered opioid tolerant are those who are receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl/hour, 30 mg oral oxycodone/day, 8 mg oral hydromorphone/day, 25 mg oral oxymorphone/day or an equianalgesic dose of another opioid.
 
 Limitations of Use
 
-EXALGO is not for use:
-
-- As an as-needed (prn) analgesic
-- For pain that is mild or not expected to persist for an extended period of time
-- For acute pain
-- For postoperative pain.
+- Because of the risks of addiction, abuse, and misuse with opioids, even at recommended doses, and because of the greater risks of overdose and death with extended-release opioid formulations, reserve EXALGO for use in patients for whom alternative treatment options (e.g., non-opioid analgesics or immediate-release opioids) are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
+- EXALGO is not indicated as an as-needed (prn) analgesic.

@@ -2,15 +2,15 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Respiratory Depression [see Warnings and Precautions (5.2)]
-- Chronic Pulmonary Disease [see Warnings and Precautions (5.5)]
-- Head Injuries and Increased Intracranial Pressure [see Warnings and Precautions (5.8)]
-- Interactions with Other CNS Depressants [see Warnings and Precautions (5.6)]
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+- Interactions with Other CNS Depressants [see Warnings and Precautions (5.4)]
 - Hypotensive Effect [see Warnings and Precautions (5.7)]
 - Gastrointestinal Effects [see Warnings and Precautions (5.9)]
 - Seizures [see Warnings and Precautions (5.11)]
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -28,7 +28,6 @@ A total of 447 patients were enrolled into the open-label titration phase with 2
 The adverse reactions that were reported in at least 2% of the patients are contained in Table 2.
 
 Table 2.
-
 Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients with Moderate to Severe Low Back Pain During the Open-Label Titration Phase or Double-Blind Treatment Phase by Preferred Term
 
 | Preferred Term | Open-Label Titration Phase | Double-Blind Treatment Phase |  |
@@ -39,19 +38,14 @@ Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients wit
 | Somnolence | 39 (9) | 1 (1) | 0 (0) |
 | Headache | 35 (8) | 7 (5) | 10 (7) |
 | Vomiting | 29 (6) | 8 (6) | 6 (4) |
-| Drug Withdrawal Syndrome | 22 (5) | 13 (10) | 16 (12) |
 | Pruritus | 21 (5) | 1 (1) | 0 (0) |
 | Dizziness | 17 (4) | 3 (2) | 2 (1) |
-| Asthenia/Fatigue | 16 (4) | 2 (1) | 6 (4) |
 | Insomnia | 13 (3) | 7 (5) | 5 (4) |
-| Diarrhea | 13 (3) | 5 (4) | 9 (7) |
-| Back Pain | 13 (3) | 6 (4) | 8 (6) |
 | Dry Mouth | 13 (3) | 2 (1) | 0 (0) |
 | Edema Peripheral | 13 (3) | 3 (2) | 1 (1) |
 | Hyperhidrosis | 13 (3) | 2 (1) | 2 (1) |
 | Anorexia/Decreased Appetite | 10 (2) | 2 (1) | 0 (0) |
 | Arthralgia | 9 (2) | 8 (6) | 3 (2) |
-| Anxiety | 9 (2) | 0 (0) | 4 (3) |
 | Abdominal Pain | 9 (2) | 4 (3) | 3 (2) |
 | Muscle Spasms | 5 (1) | 3 (2) | 1 (1) |
 | Weight Decreased | 3 (1) | 4 (3) | 3 (2) |
@@ -59,7 +53,6 @@ Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients wit
 The adverse reactions that were reported in at least 2% of the total treated patients (N=2,474) in the 14 chronic clinical trials are contained in Table 3.
 
 Table 3.
-
 Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients with Chronic Pain Receiving EXALGO in 14 Clinical Studies by Preferred Term
 
 | Preferred Term | All Patients (N=2,474) |
@@ -81,7 +74,7 @@ Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients wit
 | Abdominal Pain | 115 (5) |
 | Anxiety | 95 (4) |
 | Back Pain | 95 (4) |
-| Dyspepsia* | 88 (4) |
+| DyspepsiaReflux esophagitis, gastroesophageal reflux disease and Barrett's esophagus were grouped and reported with dyspepsia | 88 (4) |
 | Depression | 81 (3) |
 | Dyspnea | 76 (3) |
 | Muscle Spasms | 74 (3) |
@@ -94,8 +87,6 @@ Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients wit
 | Fall | 51 (2) |
 | Chest pain | 51 (2) |
 
-* Reflux esophagitis, gastroesophageal reflux disease and Barrett’s esophagus were grouped and reported with dyspepsia
-
 The following Adverse Reactions occurred in patients with an overall frequency of < 2% and are listed in descending order within each System Organ Class:
 
 Cardiac disorders: palpitations, tachycardia, bradycardia, extrasystoles
@@ -106,9 +97,9 @@ Endocrine disorders: hypogonadism
 
 Eye disorders: vision blurred, diplopia, dry eye, miosis
 
-Gastrointestinal disorders: esophageal reflux aggravated, flatulence, dysphagia, hematochezia, abdominal distension, hemorrhoids, abnormal feces, intestinal obstruction, eructation, diverticulum, gastrointestinal motility disorder, large intestine perforation, anal fissure, bezoar, duodenitis, ileus, impaired gastric emptying, painful defecation
+Gastrointestinal disorders: flatulence, dysphagia, hematochezia, abdominal distension, hemorrhoids, abnormal feces, intestinal obstruction, eructation, diverticulum, gastrointestinal motility disorder, large intestine perforation, anal fissure, bezoar, duodenitis, ileus, impaired gastric emptying, painful defecation
 
-General disorders and administration site conditions: chills, influenza-like illness, malaise, feeling abnormal, feeling of body temperature change, feeling jittery, hangover, gait disturbance, feeling drunk, body temperature decreased
+General disorders and administration site conditions: chills, malaise, feeling abnormal, feeling of body temperature change, feeling jittery, hangover, gait disturbance, feeling drunk, body temperature decreased
 
 Infections and infestations: gastroenteritis, diverticulitis
 
@@ -122,7 +113,7 @@ Musculoskeletal and connective tissue disorders: myalgia
 
 Nervous system disorders: tremor, sedation, hypoesthesia, paresthesia, disturbance in attention, memory impairment, dysarthria, syncope, balance disorder, dysgeusia, depressed level of consciousness, coordination abnormal, hyperesthesia, myoclonus, dyskinesia, crying, hyperreflexia, encephalopathy, cognitive disorder, convulsion, psychomotor hyperactivity
 
-Psychiatric disorders: confusional state, nervousness, restlessness, abnormal dreams, mood altered, hallucination, sleep disorder, panic attack, euphoric mood, paranoia, dysphoria, listless, suicide ideation, libido decreased, aggression
+Psychiatric disorders: confusional state, nervousness, restlessness, abnormal dreams, mood altered, hallucination, panic attack, euphoric mood, paranoia, dysphoria, listless, suicide ideation, libido decreased, aggression
 
 Renal and urinary disorders: dysuria, urinary retention, urinary frequency, urinary hesitation, micturition disorder
 
@@ -130,7 +121,7 @@ Reproductive system and breast disorders: erectile dysfunction, sexual dysfuncti
 
 Respiratory, thoracic and mediastinal disorders: rhinorrhea, respiratory distress, hypoxia, bronchospasm, sneezing, hyperventilation, respiratory depression
 
-Skin and subcutaneous tissue disorders: erythema, skin burning sensation
+Skin and subcutaneous tissue disorders: erythema
 
 Vascular disorders: flushing, hypertension, hypotension
 

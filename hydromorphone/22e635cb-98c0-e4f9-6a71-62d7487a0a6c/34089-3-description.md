@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
-EXALGO tablets are for oral use and contain hydromorphone hydrochloride, a mu-opioid agonist.
+EXALGO extended-release tablets are for oral use and contain hydromorphone hydrochloride, a mu-opioid agonist.
 
-Hydromorphone hydrochloride USP is 4,5α-epoxy-3-hydroxy-17-methlymorphinan-6-one hydrochloride.
+Hydromorphone hydrochloride USP is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.
 Hydromorphone hydrochloride is a white or almost white crystalline powder that is freely soluble in water, very slightly soluble in ethanol (96%), and practically insoluble in methylene chloride.
 Its empirical formula is C17H19NO3•HCl.
 The compound has the following structural formula:
