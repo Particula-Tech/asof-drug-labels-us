@@ -47,7 +47,7 @@ US Patent Nos: 5,972,920; 5,990,100 and foreign patents pending.
 Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, Texas 76177 USA
 
-Manufactured by: CPL Mississauga, Ontario, Canada L5N 6L6
+Manufactured by: CPL, Mississauga, Ontario, Canada L5N 6L6
 
 GALDERMA is a registered trademark.
 

@@ -31,13 +31,3 @@ Patients using topical corticosteroids should receive the following information 
 4. Dispense the bottle with the spray pump inserted
 
 US Patent Nos: 5,972,920; 5,990,100 and foreign patents pending.
-
-Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA
-
-Manufactured by: CPL Mississauga, Ontario, Canada L5N 6L6
-
-Made in Canada.
-GALDERMA is a registered trademark. www.clobex.com
-
-P52061-0

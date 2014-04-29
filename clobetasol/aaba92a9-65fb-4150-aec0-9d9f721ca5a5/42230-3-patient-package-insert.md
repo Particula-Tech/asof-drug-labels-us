@@ -179,10 +179,22 @@ Figure G
 
 Step 5: Wash your hands after applying CLOBEX® Spray.
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
-Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA Manufactured by: CPL, Mississauga, Ontario, Canada L5N 6L6 Made in Canada.
 
-Revised 09/2012
+Marketed by: GALDERMA LABORATORIES, L.P., Fort Worth, Texas 76177 USA
+
+Manufactured by: CPL, Mississauga, Ontario, Canada L5N 6L6
+
+Made in Canada.
+
+P52061-0
+
+Or
+
+Manufactured by: G Production Inc., Baie d'Urfé, QC, H9X 3S4 Canada
+
+P51011-0
+
+Revised 03/2013
 
 GALDERMA is a registered trademark.
 US Patent Nos: 5,972,920; 5,990,100 and foreign patents pending.
-P52061-0
