@@ -64,7 +64,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Absorption
 
-AVINZA consists of two components, an immediate release component and an extended-release component.
+AVINZA consists of two components, an immediate-release component and an extended-release component.
 
 The oral bioavailability of morphine is less than 40% and shows large inter-individual variability due to extensive pre-systemic metabolism.
 
@@ -113,7 +113,7 @@ The mean adult plasma clearance of morphine is about 20 – 30 mL/minute/kg.
 The effective terminal half life of morphine after IV administration is reported to be approximately 2 hours.
 The terminal elimination half-life of morphine following single dose of AVINZA administration is approximately 24 hrs.
 
-Special Populations
+Specific Populations
 
 Geriatric Patients
 

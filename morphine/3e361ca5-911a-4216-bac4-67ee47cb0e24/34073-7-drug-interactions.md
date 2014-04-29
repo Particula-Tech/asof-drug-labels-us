@@ -7,14 +7,15 @@ Instruct patients not to consume alcoholic beverages or use prescription or non-
 
 ## 7.2 CNS Depressants
 
-Concurrent use of AVINZA and other central nervous system (CNS) depressants including sedatives, hypnotics, general anesthetics, antiemetics, phenothiazines, other tranquilizers, and alcohol, can increase the risk of respiratory depression, hypotension, profound sedation, or coma.
-Monitor patients receiving CNS depressants and AVINZA for signs of respiratory depression and hypotension.
-When such combined therapy is contemplated, reduce the initial dose of one or both agents.
+The concomitant use of AVINZA with other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol, can increase the risk of respiratory depression, profound sedation, coma and death.
+Monitor patients receiving CNS depressants and AVINZA for signs of respiratory depression, sedation and hypotension.
 
-## 7.3 Mixed Agonist/Antagonist Opioid Analgesics
+When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 
-Mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine and butorphanol) may reduce the analgesic effect of AVINZA or may precipitate withdrawal symptoms in these patients.
-Avoid the use of agonist/antagonist analgesics in patients receiving AVINZA.
+## 7.3 Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
+
+Mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) and partial agonist (buprenorphine) analgesics may reduce the analgesic effect of AVINZA or may precipitate withdrawal symptoms.
+Avoid the use of agonist/antagonist and partial agonist analgesics in patients receiving AVINZA.
 
 ## 7.4 Muscle Relaxants
 

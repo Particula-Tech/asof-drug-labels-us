@@ -1,18 +1,18 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions and/or conditions are discussed elsewhere in the labeling:
+The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Respiratory Depression [see Warnings and Precautions (5.2)]
-- Chronic Pulmonary Disease [see Warnings and Precautions (5.6)]
-- Head Injuries and Increased Intracranial Pressure [see Warnings and Precautions (5.9)]
-- Interactions with Other CNS Depressants [see Warnings and Precautions (5.7)]
-- Hypotensive Effect [see Warnings and Precautions (5.8)
-- Gastrointestinal Effects [see Warnings and Precautions (5.10)
-- Seizures [see Warnings and Precautions (5.11)
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+- Interactions with Other CNS Depressants [see Warnings and Precautions (5.4)]
+- Hypotensive Effect [see Warnings and Precautions (5.7)
+- Gastrointestinal Effects [see Warnings and Precautions (5.9)
+- Seizures [see Warnings and Precautions (5.10)
 
 The most common adverse reactions with AVINZA include constipation, nausea and somnolence.
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 

@@ -2,24 +2,39 @@
 
 ## 2.1 Initial Dosing
 
-Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience.
+AVINZA should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+
+AVINZA 90 mg and 120 mg capsules are for use only in patients in whom tolerance to an opioid of comparable potency has been established.
+Patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, or an equianalgesic dose of another opioid.
+
+Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy with AVINZA [see Warnings and Precautions (5.2)].
 
-Consider the following factors when selecting an initial dose of AVINZA:
-
-- Total daily dose, potency, and any prior opioid the patient has been taking previously;
-- Reliability of the relative potency estimate used to calculate the equivalent dose of morphine needed (Note: potency estimates may vary with the route of administration);
-- Patient's degree of opioid experience and opioid tolerance;
-- General condition and medical status of the patient;
-- Concurrent medication;
-- Type and severity of the patient's pain.
+AVINZA capsules must be taken whole.
+Crushing, chewing, or dissolving the pellets in AVINZA capsules will result in uncontrolled delivery of morphine and can lead to overdose or death [see Warnings and Precautions (5.2)].
+Patients who are unable to swallow AVINZA should be instructed to sprinkle the capsule contents on applesauce and immediately swallow without chewing [see Administration of AVINZA (2.4)].
 
 AVINZA is administered at a frequency of once daily (every 24 hours).
 
 Use of AVINZA as the First Opioid Analgesic
 
-Initiate AVINZA therapy with the 30 mg capsule once daily (at 24-hour intervals).
-Adjust the dose of AVINZA in increments not greater than 30 mg every 4 days.
+Initiate treatment with AVINZA with 30 mg capsule orally every 24 hours.
+Adjust the dose of AVINZA in increments not greater than 30 mg every 3 to 4 days.
+
+Use of AVINZA in Patients who are not Opioid Tolerant
+
+The starting dose for patients who are not opioid tolerant is AVINZA 30 mg orally every 24 hours.
+Patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, or an equianalgesic dose of another opioid.
+
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression.
+
+Conversion from Other Opioids to AVINZA
+
+There are no established conversion ratios from other opioids to AVINZA defined by clinical trials.
+Discontinue all other around-the-clock opioid drugs when AVINZA therapy is initiated and initiate dosing using AVINZA 30 mg orally every 24 hours.
+
+While there are useful tables of opioid equivalents readily available, there is substantial inter-patient variability in the relative potency of different opioid drugs and products.
+As such, it is safer to underestimate a patient's 24-hour oral morphine requirements and provide rescue medication (e.g., immediate-release morphine) than to overestimate the 24-hour oral morphine requirements which could result in adverse reactions.
 
 Conversion from Other Oral Morphine Formulations to AVINZA
 
@@ -28,9 +43,7 @@ AVINZA should not be given more frequently than every 24 hours.
 
 Conversion from Parenteral Morphine or Other Non-Morphine Opioids (Parenteral or Oral) to AVINZA
 
-While there are useful tables of oral and parenteral equivalents, there is substantial inter-patient variability in the relative potency of different opioid drugs and formulations.
-As such, it is safer to underestimate a patient's 24-hour oral morphine dose and provide rescue medication (e.g., immediate-release morphine) than to overestimate the 24-hour oral morphine dose and manage an adverse reaction.
-Consider the following general points:
+When converting from parenteral morphine or other non-morphine opioids (parenteral or oral) to AVINZA, consider the following general points:
 
 - Parenteral to oral morphine ratio: Between 2 to 6 mg of oral morphine may be required to provide analgesia equivalent to 1 mg of parenteral morphine.
   Typically, a dose of morphine that is approximately three times the previous daily parenteral morphine requirement is sufficient.
@@ -38,22 +51,31 @@ Consider the following general points:
   Published relative potency data are available, but such ratios are approximations.
   In general, begin with half of the estimated daily morphine requirement as the initial dose, managing inadequate analgesia by supplementation with immediate-release morphine.
 
+Conversion from Methadone to AVINZA
+
+Close monitoring is of particular importance when converting from methadone to other opioid agonists.
+The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
+Methadone has a long half-life and can accumulate in the plasma.
+
 The first dose of AVINZA may be taken with the last dose of any immediate-release opioid medication due to the extended-release characteristics of the AVINZA formulation.
 
 ## 2.2 Titration and Maintenance of Therapy
 
 Individually titrate AVINZA to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving AVINZA to assess the maintenance of pain control and the relative incidence of adverse reactions.
-During chronic therapy, especially for non-cancer-related pain (or pain associated with other terminal illnesses), periodically reassess the continued need for the use of opioid analgesics.
+Continually reevaluate patients receiving AVINZA to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse.
+Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
+During chronic therapy, periodically reassess the continued need for opioid analgesics.
 
 If the level of pain increases, attempt to identify the source of increased pain, while adjusting the AVINZA dose to decrease the level of pain.
 Because steady-state plasma concentrations are approximated within 2 to 3 days, AVINZA dosage adjustments may be done every 3 to 4 days.
-Patients who experience breakthrough pain may require dosage adjustment or rescue medication with a small dose of an immediate-release medication.
+
+Patients who experience breakthrough pain may require a dose increase of AVINZA, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
+If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the AVINZA dose.
 
 The daily dose of AVINZA must be limited to a maximum of 1600 mg/day.
 AVINZA doses of over 1600 mg/day contain a quantity of fumaric acid that has not been demonstrated to be safe, and which may result in serious renal toxicity.
 
-If signs of excessive opioid-related adverse reactions are observed, the next dose may be reduced.
+If unacceptable opioid-related adverse reactions are observed, the subsequent doses may be reduced.
 Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 ## 2.3 Discontinuation of AVINZA
@@ -63,8 +85,8 @@ Do not abruptly discontinue AVINZA.
 
 ## 2.4 Administration of AVINZA
 
-Instruct patients to swallow AVINZA capsules intact.
-The pellets in the capsules are not to be crushed, dissolved, or chewed due to the risk of rapid release and absorption of a potentially fatal dose of morphine [see Warnings and Precautions (5.2)].
+AVINZA capsules must be taken whole.
+Crushing, chewing, or dissolving the pellets in AVINZA will result in uncontrolled delivery of morphine and can lead to overdose or death [see Warnings and Precautions (5.2)].
 
 Alternatively, the contents of the AVINZA capsules (pellets) may be sprinkled over applesauce and then swallowed.
 This method is appropriate only for patients able to reliably swallow the applesauce without chewing.
