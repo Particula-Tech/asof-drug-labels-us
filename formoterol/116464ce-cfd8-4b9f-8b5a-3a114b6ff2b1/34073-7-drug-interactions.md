@@ -11,11 +11,11 @@ After oral administration of ketoconazole, a strong inhibitor of CYP3A4, the mea
 Concomitant administration of CYP3A4 inhibitors may inhibit the metabolism of, and increase the systemic exposure to, mometasone furoate.
 Caution should be exercised when considering the coadministration of DULERA with long-term ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) [see Warnings and Precautions (5.8) and Clinical Pharmacology (12.3)].
 
-## 7.2 Adrenergic agents
+## 7.2 Adrenergic Agents
 
 If additional adrenergic drugs are to be administered by any route, they should be used with caution because the pharmacologically predictable sympathetic effects of formoterol, a component of DULERA, may be potentiated.
 
-## 7.3 Xanthine derivatives
+## 7.3 Xanthine Derivatives
 
 Concomitant treatment with xanthine derivatives may potentiate any hypokalemic effect of formoterol, a component of DULERA.
 
@@ -25,12 +25,12 @@ Concomitant treatment with diuretics may potentiate the possible hypokalemic eff
 The ECG changes and/or hypokalemia that may result from the administration of non-potassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
 Although the clinical significance of these effects is not known, caution is advised in the coadministration of DULERA with non-potassium-sparing diuretics.
 
-## 7.5 Monoamine oxidase inhibitors, tricyclic antidepressants, and drugs known to prolong the QTc interval
+## 7.5 Monoamine Oxidase Inhibitors, Tricyclic Antidepressants, and Drugs Known to Prolong the QTc Interval
 
 DULERA should be administered with caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, macrolides, or drugs known to prolong the QTc interval or within 2 weeks of discontinuation of such agents, because the action of formoterol, a component of DULERA, on the cardiovascular system may be potentiated by these agents.
 Drugs that are known to prolong the QTc interval have an increased risk of ventricular arrhythmias.
 
-## 7.6 Beta-adrenergic receptor antagonists
+## 7.6 Beta-Adrenergic Receptor Antagonists
 
 Beta-adrenergic receptor antagonists (beta-blockers) and formoterol may inhibit the effect of each other when administered concurrently.
 Beta-blockers not only block the therapeutic effects of beta2-agonists, such as formoterol, a component of DULERA, but may produce severe bronchospasm in patients with asthma.

@@ -116,6 +116,10 @@ Ask your healthcare provider or pharmacist if you have any questions.
   Use your rescue inhaler if you have breathing problems between doses of DULERA.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
 - Remove the cap from the mouthpiece of the actuator before using DULERA.
+- DO NOT remove the canister from the actuator because:
+  - You may not receive the correct amount of medication.
+  - The dose counter may not function properly.
+  - Reinsertion may cause the dose counter to count down by 1 and may discharge a puff.
 - Rinse your mouth with water after each dose (2 puffs) of DULERA.
   This will help to lessen the chance of getting a yeast infection (thrush) in the mouth and throat.
 - Do not spray DULERA in your eyes.

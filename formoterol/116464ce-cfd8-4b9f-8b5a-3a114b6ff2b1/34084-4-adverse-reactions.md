@@ -35,7 +35,7 @@ Table 2: Treatment-Emergent Adverse Reactions in DULERA Groups Occurring at an I
 | Headache | 19 (4.5) | 5 (2.0) | 10 (5.2) | 8 (3.3) | 6 (3.0) | 7 (3.6) |
 | Average Duration of Exposure (days) | 116 | 81 | 165 | 79 | 131 | 138 |
 
-Oral candidiasis has been reported in clinical trials at an incidence of 0.7% in patients using DULERA 100 mcg/5 mcg, 0.8 % in patients using DULERA 200 mcg/5 mcg and 0.5 % in the placebo group.
+Oral candidiasis has been reported in clinical trials at an incidence of 0.7% in patients using DULERA 100 mcg/5 mcg, 0.8% in patients using DULERA 200 mcg/5 mcg and 0.5% in the placebo group.
 
 Long-Term Clinical Trial Experience
 

@@ -2,7 +2,7 @@
 
 ## 2.1 General
 
-DULERA should be administered only by the orally inhaled route (see Instructions for Using DULERA in the Medication Guide).
+DULERA should be administered only by the orally inhaled route (see Patient Instructions for Use in the Medication Guide).
 After each dose, the patient should be advised to rinse his/her mouth with water without swallowing.
 
 The cap from the mouthpiece of the actuator should be removed before using DULERA.

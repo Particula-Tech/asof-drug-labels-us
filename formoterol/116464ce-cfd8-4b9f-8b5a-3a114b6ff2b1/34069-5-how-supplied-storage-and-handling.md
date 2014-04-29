@@ -27,6 +27,8 @@ The DULERA canister should only be used with the DULERA actuator.
 The DULERA actuator should not be used with any other inhalation drug product.
 Actuators from other products should not be used with the DULERA canister.
 
+The canister should not be removed from the actuator because the correct amount of medication may not be discharged; the dose counter may not function properly; reinsertion may cause the dose counter to count down by 1 and discharge a puff.
+
 The correct amount of medication in each inhalation cannot be ensured after the labeled number of actuations from the canister has been used, even though the inhaler may not feel completely empty and may continue to operate.
 The inhaler should be discarded when the labeled number of actuations has been used (the dose counter will read "0").
 

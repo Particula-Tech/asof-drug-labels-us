@@ -8,7 +8,7 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0887a-ao-1310r021
+uspi-mk0887a-ao-1404r022
 
 Patient Instructions for Use
 
@@ -34,7 +34,10 @@ The dose counter will initially display "64" or "124" actuations remaining.
 Each time you press the canister, a puff of medicine is released and the counter will count down by 1.
 The counter will stop counting at 0.
 
-- You should not remove the canister from the actuator because reinsertion may cause the counter to count down by 1 and discharge a puff.
+- YOU SHOULD NOT REMOVE THE CANISTER FROM THE ACTUATOR because:
+  - You may not receive the correct amount of medication.
+  - The dose counter may not function properly.
+  - Reinsertion may cause the counter to count down by 1 and may discharge a puff.
 - Use the DULERA canister only with the actuator supplied with the product.
   Do not use parts of the DULERA inhaler with parts from any other inhalation medicine.
 
@@ -115,9 +118,10 @@ Routine cleaning instructions:
 
 - Remove the cap off the mouthpiece.
   Wipe the inside and outside surfaces of the actuator mouthpiece with a clean, dry, lint-free tissue or cloth.
+  Do not wash or put any parts of your inhaler in water.
   Put the cap back on the mouthpiece after cleaning.
+- Do not remove the canister from the actuator.
 - Do not attempt to unblock the actuator with a sharp object, such as a pin.
-- Do not wash or put any parts of your inhaler in water.
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -129,14 +133,8 @@ For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
-FORADIL is a registered trademark of Astellas Pharma Inc.
-
-AEROLIZER is a registered trademark of Novartis AG.
-
-NORVIR and KALETRA are registered trademarks of Abbott Laboratories.
-
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 08/2013
+Revised: 4/2014
 
-usmg-ao-mk0887a-1308r016
+usmg-mk0887a-ao-1404r017

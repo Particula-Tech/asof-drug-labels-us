@@ -53,3 +53,14 @@ Glaucoma and Cataracts: Long-term use of inhaled corticosteroids may increase th
 ## 17.5 Risks Associated With Beta-Agonist Therapy
 
 Patients should be informed that treatment with beta2-agonists may lead to adverse events which include palpitations, chest pain, rapid heart rate, tremor or nervousness [see Warnings and Precautions (5.11)].
+
+## 17.6 Instructions for Use
+
+Patients should be instructed regarding the following:
+
+- Read the Medication Guide before use and follow the Instructions for Use carefully.
+- Patients should be reminded to:
+  - Remove the cap from the mouthpiece of the actuator before use.
+  - Not remove the canister from the actuator.
+  - Not wash inhaler in water.
+    The mouthpiece should be cleaned using a dry wipe after every 7 days of use.
