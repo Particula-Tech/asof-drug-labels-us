@@ -202,5 +202,5 @@ There are insufficient data to support a statement regarding the distribution of
 The following adverse reactions have been identified during postapproval use of levetiracetam.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 In addition to the adverse reactions listed above [see Adverse Reactions (6.1)], the following adverse events have been reported in patients receiving marketed levetiracetam worldwide.
-The listing is alphabetized: abnormal liver function test, choreoathetosis, dyskinesia, erythema multiforme, hepatic failure, hepatitis, leukopenia, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), thrombocytopenia, and weight loss.
+The listing is alphabetized: abnormal liver function test, choreoathetosis, dyskinesia, erythema multiforme, hepatic failure, hepatitis, leukopenia, muscle weakness, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
 Alopecia has been reported with levetiracetam use; recovery was observed in majority of cases where levetiracetam was discontinued.

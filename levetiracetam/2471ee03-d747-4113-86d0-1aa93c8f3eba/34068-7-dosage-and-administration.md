@@ -4,11 +4,9 @@
 
 Levetiracetam tablets are given orally with or without food.
 The levetiracetam dosing regimen depends on the indication, age group, dosage form (tablets or oral solution), and renal function.
-
 Prescribe the oral solution for pediatric patients with body weight ≤ 20 kg.
 Prescribe the oral solution or tablets for pediatric patients with body weight above 20 kg.
 When using the oral solution in pediatric patients, dosing is weight-based (mg per kg) using a calibrated measuring device (not a household teaspoon or tablespoon).
-
 Levetiracetam tablets should be swallowed whole.
 Levetiracetam tablets should not be chewed or crushed.
 
@@ -33,7 +31,7 @@ For levetiracetam tablet dosing in pediatric patients weighing more than 40 kg, 
 The daily dose should be increased every 2 weeks by increments of 1000 mg/day to a maximum recommended daily dose of 3000 mg (1500 mg twice daily).
 Levetiracetam Oral Solution Weight-Based Dosing Calculation For Pediatric Patients The following calculation should be used to determine the appropriate daily dose of oral solution for pediatric patients: Daily dose (mg/kg/day) x patient weight (kg) Total daily dose (mL/day) = ------------------------------------------------------ ­ 100 mg/mL
 
-## 2.3 Myoclonic Seizures In Patients 12 Years Of Age And Older With Juvenile Myoclonic Epilepsy
+## 2.3 Myoclonic Seizures In Patients 12 Years of Age and Older With Juvenile Myoclonic Epilepsy
 
 Treatment should be initiated with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
@@ -51,7 +49,7 @@ Patients with body weight ≤20 kg should be dosed with oral solution.
 Patients with body weight above 20 kg can be dosed with either tablets or oral solution [see Dosage and Administration (2.1)].
 Only whole tablets should be administered.
 
-## 2.5 Adult Patients With Impaired Renal Function
+## 2.5 Adult Patients with Impaired Renal Function
 
 Levetiracetam tablet dosing must be individualized according to the patient’s renal function status.
 Recommended doses and adjustment for dose for adults are shown in Table 1.

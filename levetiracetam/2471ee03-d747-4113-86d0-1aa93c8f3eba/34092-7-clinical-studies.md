@@ -4,7 +4,7 @@ In the following studies, statistical significance versus placebo indicates a p 
 
 ## 14.1 Partial Onset Seizures
 
-Effectiveness In Partial Onset Seizures In Adults With Epilepsy The effectiveness of levetiracetam as adjunctive therapy (added to other antiepileptic drugs) in adults was established in three multicenter, randomized, double-blind, placebo-controlled clinical studies in patients who had refractory partial onset seizures with or without secondary generalization.
+Effectiveness in Partial Onset Seizures in Adults with Epilepsy The effectiveness of levetiracetam as adjunctive therapy (added to other antiepileptic drugs) in adults was established in three multicenter, randomized, double-blind, placebo-controlled clinical studies in patients who had refractory partial onset seizures with or without secondary generalization.
 The tablet formulation was used in all these studies.
 In these studies, 904 patients were randomized to placebo, 1000 mg, 2000 mg, or 3000 mg/day.
 Patients enrolled in Study 1 or Study 2 had refractory partial onset seizures for at least two years and had taken two or more classical AEDs.

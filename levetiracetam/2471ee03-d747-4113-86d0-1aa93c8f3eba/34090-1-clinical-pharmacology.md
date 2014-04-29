@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown.
 The antiepileptic activity of levetiracetam was assessed in a number of animal models of epileptic seizures.
@@ -53,7 +53,7 @@ The evaluation of the pharmacokinetic profile of levetiracetam and its metabolit
 The pharmacokinetics of levetiracetam in children was linear between 20 to 60 mg/kg/day.
 The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
 Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
-However, there was about a 22% increase of apparent clearance of levetiracetam when it was coadministered with an enzyme-inducing AED (e.g., carbamazepine).
+However, there was about a 22% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED (e.g., carbamazepine).
 Pharmacokinetics information in pediatric patients less than 4 years of age is approved for UCB, Inc.’s levetiracetam tablets.
 However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 Population pharmacokinetic analysis showed that body weight was significantly correlated to the clearance of levetiracetam in pediatric patients; clearance increased with an increase in body weight.
@@ -83,7 +83,7 @@ Valproate 500 mg twice daily did not modify the rate or extent of levetiracetam 
 There also was no effect on exposure to and the excretion of the primary metabolite, ucb L057.
 Other Antiepileptic Drugs Potential drug interactions between levetiracetam and other AEDs (carbamazepine, gabapentin, lamotrigine, phenobarbital, phenytoin, primidone and valproate) were also assessed by evaluating the serum concentrations of levetiracetam and these AEDs during placebo-controlled clinical studies.
 These data indicate that levetiracetam does not influence the plasma concentration of other AEDs and that these AEDs do not influence the pharmacokinetics of levetiracetam.
-Effect Of AEDs In Pediatric Patients There was about a 22% increase of apparent total body clearance of levetiracetam when it was coadministered with enzyme-inducing AEDs.
+Effect of AEDs in Pediatric Patients There was about a 22% increase of apparent total body clearance of levetiracetam when it was co-administered with enzyme-inducing AEDs.
 Dose adjustment is not recommended.
 Levetiracetam had no effect on plasma concentrations of carbamazepine, valproate, topiramate, or lamotrigine.
 Oral Contraceptives Levetiracetam (500 mg twice daily) did not influence the pharmacokinetics of an oral contraceptive containing 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel, or of the luteinizing hormone and progesterone levels, indicating that impairment of contraceptive efficacy is unlikely.

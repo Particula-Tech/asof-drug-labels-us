@@ -3,7 +3,7 @@
 ## 8.1 Pregnancy
 
 Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
-Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
+Teratogenic Effects Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
 In animal studies, levetiracetam produced evidence of developmental toxicity, including teratogenic effects, at doses similar to or greater than human therapeutic doses.
 Levetiracetam should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Oral administration of levetiracetam to female rats throughout pregnancy and lactation led to increased incidences of minor fetal skeletal abnormalities and retarded offspring growth pre- and/or postnatally at doses ≥350 mg/kg/day (equivalent to the maximum recommended human dose of 3000 mg [MRHD] on a mg/m2 basis) and with increased pup mortality and offspring behavioral alterations at a dose of 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
@@ -39,7 +39,6 @@ The safety and effectiveness of levetiracetam as adjunctive treatment of myoclon
 The safety and effectiveness of levetiracetam as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in pediatric patients 6 years of age and older with idiopathic generalized epilepsy have been established [see Clinical Studies (14.3)].
 A 3-month, randomized, double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of levetiracetam as adjunctive therapy in 98 (levetiracetam N=64, placebo N=34) pediatric patients, ages 4 to 16 years old, with partial seizures that were inadequately controlled.
 The target dose was 60 mg/kg/day.
-
 Neurocognitive effects were measured by the Leiter-R Attention and Memory (AM) Battery, which measures various aspects of a child's memory and attention.
 Although no substantive differences were observed between the placebo and drug treated groups in the median change from baseline in this battery, the study was not adequate to assess formal statistical non-inferiority of the drug and placebo.
 The Achenbach Child Behavior Checklist (CBCL/6 to 18), a standardized validated tool used to assess a child’s competencies and behavioral/emotional problems, was also assessed in this study.

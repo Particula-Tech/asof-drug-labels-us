@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Levetiracetam Tablets USP Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
+Levetiracetam Tablets USP (lee'' va tye ra' se tam) Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 What is the most important information I should know about levetiracetam tablets?
@@ -152,4 +152,4 @@ Information on the use of levetiracetam in pediatric patients less than 4 years 
 However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 08/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 04/2014
