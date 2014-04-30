@@ -311,7 +311,7 @@ Neonates with a history of in utero exposure to Vaseretic:
 
 If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
-Enalapril, which crosses the placenta, has been removed from neonatal circulation be peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
+Enalapril, which crosses the placenta, has been removed from neonatal circulation by peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
 
 Safety and effectiveness in pediatric patients have not been established.
 
