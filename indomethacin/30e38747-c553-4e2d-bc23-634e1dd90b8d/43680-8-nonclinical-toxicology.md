@@ -7,5 +7,3 @@ Administration of 0.5 or 4 mg/kg/day during the first three days of life did not
 
 Pregnant rats, given 2 mg/kg/day and 4 mg/kg/day during the last trimester of gestation, delivered offspring whose pulmonary blood vessels were both reduced in number and excessively muscularized.
 These findings are similar to those observed in the syndrome of persistent pulmonary hypertension of the neonate.
-
-## 13.2 Animal Pharmacology and/or Toxicology
