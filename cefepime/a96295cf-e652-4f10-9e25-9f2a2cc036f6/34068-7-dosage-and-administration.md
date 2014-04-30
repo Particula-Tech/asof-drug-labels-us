@@ -1,21 +1,21 @@
 # DOSAGE AND ADMINISTRATION
 
-The recommended adult and pediatric dosages and routes of administration are outlined in the following table.
+The recommended adult and pediatric dosages and routes of administration are outlined in the following table 10.
 MAXIPIME should be administered intravenously over approximately 30 minutes.
 
-Table 12: Recommended Dosage Schedule for MAXIPIME in Patients with CrCL Greater Than 60 mL/min
+Table 10: Recommended Dosage Schedule for MAXIPIME in Patients with CrCL Greater Than 60 mL/min†
 
 | Site and Type of Infection | Dose | Frequency | Duration (days) |
 | --- | --- | --- | --- |
 | Adults |  |  |  |
-| Moderate to Severe Pneumonia due to S. pneumoniae*, P. aeruginosa, K. pneumoniae, or Enterobacter species | 1 to 2 g IV | Every 12 hours | 10 |
+| Moderate to Severe Pneumonia due to S. pneumoniae*, P. aeruginosa§, K. pneumoniae, or Enterobacter species | 1 to 2 g IV | Every 8 to 12 hours | 10 |
 | Empiric therapy for febrile neutropenic patients (See INDICATIONS AND USAGE and CLINICAL STUDIES.) | 2 g IV | Every 8 hours | 7** |
 | Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli, K. pneumoniae, or P. mirabilis* | 0.5 to 1 g IV/IM*** | Every 12 hours | 7 to 10 |
 | Severe Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli or K. pneumoniae* | 2 g IV | Every 12 hours | 10 |
 | Moderate to Severe Uncomplicated Skin and Skin Structure Infections due to S. aureus or S. pyogenes | 2 g IV | Every 12 hours | 10 |
-| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa, K. pneumoniae, Enterobacter species, or B. fragilis. (See CLINICAL STUDIES.) | 2 g IV | Every 12 hours | 7 to 10 |
+| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa§, K. pneumoniae, Enterobacter species, or B. fragilis. (See CLINICAL STUDIES.) | 2 g IV | Every 8 to 12 hours | 7 to 10 |
 | Pediatric Patients (2 months up to 16 years) The maximum dose for pediatric patients should not exceed the recommended adult dose. The usual recommended dosage in pediatric patients up to 40 kg in weight for uncomplicated and complicated urinary tract infections (including pyelonephritis), uncomplicated skin and skin structure infections, and pneumonia is 50 mg per kg per dose, administered every 12 hours (50 mg per kg per dose, every 8 hours for febrile neutropenic patients), for durations as given above. |  |  |  |
-| *including cases associated with concurrent bacteremia **or until resolution of neutropenia. In patients whose fever resolves but who remain neutropenic for more than 7 days, the need for continued antimicrobial therapy should be re-evaluated frequently.***Intramuscular route of administration is indicated only for mild to moderate, uncomplicated or complicated UTIs due to E. coli when the intramuscular route is considered to be a more appropriate route of drug administration. |  |  |  |
+| †Adjust dose in patients with CrCL less than or equal to 60 mL/min *including cases associated with concurrent bacteremia **or until resolution of neutropenia. In patients whose fever resolves but who remain neutropenic for more than 7 days, the need for continued antimicrobial therapy should be re-evaluated frequently. ***Intramuscular route of administration is indicated only for mild to moderate, uncomplicated or complicated UTIs due to E. coli when the intramuscular route is considered to be a more appropriate route of drug administration. §For Pseudomonas aeruginosa, use 2 g IV every 8 hours (50 mg per kg per dose in pediatric patients 2 months up to 16 years) |  |  |  |
 
 Patients with Hepatic Impairment
 
@@ -25,9 +25,9 @@ Patients with Renal Impairment
 
 In patients with creatinine clearance less than or equal to 60 mL/min, the dose of MAXIPIME should be adjusted to compensate for the slower rate of renal elimination.
 The recommended initial dose of MAXIPIME should be the same as in patients with normal renal function except in patients undergoing hemodialysis.
-The recommended doses of MAXIPIME in patients with renal impairment are presented in Table 13.
+The recommended doses of MAXIPIME in patients with renal impairment are presented in Table 11.
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation)3 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation)4 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function:
 
 | Males: Creatinine Clearance (mL/min) = | Weight (kg) x (140–age) |
@@ -35,7 +35,7 @@ The serum creatinine should represent a steady state of renal function:
 | 72 × serum creatinine (mg/dL) |  |
 | Females: 0.85 × above value |  |
 
-Table 13: Recommended Dosing Schedule for MAXIPIME in Adult Patients (Normal Renal Function, Renal Impairment, and Hemodialysis)
+Table 11: Recommended Dosing Schedule for MAXIPIME in Adult Patients (Normal Renal Function, Renal Impairment, and Hemodialysis)
 
 | Creatinine Clearance (mL/min) | Recommended Maintenance Schedule |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -47,14 +47,14 @@ Table 13: Recommended Dosing Schedule for MAXIPIME in Adult Patients (Normal Ren
 | Hemodialysis* | 1 g on day 1, then 500 mg every 24 hours thereafter |  |  | 1 g every 24 hours |
 | *On hemodialysis days, cefepime should be administered following hemodialysis. Whenever possible, cefepime should be administered at the same time each day. |  |  |  |  |
 
-In patients undergoing continuous ambulatory peritoneal dialysis, MAXIPIME may be administered at normally recommended doses at a dosage interval of every 48 hours (see Table 13).
+In patients undergoing continuous ambulatory peritoneal dialysis, MAXIPIME may be administered at normally recommended doses at a dosage interval of every 48 hours (see Table 11).
 
 In patients undergoing hemodialysis, approximately 68% of the total amount of cefepime present in the body at the start of dialysis will be removed during a 3-hour dialysis period.
 The dosage of MAXIPIME for hemodialysis patients is 1 g on Day 1 followed by 500 mg every 24 hours for the treatment of all infections except febrile neutropenia, which is 1 g every 24 hours.
 
-MAXIPIME should be administered at the same time each day and following the completion of hemodialysis on hemodialysis days (see Table 13).
+MAXIPIME should be administered at the same time each day and following the completion of hemodialysis on hemodialysis days (see Table 11).
 
-Data in pediatric patients with impaired renal function are not available; however, since cefepime pharmacokinetics are similar in adults and pediatric patients (see CLINICAL PHARMACOLOGY), changes in the dosing regimen proportional to those in adults (see Tables 12 and 13) are recommended for pediatric patients.
+Data in pediatric patients with impaired renal function are not available; however, since cefepime pharmacokinetics are similar in adults and pediatric patients (see CLINICAL PHARMACOLOGY), changes in the dosing regimen proportional to those in adults (see Tables 10 and 11) are recommended for pediatric patients.
 
 Administration
 
@@ -68,11 +68,11 @@ However, during infusion of a solution containing cefepime, it is desirable to d
 ADD-Vantage™ vials are to be constituted only with 50 mL or 100 mL of 5% Dextrose Injection or 0.9% Sodium Chloride Injection in ADD-Vantage flexible diluent containers.
 (See ADD-Vantage Vial Instructions for Use.)
 
-Intramuscular Administration: For intramuscular administration, MAXIPIME (cefepime hydrochloride) should be constituted with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1 % Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol (refer to Table 14).
+Intramuscular Administration: For intramuscular administration, MAXIPIME (cefepime hydrochloride) should be constituted with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1 % Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol (refer to Table 12).
 
-Preparation of MAXIPIME solutions is summarized in Table 14.
+Preparation of MAXIPIME solutions is summarized in Table 12.
 
-Table 14: Preparation of Solutions of MAXIPIME
+Table 12: Preparation of Solutions of MAXIPIME
 
 | Single-Dose Vials for Intravenous/Intramuscular Administration | Amount of Diluent to be added (mL) | Approximate Available Volume (mL) | Approximate Cefepime Concentration (mg/mL) |
 | --- | --- | --- | --- |
@@ -85,9 +85,9 @@ Intravenous: MAXIPIME is compatible at concentrations between 1 mg per mL and 40
 These solutions may be stored up to 24 hours at controlled room temperature 20°C to 25°C (68°F to 77°F) or 7 days in a refrigerator 2°C to 8°C (36°F to 46°F).
 MAXIPIME in ADD-Vantage vials is stable at concentrations of 10 to 40 mg per mL in 5% Dextrose Injection or 0.9% Sodium Chloride Injection for 24 hours at controlled room temperature 20°C to 25°C or 7 days in a refrigerator 2°C to 8°C.
 
-MAXIPIME admixture compatibility information is summarized in Table 15.
+MAXIPIME admixture compatibility information is summarized in Table 13.
 
-Table 15: Cefepime Admixture Stability
+Table 13: Cefepime Admixture Stability
 
 |  |  |  | Stability Time for |  |
 | --- | --- | --- | --- | --- |
@@ -131,17 +131,19 @@ To Assemble Vial and Flexible Diluent Container:
 
 (Use Aseptic Technique)
 
-1.Remove the protective covers from the top of the vial and the vial port on the diluent container as follows:
+1.
+Remove the protective covers from the top of the vial and the vial port on the diluent container as follows:
 
 a. To remove the breakaway vial cap, swing the pull ring over the top of the vial and pull down far enough to start the opening (SEE FIGURE 1.), then pull straight up to remove the cap.
 (SEE FIGURE 2.)
 
 NOTE: Once the breakaway cap has been removed, do not access vial with syringe.
 
-b.To remove the vial port cover, grasp the tab on the pull ring, pull up to break the three tie strings, then pull back to remove the cover.
+b. To remove the vial port cover, grasp the tab on the pull ring, pull up to break the three tie strings, then pull back to remove the cover.
 (SEE FIGURE 3.)
 
-2.Screw the vial into the vial port until it will go no further.
+2.
+Screw the vial into the vial port until it will go no further.
 THE VIAL MUST BE SCREWED IN TIGHTLY TO ASSURE A SEAL.
 This occurs approximately 1/2 turn (180°) after the first audible click.
 (SEE FIGURE 4.)
@@ -150,9 +152,11 @@ The clicking sound does not assure a seal; the vial must be turned as far as it 
 NOTE: Once vial is seated, do not attempt to remove.
 (SEE FIGURE 4.)
 
-3.Recheck the vial to assure that it is tight by trying to turn it further in the direction of assembly.
+3.
+Recheck the vial to assure that it is tight by trying to turn it further in the direction of assembly.
 
-4.Label appropriately.
+4.
+Label appropriately.
 
 To Reconstitute the Drug:
 
@@ -183,29 +187,39 @@ Preparation for Administration:
 
 (Use Aseptic Technique)
 
-1.Confirm the activation and admixture of vial contents.
+1.
+Confirm the activation and admixture of vial contents.
 
-2.Check for leaks by squeezing container firmly.
+2.
+Check for leaks by squeezing container firmly.
 If leaks are found, discard unit as sterility may be impaired.
 
-3.Close flow control clamp of administration set.
+3.
+Close flow control clamp of administration set.
 
-4.Remove cover from outlet port at bottom of container.
+4.
+Remove cover from outlet port at bottom of container.
 
-5.Insert piercing pin of administration set into port with a twisting motion until the pin is firmly seated.
+5.
+Insert piercing pin of administration set into port with a twisting motion until the pin is firmly seated.
 NOTE: See full directions on administration set carton.
 
-6.Lift the free end of the hanger loop on the bottom of the vial, breaking the two tie strings.
+6.
+Lift the free end of the hanger loop on the bottom of the vial, breaking the two tie strings.
 Bend the loop outward to lock it in the upright position, then suspend container from hanger.
 
-7.Squeeze and release drip chamber to establish proper fluid level in chamber.
+7.
+Squeeze and release drip chamber to establish proper fluid level in chamber.
 
-8.Open flow control clamp and clear air from set.
+8.
+Open flow control clamp and clear air from set.
 Close clamp.
 
-9.Attach set to venipuncture device.
+9.
+Attach set to venipuncture device.
 If device is not indwelling, prime and make venipuncture.
 
-10.Regulate rate of administration with flow control clamp.
+10.
+Regulate rate of administration with flow control clamp.
 
 WARNING: Do not use flexible container in series connections.

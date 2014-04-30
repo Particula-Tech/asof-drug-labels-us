@@ -4,9 +4,9 @@ Febrile Neutropenic Patients
 
 The safety and efficacy of empiric cefepime monotherapy of febrile neutropenic patients have been assessed in two multicenter, randomized trials comparing cefepime monotherapy (at a dose of 2 g intravenously every 8 hours) to ceftazidime monotherapy (at a dose of 2 g intravenously every 8 hours).
 These studies comprised 317 evaluable patients.
-Table 8 describes the characteristics of the evaluable patient population.
+Table 6 describes the characteristics of the evaluable patient population.
 
-Table 8: Demographics of Evaluable Patients (First Episodes Only)
+Table 6: Demographics of Evaluable Patients (First Episodes Only)
 
 | Total | Cefepime | Ceftazidime |
 | --- | --- | --- |
@@ -25,10 +25,10 @@ Table 8: Demographics of Evaluable Patients (First Episodes Only)
 | SBP less than 90 mm Hg at entry | 7 (4%) | 2 (1%) |
 | ANC = absolute neutrophil count; SBP = systolic blood pressure |  |  |
 
-Table 9 describes the clinical response rates observed.
+Table 7 describes the clinical response rates observed.
 For all outcome measures, cefepime was therapeutically equivalent to ceftazidime.
 
-Table 9: Pooled Response Rates for Empiric Therapy of Febrile Neutropenic Patients
+Table 7: Pooled Response Rates for Empiric Therapy of Febrile Neutropenic Patients
 
 | Outcome Measures | % Response |  |
 | --- | --- | --- |

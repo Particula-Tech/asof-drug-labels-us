@@ -63,7 +63,7 @@ If an allergic reaction to MAXIPIME occurs, discontinue the drug.
 Serious acute hypersensitivity reactions may require treatment with epinephrine and other emergency measures including oxygen, corticosteroids, intravenous fluids, intravenous antihistamines, pressor amines, and airway management, as clinically indicated.
 
 Patients should be counseled that antibacterial drugs including MAXIPIME should only be used to treat bacterial infections.
-They do not treat viral infections (eg, the common cold).
+They do not treat viral infections (e.g., the common cold).
 When MAXIPIME is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by MAXIPIME or other antibacterial drugs in the future.
 
@@ -124,7 +124,7 @@ IN THOSE PATIENTS IN WHOM MENINGEAL SEEDING FROM A DISTANT INFECTION SITE OR IN 
 Geriatric Use
 
 Of the more than 6400 adults treated with MAXIPIME in clinical studies, 35% were 65 years or older while 16% were 75 years or older.
-When geriatric patients received the usual recommended adult dose, clinical efficacy and safety were comparable to clinical efficacy and safety in nongeriatric adult patients.
+When geriatric patients received the usual recommended adult dose, clinical efficacy and safety were comparable to clinical efficacy and safety in non-geriatric adult patients.
 
 Serious adverse events have occurred in geriatric patients with renal insufficiency given unadjusted doses of cefepime, including life-threatening or fatal occurrences of the following: encephalopathy, myoclonus, and seizures.
 (See WARNINGS and ADVERSE REACTIONS.)
