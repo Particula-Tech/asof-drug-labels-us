@@ -63,8 +63,7 @@ Before taking KEPPRA XR, tell your healthcare provider about all of your medical
   You and your healthcare provider will have to decide if you should take KEPPRA XR while you are pregnant.
   If you become pregnant while taking KEPPRA XR, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
-  You can also enroll in the UCB AED Pregnancy Registry by calling 1-888-537-7734.
-  The purpose of these registries is to collect information about the safety of KEPPRA XR and other antiepileptic medicine during pregnancy.
+  The purpose of this registry is to collect information about the safety of KEPPRA XR and other antiepileptic medicine during pregnancy.
 - are breast feeding.
   KEPPRA XR can pass into your milk and may harm your baby.
   You and your healthcare provider should discuss whether you should take KEPPRA XR or breast-feed; you should not do both.
@@ -167,4 +166,4 @@ KEPPRA XR is a registered trademark of the UCB Group of companies © 2013, UCB, 
 Printed in the U.S.A.
 
 Rev.
-07/2013
+09/2013
