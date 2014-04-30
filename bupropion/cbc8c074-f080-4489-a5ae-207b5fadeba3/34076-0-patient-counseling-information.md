@@ -51,17 +51,15 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 Instruct patients that WELLBUTRIN SR Tablets may have an odor.
 WELLBUTRIN SR can be taken with or without food.
 
-WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and ZYBAN are registered trademarks of the GlaxoSmithKline group of companies.
-The other brands listed are trademarks of their respective owners and are not trademarks of the GlaxoSmithKline group of companies.
-The makers of these brands are not affiliated with and do not endorse the GlaxoSmithKline group of companies or its products.
-
-Manufactured for:
+WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and ZYBAN are registered trademarks of the GSK group of companies.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline group of companies.
+©2014, the GSK group of companies.
 All rights reserved.
 
-WLT:10PI
+WLS:11PI

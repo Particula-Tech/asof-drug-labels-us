@@ -5,10 +5,10 @@
 Bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
 Therefore, the potential exists for drug interactions between WELLBUTRIN SR and drugs that are inhibitors or inducers of CYP2B6.
 
-Inhibitors of CYP2B6:Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposure but decrease hydroxybupropion exposure.
+Inhibitors of CYP2B6: Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposure but decrease hydroxybupropion exposure.
 Based on clinical response, dosage adjustment of WELLBUTRIN SR may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel) [see Clinical Pharmacology (12.3)].
 
-Inducers of CYP2B6:Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
+Inducers of CYP2B6: Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
 Dosage increase of WELLBUTRIN SR may be necessary when coadministered with ritonavir, lopinavir, or efavirenz [see Clinical Pharmacology (12.3)] but should not exceed the maximum recommended dose.
 
 Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
@@ -22,7 +22,7 @@ Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, im
 When used concomitantly with WELLBUTRIN SR, it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.
 
 Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
-Patients treated concomitantly with WELLBUTRIN SR and such drugs may require increased doses of the drug [seeClinical Pharmacology (12.3)].
+Patients treated concomitantly with WELLBUTRIN SR and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Drugs That Lower Seizure Threshold
 

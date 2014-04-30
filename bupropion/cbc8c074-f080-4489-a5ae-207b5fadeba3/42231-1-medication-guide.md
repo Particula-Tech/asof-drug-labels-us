@@ -78,8 +78,8 @@ You should also tell your healthcare provider about any symptoms you had during 
 What Other Important Information Should I Know About WELLBUTRIN SR?
 
 - •Seizures: There is a chance of having a seizure (convulsion, fit) with WELLBUTRIN SR, especially in people:
-  - ∘with certain medical problems.
-  - ∘who take certain medicines.
+  - •with certain medical problems.
+  - •who take certain medicines.
 
 The chance of having seizures increases with higher doses of WELLBUTRIN SR.
 For more information, see the sections “Who should not take WELLBUTRIN SR?” and “What should I tell my healthcare provider before taking WELLBUTRIN SR?”
@@ -94,13 +94,13 @@ Do not take WELLBUTRIN SR again if you have a seizure.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking.
 - •Manic episodes.
   Some people may have periods of mania while taking WELLBUTRIN SR, including:
-  - ∘Greatly increased energy
-  - ∘Severe trouble sleeping
-  - ∘Racing thoughts
-  - ∘Reckless behavior
-  - ∘Unusually grand ideas
-  - ∘Excessive happiness or irritability
-  - ∘Talking more or faster than usual
+  - •Greatly increased energy
+  - •Severe trouble sleeping
+  - •Racing thoughts
+  - •Reckless behavior
+  - •Unusually grand ideas
+  - •Excessive happiness or irritability
+  - •Talking more or faster than usual
 
 If you have any of the above symptoms of mania, call your healthcare provider.
 
@@ -124,11 +124,11 @@ Do not take WELLBUTRIN SR if you
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
 - •are taking any other medicines that contain bupropion, ZYBAN (used to help people stop smoking) APLENZIN®, FORFIVO XL™, WELLBUTRIN®, or WELLBUTRIN XL®.
   Bupropion is the same active ingredient that is in WELLBUTRIN SR.
-- •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy), benzodiazepines or anti-seizure medicines, and you stop using them all of a sudden.
+- •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop using them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - ∘do not take an MAOI within 2 weeks of stopping WELLBUTRIN SR unless directed to do so by your healthcare provider.
-  - ∘do not start WELLBUTRIN SR if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+  - •do not take an MAOI within 2 weeks of stopping WELLBUTRIN SR unless directed to do so by your healthcare provider.
+  - •do not start WELLBUTRIN SR if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 - •are allergic to the active ingredient in WELLBUTRIN SR, bupropion, or to any of the inactive ingredients.
   See the end of this Medication Guide for a complete list of ingredients in WELLBUTRIN SR.
 
@@ -139,9 +139,9 @@ What should I tell my healthcare provider before taking WELLBUTRIN SR?
 
 Tell your healthcare provider about your other medical conditions including if you:
 
-- •have liver problems,especially cirrhosis of the liver.
+- •have liver problems, especially cirrhosis of the liver.
 - •have kidney problems.
-- •have, or have had, an eating disorder such as anorexia nervosa or bulimia.
+- •have, or have had, an eating disorder, such as anorexia nervosa or bulimia.
 - •have had a head injury.
 - •have had a seizure (convulsion, fit).
 - •have a tumor in your nervous system (brain or spine).
@@ -249,20 +249,17 @@ The tablets are printed with edible black ink.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and ZYBAN are registered trademarks of the GlaxoSmithKline group of companies.
-
-The other brands listed are trademarks of their respective owners and are not trademarks of the GlaxoSmithKline group of companies.
-The makers of these brands are not affiliated with and do not endorse the GlaxoSmithKline group of companies or its products.
-
-Manufactured for:
+WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and ZYBAN are registered trademarks of the GSK group of companies.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013,GlaxoSmithKline group of companies.
+©2014, the GSK group of companies.
 All rights reserved.
 
-December 2013
+April 2014
 
-WLS: 9MG
+WLS: 10MG

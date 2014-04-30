@@ -39,7 +39,7 @@ Reported adverse reactions were classified using a COSTART‑based Dictionary.
 Table 3.
 Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency Than Placebo in Controlled Clinical Trials
 
-| Body System/ Adverse Reaction | WELLBUTRIN SR 300 mg/day(n = 376) | WELLBUTRIN SR 400 mg/day(n = 114) | Placebo(n = 385) |
+| Body System/Adverse Reaction | WELLBUTRIN SR 300 mg/day(n = 376) | WELLBUTRIN SR 400 mg/day(n = 114) | Placebo(n = 385) |
 | --- | --- | --- | --- |
 | Body (General) |  |  |  |
 | Headache | 26% | 25% | 23% |
