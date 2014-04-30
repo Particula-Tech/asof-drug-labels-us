@@ -7,6 +7,8 @@ NDC 16729-119-10 unit of use high-density polyethylene (HDPE) bottles of 30 with
 
 NDC 16729-119-15 unit of use high-density polyethylene (HDPE) bottles of 90 with a polypropylene child-resistant cap, an aluminum foil induction seal, and silica gel desiccant.
 
+NDC 16729-119-17 high-density polyethylene (HDPE) bottles of 1000 with a polypropylene non child-resistant cap, an aluminum foil induction seal, and silica gel desiccant.
+
 Storage
 
 Store montelukast sodium 10 mg film-coated tablets at 25°C (77°F), excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
