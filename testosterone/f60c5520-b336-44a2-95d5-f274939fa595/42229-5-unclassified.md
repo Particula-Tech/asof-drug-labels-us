@@ -1,4 +1,4 @@
-Rx ONLY CII
+Rx Only CIII
 
 WEST-WARD PHARMACEUTICALS
 
@@ -7,4 +7,4 @@ Estrada do Rio da Mό, no 8, 8A e 8B - Fervença, - 2705-906 Terrugem SNT, PORT
 
 Distributed by: WEST-WARD PHARMACEUTICAL CORP. Eatontown, NJ 07724 USA
 
-Issued: 05/2012 PIN300-WES/1
+Issued: 03/2014 PIN300-WES/2
