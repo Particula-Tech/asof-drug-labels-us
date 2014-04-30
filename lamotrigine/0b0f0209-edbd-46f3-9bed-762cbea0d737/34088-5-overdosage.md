@@ -2,7 +2,7 @@
 
 ## 10.1 Human Overdose Experience
 
-Overdoses involving quantities up to 15 g have been reported for Lamotrigine, some of which have been fatal.
+Overdoses involving quantities up to 15 g have been reported for lamotrigine, some of which have been fatal.
 Overdose has resulted in ataxia, nystagmus, increased seizures, decreased level of consciousness, coma, and intraventricular conduction delay.
 
 ## 10.2 Management of Overdose
@@ -14,4 +14,4 @@ If indicated, emesis should be induced; usual precautions should be taken to pro
 It should be kept in mind that lamotrigine is rapidly absorbed [see Clinical Pharmacology (12.3)].
 It is uncertain whether hemodialysis is an effective means of removing lamotrigine from the blood.
 In 6 renal failure patients, about 20% of the amount of lamotrigine in the body was removed by hemodialysis during a 4-hour session.
-A Poison Control Center should be contacted for information on the management of overdosage of Lamotrigine.
+A Poison Control Center should be contacted for information on the management of overdosage of lamotrigine.

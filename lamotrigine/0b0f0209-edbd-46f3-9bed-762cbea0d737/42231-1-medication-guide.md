@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Lamotrigine Tablets, USP Rx Only
+Lamotrigine Tablets, USP (la-MOE-tri-jeen) Rx Only
 
 Read this Medication Guide before you start taking Lamotrigine Tablets and each time you get a refill.
 There may be new information.
@@ -103,7 +103,7 @@ Patients prescribed Lamotrigine Tablets have sometimes been given the wrong medi
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for Lamotrigine Tablets:
 
-- Make sure you can read it clearly
+- Make sure you can read it clearly.
 - Talk to your pharmacist to check that you are given the correct medicine.
 - Each time you fill your prescription, check the tablets you receive against the information about the tablets below.
 
@@ -132,7 +132,7 @@ It is not known if Lamotrigine Tablets are safe or effective when used alone as 
 
 Who should not take Lamotrigine Tablets?
 
-You should not take Lamotrigine Tablets if you have had an allergic reaction to Lamotrigine or to any of the inactive ingredients in Lamotrigine Tablets.
+You should not take Lamotrigine Tablets if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in Lamotrigine Tablets.
 See the end of this leaflet for a complete list of ingredients in Lamotrigine Tablets.
 
 What should I tell my healthcare provider before taking Lamotrigine Tablets?
@@ -238,4 +238,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 *DEPAKENE and *DEPAKOTE are registered trademarks of Abbott Laboratories.
 
-Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 08/2013
+Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 02/2014

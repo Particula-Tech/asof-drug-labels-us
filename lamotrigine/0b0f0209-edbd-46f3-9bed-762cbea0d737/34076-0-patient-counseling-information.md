@@ -4,17 +4,17 @@ See FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Rash
 
-Prior to initiation of treatment with Lamotrigine, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
+Prior to initiation of treatment with lamotrigine, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
 
-## 17.2 Multiorgan Hypersensitivity Reactions, Blood Dyscrasias and Organ Failure
+## 17.2 Multiorgan Hypersensitivity Reactions, Blood Dyscrasias, and Organ Failure
 
-Patients should be instructed that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with Lamotrigine.
+Patients should be instructed that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with lamotrigine.
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
 Patients should contact their physician immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.2, 5.3)].
 
 ## 17.3 Suicidal Thinking and Behavior
 
-Patients, their caregivers, and families should be counseled that AEDs, including Lamotrigine, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Patients, their caregivers, and families should be counseled that AEDs, including lamotrigine, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 17.4 Worsening of Seizures
@@ -23,8 +23,8 @@ Patients should be advised to notify their physician if worsening of seizure con
 
 ## 17.5 Central Nervous System Adverse Effects
 
-Patients should be advised that Lamotrigine may cause dizziness, somnolence, and other symptoms and signs of CNS depression.
-Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on Lamotrigine to gauge whether or not it adversely affects their mental and/or motor performance.
+Patients should be advised that lamotrigine may cause dizziness, somnolence, and other symptoms and signs of CNS depression.
+Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on lamotrigine to gauge whether or not it adversely affects their mental and/or motor performance.
 
 ## 17.6 Pregnancy and Nursing
 
@@ -35,31 +35,31 @@ Patients should also be encouraged to enroll in the NAAED Pregnancy Registry if 
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
-Patients who intend to breastfeed should be informed that Lamotrigine is present in breast milk and that they should monitor their child for potential adverse effects of this drug.
+Patients who intend to breastfeed should be informed that lamotrigine is present in breast milk and that they should monitor their child for potential adverse effects of this drug.
 Benefits and risks of continuing breastfeeding should be discussed with the patient.
 
 ## 17.7 Oral Contraceptive Use
 
 Women should be advised to notify their physician if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease Lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the “pill-free” week) may significantly increase Lamotrigine plasma levels [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
-Women should also be advised to promptly notify their physician if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving Lamotrigine in combination with these medications.
+Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the “pill-free” week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
+Women should also be advised to promptly notify their physician if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving lamotrigine in combination with these medications.
 
 ## 17.8 Discontinuing Lamotrigine Tablets
 
-Patients should be advised to notify their physician if they stop taking Lamotrigine for any reason and not to resume Lamotrigine without consulting their physician.
+Patients should be advised to notify their physician if they stop taking lamotrigine for any reason and not to resume lamotrigine without consulting their physician.
 
 ## 17.9 Aseptic Meningitis
 
-Patients should be advised that Lamotrigine may cause aseptic meningitis.
-Patients should be advised to notify their physician immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking Lamotrigine.
+Patients should be advised that lamotrigine may cause aseptic meningitis.
+Patients should be advised to notify their physician immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking lamotrigine.
 
 ## 17.10 Potential Medication Errors
 
-Medication errors involving Lamotrigine have occurred.
-In particular the name Lamotrigine can be confused with the names of other commonly used medications.
-Medication errors may also occur between the different formulations of Lamotrigine.
-To reduce the potential of medication errors, write and say Lamotrigine clearly.
+Medication errors involving lamotrigine have occurred.
+In particular the name lamotrigine can be confused with the names of other commonly used medications.
+Medication errors may also occur between the different formulations of lamotrigine.
+To reduce the potential of medication errors, write and say lamotrigine clearly.
 Description of the Lamotrigine Tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
-To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are Lamotrigine, as well as the correct formulation of Lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
+To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
 
-Manufactured By: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 08/2013
+Manufactured By: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 02/2014
