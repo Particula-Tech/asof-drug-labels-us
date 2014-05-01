@@ -1,6 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-FLOVENT DISKUS should be administered by the orally inhaled route only in patients 4 years and older.
+Flovent DISKUS should be administered by the orally inhaled route only in patients aged 4 years and older.
+After inhalation, the patient should rinse his/her mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis.
+
 Individual patients will experience a variable time to onset and degree of symptom relief.
 Maximum benefit may not be achieved for 1 to 2 weeks or longer after starting treatment.
 
@@ -16,7 +18,7 @@ Recommended Dosages of FLOVENT DISKUS
 | NOTE: In all patients, it is desirable to titrate to the lowest effective dosage once asthma stability is achieved. |  |  |
 | --- | --- | --- |
 | Previous Therapy | Recommended Starting Dosage | Highest Recommended Dosage |
-| Adult and adolescent patients (aged ≥12 years) |  |  |
+| Adult and adolescent patients (aged 12 years and older) |  |  |
 | Bronchodilators alone | 100 mcg twice daily | 500 mcg twice daily |
 | Inhaled corticosteroids | 100-250 mcg twice dailya | 500 mcg twice daily |
 | Oral corticosteroidsb | 500-1,000 mcg twice dailyc | 1,000 mcg twice daily |
@@ -29,7 +31,7 @@ Patients should be carefully monitored for signs of asthma instability, includin
 Once prednisone reduction is complete, the dosage of FLOVENT DISKUS should be reduced to the lowest effective dosage.
 
 cThe choice of starting dosage should be made on the basis of individual patient assessment.
-A controlled clinical study of 111 oral corticosteroid-dependent patients with asthma showed few significant differences between the 2 doses of FLOVENT DISKUS on safety and efficacy endpoints.
+A controlled clinical trial of 111 oral corticosteroid-dependent subjects with asthma showed few significant differences between the 2 doses of FLOVENT DISKUS on safety and efficacy endpoints.
 However, inability to decrease the dose of oral corticosteroids further during corticosteroid reduction may be indicative of the need to increase the dose of fluticasone propionate up to the maximum of 1,000 mcg twice daily.
 
 dBecause individual responses may vary, pediatric patients previously maintained on other inhaled corticosteroids may require dosage adjustments upon transfer to FLOVENT DISKUS.

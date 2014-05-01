@@ -1,6 +1,5 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-FLOVENT DISKUS is an inhalation powder.
-Each actuation delivers 46, 94, or 229 mcg of fluticasone propionate from the DISKUS® inhalation unit.
-FLOVENT DISKUS is supplied as a disposable orange inhalation unit containing 60 blisters of powder formulation packaged in a plastic-coated, moisture-protective foil pouch.
-An institutional pack containing 28 blisters is also available.
+Inhalation Powder.
+Inhaler containing a foil blister strip of powder formulation for oral inhalation.
+The strip contains fluticasone propionate 50, 100, or 250 mcg per blister.
