@@ -2,26 +2,26 @@
 
 NDC 0781-5317-31
 
-Zolpidem Tartrate Tablets
+Zolpidem Tartrate Tablets, USP
 
 5 mg
 
 Rx only
 
-Pharmacist: Please dispense with medication guide
+PHARMACIST: Dispense the Medication Guide provided separately to each patient
 
 30 Tablets
 
 # Principal Display Panel
 
-0781-5318-31
+NDC 0781-5318-31
 
-Zolpidem Tartrate Tablets
+Zolpidem Tartrate Tablets, USP
 
 10 mg
 
 Rx only
 
-Pharmacist: Please dispense with Medication Guide
+PHARMACIST: Dispense the Medication Guide provided separately to each patient
 
 30 Tablets

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Zolpidem tartrate tablets are available as follows:
+Zolpidem tartrate tablets, USP are available as follows:
 
 5 mg, are white, round-shaped, biconvex, film coated tablets, with ZLP debossed on one side and 5 on the other side.
 

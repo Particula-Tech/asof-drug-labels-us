@@ -1,4 +1,6 @@
-Medication Guide Zolpidem Tartrate Tablets C-IV
+Medication Guide Zolpidem Tartrate Tablets, USP C-IV
+
+(ZOL-pih-dem)
 
 Read the Medication Guide that comes with zolpidem tartrate tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -29,7 +31,7 @@ Do not take zolpidem tartrate tablets if you:
 - •drank alcohol that evening or before bed
 - •took another medicine to help you sleep.
 
-What is zolpidem tartrate tablets?
+What are zolpidem tartrate tablets?
 
 Zolpidem tartrate tablets are a sedative-hypnotic (sleep) medicine.
 Zolpidem tartrate tablets are used in adults for the short-term treatment of a sleep problem called insomnia (trouble falling asleep).
@@ -72,13 +74,13 @@ How should I take zolpidem tartrate tablets?
 
 - •See "What is the most important information I should know about zolpidem tartrate tablets?"
 - •Take zolpidem tartrate tablets exactly as prescribed.
-  Only take one zolpidem tartrate tablets a night if needed.
+  Only take one zolpidem tartrate tablet a night if needed.
 - •Do not take zolpidem tartrate tablets if you drank alcohol that evening or before bed.
 - •You should not take zolpidem tartrate tablets with or right after a meal.
   Zolpidem tartrate tablets may help you fall asleep faster if you take it on an empty stomach.
 - •Call your healthcare provider if your insomnia worsens or is not better within 7 to 10 days.
   This may mean that there is another condition causing your sleep problem.
-- •If you take too much zolpidem tartrate tablets or overdose, get emergency treatment.
+- •If you take too many zolpidem tartrate tablets or overdose, get emergency treatment.
 
 What are the possible side effects of zolpidem tartrate tablets?
 
@@ -154,4 +156,4 @@ Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-May 2013
+March 2014
