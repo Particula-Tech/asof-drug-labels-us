@@ -182,7 +182,7 @@ The steady-state pharmacokinetics of topiramate were unaffected by concomitant a
 Lithium
 
 In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg/day.
-Lithium levels should be monitored when co-administered with high-dose TOPAMAX®[see Drug Interactions (7.5)].
+Lithium levels should be monitored when co-administered with high-dose TOPAMAX® [see Drug Interactions (7.5)].
 
 Haloperidol
 
