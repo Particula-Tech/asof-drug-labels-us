@@ -216,7 +216,7 @@ Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or 
 Closely monitor blood pressure, renal function, and electrolytes in patients on VASERETIC and other agents that affect the RAS.
 
 Do not coadminister aliskiren with VASERETIC in patients with diabetes.
-Avoid use of aliskiren with VASERETIC in patients with renal impairment (GFR <60 mL/min.
+Avoid use of aliskiren with VASERETIC in patients with renal impairment (GFR <60 mL/min).
 
 Hypotension – Patients on Diuretic Therapy: Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril.
 The possibility of hypotensive effects with enalapril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with enalapril.
