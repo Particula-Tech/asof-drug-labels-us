@@ -3,22 +3,23 @@
 ## 7.1 Alcohol
 
 Concomitant use of alcohol with KADIAN can result in an increase of morphine plasma levels and potentially fatal overdose of morphine.
-[see Clinical Pharmacology (12.3)].
+Instruct patients not to consume alcoholic beverages or use prescription or non-prescription products containing alcohol while on KADIAN therapy [See Clinical Pharmacology (12.3)].
 
 ## 7.2 CNS Depressants
 
-Concurrent use of KADIAN and other central nervous system (CNS) depressants (e.g. sedatives, hypnotics, general anesthetics, antiemetics, phenothiazines, other tranquilizers, and alcohol) can increase the risk of respiratory depression, hypotension, and profound sedation or coma.
-Monitor patients receiving CNS depressants and KADIAN for signs of respiratory depression and hypotension.
-When such combined therapy is contemplated, reduce the initial dose of one or both agents.
+The concomitant use of KADIAN with other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma and death.
+Monitor patients receiving CNS depressants and KADIAN for signs of respiratory depression, sedation and hypotension.
 
-## 7.3 Mixed Agonist/Antagonist Opioid Analgesics
+When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 
-Mixed agonist/antagonist analgesics may reduce the analgesic effect of KADIAN and/or may precipitate withdrawal symptoms in these patients.
-Avoid the use of agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, butorphanol) in patients receiving KADIAN.
+## 7.3 Interactions with Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
+
+Mixed agonist/antagonist (i.e., pentazocine, nalbuphine, butorphanol) and partial agonist (buprenorphine) analgesics may reduce the analgesic effect of KADIAN or precipitate withdrawal symptoms.
+Avoid the use of mixed agonist/antagonist and partial agonist analgesics in patients receiving KADIAN.
 
 ## 7.4 Muscle Relaxants
 
-Opioids may enhance the neuromuscular blocking action of skeletal relaxants and produce an increased degree of respiratory depression.
+Morphine may enhance the neuromuscular blocking action of skeletal relaxants and produce an increased degree of respiratory depression.
 Monitor patients receiving muscle relaxants and KADIAN for signs of respiratory depression that may be greater than otherwise expected.
 
 ## 7.5 Monoamine Oxidase Inhibitors (MAOIs)

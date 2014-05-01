@@ -1,13 +1,9 @@
 # 10 OVERDOSAGE
 
-Clinical Presentation
-
-Acute overdosage with morphine is manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, sometimes, pulmonary edema, bradycardia, hypotension, and death.
+Clinical Presentation Acute overdosage with morphine is manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, sometimes, pulmonary edema, bradycardia, hypotension, and death.
 Marked mydriasis rather than miosis may be seen due to severe hypoxia in overdose situations.
 
-Treatment of Overdose
-
-In cases of overdose, priorities are the re-establishment of a patent airway and institution of assisted or controlled ventilation if needed.
+Treatment of Overdose In cases of overdose, priorities are the re-establishment of a patent airway and institution of assisted or controlled ventilation if needed.
 Employ other supportive measures (including oxygen and vasopressors) in the management of cardiac and/or pulmonary failure as needed.
 Cardiac arrest or arrhythmias will require advanced life support techniques.
 
