@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA204683"
+  ],
+  "inn": "desvenlafaxine",
+  "labeler": "Pernix Therapeutics",
+  "package_ndcs": [
+    "65224-880-31",
+    "65224-880-90",
+    "65224-890-31",
+    "65224-890-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "desvenlafaxine",
+      "name": "KHEDEZLA"
+    }
+  ],
+  "setid": "130b1f08-7b46-4f72-b3ff-03812687d8ce",
+  "source": "dailymed"
+}
