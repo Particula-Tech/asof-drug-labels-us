@@ -2,9 +2,9 @@
 
 The following adverse reactions to DYSPORT® are discussed in greater detail in other sections of the labeling.
 
-- Hypersensitivity [see Contraindications (4)]
-- Dysphagia and Breathing Difficulties in Treatment of Cervical Dystonia [see Warnings and Precautions (5.3)]
-- Spread of Effects from Toxin [see Warnings and Precautions (5.2)]
+- •Hypersensitivity [see Contraindications (4)]
+- •Dysphagia and Breathing Difficulties in Treatment of Cervical Dystonia [see Warnings and Precautions (5.3)]
+- •Spread of Effects from Toxin [see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Studies Experience
 

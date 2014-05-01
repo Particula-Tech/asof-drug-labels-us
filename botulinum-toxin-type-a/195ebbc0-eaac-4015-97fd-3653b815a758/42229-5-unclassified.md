@@ -6,4 +6,6 @@ and
 
 Medicis Aesthetics Inc. a wholly owned subsidiary of Medicis Pharmaceutical Corporation Scottsdale, AZ 85256
 
-1030400
+1037917
+
+Rev: 09/2013

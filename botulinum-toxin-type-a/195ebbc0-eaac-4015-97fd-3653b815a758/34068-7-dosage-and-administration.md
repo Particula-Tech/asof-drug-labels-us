@@ -49,7 +49,7 @@ Reconstituted DYSPORT® should be a clear, colorless solution, free of particula
 Expel any air bubbles in the syringe barrel.
 Remove the needle used to reconstitute the product and attach an appropriately sized new sterile needle.
 
-Once reconstituted, DYSPORT® should be stored in a refrigerator at 2–8°C (36–46°F) protected from light and used within four hours.
+Once reconstituted, DYSPORT® should be stored in a refrigerator at 2–8°C (36–46°F) protected from light and used within 24 hours.
 Do not freeze reconstituted DYSPORT®.
 Discard the vial and needle in accordance with local regulations.
 
@@ -92,7 +92,7 @@ Draw a single patient dose of DYSPORT® into a sterile syringe.
 Expel any air bubbles in the syringe barrel.
 Remove the needle used to reconstitute the product and attach a 30 gauge needle.
 
-Once reconstituted, DYSPORT® should be stored in a refrigerator at 2–8°C (36–46°F) protected from light and used within four hours.
+Once reconstituted, DYSPORT® should be stored in a refrigerator at 2–8°C (36–46°F) protected from light and used within 24 hours.
 Do not freeze reconstituted DYSPORT®.
 Discard the vial and needle in accordance with local regulations.
 
@@ -108,10 +108,10 @@ Risk of ptosis can be mitigated by careful examination of the upper lid for sepa
 
 In order to reduce the complication of ptosis, the following steps should be taken:
 
-- Avoid injection near the levator palpebrae superioris, particularly in patients with larger brow depressor complexes.
-- Medial corrugator injections should be placed at least 1 centimeter above the bony supraorbital ridge.
-- Ensure the injected volume/dose is accurate and where feasible kept to a minimum.
-- Do not inject toxin closer than 1 centimeter above the central eyebrow.
+- •Avoid injection near the levator palpebrae superioris, particularly in patients with larger brow depressor complexes.
+- •Medial corrugator injections should be placed at least 1 centimeter above the bony supraorbital ridge.
+- •Ensure the injected volume/dose is accurate and where feasible kept to a minimum.
+- •Do not inject toxin closer than 1 centimeter above the central eyebrow.
 
 To inject DYSPORT®, advance the needle through the skin into the underlying muscle while applying finger pressure on the superior medial orbital rim.
 Inject patients with a total of 50 Units in five equally divided aliquots.
