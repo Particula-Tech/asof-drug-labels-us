@@ -22,7 +22,7 @@ The molecular weight of NETA is 340.47 and the molecular formula is C22H28O3.
 The structural formulas for estradiol and NETA are:
 
 CombiPatch is comprised of 3 layers.
-Proceeding from the visible surface toward the surface attached to the skin, these layers are (1) a translucent polyolefin film backing, (2) an adhesive layer containing estradiol, NETA, acrylic adhesive, silicone adhesive, oleyl alcohol, oleic acid NF, povidone USP and dipropylene glycol, and (3) a polyester release protective liner, which is attached to the adhesive surface and must be removed before the system can be used.
+Proceeding from the visible surface toward the surface attached to the skin, these layers are (1) a translucent polyolefin film backing, (2) an adhesive layer containing estradiol, NETA, acrylic adhesive, silicone adhesive, oleic acid NF, povidone USP and dipropylene glycol, and (3) a polyester release protective liner, which is attached to the adhesive surface and must be removed before the system can be used.
 
 The active components of the system are estradiol USP and NETA USP.
 The remaining components of the system are pharmacologically inactive.

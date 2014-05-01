@@ -27,4 +27,4 @@ Keep this and all medicines out of the reach of children.
 
 Vivelle® is a registered trademark of Novartis Pharmaceuticals Corporation.
 
-T2013-72 September 2013
+T2014-46 April 2014

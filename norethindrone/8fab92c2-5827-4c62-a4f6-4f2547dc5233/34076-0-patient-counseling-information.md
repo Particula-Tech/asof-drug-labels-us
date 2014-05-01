@@ -177,6 +177,6 @@ What are the ingredients in CombiPatch?
 
 Active Ingredients: estradiol and norethindrone acetate
 
-Inactive Ingredients: acrylic adhesive, silicone adhesive, oleyl alcohol, oleic acid NF, povidone USP, dipropylene glycol, polyester release protective liner
+Inactive Ingredients: acrylic adhesive, silicone adhesive, oleic acid NF, povidone USP, dipropylene glycol, polyester release protective liner
 
-T2013-73 September 2013
+T2014-47 April 2014
