@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA202331"
+  ],
+  "inn": "chlorthalidone",
+  "labeler": "Arbor Pharmaceuticals Ireland Limited",
+  "package_ndcs": [
+    "60631-412-07",
+    "60631-412-30",
+    "60631-412-90",
+    "60631-425-07",
+    "60631-425-30",
+    "60631-425-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "azilsartan kamedoxomil and chlorthalidone",
+      "name": "Edarbyclor"
+    }
+  ],
+  "setid": "e60f795b-fce3-4361-aa03-f143451689d1",
+  "source": "dailymed"
+}
