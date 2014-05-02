@@ -102,7 +102,7 @@ For the maximum screening dose of 100 mcg, use 2 mL of 50 mcg/mL baclofen inject
 Maintenance
 
 The specific concentration that should be used depends upon the total daily dose required as well as the delivery rate of the pump.
-For patients who require concentrations other than 500 mcg/mL or 2,000 mcg/mL, Gablofen must be diluted with sterile preservative free Sodium Chloride for Injection, USP.
+For patients who require concentrations other than 500 mcg/mL, 1,000 mcg/mL or 2,000 mcg/mL, Gablofen must be diluted with sterile preservative free Sodium Chloride for Injection, USP.
 
 ## 2.7 Delivery Regimen
 
