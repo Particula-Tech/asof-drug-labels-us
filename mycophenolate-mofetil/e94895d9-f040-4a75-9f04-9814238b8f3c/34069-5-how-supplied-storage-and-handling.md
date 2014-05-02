@@ -10,7 +10,7 @@ Mycophenolate Mofetil Tablets USP, 500 mg are supplied as white, modified oval t
 | 0054-0166-25 | 500 mg, white tablets, bottle of 100 |
 | 0054-0166-29 | 500 mg, white tablets, bottle of 500 |
 
-## Storage
+Storage
 
 Store at 25°C (77°F).
 See USP Controlled Room Temperature; excursions permitted to 15° to 30°C (59° to 86°F).

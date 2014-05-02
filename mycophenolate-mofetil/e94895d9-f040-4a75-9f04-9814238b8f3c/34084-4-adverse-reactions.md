@@ -1,25 +1,25 @@
 # ADVERSE REACTIONS
 
-The principal adverse reactions associated with the administration of mycophenolate mofetil USP include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections eg, opportunistic infection (see WARNINGS:Infections and WARNINGS: Latent Viral Infections).
-The adverse event profile associated with the administration of mycophenolate mofetil intravenous has been shown to be similar to that observed after administration of oral dosage forms of mycophenolate mofetil USP.
+The principal adverse reactions associated with the administration of mycophenolate mofetil include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections eg, opportunistic infection (see WARNINGS: Serious Infections and WARNINGS: New or Reactivated Viral Infections).
+The adverse event profile associated with the administration of mycophenolate mofetil intravenous has been shown to be similar to that observed after administration of oral dosage forms of mycophenolate mofetil.
 
-## Mycophenolate Mofetil USP Oral
+Mycophenolate Mofetil Oral
 
-The incidence of adverse events for mycophenolate mofetil USP was determined in randomized, comparative, double-blind trials in prevention of rejection in renal (2 active, 1 placebo-controlled trials), cardiac (1 active-controlled trial), and hepatic (1 active-controlled trial) transplant patients.
+The incidence of adverse events for mycophenolate mofetil was determined in randomized, comparative, double-blind trials in prevention of rejection in renal (2 active, 1 placebo-controlled trials), cardiac (1 active-controlled trial), and hepatic (1 active-controlled trial) transplant patients.
 
-### Geriatrics
+Geriatrics
 
-Elderly patients (≥65 years), particularly those who are receiving mycophenolate mofetil USP as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus [CMV] tissue invasive disease) and possibly gastrointestinal hemorrhage and pulmonary edema, compared to younger individuals (see PRECAUTIONS).
+Elderly patients (≥65 years), particularly those who are receiving mycophenolate mofetil as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus [CMV] tissue invasive disease) and possibly gastrointestinal hemorrhage and pulmonary edema, compared to younger individuals (see PRECAUTIONS).
 
 Safety data are summarized below for all active-controlled trials in renal (2 trials), cardiac (1 trial), and hepatic (1 trial) transplant patients.
 Approximately 53% of the renal patients, 65% of the cardiac patients, and 48% of the hepatic patients have been treated for more than 1 year.
-Adverse events reported in ≥20% of patients in the mycophenolate mofetil USP treatment groups are presented below.
+Adverse events reported in ≥20% of patients in the mycophenolate mofetil treatment groups are presented below.
 
-Table 9: Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Allograft Rejection (Reported in ≥20% of Patients in the Mycophenolate Mofetil USP Group)
+Table 9: Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Allograft Rejection (Reported in ≥20% of Patients in the Mycophenolate Mofetil Group)
 
 |  | Renal Studies |  |  | Cardiac Study |  | Hepatic Study |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Myco-phenolate2 g/day (N=336) % | Myco-phenolate 3 g/day (N=330) % | Azathio-prine 1 to 2 mg/kg/day or 100 to 150 mg/day (N=326) % | Myco-phenolate 3 g/day (N=289) % | Azathio-prine 1.5 to 3 mg/kg/day (N=289) % | Myco-phenolate 3 g/day (N=277) % | Azathio-prine 1 to 2 mg/kg/day (N=287) % |
+|  | Myco-phenolate2 g/day (n=336) % | Myco-phenolate 3 g/day (n=330) % | Azathio-prine 1 to 2 mg/kg/day or 100 to 150 mg/day (n=326) % | Myco-phenolate 3 g/day (n=289) % | Azathio-prine 1.5 to 3 mg/kg/day (n=289) % | Myco-phenolate 3 g/day (n=277) % | Azathio-prine 1 to 2 mg/kg/day (n=287) % |
 | Body as a Whole |  |  |  |  |  |  |  |
 | Pain | 33 | 31.2 | 32.2 | 75.8 | 74.7 | 74 | 77.7 |
 | Abdominal Pain | 24.7 | 27.6 | 23 | 33.9 | 33.2 | 62.5 | 51.2 |
@@ -84,35 +84,35 @@ Table 9: Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or
 The placebo-controlled renal transplant study generally showed fewer adverse events occurring in ≥20% of patients.
 In addition, those that occurred were not only qualitatively similar to the azathioprine-controlled renal transplant studies, but also occurred at lower rates, particularly for infection, leukopenia, hypertension, diarrhea and respiratory infection.
 
-The above data demonstrate that in three controlled trials for prevention of renal rejection, patients receiving 2 g/day of mycophenolate mofetil USP had an overall better safety profile than did patients receiving 3 g/day of mycophenolate mofetil USP.
+The above data demonstrate that in three controlled trials for prevention of renal rejection, patients receiving 2 g/day of mycophenolate mofetil had an overall better safety profile than did patients receiving 3 g/day of mycophenolate mofetil.
 
 The above data demonstrate that the types of adverse events observed in multicenter controlled trials in renal, cardiac, and hepatic transplant patients are qualitatively similar except for those that are unique to the specific organ involved.
 
-Sepsis, which was generally CMV viremia, was slightly more common in renal transplant patients treated with mycophenolate mofetil USP compared to patients treated with azathioprine.
-The incidence of sepsis was comparable in mycophenolate mofetil USP and in azathioprine-treated patients in cardiac and hepatic studies.
+Sepsis, which was generally CMV viremia, was slightly more common in renal transplant patients treated with mycophenolate mofetil compared to patients treated with azathioprine.
+The incidence of sepsis was comparable in mycophenolate mofetil and in azathioprine-treated patients in cardiac and hepatic studies.
 
-In the digestive system, diarrhea was increased in renal and cardiac transplant patients receiving mycophenolate mofetil USP compared to patients receiving azathioprine, but was comparable in hepatic transplant patients treated with mycophenolate mofetil USP or azathioprine.
+In the digestive system, diarrhea was increased in renal and cardiac transplant patients receiving mycophenolate mofetil compared to patients receiving azathioprine, but was comparable in hepatic transplant patients treated with mycophenolate mofetil or azathioprine.
 
-Patients receiving mycophenolate mofetil USP alone or as part of an immunosuppressive regimen are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see WARNINGS: Lymphoma and Malignancy).
+Patients receiving mycophenolate mofetil alone or as part of an immunosuppressive regimen are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see WARNINGS: Lymphoma and Malignancy).
 The incidence of malignancies among the 1483 patients treated in controlled trials for the prevention of renal allograft rejection who were followed for ≥1 year was similar to the incidence reported in the literature for renal allograft recipients.
 
-Lymphoproliferative disease or lymphoma developed in 0.4% to 1% of patients receiving mycophenolate mofetil USP (2 g or 3 g daily) with other immunosuppressive agents in controlled clinical trials of renal, cardiac, and hepatic transplant patients followed for at least 1 year (see WARNINGS: Lymphoma and Malignancy).
+Lymphoproliferative disease or lymphoma developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g daily) with other immunosuppressive agents in controlled clinical trials of renal, cardiac, and hepatic transplant patients followed for at least 1 year (see WARNINGS: Lymphoma and Malignancy).
 Non-melanoma skin carcinomas occurred in 1.6% to 4.2% of patients, other types of malignancy in 0.7% to 2.1% of patients.
 Three-year safety data in renal and cardiac transplant patients did not reveal any unexpected changes in incidence of malignancy compared to the 1-year data.
 
 In pediatric patients, no other malignancies besides lymphoproliferative disorder (2/148 patients) have been observed.
 
-Severe neutropenia (ANC <0.5 x 103/mcL) developed in up to 2% of renal transplant patients, up to 2.8% of cardiac transplant patients and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil USP 3 g daily (see WARNINGS: Neutropenia, PRECAUTIONS:Laboratory Testsand DOSAGE AND ADMINISTRATION).
+Severe neutropenia (ANC <0.5 x 103/mcL) developed in up to 2% of renal transplant patients, up to 2.8% of cardiac transplant patients and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see WARNINGS: Neutropenia, PRECAUTIONS:Laboratory Tests and DOSAGE AND ADMINISTRATION).
 
 All transplant patients are at increased risk of opportunistic infections.
-The risk increases with total immunosuppressive load (see WARNINGS: Infections and WARNINGS: Latent Viral Infections).
+The risk increases with total immunosuppressive load (see WARNINGS: Serious Infections and WARNINGS: New or Reactivated Viral Infections).
 Table 10 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
 
 Table 10: Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
 
 |  | Renal Studies |  |  | Cardiac Study |  | Hepatic Study |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Myco-phenolate2 g/day (N=336) % | Myco-phenolate 3 g/day (N=330) % | Azathio-prine 1 to 2 mg/kg/day or 100 to 150 mg/day (N=326) % | Myco-phenolate 3 g/day (N=289) % | Azathio-prine 1.5 to 3 mg/kg/day (N=289) % | Myco-phenolate 3 g/day (N=277) % | Azathio-prine 1 to 2 mg/kg/day (N=287) % |
+|  | Myco-phenolate2 g/day (n=336) % | Myco-phenolate 3 g/day (n=330) % | Azathio-prine 1 to 2 mg/kg/day or 100 to 150 mg/day (n=326) % | Myco-phenolate 3 g/day (n=289) % | Azathio-prine 1.5 to 3 mg/kg/day (n=289) % | Myco-phenolate 3 g/day (n=277) % | Azathio-prine 1 to 2 mg/kg/day (n=287) % |
 | Herpes simplex | 16.7 | 20 | 19 | 20.8 | 14.5 | 10.1 | 5.9 |
 | CMV |  |  |  |  |  |  |  |
 | Viremia/ syndrome | 13.4 | 12.4 | 13.8 | 12.1 | 10 | 14.1 | 12.2 |
@@ -122,17 +122,16 @@ Table 10: Viral and Fungal Infections in Controlled Studies in Prevention of Ren
 | Candida | 17 | 17.3 | 18.1 | 18.7 | 17.6 | 22.4 | 24.4 |
 | Mucocutaneous | 15.5 | 16.4 | 15.3 | 18 | 17.3 | 18.4 | 17.4 |
 
-The following other opportunistic infections occurred with an incidence of less than 4% in mycophenolate mofetil USP patients in the above azathioprine-controlled studies: Herpes zoster, visceral disease; Candida, urinary tract infection, fungemia/disseminated disease, tissue invasive disease; Cryptococcosis; Aspergillus/Mucor; Pneumocystis carinii.
+The following other opportunistic infections occurred with an incidence of less than 4% in mycophenolate mofetil patients in the above azathioprine-controlled studies: Herpes zoster, visceral disease; Candida, urinary tract infection, fungemia/disseminated disease, tissue invasive disease; Cryptococcosis; Aspergillus/Mucor; Pneumocystis carinii.
 
 In the placebo-controlled renal transplant study, the same pattern of opportunistic infection was observed compared to the azathioprine-controlled renal studies, with a notably lower incidence of the following: Herpes simplex and CMV tissue-invasive disease.
 
-In patients receiving mycophenolate mofetil USP (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see WARNINGS: Infections).
+In patients receiving mycophenolate mofetil (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see WARNINGS: Serious Infections).
+In cardiac transplant patients, the overall incidence of opportunistic infections was approximately 10% higher in patients treated with mycophenolate mofetil than in those receiving azathioprine, but this difference was not associated with excess mortality due to infection/sepsis among patients treated with mycophenolate mofetil.
 
-In cardiac transplant patients, the overall incidence of opportunistic infections was approximately 10% higher in patients treated with mycophenolate mofetil USP than in those receiving azathioprine, but this difference was not associated with excess mortality due to infection/sepsis among patients treated with mycophenolate mofetil USP.
+The following adverse events were reported with 3% to <20% incidence in renal, cardiac, and hepatic transplant patients treated with mycophenolate mofetil, in combination with cyclosporine and corticosteroids.
 
-The following adverse events were reported with 3% to <20% incidence in renal, cardiac, and hepatic transplant patients treated with mycophenolate mofetil USP, in combination with cyclosporine and corticosteroids.
-
-Table 11: Adverse Events Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil USP in Combination with Cyclosporine and Corticosteroids
+Table 11: Adverse Events Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil in Combination with Cyclosporine and Corticosteroids
 
 | Body System |  |
 | --- | --- |
@@ -147,15 +146,15 @@ Table 11: Adverse Events Reported in 3% to <20% of Patients Treated with Mycophe
 | Nervous | agitation, anxiety, confusion, convulsion, delirium, depression, dry mouth, emotional lability, hallucinations, hypertonia, hypesthesia, nervousness, neuropathy, paresthesia, psychosis, somnolence, thinking abnormal, vertigo |
 | Endocrine | Cushing's syndrome, diabetes mellitus, hypothyroidism, parathyroid disorder |
 | Musculoskeletal | arthralgia, joint disorder, leg cramps, myalgia, myasthenia, osteoporosis |
-| Special Senses | abnormal vision, amblyopia, cataract (not specified), conjunctivitis, deafness, ear disorder, ear pain, eye hemorrhage, tinnitus, lacrimation disorder |
+| Special Senses | abnormal vision, amblyopia, cataract (not specified), conjunctivitis, deafness, ear disorder, ear pain, eye hemorrhage, tinnitus, lacrimation disorde |
 
-### Pediatrics
+Pediatrics
 
-The type and frequency of adverse events in a clinical study in 100 pediatric patients 3 months to 18 years of age dosed with mycophenolate mofetil oral suspension USP 600 mg/m2 bid (up to 1 g bid) were generally similar to those observed in adult patients dosed with mycophenolate mofetil capsules USP at a dose of 1 g bid with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
+The type and frequency of adverse events in a clinical study in 100 pediatric patients 3 months to 18 years of age dosed with mycophenolate mofetil oral suspension 600 mg/m2 bid (up to 1 g bid) were generally similar to those observed in adult patients dosed with mycophenolate mofetil capsules at a dose of 1 g bid with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
 
-## Mycophenolate Mofetil Intravenous
+Mycophenolate Mofetil Intravenous
 
-The adverse event profile of mycophenolate mofetil intravenous was determined from a single, double-blind, controlled comparative study of the safety of 2 g/day of intravenous and oral mycophenolate mofetil USP in renal transplant patients in the immediate posttransplant period (administered for the first 5 days).
+The adverse event profile of mycophenolate mofetil intravenous was determined from a single, double-blind, controlled comparative study of the safety of 2 g/day of intravenous and oral mycophenolate mofetil in renal transplant patients in the immediate posttransplant period (administered for the first 5 days).
 The potential venous irritation of mycophenolate mofetil intravenous was evaluated by comparing the adverse events attributable to peripheral venous infusion of mycophenolate mofetil intravenous with those observed in the intravenous placebo group; patients in this group received active medication by the oral route.
 
 Adverse events attributable to peripheral venous infusion were phlebitis and thrombosis, both observed at 4% in patients treated with mycophenolate mofetil intravenous.
@@ -163,30 +162,30 @@ Adverse events attributable to peripheral venous infusion were phlebitis and thr
 In the active controlled study in hepatic transplant patients, 2 g/day of mycophenolate mofetil intravenous were administered in the immediate posttransplant period (up to 14 days).
 The safety profile of intravenous mycophenolate mofetil was similar to that of intravenous azathioprine.
 
-## Postmarketing Experience
+Postmarketing Experience
 
-### Congenital Disorders
+Congenital Disorders
 
-#### Embryofetal Toxicity
+Embryofetal Toxicity: Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil USP during pregnancy (see PRECAUTIONS:Pregnancy).
 
-Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil USP during pregnancy (see PRECAUTIONS: Pregnancy).
-
-### Digestive
+Digestive
 
 Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of intestinal villous atrophy.
 
-### Hematologic and Lymphatic
+Hematologic and Lymphatic
 
-Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil USP in combination with other immunosuppressive agents.
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
 
-### Infections
+Infections (see WARNINGS:Serious Infections,New or Reactivated Viral Infections):
 
-Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
-Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil USP.
-The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
-BK virus-associated nephropathy has been observed in patients receiving immunosuppressants, including mycophenolate mofetil USP.
-This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
+- •Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally.
+- •There is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
+- •Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil.
+  The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
+- •Polyomavirus associated neuropathy (PVAN), especially due to BK virus infection, has been observed in patients receiving immunosuppressants, including mycophenolate mofetil.
+  This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
+- •Viral reactivation has been reported in patients infected with HBV or HCV.
 
-### Respiratory
+Respiratory
 
-Interstitial lung disorders, including fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in posttransplant patients receiving mycophenolate mofetil USP.
+Interstitial lung disorders, including fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in posttransplant patients receiving mycophenolate mofetil.
