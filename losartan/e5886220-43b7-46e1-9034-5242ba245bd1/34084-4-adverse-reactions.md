@@ -13,6 +13,8 @@ The following table of adverse events is based on four 6- to 12-week, placebo-co
 All doses of losartan are grouped because none of the adverse events appeared to have a dose-related frequency.
 The adverse experiences reported in ≥1% of patients treated with losartan and more commonly than placebo are shown in the table below.
 
+Table 5
+
 |  | Losartan (n = 1075) Incidence % | Placebo (n = 334) Incidence % |
 | --- | --- | --- |
 | Musculoskeletal |  |  |
@@ -87,6 +89,8 @@ Patients who had typical ACE-inhibitor cough when challenged with lisinopril, wh
 The double-blind treatment period lasted up to 8 weeks.
 The incidence of cough is shown below.
 
+Table 6
+
 | Study 1Demographic = (89% caucasian, 64 % female) | HCTZ | Losartan | Lisinopril |
 | --- | --- | --- | --- |
 | Cough | 25 % | 17 % | 69 % |
@@ -110,6 +114,8 @@ In the LIFE study, adverse events with losartan were similar to those reported p
 In the RENAAL study involving 1513 patients treated with losartan or placebo, the overall incidences of reported adverse experiences were similar for the two groups.
 Losartan was generally well tolerated as evidenced by a similar incidence of discontinuations due to side effects compared to placebo (19% for losartan, 24% for placebo).
 The adverse experiences, regardless of drug relationship, reported with an incidence of >4% of patients treated with losartan and occurring more commonly than placebo, on a background of conventional antihypertensive therapy, are shown in the table below.
+
+Table 7
 
 |  | Losartan and Conventional Antihypertensive Therapy Incidence % (n=751) | Placebo and Conventional Antihypertensive Therapy Incidence % (n=762) |
 | --- | --- | --- |

@@ -6,15 +6,9 @@ Baltimore, Maryland 21202
 
 United States
 
-Manufactured by:
+MADE IN INDIA.
 
-Lupin Limited
-
-Goa 403 722
-
-INDIA
-
-Revised: August 15, 2013 ID# 234257
+Revised: May 2014 ID# 237496
 
 DISCLAIMER: **Trademark of Paddock Laboratories, Inc.
 
@@ -32,10 +26,9 @@ This leaflet does not take the place of talking with your doctor about your cond
 
 ## What is the most important information I should know about losartan potassium tablets?
 
-Do not take losartan potassium tablets if you are pregnant or plan to become pregnant.
-Losartan potassium tablets can harm your unborn baby causing injury and even death.
-Stop taking losartan potassium tablets if you become pregnant and call your doctor right away.
-If you plan to become pregnant, talk to your doctor about other treatment options before taking losartan potassium tablets.
+- Losartan potassium tablets can cause harm or death to an unborn baby.
+- Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+- If you get pregnant while taking losartan potassium tablets, tell your doctor right away.
 
 ## What is losartan potassium tablet?
 
@@ -171,12 +164,6 @@ Baltimore, Maryland 21202
 
 United States
 
-Manufactured by:
+MADE IN INDIA
 
-Lupin Limited
-
-Goa 403 722
-
-INDIA
-
-Revised: August 15, 2013 ID# 234258
+Revised: May 2014 ID# 237497

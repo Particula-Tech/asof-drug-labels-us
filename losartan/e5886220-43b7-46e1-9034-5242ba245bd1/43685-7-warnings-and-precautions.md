@@ -1,30 +1,25 @@
 # WARNINGS
 
-## Fetal/ Neonatal Morbidity and Mortality
+## Fetal Toxicity
 
-Drugs that act directly on the renin-angiotensin system can cause fetal and neonatal morbidity and death when administered to pregnant women.
-Several dozen cases have been reported in the world literature in patients who were taking angiotensin converting enzyme inhibitors.
-When pregnancy is detected, losartan potassium tablets should be discontinued as soon as possible.
+Pregnancy Category D
 
-The use of drugs that act directly on the renin-angiotensin system during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
-Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to exposure to the drug.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected, discontinue losartan potassium as soon as possible.
+These adverse outcomes are usually associated with the use of these drugs in the second and third trimester of pregnancy.
+Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
+Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
-These adverse effects do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the reninangiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+Perform serial ultrasound examinations to assess the intra-amniotic environment.
 
-Mothers whose embryos and fetuses are exposed to an angiotensin II receptor antagonist only during the first trimester should be so informed.
-Nonetheless, when patients become pregnant, physicians should have the patient discontinue the use of losartan potassium tablets as soon as possible.
-
-Rarely (probably less often than once in every thousand pregnancies), no alternative to an angiotensin II receptor antagonist will be found.
-In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intra-amniotic environment.
-
-If oligohydramnios is observed, losartan potassium tablets should be discontinued unless it is considered life-saving for the mother.
-Contraction stress testing (CST), a non-stress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
+If oligohydramnios is observed, discontinue losartan potassium, unless it is considered life-saving for the mother.
+Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 
-Infants with histories of in utero exposure to an angiotensin II receptor antagonist should be closely observed for hypotension, oliguria, and hyperkalemia.
-If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
-Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
+Closely observe infants with histories of in utero exposure to losartan potassium for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
 
 Losartan potassium has been shown to produce adverse effects in rat fetuses and neonates, including decreased body weight, delayed physical and behavioral development, mortality and renal toxicity.
 With the exception of neonatal weight gain (which was affected at doses as low as 10 mg/kg/day), doses associated with these effects exceeded 25 mg/kg/day (approximately three times the maximum recommended human dose of 100 mg on a mg/m2 basis).
@@ -68,8 +63,9 @@ In a clinical study conducted in type 2 diabetic patients with proteinuria, the 
 
 ### Pregnancy
 
-Female patients of childbearing age should be told about the consequences of second-and third-trimester exposure to drugs that act on the renin-angiotensin system, and they should also be told that these consequences do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-These patients should be asked to report pregnancies to their physicians as soon as possible.
+Female patients of childbearing age should be told about the consequences of exposure to losartan potassium during pregnancy.
+Discuss treatment options with women planning to become pregnant.
+Patients should be asked to report pregnancies to their physicians as soon as possible.
 
 ### Potassium Supplements
 
@@ -127,17 +123,17 @@ At 100 mg/kg/day only a decrease in the number of corpora lutea/female was obser
 The relationship of these findings to drug treatment is uncertain since there was no effect at these dosage levels on implants/pregnant female, percent post-implantation loss, or live animals/litter at parturition.
 In nonpregnant rats dosed at 135 mg/kg/day for 7 days, systemic exposure (AUCs) for losartan and its active metabolite were approximately 66 and 26 times the exposure achieved in man at the maximum recommended human daily dosage (100 mg).
 
-## Pregnancy
-
-Pregnancy Categories C (first trimester) and D (second and third trimesters).
-See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
-
 ## Nursing Mothers
 
 It is not known whether losartan is excreted in human milk, but significant levels of losartan and its active metabolite were shown to be present in rat milk.
 Because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
+
+Neonates with a history of in utero exposure to losartan potassium:
+
+If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
 Antihypertensive effects of losartan potassium tablets have been established in hypertensive pediatric patients aged 6 to 16 years.
 There are no data on the effect of losartan potassium tablets on blood pressure in pediatric patients under the age of 6 or in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations and Pharmacodynamics and Clinical Effects, and DOSAGE AND ADMINISTRATION).

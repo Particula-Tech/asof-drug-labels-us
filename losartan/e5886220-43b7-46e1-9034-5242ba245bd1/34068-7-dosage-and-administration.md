@@ -23,11 +23,11 @@ Dosage should be adjusted according to blood pressure response.
 Doses above 1.4 mg/kg (or in excess of 100 mg) daily have not been studied in pediatric patients.
 (See CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations and Pharmacodynamics and Clinical Effects, and WARNINGS, Hypotension — Volume-Depleted Patients.)
 
-Losartan potassium tablets are not recommended in pediatric patients <6 years of age or in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations, Pharmacodynamics and Clinical Effects, and PRECAUTIONS).
+Losartan potassium tablets are not recommended in pediatric patients less than 6 years of age or in pediatric patients with glomerular filtration rate less than 30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations, Pharmacodynamics and Clinical Effects, and PRECAUTIONS).
 
 Preparation of Suspension (for 200 mL of a 2.5 mg/mL suspension)
 
-Add 10 mL of Purified Water USP to an 10 ounce (300 mL) amber polyethylene terephthalate (PET) bottle containing ten 50 mg losartan potassium tablets.
+Add 10 mL of Purified Water USP to an 8 ounce (240 mL) amber polyethylene terephthalate (PET) bottle containing ten 50 mg losartan potassium tablets.
 Immediately shake for at least 2 minutes.
 Let the concentrate stand for 1 hour and then shake for 1 minute to disperse the tablet contents.
 Separately prepare a 50/50 volumetric mixture of Ora-PlusTM** and Ora-Sweet SF TM**.Add 190 mL of the 50/50 OraPlus TM/Ora-Sweet SF TM** mixture to the tablet and water slurry in the PET bottle and shake for 1 minute to disperse the ingredients.
