@@ -1,9 +1,11 @@
 Manufactured by EMD Serono, Inc. Rockland, MA 02370 U.S. License # 1773
 
-Marketed by: EMD Serono, Inc. Pfizer Inc. Rockland, MA 02370 New York, NY 10017
+Marketed by:
 
-Revised: February 2013
+EMD Serono, Inc. Rockland, MA 02370
 
-*Avonex® is a registered trademark of Biogen Idec, Inc.
+Pfizer Inc New York, NY 10017
 
-N67Z0104B
+Revised: April 2014
+
+*AVONEX is a registered trademark of Biogen Idec, Inc.

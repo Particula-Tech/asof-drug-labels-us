@@ -1,126 +1,65 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## Depression and Suicide
+## 5.1 Depression and Suicide
 
-Rebif® (interferon beta-1a) should be used with caution in patients with depression, a condition that is common in people with multiple sclerosis.
-Depression, suicidal ideation, and suicide attempts have been reported to occur with increased frequency in patients receiving interferon compounds, including Rebif®.
-In addition, there have been postmarketing reports of suicide in patients treated with Rebif®.
+REBIF (interferon beta-1a) should be used with caution in patients with depression, a condition that is common in people with multiple sclerosis.
+Depression, suicidal ideation, and suicide attempts have been reported to occur with increased frequency in patients receiving interferon compounds, including REBIF.
+In addition, there have been postmarketing reports of suicide in patients treated with REBIF.
 Patients should be advised to report immediately any symptoms of depression and/or suicidal ideation to the prescribing physician.
-If a patient develops depression, cessation of treatment with Rebif® should be considered.
+If a patient develops depression, cessation of treatment with REBIF should be considered.
 
-## Hepatic Injury
+## 5.2 Hepatic Injury
 
-Severe liver injury, including some cases of hepatic failure requiring liver transplantation, has been reported rarely in patients taking Rebif®.
-Symptoms of liver dysfunction began from one to six months following the initiation of Rebif®.
-If jaundice or other symptoms of liver dysfunction appear, treatment with Rebif® should be discontinued immediately due to the potential for rapid progression to liver failure.
+Severe liver injury, including some cases of hepatic failure requiring liver transplantation, has been reported rarely in patients taking REBIF.
+Symptoms of liver dysfunction began from one to six months following the initiation of REBIF.
+If jaundice or other symptoms of liver dysfunction appear, treatment with REBIF should be discontinued immediately due to the potential for rapid progression to liver failure.
 
-Asymptomatic elevation of hepatic transaminases (particularly SGPT) is common with interferon therapy (see ADVERSE REACTIONS).
-Rebif® should be initiated with caution in patients with active liver disease, alcohol abuse, increased serum SGPT (> 2.5 times ULN), or a history of significant liver disease.
-Also, the potential risk of Rebif® used in combination with known hepatotoxic products should be considered prior to Rebif® administration, or when adding new agents to the regimen of patients already on Rebif®.
-Reduction of Rebif® dose should be considered if SGPT rises above 5 times the upper limit of normal.
-The dose may be gradually re-escalated when enzyme levels have normalized.
-(See PRECAUTIONS: Laboratory Tests and Drug Interactions; and DOSAGE AND ADMINISTRATION)
+Asymptomatic elevation of hepatic transaminases (particularly SGPT) is common with interferon therapy [see Adverse Reactions (6.1)].
+REBIF should be initiated with caution in patients with active liver disease, alcohol abuse, increased serum SGPT (> 2.5 times ULN), or a history of significant liver disease.
+Also, the potential risk of REBIF used in combination with known hepatotoxic products should be considered prior to REBIF administration, or when adding new agents to the regimen of patients already on REBIF.
+Reduction of REBIF dose should be considered if SGPT rises above 5 times the upper limit of normal.
+The dose may be gradually re-escalated when enzyme levels have normalized [see Warnings and Precautions (5.7); and Dosage and Administration (2.1)].
 
-## Anaphylaxis
+## 5.3 Anaphylaxis and Other Allergic Reactions
 
-Anaphylaxis has been reported as a rare complication of Rebif® use.
+Anaphylaxis has been reported as a rare complication of REBIF use.
 Other allergic reactions have included skin rash and urticaria, and have ranged from mild to severe without a clear relationship to dose or duration of exposure.
 Several allergic reactions, some severe, have occurred after prolonged use.
+Discontinue REBIF if anaphylaxis occurs.
 
-## Albumin (Human)
+## 5.4 Injection Site Reactions including Necrosis
 
-This product contains albumin, a derivative of human blood.
-Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases.
-A theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD) also is considered extremely remote.
-No cases of transmission of viral diseases or CJD have ever been identified for albumin.
+In controlled clinical trials, injection site reactions occurred more frequently in REBIF-treated patients (92% in the 44 mcg group and 89% in the 22 mcg group) than in placebo-treated patients (39%) and at a higher frequency in REBIF treated patients (83%) than in AVONEX-treated patients (28%).
+Injection site necrosis also occurred more frequently in REBIF-treated patients (3% in the 44 mcg group and 1% in the 22 mcg group) than in placebo-treated patients (0) during the two years of therapy.
+All events resolved with conservative management.
 
-# PRECAUTIONS
+Injection site reactions including injection site pain, erythema, edema, cellulitis, abscess, and necrosis have been reported in the postmarketing setting.
+Some occurred more than 2 years after initiation of REBIF.
+Necrosis occurred at single and at multiple injection sites.
+Some cases of injection site necrosis required treatment with intravenous antibiotics and surgical intervention (debridement and skin grafting).
 
-## General
+Patient understanding and use of aseptic self-injection techniques and procedures should be periodically evaluated, particularly if injection site necrosis has occurred.
+Patients should be advised of the importance of rotating sites of injection with each dose and not reusing syringes.
+Patients should be advised against injecting an area which is inflamed, edematous, erythematous, ecchymotic, or has any other signs of infection.
+These signs should be reported to a healthcare professional immediately.
 
-Caution should be exercised when administering Rebif® to patients with pre-existing seizure disorders.
-Seizures have been associated with the use of beta interferons.
-Leukopenia and new or worsening thyroid abnormalities have developed in some patients treated with Rebif® (see ADVERSE REACTIONS).
-Regular monitoring for these conditions is recommended (see PRECAUTIONS: Laboratory Tests).
+## 5.5 Decreased Peripheral Blood Counts
 
-## Information for Patients
+Decreased peripheral blood counts in all cell lines, including pancytopenia, have been reported in REBIF-treated patients.
+In controlled clinical trials, leukopenia occurred at a higher frequency in REBIF-treated patients (36% in 44 mcg group and 28% in 22 mcg group) than in placebo-treated patients (14%) and at a higher frequency in REBIF-treated patients (6%) compared to the AVONEX-treated patients (<1%).
+Thrombocytopenia and anemia occurred more frequently in 44 mcg REBIF-treated patients (8% and 5%, respectively) than in placebo-treated patients (2% and 3%, respectively).
+In a pooled analysis of 7 placebo controlled trials with REBIF doses of 22 mcg or 44 mcg, the rate of pancytopenia (in subjects with normal baseline values who developed laboratory values less than the lower limit of normal for all 3 hematology parameters simultaneously) was higher in the total REBIF group (5.5 per 1000 subject-year) than in the placebo group (1.2 per 1000 subject-year).
+Patients should be monitored for symptoms or signs of decreased blood counts.
+Monitoring of complete blood and differential white blood cell counts is also recommended [see Dosage and Administration (2.1) and Warnings and Precautions (5.7)].
 
-All patients should be instructed to read the Rebif® Medication Guide supplied to them.
-Patients should be cautioned not to change the dosage or the schedule of administration without medical consultation.
+## 5.6 Seizures
 
-Patients should be informed of the most common and the most severe adverse reactions associated with the use of Rebif® (see WARNINGS and ADVERSE REACTIONS).
-Patients should be advised of the symptoms associated with these conditions, and to report them to their physician.
+Caution should be exercised when administering REBIF to patients with pre-existing seizure disorders.
+Seizures have been temporally associated with the use of beta interferons, including REBIF, in clinical trials and in postmarketing reports.
 
-Female patients should be cautioned about the abortifacient potential of Rebif® (see PRECAUTIONS: Pregnancy).
+## 5.7 Laboratory Tests
 
-Patients should be instructed in the use of aseptic technique when administering Rebif®.
-Appropriate instruction for self-injection or injection by another person should be provided to the patient or their caregiver, including careful review of the Rebif® Medication Guide and the Rebif® Rebidose® autoinjector Instructions for Use that accompanies the product.
-Users should demonstrate competency in all aspects of the injection prior to independent use.
-If a patient is to self-administer Rebif®, the physical and cognitive ability of that patient to self-administer and properly dispose of pre-filled syringes or the Rebif® Rebidose® autoinjectors should be assessed.
-Patients with severe neurological deficits should not self administer injections without assistance from a trained caregiver.
-The initial injection should be performed under the supervision of an appropriately qualified health care provider.
-Patients can remove the pre-filled syringes or the Rebif® Rebidose® autoinjector from the refrigerator at least 30 minutes prior to use so it can warm to room temperature.
-Patients should be advised of the importance of rotating sites of injection with each dose, to minimize the likelihood of severe injection site reactions or necrosis and whether or not to pinch the skin prior to injection.
-A puncture-resistant container for disposal of used needles, pre-filled syringes and Rebif® Rebidose® autoinjectors should be supplied to the patient along with instructions for safe disposal of full containers.
-Patients should be instructed in the importance of proper disposal of pre-filled syringes and Rebif® Rebidose® autoinjectors and be cautioned against reuse of these items.
-
-## Laboratory Tests
-
-In addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, blood cell counts and liver function tests are recommended at regular intervals (1, 3, and 6 months) following introduction of Rebif® therapy and then periodically thereafter in the absence of clinical symptoms.
+In addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, blood cell counts and liver function tests are recommended at regular intervals (1, 3, and 6 months) following introduction of REBIF therapy and then periodically thereafter in the absence of clinical symptoms.
+Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts [see Dosage and Administration (2.1) and Warnings and Precautions (5.5)].
+New or worsening thyroid abnormalities have developed in some patients treated with REBIF.
 Thyroid function tests are recommended every 6 months in patients with a history of thyroid dysfunction or as clinically indicated.
-Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts.
-
-## Drug Interactions
-
-No formal drug interaction studies have been conducted with Rebif®.
-Due to its potential to cause neutropenia and lymphopenia, proper monitoring of patients is required if Rebif® is given in combination with myelosuppressive agents.
-
-Also, the potential for hepatic injury should be considered when Rebif® is used in combination with other products associated with hepatic injury, or when new agents are added to the regimen of patients already on Rebif® (see WARNINGS: Hepatic Injury).
-
-## Immunization
-
-In a nonrandomized prospective clinical study, 86 multiple sclerosis (MS) patients on Rebif® 44 mcg three times per week for at least 6 months and 77 patients not receiving interferon received influenza vaccination.
-The proportion of patients achieving a positive antibody response (defined as a titer > 1:40 measured by a hemagglutination inhibition assay) was similar in the two groups (93% and 91%, respectively).
-The exact relationship of antibody titers to vaccine efficacy was not studied and is not known in patients receiving Rebif®.
-Therefore, while patients receiving Rebif® may receive concomitant vaccination, the overall effectiveness of such vaccination is unknown.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-### Carcinogenesis
-
-No carcinogenicity data for Rebif® are available in animals or humans.
-
-### Mutagenesis
-
-Rebif® was not mutagenic when tested in the in vitro Ames bacterial test and in an in vitro cytogenetic assay in human lymphocytes in the presence and absence of metabolic activation.
-
-### Impairment of Fertility
-
-No studies have been conducted to evaluate the effects of Rebif® on fertility in humans.
-In studies in normally cycling female cynomolgus monkeys given daily sc injections of Rebif® for six months at doses of up to 9 times the recommended weekly human dose (based on body surface area), no effects were observed on either menstrual cycling or serum estradiol levels.
-The validity of extrapolating doses used in animal studies to human doses is not established.
-In male monkeys, the same doses of Rebif® had no demonstrable adverse effects on sperm count, motility, morphology, or function.
-
-## Pregnancy
-
-### Pregnancy Category C
-
-There are no adequate and well-controlled studies in pregnant women.
-Rebif® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-In a study in pregnant cynomolgus monkeys, Rebif® was administered daily (intramuscular doses approximately 1, 2, and 7 times the maximum recommended cumulative weekly human dose, based on body surface area) either during the period of organogenesis (gestation day 21-89) or later in pregnancy (gestation day 90 to term).
-In treated dams, non-dose-related increases in spontaneous abortions and fetal and neonatal deaths were observed.
-
-## Nursing Mothers
-
-It is not known whether Rebif® is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Rebif® is administered to a nursing woman.
-
-## Pediatric Use
-
-The safety and effectiveness in pediatric patients have not been studied.
-
-## Geriatric Use
-
-Clinical studies of Rebif® did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently than younger subjects.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.

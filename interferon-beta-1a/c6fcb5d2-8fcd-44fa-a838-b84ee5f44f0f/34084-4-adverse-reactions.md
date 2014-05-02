@@ -1,112 +1,100 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The most frequently reported serious adverse reactions with Rebif® were psychiatric disorders including depression and suicidal ideation or attempt (see WARNINGS).
-The incidence of depression of any severity in the Rebif®-treated groups and placebo-treated group was approximately 25%.
-In post-marketing experience, Rebif® administration has been rarely associated with severe liver dysfunction, including hepatic failure requiring liver transplantation (see WARNINGS: Hepatic Injury).
+The following adverse reactions are discussed in more detail in the Warnings and Precautions section of the label:
 
-The most commonly reported adverse reactions were injection site disorders, influenza-like symptoms (headache, fatigue, fever, rigors, chest pain, back pain, myalgia), abdominal pain, depression, elevation of liver enzymes and hematologic abnormalities.
-The most frequently reported adverse reactions resulting in clinical intervention (e.g., discontinuation of Rebif®, adjustment in dosage, or the need for concomitant medication to treat an adverse reaction symptom) were injection site disorders, influenza-like symptoms, depression and elevation of liver enzymes (see WARNINGS).
+- Depression and Suicide [see Warnings and Precautions (5.1)]
+- Hepatic Injury [see Warnings and Precautions (5.2)]
+- Anaphylaxis and Other Allergic Reactions [see Warnings and Precautions (5.3)]
+- Injection Site Reactions including Necrosis [see Warnings and Precautions (5.4)]
+- Decreased Peripheral Blood Counts [see Warnings and Precautions (5.5)]
+- Seizures [see Warnings and Precautions (5.6)]
+- Laboratory Tests [see Warnings and Precautions (5.7)]
 
-In Study 1, 6 patients randomized to Rebif® 44 mcg three times per week (3%), and 2 patients who received Rebif® 22 mcg three times per week (1%) developed injection site necrosis during two years of therapy.
-Rebif® was continued in 7 patients and interrupted briefly in one patient.
-There was one report of injection site necrosis in Study 2 during 48 weeks of Rebif® treatment.
-All events resolved with conservative management; none required skin debridement or grafting.
+## 6.1 Clinical Trial Experience
 
-The rates of adverse reactions and association with Rebif® in patients with relapsing-remitting multiple sclerosis are drawn from the placebo-controlled study (n = 560) and the active comparator-controlled study (n = 339).
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of REBIF cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
 
-The population encompassed an age range from 18 to 55 years.
+A total of 712 patients with relapsing-remitting multiple sclerosis (RRMS) in two controlled clinical trials took REBIF (22 mcg or 44 mcg given three times per week) [see Clinical Studies (14)].
+Ages ranged from 18 to 55 years.
 Nearly three-fourths of the patients were female, and more than 90% were Caucasian, largely reflecting the general demographics of the population of patients with multiple sclerosis.
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of Rebif® cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
+The most commonly reported adverse reactions were injection site disorders, influenza-like symptoms (headache, fatigue, fever, rigors, chest pain, back pain, myalgia), abdominal pain, depression, elevation of liver enzymes and hematologic abnormalities.
+The most frequently reported adverse reactions resulting in clinical intervention (e.g., discontinuation of REBIF, adjustment in dosage, or the need for concomitant medication to treat an adverse reaction were injection site disorders, influenza-like symptoms, depression, and elevation of liver enzymes [see Warnings and Precautions (5)].
 
-Table 3 enumerates adverse events and laboratory abnormalities that occurred at an incidence that was at least 2% more in either Rebif®-treated group than was observed in the placebo group.
+Study 1 was a 2-year placebo-controlled study in RRMS patients treated with REBIF 22 mcg (n=189), 44 mcg (n=184), or placebo (n=187).
+Table 3 enumerates adverse reactions and laboratory abnormalities that occurred at an incidence that was at least 2% more in either REBIF-treated group than was observed in the placebo group.
 
 Table 3.
 Adverse Reactions and Laboratory Abnormalities in Study 1
 
-| Preferred Term | (n=187) | (n=189) | (n=184) |
+| Preferred Term | % | % | % |
 | --- | --- | --- | --- |
-| Body System | Placebo tiw | Rebif® 22 mcg tiw | Rebif® 44 mcg tiw |
+| Body System | Placebo tiw (n=187) | REBIF 22 mcg tiw (n=189) | REBIF 44 mcg tiw (n=184) |
 | BODY AS A WHOLE |  |  |  |
-| Influenza-like symptoms | 51% | 56% | 59% |
-| Headache | 63% | 65% | 70% |
-| Fatigue | 36% | 33% | 41% |
-| Fever | 16% | 25% | 28% |
-| Rigors | 5% | 6% | 13% |
-| Chest Pain | 5% | 6% | 8% |
-| Malaise | 1% | 4% | 5% |
+| Influenza-like symptoms | 51 | 56 | 59 |
+| Headache | 63 | 65 | 70 |
+| Fatigue | 36 | 33 | 41 |
+| Fever | 16 | 25 | 28 |
+| Rigors | 5 | 6 | 13 |
+| Chest pain | 5 | 6 | 8 |
+| Malaise | 1 | 4 | 5 |
 | INJECTION SITE DISORDERS |  |  |  |
-| Injection Site Reaction | 39% | 89% | 92% |
-| Injection Site Necrosis | 0% | 1% | 3% |
-| CENTRAL AND PERIPHERAL NERVOUS SYSTEM DISORDERS |  |  |  |
-| Hypertonia | 5% | 7% | 6% |
-| Coordination Abnormal | 2% | 5% | 4% |
-| Convulsions | 2% | 5% | 4% |
+| Injection Site Reaction | 39 | 89 | 92 |
+| Injection Site Necrosis | 0 | 1 | 3 |
+| NERVOUS SYSTEM DISORDERS |  |  |  |
+| Hypertonia | 5 | 7 | 6 |
+| Coordination Abnormal | 2 | 5 | 4 |
+| Convulsions | 2 | 5 | 4 |
+| Somnolence | 1 | 4 | 5 |
 | ENDOCRINE DISORDERS |  |  |  |
-| Thyroid Disorder | 3% | 4% | 6% |
+| Thyroid Disorder | 3 | 4 | 6 |
 | GASTROINTESTINAL SYSTEM DISORDERS |  |  |  |
-| Abdominal Pain | 17% | 22% | 20% |
-| Dry Mouth | 1% | 1% | 5% |
+| Abdominal Pain | 17 | 22 | 20 |
+| Dry Mouth | 1 | 1 | 5 |
 | LIVER AND BILIARY SYSTEM DISORDERS |  |  |  |
-| SGPT Increased | 4% | 20% | 27% |
-| SGOT Increased | 4% | 10% | 17% |
-| Hepatic Function Abnormal | 2% | 4% | 9% |
-| Bilirubinaemia | 1% | 3% | 2% |
+| SGPT Increased | 4 | 20 | 27 |
+| SGOT Increased | 4 | 10 | 17 |
+| Bilirubinemia | 1 | 3 | 2 |
 | MUSCULO-SKELETAL SYSTEM DISORDERS |  |  |  |
-| Myalgia | 20% | 25% | 25% |
-| Back Pain | 20% | 23% | 25% |
-| Skeletal Pain | 10% | 15% | 10% |
+| Myalgia | 20 | 25 | 25 |
+| Back Pain | 20 | 23 | 25 |
+| Skeletal Pain | 10 | 15 | 10 |
 | HEMATOLOGIC DISORDERS |  |  |  |
-| Leukopenia | 14% | 28% | 36% |
-| Lymphadenopathy | 8% | 11% | 12% |
-| Thrombocytopenia | 2% | 2% | 8% |
-| Anemia | 3% | 3% | 5% |
-| PSYCHIATRIC DISORDERS |  |  |  |
-| Somnolence | 1% | 4% | 5% |
+| Leukopenia | 14 | 28 | 36 |
+| Lymphadenopathy | 8 | 11 | 12 |
+| Thrombocytopenia | 2 | 2 | 8 |
+| Anemia | 3 | 3 | 5 |
 | SKIN DISORDERS |  |  |  |
-| Rash Erythematous | 3% | 7% | 5% |
-| Rash Maculo-Papular | 2% | 5% | 4% |
+| Rash Erythematous | 3 | 7 | 5 |
+| Rash Maculo-Papular | 2 | 5 | 4 |
 | URINARY SYSTEM DISORDERS |  |  |  |
-| Micturition Frequency | 4% | 2% | 7% |
-| Urinary Incontinence | 2% | 4% | 2% |
+| Micturition Frequency | 4 | 2 | 7 |
+| Urinary Incontinence | 2 | 4 | 2 |
 | VISION DISORDERS |  |  |  |
-| Vision Abnormal | 7% | 7% | 13% |
-| Xerophthalmia | 0% | 3% | 1% |
+| Vision Abnormal | 7 | 7 | 13 |
+| Xerophthalmia | 0 | 3 | 1 |
 
-The adverse reactions were generally similar in Studies 1 and 2, taking into account the disparity in study durations.
+Adverse reactions in Study 2, a 1-year active-controlled (vs. interferon beta-1a, 30 mcg once weekly intramuscular injection, n=338) study including 339 patients with MS treated with REBIF were generally similar to those in Study 1, taking into account the disparity in study durations.
 
-## Postmarketing Experience
+## 6.2 Immunogenicity
 
-In addition to adverse events reported from clinical trials, the following events have been reported during postmarketing use of Rebif®.
-Because these reactions were reported voluntarily from a population of uncertain size, the frequency or a causal relationship to Rebif® cannot be reliably determined.
-
-Autoimmune Disorders: Drug-induced lupus erythematosus, autoimmune hepatitis.
-
-Blood and Lymphatic System Disorders: Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), pancytopenia.
-
-Eye Disorders: Retinal vascular disorders (i.e. retinopathy, cotton wool spots or obstruction of retinal artery or vein).
-
-General Disorders and Administration Site Conditions: Increased sweating.
-
-Hepatobiliary Disorders: Rare cases of severe liver dysfunction, including hepatic failure requiring liver transplantation (see WARNINGS: Hepatic Injury).
-
-Nervous System: Seizures (see PRECAUTIONS: General).
-Transient neurological symptoms (i.e., hypoesthesia, muscle spasm, paresthesia, difficulty walking, musculoskeletal stiffness) that mimic MS exacerbations of limited duration, temporally related to the injections and most prominent at the initiation of therapy.
-In some cases, these symptoms were associated with flu-like syndrome.
-
-Psychiatric Disorders: Suicide (see WARNINGS: Depression and Suicide).
-
-Skin and Subcutaneous Tissue Disorders: Injection site abscesses, injection site infections, including cellulitis and necrosis requiring debridement, systemic antibiotic treatment and/or grafting; erythema multiforme, and Stevens-Johnson syndrome.
-
-## Immunogenicity
-
+Anaphylaxis and other allergic reactions have been observed with the use of REBIF [see Warnings and Precautions (5.3)].
 As with all therapeutic proteins, there is a potential for immunogenicity.
-In Study 1, the presence of neutralizing antibodies (NAb) to Rebif® was determined by collecting and analyzing serum pre-study and at 6 month time intervals during the 2 years of the clinical trial.
-Serum NAb were detected in 59/189 (31%) and 45/184 (24%) of Rebif®-treated patients at the 22 mcg and 44 mcg three times per week doses, respectively, at one or more times during the study.
-The clinical significance of the presence of NAb to Rebif® is unknown.
-
-The data reflect the percentage of patients whose test results were considered positive for antibodies to Rebif® using an antiviral cytopathic effect assay, and are highly dependent on the sensitivity and specificity of the assay.
+In Study 1, the presence of neutralizing antibodies (NAb) to REBIF was determined by collecting and analyzing serum pre-study and at 6 month time intervals during the 2 years of the clinical trial.
+Serum NAb were detected in 59/189 (31%) and 45/184 (24%) of REBIF-treated patients at the 22 mcg and 44 mcg three times per week doses, respectively, at one or more times during the study.
+The data reflect the percentage of patients whose test results were considered positive for antibodies to REBIF using an antiviral cytopathic effect assay, and are highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of NAb positivity in an assay may be influenced by several factors including sample handling, timing of sample collection, concomitant medications and underlying disease.
-For these reasons, comparison of the incidence of antibodies to Rebif® with the incidence of antibodies to other products may be misleading.
+For these reasons, comparison of the incidence of antibodies to REBIF with the incidence of antibodies to other products may be misleading.
 
-Anaphylaxis and other allergic reactions have been observed with the use of Rebif® (see WARNINGS: Anaphylaxis).
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of REBIF.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Autoimmune Disorders: Drug-induced lupus erythematosus, autoimmune hepatitis
+
+Blood and Lymphatic System Disorders: Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS)
+
+Eye Disorders: Retinal vascular disorders (i.e. retinopathy, cotton wool spots or obstruction of retinal artery or vein)
+
+Skin and Subcutaneous Tissue Disorders: Erythema multiforme, Stevens-Johnson syndrome
