@@ -1,10 +1,6 @@
-Hydrochloride for Injection, USP
-
 Fliptop Vial
 
 For Intravenous Use
-
-Rx only
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of vancomycin and other antibacterial drugs, vancomycin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
@@ -25,17 +21,7 @@ Compatibility with Other Drugs and Intravenous Fluids
 Solutions that are diluted with 5% Dextrose Injection or 0.9% Sodium Chloride Injection may be refrigerated for 14 days without significant loss of potency.
 Solutions in the vial that are further diluted with the following infusion fluids may be stored in a refrigerator for 96 hours:
 
-5% Dextrose Injection, USP
-
-5% Dextrose and 0.9% Sodium Chloride Injection, USP
-
-Lactated Ringer’s Injection, USP
-
-Lactated Ringer’s and 5% Dextrose Injection, USP
-
-Normosol®-M and 5% Dextrose
-
-ISOLYTE® E
+5% Dextrose Injection, USP 5% Dextrose and 0.9% Sodium Chloride Injection, USP Lactated Ringer’s Injection, USP Lactated Ringer’s and 5% Dextrose Injection, USP Normosol®-M and 5% Dextrose ISOLYTE® E
 
 Vancomycin solution has a low pH and may cause chemical or physical instability when it is mixed with other compounds.
 
@@ -49,10 +35,12 @@ The precipitates dissolved gradually, with complete clearing of the vitreous cav
 
 Prior to administration, parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution or container permits.
 
+For Oral Administration
+
 Oral vancomycin is used in treating antibiotic-associated pseudomembranous colitis caused by C. difficile and for staphylococcal enterocolitis.
 Vancomycin is not effective by the oral route for other types of infections.
 The usual adult total daily dosage is 500 mg to 2 g given in 3 or 4 divided doses for 7 to 10 days.
 The total daily dosage in pediatric patients is 40 mg/kg of body weight in 3 or 4 divided doses for 7 to 10 days.
 The total daily dosage should not exceed 2 g. The appropriate dose may be diluted in 1 oz of water and given to the patient to drink.
 Common flavoring syrups may be added to the solution to improve the taste for oral administration.
-The diluted material may be administered via nasogastric tube.
+The diluted solution may be administered via nasogastric tube.
