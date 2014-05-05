@@ -60,7 +60,7 @@ Table 1: Adverse reactions reported in Study 1 (occurring in ≥2% of TOBI Podha
 | Rash | 2.3 | 2.4 |
 | 1This includes adverse events of pulmonary or cystic fibrosis exacerbations |  |  |
 
-Adverse drug reactions that occurred in <2% of patients treated with TOBI Podhaler in Study 1 were: bronchospasm (TOBI Podhaler 1.6%, TOBI 0.5%); deafness including deafness unilateral (reported as mild to moderate hearing loss or increased hearing loss) (TOBI Podhaler 1.0%, TOBI 0.5%);tinnitus (TOBI Podhaler 1.9%, TOBI 2.4%); and aphonia (TOBI Podhaler 1.0%, TOBI 0%).
+Adverse drug reactions that occurred in <2% of patients treated with TOBI Podhaler in Study 1 were: bronchospasm (TOBI Podhaler 1.6%, TOBI 0.5%); deafness including deafness unilateral (reported as mild to moderate hearing loss or increased hearing loss) (TOBI Podhaler 1.0%, TOBI 0.5%); and tinnitus (TOBI Podhaler 1.9%, TOBI 2.4%).
 
 Discontinuations in Study 1 were higher in the TOBI Podhaler arm compared to TOBI (27% TOBI Podhaler vs 18% TOBI).
 This was driven primarily by discontinuations due to adverse events (14% TOBI Podhaler vs 8% TOBI).
@@ -120,3 +120,12 @@ The rates of bronchospasm (as measured by ≥20% decrease in FEV1 % predicted po
 In Study 2, cough was the most commonly reported adverse event during the first cycle of treatment (the double blind period of treatment) and occurred more frequently in placebo-treated patients (26.5%) than patients treated with TOBI Podhaler (13%).
 Similar percentages of patients in both treatment groups reported cough as a baseline symptom.
 In Study 3, cough events were reported by three patients in the TOBI Podhaler group (10%) and none in the placebo group (0%).
+
+## 6.2 Post-Marketing Experience
+
+The following adverse reaction has been identified during postapproval use of TOBI Podhaler.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Nervous system disorders
+
+Aphonia
