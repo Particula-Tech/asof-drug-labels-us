@@ -62,3 +62,9 @@ However, the optimum regimen for safe administration of gemcitabine with therape
 
 Capillary leak syndrome (CLS) with severe consequences has been reported in patients receiving gemcitabine as a single agent or in combination with other chemotherapeutic agents.
 Discontinue gemcitabine if CLS develops during therapy.
+
+## 5.10 Posterior Reversible Encephalopathy Syndrome
+
+Posterior reversible encephalopathy syndrome (PRES) has been reported in patients receiving gemcitabine as a single agent or in combination with other chemotherapeutic agents.
+PRES can present with headache, seizure, lethargy, confusion, blindness, and other visual and neurologic disturbances.
+Confirm the diagnosis of PRES with magnetic resonance imaging (MRI) and discontinue gemcitabine if PRES develops during therapy.

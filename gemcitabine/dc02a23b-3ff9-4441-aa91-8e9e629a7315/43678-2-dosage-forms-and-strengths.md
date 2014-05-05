@@ -4,4 +4,4 @@ Gemcitabine Injection is a clear and colorless to light straw-colored solution a
 
 - 200 mg/5.26 mL (38 mg/mL)
 - 1 g/26.3 mL (38 mg/mL)
-- 2 g/56.2 mL (38 mg/mL)
+- 2 g/52.6 mL (38 mg/mL)

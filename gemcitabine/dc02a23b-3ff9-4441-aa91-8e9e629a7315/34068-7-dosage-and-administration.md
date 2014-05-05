@@ -108,7 +108,20 @@ Gemcitabine Injection should be administered with caution in patients with evide
 Patients treated with Gemcitabine Injection who complete an entire cycle of therapy may have the dose for subsequent cycles increased by 25%, provided that the absolute granulocyte count (AGC) and platelet nadirs exceed 1500 x 106/L and 100,000 x 106/L, respectively, and if non-hematologic toxicity has not been greater than WHO Grade 1.
 If patients tolerate the subsequent course of Gemcitabine Injection at the increased dose, the dose for the next cycle can be further increased by 20%, provided again that the AGC and platelet nadirs exceed 1500 x 106/L and 100,000 x 106/L, respectively, and that non-hematologic toxicity has not been greater than WHO Grade 1.
 
-## 2.5 Preparation and Administration Precautions
+## 2.5 Dose Modifications for Non-Hematologic Adverse Reactions
+
+Permanently discontinue Gemcitabine for any of the following
+
+- Unexplained dyspnea or other evidence of severe pulmonary toxicity
+- Severe hepatic toxicity
+- Hemolytic-Uremic Syndrome
+- Capillary Leak Syndrome
+- Posterior reversible encephalopathy syndrome
+
+Withhold Gemcitabine or reduce dose by 50% for other severe (Grade 3 or 4) non-hematological toxicity until resolved.
+No dose modifications are recommended for alopecia, nausea, or vomiting.
+
+## 2.6 Preparation and Administration Precautions
 
 Caution should be exercised in handling and preparing Gemcitabine Injection and diluted solution.
 The use of gloves is recommended.
@@ -118,7 +131,7 @@ Although acute dermal irritation has not been observed in animal studies, 2 of 3
 Procedures for proper handling and disposal of anti-cancer drugs should be considered.
 Several guidelines on this subject have been published [see References (15)].
 
-## 2.6 Preparation for Intravenous Infusion Administration
+## 2.7 Preparation for Intravenous Infusion Administration
 
 Each vial contains a gemcitabine concentration of 38 mg/mL.
 Hence, withdrawing 5.26 mL, 26.3 mL, or 52.6 mL of the vial contents will provide 200 mg, 1 g, or 2 g of gemcitabine, respectively.

@@ -1,5 +1,17 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are discussed in greater detail in another section of the label
+
+- Schedule-Dependent Toxicity [see Warnings and Precautions (5.1)]
+- Myelosuppression [see Warnings and Precautions (5.2)]
+- Pulmonary Toxicity and Respiratory Failure [see Warnings and Precautions (5.3)]
+- Hemolytic Uremic Syndrome [see Warnings and Precautions (5.4)]
+- Hepatic Toxicity [see Warnings and Precautions (5.5)]
+- Embryo-fetal Toxicity [see Warnings and Precautions (5.6), Use in Specific Populations (8.1), and Nonclinical Toxicology (13.1)]
+- Exacerbation of Radiation Toxicity [see Warnings and Precautions (5.8)]
+- Capillary Leak Syndrome [see Warnings and Precautions (5.9)]
+- Posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.10)].
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -8,7 +20,7 @@ Most adverse reactions are reversible and do not need to result in discontinuati
 
 Gemcitabine has been used in a wide variety of malignancies, both as a single-agent and in combination with other cytotoxic drugs.
 
-Single-Agent Use:
+Single-Agent Use
 
 Myelosuppression is the principal dose-limiting toxicity with gemcitabine therapy.
 Dosage adjustments for hematologic toxicity are frequently needed [see Dosage and Administration (2.1, 2.2, 2.3, and 2.4)].
@@ -95,7 +107,7 @@ Gemcitabine should not be administered to patients with a known hypersensitivity
 Cardiovascular - During clinical trials, 2% of patients discontinued therapy with gemcitabine due to cardiovascular events such as myocardial infarction, cerebrovascular accident, arrhythmia, and hypertension.
 Many of these patients had a prior history of cardiovascular disease [see Adverse Reactions (6.2)].
 
-Combination Use in Non-Small Cell Lung Cancer:
+Combination Use in Non-Small Cell Lung Cancer
 
 In the gemcitabine plus cisplatin versus cisplatin study, dose adjustments occurred with 35% of gemcitabine injections and 17% of cisplatin injections on the combination arm, versus 6% on the cisplatin-only arm.
 Dose adjustments were required in greater than 90% of patients on the combination, versus 16% on cisplatin.
@@ -171,7 +183,7 @@ Table 6: Selected WHO-Graded Adverse Reactions From Comparative Trial of Gemcita
 | Non-laboratoryf,g Nausea and Vomiting Fever Rash Dyspnea Diarrhea Hemorrhage Infection Alopecia Stomatitis Somnolence Paresthesias | 966101149287720338 | 3500010313400 | 40011310000 | 86333133219218316 | 1900000851222 | 70002300000 |
 | a Grade based on criteria from the World Health Organization (WHO).b N=67-69; all gemcitabine plus cisplatin patients with laboratory or non-laboratory data. Gemcitabine at 1250 mg/m2 on Days 1 and 8 and cisplatin at 100 mg/m2 on Day 1 every 21 days.c N=57-63; all cisplatin plus etoposide patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 and intravenous etoposide at 100 mg/m2 on Days 1, 2, and 3 every 21 days.d Regardless of causality.e Percent of patients receiving transfusions. Percent transfusions are not WHO-graded events.f Non-laboratory events were graded only if assessed to be possibly drug-related.g Pain data were not collected. |  |  |  |  |  |  |
 
-Combination Use in Breast Cancer:
+Combination Use in Breast Cancer
 
 In the gemcitabine plus paclitaxel versus paclitaxel study, dose reductions occurred with 8% of gemcitabine injections and 5% of paclitaxel injections on the combination arm, versus 2% on the paclitaxel arm.
 On the combination arm, 7% of gemcitabine doses were omitted and <1% of paclitaxel doses were omitted, compared to <1% of paclitaxel doses on the paclitaxel arm.
@@ -194,7 +206,7 @@ In parentheses are the incidences of Grade 3 and 4 adverse reactions (gemcitabin
 
 No differences in the incidence of laboratory and non-laboratory events were observed in patients 65 years or older, as compared to patients younger than 65.
 
-Combination Use in Ovarian Cancer:
+Combination Use in Ovarian Cancer
 
 In the gemcitabine plus carboplatin versus carboplatin study, dose reductions occurred with 10.4% of gemcitabine injections and 1.8% of carboplatin injections on the combination arm, versus 3.8% on the carboplatin alone arm.
 On the combination arm, 13.7% of gemcitabine doses were omitted and 0.2% of carboplatin doses were omitted, compared to 0% of carboplatin doses on the carboplatin alone arm.
@@ -226,6 +238,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 These adverse reactions have occurred after gemcitabine single-agent use and gemcitabine in combination with other cytotoxic agents.
 Decisions to include these events are based on the seriousness of the event, frequency of reporting, or potential causal connection to gemcitabine.
+
+Nervous System – Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.10)].
 
 Cardiovascular - Congestive heart failure and myocardial infarction have been reported very rarely with the use of gemcitabine.
 Arrhythmias, predominantly supraventricular in nature, have been reported very rarely.

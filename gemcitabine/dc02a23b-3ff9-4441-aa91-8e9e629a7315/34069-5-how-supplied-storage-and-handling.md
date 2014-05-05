@@ -11,4 +11,4 @@ Gemcitabine Injection is available in sterile single-use vials individually pack
 ## 16.2 Storage and Handling
 
 Unopened vials of Gemcitabine Injection are stable until the expiration date indicated on the package when stored at 2° to 8°C (36° to 46°F).
-Do not freeze [see Dosage and Administration (2.5 and 2.6)].
+Do not freeze [see Dosage and Administration (2.6 and 2.7)].
