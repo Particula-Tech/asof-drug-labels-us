@@ -50,7 +50,7 @@ Serotonin syndrome, in its most severe form, can resemble neuroleptic malignant 
 
 Treatment with trazodone hydrochloride tablets and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above reactions occur and supportive symptomatic treatment should be initiated.
 
-Trazodone hydrochloride tablets should not be used within 14 days of an MAOI [see Warnings andPrecautions (5.8) and Drug Interactions (7)].
+Trazodone hydrochloride tablets should not be used within 14 days of an MAOI [see Warnings and Precautions (5.8) and Drug Interactions (7)].
 
 If concomitant treatment with trazodone hydrochloride tablets and an SSRI, SNRI or a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 

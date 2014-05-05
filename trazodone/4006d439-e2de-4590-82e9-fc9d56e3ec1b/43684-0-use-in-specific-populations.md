@@ -26,6 +26,8 @@ Trazodone hydrochloride should not be used in children or adolescents.
 Reported clinical literature and experience with trazodone has not identified differences in responses between elderly and younger patients.
 However, as experience in the elderly with trazodone hydrochloride is limited, it should be used with caution in geriatric patients.
 
+Antidepressants have been associated with cases of clinically significant hyponatremia in elderly patients who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.10)].
+
 ## 8.6 Renal Impairment
 
 Trazodone has not been studied in patients with renal impairment.

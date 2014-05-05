@@ -10,7 +10,7 @@ Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-100 Tablets
+100 TABLETS
 
 TEVA
 
@@ -26,7 +26,7 @@ Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-100 Tablets
+100 TABLETS
 
 TEVA
 
@@ -42,6 +42,6 @@ Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-100 Tablets
+100 TABLETS
 
 TEVA

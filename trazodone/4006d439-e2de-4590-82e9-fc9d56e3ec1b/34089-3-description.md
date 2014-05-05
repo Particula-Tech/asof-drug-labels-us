@@ -1,11 +1,9 @@
 # 11 DESCRIPTION
 
-Trazodone hydrochloride is a triazolopyridine.
+Trazodone hydrochloride, USP is an antidepressant chemically unrelated to tricyclic, tetracyclic, or other known antidepressant agents.
+Trazodone hydrochloride, USP is a triazolopyridine derivative designated as 2-[3-[4-(3-chlorophenyl)-1-piperazinyl]propyl]-1,2,4-triazolo[4, 3-a]pyridin-3(2H)-one hydrochloride.
 It is a white, odorless crystalline powder which is freely soluble in water.
+The structural formula is represented as follows:
 
-Chemical Name: 2-[3-[4-(3-chlorophenyl)-1-piperazinyl]propyl]-1,2,4-triazolo[4,3-a]pyridin-3(2H)-one hydrochloride.
-
-Structural Formula:
-
-Each tablet, for oral administration, contains 50 mg, 100 mg and 150 mg of trazodone hydrochloride, USP.
+Each tablet, for oral administration, contains 50 mg, 100 mg or 150 mg of trazodone hydrochloride, USP.
 In addition, each tablet contains colloidal silicon dioxide, lactose anhydrous, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.

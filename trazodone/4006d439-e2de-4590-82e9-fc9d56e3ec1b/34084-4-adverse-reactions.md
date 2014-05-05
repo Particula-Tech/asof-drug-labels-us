@@ -85,7 +85,7 @@ These incidence figures, also, cannot be compared with those obtained from other
 | Neurological |  |  |  |  |
 | Incoordination | 4.9 | 0 | 1.9 | 0 |
 | Paresthesia | 1.4 | 0 | 0 |  |
-| Temors | 2.8 | 1.1 | 5.1 | 3.8 |
+| Tremors | 2.8 | 1.1 | 5.1 | 3.8 |
 | Sexual Function |  |  |  |  |
 | Decreased Libido |  | 1.1 | 1.3 |  |
 | Other |  |  |  |  |

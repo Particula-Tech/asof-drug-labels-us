@@ -1,6 +1,6 @@
 # Medication guide
 
-Trazodone hydrochloride tablets USP
+Trazodone Hydrochloride (traz' oh done hye'' droe klor' ide) Tablets USP
 
 Read the Medication Guide that comes with trazodone hydrochloride tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -91,8 +91,8 @@ Trazodone hydrochloride tablets may harm your unborn baby.
 Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 
 • are breastfeeding or plan to breastfeed.
-It is not known if trazodone hydrochloride tablets passes into your breast milk.
-You and your healthcare provider should decide if you will take trazodone hydrochloride tablets or breastfeed.
+It is not known if trazodone hydrochloride passes into your breast milk.
+You and your healthcare provider should decide if you will take trazodone hydrochloride or breastfeed.
 
 • have taken a Monoamine Oxidase Inhibitor (MAOI) or if you have stopped taking an MAOI in the last 2 weeks.
 
@@ -199,11 +199,11 @@ This Medication Guide summarizes the most important information about trazodone 
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about trazodone hydrochloride tablets that is written for health professionals.
 
-For more information, call 1-866-832-8537, MEDICAL AFFAIRS.
+For more information, call 1-888-838-2872.
 
 What are the ingredients in trazodone hydrochloride tablets?
 
-Active ingredient: trazodone hydrochloride, USP
+Active ingredient: trazodone hydrochloride
 
 Inactive ingredients: colloidal silicon dioxide, lactose anhydrous, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
 
@@ -215,9 +215,11 @@ PLIVA HRVATSKA d.o.o.
 
 Zagreb, Croatia
 
+Manufactured For:
+
 TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
 
-Iss.
-7/2012
+Rev.
+A. 1/2014
