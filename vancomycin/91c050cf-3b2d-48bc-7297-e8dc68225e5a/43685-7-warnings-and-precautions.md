@@ -47,7 +47,7 @@ Thrombophlebitis may occur, the frequency and severity of which can be minimized
 There have been reports that the frequency of infusion-related events (including hypotension, flushing, erythemia, urticaria, and pruritus) increases with the concomitant administration of anesthetic agents.
 Infusion-related events may be minimized by the administration of vancomycin hydrochloride as a 60-minute infusion prior to anesthetic induction.
 
-The safety and efficacy of vancomycin administration by the intrathecal (intralumbar or intraventricular) routes have not been assessed.
+The safety and efficacy of vancomycin administration by the intrathecal (intralumbar or intraventricular) route or by intraperitoneal route have not been established by adequate and well-controlled trials.
 
 Reports have revealed that administration of Vancomycin Hydrochloride for Injection, USP by the intraperitoneal route during continuous ambulatory peritoneal dialysis (CAPD) has resulted in a syndrome of chemical peritonitis.
 To date, this syndrome has ranged from a cloudy dialysate alone to a cloudy dialysate accompanied by variable degrees of abdominal pain and fever.

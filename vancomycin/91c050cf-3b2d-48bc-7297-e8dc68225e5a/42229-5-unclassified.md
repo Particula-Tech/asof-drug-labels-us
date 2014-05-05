@@ -2,14 +2,14 @@ Hydrochloride for Injection, USP
 
 Rx only
 
-| Pharmacy Bulk Package – Not For Direct Infusion |
+| PHARMACY BULK PACKAGE – NOT FOR DIRECT INFUSION |
 | --- |
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of vancomycin and other antibacterial drugs, vancomycin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # PREPARATION AND STABILITY
 
-Directions for Proper Use of Pharmacy Bulk Package ─ Not for direct infusion.
+DIRECTIONS FOR PROPER USE OF PHARMACY BULK PACKAGE - NOT FOR DIRECT INFUSION.
 The pharmacy bulk package is for use in the Hospital Pharmacy Admixture Service only in a suitable work area such as a laminar flow hood.
 Using aseptic technique, the closure may be penetrated only one time after reconstitution using a suitable sterile transfer device or dispensing set, which allows measured dispensing of the contents.
 Use of a syringe and needle is not recommended as it may cause leakage.
@@ -17,8 +17,8 @@ After entry use entire contents of bottle promptly.
 The entire contents of the bottle should be dispensed within 4 HOURS after entry.
 This time limit should begin with the introduction of solvent into the Pharmacy Bulk Package.
 
-At the time of use, reconstitute by adding 100 mL of Sterile Water for Injection to the 5 grams bottle of dry, sterile vancomycin powder.
-FURTHER DILUTION IS REQUIRED BEFORE USE.
+At the time of use, reconstitute by adding 100 mL of Sterile Water for Injection to the bottle containing 5 grams of dry, sterile vancomycin powder.
+AFTER RECONSTITUTION FURTHER DILUTION IS REQUIRED BEFORE USE.
 
 Reconstituted solutions with 10 mL containing 500 mg of vancomycin must be diluted with at least 100 mL of diluent.
 Reconstituted solutions with 20 mL containing 1 g must be diluted with at least 200 mL of diluent.
@@ -42,7 +42,7 @@ Normosol®-M and 5% Dextrose
 
 ISOLYTE® E
 
-Good professional practice suggests that administration of compounded admixtures should be as soon after preparation as is feasible.
+Good professional practice suggests that administration of compounded admixtures should be administered as soon after preparation as is feasible.
 
 Vancomycin solution has a low pH and may cause physical instability when it is mixed with other compounds.
 
@@ -63,5 +63,5 @@ Vancomycin is not effective by the oral route for other types of infections.
 The usual adult total daily dosage is 500 mg to 2 g given in 3 or 4 divided doses for 7 to 10 days.
 The total daily dosage in pediatric patients is 40 mg/kg of body weight in 3 or 4 divided doses for 7 to 10 days.
 The total daily dosage should not exceed 2 g. The appropriate dose may be diluted in 1 oz. of water and given to the patient to drink.
-The diluted material may be administered via nasogastric tube.
+The diluted solution may be administered via nasogastric tube.
 Common flavoring syrups may be added to the solution to improve the taste for oral administration.

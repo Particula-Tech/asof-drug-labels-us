@@ -13,5 +13,4 @@ This product is oxygen sensitive.
 
 The vancomycin hydrochloride pharmacy bulk package is a sterile preparation for parenteral use that contains many single doses.
 The contents are intended for use in a pharmacy admixture service and restricted to the preparation of admixtures for intravenous infusion.
-
-FURTHER DILUTION IS REQUIRED BEFORE USE (see DOSAGE AND ADMINISTRATION).
+AFTER RECONSTITUTION FURTHER DILUTION IS REQUIRED BEFORE USE (see DOSAGE AND ADMINISTRATION).
