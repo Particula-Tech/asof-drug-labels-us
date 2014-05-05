@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020769"
+  ],
   "inn": "hydrocortisone",
-  "labeler": "Ferndale Laboratories",
+  "labeler": "Ferndale Laboratories, Inc.",
   "package_ndcs": [
     "0496-0821-15",
-    "0496-0821-25",
-    "0496-0821-45"
+    "0496-0821-45",
+    "0496-0821-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "hydrocortisone butyrate",
+      "name": "LOCOID LIPOCREAM"
+    }
+  ],
   "setid": "71e26c6b-dc6c-4a32-9250-2346855cf0fc",
   "source": "dailymed"
 }

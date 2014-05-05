@@ -6,40 +6,36 @@ Systemic absorption of topical corticosteroids has produced reversible HPA axis 
 Conditions which increase the risk of systemic toxicity include the application of more potent steroids, use over large surface areas, prolonged use, and the addition of occlusive dressings.
 Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity.
 (See PRECAUTIONS - PEDIATRIC USE.)
-
 If irritation develops, topical corticosteroids should be discontinued and appropriate therapy instituted.
 In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
 If a favorable response does not occur promptly, the corticosteroid should be discontinued until the infection has been adequately controlled.
 
-## Information for the Patient
+### Information for the Patient
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
-1. This medication is to be used as directed by the physician.
-   It is for external use only.
-   Avoid contact with the eyes.
-2. Patients should be advised not to use this medication for any disorder other than for which it was prescribed.
-3. The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive.
-4. Patients should report any signs of local adverse reactions.
-5. Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
+- This medication is to be used as directed by the physician.
+  It is for external use only.
+  Avoid contact with the eyes.
+- Patients should be advised not to use this medication for any disorder other than for which it was prescribed.
+- The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive.
+- Patients should report any signs of local adverse reactions.
+- Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
 
-## Laboratory Tests
+#### Laboratory Tests
 
 The following tests may be helpful in evaluating the HPA axis suppression:
 
-- Urinary free cortisol test
-- ACTH stimulation test
+Urinary free cortisol test
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+ACTH stimulation test
+
+##### Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of topical corticosteroids.
 Studies to determine mutagenicity in Salmonella ryphimurium strains TA98, TA100, and TA92 with prednisolone and hydrocortisone have revealed negative results.
 
-## Pregnancy
-
-### Teratogenic Effects
-
-Pregnancy Category C:
+###### Pregnancy Teratogenic Effects Pregnancy Category C
 
 Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
@@ -58,14 +54,14 @@ Therefore, topical corticosteroids should be used during pregnancy only if the p
 
 Locoid Lipocream® (hydrocortisone butyrate 0.1%) Cream should not be used extensively on pregnant patients, in large amounts, or for longer than two weeks.
 
-## Nursing Mothers
+###### Nursing Mothers
 
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in breast milk.
 
 Systemically administered corticosteroids are secreted into breast milk in quantities not likely to have a deleterious effect on the infant.
 Nevertheless, caution should be exercised when topical corticosteroids are administered to a nursing woman.
 
-## Pediatric Use
+###### Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
