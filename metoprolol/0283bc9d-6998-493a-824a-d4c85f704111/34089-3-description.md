@@ -1,4 +1,4 @@
-DESCRIPTION
+# DESCRIPTION
 
 Lopressor, metoprolol tartrate USP, is a selective beta1-adrenoreceptor blocking agent, available as 50- and 100-mg tablets for oral administration.
 Metoprolol tartrate USP is (±)-1-(Isopropylamino)-3-[p-(2-methoxyethyl)phenoxy]-2-propanol L-(+)-tartrate (2:1) salt, and its structural formula is

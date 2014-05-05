@@ -1,6 +1,6 @@
-ADVERSE REACTIONS
+# ADVERSE REACTIONS
 
-Hypertension and Angina
+## Hypertension and Angina
 
 Most adverse effects have been mild and transient.
 
@@ -35,7 +35,7 @@ There have been very rare reports of weight gain, arthritis, and retroperitoneal
 
 The oculomucocutaneous syndrome associated with the beta blocker practolol has not been reported with Lopressor.
 
-Myocardial Infarction
+## Myocardial Infarction
 
 Central Nervous System: Tiredness has been reported in about 1 of 100 patients.
 Vertigo, sleep disturbances, hallucinations, headache, dizziness, visual disturbances, confusion, and reduced libido have also been reported, but a drug relationship is not clear.
@@ -58,7 +58,7 @@ Dermatologic: Rash and worsened psoriasis have been reported, but a drug relatio
 
 Miscellaneous: Unstable diabetes and claudication have been reported, but a drug relationship is not clear.
 
-Potential Adverse Reactions
+## Potential Adverse Reactions
 
 A variety of adverse reactions not listed above have been reported with other beta-adrenergic blocking agents and should be considered potential adverse reactions to Lopressor.
 
@@ -70,7 +70,7 @@ Hematologic: Agranulocytosis, nonthrombocytopenic purpura and thrombocytopenic p
 
 Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospasm and respiratory distress.
 
-Postmarketing Experience
+## Postmarketing Experience
 
 The following adverse reactions have been reported during postapproval use of Lopressor: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.

@@ -1,26 +1,22 @@
-CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY
 
-Mechanism of Action:
+## Mechanism of Action:
 
 Lopressor is a beta1-selective (cardioselective) adrenergic receptor blocker.
 This preferential effect is not absolute, however, and at higher plasma concentrations, Lopressor also inhibits beta2-adrenoreceptors, chiefly located in the bronchial and vascular musculature.
 
 Clinical pharmacology studies have demonstrated the beta-blocking activity of metoprolol, as shown by (1) reduction in heart rate and cardiac output at rest and upon exercise, (2) reduction of systolic blood pressure upon exercise, (3) inhibition of isoproterenol-induced tachycardia, and (4) reduction of reflex orthostatic tachycardia.
 
-Hypertension
+## Hypertension
 
 The mechanism of the antihypertensive effects of beta-blocking agents has not been fully elucidated.
 However, several possible mechanisms have been proposed: (1) competitive antagonism of catecholamines at peripheral (especially cardiac) adrenergic neuron sites, leading to decreased cardiac output; (2) a central effect leading to reduced sympathetic outflow to the periphery; and (3) suppression of renin activity.
 
-Angina Pectoris
+## Angina Pectoris
 
 By blocking catecholamine-induced increases in heart rate, in velocity and extent of myocardial contraction, and in blood pressure, Lopressor reduces the oxygen requirements of the heart at any given level of effort, thus making it useful in the long-term management of angina pectoris.
 
-Myocardial Infarction
-
-The precise mechanism of action of Lopressor in patients with suspected or definite myocardial infarction is not known.
-
-Pharmacodynamics
+## Pharmacodynamics
 
 Relative beta1 selectivity is demonstrated by the following: (1) In healthy subjects, Lopressor is unable to reverse the beta2-mediated vasodilating effects of epinephrine.
 This contrasts with the effect of nonselective (beta1 plus beta2) beta blockers, which completely reverse the vasodilating effects of epinephrine.
@@ -46,7 +42,7 @@ In patients with angina pectoris, plasma concentration measured at 1 hour is lin
 Exercise heart rate and systolic blood pressure are reduced in relation to the logarithm of the oral dose of metoprolol.
 The increase in exercise capacity and the reduction in left ventricular ischemia are also significantly related to the logarithm of the oral dose.
 
-Pharmacokinetics
+## Pharmacokinetics
 
 Absorption: The estimated oral bioavailability of immediate release metoprolol is about 50% because of pre-systemic metabolism which is saturable leading to non-proportionate increase in the exposure with increased dose.
 
@@ -59,7 +55,7 @@ Metoprolol is not a significant P-glycoprotein substrate
 Metabolism: Lopressor is primarily metabolized by CYP2D6.
 Metoprolol is a racemic mixture of R- and S- enantiomers, and when administered orally, it exhibits stereoselective metabolism that is dependent on oxidation phenotype.
 CYP2D6 is absent (poor metabolizers) in about 8% of Caucasians and about 2% of most other populations.
-Poor CYP2D6 metabolizers exhibit several-fold higher plasma concentrations of Lopressor than extensive metabolizers with normal CYP2D6 activity thereby decreasing Lopressor's cardioselectivity.
+Poor CYP2D6 metabolizers exhibit several-fold higher plasma concentrations of Lopressor than extensive metabolizers with normal CYP2D6 activity thereby decreasing Lopressor’s cardioselectivity.
 
 Elimination: Elimination of Lopressor is mainly by biotransformation in the liver.
 The mean elimination half-life of metoprolol is 3 to 4 hours; in poor CYP2D6 metabolizers the half-life may be 7 to 9 hours.
@@ -68,7 +64,7 @@ In most subjects (extensive metabolizers), less than 5% of an oral dose and less
 In poor metabolizers, up to 30% or 40% of oral or intravenous doses, respectively, may be excreted unchanged; the rest is excreted by the kidneys as metabolites that appear to have no beta blocking activity.
 The renal clearance of the stereo-isomers does not exhibit stereo-selectivity in renal excretion.
 
-Special populations
+## Special populations
 
 Geriatric patients: The geriatric population may show slightly higher plasma concentrations of metoprolol as a combined result of a decreased metabolism of the drug in elderly population and a decreased hepatic blood flow.
 However, this increase is not clinically significant or therapeutically relevant.
@@ -78,22 +74,16 @@ Renal impairment: The systemic availability and half-life of Lopressor in patien
 Hepatic Impairment: Since the drug is primarily eliminated by hepatic metabolism, hepatic impairment may impact the pharmacokinetics of metoprolol.
 The elimination half-life of metoprolol is considerably prolonged, depending on severity (up to 7.2 h).
 
-Clinical Studies:
+## Clinical Studies:
 
-Hypertension
-
-In controlled clinical studies, Lopressor has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at dosages of 100-450 mg daily.
+Hypertension In controlled clinical studies, Lopressor has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at dosages of 100-450 mg daily.
 In controlled, comparative, clinical studies, Lopressor has been shown to be as effective an antihypertensive agent as propranolol, methyldopa, and thiazide-type diuretics, to be equally effective in supine and standing positions.
 
-Angina Pectoris
-
-In controlled clinical trials, Lopressor, administered two or four times daily, has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
+Angina Pectoris In controlled clinical trials, Lopressor, administered two or four times daily, has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
 The dosage used in these studies ranged from 100-400 mg daily.
 A controlled, comparative, clinical trial showed that Lopressor was indistinguishable from propranolol in the treatment of angina pectoris.
 
-Myocardial Infarction
-
-In a large (1,395 patients randomized), double-blind, placebo-controlled clinical study, Lopressor was shown to reduce 3-month mortality by 36% in patients with suspected or definite myocardial infarction.
+Myocardial Infarction In a large (1,395 patients randomized), double-blind, placebo-controlled clinical study, Lopressor was shown to reduce 3-month mortality by 36% in patients with suspected or definite myocardial infarction.
 
 Patients were randomized and treated as soon as possible after their arrival in the hospital, once their clinical condition had stabilized and their hemodynamic status had been carefully evaluated.
 Subjects were ineligible if they had hypotension, bradycardia, peripheral signs of shock, and/or more than minimal basal rales as signs of congestive heart failure.

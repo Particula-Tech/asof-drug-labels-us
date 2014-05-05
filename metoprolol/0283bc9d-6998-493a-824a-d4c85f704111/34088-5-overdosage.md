@@ -1,16 +1,16 @@
-OVERDOSAGE
+# OVERDOSAGE
 
-Acute Toxicity
+## Acute Toxicity
 
 Several cases of overdosage have been reported, some leading to death.
 
 Oral LD 50's (mg/kg): mice, 1158-2460; rats, 3090-4670.
 
-Signs and Symptoms
+## Signs and Symptoms
 
 Potential signs and symptoms associated with overdosage with Lopressor are bradycardia, hypotension, bronchospasm, myocardial infarction, cardiac failure and death.
 
-Management
+## Management
 
 There is no specific antidote.
 

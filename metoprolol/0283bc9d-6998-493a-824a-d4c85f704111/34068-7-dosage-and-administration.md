@@ -1,6 +1,6 @@
-DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION
 
-Hypertension
+## Hypertension
 
 Individualize the dosage of Lopressor tablets.
 Lopressor tablets should be taken with or immediately following meals.
@@ -14,7 +14,7 @@ While once-daily dosing is effective and can maintain a reduction in blood press
 This can be evaluated by measuring blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day.
 Beta1 selectivity diminishes as the dose of Lopressor is increased.
 
-Angina Pectoris
+## Angina Pectoris
 
 The dosage of Lopressor tablets should be individualized.
 Lopressor tablets should be taken with or immediately following meals.
@@ -24,9 +24,11 @@ The effective dosage range of Lopressor tablets is 100-400 mg per day.
 Dosages above 400 mg per day have not been studied.
 If treatment is to be discontinued, gradually decrease the dosage over a period of 1-2 weeks (see WARNINGS).
 
-Myocardial Infarction
+## Myocardial Infarction
 
-Early Treatment: During the early phase of definite or suspected acute myocardial infarction, initiate treatment with Lopressor as soon as possible after the patient's arrival in the hospital.
+### Early Treatment:
+
+During the early phase of definite or suspected acute myocardial infarction, initiate treatment with Lopressor as soon as possible after the patient's arrival in the hospital.
 Such treatment should be initiated in a coronary care or similar unit immediately after the patient's hemodynamic condition has stabilized.
 
 Begin treatment in this early phase with the intravenous administration of three bolus injections of 5 mg of Lopressor each; give the injections at approximately 2-minute intervals.
@@ -38,11 +40,13 @@ Thereafter, the maintenance dosage is 100 mg twice daily (see Late Treatment bel
 Start patients who appear not to tolerate the full intravenous dose on Lopressor tablets either 25 mg or 50 mg every 6 hours (depending on the degree of intolerance) 15 minutes after the last intravenous dose or as soon as their clinical condition allows.
 In patients with severe intolerance, discontinue Lopressor (see WARNINGS).
 
-Late Treatment: Start patients with contraindications to treatment during the early phase of suspected or definite myocardial infarction, patients who appear not to tolerate the full early treatment, and patients in whom the physician wishes to delay therapy for any other reason on Lopressor tablets, 100 mg twice daily, as soon as their clinical condition allows.
+### Late Treatment:
+
+Start patients with contraindications to treatment during the early phase of suspected or definite myocardial infarction, patients who appear not to tolerate the full early treatment, and patients in whom the physician wishes to delay therapy for any other reason on Lopressor tablets, 100 mg twice daily, as soon as their clinical condition allows.
 Continue therapy for at least 3 months.
 Although the efficacy of Lopressor beyond 3 months has not been conclusively established, data from studies with other beta blockers suggest that treatment should be continued for 1-3 years.
 
-Special populations
+## Special populations
 
 Pediatric patients: No pediatric studies have been performed.
 The safety and efficacy of Lopressor in pediatric patients have not been established.
@@ -54,7 +58,7 @@ Therefore, Lopressor should be initiated at low doses with cautious gradual dose
 
 Geriatric patients (>65 years): In general, use a low initial starting dose in elderly patients given their greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-Method of administration:
+## Method of administration:
 
 For oral treatment, the tablets should be swallowed un-chewed with a glass of water.
 Lopressor should always be taken in standardized relation with meals.
