@@ -1,14 +1,11 @@
 # DESCRIPTION
 
-Cefazolin for Injection, USP, is a sterile semi-synthetic cephalosporin for parenteral administration (Intramuscular or Intravenous).
-It is the sodium salt of 3-[{(5-methyl -1,3,4 -thiadiazol - 2 - yl) thio]- methyl} - 8 - oxo - 7 - [2 - (1H - tetrazol -1 - yl) acetamido - 5 - thia -1-azabicyclo [4.2.0] oct - 2 - ene - 2 - carboxylic acid.
-The molecular weight is 476.49.
+Cefazolin for Injection, USP is a semi-synthetic cephalosporin for parenteral administration.
+It is the sodium salt of 3-{[(5-methyl-1,3,4-­thiadiazol-2-yl)thio]-methyl}-8-oxo-7-[2-(1H-tetrazol-1-yl) acetamido]-5-thia-1-azabicyclo [4.2.0]oct-2-ene-2-carboxylic acid.
+The molecular formula is C14H13N8NaO4S3 and molecular weight is 476.49.
 
-Cefazolin sodium has the following structural formula:
+Structural Formula:
 
-The sodium content is 48 mg per gram of cefazolin.
+Each vial contains 48 mg (2 mEq) of sodium/1 gram of cefazolin sodium.
 
-Cefazolin for injection, USP is supplied in 500 mg or 1 gram vials for intramuscular or intravenous use and in 1 gram infusion bottles for intravenous use.
-
-Each 500 mg or 1 gram vial contains, cefazolin sodium equivalent to 500 mg or 1 gram of cefazolin.
-Each 1 gram infusion bottle contains, cefazolin sodium equivalent to 1 gram cefazolin.
+Cefazolin for Injection, USP is white to off-white crystalline powder, supplied in vials equivalent to 500 mg or 1 gram of cefazolin.
