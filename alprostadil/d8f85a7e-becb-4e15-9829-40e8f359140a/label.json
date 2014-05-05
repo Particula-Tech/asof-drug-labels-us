@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021212"
+  ],
+  "inn": "alprostadil",
+  "labeler": "U.S. Pharmaceuticals",
+  "package_ndcs": [
+    "63539-121-10",
+    "63539-121-11",
+    "63539-221-20",
+    "63539-221-21"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "alprostadil",
+      "name": "Caverject Impulse"
+    }
+  ],
+  "setid": "d8f85a7e-becb-4e15-9829-40e8f359140a",
+  "source": "dailymed"
+}
