@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022076"
+  ],
   "inn": "hydrocortisone",
-  "labeler": "Ferndale Laboratories, Inc.",
+  "labeler": "Fermdale Laboratories, Inc.",
   "package_ndcs": [
     "0496-0872-02",
     "0496-0872-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "hydrocortisone butyrate",
+      "name": "LOCOID"
+    }
+  ],
   "setid": "27d36fbf-1892-48e1-a9b1-1625607ea516",
   "source": "dailymed"
 }
