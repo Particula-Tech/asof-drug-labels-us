@@ -1,17 +1,24 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-CLARINEX Tablets or Oral Solution may be taken without regard to meals.
+Although an orally disintegrating tablet formulation of desloratadine may be available in the marketplace, CLARINEX® RediTabs® Tablets are no longer marketed.
+
+CLARINEX Tablets, Oral Solution, or RediTabs Tablets may be taken without regard to meals.
+Place CLARINEX (desloratadine) RediTabs Tablets on the tongue and allow to disintegrate before swallowing.
+Tablet disintegration occurs rapidly.
+Administer with or without water.
+Take tablet immediately after opening the blister.
 
 The age-appropriate dose of CLARINEX Oral Solution should be administered with a commercially available measuring dropper or syringe that is calibrated to deliver 2 mL and 2.5 mL (½ teaspoon).
 
 ## 2.1 Adults and Adolescents 12 Years of Age and Over
 
-The recommended dose of CLARINEX Tablets is one 5-mg tablet once daily.
+The recommended dose of CLARINEX Tablets or CLARINEX RediTabs Tablets is one 5-mg tablet once daily.
 The recommended dose of CLARINEX Oral Solution is 2 teaspoonfuls (5 mg in 10 mL) once daily.
 
 ## 2.2 Children 6 to 11 Years of Age
 
 The recommended dose of CLARINEX Oral Solution is 1 teaspoonful (2.5 mg in 5 mL) once daily.
+The recommended dose of CLARINEX RediTabs Tablets is one 2.5-mg tablet once daily.
 
 ## 2.3 Children 12 Months to 5 Years of Age
 

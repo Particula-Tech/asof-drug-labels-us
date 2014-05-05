@@ -8,7 +8,7 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2004, 2005, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk4117-mtl-1311r006
+uspi-mk4117-mtl-1404r007
 
 CLARINEX Tablets and Oral Solution are Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -22,6 +22,6 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2013
+Revised: 04/2014
 
-usppi-mk4117-mtl-1306r005
+usppi-mk4117-mtl-1404r006

@@ -33,6 +33,10 @@ The pharmacokinetic profile of CLARINEX Oral Solution was evaluated in a three-w
 A single dose of 10 mL of CLARINEX Oral Solution containing 5 mg of desloratadine was bioequivalent to a single dose of 5-mg CLARINEX Tablet.
 Food had no effect on the bioavailability (AUC and Cmax) of CLARINEX Oral Solution.
 
+The pharmacokinetic profile of CLARINEX RediTabs Tablets was evaluated in a three-way crossover study in 24 adult volunteers.
+A single CLARINEX RediTabs Tablet containing 5 mg of desloratadine was bioequivalent to a single 5-mg CLARINEX RediTabs Tablet (original formulation) for both desloratadine and 3-hydroxydesloratadine.
+Food and water had no effect on the bioavailability (AUC and Cmax) of CLARINEX RediTabs Tablets.
+
 Distribution
 
 Desloratadine and 3-hydroxydesloratadine are approximately 82% to 87% and 85% to 89% bound to plasma proteins, respectively.
@@ -75,6 +79,10 @@ However, the Cmax and AUC of the metabolite (3-hydroxydesloratadine) were 1.27 a
 
 A single dose of either 2.5 mL or 1.25 mL of CLARINEX Oral Solution containing 1.25 mg or 0.625 mg, respectively, of desloratadine was administered to subjects 6 to 11 months of age and 12 to 23 months of age.
 The results of a population pharmacokinetic analysis indicated that a dose of 1 mg for subjects aged 6 to 11 months and 1.25 mg for subjects 12 to 23 months of age is required to obtain desloratadine plasma concentrations similar to those achieved in adults administered a single 5-mg dose of CLARINEX Oral Solution.
+
+The CLARINEX RediTabs 2.5-mg tablet has not been evaluated in pediatric patients.
+Bioequivalence of the CLARINEX RediTabs Tablet and the original CLARINEX RediTabs Tablets was established in adults.
+In conjunction with the dose-finding studies in pediatrics described, the pharmacokinetic data for CLARINEX RediTabs Tablets supports the use of the 2.5-mg dose strength in pediatric patients 6 to 11 years of age.
 
 Renally Impaired: Desloratadine pharmacokinetics following a single dose of 7.5 mg were characterized in patients with mild (n=7; creatinine clearance 51–69 mL/min/1.73 m2), moderate (n=6; creatinine clearance 34–43 mL/min/1.73 m2), and severe (n=6; creatinine clearance 5–29 mL/min/1.73 m2) renal impairment or hemodialysis dependent (n=6) patients.
 In patients with mild and moderate renal impairment, median Cmax and AUC values increased by approximately 1.2- and 1.9-fold, respectively, relative to subjects with normal renal function.

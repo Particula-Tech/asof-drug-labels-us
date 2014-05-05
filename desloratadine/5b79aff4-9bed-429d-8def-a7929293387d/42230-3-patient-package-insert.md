@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-CLARINEX® (CLA-RI-NEX) (desloratadine) Tablets and Oral Solution
+CLARINEX® (CLA-RI-NEX) (desloratadine) Tablets, RediTabs®, and Oral Solution
 
 Read the Patient Information that comes with CLARINEX® before you start taking it and each time you get a refill.
 There may be new information.
@@ -24,7 +24,7 @@ Who should not take CLARINEX?
 
 Do not take CLARINEX if you:
 
-- are allergic to desloratadine or any of the ingredients in CLARINEX Tablets or CLARINEX Oral Solution.
+- are allergic to desloratadine or any of the ingredients in CLARINEX Tablets, CLARINEX RediTabs® or CLARINEX Oral Solution.
   See the end of this leaflet for a complete list of ingredients.
 - are allergic to loratadine (Alavert, Claritin).
 
@@ -62,6 +62,9 @@ How should I take CLARINEX?
 - Take CLARINEX exactly as your doctor tells you to take it.
 - Do not change your dose of CLARINEX or take more often than prescribed.
 - CLARINEX can be taken with or without food.
+- Place CLARINEX RediTabs Tablet on your tongue and allow it to dissolve before swallowing.
+  CLARINEX RediTabs can be taken with or without water.
+  Take your CLARINEX RediTabs Tablet right away after opening the blister.
 - Take CLARINEX Oral Solution with a measuring dropper or oral syringe that can measure 2 mL or 2.5 mL.
   Ask your pharmacist for a dropper or syringe if you do not have one.
 - If you take too much CLARINEX, call your doctor or get medical attention right away.
@@ -106,7 +109,7 @@ How should I store CLARINEX?
 - Store CLARINEX Oral Solution between 59°F to 86°F (15°C to 30°C).
   Protect CLARINEX Oral Solution from light.
 
-Keep CLARINEX Tablets and Oral Solution and all medicines out of the reach of children.
+Keep CLARINEX Tablets, RediTabs Tablets, and Oral Solution and all medicines out of the reach of children.
 
 General information about CLARINEX
 
@@ -124,6 +127,8 @@ For more information, go to www.CLARINEX.com
 What are the ingredients in CLARINEX?
 
 Active ingredient: desloratadine
+
+Patients with Phenylketonuria: CLARINEX RediTabs Tablets contain phenylalanine.
 
 Inactive ingredients in CLARINEX Tablets: dibasic calcium phosphate dihydrate USP, microcrystalline cellulose NF, corn starch NF, talc USP, carnauba wax NF, white wax NF, coating material consisting of lactose monohydrate, hypromellose, titanium dioxide, polyethylene glycol, and FD&C Blue #2 Aluminum Lake.
 
