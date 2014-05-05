@@ -3,7 +3,7 @@
     "NDA019430"
   ],
   "inn": "epinephrine",
-  "labeler": "Dey Pharma L.P.",
+  "labeler": "Mylan Specialty L.P.",
   "package_ndcs": [
     "49502-500-01",
     "49502-500-02",
@@ -14,12 +14,12 @@
     {
       "form": "INJECTION",
       "generic": "epinephrine",
-      "name": "EpiPen"
+      "name": "EPIPEN"
     },
     {
       "form": "INJECTION",
       "generic": "epinephrine",
-      "name": "EpiPen Jr"
+      "name": "EPIPEN JR"
     }
   ],
   "setid": "7560c201-9246-487c-a13b-6295db04274a",
