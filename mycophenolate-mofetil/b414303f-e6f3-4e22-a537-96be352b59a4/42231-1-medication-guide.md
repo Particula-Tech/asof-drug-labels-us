@@ -45,7 +45,7 @@ The purpose of this registry is to gather information about the health of you an
 - Increased risk of getting serious infections.
   Mycophenolate mofetil capsules and mycophenolate mofetil tablets weaken the body’s immune system and affect your ability to fight infections.
   Serious infections can happen with mycophenolate mofetil capsules and mycophenolate mofetil tablets and can lead to death.
-  Types of infections can include:
+  These serious infections can include:
   - Viral infections.
     Certain viruses can live in your body and cause active infections when your immune system is weak.
     Viral infections that can happen with mycophenolate mofetil capsules and mycophenolate mofetil tablets include:
@@ -53,6 +53,9 @@ The purpose of this registry is to gather information about the health of you an
       CMV can cause serious tissue and blood infections.
     - BK virus.
       BK virus can affect how your kidney works and cause your transplanted kidney to fail.
+    - Hepatitis B and C viruses.
+      Hepatitis viruses can affect how your liver works.
+      Talk to your doctor about how hepatitis viruses may affect you.
   - A brain infection called Progressive Multifocal Leukoencephalopathy (PML).
     In some patients, mycophenolate mofetil capsules and mycophenolate mofetil tablets may cause an infection of the brain that may cause death.
     You are at risk for this brain infection because you have a weakened immune system.
@@ -104,19 +107,19 @@ What should I tell my doctor before taking mycophenolate mofetil capsules or myc
 
 Tell your doctor about all of your medical conditions, if you:
 
-- have any digestive problems, such as ulcers
+- have any digestive problems, such as ulcers.
 - have Lesch-Nyhan or Kelley-Seegmiller syndrome or another rare inherited deficiency hypoxanthine-guanine phosphoribosyl-transferase (HGPRT).
-  You should not take mycophenolate mofetil capsules or mycophenolate mofetil tablets if you have one of these disorders
+  You should not take mycophenolate mofetil capsules or mycophenolate mofetil tablets if you have one of these disorders.
 - plan to receive any vaccines.
   People taking mycophenolate mofetil capsules or mycophenolate mofetil tablets should not take live vaccines.
-  Some vaccines may not work as well during treatment with mycophenolate mofetil capsules or mycophenolate mofetil tablets
+  Some vaccines may not work as well during treatment with mycophenolate mofetil capsules or mycophenolate mofetil tablets.
 - are pregnant or are planning to become pregnant.
   See “What is the most important information I should know about mycophenolate mofetil capsules and mycophenolate mofetil tablets?”
 - are breastfeeding or plan to breastfeed.
   It is not known if mycophenolate mofetil passes into breast milk.
   You and your doctor will decide if you will take mycophenolate mofetil capsules, mycophenolate mofetil tablets or breastfeed.
 
-Tell your doctor about all of the medicines you are taking including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all of the medicines you are taking including prescription and nonprescription medicines, vitamins and herbal supplements.
 Some medicines may affect the way mycophenolate mofetil capsules and mycophenolate mofetil tablets work, and mycophenolate mofetil capsules and mycophenolate mofetil tablets may affect how some medicines work.
 Especially tell your doctor if you take:
 
@@ -146,8 +149,8 @@ How should I take mycophenolate mofetil capsules and mycophenolate mofetil table
   If it is time for your next dose, skip the missed dose and take your next dose at your normal scheduled time.
   Do not take 2 doses at the same time.
   Call your doctor if you are not sure what to do.
-- Take mycophenolate mofetil capsules and tablets on an empty stomach, either 1 hour before or 2 hours after a meal, unless your doctor tells you otherwise.
-  With the approval of your doctor, in stable kidney transplant patients, mycophenolate mofetil capsules and mycophenolate mofetil tablets can be taken with food if necessary.
+- Take mycophenolate mofetil capsules and tablets on an empty stomach, either 1 hour before or 2 hours after a meal, unless your healthcare provider tells you otherwise.
+  With the approval of your healthcare provider, in stable kidney transplant patients, mycophenolate mofetil capsules and mycophenolate mofetil tablets can be taken with food if necessary.
 - Most people take mycophenolate mofetil capsules or mycophenolate mofetil tablets by mouth either as light blue and bright orange capsules or purple tablets.
   Some people may get mycophenolate mofetil hydrochloride for injection soon after their transplant surgery as an infusion into a vein.
 - Do not crush mycophenolate mofetil tablets.
@@ -191,7 +194,7 @@ Also, tell your doctor if you have unusual tiredness, lack of energy, dizziness 
 
 - Stomach problems.
   Stomach and intestinal bleeding can happen in people who take high doses of mycophenolate mofetil capsules or mycophenolate mofetil tablets.
-  Bleeding can be severe and you may have to be hospitalized for treatment
+  Bleeding can be severe and you may have to be hospitalized for treatment.
 
 Common side effects include:
 
@@ -223,7 +226,7 @@ These are not all of the possible side effects of mycophenolate mofetil capsules
 Tell your doctor about any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1-800-FDA-1088 or to Teva USA, PHARMACOVIGILANCE at 1-888-838-2872, X6351.
+You may report side effects to the FDA at 1-800-FDA-1088 or to Teva USA, PHARMACOVIGILANCE at 1-866-832-8537.
 
 How should I store mycophenolate mofetil capsules and mycophenolate mofetil tablets?
 
@@ -241,9 +244,9 @@ They may harm them.
 This Medication Guide summarizes the most important information about mycophenolate mofetil capsules and mycophenolate mofetil tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about mycophenolate mofetil capsules and mycophenolate mofetil tablets that is written for healthcare professionals.
-For more information, call 1-888-838-2872, MEDICAL AFFAIRS.
+For more information, call 1-888-838-2872.
 
-What are the ingredients in mycophenolate mofetil capsules and mycophenolate mofetil tablets?
+What are the ingredients in mycophenolate mofetil capsules USP and mycophenolate mofetil tablets USP?
 
 Active Ingredient: mycophenolate mofetil, USP
 
@@ -255,7 +258,7 @@ Mycophenolate mofetil tablets, 500 mg: croscarmellose sodium, FD&C blue #2 alumi
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-For additional copies of this Medication Guide, please call 1-888-838-2872, MEDICAL AFFAIRS.
+For additional copies of this Medication Guide, please call 1-888-838-2872.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
@@ -273,4 +276,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-F 8/2012
+G 8/2013
