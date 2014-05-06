@@ -26,7 +26,7 @@ However, two clinical studies have demonstrated no change in either serum warfar
 
 The mechanism of these interactions appears to be nonsystemic in nature, presumably resulting from sucralfate binding to the concomitant agent in the gastrointestinal tract.
 In all case studies to date (cimetidine, ciprofloxacin, digoxin, norfloxacin, ofloxacin, and ranitidine), dosing the concomitant medication 2 hours before sucralfate eliminated the interaction.
-Because of the potential of CARAFATE® to alter the absorption of some drugs, CARAFATE® should be administered separately from other drugs when alterations in bioavailability are felt to be critical.
+Because of the potential of CARAFATE to alter the absorption of some drugs, CARAFATE should be administered separately from other drugs when alterations in bioavailability are felt to be critical.
 In these cases, patients should be monitored appropriately.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -56,10 +56,9 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-Clinical studies of CARAFATE® (sucralfate) Tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of CARAFATE (sucralfate) Tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-(See DOSAGE AND ADMINISTRATION)
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (See DOSAGE AND ADMINISTRATION).
 
-This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-(See PRECAUTIONS Special Populations: Chronic Renal Failure and Dialysis Patients) Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (See PRECAUTIONS Special Populations: Chronic Renal Failure and Dialysis Patients).
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

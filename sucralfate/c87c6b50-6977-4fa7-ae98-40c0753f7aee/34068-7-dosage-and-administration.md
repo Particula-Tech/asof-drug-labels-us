@@ -9,8 +9,7 @@ While healing with sucralfate may occur during the first week or two, treatment 
 
 Maintenance Therapy: The recommended adult oral dosage is 1 g twice a day.
 
-Elderly: In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-(See PRECAUTIONS Geriatric Use)
+Elderly: In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (See PRECAUTIONS Geriatric Use).
 
 Call your doctor for medical advice about side effects.
-You may report side effects to Aptalis Pharma US, Inc. at 1-800-472-2634 or FDA at 1-800-FDA-1088 or www.fed.gov/medwatch.
+You may report side effects to Aptalis Pharma US, Inc. at 1-800-472-2634 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

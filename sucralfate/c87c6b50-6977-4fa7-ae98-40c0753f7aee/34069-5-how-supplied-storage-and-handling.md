@@ -1,12 +1,12 @@
 # HOW SUPPLIED
 
-CARAFATE® (sucralfate) 1g tablets are supplied in bottles of 100 (NDC 58914-171-10).
-Light pink, scored, oblong tablets are embossed with CARAFATE® on one side and 1712 on the other.
+CARAFATE (sucralfate) 1g tablets are supplied in bottles of 100 (NDC 58914-171-10).
+Light pink, scored, oblong tablets are embossed with CARAFATE on one side and 1712 on the other.
 
 Rx Only
 
 Prescribing Information rev.
-February 2013
+March 2013
 
 Aptalis Pharma US, Inc.
 
@@ -16,6 +16,6 @@ Bridgewater, NJ 08807
 
 USA
 
-CARAFATE® is a registered trademark of Aptalis Pharma Canada Inc. which is an affiliate of Aptalis Pharma US Inc.
+CARAFATE® is a registered trademark of Aptalis Pharma Canada Inc., which is an affiliate of Aptalis Pharma US, Inc.
 
 www.aptalispharma.com
