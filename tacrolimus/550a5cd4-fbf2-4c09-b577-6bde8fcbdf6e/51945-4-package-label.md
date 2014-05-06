@@ -2,7 +2,7 @@
 
 NDC 0469-0647-73
 
-Astagraf XLTM (tacrolimus extended-release capsules)
+Astagraf XL® (tacrolimus extended-release capsules)
 
 0.5 mg
 
@@ -17,7 +17,7 @@ Do not cut, crush, or chew capsule.
 
 NDC 0469-0677-73
 
-Astagraf XLTM (tacrolimus extended-release capsules)
+Astagraf XL® (tacrolimus extended-release capsules)
 
 1 mg
 
@@ -32,7 +32,7 @@ Do not cut, crush, or chew capsule.
 
 NDC 0469-0687-73
 
-Astagraf XLTM (tacrolimus extended-release capsules)
+Astagraf XL® (tacrolimus extended-release capsules)
 
 5 mg
 

@@ -11,7 +11,7 @@ Advise patients to:
 - •Swallow capsule whole with liquid.
   Do not chew, divide or crush capsule.
 - •Not take ASTAGRAF XL with an alcoholic beverage [see Dosage and Administration (2.4) and Drug Interactions (7.3)]
-- •Take a missed dose of ASTAGRAF XL as soon as the patient remembers but not more than 14 hours after the scheduled time (i.e. for a missed 8AM dose, take by 10PM).
+- •Take a missed dose of ASTAGRAF XL as soon as the patient remembers but not more than 14 hours after the scheduled time (i.e., for a missed 8AM dose, take by 10PM).
   Beyond the 14-hour timeframe, the patient should wait until the usual scheduled time the following morning to take the next scheduled dose.
   Do not take 2 doses at the same time.
 
@@ -46,7 +46,8 @@ Instruct patients to tell their health care providers when they start or stop ta
 Some medications could alter tacrolimus concentrations in the blood and thus may require the adjustment of the dosage of ASTAGRAF XL [see Warnings and Precautions (5.14), Drug Interactions (7)].
 Pregnant Women and Nursing Mothers
 
-Instruct patients to tell their healthcare provider if they plan to become pregnant or breast-feed their infant [see Use in Specific Populations (8.1, 8.3)] Immunizations
+Instruct patients to tell their healthcare provider if they plan to become pregnant or breast-feed their infant [see Use in Specific Populations (8.1, 8.3)].
+Immunizations
 
 Inform patients that ASTAGRAF XL can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.16)].
 Rx only
@@ -57,4 +58,4 @@ Manufactured by: Astellas Ireland Co., Limited Killorglin, County Kerry, Ireland
 
 Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-Date: October 2013 13I060-AST
+Date: March 2014 14C017-AST

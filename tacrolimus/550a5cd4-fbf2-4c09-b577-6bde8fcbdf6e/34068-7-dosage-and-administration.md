@@ -6,11 +6,10 @@ Initial dosage recommendations for adult patients after kidney transplantation a
 Dosing of ASTAGRAF XL should be titrated based on clinical assessments of rejection and tolerability, and to maintain trough concentration ranges as noted in Table 1.
 Frequent monitoring of tacrolimus trough concentrations is recommended in the early post-transplant period to ensure adequate drug exposure [see Dosage and Administration (2.5)].
 
-ASTAGRAF XL extended-release capsules are not interchangeable or substitutible with tacrolimus immediate-release capsules.
+ASTAGRAF XL extended-release capsules are not interchangeable or substitutable with tacrolimus immediate-release capsules.
 With Basiliximab Induction
 
-When used with basiliximab induction.
-MMF, and corticosteroids, the initial dose of ASTAGRAF XL should be administered prior to or within 48 hours of the completion of the transplant procedure, but may be delayed until renal function has recovered.
+When used with basiliximab induction, MMF, and corticosteroids, the initial dose of ASTAGRAF XL should be administered prior to or within 48 hours of the completion of the transplant procedure, but may be delayed until renal function has recovered.
 Without Induction
 
 When used with MMF and corticosteroids, the pre-operative dose of ASTAGRAF XL should be given as one dose within 12 hours prior to reperfusion; the initial post-operative dose should be given not less than 4 hours after the pre-operative dose and within 12 hours after reperfusion.

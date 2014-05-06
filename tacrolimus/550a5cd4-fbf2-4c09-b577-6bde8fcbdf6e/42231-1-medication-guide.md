@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-ASTAGRAF XLTM [as' tah graf ex el']
+ASTAGRAF XL® [as' tah graf ex el']
 
 (tacrolimus)
 
@@ -8,20 +8,20 @@ extended-release capsules What is the most important information I should know a
 
 ASTAGRAF XL can cause serious side effects, including:
 
-1. 1.Increased risk of cancer.
-   People who take ASTAGRAF XL have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma).
-2. 2.Increased risk of infection.
-   ASTAGRAF XL is a medicine that affects your immune system.
-   ASTAGRAF XL can lower the ability of your immune system to fight infections.
-   Serious infections can happen in people receiving ASTAGRAF XL that can cause death.
-   Call your doctor right away if you have symptoms of an infection such as:
-   - •fever
-   - •sweats or chills
-   - •cough or flu-like symptoms
-   - •muscle aches
-   - •warm, red, or painful areas on your skin
-3. 3.Increased risk of death in females who have had a liver transplant.
-   You should not take ASTAGRAF XL if you have had a liver transplant without talking to your doctor.
+- 1.Increased risk of cancer.
+  People who take ASTAGRAF XL have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma).
+- 2.Increased risk of infection.
+  ASTAGRAF XL is a medicine that affects your immune system.
+  ASTAGRAF XL can lower the ability of your immune system to fight infections.
+  Serious infections can happen in people receiving ASTAGRAF XL that can cause death.
+  Call your doctor right away if you have symptoms of an infection such as:
+  1. •fever
+  2. •sweats or chills
+  3. •cough or flu-like symptoms
+  4. •muscle aches
+  5. •warm, red, or painful areas on your skin
+- 3.Increased risk of death in females who have had a liver transplant.
+  You should not take ASTAGRAF XL if you have had a liver transplant without talking to your doctor.
 
 What is ASTAGRAF XL?
 
@@ -180,6 +180,6 @@ Manufactured by: Astellas Ireland Co., Limited Killorglin, County Kerry, Ireland
 
 Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-Revised: October 2013 13I060-AST-MG
+Revised: March 2014 14C017-AST-MG
 
 Product of Japan

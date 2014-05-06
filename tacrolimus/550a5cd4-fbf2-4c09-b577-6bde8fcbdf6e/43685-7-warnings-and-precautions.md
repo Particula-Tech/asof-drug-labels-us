@@ -14,7 +14,7 @@ The risk appears to be related to the intensity and duration of immunosuppressio
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
 Post-transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients.
-The majority of PTLD events appear related to Epstein Barr Virus (EBV) infection.
+The majority of PTLD events appear related to Epstein-Barr Virus (EBV) infection.
 The risk of PTLD appears greatest in those individuals who are EBV seronegative, a population which includes many young children.
 
 ## 5.3 Serious Infections

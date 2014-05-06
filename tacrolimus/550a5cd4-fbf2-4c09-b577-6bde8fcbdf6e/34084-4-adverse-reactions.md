@@ -90,7 +90,7 @@ Estimated Glomerular Filtration Rate (mL/min/1.73m2) by MDRD Formula at 12 Month
 The incidence of adverse reactions that occurred in ≥ 15% of ASTAGRAF XL-treated patients compared to control through one year of treatment in Studies 1 and 2 are shown in Table 5.
 
 Table 5.
-Adverse Events Occurring in ≥ 15% of ASTAGRAF XL-Treated Kidney Transplant Patients Through One year Post Transplant in Studies 1 or 2Studies 1 and 2 were not designed to support comparative claims for ASTAGRAF XL for the adverse reactions reported in this table.
+Adverse Events Occurring in ≥ 15% of ASTAGRAF XL-Treated Kidney Transplant Patients Through One Year Post Transplant in Studies 1 or 2Studies 1 and 2 were not designed to support comparative claims for ASTAGRAF XL for the adverse reactions reported in this table.
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |

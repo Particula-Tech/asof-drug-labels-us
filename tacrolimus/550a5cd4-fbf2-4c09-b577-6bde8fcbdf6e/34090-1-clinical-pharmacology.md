@@ -18,7 +18,7 @@ Pharmacokinetic Parameters of ASTAGRAF XL Once Daily in Healthy Subjects and in 
 
 | Population | N | ASTAGRAF XL DoseHealthy adult subjects (actual administered dose of ASTAGRAF XL and Prograf); Adult de novo kidney transplant patients (actual group mean dose of ASTAGRAF XL, corresponding doses for Prograf on Days 1, 3, 7 and 14 were 0.20, 0.18, 0.16, and 0.17 mg/kg/day, respectively) | DayDay of ASTAGRAF XL treatment and PK profiling | Pharmacokinetic Parameters of ASTAGRAF XL and ASTAGRAF XL:Prograf ratio (90% CI for ratio)Ratio of geometric least square means |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| CmaxArithmetic means ± S.D.(ng/mL) | TmaxMedian [range] (hr) | AUC24(ng•hr/mL) | C24Tacrolimus trough concentration before the next dose(ng/mL) |  |  |  |  |
+| CmaxArithmetic means ± S.D. (ng/mL) | TmaxMedian [range] (hr) | AUC24 (ng•hr/mL) | C24Tacrolimus trough concentration before the next dose (ng/mL) |  |  |  |  |
 | Healthy Subjects | 24 | 4 mg4 mg | Day 1 | 6.2 ± 2.1 | 2.0 [1.0-5.0] | 74 ± 22 | 2.3 ± 0.8 |
 | Day 10 | 11.6 ± 3.4 | 2.0 [1.0-3.0] | 155 ± 46 | 4.7 ± 1.5 |  |  |  |
 |  | Ratio(90% CI) |  |  |  |  |  |  |
