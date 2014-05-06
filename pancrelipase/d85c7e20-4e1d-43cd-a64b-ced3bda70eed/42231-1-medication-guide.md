@@ -46,7 +46,7 @@ Before taking VIOKACE, tell your doctor about all your medical conditions, inclu
 - have any other medical condition
 - are pregnant or planning to become pregnant.
   It is not known if VIOKACE will harm your unborn baby.
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   It is not known if VIOKACE passes into your breast milk.
   You and your doctor should decide if you will take VIOKACE or breastfeed.
 
@@ -69,7 +69,8 @@ How should I take VIOKACE?
   Be careful to make sure that no VIOKACE is left in your mouth.
   Crushing, chewing or holding the VIOKACE tablets in your mouth may cause irritation in your mouth, or change the way VIOKACE works in your body.
 - If you forget to take VIOKACE, wait until your next meal and take your usual number of tablets.
-  Take your next dose at your usual time.Do not take two doses at one time.
+  Take your next dose at your usual time.
+  Do not take two doses at one time.
 
 What are the possible side effects of VIOKACE?
 VIOKACE may cause serious side effects, including:
@@ -115,6 +116,6 @@ If you would like more information, talk to your doctor.
 You can ask your pharmacist or doctor for information about VIOKACE that is written for healthcare providers.
 For more information, go to www.aptalispharma.com or call toll-free 1-800-472-2634.
 What are the ingredients in VIOKACE?
-Active Ingredient: lipase, protease and amylase Inactive Ingredients : colloidal silicon dioxide, crosscarmellose sodium, lactose monohydrate, microcrystalline cellulose, stearic acid and talc.
+Active Ingredient: lipase, protease and amylase Inactive Ingredients: colloidal silicon dioxide, crosscarmellose sodium, lactose monohydrate, microcrystalline cellulose, stearic acid and talc.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Marketed by: Aptalis Pharma US, Inc 22 Inverness Center Parkway Birmingham, Alabama 35242 Manufactured by: Confab Laboratories, Inc. St. Hubert, Canada Issued March 2012 © 2012 Aptalis Pharma US, Inc.
+Marketed by: Aptalis Pharma US, Inc 22 Inverness Center Parkway Birmingham, Alabama 35242 Manufactured by: Confab Laboratories, Inc. St. Hubert, Canada Issued 03/2012 © 2012 Aptalis Pharma US, Inc.
