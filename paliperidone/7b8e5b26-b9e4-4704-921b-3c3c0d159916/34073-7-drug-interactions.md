@@ -26,7 +26,7 @@ Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19, so that 
 While in vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, in vivo studies do not show decreased elimination by these isozymes and they contribute to only a small fraction of total body clearance.
 In vitro studies have shown that paliperidone is a P-gp substrate.
 
-Co-administration of INVEGA® 6 mg once daily with carbamazepine 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
+Co-administration of INVEGA® 6 mg once daily with carbamazepine, a strong inducer of both CYP3A4 and P-glycoprotein (P-gp), at 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
 This decrease is caused, to a substantial degree, by a 35% increase in renal clearance of paliperidone.
 A minor decrease in the amount of drug excreted unchanged in the urine suggests that there was little effect on the CYP metabolism or bioavailability of paliperidone during carbamazepine co-administration.
 On initiation of carbamazepine, the dose of INVEGA® should be re-evaluated and increased if necessary.
