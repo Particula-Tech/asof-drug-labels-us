@@ -14,9 +14,9 @@ Nervous System: dizziness, insomnia, sleepiness, vertigo
 
 Other: back pain, headache
 
-Postmarketing cases of hypersensitivity have been reported with the use of sucralfate suspension, including anaphylactic reactions, dyspnea, lip swelling, edema of the mouth, pharyngeal edema, pruritus, rash, swelling of the face and urticaria.
+Post-marketing cases of hypersensitivity have been reported with the use of sucralfate suspension, including anaphylactic reactions, dyspnea, lip swelling, edema of the mouth, pharyngeal edema, pruritus, rash, swelling of the face and urticaria.
 
-Cases of bronchospasm, laryngeal edema and respiratory tract edema have been reported with an unknown oral formulation of sucraflate.
+Cases of bronchospasm, laryngeal edema and respiratory tract edema have been reported with an unknown oral formulation of sucralfate.
 
 Cases of hyperglycemia have been reported with sucralfate
 
