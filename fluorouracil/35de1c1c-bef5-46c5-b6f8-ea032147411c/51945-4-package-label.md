@@ -1,6 +1,34 @@
+# PRINCIPAL DISPLAY PANEL - 2% 10 mL Solution Carton
+
+NDC 0187-3202-10
+
+Rx Only
+
+Efudex® (fluorouracil)
+
+FOR TOPICAL USE ONLY - NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
+
+VALEANT™
+
+10 mL
+
+Topical Solution 2% w/w
+
 # PRINCIPAL DISPLAY PANEL - 5% 10 mL Solution Carton
 
-# PRINCIPAL DISPLAY PANEL - 2% 10 mL Solution Carton
+NDC 0187-3203-10
+
+Rx Only
+
+Efudex® (fluorouracil)
+
+FOR TOPICAL USE ONLY - NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
+
+VALEANT™
+
+10 mL
+
+Topical Solution 5% w/w
 
 # PRINCIPAL DISPLAY PANEL - 40 g Cream Tube
 
