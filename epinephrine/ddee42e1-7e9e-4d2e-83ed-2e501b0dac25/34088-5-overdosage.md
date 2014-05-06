@@ -1,12 +1,8 @@
-# OVERDOSAGE
-
-Epinephrine is rapidly inactivated in the body, and treatment following overdose with epinephrine is primarily supportive.
-If necessary, pressor effects may be counteracted by rapidly acting vasodilators or alpha-adrenergic blocking drugs.
-If prolonged hypotension follows such measures, it may be necessary to administer another pressor drug.
+# 10 OVERDOSAGE
 
 Overdosage of epinephrine may produce extremely elevated arterial pressure, which may result in cerebrovascular hemorrhage, particularly in elderly patients.
-
-If an epinephrine overdose induces pulmonary edema that interferes with respiration, treatment consists of a rapidly acting alpha-adrenergic blocking drug and/or respiratory support.
+Overdosage may also result in pulmonary edema because of peripheral vascular constriction together with cardiac stimulation.
+Treatment consists of a rapidly acting vasodilators or alpha-adrenergic blocking drugs and/or respiratory support.
 
 Epinephrine overdosage can also cause transient bradycardia followed by tachycardia, and these may be accompanied by potentially fatal cardiac arrhythmias.
 Premature ventricular contractions may appear within one minute after injection and may be followed by multifocal ventricular tachycardia (prefibrillation rhythm).

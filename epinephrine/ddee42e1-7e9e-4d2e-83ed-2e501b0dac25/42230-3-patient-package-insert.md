@@ -1,161 +1,193 @@
-Patient Information ADRENACLICK® (epinephrine injection, USP) auto-injector Available as 0.15 mg 0.3 mg
+Patient Information ADRENACLICK® (a-dren-a-click) (epinephrine injection) auto-injector For allergic emergencies (anaphylaxis)
 
-The patient, and caregiver, if possible, should read this information carefully before using Adrenaclick® (a-dren-a-click).
-You must know how to use Adrenaclick before you have an emergency.
-This information contains additional details beyond the quick-reference instructions on the Adrenaclick label.
-This information does not replace talking with your doctor about your medical condition or your treatment.
+Read this Patient Information Leaflet carefully before you use the Adrenaclick auto-injector, and each time you get a refill.
+There may be new information.
+You, your parent, caregiver, or others who may be in a position to administer Adrenaclick auto-injector should know how to use it before you have an allergic emergency.
+
+This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
 What is the most important information I should know about Adrenaclick?
-Use Adrenaclick and go to your doctor or emergency room right away for more medical treatment.
 
-- Epinephrine, the active ingredient in Adrenaclick helps treat life-threatening allergic reactions.
-- Make sure to tell your doctor about all your medical conditions and allergies.
-- Always get medical treatment right away after using Adrenaclick.
-
-Since you cannot predict when a life-threatening allergic reaction will occur, carry Adrenaclick with you at all times.
-Look at the medicine in your Adrenaclick regularly.
-If it looks cloudy (has particles in it), is discolored, or if the expiration date has passed, the Adrenaclick should be replaced.
-After administration, liquid will remain in the auto-injector that can't be used and should be discarded with the auto-injector as outlined in this Patient Information Leaflet.
+1. Adrenaclick contains epinephrine, a medicine used to treat allergic emergencies (anaphylaxis).
+   Anaphylaxis can be life-threatening, can happen within minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or other unknown causes.
+   Symptoms of an anaphylaxis may include:
+   - trouble breathing
+   - wheezing
+   - hoarseness (changes in the way your voice sounds)
+   - hives (raised reddened rash that may itch)
+   - severe itching
+   - swelling of your face, lips, mouth, or tongue
+   - skin rash, redness, or swelling
+   - fast heartbeat
+   - weak pulse
+   - feeling very anxious
+   - confusion
+   - stomach pain
+   - losing control of urine or bowel movements (incontinence)
+   - diarrhea or stomach cramps
+   - dizziness, fainting, or “passing out” (unconsciousness)
+2. Always carry your Adrenaclick with you because you may not know when anaphylaxis may happen.
+   Talk to your healthcare provider if you need additional units to keep at work, school, or other locations.
+   Tell your family members, caregivers, and others where you keep your Adrenaclick and how to use it before you need it.
+   You may be unable to speak in an allergic emergency.
+3. When you have an allergic emergency (anaphylaxis)
+   - Use Adrenaclick right away.
+   - Get emergency medical help right away.
+     You may need further medical attention.
+     You may need to use a second Adrenaclick auto-injector if symptoms continue or recur.
+     Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
 
 What is Adrenaclick?
-Adrenaclick is an emergency injection ("shot") of epinephrine.
-It is a medicine used for life-threatening allergic reactions such as severe swelling, breathing problems, or loss of blood pressure.
-Allergic reactions can be caused by stinging and biting insects (bugs), allergy injections, food, medicines, exercise, or unknown causes.
-Life-threatening allergic reactions may show up as closing of your breathing airways, wheezing, sneezing, hoarseness, hives, itching, swelling, skin redness, fast heartbeat, weak pulse, feeling very anxious, confusion, stomach pain, losing control of urine or bowel movements (incontinence), faintness, or "passing out" (unconsciousness).
 
-- Adrenaclick 0.15mg is for patients who weigh 33-66 pounds (15-30 kg).
-- Adrenaclick 0.3mg is for patients who weigh 66 pounds (30 kg) or greater.
-- Use of Adrenaclick must be followed by emergency medical care.
-- Each Adrenaclick unit contains a single dose of epinephrine.
+- Adrenaclick is a disposable, prefilled automatic injection device (auto-injector) used to treat life-threatening, allergic emergencies including anaphylaxis in people who are at risk for or have a history of serious allergic emergencies.
+  Each device contains a single dose of epinephrine.
+- Adrenaclick is for immediate self (or caregiver) administration and does not take the place of emergency medical care.
+  You should get emergency medical help right away after using Adrenaclick.
+- Adrenaclick is for people who have been prescribed this medicine by their healthcare provider.
+- The Adrenaclick 0.3 mg auto-injector is for patients who weigh 66 pounds or more (30 kilograms or more).
+- The Adrenaclick 0.15 mg auto-injector is for patients who weigh about 33 to 66 pounds (15 to 30 kilograms).
+- It is not known if Adrenaclick is safe and effective in children who weigh less than 33 pounds (15 kilograms).
 
-Who should not use Adrenaclick?
+What should I tell my healthcare provider before using Adrenaclick?
 
-There are no absolute contraindications to the use of Adrenaclick in a life-threatening allergic reaction.
-People with certain medical conditions have a higher chance of getting serious side effects from Adrenaclick.
-Tell your doctor about all your medical conditions, but especially if you:
+Before you use Adrenaclick, tell your healthcare provider about all your medical conditions, especially if you:
 
-- have heart disease or high blood pressure
+- have heart problems or high blood pressure
 - have diabetes
-- have thyroid conditions
+- have thyroid problems
 - have asthma
-- have depression or other mental disease
+- have a history of depression
 - have Parkinson's disease
-- are pregnant
-- are allergic to any of the ingredients in Adrenaclick
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
+  It is not known if epinephrine will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  It is not known if epinephrine passes into your breast milk.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
-Some medicines may cause serious side effects if taken while you use Adrenaclick.
-Some medicines may affect how Adrenaclick works, or Adrenaclick may affect how your other medicines work.
-Diabetic patients may need to adjust the dose of their diabetes medicines or insulin after using Adrenaclick.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
+Tell your healthcare provider of all known allergies.
+
+Especially tell your healthcare provider if you take certain asthma medicines.
+
+Adrenaclick and other medicines may affect each other, causing side effects.
+Adrenaclick may affect the way other medicines work, and other medicines may affect how Adrenaclick works.
+
+Know the medicines you take.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
+
+Use your Adrenaclick auto-injector for treatment of anaphylaxis as prescribed by your healthcare provider, regardless of your medical conditions or the medicine you take.
 
 How should I use Adrenaclick?
 
-- Do NOT remove the gray caps until you are ready to use.
-- Never put thumb, fingers, or hand over the red tip.
+- Each Adrenaclick auto-injector contains only 1 dose of medicine.
+- Adrenaclick should only be injected into the middle of the outer thigh (upper leg).
+  It can be injected through clothing, if needed.
+- Read the Instructions for Use at the end of this Patient Information Leaflet for information about the right way to use Adrenaclick.
+- Your healthcare provider will show you how to safely use the Adrenaclick auto-injector.
+- Use Adrenaclick exactly as your healthcare provider tells you to use it.
+  You may need to use a second Adrenaclick auto-injector if symptoms continue or recur.
+  Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
+- Caution: Never put your thumb, fingers, or hand over the red tip.
+  Never press or push the red tip with your thumb, fingers, or hand.
   The needle comes out of the red tip.
-  Accidental injection into hand or feet may result in the loss of blood flow to these areas.
+  Accidental injection into finger, hands, or feet may cause a loss of blood flow to those areas.
   If this happens, go immediately to the nearest emergency room.
-- Inject Adrenaclick only into the middle of the outer side of your thigh (upper leg).
-- Hold Adrenaclick in the thigh while slowly counting to 10 to make sure all medicine is delivered.
-- Additional video instructions on the use of Adrenaclick are available at www.adrenaclick.com.
-
-What should I avoid while using Adrenaclick?
-
-- Avoid injecting Adrenaclick into your buttock or any other part of your body, other than the middle of the outer side of your thigh (upper leg).
-- Avoid injecting Adrenaclick into a vein.
+  Tell the healthcare provider where on your body you received the accidental injection.
+- Your Adrenaclick auto-injector comes packaged in a carton containing 2 Adrenaclick auto-injectors.
+- You may request a separate Trainer, that comes packaged with Trainer Instructions for Use.
+  Additional video instructions on the use of Adrenaclick are available from www.adrenaclick.com.
+  The Adrenaclick Trainer has a beige color.
+  The beige Adrenaclick Trainer contains no medicine and no needle.
+  Practice with your Adrenaclick Trainer before an allergic emergency happens to make sure you are able to safely use the real Adrenaclick auto-injector in an emergency.
+  Always carry your real Adrenaclick auto-injector with you in case of an allergic emergency.
+- Do not drop the carrying case or Adrenaclick auto-injector.
+  If the carrying case or Adrenaclick auto-injector is dropped, check for damage and leakage.
+  Dispose of the auto-injector and carrying case, and replace if damage or leakage is noticed or suspected.
 
 What are the possible side effects of Adrenaclick?
-Too much epinephrine (Adrenaclick) can cause dangerously high blood pressure, stroke, or death.
-If you take certain medicines, you may develop serious life-threatening side effects from the epinephrine in Adrenaclick.
-Be sure to tell your doctor about all the medicines you take, especially medicines for asthma.
-Patients with certain medical conditions, or who take certain medicines, may get more side effects from Adrenaclick, or the side effects may last longer.
-This includes patients who take certain types of medicines for asthma, allergies, depression, hyperthyroidism, high blood pressure, and heart disease.
-Patients with heart disease may feel chest pain (angina).
-Patients with mental disease or Parkinson's disease may have worsening symptoms of their illness.
-Adrenaclick (epinephrine) can cause the following reactions.
-Some reactions can be serious.
-They usually go away with rest.
+
+Adrenaclick may cause serious side effects.
+
+- Adrenaclick should only be injected into the middle of your outer thigh (upper leg).
+  Do not inject Adrenaclick into your:
+  - veins
+  - buttocks
+  - fingers, toes, hands or feet.
+
+If you accidently inject Adrenaclick into any other part of your body, go to the nearest emergency room right away.
+Tell the healthcare provider where on your body you received the accidental injection.
+
+- If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have more or longer lasting side effects when you use Adrenaclick.
+  Talk to your healthcare provider about all your medical conditions.
+
 Common side effects of Adrenaclick include:
 
-- faster, irregular (wrong) or 'pounding' heartbeat
-- throbbing headache
-- paleness
-- feelings of over excitement, anxiety, or fear
-- weakness or shakiness
-- dizziness
-- nausea and vomiting
+- faster, irregular or “pounding” heartbeat
 - sweating
+- headache
+- weakness
+- shakiness
+- paleness
+- feelings of over excitement, nervousness, or anxiety
+- dizziness
+- nausea or vomiting
+- breathing problems
+
+These side effects may go away with rest.
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of Adrenaclick.
-For more information, ask your doctor or pharmacist.
+For more information, ask your healthcare provider or pharmacist.
+
+Call your healthcare provider for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Adrenaclick?
-The medicine in Adrenaclick can be damaged by light.
-Therefore, keep it in the protective carrying case provided.
-Keep it at room temperature and protect it from freezing.
-Do not refrigerate.
-Keep Adrenaclick with you at all times.
-Check your Adrenaclick regularly to be sure:
 
-- it has not expired
-- the medicine in Adrenaclick is not cloudy, discolored, or has particles in it.
+- Store Adrenaclick at room temperature between 68° to 77° F (20° to 25° C).
+- Protect from light.
+- Do not expose to extreme heat or cold.
+  For example, do not store in your vehicle’s glove box and do not store in the refrigerator or freezer.
+- Examine the contents in the clear viewing window of your auto-injector periodically.
+  The solution should be clear.
+  If the solution is discolored (pinkish or brown), cloudy or contains solid particles, replace the unit.
+- Always keep your Adrenaclick auto-injector in the carrying case to protect it from damage; however, the carrying case is not waterproof.
+- The two gray end caps marked (1) and (2) help to prevent accidental injection.
+  Do not remove the gray end caps until you are ready to use Adrenaclick.
+- Your Adrenaclick has an expiration date.
+  Replace it before the expiration date.
 
-Replace the Adrenaclick if needed.
+Keep Adrenaclick and all medicines out of the reach of children.
 
-General information about the safe and effective use of Adrenaclick.
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+General information about the safe and effective use of Adrenaclick:
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information Leaflet.
 Do not use Adrenaclick for a condition for which it was not prescribed.
-Do not give Adrenaclick to other people, even if they have the same symptoms you have.
-It may harm them.
-This leaflet summarizes the most important information about Adrenaclick.
-If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about Adrenaclick that is written for health professionals.
+Do not give Adrenaclick to other people.
 
-© 2013 Amedra Pharmaceuticals LLC, Horsham, PA.
-All rights reserved.
-This product and the use thereof is proprietary and protected under one or more of United States Patents 5,358,489; 5,540,664; 5,833,669; 5,665,071; 5,695,472; 7,297,136; 7,905,352; 7,621,891; 7,927,303; 7,931,618; 8,187,224; and/or related patents in countries other than the U.S. Rx only
+This Patient Information Leaflet summarizes the most important information about Adrenaclick.
+If you would like more information, talk to your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about Adrenaclick that is written for health professionals.
 
-Manufactured for and Distributed by: Amedra Pharmaceuticals LLC Horsham, PA 19044
+For more information and video instructions on the use of Adrenaclick, go to www.adrenaclick.com or call 1-888-894-6528.
 
-Printed in U.S.A. 51007-04 Revised April, 2013
+What are the ingredients in Adrenaclick?
 
-# PATIENT PACKAGE INSERT
+Active Ingredient: epinephrine
 
-ADRENACLICK® (epinephrine injection, USP) auto-injector Available as 0.15 mg 0.3 mg
+Inactive Ingredients: sodium chloride, chlorobutanol, sodium bisulfite, hydrochloric acid and sodium hydroxide, and water.
 
-Patient Directions for Use Before Use Make Sure Medicine Is Ready When You Need It Look at the medicine in the Adrenaclick regularly.
-If it looks cloudy, is discolored, has particles in it, or if the expiration date has passed, the Adrenaclick should be replaced.
+Important Information
 
-| Do NOT remove GRAY caps until you are ready to use the Adrenaclick. |  |
-| --- | --- |
-
-The following instructions should be followed for both Adrenaclick 0.15mg and Adrenaclick 0.3mg.
-Additional video instructions on the use of Adrenaclick are available at www.adrenaclick.com.
-
-STEP A
-
-- Pull off GRAY end cap with the [1]; you will now see a RED tip.
-  Never put thumb, finger, or hand over the RED tip.
-- Pull off GRAY end cap with [2].
-
-STEP B
-
-- Put the RED tip against the middle of the outer side of your thigh (upper leg) as shown.
-  It can go through clothes.
-- Press down hard until the needle enters your thigh (upper leg) through your skin.
-  Hold it in place while slowly counting to 10.
-- Remove the Adrenaclick from your thigh.
-- Check the RED tip.
-  If the needle is exposed you received the dose.
-  If needle is not visible, repeat Step B.
-
-Get emergency medical help right away.
-Call 911
-
-AFTER USE/DISPOSAL
-
-- The remaining liquid that is left after this fixed dose cannot be further administered and should be discarded.
-- Put the auto-injector, needle first, into the carrying case.
-- Put the light gray case top over the non-needle end of the Adrenaclick unit and close the case.
-- Give your used Adrenaclick to a healthcare worker for proper disposal.
-  Do NOT throw away in a regular trash can.
+- The Adrenaclick 0.3 mg auto-injector has a yellow colored label.
+- The Adrenaclick 0.15 mg auto-injector has an orange colored label.
+- The Adrenaclick Trainer has a beige color, and contains no medicine and no needle.
+- Your auto-injector is designed to work through clothing.
+- The two gray end caps marked (1) and (2) on the Adrenaclick auto-injector help to prevent accidental injection of the device.
+  Do not remove the gray end caps until you are ready to use it.
+- Only inject into the middle of the outer thigh (upper leg).
+  Never inject into any other part of the body.
+- Never put your thumb, fingers, or your hand over the red tip.
+  The needle comes out of the red tip.
+- If an accidental injection happens, get medical help right away.
+- Do not place patient information or any other foreign objects in carrier with the auto-injector, as this may prevent you from removing the auto-injector for use.
