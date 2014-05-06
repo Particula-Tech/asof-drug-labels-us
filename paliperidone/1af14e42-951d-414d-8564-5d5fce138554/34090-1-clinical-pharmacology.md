@@ -38,7 +38,7 @@ In a study with oral immediate-release 14C-paliperidone, one week following admi
 Approximately 80% of the administered radioactivity was recovered in urine and 11% in the feces.
 Four metabolic pathways have been identified in vivo, none of which accounted for more than 10% of the dose: dealkylation, hydroxylation, dehydrogenation, and benzisoxazole scission.
 Although in vitro studies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, there is no evidence in vivo that these isozymes play a significant role in the metabolism of paliperidone.
-Population pharmacokinetics analyses indicated no discernable difference on the apparent clearance of paliperidone after administration of oral paliperidone between extensive metabolizers and poor metabolizers of CYP2D6 substrates.
+Population pharmacokinetics analyses indicated no discernible difference on the apparent clearance of paliperidone after administration of oral paliperidone between extensive metabolizers and poor metabolizers of CYP2D6 substrates.
 In vitro studies in human liver microsomes showed that paliperidone does not substantially inhibit the metabolism of medicines metabolized by cytochrome P450 isozymes, including CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, CYP2E1, CYP3A4, and CYP3A5.
 
 In vitro studies have shown that paliperidone is a P-gp substrate and a weak inhibitor of P-gp at high concentrations.

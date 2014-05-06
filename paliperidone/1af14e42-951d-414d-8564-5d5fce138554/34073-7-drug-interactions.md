@@ -19,8 +19,8 @@ Paliperidone is not expected to cause clinically important pharmacokinetic inter
 
 ## 7.2 Potential for Other Drugs to Affect INVEGA® SUSTENNA®
 
-On initiation of strong inducers of CYP3A4 (e.g., carbamazepine, rifampin, or St John's wort), it may be necessary to increase the dose of INVEGA® SUSTENNA®.
-Conversely, on discontinuation of the strong inducers, it may be necessary to decrease the dose of INVEGA® SUSTENNA® [see Clinical Pharmacology (12.3)].
+On initiation of strong inducers of both CYP3A4 and P-gp (e.g., carbamazepine, rifampin, or St John's wort), it may be necessary to increase the dose of INVEGA® SUSTENNA®.
+Conversely, on discontinuation of the strong inducer, it may be necessary to decrease the dose of INVEGA® SUSTENNA® [see Clinical Pharmacology (12.3)].
 
 No dose adjustment is necessary for INVEGA® SUSTENNA® when valproate is added to treatment [see Clinical Pharmacology (12.3)].
 

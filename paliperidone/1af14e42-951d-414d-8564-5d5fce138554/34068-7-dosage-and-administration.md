@@ -12,8 +12,8 @@ Administer the dose in a single injection; do not administer the dose in divided
 Inject slowly, deep into the muscle.
 
 The recommended needle size for administration of INVEGA® SUSTENNA® into the deltoid muscle is determined by the patient's weight.
-For those ≥ 90 kg, the 1½-inch, the 22 gauge needle is recommended.
-For those < 90 kg, the 1-inch, the 23 gauge needle is recommended.
+For those ≥ 90 kg, the 1½-inch, 22 gauge needle is recommended.
+For those < 90 kg, the 1-inch, 23 gauge needle is recommended.
 Deltoid injections should be alternated between the two deltoid muscles.
 
 The recommended needle size for administration of INVEGA® SUSTENNA® into the gluteal muscle is the 1½-inch, 22 gauge needle.
@@ -85,10 +85,10 @@ Thereafter, follow with monthly injections of 78 mg in either the deltoid or glu
 
 INVEGA® SUSTENNA® is not recommended in patients with moderate or severe renal impairment (creatinine clearance < 50 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-Coadministration with Strong CYP3A4 Inducers
+Coadministration with Strong CYP3A4/P-glycoprotein (P-gp) Inducers
 
-It may be necessary to increase the dose of INVEGA® SUSTENNA® when a CYP3A4 strong inducer (e.g., carbamazepine, rifampin, St John's wort) is added.
-It may be necessary to decrease the dose of INVEGA® SUSTENNA® when a CYP3A4 strong inducer is discontinued [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+It may be necessary to increase the dose of INVEGA® SUSTENNA® when a strong inducer of both CYP3A4 and P-gp (e.g., carbamazepine, rifampin, St John's wort) is co-administered.
+Conversely, on discontinuation of the strong inducer, it may be necessary to decrease the dose of INVEGA® SUSTENNA® [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 ## 2.6 Maintenance Therapy
 

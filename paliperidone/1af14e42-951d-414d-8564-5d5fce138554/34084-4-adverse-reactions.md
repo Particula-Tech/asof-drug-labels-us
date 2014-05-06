@@ -217,7 +217,9 @@ Vascular disorders: hypotension, ischemia
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: angioedema, swollen tongue, thrombotic thrombocytopenic purpura, urinary incontinence, and urinary retention.
+The following adverse reactions have been identified during postapproval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: angioedema, ileus, swollen tongue, thrombotic thrombocytopenic purpura, urinary incontinence, and urinary retention.
+
+Very rarely, cases of anaphylactic reaction after injection with INVEGA® SUSTENNA® have been reported during postmarketing experience in patients who have previously tolerated oral risperidone or oral paliperidone.
 
 ## 6.3 Adverse Reactions Reported With Risperidone
 
