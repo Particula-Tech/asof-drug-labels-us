@@ -49,4 +49,4 @@ Signs and symptoms of these reported cases have included enlargement of the clit
 In most cases with a reported outcome, these signs and symptoms were reported to have regressed with removal of the testosterone gel exposure.
 In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age.
 In some of the cases, direct contact with the sites of application on the skin of men using testosterone gel was reported.
-In at least one reported case, the reporter considered the possibility of secondary exposure from items such as the testosterone gel user’s shirts and/or other fabrics, such as towels and sheets [see Warnings and Precautions (5.2)].
+In at least one reported case, the reporter considered the possibility of secondary exposure from items such as the testosterone gel user’s shirts and/or other fabric, such as towels and sheets [see Warnings and Precautions (5.2)].

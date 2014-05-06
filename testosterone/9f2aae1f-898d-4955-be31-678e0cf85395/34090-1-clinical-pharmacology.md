@@ -21,7 +21,7 @@ Absorption
 Testim® (testosterone gel) delivers physiologic amounts of testosterone, producing circulating testosterone concentrations that approximate normal concentrations (e.g., 300 – 1000 ng/dL) seen in healthy men.
 
 The skin serves as a reservoir for the sustained release of testosterone into the systemic circulation.
-Approximately 10% of the testosterone applied on the skin surface is absorbed into the systemic circulation during a 24 hour period.
+Approximately 10% of the testosterone applied on the skin surface is absorbed into the systemic circulation during a 24-hour period.
 
 Single Dose
 

@@ -6,4 +6,4 @@
   Testim may cause serious adverse reactions in nursing infants.
   Exposure of a fetus or nursing infant to androgens may result in varying degrees of virilization.
   Pregnant women or those who may become pregnant need to be aware of the potential for transfer of testosterone from men treated with Testim.
-  If a pregnant woman is exposed to Testim, she should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.2), and Use in Specific Populations (8.1, 8.3)].
+  If a pregnant woman is exposed to Testim, she should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.2) and Use in Specific Populations (8.1, 8.3)].

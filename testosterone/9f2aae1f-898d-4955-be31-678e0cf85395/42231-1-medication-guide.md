@@ -4,7 +4,7 @@ Testim® (TĔS tim) CIII
 
 (testosterone gel)
 
-Read the Medication Guide that comes with TESTIM before you start taking it and each time you get a refill.
+Read this Medication Guide that comes with TESTIM before you start using it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
@@ -58,8 +58,8 @@ Do not use Testim if you:
 
 - have breast cancer
 - have or might have prostate cancer
-- are pregnant or may become pregnant or are breast-feeding.
-  Testim may harm your unborn or breast-feeding baby.
+- are pregnant or may become pregnant or are breastfeeding.
+  Testim may harm your unborn or breastfeeding baby.
   Women who are pregnant or who may become pregnant should avoid contact with the area of skin where Testim has been applied.
 
 Talk to your healthcare provider before taking this medicine if you have any of the above conditions.
@@ -122,7 +122,7 @@ What are the possible side effects of Testim?
 
 Testim can cause serious side effects including:
 
-- See “What is the most important information I should know about Testim?”.
+- See “What is the most important information I should know about Testim?”
 - If you already have enlargement of your prostate gland your signs and symptoms can get worse while using Testim.
   This can include:
   - increased urination at night
