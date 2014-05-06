@@ -25,3 +25,31 @@ Testosterone Cypionate Injection, USP
 For Intramuscular Use Only
 
 One 1 mL Sterile Vial
+
+# PRINCIPAL DISPLAY PANEL - Carton
+
+Rx Only
+
+NDC 0574-0827-10
+
+Testosterone Cypionate Injection, USP
+
+200 mg/mL
+
+For Intramuscular Use Only
+
+One 10 mL Sterile Multiple Dose Vial
+
+# PRINCIPAL DISPLAY PANEL - Carton
+
+Rx Only
+
+NDC 0574-0827-10
+
+Testosterone Cypionate Injection, USP
+
+200 mg/mL
+
+For Intramuscular Use Only
+
+One 10 mL Sterile Multiple Dose Vial

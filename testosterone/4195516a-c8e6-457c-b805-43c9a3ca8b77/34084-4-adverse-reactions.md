@@ -17,4 +17,8 @@ Nervous system: Increased or decreased libido, headache, anxiety, depression, an
 
 Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions.
 
+Vascular Disorders - venous thromboembolism
+
 Miscellaneous: Inflammation and pain at the site of intramuscular injection.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

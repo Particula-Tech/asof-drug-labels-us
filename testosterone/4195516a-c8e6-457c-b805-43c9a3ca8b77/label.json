@@ -1,12 +1,14 @@
 {
   "application_numbers": [
-    "ANDA040530"
+    "ANDA040530",
+    "ANDA091244"
   ],
   "inn": "testosterone",
   "labeler": "Paddock Laboratories, LLC",
   "package_ndcs": [
     "0574-0820-01",
-    "0574-0820-10"
+    "0574-0820-10",
+    "0574-0827-10"
   ],
   "products": [
     {
