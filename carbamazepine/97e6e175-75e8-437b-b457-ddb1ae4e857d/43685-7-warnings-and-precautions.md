@@ -48,13 +48,12 @@ The role of other possible factors in the development of, and morbidity from, SJ
 
 ## Aplastic Anemia and Agranulocytosis
 
-Aplastic anemia and agranulocytosis have been reported in association with the use of carbamazepine.
-[see Boxed Warning.]
+Aplastic anemia and agranulocytosis have been reported in association with the use of carbamazepine (see Boxed Warning.)
 Patients with a history of adverse hematologic reaction to any drug may be particularly at risk of bone marrow depression.
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity
 
-Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan hypersensitivity, have occurred with carbamazepine.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan hypersensitivity, has occurred with carbamazepine.
 Some of these events have been fatal or life-threatening.
 DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
@@ -122,7 +121,7 @@ As with all antiepileptic drugs, carbamazepine should be withdrawn gradually to 
 Carbamazepine can cause fetal harm when administered to a pregnant woman.
 
 Epidemiological data suggest that there may be an association between the use of carbamazepine during pregnancy and congenital malformations, including spina bifida.
-There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g., craniofacial defects, cardiovascular malformations, hypospadias and anomalies involving various body systems).
+There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g., craniofacial defects, cardiovascular malformations, hypospadias, and anomalies involving various body systems).
 Developmental delays based on neurobehavioral assessments have been reported.
 In treating or counseling women of childbearing potential, the prescribing physician will wish to weigh the benefits of therapy against the risks.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -164,6 +163,10 @@ This occurred generally, but not solely, in patients with underlying EKG abnorma
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
 In some cases, hepatic effects may progress despite discontinuation of the drug.
+In addition, rare instances of vanishing bile duct syndrome have been reported.
+This syndrome consists of a cholestatic process with a variable clinical course ranging from fulminant to indolent, involving the destruction and disappearance of the intrahepatic bile ducts.
+Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions.
+As an example there has been a report of vanishing bile duct syndrome associated with Stevens-Johnson syndrome and in another case an association with fever and eosinophilia.
 
 ## Information for Patients
 
@@ -178,7 +181,7 @@ Patients should be advised that serious skin reactions have been reported in ass
 In the event a skin reaction should occur while taking carbamazepine, patients should consult with their physician immediately (see WARNINGS).
 
 Patients, their caregivers, and families should be counseled that AEDs, including carbamazepine, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers
+Behaviors of concern should be reported immediately to healthcare providers.
 
 Carbamazepine may interact with some drugs.
 Therefore, patients should be advised to report to their doctors the use of any other prescription or nonprescription medications or herbal products.
@@ -193,14 +196,14 @@ To enroll, patients can call the toll free number 1-888-233-2334 (see WARNINGS, 
 
 ## Laboratory Tests
 
-For genetically at-risk patients (see WARNINGS), high-resolution ‘HLA-B*1502 typing’ is recommended.
+For genetically at-risk patients (see WARNINGS), high-resolution 'HLA-B*1502 typing' is recommended.
 The test is positive if either one or two HLA-B*1502 alleles are detected and negative if no HLA-B*1502 alleles are detected.
 
 Complete pretreatment blood counts, including platelets and possibly reticulocytes and serum iron, should be obtained as a baseline.
 If a patient in the course of treatment exhibits low or decreased white blood cell or platelet counts, the patient should be monitored closely.
 Discontinuation of the drug should be considered if any evidence of significant bone marrow depression develops.
 
-Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with this drug since liver damage may occur (see PRECAUTIONS, Generaland ADVERSE REACTIONS).
+Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with this drug since liver damage may occur (see PRECAUTIONS, General and ADVERSE REACTIONS).
 Carbamazepine should be discontinued, based on clinical judgment, if indicated by newly occurring or worsening clinical or laboratory evidence of liver dysfunction or hepatic damage, or in the case of active liver disease.
 
 Baseline and periodic eye examinations, including slit-lamp, funduscopy, and tonometry, are recommended since many phenothiazines and related drugs have been shown to cause eye changes.
@@ -211,7 +214,7 @@ Monitoring of blood levels (see CLINICAL PHARMACOLOGY) has increased the efficac
 This monitoring may be particularly useful in cases of dramatic increase in seizure frequency and for verification of compliance.
 In addition, measurement of drug serum levels may aid in determining the cause of toxicity when more than one medication is being used.
 
-Thyroid function tests have been reported to show decreased values with carbamazepine administered alone.
+Thyroid function tests have been reported to show decreased values with carba mazepine administered alone.
 
 Hyponatremia has been reported in association with carbamazepine use, either alone or in combination with other drugs.
 
@@ -232,18 +235,18 @@ Drugs that have been shown, or would be expected, to increase plasma carbamazepi
 
 Aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, nefazodone, trazodone, loxapine,* olanzapine, quetiapine*, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, protease inhibitors, valproate*.
 
-________________________________________________________________________
-
-*increased levels of the active carbamazepine-10,11-epoxide
-
-†decreased levels of carbamazepine and increased levels of the 10,11-epoxide
-
 Agents That Decrease Carbamazepine Levels
 
 CYP 3A4 inducers can increase the rate of carbamazepine metabolism.
 Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include:
 
 cisplatin, doxorubicin HCl, felbamate†, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline.
+
+________________________________________________________________________
+
+*increased levels of the active carbamazepine-10,11-epoxide
+
+†decreased levels of carbamazepine and increased levels of the 10,11-epoxide
 
 ## Effect of Carbamazepine on Plasma Levels of Concomitant Agents
 
@@ -252,7 +255,7 @@ Decreased Levels of Concomitant Medications
 Carbamazepine is a potent inducer of hepatic CYP 3A4 and may therefore reduce plasma concentrations of comedications mainly metabolized by CYP3A4 through induction of their metabolism.
 Carbamazepine causes, or would be expected to cause, decreased levels of the following:
 
-acetaminophen, albendazole, alprazolam, aprepitant, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g., prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
+acetaminophen, albendazole, alprazolam, aprepitant, buprenorphone, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g., prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, mianserin, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, sertaline, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
 
 In concomitant use with carbamazepine, monitoring of concentrations or dosage adjustment of the above agents may be necessary.
 
@@ -321,7 +324,7 @@ Because of the potential for serious adverse reactions in nursing infants from c
 
 ## Pediatric Use
 
-Substantial evidence of carbamazepine’s effectiveness for use in the management of children with epilepsy (see INDICATIONS AND USAGE for specific seizure types) is derived from clinical investigations performed in adults and from studies in several in vitro systems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
+Substantial evidence of carbamazepine's effectiveness for use in the management of children with epilepsy (see INDICATIONS AND USAGE for specific seizure types) is derived from clinical investigations performed in adults and from studies in several in vitro systems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
 
 Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e., 4-12 mcg/mL) is the same in children and adults.
 

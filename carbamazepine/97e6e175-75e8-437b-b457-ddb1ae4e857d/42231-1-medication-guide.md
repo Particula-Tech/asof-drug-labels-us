@@ -1,8 +1,6 @@
 MEDICATION GUIDE
 
-Carbamazepine Tablets, USP, 100 mg, 200 mg, 300 mg, 400 mg and
-
-Carbamazepine Tablets, USP (Chewable), 100 mg
+Carbamazepine (kar ba MAZ e peen) Tablets, USP, 100 mg, 200 mg, 300 mg, 400 mg and Carbamazepine (kar ba MAZ e peen) Tablets, USP (Chewable), 100 mg
 
 Rx Only
 
@@ -99,7 +97,7 @@ What should I tell my healthcare provider before taking carbamazepine tablets or
 
 Before you take carbamazepine tablets or chewable tablets, tell your healthcare provider if you:
 
-- have or have had suicidal thoughts or actions, depression or mood problems
+- have or have had suicidal thoughts or actions, depression, or mood problems
 - have or ever had heart problems
 - have or ever had blood problems
 - have or ever had liver problems
@@ -214,9 +212,11 @@ Active ingredient: carbamazepine, USP
 
 Inactive ingredients:
 
-Carbamazepine tablets: colloidal silicon dioxide, FD&C Red #40 aluminum lake, hypromellose, magnesium stearate, pregelatinized starch, corn starch, and sodium starch glycolate.
+Carbamazepine tablets: colloidal silicon dioxide, FD&C Red #40 aluminum lake, hypromellose, magnesium stearate, pregelatinized maize starch, corn starch, and sodium starch glycolate.
 
 Carbamazepine tablets (Chewable): artificial flavors, colloidal silicon dioxide, compressible sugar, corn starch, FD&C Red #40 aluminum lake, hydroxypropyl methyl cellulose, magnesium stearate, and sodium starch glycolate.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
@@ -225,6 +225,6 @@ Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8039421 Revised January 2013
+8046801 Revised March 2014
