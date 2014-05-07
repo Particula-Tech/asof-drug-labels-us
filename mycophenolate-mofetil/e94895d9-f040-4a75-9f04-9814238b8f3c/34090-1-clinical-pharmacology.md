@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Mechanism of Action
+## Mechanism of Action
 
 Mycophenolate mofetil has been demonstrated in experimental animal models to prolong the survival of allogeneic transplants (kidney, heart, liver, intestine, limb, small bowel, pancreatic islets, and bone marrow).
 
@@ -18,7 +18,7 @@ MPA also suppresses antibody formation by B‑lymphocytes.
 MPA prevents the glycosylation of lymphocyte and monocyte glycoproteins that are involved in intercellular adhesion to endothelial cells and may inhibit recruitment of leukocytes into sites of inflammation and graft rejection.
 Mycophenolate mofetil did not inhibit early events in the activation of human peripheral blood mononuclear cells, such as the production of interleukin‑1 (IL‑1) and interleukin-2 (IL‑2), but did block the coupling of these events to DNA synthesis and proliferation.
 
-Pharmacokinetics
+## Pharmacokinetics
 
 Following oral and intravenous administration, mycophenolate mofetil undergoes rapid and complete metabolism to MPA, the active metabolite.
 Oral absorption of the drug is rapid and essentially complete.
@@ -77,7 +77,7 @@ In the early posttransplant period (<40 days posttransplant), renal, cardiac, an
 Mean MPA AUC values following administration of 1 g bid intravenous mycophenolate mofetil over 2 hours to renal transplant patients for 5 days were about 24% higher than those observed after oral administration of a similar dose in the immediate posttransplant phase.
 In hepatic transplant patients, administration of 1 g bid intravenous mycophenolate mofetil followed by 1.5 g bid oral mycophenolate mofetil resulted in mean MPA AUC values similar to those found in renal transplant patients administered 1 g mycophenolate mofetil bid.
 
-Table 1: Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of Mycophenolate Mofetil USP to Healthy Volunteers (Single Dose), Renal, Cardiac, and Hepatic Transplant Patients (Multiple Doses)
+Table 1: Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of Mycophenolate Mofetil to Healthy Volunteers (Single Dose), Renal, Cardiac, and Hepatic Transplant Patients (Multiple Doses)
 
 |  | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Total AUC (mcg•h/mL) |
 | --- | --- | --- | --- | --- |
@@ -149,11 +149,11 @@ MPA AUC was 44.1 mcg•h/mL (±15.5).
 Pediatrics
 
 The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving mycophenolate mofetil oral suspension at a dose of 600 mg/m2 bid (up to a maximum of 1 g bid) after allogeneic renal transplantation.
-The pharmacokinetic data for MPA is provided in Table 3:
+The pharmacokinetic data for MPA is provided in Table 3.
 
 Table 3: Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Renal Transplantation
 
-| Age Group | (n) | Time | Tmax (h) |  | Dose AdjustedAdjusted to a dose of 600 mg/m2 Cmax (mcg/mL) |  | Dose Adjusted AUC0-12 (mcg•h/mL) |  |
+| Age Group | (n) | Time | Tmax (h) |  | Dose AdjustedAdjusted to a dose of 600 mg/m2Cmax (mcg/mL) |  | Dose Adjusted AUC0-12 (mcg•h/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Early (Day 7) |  |  |  |  |  |  |
 | 1 to <2 yr | (6)A subset of 1 to <6 yr |  | 3.03 | (4.7) | 10.3 | (5.8) | 22.5 | (6.66) |

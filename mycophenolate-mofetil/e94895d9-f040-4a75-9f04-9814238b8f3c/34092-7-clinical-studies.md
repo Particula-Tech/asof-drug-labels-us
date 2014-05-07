@@ -4,7 +4,7 @@ Adults
 
 The safety and efficacy of mycophenolate mofetil in combination with corticosteroids and cyclosporine for the prevention of organ rejection were assessed in randomized, double-blind, multicenter trials in renal (3 trials), in cardiac (1 trial), and in hepatic (1 trial) adult transplant patients.
 
-RenalTransplant
+## Renal Transplant
 
 Adults
 
@@ -31,7 +31,7 @@ Table 4: Renal Transplant Studies Incidence of Treatment Failure (Biopsy-Proven 
 | All Treatment Failures | 31.1% | 31.3% | 47.6% |
 | Early Termination Without Prior Acute RejectionDoes not include death and graft loss as reason for early termination. | 9.6% | 12.7% | 6% |
 | Biopsy-proven Rejection Episode on Treatment | 19.8% | 17.5% | 38% |
-| Europe/Canada/Australia StudyMMF or azathioprine/cyclosporine/corticosteroids. (N= Patients 503) | Mycophenolate Mofetil 2 g/day (n=173 Patients) | Mycophenolate Mofetil 3 g/day (n=164 Patients) | Azathioprine 100 to 150 mg/day (n=166 Patients) |
+| Europe/Canada/Australia StudyMMF or azathioprine/cyclosporine/corticosteroids. (N= 503 Patients) | Mycophenolate Mofetil 2 g/day (n=173 Patients) | Mycophenolate Mofetil 3 g/day (n=164 Patients) | Azathioprine 100 to 150 mg/day (n=166 Patients) |
 | All Treatment Failures | 38.2% | 34.8% | 50% |
 | Early Termination Without Prior Acute Rejection | 13.9% | 15.2% | 10.2% |
 | Biopsy-proven Rejection Episode on Treatment | 19.7% | 15.9% | 35.5% |
@@ -81,7 +81,7 @@ Table 6: Rejection at 6 Months/Death or Retransplantation at 1 Year
 | Biopsy-Proven Rejection with Hemodynamic Compromise at 6 MonthsHemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥20 mm or a 25% increase; cardiac index <2 L/min/m2 or a 25% decrease; ejection fraction ≤30%; pulmonary artery oxygen saturation ≤60% or a 25% decrease; presence of new S3 gallop; fractional shortening was ≤20% or a 25% decrease; inotropic support required to manage the clinical condition. | 121 (38%) | 120 (37%) | 100 (35%) | 92 (32%) |
 | Death or Retransplantation at 1 Year | 49 (15.2%) | 42 (12.8%) | 33 (11.4%) | 18 (6.2%) |
 
-Hepatic Transplant
+## Hepatic Transplant
 
 A double-blind, randomized, comparative, parallel-group, multicenter study in primary hepatic transplant recipients was performed at 16 centers in the United States, 2 in Canada, 4 in Europe and 1 in Australia.
 The total number of patients enrolled was 565.

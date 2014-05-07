@@ -1,5 +1,3 @@
-## WARNING: EMBRYOFETAL TOXICITY, MALIGNANCIES, AND SERIOUS INFECTIONS
-
 # HANDLING AND DISPOSAL
 
 Mycophenolate mofetil USP has demonstrated teratogenic effects in rats and rabbits (see Pregnancy and WARNINGS:Embryofetal Toxicity).

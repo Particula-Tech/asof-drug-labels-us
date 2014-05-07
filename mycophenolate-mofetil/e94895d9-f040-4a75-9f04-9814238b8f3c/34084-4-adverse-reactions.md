@@ -3,7 +3,7 @@
 The principal adverse reactions associated with the administration of mycophenolate mofetil include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections eg, opportunistic infection (see WARNINGS: Serious Infections and WARNINGS: New or Reactivated Viral Infections).
 The adverse event profile associated with the administration of mycophenolate mofetil intravenous has been shown to be similar to that observed after administration of oral dosage forms of mycophenolate mofetil.
 
-Mycophenolate Mofetil Oral
+## Mycophenolate Mofetil Oral
 
 The incidence of adverse events for mycophenolate mofetil was determined in randomized, comparative, double-blind trials in prevention of rejection in renal (2 active, 1 placebo-controlled trials), cardiac (1 active-controlled trial), and hepatic (1 active-controlled trial) transplant patients.
 
@@ -19,7 +19,7 @@ Table 9: Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or
 
 |  | Renal Studies |  |  | Cardiac Study |  | Hepatic Study |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Myco-phenolate2 g/day (n=336) % | Myco-phenolate 3 g/day (n=330) % | Azathio-prine 1 to 2 mg/kg/day or 100 to 150 mg/day (n=326) % | Myco-phenolate 3 g/day (n=289) % | Azathio-prine 1.5 to 3 mg/kg/day (n=289) % | Myco-phenolate 3 g/day (n=277) % | Azathio-prine 1 to 2 mg/kg/day (n=287) % |
+|  | Mycophenolate2 g/day (n=336) % | Mycophenolate 3 g/day (n=330) % | Azathioprine 1 to 2 mg/kg/day or 100 to 150 mg/day (n=326) % | Mycophenolate 3 g/day (n=289) % | Azathioprine 1.5 to 3 mg/kg/day (n=289) % | Mycophenolate 3 g/day (n=277) % | Azathioprine 1 to 2 mg/kg/day (n=287) % |
 | Body as a Whole |  |  |  |  |  |  |  |
 | Pain | 33 | 31.2 | 32.2 | 75.8 | 74.7 | 74 | 77.7 |
 | Abdominal Pain | 24.7 | 27.6 | 23 | 33.9 | 33.2 | 62.5 | 51.2 |
@@ -112,7 +112,7 @@ Table 10: Viral and Fungal Infections in Controlled Studies in Prevention of Ren
 
 |  | Renal Studies |  |  | Cardiac Study |  | Hepatic Study |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Myco-phenolate2 g/day (n=336) % | Myco-phenolate 3 g/day (n=330) % | Azathio-prine 1 to 2 mg/kg/day or 100 to 150 mg/day (n=326) % | Myco-phenolate 3 g/day (n=289) % | Azathio-prine 1.5 to 3 mg/kg/day (n=289) % | Myco-phenolate 3 g/day (n=277) % | Azathio-prine 1 to 2 mg/kg/day (n=287) % |
+|  | Mycophenolate 2 g/day(n=336)% | Mycophenolate 3 g/day(n=330)% | Azathioprine 1 to 2 mg/kg/day or 100 to 150 mg/day(n=326)% | Mycophenolate 3 g/day(n=289)% | Azathioprine 1.5 to 3 mg/kg/day(n=289)% | Mycophenolate 3 g/day(n=277)% | Azathioprine 1 to 2 mg/kg/day(n=287)% |
 | Herpes simplex | 16.7 | 20 | 19 | 20.8 | 14.5 | 10.1 | 5.9 |
 | CMV |  |  |  |  |  |  |  |
 | Viremia/ syndrome | 13.4 | 12.4 | 13.8 | 12.1 | 10 | 14.1 | 12.2 |
@@ -146,13 +146,13 @@ Table 11: Adverse Events Reported in 3% to <20% of Patients Treated with Mycophe
 | Nervous | agitation, anxiety, confusion, convulsion, delirium, depression, dry mouth, emotional lability, hallucinations, hypertonia, hypesthesia, nervousness, neuropathy, paresthesia, psychosis, somnolence, thinking abnormal, vertigo |
 | Endocrine | Cushing's syndrome, diabetes mellitus, hypothyroidism, parathyroid disorder |
 | Musculoskeletal | arthralgia, joint disorder, leg cramps, myalgia, myasthenia, osteoporosis |
-| Special Senses | abnormal vision, amblyopia, cataract (not specified), conjunctivitis, deafness, ear disorder, ear pain, eye hemorrhage, tinnitus, lacrimation disorde |
+| Special Senses | abnormal vision, amblyopia, cataract (not specified), conjunctivitis, deafness, ear disorder, ear pain, eye hemorrhage, tinnitus, lacrimation disorder |
 
 Pediatrics
 
 The type and frequency of adverse events in a clinical study in 100 pediatric patients 3 months to 18 years of age dosed with mycophenolate mofetil oral suspension 600 mg/m2 bid (up to 1 g bid) were generally similar to those observed in adult patients dosed with mycophenolate mofetil capsules at a dose of 1 g bid with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
 
-Mycophenolate Mofetil Intravenous
+## Mycophenolate Mofetil Intravenous
 
 The adverse event profile of mycophenolate mofetil intravenous was determined from a single, double-blind, controlled comparative study of the safety of 2 g/day of intravenous and oral mycophenolate mofetil in renal transplant patients in the immediate posttransplant period (administered for the first 5 days).
 The potential venous irritation of mycophenolate mofetil intravenous was evaluated by comparing the adverse events attributable to peripheral venous infusion of mycophenolate mofetil intravenous with those observed in the intravenous placebo group; patients in this group received active medication by the oral route.
@@ -162,21 +162,15 @@ Adverse events attributable to peripheral venous infusion were phlebitis and thr
 In the active controlled study in hepatic transplant patients, 2 g/day of mycophenolate mofetil intravenous were administered in the immediate posttransplant period (up to 14 days).
 The safety profile of intravenous mycophenolate mofetil was similar to that of intravenous azathioprine.
 
-Postmarketing Experience
+## Postmarketing Experience
 
-Congenital Disorders
+Congenital Disorders: Embryofetal Toxicity: Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil USP during pregnancy (see PRECAUTIONS: Pregnancy).
 
-Embryofetal Toxicity: Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil USP during pregnancy (see PRECAUTIONS:Pregnancy).
+Digestive: Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of intestinal villous atrophy.
 
-Digestive
+Hematologic and Lymphatic: Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
 
-Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of intestinal villous atrophy.
-
-Hematologic and Lymphatic
-
-Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
-
-Infections (see WARNINGS:Serious Infections,New or Reactivated Viral Infections):
+Infections(see WARNINGS: Serious Infections, New or Reactivated Viral Infections):
 
 - •Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally.
 - •There is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
@@ -186,6 +180,4 @@ Infections (see WARNINGS:Serious Infections,New or Reactivated Viral Infections)
   This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
 - •Viral reactivation has been reported in patients infected with HBV or HCV.
 
-Respiratory
-
-Interstitial lung disorders, including fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in posttransplant patients receiving mycophenolate mofetil.
+Respiratory: Interstitial lung disorders, including fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in posttransplant patients receiving mycophenolate mofetil.

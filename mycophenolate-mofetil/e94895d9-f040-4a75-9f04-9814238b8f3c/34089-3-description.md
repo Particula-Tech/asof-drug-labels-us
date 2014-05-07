@@ -14,7 +14,7 @@ The pKa values for mycophenolate mofetil are 5.6 for the morpholino group and 8.
 Mycophenolate mofetil hydrochloride has a solubility of 65.8 mg/mL in 5% Dextrose Injection USP (D5W).
 The pH of the reconstituted solution is 2.4 to 4.1.
 
-Mycophenolate is available for oral administration as capsules containing 250 mg of mycophenolate mofetil USP.
+Mycophenolate is available for oral administration as capsules containing 250 mg of mycophenolate mofetil USP and tablets containing 500 mg of mycophenolate mofetil USP.
 
 Inactive ingredients in Mycophenolate Mofetil Capsules USP, 250 mg include croscarmellose sodium, magnesium stearate, povidone, and pregelatinized starch.
 The capsule shells contain FD&C blue #1, FD&C red #3, gelatin, red iron oxide, titanium dioxide, and yellow iron oxide.

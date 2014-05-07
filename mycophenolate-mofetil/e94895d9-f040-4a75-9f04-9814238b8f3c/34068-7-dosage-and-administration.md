@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Renal Transplantation
+## Renal Transplantation
 
 Adults
 
@@ -14,19 +14,19 @@ The recommended dose of mycophenolate mofetil oral suspension is 600 mg/m2 admin
 Patients with a body surface area of 1.25 m2 to 1.5 m2 may be dosed with mycophenolate mofetil capsules at a dose of 750 mg twice daily (1.5 g daily dose).
 Patients with a body surface area >1.5 m2 may be dosed with mycophenolate mofetil capsules or tablets at a dose of 1 g twice daily (2 g daily dose).
 
-Cardiac Transplantation
+## Cardiac Transplantation
 
 Adults
 
 A dose of 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult cardiac transplant patients.
 
-Hepatic Transplantation
+## Hepatic Transplantation
 
 Adults
 
 A dose of 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult hepatic transplant patients.
 
-Mycophenolate Mofetil Capsules, Tablets, and Oral Suspension
+## Mycophenolate Mofetil Capsules, Tablets, and Oral Suspension
 
 The initial oral dose of mycophenolate mofetil should be given as soon as possible following renal, cardiac or hepatic transplantation.
 Food had no effect on MPA AUC, but has been shown to decrease MPA Cmax by 40%.
@@ -37,7 +37,7 @@ Patients should be instructed to take a missed dose as soon as they remember, ex
 
 Note: If required, mycophenolate mofetil oral suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
 
-Patients With Hepatic Impairment
+Patients with Hepatic Impairment
 
 No dose adjustments are recommended for renal patients with severe hepatic parenchymal disease.
 However, it is not known whether dose adjustments are needed for hepatic disease with other etiologies (see CLINICAL PHARMACOLOGY: Pharmacokinetics).
@@ -48,7 +48,7 @@ Geriatrics
 
 The recommended oral dose of 1 g bid for renal transplant patients, 1.5 g bid for cardiac transplant patients, and 1.5 g bid administered orally in hepatic transplant patients is appropriate for elderly patients (see PRECAUTIONS: Geriatric Use).
 
-Mycophenolate Mofetil Intravenous
+## Mycophenolate Mofetil Intravenous
 
 Adults
 
@@ -62,11 +62,11 @@ Following reconstitution, mycophenolate mofetil intravenous must be administered
 
 CAUTION: MYCOPHENOLATE MOFETIL INTRAVENOUS SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION (see WARNINGS).
 
-Dosage Adjustments
+## Dosage Adjustments
 
 In renal transplant patients with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) outside the immediate posttransplant period, doses of mycophenolate mofetil greater than 1 g administered twice a day should be avoided.
 These patients should also be carefully observed.
-No dose adjustments are needed in renal transplant patients experiencing delayed graft function postoperatively (see CLINICAL PHARMACOLOGY: Pharmacokinetics and PRECAUTIONS:Patients with Renal Impairment).
+No dose adjustments are needed in renal transplant patients experiencing delayed graft function postoperatively (see CLINICAL PHARMACOLOGY: Pharmacokinetics and PRECAUTIONS: Patients with Renal Impairment).
 
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 Mycophenolate mofetil may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
