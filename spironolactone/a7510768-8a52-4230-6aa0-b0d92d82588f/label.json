@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA203253"
+  ],
+  "inn": "spironolactone",
+  "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59746-216-01",
+    "59746-216-05",
+    "59746-216-10",
+    "59746-217-01",
+    "59746-217-05",
+    "59746-218-01",
+    "59746-218-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "spironolactone",
+      "name": "Spironolactone"
+    }
+  ],
+  "setid": "a7510768-8a52-4230-6aa0-b0d92d82588f",
+  "source": "dailymed"
+}
