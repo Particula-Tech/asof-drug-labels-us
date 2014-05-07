@@ -1,6 +1,6 @@
 Medication Guide
 
-BREO™ ELLIPTA™ (BREE-oh ee-LIP-ta)
+BREO® ELLIPTA® (BREE-oh ee-LIP-ta)
 
 (fluticasone furoate and vilanterol inhalation powder)
 
@@ -21,8 +21,8 @@ BREO ELLIPTA can cause serious side effects, including:
 - •Call your healthcare provider if breathing problems worsen over time while using BREO ELLIPTA.
   You may need different treatment.
 - •Get emergency medical care if:
-  - ∘your breathing problems worsen quickly
-  - ∘you use your rescue inhaler, but it does not relieve your breathing problems.
+  - •your breathing problems worsen quickly
+  - •you use your rescue inhaler, but it does not relieve your breathing problems.
 
 What is BREO ELLIPTA?
 
@@ -108,11 +108,11 @@ Read the step-by-step instructions for using BREO ELLIPTA at the end of this Med
   Always have a rescue inhaler with you to treat sudden symptoms.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
-  - ∘your breathing problems get worse
-  - ∘you need to use your rescue inhaler more often than usual
-  - ∘your rescue inhaler does not work as well to relieve your symptoms
-  - ∘you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row
-  - ∘you use 1 whole canister of your rescue inhaler in 8 weeks
+  - •your breathing problems get worse
+  - •you need to use your rescue inhaler more often than usual
+  - •your rescue inhaler does not work as well to relieve your symptoms
+  - •you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row
+  - •you use 1 whole canister of your rescue inhaler in 8 weeks
 
 What are the possible side effects with BREO ELLIPTA?
 
@@ -123,39 +123,39 @@ BREO ELLIPTA can cause serious side effects, including:
   People with COPD have a higher chance of getting pneumonia.
   BREO ELLIPTA may increase the chance of getting pneumonia.
   Call your healthcare provider if you notice any of the following symptoms:
-  - ∘increase in mucus (sputum) production
-  - ∘change in mucus color
-  - ∘fever
-  - ∘chills
-  - ∘increased cough
-  - ∘increased breathing problems
+  - •increase in mucus (sputum) production
+  - •change in mucus color
+  - •fever
+  - •chills
+  - •increased cough
+  - •increased breathing problems
 - •thrush (fungal infection) in mouth and throat.
   You may develop a yeast infection (Candida albicans) in your mouth or throat.
   Rinse your mouth with water without swallowing after using BREO ELLIPTA to help prevent thrush in your mouth and throat.
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - ∘rash
-  - ∘hives
-  - ∘swelling of the face, mouth, and tongue
-  - ∘breathing problems
+  - •rash
+  - •hives
+  - •swelling of the face, mouth, and tongue
+  - •breathing problems
 - •sudden breathing problems immediately after inhaling your medicine
 - •effects on heart
-  - ∘increased blood pressure
-  - ∘a fast and/or irregular heartbeat
-  - ∘chest pain
+  - •increased blood pressure
+  - •a fast and/or irregular heartbeat
+  - •chest pain
 - •effects on nervous system
-  - ∘tremor
-  - ∘nervousness
+  - •tremor
+  - •nervousness
 - •reduced adrenal function (adrenal insufficiency).
   Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled corticosteroid (such as BREO ELLIPTA).
   When your body is under stress from fever, trauma (such as a car accident), infection, surgery, or worse COPD symptoms, adrenal insufficiency can get worse and may cause death.
   Symptoms of adrenal insufficiency include:
-  - ∘feeling tired (fatigue)
-  - ∘lack of energy
-  - ∘weakness
-  - ∘nausea and vomiting
-  - ∘low blood pressure
+  - •feeling tired (fatigue)
+  - •lack of energy
+  - •weakness
+  - •nausea and vomiting
+  - •low blood pressure
 - •changes in laboratory blood values (sugar, potassium)
 - •weakened immune system and increased chance of getting infections (immunosuppression)
 - •bone thinning or weakness (osteoporosis)
@@ -259,7 +259,9 @@ Prepare your dose:
 
 Wait to open the cover until you are ready to take your dose.
 
-Figure D Step 1.
+Figure D
+
+Step 1.
 Open the cover of the inhaler.
 See Figure D.
 
@@ -271,14 +273,18 @@ See Figure D.
 - •If the counter does not count down as you hear the click, the inhaler will not deliver the medicine.
   Call your healthcare provider or pharmacist if this happens.
 
-Figure E Step 2.
+Figure E
+
+Step 2.
 Breathe out.
 See Figure E.
 
 - •While holding the inhaler away from your mouth, breathe out (exhale) fully.
   Do not breathe out into the mouthpiece.
 
-Figure F Step 3.
+Figure F
+
+Step 3.
 Inhale your medicine.
 See Figure F.
 
@@ -297,14 +303,18 @@ Figure H
 - •Remove the inhaler from your mouth and hold your breath for about 3 to 4 seconds (or as long as comfortable for you).
   See Figure H.
 
-Figure I Step 4.
+Figure I
+
+Step 4.
 Breathe out slowly and gently.
 See Figure I.
 
 - •You may not taste or feel the medicine, even when you are using the inhaler correctly.
 - •Do not take another dose from the inhaler even if you do not feel or taste the medicine.
 
-Figure J Step 5.
+Figure J
+
+Step 5.
 Close the inhaler.
 See Figure J.
 
@@ -312,7 +322,9 @@ See Figure J.
   Routine cleaning is not required.
 - •Slide the cover up and over the mouthpiece as far as it will go.
 
-Figure K Step 6.
+Figure K
+
+Step 6.
 Rinse your mouth.
 See Figure K.
 
@@ -332,7 +344,7 @@ If you have questions about BREO ELLIPTA or how to use your inhaler, call GlaxoS
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-BREO and ELLIPTA are trademarks of GlaxoSmithKline.
+BREO and ELLIPTA are registered trademarks of the GSK group of companies.
 
 BREO ELLIPTA was developed in collaboration with Theravance.
 
@@ -340,9 +352,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-May 2013
+April 2014
 
-BRE:1MG
+BRE:2MG

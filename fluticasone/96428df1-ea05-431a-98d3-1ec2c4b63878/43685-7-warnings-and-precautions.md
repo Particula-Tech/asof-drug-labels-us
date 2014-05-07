@@ -85,7 +85,7 @@ In addition, patients should be observed for signs and symptoms of adrenal insuf
 
 Transfer of patients from systemic corticosteroid therapy to BREO ELLIPTA may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy (e.g., rhinitis, conjunctivitis, eczema, arthritis, eosinophilic conditions).
 
-During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal (e.g., joint and/or muscular pain, lassitude, and depression) despite maintenance or even improvement of respiratory function.
+During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal (e.g., joint and/or muscular pain, lassitude, depression) despite maintenance or even improvement of respiratory function.
 
 ## 5.8 Hypercorticism and Adrenal Suppression
 
@@ -111,7 +111,7 @@ If paradoxical bronchospasm occurs following dosing with BREO ELLIPTA, it should
 ## 5.11 Hypersensitivity Reactions
 
 Hypersensitivity reactions may occur after administration of BREO ELLIPTA.
-There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder products containing lactose; therefore, patients with severe milk protein allergy should not take BREO ELLIPTA [see Contraindications (4)].
+There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder products containing lactose; therefore, patients with severe milk protein allergy should not use BREO ELLIPTA [see Contraindications (4)].
 
 ## 5.12 Cardiovascular Effects
 

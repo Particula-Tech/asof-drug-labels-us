@@ -76,8 +76,9 @@ Special Populations: The effect of renal and hepatic impairment and other intrin
 Figure 1.
 Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate and Vilanterol Following Administration as Fluticasone Furoate/Vilanterol Combination
 
-- aAge, gender, and ethnicity comparison for BREO ELLIPTA (fluticasone furoate/vilanterol 100 mcg/25 mcg) in subjects with COPD.
-- bRenal groups (fluticasone furoate/vilanterol 200 mcg/25 mcg) and hepatic groups (fluticasone furoate/vilanterol 200 mcg/25 mcg or fluticasone furoate/vilanterol 100 mcg/12.5 mcg) compared with healthy control group.
+a Age, gender, and ethnicity comparison for BREO ELLIPTA (fluticasone furoate/vilanterol 100 mcg/25 mcg) in subjects with COPD.
+
+b Renal groups (fluticasone furoate/vilanterol 200 mcg/25 mcg) and hepatic groups (fluticasone furoate/vilanterol 200 mcg/25 mcg or fluticasone furoate/vilanterol 100 mcg/12.5 mcg) compared with healthy control group.
 
 Race: Systemic exposure (AUC(0-24)) to inhaled fluticasone furoate 200 mcg was 27% to 49% higher in healthy subjects of Japanese, Korean, and Chinese heritage compared with Caucasian subjects.
 Similar differences were observed for subjects with COPD (Figure 1).
@@ -108,7 +109,7 @@ The increase in vilanterol exposure was not associated with an increase in beta-
 Figure 2.
 Impact of Coadministered Drugsa on the Pharmacokinetics (PK) of Fluticasone Furoate and Vilanterol Following Administration as Fluticasone Furoate/Vilanterol Combination or Vilanterol Coadministered With a Long-Acting Muscarinic Antagonist
 
-- a Compared with placebo group.
+a Compared with placebo group.
 
 Inhibitors of P-glycoprotein: Fluticasone furoate and vilanterol are both substrates of P-glycoprotein (P-gp).
 Coadministration of repeat-dose (240 mg once daily) verapamil (a potent P-gp inhibitor and moderate CYP3A4 inhibitor) did not affect the vilanterol Cmax or AUC in healthy subjects (see Figure 2).

@@ -27,7 +27,7 @@ The results supported the selection of the vilanterol 25 mcg once-daily dose for
 
 Fluticasone Furoate: Eight doses of fluticasone furoate ranging from 25 to 800 mcg once daily were evaluated in 3 randomized, double-blind, placebo-controlled, 8-week trials in subjects with asthma.
 A dose-related increase in trough FEV1 at Week 8 was seen for doses from 25 to 200 mcg with no consistent additional benefit for doses above 200 mcg.
-To evaluate dosing frequency, a separate trial compared fluticasone furoate 200 mcg once-daily, fluticasone furoate 100 mcg twice-daily, fluticasone propionate 100 mcg twice-daily, and fluticasone propionate 200 mcg twice-daily.
+To evaluate dosing frequency, a separate trial compared fluticasone furoate 200 mcg once-daily, fluticasone furoate 100 mcg twice-daily, fluticasone propionate 100 mcg twice-daily, and fluticasone propionate 200 mcg once-daily.
 The results supported the selection of the once-daily dosing frequency.
 
 Based on the dose-ranging trials in asthma and COPD, once-daily doses of fluticasone furoate/vilanterol 50 mcg/25 mcg, 100 mcg/25 mcg, and 200 mcg/25 mcg were evaluated in the confirmatory COPD trials.
@@ -64,8 +64,9 @@ Least Squares Mean Change From Baseline in Weighted Mean FEV1 (0-4 h) and Trough
 | Trial 2 |  |  |  |  |  |  |
 | BREO ELLIPTA100 mcg/25 mcg | 206 | 173(123, 224) | 120(70, 170) | –– | 115(60, 169) | 48(-6, 102) |
 
-- a At Day 168.
-- bAt Day 169.
+a At Day 168.
+
+b At Day 169
 
 Serial spirometric evaluations were performed pre-dose and up to 4 hours after dosing.
 Results from Trial 1 at Day 1 and Day 168 are shown in Figure 4.

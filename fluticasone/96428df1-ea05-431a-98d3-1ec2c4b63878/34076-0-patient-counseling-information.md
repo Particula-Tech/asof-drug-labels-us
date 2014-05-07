@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide and Instructions for Use)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 ## 17.1 Asthma-Related Death
 
@@ -47,7 +47,7 @@ Ocular Effects: Long-term use of inhaled corticosteroids may increase the risk o
 
 Patients should be informed of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
-BREO and ELLIPTA are trademarks of GlaxoSmithKline.
+BREO and ELLIPTA are registered trademarks of the GSK group of companies.
 
 BREO ELLIPTA was developed in collaboration with Theravance.
 
@@ -55,7 +55,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-BRE:1PI
+BRE:2PI
