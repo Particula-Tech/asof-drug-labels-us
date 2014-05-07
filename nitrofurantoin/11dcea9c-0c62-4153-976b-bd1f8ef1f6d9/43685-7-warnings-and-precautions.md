@@ -1,22 +1,21 @@
 # WARNINGS
 
-Pulmonary reactions: ACUTE, SUBACUTE, OR CHRONIC PULMONARY REACTIONS HAVE BEEN OBSERVED IN PATIENTS TREATED WITH NITROFURANTOIN.
+Pulmonary reactions ACUTE, SUBACUTE, OR CHRONIC PULMONARY REACTIONS HAVE BEEN OBSERVED IN PATIENTS TREATED WITH NITROFURANTOIN.
 IF THESE REACTIONS OCCUR, NITROFURANTOIN ORAL SUSPENSION SHOULD BE DISCONTINUED AND APPROPRIATE MEASURES TAKEN.
 REPORTS HAVE CITED PULMONARY REACTIONS AS A CONTRIBUTING CAUSE OF DEATH.
 
 CHRONIC PULMONARY REACTIONS (DIFFUSE INTERSTITIAL PNEUMONITIS OR PULMONARY FIBROSIS, OR BOTH) CAN DEVELOP INSIDIOUSLY.
 THESE REACTIONS OCCUR RARELY AND GENERALLY IN PATIENTS RECEIVING THERAPY FOR SIX MONTHS OR LONGER.
-CLOSE MONITORING OF THE PULMONARY CONDITION OF PATIENTS RECEIVING LONG-TERM THERAPY IS WARRANTED AND REQUIRES THAT THE BENEFITS OF THERAPY BE WEIGHED AGAINST POTENTIAL RISKS.
-(SEE RESPIRATORY REACTIONS)
+CLOSE MONITORING OF THE PULMONARY CONDITION OF PATIENTS RECEIVING LONG-TERM THERAPY IS WARRANTED AND REQUIRES THAT THE BENEFITS OF THERAPY BE WEIGHED AGAINST POTENTIAL RISKS (SEE RESPIRATORY REACTIONS).
 
-Hepatotoxicity:
+Hepatotoxicity
 
 Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely.
 Fatalities have been reported.
 The onset of chronic active hepatitis may be insidious, and patients should be monitored periodically for changes in biochemical tests that would indicate liver injury.
 If hepatitis occurs, the drug should be withdrawn immediately and appropriate measures should be taken.
 
-Neuropathy:
+Neuropathy
 
 Peripheral neuropathy, which may become severe or irreversible, has occurred.
 Fatalities have been reported.
@@ -26,7 +25,7 @@ Patients receiving long-term therapy should be monitored periodically for change
 
 Optic neuritis has been reported rarely in postmarketing experience with nitrofurantoin formulations.
 
-Hemolytic anemia:
+Hemolytic anemia
 
 Cases of hemolytic anemia of the primaquine-sensitivity type have been induced by nitrofurantoin.
 Hemolysis appears to be linked to a glucose-6-phosphate dehydrogenase deficiency in the red blood cells of the affected patients.
@@ -48,7 +47,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 # PRECAUTIONS
 
-Information for Patients:
+Information for Patients
 
 Patients should be advised to take nitrofurantoin oral suspension with food to further enhance tolerance and improve drug absorption.
 Patients should be instructed to complete the full course of therapy; however, they should be advised to contact their physician if any unusual symptoms should occur during therapy.
@@ -72,7 +71,7 @@ Drug/Laboratory Test Interactions
 As a result of the presence of nitrofurantoin, a false-positive reaction for glucose in the urine may occur.
 This has been observed with Benedict's and Fehling's solutions but not with the glucose enzymatic test.
 
-Carcinogenesis, mutagenesis, impairment of fertility:
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Nitrofurantoin was not carcinogenic when fed to female Holtzman rats for 44.5 weeks or to female Sprague-Dawley rats for 75 weeks.
 Two chronic rodent bioassays utilizing male and female Sprague-Dawley rats and two chronic bioassays in Swiss mice and in BDF1 mice revealed no evidence of carcinogenicity.
@@ -81,7 +80,7 @@ Nitrofurantoin presented evidence of carcinogenic activity in female B6C3F1 mice
 In male F344/N rats, there were increased incidences of uncommon kidney tubular cell neoplasms, osteosarcomas of the bone, and neoplasms of the subcutaneous tissue.
 In one study involving subcutaneous administration of 75 mg/kg nitrofurantoin to pregnant female mice, lung papillary adenomas of unknown significance were observed in the F1 generation.
 
-Nitrofurantoin has been shown to induce point mutations in certain strains of Salmonella typhimurium and forward mutations L5178Y mouse lymphoma cells.
+Nitrofurantoin has been shown to induce point mutations in certain strains of Salmonella typhimurium and forward mutations on L5178Y mouse lymphoma cells.
 Nitrofurantoin induced increased numbers of sister chromatid exchanges and chromosomal aberrations in Chinese hamster ovary cells but not in human cells in culture.
 Results of the sex-linked recessive lethal assay in Drosophila were negative after administration of nitrofurantoin by feeding or by injection.
 Nitrofurantoin did not induce heritable mutation in the rodent models examined.
@@ -91,9 +90,9 @@ The significance of carcinogenicity and mutagenicity findings relative to the th
 The administration of high doses of nitrofurantoin to rats causes temporary spermatogenic arrest; this is reversible on discontinuing the drug.
 Doses of 10 mg/kg/day or greater in healthy human males may, in certain unpredictable instances, produce a slight to moderate spermatogenic arrest with a decrease in sperm count.
 
-Pregnancy:
+Pregnancy
 
-Teratogenic effects:
+Teratogenic effects
 
 Pregnancy Category B. Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
 In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed.
@@ -107,17 +106,15 @@ Nitrofurantoin has been shown in one published transplacental carcinogenicity st
 The relationship of this finding to potential human carcinogenesis is presently unknown.
 Because of the uncertainty regarding the human implications of these animal data, this drug should be used during pregnancy only if clearly needed.
 
-Labor and delivery:
+Labor and Delivery
 
 See Contraindications.
 
-Nursing mothers:
+Nursing Mothers
 
 Nitrofurantoin has been detected in human breast milk in trace amounts.
-Because of the potential for serious adverse reactions from nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-(See CONTRAINDICATIONS)
+Because of the potential for serious adverse reactions from nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (See CONTRAINDICATIONS).
 
-Pediatric use:
+Pediatric Use
 
-Safety and effectiveness of nitrofurantoin oral suspension in neonates below the age of one month have not been established.
-(See CONTRAINDICATIONS)
+Safety and effectiveness of nitrofurantoin oral suspension in neonates below the age of one month have not been established (See CONTRAINDICATIONS).
