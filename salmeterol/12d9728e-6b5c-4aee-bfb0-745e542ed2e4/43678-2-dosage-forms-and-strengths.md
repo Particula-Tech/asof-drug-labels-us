@@ -1,4 +1,5 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Disposable teal green device with 60 blisters containing salmeterol (50 mcg) as an oral inhalation powder formulation.
-An institutional pack containing 28 blisters is also available.
+Inhalation Powder.
+Inhaler containing a foil blister strip of powder formulation for oral inhalation.
+The strip contains salmeterol 50 mcg per blister.

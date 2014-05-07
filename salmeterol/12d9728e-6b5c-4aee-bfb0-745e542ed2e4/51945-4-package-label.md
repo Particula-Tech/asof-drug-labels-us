@@ -8,29 +8,24 @@ Serevent®Diskus®
 
 50 mcg
 
-Rx only
-
 FOR ORAL INHALATION ONLY
 
 Each blister contains 50 mcg of salmeterol base with lactose monohydrate.
 
-IMPORTANT: Read the accompanying Medication Guide leaflet carefully for further information.
+Federal Law requires the dispensing of SEREVENT DISKUS with the Medication Guide inside the carton.
 
-Discard the DISKUS® 6 weeks after removal from the overwrap.
-Fill in the dates on the DISKUS® appropriately.
+See prescribing information for dosing information.
 
-Dosage: Use only as directed by your doctor.
-
-Store at controlled room temperature (see USP), 20o to 25oC (68o to 77oF) in a dry place away from direct heat or sunlight.
+Rx only
 
 1 DISKUS® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-GlaxoSmithKline
+Made in Singapore
 
-RTP, NC 27709
+©2013, GlaxoSmithKline
 
-10000000108525 Rev.
-7/12
+10000000117746 Rev.
+8/13
 
 Principal Display Panel
 
@@ -44,26 +39,21 @@ INSTITUTIONAL PACK
 
 50 mcg
 
-Rx only
-
 FOR ORAL INHALATION ONLY
 
 Each blister contains 50 mcg of salmeterol base with lactose monohydrate.
 
-IMPORTANT: Read the accompanying Medication Guide leaflet carefully for further information.
+Federal Law requires the dispensing of SEREVENT DISKUS with the Medication Guide inside the carton.
 
-Discard the DISKUS® 6 weeks after removal from the overwrap.
-Fill in the dates on the DISKUS® appropriately.
+See prescribing information for dosing information.
 
-Dosage: Use only as directed by your doctor.
-
-Store at controlled room temperature (see USP), 20o to 25oC (68o to 77oF) in a dry place away from direct heat or sunlight.
+Rx only
 
 1 DISKUS® Inhalation Device Containing 1 Foil Strip of 28 Blisters
 
-GlaxoSmithKline
+Made in Singapore
 
-RTP, NC 27709
+©2013, GlaxoSmithKline
 
-10000000108527 Rev.
-7/12
+10000000117744 Rev.
+8/13

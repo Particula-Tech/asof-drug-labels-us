@@ -24,6 +24,6 @@ In patients with persistent asthma, use of SEREVENT DISKUS for the prevention of
 
 ## 1.3 Maintenance Treatment of Chronic Obstructive Pulmonary Disease
 
-SEREVENT DISKUS is indicated for the long-term twice-daily (morning and evening) administration in the maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease (COPD) (including emphysema and chronic bronchitis).
+SEREVENT DISKUS is indicated for the long-term twice-daily administration in the maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease (COPD) (including emphysema and chronic bronchitis).
 
 Important Limitation of Use: SEREVENT DISKUS is NOT indicated for the relief of acute bronchospasm.

@@ -2,10 +2,12 @@
 
 ## 7.1 Inhibitors of Cytochrome P450 3A4
 
-In a drug interaction study in 20 healthy subjects, coadministration of salmeterol (50 mcg twice daily) and ketoconazole (400 mg once daily) for 7 days resulted in greater systemic exposure to salmeterol (AUC increased 16-fold and Cmax increased 1.4-fold).
+Salmeterol is a substrate of CYP3A4.
+The use of strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with SEREVENT DISKUS is not recommended because increased cardiovascular adverse effects may occur.
+
+In a drug interaction trial in 20 healthy subjects, coadministration of inhaled salmeterol (50 mcg twice daily) and oral ketoconazole (400 mg once daily) for 7 days resulted in greater systemic exposure to salmeterol (AUC increased 16-fold and Cmax increased 1.4-fold).
 Three (3) subjects were withdrawn due to beta2-agonist side effects (2 with prolonged QTc and 1 with palpitations and sinus tachycardia).
 Although there was no statistical effect on the mean QTc, coadministration of salmeterol and ketoconazole was associated with more frequent increases in QTc duration compared with salmeterol and placebo administration.
-Due to the potential increased risk of cardiovascular adverse events, the concomitant use of salmeterol with strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended.
 
 ## 7.2 Monoamine Oxidase Inhibitors and Tricyclic Antidepressants
 
@@ -17,7 +19,7 @@ Beta-blockers not only block the pulmonary effect of beta-agonists, such as SERE
 Therefore, patients with asthma or COPD should not normally be treated with beta-blockers.
 However, under certain circumstances, there may be no acceptable alternatives to the use of beta-adrenergic blocking agents for these patients; cardioselective beta-blockers could be considered, although they should be administered with caution.
 
-## 7.4 Diuretics
+## 7.4 Non–Potassium-Sparing Diuretics
 
-The ECG changes and/or hypokalemia that may result from the administration of nonpotassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
-Although the clinical relevance of these effects is not known, caution is advised in the coadministration of SEREVENT DISKUS with nonpotassium-sparing diuretics.
+The ECG changes and/or hypokalemia that may result from the administration of non–potassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
+Although the clinical significance of these effects is not known, caution is advised in the coadministration of SEREVENT DISKUS with non–potassium-sparing diuretics.

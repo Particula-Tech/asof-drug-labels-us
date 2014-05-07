@@ -15,19 +15,19 @@ For pediatric and adolescent patients with asthma who require addition of a LABA
 In cases where use of a separate long-term asthma control medication (e.g., inhaled corticosteroid) and a LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
 If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and a LABA is recommended.
 
-The Salmeterol Multi-center Asthma Research Trial (SMART) was a large 28-week placebo-controlled US study comparing the safety of salmeterol (SEREVENT Inhalation Aerosol) with placebo, each added to usual asthma therapy, that showed an increase in asthma-related deaths in patients receiving salmeterol [see Clinical Studies (14.1)].
-Given the similar basic mechanisms of action of beta2-agonists, the findings seen in the SMART study are considered a class effect.
+The Salmeterol Multi-center Asthma Research Trial (SMART) was a large 28-week placebo-controlled US trial comparing the safety of salmeterol (SEREVENT® Inhalation Aerosol) with placebo, each added to usual asthma therapy, that showed an increase in asthma-related deaths in subjects receiving salmeterol [see Clinical Studies (14.1)].
+Given the similar basic mechanisms of action of beta2-agonists, the findings seen in the SMART trial are considered a class effect.
 
-A 16-week clinical study performed in the United Kingdom, the Salmeterol Nationwide Surveillance (SNS) study, showed results similar to the SMART study.
-In the SNS study, the rate of asthma-related death was numerically, though not statistically significantly, greater in patients with asthma treated with salmeterol (42 mcg twice daily) than those treated with albuterol (180 mcg 4 times daily) added to usual asthma therapy.
+A 16-week clinical trial performed in the United Kingdom, the Salmeterol Nationwide Surveillance (SNS) trial, showed results similar to the SMART trial.
+In the SNS trial, the rate of asthma-related death was numerically, though not statistically significantly, greater in subjects with asthma treated with salmeterol (42 mcg twice daily) than those treated with albuterol (180 mcg 4 times daily) added to usual asthma therapy.
 
-The SNS and SMART studies enrolled patients with asthma.
-No studies have been conducted that were adequate to determine whether the rate of death in patients with COPD is increased by LABA.
+The SNS and SMART trials enrolled subjects with asthma.
+No trials have been conducted that were primarily designed to determine whether the rate of death in patients with COPD is increased by LABA.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 
 SEREVENT DISKUS should not be initiated in patients during rapidly deteriorating or potentially life-threatening episodes of asthma or COPD.
-SEREVENT DISKUS has not been studied in patients with acutely deteriorating asthma or COPD.
+SEREVENT DISKUS has not been studied in subjects with acutely deteriorating asthma or COPD.
 The initiation of SEREVENT DISKUS in this setting is not appropriate.
 
 Serious acute respiratory events, including fatalities, have been reported when salmeterol has been initiated in patients with significantly worsening or acutely deteriorating asthma.
@@ -37,11 +37,11 @@ It was not possible from these reports to determine whether salmeterol contribut
 
 Increasing use of inhaled, short-acting beta2-agonists is a marker of deteriorating asthma.
 In this situation, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for adding additional inhaled corticosteroid or initiating systemic corticosteroids.
-Patients should not use more than 1 inhalation twice daily (morning and evening) of SEREVENT DISKUS.
+Patients should not use more than 1 inhalation twice daily of SEREVENT DISKUS.
 
 SEREVENT DISKUS should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
 An inhaled, short-acting beta2-agonist, not SEREVENT DISKUS, should be used to relieve acute symptoms such as shortness of breath.
-When prescribing SEREVENT DISKUS, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of acute symptoms.
+When prescribing SEREVENT DISKUS, the healthcare provider should also prescribe an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of acute symptoms.
 
 When beginning treatment with SEREVENT DISKUS, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
 
@@ -53,14 +53,15 @@ Any change in corticosteroid dosage should be made ONLY after clinical evaluatio
 
 ## 5.4 Excessive Use of SEREVENT DISKUS and Use With Other Long-Acting Beta2-Agonists
 
-As with other inhaled beta2-adrenergic drugs, SEREVENT DISKUS should not be used more often or at higher doses than recommended, or in conjunction with other medications containing LABA, as an overdose may result.
+SEREVENT DISKUS should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
-Patients using SEREVENT DISKUS should not use an additional LABA (e.g., formoterol fumarate, arformoterol tartrate) for any reason.
+Patients using SEREVENT DISKUS should not use another medicine containing a LABA (e.g., formoterol fumarate, arformoterol tartrate, indacaterol) for any reason.
 
 ## 5.5 Paradoxical Bronchospasm and Upper Airway Symptoms
 
-As with other inhaled medications, SEREVENT DISKUS can produce paradoxical bronchospasm, which may be life threatening.
-If paradoxical bronchospasm occurs following dosing with SEREVENT DISKUS, it should be treated immediately with an inhaled, short-acting bronchodilator; SEREVENT DISKUS should be discontinued immediately; and alternative therapy should be instituted.
+As with other inhaled medicines, SEREVENT DISKUS can produce paradoxical bronchospasm, which may be life threatening.
+If paradoxical bronchospasm occurs following dosing with SEREVENT DISKUS, it should be treated immediately with an inhaled, short-acting bronchodilator.
+SEREVENT DISKUS should be discontinued immediately, and alternative therapy should be instituted.
 Upper airway symptoms of laryngeal spasm, irritation, or swelling, such as stridor and choking, have been reported in patients receiving SEREVENT DISKUS.
 
 ## 5.6 Cardiovascular and Central Nervous System Effects
@@ -70,27 +71,27 @@ Therefore, SEREVENT DISKUS, like all products containing sympathomimetic amines,
 
 Salmeterol can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.
 Although such effects are uncommon after administration of salmeterol at recommended doses, if they occur, the drug may need to be discontinued.
-In addition, beta-agonists have been reported to produce ECG changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression.
+In addition, beta-agonists have been reported to produce electrocardiogram (ECG) changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression.
 The clinical significance of these findings is unknown.
 Large doses of inhaled or oral salmeterol (12 to 20 times the recommended dose) have been associated with clinically significant prolongation of the QTc interval, which has the potential for producing ventricular arrhythmias.
 Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
 
 ## 5.7 Immediate Hypersensitivity Reactions
 
-Immediate hypersensitivity reactions may occur after administration of SEREVENT DISKUS, as demonstrated by cases of urticaria, angioedema, rash, and bronchospasm.
-There have been reports of anaphylactic reactions in patients with severe milk protein allergy; therefore, patients with severe milk protein allergy should not take SEREVENT DISKUS [see Contraindications (4)].
+Immediate hypersensitivity reactions (e.g., urticaria, angioedema, rash, bronchospasm, hypotension), including anaphylaxis, may occur after administration of SEREVENT DISKUS.
+There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of powder products containing lactose; therefore, patients with severe milk protein allergy should not use SEREVENT DISKUS [see Contraindications (4)].
 
 ## 5.8 Drug Interactions With Strong Cytochrome P450 3A4 Inhibitors
 
-Because of the potential for drug interactions and the potential for increased risk of cardiovascular adverse events, the concomitant use of SEREVENT DISKUS with strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended [see Drug Interactions (7.1)].
+The use of strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with SEREVENT DISKUS is not recommended because increased cardiovascular adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 5.9 Coexisting Conditions
 
-SEREVENT DISKUS, like all medications containing sympathomimetic amines, should be used with caution in patients with convulsive disorders or thyrotoxicosis and in those who are unusually responsive to sympathomimetic amines.
+SEREVENT DISKUS, like all medicines containing sympathomimetic amines, should be used with caution in patients with convulsive disorders or thyrotoxicosis and in those who are unusually responsive to sympathomimetic amines.
 Doses of the related beta2-adrenoceptor agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
 
 ## 5.10 Hypokalemia and Hyperglycemia
 
-Beta-adrenergic agonist medications may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects [see Clinical Pharmacology (12.2)].
+Beta-adrenergic agonist medicines may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects [see Clinical Pharmacology (12.2)].
 The decrease in serum potassium is usually transient, not requiring supplementation.
-Clinically significant and dose-related changes in blood glucose and/or serum potassium were seen infrequently during clinical studies with SEREVENT DISKUS at recommended doses.
+Clinically significant and dose-related changes in blood glucose and/or serum potassium were seen infrequently during clinical trials with SEREVENT DISKUS at recommended doses.
