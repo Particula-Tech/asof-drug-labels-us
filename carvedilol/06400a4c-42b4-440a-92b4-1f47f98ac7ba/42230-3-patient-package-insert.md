@@ -2,7 +2,9 @@ PATIENT INFORMATION LEAFLET
 
 COREG CR® (Co-REG)
 
-(carvedilol phosphate) Extended-release Capsules
+(carvedilol phosphate)
+
+Extended-release Capsules
 
 Read the Patient Information that comes with COREG CR before you start taking it and each time you get a refill.
 There may be new information.
@@ -74,9 +76,9 @@ How should I take COREG CR?
 - •Swallow COREG CR capsules whole.
   Do not chew or crush COREG CR capsules.
 - •If you have trouble swallowing COREG CR whole:
-  - ∘The capsule may be carefully opened and the beads sprinkled over a spoonful of applesauce which should be eaten right away.
+  - •The capsule may be carefully opened and the beads sprinkled over a spoonful of applesauce which should be eaten right away.
     The applesauce should not be warm.
-  - ∘Do not sprinkle beads on foods other than applesauce.
+  - •Do not sprinkle beads on foods other than applesauce.
 - •Do not stop taking COREG CR and do not change the amount of COREG CR you take without talking to your doctor.
 - •If you miss a dose of COREG CR, take your dose as soon as you remember, unless it is time to take your next dose.
   Take your next dose at the usual time.
@@ -102,9 +104,9 @@ Serious side effects of COREG CR include:
   If you have diabetes, tell your doctor if you have any changes in your blood sugar levels.
 - •masking (hiding) the symptoms of low blood sugar, especially a fast heartbeat.
 - •new or worsening symptoms of peripheral vascular disease.
-  - ∘leg pain that happens when you walk, but goes away when you rest
-  - ∘no feeling (numbness) in your legs or feet while you are resting
-  - ∘cold legs or feet
+  - •leg pain that happens when you walk, but goes away when you rest
+  - •no feeling (numbness) in your legs or feet while you are resting
+  - •cold legs or feet
 - •masking the symptoms of hyperthyroidism (overactive thyroid), such as a fast heartbeat.
 - •worsening of severe allergic reactions.
   Medicines to treat a severe allergic reaction may not work as well while you are taking COREG CR.
@@ -116,6 +118,8 @@ Common side effects of COREG CR include shortness of breath, weight gain, diarrh
 If you wear contact lenses, you may have fewer tears or dry eyes that can become bothersome.
 
 Call your doctor if you have any side effects that bother you or don’t go away.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store COREG CR?
 
@@ -152,15 +156,15 @@ High blood pressure makes the heart work harder to pump blood through the body a
 COREG CR can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
-COREG CR and COREG are registered trademarks of GlaxoSmithKline.
+COREG CR and COREG are registered trademarks of the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-January 2011
+May 2014
 
-CCR:5PIL
+CCR:6PIL

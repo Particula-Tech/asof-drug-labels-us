@@ -1,10 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.2).
+Advise the patient to read the FDA-approved patient labeling (Patient Information)
 
-## 17.1 Patient Advice
-
-Patients taking COREG CR should be advised of the following:
+- Patients taking COREG CR should be advised of the following:
 
 - •Patients should not interrupt or discontinue using COREG CR without a physician’s advice.
 - •Patients with heart failure should consult their physician if they experience signs or symptoms of worsening heart failure such as weight gain or increasing shortness of breath.
@@ -17,25 +15,20 @@ Patients taking COREG CR should be advised of the following:
 - •Diabetic patients should report any changes in blood sugar levels to their physician.
 - •Contact lens wearers may experience decreased lacrimation.
 
-## 17.2 FDA-Approved Patient Labeling
+COREG CR and COREG are registered trademarks of the GSK group of companies.
 
-Patient labeling is provided as a tear-off leaflet at the end of this full prescribing information.
-
-COREG CR and COREG are registered trademarks of GlaxoSmithKline.
-
-TOPROL-XL is a registered trademark of the AstraZeneca group of companies.
+TOPROL-XL is a trademark of its respective owner and is not a trademark of the GSK group of companies.
+The maker of this brand is not affiliated with and does not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-August 2011
+May 2014
 
-CCR:16PI
+CCR:17PI
 
-PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
-
-------------------------------------------------------------------------------------------------------
+- PHARMACIST─DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT

@@ -1,18 +1,18 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-COREG CR is an extended-release capsule intended for once-daily administration.
-Patients controlled with immediate-release carvedilol tablets alone or in combination with other medications may be switched to COREG CR extended-release capsules based on the total daily doses shown in Table 1.
+COREG CR is an extended-release capsule intended for once‑daily administration.
+Patients controlled with immediate‑release carvedilol tablets alone or in combination with other medications may be switched to COREG CR extended‑release capsules based on the total daily doses shown in Table 1.
 
 Table 1.
 Dosing Conversion
 
-| Daily Dose of Immediate-Release Carvedilol Tablets | Daily Dose of COREG CR Capsules* |
+| Daily Dose of Immediate-Release Carvedilol Tablets | Daily Dose of COREG CR Capsulesa |
 | --- | --- |
 | 6.25 mg (3.125 mg twice daily) | 10 mg once daily |
 | 12.5 mg (6.25 mg twice daily) | 20 mg once daily |
 | 25 mg (12.5 mg twice daily) | 40 mg once daily |
 | 50 mg (25 mg twice daily) | 80 mg once daily |
-| * When switching from carvedilol 12.5 mg or 25 mg twice daily, a starting dose of COREG CR 20 mg or 40 mg once daily, respectively, may be warranted for elderly patients or those at increased risk of hypotension, dizziness, or syncope. Subsequent titration to higher doses should, as appropriate, be made after an interval of at least 2 weeks. |  |
+| a When switching from carvedilol 12.5 mg or 25 mg twice daily, a starting dose of COREG CR 20 mg or 40 mg once daily, respectively, may be warranted for elderly patients or those at increased risk of hypotension, dizziness, or syncope. Subsequent titration to higher doses should, as appropriate, be made after an interval of at least 2 weeks. |  |
 
 COREG CR should be taken once daily in the morning with food.
 COREG CR should be swallowed as a whole capsule.
@@ -26,14 +26,14 @@ Absorption of the beads sprinkled on other foods has not been tested.
 
 ## 2.1 Heart Failure
 
-DOSAGE MUST BE INDIVIDUALIZED AND CLOSELY MONITORED BY A PHYSICIAN DURING UP-TITRATION.
+DOSAGE MUST BE INDIVIDUALIZED AND CLOSELY MONITORED BY A PHYSICIAN DURING UP‑TITRATION.
 Prior to initiation of COREG CR, it is recommended that fluid retention be minimized.
 The recommended starting dose of COREG CR is 10 mg once daily for 2 weeks.
 Patients who tolerate a dose of 10 mg once daily may have their dose increased to 20, 40, and 80 mg over successive intervals of at least 2 weeks.
 Patients should be maintained on lower doses if higher doses are not tolerated.
 
 Patients should be advised that initiation of treatment and (to a lesser extent) dosage increases may be associated with transient symptoms of dizziness or lightheadedness (and rarely syncope) within the first hour after dosing.
-Thus during these periods they should avoid situations such as driving or hazardous tasks, where symptoms could result in injury.
+Thus, during these periods, they should avoid situations such as driving or hazardous tasks, where symptoms could result in injury.
 Vasodilatory symptoms often do not require treatment, but it may be useful to separate the time of dosing of COREG CR from that of the ACE inhibitor or to reduce temporarily the dose of the ACE inhibitor.
 The dose of COREG CR should not be increased until symptoms of worsening heart failure or vasodilation have been stabilized.
 
@@ -45,23 +45,23 @@ Episodes of dizziness or fluid retention during initiation of COREG CR can gener
 
 ## 2.2 Left Ventricular Dysfunction Following Myocardial Infarction
 
-DOSAGE MUST BE INDIVIDUALIZED AND MONITORED DURING UP-TITRATION.
+DOSAGE MUST BE INDIVIDUALIZED AND MONITORED DURING UP‑TITRATION.
 Treatment with COREG CR may be started as an inpatient or outpatient and should be started after the patient is hemodynamically stable and fluid retention has been minimized.
 It is recommended that COREG CR be started at 20 mg once daily and increased after 3 to 10 days, based on tolerability, to 40 mg once daily, then again to the target dose of 80 mg once daily.
-A lower starting dose may be used (10 mg once daily) and/or the rate of up-titration may be slowed if clinically indicated (e.g., due to low blood pressure or heart rate, or fluid retention).
+A lower starting dose may be used (10 mg once daily) and/or the rate of up‑titration may be slowed if clinically indicated (e.g., due to low blood pressure or heart rate, or fluid retention).
 Patients should be maintained on lower doses if higher doses are not tolerated.
-The recommended dosing regimen need not be altered in patients who received treatment with an IV or oral β-blocker during the acute phase of the myocardial infarction.
+The recommended dosing regimen need not be altered in patients who received treatment with an IV or oral β‑blocker during the acute phase of the myocardial infarction.
 
 ## 2.3 Hypertension
 
 DOSAGE MUST BE INDIVIDUALIZED.
 The recommended starting dose of COREG CR is 20 mg once daily.
-If this dose is tolerated, using standing systolic pressure measured about one hour after dosing as a guide, the dose should be maintained for 7 to 14 days, and then increased to 40 mg once daily if needed, based on trough blood pressure, again using standing systolic pressure one hour after dosing as a guide for tolerance.
+If this dose is tolerated, using standing systolic pressure measured about 1 hour after dosing as a guide, the dose should be maintained for 7 to 14 days, and then increased to 40 mg once daily if needed, based on trough blood pressure, again using standing systolic pressure 1 hour after dosing as a guide for tolerance.
 This dose should also be maintained for 7 to 14 days and can then be adjusted upward to 80 mg once daily if tolerated and needed.
-Although not specifically studied, it is anticipated the full antihypertensive effect of COREG CR would be seen within 7 to 14 days as had been demonstrated with immediate-release carvedilol.
+Although not specifically studied, it is anticipated the full antihypertensive effect of COREG CR would be seen within 7 to 14 days as had been demonstrated with immediate‑release carvedilol.
 Total daily dose should not exceed 80 mg.
 
-Concomitant administration with a diuretic can be expected to produce additive effects and exaggerate the orthostatic component of COREG CR action.
+Concomitant administration with a diuretic can be expected to produce additive effects and exaggerate the orthostatic component of carvedilol action.
 
 ## 2.4 Hepatic Impairment
 
@@ -70,4 +70,4 @@ COREG CR should not be given to patients with severe hepatic impairment [see Con
 ## 2.5 Geriatric Use
 
 When switching elderly patients (65 years of age or older) who are taking the higher doses of immediate-release carvedilol tablets (25 mg twice daily) to COREG CR, a lower starting dose (40 mg) of COREG CR is recommended to minimize the potential for dizziness, syncope, or hypotension [see Dosage and Administration (2)].
-Patients who have switched and who tolerate COREG CR should, as appropriate, have their dose increased to after an interval of at least 2 weeks [see Use in Specific Populations (8.5)].
+Patients who have switched and who tolerate COREG CR should, as appropriate, have their dose increased after an interval of at least 2 weeks [see Use in Specific Populations (8.5)].
