@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA205641"
+  ],
+  "inn": "mometasone",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0085-4333-01",
+    "0085-4333-02",
+    "0085-4334-01",
+    "0085-4334-02"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL",
+      "generic": "mometasone furoate",
+      "name": "ASMANEX HFA"
+    }
+  ],
+  "setid": "1f608abd-d414-41e9-89bd-32dd2ef33cb8",
+  "source": "dailymed"
+}
