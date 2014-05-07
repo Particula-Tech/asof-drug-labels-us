@@ -25,7 +25,7 @@ Of the 398 Xyrem-treated patients with narcolepsy, 10.3% of patients discontinue
 The most common adverse reaction leading to discontinuation was nausea (2.8%).
 The majority of adverse reactions leading to discontinuation began during the first few weeks of treatment.
 
-Commonly Observed Adverse Reactions in Controlled Clinical Trials:
+CommonlyObserved Adverse Reactions in Controlled Clinical Trials:
 
 The most common adverse reactions (incidence ≥ 5% and twice the rate seen with placebo) in Xyrem-treated patients were nausea, dizziness, vomiting, somnolence, enuresis, and tremor.
 

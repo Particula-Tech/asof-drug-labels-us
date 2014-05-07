@@ -19,11 +19,11 @@ Call your doctor right away if you have any of these serious side effects.
 - •The active ingredient of Xyrem is a form of gamma-hydroxybutyrate (GHB).
   GHB is a chemical that has been abused and misused.
   Abuse and misuse of Xyrem can cause serious medical problems, including:
-  - ∘seizures
-  - ∘trouble breathing
-  - ∘changes in alertness
-  - ∘coma
-  - ∘death
+  - •seizures
+  - •trouble breathing
+  - •changes in alertness
+  - •coma
+  - •death
 - •Do not drive a car, use heavy machinery, fly an airplane, or do anything that is dangerous or that requires you to be fully awake for at least 6 hours after you take Xyrem.
   You should not do those activities until you know how Xyrem affects you.
 - •Xyrem is available only by prescription and filled through the central pharmacy in the Xyrem Success Program.
@@ -106,17 +106,17 @@ Xyrem can cause serious side effects, including:
 
 - •See “What is the most important information I should know about Xyrem?”
 - •Breathing problems, including:
-  - ∘slower breathing
-  - ∘trouble breathing
-  - ∘short periods of not breathing while sleeping (sleep apnea).
+  - •slower breathing
+  - •trouble breathing
+  - •short periods of not breathing while sleeping (sleep apnea).
     People who already have breathing or lung problems have a higher chance of having breathing problems when they use Xyrem.
 - •Mental health problems, including:
-  - ∘confusion
-  - ∘seeing or hearing things that are not real (hallucinations)
-  - ∘unusual or disturbing thoughts (abnormal thinking)
-  - ∘feeling anxious or upset
-  - ∘depression
-  - ∘thoughts of killing yourself or trying to kill yourself
+  - •confusion
+  - •seeing or hearing things that are not real (hallucinations)
+  - •unusual or disturbing thoughts (abnormal thinking)
+  - •feeling anxious or upset
+  - •depression
+  - •thoughts of killing yourself or trying to kill yourself
 
 Call your doctor right away if you have symptoms of mental health problems.
 
@@ -128,11 +128,11 @@ Call your doctor right away if you have symptoms of mental health problems.
 The most common side effects of Xyrem include:
 
 - 
-  - ∘nausea
-  - ∘dizziness
-  - ∘vomiting
-  - ∘bedwetting
-  - ∘diarrhea
+  - •nausea
+  - •dizziness
+  - •vomiting
+  - •bedwetting
+  - •diarrhea
 
 Your side effects may increase when you take higher doses of Xyrem.
 
@@ -151,9 +151,9 @@ How should I store Xyrem?
 - •Get emergency medical help right away if a child drinks your Xyrem.
 - •Store Xyrem between 68°F to 77°F (20°C to 24°C).
   When you have finished using a Xyrem bottle:
-  - ∘empty any unused Xyrem down the sink drain
-  - ∘cross out the label on the Xyrem bottle with a marker
-  - ∘place the empty Xyrem bottle in the trash
+  - •empty any unused Xyrem down the sink drain
+  - •cross out the label on the Xyrem bottle with a marker
+  - •place the empty Xyrem bottle in the trash
 
 General information about the safe and effective use of Xyrem
 
@@ -260,7 +260,7 @@ Step 6.
 - •After you draw up each separate Xyrem dose, remove the syringe from the opening of the Xyrem bottle.
   Put the tip into 1 of the empty containers with child-resistant caps provided by the pharmacy.
 - •Make sure the pharmacy container is empty and does not contain any medicine from your previous night’s dose.
-  - ∘Empty each separate Xyrem dose into 1 of the empty pharmacy containers by pushing down on the plunger.
+  - •Empty each separate Xyrem dose into 1 of the empty pharmacy containers by pushing down on the plunger.
     (See Figure H).
 - •Using a measuring cup, pour about ¼ cup of water into each container.
   Be careful to add only water to each container and not more Xyrem.

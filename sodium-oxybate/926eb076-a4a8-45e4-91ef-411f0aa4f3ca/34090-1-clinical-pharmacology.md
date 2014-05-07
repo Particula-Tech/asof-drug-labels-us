@@ -78,7 +78,7 @@ Drug interaction studies in healthy adults (age 18 to 50 years) were conducted w
 
 - •Divalproex sodium: Co-administration of Xyrem (6 g per day as two equal doses of 3 grams dosed four hours apart) with divalproex sodium (valproic acid, 1250 mg per day) increased mean systemic exposure to sodium oxybate as shown by AUC by approximately 25%, while Cmax was comparable.
   Co-administration did not appear to affect the pharmacokinetics of valproic acid.
-  A greater impairment on some tests of attention and working memory was observed with co-administration of both drugs than with either drug alone [see Drug Interactions (7.1) and Dosage and Administration (2.4)].
+  A greater impairment on some tests of attention and working memory was observed with co-administration of both drugs than with either drug alone [see Drug Interactions (7.2) and Dosage and Administration (2.4)].
 - •Diclofenac: Co-administration of Xyrem (6 g per day as two equal doses of 3 grams dosed four hours apart) with diclofenac (50 mg/dose twice per day) showed no significant differences in systemic exposure to sodium oxybate.
   Co-administration did not appear to affect the pharmacokinetics of diclofenac.
 - •Ibuprofen: Co-administration of Xyrem (6 g per day as two equal doses of 3 grams dosed four hours apart) with ibuprofen (800 mg/dose four times per day also dosed four hours apart) resulted in comparable systemic exposure to sodium oxybate as shown by plasma Cmax and AUC values.
