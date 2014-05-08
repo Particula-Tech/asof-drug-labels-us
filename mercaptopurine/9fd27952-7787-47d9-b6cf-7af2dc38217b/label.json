@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205919"
+  ],
+  "inn": "mercaptopurine",
+  "labeler": "Nova Laboratories, Ltd",
+  "package_ndcs": [
+    "62484-0020-1"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "purixan",
+      "name": "PURIXAN"
+    }
+  ],
+  "setid": "9fd27952-7787-47d9-b6cf-7af2dc38217b",
+  "source": "dailymed"
+}
