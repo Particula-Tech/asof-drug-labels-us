@@ -45,11 +45,6 @@ Families and caregivers of patients being treated with antidepressants for major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for Effexor XR should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
-## Bone Fractures
-
-Epidemiological studies show an increased risk of bone fractures in patients receiving serotonin reuptake inhibitors (SRIs) including venlafaxine.
-The mechanism leading to this risk is not fully understood.
-
 ## Screening Patients for Bipolar Disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.

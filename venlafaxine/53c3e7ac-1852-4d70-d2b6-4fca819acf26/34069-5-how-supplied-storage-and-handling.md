@@ -29,6 +29,6 @@ The unit of use package is intended to be dispensed as a unit.
 
 The appearance of these capsules is a trademark of Wyeth Pharmaceuticals.
 
-LAB-0466-7.0
+LAB-0466-8.0
 
-June 2013
+March 2014
