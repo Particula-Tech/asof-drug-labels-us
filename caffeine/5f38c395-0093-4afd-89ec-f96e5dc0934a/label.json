@@ -1,11 +1,13 @@
 {
   "application_numbers": [
-    "ANDA090827"
+    "ANDA090827",
+    "ANDA091102"
   ],
   "inn": "caffeine",
   "labeler": "Sagent Pharmaceuticals",
   "package_ndcs": [
-    "25021-601-03"
+    "25021-601-03",
+    "25021-602-03"
   ],
   "products": [
     {

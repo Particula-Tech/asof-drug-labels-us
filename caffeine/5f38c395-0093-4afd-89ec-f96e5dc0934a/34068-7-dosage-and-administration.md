@@ -9,7 +9,7 @@ The recommended loading dose and maintenance doses of caffeine citrate follow.
 | --- | --- | --- | --- | --- |
 | Loading Dose | 1 mL/kg | 20 mg/kg | Intravenous* (over 30 minutes) | One Time |
 | Maintenance Dose | 0.25 mL/kg | 5 mg/kg | Intravenous* (over 10 minutes) or Orally | Every 24 hours** |
-| * using a syringe infusion pump |  |  |  |  |
+| *using a syringe infusion pump |  |  |  |  |
 | ** beginning 24 hours after the loading dose |  |  |  |  |
 
 NOTE THAT THE DOSE OF CAFFEINE BASE IS ONE-HALF THE DOSE WHEN EXPRESSED AS CAFFEINE CITRATE (e.g., 20 mg of caffeine citrate is equivalent to 10 mg of caffeine base).
@@ -22,12 +22,12 @@ Vials containing discolored solution or visible particulate matter should be dis
 
 ## Drug Compatibility
 
-To test for drug compatibility with common intravenous solutions or medications, 20 mL of caffeine citrate injection were combined with 20 mL of a solution or medication, with the exception of an Intralipid®* admixture, which was combined as 80 mL/80 mL.
+To test for drug compatibility with common intravenous solutions or medications, 20 mL of caffeine citrate injection were combined with 20 mL of a solution or medication, with the exception of an Intralipid® admixture, which was combined as 80 mL/80 mL.
 The physical appearance of the combined solutions was evaluated for precipitation.
 The admixtures were mixed for 10 minutes and then assayed for caffeine.
 The admixtures were then continually mixed for 24 hours, with further sampling for caffeine assays at 2, 4, 8, and 24 hours.
 
-Based on this testing, caffeine citrate injection, 60 mg per 3 mL is chemically stable for 24 hours at room temperature when combined with the following test products.
+Based on this testing, caffeine citrate injection, 60 mg/3 mL is chemically stable for 24 hours at room temperature when combined with the following test products.
 
 - Dextrose Injection, USP 5%
 - 50% Dextrose Injection USP

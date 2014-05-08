@@ -28,7 +28,20 @@ Therefore, caffeine citrate should be used with caution in infants with cardiova
 ## Renal and Hepatic Systems
 
 Caffeine citrate should be administered with caution in infants with impaired renal or hepatic function.
-Serum concentrations of caffeine should be monitored and dose administration of caffeine citrate should be adjusted to avoid toxicity in this population (see CLINICAL PHARMACOLOGY, Elimination, Special Populations).
+Serum concentrations of caffeine should be monitored and dose administration of caffeine citrate should be adjusted to avoid toxicity in this population.
+(See CLINICAL PHARMACOLOGY, Elimination, Special Populations).
+
+## Information for Patients
+
+Parents/caregivers of patients receiving caffeine citrate oral solution should receive the following instructions:
+
+1. Caffeine citrate does not contain any preservatives and each vial is for single use only.
+   Any unused portion of the medication should be discarded.
+2. It is important that the dose of caffeine citrate be measured accurately, i.e., with a 1cc or other appropriate syringe.
+3. Consult your physician if the baby continues to have apnea events; do not increase the dose of caffeine citrate without medical consultation.
+4. Consult your physician if the baby begins to demonstrate signs of gastrointestinal intolerance, such as abdominal distention, vomiting, or bloody stools, or seems lethargic.
+5. Caffeine citrate should be inspected visually for particulate matter and discoloration prior to its administration.
+   Vials containing discolored solution or visible particulate matter should be discarded.
 
 ## Laboratory Tests
 
@@ -40,7 +53,7 @@ A therapeutic plasma concentration range of caffeine could not be determined fro
 Serious toxicity has been reported in the literature when serum caffeine levels exceed 50 mg/L.
 Serum concentrations of caffeine may need to be monitored periodically throughout treatment to avoid toxicity.
 
-In clinical studies reported in the literature, cases of hypoglycemia and hyper-glycemia have been observed.
+In clinical studies reported in the literature, cases of hypoglycemia and hyperglycemia have been observed.
 Therefore, serum glucose may need to be periodically monitored in infants receiving caffeine citrate.
 
 ## Drug Interactions
@@ -68,11 +81,9 @@ However, caffeine did not increase chromosomal aberrations in in vitro Chinese h
 In addition, caffeine was not clastogenic in an in vivo mouse micronucleus assay.
 
 Caffeine (as caffeine base) administered to male rats at 50 mg/kg/day subcutaneously (approximately equal to the maximum recommended intravenous loading dose for infants on a mg/m2 basis) for four days prior to mating with untreated females, caused decreased male reproductive performance in addition to causing embryotoxicity.
-In addition, long-term exposure to high oral doses of caffeine (3 g over 7 weeks) was toxic to rat testes as manifested by spermatogenic cell degeneration.
+In addition, long-term exposure to high oral doses of caffeine (3.0 g over 7 weeks) was toxic to rat testes as manifested by spermatogenic cell degeneration.
 
-## Pregnancy:
-
-Pregnancy Category C
+Pregnancy: Pregnancy Category C
 
 Concern for the teratogenicity of caffeine is not relevant when administered to infants.
 In studies performed in adult animals, caffeine (as caffeine base) administered to pregnant mice as sustained release pellets at 50 mg/kg (less than the maximum recommended intravenous loading dose for infants on a mg/m2 basis), during the period of organogenesis, caused a low incidence of cleft palate and exencephaly in the fetuses.
