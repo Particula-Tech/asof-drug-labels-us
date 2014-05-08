@@ -1,7 +1,5 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-{template}
-
 ## 8.1 Pregnancy
 
 Pregnancy Category X

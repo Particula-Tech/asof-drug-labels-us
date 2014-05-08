@@ -1,7 +1,5 @@
 # 14 CLINICAL STUDIES
 
-{template}
-
 ## 14.1 Prevention of Coronary Heart Disease
 
 In the Pravastatin Primary Prevention Study (WOS),3 the effect of pravastatin sodium on fatal and nonfatal CHD was assessed in 6595 men 45 to 64 years of age, without a previous MI, and with LDL-C levels between 156 to 254 mg/dL (4 to 6.7 mmol/L).

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be advised to report promptly unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever [see Warnings and Precautions (5.1)].
+Patients should be advised to report promptly unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing pravastatin [see Warnings and Precautions (5.1)].
 
 It is recommended that liver enzyme tests be performed before the initiation of pravastatin sodium, and thereafter when clinically indicated.
 All patients treated with pravastatin sodium should be advised to promptly report any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice [see Warnings and Precautions (5.2)].
@@ -11,14 +11,12 @@ Manufactured by:
 
 Dr. Reddy’s Laboratories Limited
 
-Bachepalli - 502 325 INDIA
+Bachupally - 500 090 INDIA
 
 Distributed by:
 
 Dr. Reddy’s Laboratories Inc.,
 
-Bridgewater, NJ 08807
+Princeton, NJ 08540 USA
 
-USA
-
-Revised: 0412
+Revised: 0514

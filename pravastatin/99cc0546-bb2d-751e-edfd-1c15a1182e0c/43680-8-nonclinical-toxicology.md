@@ -1,7 +1,5 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-{template}
-
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
 
 In a 2-year study in rats fed pravastatin at doses of 10, 30, or 100 mg/kg body weight, there was an increased incidence of hepatocellular carcinomas in males at the highest dose (p<0.01).
