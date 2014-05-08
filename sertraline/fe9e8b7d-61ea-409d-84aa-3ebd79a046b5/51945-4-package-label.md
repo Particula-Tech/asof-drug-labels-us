@@ -4,13 +4,13 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 NDC 0049-4960-30
 
-30 Tablets Rx only
+Pfizer
 
-Zoloft® (sertraline HCl)
+Zoloft® (sertraline HCl) tablets
 
 25 mg*
 
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+30 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
@@ -18,13 +18,13 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 NDC 0049-4900-30
 
-30 Tablets Rx only
+Pfizer
 
-Zoloft® (sertraline HC)
+Zoloft® (sertraline HCl) tablets
 
 50 mg*
 
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+30 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Blister Pack
 
@@ -32,25 +32,29 @@ Zoloft® (sertraline HCl) Tablet
 
 50 mg
 
-DISTRIBUTED BY ROERIG DIV OF PFIZER INC, NY, NY 10017 MADE IN USA (includes foreign content)
+DISTRIBUTED BY ROERIG DIV OF PFIZER INC, NY, NY 10017
 
-13758700 EXP & LOT AREA
+PAA044551
+
+EXP & LOT AREA
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Blister Pack Carton
 
+UNIT DOSE
+
 ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 0049-4900-41
 
 Pfizer
 
-Zoloft® (sertraline HCl)
+Zoloft® (sertraline HCl) tablets
 
 50 mg *
 
-tablets
-
 For in-institution use only
 
-100 Tablets
+100 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
@@ -58,13 +62,13 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 NDC 0049-4910-30
 
-30 Tablets Rx only
+Pfizer
 
-Zoloft® (sertraline HCl)
+Zoloft® (sertraline HCl) tablets
 
 100 mg*
 
-Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+30 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack
 
@@ -72,25 +76,29 @@ Zoloft® (sertraline HCl) Tablet
 
 100 mg
 
-DISTRIBUTED BY ROERIG DIV OF PFIZER INC, NY, NY 10017 MADE IN USA (includes foreign content)
+DISTRIBUTED BY ROERIG DIV OF PFIZER INC, NY, NY 10017
 
-13758500 EXP & LOT AREA
+PAA044548
+
+EXP & LOT AREA
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack Carton
 
+UNIT DOSE
+
 ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 0049-4910-41
 
 Pfizer
 
-Zoloft® (sertraline HCl)
+Zoloft® (sertraline HCl) tablets
 
 100 mg *
 
-tablets
-
 For in-institution use only
 
-100 Tablets
+100 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 60 mL Bottle Label
 

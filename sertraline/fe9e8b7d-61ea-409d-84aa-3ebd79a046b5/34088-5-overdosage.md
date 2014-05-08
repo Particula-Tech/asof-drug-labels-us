@@ -11,7 +11,7 @@ The most common signs and symptoms associated with non-fatal sertraline hydrochl
 The largest known ingestion was 13.5 grams in a patient who took sertraline hydrochloride alone and subsequently recovered.
 However, another patient who took 2.5 grams of sertraline hydrochloride alone experienced a fatal outcome.
 
-Other important adverse events reported with sertraline hydrochloride overdose (single or multiple drugs) include bradycardia, bundle branch block, coma, convulsions, delirium, hallucinations, hypertension, hypotension, manic reaction, pancreatitis, QT-interval prolongation, serotonin syndrome, stupor and syncope.
+Other important adverse events reported with sertraline hydrochloride overdose (single or multiple drugs) include bradycardia, bundle branch block, coma, convulsions, delirium, hallucinations, hypertension, hypotension, manic reaction, pancreatitis, QT-interval prolongation, serotonin syndrome, stupor, syncope and Torsade de Pointes.
 
 ## Overdose Management
 
