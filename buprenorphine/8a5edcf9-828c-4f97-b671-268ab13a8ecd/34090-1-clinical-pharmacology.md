@@ -27,7 +27,7 @@ Physiologic Effects:
 
 Buprenorphine in IV (2, 4, 8, 12 and 16 mg) and sublingual (12 mg) doses has been administered to opioid-experienced subjects who were not physically dependent to examine cardiovascular, respiratory, and subjective effects at doses comparable to those used for treatment of opioid dependence.
 Compared to placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O2 saturation, or skin temperature across time.
-Systolic BP was higher in the 8 mg group than placebo (3-hour AUC values).
+Systolic BP was higher in the 8 mg group than placebo (3 hour AUC values).
 Minimum and maximum effects were similar across all treatments.
 Subjects remained responsive to low voice and responded to computer prompts.
 Some subjects showed irritability, but no other changes were observed.
@@ -50,8 +50,8 @@ In morphine-stabilized subjects, intravenously administered combinations of bupr
 
 Absorption:
 
-In pharmacokinetic studies, the 2 mg/0.5 mg and 4 mg/1 mg doses administered as SUBOXONE sublingual films showed comparable relative bioavailability to the same total dose of SUBOXONE sublingual tablets. whereas the 8 mg/2 mg and 12 mg/3 mg doses administered as SUBOXONE sublingual films showed higher relative bioavailability for both buprenorphine and naloxone compared to the same total dose of SUBOXONE sublingual tablets.
-A combination of one 8 mg/2 mg and two 2 mg/0.5 mg SUBOXONE sublingual films (total dose of 12 mg/ 3 mg) showed comparable relative bioavailability to the same total dose of SUBOXONE sublingual tablets [See Dosage and Administration (2.6 and 2.7)].
+In pharmacokinetic studies, the 2 mg/0.5 mg and 4 mg/1 mg doses administered as SUBOXONE sublingual films showed comparable relative bioavailability to the same total dose of SUBOXONE (buprenorphine and naloxone) sublingual tablets, whereas the 8 mg/2 mg and 12 mg/3 mg doses administered as SUBOXONE sublingual films showed higher relative bioavailability for both buprenorphine and naloxone compared to the same total dose of SUBOXONE (buprenorphine and naloxone) sublingual tablets.
+A combination of one 8 mg/2 mg and two 2 mg/0.5 mg SUBOXONE sublingual films (total dose of 12 mg/ 3 mg) showed comparable relative bioavailability to the same total dose of SUBOXONE (buprenorphine and naloxone) sublingual tablets [see Dosage and Administration (2.6 and 2.7)].
 
 Distribution:
 
@@ -64,7 +64,7 @@ Metabolism:
 Buprenorphine undergoes both N-dealkylation to norbuprenorphine and glucuronidation.
 The N-dealkylation pathway is mediated primarily by the CYP3A4.
 Norbuprenorphine, the major metabolite, can further undergo glucuronidation.
-Norbuprenorphine has been found to bind opioid receptors in-vitro; however, it has not been studied clinically for opioid-like activity.
+Norbuprenorphine has been found to bind opioid receptors in vitro; however, it has not been studied clinically for opioid-like activity.
 Naloxone undergoes direct glucuronidation to naloxone-3-glucuronide as well as N-dealkylation, and reduction of the 6-oxo group.
 
 Elimination:
@@ -78,7 +78,35 @@ Based on all studies performed with SUBOXONE sublingual film, buprenorphine has 
 Drug-drug Interactions:
 
 CYP3A4 Inhibitors and Inducers: Subjects receiving SUBOXONE sublingual film should be monitored if inhibitors of CYP3A4 such as azole antifungal agents (e.g., ketoconazole), macrolide antibiotics (e.g., erythromycin) or HIV protease inhibitors and may require dose-reduction of one or both agents.
-The interaction of buprenorphine with all CYP3A4 inducers has not been studied, therefore it is recommended that patients receiving SUBOXONE sublingual film be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered [See Drug Interactions (7.1)].
+The interaction of buprenorphine with all CYP3A4 inducers has not been studied, therefore it is recommended that patients receiving SUBOXONE sublingual film be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered [see Drug Interactions (7.1)].
 
-Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in-vitro studies employing human liver microsomes.
+Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes.
 However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns.
+
+Special Populations:
+
+Hepatic Impairment: In a pharmacokinetic study, the disposition of buprenorphine and naloxone were determined after administering a SUBOXONE 2.0/0.5 mg (Buprenorphine/Naloxone) sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
+The disposition of buprenorphine and naloxone in patients with hepatic impairment were compared to disposition in subjects with normal hepatic function.
+
+In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of both buprenorphine and naloxone were not clinically significant.
+No dosing adjustment is needed in patients with mild hepatic impairment.
+
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of both buprenorphine and naloxone were increased; the effects on naloxone are greater than that on buprenorphine (Table 4).
+
+Table 4.
+Changes in Pharmacokinetic Parameters in Subjects With Moderate and Severe Hepatic Impairment
+
+| Hepatic Impairment | PK Parameters | Increase in buprenorphine compared to healthy subjects | Increase in naloxone compared to healthy subjects |
+| --- | --- | --- | --- |
+| Moderate | Cmax | 8% | 170% |
+| AUC0-last | 64% | 218% |  |
+| Half-life | 35% | 165% |  |
+| Severe | Cmax | 72% | 1030% |
+| AUC0-last | 181% | 1302% |  |
+| Half-life | 57% | 122% |  |
+
+The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than subjects with moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
+Buprenorphine/naloxone products should be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.11) and Use in Specific Populations (8.6)].
+
+HCV infection: In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean Cmax, AUC0-last, and half-life values of buprenorphine and naloxone were not clinically significant in comparison to healthy subjects without HCV infection.
+No dosing adjustment is needed in patients with HCV infection.

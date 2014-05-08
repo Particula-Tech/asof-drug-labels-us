@@ -1,4 +1,4 @@
-MEDICATION GUIDE SUBOXONE®(Sub-OX-own) (buprenorphine and naloxone) Sublingual Film (CIII)
+MEDICATION GUIDE SUBOXONE® (Sub-OX-own) (buprenorphine and naloxone) Sublingual Film (CIII)
 
 | IMPORTANT: Keep SUBOXONE in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses SUBOXONE, get emergency help right away. |
 | --- |
@@ -73,9 +73,9 @@ Before taking SUBOXONE, tell your doctor if you:
   If you take SUBOXONE while pregnant, your baby may have symptoms of withdrawal at birth.
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - Are breast feeding or plan to breast feed.
-  SUBOXONE can pass into your milk and may harm the baby.
+  SUBOXONE can pass into your milk and may harm your baby.
   Talk to your doctor about the best way to feed your baby if you take SUBOXONE.
-  Breast feeding is not recommended while taking SUBOXONE.
+  Monitor your baby for increased sleepiness and breathing problems.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 SUBOXONE may affect the way other medicines work, and other medicines may affect how SUBOXONE works.
@@ -96,16 +96,16 @@ How should I take SUBOXONE sublingual film?
   Your doctor may change your dose after seeing how it affects you.
   Do not change your dose unless your doctor tells you to change it.
 - Do not take SUBOXONE more often than prescribed by your doctor.
-
 - Each SUBOXONE sublingual film comes in a sealed child-resistant foil pouch.
   Wait to open SUBOXONE until right before you use it.
-- To open your SUBOXONE sublingual film foil pouch, fold along the dotted line and tear down at slit (see Figure 1) or cut with scissors along the arrow.Figure 1
-
+- To open your SUBOXONE sublingual film foil pouch, fold along the dotted line (see Figure 1)Figure 1
+- Tear down at slit or cut with scissors along the arrow (see Figure 2).
+  Figure 2
 - Before taking SUBOXONE, drink water to moisten your mouth.
   This helps the film dissolve more easily.
 - Hold the film between two fingers by the outside edges.
-- Place SUBOXONE sublingual film under your tongue, close to the base either to the left or right of the center (see Figure 2).
-  Figure 2
+- Place SUBOXONE sublingual film under your tongue, close to the base either to the left or right of the center (see Figure 3).
+  Figure 3
   - If your doctor tells you to take 2 films at a time, place the second film under your tongue on the opposite side.
     Try to avoid having the films touch as much as possible.
   - Keep the films in place until they have completely dissolved.
@@ -186,6 +186,11 @@ How should I store SUBOXONE?
 - Store at 25°C (77°F), excursions permitted to 15-30°C (59-86°F).
 - Keep SUBOXONE in a safe place, out of the sight and reach of children.
 
+How should I dispose of unused SUBOXONE sublingual film?
+
+- Dispose of unused SUBOXONE as soon as you no longer need them.
+- Unused films should be removed from the foil pouch and flushed down the toilet.
+
 General information about the safe and effective use of SUBOXONE
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
@@ -193,7 +198,7 @@ Do not take SUBOXONE for a condition for which it was not prescribed.
 Do not give SUBOXONE to other people, even if they have the same symptoms you have.
 It may harm them and it is against the law.
 
-This Medication Guide summarizes the most important information about SUBOXONE sublingual film.
+This Medication Guide summarizes the most important information about SUBOXONE.
 If you would like more information, talk to your doctor or pharmacist.
 You can ask your doctor or pharmacist for information that is written for healthcare professionals.
 For more information call 1-877-782-6966.
@@ -208,8 +213,6 @@ Manufactured for Reckitt Benckiser Pharmaceuticals Inc. Richmond, VA 23235 by Mo
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-August 2012
-
 SUBOXONE® is a registered trademark of Reckitt Benckiser Healthcare (UK) Ltd.
 
-Copyright © 2013 Reckitt Benckiser Pharmaceuticals Inc Printed in USA 1-1202-020-US-0812
+Revised April 2014 Copyright © 2014 Reckitt Benckiser Pharmaceuticals Inc. Printed in USA x-xxxx-xxx-US-xxxx

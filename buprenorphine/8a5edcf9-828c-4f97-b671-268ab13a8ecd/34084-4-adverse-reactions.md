@@ -2,7 +2,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-## 6.1 Adverse Events in Clinical Trials - SUBOXONE sublingual film
+## 6.1 Clinical Trials Experience
 
 The safety of SUBOXONE sublingual film is supported by clinical trials using SUBUTEX (buprenorphine) sublingual tablets and SUBOXONE (buprenorphine and naloxone) sublingual tablets, and other trials using buprenorphine sublingual solutions, as well as an open-label study in 194 patients treated with SUBOXONE sublingual film.
 In total, safety data from clinical studies are available from over 3000 opioid-dependent subjects exposed to buprenorphine at doses in the range used in the treatment of opioid dependence.
@@ -13,10 +13,10 @@ Other adverse events were constipation, glossodynia, oral mucosal erythema, vomi
 
 Other adverse event data were derived from larger, controlled studies of SUBOXONE (buprenorphine and naloxone) and SUBUTEX (buprenorphine) tablets and of buprenorphine sublingual solution.
 In a comparative study of SUBOXONE (buprenorphine and naloxone) and SUBUTEX (buprenorphine) sublingual tablets, adverse event profiles were similar for subjects treated with 16 mg/4 mg SUBOXONE (buprenorphine and naloxone) sublingual tablets or 16 mg SUBUTEX (buprenorphine) sublingual tablets.
-The following adverse events were reported to occur by at least 5% of patients in a 4-week study of SUBOXONE (buprenorphine and naloxone) sublingual tablets and SUBUTEX (buprenorphine) sublingual tablets.
+The following adverse events were reported to occur by at least 5% of patients in a 4 week study of SUBOXONE (buprenorphine and naloxone) sublingual tablets and SUBUTEX (buprenorphine) sublingual tablets.
 
-Table 2.
-Adverse Events (≥5%) by Body System and Treatment Group in a 4-week Study
+>Table 2.
+Adverse Events (≥ 5%) by Body System and Treatment Group in a 4 Week Study
 
 | Body System/ Adverse Event (COSTART Terminology) | SUBOXONE (buprenorphine and naloxone) sublingual tablets 16 mg/4 mg/day N=107 n (%) | SUBUTEX (buprenorphine) sublingual tablets 16 mg/day N=103 n (%) | Placebo N=107 n (%) |
 | --- | --- | --- | --- |
@@ -48,9 +48,9 @@ The adverse event profile of buprenorphine was also characterized in the dose-co
 Table 3 shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled trial.
 
 Table 3.
-Adverse Events (≥5%) by Body System and Treatment Group in a 16-week Study
+Adverse Events (≥5%) by Body System and Treatment Group in a 16 Week Study
 
-| Body System/ Adverse Event (COSTART Terminology) | Buphrenorphine Dose |  |  |  |  |
+| Body System/ Adverse Event (COSTART Terminology) | Buprenorphine Dose |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Very Low* N=184 n (%) | Low* N=180 n (%) | Moderate* N=186 n (%) | High* N=181 n (%) | Total* N=731 n (%) |  |
 | Body as a Whole |  |  |  |  |  |
@@ -92,6 +92,18 @@ Adverse Events (≥5%) by Body System and Treatment Group in a 16-week Study
 | 8 mg solution approximates a 12 mg tablet dose |  |  |  |  |  |
 | 16 mg solution approximates a 24 mg tablet dose |  |  |  |  |  |
 
-## 6.2 Adverse Events – Post-marketing Experience with Suboxone Sublingual Tablets
+The safety of SUBOXONE sublingual film during treatment induction is supported by a clinical trial using 16 patients treated with SUBOXONE sublingual film and 18 treated with a buprenorphine-only sublingual film.
+Few differences in the adverse event profiles were noted between SUBOXONE sublingual film and the buprenorphine-only sublingual film.
 
-The most frequently reported post-marketing adverse event not observed in clinical trials was peripheral edema.
+The most common adverse event occurring during treatment induction and the 3 days following induction using SUBOXONE sublingual film was restlessness.
+Other adverse events were anxiety, piloerection, stomach discomfort, irritability, headache, rhinorrhea, cold sweat, arthralgia, and lacrimation increased.
+
+Four subjects left the study early on the first day of sublingual film administration.
+However, there was not evidence to suggest that any of the four subjects experienced precipitated withdrawal secondary to the administration of buprenorphine or buprenorphine/naloxone sublingual films.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of SUBOXONE sublingual film.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+The most frequently reported postmarketing adverse events were peripheral edema, stomatitis, glossitis, and tongue disorder.

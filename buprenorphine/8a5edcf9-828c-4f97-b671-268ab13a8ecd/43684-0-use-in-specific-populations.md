@@ -7,7 +7,7 @@ Pregnancy Category C.
 Risk Summary
 
 There are no adequate and well-controlled studies of SUBOXONE sublingual film or buprenorphine/naloxone in pregnant women.
-Limited published data on use of buprenorphine, the active ingredient in SUBOXONE sublingual film, in pregnancy, have not shown an increased risk of major malformations.
+Limited published data on use of buprenorphine, the active ingredient in SUBOXONE, in pregnancy, have not shown an increased risk of major malformations.
 All pregnancies, regardless of drug exposure, have a background risk of 2-4% for major birth defects, and 15-20% for pregnancy loss.
 Reproductive and developmental studies in rats and rabbits identified adverse events at clinically relevant doses.
 Pre-and postnatal development studies in rats demonstrated dystocia, increased neonatal deaths, and developmental delays.
@@ -26,8 +26,7 @@ Opioid dependence in pregnancy is associated with adverse obstetrical outcomes s
 Fetal/neonatal adverse reactions
 
 Neonatal abstinence syndrome may occur in newborn infants of mothers who were on buprenorphine maintenance treatment.
-Observe newborns for poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly.
-[See Warnings and Precautions (5.9)]
+Observe newborns for poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.9)].
 
 Labor or Delivery
 
@@ -45,26 +44,24 @@ Based on these studies the incidence of neonatal abstinence syndrome is not clea
 
 Animal Data
 
-The exposure margins listed below are based on body surface area comparisons (mg/m2) to the recommended human sublingual dose of 16 mg buprenorphine via SUBOXONE sublingual film.
-
 Effects on embryo-fetal development were studied in Sprague-Dawley rats and Russian white rabbits following oral (1:1) and intramuscular (IM) (3:2) administration of mixtures of buprenorphine and naloxone.
-Following oral administration to rats and rabbits, no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day and 40 mg/kg/day, respectively (estimated exposure approximately 150 times and 50 times, respectively, the recommended human sublingual dose).
-No definitive drug-related teratogenic effects were observed in rats and rabbits at IM doses up to 30 mg/kg/day (estimated exposure approximately 20 times and 35 times, respectively, the recommended human sublingual dose).
+Following oral administration to rats and rabbits, no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day and 40 mg/kg/day, respectively (estimated exposure approximately 150 times and 50 times, respectively, the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
+No definitive drug-related teratogenic effects were observed in rats and rabbits at IM doses up to 30 mg/kg/day (estimated exposure approximately 20 times and 35 times, respectively, the recommended human daily dose of 16 mg on a mg/m2 basis).
 Acephalus was observed in one rabbit fetus from the low-dose group and omphalocele was observed in two rabbit fetuses from the same litter in the mid-dose group; no findings were observed in fetuses from the high-dose group.
-Following oral administration of buprenorphine to rats, dose-related post-implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 6 times the recommended human sublingual dose).
+Following oral administration of buprenorphine to rats, dose-related post-implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 6 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
 In the rabbit, increased post-implantation losses occurred at an oral dose of 40 mg/kg/day.
 Following IM administration in the rat and the rabbit, post-implantation losses, as evidenced by decreases in live fetuses and increases in resorptions, occurred at 30 mg/kg/day.
 
-Buprenorphine was not teratogenic in rats or rabbits after IM or subcutaneous (SC) doses up to 5 mg/kg/day (estimated exposure was approximately 3 and 6 times, respectively, the recommended human sublingual dose), after IV doses up to 0.8 mg/kg/day (estimated exposure was approximately 0.5 times and equal to, respectively, the recommended human sublingual dose), or after oral doses up to 160 mg/kg/day in rats (estimated exposure was approximately 95 times the recommended human sublingual dose) and 25 mg/kg/day in rabbits (estimated exposure was approximately 30 times the recommended human sublingual dose).
-Significant increases in skeletal abnormalities (e.g., extra thoracic vertebra or thoraco-lumbar ribs) were noted in rats after SC administration of 1 mg/kg/day and up (estimated exposure was approximately 0.6 times the recommended human sublingual dose), but were not observed at oral doses up to 160 mg/kg/day.
-Increases in skeletal abnormalities in rabbits after IM administration of 5 mg/kg/day (estimated exposure was approximately 6 times the recommended human sublingual dose) or oral administration of 1 mg/kg/day or greater (estimated exposure was approximately equal to the recommended human sublingual dose) were not statistically significant.
+Buprenorphine was not teratogenic in rats or rabbits after IM or subcutaneous (SC) doses up to 5 mg/kg/day (estimated exposure was approximately 3 and 6 times, respectively, the recommended human daily sublingual dose of 16 mg on a mg/m2 basis), after IV doses up to 0.8 mg/kg/day (estimated exposure was approximately 0.5 times and equal to, respectively, the recommended human daily sublingual dose of 16 mg on a mg/m2 basis), or after oral doses up to 160 mg/kg/day in rats (estimated exposure was approximately 95 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis) and 25 mg/kg/day in rabbits (estimated exposure was approximately 30 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
+Significant increases in skeletal abnormalities (e.g., extra thoracic vertebra or thoraco-lumbar ribs) were noted in rats after SC administration of 1 mg/kg/day and up (estimated exposure was approximately 0.6 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis), but were not observed at oral doses up to 160 mg/kg/day.
+Increases in skeletal abnormalities in rabbits after IM administration of 5 mg/kg/day (estimated exposure was approximately 6 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis) or oral administration of 1 mg/kg/day or greater (estimated exposure was approximately equal to the recommended human daily sublingual dose of 16 mg on a mg/m2 basis) were not statistically significant.
 
-In rabbits, buprenorphine produced statistically significant pre-implantation losses at oral doses of 1 mg/kg/day or greater and post-implantation losses that were statistically significant at IV doses of 0.2 mg/kg/day or greater (estimated exposure approximately 0.3 times the recommended human sublingual dose).
+In rabbits, buprenorphine produced statistically significant pre-implantation losses at oral doses of 1 mg/kg/day or greater and post-implantation losses that were statistically significant at IV doses of 0.2 mg/kg/day or greater (estimated exposure approximately 0.3 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
 
-Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine 5 mg/kg/day (approximately 3 times the recommended human sublingual dose).
-Fertility, peri-, and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately 0.5 times the recommended human sublingual dose), after IM doses of 0.5 mg/kg/day and up (approximately 0.3 times the recommended human sublingual dose), and after SC doses of 0.1 mg/kg/day and up (approximately 0.06 times the recommended human sublingual dose).
+Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine 5 mg/kg/day (approximately 3 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
+Fertility, peri-, and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately 0.5 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis), after IM doses of 0.5 mg/kg/day and up (approximately 0.3 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis), and after SC doses of 0.1 mg/kg/day and up (approximately 0.06 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
 An apparent lack of milk production during these studies likely contributed to the decreased pup viability and lactation indices.
-Delays in the occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 50 times the recommended human sublingual dose).
+Delays in the occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 50 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
 
 ## 8.3 Nursing Mothers
 
@@ -72,12 +69,12 @@ Risk Summary
 
 Based on two studies in 13 lactating women, buprenorphine and its metabolite norbuprenorphine are present in low levels in human milk and infant urine, and available data have not shown adverse reactions in breastfed infants.
 There are no data on the combination product buprenorphine/naloxone in breastfeeding, however oral absorption of naloxone is minimal.
-Caution should be exercised when SUBOXONE sublingual film is administered to a nursing woman.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for SUBOXONE sublingual film and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
+Caution should be exercised when SUBOXONE is administered to a nursing woman.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for SUBOXONE and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
 Clinical Considerations
 
-Advise the nursing mother taking SUBOXONE sublingual film to monitor the infant for increased drowsiness and breathing difficulties.
+Advise the nursing mother taking SUBOXONE to monitor the infant for increased drowsiness and breathing difficulties.
 
 Data
 
@@ -91,6 +88,7 @@ No adverse reactions were observed in the infants in these two studies.
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of SUBOXONE sublingual film have not been established in pediatric patients.
+This product is not appropriate for the treatment of neonatal abstinence syndrome in neonates, because it contains naloxone, an opioid antagonist.
 
 ## 8.5 Geriatric Use
 
@@ -100,10 +98,12 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of buprenorphine and naloxone is unknown.
-Since both drugs are extensively metabolized, the plasma levels will be expected to be higher in patients with moderate and severe hepatic impairment.
-However, it is not known whether both drugs are affected to the same degree.
-Therefore, dosage should be adjusted and patients should be watched for signs and symptoms of precipitated opioid withdrawal.
+The effect of hepatic impairment on the pharmacokinetics of buprenorphine and naloxone has been evaluated in a pharmacokinetic study.
+Both drugs are extensively metabolized in the liver.
+While no clinically significant changes have been observed in subjects with mild hepatic impairment; the plasma levels have been shown to be higher and half-life values have been shown to be longer for both buprenorphine and naloxone in subjects with moderate and severe hepatic impairment.
+The magnitude of the effects on naloxone are greater than that on buprenorphine in both moderately and severely impaired subjects.
+The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than in subjects with moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
+Buprenorphine/naloxone products should be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.11) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
