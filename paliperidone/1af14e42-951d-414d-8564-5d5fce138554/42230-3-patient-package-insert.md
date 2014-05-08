@@ -1,4 +1,4 @@
-Information for Patients and Caregivers INVEGA® SUSTENNA® (paliperidone palmitate) Extended-Release Injectable Suspension
+INVEGA® SUSTENNA® (paliperidone palmitate) Extended-Release Injectable Suspension
 
 Important Information
 

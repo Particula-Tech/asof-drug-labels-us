@@ -75,7 +75,7 @@ Potential for Other Drugs to Affect INVEGA® SUSTENNA®
 While in vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, in vivo studies did not demonstrate decreased elimination by these isozymes; they contribute to only a small fraction of total body clearance.
 In vitro studies demonstrated that paliperidone is a P-gp substrate [see Drug Interactions (7.2)].
 
-Co-administration of oral paliperidone extended-release once daily with carbamazepine 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
+Co-administration of oral paliperidone extended-release 6 mg once daily with carbamazepine, a strong inducer of both CYP3A4 and P-gp. at 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
 This decrease is caused, to a substantial degree, by a 35% increase in renal clearance of paliperidone.
 A minor decrease in the amount of drug excreted unchanged in the urine suggests that there was little effect on the CYP metabolism or bioavailability of paliperidone during carbamazepine co-administration [see Drug Interactions (7.2)].
 

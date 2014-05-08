@@ -32,3 +32,16 @@ Patients should be advised to avoid alcohol while taking INVEGA® SUSTENNA® [se
 ## 17.7 Heat Exposure and Dehydration
 
 Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.14)].
+
+INVEGA® SUSTENNA® (paliperidone palmitate) Extended-Release Injectable Suspension
+
+Product of Ireland
+
+Manufactured by: Janssen Pharmaceutica N.V.
+Beerse, Belgium
+
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+
+© Janssen Pharmaceuticals, Inc. 2009
+
+## Information for Patients and Caregivers
