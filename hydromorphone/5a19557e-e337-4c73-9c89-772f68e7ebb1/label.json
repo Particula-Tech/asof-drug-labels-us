@@ -1,0 +1,35 @@
+{
+  "application_numbers": [
+    "NDA021044"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "Rhodes Pharmaceuticals L.P.",
+  "package_ndcs": [
+    "42858-008-06",
+    "42858-008-11",
+    "42858-008-12",
+    "42858-027-06",
+    "42858-027-11",
+    "42858-027-12",
+    "42858-039-06",
+    "42858-039-11",
+    "42858-039-12",
+    "42858-204-06",
+    "42858-204-11",
+    "42858-204-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "hydromorphone hcl",
+      "name": "PALLADONE"
+    },
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "hydromorphone hydrochloride",
+      "name": "PALLADONE"
+    }
+  ],
+  "setid": "5a19557e-e337-4c73-9c89-772f68e7ebb1",
+  "source": "dailymed"
+}
