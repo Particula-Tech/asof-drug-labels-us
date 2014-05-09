@@ -164,6 +164,11 @@ There was no change in cardiac repolarization as measured by Holter QTc interval
 Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that fluconazole taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
 (See CONTRAINDICATIONS and PRECAUTIONS.)
 
+Quinidine: Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
+Use of quinidine has been associated with QT prolongation and rare occurrences of torsades de pointes.
+Coadministration of fluconazole and quinidine is contraindicated.
+(See CONTRAINDICATIONS and PRECAUTIONS.)
+
 Oral hypoglycemics: The effects of fluconazole on the pharmacokinetics of the sulfonylurea oral hypoglycemic agents tolbutamide, glipizide, and glyburide were evaluated in three placebo-controlled studies in normal volunteers.
 All subjects received the sulfonylurea alone as a single dose and again as a single dose following the administration of fluconazole 100 mg daily for 7 days.
 In these three studies, 22/46 (47.8%) of fluconazole treated patients and 9/22 (40.1%) of placebo-treated patients experienced symptoms consistent with hypoglycemia.
@@ -235,7 +240,7 @@ This enzyme functions to convert lanosterol to ergosterol.
 The subsequent loss of normal sterols correlates with the accumulation of 14-α-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole.
 Mammalian cell demethylation is much less sensitive to fluconazole inhibition.
 
-Drug Resistance
+### Drug Resistance
 
 Fluconazole resistance may arise from a modification in the quality or quantity of the target enzyme (lanosterol 14-α-demethylase), reduced access to the drug target, or some combination of these mechanisms.
 
@@ -252,7 +257,7 @@ Candida krusei should be considered to be resistant to fluconazole.
 Resistance in C. krusei appears to be mediated by reduced sensitivity of the target enzyme to inhibition by the agent.
 
 There have been reports of cases of superinfection with Candida species other than C. albicans, which are often inherently not susceptible to fluconazole (e.g., Candida krusei).
-Such cases may require alternative antifungal therapy.
+Such cases may require alternative antifungal therapy
 
 ## Activity In Vitro and In Clinical Infections
 

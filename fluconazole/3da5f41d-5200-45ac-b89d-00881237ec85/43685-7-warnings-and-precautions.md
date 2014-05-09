@@ -9,13 +9,14 @@ Fluconazole should be discontinued if clinical signs and symptoms consistent wit
 
 (2) Anaphylaxis: In rare cases, anaphylaxis has been reported.
 
-(3) Dermatologic: Patients have rarely developed exfoliative skin disorders during treatment with fluconazole.
-In patients with serious underlying diseases (predominantly AIDS and malignancy), these have rarely resulted in a fatal outcome.
-Patients who develop rashes during treatment with fluconazole should be monitored closely and the drug discontinued if lesions progress.
+(3) Dermatologic: Exfoliative skin disorders during treatment with fluconazole have been reported.
+Fatal outcomes have been reported in patients with serious underlying diseases.
+Patients with deep seated fungal infections who develop rashes during treatment with fluconazole should be monitored closely and the drug discontinued if lesions progress.
+Fluconazole should be discontinued in patients treated for superficial fungal infection who develop a rash that may be attributed to fluconazole.
 
 (4) Use in Pregnancy: There are no adequate and well-controlled studies of fluconazole in pregnant women.
 Available human data do not suggest an increased risk of congenital anomalies following a single maternal dose of 150 mg.
-A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in-utero to high dose maternal fluconazole (400-800 mg/day) during most or all of the first trimester.
+A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400-800 mg/day) during most or all of the first trimester.
 These reported anomalies are similar to those seen in animal studies.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
 (See PRECAUTIONS, Pregnancy)
@@ -47,7 +48,7 @@ The convenience and efficacy of the single dose oral tablet of fluconazole regim
 
 Drug Interactions: (See CLINICAL PHARMACOLOGY: Drug Interaction Studies and CONTRAINDICATIONS.)
 Fluconazole is a potent inhibitor of cytochrome P450 (CYP) isoenzyme 2C9 and a moderate inhibitor of CYP3A4.
-In addition to the observed /documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9 and CYP3A4 coadministered with fluconazole.
+In addition to the observed/documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9 and CYP3A4 coadministered with fluconazole.
 Therefore, caution should be exercised when using these combinations and the patients should be carefully monitored.
 The enzyme inhibiting effect of fluconazole persists 4-5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed.
@@ -86,6 +87,8 @@ Triazolam
 Oral Contraceptives
 
 Pimozide
+
+Quinidine
 
 Hydrochlorothiazide
 
@@ -144,9 +147,10 @@ Phenytoin: Fluconazole increases the plasma concentrations of phenytoin.
 Carefulmonitoring of phenytoin concentrations in patients receiving fluconazole and phenytoin is recommended.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
-Cyclosporine: Fluconazole may significantly increase cyclosporine levels in renaltransplant patients with or without renal impairment.
+Cyclosporine: Fluconazole significantly increases cyclosporine levels in renaltransplant patients with or without renal impairment.
 Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving fluconazole and cyclosporine.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+This combination may be used by reducing the dosage of cyclosporine depending on cyclosporine concentration.
 
 Rifampin: Rifampin enhances the metabolism of concurrently administered fluconazole.
 Depending on clinical circumstances, consideration should be given to increasing the dose of fluconazole when it is administered with rifampin.
@@ -207,6 +211,11 @@ Pimozide: Although not studied in vitro or in vivo, concomitant administration o
 Increased pimozide plasma concentrations can lead to QT prolongation and rare occurrences of torsade de pointes.
 Coadministration of fluconazole and pimozide is contraindicated.
 
+Quinidine: Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
+Use of quinidine has been associated with QT prolongation and rare occurrences of torsades de pointes.
+Coadministration of fluconazole and quinidine is contraindicated.
+(See CONTRAINDICATIONS.)
+
 Hydrochlorothiazide: In a pharmacokinetic interaction study, coadministration of multiple dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
 An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
 
@@ -256,7 +265,7 @@ Methadone: Fluconazole may enhance the serum concentration of methadone.
 Dosage adjustment of methadone may be necessary.
 
 Non-steroidal anti-inflammatory drugs: The Cmax and AUC of flurbiprofen were increased by 23% and 81%, respectively, when coadministered with fluconazole compared to administration of flurbiprofen alone.
-Similarly, the Cmax and AUC of the pharmacologically active isomer [S(+)-ibuprofen] were increased by 15% and 82%, respectively, when fluconazole was coadministered with racemic ibuprofen (400 mg) compared to administration of racemic ibuprofen alone.
+Similarly, the Cmax and AUC of the pharmacologically active isomer [S-(+)-ibuprofen] were increased by 15% and 82%, respectively, when fluconazole was coadministered with racemic ibuprofen (400 mg) compared to administration of racemic ibuprofen alone.
 
 Although not specifically studied, fluconazole has the potential to increase the systemic exposure of other NSAIDs that are metabolized by CYP2C9 (e.g., naproxen, lornoxicam, meloxicam, diclofenac).
 Frequent monitoring for adverse events and toxicity related to NSAIDs is recommended.
@@ -294,7 +303,7 @@ Cytogenetic studies in vivo (murine bone marrow cells, following oral administra
 
 Fluconazole did not affect the fertility of male or female rats treated orally with daily doses of 5, 10 or 20 mg/kg or with parenteral doses of 5, 25 or 75 mg/kg, although the onset of parturition was slightly delayed at 20 mg/kg PO.
 In an intravenous perinatal study in rats at 5, 20 and 40 mg/kg, dystocia and prolongation of parturition were observed in a few dams at 20 mg/kg (approximately 5-15x the recommended human dose) and 40 mg/kg, but not at 5 mg/kg.
-The disturbances in parturition were reflected by a slight increase in the number of still-born pups and decrease of neonatal survival at these dose levels.
+The disturbances in parturition were reflected by a slight increase in the number of still born pups and decrease of neonatal survival at these dose levels.
 The effects on parturition in rats are consistent with the species specific estrogen-lowering property produced by high doses of fluconazole.
 Such a hormone change has not been observed in women treated with fluconazole.
 (See CLINICAL PHARMACOLOGY.)
@@ -313,7 +322,7 @@ Pregnancy Category D:
 
 All other indications:
 
-A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in-utero to high dose maternal fluconazole (400-800 mg/day) during most or all of the first trimester.
+A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400-800 mg/day) during most or all of the first trimester.
 These reported anomalies are similar to those seen in animal studies.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
 (See WARNINGS, Use in Pregnancy)
