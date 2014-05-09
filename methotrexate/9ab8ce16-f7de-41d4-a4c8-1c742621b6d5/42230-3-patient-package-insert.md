@@ -39,7 +39,7 @@ Types of organ toxicity can include:
 Your doctor will do blood tests and other types of tests before you take and while you are taking Otrexup to check for signs and symptoms of organ toxicity.
 Call your doctor right away if you have any of the following symptoms of organ toxicity:
 
-| o vomitingo diarrheao mouth soreso fevero confusiono weaknesso temporary blindnesso seizureso headacheo back pain | o neck stiffnesso paralysiso irritabilityo sleepinesso problems with coordinationo dry cougho trouble breathingo severe skin rash |
+| o vomitingo diarrheao mouth soreso fevero confusiono weaknesso temporary blindnesso seizureso headacheo back pain | o neck stiffnesso paralysiso irritabilityo sleepinesso problems with coordinationo dry cougho trouble breathingo severe skin rasho infection |
 | --- | --- |
 
 2.
@@ -140,7 +140,7 @@ Tell your doctor if you have any side effect that bothers you or that does not g
 These are not all the possible side effects of Otrexup.
 For more information, ask your doctor or pharmacist.
 
-Call you doctor for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I dispose of Otrexup?
@@ -198,6 +198,6 @@ Antares Pharma, Inc.
 
 Ewing, NJ 08628 USA
 
-©2013 Antares Pharma, Inc., Ewing, NJ 08628
+©2014 Antares Pharma, Inc., Ewing, NJ 08628
 
-Issued: 10/2013
+Issued: 04/2014

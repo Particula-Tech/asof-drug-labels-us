@@ -66,6 +66,6 @@ Antares Pharma, Inc.
 
 Ewing, NJ 08628 USA
 
-Otrexup™ is subject of US Patent Nos. 7,776,015, 8,021,335, 6,746,429, 7,744,582 and 8,480,631.
+Otrexup™ is subject of US Patent Nos. RE44,846, 8,021,335, 6,746,429, RE44,847, 8,480,631, 8562564 and 8,579,865.
 
-©2013 Antares Pharma, Inc., Ewing, NJ 08628
+©2014 Antares Pharma, Inc., Ewing, NJ 08628
