@@ -60,4 +60,4 @@ Table 1: Dosage Adjustments in Patients Taking Concomitant Medications
 
 ## 2.8 Renal or Hepatic Impairment or CYP2D6 Poor Metabolizers
 
-It may be necessary to reduce the FAZACLO dose in patients with significant renal or hepatic impairment, or in CYP2D6 poor metabolizers [see Use in Specific Populations (8.6, 8.7)].
+It may be necessary to reduce the FAZACLO dose in patients with significant renal or hepatic impairment, or in CYP2D6 poor metabolizers [see Use in Specific Populations (8.6,8.7)].
