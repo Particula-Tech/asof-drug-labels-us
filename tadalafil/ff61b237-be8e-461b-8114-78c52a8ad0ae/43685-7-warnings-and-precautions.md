@@ -82,12 +82,17 @@ In patients with severe hepatic cirrhosis (Child-Pugh Class C)
 Patients with severe hepatic cirrhosis have not been studied.
 Avoid use of ADCIRCA [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-## 5.5 Effects on the Eye
+## 5.5 Visual Loss
 
 Physicians should advise patients to seek immediate medical attention in the event of a sudden loss of vision in one or both eyes.
-Such an event may be a sign of non–arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including permanent loss of vision that has been reported rarely postmarketing in temporal association with the use of all PDE5 inhibitors.
+Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including permanent loss of vision, that has been reported postmarketing in temporal association with the use of all PDE5 inhibitors.
+Most, but not all, of these patients had underlying anatomic or vascular risk factors for development of NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia, and smoking.
+Based on published literature, the annual incidence of NAION is 2.5-11.8 cases per 100,000 in males aged ≥50 in the general population.
+An observational study evaluated whether recent episodic use of PDE5 inhibitors, as a class, typical of erectile dysfunction treatment, was associated with acute onset of NAION.
+The results suggest an approximate 2-fold increase in the risk of NAION within 1 to 4 days of PDE5 inhibitor use.
+
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or other factors.
-Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators such as PDE5 inhibitors [see Adverse Reactions (6.2)].
+Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators such as PDE5 inhibitors.
 
 Patients with known hereditary degenerative retinal disorders, including retinitis pigmentosa, were not included in the clinical trials, and use in these patients is not recommended.
 

@@ -71,7 +71,7 @@ Before taking ADCIRCA, tell your healthcare provider about all of your medical c
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 ADCIRCA and other medicines may affect each other.
 
-Especially tell your healthcare provider if you take any of these medicines:
+Especially tell your healthcare provider if you take any of these medicines1:
 
 - nitrates (see “What is the most important information I should know about ADCIRCA?”)
 - anti-hypertensives, used to treat high blood pressure.
@@ -87,7 +87,7 @@ Especially tell your healthcare provider if you take any of these medicines:
 - rifampin (Rifadin®, Rifamate®, Rifater®, Rimactane®)
 - bosentan (Tracleer®)
 - phenobarbital, phenytoin (Dilantin®), carbamazepine (Tegretol®)
-- CIALIS or other medicines or treatments for erectile dysfunction (impotence).
+- CIALIS® or other medicines or treatments for erectile dysfunction (impotence).
 - ADCIRCA is also marketed as CIALIS for the treatment of male erectile dysfunction (ED, impotence) and for the signs and symptoms of benign prostatic hyperplasia (BPH, enlarged prostate).
   Do not take both ADCIRCA and CIALIS.
   Do not take ADCIRCA and other medicines or treatments for erectile dysfunction.
@@ -119,10 +119,8 @@ The following side effects were reported rarely in patients taking tadalafil:
 
 - Decreased eyesight or loss of vision in one or both eyes (NAION).
   If you notice a sudden decrease or loss of vision in one or both eyes, contact a healthcare provider right away.
-  It is not possible to determine whether these events are related to oral medicines for the treatment of erectile dysfunction, including tadalafil, or to other medical problems, or to a combination of these.
 - Sudden decrease or loss of hearing, sometimes with ringing in the ears and dizziness.
   If you notice a sudden decrease or loss of hearing, contact a healthcare provider right away.
-  It is not possible to determine whether these events are related to oral medicines for the treatment of erectile dysfunction, including tadalafil, or to other medical problems, or to a combination of these.
 - In men, an erection that lasts more than 4 hours (with or without pain).
   Talk to your healthcare provider or go to the emergency department right away.
   An erection that lasts more than 4 hours must be treated as soon as possible or you can have lasting damage to your penis, including the inability to have erections.
@@ -174,16 +172,16 @@ Rx only
 
 ADCIRCA® (tadalafil) is a trademark of Eli Lilly and Company.
 
-*The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
+1The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
 The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Revised 12/2013
+Revised 04/2014
 
 Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA
 
 Marketed by: Lung Biotechnology Inc., a wholly-owned subsidiary of United Therapeutics Corporation
 
-Copyright © 2009, 2013, Eli Lilly and Company.
+Copyright © 2009, 2014, Eli Lilly and Company.
 All rights reserved.
 
-PV 6486 AMP
+PV 6487 AMP
