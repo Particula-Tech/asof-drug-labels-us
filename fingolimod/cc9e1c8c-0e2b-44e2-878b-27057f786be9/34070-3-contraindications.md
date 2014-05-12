@@ -4,6 +4,6 @@ Patients who in the last 6 months experienced myocardial infarction, unstable an
 
 History or presence of Mobitz Type II second-degree or third-degree atrioventricular (AV) block or sick sinus syndrome, unless patient has a functioning pacemaker
 
-Baseline QTc interval ≥500 ms
+Baseline QTc interval ≥500 msec
 
 Treatment with Class Ia or Class III anti-arrhythmic drugs

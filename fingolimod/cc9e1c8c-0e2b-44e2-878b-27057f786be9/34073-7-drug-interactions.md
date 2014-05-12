@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-QT prolonging drugs
+QT Prolonging Drugs
 
 GILENYA has not been studied in patients treated with drugs that prolong the QT interval.
 Drugs that prolong the QT interval have been associated with cases of torsades de pointes in patients with bradycardia.
@@ -13,22 +13,23 @@ Patients who use GILENYA and systemic ketoconazole concomitantly should be close
 
 Vaccines
 
+GILENYA reduces the immune response to vaccination.
 Vaccination may be less effective during and for up to 2 months after discontinuation of treatment with GILENYA [see Clinical Pharmacology (12.2)].
 The use of live attenuated vaccines should be avoided during and for 2 months after treatment with GILENYA because of the risk of infection.
 
-Antineoplastic, immunosuppressive or immunomodulating therapies
+Antineoplastic, Immunosuppressive, or Immunomodulating Therapies
 
-Antineoplastic, immunosuppressive or immune modulating therapies are expected to increase the risk of immunosuppression.
-Use caution when switching patients from long-acting therapies with immune effects such as natalizumab or mitoxantrone.
+Antineoplastic, immunosuppressive, or immune-modulating therapies are expected to increase the risk of immunosuppression.
+Use caution when switching patients from long-acting therapies with immune effects such as natalizumab or mitoxantrone [see Warnings and Precautions (5.2)].
 
-Drugs that slow heart rate or atrioventricular conduction (e.g., beta blockers or diltiazem)
+Drugs That Slow Heart Rate or Atrioventricular Conduction (e.g., beta blockers or diltiazem)
 
-Experience with GILENYA in patients receiving concurrent therapy with drugs that slow the heart rate or atrioventricular conduction (e.g., beta blockers, digoxin, or heart-rate slowing calcium channel blockers such as diltiazem or verapamil) is limited.
+Experience with GILENYA in patients receiving concurrent therapy with drugs that slow the heart rate or atrioventricular conduction (e.g., beta blockers, digoxin, or heart rate-slowing calcium channel blockers such as diltiazem or verapamil) is limited.
 Because initiation of GILENYA treatment may result in an additional decrease in heart rate, concomitant use of these drugs during GILENYA initiation may be associated with severe bradycardia or heart block.
 Seek advice from the prescribing physician regarding the possibility to switch to drugs that do not slow the heart rate or atrioventricular conduction before initiating GILENYA.
-In patients who cannot switch, consider extended monitoring, including overnight, after the first dose [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
+Patients who cannot switch, should have overnight continuous ECG monitoring after the first dose [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 
-Laboratory test interaction
+Laboratory Test Interaction
 
 Because GILENYA reduces blood lymphocyte counts via redistribution in secondary lymphoid organs, peripheral blood lymphocyte counts cannot be utilized to evaluate the lymphocyte subset status of a patient treated with GILENYA.
 A recent CBC should be available before initiating treatment with GILENYA.

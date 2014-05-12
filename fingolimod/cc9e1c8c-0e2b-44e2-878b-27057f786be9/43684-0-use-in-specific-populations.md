@@ -9,13 +9,13 @@ In oral studies conducted in rats and rabbits, fingolimod demonstrated developme
 In rats, the highest no-effect dose was less than the recommended human dose (RHD) of 0.5 mg/day on a body surface area (mg/m2) basis.
 The most common fetal visceral malformations in rats included persistent truncus arteriosus and ventricular septal defect.
 The receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known to be involved in vascular formation during embryogenesis.
-Because it takes approximately 2 months to eliminate fingolimod from the body, potential risks to the fetus may persist after treatment ends [see Warnings and Precautions (5.7, 5.8)].
+Because it takes approximately 2 months to eliminate fingolimod from the body, potential risks to the fetus may persist after treatment ends [see Warnings and Precautions (5.7, 5.9)].
 GILENYA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Pregnancy Registry
 
 A pregnancy registry has been established to collect information about the effect of GILENYA use during pregnancy.
-Physicians are encouraged to enroll pregnant patients, or pregnant women may register themselves in the GILENYA pregnancy registry by calling 1-877-598-7237 or visiting www.gilenyapregnancyregistry.com.
+Physicians are encouraged to enroll pregnant patients, or pregnant women may register themselves in the GILENYA pregnancy registry by calling Outcome at 1-877-598-7237, sending an email to gpr@outcome.com or visiting www.gilenyapregnancyregistry.com.
 
 Animal Data
 
@@ -38,7 +38,14 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of GILENYA in pediatric patients with MS below the age of 18 have not been established.
+The safety and effectiveness of GILENYA in pediatric patients with MS below the age of 18 years have not been established.
+
+In a study in which fingolimod (0.3, 1.5, or 7.5 mg/kg/day) was orally administered to young rats from weaning through sexual maturity, changes in bone mineral density and persistent neurobehavioral impairment (altered auditory startle) were observed at all doses.
+Delayed sexual maturation was noted in females at the highest dose tested and in males at all doses.
+The bone changes observed in fingolimod-treated juvenile rats are consistent with a reported role of S1P in the regulation of bone mineral homeostasis.
+
+When fingolimod (0.5 or 5 mg/kg/day) was orally administered to rats from the neonatal period through sexual maturity, a marked decrease in T-cell dependent antibody response was observed at both doses.
+This effect had not fully recovered by 6-8 weeks after the end of treatment.
 
 ## 8.5 Geriatric Use
 
@@ -47,7 +54,7 @@ GILENYA should be used with caution in patients aged 65 years and over, reflecti
 
 ## 8.6 Hepatic Impairment
 
-Because fingolimod, but not fingolimod-phosphate, exposure is doubled in patients with severe hepatic impairment, patients with severe hepatic impairment should be closely monitored, as the risk of adverse reactions may be greater [See Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].
+Because fingolimod, but not fingolimod-phosphate, exposure is doubled in patients with severe hepatic impairment, patients with severe hepatic impairment should be closely monitored, as the risk of adverse reactions may be greater [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
 
 No dose adjustment is needed in patients with mild or moderate hepatic impairment.
 
