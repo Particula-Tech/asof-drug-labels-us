@@ -32,12 +32,13 @@ There have been rare reports of prolonged erections greater than 4 hours and pri
 Priapism, if not treated promptly, can result in irreversible damage to the erectile tissue.
 Physicians should advise patients who have an erection lasting greater than 4 hours, whether painful or not, to seek emergency medical attention.
 
-## 17.6 Vision
+## 17.6 Sudden Loss of Vision
 
 Physicians should advise patients to stop use of all PDE5 inhibitors, including CIALIS, and seek medical attention in the event of a sudden loss of vision in one or both eyes.
-Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including permanent loss of vision that has been reported rarely postmarketing in temporal association with the use of all PDE5 inhibitors.
-It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or other factors.
-Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators such as PDE5 inhibitors [see Warnings and Precautions (5.4) and Adverse Reactions (6.2)].
+Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including possible permanent loss of vision, that has been reported rarely postmarketing in temporal association with the use of all PDE5 inhibitors.
+It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors.
+Physicians should discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye.
+Physicians should also discuss with patients the increased risk of NAION among the general population in patients with a "crowded" optic disc, although evidence is insufficient to support screening of prospective users of PDE5 inhibitors, including CIALIS, for this uncommon condition [see Warnings and Precautions (5.4) and Adverse Reactions (6.2)].
 
 ## 17.7 Sudden Hearing Loss
 

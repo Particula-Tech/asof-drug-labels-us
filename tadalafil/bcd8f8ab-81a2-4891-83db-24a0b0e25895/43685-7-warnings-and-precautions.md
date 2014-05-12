@@ -43,12 +43,19 @@ Patients who have an erection lasting greater than 4 hours, whether painful or n
 
 CIALIS should be used with caution in patients who have conditions that might predispose them to priapism (such as sickle cell anemia, multiple myeloma, or leukemia), or in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis, or Peyronie's disease).
 
-## 5.4 Eye
+## 5.4 Effects on the Eye
 
-Physicians should advise patients to stop use of all PDE5 inhibitors, including CIALIS, and seek medical attention in the event of a sudden loss of vision in one or both eyes.
-Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including permanent loss of vision that has been reported rarely postmarketing in temporal association with the use of all PDE5 inhibitors.
-It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or other factors.
-Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators such as PDE5 inhibitors [see Adverse Reactions (6.2)].
+Physicians should advise patients to stop use of all phosphodiesterase type 5 (PDE5) inhibitors, including CIALIS, and seek medical attention in the event of a sudden loss of vision in one or both eyes.
+Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a rare condition and a cause of decreased vision, including permanent loss of vision, that has been reported rarely postmarketing in temporal association with the use of all PDE5 inhibitors.
+Based on published literature, the annual incidence of NAION is 2.5-11.8 cases per 100,000 in males aged ≥50.
+An observational study evaluated whether recent use of PDE5 inhibitors, as a class, was associated with acute onset of NAION.
+The results suggest an approximate 2-fold increase in the risk of NAION within 5 half-lives of PDE5 inhibitor use.
+From this information, it is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or other factors [see Adverse Reactions (6.2)].
+
+Physicians should consider whether their patients with underlying NAION risk factors could be adversely affected by use of PDE5 inhibitors.
+Individuals who have already experienced NAION are at increased risk of NAION recurrence.
+Therefore, PDE5 inhibitors, including CIALIS, should be used with caution in these patients and only when the anticipated benefits outweigh the risks.
+Individuals with "crowded" optic disc are also considered at greater risk for NAION compared to the general population; however, evidence is insufficient to support screening of prospective users of PDE5 inhibitors, including CIALIS, for this uncommon condition.
 
 Patients with known hereditary degenerative retinal disorders, including retinitis pigmentosa, were not included in the clinical trials, and use in these patients is not recommended.
 
