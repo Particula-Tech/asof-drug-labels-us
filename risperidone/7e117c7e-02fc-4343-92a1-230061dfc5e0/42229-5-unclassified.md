@@ -6,4 +6,4 @@ RISPERDAL® M-TAB® Orally Disintegrating Tablets Active ingredient is made in I
 
 RISPERDAL® Tablets, RISPERDAL® M-TAB® Orally Disintegrating Tablets, and RISPERDAL® Oral Solution are manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Revised November 2013 © Janssen Pharmaceuticals, Inc. 2007
+Revised April 2014 © Janssen Pharmaceuticals, Inc. 2007

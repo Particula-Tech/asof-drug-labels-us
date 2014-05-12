@@ -17,7 +17,7 @@ Advise patients and caregivers to notify their physician if the patient becomes 
 
 ## 17.4 Nursing
 
-Inform patients and caregivers that risperidone and its active metabolite are present in human breast milk; there is a potential for serious adverse reactions from RISPERDAL in nursing infants.
+Inform patients and caregivers that risperidone and its active metabolite are present in human breast milk; there is a potential for serious adverse reactions from RISPERDAL® in nursing infants.
 Advise patients that the decision whether to discontinue nursing or to discontinue the RISPERDAL® should take into account the importance of the drug to the patient [see Use in Specific Populations (8.3)].
 
 ## 17.5 Concomitant Medication

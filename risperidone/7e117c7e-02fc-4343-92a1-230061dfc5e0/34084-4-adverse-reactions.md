@@ -119,7 +119,7 @@ Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical
 
 Adult Patients with Bipolar Mania
 
-Table 10 lists the adverse reactions reported in 1% or more of RISPERDAL®-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
+Table 10 lists the adverse reactions reported in 2% or more of RISPERDAL®-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
 
 Table 10.
 Adverse Reactions in ≥2% of RISPERDAL®-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials
@@ -445,4 +445,4 @@ In two controlled schizophrenia trials in adolescents (aged 13 – 17 years), th
 
 The following adverse reactions have been identified during postapproval use of risperidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.
+These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.
