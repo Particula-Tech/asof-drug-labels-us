@@ -11,14 +11,11 @@ On the basis of the pharmacologic actions of metoprolol, employ the following me
 
 There is very limited experience with the use of hemodialysis to remove metoprolol, however metoprolol is not highly protein bound.
 
-Bradycardia: Administer intravenous atropine; repeat to effect.
-If the response is inadequate, consider intravenous isoproterenol or other positive chronotropic agents.
-Evaluate the need for transvenous pacemaker insertion.
+Bradycardia: Evaluate the need for atropine, adrenergic-stimulating drugs or pacemaker to treat bradycardia and conduction disorders.
 
 Hypotension: Treat underlying bradycardia.
 Consider intravenous vasopressor infusion, such as dopamine or norepinephrine.
 
-Bronchospasm: Administer a beta2-agonist, including albuterol inhalation, or an oral theophylline derivative.
+Heart failure and shock: May be treated when appropriate with suitable volume expansion, injection of glucagon (if necessary, followed by an intravenous infusion of glucagon), intravenous administration of adrenergic drugs such as dobutamine, with α1 receptor agonistic drugs added in presence of vasodilation.
 
-Cardiac Failure: Administer diuretics or digoxin for congestive heart failure.
-For cardiogenic shock, consider IV dobutamine, isoproterenol, or glucagon.
+Bronchospasm: Can usually be reversed by bronchodilators.
