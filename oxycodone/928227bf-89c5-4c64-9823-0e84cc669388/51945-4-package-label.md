@@ -4,7 +4,9 @@ NDC 0406-0552-01
 
 100 TABLETS
 
-OXYCODONE HYDROCHLORIDE TABLETS USP 5 mg CII
+OXYCODONE HYDROCHLORIDE TABLETS USP
+
+5 mg CII
 
 Each tablet contains: Oxycodone Hydrochloride USP.......
 5 mg Rx only
