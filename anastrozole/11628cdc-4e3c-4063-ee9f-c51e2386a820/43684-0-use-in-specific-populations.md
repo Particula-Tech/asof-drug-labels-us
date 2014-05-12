@@ -72,7 +72,7 @@ The pharmacokinetics of anastrozole are not affected by age.
 ## 8.6 Renal Impairment
 
 Since only about 10% of anastrozole is excreted unchanged in the urine, the renal impairment does not influence the total body clearance.
-Dosage adjustment in patients with renal impairment is not necessary [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].
+Dosage adjustment in patients with renal impairment is not necessary [seeDosage and Administration (2.1)andClinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

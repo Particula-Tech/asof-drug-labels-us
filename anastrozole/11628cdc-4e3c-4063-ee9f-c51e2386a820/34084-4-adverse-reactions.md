@@ -3,7 +3,7 @@
 Serious adverse reactions with ARIMIDEX occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
 This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see Adverse Reactions (6.2)].
 
-Common adverse reactions (occurring with an incidence of ≥10%) in women taking ARIMIDEX included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
+Common adverse reactions (occurring with an incidence of ≥10%) in women taking ARIMIDEX included: hot flashes, asthenia, arthritis, pain, arthralgia, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
 In the ATAC trial, the most common reported adverse reaction (>0.1%) leading to discontinuation of therapy for both treatment groups was hot flashes, although there were fewer patients who discontinued therapy as a result of hot flashes in the ARIMIDEX group.
 
@@ -251,7 +251,7 @@ Table 5 – Number (N) and Percentage of Patients with Adverse Reactions in Tria
 
 | n | % | n | % | n | % |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse ReactionA patient may have had more then one adverse reaction. | ARIMIDEX |  | ARIMIDEX |  | Megestrol Acetate |  |
+| Adverse ReactionA patient may have had more than one adverse reaction. | ARIMIDEX |  | ARIMIDEX |  | Megestrol Acetate |  |
 | 1 mg |  | 10 mg |  | 160 mg |  |  |
 | (N=262) |  | (N=246) |  | (N=253) |  |  |
 | Asthenia | 42 | (16) | 33 | (13) | 47 | (19) |
@@ -335,4 +335,4 @@ The following have been reported in post-approval use of Arimidex:
 - •Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
 - •Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
 - •Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4.2)]
-- •Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
+  - •Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)

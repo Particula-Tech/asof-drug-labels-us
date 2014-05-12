@@ -84,9 +84,7 @@ Anastrozole mean steady-state minimum plasma concentrations in Caucasian and Jap
 Anastrozole pharmacokinetics have been investigated in subjects with renal impairment.
 Anastrozole renal clearance decreased proportionally with creatinine clearance and was approximately 50% lower in volunteers with severe renal impairment (creatinine clearance < 30 mL/min/1.73m2) compared to controls.
 Total clearance was only reduced 10%.
-No dosage adjustment is needed for renal impairment [see Dosage and Administration (2.1) and
-
-Use in Specific Populations (8.6)].
+No dosage adjustment is needed for renal impairment [see Dosage and Administration (2.1) and Use in Specific Populations (8.6)].
 
 ### Effect of Hepatic Impairment
 

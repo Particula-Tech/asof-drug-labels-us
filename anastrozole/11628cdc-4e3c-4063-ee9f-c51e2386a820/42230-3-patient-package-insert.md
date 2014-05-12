@@ -1,4 +1,4 @@
-# FDA-Approved Patient Labeling Patient Information
+# Patient Information
 
 ARIMIDEX®
 
@@ -6,7 +6,7 @@ A-rim-eh-dex
 
 (anastrozole)
 
-Tablets
+tablets
 
 What is the most important information I should know about ARIMIDEX?
 
@@ -23,7 +23,7 @@ ARIMIDEX is a prescription medicine used in women after menopause (“the change
 - •treatment of early breast cancer
   - ∘after surgery
   - ∘in women whose breast cancer is hormone receptor-positive
-- •the first treatment of breast cancer that has spread to nearby tissue or lymph nodes (locally advanced) or has spread to other parts of the body (metastatic), in women whose breast cancer is hormone receptor-positive or the hormone receptors are not known.
+- •the first treatment of breast cancer that has spread to nearby tissue or lymph nodes (locally advanced) or has spread to other parts of the body (metastatic), in women whose breast cancer is hormone receptor-positive or the hormone receptors are not known
 - •treatment of advanced breast cancer, if the cancer has grown, or the disease has spread after tamoxifen therapy
 
 ARIMIDEX does not work in women with breast cancer who have not gone through menopause (premenopausal women).
@@ -35,25 +35,25 @@ Do not take ARIMIDEX if you:
 - •are pregnant or able to become pregnant.
   ARIMIDEX may harm your unborn baby.
   If you become pregnant while taking ARIMIDEX, tell your doctor right away.
-- •Have not gone through menopause (are premenopausal)
-- •Have had severe allergic reaction to anastrozole or any of the ingredients in ARIMIDEX.
+- •have not gone through menopause (are premenopausal)
+- •have had a severe allergic reaction to anastrozole or any of the ingredients in ARIMIDEX.
   See the end of this leaflet for a complete list of ingredients in ARIMIDEX.
-  Symptoms of a severe allergic reaction to ARIMIDEX include: swelling of the face, lips, tongue or throat, trouble breathing or swallowing, hives and itching.
+  Symptoms of a severe allergic reaction to ARIMIDEX include: swelling of the face, lips, tongue, or throat, trouble breathing or swallowing, hives and itching.
 
 What should I tell my doctor before taking ARIMIDEX?
 
 Before you take ARIMIDEX, tell your doctor if you:
 
-- •Have not gone through menopause.
+- •have not gone through menopause.
   Talk to your doctor if you are not sure.
-- •Have or had a heart problem
-- •Have been told you have bone thinning or weakness (osteoporosis)
-- •Have high cholesterol
-- •Have any other medical conditions
-- •Are pregnant or plan to become pregnant.
+- •have or had a heart problem
+- •have been told you have bone thinning or weakness (osteoporosis)
+- •have high cholesterol
+- •have any other medical conditions
+- •are pregnant or plan to become pregnant.
   ARIMIDEX may harm your unborn baby.
-  See “who should not take ARIMIDEX?”
-- •Are breastfeeding or plan to breastfeed.
+  See “Who should not take ARIMIDEX?”
+- •are breastfeeding or plan to breastfeed.
   It is not known if ARIMIDEX passes into breast milk.
   You and your doctor should decide if you will take ARIMIDEX or breastfeed.
   You should not do both.
@@ -81,11 +81,11 @@ How should I take ARIMIDEX?
 - •Continue taking ARIMIDEX until your doctor tells you to stop.
 - •ARIMIDEX can be taken with or without food.
 - •If you miss a dose, take it as soon as you remember.
-  If it is almost time for your next does, skip the missed dose.
+  If it is almost time for your next dose, skip the missed dose.
   Take your next regularly scheduled dose.
   Do not take two doses at the same time.
 
-If you take too much ARMIDEX, call your doctor or go to the nearest hospital emergency room right away.
+If you take too much ARIMIDEX, call your doctor or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of ARIMIDEX?
 
@@ -104,6 +104,9 @@ ARIMIDEX may cause serious side effects including:
   Get medical help right away if you get:
   - ∘swelling of your face, lips, tongue, or throat
   - ∘trouble swallowing or breathing
+- •liver problems.
+  ARIMIDEX can cause inflammation of your liver and changes in liver function blood tests.
+  Your doctor may check you for this.
 - Stop taking ARIMIDEX and call your doctor right away if you have any of these signs or symptoms of a liver problem:
   - ∘a general feeling of not being well
   - ∘yellowing of your skin or whites of your eyes
@@ -148,7 +151,7 @@ General information about the safe and effective use of ARIMIDEX.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not take ARIMIDEX for a condition for which it was not prescribed.
-Do not give ARMIDEX to other people, even if they have the same symptoms that you have.
+Do not give ARIMIDEX to other people, even if they have the same symptoms that you have.
 It may harm them.
 
 If you would like more information, talk with your doctor.
@@ -163,7 +166,7 @@ Inactive ingredients: lactose, magnesium stearate, hydroxypropylmethylcellulose,
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-May/2013
+May/2014
 
 Distributed by:
 

@@ -18,4 +18,4 @@ In a study conducted in 16 male volunteers, anastrozole did not alter the exposu
 
 ## 7.4 Cytochrome P450
 
-Based on in vitro and in vivo results, it is unlikely that co-administration of ARIMIDEX 1 mg will affect other drugs as a result inhibition of cytochrome P450 [see Clinical Pharmacology (12.3)].
+Based on in vitro and in vivo results, it is unlikely that co-administration of ARIMIDEX 1 mg will affect other drugs as a result of inhibition of cytochrome P450 [see Clinical Pharmacology (12.3)].
