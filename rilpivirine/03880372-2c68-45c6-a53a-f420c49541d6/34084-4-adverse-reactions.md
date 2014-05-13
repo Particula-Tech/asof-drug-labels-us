@@ -112,7 +112,7 @@ Table 2: Selected Treatment-Emergent Changes in Laboratory Parameters (Grades 1 
 
 Adrenal Function
 
-In the pooled Phase 3 trials, at Week 96, there was an overall mean change from baseline in basal cortisol of -19.1 (-30.87; -7.39) nmol/L in the EDURANT group and of +0.1 (-12.63; 12.80) nmol/L in the efavirenz group.
+In the pooled Phase 3 trials, at Week 96, there was an overall mean change from baseline in basal cortisol of -19.1 (-30.85; -7.37) nmol/L in the EDURANT group and of -0.6 (-13.29; 12.17) nmol/L in the efavirenz group.
 At Week 96, the mean change from baseline in ACTH-stimulated cortisol levels was lower in the EDURANT group (+18.4 ± 8.36 nmol/L) than in the efavirenz group (+54.1 ± 7.24 nmol/L).
 Mean values for both basal and ACTH-stimulated cortisol values at Week 96 were within the normal range.
 Overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.
@@ -137,10 +137,10 @@ Table 3: Lipid Values, Mean Change from BaselineExcludes subjects who received l
 |  | Pooled Data from the Week 96 Analysis of the Phase 3 TMC278-C209 and TMC278-C215 Trials |  |  |  |  |  |  |  |
 | EDURANT + BR |  |  |  | Efavirenz + BR |  |  |  |  |
 | N | Baseline | Week 96 |  | N | Baseline | Week 96 |  |  |
-| Total Cholesterol (fasted) | 584 | 161 | 167 | 5 | 549 | 161 | 190 | 28 |
-| HDL-cholesterol (fasted) | 582 | 41 | 46 | 4 | 548 | 40 | 51 | 11 |
-| LDL-cholesterol (fasted) | 580 | 96 | 98 | 1 | 547 | 96 | 110 | 14 |
-| Triglycerides (fasted) | 584 | 124 | 117 | -7 | 549 | 133 | 148 | 12 |
+| Total Cholesterol (fasted) | 546 | 161 | 166 | 5 | 507 | 160 | 187 | 28 |
+| HDL-cholesterol (fasted) | 545 | 41 | 46 | 4 | 505 | 40 | 51 | 11 |
+| LDL-cholesterol (fasted) | 543 | 96 | 98 | 1 | 503 | 95 | 109 | 14 |
+| Triglycerides (fasted) | 546 | 122 | 116 | -6 | 507 | 130 | 141 | 11 |
 | N = number of subjects per treatment group; BR = background regimen |  |  |  |  |  |  |  |  |
 
 Subjects co-infected with hepatitis B and/or hepatitis C virus

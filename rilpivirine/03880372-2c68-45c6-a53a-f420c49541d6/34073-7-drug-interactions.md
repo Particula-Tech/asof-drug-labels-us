@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-[See also Contraindications (4) and Clinical Pharmacology (12.3).]
+[See Dosage and Administration (2), Contraindications (4) and Clinical Pharmacology (12.3).]
 
 Rilpivirine is primarily metabolized by cytochrome P450 (CYP)3A, and drugs that induce or inhibit CYP3A may thus affect the clearance of rilpivirine.
 Co-administration of EDURANT and drugs that induce CYP3A may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance to rilpivirine or to the class of NNRTIs.
@@ -29,6 +29,7 @@ Table 4: Established and Other Potentially Significant Drug Interactions: Altera
 | Other Agents |  |  |
 | Antacids: antacids (e.g., aluminum or magnesium hydroxide, calcium carbonate) | ↔ rilpivirine (antacids taken at least 2 hours before or at least 4 hours after rilpivirine) | The combination of EDURANT and antacids should be used with caution as co-administration may cause significant decreases in rilpivirine plasma concentrations (increase in gastric pH). Antacids should only be administered either at least 2 hours before or at least 4 hours after EDURANT. |
 |  | ↓ rilpivirine (concomitant intake) |  |
+| Antimycobacterials: rifabutin | ↓ rilpivirine | Concomitant use of EDURANT with rifabutin may cause a decrease in the plasma concentrations of rilpivirine (induction of CYP3A enzymes). Throughout co-administration of EDURANT with rifabutin, the EDURANT dose should be increased from 25 mg once daily to 50 mg once daily. When rifabutin co-administration is stopped, the EDURANT dose should be decreased to 25 mg once daily. |
 | Azole Antifungal Agents: fluconazole itraconazole ketoconazole posaconazole voriconazole | ↑ rilpivirine ↓ ketoconazole | Concomitant use of EDURANT with azole antifungal agents may cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A enzymes). No rilpivirine dose adjustment is required when EDURANT is co-administered with azole antifungal agents. Clinically monitor for breakthrough fungal infections when azole antifungals are co-administered with EDURANT. |
 | H2-Receptor Antagonists: cimetidine famotidine nizatidine ranitidine | ↔ rilpivirine (famotidine taken 12 hours before rilpivirine or 4 hours after rilpivirine) | The combination of EDURANT and H2-receptor antagonists should be used with caution as co-administration may cause significant decreases in rilpivirine plasma concentrations (increase in gastric pH). H2-receptor antagonists should only be administered at least 12 hours before or at least 4 hours after EDURANT. |
 |  | ↓ rilpivirine (famotidine taken 2 hours before rilpivirine) |  |
@@ -36,7 +37,8 @@ Table 4: Established and Other Potentially Significant Drug Interactions: Altera
 | Narcotic Analgesics: methadone | ↓ R(-) methadone ↓ S(+) methadone | No dose adjustments are required when initiating co-administration of methadone with EDURANT. However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
 | ↑ = increase, ↓ = decrease, ↔ = no change |  |  |
 
-In addition to the drugs included in Table 4, the interaction between EDURANT and the following drugs was evaluated in clinical studies and no dose adjustment is needed for either drug [see Clinical Pharmacology (12.3)]: acetaminophen, atorvastatin, chlorzoxazone, digoxin, ethinylestradiol, norethindrone, raltegravir, sildenafil, telaprevir and tenofovir disoproxil fumarate.
+In addition to the drugs included in Table 4, the interaction between EDURANT and the following drugs was evaluated in clinical studies and no dose adjustment is needed for either drug [see Clinical Pharmacology (12.3)]: acetaminophen, atorvastatin, chlorzoxazone, ethinylestradiol, norethindrone, raltegravir, sildenafil, telaprevir and tenofovir disoproxil fumarate.
+Rilpivirine did not have a clinically significant effect on the pharmacokinetics of digoxin or metformin.
 No clinically relevant drug-drug interaction is expected when EDURANT is co-administered with maraviroc, ribavirin or the NRTIs abacavir, emtricitabine, lamivudine, stavudine and zidovudine.
 
 QT Prolonging Drugs

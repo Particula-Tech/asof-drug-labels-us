@@ -54,7 +54,6 @@ Do not take EDURANT if:
     - phenobarbital (Luminal®)
     - phenytoin (Dilantin®, Dilantin-125®, Phenytek®)
   - anti-tuberculosis (anti-TB) medicines:
-    - rifabutin (Mycobutin)
     - rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
     - rifapentine (Priftin®)
   - proton pump inhibitor (PPI) medicine for certain stomach or intestinal problems:
@@ -91,12 +90,14 @@ The HIV virus in your body may become resistant to EDURANT or other HIV medicine
 
 Especially tell your doctor if you take:
 
+- rifabutin (a medicine to treat some bacterial infections).
+  Talk to your doctor or pharmacist about the right amount of EDURANT you should take.
 - medicines used to treat HIV
 - an antacid medicine that contains aluminum, magnesium hydroxide, or calcium carbonate.
   If you take an antacid during treatment with EDURANT, take the antacid at least 2 hours before or at least 4 hours after you take EDURANT.
 - a medicine to block the acid in your stomach, including cimetidine (Tagamet®), famotidine (Pepcid®), nizatidine (Axid®), or ranitidine hydrochloride (Zantac®).
   If you take one of these medicines during treatment with EDURANT, take the acid blocking medicine at least 12 hours before or at least 4 hours after you take EDURANT.
-- Any of these medicines (if taken by mouth or injection):
+- any of these medicines (if taken by mouth or injection):
   - clarithromycin (Biaxin®)
   - erythromycin (E-Mycin®, Eryc®, Ery-Tab®, PCE®, Pediazole®, Iloson®)
   - fluconazole (Diflucan®)
@@ -204,4 +205,4 @@ EDURANT® is a registered trademark of Johnson & Johnson
 
 © Janssen Products, LP 2011
 
-Issued June 2013
+Issued May 2014

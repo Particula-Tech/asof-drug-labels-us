@@ -25,7 +25,10 @@ Inform the patient that he or she should not take more or less than the prescrib
 
 EDURANT may interact with many drugs; therefore, patients should be advised to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort.
 
-EDURANT should not be co-administered with the following drugs, as significant decreases in rilpivirine plasma concentrations may occur due to CYP3A enzyme induction or gastric pH increase, which may result in loss of virologic response and possible resistance to EDURANT or to the class of NNRTIs: the anticonvulsants carbamazepine, oxcarbazepine, phenobarbital, phenytoin; the antimycobacterials rifabutin, rifampin, rifapentine; proton pump inhibitors, such as esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole; the glucocorticoid systemic dexamethasone (more than a single dose); or St. John's wort (Hypericum perforatum).
+EDURANT should not be co-administered with the following drugs, as significant decreases in rilpivirine plasma concentrations may occur due to CYP3A enzyme induction or gastric pH increase, which may result in loss of virologic response and possible resistance to EDURANT or to the class of NNRTIs: the anticonvulsants carbamazepine, oxcarbazepine, phenobarbital, phenytoin; the antimycobacterials rifampin, rifapentine; proton pump inhibitors, such as esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole; the glucocorticoid systemic dexamethasone (more than a single dose); or St. John's wort (Hypericum perforatum).
+
+For patients concomitantly receiving rifabutin, the EDURANT dose should be increased to 50 mg once daily, taken with a meal.
+When rifabutin co-administration is stopped, the EDURANT dose should be decreased to 25 mg once daily, taken with a meal.
 
 Patients should be informed that depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) have been reported with EDURANT.
 If they experience depressive symptoms, they should seek immediate medical evaluation.

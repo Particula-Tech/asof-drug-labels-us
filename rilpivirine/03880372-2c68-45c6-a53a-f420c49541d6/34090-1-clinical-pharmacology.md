@@ -94,7 +94,7 @@ The pharmacokinetics and dosing recommendations of rilpivirine in pediatric pati
 
 Drug Interactions
 
-[See also Contraindications (4) and Drug Interactions (7).]
+[See Contraindications (4) and Drug Interactions (7).]
 
 Rilpivirine is primarily metabolized by cytochrome P450 (CYP)3A, and drugs that induce or inhibit CYP3A may thus affect the clearance of rilpivirine.
 Co-administration of EDURANT and drugs that induce CYP3A may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance.
@@ -106,7 +106,7 @@ EDURANT at a dose of 25 mg q.d. is not likely to have a clinically relevant effe
 Drug interaction studies were performed with EDURANT and other drugs likely to be co-administered or commonly used as probes for pharmacokinetic interactions.
 The effects of co-administration of other drugs on the Cmax, AUC, and Cmin values of rilpivirine are summarized in Table 6 (effect of other drugs on EDURANT).
 The effect of co-administration of EDURANT on the Cmax, AUC, and Cmin values of other drugs are summarized in Table 7 (effect of EDURANT on other drugs).
-For information regarding clinical recommendations, see Drug Interactions (7).
+[For information regarding clinical recommendations, see Drug Interactions (7).]
 
 Table 6: Drug Interactions: Pharmacokinetic Parameters for Rilpivirine in the Presence of Co-administered Drugs
 
@@ -134,7 +134,9 @@ Table 6: Drug Interactions: Pharmacokinetic Parameters for Rilpivirine in the Pr
 | Ketoconazole | 400 mg q.d. | 150 mg q.d. | 15 | 1.30 (1.13–1.48) | 1.49 (1.31–1.70) | 1.76 (1.57–1.97) |
 | Methadone | 60–100 mg q.d., individualised dose | 25 mg q.d. | 12 | ↔ | ↔ | ↔ |
 | Omeprazole | 20 mg q.d. | 150 mg q.d. | 16 | 0.60 (0.48–0.73) | 0.60 (0.51–0.71) | 0.67 (0.58–0.78) |
-| Rifabutin | 300 mg q.d. | 150 mg q.d. | 16 | 0.65 (0.58–0.74) | 0.54 (0.50–0.58) | 0.51 (0.48–0.54) |
+| Rifabutin | 300 mg q.d. | 25 mg q.d. | 18 | 0.69 (0.62–0.76) | 0.58 (0.52–0.65) | 0.52 (0.46–0.59) |
+| Rifabutin | 300 mg q.d. | 50 mg q.d. | 18 | 1.43 (1.30–1.56) | 1.16 (1.06–1.26) | 0.93 (0.85–1.01) |
+|  |  |  |  | (reference arm for comparison was 25 mg q.d. rilpivirine administered alone) |  |  |
 | Rifampin | 600 mg q.d. | 150 mg q.d. | 16 | 0.31 (0.27–0.36) | 0.20 (0.18–0.23) | 0.11 (0.10–0.13) |
 | Sildenafil | 50 mg single dose | 75 mg q.d. | 16 | 0.92 (0.85–0.99) | 0.98 (0.92–1.05) | 1.04 (0.98–1.09) |
 | CI = Confidence Interval; N = maximum number of subjects with data; N.A. = not available; ↑ = increase; ↓ = decrease; ↔ = no change; q.d. = once daily; b.i.d. = twice daily |  |  |  |  |  |  |
@@ -143,7 +145,7 @@ Table 7: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs
 
 | Co-administered Drug | Rilpivirine | Cmax | AUC | Cmin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Co-administered Drug | Dose/Schedule |  | N | Mean Ratio of Co-administered Drug Pharmacokinetic Parameters With/Without EDURANT (90% CI); No effect = 1.00 |  |  |
+| Co-administered Drug | Dose/Schedule |  | N | Mean Ratio of Co-administered Drug Pharmacokinetic Parameters With/Without EDURANT (90% CI); No Effect = 1.00 |  |  |
 | Co-Administration With HIV Protease Inhibitors (PIs) |  |  |  |  |  |  |
 | Darunavir/ritonavir | 800/100 mg q.d. | 150 mg q.d.This interaction study has been performed with a dose higher than the recommended dose for EDURANT (25 mg once daily) assessing the maximal effect on the co-administered drug. | 15 | 0.90 (0.81–1.00) | 0.89 (0.81–0.99) | 0.89 (0.68–1.16) |
 | Lopinavir/ritonavir (soft gel capsule) | 400/100 mg b.i.d. | 150 mg q.d. | 15 | 0.96 (0.88–1.05) | 0.99 (0.89–1.10) | 0.89 (0.73–1.08) |
@@ -166,6 +168,7 @@ Table 7: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs
 | Ketoconazole | 400 mg q.d. | 150 mg q.d. | 14 | 0.85 (0.80–0.90) | 0.76 (0.70–0.82) | 0.34 (0.25–0.46) |
 | R(-) methadone | 60–100 mg q.d., individualised dose | 25 mg q.d. | 13 | 0.86 (0.78–0.95) | 0.84 (0.74–0.95) | 0.78 (0.67–0.91) |
 | S(+) methadone |  |  | 13 | 0.87 (0.78–0.97) | 0.84 (0.74–0.96) | 0.79 (0.67–0.92) |
+| Metformin | 850 mg single dose | 25 mg q.d. | 20 | 1.02 (0.95–1.10) | 0.97 (0.90–1.06)N (maximum number of subjects with data) for AUC(0–∞) = 15 | N.A. |
 | Omeprazole | 20 mg q.d. | 150 mg q.d. | 15 | 0.86 (0.68–1.09) | 0.86 (0.76–0.97) | N.A. |
 | Rifampin | 600 mg q.d. | 150 mg q.d. | 16 | 1.02 (0.93–1.12) | 0.99 (0.92–1.07) | N.A. |
 | 25-desacetylrifampin |  |  | 16 | 1.00 (0.87–1.15) | 0.91 (0.77–1.07) | N.A. |
