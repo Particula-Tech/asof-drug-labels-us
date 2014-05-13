@@ -62,7 +62,7 @@ Physicians should consider dose reduction or stopping Carbidopa or levodopa if a
 
 ### Hallucinations/Psychotic-Like Behavior
 
-Hallucinations and psychotic like behavior have been reported with dopaminergic medications.
+Hallucinations and psychotic-like behavior have been reported with dopaminergic medications.
 In general, hallucinations present shortly after the initiation of therapy and may be responsive to dose reduction in levodopa.
 Hallucinations may be accompanied by confusion and to a lesser extent sleep disorder (insomnia) and excessive dreaming.
 Carbidopa when taken with carbidopa-levodopa may have similar effects on thinking and behavior.
@@ -124,13 +124,13 @@ False-negative tests may result with the use of glucose-oxidase methods of testi
 
 ## Drug Interactions
 
-Caution should be exercised when the following drugs are administered concomitantly with Carbidopa given with levodopa or carbidopa-levodopa combination products.
+Caution should be exercised when the following drugs are administered concomitantly with Carbidopa given with levodopa or carbidopa-levodopa fixed-dose combination products.
 
 Symptomatic postural hypotension has occurred when Carbidopa, given with levodopa or carbidopa-levodopa combination products, was added to the treatment of a patient receiving antihypertensive drugs.
 Therefore, when therapy with Carbidopa, given with or without levodopa or carbidopa-levodopa combination products, is started, dosage adjustment of the antihypertensive drug may be required.
 
 For patients receiving monoamine oxidase inhibitors (Type A or B), see CONTRAINDICATIONS.
-Concomitant therapy with selegiline and carbidopa-levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa-levodopa alone (see CONTRAINDICATIONS).
+Concomitant therapy with selegiline and rasigiline and carbidopa and carbidopa-levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa-levodopa alone (see CONTRAINDICATIONS).
 
 There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and carbidopa-levodopa preparations.
 
@@ -138,7 +138,7 @@ Dopamine D2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperid
 In addition, the beneficial effects of levodopa in Parkinson's disease have been reported to be reversed by phenytoin and papaverine.
 Patients taking these drugs with Carbidopa and levodopa or carbidopa-levodopa combination products should be carefully observed for loss of therapeutic response.
 
-Carbidopa and iron salts or multi vitamins containing iron salts should be co administered with caution.
+Carbidopa and iron salts or multivitamins containing iron salts should be coadministered with caution.
 Iron salts can form chelates with levodopa and carbidopa and consequently reduce the bioavailability of carbidopa and levodopa.
 
 Although metoclopramide may increase the bioavailability of levodopa by increasing gastric emptying, metoclopramide may also adversely affect disease control by its dopamine receptor antagonistic properties.
