@@ -6,7 +6,7 @@ ANORO ELLIPTA: ANORO ELLIPTA contains both umeclidinium and vilanterol.
 The mechanisms of action described below for the individual components apply to ANORO ELLIPTA.
 These drugs represent 2 different classes of medications (an anticholinergic and a LABA) that have different effects on clinical and physiological indices.
 
-Umeclidinium: Umeclidinium is a long-acting, antimuscarinic agent, which is often referred to as an anticholinergic.
+Umeclidinium: Umeclidinium is a long-acting antimuscarinic agent, which is often referred to as an anticholinergic.
 It has similar affinity to the subtypes of muscarinic receptors M1 to M5.
 In the airways, it exhibits pharmacological effects through inhibition of M3 receptor at the smooth muscle leading to bronchodilation.
 The competitive and reversible nature of antagonism was shown with human and animal origin receptors and isolated organ preparations.
@@ -53,11 +53,11 @@ Distribution: Umeclidinium: Following intravenous administration to healthy subj
 
 Vilanterol: Following intravenous administration to healthy subjects, the mean volume of distribution at steady state was 165 L. In vitro plasma protein binding in human plasma was on average 94%.
 
-Metabolism: Umeclidinium: In vitro data showed thatumeclidinium is primarily metabolized by the enzyme cytochrome P450 2D6 (CYP2D6) and is a substrate for the P-glycoprotein (P-gp) transporter.
+Metabolism: Umeclidinium: In vitro data showed that umeclidinium is primarily metabolized by the enzyme cytochrome P450 2D6 (CYP2D6) and is a substrate for the P-glycoprotein (P-gp) transporter.
 The primary metabolic routes for umeclidinium are oxidative (hydroxylation, O-dealkylation) followed by conjugation (e.g., glucuronidation), resulting in a range of metabolites with either reduced pharmacological activity or for which the pharmacological activity has not been established.
 Systemic exposure to the metabolites is low.
 
-Vilanterol: In vitro data showed thatvilanterol is metabolized principally by CYP3A4 and is a substrate for the P-gp transporter.
+Vilanterol: In vitro data showed that vilanterol is metabolized principally by CYP3A4 and is a substrate for the P-gp transporter.
 Vilanterol is metabolized to a range of metabolites with significantly reduced β1- and β2-agonist activity.
 
 Elimination: Umeclidinium:Following intravenous dosing with radio-labeled umeclidinium, mass balance showed 58% of the radio-label in the feces and 22% in the urine.

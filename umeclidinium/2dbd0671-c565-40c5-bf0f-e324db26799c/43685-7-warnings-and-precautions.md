@@ -25,7 +25,7 @@ When prescribing ANORO ELLIPTA, the healthcare provider should also prescribe an
 Increasing inhaled, short-acting beta2-agonist use is a signal of deteriorating disease for which prompt medical attention is indicated.
 
 COPD may deteriorate acutely over a period of hours or chronically over several days or longer.
-If ANORO ELLIPTA no longer controls symptoms of bronchoconstriction; the patient’s inhaled, short-acting, beta2-agonist becomes less effective; or the patient needs more short-acting beta2-agonist than usual, these may be markers of deterioration of disease.
+If ANORO ELLIPTA no longer controls symptoms of bronchoconstriction; the patient’s inhaled, short-acting beta2-agonist becomes less effective; or the patient needs more short-acting beta2-agonist than usual, these may be markers of deterioration of disease.
 In this setting a re‑evaluation of the patient and the COPD treatment regimen should be undertaken at once.
 Increasing the daily dose of ANORO ELLIPTA beyond the recommended dose is not appropriate in this situation.
 
@@ -66,13 +66,13 @@ Doses of the related beta2-adrenoceptor agonist albuterol, when administered int
 
 ANORO ELLIPTA should be used with caution in patients with narrow-angle glaucoma.
 Prescribers and patients should be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
+Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
 
 ## 5.10 Worsening of Urinary Retention
 
 ANORO ELLIPTA should be used with caution in patients with urinary retention.
 Prescribers and patients should be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder-neck obstruction.
-Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
+Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
 
 ## 5.11 Hypokalemia and Hyperglycemia
 

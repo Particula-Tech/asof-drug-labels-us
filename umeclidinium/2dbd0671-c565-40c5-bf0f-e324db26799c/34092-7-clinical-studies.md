@@ -43,15 +43,15 @@ The results supported the selection of the vilanterol 25 mcg once-daily dose for
 
 ## 14.2 Confirmatory Trials
 
-The clinical development program for ANORO ELLIPTA included two 6-month, randomized, double-blinded, placebo-controlled, parallel-group trials; two 6-month active-controlled trials; and two 12-week crossover trials in subjects with COPD designed to evaluate the efficacy of ANORO ELLIPTA on lung function.
-The 6-month trials treated 4,733 subjects that had a clinical diagnosis of COPD, were 40 years of age or older, had a history of smoking greater than 10 pack-years, had a post-albuterol FEV1 less than or equal to 70% of predicted normal values, had a ratio of FEV1/FVC of less than 0.7, and had a Modified Medical Research Council (mMRC) score greater than or equal to 2.
+The clinical development program for ANORO ELLIPTA included two 6-month, randomized, double-blind, placebo-controlled, parallel-group trials; two 6-month active-controlled trials; and two 12-week crossover trials in subjects with COPD designed to evaluate the efficacy of ANORO ELLIPTA on lung function.
+The 6-month trials treated 4,733 subjects that had a clinical diagnosis of COPD, were 40 years of age or older, had a history of smoking greater than or equal to 10 pack-years, had a post-albuterol FEV1 less than or equal to 70% of predicted normal values, had a ratio of FEV1/FVC of less than 0.7, and had a Modified Medical Research Council (mMRC) score greater than or equal to 2.
 Of the 4,713 subjects included in the efficacy analysis, 68% were male and 84% were Caucasian.
 They had a mean age of 63 years and an average smoking history of 45 pack-years, with 50% identified as current smokers.
 At screening, the mean post-bronchodilator percent predicted FEV1 was 48% (range: 13% to 76%), the mean post-bronchodilator FEV1/FVC ratio was 0.47 (range: 0.13 to 0.78), and the mean percent reversibility was 14% (range: -36% to 109%).
 
 Trial 1 evaluated ANORO ELLIPTA (umeclidinium/vilanterol 62.5 mcg/25 mcg), umeclidinium 62.5 mcg, vilanterol 25 mcg, and placebo.
 The primary endpoint was change from baseline in trough (predose) FEV1 at Day 169 (defined as the mean of the FEV1 values obtained at 23 and 24 hours after the previous dose on Day 168) compared with placebo, umeclidinium 62.5 mcg, and vilanterol 25 mcg.
-The comparison of ANORO ELLIPTA with umeclidnium 62.5 mcg and vilanterol 25 mcg was assessed to evaluate the contribution of the individual comparators to ANORO ELLIPTA.
+The comparison of ANORO ELLIPTA with umeclidinium 62.5 mcg and vilanterol 25 mcg was assessed to evaluate the contribution of the individual comparators to ANORO ELLIPTA.
 ANORO ELLIPTA demonstrated a larger increase in mean change from baseline in trough (predose) FEV1 relative to placebo, umeclidinium 62.5 mcg, and vilanterol 25 mcg (Table 2).
 
 Table 2.
@@ -67,8 +67,8 @@ n = Number in intent-to-treat population.
 
 a The umeclidinium and vilanterol comparators used the same inhaler and excipients as ANORO ELLIPTA.
 
-- Trial 2 had a similar study design as Trial 1 but evaluated umeclidinium/vilanterol 125 mcg/25 mcg, umeclidinium 125 mcg, vilanterol 25 mcg, and placebo.
-  Results for umeclidinium/vilanterol 125 mcg/25 mcg in Trial 2 were similar to those observed for ANORO ELLIPTA in Trial 1.
+Trial 2 had a similar study design as Trial 1 but evaluated umeclidinium/vilanterol 125 mcg/25 mcg, umeclidinium 125 mcg, vilanterol 25 mcg, and placebo.
+Results for umeclidinium/vilanterol 125 mcg/25 mcg in Trial 2 were similar to those observed for ANORO ELLIPTA in Trial 1.
 
 Results from the two active-controlled trials and the two 12-week trials provided additional support for the efficacy of ANORO ELLIPTA in terms of change from baseline in trough FEV1 compared with the single-ingredient comparators and placebo.
 

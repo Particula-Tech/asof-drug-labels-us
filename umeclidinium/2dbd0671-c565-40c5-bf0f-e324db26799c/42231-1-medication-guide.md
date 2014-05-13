@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-ANORO™ [a-nor′ oh] ELLIPTA™
+ANORO™ [a-nor′ oh] ELLIPTA®
 
 (umeclidinium and vilanterol inhalation powder)
 
@@ -20,8 +20,8 @@ ANORO ELLIPTA can cause serious side effects, including:
 - •Call your healthcare provider if breathing problems worsen over time while using ANORO ELLIPTA.
   You may need different treatment.
 - •Get emergency medical care if:
-  - ∘your breathing problems worsen quickly
-  - ∘you use your rescue inhaler, but it does not relieve your breathing problems.
+  - •your breathing problems worsen quickly
+  - •you use your rescue inhaler, but it does not relieve your breathing problems.
 
 What is ANORO ELLIPTA?
 
@@ -108,9 +108,9 @@ Read the step-by-step instructions for using ANORO ELLIPTA at the end of this Me
   Always have a rescue inhaler with you to treat sudden symptoms.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
-  - ∘your breathing problems get worse
-  - ∘you need to use your rescue inhaler more often than usual
-  - ∘your rescue inhaler does not work as well to relieve your symptoms
+  - •your breathing problems get worse
+  - •you need to use your rescue inhaler more often than usual
+  - •your rescue inhaler does not work as well to relieve your symptoms
 
 What are the possible side effects with ANORO ELLIPTA?
 
@@ -120,37 +120,37 @@ ANORO ELLIPTA can cause serious side effects, including:
 - •sudden breathing problems immediately after inhaling your medicine
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - ∘rash
-  - ∘hives
-  - ∘swelling of the face, mouth, and tongue
-  - ∘breathing problems
+  - •rash
+  - •hives
+  - •swelling of the face, mouth, and tongue
+  - •breathing problems
 - •effects on your heart
-  - ∘increased blood pressure
-  - ∘a fast and/or irregular heartbeat
-  - ∘chest pain
+  - •increased blood pressure
+  - •a fast and/or irregular heartbeat
+  - •chest pain
 - •effects on your nervous system
-  - ∘tremor
-  - ∘nervousness
+  - •tremor
+  - •nervousness
 - •new or worsened eye problems including acute narrow-angle glaucoma.
   Acute narrow-angle glaucoma can cause permanent loss of vision if not treated.
   Symptoms of acute narrow-angle glaucoma may include:
-  - ∘eye pain or discomfort
-  - ∘nausea or vomiting
-  - ∘blurred vision
-  - ∘seeing halos or bright colors around lights
-  - ∘red eyesIf you have these symptoms, call your doctor right away before taking another dose.urinary retention.
-    People who take ANORO ELLIPTA may develop new or worse urinary retention.
-    Symptoms of urinary retention may include:
+  - •eye pain or discomfort
+  - •nausea or vomiting
+  - •blurred vision
+  - •seeing halos or bright colors around lights
+  - •red eyes
+  - If you have these symptoms, call your doctor right away before taking another dose.
 - •urinary retention.
   People who take ANORO ELLIPTA may develop new or worse urinary retention.
   Symptoms of urinary retention may include:
-  - ∘difficulty urinating
-  - ∘painful urination
-  - ∘urinating frequently
-  - ∘urination in a weak stream or dripsIf you have these symptoms of urinary retention, stop taking ANORO ELLIPTA and call your doctor right away before taking another dose.changes in laboratory blood levels, including high levels of blood sugar (hyperglycemia) and low levels of potassium (hypokalemia)
+  - •difficulty urinating
+  - •painful urination
+  - •urinating frequently
+  - •urination in a weak stream or drips
+  - If you have these symptoms of urinary retention, stop taking ANORO ELLIPTA and call your doctor right away before taking another dose.
 - •changes in laboratory blood levels, including high levels of blood sugar (hyperglycemia) and low levels of potassium (hypokalemia)
 
-Common side effects of ANORO ELLIPTAinclude:
+Common side effects of ANORO ELLIPTA include:
 
 - •sore throat
 - •sinus infection
@@ -193,7 +193,7 @@ You can ask your healthcare provider or pharmacist for information about ANORO E
 
 For more information about ANORO ELLIPTA, call 1-888-825-5249 or visit our website at www.myANORO.com.
 
-What are the ingredients in ANOROELLIPTA?
+What are the ingredients in ANORO ELLIPTA?
 
 Active ingredients: umeclidinium, vilanterol
 
@@ -328,7 +328,7 @@ If you have questions about ANORO ELLIPTA or how to use your inhaler, call Glaxo
 
 This Medication Guide and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-ANORO and ELLIPTA are trademarks of the GlaxoSmithKline group of companies.
+ANORO is a trademark and ELLIPTA is a registered trademark of the GSK group of companies.
 
 ANORO ELLIPTA was developed in collaboration with Theravance.
 
@@ -336,9 +336,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline group of companies.
+©2014, the GSK group of companies.
 All rights reserved.
 
-December 2013
+May 2014
 
-ANR:1MG
+ANR:2MG

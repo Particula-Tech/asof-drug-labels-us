@@ -28,12 +28,12 @@ Risks Associated With Beta-Agonist Therapy: Inform patients of adverse effects a
 Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
 
 Worsening of Narrow-Angle Glaucoma: Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
+Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
 
 Worsening of Urinary Retention: Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
-Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
+Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
 
-ANORO and ELLIPTA are trademarks of the GlaxoSmithKline group of companies.
+ANORO is a trademark and ELLIPTA is a registered trademark of the GSK group of companies.
 
 ANORO ELLIPTA was developed in collaboration with Theravance.
 
@@ -41,7 +41,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline group of companies.
+©2014, the GSK group of companies.
 All rights reserved.
 
-ANR:1PI
+ANR:2PI
