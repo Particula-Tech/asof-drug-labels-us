@@ -10,7 +10,7 @@ This chance increases:
 - with longer use of NSAID medicines
 - in people who have heart disease
 
-NSAID medicines should never be used right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
+NSAID medicines should never be used right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
 
 NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment.
 Ulcers and bleeding:
@@ -20,7 +20,7 @@ Ulcers and bleeding:
 
 The chance of a person getting an ulcer or bleeding increases with:
 
-- taking medicines called "corticosteroids" and "anticoagulants"
+- taking medicines called “corticosteroids” and “anticoagulants”
 - longer use
 - smoking
 - drinking alcohol
@@ -64,8 +64,31 @@ NSAID medicines should not be used by pregnant women late in their pregnancy.
 
 What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
-| Serious side effects include: heart attackstrokehigh blood pressureheart failure from body swelling (fluid retention)kidney problems including kidney failurebleeding and ulcers in the stomach and intestinelow red blood cells (anemia)life-threatening skin reactionslife-threatening allergic reactionsliver problems including liver failureasthma attacks in people who have asthma | Other side effects include: heart attackstomach painconstipationdiarrheagasheartburnnauseavomitingdizziness |
-| --- | --- |
+Serious side effects include:
+
+- heart attack
+- stroke
+- high blood pressure
+- heart failure from body swelling (fluid retention)
+- kidney problems including kidney failure
+- bleeding and ulcers in the stomach and intestine
+- low red blood cells (anemia)
+- life-threatening skin reactions
+- life-threatening allergic reactions
+- liver problems including liver failure
+- asthma attacks in people who have asthma
+
+Other side effects include:
+
+- heart attack
+- stomach pain
+- constipation
+- diarrhea
+- gas
+- heartburn
+- nausea
+- vomiting
+- dizziness
 
 Get emergency help right away if you have any of the following symptoms:
 
@@ -100,10 +123,9 @@ Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 - Some of these NSAID medicines are sold in lower doses without a prescription (over-the-counter).
   Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
 
-NSAID medicines that need a prescription
-
-| Generic Name | Tradename |
+| NSAID medicines that need a prescription |  |
 | --- | --- |
+| Generic Name | Tradename |
 | Celecoxib | Celebrex |
 | Diclofenac | Cataflam, Voltaren, Arthrotec (combined with misoprostol) |
 | Diflunisal | Dolobid |
@@ -122,16 +144,16 @@ NSAID medicines that need a prescription
 | Piroxicam | Feldene |
 | Sulindac | Clinoril |
 | Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
-| *Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC label warns that long term continuous use may increase the risk of heart attack or stroke. |  |
+| * Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC label warns that long term continuous use may increase the risk of heart attack or stroke. |  |
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1‑800‑FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to www.hospira.com or call 1-800-615-0187.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Revised: 12/2011
 
-EN-2958
+EN-3485
 
 Hospira, Inc., Lake Forest, IL 60045 USA

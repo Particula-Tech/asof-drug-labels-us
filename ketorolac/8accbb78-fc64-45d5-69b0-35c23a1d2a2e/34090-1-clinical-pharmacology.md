@@ -5,6 +5,7 @@ Pharmacodynamics
 Ketorolac tromethamine is a nonsteroidal anti-inflammatory drug (NSAID) that exhibits analgesic activity in animal models.
 The mechanism of action of ketorolac, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition.
 The biological activity of ketorolac tromethamine is associated with the S-form.
+
 Ketorolac tromethamine possesses no sedative or anxiolytic properties.
 
 The peak analgesic effect of ketorolac tromethamine occurs within 2 to 3 hours and is not statistically significantly different over the recommended dosage range of ketorolac tromethamine.
@@ -19,7 +20,7 @@ Comparison of IV, IM and Oral Pharmacokinetics
 The pharmacokinetics of ketorolac tromethamine, following IV, IM and oral doses of ketorolac tromethamine are compared in Table 1.
 In adults, the extent of bioavailability following administration of the ORAL and IM forms of ketorolac tromethamine was equal to that following an IV bolus.
 
-Table 1: Table of Approximate Average Pharmacokinetic Parameters (Mean ± SD) Following Oral, Intramuscular and Intravenous Doses of Ketorolac Tromethamine
+Table 1: Table of Approximate Average Pharmacokinetic Parameters (Mean±SD) Following Oral, Intramuscular and Intravenous Doses of Ketorolac Tromethamine
 
 |  | Oral† | Intramuscular* |  |  | Intravenous Bolus‡ |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -30,9 +31,9 @@ Table 1: Table of Approximate Average Pharmacokinetic Parameters (Mean ± SD) Fo
 | Cmax (mcg/mL) [steady state qid] | 1.05±0.26** | 1.56±0.44** | 3.11±0.87** | N/A†† | 3.09±1.17** | 6.85±2.61 |
 | Cmin3 (mcg/mL) [steady state qid] | 0.29±0.07** | 0.47±0.13** | 0.93±0.26** | N/A | 0.61±0.21** | 1.04±0.35 |
 | Cavg4 (mcg/mL) [steady state qid] | 0.59±0.2** | 0.94±0.29** | 1.88±0.59** | N/A | 1.09±0.3** | 2.17±0.59 |
-| Vß5 (L/kg) | ———— 0.175±0.039 ———— |  |  |  | 0.210±0.044 |  |
+| Vβ5 (L/kg) | ———— 0.175±0.039 ———— |  |  |  | 0.210±0.044 |  |
 | % Dose metabolized = <50% Dose excreted in urine = 91 | % Dose excreted in feces = 6% Plasma protein binding = 99 |  |  |  | 1Time-to-peak plasma concentration2Peak plasma concentration3Trough plasma concentration4Average plasma concentration5Volume of distribution |  |
-| †Derived from PO pharmacokinetic studies in 77 normal fasted volunteers*Derived from IM pharmacokinetic studies in 54 normal volunteers‡Derived from IV pharmacokinetic studies in 24 normal volunteers††Not applicable because 60 mg is only recommended as a single dose** Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed Cmax and Tmax data |  |  |  |  |  |  |
+| †Derived from PO pharmacokinetic studies in 77 normal fasted volunteers*Derived from IM pharmacokinetic studies in 54 normal volunteers‡Derived from IV pharmacokinetic studies in 24 normal volunteers††Not applicable because 60 mg is only recommended as a single dose**Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed Cmax and Tmax data |  |  |  |  |  |  |
 
 Linear Kinetics
 

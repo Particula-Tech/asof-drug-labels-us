@@ -11,11 +11,13 @@ Ketorolac Tromethamine Injection, USP is supplied as follows:
 
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
+
 Protect from light.
+
 Retain in carton until time of use.
 
-Revised: 12/2011
+Revised: 3/2014
 
-EN-2958
+EN-3485
 
 Hospira, Inc., Lake Forest, IL 60045 USA

@@ -297,9 +297,13 @@ In women who have difficulty conceiving or are undergoing investigation of infer
 
 Nursing Mothers
 
-After a single administration of 10 mg of oral ketorolac tromethamine to humans, the maximum milk concentration observed was 7.3 ng/mL, and the maximum milk-to-plasma ratio was 0.037.
-After one day of dosing (qid), the maximum milk concentration was 7.9 ng/mL, and the maximum milk-to-plasma ratio was 0.025.
-Because of the possible adverse effects of prostaglandin-inhibiting drugs on neonates, use in nursing mothers is contraindicated.
+Limited data from one published study that included 10 breastfeeding women 2-6 days postpartum showed low levels of ketorolac in breast milk and were undetectable (less than 5 ng/mL) in 4 of the patients.
+After a single administration of 10 mg of ketorolac tromethamin, the maximum milk concentration observed was 7.3 ng/mL, and the maximum milk-to-plasma ratio was 0.037.
+After 1 day of dosing (10 mg every 6 hours), the maximum milk concentration was 7.9 ng/mL, and the maximum milk-to-plasma ratio was 0.025.
+Assuming a daily intake of 400-1,000 mL of human milk per day and a maternal body weight of 60 kg, the calculated maximum daily infant exposure was 0.00263 mg/kg/day, which is 0.4% of the maternal weight-adjusted dose.
+
+Exercise caution when ketorolac is administered to a nursing woman.
+Available information has not shown any specific adverse events in nursing infants; however, instruct patients to contact their infant’s healthcare provider if they note any adverse events.
 
 Pediatric Use
 

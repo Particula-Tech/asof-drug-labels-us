@@ -6,9 +6,9 @@ In adults, the combined duration of use of IV or IM dosing of ketorolac trometha
 In adults, the use of oral ketorolac tromethamine is only indicated as continuation therapy to IV or IM dosing of ketorolac tromethamine.
 See package insert for ketorolac tromethamine tablets for transition from IV or IM dosing of ketorolac tromethamine (single- or multiple-dose) to multiple-dose oral ketorolac tromethamine.
 
-Note: Oral formulation should not be given as an initial dose
+Note: Oral formulation should not be given as an initial dose.
 
-Use minimum effective dose for the individual patient
+Use minimum effective dose for the individual patient.
 
 Total duration of treatment in adult patients: the combined duration of use of IV or IM dosing of ketorolac tromethamine and oral ketorolac tromethamine is not to exceed 5 days.
 

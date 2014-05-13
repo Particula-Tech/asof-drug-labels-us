@@ -43,7 +43,6 @@ INTRATHECAL OR EPIDURAL ADMINISTRATION
 RISK DURING LABOR AND DELIVERY
 
 - The use of ketorolac tromethamine in labor and delivery is CONTRAINDICATED because it may adversely affect fetal circulation and inhibit uterine contractions.
-  The use of ketorolac tromethamine is contraindicated in nursing mothers because of the potential adverse effects of prostaglandin-inhibiting drugs on neonates.
 
 CONCOMITANT USE WITH NSAIDs
 
