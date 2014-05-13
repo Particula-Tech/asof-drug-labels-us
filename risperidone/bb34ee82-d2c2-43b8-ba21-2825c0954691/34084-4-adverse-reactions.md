@@ -292,7 +292,7 @@ No moderate or severe reactions were observed in any subject.
 
 ## 6.8 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, blood cholesterol increased, blood triglycerides increased, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, drug withdrawal syndrome neonatal, dysgeusia, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, urinary retention, and water intoxication.
+The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, blood cholesterol increased, blood triglycerides increased, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, drug withdrawal syndrome neonatal, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, urinary retention, and water intoxication.
 In addition, the following adverse reactions have been observed during postapproval use of RISPERDAL® CONSTA®: cerebrovascular disorders, including cerebrovascular accidents, and diabetes mellitus aggravated.
 
 Retinal artery occlusion after injection of RISPERDAL® CONSTA® has been reported during postmarketing surveillance.
@@ -300,3 +300,5 @@ This has been reported in the presence of abnormal arteriovenous anastomosis.
 
 Serious injection site reactions including abscess, cellulitis, cyst, hematoma, necrosis, nodule, and ulcer have been reported with RISPERDAL® CONSTA® during postmarketing surveillance.
 Isolated cases required surgical intervention.
+
+Very rarely, cases of anaphylactic reaction after injection with RISPERDAL® CONSTA® have been reported during postmarketing experience in patients who have previously tolerated oral risperidone.

@@ -12,4 +12,4 @@ Cilag AG Schaffhausen, Switzerland
 
 RISPERDAL® CONSTA® is manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Revised June 2012 © Janssen Pharmaceuticals, Inc. 2007
+Revised April 2014 © Janssen Pharmaceuticals, Inc. 2007
