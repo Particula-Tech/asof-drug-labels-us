@@ -17,9 +17,9 @@ To achieve a designation of hemoglobin stabilization, a patient had to maintain 
 Hemolysis was monitored mainly by the measurement of serum LDH levels, and the proportion of PNH RBCs was monitored by flow cytometry.
 Patients receiving anticoagulants and systemic corticosteroids at baseline continued these medications.
 
-Major baseline characteristics were balanced (see Table 7).
+Major baseline characteristics were balanced (see Table 8).
 
-Table 7: PNH Study 1 Patient Baseline Characteristics
+Table 8: PNH Study 1 Patient Baseline Characteristics
 
 | Parameter | Study 1 |  |
 | --- | --- | --- |
@@ -35,15 +35,18 @@ Table 7: PNH Study 1 Patient Baseline Characteristics
 | Pre-treatment LDH levels (median, U/L) | 2,234 | 2,032 |
 | Free hemoglobin at baseline (median, mg/dL) | 46 | 41 |
 
-Patients treated with Soliris had significantly reduced (p< 0.001) hemolysis resulting in improvements in anemia as indicated by increased hemoglobin stabilization and reduced need for RBC transfusions compared to placebo treated patients (see Table 8).
+Patients treated with Soliris had significantly reduced (p< 0.001) hemolysis resulting in improvements in anemia as indicated by increased hemoglobin stabilization and reduced need for RBC transfusions compared to placebo treated patients (see Table 9).
 These effects were seen among patients within each of the three pre-study RBC transfusion strata (4 - 14 units; 15 - 25 units; > 25 units).
 After 3 weeks of Soliris treatment, patients reported less fatigue and improved health-related quality of life.
 Because of the study sample size and duration, the effects of Soliris on thrombotic events could not be determined.
 
-Table 8: PNH Study 1 Results
+Percentage of patients with stabilized hemoglobin levels
 
-|  | Placebo N = 44 | Soliris N = 43 |
+Table 9: PNH Study 1 Results
+
+|  | Placebo | Soliris |
 | --- | --- | --- |
+| N = 44 | N = 43 |  |
 | Percentage of patients with stabilized hemoglobin levels | 0 | 49 |
 | Packed RBC units transfused per patient (median) | 10 | 0 |
 | (range) | (2 - 21) | (0 - 16) |
@@ -64,10 +67,10 @@ However, the majority of patients received concomitant anticoagulants; the effec
 
 ## 14.2 aHUS
 
-Three single-arm studies [two prospective (aHUS Studies 1 and 2) and one retrospective (aHUS Study 3)] evaluated the safety and efficacy of Soliris for the treatment of aHUS.
+Five single-arm studies [four prospective (aHUS Studies 1, 2, 4 and 5) and one retrospective (aHUS Study 3)] evaluated the safety and efficacy of Soliris for the treatment of aHUS.
 Patients with aHUS received meningococcal vaccination prior to receipt of Soliris or received prophylactic treatment with antibiotics until 2 weeks after vaccination.
 In all studies, the dose of Soliris in adult and adolescent patients was 900 mg every 7 ± 2 days for 4 weeks, followed by 1200 mg 7 ± 2 days later, then 1200 mg every 14 ± 2 days thereafter.
-The dosage regimen for pediatric patients weighing less than 40 kg enrolled in aHUS Study 3 was based on body weight [see Recommended Dosage Regimen (2.2)].
+The dosage regimen for pediatric patients weighing less than 40 kg enrolled in aHUS Study 3 and Study 5 was based on body weight [see Dosage and Administration (2.2)].
 Efficacy evaluations were based on thrombotic microangiopathy (TMA) endpoints.
 
 Endpoints related to TMA included the following:
@@ -84,11 +87,11 @@ aHUS Study 1 enrolled patients who displayed signs of thrombotic microangiopathy
 One patient had no PE/PI the week prior to screening because of PE/PI intolerance.
 In order to qualify for enrollment, patients were required to have a platelet count ≤150 x 109/L, evidence of hemolysis such as an elevation in serum LDH, and serum creatinine above the upper limits of normal, without the need for chronic dialysis.
 The median patient age was 28 (range: 17 to 68 years).
-Patients enrolled in aHUS Study 1 had an ADAMTS-13 level above 5%.
+Patients enrolled in aHUS Study 1 were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 70%-121%.
 Seventy-six percent of patients had an identified complement regulatory factor mutation or auto-antibody.
-Table 9 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study 1.
+Table 10 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study 1.
 
-Table 9: Baseline Characteristics of Patients Enrolled in aHUS Study 1
+Table 10: Baseline Characteristics of Patients Enrolled in aHUS Study 1
 
 | Parameter | aHUS Study 1 N = 17 |
 | --- | --- |
@@ -98,48 +101,46 @@ Table 9: Baseline Characteristics of Patients Enrolled in aHUS Study 1
 | Baseline LDH (U/L), median (range) | 269 (134, 634) |
 
 Patients in aHUS Study 1 received Soliris for a minimum of 26 weeks.
-After completion of the initial 26-week treatment period, most patients continued to receive Soliris by enrolling into an extension study.
-In aHUS Study 1, the median duration of Soliris therapy was approximately 38 weeks (range: 2 weeks to 64 weeks).
+In aHUS Study 1, the median duration of Soliris therapy was approximately 100 weeks (range: 2 weeks to 145 weeks).
+
+Renal function, as measured by eGFR, was improved and maintained during Soliris therapy.
+The mean eGFR (± SD) increased from 23 ± 15 mL/min/1.73m2 at baseline to 56 ± 40 mL/min/1.73m2 by 26 weeks; this effect was maintained through 2 years (56 ± 30 mL/min/1.73m2).
+Four of the five patients who required dialysis at baseline were able to discontinue dialysis.
 
 Reduction in terminal complement activity and an increase in platelet count relative to baseline were observed after commencement of Soliris.
 Soliris reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks.
-In aHUS Study 1, mean platelet count increased from 109 ± 32 x109/L at baseline to 169 ± 72 x109/L by one week; this effect was maintained through 26 weeks (mean platelet count at week 26: 210 ± 68 x109/L).
-Table 10 summarizes the efficacy results for aHUS Study 1.
-
-Table 10: Efficacy Results for aHUS Study 1 in PE/PI-Resistant aHUS
-
-| Efficacy Parameter | aHUS Study 1 N=17 |
-| --- | --- |
-| Change in platelet count from baseline through week 26 (× 109/L), least square mean (95% CI)1 | 73 (40-105) |
-| Hematologic normalization2, n (%) | 13 (76) |
-| Median Duration of hematologic normalization, weeks (range)2 | 37 (25, 62) |
-| Complete TMA response, n (%) | 11 (65) |
-| Median Duration of complete TMA response, weeks (range)2 | 38 (25, 56) |
-| TMA event-free status, n (%) | 15 (88) |
-| Daily TMA intervention rate, median (range) |  |
-| Before eculizumab | 0.88 (0.04, 1.59) |
-| On eculizumab treatment | 0 (0, 0.31) |
-| Change in eGFR (mL/min/1.73 m2) at 26 weeks, median (range) | +20 (-1, 98) |
-| eGFR improvement ≥15 mL/min/1.73 m2, n (%)2 | 9 (53) |
-| Median duration of eGFR improvement, days (range)2 | 251 (70-392) |
-| 1. Calculated at each post-dose day of measurement (excluding Days 1 to 4) through Week 26 using a repeated measurement ANOVA model. 2. At data cut-off (September 8, 2010). |  |
-
-Renal function, as measured by median eGFR, was improved during Soliris therapy.
-Four of the five patients who required dialysis at study entry were able to discontinue dialysis for the duration of Soliris treatment, and one patient developed a new dialysis requirement.
-
+In aHUS Study 1, mean platelet count (± SD) increased from 109 ± 32 x109/L at baseline to 169 ± 72 x109/L by one week; this effect was maintained through 26 weeks (210 ± 68 x109/L), and 2 years (205 ± 46 x109/L).
+When treatment was continued for more than 26 weeks, two additional patients achieved Hematologic Normalization as well as Complete TMA response.
+Hematologic Normalization and Complete TMA response were maintained by all responders.
 In aHUS Study 1, responses to Soliris were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins.
+
+Table 11 summarizes the efficacy results for aHUS Study 1.
+
+Table 11: Efficacy Results for aHUS Study 1
+
+| Efficacy Parameter | aHUS Study 1 at 26 wks1 N = 17 | aHUS Study 1 at 2 yrs2 N = 17 |
+| --- | --- | --- |
+| Complete TMA response, n (%) Median Duration of complete TMA response, weeks (range) | 11 (65) 38 (25, 56) | 13 (77) 99 (25, 139) |
+| eGFR improvement ≥15 mL/min/1.73 m2, n (%) Median duration of eGFR improvement, days (range) | 9 (53) 251 (70, 392) | 10 (59) ND |
+| Hematologic normalization, n (%) Median Duration of hematologic normalization, weeks (range) | 13 (76) 37 (25, 62) | 15 (88) 99 (25, 145) |
+| TMA event-free status, n (%) | 15 (88) | 15 (88) |
+| Daily TMA intervention rate, median (range) Before eculizumab On eculizumab treatment | 0.82 (0.04, 1.52) 0 (0, 0.31) | 0.82 (0.04, 1.52) 0 (0, 0.36) |
+
+1.At data cut-off (September 8, 2010).
+
+2.At data cut-off (April 20, 2012).
 
 aHUS Sensitive to PE/PI (aHUS Study 2)
 
-aHUS Study 2 enrolled patients undergoing chronic PE/PI generally did not display hematologic signs of ongoing thrombotic microangiopathy (TMA).
+aHUS Study 2 enrolled patients undergoing chronic PE/PI who generally did not display hematologic signs of ongoing thrombotic microangiopathy (TMA).
 All patients had received PT at least once every two weeks, but no more than three times per week, for a minimum of eight weeks prior to the first Soliris dose.
 Patients on chronic dialysis were permitted to enroll in aHUS Study 2.
 The median patient age was 28 years (range: 13 to 63 years).
-Patients enrolled in aHUS Study 2 had an ADAMTS-13 level above 5%.
+Patients enrolled in aHUS Study 2 were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 37%-118%.
 Seventy percent of patients had an identified complement regulatory factor mutation or auto-antibody.
-Table 11 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study 2.
+Table 12 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study 2.
 
-Table 11: Baseline Characteristics of Patients Enrolled in aHUS Study 2
+Table 12: Baseline Characteristics of Patients Enrolled in aHUS Study 2
 
 | Parameter | aHUS Study 2 N=20 |
 | --- | --- |
@@ -149,57 +150,159 @@ Table 11: Baseline Characteristics of Patients Enrolled in aHUS Study 2
 | Baseline LDH (U/L), median (range) | 200 (151, 391) |
 
 Patients in aHUS Study 2 received Soliris for a minimum of 26 weeks.
-After completion of the initial 26-week treatment period, most patients continued to receive Soliris by enrolling into an extension study.
-In aHUS Study 2, the median duration of Soliris therapy was approximately 40 weeks (range: 26 to 52 weeks).
-Table 12 summarizes the efficacy results for aHUS Study 2.
+In aHUS Study 2, the median duration of Soliris therapy was approximately 114 weeks (range: 26 to 129 weeks).
 
-Table 12: Efficacy Results for aHUS Study 2 in PE/PI-Sensitive aHUS
+Renal function, as measured by eGFR, was maintained during Soliris therapy.
+The mean eGFR (± SD) was 31 ± 19 mL/min/1.73m2 at baseline, and was maintained through 26 weeks (37 ± 21 mL/min/1.73m2) and 2 years (40 ± 18 mL/min/1.73m2).
+No patient required new dialysis with Soliris.
 
-| Efficacy Parameter | aHUS Study 2 N=20 |
-| --- | --- |
-| TMA Event-free status n (%) (95% CI)1 | 16 (80) (56 - 94) |
-| Daily TMA intervention rate, median (range) |  |
-| Before eculizumab | 0.23 (0.05, 1.09) |
-| On eculizumab treatment | 0 |
-| Change in platelet count from baseline through week 26 (× 109/L), least square mean (95% CI)1 | 5 (-17.5 - 28) |
-| Hematologic normalization2, n (%) | 18 (90) |
-| Median duration of hematologic normalization, weeks (range)3 | 38 (22, 52) |
-| Complete TMA response, n (%) | 5 (25) |
-| Median duration of complete TMA response, weeks (range)3 | 32 (12, 38) |
-| Change in eGFR (mL/min/1.73 m2) at 26 weeks, median (range) | +5 (-1, 20) |
-| eGFR improvement ≥15 mL/min/1.73 m2, n (%) | 1 (5) |
-| 1. Calculated at each post-dose day of measurement (excluding Days 1 to 4) through Week 26 using a repeated measurement ANOVA model. 2. In aHUS Study 2, 85% of patients had normal platelet counts and 80% of patients had normal serum LDH levels at baseline, so hematologic normalization in this population reflects maintenance of normal parameters in the absence of PE/PI. 3. At data cut-off (October 10, 2010). |  |
-
-In aHUS Study 2, responses to Soliris were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins.
-Reduction in terminal complement activity was observed in all patients after commencement of Soliris.
+Reduction in terminal complement activity was observed in all patients after the commencement of Soliris.
 Soliris reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks.
 Platelet counts were maintained at normal levels despite the elimination of PE/PI.
-The mean platelet count was 229 ± 78 x109/L at baseline, and 233 ± 69 x109/L at week 26.
-Renal function, as measured by median eGFR, was maintained during Soliris therapy.
-No patient required new dialysis with Soliris.
+The mean platelet count (± SD) was 228 ± 78 x 109/L at baseline, 233 ± 69 x 109/L at week 26, and 224 ± 52 x 109/L at 2 years.
+When treatment was continued for more than 26 weeks, six additional patients achieved Complete TMA response.
+Complete TMA Response and Hematologic Normalization were maintained by all responders.
+In aHUS Study 2, responses to Soliris were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins.
+
+Table 13 summarizes the efficacy results for aHUS Study 2.
+
+Table 13: Efficacy Results for aHUS Study 2
+
+| Efficacy Parameter | aHUS Study 2 at 26 wks1N = 20 | aHUS Study 2 at 2 yrs2N = 20 |
+| --- | --- | --- |
+| Complete TMA response, n (%) Median duration of complete TMA response, weeks (range) | 5 (25)32 (12, 38) | 11 (55)68 (38, 109) |
+| eGFR improvement ≥15 mL/min/1.73 m2, n (%) | 1 (5) | 8 (40) |
+| TMA Event-free status n (%) | 16 (80) | 19 (95) |
+| Daily TMA intervention rate, median (range)Before eculizumabOn eculizumab treatment | 0.23 (0.05, 1.07)0 | 0.23 (0.05, 1.07)0 (0, 0.01) |
+| Hematologic normalization4, n (%) Median duration of hematologic normalization, weeks (range)3 | 18 (90)38 (22, 52) | 18 (90)114 (33, 125) |
+
+1.
+At data cut-off (September 8, 2010).
+
+2.
+At data cut-off (April 20, 2012).
+
+3.
+Calculated at each post-dose day of measurement (excluding Days 1 to 4) using a repeated measurement ANOVA model.
+
+4.
+In aHUS Study 2, 85% of patients had normal platelet counts and 80% of patients had normal serum LDH levels at baseline, so hematologic normalization in this population reflects maintenance of normal parameters in the absence of PE/PI.
 
 Retrospective Study in Patients with aHUS (aHUS Study 3)
 
 The efficacy results for the aHUS retrospective study (aHUS Study 3) were generally consistent with results of the two prospective studies.
 Soliris reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline.
-Mean platelet count increased from 171 ± 83 x109/L at baseline to 233 ±109 x109/L after one week of therapy; this effect was maintained through 26 weeks (mean platelet count at week 26: 254 ± 79 x109/L).
+Mean platelet count (± SD) increased from 171 ± 83 x109/L at baseline to 233 ±109 x109/L after one week of therapy; this effect was maintained through 26 weeks (mean platelet count (± SD) at week 26: 254 ± 79 x109/L).
 
 A total of 19 pediatric patients (ages 2 months to 17 years) received Soliris in aHUS Study 3.
-The median duration of Soliris therapy was 16 weeks (range 4 to 70 weeks) for children < 2 years of age (n=5), 31 weeks (range 19 to 63 weeks) for children 2 to <12 years of age (n=10), and 38 weeks (range 1 to 69 weeks) for patients 12 to < 18 years of age (n=4).
+The median duration of Soliris therapy was 16 weeks (range 4 to 70 weeks) for children <2 years of age (n=5), 31 weeks (range 19 to 63 weeks) for children 2 to <12 years of age (n=10), and 38 weeks (range 1 to 69 weeks) for patients 12 to <18 years of age (n=4).
 Fifty three percent of pediatric patients had an identified complement regulatory factor mutation or auto-antibody.
 
-Overall, the efficacy results for these pediatric patients appeared consistent with what was observed in patients enrolled in aHUS Studies 1 and 2 (Table 13).
+Overall, the efficacy results for these pediatric patients appeared consistent with what was observed in patients enrolled in aHUS Studies 1 and 2 (Table 14).
 No pediatric patient required new dialysis during treatment with Soliris.
 
-Table 13: Efficacy Results in Pediatric Patients Enrolled in aHUS Study 3
+Table 14: Efficacy Results in Pediatric Patients Enrolled in aHUS Study 3
 
-| Efficacy Parameter | <2 yrs (n=5) | 2 to <12 yrs (n=10) | 12 to <18 yrs (n=4) | Total (n=19) |
+| Efficacy Parameter | <2 yrs(n=5) | 2 to <12 yrs(n=10) | 12 to <18 yrs(n=4) | Total(n=19) |
 | --- | --- | --- | --- | --- |
+| Complete TMA response, n (%) | 2 (40) | 5 (50) | 1 (25) | 8 (42) |
+| Patients with eGFR improvement ≥ 15 mL/min/1.73m2, n (%)2 | 2 (40) | 6 (60) | 1 (25) | 9 (47) |
 | Platelet count normalization, n (%)1 | 4 (80) | 10 (100) | 3 (75) | 17 (89) |
 | Hematologic Normalization, n (%) | 2 (40) | 5 (50) | 1 (25) | 8 (42) |
-| Complete TMA response, n (%) | 2 (40) | 5 (50) | 1 (25) | 8 (42) |
-| Daily TMA intervention rate, median (range) |  |  |  |  |
-| Before eculizumab | 1 (0, 2) | <1 (0.07, 1.46) | <1 (0, 1) | 0.31 (0.00, 2.38) |
-| On eculizumab treatment | <1 (0, <1) | 0 (0, <1) | 0 (0, <1) | 0.00 (0.00, 0.08) |
-| Patients with eGFR improvement ≥ 15 mL/min/1.73 m2, n (%)2 | 2 (40) | 6 (60) | 1 (25) | 9 (47) |
-| 1. Platelet count normalization was defined as a platelet count of at least 150,000 X 109/L on at least two consecutive measurements spanning a period of at least 4 weeks. 2. Of the 9 patients who experienced an eGFR improvement of at least 15 mL/min/1.73 m2, one received dialysis throughout the study period and another received Soliris as prophylaxis following renal allograft transplantation. |  |  |  |  |
+| Daily TMA intervention rate, median (range) Before eculizumab On eculizumab treatment | 1 (0, 2)<1 (0, <1) | <1 (0.07, 1.46)0 (0, <1) | <1 (0, 1)0 (0, <1) | 0.31 (0.00, 2.38)0.00 (0.00, 0.08) |
+
+1.
+Platelet count normalization was defined as a platelet count of at least 150,000 X 109/L on at least two consecutive measurements spanning a period of at least 4 weeks.
+
+2.
+Of the 9 patients who experienced an eGFR improvement of at least 15 mL/min/1.73 m2, one received dialysis throughout the study period and another received Soliris as prophylaxis following renal allograft transplantation.
+
+Adult Patients with aHUS (aHUS Study 4)
+
+aHUS Study 4 enrolled patients who displayed signs of thrombotic microangiopathy (TMA).
+In order to qualify for enrollment, patients were required to have a platelet count < lower limit of normal range (LLN), evidence of hemolysis such as an elevation in serum LDH, and serum creatinine above the upper limits of normal, without the need for chronic dialysis.
+The median patient age was 35 (range: 18 to 80 years).
+All patients enrolled in aHUS Study 4 were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 28%-116%.
+Fifty-one percent of patients had an identified complement regulatory factor mutation or auto-antibody.
+A total of 35 patients received PE/PI prior to eculizumab.
+Table 15 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study 4.
+
+Table 15: Baseline Characteristics of Patients Enrolled in aHUS Study 4
+
+| Parameter | aHUS Study 4N = 41 |
+| --- | --- |
+| Time from aHUS diagnosis until start of study drug in months, median (range) | 0.79 (0.03 – 311) |
+| Time from current clinical TMA manifestation until first study dose in months, median (range) | 0.52 (0.03-19) |
+| Baseline platelet count (× 109/L), median (range) | 125 (16 – 332) |
+| Baseline LDH (U/L), median (range) | 375 (131 – 3318) |
+
+Patients in aHUS Study 4 received Soliris for a minimum of 26 weeks.
+In aHUS Study 4, the median duration of Soliris therapy was approximately 50 weeks (range: 13 weeks to 86 weeks).
+
+Renal function, as measured by eGFR, was improved during Soliris therapy.
+The mean eGFR (± SD) increased from 17 ± 12 mL/min/1.73m2 at baseline to 47 ± 24 mL/min/1.73m2 by 26 weeks.
+Twenty of the 24 patients who required dialysis at study baseline were able to discontinue dialysis during Soliris treatment.
+
+Reduction in terminal complement activity and an increase in platelet count relative to baseline were observed after commencement of Soliris.
+Soliris reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks.
+In aHUS Study 4, mean platelet count (± SD) increased from 119 ± 66 x109/L at baseline to 200 ± 84 x109/L by one week; this effect was maintained through 26 weeks (mean platelet count (± SD) at week 26: 252 ± 70 x109/L).
+In aHUS Study 4, responses to Soliris were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
+
+Table 16 summarizes the efficacy results for aHUS Study 4.
+
+Table 16: Efficacy Results for aHUS Study 4
+
+| Efficacy Parameter | aHUS Study 4(N = 41) |
+| --- | --- |
+| Complete TMA response, n (%), 95% CIMedian duration of complete TMA response, weeks (range) | 23 (56),40,7242 (6, 75) |
+| Patients with eGFR improvement ≥ 15 mL/min/1.73 m2, n (%) | 22 (54) |
+| Hematologic Normalization, n (%)Median duration of hematologic normalization, weeks (range) | 36 (88)46 (10, 75) |
+| TMA Event-free Status, n (%) | 37 (90) |
+| Daily TMA Intervention Rate, median (range) Before eculizumab On eculizumab treatment | 0.63 (0, 1.38)0 (0, 0.58) |
+
+Pediatric and Adolescent Patients with aHUS (aHUS Study 5)
+
+aHUS Study 5 enrolled patients who were required to have a platelet count < lower limit of normal range (LLN), evidence of hemolysis such as an elevation in serum LDH above the upper limits of normal, serum creatinine level ≥97 percentile for age without the need for chronic dialysis.
+The median patient age was 6.5 (range: 5 months to 17 years).
+Patients enrolled in aHUS Study 5 were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 38%-121%.
+Fifty percent of patients had an identified complement regulatory factor mutation or auto-antibody.
+A total of 10 patients received PE/PI prior to eculizumab.
+Table 17 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study 5.
+
+Table 17: Baseline Characteristics of Patients Enrolled in aHUS Study 5
+
+| Parameter | Patients1 month to <12 years(N = 18) | All Patients(N = 22) |
+| --- | --- | --- |
+| Time from aHUS diagnosis until start of study drug in months, median (range) | 0.51 (0.03 – 58) | 0.56 (0.03-191) |
+| Time from current clinical TMA manifestation until first study dose in months, median (range) | 0.23 (0.03 – 4) | 0.2 (0.03-4) |
+| Baseline platelet count (x 109/L), median (range) | 110 (19-146) | 91 (19-146) |
+| Baseline LDH (U/L) median (range) | 1510 (282-7164) | 1244 (282-7164) |
+
+Patients in aHUS Study 5 received Soliris for a minimum of 26 weeks.
+In aHUS Study 5, the median duration of Soliris therapy was approximately 44 weeks (range: 1 dose to 88 weeks).
+
+Renal function, as measured by eGFR, was improved during Soliris therapy.
+The mean eGFR (± SD) increased from 33 ± 30 mL/min/1.73m2 at baseline to 98 ± 44 mL/min/1.73m2 by 26 weeks.
+Among the 20 patients with a CKD stage ≥2 at baseline, 17 (85%) achieved a CKD improvement of ≥1 stage.
+Among the 16 patients ages 1 month to <12 years with a CKD stage ≥2 at baseline, 14 (88%) achieved a CKD improvement by ≥1 stage.
+Nine of the 11 patients who required dialysis at study baseline were able to discontinue dialysis during Soliris treatment.
+Responses were observed across all ages from 5 months to 17 years of age.
+
+Reduction in terminal complement activity was observed in all patients after commencement of Soliris.
+Soliris reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks.
+The mean platelet count (± SD) increased from 88 ± 42 x109/L at baseline to 281 ± 123 x109/L by one week; this effect was maintained through 26 weeks (mean platelet count (±SD) at week 26: 293 ± 106 x109/L).
+In aHUS Study 5, responses to Soliris were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
+
+Table 18 summarizes the efficacy results for aHUS Study 5.
+
+Table 18: Efficacy Results for aHUS Study 5
+
+| Efficacy Parameter | Patients 1 month to <12 years(N = 18) | All Patients (N = 22) |
+| --- | --- | --- |
+| Complete TMA response, n (%)95% CIMedian Duration of complete TMA response, weeks (range)1 | 11 (61)36, 8340 (14, 77) | 14 (64)41, 8337 (14, 77) |
+| eGFR improvement ≥15 mL/min/ 1.73•m2•n (%) | 16 (89) | 19 (86) |
+| Complete Hematologic Normalization, n (%) Median Duration of complete hematologic normalization, weeks (range) | 14 (78)38 (14, 77) | 18 (82)38 (14, 77) |
+| TMA Event-Free Status, n (%) | 17 (94) | 21 (95) |
+| Daily TMA Intervention rate, median (range) Before eculizumab treatment On eculizumab treatment | 0.2 (0, 1.7)0 (0, 0.01) | 0.4 (0, 1.7)0 (0, 0.01) |
+
+1. through data cutoff (October 12, 2012).

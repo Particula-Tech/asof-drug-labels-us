@@ -8,4 +8,6 @@ Soliris® (eculizumab)
 
 Concentrated Solution for Intravenous Infusion Only
 
+Must be diluted prior to use.
+
 Rx only

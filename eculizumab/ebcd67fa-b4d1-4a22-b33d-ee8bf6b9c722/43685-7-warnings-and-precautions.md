@@ -10,13 +10,13 @@ Revaccinate patients in accordance with ACIP recommendations, considering the du
 
 Immunize patients without a history of meningococcal vaccination at least 2 weeks prior to receiving the first dose of Soliris.
 If urgent Soliris therapy is indicated in an unvaccinated patient, administer the meningococcal vaccine as soon as possible.
-In clinical studies, 33/67 patients with aHUS were treated with Soliris less than 2 weeks after meningococcal vaccination and 31 of these 33 patients received antibiotics for prophylaxis of meningococcal infection until at least 2 weeks after meningococcal vaccination.
+In prospective clinical studies, 75/100 patients with aHUS were treated with Soliris less than 2 weeks after meningococcal vaccination and 64 of these 75 patients received antibiotics for prophylaxis of meningococcal infection until at least 2 weeks after meningococcal vaccination.
 The benefits and risks of antibiotic prophylaxis for prevention of meningococcal infections in patients receiving Soliris have not been established.
 
 Vaccination reduces, but does not eliminate, the risk of meningococcal infections.
 In clinical studies, 2 out of 196 PNH patients developed serious meningococcal infections while receiving treatment with Soliris; both had been vaccinated [see Adverse Reactions (6.1)].
 In clinical studies among non-PNH patients, meningococcal meningitis occurred in one unvaccinated patient.
-In addition, a previously vaccinated patient with aHUS developed meningococcal sepsis during the post-study follow-up period [see Adverse Reactions (6.1)].
+In addition, 3 out of 130 previously vaccinated patients with aHUS developed meningococcal infections while receiving treatment with Soliris [see Adverse Reactions (6.1)].
 
 Closely monitor patients for early signs and symptoms of meningococcal infection and evaluate patients immediately if an infection is suspected.
 Meningococcal infection may become rapidly life-threatening or fatal if not recognized and treated early.
@@ -34,7 +34,8 @@ Enrollment in the Soliris REMS program and additional information are available 
 ## 5.3 Other Infections
 
 Soliris blocks terminal complement activation; therefore patients may have increased susceptibility to infections, especially with encapsulated bacteria.
-Children treated with Soliris may be at increased risk of developing serious infections due to Streptococcus pneumoniae and Haemophilus influenza type b (Hib).
+Additionally, Aspergillus infections have occurred in immunocompromised and neutropenic patients.
+Children treated with Soliris may be at increased risk of developing serious infections due to Streptococcuspneumoniae and Haemophilus influenza type b (Hib).
 Administer vaccinations for the prevention of Streptococcus pneumoniae and Haemophilus influenza type b (Hib) infections according to ACIP guidelines.
 Use caution when administering Soliris to patients with any systemic infection.
 
@@ -47,7 +48,7 @@ Monitor patients after discontinuing Soliris for at least 8 weeks to detect hemo
 Treatment Discontinuation for aHUS
 
 After discontinuing Soliris, monitor patients with aHUS for signs and symptoms of thrombotic microangiopathy (TMA) complications for at least 12 weeks.
-In aHUS clinical studies, 18 patients (5 in the prospective studies) discontinued Soliris treatment.
+In aHUS clinical trials, 18 patients (5 in the prospective studies) discontinued Soliris treatment.
 TMA complications occurred following a missed dose in 5 patients, and Soliris was reinitiated in 4 of these 5 patients.
 
 Clinical signs and symptoms of TMA include changes in mental status, seizures, angina, dyspnea, or thrombosis.
@@ -60,20 +61,7 @@ If TMA complications occur after Soliris discontinuation, consider reinstitution
 The effect of withdrawal of anticoagulant therapy during Soliris treatment has not been established.
 Therefore, treatment with Soliris should not alter anticoagulant management.
 
-## 5.6 Laboratory Monitoring
-
-PNH
-
-Serum LDH levels increase during hemolysis and may assist in monitoring Soliris effects, including the response to discontinuation of therapy.
-In clinical studies, six patients achieved a reduction in serum LDH levels only after a decrease in the Soliris dosing interval from 14 to 12 days.
-All other patients achieved a reduction in serum LDH levels with the 14 day dosing interval [see Clinical Pharmacology (12.2) and Clinical Studies (14.1)].
-
-aHUS
-
-Early signs of thrombotic microangiopathy (TMA) include a decrease in platelet count, and increases in serum LDH and creatinine levels.
-Follow patients for signs of TMA by monitoring serial platelet counts, serum LDH, and creatinine during Soliris therapy and following discontinuation of Soliris.
-
-## 5.7 Infusion Reactions
+## 5.6 Infusion Reactions
 
 As with all protein products, administration of Soliris may result in infusion reactions, including anaphylaxis or other hypersensitivity reactions.
 In clinical trials, no patients experienced an infusion reaction which required discontinuation of Soliris.

@@ -26,8 +26,8 @@ In this model, the clearance of Soliris for a typical aHUS patient weighing 70 k
 
 The clearance and half-life of eculizumab were also evaluated during plasma exchange interventions.
 Plasma exchange increased the clearance of eculizumab to 3660 mL/hr and reduced the half-life to 1.26 hours.
-Supplemental dosing is recommended when Soliris is administered to aHUS patients receiving plasma infusion or exchange [see Recommended Dosage Regimen (2.1)].
+Supplemental dosing is recommended when Soliris is administered to aHUS patients receiving plasma infusion or exchange [see Dosage and Administration (2.2)].
 
-Dedicated studies have not been conducted to evaluate the PK of Soliris in special patient populations identified by gender, race, age (pediatric or geriatric), or the presence of renal or hepatic impairment.
+Dedicated studies have not been conducted to evaluate the PK of Soliris in special patient populations identified by gender, race, age (geriatric), or the presence of renal or hepatic impairment.
 Pediatric and adolescent patients (less than 18 years of age) and patients with renal impairment were included in the aHUS clinical studies [see Clinical Studies (14)].
 Population PK analysis showed age, gender, race, and renal function do not influence the PK of eculizumab.

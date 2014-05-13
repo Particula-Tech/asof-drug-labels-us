@@ -48,7 +48,7 @@ Table 2: Supplemental dose of Soliris after PE/PI
 | --- | --- | --- | --- |
 | Plasmapheresis or plasma exchange | 300 mg | 300 mg per each plasmapheresis or plasma exchange session | Within 60 minutes after each plasmapheresis or plasma exchange |
 | 600 mg or more | 600 mg per each plasmapheresis or plasma exchange session |  |  |
-| Fresh frozen plasma infusion | 300 mg or more | 300 mg per each unit of fresh frozen plasma | 60 minutes prior to each 1 unit of fresh frozen plasma infusion |
+| Fresh frozen plasma infusion | 300 mg or more | 300 mg per infusion of fresh frozen plasma | 60 minutes prior to each infusion of fresh frozen plasma |
 
 ## 2.3 Preparation and Administration
 
@@ -79,9 +79,9 @@ The Soliris admixture should be inspected visually for particulate matter and di
 
 Do Not Administer As An Intravenous Push or Bolus Injection
 
-The Soliris admixture should be administered by intravenous infusion over 35 minutes via gravity feed, a syringe-type pump, or an infusion pump.
+The Soliris admixture should be administered by intravenous infusion over 35 minutes in adults and 1 to 4 hours in pediatric patients via gravity feed, a syringe-type pump, or an infusion pump.
 Admixed solutions of Soliris are stable for 24 hours at 2-8° C (36-46° F) and at room temperature.
 
 If an adverse reaction occurs during the administration of Soliris, the infusion may be slowed or stopped at the discretion of the physician.
-If the infusion is slowed, the total infusion time should not exceed two hours.
+If the infusion is slowed, the total infusion time should not exceed two hours in adults.
 Monitor the patient for at least one hour following completion of the infusion for signs or symptoms of an infusion reaction.

@@ -4,10 +4,14 @@
 
 Pregnancy Category C:
 
+Risk Summary
+
 There are no adequate and well-controlled studies of Soliris in pregnant women.
 Soliris, a recombinant IgG molecule (humanized anti-C5 antibody), is expected to cross the placenta.
 Animal studies using a mouse analogue of the Soliris molecule (murine anti-C5 antibody) showed increased rates of developmental abnormalities and an increased rate of dead and moribund offspring at doses 2-8 times the human dose.
 Soliris should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Animal Data
 
 Animal reproduction studies were conducted in mice using doses of a murine anti-C5 antibody that approximated 2-4 times (low dose) and 4-8 times (high dose) the recommended human Soliris dose, based on a body weight comparison.
 When animal exposure to the antibody occurred in the time period from before mating until early gestation, no decrease in fertility or reproductive performance was observed.
@@ -27,12 +31,12 @@ The unknown risks to the infant from gastrointestinal or limited systemic exposu
 
 The safety and effectiveness of Soliris for the treatment of PNH in pediatric patients below the age of 18 years have not been established.
 
-Three clinical studies assessing the safety and effectiveness of Soliris for the treatment of aHUS included a total of 25 pediatric patients (ages 2 months to 17 years).
+Four clinical studies assessing the safety and effectiveness of Soliris for the treatment of aHUS included a total of 47 pediatric patients (ages 2 months to 17 years).
 The safety and effectiveness of Soliris for the treatment of aHUS appear similar in pediatric and adult patients [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
 Administer vaccinations for the prevention of infection due to Neisseria meningitidis, Streptococcus pneumoniae and Haemophilus influenza type b (Hib) according to ACIP guidelines [see Warnings and Precautions (5.1, 5.2)].
 
 ## 8.5 Geriatric Use
 
-Sixteen patients 65 years of age or older (15 with PNH and 1 with aHUS) were treated with Soliris.
+Nineteen patients 65 years of age or older (15 with PNH and 4 with aHUS) were treated with Soliris.
 Although there were no apparent age-related differences observed in these studies, the number of patients aged 65 and over is not sufficient to determine whether they respond differently from younger patients.
