@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020865"
+  ],
+  "inn": "rizatriptan",
+  "labeler": "Frosst Iberica, S.A.",
+  "package_ndcs": [
+    "68263-380-18",
+    "68263-381-18"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "rizatriptan benzoate",
+      "name": "MAXALT-MLT"
+    }
+  ],
+  "setid": "bbad36cf-4b22-4738-a710-fa8f98e60683",
+  "source": "dailymed"
+}
