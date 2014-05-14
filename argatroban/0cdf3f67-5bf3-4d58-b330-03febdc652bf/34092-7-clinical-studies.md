@@ -10,7 +10,7 @@ HIT/HITTS was defined by a fall in platelet count to less than 100,000/μL or a 
 Patients with HITTS also had an arterial or venous thrombosis documented by appropriate imaging techniques or supported by clinical evidence such as acute myocardial infarction, stroke, pulmonary embolism, or other clinical indications of vascular occlusion.
 Patients who had documented histories of positive heparin-dependent antibody tests without current thrombocytopenia or heparin challenge (e.g., patients with latent disease) were also included if they required anticoagulation.
 
-These studies did not include patients with documented unexplained aPTT greater than 200% of control at baseline, documented coagulation disorder or bleeding diathesis unrelated to HIT, a lumbar puncture within the past 7 days or a history of previous aneurysm, hemorrhagic stroke, or a thrombotic stroke within the past 6 months unrelated to HIT.
+These studies did not include patients with documented unexplained aPTT >200% of control at baseline, documented coagulation disorder or bleeding diathesis unrelated to HIT, a lumbar puncture within the past 7 days or a history of previous aneurysm, hemorrhagic stroke, or a thrombotic stroke within the past 6 months unrelated to HIT.
 
 The initial dose of argatroban was 2 mcg/kg/min.
 Two hours after the start of the argatroban infusion, an aPTT level was obtained and dose adjustments were made (up to a maximum of 10 mcg/kg/min) to achieve a steady-state aPTT value that was 1.5 to 3.0 times the baseline value, not to exceed 100 seconds.
@@ -28,12 +28,12 @@ The test results for the remainder of the patients and controls were either nega
 There was a significant improvement in the composite outcome in patients with HIT and HITTS treated with argatroban versus those in the historical control group (see Table 9).
 The components of the composite endpoint are shown in Table 9.
 
-| Table 9 Efficacy Results of Study 1: Composite Endpointa and Individual Components, Ranked by Severityb |  |  |  |  |  |  |  |
+| Table 9. Efficacy Results of Study 1: Composite Endpointa and Individual Components, Ranked by Severityb |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Parameter, N (%) | HIT |  |  | HITTS |  | HIT/HITTS |  |
 | Control n = 147 | Argatroban n = 160 |  | Control n = 46 | Argatroban n = 144 | Control n = 193 | Argatroban n = 304 |  |
 | Composite Endpoint | 57 (38.8) | 41 (25.6) |  | 26 (56.5) | 63 (43.8) | 83 (43.0) | 104 (34.2) |
-| Individual Componentsb: |  |  |  |  |  |  |  |
+| Individual Componentsb |  |  |  |  |  |  |  |
 | Death | 32 (21.8) | 27 (16.9) | 13 (28.3) |  | 26 (18.1) | 45 (23.3) | 53 (17.4) |
 | Amputation | 3 (2.0) | 3 (1.9) | 4 (8.7) |  | 16 (11.1) | 7 (3.6) | 19 (6.2) |
 | New Thrombosis | 22 (15.0) | 11 (6.9) | 9 (19.6) |  | 21 (14.6) | 31 (16.1) | 32 (10.5) |
@@ -60,7 +60,7 @@ Seventy-six percent of patients with HIT and 81% of patients with HITTS achieved
 No enhancement of aPTT response was observed in subjects receiving repeated administration of argatroban.
 
 Platelet Count Recovery: In Study 1, 53% of patients with HIT and 58% of patients with HITTS, had a recovery of platelet count by Day 3.
-Platelet Count Recovery was defined as an increase in platelet count to greater than 100,000/μL or to at least 1.5-fold greater than the baseline count (platelet count at study initiation) by Day 3 of the study.
+Platelet Count Recovery was defined as an increase in platelet count to >100,000/μL or to at least 1.5-fold greater than the baseline count (platelet count at study initiation) by Day 3 of the study.
 
 ## 14.2 Percutaneous Coronary Intervention (PCI) Patients with or at Risk for HIT
 

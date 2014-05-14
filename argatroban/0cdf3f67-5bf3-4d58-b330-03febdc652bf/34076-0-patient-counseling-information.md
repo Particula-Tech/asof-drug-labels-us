@@ -12,4 +12,4 @@ Manufactured by: Exela Pharma Sciences, LLC Lenoir, NC 28645
 
 Distributed by: West-Ward Pharmaceutical Corp., Eatontown, NJ 07724
 
-Revised August 2012
+Revised March 2014

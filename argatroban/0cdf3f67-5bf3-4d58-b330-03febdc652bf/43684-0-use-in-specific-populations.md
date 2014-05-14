@@ -32,9 +32,8 @@ Another patient completed 14 days of argatroban treatment in the study, but expe
 When argatroban is used among seriously ill pediatric patients with HIT/HITTS who require an alternative to heparin and who have normal hepatic function, initiate a continuous infusion of argatroban at a dose of 0.75 mcg/kg/min.
 Initiate the infusion at a dose of 0.2 mcg/kg/min among seriously ill pediatric patients with impaired hepatic function [see Clinical Pharmacology (12.3)].
 Check the aPTT two hours after the initiation of the argatroban infusion and adjust the dose to achieve the target aPTT.
-These dose recommendations are based upon a goal of aPTT prolongation of 1.5 to 3 times the baseline value and avoidance of an aPTT greater than 100 seconds.
-Increments of 0.1 to 0.25 mcg/kg/min for pediatric patients with normal hepatic function and increments of 0.05 mcg/kg/min or lower for pediatric patients with impaired hepatic function may be considered but dose selection must take into account multiple factors including the current argatroban dose, the current aPTT, target aPTT, and the clinical status of the patient.
-These dose recommendations are based upon a goal of aPTT prolongation of 1.5 to 3 times the baseline value and avoidance of an aPTT greater than 100 seconds.
+Increments of 0.1 to 0.25 mcg/kg/min for pediatric patients with normal hepatic function and increments of 0.05 mcg/kg/min or lower for pediatric patients with impaired hepatic function may be considered but dose selection must take into account multiple factors including the current Argatroban dose, the current aPTT, target aPTT, and the clinical status of the patient.
+These dose recommendations are based upon a goal of aPTT prolongation of 1.5 to 3 times the baseline value and avoidance of an aPTT >100 seconds.
 
 ## 8.5 Geriatric Use
 

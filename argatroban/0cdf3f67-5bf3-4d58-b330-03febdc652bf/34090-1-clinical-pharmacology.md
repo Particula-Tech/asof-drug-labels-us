@@ -45,7 +45,7 @@ Distribution: Argatroban distributes mainly in the extracellular fluid as eviden
 Argatroban is 54% bound to human serum proteins, with binding to albumin and α1-acid glycoprotein being 20% and 34%, respectively.
 
 Metabolism: The main route of argatroban metabolism is hydroxylation and aromatization of the 3-methyltetrahydroquinoline ring in the liver.
-The formation of each of the 4 known metabolites is catalyzed invitro by the human liver microsomal cytochrome P450 enzymes CYP3A4/5.
+The formation of each of the 4 known metabolites is catalyzed in vitro by the human liver microsomal cytochrome P450 enzymes CYP3A4/5.
 The primary metabolite (M1) exerts 3- to 5-fold weaker anticoagulant effects than argatroban.
 Unchanged argatroban is the major component in plasma.
 The plasma concentrations of M1 range between 0% and 20% of that of the parent drug.
@@ -66,10 +66,10 @@ Average percent recovery of unchanged drug, relative to total dose, was 16% in u
 
 Special Populations: Hepatic Impairment: The dosage of argatroban should be decreased in patients with hepatic impairment [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
 Patients with hepatic impairment were not studied in percutaneous coronary intervention (PCI) trials.
-At a dose of 2.5 mcg/kg/min, hepatic impairment is associated with decreased clearance and increased elimination half-life of argatroban (to 1.9 L/kg/min and 181 minutes, respectively, for patients with a Child-Pugh score greater than 6).
+At a dose of 2.5 mcg/kg/min, hepatic impairment is associated with decreased clearance and increased elimination half-life of argatroban (to 1.9 mL/kg/min and 181 minutes, respectively, for patients with a Child-Pugh score greater than 6).
 
 Renal Impairment: No dosage adjustment is necessary in patients with renal dysfunction.
-The effect of renal disease on the pharmacokinetics of argatroban was studied in 6 subjects with normal renal function (mean Clcr = 95 + 16 mL/min) and in 18 subjects with mild (mean Clcr = 64 ± 10 mL/min), moderate (mean Clcr = 41 ± 5.8 mL/min), and severe (mean Clcr = 5 ± 7 mL/min) renal impairment.
+The effect of renal disease on the pharmacokinetics of argatroban was studied in 6 subjects with normal renal function (mean Clcr = 95 ± 16 mL/min) and in 18 subjects with mild (mean Clcr = 64 ± 10 mL/min), moderate (mean Clcr = 41 ± 5.8 mL/min), and severe (mean Clcr = 5 ± 7 mL/min) renal impairment.
 The pharmacokinetics and pharmacodynamics of argatroban at dosages up to 5 mcg/kg/min were not significantly affected by renal dysfunction.
 
 Use of argatroban was evaluated in a study of 12 patients with stable end-stage renal disease undergoing chronic intermittent hemodialysis.
@@ -86,9 +86,11 @@ Clearance in pediatric patients (0.16 L/hr/kg) was 50% lower compared to healthy
 Four pediatric patients with elevated bilirubin (secondary to cardiac complications or hepatic impairment) had, on average, 80% lower clearance (0.03 L/hr/kg) when compared to pediatric patients with normal bilirubin levels.
 [see Use in Specific Populations (8.4).]
 
-Drug-Drug Interactions: Digoxin: In 12 healthy volunteers, intravenous infusion of argatroban (2 mcg/kg/min) over 5 days (study days 11 to 15) did not affect the steady-state pharmacokinetics of oral digoxin (0.375 mg daily for 15 days).
+Drug-Drug Interactions:
+
+Digoxin: In 12 healthy volunteers, intravenous infusion of argatroban (2 mcg/kg/min) over 5 days (study days 11 to 15) did not affect the steady-state pharmacokinetics of oral digoxin (0.375 mg daily for 15 days).
 
 Erythromycin: In 10 healthy subjects, orally administered erythromycin (a potent inhibitor of CYP3A4/5) at 500 mg four times daily for 7 days had no effect on the pharmacokinetics of argatroban at a dose of 1 mcg/kg/min for 5 hours.
 These data suggest oxidative metabolism by CYP3A4/5 is not an important elimination pathway in vivo for argatroban.
 
-Aspirin and Acetaminophen: Drug-drug interactions have not been demonstrated between argatroban and concomitantly administered aspirin (162.5 mg orally given 26 and 2 hours prior to initiation of argatroban 1 mcg/kg/min over 4 hours) or acetaminophen (1000 mg orally given 12, 6, and 0 hours prior to, and 6 and 12 hours subsequent to, initiation of argatroban1.5 mcg/kg/min over 18 hours).
+Aspirin and Acetaminophen: Drug-drug interactions have not been demonstrated between argatroban and concomitantly administered aspirin (162.5 mg orally given 26 and 2 hours prior to initiation of argatroban 1 mcg/kg/min over 4 hours) or acetaminophen (1,000 mg orally given 12, 6, and 0 hours prior to, and 6 and 12 hours subsequent to, initiation of argatroban1.5 mcg/kg/min over 18 hours).
