@@ -2,17 +2,11 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis
+Carcinogenesis Mesalamine was not carcinogenic at dietary doses of up to 480 mg/kg/day in rats and 2000 mg/kg/day in mice, which are about 2.9 and 6.1 times the maximum recommended maintenance dose of DELZICOL of 1.6 g/day or 26.7 mg/kg/day, based on 60 kg body weight, respectively, based on body surface area.
 
-Mesalamine was not carcinogenic at dietary doses of up to 480 mg/kg/day in rats and 2000 mg/kg/day in mice, which are about 2.9 and 6.1 times the maximum recommended maintenance dose of DELZICOL of 1.6 g/day or 26.7 mg/kg/day, based on 60 kg body weight, respectively, based on body surface area.
+Mutagenesis Mesalamine was negative in the Ames assay for mutagenesis, negative for induction of sister chromatid exchanges (SCE) and chromosomal aberrations in Chinese hamster ovary cells in vitro, and negative for induction of micronuclei (MN) in mouse bone marrow polychromatic erythrocytes.
 
-Mutagenesis
-
-Mesalamine was negative in the Ames assay for mutagenesis, negative for induction of sister chromatid exchanges (SCE) and chromosomal aberrations in Chinese hamster ovary cells in vitro, and negative for induction of micronuclei (MN) in mouse bone marrow polychromatic erythrocytes.
-
-Impairment of Fertility
-
-Mesalamine, at oral doses up to 480 mg/kg/day (about 1.9 times the recommended human treatment dose on a body surface area basis), was found to have no effect on fertility or reproductive performance of male and female rats.
+Impairment of Fertility Mesalamine, at oral doses up to 480 mg/kg/day (about 1.9 times the recommended human treatment dose on a body surface area basis), was found to have no effect on fertility or reproductive performance of male and female rats.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

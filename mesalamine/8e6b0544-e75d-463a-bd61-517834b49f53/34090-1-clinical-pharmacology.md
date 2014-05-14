@@ -7,22 +7,23 @@ Mucosal production of arachidonic acid metabolites, both through the cyclooxygen
 
 ## 12.3 Pharmacokinetics
 
-Absorption
-
-Approximately 28 percent of mesalamine in mesalamine delayed-release formulations is absorbed after oral ingestion.
+Absorption Approximately 28% of mesalamine in mesalamine delayed-release formulations is absorbed after oral ingestion.
 The Tmax for mesalamine and its metabolite, is usually delayed, reflecting the delayed-release, and ranges from 4 to 16 hours.
 
 The effect of food on the absorption of mesalamine from DELZICOL has not been evaluated.
 
-Metabolism
+Metabolism The absorbed mesalamine is rapidly acetylated in the gut mucosal wall and by the liver to N-acetyl-5-aminosalicylic acid.
 
-The absorbed mesalamine is rapidly acetylated in the gut mucosal wall and by the liver to N-acetyl-5-aminosalicylic acid.
-
-Excretion
-
-Absorbed mesalamine is excreted mainly by the kidney as N-acetyl-5-aminosalicylic acid.
+Excretion Absorbed mesalamine is excreted mainly by the kidney as N-acetyl-5-aminosalicylic acid.
 Unabsorbed mesalamine is excreted in feces.
 
 After intravenous administration, the elimination half-life of mesalamine is reported to be approximately 40 minutes.
 After oral dosing, the terminal t1/2 values for mesalamine and N-acetyl-5-aminosalicylic acid are usually about 12 hours, but are variable, ranging from 2 to 15 hours.
 There is a large inter-subject and intra-subject variability in the plasma concentrations of mesalamine and N-acetyl-5-aminosalicylic acid and in their elimination half-lives following administration of DELZICOL.
+
+Specific Populations Pediatric Patients The pediatric data presented in Section 12 are from clinical trials conducted with mesalamine delayed-release 400 mg tablets.
+DELZICOL is bioequivalent to these mesalamine delayed-release tablets.
+
+In a dose-ranging PK study evaluating 30, 60 and 90 mg/kg/day doses of mesalamine delayed-release 400 mg tablets administered twice daily for four weeks, the mean Cavg values of mesalamine in pediatric ulcerative colitis patients ranged from approximately 400 ng/mL to 2100 ng/mL based on data from all dose levels.
+
+In a study in pediatric ulcerative colitis patients (Study 3), mean plasma concentrations of mesalamine (based on sparse sampling) were 820 to 988 ng/mL at the low dose level (that is, 1.2, 2.0 or 2.4 g/day based on body weight strata of 17 to greater than 33 kg, 33 to less than 54 kg, and 54 to less than 90 kg, respectively).

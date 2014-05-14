@@ -1,11 +1,11 @@
 # 7 DRUG INTERACTIONS
 
 No formal drug interaction studies have been performed using DELZICOL with other drugs.
-However, the following interactions between mesalamine medications and other drugs have been reported.
+However, the following interactions between mesalamine-containing products and other drugs have been reported.
 
 ## 7.1 Nephrotoxic Agents, Including Non-Steroidal Anti-Inflammatory Drugs
 
-The concurrent use of mesalamine with known nephrotoxic agents, including nonsteroidal anti-inflammatory drugs (NSAIDs) may increase the risk of renal reactions.
+The concurrent use of mesalamine with known nephrotoxic agents, including nonsteroidal anti-inflammatory drugs (NSAIDs) may increase the risk of renal reactions [see Warnings and Precautions (5.1)].
 
 ## 7.2 Azathioprine or 6-mercaptopurine
 
