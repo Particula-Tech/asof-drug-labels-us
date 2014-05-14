@@ -18,7 +18,7 @@ Use of a wet needle or syringe may cause the solution to become cloudy; however,
 
 Patients should be started at the lowest dose for the indication.
 The lowest effective dose of DELESTROGEN has not been determined for any indication.
-Treated patients with an intact uterus should be monitored closely for signs of endometrial cancer, and appropriate diagnostic measures should be taken to rule our malignancy in the event of persistent or recurring abnormal vaginal bleeding.
+Treated patients with an intact uterus should be monitored closely for signs of endometrial cancer, and appropriate diagnostic measures should be taken to rule out malignancy in the event of persistent or recurring abnormal vaginal bleeding.
 See PRECAUTIONS concerning addition of a progestin.
 
 - 1.For treatment of moderate to severe vasomotor symptoms, vulvar and vaginal atrophy associated with the menopause, the lowest dose and regimen that will control symptoms should be chosen and medication should be discontinued as promptly as possible.

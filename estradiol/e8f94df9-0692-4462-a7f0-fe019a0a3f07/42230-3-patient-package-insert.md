@@ -168,3 +168,8 @@ DELESTROGEN is supplied in three 5 mL multiple dose vials; 10 mg/mL, 20 mg/mL, a
 The 10 mg/mL strength contains 10 mg estradiol valerate in a solution of chlorobutanol and sesame oil.
 The 20 mg/mL strength contains 20 mg estradiol valerate in a solution of benzyl benzoate, benzyl alcohol, and castor oil.
 The 40 mg/mL strength contains 40 mg estradiol valerate in a solution of benzyl benzoate, benzyl alcohol, and castor oil.
+
+How should I store DELESTROGEN?
+
+Store DELESTROGEN at room temperature between 20° to 25°C (68° to 77°F).
+(See USP Controlled Room Temperature.)

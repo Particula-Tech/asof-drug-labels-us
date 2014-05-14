@@ -8,7 +8,9 @@ NDC 42023-110-01
 
 DELESTROGEN® (estradiol valerate injection, USP)
 
-Read all sides Rx Only
+Read all sides
+
+Rx Only
 
 JHP PHARMACEUTICALS
 
@@ -22,7 +24,9 @@ NDC 42023-111-01
 
 DELESTROGEN® (estradiol valerate injection, USP)
 
-Read all sides Rx Only
+Read all sides
+
+Rx Only
 
 JHP PHARMACEUTICALS
 
@@ -36,6 +40,8 @@ NDC 42023-112-01
 
 DELESTROGEN® (estradiol valerate injection, USP)
 
-Read all sides Rx Only
+Read all sides
+
+Rx Only
 
 JHP PHARMACEUTICALS

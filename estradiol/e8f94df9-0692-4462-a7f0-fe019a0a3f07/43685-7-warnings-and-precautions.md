@@ -15,7 +15,7 @@ Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitu
 
 In the Women's Health Initiative (WHI) study, an increase in the number of myocardial infarctions and strokes has been observed in women receiving CE compared to placebo.
 These observations are preliminary.
-(See CLINICAL PHARMACOLOGY, Clinical Studies.)
+(See CLINICAL PHARMACOLOGY, Clinical Studies).
 
 In the CE/MPA substudy of WHI, an increased risk of coronary heart disease (CHD) events (defined as non-fatal myocardial infarction and CHD death) was observed in women receiving CE/MPA compared to women receiving placebo (37 vs. 30 per 10,000 women-years).
 The increase in risk was observed in year one and persisted.
@@ -89,7 +89,7 @@ After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%,
 The relative risk for CE/MPA versus placebo was 2.05 (95% confidence interval 1.21 – 3.48), and was similar for women with and without histories of menopausal hormone use before WHIMS.
 The absolute risk of probable dementia for CE/MPA versus placebo was 45 versus 22 cases per 10,000 women-years, and the absolute excess risk for CE/MPA was 23 cases per 10,000 women-years.
 It is unknown whether these findings apply to younger postmenopausal women.
-(See CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric Use.)
+(See CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric Use).
 
 It is unknown whether these findings apply to estrogen alone therapy.
 
@@ -204,14 +204,14 @@ Estrogen administration should be initiated at the lowest dose approved for the 
 ## E. Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
-(See BOXED WARNINGS, WARNINGS and PRECAUTIONS.)
+(See BOXED WARNINGS, WARNINGS and PRECAUTIONS).
 
 Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
 ## F. Pregnancy
 
 DELESTROGEN should not be used during pregnancy.
-(See CONTRAINDICATIONS.)
+(See CONTRAINDICATIONS).
 
 ## G. Nursing Mothers
 
@@ -234,6 +234,6 @@ Most women (80%) had no prior hormone therapy use.
 Women treated with conjugated estrogens plus medroxyprogesterone acetate were reported to have a two-fold increase in the risk of developing probable dementia.
 Alzheimer's disease was the most common classification of probable dementia in both the conjugated estrogens plus medroxyprogesterone acetate group and the placebo group.
 Ninety percent of the cases of probable dementia occurred in the 54% of the women that were older than 70.
-(See WARNINGS, Dementia.)
+(See WARNINGS, Dementia).
 
 It is unknown whether these findings apply to estrogen alone therapy.
