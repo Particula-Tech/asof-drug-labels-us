@@ -51,7 +51,7 @@ Low-, moderate-, and high-fat meals increased dolutegravir AUC(0-∞) by 33%, 41
 Distribution: Dolutegravir is highly bound (≥98.9%) to human plasma proteins based on in vivo data and binding is independent of plasma concentration of dolutegravir.
 The apparent volume of distribution (Vd/F) following 50-mg once-daily administration is estimated at 17.4 L based on a population pharmacokinetic analysis.
 
-Cerebrospinal Fluid (CSF): In 11 treatment-naïve subjects on dolutegravir 50 mg daily plus abacavir/lamivudine, the median dolutegravir concentration in CSF was 18 ng/mL (range: 4 ng/mL to 232 ng/mL) 2 to 6 hours postdose after 2 weeks of treatment.
+Cerebrospinal Fluid (CSF): In 11 treatment-naïve subjects on dolutegravir 50 mg daily plus abacavir/lamivudine, the median dolutegravir concentration in CSF was 18 ng/mL (range: 4 ng/mL to 23.2 ng/mL) 2 to 6 hours postdose after 2 weeks of treatment.
 The clinical relevance of this finding has not been established.
 
 Metabolism and Elimination: Dolutegravir is primarily metabolized via UGT1A1 with some contribution from CYP3A.
@@ -131,9 +131,15 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Etravirine + lopinavir/ritonavir 200 mg + 400/100 mg twice daily | 50 mg once daily | 8 | 1.07 (1.02 to 1.13) | 1.11 (1.02 to 1.20) | 1.28 (1.13 to 1.45) |
 | Fosamprenavir/ritonavir 700 mg/100 mg twice daily | 50 mg once daily | 12 | 0.76 (0.63 to 0.92) | 0.65 (0.54 to 0.78) | 0.51 (0.41 to 0.63) |
 | Lopinavir/ritonavir 400/100 mg twice daily | 30 mg once daily | 15 | 1.00 (0.94 to 1.07) | 0.97 (0.91 to 1.04) | 0.94 (0.85 to 1.05) |
-| Antacid (Maalox®) Simultaneous administration | 50 mg single dose | 16 | 0.28 (0.23 to 0.33) | 0.26 (0.22 to 0.32) | 0.26 (0.21 to 0.31) |
-| Antacid (Maalox®) 2 hrs after dolutegravir | 50 mg single dose | 16 | 0.82 (0.69 to 0.98) | 0.74 (0.62 to 0.90) | 0.70 (0.58 to 0.85) |
-| Multivitamin (One-A-Day®) Simultaneous administration | 50 mg single dose | 16 | 0.65 (0.54 to 0.77) | 0.67 (0.55 to 0.81) | 0.68 (0.56 to 0.82) |
+| Antacid (Maalox®) simultaneous administration | 50 mg single dose | 16 | 0.28 (0.23 to 0.33) | 0.26 (0.22 to 0.32) | 0.26 (0.21 to 0.31) |
+| Antacid (Maalox®) 2 h after dolutegravir | 50 mg single dose | 16 | 0.82 (0.69 to 0.98) | 0.74 (0.62 to 0.90) | 0.70 (0.58 to 0.85) |
+| Calcium carbonate 1,200 mg simultaneous administration (fasted) | 50 mg single dose | 12 | 0.63 (0.50 to 0.81) | 0.61 (0.47 to 0.80) | 0.61 (0.47 to 0.80) |
+| Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |
+| Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |
+| Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |
+| Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0/81 to 1.20) | 1.00 (0.81 to 1.23) |
+| Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |
+| Multivitamin (One-A-Day®) simultaneous administration | 50 mg single dose | 16 | 0.65 (0.54 to 0.77) | 0.67 (0.55 to 0.81) | 0.68 (0.56 to 0.82) |
 | Omeprazole 40 mg once daily | 50 mg single dose | 12 | 0.92 (0.75 to 1.11) | 0.97 (0.78 to 1.20) | 0.95 (0.75 to 1.21) |
 | Prednisone 60 mg once daily with taper | 50 mg once daily | 12 | 1.06 (0.99 to 1.14) | 1.11 (1.03 to 1.20) | 1.17 (1.06 to 1.28) |
 | Rifampina 600 mg once daily | 50 mg twice daily | 11 | 0.57 (0.49 to 0.65) | 0.46 (0.38 to 0.55) | 0.28 (0.23 to 0.34) |

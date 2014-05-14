@@ -23,7 +23,7 @@ When used with other HIV-1 medicines to treat HIV–1 infection, TIVICAY may hel
 - •Reduce the amount of HIV-1 in your blood.
   This is called “viral load”.
 - •Increase the number of white blood cells called CD4+ (T) cells in your blood, which help fight off other infections.
-- •Reduce the amount of HIV-1 and increase the CD4+ (T) cell in your blood which may help improve your immune system.
+- •Reduce the amount of HIV-1 and increase the CD4+ (T) cells in your blood which may help improve your immune system.
   This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
 
 TIVICAY does not cure HIV-1 infection or AIDS.
@@ -33,7 +33,8 @@ Avoid doing things that can spread HIV-1 infection to others.
 
 - •Do not share or re-use needles or other injection equipment.
 - •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-- •Do not have any kind of sex without protection.Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
+- •Do not have any kind of sex without protection.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
 
 Ask your healthcare provider if you have any questions about how to prevent passing HIV to other people.
 
@@ -51,12 +52,10 @@ Before you take TIVICAY, tell your healthcare provider if you:
 - •have any other medical condition
 - •are pregnant or plan to become pregnant.
   It is not known if TIVICAY will harm your unborn baby.
-  Tell your healthcare provider if you become pregnant while taking TIVICAY.
-- Pregnancy Registry.
+  Tell your healthcare provider if you become pregnant while taking TIVICAY.Pregnancy Registry.
   There is a pregnancy registry for women who take antiviral medicines during pregnancy.
   The purpose of the registry is to collect information about the health of you and your baby.
   Talk to your healthcare provider about how you can take part in this registry.
-
 - •are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take TIVICAY.
   - ∘You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
@@ -71,8 +70,11 @@ TIVICAY may affect the way other medicines work, and other medicines may affect 
 Especially tell your healthcare provider if you take:
 
 - •other HIV-1 medicines including: efavirenz (SUSTIVA®), etravirine (INTELENCE®), fosamprenavir (LEXIVA®)/ritonavir (N0RVIR®), nevirapine (VIRAMUNE®), or tipranavir (APTIVUS®)/ritonavir (N0RVIR).
-- •antacids or laxatives that contain aluminum, magnesium or calcium, sucralfate (CARAFATE®), iron or calcium supplements, or buffered medicines.
+- •antacids or laxatives that contain aluminum, magnesium, sucralfate (CARAFATE®), or buffered medicines.
   TIVICAY should be taken at least 2 hours before or 6 hours after you take these medicines.
+- •iron or calcium supplements.
+  Supplements including multivitamins containing calcium or iron may be taken at the same time with TIVICAY if taken with food.
+  Otherwise, TIVICAY should be taken at least 2 hours before or 6 hours after you take these medicines.
 - •anti-seizure medicines:
   - ∘oxcarbazepine (TRILEPTAL®)
   - ∘phenytoin (DILANTIN®, DILANTIN®-125, PHENYTEK®)
@@ -81,7 +83,7 @@ Especially tell your healthcare provider if you take:
 - •St.
   John’s wort (Hypericum perforatum)
 - •a medicine that contains metformin
-- •rifampin (RIFATER®, RIFAMATE®, RIMACTANE®, RIFADAN®)
+- •rifampin (RIFATER®, RIFAMATE®, RIMACTANE®, RIFADIN®)
 
 Ask your healthcare provider or pharmacist if you are not sure if your medicine is one that is listed above.
 
@@ -189,14 +191,14 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-August 2013
+May 2014
 
-TVC:1PIL
+TVC:2PIL
 
-©2013, ViiV Healthcare.
+©2014, the ViiV Healthcare group of companies.
 All rights reserved.
 
-TIVICAY and LEXIVA are registered trademarks of ViiV Healthcare.
+TIVICAY and LEXIVA are registered trademarks of the ViiV Healthcare group of companies.
 
-The brands listed are trademarks of their respective owners and are not trademarks of ViiV Healthcare.
-The makers of these brands are not affiliated with and do not endorse ViiV Healthcare or its products.
+The brands listed are trademarks of their respective owners and are not trademarks of the ViiV Healthcare group of companies.
+The makers of these brands are not affiliated with and do not endorse the ViiV Healthcare group of companies or its products.

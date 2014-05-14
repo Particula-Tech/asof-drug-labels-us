@@ -27,7 +27,7 @@ Virologic Outcomes of Randomized Treatment in SPRING-2 and SINGLE at Week 48 (Sn
 | Treatment differencea | 2.6% (95% CI: -1.9%, 7.2%) |  | 7.4% (95% CI: 2.5%, 12.3%) |  |
 | Virologic nonresponseb | 5% | 7% | 5% | 6% |
 | No virologic data at Week 48 window | 7% | 7% | 7% | 13% |
-| Reasons |  |  |  |  |
+| Reasons: |  |  |  |  |
 | Discontinued study/study drug due to adverse event or deathc | 2% | 1% | 2% | 10% |
 | Discontinued study/study drug for other reasonsd | 5% | 6% | 5% | 3% |
 | Missing data during window but on study | 0 | 0 | 0 | <1% |
@@ -60,7 +60,7 @@ The adjusted difference between treatment arms and 95% CI was 58.9 cells/mm3 (33
 
 Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Subjects: In the international, multicenter, double-blind trial (SAILING), 719 HIV‑1‑ infected, antiretroviral treatment-experienced adults were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator selected background regimen consisting of up to 2 agents, including at least 1 fully active agent.
 There were 715 subjects included in the efficacy and safety analyses.
-At baseline, the median age was 43 years, 32% were female, 49% non-white, 16% had hepatitis B and/or C virus co-infection, 46% were CDC Class C (AIDS), 20% had HIV-1 RNA >100,000 copies/mL, and 72% had CD4+ cell count <350 cells/mm3; these characteristics were similar between treatment groups.
+At baseline, the median age was 43 years, 32% were female, 50% non-white, 16% had hepatitis B and/or C virus co-infection, 46% were CDC Class C (AIDS), 20% had HIV-1 RNA >100,000 copies/mL, and 72% had CD4+ cell count <350 cells/mm3; these characteristics were similar between treatment groups.
 All subjects had at least 2-class antiretroviral treatment resistance, and 49% of subjects had at least 3-class antiretroviral treatment resistance at baseline.
 Week 24 outcomes for SAILING are shown in Table 13.
 
@@ -73,7 +73,7 @@ Virologic Outcomes of Randomized Treatment in SAILING at 24 Weeks (Snapshot Algo
 | Adjustedb treatment difference | 9.7% (95% CI: 3.4%, 15.9%) |  |
 | Virologic nonresponse | 15% | 24% |
 | No virologic data at Week 24 window | 6% | 6% |
-| Reasons |  |  |
+| Reasons: |  |  |
 | Discontinued study/study drug due to adverse event or death | 2% | 2% |
 | Discontinued study/study drug for other reasonsc | 3% | 3% |
 | Missing data during window but on study | <1% | <1% |
@@ -122,7 +122,7 @@ Virologic Outcomes of Treatment of VIKING-3 at 24 Weeks (Snapshot Algorithm)
 | --- | --- |
 | HIV-1 RNA <50 copies/mL | 63% |
 | Virologic nonresponse | 32% |
-| No virologic data at Week 24 Reasons |  |
+| No virologic data at Week 24 Reasons: |  |
 | Discontinued study/study drug due to adverse event or death | 4% |
 | Proportion (%) With HIV-1 RNA <50 copies/mL at Week 24 by Baseline Category |  |
 | Gender |  |

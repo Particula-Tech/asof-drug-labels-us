@@ -82,28 +82,28 @@ Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects i
 
 | Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |
 | --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily + 2 NRTIs(N = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(N = 405) | TIVICAY 50 mg + EPZICOM Once Daily(N = 414) | ATRIPLAOnce Daily(N = 419) |  |
+| TIVICAY 50 mg Once Daily +2 NRTIs(N = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(N = 405) | TIVICAY 50 mg + EPZICOM Once Daily(N = 414) | ATRIPLAOnce Daily(N = 419) |  |
 | ALT |  |  |  |  |
 | Grade 2 (>2.5-5.0 x ULN) | 2% | 3% | 2% | 5% |
-| Grade 3 to 4 (>5.1 x ULN) | 2% | 1% | <1% | <1% |
+| Grade 3 to 4 (>5.0 x ULN) | 2% | 1% | <1% | <1% |
 | AST |  |  |  |  |
 | Grade 2 (>2.5-5.0 x ULN) | 3% | 3% | 2% | 3% |
-| Grade 3 to 4 (>5.1 x ULN) | 2% | 2% | 0 | 2% |
+| Grade 3 to 4 (>5.0 x ULN) | 2% | 2% | 0 | 2% |
 | Total Bilirubin |  |  |  |  |
 | Grade 2 (1.6-2.5 x ULN) | 2% | 2% | <1% | 0 |
 | Grade 3 to 4 (>2.5 x ULN) | <1% | <1% | <1% | 0 |
 | Creatine kinase |  |  |  |  |
 | Grade 2 (6.0-9.9 x ULN) | 1% | 3% | 3% | 1% |
-| Grade 3 to 4 (>10.0 x ULN) | 4% | 3% | 3% | 4% |
+| Grade 3 to 4 (≥10.0 x ULN) | 4% | 3% | 3% | 4% |
 | Hyperglycemia |  |  |  |  |
 | Grade 2 (126-250 mg/dL) | 5% | 5% | 7% | 4% |
 | Grade 3 (>251 mg/dL) | <1% | 1% | 1% | <1% |
 | Lipase |  |  |  |  |
 | Grade 2 (>1.5-3.0 x ULN) | 5% | 6% | 8% | 7% |
-| Grade 3 to 4 (>3.1 x ULN) | 1% | 3% | 3% | 2% |
+| Grade 3 to 4 (>3.0 x ULN) | 1% | 3% | 3% | 2% |
 | Total neutrophils |  |  |  |  |
 | Grade 2 (0.75-0.99 x 109) | 3% | 3% | 2% | 4% |
-| Grade 3 to 4 (<0.74 x 109) | 2% | 1% | 2% | 3% |
+| Grade 3 to 4 (<0.75 x 109) | 2% | 1% | 2% | 3% |
 
 ULN = Upper limit of normal.
 

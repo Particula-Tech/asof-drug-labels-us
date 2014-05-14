@@ -3,7 +3,7 @@
 ## 5.1 Hypersensitivity Reactions
 
 Hypersensitivity reactions have been reported and were characterized by rash, constitutional findings, and sometimes organ dysfunction, including liver injury.
-The events were reported in 1% or fewer subjects receiving TIVICAY in Phase 3 clinical trials.
+The events were reported in <1% of subjects receiving TIVICAY in Phase 3 clinical trials.
 Discontinue TIVICAY and other suspect agents immediately if signs or symptoms of hypersensitivity reactions develop (including, but not limited to, severe rash or rash accompanied by fever, general malaise, fatigue, muscle or joint aches, blisters or peeling of the skin, oral blisters or lesions, conjunctivitis, facial edema, hepatitis, eosinophilia, angioedema, difficulty breathing).
 Clinical status, including liver aminotransferases, should be monitored and appropriate therapy initiated.
 Delay in stopping treatment with TIVICAY or other suspect agents after the onset of hypersensitivity may result in a life-threatening reaction.

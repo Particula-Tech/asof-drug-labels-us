@@ -7,11 +7,11 @@ TIVICAY tablets may be taken with or without food.
 Table 1.
 Dosing Recommendations for TIVICAY in Adult Patients
 
-| Population | Recommended Dose |
+| Adult Population | Recommended Dose |
 | --- | --- |
 | Treatment-naïve or treatment-experienced INSTI-naïve | 50 mg once daily |
 | Treatment-naïve or treatment-experienced INSTI-naïve when coadministered with the following potent UGT1A/CYP3A inducers: efavirenz, fosamprenavir/ritonavir, tipranavir/ritonavir, or rifampin | 50 mg twice daily |
-| INSTI-experienced with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistancea [see Microbiology (12.4)] | 50 mg twice daily |
+| INSTI-experienced with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistancea (12.4) | 50 mg twice daily |
 
 a Alternative combinations that do not include metabolic inducers should be considered where possible [see Drug Interactions (7)].
 

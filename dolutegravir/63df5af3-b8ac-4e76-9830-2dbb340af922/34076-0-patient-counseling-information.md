@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Drug Interactions: TIVICAY should not be coadministered with dofetilide because interactions between these drugs can result in potentially life-threatening adverse events [see Contraindications (4)].
 
@@ -39,10 +39,10 @@ Physicians should instruct their patients that if they miss a dose, they should 
 If they do not remember until it is within 4 hours of the time for the next dose, they should be instructed to skip the missed dose and go back to the regular schedule.
 Patients should not double their next dose or take more than the prescribed dose.
 
-TIVICAY and EPZICOM are registered trademarks of ViiV Healthcare.
+TIVICAY and EPZICOM are registered trademarks of the ViiV Healthcare group of companies.
 
-The other brands listed are trademarks of their respective owners and are not trademarks of ViiV Healthcare.
-The makers of these brands are not affiliated with and do not endorse ViiV Healthcare or its products.
+The other brands listed are trademarks of their respective owners and are not trademarks of the ViiV Healthcare group of companies.
+The makers of these brands are not affiliated with and do not endorse the ViiV Healthcare group of companies or its products.
 
 Manufactured for:
 
@@ -56,7 +56,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, ViiV Healthcare.
+©2014, the ViiV Healthcare group of companies.
 All rights reserved.
 
-TVC:1PI
+TVC:2PI
