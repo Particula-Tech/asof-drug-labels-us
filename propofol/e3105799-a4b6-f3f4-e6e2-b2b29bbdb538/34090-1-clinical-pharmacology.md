@@ -6,7 +6,7 @@ DIPRIVAN Injectable Emulsion is an intravenous sedative-hypnotic agent for use i
 Intravenous injection of a therapeutic dose of propofol induces hypnosis, with minimal excitation, usually within 40 seconds from the start of injection (the time for one arm-brain circulation).
 As with other rapidly acting intravenous anesthetic agents, the half-time of the blood-brain equilibration is approximately 1 to 3 minutes, accounting for the rate of induction of anesthesia.
 The mechanism of action, like all general anesthetics, is poorly understood.
-However, propofol is thought to produce its sedative/anesthetic effects by the positive mondulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABAA receptors.
+However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABAA receptors.
 
 ## Pharmacodynamics
 
@@ -131,8 +131,8 @@ Neuroanesthesia
 
 DIPRIVAN Injectable Emulsion was studied in patients undergoing craniotomy for supratentorial tumors in two clinical trials.
 The mean lesion size (anterior/posterior x lateral) was 31 mm x 32 mm in one trial and 55 mm x 42 mm in the other trial respectively.
-Anesthesia was induced with a median Diprivan dose of 1.4 mg/kg (range: 0.9 to 6.9 mg/kg) and maintained with a median maintenance Diprivan dose of 146 mcg/kg/min (range: 68 to 425 mcg/kg/min).
-The median duration of the Diprivan maintenance infusion was 285 minutes (range: 48 to 622 minutes).
+Anesthesia was induced with a median DIPRIVAN dose of 1.4 mg/kg (range: 0.9 to 6.9 mg/kg) and maintained with a median maintenance DIPRIVAN dose of 146 mcg/kg/min (range: 68 to 425 mcg/kg/min).
+The median duration of the DIPRIVAN Injectable Emulsion maintenance infusion was 285 minutes (range: 48 to 622 minutes).
 
 DIPRIVAN Injectable Emulsion was administered by infusion in a controlled clinical trial to evaluate its effect on cerebrospinal fluid pressure (CSFP).
 The mean arterial pressure was maintained relatively constant over 25 minutes with a change from baseline of -4% ± 17% (mean ± SD).
@@ -168,11 +168,11 @@ For these patients, as well as for ARDS/respiratory failure and tetanus patients
 
 Pediatric Patients
 
-A single, randomized, controlled, clinical trial that evaluated the safety and effectiveness of DIPRIVAN versus standard sedative agents (SSA) was conducted on 327 pediatric ICU patients.
-Patients were randomized to receive either DIPRIVAN 2%, (113 patients), DIPRIVAN 1%, (109 patients), or an SSA (eg, lorazepam, chloral hydrate, fentanyl, ketamine, morphine, or phenobarbital).
-DIPRIVAN therapy was initiated at an infusion rate of 5.5 mg/kg/hr and titrated as needed to maintain sedation at a standardized level.
-The results of the study showed an increase in the number of deaths in patients treated with DIPRIVAN as compared to SSAs.
-Of the 25 patients who died during the trial or within the 28-day follow-up period: 12 (11% were) in the DIPRIVAN 2% treatment group, 9 (8% were) in the DIPRIVAN 1% treatment group, and 4% were (4%) in the SSA treatment group.
+A single, randomized, controlled, clinical trial that evaluated the safety and effectiveness of DIPRIVAN Injectable Emulsion versus standard sedative agents (SSA) was conducted on 327 pediatric ICU patients.
+Patients were randomized to receive either DIPRIVAN Injectable Emulsion2%, (113 patients), DIPRIVAN Injectable Emulsion1%, (109 patients), or an SSA (eg, lorazepam, chloral hydrate, fentanyl, ketamine, morphine, or phenobarbital).
+DIPRIVAN Injectable Emulsion therapy was initiated at an infusion rate of 5.5 mg/kg/hr and titrated as needed to maintain sedation at a standardized level.
+The results of the study showed an increase in the number of deaths in patients treated with DIPRIVAN Injectable Emulsion as compared to SSAs.
+Of the 25 patients who died during the trial or within the 28-day follow-up period: 12 (11% were) in the DIPRIVAN Injectable Emulsion 2% treatment group, 9 (8% were) in the DIPRIVAN Injectable Emulsion 1% treatment group, and 4% were (4%) in the SSA treatment group.
 The differences in mortality rate between the groups were not statistically significant.
 Review of the deaths failed to reveal a correlation with underlying disease status or a correlation to the drug or a definitive pattern to the causes of death.
 

@@ -24,4 +24,4 @@ DIPRIVAN Injectable Emulsion is not indicated for use in Pediatric ICU sedation 
 DIPRIVAN Injectable Emulsion is not recommended for obstetrics, including Cesarean section deliveries.
 DIPRIVAN Injectable Emulsion crosses the placenta, and as with other general anesthetic agents, the administration of DIPRIVAN Injectable Emulsion may be associated with neonatal depression (see PRECAUTIONS).
 
-DIPRIVAN Injectable Emulsion is not recommended for use in nursing mothers because DIPRIVAN Injectable Emulsion has been reported to be excreted in human milk, and the effects of oral absorption of small amounts of propofol are not known (see PRECAUTIONS).
+DIPRIVAN Injectable Emulsion is not recommended for use in nursing mothers because propofol has been reported to be excreted in human milk, and the effects of oral absorption of small amounts of propofol are not known (see PRECAUTIONS).

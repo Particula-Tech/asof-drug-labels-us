@@ -45,7 +45,10 @@ Incidence greater than 1% - Probably Causally Related
 | Metabolic/Nutritional: |  | Hyperlipemia* |
 | Respiratory: | Apnea(see also CLINICAL PHARMACOLOGY) | Respiratory Acidosis DuringWeaning* |
 | Skin and Appendages: | Rash [Peds: 5%]Pruritus [Peds: 2%] |  |
-| Events without an * or % had an incidence of 1% to 3%*Incidence of events 3% to 10% |  |  |
+
+Events without an * or % had an incidence of 1% to 3%
+
+*Incidence of events 3% to 10%
 
 Incidence less than 1% - Probably Causally Related
 
