@@ -4,12 +4,11 @@
 
 A multicenter, double-blind trial (ATAC) randomized 9,366 postmenopausal women with operable breast cancer to adjuvant treatment with anastrozole 1 mg daily, tamoxifen 20 mg daily, or a combination of the two treatments for five years or until recurrence of the disease.
 
-The primary endpoint of the trial was disease-free survival (i.e., time to occurrence of a distant or local recurrence, or contralateral breast cancer or death from any cause).
+The primary endpoint of the trial was disease-free survival (ie, time to occurrence of a distant or local recurrence, or contralateral breast cancer or death from any cause).
 Secondary endpoints of the trial included distant disease-free survival, the incidence of contralateral breast cancer and overall survival.
 At a median follow-up of 33 months, the combination of anastrozole and tamoxifen did not demonstrate any efficacy benefit when compared with tamoxifen in all patients as well as in the hormone receptor positive subpopulation.
 This treatment arm was discontinued from the trial.
-Based on clinical and pharmacokinetic results from the ATAC trial, tamoxifen should not be administered with anastrozole.
-[see Drug Interactions (7.1)]
+Based on clinical and pharmacokinetic results from the ATAC trial, tamoxifen should not be administered with anastrozole [see Drug Interactions (7.1)].
 
 Demographic and other baseline characteristics were similar among the three treatment groups (see Table 7).
 
@@ -53,7 +52,7 @@ Table 7 - Demographic and Baseline Characteristics for ATAC Trial
 
 Patients in the two monotherapy arms of the ATAC trial were treated for a median of 60 months (5 years) and followed for a median of 68 months.
 Disease-free survival in the intent- to-treat population was statistically significantly improved [Hazard Ratio (HR) = 0.87, 95% CI: 0.78, 0.97, p=0.0127] in the anastrozole arm compared to the tamoxifen arm.
-In the hormone receptor-positive subpopulation representing about 84% of the trial patients, disease-free survival was also statistically significantly improved (HR = 0.83, 95% CI: 0.73, 0.94, p=0.0049) in the anastrozole arm compared to the tamoxifen arm.
+In the hormone receptor-positive subpopulation representing about 84% of the trial patients, disease-free survival was also statistically significantly improved (HR =0.83, 95% CI: 0.73, 0.94, p=0.0049) in the anastrozole arm compared to the tamoxifen arm.
 
 Figure 1- Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC trial (Intent-to-Treat)
 
@@ -107,23 +106,27 @@ Table 9 - ATAC Efficacy SummaryThe combination arm was discontinued due to lack 
 In a subsequent analysis of the ATAC trial, patients in the two monotherapy arms were followed for a median of 120 months (10 years).
 Patients received study treatment for a median of 60 months (5 years) (see Table 10).
 
-Table 10 – Efficacy Summary
+Table 10 - Efficacy Summary
 
 |  | Number of Events |  | Number of Events |  |
 | --- | --- | --- | --- | --- |
-|  | Intent-To-Treat Population |  | Hormone Positive | Receptor- Subpopulation |
-|  | Anastrozole 1 mg (N=3125) | Tamoxifen 20 mg (N=3116) | Anastrozole 1 mg (N=2618) | Tamoxifen 20 mg (N=2598) |
-| Disease free Survival | 953 | 1022 | 735 | 924 |
+|  | Intent-To-Treat Population |  | Hormone Receptor-Positive Subpopulation |  |
+|  | Anastrozole1 mg(N=3125) | Tamoxifen20 mg(N=3116) | Anastrozole 1 mg(N=2618) | Tamoxifen20 mg(N=2598) |
+| Disease-free Survival | 953 | 1022 | 735 | 924 |
 | Hazard ratio | 0.91 |  | 0.86 |  |
 | 2-sided 95% CI | 0.83 to 0.99 |  | 0.78 to 0.95 |  |
 | p-value | 0.0365 |  | 0.0027 |  |
 | Overall Survival | 734 | 747 | 563 | 586 |
-| Hazard ratio | 0.97 |  | 0.95 |  |
-| 2-sided 95% CI | 0.88 to 1.08 |  | 0.84 to 1.06 |  |
+| Hazard ratio | 0.970.88 to 1.08 |  | 0.950.84 to 1.06 |  |
+| 2-sided 95% CI |  |  |  |  |
 
-Figure 3 - Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial (Intent-to-Treat) The proportion of patients with 120 months’ follow-up was 29.4%.
+Figure 3 - Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial (Intent-to-Treat)(a)
 
-Figure 4 - Disease-Free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial The proportion of patients with 120 months’ follow-up was 29.8%.
+a The proportion of patients with 120 months’ follow-up was 29.4%.
+
+Figure 4 - Disease-Free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial(b)
+
+bThe proportion of patients with 120 months’ follow-up was 29.8%.
 
 ## 14.2 First Line Therapy in Postmenopausal Women with Advanced Breast Cancer
 
@@ -135,51 +138,51 @@ The primary endpoints for both trials were time to tumor progression, objective 
 Demographics and other baseline characteristics, including patients who had measurable and no measurable disease, patients who were given previous adjuvant therapy, the site of metastatic disease and ethnic origin were similar for the two treatment groups for both trials.
 The following table summarizes the hormone receptor status at entry for all randomized patients in trials 0030 and 0027.
 
-Table 11 - Demographic and Other Baseline Characteristics
+Table 11 – Demographic and Other Baseline Characteristics
 
 | Receptor status | Anastrozole1 mg(n=171) | Tamoxifen20 mg(n=182) | Anastrozole1 mg(n=340) | Tamoxifen20 mg(n=328) |
 | --- | --- | --- | --- | --- |
 |  | Number (%) of subjects |  |  |  |
 |  | Trial 0030 |  | Trial 0027 |  |
 | ERER=Estrogen receptor and/or PgRPgR=Progesterone receptor | 151 (88.3) | 162 (89.0) | 154 (45.3) | 144 (43.9) |
-| ER unknown, PgR Unknown | 19 (11.1) | 20 (11.0) | 185 (54.4) | 183 (55.8) |
+| ER unknown, PgRunknown | 19 (11.1) | 20 (11.0) | 185 (54.4) | 183 (55.8) |
 
 For the primary endpoints, trial 0030 showed that anastrozole had a statistically significant advantage over tamoxifen (p=0.006) for time to tumor progression; objective tumor response rates were similar for anastrozole and tamoxifen.
 Trial 0027 showed that anastrozole and tamoxifen had similar objective tumor response rates and time to tumor progression (see Table 12 and Figures 5 and 6)
 
 Table 12 below summarizes the results of trial 0030 and trial 0027 for the primary efficacy endpoints.
 
-Table 12 – Efficacy Results of First-line Treatment
+Table 12– Efficacy Results of First-line Treatment
 
 |  | Anastrozole1 mg(n=171) | Tamoxifen20 mg(n=182) | Anastrozole1 mg(n=340) | Tamoxifen20 mg(n=328) |
 | --- | --- | --- | --- | --- |
 | End point | Trial 0030 |  | Trial 0027 |  |
 | Time to progression (TTP) |  |  |  |  |
 | Median TTP (months) | 11.1 | 5.6 | 8.2 | 8.3 |
-| Number (%) of subjects Who progressed | 114 (67%) | 138 (76%) | 249 (73%) | 247 (75%) |
-| Hazard ratio (LCLLCL=Lower Confidence Limit)Tamoxifen: Anastrozole | 1.42 (1.15) |  | 1.01 (0.87) |  |
+| Number (%) of subjectswho progressed | 114 (67%) | 138 (76%) | 249 (73%) | 247 (75%) |
+| Hazard ratio (LCLLCL=Lower Confidence Limit)Tamoxifen:Anastrozole | 1.42 (1.15) |  | 1.01 (0.87) |  |
 | 2-sided 95% CICI=Confidence Interval | (1.11, 1.82) |  | (0.85, 1.20) |  |
 | p-valueTwo-sided Log Rank | 0.006 |  | 0.920 |  |
 | Best objective response rate |  |  |  |  |
 | Number (%) of subjects With CRCR=Complete Response + PRPR=Partial Response | 36 (21.1%) | 31 (17.0%) | 112 (32.9%) | 107 (32.6%) |
 | Odds Ratio (LCL)Anastrozole:Tamoxifen | 1.30 (0.83) |  | 1.01 (0.77) |  |
 
-Figure 5 - Kaplan-Meier probability of time to disease progression for all randomized patients (intent-to-treat) in Trial 0030
+Figure 5 — Kaplan-Meier probability of time to disease progression for all randomized patients (intent to- treat) in Trial 0030
 
-Figure 6 - Kaplan-Meier probability of time to progression for all randomized patients (intent-to-treat) in Trial 0027
+Figure 6 — Kaplan-Meier probability of time to progression for all randomized patients (intent-to-treat) in Trial 0027
 
 Results from the secondary endpoints were supportive of the results of the primary efficacy endpoints.
 There were too few deaths occurring across treatment groups of both trials to draw conclusions on overall survival differences.
 
-## 14.3 Second-Line Therapy in Postmenopausal Women with Advanced Breast Cancer who had Disease Progression following Tamoxifen Therapy
+## 14.3 Second Line Therapy in Postmenopausal Women with Advanced Breast Cancer who had Disease Progression following Tamoxifen Therapy
 
 Anastrozole was studied in two controlled clinical trials (0004, a North American study; 0005, a predominately European study) in postmenopausal women with advanced breast cancer who had disease progression following tamoxifen therapy for either advanced or early breast cancer.
 Some of the patients had also received previous cytotoxic treatment.
 Most patients were ER-positive; a smaller fraction were ER-unknown or ER-negative; the ER-negative patients were eligible only if they had had a positive response to tamoxifen.
-Eligible patients with measurable and non-measurable disease were randomized to receive either a single daily dose of 1 mg or 10 mg of anastrozole or megestrol acetate 40 mg four times a day.
+Eligible patients with measurable and non-measurable disease were randomized to receive either a single daily dose of 1 mg or 10 mg of anastrozole. or megestrol acetate 40 mg four times a day.
 The studies were double-blinded with respect to anastrozole.
 Time to progression and objective response (only patients with measurable disease could be considered partial responders) rates were the primary efficacy variables.
-Objective response rates were calculated based on the Union Internationale Contre le Cancer (UICC) criteria.
+Objective response rates were cal culated based on the Union Internationale Contre le Cancer (UICC) criteria.
 The rate of prolonged (more than 24 weeks) stable disease, the rate of progression, and survival were also calculated.
 
 Both trials included over 375 patients; demographics and other baseline characteristics were similar for the three treatment groups in each trial.
@@ -194,7 +197,7 @@ On average, 40% of the patients had soft tissue metastases; 60% had bone metasta
 Efficacy results from the two studies were similar as presented in Table 13.
 In both studies there were no significant differences between treatment arms with respect to any of the efficacy parameters listed in the table below.
 
-Table 13 – Efficacy Results of Second-line Treatment
+Table 13– Efficacy Results of Second-line Treatment
 
 |  | Anastrozole1 mg | Anastrozole10 mg | MegestrolAcetate160 mg |
 | --- | --- | --- | --- |

@@ -3,7 +3,7 @@
 Serious adverse reactions with anastrozole occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
 This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see Adverse Reactions (6.2)].
 
-Common adverse reactions (occurring with an incidence of >10%) in women taking anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
+Common adverse reactions (occurring with an incidence of ≥10%) in women taking anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
 In the ATAC trial, the most common reported adverse reaction (>0.1%) leading to discontinuation of therapy for both treatment groups was hot flashes, although there were fewer patients who discontinued therapy as a result of hot flashes in the anastrozole group.
 
@@ -137,9 +137,9 @@ Cholesterol
 During the ATAC trial, more patients receiving anastrozole were reported to have an elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively).
 
 A post-marketing trial also evaluated any potential effects of anastrozole on lipid profile.
-In the primary analysis population for lipids (anastrozole alone), there was no clinically significant change in LDL-C from baseline to 12 months and HDL-C from baseline to 12 months
+In the primary analysis population for lipids (anastrozole alone), there was no clinically significant change in LDL-C from baseline to 12 months and HDL-C from baseline to 12 months.
 
-In secondary population for lipids (anastrozole + risedronate), there also was no clinically significant change in LDL-C and HDL-C from baseline to 12 months.
+In secondary population for lipids (anastrozole+risedronate), there also was no clinically significant change in LDL-C and HDL-C from baseline to 12 months.
 
 In both populations for lipids, there was no clinically significant difference in total cholesterol (TC) or serum triglycerides (TG) at 12 months compared with baseline.
 
@@ -155,7 +155,7 @@ Patients receiving anastrozole had an increase in the incidence of all fractures
 
 Patients receiving anastrozole had a higher incidence of carpal tunnel syndrome [78 (2.5%)] compared with patients receiving tamoxifen [22 (0.7%)].
 
-Vaginal bleeding occurred more frequently in the tamoxifen-treated patients versus the anastrozole-treated patients 317 (10%) versus 167 (5%), respectively.
+Vaginal bleeding occurred more frequently in the tamoxifen-treated patients versus the anastrozole -treated patients 317 (10%) versus 167 (5%), respectively.
 
 Patients receiving anastrozole had a lower incidence of hot flashes, vaginal bleeding, vaginal discharge, endometrial cancer, venous thromboembolic events and ischemic cerebrovascular events compared with patients receiving tamoxifen.
 
@@ -200,7 +200,7 @@ Table 3 — Adverse Reactions Occurring with an Incidence of at Least 5% in Tria
 | Anorexia | 26 (5) | 46 (9) |
 | Metabolic and Nutritional |  |  |
 | Peripheral edema | 51 (10) | 41 (8) |
-| Muscoloskeletal |  |  |
+| Musculoskeletal |  |  |
 | Bone pain | 54 (11) | 52 (10) |
 | Nervous |  |  |
 | Dizziness | 30 (6) | 22 (4) |
@@ -243,9 +243,9 @@ Table 4 — Number of Patients with Pre-specified Adverse Reactions in Trials 00
 Anastrozole was tolerated in two controlled clinical trials (i.e., Trials 0004 and 0005), with less than 3.3% of the anastrozole-treated patients and 4.0% of the megestrol acetate-treated patients withdrawing due to an adverse reaction.
 
 The principal adverse reaction more common with anastrozole than megestrol acetate was diarrhea.
-Adverse reactions reported in greater than 5% of the patients in any of the treatment groups in these two well-controlled clinical trials, regardless of causality, are presented below:
+Adverse reactions reported in greater than 5% of the patients in any of the treatment groups in these two controlled clinical trials, regardless of causality, are presented below:
 
-Table 5 — Number (N) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005A patient may have had more then one adverse reaction.
+Table 5 — Number (N) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005A patient may have had more than one adverse reaction
 
 | n | % | n | % | n | % |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -312,7 +312,7 @@ The results are shown in the table below.
 
 Table 6 — Number (n) and Percentage of Patients with Pre-specified Adverse Reactions in Trials 0004 and 0005
 
-| Adverse Event Group | n | (%) | n | (%) | n | (%) |
+| Adverse Reaction Group | n | (%) | n | (%) | n | (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Anastrozole |  | Anastrozole |  | Megestrol Acetate |  |
 | 1 mg |  | 10 mg |  | 160 mg |  |  |
@@ -326,11 +326,15 @@ Table 6 — Number (n) and Percentage of Patients with Pre-specified Adverse Rea
 
 ## 6.2 Post-Marketing Experience
 
-Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase have been reported (≤1% and <10%) and gamma-GT, bilirubin and hepatitis have been reported (≤0.1% and <1%) in patients receiving anastrozole.
+These adverse reactions are reported voluntarily from a population of uncertain size.
+Therefore, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
+The following have been reported in post-approval use of anastrozole:
 
-Anastrozole may also be associated with rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome.
+Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
 
-Cases of allergic reactions including angioedema, urticaria and anaphylaxis have been reported in patients receiving anastrozole.
+Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome.
+
+Cases of allergic reactions including angioedema, urticaria and anaphylaxis.
 [see Contraindications (4.2)]
 
-Trigger finger has been reported (>0.1% and <1%) in patients receiving anastrozole.
+Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)

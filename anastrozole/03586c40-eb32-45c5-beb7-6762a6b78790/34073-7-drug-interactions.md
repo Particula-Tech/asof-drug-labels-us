@@ -3,9 +3,10 @@
 ## 7.1 Tamoxifen
 
 Co-administration of anastrozole and tamoxifen in breast cancer patients reduced anastrozole plasma concentration by 27%.
-However, the co-administration did not affect the pharmacokinetics of tamoxifen or N-desmethyltamoxifen.
+However, the co-administration of anastrozole and tamoxifen did not affect the pharmacokinetics of tamoxifen or N-desmethyltamoxifen.
 At a median follow-up of 33 months, the combination of anastrozole and tamoxifen did not demonstrate any efficacy benefit when compared with tamoxifen in all patients as well as in the hormone receptor-positive subpopulation.
-This treatment arm was discontinued from the trial [see Clinical Studies (14.1)].
+This treatment arm was discontinued from the trial.
+[see Clinical Studies (14.1)].
 Based on clinical and pharmacokinetic results from the ATAC trial, tamoxifen should not be administered with anastrozole.
 
 ## 7.2 Estrogen
@@ -18,4 +19,4 @@ In a study conducted in 16 male volunteers, anastrozole did not alter the exposu
 
 ## 7.4 Cytochrome P450
 
-Based on in vitro and in vivo results, it is unlikely that co-administration of anastrozole 1 mg will affect other drugs as a result inhibition of cytochrome P450 [see Clinical Pharmacology (12.3)].
+Based on in vitro and in vivo results, it is unlikely that co-administration of anastrozole 1 mg will affect other drugs as a result of inhibition of cytochrome P450 [see Clinical Pharmacology (12.3)].
