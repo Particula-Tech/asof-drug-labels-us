@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-CAMPTOSAR Injection is contraindicated in patients with a known hypersensitivity to the drug or its excipients.
+- CAMPTOSAR Injection is contraindicated in patients with a known hypersensitivity to the drug or its excipients.

@@ -1,3 +1,15 @@
+# PRINCIPAL DISPLAY PANEL - 40 mg/2 mL Vial Label
+
+Rx ONLY
+
+Camptosar® irinotecan HCl injection
+
+For IV Use Only
+
+NOVAPLUS®
+
+40 mg/2 mL (20 mg/mL)
+
 # PRINCIPAL DISPLAY PANEL - 40 mg/2 mL Vial Carton
 
 NDC 0009-1111-01
