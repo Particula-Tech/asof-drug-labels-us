@@ -32,9 +32,9 @@ Rx only
 
 TARO
 
-# PRINCIPAL DISPLAY PANEL - 30 g Tube Carton
+# PRINCIPAL DISPLAY PANEL - 60 g Tube Carton
 
-NDC 51672-1259-2
+NDC 51672-1259-3
 
 Clobetasol Propionate Ointment USP, 0.05%
 
@@ -43,7 +43,7 @@ NOT FOR OPHTHALMIC USE.
 
 Keep this and all medications out of the reach of children.
 
-30 g
+60 g
 
 Rx only
 
