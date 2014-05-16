@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism Of Action
+Mechanism of Action
 
 Angiotensin II [formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II)], is a potent vasoconstrictor, the primary vasoactive hormone of the renin-angiotensin system and an important component in the pathophysiology of hypertension.
 It also stimulates aldosterone secretion by the adrenal cortex.
@@ -12,7 +12,7 @@ The active metabolite is 10 to 40 times more potent by weight than losartan and 
 
 Neither losartan nor its active metabolite inhibits ACE (kininase II, the enzyme that converts angiotensin I to angiotensin II and degrades bradykinin); nor do they bind to or block other hormone receptors or ion channels known to be important in cardiovascular regulation.
 
-## Pharmacokinetics General
+Pharmacokinetics General
 
 Losartan is an orally active agent that undergoes substantial first-pass metabolism by cytochrome P450 enzymes.
 It is converted, in part, to an active carboxylic acid metabolite that is responsible for most of the angiotensin II receptor antagonism that follows losartan treatment.
@@ -45,7 +45,7 @@ Both losartan and its active metabolite are highly bound to plasma proteins, pri
 Plasma protein binding is constant over the concentration range achieved with recommended doses.
 Studies in rats indicate that losartan crosses the blood-brain barrier poorly, if at all.
 
-## Special Populations
+Special Populations
 
 Pediatric: Pharmacokinetic parameters after multiple doses of losartan (average dose 0.7 mg/kg, range 0.36 to 0.97 mg/kg) as a tablet to 25 hypertensive patients aged 6 to 16 years are shown in Table 1 below.
 Pharmacokinetics of losartan and its active metabolite were generally similar across the studied age groups and similar to historical pharmacokinetic data in adults.
@@ -55,10 +55,10 @@ The principal pharmacokinetic parameters in adults and children are shown in the
 | --- | --- | --- | --- | --- |
 |  | Adults given 50 mg once daily for 7 days N=12 |  | Age 6-16 given 0.7 mg/kg once daily for 7 days N=25 |  |
 |  | Parent | Active Metabolite | Parent | Active Metabolite |
-| AUC0-24Mean ± standard deviation(ng•h/mL) | 442 ± 173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
+| AUC0-24 (ng•h/mL)Mean ± standard deviation | 442 ± 173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
 | Cmax (ng/mL) | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
 | T1/2 (h)Harmonic mean and standard deviation | 2.1 ± 0.70 | 7.4 ± 2.4 | 2.3 ± 0.8 | 5.6 ± 1.2 |
-| Tpeak (h)Median | 0.9 | 3.5 | 2.0 | 4.1 |
+| T (h)Median | 0.9 | 3.5 | 2.0 | 4.1 |
 | CLren (mL/min) | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
 
 The bioavailability of the suspension formulation was compared with losartan tablets in healthy adults.
@@ -80,7 +80,7 @@ Hepatic Insufficiency: Following oral administration in patients with mild to mo
 Compared to normal subjects the total plasma clearance of losartan in patients with hepatic insufficiency was about 50% lower and the oral bioavailability was about 2-times higher.
 A lower starting dose is recommended for patients with a history of hepatic impairment (see DOSAGE AND ADMINISTRATION).
 
-## Drug Interactions
+Drug Interactions
 
 Losartan, administered for 12 days, did not affect the pharmacokinetics or pharmacodynamics of a single dose of warfarin.
 Losartan did not affect the pharmacokinetics of oral or intravenous digoxin.
@@ -92,7 +92,7 @@ Fluconazole, an inhibitor of cytochrome P450 2C9, decreased the AUC of the activ
 Conversion of losartan to its active metabolite after intravenous administration is not affected by ketoconazole, an inhibitor of P450 3A4.
 The AUC of active metabolite following oral losartan was not affected by erythromycin, another inhibitor of P450 3A4, but the AUC of losartan was increased by 30%.
 
-## Pharmacodynamics and Clinical Effects
+Pharmacodynamics and Clinical Effects
 
 Adult Hypertension Losartan inhibits the pressor effect of angiotensin II (as well as angiotensin I) infusions.
 A dose of 100 mg inhibits the pressor effect by about 85% at peak with 25-40% inhibition persisting for 24 hours.
@@ -131,7 +131,7 @@ Children in the lowest dose group were given losartan in a suspension formulatio
 The majority of the children had hypertension associated with renal and urogenital disease.
 The sitting diastolic blood pressure (SiDBP) on entry into the study was higher than the 95th percentile level for the patient’s age, gender, and height.
 At the end of three weeks, losartan reduced systolic and diastolic blood pressure, measured at trough, in a dose-dependent manner.
-Overall, the two higher doses (25 to 50 mg in patients<50 kg; 50 to 100 mg in patients ≥50 kg) reduced diastolic blood pressure by 5 to 6 mmHg more than the lowest dose used (2.5 mg in patients <50 kg; 5 mg in patients ≥50 kg).
+Overall, the two higher doses (25 to 50 mg in patients <50 kg; 50 to 100 mg in patients ≥50 kg) reduced diastolic blood pressure by 5 to 6 mmHg more than the lowest dose used (2.5 mg in patients <50 kg; 5 mg in patients ≥50 kg).
 The lowest dose, corresponding to an average daily dose of 0.07 mg/kg, did not appear to offer consistent antihypertensive efficacy.
 When patients were randomized to continue losartan at the two higher doses or to placebo after 3 weeks of therapy, trough diastolic blood pressure rose in patients on placebo between 5 and 7 mmHg more than patients randomized to continuing losartan.
 When the low dose of losartan was randomly withdrawn, the rise in trough diastolic blood pressure was the same in patients receiving placebo and in those continuing losartan, again suggesting that the lowest dose did not have significant antihypertensive efficacy.

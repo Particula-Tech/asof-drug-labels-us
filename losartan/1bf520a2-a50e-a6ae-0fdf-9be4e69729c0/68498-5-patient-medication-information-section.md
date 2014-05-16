@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+# Patient Information
 
 LOSARTAN POTASSIUM TABLETS USP 25 mg, 50 mg, and 100 mg Rx Only
 
@@ -8,10 +8,9 @@ This leaflet does not take the place of talking with your doctor about your cond
 
 What is the most important information I should know about LOSARTAN POTASSIUM tablets?
 
-- Do not take LOSARTAN POTASSIUM tablets if you are pregnant or plan to become pregnant.
-  LOSARTAN POTASSIUM tablets can harm your unborn baby causing injury and even death.
-  Stop taking LOSARTAN POTASSIUM tablets if you become pregnant and call your doctor right away.
-  If you plan to become pregnant, talk to your doctor about other treatment options before taking LOSARTAN POTASSIUM tablets.
+- LOSARTAN POTASSIUM tablets can cause harm or death to an unborn baby.
+- Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+- If you get pregnant while taking LOSARTAN POTASSIUM TABLETS, tell your doctor right away.
 
 What is LOSARTAN POTASSIUM tablet?
 
@@ -44,8 +43,6 @@ If you have diabetic nephropathy it means that your kidneys do not work properly
 
 What should I tell my doctor before taking LOSARTAN POTASSIUM tablets?
 
-Tell your doctor about all of your medical conditions including if you:
-
 - are pregnant or planning to become pregnant.
   See “What is the most important information I should know about LOSARTAN POTASSIUM tablets?”
 - are breast-feeding.
@@ -56,9 +53,6 @@ Tell your doctor about all of your medical conditions including if you:
 - have kidney problems
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-
-LOSARTAN POTASSIUM tablets and certain other medicines may interact with each other.
-Especially tell your doctor if you are taking:
 
 - potassium supplements
 - salt substitutes containing potassium
@@ -76,8 +70,6 @@ Especially tell your doctor if you are taking:
 
 What are the possible side effects of LOSARTAN POTASSIUM tablets?
 
-LOSARTAN POTASSIUM tablets may cause the following side effects that may be serious:
-
 - Injury or death of unborn babies.
   See “What is the most important information I should know about LOSARTAN POTASSIUM tablets?”
 - Allergic reaction.
@@ -90,14 +82,10 @@ LOSARTAN POTASSIUM tablets may cause the following side effects that may be seri
 - For people who already have kidney problems, you may see a worsening in how well your kidneys work.
   Call your doctor if you get swelling in your feet, ankles, or hands, or unexplained weight gain.
 
-The most common side effects of LOSARTAN POTASSIUM tablets in people with high blood pressure are:
-
 - “colds” (upper respiratory infection)
 - dizziness
 - stuffy nose
 - back pain
-
-The most common side effects of LOSARTAN POTASSIUM tablets in people with type 2 diabetes with diabetic kidney disease are:
 
 - diarrhea
 - tiredness
@@ -115,9 +103,7 @@ For a complete list, ask your doctor or pharmacist.
 - Keep LOSARTAN POTASSIUM tablets in a tightly closed container that protects the medicine from light.
 - Keep LOSARTAN POTASSIUM tablets and all medicines out of the reach of children.
 
-General information about LOSARTAN POTASSIUM tablets
-
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+General information about LOSARTAN POTASSIUM tablets Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use LOSARTAN POTASSIUM tablets for a condition for which it was not prescribed.
 Do not give LOSARTAN POTASSIUM tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -132,6 +118,6 @@ Active Ingredients: losartan potassium, USP
 
 Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelatinized starch, magnesium stearate, hydroxypropyl cellulose, hypromellose, titanium dioxide, D&C yellow No. 10 aluminum lake and FD&C blue No. 2 aluminum lake.
 
-Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD21801, USA
+Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA
 
-0333/PIL-04 Rev. # 04/13
+0333/PIL Rev. # 01/2014
