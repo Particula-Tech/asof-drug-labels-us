@@ -2,6 +2,8 @@
 
 Side effects reported with the administration of Vistaril are usually mild and transitory in nature.
 
+Skin and Appendages: Oral hydroxyzine hydrochloride is associated with fixed drug eruptions in post-marketing reports.
+
 Anticholinergic: Dry mouth.
 
 Central Nervous System: Drowsiness is usually transitory and may disappear in a few days of continued therapy or upon reduction of the dose.
