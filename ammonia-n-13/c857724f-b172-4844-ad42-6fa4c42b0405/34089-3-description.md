@@ -22,7 +22,7 @@ Table 2: Principal Radiation Emission Data for Nitrogen 13
 | Positron(β+) | 100 | 1190 keV (Max.) |
 | Gamma(±)* | 200 | 511 keV |
 
-*Produced by positron annihilation The specific gamma ray constant (point source air kerma coefficient) for nitrogen N13 is 5.9 R/hr/mCi (1.39 x 10 -6 Gy/hr/kBq) at 1 cm.
+*Produced by positron annihilation The specific gamma ray constant (point source air kerma coefficient) for nitrogen N13 is 5.9 R/hr/mCi (1.39 x 10-6 Gy/hr/kBq) at 1 cm.
 The half-value layer (HVL) of lead (Pb) for 511 keV photons is 4 mm.
 Selected coefficients of attenuation are listed in Table 3 as a function of lead shield thickness.
 For example, the use of 39 mm thickness of lead will attenuate the external radiation by a factor of about 1000.
