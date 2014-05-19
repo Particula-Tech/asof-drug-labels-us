@@ -161,30 +161,30 @@ Protocol 305- Patients with Esophageal Candidiasis Clinically Significant Labora
 Table 4.
 Protocol 307/602- Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
-|  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin BAmphotericin B followed by other licensed antifungal therapy |
-| --- | --- | --- | --- |
-|  |  | n/N (%) | n/N (%) |
-| T. Bilirubin | > 1.5 x ULN | 35/180 (19.4) | 46/173 (26.6) |
-| AST | > 3 x ULN | 21/180 (11.7) | 18/174 (10.3) |
-| ALT | > 3 x ULN | 34/180 (18.9) | 40/173 (23.1) |
-| Alk phos | > 3 x ULN | 29/181 (16) | 38/173 (22) |
-| Creatinine | > 1.3 x ULN | 39/182 (21.4) | 102/177 (57.6) |
-| Potassium | < 0.9 x LLN | 30/181 (16.6) | 70/178 (39.3) |
-| n number of patients with a clinically significant abnormality while on study therapy N total number of patients with at least one observation of the given lab test while on study therapy ULN upper limit of normal LLN lower limit of normal |  |  |  |
+|  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin BAmphotericin B followed by other licensed antifungal therapy |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | n/N (%) | n/N (%) |  |  |  |  |
+| T. Bilirubin | > 1.5 x ULN | 35/180 (19.4) | 46/173 (26.6) |  |  |  |  |
+| AST | > 3 x ULN | 21/180 (11.7) | 18/174 (10.3) |  |  |  |  |
+| ALT | > 3 x ULN | 34/180 (18.9) | 40/173 (23.1) |  |  |  |  |
+| Alk phos | > 3 x ULN | 29/181 (16) | 38/173 (22) |  |  |  |  |
+| Creatinine | > 1.3 x ULN | 39/182 (21.4) | 102/177 (57.6) |  |  |  |  |
+| Potassium | < 0.9 x LLN | 30/181 (16.6) | 70/178 (39.3) |  |  |  |  |
+| n number of patients with a clinically significant abnormality while on study therapy N total number of patients with at least one observation of the given lab test while on study therapy ULN upper limit of normal LLN lower limit of normal |  |  |  |  |  |  |  |
 
 Table 5.
 Protocol 608- Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
-|  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin B followed by Fluconazole |
-| --- | --- | --- | --- |
-|  |  | n/N (%) | n/N (%) |
-| T. Bilirubin | > 1.5 x ULN | 50/261 (19.2) | 31/115 (27) |
-| AST | > 3 x ULN | 40/261 (15.3) | 16/116 (13.8) |
-| ALT | > 3 x ULN | 22/261 (8.4) | 15/116 (12.9) |
-| Alk phos | > 3 x ULN | 59/261 (22.6) | 26/115 (22.6) |
-| Creatinine | > 1.3 x ULN | 39/260 (15) | 32/118 (27.1) |
-| Potassium | < 0.9 x LLN | 43/258 (16.7) | 35/118 (29.7) |
-| n number of patients with a clinically significant abnormality while on study therapy N total number of patients with at least one observation of the given lab test while on study therapy ULN upper limit of normal LLN lower limit of normal |  |  |  |
+|  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin B followed by Fluconazole |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | n/N (%) | n/N (%) |  |  |  |  |  |  |  |  |
+| T. Bilirubin | > 1.5 x ULN | 50/261 (19.2) | 31/115 (27) |  |  |  |  |  |  |  |  |
+| AST | > 3 x ULN | 40/261 (15.3) | 16/116 (13.8) |  |  |  |  |  |  |  |  |
+| ALT | > 3 x ULN | 22/261 (8.4) | 15/116 (12.9) |  |  |  |  |  |  |  |  |
+| Alk phos | > 3 x ULN | 59/261 (22.6) | 26/115 (22.6) |  |  |  |  |  |  |  |  |
+| Creatinine | > 1.3 x ULN | 39/260 (15) | 32/118 (27.1) |  |  |  |  |  |  |  |  |
+| Potassium | < 0.9 x LLN | 43/258 (16.7) | 35/118 (29.7) |  |  |  |  |  |  |  |  |
+| n number of patients with a clinically significant abnormality while on study therapy N total number of patients with at least one observation of the given lab test while on study therapy ULN upper limit of normal LLN lower limit of normal |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 6.4 Post-Marketing Experience
 
