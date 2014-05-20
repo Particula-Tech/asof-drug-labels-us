@@ -125,7 +125,7 @@ Your doctor will check your blood regularly while you are taking TEMODAR to see 
 Your doctor may need to change the dose of TEMODAR or when you get it depending on your blood cell counts.
 People who are age 70 or older and women may be more likely to have their blood cells affected.
 
-- Pneumocystis carinii Pneumonia (PCP).
+- Pneumocystis pneumonia (PCP).
   PCP is an infection that people can get when their immune system is weak.
   TEMODAR decreases white blood cells, which makes your immune system weaker and can increase your risk of getting PCP.
   All patients taking TEMODAR will be watched carefully by their doctor for this infection, especially patients who take steroids.
@@ -135,6 +135,7 @@ People who are age 70 or older and women may be more likely to have their blood 
   Your doctor will watch you for this.
 - Convulsions.
   Convulsions may be severe or life-threatening in people who take TEMODAR.
+- Liver side effects have been reported, which very rarely included death.
 
 Common side effects with TEMODAR include:
 

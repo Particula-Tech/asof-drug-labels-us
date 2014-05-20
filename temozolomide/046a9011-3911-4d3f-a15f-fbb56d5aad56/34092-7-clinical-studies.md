@@ -8,7 +8,7 @@ This was followed by 6 cycles of TEMODAR alone (150 or 200 mg/m2) on Days 1 to 5
 Patients in the control arm received RT only.
 In both arms, focal radiation therapy was delivered as 60 Gy/30 fractions.
 Focal RT includes the tumor bed or resection site with a 2- to 3-cm margin.
-Pneumocystis carinii pneumonia (PCP) prophylaxis was required during the TMZ+RT, regardless of lymphocyte count, and was to continue until recovery of lymphocyte count to less than or equal to Grade 1.
+Pneumocystis pneumonia (PCP) prophylaxis was required during the TMZ+RT, regardless of lymphocyte count, and was to continue until recovery of lymphocyte count to less than or equal to Grade 1.
 
 At the time of disease progression, TEMODAR was administered as salvage therapy in 161 patients of the 282 (57%) in the RT alone arm, and 62 patients of the 277 (22%) in the TEMODAR+RT arm.
 

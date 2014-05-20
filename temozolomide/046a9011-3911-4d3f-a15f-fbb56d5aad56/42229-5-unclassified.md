@@ -1,22 +1,14 @@
-TEMODAR Capsules Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-TEMODAR for Injection Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: Baxter Oncology GmbH, Halle 33790, Germany
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 1999, 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2013
+Revised: 05/2014
 
-uspi-mk7365-mtl-1306r015
+uspi-mk7365-mtl-1405r016
 
-TEMODAR Capsules Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-TEMODAR for Injection Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: Baxter Oncology GmbH, Halle 33790, Germany
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 For patent information: www.merck.com/product/patent/home.html
 
@@ -24,9 +16,9 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 1999, 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2013
+Revised: 05/2014
 
-ppi-mk7365-mtl-1306r007
+usppi-mk7365-mtl-1405r008
 
 TEMODAR® (temozolomide) for Injection
 
@@ -70,7 +62,7 @@ No dose reductions are recommended; however, dose interruptions may occur based 
 The TEMODAR dose can be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count greater than or equal to 1.5 × 109/L, platelet count greater than or equal to 100 × 109/L, common toxicity criteria (CTC) non-hematological toxicity less than or equal to Grade 1 (except for alopecia, nausea, and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and non-hematological toxicity criteria as noted in Table 1 of the Full Prescribing Information under 2.1 Recommended Dosing and Dose Modification Guidelines.
-Pneumocystis carinii pneumonia (PCP) prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
+Pneumocystis pneumonia (PCP) prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
 
 Maintenance Phase Treatment Schedule
 
@@ -159,19 +151,15 @@ TEMODAR is also available as capsules in 5-mg, 20-mg, 100-mg, 140-mg, 180-mg, an
    Chemotherapy and biotherapy guidelines and recommendations for practice (2nd. ed.)
    Pittsburgh, PA: Oncology.
 
-TEMODAR for Injection
-
-Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: Baxter Oncology GmbH, Halle 33790, Germany
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2013
+Revised: 05/2014
 
-phi-mk7365-pwi-1306r013
+usphi-mk7365-pwi-1405r014
 
 TEMODAR® (temozolomide) Capsules
 
@@ -214,7 +202,7 @@ No dose reductions are recommended; however, dose interruptions may occur based 
 The TEMODAR dose can be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count greater than or equal to 1.5 × 109/L, platelet count greater than or equal to 100 ×109/L, common toxicity criteria (CTC) nonhematological toxicity less than or equal to Grade 1 (except for alopecia, nausea and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and nonhematological toxicity criteria as noted in Table 2.
-Pneumocystis carinii pneumonia (PCP) prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC grade less than or equal to 1).
+Pneumocystis pneumonia (PCP) prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC grade less than or equal to 1).
 
 TABLE 2: Temozolomide Dosing Interruption or Discontinuation During Concomitant Radiotherapy and Temozolomide
 
@@ -352,14 +340,12 @@ For examples of other dosing regimens, please refer to the full Prescribing Info
 | 180-mg capsules (14 count) | 0085-1430-04 |
 | 250-mg capsules (5 count) | 0085-1417-02 |
 
-TEMODAR Capsules
-
-Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 06/2013
+Revised: 05/2014
 
-phi-mk7365-cp-1306r009
+usphi-mk7365-cp-1405r010

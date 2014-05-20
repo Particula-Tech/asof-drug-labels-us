@@ -168,12 +168,15 @@ Adverse reactions probably related to treatment that were reported from the 2 st
 The following adverse reactions have been identified during postapproval use of TEMODAR.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to the drug exposure.
 
-TEMODAR Capsules: allergic reactions, including anaphylaxis, have been reported.
-Erythema multiforme has been reported, which resolved after discontinuation of TEMODAR and, in some cases, recurred upon rechallenge.
-Cases of toxic epidermal necrolysis and Stevens-Johnson syndrome have been reported.
+Dermatologic disorders: Toxic epidermal necrolysis and Stevens-Johnson syndrome
 
-There have been reported cases of hepatotoxicity, including elevations of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis.
+Immune system disorders: Allergic reactions, including anaphylaxis.
+Erythema multiforme, which resolved after discontinuation of TEMODAR and, in some cases, recurred upon rechallenge.
 
-Opportunistic infections including Pneumocystis carinii pneumonia (PCP) have also been reported.
-Cases of interstitial pneumonitis/pneumonitis, alveolitis, and pulmonary fibrosis have been reported.
-Prolonged pancytopenia, which may result in aplastic anemia, has been reported, and in some cases has resulted in a fatal outcome.
+Hematopoietic disorders: Prolonged pancytopenia, which may result in aplastic anemia and fatal outcomes [see Warnings and Precautions (5.1)].
+
+Hepatobiliary disorders: Fatal and severe hepatotoxicity, elevation of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis [see Warnings and Precautions (5.5)].
+
+Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.3)].
+
+Pulmonary disorders: Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.

@@ -18,7 +18,7 @@ No dose reductions are recommended during the concomitant phase; however, dose i
 The TEMODAR dose should be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count greater than or equal to 1.5 × 109/L, platelet count greater than or equal to 100 × 109/L, common toxicity criteria (CTC) nonhematological toxicity less than or equal to Grade 1 (except for alopecia, nausea, and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and nonhematological toxicity criteria as noted in Table 1.
-Pneumocystis carinii pneumonia (PCP) prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
+Pneumocystis pneumonia (PCP) prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
 
 TABLE 1: Temozolomide Dosing Interruption or Discontinuation During Concomitant Radiotherapy and Temozolomide
 
