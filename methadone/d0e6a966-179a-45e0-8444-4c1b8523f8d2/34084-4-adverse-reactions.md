@@ -1,12 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions and/or conditions are discussed elsewhere in the labeling:
+The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- •Respiratory Depression [see Warnings and Precautions (5.2)]
+- •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- •Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - •QT Prolongation [see Warnings and Precautions (5.3)]
-- •Chronic Pulmonary Disease [see Warnings and Precautions (5.6)]
-- •Head Injuries and Increased Intracranial Pressure [see Warnings and Precautions (5.9)]
-- •Interactions with Other CNS Depressants [see Warnings and Precautions (5.7)]
+- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- •Interactions with Other CNS Depressants [see Warnings and Precautions (5.5)]
 - •Hypotensive Effect [see Warnings and Precautions (5.8)]
 - •Gastrointestinal Effects [see Warnings and Precautions (5.10)]
 - •Seizures [see Warnings and Precautions (5.11)]

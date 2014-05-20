@@ -20,5 +20,3 @@ In contrast, methadone tested negative in tests for chromosome breakage and disj
 
 Fertility: Published animal studies show that methadone treatment of males can alter reproductive function.
 Methadone produces a significant regression of sex accessory organs and testes of male mice and rats.
-
-## 13.2 Animal Toxicology and/or Pharmacology

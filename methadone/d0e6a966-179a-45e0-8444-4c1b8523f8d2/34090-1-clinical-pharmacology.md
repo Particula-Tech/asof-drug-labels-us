@@ -10,8 +10,6 @@ Some data also indicate that methadone acts as an antagonist at the N-methyl-D-a
 The contribution of NMDA receptor antagonism to methadone’s efficacy is unknown.
 Other NMDA receptor antagonists have been shown to produce neurotoxic effects in animals.
 
-## 12.2 Pharmacodynamics
-
 ## 12.3 Pharmacokinetics
 
 Absorption: Following oral administration the bioavailability of methadone ranges between 36 to 100% and peak plasma concentrations are achieved between 1 to 7.5 hours.
@@ -35,7 +33,7 @@ The slow release from the liver and other tissues may prolong the duration of me
 
 Drug Interactions: Cytochrome P450 Interactions: Methadone undergoes hepatic N-demethylation by cytochrome P450 (CYP) isoforms, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6.
 Coadministration of methadone with CYP inducers may result in more rapid metabolism and potential for decreased effects of methadone, whereas administration with CYP inhibitors may reduce metabolism and potentiate methadone’s effects.
-Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity [see Drug Interactions (7.1)].
+Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity [see Drug Interactions (7.2)].
 Therefore, drugs administered concomitantly with methadone should be evaluated for interaction potential; clinicians are advised to evaluate individual response to drug therapy.
 
 Cytochrome P450 Inducers: The following drug interactions were reported following coadministration of methadone with known inducers of cytochrome P450 enzymes:
@@ -53,13 +51,13 @@ Voriconazole: Repeat dose administration of oral voriconazole (400 mg every 12 h
 The Cmax and AUC of (S)-methadone increased by 65% and 103%, respectively.
 Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation.
 Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration.
-Dose reduction of methadone may be needed [see Drug Interactions (7.1)].
+Dose reduction of methadone may be needed [see Drug Interactions (7.2)].
 
 Antiretroviral Drugs: Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity.
 
-Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir,tipranvir+ritonavir combination: Coadministration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7.1)].
+Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranvir+ritonavir combination:Coadministration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7.2)].
 
-Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
-Methadone disposition was not substantially altered [see Drug Interactions (7.1)].
+Didanosine and Stavudine:Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
+Methadone disposition was not substantially altered [see Drug Interactions (7.2)].
 
-Zidovudine: Methadone increased the AUC of zidovudine which could result in toxic effects [see Drug Interactions (7.1)].
+Zidovudine:Methadone increased the AUC of zidovudine which could result in toxic effects [see Drug Interactions (7.2)].

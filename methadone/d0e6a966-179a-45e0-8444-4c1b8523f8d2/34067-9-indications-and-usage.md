@@ -2,17 +2,13 @@
 
 Methadone Hydrochloride IntensolTM (Oral Concentrate USP) is indicated for the:
 
-- •Management of moderate to severe pain when a continuous, around-the-clock opioid analgesic is needed for an extended period of time.
+- •Management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
+- Limitations of Use
+- 
+  - oBecause of the risks of addiction, abuse, and misuse with opioids, even at recommended doses, and because of the greater risks of overdose and death with long-acting opioids, reserve methadone for use in patients for whom alternative analgesic treatment options (e.g., non-opioid analgesics or immediate- release opioid analgesics) are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
+  - oMethadone is not indicated as an as-needed (prn) analgesic.
 - •Detoxification treatment of opioid addiction (heroin or other morphine-like drugs).
 - •Maintenance treatment of opioid addiction (heroin or other morphine-like drugs), in conjunction with appropriate social and medical services.
-
-Limitations of Use
-
-- •Methadone Hydrochloride IntensolTM (Oral Concentrate USP) is not for use:
-- •As an as-needed (prn) analgesic
-- •For pain that is mild or not expected to persist for an extended period of time
-- •For acute pain
-- •For postoperative pain
 
 Conditions For Distribution And Use Of Methadone Products For The Treatment Of Opioid Addiction
 
