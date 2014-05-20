@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA078908"
+  ],
+  "inn": "dexmethylphenidate",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-5552-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "dexmethylphenidate hydrochloride",
+      "name": "Dexmethylphenidate Hydrochloride"
+    }
+  ],
+  "setid": "dd659d39-41f5-4612-8f17-bad602b4784d",
+  "source": "dailymed"
+}
