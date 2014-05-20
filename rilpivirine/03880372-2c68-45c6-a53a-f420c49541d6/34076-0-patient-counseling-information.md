@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information).
+See FDA-approved patient labeling (Patient Information)
 
 A statement to patients and healthcare providers is included on the product's bottle label: ALERT: Find out about medicines that should NOT be taken with EDURANT from your healthcare provider.
 A Patient Package Insert for EDURANT is available for patient information.

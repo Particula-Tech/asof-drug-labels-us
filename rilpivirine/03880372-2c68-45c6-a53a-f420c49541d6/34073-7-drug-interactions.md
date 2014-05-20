@@ -12,7 +12,7 @@ EDURANT at a dose of 25 mg once daily is not likely to have a clinically relevan
 Table 4 shows the established and other potentially significant drug interactions based on which alterations in dose or regimen of EDURANT and/or co-administered drug may be recommended.
 Drugs that are not recommended for co-administration with EDURANT are also included in Table 4.
 
-Table 4: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction [See Clinical Pharmacology (12.3)]
+Table 4: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction [see Clinical Pharmacology (12.3)]
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Rilpivirine or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |

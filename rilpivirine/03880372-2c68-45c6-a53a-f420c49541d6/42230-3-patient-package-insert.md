@@ -1,4 +1,4 @@
-Patient Information EDURANT® (ee' dur ant) (rilpivirine) Tablets
+PATIENT INFORMATION EDURANT® (EE' DUR ANT) (RILPIVIRINE) TABLETS
 
 Important: Ask your doctor or pharmacist about medicines that should not be taken with EDURANT.
 For more information, see the section "What should I tell my doctor before taking EDURANT?"
@@ -9,7 +9,7 @@ This information does not take the place of talking with your doctor about your 
 You and your doctor should discuss your treatment with EDURANT when you start taking it and at regular checkups.
 You should not change or stop treatment without first talking with your doctor.
 
-What is EDURANT?
+WHAT IS EDURANT?
 
 EDURANT is a prescription HIV medicine that is used with other antiretroviral medicines to treat Human Immunodeficiency Virus-1 (HIV-1) in adults:
 
@@ -26,8 +26,8 @@ When used with other HIV medicines, EDURANT may help:
 - Reduce the amount of HIV in your blood.
 - Increase the number of white blood cells called CD4+ (T) cells in your blood that help fight off other infections.
 
-Reducing the amount of HIV and increasing the CD4+ (T) cells in your blood may help improve your immune system.
-This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
+- Reducing the amount of HIV and increasing the CD4+ (T) cells in your blood may help improve your immune system.
+  This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
 
 EDURANT does not cure HIV infection or AIDS.
 
@@ -42,7 +42,7 @@ Avoid doing things that can spread HIV-1 infection to others.
 
 Ask your doctor if you have any questions about how to prevent passing HIV to other people.
 
-Who should not take EDURANT?
+WHO SHOULD NOT TAKE EDURANT?
 
 Do not take EDURANT if:
 
@@ -65,7 +65,7 @@ Do not take EDURANT if:
   - more than 1 dose of the steroid medicine dexamethasone or dexamethasone sodium phosphate
   - St. John's wort (Hypericum perforatum)
 
-What should I tell my doctor before taking EDURANT?
+WHAT SHOULD I TELL MY DOCTOR BEFORE TAKING EDURANT?
 
 Before taking EDURANT, tell your doctor if you:
 
@@ -117,7 +117,7 @@ Your doctor and your pharmacist can tell you if you can take these medicines wit
 Do not start any new medicines while you are taking EDURANT without first talking with your doctor or pharmacist.
 You can ask your doctor or pharmacist for a list of medicines that can interact with EDURANT.
 
-How should I take EDURANT?
+HOW SHOULD I TAKE EDURANT?
 
 - Take EDURANT every day exactly as prescribed by your doctor.
 - Always take EDURANT with a meal.
@@ -135,7 +135,7 @@ When your supply of EDURANT starts to run low, get more from your doctor or phar
 It is important not to run out of EDURANT.
 The amount of HIV in your blood may increase if the medicine is stopped even for a short time.
 
-What are the possible side effects of EDURANT?
+WHAT ARE THE POSSIBLE SIDE EFFECTS OF EDURANT?
 
 EDURANT can cause serious side effects including:
 
@@ -171,14 +171,14 @@ For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store EDURANT?
+HOW SHOULD I STORE EDURANT?
 
 - Store EDURANT at room temperature between 68°F to 77°F (20°C to 25°C).
 - Keep EDURANT in the original bottle to protect from light.
 
 Keep EDURANT and all medicines out of the reach of children.
 
-General information about EDURANT
+GENERAL INFORMATION ABOUT EDURANT
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use EDURANT for a condition for which it was not prescribed.
@@ -190,7 +190,7 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about EDURANT that is written for health professionals.
 For more information, call 1-800-526-7736 or go to www.EDURANT.com.
 
-What are the ingredients in EDURANT?
+WHAT ARE THE INGREDIENTS IN EDURANT?
 
 Active ingredient: rilpivirine.
 
@@ -199,7 +199,11 @@ The tablet coating contains hypromellose 2910 6 mPa.s, lactose monohydrate, PEG 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Product of Ireland Manufactured by: Janssen-Cilag SpA, Latina, Italy Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
+Product of Ireland
+
+Manufactured by: Janssen-Cilag SpA, Latina, Italy
+
+Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
 
 EDURANT® is a registered trademark of Johnson & Johnson
 

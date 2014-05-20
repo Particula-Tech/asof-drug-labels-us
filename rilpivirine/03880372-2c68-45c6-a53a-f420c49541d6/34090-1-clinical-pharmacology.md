@@ -213,8 +213,7 @@ NNRTI- and NRTI-resistance substitutions emerged less frequently in resistance a
 This difference was also observed for the individual emtricitabine/lamivudine and tenofovir resistance substitutions: 23% (11/47) compared to 77% (36/47) for M184I/V and 0% (0/8) compared to 100% (8/8) for K65R/N.
 Additionally, NNRTI- and NRTI-resistance substitutions emerged less frequently in the resistance analysis of viruses from subjects with baseline CD4+ cell counts ≥ 200 cells/mm3 compared to viruses from subjects with baseline CD4+ cell counts < 200 cells/mm3: 37% (20/54) compared to 63% (34/54) of NNRTI-resistance substitutions and 28% (14/50) compared to 72% (36/50) of NRTI-resistance substitutions.
 
-Table 8.
-Proportion of Resistance Analysis SubjectsSubjects who qualified for resistance analysis. with Frequently Emerging Reverse Transcriptase Substitutions from the Pooled Phase 3 TMC278-C209 and TMC278-C215 Trials in the Week 96 Analysis
+Table 8: Proportion of Resistance Analysis SubjectsSubjects who qualified for resistance analysis. with Frequently Emerging Reverse Transcriptase Substitutions from the Pooled Phase 3 TMC278-C209 and TMC278-C215 Trials in the Week 96 Analysis
 
 |  | EDURANT + BR N = 686 | Efavirenz + BR N = 682 |
 | --- | --- | --- |
