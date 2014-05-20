@@ -39,10 +39,13 @@ FDA-Approved Medication Guide
 
 See the accompanying Medication Guide.
 
-MYLAN® Mylan Specialty L.P., Napa, CA 94558
+Manufactured for: Mylan Specialty L.P.
+Morgantown, WV 26505
+
+Manufactured by: The Ritedose Corporation Columbia, SC 29203
 
 U.S. Pat.
 No. 6,667,344 U.S. Pat.
 No. 6,814,953
 
-03-848-07
+A3-031-00

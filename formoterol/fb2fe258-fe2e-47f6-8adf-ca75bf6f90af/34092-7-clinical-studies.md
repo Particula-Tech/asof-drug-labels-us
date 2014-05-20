@@ -13,6 +13,8 @@ Similar results were seen on Day 1 and at subsequent timepoints during the trial
 
 Mean FEV1 measurements at Day 1 (Figure 1) and at endpoint (Figure 2) are shown below.
 
+Figure 2 Mean* FEV1 at Endpoint after 12 Weeks of Treatment
+
 - * Figures show least-squares means adjusted for baseline FEV1
 
 Patients treated with PERFOROMIST Inhalation Solution used less rescue albuterol during the trial compared to patients treated with placebo.

@@ -30,5 +30,11 @@ FOR THE PATIENT: Use Perforomist® Inhalation Solution prior to the "Use by" dat
 Rx Only
 
 U.S. Pat.
-Nos. 6,667,344 and 6,814,953 Mylan Specialty L.P.
-Napa, CA 94558
+Nos. 6,667,344 and 6,814,953 Mylan Specialty L.P., Morgantown, WV 26505
+
+Manufactured for: Mylan Specialty L.P.
+Morgantown, WV 26505
+
+Manufactured by: The Ritedose Corporation Columbia, SC 29203
+
+02-487-00

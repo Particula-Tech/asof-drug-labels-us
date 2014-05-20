@@ -15,8 +15,8 @@ PERFOROMIST Inhalation Solution can cause serious side effects including:
 - •People with asthma who take long-acting beta2 adrenergic agonist (LABA) medicines such as PERFOROMIST Inhalation Solution have an increased risk of death from asthma problems.
 - •It is not known if LABA medicines, such as PERFOROMIST Inhalation Solution, increase the risk of death in people with chronic obstructive pulmonary disease (COPD).
 - • Get emergency medical care if:
-  - ∘breathing problems worsen quickly
-  - ∘you use your rescue inhaler medicine, but it does not relieve your breathing problems
+  - •breathing problems worsen quickly
+  - •you use your rescue inhaler medicine, but it does not relieve your breathing problems
 
 What is PERFOROMIST Inhalation Solution?
 
@@ -72,16 +72,17 @@ Read the step-by-step instructions for using PERFOROMIST Inhalation Solution at 
   Take your next dose at your usual time.
   Do not take 2 doses at one time.
 - •While you are using PERFOROMIST Inhalation Solution 2 times each day:
-  - ∘do not use other medicines that contain a long-acting beta2-agonist (LABA) for any reason.
-  - ∘do not use your short-acting beta2-agonist medicine on a regular basis (four times a day).
+  - •do not use other medicines that contain a long-acting beta2-agonist (LABA) for any reason.
+  - •do not use your short-acting beta2-agonist medicine on a regular basis (four times a day).
 - •PERFOROMIST Inhalation Solution does not relieve sudden symptoms of COPD.
   Always have a rescue inhaler medicine with you to treat sudden symptoms.
   If you do not have a rescue inhaler medicine, call your healthcare provider to have one prescribed for you.
-- •Do not stop using PERFOROMIST Inhalation Solution or other medicines to control or treat your COPD unless told to do so by your healthcare provider because your symptoms might get worse.Your healthcare provider will change your medicines as needed.
+- •Do not stop using PERFOROMIST Inhalation Solution or other medicines to control or treat your COPD unless told to do so by your healthcare provider because your symptoms might get worse.
+  Your healthcare provider will change your medicines as needed.
 - •Do not use PERFOROMIST Inhalation Solution:
-  - ∘more often than prescribed,
-  - ∘more medicine than prescribed for you, or
-  - ∘with other LABA medicines
+  - •more often than prescribed,
+  - •more medicine than prescribed for you, or
+  - •with other LABA medicines
 
 Call your healthcare provider or get emergency medical care right away if:
 
@@ -130,7 +131,8 @@ How should I store PERFOROMIST Inhalation Solution?
 
 - •Store PERFOROMIST Inhalation Solution in a refrigerator between 36° to 46°F (2o to 8oC) in the protective foil pouch.
   Protect from light and heat.
-  Do not open a sealed pouch until you are ready to use a dose of PERFOROMIST Inhalation Solution.Once a sealed pouch is opened, PERFOROMIST Inhalation Solution must be used right away.
+  Do not open a sealed pouch until you are ready to use a dose of PERFOROMIST Inhalation Solution.
+  Once a sealed pouch is opened, PERFOROMIST Inhalation Solution must be used right away.
   PERFOROMIST Inhalation Solution may be used directly from the refrigerator.
 - •PERFOROMIST Inhalation Solution may also be stored at room temperature between 68ºF to 77ºF (20ºC to 25ºC) for up to 3 months (90 days).
   If stored at room temperature, discard PERFOROMIST Inhalation Solution if it is not used after 3 months or if past the expiration date, whichever is sooner.
@@ -165,23 +167,25 @@ Do not mix PERFOROMIST Inhalation Solution with other medicines in your nebulize
 PERFOROMIST Inhalation Solution comes sealed in a foil pouch.
 Do not open a sealed pouch until you are ready to use a dose of PERFOROMIST Inhalation Solution.
 
-1. 1.Remove vial from the foil pouch.
-2. 2.Twist the cap completely off the vial and squeeze all the medicine into the nebulizer medicine cup (reservoir) (Figure 1).
-3. 3.Connect the nebulizer reservoir to the mouthpiece or facemask (Figure 2).
-4. 4.Connect the nebulizer to the compressor.
-5. 5.Sit in a comfortable, upright position.
-   Place the mouthpiece in your mouth (Figure 3) or put on the facemask (Figure 4); and turn on the compressor.
-6. 6.Breathe as calmly, deeply and evenly as possible through your mouth until no more mist is formed in the nebulizer reservoir.
-   The average nebulization time is 9 minutes.
-   At this point, the treatment is finished.
-7. 7.Discard the PERFOROMIST Inhalation Solution container and top after use.
-8. 8.Clean the nebulizer (see manufacturer’s instructions).
+- 1.Remove vial from the foil pouch.
+- 2.Twist the cap completely off the vial and squeeze all the medicine into the nebulizer medicine cup (reservoir) (Figure 1).
+- 3.Connect the nebulizer reservoir to the mouthpiece or facemask (Figure 2).
+- 4.Connect the nebulizer to the compressor.
+- 5.Sit in a comfortable, upright position.
+  Place the mouthpiece in your mouth (Figure 3) or put on the facemask (Figure 4); and turn on the compressor.
+- 6.Breathe as calmly, deeply and evenly as possible through your mouth until no more mist is formed in the nebulizer reservoir.
+  The average nebulization time is 9 minutes.
+  At this point, the treatment is finished.
+- 7.Discard the PERFOROMIST Inhalation Solution container and top after use.
+- 8.Clean the nebulizer (see manufacturer’s instructions).
 
-MYLAN® Mylan Specialty L.P.
-Napa, CA 94558 U.S.A.
+Manufactured for: Mylan Specialty L.P.
+Morgantown, WV 26505
 
-Revised JAN 2013
+Manufactured by: The Ritedose Corporation Columbia, SC 29203
+
+Revised MARCH 2013
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-03-848-07
+A3-031-00
