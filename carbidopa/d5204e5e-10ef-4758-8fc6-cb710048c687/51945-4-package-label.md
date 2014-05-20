@@ -1,8 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
 
-Rx only
+NDC 68682-200-25
 
-NDC 24208-200-25
+Rx only
 
 Carbidopa
 
@@ -12,4 +12,4 @@ Tablets
 
 100 Tablets
 
-Oceanside® Pharmaceuticals
+OCEANSIDE® PHARMACEUTICALS
