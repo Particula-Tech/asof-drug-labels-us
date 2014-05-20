@@ -2,4 +2,4 @@ For Oral Use
 
 Rx only
 
-LAB-0212-4.0 July 2009
+LAB-0212-5.0 November 2013
