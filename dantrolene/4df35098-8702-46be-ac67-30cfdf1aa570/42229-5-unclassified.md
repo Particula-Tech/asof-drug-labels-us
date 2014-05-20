@@ -1,13 +1,13 @@
 Rx only.
 
-Prescribing Information as of November 2008
+Prescribing Information as of September 2013.
 
-Distributed by:
+Manufactured & Distributed by:
 
 JHP Pharmaceuticals, LLC
 
 Rochester, MI 48307
 
-3003040
+3003040A
 
 98793543

@@ -41,7 +41,7 @@ The i.v. dose of Dantrium in the postoperative period must be individualized, st
 Each vial of Dantrium Intravenous should be reconstituted by adding 60 mL of sterile water for injection USP (without a bacteriostatic agent), and the vial shaken until the solution is clear.
 5% Dextrose Injection USP, 0.9% Sodium Chloride Injection USP, and other acidic solutions are not compatible with Dantrium Intravenous and should not be used.
 The contents of the vial must be protected from direct light and used within 6 hours after reconstitution.
-Store reconstituted solutions at controlled room temperature (59°F to 86°F or 15°C to 30°C).
+Store reconstituted solutions between 15° to 30°C (59° to 86°F).
 
 Reconstituted Dantrium Intravenous should not be transferred to large glass bottles for prophylactic infusion due to precipitate formation observed with the use of some glass bottles as reservoirs.
 
