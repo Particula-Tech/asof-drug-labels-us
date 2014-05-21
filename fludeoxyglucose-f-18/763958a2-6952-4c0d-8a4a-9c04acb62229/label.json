@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203902"
+  ],
+  "inn": "fludeoxyglucose-f-18",
+  "labeler": "UCSF Radiopharmaceutical Facility",
+  "package_ndcs": [
+    "24275-0185-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fludeoxyglucose f18",
+      "name": "Fludeoxyglucose F18"
+    }
+  ],
+  "setid": "763958a2-6952-4c0d-8a4a-9c04acb62229",
+  "source": "dailymed"
+}
