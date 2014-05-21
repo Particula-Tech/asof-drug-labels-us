@@ -1,14 +1,14 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
-## Neoplastic Diseases:
+## Neoplastic Diseases
 
 Oral administration in tablet form is often preferred when low doses are being administered since absorption is rapid and effective serum levels are obtained.
 
-### Choriocarcinoma and similar trophoblastic diseases:
+### Choriocarcinoma and Similar Trophoblastic Diseases
 
 Methotrexate is administered orally or intramuscularly in doses of 15 to 30 mg daily for a five-day course.
 Such courses are usually repeated for 3 to 5 times as required, with rest periods of one or more weeks interposed between courses, until any manifesting toxic symptoms subside.
-The effectiveness of therapy is ordinarily evaluated by 24-hour quantitative analysis of urinary chorionic gonadatropin (hCG), which should return to normal or less than 50 lU/24 hr usually after the third or fourth course and usually be followed by a complete resolution of measurable lesions in 4 to 6 weeks.
+The effectiveness of therapy is ordinarily evaluated by 24 hour quantitative analysis of urinary chorionic gonadatropin (hCG), which should return to normal or less than 50 IU/24 hr usually after the third or fourth course and usually be followed by a complete resolution of measurable lesions in 4 to 6 weeks.
 One to two courses of methotrexate after normalization of hCG is usually recommended.
 Before each course of the drug careful clinical assessment is essential.
 Cyclic combination therapy of methotrexate with other antitumor drugs has been reported as being useful.
@@ -18,7 +18,7 @@ Since hydatidiform mole may precede choriocarcinoma, prophylactic chemotherapy w
 Chorioadenoma destruens is considered to be an invasive form of hydatidiform mole.
 Methotrexate is administered in these disease states in doses similar to those recommended for choriocarcinoma.
 
-### Leukemia:
+### Leukemia
 
 Acute lymphoblastic leukemia in pediatric patients and young adolescents is the most responsive to present day chemotherapy.
 In young adults and older patients, clinical remission is more difficult to obtain and early relapse is more common.
@@ -34,15 +34,15 @@ If and when relapse does occur, reinduction of remission can again usually be ob
 A variety of combination chemotherapy regimens have been used for both induction and maintenance therapy in acute lymphoblastic leukemia.
 The physician should be familiar with the new advances in antileukemic therapy.
 
-### Lymphomas:
+### Lymphomas
 
-In Burkitt’s tumor, Stages I-II, methotrexate has produced prolonged remissions in some cases.
+In Burkitt’s tumor, Stages I to II, methotrexate has produced prolonged remissions in some cases.
 Recommended dosage is 10 to 25 mg/day orally for 4 to 8 days.
 In Stage III, methotrexate is commonly given concomitantly with other antitumor agents.
 Treatment in all stages usually consists of several courses of the drug interposed with 7 to 10 day rest periods.
 Lymphosarcomas in Stage III may respond to combined drug therapy with methotrexate given in doses of 0.625 to 2.5 mg/kg daily.
 
-### Mycosis fungoides (cutaneous T cell lymphoma):
+### Mycosis Fungoides (Cutaneous T Cell Lymphoma)
 
 Therapy with methotrexate as a single agent appears to produce clinical responses in up to 50% of patients treated.
 Dosage in early stages is usually 5 to 50 mg once weekly.
@@ -50,24 +50,27 @@ Dose reduction or cessation is guided by patient response and hematologic monito
 Methotrexate has also been administered twice weekly in doses ranging from 15 to 37.5 mg in patients who have responded poorly to weekly therapy.
 Combination chemotherapy regimens that include intravenous methotrexate administered at higher doses with leucovorin rescue have been utilized in advanced stages of the disease.
 
-## Psoriasis, Rheumatoid Arthritis and Juvenile Rheumatoid Arthritis:
+## Psoriasis, Rheumatoid Arthritis and Juvenile Rheumatoid Arthritis
 
-### Adult Rheumatoid Arthritis:
+### Adult Rheumatoid Arthritis
 
 Recommended Starting Dosage Schedules
 
-1.Single oral doses of 7.5 mg once weekly.
+1.
+Single oral doses of 7.5 mg once weekly.
 
-2.Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a course once weekly.
+2.
+Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a course once weekly.
 
-### Polyarticular-Course Juvenile Rheumatoid Arthritis:
+### Polyarticular-Course Juvenile Rheumatoid Arthritis
 
 The recommended starting dose is 10 mg/m2 given once weekly.
 
 For either adult RA or polyarticular-course JRA dosages may be adjusted gradually to achieve an optimal response.
 
 Limited experience shows a significant increase in the incidence and severity of serious toxic reactions, especially bone marrow suppression, at doses greater than 20 mg/wk in adults.
-Although there is experience with doses up to 30 mg/m2/wk (0.65 to 1.0 mg/kg/wk) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered either intramuscularly or subcutaneously.
+Although there is experience with doses up to 30 mg/m2/wk in children, there are too few published data to assess how doses over 20 mg/m2/wk might affect the risk of serious toxicity in children.
+Experience does suggest, however, that children receiving 20 to 30 mg/m2/wk (0.65 to 1 mg/kg/wk) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered either intramuscularly or subcutaneously.
 
 Therapeutic response usually begins within 3 to 6 weeks and the patient may continue to improve for another 12 weeks or more.
 
@@ -87,13 +90,15 @@ All schedules should be continually tailored to the individual patient.
 An initial test dose may be given prior to the regular dosing schedule to detect any extreme sensitivity to adverse effects (see ADVERSE REACTIONS).
 Maximal myelosuppression usually occurs in seven to ten days.
 
-### Psoriasis:
+### Psoriasis
 
 Recommended Starting Dose Schedules
 
-1.Weekly single oral, IM or IV dose schedule: 10 to 25 mg per week until adequate response is achieved.
+1.
+Weekly single oral, IM or IV dose schedule: 10 to 25 mg per week until adequate response is achieved.
 
-2.Divided oral dose schedule: 2.5 mg at 12-hour intervals for three doses.
+2.
+Divided oral dose schedule: 2.5 mg at 12 hour intervals for three doses.
 
 Dosages in each schedule may be gradually adjusted to achieve optimal clinical response; 30 mg/week should not ordinarily be exceeded.
 

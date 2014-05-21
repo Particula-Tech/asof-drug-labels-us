@@ -1,4 +1,4 @@
-# Overdosage:
+# OVERDOSAGE
 
 Leucovorin is indicated to diminish the toxicity and counteract the effect of inadvertently administered overdosages of methotrexate.
 Leucovorin administration should begin as promptly as possible.

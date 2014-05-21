@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 Methotrexate inhibits dihydrofolic acid reductase.
 Dihydrofolates must be reduced to tetrahydrofolates by this enzyme before they can be utilized as carriers of one-carbon groups in the synthesis of purine nucleotides and thymidylate.
@@ -20,16 +20,16 @@ Limited data from long-term studies indicate that an initial clinical improvemen
 In psoriasis, the rate of production of epithelial cells in the skin is greatly increased over normal skin.
 This differential in proliferation rates is the basis for the use of methotrexate to control the psoriatic process.
 
-In a 6-month, double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range, 2.5 to 18 years; mean duration of disease, 5.1 years) on background nonsteroidal anti-inflammatory drugs (NSAIDs) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician’s global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity.)
+In a 6 month, double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range, 2.5 to 18 years; mean duration of disease, 5.1 years) on background nonsteroidal anti-inflammatory drugs (NSAIDs) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician’s global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity.)
 Over two-thirds of the patients in this trial had polyarticular-course JRA, and the numerically greatest response was seen in this subgroup treated with 10 mg/m2/wk methotrexate.
 The overwhelming majority of the remaining patients had systemic-course JRA.
 
 All patients were unresponsive to NSAIDs; approximately one-third were using low dose corticosteroids.
 Weekly methotrexate at a dose of 5 mg/m2 was not significantly more effective than placebo in this trial.
 
-## Pharmacokinetics:
+## Pharmacokinetics
 
-### Absorption:
+### Absorption
 
 In adults, oral absorption of methotrexate appears to be dose dependent.
 Peak serum levels are reached within one to two hours.
@@ -43,10 +43,10 @@ The absorption of doses greater than 40 mg/m2 has been reported to be significan
 Food has been shown to delay absorption and reduce peak concentration.
 Methotrexate is generally completely absorbed from parenteral routes of injection.
 After intramuscular injection, peak serum concentrations occur in 30 to 60 minutes.
-As in leukemia pediatric patients, a wide interindividual variability in the plasma concentrations of methotrexate in doses of 6.4 to 11.2 pediatric patients with JRA, mean serum concentrations were 0.59 micromolar (range, 0.03 to 1.40) at 1 hour, 0.44 micromolar (range, 0.01 to 1.00) at 2 hours, and 0.29 micromolar (range, 0.06 to 0.58) at 3 hours.
+As in leukemia pediatric patients, a wide interindividual variability in the plasma concentrations of methotrexate in doses of 6.4 to 11.2 pediatric patients with JRA, mean serum concentrations were 0.59 micromolar (range, 0.03 to 1.40) at 1 hour, 0.44 micromolar (range, 0.01 to 1) at 2 hours, and 0.29 micromolar (range, 0.06 to 0.58) at 3 hours.
 In pediatric patients receiving methotrexate for acute lymphocyctic leukemia (6.3 to 30 mg/m2, or for JRA (3.75 to 26.2 mg/m2), the terminal half-life has been reported to range from 0.7 to 5.8 hours or 0.9 to 2.3 hours, respectively.
 
-### Distribution:
+### Distribution
 
 After intravenous administration, the initial volume of distribution is approximately 0.18 L/kg (18% of body weight) and steady-state volume of distribution is approximately 0.4 to 0.8 L/kg (40% to 80% of body weight).
 Methotrexate competes with reduced folates for active transport across cell membranes by means of a single carrier-mediated active transport process.
@@ -60,7 +60,7 @@ High CSF concentrations of the drug may be attained by intrathecal administratio
 In dogs, synovial fluid concentrations after oral dosing were higher in inflamed than uninflamed joints.
 Although salicylates did not interfere with this penetration, prior prednisone treatment reduced penetration into inflamed joints to the level of normal joints.
 
-### Metabolism:
+### Metabolism
 
 After absorption, methotrexate undergoes hepatic and intracellular metabolism to polyglutamated forms which can be converted back to methotrexate by hydrolase enzymes.
 These polyglutamates act as inhibitors of dihydrofolate reductase and thymidylate synthetase.
@@ -71,12 +71,12 @@ A small amount of metabolism to 7-hydroxymethotrexate may occur at doses commonl
 The aqueous solubility of 7-hydroxymethotrexate is 3 to 5 fold lower than the parent compound.
 Methotrexate is partially metabolized by intestinal flora after oral administration.
 
-### Half-Life:
+### Half-Life
 
 The terminal half-life reported for methotrexate is approximately three to ten hours for patients receiving treatment for psoriasis, or rheumatoid arthritis or low dose antineoplastic therapy (less than 30 mg/m2).
 For patients receiving high doses of methotrexate, the terminal half-life is eight to 15 hours.
 
-### Excretion:
+### Excretion
 
 Renal excretion is the primary route of elimination, and is dependent upon dosage and route of administration.
 With IV administration, 80% to 90% of the administered dose is excreted unchanged in the urine within 24 hours.
