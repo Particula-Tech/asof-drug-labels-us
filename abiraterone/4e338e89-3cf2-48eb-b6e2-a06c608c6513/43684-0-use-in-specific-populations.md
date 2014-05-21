@@ -37,12 +37,12 @@ Other reported clinical experience has not identified differences in responses b
 The pharmacokinetics of abiraterone were examined in subjects with baseline mild (n=8) or moderate (n=8) hepatic impairment (Child-Pugh Class A and B, respectively) and in 8 healthy control subjects with normal hepatic function.
 The systemic exposure (AUC) of abiraterone after a single oral 1,000 mg dose of ZYTIGA increased by approximately 1.1-fold and 3.6-fold in subjects with mild and moderate baseline hepatic impairment, respectively compared to subjects with normal hepatic function.
 
+In another trial, the pharmacokinetics of abiraterone were examined in subjects with baseline severe (n=8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function.
+The systemic exposure (AUC) of abiraterone increased by approximately 7 fold and the fraction of free drug increased 2 fold in subjects with severe baseline hepatic impairment compared to subjects with normal hepatic function.
+
 No dosage adjustment is necessary for patients with baseline mild hepatic impairment.
 In patients with baseline moderate hepatic impairment (Child-Pugh Class B), reduce the recommended dose of ZYTIGA to 250 mg once daily.
-If elevations in ALT or AST >5X ULN or total bilirubin >3X ULN occur in patients with baseline moderate hepatic impairment, discontinue ZYTIGA treatment [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].
-
-The safety of ZYTIGA in patients with baseline severe hepatic impairment has not been studied.
-These patients should not receive ZYTIGA.
+Do not use ZYTIGA in patients with baseline severe hepatic impairment (Child-Pugh Class C). If elevations in ALT or AST >5X ULN or total bilirubin >3X ULN occur in patients with baseline moderate hepatic impairment, discontinue ZYTIGA treatment [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].
 
 For patients who develop hepatotoxicity during treatment, interruption of treatment and dosage adjustment may be required [see Dosage and Administration (2.2), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
 

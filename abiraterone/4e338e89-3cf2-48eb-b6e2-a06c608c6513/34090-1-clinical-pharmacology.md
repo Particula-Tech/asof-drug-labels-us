@@ -28,7 +28,7 @@ Absorption
 Following oral administration of abiraterone acetate to patients with metastatic CRPC, the median time to reach maximum plasma abiraterone concentrations is 2 hours.
 Abiraterone accumulation is observed at steady-state, with a 2-fold higher exposure (steady-state AUC) compared to a single 1,000 mg dose of abiraterone acetate.
 
-At the dose of 1,000 mg daily in patients with metastatic CRPC, steady-state values (mean ± SD) of Cmax were 226 ± 178 ng/mL and of AUC were 1173 ± 690 ng.hr/mL.
+At the dose of 1,000 mg daily in patients with metastatic CRPC, steady-state values (mean ± SD) of Cmax were 226 ± 178 ng/mL and of AUC were 993 ± 639 ng.hr/mL.
 No major deviation from dose proportionality was observed in the dose range of 250 mg to 1,000 mg.
 However, the exposure was not significantly increased when the dose was doubled from 1,000 to 2,000 mg (8% increase in the mean AUC).
 
@@ -62,7 +62,10 @@ Patients with Hepatic Impairment
 The pharmacokinetics of abiraterone was examined in subjects with baseline mild (n=8) or moderate (n=8) hepatic impairment (Child-Pugh Class A and B, respectively) and in 8 healthy control subjects with normal hepatic function.
 Systemic exposure to abiraterone after a single oral 1,000 mg dose given under fasting conditions increased approximately 1.1-fold and 3.6-fold in subjects with mild and moderate baseline hepatic impairment, respectively.
 The mean half-life of abiraterone is prolonged to approximately 18 hours in subjects with mild hepatic impairment and to approximately 19 hours in subjects with moderate hepatic impairment.
-ZYTIGA has not been studied in patients with baseline severe hepatic impairment (Child-Pugh Class C) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+
+In another trial, the pharmacokinetics of abiraterone were examined in subjects with baseline severe (n=8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function.
+The systemic exposure (AUC) of abiraterone increased by approximately 7 fold in subjects with severe baseline hepatic impairment compared to subjects with normal hepatic function.
+In addition, the mean protein binding was found to be lower in the severe hepatic impairment group compared to the normal hepatic function group, which resulted in a two-fold increase in the fraction of free drug in patients with severe hepatic impairment [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 Patients with Renal Impairment
 

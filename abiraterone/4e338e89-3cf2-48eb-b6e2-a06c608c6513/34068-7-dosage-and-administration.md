@@ -18,7 +18,7 @@ However, there are no clinical data at the dose of 250 mg once daily in patients
 In patients with moderate hepatic impairment monitor ALT, AST, and bilirubin prior to the start of treatment, every week for the first month, every two weeks for the following two months of treatment and monthly thereafter.
 If elevations in ALT and/or AST greater than 5X upper limit of normal (ULN) or total bilirubin greater than 3X ULN occur in patients with baseline moderate hepatic impairment, discontinue ZYTIGA and do not re-treat patients with ZYTIGA [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-Avoid ZYTIGA in patients with baseline severe hepatic impairment (Child-Pugh Class C), as ZYTIGA has not been studied in this population, and no dose adjustment can be predicted.
+Do not use ZYTIGA in patients with baseline severe hepatic impairment (Child-Pugh Class C).
 
 Hepatotoxicity
 
