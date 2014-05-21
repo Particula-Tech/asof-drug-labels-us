@@ -10,5 +10,7 @@ Tablets are supplied as follows:
 | Bottle of 30 | NDC 65597-101-30 | NDC 65597-103-30 | NDC 65597-104-30 |
 | Bottle of 90 | Not available | NDC 65597-103-90 | NDC 65597-104-90 |
 | Blister 10 cards x 10 | Not available | NDC 65597-103-10 | NDC 65597-104-10 |
+| Blister 1 card x 30 | Not available | NDC 65597-103-03 | NDC 65597-104-03 |
+| Carton 6 cards x 30 | Not available | NDC 65597-103-06 | NDC 65597-104-06 |
 
 Storage Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature].
