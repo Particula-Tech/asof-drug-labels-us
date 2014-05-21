@@ -4,7 +4,7 @@ NDC 0378-0137-01
 
 Allopurinol Tablets, USP 100 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Allopurinol, USP 100 mg
 
@@ -19,13 +19,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from moisture and light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Adult Dosage: See accom- panying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0137A7
+RM0137A8
 
 PRINCIPAL DISPLAY PANEL - 300 mg
 
@@ -33,7 +33,7 @@ NDC 0378-0181-01
 
 Allopurinol Tablets, USP 300 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Allopurinol, USP 300 mg
 
@@ -48,10 +48,10 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from moisture and light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Adult Dosage: See accom- panying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0181A7
+RM0181A8
