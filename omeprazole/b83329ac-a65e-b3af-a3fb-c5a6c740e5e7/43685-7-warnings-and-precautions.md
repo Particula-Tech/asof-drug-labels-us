@@ -32,8 +32,7 @@ When using omeprazole, consider alternative anti-platelet therapy [see Drug Inte
 Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines.
-[see Dosage and Administration (2) and Adverse Reactions (6.3)]
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.3)].
 
 ## 5.6 Hypomagnesemia
 
@@ -41,24 +40,21 @@ Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patien
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
-For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
-[See Adverse Reactions (6.3)]
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.3)].
 
-## 5.7 Concomitant Use of Omeprazole with St John’s Wort or Rifampin
+## 5.7 Concomitant Use of Omeprazole with St. John's Wort or Rifampin
 
-Drugs which induce CYP2C19 or CYP3A4 (such as St John’s Wort or rifampin) can substantially decrease omeprazole concentrations.
-[See Drug Interactions (7.3)].
-Avoid concomitant use of omeprazole with St John’s Wort or rifampin.
+Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s Wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7.3)].
+Avoid concomitant use of omeprazole with St. John’s Wort or rifampin.
 
 ## 5.8 Interactions with Diagnostic Investigations for Neuroendocrine Tumors
 
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
-Providers should temporarily stop omeprazole treatment before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+Healthcare providers should temporarily stop omeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
 
 ## 5.9 Concomitant use of Omeprazole with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients.
-[See Drug Interactions (7.7)]
+In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.7)].

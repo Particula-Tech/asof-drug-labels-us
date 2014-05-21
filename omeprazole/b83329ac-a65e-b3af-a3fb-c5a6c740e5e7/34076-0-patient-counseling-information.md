@@ -20,12 +20,12 @@ Advise patients to immediately report and seek care for any cardiovascular or ne
 
 APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 
-| Manufactured by: | Manufactured for: |
+| Manufactured by | Manufactured for |
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: June 2013
+Revised: May 2014
 
-Revision: 17
+Revision: 18

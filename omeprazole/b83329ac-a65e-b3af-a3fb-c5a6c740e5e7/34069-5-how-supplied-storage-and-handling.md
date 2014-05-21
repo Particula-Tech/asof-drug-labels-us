@@ -10,7 +10,7 @@ Omeprazole delayed-release capsules, USP 20 mg are available for oral administra
 “APO 020” is imprinted on each capsule in black ink.
 They are supplied as follows:
 
-Bottles of 30 (NDC 60505-0065-0) Bottles of 100 (NDC 60505-0065-2) Bottles of 500 (NDC 60505-0065-5) Bottles of 1000 (NDC 60505-0065-1) Bottles of 5000 (NDC 60505-0065-8) Blisters of 70 (NDC 60505-0065-3) Blisters of 100 (NDC 60505-0065-7)
+Bottles of 30 (NDC 60505-0065-0) Bottles of 100 (NDC 60505-0065-2) Bottles of 500 (NDC 60505-0065-5) Bottles of 1000 (NDC 60505-0065-1) Bottles of 5000 (NDC 60505-0065-8) Blisters of 70 (NDC 60505-0065-3) Blisters of 100 (NDC 60505-0065-7) Package of 12 Bottles each containing 30 Capsules (NDC 60505-3952-3)
 
 Omeprazole delayed-release capsules, USP 40 mg are available for oral administration as hard gelatin capsules with a pink opaque body and a reddish brown opaque cap.
 “APO 040” is imprinted on each capsule in black ink.

@@ -40,12 +40,13 @@ Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks afte
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
 The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+Healthcare providers should temporarily stop omeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 
 Enterochromaffin-like (ECL) Cell Effects
 
-Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
-The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
-[See Clinical Pharmacology (12)] However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
+Human gastric biopsy specimens have been obtained from more than 3000 patients (both children and adults) treated with omeprazole in long-term clinical trials.
+The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients [see Clinical Pharmacology (12)].
+However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
 
 Other Effects
 
@@ -66,7 +67,7 @@ The course of Barrett’s esophagus in 106 patients was evaluated in a U.S. doub
 No clinically significant impact on Barrett’s mucosa by antisecretory therapy was observed.
 Although neosquamous epithelium developed during antisecretory therapy, complete elimination of Barrett’s mucosa was not achieved.
 No significant difference was observed between treatment groups in development of dysplasia in Barrett’s mucosa and no patient developed esophageal carcinoma during treatment.
-No significant differences between treatment groups were observed in development of ECL cell hyperplasia, corpus atrophic gastritis, corpus intestinal metaplasia, or colon polyps exceeding 3 mm in diameter [See Clinical Pharmacology (12)].
+No significant differences between treatment groups were observed in development of ECL cell hyperplasia, corpus atrophic gastritis, corpus intestinal metaplasia, or colon polyps exceeding 3 mm in diameter [see Clinical Pharmacology (12)].
 
 ## 12.3 Pharmacokinetics
 
@@ -75,6 +76,7 @@ Absorption
 Omeprazole delayed-release capsules contain an enteric-coated granule formulation of omeprazole (because omeprazole is acid-labile), so that absorption of omeprazole begins only after the granules leave the stomach.
 Absorption is rapid, with peak plasma levels of omeprazole occurring within 0.5 to 3.5 hours.
 Peak plasma concentrations of omeprazole and AUC are approximately proportional to doses up to 40 mg, but because of a saturable first-pass effect, a greater than linear response in peak plasma concentration and AUC occurs with doses greater than 40 mg.
+
 Absolute bioavailability (compared with intravenous administration) is about 30 to 40% at doses of 20 to 40 mg, due in large part to presystemic metabolism.
 In healthy subjects the plasma half-life is 0.5 to 1 hour, and the total body clearance is 500 to 600 mL/min.
 
@@ -100,7 +102,7 @@ The majority of the dose (about 77%) was eliminated in urine as at least six met
 Two were identified as hydroxyomeprazole and the corresponding carboxylic acid.
 The remainder of the dose was recoverable in feces.
 This implies a significant biliary excretion of the metabolites of omeprazole.
-Three metabolites have been identified in plasma — the sulfide and sulfone derivatives of omeprazole, and hydroxyomeprazole.
+Three metabolites have been identified in plasma - the sulfide and sulfone derivatives of omeprazole, and hydroxyomeprazole.
 These metabolites have very little or no antisecretory activity.
 
 Combination Therapy with Antimicrobials
@@ -115,13 +117,15 @@ For clarithromycin, the mean Cmax was 10% greater, the mean Cmin was 27% greater
 Similar results were seen for 14-hydroxy-clarithromycin, the mean Cmax was 45% greater, the mean Cmin was 57% greater, and the mean AUC0-8 was 45% greater.
 Clarithromycin concentrations in the gastric tissue and mucus were also increased by concomitant administration of omeprazole.
 
-Table 2 Clarithromycin Tissue Concentrations 2 hours after DoseMean ± SD (mcg/g)
+Table 2 Clarithromycin Tissue Concentrations 2 hours after Dose1
 
 | Tissue | Clarithromycin | Clarithromycin + Omeprazole |
 | --- | --- | --- |
 | Antrum | 10.48 ± 2.01 (n = 5) | 19.96 ± 4.71 (n=5) |
 | Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n= 5) |
 | Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n=4) |
+
+1Mean ± SD (mcg/g)
 
 Concomitant Use with Clopidogrel
 
@@ -148,19 +152,24 @@ The pharmacokinetics of omeprazole have been investigated in pediatric patients 
 
 Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
-| Single or Repeated Oral Dosing/ Parameter | ChildrenData from single and repeated dose studies ≤ 20 kg 2 to 5 years 10 mg | Children > 20 kg 6 to 16 years 20 mg | AdultsData from a single and repeated dose study (mean 76 kg) 23 to 29 years (n=12) |
+| Single or Repeated Oral Dosing/ Parameter | Children† ≤20 kg 2 to 5 years 10 mg | Children† > 20 kg 6 to 16 years 20 mg | Adults‡ (mean 76 kg) 23 to 29 years (n=12) |
 | --- | --- | --- | --- |
 | Single Dosing |  |  |  |
-| Cmax plasma concentration adjusted to an oral dose of 1 mg/kg. (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
-| AUC (ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
+| Cmax* (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
+| AUC* (ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
 | Repeated Dosing |  |  |  |
-| Cmax (ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
-| AUC (ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
+| Cmax* (ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
+| AUC* (ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
+
+Note: * = plasma concentration adjusted to an oral dose of 1 mg/kg.
+
+†Data from single and repeated dose studies
+
+‡Data from a single and repeated dose study
 
 Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules
 
-Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to 16 years of age or adults; AUCs of the latter two groups did not differ.
-[See Dosage and Administration (2)]
+Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to 16 years of age or adults; AUCs of the latter two groups did not differ [see Dosage and Administration (2)].
 
 Hepatic Impairment
 
@@ -195,19 +204,23 @@ One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory conce
 
 Table 4 Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 
-|  |  |  | S Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL | I | R | No MIC |
+|  |  |  | Sb | Ib | Rb | No MIC |
 | --- | --- | --- | --- | --- | --- | --- |
-| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes Includes only patients with pretreatment clarithromycin susceptibility test results |  |  |  |  |  |  |
+| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomesa |  |  |  |  |  |  |
 | Clarithromycin Pretreatment Results |  | Clarithromycin Post-treatment Results |  |  |  |  |
 |  |  | H. pylori negative – eradicated | H. pylori positive – not eradicated Post-treatment susceptibility results |  |  |  |
 | Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5) |  |  |  |  |  |  |
-| Susceptible | 108 | 72 | 1 |  | 26 | 9 |
-| Intermediate | 1 |  |  |  | 1 |  |
-| Resistant | 4 |  |  |  | 4 |  |
+| Susceptibleb | 108 | 72 | 1 |  | 26 | 9 |
+| Intermediateb | 1 |  |  |  | 1 |  |
+| Resistantb | 4 |  |  |  | 4 |  |
 | Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) |  |  |  |  |  |  |
-| Susceptible | 171 | 153 | 7 |  | 3 | 8 |
-| Intermediate |  |  |  |  |  |  |
-| Resistant | 14 | 4 | 1 |  | 6 | 3 |
+| Susceptibleb | 171 | 153 | 7 |  | 3 | 8 |
+| Intermediateb |  |  |  |  |  |  |
+| Resistantb | 14 | 4 | 1 |  | 6 | 3 |
+
+a Includes only patients with pretreatment clarithromycin susceptibility test results
+
+b Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL
 
 Patients not eradicated of H. pylori following omeprazole/clarithromycin/amoxicillin triple therapy or omeprazole/clarithromycin dual therapy will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, if possible.

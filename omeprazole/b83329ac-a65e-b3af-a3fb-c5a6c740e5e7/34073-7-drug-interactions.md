@@ -9,7 +9,7 @@ Co-­administration of saquinavir with proton pump inhibitors is expected to inc
 Omeprazole has been reported to interact with some antiretroviral drugs.
 The clinical importance and the mechanisms behind these interactions are not always known.
 Increased gastric pH during omeprazole treatment may change the absorption of the antiretroviral drug.
-Other possible interaction mechanisms are via CYP 2C19.
+Other possible interaction mechanisms are via CYP2C19.
 
 Reduced concentrations of atazanavir and nelfinavir
 
@@ -49,14 +49,14 @@ Dose adjustment of omeprazole is not normally required.
 However, in patients with Zollinger-Ellison syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
 When voriconazole (400 mg Q12h x 1 day, then 200 mg x 6 days) was given with omeprazole (40 mg once daily x 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
 
-Omeprazole acts as an inhibitor of CYP 2C19.
+Omeprazole acts as an inhibitor of CYP2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-­over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
 Cmax and AUC of one of its active metabolites, 3,4-­dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69% respectively.
 Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
 Therefore a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
 
 Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased omeprazole serum levels.
-In a cross-over study in 12 healthy male subjects, St John’s Wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
+In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
 Avoid concomitant use of St. John’s Wort or rifampin with omeprazole.
 
 Clopidogrel Omeprazole is an inhibitor of CYP2C19 enzyme.

@@ -10,36 +10,32 @@ Omeprazole delayed-release capsules, USP, in combination with clarithromycin and
 
 Omeprazole delayed-release capsules, USP, in combination with clarithromycin are indicated for treatment of patients with H. pylori infection and duodenal ulcer disease to eradicate H. pylori in adults.
 
-Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14.1) and Dosage and Administration (2)].
+Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [seeClinical Studies (14.1) and Dosage and Administration (2)].
 
 Among patients who fail therapy, omeprazole delayed-release capsules with clarithromycin are more likely to be associated with the development of clarithromycin resistance as compared with triple therapy.
 In patients who fail therapy, susceptibility testing should be done.
-If resistance to clarithromycin is demonstrated or susceptibility testing is not possible, alternative antimicrobial therapy should be instituted.
-[See Microbiology section (12.4)], and the clarithromycin package insert, Microbiology section.)
+If resistance to clarithromycin is demonstrated or susceptibility testing is not possible, alternative antimicrobial therapy should be instituted [see Microbiology section (12.4)], and the clarithromycin package insert, Microbiology section.)
 
 ## 1.2 Gastric Ulcer (adults)
 
-Omeprazole delayed-release capsules, USP are indicated for short-term treatment (4 to 8 weeks) of active benign gastric ulcer in adults.
-[See Clinical Studies (14.2)]
+Omeprazole delayed-release capsules, USP are indicated for short-term treatment (4 to 8 weeks) of active benign gastric ulcer in adults [see Clinical Studies (14.2)].
 
 ## 1.3 Treatment of Gastroesophageal Reflux Disease (GERD) (adults and pediatric patients)
 
 Symptomatic GERD Omeprazole delayed-release capsules, USP are indicated for the treatment of heartburn and other symptoms associated with GERD in pediatric patients and adults.
 
-Erosive Esophagitis Omeprazole delayed-release capsules, USP are indicated for the short-term treatment (4 to 8 weeks) of erosive esophagitis that has been diagnosed by endoscopy in pediatric patients and adults.
-[See Clinical Studies (14.4)]
+Erosive Esophagitis Omeprazole delayed-release capsules, USP are indicated for the short-term treatment (4 to 8 weeks) of erosive esophagitis that has been diagnosed by endoscopy in pediatric patients and adults [see Clinical Studies (14.4)].
 
 The efficacy of omeprazole delayed-release capsules, USP used for longer than 8 weeks in these patients has not been established.
 If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
-If there is recurrence of erosive esophagitis or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of omeprazole may be considered.
+If there is recurrence of erosive esophagitis or GERD symptoms (eg, heartburn), additional 4 to 8 week courses of omeprazole may be considered.
 
-## 1.4 Maintenance of Healing of Erosive Esophagitis (adults)
+## 1.4 Maintenance of Healing of Erosive Esophagitis (adults and pediatric patients)
 
 Omeprazole delayed-release capsules, USP are indicated to maintain healing of erosive esophagitis in pediatric patients and adults.
 
-Controlled studies do not extend beyond 12 months.
-[See Clinical Studies (14.4)]
+Controlled studies do not extend beyond 12 months [see Clinical Studies (14.4)].
 
-## 1.5 Pathological Hypersecretory Conditions
+## 1.5 Pathological Hypersecretory Conditions (adults)
 
-Omeprazole delayed-release capsules, USP are indicated for the long-term treatment of pathological hypersecretory conditions (e.g., Zollinger-Ellison syndrome, multiple endocrine adenomas and systemic mastocytosis) in adults.
+Omeprazole delayed-release capsules, USP are indicated for the long-term treatment of pathological hypersecretory conditions (eg, Zollinger-Ellison syndrome, multiple endocrine adenomas and systemic mastocytosis) in adults.
