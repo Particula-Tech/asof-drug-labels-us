@@ -100,7 +100,7 @@ If you also use another medicine by inhalation, you should ask your doctor for i
 
 6.
 Children should use FLOVENT HFA with an adult’s help, as instructed by the child’s healthcare provider.
-A valved holding chamber (a kind of spacer) and face mask may be used to deliver FLOVENT HFA to young patients.
+A valved holding chamber (a kind of spacer) and mask may be used to deliver FLOVENT HFA to young patients.
 
 What should I avoid while taking FLOVENT HFA?
 
@@ -111,19 +111,19 @@ What are the possible side effects of FLOVENT HFA?
 FLOVENT HFA can cause serious side effects, including:
 
 - •fungal infections (thrush) in your mouth and throat.
-  Tell your doctor if you have any redness or white-colored coating in your mouth
+  Tell your doctor if you have any redness or white-colored coating in your mouth.
 - •decreased ability to fight infections.
   Symptoms of infection may include: fever, pain, aches, chills, feeling tired, nausea and vomiting.
   Tell your doctor about any signs of infection while you use FLOVENT HFA.
 - •decreased adrenal function (adrenal insufficiency).
   Symptoms of decreased adrenal function include tiredness, weakness, nausea and vomiting, and low blood pressure.
-  Decreased adrenal function can lead to death
+  Decreased adrenal function can lead to death.
 - •allergic reaction (anaphylaxis).
   Call your doctor and stop FLOVENT HFA right away if you have any symptoms of an allergic reaction:
-  - ∘swelling of the face, throat and tongue
-  - ∘hives
-  - ∘rash
-  - ∘breathing problems
+  - •swelling of the face, throat and tongue
+  - •hives
+  - •rash
+  - •breathing problems
 - •lower bone mineral density.
   This may be a problem for people who already have a higher chance of low bone density (osteoporosis).
 - •slow growth in children.
@@ -205,7 +205,7 @@ Using your FLOVENT HFA
   You must prime the inhaler again if you have not used it in more than 7 days or if you drop it.
   Take the cap off the mouthpiece and shake the inhaler well for 5 seconds.
   Then spray it 1 time into the air away from your face.
-- •If a child needs help using the inhaler, an adult should help the child use the inhaler with or without a valved holding chamber, which may also be attached to a face mask.
+- •If a child needs help using the inhaler, an adult should help the child use the inhaler with or without a valved holding chamber, which may also be attached to a mask.
   The adult should follow the instructions that came with the valved holding chamber.
   An adult should watch a child use the inhaler to be sure it is used correctly.
 
@@ -227,10 +227,11 @@ If you have any questions, ask your doctor or pharmacist.
 1. 1.Hold your breath as long as you can, up to 10 seconds.
    Then breathe normally.
 2. 2.Wait about 30 seconds and shake the inhaler well for 5 seconds.
-   Repeat steps 2 through 4.After you finish taking this medicine, rinse your mouth with water.
+   Repeat steps 2 through 4.
+3. After you finish taking this medicine, rinse your mouth with water.
    Spit out the water.
    Do not swallow it.
-3. 3.Put the cap back on the mouthpiece after each time you use the inhaler.
+4. 3.Put the cap back on the mouthpiece after each time you use the inhaler.
    Make sure it snaps firmly into place.
 
 Cleaning your FLOVENT HFA
@@ -253,20 +254,20 @@ Replacing your FLOVENT HFA
 - •When the counter reads 020, you should refill your prescription or ask your doctor if you need a refill of your prescription.
 - •When the counter reads 000, throw the inhaler away.
   You should not keep using the inhaler because you will not receive the right amount of medicine.
-- •Do not use the inhaler after the expiration date, which is on the packaging it comes in.This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+- •Do not use the inhaler after the expiration date, which is on the packaging it comes in.
+- This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-FLOVENT is a registered trademark of GlaxoSmithKline.
-
-The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
+FLOVENT is a registered trademark of the GSK group of companies.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-July 2013
+May 2014
 
-FLH:3PIL
+FLH:4PIL

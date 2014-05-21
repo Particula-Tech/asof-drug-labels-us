@@ -51,17 +51,17 @@ Patients should not increase the prescribed dosage but should contact their phys
 Patients should be instructed not to stop use of FLOVENT HFA abruptly.
 Patients should contact their physicians immediately if they discontinue use of FLOVENT HFA.
 
-DISKUS, FLOVENT, ROTADISK, and VENTOLIN are registered trademarks of GlaxoSmithKline.
-
-AeroChamber Plus is a registered trademark and AeroChamber Z-STAT Plus is a trademark of Monaghan Medical Corp. or an affiliate of Monaghan Medical Corp.
+DISKUS, FLOVENT, ROTADISK, and VENTOLIN are registered trademarks of the GSK group of companies.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-FLH:5PI
+FLH:6PI
 
 PHARMACIST—DETACH HERE AND GIVE LEAFLET TO PATIENT

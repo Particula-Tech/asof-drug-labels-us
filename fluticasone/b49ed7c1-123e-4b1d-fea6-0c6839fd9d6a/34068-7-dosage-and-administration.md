@@ -16,8 +16,8 @@ Recommended Dosages of FLOVENT HFA Inhalation Aerosol
 | NOTE: In all patients, it is desirable to titrate to the lowest effective dosage once asthma stability is achieved. |  |  |
 | --- | --- | --- |
 | Previous Therapy | Recommended Starting Dosage | Highest Recommended Dosage |
-| Adult and adolescent patients (aged 12 years and older) | 88 mcg twice daily88-220 mcg twice dailya440 mcg twice daily | 440 mcg twice daily440 mcg twice daily880 mcg twice daily |
-| Bronchodilators aloneInhaled corticosteroidsOral corticosteroidsb |  |  |
+| Adult and adolescent patients (aged 12 years and older) |  |  |
+| Bronchodilators aloneInhaled corticosteroidsOral corticosteroidsb | 88 mcg twice daily88-220 mcg twice dailya440 mcg twice daily | 440 mcg twice daily440 mcg twice daily880 mcg twice daily |
 | Pediatric patients (aged 4-11 years)c | 88 mcg twice daily | 88 mcg twice daily |
 
 a Starting dosages above 88 mcg twice daily may be considered for patients with poorer asthma control or those who have previously required doses of inhaled corticosteroids that are in the higher range for the specific agent.
@@ -27,7 +27,7 @@ Patients should be carefully monitored for signs of asthma instability, includin
 Once prednisone reduction is complete, the dosage of FLOVENT HFA should be reduced to the lowest effective dosage.
 
 c Recommended pediatric dosage is 88 mcg twice daily regardless of prior therapy.
-A valved holding chamber and face mask may be used to deliver FLOVENT HFA to young patients.
+A valved holding chamber and mask may be used to deliver FLOVENT HFA to young patients.
 
 FLOVENT HFA should be primed before using for the first time by releasing 4 test sprays into the air away from the face, shaking well for 5 seconds before each spray.
 In cases where the inhaler has not been used for more than 7 days or when it has been dropped, prime the inhaler again by shaking well for 5 seconds and releasing 1 test spray into the air away from the face.

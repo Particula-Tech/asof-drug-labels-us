@@ -27,7 +27,7 @@ Adverse Reactions With >3% Incidence in US Controlled Clinical Trials With FLOVE
 | Sinusitis/sinus infection | 6 | 7 | 4 | 3 |
 | Hoarseness/dysphonia | 2 | 3 | 6 | <1 |
 | Gastrointestinal |  |  |  |  |
-| Candidiasis mouth/throat & non-site specific | 4 | 2 | 5 | <1 |
+| Candidiasis mouth/throat and non-site specific | 4 | 2 | 5 | <1 |
 | Lower respiratory |  |  |  |  |
 | Cough | 4 | 6 | 4 | 5 |
 | Bronchitis | 2 | 2 | 6 | 5 |
@@ -63,10 +63,12 @@ Eye: Cataracts.
 
 Gastrointestinal Disorders: Dental caries and tooth discoloration.
 
+Immune System Disorders: Immediate and delayed hypersensitivity reactions, including urticaria, anaphylaxis, rash, and angioedema and bronchospasm, have been reported.
+
+Infections and Infestations: Esophageal candidiasis.
+
 Psychiatry: Agitation, aggression, anxiety, depression, and restlessness.
 Behavioral changes, including hyperactivity and irritability, have been reported very rarely and primarily in children.
-
-Immune System Disorders: Immediate and delayed hypersensitivity reactions, including urticaria, anaphylaxis, rash, and angioedema and bronchospasm, have been reported.
 
 Respiratory: Asthma exacerbation, chest tightness, cough, dyspnea, immediate and delayed bronchospasm, paradoxical bronchospasm, pneumonia, and wheeze.
 
