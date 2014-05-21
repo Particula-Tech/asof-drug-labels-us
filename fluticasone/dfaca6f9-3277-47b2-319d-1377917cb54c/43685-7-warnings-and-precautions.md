@@ -31,7 +31,7 @@ The data from the SMART study are not adequate to determine whether concurrent u
 Table 1.
 Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Research Trial (SMART)
 
-|  | Salmeteroln (%a) | Placebon (%a) | Relative Riskb(95% ConfidenceInterval) | Excess DeathsExpressed per10,000 Patientsc(95% ConfidenceInterval) |
+|  | Salmeteroln (%a) | Placebon (%a) | Relative Riskb(95% Confidence Interval) | Excess Deaths Expressed per 10,000 Patientsc(95% Confidence Interval) |
 | --- | --- | --- | --- | --- |
 | Total Populationd |  |  |  |  |
 | Salmeterol: n = 13,176 | 13 (0.10%) |  | 4.37 (1.25, 15.34) | 8 (3, 13) |

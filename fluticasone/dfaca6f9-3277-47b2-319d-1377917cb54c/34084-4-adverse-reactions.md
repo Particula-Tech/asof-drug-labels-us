@@ -2,7 +2,8 @@
 
 LABAs, such as salmeterol, one of the active ingredients in ADVAIR HFA, increase the risk of asthma-related death.
 Data from a large placebo-controlled US study that compared the safety of salmeterol (SEREVENT Inhalation Aerosol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol [see Warnings and Precautions (5.1)].
-Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABAs.Available data from controlled clinical trials suggest that LABAs increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABAs.
+Available data from controlled clinical trials suggest that LABAs increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 
 Systemic and local corticosteroid use may result in the following:
 
@@ -27,7 +28,7 @@ Adverse Reactions With ≥3% Incidence With ADVAIR HFA Inhalation Aerosol in Adu
 | Adverse Event | ADVAIR HFA Inhalation Aerosol |  | Fluticasone Propionate CFC Inhalation Aerosol |  | Salmeterol CFC Inhalation Aerosol | Placebo HFA Inhalation Aerosol |
 | --- | --- | --- | --- | --- | --- | --- |
 | 45/21(n = 187)% | 115/21(n = 94)% | 44 mcg(n = 186)% | 110 mcg(n = 91)% | 21 mcg(n = 274)% | (n = 176)% |  |
-| Ear, nose, & throat |  |  |  |  |  |  |
+| Ear, nose, and throat |  |  |  |  |  |  |
 | Upper respiratory tract infection | 16 | 24 | 13 | 15 | 17 | 13 |
 | Throat irritation | 9 | 7 | 12 | 13 | 9 | 7 |
 | Upper respiratory inflammation | 4 | 4 | 3 | 7 | 5 | 3 |
@@ -38,9 +39,9 @@ Adverse Reactions With ≥3% Incidence With ADVAIR HFA Inhalation Aerosol in Adu
 | Headache | 21 | 15 | 24 | 16 | 20 | 11 |
 | Dizziness | 4 | 1 | 1 | 0 | <1 | 0 |
 | Gastrointestinal |  |  |  |  |  |  |
-| Nausea & vomiting | 5 | 3 | 4 | 2 | 2 | 3 |
+| Nausea and vomiting | 5 | 3 | 4 | 2 | 2 | 3 |
 | Viral gastrointestinal infection | 4 | 2 | 2 | 0 | 1 | 2 |
-| Gastrointestinal signs & symptoms | 3 | 2 | 2 | 1 | 1 | 1 |
+| Gastrointestinal signs and symptoms | 3 | 2 | 2 | 1 | 1 | 1 |
 | Musculoskeletal |  |  |  |  |  |  |
 | Musculoskeletal pain | 5 | 7 | 8 | 2 | 4 | 4 |
 | Muscle pain | 4 | 1 | 1 | 1 | 3 | <1 |
@@ -70,6 +71,8 @@ Gastrointestinal: Dyspepsia, xerostomia.
 Hepatobiliary Tract and Pancreas: Abnormal liver function tests.
 
 Immune System: Immediate and delayed hypersensitivity reactions, including rash and rare events of angioedema, bronchospasm, and anaphylaxis.
+
+Infections and Infestations: Esophageal candidiasis.
 
 Musculoskeletal: Back pain, myositis.
 

@@ -13,7 +13,7 @@ ADVAIR HFA is not meant to relieve acute asthma symptoms, and extra doses should
 Acute symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol.
 The healthcare provider should provide the patient with such medication and instruct the patient in how it should be used.
 
-1. Patients should be instructed to seek medical attention immediately if they experience any of the following:
+Patients should be instructed to seek medical attention immediately if they experience any of the following:
 
 - •Decreasing effectiveness of inhaled, short-acting beta2-agonists
 - •Need for more inhalations than usual of inhaled, short-acting beta2-agonists
@@ -51,20 +51,18 @@ Ocular Effects: Long-term use of inhaled corticosteroids may increase the risk o
 
 Patients should be informed of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
-ADVAIR, ADVAIR DISKUS, DISKUS, FLOVENT, FLONASE, ROTADISK, SEREVENT, and VENTOLIN are registered trademarks of GlaxoSmithKline.
+ADVAIR, ADVAIR DISKUS, DISKUS, FLONASE, FLOVENT, ROTADISK, SEREVENT, and VENTOLIN are registered trademarks of the GSK group of companies.
 
-The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-March 2013
-
-ADH:8PI
+ADH:9PI
 
 - PHARMACIST—DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT

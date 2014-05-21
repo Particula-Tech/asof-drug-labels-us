@@ -22,23 +22,24 @@ ADVAIR HFA can cause serious side effects, including:
 
 1. 1.People with asthma who take long-acting beta2-adrenergic agonist (LABA) medicines, such as salmeterol (one of the medicines in ADVAIR HFA), have an increased risk of death from asthma problems.
    It is not known whether fluticasone propionate, the other medicine in ADVAIR HFA, reduces the risk of death from asthma problems seen with salmeterol.
-   - ∘Call your healthcare provider if breathing problems worsen over time while using ADVAIR HFA.
-     You may need different treatment.
-   - ∘Get emergency medical care if:
-     - ▪breathing problems worsen quickly and
-     - ▪you use your rescue inhaler medicine, but it does not relieve your breathing problems.
-2. 2.ADVAIR HFA should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as inhaled corticosteroids.
-3. 3.When your asthma is well controlled, your healthcare provider may tell you to stop taking ADVAIR HFA.
-   Your healthcare provider will decide if you can stop ADVAIR HFA without loss of asthma control.
-   Your healthcare provider may prescribe a different long-term asthma control medicine for you, such as an inhaled corticosteroid.
-4. 4.Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
+
+- •Call your healthcare provider if breathing problems worsen over time while using ADVAIR HFA.
+  You may need different treatment.
+- •Get emergency medical care if:
+  - •breathing problems worsen quickly and
+  - •you use your rescue inhaler medicine, but it does not relieve your breathing problems.
+- 2.ADVAIR HFA should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as inhaled corticosteroids.
+- 3.When your asthma is well controlled, your healthcare provider may tell you to stop taking ADVAIR HFA.
+  Your healthcare provider will decide if you can stop ADVAIR HFA without loss of asthma control.
+  Your healthcare provider may prescribe a different long-term asthma control medicine for you, such as an inhaled corticosteroid.
+- 4.Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
 
 What is ADVAIR HFA?
 
 - •ADVAIR HFA combines an inhaled corticosteroid medicine, fluticasone propionate (the same medicine found in FLOVENT®), and a LABA medicine, salmeterol (the same medicine found in SEREVENT®).
-  - ∘Inhaled corticosteroids help to decrease inflammation in the lungs.
+  - •Inhaled corticosteroids help to decrease inflammation in the lungs.
     Inflammation in the lungs can lead to asthma symptoms.
-  - ∘LABA medicines are used in people with asthma and chronic obstructive pulmonary disease (COPD).
+  - •LABA medicines are used in people with asthma and chronic obstructive pulmonary disease (COPD).
     LABA medicines help the muscles around the airways in your lungs stay relaxed to prevent symptoms, such as wheezing and shortness of breath.
     These symptoms can happen when the muscles around the airways tighten.
     This makes it hard to breathe.
@@ -112,34 +113,34 @@ Ask your healthcare provider or pharmacist if you have any questions.
   Always have a rescue inhaler medicine with you to treat sudden symptoms.
   If you do not have a short-acting bronchodilator rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
-  - ∘your breathing problems worsen with ADVAIR HFA
-  - ∘you need to use your rescue inhaler medicine more often than usual
-  - ∘your rescue inhaler medicine does not work as well for you at relieving symptoms
-  - ∘you need to use 4 or more inhalations of your rescue inhaler medicine for 2 or more days in a row
-  - ∘you use 1 whole canister of your rescue inhaler medicine in 8 weeks’ time
-  - ∘your peak flow meter results decrease.
+  - •your breathing problems worsen with ADVAIR HFA
+  - •you need to use your rescue inhaler medicine more often than usual
+  - •your rescue inhaler medicine does not work as well for you at relieving symptoms
+  - •you need to use 4 or more inhalations of your rescue inhaler medicine for 2 or more days in a row
+  - •you use 1 whole canister of your rescue inhaler medicine in 8 weeks’ time
+  - •your peak flow meter results decrease.
     Your healthcare provider will tell you the numbers that are right for you.
-  - ∘your asthma symptoms do not improve after using ADVAIR HFA regularly for 1 week
+  - •your asthma symptoms do not improve after using ADVAIR HFA regularly for 1 week
 
 What are the possible side effects with ADVAIR HFA?
 
-ADVAIR HFA can cause serious side effects, including:
+1. ADVAIR HFA can cause serious side effects, including:
 
 - •See “What is the most important information I should know about ADVAIR HFA?”
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - ∘rash
-  - ∘hives
-  - ∘swelling of the face, mouth, and tongue
-  - ∘breathing problems
+  - •rash
+  - •hives
+  - •swelling of the face, mouth, and tongue
+  - •breathing problems
 - •sudden breathing problems immediately after inhaling your medicine
 - •effects on heart
-  - ∘increased blood pressure
-  - ∘a fast and irregular heartbeat
-  - ∘chest pain
+  - •increased blood pressure
+  - •a fast and irregular heartbeat
+  - •chest pain
 - •effects on nervous system
-  - ∘tremor
-  - ∘nervousness
+  - •tremor
+  - •nervousness
 - •reduced adrenal function (may result in loss of energy)
 - •changes in blood (sugar, potassium, certain types of white blood cells)
 - •weakened immune system and a higher chance of infections
@@ -157,12 +158,12 @@ ADVAIR HFA can cause serious side effects, including:
   ADVAIR DISKUS may increase the chance of getting pneumonia.
   ADVAIR HFA has not been studied in people with COPD.
   Call your healthcare provider if you notice any of the following symptoms:
-  - ∘increase in mucus (sputum) production
-  - ∘change in mucus color
-  - ∘fever
-  - ∘chills
-  - ∘increased cough
-  - ∘increased breathing problems
+  - •increase in mucus (sputum) production
+  - •change in mucus color
+  - •fever
+  - •chills
+  - •increased cough
+  - •increased breathing problems
 
 Common side effects of ADVAIR HFA include:
 
@@ -214,6 +215,8 @@ The parts of your ADVAIR HFA
 
 There are 2 main parts to your ADVAIR HFA inhaler—the metal canister that holds the medicine and the purple plastic actuator that sprays the medicine from the canister (see Figure 1).
 
+Figure 1
+
 The canister has a counter to show how many sprays of medicine you have left.
 The number shows through a window in the back of the actuator.
 The counter starts at 124, or at 064 if you have a sample or institutional canister.
@@ -257,52 +260,50 @@ If you have any questions, ask your doctor or pharmacist.
 3. Make sure the canister fits firmly in the actuator.
 4. Shake the inhaler well for 5 seconds.
 
-2.
-Hold the inhaler with the mouthpiece down (see Figure 2).
+Figure 2
 
+- 2.
+  Hold the inhaler with the mouthpiece down (see Figure 2).
 - Breathe out through your mouth and push as much air from your lungs as you can.
   Put the mouthpiece in your mouth and close your lips around it.
-
-3.
-Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
-
+- 3.
+  Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
 - Right after the spray comes out, take your finger off the canister.
   After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
 
-4.Hold your breath as long as you can, up to 10 seconds, then breathe normally.
+Figure 3
 
-5.Wait about 30 seconds and shake the inhaler well for 5 seconds.
-Repeat steps 2 through 4.
-
-6.
-After you finish taking this medicine, rinse your mouth with water.
-Spit out the water.
-Do not swallow it.
-
-7.
-Put the cap back on the mouthpiece after every time you use the inhaler.
-Make sure it snaps firmly into place.
+- 4.Hold your breath as long as you can, up to 10 seconds, then breathe normally.
+- 5.Wait about 30 seconds and shake the inhaler well for 5 seconds.
+  Repeat steps 2 through 4.
+- 6.
+  After you finish taking this medicine, rinse your mouth with water.
+  Spit out the water.
+  Do not swallow it.
+- 7.
+  Put the cap back on the mouthpiece after every time you use the inhaler.
+  Make sure it snaps firmly into place.
 
 Cleaning your ADVAIR HFA
 
 Clean your inhaler at least 1 time each week after your evening dose.
 It is important to keep the canister and plastic actuator clean so the medicine will not build-up and block the spray.
 
-1.
-Take the cap off the mouthpiece.
-The strap on the cap will stay attached to the actuator.
-Do not take the canister out of the plastic actuator.
+- 1.
+  Take the cap off the mouthpiece.
+  The strap on the cap will stay attached to the actuator.
+  Do not take the canister out of the plastic actuator.
+- 2.
+  Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
+  Carefully twist the swab in a circular motion to take off any medicine (see Figure 4).
 
-2.
-Use a dry cotton swab to clean the small circular opening where the medicine sprays out of the canister.
-Carefully twist the swab in a circular motion to take off any medicine (see Figure 4).
+Figure 4
 
-3.
-Wipe the inside of the mouthpiece with a clean tissue dampened with water.
-Let the actuator air-dry overnight.
-
-4.
-Put the cap back on the mouthpiece after the actuator has dried.
+- 3.
+  Wipe the inside of the mouthpiece with a clean tissue dampened with water.
+  Let the actuator air-dry overnight.
+- 4.
+  Put the cap back on the mouthpiece after the actuator has dried.
 
 Replacing your ADVAIR HFA
 
@@ -313,17 +314,17 @@ Replacing your ADVAIR HFA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-ADVAIR, ADVAIR DISKUS, FLOVENT, and SEREVENT are registered trademarks of GlaxoSmithKline.
-The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
+ADVAIR, ADVAIR DISKUS, FLOVENT, and SEREVENT are registered trademarks of the GSK group of companies.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2012, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-December 2012
+May 2014
 
-ADH:8MG
+ADH:9MG

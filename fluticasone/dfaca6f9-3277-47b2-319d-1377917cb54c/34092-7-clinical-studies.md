@@ -17,10 +17,10 @@ Baseline FEV1 measurements were similar across treatments: ADVAIR HFA 45/21, 2.2
 
 Predefined withdrawal criteria for lack of efficacy, an indicator of worsening asthma, were utilized for this placebo-controlled study.
 Worsening asthma was defined as a clinically important decrease in FEV1 or PEF, increase in use of VENTOLIN® (albuterol, USP) Inhalation Aerosol, increase in night awakenings due to asthma, emergency intervention or hospitalization due to asthma, or requirement for asthma medication not allowed by the protocol.
-As shown in Table 4, statistically significantly fewer patients receiving ADVAIR HFA 45/21 were withdrawn due to worsening asthma compared with salmeterol and placebo.
+As shown in Table 3, statistically significantly fewer patients receiving ADVAIR HFA 45/21 were withdrawn due to worsening asthma compared with salmeterol and placebo.
 Fewer patients receiving ADVAIR HFA 45/21 were withdrawn due to worsening asthma compared with fluticasone propionate 44 mcg; however, the difference was not statistically significant.
 
-Table 4.
+Table 3.
 Percent of Patients Withdrawn Due to Worsening Asthma in Patients Previously Treated With Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
 
 | ADVAIR HFA 45/21 Inhalation Aerosol(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol44 mcg(n = 89) | Salmeterol CFC Inhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |
@@ -35,9 +35,9 @@ These improvements in FEV1 with ADVAIR HFA 45/21 were achieved regardless of bas
 Figure 2.
 Mean Percent Change From Baseline in FEV1 in Patients Previously Treated With Either Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
 
-The effect of ADVAIR HFA 45/21 on the secondary efficacy parameters, including morning and evening PEF, usage of VENTOLIN Inhalation Aerosol, and asthma symptoms over 24 hours on a scale of 0 to 5 is shown in Table 5.
+The effect of ADVAIR HFA 45/21 on the secondary efficacy parameters, including morning and evening PEF, usage of VENTOLIN Inhalation Aerosol, and asthma symptoms over 24 hours on a scale of 0 to 5 is shown in Table 4.
 
-Table 5.
+Table 4.
 Secondary Efficacy Variable Results for Patients Previously Treated With Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
 
 | Efficacy Variablea | ADVAIR HFA 45/21 Inhalation Aerosol (n = 92) | Fluticasone Propionate CFC Inhalation Aerosol 44 mcg (n = 89) | Salmeterol CFC Inhalation Aerosol 21 mcg (n = 92) | Placebo HFA Inhalation Aerosol (n = 87) |
@@ -54,8 +54,6 @@ Secondary Efficacy Variable Results for Patients Previously Treated With Beta2-A
 | Asthma symptom score/day |  |  |  |  |
 | Baseline | 1.8 | 1.6 | 1.7 | 1.7 |
 | Change from baseline | -1.0 | -0.3 | -0.4 | 0 |
-
-a Change from baseline = change from baseline at Endpoint (last available data).
 
 The subjective impact of asthma on patients’ perceptions of health was evaluated through use of an instrument called the Asthma Quality of Life Questionnaire (AQLQ) (based on a 7‑ point scale where 1 = maximum impairment and 7 = none).
 Patients receiving ADVAIR HFA 45/21 had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of ≥0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.14 [95% CI: 0.85, 1.44] compared with placebo).
