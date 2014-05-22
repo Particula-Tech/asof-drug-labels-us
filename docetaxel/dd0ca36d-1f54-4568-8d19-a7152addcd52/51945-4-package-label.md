@@ -10,9 +10,7 @@ Docetaxel Injection Concentrate
 
 (20 mg/mL)
 
-READY TO ADD TO INFUSION SOLUTION
-
-For Intravenous Infusion Only
+READY TO ADD TO INFUSION SOLUTION For Intravenous Infusion Only
 
 Contains 4 mL
 
@@ -30,9 +28,7 @@ Docetaxel Injection Concentrate
 
 20 mg/mL
 
-READY TO ADD TO INFUSION SOLUTION
-
-For Intravenous Infusion Only
+READY TO ADD TO INFUSION SOLUTION For Intravenous Infusion Only
 
 Contains 1 mL
 
