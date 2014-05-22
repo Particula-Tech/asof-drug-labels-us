@@ -19,8 +19,8 @@ Patients should be assessed for therapeutic response and tolerability at a minim
 
 Due to the flexible dose design used in clinical trials, specific dose-response information could not be determined [see Clinical Studies (14)].
 
-When discontinuing therapy with MIRAPEX ER, taper the dose gradually over a period of one week.
-In some studies with immediate-release pramipexole tablets, however, abrupt discontinuation was uneventful.
+MIRAPEX ER tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
+Thereafter, the dose may be reduced by 0.375 mg per day.
 
 Dosing in Patients with Renal Impairment The elimination of pramipexole is dependent on renal function [see Clinical Pharmacology (12.3)].
 Patients with mild renal impairment (a creatinine clearance above 50 mL/min) require no reduction in daily dose.

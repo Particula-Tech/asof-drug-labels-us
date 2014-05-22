@@ -5,7 +5,8 @@ See FDA-Approved Patient Labeling
 ## 17.1 Dosing Instructions
 
 Instruct patients to take MIRAPEX ER tablets only as prescribed.
-If a dose is missed, advise patients not to double their next dose.
+If a dose is missed, MIRAPEX ER tablets should be taken as soon as possible, but no later than 12 hours after the regularly scheduled time.
+After 12 hours, the missed dose should be skipped and the next dose should be taken on the following day at the regularly scheduled time.
 
 MIRAPEX ER tablets can be taken with or without food.
 If patients develop nausea, advise that taking MIRAPEX ER tablets with food may reduce the occurrence of nausea.
@@ -53,6 +54,6 @@ Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
 
 Trademark under license from: Boehringer Ingelheim International GmbH
 
-©2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright ©2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-OT220011XH062013 74988-10
+OT220011YE142014 74988-11

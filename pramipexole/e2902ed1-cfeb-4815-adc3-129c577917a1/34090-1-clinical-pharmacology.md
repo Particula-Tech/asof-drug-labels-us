@@ -11,7 +11,7 @@ The relevance of D3 receptor binding in Parkinson’s disease is unknown.
 ## 12.2 Pharmacodynamics
 
 The effect of pramipexole on the QT interval of the ECG was investigated in a clinical study in 60 healthy male and female volunteers.
-All subjects initiated treatment with 0.375 mg MIRAPEX ER tablets administered once daily, and were up-titrated every 3 days to 2.25 mg and 4.5 mg daily.
+All subjects initiated treatment with 0.375 mg MIRAPEX ER tablets administered once daily, and were up-titrated every 3 days to 2.25 mg and 4.5 mg daily, a faster rate of titration than recommended in the label.
 No dose- or exposure-related effect on mean QT intervals was observed; however the study did not have a valid assessment of assay sensitivity.
 The effect of pramipexole on QTc intervals at higher exposures achieved either due to drug interactions (e.g., with cimetidine), renal impairment, or at higher doses has not been systematically evaluated.
 
@@ -79,6 +79,7 @@ Cimetidine: Cimetidine, a known inhibitor of renal tubular secretion of organic 
 Probenecid: Probenecid, a known inhibitor of renal tubular secretion of organic acids via the anionic transporter, did not noticeably influence pramipexole pharmacokinetics (N=12).
 
 Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that co-administration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of pramipexole by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole.
+Other known organic cation transport substrates and/or inhibitors (e.g., cisplatin and procainamide) may also decrease the clearance of pramipexole.
 
 CYP interactions: Inhibitors of cytochrome P450 enzymes would not be expected to affect pramipexole elimination because pramipexole is not appreciably metabolized by these enzymes in vivo or in vitro.
 Pramipexole does not inhibit CYP enzymes CYP1A2, CYP2C9, CYP2C19, CYP2E1, and CYP3A4.
