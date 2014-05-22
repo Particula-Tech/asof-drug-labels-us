@@ -2,35 +2,24 @@ Principal Display Panel
 
 NDC 0173-0695-00
 
-ADVAIR DISKUS®
-
-100/50
+ADVAIR DISKUS®100/50
 
 (fluticasone propionate 100 mcg and salmeterol* 50 mcg inhalation powder)
 
 FOR ORAL INHALATION ONLY
 
-Rx only
-
 * Each blister contains 100 mcg of fluticasone propionate and 72.5 mcg of salmeterol xinafoate, equivalent to 50 mcg of salmeterol base, with lactose.
 
-IMPORTANT: Read the accompanying Medication Guide leaflet carefully for further information.
+Federal Law requires the dispensing of ADVAIR DISKUS with the Medication Guide inside the carton.
 
-Discard the Diskus® 1 month after removal from the overwrap.
-Fill in the dates on the Diskus® appropriately.
-
-Dosage: Use only as directed by your doctor.
-
-Store at controlled room temperature (see USP), 20o to 25oC (68o to 77oF) in a dry place away from direct heat or sunlight.
+Rx only
 
 1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-GlaxoSmithKline
+©2014, the GSK group of companies
 
-Research Triangle Park, NC 27709
-
-10000000046630 Rev.
-9/07
+10000000123893 Rev.
+2/14
 
 Principal Display Panel
 
@@ -48,23 +37,16 @@ Rx only
 
 * Each blister contains 250 mcg of fluticasone propionate and 72.5 mcg of salmeterol xinafoate, equivalent to 50 mcg of salmeterol base, with lactose.
 
-IMPORTANT: Read the accompanying Medication Guide leaflet carefully for further information.
+Federal Law requires the dispensing of ADVAIR DISKUS with the Medication Guide inside the carton.
 
-Discard the Diskus® 1 month after removal from the overwrap.
-Fill in the dates on the Diskus® appropriately.
-
-Dosage: Use only as directed by your doctor.
-
-Store at controlled room temperature (see USP), 20o to 25oC (68o to 77oF) in a dry place away from direct heat or sunlight.
+Rx only
 
 1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-GlaxoSmithKline
+©2014, the GSK group of companies
 
-Research Triangle Park, NC 27709
-
-10000000046633 Rev.
-10/07
+10000000123891 Rev.
+2/14
 
 Principal Display Panel
 
@@ -82,20 +64,13 @@ Rx only
 
 * Each blister contains 500 mcg of fluticasone propionate and 72.5 mcg of salmeterol xinafoate, equivalent to 50 mcg of salmeterol base, with lactose.
 
-IMPORTANT: Read the accompanying Medication Guide leaflet carefully for further information.
+Federal Law requires the dispensing of ADVAIR DISKUS with the Medication Guide inside the carton.
 
-Discard the Diskus® 1 month after removal from the overwrap.
-Fill in the dates on the Diskus® appropriately.
-
-Dosage: Use only as directed by your doctor.
-
-Store at controlled room temperature (see USP), 20o to 25oC (68o to 77oF) in a dry place away from direct heat or sunlight.
+Rx only
 
 1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
-GlaxoSmithKline
+©2014, the GSK group of companies
 
-Research Triangle Park, NC 27709
-
-10000000048352 Rev.
-10/07
+10000000123892 Rev.
+2/14

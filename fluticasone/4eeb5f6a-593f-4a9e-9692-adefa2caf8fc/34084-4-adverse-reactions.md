@@ -135,6 +135,8 @@ Gastrointestinal Disorders: Abdominal pain, dyspepsia, xerostomia.
 Immune System Disorders: Immediate and delayed hypersensitivity reaction (including very rare anaphylactic reaction).
 Very rare anaphylactic reaction in patients with severe milk protein allergy.
 
+Infections and Infestations: Esophageal candidiasis.
+
 Metabolic and Nutrition Disorders: Hyperglycemia, weight gain.
 
 Musculoskeletal, Connective Tissue, and Bone Disorders: Arthralgia, cramps, myositis, osteoporosis.
