@@ -1,5 +1,3 @@
-# FDA-Approved Patient Labeling
-
 PATIENT INFORMATION SPRYCEL® (Spry-sell) (dasatinib) Tablets
 
 Read the Patient Information that comes with SPRYCEL before you start taking it and each time you get a refill.
@@ -174,4 +172,8 @@ Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Rev April 2014
+Product of Ireland
+
+Rev May 2014
+
+1284903A3

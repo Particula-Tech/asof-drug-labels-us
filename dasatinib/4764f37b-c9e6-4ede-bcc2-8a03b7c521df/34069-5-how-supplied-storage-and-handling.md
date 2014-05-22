@@ -17,7 +17,7 @@ Table 10: SPRYCEL Trade Presentations
 
 ## 16.2 Storage
 
-SPRYCEL® tablets should be stored at 20° to 25°C (68° to 77°F); excursions permitted between 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
+SPRYCEL® tablets should be stored at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 
 ## 16.3 Handling and Disposal
 
