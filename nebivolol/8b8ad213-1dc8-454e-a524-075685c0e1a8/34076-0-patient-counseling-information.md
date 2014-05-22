@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.2).
+See FDA-approved patient labeling (Patient Information).
 
-## 17.1 Patient Advice
+- Patient Advice
 
 Advise patients to take BYSTOLIC regularly and continuously, as directed.
 BYSTOLIC can be taken with or without food.
@@ -15,4 +15,12 @@ Advise patients to consult a physician if any difficulty in breathing occurs, or
 
 Caution patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, that β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 
-## 17.2 FDA-Approved Patient Labeling
+Distributed by: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA
+
+Licensed from Mylan Laboratories, Inc.
+
+Under license from Janssen Pharmaceutica N.V., Beerse, Belgium
+
+Actidose-Aqua® is a registered trademark of Paddock Laboratories, Inc.
+
+© 2010-2013 Forest Laboratories, Inc

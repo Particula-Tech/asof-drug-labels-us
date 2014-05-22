@@ -119,7 +119,7 @@ BYSTOLIC tablets can help your blood vessels relax so your blood pressure is low
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 Rev.
-June 2011
+December 2011
 
 Distributed by: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA
 
@@ -129,4 +129,4 @@ Under license from Janssen Pharmaceutica N.V., Beerse, Belgium
 
 Actidose-Aqua® is a registered trademark of Paddock Laboratories, Inc.
 
-© 2010 Forest Laboratories, Inc.
+© 2010-2013 Forest Laboratories, Inc.
