@@ -132,7 +132,7 @@ Berylliosis
 
 Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy
 
-Loeffler"s syndrome not manageable by other means
+Loeffler's syndrome not manageable by other means
 
 Aspiration pneumonitis
 

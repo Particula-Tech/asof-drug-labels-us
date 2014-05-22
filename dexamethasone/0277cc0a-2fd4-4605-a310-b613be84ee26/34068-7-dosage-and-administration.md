@@ -61,7 +61,7 @@ In acute, self-limited allergic disorders or acute exacerbations of chronic alle
 
 Dexamethasone Sodium Phosphate Injection, 4 mg/mL -First day, 1 or 2 mL (4 or 8 mg) intramuscularly.
 
-Dexamethasone tablets, 0.75 mg - Second and third days, 4 tablets in two divided doses each day; fourth day 2 tablets in two divided doses; fifth and sixth days, 1 tablet each day;seventh day, no treatment; eighth day, follow-up visit.
+Dexamethasone tablets, 0.75 mg - Second and third days, 4 tablets in two divided doses each day; fourth day 2 tablets in two divided doses; fifth and sixth days, 1 tablet each day; seventh day, no treatment; eighth day, follow-up visit.
 
 This schedule is designed to ensure adequate therapy during acute episodes, while minimizing the risk of overdosage in chronic cases.
 
