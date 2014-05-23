@@ -2,4 +2,4 @@ Risperidone Tablets Active ingredient is made in Ireland Finished product is man
 
 Risperidone Tablets, Risperidone Orally Disintegrating Tablets, and Risperidone Oral Solution are manufactured for: Patriot Pharmaceuticals, LLC Horsham, PA 19044
 
-Revised November 2013
+Revised April 2014

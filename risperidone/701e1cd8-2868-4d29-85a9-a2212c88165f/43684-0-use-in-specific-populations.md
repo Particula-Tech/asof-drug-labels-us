@@ -6,7 +6,8 @@ Pregnancy Category C
 
 Risk Summary
 
-Adequate and well controlled studies with risperidone have not been conducted in pregnant women.Neonates exposed to antipsychotic drugs (including risperidone) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+Adequate and well controlled studies with risperidone have not been conducted in pregnant women.
+Neonates exposed to antipsychotic drugs (including risperidone) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
 There was no increase in the incidence of malformations in embryo-fetal studies in rats and rabbits at 0.4–6 times MHRD.
 Increased pup mortality was noted at all doses in peri-postnatal studies in rats.
 Risperidone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
