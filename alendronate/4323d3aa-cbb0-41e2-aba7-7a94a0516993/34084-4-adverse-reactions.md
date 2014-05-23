@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 Treatment of Osteoporosis in Postmenopausal Women Daily Dosing The safety of alendronate sodium in the treatment of postmenopausal osteoporosis was assessed in four clinical trials that enrolled 7453 women aged 44 to 84 years.
-Study 1 and Study 2 were identically designed, three-year, placebo-controlled, double-blind, multicenter studies (United States and Multinational n=994); Study 3 was the three year vertebral fracture cohort of the Fracture Intervention Trial [FIT] (n=2027) and Study 4 was the four-year clinical fracture cohort of FIT (n=4432).
+Study 1 and Study 2 were identically designed, three-year, placebo-controlled, double-blind, multicenter studies (United States and Multinational n=994); Study 3 was the three-year vertebral fracture cohort of the Fracture Intervention Trial [FIT] (n=2027) and Study 4 was the four-year clinical fracture cohort of FIT (n=4432).
 Overall, 3620 patients were exposed to placebo and 3432 patients exposed to alendronate sodium.
 Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs were included in these clinical trials.
 In Study 1 and Study 2 all women received 500 mg elemental calcium as carbonate.

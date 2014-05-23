@@ -20,4 +20,4 @@ Patients should be informed that failure to follow these instructions may increa
 Instruct patients that if they develop symptoms of esophageal disease (such as difficulty or pain upon swallowing, retrosternal pain or new or worsening heartburn) they should stop taking alendronate sodium and consult their physician.
 If patients miss a dose of once weekly alendronate sodium, instruct patients to take one dose on the morning after they remember.
 They should not take two doses on the same day but should return to taking one dose once a week, as originally scheduled on their chosen day.
-Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India M.L.No.: 19/HD/AP/95/F/R Revised: 05/2013
+Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India M.L.No.: 19/HD/AP/95/F/R Revised: 02/2014

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Alendronate Sodium Tablets, USP Read the Medication Guide that comes with alendronate sodium tablets before you start taking them and each time you get a refill.
+Alendronate Sodium Tablets, USP (a len'droe nate soe'dee um) Read the Medication Guide that comes with alendronate sodium tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or treatment.
 Talk to your doctor if you have any questions about alendronate sodium tablets.
@@ -147,7 +147,7 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 How do I store alendronate sodium tablets?
 
-- Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- Store alendronate sodium tablets at room temperature, 20° to 25°C (68° to 77°F).
 - Keep alendronate sodium tablets in a tightly closed container.
 
 Keep alendronate sodium tablets and all medicines out of the reach of children.
@@ -163,4 +163,4 @@ For more information, call 1-800-206-7821.
 What are the ingredients in alendronate sodium tablets?
 Active ingredient: alendronate monosodium salt trihydrate Inactive ingredients: corn starch, magnesium stearate, microcrystalline cellulose, povidone, and sodium starch glycolate.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India M.L.No.: 19/HD/AP/95/F/R Revised: 05/2013
+Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India M.L.No.: 19/HD/AP/95/F/R Revised: 02/2014

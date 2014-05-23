@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: There are no studies in pregnant women.
+Teratogenic Effects Pregnancy Category C: There are no studies in pregnant women.
 Alendronate sodium should be used during pregnancy only if the potential benefit justifies the potential risk to the mother and fetus.
 Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of years.
 The amount of bisphosphonate incorporated into adult bone, and hence, the amount available for release back into the systemic circulation, is directly related to the dose and duration of bisphosphonate use.
