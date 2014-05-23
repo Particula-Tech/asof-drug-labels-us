@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA074930"
+  ],
+  "inn": "acyclovir",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-325-14",
+    "63323-325-24"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "acyclovir sodium",
+      "name": "Acyclovir"
+    }
+  ],
+  "setid": "badf347b-eeee-4239-9c74-966f262925aa",
+  "source": "dailymed"
+}

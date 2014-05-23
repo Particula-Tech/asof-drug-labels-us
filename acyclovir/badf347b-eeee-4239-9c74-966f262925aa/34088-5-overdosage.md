@@ -1,0 +1,8 @@
+# OVERDOSAGE
+
+Overdoses involving ingestions of up to 20 g have been reported.
+Adverse events that have been reported in association with overdosage include agitation, coma, seizures, and lethargy.
+Precipitation of acyclovir in renal tubules may occur when the solubility (2.5 mg/mL) is exceeded in the intratubular fluid.
+Overdosage has been reported following bolus injections or inappropriately high doses, and in patients whose fluid and electrolyte balance were not properly monitored.
+This has resulted in elevated BUN and serum creatinine, and subsequent renal failure.
+In the event of acute renal failure and anuria, the patient may benefit from hemodialysis until renal function is restored (see DOSAGE AND ADMINISTRATION).
