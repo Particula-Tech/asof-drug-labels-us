@@ -4,13 +4,23 @@ NDC 0168-0269-50
 
 Fougera®
 
-CLOBETASOL
+CLOBETASOL PROPIONATE TOPICAL SOLUTION USP, 0.05%
 
-PROPIONATE
+50 mL
 
-TOPICAL SOLUTION
+FOR USE ON THE SCALP FOR DERMATOLOGIC USE ONLY NOT FOR OPHTHALMIC USE
 
-USP, 0.05%
+Rx only
+
+E. FOUGERA & CO. A division of Fougera Pharmaceutical Inc. Melville, New York 11747
+
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 mL CARTON
+
+NDC 0168-0269-50
+
+Fougera®
+
+CLOBETASOL PROPIONATE TOPICAL SOLUTION USP, 0.05%
 
 50 mL
 
@@ -22,42 +32,4 @@ NOT FOR OPHTHALMIC USE
 
 Rx only
 
-E. FOUGERA & CO.
-
-A division of Fougera Pharmaceutical Inc.
-
-Melville, New York 11747
-
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 50 mL CARTON
-
-NDC 0168-0269-50
-
-Fougera®
-
-CLOBETASOL
-
-PROPIONATE
-
-TOPICAL SOLUTION
-
-USP, 0.05%
-
-50 mL
-
-FOR USE ON THE SCALP
-
-FOR DERMATOLOGIC
-
-USE ONLY
-
-NOT FOR OPHTHALMIC
-
-USE
-
-Rx only
-
-E. FOUGERA & CO.
-
-A division of Fougera Pharmaceuticals Inc.
-
-Melville, New York 11747
+E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747

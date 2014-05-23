@@ -7,7 +7,7 @@ However, while the physiologic, pharmacologic, and clinical effects of the corti
 
 Clobetasol propionate, a corticosteroid, has been shown to have topical (dermatologic) and systemic pharmacologic and metabolic effects characteristic of this class of drugs.
 
-Pharmacokinetics:The extent of percutaneous absorption of topical corticosteroids, including clobetasol propionate, is determined by many factors, including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings (see DOSAGE AND ADMINISTRATION).
+Pharmacokinetics: The extent of percutaneous absorption of topical corticosteroids, including clobetasol propionate, is determined by many factors, including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings (see DOSAGE AND ADMINISTRATION).
 
 As with all topical corticosteroids, clobetasol propionate can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin may increase percutaneous absorption.
