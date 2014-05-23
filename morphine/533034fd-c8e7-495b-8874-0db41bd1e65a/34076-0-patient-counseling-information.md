@@ -1,29 +1,29 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Abuse Potential
+Addiction, Abuse, and Misuse
 
-Inform patients that morphine sulfate extended-release tablets contain morphine, a Schedule II controlled substance that is subject to abuse.
+Inform patients that the use of morphine sulfate extended-release tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
 Instruct patients not to share morphine sulfate extended-release tablets with others and to take steps to protect morphine sulfate extended-release tablets from theft or misuse.
 
 Life-Threatening Respiratory Depression
 
-Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting morphine sulfate extended-release tablets or when the dose is increased.
-Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting morphine sulfate extended-release tablets or when the dose is increased, and that it can occur even at recommended doses [see Warnings and Precautions (5.2)].
+Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
-Accidental Exposure
+Accidental Ingestion
 
-Instruct patients to take steps to store morphine sulfate extended-release tablets securely.
-Accidental exposure, especially in children, may result in serious harm or death.
-Advise patients to dispose of unused morphine sulfate extended-release tablets by flushing the tablets down the toilet.
+Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+Instruct patients to take steps to store morphine sulfate extended-release tablets securely and to dispose of unused morphine sulfate extended-release tablets by flushing the tablets down the toilet.
 
-Risks from Concomitant Use of Alcohol and other CNS Depressants
+Neonatal Opioid Withdrawal Syndrome
 
-Inform patients that the concomitant use of alcohol with morphine sulfate extended-release tablets can increase the risk of life-threatening respiratory depression.
-Instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter drug products that contain alcohol, during treatment with morphine sulfate extended-release tablets.
+Inform female patients of reproductive potential that prolonged use of morphine sulfate extended-release tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.3)].
 
-Inform patients that potentially serious additive effects may occur if morphine sulfate extended-release tablets are used with other CNS depressants, and not to use such drugs unless supervised by a health care provider.
+Interactions with Alcohol and other CNS Depressants
+
+Inform patients that potentially serious additive effects may occur if morphine sulfate extended-release tablets are used with alcohol or other CNS depressants, and not to use such drugs unless supervised by a health care provider.
 
 Important Administration Instructions
 
@@ -57,7 +57,11 @@ Pregnancy
 
 Advise female patients that morphine sulfate extended-release tablets can cause fetal harm and to inform the prescriber if they are pregnant or plan to become pregnant.
 
-For information about this product that was written for healthcare professionals, visit www.Mallinckrodt.com or call 1-800-778-7898.
+Healthcare professionals can telephone Mallinckrodt at 1-800-778-7898, or visit www.Mallinckrodt.com, for information on this product.
+
+Disposal of Unused Morphine Sulfate Extended-Release Tablets
+
+Advise patients to flush the unused tablets down the toilet when morphine sulfate extended-release tablets are no longer needed.
 
 ## 17.1 Medication Guide
 
@@ -65,12 +69,15 @@ Morphine Sulfate Extended-Release Tablets, CII
 
 Morphine sulfate extended-release tablets are:
 
-- A strong prescription pain medicine that contains an opioid (narcotic) that is used to treat moderate to severe around-the-clock pain.
+- A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage pain severe enough to require daily around-the-clock, long-term treatment with an opioid, when other pain treatments such as non-opioid pain medicines or immediate-release opioid medicines do not treat your pain well enough or you cannot tolerate them.
+- A long-acting (extended-release) opioid pain medicine that can put you at risk for overdose and death.
+  Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death.
+- Not for use to treat pain that is not around-the-clock.
 
 Important information about morphine sulfate extended-release tablets:
 
 - Get emergency help right away if you take too many morphine sulfate extended-release tablets (overdose).
-  Morphine sulfate extended-release tablets overdose can cause life-threatening breathing problems that can lead to death.
+  When you first start taking morphine sulfate extended-release tablets, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.
 - Never give anyone else your morphine sulfate extended-release tablets.
   They could die from taking it.
   Store morphine sulfate extended-release tablets away from children and in a safe place to prevent stealing or abuse.
@@ -92,30 +99,31 @@ Before taking morphine sulfate extended-release tablets, tell your healthcare pr
 Tell your healthcare provider if you are:
 
 - pregnant or planning to become pregnant.
-  Morphine sulfate extended-release tablets may harm your unborn baby.
+  Prolonged use of morphine sulfate extended-release tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - breastfeeding.
   Morphine sulfate passes into breast milk and may harm your baby.
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
+  Taking morphine sulfate extended-release tablets with certain other medicines can cause serious side effects.
 
 When taking morphine sulfate extended-release tablets:
 
 - Do not change your dose.
   Take morphine sulfate extended-release tablets exactly as prescribed by your healthcare provider.
-- Take each dose at the same time every day.
-  If you miss a dose, take morphine sulfate extended-release tablets as soon as possible and then take your next dose 8 or 12 hours later as directed by your healthcare provider.
-  If it is almost time for your next dose, skip the missed dose and go back to your regular dosing schedule.
-  Do not take more than 1 dose in 8 hours.
+- Take your prescribed dose every 8 to 12 hours, as directed by your healthcare provider.
+  Do not take more than your prescribed dose.
+  If you miss a dose, take your next dose at the usual time.
 - Swallow morphine sulfate extended-release tablets whole.
-  Do not cut, break, chew, crush, dissolve, or inject morphine sulfate extended-release tablets.
+  Do not cut, break, chew, crush, dissolve, snort, or inject morphine sulfate extended-release tablets because this may cause you to overdose and die.
 - Call your healthcare provider if the dose you are taking does not control your pain.
 - Do not stop taking morphine sulfate extended-release tablets without talking to your healthcare provider.
 - After you stop taking morphine sulfate extended-release tablets, flush any unused tablets down the toilet.
 
-While taking morphine sulfate extended-release tablets Do Not:
+While taking morphine sulfate extended-release tablets DO NOT:
 
 - Drive or operate heavy machinery, until you know how morphine sulfate extended-release tablets affect you.
   Morphine sulfate extended-release tablets can make you sleepy, dizzy, or lightheaded.
 - Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
+  Using products containing alcohol during treatment with morphine sulfate extended-release tablets may cause you to overdose and die.
 
 The possible side effects of morphine sulfate extended-release tablets are:
 
@@ -124,7 +132,7 @@ The possible side effects of morphine sulfate extended-release tablets are:
 
 Get emergency medical help if you have:
 
-- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, or you are feeling faint.
+- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions, or you are feeling faint.
 
 These are not all the possible side effects of morphine sulfate extended-release tablets.
 Call your doctor for medical advice about side effects.
@@ -135,8 +143,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 is a trademark of Mallinckrodt LLC.
 
-Mallinckrodt Inc. Hazelwood, MO 63042 USA
+Mallinckrodt Inc.
 
-Rev 07/2012
+Hazelwood, MO 63042 USA
+
+Issued 04/2014
 
 Mallinckrodt

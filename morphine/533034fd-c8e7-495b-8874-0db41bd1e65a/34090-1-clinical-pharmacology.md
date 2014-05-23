@@ -8,6 +8,17 @@ In addition to analgesia, the widely diverse effects of morphine sulfate include
 Morphine produces both its therapeutic and its adverse effects by interaction with one or more classes of specific opioid receptors located throughout the body.
 Morphine acts as a full agonist, binding with and activating opioid receptors at sites in the peri-aqueductal and peri-ventricular grey matter, the ventro-medial medulla and the spinal cord to produce analgesia.
 
+## 12.2 Pharmacodynamics
+
+Plasma Level-Analgesia Relationships
+
+While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
+Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
+
+CNS Depressant/Alcohol Interaction
+
+Additive pharmacodynamic effects may be expected when morphine sulfate extended-release tablets are used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
+
 Effects on the Central Nervous System
 
 The principal actions of therapeutic value of morphine are analgesia and sedation.
@@ -46,20 +57,9 @@ Opioids have been shown to have a variety of effects on components of the immune
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-## 12.2 Pharmacodynamics
-
-Plasma Level-Analgesia Relationships
-
-While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
-Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
-
-CNS Depressant/Alcohol Interaction
-
-Additive pharmacodynamic effects may be expected when morphine sulfate extended-release tablets are used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
-
 ## 12.3 Pharmacokinetics
 
-Morphine sulfate extended-release tablets are controlled-release tablets containing morphine sulfate.
+Morphine sulfate extended-release tablets are extended-release tablets containing morphine sulfate.
 Morphine is released from morphine sulfate extended-release tablets somewhat more slowly than from immediate-release oral preparations.
 Following oral administration of a given dose of morphine, the amount ultimately absorbed is essentially the same whether the source is morphine sulfate extended-release tablets or an immediate-release formulation.
 Because of pre-systemic elimination (i.e., metabolism in the gut wall and liver) only about 40% of the administered dose reaches the central compartment.
@@ -93,7 +93,7 @@ Approximately 10% of the dose is excreted unchanged in urine.
 In some studies involving longer periods of plasma sampling, a longer terminal half-life of about 15 hours was reported.
 A small amount of the glucuronide conjugate is excreted in the bile, and there is some minor enterohepatic recycling.
 
-Special Populations
+Specific Populations
 
 Geriatric Patients
 
@@ -109,7 +109,7 @@ A gender analysis of pharmacokinetic data from healthy subjects taking morphine 
 
 Race
 
-Chinese subjects given intravenous morphine had a higher clearance when compared to Caucasian subjects (1852 +/- 116 mL/min compared to 1495 +/- 80 mL/min).
+Chinese subjects given intravenous morphine had a higher clearance when compared to Caucasian subjects (1852 +/- 116 ml/min compared to 1495 +/- 80 ml/min).
 
 Hepatic Impairment
 
