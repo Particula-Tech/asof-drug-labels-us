@@ -1,0 +1,116 @@
+Medication Guide
+
+ENTYVIO (en ti’ vee oh)
+
+(vedolizumab)
+
+What is the most important information I should know about ENTYVIO?
+
+ENTYVIO may cause serious side effects, including:
+
+- •Infusion and serious allergic reactions.
+  These reactions can happen while you are receiving ENTYVIO or several hours after treatment.
+  You may need treatment if you have an allergic reaction.
+  Tell your healthcare provider or get medical help right away if you get any of these symptoms during or after an infusion of ENTYVIO: rash, itching, swelling of your lips, tongue throat or face, shortness of breath or trouble breathing, wheezing, dizziness, feeling hot, or palpitations (feel like your heart is racing).
+- •Infections.
+  ENTYVIO may increase your risk of getting a serious infection.
+  Before receiving ENTYVIO and during treatment with ENTYVIO, tell your healthcare provider if you think you have an infection or have symptoms of an infection such as fever, chills, muscle aches, cough, shortness of breath, runny nose, sore throat, red or painful skin or sores on your body, tiredness, or pain during urination.
+- •Progressive Multifocal Leukoencephalopathy (PML).
+  Although it has not been reported with ENTYVIO, it may be possible for a person to get progressive multifocal leukoencephalopathy (PML) (a rare, serious brain infection caused by a virus).
+  People with weakened immune systems can get PML.
+  PML can result in death or severe disability.
+  There is no known treatment, prevention, or cure for PML.
+  Tell your healthcare provider right away if you have any of the following symptoms: confusion or problems thinking, loss of balance, change in the way you walk or talk, decreased strength or weakness on one side of the body, blurred vision, or loss of vision.
+- •Liver Problems.
+  Liver problems can happen in people who receive ENTYVIO.
+  Tell your healthcare provider right away if you have any of the following symptoms: tiredness, loss of appetite, pain on the right side of your stomach (abdomen), dark urine, or yellowing of the skin and eyes (jaundice).
+
+See “What are the possible side effects of ENTYVIO?” for more information about side effects.
+
+What is ENTYVIO?
+
+ENTYVIO is a prescription medicine used in adults:
+
+- •with moderate to severe active ulcerative colitis (UC) when certain other UC medicines have not worked well enough or cannot be tolerated:
+  - oto begin helping some of your symptoms
+  - oin people who respond to ENTYVIO, to help get UC under control (induce remission) and keep UC under control (maintain remission)
+  - ofor people who respond to ENTYVIO, you may be able to reduce or stop the use of corticosteroid medicines
+  - oto improve the way the lining of your large intestine looks to your healthcare provider during colonoscopy
+- •with moderate to severe active Crohn’s disease when certain other Crohn’s disease medicines have not worked well enough or cannot be tolerated:
+  - oto begin helping some of your symptoms
+  - oin people who respond to ENTYVIO, to help get Crohn’s disease under control (achieve remission)
+  - ofor people who respond to ENTYVIO, you may be able to reduce or stop the use of corticosteroid medicines
+
+It is not known if ENTYVIO is safe and effective in children under 18 years of age.
+
+Who should not receive ENTYVIO?
+
+Do not receive ENTYVIO if you have had an allergic reaction to ENTYVIO or any of the ingredients in ENTYVIO.
+See the end of this Medication Guide for a complete list of ingredients in ENTYVIO.
+
+Before receiving ENTYVIO, tell your healthcare provider about all of your medical conditions, including if you:
+
+- •have an infection, think you may have an infection or have infections that keep coming back (see “What is the most important information I should know about ENTYVIO?”).
+- •have liver problems
+- •have tuberculosis (TB) or have been in close contact with someone with TB.
+- •have recently received or are scheduled to receive a vaccine.
+  Talk to your healthcare provider about bringing your vaccines up-to-date before starting treatment with ENTYVIO.
+- •are pregnant or plan to become pregnant.
+  It is not known if ENTYVIO will harm your unborn baby.
+  Tell your healthcare provider right away if you become pregnant while receiving ENTYVIO.
+- •are breastfeeding or plan to breastfeed.
+  It is not known if ENTYVIO passes into your breast milk.
+
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
+Especially tell your healthcare provider if you take or have recently taken Tysabri (natalizumab), a Tumor Necrosis Factor (TNF) blocker medicine, a medicine that weakens your immune system (immunosuppressant), or corticosteroid medicine.
+
+How will I receive ENTYVIO?
+
+- •ENTYVIO is given through a needle placed in a vein (intravenous infusion) in your arm.
+- •ENTYVIO is given to you over a period of about 30 minutes.
+- •Your healthcare provider will monitor you during and after the ENTYVIO infusion for side effects to see if you have a reaction to the treatment.
+
+What are the possible side effects of ENTYVIO?
+
+ENTYVIO may cause serious side effects, See “What is the most important information I should know about ENTYVIO?”
+
+The most common side effects of ENTYVIO include: common cold, headache, joint pain, nausea, fever, infections of the nose and throat, tiredness, cough, bronchitis, flu, back pain, rash, itching, sinus infection, throat pain, and pain in extremities.
+
+These are not all of the possible side effects of ENTYVIO.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+General information about ENTYVIO
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+You can ask your pharmacist or healthcare provider for information about ENTYVIO that is written for health professionals.
+Do not use ENTYVIO for a condition for which it was not prescribed.
+
+What are the ingredients in ENTYVIO?
+
+Active ingredient: vedolizumab
+
+Inactive ingredients: L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, sucrose and polysorbate 80
+
+Distributed by:
+
+Takeda Pharmaceuticals America, Inc.
+
+Deerfield, IL 60015
+
+U.S. License No. 1898
+
+For more information, go to www.ENTYVIO.com or call 1-877-825-3327
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Issued: May 2014
+
+ENTYVIO is a trademark of Millennium Pharmaceuticals Inc. and is used under license by Takeda Pharmaceuticals America, Inc.
+
+All other trademark names are the property of their respective owners.
+
+©2014 Takeda Pharmaceuticals America, Inc.
+
+VMB245 R1

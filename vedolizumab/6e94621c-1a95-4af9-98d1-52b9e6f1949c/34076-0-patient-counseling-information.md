@@ -1,0 +1,22 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+See FDA-approved patient labeling (Medication Guide).
+
+Hypersensitivity Reactions
+
+Instruct patients to report immediately if they experience symptoms consistent with a hypersensitivity reaction during or following an infusion of ENTYVIO [see Warnings and Precautions (5.1)].
+
+Infections
+
+Inform patients that they may be more likely to develop infections when taking ENTYVIO.
+Instruct patients to tell their healthcare provider if they develop any signs or symptoms of an infection [see Warnings and Precautions (5.2)].
+
+Progressive Multifocal Leukoencephalopathy
+
+Inform patients that progressive multifocal leukoencephalopathy (PML) has occurred in patients who received a different integrin receptor antagonist product.
+Instruct patients to report if they experience any new onset or worsening of neurological signs and symptoms immediately, as these could be indicative of PML [see Warnings and Precautions (5.3)].
+
+Liver Injury
+
+Inform patients that elevated transaminase levels with or without elevated bilirubin has occurred in patients who received ENTYVIO.
+Instruct patients to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Warnings and Precautions (5.4)].

@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA125476"
+  ],
+  "inn": "vedolizumab",
+  "labeler": "Takeda Pharmaceuticals America, Inc.",
+  "package_ndcs": [
+    "64764-300-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "vedolizumab",
+      "name": "Entyvio"
+    }
+  ],
+  "setid": "6e94621c-1a95-4af9-98d1-52b9e6f1949c",
+  "source": "dailymed"
+}
