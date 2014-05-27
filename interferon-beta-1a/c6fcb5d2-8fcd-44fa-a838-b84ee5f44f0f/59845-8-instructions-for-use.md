@@ -1,6 +1,6 @@
 Instructions for Use REBIF (Re-bif) interferon beta-1a (in-ter-feer-on beta-one-â) Injection for subcutaneous use Prefilled Syringe
 
-Read and follow the Instructions for Use that come with your REBIF prefilled syringe before you start using it can each time you get a refill.
+Read and follow the Instructions for Use that come with your REBIF prefilled syringe before you start using it and each time you get a refill.
 Before you use a REBIF prefilled syringe for the first time, make sure your healthcare provider shows you the right way to use it.
 
 Important: For the REBIF Rebidose autoinjector, read the Instructions for Use that come with the REBIF Rebidose autoinjector.

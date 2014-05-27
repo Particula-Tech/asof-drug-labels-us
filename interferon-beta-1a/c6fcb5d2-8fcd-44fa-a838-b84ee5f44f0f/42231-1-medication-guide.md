@@ -6,7 +6,8 @@ The information does not take the place of talking with your healthcare provider
 
 What is the most important information I should know about REBIF?
 
-REBIF can cause serious side effects.Tell your healthcare provider right away if you have any of the symptoms listed below while taking REBIF.
+REBIF can cause serious side effects.
+Tell your healthcare provider right away if you have any of the symptoms listed below while taking REBIF.
 
 1. 1.Behavioral health problems including depression and suicidal thoughts.
    You may have mood problems including:
@@ -64,7 +65,7 @@ Before you take REBIF, tell your healthcare provider if have or have had any of 
   Tell your healthcare provider if you become pregnant during your treatment with REBIF.)
 - you are breastfeeding or plan to breastfeed.
   (It is not known if REBIF passes into your breast milk.
-  You and our healthcare provider should decide if you will use REBIF or breastfeed.
+  You and your healthcare provider should decide if you will use REBIF or breastfeed.
   You should not do both.)
 
 Tell your healthcare provider about all medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
@@ -101,7 +102,7 @@ What are the possible side effects of REBIF?
 
 REBIF may cause serious side effects, including:
 
-- See "What is the most important information I should now about REBIF?"
+- See "What is the most important information I should know about REBIF?"
 - Blood problems.
   REBIF can affect your bone marrow and cause low red and white blood cell, and platelet counts.
   In some people, these blood cell counts may fall to dangerously low levels.
