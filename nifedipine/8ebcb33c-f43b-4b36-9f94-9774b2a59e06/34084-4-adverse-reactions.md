@@ -29,8 +29,7 @@ Adverse experiences which occurred in less than 1 in 1000 patients cannot be dis
 
 The following adverse experiences, reported in less than 1% of patients, occurred under conditions (e.g., open trials, marketing experience) where a causal relationship is uncertain: gastrointestinal irritation, gastrointestinal bleeding, gynecomastia.
 
-Gastrointestinal obstruction resulting in hospitalization and surgery, including the need for bezoar removal, has occurred in association with PROCARDIA XL, even in patients with no prior history of gastrointestinal disease.
-(See WARNINGS.)
+Gastrointestinal obstruction resulting in hospitalization and surgery, including the need for bezoar removal, has occurred in association with PROCARDIA XL, even in patients with no prior history of gastrointestinal disease (see WARNINGS).
 
 Cases of tablet adherence to the gastrointestinal wall with ulceration have been reported, some requiring hospitalization and intervention.
 
@@ -60,8 +59,7 @@ It remains possible, however, that some or many of these events were drug relate
 Myocardial infarction occurred in about 4% of patients and congestive heart failure or pulmonary edema in about 2%.
 Ventricular arrhythmias or conduction disturbances each occurred in fewer than 0.5% of patients.
 
-In a subgroup of over 1000 patients receiving PROCARDIA with concomitant beta blocker therapy, the pattern and incidence of adverse experiences was not different from that of the entire group of PROCARDIA-treated patients.
-(See PRECAUTIONS.)
+In a subgroup of over 1000 patients receiving PROCARDIA with concomitant beta blocker therapy, the pattern and incidence of adverse experiences was not different from that of the entire group of PROCARDIA-treated patients (see PRECAUTIONS).
 
 In a subgroup of approximately 250 patients with a diagnosis of congestive heart failure as well as angina, dizziness or lightheadedness, peripheral edema, headache, or flushing each occurred in one in eight patients.
 Hypotension occurred in about one in 20 patients.

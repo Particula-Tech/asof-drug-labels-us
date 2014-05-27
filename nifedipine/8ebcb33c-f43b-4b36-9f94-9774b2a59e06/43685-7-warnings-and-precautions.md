@@ -45,8 +45,7 @@ Cases of tablet adherence to the gastrointestinal wall with ulceration have been
 ## General—Hypotension
 
 Because nifedipine decreases peripheral vascular resistance, careful monitoring of blood pressure during the initial administration and titration of nifedipine is suggested.
-Close observation is especially recommended for patients already taking medications that are known to lower blood pressure.
-(See WARNINGS.)
+Close observation is especially recommended for patients already taking medications that are known to lower blood pressure (see WARNINGS).
 
 ## Peripheral Edema
 
@@ -87,8 +86,7 @@ The relationship to nifedipine therapy is uncertain in most cases but probable i
 
 ### Beta-adrenergic blocking agents
 
-(See INDICATIONS AND USAGE and WARNINGS.)
-Experience in over 1400 patients with PROCARDIA capsules in a noncomparative clinical trial has shown that concomitant administration of nifedipine and beta-blocking agents is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension, or exacerbation of angina.
+(see INDICATIONS AND USAGE and WARNINGS) Experience in over 1400 patients with PROCARDIA capsules in a noncomparative clinical trial has shown that concomitant administration of nifedipine and beta-blocking agents is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension, or exacerbation of angina.
 
 ### Long-acting Nitrates
 
