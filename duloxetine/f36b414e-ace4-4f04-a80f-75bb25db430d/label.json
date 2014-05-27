@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA090739"
+  ],
+  "inn": "duloxetine",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-799-06",
+    "65841-799-14",
+    "65841-799-16",
+    "65841-800-06",
+    "65841-800-16",
+    "65841-801-06",
+    "65841-801-16"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "duloxetine",
+      "name": "Duloxetine"
+    }
+  ],
+  "setid": "f36b414e-ace4-4f04-a80f-75bb25db430d",
+  "source": "dailymed"
+}
