@@ -9,6 +9,8 @@ Animal studies indicate that after rapid disappearance from plasma, omeprazole c
 
 ## 12.2 Pharmacodynamics
 
+### Antisecretory Activity
+
 Antisecretory Activity
 
 After oral administration, the onset of the antisecretory effect of omeprazole occurs within one hour, with the maximum effect occurring within two hours.
@@ -24,12 +26,14 @@ Table 1 Range of Mean Values from Multiple Studies of the Mean Antisecretory Eff
 
 | Parameter | Max | Min | Max | Min |
 | --- | --- | --- | --- | --- |
-|  | Omeprazole 20 mg |  | Omeprazole 40 mg |  |
+|  | Omeprazole 20 mg | Omeprazole 40 mg |  |  |
 | % Decrease in Basal Acid Output | 78Single Studies | 58–80 | 94 | 80–93 |
 | % Decrease in Peak Acid Output | 79 | 50–59 | 88 | 62–68 |
 | % Decrease in 24–hr Intragastric Acidity |  | 80–97 |  | 92–94 |
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
+
+### Serum Gastric Effects
 
 Serum Gastric Effects
 
@@ -40,12 +44,17 @@ Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks afte
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
 The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+Healthcare providers should temporarily stop omeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+
+### Enterochromaffin-like (ECL) Cell Effects
 
 Enterochromaffin-like (ECL) Cell Effects
 
-Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
+Human gastric biopsy specimens have been obtained from more than 3000 patients (both children and adults) treated with omeprazole in long-term clinical trials.
 The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients [see Clinical Pharmacology (12)].
 However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
+
+### Other Effects
 
 Other Effects
 
@@ -70,6 +79,8 @@ No significant differences between treatment groups were observed in development
 
 ## 12.3 Pharmacokinetics
 
+### Absorption
+
 Absorption
 
 Omeprazole Delayed-Release Capsules contain an enteric-coated microtablet formulation of omeprazole (because omeprazole is acid-labile), so that absorption of omeprazole begins only after the microtablets leave the stomach.
@@ -85,13 +96,19 @@ However, Omeprazole Delayed-Release Capsules 20 mg was not bioequivalent when ad
 When administered with applesauce, a mean 25% reduction in Cmax was observed without a significant change in AUC for Omeprazole Delayed-Release Capsules 20 mg.
 The clinical relevance of this finding is unknown.
 
+### Distribution
+
 Distribution
 
 Protein binding is approximately 95%.
 
+### Metabolism
+
 Metabolism
 
 Omeprazole is extensively metabolized by the cytochrome P450 (CYP) enzyme system.
+
+### Excretion
 
 Excretion
 
@@ -102,6 +119,8 @@ The remainder of the dose was recoverable in feces.
 This implies a significant biliary excretion of the metabolites of omeprazole.
 Three metabolites have been identified in plasma — the sulfide and sulfone derivatives of omeprazole, and hydroxyomeprazole.
 These metabolites have very little or no antisecretory activity.
+
+### Combination Therapy with Antimicrobials
 
 Combination Therapy with Antimicrobials
 
@@ -123,6 +142,8 @@ Table 2 Clarithromycin Tissue Concentrations 2 hours after DoseMean ± SD (mcg/g
 | Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n= 5) |
 | Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n=4) |
 
+### Concomitant Use with Clopidogrel
+
 Concomitant Use with Clopidogrel
 
 In a crossover clinical study, 72 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with omeprazole (80 mg at the same time as clopidogrel) for 5 days.
@@ -133,7 +154,11 @@ Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over 
 
 In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
 
+### Special Populations
+
 Special Populations
+
+#### Geriatric Population
 
 Geriatric Population
 
@@ -141,6 +166,8 @@ The elimination rate of omeprazole was somewhat decreased in the elderly, and bi
 Omeprazole was 76% bioavailable when a single 40 mg oral dose of omeprazole (buffered solution) was administered to healthy elderly volunteers, versus 58% in young volunteers given the same dose.
 Nearly 70% of the dose was recovered in urine as metabolites of omeprazole and no unchanged drug was detected.
 The plasma clearance of omeprazole was 250 mL/min (about half that of young volunteers) and its plasma half-life averaged one hour, about twice that of young healthy volunteers.
+
+#### Pediatric Use
 
 Pediatric Use
 
@@ -150,15 +177,17 @@ Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated O
 
 |  | 10 mg | 20 mg |  |
 | --- | --- | --- | --- |
-| Single or Repeated Oral Dosing /Parameter | ChildrenData from single and repeated dose studies. Doses of 10, 20 and 40 mg omeprazole as enteric-coated microtablets. ≤ 20 kg 2-5 years | Children > 20 kg 6-16 years | AdultsData from a single and repeated dose study. Doses of 10, 20 and 40 mg omeprazole as enteric-coated microtablets.(mean 76 kg) 23-29 years(n=12) |
+| Single or Repeated Oral Dosing /Parameter | ChildrenData from a single and repeated dose studyDoses of 10, 20 and 40 mg omeprazole as enteric-coated microtablets ≤ 20 kg 2-5 years | Children > 20 kg 6-16 years | Adults(mean 76 kg) 23-29 years(n=12) |
 | Single Dosing |  |  |  |
-| CmaxPlasma concentration adjusted to an oral dose of 1 mg/kg.(ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
+| Cmax= plasma concentration adjusted to an oral dose of 1 mg/kg (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
 | AUC(ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
 | Repeated Dosing |  |  |  |
-| Cmax(ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
+| Cmax (ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
 | AUC(ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
 
 Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to16 years of age or adults; AUCs of the latter two groups did not differ [see Dosage and Administration (2)].
+
+#### Hepatic Impairment
 
 Hepatic Impairment
 
@@ -166,11 +195,15 @@ In patients with chronic hepatic disease, the bioavailability increased to appro
 Plasma clearance averaged 70 mL/min, compared with a value of 500-600 mL/min in normal subjects.
 Dose reduction, particularly where maintenance of healing of erosive esophagitis is indicated, for the hepatically impaired should be considered.
 
+#### Renal Impairment
+
 Renal Impairment
 
 In patients with chronic renal impairment, whose creatinine clearance ranged between 10 and 62 mL/min/1.73 m2, the disposition of omeprazole was very similar to that in healthy volunteers, although there was a slight increase in bioavailability.
 Because urinary excretion is a primary route of excretion of omeprazole metabolites, their elimination slowed in proportion to the decreased creatinine clearance.
 No dose reduction is necessary in patients with renal impairment.
+
+#### Asian Population
 
 Asian Population
 
@@ -180,6 +213,8 @@ Dose reduction, particularly where maintenance of healing of erosive esophagitis
 ## 12.4 Microbiology
 
 Omeprazole and clarithromycin dual therapy and omeprazole, clarithromycin and amoxicillin triple therapy have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections as described in the Indications and Usage section (1.1).
+
+## Helicobacter
 
 Helicobacter
 
@@ -211,15 +246,21 @@ Patients not eradicated of H. pylori following omeprazole/clarithromycin/amoxici
 Therefore, clarithromycin susceptibility testing should be done, if possible.
 Patients with clarithromycin resistant H. pylori should not be treated with any of the following: omeprazole/clarithromycin dual therapy, omeprazole/clarithromycin/amoxicillin triple therapy, or other regimens which include clarithromycin as the sole antimicrobial agent.
 
+## Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes
+
 Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 
 In the triple therapy clinical trials, 84.9% (157/185) of the patients in the omeprazole/clarithromycin/amoxicillin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori and 15.1% (28/185) failed therapy.
 Of the 28 patients who failed triple therapy, 11 had no post-treatment susceptibility test results and 17 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
 Eleven of the patients who failed triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
 
+## Susceptibility Test for Helicobacter pylori
+
 Susceptibility Test for Helicobacter pylori
 
 For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
+
+## Effects on Gastrointestinal Microbial Ecology
 
 Effects on Gastrointestinal Microbial Ecology
 

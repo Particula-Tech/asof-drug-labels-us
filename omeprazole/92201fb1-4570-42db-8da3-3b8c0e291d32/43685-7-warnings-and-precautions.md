@@ -51,7 +51,7 @@ Avoid concomitant use of Omeprazole Delayed-Release Capsules with St. John's Wor
 
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
-Providers should temporarily stop omeprazole treatment before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+Healthcare providers should temporarily stop omeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
 
 ## 5.9 Concomitant use of Omeprazole Delayed-Release Capsules with Methotrexate

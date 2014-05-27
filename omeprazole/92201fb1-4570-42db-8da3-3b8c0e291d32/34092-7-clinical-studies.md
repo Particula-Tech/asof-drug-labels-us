@@ -2,6 +2,8 @@
 
 ## 14.1 Duodenal Ulcer Disease
 
+### Active Duodenal Ulcer
+
 Active Duodenal Ulcer— In a multicenter, double-blind, placebo-controlled study of 147 patients with endoscopically documented duodenal ulcer, the percentage of patients healed (per protocol) at 2 and 4 weeks was significantly higher with Omeprazole Delayed-Release Capsules 20 mg once daily than with placebo (p ≤ 0.01).
 
 Treatment of Active Duodenal Ulcer % of Patients Healed
@@ -36,10 +38,12 @@ Treatment of Active Duodenal Ulcer % of Patients Healed
 
 |  | 20 mg (n=34) | 40 mg (n=36) | 150 mg twice daily (n=35) |
 | --- | --- | --- | --- |
-|  | Omeprazole Delayed-Release Capsules |  | Ranitidine |
+|  | Omeprazole Delayed-Release Capsules | Ranitidine |  |
 | Week 2 | 83(p ≤ 0.01) | 83 | 53 |
 | Week 4 | 97 | 100 | 82 |
 | Week 8 | 100 | 100 | 94 |
+
+### H. pylori Eradication in Patients with Duodenal Ulcer Disease
 
 H. pylori Eradication in Patients with Duodenal Ulcer Disease
 
@@ -57,10 +61,12 @@ Table 5 Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patien
 
 |  | Per-Protocol Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. Pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-Treat Patients were included in the analysis if they had documented H. Pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
 | --- | --- | --- | --- | --- |
-|  | Omeprazole Delayed-Release Capsules +clarithromycin +amoxicillin |  | Clarithromycin +amoxicillin |  |
+|  | Omeprazole Delayed-Release Capsules +clarithromycin +amoxicillin | Clarithromycin +amoxicillin |  |  |
 | Study 1 | 77(p < 0.05) versus clarithromycin plus amoxicillin. [64, 86] (n = 64) | 69 [57, 79] (n = 80) | 43 [31, 56] (n = 67) | 37 [27, 48] (n = 84) |
 | Study 2 | 78 [67, 88] (n = 65) | 73 [61, 82] (n = 77) | 41 [29, 54] (n = 68) | 36 [26, 47] (n = 83) |
 | Study 3 | 90 [80, 96] (n = 69) | 83 [74, 91] (n = 84) | 33 [24, 44] (n = 93) | 32 [23, 42] (n = 99) |
+
+### Dual Therapy (Omeprazole Delayed-Release Capsules/clarithromycin)
 
 Dual Therapy (Omeprazole Delayed-Release Capsules/clarithromycin)
 
@@ -94,12 +100,12 @@ The combination of omeprazole and clarithromycin was effective in eradicating H.
 
 Table 7 Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Patients with Ulcer Recurrence
 
-|  | H. pylori eradicated H. pylori eradication status assessed at same time point as ulcer recurrence | H. pylori not eradicated |
+|  | H. pylori eradicated (p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated | H. pylori not eradicated |
 | --- | --- | --- |
 | U.S. StudiesCombined results for Omeprazole Delayed-Release Capsules + clarithromycin, Omeprazole Delayed-Release Capsules, and clarithromycin treatment arms 6 months post-treatment |  |  |
-| Study 4 | 35(p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated (n=49) | 60 (n=88) |
+| Study 4 | 35 (n=49) | 60 (n=88) |
 | Study 5 | 8 (n=53) | 60 (n=106) |
-| Non U.S. StudiesCombined results for Omeprazole Delayed-Release Capsules + clarithromycin and Omeprazole Delayed-Release Capsules treatment arms 6 months post-treatment |  |  |
+| Non U.S. StudiesCombined results for Omeprazole Delayed-Relerase Capsules + clarithromycin and Omeprazole Delayed-Release Capsules treatment arms 6 months post-treatment |  |  |
 | Study 6 | 5 (n=43) | 46 (n=78) |
 | Study 7 | 6 (n=53) | 43 (n=107) |
 | 12 months post-treatment |  |  |
@@ -130,6 +136,8 @@ Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 
 ## 14.3 Gastroesophageal Reflux Disease (GERD)
 
+### Symptomatic GERD
+
 Symptomatic GERD
 
 A placebo-controlled study was conducted in Scandinavia to compare the efficacy of omeprazole 20 mg or 10 mg once daily for up to 4 weeks in the treatment of heartburn and other symptoms in GERD patients without erosive esophagitis.
@@ -159,6 +167,8 @@ In comparisons with histamine H2-receptor antagonists in patients with erosive e
 Complete daytime and nighttime heartburn relief occurred significantly faster (p < 0.01) in patients treated with Omeprazole Delayed-Release Capsules than in those taking placebo or histamine H2- receptor antagonists.
 
 In this and five other controlled GERD studies, significantly more patients taking 20 mg omeprazole (84%) reported complete relief of GERD symptoms than patients receiving placebo (12%).
+
+### Long Term Maintenance Of Healing of Erosive Esophagitis
 
 Long Term Maintenance Of Healing of Erosive Esophagitis
 
@@ -196,6 +206,8 @@ These findings are believed to be a manifestation of the underlying condition, w
 
 ## 14.6 Pediatric GERD
 
+### Symptomatic GERD
+
 Symptomatic GERD
 
 The effectiveness of Omeprazole Delayed-Release Capsules for the treatment of nonerosive GERD in pediatric patients 2 to 16 years of age is based in part on data obtained from pediatric patients in an uncontrolled Phase III study [see Use in Specific Populations (8.4)].
@@ -204,6 +216,8 @@ The study enrolled 113 pediatric patients 2 to 16 years of age with a history of
 Patients were administered a single dose of omeprazole (10 mg or 20 mg, based on body weight) for 4 weeks either as an intact capsule or as an open capsule in applesauce.
 Successful response was defined as no moderate or severe episodes of either pain-related symptoms or vomiting/regurgitation during the last 4 days of treatment.
 Results showed success rates of 60% (9/15; 10 mg omeprazole) and 59% (58/98; 20 mg omeprazole), respectively.
+
+### Healing of Erosive Esophagitis
 
 Healing of Erosive Esophagitis
 
@@ -214,6 +228,8 @@ After titration, patients remained on treatment for 3 months.
 Forty-four percent of the patients were healed on a dose of 0.7 mg/kg body weight; most of the remaining patients were healed with 1.4 mg/kg after an additional 3 months' treatment.
 Erosive esophagitis was healed in 51 of 57 (90%) children who completed the first course of treatment in the healing phase of the study.
 In addition, after 3 months of treatment, 33% of the children had no overall symptoms, 57% had mild reflux symptoms, and 40% had less frequent regurgitation/vomiting.
+
+### Maintenance of Healing of Erosive Esophagitis
 
 Maintenance of Healing of Erosive Esophagitis
 

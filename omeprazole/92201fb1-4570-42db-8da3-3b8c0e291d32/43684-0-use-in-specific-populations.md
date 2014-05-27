@@ -2,16 +2,24 @@
 
 ## 8.1 Pregnancy
 
+### Pregnancy Category C
+
 Pregnancy Category C
+
+#### Risk Summary
 
 Risk Summary
 
 There are no adequate and well-controlled studies with Omeprazole Delayed-Release Capsules in pregnant women.
 Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
 
+Animal reproduction studies with omeprazole in rats and rabbits resulted in dose-dependent embryo-lethality at doses that were approximately 2.8 to 28 times the daily human dose of 40 mg.
+
 Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 57 times and 35 times, respectively, an oral human dose of 40 mg.
 However, changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 33.6 times an oral human dose 40 mg (see Animal Data).
 Because of the observed effect at high doses of esomeprazole magnesium on developing bone in rat studies, Omeprazole Delayed-Release Capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+#### Human Data
 
 Human Data
 
@@ -33,11 +41,13 @@ Rates of spontaneous and elective abortions, preterm deliveries, gestational age
 
 Several studies have reported no apparent adverse short-term effects on the infant when single dose oral or intravenous omeprazole was administered to over 200 pregnant women as premedication for cesarean section under general anesthesia.
 
+#### Animal Data
+
 Animal Data
 
-Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 56 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at doses up to 69 mg/kg/day (about 56 times an oral human dose of 40 mg on a body surface area basis) did not disclose any evidence for a teratogenic potential of omeprazole.
-In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 5.5 to 56 times an oral dose of 40 mg on a body surface area basis) produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
-In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 5.6 to 56 times an oral human doses of 40 mg on a body surface area basis).
+Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 28 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at doses up to 69 mg/kg/day (about 28 times an oral human dose of 40 mg on a body surface area basis) did not disclose any evidence for a teratogenic potential of omeprazole.
+In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 2.8 to 28 times an oral human dose of 40 mg on a body surface area basis) produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
+In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 2.8 to 28 times an oral human doses of 40 mg on a body surface area basis).
 
 Reproduction studies have been performed with esomeprazole magnesium in rats at oral doses up to 280 mg/kg/day (about 57 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at oral doses up to 86 mg/kg/day (about 35 times an oral human dose of 40 mg on a body surface area basis) and have revealed no evidence of impaired fertility or harm to the fetus due to esomeprazole magnesium.
 

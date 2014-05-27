@@ -53,11 +53,21 @@ Omeprazole acts as an inhibitor of CYP 2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in crossover study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
 Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69% respectively.
 Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
-Therefore a dose reduction of cilostazol from 100 mg b.i.d. to 50 mg b.i.d. should be considered.
+Therefore a dose reduction of cilostazol from 100 mg twice a day to 50 mg twice a day should be considered.
 
 Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased omeprazole serum levels.
 In a cross-over study in 12 healthy male subjects, St. John's wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
 Avoid concomitant use of St. John's Wort or rifampin with omeprazole.
+
+Clopidogrel
+
+Omeprazole is an inhibitor of CYP2C19 enzyme.
+Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
+Avoid concomitant administration of Omeprazole Delayed-Release Capsules with clopidogrel.
+When using Omeprazole Delayed-Release Capsules, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
+
+There are no adequate combination studies of a lower dose of omeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel.
 
 Clopidogrel
 

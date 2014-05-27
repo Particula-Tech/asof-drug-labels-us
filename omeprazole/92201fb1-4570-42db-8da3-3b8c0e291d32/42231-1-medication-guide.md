@@ -1,9 +1,11 @@
+# MEDICATION GUIDE
+
 MEDICATION GUIDE
 
 Omeprazole Delayed-Release Capsules, USP
 
-CIA77775D Rev.
-4E 03/2014
+CIA77775E Rev.
+5E 05/2014
 
 Read this Medication Guide before you start taking Omeprazole Delayed-Release Capsules and each time you get a refill.
 There may be new information.
@@ -78,13 +80,11 @@ Before you take Omeprazole Delayed-Release Capsules, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if Omeprazole Delayed-Release Capsules will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
-  Omeprazole Delayed-Release Capsules can pass into your breast milk and may harm your baby.
-  You and your doctor should decide if you will take Omeprazole Delayed-Release Capsules or breastfeed.
-  You should not do both.
-  Talk to your doctor about the best way to feed your baby if you breastfeed.
+  Omeprazole Delayed-Release Capsules passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take Omeprazole Delayed-Release Capsules.
 
 Tell your doctor about all of the medicines you take including prescription and non-prescription drugs, anticancer drugs, vitamins and herbal supplements.
-Omeprazole Delayed-Release Capsules may affect how other medicines work, and other medicines may affect how Omeprazole Delayed-Release Capsules work.
+Omeprazole Delayed-Release Capsules may affect how other medicines work, and other medicines may affect how Omeprazole Delayed-Release Capsules works.
 
 Especially tell your doctor if you take:
 
@@ -115,8 +115,7 @@ Keep a list of them to show your doctor and pharmacist when you get a new medici
 
 How should I take Omeprazole Delayed-Release Capsules?
 
-Take Omeprazole Delayed-Release Capsules exactly as prescribed by your doctor.
-
+- Take Omeprazole Delayed-Release Capsules exactly as prescribed by your doctor.
 - Do not change your dose or stop Omeprazole Delayed-Release Capsules without talking to your doctor.
 - Take Omeprazole Delayed-Release Capsules at least 1 hour before a meal.
 - Swallow Omeprazole Delayed-Release Capsules whole.
@@ -144,7 +143,6 @@ Omeprazole Delayed-Release Capsules can cause serious side effects, including:
   You may or may not have symptoms.
   Tell your doctor if you have stomach pain, nausea, vomiting, or weight loss.
 - Low magnesium levels in your body.
-  This problem can be serious.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.

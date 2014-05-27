@@ -1,3 +1,5 @@
+# 10 mg bottle label
+
 Principal Display Panel - 10 mg Bottle Label
 
 100 Capsules NDC 62175-114-37
@@ -8,6 +10,8 @@ Omeprazole Delayed-Release Capsules, USP
 
 Rx Only
 
+# 20 mg bottle label
+
 Principal Display Panel - 20 mg Bottle Label
 
 100 Capsules NDC 62175-118-37
@@ -17,6 +21,8 @@ Omeprazole Delayed-Release Capsules, USP
 20 mg
 
 Rx Only
+
+# 40 mg bottle label
 
 Principal Display Panel - 40 mg Bottle Label
 
