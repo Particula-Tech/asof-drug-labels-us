@@ -333,7 +333,6 @@ This small change in antipyrine half-life reflects a clinically insignificant ch
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
-These studies have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when ZOLOFT is initiated or discontinued.
 
