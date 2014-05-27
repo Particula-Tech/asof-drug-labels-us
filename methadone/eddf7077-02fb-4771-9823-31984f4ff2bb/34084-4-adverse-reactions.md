@@ -1,12 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions and/or conditions are discussed elsewhere in the labeling:
+The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Respiratory Depression [see Warnings and Precautions (5.2)]
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - QT Prolongation [see Warnings and Precautions (5.3)]
-- Chronic Pulmonary Disease [see Warnings and Precautions (5.6)]
-- Head Injuries and Increased Intracranial Pressure [see Warnings and Precautions (5.9)]
-- Interactions with Other CNS Depressants [see Warnings and Precautions (5.7)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- Interactions with Other CNS Depressants [see Warnings and Precautions (5.5)]
 - Hypotensive Effect [see Warnings and Precautions (5.8)]
 - Gastrointestinal Effects [see Warnings and Precautions (5.10)]
 - Seizures [see Warnings and Precautions (5.11)]
@@ -47,7 +47,5 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Maintenance on a Stabilized Dose: During prolonged administration of methadone, as in a methadone maintenance treatment program, constipation and sweating often persist and hypogonadism, decreased serum testosterone and reproductive effects are thought to be related to chronic opioid use.
 
-Methadone Hydrochloride Tablets for the Detoxification and Maintenance Treatment of Opioid Dependence
-
-During the induction phase of methadone maintenance treatment, patients are being withdrawn from illicit opioids and may have opioid withdrawal symptoms.
+Methadone Hydrochloride Tablets for the Detoxification and Maintenance Treatment of Opioid Dependence During the induction phase of methadone maintenance treatment, patients are being withdrawn from illicit opioids and may have opioid withdrawal symptoms.
 Monitor patients for signs and symptoms including: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilling alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss and consider dose adjustment as indicated.

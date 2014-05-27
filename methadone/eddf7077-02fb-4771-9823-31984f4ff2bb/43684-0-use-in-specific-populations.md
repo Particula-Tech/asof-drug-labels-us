@@ -2,34 +2,32 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Clinical Considerations
 
-There are no adequate and well controlled studies of methadone use in pregnant women.
+Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome, such as poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.4)].
+
+Teratogenic Effects - Pregnancy Category C There are no adequate and well controlled studies in pregnant women.
+Methadone hydrochloride tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
 Methadone has been shown to be teratogenic in the hamster at doses 2 times the human daily oral dose (120 mg/day on a mg/m2 basis) and in mice at doses equivalent to the human daily oral dose (120 mg/day on a mg/m2 basis).
 Increased neonatal mortality and significant differences in behavioral tests have been reported in the offspring of male rodents that were treated with methadone prior to mating when compared to control animals.
 Methadone has been detected in human amniotic fluid and cord plasma at concentrations proportional to maternal plasma and in newborn urine at lower concentrations than corresponding maternal urine.
-Methadone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Dosage Adjustment during Pregnancy
-
-The disposition of oral methadone has been studied in approximately 30 pregnant patients in 2nd and 3rd trimesters.
+Dosage Adjustment during Pregnancy The disposition of oral methadone has been studied in approximately 30 pregnant patients in 2nd and 3rd trimesters.
 Total body clearance of methadone was increased in pregnant patients compared to the same patients postpartum or to non-pregnant opioid-dependent women.
 The terminal half-life of methadone is decreased during 2nd and 3rd trimesters.
 The decrease in plasma half-life and increased clearance of methadone resulting in lower methadone trough levels during pregnancy can lead to withdrawal symptoms in some pregnant patients.
-The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving methadone to achieve therapeutic effect [see Dosage and Administration (2.9)].
+The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving methadone to achieve therapeutic effect [see Dosage and Administration (2.10)].
 
-Effects on the Neonate
-
-Babies born to mothers who have been taking opioids regularly prior to delivery may be physically dependent.
+Effects on the Neonate Babies born to mothers who have been taking opioids regularly prior to delivery may be physically dependent.
 Onset of withdrawal symptoms in infants is usually in the first days after birth.
-Monitor newborn for withdrawal signs and symptoms including: irritability and excessive crying, tremors, hyper-active reflexes, increased respiratory rate, increased stools, sneezing, yawning, vomiting, and fever.
+Monitor newborn for withdrawal signs and symptoms including: poor feeding, irritability, excessive crying, tremors, rigidity, hyper-active reflexes, increased respiratory rate, diarrhea, sneezing, yawning, vomiting, fever, and seizures.
 The intensity of the neonatal withdrawal syndrome does not always correlate with the maternal dose or the duration of maternal exposure.
 The duration of the withdrawal signs may vary from a few days to weeks or even months.
-There is no consensus on the appropriate management of infant withdrawal [see Use in Specific Populations (8.6)].
+There is no consensus on the appropriate management of infant withdrawal [see Warnings and Precautions (5.4)].
 
-Human Data
-
-Reported studies have generally compared the benefit of methadone to the risk of untreated addiction to illicit drugs; the relevance of these findings to pain patients prescribed methadone during pregnancy is unclear.
+Human Data Reported studies have generally compared the benefit of methadone to the risk of untreated addiction to illicit drugs; the relevance of these findings to pain patients prescribed methadone during pregnancy is unclear.
 Pregnant women involved in methadone maintenance programs have been reported to have significantly improved prenatal care leading to significantly reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
 Several factors, including maternal use of illicit drugs, nutrition, infection and psychosocial circumstances, complicate the interpretation of investigations of the children of women who take methadone during pregnancy.
 Information is limited regarding dose and duration of methadone use during pregnancy, and most maternal exposure appears to occur after the first trimester of pregnancy.
@@ -46,9 +44,7 @@ In addition, several studies suggest that children born to opioid-dependent wome
 There are conflicting reports on whether Sudden Infant Death Syndrome occurs with an increased incidence in infants born to women treated with methadone during pregnancy.
 Abnormal fetal non-stress tests have been reported to occur more frequently when the test is performed 1 to 2 hours after a maintenance dose of methadone in late pregnancy compared to controls.
 
-Animal Data
-
-Methadone did not produce teratogenic effects in rat or rabbit models.
+Animal Data Methadone did not produce teratogenic effects in rat or rabbit models.
 Methadone produced teratogenic effects following large doses, in the guinea pig, hamster and mouse.
 One published study in pregnant hamsters indicated that a single subcutaneous dose of methadone ranging from 31 to 185 mg/kg (the 31 mg/kg dose is approximately 2 times a human daily oral dose of 120 mg/day on a mg/m2 basis) on day 8 of gestation resulted in a decrease in the number of fetuses per litter and an increase in the percentage of fetuses exhibiting congenital malformations described as exencephaly, cranioschisis, and “various other lesions.”
 The majority of the doses tested also resulted in maternal death.
@@ -73,15 +69,10 @@ Examination of uterine contents of methadone-naïve female mice bred to methadon
 
 ## 8.2 Labor and Delivery
 
-Methadone hydrochloride tablets are not for use in women during and immediately prior to labor, where shorter acting analgesics or other analgesic techniques are more appropriate [see Indications and Usage (1)].
-Opioid analgesics may prolong labor by temporarily reducing the strength, duration and frequency of uterine contractions.
-However, these effects are not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
-
-Opioids with mixed agonist-antagonist properties should not be used for pain control during labor in patients chronically treated with methadone as they may precipitate acute withdrawal [see Drug Interactions (7.4)].
-
-Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-Closely observe neonates whose mothers received opioid analgesics during labor for signs of respiratory depression.
-An opioid antagonist, such as naloxone, should be available for reversal of opioid-induced respiratory depression in the neonate.
+Opioids cross the placenta and may produce respiratory depression in neonates.
+Methadone hydrochloride tablets are not for use in women during and immediately prior to labor, when shorter acting analgesics or other analgesic techniques are more appropriate.
+Opioid analgesics can prolong labor through actions that temporarily reduce the strength, duration, and frequency of uterine contractions.
+However this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
 
 ## 8.3 Nursing Mothers
 
@@ -108,19 +99,12 @@ Other reported clinical experience has not identified differences in responses b
 In general, start elderly patients at the low end of the dosing range, taking into account the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy in geriatric patients.
 Closely monitor elderly patients for signs of respiratory and central nervous system depression.
 
-## 8.6 Neonatal Opioid Withdrawal Syndrome
-
-Chronic maternal use of methadone during pregnancy can affect the fetus with subsequent withdrawal signs.
-Neonatal withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
-The onset, duration and severity of neonatal withdrawal syndrome vary based on the drug used, duration of use, the dose of last maternal use, and rate of elimination drug by the newborn.
-Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening and should be treated according to protocols developed by neonatology experts.
-
-## 8.7 Renal Impairment
+## 8.6 Renal Impairment
 
 Methadone pharmacokinetics have not been extensively evaluated in patients with renal insufficiency.
 Since unmetabolized methadone and its metabolites are excreted in urine to a variable degree, start these patients on lower doses and with longer dosing intervals and titrate slowly while carefully monitoring for signs of respiratory and central nervous system depression.
 
-## 8.8 Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 Methadone has not been extensively evaluated in patients with hepatic insufficiency.
 Methadone is metabolized by hepatic pathways; therefore, patients with liver impairment may be at risk of increased systemic exposure to methadone after multiple dosing.

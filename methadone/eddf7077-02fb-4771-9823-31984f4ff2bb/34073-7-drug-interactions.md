@@ -1,38 +1,34 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Cytochrome P450 Interactions
+## 7.1 CNS Depressants
+
+The concomitant use of methadone hydrochloride tablets with other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma and death.
+Monitor patients receiving CNS depressants and methadone hydrochloride tablets for signs of respiratory depression, sedation and hypotension.
+
+When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Warnings and Precautions (5.5)].
+
+## 7.2 Drugs Affecting Cytochrome P450 Isoenzymes
 
 Methadone undergoes hepatic N-demethylation by cytochrome P450 (CYP) isoforms, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6 [see Clinical Pharmacology (12.3)].
 
-Cytochrome P450 Inducers
+Inhibitors of CYP3A4 and 2C9 Because the CYP3A4 isoenzyme plays a major role in the metabolism of methadone, drugs that inhibit CYP3A4 activity may cause decreased clearance of methadone which could lead to an increase in methadone plasma concentrations and result in increased or prolonged opioid effects.
+These effects could be more pronounced with concomitant use of CYP 2C9 and 3A4 inhibitors.
+If co-administration with methadone hydrochloride tablets is necessary, monitor patients for respiratory depression and sedation at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
 
-Concurrent use of methadone hydrochloride tablets and drugs that induce cytochrome P450 enzymes (such as rifampicin, phenytoin, phenobarbital, carbamazepine, and St. John’s Wort) may result in reduced efficacy of methadone hydrochloride tablets and could precipitate a withdrawal syndrome.
-Closely monitor patients receiving methadone hydrochloride tablets and an enzyme inducer closely for signs of withdrawal and adjust the methadone hydrochloride tablets dose accordingly.
+Inducers of CYP3A4 CYP450 3A4 inducers may induce the metabolism of methadone and, therefore, may cause increased clearance of the drug which could lead to a decrease in methadone plasma concentrations, lack of efficacy or, possibly, development of a withdrawal syndrome in a patient who had developed physical dependence to methadone.
+If co-administration with methadone hydrochloride tablets is necessary, monitor for signs of opioid withdrawal and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
 
-Cytochrome P450 Inhibitors
+After stopping the treatment of a CYP3A4 inducer, as the effects of the inducer decline, methadone plasma concentration will increase which could increase or prolong both the therapeutic and adverse effects, and may cause serious respiratory depression.
+If co-administration or discontinuation of a CYP3A4 inducer with methadone hydrochloride tablets is necessary, monitor for signs of opioid withdrawal and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)].
 
-Coadministration of drugs that inhibit CYP3A4 (such as ketoconazole, itraconazole, voriconazole, clarithromycin, erythromycin, telithromycin) and/or drugs that inhibit CYP2C9 (such as sertraline and fluvoxamine) may cause decreased clearance of methadone, which could increase or prolong adverse drug effects and may cause fatal respiratory depression [see Clinical Pharmacology (12.3)].
-Monitor patients closely for signs of respiratory or central nervous system depression when methadone hydrochloride tablets are prescribed with a CYP3A4 inhibitor and reduce the dosage if necessary.
-
-Paradoxical Effects of Antiretroviral Agents on Methadone Hydrochloride Tablets
-
-Concurrent use of certain protease inhibitors with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranvir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
+Paradoxical Effects of Antiretroviral Agents on Methadone Hydrochloride Tablets Concurrent use of certain protease inhibitors with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranvir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
 This may result in reduced efficacy of methadone hydrochloride tablets and could precipitate a withdrawal syndrome.
-Monitor methadone-maintained patients receiving any of these anti-retroviral therapies closely for evidence of withdrawal effects and adjust the methadone dose accordingly.
+Monitor methadone-maintained patients receiving any of these antiretroviral therapies closely for evidence of withdrawal effects and adjust the methadone dose accordingly.
 
-Effects of Methadone Hydrochloride Tablets on Antiretroviral Agents
-
-Didanosine and Stavudine: Experimental evidence demonstrated that methadone decreased the area under the concentration-time curve (AUC) and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
+Effects of Methadone Hydrochloride Tablets on Antiretroviral Agents Didanosine and Stavudine: Experimental evidence demonstrated that methadone decreased the area under the concentration-time curve (AUC) and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
 Methadone disposition was not substantially altered.
 
 Zidovudine: Experimental evidence demonstrated that methadone increased the AUC of zidovudine, which could result in toxic effects.
-
-## 7.2 CNS Depressants
-
-Concurrent use of methadone hydrochloride tablets and other central nervous system (CNS) depressants (e.g., sedatives, hypnotics, general anesthetics, antiemetics, phenothiazines, other tranquilizers, alcohol and drugs of abuse) can increase the risk of respiratory depression, hypotension, and profound sedation or coma.
-Monitor patients receiving CNS depressants and methadone hydrochloride tablets for signs of respiratory depression and hypotension.
-When such combined therapy is contemplated, reduce the initial dose of one or both agents.
-Deaths have been reported when methadone has been abused in conjunction with benzodiazepines.
 
 ## 7.3 Potentially Arrhythmogenic Agents
 
@@ -41,10 +37,10 @@ Pharmacodynamic interactions may occur with concomitant use of methadone and pot
 
 Similarly, monitor patients closely when prescribing methadone concomitantly with drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia) that may prolong the QT interval, including diuretics, laxatives, and, in rare cases, mineralocorticoid hormones.
 
-## 7.4 Opioid Antagonists, Mixed Agonist/Antagonists, and Partial Agonists
+## 7.4 Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
 
-As with other mu-agonists, patients maintained on methadone may experience withdrawal symptoms when given opioid antagonists, mixed agonist/antagonists, and partial agonists.
-Examples of such agents are naloxone, naltrexone, pentazocine, nalbuphine, butorphanol, and buprenorphine.
+Mixed agonist/antagonist (i.e., pentazocine, nalbuphine and butorphanol) and partial agonist (buprenorphine) analgesics may reduce the analgesic effect of methadone hydrochloride tablets or precipitate withdrawal symptoms.
+Avoid the use of mixed agonist/antagonist and partial agonist analgesics in patients receiving methadone hydrochloride tablets.
 
 ## 7.5 Antidepressants
 
