@@ -23,7 +23,7 @@ The effect of VFEND on visual function is not known if treatment continues beyon
 There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field and color perception should be monitored [see Adverse Reactions (6.2)].
 
-## 5.4 Pregnancy Category D
+## 5.4 Embryo-Fetal Toxicity
 
 Voriconazole can cause fetal harm when administered to a pregnant woman.
 
