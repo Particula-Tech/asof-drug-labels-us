@@ -2,7 +2,9 @@ Manufactured by:
 
 Glenmark Generics Ltd.
 
-Colvale-Bardez, Goa 403 513, India
+Plot No.2, Phase -2, Pharma zone SEZ, Pithampur,
+
+Dist-Dhar, Madhya Pradesh 454 775, India
 
 Manufactured for:
 
@@ -15,4 +17,4 @@ Questions?
 
 www.glenmarkgenerics.com
 
-April 2012
+May 2014

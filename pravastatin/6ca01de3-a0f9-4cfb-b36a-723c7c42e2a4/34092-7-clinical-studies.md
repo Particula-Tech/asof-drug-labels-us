@@ -47,12 +47,12 @@ Table 5: Primary Hypercholesterolemia Studies: Dose Response of Pravastatin Sodi
 
 | Dose | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
-| Mean Percent Changes From Baseline After 8 WeeksA multicenter, double-blind, placebo-controlled study. |  |  |  |  |
+| Mean Percent Changes From Baseline After 8 Weeks |  |  |  |  |
 | Placebo (N=36) | −3% | −4% | +1% | −4% |
 | 10 mg (N=18) | −16% | −22% | +7% | −15% |
 | 20 mg (N=19) | −24% | −32% | +2% | −11% |
 | 40 mg (N=18) | −25% | −34% | +12% | −24% |
-| Mean Percent Changes From Baseline After 6 WeeksPooled analysis of 2 multicenter, double-blind, placebo-controlled studies. |  |  |  |  |
+| Mean Percent Changes From Baseline After 6 Weeks |  |  |  |  |
 | Placebo (N=162) | 0% | −1% | −1% | +1% |
 | 80 mg (N=277) | −27% | −37% | +3% | −19% |
 
@@ -109,11 +109,11 @@ The mean baseline LDL-C value was 239 mg/dL and 237 mg/dL in the pravastatin (ra
 Pravastatin significantly decreased plasma levels of LDL-C, Total-C, and ApoB in both children and adolescents (see Table 8).
 The effect of pravastatin treatment in the 2 age groups was similar.
 
-Table 8: Lipid-Lowering Effects of Pravastatin in Pediatric Patients with Heterozygous Familial Hypercholesterolemia: Least-Squares Mean % Change from Baseline at Month 24 (Last Observation Carried Forward: Intent-to-Treat)The above least-squares mean values were calculated based on log-transformed lipid values.
+Table 8: Lipid-Lowering Effects of Pravastatin in Pediatric Patients with Heterozygous Familial Hypercholesterolemia: Least-Squares Mean % Change from Baseline at Month 24 (Last Observation Carried Forward: Intent-to-Treat)
 
 |  | Pravastatin 20 mg (Aged 8 to 13 years) N=65 | Pravastatin 40 mg (Aged 14 to 18 years) N=41 | Combined Pravastatin (Aged 8 to 18 years) N=106 | Combined Placebo (Aged 8 to 18 years) N=108 | 95% CI of the Difference Between Combined Pravastatin and Placebo |
 | --- | --- | --- | --- | --- | --- |
-| LDL-C | −26.04Significant at p≤0.0001 when compared with placebo. | −21.07 | −24.07 | −1.52 | (−26.74, −18.86) |
+| LDL-C | −26.04 | −21.07 | −24.07 | −1.52 | (−26.74, −18.86) |
 | TC | −20.75 | −13.08 | −17.72 | −0.65 | (−20.4, −13.83) |
 | HDL-C | 1.04 | 13.71 | 5.97 | 3.13 | (−1.71, 7.43) |
 | TG | −9.58 | −0.3 | −5.88 | −3.27 | (−13.95, 10.01) |

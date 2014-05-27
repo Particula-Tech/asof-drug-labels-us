@@ -10,7 +10,12 @@ Uncomplicated myalgia has also been reported in pravastatin-treated patients [se
 Myopathy, defined as muscle aching or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values to greater than 10 times the upper limit of normal (ULN), was rare (<0.1%) in pravastatin clinical trials.
 Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, and/or marked elevation of CPK.
 Predisposing factors include advanced age (>65), uncontrolled hypothyroidism, and renal impairment.
-Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
+
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
+IMNM is characterized by: proximal muscle weakness and elevated serum CPK, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation and improvement with immunosuppressive agents.
+
+All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing pravastatin sodium.
+
 Pravastatin therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
 Pravastatin therapy should also be temporarily withheld in any patient experiencing an acute or serious condition predisposing to the development of renal failure secondary to rhabdomyolysis, e.g., sepsis; hypotension; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
 
@@ -29,9 +34,7 @@ Cases of myopathy, including rhabdomyolysis, have been reported with pravastatin
 
 Statins, like some other lipid-lowering therapies, have been associated with biochemical abnormalities of liver function.
 In placebo-controlled clinical trials subjects were exposed to pravastatin or placebo [see Clinical Studies (14)].
-In an analysis of
-
-serum transaminase values (ALT, AST), incidences of marked abnormalities were compared between the pravastatin and placebo treatment groups; a marked abnormality was defined as a post-treatment test value greater than 3 times the upper limit of normal for subjects with pretreatment values less than or equal to the upper limit of normal, or 4 times the pretreatment value for subjects with pretreatment values greater than the upper limit of normal but less than 1.5 times the upper limit of normal.
+In an analysis of serum transaminase values (ALT, AST), incidences of marked abnormalities were compared between the pravastatin and placebo treatment groups; a marked abnormality was defined as a post-treatment test value greater than 3 times the upper limit of normal for subjects with pretreatment values less than or equal to the upper limit of normal, or 4 times the pretreatment value for subjects with pretreatment values greater than the upper limit of normal but less than 1.5 times the upper limit of normal.
 Marked abnormalities of ALT or AST occurred with similar low frequency (≤1.2%) in both treatment groups.
 Overall, clinical trial experience showed that liver function test abnormalities observed during pravastatin therapy were usually asymptomatic, not associated with cholestasis, and did not appear to be related to treatment duration.
 In a 320-patient placebo-controlled clinical trial, subjects with chronic (>6 months) stable liver disease, due primarily to hepatitis C or nonalcoholic fatty liver disease, were treated with 80 mg pravastatin or placebo for up to 9 months.
@@ -60,4 +63,4 @@ Patients treated with pravastatin who display clinical evidence of endocrine dys
 Caution should also be exercised if a statin or other agent used to lower cholesterol levels is administered to patients also receiving other drugs (e.g., ketoconazole, spironolactone, cimetidine) that may diminish the levels or activity of steroid hormones.
 
 In a placebo-controlled study of 214 pediatric patients with HeFH, of which 106 were treated with pravastatin (20 mg in the children aged 8 to 13 years and 40 mg in the adolescents aged 14 to 18 years) for 2 years, there were no detectable differences seen in any of the endocrine parameters (ACTH, cortisol, DHEAS, FSH, LH, TSH, estradiol [girls] or testosterone [boys]) relative to placebo.
-There were no detectable differences seen in height and weight changes, testicular volume changes, or Tanner score relative to placebo.
+There were no detectable differences seen in height and weight changes, testicular volume changes, or Tanner score relative to placebo

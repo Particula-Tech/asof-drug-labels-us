@@ -7,10 +7,10 @@ Pravastatin sodium USP is designated chemically as 1-Naphthalene-heptanoic acid,
 
 Structural formula:
 
-Pravastatin sodium USP is an odorless, white to off-white, fine or crystalline powder.
+Pravastatin sodium USP is an odorless, white to yellowish white, hygroscpic powder.
 It is a relatively polar hydrophilic compound with a partition coefficient (octanol/water) of 0.59 at a pH of 7.
-It is soluble in methanol and water (>300 mg/mL), slightly soluble in isopropanol, and practically insoluble in acetone, acetonitrile, chloroform, and ether.
+It is freely soluble in water and methanol, soluble in alcohol, very slightly soluble in acetonitrile and practically insoluble in ether, ethyl acetate and chloroform.
 
 Pravastatin sodium tablets USP are available for oral administration as 10 mg, 20 mg, 40 mg, and 80 mg tablets.
-Inactive ingredients include: colloidal silicon dioxide, crospovidone, hydroxypropyl methylcellulose, magnesium stearate, mannitol, meglumine, microcrystalline cellulose and starch.
+Inactive ingredients include: colloidal silicon dioxide, crospovidone, hydroxypropyl methylcellulose, magnesium stearate, mannitol, meglumine, microcrystalline cellulose and corn starch.
 The 10 mg, 20 mg and 80 mg tablets also contain D&C yellow no. 10 aluminum lake and the 40 mg tablet also contains D&C yellow no. 10 aluminum lake and FD&C blue no. 1 aluminum lake.

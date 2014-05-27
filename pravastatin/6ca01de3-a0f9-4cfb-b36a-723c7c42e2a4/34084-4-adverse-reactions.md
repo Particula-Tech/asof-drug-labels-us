@@ -117,6 +117,8 @@ In addition to the events reported above, as with other drugs in this class, the
 
 Musculoskeletal: myopathy, rhabdomyolysis.
 
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
+
 Nervous System: dysfunction of certain cranial nerves (including alteration of taste, impairment of extraocular movement, facial paresis), peripheral nerve palsy.
 
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
