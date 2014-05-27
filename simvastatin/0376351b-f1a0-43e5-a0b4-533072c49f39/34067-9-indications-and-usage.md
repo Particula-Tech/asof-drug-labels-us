@@ -23,10 +23,9 @@ Simvastatin tablets, USP are indicated to:
 
 ## 1.3 Adolescent Patients with Heterozygous Familial Hypercholesterolemia (HeFH)
 
-Simvastatin tablets, USP are indicated as an adjunct to diet to reduce total-C, LDL-C, and Apo B levels in adolescent boys and girls who are at least one year post-menarche, 10 to 17 years of age, with HeFH, if after an adequate trial of diet therapy the following findings are present:
-
-1. LDL cholesterol remains ≥190 mg/dL; or
-2. LDL cholesterol remains ≥160 mg/dL and
+Simvastatin tablets, USP are indicated as an adjunct to diet to reduce total-C, LDL-C, and Apo B levels in adolescent boys and girls who are at least one year post-menarche, 10 to 17 years of age, with HeFH, if after an adequate trial of diet therapy the following findings are present: 1.
+LDL cholesterol remains ≥190 mg/dL; or 2.
+LDL cholesterol remains ≥160 mg/dL and
 
 - There is a positive family history of premature cardiovascular disease (CVD) or
 - Two or more other CVD risk factors are present in the adolescent patient.
