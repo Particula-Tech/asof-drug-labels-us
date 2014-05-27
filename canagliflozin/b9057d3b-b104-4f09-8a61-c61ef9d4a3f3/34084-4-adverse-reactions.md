@@ -63,7 +63,7 @@ In the pool of eight clinical trials, the incidence rate of pancreatitis (acute 
 In the pool of eight clinical trials with a longer mean duration of exposure to INVOKANA (68 weeks), the incidence rate of bone fracture was 14.2, 18.7, and 17.6 per 1000 patient years of exposure to comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Upper extremity fractures occurred more commonly on INVOKANA than comparator.
 
-In the pool of eight clinical trials, hypersensitivity-related adverse reactions (including erythema, rash, pruritus, urticaria, and angioedema) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg respectively.
+In the pool of eight clinical trials, hypersensitivity-related adverse reactions (including erythema, rash, pruritus, urticaria, and angioedema) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
 Five patients experienced serious adverse reactions of hypersensitivity with INVOKANA, which included 4 patients with urticaria and 1 patient with a diffuse rash and urticaria occurring within hours of exposure to INVOKANA.
 Among these patients, 2 patients discontinued INVOKANA.
 One patient with urticaria had recurrence when INVOKANA was re-initiated.
