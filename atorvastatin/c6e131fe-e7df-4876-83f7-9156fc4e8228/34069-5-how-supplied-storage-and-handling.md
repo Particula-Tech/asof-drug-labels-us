@@ -2,11 +2,11 @@
 
 10 mg tablets: coded "PD 155" on one side and "10" on the other.
 
-NDC 0071-0155-23 bottles of 90 NDC 0071-0155-34 bottles of 5000 NDC 0071-0155-40 10 × 10 unit dose blisters
+NDC 0071-0155-23 bottles of 90 NDC 0071-0155-34 bottles of 5000 NDC 0071-0155-40 10 × 10 unit dose blisters NDC 0071-0155-10 bottles of 1000
 
 20 mg tablets: coded "PD 156" on one side and "20" on the other.
 
-NDC 0071-0156-23 bottles of 90 NDC 0071-0156-40 10 × 10 unit dose blisters NDC 0071-0156-94 bottles of 5000
+NDC 0071-0156-23 bottles of 90 NDC 0071-0156-40 10 × 10 unit dose blisters NDC 0071-0156-94 bottles of 5000 NDC 0071-0156-10 bottles of 1000
 
 40 mg tablets: coded "PD 157" on one side and "40" on the other.
 
