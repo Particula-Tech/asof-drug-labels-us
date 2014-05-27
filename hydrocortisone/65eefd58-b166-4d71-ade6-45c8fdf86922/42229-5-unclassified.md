@@ -1,3 +1,3 @@
 For Intravenous or Intramuscular Administration
 
-LAB-0424-5.0 August 2012
+LAB-0424-6.0 May 2014
