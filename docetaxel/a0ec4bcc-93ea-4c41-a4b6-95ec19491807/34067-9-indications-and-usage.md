@@ -15,11 +15,3 @@ Docetaxel Injection, USP in combination with cisplatin is indicated for the trea
 ## 1.3 Prostate Cancer
 
 Docetaxel Injection, USP in combination with prednisone is indicated for the treatment of patients with androgen independent (hormone refractory) metastatic prostate cancer.
-
-## 1.4 Gastric Adenocarcinoma
-
-Docetaxel Injection in combination with cisplatin and fluorouracil is indicated for the treatment of patients with advanced gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who have not received prior chemotherapy for advanced disease.
-
-## 1.5 Head and Neck Cancer
-
-Docetaxel Injection in combination with cisplatin and fluorouracil is indicated for the induction treatment of patients with locally advanced squamous cell carcinoma of the head and neck (SCCHN).
