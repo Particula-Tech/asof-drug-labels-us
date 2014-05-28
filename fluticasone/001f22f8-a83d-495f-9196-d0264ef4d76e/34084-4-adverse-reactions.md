@@ -86,6 +86,8 @@ Eye: Cataracts.
 Immune System Disorders: Immediate and delayed hypersensitivity reactions, including anaphylaxis, rash, angioedema, and bronchospasm, have been reported.
 Anaphylactic reactions in patients with severe milk protein allergy have been reported.
 
+Infections and Infestations: Esophageal candidiasis
+
 Psychiatry: Agitation, aggression, anxiety, depression, and restlessness.
 Behavioral changes, including hyperactivity and irritability, have been reported very rarely and primarily in children.
 

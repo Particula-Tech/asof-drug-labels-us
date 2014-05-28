@@ -80,12 +80,12 @@ Read the step-by-step instructions for using FLOVENT DISKUS at the end of this P
   Always have a rescue inhaler with you to treat sudden symptoms.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
-  - ∘your breathing problems get worse.
-  - ∘you need to use your rescue inhaler more often than usual.
-  - ∘your rescue inhaler does not work as well to relieve your symptoms.
-  - ∘you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row.
-  - ∘you use 1 whole canister of your rescue inhaler in 8 weeks.
-  - ∘your peak flow meter results decrease.
+  - •your breathing problems get worse.
+  - •you need to use your rescue inhaler more often than usual.
+  - •your rescue inhaler does not work as well to relieve your symptoms.
+  - •you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row.
+  - •you use 1 whole canister of your rescue inhaler in 8 weeks.
+  - •your peak flow meter results decrease.
     Your healthcare provider will tell you the numbers that are right for you.
 
 What are the possible side effects with FLOVENT DISKUS?
@@ -98,20 +98,19 @@ FLOVENT DISKUS can cause serious side effects, including:
 - •reduced adrenal function (adrenal insufficiency).
   Adrenal insufficiency is a condition where the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled steroid (such as FLOVENT DISKUS).
-  When your body is under stress such as from fever, trauma (such as a car accident), infection, or surgery, adrenal insufficiency can get worse and may cause death.
-- Symptoms of adrenal insufficiency include:
+  When your body is under stress such as from fever, trauma (such as a car accident), infection, or surgery, adrenal insufficiency can get worse and may cause death.Symptoms of adrenal insufficiency include:
 - 
-  - ∘feeling tired
-  - ∘lack of energy
-  - ∘weakness
-  - ∘nausea and vomiting
-  - ∘low blood pressure
+  - •feeling tired
+  - •lack of energy
+  - •weakness
+  - •nausea and vomiting
+  - •low blood pressure
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - ∘rash
-  - ∘hives
-  - ∘swelling of your face, mouth, and tongue
-  - ∘breathing problems
+  - •rash
+  - •hives
+  - •swelling of your face, mouth, and tongue
+  - •breathing problems
 - •bone thinning or weakness (osteoporosis)
 - •slowed growth in children.
   A child’s growth should be checked often.
@@ -119,7 +118,10 @@ FLOVENT DISKUS can cause serious side effects, including:
   You should have regular eye exams while using FLOVENT DISKUS.
 - •increased wheezing (bronchospasm).
   Increased wheezing can happen right away after using FLOVENT DISKUS.
-  Always have a rescue inhaler with you to treat sudden wheezing.Common side effects of FLOVENT DISKUS include:upper respiratory tract infection
+  Always have a rescue inhaler with you to treat sudden wheezing.
+- Common side effects of FLOVENT DISKUS include:
+- upper respiratory tract infection
+
 - •upper respiratory tract infection
 - •throat irritation
 - •nausea and vomiting
@@ -141,7 +143,8 @@ How should I store FLOVENT DISKUS?
 - •Store FLOVENT DISKUS in the unopened foil pouch and only open when ready for use.
 - •Safely throw away FLOVENT DISKUS 50 mcg in the trash 6 weeks after you open the foil pouch or when the counter reads 0, whichever comes first.
 - •Safely throw away FLOVENT DISKUS 100 mcg and FLOVENT DISKUS 250 mcg in the trash 2 months after you open the foil pouch or when the counter reads 0, whichever comes first.
-- •Keep FLOVENT DISKUS and all medicines out of the reach of children.General information about FLOVENT DISKUS
+- •Keep FLOVENT DISKUS and all medicines out of the reach of children.
+- General information about FLOVENT DISKUS
 
 Medicines are sometimes prescribed for purposes not mentioned in a Patient Information leaflet.
 Do not use FLOVENT DISKUS for a condition for which it was not prescribed.
@@ -193,20 +196,23 @@ Open your FLOVENT DISKUS.
 - Figure B
 - Step 2.
   Slide the lever until you hear it click.
+
 - •Hold the Diskus in a level, flat position with the mouthpiece towards you.
   Slide the lever away from the mouthpiece as far as it will go until it clicks.
   See Figure C.
 
 - Figure C
-- •The number on the counter will count down by 1.
-  The DISKUS is now ready to use.
-  - Follow the instructions below so you will not accidentally waste a dose:
-- •Do not close the DISKUS.
-- •Do not tilt the DISKUS.
-- •Do not move the lever on the DISKUS.
+- Follow the instructions below so you will not accidentally waste a dose:
 - Step 3.
   Inhale your medicine.
 
+- •The number on the counter will count down by 1.
+  The DISKUS is now ready to use.Follow the instructions below so you will not accidentally waste a dose:Do not close the DISKUS.
+- •Do not close the DISKUS.
+- •Do not tilt the DISKUS.
+- •Do not move the lever on the DISKUS.Step 3.
+  Inhale your medicine.Before you breathe in your dose from the DISKUS, breathe out (exhale) as long as you can while you hold the DISKUS level and away from your mouth.
+  See Figure D. Do not breathe into the mouthpiece.
 - •Before you breathe in your dose from the DISKUS, breathe out (exhale) as long as you can while you hold the DISKUS level and away from your mouth.
   See Figure D. Do not breathe into the mouthpiece.
 
@@ -283,7 +289,7 @@ All rights reserved.
 
 April 2014
 
-FLD:xPIL
+FLD:6PIL
 
 Patient Information
 
@@ -367,12 +373,12 @@ Read the step-by-step instructions for using FLOVENT DISKUS at the end of this P
   Always have a rescue inhaler with you to treat sudden symptoms.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
-  - ∘your breathing problems get worse.
-  - ∘you need to use your rescue inhaler more often than usual.
-  - ∘your rescue inhaler does not work as well to relieve your symptoms.
-  - ∘you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row.
-  - ∘you use 1 whole canister of your rescue inhaler in 8 weeks.
-  - ∘your peak flow meter results decrease.
+  - •your breathing problems get worse.
+  - •you need to use your rescue inhaler more often than usual.
+  - •your rescue inhaler does not work as well to relieve your symptoms.
+  - •you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row.
+  - •you use 1 whole canister of your rescue inhaler in 8 weeks.
+  - •your peak flow meter results decrease.
     Your healthcare provider will tell you the numbers that are right for you.
 
 What are the possible side effects with FLOVENT DISKUS?
@@ -385,20 +391,19 @@ FLOVENT DISKUS can cause serious side effects, including:
 - •reduced adrenal function (adrenal insufficiency).
   Adrenal insufficiency is a condition where the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled steroid (such as FLOVENT DISKUS).
-  When your body is under stress such as from fever, trauma (such as a car accident), infection, or surgery, adrenal insufficiency can get worse and may cause death.
-- Symptoms of adrenal insufficiency include:
+  When your body is under stress such as from fever, trauma (such as a car accident), infection, or surgery, adrenal insufficiency can get worse and may cause death.Symptoms of adrenal insufficiency include:
 - 
-  - ∘feeling tired
-  - ∘lack of energy
-  - ∘weakness
-  - ∘nausea and vomiting
-  - ∘low blood pressure
+  - •feeling tired
+  - •lack of energy
+  - •weakness
+  - •nausea and vomiting
+  - •low blood pressure
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - ∘rash
-  - ∘hives
-  - ∘swelling of your face, mouth, and tongue
-  - ∘breathing problems
+  - •rash
+  - •hives
+  - •swelling of your face, mouth, and tongue
+  - •breathing problems
 - •bone thinning or weakness (osteoporosis)
 - •slowed growth in children.
   A child’s growth should be checked often.
@@ -406,7 +411,10 @@ FLOVENT DISKUS can cause serious side effects, including:
   You should have regular eye exams while using FLOVENT DISKUS.
 - •increased wheezing (bronchospasm).
   Increased wheezing can happen right away after using FLOVENT DISKUS.
-  Always have a rescue inhaler with you to treat sudden wheezing.Common side effects of FLOVENT DISKUS include:upper respiratory tract infection
+  Always have a rescue inhaler with you to treat sudden wheezing.
+- Common side effects of FLOVENT DISKUS include:
+- upper respiratory tract infection
+
 - •upper respiratory tract infection
 - •throat irritation
 - •nausea and vomiting
@@ -428,7 +436,8 @@ How should I store FLOVENT DISKUS?
 - •Store FLOVENT DISKUS in the unopened foil pouch and only open when ready for use.
 - •Safely throw away FLOVENT DISKUS 50 mcg in the trash 6 weeks after you open the foil pouch or when the counter reads 0, whichever comes first.
 - •Safely throw away FLOVENT DISKUS 100 mcg and FLOVENT DISKUS 250 mcg in the trash 2 months after you open the foil pouch or when the counter reads 0, whichever comes first.
-- •Keep FLOVENT DISKUS and all medicines out of the reach of children.General information about FLOVENT DISKUS
+- •Keep FLOVENT DISKUS and all medicines out of the reach of children.
+- General information about FLOVENT DISKUS
 
 Medicines are sometimes prescribed for purposes not mentioned in a Patient Information leaflet.
 Do not use FLOVENT DISKUS for a condition for which it was not prescribed.
@@ -480,29 +489,34 @@ Open your FLOVENT DISKUS.
 - Figure B
 - Step 2.
   Slide the lever until you hear it click.
+
 - •Hold the Diskus in a level, flat position with the mouthpiece towards you.
   Slide the lever away from the mouthpiece as far as it will go until it clicks.
   See Figure C.
 
 - Figure C
-- •The number on the counter will count down by 1.
-  The DISKUS is now ready to use.
-  - Follow the instructions below so you will not accidentally waste a dose:
-- •Do not close the DISKUS.
-- •Do not tilt the DISKUS.
-- •Do not move the lever on the DISKUS.
+- Follow the instructions below so you will not accidentally waste a dose:
 - Step 3.
   Inhale your medicine.
 
+- •The number on the counter will count down by 1.
+  The DISKUS is now ready to use.Follow the instructions below so you will not accidentally waste a dose:Do not close the DISKUS.
+- •Do not close the DISKUS.
+- •Do not tilt the DISKUS.
+- •Do not move the lever on the DISKUS.Step 3.
+  Inhale your medicine.Before you breathe in your dose from the DISKUS, breathe out (exhale) as long as you can while you hold the DISKUS level and away from your mouth.
+  See Figure D. Do not breathe into the mouthpiece.
 - •Before you breathe in your dose from the DISKUS, breathe out (exhale) as long as you can while you hold the DISKUS level and away from your mouth.
   See Figure D. Do not breathe into the mouthpiece.
 
 - Figure D
+
 - •Put the mouthpiece to your lips.
   See Figure E. Breathe in quickly and deeply through the DISKUS.
   Do not breathe in through your nose.
 
 - Figure E
+
 - •Remove the DISKUS from your mouth and hold your breath for about 10 seconds, or for as long as is comfortable for you.
 - •Breathe out slowly as long as you can.
   See Figure D.
@@ -517,6 +531,7 @@ Close the DISKUS.
   See Figure F. Make sure the DISKUS clicks shut and you cannot see the mouthpiece.
 
 - Figure F
+
 - •The DISKUS is now ready for you to take your next scheduled dose in about 12 hours.
   When you are ready to take your next dose, repeat steps 1 through 4.
 
