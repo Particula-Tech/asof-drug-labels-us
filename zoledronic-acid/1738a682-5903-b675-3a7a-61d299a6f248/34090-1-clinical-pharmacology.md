@@ -26,7 +26,7 @@ Tumors commonly associated with locally mediated hypercalcemia include breast ca
 
 Total serum calcium levels in patients who have hypercalcemia of malignancy may not reflect the severity of hypercalcemia, since concomitant hypoalbuminemia is commonly present.
 Ideally, ionized calcium levels should be used to diagnose and follow hypercalcemic conditions; however, these are not commonly or rapidly available in many clinical situations.
-Therefore, adjustment of the total serum calcium value for differences in albumin levels (corrected serum calcium, CSC) is often used in place of measurement of ionized calcium; several nomograms are in use for this type of calculation [see Dosage and Administration (2)].
+Therefore, adjustment of the total serum calcium value for differences in albumin levels (corrected serum calcium, CSC) is often used in place of measurement of ionized calcium; several nomograms are in use for this type of calculation [see Dosage and Administration (2.1)].
 
 ## 12.3 Pharmacokinetics
 
@@ -66,7 +66,7 @@ Special Populations
 Pediatrics
 
 Zoledronic acid injection is not indicated for use in children.
-[See Pediatric Use (8.4)]
+[See Use in Specific Populations (8.4)]
 
 Geriatrics
 
@@ -95,4 +95,4 @@ CrCl = [140-age (years)] x weight (kg) {x 0.85 for female patients}
 Zoledronic acid injection systemic clearance in individual patients can be calculated from the population clearance of zoledronic acid injection, CL (L/h)=6.5(CLcr/90)0.4.
 These formulae can be used to predict the zoledronic acid injection AUC in patients, where CL = Dose/AUC0-∞.
 The average AUC0-24 in patients with normal renal function was 0.42 mg•h/L and the calculated AUC0-∞ for a patient with creatinine clearance of 75 mL/min was 0.66 mg•h/L following a 4 mg dose of zoledronic acid injection.
-However, efficacy and safety of adjusted dosing based on these formulae have not been prospectively assessed [see Warnings and Precautions (5.2)].
+However, efficacy and safety of adjusted dosing based on these formulae have not been prospectively assessed [see Warnings and Precautions (5.3)].
