@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL - 20 MG TABLETS
 
-NDC 42998-639-09
+NDC 42998-973-03
 
 Pepcid® (Famotidine) Tablets, USP
 
@@ -12,7 +12,7 @@ Rx only 30 Tablets
 
 PRINCIPAL DISPLAY PANEL - 40 MG TABLETS
 
-NDC 42998-649-09
+NDC 42998-974-03
 
 Pepcid® (Famotidine) Tablets, USP
 

@@ -17,11 +17,10 @@ Areas under the curve (AUCs) are normalized to a dose of 0.5 mg/kg I.V. for pedi
 | Adult (N=16) |  | 1726b |  | 0.39 ± 0.14 |  | 1.3 ± 0.2 |  | 2.83 ± 0.99 |
 | aValues are presented as means ± SD unless indicated otherwise. bMean value only. cSingle center study. dMulticenter study. |  |  |  |  |  |  |  |  |
 
-Plasma clearance is reduced and elimination half-life is prolonged in pediatric patients 0-3 months of age compared to older pediatric patients.
-The pharmacokinetic parameters for pediatric patients, ages >3 months-15 years, are comparable to those obtained for adults.
+Plasma clearance is reduced and elimination half-life is prolonged in pediatric patients 0‑3 months of age compared to older pediatric patients.The pharmacokinetic parameters for pediatric patients, ages >3 months‑15 years, are comparable to those obtained for adults.
 
-Bioavailability studies of 8 pediatric patients (11-15 years of age) showed a mean oral bioavailability of 0.5 compared to adult values of 0.42 to 0.49.
-Oral doses of 0.5 mg/kg achieved AUCs of 645 ± 249 ng-hr/mL and 580 ± 60 ng-hr/mL in pediatric patients <1 year of age (N=5) and in pediatric patients 11-15 years of age, respectively, compared to 482 ± 181 ng-hr/mL in adults treated with 40 mg orally.
+Bioavailability studies of 8 pediatric patients (11‑15 years of age) showed a mean oral bioavailability of 0.5 compared to adult values of 0.42 to 0.49.
+Oral doses of 0.5 mg/kg achieved AUCs of 645 ± 249 ng‑hr/mL and 580 ± 60 ng‑hr/mL in pediatric patients <1 year of age (N=5) and in pediatric patients 11‑15 years of age, respectively, compared to 482 ± 181 ng‑hr/mL in adults treated with 40 mg orally.
 
 ## Pharmacodynamics
 
