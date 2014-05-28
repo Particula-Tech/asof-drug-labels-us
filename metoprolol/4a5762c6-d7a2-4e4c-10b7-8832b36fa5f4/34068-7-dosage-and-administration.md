@@ -15,9 +15,9 @@ In general, the maximum effect of any given dosage level will be apparent after 
 Dosages above 400 mg per day have not been studied.
 
 Pediatric Hypertensive Patients ≥ 6 Years of age: A pediatric clinical hypertension study in patients 6 to 16 years of age did not meet its primary endpoint (dose response for reduction in SBP); however some other endpoints demonstrated effectiveness [see Use in Specific Populations (8.4)].
-If selected for treatment, the recommended starting dose of TOPROL-XL is 1.0 mg/kg once daily, but the maximum initial dose should not exceed 50 mg once daily.
+If selected for treatment, the recommended starting dose of TOPROL-XL is 1 mg/kg once daily, but the maximum initial dose should not exceed 50 mg once daily.
 Dosage should be adjusted according to blood pressure response.
-Doses above 2.0 mg/kg (or in excess of 200 mg) once daily have not been studied in pediatric patients [see Clinical Pharmacology (12.3)].
+Doses above 2 mg/kg (or in excess of 200 mg) once daily have not been studied in pediatric patients [see Clinical Pharmacology (12.3)].
 
 TOPROL-XL is not recommended in pediatric patients < 6 years of age [see Use in Specific Populations (8.4)].
 
