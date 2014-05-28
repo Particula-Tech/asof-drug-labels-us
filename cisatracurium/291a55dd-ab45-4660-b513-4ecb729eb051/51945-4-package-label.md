@@ -1,6 +1,6 @@
 # Principal Display Panel
 
-NDC 0781-3150-75
+NDC 0781-3150-75 Rx only
 
 CisatracuriumBesylate Injection
 
@@ -16,11 +16,7 @@ WARNING: Paralyzing Agent.
 
 Causes Respiratory Arrest.
 
-Facilities must be immediately
-
-Available for artificial respiration.
-
-Rx only
+Facilities must be immediately available for artificial respiration.
 
 SANDOZ
 
