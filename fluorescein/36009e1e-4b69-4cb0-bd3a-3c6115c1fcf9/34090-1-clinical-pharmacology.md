@@ -1,0 +1,3 @@
+# CLINICAL PHARMACOLOGY:
+
+This product is the combination of a disclosing agent with a rapidly acting anesthetic of short duration.
