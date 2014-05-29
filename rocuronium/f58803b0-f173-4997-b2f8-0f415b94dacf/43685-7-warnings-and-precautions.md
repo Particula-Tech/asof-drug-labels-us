@@ -24,7 +24,7 @@ In order to prevent complications resulting from residual paralysis, it is recom
 Other factors which could cause residual paralysis after extubation in the post-operative phase (such as drug interactions or patient condition) should also be considered.
 If not used as part of standard clinical practice the use of a reversal agent should be considered, especially in those cases where residual paralysis is more likely to occur.
 
-## 5.5 Long-term Use in an Intensive Care Unit
+## 5.5 Long-Term Use in an Intensive Care Unit
 
 Rocuronium bromide has not been studied for long-term use in the intensive care unit (ICU).
 As with other non-depolarizing neuromuscular blocking drugs, apparent tolerance to rocuronium bromide may develop during chronic administration in the ICU.

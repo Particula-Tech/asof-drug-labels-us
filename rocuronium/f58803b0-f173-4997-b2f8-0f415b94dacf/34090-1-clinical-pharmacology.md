@@ -22,7 +22,7 @@ Table 4: Percent of Excellent or Good Intubating Conditions and Median (Range) T
 | 0.6 (n=51) | 96% | 1.6 (1.0–3.2) |
 | InfantsPediatric patients were under halothane anesthesia 3 mo to 1 yr 0.6 (n=18) | 100% | 1.0 (1.0-1.5) |
 | Pediatric 1 to 12 yrs 0.6 (n=12) | 100% | 1.0 (0.5–2.3) |
-| Excellent intubating conditions = jaw relaxed, vocal cords apart and immobile, no diaphragmatic movementGood intubating conditions = same as excellent but with some diaphragmatic movement |  |  |
+| Excellent intubating conditions = jaw relaxed, vocal cords apart and immobile, no diaphragmatic movement Good intubating conditions = same as excellent but with some diaphragmatic movement |  |  |
 
 Table 5 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under opioid/nitrous oxide/oxygen anesthesia in adults and geriatric patients, and under halothane anesthesia in pediatric patients.
 
@@ -45,11 +45,11 @@ Table 5: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 | Pediatric 1 to 12 yrs |  |  |  |  |  |  |
 | 0.6 (n=27) | 0.8 (0.4–2.0) | 1.0 (0.5–3.3) | 26 (17–39) |  |  |  |
 | 0.8 (n=18) | — | 0.5 (0.3–1.0) | 30 (17–56) |  |  |  |
-| n = the number of patients who had time to maximum block recordedClinical duration = time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery. |  |  |  |  |  |  |
+| n = the number of patients who had time to maximum block recorded Clinical duration = time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery. |  |  |  |  |  |  |
 
 Table 6 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia in pediatric patients.
 
-Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Sevoflurane (induction)and Isoflurane/Nitrous Oxide (maintenance) Anesthesia (Pediatric Patients)
+Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia (Pediatric Patients)
 
 | Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3 [min] |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 | Infants 28 days to ≤3 mo |  |  |  |  |  |  |  |  |  |
 | 0.45 (n=9) | 0.5 (0.4-1.3) | 49.1 (13.5-79.9) |  |  |  |  |  |  |  |
 | 0.6 (n=11) | 0.4 (0.2-0.8) | 59.8 (32.3-87.8) |  |  |  |  |  |  |  |
-| 1 (n=5) | 0.3 (0.2-0.7) | 59.8 (32.3-87.8) |  |  |  |  |  |  |  |
+| 1 (n=5) | 0.3 (0.2-0.7) | 103.3 (90.8-155.4) |  |  |  |  |  |  |  |
 | Toddlers >3 mo to ≤2 yrs |  |  |  |  |  |  |  |  |  |
 | 0.45 (n=17) | 0.8 (0.3-1.9) | 39.2 (16.9-59.4) |  |  |  |  |  |  |  |
 | 0.6 (n=29) | 0.6 (0.2-1.6) | 44.2 (18.9-68.8) |  |  |  |  |  |  |  |
@@ -69,7 +69,7 @@ Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 | 0.45 (n=14) | 0.9 (0.4-1.9) | 21.5 (17.5-38.0) |  |  |  |  |  |  |  |
 | 0.6 (n=37) | 0.8 (0.3-1.7) | 36.7 (20.1-65.9) |  |  |  |  |  |  |  |
 | 1 (n=16) | 0.7 (0.4-1.2) | 53.1 (31.2-89.9) |  |  |  |  |  |  |  |
-| Adolescents >11 to ≤ yrs |  |  |  |  |  |  |  |  |  |
+| Adolescents >11 to ≤ 17 yrs |  |  |  |  |  |  |  |  |  |
 | 0.45 (n=18) | 1.0 (0.5-1.7) | 37.5 (18.3-65.7) |  |  |  |  |  |  |  |
 | 0.6 (n=31) | 0.9 (0.2-2.1) | 41.4 (16.3-91.2) |  |  |  |  |  |  |  |
 | 1 (n=4) | 0.7 (0.5-1.2) | 67.1 (25.6-93.8) |  |  |  |  |  |  |  |
