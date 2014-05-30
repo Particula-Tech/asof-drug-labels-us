@@ -1,6 +1,6 @@
 # Medication Guide
 
-Fluoxetine Oral Solution, USP Read the Medication Guide that comes with fluoxetine oral solution before you start taking it and each time you get a refill.
+Fluoxetine Oral Solution, USP (floo ox' e teen) Read the Medication Guide that comes with fluoxetine oral solution before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -54,7 +54,7 @@ Severe allergic reactions:
 4.
 Abnormal bleeding: Fluoxetine oral solution and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 5.
-Seizures or convulsions 6.
+Seizures or convulsion 6.
 Manic episodes:
 
 - greatly increased energy
@@ -94,7 +94,16 @@ Stopping fluoxetine oral solution too quickly may cause serious symptoms includi
 - headache, sweating, nausea, dizziness
 - electric shock-like sensations, shaking, confusion
 
-What is fluoxetine oral solution?
+10.
+Visual problems:
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+Call a healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you: What is fluoxetine oral solution?
 
 Fluoxetine oral solution is a prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
@@ -112,7 +121,6 @@ Fluoxetine oral solution is used to treat:
 Talk to your healthcare provider if you do not think that your condition is getting better with fluoxetine oral solution treatment.
 
 Who should not take fluoxetine oral solution?
-
 Do not take fluoxetine oral solution if you:
 
 - are allergic to fluoxetine hydrochloride or any of the ingredients in fluoxetine oral solution.
@@ -185,7 +193,6 @@ What should I avoid while taking fluoxetine oral solution?
 Fluoxetine oral solution can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
 You should not drive, operate heavy machinery, or do other dangerous activities until you know how fluoxetine oral solution affects you.
 Do not drink alcohol while using fluoxetine oral solution.
-
 What are the possible side effects of fluoxetine oral solution?
 Fluoxetine oral solution may cause serious side effects, including:
 
@@ -250,4 +257,4 @@ Mellaril® is a registered trademark of Novartis AG Corporation.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad—500 072, India Revised: 09/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad—500 072, India Revised: 05/2014

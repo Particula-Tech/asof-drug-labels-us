@@ -4,7 +4,7 @@ As with all drugs, the potential for interaction by a variety of mechanisms (e.g
 
 ## 7.1 Monoamine Oxidase Inhibitors (MAOI)
 
-[see Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
+[see Dosage and Administration (2.9,2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
 
 ## 7.2 CNS Acting Drugs
 
@@ -37,9 +37,9 @@ Pimozide — Concomitant use in patients taking pimozide is contraindicated.
 Pimozide can prolong the QT interval.
 Fluoxetine can increase the level of pimozide through inhibition of CYP2D6.
 Fluoxetine can also prolong the QT interval.
-Clinical studies of pimozide with other antidepressants demonstrate an increase in drug interaction or QT prolongation.
-While a specific study with pimozide and fluoxetine has not been conducted, the potential for drug interactions or QT prolongation warrants restricting the concurrent use of pimozide and fluoxetine [see Contraindications (4.2), Warnings and precautions (5.10), and Drug Interactions (7.8)].
-Thioridazine — Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued, because of the risk of QT Prolongation [see Contraindications (4.2),Warnings and Precautions (5.10), and Drug Interactions (7.8)].
+Clinical studies of pimozide with other antidepressants demonstrate an increase in drug interaction or QTc prolongation.
+While a specific study with pimozide and fluoxetine has not been conducted, the potential for drug interactions or QTc prolongation warrants restricting the concurrent use of pimozide and fluoxetine [see Contraindications (4.2), Warnings and precautions (5.10), and Drug Interactions (7.8)].
+Thioridazine — Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued because of the risk of QT Prolongation [see Contraindications (4.2),Warnings and Precautions (5.10), and Drug Interactions (7.8)].
 In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4-fold higher Cmax and a 4.5-fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.
 The rate of debrisoquin hydroxylation is felt to depend on the level of CYP2D6 isozyme activity.
 Thus, this study suggests that drugs which inhibit CYP2D6, such as certain SSRIs, including fluoxetine, will produce elevated plasma levels of thioridazine.

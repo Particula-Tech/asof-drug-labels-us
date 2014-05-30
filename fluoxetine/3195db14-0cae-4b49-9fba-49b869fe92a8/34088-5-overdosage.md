@@ -15,7 +15,7 @@ One of the six fatalities was a 9-year-old boy who had a history of OCD, Tourett
 He had been receiving 100 mg of fluoxetine daily for 6 months in addition to clonidine, methylphenidate, and promethazine.
 Mixed-drug ingestion or other methods of suicide complicated all 6 overdoses in children that resulted in fatalities.
 The largest ingestion in pediatric patients was 3 grams which was nonlethal.
-Other important adverse reactions reported with fluoxetine overdose (single or multiple drugs) include coma, delirium, ECG abnormalities (such as nodal rhythm, QT interval prolongation and ventricular arrhythmias. including torsades de pointes-type arrhythmias), hypotension, mania, neuroleptic malignant syndrome-like reactions, pyrexia, stupor, and syncope.
+Other important adverse reactions reported with fluoxetine overdose (single or multiple drugs) include coma, delirium, ECG abnormalities (such as nodal rhythm, QT interval prolongation and ventriculararrhythmias. including torsades de pointes-type arrhythmias), hypotension, mania, neuroleptic malignant syndrome-like reactions, pyrexia, stupor, and syncope.
 
 ## 10.2 Animal Experience
 

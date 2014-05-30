@@ -74,7 +74,7 @@ Concomitant Illness — Patients with concurrent disease or on multiple concomit
 
 ## 2.8 Discontinuation of Treatment
 
-Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.13)].
+Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.14)].
 
 ## 2.9 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 

@@ -51,18 +51,26 @@ Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular he
 Fluoxetine may impair judgment, thinking, or motor skills.
 Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.11)].
 
-## 17.9 Use of Concomitant Medications
+## 17.9 Angle-Closure Glaucoma
+
+Patients should be advised that taking fluoxetine oral solution can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle- closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle- closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle- closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle- closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+[seeWarnings and Precautions (5.13)]
+
+## 17.10 Use of Concomitant Medications
 
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax, Sarafem, or over-the-counter drugs, including herbal supplements or alcohol.
 Patients should also be advised to inform their physicians if they plan to discontinue any medications they are taking while on fluoxetine.
 
-## 17.10 Discontinuation of Treatment
+## 17.11 Discontinuation of Treatment
 
 Patients should be advised to take fluoxetine exactly as prescribed, and to continue taking fluoxetine as prescribed even after their symptoms improve.
-Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their physician [see Warnings and Precautions (5.13)].
+Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their physician [see Warnings and Precautions (5.14)].
 Patients should be advised to consult with their healthcare provider if their symptoms do not improve with fluoxetine.
 
-## 17.11 Use in Specific Populations
+## 17.12 Use in Specific Populations
 
 Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
@@ -72,4 +80,4 @@ Pediatric Use of fluoxetine— Fluoxetine is approved for use in pediatric patie
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad—500 072, India Revised: 09/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad—500 072, India Revised: 05/2014
