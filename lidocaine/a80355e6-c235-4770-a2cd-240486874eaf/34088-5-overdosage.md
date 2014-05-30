@@ -4,6 +4,7 @@ Application of 59 g of PLIAGLIS Cream over 400 cm2 for up to 120 minutes to adul
 Toxic levels of lidocaine (>5000 ng/mL) cause CNS toxicity, including the risk of seizure.
 Signs of CNS toxicity may start at plasma concentrations of lidocaine as low as 1000 ng/mL, and the risk of seizures generally increases with increasing plasma levels.
 Very high levels of lidocaine can cause respiratory arrest, coma, decreases in cardiac output, total peripheral resistance and mean arterial pressure, ventricular arrhythmias and cardiac arrest.
+
 Tetracaine is associated with a profile of systemic CNS and cardiovascular adverse events similar to lidocaine, although toxicity associated with tetracaine is thought to occur at lower doses compared to lidocaine.
 The toxicity of co-administered local anesthetics is thought to be at least additive.
 In the absence of massive topical overdose or oral ingestion, other etiologies for the clinical effects or overdosage from other sources of lidocaine, tetracaine or other local anesthetics should be considered.

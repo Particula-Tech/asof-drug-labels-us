@@ -11,6 +11,7 @@ The net weight of lidocaine is 4.2 g and of tetracaine is 4.2 g per 60 g tube.
 The net weight of lidocaine is 7.0 g and of tetracaine is 7.0 g per 100 g tube.
 
 Lidocaine, an amide local anesthetic, is chemically designated as acetamide, 2-(diethylamino)-N-(2,6-dimethylphenyl) and has an octanol:water partition ratio of 182 at pH 7.3.
+
 The molecular weight of lidocaine is 234.3, and the molecular formula is C14H22N2O.
 The structural formula is:
 

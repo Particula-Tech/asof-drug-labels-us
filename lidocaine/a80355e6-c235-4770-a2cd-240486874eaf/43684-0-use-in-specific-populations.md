@@ -6,8 +6,9 @@ Pregnancy Category B. No adequate and well-controlled studies have been conducte
 PLIAGLIS Cream should be used during pregnancy only if the potential benefit justifies risk to the fetus.
 Lidocaine was not teratogenic in rats at doses up to 60 mg/kg (8-fold higher than the level of lidocaine contained in the lowest approved dose of PLIAGLIS Cream based on a mg/m2 body surface area comparison).
 Lidocaine was not teratogenic in rabbits at doses up to 15 mg/kg (4-fold higher than the level of lidocaine in the lowest approved dose of PLIAGLIS Cream on a mg/m2 basis).
+
 Tetracaine was not teratogenic in rats given subcutaneous doses up to 10 mg/kg or in rabbits up to 5 mg/kg (equivalent to the level of tetracaine in the lowest approved dose of PLIAGLIS Cream on a mg/m2 basis).
-Lidocaine and tetracaine given as a 1:1 eutectic mixture of 10 mg/kg each was not teratogenic in rats (equivalent to the level of the active components in the lowest approved dose of PLIAGLIS Cream on a mg/m2 basis.
+Lidocaine and tetracaine given as a 1:1 eutectic mixture of 10 mg/kg each was not teratogenic in rats (equivalent to the level of the active components in the lowest approved dose of PLIAGLIS Cream on a mg/m2 basis).
 Lidocaine and tetracaine given as a 1:1 eutectic mixture of 5 mg/kg each was not teratogenic in rabbits (equivalent to the level of the active components in the lowest approved dose of PLIAGLIS Cream on a mg/m2 basis).
 
 Lidocaine containing 1:100,000 epinephrine at a dose of 6 mg/kg (approximately equivalent to the level of lidocaine in the lowest approved dose PLIAGLIS Cream on a mg/m2 basis) injected into the masseter muscle of the jaw or into the gum of the lower jaw of pregnant Long-Evans hooded rats on gestation day 11, lead to developmental delays in neonatal behavior among offspring.

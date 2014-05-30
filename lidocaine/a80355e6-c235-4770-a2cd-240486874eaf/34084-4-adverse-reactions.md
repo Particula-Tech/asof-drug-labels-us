@@ -3,6 +3,7 @@
 ## 6.1 Clinical Studies Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
 However, the adverse reaction information from clinical trials does provide a basis for identifying the adverse events that appear to be related to drug use and for approximating their incidence in clinical practice.
 
 PLIAGLIS Cream has been evaluated for safety in 2159 persons undergoing a superficial dermal procedure.
