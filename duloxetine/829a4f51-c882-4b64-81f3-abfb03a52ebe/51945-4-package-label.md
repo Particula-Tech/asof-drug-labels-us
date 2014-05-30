@@ -1,6 +1,6 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Duloxetine Delayed-Release Capsules USP,
+Duloxetine Delayed-release Capsules USP
 
 Rx Only
 
@@ -10,7 +10,7 @@ NDC 68180-294-06
 
 30's Bottles
 
-Duloxetine Delayed-Release Capsules USP,
+Duloxetine Delayed-release Capsules USP
 
 Rx Only
 
@@ -20,7 +20,7 @@ NDC 68180-295-06
 
 30's Bottles
 
-Duloxetine Delayed-Release Capsules USP,
+Duloxetine Delayed-release Capsules USP
 
 Rx Only
 

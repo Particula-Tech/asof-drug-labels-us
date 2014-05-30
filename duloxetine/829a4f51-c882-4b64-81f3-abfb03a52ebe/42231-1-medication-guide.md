@@ -243,7 +243,7 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 
 How should I store duloxetine delayed-release capsules?
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Keep duloxetine delayed-release capsules and all medicines out of the reach of children.
 
@@ -289,4 +289,4 @@ Goa 403722
 
 INDIA
 
-November 2013 ID#: 235558
+Revised: June 2014 ID#: 237191
