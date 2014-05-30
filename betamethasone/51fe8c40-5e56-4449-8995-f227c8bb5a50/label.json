@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020934"
+  ],
+  "inn": "betamethasone",
+  "labeler": "Prestium Pharma, Inc.",
+  "package_ndcs": [
+    "40076-021-00",
+    "40076-021-50"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "betamethasone valerate",
+      "name": "Luxiq"
+    }
+  ],
+  "setid": "51fe8c40-5e56-4449-8995-f227c8bb5a50",
+  "source": "dailymed"
+}
