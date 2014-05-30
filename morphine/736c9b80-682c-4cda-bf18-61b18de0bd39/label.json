@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA078761"
+  ],
+  "inn": "morphine",
+  "labeler": "Ranbaxy Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "63304-450-01",
+    "63304-450-03",
+    "63304-450-05",
+    "63304-451-01",
+    "63304-451-03",
+    "63304-451-05",
+    "63304-452-01",
+    "63304-452-03",
+    "63304-452-05",
+    "63304-453-01",
+    "63304-453-03",
+    "63304-453-05",
+    "63304-758-01",
+    "63304-758-03",
+    "63304-758-05",
+    "63304-758-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "Morphine sulfate"
+    }
+  ],
+  "setid": "736c9b80-682c-4cda-bf18-61b18de0bd39",
+  "source": "dailymed"
+}
