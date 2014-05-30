@@ -2,52 +2,54 @@
 
 ## 2.1 Epilepsy
 
-In the controlled adjunctive (i.e., add-on) trials, no correlation has been demonstrated between trough plasma concentrations of topiramate and clinical efficacy.
-No evidence of tolerance has been demonstrated in humans.
-Doses above 400 mg/day (600, 800 or 1,000 mg/day) have not been shown to improve responses in dose-response studies in adults with partial onset seizures.
+It is not necessary to monitor topiramate plasma concentrations to optimize topiramate tablets therapy.
 
-It is not necessary to monitor topiramate plasma concentrations to optimize Topiramate Tablets therapy.
-On occasion, the addition of Topiramate Tablets USP to phenytoin may require an adjustment of the dose of phenytoin to achieve optimal clinical outcome.
-Addition or withdrawal of phenytoin and/or carbamazepine during adjunctive therapy with Topiramate Tablets USP may require adjustment of the dose of Topiramate Tablets USP.
+On occasion, the addition of topiramate tablets to phenytoin may require an adjustment of the dose of phenytoin to achieve optimal clinical outcome.
+Addition or withdrawal of phenytoin and/or carbamazepine during adjunctive therapy with topiramate may require adjustment of the dose of topiramate tablets.
+
 Because of the bitter taste, tablets should not be broken.
 
-Topiramate Tablets USP can be taken without regard to meals.t
+Topiramate tablets can be taken without regard to meals.
 
-### Monotherapy Use
+Monotherapy Use
+
+Adults and Pediatric Patients 10 Years and Older
 
 The recommended dose for topiramate monotherapy in adults and pediatric patients 10 years of age and older is 400 mg/day in two divided doses.
 Approximately 58% of patients randomized to 400 mg/day achieved this maximal dose in the monotherapy controlled trial; the mean dose achieved in the trial was 275 mg/day.
-The dose should be achieved by titration according to the following schedule:
+The dose should be achieved by titration according to the following schedule (Table 1):
+
+Table 1: Monotherapy Titration Schedule for Adults and Pediatric Patients 10 years and older
 
 |  | Morning Dose | Evening Dose |
 | --- | --- | --- |
-| Week 1 | 25mg | 25mg |
-| Week 2 | 50mg | 50mg |
-| Week 3 | 75mg | 75mg |
-| Week 4 | 100mg | 100mg |
-| Week 5 | 150mg | 150mg |
-| Week 6 | 200mg | 200mg |
+| Week 1 | 25 mg | 25 mg |
+| Week 2 | 50 mg | 50 mg |
+| Week 3 | 75 mg | 75 mg |
+| Week 4 | 100 mg | 100 mg |
+| Week 5 | 150 mg | 150 mg |
+| Week 6 | 200 mg | 200 mg |
 
-### Adjunctive Therapy Use
+Adjunctive Therapy Use
 
-#### Adults (17 Years of Age and Over) - Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
+Adults 17 Years of Age and Over - Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
 
-The recommended total daily dose of Topiramate Tablets USP as adjunctive therapy in adults with partial onset seizures is 200 to 400 mg/day in two divided doses, and 400 mg/day in two divided doses as adjunctive treatment in adults with primary generalized tonic-clonic seizures.
+The recommended total daily dose of topiramate tablets as adjunctive therapy in adults with partial onset seizures is 200 to 400 mg/day in two divided doses, and 400 mg/day in two divided doses as adjunctive treatment in adults with primary generalized tonic-clonic seizures.
 It is recommended that therapy be initiated at 25 to 50 mg/day followed by titration to an effective dose in increments of 25 to 50 mg/day every week.
 Titrating in increments of 25 mg/day every week may delay the time to reach an effective dose.
+Doses above 400 mg/day (600, 800 or 1,000 mg/day) have not been shown to improve responses in dose-response studies in adults with partial onset seizures.
 Daily doses above 1,600 mg have not been studied.
 
-In the study of primary generalized tonic-clonic seizures the initial titration rate was slower than in previous studies; the assigned dose was reached at the end of 8 weeks.
-[see Clinical Studies (14.1)]
+In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose was reached at the end of 8 weeks [see Clinical Studies (14.1)].
 
-#### Pediatric Patients (Ages 2 - 16 Years) – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
+Pediatric Patients Ages 2 - 16 Years – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
 
-The recommended total daily dose of Topiramate Tablets USP as adjunctive therapy for pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome is approximately 5 to 9 mg/kg/day in two divided doses.
+The recommended total daily dose of topiramate tablets as adjunctive therapy for pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome is approximately 5 to 9 mg/kg/day in two divided doses.
 Titration should begin at 25 mg/day (or less, based on a range of 1 to 3 mg/kg/day) nightly for the first week.
-The dosage should then be increased at 1- or 2 week intervals by increments of 1 to 3 mg/kg/day (administered in two divided doses), to achieve optimal clinical response.
+The dosage should then be increased at 1- or 2-week intervals by increments of 1 to 3 mg/kg/day (administered in two divided doses), to achieve optimal clinical response.
 Dose titration should be guided by clinical outcome.
 
-In the study of primary generalized tonic-clonic seizures the initial titration rate was slower than in previous studies; the assigned dose of 6 mg/kg/day was reached at the end of 8 weeks [see Clinical Studies (14.1)]
+In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose of 6 mg/kg/day was reached at the end of 8 weeks [see Clinical Studies (14.1)].
 
 ## 2.4 Patients with Renal Impairment
 
