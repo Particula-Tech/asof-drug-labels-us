@@ -10,4 +10,4 @@ It is soluble in water, chloroform, and methanol.
 Verapamil hydrochloride is not chemically related to other cardioactive drugs.
 
 Inactive ingredients include anhydrous lactose, corn starch, hypromellose 2910, magnesium stearate, microcrystalline cellulose, polacrilin potassium, and polyethylene glycol 400.
-In addition the following coloring agents are used: FD&C Yellow No. 6 Aluminum Lake, hydroxypropyl cellulose and titanium dioxide (40 mg light peach, 80 mg light peach and 120 mg peach); hydroxypropyl cellulose and titanium dioxide (40 mg white, 80 mg white and 120 mg white).
+In addition the following coloring agents are used: FD&C Yellow No. 6 Aluminum Lake, hydroxypropyl cellulose and titanium dioxide (40 mg light peach); hydroxypropyl cellulose and titanium dioxide (80 mg white and 120 mg white).

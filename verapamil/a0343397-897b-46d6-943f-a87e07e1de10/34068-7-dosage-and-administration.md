@@ -12,8 +12,8 @@ Dosage may be increased at daily (e.g., patients with unstable angina) or weekly
 
 ## Arrhythmias:
 
-The dosage in digitalized patients with chronic atrial fibrillation (see PRECAUTIONS) ranges from 240 to 320 mg/day in divided (t.i.d. or q.i.d.) doses.
-The dosage for prophylaxis of PSVT (non-digitalized patients) ranges from 240 to 480 mg/day in divided (t.i.d. or q.i.d.) doses.
+The dosage in digitalized patients with chronic atrial fibrillation (see PRECAUTIONS) ranges from 240 to 320 mg/day in divided (three times a day or four times a day) doses.
+The dosage for prophylaxis of PSVT (non-digitalized patients) ranges from 240 to 480 mg/day in divided (three times a day or four times a day) doses.
 In general, maximum effects for any given dosage will be apparent during the first 48 hours of therapy.
 
 ## Essential hypertension:

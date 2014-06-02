@@ -69,7 +69,7 @@ Clinically significant interactions have been reported with inhibitors of CYP3A4
 
 HMG-CoA reductase inhibitors: The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
 
-Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.
+Coadministration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.
 Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
 Limit the daily dose of lovastatin to 40 mg.
 Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
@@ -115,7 +115,7 @@ Antiarrhythmic agents: Disopyramide: Until data on possible interactions between
 Flecainide: A study in healthy volunteers showed that the concomitant administration of flecainide and verapamil may have additive effects on myocardial contractility, AV conduction, and repolarization.
 Concomitant therapy with flecainide and verapamil may result in additive negative inotropic effect and prolongation of atrioventricular conduction.
 
-Quinidine: In a small number of patients with hypertrophic cardiomyopathy (IHSS) concomitant use of verapamil and quinidine resulted in significant hypotension.
+Quinidine: In a small number of patients with hypertrophic cardiomyopathy (IHSS), concomitant use of verapamil and quinidine resulted in significant hypotension.
 Until further data are obtained, combined therapy of verapamil and quinidine in patients with hypertrophic cardiomyopathy should probably be avoided.
 
 The electrophysiologic effects of quinidine and verapamil on AV conduction were studied in 8 patients.

@@ -26,7 +26,7 @@ Verapamil decreases the frequency of episodes of paroxysmal supraventricular tac
 
 Verapamil does not alter the normal atrial action potential or intraventricular conduction time, but in depressed atrial fibers it decreases amplitude, velocity of depolarization, and conduction velocity.
 Verapamil may shorten the antegrade effective refractory period of the accessory bypass tract.
-Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil (see WARNINGS).
+Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil (seeWARNINGS).
 
 Verapamil has a local anesthetic action that is 1.6 times that of procaine on an equimolar basis.
 It is not known whether this action is important at the doses used in man.
@@ -62,7 +62,7 @@ Approximately 90% is bound to plasma proteins.
 In patients with hepatic insufficiency, metabolism is delayed and elimination half-life prolonged up to 14 to 16 hours (see PRECAUTIONS); the volume of distribution is increased and plasma clearance reduced to about 30% of normal.
 Verapamil clearance values suggest that patients with liver dysfunction may attain therapeutic verapamil plasma concentrations with one third of the oral daily dose required for patients with normal liver function.
 
-After four weeks of oral dosing (120 mg q.i.d.), verapamil and norverapamil levels were noted in the cerebrospinal fluid with estimated partition coefficient of 0.06 for verapamil and 0.04 for norverapamil.
+After four weeks of oral dosing (120 mg four times a day), verapamil and norverapamil levels were noted in the cerebrospinal fluid with estimated partition coefficient of 0.06 for verapamil and 0.04 for norverapamil.
 
 ## Hemodynamics and myocardial metabolism:
 
