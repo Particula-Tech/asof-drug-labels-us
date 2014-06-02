@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+## 14.1 Pulmonary Arterial Hypertension (WHO Group I)
+
 TRIUMPH I, was a 12-week, randomized, double-blind, placebo-controlled multi-center study of patients with PAH.
 The study population included 235 clinically stable subjects with pulmonary arterial hypertension (WHO Group 1), nearly all with NYHA Class III (98%) symptoms who were receiving either bosentan (an endothelin receptor antagonist) or sildenafil (a phosphodiesterase-5 inhibitor) for at least three months prior to study initiation.
 Concomitant therapy also could have included anticoagulants, other vasodilators (e.g., calcium channel blockers), diuretics, oxygen, and digitalis, but not a prostacyclin.
@@ -14,3 +16,8 @@ The distribution of these 6MWD changes from baseline at Week 12 were plotted acr
 There were no placebo-controlled 6MWD assessments made after 12 weeks.
 
 The placebo-corrected median treatment effect on 6MWD was estimated (using the Hodges-Lehmann estimator) within various subpopulations defined by age quartile, gender, geographic region of the study site, disease etiology, baseline 6MWD quartile, and type of background therapy (Figure 2).
+
+## 14.2 Long-term Treatment of PAH
+
+In long-term follow-up of patients who were treated with Tyvaso in the pivotal study and the open-label extension (N=206), Kaplan-Meier estimates of survival at 1, 2, and 3 years were 97%, 91%, and 82%, respectively.
+These uncontrolled observations do not allow comparison with a control group not given Tyvaso and cannot be used to determine the long-term effect of Tyvaso on mortality.

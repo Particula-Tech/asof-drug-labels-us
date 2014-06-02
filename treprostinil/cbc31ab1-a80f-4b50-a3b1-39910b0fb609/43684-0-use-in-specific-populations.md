@@ -6,8 +6,8 @@ Pregnancy Category B
 
 There are no adequate and well controlled studies with Tyvaso in pregnant women.
 Animal reproduction studies have not been conducted with treprostinil administered by the inhalation route.
-However, studies in pregnant rabbits using continuous subcutaneous (sc) infusions of treprostinil sodium at infusion rates higher than the recommended human sc infusion rate resulted in an increased incidence of fetal skeletal variations associated with maternal toxicity [see Developmental Toxicity (13.3)].
-Animal reproduction studies are not always predictive of human response; Tyvaso should be used during pregnancy only if clearly needed.
+However, studies in pregnant rabbits using continuous subcutaneous (sc) infusions of treprostinil sodium at infusion rates higher than the recommended human sc infusion rate resulted in an increased incidence of fetal skeletal variations associated with maternal toxicity [see Nonclinical Toxicology (13.3)].
+Animal reproduction studies are not always predictive of human response.
 
 ## 8.2 Labor and Delivery
 
@@ -17,7 +17,6 @@ The effect of treprostinil on labor and delivery in humans is unknown.
 ## 8.3 Nursing Mothers
 
 It is not known whether treprostinil is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when treprostinil is administered to nursing women.
 
 ## 8.4 Pediatric Use
 

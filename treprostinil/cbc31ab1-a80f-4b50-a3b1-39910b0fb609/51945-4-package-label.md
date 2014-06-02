@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 4 Ampule Carton
+# PRINCIPAL DISPLAY PANEL - 4 Ampule Carton
 
 TYVASO® (treprostinil) INHALATION SOLUTION
 
@@ -10,7 +10,7 @@ For oral inhalation use only
 
 See package insert and Instructions For Use manual for dosage and administration
 
-PRINCIPAL DISPLAY PANEL - 28 Ampule Carton
+# PRINCIPAL DISPLAY PANEL - 28 Ampule Carton
 
 TYVASO® (treprostinil) INHALATION SOLUTION
 
@@ -22,7 +22,7 @@ For oral inhalation use only
 
 See package insert and Instructions For Use manual for dosage and administration.
 
-PRINCIPAL DISPLAY PANEL - Starter Kit
+# PRINCIPAL DISPLAY PANEL - Starter Kit
 
 TYVASO® (treprostinil) INHALATION SOLUTION
 
@@ -65,7 +65,7 @@ United Therapeutics CORPORATION
 
 EXP LOT RTP3087 Rev.00
 
-PRINCIPAL DISPLAY PANEL - Refill Kit
+# PRINCIPAL DISPLAY PANEL - Refill Kit
 
 TYVASO® (treprostinil) INHALATION SOLUTION
 

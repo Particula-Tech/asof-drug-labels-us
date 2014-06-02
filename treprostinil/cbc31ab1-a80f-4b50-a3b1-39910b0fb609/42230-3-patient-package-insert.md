@@ -1,4 +1,4 @@
-PATIENT PACKAGE INSERT
+# PATIENT PACKAGE INSERT
 
 Tyvaso (Tī-vāsō)
 
@@ -114,7 +114,7 @@ It may harm them.
 This patient information leaflet summarizes the most important information about Tyvaso.
 You can ask your healthcare provider or specialty pharmacist for information about Tyvaso that is written for health professionals.
 
-For more information, go to www.tyvaso.com or call 1-877-UNITHER (1-877-864-8437).
+For more information, go to www.tyvaso.com or call 1-877-UNITHER (1-877-864-8437)..
 
 What are the ingredients in Tyvaso?
 
@@ -122,6 +122,6 @@ Active ingredient: treprostinil Inactive ingredients: sodium chloride, sodium ci
 
 Tyvaso is a registered trademark of United Therapeutics Corporation.
 
-Literature issued May 2013.
+Literature issued July 2012.
 
-United Therapeutics Corp. Research Triangle Park, NC 27709 USA Copyright © 2013, United Therapeutics Corp. All rights reserved.
+United Therapeutics Corp. Research Triangle Park, NC 27709 USA Copyright © 2012, United Therapeutics Corp. All rights reserved.
