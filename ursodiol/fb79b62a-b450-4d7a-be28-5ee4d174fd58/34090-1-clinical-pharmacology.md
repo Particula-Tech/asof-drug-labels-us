@@ -8,7 +8,8 @@ In addition to the replacement and displacement of toxic bile acids, other mecha
 
 ## 12.2 Pharmacodynamics
 
-Lithocholic acid, when administered chronically to animals, causes cholestatic liver injury that may lead to death from liver failure in certain species unable to form sulfate conjugates.Ursodiol is 7-dehydroxylated more slowly than chenodiol.
+Lithocholic acid, when administered chronically to animals, causes cholestatic liver injury that may lead to death from liver failure in certain species unable to form sulfate conjugates.
+Ursodiol is 7-dehydroxylated more slowly than chenodiol.
 For equimolar doses of ursodiol and chenodiol, steady state levels of lithocholic acid in biliary bile acids are lower during ursodiol administration than with chenodiol administration.
 Humans and chimpanzees can sulfate lithocholic acid.
 Although liver injury has not been associated with ursodiol therapy, a reduced capacity to sulfate may exist in some individuals.
@@ -33,5 +34,6 @@ No information is available on the binding of conjugated ursodiol to plasma prot
 Its volume of distribution has not been determined, but is expected to be small since the drug is mostly distributed in the bile and small intestine.
 Ursodiol is excreted primarily in the feces.
 With treatment, urinary excretion increases, but remains less than 1% except in severe cholestatic liver disease.
+
 During chronic administration of ursodiol, it becomes a major biliary and plasma bile acid.
 At a chronic dose of 13 to 15 mg/kg/day, ursodiol constitutes 30-50% of biliary and plasma bile acids.

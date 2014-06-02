@@ -1,3 +1,7 @@
-# Ursodiol tablets 250 mg -30S
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-# ursodiol tablets 500 mg -30s
+Ursodiol Tablets, USP – 250 mg, 100’s
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Ursodiol Tablets, USP – 500 mg, 100’s
