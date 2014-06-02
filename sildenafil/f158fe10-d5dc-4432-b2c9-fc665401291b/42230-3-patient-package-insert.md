@@ -113,7 +113,8 @@ What are the possible side effects of REVATIO?
 - heart attack, stroke, irregular heartbeats, and death.
   Most of these happened in men who already had heart problems.
 - erections that last several hours.
-  Tell your doctor right away if you have an erection that lasts more than 4 hours.
+  If you have an erection that lasts more than 4 hours, get medical help right away.
+  If it is not treated right away, priapism can permanently damage your penis.
 
 The most common side effects with REVATIO include:
 
@@ -167,4 +168,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-LAB-0335-8.0 March 2014
+LAB-0335-9.0 April 2014

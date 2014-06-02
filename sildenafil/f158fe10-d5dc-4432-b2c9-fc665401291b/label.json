@@ -1,17 +1,24 @@
 {
   "application_numbers": [
     "NDA021845",
-    "NDA022473"
+    "NDA022473",
+    "NDA203109"
   ],
   "inn": "sildenafil",
   "labeler": "Pfizer Laboratories Div Pfizer Inc",
   "package_ndcs": [
+    "0069-0336-21",
     "0069-0338-01",
     "0069-4190-68"
   ],
   "products": [
     {
-      "form": "SOLUTION",
+      "form": "INJECTION, SOLUTION",
+      "generic": "sildenafil citrate",
+      "name": "Revatio"
+    },
+    {
+      "form": "POWDER, FOR SUSPENSION",
       "generic": "sildenafil citrate",
       "name": "Revatio"
     },
