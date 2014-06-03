@@ -14,6 +14,22 @@ RASPBERRY FLAVORED
 
 Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
+# PRINCIPAL DISPLAY PANEL - 25 mg Oral Suspension Bottle Carton
+
+NDC 0069-0970-65
+
+60 mL when reconstituted
+
+Vibramycin® (doxycycline monohydrate)
+
+FOR ORAL SUSPENSION
+
+25 mg/5 mL*
+
+RASPBERRY FLAVORED
+
+Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+
 # PRINCIPAL DISPLAY PANEL - 50 mg Oral Suspension Bottle Label
 
 NDC 0069-0971-93
