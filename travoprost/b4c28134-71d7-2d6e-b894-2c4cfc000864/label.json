@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204822"
+  ],
+  "inn": "travoprost",
+  "labeler": "Alcon Laboratories, Inc.",
+  "package_ndcs": [
+    "0065-2800-05",
+    "0065-2800-25"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "travoprost",
+      "name": "IZBA"
+    }
+  ],
+  "setid": "b4c28134-71d7-2d6e-b894-2c4cfc000864",
+  "source": "dailymed"
+}
