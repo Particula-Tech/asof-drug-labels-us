@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "barium-sulfate",
+  "labeler": "E-Z-EM Canada Inc",
+  "package_ndcs": [
+    "32909-125-22"
+  ],
+  "products": [
+    {
+      "form": "PASTE",
+      "generic": "barium sulfate",
+      "name": "Varibar Pudding"
+    }
+  ],
+  "setid": "553285e2-d0e9-8b7b-4766-a0a6b9496f87",
+  "source": "dailymed"
+}
