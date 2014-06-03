@@ -6,7 +6,7 @@ Day 1 Start is also available.
 
 ## 21-Day Regimen (Sunday Start):
 
-When taking Nortrel® 1/35 (norethindrone and ethinyl estradiol tablets, USP) (21) Day Regimen, the first "active" tablet should be taken on the first Sunday after menstruation begins.
+When taking Nortrel® 1/35 (norethindrone and ethinyl estradiol tablets, USP) (21) Day Regimen,the first "active" tablet should be taken on the first Sunday after menstruation begins.
 If period begins on Sunday, the first "active" tablet should be taken that day.
 Take one active tablet daily for 21 days.
 For subsequent cycles, no tablets are taken for 7 days, then a tablet is taken the next day (Sunday).
@@ -23,7 +23,7 @@ Complete instructions to facilitate patient counseling on proper pill usage may 
 
 ## 21-Day Regimen (Day 1 Start):
 
-The dosage of Nortrel® 1/35 (norethindrone and ethinyl estradiol tablets, USP) (21) Day Regimen, for the initial cycle of therapy is one “active” tablet administered daily from the 1st day through the 21st day of the menstrual cycle, counting the first day of menstrual flow as “Day 1.”
+The dosage of Nortrel® 1/35 (norethindrone and ethinyl estradiol tablets, USP) (21) Day Regimen,for the initial cycle of therapy is one “active” tablet administered daily from the 1st day through the 21st day of the menstrual cycle, counting the first day of menstrual flow as “Day 1.”
 For subsequent cycles, no tablets are taken for 7 days, then a new course is started of one tablet a day for 21 days.
 The dosage regimen then continues with 7 days of no medication, followed by 21 days of medication, instituting a three-weeks-on, one-week-off dosage regimen.
 
@@ -54,7 +54,7 @@ Complete instructions to facilitate patient counseling on proper pill usage may 
 
 ## 28-Day Regimen (Day 1 Start):
 
-The dosage of Nortrel® 1/35 and 0.5/35 (norethindrone and ethinyl estradiol tablets, USP) (28) Day Regimen, for the initial cycle of therapy is one “active” tablet administered daily from the 1st through the 21st day of the menstrual cycle, counting the first day of menstrual flow as “Day 1” followed by one white “reminder” tablet daily for 7 days.
+The dosage of Nortrel® 1/35 and 0.5/35 (norethindrone and ethinyl estradiol tablets, USP) (28) Day Regimen,for the initial cycle of therapy is one “active” tablet administered daily from the 1st through the 21st day of the menstrual cycle, counting the first day of menstrual flow as “Day 1” followed by one white “reminder” tablet daily for 7 days.
 Tablets are taken without interruption for 28 days.
 After 28 tablets have been taken, a new course is started the next day.
 
@@ -66,7 +66,7 @@ The patient should be instructed to use a back-up method of birth control if she
 
 Complete instructions to facilitate patient counseling on proper pill usage may be found in the Detailed Patient Labeling ("HOW TO TAKE THE PILL" section).
 
-The use of Nortrel® 1/35 and 0.5/35 (norethindrone and ethinyl estradiol tablets USP) for contraception may be initiated 4 weeks postpartum in women who elect not to breast feed.
+The use of Nortrel® 1/35 and 0.5/35 (norethindrone and ethinyl estradiol tablets USP)for contraception may be initiated 4 weeks postpartum in women who elect not to breast feed.
 When the tablets are administered during the postpartum period, the increased risk of thromboembolic disease associated with the postpartum period must be considered.
 (See CONTRAINDICATIONSand WARNINGS concerning thromboembolic disease.
 See also PRECAUTIONS, “Nursing mothers.”)

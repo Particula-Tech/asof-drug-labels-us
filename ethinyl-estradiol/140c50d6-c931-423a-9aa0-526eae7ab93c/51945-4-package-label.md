@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL, Part 1 of 2
+# Package/Label Display Panel Part 1 of 2
 
-# PRINCIPAL DISPLAY PANEL, Part 2 of 2
+# Package/Label Display Panel Part 2 of 2
 
 ## Nortrel 1/35 mg, 3 Blister Cards, 21 Tablets Each Carton Text
 
@@ -18,44 +18,51 @@ Rx only
 
 Usual Dosage: One tablet daily as recommended in enclosed detailed product information.
 
-To the Dispenser: This carton contains one combination labeling piece of information intended for the patient.
-Informational pieces are to be provided to the patient with each prescription.
+To the Dispenser: This carton contains one combination labeling piece of
 
-barr® Laboratories, Inc.
+information intended for the patient.
+Informational pieces are to be provided
 
-SHAPING WOMEN'S HEALTH® Barr Laboratories, Inc.
+to the patient with each prescription.
 
-# PRINCIPAL DISPLAY PANEL, Part 1 of 2
+TEVA
 
-# PRINCIPAL DISPLAY PANEL, Part 2 of 2
+SHAPING WOMEN'S HEALTH®
+
+# Package/Label Display Panel Part 1 of 2
+
+# Package/Label Display Panel Part 2 of 2
 
 ## Nortrel 1/35 mg, 6 Blister Cards, 28 Tablets Each Carton Text
+
+NDC 0555-9010-58
 
 6 Blister Cards, 28 Tablets Each
 
 28 DAY REGIMEN
 
-NDC 0555-9010-58
-
 Nortrel® (norethindrone and ethinyl estradiol tablets, USP)
 
 1/35
 
-Contains 6 blister cards, each containing 28 tablets.
-Twenty-one yellow tablets, each containing 1 mg norethindrone and 0.035 mg ethinyl estradiol; and 7 white inert tablets.
-
 Usual Dosage: One tablet daily as recommended in enclosed detailed product information.
 
-To the Dispenser: This carton contains one combination labeling piece of information intended for the patient.
-Informational pieces are to be provided to the patient with each prescription.
+To the Dispenser: This carton contains one combination labeling
 
-barr® Laboratories, Inc.
+piece of information intended for the patient.
+Informational pieces are
 
-SHAPING WOMEN'S HEALTH® Barr Laboratories, Inc.
+to be provided to the patient with each prescription.
 
-# PRINCIPAL DISPLAY PANEL, Part 1 of 2
+Rx only
 
-# PRINCIPAL DISPLAY PANEL, Part 2 of 2
+TEVA
+
+SHAPING WOMEN'S HEALTH®
+
+# Package/Label Display Panel Part 1 of 2
+
+# Package/Label Display Panel Part 2 of 2
 
 ## Nortrel 0.5/35 mg, 3 Blister Cards, 28 Tablets Each Carton Text
 
@@ -73,9 +80,13 @@ Rx only
 
 Usual Dosage: One tablet daily as recommended in enclosed detailed product information.
 
-To the Dispenser: This carton contains one combination labeling piece of information intended for the patient.
-Informational pieces are to be provided to the patient with each prescription.
+To the Dispenser: This carton contains one combination labeling piece of
 
-barr® Laboratories, Inc.
+information intended for the patient.
+Informational pieces are to be provided
 
-SHAPING WOMEN'S HEALTH® Barr Laboratories, Inc.
+to the patient with each prescription.
+
+TEVA
+
+SHAPING WOMEN'S HEALTH®

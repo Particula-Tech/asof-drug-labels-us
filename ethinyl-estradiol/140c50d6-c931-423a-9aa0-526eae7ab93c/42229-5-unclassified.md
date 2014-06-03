@@ -42,21 +42,21 @@ The following non-contraceptive health benefits related to the use of combined o
 
 Effects on menses:
 
-- increased menstrual cycle regularity
-- decreased blood loss and decreased incidence of iron deficiency anemia
-- decreased incidence of dysmenorrhea
+- •increased menstrual cycle regularity
+- •decreased blood loss and decreased incidence of iron deficiency anemia
+- •decreased incidence of dysmenorrhea
 
 Effects related to inhibition of ovulation:
 
-- decreased incidence of functional ovarian cysts
-- decreased incidence of ectopic pregnancies
+- •decreased incidence of functional ovarian cysts
+- •decreased incidence of ectopic pregnancies
 
 Other effects:
 
-- decreased incidence of fibroadenomas and fibrocystic disease of the breast
-- decreased incidence of acute pelvic inflammatory disease
-- decreased incidence of endometrial cancer
-- decreased incidence of ovarian cancer
+- •decreased incidence of fibroadenomas and fibrocystic disease of the breast
+- •decreased incidence of acute pelvic inflammatory disease
+- •decreased incidence of endometrial cancer
+- •decreased incidence of ovarian cancer
 
 # ADDITIONAL INSTRUCTIONS
 
@@ -68,5 +68,5 @@ Changing to an oral contraceptive with a higher estrogen content, while potentia
 
 Use of oral contraceptives in the event of a missed menstrual period:
 
-1. If the patient has not adhered to the prescribed schedule, the possibility of pregnancy should be considered at the time of the first missed period and oral contraceptive use should be discontinued if pregnancy is confirmed.
-2. If the patient has adhered to the prescribed regimen and misses two consecutive periods, pregnancy should be ruled out.
+1. 1.If the patient has not adhered to the prescribed schedule, the possibility of pregnancy should be considered at the time of the first missed period and oral contraceptive use should be discontinued if pregnancy is confirmed.
+2. 2.If the patient has adhered to the prescribed regimen and misses two consecutive periods, pregnancy should be ruled out.
