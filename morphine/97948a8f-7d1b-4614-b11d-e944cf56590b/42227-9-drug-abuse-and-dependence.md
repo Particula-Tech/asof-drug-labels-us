@@ -47,7 +47,7 @@ Tolerance is the need for increasing doses of opioids to maintain a defined effe
 Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
 Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dose reduction of a drug.
-Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, or mixed agonist/antagonist analgesics (pentazocine, butorphanol, buprenorphine, nalbuphine).
+Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, mixed agonist/antagonist analgesics (pentazocine, butorphanol, nalbuphine), or partial agonists (buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
 Morphine Sulfate Extended-release Capsules should not be abruptly discontinued [see Dosage and Administration (2.3)].
@@ -55,4 +55,4 @@ If Morphine Sulfate Extended-release Capsules are abruptly discontinued in a phy
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
-Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms [see Use in Specific Populations (8.2, 8.6)].
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms [see Use in Specific Populations (8.2)], and Warnings and Precautions (5.3)].

@@ -1,68 +1,69 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Abuse Potential
+## 5.1 Addiction, Abuse, and Misuse
 
-Morphine Sulfate Extended-release Capsules contain morphine, an opioid agonist and a Schedule II controlled substance.
-Morphine can be abused in a manner similar to other opioid agonists, legal or illicit.
-Opioid agonists are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
-Consider these risks when prescribing or dispensing Morphine Sulfate Extended-release Capsules in situations where there is concern about increased risks of misuse, abuse, or diversion.
-Concerns about abuse, addiction, and diversion should not, however, prevent the proper management of pain.
+Morphine Sulfate Extended-release Capsules contain morphine, a Schedule II controlled substance.
+As an opioid, Morphine Sulfate Extended-release Capsules expose users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
+As modified-release products such as Morphine Sulfate Extended-release Capsules deliver the opioid over an extended period of time, there is a greater risk for overdose and death due to the larger amount of morphine present.
 
-Assess each patient's risk for opioid abuse or addiction prior to prescribing Morphine Sulfate Extended-release Capsules.
-The risk for opioid abuse is increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
-Patients at increased risk may still be appropriately treated with modified-release opioid formulations; however these patients will require intensive monitoring for signs of misuse, abuse, or addiction.
-Routinely monitor all patients receiving opioids for signs of misuse, abuse, and addiction because these drugs carry a risk for addiction even under appropriate medical use.
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Morphine Sulfate Extended-release Capsules and in those who obtain the drug illicitly.
+Addiction can occur at recommended doses and if the drug is misused or abused.
 
-Misuse or abuse of Morphine Sulfate Extended-release Capsules by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of the opioid and pose a significant risk that could result in overdose and death [see Overdosage (10)].
+Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing Morphine Sulfate Extended-release Capsules, and monitor all patients receiving Morphine Sulfate Extended-release Capsules for the development of these behaviors or conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol addiction or abuse) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the prescribing of Morphine Sulfate Extended-release Capsules for the proper management of pain in any given patient.
+Patients at increased risk may be prescribed modified-release opioid formulations such as Morphine Sulfate Extended-release Capsules, but use in such patients necessitates intensive counseling about the risks and proper use of Morphine Sulfate Extended-release Capsules along with intensive monitoring for signs of addiction, abuse, and misuse.
 
+Abuse or misuse of Morphine Sulfate Extended-release Capsules by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of morphine and can result in overdose and death [see Overdosage (10)].
+
+Opioid agonists such as Morphine Sulfate Extended-release Capsules are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing Morphine Sulfate Extended-release Capsules.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Life Threatening Respiratory Depression
 
-Respiratory depression is the primary risk of Morphine Sulfate Extended-release Capsules.
-Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Respiratory depression from opioids is manifested by a reduced urge to breathe and a decreased rate of respiration, often associated with a "sighing" pattern of breathing (deep breaths separated by abnormally long pauses).
-Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of modified-release opioids, even when used as recommended.
+Respiratory depression from opioid use, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Morphine Sulfate Extended-release Capsules, the risk is greatest during the initiation of therapy or following a dose increase.
 Closely monitor patients for respiratory depression when initiating therapy with Morphine Sulfate Extended-release Capsules and following dose increases.
-Instruct patients against use by individuals other than the patient for whom Morphine Sulfate Extended-release Capsules was prescribed and to keep Morphine Sulfate Extended-release Capsules out of the reach of children, as such inappropriate use may result in fatal respiratory depression.
 
-To reduce the risk of respiratory depression, proper dosing and titration of Morphine Sulfate Extended-release Capsules are essential [see Dosage and Administration (2.1, 2.2)].
+To reduce the risk of respiratory depression, proper dosing and titration of Morphine Sulfate Extended-release Capsules are essential [see Dosage and Administration (2)].
 Overestimating the Morphine Sulfate Extended-release Capsules dose when converting patients from another opioid product can result in fatal overdose with the first dose.
-Respiratory depression has also been reported with use of modified-release opioids when used as recommended and not misused or abused.
 
-To further reduce the risk of respiratory depression, consider the following:
+Accidental ingestion of even one dose of Morphine Sulfate Extended-release Capsules, especially by children, can result in respiratory depression and death due to an overdose of morphine.
 
-- Proper dosing and titration are essential and Morphine Sulfate Extended-release Capsules should only be prescribed by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
-  Morphine Sulfate Extended-release Capsules 100 mg are for use in opioid-tolerant patients only.
-  Ingestion of this strength of Morphine Sulfate Extended-release Capsules or of the pellets within the capsule may cause fatal respiratory depression when administered to patients not already tolerant to high doses of opioids.
-- Instruct patients to swallow Morphine Sulfate Extended-release Capsules intact or to sprinkle the capsule contents on applesauce and swallow without chewing.
-  The pellets in the capsules are not to be crushed, dissolved, or chewed.
-  The resulting morphine dose may be fatal, particularly in opioid-naïve individuals.
-- Morphine Sulfate Extended-release Capsules are contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
+## 5.3 Neonatal Opioid Withdrawal Syndrome
 
-## 5.3 Accidental Exposure
+Prolonged use of Morphine Sulfate Extended-release Capsules during pregnancy can result in withdrawal signs in the neonate.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
+If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available.
 
-Accidental consumption of Morphine Sulfate Extended-release Capsules, especially in children, can result in a fatal overdose of morphine.
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
+The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 
-## 5.4 Elderly, Cachectic, and Debilitated Patients
+## 5.4 Interactions with Central Nervous System Depressants
 
-Respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics due to poor fat stores, muscle wasting, or altered clearance compared to younger, healthier patients.
-Therefore, monitor such patients closely, particularly when initiating and titrating Morphine Sulfate Extended-release Capsules and when Morphine Sulfate Extended-release Capsules are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+Patients must not consume alcoholic beverages or prescription or non-prescription products containing alcohol while on Morphine Sulfate Extended-release Capsules therapy.
+The co-ingestion of alcohol with Morphine Sulfate Extended-release Capsules may result in increased plasma levels and a potentially fatal overdose of morphine [see Clinical Pharmacology (12.3)].
+Hypotension, profound sedation, coma, respiratory depression, and death may result if Morphine Sulfate Extended-release Capsules are used concomitantly with alcohol or other central nervous system (CNS) depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, other opioids).
 
-## 5.5 Use in Patients with Chronic Pulmonary Disease
+When considering the use of Morphine Sulfate Extended-release Capsules in a patient taking a CNS depressant, assess the duration use of the CNS depressant and the patient's response, including the degree of tolerance that has developed to CNS depression.
+Additionally, evaluate the patient's use of alcohol or illicit drugs that cause CNS depression.
+If the decision to begin Morphine Sulfate Extended-release Capsules are made, start with a low dose of Morphine Sulfate Extended-release Capsules (30 mg or lower) every 24 hours, monitor patients for signs of sedation and respiratory depression, and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7)].
+
+## 5.5 Use in Elderly, Cachectic, and Debilitated Patients
+
+Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients.
+Monitor such patients closely, particularly when initiating and titrating Morphine Sulfate Extended-release Capsules and when Morphine Sulfate Extended-release Capsules are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2)].
+
+## 5.6 Use in Patients with Chronic Pulmonary Disease
 
 Monitor patients with significant chronic obstructive pulmonary disease or cor pulmonale, and patients having a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression for respiratory depression, particularly when initiating therapy and titrating with Morphine Sulfate Extended-release Capsules, as in these patients, even usual therapeutic doses of Morphine Sulfate Extended-release Capsules may decrease respiratory drive to the point of apnea [see Warnings and Precautions (5.2)].
 Consider the use of alternative non-opioid analgesics in these patients if possible.
-
-## 5.6 Interactions with CNS Depressants and Illicit Drugs
-
-Hypotension, profound sedation, coma, or respiratory depression may result if Morphine Sulfate Extended-release Capsules are used concomitantly with other CNS depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, other opioids).
-When considering the use of Morphine Sulfate Extended-release Capsules in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient's response, including the degree of tolerance that has developed to CNS depression.
-Additionally, consider the patient's use, if any, of alcohol or illicit drugs that cause CNS depression.
-If Morphine Sulfate Extended-release Capsules therapy is to be initiated in a patient taking a CNS depressant, start with a lower Morphine Sulfate Extended-release Capsules dose than usual and monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7.2)].
 
 ## 5.7 Hypotensive Effect
 
@@ -96,8 +97,8 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.11 Avoidance of Withdrawal
 
-Avoid the use of mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, and butorphanol) in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including Morphine Sulfate Extended-release Capsules.
-In these patients, mixed agonists/antagonists analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
+Avoid the use of mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (buprenorphine) analgesics in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including Morphine Sulfate Extended-release Capsules.
+In these patients, mixed agonists/antagonists and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
 
 When discontinuing Morphine Sulfate Extended-release Capsules, gradually taper the dose [see Dosage and Administration (2.3)].
 Do not abruptly discontinue Morphine Sulfate Extended-release Capsules.

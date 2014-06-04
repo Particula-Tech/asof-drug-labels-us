@@ -6,15 +6,29 @@ Morphine sulfate, an opioid agonist, is relatively selective for the mu receptor
 In addition to analgesia, the widely diverse effects of morphine sulfate include analgesia, dysphoria, euphoria, somnolence, respiratory depression, diminished gastrointestinal motility, altered circulatory dynamics, histamine release, physical dependence, and alterations of the endocrine and autonomic nervous systems.
 
 Morphine produces both its therapeutic and its adverse effects by interaction with one or more classes of specific opioid receptors located throughout the body.
-Morphine acts as a full agonist, binding with and activating opioid receptors at sites in the peri-aqueductal and peri-ventricular grey matter, the ventro­ medial medulla and the spinal cord to produce analgesia.
+Morphine acts as a full agonist, binding with and activating opioid receptors at sites in the peri-aqueductal and peri-ventricular grey matter, the ventro­medial medulla and the spinal cord to produce analgesia.
+
+## 12.2 Pharmacodynamics
+
+Plasma Level-Analgesia Relationships
+
+While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
+The effective dose in opioid-tolerant patients may be 10 to 50 times as great (or greater) than the appropriate dose for opioid-naïve individuals.
+Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
+
+CNS Depressant/Alcohol Interaction
+
+Additive pharmacodynamic effects may be expected when Morphine Sulfate Extended-release Capsules are used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
 
 Effects on the Central Nervous System
 
 The principal actions of therapeutic value of morphine are analgesia and sedation.
 Specific CNS opiate receptors and endogenous compounds with morphine-like activity have been identified throughout the brain and spinal cord and are likely to play a role in the expression of analgesic effects.
+
 Morphine produces respiratory depression by direct action on brainstem respiratory centers.
 The mechanism of respiratory depression involves a reduction in the responsiveness of the brainstem respiratory centers to increases in carbon dioxide tension, and to electrical stimulation.
 Morphine depresses the cough reflex by direct effect on the cough center in the medulla.
+
 Morphine causes miosis, even in total darkness, and little tolerance develops to this effect.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
 Marked mydriasis rather than miosis may be seen with worsening hypoxia in the setting of morphine overdose.
@@ -45,18 +59,6 @@ Opioids have been shown to have a variety of effects on components of the immune
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-## 12.2 Pharmacodynamics
-
-Plasma Level-Analgesia Relationships
-
-While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
-The effective dose in opioid-tolerant patients may be 10 to 50 times as great (or greater) than the appropriate dose for opioid-naïve individuals.
-Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
-
-CNS Depressant/Alcohol Interaction
-
-Additive pharmacodynamic effects may be expected when Morphine Sulfate Extended-release Capsules are used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
-
 ## 12.3 Pharmacokinetics
 
 Absorption
@@ -67,15 +69,15 @@ Because of pre-systemic elimination, only about 20 to 40% of the administered do
 
 Both dose-normalized Cmax and dose-normalized AUC0-48hr values of morphine after a single dose administration of Morphine Sulfate Extended-release Capsules in healthy volunteers are less than those for morphine oral solution or an extended-release tablet formulation (Table 1).
 
-When Morphine Sulfate Extended-release Capsules were given twice daily to 24 patients with chronic pain due to malignancy, steady state was achieved in about two days.
-At steady state, Morphine Sulfate Extended-release Capsules have a significantly lower Cmax and a higher Cmin than equivalent doses of oral morphine solution given every 4 hrs and an extended-release tablet given twice daily.
-When given once daily to 24 patients with malignancy, Morphine Sulfate Extended-release Capsules had a similar Cmax and higher Cmin at steady state when compared to an extended-release morphine tablet, given twice daily at an equivalent total daily dosage (see Table 1).
+When Morphine Sulfate Extended-release Capsules were given twice daily to 24 patients with chronic pain due to malignancy, steady-state was achieved in about two days.
+At steady-state, Morphine Sulfate Extended-release Capsules have a significantly lower Cmax and a higher Cmin than equivalent doses of oral morphine solution given every 4 hrs and an extended-release tablet given twice daily.
+When given once daily to 24 patients with malignancy, Morphine Sulfate Extended-release Capsules had a similar Cmax and higher Cmin at steady-state when compared to an extended-release morphine tablet, given twice daily at an equivalent total daily dosage (see Table 1).
 
 The single-dose pharmacokinetics of Morphine Sulfate Extended-release Capsules are linear over the dosage range of 30 to 100 mg.
 
 Table 1: Mean pharmacokinetic parameters (% coefficient variation) resulting from a fasting single dose study in normal volunteers and a multiple-dose study in patients with cancer pain.
 
-| Regimen/Dosage Form | AUCFor single dose AUC = AUC0-48h, for multiple dose AUC = AUC0-24h at steady state,For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours (ng.h/mL) | Cmax (ng/mL) | Tmax (h) | Cmin (ng/mL) | FluctuationSteady-state fluctuation in plasma concentrations = Cmax-Cmin/Cmin |
+| Regimen/Dosage Form | AUCFor single dose AUC = AUC0-48h, for multiple dose AUC = AUC0-24h at steady-state,For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours (ng∙h/mL) | Cmax (ng/mL) | Tmax (h) | Cmin (ng/mL) | FluctuationSteady-state fluctuation in plasma concentrations = Cmax-Cmin/Cmin |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose (n=24) |  |  |  |  |  |
 | Morphine Sulfate Extended-release Capsule | 271.0 (19.4) | 15.6 (24.4) | 8.6 (41.1) | naNot applicable | na |
@@ -93,7 +95,7 @@ Once absorbed, morphine is distributed to skeletal muscle, kidneys, liver, intes
 The volume of distribution of morphine is approximately 3 to 4 L/kg.
 Morphine is 30 to 35% reversibly bound to plasma proteins.
 Although the primary site of action of morphine is in the CNS, only small quantities pass the blood-brain barrier.
-Morphine also crosses the placental membranes [see Use in Special Populations (8.1)] and has been found in breast milk [see Use in Specific Populations (8.3)].
+Morphine also crosses the placental membranes [see Use in Specific Populations (8.1)] and has been found in breast milk [see Use in Specific Populations (8.3)].
 
 Metabolism
 
@@ -102,7 +104,7 @@ A small fraction (less than 5%) of morphine is demethylated.
 M3G has no significant contribution to the analgesic activity.
 Although M6G does not readily cross the blood-brain barrier, it has been shown to have opioid agonist and analgesic activity in humans.
 
-Studies in healthy subjects and cancer patients have shown that the glucuronide metabolite to morphine mean molar ratios (based on AUC) are similar after both single doses and at steady state for Morphine Sulfate Extended-release Capsules, 12-hour extended-release morphine sulfate tablets and morphine sulfate solution.
+Studies in healthy subjects and cancer patients have shown that the glucuronide metabolite to morphine mean molar ratios (based on AUC) are similar after both single doses and at steady-state for Morphine Sulfate Extended-release Capsules, 12-hour extended-release morphine sulfate tablets and morphine sulfate solution.
 
 Excretion
 
@@ -115,7 +117,7 @@ The mean adult plasma clearance of morphine is about 20 to 30 mL/minute/kg.
 The effective terminal half-life of morphine after IV administration is reported to be approximately 2 hours.
 The terminal elimination half-life of morphine following a single dose of Morphine Sulfate Extended-release Capsules administration is approximately 11 to 13 hours.
 
-Special Populations
+Specific Populations
 
 Geriatric Patients: The pharmacokinetics of Morphine Sulfate Extended-release Capsules have not been investigated in elderly patients (>65 years) although such patients were included in the clinical studies.
 

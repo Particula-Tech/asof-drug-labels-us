@@ -1,3 +1,3 @@
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447
+Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
 
-Revised 0912
+Revised 0414
