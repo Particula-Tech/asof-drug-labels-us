@@ -78,6 +78,7 @@ There may be circumstances when it is necessary to initiate treatment with an MA
 Citalopram should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 If concomitant use of citalopram with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, trytophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome particularly during treatment initiation and dose increases.
 Treatment with citalopram and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Angle-Closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including citalopram oral solution may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 # PRECAUTIONS
 
@@ -114,9 +115,13 @@ In clinical trials of citalopram, seizures occurred in 0.3% of patients treated 
 Like other antidepressants, citalopram should be introduced with care in patients with a history of seizure disorder.
 Interference with Cognitive and Motor Performance In studies in normal volunteers, citalopram in doses of 40 mg/day did not produce impairment of intellectual function or psychomotor performance.
 Because any psychoactive drug may impair judgment, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
+Angle-Closure Glaucoma Patients should be advised that taking citalopram oral solution can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 Use in Patients with Concomitant Illness Clinical experience with citalopram in patients with certain concomitant systemic illnesses is limited.
 Due to the risk of QT prolongation, citalopram use should be avoided in patients with certain cardiac conditions, and ECG monitoring is advised if citalopram must be used in such patients.
-Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia (see WARNIN GS).
+Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia (see WARNINGS).
 In subjects with hepatic impairment, citalopram clearance was decreased and plasma concentrations were increased.
 The use of citalopram in hepatically impaired patients should be approached with caution and a lower maximum dosage is recommended (see DOSAGE AND ADMINISTRATION).
 Because citalopram is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
@@ -163,13 +168,13 @@ Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.) - Seroton
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when citalopram is initiated or discontinued.
-Cimetidine - In subjects who had received 21 days of 40 mg/day citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
+Cimetidine - In subjects who had received 21 days of 40 mg/day citalopram, combined administration of 400 mg twice a day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
 Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
 Digoxin - In subjects who had received 21 days of 40 mg/day citalopram, combined administration of citalopram and digoxin (single dose of 1 mg) did not significantly affect the pharmacokinetics of either citalopram or digoxin.
 Lithium - Coadministration of citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
 Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
 Because lithium may enhance the serotonergic effects of citalopram, caution should be exercised when citalopram and lithium are coadministered.
-Pimozide - In a controlled study, a single dose of pimozide 2 mg coadministered with citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
+Pimozide - In a controlled study, a single dose of pimozide 2 mg co-administered with citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
 Citalopram did not alter the mean AUC or Cmax of pimozide.
 The mechanism of this pharmacodynamic interaction is not known.
 Theophylline - Combined administration of citalopram (40 mg/day for 21 days) and the CYP1A2 substrate theophylline (single dose of 300 mg) did not affect the pharmacokinetics of theophylline.
@@ -209,7 +214,7 @@ Gestation duration was increased at 48 mg/kg/day, approximately 8 times the MRHD
 
 ## Pregnancy
 
-Pregnancy Category C In animal reproduction studies, citalopram has been shown to have adverse effects on embryo/fetal and postnatal development, including teratogenic effects, when administered at doses greater than human therapeutic doses.
+Teratogenic Effects Pregnancy Category C In animal reproduction studies, citalopram has been shown to have adverse effects on embryo/fetal and postnatal development, including teratogenic effects, when administered at doses greater than human therapeutic doses.
 In two rat embryo/fetal development studies, oral administration of citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
 This dose was also associated with maternal toxicity (clinical signs, decreased body weight gain).
 The developmental, no-effect dose of 56 mg/kg/day is approximately 9 times the MRHD on a mg/m2 basis.

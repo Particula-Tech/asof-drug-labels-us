@@ -1,6 +1,6 @@
 # Medication Guide
 
-Citalopram Oral Solution USP Read the Medication Guide that comes with citalopram oral solution before you start taking it and each time you get a refill.
+Citalopram Oral Solution USP (sye tal' oh pram) Read the Medication Guide that comes with citalopram oral solution before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -90,7 +90,17 @@ Stopping citalopram oral solution too quickly may cause serious symptoms includi
 - headache, sweating, nausea, dizziness
 - electric shock-like sensations, shaking, confusion
 
+10.
+Visual problems.
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 What is citalopram oral solution?
+
 Citalopram oral solution is a prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
 You should discuss all treatment choices with your healthcare provider.
@@ -104,7 +114,7 @@ Do not take citalopram oral solution if you:
 
 - are allergic to citalopram hydrobromide or escitalopram oxalate or any of the ingredients in citalopram oral solution.
   See the end of this Medication Guide for a complete list of ingredients in citalopram oral solution.
-- If you take a monoamine oxidase inhibitor (MAOI).
+- take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - Do not take an MAOI within 2 weeks of stopping citalopram oral solution unless directed to do so by your physician.
 - Do not start citalopram oral solution if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
@@ -146,7 +156,7 @@ Before starting citalopram oral solution, tell your healthcare provider if you
 - are pregnant or plan to become pregnant.
   It is not known if citalopram oral solution will harm your unborn baby.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy.
-- are breastfeeding or plan to breastfeed.
+- are breast-feeding or plan to breast-feed.
   Some citalopram may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking citalopram oral solution.
 
@@ -223,4 +233,4 @@ Active ingredient: citalopram hydrobromide Inactive ingredients: non crystallizi
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 01/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 05/2014
