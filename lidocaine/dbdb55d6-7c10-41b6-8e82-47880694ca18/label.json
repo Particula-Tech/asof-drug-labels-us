@@ -1,13 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021380",
+    "NDA021381"
+  ],
   "inn": "lidocaine",
-  "labeler": "DENTSPLY Pharmaceutical",
+  "labeler": "Dentsply Pharmaceutical",
   "package_ndcs": [
     "66312-170-14",
     "66312-175-14",
     "66312-180-14"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "lidocaine hydrochloride",
+      "name": "Xylocaine"
+    },
+    {
+      "form": "INJECTION",
+      "generic": "lidocaine hydrochloride and epinephrine bitartrate",
+      "name": "Xylocaine with epinephrine"
+    }
+  ],
   "setid": "dbdb55d6-7c10-41b6-8e82-47880694ca18",
   "source": "dailymed"
 }
