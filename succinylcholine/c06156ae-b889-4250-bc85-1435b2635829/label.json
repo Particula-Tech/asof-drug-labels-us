@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA008845"
+  ],
+  "inn": "succinylcholine",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-6629-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "succinylcholine chloride",
+      "name": "Quelicin"
+    }
+  ],
+  "setid": "c06156ae-b889-4250-bc85-1435b2635829",
+  "source": "dailymed"
+}
