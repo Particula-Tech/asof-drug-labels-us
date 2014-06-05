@@ -89,9 +89,9 @@ Case reports and epidemiological studies (case-control and cohort design) have d
 Bleeding events related to SSRIs and SNRIs have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of desvenlafaxine and NSAIDs, aspirin, or other drugs that affect coagulation or bleeding.
 
-## 5.5 Narrow-angle Glaucoma
+## 5.5 Angle Closure Glaucoma
 
-Mydriasis has been reported in association with desvenlafaxine; therefore, patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma (angle-closure glaucoma) should be monitored.
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including Desvenlafaxine may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.6 Activation of Mania/Hypomania
 

@@ -1,3 +1,5 @@
+# MEDICATION GUIDE
+
 MEDICATION GUIDE
 
 KHEDEZLA (key-DEZ-luh) (desvenlafaxine)Extended-release Tablets
@@ -173,7 +175,9 @@ Signs and symptoms of these syndromes may include one or more of the following:
   KHEDEZLA and other SNRIs/SSRIs may cause you to have an increased chance of bleeding.
   Taking aspirin, NSAIDs (non-steroidal anti-inflammatory drugs), or blood thinners may add to this risk.
   Tell your healthcare provider right away about any unusual bleeding or bruising.
-- Glaucoma (increased eye pressure)
+- Visual Problems· eye pain· changes in vision· swelling or redness in or around the eye Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
 - Symptoms when stopping KHEDEZLA (discontinuation symptoms).
   Side effects may occur when stopping KHEDEZLA (discontinuation symptoms), especially when therapy is stopped suddenly.
   Your healthcare provider may want to decrease your dose slowly to help avoid side effects.
@@ -250,6 +254,6 @@ Distributed by: Pernix Therapeutics, LLC
 
 Magnolia, TX 77354
 
-Revised 02/2014
+Revised 06/2014
 
-MG 374-01-84-03 PC 4623EM
+MG 374-01-84-03 PC 4623FM

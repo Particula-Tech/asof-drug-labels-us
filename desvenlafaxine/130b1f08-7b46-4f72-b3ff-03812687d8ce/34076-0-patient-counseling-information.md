@@ -28,9 +28,13 @@ Abnormal Bleeding
 
 Patients should be cautioned about the concomitant use of KHEDEZLA and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.4)].
 
-Narrow-angle Glaucoma
+Angle Closure Glaucoma
 
-Advise patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma (angle-closure glaucoma) that mydriasis has been reported and they should be monitored [see Warnings and Precautions (5.5)].
+Patients should be advised that taking Desvenlafaxine can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+[see Warnings and Precautions (5.5)]
 
 Activation of Mania/Hypomania
 
@@ -79,6 +83,6 @@ Distributed by: Pernix Therapeutics, LLC
 
 Magnolia, TX 77354
 
-Revised 02/2014
+Revised 06/2014
 
-OS374-01-84-03 PC 4623EP
+OS374-01-84-03 PC 4623FP
