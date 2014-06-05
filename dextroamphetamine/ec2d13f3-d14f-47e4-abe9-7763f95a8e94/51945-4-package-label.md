@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# PACKAGE/LABEL DISPLAY PANEL
 
 Dextroamphetamine Sulfate Tablets.
 USP 5mg 100 Tablets Label Text
@@ -17,7 +17,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# PACKAGE/LABEL DISPLAY PANEL
 
 Dextroamphetamine Sulfate Tablets.
 USP 10mg 100 Tablets Label Text

@@ -92,10 +92,10 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 ### Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
 
-- Instruct patients beginning treatment with dextroamphetamine sulfate tablets about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
-- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
-- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dextroamphetamine sulfate tablets.
-- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+- •Instruct patients beginning treatment with dextroamphetamine sulfate tablets about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- •Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+- •Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dextroamphetamine sulfate tablets.
+- •Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 ## Drug Interactions
 
@@ -179,9 +179,9 @@ Amphetamines inhibit the hypotensive effect of veratrum alkaloids.
 
 ## Drug/Laboratory Test Interactions
 
-- Amphetamines can cause a significant elevation in plasma corticosteroid levels.
+- •Amphetamines can cause a significant elevation in plasma corticosteroid levels.
   This increase is greatest in the evening.
-- Amphetamines may interfere with urinary steroid determinations.
+- •Amphetamines may interfere with urinary steroid determinations.
 
 ## Carcinogenesis/Mutagenesis
 
@@ -196,7 +196,7 @@ Mutagenicity studies and long-term studies in animals to determine the carcinoge
 Dextroamphetamine has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
 Embryotoxic effects were not seen in New Zealand white rabbits given the drug in doses 7 times the human dose nor in rats given 12.5 times the maximum human dose.
 While there are no adequate and well-controlled studies in pregnant women, there has been one report of severe congenital bony deformity, tracheoesophageal fistula, and anal atresia (Vater association) in a baby born to a woman who took dextroamphetamine sulfate with lovastatin during the first trimester of pregnancy.
-Dextroamphetamine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Dextroamphetamine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus
 
 ## Nonteratogenic Effects
 
