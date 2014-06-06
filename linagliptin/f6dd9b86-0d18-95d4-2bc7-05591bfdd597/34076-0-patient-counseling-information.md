@@ -19,10 +19,13 @@ Inform patients that acute pancreatitis has been reported during postmarketing u
 Inform patients that persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
 Instruct patients to discontinue JENTADUETO promptly and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
 
+Inform patients that serious allergic reactions, such as anaphylaxis, angioedema, and exfoliative skin conditions, have been reported during postmarketing use of linagliptin (one of the components of JENTADUETO).
+If symptoms of allergic reactions (such as rash, skin flaking or peeling, urticaria, swelling of the skin, or swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking JENTADUETO and seek medical advice promptly.
+
 Instruct patients to take JENTADUETO only as prescribed.
 If a dose is missed, advise patients not to double their next dose.
 
-Warn patients against excessive alcohol intake, either acute or chronic, while receiving JENTADUETO [see Warnings and Precautions (5.6)].
+Warn patients against excessive alcohol intake, either acute or chronic, while receiving JENTADUETO [see Warnings and Precautions (5.7)].
 
 Inform patients about the importance of regular testing of renal function and hematological parameters when receiving treatment with JENTADUETO.
 

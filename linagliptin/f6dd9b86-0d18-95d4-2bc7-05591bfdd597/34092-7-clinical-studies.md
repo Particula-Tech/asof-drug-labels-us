@@ -101,7 +101,7 @@ Table 8 Glycemic Parameters at 52 and 104 Weeks in Study Comparing Linagliptin t
 | FPG (mg/dL) |  |  |  |  |
 | Number of patients | n=733 | n=725 | n=733 | n=725 |
 | Baseline (mean) | 164 | 166 | 164 | 166 |
-| Change from baseline (adjusted mean****) | 8* | -15 | -2† | -9 |
+| Change from baseline (adjusted mean****) | -8* | -15 | -2† | -9 |
 | Hypoglycemia incidence (%)*** |  |  |  |  |
 | Number of patients | n=776 | n=775 | n=776 | n=775 |
 | Incidence | 5.3* | 31.1 | 7.5 * | 36.1 |

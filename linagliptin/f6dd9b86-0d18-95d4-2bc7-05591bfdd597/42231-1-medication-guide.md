@@ -22,7 +22,7 @@ Serious side effects can happen in people taking JENTADUETO, including:
    - have sudden stomach or intestinal problems with nausea and vomiting or diarrhea
    - feel cold, especially in your arms and legs
    - feel dizzy or lightheaded
-   - have a slow or irregular heartbeat
+   - have a slow or irregular heart beat
    - have kidney problems.
      People whose kidneys are not working properly should not take JENTADUETO.
    - have liver problems
@@ -37,15 +37,11 @@ Serious side effects can happen in people taking JENTADUETO, including:
    - are 80 years of age or older and have not had your kidneys tested
 2. Inflammation of the pancreas (pancreatitis) which may be severe and lead to death.
    Certain medical problems make you more likely to get pancreatitis.
-
-Before you start taking JENTADUETO:
-
-Tell your doctor if you have ever had:
-
-- inflammation of your pancreas (pancreatitis)
-- stones in your gallbladder (gallstones)
-- a history of alcoholism
-- high blood triglyceride levels
+   Before you start taking JENTADUETO: Tell your doctor if you have ever had:
+   - inflammation of your pancreas (pancreatitis)
+   - stones in your gallbladder (gallstones)
+   - a history of alcoholism
+   - high blood triglyceride levels
 
 Stop taking JENTADUETO and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
 The pain may be felt going from your abdomen through to your back.
@@ -100,7 +96,7 @@ What should I tell my doctor before using JENTADUETO?
   JENTADUETO may affect the way other medicines work, and other medicines may affect how JENTADUETO works.
   Especially tell your doctor if you take:
   - other medicines that can lower your blood sugar
-  - rifampin* (Rifadin®, Rimactane®, Rifater®, Rifamate®), an antibiotic that is used to treat tuberculosis
+  - rifampin (Rifadin®, Rimactane®, Rifater®, Rifamate®)*, an antibiotic that is used to treat tuberculosis
 - Ask your doctor or pharmacist for a list of these medicines if you are not sure if your medicine is one that is listed above.
   Know the medicines you take.
   Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
@@ -123,7 +119,7 @@ How should I take JENTADUETO?
     Dehydration can occur if you are sick with severe vomiting, diarrhea, or fever, or if you drink a lot less fluid than normal.
   - plan to have surgery
   - are going to get an injection of dye or contrast agent for an x-ray procedure.
-    See "What is the most important information I should know about JENTADUETO?" and "Who should not take JENTADUETO?".
+    See "What is the most important information I should know about JENTADUETO?" and "Who should not take JENTADUETO?"
 - When your body is under some types of stress, such as fever, trauma (such as a car accident), infection, or surgery, the amount of diabetes medicine that you need may change.
   Tell your doctor right away if you have any of these conditions and follow your doctor’s instructions.
 - Check your blood sugar as your doctor tells you to.
@@ -141,15 +137,22 @@ JENTADUETO may cause serious side effects, including:
     The dose of your sulfonylurea medicine or insulin may need to be lowered while you take JENTADUETO.
     Signs and symptoms of low blood sugar may include:
     - headache
-    - hunger
-    - fast heart beat
-    - sweating
-    - feeling jittery
     - irritability
     - drowsiness
+    - hunger
     - weakness
+    - fast heart beat
     - dizziness
+    - sweating
     - confusion
+    - feeling jittery
+  - Allergic (hypersensitivity) reactions.
+    Serious allergic reactions can happen after your first dose or up to 3 months after starting JENTADUETO.
+    Symptoms may include:If you have these symptoms, stop taking JENTADUETO and call your doctor or go to the nearest hospital emergency room right away.
+    - swelling of your face, lips, throat, and other areas on your skin
+    - difficulty with swallowing or breathing
+    - raised, red areas on your skin (hives)
+    - skin rash, itching, flaking, or peeling
 
 The most common side effects of JENTADUETO include:
 
@@ -214,12 +217,12 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
-Revised: September 2013
+Revised: May 2014
 
 *The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright 2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5571EI102013 300661-03
+IT5571HE302014 300661-04
 
-IT5645D 302118-02
+IT5645F 302118-03

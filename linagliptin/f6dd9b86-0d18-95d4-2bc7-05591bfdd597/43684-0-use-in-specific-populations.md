@@ -23,7 +23,7 @@ Linagliptin crosses the placenta into the fetus following oral dosing in pregnan
 
 Metformin Hydrochloride
 
-Metformin has been studied for embryofetal effects in 2 rat strains and in rabbits.
+Metformin has been studied for embryo-fetal effects in 2 rat strains and in rabbits.
 Metformin was not teratogenic in Sprague Dawley rats up to 600 mg/kg or in Wistar Han rats up to 200 mg/kg (2-3 times the clinical dose based on body surface area or exposure, respectively).
 At higher maternally toxic doses (9 and 23 times the clinical dose based on exposure), an increased incidence of rib and scapula skeletal malformations was observed in the Wistar Han strain.
 Metformin was not teratogenic in rabbits at doses up to 140 mg/kg (similar to clinical dose based on body surface area).

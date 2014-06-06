@@ -78,4 +78,5 @@ Additional adverse reactions have been identified during postapproval use of lin
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.2) and Warnings and Precautions (5.2)]
+- Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.6)]
 - Rash

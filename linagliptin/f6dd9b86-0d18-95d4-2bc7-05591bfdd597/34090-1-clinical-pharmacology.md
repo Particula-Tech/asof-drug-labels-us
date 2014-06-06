@@ -20,7 +20,7 @@ Metformin
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 Its pharmacologic mechanisms of action are different from other classes of oral antihyperglycemic agents.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.9)] and does not cause hyperinsulinemia.
+Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.10)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -128,7 +128,7 @@ However, use of metformin alone in patients with hepatic impairment has been ass
 Therefore, use of JENTADUETO is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.4)].
 
 Linagliptin: In patients with mild hepatic impairment (Child-Pugh class A) steady-state exposure (AUCτ,ss) of linagliptin was approximately 25% lower and Cmax,ss was approximately 36% lower than in healthy subjects.
-In patients with moderate hepatic impairment (Child-Pugh class B), AUCss, of linagliptin was about 14% lower and Cmax,ss was approximately 8% lower than in healthy subjects.
+In patients with moderate hepatic impairment (Child-Pugh class B), AUCss of linagliptin was about 14% lower and Cmax,ss was approximately 8% lower than in healthy subjects.
 Patients with severe hepatic impairment (Child-Pugh class C) had comparable exposure of linagliptin in terms of AUC0-24 and approximately 23% lower Cmax compared with healthy subjects.
 Reductions in the pharmacokinetic parameters seen in patients with hepatic impairment did not result in reductions in DPP-4 inhibition.
 
@@ -181,7 +181,7 @@ Based on these results and in vivo drug interaction studies, linagliptin is cons
 
 In vivo Assessment of Drug Interactions
 
-Inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations.
+Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations.
 For patients requiring use of such drugs, an alternative to linagliptin is strongly recommended.
 In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp, and OCT.
 No dose adjustment of linagliptin is recommended based on results of the described pharmacokinetic studies.

@@ -4,8 +4,8 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-Copyright 2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5571EI102013 300661-03
+IT5571HE302014 300661-04
 
-IT5645D 302118-02
+IT5645F 302118-03

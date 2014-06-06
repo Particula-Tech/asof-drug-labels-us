@@ -13,7 +13,7 @@ The reported incidence of lactic acidosis in patients receiving metformin is app
 In more than 20,000 patient-years exposure to metformin in clinical trials, there were no reports of lactic acidosis.
 Reported cases have occurred primarily in diabetic patients with significant renal impairment, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
 Patients with congestive heart failure requiring pharmacologic management, particularly when accompanied by hypoperfusion and hypoxemia due to unstable or acute failure, are at increased risk of lactic acidosis.
-The risk of lactic acidosis increases with the degree of renal impairment and the patient's age.
+The risk of lactic acidosis increases with the degree of renal impairment and the patient’s age.
 The risk of lactic acidosis may, therefore, be significantly decreased by regular monitoring of renal function in patients taking metformin.
 In particular, treatment of the elderly should be accompanied by careful monitoring of renal function.
 Metformin treatment should not be initiated in any patient unless measurement of creatinine clearance demonstrates that renal function is not reduced.
@@ -67,7 +67,7 @@ Radiological studies and surgical procedures:
 Radiologic studies involving the use of intravascular iodinated contrast materials (e.g., intravenous urogram, intravenous cholangiography, angiography, and computed tomography) can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin.
 Therefore, in patients in whom any such study is planned, JENTADUETO should be temporarily discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been confirmed to be normal.
 
-JENTADUETO should be temporarily discontinued for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient's oral intake has resumed and renal function has been evaluated as normal.
+JENTADUETO should be temporarily discontinued for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient’s oral intake has resumed and renal function has been evaluated as normal.
 
 ## 5.4 Impaired Hepatic Function
 
@@ -88,7 +88,17 @@ Hypoglycemia does not occur in patients receiving metformin alone under usual ci
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 
-## 5.6 Vitamin B12 Levels
+## 5.6 Hypersensitivity Reactions
+
+There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of JENTADUETO).
+These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
+Onset of these reactions occurred within the first 3 months after initiation of treatment with linagliptin, with some reports occurring after the first dose.
+If a serious hypersensitivity reaction is suspected, discontinue JENTADUETO, assess for other potential causes for the event, and institute alternative treatment for diabetes.
+
+Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
+Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JENTADUETO.
+
+## 5.7 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (<1 year) of the clinical trials.
@@ -98,16 +108,16 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurement at 2- to 3-year intervals may be useful.
 
-## 5.7 Alcohol Intake
+## 5.8 Alcohol Intake
 
 Alcohol is known to potentiate the effect of metformin on lactate metabolism.
 Patients, therefore, should be warned against excessive alcohol intake while receiving JENTADUETO [see Warnings and Precautions (5.1)].
 
-## 5.8 Hypoxic States
+## 5.9 Hypoxic States
 
 Cardiovascular collapse (shock) from whatever cause (e.g., acute congestive heart failure, acute myocardial infarction, and other conditions characterized by hypoxemia) have been associated with lactic acidosis and may also cause prerenal azotemia.
 When such events occur in patients on JENTADUETO therapy, the drug should be promptly discontinued [see Warnings and Precautions (5.1)].
 
-## 5.9 Macrovascular Outcomes
+## 5.10 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with linagliptin or metformin or any other antidiabetic drug.
