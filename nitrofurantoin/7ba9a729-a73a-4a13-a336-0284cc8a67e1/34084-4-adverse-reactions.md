@@ -1,5 +1,8 @@
 # ADVERSE REACTIONS
 
+In clinical trials of nitrofurantoin (monohydrate/macrocrystals), the most frequent clinical adverse events that were reported as possibly or probably drug-related were nausea (8%), headache (6%), and flatulence (1.5%).
+Additional clinical adverse events reported as possibly or probably drug-related occurred in less than 1% of patients studied and are listed below within each body system in order of decreasing frequency:
+
 Gastrointestinal: Diarrhea, dyspepsia, abdominal pain, constipation, emesis
 
 Neurologic: Dizziness, drowsiness, amblyopia
@@ -53,7 +56,7 @@ Cyanosis has been reported rarely.
 Hepatic: Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely (see WARNINGS).
 
 Allergic: Lupus-like syndrome associated with pulmonary reaction to nitrofurantoin has been reported.
-Also, angioedema; maculopapular, erythematous, or eczematous eruptions; anaphylaxis; arthralgia; myalgia; drug fever; and chills have been reported.
+Also, angioedema; maculopapular, erythematous, or eczematous eruptions; anaphylaxis; arthralgia; myalgia; drug fever; chills; and vasculitis (sometimes associated with pulmonary reactions) have been reported.
 Hypersensitivity reactions represent the most frequent spontaneously-reported adverse events in worldwide postmarketing experience with nitrofurantoin formulations.
 
 Dermatologic: Exfoliative dermatitis and erythema multiforme (including Stevens-Johnson syndrome) have been reported rarely.
