@@ -8,14 +8,8 @@ Rx only
 
 HYDROCORTISONE OINTMENT USP, 1%
 
-FOR EXTERNAL USE ONLY
+FOR EXTERNAL USE ONLY NOT FOR OPHTHALMIC USE
 
-NOT FOR OPHTHALMIC USE
+NET WT 453.6 g (1 Lb)
 
-NET WT 453.6 G (1 Lb)
-
-E. FOUGERA & CO.
-
-A division of Fougera Pharmaceuticals Inc.
-
-Melville, New York 11747
+E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
