@@ -30,15 +30,15 @@ Use one new vial with each nebulizer treatment.
 
 Instructions for Use
 
-1. Remove one vial from the foil pouch.
-   Place remaining vials back into foil pouch for storage.
-2. Twist the cap completely off the vial and squeeze the contents into the nebulizer reservoir (Figure 1).
-3. Connect the nebulizer to the mouthpiece or face mask (Figure 2).
-4. Connect the nebulizer to the compressor.
-5. Sit in a comfortable, upright position; place the mouthpiece in your mouth (Figure 3) or put on the face mask (Figure 4); and turn on the compressor.
-6. Breathe as calmly, deeply and evenly as possible through your mouth until no more mist is formed in the nebulizer chamber (about 5-15 minutes).
-   At this point, the treatment is finished.
-7. Clean the nebulizer (see manufacturer's instructions).
+- •Remove one vial from the foil pouch.
+  Place remaining vials back into foil pouch for storage.
+- •Twist the cap completely off the vial and squeeze the contents into the nebulizer reservoir (Figure 1).
+- •Connect the nebulizer to the mouthpiece or face mask (Figure 2).
+- •Connect the nebulizer to the compressor.
+- •Sit in a comfortable, upright position; place the mouthpiece in your mouth (Figure 3) or put on the face mask (Figure 4); and turn on the compressor.
+- •Breathe as calmly, deeply and evenly as possible through your mouth until no more mist is formed in the nebulizer chamber (about 5-15 minutes).
+  At this point, the treatment is finished.
+- •Clean the nebulizer (see manufacturer's instructions).
 
 Dey® A Mylan Company
 

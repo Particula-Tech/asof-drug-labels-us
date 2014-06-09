@@ -24,23 +24,23 @@ What should I tell my child's doctor before giving AccuNeb®?
 
 Tell your child's doctor about all of your child's medical conditions including if your child has:
 
-- Heart problems
-- High blood pressure
-- Seizures
-- A thyroid problem called hyperthyroidism
-- Diabetes
+- •Heart problems
+- •High blood pressure
+- •Seizures
+- •A thyroid problem called hyperthyroidism
+- •Diabetes
 
 Tell your child's doctor about all the medicines your child takes, including prescription and non-prescription medicines, vitamins and herbal supplements.
 AccuNeb® and some other medicines can affect each other and may cause serious side effects.
 Especially tell your child's doctor if your child is taking or using:
 
-- Any short-acting bronchodilator medicines (sometimes called rescue inhalers)
-- Epinephrine
-- Medicines called monoamine oxidase inhibitors (MAOIs) or tricyclic anti-depressants or has stopped taking them in the past 2 weeks.
+- •Any short-acting bronchodilator medicines (sometimes called rescue inhalers)
+- •Epinephrine
+- •Medicines called monoamine oxidase inhibitors (MAOIs) or tricyclic anti-depressants or has stopped taking them in the past 2 weeks.
   These medicines are usually used for mental problems.
-- Medicines called beta-blockers (used for heart problems and high blood pressure)
-- Certain diuretic medicines (water pills)
-- Digoxin
+- •Medicines called beta-blockers (used for heart problems and high blood pressure)
+- •Certain diuretic medicines (water pills)
+- •Digoxin
 
 Know the medicines your child takes.
 Keep a list of them and show it to your child's doctor and pharmacist each time your child gets a new medicine.
@@ -51,44 +51,44 @@ Read the Patient's Instructions for Use that comes with AccuNeb®.
 Ask your pharmacist for these instructions if they are not with your medicine.
 Keep the instructions with AccuNeb® because you may want to read them again.
 
-- Give AccuNeb® exactly as prescribed for your child.
+- •Give AccuNeb® exactly as prescribed for your child.
   Do not change your child's dose or how often it is used without talking to your child's doctor first.
-- AccuNeb® is breathed into the lungs.
+- •AccuNeb® is breathed into the lungs.
   AccuNeb® is used with a special breathing machine called a nebulizer.
   Do not mix other medicines with AccuNeb® in the nebulizer.
   Do not use AccuNeb® that is not clear and colorless.
-- Call your child's doctor or get emergency help right away if your child's breathing is not helped or gets worse during treatment with AccuNeb®.
-- Call your child's doctor right away if your child needs to use AccuNeb® more often than prescribed.
-- AccuNeb® has not been studied for treating acute attacks of bronchospasm (rescue use).
+- •Call your child's doctor or get emergency help right away if your child's breathing is not helped or gets worse during treatment with AccuNeb®.
+- •Call your child's doctor right away if your child needs to use AccuNeb® more often than prescribed.
+- •AccuNeb® has not been studied for treating acute attacks of bronchospasm (rescue use).
   Your child may need a different medicine for rescue use.
-- If you give your child too much AccuNeb®, call your child's doctor right away.
+- •If you give your child too much AccuNeb®, call your child's doctor right away.
 
 What are the side effects with AccuNeb®?
 
 AccuNeb® may cause the following serious side effects:
 
-- Worsening of the tightening and swelling of the muscles around your child's airways (bronchospasm).
+- •Worsening of the tightening and swelling of the muscles around your child's airways (bronchospasm).
   This side effect can be life threatening.
   Call your child's doctor or get emergency help right away if your child's breathing is not helped or gets worse during treatment with AccuNeb®.
-- Serious and life threatening allergic reactions.
+- •Serious and life threatening allergic reactions.
   Symptoms of a serious allergic reaction include:
-  - Hives, rash
-  - Swelling of your child's face, eyelids, lips, tongue, or throat, and trouble swallowing
-  - Worsening of your child's breathing problems such as wheezing, chest tightness or shortness of breath
-  - Shock (loss of blood pressure and consciousness).
+  - •Hives, rash
+  - •Swelling of your child's face, eyelids, lips, tongue, or throat, and trouble swallowing
+  - •Worsening of your child's breathing problems such as wheezing, chest tightness or shortness of breath
+  - •Shock (loss of blood pressure and consciousness).
 
 The most common side effects with AccuNeb® include a fast or irregular heartbeat, chest pain, shakiness, or nervousness.
 
 How should AccuNeb® be stored?
 
-- Store AccuNeb® at room temperature, 36° to 77°F (2° to 25°C) in its tightly closed container.
-- Protect vials from light before use.
+- •Store AccuNeb® at room temperature, 36° to 77°F (2° to 25°C) in its tightly closed container.
+- •Protect vials from light before use.
   Therefore, keep unused vials in the foil pouch or carton.
   Once removed from the foil pouch, use vial(s) within one week.
-- Do not use AccuNeb® after the expiration (EXP) date printed on the vial.
+- •Do not use AccuNeb® after the expiration (EXP) date printed on the vial.
   Do not use AccuNeb® that is not clear and colorless.
-- Safely, discard AccuNeb® that is out-of-date or no longer needed.
-- Keep AccuNeb® and all medicines out of the reach of children.
+- •Safely, discard AccuNeb® that is out-of-date or no longer needed.
+- •Keep AccuNeb® and all medicines out of the reach of children.
 
 General Information about AccuNeb®
 
