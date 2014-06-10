@@ -47,7 +47,7 @@ Encephalopathy (disturbance of consciousness including confusion, hallucinations
 Although most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosage schedules, some cases of neurotoxicity occurred in patients receiving an appropriate dosage adjustment for their degree of renal impairment.
 If neurotoxicity associated with cefepime therapy occurs, consider discontinuing cefepime or making appropriate dosage adjustments in patients with renal impairment.
 
-As with other cephalosporins, anaphylaxis including anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis, and thrombocytopenia have been reported.
+As with other cephalosporins, anaphylaxis including anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis, and thrombocytopenia has been reported.
 
 ## 6.3 Cephalosporin-class Adverse Reactions
 

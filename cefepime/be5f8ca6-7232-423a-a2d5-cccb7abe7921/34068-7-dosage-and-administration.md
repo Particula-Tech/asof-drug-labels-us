@@ -5,17 +5,17 @@
 The recommended adult and pediatric dosages and routes of administration are outlined in Table 1.
 Cefepime Injection should be administered intravenously over approximately 30 minutes.
 
-Table 1: Recommended Dosage Schedule for Cefepime Injection in Patients with CrCL Greater Than 60 mL/min
+Table 1: Recommended Dosage Schedule for Cefepime Injection in Patients with CrCL Greater Than 60 mL/minAdjust dose in patients with CrCL less than or equal to 60 mL/min (2.3)
 
 | Site and Type of Infection | Dose | Frequency | Duration (days) |
 | --- | --- | --- | --- |
 | Adults |  |  |  |
-| Moderate to Severe Pneumonia due to S. pneumoniaeincluding cases associated with concurrent bacteremia, P. aeruginosa, K. pneumoniae, or Enterobacter species | 1-2 g IV | Every 12 hours | 10 |
+| Moderate to Severe Pneumonia due to S. pneumoniaeincluding cases associated with concurrent bacteremia, P. aeruginosaFor Pseudomonas aeruginosa, use 2 g IV every 8 hours (50 mg per kg per dose in pediatric patients 2 months up to 16 years.Ω, K. pneumoniae, or Enterobacter species | 1-2 g IV | Every 8-12 hours | 10 |
 | Empiric therapy for febrile neutropenic patients [see Indications and Usage (1) and Clinical Studies (14)] | 2 g IV | Every 8 hours | 7or until resolution of neutropenia. In patients whose fever resolves but who remain neutropenic for more than 7 days, the need for continued antimicrobial therapy should be re-evaluated frequently. |
 | Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli, K. pneumoniae, or P. mirabilis | 0.5-1 g IV | Every 12 hours | 7-10 |
 | Severe Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli or K. pneumoniae | 2 g IV | Every 12 hours | 10 |
 | Moderate to Severe Uncomplicated Skin and Skin Structure Infections due to S. aureus or S. pyogenes | 2 g IV | Every 12 hours | 10 |
-| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa, K. pneumoniae, Enterobacter species, or B. fragilis. [see Clinical Studies (14)] | 2 g IV | Every 12 hours | 7-10 |
+| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa, K. pneumoniae, Enterobacter species, or B. fragilis. [see Clinical Studies (14)] | 2 g IV | Every 8-12 hours | 7-10 |
 | Pediatric Patients (2 months up to 16 years) |  |  |  |
 | The maximum dose for pediatric patients should not exceed the recommended adult dose. The usual recommended dosage in pediatric patients up to 40 kg in weight for uncomplicated and complicated urinary tract infections (including pyelonephritis), uncomplicated skin and skin structure infections, and pneumonia is 50 mg per kg per dose, administered every 12 hours (50 mg per kg per dose, every 8 hours for febrile neutropenic patients), for durations as given above. Cefepime Injection in GALAXY Container should be used only in pediatric patients who require the entire 1 or 2 g dose and not any fraction thereof. |  |  |  |
 

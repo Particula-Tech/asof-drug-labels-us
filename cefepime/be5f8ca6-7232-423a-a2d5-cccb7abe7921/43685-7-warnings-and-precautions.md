@@ -12,7 +12,7 @@ Serious acute hypersensitivity reactions may require treatment with epinephrine 
 In patients with creatinine clearance less than or equal to 60 mL/min, the dose of Cefepime Injection should be adjusted to compensate for the slower rate of renal elimination.
 Because high and prolonged cefepime concentrations can occur from usual dosages in patients with renal impairment or other conditions that may compromise renal function, the maintenance dosage should be reduced when Cefepime Injection is administered to such patients.
 Continued dosage should be determined by degree of renal impairment, severity of infection, and susceptibility of the causative organisms.
-Refer to specific recommendations for dosing adjustment [See Dosage and Aministration (2)].
+Refer to specific recommendations for dosing adjustment [see Dosage and Administration (2)].
 
 ## 5.3 Neurotoxicity
 

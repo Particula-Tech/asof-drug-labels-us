@@ -5,7 +5,7 @@ Cefepime is an antibacterial agent belonging to the cephalosporin class of antib
 ## 12.1 Mechanism of Action
 
 Cefepime is an antibacterial drug.
-[See Clinical Pharmacology (12.4)]
+[See Microbiology (12.4)]
 
 ## 12.2 Pharmacodynamics
 
@@ -30,7 +30,7 @@ Table 6: Average Plasma Concentrations in mcg/mL of Cefepime and Derived Pharmac
 | 8 h | 1.4 | 2.4 | 3.9 |
 | 12 h | 0.2 | 0.6 | 1.1 |
 | Cmax, mcg/mL | 39.1 (3.5) | 81.7 (5.1) | 163.9 (25.3) |
-| AUC, h∙mcg/mL | 70.8 (6.7) | 148.5 (15.1) | 284.8 (30.6) |
+| AUC, h•mcg/mL | 70.8 (6.7) | 148.5 (15.1) | 284.8 (30.6) |
 | Number of subjects (male) | 9 | 9 | 9 |
 
 Distribution
@@ -97,98 +97,135 @@ The exposure to cefepime following a 50 mg per kg intravenous dose in a pediatri
 
 ## 12.4 Microbiology
 
+Mechanism of Action
+
 Cefepime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.
 Cefepime has a broad spectrum of in vitro activity that encompasses a wide range of Gram-positive and Gram-negative bacteria.
 Cefepime has a low affinity for chromosomally-encoded beta-lactamases.
 Cefepime is highly resistant to hydrolysis by most beta-lactamases and exhibits rapid penetration into Gram-negative bacterial cells.
 Within bacterial cells, the molecular targets of cefepime are the penicillin binding proteins (PBP).
 
-Cefepime has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
+Cefepime has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-- Aerobic Gram-Negative Microorganisms: Enterobacter Escherichia coli Klebsiella pneumoniae Proteus mirabilis Pseudomonas aeruginosa
+Gram-negative bacteria
 
-- Aerobic Gram-Positive Microorganisms: Staphylococcus aureus (methicillin-susceptible isolates only) Streptococcus pneumoniae Streptococcus pyogenes (Lancefield's Group A streptococci) Viridans group streptococci
+Enterobacter spp.
+
+Escherichia coli
+
+Klebsiella pneumoniae
+
+Proteus mirabilis
+
+Pseudomonas aeruginosa
+
+Gram-positive bacteria
+
+Staphylococcus aureus (methicillin-susceptible isolates only)
+
+Streptococcus pneumoniae
+
+Streptococcus pyogenes (Lancefield’s Group A streptococci)
+
+Viridans group streptococci
 
 The following in vitro data are available, but their clinical significance is unknown.
-Cefepime has been shown to have in vitro activity against most isolates of the following microorganisms; however, the safety and effectiveness of cefepime in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled trials.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for cefepime.
+However, the efficacy of cefepime in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
 
-- Aerobic Gram-Positive Microorganisms: Staphylococcus epidermidis (methicillin-susceptible isolates only) Staphylococcus saprophyticus Streptococcus agalactiae (Lancefield's Group B streptococci)
+Gram-positive bacteria
 
-NOTE: Most isolates of enterococci, e.g., Enterococcus faecalis, and methicillin-resistant staphylococci are resistant to cefepime.
+Staphylococcus epidermidis (methicillin-susceptible isolates only)
 
-- Aerobic Gram-Negative Microorganisms: Acinetobacter calcoaceticus subsp. lwoffii Citrobacter diversus Citrobacter freundii Enterobacter agglomerans Haemophilus influenzae (including beta-lactamase producing isolates) Hafnia alvei Klebsiella oxytoca Moraxella catarrhalis (including beta-lactamase producing isolates) Morganella morganii Proteus vulgaris Providencia rettgeri Providencia stuartii Serratia marcescens
+Staphylococcus saprophyticus
+
+Streptococcus agalactiae (Lancefield’s Group B streptococci)
+
+NOTE: Most isolates of enterococci, eg, Enterococcus faecalis, and methicillin-resistant staphylococci are resistant to cefepime.
+
+Gram-negative bacteria
+
+Acinetobacter calcoaceticus subsp. lwoffii
+
+Citrobacter diversus
+
+Citrobacter freundii
+
+Enterobacter agglomerans
+
+Haemophilus influenzae
+
+Hafnia alvei
+
+Klebsiella oxytoca
+
+Moraxella catarrhalis
+
+Morganella morganii
+
+Proteus vulgaris
+
+Providencia rettgeri
+
+Providencia stuartii
+
+Serratia marcescens
 
 NOTE: Cefepime is inactive against many isolates of Stenotrophomonas (formerly Xanthomonas maltophilia and Pseudomonas maltophilia).
 
-- Anaerobic Microorganisms:
+Susceptibility Test Methods
 
-NOTE: Cefepime is inactive against most isolates of Clostridium difficile.
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-Susceptibility Tests
-
-Dilution Techniques
+Dilution techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method2 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of cefepime powder.
-The MIC values should be interpreted according to the following criteria:
+The MICs should be determined using a standardized test method2 (broth and/or agar).
+The MIC should be interpreted according to criteria provided in Table 8.
 
-Table 8
+Diffusion techniques
 
-| Microorganism | Susceptible (S) | Intermediate (I) | Resistant (R) |
-| --- | --- | --- | --- |
-|  | MIC (mcg/mL) |  |  |
-| Microorganisms other than Haemophilus spp.NOTE: Isolates from these species should be tested for susceptibility using specialized dilution testing methods.2 Also, isolates of Haemophilus spp. with MICs greater than 2 mcg/mL should be considered equivocal and should be further evaluated. and Streptococcus pneumoniae | ≤8 | 16 | ≥32 |
-| Haemophilus spp. | ≤2 | – | – |
-| S. pneumoniae | ≤0.5 | 1 | ≥2 |
+Quantitative methods that require the measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+The zone size should be determined using a standardized test method.2,3 This procedure uses paper discs impregnated with 30 mcg cefepime to test the susceptibility of microorganisms to cefepime.
+The disc diffusion interpretive criteria are provided in Table 8.
 
-A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
-A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
+Table 8: Susceptibility Test Interpretive Criteria for CefepimeFor patients with renal impairment see Table 2 in Dosage and Administration (2.2).
 
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Laboratory control microorganisms are specific strains of microbiological assay organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within bacteria; the specific strains are not clinically significant in their current microbiological status.
-Standard cefepime powder should provide the following MIC values (Table 9) when tested against the designated quality control strains:
+| Pathogen | Minimum Inhibitory Concentrations(mcg/mL) |  |  | Disk Diffusion Zone Diameters(mm) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| (S) Susceptible | (I) Intermediate | (R) Resistant | (S) Susceptible | (I) Intermediate | (R) Resistant |  |
+| Enterobacteriaceae | ≤2 | 4-8For isolates of Enterobacteriaceae with intermediate susceptibility, use a dose of 2g every 8 hours in patients with normal renal function. | ≥16 | ≥25 | 19-24 | ≤18 |
+| Pseudomonas aeruginosaFor Pseudomonas aeruginosa, use 2 g IV every 8 hours in patients with normal renal function. | ≤8 | - | ≥16 | ≥18 | - | ≤17 |
+| Streptococcus pneumoniaeFor non-meningitis isolates, a penicillin MIC of < 0.06 mcg/ml (or oxacillin zone > 20mm) can predict susceptibility to cefepime.non-meningitisisolates | ≤1 | 2 | ≥4 | - | - | - |
+| Streptococcus pyogenes | ≤0.5 | - | - | ≥24 | - | - |
+| Viridans group streptococci | ≤1 | 2 | ≥4 | ≥24 | 22-23 | ≤21 |
 
-Table 9
+Susceptibility of staphylococci to cefepime may be deduced from testing only penicillin and either cefoxitin or oxacillin.
 
-| Microorganism | ATCC | MIC (mcg/mL) |
+A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
+A report of Intermediate indicates that the results should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug product is physiologically concentrated or in situations where a high dosage of the drug can be used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of Resistant indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+
+Quality Control
+
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.
+2,3 Standard cefepime powder should provide the following range of MIC values noted in Table 8.
+For the diffusion technique using the 30 mcg disc, the criteria in Table 9 should be achieved.
+
+Table 9: Acceptable Quality Control Ranges for Cefepime
+
+| QC Strain | Minimum Inhibitory | Disk Diffusion |
 | --- | --- | --- |
-| Escherichia coli | 25922 | 0.016–0.12 |
-| Staphylococcus aureus | 29213 | 1–4 |
-| Pseudomonas aeruginosa | 27853 | 1–4 |
-| Haemophilus influenzae | 49247 | 0.5–2 |
-| Streptococcus pneumoniae | 49619 | 0.06–0.25 |
-
-Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure3 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 30 mcg of cefepime to test the susceptibility of microorganisms to cefepime.
-Interpretation is identical to that stated above for results using dilution techniques.
-
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30-mcg cefepime disk should be interpreted according to the following criteria:
-
-Table 10
-
-| Microorganism | Susceptible (S) | Intermediate (I) | Resistant (R) |
-| --- | --- | --- | --- |
-|  | Zone Diameter (mm) |  |  |
-| Microorganisms other than Haemophilus spp.NOTE: Isolates from these species should be tested for susceptibility using specialized diffusion testing methods.3 Isolates of Haemophilus spp. with zones smaller than 26 mm should be considered equivocal and should be further evaluated. Isolates of S. pneumoniae should be tested against a 1-mcg oxacillin disk; isolates with oxacillin zone sizes larger than or equal to 20 mm may be considered susceptible to cefepime. and S. pneumoniae | ≥18 | 15–17 | ≤14 |
-| Haemophilus spp. | ≥26 | – | – |
-
-As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Laboratory control microorganisms are specific strains of microbiological assay organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within bacteria; the specific strains are not clinically significant in their current microbiological status.
-For the diffusion technique, the 30-mcg cefepime disk should provide the following zone diameters in these laboratory test quality control strains (Table 11):
-
-Table 11
-
-| Microorganism | ATCC | Zone Size Range (mm) |
-| --- | --- | --- |
-| Escherichia coli | 25922 | 29–35 |
-| Staphylococcus aureus | 25923 | 23–29 |
-| Pseudomonas aeruginosa | 27853 | 24–30 |
-| Haemophilus influenzae | 49247 | 25–31 |
+|  | Concentrations (mcg/mL) | (zone diameters in mm) |
+| Escherichia coli ATCC 25922 | 0.015 - 0.12 | 31 - 37 |
+| Staphylococcus aureus ATCC 29213 | 1 - 4 | - |
+| Staphylococcus aureus ATCC 25923 | - | 23 - 29 |
+| Pseudomonas aeruginosa ATCC 27853 | 0.5 - 4 | 24 - 30 |
+| Streptococcus pneumoniae ATCC 49619 | 0.03 - 0.25 | 28 - 35 |
+| Neisseria gonorrhoeae ATCC 49226 | 0.015 - 0.06 | 37 - 46 |
+| Haemophilus influenzae ATCC 49247 | 0.5 - 2 | 25 - 31 |
