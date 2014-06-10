@@ -33,18 +33,12 @@ No. 6543 — with code MSD 275 on one side and SINGULAIR on the other:
 
 NDC 0006-9275-31 unit of use high-density polyethylene (HDPE) bottles of 30 with a polypropylene child-resistant cap, an aluminum foil induction seal, and silica gel desiccant
 
-NDC 0006-9275-54 unit of use high-density polyethylene (HDPE) bottles of 90 with a polypropylene child-resistant cap, an aluminum foil induction seal, and silica gel desiccant
-
-NDC 0006-9275-82 bulk packaging high-density polyethylene (HDPE) bottles of 1000 with a non-child-resistant white plastic closure with a wax paper/pulp liner, an aluminum foil induction seal, and silica gel desiccant.
+NDC 0006-9275-54 unit of use high-density polyethylene (HDPE) bottles of 90 with a polypropylene child-resistant cap, an aluminum foil induction seal, and silica gel desiccant.
 
 SINGULAIR Tablets, 10 mg, are beige, rounded square-shaped, film-coated tablets.
 They are supplied as either No. 3761 or No. 6558:
 
 No. 3761 — with code MRK 117 on one side and SINGULAIR on the other:
-
-NDC 0006-0117-31 unit of use high-density polyethylene (HDPE) bottles of 30 with a polypropylene child-resistant cap, an aluminum foil induction seal, and silica gel desiccant
-
-NDC 0006-0117-54 unit of use high-density polyethylene (HDPE) bottles of 90 with a polypropylene child-resistant cap, an aluminum foil induction seal, and silica gel desiccant
 
 NDC 0006-0117-28 unit dose paper and aluminum foil-backed aluminum foil peelable blister pack of 100.
 

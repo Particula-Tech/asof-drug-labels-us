@@ -160,6 +160,7 @@ Other side effects with SINGULAIR include:
 - hepatitis
 - bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
 - joint pain, muscle aches and muscle cramps
+- bedwetting in children
 - tiredness, swelling
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.

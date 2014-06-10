@@ -111,6 +111,8 @@ Skin and subcutaneous tissue disorders: angioedema, bruising, erythema multiform
 
 Musculoskeletal and connective tissue disorders: arthralgia, myalgia including muscle cramps.
 
+Renal and urinary disorders: enuresis in children.
+
 General disorders and administration site conditions: edema.
 
 Patients with asthma on therapy with SINGULAIR may present with systemic eosinophilia, sometimes presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition which is often treated with systemic corticosteroid therapy.
