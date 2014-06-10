@@ -2,4 +2,4 @@ Single-Dose Vial
 
 Not For Intravenous Use
 
-LAB-0160-7.0 February 2012
+LAB-0160-8.0 May 2014
