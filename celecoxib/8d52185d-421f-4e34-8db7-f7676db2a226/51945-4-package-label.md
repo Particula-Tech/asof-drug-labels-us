@@ -4,13 +4,13 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Pfizer
 
-NDC 0025-1515-01 Rx only
+NDC 0025-1515-01
 
 Celebrex® celecoxib capsules
 
 50 mg
 
-60 Capsules
+60 Capsules Rx only
 
 PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
 
@@ -18,13 +18,13 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Pfizer
 
-NDC 0025-1520-31 Rx only
+NDC 0025-1520-31
 
 Celebrex® celecoxib capsules
 
 100 mg
 
-100 Capsules
+100 Capsules Rx only
 
 PRINCIPAL DISPLAY PANEL - 100 mg Blister Pack
 
@@ -57,13 +57,13 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Pfizer
 
-NDC 0025-1525-31 Rx only
+NDC 0025-1525-31
 
 Celebrex® celecoxib capsules
 
 200 mg
 
-100 Capsules
+100 Capsules Rx only
 
 PRINCIPAL DISPLAY PANEL - 200 mg Blister Pack
 
@@ -96,13 +96,13 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 Pfizer
 
-NDC 0025-1530-02 Rx only
+NDC 0025-1530-02
 
 Celebrex® celecoxib capsules
 
 400 mg
 
-60 Capsules
+60 Capsules Rx only
 
 PRINCIPAL DISPLAY PANEL - 400 mg Blister Pack
 
