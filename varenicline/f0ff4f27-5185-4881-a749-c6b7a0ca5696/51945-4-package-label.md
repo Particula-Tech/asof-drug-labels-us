@@ -8,7 +8,7 @@ CHANTIX® (varenicline) TABLETS
 
 Use the Starting Week (green) blister card first when beginning to take Chantix.
 
-Contains: 1 Starting Week (0.5* x 11 tablets) 1 Continuing Week (1 mg† x 14 tablets)
+Contains: 1 Starting Week (0.5 mg* x 11 tablets) 1 Continuing Week (1 mg† x 14 tablets)
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
