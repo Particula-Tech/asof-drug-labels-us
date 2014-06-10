@@ -46,6 +46,6 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 
 PHARMACIST: Dispense a Medication Guide with each prescription.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JULY 2008 DXPN:R26mc
+REVISED MAY 2014 DXPN:R27mc

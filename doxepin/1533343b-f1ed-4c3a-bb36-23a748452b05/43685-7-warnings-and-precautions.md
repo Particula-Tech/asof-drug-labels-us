@@ -51,6 +51,10 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that doxepin is not approved for use in treating bipolar depression.
 
+## Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including doxepin hydrochloride capsules may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
 ## Geriatric Use
 
 The use of doxepin on a once a day dosage regimen in geriatric patients should be adjusted carefully based on the patient's condition (see PRECAUTIONS: Geriatric Use).
@@ -84,6 +88,11 @@ Patients, their families and their caregivers should be encouraged to be alert t
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day to day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
+
+Patients should be advised that taking doxepin hydrochloride capsules can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
 ## Drug Interactions
 
