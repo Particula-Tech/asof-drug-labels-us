@@ -51,6 +51,10 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that chlordiazepoxide and amitriptyline is not approved for use in treating bipolar depression.
 
+## Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including chlordiazepoxide and amitriptyline hydrochloride may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
 ## General
 
 Because of the atropine like action of the amitriptyline component, great care should be used in treating patients with a history of urinary retention or angle closure glaucoma.
@@ -101,6 +105,11 @@ Patients should be given the opportunity to discuss the contents of the Medicati
 The complete text of the Medication Guide is reprinted at the end of this document.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking chlordiazepoxide and amitriptyline.
+
+Patients should be advised that taking chlordiazepoxide and amitriptyline hydrochloride can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
 ### Clinical Worsening and Suicide Risk
 

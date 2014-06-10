@@ -15,10 +15,10 @@ Its structural formula is:
 
 Each tablet for oral administration contains:
 
-5 mg of chlordiazepoxide, and 12.5 mg of amitriptyline (as the hydrochloride salt)
+5 mg of chlordiazepoxide and 12.5 mg of amitriptyline (as the hydrochloride salt)
 
 or
 
-10 mg of chlordiazepoxide and 25 mg of amitriptyline (as the hydrochloride salt) and the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch, sodium lauryl sulfate, and titanium dioxide.
+10 mg of chlordiazepoxide and 25 mg of amitriptyline (as the hydrochloride salt) and the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch (corn), sodium lauryl sulfate, and titanium dioxide.
 
-In addition, the 5 mg/12.5 mg product contains D&C Yellow No. 10 aluminum lake, FD&C Blue No. 1 aluminum lake and FD&C Yellow No. 6 aluminum lake and the 10 mg/25 mg product contains calcium sulfate and talc.
+In addition, the 5 mg/12.5 mg product contains D&C Yellow No. 10 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake and FD&C Yellow No. 6 Aluminum Lake and the 10 mg/25 mg product contains calcium sulfate and talc.

@@ -2,9 +2,9 @@ PRINCIPAL DISPLAY PANEL - 5 mg/12.5 mg
 
 NDC 0378-0211-01
 
-Chlordiazepoxide and Amitriptyline HCl Tablets, USP CIV 5 mg/ 12.5mg*
+Chlordiazepoxide and Amitriptyline HCl Tablets, USP CIV 5 mg/ 12.5 mg*
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 *Each film-coated tablet contains 5 mg of chlordiazepoxide, USP and 12.5 mg of amitriptyline, USP (as the hydrochloride salt).
 
@@ -23,15 +23,15 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0211A10
+RM0211A11
 
 PRINCIPAL DISPLAY PANEL - 10 mg/25 mg
 
 NDC 0378-0277-01
 
-Chlordiazepoxide and Amitriptyline HCl Tablets, USP CIV 10 mg/ 25mg*
+Chlordiazepoxide and Amitriptyline HCl Tablets, USP CIV 10 mg/ 25 mg*
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 *Each film-coated tablet contains 10 mg of chlordiazepoxide, USP and 25 mg of amitriptyline, USP (as the hydrochloride salt).
 
@@ -50,4 +50,4 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0277A10
+RM0277A11

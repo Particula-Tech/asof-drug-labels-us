@@ -38,7 +38,7 @@ Emesis is contraindicated.
 
 A maximal limb lead QRS duration of ≥ 0.10 seconds may be the best indication of the severity of the overdose.
 Serum alkalinization, to a pH of 7.45 to 7.56, using intravenous sodium bicarbonate and hyperventilation (as needed) should be instituted for patients with dysrhythmias and/or QRS widening.
-A pH > 7.60 or a pCO2< 20 mm Hg is undesirable.
+A pH > 7.60 or a pCO2 < 20 mm Hg is undesirable.
 Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium or phenytoin.
 Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide and procainamide).
 
