@@ -7,7 +7,7 @@ DEPO-MEDROL Sterile Aqueous Suspension is available in the following strengths a
 | 5 mL multidose vials | NDC 0009-0274-01 |
 | 40 mg per mL |  |
 | 5 mL multidose vials | NDC 0009-0280-02 |
-| 25 × mL multidose vials | NDC 0009-0280-51 |
+| 25 × 5 mL multidose vials | NDC 0009-0280-51 |
 | 10 mL multidose vials | NDC 0009-0280-03 |
 | 25 × 10 mL multidose vials | NDC 0009-0280-52 |
 | 80 mg per mL |  |

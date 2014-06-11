@@ -1,5 +1,12 @@
 # WARNINGS
 
+## Serious Neurologic Adverse Reactions with Epidural Administration
+
+Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids.
+Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke.
+These serious neurologic events have been reported with and without use of fluoroscopy.
+The safety and effectiveness of epidural administration of corticosteroids have not been established, and corticosteroids are not approved for this use.
+
 ## General
 
 This product contains benzyl alcohol, which is potentially toxic when administered locally to neural tissue.
@@ -287,6 +294,11 @@ There are no adequate and well-controlled studies in pregnant women.
 Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Infants born to mothers who have received corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism.
 
+This product contains benzyl alcohol as a preservative.
+
+Benzyl alcohol can cross the placenta.
+See PRECAUTIONS: Pediatric use.
+
 ## Nursing Mothers
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
@@ -298,7 +310,8 @@ This product contains benzyl alcohol as a preservative.
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
 The "gasping syndrome" (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth-weight neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Although normal therapeutic doses of this product ordinarily delivers amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
 Premature and low-birth-weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
 Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 
