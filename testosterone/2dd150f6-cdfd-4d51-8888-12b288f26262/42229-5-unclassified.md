@@ -1,0 +1,5 @@
+Distributed By UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+
+MADE IN CANADA
+
+Revised: 06/2014

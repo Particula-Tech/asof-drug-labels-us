@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA204399"
+  ],
+  "inn": "testosterone",
+  "labeler": "Upsher-Smith Laboratories, Inc.",
+  "package_ndcs": [
+    "0245-0871-05",
+    "0245-0871-35",
+    "0245-0871-65",
+    "0245-0871-89",
+    "0245-0872-40",
+    "0245-0872-42"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "testosterone",
+      "name": "VOGELXO"
+    },
+    {
+      "form": "GEL, METERED",
+      "generic": "testosterone",
+      "name": "VOGELXO"
+    }
+  ],
+  "setid": "2dd150f6-cdfd-4d51-8888-12b288f26262",
+  "source": "dailymed"
+}
