@@ -58,7 +58,10 @@ Patients should be asked to report pregnancies to their physicians as soon as po
 
 ## Drug Interactions
 
-No significant drug-drug pharmacokinetic (or pharmacodynamic) interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, and nifedipine.
+### Lithium
+
+Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of irbesartan or thiazide diuretics.
+Monitor lithium levels in patients receiving Avapro and lithium.
 
 In vitro studies show significant inhibition of the formation of oxidized irbesartan metabolites with the known cytochrome CYP 2C9 substrates/inhibitors sulphenazole, tolbutamide and nifedipine.
 However, in clinical studies the consequences of concomitant irbesartan on the pharmacodynamics of warfarin were negligible.
@@ -81,6 +84,9 @@ The antihypertensive effect of angiotensin II receptor antagonists, including ir
 
 Dual blockade of the RAS with angiotensin-receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Closely monitor blood pressure, renal function, and electrolytes in patients on AVAPRO and other agents that affect the RAS.
+
+In most patients no benefit has been associated with using two RAS inhibitors concomitantly.
+In general, avoid combined use of RAS inhibitors.
 
 Do not coadminister aliskiren with AVAPRO in patients with diabetes.
 Avoid use of aliskiren with AVAPRO in patients with renal impairment (GFR <60 mL/min).
