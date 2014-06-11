@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Orfadin capsules are white and marked in black with "NTBC" and identified as 2 mg, 5 mg or 10 mg strengths of nitisinone.
+ORFADIN capsules are white and marked in black with "NTBC" and identified as 2 mg, 5 mg or 10 mg strengths of nitisinone.
 The capsules are packed in a high density (HD) polyethylene container with a tamper-resistant low density (LD) polyethylene snap-on cap.
 Each bottle contains 60 capsules.
 

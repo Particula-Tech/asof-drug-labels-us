@@ -2,7 +2,20 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects: Pregnancy Category C.
+Category C.
+
+Risk Summary
+
+There are no adequate and well-controlled studies with ORFADIN in pregnant women.
+However, animal reproduction studies have been conducted for nitisinone.
+In these studies, nitisinone was administered to mice and rabbits during organogenesis with oral doses of nitisinone up to 20 and 8 times respectively, the recommended human dose.
+In mice, nitisinone caused incomplete skeletal ossification of fetal bones and decreased pup survival at doses 0.4 times the recommended human dose, and increased gestational length at doses 4 times the recommended human dose.
+In rabbits, nitisinone caused maternal toxicity and incomplete skeletal ossification of fetal bones at doses 1.6 times the recommended human dose.
+ORFADIN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Data
+
+Animal Data
 
 Reproduction studies have been performed in mice at oral doses of about 0.4, 4 and 20 times the recommended human dose (1 mg/kg/day) and in rabbits at oral doses of about 1.6, 4 and 8 times the recommended human dose based on the body surface area.
 In mice, nitisinone has been shown to cause incomplete skeletal ossification of fetal bones at 0.4, 4 and 20 times the recommended human dose, increased gestational length at 4 and 20 times the recommended human dose, and decreased pup survival at 0.4 times the recommended human dose based on the body surface area.
@@ -12,14 +25,13 @@ Nitisinone should be used during pregnancy only if the potential benefit justifi
 
 ## 8.3 Nursing Mothers
 
-Although the exposure was not quantified naive pups that were exposed to Orfadin via breast milk showed signs of ocular toxicity and lower body weight.
-This suggests that Orfadin is excreted via breast milk in rats.
-It is not known whether Orfadin is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Orfadin is administered to a nursing woman.
+It is not known whether ORFADIN is present in human milk.
+Data suggest that nitisinone is present in rat milk due to findings of ocular toxicity and lower body weight seen in drug naive nursing rat pups.
+Because of the potential for serious adverse reactions in nursing infants from ORFADIN, a decision should be made to discontinue nursing or to discontinue the drug taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
-Pediatric patients with HT-1, ages birth to 17 years have been treated with Orfadin in one open-label, uncontrolled clinical study [see Clinical Studies (14.1)].
+Pediatric patients with HT-1, ages birth to 17 years have been treated with ORFADIN in one open-label, uncontrolled clinical study [see Clinical Studies (14.1)].
 Monitoring of blood and urine succinylacetone levels are recommended in the children to ensure adequate control [see Dosage and Administration (2)].
 A nutritionist skilled in managing children with inborn errors of metabolism should be employed to design a low-protein diet deficient in tyrosine and phenylalanine.
 
@@ -33,12 +45,12 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Hepatic or Renal Impairment
 
 The effect of hepatic dysfunction on the pharmacokinetics of nitisinone has not been studied.
-The effect of renal insufficiency on the pharmacokinetics of Orfadin has not been studied.
+The effect of renal insufficiency on the pharmacokinetics of ORFADIN has not been studied.
 
 ## 8.7 Gender Effect
 
-The effect of gender on the pharmacokinetics of Orfadin has not been studied.
+The effect of gender on the pharmacokinetics of ORFADIN has not been studied.
 
 ## 8.8 Race Effect
 
-The effect of race on the pharmacokinetics of Orfadin has not been studied.
+The effect of race on the pharmacokinetics of ORFADIN has not been studied.

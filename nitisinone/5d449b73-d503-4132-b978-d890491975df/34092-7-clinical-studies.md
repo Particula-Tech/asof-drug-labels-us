@@ -2,9 +2,9 @@
 
 ## 14.1 Clinical Studies in HT-1
 
-The efficacy and safety of Orfadin in patients with HT-1 were evaluated in one open-label, uncontrolled study of 207 patients with HT-1, ages 0 to 21.7 years at enrollment (median age 9 months).
+The efficacy and safety of ORFADIN in patients with HT-1 were evaluated in one open-label, uncontrolled study of 207 patients with HT-1, ages 0 to 21.7 years at enrollment (median age 9 months).
 Patients were diagnosed with HT-1 by the presence of succinylacetone in the urine or plasma.
-All patients were treated with Orfadin at a starting dose of 0.6 to 1 mg/kg/day, and the dose was increased in some patients to 2 mg/kg/day based on weight, liver and kidney function tests, platelet count, serum amino acids, urinary phenolic acid, plasma and urine succinylacetone, erythrocyte PBG-synthase, and urine 5-ALA.
+All patients were treated with ORFADIN at a starting dose of 0.6 to 1 mg/kg/day, and the dose was increased in some patients to 2 mg/kg/day based on weight, liver and kidney function tests, platelet count, serum amino acids, urinary phenolic acid, plasma and urine succinylacetone, erythrocyte PBG-synthase, and urine 5-ALA.
 The median duration of treatment was 22 months (range less than 1 month to 80 months).
 Efficacy was assessed by comparison of survival and incidence of liver transplant to historical controls.
 
