@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Risks Related To Sudden Withdrawal Of Gablofen
+## 17.1 Risks Related to Sudden Withdrawal of Gablofen
 
 Advise patients and caregivers that sudden withdrawal of Gablofen, regardless of the cause, can result in serious complications that include high fever, confusion, muscle stiffness, multiple organ-system failure, and death.
 Inform patients that early symptoms of Gablofen withdrawal may include increased spasticity, itching, and tingling of extremities.
@@ -15,7 +15,7 @@ Instruct patients and caregivers that if they miss their scheduled pump refill, 
 Inform patients and their caregivers that Gablofen overdose may occur suddenly or insidiously, and that symptoms may include confusion, drowsiness, lightheadedness, dizziness, slow or shallow breathing, seizures, loss of muscle tone, loss of consciousness, and coma.
 If an overdose appears likely, patients should be brought immediately to a hospital for assessment and possible emptying of the pump.
 
-## 17.3 Operation Of Automobiles And Other Dangerous Machinery
+## 17.3 Operation of Automobiles and Other Dangerous Machinery
 
 Advise patients that Gablofen may cause drowsiness, and that they should exercise caution regarding the operation of automobiles or other dangerous machinery, or activities made hazardous by decreased alertness.
 
@@ -24,24 +24,11 @@ Advise patients that Gablofen may cause drowsiness, and that they should exercis
 Inform patients and their caregivers that the drowsiness associated with Gablofen use can be worsened by alcohol and other CNS depressants.
 Advise patients to read all medicine labels carefully, and to tell their physician about all prescription and nonprescription drugs they may use.
 
-Manufactured by:
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and, except as otherwise stated, other brands are trademarks of a Mallinckrodt company.
+SynchroMed is a trademark of Medtronic, Inc. © 2013 Mallinckrodt.
 
-CANGENE bioPharma, Inc.
+Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-1111 S. Paca Street
+Issued 10/2013 P/N: 750-05421
 
-Baltimore MD 21230-2591 USA
-
-Manufactured for:
-
-CNS THERAPEUTICS
-
-CNS Therapeutics Inc.
-
-332 Minnesota Street, Suite W1750
-
-St. Paul MN 55101 USA
-
-© CNS Therapeutics, Inc. 2010-2012
-
-All Rights Reserved
+Mallinckrodt™ Pharmaceuticals

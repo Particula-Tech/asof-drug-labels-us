@@ -1,32 +1,32 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## 6.1 Spasticity of Spinal Cord Origin:
+## 6.1 Spasticity of Spinal Cord Origin
 
-Commonly Observed in Patients with Spasticity of Spinal Origin — In pre- and post-marketing clinical trials, the most commonly observed adverse reactions associated with use of intrathecal baclofen which were not seen at an equivalent incidence among placebo- treated patients were: somnolence, dizziness, nausea, hypotension, headache, convulsions and hypotonia.
+Commonly Observed in Patients with Spasticity of Spinal Origin — In pre- and post-marketing clinical trials, the most commonly observed adverse reactions associated with use of intrathecal baclofen which were not seen at an equivalent incidence among placebo-treated patients were: somnolence, dizziness, nausea, hypotension, headache, convulsions and hypotonia.
 
-Associated with Discontinuation of Treatment — 8/474 patients with spasticity of spinal cord origin receiving long term infusion of intrathecal baclofen in pre- and post- marketing clinical studies in the U. S. discontinued treatment due to adverse reactions.
+Associated with Discontinuation of Treatment — 8/474 patients with spasticity of spinal cord origin receiving long term infusion of intrathecal baclofen in pre- and post-marketing clinical studies in the U.S. discontinued treatment due to adverse reactions.
 These include: pump pocket infections (3), meningitis (2), wound dehiscence (1), gynecological fibroids (1) and pump overpressurization (1) with unknown, if any, sequela.
 Eleven patients who developed coma secondary to overdose had their treatment temporarily suspended, but all were subsequently re-started and were not, therefore, considered to be true discontinuations.
 
 Fatalities [see Warnings and Precautions (5.6)].
 
 Incidence in Controlled Trials — Experience with intrathecal baclofen obtained in parallel, placebo-controlled, randomized studies provides only a limited basis for estimating the incidence of adverse reactions because the studies were of very brief duration (up to three days of infusion) and involved only a total of 63 patients.
-The following events occurred among the 31 patients receiving intrathecal baclofen in two randomized, placebo- controlled trials: hypotension (2), dizziness (2), headache (2), dyspnea (1).
+The following events occurred among the 31 patients receiving intrathecal baclofen in two randomized, placebo-controlled trials: hypotension (2), dizziness (2), headache (2), dyspnea (1).
 No adverse reactions were reported among the 32 patients receiving placebo in these studies.
 
 Events Observed during the Pre- and Post-marketing Evaluation of Intrathecal Baclofen — Adverse events associated with the use of intrathecal baclofen reflect experience gained with 576 patients followed prospectively in the United States.
-They received intrathecal baclofen for periods of one day (screening) (N = 576) to over eight years (maintenance) (N = 10).
+They received intrathecal baclofen for periods of one day (screening) (N=576) to over eight years (maintenance) (N=10).
 The usual screening bolus dose administered prior to pump implantation in these studies was typically 50 mcg.
 The maintenance dose ranged from 12 mcg to 2,003 mcg per day.
 Because of the open, uncontrolled nature of the experience, a causal linkage between events observed and the administration of intrathecal baclofen cannot be reliably assessed in many cases and many of the adverse reactions reported are known to occur in association with the underlying conditions being treated.
-Nonetheless, many of the more commonly reported reactions— hypotonia, somnolence, dizziness, paresthesia, nausea/vomiting and headache— appear clearly drug-related.
+Nonetheless, many of the more commonly reported reactions — hypotonia, somnolence, dizziness, paresthesia, nausea/vomiting and headache — appear clearly drug-related.
 
 Adverse experiences reported during all U.S. studies (both controlled and uncontrolled) are shown in Table 1.
 Eight of 474 patients who received chronic infusion via implanted pumps had adverse experiences which led to a discontinuation of long term treatment in the pre- and post-marketing studies.
 
 Table 1: INCIDENCE OF MOST FREQUENT (≥1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF SPINAL ORIGIN IN PROSPECTIVELY MONITORED CLINICAL TRIALS
 
-| Adverse Event | Percent N=576 Screeninga | Percent N=474 Titrationb | Percent N=430 Maintenancec |
+| Adverse Event | Percent N=576 Screening* | Percent N=474 Titration† | Percent N=430 Maintenance‡ |
 | --- | --- | --- | --- |
 | Hypotonia | 5.4 | 13.5 | 25.3 |
 | Somnolence | 5.7 | 5.9 | 20.9 |
@@ -65,11 +65,8 @@ Table 1: INCIDENCE OF MOST FREQUENT (≥1%) ADVERSE EVENTS IN PATIENTS WITH SPAS
 | Dysautonomia | 0.2 | 0.2 | 0.9 |
 | Hallucinations | 0.3 | 0.4 | 0.5 |
 | Hypertension | 0.2 | 0.6 | 0.5 |
-| a Following administration of test bolus |  |  |  |
-| b Two month period following implant |  |  |  |
-| c Beyond two months following implant |  |  |  |
-| N=Total number of patients entering each period |  |  |  |
-| %=% of patients evaluated |  |  |  |
+
+*Following administration of test bolus † Two month period following implant ‡ Beyond two months following implant N=Total number of patients entering each period %=% of patients evaluated
 
 In addition to the more common (1% or more) adverse reactions reported in the prospectively followed 576 domestic patients in pre- and post-marketing studies, experience from an additional 194 patients exposed to intrathecal baclofen from foreign studies has been reported.
 The following adverse reactions, not described in the table, and arranged in decreasing order of frequency, and classified by body system, were reported:
@@ -108,10 +105,10 @@ See Warnings on other deaths reported in spinal spasticity patients.
 Incidence in Controlled Trials — Experience with intrathecal baclofen obtained in parallel, placebo-controlled, randomized studies provides only a limited basis for estimating the incidence of adverse reactions because the studies involved a total of 62 patients exposed to a single 50 mcg intrathecal bolus.
 The following events occurred among the 62 patients receiving intrathecal baclofen in two randomized, placebo-controlled trials involving cerebral palsy and head injury patients, respectively: agitation, constipation, somnolence, leukocytosis, nausea, vomiting, nystagmus, chills, urinary retention, and hypotonia.
 
-Events Observed during the Pre-marketing Evaluation of Intrathecal Baclofen — Adverse events associated with the use of intrathecal baclofen reflect experience gained with a total of 211 U. S. patients with spasticity of cerebral origin, of whom 112 were pediatric patients (under age 16 at enrollment).
-They received intrathecal baclofen for periods of one day (screening) (N= 211) to 84 months (maintenance) (N= 1).
-The usual screening bolus dose administered prior to pump implantation in these studies was 50 mcg - 75 mcg.
-The maintenance dose ranged from 22 mcg/day to 1,400 mcg/day.
+Events Observed during the Pre-marketing Evaluation of Intrathecal Baclofen — Adverse events associated with the use of intrathecal baclofen reflect experience gained with a total of 211 U.S. patients with spasticity of cerebral origin, of whom 112 were pediatric patients (under age 16 at enrollment).
+They received intrathecal baclofen for periods of one day (screening) (N=211) to 84 months (maintenance) (N=1).
+The usual screening bolus dose administered prior to pump implantation in these studies was 50 mcg to 75 mcg.
+The maintenance dose ranged from 22 mcg to 1,400 mcg per day.
 Doses used in this patient population for long term infusion are generally lower than those required for patients with spasticity of spinal cord origin.
 
 Because of the open, uncontrolled nature of the experience, a causal linkage between events observed and the administration of intrathecal baclofen cannot be reliably assessed in many cases.
@@ -122,7 +119,7 @@ Nine patients discontinued long term treatment due to adverse reactions.
 
 Table 2: INCIDENCE OF MOST FREQUENT (≥ 1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF CEREBRAL ORIGIN
 
-| Adverse Event | Percent N=211 Screeninga | Percent N=153 Titrationb | Percent N=150 Maintenancec |
+| Adverse Event | Percent N=211 Screening* | Percent N=153 Titration† | Percent N=150 Maintenance‡ |
 | --- | --- | --- | --- |
 | Hypotonia | 2.4 | 14.4 | 34.7 |
 | Somnolence | 7.6 | 10.5 | 18.7 |
@@ -155,10 +152,9 @@ Table 2: INCIDENCE OF MOST FREQUENT (≥ 1%) ADVERSE EVENTS IN PATIENTS WITH SPA
 | Tremor | 0.5 | 0.0 | 1.3 |
 | Urinary Incontinence | 0.0 | 0.0 | 2.0 |
 | Urination Impaired | 0.0 | 0.0 | 2.0 |
-| a Following administration of test bolus |  |  |  |
-| b Two month period following implant |  |  |  |
-| c Beyond two months following implant |  |  |  |
-| N=Total number of patients entering each period. 211 patients received drug; (1 of 212) received placebo only |  |  |  |
+
+* Following administration of test bolus † Two month period following implant ‡ Beyond two months following implant N=Total number of patients entering each period.
+211 patients received drug; (1 of 212) received placebo only
 
 The more common (1% or more) adverse reactions reported in the prospectively followed 211 patients exposed to intrathecal baclofen have been reported.
 In the total cohort, the following adverse reactions, not described in Table 2, and arranged in decreasing order of frequency, and classified by body system, were reported:

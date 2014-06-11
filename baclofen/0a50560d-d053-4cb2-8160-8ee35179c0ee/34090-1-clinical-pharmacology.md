@@ -23,8 +23,8 @@ Pediatric Patients: The onset, peak response and duration of action is similar t
 
 Continuous Infusion:
 
-Adult Patients: Intrathecal baclofen's antispastic action is first seen at 6 hours to 8 hours after initiation of continuous infusion.
-Maximum activity is observed in 24 hours to 48 hours.
+Adult Patients: Intrathecal baclofen's antispastic action is first seen at 6 to 8 hours after initiation of continuous infusion.
+Maximum activity is observed in 24 to 48 hours.
 
 Pediatric Patients: No additional information on continuous infusions is available for pediatric patients.
 
@@ -34,9 +34,9 @@ The pharmacokinetics of cerebrospinal fluid (CSF) clearance of intrathecal baclo
 
 Intrathecal Bolus: After a bolus lumbar injection of 50 mcg or 100 mcg intrathecal baclofen in seven patients, the average CSF elimination half-life was 1.51 hours over the first four hours and the average CSF clearance was approximately 30 mL/hour.
 
-Continuous Infusion: The mean CSF clearance for intrathecal baclofen was approximately 30 mL/ hour in a study involving ten patients on continuous intrathecal infusion.
-Concurrent plasma concentrations of baclofen during intrathecal administration are expected to be low (0 ng/mL to 5 ng/mL).
+Continuous Infusion: The mean CSF clearance for intrathecal baclofen was approximately 30 mL/hour in a study involving ten patients on continuous intrathecal infusion.
+Concurrent plasma concentrations of baclofen during intrathecal administration are expected to be low (0 to 5 ng/mL).
 Limited pharmacokinetic data suggest that a lumbar-cisternal concentration gradient of about 4:1 is established along the neuroaxis during baclofen infusion.
 This is based upon simultaneous CSF sampling via cisternal and lumbar tap in 5 patients receiving continuous baclofen infusion at the lumbar level at doses associated with therapeutic efficacy; the interpatient variability was great.
 The gradient was not altered by position.
-Six pediatric patients (age 8 years to 18 years) receiving continuous intrathecal baclofen infusion at doses of 77 mcg/day to 400 mcg/day had plasma baclofen levels near or below 10 ng/mL.
+Six pediatric patients (age 8 to 18 years) receiving continuous intrathecal baclofen infusion at doses of 77 to 400 mcg/day had plasma baclofen levels near or below 10 ng/mL.

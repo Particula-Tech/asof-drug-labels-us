@@ -1,8 +1,8 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risk of life-threatening overdose during pump refills
+## 5.1 Risk of Life-Threatening Overdose During Pump Refills
 
-Use extreme caution when filling the Medtronic SynchroMed® II Programmable pump which is equipped with an injection port that allows direct access to the intrathecal catheter.
+Use extreme caution when filling the Medtronic SynchroMed® II Programmable Pump which is equipped with an injection port that allows direct access to the intrathecal catheter.
 Direct injection into the catheter through the catheter access port may cause a life-threatening overdose.
 
 Reservoir refilling must be performed by fully trained and qualified personnel following the directions provided by the pump manufacturer.
@@ -11,7 +11,7 @@ Carefully calculate refill intervals to prevent depletion of the reservoir, as t
 Strict aseptic technique in filling is required to avoid bacterial contamination and serious infection.
 A period of observation appropriate to the clinical situation should follow each refill or manipulation of the drug reservoir.
 
-## 5.2 Prescriber, caregiver and patient training and screening procedure/post-implantation environment
+## 5.2 Prescriber, Caregiver and Patient Training and Screening Procedure/Post-implantation Environment
 
 Gablofen is for use in single bolus intrathecal injections (via a catheter placed in the lumbar intrathecal space or injection by lumbar puncture) and in the implantable Medtronic SynchroMed® II Programmable Pump or other pumps labeled for intrathecal administration of Gablofen (baclofen injection).
 Because of the possibility of potentially life-threatening CNS depression, cardiovascular collapse, and/or respiratory failure, physicians must be adequately trained and educated in chronic intrathecal infusion therapy.
@@ -58,14 +58,14 @@ All patients receiving intrathecal baclofen therapy are potentially at risk for 
 Early symptoms of baclofen withdrawal may include return of baseline spasticity, pruritus, hypotension, and paresthesias.
 Some clinical characteristics of the advanced intrathecal baclofen withdrawal syndrome may resemble autonomic dysreflexia, infection (sepsis), malignant hyperthermia, neuroleptic-malignant syndrome, or other conditions associated with a hypermetabolic state or widespread rhabdomyolysis.
 
-Rapid, accurate diagnosis and treatment in an emergency-room or intensive- care setting are important in order to prevent the potentially life-threatening central nervous system and systemic effects of intrathecal baclofen withdrawal.
+Rapid, accurate diagnosis and treatment in an emergency-room or intensive-care setting are important in order to prevent the potentially life-threatening central nervous system and systemic effects of intrathecal baclofen withdrawal.
 The suggested treatment for intrathecal baclofen withdrawal is the restoration of intrathecal baclofen at or near the same dosage as before therapy was interrupted.
 However, if restoration of intrathecal delivery is delayed, treatment with GABA-ergic agonist drugs such as oral or enteral baclofen, or oral, enteral, or intravenous benzodiazepines may prevent potentially fatal sequelae.
 Oral or enteral baclofen alone should not be relied upon to halt the progression of intrathecal baclofen withdrawal.
 
 Seizures have been reported during overdose and with withdrawal from intrathecal baclofen as well as in patients maintained on therapeutic doses of intrathecal baclofen.
 
-## 5.5 Possible exacerbation of psychotic disorders, schizophrenia, or confusional states
+## 5.5 Possible Exacerbation of Psychotic Disorders, Schizophrenia, or Confusional States
 
 Patients suffering from psychotic disorders, schizophrenia, or confusional states should be treated cautiously with Gablofen and kept under careful surveillance, because exacerbations of these conditions have been observed with oral administration.
 
@@ -90,7 +90,7 @@ Based upon prior instruction, extraordinary resuscitative measures were not purs
 Spasticity of Cerebral Origin: There were three deaths occurring among the 211 patients treated with intrathecal baclofen in pre-marketing studies as of March 1996.
 These deaths were not attributed to the therapy.
 
-## 5.7 Use with caution in patients with a history of autonomic dysreflexia
+## 5.7 Use with Caution in Patients with a History of Autonomic Dysreflexia
 
 Gablofen should be used with caution in patients with a history of autonomic dysreflexia.
 The presence of nociceptive stimuli or abrupt withdrawal of Gablofen may cause an autonomic dysreflexic episode.
@@ -117,7 +117,7 @@ In some cases, performance of an imaging procedure may be appropriate to confirm
 
 ## 5.11 Ovarian Cysts
 
-A dose-related increase in incidence of ovarian cysts was observed in female rats treated chronically with oral Baclofen.
-Ovarian cysts have been found by palpation in about 4% of the multiple sclerosis patients who were treated with oral Baclofen for up to one year.
+A dose-related increase in incidence of ovarian cysts was observed in female rats treated chronically with oral baclofen.
+Ovarian cysts have been found by palpation in about 4% of the multiple sclerosis patients who were treated with oral baclofen for up to one year.
 In most cases these cysts disappeared spontaneously while patients continued to receive the drug.
 Ovarian cysts are estimated to occur spontaneously in approximately 1% to 5% of the normal female population.

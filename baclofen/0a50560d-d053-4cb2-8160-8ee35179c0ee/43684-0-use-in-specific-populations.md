@@ -1,10 +1,8 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-PREGNANCY CATEGORY C:
-
-There are no adequate and well-controlled studies in pregnant women.
+Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
 Gablofen should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Baclofen given orally has been shown to increase the incidence of omphaloceles (ventral hernias) in fetuses of rats given approximately 13 times on a mg/kg basis, or 3 times on a mg/m2 basis, the maximum oral dose recommended for human use; this dose also caused reductions in food intake and weight gain in the dams.
