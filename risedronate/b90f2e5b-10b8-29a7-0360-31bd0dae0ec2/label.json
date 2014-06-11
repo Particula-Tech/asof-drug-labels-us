@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA090877"
+  ],
+  "inn": "risedronate",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-3096-2",
+    "60505-3097-2",
+    "60505-3097-4"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "risedronate sodium",
+      "name": "Risedronate Sodium"
+    }
+  ],
+  "setid": "b90f2e5b-10b8-29a7-0360-31bd0dae0ec2",
+  "source": "dailymed"
+}
