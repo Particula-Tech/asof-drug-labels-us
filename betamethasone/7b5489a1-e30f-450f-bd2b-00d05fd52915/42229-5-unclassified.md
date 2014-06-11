@@ -6,8 +6,10 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., 
 
 Manufactured by: Patheon UK Limited, Covingham, Swindon, Wiltshire, SN3 5BZ, United Kingdom
 
+For patent information: www.merck.com/product/patent/home.html
+
 Copyright © 1969, 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 05/2012
+Revised: 05/2014
 
-31550327T
+uspi-mk5166a-soi-1405r006
