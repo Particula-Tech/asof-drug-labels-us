@@ -2,9 +2,6 @@
 
 Irbesartan
 
-No significant drug-drug interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, and nifedipine.
-[See Clinical Pharmacology (12.3).]
-
 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including irbesartan, may result in deterioration of renal function, including possible acute renal failure.
@@ -17,6 +14,9 @@ Dual Blockade of the Renin-Angiotensin System (RAS)
 
 Dual blockade of the RAS with angiotensin-receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Closely monitor blood pressure, renal function, and electrolytes in patients on AVALIDE and other agents that affect the RAS.
+
+In most patients no benefit has been associated with using two RAS inhibitors concomitantly.
+In general, avoid combined use of RAS inhibitors.
 
 Do not coadminister aliskiren with AVALIDE in patients with diabetes.
 Avoid use of aliskiren with AVALIDE in patients with renal impairment (GFR <60 mL/min).
@@ -41,10 +41,8 @@ Pressor Amines (e.g., Norepinephrine): possible decreased response to pressor am
 
 Skeletal Muscle Relaxants, Nondepolarizing (e.g., Tubocurarine): possible increased responsiveness to the muscle relaxant.
 
-Lithium: should not generally be given with diuretics.
-Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
-Refer to the package insert for lithium preparations before use of such preparations with AVALIDE.
-[See Warnings and Precautions (5.5).]
+Lithium: Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of irbesartan or thiazide diuretics.
+Monitor lithium levels in patients receiving Avalide and lithium.
 
 Non-steroidal Anti-inflammatory Drugs: in some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing, and thiazide diuretics.
 Therefore, when AVALIDE (irbesartan-hydrochlorothiazide) Tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.

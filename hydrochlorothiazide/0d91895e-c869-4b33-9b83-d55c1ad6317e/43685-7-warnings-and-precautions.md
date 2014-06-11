@@ -32,14 +32,7 @@ Hydrochlorothiazide
 
 Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
 
-## 5.5 Lithium Interaction
-
-Hydrochlorothiazide
-
-Lithium generally should not be given with thiazides.
-[See Drug Interactions (7).]
-
-## 5.6 Electrolyte and Metabolic Imbalances
+## 5.5 Electrolyte and Metabolic Imbalances
 
 Irbesartan-Hydrochlorothiazide
 
@@ -69,13 +62,13 @@ Thiazides may cause intermittent and slight elevation of serum calcium in the ab
 Marked hypercalcemia may be evidence of hidden hyperparathyroidism.
 Thiazides should be discontinued before carrying out tests for parathyroid function.
 
-## 5.7 Hepatic Impairment
+## 5.6 Hepatic Impairment
 
 Hydrochlorothiazide
 
 Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
 
-## 5.8 Impaired Renal Function
+## 5.7 Impaired Renal Function
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals [see Drug Interactions (7)].
 In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with ACE inhibitors has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
@@ -87,7 +80,7 @@ Thiazides should be used with caution in severe renal disease.
 In patients with renal disease, thiazides may precipitate azotemia.
 Cumulative effects of the drug may develop in patients with impaired renal function.
 
-## 5.9 Acute Myopia and Secondary Angle-Closure Glaucoma
+## 5.8 Acute Myopia and Secondary Angle-Closure Glaucoma
 
 Sulfonamide or sulfonamide derivative drugs, such as hydrochlorothiazide, can cause an idiosyncratic reaction, resulting in transient myopia and acute angle-closure glaucoma.
 Cases of acute angle-closure glaucoma have been reported with hydrochlorothiazide.
