@@ -28,7 +28,7 @@ Trazodone is extensively metabolized; less than 1% of an oral dose is excreted u
 
 Elimination
 
-In some patients trazodone may accumulate in the plasma
+In some patients trazodone may accumulate in the plasma.
 
 Protein Binding
 

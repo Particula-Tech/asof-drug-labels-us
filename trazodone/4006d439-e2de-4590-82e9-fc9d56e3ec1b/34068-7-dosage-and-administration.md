@@ -11,9 +11,9 @@ The dose may be increased by 50 mg/day every 3 to 4 days.
 The maximum dose for outpatients usually should not exceed 400 mg/day in divided doses.
 Inpatients (i.e., more severely depressed patients) may be given up to but not in excess of 600 mg/day in divided doses
 
-- Once an adequate response has been achieved, dosage may be gradually reduced, with subsequent adjustment depending on therapeutic response.
-- Patients should be monitored for withdrawal symptoms when discontinuing treatment with trazodone hydrochloride tablets.
-  The dose should be gradually reduced whenever possible [see Warnings andPrecautions (5.12)].
+- •Once an adequate response has been achieved, dosage may be gradually reduced, with subsequent adjustment depending on therapeutic response.
+- •Patients should be monitored for withdrawal symptoms when discontinuing treatment with trazodone hydrochloride tablets.
+  The dose should be gradually reduced whenever possible [see Warnings and Precautions (5.13)].
 
 Maintenance Treatment
 

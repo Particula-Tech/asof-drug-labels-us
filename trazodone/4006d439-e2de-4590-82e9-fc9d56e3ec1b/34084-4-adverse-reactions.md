@@ -18,7 +18,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 • Cognitive and Motor Impairment [see Warnings and Precautions (5.11)]
 
-• Discontinuation Symptoms [see Warnings and Precautions (5.12)]
+• Discontinuation Symptoms [see Warnings and Precautions (5.13)]
 
 The most common adverse reactions (reported in ≥ 5% and at twice the rate of placebo) are:
 
@@ -35,7 +35,7 @@ Table 2 presents the summary of adverse events (AEs) leading to discontinuation 
 | Coordination abnormal | 2 (1%) |
 | Headache | 2 (1%) |
 | Nausea | 2 (1%) |
-| Balance disorder/Gait disturbance | 2 (1%) |
+| Balance disorder / Gait disturbance | 2 (1%) |
 
 ## 6.1 Clinical Studies Experience
 

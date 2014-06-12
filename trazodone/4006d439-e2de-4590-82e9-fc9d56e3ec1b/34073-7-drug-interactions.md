@@ -15,7 +15,7 @@ The effect of short-term administration of ritonavir (200 mg twice daily, 4 dose
 The Cmax of trazodone increased by 34%, the AUC increased 2.4 fold, the half-life increased by 2.2 fold, and the clearance decreased by 52%.
 Adverse effects including nausea, hypotension, and syncope were observed when ritonavir and trazodone were coadministered.
 It is likely that ketoconazole, indinavir, and other CYP3A4 inhibitors such as itraconazole may lead to substantial increases in trazodone plasma concentrations with the potential for adverse effects.
-If trazodone is used with a potent CYP3A4 inhibitor, the risk of cardiac arrhythmia may be increased [see Warnings andPrecautions (5.4)] and a lower dose of trazodone should be considered.
+If trazodone is used with a potent CYP3A4 inhibitor, the risk of cardiac arrhythmia may be increased [see Warnings and Precautions (5.4)] and a lower dose of trazodone should be considered.
 
 Cytochrome P450 Inducers (e.g., Carbamazepine)
 
@@ -34,7 +34,7 @@ Based on the mechanism of action of trazodone and the potential for serotonin sy
 
 NSAIDs, Aspirin, or Other Drugs Affecting Coagulation or Bleeding
 
-Due to a possible association between serotonin modulating drugs and gastrointestinal bleeding, patients should be monitored for and cautioned about the potential risk of bleeding associated with the concomitant use of trazodone and NSAIDs, aspirin, or other drugs that affect coagulation or bleeding [seeWarnings and Precautions (5.7)].
+Due to a possible association between serotonin modulating drugs and gastrointestinal bleeding, patients should be monitored for and cautioned about the potential risk of bleeding associated with the concomitant use of trazodone and NSAIDs, aspirin, or other drugs that affect coagulation or bleeding [see Warnings and Precautions (5.7)].
 
 Warfarin
 

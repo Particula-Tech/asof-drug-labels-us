@@ -1,4 +1,4 @@
-# Medication guide
+# MEDICATION GUIDE
 
 Trazodone Hydrochloride (traz' oh done hye'' droe klor' ide) Tablets USP
 
@@ -21,31 +21,39 @@ Antidepressant medicines may increase suicidal thoughts or actions in some child
 2.
 Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
 Some people may have a higher risk of having suicidal thoughts or actions.
-These include people who have or have a family history of bipolar illness (also called manic- depressive illness) or suicidal thoughts or actions.
+These include people who have or have a family history of bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 
 3.
 How can I watch for and try to prevent suicidal thoughts and actions?
 
-- Pay close attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings.
+- •Pay close attention to any changes, especially sudden changes in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
-- Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings.
-- Keep all follow-up visits with your healthcare provider as scheduled.
+- •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings.
+- •Keep all follow-up visits with your healthcare provider as scheduled.
   Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+- Call a healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
+- •Thoughts about suicide or dying
+- •Attempts to commit suicide
+- •New or worse depression
+- •New or worse anxiety
+- •Feeling very agitated or restless
+- •Panic attacks
+- •Trouble sleeping (insomnia)
+- •New or worse irritability
+- •Acting aggressive, being angry or violent
+- •Acting on dangerous impulses
+- •An extreme increase in activity and talking (mania)
+- •Other unusual changes in behavior or mood
 
-Call a healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
+4.
+Visual problems:
 
-- Thoughts about suicide or dying
-- Attempts to commit suicide
-- New or worse depression
-- New or worse anxiety
-- Feeling very agitated or restless
-- Panic attacks
-- Trouble sleeping (insomnia)
-- New or worse irritability
-- Acting aggressive, being angry or violent
-- Acting on dangerous impulses
-- An extreme increase in activity and talking (mania)
-- Other unusual changes in behavior or mood
+- •eye pain
+- •changes in vision
+- •swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 What else do I need to know about antidepressant medicines?
 
@@ -64,7 +72,7 @@ Know all of the medicines that you take.
 Keep a list of all medicines to show your healthcare provider.
 Do not start new medicines without first checking with your healthcare provider.
 
-4.
+5.
 Trazodone hydrochloride tablets are not approved for use in children.
 Talk to your healthcare provider for more information.
 
@@ -222,4 +230,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-A. 1/2014
+B. 5/2014
