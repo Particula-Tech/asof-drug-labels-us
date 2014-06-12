@@ -4,7 +4,8 @@ See FDA-approved patient labeling (Patient Information)
 
 Information for Patients
 
-- Inform the patient using topical corticosteroids to adhere to the following instructions:
+Inform the patient using toical corticosteroids to adhere to the following instructions:
+
 - This medication is to be used as directed by the physician and should not be used longer than the prescribed time period.
 - This medication should not be used for any disorder other than that for which it was prescribed.
 - Do not use other corticosteroid-containing products while using CLOBEX (clobetasol propionate) Lotion, 0.05%.

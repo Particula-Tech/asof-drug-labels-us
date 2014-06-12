@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In controlled, clinical trials with CLOBEX Lotion, 0.05%, the following adverse reactions have been reported: burning/stinging, skin dryness, irritation, erythema, folliculitis, pruritus, skin atrophy, and telangiectasia.
 The pooled incidence of local adverse reactions in trials for psoriasis and atopic dermatitis with CLOBEX Lotion, 0.05% at 1% or greater was:
 
-Table 1: Adverse Reactions with Incidence ≥1% in Clinical Trials
+Table 1: Adverse Reactions with Incidence ≥ 1% in Clinical Trials
 
 | Adverse Reaction | Incidence |
 | --- | --- |
@@ -24,5 +24,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 The following adverse reactions have been identified during post-approval use of CLOBEX Lotion, 0.05%.
 
 - Endocrine disorders: Cushing’s syndrome, Adrenal suppression
+- Eye: Eye pain, Vision blurred, Eye irritation.
 - Skin: Rash, Pain of skin, Skin exfoliation, Skin chapped, Scaling, Induration/papulation, Lichenification.
-- Other: Psoriasis (aggravation), Plaque elevation, Excoriation.
+- Other: Psoriasis (aggravation), plaque elevation, excoriation.

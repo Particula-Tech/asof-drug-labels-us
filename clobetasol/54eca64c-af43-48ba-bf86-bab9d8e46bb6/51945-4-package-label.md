@@ -12,4 +12,4 @@ Store at controlled room temperature 68° to 77°F (20° - 25°C).
 Protect from freezing.
 See lot no. and expiration date on bottom of bottle.
 US Patent No. 6,106,848 Marketed by: GALDERMA LABORTORIES, L.P.
-Fort Worth, Texax 76177 USA Manufactured by: DPT Laboratories, Ltd. San Antonio, Texas 78215 USA GALDERMA is a registered trademark. www.clobex.com 326197-0406
+Fort Worth, Texax 76177 USA Manufactured by: DPT Laboratories, Ltd. San Antonio, Texas 78215 USA GALDERMA is a registered trademark. www.clobex.com P51413-0 0613

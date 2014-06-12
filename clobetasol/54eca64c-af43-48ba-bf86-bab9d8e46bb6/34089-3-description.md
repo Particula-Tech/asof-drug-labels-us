@@ -6,4 +6,4 @@ Clobetasol propionate is 21-chloro-9-fluoro-11β, 17-dihydroxy-16β -methylpregn
 The following is the chemical structure:
 
 Clobetasol propionate is a white to almost white crystalline powder that is practically insoluble in water.
-Each gram of CLOBEXLotion, 0.05% contains 0.5 mg of clobetasol propionate, in a white liquid composed of hypromellose, propylene glycol, mineral oil, polyoxyethylene glycol 300 isostearate, carbomer 1342, sodium hydroxide and purified water.
+Each gram of CLOBEX Lotion, 0.05% contains 0.5 mg of clobetasol propionate, in a white liquid composed of hypromellose, propylene glycol, mineral oil, polyoxyethylene glycol 300 isostearate, carbomer 1342, sodium hydroxide and purified water.

@@ -99,4 +99,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, Texas 76177 USA Manufactured by: DPT Laboratories, Ltd. San Antonio, Texas 78215 USA GALDERMA is a registered trademark.
 US Patent Nos: 6,106,848 and foreign patents pending.
-PXXXX-XX
+P51405-0

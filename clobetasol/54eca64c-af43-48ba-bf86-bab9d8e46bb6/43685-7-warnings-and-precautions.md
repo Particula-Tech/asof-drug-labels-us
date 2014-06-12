@@ -10,7 +10,7 @@ In total, 8 of 10 evaluable subjects with moderate to severe plaque psoriasis ex
 In follow-up testing, 1 of 2 subjects remained suppressed after 8 days.
 In this comparative trial, for clobetasol propionate cream, 0.05% there were 3 of 10 evaluable subjects with HPA axis suppression.
 Furthermore, 5 of 9 evaluable subjects with moderate to severe atopic dermatitis experienced adrenal suppression following 2 weeks of CLOBEX Lotion, 0.05% therapy (treatment beyond 2 consecutive weeks is not recommended in moderate to severe atopic dermatitis).
-Of the 3 subjects that had follow-up testing, one subjects failed to recover adrenal function 7 days post-treatment.
+Of the 3 subjects that had follow-up testing, one subject failed to recover adrenal function 7 days post-treatment.
 For subjects treated with clobetasol propionate cream, 0.05%, 4 of 9 evaluable subjects experienced adrenal suppression following 2 weeks of treatment.
 Of the 2 subjects that had follow-up testing, both recovered adrenal function 7 days post-treatment.
 The proportion of subjects suppressed may be underestimated because the adrenal glands were stimulated weekly with cosyntropin in these trials.
