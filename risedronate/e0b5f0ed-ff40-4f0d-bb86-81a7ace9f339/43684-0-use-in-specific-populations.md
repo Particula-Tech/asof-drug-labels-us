@@ -1,0 +1,66 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Pregnancy Category C: There areno adequate and well-controlled studies of risedronate sodium in pregnant women.
+Risedronate sodium should be used during pregnancy only if the potentialbenefit justifies the potential risk to the mother and fetus.
+
+Bisphosphonates are incorporatedinto the bone matrix, from which they are gradually released over periods ofweeks to years.
+The amount of bisphosphonate incorporation into adult bone, andhence, the amount available for release back into the systemic circulation, isdirectly related to the dose and duration of bisphosphonate use.
+There are nodata on fetal risk in humans.
+However, there is a theoretical risk of fetalharm, predominantly skeletal, if a woman becomes pregnant after completing acourse of bisphosphonate therapy.
+The impact of variables such as time betweencessation of bisphosphonate therapy to conception, the particularbisphosphonate used, and the route of administration (intravenous versus oral)on this risk has not been studied.
+
+In animal studies, pregnant ratsreceived risedronate sodium during organogenesis at doses 1 to 26 times thehuman dose of 30 mg/day.
+Survival of neonates was decreased in rats treatedduring gestation with oral doses approximately 5 times the human dose and bodyweight was decreased in neonates from dams treated with approximately 26 timesthe human dose.
+The number of fetuses exhibiting incomplete ossification ofsternebrae or skull from dams treated with approximately 2.5 times the humandose was significantly increased compared to controls.
+Both incompleteossification and unossified sternebrae were increased in rats treated with oraldoses approximately 5 times the human dose.
+A low incidence of cleft palate wasobserved in fetuses from female rats treated with oral doses approximatelyequal to the human dose.
+The relevance of this finding to human use of risedronate sodium is unclear.
+
+No significant fetalossification effects were seen in rabbits treated with oral doses approximately7 times the human dose (the highest dose tested).
+However, 1 of 14 litters wereaborted and 1 of 14 litters were delivered prematurely.
+
+Similar to otherbisphosphonates, treatment during mating and gestation with doses ofrisedronate sodium approximately the same as the 30 mg/day human dose resultedin periparturient hypocalcemia and mortality in pregnant rats allowed to deliver.
+
+Dosing multiples provided aboveare based on the recommended human dose of 30 mg/day and normalized using bodysurface area (mg/m2).
+Actual animal doses were 3.2, 7.1 and 16mg/kg/day in the rat and 10 mg/kg/day in the rabbit.
+
+## 8.3 Nursing Mothers
+
+Risedronate was detected infeeding pups exposed to lactating rats for a 24-hour period post-dosing,indicating a small degree of lacteal transfer.
+It is not known whether risedronate sodium is excreted inhuman milk.
+Because many drugs are excreted in human milk and because of thepotential for serious adverse reactions in nursing infants from risedronate sodium, a decision shouldbe made whether to discontinue nursing or to discontinue the drug, taking intoaccount the importance of the drug to the mother.
+
+## 8.4 Pediatric Use
+
+Risedronate sodiumis not indicated for use in pediatric patients.
+
+The safety and effectiveness ofrisedronate was assessed in a one-year, randomized, double-blind, placebocontrolled study of 143 pediatric patients (94 received risedronate) withosteogenesis imperfecta (OI).
+The enrolled population was predominantlypatients with mild osteogenesis imperfecta (85% Type-I), aged 4 to less than 16years, 50% male and 82% Caucasian, with a mean lumbar spine BMD Z-score of-2.08 (2.08 standard deviations below the mean for age-matched controls).Patients received either a 2.5 mg (less than or equal to 30 kg body weight) or5 mg (greater than 30 kg body weight) daily oral dose.
+After one year, anincrease in lumbar spine BMD in the risedronate group compared to the placebogroup was observed.
+However, treatment with risedronate did not result in areduction in the risk of fracture in pediatric patients with osteogenesisimperfecta.
+In risedronatesodium-treated subjects, no mineralization defectswere noted in paired bone biopsy specimens obtained at baseline and month 12.
+
+The overall safety profile ofrisedronate in OI patients treated for up to 12 months was generally similar tothat of adults with osteoporosis.
+However, there was an increased incidence ofvomiting compared to placebo.
+In this study, vomiting was observed in 15% ofchildren treated with risedronate and 6% of patients treated with placebo.Other adverse events reported in greater than or equal to 10% of patientstreated with risedronate and with a higher frequency than placebo were: pain inthe extremity (21% with risedronate versus 16% with placebo), headache (20%versus 8%), back pain (17% versus 10%), pain (15% versus 10%), upper abdominalpain (11% versus 8%), and bone pain (10% versus 4%).
+
+## 8.5 Geriatric Use
+
+Of the patients receiving risedronate sodium in postmenopausal osteoporosis studies [see Clinical Studies (14)], 47% were between 65 and 75 years of age, and 17% were over 75.
+No overall differences in efficacy between geriatric and younger patients were observed in these studies.
+In the male osteoporosis trial, 28% of patients receiving risedronate sodium were between 65 and 75 years of age and 9% were over 75.
+The lumbar spine BMD response for risedronate sodium compared to placebo was 5.6% for subjects less than 65 years and 2.9% for subjects greater than or equal to 65 years.
+No overall differences in safety between geriatric and younger patients were observed in the risedronate sodium trials, but greater sensitivity of some older individuals cannot be ruled out.
+
+## 8.6 Renal Impairment
+
+Risedronate sodiumis not recommended for use in patients with severerenal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
+No dosage adjustmentis necessary in patients with a creatinine clearance greater than or equal to 30mL/min.
+
+## 8.7 Hepatic Impairment
+
+No studies have been performed to assess risedronate’ssafety or efficacy in patients with hepatic impairment.
+Risedronate is notmetabolized in human liver preparations.
+Dosage adjustment is unlikely to beneeded in patients with hepatic impairment.

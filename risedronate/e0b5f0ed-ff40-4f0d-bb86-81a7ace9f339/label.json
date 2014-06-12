@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA090886"
+  ],
+  "inn": "risedronate",
+  "labeler": "Sun Pharma Global FZE",
+  "package_ndcs": [
+    "47335-727-98",
+    "47335-928-60",
+    "47335-928-67"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "risedronate sodium",
+      "name": "risedronate sodium"
+    }
+  ],
+  "setid": "e0b5f0ed-ff40-4f0d-bb86-81a7ace9f339",
+  "source": "dailymed"
+}
