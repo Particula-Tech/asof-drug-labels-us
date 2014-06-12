@@ -18,7 +18,7 @@ Heparin Sodium Injection, USP (porcine) contains benzyl alcohol and is available
 | Product No. | NDCNo. | Strength | Fill Volume |
 | --- | --- | --- | --- |
 | 4710 | 63323-047-10 | 50,000 USP Heparin units per 10 mL(5,000 USP Heparin units per mL) | 10 mL fill in a 10 mL multi-dose, flip-top vial, in packages of 25. |
-| 504509 | 63323-459-09 | 40,000 USP Heparin units per 4 mL(10,000 USP Heparin units per mL) | 4 mL fill, in a 5 mL multi-dose, flip-top vial, in packages of 25. |
+| 504509 | 63323-459-09 | 40,000 USP Heparin units per 4 mL(10,000 USP Heparin units per mL) | 4 mL fill in a 5 mL multi-dose, flip-top vial, in packages of 25. |
 
 Use only if solution is clear and seal intact.
 Do not use if solution is discolored or contains a precipitate.

@@ -55,13 +55,19 @@ Initial Dose 75 to 100 units/kg (IV bolus over 10 minutes)
 
 Maintenance Dose Infants: 25 to 30 units/kg/hour;
 
-Infants < 2 months have the highest requirements (average 28 units/kg/hour)
+Infants < 2 months have the highest requirements
+
+(average 28 units/kg/hour)
 
 Children > 1 year of age: 18 to 20 units/kg/hour;
 
-Older children may require less heparin, similar to weight-adjusted adult dosage
+Older children may require less heparin, similar to weight-adjusted
 
-Monitoring Adjust heparin to maintain aPTT of 60 to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70.
+adult dosage
+
+Monitoring Adjust heparin to maintain aPTT of 60 to 85 seconds, assuming this
+
+reflects an anti-Factor Xa level of 0.35 to 0.70.
 
 ## Geriatric Use
 
