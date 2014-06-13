@@ -105,25 +105,50 @@ Resistance
 Influenza A virus isolates with reduced susceptibility to oseltamivir carboxylate have been recovered by serial passage of virus in cell culture in the presence of increasing concentrations of oseltamivir carboxylate, from clinical isolates collected during treatment with oseltamivir, and from viral isolates sampled during community surveillance studies.
 Reduced susceptibility of influenza virus to inhibition by oseltamivir carboxylate may be conferred by amino acid substitutions in the viral neuraminidase and/or hemagglutinin proteins.
 Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 8.
+The clinical impact of this reduced susceptibility is unknown.
 Hemagglutinin substitutions associated with oseltamivir resistance include A28T and R124M in influenza A H3N2 and H154Q in H1N9, a reassortant human/avian virus.
 
-Table 8 Neuraminidase Amino Acid Substitutions Observed in Oseltamivir Treatment Studies or Community Surveillance
+Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptibility to Oseltamivir
 
-| Amino Acid Substitution | Influenza Type/ Sub-type | Source |
-| --- | --- | --- |
-| Catalytic Residues |  |  |
-| R292K | A N2 | Roche clinical trials, publication, surveillanceSubstitutions identified by surveillance data only; population and use of TAMIFLU are unknown |
-| Framework Residues |  |  |
-| H275Y | A N1 | Roche clinical trials, publication, surveillance |
-| N294S | A N1, N2 | Publications |
-| E119V | A N2 | Roche clinical trials, publication, surveillance |
-| SASG245-248 deletion | A N2 | Roche clinical trial |
-| I222V | A N2 | Publication |
-| I222T | B | Publication |
-| D198N | B | Publication, surveillance |
-| D198E | B | Surveillance |
-| R371K | B | Surveillance |
-| G402S | B | Publication |
+| Amino Acid SubstitutionAll numbering is N2, except where indicated | Source |
+| --- | --- |
+| Influenza A N1 (N1 numbering in brackets) |  |
+| I117V (I117V) | Publication |
+| E119V (E119V) | Publication |
+| R152K (R152K) | Publication |
+| Y155H (Y155H) | Publication |
+| F173V (F174V) | Publication |
+| D198G/N (D199G/N) | Roche clinical trial, publication |
+| I222K/R/T/V (I223K/R/T/V) | Publication |
+| S246N (S247N) | Publication |
+| G248R+I266V (G249R+I267V) | Publication |
+| H274Y (H275Y) | Roche clinical trial, publication |
+| N294S (N295S) | Publication |
+| Q312R+I427T (Q313R+I427T) | Publication |
+| N325K (N325K) | Publication |
+| R371K (R368K) | Publication |
+| Influenza A N2 |  |
+| E41G | Publication |
+| E119I/V | Roche clinical trial, publication |
+| D151V | Publication |
+| I222L/V | Publication |
+| Q226H | Publication |
+| SASG245-248 deletion | Roche clinical trial, publication |
+| S247P | Publication |
+| R292K | Roche clinical trials, publication |
+| N294S | Publication |
+| Influenza B (B numbering in brackets) |  |
+| E119A (E117A) | Publication |
+| P141S (P139S) | Publication |
+| G142R (G140R) | Publication |
+| R152K (R150K) | Publication |
+| D198E/N/Y (D197E/N/Y) | Publication |
+| I222L/T/V (I221L/T/V) | Publication |
+| A246D/S/T (A245D/S/T) | Roche clinical trial, publication |
+| H274Y (H273Y) | Publication |
+| N294S (N294S) | Publication |
+| R371K (R374K) | Publication |
+| G402S (G407S) | Publication |
 
 Selection of influenza A viruses resistant to oseltamivir can occur at higher frequencies in children.
 The incidence of oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at rates of 27% to 37% and 3% to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 and influenza A/H3N2, respectively.
@@ -140,7 +165,7 @@ Cross-resistance between oseltamivir and zanamivir has been observed in neuramin
 The H275Y (N1 numbering) or N294S (N2 numbering) oseltamivir resistance-associated substitutions observed in the N1 neuraminidase subtype, and the E119V or N294S oseltamivir resistance-associated substitutions observed in the N2 subtype (N2 numbering), are associated with reduced susceptibility to oseltamivir but not zanamivir.
 The Q136K and K150T zanamivir resistance-associated substitutions observed in N1 neuraminidase, or the S250G zanamivir resistance-associated substitutions observed in influenza B, confer reduced susceptibility to zanamivir but not oseltamivir.
 The R292K oseltamivir resistance-associated substitution observed in N2, and the I222T, D198E/N, R371K, or G402S oseltamivir resistance-associated substitutions observed in influenza B neuraminidase, confer reduced susceptibility to both oseltamivir and zanamivir.
-In general, amino acid substitutions at neuraminidase catalytic residues confer cross-resistance to other neuraminidase inhibitors while substitutions at framework residues may or may not confer cross-resistance.
+These examples do not represent an exhaustive list of cross resistance-associated substitutions and prescribers should consider available information from the CDC on influenza drug susceptibility patterns and treatment effects when deciding whether to use TAMIFLU.
 
 No single amino acid substitution has been identified that could confer cross-resistance between the neuraminidase inhibitor class (oseltamivir, zanamivir) and the M2 ion channel inhibitor class (amantadine, rimantadine).
 However, a virus may carry a neuraminidase inhibitor associated substitution in neuraminidase and an M2 ion channel inhibitor associated substitution in M2 and may therefore be resistant to both classes of inhibitors.
