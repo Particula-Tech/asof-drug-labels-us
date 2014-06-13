@@ -7,8 +7,7 @@ Bottle of 30 (NDC 0173-0809-13).
 
 Bottle of 90 (NDC 0173-0809-59).
 
-Store at 25°C (77°F); excursions permitted 15° to 30°C (59° to 86°F).
-[see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Capsules may become deformed and/or discolored if kept at high temperatures.
 
 Dutasteride is absorbed through the skin.

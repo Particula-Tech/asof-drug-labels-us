@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In the CombAT trial, over 4,800 male subjects with BPH were randomly assigned to receive 0.5 mg dutasteride, 0.4 mg tamsulosin hydrochloride, or coadministration therapy (0.5 mg dutasteride and 0.4 mg tamsulosin hydrochloride) administered once daily in a 4-year double-blind trial.
 Overall, 1,623 subjects received monotherapy with dutasteride; 1,611 subjects received monotherapy with tamsulosin; and 1,610 subjects received coadministration therapy.
 The population was aged 49 to 88 years (mean age: 66 years) and 88% were Caucasian.
-Table 1 summarizes adverse reactions reported in at least 1% of subjects receiving coadminstration therapy and at a higher incidence than subjects receiving either dutasteride or tamsulosin as monotherapy.
+Table 1 summarizes adverse reactions reported in at least 1% of subjects receiving coadministration therapy and at a higher incidence than subjects receiving either dutasteride or tamsulosin as monotherapy.
 
 Table 1.
 Adverse Reactions Reported Over a 48-Month Period in ≥1% of Subjects and More Frequently in the Coadministration Therapy Group Than the Dutasteride or Tamsulosin Monotherapy Group (CombAT) by Time of Onset
@@ -106,7 +106,7 @@ Neoplasms: Male breast cancer.
 
 Psychiatric Disorders: Depressed mood.
 
-Reproductive System and Breast Disorders:Testicular pain and testicular swelling.
+Reproductive System and Breast Disorders: Testicular pain and testicular swelling.
 
 Tamsulosin:
 

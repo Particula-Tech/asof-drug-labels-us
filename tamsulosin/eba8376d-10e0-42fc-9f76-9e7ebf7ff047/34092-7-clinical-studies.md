@@ -14,6 +14,9 @@ A significant difference was seen by Month 9 and continued through Month 48.
 At Month 48 the mean changes from baseline (±SD) in IPSS total symptom scores were -6.3 (±7.40) for coadministration, -5.3 (±7.14) for dutasteride, and -3.8 (±7.74) for tamsulosin, with a mean difference between coadministration and dutasteride of -0.96 units (P<0.001; [95% CI: -1.40, -0.52]), and between coadministration and tamsulosin of -2.5 units (P<0.001; [95% CI: -2.96, -2.07]).
 See Figure 1.
 
+Figure 1.
+International Prostate Symptom Score Change From Baseline Over a 48-Month Period (Randomized, Double-Blind, Parallel-Group Trial [CombAT Trial])
+
 Effect on Acute Urinary Retention or the Need for BPH-Related Surgery: After 4 years of treatment, coadministration therapy with dutasteride and tamsulosin did not provide benefit over dutasteride monotherapy in reducing the incidence of AUR or BPH-related surgery.
 
 In separate 2-year randomized, double-blind trials, compared with placebo, dutasteride monotherapy was associated with a statistically significantly lower incidence of AUR (1.8% for dutasteride versus 4.2% for placebo; 57% reduction in risk) and with a statistically significantly lower incidence of BPH-related surgery (2.2% for dutasteride versus.
@@ -26,6 +29,9 @@ This difference was seen by Month 6 and continued through Month 24.
 See Figure 2.
 
 The additional improvement in Qmax of coadministration therapy over dutasteride monotherapy was no longer statistically significant at Month 48.
+
+Figure 2.
+Qmax Change From Baseline Over a 24-Month Period (Randomized, Double-Blind, Parallel-Group Trial [CombAT Trial])
 
 Effect on Prostate Volume: The mean prostate volume at trial entry was approximately 55 cc.
 At Month 24, the primary time point for this endpoint, the mean percent changes from baseline (±SD) in prostate volume were -26.9% (±22.57) for coadministration therapy, -28.0% (±24.88) for dutasteride, and 0% (±31.14) for tamsulosin, with a mean difference between coadministration and dutasteride of 1.1% (P = NS; [95% CI: -0.6, 2.8]), and between coadministration and tamsulosin of -26.9% (P<0.001; [95% CI: -28.9, -24.9]).

@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-JALYN™ [JAY-lin]
+JALYN® [JAY-lin]
 
 (dutasteride and tamsulosin hydrochloride)
 
@@ -160,16 +160,16 @@ These 2 medications work in different ways to improve symptoms of BPH.
 Dutasteride shrinks the enlarged prostate and tamsulosin relaxes muscles in the prostate and neck of the bladder.
 These 2 medications, when used together, can improve symptoms of BPH better than either medication when used alone.
 
-JALYN is a registered trademark of GlaxoSmithKline.
+JALYN is a registered trademark of the GSK group of companies.
 
-The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
-The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
 Manufactured for: GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-July 2013
+June 2014
 
-JLN:7PIL
+JLN:8PIL

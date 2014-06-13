@@ -32,7 +32,7 @@ In patients with BPH treated with 5 mg/day of dutasteride or placebo for up to 1
 Mean prostatic tissue concentrations of testosterone were significantly higher in the dutasteride group compared with placebo (2,073 and 93 pg/g, respectively, P<0.001).
 
 Adult males with genetically inherited type 2 5 alpha-reductase deficiency also have decreased DHT levels.
-These 5 alpha-reductase deficient males have a small prostate gland throughout life and do not develop BPH.
+These 5 alpha-reductase-deficient males have a small prostate gland throughout life and do not develop BPH.
 Except for the associated urogenital defects present at birth, no other clinical abnormalities related to 5 alpha-reductase deficiency have been observed in these individuals.
 
 Effects on Other Hormones: In healthy volunteers, 52 weeks of treatment with dutasteride 0.5 mg/day (n = 26) resulted in no clinically significant change compared with placebo (n = 23) in sex hormone-binding globulin, estradiol, luteinizing hormone, follicle-stimulating hormone, thyroxine (free T4), and dehydroepiandrosterone.
@@ -50,17 +50,19 @@ No clinically significant changes in adrenal hormone responses to adrenocorticot
 
 The pharmacokinetics of dutasteride and tamsulosin from JALYN are comparable to the pharmacokinetics of dutasteride and tamsulosin when administered separately.
 
-Absorption: The pharmacokinetic parameters of dutasteride and tamsulosin observed after administration of JALYN in a single dose, randomized, 3-period partial cross-over trial are summarized in Table 2 below.
+Absorption: The pharmacokinetic parameters of dutasteride and tamsulosin observed after administration of JALYN in a single dose, randomized, 3-period partial, cross-over trial are summarized in Table 2 below.
 
 Table 2.
 Arithmetic Means (SD) of Serum Dutasteride and Tamsulosin in Single-Dose Pharmacokinetic Parameters Under Fed Conditions
 
-| Component | N | AUC(0-t) (ng hr/mL) | Cmax (ng/mL) | Tmax (hr)a | t½ (hr) |
+| Component | N | AUC(0-t) (ng h/mL) | Cmax (ng/mL) | Tmax (h)a | t½ (h) |
 | --- | --- | --- | --- | --- | --- |
 | Dutasteride | 92 | 39.6 (23.1) | 2.14 (0.77) | 3.00 (1.00-10.00) |  |
 | Tamsulosin | 92 | 187.2 (95.7) | 11.3 (4.44) | 6.00 (2.00-24.00) | 13.5 (3.92)b |
-| a Median (range). |  |  |  |  |  |
-| b N = 91. |  |  |  |  |  |
+
+a Median (range).
+
+b N = 91.
 
 Dutasteride: Following administration of a single 0.5-mg dose of a soft gelatin capsule, time to peak absolute bioavailability in 5 healthy subjects is approximately 60% (range: 40% to 94%).
 
@@ -95,14 +97,14 @@ Tamsulosin: There is no enantiomeric bioconversion from tamsulosin [R(-) isomer]
 Tamsulosin is extensively metabolized by cytochrome P450 enzymes in the liver and less than 10% of the dose is excreted in urine unchanged.
 However, the pharmacokinetic profile of the metabolites in humans has not been established.
 In vitro studies indicate that CYP3A4 and CYP2D6 are involved in metabolism of tamsulosin as well as some minor participation of other CYP isoenzymes.
-Inhibition of hepatic drug metabolizing enzymes may lead to increased exposure to tamsulosin [see Drug Interactions (7.2)].
+Inhibition of hepatic drug-metabolizing enzymes may lead to increased exposure to tamsulosin [see Drug Interactions (7.1)].
 The metabolites of tamsulosin undergo extensive conjugation to glucuronide or sulfate prior to renal excretion.
 
 Incubations with human liver microsomes showed no evidence of clinically significant metabolic interactions between tamsulosin and amitriptyline, albuterol, glyburide, and finasteride.
 However, results of the in vitro testing of the tamsulosin interaction with diclofenac and warfarin were equivocal.
 
 Excretion: Dutasteride: Dutasteride and its metabolites were excreted mainly in feces.
-As a percent of dose, there was approximately 5% unchanged dutasteride (approximately 1% to approximately 15%) and 40% as dutasteride-related metabolites (~2% to ~90%).
+As a percent of dose, there was approximately 5% unchanged dutasteride (approximately 1% to approximately 15%) and 40% as dutasteride-related metabolites (approximately 2% to approximately 90%).
 Only trace amounts of unchanged dutasteride were found in urine (<1%).
 Therefore, on average, the dose unaccounted for approximated 55% (range: 5% to 97%).
 The terminal elimination half-life of dutasteride is approximately 5 weeks at steady state.
@@ -110,12 +112,12 @@ The average steady-state serum dutasteride concentration was 40 ng/mL following 
 Following daily dosing, dutasteride serum concentrations achieve 65% of steady-state concentration after 1 month and approximately 90% after 3 months.
 Due to the long half-life of dutasteride, serum concentrations remain detectable (greater than 0.1 ng/mL) for up to 4 to 6 months after discontinuation of treatment.
 
-Tamsulosin: On administration of the radiolabeled dose of tamsulosin to 4 healthy volunteers, 97% of the administered radioactivity was recovered, with urine (76%) representing the primary route of excretion compared to feces (21%) over 168 hours.
+Tamsulosin: On administration of the radiolabeled dose of tamsulosin to 4 healthy volunteers, 97% of the administered radioactivity was recovered, with urine (76%) representing the primary route of excretion compared with feces (21%) over 168 hours.
 
 Following intravenous or oral administration of an immediate-release formulation, the elimination half-life of tamsulosin in plasma ranges from 5 to 7 hours.
 Because of absorption rate-controlled pharmacokinetics with tamsulosin hydrochloride capsules, the apparent half-life of tamsulosin is approximately 9 to 13 hours in healthy volunteers and 14 to 15 hours in the target population.
 
-Tamsulosin undergoes restrictive clearance in humans, with a relatively low systemic clearance (2.88 L/hr).
+Tamsulosin undergoes restrictive clearance in humans, with a relatively low systemic clearance (2.88 L/h).
 
 Specific Populations: Pediatric: The pharmacokinetics of dutasteride and tamsulosin administered together have not been investigated in subjects younger than 18 years.
 
@@ -167,22 +169,22 @@ However, based on in vitro data, blood concentrations of dutasteride may increas
 
 Dutasteride does not inhibit the in vitro metabolism of model substrates for the major human cytochrome P450 isoenzymes (CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at a concentration of 1,000 ng/mL, 25 times greater than steady-state serum concentrations in humans.
 
-Tamsulosin: Strong and Moderate Inhibitors of CYP3A4 or CYP2D6: The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily for 5 days on the pharmacokinetics of a single tamsulosin hydrochloride capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range: 23 to 47 years).
+Tamsulosin: Strong and Moderate Inhibitors of CYP3A4 or CYP2D6: The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily for 5 days on the pharmacokinetics of a single tamsulosin hydrochloride capsule 0.4-mg dose was investigated in 24 healthy volunteers (age range: 23 to 47 years).
 Concomitant treatment with ketoconazole resulted in increases in the Cmax and AUC of tamsulosin by factors of 2.2 and 2.8, respectively.
 The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of tamsulosin have not been evaluated.
 
-The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg once daily for 9 days on the pharmacokinetics of a single tamsulosin capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range: 23 to 47 years).
+The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg once daily for 9 days on the pharmacokinetics of a single tamsulosin capsule 0.4-mg dose was investigated in 24 healthy volunteers (age range: 23 to 47 years).
 Concomitant treatment with paroxetine resulted in increases in the Cmax and AUC of tamsulosin by factors of 1.3 and 1.6, respectively.
-A similar increase in exposure is expected in poor metabolizers (PM) of CYP2D6 as compared to extensive metabolizers (EM).
+A similar increase in exposure is expected in poor metabolizers (PM) of CYP2D6 as compared with extensive metabolizers (EM).
 A fraction of the population (about 7% of Caucasians and 2% of African-Americans) are CYP2D6 PMs.
-Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when tamsulosin 0.4 mg is coadministered with strong CYP3A4 inhibitors in CYP2D6 PMs, tamsulosin 0.4 mg capsules should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole).
+Since CYP2D6 PMs cannot be readily identified and the potential for significant increase in tamsulosin exposure exists when tamsulosin 0.4 mg is coadministered with strong CYP3A4 inhibitors in CYP2D6 PMs, tamsulosin 0.4-mg capsules should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole).
 
 The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., terbinafine) on the pharmacokinetics of tamsulosin have not been evaluated.
 
-The effects of co-administration of both a CYP3A4 and a CYP2D6 inhibitor with tamsulosin capsules have not been evaluated.
+The effects of coadministration of both a CYP3A4 and a CYP2D6 inhibitor with tamsulosin capsules have not been evaluated.
 However, there is a potential for significant increase in tamsulosin exposure when tamsulosin 0.4 mg is coadministered with a combination of both CYP3A4 and CYP2D6 inhibitors.
 
-Cimetidine: The effects of cimetidine at the highest recommended dose (400 mg every 6 hours for 6 days) on the pharmacokinetics of a single tamsulosin capsule 0.4 mg dose was investigated in 10 healthy volunteers (age range: 21 to 38 years).
+Cimetidine: The effects of cimetidine at the highest recommended dose (400 mg every 6 hours for 6 days) on the pharmacokinetics of a single tamsulosin capsule 0.4-mg dose was investigated in 10 healthy volunteers (age range: 21 to 38 years).
 Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%).
 
 Alpha Adrenergic Antagonists: Dutasteride: In a single-sequence, crossover trial in healthy volunteers, the administration of tamsulosin or terazosin in combination with dutasteride had no effect on the steady-state pharmacokinetics of either alpha-adrenergic antagonist.

@@ -19,7 +19,7 @@ Phosphodiesterase-5 Inhibitors (PDE-5 Inhibitors): Caution is advised when alpha
 Alpha adrenergic antagonists and PDE-5 inhibitors are both vasodilators that can lower blood pressure.
 Concomitant use of these 2 drug classes can potentially cause symptomatic hypotension.
 
-Warfarin: Caution should be exercised with concomitant administration of warfarin and tamsulosin-containing products, including JALYN [see Drug Interactions (7.4), Clinical Pharmacology (12.3)].
+Warfarin: Caution should be exercised with concomitant administration of warfarin and tamsulosin-containing products, including JALYN [see Drug Interactions (7.2), Clinical Pharmacology (12.3)].
 
 ## 5.3 Effects on Prostate-Specific Antigen (PSA) and the Use of PSA in Prostate Cancer Detection
 
