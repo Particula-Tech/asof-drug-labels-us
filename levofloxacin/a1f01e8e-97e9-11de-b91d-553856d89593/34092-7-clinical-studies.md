@@ -7,7 +7,7 @@ LEVAQUIN®-treated patients received an average of 7 days of intravenous therapy
 
 Overall, in the clinically and microbiologically evaluable population, adjunctive therapy was empirically initiated at study entry in 56 of 93 (60.2%) patients in the LEVAQUIN® arm and 53 of 94 (56.4%) patients in the comparator arm.
 The average duration of adjunctive therapy was 7 days in the LEVAQUIN® arm and 7 days in the comparator.
-In clinically and microbiologically evaluable patients with documented Pseudomonas aeruginosa infection, 15 of 17 (88.2%) received ceftazidime (N=11) or piperacillin/tazobactam (N=4) in the LEVAQUIN® arm and 16 of 17 (94.1%) received an aminoglycoside in the comparator arm.
+In clinically and microbiologically evaluable patients with documented Pseudomonas aeruginosa infection, 15 of 17 (88.2%) received ceftazidime (N = 11) or piperacillin/tazobactam (N = 4) in the LEVAQUIN® arm and 16 of 17 (94.1%) received an aminoglycoside in the comparator arm.
 Overall, in clinically and microbiologically evaluable patients, vancomycin was added to the treatment regimen of 37 of 93 (39.8%) patients in the LEVAQUIN® arm and 28 of 94 (29.8%) patients in the comparator arm for suspected methicillin-resistant S. aureus infection.
 
 Clinical success rates in clinically and microbiologically evaluable patients at the posttherapy visit (primary study endpoint assessed on day 3–15 after completing therapy) were 58.1% for LEVAQUIN® and 60.6% for comparator.
@@ -61,7 +61,7 @@ The clinical and bacterial success rates are shown in Table 15.
 
 Table 15: Clinical and Bacterial Success Rates for LEVAQUIN®-Treated MDRSP in Community Acquired Pneumonia Patients (Population Valid for Efficacy)
 
-|  | n/Nn=the number of microbiologically evaluable patients who were clinical successes; N=number of microbiologically evaluable patients in the designated resistance group. | % | n/Nn=the number of MDRSP isolates eradicated or presumed eradicated in microbiologically evaluable patients; N=number of MDRSP isolates in a designated resistance group. | % |
+|  | n/Nn = the number of microbiologically evaluable patients who were clinical successes; N = number of microbiologically evaluable patients in the designated resistance group. | % | n/Nn = the number of MDRSP isolates eradicated or presumed eradicated in microbiologically evaluable patients; N = number of MDRSP isolates in a designated resistance group. | % |
 | --- | --- | --- | --- | --- |
 | Screening Susceptibility | Clinical Success |  | Bacteriological SuccessOne patient had a respiratory isolate that was resistant to tetracycline, cefuroxime, macrolides and TMP/SMX and intermediate to penicillin and a blood isolate that was intermediate to penicillin and cefuroxime and resistant to the other classes. The patient is included in the database based on respiratory isolate. |  |
 | Penicillin-resistant | 16/17 | 94.1 | 16/17 | 94.1 |
@@ -109,7 +109,7 @@ To evaluate the safety and efficacy of a high dose short course of LEVAQUIN®, 7
 
 Clinical success rates (defined as complete or partial resolution of the pre-treatment signs and symptoms of ABS to such an extent that no further antibiotic treatment was deemed necessary) in the microbiologically evaluable population were 91.4% (139/152) in the LEVAQUIN® 750 mg group and 88.6% (132/149) in the LEVAQUIN® 500 mg group at the test-of-cure (TOC) visit (95% CI [-4.2, 10.0] for LEVAQUIN® 750 mg minus LEVAQUIN® 500 mg).
 
-Rates of clinical success by pathogen in the microbiologically evaluable population who had specimens obtained by antral tap at study entry showed comparable results for the five- and ten-day regimens at the test-of-cure visit 22 days post treatment.
+Rates of clinical success by pathogen in the microbiologically evaluable population who had specimens obtained by antral tap at study entry showed comparable results for the five- and ten-day regimens at the test-of-cure visit 22 days post treatment (see Table 18).
 
 Table 18: Clinical Success Rate by Pathogen at the TOC in Microbiologically Evaluable Subjects Who Underwent Antral Puncture (Acute Bacterial Sinusitis)
 
@@ -143,7 +143,7 @@ Table 19: Bacteriological Eradication Rates (Chronic Bacterial Prostatitis)
 
 | Pathogen | N | Eradication | N | Eradication |
 | --- | --- | --- | --- | --- |
-|  | LEVAQUIN® (N=136) |  | Ciprofloxacin (N=125) |  |
+|  | LEVAQUIN® (N = 136) |  | Ciprofloxacin (N = 125) |  |
 | E. coli | 15 | 14 (93.3%) | 11 | 9 (81.8%) |
 | E. faecalis | 54 | 39 (72.2%) | 44 | 33 (75.0%) |
 | S. epidermidisEradication rates shown are for patients who had a sole pathogen only; mixed cultures were excluded. | 11 | 9 (81.8%) | 14 | 11 (78.6%) |
@@ -171,7 +171,7 @@ Table 20: Bacteriological Eradication at Test-of-Cure
 | Overall (cUTI or AP) | 252/333 | 75.7 | 239/318 | 75.2 | 0.5 (-6.1, 7.1) |
 | cUTI | 168/230 | 73.0 | 157/213 | 73.7 |  |
 | AP | 84/103 | 81.6 | 82/105 | 78.1 |  |
-| Microbiologically Evaluable PopulationThe Microbiologically Evaluable population included patients with a confirmed diagnosis of cUTI or AP, a causative organism(s) at baseline present at ≥ 105 CFU/mL, a valid test-of-cure urine culture, no pathogen isolated from blood resistant to study drug, no premature discontinuation or loss to follow-up, and compliance with treatment (among other criteria). |  |  |  |  |  |
+| Microbiologically Evaluable PopulationThe Microbiologically Evaluable population included patients with a confirmed diagnosis of cUTI or AP, a causative organism(s) at baseline present at ≥105 CFU/mL, a valid test-of-cure urine culture, no pathogen isolated from blood resistant to study drug, no premature discontinuation or loss to follow-up, and compliance with treatment (among other criteria). |  |  |  |  |  |
 | Overall (cUTI or AP) | 228/265 | 86.0 | 215/241 | 89.2 | -3.2 [-8.9, 2.5] |
 | cUTI | 154/185 | 83.2 | 144/165 | 87.3 |  |
 | AP | 74/80 | 92.5 | 71/76 | 93.4 |  |
@@ -225,7 +225,7 @@ The minimal inhibitory concentration (MIC) of levofloxacin for the anthrax strai
 In the animals studied, mean plasma concentrations of levofloxacin achieved at expected Tmax (1 hour post-dose) following oral dosing to steady state ranged from 2.79 to 4.87 mcg/mL.
 Steady state trough concentrations at 24 hours post-dose ranged from 0.107 to 0.164 mcg/mL.
 Mean (SD) steady state AUC0–24 was 33.4 ± 3.2 mcg.h/mL (range 30.4 to 36.0 mcg.h/mL).
-Mortality due to anthrax for animals that received a 30 day regimen of oral LEVAQUIN® beginning 24 hrs post exposure was significantly lower (1/10), compared to the placebo group (9/10) [P=0.0011, 2-sided Fisher's Exact Test].
+Mortality due to anthrax for animals that received a 30 day regimen of oral LEVAQUIN® beginning 24 hrs post exposure was significantly lower (1/10), compared to the placebo group (9/10) [P = 0.0011, 2-sided Fisher's Exact Test].
 The one levofloxacin treated animal that died of anthrax did so following the 30-day drug administration period.
 
 ## 14.10 Plague

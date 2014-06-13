@@ -76,6 +76,6 @@ Manufactured for:
 
 © Janssen Pharmaceuticals, Inc.
 
-Issued September 2013
+Issued May 2014
 
 ## 17.6 FDA-Approved Medication Guide

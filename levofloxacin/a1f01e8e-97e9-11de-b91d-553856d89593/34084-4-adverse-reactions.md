@@ -44,10 +44,10 @@ The most common adverse drug reactions (≥3%) are nausea, headache, diarrhea, i
 
 Table 6: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN®
 
-| System/Organ Class | Adverse Reaction | % (N=7537) |
+| System/Organ Class | Adverse Reaction | % (N = 7537) |
 | --- | --- | --- |
 | Infections and Infestations | moniliasis | 1 |
-| Psychiatric Disorders | insomniaN=7274 [see Warnings and Precautions (5.6)] | 4 |
+| Psychiatric Disorders | insomniaN = 7274 [see Warnings and Precautions (5.6)] | 4 |
 | Nervous System Disorders | headache dizziness [see Warnings and Precautions (5.6)] | 6 3 |
 | Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warnings and Precautions (5.3)] | 1 |
 | Gastrointestinal Disorders | nausea | 7 |
@@ -57,18 +57,18 @@ Table 6: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQ
 | vomiting | 2 |  |
 | dyspepsia | 2 |  |
 | Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.3)] pruritus | 2 1 |
-| Reproductive System and Breast Disorders | vaginitis | 1N=3758 (women) |
+| Reproductive System and Breast Disorders | vaginitis | 1N = 3758 (women) |
 | General Disorders and Administration Site Conditions | edema | 1 |
 | injection site reaction | 1 |  |
 | chest pain | 1 |  |
 
-Table 7: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN® (N=7537)
+Table 7: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN® (N = 7537)
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
 | Infections and Infestations | genital moniliasis |
 | Blood and Lymphatic System Disorders | anemia thrombocytopenia granulocytopenia [see Warnings and Precautions (5.4)] |
-| Immune System Disorders | allergic reaction [see Warnings and Precautions (5.3,5.4)] |
+| Immune System Disorders | allergic reaction [see Warnings and Precautions (5.3, 5.4)] |
 | Metabolism and Nutrition Disorders | hyperglycemia hypoglycemia [see Warnings and Precautions (5.11)] hyperkalemia |
 | Psychiatric Disorders | anxiety agitation confusion depression hallucination nightmareN = 7274 [see Warnings and Precautions (5.6)] sleep disorder anorexia abnormal dreaming |
 | Nervous System Disorders | tremor convulsions [see Warnings and Precautions (5.6)] paresthesia [see Warnings and Precautions (5.8)] vertigo hypertonia hyperkinesias abnormal gait somnolence syncope |
@@ -97,7 +97,7 @@ Table 8: Postmarketing Reports Of Adverse Drug Reactions
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.3, 5.4)] |
 | Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see Warnings and Precautions (5.6)] |
 | Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.6)] |
-| Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
+| Eye Disorders | uveitis vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.9)] tachycardia |
 | Vascular Disorders | vasodilatation |

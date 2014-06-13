@@ -51,11 +51,11 @@ Careful clinical observation and appropriate laboratory studies should be perfor
 
 No adjustment is necessary for patients with a creatinine clearance ≥ 50 mL/min.
 
-In patients with impaired renal function (creatinine clearance <50 mL/min), adjustment of the dosage regimen is necessary to avoid the accumulation of levofloxacin due to decreased clearance [see Use in Specific Populations (8.6)].
+In patients with impaired renal function (creatinine clearance < 50 mL/min), adjustment of the dosage regimen is necessary to avoid the accumulation of levofloxacin due to decreased clearance [see Use in Specific Populations (8.6)].
 
 Table 3 shows how to adjust dose based on creatinine clearance.
 
-Table 3: Dosage Adjustment in Adult Patients with Renal Impairment (creatinine clearance <50 mL/min)
+Table 3: Dosage Adjustment in Adult Patients with Renal Impairment (creatinine clearance < 50 mL/min)
 
 | Dosage in Normal Renal Function Every 24 hours | Creatinine Clearance 20 to 49 mL/min | Creatinine Clearance 10 to 19 mL/min | Hemodialysis or Chronic Ambulatory Peritoneal Dialysis (CAPD) |
 | --- | --- | --- | --- |
@@ -142,7 +142,7 @@ This intravenous drug product should be inspected visually for particulate matte
 Samples containing visible particles should be discarded.
 
 Stability of LEVAQUIN® Injection Following Dilution: LEVAQUIN® Injection, when diluted in a compatible intravenous fluid to a concentration of 5 mg/mL, is stable for 72 hours when stored at or below 25°C (77°F) and for 14 days when stored under refrigeration at 5°C (41°F) in plastic intravenous containers.
-Solutions that are diluted in a compatible intravenous solution and frozen in glass bottles or plastic intravenous containers are stable for 6 months when stored at - 20°C (- 4°F).
+Solutions that are diluted in a compatible intravenous solution and frozen in glass bottles or plastic intravenous containers are stable for 6 months when stored at -20°C (-4°F).
 Thaw frozen solutions at room temperature 25°C (77°F) or in a refrigerator 8°C (46°F).
 Do not force thaw by microwave irradiation or water bath immersion.
 Do not refreeze after initial thawing.
