@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "barium-sulfate",
+  "labeler": "E-Z-EM Canada Inc",
+  "package_ndcs": [
+    "32909-105-10"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "barium sulfate",
+      "name": "Varibar Thin Liquid"
+    }
+  ],
+  "setid": "59493c83-3941-cc84-cc37-a8696ae42873",
+  "source": "dailymed"
+}
