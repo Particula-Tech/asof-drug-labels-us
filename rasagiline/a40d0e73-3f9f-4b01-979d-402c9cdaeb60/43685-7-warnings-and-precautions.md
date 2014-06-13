@@ -1,109 +1,129 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Coadministration with Antidepressants
+## 5.1 Hypertension
 
-Severe CNS toxicity associated with hyperpyrexia has been reported with the combined treatment of an antidepressant (e.g., selective serotonin reuptake inhibitors-SSRIs, serotonin-norepinephrine reuptake inhibitors-SNRIs, tricyclic antidepressants, tetracyclic antidepressants, triazolopyridine antidepressants) and a non-selective MAOI (e.g., phenelzine, tranylcypromine) or selective MAO-B inhibitors, such as selegiline (Eldepryl) and rasagiline (AZILECT).
-These adverse reactions are often described as "serotonin syndrome" which can result in death.
-In the post-marketing period, non-fatal cases of serotonin syndrome have been reported in patients treated with antidepressants concomitantly with AZILECT.
+Exacerbation of hypertension may occur during treatment with AZILECT.
+Medication adjustment may be necessary if elevation of blood pressure is sustained.
+Monitor patients for new onset hypertension or hypertension that is not adequately controlled after starting AZILECT.
 
-The symptoms of serotonin syndrome have included behavioral and cognitive/mental status changes (e.g., confusion, hypomania, hallucinations, agitation, delirium, headache, and coma), autonomic effects (e.g., syncope, shivering, sweating, high fever/hyperthermia, hypertension, tachycardia, nausea, diarrhea), and somatic effects (e.g., muscular rigidity, myoclonus, muscle twitching, hyperreflexia manifested by clonus, and tremor).
+In Study 3, AZILECT (1 mg/day) given in conjunction with levodopa, produced an increased incidence of significant blood pressure elevation (systolic > 180 or diastolic > 100 mm Hg) of 4% compared to 3% for placebo [see Adverse Reactions (6.1)].
 
-AZILECT clinical trials did not allow concomitant use of fluoxetine or fluvoxamine with AZILECT, but the following antidepressants and doses were allowed in the AZILECT trials: amitriptyline ≤ 50 mg/daily, trazodone ≤ 100 mg/daily, citalopram ≤ 20 mg/daily, sertraline ≤ 100 mg/daily and paroxetine ≤ 30 mg/daily.
+When used as an adjunct to levodopa (Studies 3 and 4), the risk for developing post-treatment high blood pressure (e.g., systolic > 180 or diastolic >100 mm Hg) combined with a significant increase from baseline (e.g., systolic > 30 or diastolic > 20 mm Hg) was higher for AZILECT (2%) compared to placebo (1%).
 
-Although a small number of rasagiline-treated patients were concomitantly exposed to antidepressants (tricyclics n=115; SSRIs n=141), the exposure, both in dose and number of subjects, was not adequate to rule out the possibility of an untoward reaction from combining these agents.
-Furthermore, because the mechanisms of these reactions are not fully understood, it seems prudent, in general, to avoid the combination of AZILECT with any antidepressant.
-At least 14 days should elapse between discontinuation of AZILECT and initiation of treatment with a SSRI, SNRI, tricyclic, tetracyclic, or triazolopyridine antidepressant.
-Because of the long half lives of certain antidepressants (e.g., fluoxetine and its active metabolite), at least five weeks (perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses) should elapse between discontinuation of fluoxetine and initiation of AZILECT [see Drug Interactions (7.5)].
-
-## 5.2 Ciprofloxacin and Other CYP1A2 Inhibitors
-
-Rasagiline plasma concentrations may increase up to 2 fold in patients using concomitant ciprofloxacin and other CYP1A2 inhibitors [see Dosage and Administration (2.5), Drug Interactions (7.7), and Clinical Pharmacology (12.3)].
-
-## 5.3 Hepatic Impairment
-
-Rasagiline plasma concentration may increase in patients with mild (up to 2 fold, Child-Pugh score 5-6), moderate (up to 7 fold, Child-Pugh score 7-9), and severe (Child-Pugh score 10-15) hepatic impairment.
-Patients with mild hepatic impairment should be given the dose of 0.5 mg/day.
-AZILECT should not be used in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
-
-## 5.4 Risk for Hypertensive Crisis and Nonselective Monoamine Oxidase Inhibition Above the Recommended Doses
-
-AZILECT is a selective inhibitor of monoamine oxidase (MAO)-B at the recommended doses of 0.5 or 1 mg daily.
-AZILECT should not be used at daily doses exceeding 1 mg/day (or 0.5 mg/day for patients with mild hepatic impairment or in patients using concomitant ciprofloxacin or another CYP1A2 inhibitor) because of the risks of hypertensive crisis and other adverse reactions associated with nonselective inhibition of MAO [see Dosage and Administration (2), Drug Interactions (7.9), and Clinical Pharmacology (12.3)].
-
-Dietary tyramine restriction is not ordinarily required with ingestion of most foods and beverages that may contain tyramine, during treatment with recommended doses of AZILECT.
-However, certain foods (e.g., aged cheeses, such as Stilton cheese) may contain very high amounts (i.e., > 150 mg) of tyramine and could potentially cause a hypertensive "cheese" reaction in patients taking AZILECT even at the recommended doses due to mild increased sensitivity to tyramine.
-Patients should be advised to avoid foods (e.g., aged cheese) containing a very large amount of tyramine while taking recommended doses of AZILECT because of the potential for large increases in blood pressure.
+Dietary tyramine restriction is not required during treatment with recommended doses of AZILECT.
+However, certain foods that may contain very high amounts (i.e., more than 150 mg) of tyramine that could potentially cause severe hypertension because of tyramine interaction (including various clinical syndromes referred to as hypertensive urgency, crisis, or emergency) in patients taking AZILECT, even at the recommended doses, due to increased sensitivity to tyramine.
+Patients should be advised to avoid foods containing a very large amount of tyramine while taking recommended doses of AZILECT because of the potential for large increases in blood pressure including clinical syndromes referred to as hypertensive urgency, crisis, or emergency.
+AZILECT is a selective inhibitor of MAO-B at the recommended doses of 0.5 or 1 mg daily.
 Selectivity for inhibiting MAO-B diminishes in a dose-related manner as the dose is progressively increased above the recommended daily doses.
 
-There were no cases of hypertensive crisis in the clinical development program associated with 1 mg daily rasagiline treatment, in which most patients did not follow dietary tyramine restriction.
+## 5.2 Serotonin Syndrome
 
-Rare cases of hypertensive crisis have been reported in the post-marketing period in patients after ingesting unknown amounts of tyramine-rich foods while taking recommended doses of AZILECT.
+Serotonin syndrome has been reported with concomitant use of an antidepressant (e.g., selective serotonin reuptake inhibitors-SSRIs, serotonin-norepinephrine reuptake inhibitors-SNRIs, tricyclic antidepressants, tetracyclic antidepressants, triazolopyridine antidepressants) and a nonselective MAOI (e.g., phenelzine, tranylcypromine) or selective MAO-B inhibitors, such as selegiline (Eldepryl) and rasagiline (AZILECT).
+Serotonin syndrome has also been reported with concomitant use of AZILECT with meperidine, tramadol, methadone, or propoxyphene.
+AZILECT is contraindicated for use with meperidine, tramadol, methadone, propoxyphene and MAO inhibitors (MAOIs), including other selective MAO-B inhibitors [see Contraindications (4) and Drug Interactions (7.1, 7.2, 7.3)].
 
-## 5.5 Melanoma
+In the postmarketing period, potentially life-threatening serotonin syndrome has been reported in patients treated with antidepressants concomitantly with AZILECT.
+Concomitant use of AZILECT with one of many classes of antidepressants (e.g., SSRIs, SNRIs, triazolopyridine, tricyclic or tetracyclic antidepressants) is not recommended [see Drug Interactions (7.5)].
 
-Epidemiological studies have shown that patients with Parkinson's disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
-Whether the increased risk observed was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease, is unclear.
+The symptoms of serotonin syndrome have included behavioral and cognitive/mental status changes (e.g., confusion, hypomania, hallucinations, agitation, delirium, headache, and coma), autonomic effects (e.g., syncope, shivering, sweating, high fever/hyperthermia, hypertension, tachycardia, nausea, diarrhea), and somatic effects (e.g., muscular rigidity, myoclonus, muscle twitching, hyperreflexia manifested by clonus, and tremor).
+Serotonin syndrome can result in death.
 
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis.
-Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
+AZILECT clinical trials did not allow concomitant use of fluoxetine or fluvoxamine with AZILECT, and the potential drug interaction between AZILECT and antidepressants has not been studied systematically.
+Although a small number of AZILECT-treated patients were concomitantly exposed to antidepressants (tricyclics n=115; SSRIs n=141), the exposure, both in dose and number of subjects, was not adequate to rule out the possibility of an untoward reaction from combining these agents.
+At least 14 days should elapse between discontinuation of AZILECT and initiation of treatment with a SSRI, SNRI, tricyclic, tetracyclic, or triazolopyridine antidepressant.
+Because of the long half-lives of certain antidepressants (e.g., fluoxetine and its active metabolite), at least five weeks (perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses) should elapse between discontinuation of fluoxetine and initiation of AZILECT [see Drug Interactions (7.5)].
 
-## 5.6 Dyskinesia
+## 5.3 Falling Asleep During Activities of Daily Living and Somnolence
 
-When used as an adjunct to levodopa, AZILECT may cause dyskinesia or potentiate dopaminergic side effects and exacerbate pre-existing dyskinesia (treatment-emergent dyskinesia occurred in about 18% of patients treated with 0.5 mg or 1 mg rasagiline as an adjunct to levodopa, and 10% of patients who received placebo as an adjunct to levodopa).
-Decreasing the dose of levodopa may ameliorate this side effect.
+It has been reported that falling asleep while engaged in activities of daily living always occurs in a setting of preexisting somnolence, although patients may not give such a history.
+For this reason, prescribers should monitor patients for drowsiness or sleepiness, because some of the events occur well after initiation of treatment with dopaminergic medication.
+Prescribers should also be aware that patients may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or sleepiness during specific activities.
 
-## 5.7 Lowering of Blood Pressure and Postural/Orthostatic Hypotension
+Cases of patients treated with AZILECT and other dopaminergic medications have reported falling asleep while engaged in activities of daily living including the operation of motor vehicles, which sometimes resulted in accidents.
+Although many of these patients reported somnolence while on AZILECT with other dopaminergic medications, some perceived that they had no warning signs, such as excessive drowsiness, and believed that they were alert immediately prior to the event.
+Some of these events have been reported more than 1-year after initiation of treatment.
 
-In placebo controlled studies of AZILECT given in combination with levodopa, the incidence of postural hypotension consisting of a systolic blood pressure decrease (≥ 30 mm Hg) or a diastolic blood pressure decrease (≥ 20 mm Hg) after standing was 13.4 % with AZILECT (1 mg/day) compared to 8.5 % with placebo.
+In Study 3, somnolence was a common occurrence in patients receiving AZILECT and was more frequent in patients with Parkinson’s disease receiving AZILECT than in respective patients receiving placebo (6% AZILECT compared to 4% Placebo) [see Adverse Reactions (6.1)].
 
-At the 1 mg dose, the frequency of orthostatic hypotension at any time during the study was approximately 44 % for AZILECT vs 33% for placebo for mild to moderate systolic blood pressure decrements (≥ 20 mm Hg), 40 % for AZILECT vs 33 % for placebo for mild to moderate diastolic blood pressure decrements (≥ 10 mm Hg), 7 % for AZILECT vs 3 % for placebo for severe systolic blood pressure decrements (≥ 40 mm Hg), and 9 % for AZILECT vs 6 % for placebo for severe diastolic blood pressure decrements (≥ 20 mm Hg).
-There was also an increased risk for some of these abnormalities at the lower 0.5 mg daily dose and for an individual patient having mild to moderate or severe postural hypotension for both systolic and diastolic blood pressure.
+Before initiating treatment with AZILECT, patients should be advised of the potential to develop drowsiness and specifically asked about factors that may increase the risk with AZILECT such as concomitant sedating medications, the presence of sleep disorders, and concomitant medications that increase rasagiline plasma levels (e.g., ciprofloxacin) [see Drug Interactions (7.6)].
+If a patient develops significant daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., driving a motor vehicle, conversations, eating), AZILECT should ordinarily be discontinued.
+If a decision is made to continue these patients on AZILECT, advise them to avoid driving and other potentially dangerous activities.
+There is insufficient information to establish that dose reduction will eliminate episodes of falling asleep while engaged in activities of daily living.
 
-Clinical trial data further suggest that postural hypotension occurs most frequently in the first two months of AZILECT treatment and tends to decrease over time.
+## 5.4 Ciprofloxacin or Other CYP1A2 Inhibitors
+
+Rasagiline plasma concentrations may increase up to 2 fold in patients using concomitant ciprofloxacin and other CYP1A2 inhibitors.
+Patients taking concomitant ciprofloxacin or other CYP1A2 inhibitors should not exceed a dose of AZILECT 0.5 mg once daily [see Dosage and Administration (2.2), Drug Interactions (7.6), and Clinical Pharmacology (12.3)].
+
+## 5.5 Hepatic Impairment
+
+Rasagiline plasma concentration may increase in patients with hepatic impairment.
+Patients with mild hepatic impairment should be given the dose of AZILECT 0.5 mg once daily.
+AZILECT should not be used in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+
+## 5.6 Hypotension / Orthostatic Hypotension
+
+In Study 3, the incidence of orthostatic hypotension consisting of a systolic blood pressure decrease (≥30 mm Hg) or a diastolic blood pressure decrease (> 20 mm Hg) after standing was 13% with AZILECT (1 mg/day) compared to 9% with placebo [see Adverse Reactions (6.1)].
+
+At the 1 mg dose, the frequency of orthostatic hypotension (at any time during the study) was approximately 44% for AZILECT vs 33% for placebo for mild to moderate systolic blood pressure decrements (> 20 mm Hg), 40% for AZILECT vs 33% for placebo for mild to moderate diastolic blood pressure decrements (> 10 mm Hg), 7% for AZILECT vs 3% for placebo for severe systolic blood pressure decrements (> 40 mm Hg), and 9% for AZILECT vs 6% for placebo for severe diastolic blood pressure decrements (≥ 20 mm Hg).
+There was also an increased risk for some of these abnormalities at the lower 0.5 mg daily dose and for an individual patient having mild to moderate or severe orthostatic hypotension for both systolic and diastolic blood pressure.
+
+In Study 2 where AZILECT was given as an adjunct therapy in patients not taking concomitant levodopa, there were 5 reports of orthostatic hypotension in patients taking AZILECT 1 mg (3.1%) and 1 report in patients taking placebo (0.6%) [see Adverse Reactions (6.1)].
+
+Clinical trial data further suggest that orthostatic hypotension occurs most frequently in the first two months of AZILECT treatment and tends to decrease over time.
 
 Some patients treated with AZILECT experienced a mildly increased risk for significant decreases in blood pressure unrelated to standing but while supine.
 
-The risk for post-treatment hypotension (e.g., systolic < 90 or diastolic < 50 mm Hg) combined with a significant decrease from baseline (e.g., systolic > 30 or diastolic > 20 mm Hg) was higher for AZILECT 1 mg (3.2 %) compared to placebo (1.3 %).
+The risk for post-treatment hypotension (e.g., systolic < 90 or diastolic < 50 mm Hg) combined with a significant decrease from baseline (e.g., systolic > 30 or diastolic > 20 mm Hg) was higher for AZILECT 1 mg (3.2%) compared to placebo (1.3%).
 
 There was no clear increased risk for lowering of blood pressure or postural hypotension associated with AZILECT 1 mg/day as monotherapy.
 
-When used as an adjunct to levodopa, postural hypotension was also reported as an adverse reaction in approximately 6% of patients treated with 0.5 mg rasagiline, 9% of patients treated with 1 mg rasagiline and 3% of patients treated with placebo.
-Postural hypotension led to drug discontinuation and premature withdrawal from clinical trials in one (0.7%) patient treated with rasagiline 1 mg/day, no patients treated with rasagiline 0.5 mg/day and no placebo-treated patients.
+When used as an adjunct to levodopa, postural hypotension was also reported as an adverse reaction in approximately 6% of patients treated with AZILECT 0.5 mg, 9% of patients treated with AZILECT 1 mg and 3% of patients treated with placebo.
+Postural hypotension led to drug discontinuation and premature withdrawal from clinical trials in one (0.7%) patient treated with AZILECT 1 mg/day, no patients treated with AZILECT 0.5 mg/day and no placebo-treated patients.
 
-## 5.8 Elevation of Blood Pressure
+## 5.7 Dyskinesia
 
-In studies in which AZILECT (1 mg/day) was given in conjunction with levodopa, AZILECT produced an increased incidence of a significant, high blood pressure (e.g., systolic > 180 or diastolic > 100 mm Hg) of 4% compared to 3% for placebo.
+When used as an adjunct to levodopa, AZILECT may cause dyskinesia or potentiate dopaminergic side effects and exacerbate pre-existing dyskinesia.
+In Study 3, the incidence of dyskinesia was 18% for patients treated with 0.5 mg or 1 mg AZILECT as an adjunct to levodopa and 10% for patients treated with placebo as an adjunct to levodopa.
+Decreasing the dose of levodopa may mitigate this side effect [see Adverse Reactions (6.1)].
 
-The risk for developing post-treatment high blood pressure (e.g., systolic > 180 or diastolic >100 mm Hg) combined with a significant increase from baseline (e.g., systolic > 30 or diastolic > 20 mm Hg) was higher for AZILECT (2 %) compared to placebo (1 %).
+## 5.8 Hallucinations / Psychotic-Like Behavior
 
-There was no increased frequency of the incidence of hypertension as an adverse reaction in the adjunctive treatment pivotal trials for AZILECT treatment vs placebo.
+In the monotherapy study (Study 1), the incidence of hallucinations reported as an adverse event was 1.3% in patients treated with AZILECT 1 mg and 0.7% in patients treated with placebo.
+In Study 1, the incidence of hallucinations reported as an adverse reaction and leading to drug discontinuation and premature withdrawal was 1.3% in patients treated with AZILECT 1 mg and 0% in placebo-treated patients.
 
-There was no observed increased risk for increasing blood pressure or high blood pressure (based upon various measurements and analyses) or for the development of hypertension as an adverse reaction in the monotherapy study for 1 mg daily AZILECT treatment (vs placebo).
+When studied as an adjunct therapy without levodopa (Study 2), hallucinations were reported as an adverse reaction in 1.2% of patients treated with 1 mg/day AZILECT and 1.8% of patients treated with placebo.
+Hallucinations led to drug discontinuation and premature withdrawal from the clinical trial in 0.6% of patients treated with AZILECT 1 mg/day and in none of the placebo-treated patients.
 
-## 5.9 Hallucinations / Psychotic-Like Behavior
+When studied as an adjunct to levodopa (Study 3), the incidence of hallucinations was approximately 5% in patients treated with AZILECT 0.5 mg/day, 4% in patients treated with AZILECT 1 mg/day, and 3% in patients treated with placebo.
+The incidence of hallucinations leading to drug discontinuation and premature withdrawal was about 1% in patients treated with 0.5 mg AZILECT and 1 mg AZILECT/day, and 0% in placebo-treated patients [see Adverse Reactions (6.1)].
 
-In the monotherapy study, hallucinations were reported as an adverse event in 1.3% of patients treated with 1 mg rasagiline and in 0.7% of patients treated with placebo.
-In the monotherapy trial, hallucinations led to drug discontinuation and premature withdrawal from clinical trials in 1.3% of the 1 mg rasagiline-treated patients and in none of the placebo-treated patients.
-
-When used as an adjunct to levodopa, hallucinations were reported as an adverse reaction in approximately 5% of patients treated with 0.5 mg/day AZILECT, 4% of patients treated with 1 mg/day AZILECT and 3% of patients treated with placebo.
-Hallucinations led to drug discontinuation and premature withdrawal from clinical trials in about 1% of patients treated with 0.5 mg/day or 1 mg/day rasagiline and none of the placebo-treated patients.
+Postmarketing reports indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during treatment with AZILECT or after starting or increasing the dose of AZILECT.
+Other drugs prescribed to improve the symptoms of Parkinson’s disease can have similar effects on thinking and behavior.
+This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
 
 Patients should be informed of the possibility of developing hallucinations and instructed to report them to their health care provider promptly should they develop.
 
 Patients with a major psychotic disorder should ordinarily not be treated with AZILECT because of the risk of exacerbating the psychosis with an increase in central dopaminergic tone.
-In addition, many treatments for psychosis that decrease in central dopaminergic tone may decrease the effectiveness of AZILECT.
+In addition, many treatments for psychosis that decrease central dopaminergic tone may decrease the effectiveness of AZILECT [see Drug Interactions (7.8)].
 
-AZILECT administration may cause or exacerbate psychotic-like behavior based upon post-marketing reports.
-This adverse reaction has been reported with many anti-Parkinsonian drugs that increase central dopaminergic tone.
-This abnormal behavior has been exhibited by one or more of a variety of manifestations including paranoia, confusional state/confusion, psychotic disorder, agitation, delusion, and hallucinations.
+Consider dose reduction or stopping the medication if a patient develops hallucinations or psychotic like behaviors while taking AZILECT.
+
+## 5.9 Impulse Control / Compulsive Behaviors
+
+Case reports suggest that patients can experience intense urges to gamble, increased sexual urges, intense urges to spend money, binge eating, and/or other intense urges, and the inability to control these urges while taking one or more of the medications, including AZILECT, that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease.
+In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.
+Because patients may not recognize these behaviors as abnormal, it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with AZILECT.
+Consider dose reduction or stopping the medication if a patient develops such urges while taking AZILECT.
 
 ## 5.10 Withdrawal-Emergent Hyperpyrexia and Confusion
 
 A symptom complex resembling neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in drugs that increase central dopaminergic tone.
-[see Dosage and Administration (2.2)].
 
-Withdrawal emergent hyperpyrexia was not reported in the AZILECT clinical development program.
+## 5.11 Melanoma
 
-## 5.11 Laboratory Tests
+Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
+Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
 
-No specific laboratory tests are required for the treatment of patients on AZILECT.
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis.
+Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).

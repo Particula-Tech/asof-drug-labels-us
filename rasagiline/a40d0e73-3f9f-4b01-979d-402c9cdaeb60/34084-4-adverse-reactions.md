@@ -1,32 +1,38 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+The following adverse reactions are described in more detail in the Warnings and Precautions section of the label:
 
-During the clinical development of AZILECT, 1361 Parkinson's disease patients received rasagiline as initial monotherapy or as adjunct therapy to levodopa.
-As these two populations differ, not only in the adjunct use of levodopa during rasagiline treatment, but also in the severity and duration of their disease, they may have differential risks for various adverse reactions.
-Therefore, most of the adverse reactions data in this section are presented separately for each population.
+- •Hypertension [see Warnings and Precautions (5.1)]
+- •Serotonin Syndrome [see Warnings and Precautions (5.2)]
+- •Falling Asleep During Activities of Daily Living and Somnolence [see Warnings and Precautions (5.3)]
+- •Hypotension / Orthostatic Hypotension [see Warnings and Precautions (5.6)]
+- •Dyskinesia [see Warnings and Precautions (5.7)]
+- •Hallucinations / Psychotic-Like Behavior [see Warnings and Precautions (5.8)]
+- •Impulse Control /Compulsive Behaviors [see Warnings and Precautions (5.9)]
+- •Withdrawal-Emergent Hyperpyrexia and Confusion [see Warnings and Precautions (5.10)]
+- •Melanoma [see Warnings and Precautions (5.11)]
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates of adverse reactions observed in practice.
+## 6.1 Clinical Trials Experience
 
-Patients Receiving AZILECT as Initial Monotherapy Treatment
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the incidence of adverse reactions in the clinical trials of another drug and may not reflect the rates of adverse reactions observed in practice.
 
-Adverse Reactions Leading to Discontinuation in Controlled Clinical Studies
+During the clinical development of AZILECT, Parkinson’s disease patients received AZILECT as initial monotherapy (Study 1) and as adjunct therapy (Study 2, Study 3, Study 4).
+As the populations in these studies differ, not only in the adjunct use of dopamine agonists or levodopa during AZILECT treatment, but also in the severity and duration of their disease, the adverse reactions are presented separately for each study.
 
-In the double-blind, placebo-controlled trials conducted in patients receiving AZILECT as monotherapy, approximately 5% of the 149 patients treated with rasagiline discontinued treatment due to adverse reactions compared to 2% of the 151 patients who received placebo.
+Monotherapy Use of AZILECT
+
+In Study 1, approximately 5% of the 149 patients treated with AZILECT discontinued treatment due to adverse reactions compared to 2% of the 151 patients who received placebo.
 
 The only adverse reaction that led to the discontinuation of more than one patient was hallucinations.
 
-Adverse Reaction Incidence in Controlled Clinical Studies
+The most commonly observed adverse reactions in Study 1 (incidence in AZILECT-treated patients 3% or greater than the incidence in placebo-treated patients) included flu syndrome, arthralgia, depression, and dyspepsia.
+Table 1 lists adverse reactions that occurred in 2% or greater of patients receiving AZILECT as monotherapy and were numerically more frequent than in the placebo group in Study 1.
 
-The most commonly observed adverse reactions were those in which the treatment difference for the incidence in AZILECT-treated patients was ≥ 3 % greater than the incidence in the placebo-treated patients and included flu syndrome, arthralgia, depression, and dyspepsia.
-Table 1 lists treatment-emergent adverse reactions that occurred in ≥ 2% of patients receiving AZILECT as monotherapy participating in the double-blind, placebo-controlled trial and were numerically more frequent than in the placebo group.
+Table 1: Adverse Reactions* in Study 1
 
-Table 1.
-Treatment-EmergentIncidence ≥ 2% in AZILECT 1 mg group and numerically more frequent than in placebo group Adverse Reactions in AZILECT 1 mg-Treated Monotherapy Patients
-
-|  | % of Patients | % of Patients |
+|  | AZILECT 1 mg (N=149) | Placebo (N=151) |
 | --- | --- | --- |
-| Placebo-Controlled Studies Without Levodopa Treatment | AZILECT 1 mg (N=149) | Placebo (N=151) |
+|  | % of Patients | % of Patients |
 | Headache | 14 | 12 |
 | Arthralgia | 7 | 4 |
 | Dyspepsia | 7 | 4 |
@@ -44,31 +50,56 @@ Treatment-EmergentIncidence ≥ 2% in AZILECT 1 mg group and numerically more fr
 | Paresthesia | 2 | 1 |
 | Vertigo | 2 | 1 |
 
-Other events of potential clinical importance reported by 1% or more of patients receiving AZILECT as monotherapy, and at least as frequent as in the placebo group, in descending order of frequency include: dizziness, diarrhea, chest pain, albuminuria, allergic reaction, alopecia, angina pectoris, anorexia, asthma, hallucinations, impotence, leukopenia, libido decreased, liver function tests abnormal, skin carcinoma, syncope, vesiculobullous rash, vomiting.
+*Incidence 2% or greater in AZILECT 1 mg group and numerically more frequent than in placebo group
 
 There were no significant differences in the safety profile based on age or gender.
 
-Patients Receiving AZILECT as Adjunct to Levodopa Therapy
+Adjunct Use of AZILECT
 
-Adverse Reactions Leading to Discontinuation in Controlled Clinical Studies
+AZILECT was studied as an adjunct therapy without levodopa (Study 2), or as an adjunct therapy to levodopa, with some patients also taking dopamine agonists, COMT inhibitors, anticholinergics, or amantadine (Study 3 and Study 4).
 
-In a double-blind, placebo-controlled trial (Study 1) conducted in patients treated with AZILECT as adjunct to levodopa therapy, approximately 9% of the 164 patients treated with AZILECT 0.5 mg/day and 7% of the 149 patients treated with AZILECT 1 mg/day discontinued treatment due to adverse reactions compared to 6% of the 159 patients who received placebo.
-The adverse reactions that led to discontinuation of more than one rasagiline-treated patient were: diarrhea, weight loss, hallucination, and rash.
-Adverse event reporting was considered more reliable for Study 1 than for the second controlled trial (Study 2); therefore only the adverse event data from Study 1 are presented in this section of labeling.
+In Study 2, approximately 8% of the 162 patients treated with AZILECT discontinued treatment due to adverse reactions compared to 4% of the 164 patients who received placebo.
 
-Adverse Reactions: Incidence in Controlled Clinical Studies
+Adverse reactions that led to the discontinuation of more than one patient were nausea and dizziness.
 
-The most commonly observed adverse reactions were those in which the treatment difference for the incidence in AZILECT-treated patients (n=149) was ≥ 3 % greater than the incidence in the placebo-treated patients (n=159) and included dyskinesia, accidental injury, weight loss, postural hypotension, vomiting, anorexia, arthralgia, abdominal pain, nausea, constipation, dry mouth, rash, abnormal dreams, and fall.
+The most commonly observed adverse reactions in Study 2 (incidence in AZILECT-treated patients 3% or greater than incidence in placebo-treated patients) included peripheral edema, fall, arthralgia, cough, and insomnia.
+Table 2 lists adverse reactions that occurred in 2% or greater in patients receiving AZILECT as adjunct therapy without levodopa and numerically more frequent than in the placebo group in Study 2.
 
-Table 2 lists treatment-emergent adverse reactions that occurred in ≥ 2% of patients treated with AZILECT 1 mg/day as adjunct to levodopa therapy participating in the double-blind, placebo-controlled trial (Study 1) and that were numerically more frequent than the placebo group.
-The table also shows the rates for the 0.5 mg group in Study 1.
+Table 2: Adverse Reactions* in Study 2
 
-Table 2.
-Incidence of Treatment-EmergentIncidence ≥ 2% in AZILECT 1 mg group and numerically more frequent than in placebo group Adverse Reactions in Patients Receiving AZILECT as Adjunct to Levodopa Therapy in Study 1
+|  | AZILECT 1 mg (N=162) | Placebo(N=164) |
+| --- | --- | --- |
+|  | % of Patients | % of Patients |
+| Dizziness | 7 | 6 |
+| Peripheral edema | 7 | 4 |
+| Headache | 6 | 4 |
+| Nausea | 6 | 4 |
+| Fall | 6 | 1 |
+| Arthralgia | 5 | 2 |
+| Back pain | 4 | 3 |
+| Cough | 4 | 1 |
+| Insomnia | 4 | 1 |
+| Upper respiratory tract infection | 4 | 2 |
+| Orthostatic hypotension | 3 | 1 |
 
-|  | % of patients | % of patients | % of patients |
+*Incidence 2% or greater in AZILECT 1 mg group and numerically more frequent than in placebo group
+
+There were no significant differences in the safety profile based on age or gender.
+
+In Study 3, adverse event reporting was considered more reliable than Study 4; therefore, only the adverse event data from Study 3 are presented below.
+
+In Study 3, approximately 9% of the 164 patients treated with AZILECT 0.5 mg/day and 7% of the 149 patients treated with AZILECT 1 mg/day discontinued treatment due to adverse reactions, compared to 6% of the 159 patients who received placebo.
+The adverse reactions that led to discontinuation of more than one AZILECT-treated patient were diarrhea, weight loss, hallucination, and rash.
+
+The most commonly observed adverse reactions in Study 3 (incidence in AZILECT-treated patients 3% or greater than the incidence in placebo-treated patients) included dyskinesia, accidental injury, weight loss, postural hypotension, vomiting, anorexia, arthralgia, abdominal pain, nausea, constipation, dry mouth, rash, abnormal dreams, fall and tenosynovitis.
+
+Table 3 lists adverse reactions that occurred in 2% or greater of patients treated with AZILECT 1 mg/day and that were numerically more frequent than the placebo group in Study 3.
+
+Table 3: Adverse Reactions* in Study 3
+
+|  | AZILECT 1 mg (N=149) | AZILECT 0.5 mg (N=164) | Placebo (N=159) |
 | --- | --- | --- | --- |
-|  | AZILECT 1 mg + Levodopa (N=149) | AZILECT 0.5 mg + Levodopa (N=164) | Placebo + Levodopa (N=159) |
+|  | % of patients | % of patients | % of patients |
 | Dyskinesia | 18 | 18 | 10 |
 | Accidental injury | 12 | 8 | 5 |
 | Nausea | 12 | 10 | 8 |
@@ -102,47 +133,10 @@ Incidence of Treatment-EmergentIncidence ≥ 2% in AZILECT 1 mg group and numeri
 | Hernia | 2 | 1 | 1 |
 | Myasthenia | 2 | 2 | 1 |
 
-Several of the more common adverse reactions seemed dose-related, including weight loss, postural hypotension, and dry mouth.
+*Incidence 2% or greater in AZILECT 1 mg group and numerically more frequent than in placebo group
 
-Other adverse reactions of potential clinical importance reported in Study 1 by 1% or more of patients treated with rasagiline 1 mg/day as adjunct to levodopa therapy, and at least as frequent as in the placebo group, in descending order of frequency include: skin carcinoma, anemia, albuminuria, amnesia, arthritis, bursitis, cerebrovascular accident, confusion, dysphagia, epistaxis, leg cramps, pruritus, skin ulcer.
+Several of the more common adverse reactions seemed dose-related, including weight loss, postural hypotension, and dry mouth.
 
 There were no significant differences in the safety profile based on age or gender.
 
-Other Adverse Reactions Observed During All Phase 2/3 Clinical Trials
-
-Rasagiline was administered to approximately 1361 patients during all PD phase 2/3 clinical trials.
-About 283 patients received rasagiline for at least one year, approximately 410 patients received rasagiline for at least two years, 116 patients received rasagiline for at least 3 years, and 245 patients received rasagiline for more than 3 years, with some patients treated for more than 5 years.
-The long-term safety profile was similar to that observed with shorter duration exposure.
-
-The frequencies listed below represent the proportion of the 1361 individuals exposed to rasagiline who experienced events of the type cited.
-
-All events that occurred at least twice (or once for serious or potentially serious events), except those already listed above, trivial events, terms too vague to be meaningful, adverse events with no plausible relation to treatment, and events that would be expected in patients of the age studied, were reported without regard to determination of a causal relationship to rasagiline.
-
-Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in at least 1/100 patients, infrequent adverse events are defined as those occurring in at least 1/100 to 1/1000 patients and rare adverse events are defined as those occurring in fewer than 1/1000 patients.
-
-Body as a whole: Frequent: asthenia Infrequent: chills, face edema, flank pain, photosensitivity reaction
-
-Cardiovascular system: Frequent: bundle branch block Infrequent: deep thrombophlebitis, heart failure, migraine, myocardial infarct, phlebitis, ventricular tachycardia Rare: arterial thrombosis, atrial arrhythmia, AV block complete, AV block second degree, bigeminy, cerebral hemorrhage, cerebral ischemia, ventricular fibrillation
-
-Digestive system: Frequent: gastrointestinal hemorrhage Infrequent: colitis, esophageal ulcer, esophagitis, fecal incontinence, intestinal obstruction, mouth ulceration, stomach ulcer, stomatitis, tongue edema Rare: hematemesis, hemorrhagic gastritis, intestinal perforation, intestinal stenosis, jaundice, large intestine perforation, megacolon, melena
-
-Hemic and Lymphatic system: Infrequent: macrocytic anemia Rare: purpura, thrombocythemia
-
-Metabolic and Nutritional disorders: Infrequent: hypocalcemia
-
-Musculoskeletal system: Infrequent: bone necrosis, muscle atrophy Rare: arthrosis
-
-Nervous system: Frequent: abnormal gait, anxiety, hyperkinesia, hypertonia, neuropathy, tremor Infrequent: agitation, aphasia, circumoral paresthesia, convulsion, delusions, dementia, dysarthria, dysautonomia, dysesthesia, emotional lability, facial paralysis, foot drop, hemiplegia, hypesthesia, incoordination, manic reaction, myoclonus, neuritis, neurosis, paranoid reaction, personality disorder, psychosis, wrist drop Rare: apathy, delirium, hostility, manic depressive reaction, myelitis, neuralgia, psychotic depression, stupor
-
-Respiratory system: Frequent: cough increased Infrequent: apnea, emphysema, laryngismus, pleural effusion, pneumothorax Rare: interstitial pneumonia, larynx edema, lung fibrosis
-
-Skin and Appendages: Infrequent: eczema, urticaria Rare: exfoliative dermatitis, leukoderma
-
-Special senses: Infrequent: blepharitis, deafness, diplopia, eye hemorrhage, eye pain, glaucoma, keratitis, ptosis, retinal degeneration, taste perversion, visual field defect Rare: blindness, parosmia, photophobia, retinal detachment, retinal hemorrhage, strabismus, taste loss, vestibular disorder
-
-Urogenital system: Frequent: hematuria, urinary incontinence Infrequent: acute kidney failure, dysmenorrhea, dysuria, kidney calculus, nocturia, polyuria, scrotal edema, sexual function abnormal, urinary retention, urination impaired, vaginal hemorrhage, vaginal moniliasis, vaginitis Rare: abnormal ejaculation, amenorrhea, anuria, epididymitis, gynecomastia, hydroureter, leukorrhea, priapism
-
-## 6.2 Post-marketing Experience
-
-The following adverse events not described in sections 4 and 5 have been identified during the post-marketing/post-approval use of AZILECT.
-Because these adverse events are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency nor to establish unequivocally a causal relationship to drug exposure: Increased libido including hypersexuality, impulse control symptoms, pathological gambling [see Patient Counseling Information (17.11)]
+During all Parkinson’s disease phase 2/3 clinical trials, the long-term safety profile was similar to that observed with shorter duration exposure.

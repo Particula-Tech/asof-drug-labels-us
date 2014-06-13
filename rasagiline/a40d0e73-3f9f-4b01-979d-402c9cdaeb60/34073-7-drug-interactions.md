@@ -2,56 +2,53 @@
 
 ## 7.1 Meperidine
 
-Serious, sometimes fatal reactions have been precipitated with concomitant use of meperidine (e.g., Demerol and other tradenames) and MAO inhibitors including selective MAO-B inhibitors [see Contraindications (4.1)].
+Serious, sometimes fatal reactions have been precipitated with concomitant use of meperidine (e.g., Demerol and other tradenames) and MAO inhibitors including selective MAO-B inhibitors [see Contraindications (4)].
 
 ## 7.2 Dextromethorphan
 
 The concomitant use of AZILECT and dextromethorphan was not allowed in clinical studies.
 The combination of MAO inhibitors and dextromethorphan has been reported to cause brief episodes of psychosis or bizarre behavior.
-Therefore, in view of AZILECT's MAO inhibitory activity, dextromethorphan should not be used concomitantly with AZILECT [see Contraindications (4.2)].
+Therefore, in view of AZILECT’s MAO inhibitory activity, dextromethorphan is contraindicated for use with AZILECT [see Contraindications (4)].
 
-## 7.3 Sympathomimetic Medications
+## 7.3 MAO Inhibitors
+
+AZILECT is contraindicated for use with other MAO inhibitors because of the increased risk of nonselective MAO inhibition that may lead to a hypertensive crisis [see Contraindications (4)].
+
+## 7.4 Sympathomimetic Medications
 
 The concomitant use of AZILECT and sympathomimetic medications was not allowed in clinical studies.
-Severe hypertensive reactions have followed the administration of sympathomimetics and non-selective MAO inhibitors.
-One case of hypertensive crisis has been reported in a patient taking the recommended dose of a selective MAO-B inhibitor and a sympathomimetic medication (ephedrine).
-Elevated blood pressure was reported in another patient taking the recommended dose of AZILECT and ophthalmic drops with a sympathomimetic medication (tetrahydrozoline).
+Severe hypertensive reactions have followed the administration of sympathomimetics and nonselective MAO inhibitors.
+Hypertensive crisis has been reported in patients taking the recommended dose of AZILECT and sympathomimetic medications.
+Severe hypertension has been reported in patients taking the recommended dose of AZILECT and ophthalmic drops containing sympathomimetic medications.
 
 Because AZILECT is a selective MAOI, hypertensive reactions are not ordinarily expected with the concomitant use of sympathomimetic medications.
 Nevertheless, caution should be exercised when concomitantly using recommended doses of AZILECT with any sympathomimetic medications including nasal, oral, and ophthalmic decongestants and cold remedies.
 
-## 7.4 MAO Inhibitors
-
-AZILECT should not be administered along with other MAO inhibitors because of the increased risk of non-selective MAO inhibition that may lead to a hypertensive crisis [see Contraindications (4.3)].
-
 ## 7.5 Antidepressants
 
-Concomitant use of AZILECT with one of many classes of antidepressants (e.g., SSRIs, SNRIs, triazolopyridine, tricyclic or tetracyclic antidepressants) is not recommended [see Warnings and Precautions (5.1)].
+Concomitant use of AZILECT with one of many classes of antidepressants (e.g., SSRIs, SNRIs, triazolopyridine, tricyclic or tetracyclic antidepressants) is not recommended [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Concomitant use of AZILECT and MAO inhibitors is contraindicated [see Contraindications (4)].
 
-## 7.6 Levodopa/Carbidopa
-
-[see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
-
-## 7.7 Ciprofloxacin and Other CYP1A2 Inhibitors
+## 7.6 Ciprofloxacin or Other CYP1A2 Inhibitors
 
 Rasagiline plasma concentrations may increase up to 2 fold in patients using concomitant ciprofloxacin and other CYP1A2 inhibitors.
-This could result in increased adverse events [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+This could result in increased adverse events.
+Patients taking concomitant ciprofloxacin or other CYP1A2 inhibitors should not exceed a dose of AZILECT 0.5 mg once daily [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
-## 7.8 Theophylline
+## 7.7 Tyramine/Rasagiline Interaction
 
-[see Clinical Pharmacology (12.3)].
+MAO in the gastrointestinal tract and liver (primarily type A) provides protection from exogenous amines (e.g., tyramine) that have the capacity, if absorbed intact, to cause a tyramine reaction with hypertension including clinical syndromes referred to as hypertensive urgency, crisis, or emergency.
+Foods and medications containing large amounts of exogenous amines (e.g., from fermented cheese, herring, over-the-counter cough/cold medications) may cause release of norepinephrine resulting in a rise in systemic blood pressure.
 
-## 7.9 Tyramine/Rasagiline Interaction
-
-MAO in the gastrointestinal tract and liver (primarily type A) is thought to provide vital protection from exogenous amines (e.g., tyramine) that have the capacity, if absorbed intact, to cause a "hypertensive crisis," the so-called "cheese reaction".
-If large amounts of certain exogenous amines (e.g., from fermented cheese, herring, over-the-counter cough/cold medications) gain access to the systemic circulation because MAO-A has been inhibited, they cause release of norepinephrine which may result in a rise in systemic blood pressure.
-MAOIs that selectively inhibit MAO-B are largely devoid of the potential to cause tyramine-induced hypertensive crisis.
-
-Results of a special tyramine challenge study indicate that rasagiline is selective for MAO-B at recommended doses and can ordinarily be used without dietary tyramine restriction.
-However, certain foods (e.g., aged cheeses, such as Stilton cheese) may contain very high amounts (i.e., > 150 mg) of tyramine and could potentially cause a hypertensive cheese reaction in patients taking AZILECT due to mild increased sensitivity to tyramine.
-Patients should be advised to avoid foods (e.g., aged cheese) containing a very large amount of tyramine while taking recommended doses of AZILECT because of the potential for large increases in blood pressure.
+Results of a special tyramine challenge study indicate that rasagiline is selective for MAO-B at recommended doses and can be used without dietary tyramine restriction.
+However, certain foods may contain very high amounts (i.e., 150 mg or greater) of tyramine and could potentially cause a hypertensive reaction in individual patients taking AZILECT due to increased sensitivity to tyramine.
 Selectivity for inhibiting MAO-B diminishes in a dose-related manner as the dose is progressively increased above the recommended daily doses.
 
-There were no cases of hypertensive crisis in the clinical development program associated with 1 mg daily rasagiline treatment, in which most patients did not follow dietary tyramine restriction.
+There were no cases of hypertensive crisis in the clinical development program associated with 1 mg daily AZILECT treatment, in which most patients did not follow dietary tyramine restriction.
 
-Despite the selective inhibition of MAO-B at recommended doses of AZILECT, there have been post-marketing reports of patients who experienced significantly elevated blood pressure (including rare cases of hypertensive crisis) after ingestion of unknown amounts of tyramine-rich foods while taking recommended doses of AZILECT [see Dosing and Administration (2), and Warnings and Precautions (5.4)].
+There have been postmarketing reports of patients who experienced significantly elevated blood pressure (including rare cases of hypertensive crisis) after ingestion of unknown amounts of tyramine-rich foods while taking recommended doses of AZILECT.
+Patients should be advised to avoid foods containing a very large amount of tyramine while taking recommended doses of AZILECT [see Warnings and Precautions (5.1)].
+
+## 7.8 Dopaminergic Antagonists
+
+It is possible that dopamine antagonists, such as antipsychotics or metoclopramide, could diminish the effectiveness of AZILECT.

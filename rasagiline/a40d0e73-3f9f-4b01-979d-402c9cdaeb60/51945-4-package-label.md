@@ -1,19 +1,35 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-## AZILECT (rasagiline tablets) 0.5 mg 30s Label Text
+## Azilect® (rasagiline tablets) 0.5 mg, 30s Label Text
 
 NDC 68546-142-56
 
-AZILECT® (rasagiline tablets) 0.5 mg 30 Tablets Rx only
+AZILECT®
 
-TEVA® NEUROSCIENCE
+(rasagiline tablets)
 
-# PRINCIPAL DISPLAY PANEL
+0.5 mg
 
-## AZILECT (rasagiline tablets) 1 mg 30s Label Text
+30 Tablets Rx only
+
+TEVA®
+
+NEUROSCIENCE
+
+# Package/Label Display Panel
+
+## Azilect® (rasagiline tablets) 1 mg, 30s Label Text
 
 NDC 68546-229-56
 
-AZILECT® (rasagiline tablets) 1 mg 30 Tablets Rx only
+AZILECT®
 
-TEVA® NEUROSCIENCE
+(rasagiline tablets)
+
+1 mg
+
+30 Tablets Rx only
+
+TEVA®
+
+NEUROSCIENCE
