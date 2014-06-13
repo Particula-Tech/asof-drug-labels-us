@@ -114,7 +114,7 @@ Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failur
 
 Hematologic: agranulocytosis, aplastic anemia
 
-Immune System Disorders: anaphylactic reaction, Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS)
+Immune System Disorders: anaphylactic reaction, angioedema, Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS)
 
 Musculoskeletal and Connective Tissue Disorders: myalgia
 
