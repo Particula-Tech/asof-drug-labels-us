@@ -1,0 +1,19 @@
+# 6 ADVERSE REACTIONS
+
+## 6.1 Clinical Studies Experience
+
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+Table 1 shows frequently reported ocular adverse reactions with an incidence of ≥ 2% of subjects as seen in the combined clinical trial results from three randomized, placebo-controlled studies.
+
+Table 1: Ocular Adverse Reactions Reported by ≥ 2% of Subjects
+
+| MedDRA Preferred Term | Placebo (N=462) | Omidria (N=459) |
+| --- | --- | --- |
+|  | n (%) | n (%) |
+| Ocular Events |  |  |
+| Anterior Chamber Inflammation | 102 (22%) | 111 (24%) |
+| Intraocular Pressure Increased | 15 (3%) | 20 (4%) |
+| Posterior Capsule Opacification | 16 (4%) | 18 (4%) |
+| Eye Irritation | 6 (1%) | 9 (2%) |
+| Foreign Body Sensation in Eyes | 11 (2%) | 8 (2%) |

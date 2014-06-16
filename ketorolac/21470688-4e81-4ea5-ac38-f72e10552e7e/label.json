@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA205388"
+  ],
+  "inn": "ketorolac",
+  "labeler": "Omeros Corporation",
+  "package_ndcs": [
+    "62225-600-00",
+    "62225-600-04",
+    "62225-600-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "phenylephrine and ketorolac",
+      "name": "Omidria"
+    }
+  ],
+  "setid": "21470688-4e81-4ea5-ac38-f72e10552e7e",
+  "source": "dailymed"
+}
