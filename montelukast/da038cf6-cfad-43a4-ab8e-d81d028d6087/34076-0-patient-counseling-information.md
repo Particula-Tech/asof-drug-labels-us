@@ -19,6 +19,19 @@
 
 See the full patient prescribing information for montelukast sodium.
 
+________________________________________________________________________
+
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
+Mehsana, INDIA.
+
+For:
+
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
+
+8045016 Revised January 2014
+
 Patient Information
 
 Montelukast Sodium Tablets and
@@ -123,9 +136,9 @@ Montelukast sodium may cause serious side effects.
 - Behavior and mood-related changes.
   Tell your healthcare provider right away if you or your child have any of these symptoms while taking montelukast sodium:
 
-- Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels through out the body (systemic vasculitis).
+- Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
   Rarely, this can happen in people with asthma who take montelukast sodium.
-  This usually, but not always, happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
+  This sometimes happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
 
 Tell your healthcare provider right away if you get one or more of these symptoms:
 
@@ -154,7 +167,7 @@ Other side effects with montelukast sodium include:
 - allergic reactions [including swelling of the face, lips, tongue, and/or throat (which may cause trouble breathing or swallowing), hives and itching]
 - dizziness, drowsiness, pins and needles/numbness, seizures (convulsions or fits)
 - palpitations
-- nose bleed, stuffy nose
+- nose bleed, stuffy nose, swelling (inflammation) fo the lungs
 - heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
 - hepatitis
 - bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
@@ -209,6 +222,6 @@ Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8040660 Revised April 2013
+8045017 Revised January 2014
