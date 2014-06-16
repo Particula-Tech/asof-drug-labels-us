@@ -78,7 +78,6 @@ Tell your healthcare provider about all your medical conditions, including if yo
 - have high cholesterol or high triglycerides
 - have a history of a stroke
 - have or had depression, suicidal thoughts or behavior
-- have glaucoma
 - have kidney problems
 - have liver problems
 - have or had bleeding problems
@@ -165,7 +164,11 @@ PRISTIQ may also cause other serious side effects, including:
   PRISTIQ and other SNRIs/SSRIs may cause you to have an increased chance of bleeding.
   Taking aspirin, NSAIDs (non-steroidal anti-inflammatory drugs), or blood thinners may add to this risk.
   Tell your healthcare provider right away about any unusual bleeding or bruising.
-- Glaucoma (increased eye pressure)
+- Visual problems Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+  - eye pain
+  - changes in vision
+  - swelling or redness in or around the eye
 - Symptoms when stopping PRISTIQ (discontinuation symptoms).
   Side effects may occur when stopping PRISTIQ (discontinuation symptoms), especially when therapy is stopped suddenly.
   Your healthcare provider may want to decrease your dose slowly to help avoid side effects.
@@ -225,6 +228,6 @@ For the 100 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0539-5.0
+LAB-0539-6.0
 
-February 2013
+June 2014

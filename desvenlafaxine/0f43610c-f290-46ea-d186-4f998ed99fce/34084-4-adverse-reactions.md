@@ -7,7 +7,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
 - Elevated Blood Pressure [see Warnings and Precautions (5.3)]
 - Abnormal Bleeding [see Warnings and Precautions (5.4)]
-- Narrow-Angle Glaucoma [see Warnings and Precautions (5.5)]
+- Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]
 - Seizure [see Warnings and Precautions (5.8)]
