@@ -4,10 +4,9 @@ NDC 0378-0351-01
 
 Haloperidol Tablets, USP 0.5 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Haloperidol, USP....
-0.5 mg
+Each tablet contains: Haloperidol, USP 0.5 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -24,9 +23,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0351A8
+RM0351A9
 
 PRINCIPAL DISPLAY PANEL - 1 mg
 
@@ -34,10 +33,9 @@ NDC 0378-0257-01
 
 Haloperidol Tablets, USP 1 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Haloperidol, USP....
-1 mg
+Each tablet contains: Haloperidol, USP 1 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -54,9 +52,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0257A10
+RM0257A11
 
 PRINCIPAL DISPLAY PANEL - 2 mg
 
@@ -64,10 +62,9 @@ NDC 0378-0214-01
 
 Haloperidol Tablets, USP 2 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Haloperidol, USP....
-2 mg
+Each tablet contains: Haloperidol, USP 2 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -84,9 +81,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0214A9
+RM0214A10
 
 PRINCIPAL DISPLAY PANEL - 5 mg
 
@@ -94,10 +91,9 @@ NDC 0378-0327-01
 
 Haloperidol Tablets, USP 5 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Haloperidol, USP....
-5 mg
+Each tablet contains: Haloperidol, USP 5 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -114,9 +110,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0327A9
+RM0327A10
 
 PRINCIPAL DISPLAY PANEL - 10 mg
 
@@ -124,10 +120,9 @@ NDC 0378-0334-01
 
 Haloperidol Tablets, USP 10 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Haloperidol, USP....
-10 mg
+Each tablet contains: Haloperidol, USP 10 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -144,9 +139,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0334A2
+RM0334A3
 
 PRINCIPAL DISPLAY PANEL - 20 mg
 
@@ -154,10 +149,9 @@ NDC 0378-0335-01
 
 Haloperidol Tablets, USP 20 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
-Each tablet contains: Haloperidol, USP....
-20 mg
+Each tablet contains: Haloperidol, USP 20 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -174,6 +168,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0335A2
+RM0335A3
