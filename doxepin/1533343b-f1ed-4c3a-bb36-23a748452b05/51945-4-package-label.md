@@ -6,7 +6,7 @@ Doxepin HCl Capsules, USP 10 mg*
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Rx only 100 CAPSULES
+Rx only 100 Capsules
 
 *Each capsule contains doxepin hydrochloride, USP equivalent to 10 mg of doxepin.
 
@@ -27,9 +27,9 @@ See package insert for complete dosage information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM1049A9
+RM1049A10
 
 PRINCIPAL DISPLAY PANEL - 25 mg
 
@@ -39,7 +39,7 @@ Doxepin HCl Capsules, USP 25 mg*
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Rx only 100 CAPSULES
+Rx only 100 Capsules
 
 *Each capsule contains doxepin hydrochloride, USP equivalent to 25 mg of doxepin.
 
@@ -60,9 +60,9 @@ See package insert for complete dosage information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM3125A10
+RM3125A11
 
 PRINCIPAL DISPLAY PANEL - 50 mg
 
@@ -72,7 +72,7 @@ Doxepin HCl Capsules, USP 50 mg*
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Rx only 100 CAPSULES
+Rx only 100 Capsules
 
 *Each capsule contains doxepin hydrochloride, USP equivalent to 50 mg of doxepin.
 
@@ -93,9 +93,9 @@ See package insert for complete dosage information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM4250A10
+RM4250A11
 
 PRINCIPAL DISPLAY PANEL - 75 mg
 
@@ -105,7 +105,7 @@ Doxepin HCl Capsules, USP 75 mg*
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Rx only 100 CAPSULES
+Rx only 100 Capsules
 
 *Each capsule contains doxepin hydrochloride, USP equivalent to 75 mg of doxepin.
 
@@ -126,9 +126,9 @@ See package insert for complete dosage information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM5375A10
+RM5375A11
 
 PRINCIPAL DISPLAY PANEL - 100 mg
 
@@ -138,7 +138,7 @@ Doxepin HCl Capsules, USP 100 mg*
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Rx only 100 CAPSULES
+Rx only 100 Capsules
 
 *Each capsule contains doxepin hydrochloride, USP equivalent to 100 mg of doxepin.
 
@@ -159,6 +159,6 @@ See package insert for complete dosage information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM6410A9
+RM6410A10
