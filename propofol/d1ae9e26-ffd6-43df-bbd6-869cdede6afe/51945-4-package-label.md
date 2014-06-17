@@ -4,20 +4,13 @@ NDC 63323-269-94
 
 PRX260929
 
-DIPRIVAN® 1% INJECTABLE EMULSION, USP
+DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
 
-propofol
+200 mg per 20 mL (10 mg per mL)
 
-10 mg/mL propofol
+For Intravenous Administration
 
-For I.V.
-Administration
-
-20 mL single-patient infusion vial
-
-Sterile, nonpyrogenic
-
-Rx only
+20 mL - For Single Patient Use Only
 
 Shake Well Before Using
 
@@ -27,18 +20,14 @@ NDC 63323-269-94
 
 PRX260929
 
-DIPRIVAN® 1% INJECTABLE EMULSION, USP
+DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
 
-propofol
+200 mg per 20 mL (10 mg per mL)
 
-10 mg/mL propofol
-
-For IV Administration
-
-Sterile, nonpyrogenic
-
-Rx only
+For Intravenous Administration
 
 Shake Well Before Using
 
-Ten 20 mL single-patient infusion vials
+Ten 20 mL vials
+
+For Single Patient Use Only
