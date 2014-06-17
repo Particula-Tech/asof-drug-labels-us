@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203775"
+  ],
+  "inn": "cevimeline",
+  "labeler": "Pack Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "16571-657-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cevimeline hydrochloride",
+      "name": "Cevimeline Hydrochloride"
+    }
+  ],
+  "setid": "d4bd942a-1339-40c5-8fd4-850da5a69635",
+  "source": "dailymed"
+}
