@@ -25,7 +25,7 @@ Although dosage must be adjusted for the individual patient according to the res
 | Every 4 to 6 hours | 5,000 – 10,000 Units, either undiluted or in 50 – 100 mL of 5% Dextrose Injection |  |
 | Continuous Intravenous Infusion | Initial Dose | 5,000 Units by IV injection |
 | Continuous | 20,000 – 40,000 Units/24 hours in 1000 mL of 5% Dextrose Injection |  |
-| *Based on 150 lb. (68 kg) patient. |  |  |
+| * Based on 150 lb. (68 kg) patient. |  |  |
 
 Pediatric Use There are no adequate and well controlled studies on heparin use in pediatric patients.
 Pediatric dosing recommendations are based on clinical experience.
@@ -41,6 +41,7 @@ Geriatric Use Patients over 60 years of age may require lower doses of heparin (
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 Do not administer unless the solution is clear and container is undamaged.
+
 Discard unused portion.
 
 INSTRUCTIONS FOR USE
