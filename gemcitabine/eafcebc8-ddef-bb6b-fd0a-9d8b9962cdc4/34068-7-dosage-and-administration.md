@@ -44,7 +44,7 @@ Refer to Dosage and Administration (2.5) for recommendations for non-hematologic
 
 Table 3: Recommended Dose Reductions for Gemcitabine For Injection for Myelosuppression on Day of Treatment in Breast Cancer
 
-| Treatment Day | Absolute granulocyte count |  | Platelet count | % of full dose |
+| Treatment Day | Absolute granulocyte count (x 106/L) |  | Platelet count(x 106/L) | % of full dose |
 | --- | --- | --- | --- | --- |
 | Day 1 | ≥1500 | and | ≥ 100,000 | 100% |
 |  | less than1500 | or | less than 100,000 | Hold |
@@ -105,6 +105,7 @@ Permanently discontinue gemcitabine for injection for any of the following
 - Severe hepatic toxicity
 - Hemolytic-Uremic Syndrome
 - Capillary Leak Syndrome
+- Posterior reversible encephalopathy syndrome
 
 Withhold gemcitabine for injection or reduce dose by 50% for other severe (Grade 3 or 4) non-hematological toxicity until resolved.
 No dose modifications are recommended for alopecia, nausea, or vomiting.

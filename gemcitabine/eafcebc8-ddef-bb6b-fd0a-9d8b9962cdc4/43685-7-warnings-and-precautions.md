@@ -58,3 +58,9 @@ Radiation recall has been reported in patients who receive gemcitabine for injec
 
 Capillary leak syndrome (CLS) with severe consequences has been reported in patients receiving gemcitabine for injection as a single agent or in combination with other chemotherapeutic agents.
 Discontinue gemcitabine for injection if CLS develops during therapy.
+
+## 5.9 Posterior Reversible Encephalopathy Syndrome
+
+Posterior reversible encephalopathy syndrome (PRES) has been reported in patients receiving gemcitabine for injection as a single agent or in combination with other chemotherapeutic agents.
+PRES can present with headache, seizure, lethargy, hypertension, confusion, blindness, and other visual and neurologic disturbances.
+Confirm the diagnosis of PRES with magnetic resonance imaging (MRI) and discontinue gemcitabine for injection if PRES develops during therapy.

@@ -8,6 +8,7 @@ The following serious adverse reactions are discussed in greater detail in anoth
 - Hemolytic Uremic Syndrome [see Warnings and Precautions (5.4)]
 - Hepatic Toxicity [see Warnings and Precautions (5.5)]
 - Embryo-fetal Toxicity [see Warnings and Precautions (5.6), Use in Specific Populations (8.1), and Nonclinical Toxicology (13.1)].
+- Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -302,3 +303,5 @@ Skin — Cellulitis, severe skin reactions, including desquamation and bullous s
 Hepatic — Hepatic failure, hepatic veno-occlusive disease
 
 Pulmonary — Interstitial pneumonitis, pulmonary fibrosis, pulmonary edema, and adult respiratory distress syndrome (ARDS)
+
+Nervous System — Posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.9)]
