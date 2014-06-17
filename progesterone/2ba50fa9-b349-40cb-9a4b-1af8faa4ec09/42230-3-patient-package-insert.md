@@ -107,4 +107,6 @@ How should I store Endometrin?
 - Do not use Endometrin after the expiration date that is printed on the carton.
 - Keep Endometrin and all medicines out of the reach of children.
 
-MANUFACTURED FOR: FERRING PHARMACEUTICALS INC. PARSIPPANY, NJ 07054 6323-04
+MANUFACTURED FOR: FERRING PHARMACEUTICALS INC. PARSIPPANY, NJ 07054
+
+6323-04 / 6485-01

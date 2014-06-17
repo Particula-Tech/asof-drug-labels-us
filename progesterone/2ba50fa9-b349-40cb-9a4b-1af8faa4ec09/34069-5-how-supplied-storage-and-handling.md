@@ -8,4 +8,4 @@ These pouches are available in cartons packed:
 
 Store at 20 - 25°C (68 - 77°F); excursions permitted between 15 - 30°C (59 - 86°F).
 
-MANUFACTURED FOR: FERRING PHARMACEUITCALS INC. PARSIPPANY, NJ 07054 6323-04
+MANUFACTURED FOR: FERRING PHARMACEUITCALS INC. PARSIPPANY, NJ 07054 6323-04 / 6485-01
