@@ -2,9 +2,9 @@ PRINCIPAL DISPLAY PANEL - 2 mg
 
 NDC 0378-0271-01
 
-Diazepam Tablets, USP 2 mg
+Diazepam Tablets, USP CIV 2 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains 2 mg of diazepam, USP.
 
@@ -23,17 +23,17 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0271A7
+RM0271A8
 
 PRINCIPAL DISPLAY PANEL - 5 mg
 
 NDC 0378-0345-01
 
-Diazepam Tablets, USP 5 mg
+Diazepam Tablets, USP CIV 5 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains 5 mg of diazepam, USP.
 
@@ -52,17 +52,17 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0345A7
+RM0345A8
 
 PRINCIPAL DISPLAY PANEL - 10 mg
 
 NDC 0378-0477-01
 
-Diazepam Tablets, USP 10 mg
+Diazepam Tablets, USP CIV 10 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains 10 mg of diazepam, USP.
 
@@ -81,6 +81,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0477A9
+RM0477A10
