@@ -176,13 +176,15 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Rilpivirine
 | Ketoconazole | 400 mg once daily | 150 mg once daily | 15 | ↑ 30 (↑ 13 to ↑ 48) | ↑ 49 (↑ 31 to ↑ 70) | ↑ 76 (↑ 57 to ↑ 97) |
 | Methadone | 60 –100 mg once daily individualized dose | 25 mg once daily | 12 | ↔Comparison based on historic controls. | ↔ | ↔ |
 | Omeprazole | 20 mg once daily | 150 mg once daily | 16 | ↓ 40 (↓ 52 to ↓ 27) | ↓ 40 (↓ 49 to ↓ 29) | ↓ 33 (↓ 42 to ↓ 22) |
-| Rifabutin | 300 mg once daily | 150 mg once daily | 16 | ↓ 35 (↓ 42 to ↓ 26) | ↓ 46 (↓ 50 to ↓ 42) | ↓ 49 (↓ 52 to ↓ 46) |
+| Rifabutin | 300 mg once daily | 25 mg once daily | 18 | ↓ 31 (↓ 38 to ↓ 24) | ↓ 42 (↓ 48 to ↓ 35) | ↓ 48 (↓ 54 to ↓ 41) |
+| 300 mg once daily | 50 mg once daily | 18 | ↑ 43 (↑ 30 to ↑ 56)Reference arm for comparison was 25 mg q.d. rilpivirine administered alone. | ↑ 16 (↑ 6 to ↑ 26) | ↓ 7 (↓ 15 to↑ 1) |  |
 | Rifampin | 600 mg once daily | 150 mg once daily | 16 | ↓ 69 (↓ 73 to ↓ 64) | ↓ 80 (↓ 82 to ↓ 77) | ↓ 89 (↓ 90 to ↓ 87) |
 | Sildenafil | 50 mg single dose | 75 mg once daily | 16 | ↓ 8 (↓ 15 to ↓ 1) | ↓ 2 (↓ 8 to ↑ 5) | ↑ 4 (↓ 2 to ↑ 9) |
 | Telaprevir | 750 mg every 8 hours | 25 mg once daily | 16 | ↑ 49 (↑ 20 to ↑ 84) | ↑ 78 (↑ 44 to ↑ 120) | ↑ 93 (↑ 55 to ↑ 141) |
+| Tenofovir Disoproxil Fumarate | 300 mg once daily | 150 mg once daily | 16 | ↓4 (↓19 to ↑13) | ↑1 (↓13 to ↑18) | ↓1 (↓17 to ↑16) |
 | NA = not available |  |  |  |  |  |  |
 
-Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Rilpivirine
+Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Rilpivirine
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -198,12 +200,14 @@ Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | Ketoconazole | 400 mg once daily | 150 mg once daily | 14 | ↓ 15 (↓ 20 to ↓ 10) | ↓ 24 (↓ 30 to ↓ 18) | ↓ 66 (↓ 75 to ↓ 54) |
 | R(–) methadone | 60–100 mg once daily individualized dose | 25 mg once daily | 13 | ↓ 14 (↓ 22 to ↓ 5) | ↓ 16 (↓ 26 to ↓ 5) | ↓ 22 (↓ 33 to ↓ 9) |
 | S(+) methadone | 13 | ↓ 13 (↓ 22 to ↓ 3) | ↓ 16 (↓ 26 to ↓ 4) | ↓ 21 (↓ 33 to ↓ 8) |  |  |
+| Metformin | 850 mg single dose | 25 mg once daily | 20 | ↑ 2 (↓ 5 to ↑ 10) | ↓ 3 (↓ 10 to ↑ 6)N (maximum number of subjects with data) for AUC(0–∞)=15 | NA |
 | Omeprazole | 20 mg once daily | 150 mg once daily | 15 | ↓ 14 (↓ 32 to ↑ 9) | ↓ 14 (↓ 24 to ↓ 3) | NA |
 | Rifampin | 600 mg once daily | 150 mg once daily | 16 | ↑ 2 (↓ 7 to ↑ 12) | ↓ 1 (↓ 8 to ↑ 7) | NA |
 | 25-desacetylrifampin | 16 | ↔ (↓ 13 to ↑ 15) | ↓ 9 (↓ 23 to ↑ 7) | NA |  |  |
 | Sildenafil | 50 mg single dose | 75 mg once daily | 16 | ↓ 7 (↓ 20 to ↑ 8) | ↓ 3 (↓ 13 to ↑ 8) | NA |
 | N-desmethyl-sildenafil | 16 | ↓ 10 (↓ 20 to ↑ 2) | ↓ 8 (↓ 15 to ↓ 1) | NA |  |  |
 | Telaprevir | 750 mg every 8 hours | 25 mg once daily | 13 | ↓ 3 (↓ 21 to ↑ 21) | ↓ 5 (↓ 24 to ↑ 18) | ↓ 11 (↓ 33 to ↑ 18) |
+| Tenofovir Disoproxil Fumarate | 300 mg once daily | 150 mg once daily | 16 | ↑19 (↑6 to ↑34) | ↑23 (↑16 to ↑31) | ↑24 (↑10 to ↑38) |
 | NA = not available |  |  |  |  |  |  |
 
 ## 12.4 Microbiology

@@ -101,7 +101,6 @@ Do not take COMPLERA if:
     - phenobarbital (Luminal®)
     - phenytoin (Dilantin®, Dilantin-125®, Phenytek®)
   - anti-tuberculosis (anti-TB) medicines:
-    - rifabutin (Mycobutin®)
     - rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
     - rifapentine (Priftin®)
   - proton pump inhibitor (PPI) medicine for certain stomach or intestinal problems:
@@ -148,11 +147,13 @@ If you take COMPLERA, you should not take:
 
 - other medicines that contain tenofovir (VIREAD, TRUVADA®, STRIBILD®, ATRIPLA®)
 - other medicines that contain emtricitabine or lamivudine (EMTRIVA, Combivir®, Epivir® or Epivir-HBV®, Epzicom®, Trizivir®, ATRIPLA, TRUVADA, STRIBILD)
-- rilpivirine (Edurant)
+- rilpivirine (Edurant), unless recommended by your healthcare provider and you are taking rifabutin (Mycobutin®)
 - adefovir (HEPSERA®)
 
 Especially tell your healthcare provider if you take:
 
+- rifabutin (Mycobutin), a medicine to treat some bacterial infections.
+  Talk to your doctor or pharmacist about the right amount of rilpivirine you should take.
 - an antacid medicine that contains aluminum, magnesium hydroxide, or calcium carbonate.
   If you take an antacid during treatment with COMPLERA, take the antacid at least 2 hours before or at least 4 hours after you take COMPLERA.
 - a medicine to block the acid in your stomach, including cimetidine (Tagamet®), famotidine (Pepcid®), nizatidine (Axid®), or ranitidine hydrochloride (Zantac®).
@@ -286,10 +287,10 @@ Gilead Sciences, Inc.
 
 Foster City, CA 94404
 
-Revised: December 2013
+Revised: June 2014
 
 COMPLERA, EMTRIVA, HEPSERA, STRIBILD, TRUVADA, VIREAD, and VISTIDE are trademarks of Gilead Sciences, Inc., or its related companies.
 Edurant is a trademark of Janssen Pharmaceuticals, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-202123-GS-005
+202123-GS-006

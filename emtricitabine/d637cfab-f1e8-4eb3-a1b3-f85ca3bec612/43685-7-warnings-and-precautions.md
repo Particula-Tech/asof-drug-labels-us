@@ -80,7 +80,8 @@ Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should
 
 ## 5.8 Coadministration with Other Products
 
-COMPLERA should not be administered concurrently with other medicinal products containing any of the same active components, emtricitabine, rilpivirine, or tenofovir DF (ATRIPLA®, Edurant®, EMTRIVA, STRIBILD®, TRUVADA®, VIREAD), with medicinal products containing lamivudine (Epivir®, Epivir-HBV®, Epzicom®, Combivir®, Trizivir®), or with adefovir dipivoxil (HEPSERA).
+COMPLERA should not be administered concurrently with other medicinal products containing the active components emtricitabine or tenofovir DF (ATRIPLA®, EMTRIVA, STRIBILD®, TRUVADA®, VIREAD), with medicinal products containing lamivudine (Epivir®, Epivir-HBV®, Epzicom®, Combivir®, Trizivir®), or with adefovir dipivoxil (HEPSERA).
+COMPLERA should not be administered with rilpivirine (Edurant) unless needed for dose adjustment (e.g., with rifabutin) [See Dosage and Administration (2) and Drug Interactions (7.5)].
 
 ## 5.9 Fat Redistribution
 

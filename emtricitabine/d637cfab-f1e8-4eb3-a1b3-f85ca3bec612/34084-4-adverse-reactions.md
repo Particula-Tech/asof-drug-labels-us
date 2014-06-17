@@ -111,7 +111,7 @@ Emtricitabine or Tenofovir Disoproxil Fumarate: The following laboratory abnorma
 
 Adrenal Function
 
-In the pooled Phase 3 trials of C209 and C215, in subjects treated with rilpivirine plus any of the allowed background regimen (N=686), at Week 96, there was an overall mean change from baseline in basal cortisol of -19.1 (95% CI: -30.9; -7.4) nmol/L in the rilpivirine group, and of +0.1 (95% CI: -12.6; 12.8) nmol/L in the efavirenz group.
+In the pooled Phase 3 trials of C209 and C215, in subjects treated with rilpivirine plus any of the allowed background regimen (N=686), at Week 96, there was an overall mean change from baseline in basal cortisol of -19.1 (95% CI: -30.9; -7.4) nmol/L in the rilpivirine group, and of -0.6 (95% CI: -13.3; 12.2) nmol/L in the efavirenz group.
 At Week 96, the mean change from baseline in ACTH-stimulated cortisol levels was lower in the rilpivirine group (+18.4 ± 8.36 nmol/L) than in the efavirenz group (+54.1 ± 7.24 nmol/L).
 Mean values for both basal and ACTH-stimulated cortisol values at Week 96 were within the normal range.
 Overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.
