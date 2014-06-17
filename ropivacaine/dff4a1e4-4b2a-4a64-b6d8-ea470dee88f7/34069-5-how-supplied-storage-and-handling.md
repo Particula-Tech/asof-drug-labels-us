@@ -5,6 +5,7 @@ Naropin® Single Dose Vials
 | Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
 | PRX278523 | 63323-285-28 | 2 mg/mL (0.2%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| PRX278623 | 63323-286-27 | 5 mg/mL (0.5%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
 | PRX278635 | 63323-286-38 | 5 mg/mL (0.5%) | 30 mL fill, in a 30 mL single dose vial, in packages of 25. |
 
 Naropin® Single Dose Infusion Bottles
@@ -12,6 +13,7 @@ Naropin® Single Dose Infusion Bottles
 | Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
 | PRX278565 | 63323-285-68 | 2 mg/mL (0.2%) | 100 mL Infusion Bottle. |
+| PRX278564 | 63323-285-73 | 2 mg/mL (0.2%) | 200 mL Infusion Bottle. |
 
 The solubility of ropivacaine is limited at pH above 6.
 Thus, care must be taken as precipitation may occur if Naropin is mixed with alkaline solutions.
@@ -37,6 +39,6 @@ Fresenius Kabi USA, LLC
 
 Lake Zurich, IL 60047
 
-451350
+451350A
 
-Issued: August 2013
+Revised: April 2014
