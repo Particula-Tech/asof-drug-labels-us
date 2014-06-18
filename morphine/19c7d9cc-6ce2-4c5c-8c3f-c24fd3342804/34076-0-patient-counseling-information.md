@@ -1,29 +1,29 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Abuse Potential
+Addiction, Abuse, and Misuse
 
-Inform patients that morphine sulfate extended-release tablets contain morphine, a Schedule II controlled substance that is subject to abuse.
+Inform patients that the use of morphine sulfate extended-release tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
 Instruct patients not to share morphine sulfate extended-release tablets with others and to take steps to protect morphine sulfate extended-release tablets from theft or misuse.
 
 Life-Threatening Respiratory Depression
 
-Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting morphine sulfate extended-release tablets or when the dose is increased.
-Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting morphine sulfate extended-release tablets or when the dose is increased, and that it can occur even at recommended doses [see Warnings and Precautions (5.2)].
+Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
-Accidental Exposure
+Accidental Ingestion
 
-Instruct patients to take steps to store morphine sulfate extended-release tablets securely.
-Accidental exposure, especially in children, may result in serious harm or death.
-Advise patients to dispose of unused morphine sulfate extended-release tablets by flushing the tablets down the toilet.
+Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+Instruct patients to take steps to store morphine sulfate extended-release tablets securely and to dispose of unused morphine sulfate extended-release tablets by flushing the tablets down the toilet.
 
-Risks from Concomitant Use of Alcohol and other CNS Depressants
+Neonatal Opioid Withdrawal Syndrome
 
-Inform patients that the concomitant use of alcohol with morphine sulfate extended-release tablets can increase the risk of life-threatening respiratory depression.
-Instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter drug products that contain alcohol, during treatment with morphine sulfate extended-release tablets.
+Inform female patients of reproductive potential that prolonged use of morphine sulfate extended-release tablets during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.3)].
 
-Inform patients that potentially serious additive effects may occur if morphine sulfate extended-release tablets are used with other CNS depressants, and not to use such drugs unless supervised by a health care provider.
+Interactions with Alcohol and other CNS Depressants
+
+Inform patients that potentially serious additive effects may occur if morphine sulfate extended-release tablets are used with alcohol or other CNS depressants, and not to use such drugs unless supervised by a health care provider.
 
 Important Administration Instructions
 
@@ -60,13 +60,23 @@ Advise female patients that morphine sulfate extended-release tablets can cause 
 Healthcare professionals can telephone Rhodes Pharmaceuticals L.P.
 (1-888-827-0616) for information on this product.
 
-Marketed by: Rhodes Pharmaceuticals L.P.
+Disposal of Unused Morphine Sulfate Extended-Release Tablets
+
+Advise patients to flush the unused tablets down the toilet when morphine sulfate extended-release tablets are no longer needed.
+
+Marketed by:
+
+Rhodes Pharmaceuticals L.P.
+
 Coventry, RI 02816
 
-Manufactured by: Purdue Pharmaceuticals, L.P.
+Manufactured by:
+
+Purdue Pharmaceuticals, L.P.
+
 Wilson, NC 27893
 
-302942-0A
+302942-0B
 
 Rev.
-10/12
+05/2014

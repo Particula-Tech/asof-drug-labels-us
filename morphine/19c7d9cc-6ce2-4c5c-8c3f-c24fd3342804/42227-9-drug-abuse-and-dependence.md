@@ -3,7 +3,7 @@
 ## 9.1 Controlled Substance
 
 Morphine sulfate extended-release tablets contain morphine, a Schedule II controlled substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, oxycodone, and oxymorphone.
-Morphine sulfate extended-release tablets can be abused and are subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+Morphine sulfate extended-release tablets can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
 
@@ -27,7 +27,6 @@ In addition, abuse of opioids can occur in the absence of true addiction.
 
 Morphine sulfate extended-release tablets, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
 Careful recordkeeping of prescribing information, including quantity, frequency, and renewal requests as required by state law, is strongly advised.
-
 Proper assessment of the patient, proper prescribing practices, periodic reevaluation of therapy, and proper dispensing and storage are appropriate measures that help to reduce abuse of opioid drugs.
 
 Risks Specific to Abuse of Morphine Sulfate Extended-Release Tablets
@@ -47,7 +46,7 @@ Tolerance is the need for increasing doses of opioids to maintain a defined effe
 Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
 Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dose reduction of a drug.
-Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, or mixed agonist/antagonist analgesics (pentazocine, butorphanol, nalbuphine).
+Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, mixed agonist/antagonist analgesics (pentazocine, butorphanol, nalbuphine), or partial agonists (buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
 Morphine sulfate extended-release tablets should not be abruptly discontinued [see Dosage and Administration (2.3)].
@@ -55,4 +54,4 @@ If morphine sulfate extended-release tablets are abruptly discontinued in a phys
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
-Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.6)].
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].
