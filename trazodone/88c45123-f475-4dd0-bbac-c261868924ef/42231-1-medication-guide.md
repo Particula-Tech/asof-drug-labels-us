@@ -126,6 +126,11 @@ Serious side effects include:
 
 - Serotonin syndrome.
   Symptoms of serotonin syndrome include: agitation, hallucinations, problems with coordination, fast heartbeat, tight muscles, trouble walking, nausea, vomiting, diarrhea.
+- Visual problems
+  - eye pain
+  - changes in vision
+  - swelling or redness in or around the eye Only some people are at risk for these problems.
+    You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 - Feeling high or in a very good mood, then becoming irritable, or having too much energy, feeling like you have to keep talking or do not sleep (Mania).
 - Irregular or fast heartbeat or faint (QT prolongation).
 - Low blood pressure.
@@ -185,7 +190,7 @@ Angelini Pharma Inc.
 
 Gaithersburg, MD 20877
 
-© 2013, Angelini Pharma Inc.
+© 2014, Angelini Pharma Inc.
 
 All rights reserved.
 
@@ -195,4 +200,4 @@ Oleptro™ is a trademark of Angelini Pharma Inc.
 
 Contramid® is a registered trademark of Paladin Labs Inc.
 
-[August 2013]
+[June 2014]

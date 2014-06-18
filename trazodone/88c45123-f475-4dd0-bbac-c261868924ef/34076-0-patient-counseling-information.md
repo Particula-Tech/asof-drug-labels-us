@@ -12,6 +12,11 @@ Patients should be warned that:
 - The following symptoms should be reported to the physician: anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia, hypomania and mania.
 - They should inform their physician if they have a history of bipolar disorder, cardiac disease or myocardial infarction.
 - Serotonin syndrome could occur and symptoms may include changes in mental status (e.g., agitation, hallucinations, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, and hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, and diarrhea).
+- Patients should be advised that taking Oleptro can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+  Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+  Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+  Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+  [see Warnings and Precautions (5.3)]
 - Trazodone hydrochloride has been associated with the occurrence of priapism.
 - There is a potential for hypotension, including orthostatic hypotension and syncope.
 - There is a potential risk of bleeding (including life-threatening hemorrhages) and bleeding related events (including ecchymosis, hematoma, epistaxis, and petechiae) with the concomitant use of trazodone hydrochloride and NSAIDs, aspirin, or other drugs that affect coagulation or bleeding.
@@ -33,9 +38,9 @@ Important Administration Instructions:
 
 Angelini Pharma Inc.
 
-Gaithersburg, MD
+Gaithersburg, MD 20877
 
-© 2013, Angelini Pharma Inc.
+© 2014, Angelini Pharma Inc.
 
 All rights reserved.
 
@@ -45,4 +50,4 @@ Oleptro™ is a trademark of Angelini Pharma Inc.
 
 Contramid® is a registered trademark of Paladin Labs Inc.
 
-[August 2013]
+[June 2014]

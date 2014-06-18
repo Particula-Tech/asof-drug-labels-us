@@ -4,13 +4,13 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 - Clinical Worsening and Suicide Risk [see Boxed Warning and Warnings and Precautions (5.1)]
 - Serotonin Syndrome or NMS-like Reactions [see Warnings and Precautions (5.2)]
-- QT Prolongation and Risk of Sudden Death [see Warnings and Precautions (5.4)]
-- Orthostatic Hypotension [see Warnings and Precautions (5.6)]
-- Abnormal bleeding events [see Warnings and Precautions (5.7)]
-- Priapism [see Warnings and Precautions (5.9)]
-- Hyponatremia [see Warnings and Precautions (5.10)]
-- Cognitive and Motor Impairment [see Warnings and Precautions (5.11)]
-- Discontinuation symptoms [see Warnings and Precautions (5.12)]
+- QT Prolongation and Risk of Sudden Death [see Warnings and Precautions (5.5)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.7)]
+- Abnormal bleeding events [see Warnings and Precautions (5.8)]
+- Priapism [see Warnings and Precautions (5.10)]
+- Hyponatremia [see Warnings and Precautions (5.11)]
+- Cognitive and Motor Impairment [see Warnings and Precautions (5.12)]
+- Discontinuation symptoms [see Warnings and Precautions (5.13)]
 
 The most common adverse reactions (reported in ≥5% and at twice the rate of placebo) are: somnolence/sedation, dizziness, constipation, vision blurred.
 
@@ -94,7 +94,7 @@ Vascular Disorders— Infrequent: flushing
 
 ## 6.2 Postmarketing Experience
 
-Spontaneous reports regarding trazodone hydrochloride received from postmarketing experience include the following: abnormal dreams, agitation, alopecia, anxiety, aphasia, apnea, ataxia, breast enlargement or engorgement, cardiospasm, cerebrovascular accident, chills, cholestasis, clitorism, congestive heart failure, diplopia, edema, extrapyramidal symptoms, grand mal seizures, hallucinations, hemolytic anemia, hirsutism, hyperbilirubinemia, increased amylase, increased salivation, insomnia, leukocytosis, leukonychia, jaundice, lactation, liver enzyme alterations, methemoglobinemia, nausea/vomiting (most frequently), paresthesia, paranoid reaction, priapism [see Warnings and Precautions (5.9) and Patient Counseling Information (17.1)], pruritus, psoriasis, psychosis, rash, stupor, inappropriate ADH syndrome, tardive dyskinesia, unexplained death, urinary incontinence, urinary retention, urticaria, vasodilation, vertigo, and weakness.
+Spontaneous reports regarding trazodone hydrochloride received from postmarketing experience include the following: abnormal dreams, agitation, alopecia, anxiety, aphasia, apnea, ataxia, breast enlargement or engorgement, cardiospasm, cerebrovascular accident, chills, cholestasis, clitorism, congestive heart failure, diplopia, edema, extrapyramidal symptoms, grand mal seizures, hallucinations, hemolytic anemia, hirsutism, hyperbilirubinemia, increased amylase, increased salivation, insomnia, leukocytosis, leukonychia, jaundice, lactation, liver enzyme alterations, methemoglobinemia, nausea/vomiting (most frequently), paresthesia, paranoid reaction, priapism [see Warnings and Precautions (5.10) and Patient Counseling Information (17.1)], pruritus, psoriasis, psychosis, rash, stupor, inappropriate ADH syndrome, tardive dyskinesia, unexplained death, urinary incontinence, urinary retention, urticaria, vasodilation, vertigo, and weakness.
 
 Cardiovascular system effects which have been reported include the following: conduction block, orthostatic hypotension and syncope, palpitations, bradycardia, atrial fibrillation, myocardial infarction, cardiac arrest, arrhythmia, ventricular ectopic activity, including ventricular tachycardia and QT prolongation.
-In postmarketing surveillance, prolonged QT interval, Torsades de Pointes, and ventricular tachycardia have been reported with the immediate-release form of trazodone at doses of 100 mg per day or less [see Warnings and Precautions (5.4)].
+In postmarketing surveillance, prolonged QT interval, Torsades de Pointes, and ventricular tachycardia have been reported with the immediate-release form of trazodone at doses of 100 mg per day or less [see Warnings and Precautions (5.5)].

@@ -9,7 +9,7 @@ The maximum daily dose should not exceed 375 mg.
 - Oleptro tablets should be taken orally at the same time every day, in the late evening preferably at bedtime, on an empty stomach.
 - Once an adequate response has been achieved, dosage may be gradually reduced, with subsequent adjustment depending on therapeutic response.
 - Patients should be monitored for withdrawal symptoms when discontinuing treatment with trazodone hydrochloride.
-  The dose should be gradually reduced whenever possible [see Warnings and Precautions (5.12)].
+  The dose should be gradually reduced whenever possible [see Warnings and Precautions (5.13)].
 
 ## 2.2 Maintenance Treatment
 
@@ -30,10 +30,10 @@ In a patient who requires more urgent treatment of a psychiatric condition, othe
 In some cases, a patient already receiving Oleptro therapy may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, Oleptro should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for two weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with Oleptro may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see WARNINGS AND PRECAUTIONS (5.2, 5.8)].
+Therapy with Oleptro may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see WARNINGS AND PRECAUTIONS (5.2, 5.9)].
 
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with Oleptro is unclear.
-The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS AND PRECAUTIONS (5.2)].
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see WARNINGS AND PRECAUTIONS (5.2)].
 
 ## 2.5 Important Administration Instructions
 

@@ -23,7 +23,7 @@ Of 202 patients treated with Oleptro in the clinical trial, there were 9 patient
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical literature and experience with trazodone have not identified differences in responses between elderly and younger patients.
 However, as experience in the elderly with Oleptro is limited, it should be used with caution in geriatric patients.
 
-Antidepressants have been associated with cases of clinically significant hyponatremia in elderly patients who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.10)].
+Antidepressants have been associated with cases of clinically significant hyponatremia in elderly patients who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.11)].
 
 ## 8.6 Renal Impairment
 

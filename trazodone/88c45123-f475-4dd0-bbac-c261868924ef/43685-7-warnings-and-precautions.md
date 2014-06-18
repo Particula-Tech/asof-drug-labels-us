@@ -40,7 +40,8 @@ Although a causal link between the emergence of such symptoms and either the wor
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
-Such monitoring should include daily observation by families and caregivers.Prescriptions for Oleptro should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Such monitoring should include daily observation by families and caregivers.
+Prescriptions for Oleptro should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## 5.2 Serotonin Syndrome
 
@@ -61,7 +62,11 @@ If concomitant use of Oleptro with other serotonergic drugs, triptans, tricyclic
 
 Treatment with Oleptro and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
-## 5.3 Screening Patients for Bipolar Disorder and Monitoring for Mania/Hypomania
+## 5.3 Angle Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including Oleptro may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.4 Screening Patients for Bipolar Disorder and Monitoring for Mania/Hypomania
 
 A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
@@ -69,7 +74,7 @@ Whether any of the symptoms described for clinical worsening and suicide risk re
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Oleptro is not approved for use in treating bipolar depression.
 
-## 5.4 QT Prolongation and Risk of Sudden Death
+## 5.5 QT Prolongation and Risk of Sudden Death
 
 Trazodone is known to prolong the QT/QTc interval.
 Some drugs that prolong the QT/QTc interval can cause Torsades de Pointes with sudden, unexplained death.
@@ -78,31 +83,31 @@ The relationship of QT prolongation is clearest for larger increases (20 msec an
 Although Torsades de Pointes has not been observed with the use of Oleptro at recommended doses in premarketing trials, experience is too limited to rule out an increased risk.
 However, there have been postmarketing reports of Torsades de Pointes with the immediate-release form of trazodone (in the presence of multiple confounding factors), even at doses of 100 mg per day or less.
 
-## 5.5 Use in Patients with Heart Disease
+## 5.6 Use in Patients with Heart Disease
 
 Trazodone hydrochloride is not recommended for use during the initial recovery phase of myocardial infarction.
 
 Caution should be used when administering Oleptro to patients with cardiac disease and such patients should be closely monitored, since antidepressant drugs (including trazodone hydrochloride) may cause cardiac arrhythmias.
 
-QT prolongation has been reported with trazodone therapy [see Warnings and Precautions (5.4)].
+QT prolongation has been reported with trazodone therapy [see Warnings and Precautions (5.5)].
 Clinical studies in patients with pre-existing cardiac disease indicate that trazodone hydrochloride may be arrhythmogenic in some patients in that population.
 Arrhythmias identified include isolated PVCs, ventricular couplets, tachycardia with syncope, and Torsades de Pointes.
 Postmarketing events have been reported at doses of 100 mg or less with the immediate-release form of trazodone.
 
 Concomitant administration of drugs that prolong the QT interval or that are inhibitors of CYP3A4 may increase the risk of cardiac arrhythmia.
 
-## 5.6 Orthostatic Hypotension and Syncope
+## 5.7 Orthostatic Hypotension and Syncope
 
 Hypotension, including orthostatic hypotension and syncope has been reported in patients receiving trazodone hydrochloride.
 Concomitant use with an antihypertensive may require a reduction in the dose of the antihypertensive drug.
 
-## 5.7 Abnormal Bleeding
+## 5.8 Abnormal Bleeding
 
 Postmarketing data have shown an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal (GI) bleeding.
 While no association between trazodone and bleeding events, in particular GI bleeding, was shown, patients should be cautioned about potential risk of bleeding associated with the concomitant use of trazodone and NSAIDs, aspirin, or other drugs that affect coagulation or bleeding.
 Other bleeding events related to SSRIs and SNRIs have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
 
-## 5.8 Interaction with MAOIs
+## 5.9 Interaction with MAOIs
 
 In patients receiving serotonergic drugs in combination with a monoamine oxidase inhibitor (MAOI), there have been reports of serious, sometimes fatal reactions including hyperthermia, rigidity, myoclonus, autonomic instability with rapid fluctuation in vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
 These reactions have also been reported in patients who have recently discontinued antidepressant treatment and have been started on an MAOI.
@@ -111,7 +116,7 @@ Furthermore, limited animal data on the effects of combined use of serotonergic 
 Therefore, it is recommended that Oleptro should not be used in combination with an MAOI or within 14 days of discontinuing treatment with an MAOI.
 Similarly, at least 14 days should be allowed after stopping Oleptro before starting an MAOI.
 
-## 5.9 Priapism
+## 5.10 Priapism
 
 Rare cases of priapism (painful erections greater than 6 hours in duration) were reported in men receiving trazodone.
 Priapism, if not treated promptly, can result in irreversible damage to the erectile tissue.
@@ -119,7 +124,7 @@ Men who have an erection lasting greater than 6 hours, whether painful or not, s
 
 Trazodone should be used with caution in men who have conditions that might predispose them to priapism (e.g., sickle cell anemia, multiple myeloma, or leukemia), or in men with anatomical deformation of the penis (e.g., angulation, cavernosal fibrosis, or Peyronie's disease).
 
-## 5.10 Hyponatremia
+## 5.11 Hyponatremia
 
 Hyponatremia may occur as a result of treatment with antidepressants.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
@@ -131,12 +136,12 @@ Discontinuation of Oleptro should be considered in patients with symptomatic hyp
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-## 5.11 Potential for Cognitive and Motor Impairment
+## 5.12 Potential for Cognitive and Motor Impairment
 
 Oleptro may cause somnolence or sedation and may impair the mental and/or physical ability required for the performance of potentially hazardous tasks.
 Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that the drug treatment does not affect them adversely.
 
-## 5.12 Discontinuation Symptoms
+## 5.13 Discontinuation Symptoms
 
 Withdrawal symptoms including anxiety, agitation and sleep disturbances, have been reported with trazodone.
 Clinical experience suggests that the dose should be gradually reduced before complete discontinuation of the treatment.
