@@ -108,7 +108,7 @@ When your healthcare provider gives you a prescription for LAMICTAL:
 - •Make sure you can read it clearly.
 - •Talk to your pharmacist to check that you are given the correct medicine.
 - •Each time you fill your prescription, check the tablets you receive against the pictures of the tablets below.
-  These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets.
+- These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets.
   Immediately call your pharmacist if you receive a LAMICTAL tablet that does not look like one of the tablets shown below, as you may have received the wrong medication.
 
 LAMICTAL (lamotrigine) Tablets
@@ -180,6 +180,7 @@ How should I take LAMICTAL?
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
   Do not take two doses at the same time.
+- •If you take too much LAMICTAL, call your healthcare provider or your local Poison Control Center or go to the nearest hospital emergency room right away.
 - •You may not feel the full effect of LAMICTAL for several weeks.
 - •If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - •Swallow LAMICTAL tablets whole.
@@ -260,7 +261,7 @@ Inactive ingredients: artificial cherry flavor, crospovidone, ethylcellulose, ma
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAMICTAL and LAMICTAL ODT are registered trademarks of the GlaxoSmithKline group of companies.
+LAMICTAL and LAMICTAL ODT are registered trademarks of the GSK group of companies.
 
 DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
 
@@ -282,9 +283,9 @@ LAMICTAL Orally Disintegrating Tablets are manufactured by
 
 Eurand, Inc., Vandalia, OH 45377
 
-©2013, GlaxoSmithKline group of companies.
+©2014, the GSK group of companies.
 All rights reserved.
 
-December 2013
+June 2014
 
-LMT:8MG
+LMT:9MG

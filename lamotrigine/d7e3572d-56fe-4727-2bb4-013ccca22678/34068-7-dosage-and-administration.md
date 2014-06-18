@@ -23,7 +23,7 @@ Because lamotrigine is metabolized predominantly by glucuronic acid conjugation,
 Target Plasma Levels for Patients With Epilepsy or Bipolar Disorder: A therapeutic plasma concentration range has not been established for lamotrigine.
 Dosing of LAMICTAL should be based on therapeutic response [see Clinical Pharmacology (12.3)].
 
-Women Taking Estrogen-Containing Oral Contraceptives:Starting LAMICTAL in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for LAMICTAL should be necessary solely based on the use of estrogen-containing oral contraceptives.
+Women Taking Estrogen-Containing Oral Contraceptives: Starting LAMICTAL in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for LAMICTAL should be necessary solely based on the use of estrogen-containing oral contraceptives.
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL based on the concomitant AED or other concomitant medications (see Table 1 or Table 5).
 See below for adjustments to maintenance doses of LAMICTAL in women taking estrogen-containing oral contraceptives.
 
@@ -58,7 +58,7 @@ Patients With Renal Impairment: Initial doses of LAMICTAL should be based on pat
 Few patients with severe renal impairment have been evaluated during chronic treatment with LAMICTAL.
 Because there is inadequate experience in this population, LAMICTAL should be used with caution in these patients.
 
-Discontinuation Strategy:Epilepsy: For patients receiving LAMICTAL in combination with other AEDs, a reevaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
+Discontinuation Strategy: Epilepsy: For patients receiving LAMICTAL in combination with other AEDs, a reevaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
 
 If a decision is made to discontinue therapy with LAMICTAL, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
 

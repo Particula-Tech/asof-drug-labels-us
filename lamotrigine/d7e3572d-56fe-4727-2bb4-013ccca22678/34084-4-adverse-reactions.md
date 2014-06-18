@@ -19,7 +19,7 @@ LAMICTAL has been evaluated for safety in patients with epilepsy and in patients
 Adverse reactions reported for each of these patient populations are provided below.
 Excluded are adverse reactions considered too general to be informative and those not reasonably attributable to the use of the drug.
 
-Epilepsy:Most Common Adverse Reactions in All Clinical Studies: Adjunctive Therapy in Adults With Epilepsy: The most commonly observed (≥5% for LAMICTAL and more common on drug than placebo) adverse reactions seen in association with LAMICTAL during adjunctive therapy in adults and not seen at an equivalent frequency among placebo-treated patients were: dizziness, ataxia, somnolence, headache, diplopia, blurred vision, nausea, vomiting, and rash.
+Epilepsy: Most Common Adverse Reactions in All Clinical Studies: Adjunctive Therapy in Adults With Epilepsy: The most commonly observed (≥5% for LAMICTAL and more common on drug than placebo) adverse reactions seen in association with LAMICTAL during adjunctive therapy in adults and not seen at an equivalent frequency among placebo-treated patients were: dizziness, ataxia, somnolence, headache, diplopia, blurred vision, nausea, vomiting, and rash.
 Dizziness, diplopia, ataxia, blurred vision, nausea, and vomiting were dose-related.
 Dizziness, diplopia, ataxia, and blurred vision occurred more commonly in patients receiving carbamazepine with LAMICTAL than in patients receiving other AEDs with LAMICTAL.
 Clinical data suggest a higher incidence of rash, including serious rash, in patients receiving concomitant valproate than in patients not receiving valproate [see Warnings and Precautions (5.1)].
@@ -106,9 +106,9 @@ In a randomized, parallel study comparing placebo and 300 and 500 mg/day of LAMI
 Table 9.
 Dose-Related Adverse Reactions From a Randomized, Placebo-Controlled Adjunctive Trial in Adults With Epilepsy
 
-|  | Percent of Patients Experiencing Adverse Reactions |  |  |
+| Adverse Reaction | Percent of Patients Experiencing Adverse Reactions |  |  |
 | --- | --- | --- | --- |
-| Adverse Reaction | Placebo(n = 73) | LAMICTAL300 mg(n = 71) | LAMICTAL500 mg(n = 72) |
+| Placebo(n = 73) | LAMICTAL300 mg(n = 71) | LAMICTAL500 mg(n = 72) |  |
 | Ataxia | 10 | 10 | 28ab |
 | Blurred vision | 10 | 11 | 25ab |
 | Diplopia | 8 | 24a | 49ab |
@@ -311,39 +311,39 @@ All reported adverse reactions are included except those already listed in the p
 
 Adverse reactions are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse reactions are defined as those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare adverse reactions are those occurring in fewer than 1/1,000 patients.
 
-Body as a Whole:Infrequent: Allergic reaction, chills, and malaise.
+Body as a Whole: Infrequent: Allergic reaction, chills, and malaise.
 
-Cardiovascular System:Infrequent: Flushing, hot flashes, hypertension, palpitations, postural hypotension, syncope, tachycardia, and vasodilation.
+Cardiovascular System: Infrequent: Flushing, hot flashes, hypertension, palpitations, postural hypotension, syncope, tachycardia, and vasodilation.
 
-Dermatological:Infrequent: Acne, alopecia, hirsutism, maculopapular rash, skin discoloration, and urticaria.
+Dermatological: Infrequent: Acne, alopecia, hirsutism, maculopapular rash, skin discoloration, and urticaria.
 Rare: Angioedema, erythema, exfoliative dermatitis, fungal dermatitis, herpes zoster, leukoderma, multiforme erythema, petechial rash, pustular rash, Stevens-Johnson syndrome, and vesiculobullous rash.
 
-Digestive System:Infrequent: Dysphagia, eructation, gastritis, gingivitis, increased appetite, increased salivation, liver function tests abnormal, and mouth ulceration.
+Digestive System: Infrequent: Dysphagia, eructation, gastritis, gingivitis, increased appetite, increased salivation, liver function tests abnormal, and mouth ulceration.
 Rare: Gastrointestinal hemorrhage, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hemorrhagic colitis, hepatitis, melena, stomach ulcer, stomatitis, and tongue edema.
 
-Endocrine System:Rare: Goiter and hypothyroidism.
+Endocrine System: Rare: Goiter and hypothyroidism.
 
-Hematologic and Lymphatic System:Infrequent: Ecchymosis and leukopenia.
+Hematologic and Lymphatic System: Infrequent: Ecchymosis and leukopenia.
 Rare: Anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficiency anemia, leukocytosis, lymphocytosis, macrocytic anemia, petechia, and thrombocytopenia.
 
-Metabolic and Nutritional Disorders:Infrequent: Aspartate transaminase increased.
+Metabolic and Nutritional Disorders: Infrequent: Aspartate transaminase increased.
 Rare: Alcohol intolerance, alkaline phosphatase increase, alanine transaminase increase, bilirubinemia, general edema, gamma glutamyl transpeptidase increase, and hyperglycemia.
 
-Musculoskeletal System:Infrequent: Arthritis, leg cramps, myasthenia, and twitching.
+Musculoskeletal System: Infrequent: Arthritis, leg cramps, myasthenia, and twitching.
 Rare: Bursitis, muscle atrophy, pathological fracture, and tendinous contracture.
 
-Nervous System:Frequent: Confusion and paresthesia.
+Nervous System: Frequent: Confusion and paresthesia.
 Infrequent: Akathisia, apathy, aphasia, central nervous system (CNS) depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
 Rare: Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal syndrome, faintness, grand mal convulsions, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, manic depression reaction, muscle spasm, neuralgia, neurosis, paralysis, and peripheral neuritis.
 
-Respiratory System:Infrequent: Yawn.
+Respiratory System: Infrequent: Yawn.
 Rare: Hiccup and hyperventilation.
 
-Special Senses:Frequent: Amblyopia.
+Special Senses: Frequent: Amblyopia.
 Infrequent: Abnormality of accommodation, conjunctivitis, dry eyes, ear pain, photophobia, taste perversion, and tinnitus.
 Rare: Deafness, lacrimation disorder, oscillopsia, parosmia, ptosis, strabismus, taste loss, uveitis, and visual field defect.
 
-Urogenital System:Infrequent: Abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, and urinary incontinence.
+Urogenital System: Infrequent: Abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, and urinary incontinence.
 Rare: Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatinine increase, cystitis, dysuria, epididymitis, female lactation, kidney failure, kidney pain, nocturia, urinary retention, and urinary urgency.
 
 ## 6.3 Postmarketing Experience

@@ -155,7 +155,7 @@ Estrogen-Containing Oral Contraceptives: In 16 female volunteers, an oral contra
 In this study, trough serum lamotrigine concentrations gradually increased and were approximately 2-fold higher on average at the end of the week of the inactive hormone preparation compared with trough lamotrigine concentrations at the end of the active hormone cycle.
 
 Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (“pill-free” week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7)]).
-The increase in lamotrigine plasma levels will be greater if the dose of LAMICTAL is increased in the few days before or during the “pill-free”week.
+The increase in lamotrigine plasma levels will be greater if the dose of LAMICTAL is increased in the few days before or during the “pill-free” week.
 Increases in lamotrigine plasma levels could result in dose-dependent adverse reactions.
 
 In the same study, coadministration of LAMICTAL (300 mg/day) in 16 female volunteers did not affect the pharmacokinetics of the ethinylestradiol component of the oral contraceptive preparation.
