@@ -120,5 +120,5 @@ NSAID medicines that need a prescription
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2012 Depomed, Inc. ZIP-001-C.2 Rev.
-DEC 2012
+© 2014 Depomed, Inc. ZIP-001-C.3 Rev.
+FEB 2014
