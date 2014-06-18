@@ -124,7 +124,7 @@ PEDIATRIC MAINTENANCE OF ANESTHESIA
 | Age Range | Maintenance Dosage(mcg/kg/min) | Duration (minutes) |
 | --- | --- | --- |
 | 2 months to 2 years | 199 (82 to 394) | 65 (12 to 282) |
-| 2 to 12 years | 188 (12 to 1041) | 69 (23 to 374) |
+| 2 to 12 years | 188 (12 to 1,041) | 69 (23 to 374) |
 | >12 through 16 years | 161 (84 to 359) | 69 (26 to 251) |
 
 Neuroanesthesia
@@ -160,7 +160,7 @@ Case reports from the published literature generally reflect that DIPRIVAN Injec
 
 In hemodynamically stable head trauma patients ranging in age from 19 to 43 years, adequate sedation was maintained with DIPRIVAN Injectable Emulsion or morphine.
 There were no apparent differences in adequacy of sedation, intracranial pressure, cerebral perfusion pressure, or neurologic recovery between the treatment groups.
-In literature reports of severely head‑injured patients in Neurosurgical ICUs, DIPRIVAN Injectable Emulsion infusion and hyperventilation, both with and without diuretics, controlled intracranial pressure while maintaining cerebral perfusion pressure.
+In literature reports of severely head-injured patients in Neurosurgical ICUs, DIPRIVAN Injectable Emulsion infusion and hyperventilation, both with and without diuretics, controlled intracranial pressure while maintaining cerebral perfusion pressure.
 In some patients, bolus doses resulted in decreased blood pressure and compromised cerebral perfusion pressure.
 
 DIPRIVAN Injectable Emulsion was found to be effective in status epilepticus which was refractory to the standard anticonvulsant therapies.
@@ -169,7 +169,7 @@ For these patients, as well as for ARDS/respiratory failure and tetanus patients
 Pediatric Patients
 
 A single, randomized, controlled, clinical trial that evaluated the safety and effectiveness of DIPRIVAN Injectable Emulsion versus standard sedative agents (SSA) was conducted on 327 pediatric ICU patients.
-Patients were randomized to receive either DIPRIVAN Injectable Emulsion 2%, (113 patients), DIPRIVAN Injectable Emulsion 1%, (109 patients), or an SSA (eg, lorazepam, chloral hydrate, fentanyl, ketamine, morphine, or phenobarbital).
+Patients were randomized to receive either DIPRIVAN Injectable Emulsion 2%, (113 patients), DIPRIVAN Injectable Emulsion 1%, (109 patients), or an SSA (e.g., lorazepam, chloral hydrate, fentanyl, ketamine, morphine, or phenobarbital).
 DIPRIVAN Injectable Emulsion therapy was initiated at an infusion rate of 5.5 mg/kg/hr and titrated as needed to maintain sedation at a standardized level.
 The results of the study showed an increase in the number of deaths in patients treated with DIPRIVAN Injectable Emulsion as compared to SSAs.
 Of the 25 patients who died during the trial or within the 28-day follow-up period: 12 (11% were) in the DIPRIVAN Injectable Emulsion 2% treatment group, 9 (8% were) in the DIPRIVAN Injectable Emulsion 1% treatment group, and 4% were (4%) in the SSA treatment group.

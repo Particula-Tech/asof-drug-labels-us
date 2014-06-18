@@ -30,7 +30,7 @@ Do not use if contamination is suspected.
 Discard unused drug product as directed within the required time limits (see DOSAGE AND ADMINISTRATION, Handling Procedures).
 
 There have been reports, in the literature and other public sources, of the transmission of bloodborne pathogens (such as Hepatitis B, Hepatitis C, and HIV) from unsafe injection practices, and use of propofol vials intended for single use on multiple persons.
-DIPRIVAN Injectable Emulsion vials are never to be accessed more than once or used on more than one person.
+DIPRIVAN Injectable Emulsion vial is never to be accessed more than once or used on more than one person.
 
 # PRECAUTIONS
 
@@ -64,7 +64,7 @@ Intra-arterial injection in animals did not induce local tissue effects.
 Accidental intra-arterial injection has been reported in patients, and, other than pain, there were no major sequelae.
 
 Intentional injection into subcutaneous or perivascular tissues of animals caused minimal tissue reaction.
-During the post‑marketing period, there have been rare reports of local pain, swelling, blisters, and/or tissue necrosis following accidental extravasation of DIPRIVAN Injectable Emulsion.
+During the post-marketing period, there have been rare reports of local pain, swelling, blisters, and/or tissue necrosis following accidental extravasation of DIPRIVAN Injectable Emulsion.
 
 Perioperative myoclonia, rarely including convulsions and opisthotonos, has occurred in association with DIPRIVAN Injectable Emulsion administration.
 
@@ -102,12 +102,12 @@ Throughout the weaning process, this level of sedation may be maintained in the 
 Because of the rapid clearance of DIPRIVAN Injectable Emulsion, abrupt discontinuation of a patient's infusion may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation, making weaning from mechanical ventilation difficult.
 It is therefore recommended that administration of DIPRIVAN Injectable Emulsion be continued in order to maintain a light level of sedation throughout the weaning process until 10 to 15 minutes prior to extubation, at which time the infusion can be discontinued.
 
-Since DIPRIVAN Injectable Emulsion is formulated in an oil‑in-water emulsion, elevations in serum triglycerides may occur when DIPRIVAN Injectable Emulsion is administered for extended periods of time.
+Since DIPRIVAN Injectable Emulsion is formulated in an oil-in-water emulsion, elevations in serum triglycerides may occur when DIPRIVAN Injectable Emulsion is administered for extended periods of time.
 Patients at risk of hyperlipidemia should be monitored for increases in serum triglycerides or serum turbidity.
 Administration of DIPRIVAN Injectable Emulsion should be adjusted if fat is being inadequately cleared from the body.
 A reduction in the quantity of concurrently administered lipids is indicated to compensate for the amount of lipid infused as part of the DIPRIVAN Injectable Emulsion formulation; 1 mL of DIPRIVAN Injectable Emulsion contains approximately 0.1 g of fat (1.1 kcal).
 
-EDTA is a strong chelator of trace metals — including zinc.
+EDTA is a strong chelator of trace metals - including zinc.
 Although with DIPRIVAN Injectable Emulsion there are no reports of decreased zinc levels or zinc deficiency-related adverse events, DIPRIVAN Injectable Emulsion should not be infused for longer than 5 days without providing a drug holiday to safely replace estimated or measured urine zinc losses.
 
 In clinical trials mean urinary zinc loss was approximately 2.5 to 3 mg/day in adult patients and 1.5 to 2 mg/day in pediatric patients.
@@ -176,7 +176,7 @@ Pregnancy Category B
 Reproduction studies have been performed in rats and rabbits at intravenous doses of 15 mg/kg/day (approximately equivalent to the recommended human induction dose on a mg/m2 basis) and have revealed no evidence of impaired fertility or harm to the fetus due to propofol.
 Propofol, however, has been shown to cause maternal deaths in rats and rabbits and decreased pup survival during the lactating period in dams treated with 15 mg/kg/day (approximately equivalent to the recommended human induction dose on a mg/m2 basis).
 The pharmacological activity (anesthesia) of the drug on the mother is probably responsible for the adverse effects seen in the offspring.
-There are, however, no adequate and well‑controlled studies in pregnant women.
+There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human responses, DIPRIVAN Injectable Emulsion should be used during pregnancy only if clearly needed.
 
 ## Labor and Delivery

@@ -40,7 +40,7 @@ Pediatric Patients
 
 Most patients aged 3 years through 16 years and classified ASA-PS I or II require 2.5 to 3.5 mg/kg of DIPRIVAN Injectable Emulsion for induction when unpremedicated or when lightly premedicated with oral benzodiazepines or intramuscular opioids.
 Within this dosage range, younger pediatric patients may require higher induction doses than older pediatric patients.
-As with other sedative‑hypnotic agents, the amount of intravenous opioid and/or benzodiazepine premedication will influence the response of the patient to an induction dose of DIPRIVAN Injectable Emulsion.
+As with other sedative-hypnotic agents, the amount of intravenous opioid and/or benzodiazepine premedication will influence the response of the patient to an induction dose of DIPRIVAN Injectable Emulsion.
 A lower dosage is recommended for pediatric patients classified as ASA-PS III or IV.
 Attention should be paid to minimize pain on injection when administering DIPRIVAN Injectable Emulsion to pediatric patients.
 Boluses of DIPRIVAN Injectable Emulsion may be administered via small veins if pretreated with lidocaine or via antecubital or larger veins (see PRECAUTIONS, General).
@@ -52,7 +52,7 @@ Slower boluses or infusions of DIPRIVAN Injectable Emulsion for induction of ane
 
 Cardiac Anesthesia
 
-DIPRIVAN Injectable Emulsion has been well‑studied in patients with coronary artery disease, but experience in patients with hemodynamically significant valvular or congenital heart disease is limited.
+DIPRIVAN Injectable Emulsion has been well-studied in patients with coronary artery disease, but experience in patients with hemodynamically significant valvular or congenital heart disease is limited.
 As with other anesthetic and sedative-hypnotic agents, DIPRIVAN Injectable Emulsion in healthy patients causes a decrease in blood pressure that is secondary to decreases in preload (ventricular filling volume at the end of the diastole) and afterload (arterial resistance at the beginning of the systole).
 The magnitude of these changes is proportional to the blood and effect site concentrations achieved.
 These concentrations depend upon the dose and speed of the induction and maintenance infusion rates.
@@ -63,7 +63,7 @@ Therefore, anticholinergic agents should be administered when increases in vagal
 As with other anesthetic agents, DIPRIVAN Injectable Emulsion reduces myocardial oxygen consumption.
 Further studies are needed to confirm and delineate the extent of these effects on the myocardium and the coronary vascular system.
 
-Morphine premedication (0.15 mg/kg) with nitrous oxide 67% in oxygen has been shown to decrease the necessary DIPRIVAN Injectable Emulsion maintenance infusion rates and therapeutic blood concentrations when compared to non‑narcotic (lorazepam) premedication.
+Morphine premedication (0.15 mg/kg) with nitrous oxide 67% in oxygen has been shown to decrease the necessary DIPRIVAN Injectable Emulsion maintenance infusion rates and therapeutic blood concentrations when compared to non-narcotic (lorazepam) premedication.
 The rate of DIPRIVAN Injectable Emulsion administration should be determined based on the patient's premedication and adjusted according to clinical responses.
 
 A rapid bolus induction should be avoided.
@@ -224,7 +224,7 @@ For complete dosage information, see DOSAGE AND ADMINISTRATION.
 | Initiation of MAC Sedation: | Healthy Adults Less Than 55 Years of Age:Slow infusion or slow injection techniques are recommended to avoid apnea or hypotension. Most patients require an infusion of 100 to 150 mcg/kg/min (6 to 9 mg/kg/h) for 3 to 5 minutes or a slow injection of 0.5 mg/kg over 3 to 5 minutes followed immediately by a maintenance infusion. Elderly, Debilitated, Neurosurgical, or ASA-PS III or IV Patients:Most patients require dosages similar to healthy adults.Rapid boluses are to be avoided (see WARNINGS). |
 | Maintenance of MAC Sedation: | Healthy Adults Less Than 55 Years of Age:A variable rate infusion technique is preferable over an intermittent bolus technique. Most patients require an infusion of 25 to 75 mcg/kg/min (1.5 to 4.5 mg/kg/h) or incremental bolus doses of 10 mg or 20 mg.In Elderly, Debilitated, Neurosurgical, or ASA-PS III or IV Patients:Most patients require 80% of the usual adult dose. A rapid (single or repeated) bolus dose should not be used (see WARNINGS). |
 | Initiation and Maintenance of ICU Sedation in Intubated, Mechanically Ventilated |  |
-|  | Adult Patients - Because of the residual effects of previous anesthetic or sedative agents, in most patients the initial infusion should be 5 mcg/kg/min (0.3 mg/kg/h) for at least 5 minutes. Subsequent increments of 5 to 10 mcg/kg/min (0.3 to 0.6 mg/kg/h) over 5 to 10 minutes may be used until desired clinical effect is achieved. Maintenance rates of 5 to 50 mcg/kg/min (0.3 to 3 mg/kg/h) or higher may be required. Administration should not exceed 4 mg/kg/hour unless the benefits outweigh the risks (see WARNINGS). Evaluation of clinical effect and assessment of CNS function should be carried out daily throughout maintenance to determine the minimum dose of DIPRIVAN Injectable Emulsion required for sedation. The tubing and any unused drug product of DIPRIVAN Injectable Emulsion should be discarded after 12 hours because DIPRIVAN Injectable Emulsion contains no preservatives and is capable of supporting growth of microorganisms (see WARNINGS and DOSAGE AND ADMINISTRATION). |
+|  | Adult Patients - Because of the residual effects of previous anesthetic or sedative agents, in most patients the initial infusion should be 5 mcg/kg/min (0.3 mg/kg/h) for at least 5 minutes. Subsequent increments of 5 to 10 mcg/kg/min (0.3 to 0.6 mg/kg/h) over 5 to 10 minutes may be used until desired clinical effect is achieved. Maintenance rates of 5 to 50 mcg/kg/min (0.3 to 3 mg/kg/h) or higher may be required. Administration should not exceed 4 mg/kg/hour unless the benefits outweigh the risks (see WARNINGS). Evaluation of clinical effect and assessment of CNS function should be carried out daily throughout maintenance to determine the minimum dose of DIPRIVAN Injectable Emulsion required for sedation. The tubing and any unused DIPRIVAN Injectable Emulsion drug product should be discarded after 12 hours because DIPRIVAN Injectable Emulsion contains no preservatives and is capable of supporting growth of microorganisms (see WARNINGS and DOSAGE AND ADMINISTRATION). |
 
 Administration with Lidocaine
 
@@ -275,7 +275,7 @@ DIPRIVAN Injectable Emulsion is a single access parenteral product (single patie
 However, DIPRIVAN Injectable Emulsion can still support the growth of microorganisms as it is not an antimicrobially preserved product under USP standards.
 Do not use if contamination is suspected.
 Discard unused drug product as directed within the required time limits.
-There have been reports in which failure to use aseptic technique when handling DIPRIVAN Injectable Emulsion was associated with microbial contamination of the product and with fever, infection/sepsis, other life‑threatening illness, and/or death.
+There have been reports in which failure to use aseptic technique when handling DIPRIVAN Injectable Emulsion was associated with microbial contamination of the product and with fever, infection/sepsis, other life-threatening illness, and/or death.
 
 There have been reports, in the literature and other public sources, of the transmission of bloodborne pathogens (such as Hepatitis B, Hepatitis C, and HIV) from unsafe injection practices, and use of propofol vials intended for single use on multiple persons.
 DIPRIVAN Injectable Emulsion vials are never to be accessed more than once or used on more than one person.
@@ -291,7 +291,7 @@ When withdrawing DIPRIVAN Injectable Emulsion from vials, a sterile vent spike s
 The syringe should be labelled with appropriate information including the date and time the vial was opened.
 Administration should commence promptly and be completed within 12 hours after the vial has been opened.
 
-DIPRIVAN Injectable Emulsion must be prepared for single‑patient use only.
+DIPRIVAN Injectable Emulsion must be prepared for single-patient use only.
 Any unused DIPRIVAN Injectable Emulsion drug product, reservoirs, dedicated administration tubing and/or solutions containing DIPRIVAN Injectable Emulsion must be discarded at the end of the anesthetic procedure or at 12 hours, whichever occurs sooner.
 The IV line should be flushed every 12 hours and at the end of the anesthetic procedure to remove residual DIPRIVAN Injectable Emulsion.
 
@@ -308,5 +308,5 @@ The tubing and any unused portions of DIPRIVAN Injectable Emulsion drug product 
 If DIPRIVAN Injectable Emulsion is transferred to a syringe prior to administration, it should be drawn into a sterile syringe immediately after a vial is opened.
 When withdrawing DIPRIVAN Injectable Emulsion from a vial, a sterile vent spike should be used.
 The syringe should be labelled with appropriate informaiton including the date and time the vial was opened.
-Administration should commence promptly and be completed witin 12 hours after the vial has been opened.
+Administration should commence promptly and be completed within 12 hours after the vial has been opened.
 DIPRIVAN Injectable Emulsion should be discarded and administration lines changed after 12 hours.

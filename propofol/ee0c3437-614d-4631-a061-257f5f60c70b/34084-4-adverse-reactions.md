@@ -10,7 +10,7 @@ Most adverse events were mild and transient.
 
 ## Anesthesia and MAC Sedation in Adults
 
-The following estimates of adverse events for DIPRIVAN Injectable Emulsion include data from clinical trials in general anesthesia/MAC sedation (N=2889 adult patients).
+The following estimates of adverse events for DIPRIVAN Injectable Emulsion include data from clinical trials in general anesthesia/MAC sedation (N=2,889 adult patients).
 The adverse events listed below as probably causally related are those events in which the actual incidence rate in patients treated with DIPRIVAN Injectable Emulsion was greater than the comparator incidence rate in these trials.
 Therefore, incidence rates for anesthesia and MAC sedation in adults generally represent estimates of the percentage of clinical trial patients which appeared to have probable causal relationship.
 
@@ -32,20 +32,20 @@ Therefore, incidence rates for ICU sedation generally represent estimates of the
 
 Incidence greater than 1% - Probably Causally Related
 
-|  | Anesthesia/MAC Sedation | ICU Sedation |
-| --- | --- | --- |
-| Cardiovascular: | Bradycardia | Bradycardia |
-|  | Arrhythmia [Peds: 1.2%] |  |
-| Tachycardia Nodal [Peds: 1.6%] |  |  |
-|  | Hypotension* [Peds: 17%](see also CLINICAL PHARMACOLOGY) | Decreased Cardiac Output |
-|  | Hypertension [Peds: 8%] | Hypotension 26% |
-| Central Nervous System: |  |  |
-| Movement* [Peds: 17%] |  |  |
-| Injection Site: | Burning/Stinging or Pain,17.6% [Peds: 10%] |  |
-| Metabolic/Nutritional: |  | Hyperlipemia* |
-| Respiratory: | Apnea(see also CLINICAL PHARMACOLOGY) | Respiratory Acidosis DuringWeaning* |
-| Skin and Appendages: | Rash [Peds: 5%]Pruritus [Peds: 2%] |  |
-| Events without an * or % had an incidence of 1% to 3%*Incidence of events 3% to 10% |  |  |
+| Anesthesia/MAC Sedation | ICU Sedation |
+| --- | --- |
+| Bradycardia | Bradycardia |
+| Arrhythmia [Peds: 1.2%] |  |
+| Hypotension* [Peds: 17%](see also CLINICAL PHARMACOLOGY) | Decreased Cardiac Output |
+| Hypertension [Peds: 8%] | Hypotension 26% |
+| Burning/Stinging or Pain,17.6% [Peds: 10%] |  |
+|  | Hyperlipemia* |
+| Apnea(see also CLINICAL PHARMACOLOGY) | Respiratory Acidosis DuringWeaning* |
+| Rash [Peds: 5%]Pruritus [Peds: 2%] |  |
+
+Events without an * or % had an incidence of 1% to 3%
+
+*Incidence of events 3% to 10%
 
 Incidence less than 1% - Probably Causally Related
 
