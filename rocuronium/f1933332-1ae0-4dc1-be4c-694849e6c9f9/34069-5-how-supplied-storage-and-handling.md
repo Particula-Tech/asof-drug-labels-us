@@ -7,7 +7,7 @@ Rocuronium Bromide Injection is available in the following:
 | 402605 | 63323-426-05 | 10 mg/mL | 5 mL vials supplied in packages of ten. |
 | 402610 | 63323-426-10 | 10 mg/mL | 10 mL vials supplied in packages of ten. |
 
-Vial stoppers do not contain natural rubber latex.
+This container closure is not made with natural rubber latex.
 
 Rocuronium Bromide Injection should be stored in a refrigerator, 2° to 8°C (36° to 46°F).
 DO NOT FREEZE.

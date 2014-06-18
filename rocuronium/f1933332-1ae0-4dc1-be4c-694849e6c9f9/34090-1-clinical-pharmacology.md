@@ -44,8 +44,19 @@ n = the number of patients who had time to maximum block recorded
 Clinical duration = time until return to 25% of control T1.
 Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery.
 
-Due to Organon USA Inc.’s marketing exclusivity rights, this drug product is not approved with certain pharmacodynamic information.
-Labeling describing additional pharmacodynamics in pediatric populations is approved for Organon USA Inc.’s rocuronium bromide injection.
+Table 6 presents the time to onset and clinical duration for the initial dose of Rocuronium Bromide Injection under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia in pediatric patients.
+
+TABLE 6: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia (Pediatric Patients)
+
+| Rocuronium Bromide Injection Dose (mg/kg) Administered over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3(min) |
+| --- | --- | --- |
+| Neonates birth to <28 days0.45 (n=5)0.6 (n=10)1 (n=6) | 1.1 (0.6 to 2.2)1 (0.2 to 2.1)0.6 (0.3 to 1.8) | 40.3 (32.5 to 62.6)49.7 (16.6 to 119)114.4 (92.6 to 136.3) |
+| Infants 28 days to ≤3 mo0.45 (n=9)0.6 (n=11)1 (n=5) | 0.5 (0.4 to 1.3)0.4 (0.2 to 0.8)0.3 (0.2 to 0.7) | 49.1 (13.5 to 79.9)59.8 (32.3 to 87.8)103.3 (90.8 to 155.4) |
+| Toddlers >3 mo to ≤2 yrs0.45 (n=17)0.6 (n=29)1 (n=15) | 0.8 (0.3 to 1.9)0.6 (0.2 to 1.6)0.5 (0.2 to 1.5) | 39.2 (16.9 to 59.4)44.2 (18.9 to 68.8)72 (36.2 to 128.2) |
+| Children >2 yrs to ≤11 yrs0.45 (n=14)0.6 (n=37)1 (n=16) | 0.9 (0.4 to 1.9)0.8 (0.3 to 1.7)0.7 (0.4 to 1.2) | 21.5 (17.5 to 38)36.7 (20.1 to 65.9)53.1 (31.2 to 89.9) |
+| Adolescents >11 to ≤17 yrs0.45 (n=18)0.6 (n=31)1 (n=14) | 1 (0.5 to 1.7)0.9 (0.2 to 2.1)0.7 (0.5 to 1.2) | 37.5 (18.3 to 65.7)41.4 (16.3 to 91.2)67.1 (25.6 to 93.8) |
+
+n=the number of patients with the highest number of observations for time to maximum block or reappearance T3.
 
 The time to 80% or greater block and clinical duration as a function of dose are presented in Figures 1 and 2.
 
@@ -129,7 +140,7 @@ TABLE 8: Mean (SD) Pharmacokinetic Parameters in Adults with Normal Renal and He
 | Volume of Distributionat Steady State (L/kg) | 0.26 (0.03) | 0.34 (0.11) | 0.53 (0.14) |
 | t1/2 ß Elimination (hr) | 2.4 (0.8)* | 2.4 (1.1) | 4.3 (2.6) |
 
-* Differences in the calculated t1/2 β and C1 between this study and the study in young adults vs. geriatrics (≥65 years) is related to the different sample populations and anesthetic techniques.
+* Differences in the calculated t1/2 β and Cl between this study and the study in young adults vs. geriatrics (≥65 years) is related to the different sample populations and anesthetic techniques.
 
 The net result of these findings is that subjects with renal failure have clinical durations that are similar to but somewhat more variable than the duration that one would expect in subjects with normal renal function.
 Hepatically impaired patients, due to the large increase in volume, may demonstrate clinical durations approaching 1.5 times that of subjects with normal hepatic function.
@@ -153,8 +164,20 @@ TABLE 9: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patient
 | Volume of Distribution at Steady State (L/kg) | 0.3 (0.04) | 0.26 (0.06) | 0.21 (0.03) |
 | t1/2 ß Elimination (hr) | 1.3 (0.5) | 1.1 (0.7) | 0.8 (0.3) |
 
-Due to Organon USA Inc.’s marketing exclusivity rights, this drug product is not approved with certain pediatric pharmacokinetic information.
-Labeling describing additional pharmacokinetics in pediatric populations is approved for Organon USA Inc.’s rocuronium bromide injection.
+Pharmacokinetics of rocuronium bromide were evaluated using a population analysis of the pooled pharmacokinetic datasets from 2 trials under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia.
+All pharmacokinetic parameters were found to be linearly proportional to body weight.
+In patients under the age of 18 years clearance (CL) and volume of distribution (Vss) increase with bodyweight (kg) and age (years).
+As a result the terminal half-life of rocuronium bromide decreases with increasing age from 1.1 hour to 0.7 to 0.8 hour.
+Table 10 presents the pharmacokinetic parameters in the different age groups in the studies with sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia.
+
+TABLE 10: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patients During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia
+
+| PK Parameters | Patient Age Range |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Birth to <28 days | 28 days to ≤3 mos | 3 mos to ≤2 yrs | 2 to ≤11 yrs | 11 to ≤17 yrs |  |
+| CL (L/kg/hr) | 0.31 (0.07) | 0.3 (0.08) | 0.33 (0.1) | 0.35 (0.09) | 0.29 (0.14) |
+| Volume of Distribution (L/kg) | 0.42 (0.06) | 0.31 (0.03) | 0.23 (0.03) | 0.18 (0.02) | 0.18 (0.01) |
+| t1/2 β (hr) | 1.1 (0.2) | 0.9 (0.3) | 0.8 (0.2) | 0.7 (0.2) | 0.8 (0.3) |
 
 # 13 NONCLINICAL TOXICOLOGY
 
