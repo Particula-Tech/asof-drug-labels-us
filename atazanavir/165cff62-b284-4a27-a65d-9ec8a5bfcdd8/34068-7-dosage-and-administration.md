@@ -1,83 +1,128 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-General Dosing Recommendations:
+## 2.1 Overview
 
-- •REYATAZ Capsules must be taken with food.
+- •REYATAZ capsules and oral powder must be taken with food.
 - •Do not open the capsules.
 - •The recommended oral dosage of REYATAZ depends on the treatment history of the patient and the use of other coadministered drugs.
-  When coadministered with H2-receptor antagonists or proton-pump inhibitors, dose separation may be required [see Dosage and Administration (2.1)].
-- •When coadministered with didanosine buffered or enteric-coated formulations, REYATAZ should be given (with food) 2 hours before or 1 hour after didanosine.
-- •REYATAZ without ritonavir is not recommended for treatment-experienced adult or pediatric patients with prior virologic failure [see Clinical Studies (14)].
-- •Efficacy and safety of REYATAZ with ritonavir in doses greater than 100 mg once daily have not been established.
-  The use of higher ritonavir doses might alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and, therefore, is not recommended.
-  Prescribers should consult the complete prescribing information for NORVIR® (ritonavir) when using this agent.
+  When coadministered with H2-receptor antagonists or proton-pump inhibitors, dose separation may be required [see Dosage and Administration (2.2,2.3,2.4,2.5) and Drug Interactions (7)].
+- •REYATAZ capsules without ritonavir are not recommended for treatment-experienced adult or pediatric patients with prior virologic failure [see Clinical Studies (14)].
+- •REYATAZ oral powder must be taken with ritonavir and is not recommended for use in children who weigh less than 10 kg or who weigh 25 kg or more.
+  [See Dosage and Administration (2.4).]
+- •Efficacy and safety of REYATAZ with ritonavir when ritonavir is administered in doses greater than 100 mg once daily have not been established.
+  The use of higher ritonavir doses may alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and, therefore, is not recommended.
+  Prescribers should consult the complete prescribing information for ritonavir when using ritonavir.
 
-## 2.1 Recommended Adult Dosage
+## 2.2 Dosage in Adult Patients
 
-Table 1 summarizes the recommended REYATAZ dosing regimen in adults.
-All REYATAZ dosing regimens are to be administered as a single dose with food.
+Table 1 displays the recommended dosage of REYATAZ capsules in treatment-naive and treatment-experienced adults.
+Table 1 also displays recommended dosage of REYATAZ and ritonavir when given concomitantly with other antiretroviral drugs and H2-receptor antagonists (H2RA).
+Ritonavir is required with several REYATAZ dosage regimens (see the ritonavir complete prescribing information about the safe and effective use of ritonavir).
+The use of REYATAZ in treatment-experienced adult patients without ritonavir is not recommended.
 
-Table 1: REYATAZ Dosing Regimens
+Table 1: Recommended REYATAZ and Ritonavir Dosage in Adultsa
 
-| Treatment-Naive Patients | REYATAZ 300 mg with ritonavir 100 mg once daily |
-| --- | --- |
-| If unable to tolerate ritonavir | REYATAZ 400 mg once daily |
-| When combined with any of the following: Tenofovir H2-receptor antagonist Proton-pump inhibitor | REYATAZ 300 mg with ritonavir 100 mg once daily |
-| •The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 40 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist.•If unable to tolerate ritonavir, administer REYATAZ 400 mg once daily at least 2 hours before and at least 10 hours after the H2-receptor antagonist. No single dose of the H2-receptor antagonist should exceed a dose comparable to famotidine 20 mg and the total daily dose should not exceed a dose comparable to famotidine 40 mg.•The proton-pump inhibitor dose should not exceed a dose comparable to omeprazole 20 mg daily and must be taken approximately 12 hours prior to REYATAZ and ritonavir. |  |
-| When combined with efavirenz | REYATAZ 400 mg with ritonavir 100 mg once daily |
-| •Efavirenz should be administered on an empty stomach, preferably at bedtime. |  |
-| Treatment-Experienced Patients | REYATAZ 300 mg with ritonavir 100 mg once daily |
-| Do not coadminister with proton-pump inhibitors or efavirenz in treatment-experienced patients. |  |
-| When given with an H2-receptor antagonist | REYATAZ 300 mg with ritonavir 100 mg once daily |
-| •The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. |  |
-| When given with both tenofovir and an H2-receptor antagonist | REYATAZ 400 mg with ritonavir 100 mg once daily |
-| •The H2-receptor antagonist dose should not exceed a dose comparable to famotidine 20 mg twice daily. Administer REYATAZ and ritonavir simultaneously with, and/or at least 10 hours after the H2-receptor antagonist. |  |
-
-[For these drugs and other antiretroviral agents for which dosing modification may be appropriate, see Drug Interactions (7).]
-
-## 2.2 Recommended Pediatric Dosage
-
-The recommended daily dosage of REYATAZ for pediatric patients (6 to less than 18 years of age) is based on body weight and should not exceed the recommended adult dosage.
-REYATAZ Capsules must be taken with food.
-The data are insufficient to recommend dosing of REYATAZ for any of the following: (1) patients less than 6 years of age, (2) without ritonavir in any pediatric patient less than 13 years of age, and (3) patients less than 40 kg receiving concomitant tenofovir, H2-receptor antagonists, or proton-pump inhibitors.
-
-The recommended dosage of REYATAZ with ritonavir in pediatric patients at least 6 years of age is shown in Table 2.
-
-Table 2: Dosage for Pediatric Patients (6 to less than 18 years of age) for REYATAZ Capsules with ritonavira
-
-| Body Weight | REYATAZ dose | ritonavir dose |
+|  | REYATAZ Once DailyDosage | Ritonavir Once DailyDosage |
 | --- | --- | --- |
+| Treatment-Naive Adult Patients |  |  |
+| recommended regimen | 300 mg | 100 mg |
+| unable to tolerate ritonavir | 400 mg | N/A |
+| in combination with efavirenz | 400 mg | 100 mg |
+| Treatment-Experienced Adult Patients |  |  |
+| recommended regimen | 300 mg | 100 mg |
+| in combination with both H2RA and tenofovir | 400 mg | 100 mg |
+| a See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or proton pump inhibitors [PPIs]), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). |  |  |
+
+## 2.3 Dosage of REYATAZ Capsules in Pediatric Patients
+
+The recommended daily dosage of REYATAZ capsules and ritonavir in pediatric patients (6 years of age to less than 18 years of age) is based on body weight (see Table 2).
+
+Table 2: Recommended Dosage of REYATAZ Capsules and Ritonavir in Pediatric Patients (6 to less than 18 years of age)a,b
+
+| Body Weight | REYATAZ Daily Dosage | Ritonavir Daily Dosage |
+| --- | --- | --- |
+| Treatment-Naive and Treatment-Experiencedc |  |  |
+| Less than 15 kg | Capsules not recommended | N/A |
 | 15 kg to less than 20 kg | 150 mg | 100 mg |
 | 20 kg to less than 40 kg | 200 mg | 100 mg |
-| at least 40 kg | 300 mg | 100 mg |
-| a The REYATAZ and ritonavir dose should be taken together once daily with food. |  |  |
+| At least 40 kg | 300 mg | 100 mg |
+| Treatment-Naive, at least 13 years old and cannot tolerate ritonavirc |  |  |
+| At least 40 kg | 400 mg | N/A |
+| a Administer REYATAZ capsules and ritonavir simultaneously with food. b The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). c In treatment-experienced patients, REYATAZ capsules must be administered with ritonavir. |  |  |
 
-For treatment-naive patients at least 13 years of age and at least 40 kg, who are unable to tolerate ritonavir, the recommended dose is REYATAZ 400 mg (without ritonavir) once daily with food.
-For patients at least 13 years of age and at least 40 kg receiving concomitant tenofovir, H2-receptor antagonists, or proton-pump inhibitors, REYATAZ should not be administered without ritonavir.
+## 2.4 Dosage and Administration of REYATAZ Oral Powder in Pediatric Patients
 
-## 2.3 Pregnancy
+REYATAZ oral powder is for use in treatment-naive or treatment-experienced pediatric patients who are at least 3 months of age and weighing at least 10 kg and less than 25 kg.
+REYATAZ oral powder must be mixed with food or beverage for administration and ritonavir must be given immediately afterwards.
+Table 3 displays the recommended dosage of REYATAZ oral powder and ritonavir.
 
-Dosing During Pregnancy and the Postpartum Period:
+Table 3: Recommended Dosage of REYATAZ Oral Powder and Ritonavir in Pediatric Patients (at least 3 months of age and weighing at least 10 kg and less than 25 kg)a
 
-- •REYATAZ should not be administered without ritonavir.
-- •REYATAZ should only be administered to pregnant women with HIV-1 strains susceptible to atazanavir.
-- •For pregnant patients, no dose adjustment is required for REYATAZ with the following exceptions:
-  - oFor treatment-experienced pregnant women during the second or third trimester, when REYATAZ is coadministered with either an H2-receptor antagonist or tenofovir, REYATAZ 400 mg with ritonavir 100 mg once daily is recommended.
-    There are insufficient data to recommend a REYATAZ dose for use with both an H2-receptor antagonist and tenofovir in treatment-experienced pregnant women.
-- •No dose adjustment is required for postpartum patients.
-  However, patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery.
-  [See Use in Specific Populations (8.1) and Clinical Pharmacology (12.3).]
+| Body Weight | Daily Dosage of REYATAZ Oral Powder | Daily Dosage of Ritonavir Oral Solution |
+| --- | --- | --- |
+| 10 kg to less than 15 kg | 200 mg (4 packets)b | 80 mg |
+| 15 kg to less than 25 kg | 250 mg (5 packets)b | 80 mg |
+| a The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir, and didanosine). b Each packet contains 50 mg of REYATAZ. |  |  |
 
-## 2.4 Renal Impairment
+Instructions for Mixing REYATAZ Oral Powder [see FDA-approved Instructions for Use]
+
+- •It is preferable to mix REYATAZ oral powder with food such as applesauce or yogurt.
+  Mixing REYATAZ oral powder with a beverage (milk, infant formula, or water) may be used for infants who can drink from a cup.
+  For young infants (less than 6 months) who cannot eat solid food or drink from a cup, REYATAZ oral powder should be mixed with infant formula and given using an oral dosing syringe.
+  Administration of REYATAZ and infant formula using an infant bottle is not recommended because full dose may not be delivered.
+- •Determine the number of packets (4 or 5 packets) that are needed.
+- •Prior to mixing, tap the packet to settle the powder.
+  Use a clean pair of scissors to cut each packet along the dotted line.
+- •Mixing with food: Using a spoon, mix the recommended number of REYATAZ oral powder packets with a minimum of one tablespoon of food (such as applesauce or yogurt).
+  Feed the mixture to the infant or young child.
+  Add an additional one tablespoon of food to the small container, mix, and feed the child the residual mixture.
+- •Mixing with a beverage such as milk or water in a small drinking cup: Using a spoon, mix the recommended number of REYATAZ oral powder packets with a minimum of 30 mL of the beverage.
+  Have the child drink the mixture.
+  Add an additional 15 mL more of beverage to the drinking cup, mix, and have the child drink the residual mixture.
+  If water is used, food should also be taken at the same time.
+- •Mixing with liquid infant formula using an oral dosing syringe and a small medicine cup: Using a spoon, mix the recommended number of REYATAZ oral powder packets with 10 mL of prepared liquid infant formula.
+  Draw up the full amount of the mixture into an oral syringe and administer into either right or left inner cheek of infant.
+  Pour another 10 mL of formula into the medicine cup to rinse off remaining REYATAZ oral powder in cup.
+  Draw up residual mixture into the syringe and administer into either right or left inner cheek of infant.
+- •Administer ritonavir immediately following REYATAZ powder administration.
+- •Administer the entire dosage of REYATAZ oral powder (mixed in the food or beverage) within one hour of preparation (may leave the mixture at room temperature during this one hour period).
+  Ensure that the patient eats or drinks all the food or beverage that contains the powder.
+  Additional food may be given after consumption of the entire mixture.
+
+## 2.5 Dosage Adjustments in Pregnant Patients
+
+Table 4 includes the recommended dosage of REYATAZ capsules and ritonavir in treatment-naive and treatment-experienced pregnant patients.
+In these patients, REYATAZ must be administered with ritonavir.
+There are no dosage adjustments for postpartum patients (see Table 1 for the recommended REYATAZ dosage in adults).
+[See Use in Specific Populations (8.1).]
+
+Table 4: Recommended Dosage of REYATAZ and Ritonavir in Pregnant Patientsa
+
+|  | REYATAZ Once Daily Dosage | Ritonavir Once Daily Dosage |
+| --- | --- | --- |
+| Treatment-Naive and Treatment-Experienced |  |  |
+| Recommended Regimen | 300 mg | 100 mg |
+| Treatment-Experienced During the Second or Third Trimester When Coadministered with either H2RA or Tenofovirb |  |  |
+| In combination with either H2RA or tenofovir | 400 mg | 100 mg |
+| a See Drug Interactions (7) for instructions concerning coadministration of acid reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir and didanosine). b REYATAZ is not recommended for treatment-experienced pregnant patients during the second and third trimester taking REYATAZ with both tenofovir and H2RA. |  |  |
+
+## 2.6 Renal Impairment
 
 For patients with renal impairment, including those with severe renal impairment who are not managed with hemodialysis, no dose adjustment is required for REYATAZ.
 Treatment-naive patients with end stage renal disease managed with hemodialysis should receive REYATAZ 300 mg with ritonavir 100 mg.
 REYATAZ should not be administered to HIV-treatment-experienced patients with end stage renal disease managed with hemodialysis.
 [See Use in Specific Populations (8.7).]
 
-## 2.5 Hepatic Impairment
+## 2.7 Dosage Adjustments in Patients with Hepatic Impairment
 
-REYATAZ should be used with caution in patients with mild-to-moderate hepatic impairment.
-For patients with moderate hepatic impairment (Child-Pugh Class B) who have not experienced prior virologic failure, a dose reduction to 300 mg once daily should be considered.
-REYATAZ should not be used in patients with severe hepatic impairment (Child-Pugh Class C). REYATAZ/ritonavir has not been studied in subjects with hepatic impairment and is not recommended.
-[See Warnings and Precautions (5.5) and Use in Specific Populations (8.8).]
+Table 5 displays the recommended REYATAZ dosage in treatment-naive patients with hepatic impairment.
+The use of REYATAZ in patients with severe hepatic impairment (Child-Pugh Class C) is not recommended.
+The coadministration of REYATAZ with ritonavir in patients with any degree of hepatic impairment is not recommended.
+
+Table 5: Recommended Dosage of REYATAZ Capsules in Treatment-Naive Adults with Hepatic Impairment
+
+|  | REYATAZ Once Daily Dosage |
+| --- | --- |
+| Mild hepatic impairment (Child-Pugh Class A) | 400 mg |
+| Moderate hepatic impairment (Child-Pugh Class B) | 300 mg |
+| Severe hepatic impairment (Child-Pugh Class C) | REYATAZ with or without ritonavir is not recommended |
