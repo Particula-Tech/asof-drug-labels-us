@@ -17,7 +17,7 @@ Initiate treatment with MS CONTIN with 15 mg tablets orally every 8 or 12 hours.
 Use of MS CONTIN in Patients who are not Opioid Tolerant
 
 The starting dose for patients who are not opioid tolerant is MS CONTIN 15 mg orally every 12 hours.
-Patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mg mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, or an equianalgesic dose of another opioid.
+Patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, or an equianalgesic dose of another opioid.
 
 Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression.
 
