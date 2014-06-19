@@ -5,14 +5,12 @@ An overly prolonged clotting time or minor bleeding during therapy can usually b
 It should be appreciated that gastrointestinal or urinary tract bleeding during anticoagulant therapy may indicate the presence of an underlying occult lesion.
 Bleeding can occur at any site but certain specific hemorrhagic complications may be difficult to detect:
 
-a. Adrenal hemorrhage, with resultant acute adrenal insufficiency, has occurred during anticoagulant therapy.
-Therefore, such treatment should be discontinued in patients who develop signs and symptoms of acute adrenal hemorrhage and insufficiency.
-Initiation of corrective therapy should not depend on laboratory confirmation of the diagnosis, since any delay in an acute situation may result in the patient’s death.
-
-b. Ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short- or long-term anticoagulant therapy.
-This complication if unrecognized may be fatal.
-
-c. Retroperitoneal hemorrhage.
+1. Adrenal hemorrhage, with resultant acute adrenal insufficiency, has occurred during anticoagulant therapy.
+   Therefore, such treatment should be discontinued in patients who develop signs and symptoms of acute adrenal hemorrhage and insufficiency.
+   Initiation of corrective therapy should not depend on laboratory confirmation of the diagnosis, since any delay in an acute situation may result in the patient’s death.
+2. Ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short- or long-term anticoagulant therapy.
+   This complication if unrecognized may be fatal.
+3. Retroperitoneal hemorrhage.
 
 Local Irritation: Local irritation, erythema, mild pain, hematoma or ulceration may follow deep subcutaneous (intrafat) injection of heparin sodium.
 These complications are much more common after intramuscular use, and such use is not recommended.

@@ -57,13 +57,8 @@ As the dosage of solutions of heparin sodium must be titrated to individual pati
 
 General
 
-a. Heparin Resistance:
-
-Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer and in postsurgical patients.
-
-b. Increased Risk to Older Patients, Especially Women:
-
-A higher incidence of bleeding has been reported in patients, particularly women, over 60 years of age.
+1. Heparin Resistance: Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer and in postsurgical patients.
+2. Increased Risk to Older Patients, Especially Women: A higher incidence of bleeding has been reported in patients, particularly women, over 60 years of age.
 
 Laboratory Tests: Periodic platelet counts, hematocrits and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration (see DOSAGE AND ADMINISTRATION).
 

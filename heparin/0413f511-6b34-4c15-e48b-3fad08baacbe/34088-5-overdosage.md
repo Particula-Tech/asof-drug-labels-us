@@ -8,7 +8,7 @@ Treatment: Neutralization of heparin effect.
 
 When clinical circumstances (bleeding) require reversal of heparinization, protamine sulfate (1% solution) by slow infusion will neutralize heparin sodium.
 No more than 50 mg should be administered, very slowly in any 10 minute period.
-Each mg of protamine sulfate neutralizes approximately 100 USP heparin units.
+Each mg of protamine sulfate neutralizes approximately 100 USP units.
 The amount of protamine required decreases over time as heparin is metabolized.
 Although the metabolism of heparin is complex, it may, for the purpose of choosing a protamine dose, be assumed to have a half-life of about ½ hour after intravenous injection.
 
