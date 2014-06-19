@@ -4,7 +4,7 @@ NDC 0378-1901-01
 
 Midodrine Hydrochloride Tablets, USP 2.5 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablets contains: Midodrine hydrochloride, USP 2.5 mg
 
@@ -21,9 +21,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM1901A2
+RM1901A3
 
 PRINCIPAL DISPLAY PANEL - 5 mg
 
@@ -31,7 +31,7 @@ NDC 0378-1902-01
 
 Midodrine Hydrochloride Tablets, USP 5 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablets contains: Midodrine hydrochloride, USP 5 mg
 
@@ -48,9 +48,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM1902A2
+RM1902A3
 
 PRINCIPAL DISPLAY PANEL - 10 mg
 
@@ -58,7 +58,7 @@ NDC 0378-1903-01
 
 Midodrine Hydrochloride Tablets, USP 10 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablets contains: Midodrine hydrochloride, USP 10 mg
 
@@ -75,6 +75,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM1903A2
+RM1903A3
