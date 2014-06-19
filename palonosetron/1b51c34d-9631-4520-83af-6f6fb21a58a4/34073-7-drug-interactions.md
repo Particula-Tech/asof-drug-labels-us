@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Palonosetron is eliminated from the body through both renal excretion and metabolic pathways with latter mediated via multiple CYP enzymes.
+Palonosetron is eliminated from the body through both renal excretion and metabolic pathways with the latter mediated via multiple CYP enzymes.
 Further in vitro studies indicated that palonosetron is not an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1 and CYP3A4/5 (CYP2C19 was not investigated) nor does it induce the activity of CYP1A2, CYP2D6, or CYP3A4/5.
 Therefore, the potential for clinically significant drug interactions with palonosetron appears to be low.
 

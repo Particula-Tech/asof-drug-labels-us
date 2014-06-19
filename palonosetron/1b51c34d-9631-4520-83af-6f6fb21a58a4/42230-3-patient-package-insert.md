@@ -1,88 +1,67 @@
-Patient Information
+Patient Information ALOXI® (Ah-lock-see) (palonosetron HCl) Injection for Intravenous Use
 
-Aloxi® (Ah-lock-see) Palonosetron HCl injection
-
-Read the Patient Information that comes with ALOXI before your treatment with ALOXI and each time you get ALOXI.
+Read this Patient Information before you receive ALOXI and each time you receive ALOXI.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
-If you have questions about ALOXI, ask your doctor or pharmacist.
 
 What is ALOXI?
 
-ALOXI is a medicine called an "antiemetic."
+ALOXI is a prescription medicine called an “antiemetic.”
 ALOXI is used in adults to help prevent the nausea and vomiting that happens:
 
-- right away with certain anti-cancer medicines (chemotherapy)
-- or later with certain anti-cancer medicines
-- right away after recovery from anesthesia after surgery
+- right away or later with certain anti-cancer medicines (chemotherapy)
+- up to 24 hours while recovering from anesthesia after surgery
 
-What is ALOXI used for?
+ALOXI is used in children 1 month old to less than 17 years of age to help prevent the nausea and vomiting that happens right away with certain anti-cancer medicines (chemotherapy).
 
-ALOXI is used to prevent nausea and vomiting that may happen:
+- It is not known if ALOXI is safe and effective in children less than 1 month old to help prevent nausea and vomiting after chemotherapy.
+- It is not known if ALOXI is safe and effective in children for the prevention of nausea and vomiting while recovering from anesthesia after surgery.
 
-- soon after taking certain anti-cancer medicines
-- later after taking certain anti-cancer medicines
-- soon after recovery from anesthesia after surgery
+Who should not receive ALOXI?
 
-Who should not take ALOXI?
-
-Do not take ALOXI if you are allergic to any of the ingredients in ALOXI.
-The active ingredient is palonosetron hydrochloride.
+Do not receive ALOXI if you are allergic to palonosetron hydrochloride or any of the ingredients in ALOXI.
 See the end of this leaflet for a complete list of ingredients in ALOXI.
-ALOXI has not been studied in children under 18 years of age.
 
-What should I tell my doctor before using ALOXI?
+What should I tell my doctor before receiving ALOXI?
+Before receiving ALOXI, tell your doctor about all of your medical conditions, including if you:
 
-Tell your doctor about all of your medical conditions, including if you:
+- have had an allergic reaction to another medicine for nausea or vomiting
+- are pregnant or plan to become pregnant.
+  It is not known if ALOXI will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  It is not known if ALOXI passes into your breast milk.
+  You and your doctor should decide if you will receive ALOXI if you breastfeed.
 
-- are pregnant.
-  It is not known if ALOXI may harm your unborn baby.
-  You and your doctor should decide if ALOXI is right for you.
-- are breastfeeding.
-  It is not known if ALOXI passes into your milk and if it can harm your baby.
-  You should choose to either take ALOXI or breastfeed, but not both.
+Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 
-Tell your doctor about all of the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
+How will I receive ALOXI?
 
-How should I use ALOXI?
-
-ALOXI is given in your vein by I.V.
-(intravenous) injection.
-It is only given to you by a healthcare provider in a hospital or clinic.
-ALOXI is usually injected into your vein about 30 minutes before you get your anti-cancer medicine (chemotherapy) or immediately before anesthesia for surgery.
+- ALOXI will be given to you in your vein by intravenous (I.V.) injection.
+- ALOXI is usually given about 30 minutes before you receive your anti-cancer medicine (chemotherapy) or right before anesthesia for surgery.
 
 What are the possible side effects of ALOXI?
+ALOXI can cause allergic reactions that can sometimes be serious.
+Tell your doctor or nurse right away if you have any of the following symptoms of a serious allergic reaction with ALOXI:
 
-The most common side effects of ALOXI are headache and constipation.
-Diarrhea and dizziness have also been observed.
+- hives
+- swollen face
+- breathing trouble
+- chest pain
 
-These are not all the side effects from ALOXI.
-For more information ask your doctor or pharmacist.
+The most common side effects of ALOXI in adults are headache and constipation.
+These are not all the possible side effects from ALOXI.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-General information about ALOXI
-
-Medicines are sometimes prescribed for conditions other than those listed in patient information leaflets.
-ALOXI was prescribed for your medical condition.
-
-This leaflet summarizes the most important information about ALOXI.
-If you would like more information, talk with your doctor.
+General information about the safe and effective use of ALOXI Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 You can ask your doctor or pharmacist for information about ALOXI that is written for health professionals.
-You can also visit the ALOXI web site at www.ALOXI.com.
 
 What are the ingredients in ALOXI?
+Active ingredient: palonosetron hydrochloride Inactive ingredients: mannitol, disodium edetate, and citrate buffer in water
 
-Active ingredient: palonosetron hydrochloride
+Mfd by OSO Biopharmaceuticals, LLC, Albuquerque, NM, USA or Pierre Fabre, Médicament Production, Idron, Aquitaine, France and Helsinn Birex Pharmaceuticals, Dublin, Ireland HELSINN, Mfd for Helsinn Healthcare SA, Switzerland
 
-Inactive ingredients: mannitol, disodium edetate, and citrate buffer in water
+Eisai Inc., Distributed and marketed by Eisai Inc., Woodcliff Lake, NJ 07677 under license of Helsinn Healthcare SA, Switzerland ALOXI is a registered trademark of Helsinn Healthcare, SA, Lugano, Switzerland ©2013 Eisai Inc., Woodcliff Lake, NJ 07677 U.S.A. 201227 For more information, go to www.ALOXI.com.
 
-Rx Only
-
-Mfd by OSO Biopharmaceuticals, LLC, Albuquerque, NM, USA or Pierre Fabre, Medicament Production, Idron, Aquitaine, France and Helsinn Birex Pharmaceuticals, Dublin, Ireland
-
-HELSINN, Mfd for Helsinn Healthcare SA, Switzerland
-
-Eisai, Inc. Distributed and marketed by Eisai Inc., Woodcliff Lake, NJ 07677 under license of Helsinn Healthcare SA, Switzerland
-
-ALOXI® is a registered trademark of Helsinn Healthcare, SA, Lugano, Switzerland
-
-©2013 Eisai Inc., Woodcliff Lake, NJ 07677 U.S.A. 201227 07/2013
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: May 2014

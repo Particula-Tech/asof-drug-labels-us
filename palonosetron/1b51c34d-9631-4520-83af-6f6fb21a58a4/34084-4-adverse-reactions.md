@@ -4,7 +4,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Chemotherapy-Induced Nausea and Vomiting
 
-In clinical trials for the prevention of nausea and vomiting induced by moderately or highly emetogenic chemotherapy, 1374 adult patients received palonosetron.
+Adults In clinical trials for the prevention of nausea and vomiting induced by moderately or highly emetogenic chemotherapy, 1374 adult patients received palonosetron.
 Adverse reactions were similar in frequency and severity with ALOXI and ondansetron or dolasetron.
 Following is a listing of all adverse reactions reported by ≥ 2% of patients in these trials (Table 1).
 
@@ -20,7 +20,7 @@ Table 1: Adverse Reactions from Chemotherapy-Induced Nausea and Vomiting Studies
 | Abdominal Pain | 1 (< 1%) | 2 (< 1%) | 3 (2%) |
 | Insomnia | 1 (< 1%) | 3 (1%) | 3 (2%) |
 
-In other studies, 2 subjects experienced severe constipation following a single palonosetron dose of 0.75 mg, three times the recommended dose.
+In other studies, 2 subjects experienced severe constipation following a single palonosetron dose of approximately 0.75 mg, three times the recommended dose.
 One patient received a 10 mcg/kg oral dose in a post-operative nausea and vomiting study and one healthy subject received a 0.75 mg I.V. dose in a pharmacokinetic study.
 
 In clinical trials, the following infrequently reported adverse reactions, assessed by investigators as treatment-related or causality unknown, occurred following administration of ALOXI to adult patients receiving concomitant cancer chemotherapy:
@@ -32,9 +32,9 @@ Dermatological: < 1%: allergic dermatitis, rash.
 
 Hearing and Vision: < 1%: motion sickness, tinnitus, eye irritation and amblyopia.
 
-Gastrointestinal System: 1% diarrhea, < 1% dyspepsia, abdominal pain, dry mouth, hiccups and flatulence.
+Gastrointestinal System: 1%: diarrhea, < 1%: dyspepsia, abdominal pain, dry mouth, hiccups and flatulence.
 
-General: 1% weakness, < 1% fatigue, fever, hot flash, flu-like syndrome.
+General: 1%: weakness, < 1%: fatigue, fever, hot flash, flu-like syndrome.
 
 Liver: < 1%: transient, asymptomatic increases in AST and/or ALT and bilirubin.
 These changes occurred predominantly in patients receiving highly emetogenic chemotherapy.
@@ -51,13 +51,26 @@ Urinary System: < 1%: urinary retention.
 
 Vascular: < 1%: vein discoloration, vein distention.
 
+Pediatrics In a pediatric clinical trial for the prevention of chemotherapy-induced nausea and vomiting 163 cancer patients received a single 20 mcg/kg (maximum 1.5 mg) intravenous infusion of palonosetron 30 minutes before beginning the first cycle of emetogenic chemotherapy.
+Patients had a mean age of 8.4 years (range 2 months to 16.9 years) and were 46% male; and 93% white.
+
+The following adverse reactions were reported for palonosetron:
+
+Nervous System: <1%: headache, dizziness, dyskinesia.
+
+General: <1%: infusion site pain.
+
+Dermatological: <1%: allergic dermatitis, skin disorder.
+
+In the trial, adverse reactions were evaluated in pediatric patients receiving palonosetron for up to 4 chemotherapy cycles.
+
 ## 6.2 Postoperative Nausea and Vomiting
 
 The adverse reactions cited in Table 2 were reported in ≥ 2% of adults receiving I.V.
 Aloxi 0.075 mg immediately before induction of anesthesia in one phase 2 and two phase 3 randomized placebo-controlled trials.
-Rates of events between palonosetron and placebo groups were indistinguishable.
+Rates of events between palonosetron and placebo groups were similar.
 Some events are known to be associated with, or may be exacerbated by concomitant perioperative and intraoperative medications administered in this surgical population.
-Please refer to Section 12.2, thorough QTc study results, for definitive data demonstrating the lack of palonosetron effect on QT/QTc.
+Please refer to Section 12.2, thorough QT/QTc study results, for data demonstrating the lack of palonosetron effect on QT/QTc.
 
 Table 2: Adverse Reactions from Postoperative Nausea and Vomiting Studies ≥ 2% in any Treatment Group
 
@@ -70,12 +83,12 @@ Table 2: Adverse Reactions from Postoperative Nausea and Vomiting Studies ≥ 2%
 
 In these clinical trials, the following infrequently reported adverse reactions, assessed by investigators as treatment-related or causality unknown, occurred following administration of ALOXI to adult patients receiving concomitant perioperative and intraoperative medications including those associated with anesthesia:
 
-Cardiovascular: 1% electrocardiogram QTc prolongation, sinus bradycardia, tachycardia; < 1%: blood pressure decreased, hypotension, hypertension, arrhythmia, ventricular extrasystoles, generalized edema; ECG T wave amplitude decreased, platelet count decreased.
+Cardiovascular: 1%: electrocardiogram QTc prolongation, sinus bradycardia, tachycardia, < 1%: blood pressure decreased, hypotension, hypertension, arrhythmia, ventricular extrasystoles, generalized edema, ECG T wave amplitude decreased, platelet count decreased.
 The frequency of these adverse effects did not appear to be different from placebo.
 
 Dermatological: 1%: pruritus.
 
-Gastrointestinal System: 1%: flatatulence, < 1%: dry mouth, upper abdominal pain, salivary hypersecretion, dyspepsia, diarrhea, intestinal hypomotility, anorexia.
+Gastrointestinal System: 1%: flatulence, < 1%: dry mouth, upper abdominal pain, salivary hypersecretion, dyspepsia, diarrhea, intestinal hypomotility, anorexia.
 
 General: < 1%: chills.
 
