@@ -25,7 +25,7 @@ The maximum budesonide plasma concentration following a 9 mg daily dose (in both
 
 Since there are no data from controlled trials on the use of UCERIS by nursing mothers or their infants, and because of the potential for serious adverse reactions in nursing infants from UCERIS, a decision should be made whether to discontinue nursing or to discontinue UCERIS, taking into account the clinical importance of UCERIS to the mother.
 
-Budesonide, is secreted in human milk.
+Budesonide is secreted in human milk.
 Data from budesonide delivered via dry powder inhaler indicates that the total daily oral dose of budesonide available in breast milk to the infant is approximately 0.3% to 1% of the dose inhaled by the mother.
 Assuming the coefficient of extrapolation between the inhaled and oral doses is constant across all dose levels, at therapeutic doses of UCERIS, budesonide exposure to the nursing child may be up to 10 times higher than that by budesonide inhalation.
 

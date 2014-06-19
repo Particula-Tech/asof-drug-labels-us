@@ -18,7 +18,7 @@ Patients who are on drugs that suppress the immune system are more susceptible t
 Chicken pox and measles, for example, can have a more serious or even fatal course in susceptible patients or patients on immunosuppressant doses of glucocorticosteroids.
 In patients who have not had these diseases, particular care should be taken to avoid exposure.
 
-How the dose, route and duration of glucocorticosteroid administration affect the risk of developing a disseminated infection is not known.
+How the dose, route, and duration of glucocorticosteroid administration affect the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior glucocorticosteroid treatment to the risk is also not known.
 If exposed, therapy with varicella zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG), as appropriate, may be indicated.
 If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.

@@ -3,14 +3,15 @@
     "NDA203634"
   ],
   "inn": "budesonide",
-  "labeler": "Santarus, Inc",
+  "labeler": "Santarus, Inc.",
   "package_ndcs": [
+    "68012-309-02",
     "68012-309-30"
   ],
   "products": [
     {
-      "form": "TABLET",
-      "generic": "budesonide (11.beta.,16.alpha.(s))",
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "budesonide",
       "name": "Uceris"
     }
   ],

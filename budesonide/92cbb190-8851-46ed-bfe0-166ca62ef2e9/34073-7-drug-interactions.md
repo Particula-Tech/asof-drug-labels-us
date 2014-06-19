@@ -9,4 +9,4 @@ Ingestion of grapefruit or grapefruit juice should be avoided in connection with
 
 ## 7.2 Inhibitors of Gastric Acid Secretion
 
-Since the dissolution of the coating of UCERIS is pH dependent, the release properties and uptake of the compound may be altered when UCERIS is used after treatment with gastric acid reducing agents (e.g., PPIs, H2-blockers and antacids)
+Since the dissolution of the coating of UCERIS is pH dependent, the release properties and uptake of the compound may be altered when UCERIS is used after treatment with gastric acid reducing agents (e.g., PPIs, H2-blockers and antacids).

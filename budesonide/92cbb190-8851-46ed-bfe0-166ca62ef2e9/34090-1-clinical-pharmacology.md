@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Budesonide has a high topical glucocorticosteroid (GCS) activity and a substantial first-pass elimination.
+Budesonide has a high topical glucocorticosteroid (GCS) activity and substantial first-pass elimination.
 The formulation contains budesonide in an extended release tablet core.
 The tablet core is enteric coated to protect dissolution in gastric juice which delays budesonide release until exposure to a pH ≥ 7 in the small intestine.
 Upon disintegration of the coating, the core matrix provides extended release of budesonide in a time dependent manner.
@@ -39,7 +39,7 @@ Metabolism
 
 Following absorption, budesonide is subject to high first-pass metabolism (80-90%).
 In vitro experiments in human liver microsomes demonstrate that budesonide is rapidly and extensively biotransformed, mainly by CYP3A4, to its 2 major metabolites, 6β-hydroxy budesonide and 16α-hydroxy prednisolone.
-The glucocorticoid activity of these metabolites is negligible (<1/100) in relation to that of the parent compound.
+The glucocorticoid activity of these metabolites is negligible (< 1/100) in relation to that of the parent compound.
 
 In vivo investigations with intravenous doses in healthy subjects are in agreement with the in vitro findings and demonstrate that budesonide has a high plasma clearance, 0.9-1.8 L/min.
 These high plasma clearance values approach the estimated liver blood flow, and, accordingly, suggest that budesonide is a high hepatic clearance drug.
@@ -66,7 +66,7 @@ Renal Impairment
 
 The pharmacokinetics of budesonide in patients with renal impairment has not been studied.
 Intact budesonide is not renally excreted, but metabolites are to a large extent, and might therefore reach higher levels in patients with impaired renal function.
-However, these metabolites have negligible corticosteroid activity as compared with budesonide (<1/100).
+However, these metabolites have negligible corticosteroid activity as compared with budesonide (< 1/100).
 
 Drug-Drug Interactions
 

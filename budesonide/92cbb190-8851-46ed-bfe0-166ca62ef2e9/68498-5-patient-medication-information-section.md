@@ -1,6 +1,12 @@
-FDA-approved Patient Labeling
+# FDA-approved Patient Labeling
 
-UCERIS (u SAIR us) (budesonide) (bew DEH so nide) extended release tablets What is UCERIS extended release tablets?
+UCERIS (u SAIR us)
+
+(budesonide) (bew DEH so nide)
+
+extended release tablets
+
+What is UCERIS extended release tablets?
 
 UCERIS is a prescription corticosteroid medicine used to help get mild to moderate ulcerative colitis (UC) under control (induce remission).
 
@@ -45,7 +51,7 @@ How should I take UCERIS extended release tablets?
 - Take UCERIS extended release tablets exactly as your healthcare provider tells you to take it.
 - Your healthcare provider will tell you how many UCERIS extended release tablets to take.
 - Take UCERIS extended release tablets in the morning.
-- Take UCERIS extended release tablets capsules whole with water.
+- Take UCERIS extended release tablets whole with water.
   Do not chew, crush, or break UCERIS extended release tablets before swallowing.
 - If you take too much of UCERIS, call your healthcare provider right away or go to the nearest hospital emergency room.
 
@@ -58,52 +64,61 @@ What are the possible side effects of UCERIS extended release tablets?
 
 UCERIS can cause some serious side effects, including:
 
-- Effects of having too much corticosteroid medicine in your blood (hypercorticism).
-  Long-time use of UCERIS extended release tablets can cause you to have too much glucocorticosteroid medicine in your blood.
-  Tell your healthcare provider if you have any of the following signs and symptoms of hypercorticism:
-  - acne
-  - bruise easily
-  - rounding of your face (moon face)
-  - ankle swelling
-  - thicker or more hair on your body and face
-  - a fatty pad or hump between your shoulders (buffalo hump)
-  - pink or purple stretch marks on the skin of your abdomen, thighs, breasts and arms
-- Adrenal suppression.
-  When UCERIS extended release tablets is taken for a long period of time (chronic use), the adrenal glands do not make enough steroid hormones (adrenal suppression).
-  Tell your healthcare provider if you are under stress or have any symptoms of adrenal suppression during treatment with UCERIS extended release tablets including:
+Effects of having too much corticosteroid medicine in your blood (hypercorticism).
+Long-time use of UCERIS extended release tablets can cause you to have too much glucocorticosteroid medicine in your blood.
+Tell your healthcare provider if you have any of the following signs and symptoms of hypercorticism:
 
-| tiredness | vomiting |  |  |
-| --- | --- | --- | --- |
-| weakness | low blood pressure |  |  |
-| nausea |  |  |  |
+- acne
+- bruise easily
+- rounding of your face (moon face)
+- ankle swelling
+- thicker or more hair on your body and face
+- a fatty pad or hump between your shoulders (buffalo hump)
+- pink or purple stretch marks on the skin of your abdomen, thighs, breasts and arms
 
-- Immune system effects and a higher chance of infections.
+Adrenal suppression.
+When UCERIS extended release tablets is taken for a long period of time (chronic use), the adrenal glands do not make enough steroid hormones (adrenal suppression).
+Tell your healthcare provider if you are under stress or have any symptoms of adrenal suppression during treatment with UCERIS extended release tablets including:
+
+- tiredness
+- weakness
+- nausea
+- vomiting
+- low blood pressure
+
+Immune system effects and a higher chance of infections.
 
 UCERIS extended release tablets weaken your immune system.
 Taking medicines that weaken your immune system makes you more likely to get infections.
 Avoid contact with people who have contagious diseases such as chicken pox or measles, while taking UCERIS extended release tablets.
 
-Tell your healthcare provider about any signs or symptoms of infection during treatment with UCERIS extended release tablets, including:
+Tell your health care provider about any signs or symptoms of infection during treatment with UCERIS extended release tablets, including:
 
-| fever | chills |
-| --- | --- |
-| pain | feeling tired |
-| aches | nausea and vomiting |
+- fever
+- pain
+- aches
+- chills
+- feeling tired
+- nausea and vomiting
 
-- Worsening of allergies.
-  If you take certain other corticosteroid medicines to treat allergies, switching to UCERIS extended release tablets may cause your allergies to come back.
-  These allergies may include eczema (a skin disease) or rhinitis (inflammation inside your nose).
-  Tell your healthcare provider if any of your allergies become worse while taking UCERIS extended release tablets.
+Worsening of allergies.
+If you take certain other corticosteroid medicines to treat allergies, switching to UCERIS extended release tablets may cause your allergies to come back.
+These allergies may include eczema (a skin disease) or rhinitis (inflammation inside your nose).
+Tell your healthcare provider if any of your allergies become worse while taking UCERIS extended release tablets.
 
 The most common side effects of UCERIS extended release tablets include:
 
-| headache | bloating |
-| --- | --- |
-| nausea | acne |
-| decreased blood cortisol levels | urinary tract infection |
-| stomach-area pain | joint pain |
-| tiredness | constipation |
-| stomach or intestinal gas |  |
+- headache
+- nausea
+- decreased blood cortisol levels
+- stomach-area pain
+- tiredness
+- stomach or intestinal gas
+- bloating
+- acne
+- urinary tract infection
+- joint pain
+- constipation
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -115,7 +130,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store UCERIS extended release tablets?
 
-- Store UCERIS extended release tablets at room temperature, between 68 °F to 77 °F (20 °C to 25 °C)
+- Store UCERIS extended release tablets at room temperature, between 68 °F to 77 °F (20°C to 25°C)
 - Keep the bottle tightly closed to protect UCERIS from light and moisture.
 
 Keep UCERIS extended release tablets and all medicines out of the reach of children.
@@ -140,12 +155,10 @@ Inactive ingredients: stearic acid, lecithin, microcrystalline cellulose, hydrox
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-UCERIS (budesonide) Tablets are manufactured for Santarus, Inc., 3611 Valley Centre
+UCERIS (budesonide) Tablets are manufactured for Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc., 8510 Colonnade Center Drive, Raleigh, NC 27615, USA by: Cosmo S.p.A., Milan, Italy.
 
-Drive #400, San Diego, CA 92130, USA by: Cosmo S.p.A., Milan, Italy.
+UCERIS™ is a trademark of Santarus, Inc.,a wholly owned subsidiary of Salix Pharmaceuticals, Inc. Raleigh, NC 27615
 
-Revised 01/2013
+© 2013 Santarus, Inc., a wholly owned subsidiary of Salix Pharmaceuticals, Inc.
 
-UCERIS™ is a trademark of Santarus, Inc.
-
-© 2013 Santarus, Inc.
+Revised: March 2014

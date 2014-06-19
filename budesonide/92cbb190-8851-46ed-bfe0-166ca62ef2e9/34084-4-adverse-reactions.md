@@ -12,7 +12,7 @@ Systemic glucocorticosteroid use may result in the following:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of UCERIS has been evaluated in controlled and open-label clinical trials which enrolled a combined total of 1105 patients with ulcerative colitis.
+The safety of UCERIS has been evaluated in controlled and open-label clinical trials which enrolled a combined total of 1,105 patients with ulcerative colitis.
 
 In two 8-week, placebo-controlled studies in patients with active disease (Study 1 and Study 2), a total of 255 patients received UCERIS 9 mg, 254 patients received UCERIS 6 mg, and 258 patients received placebo.
 They ranged in age from 18-77 years (mean 43), 56% were male, and 75% were Caucasian.
@@ -20,7 +20,7 @@ The most common adverse reactions were headache, nausea, decreased blood cortiso
 The adverse reactions occurring in 2% or more of patients on therapy with UCERIS 9 mg are summarized in Table 1.
 
 Table 1.
-Summary of Adverse Reactions in Two Placebo Controlled Trials Experienced by at Least 2% of the UCERIS 9 mg Group (Studies 1 and 2)
+Summary of Adverse Reactions in Two Placebo-Controlled Trials Experienced by at Least 2% of the UCERIS 9 mg Group (Studies 1 and 2)
 
 |  | UCERIS 9 mg (N = 255) n (%) | UCERIS 6 mg (N = 254) n (%) | Placebo (N = 258) n (%) |
 | --- | --- | --- | --- |
@@ -66,8 +66,7 @@ Patients who had previously completed 8 weeks of therapy in any induction study 
 In patients who took UCERIS 6 mg for up to 12 months, similar rates of adverse reactions were seen between placebo and UCERIS 6 mg.
 After up to 12 months of study treatment, 77% (27/35) of the patients in the UCERIS 6 mg and 74% (29/39) of the patients in the placebo treatment groups had normal bone density scans.
 
-In Study 4, the glucocorticoid related effects were similar in patients with up to 12 months of therapy with UCERIS 6 mg and placebo.
-(Table 3)
+In Study 4, the glucocorticoid related effects were similar in patients with up to 12 months of therapy with UCERIS 6 mg and placebo (Table 3).
 
 Table 3.
 Summary of Glucocorticoid Related Effects Over 12-month Treatment (Study 4)
