@@ -1,11 +1,13 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Femring should not be used in women with any of the following conditions:
+Femring is contraindicated in women with any of the following conditions:
 
-1. Undiagnosed abnormal genital bleeding.
-2. Known, suspected, or history of breast cancer.
-3. Known or suspected estrogen-dependent neoplasia.
-4. Active deep vein thrombosis, pulmonary embolism or history of these conditions.
-5. Active arterial thromboembolic disease (for example, stroke and myocardial infarction) or a history of these conditions.
-6. Known liver dysfunction or disease.
-7. Known or suspected pregnancy.
+- Undiagnosed abnormal genital bleeding
+- Known, suspected, or history of breast cancer
+- Known or suspected estrogen-dependent neoplasia
+- Active DVT, PE, or history of these conditions
+- Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions
+- Known anaphylactic reaction or angioedema to Femring
+- Known liver impairment or disease
+- Known protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders
+- Known or suspected pregnancy

@@ -1,6 +1,5 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Femring therapy is indicated in the:
+1.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
 
-1. Treatment of moderate to severe vasomotor symptoms due to menopause.
-2. Treatment of moderate to severe vulvar and vaginal atrophy due to menopause.
+1.2 Treatment of Moderate to Severe Vulvar and Vaginal Atrophy due to Menopause
