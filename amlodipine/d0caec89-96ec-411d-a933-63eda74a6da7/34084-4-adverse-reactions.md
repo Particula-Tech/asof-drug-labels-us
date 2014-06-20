@@ -16,7 +16,7 @@ The overall frequency of adverse reactions was neither dose-related nor related 
 In placebo-controlled clinical trials, discontinuation due to side effects occurred in 1.8% of patients in the Exforge-treated patients and 2.1% in the placebo-treated group.
 The most common reasons for discontinuation of therapy with Exforge were peripheral edema (0.4%), and vertigo (0.2%).
 
-The adverse reactions that occurred in placebo-controlled clinical trials in at least 2% of patients treated with Exforge but at a higher incidence in amlodipine/valsartan patients (n=1437) than placebo (n=337) included peripheral edema (5.4% vs. 3.0%), nasopharyngitis (4.3% vs. 1.8%), upper respiratory tract infection (2.9% vs 2.1%) and dizziness (2.1% vs 0.9%).
+The adverse reactions that occurred in placebo-controlled clinical trials in at least 2% of patients treated with Exforge but at a higher incidence in amlodipine/valsartan patients (n=1437) than placebo (n=337) included peripheral edema (5.4% vs 3.0%), nasopharyngitis (4.3% vs 1.8%), upper respiratory tract infection (2.9% vs 2.1%) and dizziness (2.1% vs 0.9%).
 
 Orthostatic events (orthostatic hypotension and postural dizziness) were seen in less than 1% of patients.
 

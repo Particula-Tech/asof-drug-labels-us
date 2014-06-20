@@ -51,7 +51,7 @@ In hypertensive patients with normal renal function, therapeutic doses of amlodi
 
 As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.
 In hemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when coadministered with beta-blockers to man.
-Similar findings, however, have been observed in normals or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
+Similar findings, however, have been observed in normal or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
 
 Amlodipine does not change sinoatrial nodal function or atrioventricular (AV) conduction in intact animals or man.
 In patients with chronic stable angina, intravenous administration of 10 mg did not significantly alter A-H and H-V conduction and sinus node recovery time after pacing.
@@ -93,8 +93,8 @@ Approximately 93% of circulating amlodipine is bound to plasma proteins in hyper
 
 Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism with 10% of the parent compound and 60% of the metabolites excreted in the urine.
 
-Elimination of amlodipine from the plasma is biphasic with a terminal elimination half-life of about 30-50 hours.
-Steady state plasma levels of amlodipine are reached after 7-8 days of consecutive daily dosing.
+Elimination of amlodipine from the plasma is biphasic with a terminal elimination half-life of about 30 to 50 hours.
+Steady state plasma levels of amlodipine are reached after 7 to 8 days of consecutive daily dosing.
 
 Valsartan
 
@@ -174,6 +174,6 @@ Warfarin: Coadministration of amlodipine with warfarin did not change the warfar
 Simvastatin: Coadministration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
 Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
 
-CYP3A4 Inhibitors: Coadministration of a 180 mg daily dose of diltiazem with 5 mg amlodpidine in elderly hypertensives patients resulted in a 60% increase in amlodipine systemic exposure.
+CYP3A4 Inhibitors: Coadministration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
 Erythromycin coadministration in healthy volunteers did not significantly change amlodipine systemic exposure.
-However, strong inhbitors of CYP3A4 (i.e., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
+However, strong inhibitors of CYP3A4 (i.e., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
