@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202650"
+  ],
+  "inn": "zoledronic-acid",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-390-54"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "zoledronic acid",
+      "name": "Zoledronic acid"
+    }
+  ],
+  "setid": "20cd29cc-cef5-48c4-adfe-6b3dfee0ab61",
+  "source": "dailymed"
+}
