@@ -48,7 +48,9 @@ NDC 0517-0032-25
 
 CYANOCOBALAMIN INJECTION, USP
 
-1000 mcg/mL
+10,000 mcg/10 mL
+
+(1,000 mcg/mL)
 
 10 mL MULTIPLE DOSE VIAL
 
@@ -62,7 +64,7 @@ Carton
 
 CYANOCOBALAMIN INJECTION, USP
 
-1000 mcg/mL
+10,000 mcg/10 mL (1,000 mcg/mL)
 
 NDC 0517-0032-25
 
@@ -74,13 +76,13 @@ Rx Only
 
 Each mL contains: Cyanocobalamin 1000 mcg, Benzyl Alcohol 1.5%, Sodium Chloride 0.9%, Water for Injection q.s. pH (range 4.5 – 7.0) adjusted with Hydrochloric Acid and/or Sodium Hydroxide.
 WARNING: PROTECT FROM LIGHT.
-Store at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F) (See USP Controlled Room Temperature).
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) (See USP Controlled Room Temperature).
 Directions for Use: See Package Insert.
 
 AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
 Rev.
-11/06
+5/14
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 30 mL
 
