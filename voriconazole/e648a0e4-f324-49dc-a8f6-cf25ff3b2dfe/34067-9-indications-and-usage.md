@@ -11,11 +11,11 @@ There was a small number of cases of culture-proven disease due to species of As
 
 [see Clinical Studies (14.2), and Clinical Pharmacology (12.4)].
 
-## 1.3 Esophageal candidiasis
+## 1.3 Esophageal Candidiasis
 
 [see Clinical Studies (14.3), and Clinical Pharmacology (12.4)].
 
-## 1.4 Serious fungal infections caused by Scedosporium apiospermum (asexual form of Pseudallescheria boydii) and Fusarium spp, including Fusarium solani, in patients intolerant of, or refractory to, other therapy
+## 1.4 Serious Fungal Infections Caused by Scedosporium apiospermum (Asexual Form of Pseudallescheria boydii) and Fusarium spp. Including Fusarium solani, in Patients Intolerant of, or Refractory to, Other Therapy
 
 [see Clinical Studies (14.4), and Clinical Pharmacology (12.4)].
 
