@@ -55,7 +55,7 @@ These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytope
 AEDs, including LAMICTAL XR, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately 1 case of suicidal thinking or behavior for every 530 patients treated.
 There were 4 suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on suicide.
 
@@ -121,7 +121,7 @@ To avoid the medication error of using the wrong drug or formulation, patients s
 ## 5.7 Concomitant Use With Oral Contraceptives
 
 Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see Clinical Pharmacology (12.3)].
-Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking LAMICTAL XR[see Dosage and Administration (2.1)].
+Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking LAMICTAL XR [see Dosage and Administration (2.1)].
 During the week of inactive hormone preparation (pill-free week) of oral contraceptive therapy, plasma lamotrigine levels are expected to rise, as much as doubling at the end of the week.
 Adverse reactions consistent with elevated levels of lamotrigine, such as dizziness, ataxia, and diplopia, could occur.
 

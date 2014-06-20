@@ -26,7 +26,7 @@ Because lamotrigine is metabolized predominantly by glucuronic acid conjugation,
 Target Plasma Levels: A therapeutic plasma concentration range has not been established for lamotrigine.
 Dosing of LAMICTAL XR should be based on therapeutic response [see Clinical Pharmacology (12.3)].
 
-Women Taking Estrogen-Containing Oral Contraceptives:Starting LAMICTAL XR in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for LAMICTAL XR should be necessary solely based on the use of estrogen-containing oral contraceptives.
+Women Taking Estrogen-Containing Oral Contraceptives: Starting LAMICTAL XR in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for LAMICTAL XR should be necessary solely based on the use of estrogen-containing oral contraceptives.
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL XR based on the concomitant AED or other concomitant medications (see Table 1).
 See below for adjustments to maintenance doses of LAMICTAL XR in women taking estrogen-containing oral contraceptives.
 

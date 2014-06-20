@@ -245,7 +245,7 @@ Other: Results of in vitro experiments suggest that clearance of lamotrigine is 
 
 Results of in vitro experiments suggest that lamotrigine does not reduce the clearance of drugs eliminated predominantly by CYP2D6.
 
-Special Populations:Patients With Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min, range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100 mg dose of immediate-release lamotrigine.
+Special Populations: Patients With Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min, range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100 mg dose of immediate-release lamotrigine.
 The mean plasma half-lives determined in the study were 42.9 hours (chronic renal failure), 13.0 hours (during hemodialysis), and 57.4 hours (between hemodialysis) compared with 26.2 hours in healthy volunteers.
 On average, approximately 20% (range: 5.6 to 35.1) of the amount of lamotrigine present in the body was eliminated by hemodialysis during a 4-hour session [see Dosage and Administration (2.1)].
 

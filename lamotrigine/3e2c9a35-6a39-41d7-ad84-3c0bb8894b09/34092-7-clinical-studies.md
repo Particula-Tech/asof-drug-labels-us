@@ -6,8 +6,8 @@ The effectiveness of LAMICTAL XR as adjunctive therapy was established in PGTC s
 Patients with at least 3 PGTC seizures during an 8-week baseline phase were randomized to 19 weeks of treatment with LAMICTAL XR or placebo added to their current AED regimen of up to 2 drugs.
 Patients were dosed on a fixed-dose regimen, with target doses ranging from 200 to 500 mg/day of LAMICTAL XR based on concomitant AED(s) (target dose = 200 mg for valproate, 300 mg for AEDs not altering plasma lamotrigine levels, and 500 mg for enzyme-inducing AEDs).
 
-The primary efficacy endpoint was percent change from baseline in PGTC seizure frequency during the double-blind treatment phase.
-For the intent-to-treat population, the median percent reduction in PGTC seizure frequency was 75% in patients treated with LAMICTAL XR and 32% in patients treated with placebo, a difference that was statistically significant, defined as a 2-sided P value <0.05.
+- The primary efficacy endpoint was percent change from baseline in PGTC seizure frequency during the double-blind treatment phase.
+  For the intent-to-treat population, the median percent reduction in PGTC seizure frequency was 75% in patients treated with LAMICTAL XR and 32% in patients treated with placebo, a difference that was statistically significant, defined as a 2-sided P value <0.05.
 
 Figure 1 presents the percentage of patients (X-axis) with a percent reduction in PGTC seizure frequency (responder rate) from baseline through the entire treatment period at least as great as that represented on the Y-axis.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in seizure frequency), while a negative value indicates a worsening from baseline (i.e., an increase in seizure frequency).

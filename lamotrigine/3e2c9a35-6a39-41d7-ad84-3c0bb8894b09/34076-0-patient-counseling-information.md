@@ -67,13 +67,13 @@ The label on the bottle includes a depiction of the tablets that further communi
 The unit-of-use bottle with a distinctive orange cap and distinctive bottle label features serves to identify the different presentations of the drug and thus may help to reduce the risk of medication errors.
 To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are LAMICTAL XR each time they fill their prescription and to immediately talk to their doctor/pharmacist if they receive a LAMICTAL XR tablet without a white center and without “LAMICTAL XR” and the strength printed on the tablet as they may have received the wrong medication[see Dosage Forms and Strengths (3), How Supplied/Storage and Handling (16)].
 
-LAMICTAL XR and DiffCORE are trademarks of the GlaxoSmithKline group of companies.
+LAMICTAL XR and DiffCORE are trademarks of the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline group of companies.
+©2014, the GSK group of companies.
 All rights reserved.
 
-LXR:14PI
+LXR:15PI

@@ -22,15 +22,14 @@ The risk of getting a rash is higher if you:
 
 - •take LAMICTAL XR while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)].
 - •take a higher starting dose of LAMICTAL XR than your healthcare provider prescribed.
-- •increase your dose of LAMICTAL XR faster than prescribed.
-- LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like the liver or blood cells.
+- •increase your dose of LAMICTAL XR faster than prescribed.LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like the liver or blood cells.
   You may or may not have a rash with these types of reactions.
 
 Call your healthcare provider right away if you have any of the following:
 
 - •a skin rash
 - •hives
-  - •fever
+  - ∘fever
 - •swollen lymph glands
 - •painful sores in the mouth or around your eyes
 - •swelling of your lips or tongue
@@ -169,6 +168,7 @@ How should I take LAMICTAL XR?
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
   Do not take 2 doses at the same time.
+- •If you take too much LAMICTAL XR, call your healthcare provider or your local Poison Control Center or go to the nearest hospital emergency room right away.
 - •You may not feel the full effect of LAMICTAL XR for several weeks.
 - •If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - •LAMICTAL XR can be taken with or without food.
@@ -231,7 +231,7 @@ Tablets are printed with edible black ink.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAMICTAL XR is a trademark of the GlaxoSmithKline group of companies.
+LAMICTAL XR is a trademark of the GSK group of companies.
 
 DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
 
@@ -239,9 +239,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline group of companies.
+©2014, the GSK group of companies.
 All rights reserved.
 
-December 2013
+June 2014
 
-LXR:11MG
+LXR:12MG
