@@ -13,7 +13,7 @@ When properly administered, oxytocin should stimulate uterine contractions simil
 Overstimulation of the uterus by improper administration can be hazardous to both mother and fetus.
 Even with proper administration and adequate supervision, hypertonic contractions can occur in patients whose uteri are hypersensitive to oxytocin.
 
-Except in unusual circumstances, oxytocin should not be administered in the following conditions: prematurity, borderline cephalopelvic disproportion, previous major surgery on the cervix or uterus including Caesarean section, overdistention of the uterus, grand multiparity or invasive cervical carcinoma.
+Except in unusual circumstances, oxytocin should not be administered in the following conditions: prematurity, borderline cephalopelvic disproportion, previous major surgery on the cervix or uterus including caesarean section, overdistention of the uterus, grand multiparity or invasive cervical carcinoma.
 Because of the variability of the combinations of factors which may be present in the conditions above, the definition of ‘‘unusual circumstances’’ must be left to the judgement of the physician.
 The decision can only be made by carefully weighing the potential benefits which oxytocin can provide in a given case against rare but definite potential for the drug to produce hypertonicity or tetanic spasm.
 
