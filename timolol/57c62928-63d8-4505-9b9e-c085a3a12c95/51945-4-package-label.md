@@ -4,7 +4,7 @@ NDC 0378-0055-01
 
 Timolol Maleate Tablets, USP 5 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Timolol maleate, USP 5 mg
 
@@ -19,13 +19,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Adult Dosage: See accom- panying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0055A9
+RM0055A10
 
 PRINCIPAL DISPLAY PANEL - 10 mg
 
@@ -33,7 +33,7 @@ NDC 0378-0221-01
 
 Timolol Maleate Tablets, USP 10 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Timolol maleate, USP 10 mg
 
@@ -48,13 +48,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Adult Dosage: See accom- panying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0221A9
+RM0221A10
 
 PRINCIPAL DISPLAY PANEL - 20 mg
 
@@ -62,7 +62,7 @@ NDC 0378-0715-01
 
 Timolol Maleate Tablets, USP 20 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Timolol maleate, USP 20 mg
 
@@ -77,10 +77,10 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Adult Dosage: See accom- panying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0715A8
+RM0715A9
