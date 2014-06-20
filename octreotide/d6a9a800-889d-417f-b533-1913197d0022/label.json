@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA077457"
+  ],
+  "inn": "octreotide",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-365-04",
+    "63323-376-04",
+    "63323-377-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "octreotide acetate",
+      "name": "Octreotide"
+    }
+  ],
+  "setid": "d6a9a800-889d-417f-b533-1913197d0022",
+  "source": "dailymed"
+}
