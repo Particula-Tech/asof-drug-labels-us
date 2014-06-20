@@ -75,7 +75,7 @@ Especially tell your doctor if you take:
 - digoxin or other digitalis glycosides (a heart medicine)
 - muscle relaxants (medicines used during operations)
 - certain cancer medicines, like cyclophosphamide or methotrexate
-- medicines used to prevent and treat fungal infections (such as ketoconazole, intraconazole)
+- medicines used to prevent and treat fungal infections (such as ketoconazole, itraconazole)
 - medicines used to treat bacterial infections (such as clarithromycin, telithromycin)
 - certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
@@ -197,4 +197,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2014-35 March 2014
+T2014-65 June 2014

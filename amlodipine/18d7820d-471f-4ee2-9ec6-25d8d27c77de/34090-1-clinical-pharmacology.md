@@ -70,7 +70,7 @@ In hypertensive patients with normal renal function, therapeutic doses of amlodi
 
 As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.
 In hemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when coadministered with beta-blockers to man.
-Similar findings, however, have been observed in normals or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
+Similar findings, however, have been observed in normal or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
 
 Amlodipine does not change sinoatrial nodal function or atrioventricular conduction in intact animals or man.
 In patients with chronic stable angina, intravenous administration of 10 mg did not significantly alter A-H and H-V conduction and sinus node recovery time after pacing.
@@ -163,11 +163,10 @@ There is no apparent correlation between renal function (measured by creatinine 
 Valsartan has not been studied in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
 
-In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30< CrCl <90 mL/min) and tripled in severe renal impairment (CrCl ≤30 mL/min), compared to individuals with normal renal function (CrCl >90 mL/min) [see Use in Special Populations (8.6)].
+In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30< CrCl <90 mL/min) and tripled in severe renal impairment (CrCl ≤30 mL/min), compared to individuals with normal renal function (CrCl >90 mL/min) [see Use in Specific Populations (8.6)].
 
 Hepatic Insufficiency: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40% to 60%.
-On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight).
-[see Use in Special Populations (8.7)]
+On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight) [see Use in Specific Populations (8.7)].
 
 Drug Interactions
 

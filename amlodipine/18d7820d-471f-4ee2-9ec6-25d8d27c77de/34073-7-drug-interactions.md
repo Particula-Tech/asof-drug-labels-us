@@ -54,7 +54,6 @@ Non-steroidal anti-inflammatory drugs (NSAIDs and COX-2 selective inhibitors): W
 
 Carbamazepine: May lead to symptomatic hyponatremia.
 
-Ion exchange resins: Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4 to 6 hours after the administration of resins would potentially minimize the interaction.
-[see Clinical Pharmacology (12.3)]
+Ion exchange resins: Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4 to 6 hours after the administration of resins would potentially minimize the interaction [see Clinical Pharmacology (12.3)].
 
 Cyclosporine: Concomitant treatment with cyclosporine may increase the risk of hyperuricemia and gout-type complications.
