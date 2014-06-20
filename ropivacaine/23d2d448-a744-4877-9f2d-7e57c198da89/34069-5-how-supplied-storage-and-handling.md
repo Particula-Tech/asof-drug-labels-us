@@ -1,5 +1,29 @@
 # HOW SUPPLIED
 
+Naropin® Plastic Ampule Sterile-Pak: Boxes of 5
+
+polypropylene ampules fitting both Luer-lock and Luer-slip (tapered syringes)
+
+| Product No. | NDC No. | Strength | Ampule Size |
+| --- | --- | --- | --- |
+| 278510 | 63323-285-10 | 2 mg/mL (0.2%) | 10 mL |
+| 278520 | 63323-285-20 | 2 mg/mL (0.2%) | 20 mL |
+| 278620 | 63323-286-20 | 5 mg/mL (0.5%) | 20 mL |
+| 278720 | 63323-287-20 | 7.5 mg/mL (0.75%) | 20 mL |
+| 278810 | 63323-288-10 | 10 mg/mL (1%) | 10 mL |
+| 278820 | 63323-288-20 | 10 mg/mL (1%) | 20 mL |
+
+Naropin® Flexible Plastic Containers
+
+| ProductNo. | NDCNo. | Strength | Size |
+| --- | --- | --- | --- |
+| 278561 | 63323-285-61 | 2 mg/mL (0.2%) | 100 mL flexible plastic container. |
+| 278563 | 63323-285-63 | 2 mg/mL (0.2%) | 200 mL flexible plastic container. |
+
+This container is not made with natural rubber latex or polyvinyl chloride (PVC), Non-DEHP.
+
+Naropin® is also available as follows:
+
 Naropin® Single Dose Vials
 
 | Product No. | NDC No. | Strength | Size |
@@ -22,28 +46,6 @@ Naropin® Single Dose Infusion Bottles
 | 278564 | 63323-285-64 | 2 mg/mL (0.2%) | 200 mL Infusion Bottle. |
 | 278600 | 63323-286-00 | 5 mg/mL (0.5%) | 100 mL Infusion Bottle. |
 | 278663 | 63323-286-63 | 5 mg/mL (0.5%) | 200 mL Infusion Bottle. |
-
-Naropin® is also available as follows:
-
-Naropin ® Plastic Ampule Sterile-Pak: Boxes of 5
-
-polypropylene ampules fitting both Luer-lock and Luer-slip (tapered syringes)
-
-| Product No. | NDC No. | Strength | Ampule Size |
-| --- | --- | --- | --- |
-| 278510 | 63323-285-10 | 2 mg/mL (0.2%) | 10 mL |
-| 278520 | 63323-285-20 | 2 mg/mL (0.2%) | 20 mL |
-| 278620 | 63323-286-20 | 5 mg/mL (0.5%) | 20 mL |
-| 278720 | 63323-287-20 | 7.5 mg/mL (0.75%) | 20 mL |
-| 278810 | 63323-288-10 | 10 mg/mL (1%) | 10 mL |
-| 278820 | 63323-288-20 | 10 mg/mL (1%) | 20 mL |
-
-Naropin® Flexible Plastic Containers
-
-| ProductNo. | NDCNo. | Strength | Size |
-| --- | --- | --- | --- |
-| 278561 | 63323-285-61 | 2 mg/mL (0.2%) | 100 mL flexible plastic container. |
-| 278563 | 63323-285-63 | 2 mg/mL (0.2%) | 200 mL flexible plastic container. |
 
 The solubility of ropivacaine is limited at pH above 6.
 Thus, care must be taken as precipitation may occur if Naropin is mixed with alkaline solutions.
