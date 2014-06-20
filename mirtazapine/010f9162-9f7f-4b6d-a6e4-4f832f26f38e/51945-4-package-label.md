@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 45 mg Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 45 mg Tablet Bottle Carton
 
 NDC 0052-0109-30
 
@@ -12,7 +12,7 @@ Rx only
 
 30 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 30 mg Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Carton
 
 NDC 0052-0107-30
 
@@ -26,7 +26,7 @@ Rx only
 
 30 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 15 mg Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 15 mg Tablet Bottle Carton
 
 NDC 0052-0105-30
 
