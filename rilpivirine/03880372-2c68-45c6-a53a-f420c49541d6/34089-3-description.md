@@ -5,7 +5,7 @@ EDURANT is available as a white to off-white, film-coated, round, biconvex, 6.4 
 Each tablet contains 27.5 mg of rilpivirine hydrochloride, which is equivalent to 25 mg of rilpivirine.
 
 The chemical name for rilpivirine hydrochloride is 4-[[4-[[4-[(E)-2-cyanoethenyl]-2,6-dimethylphenyl]amino]-2-pyrimidinyl]amino]benzonitrile monohydrochloride.
-Its molecular formula is C22H18N6 • HCl and its molecular weight is 402.88.
+Its molecular formula is C22H18N6 ∙ HCl and its molecular weight is 402.88.
 Rilpivirine hydrochloride has the following structural formula:
 
 Rilpivirine hydrochloride is a white to almost white powder.
