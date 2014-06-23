@@ -30,6 +30,11 @@ Suicidal thoughts or actions:
   - trouble sleeping
   - an increase in activity or talking more than what is normal for you
   - other unusual changes in behavior or mood
+  - Visual problemsOnly some people are at risk for these problems.
+    You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+    - eye pain
+    - changes in vision
+    - swelling or redness in or around the eye
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
 EFFEXOR XR may be associated with these serious side effects:
@@ -103,7 +108,7 @@ Severe allergic reactions:
 
 - trouble breathing
 - swelling of the face, tongue, eyes or mouth
-- rash, itchy welts (hives) or blisters, alone or with fever or joint pain
+- rash, itchy welts (hives) or blisters, alone or with fever or joint pain.
 
 Do not stop EFFEXOR XR without first talking to your healthcare provider.
 Stopping EFFEXOR XR too quickly or changing from another antidepressant too quickly may cause serious symptoms including:
@@ -133,7 +138,7 @@ Do not take EFFEXOR XR if you:
 
 - are allergic to EFFEXOR XR or any of the ingredients in EFFEXOR XR.
   See the end of this Medication Guide for a complete list of ingredients in EFFEXOR XR.
-- have uncontrolled narrow-angle glaucoma
+- have uncontrolled angle-closure glaucoma
 - take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
   People who take EFFEXOR XR close in time to an MAOI may have serious or even life-threatening side effects.
@@ -177,7 +182,6 @@ Before starting EFFEXOR XR, tell your healthcare provider if you:
 - have liver problems
 - have kidney problems
 - have thyroid problems
-- have glaucoma
 - have or had seizures or convulsions
 - have bipolar disorder or mania
 - have low sodium levels in your blood
@@ -227,10 +231,7 @@ EFFEXOR XR may cause serious side effects, including:
   - problems feeding and breathing
   - seizures
   - shaking, jitteriness or constant crying
-- Narrow-angle glaucoma/enlarged pupils.
-  Check eye pressure regularly if you:
-  - have a history of increased eye pressure
-  - are at risk for certain types of glaucoma
+- Angle-closure glaucoma
 
 Common possible side effects in people who take EFFEXOR XR include:
 
@@ -288,6 +289,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0542-3.0
+LAB-0542-4.0
 
-December 2012
+May 2014

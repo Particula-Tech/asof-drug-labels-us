@@ -71,6 +71,10 @@ If concomitant use of Effexor XR with other serotonergic drugs, including tripta
 
 Treatment with Effexor XR and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
+## Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including Effexor XR may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
 ## Sustained Hypertension
 
 Effexor XR treatment is associated with sustained hypertension (defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥90 mm Hg and ≥10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 2).
@@ -134,10 +138,6 @@ Table 4 Final On-Therapy Mean Changes from Baseline in Supine Systolic and Diast
 
 Across all clinical trials in MDD, GAD, Social Anxiety Disorder and panic disorder, 1.4% of patients in the Effexor XR-treated groups experienced a ≥15 mm Hg increase in supine diastolic blood pressure with blood pressure ≥105 mm Hg compared to 0.9% of patients in the placebo groups.
 Similarly, 1% of patients in the Effexor XR-treated groups experienced a ≥20 mm Hg increase in supine systolic blood pressure with blood pressure ≥180 mm Hg compared to 0.3% of patients in the placebo groups.
-
-## Mydriasis
-
-Mydriasis has been reported in association with venlafaxine; therefore patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma (angle-closure glaucoma) should be monitored (see PRECAUTIONS, Information for Patients).
 
 # PRECAUTIONS
 
@@ -348,6 +348,11 @@ Patients should be advised to inform their physicians if they are taking, or pla
 
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Effexor XR and triptans, tramadol, tryptophan supplements or other serotonergic agents (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome and PRECAUTIONS, Drug Interactions, CNS-Active Drugs, Serotonergic Drugs).
 
+Patients should be advised that taking Effexor XR can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+
 Patients should be cautioned about the concomitant use of Effexor XR and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding (see PRECAUTIONS, Abnormal Bleeding).
 
 ### Alcohol
@@ -365,11 +370,6 @@ Patients should be advised to notify their physician if they become pregnant or 
 ### Nursing
 
 Patients should be advised to notify their physician if they are breast-feeding an infant.
-
-### Mydriasis
-
-Mydriasis (prolonged dilation of the pupils of the eye) has been reported with venlafaxine.
-Patients should be advised to notify their physician if they have a history of glaucoma or a history of increased intraocular pressure (see WARNINGS).
 
 ## Laboratory Tests
 
