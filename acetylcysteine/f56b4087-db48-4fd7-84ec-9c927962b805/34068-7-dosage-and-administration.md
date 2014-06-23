@@ -82,7 +82,7 @@ The nebulizing equipment should be cleaned immediately after use, otherwise the 
 
 ## Prolonged Nebulization
 
-When three fourths of the initial volume of acetylcysteine solution have been nebulized, a quantity of Sterile Water for Injection, USP (approximately equal to the volume of solution remaining) should be added to the nebulizer.
+When three fourths of the initial volume of acetylcysteine solution has been nebulized, a quantity of Sterile Water for Injection, USP (approximately equal to the volume of solution remaining) should be added to the nebulizer.
 This obviates any concentration of the agent in the residual solvent remaining after prolonged nebulization.
 
 ## Compatibility
@@ -107,10 +107,10 @@ IN VITRO COMPATIBILITY1 TESTS OF ACETYLCYSTEINE
 | --- | --- | --- | --- |
 | PRODUCT AND/OR AGENT | COMPATIBILITY | ACETYLCYSTEINE | PRODUCT |
 |  | RATING |  | OR AGENT |
-| ANESTHETIC GAS |  |  |  |
+| ANESTHETIC, GAS |  |  |  |
 | Halothane | Compatible | 20% | Infinite |
 | Nitrous Oxide | Compatible | 20% | Infinite |
-| ANESTHETIC LOCAL |  |  |  |
+| ANESTHETIC, LOCAL |  |  |  |
 | Cocaine HCl | Compatible | 10% | 5% |
 | Lidocaine HCl | Compatible | 10% | 2% |
 | Tetracaine HCl | Compatible | 10% | 1% |
@@ -130,24 +130,24 @@ IN VITRO COMPATIBILITY1 TESTS OF ACETYLCYSTEINE
 | Cephalothin Sodium | Compatible | 10% | 110 mg/mL |
 | Colistimethate Sodium2 (mix and use at once) | Compatible | 10% | 37.5 mg/mL |
 | Vancomycin HCl2 | Compatible | 10% | 25 mg/mL |
-| Amphotericin B | Incompatible | 4% - 15% | 1.0 - 4.0 mg/mL |
+| Amphotericin B | Incompatible | 4% - 15% | 1 - 4 mg/mL |
 | Chlortetracycline HCl2 | Incompatible | 10% | 12.5 mg/mL |
 | Erythromycin Lactobionate | Incompatible | 10% | 15 mg/mL |
 | Oxytetracycline HCl | Incompatible | 10% | 12.5 mg/mL |
 | Ampicillin Sodium | Incompatible | 10% | 50 mg/mL |
 | Tetracycline HCl | Incompatible | 10% | 12.5 mg/mL |
 | BRONCHODILATORS |  |  |  |
-| Isoproterenol HCl2 | Compatible | 3.0% | 0.5% |
+| Isoproterenol HCl2 | Compatible | 3% | 0.5% |
 | Isoproterenol HCl2 | Compatible | 10% | 0.05% |
 | Isoproterenol HCl2 | Compatible | 20% | 0.05% |
-| Isoproterenol HCl | Compatible | 13.3% (2 parts) | .33% (1 part) |
+| Isoproterenol HCl | Compatible | 13.3% (2 parts) | 0.33% (1 part) |
 | Isoetharine HCl | Compatible | 13.3% (2 parts) | (1 part) |
-| Epinephrine HCl | Compatible | 13.3% (2 parts) | .33% (1 part) |
+| Epinephrine HCl | Compatible | 13.3% (2 parts) | 0.33% (1 part) |
 | CONTRAST MEDIA |  |  |  |
 | Iodized Oil | Incompatible | 20%/20 mL | 40%/10 mL |
 | DECONGESTANTS |  |  |  |
-| Phenylephrine HCl2 | Compatible | 3.0% | .25% |
-| Phenylephrine HCl | Compatible | 13.3% (2 parts) | .17% (1 part) |
+| Phenylephrine HCl2 | Compatible | 3% | 0.25% |
+| Phenylephrine HCl | Compatible | 13.3% (2 parts) | 0.17% (1 part) |
 | ENZYMES |  |  |  |
 | Chymotrypsin | Incompatible | 5% | 400 γ/mL |
 | Trypsin | Incompatible | 5% | 400 γ/mL |
@@ -160,13 +160,13 @@ IN VITRO COMPATIBILITY1 TESTS OF ACETYLCYSTEINE
 | OTHER AGENTS |  |  |  |
 | Hydrogen Peroxide | Incompatible | (All ratios) |  |
 | Sodium Bicarbonate | Compatible | 20% (1 part) | 4.2% (1 part) |
-| 1. The rating, Incompatible, is based on the formulation of a precipitate, a change in clarity, immiscibility, or a rapid loss of potency of acetylcysteine or the active ingredient of the PRODUCT AND/OR AGENT in the admixture. |  |  |  |
+| 1. The rating, Incompatible, is based on the formation of a precipitate, a change in clarity, immiscibility, or a rapid loss of potency of acetylcysteine or the active ingredient of the PRODUCT AND/OR AGENT in the admixture. |  |  |  |
 | The rating, Compatible, means that there was no significant physical change in the admixture when compared with a control solution of the PRODUCT AND/OR AGENT, and that there was no predicted chemical incompatibility. All of the admixtures have been tested for short-term chemical compatibility by assaying for the concentration of acetylcysteine after mixing. |  |  |  |
 | 2. The active ingredient in the PRODUCT AND/OR AGENT was also assayed after mixing. Some of the admixtures developed minor physical changes which were considered to be insufficient to rate the admixture Incompatible. These are listed in footnotes 3, 4, and 5. |  |  |  |
 | 3. A strong odor developed after storage for 24 hours at room temperature. |  |  |  |
 | 4. The admixture was a slightly darker shade of yellow than a control solution of the PRODUCT AND/OR AGENT. |  |  |  |
 | 5. A light tan color developed after storage for 24 hours at room temperature. |  |  |  |
-| 6. Entries are final concentrations. Values in parentheses relate volumes of MUCOMYST solutions to volume of test solutions. |  |  |  |
+| 6. Entries are final concentrations. Values in parentheses relate volumes of acetylcysteine solutions to volume of test solutions. |  |  |  |
 
 # DOSAGE AND ADMINISTRATION
 

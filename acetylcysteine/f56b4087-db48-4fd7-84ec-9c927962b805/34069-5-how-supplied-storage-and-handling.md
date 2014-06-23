@@ -4,7 +4,8 @@ Acetylcysteine is available in rubber stoppered glass vials containing 4, 10, or
 The 20% solution may be diluted to a lesser concentration with either Sodium Chloride for Injection, Sodium Chloride for Inhalation, Sterile Water for Injection, or Sterile Water for Inhalation.
 The 10% solution may be used undiluted.
 
-Acetylcysteine is sterile, not for injection and can be used for inhalation (mucolytic agent) or oral administration (acetaminophen antidote).
+Acetylcysteine solution is sterile and can be used for inhalation (mucolytic agent) or oral administration (acetaminophen antidote).
+Acetylcysteine solution is not for parenteral injection.
 It is available as:
 
 Acetylcysteine 20% solution (200 mg acetylcysteine per mL).

@@ -1,4 +1,4 @@
-Sterile, Not For Injection
+Sterile Not For Injection
 
 # Acetylcysteine as a Mucolytic Agent
 
@@ -14,7 +14,7 @@ IF AN ASSAY FOR ACETAMINOPHEN CANNOT BE OBTAINED, IT IS NECESSARY TO ASSUME THAT
 INTERPRETATION OF ACETAMINOPHEN ASSAYS
 
 1. When results of the plasma acetaminophen assay are available refer to the nomogram below to determine if plasma concentration is in the potentially toxic range.
-   Values above the solid line connecting 200 μg/mL at least 4 hours with 50 μg/mL at 12 hours are associated with a possibility of hepatic toxicity if an antidote is not administered.
+   Values above the solid line connecting 200 mcg/mL at 4 hours with 50 mcg/mL at 12 hours are associated with a possibility of hepatic toxicity if an antidote is not administered.
    (Do not wait for assay results to begin acetylcysteine treatment.)
 2. If the predetoxification plasma level is above the broken line continue with maintenance doses of acetylcysteine.
    It is better to err on the safe side and thus the broken line is placed 25% below the solid line which defines possible toxicity.
@@ -77,7 +77,7 @@ Loading Dose of Acetylcysteine **
 | 40-49 | 88-108 | 3.5 | 18 | 52 | 70 |
 | 30-39 | 66-86 | 3 | 15 | 45 | 60 |
 | 20-29 | 44-64 | 2 | 10 | 30 | 40 |
-| **If patient weighs less than 20 kg (usually patients younger than 6 years), calculate the dose of acetylcysteine. Each mL of 20% acetylcysteine contains 200 mg of acetylcysteine. The loading dose is 140 mg per kilogram of body weight. The maintenance dose is 70 mg/kg. Three (3) mL of diluent are added to each mL of 20% acetylcysteine. Do not decrease the proportion of diluent. |  |  |  |  |  |
+| **If patient weighs less than 20 kg (usually patients younger than 6 years), calculate the dose of acetylcysteine. Each mL of 20% acetylcysteine solution contains 200 mg of acetylcysteine. The loading dose is 140 mg per kilogram of body weight. The maintenance dose is 70 mg/kg. Three (3) mL of diluent are added to each mL of 20% acetylcysteine solution. Do not decrease the proportion of diluent. |  |  |  |  |  |
 
 ## Estimating Potential for Hepatoxicity
 

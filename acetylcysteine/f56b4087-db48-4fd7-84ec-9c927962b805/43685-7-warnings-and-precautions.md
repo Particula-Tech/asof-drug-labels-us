@@ -1,7 +1,7 @@
 # WARNINGS
 
 After proper administration of acetylcysteine, an increased volume of liquified bronchial secretions may occur.
-When cough is inadequate, the airway must be maintained open by mechanical suction if necessary.
+When cough is inadequate, the open airway must be maintained open by mechanical suction if necessary.
 When there is a mechanical block due to foreign body or local accumulation, the airway should be cleared by endotracheal aspiration, with or without bronchoscopy.
 Asthmatics under treatment with acetylcysteine should be watched carefully.
 Most patients with bronchospasm are quickly relieved by the use of a bronchodilator given by nebulization.
@@ -11,11 +11,11 @@ If bronchospasm progresses, the medication should be discontinued immediately.
 
 ## General
 
-With the administration of acetylcysteine, the patient may observe initially a slight disagreeable odor that is soon not noticeable.
+With the administration of acetylcysteine, the patient may initially observe a slight disagreeable odor that is soon not noticeable.
 With a face mask there may be stickiness on the face after nebulization.
 This is easily removed by washing with water.
 
-Under certain conditions, a color change may occur in acetylcysteine in the opened bottle.
+Under certain conditions, a color change may occur in the opened bottle of acetylcysteine.
 The light purple color is the result of a chemical reaction which does not significantly affect the safety or mucolytic effectiveness of acetylcysteine.
 
 Continued nebulization of acetylcysteine solution with a dry gas will result in an increased concentration of the drug in the nebulizer because of evaporation of the solvent.
