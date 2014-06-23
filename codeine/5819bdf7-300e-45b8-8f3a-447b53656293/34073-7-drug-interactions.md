@@ -7,12 +7,12 @@ Use codeine sulfate with caution and in reduced dosages in patients taking these
 
 ## 7.2 Mixed Agonist/Antagonist Opioid Analgesics
 
-Mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, and butorphanol) should NOT be administered to patients who have received or are receiving a course of therapy with a pure opioid agonist analgesic such as codeine sulfate.
+Mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, and butorphanol) should NOT be administered to patients who have received or are receiving a course of therapy with a pure opioid agonist analgesic, such as codeine sulfate.
 In these patients, mixed agonist/antagonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
 
 ## 7.3 Anticholinergics
 
-Anticholinergics or other medications with anticholinergic activity when used concurrently with opioids analgesics including codeine sulfate, may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
+Anticholinergics or other medications with anticholinergic activity when used concurrently with opioid analgesics including codeine sulfate, may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
 
 ## 7.4 Antidepressants
 
@@ -23,9 +23,9 @@ Codeine should not be used in patients taking MAOIs or within 14 days of stoppin
 ## 7.5 Metabolic Enzymes
 
 Patients taking cytochrome P-450 enzyme inducers or inhibitors may demonstrate an altered response to codeine, therefore analgesic activity should be monitored.
-Codeine sulfate is metabolized by the cytochrome P-450 3A4 and 2D6 isoenzymes.
-[see Clinical Pharmacology (12)] The concurrent use of drugs that preferentially induce codeine N-demethylation (cytochrome P-450 3A4) may increase the plasma concentrations of codeine's inactive metabolite norcodeine.
-Drugs that are strong inhibitors of codeine O-demethylation (cytochrome P-450 2D6) may decrease the plasma concentrations of codeine's active metabolites, morphine and morphine-6-glucuronide.
+Codeine sulfate is metabolized by the cytochrome P-450 3A4 and 2D6 isoenzymes [see Clinical Pharmacology (12.3)].
+The concurrent use of drugs that preferentially induce codeine N-demethylation (cytochrome P-450 3A4) may increase the plasma concentrations of codeine’s inactive metabolite norcodeine.
+Drugs that are strong inhibitors of codeine O-demethylation (cytochrome P-450 2D6) may decrease the plasma concentrations of codeine’s active metabolites, morphine and morphine-6-glucuronide.
 The contribution of these active metabolites to the overall analgesic effect of codeine is not fully understood, but should be considered.
 
 ## 7.6 Drug-Laboratory Test Interaction

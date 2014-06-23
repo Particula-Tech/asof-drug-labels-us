@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis: Two year carcinogenicity studies have been conducted in F344/N rats and B6C3F1 mice.
 There was no evidence of carcinogenicity in male and female rats, respectively, at dietary doses up to 70 and 80 mg/kg/day of codeine (approximately 2 times the maximum recommended daily dose of 360 mg/day for adults on a mg/m2 basis) for two years.

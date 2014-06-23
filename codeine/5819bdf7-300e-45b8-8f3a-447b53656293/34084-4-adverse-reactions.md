@@ -1,12 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-Serious adverse reactions associated with codeine are respiratory depression and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest
+Serious adverse reactions associated with codeine are respiratory depression and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
 
-The most frequently observed adverse reactions with codeine administration include drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, sweating, and constipation
+The most frequently observed adverse reactions with codeine administration include drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, sweating, and constipation.
 
-Other adverse reactions include allergic reactions, euphoria, dysphoria, abdominal pain, and pruritis
+Other adverse reactions include allergic reactions, euphoria, dysphoria, abdominal pain, and pruritis.
 
-Other less frequently observed adverse reactions expected from opioid analgesics including codeine sulfate include:
+Other less frequently observed adverse reactions expected from opioid analgesics including codeine sulfate, include:
 
 Cardiovascular system: faintness, flushing, hypotension, palpitations, syncope
 

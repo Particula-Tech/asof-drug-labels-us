@@ -1,17 +1,17 @@
 # 10 OVERDOSAGE
 
-Symptoms
+## 10.1 Symptoms
 
 Acute overdose of codeine is characterized by respiratory depression (a decrease in respiratory rate and/or tidal volume, Cheyne-Stokes respiration, cyanosis), extreme somnolence progressing to stupor or coma, miosis (mydriasis may occur in terminal narcosis or severe hypoxia), skeletal muscle flaccidity, cold and clammy skin, and sometimes bradycardia and hypotension.
-In severe overdosage, apnea, circulatory collapse, cardiac arrest and death may occur.
+In severe overdosage, apnea, circulatory collapse, cardiac arrest, and death may occur.
 
 Codeine sulfate may cause miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
 
-Treatment
+## 10.2 Treatment
 
-Primary attention should be given to the re-establishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation as necessary.
+Primary attention should be given to the reestablishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation as necessary.
 Supportive measures (including oxygen and vasopressors) should be employed in the management of circulatory shock and pulmonary edema accompanying overdose as indicated.
 Cardiac arrest or arrhythmias may require cardiac massage or defibrillation.
 Induction of emesis is not recommended because of the potential for CNS depression and seizures.

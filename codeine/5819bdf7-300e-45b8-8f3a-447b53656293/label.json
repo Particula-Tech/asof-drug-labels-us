@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA203046"
+  ],
   "inn": "codeine",
   "labeler": "Lannett Company, Inc.",
   "package_ndcs": [
