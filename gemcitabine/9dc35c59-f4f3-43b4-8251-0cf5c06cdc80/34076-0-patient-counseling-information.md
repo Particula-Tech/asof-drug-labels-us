@@ -8,5 +8,3 @@
   Instruct patients to immediately contact their healthcare provider for changes in the color or volume of urine output or for increased bruising or bleeding [see Warnings and Precautions (5.4)].
 - Advise patients of the risks of hepatic toxicity including liver failure and death.
   Instruct patients to immediately contact their healthcare provider for signs of jaundice or for pain/tenderness in the right upper abdominal quadrant [see Warnings and Precautions (5.5)].
-- Advise patients of the risks of posterior reversible encephalopathy syndrome.
-  Instruct patients to immediately contact their healthcare provider for altered alertness and behavior, including drowsiness or stupor; seizures; vomiting; mental abnormalities, including confusion and diminished spontaneity and speech; and visual abnormalities [see Warnings and Precautions (5.9)].

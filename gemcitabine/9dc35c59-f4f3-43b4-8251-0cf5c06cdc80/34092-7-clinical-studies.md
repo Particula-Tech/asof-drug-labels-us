@@ -58,7 +58,7 @@ Table 12: Randomized Trial of Gemzar plus Carboplatin versus Carboplatin in Ovar
 | b Log rank, unadjusted. |  |  |
 | c Chi square. |  |  |
 | d CR=Complete response. |  |  |
-| e PRNM=Partial response plus partial response, non-measurable disease. |  |  |
+| e PR plus PRNM=Partial response plus partial response, non-measurable disease. |  |  |
 | f Independently reviewed cohort - Gemzar/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam. |  |  |
 
 ## 14.2 Breast Cancer

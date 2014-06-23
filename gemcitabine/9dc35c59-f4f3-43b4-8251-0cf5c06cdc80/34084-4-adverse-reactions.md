@@ -164,7 +164,7 @@ Table 7: Per-Patient Incidence of Selected Adverse Reactions in Randomized Trial
 | Hematuria | 22 | 0 | 0 | 10 | 0 | 0 |
 | BUN | 6 | 0 | 0 | 4 | 0 | 0 |
 | Creatinine | 2 | 0 | 0 | 2 | 0 | 0 |
-| Non-laboratoryf,g |  |  |  |  |  |  |
+| Non-laboratoryf |  |  |  |  |  |  |
 | Nausea and Vomiting | 96 | 35 | 4 | 86 | 19 | 7 |
 | Fever | 6 | 0 | 0 | 3 | 0 | 0 |
 | Rash | 10 | 0 | 0 | 3 | 0 | 0 |
@@ -176,16 +176,15 @@ Table 7: Per-Patient Incidence of Selected Adverse Reactions in Randomized Trial
 | Stomatitis | 20 | 4 | 0 | 18 | 2 | 0 |
 | Somnolence | 3 | 0 | 0 | 3 | 2 | 0 |
 | Paresthesias | 38 | 0 | 0 | 16 | 2 | 0 |
+| Flu-like syndromeg | 3 | - | - | 0 | - | - |
+| Edemag | 12 | - | - | 2 | - | - |
 | a Grade based on criteria from the World Health Organization (WHO). |  |  |  |  |  |  |
 | b N=67-69; all Gemzar plus cisplatin patients with laboratory or non-laboratory data. Gemzar at 1250 mg/m2 on Days 1 and 8 and cisplatin at 100 mg/m2 on Day 1 every 21 days. |  |  |  |  |  |  |
 | c N=57-63; all cisplatin plus etoposide patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 and intravenous etoposide at 100 mg/m2 on Days 1, 2, and 3 every 21 days. |  |  |  |  |  |  |
 | d Regardless of causality. |  |  |  |  |  |  |
 | e WHO grading scale not applicable to proportion of patients with transfusions. |  |  |  |  |  |  |
-| f Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |
-| g Pain data were not collected. |  |  |  |  |  |  |
-
-- Flu-like syndrome: 3% in the Gemzar/cisplatin arm versus none in the etoposide/cisplatin arm.
-- Edema: 12% in the Gemzar/cisplatin arm versus 2% in the etoposide/cisplatin arm.
+| f Non-laboratory events were graded only if assessed to be possibly drug-related. Pain data were not collected. |  |  |  |  |  |  |
+| g Flu-like syndrome and edema were not graded. |  |  |  |  |  |  |
 
 Breast Cancer
 
@@ -219,11 +218,12 @@ Table 8: Per-Patient Incidence of Selected Adverse Reactions from Comparative Tr
 | Stomatitis/pharyngitis | 13 | 1 | <1 | 8 | <1 | 0 |
 | Fever | 13 | <1 | 0 | 3 | 0 | 0 |
 | Rash/desquamation | 11 | <1 | <1 | 5 | 0 | 0 |
+| Febrile neutropenia | 6 | 5 | <1 | 2 | 1 | 0 |
 | a Severity grade based on National Cancer Institute Common Toxicity Criteria (CTC) Version 2.0. |  |  |  |  |  |  |
 | b Regardless of causality. |  |  |  |  |  |  |
 | c Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |
 
-The following clinically relevant, Grade 3 or 4 adverse reactions occurred with a higher incidence in the Gemzar plus paclitaxel arm compared with the paclitaxel arm: febrile neutropenia (5.0% versus 1.2%) and dyspnea (1.9% versus 0).
+Clinically relevant Grade 3 or 4 dyspnea occurred with a higher incidence in the Gemzar plus paclitaxel arm compared with the paclitaxel arm (1.9% versus 0).
 
 Ovarian Cancer
 
