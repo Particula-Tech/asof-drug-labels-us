@@ -7,7 +7,7 @@ Amitriptyline is metabolized by N-demethylation and bridge hydroxylation in man,
 Virtually the entire dose is excreted as glucuronide or sulfate conjugate of metabolites, with little unchanged drug appearing in the urine.
 Other metabolic pathways may be involved.
 
-01-2010M
+05-2014M
 
 7339
 
