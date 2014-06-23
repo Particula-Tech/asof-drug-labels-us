@@ -8,3 +8,6 @@ DEPO-Testosterone Injection is available as follows:
 
 Vials should be stored at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].
 Protect from light.
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com

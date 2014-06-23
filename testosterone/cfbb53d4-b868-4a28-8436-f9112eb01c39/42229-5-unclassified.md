@@ -1,5 +1,5 @@
 Rx only
 
-LAB-0245-2.0
+LAB-0245-3.0
 
-September 2006
+October 2013

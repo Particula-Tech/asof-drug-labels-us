@@ -11,8 +11,10 @@ Edema, with or without congestive heart failure, may be a serious complication i
 
 Gynecomastia may develop and occasionally persists in patients being treated for hypogonadism.
 
-This product contains benzyl alcohol.
-Benzyl alcohol has been reported to be associated with a fatal "Gasping Syndrome" in premature infants.
+The preservative benzyl alcohol has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
+Although normal therapeutic doses of this product ordinarily deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
+Premature and low-birth weight infants may be more likely to develop toxicity.
 
 Androgen therapy should be used cautiously in healthy males with delayed puberty.
 The effect on bone maturation should be monitored by assessing bone age of the wrist and hand every 6 months.
@@ -81,6 +83,9 @@ Geriatric patients treated with androgens may be at an increased risk of develop
 ### Teratogenic Effects
 
 Pregnancy Category X. (See CONTRAINDICATIONS.)
+
+Benzyl alcohol can cross the placenta.
+See WARNINGS.
 
 ## Nursing mothers
 
