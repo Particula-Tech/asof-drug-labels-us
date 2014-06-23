@@ -55,10 +55,14 @@ Keep a list of them to show your doctor and pharmacist when you get a new medici
 How should I take KALYDECO?
 
 - Take KALYDECO exactly as your doctor tells you to take it.
-- Always take KALYDECO with fat-containing food.
+- Always take KALYDECO with food that contains fat.
   Examples of fat-containing foods include eggs, butter, peanut butter, cheese pizza, etc.
-
-Your doses of KALYDECO should be taken 12 hours apart.
+- Your doses of KALYDECO should be taken 12 hours apart.
+- Each KALYDECO box contains 4 individual blister cards.
+- Each blister card contains 14 pills—7 morning doses and 7 evening doses.
+- In the morning, unpeel the paper backing from a blister card to remove 1 KALYDECO pill and take it with food that contains fat.
+- In the evening, 12 hours later, open another blister card to remove 1 KALYDECO pill and take it with food that contains fat.
+- You may cut along the dotted line to separate your doses from the blister card.
 
 What should I avoid while taking KALYDECO?
 
@@ -140,7 +144,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Vertex Pharmaceuticals Incorporated 50 Northern Avenue Boston, MA 02210
 
-Approved February 2014
+Approved June 2014
 
 KALYDECO, VERTEX, and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2014 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-03
+All other trademarks referenced herein are the property of their respective owners. ©2014 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-04

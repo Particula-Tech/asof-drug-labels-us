@@ -25,6 +25,6 @@ No dose adjustment is recommended for patients with mild hepatic impairment (Chi
 
 ## 17.4 Take with Fat-Containing Food
 
-Inform your patients that KALYDECO is best absorbed by the body when taken with fat-containing food.
+Inform your patients that KALYDECO is best absorbed by the body when taken with food that contains fat.
 A typical CF diet will satisfy this requirement.
 Examples include eggs, butter, peanut butter, cheese pizza, etc.
