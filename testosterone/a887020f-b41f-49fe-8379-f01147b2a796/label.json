@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA204399"
+  ],
+  "inn": "testosterone",
+  "labeler": "Upsher-Smith Laboratories, Inc.",
+  "package_ndcs": [
+    "0832-1120-05",
+    "0832-1120-35",
+    "0832-1120-65",
+    "0832-1120-89",
+    "0832-1121-40",
+    "0832-1121-42"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "testosterone",
+      "name": "Testosterone"
+    },
+    {
+      "form": "GEL, METERED",
+      "generic": "testosterone",
+      "name": "Testosterone"
+    }
+  ],
+  "setid": "a887020f-b41f-49fe-8379-f01147b2a796",
+  "source": "dailymed"
+}
