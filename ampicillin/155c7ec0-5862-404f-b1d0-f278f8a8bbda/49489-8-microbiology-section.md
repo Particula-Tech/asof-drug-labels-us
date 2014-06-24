@@ -38,15 +38,19 @@ Broth, agar, microdilution or equivalent methods may be used to determine the mi
 The recommended dilution method employs a constant ampicillin/sulbactam ratio of 2:1 in all tubes with increasing concentrations of ampicillin.
 MIC's are reported in terms of ampicillin concentration in the presence of sulbactam at a constant 2 parts ampicillin to 1 part sulbactam.
 
-TABLE 2 Recommended Ampicillin/Sulbactam, Disk Diffusion Susceptibility RangesThe non-beta-lactamase producing organisms which are normally susceptible to ampicillin, such as Streptococci, will have similar zone sizes as for ampicillin disks.,Staphylococci resistant to methicillin, oxacillin, or nafcillin must be considered resistant to UNASYN.,The quality control cultures should have the following assigned daily ranges for ampicillin/sulbactam(see TABLE 3): TABLE 3Disk Diffusion (Zone diameter in mm)MIC (mcg/mL ampicillin/ mcg/mL sulbactam)E. coli(ATCC 25922)20–252/1–8/4S. aureus(ATCC 25923)29–37Not applicableE. coli(ATCC 35218)13–198/4–32/16H. influenza(ATCC 49247)14–222/1–8/4 (Zone diameter in mm)
+TABLE 2 Recommended Ampicillin/Sulbactam, Disk Diffusion and MIC Susceptibility RangesThe non-beta-lactamase producing organisms which are normally susceptible to ampicillin, such as Streptococci, will have similar zone sizes as for ampicillin disks.,Staphylococci resistant to methicillin, oxacillin, or nafcillin must be considered resistant to UNASYN.,The quality control cultures should have the following assigned daily ranges for ampicillin/sulbactam(see TABLE 3): (Zone diameter in mm)
 
-|  | Resistant | Intermediate | Susceptible |
+|  | Resistant | Intermediate | Susceptible | Resistant | Intermediate | Susceptible |
+| --- | --- | --- | --- | --- | --- | --- |
+| Organisms | Inhibition zone diameter (mm) |  |  | MIC (mcg/mL of ampicillin) |  |  |
+| Enterobacteriaceae, Acinetobacter calcoaceticus, Staphylococcus spp. | ≤11 | 12–14 | ≥15 | ≥32 | 16 | ≤8 |
+| Haemophilus influenzae | ≤19 | -- | ≥20 | ≥4 | -- | ≤2 |
+
+TABLE 3 Quality control ranges for ampicillin/sulbactam disk diffusion and MIC determinations
+
+|  |  | Disk Diffusion (Zone diameter in mm) | MIC (mcg/mL ampicillin/ mcg/mL sulbactam) |
 | --- | --- | --- | --- |
-| Gram(-) and Staphylococcus |  |  |  |
-| Bauer/Kirby | ≤11 | 12–13 | ≥14 |
-| Zone Sizes |  |  |  |
-| MIC (mcg of ampicillin/mL) | ≥32 | 16 | ≤ 8 |
-| Hemophilus influenzae |  |  |  |
-| Bauer/Kirby | ≤19 | — | ≥20 |
-| Zone Sizes |  |  |  |
-| MIC (mcg of ampicillin/mL) | ≥ 4 | — | ≤ 2 |
+| E. coli | (ATCC 25922) | 19–24 | 2/1–8/4 |
+| S. aureus | (ATCC 25923) | 29–37 | Not applicable |
+| E. coli | (ATCC 35218) | 13–19 | 8/4–32/16 |
+| H. influenza | (ATCC 49247) | 14–22 | 2/1–8/4 |

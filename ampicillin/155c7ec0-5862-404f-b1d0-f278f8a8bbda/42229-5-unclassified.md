@@ -23,7 +23,7 @@ TABLE 6
 | Diluent | Maximum Concentration (mg/mL) UNASYN (Ampicillin/Sulbactam) | Use Periods |
 | --- | --- | --- |
 | Sterile Water for Injection | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs at 25°C 48 hrs at 4°C 72 hrs at 4°C |
-| 0.9% Sodium Chloride Injection, (USP) | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs at 25°C 48 hrs at 4°C 72 hrs at 4°C |
+| 0.9% Sodium Chloride Injection | 45 (30/15) 45 (30/15) 30 (20/10) | 8 hrs at 25°C 48 hrs at 4°C 72 hrs at 4°C |
 | 5% Dextrose Injection | 30 (20/10) 30 (20/10) 3 (2/1) | 2 hrs at 25°C 4 hrs at 4°C 4 hrs at 25°C |
 | Lactated Ringer's Injection | 45 (30/15) 45 (30/15) | 8 hrs at 25°C 24 hrs at 4°C |
 | M/6 Sodium Lactate Injection | 45 (30/15) 45 (30/15) | 8 hrs at 25°C 8 hrs at 4°C |
@@ -115,6 +115,8 @@ Note: Once vial is sealed, do not attempt to remove.
 4. Mix container contents thoroughly and use within the specified time.
    Figure 5 Figure 6
 
-LAB-0017-7.0
+To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1 800 FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
 
-December 2013
+LAB-0017-8.0
+
+May 2014

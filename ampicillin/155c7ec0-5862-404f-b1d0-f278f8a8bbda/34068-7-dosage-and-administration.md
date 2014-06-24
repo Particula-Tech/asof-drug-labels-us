@@ -30,9 +30,9 @@ TABLE 5 UNASYN Dosage Guide for Patients with Renal Impairment
 
 | Creatinine Clearance (mL/min/1.73m2) | Ampicillin/Sulbactam Half-Life (Hours) | Recommended UNASYN Dosage |
 | --- | --- | --- |
-| ≥30 | 1 | 1.5–3.0 g q 6h-q 8h |
-| 15–29 | 5 | 1.5–3.0 g q 12h |
-| 5–14 | 9 | 1.5–3.0 g q 24h |
+| ≥30 | 1 | 1.5–3 g q 6h-q 8h |
+| 15–29 | 5 | 1.5–3 g q 12h |
+| 5–14 | 9 | 1.5–3 g q 24h |
 
 When only serum creatinine is available, the following formula (based on sex, weight, and age of the patient) may be used to convert this value into creatinine clearance.
 The serum creatinine should represent a steady state of renal function.

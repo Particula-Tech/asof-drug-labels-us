@@ -19,7 +19,7 @@ Phlebitis – 1.2%
 
 The most frequently reported adverse reactions were diarrhea in 3% of the patients and rash in less than 2% of the patients.
 
-Additional systemic reactions reported in less than 1% of the patients were: itching, nausea, vomiting, candidiasis, fatigue, malaise, headache, chest pain, flatulence, abdominal distension, glossitis, urine retention, dysuria, edema, facial swelling, erythema, chills, tightness in throat, substernal pain, epistaxis and mucosal bleeding
+Additional systemic reactions reported in less than 1% of the patients were: itching, nausea, vomiting, candidiasis, fatigue, malaise, headache, chest pain, flatulence, abdominal distension, glossitis, urine retention, dysuria, edema, facial swelling, erythema, chills, tightness in throat, substernal pain, epistaxis and mucosal bleeding.
 
 ## Pediatric Patients
 
