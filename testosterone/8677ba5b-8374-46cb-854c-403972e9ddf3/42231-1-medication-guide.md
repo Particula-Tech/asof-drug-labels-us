@@ -169,8 +169,9 @@ ANDROGEL 1.62% can cause serious side effects including:
 - Swelling of your ankles, feet, or body, with or without heart failure.
 - Enlarged or painful breasts.
 - Have problems breathing while you sleep (sleep apnea).
-- Blood clots in the legs.
-  This can include pain, swelling, or redness of your legs.
+- Blood clots in the legs or lungs.
+  Signs and symptoms of a blood clot in your leg can include leg pain, swelling, or redness.
+  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
 
 Call your healthcare provider right away if you have any of the serious side effects listed above.
 
@@ -226,6 +227,6 @@ Marketed by:
 
 AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2013 AbbVie Inc.
+© 2014 AbbVie Inc.
 
-A090630054574 May, 2013
+A090630057538-Revised June, 2014
