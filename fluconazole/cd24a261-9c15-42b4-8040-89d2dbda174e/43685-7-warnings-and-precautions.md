@@ -2,20 +2,20 @@
 
 1. Hepatic injury: Fluconazole should be administered with caution to patients with liver dysfunction.
    Fluconazole has been associated with rare cases of serious hepatic toxicity, including fatalities primarily in patients with serious underlying medical conditions.
-   In cases of fluconazole-associated hepatotoxicity, no obvious relationship to total daily dose, duration of therapy, sex or age of the patient has been observed.
+   In cases of fluconazole-associated hepatotoxicity, no obvious relationship to total daily dose, duration of therapy, sex, or age of the patient has been observed.
    Fluconazole hepatotoxicity has usually, but not always, been reversible on discontinuation of therapy.
    Patients who develop abnormal liver function tests during Fluconazole Injection, USP therapy should be monitored for the development of more severe hepatic injury.
    Fluconazole Injection, USP should be discontinued if clinical signs and symptoms consistent with liver disease develop that may be attributable to fluconazole.
 2. Anaphylaxis: In rare cases, anaphylaxis has been reported.
-3. Dermatologic: Patients have rarely developed exfoliative skin disorders during treatment with fluconazole.
-   In patients with serious underlying diseases (predominantly AIDS and malignancy), these have rarely resulted in a fatal outcome.
-   Patients who develop rashes during treatment with Fluconazole Injection, USP should be monitored closely and the drug discontinued if lesions progress.
+3. Dermatologic: Exfoliative skin disorders during treatment with fluconazole have been reported.
+   Fatal outcomes have been reported in patients with serious underlying diseases.
+   Patients with deep seated fungal infections who develop rashes during treatment with Fluconazole Injection, USP should be monitored closely and the drug discontinued if lesions progress.
+   Fluconazole should be discontinued in patients treated for superficial fungal infection who develop a rash that may be attributed to fluconazole.
 4. Use in Pregnancy: There are no adequate and well-controlled studies of fluconazole in pregnant women.
    Available human data do not suggest an increased risk of congenital anomalies following a single maternal dose of 150 mg.
    A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400-800 mg/day) during most or all of the first trimester.
    These reported anomalies are similar to those seen in animal studies.
-   If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
-   (See PRECAUTIONS, Pregnancy.)
+   If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus (See PRECAUTIONS, Pregnancy.)
 
 # PRECAUTIONS
 
@@ -23,7 +23,7 @@
 
 Some azoles, including fluconazole, have been associated with prolongation of the QT interval on the electrocardiogram.
 During post-marketing surveillance, there have been rare cases of QT prolongation and torsade de pointes in patients taking fluconazole.
-Most of these reports involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities and concomitant medications that may have been contributory.
+Most of these reports involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities, and concomitant medications that may have been contributory.
 
 Fluconazole Injection, USP should be administered with caution to patients with these potentially proarrhythmic conditions.
 
@@ -45,7 +45,7 @@ The enzyme inhibiting effect of fluconazole persists 4-5 days after discontinuat
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed.
 These are described in greater detail below:
 
-Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Theophylline Terfenadine Cisapride Astemizole Rifabutin Voriconazole Tacrolimus Short-acting benzodiazepines Triazolam Oral Contraceptives Pimozide Hydrochlorothiazide Alfentanil Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine
+Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Theophylline Terfenadine Cisapride Astemizole Rifabutin Voriconazole Tacrolimus Short-acting benzodiazepines Tofacitinib Triazolam Oral Contraceptives Pimozide Quinidine Hydrochlorothiazide Alfentanil Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine
 
 Oral hypoglycemics Clinically significant hypoglycemia may be precipitated by the use of fluconazole with oral hypoglycemic agents; one fatality has been reported from hypoglycemia in association with combined fluconazole and glyburide use.
 Fluconazole reduces the metabolism of tolbutamide, glyburide, and glipizide and increases the plasma concentration of these agents.
@@ -62,9 +62,10 @@ Phenytoin Fluconazole increases the plasma concentrations of phenytoin.
 Careful monitoring of phenytoin concentrations in patients receiving fluconazole and phenytoin is recommended.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
-Cyclosporine Fluconazole may significantly increase cyclosporine levels in renal transplant patients with or without renal impairment.
+Cyclosporine Fluconazole significantly increases cyclosporine levels in renal transplant patients with or without renal impairment.
 Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving fluconazole and cyclosporine.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+This combination may be used by reducing the dosage of cyclosporine depending on cyclosporine concentration.
 
 Rifampin Rifampin enhances the metabolism of concurrently administered fluconazole.
 Depending on clinical circumstances, consideration should be given to increasing the dose of fluconazole when it is administered with rifampin.
@@ -110,7 +111,11 @@ This effect on midazolam appears to be more pronounced following oral administra
 If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
-Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20-32% and increases t½ by 25-50% due to inhibition of metabolism of triazolam.
+Tofacitinib Systemic exposure to tofacitinib is increased when tofacitinib is coadministered with fluconazole, a combined moderate CYP3A4 and potent CYP2C19 inhibitor.
+Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label).
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
+Triazolam Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20-32% and increases t½ by 25-50% due to inhibition of metabolism of triazolam.
 Dosage adjustments of triazolam may be necessary.
 
 Oral Contraceptives Two pharmacokinetic studies with a combined oral contraceptive have been performed using multiple doses of fluconazole.
@@ -120,6 +125,11 @@ Thus, multiple dose use of fluconazole at these doses is unlikely to have an eff
 Pimozide Although not studied in vitro or in vivo, concomitant administration of fluconazole with pimozide may result in inhibition of pimozide metabolism.
 Increased pimozide plasma concentrations can lead to QT prolongation and rare occurrences of torsade de pointes.
 Coadministration of fluconazole and pimozide is contraindicated.
+
+Quinidine Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
+Use of quinidine has been associated with QT prolongation and rare occurrences of torsades de pointes.
+Coadministration of fluconazole and quinidine is contraindicated.
+(See CONTRAINDICATIONS.)
 
 Hydrochlorothiazide In a pharmacokinetic interaction study, coadministration of multiple dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
 An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
@@ -132,7 +142,7 @@ Amitriptyline, nortriptyline Fluconazole increases the effect of amitriptyline a
 5-nortriptyline and/or S-amitriptyline may be measured at initiation of the combination therapy and after one week.
 Dosage of amitriptyline/nortriptyline should be adjusted, if necessary.
 
-Amphotericin B Concurrent administration of fluconazole and amphotericin B in infected normal and immunosuppressed mice showed the following results: a small additive antifungal effect in systemic infection with C. albicans, no interaction in intracranial infection with Cryptococcus neoformans, and antagonism of the two drugs in systemic infection with A.fumigatus.
+Amphotericin B Concurrent administration of fluconazole and amphotericin B in infected normal and immunosuppressed mice showed the following results: a small additive antifungal effect in systemic infection with C. albicans, no interaction in intracranial infection with Cryptococcus neoformans, and antagonism of the two drugs in systemic infection with A. fumigatus.
 The clinical significance of results obtained in these studies is unknown.
 
 Azithromycin An open-label, randomized, three-way crossover study in 18 healthy subjects assessed the effect of a single 1200 mg oral dose of azithromycin on the pharmacokinetics of a single 800 mg oral dose of fluconazole as well as the effects of fluconazole on the pharmacokinetics of azithromycin.
@@ -239,7 +249,7 @@ Maternal weight gain was impaired at all dose levels (approximately 0.25 to 4 ti
 In several studies in which pregnant rats received fluconazole orally during organogenesis, maternal weight gain was impaired and placental weights were increased at 25 mg/kg.
 There were no fetal effects at 5 or 10 mg/kg; increases in fetal anatomical variants (supernumerary ribs, renal pelvis dilation) and delays in ossification were observed at 25 and 50 mg/kg and higher doses.
 At doses ranging from 80 to 320 mg/kg (approximately 2 to 8 times the 400 mg clinical dose based on BSA), embryolethality in rats was increased and fetal abnormalities included wavy ribs, cleft palate and abnormal cranio-facial ossification.
-These effects are consistent with the inhibition of estrogen synthesis in rats and may be a result of known effects of lowered estrogen on pregnancy, organogenesis and parturition.
+These effects are consistent with the inhibition of estrogen synthesis in rats and may be a result of known effects of lowered estrogen on pregnancy, organogenesis, and parturition.
 
 ## Nursing Mothers
 

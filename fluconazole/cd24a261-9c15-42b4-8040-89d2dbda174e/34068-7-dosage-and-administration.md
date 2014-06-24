@@ -50,8 +50,8 @@ Oropharyngeal candidiasis The recommended dosage of Fluconazole Injection, USP f
 Treatment should be administered for at least 2 weeks to decrease the likelihood of relapse.
 
 Esophageal candidiasis For the treatment of esophageal candidiasis, the recommended dosage of Fluconazole Injection, USP in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
-Doses up to 12 mg/kg/day may be used based on medical judgment of the patient’s response to therapy.
-Patients with esophageal candidiasis should be treated for a minimum of 3 weeks and for at least 2 weeks following the resolution of symptoms.
+Doses up to 12 mg/kg/day may be used, based on medical judgment of the patient’s response to therapy.
+Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least two weeks following the resolution of symptoms.
 
 Systemic Candida infections For the treatment of candidemia and disseminated Candida infections, daily doses of 6-12 mg/kg/day have been used in an open, noncomparative study of a small number of children.
 
@@ -77,7 +77,7 @@ Further adjustment may be needed depending upon clinical condition.
 
 When serum creatinine is the only measure of renal function available, the following formula (based on sex, weight, and age of the patient) should be used to estimate the creatinine clearance in adults:
 
-| Males: | Weight (kg) x (140 ­ age) |
+| Males: | Weight (kg) x (140 - age) |
 | --- | --- |
 | 72 x serum creatinine (mg/100 mL) |  |
 | Females: | 0.85 x above value |
@@ -102,30 +102,3 @@ Fluconazole Injection, USP in INTRAVIA plastic containers is intended only for i
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
 Do not use if the solution is cloudy or precipitated or if the seal is not intact.
-
-## Directions for IV Use of Fluconazole Injection, USP in INTRAVIA Plastic Containers
-
-Do not remove unit from overwrap until ready for use.
-The overwrap is a moisture barrier.
-The inner bag maintains the sterility of the product.
-
-CAUTION: Do not use plastic containers in series connections.
-Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
-
-### To Open
-
-Tear overwrap down side at slit and remove solution container.
-Some opacity of the plastic due to moisture absorption during the sterilization process may be observed.
-This is normal and does not affect the solution quality or safety.
-The opacity will diminish gradually.
-After removing overwrap, check for minute leaks by squeezing inner bag firmly.
-If leaks are found, discard solution as sterility may be impaired.
-
-DO NOT ADD SUPPLEMENTARY MEDICATION.
-
-### Preparation for Administration:
-
-1. Suspend container from eyelet support.
-2. Remove plastic protector from outlet port at bottom of container.
-3. Attach administration set.
-   Refer to complete directions accompanying set.

@@ -28,9 +28,9 @@ The overall rate of serum transaminase elevations of more than 8 times the upper
 These elevations occurred in patients with severe underlying disease, predominantly AIDS or malignancies, most of whom were receiving multiple concomitant medications, including many known to be hepatotoxic.
 The incidence of abnormally elevated serum transaminases was greater in patients taking fluconazole concomitantly with one or more of the following medications: rifampin, phenytoin, isoniazid, valproic acid, or oral sulfonylurea hypoglycemic agents.
 
-Post-Marketing Experience
+## Post-Marketing Experience
 
-In addition, the following adverse events have occurred during postmarketing experience.
+In addition, the following adverse events have occurred during post-marketing experience.
 
 Immunologic: In rare cases, anaphylaxis (including angioedema, face edema and pruritus) has been reported.
 
@@ -60,7 +60,7 @@ Skin and Appendages: Acute generalized exanthematous-pustulosis, drug eruption, 
 The pattern and incidence of adverse events and laboratory abnormalities recorded during pediatric clinical trials are comparable to those seen in adults.
 
 In Phase II/III clinical trials conducted in the United States and in Europe, 577 pediatric patients, ages 1 day to 17 years were treated with fluconazole at doses up to 15 mg/kg/day for up to 1,616 days.
-Thirteen percent of children experienced treatment related adverse events.
+Thirteen percent of children experienced treatment-related adverse events.
 The most commonly reported events were vomiting (5%), abdominal pain (3%), nausea (2%), and diarrhea (2%).
 Treatment was discontinued in 2.3% of patients due to adverse clinical events and in 1.4% of patients due to laboratory test abnormalities.
 The majority of treatment-related laboratory abnormalities were elevations of transaminases or alkaline phosphatase.

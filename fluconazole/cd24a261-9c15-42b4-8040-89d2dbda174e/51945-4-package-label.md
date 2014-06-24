@@ -48,11 +48,7 @@ USE ONLY IF SOLUTION IS CLEAR
 
 RX ONLY
 
-Baxter
-
-Baxter Healthcare Corporation
-
-Deerfield IL 60015 USA
+Baxter Baxter Healthcare Corporation Deerfield IL 60015 USA
 
 MADE IN USA
 
@@ -84,5 +80,88 @@ Avoid excessive heat.
 (01) 50303386045371
 
 07-06-64-254
+
+Baxter
+
+LOT
+
+EXP
+
+100 mL
+
+2J1446
+
+NDC 0338-6046-48
+
+Fluconazole Injection, USP
+
+200 mg / 100 mL (2mg/mL)*
+
+ISO-OSMOTIC SODIUM CHLORIDE DILUENT
+
+SINGLE-DOSE
+
+INTRAVIA CONTAINER
+
+STERILE
+
+NONPYROGENIC
+
+*EACH 100 mL CONTAINS 200 mg OF FLUCONAZOLE USP AND
+
+900 mg of Sodium Chloride USP in Water for
+
+Injection USP Osmolarity 315 mOsmol/L (calc)
+
+pH 5.5 (4.0 to 6.5) No preservative is added
+
+USUAL Dosage Intravenously as directed by a
+
+physician See package insert
+
+Cautions Check for minute leaks by squeezing
+
+container firmly If leaks are found discard container
+
+as sterility may be impaired Do not add supplementary
+
+medication Must not be used in series connections
+
+Use only if solution is clear
+
+RX ONLY
+
+BAXTER AND INTRAVIA ARE TRADEMARKS OF BAXTER INTERNATIONAL INC
+
+Baxter Baxter Healthcare Corporation Deerfield IL 60015 USA
+
+MADE IN USA
+
+Lot
+
+Exp
+
+10 x 100 mL Single Dose INTRAVIA Containers
+
+100 mL
+
+Code 2J1446
+
+NDC 0338-6046-48
+
+Fluconazole Injection, USP
+
+200 mg/100 mL
+
+ISO-OSMOTIC SODIUM CHLORIDE DILUENT
+
+Recommended storage: Store between 77°F (25°C) and 41°F (5°C).
+Brief exposure up to 104°F (40°C) does not adversely affect the product.
+Protect from freezing.
+Avoid excessive heat.
+
+(01) 50303386046484
+
+07-06-64-253
 
 Baxter
