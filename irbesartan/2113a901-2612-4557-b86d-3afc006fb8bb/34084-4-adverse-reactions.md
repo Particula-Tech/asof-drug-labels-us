@@ -22,8 +22,8 @@ Impaired renal function, including cases of renal failure, has been reported.
 Cases of increased CPK and rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 Laboratory Test Findings Hypertension In controlled clinical trials, clinically important differences in laboratory tests were rarely associated with administration of irbesartan.
 Creatinine, Blood Urea Nitrogen: Minor increases in blood urea nitrogen (BUN) or serum creatinine were observed in less than 0.7% of patients with essential hypertension treated with irbesartan alone versus 0.9% on placebo.
-(See PRECAUTIONS: Impaired Renal Function .)
+(See PRECAUTIONS: Impaired Renal Function.)
 Hematologic: Mean decreases in hemoglobin of 0.2 g/dL were observed in 0.2% of patients receiving irbesartan compared to 0.3% of placebo-treated patients.
-Neutropenia (<1000 cells/mm 3 occurred at similar frequencies among patients receiving irbesartan (0.3%) and placebo-treated patients (0.5%).
+Neutropenia (<1000 cells/mm3 occurred at similar frequencies among patients receiving irbesartan (0.3%) and placebo-treated patients (0.5%).
 Nephropathy in Type 2 Diabetic Patients Hyperkalemia: In IDNT (proteinuria ≥900 mg/day, and serum creatinine ranging from 1 to 3 mg/dL), the percent of patients with hyperkalemia (>6 mEq/L) was 18.6% in the irbesartan group versus 6% in the placebo group.
 Discontinuations due to hyperkalemia in the irbesartan group were 2.1% versus 0.4% in the placebo group.
