@@ -1,35 +1,40 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (17.4).
+Advise the patient to read the FDA-approved patient labeling (Patient Information)
 
-## 17.1 Bone Marrow Suppression
+- •Bone Marrow Suppression
 
-Patients should be informed that HYCAMTIN decreases blood cell counts such as white blood cells, platelets, and red blood cells.
-Patients who develop fever or other signs of infection such as chills, cough, or burning pain on urination while on therapy should notify their physician promptly.
-Patients should be told that frequent blood tests will be performed while taking HYCAMTIN to monitor for the occurrence of bone marrow suppression.
+Inform patients that HYCAMTIN decreases blood cell counts such as white blood cells, platelets, and red blood cells.
+Instruct patients to notify their healthcare provider promptly for fever or other signs of infection such as chills, cough, or burning pain on urination.
+Advise patients that frequent blood tests will be performed while taking HYCAMTIN to monitor for bone marrow suppression [see Warnings and Precautions (5.1)].
 
-## 17.2 Pregnancy
+- •Embryofetal Toxicity
 
-Patients should be advised to use effective contraceptive measures to prevent pregnancy and to avoid breastfeeding during treatment with HYCAMTIN.
+Advise patients on pregnancy planning and prevention.
+Advise females of reproductive potential to use highly effective contraception during treatment and for 1 month following treatment with HYCAMTIN [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.7)].
 
-## 17.3 Diarrhea
+Advise males with a female sexual partner of reproductive potential to use effective contraception during and for 3 months after treatment [see Nonclinical Toxicology (13.1)].
 
-Patients should be informed that HYCAMTIN capsules cause diarrhea which may be severe in some cases.
-Patients should be told how to manage and/or prevent diarrhea and to inform their physician if severe diarrhea occurs during treatment with HYCAMTIN capsules.
+- •Nursing Mothers
 
-## 17.4 FDA-Approved Patient Labeling
+Advise patients to discontinue nursing during treatment with HYCAMTIN [see Use in Specific Populations 8.1, 8.7)].
 
-See separate leaflet.
+- •Infertility
 
-HYCAMTIN is a registered trademark of GlaxoSmithKline.
+Advise male and female patients of the potential risk for impaired fertility and possible family planning options.
+
+- •Diarrhea
+
+Inform patients that HYCAMTIN capsules cause diarrhea which may be severe and life-threatening.
+Instruct patients how to manage and/or prevent diarrhea and to inform their physician if severe diarrhea occurs during treatment with HYCAMTIN capsules [see Warnings and Precautions (5.2)].
+
+HYCAMTIN is a registered trademark of the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-October 2011
-
-HYC:5PI
+HYC:6PI

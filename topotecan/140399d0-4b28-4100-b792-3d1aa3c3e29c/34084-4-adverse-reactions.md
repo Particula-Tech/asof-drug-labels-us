@@ -1,22 +1,30 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described below and elsewhere in the labeling:
+
+- •Bone Marrow Suppression [see Warnings and Precautions (5.1)]
+- •Diarrhea [see Warnings and Precautions (5.2)]
+- •Interstitial Lung Disease [see Warnings and Precautions (5.3)]
+
 ## 6.1 Clinical Trials Experience
 
-The safety of HYCAMTIN capsules has been evaluated in 682 patients with thoracic cancer (3 recurrent small cell lung cancer [SCLC] studies and 1 recurrent non-small cell lung cancer [NSCLC] study) who received at least one dose of HYCAMTIN capsules.
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Table 1 describes the hematologic and non-hematologic adverse reactions in recurrent SCLC patients treated with HYCAMTIN capsules plus best supportive care (BSC) and in the overall thoracic cancer patient population.
+The safety of HYCAMTIN capsules was evaluated in 682 patients with lung cancer (3 recurrent small cell lung cancer [SCLC] trials and 1 recurrent non-small cell lung cancer [NSCLC] trial) who received at least one dose of HYCAMTIN capsules.
+Patients in all four trials had advanced lung malignancies and received prior chemotherapy in the first-line setting.
+The dose regimen for HYCAMTIN capsules was 2.3 mg/m2/day for five consecutive days every 21 days.
+The median number of courses was 3 (range: 1 to 20) in these four trials.
+Table 2 describes the hematologic and non-hematologic adverse reactions in recurrent SCLC patients treated with HYCAMTIN capsules in the overall lung cancer patient population.
 
-Table 1.
-Incidence (≥5%) of Adverse Reactions in Small Cell Lung Cancer Patients Treated With HYCAMTIN Capsules Plus BSC and in 4 Thoracic Cancer Studies
+Table 2.
+Incidence (≥5%) of Adverse Reactions in Small Cell Lung Cancer Patients Treated With HYCAMTIN Capsules Plus BSC and in Four Lung Cancer Trials
 
-| Adverse Reaction | HYCAMTIN Capsules + BSC |  |  | HYCAMTIN CapsulesThoracic Cancer Population |  |  |
+| Adverse Reaction | HYCAMTIN Capsules + BSC |  |  | HYCAMTIN CapsulesLung Cancer Population |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | (N = 70) |  |  | (N = 682) |  |  |  |
-| All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
+| All Grades(%) | Grade 3(%) | Grade 4(%) | All Grades(%) | Grade 3(%) | Grade 4(%) |  |
 | Hematologic |  |  |  |  |  |  |
 | Anemia | 94 | 15 | 10 | 98 | 18 | 7 |
-| Leukopenia | 90 | 25 | 16 | 86 | 29 | 15 |
 | Neutropenia | 91 | 28 | 33 | 83 | 24 | 32 |
 | Thrombocytopenia | 81 | 30 | 7 | 81 | 29 | 6 |
 | Non-hematologic |  |  |  |  |  |  |
@@ -31,41 +39,10 @@ Incidence (≥5%) of Adverse Reactions in Small Cell Lung Cancer Patients Treate
 
 BSC = Best Supportive Care.
 
-N = total number of patients treated.
+N = Total number of patients treated.
 
-Adverse reactions were graded using NCI Common Toxicity Criteria.
+Adverse reactions were graded using NCI Common Toxicity Criteria Version 2.0.
 
-### Diarrhea Adverse Reactions
+### On-Study Death Due to Toxicity of HYCAMTIN:
 
-Of the 70 patients who received HYCAMTIN capsules plus BSC, the incidence of drug-related diarrhea was 14%, with 4% Grade 3 and 1% Grade 4.
-
-In the 682 patients who received HYCAMTIN capsules in the 4 thoracic cancer studies, the incidence of drug-related diarrhea was 22%, with 4% Grade 3 and 0.4% Grade 4.
-The overall incidence of drug-related diarrhea was more frequent in patients ≥65 years of age (28%, n = 225) with 10% Grade 1, 9% Grade 2, 7% Grade 3, and 1% Grade 4 compared to those <65 years of age (19%, n = 457) with 7% Grade 1, 9% Grade 2, 3% Grade 3, and 0% Grade 4.
-The incidence of Grade 3 or 4 diarrhea proximate (within 5 days) to Grade 3 or 4 neutropenia events in the HYCAMTIN capsules treatment group was 5%.
-The median time to onset of Grade 2 or worse diarrhea was 9 days in the HYCAMTIN capsules group.
-
-### Deaths Occurring Within 30 Days Following the Last Dose of Study Medication
-
-In the 682 patients who received HYCAMTIN capsules in the 4 thoracic cancer studies, 39 deaths occurred within 30 days after the last dose of study medication for a reason other than progressive disease; 13 of these deaths were attributed to hematologic toxicity, 5 were attributed to non-hematologic toxicity, and 21 were attributed to other causes.
-One patient death (68 years of age) was attributed to treatment-related diarrhea and one death (68 years of age) attributed diarrhea as a contributory event; both patients received HYCAMTIN capsules.
-
-In addition to the adverse reactions listed previously, the following adverse reactions have been reported with HYCAMTIN for Injection:
-
-- •Incidence >10%: Febrile neutropenia, abdominal pain, stomatitis, constipation.
-- •Incidence 1 to 10%: Sepsis, hypersensitivity (including rash), hyperbilirubinemia, malaise.
-
-## 6.2 Postmarketing Experience
-
-There is no postmarketing experience with HYCAMTIN capsules.
-The following adverse reactions have been identified during post-approval use of HYCAMTIN for Injection.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-Blood and lymphatic system disorders: Severe bleeding (in association with thrombocytopenia).
-
-Immune system disorders: Allergic manifestations, anaphylactoid reactions.
-
-Respiratory, thoracic, and mediastinal disorders: Interstitial lung disease.
-
-Gastrointestinal disorders: Abdominal pain potentially associated with neutropenic colitis [see Warnings and Precautions (5.1)].
-
-Skin and subcutaneous tissue disorders: Angioedema, severe dermatitis, severe pruritus.
+In the 682 patients who received HYCAMTIN capsules in the four lung cancer trials, 39 deaths (6%) occurred within 30 days after the last dose for a reason other than progressive disease: 13 due to hematologic toxicity, 5 due to non-hematologic toxicity (2 from diarrhea), and 21 due to other causes.

@@ -8,7 +8,7 @@ It is soluble in water and melts with decomposition at 213° to 218°C.
 
 Topotecan hydrochloride has the following structural formula:
 
-HYCAMTIN capsules contain topotecan hydrochloride, the content of which is expressed as topotecan free base.
-The major excipients are hydrogenated vegetable oil, glyceryl monostearate, gelatin, and titanium dioxide.
+HYCAMTIN capsules for oral use contain topotecan hydrochloride, the content of which is expressed as topotecan free base.
+The excipients are gelatin, glyceryl monostearate, hydrogenated vegetable oil, and titanium dioxide.
 The capsules are imprinted with edible black ink.
-The 1 mg capsules also contain red iron oxide.
+The 1-mg capsules also contain red iron oxide.

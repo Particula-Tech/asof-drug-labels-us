@@ -2,28 +2,40 @@
 
 ## 2.1 Recommended Dosing
 
-The recommended dose of HYCAMTIN capsules is 2.3 mg/m2/day once daily for 5 consecutive days repeated every 21 days.
-Round the calculated oral daily dose to the nearest 0.25 mg, and prescribe the minimum number of 1 mg and 0.25 mg capsules.
-The same number of capsules should be prescribed for each of the 5 dosing days.
+The recommended dose of HYCAMTIN capsules is 2.3 mg/m2/day orally once daily for 5 consecutive days repeated every 21 days.
+Round the dose to the nearest 0.25 mg, and prescribe the minimum number of 1-mg and 0.25-mg capsules.
+Prescribe the same number of capsules for each of the 5 dosing days.
 
-HYCAMTIN capsules may be taken with or without food.
-The capsules must be swallowed whole and must not be chewed, crushed, or divided.
-If your patient vomits after taking the dose of HYCAMTIN, the patient should not take a replacement dose.
+Take HYCAMTIN capsules with or without food.
+Swallow capsules whole.
+Do not chew, crush, or divide the capsules.
+Do not prescribe a replacement dose for emesis.
 
-## 2.2 Adjustment of Dose in Special Populations
+Diarrhea:
 
-### Renal Function Impairment
+Do not administer HYCAMTIN capsules to patients with Grade 3 or 4 diarrhea.
+After recovery to Grade 1 or less, reduce the dose of HYCAMTIN by 0.4 mg/m2/day for subsequent courses [see Warnings and Precautions (5.2)].
 
-No dosage adjustment of HYCAMTIN capsules appears to be required for treating patients with mild renal impairment (CLcr = 50-80 mL/min).
-A dose adjustment of HYCAMTIN capsules to 1.8 mg/m2/day is predicted to adjust the area under the curve (AUC) to the normal range for patients with moderate renal impairment (CLcr = 30-49 mL/min).
-Insufficient data are available in patients with severe renal impairment (CLcr <30 mL/min) to provide a dosage recommendation for HYCAMTIN capsules [see Use in Specific Populations (8.6)].
+## 2.2 Dose Modification Guidelines
 
-## 2.3 Dose Modification Guidelines
+Hematologic Toxicities:
 
-Patients should not be treated with subsequent courses of HYCAMTIN until neutrophils recover to >1,000 cells/mm3, platelets recover to >100,000 cells/mm3, and hemoglobin levels recover to ≥9.0 g/dL (with transfusion if necessary).
+- Do not administer subsequent courses of HYCAMTIN capsules until neutrophils recover to greater than 1,000 cells/mm3, platelets recover to greater than 100,000 cells/mm3, hemoglobin levels recover to greater than or equal to 9.0 g/dL (with transfusion if necessary).
+- •Dose reduce HYCAMTIN capsules by 0.4 mg/m2/day for:
+  - oneutrophil counts of less than 500 cells/mm3 associated with fever or infection or lasting for 7 days or more;
+  - oneutrophil counts of 500 to 1,000 cells/mm3 lasting beyond day 21 of the treatment course;
+  - oplatelet counts less than 25,000 cells/mm3.
+- Renal Impairment:
+- The recommended starting doses of HYCAMTIN capsules in patients with moderate and severe renal impairment are as follows:
 
-For patients who experience severe neutropenia (neutrophils <500 cells/mm3 associated with fever or infection or lasting for 7 days or more) or neutropenia (neutrophils 500 to 1,000 cells/mm3 lasting beyond day 21 of the treatment course), the HYCAMTIN capsules dose should be reduced by 0.4 mg/m2/day for subsequent courses.
-Doses should be similarly reduced if the platelet count falls below 25,000 cells/mm3.
+Table 1.
+Dose Reduction Guidelines for Renal Impairment
 
-For patients who experience Grade 3 or 4 diarrhea, the HYCAMTIN capsules dose should be reduced by 0.4 mg/m2/day for subsequent courses [see Warnings and Precautions (5.2)].
-Patients with Grade 2 diarrhea may need to follow the same dose modification guidelines.
+| Degree of Renal Impairment | Creatinine Clearancea (mL/min) | Dose (mg/m2)/day |
+| --- | --- | --- |
+| Moderate | 30 – 49 | 1.5b |
+| Severe | <30 | 0.6b |
+
+a Calculated with the Cockroft-Gault method using ideal body weight.
+
+b Dose can be increased after the first course by 0.4 mg/m2/day if no severe hematologic or gastrointestinal toxicities occur.
