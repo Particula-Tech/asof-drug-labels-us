@@ -57,11 +57,11 @@ Patients should notify their physician if they are taking warfarin, be monitored
 
 Patients given levofloxacin for these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 08/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 06/2014
 
 ## 17.6 FDA-Approved Medication Guide
 
-MEDICATION GUIDE Levofloxacin Tablets Read this Medication Guide before you start taking levofloxacin tablets and each time you get a refill.
+MEDICATION GUIDE Levofloxacin Tablets (lee" voe flox' a sin) Read this Medication Guide before you start taking levofloxacin tablets and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 What is the most important information I should know about levofloxacin tablets?

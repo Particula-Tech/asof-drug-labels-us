@@ -136,13 +136,13 @@ Table 9: Susceptibility Test Interpretive Criteria for Levofloxacin
 | Enterococcus faecalis | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
 | Staphylococcus species | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
 | Pseudomonas aeruginosa | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
-| Haemophilus influenzae | ≤2 | --a | -- | ≥17 | -- | -- |
+| Haemophilus influenzae | ≤2 | --† | -- | ≥17 | -- | -- |
 | Haemophilus parainfluenzae | ≤2 | -- | -- | ≥17 | -- | -- |
 | Streptococcus pneumoniae | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
 | Streptococcus pyogenes | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
 | Yersinia pestis4 | ≤0.25 | -- | -- | -- | -- | -- |
 | Bacillus anthracis4 | ≤0.25 | -- | -- | -- | -- | -- |
-| S = Susceptible, I = Intermediate, R = Resistant a The current absence of data on resistant isolates precludes defining any categories other than “Susceptible.” Isolates yielding MIC/zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. |  |  |  |  |  |  |
+| S = Susceptible, I = Intermediate, R = Resistant †The current absence of data on resistant isolates precludes defining any categories other than “Susceptible.” Isolates yielding MIC/zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing. |  |  |  |  |  |  |
 
 A report of Susceptible indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.

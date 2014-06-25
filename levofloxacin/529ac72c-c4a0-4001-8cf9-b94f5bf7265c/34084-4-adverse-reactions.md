@@ -41,14 +41,14 @@ Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levof
 | System/Organ Class | Adverse Reaction | % (N = 7537) |
 | --- | --- | --- |
 | Infections and Infestations | moniliasis | 1 |
-| Psychiatric Disorders | insomniaa [see Warnings and Precautions (5.6)] | 4 |
+| Psychiatric Disorders | insomnia* [see Warnings and Precautions (5.6)] | 4 |
 | Nervous System Disorders | headache dizziness [see Warnings and Precautions (5.6)] | 6 3 |
 | Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warnings and Precautions (5.3)] | 1 |
 | Gastrointestinal Disorders | nausea diarrhea constipation abdominal pain vomiting dyspepsia | 7 5 3 2 2 2 |
 | Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.3)] pruritus | 2 1 |
-| Reproductive System and Breast Disorders | vaginitis | 1b |
+| Reproductive System and Breast Disorders | vaginitis | 1† |
 | General Disorders and Administration Site Conditions | edema injection site reaction chest pain | 1 1 1 |
-| a N = 7274 b N = 3758 (women) |  |  |
+| * N = 7274 †N = 3758 (women) |  |  |
 
 Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin (N = 7537)
 
@@ -58,8 +58,8 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | Blood and Lymphatic System Disorders | anemia thrombocytopenia granulocytopenia [see Warnings and Precautions (5.4)] |
 | Immune System Disorders | allergic reaction [see Warnings and Precautions (5.3, 5.4)] |
 | Metabolism and Nutrition Disorders | hyperglycemia hypoglycemia [see Warnings and Precautions (5.11)] hyperkalemia |
-| Psychiatric Disorders | anxiety agitation confusion depression hallucination nightmarea [see Warnings and Precautions (5.6)] sleep disordera anorexia abnormal dreaminga |
-| Nervous System Disorders | tremor convulsions [see Warnings and Precautions (5.6)] paresthesia [see Warnings and Precautions (5.8)] vertigo hypertonia hyperkinesias abnormal gait somnolencea syncope |
+| Psychiatric Disorders | anxiety agitation confusion depression hallucination nightmare* [see Warnings and Precautions (5.6)] sleep disorder* anorexia abnormal dreaming* |
+| Nervous System Disorders | tremor convulsions [see Warnings and Precautions (5.6)] paresthesia [see Warnings and Precautions (5.8)] vertigo hypertonia hyperkinesias abnormal gait somnolence* syncope |
 | Respiratory, Thoracic and Mediastinal Disorders | epistaxis |
 | Cardiac Disorders | cardiac arrest palpitation ventricular tachycardia ventricular arrhythmia |
 | Vascular Disorders | phlebitis |
@@ -68,7 +68,7 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | Skin and Subcutaneous Tissue Disorders | urticaria [see Warnings and Precautions (5.3)] |
 | Musculoskeletal and Connective Tissue Disorders | arthralgia tendinitis [see Warnings and Precautions (5.1)] myalgia skeletal pain |
 | Renal and Urinary Disorders | abnormal renal function acute renal failure [see Warnings and Precautions (5.4)] |
-| a N = 7274 |  |
+| * N = 7274 |  |
 
 In clinical trials using multiple-dose therapy, ophthalmologic abnormalities, including cataracts and multiple punctate lenticular opacities, have been noted in patients undergoing treatment with quinolones, including levofloxacin.
 The relationship of the drugs to these events is not presently established.
@@ -86,7 +86,7 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.3, 5.4)] |
 | Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see Warnings and Precautions (5.6)] |
 | Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.6)] |
-| Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
+| Eye Disorders | Uveitis vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.9)] tachycardia |
 | Vascular Disorders | vasodilatation |

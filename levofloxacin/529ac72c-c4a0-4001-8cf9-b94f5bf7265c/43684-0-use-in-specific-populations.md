@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Levofloxacin was not teratogenic in rats at oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended human dose based upon relative body surface area, or at intravenous doses as high as 160 mg/kg/day corresponding to 1.9 times the highest recommended human dose based upon relative body surface area.
+Teratogenic Effects Pregnancy Category C. Levofloxacin was not teratogenic in rats at oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended human dose based upon relative body surface area, or at intravenous doses as high as 160 mg/kg/day corresponding to 1.9 times the highest recommended human dose based upon relative body surface area.
 The oral dose of 810 mg/kg/day to rats caused decreased fetal body weight and increased fetal mortality.
 No teratogenicity was observed when rabbits were dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended human dose based upon relative body surface area, or when dosed intravenously as high as 25 mg/kg/day, corresponding to 0.5 times the highest recommended human dose based upon relative body surface area.
 There are, however, no adequate and well-controlled studies in pregnant women.
@@ -31,11 +31,11 @@ Children treated with levofloxacin had a significantly higher incidence of muscu
 
 Table 7: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
 
-| Follow-up Period | Levofloxacin N = 1340 | Non-Fluoroquinolonea N = 893 | p-valueb |
+| Follow-up Period | Levofloxacin N = 1340 | Non-Fluoroquinolone* N = 893 | p-value† |
 | --- | --- | --- | --- |
 | 60 days | 28 (2.1%) | 8 (0.9%) | p = 0.038 |
-| 1 yearc | 46 (3.4%) | 16 (1.8%) | p = 0.025 |
-| a Non-Fluoroquinolone: ceftriaxone, amoxicillin/clavulanate, clarithromycin b 2-sided Fisher’s Exact Test c There were 1199 levofloxacin-treated and 804 non-fluoroquinolone-treated children who had a one-year evaluation visit. However, the incidence of musculoskeletal disorders was calculated using all reported events during the specified period for all children enrolled regardless of whether they completed the 1-year evaluation visit. |  |  |  |
+| 1 year‡ | 46 (3.4%) | 16 (1.8%) | p = 0.025 |
+| * Non-Fluoroquinolone: ceftriaxone, amoxicillin/clavulanate, clarithromycin †2-sided Fisher’s Exact Test ‡ There were 1199 levofloxacin-treated and 804 non-fluoroquinolone-treated children who had a one-year evaluation visit. However, the incidence of musculoskeletal disorders was calculated using all reported events during the specified period for all children enrolled regardless of whether they completed the 1-year evaluation visit. |  |  |  |
 
 Arthralgia was the most frequently occurring musculoskeletal disorder in both treatment groups.
 Most of the musculoskeletal disorders in both groups involved multiple weight-bearing joints.
