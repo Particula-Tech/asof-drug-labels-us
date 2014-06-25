@@ -8,9 +8,9 @@ ANORO™ ELLIPTA™
 
 62.5 mcg/25 mcg
 
-FOR ORAL INHALATION ONLY
-
 Rx Only
+
+FOR ORAL INHALATION ONLY
 
 Each blister on one strip contains 62.5 mcg of umeclidinium, magnesium stearate, and lactose monohydrate.
 Each blister on the other strip contains 25 mcg of vilanterol, magnesium stearate, and lactose monohydrate.
@@ -23,5 +23,5 @@ Made in UK
 
 ©2013, GlaxoSmithKline
 
-10000000119882 Rev.
-12/13
+10000000126130 Rev.
+5/14
