@@ -31,7 +31,7 @@ Insulin may cause sodium retention and edema, particularly if previously poor me
 - •Frequencies of adverse drug reactions
 
 The frequencies of adverse drug reactions during a clinical trial with NovoLog Mix 70/30 in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in the tables below.
-The trial was a three-month, open-label trial in patients with Type 1 or Type 2 diabetes who were treated twice daily (before breakfast and before supper) with NovoLog Mix 70/30.
+The trial was a three-month, open-label trial in patients with type 1 or type 2 diabetes who were treated twice daily (before breakfast and before supper) with NovoLog Mix 70/30.
 
 Table 1: Treatment-Emergent Adverse Events in Patients with Type 1 diabetes mellitus (Adverse events with frequency ≥ 5% are included.)
 

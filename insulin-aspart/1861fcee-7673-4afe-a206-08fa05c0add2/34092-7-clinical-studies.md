@@ -2,7 +2,7 @@
 
 ## 14.1 NovoLog Mix 70/30 versus Novolin 70/30
 
-In a three-month, open-label trial, patients with Type 1 (n=104) or Type 2 (n=187) diabetes were treated twice daily (before breakfast and before supper) with NovoLog Mix 70/30 or Novolin 70/30.
+In a three-month, open-label trial, patients with type 1 (n=104) or type 2 (n=187) diabetes were treated twice daily (before breakfast and before supper) with NovoLog Mix 70/30 or Novolin 70/30.
 Patients had received insulin for at least 24 months before the study.
 Oral hypoglycemic agents were not allowed within 1 month prior to the study or during the study.
 The small changes in HbA1c were comparable across the treatment groups (see Table 3).

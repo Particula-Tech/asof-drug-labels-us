@@ -73,8 +73,8 @@ How should I take NovoLog® Mix 70/30?
   Talk to your healthcare provider if you have any questions.
   Your healthcare provider should show you how to inject NovoLog® Mix 70/30 before you start using it.
 - •NovoLog® Mix 70/30 comes in:
-  - ∘10 mL vials for use with a syringe
-  - ∘3 mL NovoLog® Mix 70/30 FlexPen®
+  - •10 mL vials for use with a syringe
+  - •3 mL NovoLog® Mix 70/30 FlexPen®
 - •If you take too much NovoLog® Mix 70/30, your blood sugar may fall too low (hypoglycemia).
   You can treat mild low blood sugar (hypoglycemia) by drinking or eating something sugary right away (fruit juice, sugar candies, or glucose tablets).
   It is important to treat low blood sugar (hypoglycemia) right away because it could get worse and you could pass out (loss of consciousness).
@@ -111,8 +111,8 @@ What should I consider while using NovoLog® Mix 70/30?
   You may have trouble paying attention or reacting if you have low blood sugar (hypoglycemia).
   Be careful when you drive a car or operate machinery.
   Ask your healthcare provider if it is alright for you to drive if you often have:
-  - ∘low blood sugar
-  - ∘decreased or no warning signs of low blood sugar
+  - •low blood sugar
+  - •decreased or no warning signs of low blood sugar
 
 What are the possible side effects of NovoLog® Mix 70/30?
 
@@ -143,11 +143,11 @@ Your dose of NovoLog® Mix 70/30 may need to be changed.
   If you keep having skin reactions or they are serious talk to your healthcare provider.
 - •Serious allergic reaction (whole body reaction).
   Get medical help right away, if you have any of these symptoms of an allergic reaction:
-  - ∘a rash over your whole body
-  - ∘have trouble breathing
-  - ∘a fast heartbeat
-  - ∘sweating
-  - ∘feel faint
+  - •a rash over your whole body
+  - •have trouble breathing
+  - •a fast heartbeat
+  - •sweating
+  - •feel faint
 - •Swelling of your hands and feet
 - •Heart Failure.
   Taking certain diabetes pills called thiazolidinediones or “TZDs” with NovoLog® Mix 70/30 may cause heart failure in some people.
@@ -155,10 +155,9 @@ Your dose of NovoLog® Mix 70/30 may need to be changed.
   If you already have heart failure it may get worse while you take TZDs with NovoLog® Mix 70/30.
   Your healthcare provider should monitor you closely while you are taking TZDs with NovoLog® Mix 70/30.
   Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
-  - ∘shortness of breath
-  - ∘swelling of your ankles or feet
-  - ∘sudden weight gain
-- Treatment with TZDs and NovoLog® Mix 70/30 may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
+  - •shortness of breath
+  - •swelling of your ankles or feet
+  - •sudden weight gainTreatment with TZDs and NovoLog® Mix 70/30 may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
 
 The most common side effects of NovoLog® Mix 70/30 include:
 
@@ -189,14 +188,14 @@ All Unopened NovoLog® Mix 70/30:
 After NovoLog® Mix 70/30 has been opened:
 
 - •Vials
-  - ∘Keep in the refrigerator or at room temperature below 86°F (30°C) for up to 28 days.
-  - ∘Keep vials away from direct heat or light.
-  - ∘Throw away an opened vial after 28 days of use, even if there is insulin left in the vial.
+  - •Keep in the refrigerator or at room temperature below 86°F (30°C) for up to 28 days.
+  - •Keep vials away from direct heat or light.
+  - •Throw away an opened vial after 28 days of use, even if there is insulin left in the vial.
 - •NovoLog® Mix 70/30 FlexPen®
-  - ∘Keep at room temperature below 86°F (30°C) for up to 14 days.
-  - ∘Do not store a NovoLog® Mix 70/30 FlexPen® that you are using in the refrigerator.
-  - ∘Keep NovoLog® Mix 70/30 FlexPen® away from direct heat or light.
-  - ∘Throw away a used NovoLog® Mix 70/30 FlexPen® after 14 days, even if there is insulin left in the syringe.
+  - •Keep at room temperature below 86°F (30°C) for up to 14 days.
+  - •Do not store a NovoLog® Mix 70/30 FlexPen® that you are using in the refrigerator.
+  - •Keep NovoLog® Mix 70/30 FlexPen® away from direct heat or light.
+  - •Throw away a used NovoLog® Mix 70/30 FlexPen® after 14 days, even if there is insulin left in the syringe.
 
 Never use insulin after the expiration date that is printed on the label and carton.
 

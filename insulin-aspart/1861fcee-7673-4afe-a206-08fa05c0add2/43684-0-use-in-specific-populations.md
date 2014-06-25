@@ -10,7 +10,7 @@ It is essential for patients with diabetes or history of gestational diabetes to
 Insulin requirements may decrease during the first trimester, generally increase during the second and third trimesters, and rapidly decline after delivery.
 Careful monitoring of glucose control is essential in such patients.
 
-An open-label, randomized study compared the safety and efficacy of NovoLog (the rapid-acting component of NovoLog Mix 70/30) versus human insulin in the treatment of pregnant women with Type 1 diabetes (322 exposed pregnancies (NovoLog: 157, human insulin: 165)).
+An open-label, randomized study compared the safety and efficacy of NovoLog (the rapid-acting component of NovoLog Mix 70/30) versus human insulin in the treatment of pregnant women with type 1 diabetes (322 exposed pregnancies (NovoLog: 157, human insulin: 165)).
 Two-thirds of the enrolled patients were already pregnant when they entered the study.
 Since only one-third of the patients enrolled before conception, the study was not large enough to evaluate the risk of congenital malformations.
 Mean HbA1c of ~ 6% was observed in both groups during pregnancy, and there was no significant difference in the incidence of maternal hypoglycemia.

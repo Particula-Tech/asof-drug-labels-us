@@ -68,8 +68,8 @@ Severe cases of generalized allergy, including anaphylactic reaction, may be lif
 
 Specific anti-insulin antibodies as well as cross-reacting anti-insulin antibodies were monitored in a 3-month, open-label comparator trial as well as in a long-term extension trial.
 Changes in cross-reactive antibodies were more common after NovoLog Mix 70/30 than with Novolin 70/30 but these changes did not correlate with change in HbA1c or increase in insulin dose.
-The clinical significance of these antibodies has not been established.
-Antibodies did not increase further after long-term exposure (>6 months) to NovoLog Mix 70/30.
+In this study, antibodies did not increase further after long-term exposure (>6 months) to NovoLog Mix 70/30.
+The presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency towards hyperglycemia or hypoglycemia.
 
 ## 5.8 Fluid retention and heart failure can occur with concomitant use of PPAR-gamma agonists
 

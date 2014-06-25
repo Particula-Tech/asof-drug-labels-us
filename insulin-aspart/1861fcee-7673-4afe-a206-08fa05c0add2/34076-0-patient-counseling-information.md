@@ -21,17 +21,17 @@ In addition, the written prescription should clearly indicate the presentation, 
 
 Rx only
 
-Date of Issue: March 9, 2013
+Date of Issue: June 13, 2014
 
-Version: 11
+Version: 12
 
 Novo Nordisk®, NovoLog®, FlexPen®, and Novolin® are registered trademarks of Novo Nordisk® A/S.
 
 NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
 
-FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004 and other patents pending.
+FlexPen® is covered by US Patent Nos. 6,004,297, RE 43,834, RE 41,956 and other patents pending.
 
-© 2002 – 2013 Novo Nordisk
+© 2002 – 2014 Novo Nordisk
 
 Manufactured by:
 
