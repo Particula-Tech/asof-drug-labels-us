@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA078428"
+  ],
+  "inn": "gabapentin",
+  "labeler": "Amneal Pharmaceuticals of New York, LLC",
+  "package_ndcs": [
+    "65162-101-03",
+    "65162-101-10",
+    "65162-101-11",
+    "65162-101-50",
+    "65162-102-03",
+    "65162-102-10",
+    "65162-102-11",
+    "65162-102-50",
+    "65162-103-03",
+    "65162-103-10",
+    "65162-103-11",
+    "65162-103-50"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "gabapentin",
+      "name": "Gabapentin"
+    }
+  ],
+  "setid": "507bf6d0-e7a2-413d-9848-cd2445a1411d",
+  "source": "dailymed"
+}
