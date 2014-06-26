@@ -87,12 +87,22 @@ Posaconazole Delayed-Release Tablets
 When given orally in healthy volunteers, posaconazole delayed-release tablets are absorbed with a median Tmax of 4 to 5 hours.
 Steady-state plasma concentrations are attained by Day 6 at the 300 mg dose (QD after BID loading dose at Day 1).
 The absolute bioavailability of the oral delayed-release tablet is approximately 54% under fasted conditions.
-The effect of food intake on the oral bioavailability of posaconazole following administration of posaconazole delayed-release tablets is not known.
-However, since the oral bioavailability of posaconazole is significantly increased when the oral suspension is administered with food or a nutritional supplement (see below), it is also recommended that posaconazole delayed-release tablets be taken with food.
+The Cmax and AUC of posaconazole following administration of posaconazole delayed-release tablets is increased 16% and 51%, respectively, when given with a high fat meal compared to a fasted state (see Table 15).
+In order to enhance the oral absorption of posaconazole and optimize plasma concentrations, posaconazole delayed-release tablets should be administered with food.
 
-Concomitant administration of posaconazole delayed-release tablets with drugs affecting gastric pH or gastric motility did not demonstrate any significant effects on posaconazole pharmacokinetic exposure (see Table 15).
+Table 15: Statistical Comparison of Plasma Pharmacokinetics of Posaconazole Following Single Oral Dose Administration of 300 mg Posaconazole Delayed-Release Tablet to Healthy Subjects under Fasting and Fed Conditions
 
-Table 15: The Effect of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Posaconazole Delayed-Release Tablets in Healthy Volunteers
+| Pharmacokinetic Parameter | N | Mean (%CV) | N | Mean (%CV) | GMR (90% CI) |
+| --- | --- | --- | --- | --- | --- |
+|  | Fasting Conditions |  | Fed Conditions (High Fat Meal)48.5 g fat |  | Fed/Fasting |
+| Cmax (ng/mL) | 14 | 935 (34) | 16 | 1060 (25) | 1.16 (0.96, 1.41) |
+| AUC0-72hr (hr∙ng/mL) | 14 | 26200 (28) | 16 | 38400 (18) | 1.51 (1.33, 1.72) |
+| TmaxMedian (Min, Max) reported for Tmax (hr) | 14 | 5.00 (3.00, 8.00) | 16 | 6.00 (5.00, 24.00) | N/A |
+| GMR=Geometric least-squares mean ratio; CI=Confidence interval |  |  |  |  |  |
+
+Concomitant administration of posaconazole delayed-release tablets with drugs affecting gastric pH or gastric motility did not demonstrate any significant effects on posaconazole pharmacokinetic exposure (see Table 16).
+
+Table 16: The Effect of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Posaconazole Delayed-Release Tablets in Healthy Volunteers
 
 | Coadministered Drug | Administration Arms | Change in Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus posaconazole to posaconazole alone for Cmax or AUC0-last.; 90% CI of the ratio estimate) | Change in AUC0-last (ratio estimate; 90% CI of the ratio estimate) |
 | --- | --- | --- | --- |
@@ -107,13 +117,13 @@ Posaconazole oral suspension is absorbed with a median Tmax of ~3 to 5 hours.
 Steady-state plasma concentrations are attained at 7 to 10 days following multiple-dose administration.
 
 Following single-dose administration of 200 mg, the mean AUC and Cmax of posaconazole are approximately 3-times higher when the oral suspension is administered with a nonfat meal and approximately 4-times higher when administered with a high-fat meal (~50 gm fat) relative to the fasted state.
-Following single-dose administration of posaconazole oral suspension 400 mg, the mean AUC and Cmax of posaconazole are approximately 3-times higher when administered with a liquid nutritional supplement (14 gm fat) relative to the fasted state (see Table 16).
-In addition, the effects of varying gastric administration conditions on the Cmax and AUC of posaconazole oral suspension in healthy volunteers have been investigated and are shown in Table 17.
+Following single-dose administration of posaconazole oral suspension 400 mg, the mean AUC and Cmax of posaconazole are approximately 3-times higher when administered with a liquid nutritional supplement (14 gm fat) relative to the fasted state (see Table 17).
+In addition, the effects of varying gastric administration conditions on the Cmax and AUC of posaconazole oral suspension in healthy volunteers have been investigated and are shown in Table 18.
 
 In order to assure attainment of adequate plasma concentrations, it is recommended to administer Noxafil oral suspension during or immediately following a full meal.
 In patients who cannot eat a full meal, Noxafil oral suspension should be taken with a liquid nutritional supplement or an acidic carbonated beverage (e.g., ginger ale).
 
-Table 16: The Mean (%CV) [min-max] Posaconazole Pharmacokinetic Parameters Following Single-Dose Oral Suspension Administration of 200 mg and 400 mg Under Fed and Fasted Conditions
+Table 17: The Mean (%CV) [min-max] Posaconazole Pharmacokinetic Parameters Following Single-Dose Oral Suspension Administration of 200 mg and 400 mg Under Fed and Fasted Conditions
 
 | Dose (mg) | Cmax (ng/mL) | TmaxMedian [min-max]. (hr) | AUC (I) (ng∙hr/mL) | CL/F (L/hr) | t½ (hr) |
 | --- | --- | --- | --- | --- | --- |
@@ -123,7 +133,7 @@ Table 16: The Mean (%CV) [min-max] Posaconazole Pharmacokinetic Parameters Follo
 | 400 mg fasted (n=23)n=10 for AUC (I), CL/F, and t ½ | 121 (75) [27-366] | 4 [2-12] | 5258 (48) [2834-9567] | 91 (40) [42-141] | 27.3 (26) [16.8-38.9] |
 | 400 mg with liquid nutritional supplement (14 gm fat) (n=23) | 355 (43) [145-720] | 5 [4-8] | 11,295 (40) [3865-20,592] | 43 (56) [19-103] | 26.0 (19) [18.2-35.0] |
 
-Table 17: The Effect of Varying Gastric Administration Conditions on the Cmax and AUC of Posaconazole Oral Suspension in Healthy VolunteersIn 5 subjects, the Cmax and AUC decreased substantially (range: -27% to -53% and -33% to -51%, respectively) when Noxafil was administered via an NG tube compared to when Noxafil was administered orally.
+Table 18: The Effect of Varying Gastric Administration Conditions on the Cmax and AUC of Posaconazole Oral Suspension in Healthy VolunteersIn 5 subjects, the Cmax and AUC decreased substantially (range: -27% to -53% and -33% to -51%, respectively) when Noxafil was administered via an NG tube compared to when Noxafil was administered orally.
 It is recommended to closely monitor patients for breakthrough fungal infections when Noxafil is administered via an NG tube because a lower plasma exposure may be associated with an increased risk of treatment failure.
 
 | Study Description | Administration Arms | Change in Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus posaconazole to coadministered drug alone for Cmax or AUC.; 90% CI of the ratio estimate) | Change in AUC (ratio estimate; 90% CI of the ratio estimate) |
@@ -142,9 +152,9 @@ It is recommended to closely monitor patients for breakthrough fungal infections
 | 400-mg single dose either orally with BOOST or via an NG tube with BOOST (n=16) | Via NG tubeNG = nasogastric | ↓19% (0.81; 0.71-0.91) | ↓23% (0.77; 0.69-0.86) |
 
 Concomitant administration of posaconazole oral suspension with drugs affecting gastric pH or gastric motility results in lower posaconazole exposure.
-(See Table 18.)
+(See Table 19.)
 
-Table 18: The Effect of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Posaconazole Oral Suspension in Healthy Volunteers
+Table 19: The Effect of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Posaconazole Oral Suspension in Healthy Volunteers
 
 | Change in Mean Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus posaconazole to coadministered drug alone for Cmax or AUC.; 90% CI of the ratio estimate) | Change in Mean AUC (ratio estimate; 90% CI of the ratio estimate) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -168,9 +178,9 @@ The excreted metabolites in urine and feces account for ~17% of the administered
 
 Posaconazole is primarily metabolized via UDP glucuronidation (phase 2 enzymes) and is a substrate for p-glycoprotein (P-gp) efflux.
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
-A summary of drugs studied clinically with the oral suspension or an early tablet formulation, which affect posaconazole concentrations, is provided in Table 19.
+A summary of drugs studied clinically with the oral suspension or an early tablet formulation, which affect posaconazole concentrations, is provided in Table 20.
 
-Table 19: Summary of the Effect of Coadministered Drugs on Posaconazole in Healthy Volunteers
+Table 20: Summary of the Effect of Coadministered Drugs on Posaconazole in Healthy Volunteers
 
 | Change in Mean Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus posaconazole to posaconazole alone for Cmax or AUC.; 90% CI of the ratio estimate) | Change in Mean AUC (ratio estimate; 90% CI of the ratio estimate) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -183,9 +193,9 @@ Table 19: Summary of the Effect of Coadministered Drugs on Posaconazole in Healt
 In vitro studies with human hepatic microsomes and clinical studies indicate that posaconazole is an inhibitor primarily of CYP3A4.
 A clinical study in healthy volunteers also indicates that posaconazole is a strong CYP3A4 inhibitor as evidenced by a >5-fold increase in midazolam AUC.
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole.
-A summary of the drugs studied clinically, for which plasma concentrations were affected by posaconazole, is provided in Table 20 [see Contraindications (4) and Drug Interactions (7.1) including recommendations].
+A summary of the drugs studied clinically, for which plasma concentrations were affected by posaconazole, is provided in Table 21 [see Contraindications (4) and Drug Interactions (7.1) including recommendations].
 
-Table 20: Summary of the Effect of Posaconazole on Coadministered Drugs in Healthy Volunteers and Patients
+Table 21: Summary of the Effect of Posaconazole on Coadministered Drugs in Healthy Volunteers and Patients
 
 | Change in Mean Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus posaconazole to coadministered drug alone for Cmax or AUC.; 90% CI of the ratio estimate) | Change in Mean AUC (ratio estimate; 90% CI of the ratio estimate) |  |  |  |
 | --- | --- | --- | --- | --- |

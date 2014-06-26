@@ -11,8 +11,8 @@ Never give Noxafil injection as an intravenous bolus injection.
 
 The delayed-release tablet and oral suspension are not to be used interchangeably due to the differences in the dosing of each formulation.
 
-Noxafil delayed-release tablets should be swallowed whole, and not be divided, crushed, or chewed.
-Noxafil delayed-release tablets should be taken with food [see Dosage and Administration (2.4)].
+Noxafil delayed-release tablets must be swallowed whole, and not be divided, crushed, or chewed.
+Noxafil delayed-release tablets should be taken with food [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 Noxafil oral suspension should be administered with a full meal or with a liquid nutritional supplement or an acidic carbonated beverage (e.g., ginger ale) in patients who cannot eat a full meal.
 
@@ -116,15 +116,17 @@ It is recommended that the spoon is rinsed with water after each administration 
 
 ## 2.4 Administration Information
 
-To enhance the oral absorption of Noxafil and optimize plasma concentrations:
+Noxafil delayed-release tablets:
 
-- Noxafil delayed-release tablets should be administered with food.
-- Each dose of Noxafil oral suspension should be administered during or immediately (i.e., within 20 minutes) following a full meal.
-- For patients who cannot eat a full meal, Noxafil delayed-release tablets should be used instead of Noxafil oral suspension.
-  Noxafil delayed-release tablets should be used only for the prophylaxis indication.
-  Noxafil delayed-release tablets provide higher plasma drug exposures than Noxafil oral suspension under fasted conditions.
-- In patients who cannot eat a full meal and for whom Noxafil delayed-release tablets are not an option, each dose of Noxafil oral suspension should be administered with a liquid nutritional supplement or an acidic carbonated beverage.
-- For patients who cannot eat a full meal or tolerate an oral nutritional supplement or an acidic carbonated beverage and who do not have the option of taking Noxafil delayed-release tablets, an alternative antifungal therapy should be considered or patients should be monitored closely for breakthrough fungal infections.
+- Noxafil delayed-release tablets should be taken with food to enhance the oral absorption of posaconazole and optimize plasma concentrations.
+- Noxafil delayed-release tablets should be used only for the prophylaxis indication.
+- Noxafil delayed-release tablets generally provide higher plasma drug exposures than Noxafil oral suspension under both fed and fasted conditions, and therefore is the preferred oral formulation for the prophylaxis indication.
+
+Noxafil oral suspension:
+
+- Each dose of Noxafil oral suspension should be administered during or immediately (i.e., within 20 minutes) following a full meal to enhance the oral absorption of posaconazole and optimize plasma concentrations.
+- In patients who cannot eat a full meal and for whom Noxafil delayed-release tablets or Noxafil injection are not options, each dose of Noxafil oral suspension should be administered with a liquid nutritional supplement or an acidic carbonated beverage.
+- In patients who cannot eat a full meal or tolerate an oral nutritional supplement or an acidic carbonated beverage and who do not have the option of taking Noxafil delayed-release tablets or Noxafil injection, an alternative antifungal therapy should be considered or patients should be monitored closely for breakthrough fungal infections.
 
 ## 2.5 Use in Patients with Renal Impairment
 

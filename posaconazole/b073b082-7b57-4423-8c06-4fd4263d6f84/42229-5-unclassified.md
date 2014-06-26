@@ -12,7 +12,7 @@ The trademarks referenced herein are owned by their respective companies.
 
 Copyright © 2006, 2010, 2013, 2014 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk5592-mf-1403r031
+uspi-mk5592-mf-1406r032
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -28,6 +28,6 @@ The trademarks depicted in this piece are owned by their respective companies.
 
 Copyright © 2006, 2010, 2013, 2014 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 03/2014
+Revised: 06/2014
 
-usppi-mk5592-mf-1403r013
+usppi-mk5592-mf-1406r014
