@@ -10,10 +10,10 @@ Table 2 shows the incidence of all adverse events judged by the investigator to 
 
 Table 2: Adverse Events Possibly, Probably or Definitely Related to Use of AndroGel 1% in the 180-Day Controlled Clinical Trial
 
-| Adverse Event | Dose of AndroGel 1% |  |  |
-| --- | --- | --- | --- |
-| 50 mg | 75 mg | 100 mg |  |
 |  | N = 77 | N = 40 | N = 78 |
+| --- | --- | --- | --- |
+| Adverse Event | Dose of AndroGel 1% |  |  |
+| 50 mg | 75 mg | 100 mg |  |
 | Acne | 1% | 3% | 8% |
 | Alopecia | 1% | 0% | 1% |
 | Application Site Reaction | 5% | 3% | 4% |
@@ -108,7 +108,7 @@ Table 4: Adverse Drug Reactions from Postmarketing Experience of AndroGel 1% by 
 | Reproductive system and breast disorders: | Gynecomastia, mastodynia, prostatic enlargement, testicular atrophy, oligospermia, priapism (frequent or prolonged erections) |
 | Respiratory disorders: | Dyspnea |
 | Skin and subcutaneous tissue disorders: | Acne, alopecia, application site reaction (pruritus, dry skin, erythema, rash, discolored hair, paresthesia), sweating |
-| Vascular disorders: | Hypertension, vasodilation (hot flushes) |
+| Vascular disorders: | Hypertension, vasodilation (hot flushes), venous thromboembolism |
 
 Secondary Exposure to Testosterone in Children Cases of secondary exposure to testosterone resulting in virilization of children have been reported in postmarket surveillance.
 Signs and symptoms of these reported cases have included enlargement of the clitoris (with surgical intervention) or the penis, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age.
