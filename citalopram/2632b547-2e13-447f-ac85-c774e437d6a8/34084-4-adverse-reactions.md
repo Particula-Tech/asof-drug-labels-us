@@ -96,7 +96,7 @@ Although changes in sexual desire, sexual performance, and sexual satisfaction o
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling, are likely to underestimate their actual incidence.
-The table below displays the incidence of sexual side effects reported by at least 2% of patients taking citalopram in a pool of placebo-controlled clinical trials in patients with depression.
+The table below displays the incidence of sexual side effects reported by at least 2% of patients taking citalopram tablets in a pool of placebo-controlled clinical trials in patients with depression.
 
 | Treatment | Citalopram (425 males) | Placebo (194 males) |
 | --- | --- | --- |

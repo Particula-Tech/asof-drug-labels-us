@@ -1,6 +1,6 @@
 # Medication Guide
 
-Citalopram Tablets, USP Read the Medication Guide that comes with citalopram tablets before you start taking them and each time you get a refill.
+Citalopram Tablets, USP (sye tal' oh pram hye" droe broe' mide) Read the Medication Guide that comes with citalopram tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -39,7 +39,8 @@ The symptoms may include:
 - shortness of breath
 - dizziness or fainting
 
-3.Serotonin Syndrome.
+3.
+Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -104,7 +105,7 @@ Do not take citalopram tablets if you:
 
 - are allergic to citalopram hydrobromide or escitalopram oxalate or any of the ingredients in citalopram tablets.
   See the end of this Medication Guide for a complete list of ingredients in citalopram tablets.
-- If you take a monoamine oxidase inhibitor (MAOI).
+- take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
   - Do not take an MAOI within 2 weeks of stopping citalopram tablets unless directed to do so by your physician.
   - Do not start citalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
@@ -223,11 +224,11 @@ They may harm them.
 This Medication Guide summarizes the most important information about citalopram tablets.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about citalopram tablets that is written for healthcare professionals.
-For more information about citalopram tablets call 1-866-850-2876.
+For more information about citalopram tablets, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in citalopram tablets?
 Active ingredient: citalopram hydrobromide Inactive ingredients: copovidone, corn starch, croscarmellose sodium, lactose monohydrate, magnesium stearate, hypromellose, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 Iron oxides are used as coloring agents in the peach (10 mg) and light pink (20 mg) tablets.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2012
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 06/2014

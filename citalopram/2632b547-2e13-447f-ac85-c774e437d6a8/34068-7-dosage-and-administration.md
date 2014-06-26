@@ -40,7 +40,7 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 
-## Switching a Patients To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with citalopram tablets.
 Conversely, at least 14 days should be allowed after stopping citalopram tablets before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
