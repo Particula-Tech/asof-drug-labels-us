@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-RENOVA® (tretinoin cream), 0.02% is available in tubes containing 20 grams (NDC 0187-5150-20), 40 grams (NDC 0187-5150-40), 60 grams (NDC 0187-5150-60) and in pumps containing 44 grams (NDC 0187-5150-44).
+RENOVA® (tretinoin cream), 0.02% is available in tubes containing 20 grams (NDC 0187-5150-20), 40 grams (NDC 0187-5150-40), 60 grams (NDC 0187-5150-60), and in pumps containing 44 grams (NDC 0187-5150-44).
 
 ## Storage
 

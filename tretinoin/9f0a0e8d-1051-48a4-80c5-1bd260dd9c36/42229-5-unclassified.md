@@ -3,7 +3,7 @@ NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE.
 
 # QUESTIONS
 
-Physicians and Pharmacists can all 1-800-321-4576, from 8:30 a.m. to 4:30 p.m.
+Physicians and Pharmacists can call 1-800-321-4576, from 8:30 a.m. to 4:30 p.m.
 Eastern time, Monday through Friday.
 
 Rx only.

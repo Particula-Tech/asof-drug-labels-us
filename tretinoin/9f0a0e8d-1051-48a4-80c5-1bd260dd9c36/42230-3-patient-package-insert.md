@@ -84,6 +84,8 @@ This should be enough to cover your affected area lightly.
 Be especially careful when applying RENOVA® (tretinoin cream) 0.02% to avoid your eyes, ears, nostrils, angles of the nose, and mouth.
 RENOVA® (tretinoin cream) 0.02% may cause severe redness, itching, burning, stinging, and peeling if used on these areas.
 
+Using too much RENOVA® (tretinoin cream) 0.02% may increase discomfort and skin redness and peeling.
+
 You may use cosmetics one hour after applying RENOVA® (tretinoin cream) 0.02%.
 If you do, be sure to clean your face before applying RENOVA® (tretinoin cream) 0.02% again.
 Skin moisturizers should be used at least every morning to protect the treated areas from dryness.
@@ -124,7 +126,7 @@ This leaflet summarizes the most important information about RENOVA® (tretinoin
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about RENOVA® (tretinoin cream) 0.02% that is written for health professionals.
 
-Storage: Store at 25° (77°F), excursions permitted to 15-30°C (59°-86°F).
+Storage: Store at 25°C (77°F), excursions permitted to 15-30°C (59°-86°F).
 
 Distributed by: Valeant Dermatology, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
 
