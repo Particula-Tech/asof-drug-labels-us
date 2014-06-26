@@ -17,4 +17,6 @@ Nervous system: Increased or decreased libido, headache, anxiety, depression, an
 
 Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions.
 
+Vascular disorders: Venous thromboembolism.
+
 Miscellaneous: Inflammation and pain at the site of intramuscular injection.

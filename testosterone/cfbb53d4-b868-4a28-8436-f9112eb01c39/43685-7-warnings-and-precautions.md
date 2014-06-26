@@ -7,6 +7,10 @@ Prolonged use of high doses of androgens (principally the 17-α alkyl-androgens)
 
 Geriatric patients treated with androgens may be at an increased risk of developing prostatic hypertrophy and prostatic carcinoma although conclusive evidence to support this concept is lacking.
 
+There have been postmarketing reports of venous thromboembolic events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), in patients using testosterone products, such as testosterone cypionate.
+Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE.
+If a venous thromboembolic event is suspected, discontinue treatment with testosterone cypionate and initiate appropriate workup and management.
+
 Edema, with or without congestive heart failure, may be a serious complication in patients with pre-existing cardiac, renal or hepatic disease.
 
 Gynecomastia may develop and occasionally persists in patients being treated for hypogonadism.
