@@ -1,0 +1,6 @@
+Manufactured by: Amneal Pharmaceuticals of NY Hauppauge, NY 11788
+
+Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+
+Rev.
+02-2014
