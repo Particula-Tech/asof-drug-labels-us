@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA091412"
+  ],
+  "inn": "paricalcitol",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-663-01",
+    "55111-663-05",
+    "55111-663-30",
+    "55111-663-79",
+    "55111-663-81",
+    "55111-664-01",
+    "55111-664-05",
+    "55111-664-30",
+    "55111-664-79",
+    "55111-664-81",
+    "55111-665-01",
+    "55111-665-05",
+    "55111-665-30",
+    "55111-665-79",
+    "55111-665-81"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "paricalcitol",
+      "name": "Paricalcitol"
+    }
+  ],
+  "setid": "aa1a80e9-8778-a03e-5d53-d4b6a6363169",
+  "source": "dailymed"
+}
