@@ -6,7 +6,7 @@ Twice-a-Day Dosage
 
 Diltiazem HCl Extended-release Capsules, USP 60 mg*
 
-Rx only 100 CAPSULES
+Rx only 100 Capsules
 
 *Each capsule contains diltiazem hydrochloride, USP 60 mg (equivalent to 55.1 mg as diltiazem).
 
@@ -23,9 +23,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM6060A7
+RM6060A8
 
 PRINCIPAL DISPLAY PANEL - 90 mg
 
@@ -35,7 +35,7 @@ Twice-a-Day Dosage
 
 Diltiazem HCl Extended-release Capsules, USP 90 mg*
 
-Rx only 100 CAPSULES
+Rx only 100 Capsules
 
 *Each capsule contains diltiazem hydrochloride, USP 90 mg (equivalent to 82.7 mg as diltiazem).
 
@@ -52,9 +52,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM6090A7
+RM6090A8
 
 PRINCIPAL DISPLAY PANEL - 120 mg
 
@@ -64,7 +64,7 @@ Twice-a-Day Dosage
 
 Diltiazem HCl Extended-release Capsules, USP 120 mg*
 
-Rx only 100 CAPSULES
+Rx only 100 Capsules
 
 *Each capsule contains diltiazem hydrochloride, USP 120 mg (equivalent to 110.3 mg as diltiazem).
 
@@ -81,6 +81,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM6120A7
+RM6120A8
