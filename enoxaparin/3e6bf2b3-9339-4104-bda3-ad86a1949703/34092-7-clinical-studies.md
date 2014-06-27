@@ -54,7 +54,7 @@ Table 16 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein
 | All Treated Hip Replacement Patients | 50 (100) | 50 (100) |
 | Treatment Failures |  |  |
 | Total DVT (%) | 5 (10)p value versus placebo = 0.0002 | 23 (46) |
-| Proximal DVT (%) | 1 (2)p value versus placebo = 0.0134 | 11 (22) |
+| Proximal DVT (%) | 1 (2)p value versus placebo = 0.0002 | 11 (22) |
 
 A double-blind, multicenter study compared three dosing regimens of enoxaparin sodium injection in patients with hip replacement.
 A total of 572 patients were randomized in the study and 568 patients were treated.
@@ -70,8 +70,8 @@ Table 17 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein
 | Indication | Dosing Regimen |  |  |
 | All Treated Hip Replacement Patients | 161 (100) | 208 (100) | 199 (100) |
 | Treatment Failures |  |  |  |
-| Total DVT (%) | 40 (25) | 22 (11)p value versus enoxaparin sodium injection 10 mg once a day = 0.0008 | 27 (14) |
-| Proximal DVT (%) | 17 (11) | 8 (4)p value versus enoxaparin sodium injection 10 mg once a day = 0.0168 | 9 (5) |
+| Total DVT (%) | 40 (25) | 22 (11)p value versus placebo = 0.0002 | 27 (14) |
+| Proximal DVT (%) | 17 (11) | 8 (4)p value versus placebo = 0.0002 | 9 (5) |
 
 There was no significant difference between the 30 mg every 12 hours and 40 mg once a day regimens.
 In a double-blind study, enoxaparin sodium injection 30 mg every 12 hours SC was compared to placebo in patients undergoing knee replacement surgery.
@@ -87,14 +87,14 @@ Table 18 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein
 | --- | --- | --- |
 | Indication | Dosing Regimen |  |
 | All Treated Total Knee Replacement Patients | 47 (100) | 52 (100) |
-| Treatment Failures | 5 (11)p value versus placebo = 0.0001 | 32 (62) |
-| Total DVT (%) | (95% CICI = Confidence Interval: 1 to 21) | (95% CI: 47 to 76) |
-| Proximal DVT (%) | 0 (0)p value versus placebo = 0.013 (95% Upper CLCL = Confidence Limit: 5) | 7 (13) (95% CI: 3 to 24) |
+| Treatment Failures | 5 (11)p value versus placebo = 0.0002 | 32 (62) |
+| Total DVT (%) | (95% CIp value versus placebo = 0.0002: 1 to 21) | (95% CI: 47 to 76) |
+| Proximal DVT (%) | 0 (0)p value versus placebo = 0.0002 (95% Upper CLp value versus placebo = 0.0002: 5) | 7 (13) (95% CI: 3 to 24) |
 
 Additionally, in an open-label, parallel group, randomized clinical study, enoxaparin sodium injection 30 mg every 12 hours SC in patients undergoing elective knee replacement surgery was compared to heparin 5000 U every 8 hours SC.
 A total of 453 patients were randomized in the study and all were treated.
 Patients ranged in age from 38 to 90 years (mean age 68.5 years) with 43.7% men and 56.3% women.
-Patients were 92.5% Caucasian, 5.3% Black and 0.6% others.
+Patients were 92.5% Caucasian, 5.3% Black, and 0.6% others.
 Treatment was initiated after surgery and continued up to 14 days.
 The incidence of deep vein thrombosis was significantly lower for enoxaparin sodium injection compared to heparin.
 
@@ -112,8 +112,8 @@ Table 19 Efficacy of Enoxaparin Sodium Injection in the Extended Prophylaxis of 
 | --- | --- | --- |
 | Indication (Post-Discharge) | Post-Discharge Dosing Regimen |  |
 | All Treated Extended Prophylaxis Patients | 90 (100) | 89 (100) |
-| Treatment Failures Total DVT (%) | 6 (7)p value versus placebo = 0.008 (95% CICI = Confidence Interval: 3 to 14) | 18 (20) (95% CI: 12 to 30) |
-| Proximal DVT (%) | 5 (6)p value versus placebo = 0.537 (95% CI: 2 to 13) | 7 (8) (95% CI: 3 to 16) |
+| Treatment Failures Total DVT (%) | 6 (7)p value versus placebo = 0.0002 (95% CIp value versus placebo = 0.0002: 3 to 14) | 18 (20) (95% CI: 12 to 30) |
+| Proximal DVT (%) | 5 (6)p value versus placebo = 0.0002 (95% CI: 2 to 13) | 7 (8) (95% CI: 3 to 16) |
 
 In a second study, patients undergoing hip replacement surgery were treated, while hospitalized, with enoxaparin sodium injection 40 mg SC, initiated up to 12 hours prior to surgery.
 All patients were examined for clinical signs and symptoms of venous thromboembolic (VTE) disease.
@@ -122,7 +122,7 @@ A total of 262 patients were randomized in the study double-blind phase and all 
 Patients ranged in age from 44 to 87 years (mean age 68.5 years) with 43.1% men and 56.9% women.
 Similar to the first study the incidence of DVT during extended prophylaxis was significantly lower for enoxaparin sodium injection compared to placebo, with a statistically significant difference in both total DVT (enoxaparin sodium injection 21 [16%] versus placebo 45 [34%]; p = 0.001) and proximal DVT (enoxaparin sodium injection 8 [6%] versus placebo 28 [21%]; p = <0.001).
 
-## 14.3 Prophylaxis of Deep Vein Thrombosis In Medical Patients with Severely Restricted Mobility During Acute Illness
+## 14.3 Prophylaxis of Deep Vein Thrombosis in Medical Patients with Severely Restricted Mobility During Acute Illness
 
 In a double blind multicenter, parallel group study, enoxaparin sodium injection 20 mg or 40 mg once a day SC was compared to placebo in the prophylaxis of deep vein thrombosis (DVT) in medical patients with severely restricted mobility during acute illness (defined as walking distance of <10 meters for ≤3 days).
 This study included patients with heart failure (NYHA Class III or IV); acute respiratory failure or complicated chronic respiratory insufficiency (not requiring ventilatory support): acute infection (excluding septic shock); or acute rheumatic disorder [acute lumbar or sciatic pain, vertebral compression (due to osteoporosis or tumor), acute arthritic episodes of the lower extremities].

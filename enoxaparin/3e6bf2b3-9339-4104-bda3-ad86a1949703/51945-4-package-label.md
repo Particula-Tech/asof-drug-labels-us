@@ -12,7 +12,7 @@ FOR SUBCUTANEOUS INJECTION
 
 AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
 
-Made in U.S.A. © 2008
+Made in U.S.A. © 2012
 
 Remove syringe by peeling lid completely off.
 Then gently lift syringe straight up by grasping middle of syringe.
@@ -114,7 +114,7 @@ FOR SUBCUTANEOUS INJECTION
 
 AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
 
-Made in U.S.A. © 2008
+Made in U.S.A. © 2012
 
 AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
 
@@ -167,7 +167,7 @@ FOR SUBCUTANEOUS INJECTION
 
 AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
 
-Made in U.S.A. © 2008
+Made in U.S.A. © 2012
 
 AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
 

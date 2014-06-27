@@ -26,5 +26,4 @@ Second International Low Molecular Weight Heparin Reference Standard]) per 0.1 m
 Enoxaparin Sodium Injection 150 mg/mL Concentration contains 15 mg enoxaparin sodium (approximate anti-Factor Xa activity of 1500 IU [with reference to the W.H.O.
 Second International Low Molecular Weight Heparin Reference Standard]) per 0.1 mL Water for Injection.
 
-The Enoxaparin Sodium Injection prefilled syringes and graduated prefilled syringes are preservative-free and intended for use only as a single-dose injection.
-[See Dosage and Administration (2) and How Supplied (16)].
+The Enoxaparin Sodium Injection prefilled syringes and graduated prefilled syringes are preservative-free and intended for use only as a single-dose injection [see Dosage and Administration (2) and How Supplied (16)].

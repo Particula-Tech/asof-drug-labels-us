@@ -31,8 +31,7 @@ The average duration of administration is 7 days; up to 17 days of Enoxaparin So
 
 Unstable Angina and Non-Q-Wave Myocardial Infarction: In patients with unstable angina or non-Q-wave myocardial infarction, the recommended dose of Enoxaparin Sodium Injection is 1 mg/kg administered SC every 12 hours in conjunction with oral aspirin therapy (100 to 325 mg once daily).
 Treatment with Enoxaparin Sodium Injection should be prescribed for a minimum of 2 days and continued until clinical stabilization.
-The usual duration of treatment is 2 to 8 days; up to 12.5 days of Enoxaparin Sodium Injection has been administered in clinical trials.
-[See Warnings and Precautions (5.2) and Clinical Studies (14.5)].
+The usual duration of treatment is 2 to 8 days; up to 12.5 days of Enoxaparin Sodium Injection has been administered in clinical trials [see Warnings and Precautions (5.2) and Clinical Studies (14.5)].
 
 Treatment of Acute ST-Segment Elevation Myocardial Infarction:
 
