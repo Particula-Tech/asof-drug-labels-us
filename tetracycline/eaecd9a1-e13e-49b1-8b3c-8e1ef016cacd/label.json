@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA050278"
+  ],
+  "inn": "tetracycline",
+  "labeler": "Heritage Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-487-01",
+    "23155-487-10",
+    "23155-488-01",
+    "23155-488-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tetracycline hcl",
+      "name": "Achromycin V"
+    }
+  ],
+  "setid": "eaecd9a1-e13e-49b1-8b3c-8e1ef016cacd",
+  "source": "dailymed"
+}
