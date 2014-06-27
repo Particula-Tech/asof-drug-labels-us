@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA065179"
+  ],
+  "inn": "azithromycin",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-398-14"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azithromycin monohydrate",
+      "name": "Azithromycin"
+    }
+  ],
+  "setid": "9ad099d5-5c57-4855-98a4-e03fb4629dbf",
+  "source": "dailymed"
+}
