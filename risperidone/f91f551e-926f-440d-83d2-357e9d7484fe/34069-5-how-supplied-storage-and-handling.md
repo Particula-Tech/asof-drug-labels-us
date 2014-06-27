@@ -48,7 +48,7 @@ NDC 63304-644-17 Box of 10 Unit-Dose pouches
 
 ## 16.2 Storage and Handling
 
-Risperidone orally disintegrating tablets should be stored at 20 o - 25o C (68o - 77o F) [See USP Controlled Room Temperature].
+Risperidone orally disintegrating tablets should be stored at 20° - 25° C (68° - 77° F) [See USP Controlled Room Temperature].
 
 Protect from light and moisture.
 

@@ -68,9 +68,7 @@ In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP
 Therefore, risperidone is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
 In drug interaction studies, risperidone did not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.
 
-In vitro studies demonstrated that drugs metabolized by other CYP isozymes, including 1A1,
-
-1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
+In vitro studies demonstrated that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
 
 Excretion
 

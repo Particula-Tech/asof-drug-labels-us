@@ -80,8 +80,9 @@ Pooled data from three double-blind, placebo-controlled schizophrenia studies an
 Table 2.
 Change in Random Glucose from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects with Schizophrenia or Bipolar Mania
 
-|  | Placebo | Risperidone 1 to 8 mg/day | > 8 to 16 mg/day |
+|  | Placebo | Risperidone |  |
 | --- | --- | --- | --- |
+|  |  | 1 to 8 mg/day | > 8 to 16 mg/day |
 |  |  | Mean change from baseline (mg/dL) |  |
 | n = 555 | n = 748 | n = 164 |  |
 | Serum Glucose | -1.4 | 0.8 | 0.6 |
@@ -95,9 +96,8 @@ Data from the placebo-controlled 3- to 6-week study in children and adolescents 
 Table 3.
 Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 years of age), Bipolar Mania (10 to 17 years of age), or Autistic Disorder (5 to 17 years of age)
 
-|  |  | Risperidone |
+|  | Placebo | Risperidone 0.5 to 6 mg/day |
 | --- | --- | --- |
-|  | Placebo | 0.5 to 6 mg/day |
 |  | Mean change from baseline (mg/dL) |  |
 |  | n = 76 | n = 135 |
 | Serum Glucose | -1.3 | 2.6 |
@@ -209,7 +209,7 @@ When treating pediatric patients with risperidone for any indication, weight gai
 
 ## 5.6 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D2 receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
+As with other drugs that antagonize dopamine D 2 receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
 Risperidone is associated with higher levels of prolactin elevation than other antipsychotic agents.
 
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.

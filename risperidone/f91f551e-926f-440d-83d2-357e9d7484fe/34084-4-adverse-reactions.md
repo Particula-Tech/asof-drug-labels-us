@@ -34,13 +34,14 @@ Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical
 
 Adult Patients with Schizophrenia
 
-Table 8 lists the adverse reactions reported in 1% or more of risperidone-treated adult patients with schizophrenia in three 4- to 8-week, double-blind, placebo-controlled trials.
+Table 8 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with schizophrenia in three 4- to 8-week, double-blind, placebo-controlled trials.
 
 Table 8.
 Adverse Reactions in ≥ 2% of Risperidone-Treated Adult Patients (and greater than placebo) with Schizophrenia in Double-Blind, Placebo-Controlled Trials
 
-|  | Percentage of Patients Reporting Reaction Risperidone |  |  |
+|  | Percentage of Patients Reporting Reaction |  |  |
 | --- | --- | --- | --- |
+|  | Risperidone |  |  |
 | System/Organ Class Adverse Reaction | 2 to 8 mg per day (N = 366) | > 8 to 16 mg per day (N = 198) | Placebo (N = 225) |
 | Cardiac Disorders |  |  |  |
 | Tachycardia | 1 | 3 | 0 |
@@ -85,7 +86,7 @@ Adverse Reactions in ≥ 2% of Risperidone-Treated Adult Patients (and greater t
 | Nasal congestion | 4 | 6 | 2 |
 | Dyspnea | 1 | 2 | 0 |
 | Epistaxis | < 1 | 2 | 0 |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |
+| Skin and Subcutaneous TissueDisorders |  |  |  |
 | Rash | 1 | 4 | 1 |
 | Dry skin | 1 | 3 | 0 |
 | Vascular Disorders |  |  |  |
@@ -101,6 +102,7 @@ Adverse Reactions in ≥ 5% of Risperidone-Treated Pediatric Patients (and great
 
 |  | Percentage of Patients Reporting Reaction Risperidone |  |  |
 | --- | --- | --- | --- |
+|  | Risperidone |  |  |
 | System/Organ Class Adverse Reaction | 1 to 3 mg per day (N = 55) | 4 to 6 mg per day (N = 51) | Placebo (N = 54) |
 | Gastrointestinal Disorders |  |  |  |
 | Salivary hypersecretion | 0 | 10 | 2 |
@@ -119,7 +121,7 @@ Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical
 
 Adult Patients with Bipolar Mania
 
-Table 10 lists the adverse reactions reported in 1% or more of risperidone-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
+Table 10 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
 
 Table 10.
 Adverse Reactions in ≥ 2% of Risperidone-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials
@@ -153,7 +155,7 @@ Adverse Reactions in ≥ 2% of Risperidone-Treated Adult Patients (and greater t
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| System/Organ ClassAdverse Reaction | Risperidone + Mood Stabilizer (N = 127) | Placebo + Mood Stabilizer (N = 126) |
+| System/Organ Class Adverse Reaction | Risperidone + Mood Stabilizer (N = 127) | Placebo + Mood Stabilizer (N = 126) |
 | Cardiac Disorders |  |  |
 | Palpitations | 2 | 0 |
 | Gastrointestinal Disorders |  |  |
@@ -188,6 +190,7 @@ Adverse Reactions in ≥ 5% of Risperidone-Treated Pediatric Patients (and great
 
 |  | Percentage of Patients Reporting Reaction Risperidone |  |  |
 | --- | --- | --- | --- |
+|  | Risperidone |  |  |
 | System/Organ Class Adverse Reaction | 0.5 to 2.5 mg per day (N = 50) | 3 to 6 mg per day (N = 61) | Placebo (N = 58) |
 | Eye Disorders |  |  |  |
 | Vision blurred | 4 | 7 | 0 |
@@ -416,4 +419,4 @@ In two controlled schizophrenia trials in adolescents (aged 13 to 17 years), the
 
 The following adverse reactions have been identified during postapproval use of risperidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.
+These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.

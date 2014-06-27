@@ -27,11 +27,11 @@ There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence,
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
 There was one report of a case of agenesis of the corpus callosum in an infant exposed to risperidone in utero.
-The causal relationship to risperidone therapy is unknown
+The causal relationship to risperidone therapy is unknown.
 
 Animal Data
 
-The teratogenic potential of risperidone was studied in three Segment II studies in Sprague- Dawley and Wistar rats (0.63 to 10 mg/kg or 0.4 to 6 times the maximum recommended human dose [MRHD] on a mg/m 2 body surface area basis) and in one Segment II study in New Zealand rabbits (0.31 to 5 mg/kg or 0.4 to 6 times the MRHD on a mg/m2 body surface area basis).
+The teratogenic potential of risperidone was studied in three Segment II studies in Sprague-Dawley and Wistar rats (0.63 to 10 mg/kg or 0.4 to 6 times the maximum recommended human dose [MRHD] on a mg/m 2 body surface area basis) and in one Segment II study in New Zealand rabbits (0.31 to 5 mg/kg or 0.4 to 6 times the MRHD on a mg/m2 body surface area basis).
 There were no teratogenic effects in offspring of rats or rabbits given 0.4 to 6 times the MRHD on a mg/m2 body surface area basis.
 In three reproductive studies in rats (two Segment III and a multigenerational study), there was an increase in pup deaths during the first 4 days of lactation at doses of 0.16 to 5 mg/kg or 0.1 to 3 times the MRHD on a mg/m2 body surface area basis.
 It is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams.
@@ -147,7 +147,6 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Renal Impairment
 
 In patients with moderate to severe (Clcr 59 to 15 mL/min) renal disease, clearance of the sum of risperidone and its active metabolite decreased by 60%, compared to young healthy subjects.
-
 Risperidone doses should be reduced in patients with renal disease [see Dosage and Administration (2.4)].
 
 ## 8.7 Hepatic Impairment

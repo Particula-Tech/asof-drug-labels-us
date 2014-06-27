@@ -19,5 +19,5 @@ Efficacy was established in one short-term trial in adults [see Clinical Studies
 
 ## 1.3 Irritability Associated with Autistic Disorder
 
-Risperidone orally disintegrating tablets are indicated for the treatment of irritability associated with autistic disorder, including symptoms of aggression towards others, deliberate self- injuriousness, temper tantrums, and quickly changing moods.
+Risperidone orally disintegrating tablets are indicated for the treatment of irritability associated with autistic disorder, including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
 Efficacy was established in 3 short-term trials in children and adolescents (ages 5 to 17 years) [see Clinical Studies (14.4)].

@@ -13,7 +13,7 @@ The table below summarizes the multiples of the human dose on a mg/m2 (mg/kg) ba
 
 |  |  |  | Multiples of Maximum Human Dose in mg/m2(mg/kg) |  |
 | --- | --- | --- | --- | --- |
-| Tumor Type | Species | Sex | LowestEffect Level | Highest No-Effect Level |
+| Tumor Type | Species | Sex | Lowest Effect Level | Highest No-Effect Level |
 | Pituitary adenomas | mouse | female | 0.75 (9.4) | 0.2 (2.4) |
 | Endocrine pancreas adenomas | rat | male | 1.5 (9.4) | 0.4 (2.4) |
 | Mammary gland adenocarcinomas | mouse | female | 0.2 (2.4) | none |
@@ -50,6 +50,4 @@ The above effects showed little or no reversibility in females after a 12 week d
 In a study in which juvenile rats were treated with oral risperidone from days 12 to 50 of age, a reversible impairment of performance in a test of learning and memory was observed in females only with a no-effect dose of 0.63 mg/kg/day.
 This dose produced plasma AUC levels of risperidone plus paliperidone about half those observed in humans at the MRHD.
 No other consistent effects on neurobehavioral or reproductive development were seen up to the highest testable dose of 1.25 mg/kg/day.
-This dose produced plasma AUC levels of risperidone plus
-
-paliperidone which were about two thirds of those observed in humans at the MRHD.
+This dose produced plasma AUC levels of risperidone plus paliperidone which were about two thirds of those observed in humans at the MRHD.
