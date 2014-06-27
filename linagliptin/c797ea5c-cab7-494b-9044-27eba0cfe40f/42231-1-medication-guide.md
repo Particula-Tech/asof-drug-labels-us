@@ -17,14 +17,16 @@ Before you start taking TRADJENTA:
 
 Tell your doctor if you have ever had:
 
-- Stop taking TRADJENTA and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
-  The pain may be felt going from your abdomen through to your back.
-  The pain may happen with or without vomiting.
-  These may be symptoms of pancreatitis.
+- 
   - inflammation of your pancreas (pancreatitis)
   - stones in your gallbladder (gallstones)
   - a history of alcoholism
   - high blood triglyceride levels
+
+- Stop taking TRADJENTA and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
+  The pain may be felt going from your abdomen through to your back.
+  The pain may happen with or without vomiting.
+  These may be symptoms of pancreatitis.
 
 What is TRADJENTA?
 
@@ -45,10 +47,11 @@ Who should not take TRADJENTA?
 Symptoms of a serious allergic reaction to TRADJENTA may include:
 
 - 
-  - skin rash, itching, flaking or peeling
-  - raised red patches on your skin (hives)
-  - swelling of your face, lips, tongue and throat that may cause difficulty in breathing or swallowing
-  - difficulty with swallowing or breathing
+  - 
+    - skin rash, itching, flaking or peeling
+    - raised red patches on your skin (hives)
+    - swelling of your face, lips, tongue and throat that may cause difficulty in breathing or swallowing
+    - difficulty with swallowing or breathing
 
 If you have any of these symptoms, stop taking TRADJENTA and contact your doctor or go to the nearest hospital emergency room right away.
 
@@ -93,21 +96,28 @@ What are the possible side effects of TRADJENTA?
 
 TRADJENTA may cause serious side effects, including:
 
-- See “What is the most important information I should know about TRADJENTA?”.
+- See “What is the most important information I should know about TRADJENTA?”
 - low blood sugar (hypoglycemia).
   If you take TRADJENTA with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you take TRADJENTA.
   Signs and symptoms of low blood sugar may include:
   - headache
-  - drowsiness
-  - weakness
   - dizziness
+  - drowsiness
   - confusion
+  - weakness
   - irritability
   - hunger
-  - fast heart beat
   - sweating
+  - fast heart beat
   - feeling jittery
+- Allergic (hypersensitivity) reactions.
+  Serious allergic reactions can happen after your first dose or up to 3 months after starting TRADJENTA.
+  Symptoms may include:
+  - swelling of your face, lips, throat, and other areas on your skin
+  - difficulty with swallowing or breathing
+  - raised, red areas on your skin (hives)
+  - skin rash, itching, flaking, or peeling If you have these symptoms, stop taking TRADJENTA and call your doctor or go to the nearest hospital emergency room right away.
 
 The most common side effects of TRADJENTA include:
 
@@ -169,12 +179,12 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
+Revised: May 2014
+
 *The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright 2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5253NF192013 10007261/07
+IT5253PE302014 10007261/08
 
-IT5437K 10007237/07
-
-Revised: June 2013
+IT5437L 10007237/08

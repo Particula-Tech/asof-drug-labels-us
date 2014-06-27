@@ -117,7 +117,7 @@ Based on these results and in vivo drug interaction studies, linagliptin is cons
 
 ### In vivo Assessment of Drug Interactions
 
-Inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations.
+Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations.
 For patients requiring use of such drugs, an alternative to linagliptin is strongly recommended.
 In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp and organic cationic transporter (OCT).
 No dose adjustment of TRADJENTA is recommended based on results of the described pharmacokinetic studies.
@@ -127,7 +127,7 @@ Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.0 |  |
 | --- | --- | --- | --- | --- |
 | AUC† | Cmax |  |  |  |
-| No dosing adjustments required for TRADJENTA when given with following coadministered drugs: |  |  |  |  |
+| No dosing adjustments required for TRADJENTA when given with the following coadministered drugs: |  |  |  |  |
 | Metformin | 850 mg TID | 10 mg QD | 1.20 | 1.03 |
 | Glyburide | 1.75 mg# | 5 mg QD | 1.02 | 1.01 |
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |

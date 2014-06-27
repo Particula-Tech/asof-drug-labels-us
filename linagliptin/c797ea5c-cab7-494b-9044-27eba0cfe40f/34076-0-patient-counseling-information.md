@@ -14,6 +14,9 @@ Instruct patients to discontinue TRADJENTA promptly and contact their physician 
 
 Inform patients that the incidence of hypoglycemia is increased when TRADJENTA is added to a sulfonylurea or insulin and that a lower dose of the sulfonylurea or insulin may be required to reduce the risk of hypoglycemia.
 
+Inform patients that serious allergic reactions, such as anaphylaxis, angioedema, and exfoliative skin conditions, have been reported during postmarketing use of TRADJENTA.
+If symptoms of allergic reactions (such as rash, skin flaking or peeling, urticaria, swelling of the skin, or swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking TRADJENTA and seek medical advice promptly.
+
 Instruct patients to take TRADJENTA only as prescribed.
 If a dose is missed, advise patients not to double their next dose.
 
@@ -31,8 +34,8 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-Copyright 2013 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5253NF192013 10007261/07
+IT5253PE302014 10007261/08
 
-IT5437K 10007237/07
+IT5437L 10007237/08
