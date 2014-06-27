@@ -1,6 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 SPORANOX® (itraconazole) Capsules should be taken with a full meal to ensure maximal absorption.
+SPORANOX® (itraconazole) Capsules must be swallowed whole.
 
 SPORANOX® Capsules is a different preparation than SPORANOX® Oral Solution and should not be used interchangeably.
 
@@ -36,11 +37,11 @@ Fingernails only: The recommended dosing regimen is 2 treatment pulses, each con
 (400 mg/day) for 1 week.
 The pulses are separated by a 3-week period without SPORANOX®.
 
-## Use in Patients with Renal Impairment
+## Use in Patients with Renal Impairment:
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 Caution should be exercised when this drug is administered in this patient population.
-(See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS for further information.)
+(See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS.)
 
 ## Use in Patients with Hepatic Impairment
 
