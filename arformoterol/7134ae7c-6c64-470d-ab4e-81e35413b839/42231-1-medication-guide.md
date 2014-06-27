@@ -1,8 +1,4 @@
-MEDICATION GUIDE
-
-BROVANA® [Brōvă´-nah]
-
-(arformoterol tartrate) Inhalation Solution
+MEDICATION GUIDE BROVANA® [Brō vă´-nah] (arformoterol tartrate) Inhalation Solution
 
 BROVANA is only for use with a nebulizer.
 

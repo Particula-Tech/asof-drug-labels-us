@@ -15,7 +15,7 @@ An opened ready-to-use vial should be used right away.
 2. Carefully twist open the top of the ready-to-use vial and use it right away (Figure 1).
 3. Squeeze all of the medicine from the ready-to-use vial into the nebulizer medicine cup (reservoir) (Figure 2).
 4. Connect the nebulizer reservoir to the mouthpiece (Figure 3) or face mask (Figure 4).
-   Figure 3Figure 4
+   Figure 3 Figure 4
 5. Connect the nebulizer to the compressor (Figure 5).
 6. Sit in a comfortable, upright position.
    Place the mouthpiece in your mouth (Figure 6) (or put on the face mask) and turn on the compressor.
@@ -27,7 +27,9 @@ Rx Only
 
 This Medication Guide has been approved by the Food and Drug Administration.
 
-SUNOVION Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
+SUNOVION
+
+Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
 
 © 2011, 2014 Sunovion Pharmaceuticals Inc. All rights reserved.
 

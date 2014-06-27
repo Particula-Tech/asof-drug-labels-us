@@ -44,7 +44,9 @@ FDA-Approved Medication Guide
 
 See the accompanying Medication Guide.
 
-SUNOVION Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
+SUNOVION
+
+Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
 
 © 2011, 2014 Sunovion Pharmaceuticals Inc. All rights reserved.
 
