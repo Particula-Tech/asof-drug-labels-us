@@ -2,96 +2,90 @@
 
 ## Pharmacokinetics and Metabolism
 
-NOTE: The plasma concentrations reported below were measured by high-performance liquid chromatography (HPLC) specific for itraconazole.
-When itraconazole in plasma is measured by a bioassay, values reported may be higher than those obtained by HPLC due to the presence of the bioactive metabolite, hydroxyitraconazole.
-(See MICROBIOLOGY.)
+### Itraconazole
 
-The absolute bioavailability of itraconazole administered as a non-marketed solution formulation under fed conditions was 55% in 6 healthy male volunteers.
-However, the bioavailability of SPORANOX® (itraconazole) Oral Solution is increased under fasted conditions reaching higher maximum plasma concentrations (Cmax) in a shorter period of time.
-In 27 healthy male volunteers, the steady-state area under the plasma concentration versus time curve (AUC0–24h) of itraconazole (SPORANOX® Oral Solution, 200 mg daily for 15 days) under fasted conditions was 131 ± 30% of that obtained under fed conditions.
-Therefore, unlike SPORANOX® Capsules, it is recommended that SPORANOX® Oral Solution be administered without food.
-Presented in the table below are the steady-state (Day 15) pharmacokinetic parameters for itraconazole and hydroxyitraconazole (SPORANOX® Oral Solution) under fasted and fed conditions:
+#### General Pharmacokinetic Characteristics
 
-| Fasted | Fed | Fasted | Fed |  |
-| --- | --- | --- | --- | --- |
-|  | Itraconazole |  | Hydroxyitraconazole |  |
-| Cmax (ng/mL) | 1963 ± 601mean ± standard deviation | 1435 ± 477 | 2055 ± 487 | 1781 ± 397 |
-| Tmax (hours) | 2.5 ± 0.8 | 4.4 ± 0.7 | 5.3 ± 4.3 | 4.3 ± 1.2 |
-| AUC0–24h (ng∙h/mL) | 29271 ± 10285 | 22815 ± 7098 | 45184 ± 10981 | 38823 ± 8907 |
-| t1/2 (hours) | 39.7 ± 13 | 37.4 ± 13 | 27.3 ± 13 | 26.1 ± 10 |
+Peak plasma concentrations are reached within 2.5 hours following administration of the oral solution.
+As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing.
+Steady-state concentrations are generally reached within about 15 days, with Cmax and AUC values 4 to 7-fold higher than those seen after a single dose.
+Steady-state Cmax values of about 2 μg/ml are reached after oral administration of 200 mg once daily.
+The terminal half-life of itraconazole generally ranges from 16 to 28 hours after single dose and increases to 34 to 42 hours with repeated dosing.
+Once treatment is stopped, itraconazole plasma concentrations decrease to an almost undetectable concentration within 7 to 14 days, depending on the dose and duration of treatment.
+Itraconazole mean total plasma clearance following intravenous administration is 278 ml/min.
+Itraconazole clearance decreases at higher doses due to saturable hepatic metabolism.
 
-The bioavailability of SPORANOX® Oral Solution relative to SPORANOX® Capsules was studied in 30 healthy male volunteers who received 200 mg of itraconazole as the oral solution and capsules under fed conditions.
-The AUC0–∞ from SPORANOX® Oral Solution was 149 ± 68% of that obtained from SPORANOX® Capsules; a similar increase was observed for hydroxyitraconazole.
-In addition, a cross study comparison of itraconazole and hydroxyitraconazole pharmacokinetics following the administration of single 200 mg doses of SPORANOX® Oral Solution (under fasted conditions) or SPORANOX® Capsules (under fed conditions) indicates that when these two formulations are administered under conditions which optimize their systemic absorption, the bioavailability of the solution relative to capsules is expected to be increased further.
-Therefore, it is recommended that SPORANOX® Oral Solution and SPORANOX® Capsules not be used interchangeably.
-The following table contains pharmacokinetic parameters for itraconazole and hydroxyitraconazole following single 200 mg doses of SPORANOX® Oral Solution (n=27) or SPORANOX® Capsules (n=30) administered to healthy male volunteers under fasted and fed conditions, respectively:
+#### Absorption
 
-| Oral Solution fasted | Capsules fed | Oral Solution fasted | Capsules fed |  |
-| --- | --- | --- | --- | --- |
-|  | Itraconazole |  | Hydroxyitraconazole |  |
-| Cmax (ng/mL) | 544 ± 213mean ± standard deviation | 302 ± 119 | 622 ± 116 | 504 ± 132 |
-| Tmax (hours) | 2.2 ± 0.8 | 5 ± 0.8 | 3.5 ± 1.2 | 5 ± 1 |
-| AUC0–24h (ng∙h/mL) | 4505 ± 1670 | 2682 ± 1084 | 9552 ± 1835 | 7293 ± 2144 |
+Itraconazole is rapidly absorbed after administration of the oral solution.
+Peak plasma concentrations of itraconazole are reached within 2.5 hours following administration of the oral solution under fasting conditions.
+The observed absolute bioavailability of itraconazole under fed conditions is about 55% and increases by 30% when the oral solution is taken in fasting conditions.
+Itraconazole exposure is greater with the oral solution than with the capsule formulation when the same dose of drug is given.
+(see WARNINGS)
 
-The plasma protein binding of itraconazole is 99.8% and that of hydroxyitraconazole is 99.5%.
-Following intravenous administration, the volume of distribution of itraconazole averaged 796 ± 185 L.
+#### Distribution
 
-Itraconazole is metabolized predominately by the cytochrome P450 3A4 isoenzyme system (CYP3A4), resulting in the formation of several metabolites, including hydroxyitraconazole, the major metabolite.
-Results of a pharmacokinetics study suggest that itraconazole may undergo saturable metabolism with multiple dosing.
-Fecal excretion of the parent drug varies between 3–18% of the dose.
-Renal excretion of the parent drug is less than 0.03% of the dose.
-About 40% of the dose is excreted as inactive metabolites in the urine.
-No single excreted metabolite represents more than 5% of a dose.
-Itraconazole total plasma clearance averaged 381 ± 95 mL/minute following intravenous administration.
-(See CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions for more information.)
+Most of the itraconazole in plasma is bound to protein (99.8%), with albumin being the main binding component (99.6% for the hydroxy-metabolite).
+It has also a marked affinity for lipids.
+Only 0.2% of the itraconazole in plasma is present as free drug.
+Itraconazole is distributed in a large apparent volume in the body (>700 L), suggesting extensive distribution into tissues.
+Concentrations in lung, kidney, liver, bone, stomach, spleen and muscle were found to be two to three times higher than corresponding concentrations in plasma, and the uptake into keratinous tissues, skin in particular, up to four times higher.
+Concentrations in the cerebrospinal fluid are much lower than in plasma.
+
+#### Metabolism
+
+Itraconazole is extensively metabolized by the liver into a large number of metabolites.
+In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.
+The main metabolite is hydroxy-itraconazole, which has in vitro antifungal activity comparable to itraconazole; trough plasma concentrations of this metabolite are about twice those of itraconazole.
+
+#### Excretion
+
+Itraconazole is excreted mainly as inactive metabolites in urine (35%) and in feces (54%) within one week of an oral solution dose.
+Renal excretion of itraconazole and the active metabolite hydroxy-itraconazole account for less than 1% of an intravenous dose.
+Based on an oral radiolabeled dose, fecal excretion of unchanged drug ranges from 3% to 18% of the dose.
 
 ## Special Populations
 
-Pediatrics
-
-The pharmacokinetics of SPORANOX® Oral Solution were studied in 26 pediatric patients requiring systemic antifungal therapy.
-Patients were stratified by age: 6 months to 2 years (n=8), 2 to 5 years (n=7) and 5 to 12 years (n=11), and received itraconazole oral solution 5 mg/kg once daily for 14 days.
-Pharmacokinetic parameters at steady-state (Day 14) were not significantly different among the age strata and are summarized in the table below for all 26 patients:
-
-|  | Itraconazole | Hydroxyitraconazole |
-| --- | --- | --- |
-| Cmax (ng/mL) | 582.5 ± 382.4mean ± standard deviation | 692.4 ± 355.0 |
-| Cmin (ng/mL) | 187.5 ± 161.4 | 403.8 ± 336.1 |
-| AUC0–24h (ng∙h/mL) | 7706.7 ± 5245.2 | 13356.4 ± 8942.4 |
-| t1/2 (hours) | 35.8 ± 35.6 | 17.7 ± 13.0 |
-
-Renal Insufficiency
+### Renal Impairment
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
-A pharmacokinetic study using a single 200-mg dose of itraconazole (four 50-mg capsules) was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
+A pharmacokinetic study using a single 200-mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
 In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
-This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0–8).
+This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0–8h).
 Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
-Caution should be exercised when the drug is administered in this patient population.
+
+After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50–79 ml/min), moderate (defined in this study as CrCl 20–49 ml/min), and severe renal impairment (defined in this study as CrCl <20 ml/min) were similar to that in healthy subjects (range of means 42–49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
+Overall exposure to itraconazole, based on AUC, was decreased in patients with moderate and severe renal impairment by approximately 30% and 40%, respectively, as compared with subjects with normal renal function.
+
+Data are not available in renally impaired patients during long-term use of itraconazole.
+Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-itraconazole.
 (See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
 
-Hepatic Insufficiency
+### Hepatic Impairment
 
 Itraconazole is predominantly metabolized in the liver.
-Patients with impaired hepatic function should be carefully monitored when taking itraconazole.
-A pharmacokinetic study using a single oral 100 mg capsule dose of itraconazole was conducted in 6 healthy and 12 cirrhotic subjects.
+A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100-mg dose of itraconazole as capsule.
 A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
-The prolonged elimination half-life of itraconazole observed in the single oral dose clinical trial with itraconazole capsules in cirrhotic patients should be considered when deciding to initiate therapy with other medications metabolized by CYP3A4.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
-(See BOX WARNING, CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
+(See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
 
-Decreased Cardiac Contractility
+### Decreased Cardiac Contractility
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 If signs or symptoms of congestive heart failure appear during administration of SPORANOX® Oral Solution, monitor carefully and consider other treatment alternatives which may include discontinuation of SPORANOX® Oral Solution administration.
-(See WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information.)
+(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information.)
 
-Cystic Fibrosis
+### Cystic Fibrosis
 
 Seventeen cystic fibrosis patients, ages 7 to 28 years old, were administered itraconazole oral solution 2.5 mg/kg b.i.d. for 14 days in a pharmacokinetic study.
 Sixteen patients completed the study.
 Steady state trough concentrations >250 ng/mL were achieved in 6 out of 11 patients ≥16 years of age but in none of the 5 patients <16 years of age.
 Large variability was observed in the pharmacokinetic data (%CV for trough concentrations = 98% and 70% for ≥16 and <16 years, respectively; %CV for AUC = 75% and 58% for ≥16 and <16 years, respectively).
 If a patient with cystic fibrosis does not respond to SPORANOX® Oral Solution, consideration should be given to switching to alternative therapy.
+
+### Hydroxypropyl-ß-Cyclodextrin
+
+The oral bioavailability of hydroxypropyl-β-cyclodextrin given as a solubilizer of itraconazole in oral solution is on average lower than 0.5% and is similar to that of hydroxypropyl-β-cyclodextrin alone.
+This low oral bioavailability of hydroxypropyl-β-cyclodextrin is not modified by the presence of food and is similar after single and repeated administrations.

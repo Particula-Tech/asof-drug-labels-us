@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS
 
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
 SPORANOX® has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
@@ -53,29 +55,70 @@ Edema, hypokalemia and menstrual disorders have been reported in clinical trials
 
 A comparative clinical trial in patients who received intravenous itraconazole followed by SPORANOX® Oral Solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/SPORANOX® Oral Solution treatment arm which are not listed above in the subsection "Adverse Events Reported in Oropharnyngeal or Esophageal Candidiasis Trials" or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia, tremor, and pulmonary infiltration.
 
+In addition, the following adverse drug reactions were reported in patients who participated in SPORANOX® Oral Solution clinical trials:
+
+Cardiac Disorders: cardiac failure;
+
+General Disorders and Administration Site Conditions: edema;
+
+Hepatobiliary Disorders: hepatic failure, hyperbilirubinemia;
+
+Metabolism and Nutrition Disorders: hypokalemia;
+
+Reproductive System and Breast Disorders: menstrual disorder
+
+The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX® Capsules and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
+
+Cardiac Disorders: left ventricular failure;
+
+Gastrointestinal Disorders: gastrointestinal disorder;
+
+General Disorders and Administration Site Conditions: face edema;
+
+Hepatobiliary Disorders: jaundice, hepatic function abnormal;
+
+Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, gamma-glutamyltransferase increased, urine analysis abnormal;
+
+Metabolism and Nutrition Disorders: hyperglycemia, hyperkalemia;
+
+Nervous System Disorders: somnolence;
+
+Psychiatric Disorders: confusional state;
+
+Renal and Urinary Disorders: renal impairment;
+
+Respiratory, Thoracic and Mediastinal Disorders: dysphonia;
+
+Skin and Subcutaneous Tissue Disorders: rash erythematous;
+
+Vascular Disorders: hypertension
+
+In addition, the following adverse drug reaction was reported in children only who participated in SPORANOX® Oral Solution clinical trials: mucosal inflammation.
+
 ## Post-marketing Experience
 
-Adverse drug reactions that have been identified during post-approval use of SPORANOX® (all formulations) are listed in the table below.
+Adverse drug reactions that have been first identified during post-marketing experience with SPORANOX® (all formulations) are listed in the table below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Postmarketing Reports of Adverse Drug Reactions
+Table 3: Postmarketing Reports of Adverse Drug Reactions
 
-| Blood and lymphatic system disorders: | Leukopenia, neutropenia, thrombocytopenia |
+| Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
-| Immune system disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
-| Metabolism and nutrition disorders: | Hypertriglyceridemia, hypokalemia |
-| Nervous system disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, headache, dizziness |
-| Eye disorders: | Visual disturbances, including vision blurred and diplopia |
-| Ear and labyrinth disorders: | Transient or permanent hearing loss, tinnitus |
-| Cardiac disorders: | Congestive heart failure |
-| Respiratory, thoracic and mediastinal disorders: | Pulmonary edema, dyspnea |
-| Gastrointestinal disorders: | Pancreatitis, abdominal pain, vomiting, dyspepsia, nausea, diarrhea, constipation, dysgeusia |
-| Hepato-biliary disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis, reversible increases in hepatic enzymes |
-| Skin and subcutaneous tissue disorders: | Toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, exfoliative dermatitis, leukocytoclastic vasculitis, erythema multiforme, alopecia, photosensitivity, rash, urticaria, pruritus |
-| Musculoskeletal and connective tissue disorders: | Myalgia, arthralgia |
-| Renal and urinary disorders: | Urinary incontinence, pollakiuria |
-| Reproductive system and breast disorders: | Menstrual disorders, erectile dysfunction |
-| General disorders and administration site conditions: | Peripheral edema, pyrexia |
+| Immune System Disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
+| Metabolism and Nutrition Disorders: | Hypertriglyceridemia |
+| Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia |
+| Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
+| Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
+| Cardiac Disorders: | Congestive heart failure |
+| Respiratory, Thoracic and Mediastinal Disorders: | Pulmonary edema |
+| Gastrointestinal Disorders: | Pancreatitis |
+| Hepatobiliary Disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis, reversible increases in hepatic enzymes |
+| Skin and Subcutaneous Tissue Disorders: | Toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, erythema multiforme, exfoliative dermatitis, leukocytoclastic vasculitis, alopecia, photosensitivity, urticaria |
+| Musculoskeletal and Connective Tissue Disorders: | Arthralgia |
+| Renal and Urinary Disorders: | Urinary incontinence, pollakiuria |
+| Reproductive System and Breast Disorders: | Erectile dysfunction |
+| General Disorders and Administration Site Conditions: | Peripheral edema |
+| Investigations: | Blood creatine phosphokinase increased |
 
 There is limited information on the use of SPORANOX® during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.

@@ -20,14 +20,14 @@ SPORANOX® Oral Solution and SPORANOX® Capsules should not be used interchangea
 Patients should be instructed to take SPORANOX® Oral Solution without food, if possible.
 Only SPORANOX® Oral Solution has been demonstrated effective for oral and/or esophageal candidiasis.
 
-Use in Patients with Renal Impairment
+## Use in Patients with Renal Impairment
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 Caution should be exercised when this drug is administered in this patient population.
 (See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS.)
 
-Use in Patients with Hepatic Impairment
+## Use in Patients with Hepatic Impairment
 
 Limited data are available on the use of oral itraconazole in patients with hepatic impairment.
 Caution should be exercised when this drug is administered in this patient population.
-(See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS.)
+(See CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, and PRECAUTIONS.)

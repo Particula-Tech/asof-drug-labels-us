@@ -1,7 +1,8 @@
 # OVERDOSAGE
 
 Itraconazole is not removed by dialysis.
-In the event of accidental overdosage, supportive measures, including gastric lavage with sodium bicarbonate, should be employed.
+In the event of accidental overdosage, supportive measures should be employed.
+Activated charcoal may be given if considered appropriate.
 
-There are limited data on the outcomes of patients ingesting high doses of itraconazole.
-In patients taking either 1000 mg of SPORANOX® (itraconazole) Oral Solution or up to 3000 mg of SPORANOX® Capsules, the adverse event profile was similar to that observed at recommended doses.
+In general, adverse events reported with overdose have been consistent with adverse drug reactions already listed in this package insert for itraconazole.
+(See ADVERSE REACTIONS.)

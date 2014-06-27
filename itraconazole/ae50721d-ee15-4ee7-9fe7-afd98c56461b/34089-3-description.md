@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-SPORANOX® is the brand name for itraconazole, a synthetic triazole antifungal agent.
+SPORANOX® is the brand name for itraconazole, an azole antifungal agent.
 Itraconazole is a 1:1:1:1 racemic mixture of four diastereomers (two enantiomeric pairs), each possessing three chiral centers.
 It may be represented by the following structural formula and nomenclature:
 
