@@ -311,4 +311,4 @@ For more information call 1-866-850-2876.
 Active ingredient: ciprofloxacin Inactive ingredients: microcrystalline cellulose, sodium starch glycolate, povidone, colloidal silicon dioxide, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 08/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2014
