@@ -1,8 +1,8 @@
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Methodose™ Oral Concentrate 15 Liter Bottle Label
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Methodose™ Oral Concentrate 1 Liter Bottle Label
 
-NDC 0406-0527-15
+NDC 0406-0527-10
 
-15 Liter (15,000 mL)
+1 Liter (1,000 mL)
 
 Methadose™ Oral Concentrate (methadone hydrochloride oral concentrate USP)
 
@@ -15,6 +15,8 @@ Methadose™ also contains Artificial Cherry Flavor, Citric Acid, FD&C Red 40, D
 
 Rx Only
 
+DO NOT USE IF SEAL AROUND BOTTLE CAP IS BROKEN OR MISSING
+
 USUAL DOSE: To be determined by the physician; to be diluted with water or other liquid to 30 mL (1 fl. oz.) or more before oral administration.
 
 Preserve in tight containers, protected from light.
@@ -22,13 +24,7 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Mallinckrodt
 
-L00M72 Rev 10/2009
-
-Lot Number
-
-Expiration Date
-
-Control Number
+L00M07 Rev 10/2009
 
 Mallinckrodt Inc., Hazelwood, MO 63042 USA
 
@@ -36,11 +32,11 @@ COVIDIEN™
 
 Made in USA
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Methodose™ Sugar-Free Oral Concentrate 15 Liter Bottle Label
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Methodose™ Sugar-Free Oral Concentrate 1 Liter Bottle Label
 
-NDC 0406-8725-15
+NDC 0406-8725-10
 
-15 Liter (15,000 mL)
+1 Liter (1,000 mL)
 
 Methadose™ Sugar-Free Oral Concentrate (methadone hydrochloride oral concentrate USP) dye-free, sugar-free, unflavored
 
@@ -53,6 +49,8 @@ Methadose™ Sugar-Free Oral Concentrate also contains Citric Acid Anhydrous, Pu
 
 Rx Only
 
+DO NOT USE IF SEAL AROUND BOTTLE CAP IS BROKEN OR MISSING.
+
 USUAL DOSE: To be determined by the physician; to be diluted with water or other liquid to 30 mL (1 fl. oz.) or more before oral administration.
 
 Preserve in tight containers, protected from light.
@@ -60,13 +58,7 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Mallinckrodt
 
-L00M73 Rev 10/2009
-
-Lot Number
-
-Expiration Date
-
-Control Number
+L00M22 Rev 10/2009
 
 Mallinckrodt Inc., Hazelwood, MO 63042 USA
 

@@ -5,6 +5,8 @@
 Serious overdosage of methadone is characterized by respiratory depression (a decrease in respiratory rate and/or tidal volume, Cheyne-Stokes respiration, cyanosis), extreme somnolence progressing to stupor or coma, maximally constricted pupils, skeletal-muscle flaccidity, cold and clammy skin, and sometimes, bradycardia and hypotension.
 In severe overdosage, particularly by the intravenous route, apnea, circulatory collapse, cardiac arrest, and death may occur.
 
+There have been post-marketing literature cases of toxic leukoencephalopathy with methadone overdose.
+
 ## Treatment
 
 Primary attention should be given to the reestablishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation.
