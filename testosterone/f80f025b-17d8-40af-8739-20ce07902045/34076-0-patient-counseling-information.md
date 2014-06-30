@@ -10,7 +10,7 @@ Advise patients of the following:
   The majority of these events lasted a few minutes and resolved with supportive measures; however, some lasted up to several hours and some required emergency care and/or hospitalization.
 - Episodes of anaphylaxis, including life-threatening reactions, have also been reported to occur following the injection of intramuscular testosterone undecanoate.
 - Both serious POME reactions and anaphylaxis can occur after any injection of testosterone undecanoate during the course of therapy, including after the first dose.
-- Advise the patient to read the Aveed REMS information sheet titled "What You Need to Know ABout AVEEDTM Treatment: A Patient Guide.
+- Advise the patient to read the Aveed REMS information sheet titled "What You Need to Know About AVEEDTM Treatment: A Patient Guide.
 - Instruct patients to remain at the healthcare setting for 30 minutes after each Aveed injection.
 
 ## 17.2 Men with Known or Suspected Carcinoma of the Prostate or Breast
@@ -38,4 +38,4 @@ AVEED is a trademark of Endo Pharmaceuticals Inc.
 
 © 2014 Endo Pharmaceuticals Solutions Inc. All rights reserved.
 
-112437
+84193240

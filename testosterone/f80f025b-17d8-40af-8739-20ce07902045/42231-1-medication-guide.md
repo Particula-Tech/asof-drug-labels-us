@@ -124,8 +124,9 @@ o nausea or vomiting o yellowing of your skin or whites of your eyes o dark urin
   This may cause serious problems for people who have heart, kidney, or liver disease.
 - enlarged or painful breasts.
 - have problems breathing while you sleep (sleep apnea).
-- blood clots in the legs.
-  This can include pain, swelling or redness of your legs.
+- blood clots in the legs or lungs.
+  Signs and symptoms of a blood clot in your leg can include pain, swelling or redness.
+  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
 
 Call your doctor right away if you have any of the serious side effects listed above.
 
@@ -172,6 +173,6 @@ AVEED is a trademark of Endo Pharmaceuticals Inc.
 
 © 2014 Endo Pharmaceuticals Solutions Inc. All rights reserved.
 
-Approved: 3/2014
+Approved: 06/2014
 
-112438
+84215899

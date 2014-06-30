@@ -42,15 +42,21 @@ It would be appropriate to re-evaluate the hematocrit 3 to 6 months after starti
 If hematocrit becomes elevated, stop therapy until hematocrit decreases to an acceptable level.
 An increase in red blood cell mass may increase the risk of thromboembolic events.
 
-## 5.5 Use in Women
+## 5.5 Venous Thromboembolism
+
+There have been postmarketing reports of venous thromboembolic events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), in patients using testosterone products, such as Aveed.
+Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE.
+If a venous thromboembolic event is suspected, discontinue treatment with Aveed and initiate appropriate workup and management.
+
+## 5.6 Use in Women
 
 Due to lack of controlled evaluations in women and potential virilizing effects, Aveed is not indicated for use in women.
 
-## 5.6 Potential for Adverse Effects on Spermatogenesis
+## 5.7 Potential for Adverse Effects on Spermatogenesis
 
 With large doses of exogenous androgens, including Aveed, spermatogenesis may be suppressed through feedback inhibition of pituitary follicle- stimulating hormone (FSH) which could possibly lead to adverse effects on semen parameters including sperm count.
 
-## 5.7 Hepatic Adverse Effects
+## 5.8 Hepatic Adverse Effects
 
 Prolonged use of high doses of orally active 17-alpha-alkyl androgens (e.g., methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
 Peliosis hepatis can be a life-threatening or fatal complication.
@@ -59,30 +65,30 @@ Aveed is not known to produce these adverse effects.
 Nonetheless, patients should be instructed to report any signs or symptoms of hepatic dysfunction (e.g., jaundice).
 If these occur, promptly discontinue Aveed while the cause is evaluated.
 
-## 5.8 Edema
+## 5.9 Edema
 
 Androgens, including Aveed, may promote retention of sodium and water.
 Edema with or without congestive heart failure may be a serious complication in patients with preexisting cardiac, renal, or hepatic disease.
 In addition to discontinuation of the drug, diuretic therapy may be required.
 
-## 5.9 Gynecomastia
+## 5.10 Gynecomastia
 
 Gynecomastia occasionally develops and occasionally persists in patients being treated for hypogonadism [see Adverse Reactions (6.1)].
 
-## 5.10 Sleep Apnea
+## 5.11 Sleep Apnea
 
 The treatment of hypogonadal men with testosterone products may potentiate sleep apnea in some patients, especially those with risk factors such as obesity or chronic lung diseases.
 
-## 5.11 Lipids
+## 5.12 Lipids
 
 Changes in serum lipid profile may require dose adjustment of lipid lowering drugs or discontinuation of testosterone therapy.
 
-## 5.12 Hypercalcemia
+## 5.13 Hypercalcemia
 
 Androgens, including Aveed, should be used with caution in cancer patients at risk of hypercalcemia (and associated hypercalciuria).
 Regular monitoring of serum calcium concentrations is recommended in these patients.
 
-## 5.13 Decreased Thyroxine-binding Globulin
+## 5.14 Decreased Thyroxine-binding Globulin
 
 Androgens, including Aveed, may decrease concentrations of thyroxine-binding globulin, resulting in decreased total T4 serum concentrations and increased resin uptake of T3 and T4.
 Free thyroid hormone concentrations remain unchanged, however, and there is no clinical evidence of thyroid dysfunction.
