@@ -17,13 +17,13 @@ The patient’s ability to concentrate and react may be impaired as a result of 
 This may present a risk in situations where these abilities are especially important, such as driving or operating machinery.
 Therefore, these activities should be avoided until the patient has had a meal with oral carbohydrates.
 
-Date of issue: February, 2013
+Date of issue: May, 2014
 
-Version: 4
+Version: 5
 
 GlucaGen® and HypoKit® are registered trademarks of Novo Nordisk A/S
 
-© 1998-2013 Novo Nordisk
+© 1998-2014 Novo Nordisk
 
 For information contact:
 

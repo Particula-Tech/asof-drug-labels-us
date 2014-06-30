@@ -5,7 +5,7 @@
 GlucaGen is supplied as a sterile, lyophilized white powder in a vial, alone, or accompanied by Sterile Water for Reconstitution also in a vial (Diagnostic Kit or 10-pack).
 It is also supplied as GlucaGen HypoKit with a disposable prefilled syringe containing Sterile Water for Reconstitution.
 
-GlucaGen HypoKit includes:
+GlucaGenHypoKit includes:
 
 1 vial containing 1 mg (1 unit) GlucaGen (glucagon [rDNA origin] for injection)
 
@@ -21,7 +21,7 @@ GlucaGen Diagnostic Kit includes:
 
 NDC 55390-004-01
 
-GlucaGen HypoKit (Two-Pack) includes: 2 packs of GlucaGen HypoKit,
+GlucaGenHypoKit (Two-Pack) includes: 2 packs of GlucaGen HypoKit,
 
 Each HypoKit contains:
 

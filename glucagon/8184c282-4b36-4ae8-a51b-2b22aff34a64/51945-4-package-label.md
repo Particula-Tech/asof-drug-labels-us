@@ -1,6 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - Glucagen diagnostic kit
-
-1mg
+# PRINCIPAL DISPLAY PANEL - GlucaGen diagnostic kit
 
 NDC 55390-004-01
 
@@ -8,36 +6,43 @@ GlucaGen®
 
 [glucagon (rDNA origin) for injection]
 
-For s.c., i.m., or i.v. injection
+1 mg per vial
+
+For intramuscular or intravenous injection
 
 GlucaGen® should be reconstituted with Sterile Water for Reconstitution immediately before use
 
-Do not store for later use
+Single use only.
+Discard unused portion.
 
-Read the enclosed insert before use
+Protect from Light.
+
+See package insert for complete product information.
+
+FOR DIAGNOSTIC USE ONLY - NOT INTENDED FOR USE BY PATIENTS TO TREAT SEVERE HYPOGLYCEMIA
 
 Rx ONLY
 
-BEDFORD
+BEDFORD Laboratories™
 
-Laboratories
-
-# PRINCIPAL DISPLAY PANEL - Glucagen diagnostic kit - (10 Pack)
-
-10 x 1mg
+# PRINCIPAL DISPLAY PANEL - GlucaGen diagnostic kit - (10 Pack)
 
 NDC 55390-004-10
+
+10 vials each containing 1 mg per vial
 
 GlucaGen®
 
 [glucagon (rDNA origin) for injection]
 
-For s.c., i.m., or i.v. injection
+1 mg per vial
 
-For institutional use only
+For intramuscular or intravenous injection
+
+Protect from Light
+
+FOR DIAGNOSTIC USE ONLY - NOT INTENDED FOR USE BY PATIENTS TO TREAT SEVERE HYPOGLYCEMIA
 
 Rx ONLY
 
-BEDFORD
-
-Laboratories
+BEDFORD Laboratories™
