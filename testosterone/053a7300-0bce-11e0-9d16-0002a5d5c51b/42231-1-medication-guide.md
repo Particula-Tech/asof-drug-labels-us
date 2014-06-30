@@ -154,13 +154,17 @@ FORTESTA can cause serious side effects including:
 - Enlarged or painful breasts.
 - Have problems breathing while you sleep (sleep apnea).
 - Increased red blood cell count
-- Blood clots in the legs.
-  This can include pain, swelling or redness of your legs.
-- Call your healthcare provider right away if you have any of the serious side effects listed above.
-- The most common side effects of FORTESTA include:
-  - skin redness or irritation where FORTESTA is applied
-  - increased in blood level of Prostate Specific Antigen (a test used to screen for prostate cancer)
-  - abnormal dreams
+- Blood clots in the legs or lungs.
+  Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
+  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
+
+Call your healthcare provider right away if you have any of the serious side effects listed above.
+
+The most common side effects of FORTESTA include:
+
+- skin redness or irritation where FORTESTA is applied
+- increased in blood level of Prostate Specific Antigen (a test used to screen for prostate cancer)
+- abnormal dreams
 
 Other side effects include more erections than are normal for you or erections that last a long time.
 
@@ -209,6 +213,6 @@ Manufactured for: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 © 2014 Endo Pharmaceuticals Inc. All rights reserved.
 
-Revised: 3/2014
+Revised: 6/2014
 
 LFT-TOS-US-001
