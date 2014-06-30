@@ -14,19 +14,19 @@ Quetiapine may cause serious side effects, including:
 - 2.Risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
 
 - •Talk to your or your family member’s healthcare provider about:
-  - •all risks and benefits of treatment with antidepressant medicines.
-  - •all treatment choices for depression or other serious mental illness
+  - oall risks and benefits of treatment with antidepressant medicines.
+  - oall treatment choices for depression or other serious mental illness
 - •Antidepressant medications may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 - •Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
 - •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  - •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+  - oPay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
     This is very important when an antidepressant medicine is started or when the dose is changed.
-  - •Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  - •Keep all follow-up visits with the healthcare provider as scheduled.
+  - oCall the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+  - oKeep all follow-up visits with the healthcare provider as scheduled.
     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
-  - Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
+    Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you: thoughts about suicide or dying
 - •thoughts about suicide or dying
 - •attempts to commit suicide
 - •new or worse depression
@@ -62,9 +62,9 @@ Quetiapine is a prescription medicine used to treat:
 
 - •schizophrenia in people 13 years of age or older
 - •bipolar disorder in adults, including:
-  - •depressive episodes associated with bipolar disorder
-  - •manic episodes associated with bipolar I disorder alone or with lithium or divalproex
-  - •long-term treatment of bipolar I disorder with lithium or divalproex
+  - odepressive episodes associated with bipolar disorder
+  - omanic episodes associated with bipolar I disorder alone or with lithium or divalproex
+  - olong-term treatment of bipolar I disorder with lithium or divalproex
 - •manic episodes associated with bipolar I disorder in children ages 10 to 17 years old
 
 It is not known if quetiapine is safe and effective in children under 10 years of age.
@@ -118,11 +118,11 @@ What should I avoid while taking quetiapine?
 - •Do not drive, operate machinery, or do other dangerous activities until you know how quetiapine affects you.
   Quetiapine may make you drowsy.
 - •Avoid getting overheated or dehydrated.
-  - •Do not over-exercise.
-  - •In hot weather, stay inside in a cool place if possible.
-  - •Stay out of the sun.
+  - oDo not over-exercise.
+  - oIn hot weather, stay inside in a cool place if possible.
+  - oStay out of the sun.
     Do not wear too much or heavy clothing.
-  - •Drink plenty of water.
+  - oDrink plenty of water.
 - •Do not drink alcohol while taking quetiapine.
   It may make some side effects of quetiapine worse.
 
@@ -136,21 +136,52 @@ Quetiapine can cause serious side effects, including:
   NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including quetiapine.
   NMS can cause death and must be treated in a hospital.
   Call your healthcare provider right away if you become severely ill and have some or all of these symptoms:
-  - •high fever
-  - •excessive sweating
-  - •rigid muscles
-  - •confusion
-  - •changes in your breathing, heartbeat, and blood pressure
+  - ohigh fever
+  - oexcessive sweating
+  - origid muscles
+  - oconfusion
+  - ochanges in your breathing, heartbeat, and blood pressure
 - •High blood sugar (hyperglycemia).
   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
-  High blood sugar could lead to:
-- 
-  - •build up of acid in your blood due to ketones (ketoacidosis)
-  - •coma
-  - •death Increases in blood sugar can happen in some people who take quetiapine.
-    Extremely high blood sugar can lead to coma or death.
-    If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start quetiapine and during therapy.
-    Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking quetiapine:
+- High blood sugar could lead to:
+  1. obuild up of acid in your blood due to ketones (ketoacidosis)
+  2. ocoma
+  3. odeath
+- Increases in blood sugar can happen in some people who take quetiapine.
+  Extremely high blood sugar can lead to coma or death.
+  If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start quetiapine and during therapy.
+- Call your healthcare provider if you have any of these symptoms of high blood sugar (hyperglycemia) while taking quetiapine:
+  1. ofeel very thirsty
+  2. oneed to urinate more than usual
+  3. ofeel very hungry
+  4. ofeel weak or tired
+  5. ofeel sick to your stomach
+  6. ofeel confused, or your breath smells fruity
+- •high fat levels in your blood (increased cholesterol and triglycerides).
+  High fat levels may happen in people treated with quetiapine.
+  You may not have any symptoms, so your healthcare provider may decide to check your cholesterol and triglycerides during your treatment with quetiapine.
+- •increase in weight (weight gain).
+  Weight gain is common in people who take quetiapine so you and your healthcare provider should check your weight regularly.
+  Talk to your healthcare provider about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
+- •movements you cannot control in your face, tongue, or other body parts (tardive dyskinesia).
+  These may be signs of a serious condition.
+  Tardive dyskinesia may not go away, even if you stop taking quetiapine.
+  Tardive dyskinesia may also start after you stop taking quetiapine.
+- •decreased blood pressure (orthostatic hypotension), including lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
+- •increases in blood pressure in children and teenagers.
+  Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine and during therapy.
+- •low white blood cell count
+- •cataracts
+- •seizures
+- •abnormal thyroid tests.
+  Your healthcare provider may do blood tests to check your thyroid hormone level.
+- •increases in prolactin levels.
+  Your healthcare provider may do blood tests to check your prolactin levels.
+- •sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
+- •increased body temperature
+- •difficulty swallowing
+- •trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting if you suddenly stop taking quetiapine.
+  These symptoms usually get better 1 week after you start having them.
 
 The most common side effects of quetiapine include:
 
@@ -208,6 +239,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Roxane Laboratories, Inc. Columbus, Ohio 43216
 
-10004966/02
+10004966/03
 
-Revised June 2013 © RLI, 2013
+Revised February 2014 © RLI, 2014

@@ -63,7 +63,7 @@ However, prior to initiating treatment with an antidepressant, including quetiap
 ## 5.3 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
-Quetiapine fumarate is not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warningand Warnings and Precautions (5.1)].
+Quetiapine fumarate is not approved for the treatment of patients with dementia-related psychosis [see also Boxed WarningandWarnings and Precautions (5.1)].
 
 ## 5.4 Neuroleptic Malignant Syndrome (NMS)
 
@@ -107,7 +107,7 @@ Adults
 
 Table 3: Fasting Glucose — Proportion of Patients Shifting to ≥126 mg/dL in Short-Term (≤12 weeks) Placebo-Controlled Studies
 
-| Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | n | Patients n (%) |
+| Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
 | Fasting Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
 | Placebo | 1346 | 19 (1.4%) |  |  |
@@ -117,8 +117,8 @@ Table 3: Fasting Glucose — Proportion of Patients Shifting to ≥126 mg/dL in 
 In a 24-week trial (active-controlled, 115 patients treated with quetiapine) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥126 mg/dL was 2.6%.
 The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2 hour glucose from baseline was -1.8 mg/dL for quetiapine.
 
-In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar maintenance, mean exposure of 213 days for quetiapine (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5.0 mg/dL for quetiapine and –0.05 mg/dL for placebo.
-The exposure-adjusted rate of any increased blood glucose level (≥126 mg/dL) for patients more than 8 hours since a meal (however, some patients may not have been precluded from calorie intake from fluids during fasting period) was 18.0 per 100 patient years for quetiapine (10.7% of patients; n=556) and 9.5 for placebo per 100 patient years (4.6% of patients; n=581).
+In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for quetiapine (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5 mg/dL for quetiapine and –0.05 mg/dL for placebo.
+The exposure-adjusted rate of any increased blood glucose level (≥126 mg/dL) for patients more than 8 hours since a meal (however, some patients may not have been precluded from calorie intake from fluids during fasting period) was 18 per 100 patient years for quetiapine (10.7% of patients; n=556) and 9.5 for placebo per 100 patient years (4.6% of patients; n=581).
 
 Children and Adolescents: In a placebo-controlled quetiapine monotherapy study of adolescent patients (13 to 17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for quetiapine (n=138) compared to placebo (n=67) was –0.75 mg/dL versus –1.70 mg/dL.
 In a placebo-controlled quetiapine monotherapy study of children and adolescent patients (10 to 17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for quetiapine (n=170) compared to placebo (n=81) was 3.62 mg/dL versus –1.17 mg/dL.
@@ -130,7 +130,7 @@ Adults: Table 4 shows the percentage of adult patients with changes in total cho
 
 Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
-| Laboratory Analyte | Indication | Treatment Arm | n | Patients n (%) |
+| Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
 | Total Cholesterol ≥240 mg/dL | Schizophrenia6 weeks duration | Quetiapine | 137 | 24 (18%) |
 | Placebo | 92 | 6 (7%) |  |  |
@@ -147,11 +147,11 @@ Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 | HDL-Cholesterol ≤40 mg/dL | Schizophrenia | Quetiapine | na | na |
 | Placebo | na | na |  |  |
 | Bipolar Depression | Quetiapine | 393 | 56 (14%) |  |
-| Placebo | 214 | 29 (14%) |  |  |
+| Placebo | 214 | 2914%) |  |  |
 
 Children and Adolescents: Table 5 shows the percentage of children and adolescents with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline in clinical trials with quetiapine.
 
-Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels
+Table 5: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
 | Laboratory Analyte | Indication | Treatment Arm | n | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -181,7 +181,7 @@ Adults:In clinical trials with quetiapine the following increases in weight have
 
 Table 6: Proportion of Patients with Weight Gain ≥7% of Body Weight (Adults)
 
-| Vital Sign | Indication | Treatment Arm | n | Patients n (%) |
+| Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
 | Weight Gain ≥7% of Body Weight | SchizophreniaUp to 6 weeks duration | Quetiapine | 391 | 89 (23%) |
 | Placebo | 206 | 11 (6%) |  |  |
@@ -196,7 +196,7 @@ Children and Adolescents: In two clinical trials with quetiapine, one in bipolar
 
 Table 7: Proportion of Patients with Weight Gain ≥7% of Body Weight (Children and Adolescents)
 
-| Vital Sign | Indication | Treatment Arm | n | Patients n (%) |
+| Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
 | Weight Gain ≥7% of Body Weight | Schizophrenia6 weeks duration | Quetiapine | 111 | 23 (21%) |
 | Placebo | 44 | 3 (7%) |  |  |
@@ -299,23 +299,27 @@ Therefore, both TSH and free T4, in addition to clinical assessment, should be m
 In the mania adjunct studies, where quetiapine was added to lithium or divalproex, 12% (24/196) of quetiapine treated patients compared to 7% (15/203) of placebo-treated patients had elevated TSH levels.
 Of the quetiapine treated patients with elevated TSH levels, 3 had simultaneous low free T4 levels (free T4 <0.8 LLN).
 
-In all quetiapine trials, the incidence of potentially clinically significant shifts in thyroid hormones and TSH were1: decrease in free T4 (free T4 <0.8 LLN), 2% (357/17513); decrease in total T4, 4% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2% (26/1312), and increase in TSH, 4.9% (956/19412).
+About 0.7% (26/3489) of quetiapine patients did experience TSH increases in monotherapy studies.
+Some patients with TSH increases needed replacement thyroid treatment.
+
+In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were1: decrease in free T4 (free T4 <0.8 LLN), 2% (357/17513); decrease in total T4, 4% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2% (26/1312), and increase in TSH, 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
-Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical Trials1
+Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at any time post-baseline.
+Shifts in Total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
-| 3.4%37(37/1097) | 0.6%(4/651) | 0.7% (52/7218) | 0.1% (4/3668) | 0.5% (2/369) | 0% (0/113) | 0.2% (11/5673) | 0% (1/2679) | 3.2% (240/7587) | 2.7% (105/3912) |
+| 3.4%(37/1097) | 0.6%(4/651) | 0.7% (52/7218) | 0.1% (4/3668) | 0.5% (2/369) | 0% (0/113) | 0.2% (11/5673) | 0% (1/2679) | 3.2% (240/7587) | 2.7% (105/3912) |
 
 In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0% for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0% (1/3007) for placebo.
 
 Children and Adolescents
 
-In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts to potentially clinically important thyroid function values at any time for quetiapine treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
+In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts for potentially thyroid function values at any time for quetiapine treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
 Of the quetiapine treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
 
 ## 5.14 Hyperprolactinemia

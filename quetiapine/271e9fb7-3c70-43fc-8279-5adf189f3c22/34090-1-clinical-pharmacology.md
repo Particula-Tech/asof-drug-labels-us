@@ -54,7 +54,7 @@ Quetiapine is extensively metabolized by the liver.
 The major metabolic pathways are sulfoxidation to the sulfoxide metabolite and oxidation to the parent acid metabolite; both metabolites are pharmacologically inactive.
 In vitro studies using human liver microsomes revealed that the cytochrome P450 3A4 isoenzyme is involved in the metabolism of quetiapine to its major, but inactive, sulfoxide metabolite and in the metabolism of its active metabolite N-desalkyl quetiapine.
 
-Age: Oral clearance of quetiapine was reduced by 40% in elderly patients (≥65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary [see Dosage and Administration (2.2)].
+Age: Oral clearance of quetiapine was reduced by 40% in elderly patients (≥65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
 
 Gender: There is no gender effect on the pharmacokinetics of quetiapine.
 
@@ -67,11 +67,11 @@ Dosage adjustment is therefore not needed in these patients [see Use in Specific
 
 Hepatic Insufficiency: Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
 In two of the 8 hepatically impaired patients, AUC and Cmax were 3 times higher than those observed typically in healthy subjects.
-Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
+Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
 
-Drug-Drug Interaction:Studies: The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.4 and 2.5) and Drug Interactions (7.1)].
+Drug-Drug Interaction Studies: The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.5 and 2.6) and Drug Interactions (7.1)].
 
-Table 10: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
+Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 
 | Coadministered Drug | Dose Schedules |  | Effect on Quetiapine Pharmacokinetics |
 | --- | --- | --- | --- |
@@ -89,7 +89,7 @@ Table 10: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes CYP 1A2, 2C9, 2C19, 2D6 and 3A4.
 Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium or lorazepam (Table 18) [see Drug Interactions (7.2)].
 
-Table 11: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
+Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 
 | Coadministered Drug | Dose Schedules |  | Effects on Other Drugs Pharmacokinetics |
 | --- | --- | --- | --- |
