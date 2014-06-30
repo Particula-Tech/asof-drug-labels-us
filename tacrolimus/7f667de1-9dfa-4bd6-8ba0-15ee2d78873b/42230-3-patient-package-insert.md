@@ -11,18 +11,18 @@ What is the most important information I should know about PROGRAF?
 
 Prograf can cause serious side effects, including:
 
-1. 1.Increased risk of cancer.
-   People who take Prograf have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma).
-2. 2.Increased risk of infection.
-   PROGRAF is a medicine that affects your immune system.
-   Prograf can lower the ability of your immune system to fight infections.
-   Serious infections can happen in people receiving Prograf that can cause death.
-   Call your doctor right away if you have symptoms of an infection such as:
-   - •fever
-   - •sweats or chills
-   - •cough or flu-like symptoms
-   - •muscle aches
-   - •warm, red, or painful areas on your skin
+- 1.Increased risk of cancer.
+  People who take Prograf have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma).
+- 2.Increased risk of infection.
+  PROGRAF is a medicine that affects your immune system.
+  Prograf can lower the ability of your immune system to fight infections.
+  Serious infections can happen in people receiving Prograf that can cause death.
+  Call your doctor right away if you have symptoms of an infection such as:
+  1. •fever
+  2. •sweats or chills
+  3. •cough or flu-like symptoms
+  4. •muscle aches
+  5. •warm, red, or painful areas on your skin
 
 What is PROGRAF?
 
@@ -79,22 +79,22 @@ How Should I Take PROGRAF?
   For example, if you choose to take PROGRAF with food, you should always take PROGRAF with food.
 - •Take PROGRAF at the same time each day, 12 hours apart.
   For example, if you take your first dose at 7:00 a.m. you should take your second dose at 7:00 p.m.
-  - ∘Taking PROGRAF at the same time each day helps to keep enough medicine in your body to give your transplanted organ the around-the-clock medicine it needs.
+  - oTaking PROGRAF at the same time each day helps to keep enough medicine in your body to give your transplanted organ the around-the-clock medicine it needs.
 - •Do not eat grapefruit or drink grapefruit juice while taking PROGRAF.
 - •If you take too much PROGRAF, call your doctor or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking PROGRAF?
 
 - •While you take PROGRAF you should not receive any live vaccines such as:
-  - °flu vaccine through your nose
-  - °measles
-  - °mumps
-  - °rubella
-  - °polio by mouth
-  - °BCG (TB vaccine)
-  - °yellow fever
-  - °chicken pox (varicella)
-  - °typhoid
+  - oflu vaccine through your nose
+  - omeasles
+  - omumps
+  - orubella
+  - opolio by mouth
+  - oBCG (TB vaccine)
+  - oyellow fever
+  - ochicken pox (varicella)
+  - otyphoid
 - •Avoid exposure to sunlight and UV light such as tanning machines.
   Wear protective clothing and use a sunscreen.
 
@@ -106,36 +106,36 @@ PROGRAF may cause serious side effects, including:
 - •high blood sugar (diabetes).
   Your doctor may do certain tests to check for diabetes while you take PROGRAF.
   Call your doctor right away if you have:
-  - ∘frequent urination
-  - ∘increased thirst or hunger
-  - ∘blurred vision
-  - ∘confusion
-  - ∘drowsiness
-  - ∘loss of appetite
-  - ∘fruity smell on your breath
-  - ∘nausea, vomiting, or stomach pain
+  - ofrequent urination
+  - oincreased thirst or hunger
+  - oblurred vision
+  - oconfusion
+  - odrowsiness
+  - oloss of appetite
+  - ofruity smell on your breath
+  - onausea, vomiting, or stomach pain
 - •kidney problems.
   Your doctor may do certain tests to check your kidney function while you take PROGRAF.
 - •nervous system problems.
   Call your doctor right away if you get any of these symptoms while taking PROGRAF.
   These could be signs of a serious nervous system problem:
-  - ∘confusion
-  - ∘coma
-  - ∘muscle tremors
-  - ∘numbness and tingling
-  - ∘headache
-  - ∘seizures
-  - ∘vision changes
+  - oconfusion
+  - ocoma
+  - omuscle tremors
+  - onumbness and tingling
+  - oheadache
+  - oseizures
+  - ovision changes
 - •high levels of potassium in your blood.
   Your doctor may do certain tests to check your potassium level while you take PROGRAF.
 - •high blood pressure.
   Your doctor will monitor your blood pressure while you take PROGRAF.
 - •heart problems (myocardial hypertrophy).
   Tell your doctor right away if you get any of these symptoms of heart problems while taking PROGRAF:
-  - ∘shortness of breath
-  - ∘chest pain
-  - ∘feel lightheaded
-  - ∘feel faint
+  - oshortness of breath
+  - ochest pain
+  - ofeel lightheaded
+  - ofeel faint
 
 The most common side effects of PROGRAF in people receiving kidney transplant are:
 
