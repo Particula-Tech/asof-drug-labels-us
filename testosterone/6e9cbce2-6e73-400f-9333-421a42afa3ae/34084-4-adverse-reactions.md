@@ -35,3 +35,10 @@ Two patients (3%) had adverse reactions that led to discontinuation of treatment
 These reactions were: one patient with application site irritation (considered possibly related to AXIRON application) and one patient with dry skin and erythema, but not at the application site (considered not related to AXIRON administration) and application site erythema (considered possibly related to AXIRON administration).
 
 No serious adverse reactions to AXIRON were reported during either the 120 day trial, or the extension to 180 days.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of AXIRON.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Vascular Disorders: Venous thromboembolism [see Warnings and Precautions (5.4)].

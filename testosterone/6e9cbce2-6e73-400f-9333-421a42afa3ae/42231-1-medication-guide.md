@@ -159,8 +159,9 @@ AXIRON can cause serious side effects including:
 - Swelling of your ankles, feet, or body.
 - Enlarged or painful breasts.
 - Problems breathing while you sleep (sleep apnea).
-- Blood clots in the legs.
-  This can include pain, swelling or redness of your legs.
+- Blood clots in the legs or lungs.
+  Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
+  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
 
 Call your healthcare provider right away if you have any of the serious side effects listed above.
 
@@ -215,8 +216,8 @@ The bottle or applicator cup does not contain latex.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Literature issued November 2010
+Revised: 06/2014
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-PV 8161 AMP
+AXR-0001-MG-20140619

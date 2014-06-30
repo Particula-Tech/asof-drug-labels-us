@@ -29,48 +29,54 @@ It would be appropriate to re-evaluate the hematocrit 3 to 6 months after starti
 If hematocrit becomes elevated, stop therapy until hematocrit decreases to an acceptable level.
 An increase in red blood cell mass may increase the risk of thromboembolic events.
 
-## 5.4 Use in Women
+## 5.4 Venous Thromboembolism
+
+There have been postmarketing reports of venous thromboembolic events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), in patients using testosterone products, such as AXIRON.
+Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE.
+If a venous thromboembolic event is suspected, discontinue treatment with AXIRON and initiate appropriate workup and management [see Adverse Reactions (6.2)].
+
+## 5.5 Use in Women
 
 Due to lack of controlled studies in women and potential virilizing effects, AXIRON is not indicated for use in women [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
 
-## 5.5 Potential for Adverse Effects on Spermatogenesis
+## 5.6 Potential for Adverse Effects on Spermatogenesis
 
 At large doses of exogenous androgens, including AXIRON, spermatogenesis may be suppressed through feedback inhibition of pituitary follicle-stimulating hormone (FSH) which could possibly lead to adverse effects on semen parameters including sperm count.
 
-## 5.6 Hepatic Adverse Effects
+## 5.7 Hepatic Adverse Effects
 
 Prolonged use of high doses of orally active 17-alpha-alkyl androgens (methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatitis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
 Peliosis hepatitis can be a life-threatening or fatal complication.
 Long-term therapy with intramuscular testosterone enanthate has produced multiple hepatic adenomas.
 AXIRON is not known to cause these adverse effects.
 
-## 5.7 Edema
+## 5.8 Edema
 
 Androgens, including AXIRON, may promote retention of sodium and water.
 Edema, with or without congestive heart failure, may be a serious complication in patients with pre-existing cardiac, renal, or hepatic disease [see Adverse Reactions (6)].
 
-## 5.8 Gynecomastia
+## 5.9 Gynecomastia
 
 Gynecomastia may develop and may persist in patients being treated with androgens, including AXIRON, for hypogonadism.
 
-## 5.9 Sleep Apnea
+## 5.10 Sleep Apnea
 
 The treatment of hypogonadal men with testosterone may potentiate sleep apnea in some patients, especially those with risk factors such as obesity and chronic lung disease.
 
-## 5.10 Lipids
+## 5.11 Lipids
 
 Changes in serum lipid profile may require dose adjustment or discontinuation of testosterone therapy.
 
-## 5.11 Hypercalcemia
+## 5.12 Hypercalcemia
 
 Androgens, including AXIRON, should be used with caution in cancer patients at risk of hypercalcemia (and associated hypercalciuria).
 Regular monitoring of serum calcium concentrations is recommended in these patients.
 
-## 5.12 Decreased Thyroxine-binding Globulin
+## 5.13 Decreased Thyroxine-binding Globulin
 
 Androgens, including AXIRON, may decrease concentrations of thyroxin-binding globulins, resulting in decreased total T4 serum concentration and increased resin uptake of T3 and T4.
 Free thyroid hormone concentration remain unchanged, however there is no clinical evidence of thyroid dysfunction.
 
-## 5.13 Flammability
+## 5.14 Flammability
 
 Alcohol based products, including AXIRON, are flammable; therefore, patients should be advised to avoid smoking, fire or flame until the AXIRON dose applied has dried.
