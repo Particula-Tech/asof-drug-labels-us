@@ -9,7 +9,7 @@ Many of the side effects and adverse reactions seen in patients receiving Clarav
 ## Dose Relationship
 
 Cheilitis and hypertriglyceridemia are usually dose related.
-Most adverse reactions reported in clinical trials were reversible when therapy was discontinued; however, some persisted after cessation of therapy (see WARNINGS and ADVERSE REACTIONS:).
+Most adverse reactions reported in clinical trials were reversible when therapy was discontinued; however, some persisted after cessation of therapy (see WARNINGS and ADVERSE REACTIONS).
 
 Body as a Whole
 
@@ -71,6 +71,6 @@ Increased alkaline phosphatase, SGOT (AST), SGPT (ALT), GGTP or LDH (see WARNING
 
 Elevation of fasting blood sugar, elevations of CPK (see PRECAUTIONS, Laboratory Tests), hyperuricemia.
 
-Decreases in red blood cell parameters, decreases in white blood cell counts (including severe neutropenia and rare reports of agranulocytosis; (see PRECAUTIONS, Information for Patients), elevated sedimentation rates, elevated platelet counts, thrombocytopenia.
+Decreases in red blood cell parameters, decreases in white blood cell counts (including severe neutropenia and rare reports of agranulocytosis; see PRECAUTIONS, Information for Patients), elevated sedimentation rates, elevated platelet counts, thrombocytopenia.
 
 White cells in the urine, proteinuria, microscopic or gross hematuria.

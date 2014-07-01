@@ -12,9 +12,9 @@ The decrease in sebum secretion is temporary and is related to the dose and dura
 
 ### Absorption
 
-Due to its high lipophilicity, oral absorption of isotretinoin is enhanced when given with a high-fat meal.
+Due to its high lipophilicity, oral absorption of isotretinoin is enhanced when given with a high fat meal.
 In a crossover study, 74 healthy adult subjects received a single 80 mg oral dose (2 x 40 mg capsules) of Claravis under fasted and fed conditions.
-Both peak plasma concentration (Cmax) and the total exposure (AUC) of isotretinoin were more than doubled following a standardized high-fat meal when compared with Claravis given under fasted conditions (see Table 2).
+Both peak plasma concentration (Cmax) and the total exposure (AUC) of isotretinoin were more than doubled following a standardized high fat meal when compared with Claravis given under fasted conditions (see Table 2).
 The observed elimination half-life was unchanged.
 This lack of change in half-life suggests that food increases the bioavailability of isotretinoin without altering its disposition.
 The time to peak concentration (Tmax) was also increased with food and may be related to a longer absorption phase.
@@ -26,7 +26,7 @@ Pharmacokinetic Parameters of Isotretinoin Mean (%CV), N = 74
 
 | Claravis 2 x 40 mg Capsules | AUCo-∞(ng • hr/mL) | Cmax(ng/mL) | Tmax(hr) | t½(hr) |
 | --- | --- | --- | --- | --- |
-| FedEating a standardized high-fat meal | 10,004 (22%) | 862 (22%) | 5.3 (77%) | 21 (39%) |
+| FedEating a standardized high fat meal | 10,004 (22%) | 862 (22%) | 5.3 (77%) | 21 (39%) |
 | Fasted | 3,703 (46%) | 301 (63%) | 3.2 (56%) | 21 (30%) |
 
 ### Distribution
@@ -44,7 +44,7 @@ After a single 80 mg oral dose of isotretinoin to 74 healthy adult subjects, con
 
 All of these metabolites possess retinoid activity that is in some in vitro models more than that of the parent isotretinoin.
 However, the clinical significance of these models is unknown.
-After multiple oral dose administration of isotretinoin to adult cystic acne patients (≥18 years), the exposure of patients to 4-oxo-isotretinoin at steady-state under fasted and fed conditions was approximately 3.4 times higher than that of isotretinoin.
+After multiple oral dose administration of isotretinoin to adult cystic acne patients (≥18 years), the exposure of patients to 4-oxo-isotretinoin at steady state under fasted and fed conditions was approximately 3.4 times higher than that of isotretinoin.
 
 In vitro studies indicate that the primary P450 isoforms involved in isotretinoin metabolism are 2C8, 2C9, 3A4, and 2B6.
 Isotretinoin and its metabolites are further metabolized into conjugates, which are then excreted in urine and feces.
@@ -54,7 +54,7 @@ Isotretinoin and its metabolites are further metabolized into conjugates, which 
 Following oral administration of an 80 mg dose of 14C-isotretinoin as a liquid suspension, 14C-activity in blood declined with a half-life of 90 hours.
 The metabolites of isotretinoin and any conjugates are ultimately excreted in the feces and urine in relatively equal amounts (total of 65% to 83%).
 After a single 80 mg oral dose of isotretinoin to 74 healthy adult subjects under fed conditions, the mean + SD elimination half-lives (t½) of isotretinoin and 4-oxo-isotretinoin were 21 + 8.2 hours and 24 + 5.3 hours, respectively.
-After both single and multiple doses, the observed accumulation ratios of isotretinoin ranged from 0.90 to 5.43 in patients with cystic acne.
+After both single and multiple doses, the observed accumulation ratios of isotretinoin ranged from 0.9 to 5.43 in patients with cystic acne.
 
 ## Special Patient Populations
 
@@ -66,9 +66,9 @@ The dose-normalized pharmacokinetic parameters for isotretinoin following single
 There were no statistically significant differences in the pharmacokinetics of isotretinoin between pediatric and adult patients.
 
 Table 3.
-Pharmacokinetic Parameters of Isotretinoin Following Single and Multiple Dose Administration in Pediatric Patients, 12 to 15 Years of Age Mean (± SD), N = 38The single and multiple dose data in this table were obtained following a non-standardized meal that is not comparable to the high-fat meal that was used in the study in Table 2.
+Pharmacokinetic Parameters of Isotretinoin Following Single and Multiple Dose Administration in Pediatric Patients, 12 to 15 Years of Age Mean (± SD), N = 38The single and multiple dose data in this table were obtained following a non-standardized meal that is not comparable to the high fat meal that was used in the study in Table 2.
 
-| Parameter | Isotretinoin (Single Dose) | Isotretinoin (Steady-State) |
+| Parameter | Isotretinoin (Single Dose) | Isotretinoin (Steady State) |
 | --- | --- | --- |
 | Cmax (ng/mL) | 573.25 (278.79) | 731.98 (361.86) |
 | AUC(0 to 12) (ng·hr/mL) | 3033.37 (1394.17) | 5082 (2184.23) |

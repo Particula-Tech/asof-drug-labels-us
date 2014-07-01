@@ -25,7 +25,7 @@ Claravis must only be dispensed by a pharmacy registered and activated with iPLE
 INFORMATION FOR PHARMACISTS
 
 Access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to obtain an authorization and the “do not dispense to patient after” date.
-Claravis must only be dispensed in no more than a 30-day supply.
+Claravis must only be dispensed in no more than a 30 day supply.
 
 REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM.
 

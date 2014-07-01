@@ -2,9 +2,9 @@
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
-#### Category X
+Category X
 
 See Boxed CONTRAINDICATIONS AND WARNINGS.
 
