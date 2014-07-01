@@ -12,6 +12,10 @@ Drug-induced jaundice is reversible when the medication is discontinued.
 
 Geriatric patients treated with androgens may be at an increased risk for the development of prostatic hypertrophy and prostatic carcinoma.
 
+There have been postmarketing reports of venous thromboembolic events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), in patients using testosterone products, such as DELATESTRYL®.
+Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE.
+If a venous thromboembolic event is suspected, discontinue treatment with DELATESTRYL® and initiate appropriate workup and management.
+
 Due to sodium and water retention, edema with or without congestive heart failure may be a serious complication in patients with preexisting cardiac, renal, or hepatic disease.
 In addition to discontinuation of the drug, diuretic therapy may be required.
 If the administration of testosterone enanthate is restarted, a lower dose should be used.

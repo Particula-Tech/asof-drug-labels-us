@@ -3,6 +3,7 @@
 Endocrine and Urogenital, Female – The most common side effects of androgen therapy are amenorrhea and other menstrual irregularities, inhibition of gonadotropin secretion, and virilization, including deepening of the voice and clitoral enlargement.
 The latter usually is not reversible after androgens are discontinued.
 When administered to a pregnant woman, androgens cause virilization of the external genitalia of the female fetus.
+
 Male – Gynecomastia, and excessive frequency and duration of penile erections.
 Oligospermia may occur at high dosages (see CLINICAL PHARMACOLOGY).
 
@@ -17,5 +18,7 @@ Hematologic – Suppression of clotting factors II, V, VII, and X; bleeding in p
 Nervous System – Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia.
 
 Metabolic – Increased serum cholesterol.
+
+Vascular Disorders – venous thromboembolism
 
 Miscellaneous – Rarely, anaphylactoid reactions; inflammation and pain at injection site.

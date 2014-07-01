@@ -1,8 +1,6 @@
 # INDICATIONS AND USAGE
 
-## Males
-
-DELATESTRYL® (Testosterone Enanthate Injection, USP) is indicated for replacement therapy in conditions associated with a deficiency or absence of endogenous testosterone.
+Males DELATESTRYL® (Testosterone Enanthate Injection, USP) is indicated for replacement therapy in conditions associated with a deficiency or absence of endogenous testosterone.
 
 Primary hypogonadism (congenital or acquired) – Testicular failure due to cryptorchidism, bilateral torsion, orchitis, vanishing testis syndrome, or orchidectomy.
 
@@ -18,9 +16,7 @@ Brief treatment with conservative doses may occasionally be justified in these p
 The potential adverse effect on bone maturation should be discussed with the patient and parents prior to androgen administration.
 An X-ray of the hand and wrist to determine bone age should be obtained every six months to assess the effect of treatment on the epiphyseal centers (see WARNINGS).
 
-## Females
-
-Metastatic mammary cancer – DELATESTRYL® (Testosterone Enanthate Injection, USP) may be used secondarily in women with advancing inoperable metastatic (skeletal) mammary cancer who are one to five years postmenopausal.
+Females Metastatic mammary cancer – DELATESTRYL® (Testosterone Enanthate Injection, USP) may be used secondarily in women with advancing inoperable metastatic (skeletal) mammary cancer who are one to five years postmenopausal.
 Primary goals of therapy in these women include ablation of the ovaries.
 Other methods of counteracting estrogen activity are adrenalectomy, hypophysectomy, and/or antiestrogen therapy.
 This treatment has also been used in premenopausal women with breast cancer who have benefited from oophorectomy and are considered to have a hormone-responsive tumor.

@@ -1,13 +1,7 @@
-NDA 09-165 CIII
-
 Multiple Dose Vial
 
-For Prescription Use Only
+Manufactured for: Endo Pharmaceuticals Solutions Inc. Malvern, PA 19355
 
-Manufactured for: Indevus Pharmaceuticals, Inc. Lexington, MA 02421
+Medical Inquiries: 1-800-462-3636
 
-Manufactured by: SAB-Pharma Inc. Boucherville, QC, Canada J4B 7K8
-
-Medical Inquiries: 877-263-2436
-
-Revised: July 2007
+Revised: 06/2014
