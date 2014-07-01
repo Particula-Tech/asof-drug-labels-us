@@ -20,8 +20,4 @@ Never Share a Saizen® Needle Between Patients
 Counsel patients that they should never share a Saizen® needle with another person, even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
 
-For drug preparation instructions for Saizen® click.easy® cartridges, please refer to the instructions for use provided with click.easy® reconstitution device.
-
-Manufactured for: EMD Serono, Inc., Rockland, MA 02370 USA
-
-click.easy® Reconstitution Device Saizen® 8.8 mg [somatropin (rDNA origin) for injection]
+For drug preparation instructions for Saizen® click.easy® cartridges, please refer to the Instructions for Use provided with click.easy® reconstitution device.

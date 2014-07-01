@@ -23,7 +23,7 @@ The adjusted mean treatment differences on the increase in lean body mass from b
 However, there were relatively few patients with childhood onset GHD (n=18) on which to base the comparison.
 
 Analysis of the treatment difference on the change from baseline in total fat mass (by DXA) revealed a significant decrease (p<0.001) in the Saizen®-treated group compared to the placebo group.
-Saizen® also produced beneficial effects on several bone turnover markers including bone specific alkaline phosphatase, c-terminal propeptide, osteocalcin, urine deoxypyridinoline and iPTH.
+Saizen® also produced beneficial effects on several bone turnover markers including bone specific alkaline phosphatase, C-terminal propeptide, osteocalcin, urine deoxypyridinoline and iPTH.
 
 One hundred and eleven patients were enrolled in an open label follow up study and treated with Saizen® for an additional 6-30 months.
 During this period, the beneficial effects on lean body mass and total fat mass achieved during the initial six months of treatment were maintained.

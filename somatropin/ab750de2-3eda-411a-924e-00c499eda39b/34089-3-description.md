@@ -27,7 +27,7 @@ Diluent
 
 The diluent is Bacteriostatic Water for Injection, USP containing 0.9% Benzyl Alcohol added as an antimicrobial preservative.
 
-Click.easy® reconstitution device
+click.easy® reconstitution device
 
 Saizen® is also available in the click.easy® reconstitution device.
 The quantitative composition per vial contained in the click.easy® reconstitution device is:

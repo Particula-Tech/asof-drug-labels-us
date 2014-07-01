@@ -16,9 +16,9 @@ Therefore, glucocorticoid replacement dosing should be carefully adjusted in chi
 
 ## 7.3 Cytochrome P450-Metabolized Drugs
 
-Limited published data indicate that somatropin treatment increases cytochrome P450 (CP450) mediated antipyrine clearance in man.
-These data suggest that somatropin administration may alter the clearance of compounds known to be metabolized by CP450 liver enzymes (e.g., corticosteroids, sex steroids, anticonvulsants, cyclosporine).
-Careful monitoring is advisable when somatropin is administered in combination with other drugs known to be metabolized by CP450 liver enzymes.
+Limited published data indicate that somatropin treatment increases cytochrome P450 (CYP450) mediated antipyrine clearance in man.
+These data suggest that somatropin administration may alter the clearance of compounds known to be metabolized by CYP450 liver enzymes (e.g., corticosteroids, sex steroids, anticonvulsants, cyclosporine).
+Careful monitoring is advisable when somatropin is administered in combination with other drugs known to be metabolized by CYP450 liver enzymes.
 However, formal drug interaction studies have not been conducted.
 
 ## 7.4 Oral Estrogen

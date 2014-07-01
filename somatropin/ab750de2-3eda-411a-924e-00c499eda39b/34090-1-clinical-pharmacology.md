@@ -53,14 +53,14 @@ Somatropin stimulates the synthesis of chondroitin sulfate and collagen as well 
 
 Absorption - The absolute bioavailability of somatropin after subcutaneous administration ranges between 70 to 90%.
 
-Distribution - The steady-state volume of distribution (mean +SD) of somatropin following intravenous administration in healthy volunteers was estimated to be 12.0 ± 1.08 L.
+Distribution - The steady-state volume of distribution (mean ±SD) of somatropin following intravenous administration in healthy volunteers was estimated to be 12.0 ± 1.08 L.
 
 Metabolism - The metabolic fate of somatropin involves classical protein catabolism in both the liver and kidneys.
 In renal cells, at least a portion of the breakdown products is returned to the systemic circulation.
 The mean half-life of intravenous somatropin in normal males is around 0.6 hours, whereas subcutaneously and intramuscularly administered somatropin has a half-life of around 2 hours.
 The longer half-life observed after subcutaneous or intramuscular administration is due to slow absorption from the injection site.
 
-Excretion - The clearance (mean +SD) of intravenously administered somatropin in six normal male volunteers was 14.6 ± 2.8 L/hr.
+Excretion - The clearance (mean ±SD) of intravenously administered somatropin in six normal male volunteers was 14.6 ± 2.8 L/hr.
 
 Specific Populations
 

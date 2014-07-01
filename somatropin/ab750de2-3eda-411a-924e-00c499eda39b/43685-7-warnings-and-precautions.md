@@ -17,13 +17,15 @@ Saizen® is not indicated for the long term treatment of pediatric patients who 
 
 ## 5.3 Neoplasms
 
-Patients with preexisting tumors or growth hormone deficiency secondary to an intracranial lesion should be examined routinely for progression or recurrence of the underlying disease process.
-In pediatric patients, clinical literature has revealed no relationship between somatropin replacement therapy and central nervous system (CNS) tumor recurrence or new extracranial tumors.
-However, in childhood cancer survivors, an increased risk of a second neoplasm has been reported in patients treated with somatropin after their first neoplasm.
-Intracranial tumors, in particular meningiomas, in patients treated with radiation to the head for their first neoplasm, were the most common of these second neoplasms.
-In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence.
+In childhood cancer survivors who were treated with radiation to the brain/head for their first neoplasm and who developed subsequent GHD and were treated with somatropin, an increased risk of a second neoplasm has been reported.
+Intracranial tumors, in particular meningiomas, were the most common of these second neoplasms.
+In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence [see Contraindications (4.3)].
+Monitor all patients with a history of GHD secondary to an intracranial neoplasm routinely while on somatropin therapy for progression or recurrence of the tumor.
 
-Patients should be monitored carefully for any malignant transformation of skin lesions.
+Because children with certain rare genetic causes of short stature have an increased risk of developing malignancies, practitioners should thoroughly consider the risks and benefits of starting somatropin in these patients.
+If treatment with somatropin is initiated, these patients should be monitored carefully for development of neoplasms.
+
+Monitor patients on somatropin therapy carefully for increased growth, or potential malignant changes of preexisting nevi.
 
 ## 5.4 Glucose Intolerance/Diabetes Mellitus
 
@@ -99,6 +101,6 @@ Pancreatitis should be considered in any somatropin–treated patient, especiall
 ## 5.15 Benzyl Alcohol
 
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
-The “gasping syndrome,” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight neonates.
+The "gasping syndrome," (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.

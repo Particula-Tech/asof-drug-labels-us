@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR USE
+# click.easy® Reconstitution Device Saizen® 8.8 mg [somatropin (rDNA origin) for injection] INSTRUCTIONS FOR USE
 
 | For complete dosing and safety information, please refer to the Saizen® [somatropin (rDNA origin) for injection] Package Insert. |
 | --- |
@@ -7,8 +7,8 @@ COMPOSITION
 
 Each vial of Saizen® 8.8 mg contained in the 5.83 mg/mL click.easy® device contains the following ingredients:
 
-- ●Active substance: Somatropin (Recombinant Human Growth Hormone) 8.8 mg.
-- ●Excipients: Sucrose, Phosphoric acid, Sodium Hydroxide; 1 mL of the reconstituted Saizen® solution contains 5.83 mg of somatropin when reconstituted with the contents of the diluent cartridge.
+- Active substance: Somatropin (Recombinant Human Growth Hormone) 8.8 mg.
+- Excipients: Sucrose, Phosphoric acid, Sodium Hydroxide; 1 mL of the reconstituted Saizen® solution contains 5.83 mg of somatropin when reconstituted with the contents of the diluent cartridge.
 
 COMPOSITION OF DILUENT
 
@@ -69,16 +69,18 @@ HOW TO PREPARE YOUR SOLUTION OF SAIZEN®
    Unscrew the cap and remove it.
 9. Remove the cartridge containing the reconstituted Saizen® solution from the click.easy® device by grasping the end of the cartridge and pulling straight out of the outer housing.
 10. Carefully peel off the outer white label on the cartridge using the tab provided by slowly pulling in the direction of the black arrow.
-11. Write the reconstitution date on the transparent inner label on the cartridge.
-    This cartridge now contains the reconstituted Saizen® solution that will be used for your treatment.
-12. The cartridge containing the reconstituted Saizen® solution is now ready to be used (Note: Please read the instruction manual provided with the injection device for instruction on how to inject the reconstituted Saizen® solution from the cartridge).
-13. The Saizen® reconstituted solution should be stored in a refrigerator (2°-8°C / 36°-46°F) and should be used within 21 days after reconstitution.
-    Do not freeze.
-14. Discard the click.easy® device containing the empty Saizen® vial safely in accordance with your local requirements.
-    It is not necessary to remove the empty Saizen® vial from the click.easy® device prior to disposal.
-15. Injections should be given in different parts of your body.
-    Do not use any areas in which you feel lumps, firm knots, depressions, or pain; talk to your doctor or healthcare professional about anything you find.
-    Clean the skin at the injection site with soap and water.
+
+- 11.Write the reconstitution date on the transparent inner label on the cartridge.
+  This cartridge now contains the reconstituted Saizen® solution that will be used for your treatment.
+
+- 12.The cartridge containing the reconstituted Saizen® solution is now ready to be used (Note: Please read the instruction manual provided with the injection device for instruction on how to inject the reconstituted Saizen® solution from the cartridge).
+- 13.The Saizen® reconstituted solution should be stored in a refrigerator (2°-8°C / 36°-46°F) and should be used within 21 days after reconstitution.
+  Do not freeze.
+- 14.Discard the click.easy® device containing the empty Saizen® vial safely in accordance with your local requirements.
+  It is not necessary to remove the empty Saizen® vial from the click.easy® device prior to disposal.
+- 15.Injections should be given in different parts of your body.
+  Do not use any areas in which you feel lumps, firm knots, depressions, or pain; talk to your doctor or healthcare professional about anything you find.
+  Clean the skin at the injection site with soap and water.
 
 STABILITY AND STORAGE
 
@@ -96,6 +98,4 @@ Saizen® 8.8 mg contained in the click.easy® device is available in the followi
 
 NDC 44087-1080-1
 
-Manufactured for:
-
-EMD Serono Inc., Rockland, MA 02370
+Manufactured for: EMD Serono Inc., Rockland, MA 02370
