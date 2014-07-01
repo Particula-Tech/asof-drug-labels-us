@@ -3,9 +3,13 @@
 Desloratadine Tablets, 5 mg are light blue, circular, biconvex, film-coated tablets, debossed "LU" on one side and "S71" on other side.
 They are supplied as follows:
 
+NDC 68180-153-06 Bottles of 30
+
 NDC 68180-153-01 Bottles of 100
 
 NDC 68180-153-02 Bottles of 500
+
+NDC 68180-153-03 Bottles of 1000
 
 NDC 68180-153-12 3x10's unit dose blisters
 

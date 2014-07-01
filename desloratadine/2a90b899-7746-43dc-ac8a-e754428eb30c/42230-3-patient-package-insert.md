@@ -99,12 +99,12 @@ You may report side effects to Lupin Pharmaceuticals, Inc at 1-800-399-2561 or F
 
 How should I store desloratadine tablets?
 
-Store desloratadine tablets between 59°F to 86°F (15°C to 30°C).
+• Store desloratadine tablets between 59°F to 86°F (15°C to 30°C).
 
-Desloratadine tablets are sensitive to heat.
+• Desloratadine tablets are sensitive to heat.
 Do not store above 86°F (30°C).
 
-Protect desloratadine tablets from moisture.
+• Protect desloratadine tablets from moisture.
 
 Keep desloratadine tablets and all medicines out of the reach of children.
 
@@ -123,7 +123,7 @@ What are the ingredients in desloratadine tablets?
 
 Active ingredient: desloratadine
 
-Inactive ingredients in desloratadine tablets: anhydrous lactose, colloidal silicon dioxide, FD & C blue#2/Indigo carmine aluminium lake, hydrogenated vegetable oil, hypromellose, microcrystalline cellulose, polyethylene glycol, pregelatinised starch and titanium dioxide.
+Inactive ingredients in desloratadine tablets: anhydrous lactose, colloidal silicon dioxide, FD&C Blue#2/Indigo Carmine Aluminium Lake, hydrogenated vegetable oil, hypromellose, microcrystalline cellulose, polyethylene glycol, pregelatinised starch and titanium dioxide.
 
 Manufactured for:
 
@@ -141,4 +141,4 @@ Goa 403 722
 
 INDIA
 
-May 2012 ID#230061
+Revised: July 2014 ID#238185

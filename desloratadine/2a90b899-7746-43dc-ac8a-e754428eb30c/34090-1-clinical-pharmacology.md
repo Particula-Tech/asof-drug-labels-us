@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Desloratadine is a long-acting tricyclic histamine antagonist with selective H1-receptor histamine antagonist activity.
-Receptor binding data indicates that at a concentration of 2-3 ng/mL (7 nanomolar), desloratadine shows significant interaction with the human histamine H1-receptor.
+Receptor binding data indicates that at a concentration of 2 to 3 ng/mL (7 nanomolar), desloratadine shows significant interaction with the human histamine H1-receptor.
 Desloratadine inhibited histamine release from human mast cells in vitro.
 Results of a radiolabeled tissue distribution study in rats and a radioligand H1-receptor binding study in guinea pigs showed that desloratadine did not readily cross the blood brain barrier.
 The clinical significance of this finding is unknown.
@@ -12,8 +12,8 @@ The clinical significance of this finding is unknown.
 
 Wheal and Flare
 
-Human histamine skin wheal studies following single and repeated 5-mg doses of desloratadine have shown that the drug exhibits an antihistaminic effect by 1 hour; this activity may persist for as long as 24 hours.
-There was no evidence of histamine-induced skin wheal tachyphylaxis within the desloratadine 5-mg group over the 28-day treatment period.
+Human histamine skin wheal studies following single and repeated 5 mg doses of desloratadine have shown that the drug exhibits an antihistaminic effect by 1 hour; this activity may persist for as long as 24 hours.
+There was no evidence of histamine-induced skin wheal tachyphylaxis within the desloratadine 5 mg group over the 28-day treatment period.
 The clinical relevance of histamine wheal skin testing is unknown.
 
 Effects on QTc
@@ -47,13 +47,13 @@ Metabolism
 Desloratadine (a major metabolite of loratadine) is extensively metabolized to 3-hydroxydesloratadine, an active metabolite, which is subsequently glucuronidated.
 The enzyme(s) responsible for the formation of 3-hydroxydesloratadine have not been identified.
 Data from clinical trials indicate that a subset of the general population has a decreased ability to form 3-hydroxydesloratadine, and are poor metabolizers of desloratadine.
-In pharmacokinetic studies (n=3,748), approximately 6% of subjects were poor metabolizers of desloratadine (defined as a subject with an AUC ratio of 3-hydroxydesloratadine to desloratadine less than 0.1, or a subject with a desloratadine half-life exceeding 50 hours).
-These pharmacokinetic studies included subjects between the ages of 2 and 70 years, including 977 subjects aged 2 to 5 years, 1,575 subjects aged 6 to 11 years, and 1196 subjects aged 12 to 70 years.
+In pharmacokinetic studies (n=3748), approximately 6% of subjects were poor metabolizers of desloratadine (defined as a subject with an AUC ratio of 3-hydroxydesloratadine to desloratadine less than 0.1, or a subject with a desloratadine half-life exceeding 50 hours).
+These pharmacokinetic studies included subjects between the ages of 2 and 70 years, including 977 subjects aged 2 to 5 years, 1575 subjects aged 6 to 11 years, and 1196 subjects aged 12 to 70 years.
 There was no difference in the prevalence of poor metabolizers across age groups.
 The frequency of poor metabolizers was higher in Blacks (17%, n=988) as compared to Caucasians (2%, n=1,462) and Hispanics (2%, n=1,063).
 The median exposure (AUC) to desloratadine in the poor metabolizers was approximately 6-fold greater than in the subjects who are not poor metabolizers.
 Subjects who are poor metabolizers of desloratadine cannot be prospectively identified and will be exposed to higher levels of desloratadine following dosing with the recommended dose of desloratadine.
-In multidose clinical safety studies, where metabolizer status was identified, a total of 94 poor metabolizers and 123 normal metabolizers were enrolled and treated with desloratadine oral solution for 15-35 days.
+In multidose clinical safety studies, where metabolizer status was identified, a total of 94 poor metabolizers and 123 normal metabolizers were enrolled and treated with desloratadine oral solution for 15 to 35 days.
 In these studies, no overall differences in safety were observed between poor metabolizers and normal metabolizers.
 Although not seen in these studies, an increased risk of exposure-related adverse events in patients who are poor metabolizers cannot be ruled out.
 
@@ -78,15 +78,15 @@ These age-related differences are unlikely to be clinically relevant and no dosa
 Pediatric Subjects:
 
 In subjects 6 to 11 years old, a single dose of 5 mL of desloratadine oral solution containing 2.5 mg of desloratadine, resulted in desloratadine plasma concentrations similar to those achieved in adults administered a single 5 mg desloratadine tablet.
-In subjects 2 to 5 years old, a single dose of 2.5 mL of desloratadine oral solution containing 1.25 mg of desloratadine, resulted in desloratadine plasma concentrations similar to those achieved in adults administered a single 5-mg desloratadine tablet.
-However, the Cmax and AUC of the metabolite (3-hydroxydesloratadine) were 1.27 and 1.61 times higher for the 5 mg dose of Oral Solution administered in adults compared to the Cmax and AUC obtained in children 2 to 11 years of age receiving 1.25-2.5 mg of desloratadine oral solution.
+In subjects 2 to 5 years old, a single dose of 2.5 mL of desloratadine oral solution containing 1.25 mg of desloratadine, resulted in desloratadine plasma concentrations similar to those achieved in adults administered a single 5 mg desloratadine tablet.
+However, the Cmax and AUC of the metabolite (3-hydroxydesloratadine) were 1.27 and 1.61 times higher for the 5 mg dose of oral solution administered in adults compared to the Cmax and AUC obtained in children 2 to 11 years of age receiving 1.25 to 2.5 mg of desloratadine oral solution.
 
 A single dose of either 2.5 mL or 1.25 mL of desloratadine oral solution containing 1.25 mg or 0.625 mg, respectively, of desloratadine was administered to subjects 6 to 11 months of age and 12 to 23 months of age.
 The results of a population pharmacokinetic analysis indicated that a dose of 1 mg for subjects aged 6 to 11 months and 1.25 mg for subjects 12 to 23 months of age is required to obtain desloratadine plasma concentrations similar to those achieved in adults administered a single 5 mg dose of desloratadine oral solution.
 
 Renally Impaired:
 
-Desloratadine pharmacokinetics following a single dose of 7.5 mg were characterized in patients with mild (n=7; creatinine clearance 51-69 mL/min/1.73 m2), moderate (n=6; creatinine clearance 34-43 mL/min/1.73 m2), and severe (n=6; creatinine clearance 5-29 mL/min/1.73 m2) renal impairment or hemodialysis dependent (n=6) patients.
+Desloratadine pharmacokinetics following a single dose of 7.5 mg were characterized in patients with mild (n=7; creatinine clearance 51 to 69 mL/min/1.73 m2), moderate (n=6; creatinine clearance 34 to 43 mL/min/1.73 m2), and severe (n=6; creatinine clearance 5 to 29 mL/min/1.73 m2) renal impairment or hemodialysis dependent (n=6) patients.
 In patients with mild and moderate renal impairment, median Cmax and AUC values increased by approximately 1.2- and 1.9-fold, respectively, relative to subjects with normal renal function.
 In patients with severe renal impairment or who were hemodialysis dependent, Cmax and AUC values increased by approximately 1.7- and 2.5-fold, respectively.
 Minimal changes in 3-hydroxydesloratadine concentrations were observed.

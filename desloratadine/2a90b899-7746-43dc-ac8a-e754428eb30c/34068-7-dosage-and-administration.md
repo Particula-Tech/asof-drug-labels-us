@@ -2,9 +2,9 @@
 
 Desloratadine tablets may be taken without regard to meals.
 
-## 2.1 Adults and adolescents 12 years of age and over
+## 2.1 Adults and Adolescents 12 Years of Age and Over
 
-The recommended dose of desloratadine tablets is one 5-mg tablet once daily.
+The recommended dose of desloratadine tablets is one 5 mg tablet once daily.
 
 ## 2.5 Adults with Hepatic or Renal Impairment
 
