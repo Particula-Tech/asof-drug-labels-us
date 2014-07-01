@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA075102"
+  ],
+  "inn": "propofol",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-608-20",
+    "25021-608-50",
+    "25021-608-51"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "propofol",
+      "name": "propofol"
+    }
+  ],
+  "setid": "fa93f173-7858-4d88-860e-76ab97e65c2f",
+  "source": "dailymed"
+}
