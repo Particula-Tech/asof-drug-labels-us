@@ -2,7 +2,7 @@
 
 ## 14.1 Clinical Trials in Adult Hypogonadal Males
 
-Testim® was evaluated in a randomized multicenter, multi-dose, active and placebo controlled 90-day study in 406 adult males with morning testosterone concentrations ≤300 ng/dL.
+Testim® was evaluated in a randomized multicenter, multi-dose, active and placebo controlled 90-day study in 406 adult males with morning testosterone levels ≤300 ng/dL.
 The study was double-blind for the doses of Testim and placebo, but open label for the non-scrotal testosterone transdermal system.
 During the first 60 days, patients were evenly randomized to Testim 50 mg, Testim 100 mg, placebo gel, or testosterone transdermal system.
 At Day 60, patients receiving Testim were maintained at the same dose, or were titrated up or down within their treatment group, based on 24-hour averaged serum testosterone concentration obtained on Day 30.
@@ -26,7 +26,7 @@ Sexual enjoyment and satisfaction with erection duration were improved compared 
 In Testim-treated patients, the number of days in which sexual activity was reported to occur increased by 123% from baseline at Day 30 and was still increased from baseline by 59% at Day 90.
 The number of days with spontaneous erections increased by 137% at Day 30 and was maintained at 78% at Day 90 for Testim-treated patients compared to baseline.
 
-Table 3 summarizes the changes in body composition at Day 90 for patients receiving Testim 50 mg or 100 mg as measured by standardized whole body DEXA (Dual Energy X-ray Absorptiometry) scanning.
+Table 3 summarizes the changes in body composition at Day 90 for patients receiving Testim 50 mg or 100 mg as measured by standardized whole body DEXA (Dual-Energy X-ray Absorptiometry) scanning.
 
 | Table 3: Effect of Testim on Lean Body Mass, Total Fat Mass and % Body Fat |  |  |  |
 | --- | --- | --- | --- |

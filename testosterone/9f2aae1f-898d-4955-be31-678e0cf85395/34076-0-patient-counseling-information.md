@@ -34,13 +34,13 @@ Strict adherence to the following precautions is advised to minimize the potenti
 Patients should be informed that treatment with androgens may lead to adverse reactions which include:
 
 - Changes in urinary habits, such as increased urination at night, trouble starting the urine stream, passing urine many times during the day, having an urge to go the bathroom right away, having a urine accident, or being unable to pass urine or weak urine flow
-- Breathing disturbances, including those associated with sleep or excessive daytime sleepiness.
+- Breathing disturbances, including those associated with sleep or excessive daytime sleepiness
 - Too frequent or persistent erections of the penis
 - Nausea, vomiting, changes in skin color, or ankle swelling
 
 ## 17.4 Patients Should Be Advised of the Following Instructions for Use
 
-- Read the Medication Guide before starting Testim therapy and reread it each time the prescription is renewed.
+- Read the Medication Guide before starting Testim therapy and reread it each time the prescription is renewed
 - Testim should be applied and used appropriately to maximize the benefits and to minimize the risk of secondary exposure in children and women
 - Keep Testim out of the reach of children.
   The package is not child resistant.
@@ -57,4 +57,4 @@ Manufactured for: Auxilium Pharmaceuticals, Inc. Chesterbrook, PA 19087 USA Manu
 
 US Patent Nos. 7,320,968; 7,608,605; 7,608,606; 7,608,607; 7,608,608; 7,608,609; 7,608,610; 7,935,690; 8,063,029; 8,178,518
 
-PL-0705-001.c ######
+PL-0705-001.e ######

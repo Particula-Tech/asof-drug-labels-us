@@ -4,7 +4,7 @@ Testim® (TĔS tim) CIII
 
 (testosterone gel)
 
-Read this Medication Guide that comes with TESTIM before you start using it and each time you get a refill.
+Read this Medication Guide that comes with Testim before you start using it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
@@ -133,8 +133,9 @@ Testim can cause serious side effects including:
   - being unable to pass urine or weak urine flow
 - Possible increased risk of prostate cancer.
   Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use Testim.
-- Blood clots in the legs.
-  This can include pain, swelling or redness of your legs.
+- Blood clots in the legs or lungs.
+  Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
+  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
 - In large doses Testim may lower your sperm count.
 - Swelling of your ankles, feet, or body, with or without heart failure.
   This may cause serious problems for people who have heart, kidney or liver disease.
@@ -200,8 +201,8 @@ By: DPT Laboratories, Ltd.
 
 San Antonio, TX 78215
 
-PL-0705-002.d
+PL-0705-002.e
 
 ######
 
-Revised: 08/2013
+Revised: 06/2014
