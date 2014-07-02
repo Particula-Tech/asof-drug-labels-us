@@ -24,6 +24,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 The following adverse reactions have been identified during post-approval use of CLOBEX Lotion, 0.05%.
 
 - Endocrine disorders: Cushing’s syndrome, Adrenal suppression
-- Eye: Eye pain, Vision blurred, Eye irritation.
 - Skin: Rash, Pain of skin, Skin exfoliation, Skin chapped, Scaling, Induration/papulation, Lichenification.
 - Other: Psoriasis (aggravation), plaque elevation, excoriation.
