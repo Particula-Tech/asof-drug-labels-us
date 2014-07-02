@@ -19,4 +19,4 @@ Nonetheless, clindamycin is an antimicrobial agent active in vitro against most 
 
 Rx only
 
-LAB-0043-4.0 September 2013
+LAB-0043-4.0 May 2014
