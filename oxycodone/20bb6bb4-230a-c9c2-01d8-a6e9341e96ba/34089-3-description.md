@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Oxycodone hydrochloride tablets,USP is an opioid analgesic.
+Oxycodone hydrochloride tablets,USP is an opioid analgesic
 
 Each tablet for oral administration contains 5 mg, 15 mg or 30 mg of oxycodone hydrochloride USP.
 
