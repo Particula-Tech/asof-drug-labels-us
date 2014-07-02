@@ -16,11 +16,11 @@ The Clinical Global Impression (CGI) assessment reflects the impression of a ski
 
 - In a 4-week trial (n=414) comparing two fixed doses of ABILIFY (15 mg/day or 30 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score, PANSS positive subscale, and CGI-severity score.
   In addition, the 15 mg dose was superior to placebo in the PANSS negative subscale.
-- In a 4-week trial (n=404) comparing two fixed doses of ABILIFY (20 mg/day or 30 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score, PANSS positive subscale, PANSS negative subscale, and CGI-severity score.
-- In a 6-week trial (n=420) comparing three fixed doses of ABILIFY (10 mg/day, 15 mg/day, or 20 mg/day) to placebo, all three doses of ABILIFY were superior to placebo in the PANSS total score, PANSS positive subscale, and the PANSS negative subscale.
-- In a 6-week trial (n=367) comparing three fixed doses of ABILIFY (2 mg/day, 5 mg/day, or 10 mg/day) to placebo, the 10 mg dose of ABILIFY was superior to placebo in the PANSS total score, the primary outcome measure of the study.
+  In a 4-week trial (n=404) comparing two fixed doses of ABILIFY (20 mg/day or 30 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score, PANSS positive subscale, PANSS negative subscale, and CGI-severity score.
+  In a 6-week trial (n=420) comparing three fixed doses of ABILIFY (10 mg/day, 15 mg/day, or 20 mg/day) to placebo, all three doses of ABILIFY were superior to placebo in the PANSS total score, PANSS positive subscale, and the PANSS negative subscale.
+  In a 6-week trial (n=367) comparing three fixed doses of ABILIFY (2 mg/day, 5 mg/day, or 10 mg/day) to placebo, the 10 mg dose of ABILIFY was superior to placebo in the PANSS total score, the primary outcome measure of the study.
   The 2 mg and 5 mg doses did not demonstrate superiority to placebo on the primary outcome measure.
-- In a fifth study, a 4-week trial (n=103) comparing ABILIFY in a range of 5 mg/day to 30 mg/day to placebo, ABILIFY was only significantly different compared to placebo in a responder analysis based on the CGI-severity score, a primary outcome for that trial.
+  In a fifth study, a 4-week trial (n=103) comparing ABILIFY in a range of 5 mg/day to 30 mg/day to placebo, ABILIFY was only significantly different compared to placebo in a responder analysis based on the CGI-severity score, a primary outcome for that trial.
 
 Thus, the efficacy of 10 mg, 15 mg, 20 mg, and 30 mg daily doses was established in two studies for each dose.
 Among these doses, there was no evidence that the higher dose groups offered any advantage over the lowest dose group of these studies.
@@ -103,7 +103,7 @@ Twenty-five were from the ABILIFY group and 43 were from the placebo group.
 The number of observed manic episodes in the ABILIFY group (7) were fewer than that in the placebo group (19), while the number of depressive episodes in the ABILIFY group (14) was similar to that in the placebo group (18).
 The Kaplan-Meier curves of the time from randomization to relapse to any mood event during the 52-week, double-blind treatment phase for ABILIFY and placebo groups are shown in Figure 1.
 
-Figure 1: Kaplan-Meier Estimation of Proportion of Relapses to Any Mood Event for ABILIFY and Placebo Groups
+- Figure 1: Kaplan-Meier Estimation of Proportion of Relapses to Any Mood Event for ABILIFY and Placebo Groups
 
 An examination of population subgroups did not reveal any clear evidence of differential responsiveness on the basis of age and gender; however, there were insufficient numbers of patients in each of the ethnic groups to adequately assess inter-group differences.
 
@@ -149,6 +149,7 @@ The results of these trials are as follows:
   ABILIFY dosing started at 2 mg/day and was increased to 5 mg/day after one week.
   After a second week, it was increased to 10 mg/day for patients in the 10 mg and 15 mg dose arms, and after a third week, it was increased to 15 mg/day in the 15 mg/day treatment arm.
   All three doses of ABILIFY significantly improved scores on the ABC-I subscale compared with placebo.
+- In a clinical trial with ABILIFY conducted in children and adolescents (6 to 17 years of age), the efficacy of ABILIFY for the maintenance treatment of irritability associated with autistic disorder was not established [see Use in Specific Populations (8.4)].
 
 ## 14.5 Agitation Associated with Schizophrenia or Bipolar Mania
 
@@ -165,7 +166,7 @@ The results of the trials follow:
   At 2 hours post-injection, the 5.25 mg, 9.75 mg, and 15 mg doses were statistically superior to placebo in the PANSS Excited Component and on the CGI-I Scale.
 - In a second placebo-controlled trial in agitated inpatients predominantly meeting DSM-IV criteria for schizophrenia (n=445), one fixed aripiprazole injection dose of 9.75 mg was evaluated.
   At 2 hours post-injection, aripiprazole for injection was statistically superior to placebo in the PANSS Excited Component and on the CGI-I Scale.
-- In a placebo-controlled trial in agitated inpatients meeting DSM-IV criteria for bipolar I disorder (manic or mixed) (n=291), two fixed aripiprazole injection doses of 9.75 mg and 15 mg were evaluated.
+  In a placebo-controlled trial in agitated inpatients meeting DSM-IV criteria for bipolar I disorder (manic or mixed) (n=291), two fixed aripiprazole injection doses of 9.75 mg and 15 mg were evaluated.
   At 2 hours post-injection, both doses were statistically superior to placebo in the PANSS Excited Component.
 
 Examination of population subsets (age, race, and gender) did not reveal any differential responsiveness on the basis of these subgroupings.

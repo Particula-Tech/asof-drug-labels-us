@@ -4,19 +4,19 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Use in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
-- Clinical Worsening of Depression and Suicide Risk [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.2)]
-- Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.3)]
-- Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.4)]
-- Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.5)]
-- Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.6)]
-- Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.7)]
-- Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.8)]
-- Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.9)]
-- Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.10)]
-- Suicide [see WARNINGS AND PRECAUTIONS (5.11)]
-- Dysphagia [see WARNINGS AND PRECAUTIONS (5.12)]
-- Use in Patients with Concomitant Illness [see WARNINGS AND PRECAUTIONS (5.13)]
+- •Use in Elderly Patients with Dementia-Related Psychosis [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)]
+- •Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.2)]
+- •Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.3)]
+- •Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.4)]
+- •Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.5)]
+- •Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.6)]
+- •Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.7)]
+- •Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.8)]
+- •Potential for Cognitive and Motor Impairment [see WARNINGS AND PRECAUTIONS (5.9)]
+- •Body Temperature Regulation [see WARNINGS AND PRECAUTIONS (5.10)]
+- •Suicide [see WARNINGS AND PRECAUTIONS (5.11)]
+- •Dysphagia [see WARNINGS AND PRECAUTIONS (5.12)]
+- •Use in Patients with Concomitant Illness [see WARNINGS AND PRECAUTIONS (5.13)]
 
 The most common adverse reactions in adult patients in clinical trials (≥10%) were nausea, vomiting, constipation, headache, dizziness, akathisia, anxiety, insomnia, and restlessness.
 
@@ -93,45 +93,45 @@ Table 15 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 15: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral ABILIFY
 
-| System Organ Class Preferred Term | Aripiprazole (n=1843) | Placebo (n=1166) |
-| --- | --- | --- |
-|  | Percentage of Patients Reporting Reactiona |  |
-| Eye Disorders |  |  |
-| Blurred Vision | 3 | 1 |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 15 | 11 |
-| Constipation | 11 | 7 |
-| Vomiting | 11 | 6 |
-| Dyspepsia | 9 | 7 |
-| Dry Mouth | 5 | 4 |
-| Toothache | 4 | 3 |
-| Abdominal Discomfort | 3 | 2 |
-| Stomach Discomfort | 3 | 2 |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatigue | 6 | 4 |
-| Pain | 3 | 2 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Musculoskeletal Stiffness | 4 | 3 |
-| Pain in Extremity | 4 | 2 |
-| Myalgia | 2 | 1 |
-| Muscle Spasms | 2 | 1 |
-| Nervous System Disorders |  |  |
-| Headache | 27 | 23 |
-| Dizziness | 10 | 7 |
-| Akathisia | 10 | 4 |
-| Sedation | 7 | 4 |
-| Extrapyramidal Disorder | 5 | 3 |
-| Tremor | 5 | 3 |
-| Somnolence | 5 | 3 |
-| Psychiatric Disorders |  |  |
-| Agitation | 19 | 17 |
-| Insomnia | 18 | 13 |
-| Anxiety | 17 | 13 |
-| Restlessness | 5 | 3 |
-| Respiratory, Thoracic, and Mediastinal Disorders |  |  |
-| Pharyngolaryngeal Pain | 3 | 2 |
-| Cough | 3 | 2 |
-| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
+| System Organ Class Preferred Term | Aripiprazole (n=1843) | Placebo (n=1166) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Percentage of Patients Reporting Reactiona |  |  |  |  |
+| Eye Disorders |  |  |  |  |  |
+| Blurred Vision | 3 | 1 |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |
+| Nausea | 15 | 11 |  |  |  |
+| Constipation | 11 | 7 |  |  |  |
+| Vomiting | 11 | 6 |  |  |  |
+| Dyspepsia | 9 | 7 |  |  |  |
+| Dry Mouth | 5 | 4 |  |  |  |
+| Toothache | 4 | 3 |  |  |  |
+| Abdominal Discomfort | 3 | 2 |  |  |  |
+| Stomach Discomfort | 3 | 2 |  |  |  |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |
+| Fatigue | 6 | 4 |  |  |  |
+| Pain | 3 | 2 |  |  |  |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
+| Musculoskeletal Stiffness | 4 | 3 |  |  |  |
+| Pain in Extremity | 4 | 2 |  |  |  |
+| Myalgia | 2 | 1 |  |  |  |
+| Muscle Spasms | 2 | 1 |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |
+| Headache | 27 | 23 |  |  |  |
+| Dizziness | 10 | 7 |  |  |  |
+| Akathisia | 10 | 4 |  |  |  |
+| Sedation | 7 | 4 |  |  |  |
+| Extrapyramidal Disorder | 5 | 3 |  |  |  |
+| Tremor | 5 | 3 |  |  |  |
+| Somnolence | 5 | 3 |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |
+| Agitation | 19 | 17 |  |  |  |
+| Insomnia | 18 | 13 |  |  |  |
+| Anxiety | 17 | 13 |  |  |  |
+| Restlessness | 5 | 3 |  |  |  |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |  |  |
+| Pharyngolaryngeal Pain | 3 | 2 |  |  |  |
+| Cough | 3 | 2 |  |  |  |
+| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |  |  |  |
 
 An examination of population subgroups did not reveal any clear evidence of differential adverse reaction incidence on the basis of age, gender, or race.
 
@@ -154,29 +154,29 @@ Table 16 enumerates the incidence, rounded to the nearest percent, of adverse re
 
 Table 16: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
-| System Organ Class Preferred Term | Aripiprazole + Li or Val* (n=253) | Placebo + Li or Val* (n=130) |
-| --- | --- | --- |
-|  | Percentage of Patients Reporting Reactiona |  |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 8 | 5 |
-| Vomiting | 4 | 0 |
-| Salivary Hypersecretion | 4 | 2 |
-| Dry Mouth | 2 | 1 |
-| Infections and Infestations |  |  |
-| Nasopharyngitis | 3 | 2 |
-| Investigations |  |  |
-| Weight Increased | 2 | 1 |
-| Nervous System Disorders |  |  |
-| Akathisia | 19 | 5 |
-| Tremor | 9 | 6 |
-| Extrapyramidal Disorder | 5 | 1 |
-| Dizziness | 4 | 1 |
-| Sedation | 4 | 2 |
-| Psychiatric Disorders |  |  |
-| Insomnia | 8 | 4 |
-| Anxiety | 4 | 1 |
-| Restlessness | 2 | 1 |
-| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. * Lithium or Valproate |  |  |
+| System Organ Class Preferred Term | Aripiprazole + Li or Val* (n=253) | Placebo + Li or Val* (n=130) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Percentage of Patients Reporting Reactiona |  |  |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |
+| Nausea | 8 | 5 |  |  |  |  |  |  |
+| Vomiting | 4 | 0 |  |  |  |  |  |  |
+| Salivary Hypersecretion | 4 | 2 |  |  |  |  |  |  |
+| Dry Mouth | 2 | 1 |  |  |  |  |  |  |
+| Infections and Infestations |  |  |  |  |  |  |  |  |
+| Nasopharyngitis | 3 | 2 |  |  |  |  |  |  |
+| Investigations |  |  |  |  |  |  |  |  |
+| Weight Increased | 2 | 1 |  |  |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |
+| Akathisia | 19 | 5 |  |  |  |  |  |  |
+| Tremor | 9 | 6 |  |  |  |  |  |  |
+| Extrapyramidal Disorder | 5 | 1 |  |  |  |  |  |  |
+| Dizziness | 4 | 1 |  |  |  |  |  |  |
+| Sedation | 4 | 2 |  |  |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |  |  |  |
+| Insomnia | 8 | 4 |  |  |  |  |  |  |
+| Anxiety | 4 | 1 |  |  |  |  |  |  |
+| Restlessness | 2 | 1 |  |  |  |  |  |  |
+| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. * Lithium or Valproate |  |  |  |  |  |  |  |  |
 
 Pediatric Patients (13 to 17 years) with Schizophrenia
 
@@ -251,55 +251,55 @@ Table 19 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 19: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 17 years) Treated with Oral ABILIFY
 
-| System Organ Class Preferred Term | Aripiprazole (n=611) | Placebo (n=298) |
-| --- | --- | --- |
-|  | Percentage of Patients Reporting Reactiona |  |
-| Eye Disorders |  |  |
-| Blurred Vision | 3 | 0 |
-| Gastrointestinal Disorders |  |  |
-| Vomiting | 9 | 7 |
-| Nausea | 8 | 4 |
-| Diarrhea | 5 | 3 |
-| Salivary Hypersecretion | 4 | 1 |
-| Abdominal Pain Upper | 3 | 2 |
-| Constipation | 3 | 2 |
-| Dry Mouth | 1 | 0 |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatigue | 10 | 2 |
-| Pyrexia | 5 | 1 |
-| Irritability | 1 | 0 |
-| Thirst | 1 | 0 |
-| Infections and Infestations |  |  |
-| Nasopharyngitis | 6 | 3 |
-| Investigations |  |  |
-| Weight Increased | 2 | 1 |
-| Metabolism and Nutrition Disorders |  |  |
-| Increased Appetite | 7 | 3 |
-| Decreased Appetite | 4 | 2 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Arthralgia | 1 | 0 |
-| Musculoskeletal Stiffness | 1 | 0 |
-| Nervous System Disorders |  |  |
-| Somnolence | 16 | 4 |
-| Extrapyramidal Disorder | 14 | 2 |
-| Headache | 13 | 12 |
-| Sedation | 8 | 1 |
-| Akathisia | 6 | 1 |
-| Tremor | 6 | 1 |
-| Drooling | 4 | 0 |
-| Dizziness | 3 | 1 |
-| Lethargy | 2 | 0 |
-| Dystonia | 1 | 0 |
-| Dyskinesia | 1 | 0 |
-| Hypersomnia | 1 | 0 |
-| Reproductive System and Breast Disorders |  |  |
-| Dysmenorrhoea* | 2 | 1 |
-| Respiratory, Thoracic, and Mediastinal Disorders |  |  |
-| Rhinorrhoea | 2 | 1 |
-| Skin and Subcutaneous Tissue Disorders |  |  |
-| Rash | 2 | 1 |
-| a Adverse reactions reported by at least 1% of pediatric patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
-| * Adjusted for gender. |  |  |
+| System Organ Class Preferred Term | Aripiprazole (n=611) | Placebo (n=298) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Percentage of Patients Reporting Reactiona |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Eye Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Blurred Vision | 3 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vomiting | 9 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 8 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Diarrhea | 5 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Salivary Hypersecretion | 4 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Abdominal Pain Upper | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Constipation | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dry Mouth | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 10 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pyrexia | 5 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Irritability | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Thirst | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Infections and Infestations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 6 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Investigations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Weight Increased | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Increased Appetite | 7 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Decreased Appetite | 4 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Arthralgia | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal Stiffness | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Somnolence | 16 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Extrapyramidal Disorder | 14 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Headache | 13 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Sedation | 8 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Akathisia | 6 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tremor | 6 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Drooling | 4 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Lethargy | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dystonia | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dyskinesia | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hypersomnia | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Reproductive System and Breast Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dysmenorrhoea* | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rhinorrhoea | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rash | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Adverse reactions reported by at least 1% of pediatric patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * Adjusted for gender. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Adult Patients Receiving ABILIFY as Adjunctive Treatment of Major Depressive Disorder
 
@@ -319,37 +319,37 @@ Table 20 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 20: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
-| System Organ Class Preferred Term | Aripiprazole+ADT* (n=371) | Placebo+ADT* (n=366) |
-| --- | --- | --- |
-|  | Percentage of Patients Reporting Reactiona |  |
-| Eye Disorders |  |  |
-| Blurred Vision | 6 | 1 |
-| Gastrointestinal Disorders |  |  |
-| Constipation | 5 | 2 |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatigue | 8 | 4 |
-| Feeling Jittery | 3 | 1 |
-| Infections and Infestations |  |  |
-| Upper Respiratory Tract Infection | 6 | 4 |
-| Investigations |  |  |
-| Weight Increased | 3 | 2 |
-| Metabolism and Nutrition Disorders |  |  |
-| Increased Appetite | 3 | 2 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Arthralgia | 4 | 3 |
-| Myalgia | 3 | 1 |
-| Nervous System Disorders |  |  |
-| Akathisia | 25 | 4 |
-| Somnolence | 6 | 4 |
-| Tremor | 5 | 4 |
-| Sedation | 4 | 2 |
-| Dizziness | 4 | 2 |
-| Disturbance in Attention | 3 | 1 |
-| Extrapyramidal Disorder | 2 | 0 |
-| Psychiatric Disorders |  |  |
-| Restlessness | 12 | 2 |
-| Insomnia | 8 | 2 |
-| a Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. * Antidepressant Therapy |  |  |
+| System Organ Class Preferred Term | Aripiprazole+ADT* (n=371) | Placebo+ADT* (n=366) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Percentage of Patients Reporting Reactiona |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Eye Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Blurred Vision | 6 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Constipation | 5 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 8 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Feeling Jittery | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Infections and Infestations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Upper Respiratory Tract Infection | 6 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Investigations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Weight Increased | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Increased Appetite | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Arthralgia | 4 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Myalgia | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Akathisia | 25 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Somnolence | 6 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tremor | 5 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Sedation | 4 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | 4 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Disturbance in Attention | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Extrapyramidal Disorder | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Psychiatric Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Restlessness | 12 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Insomnia | 8 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. * Antidepressant Therapy |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Patients with Agitation Associated with Schizophrenia or Bipolar Mania (Intramuscular Injection)
 
@@ -369,23 +369,23 @@ Table 21 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 21: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Patients Treated with ABILIFY Injection
 
-| System Organ Class Preferred Term | Aripiprazole (n=501) | Placebo (n=220) |
-| --- | --- | --- |
-|  | Percentage of Patients Reporting Reactiona |  |
-| Cardiac Disorders |  |  |
-| Tachycardia | 2 | <1 |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 9 | 3 |
-| Vomiting | 3 | 1 |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatigue | 2 | 1 |
-| Nervous System Disorders |  |  |
-| Headache | 12 | 7 |
-| Dizziness | 8 | 5 |
-| Somnolence | 7 | 4 |
-| Sedation | 3 | 2 |
-| Akathisia | 2 | 0 |
-| a Adverse reactions reported by at least 2% of patients treated with aripiprazole injection, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
+| System Organ Class Preferred Term | Aripiprazole (n=501) | Placebo (n=220) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Percentage of Patients Reporting Reactiona |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cardiac Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tachycardia | 2 | <1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 9 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vomiting | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Headache | 12 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | 8 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Somnolence | 7 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Sedation | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Akathisia | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Adverse reactions reported by at least 2% of patients treated with aripiprazole injection, except adverse reactions which had an incidence equal to or less than placebo. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Dose-Related Adverse Reactions
 
@@ -590,7 +590,7 @@ Additional adverse reactions observed in the aripiprazole injection population a
 
 General Disorders and Administration Site Conditions:
 
-1. ≥1/100 patients - injection site reaction; ≥1/1000 patients and <1/100 patients - venipuncture site bruise
+≥1/100 patients - injection site reaction; ≥1/1000 patients and <1/100 patients - venipuncture site bruise
 
 ## 6.3 Postmarketing Experience
 

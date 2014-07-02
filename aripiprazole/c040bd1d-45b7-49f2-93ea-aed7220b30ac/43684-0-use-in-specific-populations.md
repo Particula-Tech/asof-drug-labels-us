@@ -66,7 +66,10 @@ The efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the 
 However, such efficacy and lack of pharmacokinetic interaction between aripiprazole and lithium or valproate can be extrapolated from adult data, along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 Safety and effectiveness in pediatric patients demonstrating irritability associated with autistic disorder were established in two 8-week, placebo-controlled clinical trials in 212 pediatric patients aged 6 to 17 years [see INDICATIONS AND USAGE (1.4), DOSAGE AND ADMINISTRATION (2.4), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.4)].
-Maintenance efficacy in pediatric patients has not been systematically evaluated.
+A maintenance trial was conducted in pediatric patients (6 to 17 years of age) with irritability associated with autistic disorder.
+The first phase of this trial was an open-label, flexibly dosed (aripiprazole 2 to 15 mg/day) phase in which patients were stabilized (defined as > 25% improvement on the ABC-I subscale, and a CGI-I rating of “much improved” or “very much improved”) on ABILIFY for 12 consecutive weeks.
+Overall, 85 patients were stabilized and entered the second, 16-week, double-blind phase where they were randomized to either continue ABILIFY treatment or switch to placebo.
+In this trial, the efficacy of ABILIFY for the maintenance treatment of irritability associated with autistic disorder was not established.
 
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients, 10 to 17 years of age, were similar to those in adults after correcting for the differences in body weight.
 

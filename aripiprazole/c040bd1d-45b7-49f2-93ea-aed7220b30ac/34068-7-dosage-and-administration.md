@@ -74,8 +74,8 @@ Dosing should be initiated at 2 mg/day.
 The dose should be increased to 5 mg/day, with subsequent increases to 10 mg/day or 15 mg/day if needed.
 Dose adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see CLINICAL STUDIES (14.4)].
 
-Maintenance Treatment: The efficacy of ABILIFY for the maintenance treatment of irritability associated with autistic disorder has not been evaluated.
-While there is no body of evidence available to answer the question of how long the patient treated with ABILIFY should be maintained, patients should be periodically reassessed to determine the continued need for maintenance treatment.
+Maintenance Treatment: In a clinical trial with ABILIFY conducted in children and adolescents (6 to 17 years of age), the efficacy of ABILIFY for the maintenance treatment of irritability associated with autistic disorder was not established [see Use in Specific Populations (8.4)].
+Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
 ## 2.5 Agitation Associated with Schizophrenia or Bipolar Mania (Intramuscular Injection)
 

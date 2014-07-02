@@ -20,7 +20,7 @@ In three, 10-week, placebo-controlled studies of aripiprazole in elderly patient
 The safety and efficacy of ABILIFY in the treatment of patients with psychosis associated with dementia have not been established.
 If the prescriber elects to treat such patients with ABILIFY, vigilance should be exercised, particularly for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see also BOXED WARNING].
 
-## 5.2 Clinical Worsening of Depression and Suicide Risk
+## 5.2 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -159,7 +159,7 @@ Table 6: Changes in Fasting Glucose From Placebo-Controlled Adjunctive Trials in
 
 Pediatric Patients and Adolescents
 
-In an analysis of two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), the mean change in fasting glucose in aripiprazole-treated patients (+4.8 mg/dL; with a median exposure of 43 days; N=259) was not significantly different than in placebo-treated patients (+1.7 mg/dL; with a median exposure of 42 days; N=123).
+In an analysisof two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), the mean change in fasting glucose in aripiprazole-treated patients (+4.8 mg/dL; with a median exposure of 43 days; N=259) was not significantly different than in placebo-treated patients (+1.7 mg/dL; with a median exposure of 42 days; N=123).
 
 In an analysis of two placebo-controlled trials in pediatric and adolescent patients with irritability associated with autistic disorder (6 to 17 years) with median exposure of 56 days, the mean change in fasting glucose in aripiprazole-treated patients (–0.2 mg/dL; N=83) was not significantly different than in placebo-treated patients (–0.6 mg/dL; N=33).
 Table 7 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and pediatric bipolar patients (median exposure of 42-43 days) as well as from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder (median exposure of 56 days).
@@ -292,7 +292,8 @@ Table 12: Percentage of Patients From Placebo-Controlled Trials in Adult Patient
 | Placebo | 598 | 16 (2.7) |  |  |
 | Major Depressive Disorder (Adjunctive Therapy)c | Aripiprazole | 347 | 18 (5.2) |  |
 | Placebo | 330 | 2 (0.6) |  |  |
-| a 4-6 weeks duration. b 3 weeks duration. c 6 weeks duration. |  |  |  |  |
+
+a 4-6 weeks duration. b 3 weeks duration. c 6 weeks duration.
 
 Pediatric Patients and Adolescents
 
@@ -312,7 +313,8 @@ Table 13: Percentage of Patients From Placebo-Controlled Monotherapy Trials in P
 | Placebo | 187 | 3 (1.6) |  |  |
 | Irritability Associated with Autistic Disorderb | Aripiprazole | 209 | 55 (26.3) |  |
 | Placebo | 98 | 7 (7.1) |  |  |
-| a 4-6 weeks duration. b 8 weeks duration. |  |  |  |  |
+
+a 4-6 weeks duration. b 8 weeks duration.
 
 In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with ABILIFY.
 After 26 weeks, 32.8% of patients gained ≥7% of their body weight, not adjusted for normal growth.

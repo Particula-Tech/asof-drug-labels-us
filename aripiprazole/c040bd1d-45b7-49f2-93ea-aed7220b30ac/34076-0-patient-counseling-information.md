@@ -11,7 +11,7 @@ Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 Patients and caregivers should be advised that elderly patients with dementia-related psychoses treated with antipsychotic drugs are at increased risk of death.
 ABILIFY is not approved for elderly patients with dementia-related psychosis [see WARNINGS AND PRECAUTIONS (5.1)].
 
-Clinical Worsening of Depression and Suicide Risk
+Suicidal Thoughts and Behaviors in Adolescents and Young Adults
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
@@ -19,7 +19,7 @@ Such symptoms should be reported to the patient’s prescriber or health profess
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see WARNINGS AND PRECAUTIONS (5.2)].
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with ABILIFY and should counsel them in its appropriate use.
-A patient Medication Guide including information about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for ABILIFY.
+A patient Medication Guide including information about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for ABILIFY.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 It should be noted that ABILIFY is not approved as a single agent for treatment of depression and has not been evaluated in pediatric major depressive disorder.
@@ -47,7 +47,7 @@ Nursing
 
 Patients should be advised not to breast-feed an infant if they are taking ABILIFY [see USE IN SPECIFIC POPULATIONS (8.3)].
 
-Concomitant Medication
+ConcomitantMedication
 
 Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions [see DRUG INTERACTIONS (7)].
 
@@ -76,6 +76,6 @@ Distributed and marketed by Otsuka America Pharmaceutical, Inc., Rockville, MD 2
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550B4 03US13L-1119 Rev August 2013
+1239550B5 03US14L-1120C Rev June 2014
 
 © 2013, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
