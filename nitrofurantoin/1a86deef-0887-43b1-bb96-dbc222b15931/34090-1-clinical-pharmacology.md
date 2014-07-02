@@ -49,13 +49,13 @@ However, the efficacy of nitrofurantoin in treating clinical infections due to t
 
 Coagulase-negative staphylococci (including Staphylococcus epidermidis)
 
-Enterococcus faecalis
+Enterococcusfaecalis
 
 Staphylococcus aureus
 
 Streptococcus agalactiae
 
-Group D streptococci
+Group 0 streptococci
 
 Viridans group streptococci
 

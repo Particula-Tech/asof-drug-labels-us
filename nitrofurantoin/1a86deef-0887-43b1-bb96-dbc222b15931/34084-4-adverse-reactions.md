@@ -1,5 +1,8 @@
 # ADVERSE REACTIONS
 
+In clinical trials of nitrofurantoin monohydrate/macrocrystals capsules, the most frequent clinical adverse events that were reported as possibly or probably drug-related were nausea (8%), headache (6%), and flatulence (1.5%).
+Additional clinical adverse events reported as possibly or probably drug-related occurred in less than 1% of patients studied and are listed below within each body system in order of decreasing frequency:
+
 Gastrointestinal: Diarrhea, dyspepsia, abdominal pain, constipation, emesis
 
 Neurologic: Dizziness, drowsiness, amblyopia

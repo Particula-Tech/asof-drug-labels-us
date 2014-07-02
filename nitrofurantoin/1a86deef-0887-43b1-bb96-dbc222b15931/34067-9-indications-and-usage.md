@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Nitrofurantoin monohydrate/macrocrystals capsules is indicated only for the treatment of acute uncomplicated urinary tract infections (acute cystitis) caused by susceptible strains of Escherichia coli or Staphylococcus saprophyticus.
+Nitrofurantoin monohydrate/macrocrystals capsules are indicated only for the treatment of acute uncomplicated urinary tract infections (acute cystitis) caused by susceptible strains of Escherichia coli or Staphylococcus saprophyticus.
 
 Nitrofurantoin is not indicated for the treatment of pyelonephritis or perinephric abscesses.
 
@@ -10,7 +10,7 @@ In the absence of such data, local epidemiology and susceptibility patterns may 
 
 Nitrofurantoins lack the broader tissue distribution of other therapeutic agents approved for urinary tract infections.
 Consequently, many patients who are treated with nitrofurantoin monohydrate/macrocrystals capsules are predisposed to persistence or reappearance of bacteriuria.
-(See CLINICAL STUDIES).
+(See CLINICAL STUDIES.)
 Urine specimens for culture and susceptibility testing should be obtained before and after completion of therapy.
-If persistence or reappearance of bacteriuria occurs after treatment with nitrofurantoin monohydrate/macrocrystals Capsules, other therapeutic agents with broader tissue distribution should be selected.
+If persistence or reappearance of bacteriuria occurs after treatment with nitrofurantoin monohydrate/macrocrystals capsules, other therapeutic agents with broader tissue distribution should be selected.
 In considering the use of nitrofurantoin monohydrate/macrocrystals capsules, lower eradication rates should be balanced against the increased potential for systemic toxicity and for the development of antimicrobial resistance when agents with broader tissue distribution are utilized.
