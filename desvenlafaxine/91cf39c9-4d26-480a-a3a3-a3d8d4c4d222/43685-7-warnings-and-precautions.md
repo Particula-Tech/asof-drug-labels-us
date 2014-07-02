@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
+## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents and Young Adults
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -43,6 +43,7 @@ If the decision has been made to discontinue treatment, medication should be tap
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
+
 Prescriptions for desvenlafaxine should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 Screening patients for bipolar disorder
@@ -68,6 +69,7 @@ There may be circumstances when it is necessary to initiate treatment with a MAO
 Desvenlafaxine should be discontinued before initiating treatment with the MAOI [seeContraindications(4) and Dosage and Administration (2.6)].
 
 If concomitant use of desvenlafaxine with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+
 Treatment with desvenlafaxine and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.3 Elevated Blood Pressure
@@ -88,9 +90,9 @@ Case reports and epidemiological studies (case-control and cohort design) have d
 Bleeding events related to SSRIs and SNRIs have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of desvenlafaxine and NSAIDs, aspirin, or other drugs that affect coagulation or bleeding.
 
-## 5.5 Narrow-angle Glaucoma
+## 5.5 Angle Closure Glaucoma
 
-Mydriasis has been reported in association with desvenlafaxine; therefore, patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma (angle-closure glaucoma) should be monitored.
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including desvenlafaxine may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.6 Activation of Mania/Hypomania
 
@@ -127,6 +129,7 @@ Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
 Also, patients taking diuretics or who are otherwise volume depleted can be at greater risk [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.6)].
 Discontinuation of desvenlafaxine should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 

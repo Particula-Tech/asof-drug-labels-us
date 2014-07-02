@@ -11,7 +11,9 @@ In reproductive developmental studies in rats and rabbits with desvenlafaxine su
 An increase in rat pup deaths was seen during the first 4 days of lactation when dosing occurred during gestation and lactation, at doses greater than 10 times a human dose of 100 mg/day (on a mg/m2 basis).
 Desvenlafaxine should be used during pregnancy only if the potential benefits justify the potential risks to the fetus.
 
-Clinical considerations A prospective longitudinal study of 201 women with history of major depression who were euthymic at the beginning of pregnancy, showed women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+Clinical considerations
+
+A prospective longitudinal study of 201 women with history of major depression who were euthymic at the beginning of pregnancy, showed women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
 
 Human data
 
@@ -21,7 +23,9 @@ Reported clinical findings have included respiratory distress, cyanosis, apnea, 
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
 
-Animal data When desvenlafaxine succinate was administered orally to pregnant rats and rabbits during the period of organogenesis at doses up to 300 mg/kg/day and 75 mg/kg/day, respectively, no teratogenic effects were observed.
+Animal data
+
+When desvenlafaxine succinate was administered orally to pregnant rats and rabbits during the period of organogenesis at doses up to 300 mg/kg/day and 75 mg/kg/day, respectively, no teratogenic effects were observed.
 These doses are 30 times a human dose of 100 mg/day (on a mg/m2 basis) in rats and 15 times a human dose of 100 mg/day (on a mg/m2 basis) in rabbits.
 However, fetal weights were decreased and skeletal ossification was delayed in rats in association with maternal toxicity at the highest dose, with a no-effect dose 10 times a human dose of 100 mg/day (on a mg/m2 basis).
 
@@ -37,7 +41,7 @@ Because of the potential for serious adverse reactions in nursing infants from d
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established [see Boxed Warning and Warnings and Precautions (5.1)] .
+Safety and effectiveness in pediatric patients have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
 Anyone considering the use of desvenlafaxine in a child or adolescent must balance the potential risks with the clinical need.
 
 ## 8.5 Geriatric Use
@@ -46,15 +50,19 @@ Of the 4,158 patients in clinical studies with desvenlafaxine, 6% were 65 years 
 No overall differences in safety or efficacy were observed between these patients and younger patients; however, in the short-term placebo-controlled studies, there was a higher incidence of systolic orthostatic hypotension in patients ≥65 years of age compared to patients <65 years of age treated with desvenlafaxine [see Adverse Reactions (6)].
 For elderly patients, possible reduced renal clearance of desvenlafaxine should be considered when determining dose [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-SSRIs and SNRIs, including desvenlafaxine, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.9)] .
+SSRIs and SNRIs, including desvenlafaxine, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.9)].
 
-## 8.6 Renal Impairment
+## 8.6 Other Patient Factors
+
+The effect of intrinsic patient factors on the pharmacokinetics of desvenlafaxine is presented in Figure 3.
+
+Renal Impairment
 
 In subjects with renal impairment the clearance of desvenlafaxine was decreased.
-In subjects with severe renal impairment (24-hr CrCl <30 mL/min, Cockcroft-Gault) and end-stage renal disease, elimination half-lives were significantly prolonged, increasing exposures to desvenlafaxine; therefore, dosage adjustment is recommended in these patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)] .
+In subjects with severe renal impairment (24-hr CrCl <30 mL/min, Cockcroft-Gault) and end-stage renal disease, elimination half-lives were significantly prolonged, increasing exposures to desvenlafaxine; therefore, dosage adjustment is recommended in these patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-## 8.7 Hepatic Impairment
+Hepatic Impairment
 
-The mean terminal half life (t 1/2 ) changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
+The mean terminal half life (t1/2) changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
 The recommended dose in patients with moderate to severe hepatic impairment is 50 mg/day.
-Dose escalation above 100 mg/day is not recommended [see Clinical Pharmacology (12.3)] .
+Dose escalation above 100 mg/day is not recommended [see Clinical Pharmacology (12.3)].

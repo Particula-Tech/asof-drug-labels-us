@@ -27,11 +27,11 @@ Dose escalation above 100 mg per day is not recommended [see Clinical Pharmacolo
 ## 2.3 Maintenance/Continuation/Extended Treatment
 
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
-Patients should be periodically reassessed to determine the need for continued treatment.
+Longer-term efficacy of desvenlafaxine (50 to 400 mg) was established in two maintenance trials [see Clinical Studies (14)].Patients should be periodically reassessed to determine the need for continued treatment.
 
 ## 2.4 Discontinuing Desvenlafaxine
 
-Symptoms associated with discontinuation of desvenlafaxine, other SNRIs and SSRIs have been reported [see Warnings and Precautions (5.9)] .
+Symptoms associated with discontinuation of desvenlafaxine, other SNRIs and SSRIs have been reported [see Warnings and Precautions (5.9)].
 Patients should be monitored for these symptoms when discontinuing treatment.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
@@ -46,11 +46,16 @@ Tapering of the initial antidepressant may be necessary to minimize discontinuat
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disordersand initiation of therapy with desvenlafaxine.
 Conversely, at least 7 days should be allowed after stopping desvenlafaxine before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4)].
-Use of Desvenlafaxine with other MAOIs such as Linezolid or Methylene Blue Do not start desvenlafaxine in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+
+Use of Desvenlafaxine with other MAOIs such as Linezolid or Methylene Blue
+
+Do not start desvenlafaxine in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4)].
+
 In some cases, a patient already receiving desvenlafaxine therapy may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, desvenlafaxine should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for 7 days or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with desvenlafaxine may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.2)].
+
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with desvenlafaxine is unclear.
 The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].

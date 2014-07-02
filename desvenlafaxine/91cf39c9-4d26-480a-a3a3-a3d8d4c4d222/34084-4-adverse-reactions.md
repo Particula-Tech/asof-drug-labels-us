@@ -7,7 +7,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
 - Elevated Blood Pressure [see Warnings and Precautions (5.3)]
 - Abnormal Bleeding [see Warnings and Precautions (5.4)]
-- Narrow-Angle Glaucoma [see Warnings and Precautions (5.5)]
+- Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]
 - Seizure [see Warnings and Precautions (5.8)]
@@ -18,21 +18,27 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 
-Patient exposure Desvenlafaxine was evaluated for safety in 4,158 patients diagnosed with major depressive disorder who participated in multiple-dose pre-marketing studies, representing 1,677 patient-years of exposure.
-Among these 4,158 desvenlafaxine treated patients; 1,834 patients were exposed to desvenlafaxine in 8-week, placebo-controlled studies at doses ranging from 50 to 400 mg/day.
-Out of the 1,834 patients, 687 desvenlafaxine treated patients continued into a 10-month open-label study.
-Of the total 4,158 patients exposed to at least one dose of desvenlafaxine; 1,320 were exposed to desvenlafaxine for 6 months, representing 1058 patient-years of exposure, and 274 were exposed for one year, representing 241 patient-years of exposure.
+Patient exposure
+
+Desvenlafaxine was evaluated for safety in 8,394 patients diagnosed with major depressive disorder who participated in multiple-dose pre-marketing studies, representing 2,784 patient-years of exposure.
+Of the total 8,394 patients exposed to at least one dose of desvenlafaxine; 2,116 were exposed to desvenlafaxine for 6 months, representing 1,658 patient-years of exposure, and 421 were exposed for one year, representing 416 patient-years of exposure.
 
 Adverse reactions reported as reasons for discontinuation of treatment
 
-In the pooled 8-week placebo-controlled studies in patients with MDD, 12% of the 1,834 patients who received desvenlafaxine (50 to 400 mg) discontinued treatment due to an adverse reaction, compared with 3% of the 1,116 placebo-treated patients.
+In the pre-marketing pooled 8-week placebo-controlled studies in patients with MDD, 1,834 patients were exposed to desvenlafaxine (50 to 400 mg).Of the 1,834 patients, 12% discontinued treatment due to an adverse reaction, compared with 3% of the 1,116 placebo-treated patients.
 At the recommended dose of 50 mg, the discontinuation rate due to an adverse reaction for desvenlafaxine (4.1%) was similar to the rate for placebo (3.8%).
 For the 100 mg dose of desvenlafaxine the discontinuation rate due to an adverse reaction was 8.7%.
-The most common adverse reactions leading to discontinuation in at least 2% and at a rate greater than placebo of the desvenlafaxine treated patients in the short-term studies, up to 8 weeks, were: nausea (4%); dizziness, headache and vomiting (2% each); in the long-term studies, up to 11 months, the most common was vomiting (2%).
+
+The most common adverse reactions leading to discontinuation in at least 2% and at a rate greater than placebo of the desvenlafaxine treated patients in the short-term studies, up to 8 weeks, were: nausea (4%); dizziness, headache and vomiting (2% each).
+In a longer-term study, up to 9 months, the most common was vomiting (2%).
+
 Common adverse reactions in placebo-controlled MDD studies
 
-The most commonly observed adverse reactions in desvenlafaxine treated MDD patients in short-term fixed-dose studies (incidence ≥ 5% and at least twice the rate of placebo in the 50 or 100 mg dose groups)were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
-Table 2 shows the incidence of common adverse reactions that occurred in ≥ 2% of desvenlafaxine treated MDD patients and twice the rate of placebo at any dose in the pooled 8-week, placebo-controlled, fixed dose clinical studies Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the Rate of Placebo) in Pooled MDD 8-Week Placebo-Controlled Studies
+The most commonly observed adverse reactions in desvenlafaxine treated MDD patients in pre-marketing pooled 8-week, placebo-controlled, fixed-dose studies (incidence ≥ 5% and at least twice the rate of placebo in the 50 or 100 mg dose groups) were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
+
+Table 2 shows the incidence of common adverse reactions that occurred in ≥ 2% of desvenlafaxine treated MDD patients and twice the rate of placebo at any dose in the pooled 8-week, placebo-controlled, fixed dose clinical studies
+
+Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Groupand Twice the Rate of Placebo) in Pooled MDD 8-Week Placebo-Controlled Studies
 
 |  | Percentage of Patients Reporting Reaction |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -78,9 +84,9 @@ Table 2 shows the incidence of common adverse reactions that occurred in ≥ 2% 
 
 Sexual function adverse reactions
 
-Table 3 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of desvenlafaxine treated MDD patients in any fixed-dose group (pooled 8-week, placebo-controlled, fixed and flexible-dose, clinical studies).
+Table 3 shows the incidence of sexual function adverse reactions that occurred in ≥ 2% of desvenlafaxine treated MDD patients in any fixed-dose group (pre-marketingpooled 8-week, placebo-controlled, fixed -dose, clinical studies).
 
-Table 3: Sexual Function Adverse Reactions (≥2% in in Men or Women in any Desvenlafaxine Group) During the On-Therapy Period
+Table 3: Sexual Function Adverse Reactions (≥2% in Menor Womenin any Desvenlafaxine Group) During the On-Therapy Period
 
 |  |  | Desvenlafaxine |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -94,23 +100,34 @@ Table 3: Sexual Function Adverse Reactions (≥2% in in Men or Women in any Desv
 | Ejaculation disorder | 0 | 0 | 1 | 2 | 5 |
 | Ejaculation failure | 0 | 1 | 0 | 2 | 2 |
 | Sexual dysfunction | 0 | 1 | 0 | 0 | 2 |
-|  |  | Desvenlafaxine |  |  |  |
-|  | Placebo (n=397) | 50 mg (n=209) | 100 mg (n=267) | 200 mg (n=176) | 400 mg (n=163) |
+|  | Placebo (n=397) | Desvenlafaxine |  |  |  |
+|  | 50 mg (n=209) | 100 mg (n=267) | 200 mg (n=176) | 400 mg (n=163) |  |
 | Women only |  |  |  |  |  |
 | Anorgasmia | 0 | 1 | 1 | 0 | 3 |
 
-Other adverse reactions observed in clinical studies Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of < 2% in MDD patients treated with desvenlafaxine were:
+Other adverse reactions observed in premarketing and postmarketingclinical studies
+
+Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of < 2% in MDD patients treated with desvenlafaxine were:
 
 Cardiac disorders – tachycardia.
+
 General disorders and administration site conditions – Asthenia.
+
 Investigations – Weight increased, liver function test abnormal, blood prolactin increased.
+
 Musculoskeletal and connective tissue disorders – Musculoskeletal stiffness.
+
 Nervous system disorders –Syncope, convulsion, dystonia.
+
 Psychiatric disorders – Depersonalization, bruxism.
+
 Renal and urinary disorders – Urinary retention.
+
 Skin and subcutaneous tissue disorders – Rash, alopecia, photosensitivity reaction, angioedema.
+
 In clinical studies, there were uncommon reports of ischemic cardiac adverse reactions, including myocardial ischemia, myocardial infarction, and coronary occlusion requiring revascularization; these patients had multiple underlying cardiac risk factors.
 More patients experienced these events during desvenlafaxine treatment as compared to placebo.
+
 Laboratory, ECG and vital sign changes observed in MDD clinical studies
 
 The following changes were observed in placebo-controlled, short-term MDD studies with desvenlafaxine.
@@ -136,7 +153,7 @@ Table 4: Incidence (%) of Patients With Lipid Abnormalities of Potential Clinica
 
 Proteinuria
 
-Proteinuria, greater than or equal to trace, was observed in the fixed-dose controlled studies (see Table 5).
+Proteinuria, greater than or equal to trace, was observed in the pre-marketingfixed-dose controlled studies (see Table 5).
 This proteinuria was not associated with increases in BUN or creatinine and was generally transient.
 
 Table 5: Incidence (%) of Patients with Proteinuria in the Fixed-dose Clinical Studies
@@ -163,7 +180,7 @@ Table 6: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fix
 | Weight (kg) | 0.0 | -0.4 | -0.6 | -0.9 | -1.1 |
 
 Treatment with desvenlafaxine at all doses from 50 mg/day to 400 mg/day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥90 mm Hg and ≥10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 7).
-Analyses of patients in desvenlafaxine short-term controlled studies who met criteria for sustained hypertension revealed a consistent increase in the proportion of patients who developed sustained hypertension.
+Analyses of patients in desvenlafaxine pre-marketing short-term controlled studies who met criteria for sustained hypertension revealed a consistent increase in the proportion of patients who developed sustained hypertension.
 This was seen at all doses with a suggestion of a higher rate at 400 mg/day.
 
 Table 7: Proportion of Patients with Sustained Elevation of Supine Diastolic Blood Pressure
@@ -178,11 +195,11 @@ Table 7: Proportion of Patients with Sustained Elevation of Supine Diastolic Blo
 
 Orthostatic hypotension
 
-In the short-term, placebo-controlled clinical studies with doses of 50 to 400 mg, systolic orthostatic hypotension (decrease ≥30 mm Hg from supine to standing position) occurred more frequently in patients ≥65 years of age receiving desvenlafaxine (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients <65 years of age receiving desvenlafaxine (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
+In the pre-marketingshort-term, placebo-controlled clinical studies with doses of 50 to 400 mg, systolic orthostatic hypotension (decrease ≥30 mm Hg from supine to standing position) occurred more frequently in patients ≥65 years of age receiving desvenlafaxine (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients <65 years of age receiving desvenlafaxine (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reaction has been identified during post-approval use of desvenlafaxine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome.
+Skin and subcutaneous tissue disorders –Stevens-Johnson syndrome.

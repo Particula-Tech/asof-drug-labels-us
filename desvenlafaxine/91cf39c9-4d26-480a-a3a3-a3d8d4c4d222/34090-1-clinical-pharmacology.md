@@ -19,7 +19,7 @@ No difference was observed between placebo and desvenlafaxine treatments for the
 
 ## 12.3 Pharmacokinetics
 
-The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 100 to 600 mg/day.
+The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 50 to 600 mg/day.
 With once-daily dosing, steady-state plasma concentrations are achieved within approximately 4 to 5 days.
 At steady-state, multiple-dose accumulation of desvenlafaxine is linear and predictable from the single-dose pharmacokinetic profile.
 
@@ -39,7 +39,7 @@ Desvenlafaxine is primarily metabolized by conjugation (mediated by UGT isoforms
 CYP3A4 is the cytochrome P450 isozyme mediating the oxidative metabolism (N-demethylation) of desvenlafaxine.
 The CYP2D6 metabolic pathway is not involved, and after administration of 100 mg, the pharmacokinetics of desvenlafaxine was similar in subjects with CYP2D6 poor and extensive metabolizer phenotype.
 Approximately 45% of desvenlafaxine is excreted unchanged in urine at 72 hours after oral administration.
-Approximately 19% of the administered dose is excreted as the glucuronide metabolite and <5% as the oxidative metabolite (N,O-didesmethylvenlafaxine) in urine.
+Approximately 19% of the administered dose is excreted as the glucuronide metabolite and <5% as the oxidative metabolite (N, O-didesmethylvenlafaxine) in urine.
 
 Drug Interaction Studies
 
@@ -59,7 +59,7 @@ In vitro studies showed minimal inhibitory effect of desvenlafaxine on CYP2D6.
 Clinical studies have shown that desvenlafaxine does not have a clinically relevant effect on CYP2D6 metabolism at the dose of 100 mg daily.
 When desvenlafaxine succinate was administered at a dose of 100 mg daily in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the Cmax and AUC of desipramine increased approximately 25% and 17%, respectively.
 When 400 mg (8 times the recommended 50 mg dose) was administered, the Cmax and AUC of desipramine increased approximately 50% and 90%, respectively.
-Concomitant use of desvenlafaxine with a drug metabolized by CYP2D6 can result in higher concentrations of that drug [see Drug Interactions (7.4)].
+Concomitant use of desvenlafaxine with a drug metabolized by CYP2D6 can result in higher concentrations of that drug [see Drug Interactions (7.5)].
 
 Drugs metabolized by CYP3A4 (midazolam)
 
@@ -104,7 +104,7 @@ CL/F values were comparable in mild hepatic impairment and healthy subjects (< 5
 
 The mean t1/2 changed from approximately 10 hours in healthy subjects and subjects with mild hepatic impairment to 13 and 14 hours in moderate and severe hepatic impairment, respectively.
 The recommended dose in patients with hepatic impairment is 50 mg/day.
-Dose escalation above 100 mg/day is not recommended [see Use in Specific Populations (8.7)].
+Dose escalation above 100 mg/day is not recommended [see Use in Specific Populations (8.6)].
 
 Renal insufficiency
 
@@ -117,4 +117,4 @@ Less than 5% of the drug in the body was cleared during a standard 4-hour hemodi
 
 The maximum recommended dose in patients with moderate renal impairment is 50 mg per day.
 Dosage adjustment of 50 mg every other day is recommended in patients with severe renal impairment or ESRD.
-[see Dosage and Administration (2.2) and Use in Specific Populations (8.6)] .
+[see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].

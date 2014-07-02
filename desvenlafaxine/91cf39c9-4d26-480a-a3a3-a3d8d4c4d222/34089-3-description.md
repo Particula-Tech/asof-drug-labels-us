@@ -11,7 +11,11 @@ The structural formula is shown below.
 
 Desvenlafaxine is a white to off-white crystalline powder that is sparingly soluble in dimethyl sulfoxide.
 The solubility of desvenlafaxine is pH dependent.
+
 Desvenlafaxine is formulated as an extended-release tablet for once-a-day oral administration.
+
 Each 50 mg or 100 mg extended-release tablet contains 50 or 100 mg of desvenlafaxine, respectively.
+
 Inactive ingredients for the 50 mg tablet consist of alginic acid, citric acid monohydrate powder, hypromellose, microcrystalline cellulose, povidone, talc, magnesium stearate and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, talc, and iron oxide red.
+
 Inactive ingredients for the 100 mg tablet consist of alginic acid, citric acid monohydrate powder, hypromellose, microcrystalline cellulose, povidone, talc, magnesium stearate and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, iron oxide red, and iron oxide black.

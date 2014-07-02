@@ -4,7 +4,7 @@
 
 There is limited clinical trial experience with desvenlafaxine succinate overdosage in humans.
 However, desvenlafaxine is the major active metabolite of venlafaxine.
-Overdose experience reported with venlafaxine (the parent drug of desvenlafaxine) is presented below; the identical information can be found in the Overdosage section of the venlafaxine package insert.
+Overdose experience reported with venlafaxine (the parent drug of desvenlafaxine) is presented below; the identical information can be found in the Overdosagesection of the venlafaxine package insert.
 
 In postmarketing experience, overdose with venlafaxine (the parent drug of desvenlafaxine) has occurred predominantly in combination with alcohol and/or other drugs.
 The most commonly reported events in overdosage include tachycardia, changes in level of consciousness (ranging from somnolence to coma), mydriasis, seizures, and vomiting.
