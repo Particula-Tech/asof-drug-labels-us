@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Fluconazole Tablets USP This leaflet contains important information about fluconazole.
+Fluconazole Tablets USP (floo kon' a zole) This leaflet contains important information about fluconazole.
 It is not meant to take the place of your doctor's instructions.
 Read this information carefully before you take fluconazole.
 Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about fluconazole.
@@ -21,7 +21,6 @@ Some medicines and medical conditions can increase your chance of getting a yeas
 If you are pregnant, have diabetes, use birth control pills, or take antibiotics you may get yeast infections more often than other women.
 Personal hygiene and certain types of clothing may increase your chances of getting a yeast infection.
 Ask your doctor for tips on what you can do to help prevent vaginal yeast infections.
-
 If you get a vaginal yeast infection, you may have any of the following symptoms:
 
 - itching
@@ -31,7 +30,6 @@ If you get a vaginal yeast infection, you may have any of the following symptoms
 - a thick white vaginal discharge that looks like cottage cheese
 
 What to tell your doctor before you start fluconazole?
-
 Do not take fluconazole if you take certain medicines.
 They can cause serious problems.
 Therefore, tell your doctor about all the medicines you take including:
@@ -57,6 +55,7 @@ Therefore, tell your doctor about all the medicines you take including:
 - non-steroidal anti-inflammatory drugs including celecoxib, ibuprofen, and naproxen
 - prednisone, a steroid used to treat skin, gastrointestinal, hematological or respiratory disorders
 - antiviral medications used to treat HIV like saquinavir or zidovudine
+- tofacitinib for rheumatoid arthritis
 - vitamin A nutritional supplement
 
 Since there are many brand names for these medicines, check with your doctor or pharmacist if you have any questions.
@@ -82,7 +81,6 @@ Fluconazole keeps working for several days to treat the infection.
 Generally the symptoms start to go away after 24 hours.
 However, it may take several days for your symptoms to go away completely.
 If there is no change in your symptoms after a few days, call your doctor.
-
 Just swallow 1 fluconazole tablet to treat your vaginal yeast infection.
 What should I avoid while taking fluconazole?
 Some medicines can affect how well fluconazole works.
@@ -121,4 +119,5 @@ If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about fluconazole that is written for health professionals.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-Distributed by: Citron Pharma LLC Suite - 1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/19/1993 Made in India Issued: June 2013
+Propulsid® is a registered trademark of Johnson and Johnson.
+Distributed by: Citron Pharma LLC Suite – 1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/19/1993 Made in India Revised: 06/2014

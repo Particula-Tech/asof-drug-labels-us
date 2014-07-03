@@ -7,9 +7,10 @@
    Patients who develop abnormal liver function tests during fluconazole therapy should be monitored for the development of more severe hepatic injury.
    Fluconazole should be discontinued if clinical signs and symptoms consistent with liver disease develop that may be attributable to fluconazole.
 2. Anaphylaxis: In rare cases, anaphylaxis has been reported.
-3. Dermatologic: Patients have rarely developed exfoliative skin disorders during treatment with fluconazole.
-   In patients with serious underlying diseases (predominantly AIDS and malignancy), these have rarely resulted in a fatal outcome.
-   Patients who develop rashes during treatment with fluconazole should be monitored closely and the drug discontinued if lesions progress.
+3. Dermatologic: Exfoliative skin disorders during treatment with fluconazole have been reported.
+   Fatal outcomes have been reported in patients with serious underlying diseases.
+   Patients with deep seated fungal infections who develop rashes during treatment with fluconazole should be monitored closely and the drug discontinued if lesions progress.
+   Fluconazole should be discontinued in patients treated for superficial fungal infection who develop a rash that may be attributed to fluconazole.
 4. Use in Pregnancy: There are no adequate and well-controlled studies of fluconazole in pregnant women.
    Available human data do not suggest an increased risk of congenital anomalies following a single maternal dose of 150 mg.
    A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400 to 800 mg/day) during most or all of the first trimester.
@@ -45,7 +46,7 @@ In addition to the observed/documented interactions mentioned below, there is a 
 Therefore, caution should be exercised when using these combinations and the patients should be carefully monitored.
 The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed.
-These are described in greater detail below: Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Theophylline Terfenadine Cisapride Astemizole Rifabutin Voriconazole Tacrolimus Short-acting benzodiazepines Triazolam Oral Contraceptives Pimozide Hydrochlorothiazide Alfentanil Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine Oral hypoglycemics: Clinically significant hypoglycemia may be precipitated by the use of fluconazole with oral hypoglycemic agents; one fatality has been reported from hypoglycemia in association with combined fluconazole and glyburide use.
+These are described in greater detail below: Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Theophylline Terfenadine Cisapride Astemizole Rifabutin Voriconazole Tacrolimus Short-acting benzodiazepines Tofacitinib Triazolam Oral Contraceptives Pimozide Quinidine Hydrochlorothiazide Alfentanil Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine Oral hypoglycemics: Clinically significant hypoglycemia may be precipitated by the use of fluconazole with oral hypoglycemic agents; one fatality has been reported from hypoglycemia in association with combined fluconazole and glyburide use.
 Fluconazole reduces the metabolism of tolbutamide, glyburide, and glipizide and increases the plasma concentration of these agents.
 When fluconazole is used concomitantly with these or other sulfonylurea oral hypoglycemic agents, blood glucose concentrations should be carefully monitored and the dose of the sulfonylurea should be adjusted as necessary.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
@@ -57,9 +58,10 @@ Dose adjustment of warfarin may be necessary.
 Phenytoin: Fluconazole increases the plasma concentrations of phenytoin.
 Careful monitoring of phenytoin concentrations in patients receiving fluconazole and phenytoin is recommended.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-Cyclosporine: Fluconazole may significantly increase cyclosporine levels in renal transplant patients with or without renal impairment.
+Cyclosporine: Fluconazole significantly increases cyclosporine levels in renal transplant patients with or without renal impairment.
 Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving fluconazole and cyclosporine.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+This combination may be used by reducing the dosage of cyclosporine depending on cyclosporine concentration.
 Rifampin: Rifampin enhances the metabolism of concurrently administered fluconazole.
 Depending on clinical circumstances, consideration should be given to increasing the dose of fluconazole when it is administered with rifampin.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
@@ -95,7 +97,10 @@ Short-acting Benzodiazepines: Following oral administration of midazolam, flucon
 This effect on midazolam appears to be more pronounced following oral administration of fluconazole than with fluconazole administered intravenously.
 If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20 to 32%, and increases t½ by 25 to 50% due to the inhibition of metabolism of triazolam.
+Tofacitinib: Systemic exposure to tofacitinib is increased when tofacitinib is coadministered with fluconazole, a combined moderate CYP3A4 and potent CYP2C19 inhibitor.
+Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label).
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+Triazolam: Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20 to 32%, and increases t½ by 25 to 50% due to the inhibition of metabolism of triazolam.
 Dosage adjustments of triazolam may be necessary.
 Oral Contraceptives: Two pharmacokinetic studies with a combined oral contraceptive have been performed using multiple doses of fluconazole.
 There were no relevant effects on hormone level in the 50 mg fluconazole study, while at 200 mg daily, the AUCs of ethinyl estradiol and levonorgestrel were increased 40% and 24%, respectively.
@@ -103,9 +108,13 @@ Thus, multiple dose use of fluconazole at these doses is unlikely to have an eff
 Pimozide: Although not studied in vitro or in vivo, concomitant administration of fluconazole with pimozide may result in inhibition of pimozide metabolism.
 Increased pimozide plasma concentrations can lead to QT prolongation and rare occurrences of torsade de pointes.
 Coadministration of fluconazole and pimozide is contraindicated.
+Quinidine: Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
+Use of quinidine has been associated with QT prolongation and rare occurrences of torsades de pointes.
+Coadministration of fluconazole and quinidine is contraindicated.
+(See CONTRAINDICATIONS.)
 Hydrochlorothiazide: In a pharmacokinetic interaction study, coadministration of multiple dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
 An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
-Alfentanil: A study observed a reduction in clearance and distribution volume as well as prolongation of t½ of alfentanil following concomitant treatment with fluconazole.
+Alfentanil: A study observed a reduction in clearance and distribution volume as well as prolongation of T½ of alfentanil following concomitant treatment with fluconazole.
 A possible mechanism of action is fluconazole’s inhibition of CYP3A4.
 Dosage adjustment of alfentanil may be necessary.
 Amitriptyline, Nortriptyline: Fluconazole increases the effect of amitriptyline and nortriptyline.
