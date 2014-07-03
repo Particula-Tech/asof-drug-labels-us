@@ -5,7 +5,6 @@
   "inn": "somatropin",
   "labeler": "Genentech, Inc.",
   "package_ndcs": [
-    "50242-022-20",
     "50242-043-14",
     "50242-073-01",
     "50242-074-01",
@@ -13,11 +12,6 @@
     "50242-076-01"
   ],
   "products": [
-    {
-      "form": "INJECTION, SOLUTION",
-      "generic": "somatropin (rdna origin)",
-      "name": "Nutropin AQ"
-    },
     {
       "form": "INJECTION, SOLUTION",
       "generic": "somatropin (rdna origin)",

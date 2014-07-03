@@ -1,140 +1,120 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## General
+## 12.1 Mechanism of Action
 
-In vitro and in vivo preclinical and clinical testing have demonstrated that Nutropin AQ is therapeutically equivalent to pituitary-derived human GH (hGH).
-Pediatric patients who lack adequate endogenous GH secretion, patients with chronic renal insufficiency, and patients with Turner syndrome that were treated with Nutropin AQ or Nutropin® [somatropin (rDNA origin) for injection] resulted in an increase in growth rate and an increase in insulin‑like growth factor-I (IGF-I) levels similar to that seen with pituitary‑derived hGH.
+Somatropin (as well as endogenous growth hormone) binds to dimeric growth hormone receptors located within the cell membranes of target tissue cells resulting in intracellular signal transduction and a host of pharmacodynamic effects.
+Some of these pharmacodynamic effects are primarily mediated by insulin-like growth factor (IGF-1) produced in the liver and also locally (e.g., skeletal growth, protein synthesis), while others are primarily a consequence of the direct effects of somatropin (e.g., lipolysis) [see Clinical Pharmacology (12.2)].
 
-Actions that have been demonstrated for Nutropin AQ, somatropin, somatrem, and/or pituitary-derived hGH include:
+## 12.2 Pharmacodynamics
 
-### A. Tissue Growth
+In vitro and in vivo preclinical and clinical testing have demonstrated that Nutropin AQ is therapeutically equivalent to pituitary-derived hGH.
+Pediatric patients who lack adequate endogenous growth hormone (GH) secretion, patients with chronic kidney disease (CKD), and patients with Turner syndrome (TS) that were treated with Nutropin AQ or Nutropin resulted in an increase in growth rate and an increase in IGF-1 levels similar to that seen with pituitary-derived hGH.
 
-1. 1)Skeletal Growth: GH stimulates skeletal growth in pediatric patients with growth failure due to a lack of adequate secretion of endogenous GH or secondary to chronic renal insufficiency and in patients with Turner syndrome.
+Tissue Growth
+
+1. A) Skeletal Growth: Nutropin AQ stimulates skeletal growth in pediatric patients with growth failure due to a lack of adequate secretion of endogenous GH or secondary to CKD and in patients with TS.
    Skeletal growth is accomplished at the epiphyseal plates at the ends of a growing bone.
-   Growth and metabolism of epiphyseal plate cells are directly stimulated by GH and one of its mediators, IGF‑I.
-   Serum levels of IGF‑I are low in children and adolescents who are GH deficient, but increase during treatment with GH.
-   In pediatric patients, new bone is formed at the epiphyses in response to GH and IGF‑I.
+   Growth and metabolism of epiphyseal plate cells are directly stimulated by GH and one of its mediators, IGF-I.
+   Serum levels of IGF-I are low in children and adolescents who are GHD, but increase during treatment with somatropin.
+   In pediatric patients, new bone is formed at the epiphyses in response to GH and IGF-I.
    This results in linear growth until these growth plates fuse at the end of puberty.
-2. 2)Cell Growth: Treatment with hGH results in an increase in both the number and the size of skeletal muscle cells.
-3. 3)Organ Growth: GH influences the size of internal organs, including kidneys, and increases red cell mass.
-   Treatment of hypophysectomized or genetic dwarf rats with GH results in organ growth that is proportional to the overall body growth.
-   In normal rats subjected to nephrectomy‑induced uremia, GH promoted skeletal and body growth.
+2. B) Cell Growth: Treatment with somatropin results in an increase in both the number and the size of skeletal muscle cells.
+3. C) Organ Growth: GH influences the size of internal organs, including kidneys, and increases red cell mass.
+   Treatment of hypophysectomized or genetic dwarf rats with somatropin results in organ growth that is proportional to the overall body growth.
+   In normal rats subjected to nephrectomy-induced uremia, somatropin promoted skeletal and body growth.
 
-### B. Protein Metabolism
+Protein Metabolism
 
-Linear growth is facilitated in part by GH‑stimulated protein synthesis.
-This is reflected by nitrogen retention as demonstrated by a decline in urinary nitrogen excretion and blood urea nitrogen during GH therapy.
+Linear growth is facilitated in part by GH-stimulated protein synthesis.
+This is reflected by nitrogen retention as demonstrated by a decline in urinary nitrogen excretion and blood urea nitrogen (BUN) during somatropin therapy.
 
-### C. Carbohydrate Metabolism
+Carbohydrate Metabolism
 
 GH is a modulator of carbohydrate metabolism.
-For example, patients with inadequate secretion of GH sometimes experience fasting hypoglycemia that is improved by treatment with GH.
-GH therapy may decrease insulin sensitivity.
-Untreated patients with chronic renal insufficiency and Turner syndrome have an increased incidence of glucose intolerance.
-Administration of hGH to adults or children resulted in increases in serum fasting and postprandial insulin levels, more commonly in overweight or obese individuals.
-In addition, mean fasting and postprandial glucose and hemoglobin A1c levels remained in the normal range.
+For example, patients with inadequate secretion of GH sometimes experience fasting hypoglycemia that is improved by treatment with Nutropin AQ.
+Somatropin therapy may decrease insulin sensitivity.
+Untreated patients with CKD and TS have an increased incidence of glucose intolerance.
+Administration of somatropin to adults or children resulted in increases in serum fasting and postprandial insulin levels, more commonly in overweight or obese individuals.
+In addition, mean fasting and postprandial glucose and hemoglobin A1C levels remained in the normal range.
 
-### D. Lipid Metabolism
+Lipid Metabolism
 
-In GH‑deficient patients, administration of GH resulted in lipid mobilization, reduction in body fat stores, increased plasma fatty acids, and decreased plasma cholesterol levels.
+In GHD patients, administration of somatropin resulted in lipid mobilization, reduction in body fat stores, increased plasma fatty acids, and decreased plasma cholesterol levels.
 
-### E. Mineral Metabolism
+Mineral Metabolism
 
-The retention of total body potassium in response to GH administration apparently results from cellular growth.
-Serum levels of inorganic phosphorus may increase slightly in patients with inadequate secretion of endogenous GH, chronic renal insufficiency, or patients with Turner syndrome during GH therapy due to metabolic activity associated with bone growth as well as increased tubular reabsorption of phosphate by the kidney.
+The retention of total body potassium in response to somatropin administration apparently results from cellular growth.
+Serum levels of inorganic phosphorus may increase slightly in patients with inadequate secretion of endogenous GH, CKD, or TS during Nutropin AQ therapy due to metabolic activity associated with bone growth as well as increased tubular reabsorption of phosphate by the kidney.
 Serum calcium is not significantly altered in these patients.
 Sodium retention also occurs.
-Adults with childhood‑onset GH deficiency show low bone mineral density (BMD).
-GH therapy results in increases in serum alkaline phosphatase.
-(See PRECAUTIONS: Laboratory Tests.)
+Adults with childhood-onset GHD show low bone mineral density (BMD).
+Nutropin AQ therapy results in increases in serum alkaline phosphatase [see Warnings and Precautions (5.14)].
 
-### F. Connective Tissue Metabolism
+Connective Tissue Metabolism
 
 GH stimulates the synthesis of chondroitin sulfate and collagen as well as the urinary excretion of hydroxyproline.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-### Subcutaneous Absorption
+Absorption
 
-The absolute bioavailability of recombinant human growth hormone (rhGH) after subcutaneous administration in healthy adult males has been determined to be 81 ± 20%.
-The mean terminal t½ after subcutaneous administration is significantly longer than that seen after intravenous administration (2.1 ± 0.43 hours vs. 19.5 ± 3.1 minutes) indicating that the subcutaneous absorption of the compound is slow and rate‑limiting.
+The absolute bioavailability of somatropin after subcutaneous administration in healthy adult males has been determined to be 81 ± 20%.
+The mean terminal t1/2 after subcutaneous administration is significantly longer than that seen after intravenous administration (2.1 ± 0.43 hours vs. 19.5 ± 3.1 minutes) indicating that the subcutaneous absorption of the compound is slow and rate-limiting.
 
-### Distribution
+Distribution
 
-Animal studies with rhGH showed that GH localizes to highly perfused organs, particularly the liver and kidney.
-The volume of distribution at steady state for rhGH in healthy adult males is about 50 mL/kg body weight, approximating the serum volume.
+Animal studies with somatropin showed that GH localizes to highly perfused organs, particularly the liver and kidney.
+The volume of distribution at steady state for somatropin in healthy adult males is about 50 mL/kg body weight, approximating the serum volume.
 
-### Metabolism
+Metabolism
 
 Both the liver and kidney have been shown to be important metabolizing organs for GH.
 Animal studies suggest that the kidney is the dominant organ of clearance.
 GH is filtered at the glomerulus and reabsorbed in the proximal tubules.
 It is then cleaved within renal cells into its constituent amino acids, which return to the systemic circulation.
 
-### Elimination
+Elimination
 
-The mean terminal t½ after intravenous administration of rhGH in healthy adult males is estimated to be 19.5 ± 3.1 minutes.
+The mean terminal t1/2 after intravenous administration of somatropin in healthy adult males is estimated to be 19.5 ± 3.1 minutes.
 Clearance of rhGH after intravenous administration in healthy adults and children is reported to be in the range of 116–174 mL/hr/kg.
 
-### Bioequivalence of Formulations
+Bioequivalence of Formulations
 
-Nutropin AQ has been determined to be bioequivalent to Nutropin based on the statistical evaluation of AUC and Cmax.
+Nutropin AQ has been determined to be bioequivalent to Nutropin based on the statistical evaluation of area under the curve (AUC) and maximum concentration (Cmax).
 
-### SPECIAL POPULATIONS
+Special Populations
 
-#### Pediatric
+Pediatric: Available literature data suggests that somatropin clearances are similar in adults and children.
 
-Available literature data suggest that rhGH clearances are similar in adults and children.
+Geriatrics: Limited published data suggest that the plasma clearance and average steady-state plasma concentration of somatropin may not be different between young and elderly patients.
 
-#### Gender
-
-No data are available for exogenously administered rhGH.
-Available data for methionyl recombinant GH, pituitary‑derived GH, and endogenous GH suggest no consistent gender‑based differences in GH clearance.
-
-#### Geriatrics
-
-Limited published data suggest that the plasma clearance and average steady‑state plasma concentration of rhGH may not be different between young and elderly patients.
-
-#### Race
-
-Reported values for half‑lives for endogenous GH in normal adult black males are not different from observed values for normal adult white males.
+Race: Reported values for half-lives for endogenous GH in normal adult black males are not different from observed values for normal adult white males.
 No data for other races are available.
 
-#### Growth Hormone Deficiency (GHD)
+Growth Hormone Deficiency: Reported values for clearance of somatropin in adults and children with GHD range 138–245 mL/hr/kg and are similar to those observed in healthy adults and children.
+Mean terminal t1/2 values following intravenous and subcutaneous administration in adult and pediatric GHD patients are also similar to those observed in healthy adult males.
 
-Reported values for clearance of rhGH in adults and children with GHD range 138–245 mL/hr/kg and are similar to those observed in healthy adults and children.
-Mean terminal t½ values following intravenous and subcutaneous administration in adult and pediatric GHD patients are also similar to those observed in healthy adult males.
-
-#### Renal Insufficiency
-
-Children and adults with chronic renal failure (CRF) and end-stage renal disease (ESRD) tend to have decreased clearance compared to normals.
+Chronic Kidney Disease: Children and adults with CKD and end-stage renal disease (ESRD) tend to have decreased clearance compared to normals.
 In a study with six pediatric patients 7 to 11 years of age, the clearance of Nutropin was reduced by 21.5% and 22.6% after the intravenous infusion and subcutaneous injection, respectively, of 0.05 mg/kg of Nutropin compared to normal healthy adults.
 Endogenous GH production may also increase in some individuals with ESRD.
-However, no rhGH accumulation has been reported in children with CRF or ESRD dosed with current regimens.
+However, no somatropin accumulation has been reported in children with CKD or ESRD dosed with current regimens.
 
-#### Turner Syndrome
+Turner Syndrome: No pharmacokinetic data are available for exogenously administered somatropin.
+However, reported half-lives, absorption, and elimination rates for endogenous GH in this population are similar to the ranges observed for normal subjects and GHD populations.
 
-No pharmacokinetic data are available for exogenously administered rhGH.
-However, reported half‑lives, absorption, and elimination rates for endogenous GH in this population are similar to the ranges observed for normal subjects and GHD populations.
-
-#### Hepatic Insufficiency
-
-A reduction in rhGH clearance has been noted in patients with severe liver dysfunction.
+Hepatic Insufficiency: A reduction in somatropin clearance has been noted in patients with severe liver dysfunction.
 The clinical significance of this decrease is unknown.
 
-Summary of Nutropin AQ Pharmacokinetic Parameters in Healthy Adult Males 0.1 mg (approximately 0.3 IUBased on current International Standard of 3 IU = 1 mg)/kg SC
+Gender: No gender-specific pharmacokinetic studies have been done with Nutropin AQ.
+The available literature indicates that the pharmacokinetics of somatropin are similar in men and women.
 
-|  | Cmax (µg/L) | Tmax (hr) | t½(hr) | AUC0-∞(µg ∙ hr/L) | CL/Fsc(mL/[hr ∙ kg]) |
+Table 2 Summary of Nutropin AQ Pharmacokinetic Parameters in Healthy Adult Males 0.1 mg (approximately 0.3 IUBased on current International Standard of 3 IU = 1 mg.)/kg SC
+
+|  | Cmax (µg/L) | Tmax (hr) | t½ (hr) | AUC0-∞ (μg ∙ hr/L) | CL/Fsc (mL/[hr ∙ kg]) |
 | --- | --- | --- | --- | --- | --- |
-| MEANn = 36 | 71.1 | 3.9 | 2.3 | 677 | 150 |
+| MEANn = 36. | 71.1 | 3.9 | 2.3 | 677 | 150 |
 | CV% | 17 | 56 | 18 | 13 | 13 |
-| Abbreviations: |  |  |  |  |  |
-| Cmax = maximum concentration |  |  |  |  |  |
-| t½ = half-life |  |  |  |  |  |
-| AUC0-∞ = area under the curve |  |  |  |  |  |
-| CL/Fsc = systemic clearance |  |  |  |  |  |
-| Fsc = subcutaneous bioavailability (not determined) |  |  |  |  |  |
-| CV% = coefficient of variation in % |  |  |  |  |  |
-| SC = subcutaneous |  |  |  |  |  |
+| Abbreviations: AUC0-∞ = area under the curve, Cmax = maximum concentration, CL/Fsc = systemic clearance, CV% = coefficient of variation in %; SC = subcutaneous, Fsc = subcutaneous bioavailability (not determined), t½ = half-life. |  |  |  |  |  |
 
-Single Dose Mean Growth Hormone Concentrations in Healthy Adult Males
+| Figure 1 Single Dose Mean Growth Hormone Concentrations in Healthy Adult Males |
+| --- |
