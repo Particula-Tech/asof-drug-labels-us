@@ -8,7 +8,7 @@ Therefore, the physician must be continually on the alert for this and should us
 ## 5.2 Hepatic Reactions
 
 Severe hepatic reactions have been reported in adults treated chronically with oral indomethacin for arthritic disorders.
-[For further information, see package insert for oral indomethacin.]
+[For further information, see package insert for oral indomethacin].
 If clinical signs and symptoms consistent with liver disease develop in the neonate, or if systemic manifestations occur, discontinue Indomethacin for Injection.
 
 ## 5.3 Platelet Aggregation
@@ -23,7 +23,7 @@ Observe premature infants for signs of bleeding.
 In the collaborative study, major gastrointestinal bleeding was no more common in neonates receiving indomethacin than in neonates on placebo.
 However, minor gastrointestinal bleeding (i.e., chemical detection of blood in the stool) was more commonly noted in neonates treated with indomethacin.
 Severe gastrointestinal effects have been reported in adults with various arthritic disorders treated chronically with oral indomethacin.
-[For further information, see package insert for oral indomethacin.]
+[For further information, see package insert for oral indomethacin].
 
 ## 5.5 Central Nervous System Effects
 
