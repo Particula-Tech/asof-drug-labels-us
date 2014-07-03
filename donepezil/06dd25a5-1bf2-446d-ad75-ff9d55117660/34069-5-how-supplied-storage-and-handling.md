@@ -7,7 +7,7 @@ The 5 mg tablets are white to off white, round shaped, biconvex, film-coated tab
 
 Bottles of 30 (NDC 33342-027-07)
 
-Bottles of 90 (NDC 33342-027-10)
+Bottles of 90 (NDC 33342-027-10) Bottles of 500 (NDC 33342-027-15)
 
 Blister Pack of 50 (5x10) (NDC 33342-027-31)
 
@@ -15,7 +15,7 @@ Blister Pack of 100 (10x10) (NDC 33342-027-12) The 10 mg tablets are yellow, rou
 
 Bottles of 30 (NDC 33342-028-07)
 
-Bottles of 90 (NDC 33342-028-10)
+Bottles of 90 (NDC 33342-028-10) Bottles of 500 (NDC 33342-028-15)
 
 Blister Pack of 50 (5x10) (NDC 33342-028-31)
 

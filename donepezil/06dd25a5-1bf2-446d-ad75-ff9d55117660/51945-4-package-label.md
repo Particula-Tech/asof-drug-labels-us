@@ -22,6 +22,18 @@ Donepezil Hydrochloride Tablets USP
 
 5 mg
 
+PACKAGE LABEL.PRINCIPAL DISPLAY PANEL-5 mg 500 Tablets
+
+NDC 33342-027-15
+
+Rx only
+
+500 TABLETS
+
+Label Donepezil Hydrochloride Tablets USP
+
+5 mg
+
 PACKAGE LABEL.PRINCIPAL DISPLAY PANEL-10 mg 30 Tablets
 
 NDC 33342-028-07
@@ -29,6 +41,18 @@ NDC 33342-028-07
 Rx only
 
 30 TABLETS
+
+Label Donepezil Hydrochloride Tablets USP
+
+10 mg
+
+PACKAGE LABEL.PRINCIPAL DISPLAY PANEL-10 mg 30 Tablets
+
+NDC 33342-028-15
+
+Rx only
+
+500 TABLETS
 
 Label Donepezil Hydrochloride Tablets USP
 

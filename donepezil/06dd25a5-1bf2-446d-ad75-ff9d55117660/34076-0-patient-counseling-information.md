@@ -190,6 +190,4 @@ Manufactured by:
 Macleods Pharmaceutical Ltd.
 
 Baddi, Himachal Pradesh, India.
-Rx only
-
-October 2013
+Rx only May 2014
