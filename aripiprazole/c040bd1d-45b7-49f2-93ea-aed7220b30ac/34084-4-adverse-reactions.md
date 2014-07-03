@@ -270,7 +270,7 @@ Table 19: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatri
 | Irritability | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Thirst | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Infections and Infestations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 6 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nasopharyngitis | 6 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Investigations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Weight Increased | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Metabolism and Nutrition Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
