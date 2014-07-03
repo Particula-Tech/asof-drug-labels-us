@@ -12,5 +12,5 @@ Unit-of-use bottles contain 30, 90 or 500 tablets and blister packs contain 100 
 | Blister of 100 | 33342-047-12 | 33342-048-12 | --- |
 | Blister of 90 | --- | --- | 33342-049-39 |
 
-Storage Store at 20° C - 25° C (68° F - 77° F); excursions permitted to 15° C - 30° C (59° F - 86° F) [see USP Controlled Room Temperature].
-Manufactured for: Macleods Pharma USA,INC, Plainsboro, NJ 08536 Manufactured by: Macleods Pharmaceutical Limited Daman (U.T) INDIA March 2013
+Storage Store at 20° C to 25° C (68° F to 77° F); excursions permitted to 15° C to 30° C (59° F to 86° F) [see USP Controlled Room Temperature].
+Manufactured for: Macleods Pharma USA,INC, Plainsboro, NJ 08536 Manufactured by: Macleods Pharmaceutical Limited Daman (U.T) INDIA Rev June 2014

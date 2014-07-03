@@ -8,4 +8,4 @@ To obtain up-to-date information about the treatment of overdosage, a good resou
 Telephone numbers of certified Poison Control Centers are listed in the Physicians’ Desk Reference (PDR).
 In managing overdose, consider the possibilities of multiple-drug interactions, drug-drug interactions, and unusual drug kinetics in the patient.
 Laboratory determinations of serum levels of irbesartan are not widely available, and such determinations have, in any event, no known established role in the management of irbesartan overdose.
-Acute oral toxicity studies with irbesartan in mice and rats indicated acute lethal doses were in excess of 2000 mg/kg, about 25- and 50-fold the MRHD (300 mg) on a mg/m 2 basis, respectively.
+Acute oral toxicity studies with irbesartan in mice and rats indicated acute lethal doses were in excess of 2000 mg/kg, about 25- and 50-fold the MRHD (300 mg) on a mg/m2 basis, respectively.
