@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018027"
+  ],
+  "inn": "lithium",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-280-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "lithium carbonate",
+      "name": "LITHOBID"
+    }
+  ],
+  "setid": "f7f5b69a-c2a1-4586-a189-1475d41387c0",
+  "source": "dailymed"
+}
