@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA021210"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "Gemini Laboratories, LLC",
+  "package_ndcs": [
+    "60846-801-01",
+    "60846-802-01",
+    "60846-803-01",
+    "60846-804-01",
+    "60846-805-01",
+    "60846-806-01",
+    "60846-807-01",
+    "60846-808-01",
+    "60846-809-01",
+    "60846-810-01",
+    "60846-811-01",
+    "60846-812-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levothyroxine sodium",
+      "name": "Unithroid"
+    }
+  ],
+  "setid": "07562e72-7eaa-4ce6-94f0-e08814787e50",
+  "source": "dailymed"
+}
