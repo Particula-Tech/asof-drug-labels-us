@@ -21,7 +21,7 @@ Patients who have experienced recent nasal ulcers, nasal surgery, or nasal traum
 
 ## 17.4 Glaucoma and Cataracts
 
-Patients should be informed that glaucoma and cataracts are associated with nasal and inhaled corticosteroid use.
+Patients should be informed that Glaucoma and Cataracts are associated with nasal and inhaled corticosteroid use.
 Patients should inform his/her health care provider if a change in vision is noted while using Dymista Nasal Spray [see Warnings and Precautions (5.3)].
 
 ## 17.5 Immunosuppression
@@ -48,8 +48,8 @@ Patients should be advised that coadministration of Dymista Nasal Spray and rito
 
 U.S. Patents 8,163,723; 8,168,620 Manufactured by: Cipla Ltd. Goa, India
 
-Distributed by: MEDA PHARMACEUTICALS® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
-Dymista is a trademark of Meda Pharmaceuticals Inc.
+MEDA PHARMACEUTICALS and DYMISTA are registered trademarks of Meda Pharmaceuticals Inc. or a related entity.
 
 Made in India.

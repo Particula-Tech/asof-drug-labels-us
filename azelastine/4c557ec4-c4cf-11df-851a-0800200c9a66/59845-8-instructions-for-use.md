@@ -284,9 +284,11 @@ This Patient Package Insert and Instructions for Use has been approved by the U.
 
 Distributed by:
 
-MEDA PHARMACEUTICALS® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
-©2012 Meda Pharmaceuticals Inc.
+©2014 Meda Pharmaceuticals Inc.
 
-Dymista is a trademark of Meda Pharmaceuticals Inc. U.S. Patents 8,163,723; 8,168,620 IN-023A6-03 Rev.
-9/2012
+MEDA PHARMACEUTICALS and DYMISTA are registered trademarks of Meda Pharmaceuticals Inc. or a related entity.
+
+U.S. Patents 8,163,723; 8,168,620 IN-023A6-04 Rev.
+1/2014
