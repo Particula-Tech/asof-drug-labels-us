@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 5 g Packet
+# PRINCIPAL DISPLAY PANEL - 5 g Packet Label
 
 Pfizer NDC 0009-0260-01
 
@@ -36,7 +36,7 @@ colestipol hydrochloride for oral suspension, USP
 
 300 grams Rx only
 
-# PRINCIPAL DISPLAY PANEL - 7.5 g Packet
+# PRINCIPAL DISPLAY PANEL - 7.5 g Packet Label
 
 Pfizer NDC 0009-0370-03
 
@@ -48,7 +48,7 @@ Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 g dose
 
 7.5 grams Rx only
 
-# PRINCIPAL DISPLAY PANEL - 30-7.5g Packet Carton
+# PRINCIPAL DISPLAY PANEL - 30-7.5 g Packet Carton
 
 NOT TO BE SOLD SEPARATELY NDC 0009-0370-03
 
@@ -62,7 +62,7 @@ Phenylketonurics: contains phenylalanine 18.2 mg per 7.5 g dose
 
 One of Two Cartons of 30-7.5 gram packets Rx only
 
-# PRINCIPAL DISPLAY PANEL - 60-7.5g Packet Carton
+# PRINCIPAL DISPLAY PANEL - 60-7.5 g Packet Carton
 
 NDC 0009-0370-03
 
