@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019668"
+  ],
+  "inn": "doxazosin",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-2310-6",
+    "59762-2320-6",
+    "59762-2340-6",
+    "59762-2380-6"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "doxazosin mesylate",
+      "name": "Doxazosin mesylate"
+    }
+  ],
+  "setid": "6b887aa5-5edf-48c5-a480-dea8c35afa9d",
+  "source": "dailymed"
+}
