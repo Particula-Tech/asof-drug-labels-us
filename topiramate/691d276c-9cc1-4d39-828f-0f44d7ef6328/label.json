@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA205122"
+  ],
+  "inn": "topiramate",
+  "labeler": "Upsher-Smith Laboratories, Inc.",
+  "package_ndcs": [
+    "0832-1071-15",
+    "0832-1072-15",
+    "0832-1073-15",
+    "0832-1074-15",
+    "0832-1075-15"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "topiramate",
+      "name": "Topiramate"
+    }
+  ],
+  "setid": "691d276c-9cc1-4d39-828f-0f44d7ef6328",
+  "source": "dailymed"
+}
