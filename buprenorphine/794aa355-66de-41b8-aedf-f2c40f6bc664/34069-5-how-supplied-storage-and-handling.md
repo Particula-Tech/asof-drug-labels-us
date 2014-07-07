@@ -4,6 +4,8 @@ BUTRANS (buprenorphine) Transdermal System is supplied in cartons containing 4 i
 
 BUTRANS 5 mcg/hour Transdermal System, 4-count carton NDC 59011-750-04
 
+BUTRANS 7.5 mcg/hour Transdermal System, 4-count carton NDC 59011-757-04
+
 BUTRANS 10 mcg/hour Transdermal System, 4-count carton NDC 59011-751-04
 
 BUTRANS 15 mcg/hour Transdermal System, 4-count carton NDC 59011-758-04

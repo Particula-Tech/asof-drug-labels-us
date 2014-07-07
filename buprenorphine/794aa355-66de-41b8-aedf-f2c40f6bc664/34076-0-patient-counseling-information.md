@@ -53,7 +53,7 @@ Instruct patients to dispose of any patches remaining from a prescription as soo
 
 Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
 
-Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431 Manufactured by: LTS Lohmann Therapie-Systeme AG, Andernach, Germany
+Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431 Manufactured by: LTS Lohmann Therapy Systems Corp., West Caldwell, NJ 07006
 
 U.S. Patent Numbers 5681413; 5804215; 6264980; 6315854; 6344211; RE41408; RE41489; RE41571
 

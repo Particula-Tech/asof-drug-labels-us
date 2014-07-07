@@ -50,7 +50,7 @@ The onset, duration, and severity of neonatal opioid withdrawal syndrome vary ba
 Hypotension, profound sedation, coma, respiratory depression, and death may result if BUTRANS is used concomitantly with alcohol or other (CNS) depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, other opioids).
 
 When considering the use of BUTRANS in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
-Additionally, evaluate the patient’s use, of alcohol or illicit drugs that cause CNS depression.
+Additionally, evaluate the patient’s use of alcohol or illicit drugs that cause CNS depression.
 If the decision to begin BUTRANS therapy is made, start with BUTRANS 5 mcg/hour patch, monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7.2)].
 
 ## 5.5 Use in Elderly, Cachectic, and Debilitated Patients

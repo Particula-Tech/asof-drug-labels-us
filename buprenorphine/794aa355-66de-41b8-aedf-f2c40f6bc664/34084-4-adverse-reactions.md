@@ -29,8 +29,9 @@ The most common adverse reactions (≥ 5%) reported by patients in clinical tria
 
 Table 2: Adverse Reactions Reported in ≥ 5% of Patients during the Open-Label Titration Period and Double-Blind Treatment Period: Opioid-Naïve Patients
 
-|  | Open-Label Titration Period BUTRANS | Double-Blind BUTRANS | Treatment Period Placebo |
+|  | Open-Label Titration Period | Double-Blind Treatment Period |  |
 | --- | --- | --- | --- |
+|  | BUTRANS | BUTRANS | Placebo |
 | MedDRA Preferred Term | (N = 1024) | (N = 256) | (N = 283) |
 | Nausea | 23% | 13% | 10% |
 | Dizziness | 10% | 4% | 1% |
@@ -42,8 +43,9 @@ Table 2: Adverse Reactions Reported in ≥ 5% of Patients during the Open-Label 
 
 Table 3: Adverse Reactions Reported in ≥ 5% of Patients during the Open-Label Titration Period and Double-Blind Treatment Period: Opioid-Experienced Patients
 
-|  | Open-Label Titration Period BUTRANS | Double-Blind BUTRANS 20 | Treatment Period BUTRANS 5 |
+|  | Open-Label Titration Period | Double-Blind Treatment Period |  |
 | --- | --- | --- | --- |
+|  | BUTRANS | BUTRANS 20 | BUTRANS 5 |
 | MedDRA Preferred Term | (N = 1160) | (N = 219) | (N = 221) |
 | Nausea | 14% | 11% | 6% |
 | Application site pruritus | 9% | 13% | 5% |

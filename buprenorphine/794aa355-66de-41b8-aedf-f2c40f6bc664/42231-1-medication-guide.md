@@ -29,7 +29,7 @@ Where to apply BUTRANS:
 - BUTRANS should be applied to the upper outer arm, upper chest, upper back, or the side of the chest (See Figure A). These 4 sites (located on both sides of the body) provide 8 possible BUTRANS application sites.
 
 - Do not apply more than 1 patch at the same time unless your doctor tells you to.
-  However, if your healthcare provider tells you to do so, you may use 2 patches (5 or 10 mcg/hr only), applied at the same site (See Figure A for application sites) right next to each other (See Figure B for an example of patch position when applying 2 patches).
+  However, if your healthcare provider tells you to do so, you may use 2 patches as prescribed, applied at the same site (See Figure A for application sites) right next to each other (See Figure B for an example of patch position when applying 2 patches).
   Always apply and remove the two patches together at the same time.
 
 - You should change the skin site where you apply BUTRANS each week, making sure that at least 3 weeks (21 days) pass before you re-use the same skin site.
@@ -139,10 +139,10 @@ If you prefer not to flush the used patch down the toilet, you must use the Patc
 
 Never put used BUTRANS patches in the trash without first sealing them in the Patch-Disposal Unit.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431
 
-Revised: April 2014 ©2014, Purdue Pharma L.P.
+Revised: June 2014 ©2014, Purdue Pharma L.P.
 
 Bioclusive is a trademark of Systagenix Wound Management (US), Inc. Tegaderm is a trademark of 3M.

@@ -4,9 +4,9 @@
 
 BUTRANS should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-BUTRANS doses of 10, 15, and 20 mcg/hour are for opioid-experienced patients only.
+BUTRANS doses of 7.5, 10, 15, and 20 mcg/hour are for opioid-experienced patients only.
 
-Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+Initiate the dosing regimen for each patient individually; take into account the patient's prior analgesic treatment experience and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with BUTRANS [see Warnings and Precautions (5.2)].
 
 BUTRANS is for transdermal use (on intact skin) only.
@@ -54,9 +54,9 @@ In a clinical trial, BUTRANS 40 mcg/hour (given as two BUTRANS 20 mcg/hour syste
 
 If the level of pain increases, attempt to identify the source of increased pain, while adjusting the BUTRANS dose to decrease the level of pain.
 Because steady-state plasma concentrations are achieved within 72 hours, BUTRANS dosage may be adjusted every 3 days.
-Dose adjustments may be made in 5 mcg/hour or 10 mcg/hour increments by using no more than two patches of the 5 mcg/hour or 10 mcg/hour system(s).
-The total dose from all patches should not exceed 20 mcg/hour.
-For the use of two patches, patients should be instructed to remove their current patch, and apply the two new patches adjacent to one another at a different application site [see Dosage and Administration (2.5)].
+Dose adjustments may be made in 5 mcg/hour, 7.5 mcg/hour, or 10 mcg/hour increments by using no more than two patches of the 5 mcg/hour, 7.5 mcg/hour, or 10 mcg/hour system(s).
+The total dose from both patches should not exceed 20 mcg/hour.
+For the use of two patches, patients should be instructed to remove their current patch, and apply the two new patches at the same time, adjacent to one another at a different application site [see Dosage and Administration (2.5)].
 
 Patients who experience breakthrough pain may require dosage adjustment increase of BUTRANS, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the BUTRANS dose.
