@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA021485"
+  ],
+  "inn": "carbidopa",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-5613-01",
+    "0781-5625-01",
+    "0781-5637-01",
+    "0781-5641-01",
+    "0781-5654-01",
+    "0781-5669-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "carbidopa, levodopa, and entacapone",
+      "name": "Carbidopa, Levodopa, and Entacapone"
+    }
+  ],
+  "setid": "9c16c0e0-3b97-486b-b7d5-579f5853e2c5",
+  "source": "dailymed"
+}
