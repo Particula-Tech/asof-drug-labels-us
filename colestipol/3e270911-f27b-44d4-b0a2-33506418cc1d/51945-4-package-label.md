@@ -2,7 +2,7 @@
 
 Pfizer
 
-NDC 0009-0450-03 Rx only
+NDC 0009-0450-03
 
 Colestid®
 
