@@ -38,7 +38,7 @@ In the clinical studies, renal deterioration was defined as follows:
 In the clinical studies, Zoledronic Acid Injection treatment was resumed only when the creatinine returned to within 10% of the baseline value.
 Zoledronic Acid Injection should be reinitiated at the same dose as that prior to treatment interruption.
 
-Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 International Units of Vitamin D daily.
+Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of Vitamin D daily.
 
 ## 2.3 Preparation of Solution
 

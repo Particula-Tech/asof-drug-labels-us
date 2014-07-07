@@ -7,7 +7,7 @@ NOTE: Administration of Zoledronic Acid Injection 4 mg given as a 5-minute intra
 The incidence of renal toxicity and renal failure has been shown to be reduced when Zoledronic Acid Injection 4 mg is given as a 15-minute intravenous infusion.
 Zoledronic Acid Injection should be administered by intravenous infusion over no less than 15 minutes [see Warnings and Precautions (5.1 and 5.2) and Dosage and Administration (2.4)].
 The treatment groups in the clinical studies were generally well balanced with regards to age, sex, race, and tumor types.
-The mean age of the study population was 59 years; 81% were Caucasian, 15% were black, and 4% were of other races.
+The mean age of the study population was 59 years; 81% were Caucasian, 15% were Black, and 4% were of other races.
 60% of the patients were male.
 The most common tumor types were lung, breast, head and neck, and renal.
 
@@ -84,7 +84,7 @@ Table 13: Zoledronic Acid Injection Compared to Placebo in Patients with Bone Me
 
 In the breast cancer and myeloma trial, efficacy was determined by a noninferiority analysis comparing Zoledronic Acid Injection to pamidronate 90 mg for the proportion of patients with a SRE.
 This analysis required an estimation of pamidronate efficacy.
-Historical data from 1,128 patients in three pamidronate placebo-controlled trials demonstrated that pamidronate decreased the proportion of patients with a SRE by 13.1% (95% CI = 7.3%, 18.9%).
+Historical data from 1,128 patients in three pamidronate placebo-controlled trials demonstrated that pamidronate decreased the proportion of patients with a SRE by 13.1% (95% CI=7.3%, 18.9%).
 Results of the comparison of treatment with Zoledronic Acid Injection compared to pamidronate are given in Table 14.
 
 Table 14: Zoledronic Acid Injection Compared to Pamidronate in Patients with Multiple Myeloma or Bone Metastases from Breast Cancer
