@@ -1,8 +1,8 @@
 # 10 OVERDOSAGE
 
-Patients (N = 269) have received single injections of 8 to 12 mg sumatriptan without significant adverse effects.
-Volunteers (N = 47) have received single subcutaneous doses of up to 16 mg without serious adverse events.
+Data on overdose of Alsuma and its treatment are lacking in humans.
+Overdoses would be expected from animal data (dogs at 0.1 g/kg, rats at 2 g/kg) to possibly cause convulsions, tremor, inactivity, erythema of the extremities, reduced respiratory rate, cyanosis, ataxia, mydriasis, injection site reactions (desquamation, hair loss, and scab formation), and paralysis.
 
-No gross overdoses in clinical practice have been reported.
-The half-life of elimination of sumatriptan is about 2 hours [see Clinical Pharmacology (12.3)], and therefore monitoring of patients after overdose with subcutaneous sumatriptan should continue while symptoms or signs persist, and for at least 10 hours.
+The elimination half-life of sumatriptan is about 2 hours [see Clinical Pharmacology (12.3)], and therefore monitoring of patients after overdose with subcutaneous sumatriptan should continue for at least 10 hours or while symptoms or signs persist.
+
 It is unknown what effect hemodialysis or peritoneal dialysis has on the serum concentrations of sumatriptan.

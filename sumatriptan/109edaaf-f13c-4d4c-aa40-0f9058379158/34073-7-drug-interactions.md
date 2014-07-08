@@ -1,25 +1,19 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Monoamine Oxidase Inhibitors
-
-MAO-A inhibitors reduce sumatriptan clearance, significantly increasing systemic exposure.
-Therefore, the use of sumatriptan in patients receiving MAO-A inhibitors is not ordinarily recommended.
-If the clinical situation warrants the combined use of sumatriptan and an MAOI, the dose of sumatriptan employed should be reduced.
-[see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)]
-
-## 7.2 5-HT1B/1D agonists (e.g. triptans)
-
-Concomitant use of other 5-HT1B/1D agonists within 24 hours of sumatriptan treatment is not recommended.
-[see Contraindications (4.6)]
-
-## 7.3 Ergot-Containing Drugs
+## 7.1 Ergot-Containing Drugs
 
 Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
-Since these effects may be additive, use of ergotamine containing or ergot-type medications (like dihydroergotamine or methysergide) and sumatriptan within 24 hours of each other should be avoided.
-[see Contraindications (4.6)]
+Because these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and ALSUMA within 24 hours of each other is contraindicated.
+
+## 7.2 Monoamine Oxidase-A Inhibitors
+
+MAO-A inhibitors increase systemic exposure by 2-fold.
+Therefore, the use of ALSUMA in patients receiving MAO-A inhibitors is contraindicated [see Clinical Pharmacology (12.3)].
+
+## 7.3 Other 5-HT1 Agonists
+
+Because their vasospastic effects may be additive, co-administration of ALSUMA and other 5-HT1 agonists (e.g., triptans) within 24 hours of each other is contraindicated.
 
 ## 7.4 Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
 
-Cases of life-threatening serotonin syndrome have been reported during combined use of selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs) and triptans.
-If concomitant treatment with sumatriptan injection is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-[see Warnings and Precautions (5.5)]
+Cases of serotonin syndrome have been reported during co-administration of triptans and SSRIs, or SNRIs, SNRIs, TCAs, and MAO inhibitors [see Warnings and Precautions (5.7)].

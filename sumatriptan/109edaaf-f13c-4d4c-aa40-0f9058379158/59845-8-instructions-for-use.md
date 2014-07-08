@@ -22,8 +22,7 @@ ALSUMA is packaged with two doses to a box, with each ALSUMA dose stored in a se
 | --- | --- |
 | Do not remove the Blue Safety Release until you are ready to inject yourself.Do not place your fingers on the top or the bottom end of the ALSUMA Auto-Injector.Do not touch the orange needle end.Always point the orange needle end down.Do not take apart the ALSUMA Auto-Injector.Keep out of the reach of children. |  |
 | The Storage and Disposal Case (see Figure 2) |  |
-| Always store and carry ALSUMA in the storage and disposal case. |  |
-| [Figure 2] | Do not remove ALSUMA from the storage and disposal case until you are ready to use it.Always keep the orange needle end facing the bottom of the storage and disposal case.The purple cap should be screwed tightly onto the storage and disposal case before use.After your injection, the ALSUMA Auto-Injector should be placed back into the storage and disposal case. Throw away the case the way your healthcare provider told you. |
+| [Figure 2] | Always store and carry ALSUMA in the storage and disposal case.Do not remove ALSUMA from the storage and disposal case until you are ready to use it.Always keep the orange needle end facing the bottom of the storage and disposal case.The purple cap should be screwed tightly onto the storage and disposal case before use.After your injection, the ALSUMA Auto-Injector should be placed back into the storage and disposal case. Throw away the case the way your healthcare provider told you. |
 
 The ALSUMA Auto-Injector
 
@@ -51,20 +50,16 @@ The ALSUMA Auto-Injector
 | Place the uncapped, empty storage and disposal case onto a flat surface. (see Figure 19)Slowly insert the orange needle end of the used injector into the open end of the storage and disposal case. Slide the entire used injector into the case. (see Figure 19)Tilt up the open end of the storage and disposal case and screw on the purple cap. (see Figure 20) |  | [Figure 19] | [Figure 20] |
 | Check with your healthcare provider about the right way to throw away your used ALSUMA Auto-Injector. Each ALSUMA Auto-Injector can be used only one time. |  |  |  |
 | Important Tips on Storing and Using Your Auto-Injector |  |  |  |
-| Store the ALSUMA Auto-Injector between 59°F to 86°F (15°C-30°C).Keep the ALSUMA Auto-Injector out of the light.Do not put the ALSUMA Auto-Injector in the refrigerator.Keep each ALSUMA Auto-Injector in its storage and disposal case.Remove the ALSUMA Auto-Injector from the storage and disposal case only when you need to give yourself an injection. |  |  |  |
+| Store the ALSUMA Auto-Injector between 59°F to 86°F (15°C–30°C).Keep the ALSUMA Auto-Injector out of the light.Do not put the ALSUMA Auto-Injector in the refrigerator.Keep each ALSUMA Auto-Injector in its storage and disposal case.Remove the ALSUMA Auto-Injector from the storage and disposal case only when you need to give yourself an injection. |  |  |  |
 
-ALSUMA™ (sumatriptan injection) 6mg/0.5mL Auto-Injector
-
-Manufactured by: Meridian Medical Technologies, Inc., Columbia, MD 21046 a Pfizer Inc. company
+ALSUMA is a trademark of Meridian Medical Technologies®, Inc., Manufactured by: Meridian Medical Technologies, Inc., Columbia, MD 21046 a Pfizer Inc. company
 
 ALSUMA is a trademark of Meridian Medical Technologies®, Inc.
 
-Printed in U.S.A.
+04/2014
 
 Pfizer
 
-Distributed by: Pfizer Labs Division of Pfizer Inc.
+Distributed by: Pfizer Labs Division of Pfizer Inc. NY, NY 10017
 
-NY, NY 10017 11/2011 0001686
-
-LAB-0652-1.0
+LAB-0652-2.0

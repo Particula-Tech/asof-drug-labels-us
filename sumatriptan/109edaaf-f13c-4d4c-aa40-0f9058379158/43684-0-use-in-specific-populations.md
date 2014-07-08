@@ -2,41 +2,52 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Sumatriptan produced evidence of developmental toxicity (embryolethality and increased incidences of fetal abnormalities) in rabbits.
-Embryolethality was observed at a dose less than the maximum recommended human dose (MRHD) of 12 mg/day on a body surface area (mg/m2) basis.
-There are no adequate and well-controlled studies of ALSUMA in pregnant women.
+Pregnancy Category C. There are no adequate and well-controlled trials of sumatriptan injection in pregnant women.
+In developmental toxicity studies in rats and rabbits, oral administration of sumatriptan to pregnant animals was associated with embryolethality, fetal abnormalities, and pup mortality.
+When administered by the intravenous route to pregnant rabbits, sumatriptan was embryolethal.
 ALSUMA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-When sumatriptan was administered intravenously to pregnant rabbits daily throughout the period of organogenesis, embryolethality was observed at doses at or close to those producing maternal toxicity.
-These doses were less than the MRHD of 12 mg/day on a mg/m2 basis.
-Oral administration of sumatriptan to rabbits during organogenesis was associated with increased incidences of fetal vascular and skeletal abnormalities.
-The highest no-effect dose for these effects was 15 mg/kg/day.
-The intravenous administration of sumatriptan to pregnant rats throughout organogenesis at doses that are approximately 10 times the MRHD on a mg/m2 basis, did not produce evidence of embryolethality.
-The subcutaneous administration of sumatriptan to pregnant rats prior to and throughout pregnancy did not produce evidence of embryolethality or teratogenicity.
+Oral administration of sumatriptan to pregnant rats during the period of organogenesis resulted in an increased incidence of fetal blood vessel (cervicothoracic and umbilical) abnormalities.
+The highest no-effect dose for embryofetal developmental toxicity in rats was 60 mg/kg/day.
+Oral administration of sumatriptan to pregnant rabbits during the period of organogenesis resulted in increased incidences of embryolethality and fetal cervicothoracic vascular and skeletal abnormalities.
+Intravenous administration of sumatriptan to pregnant rabbits during the period of organogenesis resulted in an increased incidence of embryolethality.
+The highest oral and intravenous no-effect doses for developmental toxicity in rabbits were 15 and 0.75 mg/kg/day, respectively.
+
+Oral administration of sumatriptan to rats prior to and throughout gestation resulted in embryofetal toxicity (decreased body weight, decreased ossification, increased incidence of skeletal abnormalities).
+The highest no-effect dose was 50 mg/kg/day.
+In offspring of pregnant rats treated orally with sumatriptan during organogenesis, there was a decrease in pup survival.
+The highest no-effect dose for this effect was 60 mg/kg/day.
+Oral treatment of pregnant rats with sumatriptan during the latter part of gestation and throughout lactation resulted in a decrease in pup survival.
+The highest no-effect dose for this effect was 100 mg/kg/day.
 
 ## 8.3 Nursing Mothers
 
-Sumatriptan is excreted in human breast milk following subcutaneous administration.
-Therefore, caution should be exercised when considering the administration of ALSUMA to a nursing woman.
+Sumatriptan is excreted in human milk following subcutaneous administration.
+Infant exposure to sumatriptan can be minimized by avoiding breastfeeding for 12 hours after treatment with ALSUMA.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of sumatriptan injection in pediatric patients under 18 years of age have not been established; therefore, sumatriptan injection is not recommended for use in patients under 18 years of age.
+Safety and effectiveness in pediatric patients have not been established.
+ALSUMA is not recommended for use in patients younger than 18 years of age.
 
-Two controlled clinical trials evaluating sumatriptan nasal spray (5 to 20 mg) in pediatric patients aged 12 to 17 years enrolled a total of 1,248 adolescent migraineurs who treated a single attack.
-The studies did not establish the efficacy of sumatriptan nasal spray compared to placebo in the treatment of migraine in adolescents.
-Adverse events observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
+Two controlled clinical trials evaluated sumatriptan nasal spray (5 to 20 mg) in 1,248 adolescent migraineurs aged 12 to 17 years who treated a single attack.
+The trials did not establish the efficacy of sumatriptan nasal spray compared with placebo in the treatment of migraine in adolescents.
+Adverse reactions observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
 
-Five controlled clinical trials (2 single-attack studies, 3 multiple-attack studies) evaluating oral sumatriptan (25 to 100 mg) in pediatric patients aged 12 to 17 years enrolled a total of 701 adolescent migraineurs.
-These studies did not establish the efficacy of oral sumatriptan compared to placebo in the treatment of migraine in adolescents.
-Adverse events observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
-The frequency of all adverse events in these patients appeared to be both dose- and age-dependent, with younger patients reporting events more commonly than older adolescents.
+Five controlled clinical trials (2 single-attack trials, 3 multiple-attack trials) evaluating oral sumatriptan (25 to 100 mg) in pediatric subjects aged 12 to 17 years enrolled a total of 701 adolescent migraineurs.
+These trials did not establish the efficacy of oral sumatriptan compared with placebo in the treatment of migraine in adolescents.
+Adverse reactions observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
+The frequency of all adverse reactions in these subjects appeared to be both dose- and age-dependent, with younger subjects reporting reactions more commonly than older adolescents.
 
-Postmarketing experience documents that serious adverse events have occurred in the pediatric population after use of subcutaneous, oral, and/or intranasal sumatriptan.
-These reports include events similar in nature to those reported rarely in adults, including stroke, visual loss, and death.
+Postmarketing experience documents that serious adverse reactions have occurred in the pediatric population after use of subcutaneous, oral, and/or intranasal sumatriptan.
+These reports include reactions similar in nature to those reported rarely in adults, including stroke, visual loss, and death.
 A myocardial infarction has been reported in a 14-year-old male following the use of oral sumatriptan; clinical signs occurred within 1 day of drug administration.
+Clinical data to determine the frequency of serious adverse reactions in pediatric patients who might receive subcutaneous, oral, or intranasal sumatriptan are not presently available.
 
 ## 8.5 Geriatric Use
 
-The use of ALSUMA in elderly patients is not recommended because they are more likely to have decreased hepatic function, they are at higher risk for CAD, and blood pressure increases may be more pronounced in the elderly.
-[see Warnings and Precautions (5.1, 5.6)]
+Clinical trials of sumatriptan injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger subjects.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
+
+A cardiovascular evaluation is recommended for geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving ALSUMA [see Warnings and Precautions (5.1)].

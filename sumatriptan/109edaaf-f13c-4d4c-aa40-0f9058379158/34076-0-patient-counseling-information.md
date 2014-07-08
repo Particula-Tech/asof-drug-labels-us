@@ -1,41 +1,45 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[see FDA-approved Patient Labeling]
+See FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-## 17.1 Risk of Myocardial Ischemia and/or Infarction, Other Adverse Cardiac Events, Other Vasospasm-related Events, and Cerebrovascular Events
+Risk of Myocardial Ischemia and/or Infarction, Prinzmetal's Angina, Other Vasospasm-Related Events, Arrhythmias, and Cerebrovascular Events
 
-Inform patients that ALSUMA may cause serious cardiovascular side effects such as myocardial infarction or stroke, which may result in hospitalization and even death.
-Although serious cardiovascular events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-Apprise patients of the importance of this follow-up.
-[see Warnings and Precautions (5.1, 5.2, 5.3, 5.4)]
+Inform patients that ALSUMA may cause serious cardiovascular side effects such as myocardial infarction or stroke.
+Although serious cardiovascular events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, irregular heartbeat, significant rise in blood pressure, weakness, and slurring of speech and should ask for medical advice when observing any indicative sign or symptoms.
+Patients should be apprised of the importance of this follow-up [see Warnings and Precautions (5.1, 5.2, 5.4, 5.5, 5.8)].
 
-## 17.2 Serotonin Syndrome
+Anaphylactic/Anaphylactoid Reactions
 
-Caution patients about the risk of serotonin syndrome with the use of ALSUMA or other triptans, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
-[see Warnings and Precautions (5.5)]
+Inform patients that anaphylactic/anaphylactoid reactions have occurred in patients receiving sumatriptan injection.
+Such reactions can be life threatening or fatal.
+In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens [see Contraindications (4) and Warnings and Precautions (5.9)].
 
-## 17.3 Pregnancy
+Serotonin Syndrome
 
-Inform patients that ALSUMA should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus.
-[see Use in Specific Populations (8.1)]
+Patients should be cautioned about the risk of serotonin syndrome with the use of ALSUMA or other triptans, particularly during combined use with SSRIs, SNRIs, TCAs, and MAO inhibitors [see Warnings and Precautions (5.7) and Drug Interactions (7.4)].
 
-## 17.4 Nursing Mothers
+Medication Overuse Headache
 
-Advise patients to notify their physician if they are breast-feeding or plan to breast-feed.
-[see Use in Specific Populations (8.3)]
+Inform patients that use of acute migraine drugs for 10 or more days per month may lead to an exacerbation of headache and encourage patients to record headache frequency and drug use (e.g., by keeping a headache diary) [see Warnings and Precautions (5.6)].
 
-## 17.5 Patient Instructions for Use of ALSUMA
+Pregnancy
+
+Inform patients that ALSUMA should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
+
+Nursing Mothers
+
+Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.3)].
+
+Ability to Perform Complex Tasks
+
+Since migraines or treatment with ALSUMA may cause somnolence and dizziness, instruct patients to evaluate their ability to perform complex tasks during migraine attacks and after administration of ALSUMA.
+
+How to Use ALSUMA
 
 ALSUMA is a pre-filled, fully-assembled, single-use device intended to deliver a 6 mg dose of sumatriptan.
 
-Instruct patients on the proper use of the product prior their first use in a medically unsupervised situation.
-Since the injection is intended to be given subcutaneously, intramuscular or intravascular delivery must be avoided.
-Direct patients to use injection sites with an adequate skin and subcutaneous thickness to accommodate the length of the needle (e.g. lateral thigh or upper arms).
+Provide patients instruction on the proper use of ALSUMA if they are able to self-administer ALSUMA in a medically unsupervised situation.
 
-Manufactured by: Meridian Medical Technologies, Inc., Columbia, MD 21046 a Pfizer Inc. company
-
-ALSUMA is a trademark of Meridian Medical Technologies®, Inc.
-
-Distributed by: Pfizer Labs Division of Pfizer Inc. NY, NY 10017
-
-LAB-0650-1.0
+Inform patients that the injection is only intended to be given subcutaneously.
+Intramuscular or intravascular delivery should be avoided.
+Instruct patients to use injection sites with an adequate skin and subcutaneous thickness to accommodate the length of the needle (e.g. lateral thigh or upper arms).

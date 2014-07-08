@@ -2,58 +2,66 @@
 
 ## 12.1 Mechanism of Action
 
-Sumatriptan is the active component of ALSUMA.
-Sumatriptan is a selective agonist for the 5-HT1B and 5-HT1D receptors.
-Sumatriptan presumably exerts its antimigrainous effect through binding to vascular 5-HT1-type receptors, which have been shown to be present on cranial arteries in both dog and primate, on the human basilar artery, and in the vasculature of the isolated dura mater of humans.
-In these tissues, sumatriptan activates this receptor to cause vasoconstriction, an action in humans correlating with the relief of migraine and cluster headache.
+Sumatriptan binds with high affinity to human cloned 5-HT1B/1D receptors.
+Sumatriptan presumably exerts its therapeutic effects in the treatment of migraine headache through agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
 
 ## 12.2 Pharmacodynamics
 
-Blood Pressure: ALSUMA is contraindicated in patients with uncontrolled hypertension.
-[see Contraindications (4.5)] It should be administered with caution to patients with controlled hypertension.
-[see Warnings and Precautions (5.6)]
+Blood Pressure:
 
-Peripheral (Small) Arteries: In healthy volunteers (N = 18), a study evaluating the effects of sumatriptan on peripheral (small vessel) arterial reactivity failed to detect a clinically significant increase in peripheral resistance.
+Significant elevation in blood pressure, including hypertensive crisis, has been reported in patients with and without a history of hypertension [see Warnings and Precautions (5.8)].
 
-Heart Rate: Transient increases in blood pressure observed in some patients in clinical studies carried out during sumatriptan's development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
+Peripheral (Small) Arteries:
 
-Respiratory Rate: Experience gained during the clinical development of sumatriptan as a treatment for migraine failed to detect an effect of the drug on respiratory rate.
+In healthy volunteers (N = 18), a trial evaluating the effects of sumatriptan on peripheral (small vessel) arterial reactivity failed to detect a clinically significant increase in peripheral resistance.
+
+Heart Rate:
+
+Transient increases in blood pressure observed in some subjects in clinical trials carried out during sumatriptan's development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
 
 ## 12.3 Pharmacokinetics
 
-Absorption and Elimination
-
-Pharmacokinetic parameters following a 6 mg subcutaneous injection into the deltoid area of the arm in 9 males (mean age, 33 years; mean weight, 77 kg) were systemic clearance: 1,194 ± 149 mL/min (mean ± S.D.), distribution half-life: 15 ± 2 minutes, terminal half-life: 115 ± 19 minutes, and volume of distribution central compartment: 50 ± 8 liters.
-Of this dose, 22% ± 4% was excreted in the urine as unchanged sumatriptan and 38% ± 7% as the indole acetic acid metabolite.
-
-After a single 6 mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males (age, 24 ± 6 years; weight, 70 kg), the maximum serum concentration (Cmax) was (mean ± standard deviation) 74 ± 15 ng/mL and the time to peak concentration (Tmax) was 12 minutes after injection (range, 5 to 20 minutes).
-In this study, the same dose injected subcutaneously in the thigh gave a Cmax of 61 ± 15 ng/mL by manual injection versus 52 ± 15 ng/mL by auto-injector techniques.
-The Tmax or amount absorbed was not significantly altered by either the site or technique of injection.
+Absorption and Bioavailability:
 
 The bioavailability of sumatriptan via subcutaneous site injection to 18 healthy male subjects was 97% ± 16% of that obtained following intravenous injection.
+
+After a single 6-mg subcutaneous manual injection into the deltoid area of the arm in 18 healthy males (age: 24 ± 6 years, weight: 70 kg), the maximum serum concentration (Cmax) of sumatriptan was (mean ± standard deviation) 74 ± 15 ng/mL and the time to peak concentration (Tmax) was 12 minutes after injection (range: 5 to 20 minutes).
+In this trial, the same dose injected subcutaneously in the thigh gave a Cmax of 61 ± 15 ng/mL by manual injection versus 52 ± 15 ng/mL by autoinjector techniques.
+The Tmax or amount absorbed was not significantly altered by either the site or technique of injection.
+
+Distribution:
+
 Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL, is low, approximately 14% to 21%.
 The effect of sumatriptan on the protein binding of other drugs has not been evaluated.
 
-Drug Interactions
+Following a 6-mg subcutaneous injection into the deltoid area of the arm in 9 males (mean age: 33 years, mean weight: 77 kg) the volume of distribution central compartment of sumatriptan was 50 ± 8 liters and the distribution half-life was 15 ± 2 minutes.
 
-Monoamine Oxidase Inhibitors
+Metabolism:
 
-In vitro studies with human microsomes suggest that sumatriptan is metabolized by monoamine oxidase (MAO), predominantly the A isoenzyme.
-In a study of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of sumatriptan, resulting in a two-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half-life.
+In vitro studies with human microsomes suggest that sumatriptan is metabolized by MAO, predominantly the A isoenzyme.
+Most of a radiolabeled dose of sumatriptan excreted in the urine is the major metabolite indole acetic acid (IAA) or the IAA glucuronide, both of which are inactive.
 
-Migraine Prophylactic Medications
+Elimination:
 
-There is no evidence that concomitant use of migraine prophylactic medications has any effect on the efficacy of sumatriptan.
-In 2 clinical trials in the United States, a retrospective analysis of 282 patients who had been using prophylactic drugs (verapamil, n = 63; amitriptyline, n = 57; propranolol, n = 94; for 45 other drugs, n = 123) were compared to those who had not used prophylaxis (n = 452).
-There were no differences in relief rates at 60 minutes postdose for sumatriptan injection, whether or not prophylactic medications were used.
+After a single 6-mg subcutaneous dose, 22% ± 4% was excreted in the urine as unchanged sumatriptan and 38% ± 7% as the IAA metabolite.
 
-Special Populations
+Following a 6-mg subcutaneous injection into the deltoid area of the arm, the systemic clearance of sumatriptan was 1,194 ± 149 mL/min and the terminal half-life was 115 ± 19 minutes.
 
-Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
+Special Populations:
 
-Hepatic Impairment: The effect of hepatic disease on the pharmacokinetics of subcutaneously administered sumatriptan has been evaluated.
-There were no statistically significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in hepatically impaired patients compared to healthy controls.
+Age: The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in subjects with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
 
-Age: The pharmacokinetics of sumatriptan in the elderly (mean age, 72 years, 2 males and 4 females) and in patients with migraine (mean age, 38 years, 25 males and 155 females) were similar to those in healthy male subjects (mean age, 30 years).
+Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined.
+
+Hepatic Impairment: The effect of mild to moderate hepatic disease on the pharmacokinetics of subcutaneously administered sumatriptan has been evaluated.
+There were no significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in moderately hepatically impaired subjects compared with healthy controls.
+The pharmacokinetics of subcutaneously administered sumatriptan in patients with severe hepatic impairment has not been studied.
+The use of ALSUMA in this population is contraindicated [see Contraindications (4)].
 
 Race: The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
+
+Drug Interaction Studies:
+
+Monoamine Oxidase-A Inhibitors:
+
+In a trial of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of sumatriptan, resulting in a 2-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half-life.

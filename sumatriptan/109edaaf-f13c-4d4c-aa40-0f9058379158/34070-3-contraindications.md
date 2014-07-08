@@ -1,42 +1,15 @@
 # 4 CONTRAINDICATIONS
 
-## 4.1 Intravenous Administration
+ALSUMA is contraindicated in patients with:
 
-ALSUMA is not designed to administer sumatriptan intravenously.
-Do not administer intravenously since sumatriptan may cause coronary vasospasm.
-
-## 4.2 Ischemic or Vasospastic Coronary Artery Disease
-
-Do not use ALSUMA in patients with ischemic heart disease (e.g. angina pectoris, history of myocardial infarction, or documented silent ischemia), or to patients who have symptoms or findings consistent with ischemic heart disease, coronary artery vasospasm, including Prinzmetal's variant angina or other significant underlying cardiovascular disease.
-[see Warnings and Precautions (5.1)]
-
-## 4.3 Cerebrovascular Syndromes
-
-Do not use ALSUMA in patients with cerebrovascular syndromes including (but not limited to) strokes of any type as well as transient ischemic attacks.
-[see Warnings and Precautions (5.3)]
-
-## 4.4 Peripheral Vascular Disease
-
-Do not use ALSUMA in patients with peripheral vascular disease including (but not limited to) ischemic bowel disease.
-[see Warnings and Precautions (5.4)]
-
-## 4.5 Uncontrolled Hypertension
-
-Because ALSUMA may increase blood pressure, do not use in patients with uncontrolled hypertension.
-[see Warnings and Precautions (5.6)]
-
-## 4.6 Ergotamine-Containing or Ergot-Type Medications or Other 5-HT1 Agonists (e.g. Triptans)
-
-Do not use ALSUMA and any ergotamine-containing or ergot-type medication (such as dihydroergotamine or methysergide) within 24 hours of each other; do not use ALSUMA and another 5-HT1 agonist (e.g.triptan) within 24 hours of each other.
-[see Drug Interactions (7.3)]
-
-The maximum recommended dose that may be given in 24 hours is two doses of ALSUMA separated by at least 1 hour.
-[see Dosage and Administration (2)]
-
-## 4.7 Hemiplegic or Basilar Migraine
-
-Do not use ALSUMA in patients with hemiplegic or basilar migraine.
-
-## 4.8 Hypersensitivity
-
-ALSUMA is contraindicated in patients with known hypersensitivity to sumatriptan or any of its components.
+- Ischemic coronary artery disease (CAD) (angina pectoris, history of myocardial infarction, or documented silent ischemia) or coronary artery vasospasm, including Prinzmetal's angina [see Warnings and Precautions (5.1)].
+- Wolff-Parkinson-White syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Warnings and Precautions (5.2)].
+- History of stroke or transient ischemic attack (TIA), or history or current evidence of hemiplegic or basilar migraine because these patients are at a higher risk of stroke [see Warnings and Precautions (5.4)].
+- Peripheral vascular disease [see Warnings and Precautions (5.5)].
+- Ischemic bowel disease.
+  [see Warnings and Precautions (5.5)].
+- Uncontrolled hypertension [see Warnings and Precautions (5.8)].
+- Recent (i.e., within 24 hours) use of ergotamine-containing medication, ergot-type medication (such as dihydroergotamine or methysergide), or another 5-hydroxytryptamine1 (5-HT1) agonist [see Drug Interactions (7.1, 7.3)].
+- Concurrent administration of an MAO-A inhibitor or recent (within 2 weeks) use of an MAO-A inhibitor [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+- Hypersensitivity to ALSUMA (angioedema and anaphylaxis seen) [see Warnings and Precautions (5.9)].
+- Severe hepatic impairment [see Clinical Pharmacology (12.3)].
