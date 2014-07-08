@@ -4,7 +4,11 @@ NDC 0168-0203-60
 
 Fougera ®
 
-CLINDAMYCIN PHOSPHATE LOTION (Clindamycin Phosphate Topical Suspension USP, 1%) equivalent to 1% (10 mg/mL) clindamycin For Topical Use Only 60 mL
+CLINDAMYCIN PHOSPHATE LOTION (Clindamycin Phosphate Topical Suspension USP, 1%)
+
+Equivalent to 1% (10 mg/mL) clindamycin
+
+FOR TOPICAL USE ONLY 60 mL
 
 Rx only
 
@@ -16,7 +20,9 @@ NDC 0168-0203-60
 
 Fougera ®
 
-CLINDAMYCIN PHOSPHATE LOTION (Clindamycin Phosphate Topical Suspension USP, 1%) equivalent to 1% (10 mg/mL) clindamycin
+CLINDAMYCIN PHOSPHATE LOTION (Clindamycin Phosphate Topical Suspension USP, 1%)
+
+Equivalent to 1% (10 mg/mL) clindamycin
 
 FOR TOPICAL USE ONLY
 
@@ -32,10 +38,10 @@ NDC 0168-0201-60
 
 Fougera ®
 
-CLINDAMYCIN PHOSPHATE TOPICAL SOLUTION USP, 1% Equivalent to 1% (10 mg/mL) clindamycin WARNING: Keep out of reach of children.
-For Topical Use Only
+CLINDAMYCIN PHOSPHATE Topical Solution USP, 1% Equivalent to 1% (10 mg/mL) clindamycin WARNING: Keep out ofreach of children.
+For External Use Only
 
-Rx only 30 mL
+Rx only 60 mL
 
 E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
 
@@ -51,7 +57,7 @@ Equivalent to 1% (10 mg/mL) clindamycin
 
 For External Use Only
 
-30 mL
+60 mL
 
 Rx only
 
@@ -63,10 +69,11 @@ NDC 0168-0202-30
 
 Fougera ®
 
-CLINDAMYCIN PHOSPHATE GEL USP, 1% equivalent to 1% clindamycin For Topical Use Only
+CLINDAMYCIN PHOSPHATE GEL USP, 1% equivalent to 1% clindamycin
 
-Rx only Each gram contains: Clindamycin phosphate equivalent to clindamycin 10 mg (1%).
-Also, alantoin, carbomer 934P, methylparaben, polyethylene glycol 400, propylene glycol, sodium hydroxide, and purified water. pH range 4.5 – 6.5
+For Topical Use Only
+
+Rx only
 
 NET WT 30 grams
 
@@ -74,7 +81,7 @@ NET WT 30 grams
 
 NDC 0168-0202-30
 
-Fougera ® Rx only
+Fougera ®
 
 CLINDAMYCIN PHOSPHATE GEL USP, 1% equivalent to 1% clindamycin For Topical Use Only
 
