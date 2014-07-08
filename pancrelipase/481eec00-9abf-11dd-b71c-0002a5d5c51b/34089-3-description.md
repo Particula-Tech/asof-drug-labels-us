@@ -12,6 +12,10 @@ PERTZYE is dosed by lipase units.
 Other active ingredients include protease and amylase.
 Inactive ingredients in PERTZYE include sodium bicarbonate, sodium carbonate, cellulose acetate phthalate, sodium starch glycolate, diethyl phthalate, ursodiol, polyvinylpyrrolidone and talc and are contained in hard gelatin capsules.
 
+4,000 USP units of lipase; 14,375 USP units of protease; 15,125 USP units of amylase.
+Delayed-Release Capsules have a clear body printed in green with “4” and a clear cap printed with a green circular stripe and “DCI”.
+The imprinting ink on the capsule contains FD&C Blue #1, D&C Yellow #10, black iron oxide, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, shellac and ammonium hydroxide.
+
 8,000 USP units of lipase; 28,750 USP units of protease; 30,250 USP units of amylase.
 Delayed-Release Capsules have a clear body printed in blue with "8" and a clear cap with a blue circular stripe and “DCI”.
 The imprinting ink on the capsule contains FD&C Blue #1, ethanol, methanol, n-butyl alcohol, propylene glycol, shellac and ammonium hydroxide.

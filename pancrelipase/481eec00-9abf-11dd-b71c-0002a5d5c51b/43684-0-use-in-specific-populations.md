@@ -23,7 +23,5 @@ The short-term safety and efficacy of PERTZYE were assessed in a randomized, dou
 The safety and efficacy in 8 to 17 year old patients in this study were similar to adult patients [see Adverse Reactions (6.1)and Clinical Studies (14)].
 
 The safety and efficacy of pancreatic enzyme products with different formulations of pancrelipase consisting of the same active ingredient (lipases, proteases, and amylases) for treatment of children with exocrine pancreatic insufficiency due to cystic fibrosis have been described in the medical literature and through clinical experience.
-Dosing of pediatric patients should be in accordance with recommended guidance from the Cystic Fibrosis Foundation Consensus Conferences.
-However, use of PERTZYE in children is limited by the available capsule dosage strengths and their ability to provide the recommended dose based on age and weight.
-Attempting to divide the capsule contents in small fractions to deliver small doses of lipase is not recommended [see Dosage and Administration (2)].
+Dosing of pediatric patients should be in accordance with recommended guidance from the Cystic Fibrosis Foundation Consensus Conferences [see Dosage and Administration (2)].
 Doses of other pancreatic enzyme products exceeding 6,000 lipase units/kg of body weight per meal have been associated with fibrosing colonopathy and colonic strictures in children less than 12 years of age [see Warnings and Precautions (5.1)].

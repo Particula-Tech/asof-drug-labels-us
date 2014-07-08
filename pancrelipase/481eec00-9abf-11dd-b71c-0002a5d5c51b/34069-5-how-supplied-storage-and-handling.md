@@ -1,6 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-PERTZYE (pancrelipase) Delayed-Release Capsules 8,000 USP units of lipase; 28,750 USP units of protease; 30,250 units of amylase.
+PERTZYE (pancrelipase) Delayed-Release Capsules 4,000 USP units of lipase; 14,375 USP units of protease; 15,125 units of amylase.
+Each PERTZYE delayed-release capsule has a clear body printed in green with “4” and a clear cap printed with a green circular stripe and “DCI”.
+Capsules are supplied in bottles of 100 (NDC 59767-004-01) or 250 (NDC 59767-004-02).​ PERTZYE (pancrelipase) Delayed-Release Capsules 8,000 USP units of lipase; 28,750 USP units of protease; 30,250 units of amylase.
 Each PERTZYE delayed-release capsule has a clear body printed in blue with "8" and a clear cap printed with a blue circular stripe and “DCI”.
 Capsules are supplied in bottles of 100 (NDC 59767-008-01) or 250 (NDC 59767-008-02) PERTZYE (pancrelipase) Delayed-Release Capsules 16,000 USP units of lipase; 57,500 USP units of protease; 60,500 units of amylase.
 Each PERTZYE delayed-release capsule has a clear body printed in red with "16" and a clear cap printed with a red circular stripe and “DCI”.
