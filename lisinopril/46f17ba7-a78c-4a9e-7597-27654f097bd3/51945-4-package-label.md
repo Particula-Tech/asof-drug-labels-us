@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 2.5 mg
+# Package/Label Display Panel – 2.5 mg
 
 NDC 0310-0135-11
 
@@ -24,7 +24,7 @@ Product of Germany
 
 AstraZeneca
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg
+# Package/Label Display Panel – 5 mg
 
 NDC 0310-0130-11
 
@@ -48,7 +48,7 @@ By: AstraZeneca UK Limited, Macclesfield, UK
 
 Product of Germany
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 10 mg
+# Package/Label Display Panel – 10 mg
 
 NDC 0310-0131-11
 
@@ -72,31 +72,9 @@ By: AstraZeneca UK Limited, Macclesfield, UK
 
 Product of Germany
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 20 mg
+# Package/Label Display Panel – 20 mg
 
-NDC 0310-0132-11
-
-100 tablets
-
-ONCE-DAILY
-
-ZESTRIL®
-
-LISINOPRIL
-
-20 mg tablets
-
-Rx only
-
-Mfd. for: AstraZeneca Pharmaceuticals LP
-
-Wilmington, DE 19850
-
-By: AstraZeneca UK Limited, Macclesfield, UK
-
-Product of Germany
-
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 30 mg
+# Package/Label Display Panel – 30 mg
 
 NDC 0310-0133-11
 
@@ -120,7 +98,7 @@ By: AstraZeneca UK Limited, Macclesfield, UK
 
 Product of Germany
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 40 mg
+# Package/Label Display Panel – 40 mg
 
 NDC 0310-0134-11
 

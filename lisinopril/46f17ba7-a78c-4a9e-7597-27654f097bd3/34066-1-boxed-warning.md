@@ -1,8 +1,4 @@
-WARNING: FETAL TOXICITY
+# WARNING: FETAL TOXICITY
 
-See full prescribing information for complete boxed warning.
-
-· When pregnancy is detected, discontinue ZESTRIL as soon as possible.
-
-· Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus.
-See Warnings: Fetal Toxicity.
+- •When pregnancy is detected, discontinue ZESTRIL as soon as possible [seeWarnings and Precautions (5.1)].
+- •Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [seeWarnings and Precautions (5.1)].

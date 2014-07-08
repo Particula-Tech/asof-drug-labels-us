@@ -1,33 +1,16 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-2.5 mg Tablets (NDC 0310-0135) white, round, biconvex, uncoated tablets identified as “ZESTRIL 2 1/2” on one side and “135” on the other side are supplied in bottles of 100 tablets.
+Zestril is available as uncoated biconvex tablets in bottles of 100.
 
-5 mg Tablets (NDC 0310-0130) pink, capsule-shaped, biconvex, bisected, uncoated tablets, identified "ZESTRIL" on one side and "130" on the other side are supplied in bottles of 100 tablets.
+| Strength | Color | Shape | Scored | Side 1/Side 2 | NDC 0310- |
+| --- | --- | --- | --- | --- | --- |
+| 2.5 mg | White | Round | No | ZESTRIL 2½/135 | 0135-11 |
+| 5 mg | Pink | Capsular | Yes | ZESTRIL/130 | 0130-11 |
+| 10 mg | Pink | Round | No | ZESTRIL 10/131 | 0131-11 |
+| 20 mg | Red | Round | No | ZESTRIL 20/132 | 0132-11 |
+| 30 mg | Red | Round | No | ZESTRIL 30/133 | 0133-11 |
+| 40 mg | Yellow | Round | No | ZESTRIL 40/134 | 0134-11 |
 
-10 mg Tablets (NDC 0310-0131) pink, round, biconvex, uncoated tablets identified "ZESTRIL 10" debossed on one side, and "131" debossed on the other side are supplied in bottles of 100 tablets.
-
-20 mg Tablets (NDC 0310-0132) red, round, biconvex, uncoated tablets identified "ZESTRIL 20" debossed on one side, and "132" debossed on the other side are supplied in bottles of 100 tablets.
-
-30 mg Tablets (NDC 0310-0133) red, round, biconvex, uncoated tablets identified “ZESTRIL 30” debossed on one side, and “133” debossed on the other side are supplied in bottles of 100 tablets.
-
-40 mg Tablets (NDC 0310-0134) yellow, round, biconvex, uncoated tablets identified "ZESTRIL 40" debossed on one side, and "134" debossed on the other side are supplied in bottles of 100 tablets.
-
-## Storage
-
-Store at controlled room temperature, 20-25ºC (68-77ºF) [see USP].
+Store at controlled room temperature, 20-25°C (68-77°F) [see USP].
 Protect from moisture, freezing and excessive heat.
 Dispense in a tight container.
-
-ZESTRIL is a trademark of the AstraZeneca group of companies.
-
-©AstraZeneca 2012
-
-Distributed by:
-
-AstraZeneca Pharmaceuticals LP
-
-Wilmington, DE 19850
-
-Revision: 11/2013
-
-AstraZeneca
