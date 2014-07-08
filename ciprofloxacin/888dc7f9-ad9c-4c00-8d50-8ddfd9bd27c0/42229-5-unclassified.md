@@ -105,11 +105,11 @@ Table 1: Susceptibility Test Interpretive Criteria for Ciprofloxacin
 | Bacillus anthracisa | ≤0.25 |  |  |  |  |  |
 | S=Susceptible, I=Intermediate, and R=Resistant. |  |  |  |  |  |  |
 
-1. 1.A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
-   A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-   This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-   This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-   A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+- 1.A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
+  A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+  This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
+  This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+  A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 - •Quality Control: Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 2.
   For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 2 should be achieved.

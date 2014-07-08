@@ -78,6 +78,11 @@ Appropriate Dosing Volumes of the Oral Suspensions:
 
 Preparation of the suspension:
 
+4.
+Remove the top layer of the diluent bottle label (to reveal the CIPRO Oral Suspension label).
+Close the large bottle completely according to the directions on the cap and shake vigorously for about 15 seconds.
+The suspension is ready for use.
+
 No additions should be made to the mixed final ciprofloxacin suspension.
 CIPRO Oral Suspension should not be administered through feeding or NG (nasogastric) tubes due to its physical characteristics.
 
