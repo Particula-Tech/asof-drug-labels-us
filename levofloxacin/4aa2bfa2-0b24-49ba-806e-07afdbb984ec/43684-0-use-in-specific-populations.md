@@ -67,7 +67,7 @@ Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other 
 Caution should be used when prescribing Levofloxacin to elderly patients especially those on corticosteroids.
 Patients should be informed of this potential side effect and advised to discontinue Levofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning; Warnings and Precautions (5.1); and Adverse Reactions (6.3)].
 
-In phase 3 clinical trials, 1,945 Levofloxacin-treated patients (26%) were ≥ 65 years of age.
+In Phase 3 clinical trials, 1,945 Levofloxacin-treated patients (26%) were ≥ 65 years of age.
 Of these, 1,081 patients (14%) were between the ages of 65 and 74 and 864 patients (12%) were 75 years or older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
 

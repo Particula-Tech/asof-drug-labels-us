@@ -73,6 +73,6 @@ Manufactured for:
 
 © Patriot Pharmaceuticals, LLC
 
-Issued August 2013
+Issued June 2014
 
 ## 17.6 FDA-Approved Medication Guide
