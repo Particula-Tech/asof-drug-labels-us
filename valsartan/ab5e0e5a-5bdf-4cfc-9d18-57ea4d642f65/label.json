@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA077492"
+  ],
+  "inn": "valsartan",
+  "labeler": "Ohm Laboratories Inc.",
+  "package_ndcs": [
+    "51660-140-03",
+    "51660-140-05",
+    "51660-140-30",
+    "51660-141-03",
+    "51660-141-05",
+    "51660-141-90",
+    "51660-142-03",
+    "51660-142-05",
+    "51660-142-90",
+    "51660-143-03",
+    "51660-143-05",
+    "51660-143-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valsartan",
+      "name": "VALSARTAN"
+    }
+  ],
+  "setid": "ab5e0e5a-5bdf-4cfc-9d18-57ea4d642f65",
+  "source": "dailymed"
+}
