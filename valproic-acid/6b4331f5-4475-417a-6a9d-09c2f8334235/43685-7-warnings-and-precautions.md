@@ -139,7 +139,7 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.9 Thrombocytopenia
 
-The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia may be dose-related.
+The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related.
 In a clinical trial of Depakote (divalproex sodium) as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
 In the remaining patients, platelet counts normalized with continued treatment.

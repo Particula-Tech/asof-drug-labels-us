@@ -14,7 +14,7 @@ Tablets
 
 DEPAKOTE (dep-a-kOte)
 
-(divalproex sodium)
+(divalproex sodium delayed release capsules)
 
 Sprinkle Capsules
 
@@ -295,4 +295,4 @@ For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-03-A914 March 2014
+03-A991 June 2014
