@@ -8,15 +8,13 @@ It is available in a collapsible aluminum tube with a tamper-evident aluminum me
 | 30 g | NDC 0023-8335-03 | NDC 0023-0042-03 |
 | 100 g | NDC 0023-8335-10 | NDC 0023-0042-10 |
 
-NOTE: Store at 25°C (77°F): excursions permitted to 15-30°C (59-86°F).
+Storage: Store at 25°C (77°F): excursions permitted to 15-30°C (59-86°F).
 
-Rx Only
+Revised: 05/2014
 
-Revised: 03/2011
+© 2014 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Made in the U.S.A.
 
-© 2011 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patents 5,914,334 and 6,258,830 Made in the U.S.A.
-
-71722US13C
+71722US14
 
 Pharmacist: Please cut or tear at dotted line and provide this patient package insert to your customer.
 

@@ -1,8 +1,8 @@
 TAZORAC®
 
-(tazarotene) Gel 0.05%
+(tazarotene) Gel, 0.05%
 
-(tazarotene) Gel 0.1%
+(tazarotene) Gel, 0.1%
 
 INFORMATION FOR PATIENTS
 
@@ -171,10 +171,10 @@ IF YOU HAVE QUESTIONS ABOUT PSORIASIS: Information is available from:
 The National Psoriasis Foundation:
 
 6600 SW 92nd Avenue, Suite 300, Portland, OR 97223-7195.
-Telephone: 1-800-723-9166, or on the World Wide Web at http://www.psoriasis.org.
+Telephone: 1-800-723-9166 or on the World Wide Web at http://www.psoriasis.org.
 
-Revised: 03/2011
+Revised: 05/2014
 
-© 2011 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patents 5,914,334 and 6,258,830 Made in the U.S.A.
+© 2014 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Made in the U.S.A.
 
-71722US13C
+71722US14

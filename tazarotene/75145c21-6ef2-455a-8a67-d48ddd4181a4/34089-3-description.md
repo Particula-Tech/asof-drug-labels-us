@@ -16,4 +16,4 @@ Active: Tazarotene 0.05% or 0.1% (w/w)
 
 Preservative: Benzyl alcohol 1% (w/w)
 
-Inactives: Ascorbic acid, butylated hydroxyanisole, butylated hydroxytoluene, carbomer homopolymer type B, edetate disodium, hexylene glycol, poloxamer 407, polyethylene glycol 400, polysorbate 40, purified water, and tromethamine.
+Inactives: Ascorbic acid; butylated hydroxyanisole; butylated hydroxytoluene; carbomer homopolymer type B; edetate disodium; hexylene glycol; poloxamer 407; polyethylene glycol 400; polysorbate 40; purified water; and tromethamine.

@@ -7,7 +7,9 @@ A negative result for pregnancy test having a sensitivity down to at least 50 mI
 
 # PRECAUTIONS
 
-General: TAZORAC® Gel should be applied only to the affected areas.
+## General
+
+TAZORAC® Gel should be applied only to the affected areas.
 For external use only.
 Avoid contact with eyes, eyelids, and mouth.
 If contact with eyes occurs, rinse thoroughly with water.
@@ -29,16 +31,22 @@ Alternatively, patients with psoriasis who are being treated with the 0.1% conce
 
 Weather extremes, such as wind or cold, may be more irritating to patients using TAZORAC® Gel.
 
-Information for Patients: See attached Patient Package Insert.
+## Information for Patients
 
-Drug Interactions: Concomitant dermatologic medications and cosmetics that have a strong drying effect should be avoided.
+See attached Patient Package Insert.
+
+## Drug Interactions
+
+Concomitant dermatologic medications and cosmetics that have a strong drying effect should be avoided.
 It is also advisable to "rest" a patient's skin until the effects of such preparations subside before use of TAZORAC® Gel is begun.
 
 In a study of 27 healthy female subjects between the ages of 20–55 years receiving a combination oral contraceptive tablet containing 1 mg norethindrone and 35 mcg ethynyl estradiol, concomitant use of tazarotene did not affect the pharmacokinetics of norethindrone and ethynyl estradiol over a complete cycle.
 
 The impact of tazarotene on the pharmacokinetics of progestin only oral contraceptives (i.e., minipills) has not been evaluated.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: A long-term study of tazarotene following oral administration of 0.025, 0.050, and 0.125 mg/kg/day to rats showed no indications of increased carcinogenic risks.
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+A long-term study of tazarotene following oral administration of 0.025, 0.050, and 0.125 mg/kg/day to rats showed no indications of increased carcinogenic risks.
 Based on pharmacokinetic data from a shorter-term study in rats, the highest dose of 0.125 mg/kg/day was anticipated to give systemic exposure (AUCde) in the rat equivalent to 0.32 times the AUC0-24h observed in psoriatic patients treated with 2 mg/cm2 of tazarotene gel 0.1% (extrapolated for topical application over a 20% body surface area), and 0.38 times the maximum AUC0-24h in acne patients treated with 2 mg/cm2 of tazarotene gel 0.1% over a 15% (targeted) body surface area.
 
 In evaluation of photo co-carcinogenicity, median time to onset of tumors was decreased and the number of tumors increased in hairless mice following chronic topical dosing with intercurrent exposure to ultraviolet radiation at tazarotene concentrations of 0.001%, 0.005%, and 0.01% in a gel formulation for up to 40 weeks.
@@ -63,7 +71,9 @@ Based on data from another study, the systemic drug exposure (AUCde) in the rat 
 
 Pregnancy
 
-Teratogenic Effects: Pregnancy Category X: See CONTRAINDICATIONS section.
+Teratogenic Effects: Pregnancy Category X
+
+See CONTRAINDICATIONS section.
 Women of child-bearing potential should use adequate birth-control measures when TAZORAC® Gel is used.
 The possibility that a woman of child-bearing potential is pregnant at the time of institution of therapy should be considered.
 A negative result for pregnancy test having a sensitivity down to at least 50 mIU/mL for hCG should be obtained within 2 weeks prior to TAZORAC® Gel therapy, which should begin during a normal menstrual period.
