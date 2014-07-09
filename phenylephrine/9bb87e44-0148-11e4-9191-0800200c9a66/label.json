@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA204300"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "Éclat Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "76014-004-30",
+    "76014-004-32",
+    "76014-004-33"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "phenylephrine hydrochloride",
+      "name": "Vazculep"
+    }
+  ],
+  "setid": "9bb87e44-0148-11e4-9191-0800200c9a66",
+  "source": "dailymed"
+}
