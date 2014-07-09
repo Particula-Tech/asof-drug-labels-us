@@ -39,10 +39,10 @@ Discontinuation of LEVAQUIN® due to adverse drug reactions occurred in 4.3% of 
 The most common adverse drug reactions leading to discontinuation with the 250 and 500 mg doses were gastrointestinal (1.4%), primarily nausea (0.6%); vomiting (0.4%); dizziness (0.3%); and headache (0.2%).
 The most common adverse drug reactions leading to discontinuation with the 750 mg dose were gastrointestinal (1.2%), primarily nausea (0.6%), vomiting (0.5%); dizziness (0.3%); and headache (0.3%).
 
-Adverse reactions occurring in ≥1% of LEVAQUIN®-treated patients and less common adverse reactions, occurring in 0.1 to <1% of LEVAQUIN®-treated patients, are shown in Table 6 and Table 7, respectively.
+Adverse reactions occurring in ≥1% of LEVAQUIN®-treated patients and less common adverse reactions, occurring in 0.1 to <1% of LEVAQUIN®-treated patients, are shown in Table 4 and Table 5, respectively.
 The most common adverse drug reactions (≥3%) are nausea, headache, diarrhea, insomnia, constipation, and dizziness.
 
-Table 6: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN®
+Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN®
 
 | System/Organ Class | Adverse Reaction | % (N = 7537) |
 | --- | --- | --- |
@@ -62,7 +62,7 @@ Table 6: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQ
 | injection site reaction | 1 |  |
 | chest pain | 1 |  |
 
-Table 7: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN® (N = 7537)
+Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN® (N = 7537)
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
@@ -86,10 +86,10 @@ The relationship of the drugs to these events is not presently established.
 
 ## 6.3 Postmarketing Experience
 
-Table 8 lists adverse reactions that have been identified during post-approval use of LEVAQUIN®.
+Table 6 lists adverse reactions that have been identified during post-approval use of LEVAQUIN®.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 8: Postmarketing Reports Of Adverse Drug Reactions
+Table 6: Postmarketing Reports Of Adverse Drug Reactions
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |

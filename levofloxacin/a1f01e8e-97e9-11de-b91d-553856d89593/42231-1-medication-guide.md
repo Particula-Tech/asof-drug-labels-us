@@ -1,4 +1,4 @@
-MEDICATION GUIDE LEVAQUIN® [Leave ah kwin] (levofloxacin) Tablets LEVAQUIN® (levofloxacin) Oral Solution LEVAQUIN® (levofloxacin) Injection for Intravenous Use LEVAQUIN® (levofloxacin in 5% dextrose) Injection for Intravenous Use
+MEDICATION GUIDE LEVAQUIN® [Leave ah kwin] (levofloxacin) Tablets LEVAQUIN® (levofloxacin) Oral Solution LEVAQUIN® (levofloxacin in 5% dextrose) Injection for Intravenous Use
 
 Read this Medication Guide before you start taking LEVAQUIN and each time you get a refill.
 There may be new information.
@@ -254,7 +254,7 @@ For more information go to www.levaquin.com or call 1-800-526-7736.
 
 What are the ingredients in LEVAQUIN?
 
-LEVAQUIN Tablets, LEVAQUIN Oral Solution, LEVAQUIN Injection in Single-Use Vials and LEVAQUIN Injection Premix in Single-Use Flexible Containers:
+LEVAQUIN Tablets, LEVAQUIN Oral Solution and LEVAQUIN Injection Premix in Single-Use Flexible Containers:
 
 Active ingredient: levofloxacin
 
@@ -271,11 +271,6 @@ LEVAQUIN Oral Solution:
 Inactive ingredients: artificial and natural flavors, ascorbic acid, benzyl alcohol, caramel color, glycerin, hydrochloric acid, propylene glycol, purified water, sucralose, and sucrose.
 It may also contain a solution of sodium hydroxide for pH adjustment.
 
-LEVAQUIN Injection in Single-Use Vials:
-
-Inactive ingredients: water for injection.
-LEVAQUIN for Injection Single Use Vials do not contain any preservatives.
-
 LEVAQUIN Injection Premix in Single-Use Flexible Containers:
 
 Inactive ingredients: Dextrose (D5W).
@@ -287,16 +282,14 @@ Active Ingredient Made in Japan
 
 Finished Product Manufactured by:
 
-Janssen Ortho LLC, Gurabo, Puerto Rico 00778 (Tablets).
-
-Janssen Pharmaceutica N.V., Beerse, Belgium (Oral Solution, Injection Single-Use Vials).
-
-Hospira, Inc., Austin, TX 78728 (Injection Premix).
+- Janssen Ortho LLC, Gurabo, Puerto Rico 00778 (Tablets).
+- Janssen Pharmaceutica N.V., Beerse, Belgium (Oral Solution).
+- Hospira, Inc., Austin, TX 78728 (Injection Premix).
 
 Manufactured for:
 
-Janssen Pharmaceuticals, Inc., Titusville, NJ 08560.
+- Janssen Pharmaceuticals, Inc., Titusville, NJ 08560.
 
 © Janssen Pharmaceuticals, Inc.
 
-Revised May 2014
+Revised June 2014

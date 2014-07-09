@@ -7,28 +7,17 @@
   "inn": "levofloxacin",
   "labeler": "Janssen Pharmaceuticals, Inc.",
   "package_ndcs": [
-    "50458-164-20",
-    "50458-165-30",
     "50458-166-01",
     "50458-167-01",
     "50458-168-01",
     "50458-170-01",
-    "50458-920-10",
     "50458-920-50",
-    "50458-925-10",
     "50458-925-50",
-    "50458-930-10",
-    "50458-930-20",
-    "50458-930-50"
+    "50458-930-20"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
-      "generic": "levofloxacin",
-      "name": "Levaquin"
-    },
-    {
-      "form": "INJECTION, SOLUTION, CONCENTRATE",
       "generic": "levofloxacin",
       "name": "Levaquin"
     },

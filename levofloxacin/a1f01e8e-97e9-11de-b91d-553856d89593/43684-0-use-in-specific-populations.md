@@ -45,9 +45,9 @@ In clinical trials, 1534 children (6 months to 16 years of age) were treated wit
 Children 6 months to 5 years of age received LEVAQUIN® 10 mg/kg twice a day and children greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
 
 A subset of children in the clinical trials (1340 LEVAQUIN®-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendinopathy, gait abnormality) during 60 days and 1 year following the first dose of the study drug.
-Children treated with LEVAQUIN® had a significantly higher incidence of musculoskeletal disorders when compared to the non-fluoroquinolone-treated children as illustrated in Table 9.
+Children treated with LEVAQUIN® had a significantly higher incidence of musculoskeletal disorders when compared to the non-fluoroquinolone-treated children as illustrated in Table 7.
 
-Table 9: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
+Table 7: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
 
 | Follow-up Period | LEVAQUIN® N = 1340 | Non-FluoroquinoloneNon-Fluoroquinolone: ceftriaxone, amoxicillin/clavulanate, clarithromycin N = 893 | p-value2-sided Fisher's Exact Test |
 | --- | --- | --- | --- |
@@ -72,7 +72,7 @@ Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other 
 Caution should be used when prescribing LEVAQUIN® to elderly patients especially those on corticosteroids.
 Patients should be informed of this potential side effect and advised to discontinue LEVAQUIN® and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning; Warnings and Precautions (5.1); and Adverse Reactions (6.3)].
 
-In phase 3 clinical trials, 1,945 LEVAQUIN®-treated patients (26%) were ≥ 65 years of age.
+In Phase 3 clinical trials, 1,945 LEVAQUIN®-treated patients (26%) were ≥ 65 years of age.
 Of these, 1,081 patients (14%) were between the ages of 65 and 74 and 864 patients (12%) were 75 years or older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
 

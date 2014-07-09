@@ -8,11 +8,6 @@ TABLETS, Film-coated, capsule-shaped
 
 ORAL SOLUTION, 25 mg/mL, clear yellow to clear greenish-yellow color
 
-INJECTION, Single-Use Vials of concentrated solution for dilution for intravenous infusion, clear yellow to clear greenish-yellow in appearance
-
-- 20 mL vial of 25 mg/mL levofloxacin solution, equivalent to 500 mg of levofloxacin
-- 30 mL vial of 25 mg/mL levofloxacin solution, equivalent to 750 mg of levofloxacin
-
 INJECTION (5 mg/mL in 5% Dextrose) Premix in Single-Use Flexible Containers, for intravenous infusion
 
 - 100 mL container, fill volume 50 mL (equivalent to 250 mg levofloxacin)

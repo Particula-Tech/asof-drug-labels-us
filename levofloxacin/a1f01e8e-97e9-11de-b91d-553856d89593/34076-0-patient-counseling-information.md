@@ -67,7 +67,7 @@ Active Ingredient Made in Japan
 Finished Product Manufactured by:
 
 - Janssen Ortho LLC, Gurabo, Puerto Rico 00778 (for the Tablets).
-- Janssen Pharmaceutica N.V., Beerse, Belgium (for the Oral Solution and Injection, Single-Use Vials).
+- Janssen Pharmaceutica N.V., Beerse, Belgium (for the Oral Solution).
 - Hospira, Inc., Austin, TX 78728 (for the Injection Pre-Mixed Solution Single-Use in Flexible Container).
 
 Manufactured for:
@@ -76,6 +76,6 @@ Manufactured for:
 
 © Janssen Pharmaceuticals, Inc.
 
-Issued May 2014
+Issued June 2014
 
 ## 17.6 FDA-Approved Medication Guide

@@ -6,9 +6,9 @@ Levofloxacin is a member of the fluoroquinolone class of antibacterial agents [s
 
 ## 12.3 Pharmacokinetics
 
-The mean ± SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following oral tablet, oral solution, or intravenous (IV) doses of LEVAQUIN® are summarized in Table 10.
+The mean ± SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following oral tablet, oral solution, or intravenous (IV) doses of LEVAQUIN® are summarized in Table 8.
 
-Table 10: Mean ± SD Levofloxacin PK Parameters
+Table 8: Mean ± SD Levofloxacin PK Parameters
 
 | (mcg/mL) | (h) | (mcg∙h/mL) | (mL/min) | (L) | (h) | (mL/min) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -228,7 +228,7 @@ Quantitative methods are used to determine antimicrobial minimal inhibitory conc
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MIC values should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method1,2,4 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of levofloxacin powder.
-The MIC values should be interpreted according to the criteria outlined in Table 11.
+The MIC values should be interpreted according to the criteria outlined in Table 9.
 
 Diffusion techniques:
 
@@ -236,9 +236,9 @@ Quantitative methods that require measurement of zone diameters also provide rep
 One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of bacteria to levofloxacin.
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according to the criteria outlined in Table 11.
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according to the criteria outlined in Table 9.
 
-Table 11: Susceptibility Test Interpretive Criteria for Levofloxacin
+Table 9: Susceptibility Test Interpretive Criteria for Levofloxacin
 
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -263,10 +263,10 @@ A report of Resistant indicates that the pathogen is not likely to be inhibited 
 
 Quality Control:
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard levofloxacin powder should provide the range of MIC values noted in Table 12.
-For the diffusion technique using the 5 mcg disk, the criteria in Table 12 should be achieved.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard levofloxacin powder should provide the range of MIC values noted in Table 10.
+For the diffusion technique using the 5 mcg disk, the criteria in Table 10 should be achieved.
 
-Table 12: Quality Control Ranges for Susceptibility Testing
+Table 10: Quality Control Ranges for Susceptibility Testing
 
 | Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
 | --- | --- | --- | --- |

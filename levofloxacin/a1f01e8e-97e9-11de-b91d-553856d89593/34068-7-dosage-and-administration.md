@@ -96,60 +96,12 @@ Crystalluria and cylindruria have been reported with quinolones [see Adverse Rea
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Because only limited data are available on the compatibility of LEVAQUIN® Injection with other intravenous substances, additives or other medications should not be added to LEVAQUIN® Injection Premix in Single-Use Flexible Containers and LEVAQUIN® Injection in Single-Use Vials, or infused simultaneously through the same intravenous line.
+Because only limited data are available on the compatibility of LEVAQUIN® Injection with other intravenous substances, additives or other medications should not be added to LEVAQUIN® Injection Premix in Single-Use Flexible Containers, or infused simultaneously through the same intravenous line.
 If the same intravenous line is used for sequential infusion of several different drugs, the line should be flushed before and after infusion of LEVAQUIN® Injection with an infusion solution compatible with LEVAQUIN® Injection and with any other drug(s) administered via this common line.
-
-LEVAQUIN® Injection in Single-Use Vials
-
-Single-use vials require dilution prior to administration.
-
-LEVAQUIN® Injection is supplied in single-use vials containing a concentrated levofloxacin solution with the equivalent of 500 mg (20 mL vial) and 750 mg (30 mL vial) of levofloxacin in Water for Injection, USP.
-The 20 mL and 30 mL vials each contain 25 mg of levofloxacin/mL.
-These LEVAQUIN® Injection single-use vials must be further diluted with an appropriate solution prior to intravenous administration [see Table 4].
-The concentration of the resulting diluted solution should be 5 mg/mL prior to administration.
-
-Compatible Intravenous Solutions: Any of the following intravenous solutions may be used to prepare a 5 mg/mL levofloxacin solution with the approximate pH values:
-
-Table 4: Compatible Intravenous Solutions
-
-| Intravenous Fluids | Final pH of LEVAQUIN® Solution |
-| --- | --- |
-| 0.9% Sodium Chloride Injection, USP | 4.71 |
-| 5% Dextrose Injection, USP | 4.58 |
-| 5% Dextrose/0.9% NaCl Injection | 4.62 |
-| 5% Dextrose in Lactated Ringers | 4.92 |
-| Plasma-Lyte® 56/5% Dextrose Injection | 5.03 |
-| 5% Dextrose, 0.45% Sodium Chloride, and 0.15% Potassium Chloride Injection | 4.61 |
-| Sodium Lactate Injection (M/6) | 5.54 |
-
-Since no preservative or bacteriostatic agent is present in this product, aseptic technique must be used in preparation of the final intravenous solution.
-Since the vials are for single-use only, any unused portion remaining in the vial should be discarded.
-When used to prepare two 250 mg doses from the 20 mL vial containing 500 mg of levofloxacin, the full content of the vial should be withdrawn at once using a single-entry procedure, and a second dose should be prepared and stored for subsequent use [see Stability of LEVAQUIN® Injection Following Dilution].
-
-Prepare the desired dosage of levofloxacin according to Table 5:
-
-Table 5: Preparation of LEVAQUIN® Intravenous Solution
-
-| Desired Dosage Strength | From Appropriate Vial, Withdraw Volume | Volume of Diluent | Infusion Time |
-| --- | --- | --- | --- |
-| 250 mg | 10 mL (20 mL Vial) | 40 mL | 60 min |
-| 500 mg | 20 mL (20 mL Vial) | 80 mL | 60 min |
-| 750 mg | 30 mL (30 mL Vial) | 120 mL | 90 min |
-
-For example, to prepare a 500 mg dose using the 20 mL vial (25 mg/mL), withdraw 20 mL and dilute with a compatible intravenous solution to a total volume of 100 mL.
-
-This intravenous drug product should be inspected visually for particulate matter prior to administration.
-Samples containing visible particles should be discarded.
-
-Stability of LEVAQUIN® Injection Following Dilution: LEVAQUIN® Injection, when diluted in a compatible intravenous fluid to a concentration of 5 mg/mL, is stable for 72 hours when stored at or below 25°C (77°F) and for 14 days when stored under refrigeration at 5°C (41°F) in plastic intravenous containers.
-Solutions that are diluted in a compatible intravenous solution and frozen in glass bottles or plastic intravenous containers are stable for 6 months when stored at -20°C (-4°F).
-Thaw frozen solutions at room temperature 25°C (77°F) or in a refrigerator 8°C (46°F).
-Do not force thaw by microwave irradiation or water bath immersion.
-Do not refreeze after initial thawing.
 
 LEVAQUIN® Injection Premix in Single-Use Flexible Containers (5 mg/mL)
 
-LEVAQUIN® Injection is also supplied in flexible containers within a foil overwrap.
+LEVAQUIN® Injection is supplied in flexible containers within a foil overwrap.
 These contain a premixed, ready to use levofloxacin solution in 5% dextrose (D5W) for single-use.
 The 100 mL premixed flexible containers contain either 250 mg/50 mL or 500 mg/100 mL of levofloxacin solution.
 The 150 mL flexible container contains 750 mg/150 mL of levofloxacin solution.

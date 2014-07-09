@@ -1,22 +1,22 @@
-PRINCIPAL DISPLAY PANEL - 250 mg Tablet Carton
+# PRINCIPAL DISPLAY PANEL - 250 mg Tablet Bottle Label
 
-10 blister strips 10 tablets each
+50 Tablets
 
-NDC 50458-920-10
+NDC 50458-920-50
 
 Once-a-day Lēvaquin® tablets (levofloxacin tablets)
 
+250mg
+
 Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-250 mg
+Active Ingredient Made in Japan
 
-Store at 15° to 30°C (59° to 86°F).
+Finished Product Manufactured by: JOLLC Gurabo, Puerto Rico 00778
 
-Rx only
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Package Not Child Resistant
-
-PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
 
 50 Tablets
 
@@ -34,23 +34,23 @@ Finished Product Manufactured by: JOLLC Gurabo, Puerto Rico 00778
 
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-PRINCIPAL DISPLAY PANEL - 750 mg Tablet Carton
+# PRINCIPAL DISPLAY PANEL - 750 mg Tablet Bottle Label
 
-10 blister strips 10 tablets each
+20 Tablets
 
-NDC 50458-930-10
+NDC 50458-930-20
 
 Once-a-day Lēvaquin® tablets (levofloxacin tablets)
 
+750mg
+
 Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-750 mg
+Active Ingredient Made in Japan
 
-Store at 15° to 30°C (59° to 86°F).
+Finished Product Manufactured by: JOLLC Gurabo, Puerto Rico 00778
 
-Rx only
-
-Package Not Child Resistant
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 PRINCIPAL DISPLAY PANEL - 25 mg/mL Oral Solution Carton
 
@@ -84,52 +84,6 @@ Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 Janssen
 
 Rx only
-
-PRINCIPAL DISPLAY PANEL - 500 mg Injection Carton
-
-20 mL NDC 50458-164-20
-
-Lēvaquin® injection (levofloxacin injection)
-
-FOR INTRAVENOUS INFUSION
-
-500 mg levofloxacin (25 mg/mL)
-
-Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
-
-Store at controlled room temperature and protect from light.
-
-ORTHO-McNEIL™ Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
-
-Rx only.
-
-Manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium
-
-Manufactured for: Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, New Jersey 08869
-
-PRINCIPAL DISPLAY PANEL - 750 mg Injection Carton
-
-30 mL NDC 50458-165-30
-
-Lēvaquin® injection (levofloxacin injection)
-
-FOR INTRAVENOUS INFUSION
-
-750 mg levofloxacin (25 mg/mL)
-
-Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
-
-Store at controlled room temperature and protect from light.
-
-Rx only.
-
-ORTHO-McNEIL™ Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
-
-Manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium
-
-Manufactured for: Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869
 
 PRINCIPAL DISPLAY PANEL - 5 mg/mL Injection 50 mL Bag
 
