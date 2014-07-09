@@ -97,7 +97,7 @@ Patients who develop symptoms of unexplained hyperammonemic encephalopathy while
 
 ## 5.7 Brain Atrophy
 
-There have been postmarketing reports of reversible and irreversible cerebral and cerebellar atrophy temporally associated with the use of valproate products; in some cases, patients recovered with permanent sequelae [see Adverse Reactions (6.4)].
+There have been postmarketing reports of reversible and irreversible cerebral and cerebellar atrophy temporally associated with the use of valproate products; in some cases, patients recovered with permanent sequelae.
 The motor and cognitive functions of patients on valproate should be routinely monitored and drug should be evaluated for continued use in the presence of suspected or apparent signs of brain atrophy.
 
 Reports of cerebral atrophy have also been reported in children who were exposed in utero to valproate products [see Use in Specific Populations (8.1)].
@@ -141,7 +141,7 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.9 Thrombocytopenia
 
-The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia may be dose-related.
+The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related.
 In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
 In the remaining patients, platelet counts normalized with continued treatment.
