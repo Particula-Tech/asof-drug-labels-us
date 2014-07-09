@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA202397"
+  ],
+  "inn": "telmisartan",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-2920-05",
+    "0378-2920-77",
+    "0378-2920-93",
+    "0378-2921-05",
+    "0378-2921-77",
+    "0378-2921-93",
+    "0378-2922-05",
+    "0378-2922-77",
+    "0378-2922-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "telmisartan",
+      "name": "Telmisartan"
+    }
+  ],
+  "setid": "c3658bc8-1524-43db-930e-66f9ac01b808",
+  "source": "dailymed"
+}
