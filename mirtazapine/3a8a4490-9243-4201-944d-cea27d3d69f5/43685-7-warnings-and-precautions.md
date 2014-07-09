@@ -7,10 +7,10 @@ Suicide is a known risk of depression and certain other psychiatric disorders, a
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older.
-
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
+
 There were differences in absolute risk of suicidality across different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
@@ -28,30 +28,22 @@ Table 1
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
-
 It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
-
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
-
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
-
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for mirtazapine orally disintegrating tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
+Prescriptions for mirtazapine orally disintegrating tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that mirtazapine orally disintegrating tablets are not approved for use in treating bipolar depression.
-
-Agranulocytosis
-
-In premarketing clinical trials, 2 (1 with Sjögren’s Syndrome) out of 2796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) < 500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC < 500/mm3 without any associated symptoms).
+Agranulocytosis In premarketing clinical trials, 2 (1 with Sjögren’s Syndrome) out of 2796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) < 500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC < 500/mm3 without any associated symptoms).
 For these 3 patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
 All 3 patients recovered after mirtazapine was stopped.
 These 3 cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
@@ -138,7 +130,9 @@ Concomitant Medication Patients should be advised to inform their physician if t
 Patients should be made aware of a potential increased risk for serotonin syndrome if concomitant use of mirtazapine orally disintegrating tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, particularly during treatment initiation and dose increases.
 Alcohol The impairment of cognitive and motor skills produced by mirtazapine has been shown to be additive with those produced by alcohol.
 Accordingly, patients should be advised to avoid alcohol while taking any dosage form of mirtazapine.
-Phenylalanine Phenylketonuric patients should be informed that mirtazapine orally disintegrating tablets contain phenylalanine 1.5 mg per 15 mg tablet, 3 mg per 30 mg tablet, and 4.5 mg per 45 mg tablet.
+Phenylalanine Phenylketonuric patients should be informed that mirtazapine orally disintegrating tablets
+
+contain phenylalanine 1.5 mg per 15 mg tablet, 3 mg per 30 mg tablet, and 4.5 mg per 45 mg tablet.
 Pregnancy Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during mirtazapine orally disintegrating tablets therapy.
 Nursing Patients should be advised to notify their physician if they are breastfeeding an infant.
 
