@@ -119,3 +119,5 @@ Acceptable Quality Control Ranges for Nitrofurantoin
 | Enterococcus faecalis ATCC 29212 | 4 – 16 | NAa |
 | Staphylococcus aureus ATCC 29213 | 8 – 32 | NAa |
 | Staphylococcus aureus ATCC 25923 | NAa | 18-22 |
+
+aNot applicable
