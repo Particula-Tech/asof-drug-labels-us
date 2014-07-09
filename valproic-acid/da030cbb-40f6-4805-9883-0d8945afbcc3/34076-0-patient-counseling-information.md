@@ -29,22 +29,10 @@ Since valproate products may produce CNS depression, especially when combined wi
 
 Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see Warnings and Precautions (5.12)].
 
-Manufactured at
+Manufactured at Hospira, Inc. McPherson, KS 67460 USA
 
-Hospira, Inc.
+Manufactured by Hospira, Inc. Lake Forest, IL 60045 USA
 
-McPherson, KS 67460 USA
+For AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-Manufactured by
-
-Hospira, Inc.
-
-Lake Forest, IL 60045 USA
-
-For
-
-AbbVie Inc.
-
-North Chicago, IL 60064, U.S.A.
-
-EN-3483 March 2014
+EN-3571 June 2014

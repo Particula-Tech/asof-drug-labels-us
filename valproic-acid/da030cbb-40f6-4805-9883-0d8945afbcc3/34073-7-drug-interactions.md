@@ -160,7 +160,7 @@ Concomitant administration of valproate (500 mg BID) and lorazepam (1 mg BID) in
 Olanzapine
 
 No dose adjustment for olanzapine is necessary when olanzapine is administered concomitantly with valproate.
-Co-administration of valproate (500 mg BID) and Olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in Cmax and 35% reduction in AUC of olanzapine.
+Co-administration of valproate (500 mg BID) and olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in Cmax and 35% reduction in AUC of olanzapine.
 
 Oral Contraceptive Steroids
 
