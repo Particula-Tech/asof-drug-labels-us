@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA020616"
+  ],
+  "inn": "morphine",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "52544-011-60",
+    "52544-032-60",
+    "52544-039-60",
+    "52544-052-60",
+    "52544-063-60",
+    "52544-164-60",
+    "52544-211-60",
+    "52544-220-60",
+    "52544-896-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "Kadian"
+    }
+  ],
+  "setid": "adae46f8-3477-418d-9fd0-322ace413817",
+  "source": "dailymed"
+}
