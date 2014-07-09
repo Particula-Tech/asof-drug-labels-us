@@ -1,4 +1,4 @@
-Ozurdex® (dexamethasone intravitreal implant) 0.7 mg
+Ozurdex ® (dexamethasone intravitreal implant) 0.7 mg
 
 Contents include: One Sterile, Single-Use Applicator
 

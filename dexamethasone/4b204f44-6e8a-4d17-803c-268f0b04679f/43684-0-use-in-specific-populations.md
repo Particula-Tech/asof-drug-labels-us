@@ -2,20 +2,30 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C
+Pregnancy Category C
 
-Topical dexamethasone has been shown to be teratogenic in mice producing fetal resorptions and cleft palate.
-In the rabbit, dexamethasone produced fetal resorptions and multiple abnormalities involving the head, ears, limbs, palate, etc. Pregnant rhesus monkeys treated with dexamethasone sodium phosphate intramuscularly at 1 mg/kg/day every other day for 28 days or at 10 mg/kg/day once or every other day at 3 or 5 days between gestation days 23 and 49 had fetuses with minor cranial abnormalities.
-A 1 mg/kg/dose in pregnant rhesus monkeys would be approximately 85 times higher than an OZURDEX® injection in humans (assuming 60 kg body weight).
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-OZURDEX® (dexamethasone intravitreal implant) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no adequate and well-controlled studies with OZURDEX® in pregnant women.
+Animal reproduction
+
+studies using topical ocular administration of dexamethasone were conducted in mice and rabbits.
+Cleft palate and embryofetal death in mice and malformations of the intestines and kidneys in rabbits were observed.
+OZURDEX® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Animal Data
+
+Topical ocular administration of 0.15% dexamethasone (0.375 mg/kg/day) on gestational days 10 to 13 produced embryofetal lethality and a high incidence of cleft palate in mice.
+A dose of 0.375 mg/kg/day in the mouse is approximately 3 times an OZURDEX® injection in humans (0.7 mg dexamethasone) on a mg/m2 basis.
+In rabbits, topical ocular administration of 0.1% dexamethasone throughout organogenesis (0.13 mg/kg/day, on gestational day 6 followed by 0.20 mg/kg/day on gestational days 7-18) produced intestinal anomalies, intestinal aplasia, gastroschisis and hypoplastic kidneys.
+A dose of 0.13 mg/kg/day in the rabbit is approximately 4 times an OZURDEX® injection in humans (0.7 mg dexamethasone) on a mg/m2 basis.
 
 ## 8.3 Nursing Mothers
 
-It is not known whether ocular administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-Caution should be exercised when corticosteroids are administered to a nursing woman.
+Systemically administered corticosteroids are present in human milk and can suppress growth and interfere with endogenous corticosteroid production.
+The systemic concentration of dexamethasone following intravitreal treatment with OZURDEX® is low [see Clinical Pharmacology (12.3)].
+It is not known whether intravitreal treatment with OZURDEX® could result in sufficient systemic absorption to produce detectable quantities in human milk.
+Exercise caution when OZURDEX® is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 

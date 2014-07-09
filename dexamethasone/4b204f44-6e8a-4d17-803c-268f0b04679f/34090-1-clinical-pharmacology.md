@@ -2,14 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-Dexamethasone, a potent corticosteroid, has been shown to suppress inflammation by inhibiting multiple inflammatory cytokines resulting in decreased edema, fibrin deposition, capillary leakage and migration of inflammatory cells.
+Dexamethasone, a corticosteroid, has been shown to suppress inflammation by inhibiting multiple inflammatory cytokines resulting in decreased edema, fibrin deposition, capillary leakage and migration of inflammatory cells.
 
 ## 12.3 Pharmacokinetics
 
-Plasma concentrations were obtained from 21 patients in two 6 month studies prior to dosing and on Days 1, 7, 30, 60, and 90 following the intravitreal implant containing 0.35 mg or 0.7 mg dexamethasone.
-In both studies, the majority of plasma dexamethasone concentrations were below the lower limit of quantitation (LLOQ = 50 pg/mL).
-Plasma dexamethasone concentrations from 10 of 73 samples in the 0.7 mg dose group and from 2 of 42 samples in the 0.35 mg dose group were above the LLOQ, ranging from 52 pg/mL to 94 pg/mL.
-The highest plasma concentration value of 94 pg/mL was observed in one subject from the 0.7 mg group.
+Plasma concentrations were obtained from 21 patients with macular edema due to branch retinal vein occlusion (BRVO) and central retinal vein occlusion (CRVO), and 21 patients with diabetic macular edema (DME) prior to dosing and at 4 to 5 additional post-dose timepoints on Days 1, 7, 21, 30, 45, 60, and 90 following the administration of the first intravitreal implant containing 0.7 mg dexamethasone.
+In RVO and DME patients, the majority of plasma dexamethasone concentrations were below the lower limit of quantitation (LLOQ = 50 pg/mL).
+Plasma dexamethasone concentrations from 12% of samples were above the LLOQ, ranging from 52 pg/mL to 102 pg/mL.
 Plasma dexamethasone concentration did not appear to be related to age, body weight, or sex of patients.
 
 In an in vitro metabolism study, following the incubation of [14C]-dexamethasone with human cornea, iris-ciliary body, choroid, retina, vitreous humor, and sclera tissues for 18 hours, no metabolites were observed.
