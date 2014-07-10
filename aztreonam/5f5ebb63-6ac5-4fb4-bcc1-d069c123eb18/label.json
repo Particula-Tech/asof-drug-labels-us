@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA065439"
+  ],
+  "inn": "aztreonam",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-401-24",
+    "63323-402-24"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "aztreonam",
+      "name": "Aztreonam"
+    }
+  ],
+  "setid": "5f5ebb63-6ac5-4fb4-bcc1-d069c123eb18",
+  "source": "dailymed"
+}

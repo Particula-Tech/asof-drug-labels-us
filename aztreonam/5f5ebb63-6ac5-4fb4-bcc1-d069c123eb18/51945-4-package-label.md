@@ -1,0 +1,31 @@
+PACKAGE LABEL - PRINCIPAL DISPLAY - Aztreonam 1 gram Single Dose Vial Label
+
+NDC 63323-401-24
+
+PRX400120
+
+Aztreonam for Injection, USP
+
+1 gram* per vial
+
+Single Dose Vial
+
+For Intravenous or Intramuscular use after constitution
+
+Rx only
+
+PACKAGE LABEL - PRINCIPAL DISPLAY - Aztreonam 2 grams Single Dose Vial Label
+
+NDC 63323-402-24
+
+PRX400220
+
+Aztreonam for Injection, USP
+
+2 grams* per vial
+
+Single Dose Vial
+
+For Intravenous or Intramuscular use after constitution
+
+Rx only
