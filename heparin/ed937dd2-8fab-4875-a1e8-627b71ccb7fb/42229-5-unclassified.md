@@ -8,10 +8,10 @@ Manufactured by:
 
 Fresenius Kabi USA, LLC
 
-Schaumburg, IL 60173
+Lake Zurich, IL 60047
 
 For Product Inquiry: 1-800-551-7176
 
-451186C
+451186D
 
-Revised: March 2013
+Revised: April 2014

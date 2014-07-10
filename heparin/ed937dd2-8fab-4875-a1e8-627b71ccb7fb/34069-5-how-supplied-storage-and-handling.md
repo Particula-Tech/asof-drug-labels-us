@@ -13,4 +13,4 @@ Use only if solution is clear and seal intact.
 
 Do not use if solution is discolored or contains a precipitate.
 
-This container closure is not made with natural rubber latex.
+This container closure is not made from natural rubber latex.

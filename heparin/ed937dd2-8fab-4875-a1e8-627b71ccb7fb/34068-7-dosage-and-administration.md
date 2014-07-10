@@ -38,7 +38,7 @@ Although dosage must be adjusted for the individual patient according to the res
 | Deep Subcutaneous(Intrafat) Injection A different siteshould be used foreach injection to prevent the development of massive hematoma | Initial Dose | 5,000 units by IV injection, followed by 10,000 to 20,000 units of a concentrated solution, subcutaneously |
 | Every8 hours or Every12 hours | 8,000 to 10,000 units of a concentrated solution 15,000 to 20,000 units of a concentrated solution |  |
 | IntermittentIntravenousInjection | Initial Dose | 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |
-| Every 4 to6 hours | 5,000 to 10,000 units, either undiluted orin 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |  |
+| Every 4 to6 hours | 5,000 to 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |  |
 | IntravenousInfusion | Initial Dose | 5,000 units by IV injection |
 | Continuous | 20,000 to 40,000 units/ 24 hours in 1,000 mL of 0.9% Sodium Chloride Injection, USP (or in any compatible solution) for infusion |  |
 
