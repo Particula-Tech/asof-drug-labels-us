@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090032"
+  ],
+  "inn": "telmisartan",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-199-01",
+    "68462-199-13",
+    "68462-200-01",
+    "68462-200-13",
+    "68462-201-01",
+    "68462-201-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "telmisartan",
+      "name": "Telmisartan"
+    }
+  ],
+  "setid": "c6eb489d-2946-4c14-839f-d4af761ead31",
+  "source": "dailymed"
+}
