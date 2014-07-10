@@ -160,7 +160,7 @@ Concomitant administration of valproate (500 mg BID) and lorazepam (1 mg BID) in
 Olanzapine
 
 No dose adjustment for olanzapine is necessary when olanzapine is administered concomitantly with valproate.
-Co-administration of valproate (500 mg BID) and Olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in Cmax and 35% reduction in AUC of olanzapine.
+Co-administration of valproate (500 mg BID) and olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in Cmax and 35% reduction in AUC of olanzapine.
 
 Oral Contraceptive Steroids
 
@@ -168,6 +168,6 @@ Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (25
 
 ## 7.3 Topiramate
 
-Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.10, 5.11)].
+Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.6, 5.10, 5.11)].
 Concomitant administration of topiramate with valproate has also been associated with hypothermia in patients who have tolerated either drug alone.
 It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.10, 5.12)].

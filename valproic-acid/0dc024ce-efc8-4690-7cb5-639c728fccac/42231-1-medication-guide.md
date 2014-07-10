@@ -14,7 +14,7 @@ Tablets
 
 DEPAKOTE (dep-a-kOte)
 
-(divalproex sodium)
+(divalproex sodium delayed release capsules)
 
 Sprinkle Capsules
 
@@ -281,4 +281,4 @@ Depakene Oral solution:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-03-A916 March 2014
+03-A989 June 2014

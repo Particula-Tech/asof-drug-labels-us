@@ -44,29 +44,29 @@ Table 3 summarizes those adverse reactions reported for patients in these trials
 | Pharyngitis | 6% | 5% |
 | 1. The following adverse reactions/event occurred at an equal or greater incidence for placebo than for Depakote ER: headache |  |  |
 
-The following additional adverse reactions were reported by greater than 1% but not more than 5% of the Depakote ER-treated patients in controlled clinical trials:
+The following additional adverse reactions were reported by greater than 1% of the Depakote ER-treated patients in controlled clinical trials:
 
-Body as a Whole: Back Pain, Flu Syndrome, Infection, Infection Fungal
+Body as a Whole: Back Pain, Chills, Chills and Fever, Drug Level Increased, Flu Syndrome, Infection, Infection Fungal, Neck Rigidity.
 
-Cardiovascular System: Hypertension
+Cardiovascular System: Arrhythmia, Hypertension, Hypotension, Postural Hypotension.
 
-Digestive System: Constipation, Dry Mouth, Flatulence
+Digestive System: Constipation, Dry Mouth, Dysphagia, Fecal Incontinence, Flatulence, Gastroenteritis, Glossitis, Gum Hemorrhage, Mouth Ulceration.
 
-Hemic and Lymphatic System: Ecchymosis
+Hemic and Lymphatic System: Anemia, Bleeding Time Increased, Ecchymosis, Leucopenia.
 
-Metabolic and Nutritional Disorders: Peripheral Edema
+Metabolic and Nutritional Disorders: Hypoproteinemia, Peripheral Edema.
 
-Musculoskeletal System: Myalgia
+Musculoskeletal System: Arthrosis, Myalgia.
 
-Nervous System: Abnormal Gait, Hypertonia, Tremor
+Nervous System: Abnormal Gait, Agitation, Catatonic Reaction, Dysarthria, Hallucinations, Hypertonia, Hypokinesia, Psychosis, Reflexes Increased, Sleep Disorder, Tardive Dyskinesia, Tremor.
 
-Respiratory System: Rhinitis
+Respiratory System: Hiccup, Rhinitis.
 
-Skin and Appendages: Pruritus, Rash
+Skin and Appendages: Discoid Lupus Erythematosus, Erythema Nodosum, Furunculosis, Maculopapular Rash, Pruritus, Rash, Seborrhea, Sweating, Vesiculobullous Rash.
 
-Special Senses: Conjunctivitis
+Special Senses: Conjunctivitis, Dry Eyes, Eye Disorder, Eye Pain, Photophobia, Taste Perversion.
 
-Urogenital System: Urinary Tract Infection, Vaginitis
+Urogenital System: Cystitis, Urinary Tract Infection, Menstrual Disorder, Vaginitis.
 
 ## 6.2 Epilepsy
 
@@ -261,118 +261,23 @@ Skin and Appendages: Pruritus.
 
 Urogenital System: Metrorrhagia.
 
-## 6.4 Other Patient Populations
+## 6.4 Post-Marketing Experience
 
-Mania
+The following adverse reactions have been identified during post approval use of Depakote.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following adverse reactions not listed previously were reported by greater than 1% of Depakote-treated patients and with a greater incidence than placebo in placebo-controlled trials of manic episodes associated with bipolar disorder:
+Dermatologic: Photosensitivity, erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
 
-Body as a Whole: Chills, chills and fever, drug level increased, neck rigidity.
+Psychiatric: Emotional upset, psychosis, aggression, hyperactivity, hostility, and behavioral deterioration.
 
-Cardiovascular System: Arrhythmia, hypotension, postural hypotension.
+Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 
-Digestive System: Dysphagia, fecal incontinence, gastroenteritis, glossitis, gum hemorrhage, mouth ulceration.
+Hematologic: Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
-Hemic and Lymphatic System: Anemia, bleeding time increased, leucopenia.
+Endocrine: Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, parotid gland swelling, and polycystic ovary disease, decrease carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
-Metabolic and Nutritional Disorders: Hypoproteinemia.
+Genitourinary: Enuresis and urinary tract infection.
 
-Musculoskeletal System: Arthrosis.
+Special Senses: Hearing loss.
 
-Nervous System: Agitation, catatonic reaction, dysarthria, hallucinations, hypokinesia, psychosis, reflexes increased, sleep disorder, tardive dyskinesia.
-
-Respiratory System: Hiccup.
-
-Skin and Appendages: Discoid lupus erythematosus, erythema nodosum, furunculosis, maculopapular rash, seborrhea, sweating, vesiculobullous rash.
-
-Special Senses: Conjunctivitis, dry eyes, eye disorder, eye pain, photophobia, taste perversion.
-
-Urogenital System: Cystitis, menstrual disorder.
-
-Epilepsy
-
-Adverse reactions that have been reported with all dosage forms of valproate from epilepsy trials, spontaneous reports, and other sources are listed below by body system.
-
-Gastrointestinal
-
-The most commonly reported side effects at the initiation of therapy are nausea, vomiting, and indigestion.
-These effects are usually transient and rarely require discontinuation of therapy.
-Diarrhea, abdominal cramps, and constipation have been reported.
-Both anorexia with some weight loss and increased appetite with weight gain have also been reported.
-The administration of delayed-release divalproex sodium may result in reduction of gastrointestinal side effects in some patients.
-
-CNS Effects
-
-Sedative effects have occurred in patients receiving valproate alone but occur most often in patients receiving combination therapy.
-Sedation usually abates upon reduction of other antiepileptic medication.
-Tremor (may be dose-related), hallucinations, ataxia, headache, nystagmus, diplopia, asterixis, "spots before eyes", dysarthria, dizziness, confusion, hypesthesia, vertigo, incoordination, and parkinsonism have been reported with the use of valproate.
-Rare cases of coma have occurred in patients receiving valproate alone or in conjunction with phenobarbital.
-In rare instances encephalopathy with or without fever has developed shortly after the introduction of valproate monotherapy without evidence of hepatic dysfunction or inappropriately high plasma valproate levels.
-Although recovery has been described following drug withdrawal, there have been fatalities in patients with hyperammonemic encephalopathy, particularly in patients with underlying urea cycle disorders [see Warnings and Precautions (5.6)].
-
-There have been postmarketing reports of reversible and irreversible cerebral and cerebellar atrophy temporally associated with the use of valproate products.
-In some cases the patients recovered with permanent sequelae [see Warnings and Precautions (5.7)].
-Cerebral atrophy has been reported in children exposed to valproate in utero[see Use in Specific Populations (8.1)].
-
-Dermatologic
-
-Transient hair loss, skin rash, photosensitivity, generalized pruritus, erythema multiforme, and Stevens-Johnson syndrome.
-Rare cases of toxic epidermal necrolysis have been reported including a fatal case in a 6 month old infant taking valproate and several other concomitant medications.
-An additional case of toxic epidermal necrosis resulting in death was reported in a 35 year old patient with AIDS taking several concomitant medications and with a history of multiple cutaneous drug reactions.
-Serious skin reactions have been reported with concomitant administration of lamotrigine and valproate [see Drug Interactions (7.2)].
-
-Psychiatric
-
-Emotional upset, depression, psychosis, aggression, hyperactivity, hostility, and behavioral deterioration.
-
-Musculoskeletal
-
-Weakness.
-
-Hematologic
-
-Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see Warnings and Precautions (5.9) and Drug Interactions (7)].
-Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
-
-Hepatic
-
-Minor elevations of transaminases (e.g., SGOT and SGPT) and LDH are frequent and appear to be dose-related.
-Occasionally, laboratory test results include increases in serum bilirubin and abnormal changes in other liver function tests.
-These results may reflect potentially serious hepatotoxicity [see Warnings and Precautions (5.1)].
-
-Endocrine
-
-Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, and parotid gland swelling.
-Abnormal thyroid function tests [see Warnings and Precautions (5.17)].
-
-There have been rare spontaneous reports of polycystic ovary disease.
-A cause and effect relationship has not been established.
-
-Pancreatic
-
-Acute pancreatitis including fatalities [see Warnings and Precautions (5.5)].
-
-Metabolic
-
-Hyperammonemia [see Warnings and Precautions (5.10, 5.11)], hyponatremia, and inappropriate ADH secretion.
-
-There have been rare reports of Fanconi's syndrome occurring chiefly in children.
-
-Decreased carnitine concentrations have been reported although the clinical relevance is undetermined.
-
-Hyperglycinemia has occurred and was associated with a fatal outcome in a patient with preexistent nonketotic hyperglycinemia.
-
-Genitourinary
-
-Enuresis and urinary tract infection.
-
-Special Senses
-
-Hearing loss, either reversible or irreversible, has been reported; however, a cause and effect relationship has not been established.
-Ear pain has also been reported.
-
-Other
-
-Allergic reaction, anaphylaxis, edema of the extremities, lupus erythematosus, bone pain, cough increased, pneumonia, otitis media, bradycardia, cutaneous vasculitis, fever, and hypothermia [see Warnings and Precautions (5.12)].
-
-There have been reports of developmental delay, autism and/or autism spectrum disorder in the offspring of women exposed to valproate during pregnancy.
+Other: Allergic reaction, anaphylaxis, developmental delay, autism and/or autism spectrum disorder, bone pain, bradycardia, and cutaneous vasculitis.
