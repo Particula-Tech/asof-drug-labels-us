@@ -51,15 +51,13 @@ DEPAKOTE®
 
 Sprinkle Capsules
 
-DIVALPROEX SODIUM
+DIVALPROEX SODIUM DELAYED RELEASE CAPSULES
 
-COATED PARTICLES IN CAPSULES
-
-DEPAKOTE® Sprinkle Capsules (divalproex sodium coated particles in capsules) may be swallowed whole or the capsule contents may be sprinkled onto soft food such as applesauce or pudding.
+DEPAKOTE® Sprinkle Capsules (divalproex sodium delayed release capsules) may be swallowed whole or the capsule contents may be sprinkled onto soft food such as applesauce or pudding.
 
 Serving Suggestions
 
-Depakote ® Sprinkle Capsules (divalproex sodium coated particles in capsules) provide the medicine that your healthcare provider has prescribed.
+Depakote® Sprinkle Capsules (divalproex sodium delayed release capsules) provide the medicine that your healthcare provider has prescribed.
 The sprinkles are flavorless.
 Soft foods such as applesauce or pudding are best to use for mixing and taking Depakote Sprinkles.
 

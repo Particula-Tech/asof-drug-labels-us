@@ -12,3 +12,5 @@ Depakote Sprinkle Capsules contain specially coated particles of divalproex sodi
 Inactive Ingredients
 
 125 mg Depakote Sprinkle Capsules: cellulosic polymers, D&C Red No. 28, FD&C Blue No. 1 gelatin, iron oxide, magnesium stearate, silica gel, titanium dioxide, and triethyl citrate.
+
+Meets USP Dissolution Test 2.

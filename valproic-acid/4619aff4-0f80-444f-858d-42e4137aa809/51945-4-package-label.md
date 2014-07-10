@@ -4,7 +4,7 @@ NDC 0074–6114–13
 
 DEPAKOTE® SPRINKLE CAPSULES
 
-DIVALPROEX SODIUM COATED PARTICLES IN CAPSULES
+Divalproex Sodium Delayed Release Capsules
 
 125 mg Valproic Acid Activity
 
@@ -18,7 +18,7 @@ NDC 0074–6114–11
 
 DEPAKOTE® SPRINKLE CAPSULES
 
-DIVALPROEX SODIUM COATED PARTICLES IN CAPSULES
+Divalproex Sodium Delayed Release Capsules
 
 125 mg Valproic Acid Activity
 
