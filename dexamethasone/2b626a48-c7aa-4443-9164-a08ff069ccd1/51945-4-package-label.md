@@ -8,7 +8,7 @@ Dexamethasone Sodium Phosphate Injection, USP
 
 equivalent to
 
-4 mg/mL
+4 mg per mL
 
 Dexamethasone Phosphate
 
@@ -30,7 +30,7 @@ Dexamethasone Sodium Phosphate Injection, USP
 
 equivalent to
 
-4 mg/mL
+4 mg per mL
 
 Dexamethasone Phosphate
 

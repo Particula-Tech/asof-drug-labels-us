@@ -10,5 +10,5 @@ Chemically, dexamethasone sodium phosphate is 9-Fluoro-11ÃŸ,17,21-trihydroxy-16Î
 Dexamethasone Sodium Phosphate Injection, USP is a sterile solution of dexamethasone sodium phosphate in water for injection for intravenous (IV), intramuscular (IM), intra-articular, soft-tissue or intralesional use.
 
 Each mL contains dexamethasone sodium phosphate equivalent to dexamethasone phosphate 4 mg or dexamethasone 3.33 mg; benzyl alcohol 10 mg added as preservative; sodium citrate dihydrate 11 mg; sodium sulfite 1 mg as an antioxidant; Water for Injection q.s.
-Citric acid and/or sodium hydroxide may have been added for pH adjustment (7.0-8.5).
+Citric acid and/or sodium hydroxide may have been added for pH adjustment (7.0 to 8.5).
 Air in the container is displaced by nitrogen.
