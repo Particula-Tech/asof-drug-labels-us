@@ -34,6 +34,11 @@ Concurrent administration of bile acid sequestering agent colesevelam hydrochlor
 Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect.
 Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [see Clinical Pharmacology (12.3)].
 
+Lithium
+
+Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of olmesartan or thiazide diuretics.
+Monitor lithium levels in patients receiving Tribenzor and lithium.
+
 ## 7.3 Drug Interactions with Amlodipine
 
 In vitro data indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
@@ -63,8 +68,5 @@ Single dose of either cholestyramine or colestipol resins bind the hydrochloroth
 Corticosteroids, ACTH: Intensified electrolyte depletion, particularly hypokalemia.
 Pressor Amines (e.g., Norepinephrine): Possible decreased response to pressor amines but not sufficient to preclude their use.
 Skeletal Muscle Relaxants, Non-depolarizing (e.g., Tubocurarine): Possible increased responsiveness to the muscle relaxant.
-Lithium: Should not be given with diuretics.
-Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
-Refer to the package insert for lithium preparations before use of such preparations with hydrochlorothiazide.
-Non-steroidal Anti-inflammatory Drugs: In some patients the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Lithium: Monitor lithium levels [See Drug Interactions (7.2)] Non-steroidal Anti-inflammatory Drugs: In some patients the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when hydrochlorothiazide tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patients should be observed closely to determine if the desired effect of the diuretic is obtained.

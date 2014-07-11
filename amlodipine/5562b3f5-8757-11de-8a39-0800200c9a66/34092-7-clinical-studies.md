@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1Tribenzor
+## 14.1 Tribenzor
 
 The antihypertensive efficacy of Tribenzor was studied in a double-blind, active controlled study in hypertensive patients.
 A total of 2492 patients with hypertension (mean baseline blood pressure 169/101 mmHg) received olmesartan medoxomil/amlodipine/hydrochlorothiazide 40/10/25 mg (627 patients), olmesartan medoxomil/amlodipine 40/10 mg (628 patients), olmesartan medoxomil/hydrochlorothiazide 40/25 mg (637 patients), or amlodipine/hydrochlorothiazide 10/25 mg (600 patients).
@@ -17,7 +17,7 @@ Table 2 Additional blood pressure reductions on high-dose Tribenzor compared to 
 | Start on | Adding | BP reduction* |
 | --- | --- | --- |
 | Olmesartan medoxomil 40 / amlodipine 10 mg | HCTZ 25 mg | 8.4/4.5 mmHg |
-| Olmesartan medoxomil 40 / HCTZ 25 mg | Amlodipine 10 mg | 7.6/5.4. mmHg |
+| Olmesartan medoxomil 40 / HCTZ 25 mg | Amlodipine 10 mg | 7.6/5.4 mmHg |
 | Amlodipine 10 / HCTZ 25 mg | Olmesartan medoxomil 40 mg | 8.1/5.4 mmHg |
 | *all highly statistically significant. |  |  |
 

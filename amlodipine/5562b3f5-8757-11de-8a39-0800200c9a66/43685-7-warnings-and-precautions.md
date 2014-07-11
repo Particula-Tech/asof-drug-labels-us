@@ -132,12 +132,7 @@ There was no overall adverse effect on survival or cardiac morbidity (as defined
 Amlodipine has been compared to placebo in four 8-12 week studies of patients with NYHA Class II/III heart failure, involving a total of 697 patients.
 In these studies, there was no evidence of worsening of heart failure based on measures of exercise tolerance, NYHA classification, symptoms, or left ventricular ejection fraction.
 
-## 5.13 Lithium Interaction
-
-Hydrochlorothiazide.
-Lithium generally should not be given with thiazides [see Drug Interactions (7.4)].
-
-## 5.14 Laboratory Tests
+## 5.13 Laboratory Tests
 
 Olmesartan medoxomil.
 In post-marketing experience, increased blood creatinine levels and hyperkalemia have been reported.

@@ -7,6 +7,8 @@ The full blood pressure lowering effects are attained within 2 weeks after a cha
 The maximum recommended dose of Tribenzor is 40/10/25 mg.
 Tribenzor may be taken with or without food.
 
+Tribenzor may be administered with other antihypertensive agents.
+
 Renal Impairment The usual regimens of therapy with Tribenzor may be followed if the patient’s creatinine clearance is >30 mL/min.
 In patients with more severe renal impairment, loop diuretics are preferred to thiazides, so avoid use of Tribenzor [see Warnings and Precautions (5.4)].
 
