@@ -1,5 +1,5 @@
 Rx only
 
-Manufactured by: MUTUAL PHARMACEUTICAL CO., INC. Philadelphia, PA 19124 USA
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Rev 01, July 2009
+Rev 02, July 2014
