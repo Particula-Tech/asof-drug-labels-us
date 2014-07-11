@@ -21,4 +21,4 @@ Dispose unused product or waste properly.
 
 This container closure is not made with natural rubber latex.
 
-PremierPro™ Rx is a trademark of Premier, Inc., used under license.
+PREMIERPro™ Rx is a trademark of Premier, Inc., used under license.

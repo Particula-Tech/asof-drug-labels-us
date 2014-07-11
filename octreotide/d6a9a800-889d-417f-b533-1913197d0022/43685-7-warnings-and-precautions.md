@@ -12,7 +12,7 @@ One patient developed ascending cholangitis during octreotide acetate therapy an
 
 # PRECAUTIONS
 
-## General Precautions
+## General
 
 Octreotide acetate alters the balance between the counter-regulatory hormones, insulin, glucagon and growth hormone, which may result in hypoglycemia or hyperglycemia.
 Octreotide acetate also suppresses secretion of thyroid stimulating hormone, which may result in hypothyroidism.
