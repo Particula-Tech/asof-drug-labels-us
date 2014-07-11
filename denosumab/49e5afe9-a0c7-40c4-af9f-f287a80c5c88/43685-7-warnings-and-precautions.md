@@ -8,7 +8,7 @@ Patients receiving Prolia should not receive Xgeva.
 ## 5.2 Hypersensitivity
 
 Clinically significant hypersensitivity including anaphylaxis has been reported with Prolia.
-Symptoms have included hypotension, dyspnea, throat tightness, facial and upper airway edema, pruritis, and urticaria.
+Symptoms have included hypotension, dyspnea, throat tightness, facial and upper airway edema, pruritus, and urticaria.
 If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy and discontinue further use of Prolia.
 [see Contraindications (4.3), Adverse Reactions (6.2)].
 
@@ -16,32 +16,15 @@ If an anaphylactic or other clinically significant allergic reaction occurs, ini
 
 Hypocalcemia may be exacerbated by the use of Prolia.
 Pre-existing hypocalcemia must be corrected prior to initiating therapy with Prolia.
-In patients predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, severe renal impairment [creatinine clearance < 30 mL/min] or receiving dialysis), clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended.
+In patients predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, severe renal impairment [creatinine clearance <30 mL/min] or receiving dialysis), clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended.
 
-Hypocalcemia following Prolia administration is a significant risk in patients with severe renal impairment [creatinine clearance < 30 mL/min] or receiving dialysis.
+Hypocalcemia following Prolia administration is a significant risk in patients with severe renal impairment [creatinine clearance <30 mL/min] or receiving dialysis.
+These patients may also develop marked elevations of serum parathyroid hormone (PTH).
 Instruct all patients with severe renal impairment, including those receiving dialysis, about the symptoms of hypocalcemia and the importance of maintaining calcium levels with adequate calcium and vitamin D supplementation.
 
-Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4.1), Adverse Reactions (6.1), and Patient Counseling Information (17.2)].
+Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4.1), Adverse Reactions (6.1), and Patient Counseling Information (17.3)].
 
-## 5.4 Serious Infections
-
-In a clinical trial of over 7800 women with postmenopausal osteoporosis, serious infections leading to hospitalization were reported more frequently in the Prolia group than in the placebo group [see Adverse Reactions (6.1)].
-Serious skin infections, as well as infections of the abdomen, urinary tract, and ear, were more frequent in patients treated with Prolia.
-Endocarditis was also reported more frequently in Prolia-treated patients.
-The incidence of opportunistic infections was similar between placebo and Prolia groups, and the overall incidence of infections was similar between the treatment groups.
-Advise patients to seek prompt medical attention if they develop signs or symptoms of severe infection, including cellulitis.
-
-Patients on concomitant immunosuppressant agents or with impaired immune systems may be at increased risk for serious infections.
-Consider the benefit-risk profile in such patients before treating with Prolia.
-In patients who develop serious infections while on Prolia, prescribers should assess the need for continued Prolia therapy.
-
-## 5.5 Dermatologic Adverse Reactions
-
-In a large clinical trial of over 7800 women with postmenopausal osteoporosis, epidermal and dermal adverse events such as dermatitis, eczema, and rashes occurred at a significantly higher rate in the Prolia group compared to the placebo group.
-Most of these events were not specific to the injection site [see Adverse Reactions (6.1)].
-Consider discontinuing Prolia if severe symptoms develop.
-
-## 5.6 Osteonecrosis of the Jaw
+## 5.4 Osteonecrosis of the Jaw
 
 Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing.
 ONJ has been reported in patients receiving denosumab [see Adverse Reactions (6.1)].
@@ -55,7 +38,7 @@ Patients who are suspected of having or who develop ONJ while on Prolia should r
 In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
 Discontinuation of Prolia therapy should be considered based on individual benefit-risk assessment.
 
-## 5.7 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
+## 5.5 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
 
 Atypical low-energy or low trauma fractures of the shaft have been reported in patients receiving Prolia [see Adverse Reactions (6.1)].
 These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution.
@@ -70,7 +53,31 @@ Any patient who presents with thigh or groin pain should be suspected of having 
 Patient presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
 Interruption of Prolia therapy should be considered, pending a risk/benefit assessment, on an individual basis.
 
-## 5.8 Suppression of Bone Turnover
+## 5.6 Serious Infections
+
+In a clinical trial of over 7800 women with postmenopausal osteoporosis, serious infections leading to hospitalization were reported more frequently in the Prolia group than in the placebo group [see Adverse Reactions (6.1)].
+Serious skin infections, as well as infections of the abdomen, urinary tract, and ear, were more frequent in patients treated with Prolia.
+Endocarditis was also reported more frequently in Prolia-treated patients.
+The incidence of opportunistic infections was similar between placebo and Prolia groups, and the overall incidence of infections was similar between the treatment groups.
+Advise patients to seek prompt medical attention if they develop signs or symptoms of severe infection, including cellulitis.
+
+Patients on concomitant immunosuppressant agents or with impaired immune systems may be at increased risk for serious infections.
+Consider the benefit-risk profile in such patients before treating with Prolia.
+In patients who develop serious infections while on Prolia, prescribers should assess the need for continued Prolia therapy.
+
+## 5.7 Dermatologic Adverse Reactions
+
+In a large clinical trial of over 7800 women with postmenopausal osteoporosis, epidermal and dermal adverse events such as dermatitis, eczema, and rashes occurred at a significantly higher rate in the Prolia group compared to the placebo group.
+Most of these events were not specific to the injection site [see Adverse Reactions (6.1)].
+Consider discontinuing Prolia if severe symptoms develop.
+
+## 5.8 Musculoskeletal Pain
+
+In post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking Prolia [see Adverse Reactions (6.2)].
+The time to onset of symptoms varied from one day to several months after starting Prolia.
+Consider discontinuing use if severe symptoms develop [see Patient Counseling Information (17.8)].
+
+## 5.9 Suppression of Bone Turnover
 
 In clinical trials in women with postmenopausal osteoporosis, treatment with Prolia resulted in significant suppression of bone remodeling as evidenced by markers of bone turnover and bone histomorphometry [see Clinical Pharmacology (12.2) and Clinical Studies (14.1)].
 The significance of these findings and the effect of long-term treatment with Prolia are unknown.

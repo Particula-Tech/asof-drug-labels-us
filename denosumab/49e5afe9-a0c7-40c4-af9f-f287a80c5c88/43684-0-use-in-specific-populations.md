@@ -10,7 +10,7 @@ Prolia is contraindicated in women who are pregnant.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
 
 Women who become pregnant during Prolia treatment are encouraged to enroll in Amgen’s Pregnancy Surveillance Program.
-Patients or their physicians should call 1 800 77 AMGEN (1-800-772-6436) to enroll.
+Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enroll.
 
 Clinical Considerations The effects of Prolia on the fetus are likely to be greater during the second and third trimesters of pregnancy.
 Monoclonal antibodies, such as denosumab, are transported across the placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.

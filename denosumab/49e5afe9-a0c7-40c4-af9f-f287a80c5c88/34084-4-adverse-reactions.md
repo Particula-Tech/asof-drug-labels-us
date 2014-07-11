@@ -3,10 +3,10 @@
 The following serious adverse reactions are discussed below and also elsewhere in the labeling:
 
 - Hypocalcemia [see Warnings and Precautions (5.3)]
-- Serious Infections [see Warnings and Precautions (5.4)]
-- Dermatologic Adverse Reactions [see Warnings and Precautions (5.5)]
-- Osteonecrosis of the Jaw [see Warnings and Precautions (5.6)]
-- Atypical Subtrochanteric and Diaphyseal Femoral Fractures [see Warnings and Precautions (5.7)]
+- Serious Infections [see Warnings and Precautions (5.6)]
+- Dermatologic Adverse Reactions [see Warnings and Precautions (5.7)]
+- Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
+- Atypical Subtrochanteric and DiaphysealFemoral Fractures [see Warnings and Precautions (5.5)]
 
 The most common adverse reactions reported with Prolia in patients with postmenopausal osteoporosis are back pain, pain in extremity, musculoskeletal pain, hypercholesterolemia, and cystitis.
 
@@ -100,12 +100,12 @@ Skin infections, including erysipelas and cellulitis, leading to hospitalization
 The incidence of opportunistic infections was similar to that reported with placebo.
 
 Dermatologic Reactions A significantly higher number of patients treated with Prolia developed epidermal and dermal adverse events (such as dermatitis, eczema, and rashes), with these events reported in 8.2% of the placebo and 10.8% of the Prolia groups (p < 0.0001).
-Most of these events were not specific to the injection site [see Warnings and Precautions (5.5)].
+Most of these events were not specific to the injection site [see Warnings and Precautions (5.7)].
 
-Osteonecrosis of the Jaw ONJ has been reported in the osteoporosis clinical trial program in patients treated with Prolia [see Warnings and Precautions (5.6)].
+Osteonecrosis of the Jaw ONJ has been reported in the osteoporosis clinical trial program in patients treated with Prolia [see Warnings and Precautions (5.4)].
 
 Atypical Subtrochanteric and Diaphyseal Fractures In the osteoporosis clinical trial program, atypical femoral fractures were reported in patients treated with Prolia.
-The duration of Prolia exposure to time of atypical femoral fracture diagnosis was as early as 2½ years [see Warnings and Precautions (5.7)].
+The duration of Prolia exposure to time of atypical femoral fracture diagnosis was as early as 2½ years [see Warnings and Precautions (5.5)].
 
 Pancreatitis Pancreatitis was reported in 4 patients (0.1%) in the placebo and 8 patients (0.2%) in the Prolia groups.
 Of these reports, 1 patient in the placebo group and all 8 patients in the Prolia group had serious events, including one death in the Prolia group.
@@ -138,9 +138,7 @@ Pancreatitis Pancreatitis was reported in 1 patient (0.8%) in the placebo group 
 
 New Malignancies New malignancies were reported in no patients in the placebo group and 4 (3.3%) patients (3 prostate cancers, 1 basal cell carcinoma) in the Prolia group.
 
-Treatment of Bone Loss in Patients Receiving Androgen Deprivation Therapy for Prostate Cancer or Adjuvant Aromatase Inhibitor Therapy for Breast Cancer
-
-The safety of Prolia in the treatment of bone loss in men with nonmetastatic prostate cancer receiving androgen deprivation therapy (ADT) was assessed in a 3‑year, randomized, double-blind, placebo-controlled, multinational study of 1468 men aged 48 to 97 years.
+Treatment of Bone Loss in Patients Receiving Androgen Deprivation Therapy for Prostate Cancer or Adjuvant Aromatase Inhibitor Therapy for Breast Cancer The safety of Prolia in the treatment of bone loss in men with nonmetastatic prostate cancer receiving androgen deprivation therapy (ADT) was assessed in a 3‑year, randomized, double-blind, placebo-controlled, multinational study of 1468 men aged 48 to 97 years.
 A total of 725 men were exposed to placebo and 731 men were exposed to Prolia administered once every 6 months as a single 60 mg subcutaneous dose.
 All men were instructed to take at least 1000 mg of calcium and 400 IU of vitamin D supplementation per day.
 
@@ -165,8 +163,10 @@ Because postmarketing reactions are reported voluntarily from a population of un
 
 The following adverse reactions have been identified during post approval use of Prolia:
 
-- Drug-related hypersensitivity reactions: anaphylaxis, rash, urticaria, facial swelling, and erythema.
+- Drug-related hypersensitivity reactions: anaphylaxis, rash, urticaria, facial swelling, and erythema
 - Hypocalcemia: severe symptomatic hypocalcemia
+- Musculoskeletal pain, including severe cases
+- Parathyroid Hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis.
 
 ## 6.3 Immunogenicity
 

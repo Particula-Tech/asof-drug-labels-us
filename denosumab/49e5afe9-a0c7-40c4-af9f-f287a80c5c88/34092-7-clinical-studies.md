@@ -21,9 +21,9 @@ The absolute risk reduction was 4.8% and relative risk reduction was 68% for new
 Table 2.
 The Effect of Prolia on the Incidence of New Vertebral Fractures in Postmenopausal Women
 
-|  | Proportion of Women With Fracture (%)Event rates based on crude rates in each interval. |  | Absolute Risk Reduction (%)Absolute risk reduction and relative risk reduction based on Mantel-Haenszel method adjusting for age group variable.(95% CI) | Relative Risk Reduction (%)(95% CI) |
+|  | Proportion of Women With Fracture (%)Event rates based on crude rates in each interval. |  | Absolute Risk Reduction (%)Absolute risk reduction and relative risk reduction based on Mantel-Haenszel method adjusting for age group variable. (95% CI) | Relative Risk Reduction (%) (95% CI) |
 | --- | --- | --- | --- | --- |
-|  | PlaceboN = 3691(%) | ProliaN = 3702(%) |  |  |
+|  | Placebo N = 3691 (%) | Prolia N = 3702 (%) |  |  |
 | 0-1 Year | 2.2 | 0.9 | 1.4 (0.8, 1.9) | 61 (42, 74) |
 | 0-2 Years | 5.0 | 1.4 | 3.5 (2.7, 4.3) | 71 (61, 79) |
 | 0-3 Years | 7.2 | 2.3 | 4.8 (3.9, 5.8) | 68 (59, 74) |

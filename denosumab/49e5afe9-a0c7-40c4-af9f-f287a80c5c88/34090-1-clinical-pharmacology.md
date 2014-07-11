@@ -22,7 +22,7 @@ After discontinuation of Prolia therapy, markers of bone resorption increased to
 In a study conducted in healthy male and female volunteers (n = 73, age range: 18 to 64 years) following a single subcutaneously administered Prolia dose of 60 mg after fasting (at least for 12 hours), the mean maximum denosumab concentration (Cmax) was 6.75 mcg/mL (standard deviation [SD] = 1.89 mcg/mL).
 The median time to maximum denosumab concentration (Tmax) was 10 days (range: 3 to 21 days).
 After Cmax, serum denosumab concentrations declined over a period of 4 to 5 months with a mean half-life of 25.4 days (SD = 8.5 days; n = 46).
-The mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg•day/mL (SD = 101 mcg•day/mL).
+The mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg×day/mL (SD = 101 mcg×day/mL).
 
 No accumulation or change in denosumab pharmacokinetics with time was observed upon multiple dosing of 60 mg subcutaneously administered once every 6 months.
 
@@ -35,7 +35,7 @@ Drug Interactions In a study of 17 postmenopausal women with osteoporosis, midaz
 Denosumab did not affect the pharmacokinetics of midazolam, which is metabolized by cytochrome P450 3A4 (CYP3A4).
 This indicates that denosumab should not alter the pharmacokinetics of drugs metabolized by CYP3A4 in postmenopausal women with osteoporosis.
 
-Specific Populations Gender: Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
+Specific Populations Gender:Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
 
 Age: The pharmacokinetics of denosumab were not affected by age across all populations studied whose ages ranged from 28 to 87 years.
 

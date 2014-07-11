@@ -1,6 +1,8 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
-Prolia® (PRÓ-lee-a) (denosumab) Injection, for subcutaneous use
+Prolia® (PRÓ-lee-a)
+
+(denosumab) Injection, for subcutaneous use
 
 Read the Medication Guide that comes with Prolia before you start taking it and each time you get a refill.
 There may be new information.
@@ -8,10 +10,23 @@ This Medication Guide does not take the place of talking with your doctor about 
 Talk to your doctor if you have any questions about Prolia.
 
 What is the most important information I should know about Prolia?
+
 If you receive Prolia, you should not receive XGEVA®.
 Prolia contains the same medicine as Xgeva (denosumab).
 
 Prolia can cause serious side effects including:
+
+- Serious allergic reactions.
+  Serious allergic reactions have happened in people who take Prolia.
+  Call your doctor or go to your nearest emergency room right away if you have any symptoms of a serious allergic reaction.
+  Symptoms of a serious allergic reaction may include:
+  - low blood pressure (hypotension)
+  - trouble breathing
+  - throat tightness
+  - swelling of your face, lips, or tongue
+  - rash
+  - itchin
+  - hives
 
 - Low calcium levels in your blood (hypocalcemia).
   Prolia may lower the calcium levels in your blood.
@@ -25,28 +40,25 @@ Prolia can cause serious side effects including:
 Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood while you take Prolia.
 Take calcium and vitamin D as your doctor tells you to.
 
-- Serious allergic reactions.
-  Serious allergic reactions have happened in people who take Prolia.
-  Call your doctor or go to your nearest emergency room right away if you have any symptoms of a serious allergic reactions.
-  Symptoms of a serious allergic reaction may include:
-  - low blood pressure (hypotension)
-  - trouble breathing
-  - throat tightness
-  - swelling of your face, lips, or tongue
-  - rash
-  - itching
-  - hives
+- Severe jaw bone problems (osteonecrosis).
+  Severe jaw bone problems may happen when you take Prolia.
+  Your doctor should examine your mouth before you start Prolia.
+  Your doctor may tell you to see your dentist before you start Prolia.
+  It is important for you to practice good mouth care during treatment with Prolia.
+  Ask your doctor or dentist about good mouth care if you have any questions
+
+- Unusual thigh bone fractures.
+  Some people have developed unusual fractures in their thigh bone.
+  Symptoms of a fracture include new or unusual pain in your hip, groin, or thigh.
+
 - Serious infections.
   Serious infections in your skin, lower stomach area (abdomen), bladder, or ear may happen if you take Prolia.
   Inflammation of the inner lining of the heart (endocarditis) due to an infection also may happen more often in people who take Prolia.
   You may need to go to the hospital for treatment if you develop an infection.
-  Prolia is a medicine that may affect your immune system.
+  Prolia is a medicine that may affect the ability of your body to fight infections.
   People who have weakened immune system or take medicines that affect the immune system may have an increased risk for developing serious infections.
-  Call your doctor right away if you have any of the following symptoms of infection:
-  - Fever or chills
-  - Skin that looks red or swollen and is hot or tender to touch
-  - Severe abdominal pain
-  - Frequent or urgent need to urinate or burning feeling when you urinate
+  Call your doctor right away if you have any of the following symptoms of infection: • Fever or chills • Skin that looks red or swollen and is hot or tender to touch • Fever, shortness of breath, cough that will not go away • Severe abdominal pain • Frequent or urgent need to urinate or burning feeling when you urinate
+
 - Skin problems.
   Skin problems such as inflammation of your skin (dermatitis), rash, and eczema may happen if you take Prolia.
   Call your doctor if you have any of the following symptoms of skin problems that do not go away or get worse:
@@ -56,14 +68,9 @@ Take calcium and vitamin D as your doctor tells you to.
   - Your skin is dry or feels like leather
   - Blisters that ooze or become crusty
   - Skin peeling
-- Severe jaw bone problems (osteonecrosis).
-  Severe jaw bone problems may happen when you take Prolia.
-  Your doctor should examine your mouth before you start Prolia.
-  Your doctor may tell you to see your dentist before you start Prolia.
-  It is important for you to practice good mouth care during treatment with Prolia.
-- Unusual thigh bone fractures.
-  Some people have developed unusual fractures in their thigh bone.
-  Symptoms of a fracture include new or unusual pain in your hip, groin, or thigh.
+
+- Bone, joint, or muscle pain.
+  Some people who take Prolia develop severe bone, joint, or muscle pain.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -191,10 +198,12 @@ You can ask your doctor or pharmacist for information about Prolia that is writt
 For more information, go to www.Prolia.com or call Amgen at 1-800-772-6436.
 
 What are the ingredients in Prolia?
-Active ingredient: denosumab Inactive ingredients: sorbitol, acetate, polysorbate 20 (prefilled syringe only), Water for Injection (USP), and sodium hydroxide [Amgen Logo]
+Active ingredient:denosumab Inactive ingredients: sorbitol, acetate, polysorbate 20 (prefilled syringe only), Water for Injection (USP), and sodium hydroxide
+
+[Amgen Logo]
 
 Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-1xxxxxx - v6 Revised: 07/2013 PMV6
+1xxxxxx - v7 &
