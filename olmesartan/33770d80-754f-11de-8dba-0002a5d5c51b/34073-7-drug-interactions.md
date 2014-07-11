@@ -27,3 +27,8 @@ Colesevelam hydrochloride
 Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan.
 Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect.
 Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [see Clinical Pharmacology (12.3)].
+
+Lithium
+
+Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including BENICAR.
+Monitor serum lithium levels during concomitant use.
