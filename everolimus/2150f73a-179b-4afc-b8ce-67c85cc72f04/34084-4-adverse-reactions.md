@@ -456,4 +456,4 @@ Longer-term follow-up of 34.2 months (range 4.7 to 47.1 months) from a non-rando
 ## 6.6 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of AFINITOR.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure: acute pancreatitis.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure: acute pancreatitis, cholecystitis, cholelithiasis, arterial thrombotic events and reflex sympathetic dystrophy.

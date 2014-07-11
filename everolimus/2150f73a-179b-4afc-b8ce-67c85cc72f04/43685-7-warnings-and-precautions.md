@@ -8,6 +8,7 @@ The incidence of Common Terminology Criteria (CTC) Grade 3 and 4 non-infectious 
 Fatal outcomes have been observed.
 
 Consider a diagnosis of non-infectious pneumonitis in patients presenting with non-specific respiratory signs and symptoms such as hypoxia, pleural effusion, cough, or dyspnea, and in whom infectious, neoplastic, and other causes have been excluded by means of appropriate investigations.
+Opportunistic infections such as pneumocystis jiroveci pneumonia (PJP) should be considered in the differential diagnosis.
 Advise patients to report promptly any new or worsening respiratory symptoms.
 
 Patients who develop radiological changes suggestive of non-infectious pneumonitis and have few or no symptoms may continue AFINITOR therapy without dose alteration.
@@ -22,17 +23,22 @@ AFINITOR may be re-introduced at a daily dose approximately 50% lower than the d
 If toxicity recurs at Grade 3, consider discontinuation of AFINITOR.
 For cases of Grade 4 non-infectious pneumonitis, discontinue AFINITOR.
 Corticosteroids may be indicated until clinical symptoms resolve.
+For patients who require use of corticosteroids for treatment of non-infectious pneumonitis, prophylaxis for PJP may be considered.
 The development of pneumonitis has been reported even at a reduced dose.
 
 ## 5.2 Infections
 
 AFINITOR has immunosuppressive properties and may predispose patients to bacterial, fungal, viral, or protozoal infections, including infections with opportunistic pathogens [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
-Localized and systemic infections, including pneumonia, mycobacterial infections, other bacterial infections, invasive fungal infections, such as aspergillosis or candidiasis, and viral infections including reactivation of hepatitis B virus have occurred in patients taking AFINITOR.
+Localized and systemic infections, including pneumonia, mycobacterial infections, other bacterial infections, invasive fungal infections, such as aspergillosis, candidiasis, or pneumocystis jiroveci pneumonia (PJP) and viral infections including reactivation of hepatitis B virus have occurred in patients taking AFINITOR.
 Some of these infections have been severe (e.g., leading to sepsis, respiratory or hepatic failure) or fatal.
 Physicians and patients should be aware of the increased risk of infection with AFINITOR.
 Complete treatment of pre-existing invasive fungal infections prior to starting treatment with AFINITOR.
 While taking AFINITOR, be vigilant for signs and symptoms of infection; if a diagnosis of an infection is made, institute appropriate treatment promptly and consider interruption or discontinuation of AFINITOR.
 If a diagnosis of invasive systemic fungal infection is made, discontinue AFINITOR and treat with appropriate antifungal therapy.
+
+Pneumocystis jiroveci pneumonia, some with a fatal outcome, has been reported in patients who received everolimus.
+This may be associated with concomitant use of corticosteroids or other immunosuppressive agents.
+Prophylaxis for PJP should be considered when concomitant use of corticosteroids or other immunosuppressive agents are required.
 
 ## 5.3 Oral Ulceration
 
