@@ -7,6 +7,8 @@ Pravastatin sodium USP is designated chemically as 1-Naphthalene-heptanoic acid,
 
 Structural formula:
 
+C23H35NaO7 MW 446.52
+
 Pravastatin sodium USP is an odorless, white to yellowish white, hygroscpic powder.
 It is a relatively polar hydrophilic compound with a partition coefficient (octanol/water) of 0.59 at a pH of 7.
 It is freely soluble in water and methanol, soluble in alcohol, very slightly soluble in acetonitrile and practically insoluble in ether, ethyl acetate and chloroform.
