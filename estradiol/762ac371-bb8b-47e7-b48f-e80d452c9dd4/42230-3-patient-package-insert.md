@@ -112,7 +112,7 @@ Less serious, but common side effects include:
 These are not all of the possible side effects of EstroGel.
 For more information, ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effects that bother you or does not go away.
-You may report side effects to ASCEND Therapeutics® US, LLC at 1‑887-204-1013 or to FDA at 1-800-FDA-1088.
+You may report side effects to ASCEND Therapeutics® US, LLC at 1‑877-204-1013 or to FDA at 1-800-FDA-1088.
 What can I do to lower my chances of a serious side effect with EstroGel?
 
 - •Talk with your healthcare provider regularly about whether you should continue using EstroGel.
@@ -249,10 +249,10 @@ By DPT Laboratories
 
 San Antonio, TX 78215
 
-129911Rev042014
+129911Rev072014
 
 Utilizes EHG® Technology
 
 ©2014 ASCEND Therapeutics® US, LLC
 
-Revised: 4/2014
+Revised: 7/2014
