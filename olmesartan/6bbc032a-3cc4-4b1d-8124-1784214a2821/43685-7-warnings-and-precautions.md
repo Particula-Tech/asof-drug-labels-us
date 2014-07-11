@@ -40,7 +40,7 @@ A transient hypotensive response is not a contraindication to further treatment.
 Severe, chronic diarrhea with substantial weight loss has been reported in patients taking olmesartan months to years after drug initiation.
 Intestinal biopsies of patients often demonstrated villous atrophy.
 If a patient develops these symptoms during treatment with olmesartan, exclude other etiologies.
-Consider discontinuation of BENICAR HCT® in cases where no other etiology is identified.
+Consider discontinuation of BENICAR HCT® where no other etiology is identified.
 
 ## Hydrochlorothiazide
 
@@ -55,10 +55,6 @@ Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or 
 Systemic Lupus Erythematosus
 
 Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
-
-Lithium Interaction
-
-Lithium generally should not be given with thiazides (see PRECAUTIONS: Drug Interactions; Hydrochlorothiazide, Lithium).
 
 Acute Myopia and Secondary Angle-Closure Glaucoma
 
@@ -167,6 +163,11 @@ Concurrent administration of bile acid sequestering agent colesevelam hydrochlor
 Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect.
 Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose (see CLINICAL PHARMACOLOGY, Drug Interactions).
 
+Lithium
+
+Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of olmesartan or thiazide diuretics.
+Monitor lithium levels in patients receiving BENICAR HCT and lithium.
+
 Hydrochlorothiazide
 
 When administered concurrently the following drugs may interact with thiazide diuretics:
@@ -187,10 +188,6 @@ Norepinephrine) – possible decreased response to pressor amines but not suffic
 
 Skeletal Muscle Relaxants, Non depolarizing (e.g.
 Tubocurarine) – possible increased responsiveness to the muscle relaxant.
-
-Lithium– should not generally be given with diuretics.
-Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
-Refer to the package insert for lithium preparations before use of such preparation with olmesartan medoxomil-hydrochlorothiazide.
 
 Non-steroidal Anti-inflammatory Drugs – in some patients the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when olmesartan medoxomil-hydrochlorothiazide tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patients should be observed closely to determine if the desired effect of the diuretic is obtained.

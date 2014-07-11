@@ -10,7 +10,7 @@ The dialyzability of olmesartan is unknown.
 No lethality was observed in acute toxicity studies in mice and rats given single oral doses up to 2000 mg/kg olmesartan medoxomil.
 The minimum lethal oral dose of olmesartan medoxomil in dogs was greater than 1500 mg/kg.
 
-Hydrochlorothiazidel
+Hydrochlorothiazide
 
 The most common signs and symptoms of overdose observed in humans are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis.
 If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias.
