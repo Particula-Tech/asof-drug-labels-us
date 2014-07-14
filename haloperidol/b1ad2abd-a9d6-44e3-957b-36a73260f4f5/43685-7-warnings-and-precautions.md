@@ -11,7 +11,7 @@ Cases of sudden death, QT-prolongation, and Torsades de Pointes have been report
 Higher than recommended doses of any formulation and intravenous administration of Haloperidol Injection appear to be associated with a higher risk of QT-prolongation and Torsades de Pointes.
 Although cases have been reported even in the absence of predisposing factors, particular caution is advised in treating patients with other QT-prolonging conditions (including electrolyte imbalance [particularly hypokalemia and hypomagnesemia], drugs known to prolong QT, underlying cardiac abnormalities, hypothyroidism, and familial long QT-syndrome).
 HALOPERIDOL INJECTION IS NOT APPROVED FOR INTRAVENUOUS ADMINISTRATION.
-If Haloperidol Injection is administered intravenously, the ECG should be monitored for QT prolongation and arrhythmias.
+If Haloperidol Injection is administered intravenously, the ECG should be monitored for QT-prolongation and arrhythmias.
 
 ## Tardive Dyskinesia
 
@@ -27,14 +27,14 @@ Antipsychotic treatment, itself, however, may suppress (or partially suppress) t
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
 Given these considerations, antipsychotic drugs should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to antipsychotic drugs, and 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
+Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to antipsychotic drugs, and, 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
 
 If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered.
 However, some patients may require treatment despite the presence of the syndrome.
 
-(For further information about the description of tardive dyskinesia and its clinical detection, please refer to ADVERSE REACTIONS).
+(For further information about the description of tardive dyskinesia and its clinical detection, please refer to ADVERSE REACTIONS.)
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
@@ -58,9 +58,10 @@ Hyperpyrexia and heat stroke, not associated with the above symptom complex, hav
 
 Rodents given 2 to 20 times the usual maximum human dose of haloperidol by oral or parenteral routes showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality.
 No teratogenic effect has been reported in rats, rabbits or dogs at dosages within this range, but cleft palate has been observed in mice given 15 times the usual maximum human dose.
+
 Cleft palate in mice appears to be a nonspecific response to stress or nutritional imbalance as well as to a variety of drugs, and there is no evidence to relate this phenomenon to predictable human risk for most of these agents.
 
-There are no well controlled studies with haloperidol in pregnant women.
+There are no well-controlled studies with haloperidol in pregnant women.
 There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.
 Causal relationships were not established in these cases.
 Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
@@ -68,15 +69,15 @@ Infants should not be nursed during drug treatment.
 
 Non-teratogenic Effects
 
-Neonates exposed to antipsychotic drugs, (including Haloperidol), during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
-There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+Neonates exposed to antipsychotic drugs (including haloperidol) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
 Haloperidol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Combined Use of Haloperidol and Lithium
 
-An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and FBS) followed by irreversible brain damage has occurred in a few patients treated with lithium plus haloperidol.
+An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and fasting blood sugar) followed by irreversible brain damage has occurred in a few patients treated with lithium plus haloperidol.
 A causal relationship between these events and the concomitant administration of lithium and haloperidol has not been established; however, patients receiving such combined therapy should be monitored closely for early evidence of neurological toxicity and treatment discontinued promptly if such signs appear.
 
 ## General
@@ -87,14 +88,9 @@ Therefore, if the above signs and symptoms appear, especially in the elderly, th
 
 Although not reported with haloperidol, decreased serum cholesterol and/or cutaneous and ocular changes have been reported in patients receiving chemically-related drugs.
 
-Haloperidol may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
-The ambulatory patient should be warned accordingly.
-
-The use of alcohol with this drug should be avoided due to possible additive effects and hypotension.
-
 # PRECAUTIONS
 
-## Leukopenia, Neutropenia, and Agranulocytocis
+## Leukopenia, Neutropenia, and Agranulocytocsis
 
 Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including haloperidol.
 Agranulocytosis has also been reported.
@@ -109,30 +105,75 @@ Patients with severe neutropenia (absolute neutrophil count <1000/mm3 should dis
 
 Haloperidol should be administered cautiously to patients:
 
-— with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
-Should hypotension occur and a vasopressor be required, epinephrine should not be used since haloperidol may block its vasopressor activity and paradoxical further lowering of the blood pressure may occur.
-Instead, metaraminol, phenylephrine or norepinephrine should be used.
+- with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
+  Should hypotension occur and a vasopressor be required, epinephrine should not be used since haloperidol may block its vasopressor activity and paradoxical further lowering of the blood pressure may occur.
+  Instead, metaraminol, phenylephrine or norepinephrine should be used.
+- receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because haloperidol may lower the convulsive threshold.
+  If indicated, adequate anticonvulsant therapy should be concomitantly maintained.
+- with known allergies, or with a history of allergic reactions to drugs.
+- receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
 
-— receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because haloperidol may lower the convulsive threshold.
-If indicated, adequate anticonvulsant therapy should be concomitantly maintained.
+When haloperidol is used to control mania in cyclic disorders, there may be a rapid mood swing to depression.
 
-— with known allergies, or with a history of allergic reactions to drugs.
+Severe neurotoxicity (rigidity, inability to walk or talk) may occur in patients with thyrotoxicosis who are also receiving antipsychotic medication, including haloperidol.
 
-— receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
+## Drug Interactions
+
+Drug-drug interactions can be pharmacodynamic (combined pharmacologic effects) or pharmacokinetic (alteration of plasma levels).
+The risks of using haloperidol in combination with other drugs have been evaluated as described below.
+
+Pharmacodynamic Interactions
+
+Since QT-prolongation has been observed during haloperidol treatment, caution is advised when prescribing to patient with QT-prolongation conditions (long QT-syndrome, hypokalemia, electrolyte imbalance) or to patients receiving medications known to prolong the QT-interval or known to cause electrolyte imbalance.
 
 If concomitant antiparkinson medication is required, it may have to be continued after haloperidol is discontinued because of the difference in excretion rates.
 If both are discontinued simultaneously, extrapyramidal symptoms may occur.
 The physician should keep in mind the possible increase in intraocular pressure when anticholinergic drugs, including antiparkinson agents, are administered concomitantly with haloperidol.
 
-As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opiates, and alcohol.
+As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opiates and alcohol.
 
-In a study of 12 schizophrenic patients coadministered haloperidol and rifampin, plasma haloperidol levels were decreased by a mean of 70% and mean scores on the Brief Psychiatric Rating Scale were increased from baseline.
+Ketoconazole is a potent inhibitor of CYP3A4.
+Increases in QTc have been observed when haloperidol was given in combination with the metabolic inhibitors ketoconazole (400 mg/day) and paroxetine (20 mg/day).
+It may be necessary to reduce the haloperidol dosage.
+
+Pharmacokinetic Interactions
+
+The Effect of Other Drugs on Haloperidol
+
+Haloperidol is metabolized by several routes, including the glucuronidation and the cytochrome P450 enzyme system.
+Inhibition of these routes of metabolism by another drug may result in increased haloperidol concentrations and potentially increase the risk of certain adverse events, including QT-prolongation.
+
+Drugs Characterized as Substrates, Inhibitors or Inducers of CYP3A4, CYP2D6 or Glucuronidation
+
+In pharmacokinetic studies, mild to moderately increased haloperidol concentrations have been reported when haloperidol was given concomitantly with drugs characterized as substrates or inhibitors of CYP3A4 or CYP2D6 isoenzymes, such as, itraconazole, nefazodone, buspirone, venlafaxine, alprazolam, fluvoxamine, quinidine, fluoxetine, sertraline, chlorpromazine, and promethazine.
+
+When prolonged treatment (1 to 2 weeks) with enzyme-inducing drugs such as rifampin or carbamazepine is added to haloperidol therapy, this results in a significant reduction of haloperidol plasma levels.
+
+Rifampin
+
+In a study of 12 schizophrenic patients coadministered oral haloperidol and rifampin, plasma haloperidol levels were decreased by a mean of 70% and mean scores on the Brief Psychiatric Rating Scale were increased from baseline.
 In 5 other schizophrenic patients treated with haloperidol and rifampin, discontinuation of rifampin produced a mean 3.3-fold increase in haloperidol concentrations.
-Thus, careful monitoring of clinical status is warranted when rifampin is administered or discontinued in haloperidol-treated patients.
 
-When haloperidol is used to control mania in cyclic disorders, there may be a rapid mood swing to depression.
+Carbamazepine
 
-Severe neurotoxicity (rigidity, inability to walk or talk) may occur in patients with thyrotoxicosis who are also receiving antipsychotic medication, including haloperidol.
+In a study in 11 schizophrenic patients co-administered haloperidol and increasing doses of carbamazepine, haloperidol plasma concentrations decreased linearly with increasing carbamazepine concentrations.
+
+Thus, careful monitoring of clinical status is warranted when enzyme inducing drugs such as rifampin or carbamazepine are administered or discontinued in haloperidol-treated patients.
+During combination treatment, the haloperidol dose should be adjusted, when necessary.
+After discontinuation of such drugs, it may be necessary to reduce the dosage of haloperidol.
+
+Valproate
+
+Sodium valproate, a drug known to inhibit glucuronidation, does not affect haloperidol plasma concentrations.
+
+## Information for Patients
+
+Haloperidol may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
+The ambulatory patient should be warned accordingly.
+
+The use of alcohol with this drug should be avoided due to possible additive effects and hypotension.
+
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 No mutagenic potential of haloperidol was found in the Ames Salmonella microsomal activation assay.
 Negative or inconsistent positive findings have been obtained in in vitro and in vivo studies of effects of haloperidol on chromosome structure and number.
@@ -156,7 +197,10 @@ There are no well-controlled studies with haloperidol in pregnant women.
 There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.
 Causal relationships were not established in these cases.
 Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
-Infants should not be nursed during drug treatment.
+
+## Nursing Mothers
+
+Since haloperidol is excreted in human breast milk, infants should not be nursed during drug treatment with haloperidol.
 
 ## Pediatric Use
 
@@ -166,5 +210,5 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Clinical studies of haloperidol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not consistently identified differences in responses between the elderly and younger patients.
-However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS: Tardive Dyskinesia).
+However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS, Tardive Dyskinesia).
 Also, the pharmacokinetics of haloperidol in geriatric patients generally warrants the use of lower doses (see DOSAGE AND ADMINISTRATION).

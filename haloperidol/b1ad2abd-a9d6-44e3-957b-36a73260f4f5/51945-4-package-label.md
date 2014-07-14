@@ -1,4 +1,4 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol 1 mL Vial Label
+PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Injection 1 mL Vial Label
 
 NDC 63323-474-01
 
@@ -20,7 +20,7 @@ Sterile
 
 PROTECT FROM LIGHT.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol 1 mL Vial Carton Panel
+PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Injection 1 mL Vial Carton Panel
 
 NDC 63323-474-01
 
