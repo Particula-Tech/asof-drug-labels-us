@@ -16,6 +16,6 @@ Characteristic of this type of compound, SINEQUAN has not been demonstrated to p
 
 Rx only
 
-LAB-0072-9.0
+LAB-0072-10.0
 
-August 2007
+June 2014

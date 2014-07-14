@@ -33,11 +33,15 @@ Call a healthcare provider right away if you or your family member has any of th
 - new or worse irritability
 - acting aggressive, being angry, or violent
 - acting on dangerous impulses
-- an extreme increase in activity and talking (mania)
-- other unusual changes in behavior or mood
+- an extreme increase in activity and talking (mania)other unusual changes in behavior or mood
+- Visual problems
+  - eye pain
+  - changes in vision
+  - swelling or redness in or around the eye Only some people are at risk for these problems.
+    You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088
+You may report side effects to FDA at 1-800-FDA-1088.
 
 What else do I need to know about antidepressant medicines?
 
@@ -57,4 +61,4 @@ What else do I need to know about antidepressant medicines?
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
-October 2008
+June 2014

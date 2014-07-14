@@ -22,7 +22,7 @@ Gastrointestinal: Nausea, vomiting, indigestion, taste disturbances, diarrhea, a
 
 Endocrine: Raised or lowered libido, testicular swelling, gynecomastia in males, enlargement of breasts and galactorrhea in the female, raising or lowering of blood sugar levels, and syndrome of inappropriate antidiuretic hormone secretion have been reported with tricyclic administration.
 
-Other: Dizziness, tinnitus, weight gain, sweating, chills, fatigue, weakness, flushing, jaundice, alopecia, headache, exacerbation of asthma, and hyperpyrexia (in association with chlorpromazine) have been occasionally observed as adverse effects.
+Other: Dizziness, tinnitus, weight gain, sweating, chills, fatigue, weakness, flushing, jaundice, alopecia, headache, exacerbation of asthma, angle closure glaucoma, mydriasis and hyperpyrexia (in association with chlorpromazine) have been occasionally observed as adverse effects.
 
 Withdrawal Symptoms: The possibility of development of withdrawal symptoms upon abrupt cessation of treatment after prolonged SINEQUAN administration should be borne in mind.
 These are not indicative of addiction and gradual withdrawal of medication should not cause these symptoms.
