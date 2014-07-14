@@ -8,7 +8,7 @@ The chemical structure is the following:
 
 Molecular Weight: 238.16
 
-The chemical name of nitrofurantoin monohydrate is 1-[[[5-nitro-2-furanyl]methylene]amino]-2,4- imidazolidinedione monohydrate.
+The chemical name of nitrofurantoin monohydrate is 1-[[[5-nitro-2-furanyl]methylene] amino]-2,4- imidazolidinedione monohydrate.
 The chemical structure is the following:
 
 Molecular Weight: 256.17
