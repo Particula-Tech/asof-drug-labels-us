@@ -1,6 +1,8 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Controlled Substance Oxycodone hydrochloride tablet contains oxycodone, a mu-agonist opioid of the morphine type and is a Schedule II controlled substance.
+Controlled Substance
+
+Oxycodone hydrochloride tablet contains oxycodone, a mu-agonist opioid of the morphine type and is a Schedule II controlled substance.
 Oxycodone hydrochloride tablets, like other opioids used in analgesia, can be abused and is subject to criminal diversion.
 
 ## Abuse

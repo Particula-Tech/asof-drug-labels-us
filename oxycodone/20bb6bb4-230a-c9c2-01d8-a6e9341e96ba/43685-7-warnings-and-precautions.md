@@ -116,7 +116,7 @@ A specific narcotic antagonist, naloxone, should be available for reversal of na
 ## Nursing Mothers
 
 Oxycodone has been detected in breast milk.
-Withdrawal symptoms can occur in breast feeding infants when maternal administration of an opioid analgesic is stopped.
+Withdrawal symptoms can occur in breastfeeding infants when maternal administration of an opioid analgesic is stopped.
 Ordinarily, nursing should not be undertaken while a patient is receiving oxycodone hydrochloride tablets since oxycodone may be excreted in milk.
 
 ## Pediatric Use

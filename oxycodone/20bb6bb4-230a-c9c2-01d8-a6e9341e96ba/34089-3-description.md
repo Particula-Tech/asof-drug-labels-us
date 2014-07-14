@@ -1,10 +1,10 @@
 # DESCRIPTION
 
-Oxycodone hydrochloride tablets,USP is an opioid analgesic
+Oxycodone hydrochloride tablets,USP is an opioid analgesic.
 
 Each tablet for oral administration contains 5 mg, 15 mg or 30 mg of oxycodone hydrochloride USP.
 
-Oxycodone hydrochloride is a white, odorless crystalline powder derived from the opium alkaloid, the baine.
+Oxycodone hydrochloride, is a white, odorless crystalline powder derived from the opium alkaloid, the baine.
 Oxycodone hydrochloride dissolves in water (1 g in 6 to 7 mL) and is considered slightly soluble in alcohol (octanol water partition coefficient is 0.7).
 
 Chemically, oxycodone hydrochloride is 4, 5α-epoxy-14-hydroxy-3-methoxy-17methylmorphinan-6-one hydrochloride and has the following structural formula:
