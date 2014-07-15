@@ -22,7 +22,7 @@ Musculoskeletal: Aseptic necrosis of femoral and humeral heads, calcinosis (foll
 
 Neurologic/Psychiatric: Convulsions, depression, emotional instability, euphoria, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, insomnia, mood swings, neuritis, neuropathy, paresthesia, personality changes, psychiatric disorders, vertigo.
 Arachnoiditis, meningitis, paraparesis/paraplegia, and sensory disturbances have occurred after intrathecal administration.
-Spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke (including brainstem) have been reported after epidural administration of corticosteroids (see WARNINGS: Neurologic).
+Spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke (including brainstem) have been reported after epidural administration of corticosteroids (see WARNINGS: Serious Neurologic Adverse Reactions with Epidural Administration and WARNINGS: Neurologic).
 
 Ophthalmic: Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, rare instances of blindness associated with periocular injections.
 
