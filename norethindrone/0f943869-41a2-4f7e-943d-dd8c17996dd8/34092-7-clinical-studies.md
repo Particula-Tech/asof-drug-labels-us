@@ -56,7 +56,7 @@ A summary of the results comparing Activella 1 mg/0.5 mg and estradiol 0.5 mg to
 |  | US Trial |  |  | EU Trial |  |
 |  | Placebo (n=37) | 0.5 mg E2(n=31) | Activella1 mg/0.5 mg (n=37) | Placebo(n=40) | Activella 1 mg/0.5 mg (n=38) |
 | Lumbar spine | -2.1 ± 2.9 | 2.3 ± 2.8Significantly (p<0.001) different from placebo | 3.8 ± 3.0 | -0.9 ± 4.0 | 5.4 ± 4.8 |
-| Femoral neck | -2.3 ± 3.4 | 0.3 ± 2.9 Significantly (p<0.007) different from placebo | 1.8 ± 4.1 | -1.0 ± 4.6 | 0.7 ± 6.1 |
+| Femoral neck | -2.3 ± 3.4 | 0.3 ± 2.9Significantly (p<0.007) different from placebo | 1.8 ± 4.1 | -1.0 ± 4.6 | 0.7 ± 6.1 |
 | Femoral trochanter | -2.0 ± 4.3 | 1.7 ± 4.1Significantly (p<0.002) different from placebo | 3.7 ± 4.3 | 0.8 ± 6.9 | 6.3 ± 7.6 |
 | US = United States, EU = European |  |  |  |  |  |
 
@@ -86,7 +86,7 @@ Results of the CE plus MPA substudy, which included 16,608 women (average 63 yea
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
 Table 6: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 YearsAdapted from numerous WHI publications.
-WHI publications can be viewed at www.nhlbi.nih.gov/whi., Results are based on centrally adjudicated data.
+WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on centrally adjudicated data.
 
 | Event | Relative Risk CE/MPA versus Placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE/MPA n = 8,506 | Placebo n = 8,102 |
 | --- | --- | --- | --- |
@@ -166,7 +166,7 @@ After an average follow-up of 5.2 years, the relative risk of probable dementia 
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
 Probable dementia as defined in this study included AD, VaD and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
-Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), andUse in Specific Populations(8.5)].
+Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
 
 When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Differences between groups became apparent in the first year of treatment.

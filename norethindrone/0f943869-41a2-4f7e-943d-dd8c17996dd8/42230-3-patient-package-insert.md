@@ -84,12 +84,12 @@ Before you take Activella, tell your healthcare provider if you:
 
 - •have any unusual vaginal bleeding
 
-Vaginal bleeding after menopause may bea warning sign of cancer of the uterus (womb).
+Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
 Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 
 - •have any other medical conditions
 
-Your healthcare provider may need to check you morecarefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
 
 - •are going to have surgery or will be on bed rest
 
@@ -99,7 +99,7 @@ Your healthcare provider will let you know if you need to stop taking Activella.
 
 The hormones in Activella can pass into your breast milk.
 
-Tell your healthcare provider about all the medicines you take, includingprescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Some medicines may affect how Activella works.
 Activella may also affect how your other medicines work.
 Keep a list of your medicines and show them to your healthcare provider and pharmacist when you get a new medicine.

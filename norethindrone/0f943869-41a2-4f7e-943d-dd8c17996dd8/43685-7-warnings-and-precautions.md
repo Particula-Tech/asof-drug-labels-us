@@ -59,10 +59,10 @@ Among women who reported prior use of hormone therapy, the relative risk of inva
 Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years, for CE plus MPA compared with placebo.
 In the same substudy, invasive breast cancers were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group.
 Metastatic disease was rare, with no apparent difference between the two groups.
-Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups 5[see Clinical Studies (14.5)].
+Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups 5 [see Clinical Studies (14.5)].
 
 The most important randomized clinical trial providing information about breast cancer in estrogen-alone users is the WHI substudy of daily CE (0.625 mg)-alone.
-In the WHI estrogen-alone substudy, after an average follow‑up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80 6[see Clinical Studies (14.5)].
+In the WHI estrogen-alone substudy, after an average follow‑up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80 6 [see Clinical Studies (14.5)].
 
 Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer for estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use.
 The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping).
@@ -105,15 +105,15 @@ In the WHIMS estrogen plus progestin ancillary study of WHI, a population of 4,5
 
 After an average follow-up of 4 years, 40 women in the CE plus MPA and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for the CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
-The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years 8[see Use in Specific Populations (8.5), and Clinical Studies (14.6)].
+The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years 8 [see Use in Specific Populations (8.5), and Clinical Studies (14.6)].
 
 In the WHIMS estrogen-alone ancillary study of WHI, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg)-alone or placebo.
 After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
-The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8[see Use in Specific Populations (8.5), and Clinical Studies (14.6)].
+The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years 8 [see Use in Specific Populations (8.5), and Clinical Studies (14.6)].
 
 When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk of probable dementia was 1.76 (95 percent CI, 1.19-2.60).
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8[see Use in Specific Populations (8.5), and Clinical Studies (14.6)].
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women 8 [see Use in Specific Populations (8.5), and Clinical Studies (14.6)].
 
 ## 5.4 Gallbladder Disease
 
@@ -192,7 +192,7 @@ Accelerated prothrombin time, partial thromboplastin time, and platelet aggregat
 
 Increased TBG levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay), or T3 levels by radioimmunoassay.
 T3 resin uptake is decreased, reflecting the elevated TBG.
-Free T4 and freeT3 concentrations are unaltered.
+Free T4 and free T3 concentrations are unaltered.
 Women on thyroid replacement therapy may require higher doses of thyroid hormone.
 
 Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased total circulating corticosteroids and sex steroids, respectively.
