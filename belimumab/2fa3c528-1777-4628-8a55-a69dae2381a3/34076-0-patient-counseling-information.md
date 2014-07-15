@@ -13,7 +13,7 @@ Serious Infections: Advise patients that BENLYSTA may decrease their ability to 
 Ask patients if they have a history of chronic infections and if they are currently on any therapy for an infection [see Warnings and Precautions (5.2)].
 Instruct patients to tell their healthcare provider if they develop signs or symptoms of an infection.
 
-Progressive Multifocal Leukoencephalopathy (PML): Advise patients to contact their healthcare professional if they experience new or worsening neurological symptoms such as memory loss, confusion, dizziness or loss of balance, difficulty talking or walking, or vision problems [see Warnings and Precautions (5.2)].
+Progressive Multifocal Leukoencephalopathy (PML):Advise patients to contact their healthcare professional if they experience new or worsening neurological symptoms such as memory loss, confusion, dizziness or loss of balance, difficulty talking or walking, or vision problems [see Warnings and Precautions (5.2)].
 
 Hypersensitivity/Anaphylactic and Infusion Reactions: Educate patients on the signs and symptoms of hypersensitivity and infusion reactions, including wheezing, difficulty breathing, angioedema, rash, hypotension, bradycardia, and headache.
 Instruct patients to immediately tell their healthcare provider if they experience symptoms of an allergic reaction during or after the administration of BENLYSTA.

@@ -52,7 +52,7 @@ Clinical Response Rate in Patients With SLE After 52 Weeks of Treatment
 
 |  | Trial 2 |  |  | Trial 3 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Responsea | Placebo + Standard of Care(n = 275) | BENLYSTA1 mg/kg + Standard of Careb(n = 271) | BENLYSTA10 mg/kg + Standard of Care(n = 273) | Placebo + Standard of Care(n = 287) | BENLYSTA1 mg/kg + Standard of Careb(n = 288) | BENLYSTA10 mg/kg + Standard of Care (n = 290) |
+| Responsea | Placebo + Standard of Care(n = 275) | BENLYSTA1 mg/kg + Standard of Careb(n = 271) | BENLYSTA10 mg/kg + Standard of Care(n = 273) | Placebo + Standard of Care(n = 287) | BENLYSTA1 mg/kg + Standard of Careb(n = 288) | BENLYSTA10 mg/kg + Standard of Care(n = 290) |
 | SLE Responder Index | 34% | 41%(P = 0.104) | 43%(P = 0.021) | 44% | 51%(P = 0.013) | 58%(P <0.001) |
 | Odds Ratio (95% CI) vs. placebo |  | 1.3 (0.9, 1.9) | 1.5 (1.1, 2.2) |  | 1.6 (1.1, 2.2) | 1.8 (1.3, 2.6) |
 | Components of SLE Responder Index |  |  |  |  |  |  |
