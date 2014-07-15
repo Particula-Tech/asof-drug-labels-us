@@ -2,7 +2,7 @@
 
 ## 14.1 Adjuvant Breast Cancer
 
-The safety and efficacy of Herceptin in women receiving adjuvant chemotherapy for HER2 overexpressing breast cancer, were evaluated in an integrated analysis of two randomized, open-label, clinical trials (Studies 1 and 2) with a total of 4063 women at the protocol-specified final overall survival analysis, a third randomized, open-label, clinical trial (Study 3) with a total of 3386 women, and a fourth randomized, open-label clinical trial with a total of 3222 patients (Study 4).
+The safety and efficacy of Herceptin in women receiving adjuvant chemotherapy for HER2 overexpressing breast cancer, were evaluated in an integrated analysis of two randomized, open-label, clinical trials (Studies 1 and 2) with a total of 4063 women at the protocol-specified final overall survival analysis, a third randomized, open-label, clinical trial (Study 3) with a total of 3386 women at definitive Disease Free Survival analysis for one-year Herceptin treatment versus observation, and a fourth randomized, open-label clinical trial with a total of 3222 patients (Study 4).
 
 Studies 1 and 2
 
@@ -33,16 +33,21 @@ In Study 3, breast tumor specimens were required to show HER2 overexpression (3+
 Patients with node-negative disease were required to have ≥ T1c primary tumor.
 Patients with a history of congestive heart failure or LVEF <55%, uncontrolled arrhythmias, angina requiring medication, clinically significant valvular heart disease, evidence of transmural infarction on ECG, poorly controlled hypertension (systolic > 180 mm Hg or diastolic > 100 mm Hg) were not eligible.
 
-Patients were randomized (1:1) upon completion of definitive surgery, and at least four cycles of chemotherapy to receive no additional treatment (n = 1693) or 1 year of Herceptin treatment (n = 1693).
+Study 3 was designed to compare one and two years of three-weekly Herceptin treatment versus observation in patients with HER2 positive EBC following surgery, established chemotherapy and radiotherapy (if applicable).
+Patients were randomized (1:1:1) upon completion of definitive surgery, and at least four cycles of chemotherapy to receive no additional treatment, or one year of Herceptin treatment or two years of Herceptin treatment.
 Patients undergoing a lumpectomy had also completed standard radiotherapy.
 Patients with ER+ and/or PgR+ disease received systemic adjuvant hormonal therapy at investigator discretion.
-Herceptin was administered with an initial dose of 8 mg/kg followed by subsequent doses of 6 mg/kg once every three weeks for a total of 52 weeks.
+Herceptin was administered with an initial dose of 8 mg/kg followed by subsequent doses of 6 mg/kg once every three weeks.
 The main outcome measure was disease-free survival (DFS), defined as in Studies 1 and 2.
 
-Among the 3386 patients randomized to the two treatment arms, the median age was 49 years (range 21–80), 83% were Caucasian, and 13% were Asian.
+A protocol specified interim efficacy analysis comparing one-year Herceptin treatment to observation was performed at a median follow-up duration of 12.6 months in the Herceptin arm and formed the basis for the definitive DFS results from this study.
+Among the 3386 patients randomized to the observation (n =1693) and Herceptin one-year (n= 1693) treatment arms, the median age was 49 years (range 21–80), 83% were Caucasian, and 13% were Asian.
 Disease characteristics: 94% infiltrating ductal carcinoma, 50% ER+ and/or PgR+, 57% node positive, 32% node negative, and in 11% of patients, nodal status was not assessable due to prior neo-adjuvant chemotherapy.
 Ninety-six percent (1055/1098) of patients with node-negative disease had high risk features: among the 1098 patients with node-negative disease, 49% (543) were ER− and PgR−, and 47% (512) were ER and/or PgR + and had at least one of the following high risk features: pathological tumor size greater than 2 cm, Grade 2–3, or age < 35 years.
 Prior to randomization, 94% of patients had received anthracycline-based chemotherapy regimens.
+
+After the definitive DFS results comparing observation to one-year Herceptin treatment were disclosed, a prospectively planned analysis that included comparison of one year versus two years of Herceptin treatment at a median follow-up duration of 8 years was performed.
+Based on this analysis, extending Herceptin treatment for a duration of two years did not show additional benefit over treatment for one year [Hazard Ratios of two-years Herceptin versus one-year Herceptin treatment in the intent to treat (ITT) population for Disease Free Survival (DFS) = 0.99 (95% CI: 0.87, 1.13), p-value = 0.90 and Overall Survival (OS) = 0.98 (0.83, 1.15); p-value= 0.78].
 
 Study 4
 
@@ -82,7 +87,7 @@ Table 7 Efficacy Results from Adjuvant Treatment of Breast Cancer (Studies 1 + 2
 | Studies 1 + 2Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus Herceptin (AC→TH). |  |  |  |  |
 | AC→TH (n =1872)Efficacy evaluable population, for the primary DFS analysis, following a median follow-up of 2.0 years in the AC→TH arm. (n = 2031)Efficacy evaluable population, for the final OS analysis, following 707 deaths (8.3 years of median follow-up in the AC→TH arm). | 133 | 0.48,Hazard ratio estimated by Cox regression stratified by clinical trial, intended paclitaxel schedule, number of positive nodes, and hormone receptor status. (0.39, 0.59) p< 0.0001stratified log-rank test. | 289 | 0.64, (0.55, 0.74) p< 0.0001 |
 | AC→T (n = 1880) (n = 2032) | 261 |  | 418 |  |
-| Study 3 |  |  |  |  |
+| Study 3At definitive DFS analysis with median duration of follow-up of 12.6 months in the one-year Herceptin treatment arm. |  |  |  |  |
 | Chemo→ Herceptin (n =1693) | 127 | 0.54 (0.44, 0.67) p< 0.0001log-rank test. | 31 | 0.75 p=NSNS= non-significant. |
 | Chemo→ Observation (n = 1693) | 219 |  | 40 |  |
 | Study 4Study 4 regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC→T) or docetaxel plus Herceptin (AC→TH); docetaxel and carboplatin plus Herceptin (TCH). |  |  |  |  |
@@ -108,7 +113,7 @@ Table 8: Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpress
 
 | HER2 Assay ResultIHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory. | Number of Patients | Hazard Ratio DFS (95% CI) | Number of Patients | Hazard Ratio DFS (95% CI) |
 | --- | --- | --- | --- | --- |
-|  | Study 2 |  | Study 3 |  |
+|  | Study 2 |  | Study 3Median follow-up duration of 12.6 months in the one-year Herceptin treatment arm. |  |
 | IHC 3+ |  |  |  |  |
 | FISH (+) | 1170 | 0.42 (0.27, 0.64) | 91 | 0.56 (0.13, 2.50) |
 | FISH (−) | 51 | 0.71 (0.04, 11.79) | 8 | — |
@@ -240,5 +245,5 @@ Table 12: Exploratory Analyses by HER2 Status using Updated Overall Survival Res
 | FISH+ or FISH /IHC3+Includes 6 patients on chemotherapy arm, 10 patients on Herceptin arm with FISH-, IHC3+ and 8 patients on chemotherapy arm, 8 patients on Herceptin arm with FISH status unknown, IHC 3+. subgroup (N=294) |  |  |
 | No. Deaths / n (%) | 104/143 (73%) | 96/151 (64%) |
 | Median OS Duration (mos.) | 13.2 | 18.0 |
-| 95% CI (mos.) | (11.5. 15.2) | (15.5, 21.2) |
+| 95% CI (mos.) | (11.5, 15.2) | (15.5, 21.2) |
 | Hazard ratio (95% CI) | 0.66 (0.50, 0.87) |  |

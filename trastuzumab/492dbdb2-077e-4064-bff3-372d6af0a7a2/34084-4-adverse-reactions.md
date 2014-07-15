@@ -20,16 +20,16 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adjuvant Breast Cancer Studies
 
-The data below reflect exposure to Herceptin across three randomized, open-label studies, Studies 1, 2, and 3, with (n=3678) or without (n= 3363) trastuzumab in the adjuvant treatment of breast cancer.
+The data below reflect exposure to one-year Herceptin therapy across three randomized, open-label studies, Studies 1, 2, and 3, with (n=3678) or without (n= 3363) trastuzumab in the adjuvant treatment of breast cancer.
 
 The data summarized in Table 3 below, from Study 3, reflect exposure to Herceptin in 1678 patients; the median treatment duration was 51 weeks and median number of infusions was 18.
-Among the 3386 patients enrolled in Study 3, the median age was 49 years (range: 21 to 80 years), 83% of patients were Caucasian, and 13% were Asian.
+Among the 3386 patients enrolled in the observation and one-year Herceptin arms of Study 3 at a median duration of follow-up of 12.6 months in the Herceptin arm, the median age was 49 years (range: 21 to 80 years), 83% of patients were Caucasian, and 13% were Asian.
 
-Table 3: Adverse Reactions for Study 3, All GradesThe incidence of Grade 3/4 adverse reactions was <1% in both arms for each listed term.:
+Table 3: Adverse Reactions for Study 3Median follow-up duration of 12.6 months in the one-year Herceptin treatment arm., All GradesThe incidence of Grade 3 or higher adverse reactions was <1% in both arms for each listed term.:
 
 | Adverse Reaction | (n=1678) | (n=1708) |
 | --- | --- | --- |
-|  | 1 Year Herceptin | Observation |
+|  | One Year Herceptin | Observation |
 | Cardiac |  |  |
 | Hypertension | 64 (4%) | 35 (2%) |
 | Dizziness | 60 (4%) | 29 (2%) |
@@ -70,7 +70,7 @@ Table 3: Adverse Reactions for Study 3, All GradesThe incidence of Grade 3/4 adv
 | Skin & Subcutaneous Tissue Disorders |  |  |
 | Rash | 70 (4%) | 10 (0.6%) |
 | Nail Disorders | 43 (2%) | 0 (0%) |
-| Pruritis | 40 (2%) | 10 (0.6%) |
+| Pruritus | 40 (2%) | 10 (0.6%) |
 | General disorders |  |  |
 | Pyrexia | 100 (6%) | 6 (0.4%) |
 | Edema Peripheral | 79 (5%) | 37 (2%) |
@@ -85,6 +85,10 @@ Table 3: Adverse Reactions for Study 3, All GradesThe incidence of Grade 3/4 adv
 | Hypersensitivity | 10 (0.6%) | 1 (0.06%) |
 | Autoimmune Thyroiditis | 4 (0.3%) | 0 (0%) |
 
+In Study 3, a comparison of 3-weekly Herceptin treatment for two years versus one year was also performed.
+The rate of asymptomatic cardiac dysfunction was increased in the 2-year Herceptin treatment arm (8.1% versus 4.6% in the one-year Herceptin treatment arm).
+More patients experienced at least one adverse reaction of grade 3 or higher in the 2-year Herceptin treatment arm (20.4%) compared with the one-year Herceptin treatment arm (16.3%).
+
 The safety data from Studies 1 and 2 were obtained from 3655 patients, of whom 2000 received Herceptin; the median treatment duration was 51 weeks.
 The median age was 49 years (range: 24–80); 84% of patients were White, 7% Black, 4% Hispanic, and 3% Asian.
 
@@ -92,7 +96,7 @@ In Study 1, only Grade 3–5 adverse events, treatment-related Grade 2 events, a
 The following non-cardiac adverse reactions of Grade 2–5 occurred at an incidence of at least 2% greater among patients receiving Herceptin plus chemotherapy as compared to chemotherapy alone: fatigue (29.5% vs. 22.4%), infection (24.0% vs. 12.8%), hot flashes (17.1% vs. 15.0%), anemia (12.3% vs. 6.7%), dyspnea (11.8% vs. 4.6%), rash/desquamation (10.9% vs. 7.6%), leukopenia (10.5% vs. 8.4%), neutropenia (6.4% vs. 4.3%), headache (6.2% vs. 3.8%), pain (5.5% vs. 3.0%), edema (4.7% vs. 2.7%) and insomnia (4.3% vs. 1.5%).
 The majority of these events were Grade 2 in severity.
 
-In Study 2, data collection was limited to the following investigator-attributed treatment-related adverse reactions NCI-CTC Grade 4 and 5 hematologic toxicities, Grade 3–5 non-hematologic toxicities, selected Grade 2–5 toxicities associated with taxanes (myalgia, arthralgias, nail changes, motor neuropathy, sensory neuropathy) and Grade 1–5 cardiac toxicities occurring during chemotherapy and/or Herceptin treatment.
+In Study 2, data collection was limited to the following investigator-attributed treatment-related adverse reactions: NCI-CTC Grade 4 and 5 hematologic toxicities, Grade 3–5 non-hematologic toxicities, selected Grade 2–5 toxicities associated with taxanes (myalgia, arthralgias, nail changes, motor neuropathy, sensory neuropathy) and Grade 1–5 cardiac toxicities occurring during chemotherapy and/or Herceptin treatment.
 The following non-cardiac adverse reactions of Grade 2–5 occurred at an incidence of at least 2% greater among patients receiving Herceptin plus chemotherapy as compared to chemotherapy alone: arthralgia (12.2% vs. 9.1%), nail changes (11.5% vs.6.8%), dyspnea (2.4% vs. 0.2%), and diarrhea (2.2% vs. 0%).
 The majority of these events were Grade 2 in severity.
 
@@ -216,7 +220,7 @@ Cardiomyopathy
 Serial measurement of cardiac function (LVEF) was obtained in clinical trials in the adjuvant treatment of breast cancer.
 In Study 3, the median duration of follow-up was 12.6 months (12.4 months in the observation arm; 12.6 months in the 1-year Herceptin arm); and in Studies 1 and 2, 7.9 years in the AC-T arm, 8.3 years in the AC-TH arm.
 In Studies 1 and 2, 6% of all randomized patients with post-AC LVEF evaluation were not permitted to initiate Herceptin following completion of AC chemotherapy due to cardiac dysfunction (LVEF < LLN or ≥ 16 point decline in LVEF from baseline to end of AC).
-Following initiation of Herceptin therapy, the incidence of new-onset dose-limiting myocardial dysfunction was higher among patients receiving Herceptin and paclitaxel as compared to those receiving paclitaxel alone in Studies 1 and 2, and in patients receiving Herceptin monotherapy compared to observation in Study 3 (see Table 6, Figures 1 and 2).
+Following initiation of Herceptin therapy, the incidence of new-onset dose-limiting myocardial dysfunction was higher among patients receiving Herceptin and paclitaxel as compared to those receiving paclitaxel alone in Studies 1 and 2, and in patients receiving one-year Herceptin monotherapy compared to observation in Study 3 (see Table 6, Figures 1 and 2).
 The per-patient incidence of new-onset cardiac dysfunction, as measured by LVEF, remained similar when compared to the analysis performed at a median follow-up of 2.0 years in the AC-TH arm.
 This analysis also showed evidence of reversibility of left ventricular dysfunction, with 64.5% of patients who experienced symptomatic CHF in the AC-TH group being asymptomatic at latest follow-up, and 90.3% having full or partial LVEF recovery.
 
@@ -229,7 +233,7 @@ For Study 4, events are counted from the date of randomization.: Per-patient Inc
 | Studies 1 & 2Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus Herceptin (AC→TH).,Median duration of follow-up for studies 1 and 2 combined was 8.3 years in the AC→TH arm. |  |  |  |  |  |
 | AC→TH (n=1856) | 23.1% (428) | 18.5% (344) | 11.2% (208) | 37.9% (703) | 8.9% (166) |
 | AC→T (n=1170) | 11.7% (137) | 7.0% (82) | 3.0% (35) | 22.1% (259) | 3.4% (40) |
-| Study 3 |  |  |  |  |  |
+| Study 3Median follow-up duration of 12.6 months in the one-year Herceptin treatment arm. |  |  |  |  |  |
 | Herceptin (n=1678) | 8.6% (144) | 7.0% (118) | 3.8% (64) | 22.4% (376) | 3.5% (59) |
 | Observation (n=1708) | 2.7% (46) | 2.0% (35) | 1.2% (20) | 11.9% (204) | 1.2% (21) |
 | Study 4Study 4 regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC→T) or docetaxel plus Herceptin (AC→TH); docetaxel and carboplatin plus Herceptin (TCH). |  |  |  |  |  |
@@ -249,7 +253,7 @@ Figure 3 Study 4: Cumulative Incidence of Time to First LVEF Decline of ≥10 Pe
 
 Time 0 is the date of randomization.
 
-The incidence of treatment emergent congestive heart failure among patients in the metastatic breast cancer trials was classified for severity using the New York Heart Association classification system (I-IV, where IV is the most severe level of cardiac failure) (see Table 2).
+The incidence of treatment emergent congestive heart failure among patients in the metastatic breast cancer trials was classified for severity using the New York Heart Association classification system (I–IV, where IV is the most severe level of cardiac failure) (see Table 2).
 In the metastatic breast cancer trials the probability of cardiac dysfunction was highest in patients who received Herceptin concurrently with anthracyclines.
 
 In Study 7, 5.0% of patients in the Herceptin plus chemotherapy arm compared to 1.1% of patients in the chemotherapy alone arm had LVEF value below 50% with a ≥ 10% absolute decrease in LVEF from pretreatment values.
@@ -294,7 +298,7 @@ The most common pulmonary toxicity was dyspnea (NCI-CTC Grade 2–5: 11.8% vs. 4
 Pneumonitis/pulmonary infiltrates occurred in 0.7% of patients receiving Herceptin compared with 0.3% of those receiving chemotherapy alone.
 Fatal respiratory failure occurred in 3 patients receiving Herceptin, one as a component of multi-organ system failure, as compared to 1 patient receiving chemotherapy alone.
 
-In Study 3, there were 4 cases of interstitial pneumonitis in Herceptin-treated patients compared to none in the control arm.
+In Study 3, there were 4 cases of interstitial pneumonitis in the one-year Herceptin treatment arm compared to none in the observation arm at a median follow-up duration of 12.6 months.
 
 Metastatic Breast Cancer
 
@@ -309,7 +313,7 @@ In 4 randomized, controlled clinical trials, the incidence of thrombotic adverse
 
 Diarrhea
 
-Among women receiving adjuvant therapy for breast cancer, the incidence of NCI-CTC Grade 2–5 diarrhea (6.7% vs. 5.4% [Study 1]) and of NCI-CTC Grade 3–5 diarrhea (2.2% vs. 0% [Study 2]), and of Grade 1–4 diarrhea (7% vs. 1% [Study 3]) were higher in patients receiving Herceptin as compared to controls.
+Among women receiving adjuvant therapy for breast cancer, the incidence of NCI-CTC Grade 2–5 diarrhea (6.7% vs. 5.4% [Study 1]) and of NCI-CTC Grade 3–5 diarrhea (2.2% vs. 0% [Study 2]), and of Grade 1–4 diarrhea (7% vs. 1% [Study 3; one-year Herceptin treatment at 12.6 months median duration of follow-up]) were higher in patients receiving Herceptin as compared to controls.
 In Study 4, the incidence of Grade 3–4 diarrhea was higher [5.7% AC-TH, 5.5% TCH vs. 3.0% AC-T] and of Grade 1–4 was higher [51% AC-TH, 63% TCH vs. 43% AC-T] among women receiving Herceptin.
 Of patients receiving Herceptin as a single agent for the treatment of metastatic breast cancer, 25% experienced diarrhea.
 An increased incidence of diarrhea was observed in patients receiving Herceptin in combination with chemotherapy for treatment of metastatic breast cancer.

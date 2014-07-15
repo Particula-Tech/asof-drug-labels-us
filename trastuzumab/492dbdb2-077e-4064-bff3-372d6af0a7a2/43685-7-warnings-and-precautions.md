@@ -22,7 +22,7 @@ The following schedule is recommended:
 - LVEF measurements every 6 months for at least 2 years following completion of Herceptin as a component of adjuvant therapy.
 
 In Study 1, 15% (158/1031) of patients discontinued Herceptin due to clinical evidence of myocardial dysfunction or significant decline in LVEF after a median follow-up duration of 8.7 years in the AC-TH arm.
-In Study 3, the number of patients who discontinued Herceptin due to cardiac toxicity was 2.6% (44/1678).
+In Study 3 (one-year Herceptin treatment), the number of patients who discontinued Herceptin due to cardiac toxicity at 12.6 months median duration of follow-up was 2.6% (44/1678).
 In Study 4, a total of 2.9% (31/1056) patients in the TCH arm (1.5% during the chemotherapy phase and 1.4% during the monotherapy phase) and 5.7% (61/1068) patients in the AC-TH arm (1.5% during the chemotherapy phase and 4.2% during the monotherapy phase) discontinued Herceptin due to cardiac toxicity.
 
 Among 64 patients receiving adjuvant chemotherapy (Studies 1 and 2) who developed congestive heart failure, one patient died of cardiomyopathy, one patient died suddenly without documented etiology and 33 patients were receiving cardiac medication at last follow-up.
@@ -35,10 +35,12 @@ Table 1: Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
 | Study | Regimen | Herceptin | Control |
 | --- | --- | --- | --- |
 |  |  | Incidence of CHF |  |
-| 1 & 2Median follow-up duration for studies 1 and 2 combined was 8.3 years in the AC→TH arm. | ACAnthracycline (doxorubicin) and cyclophosphamide. → Paclitaxel+Herceptin | 3.2% (64/2000) Includes 1 patient with fatal cardiomyopathy and 1 patient with sudden death without documented etiology. | 1.3% (21/1655) |
-| 3 | Chemo → Herceptin | 2% (30/1678) | 0.3% (5/1708) |
+| 1 & 2Median follow-up duration for studies 1 and 2 combined was 8.3 years in the AC→TH arm. | ACAnthracycline (doxorubicin) and cyclophosphamide. → Paclitaxel+Herceptin | 3.2% (64/2000)Includes 1 patient with fatal cardiomyopathy and 1 patient with sudden death without documented etiology. | 1.3% (21/1655) |
+| 3Includes NYHA II-IV and cardiac death at 12.6 months median duration of follow-up in the one-year Herceptin arm. | Chemo → Herceptin | 2% (30/1678) | 0.3% (5/1708) |
 | 4 | AC → Docetaxel+Herceptin | 2% (20/1068) | 0.3% (3/1050) |
 | 4 | Docetaxel+Carbo+Herceptin | 0.4% (4/1056) | 0.3% (3/1050) |
+
+In Study 3 (one-year Herceptin treatment), at a median follow-up duration of 8 years, the incidence of severe CHF (NYHA III & IV) was 0.8%, and the rate of mild symptomatic and asymptomatic left ventricular dysfunction was 4.6%.
 
 Table 2: Incidence of Cardiac DysfunctionCongestive heart failure or significant asymptomatic decrease in LVEF. in Metastatic Breast Cancer Studies
 
@@ -50,7 +52,7 @@ Table 2: Incidence of Cardiac DysfunctionCongestive heart failure or significant
 | 5 (paclitaxel) | Cardiac Dysfunction | 11% | 1% | 4% | 1% |
 | 6 | Cardiac DysfunctionIncludes 1 patient with fatal cardiomyopathy. | 7% | N/A | 5% | N/A |
 
-In Study 4, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the Herceptin containing regimens: (AC-TH: 0.3% (3/1068) and TCH 0.2% (: 2/1056)) as compared to none in AC-T.
+In Study 4, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the Herceptin containing regimens: (AC-TH: 0.3% (3/1068) and TCH 0.2% (2/1056)) as compared to none in AC-T.
 
 ## 5.2 Infusion Reactions
 

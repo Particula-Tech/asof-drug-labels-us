@@ -20,15 +20,17 @@ As a single agent within three weeks following completion of multi-modality, ant
 - Initial dose at 8 mg/kg as an intravenous infusion over 90 minutes
 - Subsequent doses at 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks.
 
-[see Dose Modifications (2.2)]
+[see Dosage and Administration (2.2)]
+
+- Extending adjuvant treatment beyond one year is not recommended [see Adverse Reactions (6.1)].
 
 Metastatic Treatment, Breast Cancer:
 
 - Administer Herceptin, alone or in combination with paclitaxel, at an initial dose of 4 mg/kg as a 90 minute intravenous infusion followed by subsequent once weekly doses of 2 mg/kg as 30 minute intravenous infusions until disease progression.
 
-Metastatic Gastric Cancer
+Metastatic Gastric Cancer:
 
-- Administer Herceptin at an initial dose of 8 mg/kg as a 90 minute intravenous infusion followed by subsequent doses of 6 mg/kg as an intravenous infusion over 30-90 minutes every three weeks until disease progression [see Dose Modifications (2.2)].
+- Administer Herceptin at an initial dose of 8 mg/kg as a 90 minute intravenous infusion followed by subsequent doses of 6 mg/kg as an intravenous infusion over 30-90 minutes every three weeks until disease progression [see Dosage and Administration (2.2)].
 
 ## 2.2 Dose Modifications
 
