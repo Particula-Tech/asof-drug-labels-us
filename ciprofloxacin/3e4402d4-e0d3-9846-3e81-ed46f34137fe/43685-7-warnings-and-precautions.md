@@ -93,9 +93,9 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## Peripheral Neuropathy
 
-Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones, including ciprofloxacin.
-Ciprofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness, or is found to have deficits in light touch, pain, temperature, position sense, vibratory sensation, and/or motor strength in order to prevent the development of an irreversible condition.
-Patients treated with ciprofloxacin hydrochloride should be advised to inform their healthcare provider prior to continuing treatment if symptoms of neuropathy develop.
+Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including ciprofloxacin.
+Symptoms may occur soon after initiation of ciprofloxacin hydrochloride and may be irreversible.
+Ciprofloxacin should be discontinued immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness, other alterations in sensations including light touch, pain, temperature, position sense and vibratory sensation.
 
 ## Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
@@ -179,8 +179,8 @@ Patients should be advised:
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, patients should contact their physician.
-- That peripheral neuropathies have been associated with ciprofloxacin use.
-  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, they should discontinue treatment and contact their physicians.
+- That peripheral neuropathies have been associated with ciprofloxacin use, that symptoms may occur soon after initiation of therapy and may be irreversible.
+  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, patients should immediately discontinue ciprofloxacin hydrochloride and contact their physician.
 - That ciprofloxacin may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
 - That ciprofloxacin increases the effects of tizanidine (Zanaflex®).
   Patients should not use ciprofloxacin if they are already taking tizanidine.
@@ -190,7 +190,7 @@ Patients should be advised:
 - That ciprofloxacin has been associated with an increased rate of adverse events involving joints and surrounding tissue structures (like tendons) in pediatric patients (less than 18 years of age).
   Parents should inform their child’s physician if the child has a history of joint-related problems before taking this drug.
   Parents of pediatric patients should also notify their child’s physician of any joint-related problems that occur during or following ciprofloxacin therapy.
-  (See WARNINGS, PRECAUTIONS, Pediatric Use and ADVERSE REACTIONS.)
+  (See WARNINGS, PRECAUTIONS, Pediatric Useand ADVERSE REACTIONS.)
 - That diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
@@ -221,7 +221,7 @@ Omeprazole Concomitant administration of a single tablet dose of 500 mg ciproflo
 Phenytoin Altered serum levels of phenytoin (increased and decreased) have been reported in patients receiving concomitant ciprofloxacin.
 To avoid the loss of seizure control associated with decreased phenytoin levels, and to prevent phenytoin overdose-related undesirable effects when ciprofloxacin is discontinued in patients receiving both agents, monitoring of phenytoin therapy, including phenytoin serum concentration measurements, is recommended during and shortly after co-administration of ciprofloxacin with phenytoin.
 
-Oral Antidiabetic Agents Hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents, mainly sulfonylureas (for example, glyburide, glimepiride), were coadministered, presumably by intensifying the action of the oral antidiabetic agent (see ADVERSE REACTIONS).
+Oral Antidiabetic Agents Hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents, mainly sulfonylureas (for example, glyburide, glimepiride), were co-administered, presumably by intensifying the action of the oral antidiabetic agent (see ADVERSE REACTIONS).
 The concomitant administration of ciprofloxacin with glyburide has, on rare occasions, resulted in severe hypoglycemia.
 Fatalities have been reported.
 
@@ -229,7 +229,7 @@ Metronidazole The serum concentrations of ciprofloxacin and metronidazole were n
 
 Cyclosporine Some quinolones, including ciprofloxacin, have been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly.
 
-Oral Anti-coagulants Simultaneous administration of ciprofloxacin with an oral anticoagulantmay augment the effect of the anticoagulant.
+Oral Anti-coagulants Simultaneous administration of ciprofloxacin with an oral anticoagulant may augment the effect of the anticoagulant.
 The risk may vary with the underlying infection, age and general status of the patient so that the contribution of ciprofloxacin to the increase in INR (international normalized ratio) is difficult to assess.
 Prothrombin time and INR should be monitored frequently during and shortly after co-administration of ciprofloxacin with an oral anticoagulant (for example, warfarin).
 
@@ -256,11 +256,11 @@ Lidocaine In a study conducted in 9 healthy volunteers, concomitant use of 1.5 m
 Although lidocaine treatment was well tolerated at this elevated exposure, a possible interaction with ciprofloxacin and an increase in side effects related to lidocaine may occur upon concomitant administration.
 
 Clozapine Following concomitant administration of 250 mg ciprofloxacin with 304 mg clozapine for 7 days, serum concentrations of clozapine and N-desmethylclozapine were increased by 29% and 31%, respectively.
-Careful monitoring of clozapine associated adverse effects and appropriate adjustment of clozapine dosage during and shortly after coadministration with ciprofloxacin are advised.
+Careful monitoring of clozapine associated adverse effects and appropriate adjustment of clozapine dosage during and shortly after co-administration with ciprofloxacin are advised.
 (See WARNINGS.)
 
 Sildenafil Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg ciprofloxacin to healthy subjects, the mean Cmax and mean AUC of sildenafil were both increased approximately two-fold.
-Therefore, sildenafil should be used with caution when coadministered with ciprofloxacin.
+Therefore, sildenafil should be used with caution when co-administered with ciprofloxacin.
 
 Drugs known to prolong QT interval Precaution should be taken when using ciprofloxacin concomitantly with drugs known to prolong the QT interval (for example, class IA or III antiarrhythmics, tricyclic antidepressants, macrolides, antipsychotics) as ciprofloxacin may have an additive effect on the QT interval (see WARNINGS, Prolongation of the QT Interval and PRECAUTIONS, Geriatric Use).
 

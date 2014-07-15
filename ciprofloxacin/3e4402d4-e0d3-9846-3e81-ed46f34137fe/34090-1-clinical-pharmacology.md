@@ -59,7 +59,7 @@ After a 250 mg oral dose, urine concentrations of ciprofloxacin usually exceed 2
 The urinary excretion of ciprofloxacin is virtually complete within 24 hours after dosing.
 The renal clearance of ciprofloxacin, which is approximately 300 mL/minute, exceeds the normal glomerular filtration rate of 120 mL/minute.
 Thus, active tubular secretion would seem to play a significant role in its elimination.
-Coadministration of probenecid with ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
+Co-administration of probenecid with ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
 
 Although bile concentrations of ciprofloxacin are several fold higher than serum concentrations after oral dosing, only a small amount of the dose administered is recovered from the bile as unchanged drug.
 An additional 1 to 2% of the dose is recovered from the bile in the form of metabolites.

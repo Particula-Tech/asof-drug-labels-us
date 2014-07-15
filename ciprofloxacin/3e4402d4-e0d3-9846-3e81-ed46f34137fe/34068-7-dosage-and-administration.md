@@ -19,8 +19,8 @@ Ciprofloxacin should be administered at least 2 hours before or 6 hours after ma
 | Chronic Bacterial Prostatitis | Mild/Moderate | 500 mg | q 12 h | 28 days |
 | Lower Respiratory Tract | Mild/Moderate | 500 mg | q 12 h | 7 to 14 days |
 |  | Severe/Complicated | 750 mg | q 12 h | 7 to 14 days |
-| Acute Sinusitis Skin and Skin Structure | Mild/Moderate | 500 mg | q 12 h | 10 days |
-|  | Mild/Moderate | 500 mg | q 12 h | 7 to 14 days |
+| Acute Sinusitis | Mild/Moderate | 500 mg | q 12 h | 10 days |
+| Skin and Skin Structure | Mild/Moderate | 500 mg | q 12 h | 7 to 14 days |
 |  | Severe/Complicated | 750 mg | q 12 h | 7 to 14 days |
 | Bone and Joint | Mild/Moderate | 500 mg | q 12 h | ≥ 4 to 6 weeks |
 |  | Severe/Complicated | 750 mg | q 12 h | ≥ 4 to 6 weeks |

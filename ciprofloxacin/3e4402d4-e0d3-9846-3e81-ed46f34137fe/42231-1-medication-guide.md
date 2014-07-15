@@ -1,37 +1,37 @@
-MEDICATION GUIDE CIPROFLOXACIN TABLETS, USP
+MEDICATION GUIDE CIPROFLOXACIN (SIP-roe-FLOX-a-sin) TABLETS, USP
 
-Read the Medication Guide that comes with ciprofloxacin hydrochloride tablets before you start taking it and each time you get a refill.
+Read the Medication Guide that comes with ciprofloxacin tablets before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-What is the most important information I should know about ciprofloxacin hydrochloride tablets?
-Ciprofloxacin hydrochloride tablets belong to a class of antibiotics called fluoroquinolones.
-Ciprofloxacin hydrochloride tablets can cause side effects that may be serious or even cause death.
+What is the most important information I should know about ciprofloxacin tablets?
+Ciprofloxacin tablets belong to a class of antibiotics called fluoroquinolones.
+Ciprofloxacin tablets can cause side effects that may be serious or even cause death.
 If you get any of the following serious side effects, get medical help right away.
-Talk with your healthcare provider about whether you should continue to take ciprofloxacin hydrochloride tablets.
+Talk with your healthcare provider about whether you should continue to take ciprofloxacin tablets.
 
 1.
 Tendon rupture or swelling of the tendon (tendinitis)
 
-- Tendon problems can happen in people of all ages who take ciprofloxacin hydrochloride tablets.
+- Tendon problems can happen in people of all ages who take ciprofloxacin tablets.
   Tendons are tough cords of tissue that connect muscles to bones.
   Symptoms of tendon problems may include: ● Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
 
-- The risk of getting tendon problems while you take ciprofloxacin hydrochloride tablets is higher if you: ● Are over 60 years of age ● Are taking steroids (corticosteroids) ● Have had a kidney, heart or lung transplant
+- The risk of getting tendon problems while you take ciprofloxacin tablets is higher if you: ● Are over 60 years of age ● Are taking steroids (corticosteroids) ● Have had a kidney, heart or lung transplant
 
-- Tendon problems can happen in people who do not have the above risk factors when they take ciprofloxacin hydrochloride tablets.
+- Tendon problems can happen in people who do not have the above risk factors when they take ciprofloxacin tablets.
   Other reasons that can increase your risk of tendon problems can include: ● Physical activity or exercise ● Kidney failure ●Tendon problems in the past, such as in people with rheumatoid arthritis (RA)
 
 - Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
-  Stop taking ciprofloxacin hydrochloride tablets until tendinitis or tendon rupture has been ruled out by your healthcare provider.
+  Stop taking ciprofloxacin tablets until tendinitis or tendon rupture has been ruled out by your healthcare provider.
   Avoid exercise and using the affected area.
   The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
   This can also happen with other tendons.
 
-- Talk to your healthcare provider about the risk of tendon rupture with continued use of ciprofloxacin hydrochloride tablets.
+- Talk to your healthcare provider about the risk of tendon rupture with continued use of ciprofloxacin tablets.
   You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
 
-- Tendon rupture can happen while you are taking or after you have finished taking ciprofloxacin hydrochloride tablets.
+- Tendon rupture can happen while you are taking or after you have finished taking ciprofloxacin tablets.
   Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
 
 - Get medical help right away if you get any of the following signs or symptoms of a tendon rupture: ● Hear or feel a snap or pop in a tendon area ● Bruising right after an injury in a tendon area ● Unable to move the affected area or bear weight
@@ -39,36 +39,36 @@ Tendon rupture or swelling of the tendon (tendinitis)
 2.
 Worsening of myasthenia gravis (a disease which causes muscle weakness).
 
-Fluoroquinolones like ciprofloxacin hydrochloride may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+Fluoroquinolones like ciprofloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
 Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
-See the section “What are the possible side effects of ciprofloxacin hydrochloride tablets?” for more information about side effects.
+See the section “What are the possible side effects of ciprofloxacin tablets?” for more information about side effects.
 
-What are ciprofloxacin hydrochloride tablets?
-Ciprofloxacin hydrochloride tablets are fluoroquinolone antibiotic medicine used to treat certain infections caused by certain germs called bacteria.
+What are ciprofloxacin tablets?
+Ciprofloxacin tablets are fluoroquinolone antibiotic medicine used to treat certain infections caused by certain germs called bacteria.
 
-Children less than 18 years of age have a higher chance of getting bone, joint, or tendon (musculoskeletal) problems such as pain or swelling while taking ciprofloxacin hydrochloride tablets.
-Ciprofloxacin hydrochloride tablets should not be used as the first choice of antibiotic medicine in children under 18 years of age.
+Children less than 18 years of age have a higher chance of getting bone, joint, or tendon (musculoskeletal) problems such as pain or swelling while taking ciprofloxacin tablets.
+Ciprofloxacin tablets should not be used as the first choice of antibiotic medicine in children under 18 years of age.
 
-Ciprofloxacin hydrochloride tablets should not be used in children under 18 years old, except to treat specific serious infections, such as complicated urinary tract infections and to prevent anthrax disease after breathing the anthrax bacteria germ (inhalational exposure).
+Ciprofloxacin tablets should not be used in children under 18 years old, except to treat specific serious infections, such as complicated urinary tract infections and to prevent anthrax disease after breathing the anthrax bacteria germ (inhalational exposure).
 
 Sometimes infections are caused by viruses rather than by bacteria.
 Examples include viral infections in the sinuses and lungs, such as the common cold or flu.
-Antibiotics, including ciprofloxacin hydrochloride tablets, do not kill viruses.
+Antibiotics, including ciprofloxacin tablets, do not kill viruses.
 
-Call your healthcare provider if you think your condition is not getting better while you are taking ciprofloxacin hydrochloride tablets.
+Call your healthcare provider if you think your condition is not getting better while you are taking ciprofloxacin tablets.
 
-Who should not take ciprofloxacin hydrochloride tablets?
-Do not take ciprofloxacin hydrochloride tablets if you:
+Who should not take ciprofloxacin tablets?
+Do not take ciprofloxacin tablets if you:
 
-- Have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or are allergic to any of the ingredients in ciprofloxacin hydrochloride tablets.
+- Have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or are allergic to any of the ingredients in ciprofloxacin tablets.
   Ask your healthcare provider if you are not sure.
-  See the list of ingredients in ciprofloxacin hydrochloride tablets at the end of this Medication Guide.
+  See the list of ingredients in ciprofloxacin tablets at the end of this Medication Guide.
 - Also take a medicine called tizanidine (Zanaflex®).
   Serious side effects from tizanidine are likely to happen.
 
-What should I tell my healthcare provider before taking ciprofloxacin hydrochloride tablets?
-See “What is the most important information I should know about ciprofloxacin hydrochloride tablets?”
+What should I tell my healthcare provider before taking ciprofloxacin tablets?
+See “What is the most important information I should know about ciprofloxacin tablets?”
 
 Tell your healthcare provider about all your medical conditions, including if you:
 
@@ -79,39 +79,39 @@ Tell your healthcare provider about all your medical conditions, including if yo
 - Have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”.
 - Have a history of seizures.
 - Have kidney problems.
-  You may need a lower dose of ciprofloxacin hydrochloride tablets if your kidneys do not work well.
+  You may need a lower dose of ciprofloxacin tablets if your kidneys do not work well.
 - Have rheumatoid arthritis (RA) or other history of joint problems.
 - Have trouble swallowing pills.
 - Are pregnant or planning to become pregnant.
-  It is not known if ciprofloxacin hydrochloride tablets will harm your unborn child.
+  It is not known if ciprofloxacin tablets will harm your unborn child.
 - Are breast-feeding or planning to breast-feed.
-  Ciprofloxacin hydrochloride tablets passes into breast milk.
-  You and your healthcare provider should decide whether you will take ciprofloxacin hydrochloride tablets or breast-feed.
+  Ciprofloxacin passes into breast milk.
+  You and your healthcare provider should decide whether you will take ciprofloxacin tablets or breast-feed.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal and dietary supplements.
-Ciprofloxacin hydrochloride tablets and other medicines can affect each other causing side effects.
+Ciprofloxacin tablets and other medicines can affect each other causing side effects.
 Especially tell your healthcare provider if you take:
 
 - An NSAID (Non-Steroidal Anti-Inflammatory Drug).
   Many common medicines for pain relief are NSAIDs.
-  Taking an NSAID while you take ciprofloxacin hydrochloride tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
-  See “What are the possible side effects of ciprofloxacin hydrochloride tablets?.”
+  Taking an NSAID while you take ciprofloxacin tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
+  See “What are the possible side effects of ciprofloxacin tablets?.”
 - A blood thinner (such as warfarin, Coumadin®, Jantoven®).
 - Tizanidine (Zanaflex®).
-  You should not take ciprofloxacin hydrochloride tablets if you are already taking tizanidine.
-  See “Who should not take ciprofloxacin hydrochloride tablets?”.
+  You should not take ciprofloxacin tablets if you are already taking tizanidine.
+  See “Who should not take ciprofloxacin tablets?”.
 - Theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®).
 - Glyburide (Micronase®, Glynase®, Diabeta®, Glucovance®).
-  See “What are the possible side effects of ciprofloxacin hydrochloride tablets?”.
+  See “What are the possible side effects of ciprofloxacin tablets?”.
 - Phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®).
 - Products that contain caffeine.
-- A medicine to control your heart rate or rhythm (antiarrhythmics) See “What are the possible side effects of ciprofloxacin hydrochloride tablets?”.
+- A medicine to control your heart rate or rhythm (antiarrhythmics) See “What are the possible side effects of ciprofloxacin tablets?”.
 - An anti-psychotic medicine.
 - A tricyclic antidepressant.
 - A water pill (diuretic).
 - A steroid medicine.
   Corticosteroids taken by mouth or by injection may increase the chance of tendon injury.
-  See “What is the most important information I should know about ciprofloxacin hydrochloride tablets?”.
+  See “What is the most important information I should know about ciprofloxacin tablets?”.
 - Methotrexate (Trexall®)
 - Probenecid (Probalan®, Col-probenecid®).
 - Metoclopromide (Reglan®, Reglan ODT®).
@@ -122,73 +122,73 @@ Especially tell your healthcare provider if you take:
 - Sildenafil (Viagra®, Revatio®).
 - Cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®).
 - Omeprazole.
-- Certain medicines may keep ciprofloxacin hydrochloride tablets from working correctly.
-  Take ciprofloxacin hydrochloride tablets either 2 hours before or 6 hours after taking these products: ● An antacid, multivitamin, or other product that has magnesium, calcium, aluminum, iron, or zinc. ● Sucralfate (Carafate®). ● Didanosine (Videx®, Videx EC®).
+- Certain medicines may keep ciprofloxacin tablets from working correctly.
+  Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these products: ● An antacid, multivitamin, or other product that has magnesium, calcium, aluminum, iron, or zinc. ● Sucralfate (Carafate®). ● Didanosine (Videx®, Videx EC®).
 
 Ask your healthcare provider if you are not sure if any of your medicines are listed above.
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-How should I take ciprofloxacin hydrochloride tablets?
+How should I take ciprofloxacin tablets?
 
-- Take ciprofloxacin hydrochloride tablets exactly as prescribed by your healthcare provider.
-- Take ciprofloxacin hydrochloride tablets in the morning and evening at about the same time each day.
+- Take ciprofloxacin tablets exactly as prescribed by your healthcare provider.
+- Take ciprofloxacin tablets in the morning and evening at about the same time each day.
   Swallow the tablet whole.
   Do not split, crush or chew the tablet.
   Tell your healthcare provider if you can not swallow the tablet whole.
-- Ciprofloxacin hydrochloride tablets can be taken with or without food.
-- Ciprofloxacin hydrochloride tablets should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone, but may be taken with a meal that contains these products.
-- Drink plenty of fluids while taking ciprofloxacin hydrochloride tablets.
-- Do not skip any doses, or stop taking ciprofloxacin hydrochloride tablets even if you begin to feel better, until you finish your prescribed treatment, unless: ● You have tendon effects (see “What is the most important information I should know about ciprofloxacin hydrochloride tablets?”), ● You have a serious allergic reaction (see “What are the possible side effects of ciprofloxacin hydrochloride tablets?”), or ● Your healthcare provider tells you to stop.
+- Ciprofloxacin tablets can be taken with or without food.
+- Ciprofloxacin tablets should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone, but may be taken with a meal that contains these products.
+- Drink plenty of fluids while taking ciprofloxacin tablets.
+- Do not skip any doses, or stop taking ciprofloxacin tablets even if you begin to feel better, until you finish your prescribed treatment, unless: ● You have tendon effects (see “What is the most important information I should know about ciprofloxacin tablets?”), ● You have a serious allergic reaction (see “What are the possible side effects of ciprofloxacin tablets?”), or ● Your healthcare provider tells you to stop.
 
-This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to ciprofloxacin hydrochloride tablets.
-If this happens, ciprofloxacin hydrochloride tablets and other antibiotic medicines may not work in the future.
+This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to ciprofloxacin tablets.
+If this happens, ciprofloxacin tablets and other antibiotic medicines may not work in the future.
 
-- If you miss a dose of ciprofloxacin hydrochloride tablets, take it as soon as you remember.
+- If you miss a dose of ciprofloxacin tablets, take it as soon as you remember.
   Do not take two doses at the same time, and do not take more than two doses in one day.
 - If you take too much, call your healthcare provider or get medical help immediately.
 
-If you have been prescribed ciprofloxacin hydrochloride tablets after being exposed to anthrax:
+If you have been prescribed ciprofloxacintablets after being exposed to anthrax:
 
-- Ciprofloxacin hydrochloride tablets have been approved to lessen the chance of getting anthrax disease or worsening of the disease after you are exposed to the anthrax bacteria germ.
-- Take ciprofloxacin hydrochloride tablets exactly as prescribed by your healthcare provider.
-  Do not stop taking ciprofloxacin hydrochloride tablets without talking with your healthcare provider.
-  If you stop taking ciprofloxacin hydrochloride tablets too soon, it may not keep you from getting the anthrax disease.
-- Side effects may happen while you are taking ciprofloxacin hydrochloride tablets.
-  When taking your ciprofloxacin hydrochloride tablets to prevent anthrax infection, you and your healthcare provider should talk about whether the risks of stopping ciprofloxacin hydrochloride tablets too soon are more important than the risks of side effects with ciprofloxacin hydrochloride tablets.
-- If you are pregnant, or plan to become pregnant while taking ciprofloxacin hydrochloride tablets, you and your healthcare provider should decide whether the benefits of taking ciprofloxacin hydrochloride tablets for anthrax are more important than the risks.
+- Ciprofloxacin tablets have been approved to lessen the chance of getting anthrax disease or worsening of the disease after you are exposed to the anthrax bacteria germ.
+- Take ciprofloxacin tablets exactly as prescribed by your healthcare provider.
+  Do not stop taking ciprofloxacin tablets without talking with your healthcare provider.
+  If you stop taking ciprofloxacin tablets too soon, it may not keep you from getting the anthrax disease.
+- Side effects may happen while you are taking ciprofloxacin tablets.
+  When taking your ciprofloxacin tablets to prevent anthrax infection, you and your healthcare provider should talk about whether the risks of stopping ciprofloxacin tablets too soon are more important than the risks of side effects with ciprofloxacin tablets.
+- If you are pregnant, or plan to become pregnant while taking ciprofloxacin tablets, you and your healthcare provider should decide whether the benefits of taking ciprofloxacin tablets for anthrax are more important than the risks.
 
-What should I avoid while taking ciprofloxacin hydrochloride tablets?
+What should I avoid while taking ciprofloxacin tablets?
 
-- Ciprofloxacin hydrochloride tablets can make you feel dizzy and lightheaded.
-  Do not drive, operate machinery, or do other activities that require mental alertness or coordination until you know how ciprofloxacin hydrochloride tablets affect you.
+- Ciprofloxacin tablets can make you feel dizzy and lightheaded.
+  Do not drive, operate machinery, or do other activities that require mental alertness or coordination until you know how ciprofloxacin tablets affect you.
 - Avoid sunlamps, tanning beds, and try to limit your time in the sun.
-  Ciprofloxacin hydrochloride tablets can make your skin sensitive to the sun (photosensitivity) and the light from sunlamps and tanning beds.
+  Ciprofloxacin tablets can make your skin sensitive to the sun (photosensitivity) and the light from sunlamps and tanning beds.
   You could get severe sunburn, blisters or swelling of your skin.
-  If you get any of these symptoms while taking ciprofloxacin hydrochloride tablets, call your healthcare provider right away.
+  If you get any of these symptoms while taking ciprofloxacin tablets, call your healthcare provider right away.
   You should use a sunscreen and wear a hat and clothes that cover your skin if you have to be in sunlight.
 
-What are the possible side effects of ciprofloxacin hydrochloride tablets?
+What are the possible side effects of ciprofloxacin tablets?
 
-○ Ciprofloxacin hydrochloride tablets can cause side effects that may be serious or even cause death.
-See “What is the most important information I should know about ciprofloxacin hydrochloride tablets?”
+○ Ciprofloxacin tablets can cause side effects that may be serious or even cause death.
+See “What is the most important information I should know about ciprofloxacin tablets?”
 
-Other serious side effects of ciprofloxacin hydrochloride tablets include:
+Other serious side effects of ciprofloxacin tablets include:
 
 - Theophylline
 
-You may have serious seizure and breathing problems when you take theophylline with ciprofloxacin hydrochloride tablets.
+You may have serious seizure and breathing problems when you take theophylline with ciprofloxacin tablets.
 These problems may lead to death.
 Get emergency help right away if you have seizures or trouble breathing.
 
 - Central Nervous System effects
 
-Seizures have been reported in people who take fluoroquinolone antibiotics including ciprofloxacin hydrochloride tablets.
+Seizures have been reported in people who take fluoroquinolone antibiotics including ciprofloxacin tablets.
 Tell your healthcare provider if you have a history of seizures.
-Ask your healthcare provider whether taking ciprofloxacin hydrochloride tablets will change your risk of having a seizure.
+Ask your healthcare provider whether taking ciprofloxacin tablets will change your risk of having a seizure.
 
-Central Nervous System (CNS) side effects may happen as soon as after taking the first dose of ciprofloxacin hydrochloride tablets.
+Central Nervous System (CNS) side effects may happen as soon as after taking the first dose of ciprofloxacin tablets.
 Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
 
 - Feel dizzy
@@ -206,8 +206,8 @@ Talk to your healthcare provider right away if you get any of these side effects
 
 - Serious allergic reactions
 
-Allergic reactions, including death, can happen in people taking fluoroquinolones, including ciprofloxacin hydrochloride tablets, even after only one dose.
-Stop taking ciprofloxacin hydrochloride tablets and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
+Allergic reactions, including death, can happen in people taking fluoroquinolones, including ciprofloxacin tablets, even after only one dose.
+Stop taking ciprofloxacin tablets and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
 
 - Hives.
 - Trouble breathing or swallowing.
@@ -216,18 +216,18 @@ Stop taking ciprofloxacin hydrochloride tablets and get emergency medical help r
 - Rapid heartbeat.
 - Faint.
 - Yellowing of the skin or eyes.
-  Stop taking ciprofloxacin hydrochloride tablets and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
-  These can be signs of a serious reaction to ciprofloxacin hydrochloride tablets (a liver problem).
+  Stop taking ciprofloxacin tablets and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
+  These can be signs of a serious reaction to ciprofloxacin tablets (a liver problem).
 - Skin rash
 
-Skin rash may happen in people taking ciprofloxacin hydrochloride tablets, even after only one dose.
-Stop taking ciprofloxacin hydrochloride tablets at the first sign of a skin rash and call your healthcare provider.
-Skin rash may be a sign of a more serious reaction to ciprofloxacin hydrochloride tablets.
+Skin rash may happen in people taking ciprofloxacin tablets, even after only one dose.
+Stop taking ciprofloxacin tablets at the first sign of a skin rash and call your healthcare provider.
+Skin rash may be a sign of a more serious reaction to ciprofloxacin tablets.
 
 - Serious heart rhythm changes (QT prolongation and torsade de pointes)
 
 Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
-Ciprofloxacin hydrochloride tablets may cause a rare heart problem known as prolongation of the QT interval.
+Ciprofloxacin tablets may cause a rare heart problem known as prolongation of the QT interval.
 This condition can cause an abnormal heartbeat and can be very dangerous.
 The chances of this event are higher in people:
 
@@ -238,15 +238,15 @@ The chances of this event are higher in people:
 
 - Intestine infection (Pseudomembranous colitis)
 
-Pseudomembranous colitis can happen with most antibiotics, including ciprofloxacin hydrochloride tablets.
+Pseudomembranous colitis can happen with most antibiotics, including ciprofloxacin tablets.
 Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
 You may have stomach cramps and a fever.
 Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
 
-- Changes in sensation and possible nerve damage (Peripheral Neuropathy)
+- Changes in sensation and nerve damage (Peripheral Neuropathy)
 
-Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including ciprofloxacin hydrochloride tablets.
-Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including ciprofloxacin tablets.
+Stop ciprofloxacin tablets and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
 
 - Pain
 - Burning
@@ -254,22 +254,22 @@ Talk with your healthcare provider right away if you get any of the following sy
 - Numbness
 - Weakness
 
-Ciprofloxacin hydrochloride tablets may need to be stopped to prevent permanent nerve damage.
+The nerve damage may be permanent.
 
 - Low blood sugar (hypoglycemia)
 
-People who take ciprofloxacin hydrochloride tablets and other fluoroquinolone medicines with the oral anti-diabetes medicine glyburide (Micronase, Glynase, Diabeta, Glucovance) can get low blood sugar (hypoglycemia) which can sometimes be severe.
-Tell your healthcare provider if you get low blood sugar with ciprofloxacin hydrochloride tablets.
+People who take ciprofloxacin tablets and other fluoroquinolone medicines with the oral anti-diabetes medicine glyburide (Micronase, Glynase, Diabeta, Glucovance) can get low blood sugar (hypoglycemia) which can sometimes be severe.
+Tell your healthcare provider if you get low blood sugar with ciprofloxacin tablets.
 Your antibiotic medicine may need to be changed.
 
 - Sensitivity to sunlight (photosensitivity).
-  See “What should I avoid while taking ciprofloxacin hydrochloride tablets?”
+  See “What should I avoid while taking ciprofloxacin tablets?”
 - Joint Problems
 
 Increased chance of problems with joints and tissues around joints in children under 18 years old.
-Tell your child’s healthcare provider if your child has any joint problems during or after treatment with ciprofloxacin hydrochloride tablets.
+Tell your child’s healthcare provider if your child has any joint problems during or after treatment with ciprofloxacin tablets.
 
-The most common side effects of ciprofloxacin hydrochloride tablets include:
+The most common side effects of ciprofloxacin tablets include:
 
 - Nausea
 - Diarrhea
@@ -280,39 +280,41 @@ The most common side effects of ciprofloxacin hydrochloride tablets include:
 - Pain or discomfort in the abdomen
 - Headache
 
-These are not all the possible side effects of ciprofloxacin hydrochloride tablets.
+These are not all the possible side effects of ciprofloxacin tablets.
 Tell your healthcare provider about any side effect that bothers you, or that does not go away.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store ciprofloxacin hydrochloride tablets?
+How should I store ciprofloxacin tablets?
 
-- Ciprofloxacin hydrochloride tablets
-- Store ciprofloxacin hydrochloride tablets at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F).
+- Ciprofloxacin tablets
+- Store ciprofloxacin tablets at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F).
 
-Keep ciprofloxacin hydrochloride tablets and all medicines out of the reach of children.
+Keep ciprofloxacin tablets and all medicines out of the reach of children.
 
-General Information about Ciprofloxacin Hydrochloride Tablets Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use ciprofloxacin hydrochloride tablets for a condition for which it is not prescribed.
-Do not give ciprofloxacin hydrochloride tablets to other people, even if they have the same symptoms that you have.
+General Information about Ciprofloxacin Tablets Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use ciprofloxacin tablets for a condition for which it is not prescribed.
+Do not give ciprofloxacin tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Medication Guide summarizes the most important information about ciprofloxacin hydrochloride tablets.
-If you would like more information about ciprofloxacin hydrochloride tablets, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about ciprofloxacin hydrochloride tablets that is written for healthcare professionals.
+This Medication Guide summarizes the most important information about ciprofloxacin tablets.
+If you would like more information about ciprofloxacin tablets, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about ciprofloxacin tablets that is written for healthcare professionals.
 For more information call 1-800-272-5525.
 
-What are the ingredients in ciprofloxacin hydrochloride tablets?
+What are the ingredients in ciprofloxacin tablets?
 
-- Ciprofloxacin hydrochloride tablets:
+- Ciprofloxacin tablets:
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, polyvinyl alcohol, talc, titanium dioxide, polyethylene glycol and purified water
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Brands listed are the trademarks of their respective owners.
+
 Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: April 2012 2001366-02
+Revised: February 2014

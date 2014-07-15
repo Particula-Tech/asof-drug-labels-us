@@ -28,8 +28,10 @@
     Eur J Obstet Gynecol Reprod Biol.
     1996;69:83-89.
 
+Brands listed are the trademarks of their respective owners.
+
 Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: February 2013 2001365-03
+Revised: February 2013
