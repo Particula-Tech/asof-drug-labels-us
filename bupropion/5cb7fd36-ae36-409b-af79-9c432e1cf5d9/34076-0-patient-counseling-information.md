@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+## 17.1 Information for Patients
+
 See FDA-approved patient labeling (Medication Guide).
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with APLENZIN and should counsel them in its appropriate use.
@@ -27,6 +29,13 @@ Seizure
 Instruct patients to discontinue and not restart APLENZIN if they experience a seizure while on treatment.
 Advise patients that the excessive use or the abrupt discontinuation of alcohol, benzodiazepines, antiepileptic drugs, or sedatives/hypnotics can increase the risk of seizure.
 Advise patients to minimize or avoid the use of alcohol.
+
+Angle Closure Glaucoma
+
+Patients should be advised that taking WELLBUTRIN XL can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
 
 Bupropion-Containing Products
 

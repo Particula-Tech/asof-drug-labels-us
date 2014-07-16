@@ -43,7 +43,8 @@ Exercise caution when APLENZIN is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
+Safety and effectiveness in the pediatric population have not been established.
+When considering the use of APLENZIN in a child or adolescent, balance the potential risks with the clinical need [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 8.5 Geriatric Use
 
@@ -66,4 +67,4 @@ Monitor closely for adverse reactions that could indicate high bupropion or meta
 ## 8.7 Hepatic Impairment
 
 For patients with severe hepatic impairment, the maximum APLENZIN dose is 174 mg every other day.
-In patients with mild to moderate impairment, consider reducing the dose and/or frequency of dosing [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+In patients with mild to moderate impairment, consider reducing the dose and/or frequency of dosing [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].

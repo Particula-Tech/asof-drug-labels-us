@@ -21,11 +21,11 @@ Table 2: Risk Differences in the Number of Suicidality Cases by Age Group in the
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 | Increases Compared to Placebo |  |
-| <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
-| Decreases Compared to Placebo |  |
-| 25-64 | 1 fewer case |
-| ≥65 | 6 fewer cases |
+| <18 years | 14 additional cases |
+| 18-24 years | 5 additional cases |
+| Decrease Compared to Placebo |  |
+| 25-64 years | 1 fewer case |
+| ≥65 years | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -113,7 +113,11 @@ Some of these patients had a diagnosis of bipolar disorder.
 In some cases, these symptoms abated upon dose reduction and/or withdrawal of treatment.
 Discontinue APLENZIN if these reactions occur.
 
-## 5.7 Hypersensitivity Reactions
+## 5.7 Angle Closure Glaucoma
+
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including WELLBUTRIN XL may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.8 Hypersensitivity Reactions
 
 Anaphylactoid/anaphylactic reactions have occurred during clinical trials with bupropion.
 Reactions have been characterized by pruritus, urticaria, angioedema, and dyspnea, requiring medical treatment.

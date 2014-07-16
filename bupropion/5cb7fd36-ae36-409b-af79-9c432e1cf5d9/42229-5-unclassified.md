@@ -10,4 +10,5 @@ sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 Origin Canada
 
-LB0060-03 Rev 08/2012 APLENZIN® is a registered trademark of sanofi-aventis U.S. LLC
+9386801 Rev.
+07/2014 APLENZIN® is a registered trademark of sanofi-aventis U.S. LLC

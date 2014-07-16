@@ -32,7 +32,7 @@ The presence of food did not affect the peak concentration and time to peak plas
 
 Distribution
 
-In vitro tests show that bupropion is 84% bound to human plasma proteins at concentrations up to 200 mcg/mL.
+In vitro tests demonstrated that bupropion is 84% bound to human plasma proteins at concentrations up to 200 mcg/mL.
 The extent of protein binding of the hydroxybupropion metabolite is similar to that for bupropion, whereas the extent of protein binding of the threohydrobupropion metabolite is about half that of bupropion.
 
 Metabolism
