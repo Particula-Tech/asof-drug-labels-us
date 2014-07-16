@@ -17,14 +17,12 @@ The reported adverse reactions were generally mild and seldom led to discontinua
 
 Edema
 
-Edema is a known, dose-dependent adverse effect of amlodipine but not of olmesartan medoxomil.
-
-The placebo-subtracted incidence of edema during the 8-week, randomized, double-blind treatment period was highest with amlodipine 10 mg monotherapy.
+Edema is a known, dose-dependent adverse effect of amlodipine but not of olmesartan medoxomil.The placebo-subtracted incidence of edema during the 8-week, randomized, double-blind treatment period was highest with amlodipine 10 mg monotherapy.
 The incidence was significantly reduced when 20 mg or 40 mg of olmesartan medoxomil was added to the 10 mg amlodipine dose.
 
-Placebo Subtracted Incidence of Edema during the Double-Blind Treatment Period
+Placebo-Subtracted Incidence of Edema during the Double-Blind Treatment Period
 
-|  |  | Olmesartan | Medoximil |  |
+|  |  |  | Olmesartan Medoximil |  |
 | --- | --- | --- | --- | --- |
 |  |  | Placebo | 20 mg | 40 mg |
 |  | Placebo | * | -2.4% | 6.2% |
@@ -47,13 +45,15 @@ The incidences of discontinuation because of any treatment emergent adverse even
 
 Discontinuation for any Treatment Emergent Adverse Event1
 
-|  |  | Olmesartan Medoxomil |  |  |  |
+|  |  |  | Olmesartan | Medoximil |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Placebo | 10 mg | 20 mg | 40 mg |
-| Amlodipine | Placebo | 4.9% | 4.3% | 5.6% | 3.1% |
-| 5mg | 3.7% | 0.0% | 1.2% | 3.7% |  |
-| 10 mg | 5.5% | 6.8% | 2.5% | 5.6% |  |
-| *1Hypertension is counted as treatment failure and not as treatment emergent adverse event. N=160-163 subjects per treatment group. |  |  |  |  |  |
+|  | Placebo | 4.9% | 4.3% | 5.6% | 3.1% |
+| Almodopine | 5 mg | 3.7% | 0.0% | 1.2% | 3.7% |
+|  | 10 mg | 5.5% | 6.8% | 2.5% | 5.6% |
+
+*1Hypertension is counted as treatment failure and not as treatment emergent adverse event.
+N=160-163 subjects per treatment group
 
 Amlodipine
 
@@ -80,10 +80,9 @@ For several adverse experiences that appear to be drug- and dose-related, there 
 | Palpitation | 0.9 | 0.9 | 1.4 | 3.3 |
 | Somnolence | 0.8 | 0.3 | 1.3 | 1.6 |
 
-Olmesartan medoxomil
-
+Olmesartan medoxomil.
 Olmesartan medoxomil has been evaluated for safety in more than 3825 patients/subjects, including more than 3275 patients treated for hypertension in controlled trials.
-This experience included about 900 patients treated for at least 6 months and more than 525 for at least 1 year.
+This experience included about 900 patients treated for at least 6 months and more than 525 treated for at least 1 year.
 Treatment with olmesartan medoxomil was well tolerated, with an incidence of adverse events similar to that seen with placebo.
 Events were generally mild, transient, and without relationship to the dose of olmesartan medoxomil.
 
@@ -105,3 +104,16 @@ Olmesartan medoxomil.
 The following adverse reactions have been reported in post-marketing experience:
 
 Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema Gastrointestinal: vomiting, diarrhea, sprue-like enteropathy [see Warnings and Precautions (5.8)] Musculoskeletal: rhabdomyolysis Urogenital System: acute renal failure Skin and Appendages: alopecia, pruritus, urticaria
+
+Data from one controlled trial and an epidemiologic study have suggested that high-dose olmesartan may increase cardiovascular (CV) risk in diabetic patients, but the overall data are not conclusive.
+The randomized, placebo-controlled, double-blind ROADMAP trial (Randomized Olmesartan And Diabetes MicroAlbuminuria Prevention trial, n=4447) examined the use of olmesartan, 40 mg daily, vs. placebo in patients with type 2 diabetes mellitus, normoalbuminuria, and at least one additional risk factor for CV disease.
+The trial met its primary endpoint, decrease in time-to-onset of microalbuminuria, but olmesartan had no beneficial effect on decline in glomerular filtration rate (GFR).
+There was a finding of increased CV mortality (adjudicated sudden cardiac death, fatal myocardial infarction, fatal stroke, revascularization death) in the olmesartan group compared to the placebo group (15 olmesartan vs. 3 placebo, HR 4.9, 95% confidence interval [CI], 1.4, 17), but the risk of non-fatal myocardial infarction was lower with olmesartan (HR 0.64, 95% CI 0.35, 1.18).
+
+The epidemiologic study included patients 65 years and older with overall exposure of > 300,000 patient-years.
+In the sub-group of diabetic patients receiving high-dose olmesartan (40 mg/d) for > 6 months, there appeared to be an increased risk of death (HR 2.0, 95% CI 1.1, 3.8) compared to similar patients taking other angiotensin receptor blockers.
+In contrast, high-dose olmesartan use in non-diabetic patients appeared to be associated with a decreased risk of death (HR 0.46, 95% CI 0.24, 0.86) compared to similar patients taking other angiotensin receptor blockers.
+No differences were observed between the groups receiving lower doses of olmesartan compared to other angiotensin blockers or those receiving therapy for < 6 months.
+
+Overall, these data raise a concern of a possible increased CV risk associated with the use of high-dose olmesartan in diabetic patients.
+There are, however, concerns with the credibility of the finding of increased CV risk, notably the observation in the large epidemiologic study for a survival benefit in non-diabetics of a magnitude similar to the adverse finding in diabetics.
