@@ -1,7 +1,6 @@
 {
   "application_numbers": [
-    "NDA020822",
-    "NDA021046"
+    "NDA020822"
   ],
   "inn": "citalopram",
   "labeler": "Forest Laboratories, Inc.",
@@ -12,15 +11,9 @@
     "0456-4020-63",
     "0456-4040-01",
     "0456-4040-11",
-    "0456-4040-63",
-    "0456-4130-08"
+    "0456-4040-63"
   ],
   "products": [
-    {
-      "form": "SUSPENSION",
-      "generic": "citalopram hydrobromide",
-      "name": "Celexa"
-    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "citalopram hydrobromide",

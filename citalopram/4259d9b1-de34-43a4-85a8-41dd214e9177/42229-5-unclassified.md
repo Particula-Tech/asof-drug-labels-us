@@ -97,3 +97,7 @@ Celexa should be discontinued before initiating treatment with the MAOI (see CON
 If concomitant use of Celexa with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, trytophan and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome particularly during treatment initiation and dose increases.
 
 Treatment with Celexa and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+
+## Angle Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including Celexa may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.

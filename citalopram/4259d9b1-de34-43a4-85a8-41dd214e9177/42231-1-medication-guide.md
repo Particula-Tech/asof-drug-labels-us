@@ -101,6 +101,16 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
+10.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
 Do not stop Celexa without first talking to your healthcare provider.
 Stopping Celexa too quickly may cause serious symptoms including:
 
@@ -265,10 +275,10 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: November 2013
+Revised: July 2014
 
 Distributed by: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045 USA
 
 Licensed from H. Lundbeck A/S
 
-© 2010, 2011, 2012, 2013 Forest Laboratories, Inc.
+© 2010, 2011, 2012, 2013, 2014 Forest Laboratories, Inc.

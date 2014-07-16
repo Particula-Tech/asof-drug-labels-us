@@ -72,6 +72,11 @@ Physicians are advised to discuss the following issues with patients for whom th
 
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Celexa and triptans, tramadol or other serotonergic agents.
 
+Patients should be advised that taking Celexa can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+
 Although in controlled studies Celexa has not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking, or motor skills, so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that Celexa therapy does not affect their ability to engage in such activities.
 
 Patients should be told that, although Celexa has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of Celexa and alcohol in depressed patients is not advised.

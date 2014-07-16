@@ -1,7 +1,3 @@
-# Principal Display Panel – 10mg/5ml Bottle Label - Oral Solution
-
-Image not Available
-
 # Principal Display Panel – 10mg Bottle Label
 
 NDC 0456-4010-01
