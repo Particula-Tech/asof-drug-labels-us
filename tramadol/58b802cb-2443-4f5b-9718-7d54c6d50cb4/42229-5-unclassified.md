@@ -1,5 +1,3 @@
-Full Prescribing Information
-
 Manufactured by:
 
 Amneal Pharmaceuticals
@@ -19,4 +17,4 @@ Amneal Pharmaceuticals
 Glasgow, KY 42141
 
 Rev.
-03-2011
+07-2014-00
