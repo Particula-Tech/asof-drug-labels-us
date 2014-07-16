@@ -1,6 +1,6 @@
 Medication Guide
 
-Lexapro (leks-a-pro) (escitalopram oxalate) Tablets/Oral Solution
+Lexapro® (leks-a-pro) (escitalopram oxalate) Tablets/Oral Solution
 
 Read the Medication Guide that comes with Lexapro before you start taking it and each time you get a refill.
 There may be new information.
@@ -85,6 +85,14 @@ Symptoms may include:
 - headache
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
+
+9.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 Do not stop Lexapro without first talking to your healthcare provider.
 Stopping Lexapro too quickly may cause serious symptoms including:
@@ -248,8 +256,8 @@ Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, 
 
 Licensed from H. Lundbeck A/S
 
-Revised: December 2012
+Revised: July 2014
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2012 Forest Laboratories, Inc.
+© 2014 Forest Laboratories, Inc.

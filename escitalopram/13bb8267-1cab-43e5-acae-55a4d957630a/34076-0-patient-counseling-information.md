@@ -31,6 +31,13 @@ Abnormal Bleeding
 
 Patients should be cautioned about the concomitant use of Lexapro and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.7)].
 
+Angle Closure Glaucoma
+
+Patients should be advised that taking Lexapro can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.9)].
+
 Concomitant Medications
 
 Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered.

@@ -275,7 +275,7 @@ Ear and labyrinth disorders: vertigo
 
 Endocrine Disorders: diabetes mellitus, hyperprolactinemia, SIADH.
 
-Eye Disorders: diplopia, glaucoma, mydriasis, visual disturbance.
+Eye Disorders: diplopia, angle closure glaucoma, mydriasis, visual disturbance.
 
 Gastrointestinal Disorder: dysphagia, gastrointestinal hemorrhage, gastroesophageal reflux, pancreatitis, rectal hemorrhage.
 
@@ -285,7 +285,7 @@ Hepatobiliary Disorders: fulminant hepatitis, hepatic failure, hepatic necrosis,
 
 Immune System Disorders: allergic reaction, anaphylaxis.
 
-Investigations: bilirubin increased, decreased weight, electrocardiogram QT prolongation, hepatic enzymes increased,hypercholesterolemia, INR increased, prothrombin decreased.
+Investigations: bilirubin increased, decreased weight, electrocardiogram QT prolongation, hepatic enzymes increased, hypercholesterolemia, INR increased, prothrombin decreased.
 
 Metabolism and Nutrition Disorders: hyperglycemia, hypoglycemia, hypokalemia, hyponatremia.
 
