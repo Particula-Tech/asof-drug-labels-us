@@ -18,13 +18,13 @@ Table 2: Cumulative Incidence of Adverse Reactions for Tramadol Hydrochloride in
 | Somnolence | 16% | 23% | 25% |
 | Vomiting | 9% | 13% | 17% |
 | Pruritus | 8% | 10% | 11% |
-| “CNS Stimulation”1 | 7% | 11% | 14% |
+| "CNS Stimulation"1 | 7% | 11% | 14% |
 | Asthenia | 6% | 11% | 12% |
 | Sweating | 6% | 7% | 9% |
 | Dyspepsia | 5% | 9% | 13% |
 | Dry Mouth | 5% | 9% | 10% |
 | Diarrhea | 5% | 6% | 10% |
-| 1 “CNS Stimulation” is a composite of nervousness, anxiety, agitation, tremor, spasticity, euphoria, emotional liability, and hallucinations. |  |  |  |
+| 1 "CNS Stimulation" is a composite of nervousness, anxiety, agitation, tremor, spasticity, euphoria, emotional liability, and hallucinations. |  |  |  |
 
 Incidence 1% to less than 5%, possibly casually related: the following lists adverse reactions that occurred with an incidence of 1% to less than 5% in clinical trials, and for which the possibility of a causal relationship with tramadol exists.
 
