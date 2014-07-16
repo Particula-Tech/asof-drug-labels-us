@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects:
+Teratogenic Effects:
 
 Pregnancy Category C. Studies in pregnant rats showed that abacavir is transferred to the fetus through the placenta.
 Fetal malformations (increased incidences of fetal anasarca and skeletal malformations) and developmental toxicity (depressed fetal body weight and reduced crown-rump length) were observed in rats at a dose which produced 35 times the human exposure, based on AUC.

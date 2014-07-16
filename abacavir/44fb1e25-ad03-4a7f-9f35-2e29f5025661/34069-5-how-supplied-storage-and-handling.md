@@ -3,7 +3,7 @@
 Abacavir tablets USP, containing abacavir sulfate USP equivalent to 300 mg abacavir are yellow colored, biconvex, capsule shaped, film coated tablets debossed with ‘H’ on one side and ‘139’ on other side separating 13 & 9 with score line.
 They are packaged as follows:
 
-NDC 31722-557-60 bottles of 60
+Bottles of 60 tablets NDC 31722-557-60
 
 Recommended Storage
 

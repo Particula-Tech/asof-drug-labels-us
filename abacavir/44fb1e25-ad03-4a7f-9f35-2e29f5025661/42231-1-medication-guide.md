@@ -1,9 +1,10 @@
-# SPL MEDGUIDE
+# MEDICATION GUIDE
 
 Abacavir Tablets USP Read this Medication Guide before you start taking abacavir sulfate and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
-Be sure to carry your abacavir sulfate Warning Card with you at all times.What is the most important information I should know about abacavir sulfate?
+Be sure to carry your abacavir sulfate Warning Card with you at all times.
+What is the most important information I should know about abacavir sulfate?
 1.
 Serious allergic reaction (hypersensitivity reaction).
 Abacavir Sulfate contains abacavir (also contained in EPZICOM® and TRIZIVIR®).
@@ -11,15 +12,15 @@ Patients taking abacavir sulfate may have a serious allergic reaction (hypersens
 Your risk of this allergic reaction is much higher if you have a gene variation called HLA-B*5701.
 Your healthcare provider can determine with a blood test if you have this gene variation.
 
-If you get a symptom from 2 or more of the following groups while taking abacavir sulfate, call your healthcare provider right away to find out if you should stop taking Abacavir Sulfate.
+If you get a symptom from 2 or more of the following groups while taking abacavir sulfate, call your healthcare provider right away to find out if you should stop taking abacavir sulfate.
 
 |  | Symptom(s) |
 | --- | --- |
-| Group 1 | Fever |
-| Group 2 | Rash |
-| Group 3 | Nausea, vomiting, diarrhea, abdominal (stomach area) pain |
-| Group 4 | Generally ill feeling, extreme tiredness, or achiness |
-| Group 5 | Shortness of breath, cough, sore throat |
+| Group1 | Fever |
+| Group2 | Rash |
+| Group3 | Nausea, vomiting, diarrhea, abdominal (stomach area) pain |
+| Group4 | Generally ill feeling, extreme tiredness, or achiness |
+| Group5 | Shortness of breath, cough, sore throat |
 
 A list of these symptoms is on the Warning Card your pharmacist gives you.
 Carry this Warning Card with you at all times.
@@ -40,10 +41,10 @@ Call your healthcare provider right away if you get any of the following signs o
 
 What is abacavir sulfate?
 
-Abacavir Sulfate is a prescription medicine used to treat HIV infection.
+Abacavir sulfate is a prescription medicine used to treat HIV infection.
 Abacavir Sulfate is a medicine called a nucleoside analogue reverse transcriptase inhibitor (NRTI).
-Abacavir Sulfate is always used with other anti-HIV medicines.
-When used in combination with these other medicines, abacavir sulfate helps lower the amount of HIV in your blood. • Abacavir Sulfate does not cure HIV infection or AIDS.
+Abacavir sulfate is always used with other anti-HIV medicines.
+When used in combination with these other medicines, abacavir sulfate helps lower the amount of HIV in your blood. • Abacavir sulfate does not cure HIV infection or AIDS.
 
 • It is not known if abacavir sulfate will help you live longer or have fewer of the medical problems that people get with HIV or AIDS. • It is very important that you see your doctor regularly while you are taking abacavir sulfate.
 Who should not take abacavir sulfate?
@@ -94,10 +95,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store abacavir sulfate?
 
-• Store abacavir sulfate at room temperature, between 20° to 25°C (68° to 77°F).
-Do not freeze abacavir sulfate.
-
-• Keep abacavir sulfate and all medicines out of the reach of children.
+- Store abacavir sulfate at room temperature, between 20° to 25°C (68° to 77°F).
+- Do not freeze abacavir sulfate.
+- Keep abacavir sulfate and all medicines out of the reach of children.
 
 General information for safe and effective use of abacavir sulfate
 
@@ -121,5 +121,5 @@ The tablets are coated with opadry yellow which contains hypromellose, titanium 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Hetero Labs Limited.
-Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854 By: HETEROTM HETERO LABS LIMITED 2022274 22-110, I.D.A., Jeedimetla, Hyderabad – 500 055, India.
-December 2012
+Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854 By: HETEROTM HETERO LABS LIMITED 22-110, I.D.A., Jeedimetla, Hyderabad – 500 055, India.
+Revised: April 2014

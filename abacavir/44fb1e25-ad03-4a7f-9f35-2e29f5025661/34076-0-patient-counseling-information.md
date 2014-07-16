@@ -7,7 +7,7 @@ See FDA-approved patient labeling (Medication Guide)
 Hypersensitivity Reaction: Inform patients:
 
 • that a Medication Guide and Warning Card summarizing the symptoms of the abacavir hypersensitivity reaction and other product information will be dispensed by the pharmacist with each new prescription and refill of abacavir sulfate, and encourage the patient to read the Medication Guide and Warning Card every time to obtain any new information that may be present about abacavir sulfate.
-(The complete text of the Medication Guide is reprinted at the end of this document.) • to carry the Warning Card with them. • how to identify a hypersensitivity reaction [see Medication Guide (17.2)]. • that if they develop symptoms consistent with a hypersensitivity reaction they should call their doctor right away to determine if they should stop taking abacavir sulfate. • that a hypersensitivity reaction can worsen and lead to hospitalization or death if abacavir sulfate is not immediately discontinued. • that in one trial, more severe hypersensitivity reactions were seen when abacavir sulfate was dosed 600 mg once daily. • to not restart abacavir sulfate or any other abacavir-containing product following a hypersensitivity reaction because more severe symptoms can occur within hours and may include life-threatening hypotension and death. • that a hypersensitivity reaction is usually reversible if it is detected promptly and abacavir sulfate is stopped right away. • that if they have interrupted abacavir sulfate for reasons other than symptoms of hypersensitivity (for example, those who have an interruption in drug supply), a serious or fatal hypersensitivity reaction may occur with reintroduction of abacavir. • to not restart abacavir sulfate or any other abacavir-containing product without medical consultation and that restarting abacavir needs to be undertaken only if medical care can be readily accessed by the patient or others. • Abacavir Sulfate should not be coadministered with EPZICOM® (abacavir sulfate and lamivudine) Tablets or TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine) Tablets.
+(The complete text of the Medication Guide is reprinted at the end of this document.) • to carry the Warning Card with them. • how to identify a hypersensitivity reaction [see Medication Guide]. • that if they develop symptoms consistent with a hypersensitivity reaction they should call their doctor right away to determine if they should stop taking abacavir sulfate. • that a hypersensitivity reaction can worsen and lead to hospitalization or death if abacavir sulfate is not immediately discontinued. • that in one trial, more severe hypersensitivity reactions were seen when abacavir sulfate was dosed 600 mg once daily. • to not restart abacavir sulfate or any other abacavir-containing product following a hypersensitivity reaction because more severe symptoms can occur within hours and may include life-threatening hypotension and death. • that a hypersensitivity reaction is usually reversible if it is detected promptly and abacavir sulfate is stopped right away. • that if they have interrupted abacavir sulfate for reasons other than symptoms of hypersensitivity (for example, those who have an interruption in drug supply), a serious or fatal hypersensitivity reaction may occur with reintroduction of abacavir. • to not restart abacavir sulfate or any other abacavir-containing product without medical consultation and that restarting abacavir needs to be undertaken only if medical care can be readily accessed by the patient or others. • Abacavir Sulfate should not be coadministered with EPZICOM® (abacavir sulfate and lamivudine) Tablets or TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine) Tablets.
 
 Lactic Acidosis/Hepatomegaly: Inform patients that some HIV medicines, including abacavir sulfate, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Boxed Warning, Warnings and Precautions (5.2)].
 
@@ -31,7 +31,7 @@ Piscataway, NJ 08854
 
 By:HETEROTM
 
-HETERO LABS LIMITED 2022275
+HETERO LABS LIMITED 2024627
 
 22-110, I.D.A., Jeedimetla,
 
@@ -39,4 +39,4 @@ Hyderabad – 500 055, India.
 
 Barcode
 
-Revised: 12/2012
+Revised: April 2014

@@ -32,7 +32,7 @@ Proportions of subjects with plasma HIV-1 RNA less than 400 copies/mL (using Roc
 Table 8.
 Outcomes of Randomized Treatment Through Week 48 (CNA3005)
 
-| Outcome | Abacavir sulfate plus Lamivudine/Zidovudine (n = 262) | Indinavir plus Lamivudine/Zidovudine (n = 265) |
+| Outcome | Abacavir sulphate plus Lamivudine/Zidovudine (n = 262) | Indinavir plus Lamivudine/Zidovudine (n = 265) |
 | --- | --- | --- |
 | Respondera | 49% | 50% |
 | Virologic failureb | 31% | 28% |

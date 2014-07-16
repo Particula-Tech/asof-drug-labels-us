@@ -1,8 +1,8 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-• A Medication Guide and Warning Card that provide information about recognition of hypersensitivity reactions should be dispensed with each new prescription and refill. • Abacavir tablet may be taken with or without food
+• A Medication Guide and Warning Card that provide information about recognition of hypersensitivity reactions should be dispensed with each new prescription and refill. • Abacavir tablet may be taken with or without food.
 
-## 2.1 Adults patients
+## 2.1 Adults Patients
 
 The recommended oral dose of abacavir tablet for adults is 600 mg daily, administered as either 300 mg twice daily or 600 mg once daily, in combination with other antiretroviral agents.
 
@@ -13,16 +13,16 @@ Before prescribing abacavir tablets, children should be assessed for the ability
 If a child is unable to reliably swallow abacavir tablets, the oral solution formulation should be prescribed.
 The recommended oral dosage of abacavir tablets for HIV-1-infected pediatric patients is presented in Table 1.
 Table 1.
-Dosing Recommendations for abacavir tablets in Pediatric Patients
+Dosing Recommendations for Abacavir Tablets in Pediatric Patients
 
-| Weight (Kg) | Dosage Regimen Using Scored Tablet |  | Total Daily Dose |
+| Weight (kg) | Dosage Regimen Using Scored Tablet |  | Total Daily Dose |
 | --- | --- | --- | --- |
 | AM Dose | PM Dose |  |  |
 | 14 to 21 | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
 | >21 to <30 | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
 | ≥30 | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
 
-## 2.3 Patients with Hepatic Impairment
+## 2.3 Patients With Hepatic Impairment
 
 The recommended dose of abacavir tablet in patients with mild hepatic impairment (Child-Pugh score 5 to 6) is 200 mg twice daily.
 To enable dose reduction, abacavir oral solution (10 mL twice daily) should be used for the treatment of these patients.

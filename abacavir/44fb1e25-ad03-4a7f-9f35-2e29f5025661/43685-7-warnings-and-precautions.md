@@ -7,10 +7,14 @@ Patients who carry the HLA-B*5701 allele are at high risk for experiencing a hyp
 Prior to initiating therapy with abacavir, screening for the HLA-B*5701 allele is recommended; this approach has been found to decrease the risk of a hypersensitivity reaction.
 Screening is also recommended prior to reinitiation of abacavir in patients of unknown HLA-B*5701 status who have previously tolerated abacavir.
 For HLA-B*5701-positive patients, treatment with an abacavir-containing regimen is not recommended and should be considered only with close medical supervision and under exceptional circumstances when the potential benefit outweighs the risk.
+
 HLA-B*5701-negative patients may develop a hypersensitivity reaction to abacavir; however, this occurs significantly less frequently than in HLA-B*5701-positive patients.
 Regardless of HLA-B*5701 status, permanently discontinue abacavir sulfate if hypersensitivity cannot be ruled out, even when other diagnoses are possible.
+
 Important information on signs and symptoms of hypersensitivity, as well as clinical management, is presented below.
+
 Signs and Symptoms of Hypersensitivity: Hypersensitivity to abacavir is a multi-organ clinical syndrome usually characterized by a sign or symptom in 2 or more of the following groups.
+
 Group 1: Fever Group 2: Rash Group 3: Gastrointestinal (including nausea, vomiting, diarrhea, or abdominal pain) Group 4: Constitutional (including generalized malaise, fatigue, or achiness) Group 5: Respiratory (including dyspnea, cough, or pharyngitis).
 
 Hypersensitivity to abacavir following the presentation of a single sign or symptom has been reported infrequently.
@@ -20,9 +24,8 @@ Data on time to onset and symptoms of suspected hypersensitivity were collected 
 The frequencies of symptoms are shown in Figure 1.
 Symptoms usually appeared within the first 6 weeks of treatment with abacavir, although the reaction may occur at any time during therapy.
 Median time to onset was 9 days; 89% appeared within the first 6 weeks; 95% of subjects reported symptoms from 2 or more of the 5 groups listed above.
-Figure 1 Hypersensitivity-Related Symptoms Reported With ≥10% Frequency in Clinical Trials (n = 206 Subjects)
 
-Other less common signs and symptoms of hypersensitivity include lethargy, myolysis, edema, abnormal chest x-ray findings (predominantly infiltrates, which can be localized), and paresthesia.
+Figure 1 Hypersensitivity-Related Symptoms Reported With ≥10% Frequency in Clinical Trials (n = 206 Subjects) Other less common signs and symptoms of hypersensitivity include lethargy, myolysis, edema, abnormal chest x-ray findings (predominantly infiltrates, which can be localized), and paresthesia.
 Anaphylaxis, liver failure, renal failure, hypotension, adult respiratory distress syndrome, respiratory failure, and death have occurred in association with hypersensitivity reactions.
 In one trial, 4 subjects (11%) receiving abacavir sulfate 600 mg once daily experienced hypotension with a hypersensitivity reaction compared with 0 subjects receiving abacavir sulfate 300 mg twice daily.
 
@@ -47,7 +50,7 @@ Even in the absence of the HLA-B*5701 allele, it is important to permanently dis
 If symptoms consistent with hypersensitivity are not identified, reintroduction can be undertaken with continued monitoring for symptoms of a hypersensitivity reaction.
 Make patients aware that a hypersensitivity reaction can occur with reintroduction of abacavir sulfate or any other abacavir-containing product and that reintroduction of abacavir sulfate or any other abacavir-containing product needs to be undertaken only if medical care can be readily accessed by the patient or others.
 
-Risk Factor: HLA-B*5701 Allele: Trials, have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
+Risk Factor:HLA-B*5701 Allele: Trials have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
 
 CNA106030 (PREDICT-1), a randomized, double-blind trial evaluated the clinical utility of prospective HLA-B*5701 screening on the incidence of abacavir hypersensitivity reaction in abacavir-naive HIV-1-infected adults (n = 1,650).
 In this trial, use of pre-therapy screening for the HLA-B*5701 allele and exclusion of subjects with this allele reduced the incidence of clinically suspected abacavir hypersensitivity reactions from 7.8% (66/847) to 3.4% (27/803).
@@ -62,7 +65,7 @@ Skin patch testing is used as a research tool and should not be used to aid in t
 In any patient treated with abacavir, the clinical diagnosis of hypersensitivity reaction must remain the basis of clinical decision-making.
 Even in the absence of the HLA-B*5701 allele, it is important to permanently discontinue abacavir and not rechallenge with abacavir if a hypersensitivity reaction cannot be ruled out on clinical grounds, due to the potential for a severe or even fatal reaction.
 
-## 5.2 Lactic Acidosis/Severe Hepatomegaly with Steatosis
+## 5.2 Lactic Acidosis/Severe Hepatomegaly With Steatosis
 
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including abacavir and other antiretrovirals.
 A majority of these cases have been in women.
