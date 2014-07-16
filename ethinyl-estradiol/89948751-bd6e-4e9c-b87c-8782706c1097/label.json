@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202771"
+  ],
+  "inn": "ethinyl-estradiol",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-7280-53",
+    "0378-7280-98"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "norethindrone acetate and ethinyl estradiol",
+      "name": "NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL"
+    }
+  ],
+  "setid": "89948751-bd6e-4e9c-b87c-8782706c1097",
+  "source": "dailymed"
+}
