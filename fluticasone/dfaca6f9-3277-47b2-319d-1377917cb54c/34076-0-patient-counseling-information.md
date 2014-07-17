@@ -52,7 +52,6 @@ Ocular Effects: Long-term use of inhaled corticosteroids may increase the risk o
 Patients should be informed of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
 ADVAIR, ADVAIR DISKUS, DISKUS, FLONASE, FLOVENT, ROTADISK, SEREVENT, and VENTOLIN are registered trademarks of the GSK group of companies.
-
 The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 

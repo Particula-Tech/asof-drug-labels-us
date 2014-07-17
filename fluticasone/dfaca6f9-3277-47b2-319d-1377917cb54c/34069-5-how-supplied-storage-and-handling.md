@@ -25,4 +25,4 @@ Never throw container into fire or incinerator.
 Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
 Store the inhaler with the mouthpiece down.
 For best results, the inhaler should be at room temperature before use.
-Shake well FOR 5 SECONDS before using.
+SHAKE WELL FOR 5 SECONDS BEFORE USING.
