@@ -1,5 +1,41 @@
-NDC 54092-189-81 - 250 mg bottle of 240 capsules
+# PRINCIPAL DISPLAY PANEL - 250 mg Capsule Bottle Label
 
-NDC 54092-191-12 - 500 mg bottle of 120 capsules
+189-81 NDC 54092-189-81
 
-NDC 54092-191-08 - 500 mg sample carton of 8 capsules
+Pentasa® (mesalamine)
+
+Controlled-Release Capsules
+
+240 CAPSULES Rx only
+
+250 mg Shire
+
+# PRINCIPAL DISPLAY PANEL - 500 mg Capsule Bottle Label
+
+191-12 NDC 54092-191-12
+
+Pentasa® (mesalamine)
+
+Controlled-Release Capsules
+
+120 CAPSULES Rx only
+
+500 mg Shire
+
+# PRINCIPAL DISPLAY PANEL - 500 mg Capsule Sample Carton
+
+191-08 NDC 54092-191-08
+
+Pentasa® (mesalamine)
+
+Controlled-Release Capsules
+
+8 CAPSULES
+
+Rx only
+
+Patient Sample–Not for Sale
+
+500 mg
+
+Shire
