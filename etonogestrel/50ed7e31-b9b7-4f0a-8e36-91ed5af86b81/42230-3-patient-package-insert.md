@@ -207,8 +207,6 @@ What are the possible risks of using IMPLANON?
   - High blood pressure
   - Gallbladder problems
   - Rare cancerous or noncancerous liver tumors
-- Broken or Bent Implant If the implant breaks or bends while in your arm, how the implant works should not be affected.
-  If you have questions contact your healthcare provider.
 
 When should I call my healthcare provider?
 
@@ -217,7 +215,7 @@ Call your healthcare provider right away if you have:
 - Pain in your lower leg that does not go away
 - Severe chest pain or heaviness in the chest
 - Sudden shortness of breath, sharp chest pain, or coughing blood
-- Symptoms of a severe allergic reaction, such as swollen face, tongue or pharynx; trouble swallowing; or hives and trouble breathing
+- Symptoms of a severe allergic reaction, such as swollen face, tongue or throat; trouble breathing or swallowing
 - Sudden severe headache unlike your usual headaches
 - Weakness or numbness in your arm, leg, or trouble speaking
 - Sudden partial or complete blindness
