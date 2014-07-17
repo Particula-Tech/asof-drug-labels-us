@@ -20,3 +20,5 @@ Some antihypertensive drugs have smaller blood pressure effects (as monotherapy)
 These considerations may guide selection of therapy.
 
 It may be used alone or in combination with other antihypertensive agents [see Clinical Studies (14.1)].
+
+Use of telmisartan with an ACE inhibitor is not recommended [see Warnings and Precautions (5.6)].

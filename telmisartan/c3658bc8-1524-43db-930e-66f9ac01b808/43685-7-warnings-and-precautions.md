@@ -40,3 +40,6 @@ There has been no long term use of telmisartan in patients with unilateral or bi
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function (including acute renal failure) have been reported.
 Dual blockade of the renin-angiotensin-aldosterone system (e.g., by adding an ACE inhibitor to an angiotensin II receptor antagonist) should include close monitoring of renal function.
+
+Patients receiving the combination of telmisartan and ramipril (in ONTARGET trial that enrolled 25,620 patients ≥ 55 years old with atherosclerotic disease or diabetes with end-organ damage) did not obtain any additional benefit compared to monotherapy, but experienced an increased incidence of renal dysfunction (e.g., acute renal failure) compared with groups receiving telmisartan alone or ramipril alone.
+Concomitant use of telmisartan and ramipril is not recommended.

@@ -80,19 +80,19 @@ Telmisartan tablets may cause serious side effects, including:
 - •Injury or death to your unborn baby.
   See “What is the most important information I should know about telmisartan tablets?”
 - •Low blood pressure (hypotension) is most likely to happen if you also:
-  - otake water pills (diuretics)
-  - oare on a low-salt diet
-  - oget dialysis treatments
-  - ohave heart problems
-  - oget sick with vomiting or diarrhea
+  - •take water pills (diuretics)
+  - •are on a low-salt diet
+  - •get dialysis treatments
+  - •have heart problems
+  - •get sick with vomiting or diarrhea
 
 If you feel faint or dizzy, lie down and call your doctor right away.
 
 - •Kidney problems, which may get worse if you already have kidney disease.
   You may have changes in your kidney test results, and you may need a lower dose of telmisartan tablets.
   Call your doctor if you get:
-  - oswelling in your feet, ankles, or hands
-  - ounexplained weight gain
+  - •swelling in your feet, ankles, or hands
+  - •unexplained weight gain
 
 Call your doctor right away if you get any of the symptoms listed above.
 
@@ -160,6 +160,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-75053006
-
-DECEMBER 2013 MX:TLMS:R1ppt
+REVISED JULY 2014 75054570 MX:TLMS:R2ppt
