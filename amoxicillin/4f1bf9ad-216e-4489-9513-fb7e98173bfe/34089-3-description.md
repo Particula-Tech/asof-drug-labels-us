@@ -1,6 +1,6 @@
 # 11. DESCRIPTION
 
-MOXATAG (amoxicillin extended-release) tablets for oral administration are provided as blue film-coated, oval shaped tablets that contain 775 mg of amoxicillin as the trihydrate and are printed with ”MB-111” on one side in black edible ink.
+MOXATAG (amoxicillin extended-release) tablets for oral administration are provided as blue film-coated, oval shaped tablets that contain 775 mg of amoxicillin as the trihydrate and are printed with "MB-111" on one side in black edible ink.
 
 Amoxicillin is a semi-synthetic antibiotic, an analog of ampicillin, with bactericidal activity against gram-positive and gram-negative microorganisms.
 

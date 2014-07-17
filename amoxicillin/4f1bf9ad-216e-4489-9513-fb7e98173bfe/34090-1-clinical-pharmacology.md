@@ -93,8 +93,8 @@ Susceptibility Test Results Interpretive Criteria for Beta-Hemolytic Streptococc
 | Penicillin | ≤0.12 = Susceptible | ≥24 = Susceptible |
 | Ampicillin | ≤0.25 = Susceptible | ≥24 = Susceptible |
 
-The current absence of data on resistant isolates precludes defining any categories other than “Susceptible”.
-Isolates yielding results suggestive of a “nonsusceptible” category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing.
+The current absence of data on resistant isolates precludes defining any categories other than "Susceptible".
+Isolates yielding results suggestive of a "nonsusceptible" category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing.
 
 Quality Control
 
