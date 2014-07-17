@@ -71,6 +71,10 @@ If concomitant use of ZOLOFT with other serotonergic drugs including triptans, t
 
 Treatment with ZOLOFT and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
+### Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including Zoloft may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
 # PRECAUTIONS
 
 ## General
@@ -163,12 +167,6 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 There have been rare reports of altered platelet function and/or abnormal results from laboratory studies in patients taking ZOLOFT.
 While there have been reports of abnormal bleeding or purpura in several patients taking ZOLOFT, it is unclear whether ZOLOFT had a causative role.
 
-### Angle-Closure Glaucoma
-
-SSRIs including sertraline may have an effect on pupil size resulting in mydriasis.
-This mydriatic effect has the potential to narrow the eye angle resulting in increased intraocular pressure and angle-closure glaucoma, especially in patients pre-disposed.
-Sertraline should therefore be used with caution in patients with angle-closure glaucoma or history of glaucoma.
-
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with ZOLOFT and should counsel them in its appropriate use.
@@ -187,6 +185,11 @@ Such symptoms should be reported to the patient's prescriber or health professio
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of SNRIs and SSRIs, including ZOLOFT, and triptans, tramadol, or other serotonergic agents.
+
+Patients should be advised that taking Zoloft can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
 Patients should be told that although ZOLOFT has not been shown to impair the ability of normal subjects to perform tasks requiring complex motor and mental skills in laboratory experiments, drugs that act upon the central nervous system may affect some individuals adversely.
 Therefore, patients should be told that until they learn how they respond to ZOLOFT they should be careful doing activities when they need to be alert, such as driving a car or operating machinery.

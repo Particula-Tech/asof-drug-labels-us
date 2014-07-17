@@ -177,7 +177,7 @@ It is important to emphasize that although the events reported occurred during t
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 Events of major clinical importance are also described in the PRECAUTIONS section.
 
-Autonomic Nervous System Disorders–Frequent: impotence; Infrequent: flushing, increased saliva, cold clammy skin, mydriasis; Rare: pallor, glaucoma, priapism, vasodilation.
+Autonomic Nervous System Disorders–Frequent: impotence; Infrequent: flushing, increased saliva, cold clammy skin, mydriasis; Rare: pallor, angle-closure glaucoma, priapism, vasodilation.
 
 Body as a Whole–General Disorders–Rare: allergic reaction, allergy.
 

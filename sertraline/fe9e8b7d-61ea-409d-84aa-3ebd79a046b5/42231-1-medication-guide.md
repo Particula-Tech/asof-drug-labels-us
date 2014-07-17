@@ -58,6 +58,11 @@ ZOLOFT and other antidepressant medicines may cause serious side effects, includ
   - headache
   - weakness or feeling unsteady
   - confusion, problems concentrating or thinking or memory problems
+- 9.Visual problemsOnly some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+  - eye pain
+  - changes in vision
+  - swelling or redness in or around the eye
 
 Do not stop ZOLOFT without first talking to your healthcare provider.
 Stopping ZOLOFT too quickly may cause serious symptoms including:
@@ -247,6 +252,6 @@ Inactive ingredients
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-LAB-0540-3.0
+LAB-0540-4.0
 
-December 2012
+May 2014
