@@ -1,0 +1,3 @@
+# 10 OVERDOSAGE
+
+Topically applied fluocinonide cream USP, 0.1% can be absorbed in sufficient amounts to produce systemic effects [see Warnings and Precautions (5.1)].

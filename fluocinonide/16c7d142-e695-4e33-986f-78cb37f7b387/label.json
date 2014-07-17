@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA200734"
+  ],
+  "inn": "fluocinonide",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-1353-2",
+    "51672-1353-3",
+    "51672-1353-4"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluocinonide",
+      "name": "Fluocinonide"
+    }
+  ],
+  "setid": "16c7d142-e695-4e33-986f-78cb37f7b387",
+  "source": "dailymed"
+}
