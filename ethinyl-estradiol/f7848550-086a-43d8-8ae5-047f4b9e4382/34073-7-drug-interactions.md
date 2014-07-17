@@ -2,7 +2,7 @@
 
 Consult the labeling of concurrently-used drugs to obtain further information about interactions with hormonal contraceptives or the potential for enzyme alterations.
 
-## 7.1 Effects of Other Drugs on Combined Hormonal Contraceptives
+## 7.1Effects of Other Drugs on Combined Hormonal Contraceptives
 
 ### Substances Decreasing the Plasma Concentrations of CHCs and Potentially Diminishing the Efficacy of CHCs
 
@@ -30,6 +30,6 @@ This may reduce seizure control; therefore, dosage adjustments of lamotrigine ma
 
 Women on thyroid hormone replacement therapy may need increased doses of thyroid hormone because serum concentration of thyroid-binding globulin increases with use of CHCs [see Warnings and Precautions (5.12)].
 
-## 7.3 Interference with Laboratory Tests
+## 7.3Interference with Laboratory Tests
 
 The use of contraceptive steroids may influence the results of certain laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins.

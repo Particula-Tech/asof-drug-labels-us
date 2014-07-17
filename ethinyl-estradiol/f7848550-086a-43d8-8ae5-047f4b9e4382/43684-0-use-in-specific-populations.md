@@ -37,6 +37,6 @@ Acute or chronic disturbances of liver function may necessitate the discontinuat
 
 No studies with Xulane have been conducted in women with renal impairment.
 
-## 8.8 Women with Weight > 198 lbs (90 kg)
+## 8.8Women with Weight > 198 lbs (90 kg)
 
 Xulane may be less effective in preventing pregnancy in women who weigh 198 lbs (90 kg) or more.

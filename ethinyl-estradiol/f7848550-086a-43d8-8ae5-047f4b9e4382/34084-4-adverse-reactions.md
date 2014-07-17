@@ -13,7 +13,7 @@ Adverse reactions commonly reported by users of combination hormonal contracepti
 - •Breast tenderness
 - •Headache
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -70,7 +70,7 @@ Additional adverse drug reactions that occurred in < 2.5% of Xulane-treated subj
 
 1Represents a bundle of similar terms
 
-## 6.2 Post-Marketing Experience
+## 6.2Post-Marketing Experience
 
 The following adverse reactions (Table 4) have been identified during post-approval use of Xulane.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

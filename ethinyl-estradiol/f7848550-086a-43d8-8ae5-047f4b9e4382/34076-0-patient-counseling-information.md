@@ -2,7 +2,7 @@
 
 See FDA-approved patient labeling (Patient Information and Instructions for Use)
 
-## 17.1 General
+## 17.1General
 
 Counsel patients about the following information:
 
@@ -20,10 +20,10 @@ Counsel patients about the following information:
   Consider pregnancy in the event of amenorrhea.
   Rule out pregnancy in the event of amenorrhea in two or more consecutive cycles, amenorrhea in one cycle if the woman has not adhered to the dosing schedule, or if associated with symptoms of pregnancy, such as morning sickness or unusual breast tenderness.
 - •If the Xulane patch becomes partially or completely detached and remains detached, insufficient drug delivery occurs.
-  - oA patch should not be re-applied if it is no longer sticky, becomes stuck to itself or another surface, has other material stuck to it, or has become loose or fallen off before.
+  - •A patch should not be re-applied if it is no longer sticky, becomes stuck to itself or another surface, has other material stuck to it, or has become loose or fallen off before.
     If a patch cannot be re-applied, a new patch should be applied immediately.
     Supplemental adhesives or wraps should not be used.
-  - oA woman may not be protected from pregnancy if a patch is partially or completely detached for ≥ 24 hours (or if the woman is not sure how long the patch has been detached).
+  - •A woman may not be protected from pregnancy if a patch is partially or completely detached for ≥ 24 hours (or if the woman is not sure how long the patch has been detached).
     She should start a new cycle immediately by applying a new patch.
     Back-up contraception, such as a condom and spermicide or diaphragm and spermicide, must be used for the first week of the new cycle.
 
@@ -156,15 +156,15 @@ How should I use Xulane?
   Make sure you remove your old Xulane patch before applying your new Xulane patch.
 - •Do not skip using any Xulane patches, even if you do not have sex often.
 - •Xulane is applied in a 4-week cycle.
-  - oApply your Xulane patch one time each week for 3 weeks (21 total days).
-  - oApply each new Xulane patch on the same day of the week.
+  - •Apply your Xulane patch one time each week for 3 weeks (21 total days).
+  - •Apply each new Xulane patch on the same day of the week.
     This day will be your "Patch Change Day."
     For example, if you apply your first Xulane patch on a Monday, all of your Xulane patches should be applied on a Monday.
-  - oDo not apply your Xulane patch during Week 4.
+  - •Do not apply your Xulane patch during Week 4.
     Make sure you remove your old Xulane patch.
     This is your patch-free week.
     Your menstrual period should start during your patch-free week.
-  - oBegin a new 4 week cycle by applying a new Xulane patch on the day after Week 4 ends.
+  - •Begin a new 4 week cycle by applying a new Xulane patch on the day after Week 4 ends.
     Repeat the cycle of 3 weekly applications followed by a patch-free week.
 
 - •Your Xulane patch should never be off for more than 7 days in a row.
@@ -186,6 +186,7 @@ Xulane may cause serious side effects, including:
   Talk with your healthcare provider about your risk of getting a blood clot before using Xulane or deciding which type of birth control is right for you.
 - It is possible to die or be permanently disabled from a problem caused by a blood clot, such as a heart attack or a stroke.
   Some examples of serious blood clots are blood clots in the:
+
 - •legs (deep vein thrombosis)
 - •lungs (pulmonary embolus)
 - •eyes (loss of eyesight)
