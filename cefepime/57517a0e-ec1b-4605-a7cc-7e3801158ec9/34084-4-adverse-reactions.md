@@ -25,7 +25,7 @@ Table 3: Adverse Clinical Reactions Cefepime Multiple-dose Dosing Regimens Clini
 
 | Incidence equal to or greater than 1% | Local reactionsLocal reactions, irrespective of relationship to cefepime in those patients who received intravenous infusion (n=3048). (3.0%), including phlebitis (1.3%), pain and/or inflammation (0.6%); rash (1.1%) |
 | --- | --- |
-| Incidence less than 1% but greater than 0.1% | Colitis (including pseudomembranous colitis), diarrhea, fever, headache, nausea, oral moniliasis, pruritus, urticaria, vaginitis, vomiting |
+| Incidence less than 1% but greater than 0.1% | Colitis (including pseudomembranous colitis), diarrhea, erythema, fever, headache, nausea, oral moniliasis, pruritus, urticaria, vaginitis, vomiting, anemia |
 
 At the higher dose of 2 g every 8 hours, the incidence of probably-related adverse reactions was higher among the 795 patients who received this dose of cefepime.
 Reactions included rash (4%), diarrhea (3%), nausea (2%), vomiting (1%), pruritus (1%), fever (1%), and headache (1%).

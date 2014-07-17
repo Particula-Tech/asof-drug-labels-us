@@ -21,7 +21,7 @@ After removing the peelable foil strip, activating the seals, and thoroughly mix
 Each 50 mL contains cefepime hydrochloride equivalent to either 1 gram or 2 grams of cefepime.
 Reconstituted solutions of Cefepime for Injection USP and Dextrose Injection USP range in color from colorless to amber.
 
-The DUPLEX® Container is Latex-free, PVC-free, and Di(2-ethylhexyl)phthalate (DEHP)-free.
+Not made with natural rubber latex, PVC or Di(2-ethylhexyl)phthalate (DEHP).
 
 The DUPLEX® dual chamber container is made from a specially formulated material.
 The product (diluent and drug) contact layer is a mixture of thermoplastic rubber and a polypropylene ethylene copolymer that contains no plasticizers.

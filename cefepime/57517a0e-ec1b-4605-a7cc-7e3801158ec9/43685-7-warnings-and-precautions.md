@@ -5,7 +5,6 @@
 Before therapy with Cefepime for Injection USP and Dextrose Injection USP is instituted, careful inquiry should be made to determine whether the patient has had previous immediate hypersensitivity reactions to cefepime, cephalosporins, penicillins, or other drugs.
 Exercise caution if this product is to be given to penicillin-sensitive patients because cross-hypersensitivity among beta-lactam antibiotics has been clearly documented and may occur in up to 10% of patients with a history of penicillin allergy.
 If an allergic reaction to Cefepime for Injection USP and Dextrose Injection USP occurs, discontinue the drug.
-Serious acute hypersensitivity reactions may require treatment with epinephrine and other emergency measures including oxygen, corticosteroids, intravenous fluids, intravenous antihistamines, pressor amines, and airway management, as clinically indicated.
 
 ## 5.2 Use in Patients with Renal Impairment
 
