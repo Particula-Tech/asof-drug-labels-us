@@ -16,7 +16,7 @@ In vitro studies have shown that memantine does not affect the reversible inhibi
 ## 12.3 Pharmacokinetics
 
 Memantine is well absorbed after oral administration and has linear pharmacokinetics over the therapeutic dose range.
-It is excreted predominantly unchanged in urine and has a terminal elimination half life of about 60-80 hours.
+It is excreted predominantly unchanged in urine and has a terminal elimination half-life of about 60-80 hours.
 In a study comparing 28 mg once daily NAMENDA XR to 10 mg twice daily NAMENDA Cmax and AUC0-24 values were 48% and 33% higher for the XR dosage regimen, respectively.
 
 Absorption
@@ -38,7 +38,7 @@ The hepatic microsomal CYP450 enzyme system does not play a significant role in 
 
 Elimination
 
-Memantine is excreted predominantly in the urine, unchanged, and has a terminal elimination half life of about 60-80 hours.
+Memantine is excreted predominantly in the urine, unchanged, and has a terminal elimination half-life of about 60-80 hours.
 About 48% of administered drug is excreted unchanged in urine; the remainder is converted primarily to three polar metabolites which possess minimal NMDA receptor antagonistic activity: the N-glucuronide conjugate, 6-hydroxy memantine, and 1-nitroso-deaminated memantine.
 A total of 74% of the administered dose is excreted as the sum of the parent drug and the N-glucuronide conjugate.
 Renal clearance involves active tubular secretion moderated by pH dependent tubular reabsorption.
