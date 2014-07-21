@@ -10,6 +10,10 @@ NDC# 64950-354-10 Bottle of 100 mL supplied with a calibrated measuring cup
 
 NDC# 64950-354-50 Bottle of 500 mL supplied with a calibrated measuring cup
 
+NDC# 64950-354-05: 5 mL unit dose cup
+
+NDC# 64950-354-55: Case contains 50 unit dose cups of 5 mL (NDC 64950-354-05), packaged in 5 trays of 10 unit dose cups each
+
 100 mg per 5 mL (20 mg per mL) oral solution is yellow in color
 
 NDC# 64950-353-03: Bottle of 30 mL supplied with a calibrated oral syringe

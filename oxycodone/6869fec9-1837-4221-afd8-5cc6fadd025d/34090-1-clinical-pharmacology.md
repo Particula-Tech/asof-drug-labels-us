@@ -9,8 +9,7 @@ In addition to analgesia, the widely diverse effects of oxycodone hydrochloride 
 
 Oxycodone concentrations are not predictive of analgesic response, especially in patients previously treated with opioids.
 The minimum effective concentration varies widely and is influenced by a variety of factors, including the extent of previous opioid use, age and general medical condition.
-
-Effective doses in tolerant patients may be significantly higher than in opioid-naive patients.
+Effective doses in tolerant patients may be significantly higher than in opioid-naïve patients.
 
 Effects of the Central Nervous System (CNS)
 
@@ -18,6 +17,7 @@ The principal therapeutic action of oxycodone hydrochloride is analgesia.
 Although the precise mechanism of the analgesic action is unknown, specific CNS opioid receptors for endogenous compounds with oxycodone hydrochloride-like activity have been identified throughout the brain and spinal cord and are likely to play a role in the expression and perception of analgesic effects.
 In common with other opioids, oxycodone hydrochloride causes respiratory depression, in part by a direct effect on the brainstem respiratory centers.
 Oxycodone and related opioids depress the cough reflex by direct effect on the cough center in the medulla.
+
 Oxycodone causes miosis, even in total darkness.
 
 Effects on the Gastrointestinal Tract And Other Smooth Muscle
@@ -25,7 +25,6 @@ Effects on the Gastrointestinal Tract And Other Smooth Muscle
 Gastric, biliary and pancreatic secretions are decreased by oxycodone hydrochloride.
 Oxycodone hydrochloride, like other opioid analgesics, produces some degree of nausea and vomiting which is caused by direct stimulation of the chemoreceptor trigger zone (CTZ) located in the medulla.
 The frequency and severity of emesis gradually diminishes with time.
-
 Oxycodone hydrochloride may cause a decrease in the secretion of hydrochloric acid in the stomach, may reduce motility, while increasing the tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm.
@@ -79,7 +78,7 @@ Oxycodone has been found in breast milk.
 Metabolism
 
 Oxycodone hydrochloride is extensively metabolized by multiple metabolic pathways to noroxycodone, oxymorphone, and noroxymorphone, which are subsequently glucuronidated.
-CYP3A4 mediated N demethylation to noroxycodone is the primary metabolic pathway of oxycodone with a less contribution from CYP2D6 mediated O-demethylation to oxymorphone.
+CYP3A4 mediated N-demethylation to noroxycodone is the primary metabolic pathway of oxycodone with a less contribution from CYP2D6 mediated O-demethylation to oxymorphone.
 Therefore, the formation of these and related metabolites can, in theory, be affected by other drugs.
 The major circulating metabolite is noroxycodone with an AUC ratio of 0.6 relative to that of oxycodone.
 Noroxycodone is reported to be a considerably weaker analgesic than oxycodone.
@@ -92,6 +91,7 @@ Excretion
 Oxycodone and its metabolites are excreted primarily via the kidney.
 The amounts measured in the urine have been reported as follows: free oxycodone up to 19%; conjugated oxycodone up to 50%; free oxymorphone 0%; conjugated oxymorphone < 14%; both free and conjugated noroxycodone have been found in the urine but not quantified.
 The total plasma clearance was 0.8 L/min for adults.
+
 Apparent elimination half-life of oxycodone following the administration of oxycodone is approximately 4 hours.
 
 Special Populations

@@ -30,7 +30,6 @@ This should be considered when prescribing or dispensing oxycodone hydrochloride
 
 Oxycodone hydrochloride may be abused by crushing, chewing, snorting or injecting the product.
 These practices pose a significant risk to the abuser that could result in overdose and death.
-
 [See DRUG ABUSE AND DEPENDENCE (9)]
 
 Concerns about abuse, addiction, and diversion should not prevent the proper management of pain.
@@ -65,7 +64,9 @@ Use oxycodone hydrochloride with caution in patients with biliary tract disease,
 ## 5.9 Special Risk Groups
 
 Use oxycodone hydrochloride with caution and in reduced dosages in patients with severe renal or hepatic impairment, Addison's disease, hypothyroidism, prostatic hypertrophy, or urethral stricture, and in elderly or debilitated patients.
-[See USE IN SPECIFIC POPULATIONS (8.5)] Exercise caution in the administration of oxycodone hydrochloride to patients with CNS depression, toxic psychosis, acute alcoholism and delirium tremens.
+[See USE IN SPECIFIC POPULATIONS (8.5)]
+
+Exercise caution in the administration of oxycodone hydrochloride to patients with CNS depression, toxic psychosis, acute alcoholism and delirium tremens.
 All opioids may aggravate convulsions in patients with convulsive disorders, and all opioids may induce or aggravate seizures in some clinical settings.
 
 Keep Oxycodone Hydrochloride Oral Solution out of the reach of children.
@@ -74,8 +75,8 @@ In case of accidental ingestion, seek emergency medical help immediately.
 ## 5.10 Driving and Operating Machinery
 
 Caution patients that oxycodone hydrochloride could impair the mental and/or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
-Caution patients about the potential combined effects of oxycodone hydrochloride with other CNS depressants, including other opioids, phenothiazines, sedative/hypnotics and alcohol.
 
+Caution patients about the potential combined effects of oxycodone hydrochloride with other CNS depressants, including other opioids, phenothiazines, sedative/hypnotics and alcohol.
 [See DRUG INTERACTIONS (7)]
 
 ## 5.11 Cytochrome P450 3A4 Inhibitors and Inducers

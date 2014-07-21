@@ -1,4 +1,4 @@
-Principal Display Panel – 30 mL Carton Label
+# Principal Display Panel – 30 mL Carton Label
 
 NDC 64950-353-03
 
@@ -18,7 +18,7 @@ Rx Only 30 mL
 
 LVT Lehigh Valley Technologies, Inc.
 
-Principal Display Panel – 100 mL Carton Label
+# Principal Display Panel – 100 mL Carton Label
 
 NDC 64950-354-10
 
@@ -31,3 +31,27 @@ Each 5 mL of Oxycodone Hydrochloride Oral Solution Contains: Oxycodone Hydrochlo
 Rx Only 100 mL
 
 LVT Lehigh Valley Technologies, Inc.
+
+# Principal Display Panel - 5 mL Unit Dose Cup
+
+NDC 64950-354-05
+
+Oxycodone Hydrochloride Oral Solution, USP
+
+CII
+
+5 mg/5 mL (1 mg/mL)
+
+See package insert for dosing information.
+5 mL
+
+L V T Lehigh Valley Technologies, Inc. Allentown, PA 18102
+
+Rev.
+11/13
+
+Rx Only
+
+# Principal Display Panel - 10 x 5 mL Unit Dose Cup Tray
+
+Oxycodone Hydrochloride Oral Solution, USP 5 mg/5 mL (1 mg/mL)

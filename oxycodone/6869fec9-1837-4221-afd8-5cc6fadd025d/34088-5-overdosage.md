@@ -22,6 +22,7 @@ If the response to opioid antagonists is suboptimal or only brief in nature, adm
 Do not administer opioid antagonists in the absence of clinically significant respiratory or circulatory depression secondary to oxycodone overdose.
 Administer such agents cautiously to persons who are known, or suspected to be physically dependent on oxycodone.
 In such cases, an abrupt or complete reversal of opioid effects may precipitate an acute abstinence syndrome.
+
 In an individual physically dependent on opioids, administration of the usual dose of the antagonist will precipitate an acute withdrawal syndrome.
 The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
 Reserve use of an opioid antagonist for cases where such treatment is clearly needed.

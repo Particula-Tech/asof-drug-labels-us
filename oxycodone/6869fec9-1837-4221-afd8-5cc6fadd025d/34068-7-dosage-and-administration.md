@@ -1,11 +1,11 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Oxycodone Hydrochloride Oral Solution is available in two concentrations: 5 mg per 5 mL and 100 mg per 5 mL (20 mg per mL).
-
 Take care when prescribing and administering Oxycodone Hydrochloride Oral Solution to avoid dosing errors due to confusion between mg and mL, which could result in accidental overdose and death.
 Take care to ensure the proper dose is communicated and dispensed.
 When writing prescriptions, include both the total dose in mg and the total dose in volume.
 Always use the enclosed calibrated oral syringe when administering Oxycodone Hydrochloride Oral Solution, 100 mg per 5 mL (20 mg per mL), to ensure the dose is measured and administered accurately.
+
 Selection of patients for treatment with oxycodone hydrochloride should be governed by the same principles that apply to the use of similar opioid analgesics.
 Individualize treatment in every case, using non-opioid analgesics, opioids on an as needed basis and/or combination products, and chronic opioid therapy in a progressive plan of pain management such as outlined by the World Health Organization, the Agency for Healthcare Research and Quality, and the American Pain Society.
 
@@ -32,9 +32,7 @@ During periods of changing analgesic requirements, including initial titration, 
 ## 2.2 Initiation of Therapy in Opioid Naïve Patients
 
 Start patients who have not been receiving opioid analgesics on oxycodone hydrochloride in the following dosing range using oral solution, 5 mg per 5 mL strength.
-Oxycodone HCl Oral
-
-Solution: 5 to 15 mg every 4 to 6 hours as needed for pain.
+Oxycodone HCl Oral Solution: 5 to 15 mg every 4 to 6 hours as needed for pain.
 
 Titrate the dose based upon the individual patient's response to their initial dose of oxycodone hydrochloride.
 Adjust the dose to an acceptable level of analgesia taking into account the improvement in pain intensity and tolerability of the oxycodone by the patient.

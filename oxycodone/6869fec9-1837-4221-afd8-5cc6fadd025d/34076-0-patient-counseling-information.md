@@ -29,4 +29,6 @@ Provide the following information to patients receiving oxycodone hydrochloride 
   If it is almost time for the next dose, skip the missed dose and go back to their regular dosing schedule.
   Do not take two doses at once unless instructed by their doctor.
 
-Revision: August 2013 Lehigh Valley Technologies, Inc.
+Revision: March 2014
+
+Lehigh Valley Technologies, Inc.
