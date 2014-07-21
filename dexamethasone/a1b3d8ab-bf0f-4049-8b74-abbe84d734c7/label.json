@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA014694"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Organon USA Inc.",
+  "package_ndcs": [
+    "0052-0796-05",
+    "0052-0796-26",
+    "0052-0796-27",
+    "0052-0797-10",
+    "0052-0797-26"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dexamethasone sodium phosphate",
+      "name": "HEXADROL PHOSPHATE"
+    }
+  ],
+  "setid": "a1b3d8ab-bf0f-4049-8b74-abbe84d734c7",
+  "source": "dailymed"
+}
