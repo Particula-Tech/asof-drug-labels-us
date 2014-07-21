@@ -4,11 +4,7 @@
 
 NDC 0093-0787-01
 
-ATENOLOL
-
-Tablets USP
-
-25 mg
+ATENOLOL Tablets USP 25 mg
 
 Rx only
 
@@ -22,11 +18,7 @@ TEVA
 
 NDC 0093-0752-01
 
-ATENOLOL
-
-Tablets USP
-
-50 mg
+ATENOLOL Tablets USP 50 mg
 
 Rx only
 
@@ -40,11 +32,7 @@ TEVA
 
 NDC 0093-0753-01
 
-ATENOLOL
-
-Tablets USP
-
-100 mg
+ATENOLOL Tablets USP 100 mg
 
 Rx only
 
