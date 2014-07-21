@@ -42,18 +42,18 @@ Drug-Drug Interactions:
 Rosuvastatin clearance is not dependent on metabolism by cytochrome P450 3A4 to a clinically significant extent.
 
 Rosuvastatin is a substrate for certain transporter proteins including the hepatic uptake transporter organic anion-transporting polyprotein 1B1 (OATP1B1) and efflux transporter breast cancer resistance protein (BCRP).
-Concomitant administration of CRESTOR with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations and an increased risk of myopathy [seeDosage and Administration (2.5)].
+Concomitant administration of CRESTOR with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations and an increased risk of myopathy [see Dosage and Administration (2.5)].
 
 Table 4.
 Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 
 | Coadministered drug and dosing regimen | Rosuvastatin |  |  |
 | --- | --- | --- | --- |
-|  | Dose (mg)Single dose unless otherwise noted. | Change in AUCMean ratio (with/without coadministered drug and no change = 1fold) or % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. | Change in CmaxClinically significant [see Dosage and Administration (2) and Warnings and Precautions (5) |
-| Cyclosporine – stable dose required (75 mg – 200 mg BID) | 10 mg QD for 10 days | ↑ 7.1-fold† | ↑ 11-fold† |
-| Atazanavir/ritonavir combination 300 mg/100 mg QD for 8 days | 10 mg | ↑ 3.1-fold† | ↑ 7-fold† |
-| Lopinavir/ritonavir combination 400 mg/100 mg BID for 17 days | 20 mg QD for 7 days | ↑ 2.1-fold† | ↑ 5-fold† |
-| Gemfibrozil 600 mg BID for 7 days | 80 mg | ↑ 1.9-fold† | ↑ 2.2-fold† |
+|  | Dose (mg)Single dose unless otherwise noted. | Change in AUCMean ratio (with/without coadministered drug and no change = 1fold) or % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. | Change in Cmax |
+| Cyclosporine – stable dose required (75 mg – 200 mg BID) | 10 mg QD for 10 days | ↑ 7.1-foldClinically significant [seeDosage and Administration (2) andWarnings and Precautions (5)] | ↑ 11-fold |
+| Atazanavir/ritonavir combination 300 mg/100 mg QD for 8 days | 10 mg | ↑ 3.1-fold | ↑ 7-fold |
+| Lopinavir/ritonavir combination 400 mg/100 mg BID for 17 days | 20 mg QD for 7 days | ↑ 2.1-fold | ↑ 5-fold |
+| Gemfibrozil 600 mg BID for 7 days | 80 mg | ↑ 1.9-fold | ↑ 2.2-fold |
 | Eltrombopag 75 mg QD, 5 days | 10 mg | ↑ 1.6-fold | ↑ 2-fold |
 | Darunavir 600 mg/ritonavir 100 mg BID, 7 days | 10 mg QD for 7 days | ↑ 1.5-fold | ↑ 2.4-fold |
 | Tipranavir/ritonavir combination 500 mg/200mg BID for 11 days | 10 mg | ↑ 26% | ↑ 2.2-fold |
@@ -63,7 +63,7 @@ Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 | Fosamprenavir/ritonavir 700 mg/100 mg BID for 7 days | 10 mg | ↑ 8% | ↑ 45% |
 | Fenofibrate 67 mg TID for 7 days | 10 mg | ↔ | ↑ 21% |
 | Rifampicin 450 mg QD, 7 days | 20 mg | ↔ |  |
-| Aluminum & magnesium hydroxide combination antacidAdministered simultaneously Administered 2 hours apart | 40 mg 40 mg | ↓ 54%† ↓ 22% | ↓ 50%† ↓ 16% |
+| Aluminum & magnesium hydroxide combination antacidAdministered simultaneously Administered 2 hours apart | 40 mg 40 mg | ↓ 54% ↓ 22% | ↓ 50% ↓ 16% |
 | Ketoconazole 200 mg BID for 7 days | 80 mg | ↑ 2% | ↓ 5% |
 | Fluconazole 200 mg QD for 11 days | 80 mg | ↑ 14% | ↑ 9% |
 | Erythromycin 500 mg QID for 7 days | 80 mg | ↓ 20% | ↓ 31% |
@@ -74,7 +74,7 @@ Effect of Rosuvastatin Coadministration on Systemic Exposure To Other Drugs
 |  | Name and Dose | Change in AUC | Change in Cmax |
 | --- | --- | --- | --- |
 | Rosuvastatin Dosage Regimen | Coadministered Drug |  |  |
-| 40 mg QD for 10 days | WarfarinClinically significant pharmacodynamic effects [see Warnings and Precautions (5.4)]25 mg single dose | R- Warfarin ↑ 4%S-Warfarin ↑6% | R-Warfarin ↓ 1%S-Warfarin 0% |
+| 40 mg QD for 10 days | WarfarinClinically significant pharmacodynamic effects [seeWarnings and Precautions (5.3)]25 mg single dose | R- Warfarin ↑ 4%S-Warfarin ↑6% | R-Warfarin ↓ 1%S-Warfarin 0% |
 | 40 mg QD for 12 days | Digoxin 0.5 mg single dose | ↑ 4% | ↑ 4% |
 | 40 mg QD for 28 days | Oral Contraceptive(ethinyl estradiol 0.035 mg & norgestrel 0.180, 0.215 and 0.250 mg) QD for 21 Days | EE ↑ 26%NG ↑ 34% | EE ↑ 25%NG ↑ 23% |
 | EE = ethinyl estradiol, NG = norgestrel |  |  |  |

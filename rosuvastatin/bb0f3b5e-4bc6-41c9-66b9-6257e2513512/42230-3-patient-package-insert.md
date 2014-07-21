@@ -1,176 +1,147 @@
 # PATIENT INFORMATION
 
-CRESTOR® (rosuvastatin calcium) Tablets
+CRESTOR® (Kres-tor)
 
-(Kres-tor)
+rosuvastatin calcium
 
-Read this information carefully before you start taking CRESTOR.
-Each time you refill your prescription for CRESTOR, read the patient information, as there may be new information.
-This summary does not include everything there is to know about CRESTOR and does not take the place of talking with your health care professional about your medical condition or treatment.
+Tablets
 
-If you have any questions about CRESTOR, ask your health care professional.
-Only your health care professional can tell you if CRESTOR is right for you.
+Read this Patient Information carefully before you start taking CRESTOR and each time you get a refill.
+There may be new information.
+This information does not take the place of talking with your doctor about your medical condition or treatment.
+
+If you have any questions about CRESTOR, ask your doctor.
+Only your doctor can determine if CRESTOR is right for you.
 
 What is CRESTOR?
 
-CRESTOR is a prescription medicine that belongs to a group of cholesterol-lowering medicines called statins.
-Along with diet, CRESTOR lowers “bad” cholesterol (LDL‑C), increases “good” cholesterol (HDL‑C).
-If bad cholesterol levels are left untreated, fatty deposits (plaque) can build up in the walls of the blood vessels.
-This plaque buildup over time, can lead to narrowing of these vessels.
-This is one of the most common causes of heart disease.
-By lowering bad cholesterol in your blood, CRESTOR can slow this plaque buildup in the walls of blood vessels.
-CRESTOR has been proven to reduce the risk of heart attacks and strokes in older adults without known heart disease.
+CRESTOR is a prescription medicine that contains a cholesterol-lowering medicine called rosuvastatin calcium.
+CRESTOR is used along with diet to:
 
-What is Cholesterol?
+- •lower the level of your “bad” cholesterol (LDL)
+- •increase the level of your “good” cholesterol (HDL)
+- •lower the level of fat in your blood (triglycerides)
+- •slow the buildup of fatty deposits (plaque) in the walls of blood vessels
 
-Cholesterol is a fatty substance, also called a lipid, normally found in your bloodstream.
-Your body needs a certain amount of cholesterol to function properly.
-But high cholesterol can lead to health problems.
-LDL-C is called bad cholesterol because if you have too much in your bloodstream, it can become a danger to your health and can lead to potentially serious conditions.
-HDL‑C is known as good cholesterol because it may help remove excess cholesterol.
+CRESTOR is for patients who cannot control their cholesterol levels by diet and exercise alone.
+CRESTOR is used to reduce the risk of heart attacks and strokes in men 50 years of age and older and women 60 years of age and older who do not have known heart disease but do have certain additional risk factors.
 
-Common health factors such as diabetes, high blood pressure, smoking, obesity, family history of early heart disease, and age can make controlling your cholesterol even more important.
+It is not known if CRESTOR is safe and effective in people who have Fredrickson Type I and V dyslipidemias.
+It is not known if CRESTOR is safe and effective in children under 10 years of age or in girls who have not started their period (menses).
 
-What is Atherosclerosis?
-
-Atherosclerosis is the progressive buildup of plaque in the arteries over time.
-One major cause is high levels of LDL‑C.
-Other health factors, such as family history, diabetes, high blood pressure, or if you smoke, or are overweight, may also play a role in the formation of plaque in arteries.
-Often this plaque starts building up in arteries in early adulthood and gets worse over time.
-
-How Does CRESTOR Work?
-
-Most of the cholesterol in your blood is made in the liver.
-CRESTOR works by reducing cholesterol in two ways: CRESTOR blocks an enzyme in the liver causing the liver to make less cholesterol, and CRESTOR increases the uptake and breakdown by the liver of cholesterol already in the blood.
-
-Who Should Not Take CRESTOR?
+Who should not take CRESTOR?
 
 Do not take CRESTOR if you:
 
+- •are allergic to rosuvastatin calcium or any of the ingredients in CRESTOR.
+  See the end of this leaflet for a complete list of ingredients in CRESTOR.
+- •have liver problems.
 - •are pregnant or think you may be pregnant, or are planning to become pregnant.
   CRESTOR may harm your unborn baby.
-  If you become pregnant, stop taking CRESTOR and call your health care professional right away
-- •are breast-feeding.
-  CRESTOR can pass into your breast milk and may harm your baby
-- •have liver problems
-- •have had an allergic reaction to CRESTOR or are allergic to any of its ingredients.
-  The active ingredient is rosuvastatin calcium.
-  The inactive ingredients are: microcrystalline cellulose, lactose monohydrate, tribasic calcium phosphate, crospovidone, magnesium stearate, hypromellose, triacetin, titanium dioxide, yellow ferric oxide, and red ferric oxide
+  If you become pregnant, stop taking CRESTOR and call your doctor right away.
+- •are breastfeeding.
+  Medicines like CRESTOR can pass into your breast milk and may harm your baby.
+  It is not known if CRESTOR passes into your breast milk.
+  You and your doctor should decide the best way to feed your baby if you take CRESTOR.
 
-The safety and effectiveness of CRESTOR have not been established in pediatric patients under the age of 10.
+What should I tell my doctor before and while taking CRESTOR?
 
-What should I tell my health care professional before taking CRESTOR?
+Tell your doctor if you:
 
-Tell your health care professional if you:
-
-- •have a history of muscle pain or weakness
-- •are pregnant or think you may be pregnant, or are planning to become pregnant
-- •are breast-feeding
+- •have unexplained muscle aches or weakness
+- •have or have had kidney problems
+- •have or have had liver problems
 - •drink more than 2 glasses of alcohol daily
-- •have liver problems
-- •have kidney problems
 - •have thyroid problems
-- •are Asian or of Asian descent
+- •are 65 years of age or older
+- •are of Asian descent
+- •are pregnant or think you may be pregnant, or are planning to become pregnant
+- •are breastfeeding
 
-Tell your health care professional about all medicines you take or plan to take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Some medicines may interact with CRESTOR, causing side effects.
-It is particularly important to tell your health care professional if you are taking or plan to take medicines for:
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
--your immune system
+Talk to your doctor before you start taking any new medicines.
 
--cholesterol/triglycerides
+Taking CRESTOR with certain other medicines may affect each other causing side effects.
+CRESTOR may affect the way other medicines work, and other medicines may affect how CRESTOR works.
 
--blood thinning
+Especially tell your doctor if you take:
 
--HIV/AIDS
+- •cyclosporine (a medicine for your immune system)
+- •gemfibrozil (a fibric acid medicine for lowering cholesterol)
+- •HIV protease inhibitors (such as lopinavir, ritonavir, fosamprenavir, tipranavir, or atazanavir)
+- •certain anti-fungal medicines (such as itraconazole, ketoconazole and fluconazole
+- •coumarin anticoagulants (medicines that prevent blood clots, such as warfarin)
+- •niacin or nicotinic acid
+- •fibric acid derivatives (such as fenofibrate)
+- •colchicine (a medicine used to treat gout)
 
--preventing pregnancy
+Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
-Know all of the medicines you take and what they look like.
-It’s always a good idea to check that you have the right prescription before you leave the pharmacy and before you take any medicine.
-Keep a list of your medicines with you to show your health care professional.
+Know all of the medicines you take.
+Keep a list of them to show your doctor and pharmacist when you get new medicine.
 
-If you need to go to the hospital or have surgery, tell all of your health care professionals about all medicines that you are taking.
+How should I take CRESTOR?
 
-How Should I Take CRESTOR?
-
-Take CRESTOR exactly as prescribed by your health care professional.
-Do not change your dose or stop CRESTOR without talking to your health care professional, even if you are feeling well.
-
-Your health care professional may do blood tests to check your cholesterol levels before and during your treatment with CRESTOR.
-Your dose of CRESTOR may be changed based on these blood tests results.
-
-CRESTOR can be taken at any time of day, with or without food.
-
-Swallow the tablets whole.
-
-Your health care professional may start you on a cholesterol lowering diet before giving you CRESTOR.
-Stay on this diet when you take CRESTOR.
-
-Wait at least 2 hours after taking CRESTOR to take an antacid that contains a combination of aluminum and magnesium hydroxide.
-
-If you miss a dose of CRESTOR, take it as soon as you remember.
-However, do not take 2 doses of CRESTOR within 12 hours of each other.
-
-If you take too much CRESTOR or overdose, call your health care professional or a Poison Control Center right away or go to the nearest emergency room.
-
-What Should I Avoid While Taking CRESTOR?
-
-Talk to your health care professional before you start any new medicines.
-This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
-CRESTOR and certain other medicines can interact, causing serious side effects.
-
-Talk to your health care professional if you are pregnant or plan to become pregnant.
-Do not use CRESTOR if you are pregnant, trying to become pregnant or suspect that you are pregnant.
-If you become pregnant while taking CRESTOR, stop taking it and contact your health care professional immediately.
+- •Take CRESTOR exactly as your doctor tells you to take it.
+- •Take CRESTOR, by mouth, 1 time each day.
+  Swallow the tablet whole.
+- •CRESTOR can be taken at any time of day, with or without food.
+- •Do not change your dose or stop CRESTOR without talking to your doctor, even if you are feeling well.
+- •Your doctor may do blood tests to check your cholesterol levels before and during your treatment with CRESTOR.
+  Your doctor may change your dose of CRESTOR if needed.
+- •Your doctor may start you on a cholesterol lowering diet before giving you CRESTOR.
+  Stay on this diet when you take CRESTOR.
+  Wait at least 2 hours after taking CRESTOR to take an antacid that contains a combination of aluminum and magnesium hydroxide.
+- •If you miss a dose of CRESTOR, take it as soon as you remember.
+- •However, do not take 2 doses of CRESTOR within 12 hours of each other.
+- •If you take too much CRESTOR or overdose, call your doctor or go to the nearest hospital emergency room right away.
 
 What are the Possible Side Effects of CRESTOR?
 
-CRESTOR can cause side effects in some people.
+CRESTOR may cause serious side effects, including:
 
-Serious side effects may include:
+- •Muscle pain, tenderness and weakness (myopathy).
+  Muscle problems, including muscle breakdown, can be serious in some people and rarely cause kidney damage that can lead to death.
+  Tell your doctor right away if:
+  - oyou have unexplained muscle pain, tenderness, or weakness, especially if you have a fever or feel more tired than usual, while you take CRESTOR.
+  - oyou have muscle problems that do not go away even after your doctor has told you to stop taking CRESTOR.
+    Your doctor may do further tests to diagnose the cause of your muscle problems.
+- Your chances of getting muscle problems are higher if you:
+- 
+  - oare taking certain other medicines while you take CRESTOR
+  - oare 65 years of age or older
+  - ohave thyroid problems (hypothyroidism) that are not controlled
+  - ohave kidney problems
+  - oare taking higher doses of CRESTOR
+- •Liver problems.
+  Your doctor should do blood tests to check your liver before you start taking CRESTOR and if you have symptoms of liver problems while you take CRESTOR.
+  Call your doctor right away if you have any of the following symptoms of liver problems:
+  - ofeel unusually tired or weak
+  - oloss of appetite
+  - oupper belly pain
+  - odark urine
+  - oyellowing of your skin or the whites of your eyes
 
-Muscle Problems.
-Call your health care professional right away if you experience unexplained muscle pain, tenderness, or weakness especially with fever.
-This may be an early sign of a rare muscle problem that could lead to serious kidney problems.
-The risk of muscle problems is greater in people who are 65 years of age or older, or who already have thyroid or kidney problems.
-The chance of muscle problems may be increased if you are taking certain other medicines with CRESTOR.
+The most common side effects may include: headache, muscle aches and pains, abdominal pain, weakness, and nausea.
 
-If you have muscle problems that do not go away even after your health care professional has advised you to stop taking CRESTOR, notify your health care professional.
-Your health care professional may do further tests to diagnose the cause of your muscle problems.
+Additional side effects that have been reported with CRESTOR include
 
-Liver problems.
-Your health care professional should do blood tests to check your liver before you start taking CRESTOR and if you have symptoms of liver problems while you take CRESTOR.
-Call your doctor right away if you have any of the following symptoms of liver problems:
+memory loss and confusion.
 
-• feel unusually tired or weak
+Tell your doctor if you have any side effect that bothers you or that does not go away.
 
-• loss of appetite
+These are not all the possible side effects of CRESTOR.
+For more information, ask your doctor or pharmacist.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-• upper belly pain
+How should I store CRESTOR?
 
-• dark urine
+- •Store CRESTOR at room temperature, between 68°F to 77°F (20°C to 25°C) and in a dry place.
+- •Safely throw away medicine that is out of date or no longer needed.
 
-• yellowing of your skin or the whites of your eyes
-
-The most common side effects may include:
-
-Headache, muscle aches and pains, abdominal pain, weakness, and nausea.
-
-The following additional side effects have been reported with CRESTOR:
-
-Memory loss and confusion
-
-This is not a complete list of side effects of CRESTOR.
-Talk to your health care professional for a complete list or if you have side effects that bother you or that do not go away.
-
-How Do I Store CRESTOR?
-
-Store CRESTOR at room temperature, 68 to 77°F (20 to 25°C) and in a dry place.
-
-If your health care professional tells you to stop treatment or if your medicine is out of date, throw the medicine away.
-
-Keep CRESTOR and all medicines in a secure place and out of the reach of children.
+Keep CRESTOR and all medicines out of the reach of children.
 
 What are the Ingredients in CRESTOR?
 
@@ -178,16 +149,21 @@ Active Ingredient: rosuvastatin as rosuvastatin calcium
 
 Inactive Ingredients: microcrystalline cellulose NF, lactose monohydrate NF, tribasic calcium phosphate NF, crospovidone NF, magnesium stearate NF, hypromellose NF, triacetin NF, titanium dioxide USP, yellow ferric oxide, and red ferric oxide NF.
 
-General Information About CRESTOR
+General Information about the safe and effective use of CRESTOR
 
-It is important to take CRESTOR as prescribed and to discuss any health changes you experience while taking CRESTOR with your health care professional.
+Most of the cholesterol in your blood is made in the liver.
+CRESTOR works by reducing cholesterol in two ways: CRESTOR blocks an enzyme in the liver causing the liver to make less cholesterol, and CRESTOR increases the uptake and breakdown by the liver of cholesterol already in the blood.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use CRESTOR for a condition for which it was not prescribed.
 Do not give CRESTOR to other people, even if they have the same medical condition you have.
 It may harm them.
 
-This leaflet summarizes important information about CRESTOR.
-If you would like more information about CRESTOR, ask your health care professional.
-You can also go to the CRESTOR website at www.crestor.com or call 1-800-CRESTOR.
+This Patient Information summarizes the most important information about CRESTOR.
+If you would like more information, talk to your doctor.
+You can ask your pharmacist or doctor for information about CRESTOR that is written for health professionals.
+
+For more information, go to the CRESTOR website at www.crestor.com or call 1-800-CRESTOR.
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
@@ -201,7 +177,6 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-ASTRAZENECA
+Revised July, 2014
 
-Rev.
-August, 2013
+ASTRAZENECA

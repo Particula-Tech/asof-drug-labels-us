@@ -6,7 +6,7 @@ CRESTOR reduces Total‑C, LDL‑C, ApoB, nonHDL‑C, and TG, and increases HDL�
 
 Dose-Ranging Study: In a multicenter, double-blind, placebo-controlled, dose-ranging study in patients with hyperlipidemia CRESTOR given as a single daily dose for 6 weeks significantly reduced Total‑C, LDL‑C, nonHDL‑C, and ApoB, across the dose range (Table 6).
 
-- Table 6.
+- Table.
   Dose-Response in Patients With Hyperlipidemia (Adjusted Mean % Change From Baseline at Week 6)
 
 | Dose | N | Total‑C | LDL‑C | Non-HDL‑C | ApoB | TG | HDL‑C |
@@ -20,19 +20,19 @@ Dose-Ranging Study: In a multicenter, double-blind, placebo-controlled, dose-ran
 Active-Controlled Study: CRESTOR was compared with the HMG‑CoA reductase inhibitors atorvastatin, simvastatin, and pravastatin in a multicenter, open-label, dose-ranging study of 2240 patients with hyperlipidemia or mixed dyslipidemia.
 After randomization, patients were treated for 6 weeks with a single daily dose of either CRESTOR, atorvastatin, simvastatin, or pravastatin (Figure 1 and Table 7).
 
-Figure 1.
+Figure.
 Percent LDL‑ C Change by Dose of CRESTOR, Atorvastatin, Simvastatin, and Pravastatin at Week 6 in Patients with Hyperlipidemia or Mixed Dyslipidemia
 
 Box plots are a representation of the 25th, 50th, and 75th percentile values, with whiskers representing the 10th and 90th percentile values.
 Mean baseline LDL‑C: 189 mg/dL
 
-Table 7.
+Table.
 Percent Change in LDL‑C From Baseline to Week 6 (LS MeanCorresponding standard errors are approximately 1.00) by Treatment Group (sample sizes ranging from 156–167 patients per group)
 
 |  | Treatment Daily Dose |  |  |  |
 | --- | --- | --- | --- | --- |
 | Treatment | 10 mg | 20 mg | 40 mg | 80 mg |
-| CRESTOR | -46CRESTOR 10 mg reduced LDL-C significantly more than atorvastatin 10 mg; pravastatin 10 mg, 20 mg, and 40 mg; simvastatin 10 mg, 20 mg, and 40 mg. (p<0.002) | -52CRESTOR 20 mg reduced LDL-C significantly more than atorvastatin 20 mg and 40 mg; pravastatin 20 mg and 40 mg; simvastatin 20 mg, 40 mg, and 80 mg. (p<0.002) | -55CRESTOR 40 mg reduced LDL‑C significantly more than atorvastatin 40 mg; pravastatin 40 mg; simvastatin 40 mg, and 80 mg. (p<0.002) | --- |
+| CRESTOR | -46CRESTOR 10 mg reduced LDL-C significantly more than atorvastatin 10 mg; pravastatin 10 mg, 20 mg, and 40 mg; simvastatin 10 mg, 20 mg, and 40 mg. (p< 0.002) | -52CRESTOR 20 mg reduced LDL-C significantly more than atorvastatin 20 mg and 40 mg; pravastatin 20 mg and 40 mg; simvastatin 20 mg, 40 mg, and 80 mg. (p< 0.002) | -55CRESTOR 40 mg reduced LDL‑C significantly more than atorvastatin 40 mg; pravastatin 40 mg; simvastatin 40 mg, and 80 mg. (p< 0.002) | --- |
 | Atorvastatin | -37 | -43 | -48 | -51 |
 | Simvastatin | -28 | -35 | -39 | -46 |
 | Pravastatin | -20 | -24 | -30 | --- |
@@ -43,7 +43,7 @@ Active-Controlled Study: In a study of patients with heterozygous FH (baseline m
 The dose was increased by 6-week intervals.
 Significant LDL-C reductions from baseline were seen at each dose in both treatment groups (Table 8).
 
-Table 8.
+Table.
 Mean LDL-C Percentage Change from Baseline
 
 |  |  | CRESTOR (n=435) LS MeanLS Means are least square means adjusted for baseline LDL-C (95% CI) | Atorvastatin (n=187) LS Mean (95% CI) |
@@ -56,7 +56,7 @@ Mean LDL-C Percentage Change from Baseline
 
 Dose-Response Study: In a double-blind, placebo-controlled dose-response study in patients with baseline TG levels from 273 to 817 mg/dL, CRESTOR given as a single daily dose (5 to 40 mg) over 6 weeks significantly reduced serum TG levels (Table 9).
 
-- Table 9.
+- Table.
   Dose-Response in Patients With Primary Hypertriglyceridemia Over 6 Weeks Dosing Median (Min, Max) Percent Change From Baseline
 
 | Dose | Placebo (n=26) | CRESTOR 5 mg (n=25) | CRESTOR 10 mg (n=23) | CRESTOR 20 mg (n=27) | CRESTOR 40 mg (n=25) |
@@ -72,7 +72,7 @@ Dose-Response Study: In a double-blind, placebo-controlled dose-response study i
 
 In a randomized, multicenter, double-blind crossover study, 32 patients (27 with є2/є2 and 4 with apo E mutation [Arg145Cys] with primary dysbetalipoproteinemia (Type III Hyperlipoproteinemia) entered a 6-week dietary lead-in period on the NCEP Therapeutic Lifestyle Change (TLC) diet.
 Following dietary lead-in, patients were randomized to a sequence of treatments in conjunction with the TLC diet for 6 weeks each: rosuvastatin 10 mg followed by rosuvastatin 20 mg or rosuvastatin 20 mg followed by rosuvastatin 10 mg.
-CRESTOR reduced nonHDL‑C (primary end point) and circulating remnant lipoprotein levels.
+CRESTOR reduced non HDL‑C (primary end point) and circulating remnant lipoprotein levels.
 Results are shown in the table below.
 
 Table 10.
@@ -129,9 +129,9 @@ The long-term efficacy of rosuvastatin therapy initiated in childhood to reduce 
 In the Measuring Effects on Intima Media Thickness: an Evaluation Of Rosuvastatin 40 mg (METEOR) study, the effect of therapy with CRESTOR on carotid atherosclerosis was assessed by B-mode ultrasonography in patients with elevated LDL‑C, at low risk (Framingham risk <10% over ten years) for symptomatic coronary artery disease and with subclinical atherosclerosis as evidenced by carotid intimal-medial thickness (cIMT).
 In this double-blind, placebo-controlled clinical study 984 patients were randomized (of whom 876 were analyzed) in a 5:2 ratio to CRESTOR 40 mg or placebo once daily.
 Ultrasonograms of the carotid walls were used to determine the annualized rate of change per patient from baseline to two years in mean maximum cIMT of 12 measured segments.
-The estimated difference in the rate of change in the maximum cIMT analyzed over all 12 carotid artery sites between patients treated with CRESTOR and placebo-treated patients was -0.0145 mm/year (95% CI –0.0196, –0.0093; p<0.0001).
+The estimated difference in the rate of change in the maximum cIMT analyzed over all 12 carotid artery sites between patients treated with CRESTOR and placebo-treated patients was -0.0145 mm/year (95% CI –0.0196, –0.0093; p< 0.0001).
 
-The annualized rate of change from baseline for the placebo group was +0.0131 mm/year (p<0.0001).
+The annualized rate of change from baseline for the placebo group was +0.0131 mm/year (p< 0.0001).
 The annualized rate of change from baseline for the group treated with CRESTOR was -0.0014 mm/year (p=0.32).
 
 At an individual patient level in the group treated with CRESTOR, 52.1% of patients demonstrated an absence of disease progression (defined as a negative annualized rate of change), compared to 37.7% of patients in the placebo group.
@@ -146,10 +146,10 @@ The JUPITER study was stopped early by the Data Safety Monitoring Board due to m
 
 The primary end point was a composite end point consisting of the time-to-first occurrence of any of the following major CV events: CV death, nonfatal myocardial infarction, nonfatal stroke, hospitalization for unstable angina or an arterial revascularization procedure.
 
-Rosuvastatin significantly reduced the risk of major CV events (252 events in the placebo group vs. 142 events in the rosuvastatin group) with a statistically significant (p<0.001) relative risk reduction of 44% and absolute risk reduction of 1.2% (see Figure 2).
+Rosuvastatin significantly reduced the risk of major CV events (252 events in the placebo group vs. 142 events in the rosuvastatin group) with a statistically significant (p< 0.001) relative risk reduction of 44% and absolute risk reduction of 1.2% (see Figure 2).
 The risk reduction for the primary end point was consistent across the following predefined subgroups: age, sex, race, smoking status, family history of premature CHD, body mass index, LDL‑C, HDL‑C, and hsCRP levels.
 
-Figure 2.
+Figure.
 Time to first occurrence of major cardiovascular events in JUPITER
 
 The individual components of the primary end point are presented in Figure 3.
@@ -160,7 +160,7 @@ Rosuvastatin significantly reduced the risk of myocardial infarction (6 fatal ev
 
 In a post-hoc subgroup analysis of JUPITER subjects (n=1405; rosuvastatin=725, placebo=680) with a hsCRP ≥2 mg/L and no other traditional risk factors (smoking, BP ≥140/90 or taking antihypertensives, low HDL‑C) other than age, after adjustment for high HDL‑C, there was no significant treatment benefit with rosuvastatin treatment.
 
-Figure 3.
+Figure.
 Major CV events by treatment group in JUPITER
 
-At one year, rosuvastatin increased HDL‑C and reduced LDL‑C, hsCRP, total cholesterol and serum triglyceride levels (p<0.001 for all versus placebo).
+At one year, rosuvastatin increased HDL‑C and reduced LDL‑C, hsCRP, total cholesterol and serum triglyceride levels (p< 0.001 for all versus placebo).
