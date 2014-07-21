@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Erythromycin Tablets (erythromycin tablets, USP) are an antibacterial product containing erythromycin, USP, in a unique, nonenteric film coating for oral administration.
+Erythromycin Tablets, USP are an antibacterial product containing erythromycin, USP, in a unique, nonenteric film coating for oral administration.
 Erythromycin Tablets are available in two strengths containing either 250 mg or 500 mg of erythromycin base.
 
 Erythromycin is produced by a strain of Saccharopolyspora erythraea (formerly Streptomyces erythraeus) and belongs to the macrolide group of antibiotics.
