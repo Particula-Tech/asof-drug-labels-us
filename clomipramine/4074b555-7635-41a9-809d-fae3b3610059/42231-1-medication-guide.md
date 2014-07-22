@@ -35,6 +35,15 @@ Call a healthcare provider right away if you or your family member has any of th
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
 
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
 Who should not take Anafranil?
 
 Do not take Anafranil if you:
@@ -65,12 +74,12 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Anafranil is a trademark of Mallinckrodt LLC.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
+
+© 2014 Mallinckrodt.
 
 Manufactured by Patheon Inc. Whitby, Ontario, Canada L1N 5Z5 for Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Rev 10/2012
+Rev 06/2014
 
-Mallinckrodt
-
-COVIDIEN™
+Mallinckrodt™ Pharmaceuticals

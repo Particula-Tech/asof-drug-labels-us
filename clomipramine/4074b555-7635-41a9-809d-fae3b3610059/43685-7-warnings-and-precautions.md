@@ -39,7 +39,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for clomipramine hydrochloride should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
@@ -66,6 +66,10 @@ Anafranil should be discontinued before initiating treatment with the MAOI (see 
 If concomitant use of Anafranil with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
 Treatment with Anafranil and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+
+Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including Anafranil may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## Seizures
 
@@ -164,6 +168,11 @@ Physicians are advised to discuss the following issues with patients for whom th
 4. Patients should be cautioned about using alcohol, barbiturates, or other CNS depressants concurrently, since Anafranil may exaggerate their response to these drugs;
 5. Patients should notify their physician if they become pregnant or intend to become pregnant during therapy;
 6. Patients should notify their physician if they are breast-feeding.
+
+Patients should be advised that taking Anafranil can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
 ## Drug Interactions
 
