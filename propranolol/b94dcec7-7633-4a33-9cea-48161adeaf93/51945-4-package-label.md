@@ -4,7 +4,7 @@ NDC 0378-0182-01
 
 Propranolol Hydrochloride Tablets, USP 10 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Propranolol hydrochloride, USP 10 mg
 
@@ -19,13 +19,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Adult Dosage: See accompa- nying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0182A10
+RM0182A11
 
 PRINCIPAL DISPLAY PANEL - 20 mg
 
@@ -33,7 +33,7 @@ NDC 0378-0183-01
 
 Propranolol Hydrochloride Tablets, USP 20 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Propranolol hydrochloride, USP 20 mg
 
@@ -48,13 +48,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Adult Dosage: See accompa- nying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0183A8
+RM0183A9
 
 PRINCIPAL DISPLAY PANEL - 40 mg
 
@@ -62,7 +62,7 @@ NDC 0378-0184-01
 
 Propranolol Hydrochloride Tablets, USP 40 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Propranolol hydrochloride, USP 40 mg
 
@@ -77,13 +77,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Adult Dosage: See accompa- nying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0184A8
+RM0184A9
 
 PRINCIPAL DISPLAY PANEL - 60 mg
 
@@ -91,7 +91,7 @@ NDC 0378-0187-01
 
 Propranolol Hydrochloride Tablets, USP 60 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Propranolol hydrochloride, USP 60 mg
 
@@ -106,13 +106,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Adult Dosage: See accompa- nying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0187A1
+RM0187A2
 
 PRINCIPAL DISPLAY PANEL - 80 mg
 
@@ -120,7 +120,7 @@ NDC 0378-0185-01
 
 Propranolol Hydrochloride Tablets, USP 80 mg
 
-Rx only 100 TABLETS
+Rx only 100 Tablets
 
 Each tablet contains: Propranolol hydrochloride, USP 80 mg
 
@@ -135,10 +135,10 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Adult Dosage: See accompa- nying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM0185A8
+RM0185A9
