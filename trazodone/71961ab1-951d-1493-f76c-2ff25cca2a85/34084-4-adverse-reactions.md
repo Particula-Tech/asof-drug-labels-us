@@ -10,7 +10,8 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Priapism [see Warnings and Precautions (5.9)]
 - Hyponatremia [see Warnings and Precautions (5.10)]
 - Cognitive and Motor Impairment [see Warnings and Precautions (5.11)]
-- Discontinuation Symptoms [see Warnings and Precautions (5.12)]
+- Angle-Closure Glaucoma [see Warnings and Precautions (5.12)]
+- Discontinuation Symptoms [see Warnings and Precautions (5.13)]
 
 The most common adverse reactions (reported in ≥ 5% and at twice the rate of placebo) are:
 
@@ -77,7 +78,7 @@ These incidence figures, also, cannot be compared with those obtained from other
 | Neurological |  |  |  |  |
 | Incoordination | 4.9 | 0 | 1.9 | 0 |
 | Paresthesia | 1.4 | 0 | 0 | * |
-| Temors | 2.8 | 1.1 | 5.1 | 3.8 |
+| Tremors | 2.8 | 1.1 | 5.1 | 3.8 |
 | Sexual Function |  |  |  |  |
 | Decreased Libido | * | 1.1 | 1.3 | * |
 | Other |  |  |  |  |

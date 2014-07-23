@@ -52,5 +52,5 @@ Directions for using the correct score when breaking the tablet, please refer to
 
 -For 300 mg, use the entire tablet.
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Dispense with a child-resistant closure in a tight, light-resistant container.

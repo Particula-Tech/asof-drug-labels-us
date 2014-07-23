@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17 PATIENT MEDICATION INFORMATION SECTION
 
 See FDA-approved Medication Guide
 
@@ -8,6 +8,11 @@ Prescribers or other health professionals should inform patients, their families
 
 Patients should be warned that:
 
+- Patients should be advised that taking trazodone hydrochloride can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+  Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+  Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+  Patients may wish to he examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+  [see Warnings and Precautions (5.12)]
 - There is a potential for increased risk of suicidal thoughts especially in children, teenagers and young adults.
 - The following symptoms should be reported to the physician: anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia, hypomania and mania.
 - They should inform their physician if they have a history of bipolar disorder, cardiac disease or myocardial infarction.
@@ -36,7 +41,7 @@ Manufactured by: Manufactured For: Apotex Inc. Apotex Corp. Toronto, Ontario Wes
 
 Canada M9L 1T9
 
-Revised: May 2013
+Revised: August 2014
 
 Rev.
-3
+4

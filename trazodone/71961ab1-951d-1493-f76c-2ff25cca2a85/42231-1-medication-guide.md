@@ -2,6 +2,8 @@
 
 Trazodone hydrochloride tablets, USP
 
+(traz' oh done hye'' droe klor' ide)
+
 Read the Medication Guide that comes with trazodone hydrochloride tablets before you start taking it and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
@@ -43,6 +45,16 @@ How can I watch for and try to prevent suicidal thoughts and actions?
   - An extreme increase in activity and talking (mania)
   - Other unusual changes in behavior or mood
 
+4.Visual problems:eye painchanges in visionswelling or redness in or around the eye
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
+5.
 What else do I need to know about antidepressant medicines?
 
 Never stop an antidepressant medicine without first talking to a healthcare provider.
@@ -81,8 +93,8 @@ Before you take trazodone hydrochloride tablets tell your healthcare provider if
   Trazodone hydrochloride tablets may harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - are breastfeeding or plan to breastfeed.
-  It is not known if trazodone hydrochloride tablets passes into your breast milk.
-  You and your healthcare provider should decide if you will take trazodone hydrochloride tablets or breastfeed.
+  It is not known if trazodone hydrochloride tablets into your breast milk.
+  You and your healthcare provider should decide if you will take trazodone hydrochloride or breastfeed.
 - have taken a Monoamine Oxidase Inhibitor (MAOI) or if you have stopped taking an MAOI in the last 2 weeks.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
@@ -169,6 +181,8 @@ This Medication Guide summarizes the most important information about trazodone 
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about trazodone hydrochloride tablets that is written for health professionals.
 
+For more information contact Apotex Corp., Drug Safety at 1-800-706-5575.
+
 What are the ingredients in trazodone hydrochloride tablets?
 
 Active ingredient: trazodone hydrochloride, USP
@@ -181,4 +195,4 @@ APOTEX INC. TRAZODONE HYDROCHLORIDE TABLETS, USP 50 mg, 100 mg, 150 mg and 300 m
 
 Manufactured by: Manufactured For: Apotex Inc. Apotex Corp. Toronto, Ontario Weston Florida 33326 Canada M9L 1T9
 
-Revised: May 2013
+Revised: August 2014

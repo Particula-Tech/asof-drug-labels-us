@@ -131,7 +131,11 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 Trazodone hydrochloride tablets may cause somnolence or sedation and may impair the mental and/or physical ability required for the performance of potentially hazardous tasks.
 Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that the drug treatment does not affect them adversely.
 
-## 5.12 Discontinuation Symptoms
+## 5.12 Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including trazodone hydrochloride - may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.13 Discontinuation Symptoms
 
 Withdrawal symptoms including anxiety, agitation and sleep disturbances, have been reported with trazodone.
 Clinical experience suggests that the dose should be gradually reduced before complete discontinuation of the treatment.
