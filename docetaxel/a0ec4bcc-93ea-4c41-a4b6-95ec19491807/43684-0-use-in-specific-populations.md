@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [See 'Warnings and Precautions' section]
+Pregnancy Category D
+
+[See Warnings and Precautions (5.11).]
 
 Based on its mechanism of action and findings in animals, Docetaxel Injection, USP can cause fetal harm when administered to a pregnant woman.
 If Docetaxel Injection, USP is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -19,7 +21,38 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of docetaxel in pediatric patients have not been established.
+The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.12)].
+
+The efficacy of docetaxel in pediatric patients as monotherapy or in combination has not been established.
+The overall safety profile of docetaxel in pediatric patients receiving monotherapy or TCF was consistent with the known safety profile in adults.
+
+Docetaxel has been studied in a total of 289 pediatric patients: 239 in 2 trials with monotherapy and 50 in combination treatment with cisplatin and 5-fluorouracil (TCF).
+
+Docetaxel Monotherapy
+
+Docetaxel monotherapy was evaluated in a dose-finding phase 1 trial in 61 pediatric patients (median age 12.5 years, range 1-22 years) with a variety of refractory solid tumors.
+The recommended dose was 125 mg/m2 as a 1-hour intravenous infusion every 21 days.
+The primary dose limiting toxicity was neutropenia.
+
+The recommended dose for docetaxel monotherapy was evaluated in a phase 2 single-arm trial in 178 pediatric patients (median age 12 years, range 1-26 years) with a variety of recurrent/refractory solid tumors.
+Efficacy was not established with tumor response rates ranging from one complete response (CR) (0.6%) in a patient with undifferentiated sarcoma to four partial responses (2.2%) seen in one patient each with Ewing Sarcoma, neuroblastoma, osteosarcoma, and squamous cell carcinoma.
+
+Docetaxel in Combination
+
+Docetaxel was studied in combination with cisplatin and 5-fluorouracil (TCF) versus cisplatin and 5-fluorouracil (CF) for the induction treatment of nasopharyngeal carcinoma (NPC) in pediatric patients prior to chemoradiation consolidation.
+Seventy-five patients (median age 16 years, range 9 to 21 years) were randomized (2:1) to docetaxel (75 mg/m²) in combination with cisplatin (75 mg/m²) and 5-fluorouracil (750 mg/m²) (TCF) or to cisplatin (80 mg/m²) and 5-fluorouracil (1000 mg/m²/day) (CF).
+The primary endpoint was the CR rate following induction treatment of NPC.
+One patient out of 50 in the TCF group (2%) had a complete response while none of the 25 patients in the CF group had a complete response.
+
+Pharmacokinetics
+
+Pharmacokinetic parameters for docetaxel were determined in 2 pediatric solid tumor trials.
+Following docetaxel administration at 55 mg/m2 to 235 mg/m2 in a 1-hour intravenous infusion every 3 weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was 17.3±10.9 L/h/m2.
+
+Docetaxel was administered in combination with cisplatin and 5-fluorouracil (TCF), at dose levels of 75 mg/m2 in a 1-hour intravenous infusion day 1 in 28 patients aged 10 to 21 years (median 16 years, 17 patients were older than 16).
+Docetaxel clearance was 17.9±8.75 L/h/m2, corresponding to an AUC of 4.20±2.57 μg•h/mL.
+
+In summary, the body surface area adjusted clearance of docetaxel monotherapy and TCF combination in children were comparable to those in adults [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -45,7 +78,24 @@ Breast Cancer
 In the adjuvant breast cancer trial (TAX316), docetaxel in combination with doxorubicin and cyclophosphamide was administered to 744 patients of whom 48 (6%) were 65 years of age or greater.
 The number of elderly patients who received this regimen was not sufficient to determine whether there were differences in safety and efficacy between elderly and younger patients.
 
+Gastric Cancer
+
+Among the 221 patients treated with Docetaxel Injection in combination with cisplatin and fluorouracil in the gastric cancer study, 54 were 65 years of age or older and 2 patients were older than 75 years.
+In this study, the number of patients who were 65 years of age or older was insufficient to determine whether they respond differently from younger patients.
+However, the incidence of serious adverse reactions was higher in the elderly patients compared to younger patients.
+The incidence of the following adverse reactions (all grades, regardless of relationship): lethargy, stomatitis, diarrhea, dizziness, edema, febrile neutropenia/neutropenic infection occurred at rates ≥10% higher in patients who were 65 years of age or older compared to younger patients.
+Elderly patients treated with TCF should be closely monitored.
+
+Head and Neck Cancer
+
+Among the 174 and 251 patients who received the induction treatment with Docetaxel Injection in combination with cisplatin and fluorouracil (TPF) for SCCHN in the TAX323 and TAX324 studies, 18 (10%) and 32 (13%) of the patients were 65 years of age or older, respectively.
+
+These clinical studies of Docetaxel Injection in combination with cisplatin and fluorouracil in patients with SCCHN did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
+Other reported clinical experience with this treatment regimen has not identified differences in responses between elderly and younger patients.
+
 ## 8.6 Hepatic Impairment
 
 Patients with bilirubin >ULN should not receive Docetaxel Injection, USP.
 Also, patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN should not receive Docetaxel Injection, USP [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+
+The alcohol content of Docetaxel Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.12)].

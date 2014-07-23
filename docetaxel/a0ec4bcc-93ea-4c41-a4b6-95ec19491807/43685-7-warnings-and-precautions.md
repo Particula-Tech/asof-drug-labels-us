@@ -34,7 +34,9 @@ Febrile neutropenia occurred in about 12% of patients given 100 mg/m2 but was ve
 
 Hematologic responses, febrile reactions and infections, and rates of septic death for different regimens are dose related [see Adverse Reactions (6.1), Clinical Studies (14)].
 
-Three breast cancer patients with severe liver impairment (bilirubin >1.7 times ULN) developed fatal gastrointestinal bleeding associated with severe drug-induced thrombocytopenia [see Dosage and Administration (2.7), Adverse Reactions (6)].
+Three breast cancer patients with severe liver impairment (bilirubin >1.7 times ULN) developed fatal gastrointestinal bleeding associated with severe drug-induced thrombocytopenia.
+In gastric cancer patients treated with docetaxel in combination with cisplatin and fluorouracil (TCF), febrile neutropenia and/or neutropenic infection occurred in 12% of patients receiving G-CSF compared to 28% who did not.
+Patients receiving TCF should be closely monitored during the first and subsequent cycles for febrile neutropenia and neutropenic infection [see Dosage and Administration (2.7), Adverse Reactions (6)].
 
 ## 5.4 Hypersensitivity Reactions
 
@@ -69,7 +71,7 @@ Treatment-related acute myeloid leukemia (AML) or myelodysplasia has occurred in
 In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin and cyclophosphamide [see Clinical Studies (14.2)].
 In TAC-treated patients, the risk of delayed myelodysplasia or myeloid leukemia requires hematological follow-up.
 
-## 5.7 Cutaneous Reactions
+## 5.7 Cutaneous Reaction
 
 Localized erythema of the extremities with edema followed by desquamation has been observed.
 In case of severe skin toxicity, an adjustment in dosage is recommended [see Dosage and Administration (2.7)].
@@ -84,12 +86,19 @@ If symptoms persist, treatment should be discontinued [see Dosage and Administra
 Patients who experienced neurotoxicity in clinical trials and for whom follow-up information on the complete resolution of the event was available had spontaneous reversal of symptoms with a median of 9 weeks from onset (range: 0 to 106 weeks).
 Severe peripheral motor neuropathy mainly manifested as distal extremity weakness occurred in 4.4% (42/965).
 
-## 5.9 Asthenia
+## 5.9 Eye Disorders
+
+Cystoid macular edema (CME) has been reported in patients treated with Docetaxel.
+Patients with impaired vision should undergo a prompt and comprehensive ophthalmologic examination.
+If CME is diagnosed, Docetaxel treatment should be discontinued and appropriate treatment initiated.
+Alternative non-taxane cancer treatment should be considered.
+
+## 5.10 Asthenia
 
 Severe asthenia has been reported in 14.9% (144/965) of metastatic breast cancer patients but has led to treatment discontinuation in only 1.8%.
 Symptoms of fatigue and weakness may last a few days up to several weeks and may be associated with deterioration of performance status in patients with progressive disease.
 
-## 5.10 Use in Pregnancy
+## 5.11 Use in Pregnancy
 
 Docetaxel Injection, USP can cause fetal harm when administered to a pregnant woman.
 Docetaxel caused embryofetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.
@@ -97,3 +106,12 @@ Embryofetal effects in animals occurred at doses as low as 1/50 and 1/300 the re
 There are no adequate and well-controlled studies in pregnant women using Docetaxel Injection, USP.
 If Docetaxel Injection, USP is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection, USP [see Use in Specific Populations (8.1)].
+
+## 5.12 Alcohol Content
+
+Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
+The alcohol content in a dose of Docetaxel Injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
+Consideration should be given to the alcohol content in Docetaxel Injection on the ability to drive or use machines immediately after the infusion.
+Each administration of Docetaxel Injection at 100 mg/m2 delivers 1.8 g/m2 of ethanol.
+For a patient with a BSA of 2.0m2, this would deliver 3.6 grams of ethanol [see Description (11)].
+Other docetaxel products may have a different amount of alcohol.
