@@ -141,6 +141,8 @@ Steroids should be used with caution in active or latent peptic ulcers, divertic
 
 Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
 
+There is an enhanced effect due to decreased metabolism of corticosteroids in patients with cirrhosis.
+
 ## Parenteral Administration
 
 Intra-articularly injected corticosteroids may be systemically absorbed.
