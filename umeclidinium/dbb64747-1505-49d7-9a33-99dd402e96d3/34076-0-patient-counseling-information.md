@@ -1,0 +1,34 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
+
+Not for Acute Symptoms: Inform patients that INCRUSE ELLIPTA is not meant to relieve acute symptoms of COPD and extra doses should not be used for that purpose.
+Advise them to treat acute symptoms with a rescue inhaler such as albuterol.
+Provide patients with such medicine and instruct them in how it should be used.
+
+Instruct patients to seek medical attention immediately if they experience any of the following:
+
+- •Symptoms get worse
+- •Need for more inhalations than usual of their rescue inhaler
+
+Patients should not stop therapy with INCRUSE ELLIPTA without physician/provider guidance since symptoms may recur after discontinuation.
+
+Paradoxical Bronchospasm: As with other inhaled medicines, INCRUSE ELLIPTA can cause paradoxical bronchospasm.
+If paradoxical bronchospasm occurs, instruct patients to discontinue INCRUSE ELLIPTA.
+
+Worsening of Narrow-Angle Glaucoma: Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
+Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
+
+Worsening of Urinary Retention: Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
+Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
+
+INCRUSE and ELLIPTA are registered trademarks of the GSK group of companies.
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2014, the GSK group of companies.
+All rights reserved.
+
+INC:3PI

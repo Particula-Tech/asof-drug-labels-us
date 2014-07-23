@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA205382"
+  ],
+  "inn": "umeclidinium",
+  "labeler": "GlaxoSmithKline LLC",
+  "package_ndcs": [
+    "0173-0873-06",
+    "0173-0873-10",
+    "0173-0873-61"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, POWDER",
+      "generic": "umeclidinium",
+      "name": "Incruse Ellipta"
+    }
+  ],
+  "setid": "dbb64747-1505-49d7-9a33-99dd402e96d3",
+  "source": "dailymed"
+}
