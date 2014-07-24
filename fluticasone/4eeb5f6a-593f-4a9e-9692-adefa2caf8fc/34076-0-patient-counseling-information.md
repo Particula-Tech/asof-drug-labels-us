@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Asthma-Related Death:Inform patients with asthma that salmeterol, one of the active ingredients in ADVAIR DISKUS, increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.Also inform them that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
+Asthma-Related Death: Inform patients with asthma that salmeterol, one of the active ingredients in ADVAIR DISKUS, increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.Also inform them that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 
 Not for Acute Symptoms: Inform patients that ADVAIR DISKUS is not meant to relieve acute asthma symptoms or exacerbations of COPD and extra doses should not be used for that purpose.
 Advise patients to treat acute symptoms with an inhaled, short-acting beta2‑agonist such as albuterol.
@@ -53,4 +53,4 @@ Research Triangle Park, NC 27709
 ©2014, the GSK group of companies.
 All rights reserved.
 
-ADD:11PI
+ADD:12PI

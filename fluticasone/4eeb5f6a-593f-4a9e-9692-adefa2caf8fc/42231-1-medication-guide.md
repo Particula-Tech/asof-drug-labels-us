@@ -26,8 +26,8 @@ ADVAIR DISKUS can cause serious side effects, including:
 - •Call your healthcare provider if breathing problems worsen over time while using ADVAIR DISKUS.
   You may need different treatment.
 - •Get emergency medical care if:
-  - •your breathing problems worsen quickly.
-  - •you use your rescue inhaler, but it does not relieve your breathing problems.
+  - oyour breathing problems worsen quickly.
+  - oyou use your rescue inhaler, but it does not relieve your breathing problems.
 - •ADVAIR DISKUS should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as an inhaled corticosteroid.
   When your asthma is well controlled, your healthcare provider may tell you to stop taking ADVAIR DISKUS.
   Your healthcare provider will decide if you can stop ADVAIR DISKUS without loss of asthma control.
@@ -125,14 +125,14 @@ Read the step-by-step instructions for using ADVAIR DISKUS at the end of this Me
   Always have a rescue inhaler with you to treat sudden symptoms.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
-  - •your breathing problems get worse.
-  - •you need to use your rescue inhaler more often than usual.
-  - •your rescue inhaler does not work as well to relieve your symptoms.
-  - •you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row.
-  - •you use 1 whole canister of your rescue inhaler in 8 weeks.
-  - •your peak flow meter results decrease.
+  - oyour breathing problems get worse.
+  - oyou need to use your rescue inhaler more often than usual.
+  - oyour rescue inhaler does not work as well to relieve your symptoms.
+  - oyou need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row.
+  - oyou use 1 whole canister of your rescue inhaler in 8 weeks.
+  - oyour peak flow meter results decrease.
     Your healthcare provider will tell you the numbers that are right for you.
-  - •you have asthma and your symptoms do not improve after using ADVAIR DISKUS regularly for 1 week
+  - oyou have asthma and your symptoms do not improve after using ADVAIR DISKUS regularly for 1 week.
 
 What are the possible side effects with ADVAIR DISKUS?
 
@@ -141,43 +141,43 @@ ADVAIR DISKUS can cause serious side effects, including:
 - •See “What is the most important information I should know about ADVAIR DISKUS?”
 - •fungal infection in your mouth or throat (thrush).
   Rinse your mouth with water without swallowing after using ADVAIR DISKUS to help reduce your chance of getting thrush.
-  - •pneumonia.
+  - opneumonia.
     People with COPD have a higher chance of getting pneumonia.
     ADVAIR DISKUS may increase the chance of getting pneumonia.
     Call your healthcare provider if you notice any of the following symptoms:
-  - •increase in mucus (sputum) production
-  - •change in mucus color
-  - •fever
-  - •chills
-  - •increased cough
-  - •increased breathing problems
+    - oincrease in mucus (sputum) production
+    - ochange in mucus color
+    - ofever
+    - ochills
+    - oincreased cough
+    - oincreased breathing problems
 - •weakened immune system and increased chance of getting infections (immunosuppression)
 - •reduced adrenal function (adrenal insufficiency).
   Adrenal insufficiency is a condition where the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled steroid (such as ADVAIR DISKUS).
   When your body is under stress such as from fever, trauma (such as a car accident), infection, surgery, or worse COPD symptoms, adrenal insufficiency can get worse and may cause death.
-
-Symptoms of adrenal insufficiency include:
-
-- •feeling tired
-- •lack of energy
-- •weakness
-- •nausea and vomiting
-- •low blood pressure
+- Symptoms of adrenal insufficiency include:
+- 
+  - 
+    - ofeeling tired
+    - olack of energy
+    - oweakness
+    - onausea and vomiting
+    - olow blood pressure
 - •sudden breathing problems immediately after inhaling your medicine
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - •rash
-  - •hives
-  - •swelling of your face, mouth, and tongue
-  - •breathing problems
+  - orash
+  - ohives
+  - oswelling of your face, mouth, and tongue
+  - obreathing problems
 - •effects on heart
-  - •increased blood pressure
-  - •a fast or irregular heartbeat
-  - •chest pain
+  - oincreased blood pressure
+  - oa fast or irregular heartbeat
+  - ochest pain
 - •effects on nervous system
-  - •tremor
-  - •nervousness
+  - otremor
+  - onervousness
 - •bone thinning or weakness (osteoporosis)
 - •slowed growth in children.
   A child’s growth should be checked often.
@@ -283,22 +283,22 @@ Step 2.
 Slide the lever until you hear it click.
 
 - •Hold the DISKUS in a level, flat position with the mouthpiece towards you.
-  Slide the lever away from the mouthpiece as far as it will go until it clicks.See Figure C.
+  Slide the lever away from the mouthpiece as far as it will go until it clicks.
+  See Figure C.
 
-- Figure C
+Figure C
 
 - •The number on the counter will count down by 1.
   The DISKUS is now ready to use.
-- Follow the instructions below so you will not accidentally waste a dose:
-- Do not close the DISKUS.
+
+Follow the instructions below so you will not accidentally waste a dose:
 
 - •Do not close the DISKUS.
 - •Do not tilt the DISKUS.
 - •Do not move the lever on the DISKUS.
-- Step 3.
-  Inhale your medicine.
-- Before you breathe in your dose from the DISKUS, breathe out (exhale) as long as you can while you hold the DISKUS level and away from your mouth.
-  See Figure D. Do not breathe into the mouthpiece.
+
+Step 3.
+Inhale your medicine.
 
 - •Before you breathe in your dose from the DISKUS, breathe out (exhale) as long as you can while you hold the DISKUS level and away from your mouth.
   See Figure D. Do not breathe into the mouthpiece.
@@ -321,7 +321,7 @@ Step 4.
 Close the DISKUS.
 
 - •Place your thumb in the thumb grip and slide it back towards you as far as it will go.
-  See Figure F. Make sure the Diskus clicks shut and you cannot see the mouthpiece.
+  See Figure F. Make sure the DISKUS clicks shut and you cannot see the mouthpiece.
 
 Figure F
 
@@ -346,7 +346,7 @@ See Figure H. These numbers warn you there are only a few doses left and are a r
 
 Figure H
 
-- For correct use of the DISKUS, remember:
+For correct use of the DISKUS, remember:
 
 - •Always use the DISKUS in a level, flat position.
 - •Make sure the lever firmly clicks into place.

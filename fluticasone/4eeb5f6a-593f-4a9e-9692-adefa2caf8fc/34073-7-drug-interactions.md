@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-ADVAIR DISKUS has been used concomitantly with other drugs, including short-acting beta2-agonists, methylxanthines, and intranasal corticosteroids, commonly used in patients with asthma or COPD, without adverse drug reactions [see Clinical Pharmacology (12.2)].
+ADVAIR DISKUS has been used concomitantly with other drugs, including short-acting beta2-agonists, methylxanthines, and intranasal corticosteroids, commonly used in patients with asthma or COPD without adverse drug reactions [see Clinical Pharmacology (12.2)].
 No formal drug interaction trials have been performed with ADVAIR DISKUS.
 
 ## 7.1 Inhibitors of Cytochrome P450 3A4

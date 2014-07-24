@@ -167,7 +167,7 @@ No significant amount of unchanged salmeterol base was detected in either urine 
 An in vitro study using human liver microsomes showed that salmeterol is extensively metabolized to α-hydroxysalmeterol (aliphatic oxidation) by CYP3A4.
 Ketoconazole, a strong inhibitor of CYP3A4, essentially completely inhibited the formation of α-hydroxysalmeterol in vitro.
 
-Elimination:Fluticasone Propionate: Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
+Elimination: Fluticasone Propionate: Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 Terminal half-life estimates of fluticasone propionate for ADVAIR HFA, ADVAIR DISKUS, and fluticasone propionate CFC inhalation aerosol were similar and averaged 5.6 hours.
 
