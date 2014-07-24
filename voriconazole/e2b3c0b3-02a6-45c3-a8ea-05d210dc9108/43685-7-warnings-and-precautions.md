@@ -25,7 +25,7 @@ The effect of voriconazole on visual function is not known if treatment continue
 There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field and color perception should be monitored [see ADVERSE REACTIONS (6.2)].
 
-## 5.4 Pregnancy Category D
+## 5.4 Embryo Fetal Toxicity
 
 Voriconazole can cause fetal harm when administered to a pregnant woman.
 
@@ -36,7 +36,7 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 
 ## 5.5 Galactose Intolerance
 
-Voriconazole contains lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
+Voriconazole tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
 
 ## 5.6 Arrhythmias and QT Prolongation
 

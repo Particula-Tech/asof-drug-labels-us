@@ -10,6 +10,8 @@ Pharmacist: Please dispense with Patient Information Leaflet.
 
 30 Tablets
 
+# PRINCIPAL DISPLAY PANEL
+
 NDC 0781-5668-31
 
 Voriconazole Tablets

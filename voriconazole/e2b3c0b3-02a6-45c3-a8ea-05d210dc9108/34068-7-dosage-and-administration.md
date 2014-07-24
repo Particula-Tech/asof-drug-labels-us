@@ -15,7 +15,7 @@ Once the patient has clinically improved and can tolerate medication given by mo
 The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg IV; a 300 mg oral dose achieves an exposure similar to 4 mg/kg IV.
 Switching between the intravenous and oral formulations is appropriate because of the high bioavailability of the oral formulation in adults [see CLINICAL PHARMACOLOGY (12)].
 
-Candidemia in Non-neutropenic Patients and Other Deep tissue Candida Infections
+Candidemia in Non-neutropenic Patients and Other Deep Tissue Candida Infections
 
 See Table 1.
 Patients should be treated for at least 14 days following resolution of symptoms or following last positive culture, whichever is longer.
@@ -27,14 +27,27 @@ Patients should be treated for a minimum of 14 days and for at least 7 days foll
 
 Table 1 Recommended Dosing Regimen
 
-| Infection | Loading dose | Maintenance Dosea,b |  |
+| Infection | Loading Dose | Maintenance Dosea,b |  |
 | --- | --- | --- | --- |
-|  | IV | IV | Oralc |
+| IV | IV | Oralc |  |
 | Invasive Aspergillosisd | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
-| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg q12h for the first 24 hours | 3 to 4 mg/kg q12h e | 200 mg q12h |
+| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg q12h for the first 24 hours | 3 to 4 mg/kg q12h | 200 mg q12h |
 | Esophageal Candidiasis | f | f | 200 mg q12h |
 | Scedosporiosis and Fusariosis | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
-| a Increase dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.7) b In healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see CLINICAL PHARMACOLOGY (12)]. c Adult patients who weigh less than 40 kg should receive half of the oral maintenance dose. d In a clinical study of invasive aspergillosis, the median duration of intravenous voriconazole therapy was 10 days (range 2 to 90 days). The median duration of oral voriconazole therapy was 76 days (range 2 to 232 days) [see CLINICAL STUDIES (14.1)]. e In clinical trials, patients with candidemia received 3 mg/kg q12h as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg as salvage therapy. Appropriate dose should be based on the severity and nature of the infection f Not evaluated in patients with esophageal candidiasis. |  |  |  |
+
+a Increase dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.7)
+
+bIn healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see CLINICAL PHARMACOLOGY (12)].
+
+c Adult patients who weigh less than 40 kg should receive half of the oral maintenance dose.
+
+d In a clinical study of invasive aspergillosis, the median duration of intravenous voriconazole therapy was 10 days (range 2 to 85 days).
+The median duration of oral voriconazole therapy was 76 days (range 2 to 232 days) [see CLINICAL STUDIES (14.1)].
+
+e In clinical trials, patients with candidemia received 3 mg/kg IV q12h as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg q12h as salvage therapy.
+Appropriate dose should be based on the severity and nature of the infection
+
+f Not evaluated in patients with esophageal candidiasis.
 
 ## 2.4 Dosage Adjustment
 

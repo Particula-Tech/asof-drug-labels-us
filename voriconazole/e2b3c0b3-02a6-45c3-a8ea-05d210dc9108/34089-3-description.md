@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Voriconazole, a triazole antifungal agent, is available as a film-coated tablets for oral administration.
+Voriconazole, an azole antifungal agent, is available as a film-coated tablets for oral administration.
 
 The structural formula is:
 
