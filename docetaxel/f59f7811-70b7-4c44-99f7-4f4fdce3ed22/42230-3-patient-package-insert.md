@@ -12,10 +12,13 @@ See FDA-Approved Patient Labeling
   Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever.
 - Instruct patients to report myalgia, cutaneous, or neurologic reactions.
 - Explain to patients that side effects such as nausea, vomiting, diarrhea, constipation, fatigue, excessive tearing, infusion site reactions, and hair loss are associated with docetaxel administration.
+- Explain to patients the possible effects of the alcohol content in Docetaxel Injection, including possible effects on the central nervous system.
+  Patients in whom alcohol should be avoided or minimized should consider the alcohol content of Docetaxel Injection.
+  Alcohol could impair their ability to drive or use machines immediately after infusion.
 
 Patient Information
 
-Docetaxel Injection (pronounced as DOSE-ē-tāx-el In’-jek-shun)
+Docetaxel (doe-se-TAKS-el) Injection Intravenous Infusion
 
 Read this Patient Information before you receive your first treatment with Docetaxel Injection and each time before you are treated.
 There may be new information.
@@ -67,11 +70,11 @@ Docetaxel Injection is a prescription anti-cancer medicine used to treat certain
 - stomach cancer
 - head and neck cancer
 
-The effectiveness of Docetaxel Injection in children has not been established.
+It is not known if Docetaxel Injection is safe and effective in children.
 
-Who should not take Docetaxel Injection ?
+Who should not receive Docetaxel Injection ?
 
-Do not take Docetaxel Injection if you
+Do not receive Docetaxel Injection if you
 
 - have had a severe allergic reaction to: See “What is the most important information I should know about Docetaxel Injection ?” for the signs and symptoms of a severe allergic reaction.
   - docetaxel, the active ingredient in Docetaxel Injection, or
@@ -88,24 +91,25 @@ Before you receive Docetaxel Injection, tell your doctor if you:
 - have liver problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  Docetaxel Injection can harm your unborn baby.
+  Docetaxel Injection can harm your unborn baby You should not become pregnant during treatment with Docetaxel Injection.
+  Talk to your doctor about effective birth control while receiving Docetaxel Injection.
 - are breast-feeding or plan to breast-feed.
   It is not known if Docetaxel Injection passes into your breast milk.
-  You and your doctor should decide if you will take Docetaxel Injection or breast-feed.
+  You and your doctor should decide if you will receive Docetaxel Injection or breast-feed.
 
-Tell your doctor about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Docetaxel Injection may affect the way other medicines work, and other medicines may affect the way Docetaxel Injection works.
 
 Know the medicines you take.
-Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
 How will I receive Docetaxel Injection ?
 
-- Docetaxel Injection will be given to you as an intravenous injection into your vein, usually over 1 hour.
+- Docetaxel Injection will be given to you as an intravenous(IV) injection into your vein, usually over 1 hour.
 - Docetaxel Injection is usually given every 3 weeks.
 - Your doctor will decide how long you will receive treatment with Docetaxel Injection.
 - Your doctor will check your blood cell counts and other blood tests during your treatment with Docetaxel Injection to check for side effects of Docetaxel Injection
-- Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while taking Docetaxel Injection
+- Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while receiving Docetaxel Injection
 
 What are the possible side effects of Docetaxel Injection ?
 
@@ -114,34 +118,39 @@ Docetaxel Injection may cause serious side effects including death.
 - See "What is the most important information I should know about Docetaxel Injection ?
   "
 - Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who take Docetaxel Injection along with certain other medicines.
-  Tell your doctor about all the medicines you take.
-- Other Blood Disorders,Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection.
+- Other Blood Disorders-Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docetaxel Injection.
 - Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
 - Neurologic Symptoms including numbness, tingling, or burning in your hands and feet.
-  The most common side effects of Docetaxel Injection include:
-  - changes in your sense of taste
-  - feeling short of breath
-  - constipation
-  - decreased appetite
-  - changes in your fingernails or toenails
-  - swelling of your hands, face or feet
-  - feeling weak or tired
-  - joint and muscle pain
-  - nausea and vomiting
-  - diarrhea
-  - mouth or lips sores
-  - hair loss
-  - rash
-  - redness of the eye, excess tearing
-  - skin reactions at the site of Docetaxel Injection administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin.
-  - tissue damage if Docetaxel Injection leaks out of the vein into the tissues
+- Vision Problems including blurred vision or loss of vision.
+- Docetaxel Injection contains alcohol.
+  The alcohol content in Docetaxel Injection may impair your ability to drive or use machinery right after receiving Docetaxel Injection.
+  Consider whether you should drive, operate machinery or do other dangerous activities right after you receive Docetaxel Injection treatment.
+
+The most common side effects of Docetaxel Injection include:
+
+- changes in your sense of taste
+- feeling short of breath
+- constipation
+- decreased appetite
+- changes in your fingernails or toenails
+- swelling of your hands, face or feet
+- feeling weak or tired
+- joint and muscle pain
+- nausea and vomiting
+- diarrhea
+- mouth or lips sores
+- hair loss
+- rash
+- redness of the eye, excess tearing
+- skin reactions at the site of Docetaxel Injection administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin
+- tissue damage if Docetaxel Injection leaks out of the vein into the tissues
 
 Tell your doctor if you have any side effect that bothers you or does not go away.
 
 These are not all the possible side effects of Docetaxel Injection.
 For more information ask your doctor or pharmacist.
 
-Call your doctor or for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 General information about Docetaxel Injection
@@ -149,21 +158,23 @@ General information about Docetaxel Injection
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 This Patient Information leaflet summarizes the most important information about Docetaxel Injection.
 If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about Docetaxel Injection that is written for healthcare professionals.
+You can ask your pharmacist or doctor for information about Docetaxel Injection that is written for health professionals.
+
+For more information, call 1-866-941-7875
 
 What are the ingredients in Docetaxel Injection ?
 
 Two-vial formulation (Injection Concentrate and Diluent)
 
-Active ingredient: docetaxel
+Active ingredient: docetaxel anhydrous USP
 
-Inactive ingredients include: polyethylene glycol 400 and polysorbate 80
+Inactive ingredients: dehydrated alcohol, anhydrous citric acid, polyethylene glycol 400 and polysorbate 80
 
 One-vial formulation (Injection Concentrate)
 
-Active ingredient: docetaxel
+Active ingredient: docetaxel anhydrous USP
 
-Inactive ingredients include: anhydrous citric acid, polysorbate 80 and dehydrated alcohol
+Inactive ingredients: anhydrous citric acid, polysorbate 80 and dehydrated alcohol
 
 | Every three-week injection of Docetaxel Injection for breast, non-small cell lung and stomach, and head and neck cancers |
 | --- |
@@ -180,3 +191,5 @@ Inactive ingredients include: anhydrous citric acid, polysorbate 80 and dehydrat
 | Date:_________Time:___________ |
 | Date:_________Time:___________ (Docetaxel Injection Treatment Day) |
 | Time:___________ |
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.

@@ -76,7 +76,7 @@ Docetaxel Injection 80 mg/2 mL (NDC 16729-228-50)
 
 Docetaxel Injection 20 mg/0.5 mL (NDC 16729-120-49)
 
-# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - One-vial formulation (Injection Concentrate)- Single Use
+One-vial formulation (Injection Concentrate)- Single Use
 
 Docetaxel Injection Concentrate 160 mg/8 mL (NDC 16729-231-65)
 
@@ -84,7 +84,7 @@ Docetaxel Injection Concentrate 80 mg/4 mL (NDC 16729-231-64)
 
 Docetaxel Injection Concentrate 20 mg/mL (NDC 16729-231-63)
 
-# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - One-vial formulation (Injection Concentrate)- Multi Use
+# One-vial formulation (Injection Concentrate)- Multi Use
 
 Docetaxel Injection Concentrate 160 mg/8 mL (NDC 16729-267-65)
 

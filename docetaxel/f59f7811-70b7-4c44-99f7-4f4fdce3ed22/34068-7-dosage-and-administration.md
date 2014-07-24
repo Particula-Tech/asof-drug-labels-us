@@ -7,7 +7,7 @@ Administer in a facility equipped to manage possible complications (e.g. anaphyl
 ## 2.1 Breast Cancer
 
 - For locally advanced or metastatic breast cancer after failure of prior chemotherapy, the recommended dose of Docetaxel Injection is 60 mg/m2 to 100 mg/m2 administered intravenously over 1 hour every 3 weeks.
-- For the adjuvant treatment of operable node-positive breast cancer, the recommended Docetaxel Injection dose is 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m 2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 courses.
+- For the adjuvant treatment of operable node-positive breast cancer, the recommended Docetaxel Injection dose is 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 courses.
   Prophylactic granulocyte - colony stimulating factor (G-CSF) may be used to mitigate the risk of hematological toxicities [see Dosage and Administration (2.7)].
 
 ## 2.2 Non-Small Cell Lung Cancer

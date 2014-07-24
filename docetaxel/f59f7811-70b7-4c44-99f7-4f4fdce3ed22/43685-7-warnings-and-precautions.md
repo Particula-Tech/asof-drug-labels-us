@@ -84,12 +84,19 @@ If symptoms persist, treatment should be discontinued [see Dosage and Administra
 Patients who experienced neurotoxicity in clinical trials and for whom follow-up information on the complete resolution of the event was available had spontaneous reversal of symptoms with a median of 9 weeks from onset (range: 0 to 106 weeks).
 Severe peripheral motor neuropathy mainly manifested as distal extremity weakness occurred in 4.4% (42/965).
 
-## 5.9 Asthenia
+## 5.9 Eye Disorders
+
+Cystoid macular edema (CME) has been reported in patients treated with Docetaxel Injection.
+Patients with impaired vision should undergo a prompt and comprehensive ophthalmologic examination.
+If CME is diagnosed, Docetaxel Injection treatment should be discontinued and appropriate treatment initiated.
+Alternative non-taxane cancer treatment should be considered.
+
+## 5.10 Asthenia
 
 Severe asthenia has been reported in 14.9% (144/965) of metastatic breast cancer patients but has led to treatment discontinuation in only 1.8%.
 Symptoms of fatigue and weakness may last a few days up to several weeks and may be associated with deterioration of performance status in patients with progressive disease.
 
-## 5.10 Use in Pregnancy
+## 5.11 Use in Pregnancy
 
 Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
 Docetaxel caused embryofetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.
@@ -98,3 +105,17 @@ Embryofetal effects in animals occurred at doses as low as 1/50 and 1/300 the re
 There are no adequate and well-controlled studies in pregnant women using Docetaxel Injection.
 If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection [see Use in Specific Populations (8.1)].
+
+## 5.12 Alcohol Content
+
+Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
+The alcohol content in a dose of Docetaxel Injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
+Consideration should be given to the alcohol content in Docetaxel Injection on the ability to drive or use machines immediately after the infusion.
+
+For Two-vial formulation (Injection Concentrate and Diluent) Each administration of Docetaxel Injection at 100 mg/m2 delivers 0.15 g/m2of ethanol.
+For a patient with a BSA of 2.0 m2, this would deliver 0.3 grams of ethanol [see Description (11)].
+Other docetaxel products may have a different amount of alcohol.
+
+For One-vial formulation (Injection Concentrate) Each administration of Docetaxel Injection at 100 mg/m2 delivers 1.975 g/m2 of ethanol.
+For a patient with a BSA of 2.0 m2, this would deliver 3.95 grams of ethanol [see Description (11)].
+Other docetaxel products may have a different amount of alcohol.
