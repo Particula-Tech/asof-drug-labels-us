@@ -11,3 +11,5 @@ It has a molecular weight of 764.87.
 Zolpidem tartrate extended-release tablets USP consist of a coated two-layer tablet: one layer that releases its drug content immediately and another layer that allows a slower release of additional drug content.
 The 6.25 mg zolpidem tartrate extended-release tablets USP contain the following inactive ingredients: colloidal silicon dioxide, FD&C Blue # 2 aluminium lake, hypromellose, iron oxide red, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, potassium bitartrate, sodium starch glycolate and titanium dioxide.
 The 12.5 mg zolpidem tartrate extended-release tablets USP contain the following inactive ingredients: colloidal silicon dioxide, FD&C Blue # 2 aluminium lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, potassium bitartrate, sodium starch glycolate and titanium dioxide.
+
+Zolpidem tartrate extended-release tablets USP meets USP Dissolution Test 6.

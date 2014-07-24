@@ -108,7 +108,7 @@ What are the possible side effects of zolpidem tartrate extended-release tablets
 Zolpidem tartrate extended-release tablets may cause serious side effects including:
 
 - getting out of bed while not being fully awake and doing an activity that you do not know you are doing.
-  (See "What is the most important information I should know about zolpidem tartrate extended-release tablet?
+  (See "What is the most important information I should know about zolpidem tartrate extended-release tablets?
   ")
 - abnormal thoughts and behavior.
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
