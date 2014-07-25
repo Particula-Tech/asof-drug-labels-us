@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 18 mg Tablet Label
+# PRINCIPAL DISPLAY PANEL - 18 mg Tablet Bottle Label
 
 NDC 50458-585-01 100 tablets
 
@@ -14,7 +14,9 @@ Rx only
 
 Please see the Medication Guide provided by your pharmacist.
 
-PRINCIPAL DISPLAY PANEL - 27 mg Tablet Label
+Janssen
+
+# PRINCIPAL DISPLAY PANEL - 27 mg Tablet Bottle Label
 
 NDC 50458-588-01 100 tablets
 
@@ -32,7 +34,7 @@ Please see the Medication Guide provided by your pharmacist.
 
 Janssen
 
-PRINCIPAL DISPLAY PANEL - 36 mg Tablet Label
+# PRINCIPAL DISPLAY PANEL - 36 mg Tablet Bottle Label
 
 NDC 50458-586-01 100 tablets
 
@@ -48,7 +50,9 @@ Rx only
 
 Please see the Medication Guide provided by your pharmacist.
 
-PRINCIPAL DISPLAY PANEL - 54 mg Tablet Label
+Janssen
+
+# PRINCIPAL DISPLAY PANEL - 54 mg Tablet Bottle Label
 
 NDC 50458-587-01 100 tablets
 
@@ -63,3 +67,5 @@ Each tablet contains 54 mg methylphenidate hydrochloride in a controlled-release
 Rx only
 
 Please see the Medication Guide provided by your pharmacist.
+
+Janssen
