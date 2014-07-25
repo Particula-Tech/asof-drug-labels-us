@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The short-term efficacy of Vyvanse in the treatment of ADHD was established on the basis of three controlled trials in children ages 6 to 12 years (Studies 1, 2, and 3), one controlled trial in adolescents ages 13 to 17 years (Study 4), one controlled trial in children and adolescents ages 6-17 years (Study 5), and two controlled trials in adults (Study 7 and 8) who met Diagnostic and Statistical Manual of Mental Disorders, 4th edition – text revision (DSM-IV-TR) criteria for ADHD.
-Maintenance of efficacy after long-term use (at least 6 months) of Vyvanse in the treatment of ADHD was demonstrated in two randomized withdrawal trials in children and adolescents (Study 6), and adults (Study 9) [see Indications and Usage (1)].
+Maintenance of efficacy after long-term use (at least 6 months) of Vyvanse in the treatment of ADHD was demonstrated in two randomized withdrawal trials in children and adolescents (Study 6), and adults (Study 9).
 
 Patients Ages 6 to 12 Years Old
 
@@ -24,7 +24,7 @@ The drug effect reached statistical significance from hours 2 to 12 post-dose, b
 
 A second double-blind, placebo-controlled, randomized, crossover design, analog classroom study (Study 3) was conducted in children ages 6 to 12 years (N=129) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
 Following a 4-week open-label dose optimization with Vyvanse (30 mg, 50 mg, 70 mg), patients were randomly assigned to continue their optimized dose of Vyvanse or placebo once daily in the morning for 1 week each treatment.
-A significant difference in patient behavior, based upon the average of investigator ratings on the SKAMP-Deportment scores across all 7 assessments conducted at 1.5, 2.5, 5.0, 7.5, 10.0, 12.0, and 13.0 hours post-dose, were observed between patients when they received Vyvanse compared to patients when they received placebo (Study 3 in Table 4, Figure 1).
+A significant difference in patient behavior, based upon the average of investigator ratings on the SKAMP-Deportment scores across all 7 assessments conducted at 1.5, 2.5, 5.0, 7.5, 10.0, 12.0, and 13.0 hours post-dose, were observed between patients when they received Vyvanse compared to patients when they received placebo (Study 3 in Table 4, Figure 4).
 
 Patients Ages 13 to 17 Years Old
 
@@ -42,7 +42,7 @@ Patients Ages 6 to 17 Years Old: Short-Term Treatment
 A double-blind, randomized, placebo- and active-controlled parallel-group, dose-optimization study (Study 5) was conducted in children and adolescents ages 6 to 17 years (n=336) who met DSM-IV criteria for ADHD.
 In this eight-week study, patients were randomized to a daily morning dose of Vyvanse (30, 50 or 70mg/day), an active control, or placebo (1:1:1).
 The study consisted of a Screening and Washout Period (up to 42 days), a 7-week Double-blind Evaluation Period (consisting of a 4-week Dose-Optimization Period followed by a 3-week Dose-Maintenance Period), and a 1-week Washout and Follow-up Period.
-During the Dose Optimization Period, subjects were titrated until an optimal dose, based on tolerability and investigator’s judgment, was reached.
+During the Dose Optimization Period, subjects were titrated until an optimal dose, based on tolerability and investigator's judgment, was reached.
 Vyvanse showed significantly greater efficacy than placebo.
 The placebo-adjusted mean reduction from baseline in the ADHD-RS-IV total score was 18.6.
 Subjects on Vyvanse also showed greater improvement on the Clinical Global Impression-Improvement (CGI-I) rating scale compared to subjects on placebo (Study 5 in Table 4).
@@ -58,7 +58,7 @@ Patients were observed for relapse (treatment failure) during the 6 week double 
 A significantly lower proportion of treatment failures occurred among Vyvanse subjects (15.8%) compared to placebo (67.5%) at endpoint of the randomized withdrawal period.
 The endpoint measurement was defined as the last post-randomization treatment week at which a valid ADHD-RS Total Score and CGI-S were observed.
 Treatment failure was defined as a ≥50% increase (worsening) in the ADHD-RS Total Score and a ≥2-point increase in the CGI-S score compared to scores at entry into the double-blind randomized withdrawal phase.
-Subjects who withdrew from the randomized withdrawal period and who did not provide efficacy data at their last on-treatment visit were classified as treatment failures (Study 6, Figure 2).
+Subjects who withdrew from the randomized withdrawal period and who did not provide efficacy data at their last on-treatment visit were classified as treatment failures (Study 6, Figure 5).
 
 Adults: Short-Term Treatment
 
@@ -77,19 +77,19 @@ Patients were then randomized to one of two treatment sequences: 1) Vyvanse (opt
 Efficacy assessments occurred at the end of each week, using the Permanent Product Measure of Performance (PERMP), a skill-adjusted math test that measures attention in ADHD.
 PERMP total score results from the sum of the number of math problems attempted plus the number of math problems answered correctly.
 Vyvanse treatment, compared to placebo, resulted in a statistically significant improvement in attention across all post-dose time points, as measured by average PERMP total scores over the course of one assessment day, as well as at each time point measured.
-The PERMP assessments were administered at pre-dose (-0.5 hours) and at 2, 4, 8, 10, 12, and 14 hours post-dose (Study 8 in Table 4, Figure 3).
+The PERMP assessments were administered at pre-dose (-0.5 hours) and at 2, 4, 8, 10, 12, and 14 hours post-dose (Study 8 in Table 4, Figure 6).
 
 Adults: Maintenance Treatment
 
 A double-blind, placebo-controlled, randomized withdrawal design study (Study 9) was conducted in adults ages 18 to 55 (N=123) who had a documented diagnosis of ADHD or met DSM-IV criteria for ADHD.
 At study entry, patients must have had documentation of treatment with Vyvanse for a minimum of 6 months and had to demonstrate treatment response as defined by Clinical Global Impression Severity (CGI-S) ≤3 and Total Score on the ADHD-RS <22.
 ADHD-RS Total Score is a measure of core symptoms of ADHD.
-The CGI-S score assesses the clinician’s impression of the patient’s current illness state and ranges from 1 (not at all ill) to 7 (extremely ill).
+The CGI-S score assesses the clinician's impression of the patient's current illness state and ranges from 1 (not at all ill) to 7 (extremely ill).
 Patients that maintained treatment response at week 3 of the open label treatment phase (N=116) were eligible to be randomized to ongoing treatment with the same dose of Vyvanse (N=56) or switched to placebo (N=60) during the double-blind phase.
 Patients were observed for relapse (treatment failure) during the 6-week double-blind phase.
 The efficacy endpoint was the proportion of patients with treatment failure during the double-blind phase.
 Treatment failure was defined as a ≥50% increase (worsening) in the ADHD-RS Total Score and ≥2-point increase in the CGI-S score compared to scores at entry into the double-blind phase.
-Maintenance of efficacy for patients treated with Vyvanse was demonstrated by the significantly lower proportion of patients with treatment failure (9%) compared to patients receiving placebo (75%) at endpoint during the double-blind phase (Study 9, Figure 4).
+Maintenance of efficacy for patients treated with Vyvanse was demonstrated by the significantly lower proportion of patients with treatment failure (9%) compared to patients receiving placebo (75%) at endpoint during the double-blind phase (Study 9, Figure 7).
 
 Table 4: Summary of Primary Efficacy Results from 1-7 Week Studies of Vyvanse in Children, Adolescents, and Adults with ADHD
 
@@ -119,14 +119,14 @@ bPre-dose SKAMP-DS was not collected
 
 CI: Confidence interval
 
-Figure 1 LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Children Ages 6 to 12 with ADHD after 1 Week of Double Blind Treatment (Study 3)
+Figure 4 LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Children Ages 6 to 12 with ADHD after 1 Week of Double Blind Treatment (Study 3)
 
 Higher score on the SKAMP-Deportment scale indicates more severe symptoms
 
-Figure 2 Kaplan-Meier Estimation of Proportion of Patients with Treatment Failure for Children and Adolescent Ages 6-17 (Study 6)
+Figure 5 Kaplan-Meier Estimation of Proportion of Patients with Treatment Failure for Children and Adolescent Ages 6-17 (Study 6)
 
-Figure 3 LS Mean (SE) PERMP Total Score by Treatment and Time-point for Adults Ages 18 to 55 with ADHD after 1 Week of Double Blind Treatment (Study 8)
+Figure 6 LS Mean (SE) PERMP Total Score by Treatment and Time-point for Adults Ages 18 to 55 with ADHD after 1 Week of Double Blind Treatment (Study 8)
 
 Higher score on the PERMP scale indicates less severe symptoms.
 
-Figure 4 Kaplan-Meier Estimation of Time to Treatment Failure in Adults with ADHD (Study 9)
+Figure 7 Kaplan-Meier Estimation of Time to Treatment Failure in Adults with ADHD (Study 9)

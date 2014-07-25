@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-VYVANSE® [Vī’ - văns]
+VYVANSE® [Vī' - văns]
 
 (lisdexamfetamine dimesylate) CII Capsules
 
@@ -30,7 +30,7 @@ Tell your doctor if you or your child has any heart problems, heart defects, hig
 
 Your doctor should check you or your child carefully for heart problems before starting Vyvanse.
 
-Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with Vyvanse.
+Your doctor should check your or your child's blood pressure and heart rate regularly during treatment with Vyvanse.
 
 Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Vyvanse.
 
@@ -57,7 +57,7 @@ Call your doctor right away if you or your child has any new or worsening mental
 - being suspicious
 
 3.
-Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]:
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]:
 
 - Fingers or toes may feel numb, cool, painful
 - Fingers or toes may change color from pale, to blue, to red
@@ -118,13 +118,13 @@ How should I take Vyvanse?
 - Take Vyvanse 1 time each day in the morning.
 - Vyvanse can be taken with or without food.
 - Vyvanse capsules may be swallowed whole.
-- If you have trouble swallowing capsules, you may open your Vyvanse capsule and pour the powder into a glass of water.
-  - Use all of the powder from the capsule so you get all of the medicine.
+- If you have trouble swallowing capsules, open your Vyvanse capsule and pour all the powder into yogurt, water, or orange juice.
+  - Use all of the Vyvanse powder from the capsule so you get all of the medicine.
   - Using a spoon, break apart any powder that is stuck together.
-    Stir the powder and water until they are completely mixed together.
-  - Drink the entire glass of water right away after mixing.
-    Do not store.
-    It is normal to see a filmy coating on the inside of your glass after you drink all the medicine.
+    Stir the Vyvanse powder and yogurt, water or orange juice until they are completely mixed together.
+  - Eat all the yogurt or drink all the water or orange juice right away after it has been mixed with Vyvanse.
+    Do not store the yogurt, water, or orange juice after it has been mixed with Vyvanse.
+    It is normal to see a filmy coating on the inside of your glass or container after you eat or drink all the Vyvanse.
 - Your doctor may sometimes stop Vyvanse treatment for a while to check your ADHD symptoms.
 - Your doctor may do regular checks of your blood, heart, and blood pressure while taking Vyvanse.
 - Children should have their height and weight checked often while taking Vyvanse.
@@ -139,7 +139,7 @@ What are possible side effects of Vyvanse?
 
 Vyvanse may cause serious side effects, including:
 
-- See “What is the most important information I should know about Vyvanse?”.
+- See "What is the most important information I should know about Vyvanse?".
 - slowing of growth (height and weight) in children
 
 The most common side effects of Vyvanse include:
@@ -194,6 +194,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for: Shire US Inc., Wayne, PA 19087.
 
-© 2013 Shire US Inc.
+© 2014 Shire US Inc.
 
-Revised December 2013
+Revised July 2014

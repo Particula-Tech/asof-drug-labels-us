@@ -19,7 +19,7 @@ After prescribing, keep careful prescription records, educate patients and their
 Studies of Vyvanse in Drug Abusers
 
 A randomized, double-blind, placebo-control, cross-over, abuse liability study in 38 patients with a history of drug abuse was conducted with single-doses of 50, 100, or 150 mg of Vyvanse, 40 mg of immediate-release d-amphetamine sulphate (a controlled II substance), and 200 mg of diethylpropion hydrochloride (a controlled IV substance).
-Vyvanse 100 mg produced significantly less “Drug Liking Effects” as measured by the Drug Rating Questionnaire-Subject score, compared to d-amphetamine 40 mg; and 150 mg of Vyvanse demonstrated similar “Drug-Liking Effects” compared to 40 mg of d-amphetamine and 200 mg of diethylpropion.
+Vyvanse 100 mg produced significantly less "Drug Liking Effects" as measured by the Drug Rating Questionnaire-Subject score, compared to d-amphetamine 40 mg; and 150 mg of Vyvanse demonstrated similar "Drug-Liking Effects" compared to 40 mg of d-amphetamine and 200 mg of diethylpropion.
 
 Intravenous administration of 50 mg lisdexamfetamine dimesylate to individuals with a history of drug abuse produced positive subjective responses on scales measuring "Drug Liking", "Euphoria", "Amphetamine Effects", and "Benzedrine Effects" that were greater than placebo but less than those produced by an equivalent dose (20 mg) of intravenous d-amphetamine.
 
@@ -27,7 +27,7 @@ Intravenous administration of 50 mg lisdexamfetamine dimesylate to individuals w
 
 Tolerance
 
-Tolerance (a state of adaptation in which exposure to a drug results in a reduction of the drug’s desired and/or undesired effects over time) may occur during the chronic therapy of CNS stimulants including Vyvanse.
+Tolerance (a state of adaptation in which exposure to a drug results in a reduction of the drug's desired and/or undesired effects over time) may occur during the chronic therapy of CNS stimulants including Vyvanse.
 
 Dependence
 

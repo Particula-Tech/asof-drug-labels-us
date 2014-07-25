@@ -62,3 +62,10 @@ This effect partially or fully reversed during a four-week drug-free recovery pe
 Clinical studies of Vyvanse did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+## 8.6 Special Populations
+
+Figure 3: Special Populations:
+
+| *Figure 3 shows the geometric mean ratios and the 90% confidence limits for Cmax and AUC of d-amphetamine. Comparison for gender uses males as the reference. Comparison for age uses 55-64 years as the reference. |
+| --- |

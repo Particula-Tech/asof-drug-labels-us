@@ -6,11 +6,11 @@ The following adverse reactions are discussed in greater detail in other section
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Suppression of Growth [see Warnings and Precautions (5.5)]
-- Peripheral Vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
+- Peripheral Vasculopathy, including Raynaud's phenomenon [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trial Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The safety data in this section is based on data from the 4-week parallel-group controlled clinical studies of Vyvanse in pediatric and adult patients with ADHD [see Clinical Studies (14)].
 
@@ -102,4 +102,4 @@ In the controlled adult trial (Study 7), mean weight loss after 4 weeks of thera
 
 The following adverse reactions have been identified during post approval use of Vyvanse.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These events are as follows: palpitations, cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, tics, bruxism, depression, dermatillomania, aggression, Stevens-Johnson Syndrome, angioedema, urticaria, seizures, libido changes, and frequent or prolonged erections.
+These events are as follows: palpitations, cardiomyopathy, mydriasis, diplopia, difficulties with visual accommodation, blurred vision, eosinophilic hepatitis, anaphylactic reaction, hypersensitivity, dyskinesia, tics, bruxism, depression, dermatillomania, aggression, Stevens-Johnson Syndrome, angioedema, urticaria, seizures, libido changes, frequent or prolonged erections, and constipation.

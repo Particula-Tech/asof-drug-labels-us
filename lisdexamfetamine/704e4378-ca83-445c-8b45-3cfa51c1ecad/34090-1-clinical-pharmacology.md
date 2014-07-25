@@ -13,11 +13,14 @@ Pharmacokinetic studies of dextroamphetamine after oral administration of lisdex
 
 In 18 patients ages 6 to 12 years with ADHD, the Tmax of dextroamphetamine was approximately 3.5 hours following single-dose oral administration of lisdexamfetamine dimesylate either 30 mg, 50 mg, or 70 mg after an 8-hour overnight fast.
 The Tmax of lisdexamfetamine was approximately 1 hour.
-Linear pharmacokinetics of dextroamphetamine after single-dose oral administration of lisdexamfetamine dimesylate was established over the dose range of 30 mg to 70 mg in children ages 6 to 12 years.
+Linear pharmacokinetics of dextroamphetamine after single-dose oral administration of lisdexamfetamine dimesylate was established over the dose range of 30 mg to 70 mg in children ages 6 to 12 years and over a range of 50 mg to 250 mg in adults.
+Dextroamphetamine pharmacokinetic parameters following administration of lisdexamfetamine dimesylate in adults exhibited low inter-subject (<25%) and intra-subject (<8%) variability.
+Safety and efficacy have not been studied above the maximum recommended dose of 70mg.
 
 There is no accumulation of dextroamphetamine AUC at steady state in healthy adults and no accumulation of lisdexamfetamine after once-daily dosing for 7 consecutive days.
 
-Food does not affect the observed AUC and Cmax of dextroamphetamine in healthy adults after single-dose oral administration of 70 mg of Vyvanse capsules but prolongs Tmax by approximately 1 hour (from 3.8 hrs at fasted state to 4.7 hrs after a high fat meal).
+Neither food (a high fat meal or yogurt) nor orange juice affect the observed AUC and Cmax of dextroamphetamine in healthy adults after single-dose oral administration of 70 mg of Vyvanse capsules.
+Food prolongs Tmax by approximately 1 hour (from 3.8 hrs at fasted state to 4.7 hrs after a high fat meal or to 4.8 hrs with yogurt).
 After an 8-hour fast, the AUCs for dextroamphetamine following oral administration of lisdexamfetamine dimesylate in solution and as intact capsules were equivalent.
 
 Weight/Dose normalized AUC and Cmax were 22% and 12% lower, respectively, in adult females than in males on day 7 following a 70 mg/day dose of lisdexamfetamine dimesylate for 7 days.
@@ -33,29 +36,3 @@ Following the oral administration of a 70 mg dose of radiolabeled lisdexamfetami
 Of the radioactivity recovered in the urine, 42% of the dose was related to amphetamine, 25% to hippuric acid, and 2% to intact lisdexamfetamine.
 Plasma concentrations of unconverted lisdexamfetamine are low and transient, generally becoming non-quantifiable by 8 hours after administration.
 The plasma elimination half-life of lisdexamfetamine typically averaged less than one hour in studies of lisdexamfetamine dimesylate in volunteers.
-
-Drug Interactions Studies
-
-The ability of dextroamphetamine and its metabolites to inhibit various P450 isozymes and other enzymes has not been adequately elucidated.
-In vitro experiments with human microsomes indicate minor inhibition of CYP2D6 by amphetamine and minor inhibition of CYP1A2, 2D6, and 3A4 by one or more metabolites, but there are no in vivo studies of p450 enzyme inhibition.
-
-Extended release guanfacine: In a drug interaction study (N=40), administration of an extended release guanfacine (4 mg) in combination with Vyvanse (50mg) increased guanfacine maximum plasma concentration by 19%, whereas, exposure (area under the curve; AUC) was increased by 7%.
-These small changes are not expected to be clinically meaningful.
-In this study, no effect on d-amphetamine exposure was observed following co-administration of extended release guanfacine and Vyvanse.
-
-A steady-state drug interaction study with venlafaxine 225 mg and 70 mg of lisdexamfetamine resulted in a 5% decrease in d-amphetamine AUC0-tau and maximum plasma concentration values.
-Venlafaxine AUC0-tau and Cmax increased 13% and 10% in the study.
-
-Special Populations
-
-Age
-
-The pharmacokinetics of dextroamphetamine is similar in children (ages 6 to 12 years) and adolescent (ages 13 to 17 years) ADHD patients, and healthy adult volunteers.
-Any differences in kinetics seen after oral administration are a result of differences in mg/kg dosing.
-
-Dextroamphetamine clearance decreases in adults ages 65-75 (26% in women and 10% in men).
-
-Gender
-
-Systemic exposure to dextroamphetamine is similar for men and women given the same mg/kg dose.
-In adults ages 55-64, d-amphetamine Cmax and AUC were 15% and 13% higher, respectively, in females compared to males.

@@ -2,16 +2,16 @@
 
 ## 2.1 General Instructions for Use
 
-Take Vyvanse in the morning with or without food; avoid afternoon doses because of the potential for insomnia.
+Take Vyvanse by mouth in the morning with or without food; avoid afternoon doses because of the potential for insomnia.
 Vyvanse may be administered in one of the following ways:
 
-- Take Vyvanse capsules whole, or
-- Open capsules and empty and mix the entire contents in a glass of water.
-  If the contents include any compacted powder, a spoon may be used to break apart the powder in the water.
-  The content should be stirred until completely dispersed.
-  Consume the full glass of water immediately.
+- Swallow Vyvanse capsules whole, or
+- Open capsules, empty and mix the entire contents with yogurt, water, or orange juice.
+  If the contents of the capsule include any compacted powder, a spoon may be used to break apart the powder.
+  The contents should be mixed until completely dispersed.
+  Consume the entire mixture immediately.
   It should not be stored.
-  The active ingredient dissolves completely once dispersed; however, a film containing the inactive ingredients may remain in the glass once the water is consumed.
+  The active ingredient dissolves completely once dispersed; however, a film containing the inactive ingredients may remain in the glass or container once the mixture is consumed.
   Do not take anything less than one capsule per day, and a single capsule should not be divided.
 
 ## 2.2 Dosing Information

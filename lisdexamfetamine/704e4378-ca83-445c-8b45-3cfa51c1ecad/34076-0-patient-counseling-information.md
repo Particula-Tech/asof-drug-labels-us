@@ -47,9 +47,9 @@ Impairment in Ability to Operate Machinery or Vehicles
 Advise patients that Vyvanse may impair their ability to engage in potentially dangerous activities such as operating machinery or vehicles.
 Instruct patients to find out how Vyvanse will affect them before engaging in potentially dangerous activities [see Adverse Reactions (6.1, 6.2)].
 
-Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]
 
-Instruct patients beginning treatment with Vyvanse about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change from pale, to blue, to red.
+Instruct patients beginning treatment with Vyvanse about the risk of peripheral vasculopathy, including Raynaud's Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change from pale, to blue, to red.
 Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Vyvanse.
 Further clinical evaluation (e.g. rheumatology referral) may be appropriate for certain patients [see Warnings and Precautions (5.6)].
@@ -66,6 +66,6 @@ For more information call 1-800-828-2088
 
 Vyvanse® is a trademark of Shire LLC
 
-©2013 Shire US Inc.
+©2014 Shire US Inc.
 
 US Pat No. 7,105,486 and US Pat No. 7,223,735
