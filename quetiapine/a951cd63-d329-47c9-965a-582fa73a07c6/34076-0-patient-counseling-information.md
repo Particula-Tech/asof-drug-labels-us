@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (MEDICATIONGUIDE)
+See FDA-approved patient labeling (MEDICATION GUIDE)
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with quetiapine and should counsel them in its appropriate use.
 A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for quetiapine.
@@ -89,4 +89,4 @@ United States.
 
 MADE IN INDIA.
 
-Revised: February 2014 ID # 235431
+Revised: August 2014 ID # 238256

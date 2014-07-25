@@ -2,6 +2,8 @@ MEDICATION GUIDE
 
 Quetiapine Fumarate Tablets
 
+(kwe-TYE-a-peen FUE-ma-rate)
+
 Read this Medication Guide before you start taking quetiapine fumarate tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
@@ -263,4 +265,4 @@ United States.
 
 MADE IN INDIA.
 
-Revised: February 2014 ID # 235432
+Revised: August 2014 ID # 238257

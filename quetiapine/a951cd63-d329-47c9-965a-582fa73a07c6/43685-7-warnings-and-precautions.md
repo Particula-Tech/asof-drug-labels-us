@@ -8,7 +8,7 @@ Over the course of a typical 10-week controlled trial, the rate of death in drug
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
-Quetiapine is not approved for the treatment of patients with dementia-related psychosis [see BOXEDWARNING].
+Quetiapine is not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
 
 ## 5.2 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
 
@@ -61,7 +61,7 @@ However, prior to initiating treatment with an antidepressant, including quetiap
 ## 5.3 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
-Quetiapine is not approved for the treatment of patients with dementia-related psychosis [see also BOXEDWARNING and WARNINGS AND PRECAUTIONS (5.1)].
+Quetiapine is not approved for the treatment of patients with dementia-related psychosis [see also BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
 
 ## 5.4 Neuroleptic Malignant Syndrome (NMS)
 
