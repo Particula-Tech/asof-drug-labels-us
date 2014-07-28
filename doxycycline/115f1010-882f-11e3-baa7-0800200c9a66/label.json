@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA205931"
+  ],
+  "inn": "doxycycline",
+  "labeler": "Aqua Pharmaceuticals",
+  "package_ndcs": [
+    "16110-501-01",
+    "16110-502-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "doxycycline hyclate",
+      "name": "Acticlate"
+    }
+  ],
+  "setid": "115f1010-882f-11e3-baa7-0800200c9a66",
+  "source": "dailymed"
+}
