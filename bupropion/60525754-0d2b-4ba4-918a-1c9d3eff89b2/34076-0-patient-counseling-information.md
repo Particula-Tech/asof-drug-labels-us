@@ -1,13 +1,15 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with WELLBUTRIN and counsel them in its appropriate use.
 
 A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What Other Important Information Should I Know About WELLBUTRIN?” is available for WELLBUTRIN.
 Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.Advise patients regarding the following issues and to alert their prescriber if these occur while taking WELLBUTRIN.
+The complete text of the Medication Guide is reprinted at the end of this document.
+
+Advise patients regarding the following issues and to alert their prescriber if these occur while taking WELLBUTRIN.
 
 Suicidal Thoughts and Behaviors: Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Advise families and caregivers of patients to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
@@ -24,6 +26,11 @@ Severe Allergic Reactions: Educate patients on the symptoms of hypersensitivity 
 Seizure: Instruct patients to discontinue and not restart WELLBUTRIN if they experience a seizure while on treatment.
 Advise patients that the excessive use or abrupt discontinuation of alcohol, benzodiazepines, antiepileptic drugs, or sedatives/hypnotics can increase the risk of seizure.
 Advise patients to minimize or avoid use of alcohol.
+
+Angle-Closure Glaucoma: Patients should be advised that taking WELLBUTRIN can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
 
 Bupropion-Containing Products: Educate patients that WELLBUTRIN contains the same active ingredient (bupropion hydrochloride) found in ZYBAN, which is used as an aid to smoking cessation treatment, and that WELLBUTRIN should not be used in combination with ZYBAN or any other medications that contain bupropion (such as WELLBUTRIN SR®, the sustained-release formulation and WELLBUTRIN XL® or FORFIVO XL™, the extended-release formulations, and APLENZIN®, the extended-release formulation of bupropion hydrobromide).
 In addition, there are a number of generic bupropion HCl products for the immediate-, sustained-, and extended-release formulations.
@@ -45,13 +52,17 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 Instruct patients that WELLBUTRIN Tablets should be swallowed whole and not crushed, divided, or chewed.
 WELLBUTRIN can be taken with or without food.
 
-- WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and ZYBAN are registered trademarks of the GlaxoSmithKline group of companies.
-  The other brands listed are trademarks of their respective owners and are not trademarks of the GlaxoSmithKline group of companies.
-  The makers of these brands are not affiliated with and do not endorse the GlaxoSmithKline group of companies or its products.
-- Manufactured for:
-- GlaxoSmithKline
-- Research Triangle Park, NC 27709
-- ©2013, GlaxoSmithKline group of companies.
-  All rights reserved.
+WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and ZYBAN are registered trademarks of the GSK group of companies.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
-WLT:10PI
+Manufactured for:
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2014, the GSK group of companies.
+All rights reserved.
+
+WLT:11PI

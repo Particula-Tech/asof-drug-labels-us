@@ -18,29 +18,29 @@ WARNING: Do not use with other medicines that contain bupropion HCl.
 
 Federal Law requires dispensing of WELLBUTRIN® with the Medication Guide under this label.
 
-Rx only
-
 100 Tablets
+
+Rx only
 
 Each film-coated tablet contains 75 mg bupropion HCl.
 
 See prescribing information for dosage information.
 
-Store at 15o to 25oC (59o to 77oF).
-Protect from moisture.
+Store at room temperature between 59oF and 86oF (15oC to 30oC).
+Keep dry and out of the light.
 
-Manufactured by DSM Pharmaceuticals, Inc.
+Manufactured for:
 
-Greenville, NC 27834
-
-for GlaxoSmithKline
+GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
 Made in Germany
 
-10000000119792 Rev.
-11/13
+10000000124131 Rev.
+5/14
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0178-55
 
@@ -60,26 +60,24 @@ WARNING: Do not use with other medicines that contain bupropion HCl.
 
 Federal Law requires dispensing of WELLBUTRIN® with the Medication Guide under this label.
 
-Rx only
-
 100 Tablets
+
+Rx only
 
 Each film-coated tablet contains 100 mg bupropion HCl.
 
 See prescribing information for dosage information.
 
-Store at 15o to 25oC (59o to 77oF).
-Protect from moisture.
+Store at room temperature between 59oF and 86oF (15oC to 30oC).
+Keep dry and out of the light.
 
-Manufactured by DSM Pharmaceuticals, Inc.
+Manufactured for:
 
-Greenville, NC 27834
-
-for GlaxoSmithKline
+GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
 Made in Germany
 
-10000000119793 Rev.
-11/13
+10000000124133 Rev.
+5/14

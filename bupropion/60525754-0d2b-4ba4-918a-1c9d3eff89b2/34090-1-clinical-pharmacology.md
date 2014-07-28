@@ -45,7 +45,7 @@ The elimination of the major metabolites of bupropion may be affected by reduced
 
 Renal Impairment: There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
 An inter-trial comparison between normal subjects and subjects with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
-A second trial, comparing normal subjects and subjects with moderate‑to‑severe renal impairment (GFR 30.9 10.8 mL/min) showed that after a single 150-mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
+A second trial, comparing normal subjects and subjects with moderate‑to‑severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that after a single 150-mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
 WELLBUTRIN should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered [see Use in Specific Populations (8.6)].
@@ -103,6 +103,7 @@ Citalopram: Citalopram did not affect the pharmacokinetics of bupropion and its 
 
 Inducers of CYP2B6: Ritonavir and Lopinavir: In a healthy volunteer trial, ritonavir 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%.
+
 In a second healthy volunteer trial, ritonavir 600 mg twice daily decreased the AUC and the Cmax of bupropion by 66% and 62%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50%, and the erythrohydrobupropion decreased by 68%.
 
@@ -114,9 +115,9 @@ The AUC of hydroxybupropion was unchanged, whereas Cmax of hydroxybupropion was 
 
 Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion.
 
-- Potential for WELLBUTRIN to Affect Other Drugs: Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans.
-  In one trial, following chronic administration of bupropion 100 mg three times daily to 8 healthy male volunteers for 14 days, there was no evidence of induction of its own metabolism.
-  Nevertheless, there may be potential for clinically important alterations of blood levels of co-administered drugs.
+Potential for WELLBUTRIN to Affect Other Drugs: Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans.
+In one trial, following chronic administration of bupropion 100 mg three times daily to 8 healthy male volunteers for 14 days, there was no evidence of induction of its own metabolism.
+Nevertheless, there may be potential for clinically important alterations of blood levels of co-administered drugs.
 
 Drugs Metabolized by CYP2D6: In vitro, bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
 In a clinical trial of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion 300 mg per day followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and t1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.

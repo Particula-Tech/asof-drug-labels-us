@@ -49,7 +49,7 @@ Prescriptions for WELLBUTRIN should be written for the smallest quantity of tabl
 
 WELLBUTRIN is not approved for smoking cessation treatment; however, bupropion HCl sustained-release is approved for this use.
 Serious neuropsychiatric symptoms have been reported in patients taking bupropion for smoking cessation.
-These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Boxed Warning and Adverse Reactions (6.2)].
+These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Boxed Warning, Adverse Reactions (6.2)].
 Observe patients for the occurrence of neuropsychiatric reactions.
 Instruct patients to contact a healthcare professional if such reactions occur.
 
@@ -66,14 +66,14 @@ Discontinue WELLBUTRIN and do not restart treatment if the patient experiences a
 
 The risk of seizures is also related to patient factors, clinical situations, and concomitant medications that lower the seizure threshold.
 Consider these risks before initiating treatment with WELLBUTRIN.
-WELLBUTRIN is contraindicated in patients with a seizure disorder, current or prior diagnosis of anorexia nervosa or bulimia, or undergoing abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Contraindications (4) and Drug Interactions (7.3)].
+WELLBUTRIN is contraindicated in patients with a seizure disorder, current or prior diagnosis of anorexia nervosa or bulimia, or undergoing abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Contraindications (4), Drug Interactions (7.3)].
 The following conditions can also increase the risk of seizure: severe head injury; arteriovenous malformation; CNS tumor or CNS infection; severe stroke; concomitant use of other medications that lower the seizure threshold (e.g., other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids); metabolic disorders (e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia); use of illicit drugs (e.g., cocaine); or abuse or misuse of prescription drugs such as CNS stimulants.
 Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin; use of anorectic drugs; and excessive use of alcohol, benzodiazepines, sedative/hypnotics, or opiates.
 
 Incidence of Seizure With Bupropion Use: Bupropion is associated with seizures in approximately 0.4% (4/1,000) of patients treated at doses up to 450 mg per day.
 The estimated seizure incidence for WELLBUTRIN increases almost 10-fold between 450 and 600 mg per day.
 
-The risk of seizure can be reduced if the dose of WELLBUTRIN does not exceed 450 mg per day, given as 150 mg 3 times daily, and the titration rate is gradual
+The risk of seizure can be reduced if the dose of WELLBUTRIN does not exceed 450 mg per day, given as 150 mg 3 times daily, and the titration rate is gradual.
 
 ## 5.4 Hypertension
 
@@ -104,7 +104,11 @@ Some of these patients had a diagnosis of bipolar disorder.
 In some cases, these symptoms abated upon dose reduction and/or withdrawal of treatment.
 Instruct patients to contact a healthcare professional if such reactions occur.
 
-## 5.7 Hypersensitivity Reactions
+## 5.7 Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including WELLBUTRIN may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.8 Hypersensitivity Reactions
 
 Anaphylactoid/anaphylactic reactions have occurred during clinical trials with bupropion.
 Reactions have been characterized by pruritus, urticaria, angioedema, and dyspnea requiring medical treatment.
