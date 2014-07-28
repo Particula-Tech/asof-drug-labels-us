@@ -1,74 +1,49 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-See BOXED WARNINGS, WARNINGS and PRECAUTIONS.
+The following serious adverse reactions are discussed elsewhere in the labeling:
+
+- •Cardiovascular Disorders [see Boxed Warning, and Warnings and Precautions (5.1)]
+- •Malignant Neoplasms [see Boxed Warning, and Warnings and Precautions (5.2)]
+
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
-Summary of Most Frequently Reported Adverse Experiences/Medical Events (≥ 5%) by Treatment Groups
+The data described below reflect pooled data from five clinical trials of estradiol transdermal system continuous delivery (once-weekly).
+A total of 614 women were exposed to estradiol transdermal system continuous delivery (once-weekly) for 3 months (193 women at 0.025 mg per day, 201 women at 0.05 mg per day, 194 women at 0.1 mg per day) in randomized, double-blind trials of clinical efficacy versus placebo and versus active comparator.
+All women were postmenopausal, had a serum estradiol level of less than 20 pg/mL, and a minimum of five moderate to severe hot flushes per week or a minimum of 15 hot flushes per week of any severity at baseline.
+Included in this table are an additional 25 postmenopausal hysterectomized women exposed to estradiol transdermal system continuous delivery (once-weekly) 0.025 mg per day for 6 to 24 months (N=16 at 24 months) in a randomized, double-blind, placebo-controlled study of estradiol transdermal system continuous delivery (once-weekly) for the prevention of osteoporosis.
+
+Table 1 Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥ 5 Percent and More Frequent in Women Receiving Estradiol Transdermal System Continuous Delivery (Once-Weekly)
 
 |  | Estradiol Transdermal System Continuous Delivery (Once-Weekly) |  |  |  |
 | --- | --- | --- | --- | --- |
-| AE per Body System | 0.025 mg/day (N = 219) | 0.05 mg/day (N = 201) | 0.1 mg/day (N = 194) | Placebo (N = 72) |
-| Body as a Whole | 21% | 39% | 37% | 29% |
-| Headache | 5% | 18% | 13% | 10% |
-| Pain | 1% | 8% | 11% | 7% |
-| Back Pain | 4% | 8% | 9% | 6% |
-| Edema | 0.5% | 13% | 10% | 6% |
-| Gastrointestinal | 9% | 21% | 29% | 18% |
-| Abdominal Pain | 0.0% | 11% | 16% | 8% |
-| Nausea | 1% | 5% | 6% | 3% |
-| Flatulence | 1% | 3% | 7% | 1% |
-| Musculoskeletal | 7% | 9% | 11% | 4% |
-| Arthralgia | 1% | 5% | 5% | 3% |
-| Psychiatric | 13% | 10% | 11% | 1% |
-| Depression | 1% | 5% | 8% | 0% |
-| Reproductive | 12% | 18% | 41% | 11% |
-| Breast Pain | 5% | 8% | 29% | 4% |
-| Leukorrhea | 1% | 6% | 7% | 1% |
-| Respiratory | 15% | 26% | 29% | 14% |
-| URTI | 6% | 17% | 17% | 8% |
-| Pharyngitis | 0.5% | 3% | 7% | 3% |
-| Sinusitis | 4% | 4% | 5% | 3% |
-| Rhinitis | 2% | 4% | 6% | 1% |
-| Skin and Appendages | 19% | 12% | 12% | 15% |
-| Pruritus | 0.5% | 6% | 3% | 6% |
+| Body System Adverse Reactions | 0.025 mg/dayAdverse reactions occurring at rate of ≥ 5 percent in estradiol transdermal system continuous delivery (once-weekly) trials of clinical efficacy versus placebo and versus active comparator; and trial of estradiol transdermal system continuous delivery (once-weekly) versus placebo for the prevention of osteoporosis(N = 219) | 0.05 mg/dayAdverse reactions occurring at rate of ≥ 5 percent in estradiol transdermal system continuous delivery (once-weekly) trials of clinical efficacy versus placebo and versus active comparator (N = 201) | 0.1 mg/day(N = 194) | PlaceboAdverse reactions occurring in placebo group in estradiol transdermal system continuous delivery (once-weekly) trial of clinical efficacy versus placebo(N = 72) |
+| Body as a Whole Headache Pain Back Pain Edema | 21%5%1%4%0.5% | 39%18%8%8%13% | 37%13%11%9%10% | 29%10%7%6%6% |
+| Digestive System Abdominal Pain Nausea Flatulence | 9%0%1%1% | 21%11%5%3% | 29%16%6%7% | 18%8%3%1% |
+| Musculoskeletal System Arthralgia | 7%1% | 9%5% | 11%5% | 4%3% |
+| Nervous System Depression | 13%1% | 10%5% | 11%8% | 1%0% |
+| Urogenital System Breast Pain Leukorrhea | 12%5%1% | 18%8%6% | 41%29%7% | 11%4%1% |
+| Respiratory System URTI Pharyngitis Sinusitis Rhinitis | 15%6%0.5%4%2% | 26%17%3%4%4% | 29%17%7%5%6% | 14%8%3%3%1% |
+| Skin and Appendages Pruritus | 19%0.5% | 12%6% | 12%3% | 15%6% |
 
-## Post-marketing Experience
+## 6.2 Post-marketing Experience
 
-The following adverse reactions have been identified during post approval use of Estradiol Transdermal System Continuous Delivery (Once-Weekly): a few cases in which there were a combination of the symptoms of generalized hives or rash with swelling of the throat or eyelid edema.
+The following adverse reactions have been identified during post-approval use of estradiol transdermal system continuous delivery (once-weekly).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following additional adverse reactions have been reported with estrogen and/or progestin therapy.
+Genitourinary System: Changes in bleeding pattern, pelvic pain
 
-### 1. Genitourinary system
+Breast: Breast cancer, breast pain, breast tenderness
 
-Changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow; breakthrough bleeding; spotting; dysmenorrhea; increase in size of uterine leiomyomata; vaginitis, including vaginal candidiasis; change in amount of cervical secretion; changes in cervical ectropion; ovarian cancer; endometrial hyperplasia; endometrial cancer.
+Cardiovascular: Changes in blood pressure, palpitations, hot flashes
 
-### 2. Breasts
+Gastrointestinal: Vomiting, abdominal pain, abdominal distension, nausea
 
-Tenderness, enlargement, pain, nipple discharge, galactorrhea; fibrocystic breast changes; breast cancer.
+Skin: Alopecia, hyperhidrosis, night sweats, urticaria, rash
 
-### 3. Cardiovascular
+Eyes: Visual disturbances, contact lens intolerance
 
-Deep and superficial venous thrombosis; pulmonary embolism; thrombophlebitis; myocardial infarction; stroke; increase in blood pressure.
+Central Nervous System: Depression, migraine, paresthesia, dizziness, anxiety, irritability, mood swings, nervousness, insomnia, headache
 
-### 4. Gastrointestinal
-
-Nausea, vomiting; abdominal cramps, bloating; cholestatic jaundice; increased incidence of gallbladder disease; pancreatitis, enlargement of hepatic hemangiomas.
-
-### 5. Skin
-
-Chloasma or melasma, which may persist when drug is discontinued; erythema multiforme; erythema nodosum; hemorrhagic eruption; loss of scalp hair; hirsutism; pruritus, rash.
-
-### 6. Eyes
-
-Retinal vascular thrombosis, intolerance to contact lenses.
-
-### 7. Central nervous system
-
-Headache; migraine; dizziness; mental depression; chorea; nervousness; mood disturbances; irritability; exacerbation of epilepsy, dementia.
-
-### 8. Miscellaneous
-
-Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthalgias; leg cramps; changes in libido; anaphylactoid/anaphylactic reactions; hypocalcemia; exacerbation of asthma; increased triglycerides.
+Miscellaneous: Fatigue, menopausal symptoms, weight increase, application site reaction, anaphylactic reactions

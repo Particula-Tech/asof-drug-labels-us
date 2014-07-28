@@ -26,6 +26,8 @@ Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is inte
 
 MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
 
+M3349-99-4C:R4
+
 PRINCIPAL DISPLAY PANEL - 0.0375 mg/day
 
 NDC 0378-3360-99
@@ -53,6 +55,8 @@ Apply immediately upon removal from pouch.
 Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is intended to be worn for 7 days.
 
 MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+
+M3360-99-4C:R3
 
 PRINCIPAL DISPLAY PANEL - 0.05 mg/day
 
@@ -82,6 +86,8 @@ Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is inte
 
 MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
 
+M3350-99-4C:R5
+
 PRINCIPAL DISPLAY PANEL - 0.06 mg/day
 
 NDC 0378-3361-99
@@ -109,6 +115,8 @@ Apply immediately upon removal from pouch.
 Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is intended to be worn for 7 days.
 
 MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+
+M3361-99-4C:R2
 
 PRINCIPAL DISPLAY PANEL - 0.075 mg/day
 
@@ -138,6 +146,8 @@ Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is inte
 
 MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
 
+M3351-99-4C:R4
+
 PRINCIPAL DISPLAY PANEL - 0.1 mg/day
 
 NDC 0378-3352-99
@@ -165,3 +175,5 @@ Apply immediately upon removal from pouch.
 Each Estradiol Transdermal System Continuous Delivery (Once-Weekly), USP is intended to be worn for 7 days.
 
 MYLAN PHARMACEUTICALS INC. Morgantown, WV 26505
+
+M3352-99-4C:R5
