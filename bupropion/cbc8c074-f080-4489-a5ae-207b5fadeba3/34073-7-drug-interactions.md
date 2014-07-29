@@ -27,7 +27,7 @@ Patients treated concomitantly with WELLBUTRIN SR and such drugs may require inc
 ## 7.3 Drugs That Lower Seizure Threshold
 
 Use extreme caution when coadministering WELLBUTRIN SR with other drugs that lower seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
-Use low initial doses and increase the dose gradually [see Contraindications (4) and Warnings and Precautions (5.3)].
+Use low initial doses and increase the dose gradually [see Contraindications (4), Warnings and Precautions (5.3)].
 
 ## 7.4 Dopaminergic Drugs (Levodopa and Amantadine)
 
@@ -48,7 +48,7 @@ Bupropion inhibits the reuptake of dopamine and norepinephrine.
 Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs.
 Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine.
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with WELLBUTRIN SR.
-Conversely, at least 14 days should be allowed after stopping WELLBUTRIN SR before starting an MAOI antidepressant [see Dosage and Administration (2.4, 2.5) and Contraindications (4)].
+Conversely, at least 14 days should be allowed after stopping WELLBUTRIN SR before starting an MAOI antidepressant [see Dosage and Administration (2.4, 2.5), Contraindications (4)].
 
 ## 7.7 Drug-Laboratory Test Interactions
 

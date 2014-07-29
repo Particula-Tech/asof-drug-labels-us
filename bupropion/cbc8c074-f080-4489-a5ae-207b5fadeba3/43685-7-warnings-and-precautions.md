@@ -49,7 +49,7 @@ Prescriptions for WELLBUTRIN SR should be written for the smallest quantity of t
 
 WELLBUTRIN SR is not approved for smoking cessation treatment; however, ZYBAN® is approved for this use.
 Serious neuropsychiatric symptoms have been reported in patients taking bupropion for smoking cessation.
-These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Boxed Warning and Adverse Reactions (6.2)].
+These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Boxed Warning, Adverse Reactions (6.2)].
 Observe patients for the occurrence of neuropsychiatric reactions.
 Instruct patients to contact a healthcare professional if such reactions occur.
 
@@ -66,7 +66,7 @@ Discontinue WELLBUTRIN SR and do not restart treatment if the patient experience
 
 The risk of seizures is also related to patient factors, clinical situations, and concomitant medications that lower the seizure threshold.
 Consider these risks before initiating treatment with WELLBUTRIN SR.
-WELLBUTRIN SR is contraindicated in patients with a seizure disorder, current or prior diagnosis of anorexia nervosa or bulimia, or undergoing abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Contraindications (4) and Drug Interactions (7.3)].
+WELLBUTRIN SR is contraindicated in patients with a seizure disorder, current or prior diagnosis of anorexia nervosa or bulimia, or undergoing abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Contraindications (4), Drug Interactions (7.3)].
 The following conditions can also increase the risk of seizure: severe head injury; arteriovenous malformation; CNS tumor or CNS infection; severe stroke; concomitant use of other medications that lower the seizure threshold (e.g., other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids); metabolic disorders (e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia); use of illicit drugs (e.g., cocaine); or abuse or misuse of prescription drugs such as CNS stimulants.
 Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin; use of anorectic drugs; and excessive use of alcohol, benzodiazepines, sedative/hypnotics, or opiates.
 
@@ -81,7 +81,7 @@ Assess blood pressure before initiating treatment with WELLBUTRIN SR, and monito
 The risk of hypertension is increased if WELLBUTRIN SR is used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
 
 Data from a comparative trial of the sustained-release formulation of bupropion HCl, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
-In this trial, 6.1% of subjects treated with the combination of sustained-release bupropion and NTS had treatment‑emergent hypertension compared to 2.5%, 1.6%, and 3.1% of subjects treated with sustained-release bupropion, NTS, and placebo, respectively.
+In this trial, 6.1% of subjects treated with the combination of sustained-release bupropion and NTS had treatment‑emergent hypertension compared with 2.5%, 1.6%, and 3.1% of subjects treated with sustained-release bupropion, NTS, and placebo, respectively.
 The majority of these subjects had evidence of pre-existing hypertension.
 Three subjects (1.2%) treated with the combination of sustained-release bupropion and NTS and 1 subject (0.4%) treated with NTS had study medication discontinued due to hypertension compared with none of the subjects treated with sustained-release bupropion or placebo.
 Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement.
@@ -103,10 +103,15 @@ Some of these patients had a diagnosis of bipolar disorder.
 In some cases, these symptoms abated upon dose reduction and/or withdrawal of treatment.
 Instruct patients to contact a healthcare professional if such reactions occur.
 
-## 5.7 Hypersensitivity Reactions
+## 5.7 Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including WELLBUTRIN SR may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.8 Hypersensitivity Reactions
 
 Anaphylactoid/anaphylactic reactions have occurred during clinical trials with bupropion.
 Reactions have been characterized by pruritus, urticaria, angioedema, and dyspnea requiring medical treatment.
 In addition, there have been rare, spontaneous postmarketing reports of erythema multiforme, Stevens‑Johnson syndrome, and anaphylactic shock associated with bupropion.
 Instruct patients to discontinue WELLBUTRIN SR and consult a healthcare provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
+
 There are reports of arthralgia, myalgia, fever with rash and other serum sickness-like symptoms suggestive of delayed hypersensitivity.

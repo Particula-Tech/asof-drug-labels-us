@@ -2,13 +2,14 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning and Warnings and Precautions (5.1)]
-- •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Boxed Warning and Warnings and Precautions (5.2)]
+- •Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning, Warnings and Precautions (5.1)]
+- •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Boxed Warning, Warnings and Precautions (5.2)]
 - •Seizure [see Warnings and Precautions (5.3)]
 - •Hypertension [see Warnings and Precautions (5.4)]
 - •Activation of mania or hypomania [see Warnings and Precautions (5.5)]
 - •Psychosis and other neuropsychiatric reactions [see Warnings and Precautions (5.6)]
-- •Hypersensitivity reactions [see Warnings and Precautions (5.7)]
+- •Angle-closure glaucoma [see Warnings and Precautions (5.7)]
+- •Hypersensitivity reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -153,7 +154,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body (General): Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
-These symptoms may resemble serum sickness [see Warnings and Precautions (5.7)].
+These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
 Cardiovascular: Complete atrioventricular block, extrasystoles, hypotension, hypertension (in some cases severe), phlebitis, and pulmonary embolism.
 

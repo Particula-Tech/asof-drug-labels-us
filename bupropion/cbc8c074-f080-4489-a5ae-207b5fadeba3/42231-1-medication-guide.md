@@ -22,11 +22,12 @@ Talk to your healthcare provider or your family member’s healthcare provider a
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- •Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-- •Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+- 2.Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+- 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+
 - •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
 - •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
@@ -101,12 +102,16 @@ Do not take WELLBUTRIN SR again if you have a seizure.
   - •Unusually grand ideas
   - •Excessive happiness or irritability
   - •Talking more or faster than usual
-
-If you have any of the above symptoms of mania, call your healthcare provider.
-
+- If you have any of the above symptoms of mania, call your healthcare provider.
 - •Unusual thoughts or behaviors.
   Some patients have unusual thoughts or behaviors while taking WELLBUTRIN, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
+- •Visual problems.
+  - •eye pain
+  - •changes in vision
+  - •swelling or redness in or around the eye
+- Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 - •Severe allergic reactions.
   Some people can have severe allergic reactions to WELLBUTRIN SR.
   Stop taking WELLBUTRIN SR and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
@@ -260,6 +265,6 @@ Research Triangle Park, NC 27709
 ©2014, the GSK group of companies.
 All rights reserved.
 
-April 2014
+July 2014
 
-WLS: 10MG
+WLS: 11MG

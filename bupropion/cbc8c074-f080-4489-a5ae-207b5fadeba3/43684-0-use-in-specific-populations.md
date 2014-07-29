@@ -41,7 +41,7 @@ Exercise caution when WELLBUTRIN SR is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
+Safety and effectiveness in the pediatric population have not been established [see Boxed Warning, Warnings and Precautions (5.1)].
 
 ## 8.5 Geriatric Use
 
@@ -52,15 +52,15 @@ Reported clinical experience has not identified differences in responses between
 
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and excreted by the kidneys.
 The risk of adverse reactions may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [see Dosage and Administration (2.3), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [see Dosage and Administration (2.3), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 Consider a reduced dose and/or dosing frequency of WELLBUTRIN SR in patients with renal impairment (Glomerular Filtration Rate: <90 mL/min).
 Bupropion and its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual.
-Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of WELLBUTRIN SR is 100 mg per day or 150 mg every other day.
-In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
