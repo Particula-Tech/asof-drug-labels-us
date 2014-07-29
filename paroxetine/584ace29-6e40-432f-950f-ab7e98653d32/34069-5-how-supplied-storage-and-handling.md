@@ -47,4 +47,4 @@ Weston, FL 33326
 ©2012, GlaxoSmithKline.
 All rights reserved.
 
-December 2012 PXL-AP:5PI
+June 2014 PXL-AP:6PI

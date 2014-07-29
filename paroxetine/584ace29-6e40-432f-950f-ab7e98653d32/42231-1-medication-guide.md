@@ -37,41 +37,69 @@ Call your healthcare provider right away if you have any of the following sympto
 - •trouble sleeping
 - •an increase in activity or talking more than what is normal for you
 - •other unusual changes in behavior or mood
+- 
+- 
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
 PAXIL may be associated with these serious side effects:
 
-1. 2.Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
-   This condition can be life-threatening and may include:
-   - ∘agitation, hallucinations, coma, or other changes in mental status
-   - ∘coordination problems or muscle twitching (overactive reflexes)
-   - ∘racing heartbeat, high or low blood pressure
-   - ∘sweating or fever
-   - ∘nausea, vomiting, or diarrhea
-   - ∘muscle rigidity
-2. 3.Severe allergic reactions:
-   - ∘trouble breathing
-   - ∘swelling of the face, tongue, eyes, or mouth
-   - ∘rash, itchy welts (hives), or blisters, alone or with fever or joint pain
-3. 4.Abnormal bleeding: PAXIL and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
-4. 5.Seizures or convulsions
-5. 6.Manic episodes:
-   - ∘greatly increased energy
-   - ∘severe trouble sleeping
-   - ∘racing thoughts
-   - ∘reckless behavior
-   - ∘unusually grand ideas
-   - ∘excessive happiness or irritability
-   - ∘talking more or faster than usual
-6. 7.Changes in appetite or weight.
-   Children and adolescents should have height and weight monitored during treatment.
-7. 8.Low salt (sodium) levels in the blood.
-   Elderly people may be at greater risk for this.
-   Symptoms may include:
+2.
+Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+This condition can be life-threatening and may include:
 
-- •headache
-- •weakness or feeling unsteady
-- •confusion, problems concentrating or thinking, or memory problems
+- agitation, hallucinations, coma, or other changes in mental status
+- coordination problems or muscle twitching (overactive reflexes)
+- racing heartbeat, high or low blood pressure
+- sweating or fever
+- nausea, vomiting, or diarrhea
+- muscle rigidity
+
+3.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
+4.
+Severe allergic reactions:
+
+- trouble breathing
+- swelling of the face, tongue, eyes, or mouth
+- rash, itchy welts (hives), or blisters, alone or with fever or joint pain
+
+5.
+Abnormal bleeding: PAXIL and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+
+6.
+Seizures or convulsions
+
+7.
+Manic episodes:
+
+- greatly increased energy
+- severe trouble sleeping
+- racing thoughts
+- reckless behavior
+- unusually grand ideas
+- excessive happiness or irritability
+- talking more or faster than usual
+
+8.
+Changes in appetite or weight.
+Children and adolescents should have height and weight monitored during treatment.
+
+9.
+Low salt (sodium) levels in the blood.
+Elderly people may be at greater risk for this.
+Symptoms may include:
+
+- headache
+- weakness or feeling unsteady
+- confusion, problems concentrating or thinking, or memory problems
 
 Do not stop PAXIL without first talking to your healthcare provider.
 Stopping PAXIL too quickly may cause serious symptoms including:
@@ -262,4 +290,4 @@ Weston, FL 33326
 ©2013, GlaxoSmithKline.
 All rights reserved.
 
-January 2013 PXL-AP:4MG
+June 2014 PXL-AP:5MG
