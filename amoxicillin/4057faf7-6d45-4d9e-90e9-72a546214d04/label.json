@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050813"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "Pragma Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "58463-002-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "amoxicillin",
+      "name": "MOXATAG"
+    }
+  ],
+  "setid": "4057faf7-6d45-4d9e-90e9-72a546214d04",
+  "source": "dailymed"
+}
