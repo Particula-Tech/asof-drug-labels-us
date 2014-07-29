@@ -19,7 +19,7 @@ If gastric irritation occurs, doxycycline may be given with food or milk [see Cl
 
 When used in streptococcal infections, therapy should be continued for 10 days.
 
-Uncomplicated urethral, endocervical, or rectal infection caused by Chlamydia trachomatis: 100 mg by mouth twice a day for 7 days.
+Uncomplicated urethral, endocervical, or rectal infection caused by Chlamydia trachomatis: 100 mg by mouth twice-a-day for 7 days.
 
 Uncomplicated gonococcal infections in adults (except anorectal infections in men): 100 mg, by mouth, twice-a-day for 7 days.
 As an alternate single visit dose, administer 300 mg stat followed in one hour by a second 300 mg dose.
@@ -30,7 +30,7 @@ Syphilis – early: Patients who are allergic to penicillin should be treated wi
 
 Syphilis of more than one year’s duration: Patients who are allergic to penicillin should be treated with doxycycline 100 mg by mouth twice-a-day for 4 weeks.
 
-Acute epididymo-orchitis caused by N. gonorrhoeae: 100 mg by mouth, twice a day for at least 10 days.
+Acute epididymo-orchitis caused by N. gonorrhoeae: 100 mg by mouth, twice-a-day for at least 10 days.
 
 Acute epididymo-orchitis caused by C. trachomatis: 100 mg, by mouth, twice-a-day for at least 10 days.
 

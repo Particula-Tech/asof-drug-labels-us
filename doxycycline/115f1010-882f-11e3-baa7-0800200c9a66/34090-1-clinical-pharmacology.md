@@ -26,7 +26,7 @@ Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal
 Doxycycline has bacteriostatic activity against a broad range of Gram-positive and Gram-negative bacteria.
 Cross resistance with other tetracyclines is common.
 
-Doxycycline has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert for ACTICLATE [see Indications and Usage (1).]
+Doxycycline has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert for ACTICLATE [see Indications and Usage (1)].
 
 Gram-Negative Bacteria Acinetobacter species Bartonella bacilliformis Brucella species Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiella granulomatis Klebsiella species Neisseria gonorrhoeae Shigella species Vibrio cholerae Yersinia pestis
 
