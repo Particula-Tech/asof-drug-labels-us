@@ -6,6 +6,8 @@ Such use could result in air embolism due to residual air being drawn from the p
 ## To Open
 
 Tear overwrap down side at slit and remove solution container.
+Visually inspect the container.
+If the outlet port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
 Some opacity of the plastic due to moisture absorption during the sterilization process may be observed.
 This is normal and does not affect the solution quality or safety.
 The opacity will diminish gradually.
@@ -27,7 +29,7 @@ Printed in USA
 ©Copyright 1981, 1982, 1983, 1989, 1995, Baxter Healthcare Corporation.
 All rights reserved.
 
-07-19-64-111
+07-19-72-993
 
 Rev.
-July 2010
+April 2014
