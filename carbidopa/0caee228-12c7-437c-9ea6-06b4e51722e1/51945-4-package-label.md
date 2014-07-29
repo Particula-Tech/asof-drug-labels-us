@@ -1,4 +1,4 @@
-# This is a representative sample of the packaging. Please see How Supplied section for a complete list of available packaging. PRINCIPAL DISPLAY PANEL - Bottle Label 10 mg/100 mg
+# PRINCIPAL DISPLAY PANEL - Bottle Label 10 mg/100 mg
 
 Sinemet® (carbidopa-levodopa) Tablets
 

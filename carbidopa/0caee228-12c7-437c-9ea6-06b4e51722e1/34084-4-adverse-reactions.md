@@ -30,7 +30,7 @@ Back pain, shoulder pain, muscle cramps.
 
 Nervous System/Psychiatric
 
-Psychotic episodes including delusions, hallucinations, and paranoid ideation, neuroleptic malignant syndrome (NMS, see WARNINGS), bradykinetic episodes ("on-off" phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
+Psychotic episodes including delusions, hallucinations, and paranoid ideation, bradykinetic episodes ("on-off" phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
 Convulsions also have occurred; however, a causal relationship with SINEMET has not been established.
 
 Respiratory
@@ -49,7 +49,7 @@ Laboratory Tests
 
 Decreased hemoglobin and hematocrit; abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), LDH, bilirubin, BUN, Coombs test; elevated serum glucose; white blood cells, bacteria, and blood in the urine.
 
-Other adverse reactions that have been reported with levodopa alone and with various carbidopa-levodopa formulations, and may occur with SINEMET are:
+Other adverse reactions that have been reported with levodopa alone and with various carbidopa levodopa formulations, and may occur with SINEMET are:
 
 Body as a Whole
 

@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-SINEMET® (carbidopa-levodopa) is a combination of carbidopa and levodopa for the treatment of Parkinson's disease and syndrome.
+SINEMET® (carbidopa levodopa) is a combination of carbidopa and levodopa for the treatment of Parkinson's disease and syndrome.
 
 Carbidopa, an inhibitor of aromatic amino acid decarboxylation, is a white, crystalline compound, slightly soluble in water, with a molecular weight of 244.3.
 It is designated chemically as (—)-L-α-hydrazino-α-methyl-β-(3,4-dihydroxybenzene) propanoic acid monohydrate.
