@@ -35,14 +35,8 @@ NDC 0006-9275-31 unit of use high-density polyethylene (HDPE) bottles of 30 with
 
 NDC 0006-9275-54 unit of use high-density polyethylene (HDPE) bottles of 90 with a polypropylene child-resistant cap, an aluminum foil induction seal, and silica gel desiccant.
 
-SINGULAIR Tablets, 10 mg, are beige, rounded square-shaped, film-coated tablets.
-They are supplied as either No. 3761 or No. 6558:
-
-No. 3761 — with code MRK 117 on one side and SINGULAIR on the other:
-
-NDC 0006-0117-28 unit dose paper and aluminum foil-backed aluminum foil peelable blister pack of 100.
-
-No. 6558 — with code MSD 117 on one side and SINGULAIR on the other:
+No. 6558 — SINGULAIR Tablets, 10 mg, are beige, rounded square-shaped, film-coated tablets, with code MSD 117 on one side and SINGULAIR on the other.
+They are supplied as follows:
 
 NDC 0006-9117-31 unit of use high-density polyethylene (HDPE) bottles of 30 with a polypropylene child-resistant cap, an aluminum foil induction seal, and silica gel desiccant
 
@@ -58,7 +52,7 @@ Store in original package.
 
 Storage for Bulk Bottles
 
-Store bottles of 1000 SINGULAIR 5-mg chewable tablets and 8000 SINGULAIR 10-mg film-coated tablets at 25°C (77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store bottles of 8000 SINGULAIR 10-mg film-coated tablets at 25°C (77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Protect from moisture and light.
 Store in original container.
 When product container is subdivided, repackage into a well-closed, light-resistant container.
