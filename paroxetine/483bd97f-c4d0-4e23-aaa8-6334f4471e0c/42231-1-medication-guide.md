@@ -50,21 +50,31 @@ This condition can be life-threatening and may include:
 - •sweating or fever
 - •nausea, vomiting, or diarrhea
 - •muscle rigidity
+- 
+- 
 
 3.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eyeOnly some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
+4.
 Severe allergic reactions:
 
 - •trouble breathing
 - •swelling of the face, tongue, eyes, or mouth
 - •rash, itchy welts (hives), or blisters, alone or with fever or joint pain
 
-4.
+5.
 Abnormal bleeding: PAXIL CR and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
-5.
+6.
 Seizures or convulsions
 
-6.
+7.
 Manic episodes:
 
 - •greatly increased energy
@@ -75,12 +85,12 @@ Manic episodes:
 - •excessive happiness or irritability
 - •talking more or faster than usual
 
-7.
+8.
 Changes in appetite or weight.
 
 Children and adolescents should have height and weight monitored during treatment.
 
-8.
+9.
 Low salt (sodium) levels in the blood.
 
 Elderly people may be at greater risk for this.
@@ -268,4 +278,4 @@ Apotex Corp.
 
 Weston, FL 33326
 
-January 2013 PCR-AP:4MG
+June 2014 PCR-AP:5MG

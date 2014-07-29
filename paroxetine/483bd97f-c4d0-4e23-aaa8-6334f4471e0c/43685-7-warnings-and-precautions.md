@@ -71,6 +71,10 @@ If concomitant use of PAXIL CR with certain other serotonergic drugs, i.e., trip
 
 Treatment with PAXIL CR and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
+## Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including Paxil may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
 ## Potential Interaction With Thioridazine
 
 Thioridazine administration alone produces prolongation of the QTc interval, which is associated with serious ventricular arrhythmias, such as torsade de pointes–type arrhythmias, and sudden death.
@@ -232,6 +236,11 @@ A lower starting dose should be used in such patients (see DOSAGE AND ADMINISTRA
 PAXIL CR should not be chewed or crushed, and should be swallowed whole.
 
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of PAXIL CR and triptans, tramadol, or other serotonergic agents.
+
+Patients should be advised that taking Paxil can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with PAXIL CR and should counsel them in its appropriate use.
 A patient Medication Guide is available for PAXIL CR.
