@@ -6,12 +6,12 @@ Systemic absorption of topical corticosteroids has produced reversible hypothala
 
 Conditions which augment systemic absorption include the application of the more potent steroids, use over large surface areas, prolonged use, and the addition of occlusive dressings.
 
-Therefore, patients receiving a large dose of a potent topical steroid applied to a large surface area or under an occlusive dressing should be evaluated periodically for evidence of HPA axis suppression by using the urinary free cortisol and ACTH stimulation tests, and for impairment of thermal homeostasis.
-If HPA axis suppression or elevation of the body temperature occurs, an attempt should be made to withdraw the drug, to reduce the frequency of application, substitute a less potent steroid, or use a sequential approach when utilizing the occlusive technique.
+Therefore, patients receiving a large dose of a potent topical steroid applied to a large surface area or under an occlusive dressing should be evaluated periodically for evidence of HPA axis suppression by using the urinary free cortisol and ACTH stimulation tests
 
-Recovery of HPA axis function and thermal homeostasis are generally prompt and complete upon discontinuation of the drug.
+If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid.
+
+Recovery of HPA axis function is generally prompt and complete upon discontinuation of the drug.
 Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids.
-Occasionally, a patient may develop a sensitivity reaction to a particular occlusive dressing material or adhesive and a substitute material may be necessary.
 
 Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (see PRECAUTIONS, Pediatric Use).
 
@@ -19,8 +19,6 @@ If irritation develops, topical corticosteroids should be discontinued and appro
 
 In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
 If a favorable response does not occur promptly, the corticosteroid should be discontinued until the infection has been adequately controlled.
-
-These preparations are not for ophthalmic use.
 
 ## Information for the Patient
 
@@ -36,7 +34,7 @@ Patients using topical corticosteroids should receive the following information 
 
 ## Laboratory Tests
 
-A urinary free cortisol test and ACTH stimulation test may be helpful in evaluating HPA axis suppression.
+The following tests may be helpful in evaluating the HPA axis suppression: Urinary free cortisol test; ACTH stimulation test.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
@@ -44,11 +42,7 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 
 Studies to determine mutagenicity with prednisolone and hydrocortisone have revealed negative results.
 
-## Pregnancy
-
-### Teratogenic Effects
-
-#### Pregnancy Category C
+## Pregnancy Category C
 
 Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
