@@ -9,4 +9,9 @@ M.W.
 763.27
 
 Each capsule, for oral administration, contains hydroxyzine pamoate equivalent to hydroxyzine hydrochloride 25 mg or 50 mg.
-In addition, each capsule contains the following inactive ingredients: colloidal silicon dioxide, D&C yellow No. 10, FD&C green No. 3, FD&C yellow No. 6, gelatin, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, propylene glycol, sodium lauryl sulfate, sodium starch glycolate and titanium dioxide.
+
+In addition, each capsule contains the following inactive ingredients: colloidal silicon dioxide, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, sodium starch glycolate (potato), and sodium lauryl sulfate.
+
+The capsule shell contains the following ingredients: D&C Yellow #10, FD&C Green #3, FD&C Yellow #6, gelatin, and titanium dioxide.
+
+The edible imprinting ink contains the following ingredients: black iron oxide, D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40, and shellac glaze.

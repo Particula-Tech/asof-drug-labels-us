@@ -8,10 +8,10 @@ Since many drugs are so excreted, hydroxyzine should not be given to nursing mot
 # PRECAUTIONS
 
 THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES.
-Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine their dosage should be reduced.
+Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine, their dosage should be reduced.
 
 Since drowsiness may occur with use of the drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine pamoate capsules.
-Patients should be advised against the simultaneous use of other CNS depressant drugs and cautioned that the effect of alcohol may be increased.
+Patients should be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effect of alcohol may be increased.
 
 ## Geriatric Use
 
