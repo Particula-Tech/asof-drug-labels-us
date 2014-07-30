@@ -42,7 +42,7 @@ Mean (%CV) Steady-State Pharmacokinetic Parameter Values (n=26).
 | AUC0-24 (ng∙h/mL) | 5991 (22) | 6399 (28) | 1361 (27) | 1438 (23) |
 | Cmax (ng/mL) | 345 (21) | 423 (23) | 71 (27) | 79 (22) |
 | Cmin (ng/mL) | 157 (31) | 190 (34) | 41 (30) | 50 (29) |
-| Tmax (hr)Tmax is presented as Median (Range) | 4.0 (3.0 to 9.0) | 1.0 (1.0 to 3.0) | 5.0 (3.0 to 20) | 1.5 (1.0 to 3.0) |
+| Tmax (hr)Tmax is presented as Median (Range) | 4 (3 to 9) | 1 (1 to 3) | 5 (3 to 20) | 1.5 (1 to 3) |
 | Fluctuation (%) | 77 (26) | 91 (22) | 53 (29) | 49 (26) |
 
 Steady-state plasma concentrations are reached within approximately 48 hours.
