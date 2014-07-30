@@ -127,31 +127,32 @@ NEXIUM can cause serious side effects, including:
 - •Low magnesium levels in your body.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
-- You may or may not have symptoms of low magnesium.
+  You may or may not have symptoms of low magnesium.
   Tell your doctor right away if you have any of these symptoms:
-  - •seizures
-  - •dizziness
-  - •abnormal or fast heart beat
-  - •jitteriness
-  - •jerking movements or shaking (tremors)
-  - •muscle weakness
-  - •spasms of the hands and feet
-  - •cramps or muscle aches
-  - •spasm of the voice box
+- 
+  - ∘seizures
+  - ∘dizziness
+  - ∘abnormal or fast heart beat
+  - ∘jitteriness
+  - ∘jerking movements or shaking (tremors)
+  - ∘muscle weakness
+  - ∘spasms of the hands and feet
+  - ∘cramps or muscle aches
+  - ∘spasm of the voice box
 
 Your doctor may check the level of magnesium in your body before you start taking NEXIUM or during treatment if you will be taking NEXIUM for a long period of time.
 
 The most common side effects with NEXIUM may include:
 
 - 
-  - •headache
-  - •diarrhea
-  - •nausea
-  - •gas
-  - •abdominal pain
-  - •constipation
-  - •dry mouth
-  - •drowsiness
+  - ∘headache
+  - ∘diarrhea
+  - ∘nausea
+  - ∘gas
+  - ∘abdominal pain
+  - ∘constipation
+  - ∘dry mouth
+  - ∘drowsiness
 
 Other side effects:
 
