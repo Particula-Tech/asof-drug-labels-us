@@ -149,9 +149,9 @@ TABLE 4 MOST COMMON ADVERSE EVENTS ASSOCIATED WITH DISCONTINUATION IN PLACEBO-CO
 
 ## Male and Female Sexual Dysfunction with SSRIs
 
-Although changes in sexual desire, sexual performance and sexual satisfaction often occur asmanifestations of a psychiatric disorder, they may also be a consequence of pharmacologictreatment.
-In particular, some evidence suggests that selective serotonin reuptake inhibitors(SSRIs) can cause such untoward sexual experiences.
-Reliable estimates of the incidence andseverity of untoward experiences involving sexual desire, performance and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
+Although changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
+In particular, some evidence suggests that selective serotonin reuptake inhibitors (SSRIs) can cause such untoward sexual experiences.
+Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling, are likely to underestimate their actual incidence.
 
 Table 5 below displays the incidence of sexual side effects reported by at least 2% of patients taking sertraline in placebo-controlled trials.
@@ -174,7 +174,7 @@ While it is difficult to know the precise risk of sexual dysfunction associated 
 In over 600 pediatric patients treated with sertraline, the overall profile of adverse events was generally similar to that seen in adult studies.
 However, the following adverse events, from controlled trials, not appearing in Tables 2 and 3, were reported at an incidence of at least 2% and occurred at a rate of at least twice the placebo rate (N=281 patients treated with sertraline): fever, hyperkinesia, urinary incontinence, aggressive reaction, sinusitis, epistaxis and purpura.
 
-## Other Events Observed During the Premarketing Evaluation of sertraline hydrochloride
+## Other Events Observed During the Premarketing Evaluation of Sertraline Hydrochloride
 
 Following is a list of treatment-emergent adverse events reported during premarketing assessment of sertraline in clinical trials (over 4000 adult subjects) except those already listed in the previous tables or elsewhere in labeling.
 
@@ -311,6 +311,6 @@ Sertraline therapy was associated with small mean increases in total cholesterol
 
 The safety profile observed with sertraline treatment in patients with major depressive disorder, OCD, panic disorder, PTSD, PMDD and social anxiety disorder is similar.
 
-## Other Events Observed During the Post marketing Evaluation of Sertraline Hydrochloride
+## Other Events Observed During the Post marketing Evaluation of Sertraline
 
 Reports of adverse events temporally associated with sertraline that have been received since market introduction, that are not listed above and that may have no causal relationship with the drug, include the following: acute renal failure, anaphylactoid reaction, angioedema, blindness, optic neuritis, cataract, increased coagulation times, bradycardia, AV block, atrial arrhythmias, QT-interval prolongation, ventricular tachycardia (including torsade de pointes-type arrhythmias), cerebrovascular spasm (including reversible cerebral vasconstriction syndrome and Call-Fleming syndrome), hypothyroidism, agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness, diabetes mellitus, hyperglycemia, galactorrhea, hyperprolactinemia, extrapyramidal symptoms, oculogyric crisis, serotonin syndrome, psychosis, pulmonary hypertension, severe skin reactions, which potentially can be fatal, such as Stevens- Johnson syndrome, vasculitis, photosensitivity and other severe cutaneous disorders, rare reports of pancreatitis, and liver events—clinical features (which in the majority of cases appeared to be reversible with discontinuation of sertraline) occurring in one or more patients include: elevated enzymes, increased bilirubin, hepatomegaly, hepatitis, jaundice, abdominal pain, vomiting, liver failure and death.

@@ -2,7 +2,7 @@
 
 Sertraline capsule-shaped, film-coated tablets, containing sertraline hydrochloride equivalent to 25, 50 and 100 mg of sertraline, are packaged in bottles as well as unit dose blisters.
 
-Sertraline Tablets USP, 25 mg: green colored, capsule shaped, biconvex, film-coated tablets, debossed with 'L' & 'U' on either side of the breakline on one side and 'D01' on the other side.
+Sertraline Hydrochloride Tablets USP, 25 mg: green colored, capsule shaped, biconvex, film-coated tablets, debossed with 'L' & 'U' on either side of the breakline on one side and 'D01' on the other side.
 
 NDC 68180-351-06 Bottles of 30
 
@@ -14,7 +14,7 @@ NDC 68180-351-01 Bottles of 100
 
 NDC 68180-351-03 Bottles of 1000
 
-Sertraline Tablets USP, 50 mg: blue colored, capsule shaped, biconvex, film-coated tablets, debossed with 'L' & 'U' on either side of the breakline on one side and 'D02' on the other side.
+Sertraline Hydrochloride Tablets USP, 50 mg: blue colored, capsule shaped, biconvex, film-coated tablets, debossed with 'L' & 'U' on either side of the breakline on one side and 'D02' on the other side.
 
 NDC 68180-352-06 Bottles of 30
 
@@ -30,7 +30,7 @@ NDC 68180-352-05 Bottles of 5000
 
 NDC 68180-352-11 Box containing 10 x 10's unit dose blisters
 
-Sertraline Tablets USP, 100 mg: yellow colored, capsule shaped, biconvex, film-coated tablets, debossed with 'L' & 'U' on either side of the breakline on one side and 'D03' on the other side.
+Sertraline Hydrochloride Tablets USP, 100 mg: yellow colored, capsule shaped, biconvex, film-coated tablets, debossed with 'L' & 'U' on either side of the breakline on one side and 'D03' on the other side.
 
 NDC 68180-353-06 Bottles of 30
 
@@ -64,4 +64,4 @@ Goa 403 722
 
 INDIA
 
-Revised: March 15, 2014 ID#: 237062
+Revised: August 2014 ID#: 238189

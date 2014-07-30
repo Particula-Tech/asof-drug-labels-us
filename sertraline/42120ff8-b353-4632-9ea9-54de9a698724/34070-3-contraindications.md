@@ -9,4 +9,4 @@ Starting sertraline in a patient who is being treated with MAOIs such as linezol
 
 Concomitant use in patients taking pimozide is contraindicated (see PRECAUTIONS).
 
-Sertraline tablets are contraindicated in patients with a hypersensitivity to sertraline or any of the inactive ingredients in sertraline tablets.
+Sertraline hydrochloride tablets are contraindicated in patients with a hypersensitivity to sertraline or any of the inactive ingredients in sertraline hydrochloride tablets.

@@ -89,7 +89,7 @@ In a patient who requires more urgent treatment of a psychiatric condition, othe
 In some cases, a patient already receiving sertraline therapy may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, sertraline should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with sertraline tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+Therapy with sertraline hydrochloride tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
 
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with sertraline is unclear.
 The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).

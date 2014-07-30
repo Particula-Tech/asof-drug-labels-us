@@ -18,12 +18,12 @@ The average terminal elimination half-life of plasma sertraline is about 26 hour
 Based on this pharmacokinetic parameter, steady-state sertraline plasma levels should be achieved after approximately one week of once-daily dosing.
 Linear dose-proportional pharmacokinetics were demonstrated in a single dose study in which the Cmax and area under the plasma concentration time curve (AUC) of sertraline were proportional to dose over a range of 50 to 200 mg.
 Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation, compared to a single dose, of sertraline with repeated dosing over a 50 to 200 mg dose range.
-The single dose bioavailability of sertraline tablets is approximately equal to an equivalent dose of solution.
+The single dose bioavailability of sertraline hydrochloride tablets is approximately equal to an equivalent dose of solution.
 
-In a relative bioavailability study comparing the pharmacokinetics of 100 mg sertraline as the oral solution to a 100 mg sertraline tablet in 16 healthy adults, the solution to tablet ratio of geometric mean AUC and Cmax values were 114.8% and 120.6%, respectively.
+In a relative bioavailability study comparing the pharmacokinetics of 100 mg sertraline as the oral solution to a 100 mg sertraline hydrochloride tablet in 16 healthy adults, the solution to tablet ratio of geometric mean AUC and Cmax values were 114.8% and 120.6%, respectively.
 90% confidence intervals (CI) were within the range of 80 to 125% with the exception of the upper 90% CI limit for Cmax which was 126.5%.
 
-The effects of food on the bioavailability of the sertraline tablet was studied in subjects administered a single dose with and without food.
+The effects of food on the bioavailability of the sertraline hydrochloride tablet was studied in subjects administered a single dose with and without food.
 For the tablet, AUC was slightly increased when drug was administered with food but the Cmax was 25% greater, while the time to reach peak plasma concentration (Tmax) decreased from 8 hours post-dosing to 5.5 hours.
 
 Metabolism
@@ -38,7 +38,7 @@ About 40 to 45% of the administered radioactivity was recovered in urine in 9 da
 Unchanged sertraline was not detectable in the urine.
 For the same period, about 40 to 45% of the administered radioactivity was accounted for in feces, including 12 to 14% unchanged sertraline.
 
-Desmethylsertraline exhibits time-related, dose dependent increases in AUC (0-24 hour), Cmax and Cmin, with about a 5 to 9 fold increase in these pharmacokinetic parameters between day 1 and day 14.
+Desmethylsertraline exhibits time-related, dose dependent increases in AUC (0 to 24 hour), Cmax and Cmin, with about a 5 to 9 fold increase in these pharmacokinetic parameters between day 1 and day 14.
 
 Protein Binding
 
@@ -142,7 +142,7 @@ Study 3 was not readily interpretable regarding a dose response relationship for
 
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age, race, or gender.
 
-In a longer-term study, patients meeting DSM-III-R criteria for Panic Disorder who had responded during a 52-week open trial on sertraline 50-200 mg/day (n=183) were randomized to continuation of sertraline or to substitution of placebo for up to 28 weeks of observation for discontinuation due to relapse or insufficient clinical response.
+In a longer-term study, patients meeting DSM-III-R criteria for Panic Disorder who had responded during a 52-week open trial on sertraline 50 to 200 mg/day (n=183) were randomized to continuation of sertraline or to substitution of placebo for up to 28 weeks of observation for discontinuation due to relapse or insufficient clinical response.
 Response during the open phase was defined as a CGI-I score of 1(very much improved) or 2 (much improved).
 Relapse during the double-blind phase was defined as the following conditions being met on three consecutive visits: (1) CGI-I ≥ 3; (2) meets DSM-III-R criteria for Panic Disorder; (3) number of panic attacks greater than at baseline.
 Insufficient clinical response indicated a worsening of the patient's condition that resulted in study discontinuation, as assessed by the investigator.
@@ -154,7 +154,8 @@ Posttraumatic Stress Disorder (PTSD)
 The effectiveness of sertraline in the treatment of PTSD was established in two multicenter placebo-controlled studies (Studies 1 to 2) of adult outpatients who met DSM-III-R criteria for PTSD.
 The mean duration of PTSD for these patients was 12 years (Studies 1 and 2 combined) and 44% of patients (169 of the 385 patients treated) had secondary depressive disorder.
 
-Studies 1 and 2 were 12-week flexible dose studies. sertraline was initiated at 25 mg/day for the first week, and patients were then dosed in the range of 50 to 200 mg/day on the basis of clinical response and toleration.
+Studies 1 and 2 were 12-week flexible dose studies.
+Sertraline was initiated at 25 mg/day for the first week, and patients were then dosed in the range of 50 to 200 mg/day on the basis of clinical response and toleration.
 The mean sertraline dose for completers was 146 mg/day and 151 mg/day, respectively for Studies 1 and 2.
 Study outcome was assessed by the Clinician-Administered PTSD Scale Part 2 (CAPS) which is a multi-item instrument that measures the three PTSD diagnostic symptom clusters of reexperiencing/intrusion, avoidance/numbing, and hyperarousal as well as the patient-rated Impact of Event Scale (IES) which measures intrusion and avoidance symptoms.
 Sertraline was shown to be significantly more effective than placebo on change from baseline to endpoint on the CAPS, IES and on the Clinical Global Impressions (CGI) Severity of Illness and Global Improvement scores.
@@ -166,7 +167,7 @@ Post hoc exploratory analyses revealed a significant difference between sertrali
 The clinical significance of this apparent gender interaction is unknown at this time.
 There was insufficient information to determine the effect of race or age on outcome.
 
-In a longer-term study, patients meeting DSM-III-R criteria for PTSD who had responded during a 24-week open trial on sertraline 50-200 mg/day (n=96) were randomized to continuation of sertraline or to substitution of placebo for up to 28 weeks of observation for relapse.
+In a longer-term study, patients meeting DSM-III-R criteria for PTSD who had responded during a 24-week open trial on sertraline 50 to 200 mg/day (n=96) were randomized to continuation of sertraline or to substitution of placebo for up to 28 weeks of observation for relapse.
 Response during the open phase was defined as a CGI-I of 1 (very much improved) or 2 (much improved), and a decrease in the CAPS-2 score of > 30% compared to baseline.
 Relapse during the double- blind phase was defined as the following conditions being met on two consecutive visits: (1) CGI-I ≥ 3; (2) CAPS-2 score increased by ≥ 30% and by ≥ 15 points relative to baseline; and (3) worsening of the patient's condition in the investigator's judgment.
 Patients receiving continued sertraline treatment experienced significantly lower relapse rates over the subsequent 28 weeks compared to those receiving placebo.
@@ -206,7 +207,8 @@ Study outcome was assessed by (a) the Liebowitz Social Anxiety Scale (LSAS), a 2
 Sertraline was statistically significantly more effective than placebo as measured by the LSAS and the percentage of responders.
 
 Study 2 was a 20-week, multicenter, flexible dose study that compared sertraline (50 to 200 mg/day) to placebo.
-Study outcome was assessed by the (a) Duke Brief Social Phobia Scale (BSPS), a multi-item clinician-rated instrument that measures fear, avoidance and physiologic response to social or performance situations, (b) the Marks Fear Questionnaire Social Phobia Subscale (FQ-SPS), a 5-item patient-rated instrument that measures change in the severity of phobic avoidance and distress, and (c) the CGI-I responder criterion of ≤ 2. sertraline was shown to be statistically significantly more effective than placebo as measured by the BSPS total score and fear, avoidance and physiologic factor scores, as well as the FQ-SPS total score, and to have significantly more responders than placebo as defined by the CGI-I.
+Study outcome was assessed by the (a) Duke Brief Social Phobia Scale (BSPS), a multi-item clinician-rated instrument that measures fear, avoidance and physiologic response to social or performance situations, (b) the Marks Fear Questionnaire Social Phobia Subscale (FQ-SPS), a 5-item patient-rated instrument that measures change in the severity of phobic avoidance and distress, and (c) the CGI-I responder criterion of ≤ 2.
+Sertraline was shown to be statistically significantly more effective than placebo as measured by the BSPS total score and fear, avoidance and physiologic factor scores, as well as the FQ-SPS total score, and to have significantly more responders than placebo as defined by the CGI-I.
 
 Subgroup analyses did not suggest differences in treatment outcome on the basis of gender.
 There was insufficient information to determine the effect of race or age on outcome.
