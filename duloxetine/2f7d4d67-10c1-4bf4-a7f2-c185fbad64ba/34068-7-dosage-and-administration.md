@@ -55,9 +55,9 @@ Chronic Musculoskeletal Pain — The efficacy of Cymbalta has not been establish
 
 ## 2.3 Dosing in Special Populations
 
-Hepatic Insufficiency — It is recommended that Cymbalta should ordinarily not be administered to patients with any hepatic insufficiency [see Warnings and Precautions (5.13) and Use in Specific Populations (8.9)].
+Hepatic Insufficiency — It is recommended that Cymbalta should ordinarily not be administered to patients with any hepatic insufficiency [see Warnings and Precautions (5.14) and Use in Specific Populations (8.9)].
 
-Severe Renal Impairment — Cymbalta is not recommended for patients with end-stage renal disease or severe renal impairment (estimated creatinine clearance <30 mL/min) [see Warnings and Precautions (5.13) and Use in Specific Populations (8.10)].
+Severe Renal Impairment — Cymbalta is not recommended for patients with end-stage renal disease or severe renal impairment (estimated creatinine clearance <30 mL/min) [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
 
 Elderly Patients — No dose adjustment is recommended for elderly patients on the basis of age.
 As with any drug, caution should be exercised in treating the elderly.

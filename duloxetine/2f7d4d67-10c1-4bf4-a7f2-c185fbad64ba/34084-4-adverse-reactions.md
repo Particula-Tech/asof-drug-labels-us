@@ -212,7 +212,7 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 ## 6.7 Vital Sign Changes
 
 In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.23 mm Hg in systolic blood pressure and 0.73 mm Hg in diastolic blood pressure compared to mean decreases of 1.09 mm Hg systolic and 0.55 mm Hg diastolic in placebo-treated patients.
-There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3 and 5.10)].
+There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3 and 5.11)].
 
 Duloxetine treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.37 beats per minute (increase of 1.20 beats per minute in duloxetine-treated patients, decrease of 0.17 beats per minute in placebo-treated patients).
 
@@ -282,4 +282,4 @@ Vascular Disorders — Frequent: hot flush; Infrequent: flushing, orthostatic hy
 The following adverse reactions have been identified during postapproval use of Cymbalta.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, extrapyramidal disorder, galactorrhea, glaucoma, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.
+Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, angle-closure glaucoma, extrapyramidal disorder, galactorrhea, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.

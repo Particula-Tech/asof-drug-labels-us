@@ -81,9 +81,19 @@ Manic episodes:
 - talking more or faster than usual
 
 7.
-Seizures or convulsions
+Visual Problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 8.
+Seizures or convulsions
+
+9.
 Changes in blood pressure.
 Monitor your blood pressure before starting and throughout treatment.
 Cymbalta may:
@@ -91,7 +101,7 @@ Cymbalta may:
 - increase your blood pressure.
 - decrease your blood pressure when standing and cause dizziness or fainting, mostly when first starting Cymbalta or when increasing the dose.
 
-9.
+10.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
@@ -100,13 +110,13 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
-10.
+11.
 Problems with urination include:
 
 - decreased urine flow
 - unable to pass any urine
 
-11.
+12.
 Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
 
@@ -139,7 +149,6 @@ Who should not take Cymbalta?
 
 Do NOT take Cymbalta if you:
 
-- have uncontrolled narrow-angle glaucoma
 - take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - Do not take an MAOI within 5 days of stopping Cymbalta unless directed to do so by your physician.
@@ -176,7 +185,7 @@ Before starting Cymbalta, tell your healthcare provider if you:
 - have diabetes (Cymbalta treatment worsens the control of blood sugar in some patients with diabetes)
 - have liver problems
 - have kidney problems
-- have glaucoma
+- have angle-closure glaucoma
 - have or had seizures or convulsions
 - have bipolar disorder or mania
 - have low sodium levels in your blood
@@ -258,8 +267,7 @@ This Medication Guide summarizes the most important information about Cymbalta.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about Cymbalta that is written for healthcare professionals.
 
-For more information about Cymbalta call 1-800-Lilly Rx (1-800-545-5979) or go to www.
-Cymbalta.com.
+For more information about Cymbalta call 1-800-Lilly Rx (1-800-545-5979).
 
 What are the ingredients in Cymbalta?
 
@@ -270,19 +278,17 @@ Inactive ingredients:
 - Delayed Release Capsules: FD&C Blue No. 2, gelatin, hypromellose, hydroxypropyl methylcellulose acetate succinate, sodium lauryl sulfate, sucrose, sugar spheres, talc, titanium dioxide, and triethyl citrate.
   The 20 and 60 mg capsules also contain iron oxide yellow.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 *The brands listed are trademarks of their respective owners and not trademarks of Eli Lilly and Company.
 
-Medication Guide revised: November 9, 2012
+Medication Guide revised: July 17, 2014
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-www.cymbalta.com
-
 Cymbalta is a registered trademark of Eli Lilly and Company.
 
-Copyright © 2009, 2012, Eli Lilly and Company.
+Copyright © 2009, 2014, Eli Lilly and Company.
 All rights reserved.
 
-PV 7094 AMP
+CYM-0001-MG-20140717
