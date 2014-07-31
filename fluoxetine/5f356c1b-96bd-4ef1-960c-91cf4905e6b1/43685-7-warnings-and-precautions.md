@@ -41,7 +41,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Warnings and Precautions (5.13)].
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Warnings and Precautions (5.15)].
 
 Families and caregivers of patients being treated with antidepressants for Major Depressive Disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
@@ -138,7 +138,11 @@ Case reports and epidemiological studies (case-control and cohort design) have d
 Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
-## 5.8 Hyponatremia
+## 5.8 Angle-Closure Glaucoma
+
+Angle-Closure Glaucoma — The pupillary dilation that occurs following use of many antidepressant drugs including Prozac may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.9 Hyponatremia
 
 Hyponatremia has been reported during treatment with SNRIs and SSRIs, including PROZAC.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
@@ -150,7 +154,7 @@ Discontinuation of PROZAC should be considered in patients with symptomatic hypo
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-## 5.9 Anxiety and Insomnia
+## 5.10 Anxiety and Insomnia
 
 In US placebo-controlled clinical trials for Major Depressive Disorder, 12% to 16% of patients treated with PROZAC and 7% to 9% of patients treated with placebo reported anxiety, nervousness, or insomnia.
 
@@ -162,7 +166,7 @@ Anxiety and nervousness were reported, respectively, in 15% and 11% of patients 
 
 Among the most common adverse reactions associated with discontinuation (incidence at least twice that for placebo and at least 1% for PROZAC in clinical trials collecting only a primary reaction associated with discontinuation) in US placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in Major Depressive Disorder) [see Table 5].
 
-## 5.10 QT Prolongation
+## 5.11 QT Prolongation
 
 Post-marketing cases of QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with PROZAC.
 PROZAC should be used with caution in patients with congenital long QT syndrome; a previous history of QT prolongation; a family history of long QT syndrome or sudden cardiac death; and other conditions that predispose to QT prolongation and ventricular arrhythmia.
@@ -176,7 +180,7 @@ These include specific antipsychotics (e.g., ziprasidone, iloperidone, chlorprom
 Consider ECG assessment and periodic ECG monitoring if initiating treatment with PROZAC in patients with risk factors for QT prolongation and ventricular arrhythmia.
 Consider discontinuing PROZAC and obtaining a cardiac evaluation if patients develop signs or symptoms consistent with ventricular arrhythmia.
 
-## 5.11 Use in Patients with Concomitant Illness
+## 5.12 Use in Patients with Concomitant Illness
 
 Clinical experience with PROZAC in patients with concomitant systemic illness is limited.
 Caution is advisable in using PROZAC in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
@@ -190,19 +194,17 @@ Glycemic Control — In patients with diabetes, PROZAC may alter glycemic contro
 Hypoglycemia has occurred during therapy with PROZAC, and hyperglycemia has developed following discontinuation of the drug.
 As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic, dosage may need to be adjusted when therapy with PROZAC is instituted or discontinued.
 
-Acute Narrow-Angle Glaucoma — Mydriasis has been reported in association with PROZAC; therefore, caution should be used when prescribing PROZAC in patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma.
-
-## 5.12 Potential for Cognitive and Motor Impairment
+## 5.13 Potential for Cognitive and Motor Impairment
 
 As with any CNS-active drug, PROZAC has the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that the drug treatment does not affect them adversely.
 
-## 5.13 Long Elimination Half-Life
+## 5.14 Long Elimination Half-Life
 
 Because of the long elimination half-lives of the parent drug and its major active metabolite, changes in dose will not be fully reflected in plasma for several weeks, affecting both strategies for titration to final dose and withdrawal from treatment.
 This is of potential consequence when drug discontinuation is required or when drugs are prescribed that might interact with fluoxetine and norfluoxetine following the discontinuation of fluoxetine [see Clinical Pharmacology (12.3)].
 
-## 5.14 Discontinuation Adverse Reactions
+## 5.15 Discontinuation Adverse Reactions
 
 During marketing of PROZAC, SNRIs, and SSRIs, there have been spontaneous reports of adverse reactions occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these reactions are generally self-limiting, there have been reports of serious discontinuation symptoms.
@@ -212,6 +214,6 @@ If intolerable symptoms occur following a decrease in the dose or upon discontin
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conclusion of therapy which may minimize the risk of discontinuation symptoms with this drug.
 
-## 5.15 PROZAC and Olanzapine in Combination
+## 5.16 PROZAC and Olanzapine in Combination
 
 When using PROZAC and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.

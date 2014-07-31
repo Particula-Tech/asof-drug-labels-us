@@ -68,9 +68,19 @@ Severe allergic reactions:
 Abnormal bleeding: PROZAC and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 5.
-Seizures or convulsions
+Visual problems:
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 6.
+Seizures or convulsions
+
+7.
 Manic episodes:
 
 - greatly increased energy
@@ -81,11 +91,11 @@ Manic episodes:
 - excessive happiness or irritability
 - talking more or faster than usual
 
-7.
+8.
 Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
 
-8.
+9.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
@@ -94,7 +104,7 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
-9.
+10.
 Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsades de Pointes).
 This condition can be life threatening.
 The symptoms may include:
@@ -284,13 +294,13 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised July 26, 2013
+Medication Guide revised July 18, 2014
 
 Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-Copyright © 2009, 2013, Eli Lilly and Company.
+Copyright © 2009, 2014, Eli Lilly and Company.
 All rights reserved.
 
-PV 7105 AMP
+PRZ-0001-MG-20140718

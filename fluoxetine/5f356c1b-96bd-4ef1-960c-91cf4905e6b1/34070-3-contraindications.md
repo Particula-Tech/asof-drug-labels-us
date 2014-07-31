@@ -13,8 +13,8 @@ Starting PROZAC in a patient who is being treated with MAOIs such as linezolid o
 
 The use of PROZAC is contraindicated with the following:
 
-- Pimozide [see Warnings and Precautions (5.10) and Drug Interactions (7.7, 7.8)]
-- Thioridazine [see Warnings and Precautions (5.10) and Drug Interactions (7.7, 7.8)]
+- Pimozide [see Warnings and Precautions (5.11) and Drug Interactions (7.7, 7.8)]
+- Thioridazine [see Warnings and Precautions (5.11) and Drug Interactions (7.7, 7.8)]
 
 Pimozide and thioridazine prolong the QT interval.
 PROZAC can increase the levels of pimozide and thioridazine through inhibition of CYP2D6.
