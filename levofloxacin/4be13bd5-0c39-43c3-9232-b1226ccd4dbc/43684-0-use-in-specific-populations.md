@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Levofloxacin was not teratogenic in rats at oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended human dose based upon relative body surface area, or at intravenous doses as high as 160 mg/kg/day corresponding to 1.9 times the highest recommended human dose based upon relative body surface area.
+Pregnancy Category C
+
+Levofloxacin was not teratogenic in rats at oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended human dose based upon relative body surface area, or at intravenous doses as high as 160 mg/kg/day corresponding to 1.9 times the highest recommended human dose based upon relative body surface area.
 The oral dose of 810 mg/kg/day to rats caused decreased fetal body weight and increased fetal mortality.
 No teratogenicity was observed when rabbits were dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended human dose based upon relative body surface area, or when dosed intravenously as high as 25 mg/kg/day, corresponding to 0.5 times the highest recommended human dose based upon relative body surface area.
 
@@ -42,12 +44,12 @@ Safety and effectiveness in pediatric patients below the age of six months have 
 Adverse Events
 
 In clinical trials, 1534 children (6 months to 16 years of age) were treated with oral and intravenous levofloxacin.
-Children 6 months to 5 years of age received levofloxacin10 mg/kg twice a day and children greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
+Children 6 months to 5 years of age received levofloxacin 10 mg/kg twice a day and children greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
 
 A subset of children in the clinical trials (1340 levofloxacin-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendinopathy, gait abnormality) during 60 days and 1 year following the first dose of the study drug.
-Children treated with levofloxacin had a significantly higher incidence of musculoskeletal disorders when compared to the non-fluoroquinolone-treated children as illustrated in Table 7.
+Children treated with levofloxacin had a significantly higher incidence of musculoskeletal disorders when compared to the non-fluoroquinolone-treated children as illustrated in Table 9.
 
-Table 7: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
+Table 9: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
 
 | Follow-up Period | Levofloxacin N = 1340 | Non-FluoroquinoloneNon-Fluoroquinolone: ceftriaxone, amoxicillin/ clavulanate, clarithromycin N = 893 | p-value2-sided Fisher’s Exact Test |
 | --- | --- | --- | --- |
@@ -78,7 +80,7 @@ No overall differences in safety or effectiveness were observed between these su
 
 Severe, and sometimes fatal, cases of hepatotoxicity have been reported post-marketing in association with levofloxacin.
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
-Levofloxacinshould be discontinued immediately if the patient develops signs and symptoms of hepatitis [see WARNINGS AND PRECAUTIONS (5.5)].
+Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see WARNINGS AND PRECAUTIONS (5.5)].
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using levofloxacin tablets with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see WARNINGS AND PRECAUTIONS (5.9)].

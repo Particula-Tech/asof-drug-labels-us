@@ -2,7 +2,7 @@
 
 ## 14.1 Nosocomial Pneumonia
 
-Adult patients with clinically and radiologically documented nosocomial pneumonia were enrolled in a multicenter, randomized, open-label study comparing intravenous levofloxacin(750 mg once daily) followed by oral levofloxacin (750 mg once daily) for a total of 7 to 15 days to intravenous imipenem/cilastatin (500 to 1000 mg every 6 to 8 hours daily) followed by oral ciprofloxacin (750 mg every 12 hours daily) for a total of 7 to 15 days.
+Adult patients with clinically and radiologically documented nosocomial pneumonia were enrolled in a multicenter, randomized, open-label study comparing intravenous levofloxacin (750 mg once daily) followed by oral levofloxacin (750 mg once daily) for a total of 7 to 15 days to intravenous imipenem/cilastatin (500 to 1000 mg every 6 to 8 hours daily) followed by oral ciprofloxacin (750 mg every 12 hours daily) for a total of 7 to 15 days.
 Levofloxacin-treated patients received an average of 7 days of intravenous therapy (range: 1 to 16 days); comparator-treated patients received an average of 8 days of intravenous therapy (range: 1 to 19 days).
 
 Overall, in the clinically and microbiologically evaluable population, adjunctive therapy was empirically initiated at study entry in 56 of 93 (60.2%) patients in the levofloxacin arm and 53 of 94 (56.4%) patients in the comparator arm.
@@ -11,12 +11,12 @@ In clinically and microbiologically evaluable patients with documented Pseudomon
 Overall, in clinically and microbiologically evaluable patients, vancomycin was added to the treatment regimen of 37 of 93 (39.8%) patients in the levofloxacin arm and 28 of 94 (29.8%) patients in the comparator arm for suspected methicillin-resistant S. aureus infection.
 
 Clinical success rates in clinically and microbiologically evaluable patients at the posttherapy visit (primary study endpoint assessed on day 3 to 15 after completing therapy) were 58.1% for levofloxacin and 60.6% for comparator.
-The 95% CI for the difference of response rates (levofloxacin minus comparator) was [-17.2, 12.0].
+The 95% CI for the difference of response rates (levofloxacin minus comparator) was [-17.2, 12].
 The microbiological eradication rates at the posttherapy visit were 66.7% for levofloxacin and 60.6% for comparator.
 The 95% CI for the difference of eradication rates (levofloxacin minus comparator) was [-8.3, 20.3].
-Clinical success and microbiological eradication rates by pathogen are detailed in Table 11.
+Clinical success and microbiological eradication rates by pathogen are detailed in Table 13.
 
-Table 11: Clinical Success Rates and Bacteriological Eradication Rates (Nosocomial Pneumonia)
+Table 13: Clinical Success Rates and Bacteriological Eradication Rates (Nosocomial Pneumonia)
 
 | Pathogen | N | Levofloxacin No. (%) of Patients Microbiologic/ Clinical Outcomes | N | Imipenem/Cilastatin No. (%) of Patients Microbiologic/ Clinical Outcomes |
 | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ Table 11: Clinical Success Rates and Bacteriological Eradication Rates (Nosocomi
 | E. coli | 12 | 10 (83.3)/7 (58.3) | 11 | 7 (63.6)/8 (72.7) |
 | K. pneumoniaeThe observed differences in rates for the clinical and microbiological outcomes may reflect other factors that were not accounted for in the study | 11 | 9 (81.8)/5 (45.5) | 7 | 6 (85.7)/3 (42.9) |
 | H. influenzae | 16 | 13 (81.3)/10 (62.5) | 15 | 14 (93.3)/11 (73.3) |
-| S. pneumoniae | 4 | 3 (75.0)/3 (75.0) | 7 | 5 (71.4)/4 (57.1) |
+| S. pneumoniae | 4 | 3 (75)/3 (75) | 7 | 5 (71.4)/4 (57.1) |
 
 ## 14.2 Community-Acquired Pneumonia: 7 to 14 day Treatment Regimen
 
@@ -39,9 +39,9 @@ The 95% CI for the difference of response rates (levofloxacin minus comparator) 
 In the second study, 264 patients were enrolled in a prospective, multi-center, non-comparative trial of 500 mg levofloxacin administered orally or intravenously once daily for 7 to 14 days.
 Clinical success for clinically evaluable patients was 93%.
 For both studies, the clinical success rate in patients with atypical pneumonia due to Chlamydophila pneumoniae, Mycoplasma pneumoniae, and Legionella pneumophila were 96%, 96%, and 70%, respectively.
-Microbiologic eradication rates across both studies are presented in Table 12.
+Microbiologic eradication rates across both studies are presented in Table 14.
 
-Table 12: Bacteriological Eradication Rates Across 2 Community Acquired Pneumonia Clinical Studies
+Table 14: Bacteriological Eradication Rates Across 2 Community Acquired Pneumonia Clinical Studies
 
 | Pathogen | No. Pathogens | Bacteriological Eradication Rate (%) |
 | --- | --- | --- |
@@ -50,16 +50,16 @@ Table 12: Bacteriological Eradication Rates Across 2 Community Acquired Pneumoni
 | S. aureus | 17 | 88 |
 | M. catarrhalis | 18 | 94 |
 | H. parainfluenzae | 19 | 95 |
-| K. pneumoniae | 10 | 100.0 |
+| K. pneumoniae | 10 | 100 |
 
 Community-Acquired Pneumonia Due to Multi-Drug Resistant Streptococcus pneumoniae
 
 Levofloxacin was effective for the treatment of community-acquired pneumonia caused by multi-drug resistant Streptococcus pneumoniae (MDRSP).
 MDRSP isolates are isolates resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins (e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole).
-Of 40 microbiologically evaluable patients with MDRSP isolates, 38 patients (95.0%) achieved clinical and bacteriologic success at post-therapy.
-The clinical and bacterial success rates are shown in Table 13.
+Of 40 microbiologically evaluable patients with MDRSP isolates, 38 patients (95%) achieved clinical and bacteriologic success at post-therapy.
+The clinical and bacterial success rates are shown in Table 15.
 
-Table 13: Clinical and Bacterial Success Rates for Levofloxacin-Treated MDRSP in Community Acquired Pneumonia Patients (Population Valid for Efficacy)
+Table 15: Clinical and Bacterial Success Rates for Levofloxacin-Treated MDRSP in Community Acquired Pneumonia Patients (Population Valid for Efficacy)
 
 | Screening Susceptibility | Clinical Success |  | Bacteriological SuccessOne patient had a respiratory isolate that was resistant to tetracycline, cefuroxime, macrolides and TMP/SMX and intermediate to penicillin and a blood isolate that was intermediate to penicillin and cefuroxime and resistant to the other classes. The patient is included in the database based on respiratory isolate. |  |
 | --- | --- | --- | --- | --- |
@@ -71,9 +71,9 @@ Table 13: Clinical and Bacterial Success Rates for Levofloxacin-Treated MDRSP in
 | Tetracycline-resistant | 12/12 | 100 | 12/12 | 100 |
 
 Not all isolates were resistant to all antimicrobial classes tested.
-Success and eradication rates are summarized in Table 14.
+Success and eradication rates are summarized in Table 16.
 
-Table 14: Clinical Success and Bacteriologic Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
+Table 16: Clinical Success and Bacteriologic Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
 
 | Type of Resistance | Clinical Success | Bacteriologic Eradication |
 | --- | --- | --- |
@@ -91,9 +91,9 @@ Clinical success rates (cure plus improvement) in the clinically evaluable popul
 The 95% CI for the difference of response rates (levofloxacin 750 minus levofloxacin 500) was [-5.9, 5.4].
 In the clinically evaluable population (31 to 38 days after enrollment) pneumonia was observed in 7 out of 151 patients in the levofloxacin 750 mg group and 2 out of 147 patients in the levofloxacin 500 mg group.
 Given the small numbers observed, the significance of this finding cannot be determined statistically.
-The microbiological efficacy of the 5-day regimen was documented for infections listed in Table 15.
+The microbiological efficacy of the 5-day regimen was documented for infections listed in Table 17.
 
-Table 15: Bacteriological Eradication Rates (Community-Acquired Pneumonia)
+Table 17: Bacteriological Eradication Rates (Community-Acquired Pneumonia)
 
 | S. pneumoniae | 19/20 (95%) |
 | --- | --- |
@@ -107,11 +107,11 @@ Table 15: Bacteriological Eradication Rates (Community-Acquired Pneumonia)
 Levofloxacin is approved for the treatment of acute bacterial sinusitis (ABS) using either 750 mg by mouth x 5 days or 500 mg by mouth once daily x 10 to 14 days.
 To evaluate the safety and efficacy of a high dose short course of levofloxacin, 780 outpatient adults with clinically and radiologically determined acute bacterial sinusitis were evaluated in a double-blind, randomized, prospective, multicenter study comparing levofloxacin 750 mg by mouth once daily for five days to levofloxacin 500 mg by mouth once daily for 10 days.
 
-Clinical success rates (defined as complete or partial resolution of the pre-treatment signs and symptoms of ABS to such an extent that no further antibiotic treatment was deemed necessary) in the microbiologically evaluable population were 91.4% (139/152) in the levofloxacin 750 mg group and 88.6% (132/149) in the levofloxacin 500 mg group at the test-of-cure (TOC) visit (95% CI [-4.2, 10.0] for levofloxacin 750 mg minus levofloxacin 500 mg).
+Clinical success rates (defined as complete or partial resolution of the pre-treatment signs and symptoms of ABS to such an extent that no further antibiotic treatment was deemed necessary) in the microbiologically evaluable population were 91.4% (139/152) in the levofloxacin 750 mg group and 88.6% (132/149) in the levofloxacin 500 mg group at the test-of-cure (TOC) visit (95% CI [-4.2, 10] for levofloxacin 750 mg minus levofloxacin 500 mg).
 
 Rates of clinical success by pathogen in the microbiologically evaluable population who had specimens obtained by antral tap at study entry showed comparable results for the five- and ten-day regimens at the test-of-cure visit 22 days post treatment.
 
-Table 16: Clinical Success Rate by Pathogen at the TOC in Microbiologically Evaluable Subjects Who Underwent Antral Puncture (Acute Bacterial Sinusitis)
+Table 18: Clinical Success Rate by Pathogen at the TOC in Microbiologically Evaluable Subjects Who Underwent Antral Puncture (Acute Bacterial Sinusitis)
 
 | Pathogen | Levofloxacin 750 mg x 5 days | Levofloxacin 500 mg x 10 days |
 | --- | --- | --- |
@@ -136,22 +136,22 @@ These rates were equivalent to those seen with comparator drugs.
 Adult patients with a clinical diagnosis of prostatitis and microbiological culture results from urine sample collected after prostatic massage (VB3) or expressed prostatic secretion (EPS) specimens obtained via the Meares-Stamey procedure were enrolled in a multicenter, randomized, double-blind study comparing oral levofloxacin 500 mg, once daily for a total of 28 days to oral ciprofloxacin 500 mg, twice daily for a total of 28 days.
 The primary efficacy endpoint was microbiologic efficacy in microbiologically evaluable patients.
 A total of 136 and 125 microbiologically evaluable patients were enrolled in the levofloxacin and ciprofloxacin groups, respectively.
-The microbiologic eradication rate by patient infection at 5 to 18 days after completion of therapy was 75.0% in the levofloxacin group and 76.8% in the ciprofloxacin group (95% CI [-12.58, 8.98] for levofloxacin minus ciprofloxacin).
-The overall eradication rates for pathogens of interest are presented in Table 17.
+The microbiologic eradication rate by patient infection at 5 to 18 days after completion of therapy was 75% in the levofloxacin group and 76.8% in the ciprofloxacin group (95% CI [-12.58, 8.98] for levofloxacin minus ciprofloxacin).
+The overall eradication rates for pathogens of interest are presented in Table 19.
 
-Table 17: Bacteriological Eradication Rates (Chronic Bacterial Prostatitis)
+Table 19: Bacteriological Eradication Rates (Chronic Bacterial Prostatitis)
 
 |  | Levofloxacin (N=136) |  | Ciprofloxacin (N=125) |  |
 | --- | --- | --- | --- | --- |
 | Pathogen | N | Eradication | N | Eradication |
 | E. coli | 15 | 14 (93.3%) | 11 | 9 (81.8%) |
-| E. faecalis | 54 | 39 (72.2%) | 44 | 33 (75.0%) |
+| E. faecalis | 54 | 39 (72.2%) | 44 | 33 (75%) |
 | S. epidermidisEradication rates shown are for patients who had a sole pathogen only; mixed cultures were excluded. | 11 | 9 (81.8%) | 14 | 11 (78.6%) |
 
 Eradication rates for S. epidermidis when found with other co-pathogens are consistent with rates seen in pure isolates.
 
-Clinical success (cure + improvement with no need for further antibiotic therapy) rates in microbiologically evaluable population 5 to 18 days after completion of therapy were 75.0% for levofloxacin-treated patients and 72.8% for ciprofloxacin-treated patients (95% CI [-8.87, 13.27] for levofloxacin minus ciprofloxacin).
-Clinical long-term success (24 to 45 days after completion of therapy) rates were 66.7% for the levofloxacin-treated patients and 76.9% for the ciprofloxacin-treated patients (95% CI [-23.40, 2.89] for levofloxacin minus ciprofloxacin).
+Clinical success (cure + improvement with no need for further antibiotic therapy) rates in microbiologically evaluable population 5 to 18 days after completion of therapy were 75% for levofloxacin-treated patients and 72.8% for ciprofloxacin-treated patients (95% CI [-8.87, 13.27] for levofloxacin minus ciprofloxacin).
+Clinical long-term success (24 to 45 days after completion of therapy) rates were 66.7% for the levofloxacin-treated patients and 76.9% for the ciprofloxacin-treated patients (95% CI [-23.4, 2.89] for levofloxacin minus ciprofloxacin).
 
 ## 14.7 Complicated Urinary Tract Infections and Acute Pyelonephritis: 5-day Treatment Regimen
 
@@ -160,25 +160,25 @@ Patients with AP complicated by underlying renal diseases or conditions such as 
 Efficacy was measured by bacteriologic eradication of the baseline organism(s) at the post-therapy visit in patients with a pathogen identified at baseline.
 The post-therapy (test-of-cure) visit occurred 10 to 14 days after the last active dose of levofloxacin and 5 to 9 days after the last dose of active ciprofloxacin.
 
-The bacteriologic cure rates overall for levofloxacin and control at the test-of-cure (TOC) visit for the group of all patients with a documented pathogen at baseline (modified intent to treat or mITT) and the group of patients in the mITT population who closely followed the protocol (Microbiologically Evaluable) are summarized in Table 18.
+The bacteriologic cure rates overall for levofloxacin and control at the test-of-cure (TOC) visit for the group of all patients with a documented pathogen at baseline (modified intent to treat or mITT) and the group of patients in the mITT population who closely followed the protocol (Microbiologically Evaluable) are summarized in Table 20.
 
-Table 18: Bacteriological Eradication at Test-of-Cure
+Table 20: Bacteriological Eradication at Test-of-Cure
 
 |  | Levofloxacin 750 mg orally or IV once daily for 5 days |  | Ciprofloxacin 400 mg IV/500 mg orally twice daily for 10 days |  | Overall Difference [95% CI] |
 | --- | --- | --- | --- | --- | --- |
 |  | n/N | % | n/N | % | Levofloxacin-Ciprofloxacin |
 | mITT PopulationThe mITT population included patients who received study medication and who had a positive (≥105CFU/mL) urine culture with no more than 2 uropathogens at baseline. Patients with missing response were counted as failures in this analysis. |  |  |  |  |  |
 | Overall (cUTI or AP) | 252/333 | 75.7 | 239/318 | 75.2 | 0.5 (-6.1, 7.1) |
-| cUTI | 168/230 | 73.0 | 157/213 | 73.7 |  |
+| cUTI | 168/230 | 73 | 157/213 | 73.7 |  |
 | AP | 84/103 | 81.6 | 82/105 | 78.1 |  |
 | Microbiologically Evaluable PopulationThe Microbiologically Evaluable population included patients with a confirmed diagnosis of cUTI or AP, a causative organism(s) at baseline present at ≥ 105 CFU/mL, a valid test-of-cure urine culture, no pathogen isolated from blood resistant to study drug, no premature discontinuation or loss to follow-up, and compliance with treatment (among other criteria). |  |  |  |  |  |
-| Overall (cUTI or AP) | 228/265 | 86.0 | 215/241 | 89.2 | -3.2 [-8.9, 2.5] |
+| Overall (cUTI or AP) | 228/265 | 86 | 215/241 | 89.2 | -3.2 [-8.9, 2.5] |
 | cUTI | 154/185 | 83.2 | 144/165 | 87.3 |  |
 | AP | 74/80 | 92.5 | 71/76 | 93.4 |  |
 
-Microbiologic eradication rates in the Microbiologically Evaluable population at TOC for individual pathogens recovered from patients randomized to levofloxacin treatment are presented in Table 19.
+Microbiologic eradication rates in the Microbiologically Evaluable population at TOC for individual pathogens recovered from patients randomized to levofloxacin treatment are presented in Table 21.
 
-Table 19: Bacteriological Eradication Rates for Individual Pathogens Recovered From Patients Randomized to Levofloxacin 750 mg QD for 5 Days Treatment
+Table 21: Bacteriological Eradication Rates for Individual Pathogens Recovered From Patients Randomized to Levofloxacin 750 mg QD for 5 Days Treatment
 
 | Pathogen | Bacteriological Eradication Rate (n/N) | % |
 | --- | --- | --- |
@@ -192,15 +192,15 @@ To evaluate the safety and efficacy of the 250 mg dose, 10 day regimen of levofl
 Patients with a resistant pathogen, recurrent UTI, women over age 55 years, and with an indwelling catheter were initially excluded, prior to protocol amendment which took place after 30% of enrollment.
 Microbiological efficacy was measured by bacteriologic eradication of the baseline organism(s) at 1 to 12 days post-therapy in patients with a pathogen identified at baseline.
 
-The bacteriologic cure rates overall for levofloxacin and control at the test-of-cure (TOC) visit for the group of all patients with a documented pathogen at baseline (modified intent to treat or mITT) and the group of patients in the mITT population who closely followed the protocol (Microbiologically Evaluable) are summarized in Table 20.
+The bacteriologic cure rates overall for levofloxacin and control at the test-of-cure (TOC) visit for the group of all patients with a documented pathogen at baseline (modified intent to treat or mITT) and the group of patients in the mITT population who closely followed the protocol (Microbiologically Evaluable) are summarized in Table 22.
 
-Table 20: Bacteriological Eradication Overall (cUTI or AP) at Test-Of-Cure*
+Table 22: Bacteriological Eradication Overall (cUTI or AP) at Test-Of-Cure*
 
 |  | Levofloxacin 250 mg once daily for 10 days |  | Ciprofloxacin 500 mg twice daily for 10 days |  |
 | --- | --- | --- | --- | --- |
 |  | n/N | % | n/N | % |
-| mITT PopulationThe mITT population included patients who had a pathogen isolated at baseline. Patients with missing response were counted as failures in this analysis. | 174/209 | 83.3 | 184/219 | 84.0 |
-| Microbiologically Evaluable PopulationThe Microbiologically Evaluable population included mITT patients who met protocol-specified evaluability criteria. | 164/177 | 92.7 | 159/171 | 93.0 |
+| mITT PopulationThe mITT population included patients who had a pathogen isolated at baseline. Patients with missing response were counted as failures in this analysis. | 174/209 | 83.3 | 184/219 | 84 |
+| Microbiologically Evaluable PopulationThe Microbiologically Evaluable population included mITT patients who met protocol-specified evaluability criteria. | 164/177 | 92.7 | 159/171 | 93 |
 | *1 to 9 days posttherapy for 30% of subjects enrolled prior to a protocol amendment; 5 to 12 days posttherapy for 70% of subjects. |  |  |  |  |
 
 ## 14.9 Inhalational Anthrax (Post-Exposure)
@@ -225,7 +225,7 @@ A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean d
 The minimal inhibitory concentration (MIC) of levofloxacin for the anthrax strain used in this study was 0.125 mcg/mL.
 In the animals studied, mean plasma concentrations of levofloxacin achieved at expected Tmax (1 hour post-dose) following oral dosing to steady state ranged from 2.79 to 4.87 mcg/mL.
 Steady state trough concentrations at 24 hours post-dose ranged from 0.107 to 0.164 mcg/mL.
-Mean (SD) steady state AUC0-24 was 33.4 ± 3.2 mcg.h/mL (range 30.4 to 36.0 mcg.h/mL).
+Mean (SD) steady state AUC0-24 was 33.4 ± 3.2 mcg.h/mL (range 30.4 to 36 mcg.h/mL).
 Mortality due to anthrax for animals that received a 30 day regimen of oral levofloxacin beginning 24 hrs post exposure was significantly lower (1/10), compared to the placebo group (9/10) [P=0.0011, 2-sided Fisher's Exact Test].
 The one levofloxacin treated animal that died of anthrax did so following the 30-day drug administration period.
 
@@ -242,9 +242,9 @@ The predicted steady-state pharmacokinetic parameters in pediatric patients rang
 
 A placebo-controlled animal study in African green monkeys exposed to an inhaled mean dose of 65 LD50 (range 3 to 145 LD50) of Yersinia pestis (CO92 strain) was conducted.
 The minimal inhibitory concentration (MIC) of levofloxacin for the Y. pestis strain used in this study was 0.03 mcg/mL.
-Mean plasma concentrations of levofloxacin achieved at the end of a single 30min infusion ranged from 2.84 to 3.50 mcg/mL in African green monkeys.
+Mean plasma concentrations of levofloxacin achieved at the end of a single 30 min infusion ranged from 2.84 to 3.50 mcg/mL in African green monkeys.
 Trough concentrations at 24 hours post-dose ranged from <0.03 to 0.06 mcg/mL.
-Mean (SD) AUC0-24 was 11.9 (3.1) mcg.h/mL (range 9.50 to 16.86 mcg.h/mL).
+Mean (SD) AUC0-24 was 11.9 (3.1) mcg.h/mL (range 9.5 to 16.86 mcg.h/mL).
 Animals were randomized to receive either a 10-day regimen of i.v. levofloxacin or placebo beginning within 6 hrs of the onset of telemetered fever (≥ 39οC for more than 1 hour).
-Mortality in the levofloxacin group was significantly lower (1/17) compared to the placebo group (7/7) [p<0.001, Fisher’s Exact Test; exact 95% confidence interval (-99.9%, -55.5%) for the difference in mortality].
+Mortality in the levofloxacin group was significantly lower (1/17) compared to the placebo group (7/7) [p<0.001, Fisher's Exact Test; exact 95% confidence interval (-99.9%, -55.5%) for the difference in mortality].
 One levofloxacin-treated animal was euthanized on Day 9 post-exposure to Y. pestis due to a gastric complication; it had a blood culture positive for Y. pestis on Day 3 and all subsequent daily blood cultures from Day 4 through Day 7 were negative.

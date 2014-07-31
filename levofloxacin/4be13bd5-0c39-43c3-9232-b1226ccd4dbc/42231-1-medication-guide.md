@@ -270,7 +270,7 @@ Call your healthcare provider right away if you get watery diarrhea, diarrhea th
 You may have stomach cramps and a fever.
 Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
 
-• Changes in sensation and possible nerve damage (Peripheral Neuropathy)
+• Changes in sensation and nerve damage (Peripheral Neuropathy)
 
 Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including levofloxacin.
 Stop levofloxacin tablets and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
@@ -386,6 +386,6 @@ Goa 403 722
 
 INDIA.
 
-Revised: February 2014 ID: #236606
+Revised: August 2014 ID: #238199
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

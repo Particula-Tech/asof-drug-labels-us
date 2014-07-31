@@ -4,19 +4,19 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- Tendon Effects [see WARNINGS AND PRECAUTIONS(5.1)]
-- Exacerbation of Myasthenia Gravis [see WARNINGS AND PRECAUTIONS(5.2)]
-- Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS(5.3)]
-- Other Serious and Sometimes Fatal Reactions [see WARNINGS AND PRECAUTIONS(5.4)]
-- Hepatotoxicity [see WARNINGS AND PRECAUTIONS(5.5)]
-- Central Nervous System Effects [see WARNINGS AND PRECAUTIONS(5.6)]
-- Clostridium difficile -Associated Diarrhea [see WARNINGS AND PRECAUTIONS(5.7)]
-- Peripheral Neuropathy that may be irreversible [seeWARNINGS AND PRECAUTIONS(5.8)]
-- Prolongation of the QT Interval [see WARNINGS AND PRECAUTIONS(5.9)]
-- Musculoskeletal Disorders in Pediatric Patients [seeWARNINGS AND PRECAUTIONS(5.10)]
-- Blood Glucose Disturbances [see WARNINGS AND PRECAUTIONS(5.11)]
-- Photosensitivity/Phototoxicity [see WARNINGS AND PRECAUTIONS(5.12)]
-- Development of Drug Resistant Bacteria [see WARNINGS AND PRECAUTIONS(5.13)]
+- Tendon Effects [see WARNINGS AND PRECAUTIONS (5.1)]
+- Exacerbation of Myasthenia Gravis [see WARNINGS AND PRECAUTIONS (5.2)]
+- Hypersensitivity Reactions [see WARNINGS AND PRECAUTIONS (5.3)]
+- Other Serious and Sometimes Fatal Reactions [see WARNINGS AND PRECAUTIONS (5.4)]
+- Hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.5)]
+- Central Nervous System Effects [see WARNINGS AND PRECAUTIONS (5.6)]
+- Clostridium difficile -Associated Diarrhea [see WARNINGS AND PRECAUTIONS (5.7)]
+- Peripheral Neuropathy that may be irreversible [see WARNINGS AND PRECAUTIONS (5.8)]
+- Prolongation of the QT Interval [see WARNINGS AND PRECAUTIONS (5.9)]
+- Musculoskeletal Disorders in Pediatric Patients [see WARNINGS AND PRECAUTIONS (5.10)]
+- Blood Glucose Disturbances [see WARNINGS AND PRECAUTIONS (5.11)]
+- Photosensitivity/Phototoxicity [see WARNINGS AND PRECAUTIONS (5.12)]
+- Development of Drug Resistant Bacteria [see WARNINGS AND PRECAUTIONS (5.13)]
 
 Crystalluria and cylindruria have been reported with quinolones, including levofloxacin.
 Therefore, adequate hydration of patients receiving levofloxacin should be maintained to prevent the formation of a highly concentrated urine [see DOSAGE AND ADMINISTRATION (2.5)].
@@ -36,10 +36,10 @@ Discontinuation of levofloxacin due to adverse drug reactions occurred in 4.3% o
 The most common adverse drug reactions leading to discontinuation with the 250 and 500 mg doses were gastrointestinal (1.4%), primarily nausea (0.6%); vomiting (0.4%); dizziness (0.3%); and headache (0.2%).
 The most common adverse drug reactions leading to discontinuation with the 750 mg dose were gastrointestinal (1.2%), primarily nausea (0.6%), vomiting (0.5%); dizziness (0.3%); and headache (0.3%).
 
-Adverse reactions occurring in ≥1% of levofloxacin-treated patients and less common adverse reactions, occurring in 0.1 to <1% of levofloxacin-treated patients, are shown in Table 4 and Table 5, respectively.
+Adverse reactions occurring in ≥1% of levofloxacin-treated patients and less common adverse reactions, occurring in 0.1 to <1% of levofloxacin-treated patients, are shown in Table 6 and Table 7, respectively.
 The most common adverse drug reactions (≥3%) are nausea, headache, diarrhea, insomnia, constipation, and dizziness.
 
-Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin
+Table 6: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin
 
 | System/Organ Class | Adverse Reaction | % (N=7537) |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levof
 | *N=7274 |  |  |
 | †N=3758 (women) |  |  |
 
-Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin (N=7537)
+Table 7: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin (N=7537)
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
@@ -79,10 +79,10 @@ The relationship of the drugs to these events is not presently established.
 
 ## 6.3 Postmarketing Experience
 
-Table 6 lists adverse reactions that have been identified during post-approval use of levofloxacin.
+Table 8 lists adverse reactions that have been identified during post-approval use of levofloxacin.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 6: Postmarketing Reports Of Adverse Drug Reactions
+Table 8: Postmarketing Reports Of Adverse Drug Reactions
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
@@ -90,7 +90,7 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see WARNINGS AND PRECAUTIONS (5.3, 5.4)] |
 | Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see WARNINGS AND PRECAUTIONS (5.6)] |
 | Nervous System Disorders | exacerbation of myasthenia gravis [see WARNINGS AND PRECAUTIONS (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see WARNINGS AND PRECAUTIONS (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see WARNINGS AND PRECAUTIONS (5.6)] |
-| Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
+| Eye Disorders | Uveitis vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see WARNINGS AND PRECAUTIONS (5.9)] tachycardia |
 | Vascular Disorders | vasodilatation |

@@ -109,6 +109,6 @@ Goa 403 722
 
 INDIA.
 
-Revised: February 2014 ID: #236605
+Revised: August 2014 ID: #238198
 
 ## 17.6 FDA-Approved Medication Guide
