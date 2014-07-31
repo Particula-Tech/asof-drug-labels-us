@@ -2,7 +2,7 @@
 
 ## 1.1 Monotherapy Epilepsy
 
-Topiramate tablets USP are indicated as initial monotherapy in patients 10 years of age and older with partial onset or primary generalized tonic-clonic seizures.
+Topiramate tablets USP are indicated as initial monotherapy in patients 2 years of age and older with partial onset or primary generalized tonic-clonic seizures.
 Safety and effectiveness in patients who were converted to monotherapy from a previous regimen of other anticonvulsant drugs have not been established in controlled trials [see Clinical Studies (14.1)].
 
 ## 1.2 Adjunctive Therapy Epilepsy

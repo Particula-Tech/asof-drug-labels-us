@@ -6,7 +6,7 @@ The studies described in the following sections were conducted using topiramate 
 
 Patients with Partial Onset or Primary Generalized Tonic-Clonic Seizures Adults and Pediatric Patients 10 Years of Age and Older The effectiveness of topiramate as initial monotherapy in adults and children 10 years of age and older with partial onset or primary generalized tonic-clonic seizures was established in a multicenter, randomized, double-blind, parallel-group trial.
 The trial was conducted in 487 patients diagnosed with epilepsy (6 to 83 years of age) who had 1 or 2 well-documented seizures during the 3-month retrospective baseline phase who then entered the study and received topiramate 25 mg/day for 7 days in an open-label fashion.
-Forty-nine percent of subjects had no prior AED treatment and 17% had a diagnosis of epilepsy for greater than 24 months.
+Forty-nine percent of patients had no prior AED treatment and 17% had a diagnosis of epilepsy for greater than 24 months.
 Any AED therapy used for temporary or emergency purposes was discontinued prior to randomization.
 In the double-blind phase, 470 patients were randomized to titrate up to 50 mg/day or 400 mg/day.
 If the target dose could not be achieved, patients were maintained on the maximum tolerated dose.
@@ -14,6 +14,11 @@ Fifty-eight percent of patients achieved the maximal dose of 400 mg/day for >2 w
 The primary efficacy assessment was a between-group comparison of time to first seizure during the double-blind phase.
 Comparison of the Kaplan-Meier survival curves of time to first seizure favored the topiramate 400 mg/day group over the topiramate 50 mg/day group (p=0.0002, log rank test; Figure 1).
 The treatment effects with respect to time to first seizure were consistent across various patient subgroups defined by age, sex, geographic region, baseline body weight, baseline seizure type, time since diagnosis, and baseline AED use.
+
+Children 2 to <10 Years of Age The conclusion that topiramate is effective as initial monotherapy in children 2 to <10 years of age with partial onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach using data from the controlled epilepsy trials described in labeling.
+This approach consisted of first showing a similar exposure response relationship between pediatric patients down to 2 years of age and adults when topiramate was given as adjunctive therapy.
+Similarity of exposure-response was also demonstrated in pediatric patients ages 6 to <16 years and adults when topiramate was given as initial monotherapy.
+Specific dosing in children 2 to <10 years of age was derived from simulations utilizing plasma exposure ranges observed in pediatric and adult patients treated with topiramate initial monotherapy [see Dosage and Administration (2.1)].
 
 ## 14.2 Adjunctive Therapy Epilepsy Controlled Trials
 
@@ -25,7 +30,7 @@ Following randomization, patients began the double-blind phase of treatment.
 In five of the six studies, patients received active drug beginning at 100 mg per day; the dose was then increased by 100 mg or 200 mg/day increments weekly or every other week until the assigned dose was reached, unless intolerance prevented increases.
 In the sixth study (119), the 25 or 50 mg/day initial doses of topiramate were followed by respective weekly increments of 25 or 50 mg/day until the target dose of 200 mg/day was reached.
 After titration, patients entered a 4, 8 or 12­-week stabilization period.
-The numbers of patients randomized to each dose and the actual mean and median doses in the stabilization period are shown in Table 13.
+The numbers of patients randomized to each dose and the actual mean and median doses in the stabilization period are shown in Table 14.
 Pediatric Patients Ages 2 to 16 Years with Partial Onset Seizures The effectiveness of topiramate as an adjunctive treatment for pediatric patients ages 2 to 16 years with partial onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial, comparing topiramate and placebo in patients with a history of partial onset seizures, with or without secondarily generalized seizures.
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate tablets or placebo.
 In this study, patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
@@ -48,7 +53,7 @@ Active drug was titrated beginning at 1 mg/kg/day for a week; the dose was then 
 After titration, patients entered an 8-week stabilization period.
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
-Table 13: Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Add-On Trials in Adults with Partial Onset Seizuresa
+Table 14: Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Add-On Trials in Adults with Partial Onset Seizuresa
 
 | 200 | 400 | 600 | 800 | 1,000 |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -62,10 +67,10 @@ Table 13: Topiramate Dose Summary During the Stabilization Periods of Each of Si
 | a Dose-response studies were not conducted for other indications or pediatric partial onset seizures. b Placebo dosages are given as the number of tablets. Placebo target dosages were as follows: Protocol Y1, 4 tablets/day; Protocols YD and Y2, 6 tablets/day; Protocols Y3 and 119, 8 tablets/day; Protocol YE, 10 tablets/day. |  |  |  |  |  |  |  |
 
 In all add-on trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
-The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 14.
+The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 15.
 As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial.
 
-Table 14: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy Trials
+Table 15: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy Trials
 
 | Protocol Efficacy Results |  | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≅6 mg/kg/day* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -102,7 +107,7 @@ Table 14: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy 
 |  | Median % Reduction | -5.1 | -- | -- | -- | -- | -- | 14.8d |
 |  | % Responders | 14 | -- | -- | -- | -- | -- | 28g |
 |  | Improvement in Seizure Severityj | 28 | -- | -- | -- | -- | -- | 52d |
-| Comparisons with placebo: a p=0.08; b p≤0.01; c p≤0.001; d p≤0.05; e p=0.065; f p≤0.005; g p=0.071; h Median % reduction and % responders are reported for PGTC Seizures; i Median % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; j Percent of subjects who were minimally, much, or very much improved from baseline * For Protocols YP and YTC, protocol-specified target dosages (<9.3 mg/kg/day) were assigned based on subject’s weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |
+| Comparisons with placebo: a p=0.08; b p≤0.01; c p≤0.001; d p≤0.05; e p=0.065; f p≤0.005; g p=0.071; h Median % reduction and % responders are reported for PGTC Seizures; i Median % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; j Percent of patients who were minimally, much, or very much improved from baseline * For Protocols YP and YTC, protocol-specified target dosages (<9.3 mg/kg/day) were assigned based on subject’s weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |
 
 Subset analyses of the antiepileptic efficacy of topiramate
 

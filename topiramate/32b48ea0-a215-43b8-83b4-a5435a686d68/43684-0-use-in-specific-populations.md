@@ -75,7 +75,7 @@ Juvenile Animal Studies When topiramate (30, 90, or 300 mg/kg/day) was administe
 
 In clinical trials, 3% of patients were over 60.
 No age-related differences in effectiveness or adverse effects were evident.
-However, clinical studies of topiramate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently than younger subjects.
+However, clinical studies of topiramate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently than younger subjects.
 Dosage adjustment may be necessary for elderly with impaired renal function (creatinine clearance rate <70 mL/min/1.73 m2) due to reduced clearance of topiramate [see Clinical Pharmacology (12.3) and Dosage and Administration (2.5)].
 
 ## 8.6 Race and Gender Effects
@@ -100,4 +100,4 @@ Data from pregnancy registries indicate that infants exposed to topiramate in ut
 Consider the benefits and the risks of topiramate when prescribing this drug to women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death.
 Because of the risk of oral clefts to the fetus, which occur in the first trimester of pregnancy before many women know they are pregnant, all women of childbearing potential should be apprised of the potential hazard to the fetus from exposure to topiramate.
 If the decision is made to use topiramate, women who are not planning a pregnancy should use effective contraception [see Drug Interactions (7.3)].
-Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of topiramate use during pregnancy, and alternative therapeutic options should be considered for these patients [see Patient Counseling Information (17)].
+Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of topiramate use during pregnancy, and alternative therapeutic options should be considered for these patients.

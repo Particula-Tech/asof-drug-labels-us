@@ -10,58 +10,44 @@ Electrophysiological and biochemical evidence suggests that topiramate, at pharm
 Topiramate has anticonvulsant activity in rat and mouse maximal electroshock seizure (MES) tests.
 Topiramate is only weakly effective in blocking clonic seizures induced by the GABAA receptor antagonist, pentylenetetrazole.
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
+Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for another indication.
+The most notable changes were SBP < 90 mm Hg, DBP < 50 mm Hg, SBP or DBP increases or decreases ≥ 20 mm Hg, and pulse increases or decreases ≥ 30 beats per minute.
+These changes were often dose-related, and were most frequently associated with the greatest treatment difference at the 200 mg dose level.
+When a position was specified for measurement of vital signs in a trial, measurements were made in a sitting position.
+Systematic collection of orthostatic vital signs has not been conducted.
+The clinical significance of these various changes in vital signs has not been clearly established.
 
 ## 12.3 Pharmacokinetics
 
 The sprinkle formulation is bioequivalent to the immediate-release tablet formulation and, therefore, may be substituted as a therapeutic equivalent.
-
 Absorption of topiramate is rapid, with peak plasma concentrations occurring at approximately 2 hours following a 400 mg oral dose.
 The relative bioavailability of topiramate from the tablet formulation is about 80% compared to a solution.
 The bioavailability of topiramate is not affected by food.
-
 The pharmacokinetics of topiramate are linear with dose proportional increases in plasma concentration over the dose range studied (200 to 800 mg/day).
 The mean plasma elimination half-life is 21 hours after single or multiple doses.
 Steady-state is thus reached in about 4 days in patients with normal renal function.
 Topiramate is 15% to 41% bound to human plasma proteins over the blood concentration range of 0.5 to 250 mcg/mL.
 The fraction bound decreased as blood concentration increased.
-
 Carbamazepine and phenytoin do not alter the binding of topiramate.
 Sodium valproate, at 500 mcg/mL (a concentration 5 to 10 times higher than considered therapeutic for valproate) decreased the protein binding of topiramate from 23% to 13%.
 Topiramate does not influence the binding of sodium valproate.
-
-Metabolism and Excretion
-
-Topiramate is not extensively metabolized and is primarily eliminated unchanged in the urine (approximately 70% of an administered dose).
+Metabolism and Excretion Topiramate is not extensively metabolized and is primarily eliminated unchanged in the urine (approximately 70% of an administered dose).
 Six metabolites have been identified in humans, none of which constitutes more than 5% of an administered dose.
 The metabolites are formed via hydroxylation, hydrolysis, and glucuronidation.
 There is evidence of renal tubular reabsorption of topiramate.
 In rats, given probenecid to inhibit tubular reabsorption, along with topiramate, a significant increase in renal clearance of topiramate was observed.
 This interaction has not been evaluated in humans.
 Overall, oral plasma clearance (CL/F) is approximately 20 to 30 mL/min in adults following oral administration.
-
-Special Populations
-
-Renal Impairment
-
-The clearance of topiramate was reduced by 42% in moderately renally impaired (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in severely renally impaired subjects (creatinine clearance <30 mL/min/1.73 m2) compared to normal renal function subjects (creatinine clearance >70 mL/min/1.73 m2).
+Specific Populations Renal Impairment The clearance of topiramate was reduced by 42% in moderately renally impaired (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in severely renally impaired subjects (creatinine clearance <30 mL/min/1.73 m2) compared to normal renal function subjects (creatinine clearance >70 mL/min/1.73 m2).
 Since topiramate is presumed to undergo significant tubular reabsorption, it is uncertain whether this experience can be generalized to all situations of renal impairment.
 It is conceivable that some forms of renal disease could differentially affect glomerular filtration rate and tubular reabsorption resulting in a clearance of topiramate not predicted by creatinine clearance.
 In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4) and (2.5) and Warnings and Precautions (5.14)].
-
-Hemodialysis
-
-Topiramate is cleared by hemodialysis.
+Hemodialysis Topiramate is cleared by hemodialysis.
 Using a high-efficiency, counterflow, single pass-dialysate hemodialysis procedure, topiramate dialysis clearance was 120 mL/min with blood flow through the dialyzer at 400 mL/min.
 This high clearance (compared to 20 to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period.
 Therefore, a supplemental dose may be required [see Dosage and Administration (2.6)].
-
-Hepatic Impairment
-
-In hepatically impaired subjects, the clearance of topiramate may be decreased; the mechanism underlying the decrease is not well understood [see Dosage and Administration (2.7)].
-
-Age, Gender, and Race
-
-The pharmacokinetics of topiramate in elderly subjects (65 to 85 years of age, N=16) were evaluated in a controlled clinical study.
+Hepatic Impairment In hepatically impaired subjects, the clearance of topiramate may be decreased; the mechanism underlying the decrease is not well understood [see Dosage and Administration (2.7)].
+Age, Gender, and Race The pharmacokinetics of topiramate in elderly subjects (65 to 85 years of age, N=16) were evaluated in a controlled clinical study.
 The elderly subject population had reduced renal function (creatinine clearance [-20%]) compared to young adults.
 Following a single oral 100 mg dose, maximum plasma concentration for elderly and young adults was achieved at approximately 1 to 2 hours.
 Reflecting the primary renal elimination of topiramate, topiramate plasma and renal clearance were reduced 21% and 19%, respectively, in elderly subjects, compared to young adults.
@@ -70,34 +56,22 @@ Reduced topiramate clearance resulted in slightly higher maximum plasma concentr
 Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced.
 As recommended for all patients, dosage adjustment may be indicated in the elderly patient when impaired renal function (creatinine clearance rate ≤70 mL/min/1.73 m2) is evident.
 It may be useful to monitor renal function in the elderly patient [see Dosage and Administration (2.4) and Warnings and Precautions (5.14)].
-
 Clearance of topiramate in adults was not affected by gender or race.
-
-Pediatric Pharmacokinetics
-
-Pharmacokinetics of topiramate were evaluated in patients aged 2 to <16 years.
+Pediatric Pharmacokinetics Pharmacokinetics of topiramate were evaluated in patients age 2 to <16 years.
 Patients received either no or a combination of other antiepileptic drugs.
 A population pharmacokinetic model was developed on the basis of pharmacokinetic data from relevant topiramate clinical studies.
-This dataset contained data from 1217 subjects including 258 pediatric patients aged 2 to <16 years (95 pediatric patients <10 years of age).
-
+This dataset contained data from 1217 subjects including 258 pediatric patients age 2 to <16 years (95 pediatric patients <10 years of age).
 Pediatric patients on adjunctive treatment exhibited a higher oral clearance (L/h) of topiramate compared to patients on monotherapy, presumably because of increased clearance from concomitant enzyme-inducing antiepileptic drugs.
 In comparison, topiramate clearance per kg is greater in pediatric patients than in adults and in young pediatric patients (down to 2 years) than in older pediatric patients.
 Consequently, the plasma drug concentration for the same mg/kg/day dose would be lower in pediatric patients compared to adults and also in younger pediatric patients compared to older pediatric patients.
 Clearance was independent of dose.
-
 As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady-state plasma concentrations of topiramate.
-
-Drug-Drug Interactions
-
-Antiepileptic Drugs
-
-Potential interactions between topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
+Drug-Drug Interactions Antiepileptic Drugs Potential interactions between topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
 The effects of these interactions on mean plasma AUCs are summarized in the Table 12.
-
-In Table 12, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
+In Table 13, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the coadministration of a drug listed in the first column modifies the concentration of topiramate in experimental settings when topiramate was given alone.
 
-Table 12: Summary of AED Interactions with Topiramate
+Table 13: Summary of AED Interactions with Topiramate
 
 | AED Coadministered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |

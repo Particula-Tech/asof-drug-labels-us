@@ -1,6 +1,10 @@
 # MEDICATION GUIDE
 
-Topiramate Tablets USP (toe pir' a mate) Read this Medication Guide before you start taking topiramate tablets and each time you get a refill.
+Topiramate Tablets USP
+
+(toe pir' a mate)
+
+Read this Medication Guide before you start taking topiramate tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 If you have any questions about topiramate tablets, talk to your healthcare provider or pharmacist.
@@ -17,9 +21,11 @@ Topiramate tablets may cause decreased sweating and increased body temperature (
 People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
 Some people may need to be hospitalized for this condition.
 Call your healthcare provider right away if you have a high fever, a fever that does not go away, or decreased sweating.
+
 Topiramate tablets can increase the level of acid in your blood (metabolic acidosis).
 If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones, can slow the rate of growth in children, and may possibly harm your baby if you are pregnant.
 Metabolic acidosis can happen with or without symptoms.
+
 Sometimes people with metabolic acidosis will:
 
 - feel tired
@@ -29,7 +35,9 @@ Sometimes people with metabolic acidosis will:
 
 Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with topiramate tablets.
 If you are pregnant, you should talk to your healthcare provider about whether you have metabolic acidosis.
+
 Like other antiepileptic drugs, topiramate tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
@@ -45,7 +53,7 @@ Call a healthcare provider right away if you have any of these symptoms, especia
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
 
-Do not stop topiramate tablets without first talking to a healthcare provider.
+Do not stop topiramate tabletswithout first talking to a healthcare provider.
 
 - Stopping topiramate tablets suddenly can cause serious problems.
 - Suicidal thoughts or actions can be caused by things other than medicines.
@@ -59,7 +67,7 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 Topiramate tablets can harm your unborn baby.
 
-- If you take topiramate tablets during pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
+- If you take topiramate tabletsduring pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
   These defects can begin early in pregnancy, even before you know you are pregnant.
 - Cleft lip and cleft palate may happen even in children born to women who are not taking any medicines and do not have other risk factors.
 - There may be other medicines to treat your condition that have a lower chance of birth defects.
@@ -67,7 +75,7 @@ Topiramate tablets can harm your unborn baby.
   If the decision is made to use topiramate tablets, you should use effective birth control (contraception) unless you are planning to become pregnant.
   You should talk to your doctor about the best kind of birth control to use while you are taking topiramate tablets.
 - Tell your healthcare provider right away if you become pregnant while taking topiramate tablets.
-  You and your healthcare provider should decide if you will continue to take topiramate tablets while you are pregnant.
+  You and your healthcare provider should decide if you will continue to take topiramate tabletswhile you are pregnant.
 - Metabolic acidosis may have harmful effects on your baby.
   Talk to your healthcare provider if topiramate tablets have caused metabolic acidosis during your pregnancy.
 - Pregnancy Registry: If you become pregnant while taking topiramate tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
@@ -75,12 +83,14 @@ Topiramate tablets can harm your unborn baby.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 
 What are topiramate tablets?
+
 Topiramate tablets are a prescription medicine used:
 
-- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in people 10 years and older,
+- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
 - with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older.
 
 What should I tell my healthcare provider before taking topiramate tablets?
+
 Before taking topiramate tablets, tell your healthcare provider about all your medical conditions, including if you:
 
 - have or have had depression, mood problems, or suicidal thoughts or behavior
@@ -100,11 +110,12 @@ Before taking topiramate tablets, tell your healthcare provider about all your m
   It is not known if the topiramate that passes into breast milk can harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take topiramate tablets.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and non-­prescription medicines, vitamins, and herbal supplements.
 Topiramate tablets and other medicines may affect each other causing side effects.
+
 Especially tell your healthcare provider if you take:
 
-- Valproic acid (such as DEPAKENE® or DEPAKOTE®)
+- Valproic acid (such as DEPAKENE or DEPAKOTE)
 - any medicines that impair or decrease your thinking, concentration, or muscle coordination
 - birth control pills.
   Topiramate tablets may make your birth control pills less effective.
@@ -114,6 +125,7 @@ Ask your healthcare provider if you are not sure if your medicine is listed abov
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist each time you get a new medicine.
 Do not start a new medicine without talking with your healthcare provider.
+
 How should I take topiramate tablets?
 
 - Take topiramate tablets exactly as prescribed.
@@ -125,7 +137,7 @@ How should I take topiramate tablets?
 - Topiramate tablets can be taken before, during, or after a meal.
   Drink plenty of fluids during the day.
   This may help prevent kidney stones while taking topiramate tablets.
-- If you take too much topiramate tablets, call your healthcare provider or poison control center right away or go to the nearest emergency room.
+- If you take too much topiramate, call your healthcare provider or poison control center right away or go to the nearest emergency room.
 - If you miss a single dose of topiramate tablets, take it as soon as you can.
   However, if you are within 6 hours of taking your next scheduled dose, wait until then to take your usual dose of topiramate tablets, and skip the missed dose.
   Do not double your dose.
@@ -144,27 +156,25 @@ What should I avoid while taking topiramate tablets?
   Topiramate tablets can slow your thinking and motor skills, and may affect vision.
 
 What are the possible side effects of topiramate tablets?
-Topiramate tablets may cause serious side effects including: See “What is the most important information I should know about topiramate tablets?”
 
-- Metabolic acidosis.
-  Metabolic acidosis can cause:
-  - tiredness
-  - loss of appetite
-  - irregular heartbeat
-  - impaired consciousness
+Topiramate tablets may cause serious side effects including:
+
+See "What is the most important information I should know about topiramate tablets"?
+
 - High blood ammonia levels.
   High ammonia in the blood can affect your mental activities, slow your alertness, make you feel tired, or cause vomiting.
-  This has happened when topiramate tablets are taken with a medicine called valproic acid (DEPAKENE® and DEPAKOTE®).
-- Low body temperature.
-  Taking topiramate tablets when you are also taking valproic acid can cause a drop in body temperature to less than 95oF, feeling tired, confusion, or coma.
+  This has happened when topiramate tablets are taken with a medicine called valproic acid (DEPAKENE and DEPAKOTE).
 - Kidney stones.
   Drink plenty of fluids when taking topiramate tablets to decrease your chances of getting kidney stones.
+- Low body temperature.
+  Taking topiramate tablets when you are also taking valproic acid can cause a drop in body temperature to less than 95oF, feeling tired, confusion, or coma.
 - Effects on thinking and alertness.
   Topiramate tablets may affect how you think and cause confusion, problems with concentration, attention, memory, or speech.
   Topiramate tablets may cause depression or mood problems, tiredness, and sleepiness.
 - Dizziness or loss of muscle coordination.
 
 Call your healthcare provider right away if you have any of the symptoms above.
+
 The most common side effects of topiramate tablets include:
 
 - tingling of the arms and legs (paresthesia)
@@ -175,13 +185,26 @@ The most common side effects of topiramate tablets include:
 - weight loss
 - nervousness
 - upper respiratory tract infection
+- speech problems
+- tiredness
+- dizziness
+- sleepiness/drowsiness
+- slow reactions
+- difficulty with memory
+- pain in the abdomen
+- fever
+- abnormal vision
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
+
 These are not all the possible side effects of topiramate tablets.
 For more information, ask your healthcare provider or pharmacist.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-­800-FDA-1088.
+
 You may also report side effects to Aurobindo Pharma USA, Inc. at 1-866-850-2876.
+
 How should I store topiramate tablets?
 
 - Store topiramate tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
@@ -190,16 +213,41 @@ How should I store topiramate tablets?
 - Keep topiramate tablets and all medicines out of the reach of children.
 
 General information about topiramate tablets.
+
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use topiramate tablets for a condition for which it was not prescribed.
 Do not give topiramate tablets to other people, even if they have the same symptoms that you have.
 They may harm them.
+
 This Medication Guide summarizes the most important information about topiramate tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about topiramate tablets that is written for health professionals.
+
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
-What are the ingredients in topiramate tablets?
-Active ingredient: topiramate Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, sodium starch glycolate, and titanium dioxide.
+
+What are the ingredients in topiramatetablets?
+
+Active ingredient: topiramate
+
+Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, sodium starch glycolate, and titanium dioxide.
 In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg tablet contains iron oxide red.
-DEPAKENE® and DEPAKOTE® are registered trademarks of Abbott Laboratories This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2014
+
+The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured for:
+
+Aurobindo Pharma USA, Inc.
+
+2400 Route 130 North
+
+Dayton, NJ 08810
+
+Manufactured by:
+
+Aurobindo Pharma Limited
+
+Hyderabad–500 072, India
+
+Revised: 07/2014
