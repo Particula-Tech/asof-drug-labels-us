@@ -42,34 +42,42 @@ Patients should be cautioned to seek medical care immediately if they experience
 Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding [see Warnings and Precautions (5.7) and Drug Interactions (7.4)].
 Patients should be advised to call their doctor if they experience any increased or unusual bruising or bleeding while taking PROZAC.
 
-## 17.6 Hyponatremia
+## 17.6 Angle-Closure Glaucoma
+
+Patients should be advised that taking Prozac can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+[See Warnings and Precautions (5.8)]
+
+## 17.7 Hyponatremia
 
 Patients should be advised that hyponatremia has been reported as a result of treatment with SNRIs and SSRIs, including PROZAC.
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
-More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death [see Warnings and Precautions (5.8)].
+More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death [see Warnings and Precautions (5.9)].
 
-## 17.7 QT Prolongation
+## 17.8 QT Prolongation
 
 Patients should be advised that QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with PROZAC.
-Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular heart rate, dyspnea, syncope, or dizziness, which may indicate serious cardiac arrhythmia [see Warnings and Precautions (5.10)].
+Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular heart rate, dyspnea, syncope, or dizziness, which may indicate serious cardiac arrhythmia [see Warnings and Precautions (5.11)].
 
-## 17.8 Potential for Cognitive and Motor Impairment
+## 17.9 Potential for Cognitive and Motor Impairment
 
 PROZAC may impair judgment, thinking, or motor skills.
-Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.11)].
+Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.13)].
 
-## 17.9 Use of Concomitant Medications
+## 17.10 Use of Concomitant Medications
 
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax, Sarafem, or over-the-counter drugs, including herbal supplements or alcohol.
 Patients should also be advised to inform their physicians if they plan to discontinue any medications they are taking while on PROZAC.
 
-## 17.10 Discontinuation of Treatment
+## 17.11 Discontinuation of Treatment
 
 Patients should be advised to take PROZAC exactly as prescribed, and to continue taking PROZAC as prescribed even after their symptoms improve.
-Patients should be advised that they should not alter their dosing regimen, or stop taking PROZAC without consulting their physician [see Warnings and Precautions (5.13)].
+Patients should be advised that they should not alter their dosing regimen, or stop taking PROZAC without consulting their physician [see Warnings and Precautions (5.15)].
 Patients should be advised to consult with their healthcare provider if their symptoms do not improve with PROZAC.
 
-## 17.11 Use in Specific Populations
+## 17.12 Use in Specific Populations
 
 Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 Prozac should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
@@ -82,4 +90,4 @@ Limited evidence is available concerning the longer-term effects of fluoxetine o
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine.
 [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 
-Pediatric Use of PROZAC and olanzapine in combination - Safety and efficacy of PROZAC and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions (5.14) and Use in Specific Populations (8.4)].
+Pediatric Use of PROZAC and olanzapine in combination - Safety and efficacy of PROZAC and olanzapine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions (5.16) and Use in Specific Populations (8.4)].

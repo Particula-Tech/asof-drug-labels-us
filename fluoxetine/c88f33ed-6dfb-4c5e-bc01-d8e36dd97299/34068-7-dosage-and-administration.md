@@ -152,16 +152,16 @@ Geriatric — A lower or less frequent dosage should be considered for the elder
 
 Hepatic Impairment — As with many other medications, a lower or less frequent dosage should be used in patients with hepatic impairment [see Clinical Pharmacology (12.4) and Use in Specific Populations (8.6)].
 
-Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.10)].
+Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.12)].
 
 PROZAC and Olanzapine in Combination — The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, non-smoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modifications may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
-PROZAC and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 10 years of age [see Warnings and Precautions (5.14) and Drug Interactions (7.7)].
+PROZAC and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 10 years of age [see Warnings and Precautions (5.16) and Drug Interactions (7.7)].
 
 ## 2.8 Discontinuation of Treatment
 
-Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.13)].
+Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.15)].
 
 ## 2.9 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
