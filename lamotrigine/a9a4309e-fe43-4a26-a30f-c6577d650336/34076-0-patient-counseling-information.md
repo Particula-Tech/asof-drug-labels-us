@@ -59,4 +59,4 @@ Medication errors may also occur between the different formulations of lamotrigi
 To reduce the potential of medication errors, write and say lamotrigine clearly.
 Depictions of the lamotrigine tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 01/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 07/2014

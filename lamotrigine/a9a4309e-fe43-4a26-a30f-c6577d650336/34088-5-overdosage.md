@@ -3,7 +3,7 @@
 ## 10.1 Human Overdose Experience
 
 Overdoses involving quantities up to 15 g have been reported for lamotrigine, some of which have been fatal.
-Overdose has resulted in ataxia, nystagmus, increased seizures, decreased level of consciousness, coma, and intraventricular conduction delay.
+Overdose has resulted in ataxia, nystagmus, seizures (including tonic-clonic seizures), decreased level of consciousness, coma, and intraventricular conduction delay.
 
 ## 10.2 Management of Overdose
 

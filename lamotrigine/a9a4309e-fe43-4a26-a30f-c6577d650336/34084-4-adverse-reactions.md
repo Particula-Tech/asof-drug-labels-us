@@ -38,7 +38,7 @@ In these studies, either lamotrigine or placebo was added to the patient's curre
 Adverse reactions were usually mild to moderate in intensity.
 
 Table 8.
-Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Trials in Adult Patients With Epilepsy* (Adverse reactions in at least 2% of patients treated with lamotrigine and numerically more frequent than in the placebo group.)
+Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Trials in Adult Patients With Epilepsya (Adverse reactions in at least 2% of patients treated with lamotrigine and numerically more frequent than in the placebo group.)
 
 | Body System/ Adverse Reaction | Percent of Patients Receiving Adjunctive Lamotrigine (n = 711) | Percent of Patients Receiving Adjunctive Placebo (n = 419) |
 | --- | --- | --- |
@@ -87,7 +87,7 @@ Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive T
 | Dysmenorrhea | 7 | 6 |
 | Vaginitis | 4 | 1 |
 | Amenorrhea | 2 | 1 |
-| * Patients in these adjunctive studies were receiving 1 to 3 of the following concomitant AEDs (carbamazepine, phenytoin, phenobarbital, or primidone) in addition to lamotrigine or placebo. Patients may have reported multiple adverse reactions during the study or at discontinuation; thus, patients may be included in more than one category. |  |  |
+| a Patients in these adjunctive studies were receiving 1 to 3 of the following concomitant AEDs (carbamazepine, phenytoin, phenobarbital, or primidone) in addition to lamotrigine or placebo. Patients may have reported multiple adverse reactions during the study or at discontinuation; thus, patients may be included in more than one category. |  |  |
 
 In a randomized, parallel study comparing placebo and 300 and 500 mg/day of lamotrigine, some of the more common drug-related adverse reactions were dose-related (see Table 9).
 
@@ -97,13 +97,13 @@ Dose-Related Adverse Reactions From a Randomized, Placebo-Controlled Adjunctive 
 | Adverse Reaction | Percent of Patients Experiencing Adverse Reactions |  |  |
 | --- | --- | --- | --- |
 | Placebo (n = 73) | Lamotrigine 300 mg (n = 71) | Lamotrigine 500 mg (n = 72) |  |
-| Ataxia | 10 | 10 | 28*† |
-| Blurred vision | 10 | 11 | 25*† |
-| Diplopia | 8 | 24* | 49*† |
-| Dizziness | 27 | 31 | 54*† |
-| Nausea | 11 | 18 | 25* |
-| Vomiting | 4 | 11 | 18* |
-| * Significantly greater than placebo group (p<0.05). † Significantly greater than group receiving lamotrigine 300 mg (p<0.05). |  |  |  |
+| Ataxia | 10 | 10 | 28ab |
+| Blurred vision | 10 | 11 | 25ab |
+| Diplopia | 8 | 24a | 49ab |
+| Dizziness | 27 | 31 | 54ab |
+| Nausea | 11 | 18 | 25a |
+| Vomiting | 4 | 11 | 18a |
+| a Significantly greater than placebo group (p<0.05). b Significantly greater than group receiving lamotrigine 300 mg (p<0.05). |  |  |  |
 
 The overall adverse reaction profile for lamotrigine was similar between females and males, and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to lamotrigine in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
@@ -113,9 +113,9 @@ There was little difference between females and males in the rates of discontinu
 Controlled Monotherapy Trial in Adults With Partial Seizures: Table 10 lists treatment-emergent adverse reactions that occurred in at least 5% of patients with epilepsy treated with monotherapy with lamotrigine in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
 
 Table 10.
-Treatment-Emergent Adverse Reaction Incidence in Adults With Partial Seizures in a Controlled Monotherapy Trial* (Adverse reactions in at least 5% of patients treated with lamotrigine and numerically more frequent than in the valproate group.)
+Treatment-Emergent Adverse Reaction Incidence in Adults With Partial Seizures in a Controlled Monotherapy Triala (Adverse reactions in at least 5% of patients treated with lamotrigine and numerically more frequent than in the valproate group.)
 
-| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine as Monotherapy† (n = 43) | Percent of Patients Receiving Low-Dose Valproate‡ Monotherapy (n = 44) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine as Monotherapyb (n = 43) | Percent of Patients Receiving Low-Dose Valproatec Monotherapy (n = 44) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Pain | 5 | 0 |
@@ -136,7 +136,7 @@ Treatment-Emergent Adverse Reaction Incidence in Adults With Partial Seizures in
 | Rhinitis | 7 | 2 |
 | Urogenital (female patients only) | (n = 21) | (n = 28) |
 | Dysmenorrhea | 5 | 0 |
-| * Patients in these studies were converted to lamotrigine or valproate monotherapy from adjunctive therapy with carbamazepine or phenytoin. Patients may have reported multiple adverse reactions during the study; thus, patients may be included in more than one category. † Up to 500 mg/day. ‡ 1,000 mg/day. |  |  |
+| a Patients in these studies were converted to lamotrigine or valproate monotherapy from adjunctive therapy with carbamazepine or phenytoin. Patients may have reported multiple adverse reactions during the study; thus, patients may be included in more than one category. b Up to 500 mg/day. c 1,000 mg/day. |  |  |
 
 Adverse reactions that occurred with a frequency of less than 5% and greater than 2% of patients receiving lamotrigine and numerically more frequent than placebo were: Body as a Whole: Asthenia, fever.
 Digestive: Anorexia, dry mouth, rectal hemorrhage, peptic ulcer.
@@ -211,7 +211,7 @@ Approximately 16% of 2,401 patients who received lamotrigine (50 to 500 mg/day) 
 The overall adverse reaction profile for lamotrigine was similar between females and males, between elderly and nonelderly patients, and among racial groups.
 
 Table 12.
-Treatment-Emergent Adverse Reaction Incidence in 2 Placebo-Controlled Trials in Adults With Bipolar I Disorder* (Adverse reactions in at least 5% of patients treated with lamotrigine as monotherapy and numerically more frequent than in the placebo group.)
+Treatment-Emergent Adverse Reaction Incidence in 2 Placebo-Controlled Trials in Adults With Bipolar I Disordera(Adverse reactions in at least 5% of patients treated with lamotrigine as monotherapy and numerically more frequent than in the placebo group.)
 
 | Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine (n = 227) | Percent of Patients Receiving Placebo (n = 190) |
 | --- | --- | --- |
@@ -232,8 +232,8 @@ Treatment-Emergent Adverse Reaction Incidence in 2 Placebo-Controlled Trials in 
 | Exacerbation of cough | 5 | 3 |
 | Pharyngitis | 5 | 4 |
 | Skin |  |  |
-| Rash (nonserious)† | 7 | 5 |
-| * Patients in these studies were converted to lamotrigine (100 to 400 mg/day) or placebo monotherapy from add-on therapy with other psychotropic medications. Patients may have reported multiple adverse reactions during the study; thus, patients may be included in more than one category. † In the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received lamotrigine as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received lamotrigine as adjunctive therapy [see Warnings and Precautions (5.1)]. |  |  |
+| Rash (nonserious)b | 7 | 5 |
+| a Patients in these studies were converted to lamotrigine (100 to 400 mg/day) or placebo monotherapy from add-on therapy with other psychotropic medications. Patients may have reported multiple adverse reactions during the study; thus, patients may be included in more than one category. b In the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received lamotrigine as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received lamotrigine as adjunctive therapy [see Warnings and Precautions (5.1)]. |  |  |
 
 These adverse reactions were usually mild to moderate in intensity.
 Other reactions that occurred in 5% or more patients but equally or more frequently in the placebo group included: dizziness, mania, headache, infection, influenza, pain, accidental injury, diarrhea, and dyspepsia.

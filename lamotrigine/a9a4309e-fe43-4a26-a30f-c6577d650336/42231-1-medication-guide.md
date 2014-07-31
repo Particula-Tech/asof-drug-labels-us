@@ -144,6 +144,7 @@ How should I take lamotrigine tablets?
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
   Do not take two doses at the same time.
+- If you take too much lamotrigine, call your healthcare provider or your local Position Control Center or go to the nearest hospital emergency room right away.
 - You may not feel the full effect of lamotrigine tablets for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow lamotrigine tablets whole.
@@ -201,4 +202,4 @@ Active ingredient: lamotrigine.
 Inactive ingredients: microcrystalline cellulose, lactose monohydrate, povidone, sodium starch glycolate, magnesium stearate; FD&C yellow No 6 (100 mg tablet only); ferric oxide yellow (150 mg tablet only); and FD&C blue No 2 lake (200 mg tablet only).
 DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 01/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 07/2014
