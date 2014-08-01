@@ -10,3 +10,5 @@ The following events have been identified during post-marketing use of Brimonidi
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 The events, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to Brimonidine tartrate ophthalmic solution, 0.2%, or a combination of these factors, include: bradycardia; hypotension; iritis; miosis; skin reactions (including erythema, eyelid pruritus, rash, and vasodilation); and tachycardia.
 Apnea, bradycardia, hypotension, hypothermia, hypotonia, and somnolence have been reported in infants receiving Brimonidine tartrate ophthalmic solution, 0.2%.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc., at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

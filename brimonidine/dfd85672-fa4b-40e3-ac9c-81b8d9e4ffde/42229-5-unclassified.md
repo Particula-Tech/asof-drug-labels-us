@@ -1,13 +1,11 @@
-9002760-0707
+9007443-1111
 
-Mfd for:
+Manufactured by
 
-FALCON Pharmaceuticals, Ltd.
+Alcon Laboratories, Inc.
 
-Fort Worth, Texas 76134
+Fort Worth, Texas 76134 for
 
-Mfd by:
+Sandoz Inc.
 
-ALCON LABORATORIES, INC.
-
-Fort Worth, Texas 76134
+Princeton, NJ 08540
