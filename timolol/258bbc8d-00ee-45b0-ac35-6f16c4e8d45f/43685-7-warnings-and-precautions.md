@@ -57,7 +57,7 @@ If necessary during surgery, the effects of beta-adrenergic blocking agents may 
 In patients with angle-closure glaucoma, the immediate objective of treatment is to reopen the angle.
 This may require constricting the pupil.
 Timolol maleate has little or no effect on the pupil.
-Istalol® should not be used alone in the treatment of angle-closure glaucoma.
+Istalol should not be used alone in the treatment of angle-closure glaucoma.
 
 ## 5.11 Cerebrovascular Insufficiency
 

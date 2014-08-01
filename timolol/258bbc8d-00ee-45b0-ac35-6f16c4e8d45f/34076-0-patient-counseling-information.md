@@ -11,6 +11,6 @@ Patients should also be advised that if they have ocular surgery or develop an i
 
 If more than one topical ophthalmic drug is being used, the drugs should be administered at least five minutes apart.
 
-Patients should be advised that Istalol contains benzalkonium chloride which may be absorbed by soft contact lenses.
+Patients should be advised that Istalol® contains benzalkonium chloride which may be absorbed by soft contact lenses.
 Contact lenses should be removed prior to administration of the solution.
 Lenses may be reinserted 15 minutes following Istalol® administration.

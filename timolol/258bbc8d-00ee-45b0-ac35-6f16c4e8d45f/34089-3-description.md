@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Istalol®(timolol maleate ophthalmic solution) 0.5% is a non-selective beta-adrenergic receptor blocking agent.
+Istalol® (timolol maleate ophthalmic solution) 0.5% is a non-selective beta-adrenergic receptor blocking agent.
 Its chemical name is (-)-1-(tert-butylamino) -3- [(4-morpholino-1,2,5-thiadiazol-3-yl)oxy]-2-propanol maleate (1:1) (salt).
 Timolol maleate possesses an asymmetric carbon atom in its structure and is provided as the levo-isomer.
 
