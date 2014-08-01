@@ -1,0 +1,31 @@
+NDC 69097-158-07 Rx ONLY
+
+Meloxicam
+
+Tablets, USP
+
+7.5 mg
+
+PHARMACIST: PLEASE DISPENSE
+
+WITH MEDICATION GUIDE
+
+100 Tablets
+
+Cipla
+
+NDC 69097-159-07 Rx ONLY
+
+Meloxicam
+
+Tablets, USP
+
+15 mg
+
+PHARMACIST: PLEASE DISPENSE
+
+WITH MEDICATION GUIDE
+
+100 Tablets
+
+Cipla

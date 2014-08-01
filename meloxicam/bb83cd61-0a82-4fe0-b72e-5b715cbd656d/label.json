@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA077929"
+  ],
+  "inn": "meloxicam",
+  "labeler": "Cipla Limited",
+  "package_ndcs": [
+    "69097-158-07",
+    "69097-158-12",
+    "69097-158-15",
+    "69097-159-07",
+    "69097-159-12",
+    "69097-159-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "meloxicam",
+      "name": "MELOXICAM"
+    }
+  ],
+  "setid": "bb83cd61-0a82-4fe0-b72e-5b715cbd656d",
+  "source": "dailymed"
+}
