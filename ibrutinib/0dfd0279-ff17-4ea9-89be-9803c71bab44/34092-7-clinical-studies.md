@@ -11,9 +11,9 @@ At baseline, 39% of subjects had at least one tumor ≥ 5 cm, 49% had bone marro
 IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
 Tumor response was assessed according to the revised International Working Group (IWG) for non-Hodgkin's lymphoma (NHL) criteria.
 The primary endpoint in this study was investigator-assessed overall response rate (ORR).
-Responses to IMBRUVICA are shown in Table 5.
+Responses to IMBRUVICA are shown in Table 7.
 
-Table 5: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with Mantle Cell Lymphoma
+Table 7: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL
 
 |  | Total (N=111) |
 | --- | --- |
@@ -36,7 +36,11 @@ The onset of isolated lymphocytosis occurs during the first few weeks of IMBRUVI
 
 ## 14.2 Chronic Lymphocytic Leukemia
 
-The safety and efficacy of IMBRUVICA in patients with CLL who have received at least one prior therapy were evaluated in an open-label, multi-center trial of 48 previously treated patients.
+The safety and efficacy of IMBRUVICA in patients with CLL who have received at least one prior therapy were demonstrated in one uncontrolled trial and one randomized, controlled trial.
+
+Study 1
+
+An open-label, multi-center trial was conducted in 48 previously treated CLL patients.
 The median age was 67 years (range, 37 to 82 years), 71% were male, and 94% were Caucasian.
 All patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 80 months and the median number of prior treatments was 4 (range, 1 to 12 treatments).
@@ -48,6 +52,53 @@ The ORR was 58.3% (95% CI: 43.2%, 72.4%), all partial responses.
 None of the patients achieved a complete response.
 The DOR ranged from 5.6 to 24.2+ months.
 The median DOR was not reached.
+
+Study 2
+
+A randomized, multicenter, open-label Phase 3 study of IMBRUVICA versus ofatumumab was conducted in patients with previously treated CLL or SLL.
+Patients (n=391) were randomized 1:1 to receive either IMBRUVICA 420 mg daily until disease progression, or unacceptable toxicity or ofatumumab at an initial dose of 300 mg, followed one week later by a dose of 2000 mg weekly for 7 doses and then every 4 weeks for 4 additional doses.
+Fifty seven patients randomized to ofatumumab crossed over following progression to receive IMBRUVICA.
+The median age was 67 years (range, 30 to 88 years), 68% were male, and 90% were Caucasian.
+All patients had a baseline ECOG performance status of 0 or 1.
+The trial enrolled 373 patients with CLL and 18 patients with SLL.
+The median time since diagnosis was 91 months and the median number of prior treatments was 2 (range, 1 to 13 treatments).
+At baseline, 58% of patients had at least one tumor ≥ 5 cm.
+Thirty-two percent of patients had 17p deletion.
+
+Progression free survival (PFS) as assessed by independent review committee (IRC) according to IWCLL criteria indicated a 78% statistically significant reduction in the risk of death or progression.
+Analysis of overall survival (OS) demonstrated a 57% statistically significant reduction in the risk of death for patients in the IMBRUVICA arm.
+Efficacy results for Study 2 are shown in Table 8 and the Kaplan-Meier curves for PFS and OS are shown in Figures 1 and 2, respectively.
+
+Table 8: Efficacy Results in Study 2
+
+| Endpoint | IMBRUVICA N=195 | Ofatumumab N=196 |
+| --- | --- | --- |
+| Median Progression Free Survival | Not reached | 8.1 months |
+| HR=0.22 [95% CI: 0.15; 0.32] |  |  |
+| Overall SurvivalMedian OS not reached for either arm | HR=0.43 [95% CI: 0.24; 0.79] |  |
+| Overall Response RateIRC evaluated. All partial responses achieved; none of the patients achieved a complete response. | 42.6% | 4.1% |
+| HR = hazard ratio |  |  |
+
+| Figure 1: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Study 2 |
+| --- |
+| Figure 2: Kaplan-Meier Curve of Overall Survival (ITT Population) in Study 2 |
+
+CLL with 17p deletion (del 17p CLL)
+
+Study 2 included 127 patients with del 17p CLL.
+The median age was 67 years (range, 30 to 84 years), 62% were male, and 88% were Caucasian.
+All patients had a baseline ECOG performance status of 0 or 1.
+PFS and ORR were assessed by IRC.
+Efficacy results for del 17p CLL are shown in Table 9.
+
+Table 9: Efficacy Results in Patients with del 17p CLL
+
+| Endpoint | IMBRUVICA N=63 | Ofatumumab N=64 |
+| --- | --- | --- |
+| Median Progression Free Survival | Not reached | 5.8 months |
+| HR=0.25 [95% CI: 0.14; 0.45] |  |  |
+| Overall Response RateIRC evaluated. All partial responses achieved; none of the patients achieved a complete response. | 47.6% | 4.7% |
+| HR = hazard ratio |  |  |
 
 Lymphocytosis
 

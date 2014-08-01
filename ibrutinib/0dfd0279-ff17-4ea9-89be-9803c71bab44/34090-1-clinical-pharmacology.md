@@ -19,7 +19,7 @@ Absorption
 Ibrutinib is absorbed after oral administration with a median Tmax of 1 to 2 hours.
 Ibrutinib exposure increases with doses up to 840 mg.
 The steady-state AUC (mean ± standard deviation) observed in patients at 560 mg is 953 ± 705 ng∙h/mL and in patients at 420 mg is 680 ± 517 ng∙h/mL.
-Administration with food increases ibrutinib exposure approximately 2-fold compared with administration after overnight fasting.
+Administration with food increased ibrutinib Cmax and AUC by approximately 2 to 4- and 2-fold, respectively, compared with administration of ibrutinib after overnight fasting.
 
 Distribution
 
@@ -72,8 +72,8 @@ Simulations using physiologically-based pharmacokinetic (PBPK) models suggested 
 
 Coadministration of Ibrutinib with CYP3A Inducers
 
-Preliminary PK data from an ongoing dedicated drug interaction trial and simulations using PBPK indicate that rifampin (a strong CYP3A inducer) can decrease ibrutinib Cmax and AUC by more than 10-fold.
-Simulations using PBPK suggested that a moderate CYP3A inducer (efavirenz) may decrease the AUC of ibrutinib up to 3-fold.
+PK data from a dedicated drug interaction trial showed that rifampin (a strong CYP3A inducer) decreases ibrutinib Cmax and AUC by more than 13- and 10-fold.
+Simulations using PBPK suggested that a moderate CYP3A inducer (efavirenz) may decrease the AUC of ibrutinib by up to 3-fold.
 
 Coadministration of Ibrutinib with CYP Substrates
 

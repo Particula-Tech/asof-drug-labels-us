@@ -24,7 +24,7 @@ If the toxicity reoccurs, reduce dose by one capsule (140 mg per day).
 A second reduction of dose by 140 mg may be considered as needed.
 If these toxicities persist or recur following two dose reductions, discontinue IMBRUVICA.
 
-Recommended dose modifications for these toxicities are described below:
+Recommended dose modifications are described below:
 
 | Toxicity Occurrence | MCL Dose Modification After Recovery Starting Dose = 560 mg | CLL Dose Modification After Recovery Starting Dose = 420 mg |
 | --- | --- | --- |

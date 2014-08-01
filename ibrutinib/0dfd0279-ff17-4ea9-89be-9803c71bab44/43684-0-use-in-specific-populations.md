@@ -32,10 +32,9 @@ Of the 111 patients treated for MCL, 63% were 65 years of age or older.
 No overall differences in effectiveness were observed between these patients and younger patients.
 Cardiac adverse events (atrial fibrillation and hypertension), infections (pneumonia and cellulitis) and gastrointestinal events (diarrhea and dehydration) occurred more frequently among elderly patients.
 
-Of the 48 patients treated for CLL, 52% were 65 years of age or older.
-No overall differences in effectiveness were observed between these patients and younger patients.
-A greater number of adverse events were reported in those 65 years of age and older.
-Grade 3 or higher adverse events occurred more frequently among elderly patients (80% of patients 65 and older versus 61% of younger patients).
+Of the 391 patients randomized in Study 2, 61% were ≥ 65 years of age.
+No overall differences in effectiveness were observed between age groups.
+Grade 3 or higher adverse events occurred more frequently among elderly patients treated with IMBRUVICA (61% of patients age ≥ 65 versus 51% of younger patients) [see Clinical Studies (14.2)].
 
 ## 8.6 Renal Impairment
 

@@ -17,7 +17,7 @@ Avoid grapefruit and Seville oranges during IMBRUVICA treatment, as these contai
 
 ## 7.2 CYP3A Inducers
 
-Administration of IMBRUVICA with strong inducers of CYP3A decrease ibrutinib plasma concentrations by approximately 10-fold.
+Administration of IMBRUVICA with rifampin, a strong CYP3A inducer, decreased ibrutinib Cmax and AUC by approximately 13- and 10-fold, respectively.
 
 Avoid concomitant use of strong CYP3A inducers (e.g., carbamazepine, rifampin, phenytoin and St. John's Wort).
 Consider alternative agents with less CYP3A induction [see Clinical Pharmacology (12.3)].

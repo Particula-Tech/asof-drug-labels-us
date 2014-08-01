@@ -2,8 +2,8 @@
 
 ## 5.1 Hemorrhage
 
-Five percent of patients with MCL and 6% of patients with CLL had Grade 3 or higher bleeding events (subdural hematoma, ecchymoses, gastrointestinal bleeding, and hematuria).
-Overall, bleeding events including bruising of any grade occurred in 48% of patients with MCL treated with 560 mg daily and 63% of patients with CLL treated at 420 mg daily.
+Grade 3 or higher bleeding events (subdural hematoma, gastrointestinal bleeding, hematuria and post procedural hemorrhage) have occurred in up to 6% of patients.
+Bleeding events of any grade, including bruising and petechiae, occurred in approximately half of patients treated with IMBRUVICA.
 
 The mechanism for the bleeding events is not well understood.
 
@@ -14,29 +14,26 @@ Consider the benefit-risk of withholding IMBRUVICA for at least 3 to 7 days pre 
 ## 5.2 Infections
 
 Fatal and non-fatal infections have occurred with IMBRUVICA therapy.
-At least 25% of patients with MCL and 35% of patients with CLL had infections Grade 3 or greater NCI Common Terminology Criteria for Adverse Events (CTCAE) [See Adverse Reactions (6.1) and (6.2)].
+Twenty-five percent of patients with MCL and 26% of patients with CLL had infections Grade 3 or greater NCI Common Terminology Criteria for Adverse Events (CTCAE) [See Adverse Reactions (6.1) and (6.2)].
 Monitor patients for fever and infections and evaluate promptly.
 
-## 5.3 Myelosuppression
+## 5.3 Cytopenias
 
-Treatment-emergent Grade 3 or 4 cytopenias were reported in 41% of patients with MCL and 35% of patients with CLL.
-These included neutropenia (29%), thrombocytopenia (17%) and anemia (9%) in patients with MCL and neutropenia (27%) and thrombocytopenia (10%) in patients with CLL.
+Treatment-emergent Grade 3 or 4 cytopenias including neutropenia (range, 23 to 29%), thrombocytopenia (range, 5 to 17%), and anemia (range, 0 to 9%) occurred in patients treated with IMBRUVICA.
 
 Monitor complete blood counts monthly.
 
-## 5.4 Renal Toxicity
+## 5.4 Atrial Fibrillation
 
-Fatal and serious cases of renal failure have occurred with IMBRUVICA therapy.
-Treatment-emergent increases in creatinine levels up to 1.5 times the upper limit of normal occurred in 67% of patients with MCL and 23% of patients with CLL.
-Increases in creatinine 1.5 to 3 times the upper limit of normal occurred in 9% of patients with MCL and 4% of patients with CLL.
-Periodically monitor creatinine levels.
-Maintain hydration.
+Atrial fibrillation and atrial flutter (range, 6 to 9%) have occurred in patients treated with IMBRUVICA, particularly in patients with cardiac risk factors, acute infections, and a previous history of atrial fibrillation.
+Periodically monitor patients clinically for atrial fibrillation.
+Patients who develop arrhythmic symptoms (e.g., palpitations, lightheadedness) or new onset dyspnea should have an ECG performed.
+If atrial fibrillation persists, consider the risks and benefits of IMBRUVICA treatment and dose modification [see Dosage and Administration (2.3)].
 
 ## 5.5 Second Primary Malignancies
 
-Other malignancies have occurred in 5% of patients with MCL and 10% of patients with CLL who have been treated with IMBRUVICA.
-Four percent of patients with MCL, had skin cancers and 1% had other carcinomas.
-Eight percent of patients with CLL had skin cancers and 2% had other carcinomas.
+Other malignancies (range, 5 to 10%) including carcinomas (range, 1 to 3%) have occurred in patients treated with IMBRUVICA.
+The most frequent second primary malignancy was non-melanoma skin cancer (range, 4 to 8%).
 
 ## 5.6 Embryo-Fetal Toxicity
 
