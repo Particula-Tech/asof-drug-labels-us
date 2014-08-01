@@ -86,32 +86,32 @@ Tamsulosin hydrochloride undergoes restrictive clearance in humans, with a relat
 
 ### Specific Populations
 
-#### Pediatric Use
+Pediatric Use
 
 FLOMAX capsules are not indicated for use in pediatric populations [see Use in Specific Populations (8.4)].
 
-#### Geriatric (Age) Use
+Geriatric (Age) Use
 
 Cross-study comparison of FLOMAX capsules overall exposure (AUC) and half-life indicates that the pharmacokinetic disposition of tamsulosin hydrochloride may be slightly prolonged in geriatric males compared to young, healthy male volunteers.
 Intrinsic clearance is independent of tamsulosin hydrochloride binding to AAG, but diminishes with age, resulting in a 40% overall higher exposure (AUC) in subjects of age 55 to 75 years compared to subjects of age 20 to 32 years [see Use in Specific Populations (8.5)].
 
-#### Renal Impairment
+Renal Impairment
 
 The pharmacokinetics of tamsulosin hydrochloride have been compared in 6 subjects with mild-moderate (30≤ CLcr <70 mL/min/1.73 m2) or moderate-severe (10≤ CLcr <30 mL/min/1.73 m2) renal impairment and 6 normal subjects (CLcr >90 mL/min/1.73 m2).
 While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride, as well as the intrinsic clearance, remained relatively constant.
 Therefore, patients with renal impairment do not require an adjustment in FLOMAX capsules dosing.
 However, patients with end-stage renal disease (CLcr <10 mL/min/1.73 m2) have not been studied [see Use in Specific Populations (8.6)].
 
-#### Hepatic Impairment
+Hepatic Impairment
 
 The pharmacokinetics of tamsulosin hydrochloride have been compared in 8 subjects with moderate hepatic impairment (Child-Pugh’s classification: Grades A and B) and 8 normal subjects.
 While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride does not change significantly, with only a modest (32%) change in intrinsic clearance of unbound tamsulosin hydrochloride.
 Therefore, patients with moderate hepatic impairment do not require an adjustment in FLOMAX capsules dosage.
 FLOMAX has not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
 
-### Drug Interactions
+Drug Interactions
 
-#### Cytochrome P450 Inhibition
+Cytochrome P450 Inhibition
 
 Strong and Moderate Inhibitors of CYP3A4 or CYP2D6 The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily for 5 days on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range 23 to 47 years).
 Concomitant treatment with ketoconazole resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
@@ -128,38 +128,38 @@ The effects of concomitant administration of a moderate CYP2D6 inhibitor (e.g., 
 The effects of co-administration of both a CYP3A4 and a CYP2D6 inhibitor with FLOMAX capsules have not been evaluated.
 However, there is a potential for significant increase in tamsulosin exposure when FLOMAX 0.4 mg is co-administered with a combination of both CYP3A4 and CYP2D6 inhibitors [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
-#### Cimetidine
+Cimetidine
 
 The effects of cimetidine at the highest recommended dose (400 mg every 6 hours for 6 days) on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 10 healthy volunteers (age range 21 to 38 years).
 Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
-#### Other Alpha Adrenergic Blocking Agents
+Other Alpha Adrenergic Blocking Agents
 
 The pharmacokinetic and pharmacodynamic interactions between FLOMAX capsules and other alpha adrenergic blocking agents have not been determined; however, interactions between FLOMAX capsules and other alpha adrenergic blocking agents may be expected [see Warnings and Precautions (5.2) and Drug Interactions (7.2)].
 
-#### PDE5 Inhibitors
+PDE5 Inhibitors
 
 Caution is advised when alpha adrenergic blocking agents, including FLOMAX, are co-administered with PDE5 inhibitors.
 Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure.
 Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
 
-#### Warfarin
+Warfarin
 
 A definitive drug-drug interaction study between tamsulosin hydrochloride and warfarin was not conducted.
 Results from limited in vitro and in vivo studies are inconclusive.
 Therefore, caution should be exercised with concomitant administration of warfarin and FLOMAX capsules [see Warnings and Precautions (5.2) and Drug Interactions (7.4)].
 
-#### Nifedipine, Atenolol, Enalapril
+Nifedipine, Atenolol, Enalapril
 
 In three studies in hypertensive subjects (age range 47 to 79 years) whose blood pressure was controlled with stable doses of nifedipine, atenolol, or enalapril for at least 3 months, FLOMAX capsules 0.4 mg for 7 days followed by FLOMAX capsules 0.8 mg for another 7 days (n=8 per study) resulted in no clinically significant effects on blood pressure and pulse rate compared to placebo (n=4 per study).
 Therefore, dosage adjustments are not necessary when FLOMAX capsules are administered concomitantly with nifedipine, atenolol, or enalapril [see Drug Interactions (7.5)].
 
-#### Digoxin and Theophylline
+Digoxin and Theophylline
 
 In two studies in healthy volunteers (n=10 per study; age range 19 to 39 years) receiving FLOMAX capsules 0.4 mg/day for 2 days, followed by FLOMAX capsules 0.8 mg/day for 5 to 8 days, single intravenous doses of digoxin 0.5 mg or theophylline 5 mg/kg resulted in no change in the pharmacokinetics of digoxin or theophylline.
 Therefore, dosage adjustments are not necessary when a FLOMAX capsule is administered concomitantly with digoxin or theophylline [see Drug Interactions (7.6)].
 
-#### Furosemide
+Furosemide
 
 The pharmacokinetic and pharmacodynamic interaction between FLOMAX capsules 0.8 mg/day (steady-state) and furosemide 20 mg intravenously (single dose) was evaluated in 10 healthy volunteers (age range 21 to 40 years).
 FLOMAX capsules had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.

@@ -2,6 +2,6 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Flomax is a registered trademark of, and licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
 
-Copyright 2012, ALL RIGHTS RESERVED
+Copyright 201x, ALL RIGHTS RESERVED
 
-IT8004TE082012 PRT97
+IT8004UKxx2013 xxxxx

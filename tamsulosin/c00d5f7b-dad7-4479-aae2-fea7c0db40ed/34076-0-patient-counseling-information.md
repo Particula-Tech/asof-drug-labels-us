@@ -17,7 +17,7 @@ Prostate cancer and BPH frequently co-exist; therefore, patients should be scree
 
 ## 17.4 Intraoperative Floppy Iris Syndrome
 
-Patients considering cataract surgery should be advised to tell their ophthalmologist that they have taken FLOMAX capsules [see Warnings and Precautions (5.5)].
+Patients considering cataract or glaucoma surgery should be advised to tell their ophthalmologist that they have taken FLOMAX capsules [see Warnings and Precautions (5.5)].
 
 ## 17.5 Administration
 

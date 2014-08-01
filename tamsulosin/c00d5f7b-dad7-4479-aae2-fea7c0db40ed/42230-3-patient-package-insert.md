@@ -22,7 +22,7 @@ Before taking FLOMAX capsules, tell your doctor about all your medical condition
 - any kidney or liver problems.
 - any history of low blood pressure.
 - any allergies to sulfa or any other medicines.
-- if you are planning to have cataract surgery.
+- if you are planning to have cataract or glaucoma surgery.
 
 Tell your doctor about all the medicines you take, including:
 
@@ -73,9 +73,9 @@ Possible side effects of FLOMAX may include:
   FLOMAX capsules can cause a painful erection (priapism), which cannot be relieved by having sex.
   If this happens, get medical help right away.
   If priapism is not treated, you may not be able to get an erection in the future.
-- Eye problems during cataract surgery.
-  During cataract surgery, a condition called intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken FLOMAX capsules.
-  If you need to have cataract surgery, be sure to tell your surgeon if you take or have taken FLOMAX capsules.
+- Eye problems during cataract or glaucoma surgery.
+  During cataract or glaucoma surgery, a condition called intraoperative floppy iris syndrome (IFIS) can happen if you take or have taken FLOMAX capsules.
+  If you need to have cataract or glaucoma surgery, be sure to tell your surgeon if you take or have taken FLOMAX capsules.
 
 Common side effects of FLOMAX capsules may include:
 
@@ -115,7 +115,7 @@ Therefore, ask your doctor about screening for prostate cancer prior to treatmen
 This patient information leaflet summarizes the most important information about FLOMAX.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about FLOMAX that is written for health professionals.
-For more information call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
+For current prescribing information scan the code below, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
 
 What are the ingredients in FLOMAX capsules?
 
@@ -126,8 +126,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Flomax is a registered trademark of, and licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
 
-Copyright 2012, ALL RIGHTS RESERVED
+Copyright 201x, ALL RIGHTS RESERVED
 
-IT8004TE082012 PRT97
+IT8004UKxx2013 xxxxx
 
-Revised: May 2012
+Revised: xx 201x

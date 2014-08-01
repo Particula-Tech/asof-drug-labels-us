@@ -14,9 +14,9 @@ Overall there were no significant differences in improvement observed in total A
 Table 3 Mean (±S.D.)
 Changes from Baseline to Week 13 in Total AUA Symptom Score** and Peak Urine Flow Rate (mL/sec)
 
-|  |  | Mean Baseline Value | Mean Change | Mean Baseline Value |  | Mean Change |
-| --- | --- | --- | --- | --- | --- | --- |
 |  |  | Total AUA Symptom Score |  | Peak Urine Flow Rate |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Mean Baseline Value | Mean Change | Mean Baseline Value |  | Mean Change |
 | Study 1† |  |  |  |  |  |  |
 | FLOMAX capsules 0.8 mg once daily |  | 19.9 ± 4.9 n=247 | -9.6* ± 6.7 n=237 | 9.57 ± 2.51 n=247 |  | 1.78* ± 3.35 n=247 |
 | FLOMAX capsules 0.4 mg once daily |  | 19.8 ± 5.0 n=254 | -8.3* ± 6.5 n=246 | 9.46 ± 2.49 n=254 |  | 1.75* ± 3.57 n=254 |
@@ -25,11 +25,7 @@ Changes from Baseline to Week 13 in Total AUA Symptom Score** and Peak Urine Flo
 | FLOMAX capsules 0.8 mg once daily | 18.2 ± 5.6 n=244 |  | -5.8* ± 6.4 n=238 |  | 9.96 ± 3.16 n=244 | 1.79* ± 3.36 n=237 |
 | FLOMAX capsules 0.4 mg once daily | 17.9 ± 5.8 n=248 |  | -5.1* ± 6.4 n=244 |  | 9.94 ± 3.14 n=248 | 1.52 ± 3.64 n=244 |
 | Placebo | 19.2 ± 6.0 n=239 |  | -3.6 ± 5.7 n=235 |  | 9.95 ± 3.12 n=239 | 0.93 ± 3.28 n=235 |
-| * Statistically significant difference from placebo (p-value ≤0.050; Bonferroni-Holm multiple test procedure). |  |  |  |  |  |  |
-| ** Total AUA Symptom Scores ranged from 0 to 35. |  |  |  |  |  |  |
-| † Peak urine flow rate measured 4 to 8 hours post dose at Week 13. |  |  |  |  |  |  |
-| ‡ Peak urine flow rate measured 24 to 27 hours post dose at Week 13. |  |  |  |  |  |  |
-| Week 13: For patients not completing the 13-week study, the last observation was carried forward. |  |  |  |  |  |  |
+| * Statistically significant difference from placebo (p-value ≤0.050; Bonferroni-Holm multiple test procedure). ** Total AUA Symptom Scores ranged from 0 to 35. † Peak urine flow rate measured 4 to 8 hours post dose at Week 13. ‡ Peak urine flow rate measured 24 to 27 hours post dose at Week 13. Week 13: For patients not completing the 13-week study, the last observation was carried forward. |  |  |  |  |  |  |
 
 Mean total AUA Symptom Scores for both FLOMAX capsules 0.4 mg and 0.8 mg once-daily groups showed a rapid decrease starting at 1 week after dosing and remained decreased through 13 weeks in both studies (Figures 2A and 2B).
 
