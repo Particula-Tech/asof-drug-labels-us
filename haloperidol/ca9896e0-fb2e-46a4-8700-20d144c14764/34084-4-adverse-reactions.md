@@ -59,7 +59,7 @@ Tardive dystonia is characterized by delayed onset of choreic or dystonic moveme
 
 Other CNS Effects
 
-Insomnia; restlessness, anxiety, euphoria, agitation, drowsiness, depression, lethargy, headache, confusion, vertigo, grand mal seizures, exacerbation of psychotic symptoms including hallucinations, and catatonic-like behavioral states which may be responsive to drug withdrawal and/or treatment with anticholinergic drugs.
+Insomnia, restlessness, anxiety, euphoria, agitation, drowsiness, depression, lethargy, headache, confusion, vertigo, grand mal seizures, exacerbation of psychotic symptoms including hallucinations, and catatonic-like behavioral states which may be responsive to drug withdrawal and/or treatment with anticholinergic drugs.
 
 Body as a Whole
 

@@ -6,15 +6,15 @@ NDC 63323-469-05
 
 Haloperidol Decanoate Injection
 
-50 mg*/mL
+250 mg*/5 mL (50 mg*/mL)
 
 *as haloperidol
 
 IM Use Only
 
-5 mL Rx only
+5 mL Multiple Dose Vial
 
-Multiple Dose Vial
+Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Haloperidol Decanoate 5 mL Multiple Dose Vial Carton Panel
 
@@ -24,15 +24,13 @@ NDC 63323-469-05
 
 Haloperidol Decanoate Injection
 
-50 mg*/mL
+250 mg*/5 mL (50 mg*/mL)
 
 *as haloperidol
 
 IM Use Only
 
-5 mL
-
-Multiple Dose Vial
+5 mL Multiple Dose Vial
 
 Rx only
 

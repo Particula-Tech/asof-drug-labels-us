@@ -150,7 +150,7 @@ Valproate
 
 Sodium valproate, a drug known to inhibit glucuronidation, does not affect haloperidol plasma concentrations.
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No mutagenic potential of haloperidol decanoate was found in the Ames Salmonella microsomal activation assay.
 Negative or inconsistent positive findings have been obtained in in vitro and in vivo studies of effects of short-acting haloperidol on chromosome structure and number.
