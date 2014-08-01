@@ -82,7 +82,7 @@ As weight increases, for patients 13 years of age and above, the weight-adjusted
 
 Pregnancy
 
-Due to physiological changes during pregnancy, MHD plasma levels may gradually decrease throughout pregnancy [see Use in Specific Populations (8.1)]
+Due to physiological changes during pregnancy, MHD plasma levels may gradually decrease throughout pregnancy [see Use in Specific Populations (8.1)].
 
 Geriatrics
 

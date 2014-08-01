@@ -28,13 +28,33 @@ If signs or symptoms of hypersensitivity develop, Trileptal should be discontinu
 ## 5.4 Serious Dermatological Reactions
 
 Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in both children and adults in association with Trileptal use.
-The median time of onset for reported cases was 19 days.
-Such serious skin reactions may be life threatening, and some patients have required hospitalization with very rare reports of fatal outcome.
+Such serious skin reactions may be life threatening, and some patients have required hospitalization, with very rare reports of fatal outcome.
+The median time of onset for reported cases was 19 days after treatment initiation.
 Recurrence of the serious skin reactions following rechallenge with Trileptal has also been reported.
 
 The reporting rate of TEN and SJS associated with Trileptal use, which is generally accepted to be an underestimate due to underreporting, exceeds the background incidence rate estimates by a factor of 3- to 10-fold.
 Estimates of the background incidence rate for these serious skin reactions in the general population range between 0.5 to 6 cases per million-person years.
 Therefore, if a patient develops a skin reaction while taking Trileptal, consideration should be given to discontinuing Trileptal use and prescribing another antiepileptic medication.
+
+Association with HLA-B*1502
+
+Patients carrying the HLA-B*1502 allele may be at increased risk for SJS/TEN with Trileptal treatment.
+
+Human Leukocyte Antigen (HLA) allele B*1502 increases the risk for developing SJS/TEN in patients treated with carbamazepine.
+The chemical structure of Trileptal is similar to that of carbamazepine.
+Available clinical evidence, and data from nonclinical studies showing a direct interaction between Trileptal and HLA-B*1502 protein, suggest that the HLA-B*1502 allele may also increase the risk for SJS/TEN with Trileptal.
+
+The frequency of HLA-B*1502 allele ranges from 2 to 12% in Han Chinese populations, is about 8% in Thai populations, and above 15% in the Philippines and in some Malaysian populations.
+Allele frequencies up to about 2% and 6% have been reported in Korea and India, respectively.
+The frequency of the HLA-B*1502 allele is negligible in people from European descent, several African populations, indigenous peoples of the Americas, Hispanic populations, and in Japanese (<1%).
+
+Testing for the presence of the HLA-B*1502 allele should be considered in patients with ancestry in genetically at-risk populations, prior to initiating treatment with Trileptal.
+The use of Trileptal should be avoided in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.
+Consideration should also be given to avoid the use of other drugs associated with SJS/TEN in HLA-B*1502 positive patients, when alternative therapies are otherwise equally acceptable.
+Screening is not generally recommended in patients from populations in which the prevalence of HLA-B*1502 is low, or in current Trileptal users, as the risk of SJS/TEN is largely confined to the first few months of therapy, regardless of HLA-B*1502 status.
+
+The use of HLA-B*1502 genotyping has important limitations and must never substitute for appropriate clinical vigilance and patient management.
+The role of other possible factors in the development of, and morbidity from, SJS/TEN, such as antiepileptic drug (AED) dose, compliance, concomitant medications, comorbidities, and the level of dermatologic monitoring have not been well characterized.
 
 ## 5.5 Suicidal Behavior and Ideation
 
@@ -111,15 +131,17 @@ In addition, 34.8% of oxcarbazepine-treated patients and 14.0% of placebo-treate
 Finally, 23.2% of oxcarbazepine-treated patients and 7.0% of placebo-treated patients experienced ataxia or gait disturbances.
 Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient discontinued due to ataxia or gait disturbances.
 
-## 5.8 Multi-Organ Hypersensitivity
+## 5.8 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity
 
-Multi-organ hypersensitivity reactions have occurred in close temporal association (median time to detection 13 days: range 4-60) to the initiation of Trileptal therapy in adult and pediatric patients.
-Although there have been a limited number of reports, many of these cases resulted in hospitalization and some were considered life threatening.
-Signs and symptoms of this disorder were diverse; however, patients typically, although not exclusively, presented with fever and rash associated with other organ system involvement.
-These may include hematologic and lymphatic (e.g., eosinophilia, thrombocytopenia, lymphadenopathy, leukopenia, neutropenia, splenomegaly), hepatobiliary (e.g., hepatitis, liver function test abnormalities), renal (e.g., proteinuria, nephritis, oliguria, renal failure), muscles and joints (e.g., joint swelling, myalgia, arthralgia, asthenia), nervous system (e.g., hepatic encephalopathy), respiratory (e.g., dyspnea, pulmonary edema, asthma, bronchospasm, interstitial lung disease), hepatorenal syndrome, pruritus, and angioedema.
-Because the disorder is variable in its expression, other organ system symptoms and signs, not noted here, may occur.
-If this reaction is suspected, Trileptal should be discontinued and an alternative treatment started.
-Although there are no case reports to indicate cross sensitivity with other drugs that produce this syndrome, the experience amongst drugs associated with multi-organ hypersensitivity would indicate this to be a possibility [see Warnings and Precautions (5.3)].
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has occurred with Trileptal.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+This disorder is variable in its expression, and other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+Trileptal should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
+Although there are no case reports to indicate cross sensitivity with other drugs that produce this syndrome, the experience amongst drugs associated with DRESS/multi-organ hypersensitivity would indicate this to be a possibility [see Warnings and Precautions (5.3)].
 
 ## 5.9 Hematologic Events
 

@@ -2,8 +2,7 @@
 
 Oxcarbazepine can inhibit CYP2C19 and induce CYP3A4/5 with potentially important effects on plasma concentrations of other drugs.
 The inhibition of CYP2C19 by oxcarbazepine and MHD can cause increased plasma concentrations of drugs that are substrates of CYP2C19.
-Oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A family (CYP3A4 and CYP3A5) responsible for the metabolism of dihydropyridine calcium antagonists, oral contraceptives and cyclosporine resulting in a lower plasma concentration of these drugs.
-[see Clinical Pharmacology (12.3)]
+Oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A family (CYP3A4 and CYP3A5) responsible for the metabolism of dihydropyridine calcium antagonists, oral contraceptives and cyclosporine resulting in a lower plasma concentration of these drugs [see Clinical Pharmacology (12.3)].
 
 In addition, several AEDs that are cytochrome P450 inducers can decrease plasma concentrations of oxcarbazepine and MHD.
 No autoinduction has been observed with Trileptal.
