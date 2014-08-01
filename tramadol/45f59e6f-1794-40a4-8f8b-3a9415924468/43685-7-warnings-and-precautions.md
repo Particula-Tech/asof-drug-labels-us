@@ -12,7 +12,7 @@ Concomitant use of ULTRAM® increases the seizure risk in patients taking:
 
 Administration of ULTRAM® may enhance the seizure risk in patients taking:
 
-- MAO inhibitors (see also WARNINGS, Use with MAO Inhibitors and Serotonin Re-Uptake Inhibitors),
+- MAO inhibitors (see also WARNINGS, Use With MAO Inhibitors and Serotonin Re-Uptake Inhibitors),
 - Neuroleptics, or
 - Other drugs that reduce the seizure threshold.
 
@@ -142,12 +142,12 @@ Concomitant administration of CYP2D6 and/or CYP3A4 inhibitors (see CLINICAL PHAR
 ### Serotonergic Drugs
 
 There have been postmarketing reports of serotonin syndrome with use of tramadol and SSRIs/SNRIs or MAOIs and α2-adrenergic blockers.
-Caution is advised when ULTRAM® is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as SSRIs, MAOIs, triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, or St. John's Wort.
+Caution is advised when ULTRAM® is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as SSRIs, MAOIs, triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, or St. John's Wort.
 If concomitant treatment of ULTRAM® with a drug affecting the serotonergic neurotransmitter system is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome Risk).
 
 ### Triptans
 
-Based on the mechanism of action of tramadol and the potential for serotonin syndrome, caution is advised when ULTRAM® is coadministered with a triptan.
+Based on the mechanism of action of tramadol and the potential for serotonin syndrome, caution is advised when ULTRAM® is co-administered with a triptan.
 If concomitant treatment of ULTRAM® with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome Risk).
 
 ### Use With Carbamazepine

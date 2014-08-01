@@ -38,7 +38,7 @@ Figure 1: Mean Tramadol and M1 Plasma Concentration Profiles after a Single 100 
 
 Table 1 Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite
 
-| Population/ Dosage RegimenSD = Single dose, MD = Multiple dose, p.o.= Oral administration, i.v.= Intravenous administration, q.i.d. = Four times daily | Parent Drug/ Metabolite | PeakConc. (ng/mL) | Time to Peak (hrs) | Clearance/FF represents the oral bioavailability of tramadol (mL/min/Kg) | t1/2 (hrs) |
+| Population/ Dosage RegimenSD = Single dose, MD = Multiple dose, p.o.= Oral administration, i.v.= Intravenous administration, q.i.d. = Four times daily | Parent Drug/ Metabolite | Peak Conc. (ng/mL) | Time to Peak (hrs) | Clearance/FF represents the oral bioavailability of tramadol (mL/min/Kg) | t1/2 (hrs) |
 | --- | --- | --- | --- | --- | --- |
 | Healthy Adults, 100 mg qid, MD p.o. | Tramadol M1 | 592 (30) 110 (29) | 2.3 (61) 2.4 (46) | 5.90 (25) Not applicable | 6.7 (15) 7.0 (14) |
 | Healthy Adults, 100 mg SD p.o. | Tramadol M1 | 308 (25) 55.0 (36) | 1.6 (63) 3.0 (51) | 8.50 (31) | 5.6 (20) 6.7 (16) |

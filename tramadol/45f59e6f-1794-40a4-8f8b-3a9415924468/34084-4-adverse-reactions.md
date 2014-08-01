@@ -51,6 +51,9 @@ Cardiovascular: Orthostatic hypotension, Syncope, Tachycardia.
 
 Central Nervous System: Abnormal gait, Amnesia, Cognitive dysfunction, Delirium, Depression, Difficulty in concentration, Hallucinations, Movement disorder, Paresthesia, Seizure (see WARNINGS), Speech disorder, Tremor.
 
+Metabolism and Nutrition Disorders: Cases of hypoglycemia have been reported very rarely in patients taking tramadol.
+Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients.
+
 Respiratory: Dyspnea.
 
 Skin: Stevens-Johnson syndrome/Toxic epidermal necrolysis, Urticaria, Vesicles.

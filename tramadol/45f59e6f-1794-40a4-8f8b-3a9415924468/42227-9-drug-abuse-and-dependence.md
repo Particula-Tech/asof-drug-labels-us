@@ -1,5 +1,9 @@
 # DRUG ABUSE AND DEPENDENCE
 
+## Controlled Substance
+
+ULTRAM® (tramadol hydrochloride) Tablets are classified as a Schedule IV controlled substance.
+
 ## Abuse
 
 Tramadol has mu-opioid agonist activity.
