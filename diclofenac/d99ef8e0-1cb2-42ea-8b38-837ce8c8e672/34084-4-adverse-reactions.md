@@ -11,7 +11,7 @@ This population’s mean age was approximately 60 years, 85% of patients were Ca
 The most common adverse events with PENNSAID were application site skin reactions.
 These events were the most common reason for withdrawing from the study.
 
-Application site reactions:
+Application Site Reactions:
 
 In this controlled trial, application site reactions were characterized by one or more of the following: dryness (22%), exfoliation (7%), erythema (4%), pruritus (2%), pain (2%), induration (2%), rash (2%), and scabbing (<1%).
 
@@ -37,12 +37,12 @@ The population mean age was approximately 60 years, 89% of patients were Caucasi
 The most common adverse events with PENNSAID 1.5% were application site skin reactions.
 These events were the most common reason for withdrawing from the studies.
 
-Application site reactions:
+Application Site Reactions:
 
 In controlled trials, application site reactions were characterized by one or more of the following: dryness, erythema, induration, vesicles, paresthesia, pruritus, vasodilation, acne, and urticaria.
 The most frequent of these reactions were dry skin (32%), contact dermatitis characterized by skin erythema and induration (9%), contact dermatitis with vesicles (2%) and pruritus (4%).
 In one controlled trial, a higher rate of contact dermatitis with vesicles (4%) was observed after treatment of 152 subjects with the combination of PENNSAID 1.5% and oral diclofenac.
-In the open label uncontrolled long-term safety study, contact dermatitis occurred in 13% and contact dermatitis with vesicles in 10% of patients, generally within the first 6 months of exposure, leading to a withdrawal rate for an application site event of 14%.
+In the open-label uncontrolled long-term safety study, contact dermatitis occurred in 13% and contact dermatitis with vesicles in 10% of patients, generally within the first 6 months of exposure, leading to a withdrawal rate for an application site event of 14%.
 
 Other Common Adverse Reactions:
 

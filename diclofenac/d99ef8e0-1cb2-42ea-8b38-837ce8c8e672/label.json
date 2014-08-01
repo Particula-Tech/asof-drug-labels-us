@@ -1,16 +1,17 @@
 {
   "application_numbers": [
-    "NDA020947"
+    "NDA204623"
   ],
   "inn": "diclofenac",
   "labeler": "Mallinckrodt, Inc",
   "package_ndcs": [
+    "23635-510-11",
     "23635-510-12"
   ],
   "products": [
     {
       "form": "SOLUTION",
-      "generic": "diclofenac sodium topical solution",
+      "generic": "diclofenac sodium",
       "name": "PENNSAID"
     }
   ],

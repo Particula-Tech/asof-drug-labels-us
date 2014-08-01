@@ -10,7 +10,7 @@ It is not completely understood how reduced synthesis of these compounds results
 
 Diclofenac, the active component of PENNSAID has anti-inflammatory, anti-nociception, and antipyretic effects.
 
-## 12.3 Pharmacokinetics:
+## 12.3 Pharmacokinetics
 
 Absorption:
 

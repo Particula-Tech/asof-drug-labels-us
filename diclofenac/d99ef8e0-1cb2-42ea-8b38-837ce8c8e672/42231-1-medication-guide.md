@@ -1,4 +1,4 @@
-Medication Guide For Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+# Medication Guide For Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
@@ -21,7 +21,7 @@ Ulcers and bleeding:
 
 The chance of a person getting an ulcer or bleeding increases with:
 
-- taking medicines called "corticosteroids" and "anticoagulants"
+- taking medicines called “corticosteroids” and “anticoagulants”
 - longer use
 - smoking
 - drinking alcohol
