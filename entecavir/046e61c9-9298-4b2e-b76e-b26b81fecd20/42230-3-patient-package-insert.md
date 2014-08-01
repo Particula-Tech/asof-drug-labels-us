@@ -92,9 +92,9 @@ How should I take BARACLUDE?
 - •Your healthcare provider will tell you when and how often to take BARACLUDE.
 - •Take BARACLUDE on an empty stomach, at least 2 hours after a meal and at least 2 hours before the next meal.
 
-| •If you are taking BARACLUDE Oral Solution, or giving it to your child, carefully measure the dose with the dosing spoon provided, as follows:•Hold the dosing spoon in an upright (vertical) position and slowly fill it to the measurement line on the dosing spoon that is the same as the prescribed dose. Bring the dosing spoon to eye level to be sure that the level of the BARACLUDE Oral Solution is at the correct measurement line (See Figure 1). | Figure 1 |
+| •If you are taking BARACLUDE Oral Solution, or giving it to your child, carefully measure the dose with the dosing spoon provided, as follows:•Hold the dosing spoon in an upright (vertical) position and slowly fill it to the measurement line on the dosing spoon that is the same as the prescribed dose. Bring the dosing spoon to eye level to be sure that the level of the BARACLUDE Oral Solution is at the correct measurement line (see Figure 1). | Figure 1 |
 | --- | --- |
-| •With the dosing spoon at eye level, holding it with the measurement lines facing you, check that it has been filled to the correct measurement line. The top of the BARACLUDE Oral Solution in the dosing spoon will look curved, not flat. Measure the dose of BARACLUDE Oral Solution at the bottom of the curve. Your dose of BARACLUDE Oral Solution is measured correctly when the bottom of the curve is lined up with the measurement line of the prescribed dose. As an example, Figure 2 shows the right way to measure a 5 mL dose of BARACLUDE (See Figure 2). | Figure 2 |
+| •With the dosing spoon at eye level, holding it with the measurement lines facing you, check that it has been filled to the correct measurement line. The top of the BARACLUDE Oral Solution in the dosing spoon will look curved, not flat. Measure the dose of BARACLUDE Oral Solution at the bottom of the curve. Your dose of BARACLUDE Oral Solution is measured correctly when the bottom of the curve is lined up with the measurement line of the prescribed dose. As an example, Figure 2 shows the right way to measure a 5 mL dose of BARACLUDE (see Figure 2). | Figure 2 |
 
 - 
   - •BARACLUDE Oral Solution should be swallowed directly from the dosing spoon.
@@ -132,7 +132,7 @@ You may report side effects to the FDA at 1-800-FDA-1088.
 
 How should I store BARACLUDE?
 
-- •Store BARACLUDE Tablets or Oral Solution at room temperature, between 68° F to 77° F (20° C to 25° C).
+- •Store BARACLUDE Tablets or Oral Solution at room temperature, between 68°F and 77°F (20°C and 25°C).
 - •Keep BARACLUDE Tablets in a tightly closed container.
 - •Store BARACLUDE Tablets or BARACLUDE Oral Solution in the original carton, and keep the carton out of the light.
 - •Safely throw away BARACLUDE that is out of date or no longer needed.
@@ -171,6 +171,10 @@ Inactive ingredients in BARACLUDE Oral Solution: maltitol, sodium citrate, citri
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Revised: March 2014
+Product of Ireland
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+1323583
+
+Revised: May 2014
