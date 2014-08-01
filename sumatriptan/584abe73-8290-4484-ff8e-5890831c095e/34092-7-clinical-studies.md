@@ -21,15 +21,15 @@ The results from the 3 controlled clinical trials are summarized in Table 2.
 Table 2.
 Percentage of Patients With Headache Response (Mild or No Headache) 2 and 4 Hours Following Treatment
 
-|  | IMITREX Tablets25 mg |  | IMITREX Tablets50 mg |  | IMITREX Tablets100 mg |  | Placebo |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr |  |
-| Trial 1 | 52%a | 67%a | 61%a,b | 78%a,b | 62%a,b | 79%a,b | 27% | 38% |  |
-|  | (n = 298) |  | (n = 296) |  | (n = 296) |  | (n = 94) |  |  |
-| Trial 2 | 52%a | 70%a | 50%a | 68%a | 56%a | 71%a | 26% |  | 38% |
-|  | (n = 66) |  | (n = 62) |  | (n = 66) |  | (n = 65) |  |  |
-| Trial 3 | 52%a | 65%a | 54%a | 72%a | 57%a | 78%a | 17% |  | 19% |
-|  | (n = 48) |  | (n = 46) |  | (n = 46) |  | (n = 47) |  |  |
+|  | IMITREX Tablets25 mg |  | IMITREX Tablets50 mg |  | IMITREX Tablets100 mg |  | Placebo |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr |
+| Trial 1 | 52%a | 67%a | 61%a,b | 78%a,b | 62%a,b | 79%a,b | 27% | 38% |
+|  | (n = 298) |  | (n = 296) |  | (n = 296) |  | (n = 94) |  |
+| Trial 2 | 52%a | 70%a | 50%a | 68%a | 56%a | 71%a | 26% | 38% |
+|  | (n = 66) |  | (n = 62) |  | (n = 66) |  | (n = 65) |  |
+| Trial 3 | 52%a | 65%a | 54%a | 72%a | 57%a | 78%a | 17% | 19% |
+|  | (n = 48) |  | (n = 46) |  | (n = 46) |  | (n = 47) |  |
 
 aP<0.05 in comparison with placebo.
 
@@ -52,9 +52,9 @@ The estimated probability of patients taking a second dose or other medication f
 Figure 2.
 The Estimated Probability of Patients Taking a Second Dose of IMITREX Tablets or Other Medication to Treat Migraine Over the 24 Hours Following the Initial Dose of Study Treatment in Pooled Trials 1, 2, and 3a
 
-- a Kaplan‑ Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
-  Plot also includes patients who had no response to the initial dose.
-  No remedication was allowed within 2 hours postdose.
+a Kaplan‑ Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
+Plot also includes patients who had no response to the initial dose.
+No remedication was allowed within 2 hours postdose.
 
 There is evidence that doses above 50 mg do not provide a greater effect than 50 mg.
 There was no evidence to suggest that treatment with IMITREX Tablets was associated with an increase in the severity of recurrent headaches.

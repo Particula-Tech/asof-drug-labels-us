@@ -52,7 +52,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 A cardiovascular evaluation is recommended for geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving IMITREX Tablets [see Warnings and Precautions (5.1)].
 
-### 8.6 Hepatic Impairment
+## 8.6 Hepatic Impairment
 
 The maximum single dose in patients with mild to moderate hepatic impairment should not exceed 50 mg.
 IMITREX Tablets are contraindicated in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

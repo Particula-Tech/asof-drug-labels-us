@@ -22,7 +22,7 @@ The bioavailability is approximately 15%, primarily due to presystemic metabolis
 The Cmax is similar during a migraine attack and during a migraine‑free period, but the Tmax is slightly later during the attack, approximately 2.5 hours compared with 2.0 hours.
 When given as a single dose, sumatriptan displays dose proportionality in its extent of absorption (area under the curve [AUC]) over the dose range of 25 to 200 mg, but the Cmax after 100 mg is approximately 25% less than expected (based on the 25‑mg dose).
 
-A food effect trial involving administration of IMITREX Tablets 100 mg to healthy volunteers under fasting conditions and with a high‑ fat meal indicated that the Cmax and AUC were increased by 15% and 12%, respectively, when administered in the fed state.
+A food effect trial involving administration of IMITREX Tablets 100 mg to healthy volunteers under fasting conditions and with a high‑ fat meal indicated that the C max and AUC were increased by 15% and 12%, respectively, when administered in the fed state.
 
 Distribution: Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL is low, approximately 14% to 21%.
 The effect of sumatriptan on the protein binding of other drugs has not been evaluated.

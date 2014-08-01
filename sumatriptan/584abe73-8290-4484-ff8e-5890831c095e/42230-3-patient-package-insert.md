@@ -22,7 +22,7 @@ Stop taking IMITREX and get emergency medical help right away if you have any of
 - •discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back
 - •severe tightness, pain, pressure, or heaviness in your chest, throat, neck, or jaw
 - •pain or discomfort in your arms, back, neck, jaw, or stomach
-- • shortness of breath with or without chest discomfort
+- •shortness of breath with or without chest discomfort
 - •breaking out in a cold sweat
 - •nausea or vomiting
 - •feeling lightheaded
@@ -61,20 +61,21 @@ Do not take IMITREX if you have:
   If you are not sure if you have these types of migraines, ask your healthcare provider.
 - •had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
 - •taken any of the following medicines in the last 24 hours:
-  - oalmotriptan (AXERT®)
-  - oeletriptan (RELPAX®)
-  - ofrovatriptan (FROVA®)
-  - onaratriptan (AMERGE®)
-  - orizatriptan (MAXALT®), MAXALT-MLT®)
-  - osumatriptan and naproxen (TREXIMET®)
-  - oergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
-  - odihydroergotamine (D.H.E.
+  - •almotriptan (AXERT®)
+  - •eletriptan (RELPAX®)
+  - •frovatriptan (FROVA®)
+  - •naratriptan (AMERGE®)
+  - •rizatriptan (MAXALT®), MAXALT-MLT®)
+  - •sumatriptan and naproxen (TREXIMET®)
+  - •ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
+  - •dihydroergotamine (D.H.E.
     45®, MIGRANAL®)
 - Ask your healthcare provider if you are not sure if your medicine is listed above.
 
 - •an allergy to sumatriptan or any of the ingredients in IMITREX.
   See the end of this leaflet for a complete list of ingredients in IMITREX.
-- What should I tell my healthcare provider before taking IMITREX?
+
+What should I tell my healthcare provider before taking IMITREX?
 
 Before you take IMITREX, tell your healthcare provider about all of your medical conditions, including if you:
 
@@ -109,19 +110,8 @@ Ask your healthcare provider or pharmacist for a list of these medicines if you 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
 
-- 
-  - 
-    - 
-      - 
-        - 
-          - 
-            - 
-              - 
-                - 
-                  - 
-                    - 
-                      - 
-                        1. How should I take IMITREX?
+How should I take IMITREX?
+
 - •Certain people should take their first dose of IMITREX in their healthcare provider’s office or in another medical setting.
   Ask your healthcare provider if you should take your first dose in a medical setting.
 - •Take IMITREX exactly as your healthcare provider tells you to take it.
@@ -133,9 +123,11 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 - •Do not take more than 200 mg of IMITREX Tablets in a 24‑hour period.
 - •If you take too much IMITREX, call your healthcare provider or go to the nearest hospital emergency room right away.
 - •You should write down when you have headaches and when you take IMITREX so you can talk with your healthcare provider about how IMITREX is working for you.
-- What should I avoid while taking IMITREX?
-- IMITREX can cause dizziness, weakness, or drowsiness.
-  If you have these symptoms, do not drive a car, use machinery, or do anything where you need to be alert.
+
+What should I avoid while taking IMITREX?
+
+IMITREX can cause dizziness, weakness, or drowsiness.
+If you have these symptoms, do not drive a car, use machinery, or do anything where you need to be alert.
 
 What are the possible side effects of IMITREX?
 
@@ -147,34 +139,34 @@ These serious side effects include:
 - •changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
 - •stomach and intestinal problems (gastrointestinal and colonic ischemic events).
   Symptoms of gastrointestinal and colonic ischemic events include:
-  - osudden or severe stomach pain
-  - ostomach pain after meals
-  - oweight loss
-  - onausea or vomiting
-  - oconstipation or diarrhea
-  - obloody diarrhea
-  - ofever
+  - •sudden or severe stomach pain
+  - •stomach pain after meals
+  - •weight loss
+  - •nausea or vomiting
+  - •constipation or diarrhea
+  - •bloody diarrhea
+  - •fever
 - •problems with blood circulation to your legs and feet (peripheral vascular ischemia).
   Symptoms of peripheral vascular ischemia include:
-  - ocramping and pain in your legs or hips
-  - ofeeling of heaviness or tightness in your leg muscles
-  - oburning or aching pain in your feet or toes while resting
-  - onumbness, tingling, or weakness in your legs
-  - ocold feeling or color changes in 1 or both legs or feet
+  - •cramping and pain in your legs or hips
+  - •feeling of heaviness or tightness in your leg muscles
+  - •burning or aching pain in your feet or toes while resting
+  - •numbness, tingling, or weakness in your legs
+  - •cold feeling or color changes in 1 or both legs or feet
 - •hives (itchy bumps); swelling of your tongue, mouth, or throat
 - •medication overuse headaches.
   Some people who use too many IMITREX tablets may have worse headaches (medication overuse headache).
   If your headaches get worse, your healthcare provider may decide to stop your treatment with IMITREX.
 - •serotonin syndrome.
   Serotonin syndrome is a rare but serious problem that can happen in people using IMITREX, especially if IMITREX is used with anti‑depressant medicines called SSRIs or SNRIs.
-- Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
+  Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
 - 
-  - omental changes such as seeing things that are not there (hallucinations), agitation, or coma
-  - ofast heartbeat
-  - ochanges in blood pressure
-  - ohigh body temperature
-  - otight muscles
-  - otrouble walking
+  - •mental changes such as seeing things that are not there (hallucinations), agitation, or coma
+  - •fast heartbeat
+  - •changes in blood pressure
+  - •high body temperature
+  - •tight muscles
+  - •trouble walking
 - •seizures.
   Seizures have happened in people taking IMITREX who have never had seizures before.
   Talk with your healthcare provider about your chance of having seizures while you take IMITREX.

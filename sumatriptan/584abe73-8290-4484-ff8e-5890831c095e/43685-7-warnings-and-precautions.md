@@ -26,8 +26,8 @@ The use of IMITREX Tablets is contraindicated in patients with CAD and those wit
 
 ## 5.4 Cerebrovascular Events
 
-Cerebral hemorrhage, subarachnoid hemorrhage, and stroke have occurred in patients treated with 5-HT1 agonists, and some have resulted in fatalities.
-In a number of cases, it appears possible that the cerebrovascular events were primary, the 5-HT1 agonist having been administered in the incorrect belief that the symptoms experienced were a consequence of migraine when they were not.
+Cerebral hemorrhage, subarachnoid hemorrhage, and stroke have occurred in patients treated with 5-HT 1 agonists, and some have resulted in fatalities.
+In a number of cases, it appears possible that the cerebrovascular events were primary, the 5-HT 1 agonist having been administered in the incorrect belief that the symptoms experienced were a consequence of migraine when they were not.
 Also, patients with migraine may be at increased risk of certain cerebrovascular events (e.g., stroke, hemorrhage, TIA).
 Discontinue IMITREX Tablets if a cerebrovascular event occurs.
 
