@@ -6,18 +6,18 @@ The following adverse reactions are discussed in greater detail in the Warnings 
 - Increased intraocular pressure
 - Thromboembolic events
 
-The most common adverse reactions (≥5%) reported in patients receiving EYLEA were conjunctival hemorrhage, eye pain, cataract, vitreous detachment, vitreous floaters, and increased intraocular pressure.
+The most common adverse reactions (≥5%) reported in patients receiving EYLEA were conjunctival hemorrhage, eye pain, cataract, vitreous floaters, intraocular pressure increased, and vitreous detachment.
 
 ## 6.1 Injection Procedure
 
-Serious adverse reactions related to the injection procedure have occurred in <0.1% of intravitreal injections with EYLEA including endophthalmitis, traumatic cataract, increased intraocular pressure, and vitreous detachment.
+Serious adverse reactions related to the injection procedure have occurred in <0.1% of intravitreal injections with EYLEA including endophthalmitis, retinal detachment, cataract, intraocular pressure increased, and vitreous detachment.
 
 ## 6.2 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in other clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
-A total of 2042 patients treated with EYLEA constituted the safety population in four phase 3 studies.
-Among those, 1441 patients were treated with the recommended dose of 2 mg.
+A total of 2620 patients treated with EYLEA constituted the safety population in six phase 3 studies.
+Among those, 2019 patients were treated with the recommended dose of 2 mg.
 
 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
 
@@ -71,6 +71,30 @@ Table 2: Most Common Adverse Reactions (≥1%) in CRVO Studies
 
 Less common adverse reactions reported in <1% of the patients treated with EYLEA were cataract, eyelid edema, corneal edema, retinal tear, hypersensitivity, and endophthalmitis.
 
+Diabetic Macular Edema (DME)
+
+The data described below reflect exposure to EYLEA in 578 patients with DME treated with the 2-mg dose in 2 double-masked, controlled clinical studies (VIVID and VISTA) for 52 weeks [see Clinical Studies (14.3)].
+
+Table 3: Most Common Adverse Reactions (≥1%) in DME Studies
+
+| Adverse Reactions | EYLEA (N=578) | Control (N=287) |
+| --- | --- | --- |
+| Conjunctival hemorrhage | 28% | 17% |
+| Eye pain | 9% | 6% |
+| Cataract | 8% | 9% |
+| Vitreous floaters | 6% | 3% |
+| Corneal erosion | 5% | 3% |
+| Intraocular pressure increased | 5% | 3% |
+| Conjunctival hyperemia | 5% | 6% |
+| Vitreous detachment | 3% | 3% |
+| Foreign body sensation in eyes | 3% | 3% |
+| Lacrimation increased | 3% | 2% |
+| Vision blurred | 2% | 2% |
+| Intraocular inflammation | 2% | <1% |
+| Injection site pain | 2% | <1% |
+
+Less common adverse reactions reported in <1% of the patients treated with EYLEA were hypersensitivity, eyelid edema, corneal edema, retinal detachment, injection site hemorrhage, and retinal tear.
+
 ## 6.3 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for an immune response in patients treated with EYLEA.
@@ -79,6 +103,6 @@ The immunogenicity data reflect the percentage of patients whose test results we
 The detection of an immune response is highly dependent on the sensitivity and specificity of the assays used, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to EYLEA with the incidence of antibodies to other products may be misleading.
 
-In the wet AMD and CRVO studies, the pre-treatment incidence of immunoreactivity to EYLEA was 1% to 3% across treatment groups.
-After dosing with EYLEA for 52 weeks (wet AMD), or 24 weeks (CRVO), antibodies to EYLEA were detected in a similar percentage range of patients.
-Both in the wet AMD and in the CRVO studies, there were no differences in efficacy or safety between patients with or without immunoreactivity.
+In the wet AMD, CRVO, and DME studies, the pre-treatment incidence of immunoreactivity to EYLEA was approximately 1% to 3% across treatment groups.
+After dosing with EYLEA for 52 weeks (wet AMD), 24 weeks (CRVO), or 52 weeks (DME), antibodies to EYLEA were detected in a similar percentage range of patients.
+In the wet AMD, CRVO, and DME studies, there were no differences in efficacy or safety between patients with or without immunoreactivity.

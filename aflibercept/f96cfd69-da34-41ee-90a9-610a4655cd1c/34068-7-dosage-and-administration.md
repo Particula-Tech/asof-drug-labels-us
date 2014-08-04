@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosing Information
 
-FOR OPHTHALMIC INTRAVITREAL INJECTION ONLY.
+FOR OPHTHALMIC INTRAVITREAL INJECTION.
 EYLEA must only be administered by a qualified physician.
 
 ## 2.2 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
@@ -14,7 +14,12 @@ Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (monthly), addit
 
 The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection once every 4 weeks (monthly) [see Clinical Studies (14.2)].
 
-## 2.4 Preparation for Administration
+## 2.4 Diabetic Macular Edema (DME)
+
+The recommended dose for EYLEA is 2 mg (0.05 mL or 50 microliters) administered by intravitreal injection every 4 weeks (monthly) for the first 5 injections, followed by 2 mg (0.05 mL) via intravitreal injection once every 8 weeks (2 months).
+Although EYLEA may be dosed as frequently as 2 mg every 4 weeks (monthly), additional efficacy was not demonstrated when EYLEA was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.3)].
+
+## 2.5 Preparation for Administration
 
 EYLEA should be inspected visually prior to administration.
 If particulates, cloudiness, or discoloration are visible, the vial must not be used.
@@ -42,7 +47,7 @@ The glass vial is for single use only.
     If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 6).
 11. To eliminate all of the bubbles and to expel excess drug, SLOWLY depress the plunger so that the plunger tip aligns with the line that marks 0.05 mL on the syringe (see Figures 7a and 7b).
 
-## 2.5 Administration
+## 2.6 Administration
 
 The intravitreal injection procedure should be carried out under controlled aseptic conditions, which include surgical hand disinfection and the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
 Adequate anesthesia and a topical broad–spectrum microbicide should be given prior to the injection.

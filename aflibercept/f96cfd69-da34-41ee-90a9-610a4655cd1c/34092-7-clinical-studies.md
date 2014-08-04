@@ -11,14 +11,14 @@ In both studies, the primary efficacy endpoint was the proportion of patients wh
 Data are available through week 52.
 Both EYLEA 2Q8 and EYLEA 2Q4 groups were shown to have efficacy that was clinically equivalent to the ranibizumab 0.5 mg Q4 group.
 
-Detailed results from the analysis of the VIEW1 and VIEW2 studies are shown in Table 3 and Figure 8 below.
+Detailed results from the analysis of the VIEW1 and VIEW2 studies are shown in Table 4 and Figure 8 below.
 
-Table 3: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIEW1 and VIEW2 Studies
+Table 4: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIEW1 and VIEW2 Studies
 
-|  | VIEW1 |  |  | VIEW2 |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | EYLEA 2 mg Q8 weeks After treatment initiation with 3 monthly doses | EYLEA 2 mg Q4 weeks | ranibizumab 0.5 mg Q4 weeks | EYLEA 2 mg Q8 weeks | EYLEA 2 mg Q4 weeks | ranibizumab 0.5 mg Q4 weeks |
 | Full Analysis Set | N=301 | N=304 | N=304 | N=306 | N=309 | N=291 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | VIEW1 |  |  | VIEW2 |  |  |
+|  | EYLEA 2 mg Q8 weeks After treatment initiation with 3 monthly doses | EYLEA 2 mg Q4 weeks | ranibizumab 0.5 mg Q4 weeks | EYLEA 2 mg Q8 weeks | EYLEA 2 mg Q4 weeks | ranibizumab 0.5 mg Q4 weeks |
 | Efficacy Outcomes |  |  |  |  |  |  |
 | Proportion of patients who maintained visual acuity (%) (<15 letters of BCVA loss) | 94% | 95% | 94% | 95% | 95% | 95% |
 | DifferenceEYLEA group minus the ranibizumab group (%) (95.1% CI) | 0.6 (-3.2, 4.4) | 1.3 (-2.4, 5.0) |  | 0.6 (-2.9, 4.0) | -0.3 (-4.0, 3.3) |  |
@@ -40,9 +40,9 @@ Patient ages ranged from 22 to 89 years with a mean of 64 years.
 In both studies, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA compared to baseline.
 At week 24, the EYLEA 2 mg Q4 group was superior to the control group for the primary endpoint.
 
-Results from the analysis of the COPERNICUS and GALILEO studies are shown in Table 4 and Figure 9 below.
+Results from the analysis of the COPERNICUS and GALILEO studies are shown in Table 5 and Figure 9 below.
 
-Table 4: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in COPERNICUS and GALILEO Studies
+Table 5: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in COPERNICUS and GALILEO Studies
 
 |  | N=73 | N=114 | N=68 | N=103 |
 | --- | --- | --- | --- | --- |
@@ -57,3 +57,36 @@ Table 4: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in COPERNICU
 Figure 9: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in COPERNICUS and GALILEO Studies
 
 Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline visual acuity, retinal perfusion status, and CRVO duration) in each study and in the combined analysis were in general consistent with the results in the overall populations.
+
+## 14.3 Diabetic Macular Edema (DME)
+
+The safety and efficacy of EYLEA were assessed in two randomized, multi-center, double-masked, controlled studies in patients with DME.
+A total of 862 randomized and treated patients were evaluable for efficacy.
+Patient ages ranged from 23 to 87 years with a mean of 63 years.
+
+Of those, 576 were randomized to EYLEA groups in the two studies (VIVID and VISTA).
+In each study, patients were randomly assigned in a 1:1:1 ratio to 1 of 3 dosing regimens: 1) EYLEA administered 2 mg every 8 weeks following 5 initial monthly injections (EYLEA 2Q8); 2) EYLEA administered 2 mg every 4 weeks (EYLEA 2Q4); and 3) macular laser photocoagulation (at baseline and then as needed).
+Beginning at week 24, patients meeting a pre-specified threshold of vision loss were eligible to receive additional treatment: patients in the EYLEA groups could receive laser and patients in the laser group could receive EYLEA.
+
+In both studies, the primary efficacy endpoint was the mean change from baseline in BCVA at week 52 as measured by ETDRS letter score.
+Efficacy of both EYLEA 2Q8 and EYLEA 2Q4 groups was statistically superior to the control group.
+
+Results from the analysis of the VIVID and VISTA studies are shown in Table 6 and Figure 10 below.
+
+Table 6: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIVID and VISTA Studies
+
+| Full Analysis Set | N=135 | N=136 | N=132 | N=151 | N=154 | N=154 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | VIVID |  |  | VISTA |  |  |
+|  | EYLEA 2 mg Q8 weeks After treatment initiation with 5 monthly injections | EYLEA 2 mg Q4 weeks | Control | EYLEA 2 mg Q8 weeks | EYLEA 2 mg Q4 weeks | Control |
+| Efficacy Outcomes |  |  |  |  |  |  |
+| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 10.7 (9.3) | 10.5 (9.6) | 1.2 (10.6) | 10.7 (8.2) | 12.5 (9.5) | 0.2 (12.5) |
+| DifferenceLS mean and CI based on an ANCOVA model with baseline BCVA measurement as a covariate and a factor for treatment group. Additionally, protocol specified stratification factors were included in the model., Difference is EYLEA group minus control group in LS mean (97.5% CI) | 9.1 p-value <0.01 compared with control (6.3, 11.8) | 9.3 (6.5, 12.0) |  | 10.5 (7.7, 13.2) | 12.2 (9.4, 15.0) |  |
+| Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 33.3% | 32.4% | 9.1% | 31.1% | 41.6% | 7.8% |
+| Adjusted Difference, Difference with confidence interval (CI) and statistical test is calculated using Mantel-Haenszel weighting scheme adjusted by protocol specified stratification factors. (%) (97.5% CI) | 24.2% (13.5, 34.9) | 23.3% (12.6, 33.9) |  | 23.3% (13.5, 33.1) | 34.2% (24.1, 44.4) |  |
+
+Figure 10: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 52 in VIVID and VISTA Studies
+
+Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor prior to study participation were similar to those seen in patients who were VEGF inhibitor naïve prior to study participation.
+
+Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity, prior anti-VEGF therapy) in each study were in general consistent with the results in the overall populations.
