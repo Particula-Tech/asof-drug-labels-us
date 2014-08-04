@@ -69,17 +69,18 @@ There is no information available on the effects of guanfacine on the course of 
 ## Nursing Mothers:
 
 It is not known whether guanfacine is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when guanfacine hydrochloride is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when guanfacine is administered to a nursing woman.
 Experiments with rats have shown that guanfacine is excreted in the milk.
 
 ## Pediatric Use:
 
-Safety and effectiveness in pediatric patients under 12 years of age have not been demonstrated.
+Safety and effectiveness in children under 12 years of age have not been demonstrated.
 Therefore, the use of guanfacine in this age group is not recommended.
 There have been spontaneous postmarketing reports of mania and aggressive behavioral changes in pediatric patients with attention-deficit hyperactivity disorder (ADHD) receiving guanfacine.
 The reported cases were from a single center.
 All patients had medical or family risk factors for bipolar disorder.
 All patients recovered upon discontinuation of guanfacine HCl.
+Hallucinations have been reported in pediatric patients receiving guanfacine for treatment of attention-deficit hyperactivity disorder.
 
 ## Geriatric Use:
 

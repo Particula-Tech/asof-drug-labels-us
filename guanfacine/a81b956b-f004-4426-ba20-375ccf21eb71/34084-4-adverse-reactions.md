@@ -27,7 +27,7 @@ The percent of patients who dropped out because of adverse reactions are shown b
 
 The most common reasons for dropouts among patients who received guanfacine were dry mouth, somnolence, dizziness, fatigue, weakness, and constipation.
 
-In the 12-week placebo-controlled, dose-response study of guanfacine administered with 25 mg chlorthalidone at bedtime, the frequency of the most commonly observed adverse reactions showed a clear dose relationship from 0.5 to 3 mg as follows:
+In the 12-week, placebo-controlled, dose-response study of guanfacine administered with 25 mg chlorthalidone at bedtime, the frequency of the most commonly observed adverse reactions showed a clear dose relationship from 0.5 to 3 mg as follows:
 
 | Adverse Reaction | n = 73 | n = 72 | n = 72 | n = 72 | n = 72 |
 | --- | --- | --- | --- | --- | --- |
@@ -107,7 +107,7 @@ The mean daily dose of guanfacine reached was 4.7 mg.
 There were 52 (8.9%) dropouts due to adverse effects in this 1-year trial.
 The causes were: dry mouth (n=20), weakness (n=12), constipation (n=7), somnolence (n=3), nausea (n=3), orthostatic hypotension (n=2), insomnia (n=1), rash (n=1), nightmares (n=1), headache (n=1), and depression (n=1).
 
-Postmarketing Experience: An open-label postmarketing study involving 21,718 patients was conducted to assess the safety of guanfacine (as the hydrochloride) 1 mg/day given at bedtime for 28 days.
+Postmarketing Experience: An open-label postmarketing study involving 21,718 patients was conducted to assess the safety of guanfacine hydrochloride 1 mg/day given at bedtime for 28 days.
 Guanfacine was administered with or without other antihypertensive agents.
 Adverse events reported in the postmarketing study at an incidence greater than 1% included dry mouth, dizziness, somnolence, fatigue, headache, and nausea.
 The most commonly reported adverse events in this study were the same as those observed in controlled clinical trials.
@@ -130,7 +130,7 @@ MUSCULOSKELETAL SYSTEM: arthralgia, leg cramps, leg pain, myalgia
 
 PSYCHIATRIC: agitation, anxiety, confusion, depression, insomnia, nervousness
 
-REPRODUCTIVE SYSTEM, MALE: impotence
+REPRODUCTIVE SYSTEM, Male: impotence
 
 RESPIRATORY SYSTEM: dyspnea
 

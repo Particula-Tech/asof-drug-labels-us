@@ -35,12 +35,12 @@ Mean Decreases (mm Hg) in Seated and Standing Blood Pressure for Patients Treate
 While most of the effectiveness of guanfacine in combination (and as monotherapy in white patients) was present at 1 mg, adverse reactions at this dose were not clearly distinguishable from those associated with placebo.
 Adverse reactions were clearly present at 2 and 3 mg (see ADVERSE REACTIONS).
 
-In a second 12-week placebo-controlled study 1, 2, or 3 mg of guanfacine hydrochloride administered with 25 mg chlorthalidone once daily, a significant decrease in blood pressure was maintained for a full 24 hours after dosing.
+In a second 12-week placebo-controlled study of 1, 2, or 3 mg of guanfacine hydrochloride administered with 25 mg of chlorthalidone once daily, a significant decrease in blood pressure was maintained for a full 24 hours after dosing.
 While there was no significant difference between the 12 and 24 hour blood pressure readings, the fall in blood pressure at 24 hours was numerically smaller, suggesting possible escape of blood pressure in some patients and the need for individualization of therapy.
 
 In a double-blind, randomized trial, either guanfacine or clonidine was given at recommended doses with 25 mg chlorthalidone for 24 weeks and then abruptly discontinued.
 Results showed equal degrees of blood pressure reduction with the two drugs and there was no tendency for blood pressures to increase despite maintenance of the same daily dose of the two drugs.
-Sign and symptoms of rebound phenomena were infrequent upon discontinuation of either drug.
+Signs and symptoms of rebound phenomena were infrequent upon discontinuation of either drug.
 Abrupt withdrawal of clonidine produced a rapid return of diastolic and especially, systolic blood pressure to approximately pretreatment levels, with occasional values significantly greater than baseline, whereas guanfacine withdrawal produced a more gradual increase to pretreatment levels, but also with occasional values significantly greater than baseline.
 
 ## Pharmacodynamics:
