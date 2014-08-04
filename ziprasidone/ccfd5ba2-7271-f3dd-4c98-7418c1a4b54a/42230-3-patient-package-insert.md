@@ -4,6 +4,8 @@ PATIENT SUMMARY OF INFORMATION ABOUT
 
 Ziprasidone Hydrochloride Capsules
 
+(zi pras' i done hye" droe klor" ide)
+
 Information for patients taking ziprasidone hydrochloride capsules or their caregivers
 
 This summary contains important information about ziprasidone hydrochloride capsules.
@@ -173,6 +175,6 @@ Toronto, Ontario Weston, Florida
 
 Canada M9L 1T9 33326
 
-Revised: September 2013
+Revised: July 2014
 
-Revision: 7
+Revision: 8

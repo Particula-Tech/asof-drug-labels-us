@@ -194,7 +194,9 @@ In the same long-term studies, the proportion of subjects with ≥ 7% increase i
 In a long-term (at least 1 year), placebo-controlled, fixed-dose study in schizophrenia, the mean change from baseline weight for ziprasidone 20 mg BID was -2.6 kg (N=72); for ziprasidone 40 mg BID was -3.3 kg (N=69); for ziprasidone 80 mg BID was -2.8 kg (N=70) and for placebo was -3.8 kg (N=70).
 In the same long-term fixed-dose schizophrenia study, the proportion of subjects with ≥ 7% increase in weight from baseline for ziprasidone 20 mg BID was 5.6% (N=72); for ziprasidone 40 mg BID was 2.9% (N=69); for ziprasidone 80 mg BID was 5.7% (N=70) and for placebo was 2.9% (N=70).
 
-Schizophrenia - The proportions of patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
+Schizophrenia
+
+The proportions of patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
 A median weight gain of 0.5 kg was observed in ziprasidone patients compared to no median weight change in placebo patients.
 In this set of clinical trials, weight gain was reported as an adverse reaction in 0.4% and 0.4% of ziprasidone and placebo patients, respectively.
 During long-term therapy with ziprasidone, a categorization of patients at baseline on the basis of body mass index (BMI) revealed the greatest mean weight gain and highest incidence of clinically significant weight gain (> 7% of body weight) in patients with low BMI (<23) compared to normal (23 to 27) or overweight patients (>27).
@@ -215,7 +217,7 @@ Syncope was reported in 0.6% of the patients treated with ziprasidone.
 
 Ziprasidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 
-## 5.8 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.8 Leukopenia, Neutropenia, Agranulocytosis
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents.
 Agranulocytosis (including fatal cases) has also been reported.
@@ -272,7 +274,7 @@ Appropriate care is advised when prescribing ziprasidone for patients who will b
 The possibility of a suicide attempt is inherent in psychotic illness or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ziprasidone should be written for the smallest quantity of capsules consistent with good patient management in order to reduce the risk of overdose.
 
-## 5.16 Patients with concomitant illnesses
+## 5.16 Patients with concomitant Illnesses
 
 Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6), (8.7)]
 
