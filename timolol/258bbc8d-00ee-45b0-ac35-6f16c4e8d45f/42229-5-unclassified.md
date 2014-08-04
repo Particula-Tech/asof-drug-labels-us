@@ -13,3 +13,7 @@ SENJU Pharmaceutical Co., Ltd Osaka, Japan 541-0046
 ®/TM are trademarks of Bausch & Lomb Incorporated or its affiliates.
 
 © Bausch & Lomb Incorporated
+
+9401500 (Folded)
+
+Revised: 6/2013
