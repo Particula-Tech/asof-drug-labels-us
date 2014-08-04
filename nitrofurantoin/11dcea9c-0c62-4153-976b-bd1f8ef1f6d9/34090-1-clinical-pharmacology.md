@@ -20,8 +20,8 @@ Although cross-resistance with other antimicrobials may occur, cross-resistance 
 
 Interaction with Other Antimicrobials
 
-Antagonism has been demonstration in vitro between nitrofurantoin and quinolone antimicrobial agents.
-Nitrofurantoin, in the form of nitrofurantoin oral suspension, has been shown to be active against most strains of the following bacteria both in vitro and in clinical infections: (see INDICATIONS AND USAGE).
+Antagonism has been demonstrated in vitro between nitrofurantoin and quinolone antimicrobial agents.
+Nitrofurantoin, in the form of nitrofurantoin oral suspension, has been shown to be active against most of the following bacteria both in vitro and in clinical infections: (see INDICATIONS AND USAGE).
 
 Gram-positive Aerobes
 
@@ -59,7 +59,7 @@ It has no activity against Pseudomonas species.
 
 Susceptibility Test Methods
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nonsocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
 Dilution Techniques

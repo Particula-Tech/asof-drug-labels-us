@@ -15,14 +15,13 @@ It can be used to calculate an average dose of nitrofurantoinoral suspension, US
 
 Table 3: Pediatric Dosing Table
 
-| Body Weight |  | Pediatric Doses |
+| Weight in Kilograms (kg) |  | Pediatric Doses (milliliters) and Frequency |
 | --- | --- | --- |
-| Pounds | Kilograms (kg) | FourTimes Daily |
-| 15 to 26 | 7 to 11 | ½ tsp (2.5 mL) |
-| 27 to 46 | 12 to 21 | 1 tsp (5 mL) |
-| 47 to 68 | 22 to 30 | 1 ½ tsp (7.5 mL) |
-| 69 to 91 | 31 to 41 | 2 tsp (10 mL) |
-| 92 or greater | 42 or greater | See Adult Dose |
+| 7 kg to 11 kg |  | 2.5 mL Four times Daily |
+| 12 kg to 21 kg |  | 5 mL Four times Daily |
+| 22 kg to 30 kg |  | 7.5 mL Four times Daily |
+| 31 kg to 41 kg |  | 10 mL Four times Daily |
+| 42 kg or greater |  | See Adult Dose |
 
 Therapy should be continued for one week or for at least 3 days after sterility of the urine is obtained.
 Continued infection indicates the need for reevaluation.
