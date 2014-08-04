@@ -3,7 +3,7 @@
 Serious adverse reactions with anastrozole occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
 This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see Adverse Reactions (6.2)].
 
-Common adverse reactions (occurring with an incidence of ≥ 10%) in women taking anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
+Common adverse reactions (occurring with an incidence of ≥ 10%) in women taking anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
 In the ATAC trial, the most common reported adverse reaction (> 0.1%) leading to discontinuation of therapy for both treatment groups was hot flashes, although there were fewer patients who discontinued therapy as a result of hot flashes in the anastrozole group.
 
@@ -87,28 +87,28 @@ Table 1 - Adverse Reactions Occurring With an Incidence of at Least 5% in Either
 
 Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (seeTable 2).
 
-Table 2 — Number of Patients With Pre-Specified Adverse Reactions in ATAC Trial Patients with multiple events in the same category are counted only once in that category.
+Table 2 — Number of Patients With Pre-Specified Adverse Reactions in ATAC TrialPatients with multiple events in the same category are counted only once in that category.
 
 |  | Anastrozole N = 3092 (%) | Tamoxifen N = 3094 (%) | Odds- ratio | 95% CI |
 | --- | --- | --- | --- | --- |
-| Hot Flashes | 1104 (36) | 1264 (41) | 0.8 | 0.73 to 0.89 |
+| Hot Flashes | 1104 (36) | 1264 (41) | 0.80 | 0.73 to 0.89 |
 | Musculoskeletal EventsRefers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 1100 (36) | 911 (29) | 1.32 | 1.19 to 1.47 |
 | Fatigue/Asthenia | 575 (19) | 544 (18) | 1.07 | 0.94 to 1.22 |
-| Mood Disturbances | 597 (19) | 554 (18) | 1.1 | 0.97 to 1.25 |
+| Mood Disturbances | 597 (19) | 554 (18) | 1.10 | 0.97 to 1.25 |
 | Nausea and Vomiting | 393 (13) | 384 (12) | 1.03 | 0.88 to 1.19 |
-| All Fractures | 315 (10) | 209 (7) | 1.57 | 1.3 to 1.88 |
+| All Fractures | 315 (10) | 209 (7) | 1.57 | 1.30 to 1.88 |
 | Fractures of Spine, Hip, or Wrist | 133 (4) | 91 (3) | 1.48 | 1.13 to 1.95 |
 | Wrist/Colles’ fractures | 67 (2) | 50 (2) |  |  |
 | Spine fractures | 43 (1) | 22 (1) |  |  |
 | Hip fractures | 28 (1) | 26 (1) |  |  |
 | Cataracts | 182 (6) | 213 (7) | 0.85 | 0.69 to 1.04 |
-| Vaginal Bleeding | 167 (5) | 317 (10) | 0.5 | 0.41 to 0.61 |
-| Ischemic Cardiovascular Disease | 127 (4) | 104 (3) | 1.23 | 0.95 to 1.6 |
-| Vaginal Discharge | 109 (4) | 408 (13) | 0.24 | 0.19 to 0.3 |
-| Venous Thromboembolic Events | 87 (3) | 140 (5) | 0.61 | 0.47 to 0.8 |
+| Vaginal Bleeding | 167 (5) | 317 (10) | 0.50 | 0.41 to 0.61 |
+| Ischemic Cardiovascular Disease | 127 (4) | 104 (3) | 1.23 | 0.95 to 1.60 |
+| Vaginal Discharge | 109 (4) | 408 (13) | 0.24 | 0.19 to 0.30 |
+| Venous Thromboembolic Events | 87 (3) | 140 (5) | 0.61 | 0.47 to 0.80 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 to 0.93 |
-| Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.7 | 0.5 to 0.97 |
-| Endometrial CancerPercentages calculated based upon the numbers of patients with an intact uterus at baseline. | 4 (0.2) | 13 (0.6) | 0.31 | 0.1 to 0.94 |
+| Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.70 | 0.50 to 0.97 |
+| Endometrial CancerPercentages calculated based upon the numbers of patients with an intact uterus at baseline. | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 to 0.94 |
 
 Ischemic Cardiovascular Events
 
@@ -255,7 +255,7 @@ Adverse reactions reported in greater than 5% of the patients in any of the trea
 
 Table 5 - Number (N) and Percentage of Patients With Adverse Reactions in Trials 0004 and 0005
 
-| Adverse ReactionA patient may have had more than one adverse reaction. | Anastrozole 1 mg (N = 262) |  | Anastrozole 10 mg (N = 246) |  | Megesterol Acetate 160 mg (N = 253) |  |
+| Adverse ReactionA patient may have had more than one adverse reaction. | Anastrozole1 mg(N = 262) |  | Anastrozole10 mg(N = 246) |  | Megesterol Acetate160 mg(N = 253) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % |
 | Asthenia | 42 | (16) | 33 | (13) | 47 | (19) |
@@ -320,8 +320,9 @@ Table 6 — Number (n) and Percentage of Patients With Pre-Specified Adverse Rea
 
 |  | Anastrozole |  | Anastrozole |  | Megestrol Acetate |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | 1 mg (N = 262) |  | 10 mg (N = 246) |  | 160 mg (N = 253) |  |
-| Adverse Reaction Group | n | (%) | n | (%) | n | (%) |
+|  | 1 mg(N = 262) |  | 10 mg(N = 246) |  | 160 mg(N = 253) |  |
+|  | n | (%) | n | (%) | n | (%) |
+| Adverse Reaction Group |  |  |  |  |  |  |
 | Gastrointestinal Disturbance | 77 | (29) | 81 | (33) | 54 | (21) |
 | Hot Flushes | 33 | (13) | 29 | (12) | 35 | (14) |
 | Edema | 19 | (7) | 28 | (11) | 35 | (14) |

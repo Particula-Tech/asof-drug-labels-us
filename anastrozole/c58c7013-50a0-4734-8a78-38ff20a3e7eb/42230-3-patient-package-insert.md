@@ -34,7 +34,7 @@ Do not take anastrozole tablets if you:
   - have not gone through menopause (are premenopausal).
   - have had a severe allergic reaction to anastrozole tablets or any of the ingredients in anastrozole tablets.
     See the end of this leaflet for a complete list of ingredients in anastrozole tablets.
-    Symptoms of a severe allergic reaction to anastrozole tablets include: swelling of the face, lips, tongue or throat, trouble breathing or swallowing, hives and itching.
+    Symptoms of a severe allergic reaction to anastrozole tablets include: swelling of the face, lips, tongue, or throat, trouble breathing or swallowing, hives and itching.
 
 What should I tell my doctor before taking anastrozole tablets?
 
@@ -133,6 +133,8 @@ Common side effects in women taking anastrozole tablets include:
   - shortness of breath
   - build up of lymph fluid in the tissues of your affected arm (lymphedema)
 
+Anastrozole tablets may also cause you to have tickling, tingling or numbness of your skin.
+
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of anastrozole.
@@ -179,4 +181,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-B 6/2013
+C 5/2014

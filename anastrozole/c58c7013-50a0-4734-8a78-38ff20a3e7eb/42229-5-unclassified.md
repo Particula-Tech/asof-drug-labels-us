@@ -1,1 +1,0 @@
-FDA-Approved Patient Labeling

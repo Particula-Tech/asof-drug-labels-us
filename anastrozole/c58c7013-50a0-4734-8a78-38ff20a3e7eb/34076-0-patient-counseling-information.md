@@ -26,11 +26,15 @@ A possible consequence of decreased mineral content of bones is an increase in t
 
 Patients should be informed that an increased level of cholesterol might be seen while receiving anastrozole.
 
-## 17.6 Tamoxifen
+## 17.6 Tickling, Tingling or Numbness
+
+Patients should be informed that if they experience tickling, tingling, or numbness they should notify their health care provider.
+
+## 17.7 Tamoxifen
 
 Patients should be advised not to take anastrozole with tamoxifen.
 
-## 17.7 Missed Doses
+## 17.8 Missed Doses
 
 Inform patients that if they miss a dose, take it as soon as they remember.
 If it is almost time for their next dose, skip the missed dose and take the next regularly scheduled dose.
@@ -52,4 +56,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-F 6/2013
+G 5/2014
