@@ -12,24 +12,28 @@ Oral Solution
 
 Each mL contains 5 mg of lamivudine.
 
-Rx only
-
 240 mL
+
+Rx only
 
 See prescribing information for dosage information.
 
 Store at controlled room temperature of 20o to 25oC (68o to 77oF) (see USP) in tightly closed bottles.
 
+EPIVIR-HBV is a registered trademark of the GlaxoSmithKline group of companies
+
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709 Manufactured under agreement from Shire Pharmaceuticals Group plc
+Research Triangle Park, NC 27709
+
+Manufactured under agreement from Shire Pharmaceuticals Group plc
 
 Basingstoke, UK
 
-Made in Singapore
+Made in Canada
 
-A074011 Rev.
-11/09
+A126384 Rev.
+5/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -39,7 +43,9 @@ Epivir-HBV®
 
 (lamivudine)
 
-Tablets 100 mg
+Tablets
+
+100 mg
 
 60 Tablets
 
@@ -55,13 +61,15 @@ Do not use if printed safety seal under cap is broken or missing.
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709 Manufactured under agreement from Shire Pharmaceuticals Group plc
+Research Triangle Park, NC 27709
+
+Manufactured under agreement from Shire Pharmaceuticals Group plc
 
 Basingstoke, UK
 
-Made in Singapore
+Made in Canada
 
-©2010, GlaxoSmithKline
+Epivir-HBV is a registered trademark
 
-A079159 Rev.
-4/10
+A124352 Rev.
+4/14

@@ -143,7 +143,7 @@ Over the 5-year treatment period, the proportion of subjects who developed YMDD-
 In a controlled trial, treatment-naive subjects with HBeAg-positive CHB were treated with EPIVIR-HBV or EPIVIR-HBV plus adefovir dipivoxil combination therapy.
 Following 104 weeks of therapy, YMDD-mutant HBV was detected in 7 of 40 (18%) subjects receiving combination therapy compared with 15 of 35 (43%) subjects receiving therapy with only EPIVIR-HBV.
 In another controlled trial, combination therapy was evaluated in adult subjects with HBeAg-positive CHB who had YMDD-mutant HBV and diminished clinical and virologic response to EPIVIR-HBV.
-Following 52 weeks of EPIVIR-HBV plus adefovir dipivoxil combination therapy (n = 46) or therapy with only EPIVIR-HBV (n = 49), YMDD‑mutant HBV was detected less frequently in subjects receiving combination therapy, 62% versus 96.
+Following 52 weeks of EPIVIR-HBV plus adefovir dipivoxil combination therapy (n = 46) or therapy with only EPIVIR-HBV (n = 49), YMDD‑mutant HBV was detected less frequently in subjects receiving combination therapy, 62% versus 96%.
 
 A published trial suggested that the rates of lamivudine resistance in subjects treated for HBeAg-negative CHB appear to be more variable (0% to 27% at 1 year and 10% to 56% at 2 years).
 
