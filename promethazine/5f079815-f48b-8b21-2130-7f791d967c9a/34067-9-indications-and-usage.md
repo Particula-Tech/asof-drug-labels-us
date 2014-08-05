@@ -1,6 +1,6 @@
-# INDICATIONS & USAGE
+# INDICATIONS AND USAGE
 
-Promethazine HCl Suppositories are useful for: Perennial and seasonal allergic rhinitis.
+Promethazine HCl Suppositories, USP are useful for: Perennial and seasonal allergic rhinitis.
 Vasomotor rhinitis.
 Allergic conjunctivitis due to inhalant allergens and foods.
 Mild, uncomplicated allergic skin manifestations of urticaria and angioedema.

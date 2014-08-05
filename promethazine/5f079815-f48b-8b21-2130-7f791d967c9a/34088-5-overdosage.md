@@ -1,12 +1,11 @@
 # OVERDOSAGE
 
-Signs and symptoms of overdosage with promethazine HCl range from mild depression of the central nervous system and cardiovascular system to profound hypotension, respiratory depression, unconsciousness, and sudden death.
+Signs and symptoms of overdosage with promethazine HCl range from mild depression of the central nervous system and cardiovascular system to profound hypotension, respiratory depression, and unconsciousness, and sudden death.
 Other reported reactions include hyperreflexia, hypertonia, ataxia, athetosis, and extensor-plantar reflexes (Babinski reflex).
 Stimulation may be evident, especially in children and geriatric patients.
 Convulsions may rarely occur.
 A paradoxical-type reaction has been reported in children receiving single doses of 75 mg to 125 mg orally, characterized by hyperexcitability and nightmares.
 Atropine-like signs and symptoms-dry mouth, fixed, dilated pupils, flushing, as well as gastrointestinal symptoms-may occur.
-
 Treatment Treatment of overdosage is essentially symptomatic and supportive.
 Only in cases of extreme overdosage or individual sensitivity do vital signs, including respiration, pulse, blood pressure, temperature, and EKG, need to be monitored.
 Activated charcoal orally or by lavage may be given, or sodium or magnesium sulfate orally as a cathartic.
