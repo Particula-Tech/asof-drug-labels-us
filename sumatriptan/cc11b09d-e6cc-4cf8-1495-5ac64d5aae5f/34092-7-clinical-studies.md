@@ -21,7 +21,7 @@ Note that, in general, comparisons of results obtained in trials conducted under
 Table 2.
 Percentage of Patients With Headache Response (No or Mild Pain) 2 Hours Following Treatment
 
-|  | IMITREX Nasal Spray5 mg | IMITREX Nasal Spray10 mg | IMITREXNasal Spray20 mg | Placebo |
+|  | IMITREXNasal Spray5 mg | IMITREX Nasal Spray10 mg | IMITREXNasal Spray20 mg | Placebo |
 | --- | --- | --- | --- | --- |
 | Trial 1 | 49%a | 46%a | 64%a,b,c | 25% |
 |  | (n = 121) | (n = 112) | (n = 118) | (n = 63) |

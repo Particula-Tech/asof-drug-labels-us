@@ -22,7 +22,7 @@ Nursing Mothers: Advise patients to notify their healthcare provider if they are
 
 Ability to Perform Complex Tasks: Treatment with IMITREX Nasal Spray may cause somnolence and dizziness; instruct patients to evaluate their ability to perform complex tasks after administration of IMITREX Nasal Spray.
 
-Local Irritation: Inform patents that they may experience local irritation of their nose and throat.
+Local Irritation: Inform patients that they may experience local irritation of their nose and throat.
 The symptoms will generally resolve in less than 2 hours.
 
 How to Use IMITREX Nasal Spray: Provide patients instruction on the proper use of IMITREX Nasal Spray.

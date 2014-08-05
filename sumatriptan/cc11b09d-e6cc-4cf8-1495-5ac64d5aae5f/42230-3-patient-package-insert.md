@@ -61,16 +61,16 @@ Do not use IMITREX if you have:
   If you are not sure if you have these types of migraines, ask your healthcare provider.
 - •had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
 - •taken any of the following medicines in the last 24 hours:
-  - ∘almotriptan (AXERT®)
-  - ∘eletriptan (RELPAX®)
-  - ∘frovatriptan (FROVA®)
-  - ∘naratriptan (AMERGE®)
-  - ∘rizatriptan (MAXALT®, MAXALT-MLT®)
-  - ∘sumatriptan and naproxen (TREXIMET®)
-  - ∘ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
-  - ∘dihydroergotamine (D.H.E.
+  - •almotriptan (AXERT®)
+  - •eletriptan (RELPAX®)
+  - •frovatriptan (FROVA®)
+  - •naratriptan (AMERGE®)
+  - •rizatriptan (MAXALT®, MAXALT-MLT®)
+  - •sumatriptan and naproxen (TREXIMET®)
+  - •ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
+  - •dihydroergotamine (D.H.E.
     45®, MIGRANAL®)
-  - Ask your healthcare provider if you are not sure if your medicine is listed above.
+- Ask your healthcare provider if you are not sure if your medicine is listed above.
 - •an allergy to sumatriptan or any of the ingredients in IMITREX.
   See below for a complete list of ingredients in IMITREX.
 
@@ -138,33 +138,33 @@ These serious side effects include:
 - •changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
 - •stomach and intestinal problems (gastrointestinal and colonic ischemic events).
   Symptoms of gastrointestinal and colonic ischemic events include:
-  - ∘sudden or severe stomach pain
-  - ∘stomach pain after meals
-  - ∘weight loss
-  - ∘nausea or vomiting
-  - ∘constipation or diarrhea
-  - ∘bloody diarrhea
-  - ∘fever
+  - •sudden or severe stomach pain
+  - •stomach pain after meals
+  - •weight loss
+  - •nausea or vomiting
+  - •constipation or diarrhea
+  - •bloody diarrhea
+  - •fever
 - •problems with blood circulation to your legs and feet (peripheral vascular ischemia).
   Symptoms of peripheral vascular ischemia include:
-  - ∘cramping and pain in your legs or hips
-  - ∘feeling of heaviness or tightness in your leg muscles
-  - ∘burning or aching pain in your feet or toes while resting
-  - ∘numbness, tingling, or weakness in your legs
-  - ∘cold feeling or color changes in 1 or both legs or feet
+  - •cramping and pain in your legs or hips
+  - •feeling of heaviness or tightness in your leg muscles
+  - •burning or aching pain in your feet or toes while resting
+  - •numbness, tingling, or weakness in your legs
+  - •cold feeling or color changes in 1 or both legs or feet
 - •hives (itchy bumps); swelling of your tongue, mouth, or throat
 - •medication overuse headaches.
   Some people who use too many IMITREX nasal sprays may have worse headaches (medication overuse headache).
   If your headaches get worse, your healthcare provider may decide to stop your treatment with IMITREX.
 - •serotonin syndrome.
-  Serotonin syndrome is a rare but serious problem that can happen in people using IMITREX, especially if IMITREX is used with anti-depressant medicines called SSRIs or SNRIs.
-- Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
-  - ∘mental changes such as seeing things that are not there (hallucinations), agitation, or coma
-  - ∘fast heartbeat
-  - ∘changes in blood pressure
-  - ∘high body temperature
-  - ∘tight muscles
-  - ∘trouble walking
+  Serotonin syndrome is a rare but serious problem that can happen in people using IMITREX, especially if IMITREX is used with anti-depressant medicines called SSRIs or SNRIs.Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
+- 
+  - •mental changes such as seeing things that are not there (hallucinations), agitation, or coma
+  - •fast heartbeat
+  - •changes in blood pressure
+  - •high body temperature
+  - •tight muscles
+  - •trouble walking
 - •seizures.
   Seizures have happened in people taking IMITREX who have never had seizures before.
   Talk with your healthcare provider about your chance of having seizures while you take IMITREX.
@@ -246,7 +246,7 @@ Do not spray in your eyes.
 | Figure B |  |
 |  | Step 3. Keeping your head in an upright position, gently close 1 nostril with your index finger and breathe out gently through your mouth (see Figure C). |
 | Figure C |  |
-| Figure D | Step 4. With your other hand, hold the container with your thumb supporting the container at the bottom, and your index and middle fingers on either side of the nozzle (see Figure D). |
+| Figure D | Step 4. With your other hand, hold the container with your thumb supporting the container at the bottom, and your index and middle fingers on either side of the nozzle (see Figure D).Insert the nozzle into your open nostril about ½ inch. Do not press the blue plunger yet. |
 | Figure E | Step 5. Keep your head upright and close your mouth. While gently taking a breath in through your nose, press the blue plunger firmly to release the dose of IMITREX Nasal Spray (see Figure E). |
 | Figure F | Step 6. Keep your head level and remove the nozzle from your nostril. While holding your head level, gently breathe in through your nose and out through your mouth for 10 to 20 seconds (see Figure F).Do not breathe in deeply. |
 
