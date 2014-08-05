@@ -27,16 +27,10 @@ Manufactured for GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Manufactured by
-
-Patheon Puerto Rico, Inc.
-
-Manati, PR 00674, USA
-
 Made in Ireland.
 
-10000000059853 Rev.
-9/08
+10000000120631 Rev.
+10/13
 
 PRINCIPAL DISPLAY PANEL
 
@@ -57,6 +51,7 @@ Store below 30oC (86oF).
 Dispense in a tight, light-resistant container.
 
 Protect from moisture.
+
 Each Tiltab® tablet contains carvedilol, 6.25 mg.
 
 Dosage: See accompanying prescribing information.
@@ -67,16 +62,10 @@ Manufactured for GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Manufactured by
-
-Patheon Puerto Rico, Inc.
-
-Manati, PR 00674, USA
-
 Made in Ireland.
 
-10000000059854 Rev.
-9/08
+10000000120632 Rev.
+10/13
 
 PRINCIPAL DISPLAY PANEL
 
@@ -97,6 +86,7 @@ Store below 30oC (86oF).
 Dispense in a tight, light-resistant container.
 
 Protect from moisture.
+
 Each Tiltab® tablet contains carvedilol, 12.5 mg.
 
 Dosage: See accompanying prescribing information.
@@ -107,16 +97,10 @@ Manufactured for GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Manufactured by
-
-Patheon Puerto Rico, Inc.
-
-Manati, PR 00674, USA
-
 Made in Ireland.
 
-10000000059855 Rev.
-9/08
+10000000120633 Rev.
+10/13
 
 PRINCIPAL DISPLAY PANEL
 
@@ -137,6 +121,7 @@ Store below 30oC (86oF).
 Dispense in a tight, light-resistant container.
 
 Protect from moisture.
+
 Each Tiltab® tablet contains carvedilol, 25 mg.
 
 Dosage: See accompanying prescribing information.
@@ -147,13 +132,7 @@ Manufactured for GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Manufactured by
-
-Patheon Puerto Rico, Inc.
-
-Manati, PR 00674, USA
-
 Made in Ireland
 
-10000000059856 Rev.
-9/08
+10000000120634 Rev.
+10/13
