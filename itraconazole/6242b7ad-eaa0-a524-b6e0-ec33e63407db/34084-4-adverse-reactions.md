@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS
 
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
 Itraconazole has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
@@ -13,7 +15,7 @@ Treatment was discontinued in 10.5% of patients due to adverse events.
 The median duration before discontinuation of therapy was 81 days (range: 2 to 776 days).
 The table lists adverse events reported by at least 1% of patients.
 
-Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring with an Incidence of Greater than or Equal to 1%
+Table 2: Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring with an Incidence of Greater than or Equal to 1%
 
 | Body System/Adverse Event | Incidence (%) (N=602) |
 | --- | --- |
@@ -56,7 +58,7 @@ Patients in these trials were on a continuous dosing regimen of 200 mg once dail
 
 The following adverse events led to temporary or permanent discontinuation of therapy.
 
-Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
+Table 3: Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
 
 | Adverse Event | Incidence (%) Itraconazole (N=112) |
 | --- | --- |
@@ -79,7 +81,7 @@ Patients in these trials were on a pulse regimen consisting of two 1-week treatm
 
 The following adverse events led to temporary or permanent discontinuation of therapy.
 
-Clinical Trials of Onychomycosis of the Fingernail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
+Table 4: Clinical Trials of Onychomycosis of the Fingernail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
 
 | Adverse Event | Incidence (%) Itraconazole (N=37) |
 | --- | --- |
@@ -88,29 +90,55 @@ Clinical Trials of Onychomycosis of the Fingernail: Adverse Events Leading to Te
 
 The following adverse events occurred with an incidence of greater than or equal to 1% (N=37): headache: 8%; pruritus, nausea, rhinitis: 5%; rash, bursitis, anxiety, depression, constipation, abdominal pain, dyspepsia, ulcerative stomatitis, gingivitis, hypertriglyceridemia, sinusitis, fatigue, malaise, pain, injury: 3%.
 
+## Adverse Events Reported from Other Clinical Trials
+
+In addition, the following adverse drug reaction was reported in patients who participated in Itraconazole Capsules clinical trials: Hepatobiliary Disorders: hyperbilirubinemia.
+
+The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of SPORANOX® (itraconazole) Oral Solution and itraconazole IV excluding the adverse reaction term "Injection site inflammation" which is specific to the injection route of administration:
+
+Cardiac Disorders: cardiac failure, left ventricular failure, tachycardia;
+
+General Disorders and Administration Site Conditions: face edema, chest pain, chills;
+
+Hepatobiliary Disorders: hepatic failure, jaundice;
+
+Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, blood urea increased, gamma-glutamyltransferase increased, urine analysis abnormal;
+
+Metabolism and Nutrition Disorders: hyperglycemia, hyperkalemia, hypomagnesemia;
+
+Psychiatric Disorders: confusional state;
+
+Renal and Urinary Disorders: renal impairment;
+
+Respiratory, Thoracic and Mediastinal Disorders: dysphonia, cough;
+
+Skin and Subcutaneous Tissue Disorders: rash erythematous, hyperhidrosis;
+
+Vascular Disorders: hypotension
+
 ## Post-marketing Experience
 
-Adverse drug reactions that have been identified during post-approval use of itraconazole (all formulations) are listed in the table below.
+Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in the table below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Postmarketing Reports of Adverse Drug Reactions
+Table 5: Postmarketing Reports of Adverse Drug Reactions
 
-| Blood and lymphatic system disorders: | Leukopenia, neutropenia, thrombocytopenia |
+| Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
-| Immune system disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
-| Metabolism and nutrition disorders: | Hypertriglyceridemia, hypokalemia |
-| Nervous system disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, headache, dizziness |
-| Eye disorders: | Visual disturbances, including vision blurred and diplopia |
-| Ear and labyrinth disorders: | Transient or permanent hearing loss, tinnitus |
-| Cardiac disorders: | Congestive heart failure |
-| Respiratory, thoracic and mediastinal disorders: | Pulmonary edema, dyspnea |
-| Gastrointestinal disorders: | Pancreatitis, abdominal pain, vomiting, dyspepsia, nausea, diarrhea, constipation, dysgeusia |
-| Hepato-biliary disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis, reversible increases in hepatic enzymes |
-| Skin and subcutaneous tissue disorders: | Toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, exfoliative dermatitis, leukocytoclastic vasculitis, erythema multiforme, alopecia, photosensitivity, rash, urticaria, pruritus |
-| Musculoskeletal and connective tissue disorders: | Myalgia, arthralgia |
-| Renal and urinary disorders: | Urinary incontinence, pollakiuria |
-| Reproductive system and breast disorders: | Menstrual disorders, erectile dysfunction |
-| General disorders and administration site conditions: | Peripheral edema, pyrexia |
+| Immune System Disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
+| Nervous System Disorders: | Peripheral neuropathy, paresthesia, hypoesthesia |
+| Eye Disorders: | Visual disturbances, including vision blurred and diplopia |
+| Ear and Labyrinth Disorders: | Transient or permanent hearing loss |
+| Cardiac Disorders: | Congestive heart failure |
+| Respiratory, Thoracic and Mediastinal Disorders: | Pulmonary edema, dyspnea |
+| Gastrointestinal Disorders: | Pancreatitis, dysgeusia |
+| Hepatobiliary Disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis |
+| Skin and Subcutaneous Tissue Disorders: | Toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, erythema multiforme, exfoliative dermatitis, leukocytoclastic vasculitis, alopecia, photosensitivity, urticaria |
+| Musculoskeletal and Connective Tissue Disorders: | Arthralgia |
+| Renal and Urinary Disorders: | Urinary incontinence, pollakiuria |
+| Reproductive System and Breast Disorders: | Erectile dysfunction |
+| General Disorders and Administration Site Conditions: | Peripheral edema |
+| Investigations | Blood creatine phosphokinase increased |
 
 There is limited information on the use of itraconazole during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.

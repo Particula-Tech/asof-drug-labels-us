@@ -2,7 +2,7 @@ PATRIOT Pharmaceuticals
 
 Itraconazole Capsules
 
-Revised June 2012
+Revised June 2014
 
 Product of Ireland
 

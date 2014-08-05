@@ -50,7 +50,7 @@ Your doctor will decide if Itraconazole is the right treatment for you.
 Some patients should not take Itraconazole because they may have certain health problems or may be taking certain medicines that could lead to serious or life-threatening medical problems.
 
 Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking, including dietary supplements and herbal remedies.
-Also tell your doctor about any other medical conditions you have had, especially heart, lung, liver or kidney conditions.
+Also tell your doctor about any other medical conditions you have had, especially heart, lung, liver or kidney conditions; or if you have had an allergic reaction to itraconazole or any other antifungal medicines.
 
 Never take Itraconazole if you:
 
@@ -62,17 +62,22 @@ Never take Itraconazole if you:
   - cisapride (such as Propulsid®)
   - pimozide (such as Orap®)
   - methadone (such as Dolophine®)
-  - levacetylmethadol (such as Orlaam®)
+  - disopyramide (such as Norpace®)
+  - dronedarone (such as Multaq®)
+  - ranolazine (such as Ranexa®)
 - are taking any of the following medicines:
   - lovastatin (such as Mevacor®, Advicor®, Altocor™)
   - simvastatin (such as Zocor®)
   - triazolam (such as Halcion®)
   - midazolam (such as Versed®)
+  - lurasidone (such as Latuda®)
   - nisoldipine (such as Sular®)
   - felodipine (such as Plendil®)
   - ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®)
-- have ever had an allergic reaction to itraconazole or any of the other ingredients in Itraconazole Capsules.
-  Ask your doctor or pharmacist for a list of these ingredients.
+  - eplerenone (such as Inspra®)
+  - irinotecan (such as Camptosar®)
+  - colchicine (such as Colcrys™) [if you also have pre-existing kidney or liver impairment]
+- have ever had an allergic reaction to itraconazole.
 
 Taking Itraconazole with certain other medicines could lead to serious or life-threatening medical problems.
 For example, taking fentanyl, a strong opioid narcotic pain medicine, with Itraconazole could cause serious side effects, including trouble breathing, that may be life-threatening.
@@ -100,6 +105,9 @@ Be sure to finish all your Itraconazole as prescribed by your doctor.
 
 If you have ever had liver problems, your doctor should do a blood test to check your condition.
 If you haven't had liver problems, your doctor may recommend blood tests to check the condition of your liver because patients taking Itraconazole can develop liver problems.
+
+Itraconazole can sometimes cause dizziness or blurred/double vision.
+If you have these symptoms, do not drive or use machines.
 
 If you forget to take or miss doses of Itraconazole, ask your doctor what you should do with the missed doses.
 
@@ -134,7 +142,7 @@ Looking at the back of the card, fold it back along the dashed line and peel awa
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF ITRACONAZOLE?
 
-The most common side effects that cause people to stop treatment either for a short time or completely include: skin rash, high triglyceride test results, high liver test results, and digestive system problems (such as nausea, bloating, and diarrhea).
+The most common side effects include: headache, and digestive system problems (such as nausea, and abdominal pain).
 
 Stop Itraconazole and call your doctor or get medical assistance right away if you have a severe allergic reaction.
 Symptoms of an allergic reaction may include skin rash, itching, hives, shortness of breath or difficulty breathing, and/or swelling of the face.
@@ -152,7 +160,7 @@ In very rare cases, patients taking Itraconazole have reported temporary or perm
 
 Call your doctor right away if you develop tingling or numbness in your extremities (hands or feet), if your vision gets blurry or you see double, if you hear a ringing in your ears, if you lose the ability to control your urine or urinate much more than usual.
 
-Additional possible side effects include upset stomach, vomiting, abdominal pain, constipation, headache, fever, inflammation of the pancreas, menstrual disorders, erectile dysfunction, dizziness, muscle weakness or pain, painful joints, unpleasant taste, or hair loss.
+Additional possible side effects include upset stomach, vomiting, constipation, fever, inflammation of the pancreas, menstrual disorder, erectile dysfunction, dizziness, muscle pain, painful joints, unpleasant taste, or hair loss.
 These are not all the side effects of Itraconazole.
 Your doctor or pharmacist can give you a more complete list.
 
@@ -179,14 +187,7 @@ You can ask your doctor or pharmacist for information about Itraconazole that is
 
 This patient information has been approved by the U.S. Food and Drug Administration.
 
-The following are registered trademarks of their respective manufacturers:
-
-Mevacor® (Merck & Co., Inc.), Advicor® (Kos Pharmaceuticals, Inc.), Altocor™ (Andrx Laboratories), Zocor® (Merck & Co., Inc.), Halcion® (Pharmacia), Versed® (Roche Pharmaceuticals), Cardioquin® (The Purdue Frederick Company), Quinaglute® (Berlex Laboratories), Quinidex® (A.H.
-Robins), Tikosyn™ (Pfizer, Inc.), Propulsid® (Janssen Pharmaceutica Products, L.P.), Orlaam® (Roxane Laboratories), Migranal® (Xcel Pharmaceuticals), Ergonovine (PDRX Pharmaceuticals), Cafergot® (Novartis Pharmaceuticals Corporation), Methergine® (Novartis Pharmaceuticals Corporation), Orap® (Gate Pharmaceuticals), Sular® (Sciele Pharma, Inc.), Dolophine® (PD-Rx Pharmaceuticals, Inc), and Plendil® (AstraZeneca LP).
-
-Printed in USA
-
-Revised June 2012
+Revised June 2014
 
 Product of Ireland
 

@@ -1,6 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 Itraconazole Capsules should be taken with a full meal to ensure maximal absorption.
+Itraconazole Capsules must be swallowed whole.
 
 Itraconazole Capsules are a different preparation than SPORANOX® (itraconazole) Oral Solution and should not be used interchangeably.
 
@@ -40,7 +41,7 @@ The pulses are separated by a 3-week period without itraconazole.
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 Caution should be exercised when this drug is administered in this patient population.
-(See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS for further information.)
+(See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS.)
 
 ## Use in Patients with Hepatic Impairment
 
