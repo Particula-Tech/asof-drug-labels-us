@@ -17,21 +17,16 @@ Do not take FLOMAX capsules if you are allergic to any of its ingredients.
 See the end of this leaflet for a complete list of ingredients in FLOMAX capsules.
 
 What should I tell my doctor before using FLOMAX?
-Before taking FLOMAX capsules, tell your doctor about all your medical conditions, including:
 
-- any kidney or liver problems.
-- any history of low blood pressure.
-- any allergies to sulfa or any other medicines.
-- if you are planning to have cataract or glaucoma surgery.
-
-Tell your doctor about all the medicines you take, including:
-
-- any prescription medicines, including blood pressure medicines.
-- any non-prescription medicines, including vitamins and herbal supplements.
-
-Some of your other medicines may affect the way FLOMAX capsules work.
-Especially tell your doctor if you take a medicine for high blood pressure.
-You should not take FLOMAX if you are already taking certain blood pressure medicines.
+- Before taking FLOMAX capsules, tell your doctor about all your medical conditions, including:Tell your doctor about all the medicines you take, including:Some of your other medicines may affect the way FLOMAX capsules work.
+  Especially tell your doctor if you take a medicine for high blood pressure.
+  You should not take FLOMAX if you are already taking certain blood pressure medicines.
+  - any kidney or liver problems.
+  - any history of low blood pressure.
+  - any allergies to sulfa or any other medicines.
+  - if you are planning to have cataract or glaucoma surgery.
+  - any prescription medicines, including blood pressure medicines.
+  - any non-prescription medicines, including vitamins and herbal supplements.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
@@ -115,7 +110,7 @@ Therefore, ask your doctor about screening for prostate cancer prior to treatmen
 This patient information leaflet summarizes the most important information about FLOMAX.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about FLOMAX that is written for health professionals.
-For current prescribing information scan the code below, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
+For current prescribing information, scan the code below, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
 
 What are the ingredients in FLOMAX capsules?
 
@@ -126,8 +121,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Flomax is a registered trademark of, and licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
 
-Copyright 201x, ALL RIGHTS RESERVED
+Copyright 2014, ALL RIGHTS RESERVED
 
-IT8004UKxx2013 xxxxx
+IT8004UG252014
 
-Revised: xx 201x
+Revised: July 2014

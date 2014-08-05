@@ -109,9 +109,7 @@ While a change in the overall plasma concentration of tamsulosin hydrochloride w
 Therefore, patients with moderate hepatic impairment do not require an adjustment in FLOMAX capsules dosage.
 FLOMAX has not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
 
-Drug Interactions
-
-Cytochrome P450 Inhibition
+Drug Interactions Cytochrome P450 Inhibition
 
 Strong and Moderate Inhibitors of CYP3A4 or CYP2D6 The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily for 5 days on the pharmacokinetics of a single FLOMAX capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range 23 to 47 years).
 Concomitant treatment with ketoconazole resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
