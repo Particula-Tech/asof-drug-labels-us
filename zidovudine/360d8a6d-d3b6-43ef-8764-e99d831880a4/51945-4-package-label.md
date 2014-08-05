@@ -8,13 +8,13 @@ RETROVIR®
 
 IV INFUSION STERILE
 
-Rx only
+20-mL Single-Use Vial
 
 200 mg/20 mL (10 mg/mL)
 
-20-mL Single-Use Vial
-
 MUST BE DILUTED PRIOR TO INTRAVENOUS INFUSION.
+
+Rx only
 
 Contains no preservative.
 The vial stopper of this product contains dry natural rubber.
@@ -23,9 +23,11 @@ Hydrochloric acid and/or sodium hydroxide may have been added to adjust pH.
 See prescribing information for dosage information.
 Store at 15o to 25oC (59o to 77oF) and protect from light.
 
-Distributed by: ViiV Healthcare, RTP, NC 27709
+Manufactured for: ViiV Healthcare, RTP, NC 27709
 
-Made in South Korea
+RETROVIR is a registered trademark
 
-10000000101447 Rev.
-5/12
+Made in India
+
+10000000122843 Rev.
+11/13
