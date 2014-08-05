@@ -34,14 +34,14 @@ Proportion of Subjects With Pain Relief and Relief of Migraine Symptoms After 1 
 
 | 1-Hour Data | Study 2 |  | Study 3 |  |
 | --- | --- | --- | --- | --- |
-| Placebo (n = 190) | IMITREX 6 mg (n = 384) | Placebo (n = 180) | IMITREX 6 mg (n = 350) |  |
+| Placebo(n = 190) | IMITREX 6 mg(n = 384) | Placebo(n = 180) | IMITREX 6 mg(n = 350) |  |
 | Subjects with pain relief (grade 0/1) | 18% | 70%a | 26% | 70%a |
 | Subjects with no pain | 5% | 48%a | 13% | 49%a |
 | Subjects without nausea | 48% | 73%a | 50% | 73%a |
 | Subjects without photophobia | 23% | 56%a | 25% | 58%a |
 | Subjects with little or no clinical disabilityb | 34% | 76%a | 34% | 76%a |
 | 2-Hour Data | Study 2 |  | Study 3 |  |
-| Placeboc | IMITREX 6 mgd | Placeboc | IMITREX 6 mgd |  |
+| Placeboc | IMITREX6 mgd | Placeboc | IMITREX6 mgd |  |
 | Subjects with pain relief (grade 0/1) | 31% | 81%a | 39% | 82%a |
 | Subjects with no pain | 11% | 63%a | 19% | 65%a |
 | Subjects without nausea | 56% | 82%a | 63% | 81%a |
@@ -70,7 +70,7 @@ Proportion of Subjects With Cluster Headache Relief by Time in Studies 4 and 5
 
 |  | Study 4 |  | Study 5 |  |
 | --- | --- | --- | --- | --- |
-| Placebo (n = 39) | IMITREX 6 mg (n = 39) | Placebo (n = 88) | IMITREX 6 mg (n = 92) |  |
+| Placebo(n = 39) | IMITREX6 mg(n = 39) | Placebo(n = 88) | IMITREX6 mg(n = 92) |  |
 | Subjects with pain relief (no/mild) |  |  |  |  |
 | 5 Minutes post-injection | 8% | 21% | 7% | 23%a |
 | 10 Minutes post-injection | 10% | 49%a | 25% | 49%a |
