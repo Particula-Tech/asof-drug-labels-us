@@ -4,8 +4,8 @@ VAZCULEP (phenylephrine hydrochloride) Injection, 10 mg/mL is supplied as follow
 
 | NDC No. | Strength | How Supplied |
 | --- | --- | --- |
-| 76014-004-30 | 10 mg/mL | 1 mL vial; for single use (supplied in packages of 10) |
-| 76014-004-32 | 10 mg/mL | 5 mL vial; Pharmacy Bulk Package (supplied in packages of 10) |
+| 76014-004-25 | 10 mg/mL | 1 mL vial; for single use (supplied in packages of 25) |
+| 76014-004-10 | 10 mg/mL | 5 mL vial; Pharmacy Bulk Package (supplied in packages of 10) |
 | 76014-004-33 | 10 mg/mL | 10 mL vial; Pharmacy Bulk Package (supplied as a single unit) |
 
 Vial stoppers are not manufactured with natural rubber latex.
