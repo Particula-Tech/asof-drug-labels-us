@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA040279"
+  ],
+  "inn": "fluorouracil",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-117-18",
+    "63323-117-28"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fluorouracil",
+      "name": "Fluorouracil"
+    }
+  ],
+  "setid": "a85ab26a-05ea-498f-8f34-564a925fa9d9",
+  "source": "dailymed"
+}
