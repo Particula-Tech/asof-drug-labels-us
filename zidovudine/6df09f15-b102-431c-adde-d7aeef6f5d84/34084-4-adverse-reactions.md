@@ -29,8 +29,10 @@ Percentage (%) of Subjects With Adverse Reactionsa in Asymptomatic HIV-1 Infecti
 | Constipation | 6%b | 4% |
 | Nausea | 51% | 30% |
 | Vomiting | 17% | 10% |
-| a Reported in ≥5% of trial population. |  |  |
-| b Not statistically significant versus placebo. |  |  |
+
+a Reported in ≥5% of trial population.
+
+b Not statistically significant versus placebo.
 
 In addition to the adverse reactions listed in Table 3, adverse reactions observed at an incidence of ≥5% in any treatment arm in clinical trials (NUCA3001, NUCA3002, NUCB3001, and NUCB3002) were abdominal cramps, abdominal pain, arthralgia, chills, dyspepsia, fatigue, insomnia, musculoskeletal pain, myalgia, and neuropathy.
 Additionally, in these trials hyperbilirubinemia was reported at an incidence of ≤0.8%.
@@ -91,8 +93,10 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Subjec
 | AST (>10 x ULN) | 2% | 4% |
 | Lipase (>2.5 x ULN) | 3% | 3% |
 | Total amylase (>2.5 x ULN) | 3% | 3% |
-| ULN = Upper limit of normal. |  |  |
-| ANC = Absolute neutrophil count. |  |  |
+
+ULN = Upper limit of normal.
+
+ANC = Absolute neutrophil count.
 
 Macrocytosis was reported in the majority of pediatric subjects receiving RETROVIR 180 mg/m2 every 6 hours in open-label trials.
 Additionally, adverse reactions reported at an incidence of <6% in these trials were congestive heart failure, decreased reflexes, ECG abnormality, edema, hematuria, left ventricular dilation, nervousness/irritability, and weight loss.

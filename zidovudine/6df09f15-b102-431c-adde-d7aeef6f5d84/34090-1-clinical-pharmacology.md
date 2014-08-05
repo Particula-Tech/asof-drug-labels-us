@@ -22,8 +22,10 @@ Zidovudine Pharmacokinetic Parameters in Fasting Adult Subjects
 | Systemic clearance (L/h/kg) | 1.6 ± 0.6(n = 6) |
 | Renal clearance (L/h/kg) | 0.34 ± 0.05(n = 9) |
 | Elimination half-life (h)b | 0.5 to 3(n = 19) |
-| a Median [range]. |  |
-| b Approximate range. |  |
+
+a Median [range].
+
+b Approximate range.
 
 Distribution: The apparent volume of distribution of zidovudine, following oral administration, is 1.6 ± 0.6 L/kg; and binding to plasma protein is low, <38% (Table 7).
 
@@ -84,8 +86,10 @@ Zidovudine Pharmacokinetic Parameters in Pediatric Subjectsa
 | CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25]b(n = 38) |
 | CL (L/h/kg) | 0.65 ± 0.29(n = 18) | 1.14 ± 0.24(n = 16) | 1.85 ± 0.47(n = 20) |
 | Elimination half-life (h) | 3.1 ± 1.2(n = 21) | 1.9 ± 0.7(n = 18) | 1.5 ± 0.7(n = 21) |
-| a Data presented as mean ± standard deviation except where noted. |  |  |  |
-| b Median [range]. |  |  |  |
+
+a Data presented as mean ± standard deviation except where noted.
+
+b Median [range].
 
 Pregnancy: Zidovudine pharmacokinetics have been studied in a Phase I trial of 8 women during the last trimester of pregnancy.
 Zidovudine pharmacokinetics were similar to those of nonpregnant adults.
@@ -119,9 +123,12 @@ Effect of Coadministered Drugs on Zidovudine AUCa
 | Rifampin600 mg daily x 14 days | 200 mg q 8 h x 14 days | 8 | ↓AUC 47% | 90% CI: 41% to 53% | Not Assessed |
 | Ritonavir300 mg q 6 h x 4 days | 200 mg q 8 h x 4 days | 9 | ↓AUC 25% | 95% CI: 15% to 34% | ↔ |
 | Valproic acid 250 mg or 500 mg q 8 h x 4 days | 100 mg q 8 h x 4 days | 6 | ↑AUC 80% | Range 64% to 130%b | Not Assessed |
-| ↑ = Increase; ↓ = Decrease; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = confidence interval. |  |  |  |  |  |
-| a This table is not all inclusive. |  |  |  |  |  |
-| b Estimated range of percent difference. |  |  |  |  |  |
+
+↑ = Increase; ↓ = Decrease; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = confidence interval.
+
+a This table is not all inclusive.
+
+b Estimated range of percent difference.
 
 Phenytoin: Phenytoin plasma levels have been reported to be low in some patients receiving RETROVIR, while in one case a high level was documented.
 However, in a pharmacokinetic interaction trial in which 12 HIV-1-positive volunteers received a single 300-mg phenytoin dose alone and during steady-state zidovudine conditions (200 mg every 4 hours), no change in phenytoin kinetics was observed.

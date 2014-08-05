@@ -26,7 +26,7 @@ Results are summarized in Table 11.
 Table 11.
 Number of Subjects (%) Reaching a Primary Clinical Endpoint (Disease Progression or Death)
 
-| Endpoint | EPIVIR plus RETROVIR(n = 236) | Didanosine (n = 235) |
+| Endpoint | EPIVIR plus RETROVIR(n = 236) | Didanosine(n = 235) |
 | --- | --- | --- |
 | HIV disease progression or death (total) | 15 (6.4%) | 37 (15.7%) |
 | Physical growth failure | 7 (3.0%) | 6 (2.6%) |
