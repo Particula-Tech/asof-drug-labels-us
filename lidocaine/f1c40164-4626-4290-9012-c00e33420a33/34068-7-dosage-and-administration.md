@@ -9,3 +9,6 @@ Smaller areas of treatment are recommended in a debilitated patient, or a patien
 If irritation or a burning sensation occurs during application, remove the patch(es) and do not reapply until the irritation subsides.
 
 When LIDODERM is used concomitantly with other products containing local anesthetic agents, the amount absorbed from all formulations must be considered.
+
+LIDODERM may not stick if it gets wet.
+Avoid contact with water, such as bathing, swimming or showering.
