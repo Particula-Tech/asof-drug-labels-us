@@ -18,8 +18,8 @@ The intravenous infusion rate required to produce an average plasma concentratio
 
 Dosage for Initiation of Therapy in a Patient Not Receiving Oral Nicardipine
 
-Initiate therapy at 50 mL/hr (5.0 mg/hr).
-If desired blood pressure reduction is not achieved at this dose, the infusion rate may be increased by 25 mL/hr (2.5 mg/hr) every 5 minutes (for rapid titration) to 15 minutes (for gradual titration) up to a maximum of 150 mL/hr (15.0 mg/hr), until desired blood pressure reduction is achieved.
+Initiate therapy at 50 mL/hr (5 mg/hr).
+If desired blood pressure reduction is not achieved at this dose, the infusion rate may be increased by 25 mL/hr (2.5 mg/hr) every 5 minutes (for rapid titration) to 15 minutes (for gradual titration) up to a maximum of 150 mL/hr (15 mg/hr), until desired blood pressure reduction is achieved.
 
 Following achievement of the blood pressure goal utilizing rapid titration, decrease the infusion rate to 30 mL/hr (3 mg/hr).
 
@@ -35,7 +35,7 @@ If oral nicardipine is to be used, administer the first dose 1 hour prior to dis
 Special Populations
 
 Titrate Cardene I.V.
-Premixed Injection slowly in patients with heart failure or impaired hepatic or renal function [see Warnings and Precautions (5.3, 5.4 and 5.5)]
+Premixed Injection slowly in patients with heart failure or impaired hepatic or renal function [see Warnings and Precautions (5.3, 5.4 and 5.5.)]
 
 ## 2.2 Monitoring
 
@@ -46,7 +46,7 @@ It reaches about 50% of its ultimate decrease in about 45 minutes.
 Monitor blood pressure and heart rate continually during infusion and avoid too rapid or excessive blood pressure drop during treatment.
 If there is concern of impending hypotension or tachycardia, the infusion should be discontinued.
 Then, when blood pressure has stabilized, infusion of Cardene I.V.
-Premixed Injection may be restarted at low doses such as 30‑50 mL/hr (3.0 - 5.0 mg/hr) and adjusted to maintain desired blood pressure.
+Premixed Injection may be restarted at low doses such as 30‑50 mL/hr (3 - 5 mg/hr) and adjusted to maintain desired blood pressure.
 
 ## 2.3 Instructions for Administration
 

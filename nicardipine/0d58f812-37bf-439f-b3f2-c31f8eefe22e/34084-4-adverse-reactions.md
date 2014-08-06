@@ -39,3 +39,8 @@ Respiratory: respiratory disorder
 Special Senses: conjunctivitis, ear disorder, tinnitus
 
 Urogenital: urinary frequency Sinus node dysfunction and myocardial infarction, which may be due to disease progression, have been seen in patients on chronic therapy with orally administered nicardipine.
+
+## 6.2 Post-Marketing and Other Clinical Experience
+
+Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.
+The following adverse reaction has been identified during post-approval use of Cardene I.V.: decreased oxygen saturation (possible pulmonary shunting).
