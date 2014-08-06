@@ -13,7 +13,7 @@ Hemodynamics
 
 Cardene I.V. produces significant decreases in systemic vascular resistance.
 In a study of intra-arterially administered Cardene I.V., the degree of vasodilation and the resultant decrease in blood pressure were more prominent in hypertensive patients than in normotensive volunteers.
-Administration of Cardene I.V. to normotensive volunteers at dosages of 0.25 to 3.0 mg/hr for eight hours produced changes of <5 mmHg in systolic blood pressure and <3 mmHg in diastolic blood pressure.
+Administration of Cardene I.V. to normotensive volunteers at dosages of 0.25 to 3 mg/hr for eight hours produced changes of <5 mmHg in systolic blood pressure and <3 mmHg in diastolic blood pressure.
 
 An increase in heart rate is a normal response to vasodilation and decrease in blood pressure; in some patients these increases in heart rate may be pronounced.
 In placebo-controlled trials, the mean increases in heart rate were 7 ± 1 bpm in postoperative patients and 8 ± 1 bpm in patients with severe hypertension at the end of the maintenance period.
@@ -75,7 +75,7 @@ Pulmonary Function
 
 In two well-controlled studies of patients with obstructive airway disease treated with oral nicardipine, no evidence of increased bronchospasm was seen.
 In one of the studies, oral nicardipine improved forced expiratory volume 1 second (FEV1) and forced vital capacity (FVC) in comparison with metoprolol.
-Adverse experiences reported in a limited number of patients with asthma, reactive airway disease, or obstructive airway disease are similar to all patients treated with oral nicardipine.
+Adverse experiences reported in a limited number of patients with asthma, reactive airway disease, or obstructive airway disease are similar to all patients treated with
 
 ## 12.3 Pharmacokinetics
 
@@ -90,7 +90,7 @@ Nicardipine is highly protein bound (>95%) in human plasma over a wide concentra
 
 Following infusion, nicardipine plasma concentrations decline tri-exponentially, with a rapid early distribution phase (α-half-life of 2.7 minutes), an intermediate phase (β-half-life of 44.8 minutes), and a slow terminal phase (γ-half-life of 14.4 hours) that can only be detected after long-term infusions.
 Total plasma clearance (Cl) is 0.4 L/hr•kg, and the apparent volume of distribution (Vd) using a non-compartment model is 8.3 L/kg.
-The pharmacokinetics of Cardene I.V. are linear over the dosage range of 0.5 to 40.0 mg/hr.
+The pharmacokinetics of Cardene I.V. are linear over the dosage range of 0.5 to 40 mg/hr.
 
 Metabolism and Excretion
 
