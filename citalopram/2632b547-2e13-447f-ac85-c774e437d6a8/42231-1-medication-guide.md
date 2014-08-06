@@ -84,6 +84,15 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
+10.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 Do not stop citalopram tablets without first talking to your healthcare provider.
 Stopping citalopram tablets too quickly may cause serious symptoms including:
 
@@ -107,8 +116,8 @@ Do not take citalopram tablets if you:
   See the end of this Medication Guide for a complete list of ingredients in citalopram tablets.
 - take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - Do not take an MAOI within 2 weeks of stopping citalopram tablets unless directed to do so by your physician.
-  - Do not start citalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+- Do not take an MAOI within 2 weeks of stopping citalopram tablets unless directed to do so by your physician.
+- Do not start citalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take citalopram tablets close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -161,16 +170,13 @@ Do not start or stop any medicine while taking citalopram tablets without talkin
 
 How should I take citalopram tablets?
 
-Take citalopram tablets exactly as prescribed.
-Your healthcare provider may need to change the dose of citalopram tablets until it is the right dose for you.
-
-Citalopram tablets may be taken with or without food.
-
-If you miss a dose of citalopram tablets, take the missed dose as soon as you remember.
-If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
-Do not take two doses of citalopram tablets at the same time.
-
-If you take too much citalopram, call your healthcare provider or poison control center right away, or get emergency treatment.
+- Take citalopram tablets exactly as prescribed.
+  Your healthcare provider may need to change the dose of citalopram tablets until it is the right dose for you.
+- Citalopram tablets may be taken with or without food.
+- If you miss a dose of citalopram tablets, take the missed dose as soon as you remember.
+  If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
+  Do not take two doses of citalopram tablets at the same time.
+- If you take too much citalopram, call your healthcare provider or poison control center right away, or get emergency treatment.
 
 What should I avoid while taking citalopram tablets?
 Citalopram tablets can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
@@ -231,4 +237,4 @@ Iron oxides are used as coloring agents in the peach (10 mg) and light pink (20 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 06/2014
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Lexapro is a registered trademark of Forest Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 08/2014

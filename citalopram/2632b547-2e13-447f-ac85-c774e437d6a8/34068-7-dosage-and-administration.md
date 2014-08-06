@@ -45,7 +45,7 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with citalopram tablets.
 Conversely, at least 14 days should be allowed after stopping citalopram tablets before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
-## Use of citalopram tablets with Other MAOIs, Such as Linezolid or Methylene Blue
+## Use of Citalopram Tablets with Other MAOIs, Such as Linezolid or Methylene Blue
 
 Do not start citalopram tablets in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
