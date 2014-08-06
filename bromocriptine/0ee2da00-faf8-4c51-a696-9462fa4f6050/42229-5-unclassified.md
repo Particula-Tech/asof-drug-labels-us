@@ -1,4 +1,4 @@
-# Rx Only
+# Rx Only Prescribing Information
 
 Manufactured By
 
@@ -8,4 +8,6 @@ Minneapolis, MN 55427
 
 2201563
 
-(03-12)
+2P600 RC J2
+
+Rev 07-14 C
