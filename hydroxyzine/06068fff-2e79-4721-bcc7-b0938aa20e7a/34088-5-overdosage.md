@@ -7,7 +7,7 @@ As in the management of overdosage with any drug, it should be borne in mind tha
 If vomiting has not occurred spontaneously, it should be induced.
 Immediate gastric lavage is also recommended.
 General supportive care, including frequent monitoring of the vital signs and close observation of the patient, is indicated.
-Hypotension, though unlikely, may be controlled with intravenous fluids and vasopressors (do not use epinephrine as hydroxyzinecounteracts its pressor action).
+Hypotension, though unlikely, may be controlled with intravenous fluids and vasopressors (do not use epinephrine as hydroxyzine counteracts its pressor action).
 Caffeine and Sodium Benzoate Injection, USP, may be used to counteract central nervous system depressant effects.
 
 There is no specific antidote.

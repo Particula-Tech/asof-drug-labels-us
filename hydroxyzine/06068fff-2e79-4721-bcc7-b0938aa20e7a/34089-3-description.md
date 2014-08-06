@@ -7,7 +7,7 @@ C21H27ClN2O2•C23H16O6 M.W.
 763.27
 
 Hydroxyzine Pamoate Capsules USP are administered in doses equivalent to 25 mg, 50 mg or 100 mg of hydroxyzine hydrochloride.
-In addition, each capsule contains the following inactive ingredients: croscarmellose sodium, magnesium stearate, and pregelatinized starch.
+In addition, each capsule contains the following inactive ingredients: croscarmellose sodium, magnesium stearate, and pregelatinized corn starch.
 The 25 mg also contains anhydrous lactose.
 The 50 mg and 100 mg also contain lactose monohydrate.
 

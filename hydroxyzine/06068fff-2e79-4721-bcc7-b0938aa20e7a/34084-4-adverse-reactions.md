@@ -2,6 +2,10 @@
 
 Side effects reported with the administration of hydroxyzine pamoate are usually mild and transitory in nature.
 
+## Skin and Appendages:
+
+Oral hydroxyzine hydrochloride is associated with fixed drug eruptions in postmarketing reports.
+
 ## Anticholinergic:
 
 Dry mouth.
