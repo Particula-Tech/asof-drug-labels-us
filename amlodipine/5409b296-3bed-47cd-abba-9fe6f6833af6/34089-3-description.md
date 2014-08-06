@@ -1,0 +1,11 @@
+# 11. DESCRIPTION
+
+Amlodipine besylate is the besylate salt of amlodipine, a long-acting calcium channel blocker.
+
+Amlodipine besylate is chemically described as 3-Ethyl-5-methyl (±)-2-[(2-aminoethoxy) methyl]-4-(2-chlorophenyl)-1, 4-dihydro-6-methyl-3, 5-pyridinedicarboxylate, monobenzenesulphonate.
+Its molecular formula is C20H25CIN2O5•C6H6O3S, and its structural formula is:
+
+Amlodipine besylate is a white or almost white powder with a molecular weight of 567.1.
+It is slightly soluble in water and sparingly soluble in ethanol.
+Amlodipine besylate tablets, USP are formulated as white to off white tablets equivalent to 2.5, 5, and 10 mg of amlodipine for oral administration.
+In addition to the active ingredient, amlodipine besylate, each tablet contains the following inactive ingredients: microcrystalline cellulose, dibasic calcium phosphate dihydrate, sodium starch glycolate, colloidal silicon dioxide and magnesium stearate.

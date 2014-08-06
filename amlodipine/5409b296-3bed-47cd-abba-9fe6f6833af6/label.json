@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA077073"
+  ],
+  "inn": "amlodipine",
+  "labeler": "Cipla Limited",
+  "package_ndcs": [
+    "69097-126-05",
+    "69097-126-15",
+    "69097-127-05",
+    "69097-127-15",
+    "69097-128-05",
+    "69097-128-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amlodipine besylate tablet",
+      "name": "AMLODIPINE BESYLATE"
+    }
+  ],
+  "setid": "5409b296-3bed-47cd-abba-9fe6f6833af6",
+  "source": "dailymed"
+}
