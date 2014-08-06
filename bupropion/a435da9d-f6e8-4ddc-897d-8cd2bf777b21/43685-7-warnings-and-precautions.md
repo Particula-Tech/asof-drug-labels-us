@@ -70,13 +70,18 @@ It should be noted that WELLBUTRIN XL is not approved for use in treating bipola
 
 Bupropion-Containing Products: Patients should be made aware that WELLBUTRIN XL contains the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that WELLBUTRIN XL should not be used in combination with ZYBAN, or any other medications that contain bupropion, such as WELLBUTRIN SR (bupropion hydrochloride), the sustained-release formulation or WELLBUTRIN (bupropion hydrochloride), the immediate-release formulation.
 
+Information for Patients: Patients should be advised that taking WELLBUTRIN XL can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+
 Seizures: Bupropion is associated with a dose-related risk of seizures.
 The risk of seizures is also related to patient factors, clinical situations, and concomitant medications, which must be considered in selection of patients for therapy with WELLBUTRIN XL.
 WELLBUTRIN XL should be discontinued and not restarted in patients who experience a seizure while on treatment.
 
 As WELLBUTRIN XL is bioequivalent to both the immediate-release formulation of bupropion and to the sustained-release formulation of bupropion, the seizure incidence with WELLBUTRIN XL, while not formally evaluated in clinical trials, may be similar to that presented below for the immediate-release and sustained-release formulations of bupropion.
 
-- Dose: At doses up to 300 mg/day of the sustained-release formulation of bupropion (WELLBUTRIN SR), the incidence of seizure is approximately 0.1% (1/1,000).
+- •Dose: At doses up to 300 mg/day of the sustained-release formulation of bupropion (WELLBUTRIN SR), the incidence of seizure is approximately 0.1% (1/1,000).
 
 Data for the immediate-release formulation of bupropion revealed a seizure incidence of approximately 0.4% (i.e., 13 of 3,200 patients followed prospectively) in patients treated at doses in a range of 300 to 450 mg/day.
 This seizure incidence (0.4%) may exceed that of some other marketed antidepressants.
@@ -85,20 +90,24 @@ Additional data accumulated for the immediate-release formulation of bupropion s
 The 600 mg dose is twice the usual adult dose and one and one-third the maximum recommended daily dose (450 mg) of WELLBUTRIN XL.
 This disproportionate increase in seizure incidence with dose incrementation calls for caution in dosing.
 
-- Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
-- Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
-- Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold.
+- •Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
+- •Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
+- •Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold.
 
 Recommendations for Reducing the Risk of Seizure: Retrospective analysis of clinical experience gained during the development of bupropion suggests that the risk of seizure may be minimized if
 
-- the total daily dose of WELLBUTRIN XL does not exceed 450 mg,
-- the rate of incrementation of dose is gradual.
+- •the total daily dose of WELLBUTRIN XL does not exceed 450 mg,
+- •the rate of incrementation of dose is gradual.
 
 WELLBUTRIN XL should be administered with extreme caution to patients with a history of seizure, cranial trauma, or other predisposition(s) toward seizure, or patients treated with other agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold.
 
 Hepatic Impairment: WELLBUTRIN XL should be used with extreme caution in patients with severe hepatic cirrhosis.
 In these patients a reduced frequency and/or dose is required as peak bupropion as well as AUC levels are substantially increased and accumulation is likely to occur in such patients to a greater extent than usual.
 The dose should not exceed 150 mg every other day in these patients (see CLINICAL PHARMACOLOGY, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
+
+Angle-Closure Glaucoma:
+
+The pupillary dilation that occurs following use of many antidepressant drugs including WELLBUTRIN XL may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 Potential for Hepatotoxicity: In rats receiving large doses of bupropion chronically, there was an increase in incidence of hepatic hyperplastic nodules and hepatocellular hypertrophy.
 In dogs receiving large doses of bupropion chronically, various histologic changes were seen in the liver, and laboratory tests suggesting mild hepatocellular injury were noted.
@@ -184,12 +193,12 @@ However, bupropion was associated with a rise in supine blood pressure in the st
 
 Hepatic Impairment: WELLBUTRIN XL should be used with extreme caution in patients with severe hepatic cirrhosis.
 In these patients, a reduced frequency and/or dose is required.
-WELLBUTRIN XL should be used with caution in patients with hepatic impairment (including mild-to-moderate hepatic cirrhosis) and reduced frequency and/or dose should be considered in patients with mild-to-moderate hepatic cirrhosis.
+WELLBUTRIN XL should be used with caution in patients with hepatic impairment (including mild to moderate hepatic cirrhosis) and reduced frequency and/or dose should be considered in patients with mild to moderate hepatic cirrhosis.
 
 All patients with hepatic impairment should be closely monitored for possible adverse effects that could indicate high drug and metabolite levels (see CLINICAL PHARMACOLOGY, WARNINGS, and DOSAGE AND ADMINISTRATION).
 
 Renal Impairment: There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
-An inter-study comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3– and 2.8-fold increase, respectively, in AUC for patients with end-stage renal failure.
+An inter-study comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3 and 2.8-fold increase, respectively, in AUC for patients with end-stage renal failure.
 A second study, comparing normal subjects and patients with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that exposure to a single 150 mg dose of sustained-release bupropion was approximately 2-fold higher in patients with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 WELLBUTRIN XL should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered as bupropion and the metabolites of bupropion may accumulate in such patients to a greater extent than usual.
@@ -319,7 +328,7 @@ The study showed no greater risk for congenital malformations overall, or cardio
 The results of this study have not been corroborated.
 WELLBUTRIN XL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Labor and Delivery: The effect of WELLBUTRIN XL Tablets on labor and delivery in humans is unknown.
+Labor and Delivery: The effect of WELLBUTRIN XL on labor and delivery in humans is unknown.
 
 Nursing Mothers: Like many other drugs, bupropion and its metabolites are secreted in human milk.
 Because of the potential for serious adverse reactions in nursing infants from WELLBUTRIN XL, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.

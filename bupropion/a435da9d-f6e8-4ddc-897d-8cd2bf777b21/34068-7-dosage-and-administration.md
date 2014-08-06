@@ -41,6 +41,6 @@ Patients who are currently being treated with WELLBUTRIN SR Sustained-Release Ta
 
 Dosage Adjustment for Patients With Impaired Hepatic Function: WELLBUTRIN XL should be used with extreme caution in patients with severe hepatic cirrhosis.
 The dose should not exceed 150 mg every other day in these patients.
-WELLBUTRIN XL should be used with caution in patients with hepatic impairment (including mild-to-moderate hepatic cirrhosis) and a reduced frequency and/or dose should be considered in patients with mild-to-moderate hepatic cirrhosis (see CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
+WELLBUTRIN XL should be used with caution in patients with hepatic impairment (including mild to moderate hepatic cirrhosis) and a reduced frequency and/or dose should be considered in patients with mild to moderate hepatic cirrhosis (see CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
 
 Dosage Adjustment for Patients With Impaired Renal Function: WELLBUTRIN XL should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
