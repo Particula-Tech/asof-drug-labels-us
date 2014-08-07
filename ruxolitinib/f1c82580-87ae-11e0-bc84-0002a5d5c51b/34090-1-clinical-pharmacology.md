@@ -29,11 +29,7 @@ Binding to plasma proteins in vitro is approximately 97%, mostly to albumin.
 
 Metabolism
 
-In vitro studies suggest that CYP3A4 is the major enzyme responsible for metabolism of ruxolitinib.
-Ruxolitinib is the predominant entity in humans representing approximately 60% of the drug-related material in circulation.
-Two major and active metabolites were identified in plasma of healthy subjects representing 25% and 11% of parent AUC.
-These two metabolites have one-fifth and one-half of ruxolitinib's pharmacological activity, respectively.
-The sum total of all active metabolites contributes 18% of the overall pharmacodynamics of ruxolitinib.
+In vitro studies suggest that ruxolitinib is metabolized by CYP3A4 and to a lesser extent by CYP2C9.
 
 Elimination
 
@@ -48,10 +44,23 @@ In a population pharmacokinetic evaluation in myelofibrosis patients, no relatio
 
 Drug Interactions
 
-In vitro, ruxolitinib and its M18 metabolite are not inhibitors of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4.
+Strong CYP3A4 inhibitors: In a trial of 16 healthy volunteers, a single dose of 10 mg of Jakafi was administered alone on Day 1and a single dose of 10 mg of Jakafi was administered on Day 5 in combination with 200 mg of ketoconazole (a strong CYP3A4 inhibitor, given twice daily on Days 2 to 5).
+Ketoconazole increased ruxolitinib Cmax and AUC by 33% and 91%, respectively.
+Ketoconazole also prolonged ruxolitinib half-life from 3.7 to 6.0 hours [see Dosage and Administration (2.7) and Drug Interactions (7.1)].
+
+Fluconazole: Simulations using physiologically-based pharmacokinetic (PBPK) models suggested that fluconazole (a dual CYP3A4 and CYP2C9 inhibitor) increases steady state ruxolitinib AUC by approximately 100% to 300% following concomitant administration of 10 mg of Jakafi twice daily with 100 mg to 400 mg of fluconazole once daily, respectively [see Dosage and Administration (2.7) and Drug Interactions (7.1)].
+
+Mild or moderate CYP3A4 inhibitors: In a trial of 15 healthy volunteers, a single dose of 10 mg of Jakafi was administered alone on Day 1 and a single dose of 10 mg of Jakafi was administered on Day 5 in combination with 500 mg of erythromycin (a moderate CYP3A4 inhibitor, given twice daily on Days 2 to 5).
+Erythromycin increased ruxolitinib Cmax and AUC by 8% and 27%, respectively [see Drug Interactions (7.1)].
+
+CYP3A4 inducers: In a trial of 12 healthy volunteers, a single dose of 50 mg of Jakafi was administered alone on Day 1 and a single dose of 50 mg of Jakafi was administered on Day 13 in combination with 600 mg of rifampin (a strong CYP3A4 inducer, given once daily on Days 3 to 13).
+Rifampin decreased ruxolitinib Cmax and AUC by 32% and 61%, respectively.
+In addition, the relative exposure to ruxolitinib’s active metabolites increased approximately 100% [see Drug Interactions (7.1)].
+
+In vitro studies: In vitro, ruxolitinib and its M18 metabolite do not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4.
 Ruxolitinib is not an inducer of CYP1A2, CYP2B6 or CYP3A4 at clinically relevant concentrations.
 
-In vitro, ruxolitinib and its M18 metabolite are not inhibitors of the P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1 or OAT3 transport systems at clinically relevant concentrations.
+In vitro, ruxolitinib and its M18 metabolite do not inhibit the P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1 or OAT3 transport systems at clinically relevant concentrations.
 Ruxolitinib is not a substrate for the P-gp transporter.
 
 ## 12.4 Thorough QT Study

@@ -99,7 +99,7 @@ These are not all the possible side effects of Jakafi.
 Ask your healthcare provider or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to Incyte Corporation at 1-855-463-3463 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 How should I store Jakafi?
 
@@ -130,7 +130,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Jakafi is a registered trademark of Incyte Corporation.
 All rights reserved.
-U.S. Patent No. 7,598,257; 8,415,362 © 2011-2013 Incyte Corporation.
+U.S. Patent No. 7,598,257; 8,415,362; 8,722,693 © 2011-2014 Incyte Corporation.
 All rights reserved.
 
-Issued: November 2013
+Issued: July 2014

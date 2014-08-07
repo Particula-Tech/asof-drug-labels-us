@@ -4,9 +4,13 @@
 
 Pregnancy Category C
 
+Risk Summary
+
 There are no adequate and well-controlled studies of Jakafi in pregnant women.
 In embryofetal toxicity studies, treatment with ruxolitinib resulted in an increase in late resorptions and reduced fetal weights at maternally toxic doses.
 Jakafi should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Animal Data
 
 Ruxolitinib was administered orally to pregnant rats or rabbits during the period of organogenesis, at doses of 15, 30 or 60 mg/kg/day in rats and 10, 30 or 60 mg/kg/day in rabbits.
 There was no evidence of teratogenicity.

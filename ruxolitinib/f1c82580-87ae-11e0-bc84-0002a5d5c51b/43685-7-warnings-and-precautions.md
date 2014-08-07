@@ -5,30 +5,46 @@
 Treatment with Jakafi can cause thrombocytopenia, anemia and neutropenia.
 [see Dosage and Administration (2.1)].
 
-Thrombocytopenia was generally reversible and was usually managed by reducing the dose or temporarily interrupting Jakafi.
+Manage thrombocytopenia by reducing the dose or temporarily interrupting Jakafi.
 Platelet transfusions may be necessary [see Dosage and Administration (2.2), and Adverse Reactions (6.1)].
 
 Patients developing anemia may require blood transfusions and/or dose modifications of Jakafi.
 
-Severe neutropenia (ANC less than 0.5 X 109/L) was generally reversible.
-Withhold Jakafi until recovery [see Adverse Reactions (6.1)].
+Severe neutropenia (ANC less than 0.5 X 109/L) was generally reversible by withholding Jakafi until recovery [see Adverse Reactions (6.1)].
 
 Perform a pre-treatment complete blood count (CBC) and monitor CBCs every 2 to 4 weeks until doses are stabilized, and then as clinically indicated.
 [see Dosage and Administration (2.2), and Adverse Reactions (6.1)].
 
 ## 5.2 Risk of Infection
 
-Serious bacterial, mycobacterial, fungal and viral infections may occur.
-Active serious infections should have resolved before starting therapy with Jakafi.
-Tuberculosis has been reported in patients receiving Jakafi for myelofibrosis.
-Attention should be given to the possibility of latent or active tuberculosis.
-Observe patients receiving Jakafi for signs and symptoms of infection and initiate appropriate treatment promptly.
+Serious bacterial, mycobacterial, fungal and viral infections have occurred.
+Delay starting therapy with Jakafi until active serious infections have resolved.
+Observe patients receiving Jakafi for signs and symptoms of infection and manage promptly.
+
+Tuberculosis
+
+Tuberculosis infection has been reported in patients receiving Jakafi.
+Observe patients receiving Jakafi for signs and symptoms of active tuberculosis and manage promptly.
+
+Prior to initiating Jakafi, patients should be evaluated for tuberculosis risk factors, and those at higher risk should be tested for latent infection.
+Risk factors include, but are not limited to, prior residence in or travel to countries with a high prevalence of tuberculosis, close contact with a person with active tuberculosis, and a history of active or latent tuberculosis where an adequate course of treatment cannot be confirmed.
+
+For patients with evidence of active or latent tuberculosis, consult a physician with expertise in the treatment of tuberculosis before starting Jakafi.
+The decision to continue Jakafi during treatment of active tuberculosis should be based on the overall risk-benefit determination.
 
 PML
 
-Progressive multifocal leukoencephalopathy (PML) has been reported with ruxolitinib treatment for myelofibrosis.
+Progressive multifocal leukoencephalopathy (PML) has occurred with ruxolitinib treatment for myelofibrosis.
 If PML is suspected, stop Jakafi and evaluate.
 
 Herpes Zoster
 
 Advise patients about early signs and symptoms of herpes zoster and to seek treatment as early as possible if suspected [see Adverse Reactions (6.1)].
+
+## 5.3 Myelofibrosis Symptom Exacerbation Following Interruption or Discontinuation of Treatment with Jakafi
+
+Following discontinuation of Jakafi, symptoms of myelofibrosis generally return to pretreatment levels over a period of approximately one week.
+Some patients have experienced one or more of the following adverse events after discontinuing Jakafi: fever, respiratory distress, hypotension, DIC, or multi-organ failure.
+If one or more of these occur after discontinuation of, or while tapering the dose of Jakafi, evaluate for and treat any intercurrent illness and consider restarting or increasing the dose of Jakafi.
+Instruct patients not to interrupt or discontinue Jakafi therapy without consulting their physician.
+When discontinuing or interrupting therapy with Jakafi for reasons other than thrombocytopenia or neutropenia [see Dosage and Administration (2.9)], consider tapering the dose of Jakafi gradually rather than discontinuing abruptly.

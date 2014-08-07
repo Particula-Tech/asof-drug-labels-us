@@ -29,11 +29,9 @@ Patients should be advised to continue taking Jakafi every day for as long as th
 Patients should not change dose or stop taking Jakafi without first consulting their physician.
 Patients should be aware that after discontinuation of treatment, myelofibrosis signs and symptoms are expected to return.
 
-Manufactured by: DSM Pharmaceuticals, Inc. Greenville, NC 27834
-
 Manufactured for: Incyte Corporation Wilmington, DE 19880
 
 Jakafi is a registered trademark of Incyte Corporation.
 All rights reserved.
-U.S. Patent No. 7,598,257; 8,415,362 © 2011-2013 Incyte Corporation.
+U.S. Patent No. 7,598,257; 8,415,362; 8,722,693 © 2011-2014 Incyte Corporation.
 All rights reserved.

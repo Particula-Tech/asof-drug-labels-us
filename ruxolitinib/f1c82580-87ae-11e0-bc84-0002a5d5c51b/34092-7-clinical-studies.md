@@ -78,3 +78,8 @@ Figure 2 shows the percent change from baseline in Total Symptom Score for each 
 Results are excluded for 5 patients with a baseline Total Symptom Score of zero, 8 patients with missing baseline and 6 patients with insufficient post-baseline data.
 
 Figure 3 displays the proportion of patients with at least a 50% improvement in each of the individual symptoms that comprise the Total Symptom Score indicating that all 6 of the symptoms contributed to the higher Total Symptom Score response rate in the group treated with Jakafi.
+
+Overall survival was a secondary endpoint in both Study 1 and Study 2.
+Patients in the control groups were eligible for crossover in both studies, and the median times to crossover were 9 months in Study 1 and 17 months in Study 2.
+
+Figure 4 and Figure 5 show Kaplan-Meier curves of overall survival at prospectively planned analyses after all patients remaining on study had completed 144 weeks on study.

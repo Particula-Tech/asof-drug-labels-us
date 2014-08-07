@@ -107,12 +107,21 @@ Interrupt treatment for bleeding requiring intervention regardless of current pl
 Once the bleeding event has resolved, consider resuming treatment at the prior dose if the underlying cause of bleeding has been controlled.
 If the bleeding event has resolved but the underlying cause persists, consider resuming treatment with Jakafi at a lower dose.
 
-## 2.7 Dose Adjustment with Concomitant Strong CYP3A4 Inhibitors
+## 2.7 Dose Modification for Drug Interactions
 
-On the basis of pharmacokinetic studies in healthy volunteers, when administering Jakafi with strong CYP3A4 inhibitors (such as but not limited to boceprevir, clarithromycin, conivaptan, grapefruit juice, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, mibefradil, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole), the recommended starting dose is 10 mg twice daily for patients with a platelet count greater than or equal to 100 X 109/L.
+Concomitant Use with Strong CYP3A4 Inhibitors or Fluconazole
+
+Modify the dose of Jakafi when given concomitantly with strong CYP3A4 inhibitors (such as but not limited to boceprevir, clarithromycin, conivaptan, grapefruit juice, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, mibefradil, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole) and fluconazole doses less than or equal to 200 mg as follows [see Drug Interactions (7.1)]:
+
+- Starting dose, platelet count greater than or equal to 100 X 109/L: 10 mg twice daily
+- Starting dose, platelet counts 50 to less than 100 X 109/L: 5 mg once daily
+- Patients on stable Jakafi dose of greater than or equal to 10 mg twice daily: Reduce dose by 50% (rounded up to the closest available tablet strength).
+- Patients on stable Jakafi dose of 5 mg twice daily: Reduce dose to 5 mg once daily.
+- Patients on stable Jakafi dose of 5 mg once daily: Avoid strong CYP3A4 inhibitor or fluconazole treatment or interrupt Jakafi treatment for the duration of strong CYP3A4 inhibitor or fluconazole use.
+
+Avoid the use of fluconazole doses of greater than 200 mg daily concomitantly with Jakafi.
+
 Additional dose modifications should be made with careful monitoring of safety and efficacy.
-
-Concurrent administration of Jakafi with strong CYP3A4 inhibitors should be avoided in patients with platelet counts less than 100 X 109/L [see Drug Interactions (7.1)].
 
 ## 2.8 Organ Impairment
 
@@ -121,18 +130,18 @@ Renal Impairment
 On the basis of pharmacokinetic studies in volunteers with renal impairment, the recommended starting dose is 10 mg twice daily for patients with a platelet count between 100 X 109/L and 150 X 109/L and moderate (CrCl 30-59 mL/min) or severe renal impairment (CrCl 15-29 mL/min).
 Additional dose modifications should be made with careful monitoring of safety and efficacy.
 
-The recommended starting dose for patients with end stage renal disease on dialysis is 15 mg for patients with a platelet count between 100 X 109/L and 200 X 109/L or 20 mg for patients with a platelet count of greater than 200 X 109/L.
+The recommended starting dose for patients with end stage renal disease on dialysis is 15 mg once after a dialysis session for patients with a platelet count between 100 X 109/L and 200 X 109/L or 20 mg for patients with a platelet count of greater than 200 X 109/L.
 Subsequent doses should be administered on dialysis days following each dialysis session.
-Additional dose modifications should be made with careful monitoring of safety and efficacy.
+Additional dose modifications should be made with frequent monitoring of safety and efficacy.
 
-Jakafi should be avoided in patients with end stage renal disease (CrCl less than 15 mL/min) not requiring dialysis and in patients with moderate or severe renal impairment with platelet counts less than 100 X 109/L [see Use in Specific Populations (8.6)].
+Avoid use of Jakafi in patients with end stage renal disease (CrCl less than 15 mL/min) not requiring dialysis and in patients with moderate or severe renal impairment with platelet counts less than 100 X 109/L [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
 On the basis of pharmacokinetic studies in volunteers with hepatic impairment, the recommended starting dose is 10 mg twice daily for patients with a platelet count between 100 X 109/L and 150 X 109/L.
 Additional dose modifications should be made with careful monitoring of safety and efficacy.
 
-Jakafi should be avoided in patients with hepatic impairment with platelet counts less than 100 X 109/L [see Use in Specific Populations (8.7)].
+Avoid use of Jakafi in patients with hepatic impairment with platelet counts less than 100 X 109/L [see Use in Specific Populations (8.7)].
 
 ## 2.9 Method of Administration
 

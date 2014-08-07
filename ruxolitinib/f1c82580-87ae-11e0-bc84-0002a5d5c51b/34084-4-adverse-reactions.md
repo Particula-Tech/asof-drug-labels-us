@@ -4,6 +4,7 @@ The following serious adverse reactions are discussed in greater detail in other
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
 - Risk of Infection [see Warnings and Precautions (5.2)]
+- Myelofibrosis Symptom Exacerbation Following Interruption or Discontinuation of Treatment with Jakafi [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -13,17 +14,13 @@ The safety of Jakafi was assessed in 617 patients in six clinical studies with a
 
 In these two Phase 3 studies, patients had a median duration of exposure to Jakafi of 9.5 months (range 0.5 to 17 months), with 88.7% of patients treated for more than 6 months and 24.6% treated for more than 12 months.
 One hundred and eleven (111) patients started treatment at 15 mg twice daily and 190 patients started at 20 mg twice daily.
+In patients starting treatment with 15 mg twice daily (pretreatment platelet counts of 100 to 200 X 109/L) and 20 mg twice daily (pretreatment platelet counts greater than 200 X 109/L), 65% and 25% of patients, respectively, required a dose reduction below the starting dose within the first 8 weeks of therapy.
 
-In a double-blind, randomized, placebo-controlled study of Jakafi, 155 patients were treated with Jakafi.
-The most frequent adverse drug reactions were thrombocytopenia and anemia [see Table 6].
+In a double-blind, randomized, placebo-controlled study of Jakafi, among the 155 patients treated with Jakafi, the most frequent adverse drug reactions were thrombocytopenia and anemia [see Table 6].
 Thrombocytopenia, anemia and neutropenia are dose related effects.
-The three most frequent non-hematologic adverse reactions were bruising, dizziness, and headache [see Table 5].
+The three most frequent non-hematologic adverse reactions were bruising, dizziness and headache [see Table 5].
 
-Discontinuation for adverse events, regardless of causality, was observed in 11.0% of patients treated with Jakafi and 10.6% of patients treated with placebo.
-
-Following interruption or discontinuation of Jakafi, symptoms of myelofibrosis generally return to pretreatment levels over a period of approximately 1 week.
-There have been isolated cases of patients discontinuing Jakafi during acute intercurrent illnesses after which the patient's clinical course continued to worsen; however, it has not been established whether discontinuation of therapy contributed to the clinical course in these patients.
-When discontinuing therapy for reasons other than thrombocytopenia, gradual tapering of the dose of Jakafi may be considered [see Dosage and Administration (2.9)].
+Discontinuation for adverse events, regardless of causality, was observed in 11% of patients treated with Jakafi and 10.6% of patients treated with placebo.
 
 Table 5 presents the most common adverse reactions occurring in patients who received Jakafi in the double-blind, placebo-controlled study during randomized treatment.
 
