@@ -112,7 +112,7 @@ NDC: 0338-1009-02
 
 DOPamine Hydrchloride and 5% Dextrose INJ, USP
 
-80mg per 250mL
+800mg per 250mL
 
 (17) XXXXX00(10)x
 
