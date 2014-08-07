@@ -2,7 +2,7 @@
 
 ## Pharmacodynamics
 
-The mechanism of action of citalopram hydrobromide as an antidepressant is presumed to be linked to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT).
+The mechanism of action of citalopram as an antidepressant is presumed to be linked to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT).
 In vitro and in vivo studies in animals suggest that citalopram is a highly selective serotonin reuptake inhibitor (SSRI) with minimal effects on norepinephrine (NE) and dopamine (DA) neuronal reuptake.
 Tolerance to the inhibition of 5-HT uptake is not induced by long-term (14-day) treatment of rats with citalopram.
 Citalopram is a racemic mixture (50/50), and the inhibition of 5-HT reuptake by citalopram is primarily due to the (S)-enantiomer.
@@ -16,7 +16,7 @@ The single- and multiple-dose pharmacokinetics of citalopram are linear and dose
 Biotransformation of citalopram is mainly hepatic, with a mean terminal half-life of about 35 hours.
 With once daily dosing, steady state plasma concentrations are achieved within approximately one week.
 At steady state, the extent of accumulation of citalopram in plasma, based on the half-life, is expected to be 2.5 times the plasma concentrations observed after a single dose.
-The tablet and oral solution dosage forms of citalopram hydrobromide are bioequivalent
+The tablet and oral solution dosage forms of citalopram are bioequivalent
 
 ### Absorption and Distribution
 
@@ -82,12 +82,12 @@ However, in vivo data to address this question are limited.
 #### CYP3A4 and CYP2C19 inhibitors
 
 Since CYP3A4 and CYP2C19 are the primary enzymes involved in the metabolism of citalopram, it is expected that potent inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, and macrolide antibiotics) and potent inhibitors of CYP2C19 (e.g., omeprazole) might decrease the clearance of citalopram.
-However, coadministration of citalopram and the potent CYP3A4 inhibitor ketoconazole did not significantly affect the pharmacokinetics of citalopram.
-Citalopram hydrobromide 20 mg/day is the maximum recommended dose in patients taking concomitant cimetidine or another CYP2C19 inhibitor, because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
+However, co-administration of citalopram and the potent CYP3A4 inhibitor ketoconazole did not significantly affect the pharmacokinetics of citalopram.
+Citalopram 20 mg/day is the maximum recommended dose in patients taking concomitant cimetidine or another CYP2C19 inhibitor, because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 #### CYP2D6 Inhibitors
 
-Coadministration of a drug that inhibits CYP2D6 with citalopram is unlikely to have clinically significant effects on citalopram metabolism, based on the study results in CYP2D6 poor metabolizers.
+Co-administration of a drug that inhibits CYP2D6 with citalopram is unlikely to have clinically significant effects on citalopram metabolism, based on the study results in CYP2D6 poor metabolizers.
 
 ## Clinical Efficacy Trials
 

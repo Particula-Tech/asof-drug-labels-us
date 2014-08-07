@@ -1,10 +1,10 @@
 # DOSAGE AND ADMINISTRATION
 
-Citalopram Hydrobromide should be administered once daily, in the morning or evening, with or without food.
+Citalopram should be administered once daily, in the morning or evening, with or without food.
 
 ## Initial Treatment
 
-Citalopram hydrobromide should be administered at an initial dose of 20 mg once daily, with an increase to a maximum dose of 40 mg/day at an interval of no less than one week.
+Citalopram should be administered at an initial dose of 20 mg once daily, with an increase to a maximum dose of 40 mg/day at an interval of no less than one week.
 Doses above 40 mg/day are not recommended due to the risk of QT prolongation.
 Additionally, the only study pertinent to dose response for effectiveness did not demonstrate an advantage for the 60 mg/day dose over the 40 mg/day dose.
 
@@ -37,7 +37,7 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 
-## Switching Patients To or From a Monoamine Oxidase lnhibitor(MAOI) Intended to Treat Psychiatric Disorders
+Switching Patients To or From a Monoamine Oxidase lnhibitor(MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with citalopram.
 Conversely, at least 14 days should be allowed after stopping citalopram before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).

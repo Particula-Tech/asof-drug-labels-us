@@ -89,7 +89,7 @@ TABLE 3: Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clin
 | Urogenital |  |  |
 | Ejaculation DisorderPrimarily ejaculatory delay,Denominator used was for males only (N=425 citalopram; N=194 placebo). | 6% | 1% |
 | Impotence | 3% | <1% |
-| *Events reported by at least 2% of patients treated with Citalopram Hydrobromide are reported, except for the following events which had an incidence on placebo ≥ Citalopram Hydrobromide: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain. |  |  |
+| *Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain. |  |  |
 
 ### Dose Dependency of Adverse Events
 
@@ -145,7 +145,7 @@ None of the patients in the placebo group had a post-dose QTcF >500 msec compare
 The incidence of tachycardic outliers was 0.5% in the citalopram group and 0.4% in the placebo group.
 The incidence of bradycardic outliers was 0.9% in the citalopram group and 0.4% in the placebo group.
 
-## Other Events Observed During the Premarketing Evaluation of Citalopram Hydrobromide
+## Other Events Observed During the Premarketing Evaluation of Citalopram
 
 Following is a list of WHO terms that reflect treatment-emergent adverse events, as defined in the introduction to the ADVERSE REACTIONS section, reported by patients treated with citalopram at multiple doses in a range of 10 to 80 mg/day during any phase of a trial within the premarketing database of 4422 patients.
 All reported events are included except those already listed in Table 3 or elsewhere in labeling, those events for which a drug cause was remote, those event terms which were so general as to be uninformative, and those occurring in only one patient.
@@ -205,7 +205,7 @@ Urinary System Disorders - Frequent: polyuria.
 Infrequent: micturition frequency, urinary incontinence, urinary retention, dysuria.
 Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal pain.
 
-## Other Events Observed During the Postmarketing Evaluation of Citalopram Hydrobromide
+## Other Events Observed During the Postmarketing Evaluation of Citalopram
 
 It is estimated that over 30 million patients have been treated with citalopram since market introduction.
-Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, neuroleptic malignant syndrome, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.
+Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, angle-closure glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, neuroleptic malignant syndrome, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsade de pointes, and withdrawal syndrome.

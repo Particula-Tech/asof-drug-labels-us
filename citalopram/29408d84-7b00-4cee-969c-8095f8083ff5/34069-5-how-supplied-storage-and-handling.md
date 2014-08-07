@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Citalopram Hydrobromide Oral Solution is supplied as a peppermint flavored oral solution.
+Citalopram Oral Solution USP is supplied as a peppermint flavored oral solution.
 
 0054-0062-58 10 mg/5 mL, 240 mL per bottle
 

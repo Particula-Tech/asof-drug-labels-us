@@ -2,7 +2,7 @@
 
 ## Controlled Substance Class
 
-Citalopram hydrobromide is not a controlled substance.
+Citalopram is not a controlled substance.
 
 ## Physical and Psychological Dependence
 
