@@ -15,15 +15,20 @@ Patients using topical corticosteroids should receive the following information 
 - •As with other corticosteroids, therapy should be discontinued when control is achieved.
   If no improvement is seen within 4 weeks, contact the physician.
 
-© 2012 Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
+© 2014, Bayer HealthCare Pharmaceuticals Inc. All rights reserved.
 
-- Manufactured for:
+Manufactured for:
 
-Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
+Bayer HealthCare Pharmaceuticals Inc.
+
+Whippany, NJ 07981
 
 Manufactured in Canada
 
-6706905
+Rev.
+July 2014
+
+6706906
 
 The following is a representative example of Desonate labeling.
 See the "How Supplied" section for a complete listing of all components.
