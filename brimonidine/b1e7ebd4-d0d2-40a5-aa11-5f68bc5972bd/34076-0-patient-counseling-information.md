@@ -5,20 +5,18 @@ Patients who engage in hazardous activities should be cautioned of the potential
 
 Rx Only
 
-Distributed by:
-
-Falcon Pharmaceuticals, Ltd.
-
-Fort Worth, Texas 76134
-
-Manufactured by:
-
-Alcon Research, Ltd.
-
-Fort Worth, Texas 76134
-
-Printed in USA
-
 *POLYQUAD is a registered trademark of Alcon Research, Ltd.
 
 **ALPHAGAN P is a registered trademark of Allergan, Inc.
+
+Manufactured by
+
+Alcon Laboratories, Inc.
+
+Fort Worth, Texas 76134 for
+
+Sandoz Inc.
+
+Princeton, NJ 08540
+
+Printed in USA

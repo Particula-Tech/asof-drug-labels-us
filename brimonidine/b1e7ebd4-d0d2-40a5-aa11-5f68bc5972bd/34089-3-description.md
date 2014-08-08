@@ -13,4 +13,4 @@ CAS Number: 59803-98-4
 In solution, Brimonidine Tartrate Ophthalmic Solution, 0.15% has a clear, greenish-yellow color.
 It has an osmolality of 250 - 350 mOsmol/kg and a pH of 6.6 - 7.4.
 
-Contains: Active ingredient: brimonidine tartrate 0.151.5 mg/mL, Preservative: POLYQUAD* 0.01 mg/mL, Inactives: povidone, boric acid, sodium borate, calcium chloride, magnesium chloride, potassium chloride, mannitol, sodium chloride, purified water, with hydrochloric acid and/or sodium hydroxide to adjust pH.
+Contains: Active ingredient: brimonidine tartrate 1.5 mg/mL, Preservative: POLYQUAD* 0.01 mg/mL, Inactives: povidone, boric acid, sodium borate, calcium chloride, magnesium chloride, potassium chloride, mannitol, sodium chloride, purified water, with hydrochloric acid and/or sodium hydroxide to adjust pH.

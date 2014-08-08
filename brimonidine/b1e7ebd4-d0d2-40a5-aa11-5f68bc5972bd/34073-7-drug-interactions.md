@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Anti-hypertensives/Cardiac Glycosides
+## 7.1 Anti-hypertensives / Cardiac Glycosides
 
 Alpha-2 agonists, as a class, may reduce blood pressure.
 Caution in using drugs such as beta-blockers (ophthalmic and systemic), anti-hypertensives and/or cardiac glycosides is advised.

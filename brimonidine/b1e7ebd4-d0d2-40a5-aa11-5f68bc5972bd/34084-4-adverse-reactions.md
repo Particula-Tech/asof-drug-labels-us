@@ -12,7 +12,7 @@ Events occurring in approximately 1-4% of subjects included: allergic reaction, 
 
 The following events were reported in less than 1% of subjects: corneal erosion, nasal dryness, and taste perversion.
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 The following events have been identified during post-marketing use of brimonidine tartrate ophthalmic solutions in clinical practice.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
