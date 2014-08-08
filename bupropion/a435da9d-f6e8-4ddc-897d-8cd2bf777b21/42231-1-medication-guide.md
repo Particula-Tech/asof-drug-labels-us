@@ -242,5 +242,4 @@ Manufactured in Canada by: Valeant Pharmaceuticals International, Inc. Steinbach
 
 For: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Rev.
-TBD TBD
+Revised July 2014 9395600
