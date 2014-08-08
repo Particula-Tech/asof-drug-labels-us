@@ -2,8 +2,8 @@
 
 ULTRAM ER should not be used in patients with:
 
-- creatinine clearance less than 30 mL/min,
-- severe hepatic impairment (Child-Pugh Class C)
+- •creatinine clearance less than 30 mL/min,
+- •severe hepatic impairment (Child-Pugh Class C)
 
 (See PRECAUTIONS, Use in Renal and Hepatic Disease).
 

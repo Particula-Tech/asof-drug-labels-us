@@ -2,6 +2,8 @@
 
 NDC 50458-657-30
 
+CIV
+
 ONCE DAILY ULTRAM® ER (tramadol HCl) Extended-Release Tablets
 
 300 mg
@@ -16,6 +18,8 @@ janssen
 
 NDC 50458-655-30
 
+CIV
+
 ONCE DAILY ULTRAM® ER (tramadol HCl) Extended-Release Tablets
 
 200 mg
@@ -29,6 +33,8 @@ janssen
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
 NDC 50458-653-30
+
+CIV
 
 ONCE DAILY ULTRAM® ER (tramadol HCl) Extended-Release Tablets
 

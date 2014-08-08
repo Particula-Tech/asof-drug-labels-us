@@ -1,6 +1,8 @@
 # DRUG ABUSE AND ADDICTION
 
-ULTRAM® ER is a mu-agonist opioid.
+ULTRAM ER (tramadol hydrochloride) Extended-Release Tablets are classified as a Schedule IV controlled substance.
+
+ULTRAM ER is a mu-agonist opioid.
 Tramadol, like other opioids used in analgesia, can be abused and is subject to criminal diversion.
 
 Drug addiction is characterized by compulsive use, use for non-medical purposes, and continued use despite harm or risk of harm.

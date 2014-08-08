@@ -2,10 +2,16 @@ Rx only
 
 Prescribing Information
 
-Manufactured by: Biovail Corporation, Mississauga, ON L5N 8M5, Canada
+Manufactured by: Valeant Pharmaceuticals International, Inc.
+
+Steinbach, MB, R5G 1Z7
+
+Canada
 
 Made in Canada
 
-Manufactured for: Janssen Pharmaceuticals Inc., Titusville, NJ 08560
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Revised February 2013
+LB0049-08
+
+Revised July 2014

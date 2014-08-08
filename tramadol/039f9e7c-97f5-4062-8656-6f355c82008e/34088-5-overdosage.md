@@ -2,7 +2,7 @@
 
 Acute overdosage with tramadol can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, bradycardia, hypotension, and death.
 
-Deaths due to overdose have been reported with abuse and misuse of tramadol by ingesting, inhaling, or injecting the crushed tablets.
+Deaths due to overdose have been reported with abuse and misuse of tramadol, by ingesting, inhaling, or injecting the crushed tablets.
 Review of case reports has indicated that the risk of fatal overdose is further increased when tramadol is abused concurrently with alcohol or other CNS depressants, including other opioids.
 
 In the treatment of tramadol overdosage, primary attention should be given to the re-establishment of a patent airway and institution of assisted or controlled ventilation.

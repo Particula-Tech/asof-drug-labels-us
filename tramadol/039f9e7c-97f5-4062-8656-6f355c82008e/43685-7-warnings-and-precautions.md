@@ -6,30 +6,29 @@ Seizures have been reported in patients receiving tramadol within the recommende
 Spontaneous post-marketing reports indicate that seizure risk is increased with doses of tramadol above the recommended range.
 Concomitant use of tramadol increases the seizure risk in patients taking:
 
-- Selective serotonin re-uptake inhibitors (SSRI antidepressants or anorectics),
-- Tricyclic antidepressants (TCAs), and other tricyclic compounds (e.g., cyclobenzaprine, promethazine, etc.), or
-- Other opioids.
+- •Selective serotonin re-uptake inhibitors (SSRI antidepressants or anorectics),
+- •Tricyclic antidepressants (TCAs), and other tricyclic compounds (e.g., cyclobenzaprine, promethazine, etc.), or
+- •Other opioids.
 
 Administration of tramadol may enhance the seizure risk in patients taking:
 
-- MAO inhibitors (see also WARNINGS, Use with MAO Inhibitors and Serotonin Re-uptake Inhibitors),
-- Neuroleptics, or
-- Other drugs that reduce the seizure threshold.
+- •MAO inhibitors (see also WARNINGS, Use with MAO Inhibitors and Serotonin Re-uptake Inhibitors),
+- •Neuroleptics, or
+- •Other drugs that reduce the seizure threshold.
 
 Risk of convulsions may also increase in patients with epilepsy, those with a history of seizures, or in patients with a recognized risk for seizure (such as head trauma, metabolic disorders, alcohol and drug withdrawal, CNS infections).
 In tramadol overdose, naloxone administration may increase the risk of seizure.
 
 ## Suicide Risk
 
-- Do not prescribe ULTRAM ER for patients who are suicidal or addiction-prone.
-- Prescribe ULTRAM ER with caution for patients taking tranquilizers or antidepressant drugs and patients who use alcohol in excess.
-- Tell your patients not to exceed the recommended dose and to limit their intake of alcohol.
+- •Do not prescribe ULTRAM ER for patients who are suicidal or addiction-prone.
+- •Prescribe ULTRAM ER with caution for patients taking tranquilizers or antidepressant drugs and patients who use alcohol in excess.
+- •Tell your patients not to exceed the recommended dose and to limit their intake of alcohol.
 
 ## Serotonin Syndrome Risk
 
-The development of a potentially life-threatening serotonin syndrome may occur with the use of tramadol products, including ULTRAM ER, particularly with concomitant use of serotonergic drugs such as SSRIs, SNRIs, TCAs, MAOIs and triptans, with drugs which impair metabolism of serotonin (including MAOIs), and with drugs which impair metabolism of tramadol (CYP2D6 and CYP3A4 inhibitors).
-This may occur within the recommended dose.
-(see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+The development of a potentially life-threatening serotonin syndrome may occur with the use of tramadol products, including ULTRAM ER, particularly with concomitant use of serotonergic drugs such as SSRIs, SNRIs, TCAs, MAOIs, and triptans, with drugs which impair metabolism of serotonin (including MAOIs), and with drugs which impair metabolism of tramadol (CYP2D6 and CYP3A4 inhibitors).
+This may occur within the recommended dose (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
 
 Serotonin syndrome may include mental-status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
@@ -71,8 +70,7 @@ Increased Intracranial Pressure or Head Trauma
 ULTRAM ER should be used with caution in patients with increased intracranial pressure or head injury.
 The respiratory depressant effects of opioids include carbon dioxide retention and secondary elevation of cerebrospinal fluid pressure, and may be markedly exaggerated in these patients.
 Additionally, pupillary changes (miosis) from tramadol may obscure the existence, extent, or course of intracranial pathology.
-Clinicians should also maintain a high index of suspicion for adverse drug reaction when evaluating altered mental status in these patients if they are receiving ULTRAM ER.
-(see WARNINGS, Respiratory Depression.)
+Clinicians should also maintain a high index of suspicion for adverse drug reaction when evaluating altered mental status in these patients if they are receiving ULTRAM ER (see WARNINGS, Respiratory Depression).
 
 Use in Ambulatory Patients
 
@@ -131,14 +129,14 @@ Therefore, ULTRAM ER should not be used in patients with severe hepatic impairme
 
 ## INFORMATION FOR PATIENTS
 
-- Patients should be informed that ULTRAM ER is for oral use only and should be swallowed whole.
+- •Patients should be informed that ULTRAM ER is for oral use only and should be swallowed whole.
   The tablets should not be chewed, crushed, or split.
-- Patients should be informed that ULTRAM ER may cause seizures and/or serotonin syndrome with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol.
-- Patients should be informed that ULTRAM ER may impair mental or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
-- Patients should be informed that ULTRAM ER should not be taken with alcohol containing beverages.
-- Patients should be informed that ULTRAM ER should be used with caution when taking medications such as tranquilizers, hypnotics or other opiate containing analgesics.
-- Female patients should be instructed to inform the prescriber if they are pregnant, think they might become pregnant, or are trying to become pregnant (see PRECAUTIONS, Labor and Delivery).
-- Patients should be educated regarding the single-dose and 24-hour dosing regimen, as exceeding these recommendations can result in respiratory depression, seizures or death.
+- •Patients should be informed that ULTRAM ER may cause seizures and/or serotonin syndrome with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol.
+- •Patients should be informed that ULTRAM ER may impair mental or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
+- •Patients should be informed that ULTRAM ER should not be taken with alcohol containing beverages.
+- •Patients should be informed that ULTRAM ER should be used with caution when taking medications such as tranquilizers, hypnotics or other opiate containing analgesics.
+- •Female patients should be instructed to inform the prescriber if they are pregnant, think they might become pregnant, or are trying to become pregnant (see PRECAUTIONS, Labor and Delivery).
+- •Patients should be educated regarding the single-dose and 24-hour dosing regimen, as exceeding these recommendations can result in respiratory depression, seizures or death.
 
 Use in Drug and Alcohol Addiction
 
@@ -147,7 +145,7 @@ Its proper usage in individuals with drug or alcohol dependence, either active o
 
 ## Drug Interactions
 
-CYP2D6 and CYP3A4 inhibitors: Concomitant administration of CYP2D6 and/or CYP3A4 inhibitors (see CLINICAL PHARMACOLOGY, Pharmacokinetics), such as quinidine, fluoxetine, paroxetine and amitriptyline (CYP2D6 inhibitors), and ketoconazole and erythromycin (CYP3A4 inhibitors), may reduce metabolic clearance of tramadol increasing the risk for serious adverse events including seizures and serotonin syndrome.
+CYP2D6 and CYP3A4 Inhibitors: Concomitant administration of CYP2D6 and/or CYP3A4 inhibitors (see CLINICAL PHARMACOLOGY, Pharmacokinetics), such as quinidine, fluoxetine, paroxetine and amitriptyline (CYP2D6 inhibitors), and ketoconazole and erythromycin (CYP3A4 inhibitors), may reduce metabolic clearance of tramadol increasing the risk for serious adverse events including seizures and serotonin syndrome.
 
 Serotonergic Drugs: There have been postmarketing reports of serotonin syndrome with use of tramadol and SSRIs/SNRIs or MAOIs and α2-adrenergic blockers.
 Caution is advised when ULTRAM ER is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as SSRIs, MAOIs, triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, or St. John's Wort.

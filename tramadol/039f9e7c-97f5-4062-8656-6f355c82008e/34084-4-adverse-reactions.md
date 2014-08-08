@@ -71,7 +71,7 @@ Infections and infestations: cellulitis, ear infection, gastroenteritis, pneumon
 
 Injury and poisoning: joint sprain, muscle injury
 
-Investigations: alanine aminotransferase increased, blood pressure increased, aspartate aminotransferase increased, heart rate increased, blood glucose increased, liver function tests abnormal,
+Investigations: alanine aminotransferase increased, blood pressure increased, aspartate aminotransferase increased, heart rate increased, blood glucose increased, liver function tests abnormal
 
 Musculoskeletal, connective tissue and bone disorders: muscle cramps, muscle spasms, joint stiffness, muscle twitching, myalgia, osteoarthritis aggravated
 
@@ -93,6 +93,9 @@ The following adverse reactions, not noted above, have been identified during po
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
 
 Eye disorders: miosis, mydriasis
+
+Metabolism and nutrition disorders: Cases of hypoglycemia have been reported very rarely in patients taking tramadol.
+Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients.
 
 Nervous system disorders: movement disorder, speech disorder
 
