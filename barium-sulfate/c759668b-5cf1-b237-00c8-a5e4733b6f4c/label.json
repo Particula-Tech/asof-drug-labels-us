@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "barium-sulfate",
+  "labeler": "E-Z-EM, INC.",
+  "package_ndcs": [
+    "10361-778-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "barium sulfate",
+      "name": "E-Z-Disk"
+    }
+  ],
+  "setid": "c759668b-5cf1-b237-00c8-a5e4733b6f4c",
+  "source": "dailymed"
+}
