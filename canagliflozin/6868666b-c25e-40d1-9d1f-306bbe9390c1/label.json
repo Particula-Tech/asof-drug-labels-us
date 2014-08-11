@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA204353"
+  ],
+  "inn": "canagliflozin",
+  "labeler": "Janssen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50458-540-60",
+    "50458-540-91",
+    "50458-541-60",
+    "50458-541-91",
+    "50458-542-60",
+    "50458-542-91",
+    "50458-543-60",
+    "50458-543-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "canagliflozin and metformin hydrochloride",
+      "name": "INVOKAMET"
+    }
+  ],
+  "setid": "6868666b-c25e-40d1-9d1f-306bbe9390c1",
+  "source": "dailymed"
+}
