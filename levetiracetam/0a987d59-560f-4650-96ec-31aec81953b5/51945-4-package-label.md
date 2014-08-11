@@ -6,7 +6,7 @@ Levetiracetam Tablets, USP 250 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 120 TABLETS
+Rx only 120 Tablets
 
 Each film-coated tablet contains: Levetiracetam, USP 250 mg
 
@@ -23,9 +23,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM5613DA3
+RM5613DA5
 
 PRINCIPAL DISPLAY PANEL - 500 mg
 
@@ -35,7 +35,7 @@ Levetiracetam Tablets, USP 500 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 120 TABLETS
+Rx only 120 Tablets
 
 Each film-coated tablet contains: Levetiracetam, USP 500 mg
 
@@ -52,9 +52,9 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM5615DA3
+RM5615DA5
 
 PRINCIPAL DISPLAY PANEL - 750 mg
 
@@ -64,7 +64,7 @@ Levetiracetam Tablets, USP 750 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 120 TABLETS
+Rx only 120 Tablets
 
 Each film-coated tablet contains: Levetiracetam, USP 750 mg
 
@@ -83,9 +83,9 @@ This container is not intended for dispensing for household use.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM5617DA3
+RM5617DA5
 
 PRINCIPAL DISPLAY PANEL - 1000 mg
 
@@ -95,7 +95,7 @@ Levetiracetam Tablets, USP 1000 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 60 TABLETS
+Rx only 60 Tablets
 
 Each film-coated tablet contains: Levetiracetam, USP 1000 mg
 
@@ -112,6 +112,6 @@ Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-www.mylan.com
+Mylan.com
 
-RM5619D3
+RM5619D5

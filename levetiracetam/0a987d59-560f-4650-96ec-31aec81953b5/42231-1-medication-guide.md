@@ -186,4 +186,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED DECEMBER 2013 LVTC:R9mpbmt/MG:LVTC:R6
+REVISED JULY 2014 LVTC:R10mpbmt/MG:LVTC:R6

@@ -30,8 +30,6 @@ They are available as follows:
 
 NDC 0378-5619-91 bottles of 60 tablets
 
-NDC 0378-5619-05 bottles of 500 tablets
-
 ## 16.2 Storage
 
 Store at 20° to 25°C (68° to 77°F).
