@@ -43,7 +43,7 @@ Hypersensitivity: Anaphylaxis; angioedema; pruritus; facial edema; urticaria; ra
 
 Musculoskeletal: Local weakness.
 
-Nervous System and Psychiatric: Seizures, ataxia; vertigo; dysarthria; tremors; hypertonia; convulsions; muscle twitching; disorientation; insomnia; depressed mood; abnormal sensations; anxiety; agitation; psychosis, abnormal thinking and dreaming; hallucinations; excitement; paresthesia; diplopia.
+Nervous System and Psychiatric: Seizures, ataxia; vertigo; dysarthria; tremors; hypertonia; convulsions; muscle twitching; disorientation; insomnia; depressed mood; abnormal sensations; anxiety; agitation; psychosis, abnormal thinking and dreaming; hallucinations; excitement; paresthesia; diplopia, serotonin syndrome.
 
 Skin: Sweating.
 

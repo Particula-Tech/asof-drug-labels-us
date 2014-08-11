@@ -10,8 +10,6 @@ Cyclobenzaprine hydrochloride is designated chemically as 3-(5H-dibenzo [a,d] cy
 - 
   - 
     - 
-      - 
-        - 
 
 Each 5 mg Cyclobenzaprine hydrochloride tablet for oral administration contains 5 mg Cyclobenzaprine hydrochloride.
 
@@ -21,4 +19,4 @@ Each tablet contains the following inactive ingredients: lactose monohydrate, mi
 
 In addition, 5 mg tablets also contain polyvinyl alcohol, talc, lecithin, and FD&C yellow # 6 / sunset yellow FCF aluminum lake.
 
-In addition, 10 mg tablets also contain hydroxypropyl methylcellulose, polysorbate, D&C yellow # 10 aluminum lake, FD&C yellow # 6 aluminum lake, methyl paraben, potassium sorbate, propylene glycol, propyl paraben, sodium citrate, and xanthum gum.
+In addition, 10 mg tablets also contain D&C yellow # 10 aluminum lake, FD&C yellow # 6 aluminum lake and hypromellose.

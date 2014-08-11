@@ -11,7 +11,7 @@ Evidence suggests that the net effect of cyclobenzaprine is a reduction of tonic
 Pharmacological studies in animals showed a similarity between the effects of cyclobenzaprine and the structurally related tricyclic antidepressants, including reserpine antagonism, norepinephrine potentiation, potent peripheral and central anticholinergic effects, and sedation.
 Cyclobenzaprine caused slight to moderate increase in heart rate in animals.
 
-Pharmacokinetics
+## Pharmacokinetics
 
 Estimates of mean oral bioavailability of cyclobenzaprine range from 33% to 55%.
 Cyclobenzaprine exhibits linear pharmacokinetics over the dose range 2.5 mg to 10 mg, and is subject to enterohepatic circulation.
@@ -29,14 +29,14 @@ Cyclobenzaprine is eliminated quite slowly, with an effective half-life of
 The plasma concentration of cyclobenzaprine is generally higher in the elderly and in patients with hepatic impairment.
 (See PRECAUTIONS, Use in the Elderly and PRECAUTIONS, Impaired Hepatic Function.)
 
-Elderly
+### Elderly
 
 In a pharmacokinetic study in elderly individuals (≥65yrs old), mean (n=10) steady-state cyclobenzaprine AUC values were approximately 1.7 fold (171.0 ng.hr/mL, range 96.1-255.3) higher than those seen in a group of eighteen younger adults (101.4 ng.hr/mL, range 36.1-182.9) from another study.
 Elderly male subjects had the highest observed mean increase, approximately 2.4 fold (198.3 ng.hr/mL, range 155.6-255.3 versus 83.2 ng.hr/mL, range 41.1-142.5 for younger males) while levels in elderly females were increased to a much lesser extent, approximately 1.2 fold (143.8 ng.hr/mL, range 96.1-196.3 versus 115.9 ng.hr/mL, range 36.1-182.9 for younger females).
 
 In light of these findings, therapy with Cyclobenzaprine hydrochloride tablets, USP in the elderly should be initiated with a 5 mg dose and titrated slowly upward.
 
-Hepatic Impairment
+### Hepatic Impairment
 
 In a pharmacokinetic study of sixteen subjects with hepatic impairment (15 mild, 1 moderate per Child-Pugh score), both AUC and Cmax were approximately double the values seen in the healthy control group.
 Based on the findings, Cyclobenzaprine hydrochloride tablets, USP should be used with caution in subjects with mild hepatic impairment starting with the 5 mg dose and titrating slowly upward.

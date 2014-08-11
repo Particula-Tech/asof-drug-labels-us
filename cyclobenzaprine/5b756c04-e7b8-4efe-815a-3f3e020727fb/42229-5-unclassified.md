@@ -1,3 +1,0 @@
-# SPL UNCLASSIFIED
-
-Rx Only

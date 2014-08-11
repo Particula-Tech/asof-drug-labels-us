@@ -1,4 +1,4 @@
-# INDICATIONS & USAGE
+# INDICATIONS AND USAGE
 
 Cyclobenzaprine hydrochloride tablets, USP is indicated as an adjunct to rest and physical therapy for relief of muscle spasm associated with acute, painful musculoskeletal conditions.
 
