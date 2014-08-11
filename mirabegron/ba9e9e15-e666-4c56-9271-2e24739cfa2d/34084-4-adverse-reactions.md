@@ -52,7 +52,7 @@ Investigations: GGT increased, AST increased, ALT increased, LDH increased
 
 Renal and urinary disorders: nephrolithiasis, bladder pain
 
-Reproductive system and breast disorders: vulvovaginal pruritis, vaginal infection
+Reproductive system and breast disorders: vulvovaginal pruritus, vaginal infection
 
 Skin and subcutaneous tissue disorders: urticaria, leukocytoclastic vasculitis, rash, pruritus, purpura, lip edema
 

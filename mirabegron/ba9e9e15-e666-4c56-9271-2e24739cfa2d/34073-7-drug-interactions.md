@@ -20,4 +20,4 @@ Serum digoxin concentrations should be monitored and used for titration of the d
 
 The mean Cmax of S- and R-warfarin was increased by approximately 4% and AUC by approximately 9% when administered as a single dose of 25 mg after multiple doses of 100 mg mirabegron.
 Following a single dose administration of 25 mg warfarin, mirabegron had no effect on the warfarin pharmacodynamic endpoints such as International Normalized Ratio (INR) and prothrombin time.
-However, the effect of mirabegron on multiple doses of warfarin and on warfarin pharmacodynamic end points such as INR and prothrombin time has not been fully investigated [seeClinical Pharmacology (12.3)].
+However, the effect of mirabegron on multiple doses of warfarin and on warfarin pharmacodynamic end points such as INR and prothrombin time has not been fully investigated [see Clinical Pharmacology (12.3)].

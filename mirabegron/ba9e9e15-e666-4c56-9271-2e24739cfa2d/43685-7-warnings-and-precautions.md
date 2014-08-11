@@ -7,9 +7,9 @@ Periodic blood pressure determinations are recommended, especially in hypertensi
 Myrbetriq is not recommended for use in patients with severe uncontrolled hypertension (defined as systolic blood pressure greater than or equal to 180 mm Hg and/or diastolic blood pressure greater than or equal to 110 mm Hg) [see Clinical Pharmacology (12.2)].
 
 In two, randomized, placebo-controlled, healthy volunteer studies, Myrbetriq was associated with dose-related increases in supine blood pressure.
-In these studies, at the maximum recommended dose of 50 mg, the mean maximum increase in systolic/diastolic blood pressure was approximately 3.5/1.5 mmHg greater than placebo.
+In these studies, at the maximum recommended dose of 50 mg, the mean maximum increase in systolic/diastolic blood pressure was approximately 3.5/1.5 mm Hg greater than placebo.
 
-In contrast, in OAB patients in clinical trials, the mean increase in systolic and diastolic blood pressure at the maximum recommended dose of 50 mg was approximately 0.5 - 1 mmHg greater than placebo.
+In contrast, in OAB patients in clinical trials, the mean increase in systolic and diastolic blood pressure at the maximum recommended dose of 50 mg was approximately 0.5 - 1 mm Hg greater than placebo.
 Worsening of pre-existing hypertension was reported infrequently in Myrbetriq patients.
 
 ## 5.2 Urinary Retention in Patients with Bladder Outlet Obstruction and in Patients Taking Antimuscarinic Medications for OAB

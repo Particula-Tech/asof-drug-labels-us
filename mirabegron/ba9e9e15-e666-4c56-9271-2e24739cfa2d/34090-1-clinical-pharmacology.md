@@ -30,16 +30,16 @@ In this thorough QT study, Myrbetriq also increased blood pressure in a dose dep
 
 Effects on Blood Pressure
 
-In a study of 352 healthy subjects assessing the effect of multiple daily doses of 50 mg, 100 mg, and 200 mg of Myrbetriq for 10 days on the QTc interval, the maximum mean increase in supine SBP/DBP at the maximum recommended dose of 50 mg was approximately 4.0/1.6 mmHg greater than placebo.
-The 24-hour average increases in SBP compared to placebo were 3.0, 5.5, and 9.7 mmHg at Myrbetriq doses of 50 mg, 100 mg and 200 mg, respectively.
+In a study of 352 healthy subjects assessing the effect of multiple daily doses of 50 mg, 100 mg, and 200 mg of Myrbetriq for 10 days on the QTc interval, the maximum mean increase in supine SBP/DBP at the maximum recommended dose of 50 mg was approximately 4.0/1.6 mm Hg greater than placebo.
+The 24-hour average increases in SBP compared to placebo were 3.0, 5.5, and 9.7 mm Hg at Myrbetriq doses of 50 mg, 100 mg and 200 mg, respectively.
 Increases in DBP were also dose-dependent, but were smaller than SBP.
 
 In another study in 96 healthy subjects to assess the impact of age on pharmacokinetics of multiple daily doses of 50 mg, 100 mg, 200 mg, and 300 mg of Myrbetriq for 10 days, SBP also increased in a dose-dependent manner.
-The mean maximum increases in SBP were approximately 2.5, 4.5, 5.5 and 6.5 mmHg for Myrbetriq exposures associated with doses of 50 mg, 100 mg, 200 mg and 300 mg, respectively.
+The mean maximum increases in SBP were approximately 2.5, 4.5, 5.5 and 6.5 mm Hg for Myrbetriq exposures associated with doses of 50 mg, 100 mg, 200 mg and 300 mg, respectively.
 
-In three, 12-week, double-blind, placebo-controlled, safety and efficacy studies (Studies 1, 2 and 3) in OAB patients receiving Myrbetriq 25 mg, 50 mg, or 100 mg once daily, mean increases in SBP/DBP compared to placebo of approximately 0.5 - 1 mmHg were observed.
-Morning SBP increased by at least 15 mmHg from baseline in 5.3%, 5.1%, and 6.7% of placebo, Myrbetriq 25 mg and Myrbetriq 50 mg patients, respectively.
-Morning DBP increased by at least 10 mmHg in 4.6%, 4.1% and 6.6% of placebo, Myrbetriq 25 mg, and Myrbetriq 50 mg patients, respectively.
+In three, 12-week, double-blind, placebo-controlled, safety and efficacy studies (Studies 1, 2 and 3) in OAB patients receiving Myrbetriq 25 mg, 50 mg, or 100 mg once daily, mean increases in SBP/DBP compared to placebo of approximately 0.5 - 1 mm Hg were observed.
+Morning SBP increased by at least 15 mm Hg from baseline in 5.3%, 5.1%, and 6.7% of placebo, Myrbetriq 25 mg and Myrbetriq 50 mg patients, respectively.
+Morning DBP increased by at least 10 mm Hg in 4.6%, 4.1% and 6.6% of placebo, Myrbetriq 25 mg, and Myrbetriq 50 mg patients, respectively.
 Both SBP and DBP increases were reversible upon discontinuation of treatment.
 
 Effect on Intraocular Pressure (IOP)
@@ -72,7 +72,7 @@ Mirabegron is extensively distributed in the body.
 The volume of distribution at steady state (Vss) is approximately 1670 L following intravenous administration.
 Mirabegron is bound (approximately 71%) to human plasma proteins, and shows moderate affinity for albumin and alpha-1 acid glycoprotein.
 Mirabegron distributes to erythrocytes.
-Based on In vitro study erythrocyte concentrations of 14C-mirabegron were about 2-fold higher than in plasma.
+Based on in vitro study erythrocyte concentrations of 14C-mirabegron were about 2-fold higher than in plasma.
 
 Metabolism
 
@@ -98,7 +98,7 @@ Specific Populations
 
 Geriatric Patients
 
-The Cmax and AUC of mirabegron following multiple oral doses in elderly volunteers (≥ 65 years) were similar to those in younger volunteers (18 to 45 years).
+The Cmax and AUC of mirabegron following multiple oral doses in elderly volunteers (≥ 65 years) were similar to those in younger volunteers (18 to 45 years) [see Use in Specific Populations (8.5)].
 
 Pediatric Patients
 
@@ -158,18 +158,18 @@ The effect of ketoconazole, rifampicin, solifenacin, tamsulosin, and metformin o
 The effect of mirabegron on metoprolol, desipramine, combined oral contraceptive-COC (ethinyl estradiol-EE, levonorgestrel-LNG), solifenacin, digoxin, warfarin, tamsulosin, and metformin is shown in Figure 2.
 
 In these studies, the largest increase in mirabegron systemic exposure was seen in the ketoconazole DDI study.
-As a potent CYP3A4 inhibitor, ketoconazole increased mirabegron Cmax by 45% and mirabegron AUC by 80% after multiple dose administration of 400 mg of ketoconazole for 9 days prior to the administration of a single dose of 100 mg mirabegron in 23 male and females healthy subjects.
+As a potent CYP3A4 inhibitor, ketoconazole increased mirabegron Cmax by 45% and mirabegron AUC by 80% after multiple dose administration of 400 mg of ketoconazole for 9 days prior to the administration of a single dose of 100 mg mirabegron in 23 male and female healthy subjects.
 
 As a moderate CYP2D6 inhibitor, mirabegron increased the systemic exposure to metoprolol and desipramine:
 
-- Mirabegron increased the Cmax of metoprolol by 90% and metoprolol AUC by 229% after multiple doses of 160 mg mirabegron IR tablets once daily for 5 days and a single dose of 100 mg metoprolol tablet in 12 healthy male subjects administered before and concomitantly with mirabegron.
-- Mirabegron increased the Cmax of desipramine by 79% and desipramine AUC by 241% after multiple dose administration of 100 mg mirabegron once daily for 18 days and a single dose of 50 mg desipramine before and concomitantly with mirabegron in 28 male and female healthy subjects.
+- •Mirabegron increased the Cmax of metoprolol by 90% and metoprolol AUC by 229% after multiple doses of 160 mg mirabegron IR tablets once daily for 5 days and a single dose of 100 mg metoprolol tablet in 12 healthy male subjects administered before and concomitantly with mirabegron.
+- •Mirabegron increased the Cmax of desipramine by 79% and desipramine AUC by 241% after multiple dose administration of 100 mg mirabegron once daily for 18 days and a single dose of 50 mg desipramine before and concomitantly with mirabegron in 28 male and female healthy subjects.
 
 Caution is advised if Myrbetriq is co-administered with CYP2D6 substrates such as metoprolol and desipramine, and especially narrow therapeutic index drugs, such as thioridazine, flecainide, and propafenone [see Warnings and Precautions (5.3) and Drug Interactions (7.1)].
 
 Figures 1 and 2 show the magnitude of these interactions on the pharmacokinetic parameters and the recommendations for dose adjustment, if any:
 
-Figure 1: The Effect of Co-administered Drugs on Exposure of Myrbetriqand Dose Recommendation
+Figure 1: The Effect of Co-administered Drugs on Exposure of Myrbetriq and Dose Recommendation
 
 (1) Although no dose adjustment is recommended with solifenacin or tamsulosin based on the lack of pharmacokinetic interaction, Myrbetriq should be administered with caution to patients taking antimuscarinic medications for the treatment of OAB and in patients with clinically significant BOO because of the risk of urinary retention [see Warnings and Precautions (5.2)].
 

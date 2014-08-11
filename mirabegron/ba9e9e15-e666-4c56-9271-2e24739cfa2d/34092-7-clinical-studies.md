@@ -47,20 +47,14 @@ Efficacy of both 25 mg and 50 mg doses of Myrbetriq was maintained through the 1
 
 Figures 3 through 8 show the co-primary endpoints, mean change from baseline (BL) over time in number of incontinence episodes per 24 hours and mean change from baseline over time in number of micturitions per 24 hours, in Studies 1, 2 and 3.
 
-Figure 3.
-Mean (SE) Change from Baseline in Mean Number of Incontinence Episode per 24 Hours - Study 1
+Figure 3: Mean (SE) Change from Baseline in Mean Number of Incontinence Episodes per 24 Hours - Study 1
 
-Figure 4.
-Mean (SE) Change from Baseline in Mean Number of Micturitions per 24 Hours - Study 1
+Figure 4: Mean (SE) Change from Baseline in Mean Number of Micturitions per 24 Hours - Study 1
 
-Figure 5.
-Mean (SE) Change from Baseline in Mean Number of Incontinence Episodes per 24 Hours - Study 2
+Figure 5: Mean (SE) Change from Baseline in Mean Number of Incontinence Episodes per 24 Hours - Study 2
 
-Figure 6.
-Mean (SE) Change from Baseline in Mean Number of Micturitions per 24 Hours - Study 2
+Figure 6: Mean (SE) Change from Baseline in Mean Number of Micturitions per 24 Hours - Study 2
 
-Figure 7.
-Mean (SE) Change from Baseline in Mean Number of Incontinence Episodes per 24 Hours - Study 3
+Figure 7: Mean (SE) Change from Baseline in Mean Number of Incontinence Episodes per 24 Hours - Study 3
 
-Figure 8.
-Mean (SE) Change from Baseline in Mean Number of Micturitions per 24 Hours - Study 3
+Figure 8: Mean (SE) Change from Baseline in Mean Number of Micturitions per 24 Hours - Study 3
