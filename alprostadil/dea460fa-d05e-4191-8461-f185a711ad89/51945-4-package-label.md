@@ -1,23 +1,19 @@
 # PRINCIPAL DISPLAY PANEL - 1 mL Ampoule Label
 
-1 mL NDC 0009-3169-01 Rx only
+1 mL NDC 0009-3169-01
 
-Prostin VR Pediatric® alprostadil injection, USP 500 mcg* FOR INTRAVASCULAR USE ONLY
+Prostin VR Pediatric® alprostadil injection, USP
 
-Refrigerate at 2° to 8°C (36° to 46°F).
+500 mcg*
 
-DOSAGE AND USE:
+FOR INTRAVASCULAR USE ONLY Refrigerate at 2° to 8°C (36° to 46°F).
 
-See accompanying prescribing information.
-Dilute before using.
+DOSAGE AND USE: See accompanying prescribing information.
+Dilute before using. *Each mL contains: 500 micrograms alprostadil in dehydrated alcohol.
 
-*Each mL contains: 500 micrograms alprostadil in dehydrated alcohol.
+Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 MADE IN USA (includes foreign content)
-
-11123001
-
-FPO: RSS
+PAA042607 Rx only
 
 LOT
 
@@ -25,7 +21,7 @@ EXP
 
 # PRINCIPAL DISPLAY PANEL - 5—1 mL Ampoule Package
 
-NDC 0009-3169-06 Contains 5 of NDC 0009-3169-01 Rx only
+NDC 0009-3169-06 Contains 5 of NDC 0009-3169-01
 
 5—1 mL Ampoules
 
@@ -36,3 +32,5 @@ Prostin VR Pediatric® alprostadil injection, USP
 FOR INTRAVASCULAR USE ONLY
 
 Pfizer Injectables
+
+Rx only
