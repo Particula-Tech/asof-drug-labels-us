@@ -43,15 +43,15 @@ This section of the Medication Guide is only about the risk of suicidal thoughts
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-1. 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-2. 2.Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-   Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-   - ∘Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+- 2.Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+  Some people may have a particularly high risk of having suicidal thoughts or actions.
+  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+- 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+  1. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
      This is very important when an antidepressant medicine is started or when the dose is changed.
-   - ∘Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-   - ∘Keep all follow-up visits with your healthcare provider as scheduled.
+  2. •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+  3. •Keep all follow-up visits with your healthcare provider as scheduled.
      Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
@@ -78,8 +78,8 @@ It is not known if ZYBAN is safe and effective in children under the age of 18.
 What other important information should I know about ZYBAN?
 
 - •Seizures: There is a chance of having a seizure (convulsion, fit) with ZYBAN, especially in people:
-  - owith certain medical problems.
-  - owho take certain medicines.
+  - •with certain medical problems.
+  - •who take certain medicines.
 
 The chance of having seizures increases with higher doses of ZYBAN.
 For more information, see the sections “Who should not take ZYBAN?” and “What should I tell my healthcare provider before taking ZYBAN?”
@@ -94,13 +94,13 @@ Do not take ZYBAN again if you have a seizure.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking (see the section of this Medication Guide called “How should I take ZYBAN?”).
 - •Manic episodes.
   Some people may have periods of mania while taking ZYBAN, including:
-  - ∘Greatly increased energy
-  - ∘Severe trouble sleeping
-  - ∘Racing thoughts
-  - ∘Reckless behavior
-  - ∘Unusually grand ideas
-  - ∘Excessive happiness or irritability
-  - ∘Talking more or faster than usual
+  - •Greatly increased energy
+  - •Severe trouble sleeping
+  - •Racing thoughts
+  - •Reckless behavior
+  - •Unusually grand ideas
+  - •Excessive happiness or irritability
+  - •Talking more or faster than usual
 
 If you have any of the above symptoms of mania, call your healthcare provider.
 
@@ -132,8 +132,8 @@ Do not take ZYBAN if you:
 - •drink a lot of alcohol and abruptly stop drinking, or take medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop taking them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - ∘do not take an MAOI within 2 weeks of stopping ZYBAN unless directed to do so by your healthcare provider.
-  - ∘do not start ZYBAN if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+  - •do not take an MAOI within 2 weeks of stopping ZYBAN unless directed to do so by your healthcare provider.
+  - •do not start ZYBAN if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 - •are allergic to the active ingredient in ZYBAN, bupropion, or to any of the inactive ingredients.
   See the end of this Medication Guide for a complete list of ingredients in ZYBAN.
 
@@ -144,18 +144,18 @@ You should also tell your healthcare provider about any symptoms you had during 
 See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
 
 - •Tell your healthcare provider about your other medical conditions, including if you:
-  - ∘have liver problems,especially cirrhosis of the liver.
-  - ∘have kidney problems.
-  - ∘have, or have had, an eating disorder such as anorexia nervosa or bulimia.
-  - ∘have had a head injury.
-  - ∘have had a seizure (convulsion, fit).
-  - ∘have a tumor in your nervous system (brain or spine).
-  - ∘have had a heart attack, heart problems, or high blood pressure.
-  - ∘are a diabetic taking insulin or other medicines to control your blood sugar.
-  - ∘drink alcohol.
-  - ∘abuse prescription medicines or street drugs.
-  - ∘are pregnant or plan to become pregnant.
-  - ∘are breastfeeding.
+  - •have liver problems,especially cirrhosis of the liver.
+  - •have kidney problems.
+  - •have, or have had, an eating disorder such as anorexia nervosa or bulimia.
+  - •have had a head injury.
+  - •have had a seizure (convulsion, fit).
+  - •have a tumor in your nervous system (brain or spine).
+  - •have had a heart attack, heart problems, or high blood pressure.
+  - •are a diabetic taking insulin or other medicines to control your blood sugar.
+  - •drink alcohol.
+  - •abuse prescription medicines or street drugs.
+  - •are pregnant or plan to become pregnant.
+  - •are breastfeeding.
     ZYBAN passes into your milk in small amounts.
 - •Tell your healthcare provider about all the medicines you take, including prescription, over–the-counter medicines, vitamins, and herbal supplements.
   Many medicines increase your chances of having seizures or other serious side effects if you take them while you are taking ZYBAN.
@@ -182,9 +182,9 @@ How should I take ZYBAN?
 - •It is not dangerous to smoke and take ZYBAN at the same time.
   But, you will lower your chance of breaking your smoking habit if you smoke after the date you set to stop smoking.
 - •You may use ZYBAN and nicotine patches (a type of nicotine replacement therapy) at the same time, following the precautions below.
-  - ∘You should only use ZYBAN and nicotine patches together under the care of your healthcare provider.
+  - •You should only use ZYBAN and nicotine patches together under the care of your healthcare provider.
     Using ZYBAN and nicotine patches together may raise your blood pressure, and sometimes this can be severe.
-  - ∘Tell your healthcare provider if you plan to use nicotine patches.
+  - •Tell your healthcare provider if you plan to use nicotine patches.
     Your healthcare provider should check your blood pressure regularly if you use nicotine patches with ZYBAN to help you quit smoking.
 - •If you miss a dose, do not take an extra dose to make up for the dose you missed.
   Wait and take your next dose at the regular time.
@@ -267,8 +267,6 @@ ZYBAN, WELLBUTRIN, WELLBUTRIN SR, and WELLBUTRIN XL are registered trademarks of
 
 The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
 The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
-
-Manufactured for:
 
 GlaxoSmithKline
 

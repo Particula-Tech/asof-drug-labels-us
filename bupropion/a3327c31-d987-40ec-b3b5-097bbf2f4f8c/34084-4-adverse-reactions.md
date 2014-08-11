@@ -28,7 +28,7 @@ Reported adverse reactions were classified using a COSTART‑based dictionary.
 Table 2.
 Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency Than Placebo in the Dose-Response Trial
 
-| Adverse Reaction | ZYBAN 100 to 300 mg/day (n = 461) % | Placebo (n = 150) % |
+| Adverse Reaction | ZYBAN 100 to 300 mg/day(n = 461)% | Placebo(n = 150)% |
 | --- | --- | --- |
 | Body (General) |  |  |
 | Neck pain | 2 | <1 |

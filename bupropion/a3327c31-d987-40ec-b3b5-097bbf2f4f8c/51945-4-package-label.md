@@ -8,33 +8,31 @@ ZYBAN®
 
 Sustained-Release Tablets 150 mg
 
-60 Tablets
-
-Rx only
-
 Twice-A-Day
 
 (After Initial Titration)
 
 Each tablet contains 150 mg of bupropion HCl.
 
-Federal Law requires dispensing of ZYBAN® with the Medication Guide under this label.
+WARNING: Do not use with other medicines that contain bupropion HCl.
 
-WARNING: Do not use with other medicines that contain bupropionHCl.
+Federal Law requires dispensing of ZYBAN® with the Medication Guide under this label.
 
 See prescribing information for dosage information.
 
-Store at controlled room temperature, 20o to 25oC (68o to 77oF) (see USP).
+Store at controlled room temperature between 59oF to 86oF (15oCto 30oC).
 
-Mfd by: GlaxoSmithKline
+Keep dry and out of the light.
 
-Research Triangle Park, NC 27709
+Rx only
 
-or DSM Pharmaceuticals, Inc.
+60 Tablets
 
-Greenville, NC 27834
+GlaxoSmithKline
+
+RTP, NC 27709
 
 Made in Germany
 
-10000000104243 Rev.
-3/12
+10000000126748 Rev.
+6/14
