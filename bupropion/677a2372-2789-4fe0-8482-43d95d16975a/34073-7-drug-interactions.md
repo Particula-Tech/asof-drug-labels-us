@@ -56,7 +56,7 @@ Citalopram did not affect the pharmacokinetics of bupropion and its three metabo
 ## 7.3 Nicotine Transdermal System
 
 Data from a smoking cessation study suggest that a higher incidence of hypertension in patients who received the combination of sustained-release bupropion hydrochloride and nicotine transdermal system (NTS).
-Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement [see Warnings and Precautions (5.6)].
+Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement [see Warnings and Precautions (5.7)].
 
 ## 7.4 Drug Laboratory Test Interactions
 

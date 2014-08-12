@@ -1,5 +1,7 @@
 # PRINCIPAL DISPLAY PANEL
 
+Bottle Label
+
 NDC 49909-010-30 Rx only
 
 Forfivo XL™

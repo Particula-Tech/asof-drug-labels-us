@@ -46,7 +46,7 @@ Prescription for FORFIVO XL should be written for the smallest quantity of table
 
 ## 5.2 Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
 
-FORFIVO XL is not approved for smoking cessation treatment, but bupropion under the name ZYBAN is approved for this use.
+FORFIVO XL is not approved forsmoking cessation treatment, but bupropion under the name ZYBAN is approved for this use.
 Serious neuropsychiatric symptoms have been reported in patients taking bupropion for smoking cessation [see Boxed Warning and Adverse Reactions (6)].
 These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Patient Counseling Information (17)].
 
@@ -90,8 +90,8 @@ Recommendations for Reducing the Risk of Seizure:
 
 Retrospective analysis of clinical experience gained during the development of bupropion suggests that the risk of seizure may be minimized if
 
-- the total daily dose of bupropion does not exceed 450 mg,
-- the rate of incrementation of the bupropion dose is gradual.
+- •the total daily dose of bupropion does not exceed 450 mg,
+- •the rate of incrementation of the bupropion dose is gradual.
 
 ## 5.5 Psychosis and Other Neuropsychiatric Events
 
@@ -99,7 +99,11 @@ Depressed patients treated with bupropion have been reported to show a variety o
 In some cases, these symptoms abated upon dose reduction and/or withdrawal of treatment.
 It is recommended stopping bupropion when the symptoms occurred.
 
-## 5.6 Severe Hypertension
+## 5.6 Angle Closure Glaucoma
+
+Angle Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including FORFIVO XL may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.7 Severe Hypertension
 
 In clinical practice, hypertension, in some cases severe, requiring acute treatment, has been reported in patients receiving bupropion alone and in combination with nicotine replacement therapy.
 These reactions have been observed in both patients with and without evidence of preexisting hypertension.
@@ -113,7 +117,7 @@ Therefore, care should be exercised if it is used in these groups.
 Bupropion was well tolerated in depressed patients who had previously developed orthostatic hypotension while receiving tricyclic antidepressants, and was also generally well tolerated in a group of 36 depressed inpatients with stable congestive heart failure (CHF).
 However, bupropion was associated with a rise in supine blood pressure in the study of patients with CHF, resulting in discontinuation of treatment in 2 patients for exacerbation of baseline hypertension.
 
-## 5.7 Agitation and Insomnia
+## 5.8 Agitation and Insomnia
 
 Increased restlessness, agitation, anxiety, and insomnia, especially shortly after initiation of treatment, have been associated with treatment with bupropion.
 
@@ -132,7 +136,7 @@ In clinical studies of major depressive disorder, these symptoms were sometimes 
 
 Symptoms in these studies were sufficiently severe to require discontinuation of treatment in 1% and 2.6% of patients treated with 300 and 400 mg/day, respectively, of bupropion hydrochloride sustained-release tablets and 0.8% of patients treated with placebo.
 
-## 5.8 Altered Appetite and Weight
+## 5.9 Altered Appetite and Weight
 
 In placebo-controlled short-term studies of major depressive disorder using the sustained-release formulation of bupropion hydrochloride, patients experienced weight gain or weight loss as shown in Table 3.
 
@@ -147,7 +151,7 @@ Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials of Bupropi
 In studies conducted with the immediate-release formulation of bupropion hydrochloride, 35% of patients receiving tricyclic antidepressants gained weight, compared to 9% of patients treated with the immediate-release formulation of bupropion hydrochloride.
 If weight loss is a major presenting sign of a patient’s depressive illness, the anorectic and/or weight-reducing potential of FORFIVO XL tablets should be considered.
 
-## 5.9 Hypersensitivity Reactions
+## 5.10 Hypersensitivity Reactions
 
 Anaphylactoid/anaphylactic reactions characterized by symptoms such as pruritus, urticaria, angioedema, and dyspnea requiring medical treatment have been reported in clinical trials with bupropion.
 In addition, there have been rare spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson syndrome, and anaphylactic shock associated with bupropion.

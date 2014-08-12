@@ -2,15 +2,16 @@
 
 The following risks are discussed in greater detail in other sections of the labeling:
 
-- Clinical worsening and suicide risk [see Warnings and Precautions (5.1)]
-- Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
-- Activation of mania or hypomania [see Warnings and Precautions (5.3)]
-- Seizures [see Warnings and Precautions (5.4)]
-- Psychosis, and other neuropsychiatric events [see Warnings and Precautions (5.5)]
-- Severe hypertension [see Warnings and Precautions (5.6)]
-- Agitation and insomnia [see Warnings and Precautions (5.7)]
-- Altered appetite and weight [see Warnings and Precautions (5.8)]
-- Hypersensitivity reactions [see Warnings and Precautions (5.9)]
+- •Clinical worsening and suicide risk [see Warnings and Precautions (5.1)]
+- •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
+- •Activation of mania or hypomania [see Warnings and Precautions (5.3)]
+- •Seizures [see Warnings and Precautions (5.4)]
+- •Psychosis, and other neuropsychiatric events [see Warnings and Precautions (5.5)]
+- •Angle Closure Glaucoma [see Warnings and precautions (5.6)]
+- •Severe hypertension [see Warnings and Precautions (5.7)]
+- •Agitation and insomnia [see Warnings and Precautions (5.8)]
+- •Altered appetite and weight [see Warnings and Precautions (5.9)]
+- •Hypersensitivity reactions [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -61,65 +62,65 @@ A better perspective on the serious adverse reactions associated with the use of
 Table 5.
 Adverse Reactions in Placebo-Controlled TrialsAdverse reactions that occurred in at least 1% of patients treated with either 300 or 400 mg/day of the sustained-release formulation of bupropion hydrochloride, but equally or more frequently in the placebo group, were: abnormal dreams, accidental injury, acne, appetite increased, back pain, bronchitis, dysmenorrhea, dyspepsia, flatulence, flu syndrome, hypertension, neck pain, respiratory disorder, rhinitis, and tooth disorder. for Major Depressive Disorder
 
-| Body System/Adverse Reaction | Bupropion HCl 300 mg/day (n = 376) | Bupropion HCl 400 mg/day (n = 114) | Placebo (n = 385) |
-| --- | --- | --- | --- |
-| Body (General) |  |  |  |
-| Headache | 26% | 25% | 23% |
-| Infection | 8% | 9% | 6% |
-| Abdominal pain | 3% | 9% | 2% |
-| Asthenia | 2% | 4% | 2% |
-| Chest pain | 3% | 4% | 1% |
-| Pain | 2% | 3% | 2% |
-| Fever | 1% | 2% | — |
-| Cardiovascular |  |  |  |
-| Palpitation | 2% | 6% | 2% |
-| Flushing | 1% | 4% | — |
-| Migraine | 1% | 4% | 1% |
-| Hot flashes | 1% | 3% | 1% |
-| Digestive |  |  |  |
-| Dry mouth | 17% | 24% | 7% |
-| Nausea | 13% | 18% | 8% |
-| Constipation | 10% | 5% | 7% |
-| Diarrhea | 5% | 7% | 6% |
-| Anorexia | 5% | 3% | 2% |
-| Vomiting | 4% | 2% | 2% |
-| Dysphagia | 0% | 2% | 0% |
-| Musculoskeletal |  |  |  |
-| Myalgia | 2% | 6% | 3% |
-| Arthralgia | 1% | 4% | 1% |
-| Arthritis | 0% | 2% | 0% |
-| Twitch | 1% | 2% | — |
-| Nervous system |  |  |  |
-| Insomnia | 11% | 16% | 6% |
-| Dizziness | 7% | 11% | 5% |
-| Agitation | 3% | 9% | 2% |
-| Anxiety | 5% | 6% | 3% |
-| Tremor | 6% | 3% | 1% |
-| Nervousness | 5% | 3% | 3% |
-| Somnolence | 2% | 3% | 2% |
-| Irritability | 3% | 2% | 2% |
-| Memory decreased | — | 3% | 1% |
-| Paresthesia | 1% | 2% | 1% |
-| Central nervous system stimulation | 2% | 1% | 1% |
-| Respiratory |  |  |  |
-| Pharyngitis | 3% | 11% | 2% |
-| Sinusitis | 3% | 1% | 2% |
-| Increased cough | 1% | 2% | 1% |
-| Skin |  |  |  |
-| Sweating | 6% | 5% | 2% |
-| Rash | 5% | 4% | 1% |
-| Pruritus | 2% | 4% | 2% |
-| Urticaria | 2% | 1% | 0% |
-| Special senses |  |  |  |
-| Tinnitus | 6% | 6% | 2% |
-| Taste perversion | 2% | 4% | — |
-| Blurred vision or diplopia | 3% | 2% | 2% |
-| Urogenital |  |  |  |
-| Urinary frequency | 2% | 5% | 2% |
-| Urinary urgency | — | 2% | 0% |
-| Vaginal hemorrhageIncidence based on the number of female patients. | 0% | 2% | — |
-| Urinary tract infection | 1% | 0% | — |
-| — Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients. |  |  |  |
+| Body System/Adverse Reaction | Bupropion HCl 300 mg/day (n = 376) | Bupropion HCl 400 mg/day (n = 114) | Placebo (n = 385) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Body (General) |  |  |  |  |  |  |  |
+| Headache | 26% | 25% | 23% |  |  |  |  |
+| Infection | 8% | 9% | 6% |  |  |  |  |
+| Abdominal pain | 3% | 9% | 2% |  |  |  |  |
+| Asthenia | 2% | 4% | 2% |  |  |  |  |
+| Chest pain | 3% | 4% | 1% |  |  |  |  |
+| Pain | 2% | 3% | 2% |  |  |  |  |
+| Fever | 1% | 2% | — |  |  |  |  |
+| Cardiovascular |  |  |  |  |  |  |  |
+| Palpitation | 2% | 6% | 2% |  |  |  |  |
+| Flushing | 1% | 4% | — |  |  |  |  |
+| Migraine | 1% | 4% | 1% |  |  |  |  |
+| Hot flashes | 1% | 3% | 1% |  |  |  |  |
+| Digestive |  |  |  |  |  |  |  |
+| Dry mouth | 17% | 24% | 7% |  |  |  |  |
+| Nausea | 13% | 18% | 8% |  |  |  |  |
+| Constipation | 10% | 5% | 7% |  |  |  |  |
+| Diarrhea | 5% | 7% | 6% |  |  |  |  |
+| Anorexia | 5% | 3% | 2% |  |  |  |  |
+| Vomiting | 4% | 2% | 2% |  |  |  |  |
+| Dysphagia | 0% | 2% | 0% |  |  |  |  |
+| Musculoskeletal |  |  |  |  |  |  |  |
+| Myalgia | 2% | 6% | 3% |  |  |  |  |
+| Arthralgia | 1% | 4% | 1% |  |  |  |  |
+| Arthritis | 0% | 2% | 0% |  |  |  |  |
+| Twitch | 1% | 2% | — |  |  |  |  |
+| Nervous system |  |  |  |  |  |  |  |
+| Insomnia | 11% | 16% | 6% |  |  |  |  |
+| Dizziness | 7% | 11% | 5% |  |  |  |  |
+| Agitation | 3% | 9% | 2% |  |  |  |  |
+| Anxiety | 5% | 6% | 3% |  |  |  |  |
+| Tremor | 6% | 3% | 1% |  |  |  |  |
+| Nervousness | 5% | 3% | 3% |  |  |  |  |
+| Somnolence | 2% | 3% | 2% |  |  |  |  |
+| Irritability | 3% | 2% | 2% |  |  |  |  |
+| Memory decreased | — | 3% | 1% |  |  |  |  |
+| Paresthesia | 1% | 2% | 1% |  |  |  |  |
+| Central nervous system stimulation | 2% | 1% | 1% |  |  |  |  |
+| Respiratory |  |  |  |  |  |  |  |
+| Pharyngitis | 3% | 11% | 2% |  |  |  |  |
+| Sinusitis | 3% | 1% | 2% |  |  |  |  |
+| Increased cough | 1% | 2% | 1% |  |  |  |  |
+| Skin |  |  |  |  |  |  |  |
+| Sweating | 6% | 5% | 2% |  |  |  |  |
+| Rash | 5% | 4% | 1% |  |  |  |  |
+| Pruritus | 2% | 4% | 2% |  |  |  |  |
+| Urticaria | 2% | 1% | 0% |  |  |  |  |
+| Special senses |  |  |  |  |  |  |  |
+| Tinnitus | 6% | 6% | 2% |  |  |  |  |
+| Taste perversion | 2% | 4% | — |  |  |  |  |
+| Blurred vision or diplopia | 3% | 2% | 2% |  |  |  |  |
+| Urogenital |  |  |  |  |  |  |  |
+| Urinary frequency | 2% | 5% | 2% |  |  |  |  |
+| Urinary urgency | — | 2% | 0% |  |  |  |  |
+| Vaginal hemorrhageIncidence based on the number of female patients. | 0% | 2% | — |  |  |  |  |
+| Urinary tract infection | 1% | 0% | — |  |  |  |  |
+| — Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients. |  |  |  |  |  |  |  |
 
 Additional reactions to those listed in Table 5 that occurred at an incidence of at least 1% in controlled clinical trials of the immediate-release formulation of bupropion hydrochloride (300 to 600 mg/day) and that were numerically more frequent than placebo were: cardiac arrhythmias (5% vs. 4%), hypertension (4% vs. 2%), hypotension (3% vs. 2%), tachycardia (11% vs. 9%), appetite increase (4% vs. 2%), dyspepsia (3% vs. 2%), menstrual complaints (5% vs. 1%), akathisia (2% vs. 1%), impaired sleep quality (4% vs. 2%), sensory disturbance (4% vs. 3%), confusion (8% vs. 5%), decreased libido (3% vs. 2%), hostility (6% vs. 4%), auditory disturbance (5% vs. 3%), and gustatory disturbance (3% vs. 1%).
 

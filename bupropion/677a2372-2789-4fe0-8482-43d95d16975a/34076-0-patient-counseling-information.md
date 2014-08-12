@@ -2,7 +2,7 @@
 
 See FDA-approved patient labeling (Medication Guide).
 
-## 17.1 Counseling Information
+## 17.1 Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with FORFIVO XL and should counsel them in its appropriate use.
 A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions”, "Quitting Smoking, Quit-Smoking Medication, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions” and “What Other Important Information Should I Know about FORFIVO XL” is available for FORFIVO XL.
@@ -30,6 +30,11 @@ Consequently, until they are reasonably certain that FORFIVO XL tablets do not a
 Patients should be told that the excessive use or abrupt discontinuation of alcohol or sedatives (including benzodiazepines) may alter the seizure threshold.
 Some patients have reported lower alcohol tolerance during treatment with bupropion.
 Patients should be advised that the consumption of alcohol should be minimized or avoided.
+
+Patients should be advised that taking FORFIVO XL can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.6)].
 
 Patients should be advised to notify their physicians if they are taking or plan to take any prescription or over-the-counter drugs.
 Concern is warranted because FORFIVO XL tablets and other drugs may affect each other’s metabolism.
