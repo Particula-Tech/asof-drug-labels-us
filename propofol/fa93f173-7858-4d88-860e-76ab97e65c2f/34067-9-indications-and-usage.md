@@ -2,7 +2,8 @@
 
 Propofol injectable emulsion, USP is an IV sedative-hypnotic agent that can be used as described in the table below.
 
-Table 3 Indications for Propofol Injectable Emulsion, USP
+TABLE 3.
+Indications for Propofol Injectable Emulsion, USP
 
 | Indication | Approved Patient Population |
 | --- | --- |
@@ -23,4 +24,4 @@ Propofol injectable emulsion, USP is not indicated for use in Pediatric ICU seda
 Propofol injectable emulsion, USP is not recommended for obstetrics, including Cesarean section deliveries.
 Propofol injectable emulsion, USP crosses the placenta, and as with other general anesthetic agents, the administration of propofol injectable emulsion, USP may be associated with neonatal depression (see PRECAUTIONS).
 
-Propofol injectable emulsion, USP is not recommended for use in nursing mothers because propofol injectable emulsion, USP has been reported to be excreted in human milk, and the effects of oral absorption of small amounts of propofol, USP are not known (see PRECAUTIONS).
+Propofol injectable emulsion, USP is not recommended for use in nursing mothers because propofol has been reported to be excreted in human milk, and the effects of oral absorption of small amounts of propofol are not known (see PRECAUTIONS).

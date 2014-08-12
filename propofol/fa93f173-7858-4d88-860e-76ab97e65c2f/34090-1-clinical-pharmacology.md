@@ -5,6 +5,8 @@
 Propofol injectable emulsion is an intravenous sedative-hypnotic agent for use in the induction and maintenance of anesthesia or sedation.
 Intravenous injection of a therapeutic dose of propofol induces hypnosis, with minimal excitation, usually within 40 seconds from the start of injection (the time for one arm-brain circulation).
 As with other rapidly acting intravenous anesthetic agents, the half-time of the blood-brain equilibration is approximately 1 to 3 minutes, accounting for the rate of induction of anesthesia.
+The mechanism of action, like all general anesthetics, is poorly understood.
+However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABAA receptors.
 
 ## Pharmacodynamics
 
@@ -73,7 +75,7 @@ Thus, titration to clinical response and daily evaluation of sedation levels are
 Propofol clearance ranges from 23 to 50 mL/kg/min (1.6 to 3.4 L/min in 70 kg adults).
 It is chiefly eliminated by hepatic conjugation to inactive metabolites which are excreted by the kidney.
 A glucuronide conjugate accounts for about 50% of the administered dose.
-Propofol has a steady state volume of distribution (10-day infusion) approaching 60 L/kg in healthy adults.
+Propofol has a steady-state volume of distribution (10-day infusion) approaching 60 L/kg in healthy adults.
 A difference in pharmacokinetics due to gender has not been observed.
 The terminal half-life of propofol after a 10-day infusion is 1 to 3 days.
 
@@ -83,7 +85,7 @@ With increasing patient age, the dose of propofol needed to achieve a defined an
 This does not appear to be an age-related change in pharmacodynamics or brain sensitivity, as measured by EEG burst suppression.
 With increasing patient age, pharmacokinetic changes are such that, for a given IV bolus dose, higher peak plasma concentrations occur, which can explain the decreased dose requirement.
 These higher peak plasma concentrations in the elderly can predispose patients to cardiorespiratory effects including hypotension, apnea, airway obstruction, and/or arterial oxygen desaturation.
-The higher plasma levels reflect age-related decreased in volume of distribution and intercompartmental clearance.
+The higher plasma levels reflect an age-related decrease in volume of distribution and intercompartmental clearance.
 Lower doses are therefore recommended for initiation and maintenance of sedation and anesthesia in elderly patients (see DOSAGE AND ADMINISTRATION).
 
 ### Pediatrics
@@ -156,7 +158,7 @@ Case reports from the published literature generally reflect that propofol injec
 
 In hemodynamically stable head trauma patients ranging in age from 19 to 43 years, adequate sedation was maintained with propofol injectable emulsion or morphine.
 There were no apparent differences in adequacy of sedation, intracranial pressure, cerebral perfusion pressure, or neurologic recovery between the treatment groups.
-In literature reports of severely head-injured patients in Neurosurgical ICUs, propofol injectable emulsion infusion and hyperventilation, both with and without diuretics, controlled intracranial pressure while maintaining cerebral perfusion pressure.
+In literature reports of severely head injured patients in Neurosurgical ICUs, propofol injectable emulsion infusion and hyperventilation, both with and without diuretics, controlled intracranial pressure while maintaining cerebral perfusion pressure.
 In some patients, bolus doses resulted in decreased blood pressure and compromised cerebral perfusion pressure.
 
 Propofol injectable emulsion was found to be effective in status epilepticus which was refractory to the standard anticonvulsant therapies.
@@ -164,11 +166,11 @@ For these patients, as well as for ARDS/respiratory failure and tetanus patients
 
 #### Pediatric Patients
 
-A single, randomized, controlled, clinical trial that evaluated the safety and effectiveness of propofol versus standard sedative agents (SSA) was conducted on 327 pediatric ICU patients.
-Patients were randomized to receive either propofol 2%, (113 patients), propofol 1%, (109 patients), or an SSA (e.g., lorazepam, chloral hydrate, fentanyl, ketamine, morphine, or phenobarbital).
-Propofol therapy was initiated at an infusion rate of 5.5 mg/kg/hr and titrated as needed to maintain sedation at a standardized level.
-The results of the study showed an increase in the number of deaths in patients treated with propofol as compared to SSAs.
-Of the 25 patients who died during the trial or within the 28-day follow-up period: 12 (11% were) in the propofol 2% treatment group, 9 (8% were) in the propofol 1% treatment group, and 4% were (4%) in the SSA treatment group.
+A single, randomized, controlled, clinical trial that evaluated the safety and effectiveness of propofol injectable emulsion versus standard sedative agents (SSA) was conducted on 327 pediatric ICU patients.
+Patients were randomized to receive either propofol injectable emulsion 2%, (113 patients), propofol injectable emulsion 1%, (109 patients), or an SSA (e.g., lorazepam, chloral hydrate, fentanyl, ketamine, morphine, or phenobarbital).
+Propofol injectable emulsion therapy was initiated at an infusion rate of 5.5 mg/kg/hr and titrated as needed to maintain sedation at a standardized level.
+The results of the study showed an increase in the number of deaths in patients treated with propofol injectable emulsion as compared to SSAs.
+Of the 25 patients who died during the trial or within the 28-day follow-up period: 12 (11% were) in the propofol injectable emulsion 2% treatment group, 9 (8% were) in the propofol injectable emulsion 1% treatment group, and 4% were (4%) in the SSA treatment group.
 The differences in mortality rate between the groups were not statistically significant.
 Review of the deaths failed to reveal a correlation with underlying disease status or a correlation to the drug or a definitive pattern to the causes of death.
 

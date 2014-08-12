@@ -13,10 +13,13 @@ Contains sodium metabisulfite, a sulfite that may cause allergic-type reactions 
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
 
-Use of propofol injectable emulsion infusions for both adult and pediatric ICU sedation has been associated with a constellation of metabolic derangements and organ system failures, referred to as propofol Infusion Syndrome, that have resulted in death.
-The syndrome is characterized by severe metabolic acidosis, hyperkalemia, lipemia, rhabdomyolysis, hepatomegaly, cardiac and renal failure.
-The syndrome is most often associated with prolonged, high-dose infusions (> 5 mg/kg/h for > 48h) but has also been reported following large-dose, short-term infusions during surgical anesthesia.
+Use of propofol injectable emulsion infusions for both adult and pediatric ICU sedation has been associated with a constellation of metabolic derangements and organ system failures, referred to as Propofol Infusion Syndrome, that have resulted in death.
+The syndrome is characterized by severe metabolic acidosis, hyperkalemia, lipemia, rhabdomyolysis, hepatomegaly, renal failure, ECG changes* and/or cardiac failure.
+The following appear to be major risk factors for the development of these events: decreased oxygen delivery to tissues; serious neurological injury and/or sepsis; high dosages of one or more of the following pharmacological agents: vasoconstrictors, steroids, inotropes and/or prolonged, high-dose infusions of propofol (> 5 mg/kg/h for > 48h).
+The syndrome has also been reported following large-dose, short-term infusions during surgical anesthesia.
 In the setting of prolonged need for sedation, increasing propofol dose requirements to maintain a constant level of sedation, or onset of metabolic acidosis during administration of a propofol infusion, consideration should be given to using alternative means of sedation.
+
+*Coved ST segment elevation (similar to ECG changes of the Brugada syndrome).
 
 Abrupt discontinuation of propofol injectable emulsion prior to weaning or for daily evaluation of sedation levels should be avoided.
 This may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation.
@@ -28,7 +31,10 @@ The clinical significance of these findings is not known.
 
 There have been reports in which failure to use aseptic technique when handling propofol injectable emulsion was associated with microbial contamination of the product and with fever, infection, sepsis, other life-threatening illness, and death.
 Do not use if contamination is suspected.
-Discard unused portions as directed within the required time limits (see DOSAGE AND ADMINISTRATION, Handling Procedures).
+Discard unused drug product as directed within the required time limits (see DOSAGE AND ADMINISTRATION, Handling Procedures).
+
+There have been reports, in the literature and other public sources, of the transmission of bloodborne pathogens (such as Hepatitis B, Hepatitis C, and HIV) from unsafe injection practices, and use of propofol vials intended for single use on multiple persons.
+Propofol injectable emulsion vial is never to be accessed more than once or used on more than one person.
 
 # PRECAUTIONS
 
@@ -56,8 +62,8 @@ Transient local pain can be minimized if the larger veins of the forearm or ante
 Pain during intravenous injection may also be reduced by prior injection of IV lidocaine (1 mL of a 1% solution).
 Pain on injection occurred frequently in pediatric patients (45%) when a small vein of the hand was utilized without lidocaine pretreatment.
 With lidocaine pretreatment or when antecubital veins were utilized, pain was minimal (incidence less than 10%) and well-tolerated.
-There have been reports in the literature indicating that the addition of lidocaine to propofol in quantities greater than 20 mg lidocaine/200 mg propofol results in instability of the emulsion which is associated with increases in globule sizes over time and (in rat studies) a reduction in anesthetic potency.
-Therefore, it is recommended that lidocaine be administered prior to propofol administration or that it be added to propofol immediately before administration and in quantities not exceeding 20 mg lidocaine/200 mg propofol.
+There have been reports in the literature indicating that the addition of lidocaine to propofol injectable emulsion in quantities greater than 20 mg lidocaine/200 mg propofol injectable emulsion results in instability of the emulsion which is associated with increases in globule sizes over time and (in rat studies) a reduction in anesthetic potency.
+Therefore, it is recommended that lidocaine be administered prior to propofol injectable emulsion administration or that it be added to propofol injectable emulsion immediately before administration and in quantities not exceeding 20 mg lidocaine/200 mg propofol.
 
 Venous sequelae, i.e., phlebitis or thrombosis, have been reported rarely (< 1%).
 In two clinical studies using dedicated intravenous catheters, no instances of venous sequelae were observed up to 14 days following induction.
@@ -150,7 +156,7 @@ Long-term studies in animals have not been performed to evaluate the carcinogeni
 
 ### Mutagenesis
 
-Propofol was not mutagenic in the in vitro bacterial reverse mutation assay (Ames test) using Salmonella typhimurium strains TA98, TA100, TA1535, TA1537, and TA1538.
+Propofol was not mutagenic in the in vitro bacterial reverse mutation assay (Ames test) using Salmonella typhimurium strains TA98, TA100, TA1535, TA1537 and TA1538.
 Propofol was not mutagenic in either the gene mutation/gene conversion test using Saccharomyces cerevisiae, or in vitro cytogenetic studies in Chinese hamsters.
 In the in vivo mouse micronucleus assay with Chinese Hamsters propofol administration did not produce chromosome aberrations.
 
@@ -169,7 +175,7 @@ Reproduction studies have been performed in rats and rabbits at intravenous dose
 Propofol, however, has been shown to cause maternal deaths in rats and rabbits and decreased pup survival during the lactating period in dams treated with 15 mg/kg/day (approximately equivalent to the recommended human induction dose on a mg/m2 basis).
 The pharmacological activity (anesthesia) of the drug on the mother is probably responsible for the adverse effects seen in the offspring.
 There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human responses, this drug should be used during pregnancy only if clearly needed.
+Because animal reproduction studies are not always predictive of human responses, propofol injectable emulsion should be used during pregnancy only if clearly needed.
 
 ## Labor and Delivery
 
@@ -195,7 +201,7 @@ There have been anecdotal reports of serious adverse events and death in pediatr
 In one multicenter clinical trial of ICU sedation in critically ill pediatric patients that excluded patients with upper respiratory tract infections, the incidence of mortality observed in patients who received propofol injectable emulsion (n = 222) was 9%, while that for patients who received standard sedative agents (n = 105) was 4%.
 While causality has not been established, propofol injectable emulsion is not indicated for sedation in pediatric patients until further studies have been performed to document its safety in that population (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Pediatric Patients and DOSAGE AND ADMINISTRATION).
 
-In pediatric patients, abrupt discontinuation following prolonged infusion may result in flushing of the hands and feet, agitation, tremulousness and hyperirritability.
+In pediatric patients, abrupt discontinuation of propofol injectable emulsion following prolonged infusion may result in flushing of the hands and feet, agitation, tremulousness and hyperirritability.
 Increased incidences of bradycardia (5%), agitation (4%), and jitteriness (9%) have also been observed.
 
 ## Geriatric Use

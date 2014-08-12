@@ -34,12 +34,18 @@ Incidence Greater Than 1% - Probably Causally Related
 
 |  | Anesthesia/MAC Sedation | ICU Sedation |
 | --- | --- | --- |
-| Cardiovascular: | Bradycardia Arrhythmia [Peds: 1.2%] Tachycardia Nodal [Peds. 1.6%] Hypotensiona [Peds 17%] (see also CLINICAL PHARMACOLOGY) [Hypertension Peds: 8%] | Bradycardia Decreased Cardiac Output Hypotension 26% |
-| Central Nervous System: | Movementa [Peds: 17%] |  |
+| Cardiovascular: | Bradycardia | Bradycardia |
+| Arrhythmia [Peds: 1.2%] |  |  |
+| Tachycardia Nodal [Peds: 1.6%] |  |  |
+| Hypotension* [Peds: 17%] (see also CLINICAL PHARMACOLOGY) | Decreased Cardiac Output |  |
+|  | Hypertension [Peds: 8%] | Hypotension 26% |
+| Central Nervous System: | Movement* [Peds: 17%] |  |
 | Injection Site: | Burning/Stinging or Pain, 17.6% [Peds: 10%] |  |
-| Metabolic/Nutritional: Respiratory | Apnea (see also CLINICAL PHARMACOLOGY) | Hyperlipemiaa Respiratory Acidosis During Weaninga |
+| Metabolic/Nutritional: |  | Hyperlipemia* |
+| Respiratory: | Apnea (see also CLINICAL PHARMACOLOGY) | Respiratory Acidosis During Weaning* |
 | Skin and Appendages: | Rash [Peds: 5%] Pruritus [Peds: 2%] |  |
-| Events without an * or % had an incidence of 1% to 3% a) Incidence of events 3% to 10% |  |  |
+| Events without an * or % had an incidence of 1% to 3% |  |  |
+| *Incidence of events 3% to 10% |  |  |
 
 Incidence Less Than 1% - Probably Causally Related
 
@@ -63,8 +69,8 @@ Incidence Less Than 1% - Causal Relationship Unknown
 
 |  | Anesthesia/MAC Sedation | ICU Sedation |
 | --- | --- | --- |
-| Body as a Whole: | Asthenia, Awareness, Chest Pain, Extremities Pain, Fever, Increased Drug Effect, neck Rigidity/Stiffness, Trunk pain | Fever, Sepsis, Trunk Pain, Whole Body Weakness |
-| Cardiovascular: | Arrhythmia, Atrial Fibrillation, Atrioventricular Heart Block, Bigeminy, Bleeding, Bundle Branch Block, Cardiac Arrest, ECG Abnormal, Block, Hypertension, Myocardial Infarction, Myocardial Ischemia, Premature Ventricular Contractions, ST Segment Depression, Supraventricular Tachycardia, Tachycardia, Ventricular Fibrillation | Arrhythmia, Atrial Fibrillation, Bigeminy, Cardiac Arrest, Extrasystole, Right Heart Failure, ventricular Tachycardia |
+| Body as a Whole: | Asthenia, Awareness, Chest Pain, Extremities Pain, Fever, Increased Drug Effect, Neck Rigidity/Stiffness, Trunk Pain | Fever, Sepsis, Trunk Pain, Whole Body Weakness |
+| Cardiovascular: | Arrhythmia, Atrial Fibrillation, Atrioventricular Heart Block, Bigeminy, Bleeding, Bundle Branch Block, Cardiac Arrest, ECG Abnormal, Edema, Extrasystole, Heart Block, Hypertension, Myocardial Infarction, Myocardial Ischemia, Premature Ventricular Contractions, ST Segment Depression, Supraventricular Tachycardia, Tachycardia, Ventricular Fibrillation | Arrhythmia, Atrial Fibrillation, Bigeminy, Cardiac Arrest, Extrasystole, Right Heart Failure, Ventricular Tachycardia |
 | Central Nervous System: | Abnormal Dreams, Agitation, Amorous Behavior, Anxiety, Bucking/Jerking/ Thrashing, Chills/Shivering/Clonic/ Myoclonic Movement, Combativeness, Confusion, Delirium, Depression, Dizziness, Emotional Lability, Euphoria, Fatigue, Hallucinations, Headache, Hypotonia, Hysteria, Insomnia, Moaning, Neuropathy, Opisthotonos, Rigidity, Seizures, Somnolence, Tremor, Twitching | Chills/Shivering, Intracranial Hypertension, Seizures, Somnolence, Thinking Abnormal |
 | Digestive: | Cramping, Diarrhea, Dry Mouth, Enlarged Parotid, Nausea, Swallowing, Vomiting | Ileus, Liver Function Abnormal |
 | Hematologic/Lymphatic: | Coagulation Disorder, Leukocytosis |  |

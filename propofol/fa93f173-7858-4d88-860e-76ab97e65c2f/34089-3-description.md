@@ -2,7 +2,7 @@
 
 Propofol injectable emulsion, USP is a sterile, nonpyrogenic emulsion containing 10 mg/mL of propofol, USP suitable for intravenous administration.
 Propofol, USP is chemically described as 2, 6-diisopropylphenol.
-The structural and molecular formulas are:
+The structural formula is:
 
 Propofol, USP is very slightly soluble in water and, thus, is formulated in a white, oil-in-water emulsion.
 The pKa is 11.
