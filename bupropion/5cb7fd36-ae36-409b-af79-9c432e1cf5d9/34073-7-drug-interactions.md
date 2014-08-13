@@ -17,7 +17,7 @@ Dosage increase of APLENZIN may be necessary when coadministered with ritonavir,
 
 Other CYP Inducers
 
-Carbamazepine, Phenobarbital, Phenytoin: Concomitant treatment with these drugs can increase bupropion exposure.
+Carbamazepine, Phenobarbital, Phenytoin: Concomitant treatment with these drugs can decrease bupropion exposure.
 It may be necessary to increase the dose of APLENZIN when coadministered with carbamazepine, phenobarbital, or phenytoin [see Clinical Pharmacology (12.3)].
 
 In addition, studies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir inhibit the hydroxylation of bupropion and may increase bupropion exposure.
