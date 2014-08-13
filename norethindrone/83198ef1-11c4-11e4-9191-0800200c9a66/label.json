@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020870"
+  ],
+  "inn": "norethindrone",
+  "labeler": "Noven Therapeutics, LLC",
+  "package_ndcs": [
+    "68968-0514-1",
+    "68968-0514-8",
+    "68968-0525-1",
+    "68968-0525-8"
+  ],
+  "products": [
+    {
+      "form": "PATCH, EXTENDED RELEASE",
+      "generic": "estradiol/norethindrone acetate transdermal system",
+      "name": "CombiPatch (estradiol/norethindrone acetate transdermal system)"
+    }
+  ],
+  "setid": "83198ef1-11c4-11e4-9191-0800200c9a66",
+  "source": "dailymed"
+}
