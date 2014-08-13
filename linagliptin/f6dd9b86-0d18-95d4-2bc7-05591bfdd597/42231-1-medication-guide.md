@@ -185,7 +185,7 @@ This Medication Guide summarizes the most important information about JENTADUETO
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about JENTADUETO that is written for health professionals.
 
-For more information, go to www.jentadueto.com or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
+For more information, go to www.jentadueto.com (or scan the code below to go to www.jentadueto.com) or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
 
 What are the ingredients in JENTADUETO?
 
@@ -217,12 +217,12 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
-Revised: May 2014
+Revised: July 2014
 
 *The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
 Copyright © 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5571HE302014 300661-04
+IT5571JG312014 300661-05
 
-IT5645F 302118-03
+IT5645G 302118-04

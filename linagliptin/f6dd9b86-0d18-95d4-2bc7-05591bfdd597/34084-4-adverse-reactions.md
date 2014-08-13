@@ -49,7 +49,7 @@ Therefore, it is not possible to conclusively determine that all these reports r
 
 Linagliptin
 
-In the study of patients receiving linagliptin as add-on therapy to a stable dose of insulin for up to 52 weeks (n=1261), no significant difference in the incidence of investigator reported hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self measured blood glucose ≤70 mg/dL, was noted between the linagliptin- (31.4%) and placebo- (32.9%) treated groups.
+In the study of patients receiving linagliptin as add-on therapy to a stable dose of insulin for up to 52 weeks (n=1261), no significant difference in the incidence of investigator reported hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self-measured blood glucose ≤70 mg/dL, was noted between the linagliptin- (31.4%) and placebo- (32.9%) treated groups.
 
 Use in Renal Impairment
 
@@ -74,7 +74,7 @@ No clinically meaningful changes in vital signs were observed in patients treate
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during postapproval use of linagliptin.
+The following adverse reactions have been identified during postapproval use of linagliptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.2) and Warnings and Precautions (5.2)]
