@@ -84,3 +84,6 @@ The potential for binding of these drugs if given concomitantly is present.
 Discontinuing colestipol hydrochloride could pose a hazard to health if a potentially toxic drug that is significantly bound to the resin has been titrated to a maintenance level while the patient was taking colestipol hydrochloride.
 
 Bile acid binding resins may also interfere with the absorption of oral phosphate supplements and hydrocortisone.
+
+A study has shown that cholestyramine binds bile acids and reduces mycophenolic acid exposure.
+As colestipol also binds bile acids, colestipol may reduce mycophenolic acid exposure and potentially reduce efficacy of mycophenolate mofetil.
