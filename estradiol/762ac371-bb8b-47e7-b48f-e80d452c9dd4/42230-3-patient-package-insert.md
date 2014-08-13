@@ -91,7 +91,7 @@ Serious, but less common side effects include:
 - •changes in your thyroid hormone levels
 - •enlargement of benign tumors (“fibroids”)
 
-Call your healthcare provider right away if you get any of the following warnings signs or any other unusual symptoms that concern you:
+Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
 - •new breast lumps
 - •unusual vaginal bleeding
@@ -111,7 +111,7 @@ Less serious, but common side effects include:
 
 These are not all of the possible side effects of EstroGel.
 For more information, ask your healthcare provider or pharmacist.
-Tell your healthcare provider if you have any side effects that bother you or does not go away.
+Tell your healthcare provider if you have any side effects that bother you or do not go away.
 You may report side effects to ASCEND Therapeutics® US, LLC at 1‑877-204-1013 or to FDA at 1-800-FDA-1088.
 What can I do to lower my chances of a serious side effect with EstroGel?
 
@@ -249,10 +249,10 @@ By DPT Laboratories
 
 San Antonio, TX 78215
 
-129911Rev072014
+129911Rev082014
 
 Utilizes EHG® Technology
 
 ©2014 ASCEND Therapeutics® US, LLC
 
-Revised: 7/2014
+Revised: 8/2014
