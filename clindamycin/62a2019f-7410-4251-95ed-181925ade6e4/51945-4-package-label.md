@@ -8,7 +8,8 @@ CLINDAMYCIN PHOSPHATE LOTION (Clindamycin Phosphate Topical Suspension USP, 1%)
 
 Equivalent to 1% (10 mg/mL) clindamycin
 
-FOR TOPICAL USE ONLY 60 mL
+FOR TOPICAL USE ONLY.
+60 mL
 
 Rx only
 
@@ -24,7 +25,7 @@ CLINDAMYCIN PHOSPHATE LOTION (Clindamycin Phosphate Topical Suspension USP, 1%)
 
 Equivalent to 1% (10 mg/mL) clindamycin
 
-FOR TOPICAL USE ONLY
+FOR TOPICAL USE ONLY.
 
 60 mL
 
@@ -38,8 +39,8 @@ NDC 0168-0201-60
 
 Fougera ®
 
-CLINDAMYCIN PHOSPHATE Topical Solution USP, 1% Equivalent to 1% (10 mg/mL) clindamycin WARNING: Keep out ofreach of children.
-For External Use Only
+CLINDAMYCIN PHOSPHATE Topical Solution USP, 1% Equivalent to 1% (10 mg/mL) clindamycin WARNING: Keep out of reach of children.
+For Topical Use Only.
 
 Rx only 60 mL
 
@@ -55,7 +56,7 @@ CLINDAMYCIN PHOSPHATE Topical Solution USP, 1%
 
 Equivalent to 1% (10 mg/mL) clindamycin
 
-For External Use Only
+For Topical Use Only.
 
 60 mL
 
@@ -71,7 +72,7 @@ Fougera ®
 
 CLINDAMYCIN PHOSPHATE GEL USP, 1% equivalent to 1% clindamycin
 
-For Topical Use Only
+For Topical Use Only.
 
 Rx only
 
@@ -81,10 +82,14 @@ NET WT 30 grams
 
 NDC 0168-0202-30
 
+Rx only
+
 Fougera ®
 
-CLINDAMYCIN PHOSPHATE GEL USP, 1% equivalent to 1% clindamycin For Topical Use Only
+CLINDAMYCIN PHOSPHATE GEL USP, 1% equivalent to 1% clindamycin For Topical Use Only.
 
-FOR EXTERNAL USE ONLY AVOID CONTACT WITH EYES WARNING: Keep out of reach of children.
+FOR EXTERNAL USE ONLY.
+AVOID CONTACT WITH EYES.
+WARNING: Keep out of reach of children.
 
 NET WT 30 grams
