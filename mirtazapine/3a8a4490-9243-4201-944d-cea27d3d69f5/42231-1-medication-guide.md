@@ -1,6 +1,6 @@
 # Medication Guide
 
-Mirtazapine Orally Disintegrating Tablets, USP Read the Medication Guide that comes with mirtazapine orally disintegrating tablets before you start taking them and each time you get a refill.
+Mirtazapine Orally Disintegrating Tablets, USP (mir taz' a peen) Read the Medication Guide that comes with mirtazapine orally disintegrating tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 If you have any questions about mirtazapine orally disintegrating tablets, talk to your healthcare provider.
@@ -8,7 +8,7 @@ What is the most important information I should know about mirtazapine orally di
 Mirtazapine orally disintegrating tablets and other antidepressant medicines may cause serious side effects, including: 1.
 Suicidal thoughts or actions:
 
-- Mirtazapine orally disintegrating tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
+- Mirtazapine orally disintegrating tablets and other antidepressant medicines may increase suicidal thoughts oractions in some children, teenagers, or young adults within the firstfew months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - Watch for these changes and call your healthcare provider right away if you notice:
   - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
@@ -58,7 +58,18 @@ This condition can be life-threatening and may include:
 - muscle rigidity
 
 5.
-Seizures 6.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+6.
+Seizures
+
+7.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
@@ -67,24 +78,24 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
-7.
+8.
 Sleepiness.
 It is best to take mirtazapine orally disintegrating tablets close to bedtime.
-8.
+9.
 Severe skin reactions: Call your doctor right away if you have any or all of the following symptoms:
 
 - severe rash with skin swelling (including on the palms of the hands and soles of the feet)
 - painful reddening of the skin and/or blisters/ulcers on the body or in the mouth
 
-9.
+10.
 Severe allergic reactions: trouble breathing, swelling of the face, tongue, eyes or mouth
 
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
-10.
+11.
 Increases in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
-11.
+12.
 Increased cholesterol and triglyceride levels in your blood Do not stop mirtazapine orally disintegrating tablets without first talking to your healthcare provider.
 Stopping mirtazapine orally disintegrating tablets too quickly may cause potentially serious symptoms including:
 
@@ -106,14 +117,14 @@ It is important to talk with your healthcare provider about the risks of treatin
 You should discuss all treatment choices with your healthcare provider.
 Talk to your healthcare provider if you do not think that your condition is getting better with mirtazapine orally disintegrating tablets treatment.
 Who should not take mirtazapine orally disintegrating tablets?
-Do not take mirtazapine orally disintegrating tablets if you:
+Do not take mirtazapine orally disintegrating tablets:
 
-- are allergic to mirtazapine or any of the ingredients in mirtazapine orally disintegrating tablets.
+- if you are allergic to mirtazapine or any of the ingredients in mirtazapine orally disintegrating tablets.
   See the end of this Medication Guide for a complete list of ingredients in mirtazapine orally disintegrating tablets.
-- take a monoamine oxidase inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take a MAOI, including the antibiotic linezolid.
-- Do not take a MAOI within 2 weeks of stopping mirtazapine orally disintegrating tablets unless directed to do so by your physician.
-- Do not start mirtazapine orally disintegrating tablets if you stopped taking a MAOI in the last 2 weeks unless directed to do so by your physician.
+- if you take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+- Do not take an MAOI within 2 weeks of stopping mirtazapine orally disintegrating tablets unless directed to do so by your physician.
+- Do not start mirtazapine orally disintegrating tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take mirtazapine orally disintegrating tablets close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -217,4 +228,4 @@ For more information about mirtazapine orally disintegrating tablets call 1-866-
 What are the ingredients in mirtazapine orally disintegrating tablets?
 Active ingredient: mirtazapine Inactive ingredients 15 mg, 30 mg, 45 mg: mannitol, aspartame, natural and artificial peppermint flavor, strawberry guarana flavor, crospovidone, magnesium stearate, colloidal silicon dioxide, and microcrystalline cellulose.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 08/2014

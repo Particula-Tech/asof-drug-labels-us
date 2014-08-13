@@ -21,9 +21,9 @@ Table 1
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
+| 25 to 64 | 1 fewer case |
 | >65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -59,6 +59,7 @@ There may be circumstances when it is necessary to initiate treatment with an MA
 Mirtazapine Orally Disintegrating Tablets should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 If concomitant use of mirtazapine orally disintegrating tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with mirtazapine orally disintegrating tablets and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Angle-closure Glaucoma The pupillary dilation that occurs following use of many antidepressant drugs including mirtazapine orally disintegrating tablets may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 # PRECAUTIONS
 
@@ -81,9 +82,7 @@ Because of the potentially significant effects of mirtazapine on impairment of p
 Dizziness In US controlled studies, dizziness was reported in 7% of patients treated with mirtazapine, compared to 3% for placebo and 14% for amitriptyline.
 It is unclear whether or not tolerance develops to the dizziness observed in association with the use of mirtazapine.
 
-### Increased Appetite/Weight Gain
-
-In US controlled studies, appetite increase was reported in 17% of patients treated with mirtazapine, compared to 2% for placebo and 6% for amitriptyline.
+Increased Appetite/Weight Gain In US controlled studies, appetite increase was reported in 17% of patients treated with mirtazapine, compared to 2% for placebo and 6% for amitriptyline.
 In these same trials, weight gain of ≥ 7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline.
 In a pool of premarketing US studies, including many patients for long-term, open-label treatment, 8% of patients receiving mirtazapine discontinued for weight gain.
 In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients (see PRECAUTIONS: Pediatric Use).
@@ -123,7 +122,7 @@ Agranulocytosis Patients who are to receive mirtazapine orally disintegrating ta
 Patients should be advised to contact their physician if they experience any indication of infection such as fever, chills, sore throat, mucous membrane ulceration or other possible signs of infection.
 Particular attention should be paid to any flu-like complaints or other symptoms that might suggest infection.
 Interference with Cognitive and Motor Performance Mirtazapine Orally Disintegrating Tablets may impair judgement, thinking, and particularly, motor skills, because of its prominent sedative effect.
-The drowsiness associated with mirtazapine use may impair a patient’s ability to drive, use machines or perform tasks that require alertness.
+The drowsiness associated with mirtazapine use may impair a patient’s ability to drive, use machines, or perform tasks that require alertness.
 Thus, patients should be cautioned about engaging in hazardous activities until they are reasonably certain that mirtazapine orally disintegrating tablets therapy does not adversely affect their ability to engage in such activities.
 Completing Course of Therapy While patients may notice improvement with mirtazapine orally disintegrating tablets therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 Concomitant Medication Patients should be advised to inform their physician if they are taking, or intend to take, any prescription or over-the-counter drugs, since there is a potential for mirtazapine orally disintegrating tablets interact with other drugs.
@@ -184,9 +183,7 @@ Mating and conception were not affected by the drug, but estrous cycling was dis
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-Pregnancy Category C Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on a mg/m2 basis, respectively], have revealed no evidence of teratogenic effects.
+Teratogenic Effects - Pregnancy Category C Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on an mg/m2 basis, respectively], have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in postimplantation losses in dams treated with mirtazapine.
 There was an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights.
 The cause of these deaths is not known.

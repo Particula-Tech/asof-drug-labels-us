@@ -30,7 +30,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side-effect incidence rate in the population studied.
 
-Table 4: Incidence of Adverse Clinical Experiences1 (≥1%) In Short-Term US Controlled Studies
+Table 4: Incidence of Adverse Clinical Experiences* (≥1%) In Short-Term US Controlled Studies
 
 | Body System Adverse Clinical Experience | Mirtazapine (n=453) | Placebo (n=361) |  |
 | --- | --- | --- | --- |
@@ -59,7 +59,7 @@ Table 4: Incidence of Adverse Clinical Experiences1 (≥1%) In Short-Term US Con
 | Dyspnea | 1% |  | 0% |
 | Urogenital System |  |  |  |
 | Urinary Frequency | 2% |  | 1% |
-| 1Events reported by at least 1% of patients treated with mirtazapine are included, except the following events, which had an incidence on placebo greater than or equal to mirtazapine: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion. |  |  |  |
+| *Events reported by at least 1% of patients treated with mirtazapine are included, except the following events, which had an incidence on placebo greater than or equal to mirtazapine: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion. |  |  |  |
 
 ECG Changes The electrocardiograms for 338 patients who received mirtazapine tablets and 261 patients who received placebo in 6-week, placebo-controlled trials were analyzed.
 Prolongation in QTc ≥ 500 msec was not observed among mirtazapine -treated patients; mean change in QTc was +1.6 msec for mirtazapine and –3.1 msec for placebo.
@@ -85,12 +85,12 @@ Hemic and Lymphatic System: rare: lymphadenopathy, leukopenia, petechia, anemia,
 
 Metabolic and Nutritional Disorders: frequent: thirst; infrequent: dehydration, weight loss; rare: gout, SGOT increased, healing abnormal, acid phosphatase increased, SGPT increased, diabetes mellitus, hyponatremia.
 
-Musculoskeletal System: frequent: myasthenia, arthralgia; infrequent: arthritis, tenosynovitis; rare: pathologic fracture, osteoporosis fracture, bone pain, myositis, tendon rupture, arthosis, bursitis.
+Musculoskeletal System: frequent: myasthenia, arthralgia; infrequent: arthritis, tenosynovitis; rare: pathologic fracture, osteoporosis fracture, bone pain, myositis, tendon rupture, arthrosis, bursitis.
 Nervous System: frequent: hypesthesia, apathy, depression, hypokinesia, vertigo, twitching, agitation, anxiety, amnesia, hyperkinesia, paresthesia; infrequent: ataxia, delirium, delusions, depersonalization, dyskinesia, extrapyramidal syndrome, libido increased, coordination abnormal, dysarthria, hallucinations, manic reaction, neurosis, dystonia, hostility, reflexes increased, emotional lability, euphoria, paranoid reaction; rare: aphasia, nystagmus, akathisia (psychomotor restlessness), stupor, dementia, diplopia, drug dependence, paralysis, grand mal convulsion, hypotonia, myoclonus, psychotic depression, withdrawal syndrome, serotonin syndrome.
 Respiratory System: frequent: cough increased, sinusitis; infrequent: epistaxis, bronchitis, asthma, pneumonia; rare: asphyxia, laryngitis, pneumothorax, hiccup.
 Skin and Appendages: frequent: pruritus, rash; infrequent: acne, exfoliative dermatitis, dry skin, herpes simplex, alopecia; rare: urticaria, herpes zoster, skin hypertrophy, seborrhea, skin ulcer.
 
-Special Senses: infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, glaucoma, hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
+Special Senses: infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, glaucoma (including angle-closure glaucoma), hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
 Urogenital System: frequent: urinary tract infection; infrequent: kidney calculus, cystitis, dysuria, urinary incontinence, urinary retention, vaginitis, hematuria, breast pain, amenorrhea, dysmenorrhea, leukorrhea, impotence; rare: polyuria, urethritis, metrorrhagia, menorrhagia, abnormal ejaculation, breast engorgement, breast enlargement, urinary urgency.
 
 Other Adverse Events Observed During Postmarketing Evaluation of Mirtazapine Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include 4 cases of the ventricular arrhythmia torsades de pointes.
