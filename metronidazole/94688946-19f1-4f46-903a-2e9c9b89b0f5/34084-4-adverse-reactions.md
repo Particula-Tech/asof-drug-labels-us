@@ -13,32 +13,32 @@ The incidence of individual adverse reactions were not significantly different b
 Unless percentages are otherwise stipulated, the incidence of individual adverse reactions listed below was less than 1%:
 
 - Reproductive:
-  - Vaginal discharge (12%),
-  - Symptomatic Candida cervicitis/vaginitis (10%),
-  - Vulva/vaginal irritative symptoms (9%),
-  - Pelvic discomfort (3%).
+- Vaginal discharge (12%),
+- Symptomatic Candida cervicitis/vaginitis (10%),
+- Vulva/vaginal irritative symptoms (9%),
+- Pelvic discomfort (3%).
 - Gastrointestinal:
-  - Gastrointestinal discomfort (7%),
-  - Nausea and/or vomiting (4%),
-  - Unusual taste (2%),
-  - Diarrhea/loose stools (1%),
-  - Decreased appetite (1%),
-  - Abdominal bloating/gas; thirsty, dry mouth.
+- Gastrointestinal discomfort (7%),
+- Nausea and/or vomiting (4%),
+- Unusual taste (2%),
+- Diarrhea/loose stools (1%),
+- Decreased appetite (1%),
+- Abdominal bloating/gas; thirsty, dry mouth.
 - Neurologic:
-  - Headache (5%),
-  - Dizziness (2%),
-  - Depression.
+- Headache (5%),
+- Dizziness (2%),
+- Depression.
 - Dermatologic:
-  - Generalized itching or rash.
+- Generalized itching or rash.
 - Other:
-  - Unspecified cramping (1%),
-  - Fatigue,
-  - Darkened urine.
+- Unspecified cramping (1%),
+- Fatigue,
+- Darkened urine.
 
 In previous clinical trials submitted for approved labeling of METROGEL-VAGINAL the following was also reported:
 
 - Laboratory:
-  - Increased/decreased white blood cell counts (1.7%).
+- Increased/decreased white blood cell counts (1.7%).
 
 ## Other Metronidazole Formulations
 
