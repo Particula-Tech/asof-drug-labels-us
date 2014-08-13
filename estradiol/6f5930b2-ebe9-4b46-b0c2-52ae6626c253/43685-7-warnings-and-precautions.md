@@ -178,17 +178,17 @@ Estrogen administration should be initiated at the lowest dose approved for the 
 
 ## D. DRUG/LABORATORY TEST INTERACTIONS
 
-1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII–X complex, II–VII–X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III; decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
-2. Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
-   T3 resin uptake is decreased, reflecting the elevated TBG.
-   Free T4 and free T3 concentrations are unaltered.
-   Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
-3. Other binding proteins may be elevated in serum (i.e., corticosteroid binding globulin, and sex hormone binding globulin), leading to increased circulating corticosteroids and sex steroids, respectively.
-   Free hormone concentrations may be decreased.
-   Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
-4. Increased plasma HDL and HDL-2 cholesterol subfraction concentrations, reduced LDL cholesterol concentration, and increased triglycerides levels.
-5. Impaired glucose tolerance.
-6. Reduced response to metyrapone test.
+- •Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII–X complex, II–VII–X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III; decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+- •Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
+  T3 resin uptake is decreased, reflecting the elevated TBG.
+  Free T4 and free T3 concentrations are unaltered.
+  Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
+- •Other binding proteins may be elevated in serum (i.e., corticosteroid binding globulin, and sex hormone binding globulin), leading to increased circulating corticosteroids and sex steroids, respectively.
+  Free hormone concentrations may be decreased.
+  Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
+- •Increased plasma HDL and HDL-2 cholesterol subfraction concentrations, reduced LDL cholesterol concentration, and increased triglycerides levels.
+- •Impaired glucose tolerance.
+- •Reduced response to metyrapone test.
 
 ## E. CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
 

@@ -92,15 +92,15 @@ Mean Number and Mean Change From Baseline in the Number of Moderate to Severe Va
 
 Table 2: Mean Change from Baseline in the Severity ScoreThe severity score per day is determined by calculating the sum of recorded daily severity and dividing this number by the total number of hot flushes on that day. of Hot Flushes Per Day, Intent-to-Treat Population, Most Recent Value Carried Forward
 
-| Placebo | Estrasorb |  |
-| --- | --- | --- |
-| Time point | Treatment Group |  |
-| Baseline (observed value) Mean Severity Score per Day (SD) | (N = 100) 2.44 (0.37) | (N = 100) 2.36 (0.36) |
-| Week 4 Mean Severity Score per Day (SD) Mean Change from Baseline (SD) | (N = 97) 1.99 (0.81) - 0.45 (0.75) | (N = 96) 1.47 (1.03) - 0.89 (1.04) |
-| P-value versus Placebo | NA | <0.001 |
-| Week 12 Mean Severity Score per Day (SD) Mean Change from Baseline (SD) | (N = 90) 1.88 (0.98) -0.55 (0.91) | (N = 90) 0.92 (1.00) -1.44 (1.04) |
-| P-value versus Placebo | NA | <0.001 |
-| SD = Standard deviation; NA = Not applicable |  |  |
+| Placebo | Estrasorb |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Time point | Treatment Group |  |  |  |  |  |
+| Baseline (observed value) Mean Severity Score per Day (SD) | (N = 100) 2.44 (0.37) | (N = 100) 2.36 (0.36) |  |  |  |  |
+| Week 4 Mean Severity Score per Day (SD) Mean Change from Baseline (SD) | (N = 97) 1.99 (0.81) - 0.45 (0.75) | (N = 96) 1.47 (1.03) - 0.89 (1.04) |  |  |  |  |
+| P-value versus Placebo | NA | <0.001 |  |  |  |  |
+| Week 12 Mean Severity Score per Day (SD) Mean Change from Baseline (SD) | (N = 90) 1.88 (0.98) -0.55 (0.91) | (N = 90) 0.92 (1.00) -1.44 (1.04) |  |  |  |  |
+| P-value versus Placebo | NA | <0.001 |  |  |  |  |
+| SD = Standard deviation; NA = Not applicable |  |  |  |  |  |  |
 
 ### Potential for estradiol transfer
 
