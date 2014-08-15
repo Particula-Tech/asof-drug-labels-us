@@ -28,11 +28,14 @@ If leaks are found, discard solution as sterility may be impaired.
 
 ## Preparation for Administration
 
+Visually inspect the container.
+If the administration port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
+
 Caution: Do not use plastic containers in series connections.
 Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
 
 1. Suspend container from eyelet support.
-2. Remove plastic protector from outlet port at bottom of container.
+2. Remove plastic protector from administration port at bottom of container.
 3. Attach administration set.
    Refer to complete directions accompanying set.
 
@@ -84,4 +87,5 @@ All rights reserved.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-7-19-72-324 Revised October 2013
+7-19-72-996 Rev.
+April 2014
