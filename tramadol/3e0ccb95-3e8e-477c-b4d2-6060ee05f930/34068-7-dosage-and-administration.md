@@ -2,14 +2,15 @@
 
 Tramadol hydrochloride extended-release tablets should not be used in patients with:
 
-- creatinine clearance less than 30 mL/min,
-- severe hepatic impairment (Child-Pugh Class C)
+● creatinine clearance less than 30 mL/min,
+
+● severe hepatic impairment (Child-Pugh Class C)
 
 (See PRECAUTIONS, Use in Renal and Hepatic Disease).
 
-Tramadol hydrochloride extended release tablet must be swallowed whole and must not be chewed, crushed, or split (see WARNINGS, Misuse, Abuse and Diversion of Opioidsand DRUG ABUSE AND ADDICTION).
+Tramadol hydrochloride extended-release tablet must be swallowed whole and must not be chewed, crushed, or split (see WARNINGS, Misuse, Abuse and Diversion of Opioids and DRUG ABUSE AND ADDICTION).
 
-## Adults (18 years of age and over)
+Adults (18 years of age and over)
 
 Patients Not Currently on Tramadol Immediate-Release Products
 
@@ -20,11 +21,11 @@ Patients Currently on Tramadol Immediate-Release Products
 
 For patients maintained on tramadol IR products, calculate the 24-hour tramadol IR dose and initiate a total daily dose of tramadol hydrochloride extended-release tablet rounded down to the next lowest 100 mg increment.
 The dose may subsequently be individualized according to patient need.
-Due to limitations in flexibility of dose selection with tramadol hydrochloride extended-release tablets, some patients maintained on tramadol IR products may not be able to convert to tramadol hydrochloride extended release tablet.
+Due to limitations in flexibility of dose selection with tramadol hydrochloride extended-release tablets, some patients maintained on tramadol IR products may not be able to convert to tramadol hydrochloride extended-release tablet.
 Tramadol hydrochloride extended-release tablet should not be administered at a dose exceeding 300 mg per day.
 The concomitant use of tramadol hydrochloride extended-release tablet with other tramadol products is not recommended (see WARNINGS).
 
-## Individualization of Dose
+Individualization of Dose
 
 Good pain management practice dictates that the dose be individualized according to patient need using the lowest beneficial dose.
 Start at the lowest possible dose and titrate upward as tolerated to achieve an adequate effect.

@@ -33,112 +33,112 @@ The lists below include adverse events not otherwise noted in Table 2.
 
 ## Adverse events with incidence rates of 1% to <5%
 
-### Eye disorders
+Eye disorders
 
 Vision blurred
 
-### Gastrointestinal disorders
+Gastrointestinal disorders
 
 Abdominal pain upper, dyspepsia, abdominal pain, sore throat
 
-### General disorders
+General disorders
 
 Weakness, pain, feeling hot, influenza like illness, fall, rigors, lethargy, pyrexia, chest pain
 
-### Infections and infestations
+Infections and infestations
 
 Nasopharyngitis, upper respiratory tract infection, sinusitis, influenza, gastroenteritis viral, urinary tract infection, bronchitis
 
-### Investigations
+Investigations
 
 Blood creatine phosphokinase increased, weight decreased
 
-### Metabolism and nutrition disorders
+Metabolism and nutrition disorders
 
 Appetite decreased
 
-### Musculoskeletal, connective tissue and bone disorders
+Musculoskeletal, connective tissue and bone disorders
 
 Arthralgia, back pain, pain in limb, neck pain
 
-### Nervous system disorders
+Nervous system disorders
 
 tremor, paresthesia, hypoesthesia
 
-### Psychiatric disorders
+Psychiatric disorders
 
 Nervousness, anxiety, depression, restlessness
 
-### Respiratory, thoracic and mediastinal disorders
+Respiratory, thoracic and mediastinal disorders
 
 Sneezing, cough rhinorrhea, nasal congestion, dyspnea, sinus congestion
 
-### Skin and subcutaneous tissue disorders
+Skin and subcutaneous tissue disorders
 
 Sweating increased, dermatitis
 
-### Vascular disorders
+Vascular disorders
 
 Hot flushes, vasodilatation
 
 ## Adverse events with incidence rates of 0.5% to <1% and serious adverse events reported in at least 2 patients.
 
-### Cardiac disorders
+Cardiac disorders
 
 Palpitations, myocardial infarction
 
-### Ear and labyrinth disorders
+Ear and labyrinth disorders
 
 Tinnitus, vertigo
 
-### Gastrointestinal disorders
+Gastrointestinal disorders
 
 Flatulence, toothache, constipation aggravated, appendicitis, pancreatitis
 
-### General disorders
+General disorders
 
 Feeling jittery, edema lower limb, shivering, joint swelling, malaise, drug withdrawal syndrome, peripheral swelling
 
-### Hepato-biliary disorders
+Hepato-biliary disorders
 
 Cholelithiasis, cholecystitis
 
-### Infections and infestations
+Infections and infestations
 
 Cellulitis, ear infection, gastroenteritis, pneumonia, viral infection
 
-### Injury and poisoning
+Injury and poisoning
 
 Joint sprain, muscle injury
 
-### Investigations
+Investigations
 
 Alanine aminotransferase increased, blood pressure increased, aspartate aminotransferase increased, heart rate increased, blood glucose increased, liver function tests abnormal
 
-### Musculoskeletal, connective tissue and bone disorders
+Musculoskeletal, connective tissue and bone disorders
 
 Muscle cramps, muscle spasms, joint stiffness, muscle twitching, myalgia, osteoarthritis aggravated
 
-### Nervous system disorders
+Nervous system disorders
 
 Migraine, sedation, syncope, disturbance in attention, dizziness aggravated
 
-### Psychiatric disorders
+Psychiatric disorders
 
 Euphoric mood, irritability, libido decreased, sleep disorder, agitation, disorientation, abnormal dreams
 
-### Renal and urinary disorders
+Renal and urinary disorders
 
 Difficulty in micturition, urinary frequency, hematuria, dysuria, urinary retention
 
-### Respiratory, thoracic and mediastinal disorders
+Respiratory, thoracic and mediastinal disorders
 
 Yawning
 
-### Skin and subcutaneous tissue disorders
+Skin and subcutaneous tissue disorders
 
-Contusion, piloerection, clamminess, night sweats, urticaria
+Contusion, piloerection, clamminess, night sweats, urticarial
 
-### Vascular disorders
+Vascular disorders
 
 Hypertension aggravated, hypertension, peripheral ischemia

@@ -10,6 +10,6 @@ Supportive measures (including oxygen and vasopressors) should be employed in th
 Cardiac arrest or arrhythmias may require cardiac massage or defibrillation.
 
 While naloxone will reverse some, but not all, symptoms caused by overdosage with tramadol, the risk of seizures is also increased with naloxone administration.
-In animals convulsions following the administration of toxic doses of tramadol hydrochloride exteneded-release tablet could be suppressed with barbiturates or benzodiazepines but were increased with naloxone.
+In animals convulsions following the administration of toxic doses of tramadol hydrochloride exteneded release tablet could be suppressed with barbiturates or benzodiazepines but were increased with naloxone.
 Naloxone administration did not change the lethality of an overdose in mice.
 Hemodialysis is not expected to be helpful in an overdose because it removes less than 7% of the administered dose in a 4-hour dialysis period.
