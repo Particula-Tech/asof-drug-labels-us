@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090687"
+  ],
+  "inn": "tacrolimus",
+  "labeler": "Strides Arcolab Limited",
+  "package_ndcs": [
+    "64380-720-01",
+    "64380-720-06",
+    "64380-721-01",
+    "64380-721-06",
+    "64380-722-01",
+    "64380-722-06"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tacrolimus",
+      "name": "Tacrolimus"
+    }
+  ],
+  "setid": "ed7d1495-3585-409d-94f1-b3d2469d222c",
+  "source": "dailymed"
+}
