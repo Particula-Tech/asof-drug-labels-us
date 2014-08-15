@@ -1,4 +1,6 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
 
 Endogenous estrogens are largely responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics.
 Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level.
@@ -8,27 +10,35 @@ After menopause, most endogenous estrogen is produced by conversion of androsten
 Thus, estrone and the sulfate conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women.
 
 Estrogens act through binding to nuclear receptors in estrogen-responsive tissues.
-To date, two estrogen receptors have been identified.
+To date, 2 estrogen receptors have been identified.
 These vary in proportion from tissue to tissue.
 
 Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH) through a negative feedback mechanism.
 Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-## Absorption
+There are no pharmacodynamics data for Vivelle-Dot.
 
-In a multiple-dose study consisting of three consecutive system applications of the original formulation [Vivelle (estradiol transdermal system)] which was conducted in 17 healthy, postmenopausal women, blood levels of estradiol and estrone were compared following application of these units to sites on the abdomen and buttocks in a crossover fashion.
+## 12.3 Pharmacokinetics
+
+Absorption
+
+In a multiple-dose study consisting of 3 consecutive system applications of the original formulation [Vivelle (estradiol transdermal system)] which was conducted in 17 healthy, postmenopausal women, blood levels of estradiol and estrone were compared following application of these units to sites on the abdomen and buttocks in a crossover fashion.
 Systems that deliver nominal estradiol doses of approximately 0.0375 mg per day and 0.1 mg per day were applied to abdominal application sites while the 0.1 mg per day doses were also applied to sites on the buttocks.
 These systems increased estradiol levels above baseline within 4 hours and maintained respective mean levels of 25 and 79 pg/mL above baseline following application to the abdomen; slightly higher mean levels of 88 pg/mL above baseline were observed following application to the buttocks.
 At the same time, increases in estrone plasma concentrations averaged about 12 and 50 pg/mL, respectively, following application to the abdomen and 61 pg/mL for the buttocks.
 While plasma concentrations of estradiol and estrone remained slightly above baseline at 12 hours following removal of the systems in this study, results from another study show these levels to return to baseline values within 24 hours following removal of the systems.
 
-Figure 1 illustrates the mean plasma concentrations of estradiol at steady-state during application of these patches at four different dosages.
+Figure 1 illustrates the mean plasma concentrations of estradiol at steady-state during application of these patches at 4 different dosages.
 
-The corresponding pharmacokinetic parameters are summarized in the table below.
+Figure 1.
+Steady-State Estradiol Plasma Concentrations for Systems Applied to the Abdomen Nonbaseline-corrected Levels
 
-Table 1 Steady-State Estradiol Pharmacokinetic Parameters for Systems Applied to the Abdomen (mean ± standard deviation) Nonbaseline-corrected Data*
+The corresponding pharmacokinetic parameters are summarized in Table 2.
+
+Table 2.
+Steady-State Estradiol Pharmacokinetic Parameters for Systems Applied to the Abdomen (mean ± standard deviation) Nonbaseline-corrected Data*
 
 | Dosage (mg/day) | Cmax† (pg/mL) | Cavg‡ (pg/mL) | Cmin (84 hr)§ (pg/mL) |
 | --- | --- | --- | --- |
@@ -37,29 +47,23 @@ Table 1 Steady-State Estradiol Pharmacokinetic Parameters for Systems Applied to
 | 0.075 | 99 ± 35 | 72 ± 24 | 60 ± 24 |
 | 0.1 | 133 ± 51 | 89 ± 38 | 90 ± 44 |
 | 0.1¶ | 145 ± 71 | 104 ± 52 | 85 ± 47 |
-
-*Mean baseline estradiol concentration = 11.7 pg/mL
-
-†Peak plasma concentration
-
-‡Average plasma concentration
-
-§Minimum plasma concentration at 84 hr
-
-#Measured over 80 hr
-
-¶Applied to the buttocks
+| *Mean baseline estradiol concentration =11.7 pg/mL |  |  |  |
+| †Peak plasma concentration |  |  |  |
+| ‡Average plasma concentration |  |  |  |
+| §Minimum plasma concentration at 84 hr |  |  |  |
+| #Measured over 80 hr |  |  |  |
+| ¶Applied to the buttocks |  |  |  |
 
 Vivelle-Dot (estradiol transdermal system), the revised formulation with smaller system sizes, was shown to be bioequivalent to the original formulation, Vivelle (estradiol transdermal system), used in the clinical trials.
 
-## Distribution
+Distribution
 
 No specific investigation of the tissue distribution of estradiol absorbed from Vivelle-Dot in humans has been conducted.
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to sex hormone-binding globulin (SHBG) and albumin.
 
-## Metabolism
+Metabolism
 
 Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
@@ -70,25 +74,18 @@ Estradiol is converted reversibly to estrone, and both can be converted to estri
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
 In postmenopausal women a significant portion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
-## Excretion
+Excretion
 
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 The half-life values calculated after dosing with the Vivelle-Dot ranged from 5.9 to 7.7 hours.
 After removal of the transdermal systems, serum concentrations of estradiol and estrone returned to baseline levels within 24 hours.
 
-## Special Populations
+Use in Specific Populations
 
-No pharmacokinetic studies were conducted in special populations, including women with renal or hepatic impairment.
+No pharmacokinetic studies were conducted with Vivelle-Dot in specific populations, including women with renal or hepatic impairment.
 
-## Drug Interactions
+Adhesion
 
-In vitro and in vivo studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
-Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.
-Inducers of CYP3A4 such as St. John’s wort (Hypericum perforatum) preparations, phenobarbital, carbamazepine and rifampin may reduce plasma concentrations of estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
-Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir and grapefruit juice may increase plasma concentrations of estrogens and may result in side effects.
-
-## Adhesion
-
-Based on combined data from three short-term clinical trials consisting of 471 observations, 85 percent of Vivelle-Dot adhered completely to the skin over the 3.5-day wear period.
-Three (3 percent) of the systems detached and were reapplied or replaced during the 3.5-day wear period.
+Based on combined data from 3 short-term clinical trials consisting of 471 observations, 85 percent of Vivelle-Dot adhered completely to the skin over the 3.5-day wear period.
+Three (3) percent of the systems detached and were reapplied or replaced during the 3.5-day wear period.
 Approximately 80 percent of the transdermal systems evaluated in these studies were Vivelle-Dot 0.05 mg per day.

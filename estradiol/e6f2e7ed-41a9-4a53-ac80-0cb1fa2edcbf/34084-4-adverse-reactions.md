@@ -1,11 +1,19 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-See BOXED WARNINGS, WARNINGS and PRECAUTIONS.
+The following serious adverse reactions are discussed elsewhere in labeling:
+
+- Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions, (5.1)]
+- Malignant Neoplasms [see Boxed Warning, Warnings and Precautions (5.2)]
+
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-The following adverse events have been reported with Vivelle-Dot therapy:
+There were no clinical trials conducted with Vivelle-Dot.
+Vivelle-Dot is bioequivalent to Vivelle®.
+The following adverse reactions have been reported with Vivelle therapy:
 
-Table 4 Summary of Most Frequently Reported Adverse Experiences/Medical Events Regardless of Relationship Reported at a Frequency ≥5 Percent
+Table 1.
+Summary of Most Frequently Reported Adverse Reactions Regardless of Relationship Reported at a Frequency ≥5 Percent
 
 |  | Vivelle 0.025 mg/day† (N=47) N (%) | Vivelle 0.0375 mg/day† (N=130) N (%) | Vivelle 0.05 mg/day† (N=103) N (%) | Vivelle 0.075 mg/day† (N=46) N (%) | Vivelle 0.1 mg/day† (N=132) N (%) | Placebo (N=157) N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -44,23 +52,19 @@ Table 4 Summary of Most Frequently Reported Adverse Experiences/Medical Events R
 | Vascular disorders |  |  |  |  |  |  |
 | Hot flushes NOS* | 3 (6.4) | 0 | 3 (2.9) | 0 | 0 | 6 (3.8) |
 | Hypertension NOS* | 2 (4.3) | 0 | 3 (2.9) | 0 | 0 | 2 (1.3) |
+| † Represents milligrams of estradiol delivered daily by each system |  |  |  |  |  |  |
+| * NOS represents not otherwise specified |  |  |  |  |  |  |
+| ** NEC represents not elsewhere classified |  |  |  |  |  |  |
+| *** Application site erythema and application site irritation were observed in a small number of patients (3.2% or less of patients across treatment groups) |  |  |  |  |  |  |
 
-† Represents milligrams of estradiol delivered daily by each system
+## 6.2 Postmarketing Experience
 
-* NOS represents not otherwise specified
-
-** NEC represents not elsewhere classified
-
-*** Application site erythema and application site irritation were observed in a small number of patients (3.2% or less of patients across treatment groups.)
-
-Postmarketing Experience
-
-The following additional adverse reaction has been identified during post-approval use of Vivelle-Dot.
+The following additional adverse reactions have been identified during post-approval use of Vivelle-Dot.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Genitourinary System
 
-Vaginal hemorrhage and abnormal withdrawal bleeding or flow, breakthrough bleeding, spotting, uterine leiomyomata, vaginitis, vaginal discharge, ovarian cancer, endometrial hyperplasia.
+Vaginal hemorrhage and abnormal withdrawal bleeding or flow, breakthrough bleeding, spotting, uterine leiomyomata, vaginitis, vaginal discharge, ovarian cancer, endometrial hyperplasia, dysmenorrhea.
 
 Breast
 
@@ -76,7 +80,8 @@ Nausea, vomiting, abdominal cramps, bloating, cholelithiasis, liver function tes
 
 Skin
 
-Erythema multiforme, erythema nodosum, loss of scalp hair, hirsutism, prutitis, rash.
+Application site reactions include localized bleeding, bruising, burning, discomfort, dryness, eczema, edema, erythema, erythema multiforme, erythema nodosum, inflammation, irritation, pain, papules and vesicles.
+Other skin reactions include paresthesia, skin discoloration, skin pigmentation, urticaria, swelling, loss of scalp hair, hirsutism, pruritus, rash.
 
 Eyes
 
@@ -88,6 +93,4 @@ Migraine, dizziness, chorea, nervousness, affect liability, irritability.
 
 Miscellaneous
 
-Decrease in weight, reduced carbohydrate tolerance, edema, arthralgias, leg cramps, changes in libido, purpura, hypersensitivity.
-
-Additional postmarketing adverse reactions have been reported in patients receiving other forms of hormone therapy.
+Decrease in weight, reduced carbohydrate tolerance, edema, arthralgias, leg cramps, changes in libido, purpura, hypersensitivity, anaphylactic reaction, anaphylactoid reaction, angioedema.
