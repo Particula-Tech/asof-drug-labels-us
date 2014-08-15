@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA076601"
+  ],
+  "inn": "cetirizine",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-4070-8"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "cetirizine hydrochloride",
+      "name": "Cetirizine Hydrochloride"
+    }
+  ],
+  "setid": "6d81446e-f713-4ca4-af38-3d31cf618873",
+  "source": "dailymed"
+}
