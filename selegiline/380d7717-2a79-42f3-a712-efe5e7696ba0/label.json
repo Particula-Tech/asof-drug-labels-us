@@ -3,15 +3,15 @@
     "NDA021479"
   ],
   "inn": "selegiline",
-  "labeler": "Valeant Pharmaceuticals International",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
   "package_ndcs": [
     "0187-0453-02"
   ],
   "products": [
     {
-      "form": "TABLET",
+      "form": "TABLET, ORALLY DISINTEGRATING",
       "generic": "selegiline hydrochloride",
-      "name": "Zelapar"
+      "name": "ZELAPAR"
     }
   ],
   "setid": "380d7717-2a79-42f3-a712-efe5e7696ba0",

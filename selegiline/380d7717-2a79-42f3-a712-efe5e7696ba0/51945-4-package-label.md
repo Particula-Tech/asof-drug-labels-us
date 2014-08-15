@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 6 pouches, 10 Tablet Carton
+# PRINCIPAL DISPLAY PANEL
 
 NDC 0187-0453-02
 
@@ -6,8 +6,12 @@ Rx Only
 
 Zelapar® 1.25 mg
 
-(selegiline HCl) Orally Disintegrating Tablets
+(selegiline HCl)
 
-6 pouches, each containing 10 tablets
+Orally Disintegrating Tablets
+
+6 pouches,
+
+each containing 10 tablets
 
 VALEANT®
