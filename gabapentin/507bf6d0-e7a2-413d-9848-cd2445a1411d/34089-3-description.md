@@ -2,7 +2,7 @@
 
 Gabapentin capsules, USP are supplied as imprinted hard shell capsules containing 100 mg, 300 mg, and 400 mg of gabapentin, USP.
 
-The inactive ingredients for the capsules are magnesium stearate, pregelatinized starch, starch and talc.
+The inactive ingredients for the capsules are magnesium stearate, pregelatinized starch (corn), starch (corn) and talc.
 The 100 mg capsule shell contains gelatin, sodium lauryl sulfate and titanium dioxide.
 The 300 mg capsule shell contains gelatin, sodium lauryl sulfate, titanium dioxide, and iron oxide yellow.
 The 400 mg capsule shell contains gelatin, sodium lauryl sulfate, titanium dioxide, FD&C Yellow No.6 and FD&C Blue No.1.

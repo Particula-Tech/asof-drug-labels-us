@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Gabapentin Capsules
+Gabapentin (GA-ba-PEN-tin) Capsules
 
 Read the Medication Guide before you start taking gabapentin capsules and each time you get a refill.
 There may be new information.
@@ -175,7 +175,7 @@ What are the ingredients in gabapentin capsules?
 
 Active ingredient: gabapentin
 
-Inactive ingredients in the capsules: magnesium stearate, pregelatinized starch, starch and talc.
+Inactive ingredients in the capsules: magnesium stearate, pregelatinized starch (corn), starch (corn) and talc.
 
 The 100-mg capsule shell contains: gelatin, sodium lauryl sulfate and titanium dioxide.
 
@@ -185,10 +185,12 @@ The 400-mg capsule shell contains: gelatin, sodium lauryl sulfate, titanium diox
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+*Trademarks are the property of their respective owners.
+
 Manufactured by: Amneal Pharmaceuticals Co. (I) Pvt.
 Ltd. Ahmedabad, INDIA 382220
 
 Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-09-2013
+07-2014-00

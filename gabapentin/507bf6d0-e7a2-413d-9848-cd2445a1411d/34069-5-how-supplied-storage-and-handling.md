@@ -29,4 +29,4 @@ Ltd. Ahmedabad, INDIA 382220
 Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-09-2013
+07-2014-00
