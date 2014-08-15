@@ -26,9 +26,12 @@ FARXIGA can cause serious side effects, including:
   - •redness, itching, or swelling of the penis
   - •rash of the penis
   - •foul smelling discharge from the penis
-  - •pain in the skin around the penisTalk to your healthcare provider about what to do if you get symptoms of a yeast infection of the vagina or penis.
-    Your healthcare provider may suggest you use an over-the-counter antifungal medicine.
-    Talk to your healthcare provider right away if you use an over-the-counter antifungal medication and your symptoms do not go away.
+  - •pain in the skin around the penis
+
+Talk to your healthcare provider about what to do if you get symptoms of a yeast infection of the vagina or penis.
+Your healthcare provider may suggest you use an over-the-counter antifungal medicine.
+Talk to your healthcare provider right away if you use an over-the-counter antifungal medication and your symptoms do not go away.
+
 - •Bladder cancer.
   In studies of FARXIGA in people with diabetes, bladder cancer occurred in a few more people who were taking FARXIGA than in people who were taking other diabetes medications.
   There were too few cases to know if bladder cancer was related to FARXIGA.
@@ -56,7 +59,9 @@ Do not take FARXIGA if you:
   Symptoms of a serious allergic reaction to FARXIGA may include:
   - •skin rash
   - •raised red patches on your skin (hives)
-  - •swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowingIf you have any of these symptoms, stop taking FARXIGA and contact your healthcare provider or go to the nearest hospital emergency room right away.
+  - •swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing
+- If you have any of these symptoms, stop taking FARXIGA and contact your healthcare provider or go to the nearest hospital emergency room right away.
+
 - •have severe kidney problems or are on dialysis.
 
 What should I tell my healthcare provider before taking FARXIGA?
@@ -155,4 +160,4 @@ Marketed by: Bristol-Myers Squibb Company Princeton, NJ 08543 and AstraZeneca Ph
 
 Product of Ireland
 
-Iss January 2014
+Revised: August 2014

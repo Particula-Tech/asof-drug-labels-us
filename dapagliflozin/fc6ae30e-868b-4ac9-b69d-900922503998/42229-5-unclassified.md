@@ -4,6 +4,4 @@ Marketed by: Bristol-Myers Squibb Company Princeton, NJ 08543 and AstraZeneca Ph
 
 Product of Ireland
 
-1288613
-
-1288613
+Revised: August 2014

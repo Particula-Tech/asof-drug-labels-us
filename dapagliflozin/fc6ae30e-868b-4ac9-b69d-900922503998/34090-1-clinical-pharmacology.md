@@ -19,7 +19,7 @@ Figure 1: Scatter Plot and Fitted Line of Change from Baseline in 24-Hour Urinar
 
 ### Cardiac Electrophysiology
 
-Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15 times the recommended maxiumum dose) in a study of healthy subjects.
+Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15 times the recommended maximum dose) in a study of healthy subjects.
 In addition, no clinically meaningful effect on QTc interval was observed following single doses of up to 500 mg (50 times the recommended maximum dose) of dapagliflozin in healthy subjects.
 
 ## 12.3 Pharmacokinetics

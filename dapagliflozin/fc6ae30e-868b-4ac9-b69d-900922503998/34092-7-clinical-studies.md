@@ -65,7 +65,7 @@ Table 9: Results at Week 24 (LOCF*) in an Active-Controlled Study of FARXIGA Ini
 | Difference from metformin XR (adjusted mean‡) (95% CI) | −2.0§ (−2.6, −1.3) | −1.4§ (−2.0, −0.7) |  |
 | * LOCF: last observation (prior to rescue for rescued patients) carried forward. † All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. ‡ Least squares mean adjusted for baseline value. § p-value <0.0001. ¶ Noninferior versus metformin XR. # p-value <0.05. |  |  |  |
 
-Figure 2: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24 Week Active-Controlled Study of FARXIGA Initial Combination Therapy with Metformin XR
+Figure 2: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week Active-Controlled Study of FARXIGA Initial Combination Therapy with Metformin XR
 
 In a second study, 603 patients were randomized to 1 of 3 treatment arms following a 1-week lead-in period: FARXIGA 5 mg plus metformin XR (up to 2000 mg per day), FARXIGA 5 mg plus placebo, or metformin XR (up to 2000 mg per day) plus placebo.
 Metformin XR dose was up-titrated weekly in 500 mg increments, as tolerated, with a median dose achieved of 2000 mg.
@@ -101,7 +101,7 @@ Patients on metformin at a dose of at least 1500 mg per day were randomized afte
 Following the lead-in period, eligible patients were randomized to FARXIGA 5 mg, FARXIGA 10 mg, or placebo in addition to their current dose of metformin.
 
 As add-on treatment to metformin, FARXIGA 10 mg provided statistically significant improvements in HbA1c and FPG, and statistically significant reduction in body weight compared with placebo at Week 24 (see Table 11 and Figure 3).
-Statistically significant (p<0.05 for both doses) mean change from baseline in systolic blood pressure relative to placebo plus metformin were −4.5 mmHg and −5.3 mmHg with FARXIGA 5 mg and 10 mg plus metformin, respectively.
+Statistically significant (p<0.05 for both doses) mean changes from baseline in systolic blood pressure relative to placebo plus metformin were −4.5 mmHg and −5.3 mmHg with FARXIGA 5 mg and 10 mg plus metformin, respectively.
 
 Table 11: Results of a 24-Week (LOCF*) Placebo-Controlled Study of FARXIGA in Add-On Combination with Metformin
 
@@ -123,7 +123,7 @@ Table 11: Results of a 24-Week (LOCF*) Placebo-Controlled Study of FARXIGA in Ad
 | Difference from placebo (adjusted mean‡) (95% CI) | −2.0§ (−2.6, −1.3) | −2.2§ (−2.8, −1.5) |  |
 | * LOCF: last observation (prior to rescue for rescued patients) carried forward. † All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. ‡ Least squares mean adjusted for baseline value. § p-value <0.0001 versus placebo + metformin. ¶ p-value <0.05 versus placebo + metformin. |  |  |  |
 
-Figure 3: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24 Week Placebo-Controlled Study of FARXIGA in Combination with Metformin
+Figure 3: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week Placebo-Controlled Study of FARXIGA in Combination with Metformin
 
 ## 14.5 Active Glipizide-Controlled Study Add-On to Metformin
 

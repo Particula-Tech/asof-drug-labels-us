@@ -50,7 +50,8 @@ Table 1: Adverse Reactions in Placebo-Controlled Studies Reported in ≥2% of Pa
 
 ### Pool of 13 Placebo-Controlled Studies for FARXIGA 10 mg
 
-The safety and tolerability of FARXIGA 10 mg was also evaluated in a larger placebo-controlled study pool.This pool combined 13 placebo-controlled studies, including 3 monotherapy studies, 9 add-on to background antidiabetic therapy studies, and an initial combination with metformin study.
+The safety and tolerability of FARXIGA 10 mg was also evaluated in a larger placebo-controlled study pool.
+This pool combined 13 placebo-controlled studies, including 3 monotherapy studies, 9 add-on to background antidiabetic therapy studies, and an initial combination with metformin study.
 Across these 13 studies, 2360 patients were treated once daily with FARXIGA 10 mg for a mean duration of exposure of 22 weeks.
 The mean age of the population was 59 years and 4% were older than 75 years.
 Fifty-eight percent (58%) of the population were male; 84% were White, 9% were Asian, and 3% were Black or African American.
@@ -127,7 +128,7 @@ There was no apparent pattern with respect to the anatomic site of fracture.
 The frequency of hypoglycemia by study [see Clinical Studies (14)] is shown in Table 5.
 Hypoglycemia was more frequent when FARXIGA was added to sulfonylurea or insulin [see Warnings and Precautions (5.3)].
 
-Table 5: Incidence of Major* and Minor† Hypoglycemia in Placebo-Controlled Clinical Studies
+Table 5: Incidence of Major* and Minor† Hypoglycemia in Placebo-Controlled Studies
 
 |  | Placebo | FARXIGA 5 mg | FARXIGA 10 mg |
 | --- | --- | --- | --- |
