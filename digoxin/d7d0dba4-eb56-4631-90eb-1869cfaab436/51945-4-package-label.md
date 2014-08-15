@@ -25,6 +25,8 @@ Lot/Exp Area
 
 # PRINCIPAL DISPLAY PANEL - 125 MCG TABLET
 
+125 mcg Tablet
+
 NDC 24987-242-55 100 Tablets
 
 LANOXIN® (digoxin) Tablets, USP
@@ -186,5 +188,35 @@ Store at 25°C (77°F) in a dry place and protect from light (see insert).
 Dispense in tight, light-resistant container as defined in the USP.
 Keep out of reach of children.
 Do not use if printed safety seal under cap is broken or missing.
+
+Lot/Exp Area
+
+# PRINCIPAL DISPLAY PANEL - 62.5 MCG TABLET - SAMPLE
+
+NDC 24987-240-07 7 Tablets
+
+LANOXIN® (digoxin) Tablets, USP
+
+62.5 mcg (0.0625 mg)
+
+Each tablet contains 62.5 mcg (0.0625 mg)
+
+SAMPLE – NOT FOR SALE
+
+Rx only
+
+Keep out of reach of Children.
+
+Do not use if safety seal under cap is broken or missing.
+
+Dist. by Covis Pharmaceuticals, Inc. Cary, NC 27511
+
+www.covispharma.com
+
+See prescribing information for dosage information.
+Dispense in tight, light-resistant container.
+Store at 25°C (77°F) in a dry place and protect from light.
+Made in Germany 100185 Rev.
+4/14
 
 Lot/Exp Area
