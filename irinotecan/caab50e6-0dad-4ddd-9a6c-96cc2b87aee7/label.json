@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090675"
+  ],
+  "inn": "irinotecan",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-230-02",
+    "25021-230-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "irinotecan hydrochloride",
+      "name": "Irinotecan Hydrochloride"
+    }
+  ],
+  "setid": "caab50e6-0dad-4ddd-9a6c-96cc2b87aee7",
+  "source": "dailymed"
+}
