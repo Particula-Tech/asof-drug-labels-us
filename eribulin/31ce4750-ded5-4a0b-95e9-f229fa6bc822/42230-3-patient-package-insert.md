@@ -1,8 +1,6 @@
 PATIENT INFORMATION
 
-HALAVEN® (HAL-ih-ven)
-
-(eribulin mesylate) Injection
+HALAVEN® (HAL-ih-ven) (eribulin mesylate) Injection
 
 Read this leaflet before you start receiving HALAVEN and before each injection.
 There may be new information.
@@ -101,4 +99,4 @@ HALAVEN® is a registered trademark used by Eisai Inc. under license from Eisai 
 Distributed by: Eisai Inc. Woodcliff Lake, NJ 07677
 
 If you would like a leaflet with larger printing, please contact Eisai Inc. at 1-877-873-4724.
-Revised: September 2013
+Revised: July 2014

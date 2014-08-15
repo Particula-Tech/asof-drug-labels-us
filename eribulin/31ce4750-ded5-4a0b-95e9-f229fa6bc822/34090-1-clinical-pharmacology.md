@@ -8,14 +8,13 @@ Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics (PK) of eribulin is linear with a mean elimination half-life of approximately 40 hours, a mean volume of distribution of 43 L/m2 to 114 L/m2 and mean clearance of 1.16 L/hr/m2 to 2.42 L/hr/m2 over the dose range of 0.25 mg/m2 to 4.0 mg/m2.
-The human plasma protein binding of eribulin at concentrations of 100 ng/mL to 1,000 ng/mL ranges from 49% to 65%.
-Eribulin exposure after multiple dosing is comparable to that following a single dose.
+The human plasma protein binding of eribulin at concentrations of 100 ng/mL to 1,000 ng/mL ranges from 49% to 65% Eribulin exposure after multiple dosing is comparable to that following a single dose.
 No accumulation of eribulin is observed with weekly administration.
 
 Metabolism
 
-Unchanged eribulin was the major circulating species in plasma following administration of 14C-eribulin to patients.
-Metabolite concentrations represented < 0.6% of parent compound, confirming that there are no major human metabolites of eribulin.
+Unchanged eribulin was the major circulating species in plasma following administration of 14C‑eribulin to patients.
+Metabolite concentrations represented <0.6% of parent compound, confirming that there are no major human metabolites of eribulin.
 Cytochrome P450 3A4 (CYP3A4) negligibly metabolizes eribulin in vitro.
 
 Elimination
@@ -59,8 +58,7 @@ Renal Impairment
 
 No formal PK trials were conducted with HALAVEN in patients with renal impairment.
 Available data suggests that geometric mean dose-normalized systemic exposure is similar for patients with mild renal impairment (CrCl 50-80 mL/min) relative to patients with normal renal function.
-However, for patients with moderate renal impairment (CrCl 30-50 mL/min), the geometric mean dose-normalized systemic exposure increased 2-fold compared to patients with normal renal function.
-[see Dosage and Administration (2.1), Use in Specific Populations (8.7)]
+However, for patients with moderate renal impairment (CrCl 30-50 mL/min), the geometric mean dose-normalized systemic exposure increased 2-fold compared to patients with normal renal function [see Dosage and Administration (2.1), Use in Specific Populations (8.7)].
 
 ## 12.6 Cardiac Electrophysiology
 

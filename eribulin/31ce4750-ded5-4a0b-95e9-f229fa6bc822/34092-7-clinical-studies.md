@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 Study 1 was an open-label, randomized, multicenter trial of 762 patients with metastatic breast cancer who received at least two chemotherapeutic regimens for the treatment of metastatic disease and experienced disease progression within 6 months of their last chemotherapeutic regimen.
-Patients were required to receive prior anthracycline- and taxane-based chemotherapy for adjuvant or metastatic disease.
+Patients were required to receive prior anthracycline- and taxane- based chemotherapy for adjuvant or metastatic disease.
 Patients were randomized (2:1) to receive HALAVEN (n=508) or a single agent therapy selected prior to randomization (control arm, n=254).
 Randomization was stratified by geographic region, HER2/neu status, and prior capecitabine exposure.
 HALAVEN was administered at a dose of 1.4 mg/m2 on Days 1 and 8 of a 21-day cycle.
@@ -13,7 +13,7 @@ Patient demographic and baseline characteristics were comparable between the tre
 The median age was 55 (range: 27 to 85 years) and 92% were White.
 Sixty-four percent of patients were enrolled in North America/Western Europe/Australia, 25% in Eastern Europe/Russia, and 11% in Latin America/South Africa.
 Ninety-one percent of patients had a baseline ECOG performance status of 0 or 1.
-Tumor prognostic characteristics, including estrogen receptor status (positive: 67%, negative: 28%), progesterone receptor status (positive: 49%, negative: 39%), HER2/neu receptor status (positive: 16%, negative: 74%), triple negative status (ER-, PR-, HER2/neu-: 19%), presence of visceral disease (82%, including 60% liver and 38% lung) and bone disease (61%), and number of sites of metastases (greater than two: 50%), were also similar in the HALAVEN and control arms.
+Tumor prognostic characteristics, including estrogen receptor status (positive: 67%, negative: 28%), progesterone receptor status (positive: 49%, negative: 39%), HER2/neu receptor status (positive: 16%, negative: 74%), triple negative status (ER-,PR-,HER2/neu-: 19%), presence of visceral disease (82%, including 60% liver and 38% lung) and bone disease (61%), and number of sites of metastases (greater than two: 50%), were also similar in the HALAVEN and control arms.
 Patients received a median of four prior chemotherapy regimens in both arms.
 
 In Study 1, a statistically significant improvement in overall survival was observed in patients randomized to the HALAVEN arm compared to the control arm (see Table 3).

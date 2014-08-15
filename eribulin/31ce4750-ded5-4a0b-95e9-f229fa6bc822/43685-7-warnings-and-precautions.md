@@ -2,7 +2,7 @@
 
 ## 5.1 Neutropenia
 
-Severe neutropenia (ANC < 500/mm3) lasting more than one week occurred in 12% (62/503) of patients in Study 1, leading to discontinuation in < 1% of patients [see Adverse Reactions (6)].
+Severe neutropenia (ANC < 500/mm3) lasting more than one week occurred in 12% (62/503) of patients in Study 1, leading to discontinuation in <1% of patients [see Adverse Reactions (6)].
 Patients with alanine aminotransferase or aspartate aminotransferase > 3 × ULN (upper limit of normal) experienced a higher incidence of Grade 4 neutropenia and febrile neutropenia than patients with normal aminotransferase levels.
 Patients with bilirubin > 1.5 × ULN also had a higher incidence of Grade 4 neutropenia and febrile neutropenia.
 

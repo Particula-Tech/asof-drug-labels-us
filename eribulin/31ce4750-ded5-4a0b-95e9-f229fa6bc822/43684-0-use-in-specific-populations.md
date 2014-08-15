@@ -13,7 +13,7 @@ In a developmental toxicity study, pregnant rats received intravenous infusion o
 Increased abortion and severe external or soft tissue malformations were observed in offspring at doses 0.64 times the recommended human dose based on body surface area (mg/m2), including the absence of a lower jaw, tongue, stomach and spleen.
 Increased embryo-fetal death/resorption, reduced fetal weights, and minor skeletal anomalies consistent with developmental delay were also reported at or above doses of 0.43 times the recommended human dose.
 
-Maternal toxicity of eribulin mesylate was reported in rats at or above doses of 0.43 times the recommended human dose (mg/m2), and included enlarged spleen, reduced maternal weight gain and decreased food consumption.
+Maternal toxicity of eribulin mesylate was reported in rats at or above doses of 0.43 times the recommended human dose (mg/m²), and included enlarged spleen, reduced maternal weight gain and decreased food consumption.
 
 ## 8.3 Nursing Mothers
 
@@ -34,11 +34,10 @@ No overall differences in safety were observed between these subjects and younge
 ## 8.6 Hepatic Impairment
 
 Administration of HALAVEN at a dose of 1.1 mg/m2 to patients with mild hepatic impairment and 0.7 mg/m2 to patients with moderate hepatic impairment resulted in similar exposure to eribulin as a dose of 1.4 mg/m2 to patients with normal hepatic function.
-Therefore, a lower starting dose of 1.1 mg/m2 is recommended for patients with mild hepatic impairment (Child-Pugh A) and of 0.7 mg/m2 is recommended for patients with moderate hepatic impairment (Child-Pugh B). HALAVEN was not studied in patients with severe hepatic impairment (Child-Pugh C). [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)]
+Therefore, a lower starting dose of 1.1 mg/m2 is recommended for patients with mild hepatic impairment (Child-Pugh A) and of 0.7 mg/m2 is recommended for patients with moderate hepatic impairment (Child-Pugh B). HALAVEN was not studied in patients with severe hepatic impairment (Child-Pugh C) [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 For patients with moderate renal impairment (CrCl 30-50 mL/min), the geometric mean dose-normalized systemic exposure increased 2-fold compared to patients with normal renal function.
 A lower starting dose of 1.1 mg/m2 is recommended for patients with moderate renal impairment.
-The safety of HALAVEN was not studied in patients with severe renal impairment (CrCl < 30 mL/min).
-[see Dosage and Administration (2.1), Clinical Pharmacology (12.3)]
+The safety of HALAVEN was not studied in patients with severe renal impairment (CrCl < 30 mL/min) [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].

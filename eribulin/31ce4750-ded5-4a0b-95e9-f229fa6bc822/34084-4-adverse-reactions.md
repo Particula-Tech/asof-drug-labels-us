@@ -26,7 +26,7 @@ Table 2 reports the most common adverse reactions occurring in at least 10% of p
 
 Table 2 Adverse Reactions with a Per-Patient Incidence of at Least 10% in Study 1
 
-| MedDRA ver 10.0 | HALAVENn=503 |  | Control Groupn=247 |  |
+| MedDRA ver 10.0 | HALAVEN n=503 |  | Control Group n=247 |  |
 | --- | --- | --- | --- | --- |
 |  | All Grades | ≥ Grade 3 | All Grades | ≥ Grade 3 |
 | Blood and Lymphatic System Disorders a |  |  |  |  |
@@ -95,10 +95,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Blood and Lymphatic System Disorders: lymphopenia
 - Gastrointestinal Disorders: pancreatitis
-- Hepatobiliary Disorders: hepatitis
+- Hepatobiliary Disorders: hepatotoxicity
 - Immune System Disorders: drug hypersensitivity
 - Infections and Infestations: pneumonia, sepsis/neutropenic sepsis
 - Metabolism and Nutrition Disorders: hypomagnesemia, dehydration
 - Respiratory, thoracic and mediastinal disorders: interstitial lung disease
-- Psychiatric Disorders: anxiety
 - Skin and Subcutaneous Tissue Disorders: pruritus
