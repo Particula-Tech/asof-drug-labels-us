@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA204629"
+  ],
+  "inn": "empagliflozin",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0597-0152-07",
+    "0597-0152-30",
+    "0597-0152-37",
+    "0597-0152-70",
+    "0597-0152-90",
+    "0597-0153-07",
+    "0597-0153-30",
+    "0597-0153-37",
+    "0597-0153-70",
+    "0597-0153-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "empagliflozin",
+      "name": "Jardiance"
+    }
+  ],
+  "setid": "faf3dd6a-9cd0-39c2-0d2e-232cb3f67565",
+  "source": "dailymed"
+}
