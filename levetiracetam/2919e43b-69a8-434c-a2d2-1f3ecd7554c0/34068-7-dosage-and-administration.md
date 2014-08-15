@@ -1,11 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 General Dosing Recommendations
+
 KEPPRA XR is administered once daily.
 
 Treatment should be initiated with a dose of 1000 mg once daily.
 The once daily dosage may be adjusted in increments of 1000 mg every 2 weeks to a maximum recommended once daily dose of 3000 mg.
 
-## 2.1 Adult Patients with Impaired Renal Function
+## 2.2 Adult Patients with Impaired Renal Function
 
 KEPPRA XR dosing must be individualized according to the patient's renal function status.
 Recommended doses and adjustment for dose for adults are shown in Table 1.

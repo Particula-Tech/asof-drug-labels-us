@@ -2,9 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Keppra XR levels may decrease during pregnancy [see Warnings and Precautions (5.8)].
+KEPPRA XR levels may decrease during pregnancy [see Warnings and Precautions (5.8)].
 
-### Pregnancy Category C
+Pregnancy Category C
 
 There are no adequate and well-controlled studies in pregnant women.
 In animal studies, levetiracetam produced evidence of developmental toxicity, including teratogenic effects, at doses similar to or greater than human therapeutic doses.
@@ -24,7 +24,7 @@ There was no evidence of maternal toxicity in this study.
 
 Treatment of rats with levetiracetam during the last third of gestation and throughout lactation produced no adverse developmental or maternal effects at oral doses of up to 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
 
-### Pregnancy Registries
+Pregnancy Registries
 
 To provide information regarding the effects of in utero exposure to KEPPRA XR, physicians are advised to recommend that pregnant patients taking KEPPRA XR enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by the patients themselves.
@@ -41,7 +41,18 @@ Because of the potential for serious adverse reactions in nursing infants from K
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of KEPPRA XR in patients below the age of 16 years have not been established.
+Safety and effectiveness in pediatric patients 12 years of age and older has been established based on pharmacokinetic data in adults and adolescents using KEPPRA XR and efficacy and safety data in controlled pediatric studies using immediate-release KEPPRA [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+
+Safety and effectiveness of KEPPRA XR in patients below the age of 12 years have not been established.
+
+A 3-month, randomized, double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of immediate-release KEPPRA as adjunctive therapy in 98 pediatric patients with inadequately controlled partial seizures, ages 4 to 16 years (KEPPRA N=64; placebo N=34).
+The target dose of immediate-release KEPPRA was 60 mg/kg/day.
+Neurocognitive effects were measured by the Leiter-R Attention and Memory (AM) Battery, which assesses various aspects of a child's memory and attention.
+Although no substantive differences were observed between the placebo- and KEPPRA-treated groups in the median change from baseline in this battery, the study was not adequate to assess formal statistical non-inferiority between the drug and placebo.
+The Achenbach Child Behavior Checklist (CBCL/6-18), a standardized validated tool used to assess a child's competencies and behavioral/emotional problems, was also assessed in this study.
+An analysis of the CBCL/6-18 indicated a worsening in aggressive behavior, one of the eight syndrome scores, in patients treated with KEPPRA [see Warnings and Precautions (5.1)].
+
+Studies of levetiracetam in juvenile rats (dosing from day 4 through day 52 of age) and dogs (dosing from week 3 through week 7 of age) at doses of up to 1800 mg/kg/day (approximately 7 and 24 times, respectively, the maximum recommended pediatric dose of 60 mg/kg/day on a mg/m2 basis) did not indicate a potential for age-specific toxicity.
 
 ## 8.5 Geriatric Use
 

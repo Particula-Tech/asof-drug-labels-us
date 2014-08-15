@@ -11,7 +11,7 @@ The predictive value of these animal models for specific types of human epilepsy
 
 In vitro and in vivo recordings of epileptiform activity from the hippocampus have shown that levetiracetam inhibits burst firing without affecting normal neuronal excitability, suggesting that levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity.
 
-Levetiracetam at concentrations of up to 10 μM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N-methyl-D-aspartate), re-uptake sites, and second messenger systems.
+Levetiracetam at concentrations of up to 10 µM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N-methyl-D-aspartate), re-uptake sites, and second messenger systems.
 Furthermore, in vitro studies have failed to find an effect of levetiracetam on neuronal voltage-gated sodium or T-type calcium currents and levetiracetam does not appear to directly facilitate GABAergic neurotransmission.
 However, in vitro studies have demonstrated that levetiracetam opposes the activity of negative modulators of GABA- and glycine-gated currents and partially inhibits N-type calcium currents in neuronal cells.
 
@@ -25,15 +25,15 @@ These findings suggest that the interaction of levetiracetam with the SV2A prote
 Effects on QTc Interval
 
 The effects of KEPPRA XR on QTc prolongation is expected to be the same as that of immediate-release KEPPRA.
-The effect of immediate-release KEPPRA on QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg) and placebo-controlled crossover study of KEPPRA (1000 mg or 5000 mg) in 52 healthy subjects.
+The effect of immediate-release KEPPRA on QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg) and placebo-controlled crossover study of immediate-release KEPPRA (1000 mg or 5000 mg) in 52 healthy subjects.
 The upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 milliseconds.
 Therefore, there was no evidence of significant QTc prolongation in this study.
 
 ## 12.3 Pharmacokinetics
 
-### Overview
+Overview
 
-Bioavailability of Keppra XR tablets is similar to that of the Keppra IR Tablets.
+Bioavailability of KEPPRA XR tablets is similar to that of the immediate-release KEPPRA Tablets.
 The pharmacokinetics (AUC and Cmax) were shown to be dose proportional after single dose administration of 1000 mg, 2000 mg, and 3000 mg extended-release levetiracetam.
 Plasma half-life of extended-release levetiracetam is approximately 7 hours.
 
@@ -47,7 +47,7 @@ The metabolites have no known pharmacological activity and are renally excreted.
 Plasma half-life of levetiracetam across studies is approximately 6-8 hours.
 The half-life is increased in the elderly (primarily due to impaired renal clearance) and in subjects with renal impairment.
 
-### Absorption and Distribution
+Absorption and Distribution
 
 Extended-release levetiracetam peak plasma concentrations occur in about 4 hours.
 The time to peak plasma concentrations is about 3 hours longer with extended-release levetiracetam than with immediate-release tablets.
@@ -60,7 +60,7 @@ The median time to peak (Tmax) was 2 hours longer in the fed state.
 
 Two 750 mg extended-release levetiracetam tablets were bioequivalent to a single administration of three 500 mg extended-release levetiracetam tablets.
 
-### Metabolism
+Metabolism
 
 Levetiracetam is not extensively metabolized in humans.
 The major metabolic pathway is the enzymatic hydrolysis of the acetamide group, which produces the carboxylic acid metabolite, ucb L057 (24% of dose) and is not dependent on any liver cytochrome P450 isoenzymes.
@@ -68,7 +68,7 @@ The major metabolite is inactive in animal seizure models.
 Two minor metabolites were identified as the product of hydroxylation of the 2-oxo-pyrrolidine ring (2% of dose) and opening of the 2-oxo-pyrrolidine ring in position 5 (1% of dose).
 There is no enantiomeric interconversion of levetiracetam or its major metabolite.
 
-### Elimination
+Elimination
 
 Levetiracetam plasma half-life in adults is 7 ± 1 hour and is unaffected by either dose or repeated administration.
 Levetiracetam is eliminated from the systemic circulation by renal excretion as unchanged drug which represents 66% of administered dose.
@@ -90,7 +90,9 @@ This is most likely due to the decrease in renal function in these subjects.
 
 Pediatric Patients
 
-Safety and effectiveness of KEPPRA XR in patients below the age of 16 years have not been established.
+An open label, multicenter, parallel-group, two-arm study was conducted to evaluate the pharmacokinetics of KEPPRA XR in pediatric patients (13 to 16 years old) and in adults (18 to 55 years old) with epilepsy.
+KEPPRA XR oral tablets (1000 mg to 3000 mg) were administered once daily with a minimum of 4 days and a maximum of 7 days of treatment to 12 pediatric patients and 13 adults in the study.
+Dose-normalized steady-state exposure parameters, Cmax and AUC, were comparable between pediatric and adult patients.
 
 Pregnancy
 
@@ -128,7 +130,7 @@ In subjects with mild (Child-Pugh A) to moderate (Child-Pugh B) hepatic impairme
 In patients with severe hepatic impairment (Child-Pugh C), total body clearance was 50% that of normal subjects, but decreased renal clearance accounted for most of the decrease.
 No dose adjustment is needed for patients with hepatic impairment.
 
-Drug Interactions:
+Drug Interactions
 
 In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
 Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.

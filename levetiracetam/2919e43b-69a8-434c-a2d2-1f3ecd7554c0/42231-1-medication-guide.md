@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 KEPPRA XR® (KEPP-ruh XR) (levetiracetam) extended-release tablets
 
@@ -40,9 +40,9 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 What is KEPPRA XR?
 
-KEPPRA XR is a prescription medicine taken by mouth that is used with other medicines to treat partial onset seizures in people 16 years of age and older with epilepsy.
+KEPPRA XR is a prescription medicine taken by mouth that is used with other medicines to treat partial onset seizures in people 12 years of age and older with epilepsy.
 
-It is not known if KEPPRA XR is safe or effective in people under 16 years of age.
+It is not known if KEPPRA XR is safe or effective in people under 12 years of age.
 
 Before taking your medicine, make sure you have received the correct medicine.
 Compare the name above with the name on your bottle and the appearance of your medicine with the description of KEPPRA XR provided below.
@@ -68,7 +68,7 @@ Before taking KEPPRA XR, tell your healthcare provider about all of your medical
   KEPPRA XR can pass into your milk and may harm your baby.
   You and your healthcare provider should discuss whether you should take KEPPRA XR or breast-feed; you should not do both.
 
-Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Do not start a new medicine without first talking with your healthcare provider.
 
 Know the medicines you take.
@@ -135,7 +135,7 @@ How should I store KEPPRA XR?
 - Store KEPPRA XR at room temperature, 59°F to 86°F (15°C to 30°C) away from heat and light.
 - Keep KEPPRA XR and all medicines out of the reach of children.
 
-General information about KEPPRA XR.
+General information about the safe and effective use of KEPPRA XR.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use KEPPRA XR for a condition for which it was not prescribed.
@@ -162,8 +162,7 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 
 Distributed by UCB, Inc. Smyrna, GA 30080
 
-KEPPRA XR is a registered trademark of the UCB Group of companies © 2013, UCB, Inc., Smyrna, GA 30080 All rights reserved.
-Printed in the U.S.A.
+KEPPRA XR is a registered trademark of the UCB Group of companies © 2014, UCB, Inc., Smyrna, GA 30080 All rights reserved.
 
 Rev.
-09/2013
+08/2014

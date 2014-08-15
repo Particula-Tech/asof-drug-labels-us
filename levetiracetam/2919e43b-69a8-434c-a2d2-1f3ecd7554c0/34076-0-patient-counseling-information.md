@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Labeling (Medication Guide).
+Advise the patient to read the FDA-approved Patient Labeling (Medication Guide).
 
 Counsel patients on the benefits and risks of receiving KEPPRA XR.
 Provide the Medication Guide to patients and/or caregivers, and instruct them to read the Medication Guide prior to taking KEPPRA XR.
