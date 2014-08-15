@@ -54,9 +54,19 @@ Severe allergic reactions:
 4.
 Abnormal bleeding: Fluoxetine capsules and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 5.
-Seizures or convulsions
+Visual Problems:
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are risk and receive preventative treatment if you are.
 
 6.
+Seizures or convulsions
+
+7.
 Manic episodes:
 
 - greatly increased energy
@@ -67,10 +77,10 @@ Manic episodes:
 - excessive happiness or irritability
 - talking more or faster than usual
 
-7.
+8.
 Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
-8.
+9.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
@@ -79,8 +89,8 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
-9.
-Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsade de Pointes).
+10.
+Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsades de Pointes).
 This condition can be life threatening.
 The symptoms may include:
 
@@ -164,6 +174,7 @@ Tell your healthcare provider about all the medicines that you take, including p
 Fluoxetine capsules and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 Your healthcare provider or pharmacist can tell you if it is safe to take fluoxetine capsules with your other medicines.
 Do not start or stop any medicine while taking fluoxetine capsules without talking to your healthcare provider first.
+If you take fluoxetine capsules, you should not take any other medicines that contain fluoxetine hydrochloride including:
 
 How should I take fluoxetine capsules?
 
@@ -245,4 +256,4 @@ Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Zyprexa® is a registered trademark of Eli Lilly and Company.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 02/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 08/2014

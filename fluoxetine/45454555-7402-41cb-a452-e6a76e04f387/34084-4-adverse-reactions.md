@@ -99,7 +99,7 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Dis
 | Pruritus | 3 | 2 |
 | Special Senses |  |  |
 | Abnormal vision | 2 | 1 |
-| 1 Incidence less than 1%. 2 Includes U.S. data for Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials. |  |  |
+| 1 Incidence less than 1%. 2 Includes U.S. data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials. |  |  |
 
 Associated with discontinuation in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 5 lists the adverse reactions associated with discontinuation of fluoxetine treatment (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S.
 Panic Disorder clinical trials.
@@ -112,7 +112,7 @@ Table 5: Most Common Adverse Reactions Associated with Discontinuation in Major 
 | -- | -- | -- | Insomnia (2%) | -- |
 | -- | Nervousness (1%) | -- | -- | Nervousness (1%) |
 | -- | -- | Rash (1%) | -- | -- |
-| 1 Includes U.S. Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S. Panic Disorder clinical trials. |  |  |  |  |
+| 1 Includes U.S. Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S. Panic Disorder clinical trials. |  |  |  |  |
 
 Other adverse reactions in pediatric patients (children and adolescents) — Treatment-emergent adverse reactions were collected in 322 pediatric patients (180 fluoxetine-treated, 142 placebo-treated).
 The overall profile of adverse reactions was generally similar to that seen in adult studies, as shown in Tables 4 and 5.
@@ -152,6 +152,6 @@ Adjusted for gender.
 
 The following adverse reactions have been identified during post approval use of fluoxetine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
-Voluntary reports of adverse reactions temporally associated with fluoxetine that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, memory impairment, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of pre-existing movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including torsades de pointes–type arrhythmias), and vaginal bleeding, and violent behaviors1.
-1 These terms represent serious adverse events, but do not meet the definition for adverse drug reactions.
+Voluntary reports of adverse reactions temporally associated with fluoxetine that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, galactorrhea, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, memory impairment, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of pre-existing movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including Torsades de Pointes–type arrhythmias), and vaginal bleeding, and violent behaviors1.
+1These terms represent serious adverse events, but do not meet the definition for adverse drug reactions.
 They are included here because of their seriousness.

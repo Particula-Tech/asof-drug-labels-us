@@ -38,12 +38,12 @@ Pimozide can prolong the QT interval.
 Fluoxetine can increase the level of pimozide through inhibition of CYP2D6.
 Fluoxetine can also prolong the QT interval.
 Clinical studies of pimozide with other antidepressants demonstrate an increase in drug interaction or QT prolongation.
-While a specific study with pimozide and fluoxetine has not been conducted, the potential for drug interactions or QT prolongation warrants restricting the concurrent use of pimozide and fluoxetine [see Contraindications (4.2), Warnings and Precautions (5.10), and Drug Interactions (7.8)].
-Thioridazine — Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued, because of the risk of QT Prolongation [see Contraindications (4.2), Warnings and Precautions (5.10), and Drug Interactions (7.8)].
+While a specific study with pimozide and fluoxetine has not been conducted, the potential for drug interactions or QT prolongation warrants restricting the concurrent use of pimozide and fluoxetine [see Contraindications (4.2), Warnings and Precautions (5.11), and Drug Interactions (7.8)].
+Thioridazine — Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued, because of the risk of QT Prolongation [see Contraindications (4.2), Warnings and Precautions (5.11), and Drug Interactions (7.8)].
 In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4-fold higher Cmax and a 4.5-fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.
 The rate of debrisoquin hydroxylation is felt to depend on the level of CYP2D6 isozyme activity.
 Thus, this study suggests that drugs which inhibit CYP2D6, such as certain SSRIs, including fluoxetine, will produce elevated plasma levels of thioridazine.
-Thioridazine administration produces a dose-related prolongation of the QT interval, which is associated with serious ventricular arrhythmias, such as torsades de pointes-type arrhythmias, and sudden death.
+Thioridazine administration produces a dose-related prolongation of the QT interval, which is associated with serious ventricular arrhythmias, such as Torsades de Pointes-type arrhythmias, and sudden death.
 This risk is expected to increase with fluoxetine-induced inhibition of thioridazine metabolism.
 Drugs Metabolized by CYP2D6 — Fluoxetine inhibits the activity of CYP2D6, and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer.
 Coadministration of fluoxetine with other drugs that are metabolized by CYP2D6, including certain antidepressants (e.g., TCAs), antipsychotics (e.g., phenothiazines and most atypicals), and antiarrhythmics (e.g., propafenone, flecainide, and others) should be approached with caution.
@@ -78,4 +78,4 @@ Use fluoxetine with caution in combination with other drugs that cause QT prolon
 These include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol); specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin); Class 1A antiarrhythmic medications (e.g., quinidine, procainamide); Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
 Fluoxetine is primarily metabolized by CYP2D6.
 Concomitant treatment with CYP2D6 inhibitors can increase the concentration of fluoxetine.
-Concomitant use of other highly protein-bound drugs can increase the concentration of fluoxetine [see Contraindications (4.2), Warnings and Precautions (5.10), Drug Interactions (7.7), and Clinical Pharmacology (12.3)].
+Concomitant use of other highly protein-bound drugs can increase the concentration of fluoxetine [see Contraindications (4.2), Warnings and Precautions (5.11), Drug Interactions (7.7), and Clinical Pharmacology (12.3)].
