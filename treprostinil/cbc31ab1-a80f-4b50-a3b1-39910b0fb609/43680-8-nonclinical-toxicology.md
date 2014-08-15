@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-A two-year rat carcinogenicity study was performed with treprostinil inhalation at target doses up to 5.26, 10.6, and 34.1 mcg/kg/day.
+A two-year rat carcinogenicity study was performed with treprostinil inhalation at target doses of 5.26, 10.6, and 34.1 mcg/kg/day.
 There was no evidence for carcinogenic potential associated with treprostinil inhalation in rats at systemic exposure levels up to 35 times the clinical exposure at the target maintenance dose of 54 mcg.
 In vitro and in vivo genetic toxicology studies did not demonstrate any mutagenic or clastogenic effects of treprostinil.
 Treprostinil sodium did not affect fertility or mating performance of male or female rats given continuous subcutaneous (sc) infusions at rates of up to 450 ng treprostinil/kg/min [about 59 times the recommended starting human sc infusion rate (1.25 ng/kg/min) and 8 times the average rate (9.3 ng/kg/min) achieved in clinical trials, on a ng/m2 basis].
