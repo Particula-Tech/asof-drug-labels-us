@@ -1,118 +1,190 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of azithromycin and other antibacterial drugs, azithromycin for oral suspension should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+# Patient Information
 
-# PATIENT SUMMARY OF INFORMATION ABOUT
+Azithromycin (a ZITH roe MYE sin)
 
-Azithromycin For Oral Suspension USP
+For Oral Suspension USP
 
-Cherry-flavored suspension
+Read this Patient Information leaflet before you start taking azithromycin for oral suspension and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-Rx Only
+What is azithromycin for oral suspension?
 
-This summary contains important information about azithromycin.
-It is not meant to take the place of your child’s doctor’s instructions.
-Read this information carefully before you give azithromycin to your child.
-Ask your child’s doctor, nurse or pharmacist if you do not understand any of this information or if you want to know more about azithromycin.
+Azithromycin for oral suspension is a macrolide antibiotic prescription medicine used in adults 18 years or older to treat certain infections caused by certain germs called bacteria.
+These bacterial infections include:
 
-• What Is Azithromycin?
+- •acute worsening of chronic bronchitis
+- •acute sinus infection
+- •community-acquired pneumonia
+- •infected throat or tonsils
+- •skin infections
+- •infections of the urethra or cervix
+- •genital ulcers in men
 
-Azithromycin is an antibiotic medicine that is taken only once a day to treat the following types of infections in children: ear infections, pneumonia, and throat infections.
+Azithromycin for oral suspension is also used in children to treat:
 
-• Can Antibiotics Cure A Cold Or Flu?
+- •ear infections
+- •community-acquired pneumonia
+- •infected throat or tonsils
 
-No. Antibiotics work only on infections caused by bacteria.
-They do not kill viruses.
-No antibiotic, including azithromycin, can treat viral infections such as the common cold and the flu.
+Azithromycin should not be taken by people who cannot tolerate oral medications because they are very ill or have certain other risk factors including:
 
-• What To Tell Your Child’s Doctor Before You Start Azithromycin
+- •have cystic fibrosis
+- •have hospital acquired infections
+- •have known or suspected bacteria in the blood
+- •need to be in the hospital
+- •are elderly
+- •have any medical problems that can lower the ability of the immune system to fight infections
 
-Only your child’s doctor can decide if azithromycin is right for your child.
-Before you start azithromycin, be sure to tell the doctor if your child:
+Azithromycin for oral suspension is not for viral infections such as the common cold.
 
-- is being given any prescription medicines, including those for asthma
-- is being given any over-the-counter medicines you can buy without a prescription, including natural/herbal remedies
-- has ever had any liver or kidney problems
-- has any other medical problems
-- is allergic to any medicines
-- is allergic to certain antibiotics such as erythromycin
-- is allergic to azithromycin or any of the ingredients of azithromycin suspension.
-  Your doctor or pharmacist can give you a list of these ingredients.
+It is not known if azithromycin for oral suspension is safe and effective for genital ulcers in women.
 
-• Azithromycin And Other Medicines
+It is not known if azithromycin for oral suspension is safe and effective for children with ear infections, sinus infections, and community-acquired pneumonia under 6 months of age.
 
-Some medicines can affect how well azithromycin works.
-Check with your child’s doctor before giving your child any new medicines.
+It is not known if azithromycin for oral suspension is safe and effective for infected throat or tonsils in children under 2 years of age.
 
-• What Is The Right Amount Of Azithromycin To Give To My Child?
+Who should not take azithromycin for oral suspension?
 
-Azithromycin gets deep into infected tissue where it is released slowly over time so the medicine keeps fighting bacteria for many days after the last dose is taken.
-This is why azithromycin may be taken for as short a time as one day.
-Your child’s doctor will decide the total amount of azithromycin to give to your child, depending on your child’s weight and on the specific infection your child has.
-In addition to deciding the total amount of azithromycin to give to your child, the doctor will tell you to give all the medicine to your child in 1 day or to divide it over 3 days or over 5 days.
+Do not take azithromycin for oral suspension if you:
 
-For Ear lnfections
+- •have had a severe allergic reaction to certain antibiotics known as macrolides or ketolides including azithromycin and erythromycin.
+- •have a history of cholestatic jaundice or hepatic dysfunction that happened with the use of azithromycin.
 
-For ear infections, your child’s doctor will tell you to give azithromycin to your child in one of the following ways: the total amount as 1 dose on 1 day, or the total amount divided into 1 dose per-day for 3 days or the total amount divided into 1 dose-per-day for 5 days, with a double dose on the first day.
-Whether given all on 1 day, or divided over 3 days or over 5 days, the total amount of azithromycin you give to your child should be the same.
+What should I tell my healthcare provider before taking azithromycin for oral suspension?
 
-For Pneumonia
+Before you take azithromycin for oral suspension, tell your healthcare provider if you:
 
-For pneumonia, your child’s doctor will tell you to give azithromycin to your child by dividing the total amount into 1 dose-per-day for 5 days, with a double dose on the first day.
+- •have pneumonia
+- •have cystic fibrosis
+- •have known or suspected bacteremia (bacterial infection in the blood)
+- •have liver or kidney problems
+- •have an irregular heartbeat, especially a problem called “QT prolongation”
+- •have a problem that causes muscle weakness (myasthenia gravis)
+- •have any other medical problems
+- •are pregnant or plan to become pregnant.
+  It is not known if azithromycin for oral suspension will harm your unborn baby.
+- •are breastfeeding or plan to breastfeed.
+  Azithromycin has been reported to pass into breast milk.
+  Talk to your healthcare provider about the best way to feed your baby while you take azithromycin for oral suspension.
 
-For Throat lnfections (“strep throat”)
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
-For throat infections, your child’s doctor will tell you to give azithromycin to your child by dividing the total amount into 1 dose-per-day for 5 days.
-When you give azithromycin for 5 days for throat infections, you do not need to give a double dose on the first day (as you would with ear infections).
-If you have questions about how to give azithromycin to your child, please ask your child’s doctor, nurse or pharmacist.
+Azithromycin for oral suspension and other medicines may affect each other causing side effects.
+Azithromycin for oral suspension may affect the way other medicines work, and other medicines may affect how azithromycin for oral suspension works.
 
-• How And When To Give Azithromycin
+Especially tell your healthcare provider if you take:
 
-Azithromycin may be taken with or without food and may be taken at any time of day.
-Shake the bottle well just before you give a dose.
-Give azithromycin for the full number of days prescribed by the doctor, even if your child feels better before finishing all the medicine as prescribed.
-If you forget to give your child a dose, call the doctor.
+- •nelfinavir
+- •a blood thinner (warfarin)
+- •digoxin
+- •phenytoin
+- •an antacid that contains aluminum or magnesium
 
-• When Can I Expect My Child To Begin Feeling Better?
+Know the medicines you take.
+Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-Although azithromycin’s dosing is short and you may be able to give all the medicine to your child more easily, you should not expect azithromycin to work faster than other antibiotics which are dosed for up to 10 days.
-Your child’s doctor or nurse can advise you when your child should begin feeling better.
+How should I take azithromycin for oral suspension?
 
-• Possible Side Effects
+- •Take azithromycin for oral suspension exactly as your healthcare provider tells you to take it.
+- •Azithromycin for oral suspension can be taken with or without food.
+- •If you take azithromycin for oral suspension, shake the bottle well just before you take it.
+- •Do not skip any doses of azithromycin for oral suspension or stop taking it, even if you begin to feel better, until you finish your prescribed treatment unless you have a serious allergic reaction or your healthcare provider tells you to stop taking azithromycin for oral suspension.
+  See “What are the possible side effects of azithromycin for oral suspension?”
+  If you skip doses, or do not complete the total course of azithromycin for oral suspension your treatment may not work as well and your infection may be harder to treat.
+  Taking all of your azithromycin for oral suspension doses will help lower the chance that the bacteria will become resistant to azithromycin.
+- •If the bacteria becomes resistant to azithromycin, azithromycin for oral suspension and other antibiotic medicines may not work for you in the future.
+- •If you take too much azithromycin for oral suspension, call your healthcare provider or get medical help right away.
 
-Like all medicines, azithromycin may cause side effects in some children that are usually mild to moderate and go away after the medicine is stopped.
-The most common ones are diarrhea, abdominal (“tummy”) pain, vomiting and nausea.
+What are the possible side effects of azithromycin for oral suspension?
 
-As with other antibiotics, if your child develops diarrhea that becomes severe and watery or does not go away, stop taking the medicine and call the doctor or nurse.
-This could be a sign of a serious medical problem.
-Allergic reactions to azithromycin are rare, but these can be very serious if not treated right away by a doctor.
-If you think your child might be having an allergic reaction to azithromycin, stop the medicine and call the doctor right away.
-If you cannot reach the doctor, go to the nearest hospital emergency room.
-Symptoms of a severe allergic reaction may include trouble breathing; swelling of the face, mouth and neck; or severe skin rash or blisters.
-Azithromycin may cause other less common side effects besides those listed here.
-For a list of all the side effects that have been reported, ask the doctor, nurse or pharmacist for the Azithromycin Professional Package Insert.
+Azithromycin for oral suspension can cause serious side effects, including:
 
-• What Should I Do If My Child Vomits (Spits Up) The 1 Day Treatment of Azithromycin?
+- •Serious allergic reactions.
+  Allergic reactions can happen in people taking azithromcyin the active ingredient in azithromycin for oral suspension, even after only 1 dose.
+  Stop taking azithromycin for oral suspension and get emergency medical help right away if you have any of the following symptoms of a severe allergic reaction:
+  - ohives
+  - otrouble breathing or swallowing
+  - oswelling of the lips, tongue, face
+  - othroat tightness, hoarseness
+  - orapid heartbeat
+  - ofaintness
+  - oskin rash
+- Stop taking azithromycin for oral suspension at the first sign of a skin rash and call your healthcare provider.
+- Skin rash may be a sign of a more serious reaction to azithromycin for oral suspension.
 
-If your child vomits within 30 minutes after the 1 day treatment for an ear infection, please call your child’s doctor.
+- •Liver damage (hepatotoxicity).
+  Hepatotoxicity can happen in people who take azithromycin for oral suspension.
+  Call your healthcare provider right away if you have unexplained symptoms such as:
 
-• What To Do For An Overdose
+| onausea or vomitingostomach painofeveroweaknessoabdominal pain or tendernessoitchingounusual tiredness | oloss of appetiteochange in the color of your bowel movementsodark colored urineoyellowing of your skin or of the whites of your eyes |
+| --- | --- |
 
-In case of accidental overdose, call your child’s doctor right away or go to the nearest emergency room.
+Stop taking azithromycin for oral suspension and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
+These can be signs of a serious reaction to azithromycin for oral suspension (a liver problem).
 
-• How To Store Azithromycin
+- •Serious heart rhythm changes (QT prolongation and torsades de pointes).
+  Tell your healthcare provider right away if you have a change in your heartbeat (a fast or irregular heartbeat), or if you feel faint and dizzy.
+  Azithromycin for oral suspension may cause a rare heart problem known as prolongation of the QT interval.
+  This condition can cause an abnormal heartbeat and can be very dangerous.
+  The chances of this happening are higher in people:
+  - owho are elderly
+  - owith a family history of prolonged QT interval
+  - owith low blood potassium
+  - owho take certain medicines to control heart rhythm (antiarrhythmics)
+- •Worsening of myasthenia gravis (a problem that causes muscle weakness).
+  Certain antibiotics like azithromycin for oral suspension may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+- •Diarrhea.
+  Tell your healthcare provider right away if you have watery diarrhea, diarrhea that does not go away, or bloody stools.
+  You may experience cramping and a fever.
+  This could happen after you have finished your azithromycin for oral suspension.
+- The most common side effects of azithromycin for oral suspension include:
+  1. •nausea
+  2. •stomach pain
+  3. •vomiting
 
-Keep azithromycin out of the reach of children.
-Azithromycin can be stored at room temperature.
-You do not have to keep it in the refrigerator.
-Throw away any medicine that is left over after treatment.
+These are not all the possible side effects of azithromycin for oral suspension.
+Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
-Manufactured in Croatia By:
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-PLIVA HRVATSKA d.o.o.
-Zagreb, Croatia
+How should I store azithromycin for oral suspension?
 
-Manufactured For:
+- •Store dry powder at 20° to 25°C (68° to 77°F).
+  PROTECT FROM FREEZING.
+- •Store constituted suspension between 5° to 25°C (41° to 77°F) and discard when full dosing is completed.
+- •Keep azithromycin for oral suspension in a tightly closed container.
+- •Safely throw away any medicine that is out of date or no longer needed.
 
-TEVA PHARMACEUTICALS USA Sellersville, PA 18960
+Keep azithromycin for oral suspension and all medicines out of the reach of children.
+
+General information about the safe and effective use of azithromycin for oral suspension.
+
+Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
+Do not use azithromycin for oral suspension for a condition for which it was not prescribed.
+Do not give azithromycin for oral suspension to other people, even if they have the same symptoms you have.
+It may harm them.
+
+This Patient Information leaflet summarizes the most important information about azithromycin for oral suspension.
+If you would like more information, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about azithromycin for oral suspension that is written for health professionals.
+
+For more information, call 1-888-838-2872.
+
+What are the ingredients in azithromycin for oral suspension?
+
+Active ingredient: azithromycin monohydrate
+
+Inactive ingredients: ammonio methacrylate copolymer, banana flavor, cherry flavor, colloidal silicon dioxide, FD&C Red No. 40, hydroxypropyl cellulose, sucrose, tribasic sodium phosphate anhydrous, vanilla flavor, and xanthan gum.
+
+- Manufactured In Croatia By:
+- PLIVA HRVATSKA d.o.o.
+- Zagreb, Croatia
+- Manufactured For:
+- TEVA PHARMACEUTICALS USA, INC.
+- North Wales, PA 19454
 
 Rev.
-A 6/2012
+B 6/2014

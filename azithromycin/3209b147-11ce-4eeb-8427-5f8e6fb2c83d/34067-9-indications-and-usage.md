@@ -1,90 +1,39 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Azithromycin for oral suspension USP is indicated for the treatment of patients with mild to moderate infections (pneumonia: see WARNINGS) caused by susceptible strains of the designated microorganisms in the specific conditions listed below.
-As recommended dosages, durations of therapy and applicable patient populations vary among these infections, please see DOSAGE AND ADMINISTRATION for specific dosing recommendations.
-
-## Adults
-
-Acute bacterial exacerbations of chronic obstructive pulmonary disease due to Haemophilus influenzae, Moraxella catarrhalis or Streptococcus pneumoniae.
-
-Acute bacterial sinusitis due to Haemophilus influenzae, Moraxella catarrhalis or Streptococcus pneumoniae.
-
-Community-acquired pneumonia due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae or Streptococcus pneumoniae in patients appropriate for oral therapy.
-
-NOTE: Azithromycin should not be used in patients with pneumonia who are judged to be inappropriate for oral therapy because of moderate to severe illness or risk factors such as any of the following:
-
-patients with cystic fibrosis,
-
-patients with nosocomially acquired infections,
-
-patients with known or suspected bacteremia,
-
-patients requiring hospitalization,
-
-elderly or debilitated patients, or
-
-patients with significant underlying health problems that may compromise their ability
-
-to respond to their illness (including immunodeficiency or functional asplenia).
-
-Pharyngitis/tonsillitis caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
-
-NOTE: Penicillin by the intramuscular route is the usual drug of choice in the treatment of Streptococcus pyogenes infection and the prophylaxis of rheumatic fever.
-Azithromycin for oral suspension USP is often effective in the eradication of susceptible strains of Streptococcus pyogenes from the nasopharynx.
-Because some strains are resistant to azithromycin for oral suspension USP, susceptibility tests should be performed when patients are treated with azithromycin for oral suspension USP.
-Data establishing efficacy of azithromycin in subsequent prevention of rheumatic fever are not available.
-
-Uncomplicated skin and skin structure infections due to Staphylococcus aureus, Streptococcus pyogenes, or Streptococcus agalactiae.
-Abscesses usually require surgical drainage.
-
-Urethritis and cervicitis due to Chlamydia trachomatis or Neisseria gonorrhoeae.
-
-Genital ulcer disease in men due to Haemophilus ducreyi (chancroid).
-Due to the small number of women included in clinical trials, the efficacy of azithromycin in the treatment of chancroid in women has not been established.
-
-Azithromycin for oral suspension USP, at the recommended dose, should not be relied upon to treat syphilis.
-Antimicrobial agents used in high doses for short periods of time to treat non-gonococcal urethritis may mask or delay the symptoms of incubating syphilis.
-All patients with sexually-transmitted urethritis or cervicitis should have a serologic test for syphilis and appropriate cultures for gonorrhea performed at the time of diagnosis.
-Appropriate antimicrobial therapy and follow-up tests for these diseases should be initiated if infection is confirmed.
-
-Appropriate culture and susceptibility tests should be performed before treatment to determine the causative organism and its susceptibility to azithromycin, USP.
-Therapy with azithromycin for oral suspension USP may be initiated before results of these tests are known; once the results become available, antimicrobial therapy should be adjusted accordingly.
-
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of azithromycin for oral suspension USP and other antibacterial drugs, azithromycin for oral suspension USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of azithromycin for oral suspension USP and other antibacterial drugs, azithromycin for oral suspension USP should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-## Pediatric Patients
+Azithromycin for oral suspension USP is a macrolide antibacterial drug indicated for the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below.
+Recommended dosages and durations of therapy in adult and pediatric patient populations vary in these indications.
+[see Dosage and Administration (2)]
 
-See PRECAUTIONS, Pediatric Use and CLINICAL STUDIES, Pediatric Patients.
+## 1.1 Adult Patients
 
-Acute otitis media caused by Haemophilus influenzae, Moraxella catarrhalis or Streptococcus pneumoniae.
-(For specific dosage recommendation, see DOSAGE AND ADMINISTRATION.)
+- •Acute bacterial exacerbations of chronic bronchitis due to Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae.
+- •Acute bacterial sinusitis due to Haemophilus influenzae, Moraxella catarrhalis. or Streptococcus pneumoniae.
+- •Community-acquired pneumonia due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae, or Streptococcus pneumoniae in patients appropriate for oral therapy.
+- •Pharyngitis/tonsillitis caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
+- •Uncomplicated skin and skin structure infections due to Staphylococcus aureus, Streptococcus pyogenes, or Streptococcus agalactiae.
+- •Urethritis and cervicitis due to Chlamydia trachomatis or Neisseria gonorrhoeae.
+- •Genital ulcer disease in men due to Haemophilus ducreyi (chancroid).
+  Due to the small number of women included in clinical trials, the efficacy of azithromycin in the treatment of chancroid in women has not been established.
 
-Community-acquired pneumonia due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae or Streptococcus pneumoniae in patients appropriate for oral therapy.
-(For specific dosage recommendation, see DOSAGE AND ADMINISTRATION.)
+## 1.2 Pediatric Patients
 
-NOTE: Azithromycin should not be used in pediatric patients with pneumonia who are judged to be inappropriate for oral therapy because of moderate to severe illness or risk factors such as any of the following:
+- [see Use in Specific Populations (8.4) and Clinical Studies (14.2)]
 
-patients with cystic fibrosis,
+- •Acute otitis media (> 6 months of age) caused by Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae
+- •Community-acquired pneumonia (> 6 months of age) due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumonia, or Streptococcus pneumoniae in patients appropriate for oral therapy.
+- •Pharyngitis/tonsillitis (> 2 years of age) caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
 
-patients with nosocomially acquired infections,
+## 1.3 Limitations of Use
 
-patients with known or suspected bacteremia,
+Azithromycin should not be used in patients with pneumonia who are judged to be inappropriate for oral therapy because of moderate to severe illness or risk factors such as any of the following:
 
-patients requiring hospitalization, or
-
-patients with significant underlying health problems that may compromise their ability
-
-to respond to their illness (including immunodeficiency or functional asplenia).
-
-Pharyngitis/tonsillitis caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
-(For specific dosage recommendation, see DOSAGE AND ADMINISTRATION.)
-
-NOTE: Penicillin by the intramuscular route is the usual drug of choice in the treatment of Streptococcus pyogenes infection and the prophylaxis of rheumatic fever.
-Azithromycin for oral suspension USP is often effective in the eradication of susceptible strains of Streptococcus pyogenes from the nasopharynx.
-Because some strains are resistant to azithromycin for oral suspension USP, susceptibility tests should be performed when patients are treated with azithromycin for oral suspension USP.
-Data establishing efficacy of azithromycin in subsequent prevention of rheumatic fever are not available.
-
-Appropriate culture and susceptibility tests should be performed before treatment to determine the causative organism and its susceptibility to azithromycin.
-Therapy with azithromycin for oral suspension USP may be initiated before results of these tests are known; once the results become available, antimicrobial therapy should be adjusted accordingly.
+- •patients with cystic fibrosis,
+- •patients with nosocomial infections,
+- •patients with known or suspected bacteremia,
+- •patients requiring hospitalization,
+- •elderly or debilitated patients, or
+- •patients with significant underlying health problems that may compromise their ability to respond to their illness (including immunodeficiency or functional asplenia).
