@@ -1,8 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 61314-226-10 Rx Only
-
-FALCON PHARMACEUTICALS®
+NDC 61314-227-05
 
 Timolol Maleate
 
@@ -10,16 +8,34 @@ Ophthalmic
 
 Solution USP
 
-Equivalent to Timolol Maleate
+Equivalent to Timolol Maleate 6.8 mg/mL
 
-3.4mg/mL
+0.
+5%
 
-0.25%
+STERILE 5 mL
 
-10 mL STERILE
+Rx only
 
-AFFILIATE OF
+Sandoz
 
-ALCON LABORATORIES, INC.
+# Package/Label Display Panel
 
-QUALITY RX
+NDC 61314-226-05
+
+Timolol Maleate
+
+Ophthalmic
+
+Solution USP
+
+Equivalent to Timolol Maleate 3.4 mg/mL
+
+0.
+25%
+
+STERILE 5 mL
+
+Rx only
+
+Sandoz

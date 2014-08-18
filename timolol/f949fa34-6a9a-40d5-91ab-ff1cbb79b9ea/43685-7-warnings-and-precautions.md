@@ -19,7 +19,7 @@ Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, e
 ## Major Surgery
 
 The necessity or desirability of withdrawal of beta-adrenergic blocking agents prior to major surgery is controversial.
-Betaadrenergic receptor blockade impairs the ability of the heart to respond to beta-adrenergically mediated reflex stimuli.
+Beta-adrenergic receptor blockade impairs the ability of the heart to respond to beta-adrenergically mediated reflex stimuli.
 This may augment the risk of general anesthesia in surgical procedures.
 Some patients receiving beta-adrenergic receptor blocking agents have experienced protracted severe hypotension during anesthesia.
 Difficulty in restarting and maintaining the heartbeat has also been reported.

@@ -4,6 +4,8 @@ The most frequently reported adverse experiences have been burning and stinging 
 
 The following additional adverse experiences have been reported less frequently with ocular administration of this or other timolol maleate formulations:
 
+To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc., at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 BODY AS A WHOLE
 
 Headache, asthenia/fatigue, and chest pain.
@@ -42,7 +44,7 @@ Masked symptoms of hypoglycemia in diabetic patients (see WARNINGS).
 
 SPECIAL SENSES
 
-Signs and symptoms of ocular irritation including conjunctivitis, blepharitis, keratitis, ocular pain, discharge (e.g., crusting), foreign body sensation, itching and tearing, and dry eyes; ptosis; decreased corneal sensitivity; cystoids macular edema; visual disturbances including refractive changes and diplopia; pseudopemphigoid; choroidal detachment following filtration surgery (see PRECAUTIONS, General); and tinnitus.
+Signs and symptoms of ocular irritation including conjunctivitis, blepharitis, keratitis, ocular pain, discharge (e.g., crusting), foreign body sensation, itching and tearing, and dry eyes; ptosis; decreased corneal sensitivity; cystoid macular edema; visual disturbances including refractive changes and diplopia; pseudopemphigoid; choroidal detachment following filtration surgery (see PRECAUTIONS, General); and tinnitus.
 
 UROGENITAL
 

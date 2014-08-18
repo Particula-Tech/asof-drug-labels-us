@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Sterile timolol maleate ophthalmic solution USP is a clear, colorless to light yellow solution.
+Sterile timolol maleate ophthalmic solution USP is a clear, colorless solution.
 
 Timolol maleate ophthalmic solution, 0.25% timolol equivalent, is supplied in a white, opaque, plastic ophthalmic dispenser with a controlled drop tip as follows:
 

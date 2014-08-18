@@ -68,14 +68,12 @@ WARNING: Keep out of reach of children.
 
 * DROP-TAINER is a registered trademark of Alcon Manufacturing, Ltd.
 
-Dist. by:
-
-FALCON Pharmaceuticals, Ltd.
-
-Fort Worth, Texas 76134 USA
-
 Mfd. by:
 
 ALCON LABORATORIES, INC.
 
-Fort Worth, Texas 76134 USA
+Fort Worth, Texas 76134 USA for
+
+Sandoz Inc.
+
+Princeton, NJ 08540
