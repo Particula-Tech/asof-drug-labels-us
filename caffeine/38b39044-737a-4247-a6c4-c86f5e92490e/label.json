@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA077997"
+  ],
+  "inn": "caffeine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-407-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "caffeine citrate",
+      "name": "Caffeine Citrate"
+    }
+  ],
+  "setid": "38b39044-737a-4247-a6c4-c86f5e92490e",
+  "source": "dailymed"
+}
