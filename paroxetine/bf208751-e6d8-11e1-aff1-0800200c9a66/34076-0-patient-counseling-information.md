@@ -14,11 +14,15 @@ Instruct patients to read the Medication Guide before starting therapy with BRIS
 - Inform patients that there is the possibility for an increased risk of fracture [see Warnings and Precautions (5.6)].
 - Advise patients, their families, and their caregivers to observe for signs of activation of mania/hypomania [see Warnings and Precautions (5.7)].
 - Advise patients to notify their physician if they become pregnant during therapy [see Contraindications (4.5) and Use in Specific Populations (8.1)].
+- Advise patients that taking BRISDELLE can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+  Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+  Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+  Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.10)].
 - Caution patients about operating hazardous machinery, including motor vehicles, until they are reasonably certain that paroxetine therapy does not affect their ability to engage in such activities [see Warnings and Precautions (5.11)].
 - Advise patients to inform their healthcare provider if they are taking, or plan to take, any prescription or over-the-counter drugs, including herbal supplements, because there is a potential for interaction with paroxetine [see Drug Interactions (7.3)].
 - Advise patients that paroxetine, the active ingredient in BRISDELLE, is also the active ingredient in certain other drugs and these medications should not be taken concomitantly [see Indications and Usage (1) and Drug Interactions (7.3)].
 
 Distributed by: Noven Therapeutics, LLC, Miami, FL 33186.
 
-BRISDELLE™ is a trademark of Noven Therapeutics, LLC. © 2013 Noven Therapeutics, LLC.
+BRISDELLE® is a registered trademark of Noven Therapeutics, LLC. © 2013-2014 Noven Therapeutics, LLC.
 All rights reserved.

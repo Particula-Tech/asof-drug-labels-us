@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-BRISDELLE™ (bris-del)
+BRISDELLE® (bris-del)
 
 (Paroxetine)
 
@@ -99,8 +99,12 @@ Women who take BRISDELLE may feel an inner restlessness, agitation (nervousness)
 Call your healthcare provider if this happens to you.
 
 10.
-Visual symptoms.
-Tell your healthcare provider if you have problems with your vision, especially if you have glaucoma.
+Visual problems.
+
+- Eye pain
+- Changes in vision
+- Swelling or redness in or around the eye Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 11.
 Driving.
@@ -260,7 +264,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Noven Therapeutics, LLC, Miami, FL 33186.
 
-BRISDELLE™ is a trademark of Noven Therapeutics, LLC. © 2013 Noven Therapeutics, LLC.
+BRISDELLE® is a registered trademark of Noven Therapeutics, LLC. © 2013-2014 Noven Therapeutics, LLC.
 All rights reserved.
 
-Revised 07/2013
+Revised 08/2014

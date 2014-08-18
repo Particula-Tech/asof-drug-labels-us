@@ -86,11 +86,9 @@ The use of paroxetine or other SSRIs has been associated with the development of
 This is most likely to occur within the first few weeks of treatment.
 Discontinue treatment with BRISDELLLE if akathisia occurs.
 
-## 5.10 Acute Angle Closure Glaucoma
+## 5.10 Angle Closure Glaucoma
 
-Mydriasis has been reported in the premarketing studies with paroxetine.
-Cases of acute angle closure glaucoma associated with paroxetine therapy have been reported in the literature.
-Because mydriasis can cause acute angle closure in patients with narrow angle glaucoma, when BRISDELLE is prescribed for patients with narrow angle glaucoma, caution them to report visual symptoms.
+Angle-Closure Glaucoma — The pupillary dilation that occurs following use of many antidepressant drugs including BRISDELLE may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.11 Potential for Cognitive and Motor Impairment
 
