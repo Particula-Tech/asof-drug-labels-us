@@ -31,8 +31,8 @@ Keep out of the reach of children
 
 Rx Only
 
-Manufactured for: WATSON Pharma, Inc. A Subsidiary of Watson Pharmaceuticals, Inc. Corona, CA 92880
+Manufactured for: Actavis Pharma, Inc. Parsippany, NJ 07054
 
 Manufactured by: SkyePharma Production SAS St-Quentin-Fallavier Cedex, France
 
-Revised: June 2011 14100-05
+Revised: April 2014 14100-06
