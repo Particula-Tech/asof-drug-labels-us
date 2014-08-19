@@ -4,7 +4,7 @@ Fluconazole is generally well tolerated.
 
 In some patients, particularly those with serious underlying diseases such as AIDS and cancer, changes in renal and hematological function test results and hepatic abnormalities have been observed during treatment with fluconazole and comparative agents, but the clinical significance and relationship to treatment is uncertain.
 
-## In Patients Receiving Multiple Doses for Other Infections
+## In Patients Receiving Multiple Doses
 
 Sixteen percent of over 4000 patients treated with fluconazole in clinical trials of 7 days or more experienced adverse events.
 Treatment was discontinued in 1.5% of patients due to adverse clinical events and in 1.3% of patients due to laboratory test abnormalities.
@@ -67,10 +67,10 @@ Percentage of Patients With Treatment-Related Side Effects
 
 |  | Fluconazole (N=577) | Comparative Agents (N=451) |
 | --- | --- | --- |
-| With any side effect | 13.0 | 9.3 |
+| With any side effect | 13 | 9.3 |
 | Vomiting | 5.4 | 5.1 |
 | Abdominal pain | 2.8 | 1.6 |
 | Nausea | 2.3 | 1.6 |
 | Diarrhea | 2.1 | 2.2 |
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

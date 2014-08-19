@@ -7,6 +7,4 @@ Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTU
 
 Distributed by: WEST-WARD PHARMACEUTICAL CORP. Eatontown, NJ 07724 USA
 
-Revised: 03/2012
-
-PIN115-WES/7
+Revised: 04/2014 PIN115-WES/8

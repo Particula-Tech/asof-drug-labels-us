@@ -15,9 +15,10 @@ In rare cases, anaphylaxis has been reported.
 
 ## (3) Dermatologic:
 
-Patients have rarely developed exfoliative skin disorders during treatment with fluconazole.
-In patients with serious underlying diseases (predominantly AIDS and malignancy), these have rarely resulted in a fatal outcome.
-Patients who develop rashes during treatment with fluconazole should be monitored closely and the drug discontinued if lesions progress.
+Exfoliative skin disorders during treatment with fluconazole have been reported.
+Fatal outcomes have been reported in patients with serious underlying diseases.
+Patients with deep seated fungal infections who develop rashes during treatment with fluconazole should be monitored closely and the drug discontinued if lesions progress.
+Fluconazole should be discontinued in patients treated for superficial fungal infection who develop a rash that may be attributed to fluconazole.
 
 ## (4) Use in Pregnancy:
 
@@ -58,20 +59,20 @@ The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontin
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed.
 These are described in greater detail below:
 
-| Oral hypoglycemics | Coumarin-type anticoagulants | Phenytoin |
+| Oral hypoglycemics | Tofacitinib | Cyclophosphamide |
 | --- | --- | --- |
-| Cyclosporine | Rifampin | Theophylline |
-| Terfenadine | Cisapride | Astemizole |
-| Rifabutin | Voriconazole | Tacrolimus |
-| Short-acting benzodiazepines | Triazolam | Oral contraceptives |
-| Pimozide | Hydrochlorothiazide | Alfentanil |
-| Amitriptyline, nortriptyline | Amphotericin B | Azithromycin |
-| Carbamazepine | Calcium channel blockers | Celecoxib |
-| Cyclophosphamide | Fentanyl | Halofantrine |
-| HMG-CoA reductase inhibitors | Losartan | Methadone |
-| Non-steroidal anti-inflammatory drugs | Prednisone | Saquinavir |
-| Sirolimus | Vinca alkaloids | Vitamin A |
-| Zidovudine |  |  |
+| Coumarin-type anticoagulants | Triazolam | Fentanyl |
+| Phenytoin | Oral contraceptives | Halofantrine |
+| Cyclosporine | Pimozide | HMG-CoA reductase inhibitors |
+| Rifampin | Quinidine | Losartan |
+| Theophylline | Hydrochlorothiazide | Methadone |
+| Terfenadine | Alfentanil | Non-steroidal anti-inflammatory drugs |
+| Cisapride | Amitriptyline, nortriptyline | Prednisone |
+| Astemizole | Amphotericin B | Saquinavir |
+| Rifabutin | Azithromycin | Sirolimus |
+| Voriconazole | Carbamazepine | Vinca alkaloids |
+| Tacrolimus | Calcium channel blockers | Vitamin A |
+| Short-acting benzodiazepines | Celecoxib | Zidovudine |
 
 ### Oral hypoglycemics:
 
@@ -96,9 +97,10 @@ Careful monitoring of phenytoin concentrations in patients receiving fluconazole
 
 ### Cyclosporine:
 
-Fluconazole may significantly increase cyclosporine levels in renal transplant patients with or without renal impairment.
+Fluconazole significantly increases cyclosporine levels in renal transplant patients with or without renal impairment.
 Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving fluconazole and cyclosporine.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+This combination may be used by reducing the dosage of cyclosporine depending on cyclosporine concentration.
 
 ### Rifampin:
 
@@ -162,6 +164,14 @@ This effect on midazolam appears to be more pronounced following oral administra
 If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
+### Tofacitinib:
+
+Systemic exposure to tofacitinib is increased when tofacitinib is coadministered with fluconazole, a combined moderate CYP3A4 and potent CYP2C19 inhibitor.
+Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label).
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
+### Triazolam:
+
 Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20 to 32%, and increases t½ by 25 to 50% due to the inhibition of metabolism of triazolam.
 Dosage adjustments of triazolam may be necessary.
 
@@ -176,6 +186,13 @@ Thus, multiple dose use of fluconazole at these doses is unlikely to have an eff
 Although not studied in vitro or in vivo, concomitant administration of fluconazole with pimozide may result in inhibition of pimozide metabolism.
 Increased pimozide plasma concentrations can lead to QT prolongation and rare occurrences of torsade de pointes.
 Coadministration of fluconazole and pimozide is contraindicated.
+
+### Quinidine:
+
+Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
+Use of quinidine has been associated with QT prolongation and rare occurrences of torsades de pointes.
+Coadministration of fluconazole and quinidine is contraindicated.
+(See CONTRAINDICATIONS.)
 
 ### Hydrochlorothiazide:
 
@@ -313,7 +330,7 @@ Such a hormone change has not been observed in women treated with fluconazole.
 
 ## Pregnancy
 
-### Pregnancy Category D
+### Teratogenic Effects. Pregnancy Category D
 
 A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400 to 800 mg/day) during most or all of the first trimester.
 These reported anomalies are similar to those seen in animal studies.
@@ -328,6 +345,23 @@ The features seen in these infants include: brachycephaly, abnormal facies, abno
 These effects are similar to those seen in animal studies.
 
 #### Animal Data
+
+Fluconazole was administered orally to pregnant rabbits during organogenesis in two studies at doses of 5, 10, and 20 mg/kg and at 5, 25, and 75 mg/kg, respectively.
+Maternal weight gain was impaired at all dose levels (approximately 0.25 to 4 times the 400 mg clinical dose based on BSA), and abortions occurred at 75 mg/kg (approximately 4 times the 400 mg clinical dose based on BSA); no adverse fetal effects were observed.
+
+In several studies in which pregnant rats received fluconazole orally during organogenesis, maternal weight gain was impaired and placental weights were increased at 25 mg/kg.
+There were no fetal effects at 5 or 10 mg/kg; increases in fetal anatomical variants (supernumerary ribs, renal pelvis dilation) and delays in ossification were observed at 25 and 50 mg/kg and higher doses.
+At doses ranging from 80 to 320 mg/kg (approximately 2 to 8 times the 400 mg clinical dose based on BSA), embryolethality in rats was increased and fetal abnormalities included wavy ribs, cleft palate, and abnormal cranio-facial ossification.
+These effects are consistent with the inhibition of estrogen synthesis in rats and may be a result of known effects of lowered estrogen on pregnancy, organogenesis, and parturition.
+
+### Human Data
+
+Several published epidemiologic studies do not suggest an increased risk of congenital anomalies associated with low dose exposure to fluconazole in pregnancy (most subjects received a single oral dose of 150 mg).
+A few published case reports describe a distinctive and rare pattern of birth defects among infants whose mothers received high-dose (400 to 800 mg/day) fluconazole during most or all of the first trimester of pregnancy.
+The features seen in these infants include: brachycephaly, abnormal facies, abnormal calvarial development, cleft palate, femoral bowing, thin ribs and long bones, arthrogryposis, and congenital heart disease.
+These effects are similar to those seen in animal studies.
+
+### Animal Data
 
 Fluconazole was administered orally to pregnant rabbits during organogenesis in two studies at doses of 5, 10, and 20 mg/kg and at 5, 25, and 75 mg/kg, respectively.
 Maternal weight gain was impaired at all dose levels (approximately 0.25 to 4 times the 400 mg clinical dose based on BSA), and abortions occurred at 75 mg/kg (approximately 4 times the 400 mg clinical dose based on BSA); no adverse fetal effects were observed.
