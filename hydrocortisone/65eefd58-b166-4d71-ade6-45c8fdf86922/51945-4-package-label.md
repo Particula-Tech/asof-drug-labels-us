@@ -42,9 +42,7 @@ Solu-Cortef®
 
 100 mg*
 
-For IM or IV use Preservative-Free
-
-Rx only
+For IM or IV use Preservative-Free Rx only
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Single-Dose Vial Carton
 
@@ -58,9 +56,7 @@ Solu-Cortef®
 
 100 mg*
 
-For intramuscular or intravenous use
-
-Preservative-Free
+For intramuscular or intravenous use Preservative-Free
 
 Pfizer Injectables Rx only
 
@@ -108,9 +104,7 @@ Solu-Cortef®
 
 For intramuscular or intravenous use
 
-Preservative-Free
-
-Rx only
+Preservative-Free Rx only
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Single-Dose Vial Carton
 
@@ -142,9 +136,7 @@ Solu-Cortef®
 
 1000 mg*
 
-For IM or IV use Preservative-Free
-
-Rx only
+For IM or IV use Preservative-Free Rx only
 
 # PRINCIPAL DISPLAY PANEL - 1000 mg Single-Dose Vial Carton
 
