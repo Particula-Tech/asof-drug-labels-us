@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202881"
+  ],
+  "inn": "dexmedetomidine",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-251-00",
+    "67457-251-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "dexmedetomidine hydrochloride",
+      "name": "Dexmedetomidine Hydrochloride"
+    }
+  ],
+  "setid": "ebdfe2e8-30ca-4f18-935a-41bcbbce4937",
+  "source": "dailymed"
+}
