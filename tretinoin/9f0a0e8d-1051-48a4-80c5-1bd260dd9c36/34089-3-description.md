@@ -4,7 +4,7 @@ RENOVA® (tretinoin cream) 0.02% contains the active ingredient tretinoin in a c
 Tretinoin is a yellow- to light-orange crystalline powder having a characteristic floral odor.
 Tretinoin is soluble in dimethylsulfoxide, slightly soluble in polyethylene glycol 400, octanol, and 100% ethanol.
 It is practically insoluble in water and mineral oil, and it is insoluble in glycerin.
-The chemical name for tretinoin is (all-E)-3,7-dimethyl-9-(2,6,6-trimethyl-1-cyclonexen-1-yl)-2,4,6,8-nonatetraenoic acid.
+The chemical name for tretinoin is (all-E)-3,7-dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-nonatetraenoic acid.
 Tretinoin is also referred to as all-trans-retinoic acid and has a molecular weight of 300.44.
 The structural formula is represented below.
 
