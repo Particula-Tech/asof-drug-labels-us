@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA020401"
+  ],
+  "inn": "diltiazem",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-367-90",
+    "68682-368-90",
+    "68682-369-90",
+    "68682-370-90",
+    "68682-371-90",
+    "68682-372-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "diltiazem hydrochloride",
+      "name": "Diltiazem Hydrochloride"
+    }
+  ],
+  "setid": "862d65cb-a732-4786-b569-bad2eaafddfd",
+  "source": "dailymed"
+}
