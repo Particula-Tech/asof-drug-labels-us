@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA020401"
+  ],
+  "inn": "diltiazem",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-2612-30",
+    "0187-2612-90",
+    "0187-2613-30",
+    "0187-2613-90",
+    "0187-2614-30",
+    "0187-2614-90",
+    "0187-2615-30",
+    "0187-2615-90",
+    "0187-2616-30",
+    "0187-2616-90",
+    "0187-2617-30",
+    "0187-2617-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "diltiazem hydrochloride",
+      "name": "TIAZAC"
+    }
+  ],
+  "setid": "c567fe7e-887e-4291-a0d1-2dd3f25cbf25",
+  "source": "dailymed"
+}
