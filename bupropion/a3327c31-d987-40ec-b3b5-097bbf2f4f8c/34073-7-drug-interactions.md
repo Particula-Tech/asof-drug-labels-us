@@ -24,10 +24,10 @@ When used concomitantly with ZYBAN, it may be necessary to decrease the dose of 
 Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
 Patients treated concomitantly with ZYBAN and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3)].
 
-## 7.3 Drugs That Lower Seizure Threshold
+## 7.3 Drugs that Lower Seizure Threshold
 
 Use extreme caution when coadministering ZYBAN with other drugs that lower seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
-Use low initial doses and increase the dose gradually [see Contraindications (4) and Warnings and Precautions (5.3)].
+Use low initial doses and increase the dose gradually [see Contraindications (4), Warnings and Precautions (5.3)].
 
 ## 7.4 Dopaminergic Drugs (Levodopa and Amantadine)
 
@@ -37,7 +37,7 @@ Adverse reactions have included restlessness, agitation, tremor, ataxia, gait di
 It is presumed that the toxicity results from cumulative dopamine agonist effects.
 Use caution when administering ZYBAN concomitantly with these drugs.
 
-## 7.5 Use With Alcohol
+## 7.5 Use with Alcohol
 
 In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with ZYBAN.
 The consumption of alcohol during treatment with ZYBAN should be minimized or avoided.
@@ -48,7 +48,7 @@ Bupropion inhibits the reuptake of dopamine and norepinephrine.
 Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs.
 Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine.
 At least 14 days should elapse between discontinuation of an MAOI and initiation of treatment with ZYBAN.
-Conversely, at least 14 days should be allowed after stopping ZYBAN before starting an MAOI intended to treat psychiatric disorders [see Dosage and Administration (2.8)and Contraindications (4)].
+Conversely, at least 14 days should be allowed after stopping ZYBAN before starting an MAOI intended to treat psychiatric disorders [see Dosage and Administration (2.8), Contraindications (4)].
 
 ## 7.7 Smoking Cessation
 

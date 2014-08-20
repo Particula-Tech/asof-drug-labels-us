@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of ZYBAN as an aid to smoking cessation was demonstrated in 3 placebo‑controlled, double‑blind trials in nondepressed chronic cigarette smokers (n = 1,940, ≥15 cigarettes per day).
+The efficacy of ZYBAN as an aid to smoking cessation was demonstrated in 3 placebo‑controlled, double‑blind trials in nondepressed chronic cigarette smokers (n = 1,940, greater than or equal to 15 cigarettes per day).
 In these trials, ZYBAN was used in conjunction with individual smoking cessation counseling.
 
 The first trial was a dose‑response trial conducted at 3 clinical centers.
@@ -16,9 +16,9 @@ Treatment with ZYBAN (150 or 300 mg per day) was more effective than placebo in 
 In addition, treatment with ZYBAN (7 weeks at 300 mg per day) was more effective than placebo in helping subjects maintain continuous abstinence through Week 26 (6 months) of the trial.
 
 Table 5.
-Dose‑Response Trial: Quit Rates by Treatment Group
+Dose‑response Trial: Quit Rates by Treatment Group
 
-| Abstinence From Week 4 Through Specified Week | Treatment Groups |  |  |  |
+| Abstinence from Week 4 through Specified Week | Treatment Groups |  |  |  |
 | --- | --- | --- | --- | --- |
 | Placebo (n = 151)%(95% CI) | ZYBAN 100 mg/day (n = 153)%(95% CI) | ZYBAN 150 mg/day(n = 153)%(95% CI) | ZYBAN 300 mg/day (n = 156)%(95% CI) |  |
 | Week 7 (4-week quit) | 17%(11-23) | 22%(15-28) | 27%a(20-35) | 36%a(28-43) |
@@ -41,7 +41,7 @@ Table 6 presents quit rates over time by treatment group for the comparator tria
 Table 6.
 Comparator Trial: Quit Rates by Treatment Group
 
-| Abstinence From Week 4 Through Specified Week | Treatment Groups |  |  |  |
+| Abstinence from Week 4 through Specified Week | Treatment Groups |  |  |  |
 | --- | --- | --- | --- | --- |
 | Placebo (n = 160)%(95% CI) | Nicotine Transdermal System (NTS) 21 mg/day (n = 244)%(95% CI) | ZYBAN 300 mg/day (n = 244)%(95% CI) | ZYBAN 300 mg/day and NTS 21 mg/day (n = 245)%(95% CI) |  |
 | Week 7 (4-week quit) | 23%(17-30) | 36%(30-42) | 49%(43-56) | 58%(51-64) |
@@ -68,7 +68,7 @@ Treatment with ZYBAN reduced withdrawal symptoms compared with placebo.
 Reductions on the following withdrawal symptoms were most pronounced: irritability, frustration, or anger; anxiety; difficulty concentrating; restlessness; and depressed mood or negative affect.
 Depending on the trial and the measure used, treatment with ZYBAN showed evidence of reduction in craving for cigarettes or urge to smoke compared with placebo.
 
-Use In Patients With Chronic Obstructive Pulmonary Disease (COPD): ZYBAN was evaluated in a randomized, double‑blind, comparator trial of 404 subjects with mild-to-moderate COPD defined as FEV1≥35%, FEV1/FVC≤70%, and a diagnosis of chronic bronchitis, emphysema, and/or small airways disease.
+Use in Patients with Chronic Obstructive Pulmonary Disease (COPD): ZYBAN was evaluated in a randomized, double‑blind, comparator trial of 404 subjects with mild-to-moderate COPD defined as FEV1 greater than or equal to 35%, FEV1/FVC less than or equal to 70%, and a diagnosis of chronic bronchitis, emphysema, and/or small airways disease.
 Subjects aged 36 to 76 years were randomized to ZYBAN 300 mg per day (n = 204) or placebo (n = 200) and treated for 12 weeks.
 Treatment with ZYBAN was initiated at 150 mg per day for 3 days while the subject was still smoking and increased to 150 mg twice daily for the remaining treatment period.
 Abstinence from smoking was determined by subject daily diaries and verified by carbon monoxide levels in expired air.

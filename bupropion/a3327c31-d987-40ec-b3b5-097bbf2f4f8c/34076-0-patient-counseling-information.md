@@ -27,7 +27,12 @@ Seizure: Instruct patients to discontinue ZYBAN and not restart it if they exper
 Advise patients that the excessive use or abrupt discontinuation of alcohol, benzodiazepines, antiepileptic drugs, or sedatives/hypnotics can increase the risk of seizure.
 Advise patients to minimize or avoid use of alcohol.
 
-Bupropion-Containing Products: Educate patients that ZYBAN contains the same active ingredient (bupropion hydrochloride) found in WELLBUTRIN, WELLBUTRIN SR, and WELLBUTRIN XL, which are used to treat depression and that ZYBAN should not be used in conjunction with any other medications that contain bupropion (such as WELLBUTRIN, the immediate-release formulation; WELLBUTRIN SR, the sustained-release formulation; WELLBUTRIN XL or FORFIVO XL™, the extended-release formulations; and APLENZIN®, the extended-release formulation of bupropion hydrobromide).
+Angle-closure Glaucoma: Patients should be advised that taking ZYBAN can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
+
+Bupropion-containing Products: Educate patients that ZYBAN contains the same active ingredient (bupropion hydrochloride) found in WELLBUTRIN, WELLBUTRIN SR, and WELLBUTRIN XL, which are used to treat depression and that ZYBAN should not be used in conjunction with any other medications that contain bupropion (such as WELLBUTRIN, the immediate-release formulation; WELLBUTRIN SR, the sustained-release formulation; WELLBUTRIN XL or FORFIVO XL™, the extended-release formulations; and APLENZIN®, the extended-release formulation of bupropion hydrobromide).
 In addition, there are a number of generic bupropion HCl products for the immediate-, sustained-, and extended-release formulations.
 
 Potential for Cognitive and Motor Impairment: Advise patients that any CNS‑active drug like ZYBAN may impair their ability to perform tasks requiring judgment or motor and cognitive skills.
@@ -60,4 +65,4 @@ Research Triangle Park, NC 27709
 ©2014, the GSK group of companies.
 All rights reserved.
 
-ZYB:8PI
+ZYB:9PI

@@ -107,6 +107,14 @@ If you have any of the above symptoms of mania, call your healthcare provider.
 - •Unusual thoughts or behaviors.
   Some patients have unusual thoughts or behaviors while taking ZYBAN, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
+- •Visual problems.
+  - •eye pain
+  - •changes in vision
+  - •swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
 - •Severe allergic reactions.
   Some people can have severe allergic reactions to ZYBAN.
   Stop taking ZYBAN and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
@@ -144,7 +152,7 @@ You should also tell your healthcare provider about any symptoms you had during 
 See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
 
 - •Tell your healthcare provider about your other medical conditions, including if you:
-  - •have liver problems,especially cirrhosis of the liver.
+  - •have liver problems, especially cirrhosis of the liver.
   - •have kidney problems.
   - •have, or have had, an eating disorder such as anorexia nervosa or bulimia.
   - •have had a head injury.
@@ -275,6 +283,6 @@ Research Triangle Park, NC 27709
 ©2014, the GSK group of companies.
 All rights reserved.
 
-March 2014
+August 2014
 
-ZYB:8MG
+ZYB:9MG

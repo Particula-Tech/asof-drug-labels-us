@@ -26,22 +26,22 @@ The NBDPS and United Healthcare database study did not find an association betwe
 
 For the findings of LVOTO and VSD, the studies were limited by the small number of exposed cases, inconsistent findings among studies, and the potential for chance findings from multiple comparisons in case control studies.
 
-Animal Data: In studies conducted in rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg/kg/day, respectively (approximately 15 and 10 times the MRHD respectively, on a mg/m2 basis).
-No clear evidence of teratogenic activity was found in either species; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately 2 times the MRHD on a mg/m2 basis) and greater.
-Decreased fetal weights were observed at 50 mg/kg and greater.
+Animal Data: In studies conducted in rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg per kg per day, respectively (approximately 15 and 10 times the MRHD respectively, on a mg per m2 basis).
+No clear evidence of teratogenic activity was found in either species; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg per kg per day, approximately 2 times the MRHD on a mg per m2 basis) and greater.
+Decreased fetal weights were observed at 50 mg per kg and greater.
 
-When rats were administered bupropion at oral doses of up to 300 mg/kg/day (approximately 10 times the MRHD on a mg/m2 basis) prior to mating and throughout pregnancy and lactation, there were no apparent adverse effects on offspring development.
+When rats were administered bupropion at oral doses of up to 300 mg per kg per day (approximately 10 times the MRHD on a mg per m2 basis) prior to mating and throughout pregnancy and lactation, there were no apparent adverse effects on offspring development.
 
 ## 8.3 Nursing Mothers
 
 Bupropion and its metabolites are present in human milk.
 In a lactation study of 10 women, levels of orally dosed bupropion and its active metabolites were measured in expressed milk.
-The average daily infant exposure (assuming 150 mL/kg daily consumption) to bupropion and its active metabolites was 2% of the maternal weight-adjusted dose.
+The average daily infant exposure (assuming 150 mL per kg daily consumption) to bupropion and its active metabolites was 2% of the maternal weight-adjusted dose.
 Exercise caution when ZYBAN is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established [see Boxed Warning and Warnings and Precautions (5.2)].
+Safety and effectiveness in the pediatric population have not been established [see Boxed Warning, Warnings and Precautions (5.2)].
 
 ## 8.5 Geriatric Use
 
@@ -52,15 +52,14 @@ Reported clinical experience has not identified differences in responses between
 
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and excreted by the kidneys.
 The risk of adverse reactions may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [see Dosage and Administration (2.7), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [see Dosage and Administration (2.7), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-Consider a reduced dose and/or dosing frequency of ZYBAN in patients with renal impairment (Glomerular Filtration Rate: <90 mL/min).
-Bupropion and its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual.
-Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+Consider a reduced dose and/or dosing frequency of ZYBAN in patients with renal impairment (Glomerular Filtration Rate: less than 90 mL per min). Bupropion and its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual.
+Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.7), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of ZYBAN is 150 mg every other day.
-In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].

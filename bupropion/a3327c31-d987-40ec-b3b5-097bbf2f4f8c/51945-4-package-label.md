@@ -20,7 +20,7 @@ Federal Law requires dispensing of ZYBAN® with the Medication Guide under this 
 
 See prescribing information for dosage information.
 
-Store at controlled room temperature between 59oF to 86oF (15oCto 30oC).
+Store at controlled room temperature between 59oF to 86oF (15oC to 30oC).
 
 Keep dry and out of the light.
 

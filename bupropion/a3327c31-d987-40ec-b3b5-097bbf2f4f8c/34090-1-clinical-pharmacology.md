@@ -22,7 +22,7 @@ ZYBAN can be taken with or without food.
 Bupropion Cmax and AUC was increased by 11% to 35%, and 16% to 19%, respectively, when ZYBAN was administered with food to healthy volunteers in three trials.
 The food effect is not considered clinically significant.
 
-Distribution: In vitro tests show that bupropion is 84% bound to human plasma proteins at concentrations up to 200 mcg/mL.
+Distribution: In vitro tests show that bupropion is 84% bound to human plasma proteins at concentrations up to 200 mcg per mL.
 The extent of protein binding of the hydroxybupropion metabolite is similar to that for bupropion; whereas, the extent of protein binding of the threohydrobupropion metabolite is about half that seen with bupropion.
 
 Metabolism: Bupropion is extensively metabolized in humans.
@@ -33,7 +33,7 @@ The potency and toxicity of the metabolites relative to bupropion have not been 
 However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5‑fold less potent than bupropion.
 This may be of clinical importance, because the plasma concentrations of the metabolites are as high as or higher than those of bupropion.
 
-Following a single dose administration of ZYBAN in humans, Cmax of hydroxybupropion occurs approximately 6 hours post-dose and is approximately 10 times the peak level of the parent drug at steady state.
+Following a single-dose administration of ZYBAN in humans, Cmax of hydroxybupropion occurs approximately 6 hours post-dose and is approximately 10 times the peak level of the parent drug at steady state.
 The elimination half-life of hydroxybupropion is approximately 20 (±5) hours and its AUC at steady state is about 17 times that of bupropion.
 The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of the hydroxybupropion metabolite.
 However, their elimination half-lives are longer, 33 (±10) and 37 (±13) hours, respectively, and steady‑state AUCs are 1.5 and 7 times that of bupropion, respectively.
@@ -48,7 +48,7 @@ The elimination of the major metabolites of bupropion may be affected by reduced
 
 Renal Impairment: There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
 An inter-trial comparison between normal subjects and subjects with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
-A second trial, comparing normal subjects and subjects with moderate‑to‑severe renal impairment (GFR 30.9 ± 10.8 mL/min), showed that after a single 150‑mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
+A second trial, comparing normal subjects and subjects with moderate‑to‑severe renal impairment (GFR 30.9 ± 10.8 mL per min), showed that after a single 150‑mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
 ZYBAN should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered [see Use in Specific Populations (8.6)].
@@ -63,7 +63,7 @@ However, more variability was observed in some of the pharmacokinetic parameters
 In 8 subjects with severe hepatic cirrhosis, significant alterations in the pharmacokinetics of bupropion and its metabolites were seen (Table 4).
 
 Table 4.
-Pharmacokinetics of Bupropion and Metabolites in Patients With Severe Hepatic Cirrhosis: Ratio Relative to Healthy Matched Controls
+Pharmacokinetics of Bupropion and Metabolites in Patients with Severe Hepatic Cirrhosis: Ratio Relative to Healthy Matched Controls
 
 |  | Cmax | AUC | t½ | Tmaxa |
 | --- | --- | --- | --- | --- |
@@ -73,7 +73,7 @@ Pharmacokinetics of Bupropion and Metabolites in Patients With Severe Hepatic Ci
 
 - a = Difference.
 
-Smokers:The effects of cigarette smoking on the pharmacokinetics of bupropion were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers.
+Smokers: The effects of cigarette smoking on the pharmacokinetics of bupropion were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers.
 Following oral administration of a single 150‑mg dose of ZYBAN, there were no statistically significant differences in Cmax, half‑life, Tmax, AUC, or clearance of bupropion or its major metabolites between smokers and nonsmokers.
 
 In a trial comparing the treatment combination of ZYBAN and NTS versus ZYBAN alone, no statistically significant differences were observed between the 2 treatment groups of combination ZYBAN and NTS (n = 197) and ZYBAN alone (n = 193) in the plasma concentrations of bupropion or its active metabolites at Weeks 3 and 6.

@@ -2,13 +2,14 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Boxed Warning and Warnings and Precautions (5.1)]
-- •Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning and Warnings and Precautions (5.2)]
+- •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Boxed Warning, Warnings and Precautions (5.1)]
+- •Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning, Warnings and Precautions (5.2)]
 - •Seizure [see Warnings and Precautions (5.3)]
 - •Hypertension [see Warnings and Precautions (5.4)]
 - •Activation of mania or hypomania [see Warnings and Precautions (5.5)]
 - •Psychosis and other neuropsychiatric reactions [see Warnings and Precautions (5.6)]
-- •Hypersensitivity reactions [see Warnings and Precautions (5.7)]
+- •Angle-closure glaucoma [see Warnings and Precautions (5.7)]
+- •Hypersensitivity reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -26,7 +27,7 @@ Adverse reactions reported in the dose-response and comparator trials are presen
 Reported adverse reactions were classified using a COSTART‑based dictionary.
 
 Table 2.
-Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency Than Placebo in the Dose-Response Trial
+Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency than Placebo in the Dose-response Trial
 
 | Adverse Reaction | ZYBAN 100 to 300 mg/day(n = 461)% | Placebo(n = 150)% |
 | --- | --- | --- |
@@ -60,7 +61,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Taste perversion | 2 | <1 |
 
 Table 3.
-Adverse Reactions Reported by at Least 1% of Subjects on Active Treatment and at a Greater Frequency Than Placebo in the Comparator Trial
+Adverse Reactions Reported by at Least 1% of Subjects on Active Treatment and at a Greater Frequency than Placebo in the Comparator Trial
 
 | Adverse Experience(Costart Term) | ZYBAN300 mg/day(n = 243)% | Nicotine Transdermal System (NTS)21 mg/day(n = 243)% | ZYBANand NTS(n = 244)% | Placebo(n = 159)% |
 | --- | --- | --- | --- | --- |
@@ -113,7 +114,7 @@ aSubjects randomized to ZYBAN or placebo received placebo patches.
 
 Adverse reactions in a 1-year maintenance trial and a 12-week COPD trial with ZYBAN were quantitatively and qualitatively similar to those observed in the dose‑response and comparator trials.
 
-Other Adverse Reactions Observed During the Clinical Development of Bupropion: In addition to the adverse reactions noted above, the following adverse reactions have been reported in clinical trials with the sustained‑release formulation of bupropion in depressed subjects and in nondepressed smokers, as well as in clinical trials with the immediate‑release formulation of bupropion.
+Other Adverse Reactions Observed during the Clinical Development of Bupropion: In addition to the adverse reactions noted above, the following adverse reactions have been reported in clinical trials with the sustained‑release formulation of bupropion in depressed subjects and in nondepressed smokers, as well as in clinical trials with the immediate‑release formulation of bupropion.
 
 Adverse reaction frequencies represent the proportion of subjects who experienced a treatment‑emergent adverse reaction on at least one occasion in placebo‑controlled trials for depression (n = 987) or smoking cessation (n = 1,013), or subjects who experienced an adverse reaction requiring discontinuation of treatment in an open‑label surveillance trial with bupropion sustained‑release tablets (n = 3,100).
 All treatment‑emergent adverse reactions are included except those listed in Tables 2 and 3, those listed in other safety‑related sections of the prescribing information, those subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, those not reasonably associated with the use of the drug, and those that were not serious and occurred in fewer than 2 subjects.
@@ -122,7 +123,8 @@ Adverse reactions are further categorized by body system and listed in order of 
 Infrequent adverse reactions are those occurring in 1/100 to 1/1,000 subjects, while rare events are those occurring in less than 1/1,000 subjects.
 
 Body (General): Frequent were asthenia, fever, and headache.
-Infrequent were chills, inguinal hernia, and photosensitivity.Rare was malaise.
+Infrequent were chills, inguinal hernia, and photosensitivity.
+Rare was malaise.
 
 Cardiovascular: Infrequent were flushing, migraine, postural hypotension, stroke, tachycardia, and vasodilation.
 Rare was syncope.
@@ -156,7 +158,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a relationship to drug exposure.
 
 Body (General): Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
-These symptoms may resemble serum sickness.
+These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
 Cardiovascular: Cardiovascular disorder, complete AV block, extrasystoles, hypotension, myocardial infarction, phlebitis, and pulmonary embolism.
 

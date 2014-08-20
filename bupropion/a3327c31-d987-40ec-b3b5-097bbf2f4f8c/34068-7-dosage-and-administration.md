@@ -43,25 +43,25 @@ Tobacco dependence is a chronic condition.
 Some patients may need on-going treatment.
 Whether to continue treatment with ZYBAN for periods longer than 12 weeks for smoking cessation must be determined for individual patients.
 
-## 2.5 Combination Treatment With ZYBAN and a Nicotine Transdermal System (NTS)
+## 2.5 Combination Treatment with ZYBAN and a Nicotine Transdermal System (NTS)
 
 Combination treatment with ZYBAN and NTS may be prescribed for smoking cessation.
 The prescriber should review the complete prescribing information for both ZYBAN and NTS before using combination treatment [see Clinical Studies (14)].
 Monitoring for treatment‑emergent hypertension in patients treated with the combination of ZYBAN and NTS is recommended.
 
-## 2.6 Dose Adjustment in Patients With Hepatic Impairment
+## 2.6 Dose Adjustment in Patients with Hepatic Impairment
 
 In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose should not exceed 150 mg every other day.
-In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
-## 2.7 Dose Adjustment in Patients With Renal Impairment
+## 2.7 Dose Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of ZYBAN in patients with renal impairment (Glomerular Filtration Rate <90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of ZYBAN in patients with renal impairment (Glomerular Filtration Rate less than 90 mL/min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-## 2.8 Use of ZYBAN With Reversible MAOIs Such as Linezolid or Methylene Blue
+## 2.8 Use of ZYBAN with Reversible MAOIs Such as Linezolid or Methylene Blue
 
 Do not start ZYBAN in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
-Drug interactions can increase the risk of hypertensive reactions [see Contraindications (4) and Drug Interactions (7.6)].
+Drug interactions can increase the risk of hypertensive reactions [see Contraindications (4), Drug Interactions (7.6)].
 
 In some cases, a patient already receiving therapy with ZYBAN may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of hypertensive reactions in a particular patient, ZYBAN should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
@@ -69,4 +69,4 @@ The patient should be monitored for 2 weeks or until 24 hours after the last dos
 Therapy with ZYBAN may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with ZYBAN is unclear.
-The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4) and Drug Interactions (7.6)].
+The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4), Drug Interactions (7.6)].
