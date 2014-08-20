@@ -14,7 +14,7 @@ The administration of these agents should not be regarded as emergency measures 
 Apprehensive patients may develop weakness, pallor, tinnitus, diaphoresis and bradycardia following the administration of any diagnostic agent.
 Such reactions are usually non-allergic in nature and are best treated by having the patient lie flat for an additional 10 to 30 minutes under observation.
 
-Manufactured by E-Z-EM Canada Inc. a subsidiary of E-Z-EM, Inc. Lake Success, NY 11042
+Manufactured by E-Z-EM Canada Inc. for E-Z-EM, Inc. a subsidiary of Bracco Diagnostics Inc. Monroe Twp., NJ 08831 Tel.: 1-516-333-8230 1-800-544-4624
 
 rev.
-04/11 TX1635
+03/14 TX1635-2
