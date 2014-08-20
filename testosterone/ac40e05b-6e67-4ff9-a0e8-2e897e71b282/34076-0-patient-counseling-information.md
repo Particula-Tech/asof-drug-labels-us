@@ -39,8 +39,8 @@ Patients should be informed that treatment with androgens may lead to adverse re
   Because ANDRODERM contains aluminum, it is recommended to remove the system before undergoing an MRI.
 - Avoid swimming or showering until 3 hours following application of ANDRODERM [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].
 
-For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
+For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 1-800-272-5525
 
 Manufactured By: Watson Laboratories, Inc. Salt Lake City, UT 84108 USA
 
-Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA

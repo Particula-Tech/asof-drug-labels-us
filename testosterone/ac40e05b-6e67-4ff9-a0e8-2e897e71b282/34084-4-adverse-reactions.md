@@ -44,3 +44,10 @@ Adverse Reactions Seen With the Use of ANDRODERM 2.5 mg/day, 5 mg/day, or 7.5 mg
 | Depression | 3 |
 
 The following reactions occurred in less than 3% of patients: rash, gastrointestinal bleeding, fatigue, body pain, pelvic pain, hypertension, peripheral vascular disease, increased appetite, accelerated growth, anxiety, confusion, decreased libido, paresthesia, thinking abnormalities, vertigo, acne, bullae at application site, mechanical irritation at application site, rash at application site, contamination of application site, prostate carcinoma, dysuria, hematuria, impotence, urinary incontinence, urinary tract infection, and testicular abnormalities.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of ANDRODERM.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Vascular Disorders: Venous thromboembolism [see Warnings and Precautions (5.3)]

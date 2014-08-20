@@ -16,52 +16,58 @@ Discontinue testosterone therapy if the hematocrit becomes elevated.
 Testosterone therapy may be restarted when the hematocrit decreases to an acceptable level.
 An increase in red blood cell mass may increase the risk of thromboembolic events.
 
-## 5.3 Use in Women and Children
+## 5.3 Venous Thromboembolism
+
+There have been postmarketing reports of venous thromboembolic events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), in patients using testosterone products such as ANDRODERM.
+Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE.
+If a venous thromboembolic event is suspected, discontinue treatment with ANDRODERM and initiate appropriate workup and management [see Adverse Reactions (6.2)].
+
+## 5.4 Use in Women and Children
 
 Women and children should not use ANDRODERM.
 Use in women and children has not been studied with ANDRODERM.
 
 Due to lack of controlled studies in women and potential virilizing effects, ANDRODERM is not indicated for use in women and children [see Contraindications (4) and Use in Specific Populations (8.1, 8.3, 8.4)].
 
-## 5.4 Potential for Adverse Effects on Spermatogenesis
+## 5.5 Potential for Adverse Effects on Spermatogenesis
 
 At large doses of exogenous androgens, including ANDRODERM, spermatogenesis may be suppressed through feedback inhibition of pituitary follicle-stimulating hormone (FSH) that could lead to adverse effects on semen parameters including reduction of sperm count.
 
-## 5.5 Hepatic Adverse Effects
+## 5.6 Hepatic Adverse Effects
 
 Prolonged use of high doses of orally active 17-alpha-alkyl androgens (methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
 Peliosis hepatis can be a life-threatening or fatal complication.
 Long-term therapy with intramuscular testosterone enanthate has produced multiple hepatic adenomas.
 ANDRODERM is not known to cause these adverse effects.
 
-## 5.6 Edema
+## 5.7 Edema
 
 Androgens, including ANDRODERM, may promote retention of sodium and water.
 Edema, with or without congestive heart failure, may be a serious complication in patients with pre-existing cardiac, renal, or hepatic disease [see Adverse Reactions (6)].
 
-## 5.7 Gynecomastia
+## 5.8 Gynecomastia
 
 Gynecomastia may develop and persist in patients being treated with androgens, including ANDRODERM, for hypogonadism.
 
-## 5.8 Sleep Apnea
+## 5.9 Sleep Apnea
 
 The treatment of hypogonadal men with testosterone may potentiate sleep apnea in some patients, especially those with risk factors such as obesity and chronic lung disease.
 
-## 5.9 Lipids
+## 5.10 Lipids
 
 Changes in serum lipid profile may require dose adjustment or discontinuation of testosterone therapy.
 
-## 5.10 Hypercalcemia
+## 5.11 Hypercalcemia
 
 Androgens, including ANDRODERM, should be used with caution in cancer patients at risk of hypercalcemia (and associated hypercalciuria).
 Regular monitoring of serum calcium concentrations is recommended in these patients.
 
-## 5.11 Decreased Thyroxine-Binding Globulin
+## 5.12 Decreased Thyroxine-Binding Globulin
 
 Androgens, including ANDRODERM, may decrease concentrations of thyroxine-binding globulins, resulting in decreased total T4 serum concentration and increased resin uptake of T3 and T4.
 Free thyroid hormone concentration remains unchanged and there is no clinical evidence of thyroid dysfunction.
 
-## 5.12 Magnetic Resonance Imaging (MRI)
+## 5.13 Magnetic Resonance Imaging (MRI)
 
 Skin burns have been reported at the application site in patients wearing an aluminized transdermal system during a magnetic resonance imaging scan (MRI).
 Because ANDRODERM contains aluminum, it is recommended to remove the system before undergoing an MRI.

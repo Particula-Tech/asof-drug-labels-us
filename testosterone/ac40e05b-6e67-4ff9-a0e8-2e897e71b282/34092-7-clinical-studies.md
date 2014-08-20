@@ -19,7 +19,7 @@ Table 3 summarizes testosterone Cavg categories by treatment.
 | Table 3. Testosterone Cavg Categories on Day 28 after One Titration on Day 15 |  |
 | --- | --- |
 | Cavg Category | Current Testosterone User N = 35 |
-| 300 - 1030 ng/dL (n (%)) (95% CI) | 34/35 (97%) (85%, 100%) |
+| 300 - 1030 ng/dL (n (%) (95% CI)) | 34/35 (97%) (85%, 100%) |
 | < 300 ng/dL (n (%)) | 1/35 (3%) |
 
 Figure 2 summarizes the pharmacokinetic profiles of total testosterone in 35 patients completing 28 days of ANDRODERM treatment applied as a starting dose of 4 mg/day for the initial 14 days followed by a possible dose titration.
