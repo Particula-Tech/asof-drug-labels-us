@@ -196,7 +196,7 @@ Cancers were reported in treatment-experienced subjects who initiated ISENTRESS 
 The types and rates of specific cancers were those expected in a highly immunodeficient population (many had CD4+ counts below 50 cells/mm3 and most had prior AIDS diagnoses).
 The risk of developing cancer in these studies was similar in the group receiving ISENTRESS and the group receiving the comparator.
 
-Grade 2-4 creatine kinase laboratory abnormalities were observed in subjects treated with ISENTRESS (see Table 6).
+Grade 2-4 creatine kinase laboratory abnormalities were observed in subjects treated with ISENTRESS (see Table 7).
 Myopathy and rhabdomyolysis have been reported.
 Use with caution in patients at increased risk of myopathy or rhabdomyolysis, such as patients receiving concomitant medications known to cause these conditions and patients with a history of rhabdomyolysis, myopathy or increased serum creatine kinase.
 
