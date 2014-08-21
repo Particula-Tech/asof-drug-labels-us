@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA205029"
+  ],
+  "inn": "epinephrine",
+  "labeler": "BPI Labs, LLC",
+  "package_ndcs": [
+    "54288-103-01",
+    "54288-103-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "epinephrine",
+      "name": "Epinephrine"
+    }
+  ],
+  "setid": "5b5282a9-b149-4f0a-978e-5adbf48ec8aa",
+  "source": "dailymed"
+}
