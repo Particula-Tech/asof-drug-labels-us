@@ -23,15 +23,14 @@ Mesalamine delayed-release tablets have been evaluated in 427 adults and 82 chil
 
 Treatment of Mildly to Moderately Active Ulcerative Colitis in Adults
 
-In two 6-week placebo-controlled clinical studies (Studies 1 and 2) involving 245 patients, 155 of whom were randomized to mesalamine delayed-release tablets [see Clinical Studies (14.1)], (3.2%) of the mesalamine delayed-release tablets-treated patients discontinued therapy because of adverse reactions as compared to 2.2% of the placebo-treated patients.
+In two 6-week placebo-controlled clinical studies (Studies 1 and 2) involving 245 patients, 155 of whom were randomized to mesalamine delayed-release tablets [see Clinical Studies (14.1)], 3.2% of the mesalamine delayed-release tablets-treated patients discontinued therapy because of adverse reactions as compared to 2.2% of the placebo-treated patients.
 The average age of patients in Study 1 was 42 years and 48% of patients were male.
 The average age of patients in Study 2 was 42 years and 59% of patients were male.
 Adverse reactions leading to withdrawal from mesalamine delayed-release tablets included (each in one patient): diarrhea and colitis flare; dizziness, nausea, joint pain, and headache; rash, lethargy and constipation; dry mouth, malaise, lower back discomfort, mild disorientation, mild indigestion and cramping; headache, nausea, aching, vomiting, muscle cramps, a stuffy head, plugged ears, and fever.
 
 Adverse reactions in patients treated with mesalamine delayed-release tablets occurring at a frequency of at least 2% and at a rate greater than placebo in 6-week, double-blind, placebo-controlled trials (Studies 1 and 2) are listed in Table 1 below.
 
-Table 1.
-Adverse Reactions Reported in Two Six-Week Placebo-Controlled Trials (Studies 1 and 2) Experienced by at Least 2% of patients in the mesalamine delayed-release tablets Group and at a Rate Greater than Placebo
+Table 1: Adverse Reactions Reported in Two Six-Week Placebo-Controlled Trials (Studies 1 and 2) Experienced by at Least 2% of patients in the mesalamine delayed-release tablets Group and at a Rate Greater than Placebo
 
 |  | % of Patients with Adverse Reactions |  |
 | --- | --- | --- |
@@ -67,8 +66,7 @@ Duration of exposure to mesalamine among the 82 patients in the study ranged fro
 The majority (88%) of patients in each group were treated for more than 5 weeks.
 Table 2 provides a summary of the specific reported adverse reactions (ARs).
 
-Table 2.
-Adverse Reactions Reported in One Six-Week Trial (Study 3) Experienced by at Least 5% of Patients in the Low Dose Group or High Dose Group
+Table 2: Adverse Reactions Reported in One Six-Week Trial (Study 3) Experienced by at Least 5% of Patients in the Low Dose Group or High Dose Group
 
 |  | % of Patients with Adverse Reactions |  |
 | --- | --- | --- |

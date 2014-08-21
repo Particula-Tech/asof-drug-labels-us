@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage for Treatment of Mildly to Moderatively Active Ulcerative Colitis
+## 2.1 Dosage for Treatment of Mildly to Moderately Active Ulcerative Colitis
 
 Adults For adults, the recommended dosage of DELZICOL is two 400 mg capsules to be taken three times daily (total daily dose of 2.4 grams), for a duration of 6 weeks [see Clinical Studies (14.1)].
 
@@ -9,7 +9,7 @@ DELZICOL capsules are to be taken twice daily for a duration of 6 weeks [see Cli
 
 Pediatric Dosage by Weight
 
-| Weight Group (kg) | Daily Dose (mg/kg/day) | Maximum Daily Dose (grams/day) |
+| WeightGroup (kg) | Daily Dose (mg/kg/day) | Maximum Daily Dose (grams/day) |
 | --- | --- | --- |
 | 17 to < 33 | 36 to 71 | 1.2 |
 | 33 to < 54 | 37 to 61 | 2.0 |
@@ -31,4 +31,4 @@ Two DELZICOL 400 mg capsules should not be substituted with one mesalamine delay
 
 ## 2.4 Testing Prior to DELZICOL Administration
 
-Evaluate renal function prior to initiation of DELZICOL ​​​ ​[see Warnings and Precautions (5.1)].
+Evaluate renal function prior to initiation of DELZICOL [see Warnings and Precautions (5.1)].

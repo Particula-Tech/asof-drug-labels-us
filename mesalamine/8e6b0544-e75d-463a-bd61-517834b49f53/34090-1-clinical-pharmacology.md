@@ -26,4 +26,4 @@ DELZICOL is bioequivalent to these mesalamine delayed-release tablets.
 
 In a dose-ranging PK study evaluating 30, 60 and 90 mg/kg/day doses of mesalamine delayed-release 400 mg tablets administered twice daily for four weeks, the mean Cavg values of mesalamine in pediatric ulcerative colitis patients ranged from approximately 400 ng/mL to 2100 ng/mL based on data from all dose levels.
 
-In a study in pediatric ulcerative colitis patients (Study 3), mean plasma concentrations of mesalamine (based on sparse sampling) were 820 to 988 ng/mL at the low dose level (that is, 1.2, 2.0 or 2.4 g/day based on body weight strata of 17 to greater than 33 kg, 33 to less than 54 kg, and 54 to less than 90 kg, respectively).
+In a study in pediatric ulcerative colitis patients (Study 3), mean plasma concentrations of mesalamine (based on sparse sampling) were 820 to 988 ng/mL at the low dose level (that is, 1.2, 2.0 or 2.4 g/day based on body weight strata of 17 to less than 33 kg, 33 to less than 54 kg, and 54 to 90 kg, respectively).

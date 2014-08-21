@@ -9,7 +9,7 @@ Limited published human data on mesalamine show no increase in the overall rate 
 Some data show an increased rate of preterm birth, stillbirth, and low birth weight; however, these adverse pregnancy outcomes are also associated with active inflammatory bowel disease.
 Furthermore, all pregnancies, regardless of drug exposure, have a background rate of 2 to 4% for major malformations, and 15 to 20% for pregnancy loss.
 No evidence of fetal harm was observed in animal reproduction studies of mesalamine in rats and rabbits at oral doses approximately 1.9 times (rat) and 3.9 times (rabbit) the recommended human dose.
-DELZICOL should be used in during pregnancy only if clearly needed.
+DELZICOL should be used in pregnancy only if clearly needed.
 
 Human Data Mesalamine crosses the placenta.
 In prospective and retrospective studies of over 600 women exposed to mesalamine during pregnancy, the observed rate of congenital malformations was not increased above the background rate in the general population.
@@ -59,4 +59,4 @@ Caution should be taken to closely monitor blood cell counts during treatment wi
 
 Mesalamine is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken when prescribing this drug therapy.
-It is recommended that all patients have an evaluation of renal function prior to initiation of DELZICOL therapy and periodically while on DELZICOL therapy [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)].
+It is recommended that all patients have an evaluation of renal function prior to initiation of DELZICOL therapy and periodically while on DELZICOL therapy [see Dosage and Administration (2.4) andWarnings and Precautions (5.1)].
