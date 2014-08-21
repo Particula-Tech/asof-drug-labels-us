@@ -77,6 +77,10 @@ If concomitant use of REMERON with other serotonergic drugs, including triptans,
 
 Treatment with REMERON and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
+## Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including REMERON may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
 # PRECAUTIONS
 
 ## General

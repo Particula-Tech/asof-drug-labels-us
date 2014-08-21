@@ -54,23 +54,28 @@ REMERON may be associated with these serious side effects:
   - sweating or fever
   - nausea, vomiting, or diarrhea
   - muscle rigidity
-- 5.Seizures
-- 6.Low salt (sodium) levels in the blood.
+- 5.Visual problemsOnly some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+  - eye pain
+  - changes in vision
+  - swelling or redness in or around the eye
+- 6.Seizures
+- 7.Low salt (sodium) levels in the blood.
   Elderly people may be at greater risk for this.
   Symptoms may include:
   - headache
   - weakness or feeling unsteady
   - confusion, problems concentrating or thinking or memory problems
-- 7.Sleepiness.
+- 8.Sleepiness.
   It is best to take REMERON close to bedtime.
-- 8.Severe skin reactions: Call your doctor right away if you have any or all of the following symptoms:
+- 9.Severe skin reactions: Call your doctor right away if you have any or all of the following symptoms:
   - severe rash with skin swelling (including on the palms of the hands and soles of the feet)
   - painful reddening of the skin and/or blisters/ulcers on the body or in the mouth
-- 9.Severe allergic reactions: trouble breathing, swelling of the face, tongue, eyes or mouth
+- 10.Severe allergic reactions: trouble breathing, swelling of the face, tongue, eyes or mouth
   - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
-- 10.Increases in appetite or weight.
+- 11.Increases in appetite or weight.
   Children and adolescents should have height and weight monitored during treatment.
-- 11.Increased cholesterol and triglyceride levels in your blood
+- 12.Increased cholesterol and triglyceride levels in your blood
 
 Do not stop REMERON without first talking to your healthcare provider.
 Stopping REMERON too quickly may cause potentially serious symptoms including:
@@ -101,7 +106,7 @@ Do not take REMERON:
 
 - if you are allergic to mirtazapine or any of the ingredients in REMERON.
   See the end of this Medication Guide for a complete list of ingredients in REMERON.
-- If you take a monoamine oxidase inhibitor (MAOI).
+- if you take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - Do not take an MAOI within 2 weeks of stopping REMERON unless directed to do so by your physician.
 - Do not start REMERON if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
