@@ -1,19 +1,19 @@
 # ADVERSE REACTIONS
 
-See BOXED WARNINGS, WARNINGS and PRECAUTIONS.
+See BOXED WARNINGS and WARNINGS and PRECAUTIONS.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
 Incidence of adverse events > 2% of each treatment group is given in Table 5.
 
-Table 5 Incidence of Adverse Events > 2% for Alora and Placebo Systems (data are expressed as N and (%) of treatment group)
+Table 5 Incidence of Adverse Events > 2% for Alora and Placebo Systems (data are expressed as N and (%) of treatment group).
 
 | Preferred Term |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Placeboa | Aloraa | Aloraa | Aloraa | Alorab |
 | Body System |  |  | 0.025 mg/day | 0.05 mg/day | 0.075 mg/day | 0.1 mg/day |
-|  |  | (N=87) | (N=89) | (N=90) | (N=89) | (N=174) |
+|  |  | (N = 87) | (N = 89) | (N = 90) | (N = 89) | (N = 174) |
 | Body As A Whole |  |  |  |  |  |  |
 | Accidental Injury |  | 4 (4.6) | 6 (6.7) | 8 (8.9) | 4 (4.5) | 9 (5.2) |
 | Allergic Reaction |  | 2 (2.3) | 4 (4.5) | 4 (4.4) | 2 (2.2) | 1 (0.6) |
@@ -78,7 +78,7 @@ Table 5 Incidence of Adverse Events > 2% for Alora and Placebo Systems (data are
 | Vaginal Bleedingc |  | 4 (12.9) | NA | 6 (8.7) | NA | 29 (33.3) |
 | a - Adverse events for the three lower Alora doses and placebo were obtained from the 2-year prevention of osteoporosis study |  |  |  |  |  |  |
 | b - Adverse events for the highest Alora doses were obtained from two 12-week studies of the treatment of menopausal symptoms |  |  |  |  |  |  |
-| c - Data reported for women with partially or fully intact uteri in the menopausal symptom study only (N=31 for Placebo; N=69 for Alora 0.05 mg/day and N=87 for Alora 0.1 mg/day) |  |  |  |  |  |  |
+| c - Data reported for women with partially or fully intact uteri in the menopausal symptom study only (N = 31 for Placebo; N = 69 for Alora 0.05 mg/day and N = 87 for Alora 0.1 mg/day) |  |  |  |  |  |  |
 | NA – data not available |  |  |  |  |  |  |
 
 The following additional adverse reactions have been reported with estrogens and/or progestin therapy:

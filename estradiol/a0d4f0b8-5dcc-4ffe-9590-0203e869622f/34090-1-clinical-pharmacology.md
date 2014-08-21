@@ -40,7 +40,7 @@ Figure 2 Mean estradiol serum concentrations during a single 4-day wearing of Al
 
 Table 1 provides a summary of the estradiol pharmacokinetic parameters studied during biopharmaceutic evaluation of Alora.
 
-Table 1 Mean (SD) Pharmacokinetic Profile of Alora Over an 84-Hour Dosing Interval
+Table 1 Mean (SD) Pharmacokinetic Profile of Alora Over an 84-Hour Dosing Interval.
 
 | Alora (mg/day) | Application Site | N | Dosing | Cmax (pg/ml) | Cmin (pg/ml) | Cavg (pg/ml) | CL (L/hr) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ Table 1 Mean (SD) Pharmacokinetic Profile of Alora Over an 84-Hour Dosing Interv
 Steady-state estradiol serum concentrations were measured in two well-controlled clinical trials in the treatment of menopausal symptoms of 3 month duration (Studies 1 and 2), and one trial in the prevention of postmenopausal osteoporosis of 2 year duration (Study 3).
 Table 2 provides a summary of these data.
 
-Table 2 Mean (SD) steady-state estradiol serum concentrations (pg/ml) in clinical trials of 3 month (Studies 1 and 2) and 2 year (Study 3) duration
+Table 2 Mean (SD) steady-state estradiol serum concentrations (pg/ml) in clinical trials of 3 month (Studies 1 and 2) and 2 year (Study 3) duration.
 
 | Alora (mg/day) | Study 1 | Study 2 | Study 3 |
 | --- | --- | --- | --- |

@@ -18,9 +18,10 @@ In the CE/MPA substudy of WHI an increased risk of coronary heart disease (CHD) 
 The increase in risk was observed in Year 1 and persisted.
 
 In the same substudy of WHI, an increased risk of stroke was observed in women receiving CE/MPA compared to women receiving placebo (29 vs. 21 per 10,000 women-years).
-The increase in risk was observed after the first year and persisted [see CLINICAL PHARMACOLOGY, and CLINICAL STUDIES].
+The increase in risk was observed after the first year and persisted.
+[see CLINICAL PHARMACOLOGY and CLINICAL STUDIES].
 
-In postmenopausal women with documented heart disease (n=2,763, average age 66.7 years) a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/ Progestin Replacement Study; (HERS)) treatment with CE/MPA–0.625 mg/2.5 mg per day demonstrated no cardiovascular benefit.
+In postmenopausal women with documented heart disease (n = 2,763, average age 66.7 years) a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/ Progestin Replacement Study; (HERS)) treatment with CE/MPA–0.625 mg/2.5 mg per day demonstrated no cardiovascular benefit.
 During an average follow-up of 4.1 years, treatment with CE/MPA did not reduce the overall rate of CHD events in postmenopausal women with established coronary heart disease.
 There were more CHD events in the CE/MPA-treated group than in the placebo group in Year 1, but not during the subsequent years.
 Participation in an open label extension of the original HERS trial (HERS II) was agreed to by 2,321 women.
@@ -34,7 +35,7 @@ In the Women’s Health Initiative (WHI) study, an increased risk of deep vein t
 
 In the CE/MPA substudy of WHI, a 2-fold greater rate of VTE, including deep venous thrombosis and pulmonary embolism, was observed in women receiving CE/MPA compared to women receiving placebo.
 The rate of VTE was 34 per 10,000 women-years in the CE/MPA group compared to 16 per 10,000 women-years in the placebo group.
-The increase in VTE risk was observed during the first year and persisted [see CLINICAL PHARMACOLOGY, and CLINICAL STUDIES].
+The increase in VTE risk was observed during the first year and persisted [see CLINICAL PHARMACOLOGY and CLINICAL STUDIES].
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
 
@@ -55,7 +56,7 @@ Adding a progestin to estrogen therapy has been shown to reduce the risk of endo
 ### b. Breast cancer.
 
 The use of estrogens and progestins by postmenopausal women has been reported to increase the risk of breast cancer.
-The most important randomized clinical trial providing information about this issue is the WHI substudy of CE/MPA [see CLINICAL PHARMACOLOGY, and CLINICAL STUDIES].
+The most important randomized clinical trial providing information about this issue is the WHI substudy of CE/MPA [see CLINICAL PHARMACOLOGY and CLINICAL STUDIES].
 The results from observational studies are generally consistent with those of the WHI clinical trial and report no significant variation in the risk of breast cancer among different estrogens or progestins, doses, or routes of administration.
 
 The CE/MPA substudy of WHI reported an increased risk of breast cancer in women who took CE/MPA for a mean follow-up of 5.6 years.
@@ -79,10 +80,10 @@ In addition, mammography examinations should be scheduled based on patient age, 
 ## 3. Dementia.
 
 In the estrogen plus progestin WHIMS, a population of 4,532 postmenopausal women aged 65 to 79 years was randomized to CE/MPA or placebo.
-After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%, n=2,229) and 21 women in the placebo group (0.9%, n=2,303) received diagnoses of probable dementia.
+After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%, n = 2,229) and 21 women in the placebo group (0.9%, n = 2,303) received diagnoses of probable dementia.
 The relative risk for CE/MPA versus placebo was 2.05 (95% confidence interval 1.21 - 3.48), and was similar for women with and without histories of menopausal hormone use before WHIMS.
 The absolute risk of probable dementia for CE/MPA versus placebo was 45 vs. 22 cases per 10,000 women-years and the absolute excess risk for CE/MPA was 23 cases per 10,000 women-years.
-It is unknown whether these findings apply to younger postmenopausal women [see CLINICAL PHARMACOLOGY, CLINICAL STUDIES and PRECAUTIONS, Geriatric Use].
+It is unknown whether these findings apply to younger postmenopausal women [see CLINICAL PHARMACOLOGY and CLINICAL STUDIES and PRECAUTIONS, Geriatric Use].
 
 ## 4. Gallbladder Disease.
 
@@ -192,7 +193,7 @@ Laboratory parameters may be useful in guiding dosage for the treatment of hypoe
 Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
 Long-term continuous administration of estrogen, with or without progestin, in women with or without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
-(See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.)
+[See BOXED WARNINGS and WARNINGS and PRECAUTIONS.]
 
 ## F. Pregnancy Category X
 
@@ -213,14 +214,14 @@ Safety and effectiveness in pediatric patients have not otherwise been establish
 Large and repeated doses of estrogen over an extended time period have been shown to accelerate epiphyseal closure, which could result in short adult stature if treatment is initiated before the completion of physiologic puberty in normally developing children.
 If estrogen is administered to patients whose bone growth is not complete, periodic monitoring of bone maturation and effects on epiphyseal centers is recommended during estrogen administration.
 
-Estrogen treatment of prepubertal girls also induces premature breast development and vaginal cornification, and may induce gynecomastia [see INDICATIONSandDOSAGE AND ADMINISTRATION].
+Estrogen treatment of prepubertal girls also induces premature breast development and vaginal cornification, and may induce gynecomastia [see INDICATIONS and DOSAGE AND ADMINISTRATION].
 
 ## I. Geriatric Use
 
-In the Women’s Health Initiative Memory Study, including 4,532 women 65 years of age and older, followed for an average of 4 years, 82% (n=3,729) were 65 to 74 while 18% (n=803) were 75 and over.
+In the Women’s Health Initiative Memory Study, including 4,532 women 65 years of age and older, followed for an average of 4 years, 82% (n = 3,729) were 65 to 74 while 18% (n = 803) were 75 and over.
 Most women (80%) had no prior hormone therapy use.
 Women treated with conjugated estrogens plus medroxyprogesterone acetate were reported to have a 2-fold increase in the risk of developing probable dementia.
 Alzheimer’s disease was the most common classification of probable dementia in both the conjugated estrogens plus medroxyprogesterone acetate group and the placebo group.
-Ninety percent of the cases of probable dementia occurred in the 54% of women that were older than 70 [see BOXED WARNINGSandWARNINGS, Dementia].
+Ninety percent of the cases of probable dementia occurred in the 54% of women that were older than 70 [see BOXED WARNINGS and WARNINGS, Dementia].
 
 With respect to efficacy in the approved indications, there have not been sufficient numbers of geriatric patients involved in studies utilizing Alora to determine whether those over 65 years of age differ from younger subjects in their response to Alora.

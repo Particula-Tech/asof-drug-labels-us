@@ -24,7 +24,7 @@ Alora is used after menopause to:
   In other women, symptoms can be more severe.
   You and your healthcare provider should talk regularly about whether you still need treatment with Alora.
 
-- Treat moderate to severe dryness, itching and burning in and around the vagina.
+- Treat moderate to severe dryness, itching, and burning in and around the vagina.
   You and your healthcare provider should talk regularly about whether you still need treatment with Alora to control these problems.
   If you use Alora only to treat your dryness, itching, and burning in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
 - Treat certain conditions in which a young woman’s ovaries do not produce enough estrogen naturally.
@@ -136,7 +136,7 @@ Stay on this schedule as long as you use Alora.
 To help remind yourself, mark the schedule on the inside flap of the patch box.
 Put a check next to the first day you apply the patch.
 When you change your patch, don’t put the new one in the same place.
-To help reduce the chance of skin redness or irritation, wait at least one week before you reuse a spot.
+To help reduce the chance of skin redness or irritation, wait at least 1 week before you reuse a spot.
 
 Step 2.
 Before you apply the patch make sure the skin at the spot is:
@@ -252,7 +252,7 @@ Inactive components of each patch include sorbitan monooleate, NF; acrylic adhes
 
 Keep out of reach of children.
 
-For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 USA 1-800-272-5525
+For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 1-800-272-5525
 
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
