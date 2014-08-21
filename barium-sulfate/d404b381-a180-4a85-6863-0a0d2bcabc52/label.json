@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "barium-sulfate",
+  "labeler": "E-Z-EM Canada Inc",
+  "package_ndcs": [
+    "32909-122-07"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "barium sulfate",
+      "name": "Varibar Honey"
+    }
+  ],
+  "setid": "d404b381-a180-4a85-6863-0a0d2bcabc52",
+  "source": "dailymed"
+}
