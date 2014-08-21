@@ -54,7 +54,7 @@ There was a substantial increase in these adverse events at doses higher than 40
 Dose-dependent prolongations in PR interval with VIMPAT have been observed in clinical studies in patients and in healthy volunteers.
 [See Clinical Pharmacology (12.2)] In clinical trials in patients with partial-onset epilepsy, asymptomatic first-degree atrioventricular (AV) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive VIMPAT and 0% (0/364) of patients randomized to receive placebo.
 In clinical trials in patients with diabetic neuropathy, asymptomatic first-degree AV block was observed as an adverse reaction in 0.5% (5/1023) of patients receiving VIMPAT and 0% (0/291) of patients receiving placebo.
-Second degree and complete AV block have been reported inpatients in pain studies and in patients with seizures.
+Second degree and complete AV block have been reported in patients in pain studies and in patients with seizures.
 When VIMPAT is given with other drugs that prolong the PR interval, further PR prolongation is possible.
 
 VIMPAT should be used with caution in patients with known conduction problems (e.g. marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker, sodium channelopathies (e.g., Brugada Syndrome), on concomitant medications that prolong PR interval, or with severe cardiac disease such as myocardial ischemia or heart failure, or structural heart disease.

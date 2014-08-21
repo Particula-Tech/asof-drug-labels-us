@@ -67,9 +67,9 @@ Renal impairment
 
 Lacosamide and its major metabolite are eliminated from the systemic circulation primarily by renal excretion.
 
-The AUC of VIMPAT was increased approximately 25% in mildly (CLCR 50-80 mL/min) and moderately (CLCR 30-50 mL/min) and 60% in severely (CLCR≤30mL/min) renally impaired patients compared to subjects with normal renal function (CLCR>80mL/min), whereas Cmax was unaffected.
+The AUC of VIMPAT was increased approximately 25% in mildly (CLCR 50-80 mL/min) and moderately (CLCR 30-50 mL/min) and 60% in severely (CLCR≤30 mL/min) renally impaired patients compared to subjects with normal renal function (CLCR>80 mL/min), whereas Cmax was unaffected.
 No dose adjustment is considered necessary in mildly and moderately renal impaired subjects.
-A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30mL/min) and in patients with endstage renal disease.
+A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30 mL/min) and in patients with endstage renal disease.
 VIMPAT is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, AUC of VIMPAT is reduced by approximately 50%.
 Therefore dosage supplementation of up to 50% following hemodialysis should be considered.
@@ -172,3 +172,7 @@ There was no effect of VIMPAT (200 mg single dose or repeat doses of 400 mg/day 
 Oral Contraceptives
 
 There was no influence of VIMPAT (400 mg/day) on the pharmacodynamics and pharmacokinetics of an oral contraceptive containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel in healthy subjects, except that a 20% increase in ethinylestradiol Cmax was observed.
+
+Warfarin
+
+Co-administration of VIMPAT (400 mg/day) with warfarin (25 mg single dose) did not result in a clinically relevant change in the pharmacokinetic and pharmacodynamic effects of warfarin in a study in healthy male subjects.

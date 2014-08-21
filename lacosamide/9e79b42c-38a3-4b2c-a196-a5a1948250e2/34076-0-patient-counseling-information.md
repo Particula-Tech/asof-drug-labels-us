@@ -1,9 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See Medication Guide]
-
-Patients should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking VIMPAT.
-Patients should be instructed to take VIMPAT only as prescribed.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Suicidal Thinking and Behavior
 
@@ -28,10 +25,8 @@ Patients should also be instructed to report promptly to their physicians any sy
 
 ## 17.5 Pregnancy Registry
 
-UCB, Inc. has established the UCB AED Pregnancy Registry to advance scientific knowledge about safety and outcomes in pregnant women being treated with VIMPAT.
-To ensure broad program access and reach, either a healthcare provider or the patient can initiate enrollment in the UCB AED Pregnancy Registry by calling 1-888-537-7734 (toll free).
-
-Patients should also be encouraged to enroll in the North American Antiepileptic Drug Pregnancy Registry if they become pregnant.
-This Registry is collecting information about the safety of AEDs during pregnancy.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during VIMPAT therapy.
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334.
 [See Use in Specific Populations (8.1)]

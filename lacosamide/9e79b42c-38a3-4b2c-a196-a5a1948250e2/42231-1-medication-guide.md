@@ -1,4 +1,4 @@
-# Medication Guide
+Medication Guide
 
 VIMPAT (VIM-păt) CV
 
@@ -74,7 +74,6 @@ Before you take VIMPAT, tell your healthcare provider, if you:
   You and your healthcare provider will decide if you should take VIMPAT while you are pregnant.
   - If you become pregnant while taking VIMPAT, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
     You can enroll in this registry by calling 1-888-233-2334.
-    You can also enroll in the UCB AED Pregnancy Registry by calling 1-888-537-7734.
     The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
 - are breastfeeding or plan to breastfeed.
   It is not known if VIMPAT passes into your breast milk or if it can harm your baby.
@@ -148,7 +147,7 @@ This Medication Guide summarizes the most important information about VIMPAT.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about VIMPAT that is written for health professionals.
 
-For more information, go to www.vimpat.com or call 1-800-477-7877.
+For more information, go to www.vimpat.com or call 1-844-599-2273.
 
 What are the ingredients in VIMPAT?
 
@@ -163,7 +162,7 @@ What are the ingredients in VIMPAT?
 
 Manufactured for UCB, Inc. Smyrna, GA 30080
 
-Issued 09/2013
+Issued 08/2014
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

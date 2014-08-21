@@ -27,10 +27,7 @@ The no-effect dose for developmental neurotoxicity in rats was associated with a
 
 ### Pregnancy Registry
 
-UCB, Inc. has established the UCB AED Pregnancy Registry to advance scientific knowledge about safety and outcomes in pregnant women being treated with VIMPAT.
-To ensure broad program access and reach, either a healthcare provider or the patient can initiate enrollment in the UCB AED Pregnancy Registry by calling 1-888-537-7734 (toll free).
-
-Physicians are also advised to recommend that pregnant patients taking VIMPAT enroll in the North American Antiepileptic Drug Pregnancy Registry.
+Physicians are advised to recommend that pregnant patients taking VIMPAT enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
@@ -58,7 +55,7 @@ The no-effect dose for developmental neurotoxicity in rats was associated with a
 
 There were insufficient numbers of elderly patients enrolled in partial-onset seizure trials (n=18) to adequately assess the effectiveness of VIMPAT in this population.
 
-No VIMPAT dose adjustment based on age is considered necessary.
+No VIMPAT dose adjustment based on age is necessary.
 In elderly patients, dose titration should be performed with caution.
 [See Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]
 

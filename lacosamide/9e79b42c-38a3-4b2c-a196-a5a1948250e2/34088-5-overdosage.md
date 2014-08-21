@@ -2,14 +2,15 @@
 
 ## 10.1 Signs, Symptoms, and Laboratory Findings of Acute Overdose in Humans
 
-There is limited clinical experience with VIMPAT overdose in humans.
+The types of adverse events experienced by patients exposed to supratherapeutic VIMPAT doses during clinical trials were not clinically different from those of patients administered recommended doses of VIMPAT.
 The highest reported accidental overdose of VIMPAT during clinical development was 1200 mg/day which was non-fatal.
-The types of adverse events experienced by patients exposed to supratherapeutic doses during the trials were not clinically different from those of patients administered recommended doses of VIMPAT.
 
-There has been a single case of intentional overdose by a patient who self-administered 12 grams VIMPAT along with large doses of zonisamide, topiramate, and gabapentin.
-The patient presented in a coma and was hospitalized.
+There has been a single case of intentional overdose in a clinical trial by a patient who self-administered 12,000 mg VIMPAT along with large doses of zonisamide, topiramate, and gabapentin.
+The patient presented in a coma with AV block and was hospitalized.
 An EEG revealed epileptic waveforms.
 The patient recovered 2 days later.
+
+In postmarketing experience, cardiac conduction disorders and fatal cardiac arrest were reported following an acute overdose of 7,000 mg of VIMPAT in a patient with cardiovascular risk factors.
 
 ## 10.2 Treatment or Management of Overdose
 
