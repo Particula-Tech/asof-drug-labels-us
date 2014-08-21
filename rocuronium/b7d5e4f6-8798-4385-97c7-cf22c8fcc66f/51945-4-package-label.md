@@ -11,5 +11,3 @@ Rx only
 10 multiple-dose 5 mL vials
 
 For IV use only
-
-Lot and Expiry date legends to be printed on-line in this area.
