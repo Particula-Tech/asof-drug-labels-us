@@ -61,7 +61,7 @@ Neither amiodarone nor DEA is dialyzable.
 
 Amiodarone is eliminated primarily by hepatic metabolism and biliary excretion and there is negligible excretion of amiodarone or DEA in urine.
 In studies in healthy subjects following single intravenous administration (5 mg/kg of amiodarone over 15 min), the plasma concentration vs. time profile could be characterized by linear sum of four exponential terms with terminal elimination half-lives (t½) of 9 - 36 days for amiodarone and 9 - 30 days for DEA.
-The clearance of amiodarone and DEA ranged between 63 - 231 mL/hr/kg and 140 -400 ml/h/kg, respectively.
+The clearance of amiodarone and DEA ranged between 63 - 231 mL/hr/kg and 140 - 400 ml/h/kg, respectively.
 In clinical studies of 2 to 7 days, clearance of amiodarone after intravenous administration in patients with VT and VF ranged between 220 and 440 mL/hr/kg.
 
 ### Special Populations:

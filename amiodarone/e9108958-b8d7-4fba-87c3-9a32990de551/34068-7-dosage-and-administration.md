@@ -48,10 +48,10 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 Preparation of NEXTERONE Premixed Injection for administration:
 
-1. Suspend container from eyelet support.
-2. Remove protector from outlet port at bottom of container.
-3. Attach administration set.
-   Refer to complete directions accompanying set.
+- 1.Suspend container from eyelet support.
+- 2.Remove protector from outlet port at bottom of container.
+- 3.Attach administration set.
+  Refer to complete directions accompanying set.
 
 Admixture Incompatibility NEXTERONE in D5W is incompatible with the drugs shown in Table 2.
 
@@ -78,7 +78,7 @@ These recommendations are made on the basis of a similar total body amount of am
 
 Table 3: RECOMMENDATIONS FOR ORAL DOSAGE AFTER INTRAVENOUS INFUSION
 
-| Duration of NEXTERONE Infusion Assuming a 720 mg/day infusion (0.5 mg/min). | Initial Daily Dose of Oral Amiodarone |
+| Duration of NEXTERONE InfusionAssuming a 720 mg/day infusion (0.5 mg/min). | Initial Daily Dose of Oral Amiodarone |
 | --- | --- |
 | < 1 week | 800-1600 mg |
 | 1-3 weeks | 600-800 mg |

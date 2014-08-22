@@ -13,3 +13,13 @@ Protect from light and excessive heat.
 Protect from freezing.
 
 Use carton to protect contents from light until used.
+
+Visually inspect the container.
+If the administration port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
+
+Check for minute leaks by squeezing bag firmly.
+If leaks are found, discard container as sterility may be impaired.
+
+Do not use unless solution is clear.
+Do not add supplemental medication.
+Must not be used in series connections.

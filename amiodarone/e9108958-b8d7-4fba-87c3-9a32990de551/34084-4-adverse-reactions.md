@@ -15,7 +15,7 @@ Table 4 lists the most common (incidence ≥2%) adverse reactions during intrave
 These data were collected in clinical trials involving 1836 patients with life-threatening VT/VF.
 Data from all assigned treatment groups are pooled because none of the adverse reactions appeared to be dose-related.
 
-Table 4: ADVERSEREACTIONS IN PATIENTS RECEIVING INTRAVENOUS AMIODARONE IN CONTROLLED AND OPEN-LABEL STUDIES (≥ 2% INCIDENCE)
+Table 4: ADVERSE REACTIONS IN PATIENTS RECEIVING INTRAVENOUS AMIODARONE IN CONTROLLED AND OPEN-LABEL STUDIES (≥ 2% INCIDENCE)
 
 | Study Event | Controlled Studies (n = 814) |  | Open-Label Studies (n = 1022) |  | Total (n = 1836) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ Nervous System: hallucination, confusional state, disorientation, and delirium, 
 
 Pancreatic: pancreatitis
 
-Renal: renal impairment, renal insufficiency, acute renal failure,
+Renal: renal impairment, renal insufficiency, acute renal failure
 
 Respiratory: bronchospasm, possibly fatal respiratory disorders (including distress, failure, arrest and ARDS), bronchiolitis obliterans organizing pneumonia (possibly fatal), dyspnea, cough, hemoptysis, wheezing, hypoxia, pulmonary infiltrates, and /or mass, pleuritis
 
