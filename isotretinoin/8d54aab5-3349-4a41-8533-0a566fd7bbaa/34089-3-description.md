@@ -6,3 +6,5 @@ Gelatin capsules contain the following dye systems: 10 mg – iron oxide (yellow
 
 Chemically, isotretinoin is 13-cis-retinoic acid and is related to both retinoic acid and retinol (vitamin A). It is a yellow to orange crystalline powder with a molecular weight of 300.44.
 The structural formula is:
+
+Meets USP Dissolution Test 3.

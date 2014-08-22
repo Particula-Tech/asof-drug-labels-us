@@ -87,8 +87,8 @@ The first test (a screening test) is obtained by the prescriber when the decisio
 The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
 The interval between the two tests must be at least 19 days.
 
-- For patients with regular menstrual cycles, perform the second pregnancy test during the first 5 days of the menstrual period immediately preceding the beginning of Absorica™ therapy and after the patient has used 2 forms of contraception for 1 month.
-- For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, perform the second pregnancy test immediately preceding the beginning of Absorica™ therapy and after the patient has used 2 forms of contraception for 1 month.
+- •For patients with regular menstrual cycles, perform the second pregnancy test during the first 5 days of the menstrual period immediately preceding the beginning of Absorica™ therapy and after the patient has used 2 forms of contraception for 1 month.
+- •For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, perform the second pregnancy test immediately preceding the beginning of Absorica™ therapy and after the patient has used 2 forms of contraception for 1 month.
 
 Each month of continued Absorica™ therapy, patients must have a negative result from a urine or serum pregnancy test.
 A pregnancy test must be repeated each month, in a CLIA-certified laboratory, prior to the female patient receiving each prescription.
@@ -104,7 +104,7 @@ Effective forms of contraception include both primary and secondary forms of con
 
 | Primary forms | Secondary forms |
 | --- | --- |
-| Tubal sterilization Partner's vasectomy Intrauterine device Hormonal (combination oral contraceptives, transdermal patch, injectables, implantables, or vaginal ring) | Barrier: male latex condom with or without spermicide diaphragm with spermicide cervical cap with spermicide Other: Vaginal sponge (contains spermicide) |
+| •Tubal sterilization •Partner's vasectomy •Intrauterine device •Hormonal (combination oral contraceptives, transdermal patch, injectables, implantables, or vaginal ring) | Barrier: •male latex condom with or without spermicide •diaphragm with spermicide •cervical cap with spermicide Other: •Vaginal sponge (contains spermicide) |
 
 Any birth control method can fail.
 There have been reports of pregnancy from female patients who have used combination oral contraceptives, as well as transdermal patch/ injectable/ implantable/ vaginal ring hormonal birth control products; these pregnancies occurred while taking isotretinoin.
@@ -120,10 +120,10 @@ Pregnancies have been reported by users of combined hormonal contraceptives who 
 
 If the patient has unprotected heterosexual intercourse at any time 1 month before, during, or 1 month after therapy, she must:
 
-1. Stop taking Absorica™ immediately, if on therapy
-2. Have a pregnancy test at least 19 days after the last act of unprotected heterosexual intercourse
-3. Start using 2 forms of effective contraception simultaneously again for 1 month before resuming Absorica™ therapy
-4. Have a second pregnancy test after using 2 forms of effective contraception for 1 month as described above depending on whether she has regular menses or not.
+- a.Stop taking Absorica™ immediately, if on therapy
+- b.Have a pregnancy test at least 19 days after the last act of unprotected heterosexual intercourse
+- c.Start using 2 forms of effective contraception simultaneously again for 1 month before resuming Absorica™ therapy
+- d.Have a second pregnancy test after using 2 forms of effective contraception for 1 month as described above depending on whether she has regular menses or not.
 
 If a pregnancy does occur during Absorica™ treatment, Absorica™ must be discontinued immediately.
 The patient should be referred to an obstetrician-gynecologist experienced in reproductive toxicity for further evaluation and counseling.

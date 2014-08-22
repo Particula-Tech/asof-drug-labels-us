@@ -2,18 +2,18 @@
 
 The following adverse reactions with Absorica™ or other isotretinoin products are described in more detail in other sections of the labeling:
 
-- Embryofetal Toxicity [see Warnings and Precautions (5.1)]
-- Psychiatric Disorders [see Warnings and Precautions (5.4)]
-- Pseudotumor Cerebri [see Warnings and Precautions (5.5)]
-- Serious Skin Reactions [see Warnings and Precautions (5.6)]
-- Pancreatitis [see Warnings and Precautions (5.7)]
-- Lipid Abnormalities [see Warnings and Precautions (5.8)]
-- Hearing Impairment [see Warnings and Precautions (5.9)]
-- Hepatotoxicity [see Warnings and Precautions (5.10)]
-- Inflammatory Bowel Disease [see Warnings and Precautions (5.11)]
-- Skeletal Abnormalities [see Warnings and Precautions (5.12)]
-- Ocular Abnormalities [see Warnings and Precautions (5.13)]
-- Hypersensitivity [see Warnings and Precautions (5.14)]
+- •Embryofetal Toxicity [see Warnings and Precautions (5.1)]
+- •Psychiatric Disorders [see Warnings and Precautions (5.4)]
+- •Pseudotumor Cerebri [see Warnings and Precautions (5.5)]
+- •Serious Skin Reactions [see Warnings and Precautions (5.6)]
+- •Pancreatitis [see Warnings and Precautions (5.7)]
+- •Lipid Abnormalities [see Warnings and Precautions (5.8)]
+- •Hearing Impairment [see Warnings and Precautions (5.9)]
+- •Hepatotoxicity [see Warnings and Precautions (5.10)]
+- •Inflammatory Bowel Disease [see Warnings and Precautions (5.11)]
+- •Skeletal Abnormalities [see Warnings and Precautions (5.12)]
+- •Ocular Abnormalities [see Warnings and Precautions (5.13)]
+- •Hypersensitivity [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
