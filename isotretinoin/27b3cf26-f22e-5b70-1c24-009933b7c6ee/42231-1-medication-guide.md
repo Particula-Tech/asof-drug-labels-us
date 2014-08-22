@@ -250,7 +250,7 @@ These are not all of the possible side effects with Zenatane.
 Your doctor or pharmacist can give you more detailed information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or Dr. Reddys at 1-866-733-3952.
+You may report side effects to FDA at 1-800-FDA-1088 or Dr. Reddys at 1-888-375-3784.
 
 How should I store Zenatane?
 
@@ -297,6 +297,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Issued: 0213
+Issued: 0314
 
 Zenatane is a trademark of Dr. Reddy's Laboratories, Inc. and/or its affiliates.
