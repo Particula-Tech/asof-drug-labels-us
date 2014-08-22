@@ -1,7 +1,7 @@
 # OVERDOSAGE:
 
-The manifestations of midazolam overdosage reported are similar to those observed with other benzodiazepines, including sedation, somnolence, confusion, impaired coordination, diminished reflexes, coma, and deleterious effects on vital signs.
-No evidence of specific organ toxicity from midazolam overdosage has been reported.
+- The manifestations of midazolam overdosage reported are similar to those observed with other benzodiazepines, including sedation, somnolence, confusion, impaired coordination, diminished reflexes, coma, and deleterious effects on vital signs.
+  No evidence of specific organ toxicity from midazolam overdosage has been reported.
 
 ## Treatment of Overdosage:
 
@@ -13,7 +13,8 @@ There is no information as to whether peritoneal dialysis, forced diuresis or he
 
 Gastrointestinal decontamination with lavage and/or activated charcoal once the patient's airway is secure is also recommended.
 
-Flumazenil, a specific benzodiazepine-receptor antagonist, is indicated for the complete or partial reversal of the sedative effects of midazolam and may be used in situations when an overdose with a benzodiazepine is known or suspected There are anecdotal reports of adverse hemodynamic responses associated with midazolam following administration of flumazenil to pediatric patients.
+Flumazenil, a specific benzodiazepine-receptor antagonist, is indicated for the complete or partial reversal of the sedative effects of midazolam and may be used in situations when an overdose with a benzodiazepine is known or suspected.
+There are anecdotal reports of adverse hemodynamic responses associated with midazolam following administration of flumazenil to pediatric patients.
 Prior to the administration of flumazenil, necessary measures should be instituted to secure the airway, assure adequate ventilation, and establish adequate intravenous access.
 Flumazenil is intended as an adjunct to, not as a substitute for, proper management of benzodiazepine overdose.
 Patients treated with flumazenil should be monitored for resedation, respiratory depression and other residual benzodiazepine effects for an appropriate period after treatment.

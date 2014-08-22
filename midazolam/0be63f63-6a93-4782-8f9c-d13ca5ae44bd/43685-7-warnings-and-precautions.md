@@ -4,7 +4,7 @@ Serious respiratory adverse events have occurred after administration of oral mi
 These adverse events have included respiratory depression, airway obstruction, oxygen desaturation, apnea, and rarely, respiratory and/or cardiac arrest (see box WARNING).
 When oral midazolam is administered as the sole agent at recommended doses respiratory depression, airway obstruction, oxygen desaturation, and apnea occur infrequently (see DOSAGE AND ADMINISTRATION).
 
-Prior to the administration of midazolam in any dose, the immediate availability of oxygen, resuscitative drugs, age- and size-appropriate equipment for bag/valve/mask ventilation and intubation, and skilled personnel for the maintenance of a patent airway and support of ventilation should be ensured.
+Prior to the administration of midazolam in any dose, the immediate availability of oxygen, resuscitative drugs, age-and size-appropriate equipment for bag/valve/mask ventilation and intubation, and skilled personnel for the maintenance of a patent airway and support of ventilation should be ensured.
 Midazolam HCl syrup must never be used without individualization of dosage, particularly when used with other medications capable of producing central nervous system depression.
 
 Midazolam HCl syrup should be used only in hospital or ambulatory care settings, including physicians' and dentists' offices, that are equipped to provide continuous monitoring of respiratory and cardiac function.
@@ -53,7 +53,7 @@ Midazolam HCl syrup has not been studied in patients less than 6 months of age.
 
 # PRECAUTIONS:
 
-## Use With Other CNS Depressants:
+## Use With Other CNC Depressants:
 
 The efficacy and safety of midazolam in clinical use are functions of the dose administered, the clinical status of the individual patient, and the use of concomitant medications capable of depressing the CNS.
 Anticipated effects may range from mild sedation to deep levels of sedation with a potential loss of protective reflexes, particularly when coadministered with anesthetic agents or other CNS depressants.
@@ -69,14 +69,25 @@ Patients being treated with medications known to inhibit CYP3A4 isozymes should 
 
 To assure safe and effective use of midazolam HCl syrup, the following information and instructions should be communicated to the patient when appropriate:
 
-1. Inform your physician about any alcohol consumption and medicine you are now taking, especially blood pressure medication, antibiotics, and protease inhibitors, including drugs you buy without a prescription.
-   Alcohol has an increased effect when consumed with benzodiazepines; therefore, caution should be exercised regarding simultaneous ingestion of alcohol during benzodiazepine treatment.
-2. Inform your physician if you are pregnant or are planning to become pregnant.
-3. Inform your physician if you are nursing.
-4. Patients should be informed of the pharmacological effects of midazolam HCl syrup, such as sedation and amnesia, which in some patients may be profound.
-   The decision as to when patients who have received midazolam HCl syrup, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
-5. Midazolam HCl syrup should not be taken in conjunction with grapefruit juice.
-6. For pediatric patients, particular care should be taken to assure safe ambulation.
+1.
+Inform your physician about any alcohol consumption and medicine you are now taking, especially blood pressure medication, antibiotics, and protease inhibitors, including drugs you buy without a prescription.
+Alcohol has an increased effect when consumed with benzodiazepines; therefore, caution should be exercised regarding simultaneous ingestion of alcohol during benzodiazepine treatment.
+
+2.
+Inform your physician if you are pregnant or are planning to become pregnant.
+
+3.
+Inform your physician if you are nursing.
+
+4.
+Patients should be informed of the pharmacological effects of midazolam HCl syrup, such as sedation and amneesia, which in some patients may be profound.
+The decision as to when patients who have received midazolam HCl syrup, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
+
+5.
+Midazolam HCl syrup should not be taken in conjunction with grapefruit juice.
+
+6.
+For pediatric patients, particular care should be taken to assure safe ambulation.
 
 ## Drug Interactions:
 
@@ -85,6 +96,7 @@ To assure safe and effective use of midazolam HCl syrup, the following informati
 Caution is advised when midazolam is administered concomitantly with drugs that are known to inhibit the cytochrome P450 3A4 enzyme system (ie, some drugs in the drug classes of azole antimycotics, protease inhibitors, calcium channel antagonists, and macrolide antibiotics).
 Drugs such as diltiazem, erythromycin, fluconazole, itraconazole, ketoconazole, saquinavir, and verapamil were shown to significantly increase the Cmax and AUC of orally administered midazolam.
 These drug interactions may result in increased and prolonged sedation due to a decrease in plasma clearance of midazolam.
+
 Although not studied, the potent cytochrome P450 3A4 inhibitors ritonavir and nelfinavir may cause intense and prolonged sedation and respiratory depression due to a decrease in plasma clearance of midazolam.
 Caution is advised when midazolam HCl syrup is used concomitantly with these drugs.
 Dose adjustments should be considered and possible prolongation and intensity of effect should be anticipated (see PHARMACOKINETICS: Drug-Drug Interactions).
@@ -122,7 +134,7 @@ These tumors were found after chronic administration, whereas human use will ord
 
 ### Mutagenesis:
 
-Midazolam did not have mutagenic activity in Salmonella typhimurium (5 bacterial strains), Chinese hamster lung cells (V79), human lymphocytes or in the micronucleus test in mice.
+Midazolam did not have mutagenic activity in Salmonella typhimurium(5 bacterial strains), Chinese hamster lung cells (V79), human lymphocytes or in the micronucleus test in mice.
 
 ### Impairment of Fertility:
 
@@ -164,7 +176,7 @@ Until further information is available it is recommended that this product shoul
 
 ## Use in Patients With Heart Disease:
 
-Following oral administration of 7.5 mg of midazolam to adult patients with congestive heart failure, the half-life of midazolam was 43% higher than in control subjects.
-One study suggests that hypercarbia or hypoxia following premedication with oral midazolam might pose a risk to children with congenital heart disease and pulmonary hypertension, although there are no known reports of pulmonary hypertensive crises that had been triggered by premedication.
-In the study, 22 children were premedicated with oral midazolam (0.75 mg/kg) or IM morphine plus scopolamine prior to elective repair of congenital cardiac defects.
-Both premedication regimens increased PtcCO2 and decreased SpO2 and respiratory rates preferentially in patients with pulmonary hypertension.
+- Following oral administration of 7.5 mg of midazolam to adult patients with congestive heart failure, the half-life of midazolam was 43% higher than in control subjects.
+  One study suggests that hypercarbia or hypoxia following premedication with oral midazolam might pose a risk to children with congenital heart disease and pulmonary hypertension, although there are no known reports of pulmonary hypertensive crises that had been triggered by premedication.
+  In the study, 22 children were premedicated with oral midazolam (0.75 mg/kg) or IM morphine plus scopolamine prior to elective repair of congenital cardiac defects.
+  Both premedication regimens increased PtcCO2 and decreased SpO2 and respiratory rates preferentially in patients with pulmonary hypertension.
