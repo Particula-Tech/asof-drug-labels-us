@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 25 mg Capsules Bottle Label
+# PRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label
 
 TARO
 
@@ -10,11 +10,11 @@ ClomiPRAMINE Hydrochloride Capsules USP
 
 25 mg
 
-Dispense with Medication Guide
+Dispense the accompanying medication guide to each patient.
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Capsules Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg Capsule Bottle Label
 
 TARO
 
@@ -26,11 +26,11 @@ ClomiPRAMINE Hydrochloride Capsules USP
 
 50 mg
 
-Dispense with Medication Guide
+Dispense the accompanying medication guide to each patient.
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 75 mg Capsules Bottle Label
+# PRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Label
 
 TARO
 
@@ -42,6 +42,6 @@ ClomiPRAMINE Hydrochloride Capsules USP
 
 75 mg
 
-Dispense with Medication Guide
+Dispense the accompanying medication guide to each patient.
 
 Rx only

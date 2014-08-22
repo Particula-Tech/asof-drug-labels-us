@@ -3,7 +3,7 @@
 Clomipramine hydrochloride capsules USP is an antiobsessional drug that belongs to the class (dibenzazepine) of pharmacologic agents known as tricyclic antidepressants.
 Clomipramine hydrochloride is available as capsules of 25, 50 and 75 mg for oral administration.
 
-Clomipramine hydrochloride USP is 3-chloro-5-[3-(dimethylamino)propyl]-10,11-dihydro-5H-dibenz[b,f]azepine monohydrochloride, and its structural formula is:
+Clomipramine hydrochloride USP is 3-chloro-5-[3-(dimethylamino)propyl]-10,11-dihydro-5H-dibenz[b,f] azepine monohydrochloride, and its structural formula is:
 
 |  | C19H23ClN2∙HCl Molecular weight: 351.31 |
 | --- | --- |
