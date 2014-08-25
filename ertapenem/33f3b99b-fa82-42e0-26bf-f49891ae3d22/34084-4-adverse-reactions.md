@@ -96,7 +96,7 @@ Table 4: Incidence (%) of Adverse Experiences Reported During Study Therapy Plus
 
 Additional adverse experiences that were reported in this prophylaxis trial with INVANZ, regardless of causality, with an incidence >0.5% within each body system are listed below:
 
-Gastrointestinal Disorders:C. difficile infection or colitis, dry mouth, hematochezia
+Gastrointestinal Disorders: C. difficile infection or colitis, dry mouth, hematochezia
 
 General Disorders and Administration Site Condition: crepitations
 
@@ -168,6 +168,8 @@ Vascular Disorders: phlebitis.
 
 The following additional adverse reactions have been identified during the post-approval use of INVANZ.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal Disorders: teeth staining
 
 Immune System Disorders: anaphylaxis including anaphylactoid reactions
 
