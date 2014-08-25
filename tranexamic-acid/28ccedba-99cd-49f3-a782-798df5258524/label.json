@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203521"
+  ],
+  "inn": "tranexamic-acid",
+  "labeler": "Heritage Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-166-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tranexamic acid",
+      "name": "Tranexamic Acid"
+    }
+  ],
+  "setid": "28ccedba-99cd-49f3-a782-798df5258524",
+  "source": "dailymed"
+}
