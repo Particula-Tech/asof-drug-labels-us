@@ -8,7 +8,7 @@ Lidocaine Ointment 5% should be used with extreme caution in the presence of sep
 
 # PRECAUTIONS
 
-## General
+## General:
 
 The safety and effectiveness of lidocaine depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
 (See WARNINGS and ADVERSE REACTIONS).
@@ -25,7 +25,7 @@ Since it is not known whether amide-type local anesthetics may trigger this reac
 Early unexplained signs of tachycardia, tachypnea, labile blood pressure and metabolic acidosis may precede temperature elevation.
 Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and institution of treatment, including oxygen therapy, indicated supportive measures and dantrolene (consult dantrolene sodium intravenous package insert before using).
 
-## Information for Patients
+## Information for Patients:
 
 When topical anesthetics are used in the mouth, the patient should be aware that the production of topical anesthesia may impair swallowing and thus enhance the danger of aspiration.
 For this reason, food should not be ingested for 60 minutes following the use of local anesthetic preparations in the mouth or throat area.
@@ -34,11 +34,11 @@ This is particularly important in children because of their frequency of eating.
 Numbness of the tongue or buccal mucosa may enhance the danger of unintentional biting trauma.
 Food and chewing gum should not be taken while the mouth or throat area is anesthetized.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, mutagenesis, impairment of fertility:
 
 Studies of lidocaine in animals to evaluate the carcinogenic and mutagenic potential or the effect on fertility have not been conducted.
 
-## Use in Pregnancy
+## Use in Pregnancy:
 
 Teratogenic Effects.
 Pregnancy Category B. Reproduction studies have been performed in rats at doses up to 6.6 times the human dose and have revealed no evidence of harm to the fetus caused by lidocaine.
@@ -46,17 +46,17 @@ There are, however, no adequate and well-controlled studies in pregnant women.
 Animal reproduction studies are not always predictive of human response.
 General consideration should be given to this fact before administering lidocaine to women of childbearing potential, especially during early pregnancy when maximum organogenesis takes place.
 
-## Labor and Delivery
+## Labor and Delivery:
 
 Lidocaine is not contraindicated in labor and delivery.
 Should Lidocaine Ointment 5% be used concomitantly with other products containing lidocaine, the total dose contributed by all formulations must be kept in mind.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when lidocaine is administered to a nursing woman.
 
-## Pediatric use
+## Pediatric use:
 
 Dosage in children should be reduced, commensurate with age, body weight and physical condition.
 Caution must be taken to avoid overdosage when applying Lidocaine Ointment 5% to large areas of injured or abraded skin, since the systemic absorption of lidocaine may be increased under such conditions.

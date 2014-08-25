@@ -5,17 +5,17 @@ These adverse experiences are, in general, dose-related and may result from high
 Serious adverse experiences are generally systemic in nature.
 The following types are those most commonly reported:
 
-## Central nervous system
+## Central nervous system:
 
 CNS manifestations are excitatory and/or depressant and may be characterized by lightheadedness, nervousness, apprehension, euphoria, confusion, dizziness, drowsiness, tinnitus, blurred or double vision, vomiting, sensations of heat, cold or numbness, twitching, tremors, convulsions, unconsciousness, respiratory depression and arrest.
 The excitatory manifestations may be very brief or may not occur at all, in which case the first manifestation of toxicity may be drowsiness merging into unconsciousness and respiratory arrest.
 Drowsiness following the administration of lidocaine is usually an early sign of a high blood level of the drug and may occur as a consequence of rapid absorption.
 
-## Cardiovascular system
+## Cardiovascular system:
 
 Cardiovascular manifestations are usually depressant and are characterized by bradycardia, hypotension, and cardiovascular collapse, which may lead to cardiac arrest.
 
-## Allergic
+## Allergic:
 
 Allergic reactions are characterized by cutaneous lesions, urticaria, edema or anaphylactoid reactions.
 Allergic reactions may occur as a result of sensitivity either to the local anesthetic agent or to other components in the formulation.

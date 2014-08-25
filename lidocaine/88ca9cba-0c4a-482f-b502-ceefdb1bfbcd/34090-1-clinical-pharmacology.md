@@ -1,21 +1,21 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of action
+## Mechanism of action:
 
 Lidocaine stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action.
 
-## Onset of anesthesia
+## Onset of anesthesia:
 
 Lidocaine Ointment 5% effects local, topical anesthesia.
 The onset of action is 3-5 minutes.
 It is ineffective when applied to intact skin.
 
-## Hemodynamics
+## Hemodynamics:
 
 Excessive blood levels may cause changes in cardiac output, total peripheral resistance, and mean arterial pressure.
 These changes may be attributable to a direct depressant effect of the local anesthetic agent on various components of the cardiovascular system.
 
-## Pharmacokinetics and metabolism
+## Pharmacokinetics and metabolism:
 
 Lidocaine may be absorbed following topical administration to mucous membranes, its rate and extent of absorption depending upon the specific site of application, duration of exposure, concentration, and total dosage.
 In general, the rate of absorption of local anesthetic agents following topical application occurs most rapidly after intratracheal administration.

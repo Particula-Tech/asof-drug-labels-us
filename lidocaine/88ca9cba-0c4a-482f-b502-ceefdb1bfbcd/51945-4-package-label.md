@@ -22,8 +22,6 @@ FOUGERA®
 
 LIDOCAINE OINTMENT USP, 5%
 
-Laminate Tube with
-
-Child-Resistant Cap
+Laminate Tube with Child-Resistant Cap
 
 DO NOT USE IN THE EYES NET WT 35.44 g (1¼ Oz)

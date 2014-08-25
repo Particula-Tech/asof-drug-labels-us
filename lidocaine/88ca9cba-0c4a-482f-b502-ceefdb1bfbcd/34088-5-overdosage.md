@@ -3,7 +3,7 @@
 Acute emergencies from local anesthetics are generally related to high plasma levels encountered during therapeutic use of local anesthetics.
 (see ADVERSE REACTIONS, WARNINGS, and PRECAUTIONS).
 
-## Management of local anesthetic emergencies
+## Management of local anesthetic emergencies:
 
 The first consideration is prevention, best accomplished by careful and constant monitoring of cardiovascular and respiratory vital signs and the patient's state of consciousness after each local anesthetic administration.
 At the first sign of change, oxygen should be administered.
