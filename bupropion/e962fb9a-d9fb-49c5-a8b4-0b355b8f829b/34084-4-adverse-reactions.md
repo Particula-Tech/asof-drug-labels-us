@@ -8,7 +8,8 @@ The following adverse reactions are discussed in greater detail in other section
 - Hypertension [see Warnings and Precautions (5.4)]
 - Activation of mania or hypomania [see Warnings and Precautions (5.5)]
 - Psychosis and other neuropsychiatric reactions [see Warnings and Precautions (5.6)]
-- Hypersensitivity reactions [see Warnings and Precautions (5.7)]
+- Angle-closure glaucoma [see Warnings and Precautions (5.7)]
+- Hypersensitivity reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -39,7 +40,7 @@ Reported adverse reactions were classified using a COSTART-based Dictionary.
 Table 3.
 Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency Than Placebo in Controlled Clinical Trials
 
-| Body System/ Adverse Reaction | Bupropion Hydrochloride Extended-Release Tablets (SR) 300 mg/day (n = 376) | Bupropion Hydrochloride Extended-Release Tablets (SR) 400 mg/day (n = 114) | Placebo (n = 385) |
+| Body System/ Adverse Reaction | Bupropion Hydrochloride Extended- Release Tablets (SR) 300 mg/day (n = 376) | Bupropion Hydrochloride Extended- Release Tablets (SR) 400 mg/day (n = 114) | Placebo (n = 385) |
 | --- | --- | --- | --- |
 | Body (General) |  |  |  |
 | Headache | 26% | 25% | 23% |
@@ -136,7 +137,7 @@ Changes in Body Weight: In placebo-controlled trials, subjects experienced weigh
 Table 4.
 Incidence of Weight Gain and Weight Loss (≥5 lbs.) in Placebo-Controlled Trials
 
-| Weight Change | Bupropion Hydrochloride Extended-Release Tablets (SR) 300 mg/day (n = 339) | Bupropion Hydrochloride Extended-Release Tablets (SR) 400 mg/day (n = 112) | Placebo (n = 347) |
+| Weight Change | Bupropion Hydrochloride Extended- Release Tablets (SR) 300 mg/day (n = 339) | Bupropion Hydrochloride Extended- Release Tablets (SR) 400 mg/day (n = 112) | Placebo (n = 347) |
 | --- | --- | --- | --- |
 | Gained >5 lbs | 3% | 2% | 4% |
 | Lost >5 lbs | 14% | 19% | 6% |
@@ -150,7 +151,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body (General): Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
-These symptoms may resemble serum sickness [see Warnings and Precautions (5.7)].
+These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
 Cardiovascular: Complete atrioventricular block, extrasystoles, hypotension, hypertension (in some cases severe), phlebitis, and pulmonary embolism.
 
@@ -169,7 +170,7 @@ Nervous System: Abnormal electroencephalogram (EEG), aggression, akinesia, aphas
 
 Respiratory: Pneumonia.
 
-Skin: Alopecia, angioedema, exfoliative dermatitis, hirsutism, and Stevens- Johnson syndrome.
+Skin: Alopecia, angioedema, exfoliative dermatitis, hirsutism, and Stevens-Johnson syndrome.
 
 Special Senses: Deafness, increased intraocular pressure, and mydriasis.
 

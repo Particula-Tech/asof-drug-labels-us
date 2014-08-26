@@ -29,6 +29,11 @@ Advise patients to minimize or avoid use of alcohol.
 
 As the dose is increased during initial titration to doses above 150 mg per day, instruct patients to take bupropion hydrochloride extended-release tablets (SR) in 2 divided doses, preferably with at least 8 hours between successive doses, to minimize the risk of seizures.
 
+Angle-Closure Glaucoma: Patients should be advised that taking bupropion hydrochloride extended-release tablets (SR) can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open angle-glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
+
 Bupropion-Containing Products: Educate patients that bupropion hydrochloride extended-release tablets (SR) contain the same active ingredient (bupropion hydrochloride) found in ZYBAN®, which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (SR) should not be used in combination with ZYBAN® or any other medications that contain bupropion (such as WELLBUTRIN®, the immediate-release formulation, and WELLBUTRIN XL® or FORFIVO XL™, the extended-release formulations, and APLENZIN®, the extended-release formulation of bupropion hydrobromide).
 In addition, there are a number of generic bupropion HCl products for the immediate-, sustained-, and extended-release formulations.
 

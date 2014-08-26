@@ -1,4 +1,6 @@
-# MEDICATION GUIDE Bupropion Hydrochloride Extended-Release Tablets (SR), 200 mg
+# MEDICATION GUIDE
+
+Bupropion Hydrochloride Extended-Release Tablets (SR), 200 mg
 
 Read this Medication Guide carefully before you start taking bupropion hydrochloride extended-release tablets (SR) and each time you get a refill.
 There may be new information.
@@ -18,11 +20,14 @@ Talk to your healthcare provider or your family member's healthcare provider abo
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-- 2.Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+- 1.
+  Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+- 2.
+  Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+- 3.
+  How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
     This is very important when an antidepressant medicine is started or when the dose is changed.
   - Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
@@ -103,13 +108,20 @@ If you have any of the above symptoms of mania, call your healthcare provider.
 - Unusual thoughts or behaviors.
   Some patients have unusual thoughts or behaviors while taking bupropion hydrochloride extended-release tablets (SR), including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
+- Visual problems
+  - eye pain
+  - changes in vision
+  - swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
 - Severe allergic reactions.
   Some people can have severe allergic reactions to bupropion hydrochloride extended-release tablets (SR).
   Stop taking bupropion hydrochloride extended-release tablets (SR) and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
   These could be signs of a serious allergic reaction.
 
 What are bupropion hydrochloride extended-release tablets (SR)?
-
 Bupropion hydrochloride extended-release tablets (SR) are a prescription medicine used to treat adults with a certain type of depression called major depressive disorder.
 
 Who should not take bupropion hydrochloride extended-release tablets (SR)?
@@ -245,3 +257,10 @@ FORFIVO XL™ is a trademark of Edgemont Pharmaceuticals, LLC.
 APLENZIN® is a registered trademark of sanofi-aventis U.S. LLC.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Mfg. by: IMPAX Laboratories, Inc. Hayward, CA 94544 USA
+
+Dist. by: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
+
+444-15 Rev.
+07/2014
