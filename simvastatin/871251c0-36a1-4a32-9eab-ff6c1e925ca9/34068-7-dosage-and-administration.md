@@ -32,24 +32,26 @@ Patients taking Amiodarone, Amlodipine or Ranolazine
 The recommended dosage is 40 mg/day in the evening [see Dosage and Administration, Restricted Dosing for 80 mg (2.2)].
 Simvastatin tablets should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable.
 
+Simvastatin exposure is approximately doubled with concomitant use of lomitapide; therefore, the dose of simvastatin tablets should be reduced by 50% if initiating lomitapide.
+Simvastatin tablets dosage should not exceed 20 mg/day (or 40 mg/day for patients who have previously taken simvastatin tablets 80 mg/day chronically, e.g., for 12 months or more, without evidence of muscle toxicity) while taking lomitapide.
+
 ## 2.5 Adolescents (10 to 17 years of age) with Heterozygous Familial Hypercholesterolemia
 
 The recommended usual starting dose is 10 mg once a day in the evening.
 The recommended dosing range is 10 to 40 mg/day; the maximum recommended dose is 40 mg/day.
 Doses should be individualized according to the recommended goal of therapy [see NCEP Pediatric Panel Guidelines National Cholesterol Education Program (NCEP): Highlights of the Report of the Expert Panel on Blood Cholesterol Levels in Children and Adolescents.
-Pediatrics.
-89(3):495-501.
+Pediatrics 89(3):495-501.
 1992. and Clinical Studies (14.2)].
 Adjustments should be made at intervals of 4 weeks or more.
 
 ## 2.6 Patients with Renal Impairment
 
-Because simvastatin tablet does not undergo significant renal excretion, modification of dosage should not be necessary in patients with mild to moderate renal impairment.
+Because simvastatin tablets do not undergo significant renal excretion, modification of dosage should not be necessary in patients with mild to moderate renal impairment.
 However, caution should be exercised when simvastatin tablets are administered to patients with severe renal impairment; such patients should be started at 5 mg/day and be closely monitored [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-## 2.7 Chinese Patients Taking Lipid-Modifying Doses (≥ 1 g/day Niacin) of Niacin-Containing Products
+## 2.7 Chinese Patients Taking Lipid-Modifying Doses (greater than or equal to 1 g/day Niacin) of Niacin-Containing Products
 
-Because of an increased risk for myopathy, in Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses (≥ 1 g/day niacin) of niacin-containing products, caution should be used when treating Chinese patients with simvastatin doses exceeding 20 mg/day coadministered with lipid-modifying doses of niacin-containing products.
+Because of an increased risk for myopathy, in Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses (greater than or equal to 1 g/day niacin) of niacin-containing products, caution should be used when treating Chinese patients with simvastatin doses exceeding 20 mg/day coadministered with lipid-modifying doses of niacin-containing products.
 Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
 The cause of the increased risk of myopathy is not known.
 It is also unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients.

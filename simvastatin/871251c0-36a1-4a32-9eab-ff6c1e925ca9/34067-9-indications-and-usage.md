@@ -19,7 +19,7 @@ Simvastatin tablets are indicated to:
 - Reduce elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (Apo B), and triglycerides (TG), and to increase high-density lipoprotein cholesterol (HDL-C) in patients with primary hyperlipidemia (Fredrickson type IIa, heterozygous familial and nonfamilial) or mixed dyslipidemia (Fredrickson type IIb).
 - Reduce elevated TG in patients with hypertriglyceridemia (Fredrickson type lV hyperlipidemia).
 - Reduce elevated TG and VLDL-C in patients with primary dysbetalipoproteinemia (Fredrickson type III hyperlipidemia).
-- Reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable.
+- Reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia (HoFH) as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable.
 
 ## 1.3 Adolescent Patients with Heterozygous Familial Hypercholesterolemia (HeFH)
 
@@ -36,4 +36,4 @@ The optimal age at which to initiate lipid-lowering therapy to decrease the risk
 
 ## 1.4 Limitations of Use
 
-Simvastatin tablet has not been studied in conditions where the major abnormality is elevation of chylomicrons (i.e., hyperlipidemia Fredrickson types I and V).
+Simvastatin tablets have not been studied in conditions where the major abnormality is elevation of chylomicrons (i.e., hyperlipidemia Fredrickson types I and V).

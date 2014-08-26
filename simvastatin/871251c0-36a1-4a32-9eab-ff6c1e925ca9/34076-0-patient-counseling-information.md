@@ -7,16 +7,16 @@ Patients should also be advised to inform other healthcare professionals prescri
 
 ## 17.1 Muscle Pain
 
-All patients starting therapy with simvastatin tablets should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing simvastatin.
+All patients starting therapy with simvastatin tablets should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing simvastatin tablets.
 
 Patients using the 80-mg dose should be informed that the risk of myopathy, including rhabdomyolysis, is increased with use of the 80-mg dose.
-The risk of myopathy, including rhabdomyolysis, occurring with use of simvastatin tablets are increased when taking certain types of medication or consuming larger quantities of grapefruit juice.
+The risk of myopathy, including rhabdomyolysis, occurring with use of simvastatin tablets are increased when taking certain types of medication or consuming grapefruit juice.
 Patients should discuss all medication, both prescription and over the counter, with their healthcare professional.
 
 ## 17.2 Liver Enzymes
 
 It is recommended that liver function tests be performed before the initiation of simvastatin tablets, and thereafter when clinically indicated.
-All patients treated with simvastatin should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
+All patients treated with simvastatin tablets should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 
 ## 17.3 Pregnancy
 
@@ -31,23 +31,6 @@ Patients who have a lipid disorder and are breastfeeding should be advised to di
 
 Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
-India.
+Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
 
-10 1331 8 644882 Issued February 2013
-
-Manufactured By:
-
-Intas Pharmaceuticals Limited,
-
-Plot No. 5, 6 & 7, Pharmez,
-
-Sarkhej-Bavla, National Highway No. 8-A,
-
-Near Village Matoda, Tal Sanand,
-
-Ahmedabad - 382 213, Gujarat, India
-
-51 1118 0 700311
-
-Issued July 2011
+10 9351 0 653415 Issued April 2014

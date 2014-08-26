@@ -43,7 +43,7 @@ Drug Interactions
 The risk of myopathy and rhabdomyolysis is increased by high levels of statin activity in plasma.
 Simvastatin is metabolized by the cytochrome P450 isoform 3A4.
 Certain drugs which inhibit this metabolic pathway can raise the plasma levels of simvastatin and may increase the risk of myopathy.
-These include itraconazole, ketoconazole, posaconazole, voriconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, or grapefruit juice [See Clinical Pharmacology (12.3).].
+These include itraconazole, ketoconazole, posaconazole, voriconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, cobicistat-containing products, or grapefruit juice [See Clinical Pharmacology (12.3).].
 Combination of these drugs with simvastatin is contraindicated.
 If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy with simvastatin must be suspended during the course of treatment.
 [See Contraindications (4) and Drug Interactions (7.1).]
@@ -54,7 +54,7 @@ Caution should be used when prescribing other fibrates with simvastatin, as thes
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing simvastatin with colchicine [see Drug Interactions (7.7).]
 
-The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates or ≥1 g/day of niacin), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 3 in Clinical Pharmacology (12.3)].
+The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates, ≥1 g/day of niacin, or, for patients with HoFH, lomitapide), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 3 in Clinical Pharmacology (12.3)] [also see Dosage and Administration, Patients with Homozygous Familial Hypercholesterolemia (2.4)]
 
 Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
 In an ongoing, double-blind, randomized cardiovascular outcomes trial, an independent safety monitoring committee identified that the incidence of myopathy is higher in Chinese compared with non-Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses of a niacin-containing product.
@@ -62,15 +62,16 @@ Caution should be used when treating Chinese patients with simvastatin in doses 
 Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin- containing products.
 It is unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients [see Drug Interactions (7.4)].
 
-Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3), Drug Interactions (7), Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3, 2.4)Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-TABLE 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
+Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
-| Strong CYP3A4 Inhibitors, e.g.:ItraconazoleKetoconazolePosaconazoleVoriconazoleErythromycinClarithromycinTelithromycinHIV protease inhibitorsBoceprevirTelaprevirNefazodoneGemfibrozilCyclosporineDanazol | Contraindicated with simvastatin |
+| Strong CYP3A4 Inhibitors, e.g.:ItraconazoleKetoconazolePosaconazoleVoriconazoleErythromycinClarithromycinTelithromycinHIV protease inhibitorsBoceprevirTelaprevirNefazodoneCobicistat-containing productsGemfibrozilCyclosporineDanazol | Contraindicated with simvastatin |
 | VerapamilDiltiazemDronedarone | Do not exceed 10 mg simvastatin daily |
 | AmiodaroneAmlodipineRanolazine | Do not exceed 20 mg simvastatin daily |
+| Lomitapide | For patients with HoFH, do not exceed 20 mg simvastatin dailyFor patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 40 mg simvastatin when taking lomitapide. |
 | Grapefruit juice | Avoid grapefruit juice |
 
 ## 5.2 Liver Dysfunction
@@ -98,7 +99,7 @@ Note that ALT may emanate from muscle, therefore ALT rising with CK may indicate
 The drug should be used with caution in patients who consume substantial quantities of alcohol and/or have a past history of liver disease.
 Active liver diseases or unexplained transaminase elevations are contraindications to the use of simvastatin.
 
-As with other lipid-lowering agents, moderate (less than 3X ULN) elevations of serum transaminases have been reported following therapy with simvastatin.
+Moderate (less than 3X ULN) elevations of serum transaminases have been reported following therapy with simvastatin.
 These changes appeared soon after initiation of therapy with simvastatin, were often transient, were not accompanied by any symptoms and did not require interruption of treatment.
 
 ## 5.3 Endocrine Function

@@ -10,9 +10,9 @@ The most commonly reported adverse reactions (incidence ≥5%) in simvastatin co
 
 Scandinavian Simvastatin Survival Study
 
-In 4S involving 4,444 (age range 35 to 71 years, 19% women, 100% Caucasians) treated with 20 to 40 mg/day of simvastatin tablets (n=2,221) or placebo (n=2,223) over a median of 5.4 years, adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 2.
+In 4S involving 4,444 (age range 35 to 71 years, 19% women, 100% Caucasians) treated with 20 to 40 mg/day of simvastatin (n=2,221) or placebo (n=2,223) over a median of 5.4 years, adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 2.
 
-TABLE 2: Adverse Reactions Reported Regardless of Causality by ≥2% of Patients Treated with Simvastatin Tablets and Greater than Placebo in 4S
+Table 2: Adverse Reactions Reported Regardless of Causality by ≥2% of Patients Treated with Simvastatin Tablets and Greater than Placebo in 4S
 
 |  | Simvastatin Tablets (N = 2,221) % | Placebo (N = 2,223) % |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ Adolescent Patients (ages 10 to 17 years)
 
 In a 48-week, controlled study in adolescent boys and girls who were at least 1 year post-menarche, 10 to 17 years of age (43.4% female, 97.7% Caucasians, 1.7% Hispanics, 0.6% Multiracial) with heterozygous familial hypercholesterolemia (n=175), treated with placebo or simvastatin tablets (10 to 40 mg daily), the most common adverse reactions observed in both groups were upper respiratory infection, headache, abdominal pain, and nausea [see Use in Specific Populations (8.4) and Clinical Studies (14.2)].
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 Because the below reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The following additional adverse reactions have been identified during postapproval use of simvastatin: pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), dizziness, muscle cramps, myalgia, pancreatitis, paresthesia, peripheral neuropathy, vomiting, anemia, erectile dysfunction, interstitial lung disease, rhabdomyolysis, hepatitis/jaundice, fatal and non-fatal hepatic failure, and depression.

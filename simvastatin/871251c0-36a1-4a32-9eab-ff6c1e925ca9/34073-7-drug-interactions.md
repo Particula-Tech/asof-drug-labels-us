@@ -1,6 +1,6 @@
 # 7. DRUG INTERACTIONS
 
-## 7.1 Strong CYP3A4 Inhibitors, cyclosporine, or danazol
+## 7.1 Strong CYP3A4 Inhibitors, Cyclosporine, or Danazol
 
 Strong CYP3A4 inhibitors: Simvastatin, like several other inhibitors of HMG-CoA reductase, is a substrate of CYP3A4.
 Simvastatin is metabolized by CYP3A4 but has no CYP3A4 inhibitory activity; therefore it is not expected to affect the plasma concentrations of other drugs metabolized by CYP3A4.
