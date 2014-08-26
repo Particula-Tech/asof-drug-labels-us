@@ -34,6 +34,10 @@ Metastatic Renal Cell Carcinoma (mRCC)
 
 The recommended dose is 10 mg/kg every 2 weeks in combination with interferon alfa.
 
+Cervical Cancer
+
+The recommended dose of Avastin is 15 mg/kg every 3 weeks as an intravenous infusion administered in combination with one of the following chemotherapy regimens: paclitaxel and cisplatin, or paclitaxel and topotecan.
+
 ## 2.3 Preparation for Administration
 
 Use appropriate aseptic technique.
@@ -49,17 +53,18 @@ There are no recommended dose reductions.
 
 Discontinue Avastin for:
 
-- Gastrointestinal perforations (gastrointestinal perforations, fistula formation in the gastrointestinal tract, intra-abdominal abscess), fistula formation involving an internal organ [See Boxed Warning, Warnings and Precautions (5.1, 5.4).]
-- Wound dehiscence and wound healing complications requiring medical intervention [See Warnings and Precautions (5.2).]
-- Serious hemorrhage (i.e., requiring medical intervention) [See Boxed Warning, Warnings and Precautions (5.3).]
+- Gastrointestinal perforations (gastrointestinal perforations, fistula formation in the gastrointestinal tract, intra-abdominal abscess), fistula formation involving an internal organ [See Boxed Warning, Warnings and Precautions (5.1, 5.2).]
+- Wound dehiscence and wound healing complications requiring medical intervention [See Warnings and Precautions (5.3).]
+- Serious hemorrhage (i.e., requiring medical intervention) [See Boxed Warning, Warnings and Precautions (5.4).]
 - Severe arterial thromboembolic events [See Warnings and Precautions (5.5).]
-- Hypertensive crisis or hypertensive encephalopathy [See Warnings and Precautions (5.6).]
-- Reversible posterior leukoencephalopathy syndrome (RPLS) [See Warnings and Precautions (5.7).]
-- Nephrotic syndrome [See Warnings and Precautions (5.8).]
+- Life-threatening (Grade 4) venous thromboembolic events, including pulmonary embolism [See Warnings and Precautions (5.6).]
+- Hypertensive crisis or hypertensive encephalopathy [See Warnings and Precautions (5.7).]
+- Posterior Reversible Encephalopathy Syndrome (PRES) [See Warnings and Precautions (5.8).]
+- Nephrotic syndrome [See Warnings and Precautions (5.9).]
 
 Temporarily suspend Avastin for:
 
-- At least 4 weeks prior to elective surgery [See Warnings and Precautions (5.2).]
-- Severe hypertension not controlled with medical management [See Warnings and Precautions (5.6).]
-- Moderate to severe proteinuria [See Warnings and Precautions (5.8).]
-- Severe infusion reactions [See Warnings and Precautions (5.9).]
+- At least 4 weeks prior to elective surgery [See Warnings and Precautions (5.3).]
+- Severe hypertension not controlled with medical management [See Warnings and Precautions (5.7).]
+- Moderate to severe proteinuria [See Warnings and Precautions (5.9).]
+- Severe infusion reactions [See Warnings and Precautions (5.10).]

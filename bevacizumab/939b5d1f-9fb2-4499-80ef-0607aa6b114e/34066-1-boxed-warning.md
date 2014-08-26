@@ -2,7 +2,7 @@
 
 Gastrointestinal Perforations
 
-The incidence of gastrointestinal perforation, some fatal, in Avastin-treated patients ranges from 0.3 to 2.4%.
+The incidence of gastrointestinal perforation, some fatal, in Avastin-treated patients ranges from 0.3 to 3.2%.
 Discontinue Avastin in patients with gastrointestinal perforation.
 [See Dosage and Administration (2.4), Warnings and Precautions (5.1).]
 
@@ -17,6 +17,6 @@ Do not initiate Avastin for at least 28 days after surgery and until the surgica
 
 Hemorrhage
 
-Severe or fatal hemorrhage, including hemoptysis, gastrointestinal bleeding, central nervous systems (CNS) hemorrhage, epistaxis, and vaginal bleeding occurred up to five-fold more frequently in patients receiving Avastin.
+Severe or fatal hemorrhage, including hemoptysis, gastrointestinal bleeding, central nervous systems (CNS) hemorrhage, epistaxis, and vaginal bleeding occur up to five-fold more frequently in patients receiving Avastin.
 Do not administer Avastin to patients with serious hemorrhage or recent hemoptysis.
 [See Dosage and Administration (2.4), Warnings and Precautions (5.3), Adverse Reactions (6.1).]

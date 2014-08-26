@@ -12,9 +12,9 @@ Of the 813 patients randomized to Arms 1 and 2, the median age was 60, 40% were 
 In 56% of the patients, the dominant site of disease was extra-abdominal, while the liver was the dominant site in 38% of patients.
 
 The addition of Avastin resulted in an improvement in survival across subgroups defined by age (< 65 yrs, ≥ 65 yrs) and gender.
-Results are presented in Table 4 and Figure 1.
+Results are presented in Table 5 and Figure 1.
 
-Table 4 Study 1 Efficacy Results
+Table 5 Study 1 Efficacy Results
 
 |  | IFL + Placebo | IFL + Avastin 5 mg/kg q 2 wks |
 | --- | --- | --- |
@@ -69,9 +69,9 @@ At baseline, 52% of patients were ECOG performance status (PS) 1, 44% were ECOG 
 Second-line chemotherapy regimens were generally balanced between each treatment arm.
 
 The addition of Avastin to fluoropyrimidine-based chemotherapy resulted in a statistically significant prolongation of survival and PFS; there was no significant difference in overall response rate, a key secondary outcome measure.
-Results are presented in Table 5 and Figure 2.
+Results are presented in Table 6 and Figure 2.
 
-Table 5 Study 4 Efficacy Results
+Table 6 Study 4 Efficacy Results
 
 |  | Chemotherapy | Avastin + Chemotherapy |
 | --- | --- | --- |
@@ -186,3 +186,50 @@ There was no improvement in OS based on the final analysis conducted after 444 d
 
 | Figure 4 Progression-Free Survival in Study 8 |
 | --- |
+
+## 14.6 Persistent, Recurrent, or Metastatic Carcinoma of the Cervix
+
+Study 9
+
+Patients with persistent, recurrent, or metastatic carcinoma of the cervix were evaluated in a randomized, four-arm, multi-center trial comparing Avastin plus chemotherapy versus chemotherapy alone.
+A total of 452 patients were randomized (1:1:1:1) to receive paclitaxel and Cisplatin with or without Avastin, or paclitaxel and topotecan with or without Avastin.
+
+The dosing regimens for Avastin, Paclitaxel, Cisplatin and Topotecan were as follows:
+
+- Day 1: Paclitaxel 135 mg/m2 IV over 24 hours, Day 2: cisplatin 50 mg/m2 IV plus Avastin; or Day 1: paclitaxel 175 mg/m2 IV over 3 hours, Day 2: cisplatin 50 mg/m2 IV plus Avastin; or Day 1: paclitaxel 175 mg/m2 IV over 3 hours plus cisplatin 50 mg/m2 IV plus Avastin
+- Day 1: Paclitaxel 175 mg/m2 over 3 hours plus Avastin, Days 1-3: topotecan 0.75 mg/m2 over 30 minutes
+
+Patients were treated until disease progression or unacceptable adverse events precluded further therapy.
+The main outcome measure of the study was overall survival (OS).
+Response rate (ORR) was a secondary outcome measure.
+
+The median age was 48 years (range: 20–85).
+Of the 452 patients randomized at baseline, 78% of patients were Caucasian, 80% had received prior radiation, 74% had received prior chemotherapy concurrent with radiation, and 32% had a platinum-free interval of less than 6 months.
+Patients had a GOG Performance Status (PS) of 0 (58%) or 1 (42%).
+Demographic and disease characteristics were balanced across arms.
+
+The study results for OS in patients who received chemotherapy plus Avastin as compared to chemotherapy alone are presented in Table 7 and Figure 5.
+
+| Figure 5 Study 9: Overall Survival for Chemotherapy vs. Chemotherapy plus Avastin |
+| --- |
+
+Table 7 Study 9 Efficacy Results: Chemotherapy versus Chemotherapy + Avastin
+
+|  | Chemotherapy (n=225) | Chemotherapy + Avastin (n=227) |
+| --- | --- | --- |
+| Overall Survival |  |  |
+| Median (months)Kaplan-Meier estimates. | 12.9 | 16.8 |
+| Hazard ratio [95% CI] | 0.74 [0.58;0.94] (p-valuelog-rank test (stratified). = 0.0132) |  |
+
+The overall response rate was also higher in patients who received chemotherapy plus Avastin [45% (95% CI: 39, 52)] than in patients who received chemotherapy alone [34% (95% CI: 28,40)].
+
+Table 8 Study 9 Efficacy Results: Platinum Doublet versus Nonplatinum Doublet
+
+|  | Topotecan + Paclitaxel +/- Avastin (n=223) | Cisplatin + Paclitaxel +/- Avastin (n=229) |
+| --- | --- | --- |
+| Overall Survival |  |  |
+| Median (months)Kaplan-Meier estimates. | 13.3 | 15.5 |
+| Hazard ratio [95% CI] | 1.15 [0.91, 1.46] p-value=0.23 |  |
+
+The hazard ratio for OS with Cisplatin +Paclitaxel + Avastin as compared to Cisplatin +Paclitaxel alone was 0.72 (95% CI: 0.51,1.02).
+The hazard ratio for OS with Topotecan +Paclitaxel +Avastin as compared to Topotecan +Paclitaxel alone was 0.76 (95% CI: 0.55, 1.06).

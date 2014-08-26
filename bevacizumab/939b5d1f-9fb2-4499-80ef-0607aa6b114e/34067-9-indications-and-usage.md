@@ -24,3 +24,8 @@ There are no data demonstrating an improvement in disease-related symptoms or in
 ## 1.4 Metastatic Renal Cell Carcinoma (mRCC)
 
 Avastin is indicated for the treatment of metastatic renal cell carcinoma in combination with interferon alfa.
+
+## 1.5 Persistent, Recurrent, or Metastatic Carcinoma of the Cervix
+
+Avastin in combination with paclitaxel and cisplatin or paclitaxel and topotecan is indicated for the treatment of persistent, recurrent, or metastatic carcinoma of the cervix.
+[See Clinical Studies (14.6).]

@@ -1,33 +1,33 @@
-PRINCIPAL DISPLAY PANEL - 4 mL Single-Use Vial
+# PRINCIPAL DISPLAY PANEL - 4 mL Single-Use Vial Carton
 
-NDC 50242-060-01 List No.:15734
+NDC 50242-060-01
 
 100 mg 25 mg/mL
 
-AVASTIN® (bevacizumab)
-
-For Intravenous Use
+AVASTIN® (bevacizumab) For Intravenous Use
 
 4 mL SINGLE-USE VIAL NO PRESERVATIVES.
 DISCARD UNUSED PORTION.
 
 Rx only
 
+10136404
+
 Genentech
 
-PRINCIPAL DISPLAY PANEL - 16 mL Single-Use Vial
+# PRINCIPAL DISPLAY PANEL - 16 mL Single-Use Vial Carton
 
-NDC 50242-061-01 List No.:16482
+NDC 50242-061-01
 
 400 mg 25 mg/mL
 
-AVASTIN® (bevacizumab)
-
-For Intravenous Use
+AVASTIN® (bevacizumab) For Intravenous Use
 
 16 mL SINGLE-USE VIAL NO PRESERVATIVES.
 DISCARD UNUSED PORTION.
 
 Rx only
+
+10136405
 
 Genentech

@@ -2,15 +2,17 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- Gastrointestinal Perforations [See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.1).]
-- Surgery and Wound Healing Complications [See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.2).]
-- Hemorrhage [See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.3).]
-- Non-Gastrointestinal Fistula Formation [See Dosage and Administration (2.4), Warnings and Precautions (5.4).]
+- Gastrointestinal Perforations and Fistulae [See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.1).]
+- Non-Gastrointestinal Fistulae [See Dosage and Administration (2.4), Warnings and Precautions (5.2).]
+- Surgery and Wound Healing Complications [See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.3).]
+- Hemorrhage [See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.4).]
 - Arterial Thromboembolic Events [See Dosage and Administration (2.4), Warnings and Precautions (5.5).]
-- Hypertensive Crisis [See Dosage and Administration (2.4), Warnings and Precautions (5.6).]
-- Reversible Posterior Leukoencephalopathy Syndrome [See Dosage and Administration (2.4), Warnings and Precautions (5.7).]
-- Proteinuria [See Dosage and Administration (2.4), Warnings and Precautions (5.8).]
-- Ovarian Failure [See Warnings and Precautions (5.10), Use in Specific Populations (8.6).]
+- Venous Thromboembolic Events [See Dosage and Administration (2.4), Warnings and Precautions (5.6).]
+- Hypertensive Crisis [See Dosage and Administration (2.4), Warnings and Precautions (5.7).]
+- Posterior Reversible Encephalopathy Syndrome [See Dosage and Administration (2.4), Warnings and Precautions (5.8).]
+- Proteinuria [See Dosage and Administration (2.4), Warnings and Precautions (5.9).]
+- Infusion Reactions [See Dosage and Administration (2.4), Warnings and Precautions (5.10)]
+- Ovarian Failure [See Warnings and Precautions (5.11), Use in Specific Populations (8.6).]
 
 The most common adverse reactions observed in Avastin patients at a rate > 10% and at least twice the control arm rate, are epistaxis, headache, hypertension, rhinitis, proteinuria, taste alteration, dry skin, rectal hemorrhage, lacrimation disorder, back pain and exfoliative dermatitis.
 
@@ -20,11 +22,11 @@ Across all studies, Avastin was discontinued in 8.4 to 21% of patients because o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data below reflect exposure to Avastin in 4599 patients with CRC, non-squamous NSCLC, glioblastoma, or mRCC trials including controlled (Studies 1, 2, 4, 5 and 8) or uncontrolled, single arm (Study 6) treated at the recommended dose and schedule for a median of 8 to 23 doses of Avastin.
+The data below reflect exposure to Avastin in 4817 patients with CRC, non-squamous NSCLC, glioblastoma, mRCC, or cervical cancer, including controlled (Studies 1, 2, 4, 5, 8 and 9) or uncontrolled, single arm trials (Study 6) treated at the recommended dose and schedule for a median of 6 to 23 doses of Avastin.
 [See Clinical Studies (14).]
-The population was aged 18-89 years (median 60 years), 45.4% male and 85.8% (3729/4345) White.
-The population included 2184 first- and second-line mCRC patients who received a median of 10 doses of Avastin, 480 first-line metastatic NSCLC patients who received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, and 337 mRCC patients who received a median of 16 doses of Avastin.
-These data also reflect exposure to Avastin in 363 patients with metastatic breast cancer (MBC) who received a median of 9.5 doses of Avastin, 669 female adjuvant CRC patients who received a median of 23 doses of Avastin and exposure to Avastin in 403 previously untreated patients with diffuse large B-cell lymphoma (DLBCL) who received a median of 8 doses of Avastin.
+The population was aged 18-89 years (median 59 years), 44% male and 85% White.
+The population included 2184 first- and second-line mCRC patients who received a median of 10 doses of Avastin, 480 first-line metastatic NSCLC patients who received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, 337 mRCC patients who received a median of 16 doses of Avastin, and 218 cervical cancer patients who received a median of 6 doses of Avastin.
+These data also reflect exposure to Avastin in 363 patients with metastatic breast cancer (MBC) who received a median of 9.5 doses of Avastin, 669 female adjuvant CRC patients who received a median of 23 doses of Avastin, and 403 previously untreated patients with diffuse large B-cell lymphoma (DLBCL) who received a median of 8 doses of Avastin.
 Avastin is not approved for use in MBC, adjuvant CRC, or DLBCL.
 
 Surgery and Wound Healing Complications
@@ -33,14 +35,14 @@ The incidence of post-operative wound healing and/or bleeding complications was 
 Among patients requiring surgery on or within 60 days of receiving study treatment, wound healing and/or bleeding complications occurred in 15% (6/39) of patients receiving bolus-IFL plus Avastin as compared to 4% (1/25) of patients who received bolus-IFL alone.
 
 In Study 6, events of post-operative wound healing complications (craniotomy site wound dehiscence and cerebrospinal fluid leak) occurred in patients with previously treated glioblastoma: 3/84 patients in the Avastin alone arm and 1/79 patients in the Avastin plus irinotecan arm.
-[See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.2).]
+[See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.3).]
 
 Hemorrhage
 
 The incidence of epistaxis was higher (35% vs. 10%) in patients with mCRC receiving bolus-IFL plus Avastin compared with patients receiving bolus-IFL plus placebo.
 All but one of these events were Grade 1 in severity and resolved without medical intervention.
 Grade 1 or 2 hemorrhagic events were more frequent in patients receiving bolus-IFL plus Avastin when compared to those receiving bolus-IFL plus placebo and included gastrointestinal hemorrhage (24% vs. 6%), minor gum bleeding (2% vs. 0), and vaginal hemorrhage (4% vs. 2%).
-[See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.3).]
+[See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.4).]
 
 Venous Thromboembolic Events
 
@@ -54,7 +56,10 @@ Among these patients, an additional thromboembolic event occurred in 21% (11/53)
 In a second, randomized, 4-arm study in 1401 patients with mCRC, prospectively evaluating the incidence of VTE (all grades), the overall incidence of first VTE was higher in the Avastin containing arms (13.5%) than the chemotherapy alone arms (9.6%).
 Among the 116 patients treated with anticoagulants following an initial VTE event (73 in the Avastin plus chemotherapy arms and 43 in the chemotherapy alone arms), the overall incidence of subsequent VTEs was also higher among the Avastin treated patients (31.5% vs. 25.6%).
 In this subgroup of patients treated with anticoagulants, the overall incidence of bleeding, the majority of which were Grade 1, was higher in the Avastin treated arms than the chemotherapy arms (27.4% vs. 20.9%).
-[See Dosage and Administration (2.4).]
+
+From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (Study 9), Grade 3 or 4 VTE have been reported in 10.6% of patients treated with chemotherapy and Avastin compared with 5.4% in patients receiving chemotherapy alone.
+There were no patients with Grade 5 VTE.
+[See Dosage and Administration (2.4), Warnings and Precautions (5.6).]
 
 Neutropenia and Infection
 
@@ -80,7 +85,7 @@ In an exploratory, pooled analysis of 8,273 patients treated in 7 randomized cli
 The Grade ≥ 2 proteinuria resolved in 74.2% (201 of 271) of patients.
 Avastin was re-initiated in 41.7% (113 of 271) of patients.
 Of the 113 patients who re-initiated Avastin, 47.8% (54 of 113) experienced a second episode of Grade ≥ 2 proteinuria.
-[See Warnings and Precautions (5.8).]
+[See Warnings and Precautions (5.9).]
 
 Congestive Heart Failure (CHF)
 
@@ -89,7 +94,7 @@ In patients with metastatic breast cancer (MBC), an indication for which Avastin
 Among patients receiving prior anthracyclines for MBC, the rate of CHF was 3.8% for patients receiving Avastin as compared to 0.6% for patients receiving paclitaxel alone.
 The safety of continuation or resumption of Avastin in patients with cardiac dysfunction has not been studied.
 
-In previously untreated patients with diffuse large B-cell lymphoma (DLBCL), an indication for which Avastin is not approved, the incidence of CHF and decline in left-ventricular ejection fraction (LVEF) were signficantly increased in the Avastin plus R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone) arm (n=403) compared to the placebo plus R-CHOP arm (n=379); both regimens were given for 6 to 8 cycles.
+In previously untreated patients with diffuse large B-cell lymphoma (DLBCL), an indication for which Avastin is not approved, the incidence of CHF and decline in left-ventricular ejection fraction (LVEF) were significantly increased in the Avastin plus R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone) arm (n=403) compared to the placebo plus R-CHOP arm (n=379); both regimens were given for 6 to 8 cycles.
 At the completion of R-CHOP therapy, the incidence of CHF was 10.9% in the Avastin plus R-CHOP arm compared to 5.0% in the R-CHOP alone arm [relative risk (95% CI) of 2.2 (1.3, 3.7)].
 The incidence of a LVEF event, defined as a decline from baseline of 20% or more in LVEF or a decline from baseline of 10% or more to a LVEF value of less than 50%, was also increased in the Avastin plus R-CHOP arm (10.4%) compared to the R-CHOP alone arm (5.0%).
 Time to onset of left-ventricular dysfunction or CHF was 1-6 months after initiation of therapy in at least 85% of the patients and was resolved in 62% of the patients experiencing CHF in the Avastin arm compared to 82% in the control arm.
@@ -101,7 +106,7 @@ New cases of ovarian failure were identified in 34% (32/95) of women receiving A
 After discontinuation of Avastin treatment, recovery of ovarian function at all time points during the post-treatment period was demonstrated in 22% (7/32) of the Avastin-treated women.
 Recovery of ovarian function is defined as resumption of menses, a positive serum β-HCG pregnancy test, or a FSH level < 30 mIU/mL during the post-treatment period.
 Long term effects of Avastin exposure on fertility are unknown.
-[See Warnings and Precautions (5.10), Use in Specific Populations (8.6).]
+[See Warnings and Precautions (5.11), Use in Specific Populations (8.6).]
 
 Metastatic Colorectal Cancer (mCRC)
 
@@ -201,7 +206,7 @@ In patients receiving Avastin alone (N = 84), the most frequently reported adver
 Of these, the incidence of Grade ≥ 3 adverse events was infection (10%), fatigue (4%), headache (4%), hypertension (8%) and diarrhea (1%).
 Two deaths on study were possibly related to Avastin: one retroperitoneal hemorrhage and one neutropenic infection.
 
-In patients receiving Avastin alone or Avastin plus irinotecan (N = 163), the incidence of Avastin-related adverse events (Grade 1–4) were bleeding/hemorrhage (40%), epistaxis (26%), CNS hemorrhage (5%), hypertension (32%), venous thromboembolic event (8%), arterial thromboembolic event (6%), wound-healing complications (6%), proteinuria (4%), gastrointestinal perforation (2%), and RPLS (1%).
+In patients receiving Avastin alone or Avastin plus irinotecan (N = 163), the incidence of Avastin-related adverse events (Grade 1–4) were bleeding/hemorrhage (40%), epistaxis (26%), CNS hemorrhage (5%), hypertension (32%), venous thromboembolic event (8%), arterial thromboembolic event (6%), wound-healing complications (6%), proteinuria (4%), gastrointestinal perforation (2%), and PRES (1%).
 The incidence of Grade 3–5 events in these 163 patients were bleeding/hemorrhage (2%), CNS hemorrhage (1%), hypertension (5%), venous thromboembolic event (7%), arterial thromboembolic event (3%), wound-healing complications (3%), proteinuria (1%), and gastrointestinal perforation (2%).
 
 Metastatic Renal Cell Carcinoma (mRCC)
@@ -238,6 +243,58 @@ Table 3 NCI-CTC Grades 1–5 Adverse Events in Study 8 (Occurring at Higher Inci
 
 The following adverse events were reported at a 5-fold greater incidence in the IFN-α plus Avastin arm compared to IFN-α alone and not represented in Table 3: gingival bleeding (13 patients vs. 1 patient); rhinitis (9 vs.0); blurred vision (8 vs. 0); gingivitis (8 vs. 1); gastroesophageal reflux disease (8 vs.1); tinnitus (7 vs. 1); tooth abscess (7 vs.0); mouth ulceration (6 vs. 0); acne (5 vs. 0); deafness (5 vs. 0); gastritis (5 vs. 0); gingival pain (5 vs. 0) and pulmonary embolism (5 vs. 1).
 
+Persistent, Recurrent, or Metastatic Carcinoma of the Cervix
+
+All grade adverse reactions were collected in Study 9.
+
+Grade 1-4 adverse reactions occurring where the incidence difference is ≥ 5% in patients receiving Avastin plus chemotherapy compared to chemotherapy alone are presented in Table 4.
+
+Table 4 NCI-CTC Grades 1-4 and 3-4 Adverse Reactions in Study 9 (Incidence Difference of ≥ 5% Between Treatment Arms in Chemo + Avastin vs. Chemo Alone)
+
+|  | Chemo Alone (n=222) | Chemo+Avastin (n=218) | Chemo Alone (n=222) | Chemo+Avastin (n=218) |
+| --- | --- | --- | --- | --- |
+|  | Grade 1-4 reactions |  | Grade 3-4 reactions |  |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased Appetite | 26% | 34% |  |  |
+| Hyperglycemia | 19% | 26% |  |  |
+| Hypomagnesemia | 15% | 24% |  |  |
+| Hyponatremia | 10% | 19% |  |  |
+| Hypoalbuminemia | 11% | 16% |  |  |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Fatigue | 75% | 80% |  |  |
+| Edema Peripheral | 22% | 15% |  |  |
+| Investigations |  |  |  |  |
+| Weight Decreased | 7% | 21% |  |  |
+| Blood Creatinine Increased | 10% | 16% |  |  |
+| Infections and Infestations |  |  |  |  |
+| Urinary Tract Infection | 14% | 22% |  |  |
+| Infection | 5% | 10% |  |  |
+| Vascular Disorders |  |  |  |  |
+| Hypertension | 6% | 29% | 0.5% | 11.5% |
+| Thrombosis | 3% | 10% | 2.7% | 8.3% |
+| Nervous System Disorders |  |  |  |  |
+| Headache | 13% | 22% |  |  |
+| Dysarthria | 1% | 8% |  |  |
+| Gastrointestinal Disorders |  |  |  |  |
+| Stomatitis | 10% | 15% |  |  |
+| Proctalgia | 1% | 6% |  |  |
+| Anal Fistula | — | 6% |  |  |
+| Blood and Lymphatic System Disorders |  |  |  |  |
+| Neutropenia | 6% | 12% |  |  |
+| Lymphopenia | 5% | 12% |  |  |
+| Psychiatric Disorders |  |  |  |  |
+| Anxiety | 10% | 17% |  |  |
+| Reproductive System and Breast Disorders |  |  |  |  |
+| Pelvic Pain | 8% | 14% |  |  |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Epistaxis | 1% | 17% |  |  |
+| Renal and Urinary Disorders |  |  |  |  |
+| Proteinuria | 3% | 10% |  |  |
+
+Grade 3 or 4 adverse reactions occurring at a higher incidence (≥2%) in 218 patients receiving chemotherapy plus Avastin compared to 222 patients receiving chemotherapy alone were abdominal pain (11.9% vs. 9.9%), diarrhea (5.5% vs. 2.7%), anal fistula (3.7% vs. 0%), proctalgia (2.8% vs. 0%), urinary tract infection 8.3% vs. 6.3%), cellulitis (3.2% vs. 0.5%), fatigue (14.2% vs. 9.9%), hypokalemia (7.3% vs. 4.5%), hyponatremia (3.7% vs. 1.4%), dehydration (4.1% vs. 0.5%), neutropenia (7.8% vs. 4.1%), lymphopenia (6.0% vs. 3.2%), back pain (5.5% vs. 3.2%), and pelvic pain (5.5% vs. 1.4%).
+
+There were no Grade 5 adverse reactions occurring at a higher incidence (≥2%) in patients receiving chemotherapy plus Avastin compared to patients receiving chemotherapy alone.
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for an immune response to Avastin.
@@ -256,7 +313,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Body as a Whole: Polyserositis
 
-Cardiovascular: Pulmonary hypertension, RPLS, Mesenteric venous occlusion
+Cardiovascular: Pulmonary hypertension, PRES, Mesenteric venous occlusion
 
 Eye disorders (from unapproved intravitreal use for treatment of various ocular disorders): Permanent loss of vision; Endophthalmitis (infectious and sterile); Intraocular inflammation; Retinal detachment; Increased intraocular pressure; Hemorrhage including conjunctival, vitreous hemorrhage or retinal hemorrhage; Vitreous floaters; Ocular hyperemia; Ocular pain or discomfort
 

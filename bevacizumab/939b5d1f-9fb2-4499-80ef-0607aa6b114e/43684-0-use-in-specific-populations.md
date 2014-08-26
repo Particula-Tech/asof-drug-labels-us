@@ -56,4 +56,4 @@ Long term effects of Avastin exposure on fertility are unknown.
 
 In a prospectively designed substudy of 179 premenopausal women randomized to receive chemotherapy with or without Avastin, the incidence of ovarian failure was higher in the Avastin arm (34%) compared to the control arm (2%).
 After discontinuation of Avastin and chemotherapy, recovery of ovarian function occurred in 22% (7/32) of these Avastin-treated patients.
-[See Warnings and Precautions (5.10), Adverse Reactions (6.1).]
+[See Warnings and Precautions (5.11), Adverse Reactions (6.1).]

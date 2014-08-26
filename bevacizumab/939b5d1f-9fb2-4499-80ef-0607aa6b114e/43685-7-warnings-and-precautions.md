@@ -1,19 +1,37 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Gastrointestinal Perforations
+## 5.1 Gastrointestinal Perforations and Fistulae
 
 Serious and sometimes fatal gastrointestinal perforation occurs at a higher incidence in Avastin treated patients compared to controls.
-The incidence of gastrointestinal perforation ranged from 0.3 to 2.4% across clinical studies.
+The incidence of gastrointestinal perforation ranged from 0.3 to 3.2% across clinical studies.
 [See Adverse Reactions (6.1).]
 
-The typical presentation may include abdominal pain, nausea, emesis, constipation, and fever.
-Perforation can be complicated by intra-abdominal abscess and fistula formation.
-The majority of cases occurred within the first 50 days of initiation of Avastin.
+From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (Study 9), gastrointestinal perforations were reported in 3.2% of Avastin treated patients, all of whom had a history of prior pelvic radiation.
+Fatal outcome was reported in <1% of Avastin-treated patients.
 
-Discontinue Avastin in patients with gastrointestinal perforation.
+The typical presentation may include abdominal pain, nausea, emesis, constipation, and fever.
+Perforation can be complicated by intra-abdominal abscess, fistula formation, and the need for diverting ostomies.
+The majority of cases occurred within the first 50 days of initiation of Avastin.
+Permanently discontinue Avastin in patients with gastrointestinal perforation.
+
+In Avastin clinical trials, gastrointestinal fistulae have been reported with an incidence of up to 2% in patients with metastatic colorectal cancer but were also reported less commonly in patients with other types of cancer.
+In a cervical cancer trial (Study 9), the incidence of gastrointestinal-vaginal fistulae was 8.2% in Avastin-treated patients and 0.9% in control patients, all of whom had a history of prior pelvic radiation.
+Patients who develop GI vaginal fistulas may also have bowel obstructions and require surgical intervention as well as diverting ostomies.
 [See Boxed Warning, Dosage and Administration (2.4).]
 
-## 5.2 Surgery and Wound Healing Complications
+## 5.2 Non-Gastrointestinal Fistulae
+
+Serious and sometimes fatal fistula formation involving tracheo-esophageal, bronchopleural, biliary, vaginal, renal and bladder sites occurs at a higher incidence in Avastin-treated patients compared to controls.
+Uncommon (<1%) reports of fistulae that involve areas of the body other than the gastrointestinal tract were observed in clinical trials across various indications and have also been reported in post-marketing experience.
+Most events occurred within the first 6 months of Avastin therapy.
+
+From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (Study 9), 1.8% of Avastin-treated patients and 1.4% of control patients were reported to have had non-gastrointestinal vaginal, vesical, or female genital tract fistulae.
+
+Permanently discontinue Avastin in patients with tracheoesophageal (TE) fistula or any Grade 4 fistula.
+Discontinue Avastin in patients with fistula formation involving an internal organ.
+[See Dosage and Administration (2.4).]
+
+## 5.3 Surgery and Wound Healing Complications
 
 Avastin impairs wound healing in animal models.
 [See Nonclinical Toxicology (13.2).]
@@ -33,11 +51,11 @@ Necrotizing fasciitis including fatal cases, has been reported in patients treat
 Discontinue Avastin therapy in patients who develop necrotizing fasciitis.
 [See Adverse Reactions (6.3).]
 
-## 5.3 Hemorrhage
+## 5.4 Hemorrhage
 
 Avastin can result in two distinct patterns of bleeding: minor hemorrhage, most commonly Grade 1 epistaxis; and serious, and in some cases fatal, hemorrhagic events.
 Severe or fatal hemorrhage, including hemoptysis, gastrointestinal bleeding, hematemesis, CNS hemorrhage, epistaxis, and vaginal bleeding occurred up to five-fold more frequently in patients receiving Avastin compared to patients receiving only chemotherapy.
-Across indications, the incidence of Grade ≥ 3 hemorrhagic events among patients receiving Avastin ranged from 1.2 to 4.6%.
+Across indications, the incidence of Grade ≥ 3 hemorrhagic events among patients receiving Avastin ranged from 0.4 to 6.9 %.
 [See Adverse Reactions (6.1).]
 
 Serious or fatal pulmonary hemorrhage occurred in four of 13 (31%) patients with squamous cell histology and two of 53 (4%) patients with non-squamous non-small cell lung cancer receiving Avastin and chemotherapy compared to none of the 32 (0%) patients receiving chemotherapy alone.
@@ -50,15 +68,6 @@ Do not administer Avastin to patients with recent history of hemoptysis of ≥ 1
 Discontinue Avastin in patients with hemorrhage.
 [See Boxed Warning, Dosage and Administration (2.4).]
 
-## 5.4 Non-Gastrointestinal Fistula Formation
-
-Serious and sometimes fatal non-gastrointestinal fistula formation involving tracheo-esophageal, bronchopleural, biliary, vaginal, renal and bladder sites occurs at a higher incidence in Avastin-treated patients compared to controls.
-The incidence of non-gastrointestinal perforation was ≤ 0.3% in clinical studies.
-Most events occurred within the first 6 months of Avastin therapy.
-
-Discontinue Avastin in patients with fistula formation involving an internal organ.
-[See Dosage and Administration (2.4).]
-
 ## 5.5 Arterial Thromboembolic Events
 
 Serious, sometimes fatal, arterial thromboembolic events (ATE) including cerebral infarction, transient ischemic attacks, myocardial infarction, angina, and a variety of other ATE occurred at a higher incidence in patients receiving Avastin compared to those in the control arm.
@@ -70,7 +79,15 @@ The safety of resumption of Avastin therapy after resolution of an ATE has not b
 Discontinue Avastin in patients who experience a severe ATE.
 [See Dosage and Administration (2.4).]
 
-## 5.6 Hypertension
+## 5.6 Venous Thromboembolic Events
+
+Patients treated for persistent, recurrent, or metastatic cervical cancer with Avastin may be at increased risk of venous thromboembolic events (VTE).
+
+From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (Study 9), Grade ≥ 3 VTE were reported in 10.6% of patients treated with chemotherapy and Avastin compared with 5.4% in patients receiving chemotherapy alone.
+Permanently discontinue Avastin in patients with life-threatening (Grade 4) VTE, including pulmonary embolism.
+[See Dosage and Administration (2.4), Adverse Reactions (6.1).]
+
+## 5.7 Hypertension
 
 The incidence of severe hypertension is increased in patients receiving Avastin as compared to controls.
 Across clinical studies the incidence of Grade 3 or 4 hypertension ranged from 5-18%.
@@ -83,20 +100,20 @@ Temporarily suspend Avastin in patients with severe hypertension that is not con
 Discontinue Avastin in patients with hypertensive crisis or hypertensive encephalopathy.
 [See Dosage and Administration (2.4).]
 
-## 5.7 Reversible Posterior Leukoencephalopathy Syndrome (RPLS)
+## 5.8 Posterior Reversible Encephalopathy Syndrome (PRES)
 
-RPLS has been reported with an incidence of < 0.1% in clinical studies.
+PRES has been reported with an incidence of < 0.5% in clinical studies.
 The onset of symptoms occurred from 16 hours to 1 year after initiation of Avastin.
-RPLS is a neurological disorder which can present with headache, seizure, lethargy, confusion, blindness and other visual and neurologic disturbances.
+PRES is a neurological disorder which can present with headache, seizure, lethargy, confusion, blindness and other visual and neurologic disturbances.
 Mild to severe hypertension may be present.
-Magnetic resonance imaging (MRI) is necessary to confirm the diagnosis of RPLS.
+Magnetic resonance imaging (MRI) is necessary to confirm the diagnosis of PRES.
 
-Discontinue Avastin in patients developing RPLS.
+Discontinue Avastin in patients developing PRES.
 Symptoms usually resolve or improve within days, although some patients have experienced ongoing neurologic sequelae.
-The safety of reinitiating Avastin therapy in patients previously experiencing RPLS is not known.
+The safety of reinitiating Avastin therapy in patients previously experiencing PRES is not known.
 [See Dosage and Administration (2.4).]
 
-## 5.8 Proteinuria
+## 5.9 Proteinuria
 
 The incidence and severity of proteinuria is increased in patients receiving Avastin as compared to controls.
 Nephrotic syndrome occurred in < 1% of patients receiving Avastin in clinical trials, in some instances with fatal outcome.
@@ -112,7 +129,7 @@ Discontinue Avastin in patients with nephrotic syndrome.
 Data from a postmarketing safety study showed poor correlation between UPCR (Urine Protein/Creatinine Ratio) and 24 hour urine protein (Pearson Correlation 0.39 (95% CI 0.17, 0.57).
 [See Use in Specific Populations (8.5).]
 
-## 5.9 Infusion Reactions
+## 5.10 Infusion Reactions
 
 Infusion reactions reported in the clinical trials and post-marketing experience include hypertension, hypertensive crises associated with neurologic signs and symptoms, wheezing, oxygen desaturation, Grade 3 hypersensitivity, chest pain, headaches, rigors, and diaphoresis.
 In clinical studies, infusion reactions with the first dose of Avastin were uncommon (< 3%) and severe reactions occurred in 0.2% of patients.
@@ -120,7 +137,7 @@ In clinical studies, infusion reactions with the first dose of Avastin were unco
 Stop infusion if a severe infusion reaction occurs and administer appropriate medical therapy.
 [See Dosage and Administration (2.4).]
 
-## 5.10 Ovarian Failure
+## 5.11 Ovarian Failure
 
 The incidence of ovarian failure was higher (34% vs. 2%) in premenopausal women receiving Avastin in combination with mFOLFOX chemotherapy as compared to those receiving mFOLFOX chemotherapy alone for adjuvant treatment for colorectal cancer, a use for which Avastin is not approved.
 Inform females of reproductive potential of the risk of ovarian failure prior to starting treatment with Avastin.
