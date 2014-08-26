@@ -19,4 +19,4 @@ Manufactured for: Watson Laboratories, Inc. Corona, CA 92880 USA
 
 Manufactured by: Patheon Pharmaceuticals Inc. Cincinnati, OH 45215 USA
 
-Revised: January 2013 70027374
+Revised: September 2013
