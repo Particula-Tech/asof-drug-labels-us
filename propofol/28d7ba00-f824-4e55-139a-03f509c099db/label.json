@@ -7,16 +7,13 @@
   "package_ndcs": [
     "0409-4699-24",
     "0409-4699-30",
-    "0409-4699-33",
-    "0409-4699-61",
-    "0409-4699-62",
-    "0409-4699-63"
+    "0409-4699-33"
   ],
   "products": [
     {
       "form": "INJECTION, EMULSION",
       "generic": "propofol",
-      "name": "Propofol"
+      "name": "PROPOFOL"
     }
   ],
   "setid": "28d7ba00-f824-4e55-139a-03f509c099db",
