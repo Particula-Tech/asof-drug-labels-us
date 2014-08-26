@@ -199,14 +199,14 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Revised: April 2014
+Revised: August 2014
 
 The brands listed above are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The owners of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
 Copyright 2014 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-12 IT5060YD22014
+75461-13 IT5060ZH122014
 
-75457-12 IT5400V
+75457-13 IT5400W
 
-301841-07 IT5624J
+301841-08 IT5624K

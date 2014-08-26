@@ -85,7 +85,7 @@ PRADAXA was demonstrated to be non-inferior to warfarin (dosed to target INR of 
 
 Table 9 Primary Efficacy Endpoint for RE-COVER and RE-COVER II – Modified ITTa Population
 
-|  |  | PRADAXA 150 mg twice daily N (%) | Warfarin N (%) | Hazard Ratio vs. warfarin (95% CI) |
+|  |  | PRADAXA 150 mg twice daily N (%) | Warfarin N (%) | Hazard ratio vs. warfarin (95% CI) |
 | --- | --- | --- | --- | --- |
 | RE-COVER |  | N=1274 | N=1265 |  |
 | Primary Composite Endpointb |  | 34 (2.7) | 32 (2.5) | 1.05 (0.65, 1.70) |
@@ -113,7 +113,7 @@ If the non-inferiority margin was derived based on the 50% retention of the uppe
 
 Table 10 Primary Efficacy Endpoint for RE-MEDY – Modified ITTa Population
 
-|  |  | PRADAXA 150 mg twice daily N=1430 N (%) | Warfarin N=1426 N (%) | Hazard Ratio vs. warfarin (95% CI) |
+|  |  | PRADAXA 150 mg twice daily N=1430 N (%) | Warfarin N=1426 N (%) | Hazard ratio vs. warfarin (95% CI) |
 | --- | --- | --- | --- | --- |
 | Primary Composite Endpointb |  | 26 (1.8) | 18 (1.3) | 1.44 (0.78, 2.64) |
 |  | Fatal PEc | 1 (0.07) | 1 (0.07) |  |
@@ -131,7 +131,7 @@ Based on the outcome of the primary composite endpoint (fatal PE, unexplained de
 
 Table 11 Primary Efficacy Endpoint for RE-SONATE – Modified ITTa Population
 
-|  |  | PRADAXA 150 mg twice daily N=681 N (%) | Placebo N=662 N (%) | Hazard Ratio vs. placebo (95% CI) |
+|  |  | PRADAXA 150 mg twice daily N=681 N (%) | Placebo N=662 N (%) | Hazard ratio vs. placebo (95% CI) |
 | --- | --- | --- | --- | --- |
 | Primary Composite Endpointb |  | 3 (0.4) | 37 (5.6) | 0.08 (0.02, 0.25) p-value <0.0001 |
 |  | Fatal PE and unexplained deathc | 0 | 2 (0.3) |  |

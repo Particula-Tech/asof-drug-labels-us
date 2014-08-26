@@ -95,7 +95,7 @@ Drug Interactions
 Impact of Other Drugs on Dabigatran P-gp Inducers
 
 Rifampin: Rifampin 600 mg once daily for 7 days followed by a single dose of dabigatran decreased its AUC and Cmax by 66% and 67%, respectively.
-By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to normal [see Warnings and Precautions (5.4) and Drug Interactions (7)].
+By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to normal [see Warnings and Precautions (5.5) and Drug Interactions (7)].
 
 P-gp Inhibitors
 
@@ -124,6 +124,10 @@ Dabigatran etexilate was given over 3 consecutive days, the last evening dose on
 Concomitant quinidine administration increased dabigatran’s AUC and Cmax by 53% and 56%, respectively.
 
 Clarithromycin: Coadministered clarithromycin had no impact on the exposure to dabigatran.
+
+Ticagrelor: Administration of ticagrelor modestly increases plasma concentrations of dabigatran with the magnitude of increase dependent on the dose and timing of ticagrelor administration.
+When dabigatran etexilate 110 mg twice daily was coadministered with 90 mg oral ticagrelor twice daily, the AUCτ,ss and Cmax,ss of dabigatran increased by 26% and 29%, respectively.
+When coadministered with a loading dose of 180 mg ticagrelor, the AUCτ,ss and Cmax,ss of dabigatran increased by 49% and 65%, respectively; but when ticagrelor 180 mg was given 2 hours after dabigatran, the AUCτ,ss and Cmax,ss of dabigatran increased by only 27% and 24%, respectively [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
 Other Drugs
 
