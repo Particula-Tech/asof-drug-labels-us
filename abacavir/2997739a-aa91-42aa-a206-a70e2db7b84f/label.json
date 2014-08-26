@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205551"
+  ],
+  "inn": "abacavir",
+  "labeler": "ViiV Healthcare Company",
+  "package_ndcs": [
+    "49702-231-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "dolutegravir sodium, abacavir sulfate, lamivudine",
+      "name": "Triumeq"
+    }
+  ],
+  "setid": "2997739a-aa91-42aa-a206-a70e2db7b84f",
+  "source": "dailymed"
+}
