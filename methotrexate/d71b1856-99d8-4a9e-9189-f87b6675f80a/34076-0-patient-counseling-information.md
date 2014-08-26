@@ -146,8 +146,8 @@ Active Ingredient: Methotrexate contains an amount of methotrexate sodium equiva
 
 Inactive Ingredients: lactose, magnesium stearate, pregelatinized starch NF, sodium hydroxide, and sodium starch glycolate.
 
-10004494/06
+10004494/05
 
-Revised February 2013
+Revised February 2012
 
-© RLI, 2013
+© RLI, 2012
