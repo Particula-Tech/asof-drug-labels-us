@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203687"
+  ],
+  "inn": "finasteride",
+  "labeler": "Citron Pharma LLC",
+  "package_ndcs": [
+    "57237-061-30",
+    "57237-061-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "finasteride",
+      "name": "Finasteride"
+    }
+  ],
+  "setid": "01b88593-99d3-4dd6-a7b6-5438c15bd7b7",
+  "source": "dailymed"
+}
