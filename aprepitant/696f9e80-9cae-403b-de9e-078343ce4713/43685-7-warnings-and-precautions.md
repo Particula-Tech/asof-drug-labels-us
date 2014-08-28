@@ -3,6 +3,7 @@
 ## 5.1 CYP3A4 Interactions
 
 EMEND (aprepitant), a dose-dependent inhibitor of CYP3A4, should be used with caution in patients receiving concomitant medications that are primarily metabolized through CYP3A4.
+
 Moderate inhibition of CYP3A4 by aprepitant, 125-mg/80-mg regimen, could result in elevated plasma concentrations of these concomitant medications.
 
 Weak inhibition of CYP3A4 by a single 40-mg dose of aprepitant is not expected to alter the plasma concentrations of concomitant medications that are primarily metabolized through CYP3A4 to a clinically significant degree.

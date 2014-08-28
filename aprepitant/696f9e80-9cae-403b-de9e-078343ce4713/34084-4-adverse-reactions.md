@@ -206,3 +206,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Skin and subcutaneous tissue disorders: pruritus, rash, urticaria, rarely Stevens-Johnson syndrome/toxic epidermal necrolysis.
 
 Immune system disorders: hypersensitivity reactions including anaphylactic reactions.
+
+Nervous system disorders: Events of ifosfamide-induced neurotoxicity have been reported after aprepitant and ifosfamide coadministration.

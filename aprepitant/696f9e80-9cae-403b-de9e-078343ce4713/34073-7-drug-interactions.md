@@ -34,8 +34,7 @@ Docetaxel: In a pharmacokinetic study, EMEND (125-mg/80-mg regimen) did not infl
 
 Vinorelbine: In a pharmacokinetic study, EMEND (125-mg/80-mg regimen) did not influence the pharmacokinetics of vinorelbine to a clinically significant degree.
 
-Other Chemotherapeutic Agents: EMEND should be used with caution in patients receiving other chemotherapeutic agents that are primarily metabolized through CYP3A4 [see Warnings and Precautions (5.1)].
-Post-marketing events of neurotoxicity, a potential adverse reaction of ifosfamide, have been reported after aprepitant and ifosfamide coadministration.
+Other Chemotherapeutic Agents: EMEND should be used with caution in patients receiving other chemotherapeutic agents that are primarily metabolized through CYP3A4 [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
 
 CYP2C9 substrates (Warfarin, Tolbutamide):
 

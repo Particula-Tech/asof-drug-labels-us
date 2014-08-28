@@ -14,13 +14,12 @@ The aprepitant-treated patients in these clinical studies ranged from 14 to 84 y
 Patients (N = 1105) were randomized to either the aprepitant regimen (N = 550) or standard therapy (N = 555).
 The treatment regimens are defined in Table 5.
 
-Table 5: Treatment Regimens in Highly Emetogenic Chemotherapy Trials
+Table 5: Treatment Regimens in Highly Emetogenic Chemotherapy TrialsAprepitant placebo and dexamethasone placebo were used to maintain blinding.
 
 | Treatment Regimen | Day 1 | Days 2 to 4 |
 | --- | --- | --- |
 | Aprepitant | Aprepitant 125 mg PO Dexamethasone 12 mg PO 5-HT3 antagonistOndansetron 32 mg I.V. was used in the clinical trials of EMEND. Although this dose was used in clinical trials, this is no longer the currently recommended dose. Refer to the ondansetron package insert for the current dosing. | Aprepitant 80 mg PO Daily (Days 2 and 3 only) Dexamethasone 8 mg PO Daily (morning) |
 | Standard Therapy | Dexamethasone 20 mg PO 5-HT3 antagonist | Dexamethasone 8 mg PO Daily (morning) Dexamethasone 8 mg PO Daily (evening) |
-| Aprepitant placebo and dexamethasone placebo were used to maintain blinding. |  |  |
 
 During these studies, 95% of the patients in the aprepitant group received a concomitant chemotherapeutic agent in addition to protocol-mandated cisplatin.
 The most common chemotherapeutic agents and the number of aprepitant patients exposed follows: etoposide (106), fluorouracil (100), gemcitabine (89), vinorelbine (82), paclitaxel (52), cyclophosphamide (50), doxorubicin (38), docetaxel (11).
