@@ -41,6 +41,7 @@ The dosage should be increased by 5 to 10 mg/kg/week to achieve optimal clinical
 Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day.
 If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50-100 mcg/mL).
 No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made.
+
 Concomitant antiepilepsy drug (AED) dosage can ordinarily be reduced by approximately 25% every 2 weeks.
 This reduction may be started at initiation of Depacon therapy, or delayed by 1 to 2 weeks if there is a concern that seizures are likely to occur with a reduction.
 The speed and duration of withdrawal of the concomitant AED can be highly variable, and patients should be monitored closely during this period for increased seizure frequency.
