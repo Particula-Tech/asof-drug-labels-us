@@ -5,7 +5,9 @@
   "inn": "penicillin-g",
   "labeler": "Pfizer Laboratories Div Pfizer Inc",
   "package_ndcs": [
+    "60793-600-02",
     "60793-600-10",
+    "60793-601-02",
     "60793-601-10"
   ],
   "products": [
