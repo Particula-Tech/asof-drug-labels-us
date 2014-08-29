@@ -21,6 +21,11 @@ Exposure in utero to valproate products has been associated with cerebral atroph
 
 Several published epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero[see Warnings and Precautions (5.3)].
 
+An observational study has suggested that exposure to valproate products during pregnancy may increase the risk of autism spectrum disorders.
+In this study, children born to mothers who had used valproate products during pregnancy had 2.9 times the risk (95% confidence interval [CI]: 1.7-4.9) of developing autism spectrum disorders compared to children born to mothers not exposed to valproate products during pregnancy.
+The absolute risks for autism spectrum disorders were 4.4% (95% CI: 2.6%-7.5%) in valproate-exposed children and 1.5% (95% CI: 1.5%-1.6%) in children not exposed to valproate products.
+Because the study was observational in nature, conclusions regarding a causal association between in utero valproate exposure and an increased risk of autism spectrum disorder cannot be considered definitive.
+
 In animal studies, offspring with prenatal exposure to valproate had structural malformations similar to those seen in humans and demonstrated neurobehavioral deficits.
 
 Clinical Considerations
