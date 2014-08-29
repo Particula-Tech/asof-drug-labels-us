@@ -2,12 +2,12 @@
 
 ## 7.1 Vitamin A
 
-Absorica™ is closely related to vitamin A. Therefore, the use of both vitamin A and Absorica™ at the same time may lead to vitamin A side effects.
+ABSORICA is closely related to vitamin A. Therefore, the use of both vitamin A and ABSORICA at the same time may lead to vitamin A side effects.
 Patients should be advised against taking vitamin supplements containing Vitamin A to avoid additive toxic effects.
 
 ## 7.2 Tetracyclines
 
-Concomitant treatment with Absorica™ and tetracyclines should be avoided because isotretinoin use has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines.
+Concomitant treatment with ABSORICA and tetracyclines should be avoided because isotretinoin use has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines.
 
 ## 7.3 Phenytoin
 
