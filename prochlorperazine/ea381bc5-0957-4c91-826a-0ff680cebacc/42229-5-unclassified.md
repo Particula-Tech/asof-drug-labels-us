@@ -1,5 +1,9 @@
-ANTIEMETIC - TRANQUILIZER
+# ANTIEMETIC - TRANQUILIZER
 
-PRESCRIBING INFORMATION
+Manufactured By
 
-Paddock Laboratories, Inc. Minneapolis, MN 55427 (12-10)
+Perrigo®
+
+Minneapolis, MN 55427
+
+2124140 (01-12)

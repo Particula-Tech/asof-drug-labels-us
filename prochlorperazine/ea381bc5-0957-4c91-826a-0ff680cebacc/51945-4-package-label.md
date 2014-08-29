@@ -1,15 +1,17 @@
-# PRINCIPAL DISPLAY PANEL - 25 mg Carton
+# Package/Label Display Panel
+
+Rx Only
 
 NDC 0574-7226-12
 
-Compro® Prochlorperazine Suppositories, USP 25mg
+Compro®
 
-FOR RECTAL USE ONLY
+Prochlorperazine Suppositories, USP
 
-Paddock Laboratories, Inc.
+25 mg
 
-Rx only
+12 Adult Suppositories
 
 UNIT DOSE
 
-12 ADULT SUPPOSITORIES
+FOR RECTAL USE ONLY

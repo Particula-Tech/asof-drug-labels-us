@@ -33,7 +33,7 @@ At times these symptoms may be similar to the original neurotic or psychotic sym
 Dosage should not be increased until these side effects have subsided.
 
 If these symptoms become too troublesome, they can usually be controlled by a reduction of dosage or change of drug.
-Treatment with antiparkinsonian agents, benzodiazepines or propranolol may be helpful.
+Treatment with anti-parkinsonian agents, benzodiazepines or propranolol may be helpful.
 
 ### Dystonia:
 
