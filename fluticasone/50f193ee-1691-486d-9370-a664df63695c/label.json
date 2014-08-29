@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA205625"
+  ],
+  "inn": "fluticasone",
+  "labeler": "GlaxoSmithKline LLC",
+  "package_ndcs": [
+    "0173-0874-10",
+    "0173-0874-14",
+    "0173-0876-10",
+    "0173-0876-14"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "fluticasone furoate",
+      "name": "Arnuity Ellipta"
+    }
+  ],
+  "setid": "50f193ee-1691-486d-9370-a664df63695c",
+  "source": "dailymed"
+}
