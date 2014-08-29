@@ -274,10 +274,10 @@ Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteopor
 
 Hematologic: Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
-Endocrine: Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, parotid gland swelling, and polycystic ovary disease, decrease carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
+Endocrine: Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decrease carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
 Genitourinary: Enuresis and urinary tract infection.
 
 Special Senses: Hearing loss.
 
-Other: Allergic reaction, anaphylaxis, developmental delay, autism and/or autism spectrum disorder, bone pain, bradycardia, and cutaneous vasculitis.
+Other: Allergic reaction, anaphylaxis, developmental delay, bone pain, bradycardia, and cutaneous vasculitis.

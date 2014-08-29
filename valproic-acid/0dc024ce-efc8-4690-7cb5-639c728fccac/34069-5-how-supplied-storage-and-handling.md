@@ -3,11 +3,7 @@
 Depakote ER 250 mg is available as white ovaloid tablets with the “a” logo and the code (HF).
 Each Depakote ER tablet contains divalproex sodium equivalent to 250 mg of valproic acid in the following package sizes:
 
-Bottles of 60....……………………………………………(NDC 0074-3826-60).
-
 Bottles of 100……………………………………………..(NDC 0074-3826-13).
-
-Bottles of 500……………………………………………..(NDC 0074-3826-53).
 
 Unit Dose Packages of 100..................…………………..(NDC 0074-3826-11).
 
