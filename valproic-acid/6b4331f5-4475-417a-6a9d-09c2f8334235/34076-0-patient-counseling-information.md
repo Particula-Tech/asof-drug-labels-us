@@ -43,4 +43,4 @@ Instruct patients that a fever associated with other organ system involvement (r
 
 Depakene Capsules Mfd. by Banner Pharmacaps, Inc., High Point, NC 27265 U.S.A. For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
-Depakene Oral solution Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A. OR by DPT Laboratories, Ltd., San Antonio, TX 78215, U.S.A For AbbVie Inc., North Chicago, IL 60064, U.S.A.
+Depakene Oral solution Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A. OR by DPT Laboratories, Ltd., San Antonio, TX 78215, U.S.A. For AbbVie Inc., North Chicago, IL 60064, U.S.A.
