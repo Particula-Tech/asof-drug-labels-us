@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 Amplification of the vasodilatory effects of nitroglycerin by sildenafil can result in severe hypotension.
 The time course and dose dependence of this interaction have not been studied.
@@ -7,7 +7,7 @@ Appropriate supportive care has not been studied, but it seems reasonable to tre
 The benefits of transdermal nitroglycerin in patients with acute myocardial infarction or congestive heart failure have not been established.
 If one elects to use nitroglycerin in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 General: Severe hypotension, particularly with upright posture, may occur with even small doses of nitroglycerin.
 This drug should therefore be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive.

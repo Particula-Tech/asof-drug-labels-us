@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 The principal pharmacological action of nitroglycerin is relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins, especially the latter.
 Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end-diastolic pressure and pulmonary capillary wedge pressure (preload).

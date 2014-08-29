@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 As noted above (CLINICAL PHARMACOLOGY), controlled trials have demonstrated that nitroglycerin ointment can effectively reduce exercise-related angina for up to 7 hours after a single application.
 Doses used in clinical trials have ranged from 1/2 inch (1.3 cm; 7.5 mg) to 2 inches (5.1 cm; 30 mg), typically applied to 36 square inches (232 square centimeters) of truncal skin.

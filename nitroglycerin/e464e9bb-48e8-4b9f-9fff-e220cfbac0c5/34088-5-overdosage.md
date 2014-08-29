@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 Hemodynamic Effects: The ill effects of nitroglycerin overdose are generally the results of nitroglycerin's capacity to induce vasodilation, venous pooling, reduced cardiac output, and hypotension.
 These hemodynamic changes may have protean manifestations, including increased intracranial pressure, with any or all of persistent throbbing headache, confusion, and moderate fever; vertigo; palpitations; visual disturbances; nausea and vomiting (possibly with colic and even bloody diarrhea); syncope (especially in the upright posture); air hunger and dyspnea, later followed by reduced ventilatory effort; diaphoresis, with the skin either flushed or cold and clammy; heart block and bradycardia; paralysis; coma; seizures; and death.
@@ -18,7 +18,7 @@ In patients with renal disease or congestive heart failure, therapy resulting in
 Treatment of nitroglycerin overdose in these patients may be subtle and difficult, and invasive monitoring may be required.
 
 Methemoglobinemia: Nitrate ions liberated during metabolism of nitroglycerin can oxidize hemoglobin into methemoglobin.
-Even in patients totally without cytochrome b5 reductase activity, however, and even assuming that the nitrate moieties of nitroglycerin are quantitatively applied to oxidation of hemoglobin, about 1 mg/kg of nitroglycerin should be required before any of these patients manifests clinically significant (> 10%) methemoglobinemia.
+Even in patients totally without cytochrome b5 reductase activity, however, and even assuming that the nitrate moieties of nitroglycerin are quantitatively applied to oxidation of hemoglobin, about 1 mg/kg of nitroglycerin should be required before any of these patients manifests clinically significant (≥ 10%) methemoglobinemia.
 In patients with normal reductase function, significant production of methemoglobin should require even larger doses of nitroglycerin.
 In one study in which 36 patients received 2 to 4 weeks of continuous nitroglycerin therapy at 3.1 to 4.4 mg/hr, the average methemoglobin level measured was 0.2%; this was comparable to that observed in parallel patients who received placebo.
 

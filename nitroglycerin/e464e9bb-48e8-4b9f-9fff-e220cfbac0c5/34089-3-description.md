@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Nitroglycerin is 1,2,3-propanetriol trinitrate, an organic nitrate whose structural formula is:
 

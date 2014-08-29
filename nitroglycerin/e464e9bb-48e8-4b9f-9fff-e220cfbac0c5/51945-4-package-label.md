@@ -4,9 +4,7 @@ NDC 0281-0326-30
 
 SAVAGE LABORATORIES®
 
-NITRO-BID®
-
-(Nitroglycerin Ointment USP, 2%)
+NITRO-BID® (Nitroglycerin Ointment USP, 2%)
 
 Rx only
 
@@ -18,9 +16,7 @@ NDC 0281-0326-30
 
 SAVAGE LABORATORIES®
 
-NITRO-BID®
-
-(Nitroglycerin Ointment USP, 2%)
+NITRO-BID® (Nitroglycerin Ointment USP, 2%)
 
 Rx only
 
@@ -28,9 +24,7 @@ NET WT 30 grams
 
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – APPLICATOR SHEET
 
-NITRO-BID
-
-(Nitroglycerin Ointment USP, 2%)
+NITRO-BID (Nitroglycerin Ointment USP, 2%)
 
 INCHES ½ 1 1 ½ 2
 
@@ -38,8 +32,4 @@ CENTIMETERS 1.25 2.5 3.75 5
 
 the applicator that measures the dose
 
-SAVAGE LABORATORIES®
-
-A division of Fougera Pharmaceuticals Inc.
-
-Melville, New York 11747
+SAVAGE LABORATORIES® A division of Fougera Pharmaceuticals Inc. Melville, New York 11747

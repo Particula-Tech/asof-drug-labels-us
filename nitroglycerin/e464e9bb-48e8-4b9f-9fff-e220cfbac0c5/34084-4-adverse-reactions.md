@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 Adverse reactions to nitroglycerin are generally dose-related, and almost all of these reactions are the result of nitroglycerin's activity as a vasodilator.
 Headache, which may be severe, is the most commonly reported side effect.
