@@ -51,7 +51,7 @@ The safety of reinitiating VELCADE therapy in patients previously experiencing P
 
 ## 5.6 Gastrointestinal Toxicity
 
-VELCADE treatment can cause nausea, diarrhea, constipation, and vomiting [see Adverse Reactions (6.1)]. sometimes requiring use of antiemetic and antidiarrheal medications.
+VELCADE treatment can cause nausea, diarrhea, constipation, and vomiting [see Adverse Reactions (6.1)] sometimes requiring use of antiemetic and antidiarrheal medications.
 Ileus can occur.
 Fluid and electrolyte replacement should be administered to prevent dehydration.
 Interrupt VELCADE for severe symptoms.

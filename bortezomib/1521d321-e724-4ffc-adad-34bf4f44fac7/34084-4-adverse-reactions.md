@@ -70,7 +70,7 @@ Creatinine clearance could be as low as 20 mL/min and bilirubin levels as high a
 The overall frequency of adverse reactions was similar in men and women, and in patients < 65 and ≥ 65 years of age.
 Most patients were Caucasian [see Clinical Studies (14.1)].
 
-Among the 331 VELCADE-treated patients, the most commonly reported (> 20%) adverse reactions overall were nausea (52%), diarrhea (52%), fatigue (39%), peripheral neuropathies NEC (35%), thrombocytopenia (33%), constipation (30%), vomiting (29%), and anorexia (21%).
+Among the 331 VELCADE-treated patients, the most commonly reported (> 20%) adverse reactions overall were nausea (52%), diarrhea (52%), fatigue (39%), peripheral neuropathies (35%), thrombocytopenia (33%), constipation (30%), vomiting (29%), and anorexia (21%).
 The most commonly reported (> 20%) adverse reaction reported among the 332 patients in the dexamethasone group was fatigue (25%).
 Eight percent (8%) of patients in the VELCADE-treated arm experienced a Grade 4 adverse reaction; the most common reactions were thrombocytopenia (4%) and neutropenia (2%).
 Nine percent (9%) of dexamethasone-treated patients experienced a Grade 4 adverse reaction.
@@ -104,7 +104,7 @@ Table 8: Most Commonly Reported Adverse Reactions (≥ 10% in VELCADE arm), with
 | Nausea | 172 (52) | 8 (2) | 0 | 31 (9) | 0 | 0 |
 | Diarrhea NOS | 171 (52) | 22 (7) | 0 | 36 (11) | 2 (< 1) | 0 |
 | Fatigue | 130 (39) | 15 (5) | 0 | 82 (25) | 8 (2) | 0 |
-| Peripheral neuropathies NECBased on High Level Term | 115 (35) | 23 (7) | 2 (< 1) | 14 (4) | 0 | 1 (< 1) |
+| Peripheral neuropathiesRepresents High Level Term Peripheral Neuropathies NEC | 115 (35) | 23 (7) | 2 (< 1) | 14 (4) | 0 | 1 (< 1) |
 | Thrombocytopenia | 109 (33) | 80 (24) | 12 (4) | 11 (3) | 5 (2) | 1 (< 1) |
 | Constipation | 99 (30) | 6 (2) | 0 | 27 (8) | 1 (< 1) | 0 |
 | Vomiting NOS | 96 (29) | 8 (2) | 0 | 10 (3) | 1 (< 1) | 0 |
@@ -153,12 +153,12 @@ Table 9: Most Commonly Reported Adverse Reactions (≥ 10%), with Grade 3 and �
 | Pyrexia | 18 (12) | 0 | 0 | 6 (8) | 0 | 0 |
 | Nervous system disorders |  |  |  |  |  |  |
 | Neuralgia | 34 (23) | 5 (3) | 0 | 17 (23) | 7 (9) | 0 |
-| Peripheral neuropathies NECRepresents MedDRA High Level Term. | 55 (37) | 8 (5) | 1 (1) | 37 (50) | 10 (14) | 1 (1) |
+| Peripheral neuropathiesRepresents High Level Term Peripheral Neuropathies NEC | 55 (37) | 8 (5) | 1 (1) | 37 (50) | 10 (14) | 1 (1) |
 | Note: Safety population: 147 patients in the subcutaneous treatment group and 74 patients in the intravenous treatment group who received at least 1 dose of study medication |  |  |  |  |  |  |
 
 In general, safety data were similar for the subcutaneous and intravenous treatment groups.
 Differences were observed in the rates of some Grade ≥ 3 adverse reactions.
-Differences of ≥ 5% were reported in neuralgia (3% subcutaneous versus 9% intravenous), peripheral neuropathies NEC (6% subcutaneous versus 15% intravenous), neutropenia (13% subcutaneous versus 18% intravenous), and thrombocytopenia (8% subcutaneous versus 16% intravenous).
+Differences of ≥ 5% were reported in neuralgia (3% subcutaneous versus 9% intravenous), peripheral neuropathies (6% subcutaneous versus 15% intravenous), neutropenia (13% subcutaneous versus 18% intravenous), and thrombocytopenia (8% subcutaneous versus 16% intravenous).
 
 A local reaction was reported in 6% of patients in the subcutaneous group, mostly redness.
 Only 2 (1%) patients were reported as having severe reactions, 1 case of pruritus and 1 case of redness.
@@ -188,7 +188,7 @@ Safety data from phase 2 and 3 studies of single agent VELCADE 1.3 mg/m2/dose tw
 This analysis does not include data from the Phase 3 Open-Label Study of VELCADE subcutaneous versus intravenous in relapsed multiple myeloma.
 In the integrated studies, the safety profile of VELCADE was similar in patients with multiple myeloma and mantle cell lymphoma.
 
-In the integrated analysis, the most commonly reported (> 20%) adverse reactions were nausea (49%), diarrhea (46%), asthenic conditions including fatigue (41%) and weakness (11%), peripheral neuropathies NEC (38%), thrombocytopenia (32%), vomiting (28%), constipation (25%), and pyrexia (21%).
+In the integrated analysis, the most commonly reported (> 20%) adverse reactions were nausea (49%), diarrhea (46%), asthenic conditions including fatigue (41%) and weakness (11%), peripheral neuropathies (38%), thrombocytopenia (32%), vomiting (28%), constipation (25%), and pyrexia (21%).
 Eleven percent (11%) of patients experienced at least 1 episode of ≥ Grade 4 toxicity, most commonly thrombocytopenia (4%) and neutropenia (2%).
 
 In the Phase 2 relapsed multiple myeloma clinical trials of VELCADE administered intravenously, local skin irritation was reported in 5% of patients, but extravasation of VELCADE was not associated with tissue damage.
@@ -196,7 +196,7 @@ In the Phase 2 relapsed multiple myeloma clinical trials of VELCADE administered
 Serious Adverse Reactions and Adverse Reactions Leading to Treatment Discontinuation in the Integrated Summary of Safety
 
 A total of 26% of patients experienced a serious adverse reaction during the studies.
-The most commonly reported serious adverse reactions included diarrhea, vomiting and pyrexia (3% each), nausea, dehydration, and thrombocytopenia (2% each) and pneumonia, dyspnea, peripheral neuropathies NEC, and herpes zoster (1% each).
+The most commonly reported serious adverse reactions included diarrhea, vomiting and pyrexia (3% each), nausea, dehydration, and thrombocytopenia (2% each) and pneumonia, dyspnea, peripheral neuropathies, and herpes zoster (1% each).
 
 Adverse reactions leading to discontinuation occurred in 22% of patients.
 The reasons for discontinuation included peripheral neuropathy (8%), and fatigue, thrombocytopenia, and diarrhea (2% each).
@@ -218,7 +218,7 @@ Table 10: Most Commonly Reported (≥ 10% Overall) Adverse Reactions in Integrat
 | Nausea | 567 (49) | 36 (3) | 511 (51) | 32 (3) | 56 (36) | 4 (3) |
 | Diarrhea NOS | 530 (46) | 83 (7) | 470 (47) | 72 (7) | 60 (39) | 11 (7) |
 | Fatigue | 477 (41) | 86 (7) | 396 (39) | 71 (7) | 81 (52) | 15 (10) |
-| Peripheral neuropathies NECBased on High Level Term | 443 (38) | 129 (11) | 359 (36) | 110 (11) | 84 (54) | 19 (12) |
+| Peripheral neuropathiesRepresents High Level Term Peripheral Neuropathies NEC | 443 (38) | 129 (11) | 359 (36) | 110 (11) | 84 (54) | 19 (12) |
 | Thrombocytopenia | 369 (32) | 295 (25) | 344 (34) | 283 (28) | 25 (16) | 12 (8) |
 | Vomiting NOS | 321 (28) | 44 (4) | 286 (28) | 40 (4) | 35 (23) | 4 (3) |
 | Constipation | 296 (25) | 17 (1) | 244 (24) | 14 (1) | 52 (34) | 3 (2) |
@@ -254,7 +254,7 @@ The incidence of ≥ Grade 3 thrombocytopenia also was higher in patients with m
 
 Peripheral Neuropathy
 
-Overall, peripheral neuropathies NEC occurred in 38% of patients.
+Overall, peripheral neuropathies occurred in 38% of patients.
 Peripheral neuropathy was Grade 3 for 11% of patients and ≥ Grade 4 for < 1% of patients.
 Eight percent (8%) of patients discontinued VELCADE due to peripheral neuropathy.
 The incidence of peripheral neuropathy was higher among patients with mantle cell lymphoma (54%) compared to patients with multiple myeloma (36%).
@@ -301,6 +301,21 @@ Consider using antiviral prophylaxis in subjects being treated with VELCADE.
 In the randomized studies in previously untreated and relapsed multiple myeloma, herpes zoster reactivation was more common in subjects treated with VELCADE (ranging between 6-11%) than in the control groups (3-4%).
 Herpes simplex was seen in 1-3% in subjects treated with VELCADE and 1-3% in the control groups.
 In the previously untreated multiple myeloma study, herpes zoster virus reactivation in the VELCADE, melphalan and prednisone arm was less common in subjects receiving prophylactic antiviral therapy (3%) than in subjects who did not receive prophylactic antiviral therapy (17%).
+
+Retreatment in Relapsed Multiple Myeloma
+
+A single-arm trial was conducted in 130 patients with relapsed multiple myeloma to determine the efficacy and safety of retreatment with intravenous VELCADE.
+The safety profile of patients in this trial is consistent with the known safety profile of VELCADE-treated patients with relapsed multiple myeloma as demonstrated in Tables 8, 9, and 10; no cumulative toxicities were observed upon retreatment.
+The most common adverse drug reaction was thrombocytopenia which occurred in 52% of the patients.
+The incidence of ≥ Grade 3 thrombocytopenia was 24%.
+Peripheral neuropathy occurred in 28% of patients, with the incidence of ≥ Grade 3 peripheral neuropathy reported at 6%.
+The incidence of serious adverse reactions was 12.3%.
+The most commonly reported serious adverse reactions were thrombocytopenia (3.8%), diarrhea (2.3%), and herpes zoster and pneumonia (1.5% each).
+
+Adverse reactions leading to discontinuation occurred in 13% of patients.
+The reasons for discontinuation included peripheral neuropathy (5%) and diarrhea (3%).
+
+Two deaths considered to be VELCADE-related occurred within 30 days of the last VELCADE dose; one in a patient with cerebrovascular accident and one in a patient with sepsis.
 
 Additional Adverse Reactions from Clinical Studies
 

@@ -4,6 +4,10 @@
 
 The recommended starting dose of VELCADE is 1.3 mg/m2.
 VELCADE may be administered intravenously at a concentration of 1 mg/mL, or subcutaneously at a concentration of 2.5 mg/mL [see Dosage and Administration (2.8)].
+
+VELCADE retreatment may be considered for patients with multiple myeloma who had previously responded to treatment with VELCADE and who have relapsed at least 6 months after completing prior VELCADE treatment.
+Treatment may be started at the last tolerated dose [see Dosage and Administration (2.4)].
+
 When administered intravenously, VELCADE is administered as a 3 to 5 second bolus intravenous injection.
 VELCADE is for intravenous or subcutaneous use only.
 VELCADE should not be administered by any other route.
@@ -53,6 +57,11 @@ Dose modifications guidelines for peripheral neuropathy are provided [see Dosage
 VELCADE (1.3 mg/m2/dose) is administered twice weekly for 2 weeks (Days 1, 4, 8, and 11) followed by a 10-day rest period (Days 12-21).
 For extended therapy of more than 8 cycles, VELCADE may be administered on the standard schedule or on a maintenance schedule of once weekly for 4 weeks (Days 1, 8, 15, and 22) followed by a 13-day rest period (Days 23 to 35) [see Clinical Studies (14)].
 At least 72 hours should elapse between consecutive doses of VELCADE.
+
+Patients with multiple myeloma who have previously responded to treatment with VELCADE (either alone or in combination) and who have relapsed at least 6 months after their prior VELCADE therapy may be started on VELCADE at the last tolerated dose.
+Retreated patients are administered VELCADE twice weekly (Days 1, 4, 8, and 11) every three weeks for a maximum of 8 cycles.
+At least 72 hours should elapse between consecutive doses of VELCADE.
+VELCADE may be administered either as a single agent or in combination with dexamethasone [see Clinical Studies (14.1)].
 
 VELCADE therapy should be withheld at the onset of any Grade 3 non-hematological or Grade 4 hematological toxicities excluding neuropathy as discussed below [see Warnings and Precautions (5)].
 Once the symptoms of the toxicity have resolved, VELCADE therapy may be reinitiated at a 25% reduced dose (1.3 mg/m2/dose reduced to 1 mg/m2/dose; 1 mg/m2/dose reduced to 0.7 mg/m2/dose).

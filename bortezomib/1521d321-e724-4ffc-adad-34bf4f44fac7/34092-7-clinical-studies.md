@@ -202,6 +202,19 @@ The overall median dosing intensity was the same in both the parent protocol and
 Sixty-seven percent (67%) of patients initiated the extension study at the same or higher dose intensity at which they completed the parent protocol, and 89% of patients maintained the standard 3-week dosing schedule during the extension study.
 No new cumulative or new long-term toxicities were observed with prolonged VELCADE treatment [see Adverse Reactions (6.1)].
 
+A Single-Arm Trial of Retreatment in Relapsed Multiple Myeloma
+
+A single arm, open-label trial was conducted to determine the efficacy and safety of retreatment with VELCADE.
+One hundred and thirty patients (≥ 18 years of age) with multiple myeloma who previously had at least partial response on a VELCADE-containing regimen (median of 2 prior lines of therapy [range 1-7]) were retreated upon progression with VELCADE administered intravenously.
+Patients were excluded from trial participation if they had peripheral neuropathy or neuropathic pain of Grade ≥2.
+At least 6 months after prior VELCADE therapy, VELCADE was restarted at the last tolerated dose of 1.3 mg/m2 (n=93) or ≤ 1.0 mg/m2 (n=37) and given on days 1, 4, 8 and 11 every 3 weeks for maximum of 8 cycles either as single agent or in combination with dexamethasone in accordance with the standard of care.
+Dexamethasone was administered in combination with VELCADE to 83 patients in Cycle 1 with an additional 11 patients receiving dexamethasone during the course of VELCADE retreatment cycles.
+
+The primary endpoint was best confirmed response to retreatment as assessed by European Group for Blood and Marrow Transplantation (EBMT) criteria.
+Fifty of the 130 patients achieved a best confirmed response of Partial Response or better for an overall response rate of 38.5% (95% CI: 30.1, 47.4).
+One patient achieved a Complete Response and 49 achieved Partial Response.
+In the 50 responding patients, the median duration of response was 6.5 months and the range was 0.6 to 19.3 months.
+
 ## 14.2 Mantle Cell Lymphoma
 
 A Phase 2 Single-arm Clinical Study in Relapsed Mantle Cell Lymphoma After Prior Therapy
