@@ -4,7 +4,7 @@ See FDA-approved patient labeling (Medication Guide).
 
 Prior to treatment, patients should fully understand and be informed of the following risks and considerations for PROMACTA:
 
-- •For patients with chronic ITP, therapy with PROMACTA is administered to achieve and maintain a platelet count ≥50 x 109/L as necessary to reduce the risk for bleeding.
+- •For patients with chronic ITP, therapy with PROMACTA is administered to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding.
 - •For patients with chronic hepatitis C, therapy with PROMACTA is administered to achieve and maintain a platelet count necessary to initiate and maintain antiviral therapy with pegylated interferon and ribavirin.
 - •Therapy with PROMACTA may be associated with hepatobiliary laboratory abnormalities.
 - •Advise patients with chronic hepatitis C and cirrhosis that they may be at risk for hepatic decompensation when receiving alfa interferon therapy.

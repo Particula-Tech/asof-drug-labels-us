@@ -8,9 +8,6 @@ There are no adequate and well-controlled studies of eltrombopag use in pregnanc
 In animal reproduction and developmental toxicity studies, there was evidence of embryolethality and reduced fetal weights at maternally toxic doses.
 PROMACTA should be used in pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 
-Pregnancy Registry: A pregnancy registry has been established to collect information about the effects of PROMACTA during pregnancy.
-Physicians are encouraged to register pregnant patients, or pregnant women may enroll themselves in the PROMACTA pregnancy registry by calling 1-888-825-5249.
-
 In an early embryonic development study, female rats received oral eltrombopag at doses of 10, 20, or 60 mg/kg/day (0.8, 2, and 6 times, respectively, the human clinical exposure based on AUC in ITP patients at 75 mg/day and 0.3, 1, and 3 times, respectively, the human clinical exposure based on AUC in chronic hepatitis C patients at 100 mg/day).
 Increased pre- and post-implantation loss and reduced fetal weight were observed at the highest dose which also caused maternal toxicity.
 
@@ -44,16 +41,16 @@ No overall differences in safety or effectiveness were observed between these pa
 
 Hepatic impairment influences the exposure of PROMACTA [see Clinical Pharmacology (12.3)].
 
-A reduction in the initial dose of PROMACTA in patients with chronic ITP is recommended for patients with hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1) and Warnings and Precautions (5.2)].
+Reduce the initial dose of PROMACTA in patients with chronic ITP or severe aplastic anemia who also have hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1) (2.3), Warnings and Precautions (5.2)].
 No dosage adjustment is necessary for HCV patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
-No adjustment in the initial PROMACTA dose is needed for patients with renal impairment [see Clinical Pharmacology (12.3)].
+No adjustment in the initial dose of PROMACTA is needed for patients with renal impairment [see Clinical Pharmacology (12.3)].
 Closely monitor patients with impaired renal function when administering PROMACTA.
 
 ## 8.8 Ethnicity
 
 Patients of East Asian ethnicity (i.e., Japanese, Chinese, Taiwanese, and Korean) exhibit higher eltrombopag exposures.
-A reduction in the initial dose of PROMACTA is recommended for ITP patients of East Asian ancestry and patients of East Asian ancestry with hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1)].
+A reduction in the initial dose of PROMACTA is recommended for ITP or severe aplastic anemia patients of East Asian ancestry and patients of East Asian ancestry with hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1, 2.3)].
 No dose reduction is needed in patients of East Asian ethnicity with chronic hepatitis C [see Clinical Pharmacology (12.3)].

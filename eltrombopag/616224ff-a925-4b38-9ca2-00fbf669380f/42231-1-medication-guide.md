@@ -29,16 +29,17 @@ See “What are the possible side effects of PROMACTA?” for other side effects
 
 What is PROMACTA?
 
-PROMACTA is a prescription medicine used to treat low blood platelet counts in people with:
+PROMACTA is a prescription medicine used to treat people with:
 
-- •chronic immune (idiopathic) thrombocytopenia (ITP), when other medicines to treat your ITP or surgery to remove the spleen have not worked well enough
-- •chronic hepatitis C virus (HCV) infection before and during treatment with interferon
+- •low blood platelet counts due to chronic immune (idiopathic) thrombocytopenia (ITP), when other medicines to treat your ITP or surgery to remove the spleen have not worked well enough
+- •low blood platelet counts due to chronic hepatitis C virus (HCV) infection before and during treatment with interferon
+- •severe aplastic anemia (SAA) when other medicines to treat your SAA have not worked well enough
 
 PROMACTA is used to try to raise your platelet count in order to lower your risk for bleeding.
 
 PROMACTA is not used to make your platelet count normal.
 
-PROMACTA is for treatment of certain people with low platelet counts caused by chronic ITP or chronic HCV, not low platelet counts caused by other conditions or diseases.
+PROMACTA is for treatment of certain people with low platelet counts caused by chronic ITP, chronic HCV, or SAA not low platelet counts caused by other conditions or diseases.
 
 It is not known if PROMACTA is safe and effective when used with other antiviral medicines that are approved to treat chronic hepatitis C.
 
@@ -58,11 +59,6 @@ Before you take PROMACTA, tell your healthcare provider if you:
 - •have any other medical conditions
 - •are pregnant or plan to become pregnant.
   It is not known if PROMACTA will harm an unborn baby.
-  Pregnancy Registry: There is a registry for women who become pregnant during treatment with PROMACTA.
-  If you become pregnant, consider this registry.
-  The purpose of the registry is to collect safety information about the health of you and your baby.
-  Contact the registry as soon as you become aware of the pregnancy, or ask your healthcare provider to contact the registry for you.
-  You and your healthcare provider can get information and enroll in the registry by calling 1-888-825-5249.
 - •are breastfeeding or plan to breastfeed.
   It is not known if PROMACTA passes into your breast milk.
   You and your healthcare provider should decide whether you will take PROMACTA or breastfeed.
@@ -163,6 +159,27 @@ The most common side effects when PROMACTA is used in combination with other med
 - •hair loss
 - •swelling in your ankles, feet, and legs
 
+The most common side effects when PROMACTA is used to treat severe aplastic anemia are:
+
+- •nausea
+- •feeling tired
+- •cough
+- •diarrhea
+- •headache
+- •pain in arms, legs, hands or feet
+- •shortness of breath
+- •fever
+- •dizziness
+- •pain in the nose or throat
+- •abdominal pain
+- •bruising
+- •muscle spasms
+- •abnormal liver function tests
+- •joint pain
+- •runny nose
+
+Laboratory tests may show abnormal changes to the cells in your bone marrow.
+
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of PROMACTA.
@@ -213,6 +230,6 @@ Research Triangle Park, NC 27709
 ©2014, the GSK group of companies.
 All rights reserved.
 
-Revised: February 2014
+Revised: August 2014
 
-PRM:7MG
+PRM:8MG

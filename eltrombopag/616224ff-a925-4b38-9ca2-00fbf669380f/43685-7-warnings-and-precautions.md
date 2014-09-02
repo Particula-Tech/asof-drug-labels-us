@@ -1,10 +1,10 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Hepatic Decompensation in Patients With Chronic Hepatitis C
+## 5.1 Hepatic Decompensation in Patients with Chronic Hepatitis C
 
 In patients with chronic hepatitis C, PROMACTA in combination with interferon and ribavirin may increase the risk of hepatic decompensation.
-In two controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, ascites and encephalopathy occurred more frequently on the arm receiving PROMACTA plus antivirals treatment (7%) than the placebo plus antivirals arm (4%).
-Patients with low albumin levels (<3.5 g/dL) or Model for End-Stage Liver Disease (MELD) score ≥10 at baseline had a greater risk for hepatic decompensation on the arm receiving PROMACTA plus antivirals treatment.
+In two controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, ascites and encephalopathy occurred more frequently on the arm receiving treatment with PROMACTA plus antivirals (7%) than the placebo plus antivirals arm (4%).
+Patients with low albumin levels (less than 3.5 g/dL) or Model for End-Stage Liver Disease (MELD) score greater than or equal to 10 at baseline had a greater risk for hepatic decompensation on the arm receiving treatment with PROMACTA plus antivirals.
 Discontinue PROMACTA if antiviral therapy is discontinued.
 
 ## 5.2 Hepatotoxicity
@@ -15,10 +15,10 @@ PROMACTA inhibits UGT1A1 and OATP1B1, which may lead to indirect hyperbilirubine
 If bilirubin is elevated, perform fractionation.
 Evaluate abnormal serum liver tests with repeat testing within 3 to 5 days.
 If the abnormalities are confirmed, monitor serum liver tests weekly until resolved or stabilized.
-Discontinue PROMACTA if ALT levels increase to ≥3X ULN in patients with normal liver function or ≥3X baseline in patients with pre-treatment elevations in transaminases and are:
+Discontinue PROMACTA if ALT levels increase to greater than or equal to 3X ULN in patients with normal liver function or greater than or equal to 3X baseline in patients with pre-treatment elevations in transaminases and are:
 
 - •progressively increasing, or
-- •persistent for ≥4 weeks, or
+- •persistent for greater than or equal to 4 weeks, or
 - •accompanied by increased direct bilirubin, or
 - •accompanied by clinical symptoms of liver injury or evidence for hepatic decompensation.
 
@@ -28,26 +28,26 @@ If liver tests abnormalities persist, worsen or recur, then permanently disconti
 
 ## 5.3 Thrombotic/Thromboembolic Complications
 
-In 2 controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, 3% (31/955) treated with PROMACTA experienced a thrombotic event compared to 1% (5/484) on placebo.
-The majority of events were of the portal venous system (1% in patients treated with PROMACTA versus <1% for placebo).
+In 2 controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, 3% (31/955) treated with PROMACTA experienced a thrombotic event compared with 1% (5/484) on placebo.
+The majority of events were of the portal venous system (1% in patients treated with PROMACTA versus less than 1% for placebo).
 
 Thrombotic/thromboembolic complications may result from increases in platelet counts with PROMACTA.
 Reported thrombotic/thromboembolic complications included both venous and arterial events and were observed at low and at normal platelet counts.
 
 Consider the potential for an increased risk of thromboembolism when administering PROMACTA to patients with known risk factors for thromboembolism (e.g., Factor V Leiden, ATIII deficiency, antiphospholipid syndrome, chronic liver disease).
 To minimize the risk for thrombotic/thromboembolic complications, do not use PROMACTA in an attempt to normalize platelet counts.
-Follow the dose adjustment guidelines to achieve and maintain target platelet counts [see Dosage and Administration (2.1, 2.2)].
+Follow the dose adjustment guidelines to achieve and maintain target platelet counts [see Dosage and Administration (2.1, 2.2, 2.3)].
 
-In a controlled trial in non-ITP thrombocytopenic patients with chronic liver disease undergoing elective invasive procedures (N = 292), the risk of thrombotic events was increased in patients treated with 75 mg PROMACTA once daily.
+In a controlled trial in non-ITP thrombocytopenic patients with chronic liver disease undergoing elective invasive procedures (N = 292), the risk of thrombotic events was increased in patients treated with 75 mg of PROMACTA once daily.
 Seven thrombotic complications (six patients) were reported in the group that received PROMACTA and three thrombotic complications were reported in the placebo group (two patients).
 All of the thrombotic complications reported in the group that received PROMACTA were portal vein thrombosis (PVT).
 Symptoms of PVT included abdominal pain, nausea, vomiting, and diarrhea.
 Five of the six patients in the group that received PROMACTA experienced a thrombotic complication within 30 days of completing treatment with PROMACTA and at a platelet count above 200 x 109/L.
-The risk of portal venous thrombosis was increased in thrombocytopenic patients with chronic liver disease treated with 75 mg PROMACTA once daily for 2 weeks in preparation for invasive procedures.
+The risk of portal venous thrombosis was increased in thrombocytopenic patients with chronic liver disease treated with 75 mg of PROMACTA once daily for 2 weeks in preparation for invasive procedures.
 
 ## 5.4 Cataracts
 
-In the 3 controlled clinical trials in chronic ITP, cataracts developed or worsened in 15 (7%) patients who received 50 mg PROMACTA daily and 8 (7%) placebo-group patients.
+In the 3 controlled clinical trials in chronic ITP, cataracts developed or worsened in 15 (7%) patients who received 50 mg of PROMACTA daily and 8 (7%) placebo-group patients.
 In the extension trial, cataracts developed or worsened in 4% of patients who underwent ocular examination prior to therapy with PROMACTA.
 In the 2 controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, cataracts developed or worsened in 8% patients treated with PROMACTA and 5% patients treated with placebo.
 

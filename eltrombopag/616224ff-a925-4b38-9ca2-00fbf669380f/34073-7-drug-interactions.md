@@ -8,26 +8,26 @@ In vitro, eltrombopag inhibits the following metabolic or transporter systems: C
 Eltrombopag chelates polyvalent cations (such as iron, calcium, aluminum, magnesium, selenium, and zinc) in foods, mineral supplements, and antacids.
 In a clinical trial, administration of PROMACTA with a polyvalent cation-containing antacid decreased plasma eltrombopag systemic exposure by approximately 70% [see Clinical Pharmacology (12.3)].
 
-PROMACTA must not be taken within 4 hours of any medications or products containing polyvalent cations such as antacids, dairy products, and mineral supplements to avoid significant reduction in PROMACTA absorption due to chelation [see Dosage and Administration (2.3)].
+PROMACTA must not be taken within 4 hours of any medications or products containing polyvalent cations such as antacids, dairy products, and mineral supplements to avoid significant reduction in absorption of PROMACTA due to chelation [see Dosage and Administration (2.4)].
 
 ## 7.2 Transporters
 
-Co-administration of PROMACTA with the OATP1B1 and BCRP substrate, rosuvastatin, to healthy adult subjects increased plasma rosuvastatin AUC0-∞ by 55% and Cmax by 103% [see Clinical Pharmacology (12.3)].
+Coadministration of PROMACTA with the OATP1B1 and BCRP substrate, rosuvastatin, to healthy adult subjects increased plasma rosuvastatin AUC0-∞ by 55% and Cmax by 103% [see Clinical Pharmacology (12.3)].
 
-Use caution when concomitantly administering PROMACTA and drugs that are substrates of OATP1B1 [e.g., atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, olmesartan, pitavastatin, pravastatin, rosuvastatin, repaglinide, rifampin, simvastatin acid, SN-38 (active metabolite of irinotecan), valsartan] or BCRP (e.g., imatinib, irinotecan, lapatinib, methotrexate, mitoxantrone, rosuvastatin, sulfasalazine, topotecan).
+Use caution when concomitantly administering PROMACTA and drugs that are substrates of OATP1B1 (e.g., atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, olmesartan, pitavastatin, pravastatin, rosuvastatin, repaglinide, rifampin, simvastatin acid, SN-38 [active metabolite of irinotecan], valsartan) or BCRP (e.g., imatinib, irinotecan, lapatinib, methotrexate, mitoxantrone, rosuvastatin, sulfasalazine, topotecan).
 Monitor patients closely for signs and symptoms of excessive exposure to the drugs that are substrates of OATP1B1 or BCRP and consider reduction of the dose of these drugs, if appropriate.
 In clinical trials with PROMACTA, a dose reduction of rosuvastatin by 50% was recommended.
 
 ## 7.3 Protease Inhibitors
 
-HIV Protease Inhibitors: In a drug interaction trial, co-administration of PROMACTA with lopinavir/ritonavir (LPV/RTV) decreased plasma eltrombopag exposure by 17% [see Clinical Pharmacology (12.3)].
-No dose adjustment is recommended when PROMACTA is co-administered with LPV/RTV.
+HIV Protease Inhibitors: In a drug interaction trial, coadministration of PROMACTA with lopinavir/ritonavir (LPV/RTV) decreased plasma eltrombopag exposure by 17% [see Clinical Pharmacology (12.3)].
+No dose adjustment is recommended when PROMACTA is coadministered with LPV/RTV.
 Drug interactions with other HIV protease inhibitors have not been evaluated.
 
-Hepatitis C Virus (HCV) Protease Inhibitors:Coadministration of PROMACTA with either boceprevir or telaprevir did not affect eltrombopag or protease inhibitor exposure significantly [see Clinical Pharmacology (12.3)].
+Hepatitis C Virus (HCV) Protease Inhibitors: Coadministration of PROMACTA with either boceprevir or telaprevir did not affect eltrombopag or protease inhibitor exposure significantly [see Clinical Pharmacology (12.3)].
 No dose adjustments are recommended.
 Drug interactions with other HCV protease inhibitors have not been evaluated.
 
 ## 7.4 Peginterferon Alfa 2a/b Therapy
 
-Co-administration of peginterferon alfa 2a (PEGASYS®) or 2b (PEGINTRON®) did not affect eltrombopag exposure in 2 randomized, double-blind, placebo-controlled trials with adult patients with chronic hepatitis C [see Clinical Pharmacology (12.3)].
+Coadministration of peginterferon alfa 2a (PEGASYS®) or 2b (PEGINTRON®) did not affect eltrombopag exposure in 2 randomized, double-blind, placebo-controlled trials with adult patients with chronic hepatitis C [see Clinical Pharmacology (12.3)].
