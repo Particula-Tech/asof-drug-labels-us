@@ -34,7 +34,7 @@ Tell your healthcare provider if you are:
 - pregnant or planning to become pregnant.
   Prolonged use of Morphine Sulfate Extended-release Capsules during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - breastfeeding.
-  Morphine sulfate passes into breast milk and may harm your baby.
+  Morphine passes into breast milk and may harm your baby.
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking Morphine Sulfate Extended-release Capsules with certain other medicines can cause serious side effects.
 
