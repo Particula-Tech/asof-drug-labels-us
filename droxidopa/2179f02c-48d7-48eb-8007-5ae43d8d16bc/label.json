@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA203202"
+  ],
+  "inn": "droxidopa",
+  "labeler": "Lundbeck LLC",
+  "package_ndcs": [
+    "67386-820-19",
+    "67386-821-19",
+    "67386-822-19"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "droxidopa",
+      "name": "Northera"
+    }
+  ],
+  "setid": "2179f02c-48d7-48eb-8007-5ae43d8d16bc",
+  "source": "dailymed"
+}
