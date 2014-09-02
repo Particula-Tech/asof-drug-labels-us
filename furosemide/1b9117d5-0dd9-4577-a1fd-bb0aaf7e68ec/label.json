@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA203428"
+  ],
+  "inn": "furosemide",
+  "labeler": "Heritage Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-473-31",
+    "23155-473-32",
+    "23155-473-33",
+    "23155-473-41",
+    "23155-473-42",
+    "23155-473-43",
+    "23155-473-44",
+    "23155-473-45"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    }
+  ],
+  "setid": "1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec",
+  "source": "dailymed"
+}
