@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA203551"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "45963-734-52",
+    "45963-734-54",
+    "45963-734-74"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "docetaxel",
+      "name": "Docetaxel"
+    }
+  ],
+  "setid": "2c806400-5fdc-4398-8475-37f700b3191f",
+  "source": "dailymed"
+}

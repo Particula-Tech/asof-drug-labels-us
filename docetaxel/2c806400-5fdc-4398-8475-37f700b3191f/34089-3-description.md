@@ -1,0 +1,19 @@
+# 11 DESCRIPTION
+
+Docetaxel is an antineoplastic agent belonging to the taxoid family.
+It is prepared by semisynthesis beginning with a precursor extracted from the renewable needle biomass of yew plants.
+The chemical name for docetaxel is (2R,3S)-N-carboxy-3-phenylisoserine,N-tert-butyl ester, 13-ester with 5β-20-epoxy-1,2α,4,7β,10β,13α-hexahydroxytax-11-en-9-one 4-acetate 2-benzoate, anhydrous.
+Docetaxel has the following structural formula:
+
+Docetaxel is a white to almost-white powder with an empirical formula of C43H53NO14, and a molecular weight of 807.88.
+It is highly lipophilic and practically insoluble in water.
+
+One-vial Docetaxel Injection Concentrate
+
+Docetaxel injection concentrate is a sterile, non-pyrogenic, clear, viscous, colorless to pale yellow solution, without macroscopic particles in solution at 20 mg/mL docetaxel concentration.
+
+Each mL contains 20 mg docetaxel, citric acid anhydrous (6 mg), kollidon 12 PF (povidone P12) (100 mg), polysorbate 80 (424 mg) and ethanol (400 mg/ mL).
+
+Docetaxel injection concentrate is available in single use vials containing 20 mg (1 mL), 80 mg (4 mL) or 140 mg (7 mL) docetaxel.
+
+Docetaxel injection concentrate requires NO prior dilution with a diluent and is ready to add to the infusion solution.
