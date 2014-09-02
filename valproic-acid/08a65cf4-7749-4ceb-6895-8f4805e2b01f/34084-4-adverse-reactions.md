@@ -257,4 +257,4 @@ Genitourinary: Enuresis and urinary tract infection.
 
 Special Senses: Hearing loss.
 
-Other: Allergic reaction, anaphylaxis, developmental delay, autism and/or autism spectrum disorder, bone pain, bradycardia, and cutaneous vasculitis.
+Other: Allergic reaction, anaphylaxis, developmental delay, bone pain, bradycardia, and cutaneous vasculitis.
