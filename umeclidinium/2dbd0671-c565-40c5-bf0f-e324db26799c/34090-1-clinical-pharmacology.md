@@ -60,10 +60,10 @@ Systemic exposure to the metabolites is low.
 Vilanterol: In vitro data showed that vilanterol is metabolized principally by CYP3A4 and is a substrate for the P-gp transporter.
 Vilanterol is metabolized to a range of metabolites with significantly reduced β1- and β2-agonist activity.
 
-Elimination: Umeclidinium:Following intravenous dosing with radio-labeled umeclidinium, mass balance showed 58% of the radio-label in the feces and 22% in the urine.
+Elimination: Umeclidinium: Following intravenous dosing with radio-labeled umeclidinium, mass balance showed 58% of the radio-label in the feces and 22% in the urine.
 The excretion of the drug-related material in the feces following intravenous dosing indicated elimination in the bile.
 Following oral dosing to healthy male subjects, radio-label recovered in feces was 92% of the total dose and that in urine was less than 1% of the total dose, suggesting negligible oral absorption.
-The effective half-life after once daily dosing is 11 hours.
+The effective half-life after once-daily dosing is 11 hours.
 
 Vilanterol: Following oral administration of radio-labeled vilanterol, mass balance showed 70% of the radio-label in the urine and 30% in the feces.
 The effective half-life for vilanterol, as determined from inhalation administration of multiple doses, is 11 hours.
@@ -95,7 +95,7 @@ Inhibitors of P-glycoprotein Transporter: Umeclidinium and vilanterol are both s
 The effect of the moderate P-gp transporter inhibitor verapamil (240 mg once daily) on the steady-state pharmacokinetics of umeclidinium and vilanterol was assessed in healthy subjects.
 No effect on umeclidinium or vilanterol Cmax was observed; however, an approximately 1.4-fold increase in umeclidinium AUC was observed with no effect on vilanterol AUC (see Figure 2).
 
-Inhibitors of Cytochrome P450 2D6:In vitro metabolism of umeclidinium is mediated primarily by CYP2D6.
+Inhibitors of Cytochrome P450 2D6: In vitro metabolism of umeclidinium is mediated primarily by CYP2D6.
 However, no clinically meaningful difference in systemic exposure to umeclidinium (500 mcg) (8 times the approved dose) was observed following repeat daily inhaled dosing in CYP2D6 normal (ultrarapid, extensive, and intermediate metabolizers) and poor metabolizer subjects (see Figure 1).
 
 Figure 2.
