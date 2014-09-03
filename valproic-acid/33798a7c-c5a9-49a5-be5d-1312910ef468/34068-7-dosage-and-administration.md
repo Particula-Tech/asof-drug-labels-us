@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Divalproex sodium delayed-release tablets are intended for oral administration.
 Divalproex sodium delayed-release tablets should be swallowed whole and should not be crushed or chewed.
@@ -10,7 +10,7 @@ If a dose is skipped, the patient should not double the next dose.
 ## 2.1 Mania
 
 Divalproex sodium delayed-release tablets are administered orally.
-The recommended initial dose is 750 mg (as valproic acid) daily in divided doses.
+The recommended initial dose is 750 mg daily in divided doses.
 The dose should be increased as rapidly as possible to achieve the lowest therapeutic dose which produces the desired clinical effect or the desired range of plasma concentrations.
 In placebo-controlled clinical trials of acute mania, patients were dosed to a clinical response with a trough plasma concentration between 50 and 125 mcg/mL.
 Maximum concentrations were generally achieved within 14 days.
@@ -47,7 +47,7 @@ Conversion to Monotherapy:
 Patients should initiate therapy at 10 to 15 mg/kg/day.
 The dosage should be increased by 5 to 10 mg/kg/week to achieve optimal clinical response.
 Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day.
-If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50-100 mcg/mL).
+If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50 to 100 mcg/mL).
 No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made.
 
 Concomitant antiepilepsy drug (AED) dosage can ordinarily be reduced by approximately 25% every 2 weeks.
@@ -61,7 +61,7 @@ The dosage may be increased by 5 to 10 mg/kg/week to achieve optimal clinical re
 Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day.
 If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50 to 100 mcg/mL).
 No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made.
-If the total daily dose exceeds 250 mg (as valproic acid), it should be given in divided doses.
+If the total daily dose exceeds 250 mg, it should be given in divided doses.
 
 In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see CLINICAL STUDIES (14.2)].
 However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see DRUG INTERACTIONS (7)].
@@ -70,7 +70,7 @@ Simple and Complex Absence Seizures
 
 The recommended initial dose is 15 mg/kg/day, increasing at one week intervals by 5 to 10 mg/kg/day until seizures are controlled or side effects preclude further increases.
 The maximum recommended dosage is 60 mg/kg/day.
-If the total daily dose exceeds 250 mg (as valproic acid), it should be given in divided doses.
+If the total daily dose exceeds 250 mg, it should be given in divided doses.
 
 A good correlation has not been established between daily dose, serum concentrations, and therapeutic effect.
 However, therapeutic valproate serum concentrations for most patients with absence seizures is considered to range from 50 to 100 mcg/mL.
@@ -80,7 +80,7 @@ As the divalproex sodium delayed-release tablets dosage are titrated upward, blo
 
 Antiepilepsy drugs should not be abruptly discontinued in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 
-In epileptic patients previously receiving valproic acid therapy, divalproex sodium delayed-release tablets should be initiated at the same daily dose and dosing schedule.
+In epileptic patients previously receiving Depakene® (valproic acid) therapy, divalproex sodium delayed-release tablets should be initiated at the same daily dose and dosing schedule.
 After the patient is stabilized on divalproex sodium delayed-release tablets, a dosing schedule of two or three times a day may be elected in selected patients.
 
 ## 2.3 Migraine
@@ -88,7 +88,7 @@ After the patient is stabilized on divalproex sodium delayed-release tablets, a 
 Divalproex sodium delayed-release tablets are indicated for prophylaxis of migraine headaches in adults.
 
 Divalproex sodium delayed-release tablets are administered orally.
-The recommended starting dose is 250 mg (as valproic acid) twice daily.
+The recommended starting dose is 250 mg twice daily.
 Some patients may benefit from doses up to 1,000 mg/day.
 In the clinical trials, there was no evidence that higher doses led to greater efficacy.
 
@@ -103,7 +103,7 @@ The ultimate therapeutic dose should be achieved on the basis of both tolerabili
 
 Dose-Related Adverse Reactions
 
-The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose- related.
+The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related.
 The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see WARNINGS AND PRECAUTIONS (5.8)].
 The benefit of improved therapeutic effect with higher doses should be weighed against the possibility of a greater incidence of adverse reactions.
 

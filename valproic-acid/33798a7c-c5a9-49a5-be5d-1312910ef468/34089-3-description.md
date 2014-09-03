@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Divalproex sodium is a stable co-ordination compound comprised of sodium valproate and valproic acid in a 1:1 molar relationship and formed during the partial neutralization of valproic acid with 0.5 equivalent of sodium hydroxide.
 Chemically it is designated as sodium hydrogen bis(2-propylpentanoate).

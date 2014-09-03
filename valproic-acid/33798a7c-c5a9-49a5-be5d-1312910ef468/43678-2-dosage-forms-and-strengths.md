@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Divalproex sodium delayed-release tablets, 125 mg are pink colored, oval shaped, biconvex, enteric coated tablets, imprinted with "L005" (in black ink) on one side and plain on the other side.
 

@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-Approved Medication Guide.
 
@@ -14,7 +14,7 @@ Warn patients and guardians that abdominal pain, nausea, vomiting, and/or anorex
 
 Inform pregnant women and women of childbearing potential that use of valproate during pregnancy increases the risk of birth defects and decreased IQ in children who were exposed.
 Advise women to use effective contraception while using valproate.
-When appropriate, prescribers should counsel these patients about alternative therapeutic options.
+When appropriate, counsel these patients about alternative therapeutic options.
 This is particularly important when valproate use is considered for a condition not usually associated with permanent injury or death.
 Advise patients to read the Medication Guide, which appears as the last section of the labeling [see WARNINGS AND PRECAUTIONS (5.2, 5.3, 5.4) and USE IN SPECIFIC POPULATIONS (8.1)].
 
@@ -31,15 +31,15 @@ Instruct patients, caregivers, and families to report behaviors of concern immed
 
 ## 17.5 Hyperammonemia
 
-Inform Patients of the signs and symptoms associated with hyperammonemic encephalopathy and be told to inform the prescriber if any of these symptoms occur [see WARNINGS AND PRECAUTIONS (5.9, 5.10)].
+Inform patients of the signs and symptoms associated with hyperammonemic encephalopathy and be told to inform the prescriber if any of these symptoms occur [see WARNINGS AND PRECAUTIONS (5.9, 5.10)].
 
 ## 17.6 CNS Depression
 
 Since valproate products may produce CNS depression, especially when combined with another CNS depressant (e.g., alcohol), advise patients not to engage in hazardous activities, such as driving an automobile or operating dangerous machinery, until it is known that they do not become drowsy from the drug.
 
-## 17.7 Multi-Organ Hypersensitivity Reaction
+## 17.7 Multi-Organ Hypersensitivity Reactions
 
-Instruct Patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see WARNINGS AND PRECAUTIONS (5.12)]
+Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see WARNINGS AND PRECAUTIONS (5.12)]
 
 ## 17.8 Medication Residue in the Stool
 
@@ -61,4 +61,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: November 2013 ID #231262
+Revised: September 2014 ID #238567

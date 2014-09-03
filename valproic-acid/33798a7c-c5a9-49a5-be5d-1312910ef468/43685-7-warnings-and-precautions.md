@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Hepatotoxicity
 
@@ -6,7 +6,7 @@ General Information on Hepatotoxicity
 
 Hepatic failure resulting in fatalities has occurred in patients receiving valproate.
 These incidents usually have occurred during the first six months of treatment.
-Serious or fatal hepatotoxicity may be preceded by non specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
+Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
 In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
 Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months.
@@ -24,7 +24,7 @@ In progressively older patient groups experience in epilepsy has indicated that 
 Patients with Known or Suspected Mitochondrial Disease
 
 Divalproex sodium is contraindicated in patients known to have mitochondrial disorders caused by POLG mutations and children under two years of age who are clinically suspected of having a mitochondrial disorder [see CONTRAINDICATIONS (4)].
-Valproate-induced acute liver failure and liver-related deaths have been reported in patients with hereditary neurometabolic syndromes caused by mutations in the gene for mitochondrial DNA polymerase γ (POLG) (e.g., Alpers- Huttenlocher Syndrome) at a higher rate than those without these syndromes.
+Valproate-induced acute liver failure and liver-related deaths have been reported in patients with hereditary neurometabolic syndromes caused by mutations in the gene for mitochondrial DNA polymerase γ (POLG) (e.g., Alpers-Huttenlocher Syndrome) at a higher rate than those without these syndromes.
 Most of the reported cases of liver failure in patients with these syndromes have been identified in children and adolescents.
 
 POLG-related disorders should be suspected in patients with a family history or suggestive symptoms of a POLG-related disorder, including but not limited to unexplained encephalopathy, refractory epilepsy (focal, myoclonic), status epilepticus at presentation, developmental delays, psychomotor regression, axonal sensorimotor neuropathy, myopathy cerebellar ataxia, opthalmoplegia, or complicated migraine with occipital aura.
@@ -118,9 +118,9 @@ Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
-| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
-| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Other | 1 | 1.8 | 1.9 | 0.9 |
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
@@ -134,7 +134,7 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.8 Thrombocytopenia
 
-The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia may be dose-related.
+The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related.
 In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
 In the remaining patients, platelet counts normalized with continued treatment.

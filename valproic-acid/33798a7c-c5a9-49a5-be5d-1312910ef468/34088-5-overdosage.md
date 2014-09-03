@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Overdosage with valproate may result in somnolence, heart block, and deep coma.
 Fatalities have been reported; however patients have recovered from valproate levels as high as 2,120 mcg/mL.

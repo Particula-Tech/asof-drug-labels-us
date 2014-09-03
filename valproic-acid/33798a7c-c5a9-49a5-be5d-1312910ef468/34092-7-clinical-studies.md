@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Mania
 
@@ -6,7 +6,7 @@ The effectiveness of divalproex sodium delayed-release tablets for the treatment
 
 (1) Study 1: The first study enrolled adult patients who met DSM-III-R criteria for bipolar disorder and who were hospitalized for acute mania.
 In addition, they had a history of failing to respond to or not tolerating previous lithium carbonate treatment.
-Divalproex sodium delayed-release tablets were initiated at a dose of 250 mg tid and adjusted to achieve serum valproate concentrations in a range of 50-100 mcg/mL by day 7.
+Divalproex sodium delayed-release tablets were initiated at a dose of 250 mg tid and adjusted to achieve serum valproate concentrations in a range of 50 to 100 mcg/mL by day 7.
 Mean divalproex sodium delayed-release tablet doses for completers in this study were 1,118, 1,525, and 2,402 mg/day at Days 7, 14, and 21, respectively.
 Patients were assessed on the Young Mania Rating Scale (YMRS; score ranges from 0-60), an augmented Brief Psychiatric Rating Scale (BPRS-A), and the Global Assessment Scale (GAS).
 Baseline scores and change from baseline in the Week 3 endpoint (last-observation-carry-forward) analysis were as follows:
@@ -16,13 +16,13 @@ Study 1
 
 | YMRS Total Score |  |  |  |
 | --- | --- | --- | --- |
-| Group | BaselineMean score at baseline | BL to Wk 3Change from baseline to Day 21 (LOCF) | DifferenceDifference in change from baseline to Day 21 endpoint (LOCF) between divalproex sodium delayed-release tablets and placebo and lithium and placebo |
+| Group | BaselineMean score at baseline | BL to Wk 3Change from baseline to week 3 (LOCF) | DifferenceDifference in change from baseline to week 3 endpoint (LOCF) between divalproex sodium delayed-release tablets and placebo |
 | Placebo | 28.8 | + 0.2 |  |
 | Divalproex sodium delayed-release tablets | 28.5 | - 9.5 | 9.7 |
 | BPRS-A Total Score |  |  |  |
 | Group | Baseline | BL to Wk 3 | Difference |
 | Placebo | 76.2 | + 1.8 |  |
-| Divalproex sodium delayed-release tablets | 76.4 | - 17.0 | 18.8 |
+| Divalproex sodium delayed-release tablets | 76.4 | - 17 | 18.8 |
 | GAS Score |  |  |  |
 | Group | Baseline | BL to Wk 3 | Difference |
 | Placebo | 31.8 | 0.0 |  |
@@ -31,10 +31,10 @@ Study 1
 Divalproex sodium delayed-release tablets were statistically significantly superior to placebo on all three measures of outcome.
 
 (2) Study 2: The second study enrolled adult patients who met Research Diagnostic Criteria for manic disorder and who were hospitalized for acute mania.
-Divalproex sodium delayed-release tablets were initiated at a dose of 250 mg tid and adjusted within a dose range of 750-2,500 mg/day to achieve serum valproate concentrations in a range of 40 to 150 mcg/mL.
+Divalproex sodium delayed-release tablets were initiated at a dose of 250 mg tid and adjusted within a dose range of 750 to 2,500 mg/day to achieve serum valproate concentrations in a range of 40 to 150 mcg/mL.
 Mean divalproex sodium delayed-release tablet doses for completers in this study were 1,116, 1,683, and 2,006 mg/day at Days 7, 14, and 21, respectively.
 Study 2 also included a lithium group for which lithium doses for completers were 1,312, 1,869, and 1,984 mg/day at Days 7, 14, and 21, respectively.
-Patients were assessed on the Manic Rating Scale (MRS; score ranges from 11-63), and the primary outcome measures were the total MRS score, and scores for two subscales of the MRS, i.e., the Manic Syndrome Scale (MSS) and the Behavior and Ideation Scale (BIS).
+Patients were assessed on the Manic Rating Scale (MRS; score ranges from 11 to 63), and the primary outcome measures were the total MRS score, and scores for two subscales of the MRS, i.e., the Manic Syndrome Scale (MSS) and the Behavior and Ideation Scale (BIS).
 Baseline scores and change from baseline in the Week 3 endpoint (last-observation-carry-forward) analysis were as follows:
 
 Table 7.
@@ -42,7 +42,7 @@ Study 2
 
 | MRS Total Score |  |  |  |
 | --- | --- | --- | --- |
-| Group | BaselineMean score at baseline | BL to Day 21Change from baseline to Week 3 (LOCF) | DifferenceDifference in change from baseline to Week 3 endpoint (LOCF) between divalproex sodium delayed-release tablets and placebo. |
+| Group | BaselineMean score at baseline | BL to Day 21Change from baseline to day 21 (LOCF) | DifferenceDifference in change from baseline to day 21 endpoint (LOCF) between divalproex sodium delayed-release tablets and placebo and lithium and placebo |
 | Placebo | 38.9 | - 4.4 |  |
 | Lithium | 37.9 | - 10.5 | 6.1 |
 | Divalproex sodium delayed-release tablets | 38.1 | - 9.5 | 5.1 |
@@ -50,11 +50,11 @@ Study 2
 | Group | Baseline | BL to Day 21 | Difference |
 | Placebo | 18.9 | - 2.5 |  |
 | Lithium | 18.5 | - 6.2 | 3.7 |
-| Divalproex sodium delayed-release tablets | 18.9 | - 6.0 | 3.5 |
+| Divalproex sodium delayed-release tablets | 18.9 | - 6 | 3.5 |
 | BIS Total Score |  |  |  |
 | Group | Baseline | BL to Day 21 | Difference |
 | Placebo | 16.4 | - 1.4 |  |
-| Lithium | 16.0 | - 3.8 | 2.4 |
+| Lithium | 16 | - 3.8 | 2.4 |
 | Divalproex sodium delayed-release tablets | 15.7 | – 3.2 | 1.8 |
 
 Divalproex sodium delayed-release tablets were statistically significantly superior to placebo on all three measures of outcome.
@@ -68,17 +68,17 @@ Figure 1
 
 PBO = placebo, DVPX = Divalproex sodium delayed-release tablets
 
-## 14.3 Epilepsy
+## 14.2 Epilepsy
 
 The efficacy of valproate in reducing the incidence of complex partial seizures (CPS) that occur in isolation or in association with other seizure types was established in two controlled trials.
 
-In one multiclinic, placebo-controlled study employing an add-on design (adjunctive therapy), 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original antiepilepsy drug (AED), either divalproex sodium delayed-release tablets or placebo.
+In one multiclinic, placebo controlled study employing an add-on design, (adjunctive therapy) 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original antiepilepsy drug (AED), either divalproex sodium delayed-release tablets or placebo.
 Randomized patients were to be followed for a total of 16 weeks.
 The following Table presents the findings.
 
 | Add-on Treatment | Number of Patients | Baseline Incidence | Experimental Incidence |
 | --- | --- | --- | --- |
-| Divalproex sodium delayed-release tablets | 75 | 16.0 | 8.91 |
+| Divalproex sodium delayed-release tablets | 75 | 16 | 8.91 |
 | Placebo | 69 | 14.5 | 11.5 |
 
 Figure 2 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the adjunctive therapy study.
@@ -110,7 +110,7 @@ Thus, in a display of this type, the curve for a more effective treatment is shi
 This Figure shows that the proportion of patients achieving any particular level of reduction was consistently higher for high dose valproate than for low dose valproate.
 For example, when switching from carbamazepine, phenytoin, phenobarbital or primidone monotherapy to high dose valproate monotherapy, 63% of patients experienced no change or a reduction in complex partial seizure rates compared to 54% of patients receiving low dose valproate.
 
-## 14.2 Migraine
+## 14.3 Migraine
 
 The results of two multicenter, randomized, double-blind, placebo-controlled clinical trials established the effectiveness of divalproex sodium delayed-release tablets in the prophylactic treatment of migraine headache.
 

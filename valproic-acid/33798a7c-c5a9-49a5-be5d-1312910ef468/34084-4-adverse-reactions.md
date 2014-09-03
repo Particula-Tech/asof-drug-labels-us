@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -9,7 +9,7 @@ The adverse reactions were usually mild or moderate in intensity, but sometimes 
 In clinical trials, the rates of premature termination due to intolerance were not statistically different between placebo, divalproex sodium delayed-release tablets, and lithium carbonate.
 A total of 4%, 8% and 11% of patients discontinued therapy due to intolerance in the placebo, divalproex sodium delayed-release tablets, and lithium carbonate groups, respectively.
 
-Table 2 summarizes those adverse reactions reported for patients in these trials where the incidence rate in the divalproex sodium delayed-release tablets -treated group was greater than 5% and greater than the placebo incidence, or where the incidence in the divalproex sodium delayed-release tablets -treated group was statistically significantly greater than the placebo group.
+Table 2 summarizes those adverse reactions reported for patients in these trials where the incidence rate in the divalproex sodium delayed-release tablets-treated group was greater than 5% and greater than the placebo incidence, or where the incidence in the divalproex sodium delayed-release tablets-treated group was statistically significantly greater than the placebo group.
 Vomiting was the only reaction that was reported by significantly (p ≤ 0.05) more patients receiving divalproex sodium delayed-release tablets compared to placebo.
 
 Table 2.
@@ -176,35 +176,35 @@ Digestive System
 
 Increased appetite, flatulence, hematemesis, eructation, pancreatitis, periodontal abscess.
 
-Hemic and Lymphatic System:
+Hemic and Lymphatic System
 
 Petechia.
 
-Metabolic and Nutritional Disorders:
+Metabolic and Nutritional Disorders
 
 SGOT increased, SGPT increased.
 
-Musculoskeletal System:
+Musculoskeletal System
 
 Myalgia, twitching, arthralgia, leg cramps, myasthenia.
 
-Nervous System:
+Nervous System
 
 Anxiety, confusion, abnormal gait, paresthesia, hypertonia, incoordination, abnormal dreams, personality disorder.
 
-Respiratory System:
+Respiratory System
 
 Sinusitis, cough increased, pneumonia, epistaxis.
 
-Skin and Appendages:
+Skin and Appendages
 
 Rash, pruritus, dry skin.
 
-Special Senses:
+Special Senses
 
 Taste perversion, abnormal vision, deafness, otitis media.
 
-Urogenital System:
+Urogenital System
 
 Urinary incontinence, vaginitis, dysmenorrhea, amenorrhea, urinary frequency.
 
@@ -286,76 +286,30 @@ Urogenital System
 
 Cystitis, metrorrhagia, and vaginal hemorrhage.
 
-## 6.4 Other Patient Populations
+## 6.4 Post-Marketing Experience
 
-Adverse reactions that have been reported with all dosage forms of valproate from epilepsy trials, spontaneous reports, and other sources are listed below by body system.
-
-Gastrointestinal
-
-The most commonly reported side effects at the initiation of therapy are nausea, vomiting, and indigestion.
-These effects are usually transient and rarely require discontinuation of therapy.
-Diarrhea, abdominal cramps, and constipation have been reported.
-Both anorexia with some weight loss and increased appetite with weight gain have also been reported.
-The administration of delayed-release divalproex sodium may result in reduction of gastrointestinal side effects in some patients.
-
-CNS Effects
-
-Sedative effects have occurred in patients receiving valproate alone but occur most often in patients receiving combination therapy.
-Sedation usually abates upon reduction of other antiepileptic medication.
-Tremor (may be dose-related), hallucinations, ataxia, headache, nystagmus, diplopia, asterixis, "spots before eyes", dysarthria, dizziness, confusion, hypesthesia, vertigo, incoordination, and parkinsonism have been reported with the use of valproate.
-Rare cases of coma have occurred in patients receiving valproate alone or in conjunction with phenobarbital.
-In rare instances encephalopathy with or without fever has developed shortly after the introduction of valproate monotherapy without evidence of hepatic dysfunction or inappropriately high plasma valproate levels.
-Although recovery has been described following drug withdrawal, there have been fatalities in patients with hyperammonemic encephalopathy, particularly in patients with underlying urea cycle disorders [see WARNINGS AND PRECAUTIONS (5.6)].
-
-Several reports have noted reversible cerebral atrophy and dementia in association with valproate therapy.
+The following adverse reactions have been identified during post approval use of divalproex sodium.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Dermatologic
 
-Transient hair loss, skin rash, photosensitivity, generalized pruritus, erythema multiforme, and Stevens - Johnson syndrome.
-Rare cases of toxic epidermal necrolysis have been reported including a fatal case in a 6 month old infant taking valproate and several other concomitant medications.
-An additional case of toxic epidermal necrosis resulting in death was reported in a 35 year old patient with AIDS taking several concomitant medications and with a history of multiple cutaneous drug reactions.
-Serious skin reactions have been reported with concomitant administration of lamotrigine and valproate [see DRUG INTERACTIONS (7.2)].
+Photosensitivity, erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
 
 Psychiatric
 
-Emotional upset, depression, psychosis, aggression, hyperactivity, hostility, and behavioral deterioration.
+Emotional upset, psychosis, aggression, hyperactivity, hostility, and behavioral deterioration.
 
 Musculoskeletal
 
-Weakness.
+Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 
 Hematologic
 
-Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see WARNINGS AND PRECAUTIONS (5.8) and DRUG INTERACTIONS (7)].
 Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leucopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
-
-Hepatic
-
-Minor elevations of transaminases (e.g., SGOT and SGPT) and LDH are frequent and appear to be dose- related.
-Occasionally, laboratory test results include increases in serum bilirubin and abnormal changes in other liver function tests.
-These results may reflect potentially serious hepatotoxicity [see WARNINGS AND PRECAUTIONS (5.1)].
 
 Endocrine
 
-Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, and parotid gland swelling.
-Abnormal thyroid function tests [see WARNINGS AND PRECAUTIONS (5.16)].
-
-There have been rare spontaneous reports of polycystic ovary disease.
-A cause and effect relationship has not been established.
-
-Pancreatic
-
-Acute pancreatitis including fatalities [see WARNINGS AND PRECAUTIONS (5.5)].
-
-Metabolic
-
-Hyperammonemia [see WARNINGS AND PRECAUTIONS (5.9, 5.10)], hyponatremia, and inappropriate ADH secretion.
-
-There have been rare reports of Fanconi's syndrome occurring chiefly in children.
-
-Decreased carnitine concentrations have been reported although the clinical relevance is undetermined.
-
-Hyperglycinemia has occurred and was associated with a fatal outcome in a patient with preexistent nonketotic hyperglycinemia.
+Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
 Genitourinary
 
@@ -363,11 +317,8 @@ Enuresis and urinary tract infection.
 
 Special Senses
 
-Hearing loss, either reversible or irreversible, has been reported; however, a cause and effect relationship has not been established.
-Ear pain has also been reported.
+Hearing loss.
 
 Other
 
-Allergic reaction, anaphylaxis, edema of the extremities, lupus erythematosus, bone pain, cough increased, pneumonia, otitis media, bradycardia, cutaneous vasculitis, fever, and hypothermia [see WARNINGS AND PRECAUTIONS (5.11)].
-
-There have been reports of developmental delay, autism and/or autism spectrum disorder in the offspring of women exposed to valproate during pregnancy.
+Allergic reaction, anaphylaxis, developmental delay, bone pain, bradycardia, and cutaneous vasculitis.

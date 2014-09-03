@@ -220,7 +220,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store divalproex sodium delayed-release tablets?
 
-- Store divalproex sodium delayed-release tablets between 59°F to 86°F (15°C to 30°C)
+- Store divalproex sodium delayed-release tablets between 59°F to 86°F (15°C to 30°C).
 
 Keep divalproex sodium delayed-release tablets and all medicines out of the reach of children.
 
@@ -267,4 +267,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: November 2013 ID #231263
+Revised: September 2014 ID #238568
