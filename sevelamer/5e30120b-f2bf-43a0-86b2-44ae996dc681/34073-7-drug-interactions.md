@@ -28,6 +28,9 @@ In 23 healthy subjects, a single dose of 7 Renagel capsules did not alter the ab
 
 ## 7.7 Other Concomitant Drug Therapy
 
+During postmarketing experience, reduced concentrations of cyclosporin, mycophenolate mofetil and tacrolimus have been reported in transplant patients when co-administered with sevelamer hydrochloride without any clinical consequences (for example, graft rejection).
+The possibility of an interaction cannot be excluded and close monitoring of blood concentrations of cyclosporin, mycophenolate mofetil and tacrolimus should be considered during the use of any of these agents in combination with sevelamer and after its withdrawal.
+
 There are no empirical data on avoiding drug interactions between Renagel® and most concomitant drugs.
 During postmarketing experience, very rare cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients co-administered sevelamer hydrochloride and levothyroxine.
 Closer monitoring of TSH levels is therefore recommended in patients receiving both medications.

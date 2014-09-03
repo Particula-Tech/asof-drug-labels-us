@@ -15,7 +15,7 @@ Starting Dose for Dialysis Patients Not Taking a Phosphate Binder
 
 Patients Switching From Calcium Acetate.
 In a study in 84 CKD patients on hemodialysis, a similar reduction in serum phosphorus was seen with equivalent doses (approximately mg for mg) of Renagel and calcium acetate.
-Table 2 gives recommended starting doses of Renagel based on a patient’s current calcium acetate dose.
+Table 2 gives recommended starting doses of Renagel based on a patient's current calcium acetate dose.
 
 Table 2.
 Starting Dose for Dialysis Patients Switching From Calcium Acetate to Renagel
