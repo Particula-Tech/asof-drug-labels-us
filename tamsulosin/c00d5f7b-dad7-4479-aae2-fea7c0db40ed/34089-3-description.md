@@ -10,4 +10,4 @@ The empirical formula of tamsulosin hydrochloride is C20H28N2O5S • HCl.
 The molecular weight of tamsulosin hydrochloride is 444.98.
 Its structural formula is:
 
-Each FLOMAX capsule for oral administration contains tamsulosin hydrochloride 0.4 mg, and the following inactive ingredients: methacrylic acid copolymer dispersion, NF; microcrystalline cellulose, NF; triacetin, USP; calcium stearate, NF; talc, USP; FD&C blue No. 2; titanium dioxide; ferric oxide; gelatin, and trace amounts of black edible ink.
+Each FLOMAX capsule for oral administration contains tamsulosin hydrochloride, USP 0.4 mg, and the following inactive ingredients: microcrystalline cellulose, methacrylic acid and ethyl acrylate copolymer dispersion, methacrylic acid copolymer dispersion, talc, polysorbate 80, sodium lauryl sulfate, colloidal silicon dioxide, gelatin, titanium dioxide, FD&C blue No. 2, iron oxide, propylene glycol, and shellac.
