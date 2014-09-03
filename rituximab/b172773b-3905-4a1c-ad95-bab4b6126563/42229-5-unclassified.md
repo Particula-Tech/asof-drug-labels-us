@@ -2,14 +2,16 @@ RITUXAN® [rituximab]
 
 Manufactured by: Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
-Initial US Approval: November 1997 PI Revision Date 09/2013 Rituxan® is a registered trademark of Biogen Idec, Inc. ©2013 Biogen Idec, Inc. and Genentech, Inc.
+US License Number 1048
 
-RITUXAN® [rituximab]
+Rituxan® is a registered trademark of Biogen Idec, Inc. ©2014 Biogen Idec, Inc. and Genentech, Inc.
 
-Manufactured by: Genentech, Inc.
+Manufactured by: Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080 4990 US License Number 1048
 
-A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
+Jointly Marketed by: Biogen Idec Inc. and Genentech USA, Inc.
 
-Initial US Approval: November 1997 Med Guide Revision Date: September 2013 Rituxan® is a registered trademark of Biogen Idec, Inc. ©2013 Biogen Idec, Inc. and Genentech, Inc.
+Revised: August 2014
+
+Rituxan® is a registered trademark of Biogen Idec, Inc. ©2014 Biogen Idec, Inc. and Genentech, Inc.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

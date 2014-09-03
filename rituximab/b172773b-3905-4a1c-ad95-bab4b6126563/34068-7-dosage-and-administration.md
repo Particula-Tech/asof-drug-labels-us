@@ -14,7 +14,8 @@ Rituxan should only be administered by a healthcare professional with appropriat
   In the absence of infusion toxicity, increase infusion rate by 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
 - Subsequent Infusions: Standard Infusion: Initiate infusion at a rate of 100 mg/hr.
   In the absence of infusion toxicity, increase rate by 100 mg/hr increments at 30-minute intervals, to a maximum of 400 mg/hr.
-  For previously untreated follicular NHL and DLBCL patients: If patients did not experience a Grade 3 or 4 infusion related adverse event during Cycle 1, a 90-minute infusion can be administered in Cycle 2 with a glucocorticoid-containing chemotherapy regimen.Patients who have clinically significant cardiovascular disease or who have a circulating lymphocyte count ≥5000/mm3 before Cycle 2 should not be administered the 90-minute infusion [see Clinical Studies (14.4)].
+  For previously untreated follicular NHL and DLBCL patients: If patients did not experience a Grade 3 or 4 infusion related adverse event during Cycle 1, a 90-minute infusion can be administered in Cycle 2 with a glucocorticoid-containing chemotherapy regimen.
+  Patients who have clinically significant cardiovascular disease or who have a circulating lymphocyte count ≥5000/mm3 before Cycle 2 should not be administered the 90-minute infusion [see Clinical Studies (14.4)].
   - Initiate at a rate of 20% of the total dose given in the first 30 minutes and the remaining 80% of the total dose given over the next 60 minutes.
     If the 90-minute infusion is tolerated in Cycle 2, the same rate can be used when administering the remainder of the treatment regimen (through Cycle 6 or 8).
 - Interrupt the infusion or slow the infusion rate for infusion reactions [see Boxed Warning, Warnings and Precautions (5.1)].
@@ -38,7 +39,7 @@ The recommended dose is:
 
 - 375 mg/m2 the day prior to the initiation of FC chemotherapy, then 500 mg/m2 on Day 1 of cycles 2–6 (every 28 days).
 
-## 2.4 Recommended Dose as a Component of Zevalin®
+## 2.4 Recommended Dose as a Component of Zevalin® for treatment of NHL
 
 - Infuse rituximab 250 mg/m2 within 4 hours prior to the administration of Indium-111-(In-111-) Zevalin and within 4 hours prior to the administration of Yttrium-90- (Y-90-) Zevalin.
 - Administer Rituxan and In-111-Zevalin 7–9 days prior to Rituxan and Y-90- Zevalin.
@@ -76,7 +77,12 @@ PCP prophylaxis is also recommended for patients with GPA and MPA during treatme
 Use appropriate aseptic technique.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 Do not use vial if particulates or discoloration is present.
-Withdraw the necessary amount of Rituxan and dilute to a final concentration of 1 to 4 mg/mL in an infusion bag containing either 0.9% Sodium Chloride, USP, or 5% Dextrose in Water, USP.
+Withdraw the necessary amount of Rituxan and dilute to a final concentration of 1 mg/mL to 4 mg/mL in an infusion bag containing either 0.9% Sodium Chloride, USP, or 5% Dextrose in Water, USP.
 Gently invert the bag to mix the solution.
 Do not mix or dilute with other drugs.
 Discard any unused portion left in the vial.
+
+Rituxan solutions for infusion may be stored at 2°C–8°C (36°F–46°F) for 24 hours.
+Rituxan solutions for infusion have been shown to be stable for an additional 24 hours at room temperature.
+However, since Rituxan solutions do not contain a preservative, diluted solutions should be stored refrigerated (2°C–8°C).
+No incompatibilities between Rituxan and polyvinylchloride or polyethylene bags have been observed.

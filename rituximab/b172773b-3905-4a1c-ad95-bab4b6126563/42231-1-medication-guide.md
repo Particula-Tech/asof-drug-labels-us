@@ -1,4 +1,4 @@
-MEDICATION GUIDE Rituxan® (ri-tuk-san) (rituximab) Injection for Intravenous Infusion
+MEDICATION GUIDE Rituxan® (ri-tuk-san) (rituximab) injection
 
 Read this Medication Guide before you start Rituxan and before each Rituxan infusion.
 There may be new information.
@@ -94,7 +94,7 @@ Before receiving Rituxan, tell your doctor if you:
   It is not known if Rituxan passes into your breast milk.
   You and your doctor should decide the best way to feed your baby if you receive Rituxan.
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Especially tell your doctor if you take or have taken:
 
 - 
@@ -196,8 +196,6 @@ What are the ingredients in Rituxan?
 
 Active ingredient: rituximab
 
-Inactive ingredients: sodium chloride, sodium citrate dihydrate, polysorbate 80, and water for injection.
+Inactive ingredients: polysorbate 80, sodium chloride, sodium citrate dihydrate, and water for injection.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Jointly Marketed by: Biogen Idec Inc. and Genentech USA, Inc.

@@ -21,7 +21,7 @@ These reactions include paraneoplastic pemphigus, Stevens-Johnson syndrome, lich
 The onset of these reactions has been variable and includes reports with onset on the first day of Rituxan exposure.
 Discontinue Rituxan in patients who experience a severe mucocutaneous reaction.
 The safety of readministration of Rituxan to patients with severe mucocutaneous reactions has not been determined.
-[See Boxed Warning, Adverse Reactions (6, 6.1)].
+[See Boxed Warning, Adverse Reactions (6)].
 
 ## 5.3 Hepatitis B Virus Reactivation
 
@@ -41,7 +41,7 @@ HBV reactivation has been reported up to 24 months following completion of Ritux
 
 In patients who develop reactivation of HBV while on Rituxan, immediately discontinue Rituxan and any concomitant chemotherapy, and institute appropriate treatment.
 Insufficient data exist regarding the safety of resuming Rituxan in patients who develop HBV reactivation.
-Resumption of Rituxan in patients whose HBV reactivation resolves should be discussed with physicians with expertise in managing hepatitis B.
+Resumption of Rituxan in patients whose HBV reactivation resolves should be discussed with physicians with expertise in managing hepatitis B. [See Boxed Warning, Adverse Reactions (6)]
 
 ## 5.4 Progressive Multifocal Leukoencephalopathy (PML)
 
@@ -62,7 +62,7 @@ A high number of circulating malignant cells (≥ 25,000/mm3) or high tumor burd
 
 Administer aggressive intravenous hydration and anti-hyperuricemic therapy in patients at high risk for TLS.
 Correct electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated.
-[See Boxed Warning, Warnings and Precautions (5.8)].
+[See Warnings and Precautions (5.8), Adverse Reactions (6)].
 
 ## 5.6 Infections
 
@@ -125,7 +125,7 @@ Use of concomitant immunosuppressants other than corticosteroids has not been st
 ## 5.13 Use in RA Patients Who Have Not Had Prior Inadequate Response to Tumor Necrosis Factor (TNF) Antagonists
 
 While the efficacy of Rituxan was supported in four controlled trials in patients with RA with prior inadequate responses to non-biologic DMARDs, and in a controlled trial in MTX-naïve patients, a favorable risk-benefit relationship has not been established in these populations.
-The use of Rituxan in patients with RA who have not had prior inadequate response to one or more TNF antagonists is not recommended [see Clinical Studies (14.6)].
+The use of Rituxan in patients with RA who have not had prior inadequate response to one or more TNF antagonists is not recommended [See Clinical Studies (14.6)].
 
 ## 5.14 Retreatment in Patients with Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 

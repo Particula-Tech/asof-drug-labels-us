@@ -16,6 +16,6 @@ Hepatitis B Virus (HBV) Reactivation
 
 HBV reactivation can occur in patients treated with Rituxan, in some cases resulting in fulminant hepatitis, hepatic failure, and death.
 Screen all patients for HBV infection before treatment initiation, and monitor patients during and after treatment with Rituxan.
-Discontinue Rituxan and concomitant medications in the event of HBV reactivation [see Warnings and Precautions (5.3), Adverse Reactions (6.1)].
+Discontinue Rituxan and concomitant medications in the event of HBV reactivation [see Warnings and Precautions (5.3), Adverse Reactions (6)].
 
 Progressive Multifocal Leukoencephalopathy (PML), including fatal PML, can occur in patients receiving Rituxan [see Warnings and Precautions (5.4), Adverse Reactions (6)].
