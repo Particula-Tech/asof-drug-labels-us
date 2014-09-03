@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tablets: Renvela® 800 mg Tablets are supplied as white oval, film-coated, compressed tablets, imprinted with “RENVELA 800”, containing 800 mg of sevelamer carbonate on an anhydrous basis, microcrystalline cellulose, hypromellose, diacetylated monoglycerides, sodium chloride, and zinc stearate.
+Tablets: Renvela® 800 mg Tablets are supplied as white oval, film-coated, compressed tablets, imprinted with "RENVELA 800", containing 800 mg of sevelamer carbonate on an anhydrous basis, microcrystalline cellulose, hypromellose, diacetylated monoglycerides, sodium chloride, and zinc stearate.
 
 1 Bottle of 30 ct 800 mg Tablets (NDC 58468-0130-2)
 

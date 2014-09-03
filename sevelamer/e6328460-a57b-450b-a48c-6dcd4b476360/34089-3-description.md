@@ -5,7 +5,7 @@ It was developed as a pharmaceutical alternative to sevelamer hydrochloride (Ren
 Sevelamer carbonate is an anion exchange resin, with the same polymeric structure as sevelamer hydrochloride, in which carbonate replaces chloride as the counterion.
 While the counterions differ for the two salts, the polymer itself, the active moiety involved in phosphate binding, is the same.
 
-Renvela (sevelamer carbonate) is known chemically as poly(allylamine-co-N,N’-diallyl-1,3-diamino-2-hydroxypropane) carbonate salt.
+Renvela (sevelamer carbonate) is known chemically as poly(allylamine-co-N,N'-diallyl-1,3-diamino-2-hydroxypropane) carbonate salt.
 Sevelamer carbonate is hygroscopic, but insoluble in water.
 The structure is represented in Figure 1.
 

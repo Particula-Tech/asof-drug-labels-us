@@ -33,6 +33,9 @@ In 23 healthy subjects, a single 2.8 gram dose of sevelamer hydrochloride did no
 
 ## 7.7 Other Concomitant Drug Therapy
 
+During postmarketing experience, reduced concentrations of cyclosporin, mycophenolate mofetil and tacrolimus have been reported in transplant patients when co-administered with sevelamer hydrochloride without any clinical consequences (for example, graft rejection).
+The possibility of an interaction cannot be excluded and close monitoring of blood concentrations of cyclosporin, mycophenolate mofetil and tacrolimus should be considered during the use of any of these agents in combination with sevelamer and after its withdrawal.
+
 There are no empirical data on avoiding drug interactions between Renvela and most concomitant drugs.
 During postmarketing experience, very rare cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients co-administered sevelamer hydrochloride and levothyroxine.
 Monitor TSH levels and signs of hypothyroidism in patients receiving both medications.
