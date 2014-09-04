@@ -39,7 +39,7 @@ Accidental ingestion of even one dose of PALLADONE, especially by children, can 
 ## 5.3 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of PALLADONE during pregnancy can result in withdrawal signs in the neonate.
-Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and requires management according to protocols developed by neonatology experts.
+Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
