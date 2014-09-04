@@ -15,8 +15,8 @@ The recommended dose of Aveed is 3 mL (750 mg) injected intramuscularly, followe
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 Remove the plastic cap from the vial.
-Draw 3 mL of air into the syringe and inject into the vial to create positive pressure within the vial chamber.
-This will facilitate the removal of medication from the vial.
+Do not remove the aluminum ring or crimp seal.
+To facilitate the removal of medication from the vial, you can draw 3 mL of air into the syringe and inject into the vial to create positive pressure within the vial chamber.
 
 Withdraw 3 mL (750 mg) of Aveed solution from the vial.
 Expel excess air bubbles from the syringe.
