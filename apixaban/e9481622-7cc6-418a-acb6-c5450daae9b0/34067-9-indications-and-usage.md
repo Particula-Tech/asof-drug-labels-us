@@ -7,3 +7,15 @@ ELIQUIS® (apixaban) is indicated to reduce the risk of stroke and systemic embo
 ## 1.2 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
 ELIQUIS is indicated for the prophylaxis of deep vein thrombosis (DVT), which may lead to pulmonary embolism (PE), in patients who have undergone hip or knee replacement surgery.
+
+## 1.3 Treatment of Deep Vein Thrombosis
+
+ELIQUIS is indicated for the treatment of DVT.
+
+## 1.4 Treatment of Pulmonary Embolism
+
+ELIQUIS is indicated for the treatment of PE.
+
+## 1.5 Reduction in the Risk of Recurrence of DVT and PE
+
+ELIQUIS is indicated to reduce the risk of recurrent DVT and PE following initial therapy.

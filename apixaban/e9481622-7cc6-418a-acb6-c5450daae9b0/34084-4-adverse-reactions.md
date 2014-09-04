@@ -1,6 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-The most serious adverse reactions reported with ELIQUIS were related to bleeding [see Warnings and Precautions (5.2)].
+The following serious adverse reactions are discussed in greater detail in other sections of the prescribing information.
+
+- ●Increased risk of thrombotic events after premature discontinuation [see Warnings and Precautions (5.1)]
+- ●Bleeding [see Warnings and Precautions (5.2)]
+- ●Spinal/epidural anesthesia or puncture [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -11,7 +15,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The safety of ELIQUIS was evaluated in the ARISTOTLE and AVERROES studies [see Clinical Studies (14)], including 11,284 patients exposed to ELIQUIS 5 mg twice daily and 602 patients exposed to ELIQUIS 2.5 mg twice daily.
 The duration of ELIQUIS exposure was ≥12 months for 9375 patients and ≥24 months for 3369 patients in the two studies.
 In ARISTOTLE, the mean duration of exposure was 89 weeks (>15,000 patient-years).
-In AVERROES, the mean duration of exposure was approximately 59 weeks (>3000 patients-years).
+In AVERROES, the mean duration of exposure was approximately 59 weeks (>3000 patient-years).
 
 The most common reason for treatment discontinuation in both studies was for bleeding-related adverse reactions; in ARISTOTLE this occurred in 1.7% and 2.5% of patients treated with ELIQUIS and warfarin, respectively, and in AVERROES, in 1.5% and 1.3% on ELIQUIS and aspirin, respectively.
 
@@ -111,3 +115,100 @@ Injury, poisoning, and procedural complications: wound secretion, incision-site 
 Less common adverse reactions in apixaban-treated patients undergoing hip or knee replacement surgery occurring at a frequency of <0.1%:
 
 Gingival bleeding, hemoptysis, hypersensitivity, muscle hemorrhage, ocular hemorrhage (including conjunctival hemorrhage), rectal hemorrhage
+
+### Treatment of DVT and PE and Reduction in the Risk of Recurrence of DVT or PE
+
+The safety of ELIQUIS has been evaluated in the AMPLIFY and AMPLIFY-EXT studies, including 2676 patients exposed to ELIQUIS 10 mg twice daily, 3359 patients exposed to ELIQUIS 5 mg twice daily, and 840 patients exposed to ELIQUIS 2.5 mg twice daily.
+
+Common adverse reactions (≥1%) were gingival bleeding, epistaxis, contusion, hematuria, rectal hemorrhage, hematoma, menorrhagia, and hemoptysis.
+
+#### AMPLIFY Study
+
+The mean duration of exposure to ELIQUIS was 154 days and to enoxaparin/warfarin was 152 days in the AMPLIFY study.
+Adverse reactions related to bleeding occurred in 417 (15.6%) ELIQUIS-treated patients compared to 661 (24.6%) enoxaparin/warfarin-treated patients.
+The discontinuation rate due to bleeding events was 0.7% in the ELIQUIS-treated patients compared to 1.7% in enoxaparin/warfarin-treated patients in the AMPLIFY study.
+
+In the AMPLIFY study, ELIQUIS was statistically superior to enoxaparin/warfarin in the primary safety endpoint of major bleeding (relative risk 0.31, 95% CI [0.17, 0.55], P-value <0.0001).
+
+Bleeding results from the AMPLIFY study are summarized in Table 5.
+
+Table 5: Bleeding Results in the AMPLIFY Study
+
+|  | ELIQUIS N=2676 n (%) | Enoxaparin/Warfarin N=2689 n (%) | Relative Risk (95% CI) |
+| --- | --- | --- | --- |
+| Major | 15 (0.6) | 49 (1.8) | 0.31 (0.17, 0.55) p<0.0001 |
+| CRNM* | 103 (3.9) | 215 (8.0) |  |
+| Major + CRNM | 115 (4.3) | 261 (9.7) |  |
+| Minor | 313 (11.7) | 505 (18.8) |  |
+| All | 402 (15.0) | 676 (25.1) |  |
+| * CRNM = clinically relevant nonmajor bleeding. Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |
+
+Adverse reactions occurring in ≥1% of patients in the AMPLIFY study are listed in Table 6.
+
+Table 6: Adverse Reactions Occurring in ≥1% of Patients Treated for DVT and PE in the AMPLIFY Study
+
+|  | ELIQUIS N=2676 n (%) | Enoxaparin/Warfarin N=2689 n (%) |
+| --- | --- | --- |
+| Epistaxis | 77 (2.9) | 146 (5.4) |
+| Contusion | 49 (1.8) | 97 (3.6) |
+| Hematuria | 46 (1.7) | 102 (3.8) |
+| Menorrhagia | 38 (1.4) | 30 (1.1) |
+| Hematoma | 35 (1.3) | 76 (2.8) |
+| Hemoptysis | 32 (1.2) | 31 (1.2) |
+| Rectal hemorrhage | 26 (1.0) | 39 (1.5) |
+| Gingival bleeding | 26 (1.0) | 50 (1.9) |
+
+#### AMPLIFY-EXT Study
+
+The mean duration of exposure to ELIQUIS was approximately 330 days and to placebo was 312 days in the AMPLIFY-EXT study.
+Adverse reactions related to bleeding occurred in 219 (13.3%) ELIQUIS-treated patients compared to 72 (8.7%) placebo-treated patients.
+The discontinuation rate due to bleeding events was approximately 1% in the ELIQUIS-treated patients compared to 0.4% in those patients in the placebo group in the AMPLIFY-EXT study.
+
+Bleeding results from the AMPLIFY-EXT study are summarized in Table 7.
+
+Table 7: Bleeding Results in the AMPLIFY-EXT Study
+
+|  | ELIQUIS 2.5 mg N=840 n (%) | ELIQUIS 5 mg N=811 n (%) | Placebo N=826 n (%) |
+| --- | --- | --- | --- |
+| Major | 2 (0.2) | 1 (0.1) | 4 (0.5) |
+| CRNM* | 25 (3.0) | 34 (4.2) | 19 (2.3) |
+| Major + CRNM | 27 (3.2) | 35 (4.3) | 22 (2.7) |
+| Minor | 75 (8.9) | 98 (12.1) | 58 (7.0) |
+| All | 94 (11.2) | 121 (14.9) | 74 (9.0) |
+| * CRNM = clinically relevant nonmajor bleeding. Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |
+
+Adverse reactions occurring in ≥1% of patients in the AMPLIFY-EXT study are listed in Table 8.
+
+Table 8: Adverse Reactions Occurring in ≥1% of Patients Undergoing Extended Treatment for DVT and PE in the AMPLIFY-EXT Study
+
+|  | ELIQUIS 2.5 mg N=840 n (%) | ELIQUIS 5 mg N=811 n (%) | Placebo N=826 n (%) |
+| --- | --- | --- | --- |
+| Epistaxis | 13 (1.5) | 29 (3.6) | 9 (1.1) |
+| Hematuria | 12 (1.4) | 17 (2.1) | 9 (1.1) |
+| Hematoma | 13 (1.5) | 16 (2.0) | 10 (1.2) |
+| Contusion | 18 (2.1) | 18 (2.2) | 18 (2.2) |
+| Gingival bleeding | 12 (1.4) | 9 (1.1) | 3 (0.4) |
+
+#### Other Adverse Reactions
+
+Less common adverse reactions in ELIQUIS-treated patients in the AMPLIFY or AMPLIFY-EXT studies occurring at a frequency of ≥0.1% to <1%:
+
+Blood and lymphatic system disorders: hemorrhagic anemia
+
+Gastrointestinal disorders: hematochezia, hemorrhoidal hemorrhage, gastrointestinal hemorrhage, hematemesis, melena, anal hemorrhage
+
+Injury, poisoning, and procedural complications: wound hemorrhage, postprocedural hemorrhage, traumatic hematoma, periorbital hematoma
+
+Musculoskeletal and connective tissue disorders: muscle hemorrhage
+
+Reproductive system and breast disorders: vaginal hemorrhage, metrorrhagia, menometrorrhagia, genital hemorrhage
+
+Vascular disorders: hemorrhage
+
+Skin and subcutaneous tissue disorders: ecchymosis, skin hemorrhage, petechiae
+
+Eye disorders: conjunctival hemorrhage, retinal hemorrhage, eye hemorrhage
+
+Investigations: blood urine present, occult blood positive, occult blood, red blood cells urine positive
+
+General disorders and administration-site conditions: injection-site hematoma, vessel puncture-site hematoma

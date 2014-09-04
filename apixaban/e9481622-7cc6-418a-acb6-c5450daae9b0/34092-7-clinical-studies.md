@@ -27,13 +27,13 @@ There was a history of stroke, TIA, or non-CNS systemic embolism in 19% of patie
 Concomitant diseases of patients in this study included hypertension 88%, diabetes 25%, congestive heart failure (or left ventricular ejection fraction ≤40%) 35%, and prior myocardial infarction 14%.
 Patients treated with warfarin in ARISTOTLE had a mean percentage of time in therapeutic range (INR 2.0–3.0) of 62%.
 
-ELIQUIS was superior to warfarin for the primary endpoint of reducing the risk of stroke and systemic embolism (Table 5 and Figure 4).
+ELIQUIS was superior to warfarin for the primary endpoint of reducing the risk of stroke and systemic embolism (Table 9 and Figure 4).
 Superiority to warfarin was primarily attributable to a reduction in hemorrhagic stroke and ischemic strokes with hemorrhagic conversion compared to warfarin.
 Purely ischemic strokes occurred with similar rates on both drugs.
 
 ELIQUIS also showed significantly fewer major bleeds than warfarin [see Adverse Reactions (6.1)].
 
-Table 5: Key Efficacy Outcomes in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE (Intent-to-Treat Analysis)
+Table 9: Key Efficacy Outcomes in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE (Intent-to-Treat Analysis)
 
 |  | ELIQUIS N=9120 n (%/year) | Warfarin N=9081 n (%/year) | Hazard Ratio (95% CI) | P-value |
 | --- | --- | --- | --- | --- |
@@ -64,9 +64,9 @@ During the 30 days following the end of the study, there were 21 stroke or syste
 
 In AVERROES, patients with nonvalvular atrial fibrillation thought not to be candidates for warfarin therapy were randomized to treatment with ELIQUIS 5 mg orally twice daily (or 2.5 mg twice daily in selected patients) or aspirin 81 to 324 mg once daily.
 The primary objective of the study was to determine if ELIQUIS was superior to aspirin for preventing the composite outcome of stroke or systemic embolism.
-AVERROES was stopped early on the basis of a prespecified interim analysis showing a significant reduction in stroke and systemic embolism for ELIQUIS compared to aspirin that was associated with a modest increase in major bleeding (Table 6) [see Adverse Reactions (6.1)].
+AVERROES was stopped early on the basis of a prespecified interim analysis showing a significant reduction in stroke and systemic embolism for ELIQUIS compared to aspirin that was associated with a modest increase in major bleeding (Table 10) [see Adverse Reactions (6.1)].
 
-Table 6: Key Efficacy Outcomes in Patients with Nonvalvular Atrial Fibrillation in AVERROES
+Table 10: Key Efficacy Outcomes in Patients with Nonvalvular Atrial Fibrillation in AVERROES
 
 |  | ELIQUIS N=2807 n (%/year) | Aspirin N=2791 n (%/year) | Hazard Ratio (95% CI) | P-value |
 | --- | --- | --- | --- | --- |
@@ -98,9 +98,9 @@ In all 3 studies, the primary endpoint was a composite of adjudicated asymptomat
 In ADVANCE-3 and ADVANCE-2, the primary endpoint was tested for noninferiority, then superiority, of ELIQUIS to enoxaparin.
 In ADVANCE-1, the primary endpoint was tested for noninferiority of ELIQUIS to enoxaparin.
 
-The efficacy data are provided in Tables 7 and 8.
+The efficacy data are provided in Tables 11 and 12.
 
-Table 7: Summary of Key Efficacy Analysis Results During the Intended Treatment Period for Patients Undergoing Elective Hip Replacement Surgery*
+Table 11: Summary of Key Efficacy Analysis Results During the Intended Treatment Period for Patients Undergoing Elective Hip Replacement Surgery*
 
 |  | ADVANCE-3 |  |  |
 | --- | --- | --- | --- |
@@ -117,7 +117,7 @@ Table 7: Summary of Key Efficacy Analysis Results During the Intended Treatment 
 | Distal DVT‡ | 20 (1.03%) (0.66, 1.59) | 57 (2.99%) (2.31, 3.86) |  |
 | * Events associated with each endpoint were counted once per subject but subjects may have contributed events to multiple endpoints. † Total VTE includes symptomatic and asymptomatic DVT and PE. ‡ Includes symptomatic and asymptomatic DVT. |  |  |  |
 
-Table 8: Summary of Key Efficacy Analysis Results During the Intended Treatment Period for Patients Undergoing Elective Knee Replacement Surgery*
+Table 12: Summary of Key Efficacy Analysis Results During the Intended Treatment Period for Patients Undergoing Elective Knee Replacement Surgery*
 
 |  | ADVANCE-1 |  |  | ADVANCE-2 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -135,3 +135,67 @@ Table 8: Summary of Key Efficacy Analysis Results During the Intended Treatment 
 | * Events associated with each endpoint were counted once per subject but subjects may have contributed events to multiple endpoints. † Total VTE includes symptomatic and asymptomatic DVT and PE. ‡ Includes symptomatic and asymptomatic DVT. |  |  |  |  |  |  |  |  |  |  |
 
 The efficacy profile of ELIQUIS was generally consistent across subgroups of interest for this indication (e.g., age, gender, race, body weight, renal impairment).
+
+## 14.3 Treatment of DVT and PE and Reduction in the Risk of Recurrence of DVT and PE
+
+Efficacy and safety of ELIQUIS for the treatment of DVT and PE, and for the reduction in the risk of recurrent DVT and PE following 6 to 12 months of anticoagulant treatment was derived from the AMPLIFY and AMPLIFY-EXT studies.
+Both studies were randomized, parallel-group, double-blind trials in patients with symptomatic proximal DVT and/or symptomatic PE.
+All key safety and efficacy endpoints were adjudicated in a blinded manner by an independent committee.
+
+### AMPLIFY
+
+The primary objective of AMPLIFY was to determine whether ELIQUIS was noninferior to enoxaparin/warfarin for the incidence of recurrent VTE (venous thromboembolism) or VTE-related death.
+Patients with an objectively confirmed symptomatic DVT and/or PE were randomized to treatment with ELIQUIS 10 mg twice daily orally for 7 days followed by ELIQUIS 5 mg twice daily orally for 6 months, or enoxaparin 1 mg/kg twice daily subcutaneously for at least 5 days (until INR ≥2) followed by warfarin (target INR range 2.0-3.0) orally for 6 months.
+Patients who required thrombectomy, insertion of a caval filter, or use of a fibrinolytic agent, and patients with creatinine clearance <25 mL/min, significant liver disease, an existing heart valve or atrial fibrillation, or active bleeding were excluded from the AMPLIFY study.
+Patients were allowed to enter the study with or without prior parenteral anticoagulation (up to 48 hours).
+
+A total of 5244 patients were evaluable for efficacy and were followed for a mean of 154 days in the ELIQUIS group and 152 days in the enoxaparin/warfarin group.
+The mean age was 57 years.
+The AMPLIFY study population was 59% male, 83% Caucasian, 8% Asian, and 4% Black.
+For patients randomized to warfarin, the mean percentage of time in therapeutic range (INR 2.0-3.0) was 60.9%.
+
+Approximately 90% of patients enrolled in AMPLIFY had an unprovoked DVT or PE at baseline.
+The remaining 10% of patients with a provoked DVT or PE were required to have an additional ongoing risk factor in order to be randomized, which included previous episode of DVT or PE, immobilization, history of cancer, active cancer, and known prothrombotic genotype.
+
+ELIQUIS was shown to be noninferior to enoxaparin/warfarin in the AMPLIFY study for the primary endpoint of recurrent symptomatic VTE (nonfatal DVT or nonfatal PE) or VTE-related death over 6 months of therapy (Table 13).
+
+Table 13: Efficacy Results in the AMPLIFY Study
+
+|  | ELIQUIS N=2609 n | Enoxaparin/Warfarin N=2635 n | Relative Risk (95% CI) |
+| --- | --- | --- | --- |
+| VTE or VTE-related death* | 59 (2.3%) | 71 (2.7%) | 0.84 (0.60, 1.18) |
+| DVT† | 22 (0.8%) | 35 (1.3%) |  |
+| PE† | 27 (1.0%) | 25 (0.9%) |  |
+| VTE-related death† | 12 (0.4%) | 16 (0.6%) |  |
+| VTE or all-cause death | 84 (3.2%) | 104 (4.0%) | 0.82 (0.61, 1.08) |
+| VTE or CV-related death | 61 (2.3%) | 77 (2.9%) | 0.80 (0.57, 1.11) |
+| * Noninferior compared to enoxaparin/warfarin (P-value <0.0001). |  |  |  |
+| † Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |
+
+In the AMPLIFY study, patients were stratified according to their index event of PE (with or without DVT) or DVT (without PE).
+Efficacy in the initial treatment of VTE was consistent between the two subgroups.
+
+### AMPLIFY-EXT
+
+Patients who had been treated for DVT and/or PE for 6 to 12 months with anticoagulant therapy without having a recurrent event were randomized to treatment with ELIQUIS 2.5 mg orally twice daily, ELIQUIS 5 mg orally twice daily, or placebo for 12 months.
+Approximately one-third of patients participated in the AMPLIFY study prior to enrollment in the AMPLIFY-EXT study.
+
+A total of 2482 patients were randomized to study treatment and were followed for a mean of approximately 330 days in the ELIQUIS group and 312 days in the placebo group.
+The mean age in the AMPLIFY-EXT study was 57 years.
+The study population was 57% male, 85% Caucasian, 5% Asian, and 3% Black.
+
+The AMPLIFY-EXT study enrolled patients with either an unprovoked DVT or PE at baseline (approximately 92%) or patients with a provoked baseline event and one additional risk factor for recurrence (approximately 8%).
+However, patients who had experienced multiple episodes of unprovoked DVT or PE were excluded from the AMPLIFY-EXT study.
+In the AMPLIFY-EXT study, both doses of ELIQUIS were superior to placebo in the primary endpoint of symptomatic, recurrent VTE (nonfatal DVT or nonfatal PE), or all-cause death (Table 14).
+
+Table 14: Efficacy Results in the AMPLIFY-EXT Study
+
+|  | ELIQUIS 2.5 mg N=840 | ELIQUIS 5 mg N=813 | Placebo N=829 | ELIQUIS 2.5 mg vs Placebo | ELIQUIS 5 mg vs Placebo |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Relative Risk (95% CI) |  |
+|  | n (%) |  |  |  |  |
+| Recurrent VTE or all-cause death | 32 (3.8) | 34 (4.2) | 96 (11.6) | 0.33 (0.22, 0.48) p<0.0001 | 0.36 (0.25, 0.53) p<0.0001 |
+| DVT* | 19 (2.3) | 28 (3.4) | 72 (8.7) |  |  |
+| PE* | 23 (2.7) | 25 (3.1) | 37 (4.5) |  |  |
+| All-cause death | 22 (2.6) | 25 (3.1) | 33 (4.0) |  |  |
+| * Patients with more than one event are counted in multiple rows. |  |  |  |  |  |

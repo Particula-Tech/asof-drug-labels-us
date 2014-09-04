@@ -35,6 +35,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Of the total subjects in the ARISTOTLE and AVERROES clinical studies, >69% were 65 and older, and >31% were 75 and older.
 In the ADVANCE-1, ADVANCE-2, and ADVANCE-3 clinical studies, 50% of subjects were 65 and older, while 16% were 75 and older.
+In the AMPLIFY and AMPLIFY-EXT clinical studies, >32% of subjects were 65 and older and >13% were 75 and older.
 No clinically significant differences in safety or effectiveness were observed when comparing subjects in different age groups.
 
 ## 8.6 End-Stage Renal Disease Patients Maintained with Hemodialysis

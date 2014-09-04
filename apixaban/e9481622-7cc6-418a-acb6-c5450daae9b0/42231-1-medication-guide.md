@@ -40,7 +40,7 @@ What is the most important information I should know about ELIQUIS?
   - ●unexpected pain, swelling, or joint pain
   - ●headaches, feeling dizzy or weak
 - ●ELIQUIS is not for patients with artificial heart valves.
-- ●Spinal or epidural blood clots or bleeding (hematoma).
+- ●Spinal or epidural blood clots (hematoma).
   People who take a blood thinner medicine (anticoagulant) like ELIQUIS, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot that can cause long-term or permanent loss of the ability to move (paralysis).
   Your risk of developing a spinal or epidural blood clot is higher if:
   - ●a thin tube called an epidural catheter is placed in your back to give you certain medicine
@@ -56,6 +56,7 @@ ELIQUIS is a prescription medicine used to:
 
 - ●reduce the risk of stroke and blood clots in people who have atrial fibrillation.
 - ●reduce the risk of forming a blood clot in the legs and lungs of people who have just had hip or knee replacement surgery.
+- ●treat blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism), and reduce the risk of them occurring again.
 
 It is not known if ELIQUIS is safe and effective in children.
 
@@ -161,4 +162,4 @@ COUMADIN® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 
 All other trademarks are property of their respective companies.
 
-1289808A0 / 1289807A0 / 1298500A0 1295958A0 Revised March 2014
+1289808A1 / 1289807A1 / 1298500A1 1295958A1 Revised August 2014

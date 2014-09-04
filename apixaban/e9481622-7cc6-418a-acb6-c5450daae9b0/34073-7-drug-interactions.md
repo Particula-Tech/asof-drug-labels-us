@@ -2,13 +2,13 @@
 
 Apixaban is a substrate of both CYP3A4 and P-gp.
 Inhibitors of CYP3A4 and P-gp increase exposure to apixaban and increase the risk of bleeding.
-Inducers of CYP3A4 and P-gp decrease exposure to apixaban and increase the risk of stroke.
+Inducers of CYP3A4 and P-gp decrease exposure to apixaban and increase the risk of stroke and other thromboembolic events.
 
 ## 7.1 Strong Dual Inhibitors of CYP3A4 and P-gp
 
-For patients receiving 5 mg twice daily, the dose of ELIQUIS should be decreased to 2.5 mg twice daily when it is coadministered with drugs that are strong dual inhibitors of CYP3A4 and P-gp (e.g., ketoconazole, itraconazole, ritonavir, or clarithromycin) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+For patients receiving ELIQUIS doses greater than 2.5 mg twice daily, the dose of ELIQUIS should be decreased by 50% when it is coadministered with drugs that are strong dual inhibitors of CYP3A4 and P-gp (e.g., ketoconazole, itraconazole, ritonavir, or clarithromycin) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-In patients already taking ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with strong dual inhibitors of CYP3A4 and P-gp [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+For patients receiving ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with strong dual inhibitors of CYP3A4 and P-gp [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Strong Dual Inducers of CYP3A4 and P-gp
 
