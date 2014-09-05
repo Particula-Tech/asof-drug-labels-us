@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022370"
+  ],
+  "inn": "tramadol",
+  "labeler": "Vertical Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "68025-071-30",
+    "68025-072-30",
+    "68025-073-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "tramadol hydrochloride",
+      "name": "ConZip"
+    }
+  ],
+  "setid": "a65b4d05-3a1c-4aa1-848a-d20ac9aaf62f",
+  "source": "dailymed"
+}
