@@ -6,14 +6,12 @@ They are supplied as white to off-white, scored, oblong biconvex tablets, deboss
 
 They are available as follows:
 
-Bottles of 100: NDC 53746-109-01
-
-Bottles of 500: NDC 53746-109-05
-
-Bottles of 1000: NDC 53746-109-10
+Bottles of 100: NDC 53746-109-01 Bottles of 500: NDC 53746-109-05 Bottles of 1000: NDC 53746-109-10
 
 Storage: Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container with a child-resistant closure.
 
-A Schedule CIII Narcotic.
+A Schedule CII Narcotic.
+
+DEA Order Form Required.
