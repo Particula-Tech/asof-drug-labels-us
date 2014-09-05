@@ -3,7 +3,7 @@
 ## 10.1 Human Experience
 
 Premarketing experience included eight reports of acute risperidone overdosage with estimated doses ranging from 20 to 300 mg and no fatalities.
-In general, reported signs and symptoms were those resulting from an exaggeration of the drug's known pharmacological effects, i.e., drowsiness and sedation, tachycardia and hypotension, and extrapyramidal symptoms.
+In general, reported signs and symptoms were those resulting from an exaggeration of the drug's known pharmacological effects, i.e., drowsiness and sedation, tachycardia and hypotension and extrapyramidal symptoms.
 One case, involving an estimated overdose of 240 mg, was associated with hyponatremia, hypokalemia, prolonged QT and widened QRS.
 Another case, involving an estimated overdose of 36 mg, was associated with a seizure.
 

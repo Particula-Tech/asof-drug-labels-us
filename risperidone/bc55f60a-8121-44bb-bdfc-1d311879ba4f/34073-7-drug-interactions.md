@@ -1,8 +1,5 @@
 # 7 DRUG INTERACTIONS
 
-- •
-- •
-
 ## 7.1 Pharmacokinetic-related Interactions
 
 The dose of risperidone should be adjusted when used in combination with CYP2D6 enzyme inhibitors (e.g., fluoxetine and paroxetine) and enzyme inducers (e.g., carbamazepine) [see Table 18 and Dosage and Administration (2.5)].

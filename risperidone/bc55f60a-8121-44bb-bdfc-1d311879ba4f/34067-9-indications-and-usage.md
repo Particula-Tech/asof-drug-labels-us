@@ -1,9 +1,5 @@
 # 1 INDICATIONS & USAGE
 
-- •
-- •
-- •
-
 ## 1.1 Schizophrenia
 
 Risperidone oral solution, USP is indicated for the treatment of schizophrenia.

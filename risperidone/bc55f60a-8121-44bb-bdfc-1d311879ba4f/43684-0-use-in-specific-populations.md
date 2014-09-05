@@ -136,7 +136,7 @@ This dose produced plasma levels (AUC) of risperidone plus paliperidone which we
 
 Clinical studies of risperidone in the treatment of schizophrenia did not include sufficient numbers of patients aged 65 and over to determine whether or not they respond differently than younger patients.
 Other reported clinical experience has not identified differences in responses between elderly and younger patients.
-In general, a lower starting dose is recommended for an elderly patient, reflecting a decreased pharmacokinetic clearance in the elderly, as well as a greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3) and Dosage and Administration (2.4,2.5)].
+In general, a lower starting dose is recommended for an elderly patient, reflecting a decreased pharmacokinetic clearance in the elderly, as well as a greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3) and Dosage and Administration (2.4,2.5)].
 While elderly patients exhibit a greater tendency to orthostatic hypotension, its risk in the elderly may be minimized by limiting the initial dose to 0.5 mg twice daily followed by careful titration [see Warnings and Precautions (5.7)].
 Monitoring of orthostatic vital signs should be considered in patients for whom this is of concern.
 
@@ -156,4 +156,4 @@ Risperidone doses should be reduced in patients with liver disease [see Dosage a
 ## 8.8 Patients with Parkinson’s Disease or Lewy Body Dementia
 
 Patients with Parkinson’s Disease or Dementia with Lewy Bodies can experience increased sensitivity to risperidone.
-Manifestations can include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with neuroleptic malignant syndrome.
+Manifestations can include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms and clinical features consistent with neuroleptic malignant syndrome.

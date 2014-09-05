@@ -15,13 +15,13 @@ In addition, the Positive and Negative Syndrome Scale (PANSS) and the Scale for 
 
 The results of the trials follow:
 
-- (1) In a 6-week, placebo-controlled trial (n=160) involving titration of risperidone in doses up to 10 mg/day (twice-daily schedule), risperidone was generally superior to placebo on the BPRS total score, on the BPRS psychosis cluster, and marginally superior to placebo on the SANS.
+- (1) In a 6-week, placebo-controlled trial (n=160) involving titration of risperidone in doses up to 10 mg/day (twice-daily schedule), risperidone was generally superior to placebo on the BPRS total score, on the BPRS psychosis cluster and marginally superior to placebo on the SANS.
 - (2) In an 8-week, placebo-controlled trial (n=513) involving 4 fixed doses of risperidone (2 mg/day, 6 mg/day, 10 mg/day and 16 mg/day, on a twice-daily schedule), all 4 risperidone groups were generally superior to placebo on the BPRS total score, BPRS psychosis cluster, and CGI severity score; the 3 highest risperidone dose groups were generally superior to placebo on the PANSS negative subscale.
   The most consistently positive responses on all measures were seen for the 6 mg dose group, and there was no suggestion of increased benefit from larger doses.
-- (3) In an 8-week, dose comparison trial (n=1356) involving 5 fixed doses of risperidone (1 mg/day, 4 mg/day, 8 mg/day, 12 mg/day and 16 mg/day, on a twice-daily schedule), the four highest risperidone dose groups were generally superior to the 1 mg risperidone dose group on BPRS total score, BPRS psychosis cluster, and CGI severity score.
+- (3) In an 8-week, dose comparison trial (n=1356) involving 5 fixed doses of risperidone (1 mg/day, 4 mg/day, 8 mg/day, 12 mg/day and 16 mg/day, on a twice-daily schedule), the four highest risperidone dose groups were generally superior to the 1 mg risperidone dose group on BPRS total score, BPRS psychosis cluster and CGI severity score.
   None of the dose groups were superior to the 1 mg group on the PANSS negative subscale.
   The most consistently positive responses were seen for the 4 mg dose group.
-- (4) In a 4-week, placebo-controlled dose comparison trial (n=246) involving 2 fixed doses of risperidone (4 and 8 mg/day on a once-daily schedule), both risperidone dose groups were generally superior to placebo on several PANSS measures, including a response measure (>20% reduction in PANSS total score), PANSS total score, and the BPRS psychosis cluster (derived from PANSS).
+- (4) In a 4-week, placebo-controlled dose comparison trial (n=246) involving 2 fixed doses of risperidone (4 and 8 mg/day on a once-daily schedule), both risperidone dose groups were generally superior to placebo on several PANSS measures, including a response measure (>20% reduction in PANSS total score), PANSS total score and the BPRS psychosis cluster (derived from PANSS).
   The results were generally stronger for the 8 mg than for the 4 mg dose group.
 
 Long-Term Efficacy
@@ -114,7 +114,7 @@ The primary efficacy endpoint was the mean change in the Aberrant Behavior Check
 Irritability subscale (ABC-I) score from baseline to the end of Week 6.
 The study demonstrated the efficacy of high-dose risperidone, as measured by the mean change in ABC-I score.
 It did not demonstrate efficacy for low-dose risperidone.
-The mean baseline ABC-I scores were 29 in the placebo group (n = 35), 27 in the risperidone low-dose group (n = 30), and 28 in the risperidone high-dose group (n = 31).
+The mean baseline ABC-I scores were 29 in the placebo group (n = 35), 27 in the risperidone low-dose group (n = 30) and 28 in the risperidone high-dose group (n = 31).
 The mean changes in ABC-I scores were -3.5, -7.4 and -12.4 in the placebo, low-dose and high-dose group respectively.
 The results in the high-dose group were statistically significant (p< 0.001) but not in the low-dose group (p=0.164).
 

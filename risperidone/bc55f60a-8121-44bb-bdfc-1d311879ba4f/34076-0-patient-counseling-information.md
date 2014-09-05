@@ -38,20 +38,12 @@ Inform patients and caregivers about the risk of tardive dyskinesia [see Warning
 
 Rx Only
 
-Manufactured by:
+Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
 
-Amneal Pharmaceuticals
-
-Branchburg, NJ 08876
-
-Distributed by:
-
-Amneal Pharmaceuticals
-
-Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-08-2012
+06-2014-00
 
 Risperidone Oral Solution, USP
 
@@ -86,17 +78,9 @@ DOSAGE: For information about the use of risperidone, please see accompanying Pa
 STORAGE: Store bottle at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Keep away from children; avoid freezing and protect from light.
 
-Manufactured by:
+Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
 
-Amneal Pharmaceuticals
-
-Branchburg, NJ 08876
-
-Distributed by:
-
-Amneal Pharmaceuticals
-
-Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-08-2012
+06-2014-00

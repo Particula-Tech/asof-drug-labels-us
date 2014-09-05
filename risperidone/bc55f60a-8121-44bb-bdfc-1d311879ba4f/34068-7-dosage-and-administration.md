@@ -1,7 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-- Recommended daily dosage
-
 Table 1.
 Recommended Daily Dosage by Indication
 
@@ -15,7 +13,7 @@ Recommended Daily Dosage by Indication
 
 Severe Renal and Hepatic Impairment in Adults: use a lower starting dose of 0.5 mg twice daily.
 
-May increase to dosages above 1.5 mg twice daily at intervals of at one week or longer.
+May increase to dosages above 1.5 mg twice daily at intervals of one week or longer.
 
 ## 2.1 Schizophrenia
 
