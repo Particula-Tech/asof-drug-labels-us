@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA202330"
+  ],
+  "inn": "buspirone",
+  "labeler": "Strides Arcolab Limited",
+  "package_ndcs": [
+    "64380-741-06",
+    "64380-742-06",
+    "64380-743-03",
+    "64380-743-06",
+    "64380-743-18",
+    "64380-744-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "buspirone hydrochloride",
+      "name": "Buspirone Hydrochloride"
+    }
+  ],
+  "setid": "cff9f09a-1ea2-4968-b57b-e62bebaae238",
+  "source": "dailymed"
+}
