@@ -215,9 +215,9 @@ The study results for OS in patients who received chemotherapy plus Avastin as c
 
 Table 7 Study 9 Efficacy Results: Chemotherapy versus Chemotherapy + Avastin
 
-|  | Chemotherapy (n=225) | Chemotherapy + Avastin (n=227) |
-| --- | --- | --- |
 | Overall Survival |  |  |
+| --- | --- | --- |
+|  | Chemotherapy (n=225) | Chemotherapy + Avastin (n=227) |
 | Median (months)Kaplan-Meier estimates. | 12.9 | 16.8 |
 | Hazard ratio [95% CI] | 0.74 [0.58;0.94] (p-valuelog-rank test (stratified). = 0.0132) |  |
 
@@ -225,9 +225,9 @@ The overall response rate was also higher in patients who received chemotherapy 
 
 Table 8 Study 9 Efficacy Results: Platinum Doublet versus Nonplatinum Doublet
 
-|  | Topotecan + Paclitaxel +/- Avastin (n=223) | Cisplatin + Paclitaxel +/- Avastin (n=229) |
-| --- | --- | --- |
 | Overall Survival |  |  |
+| --- | --- | --- |
+|  | Topotecan + Paclitaxel +/- Avastin (n=223) | Cisplatin + Paclitaxel +/- Avastin (n=229) |
 | Median (months)Kaplan-Meier estimates. | 13.3 | 15.5 |
 | Hazard ratio [95% CI] | 1.15 [0.91, 1.46] p-value=0.23 |  |
 

@@ -26,7 +26,7 @@ The data below reflect exposure to Avastin in 4817 patients with CRC, non-squamo
 [See Clinical Studies (14).]
 The population was aged 18-89 years (median 59 years), 44% male and 85% White.
 The population included 2184 first- and second-line mCRC patients who received a median of 10 doses of Avastin, 480 first-line metastatic NSCLC patients who received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, 337 mRCC patients who received a median of 16 doses of Avastin, and 218 cervical cancer patients who received a median of 6 doses of Avastin.
-These data also reflect exposure to Avastin in 363 patients with metastatic breast cancer (MBC) who received a median of 9.5 doses of Avastin, 669 female adjuvant CRC patients who received a median of 23 doses of Avastin, and 403 previously untreated patients with diffuse large B-cell lymphoma (DLBCL) who received a median of 8 doses of Avastin.
+These data also reflect exposure to Avastin in 363 patients with metastatic breast cancer (MBC) who received a median of 9.5 doses of Avastin, 1338 adjuvant CRC patients, including 669 female patients, who received a median of 23 doses of Avastin, and 403 previously untreated patients with diffuse large B-cell lymphoma (DLBCL) who received a median of 8 doses of Avastin.
 Avastin is not approved for use in MBC, adjuvant CRC, or DLBCL.
 
 Surgery and Wound Healing Complications
@@ -107,6 +107,11 @@ After discontinuation of Avastin treatment, recovery of ovarian function at all 
 Recovery of ovarian function is defined as resumption of menses, a positive serum β-HCG pregnancy test, or a FSH level < 30 mIU/mL during the post-treatment period.
 Long term effects of Avastin exposure on fertility are unknown.
 [See Warnings and Precautions (5.11), Use in Specific Populations (8.6).]
+
+Post-Treatment Vascular Events
+
+In an open-label, randomized, controlled trial of Avastin in adjuvant colorectal cancer, an indication for which Avastin is not approved, the overall incidence rate of post-treatment Grade ≥ 3 vascular events was 3.1% (41 of 1338) among patients receiving mFOLFOX6 plus Avastin, compared to 1.6% (21 of 1349) among patients receiving mFOLFOX6 alone.
+Post-treatment vascular events included arterial and venous thromboembolic events, ischemic events, and vascular aneurysms.
 
 Metastatic Colorectal Cancer (mCRC)
 
