@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Antara is contraindicated in:
 

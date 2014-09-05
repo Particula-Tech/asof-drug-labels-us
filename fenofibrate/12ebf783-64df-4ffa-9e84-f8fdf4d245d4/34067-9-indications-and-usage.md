@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 ## 1.1 Primary Hypercholesterolemia and Mixed Dyslipidemia
 
