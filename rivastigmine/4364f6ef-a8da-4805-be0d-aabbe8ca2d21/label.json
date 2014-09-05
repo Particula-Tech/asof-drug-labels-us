@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA203148"
+  ],
+  "inn": "rivastigmine",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-089-06",
+    "33342-089-09",
+    "33342-089-12",
+    "33342-089-15",
+    "33342-090-06",
+    "33342-090-09",
+    "33342-090-12",
+    "33342-090-15",
+    "33342-091-06",
+    "33342-091-09",
+    "33342-091-12",
+    "33342-091-15",
+    "33342-092-06",
+    "33342-092-09",
+    "33342-092-12",
+    "33342-092-15"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "rivastigmine tartrate",
+      "name": "RIVASTIGMINE TARTRATE"
+    }
+  ],
+  "setid": "4364f6ef-a8da-4805-be0d-aabbe8ca2d21",
+  "source": "dailymed"
+}
