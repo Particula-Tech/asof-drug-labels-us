@@ -1,8 +1,8 @@
-Manufactured by:
+10 mg/325 mg
 
-Amneal Pharmaceuticals of NY
+Rx only
 
-Hauppauge, NY 11788
+Manufactured by: Amneal Pharmaceuticals of NY Hauppauge, NY 11788
 
 Rev.
-10-2013
+08-2014-00

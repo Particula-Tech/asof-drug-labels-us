@@ -2,7 +2,7 @@
 
 ## Misuse, Abuse, And Diversion Of Opioids
 
-Hydrocodone bitartrate and acetaminophen tablets contain hydrocodone, an opioid agonist, and is a Schedule III controlled substance.
+Hydrocodone bitartrate and acetaminophen tablets contain hydrocodone, an opioid agonist, and is a Schedule II controlled substance.
 Hydrocodone bitartrate and acetaminophen tablets, and other opioids, used in analgesia can be abused and are subject to criminal diversion.
 
 Addiction is a primary, chronic, neurobiologic disease, with genetic, psychosocial, and environmental factors influencing its development and manifestations.
