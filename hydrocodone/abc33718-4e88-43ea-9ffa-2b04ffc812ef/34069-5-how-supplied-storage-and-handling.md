@@ -32,4 +32,21 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 
 Dispense in a tight, light-resistant container.
 
-A Schedule CS-III Controlled Substance.
+A Schedule CS-II Controlled Substance.
+
+DEA Order Form Required.
+
+Manufactured by:
+
+Amneal Pharmaceuticals of NY
+
+Hauppauge, NY 11788
+
+Distributed by:
+
+Amneal Pharmaceuticals
+
+Glasgow, KY 42141
+
+Rev.
+08-2014-00

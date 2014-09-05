@@ -14,8 +14,9 @@ NSAID medicines may increase the chance of a heart attack or stroke that can lea
 
 This chance increases:
 
-- with longer use of NSAID medicines
+- with increasing doses of NSAID medicines
 - in people who have heart disease
+- with longer use of NSAID medicines
 
 NSAID medicines should never be used right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
 
@@ -27,6 +28,7 @@ Ulcers and bleeding:
 
 The chance of a person getting an ulcer or bleeding increases with:
 
+- increasing doses of NSAID medicines
 - taking medicines called “corticosteroids” and “anticoagulants”
 - longer use
 - smoking
@@ -56,12 +58,12 @@ Do not take an NSAID medicine:
 
 Tell your healthcare provider:
 
-- about all your medical conditions.
+- about all of your medical conditions.
 - about all of the medicines you take.
   NSAIDs and some other medicines can interact with each other and cause serious side effects.
   Keep a list of your medicines to show to your healthcare provider and pharmacist.
 - if you are pregnant.
-  NSAID medicines should not be used by pregnant women late in their pregnancy.
+  NSAID medicines should not be used past 30 weeks of pregnancy.
 - if you are breastfeeding.
   Talk to your doctor.
 
@@ -127,24 +129,24 @@ Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 - Some of these NSAID medicines are sold in lower doses without a prescription (over the counter).
   Talk to your healthcare provider before using over the counter NSAIDs for more than 10 days.
 
-NSAID medicines that need a prescription
+NSAID medicines requiring a prescription
 
 | Generic Name | Tradename |
 | --- | --- |
 | Celecoxib | Celebrex |
-| Diclofenac | Cataflam, Voltaren, Arthrotec (combined with misoprostol) |
+| Diclofenac | Zorvolex, Cataflam, Cambia, Voltaren, Voltaren gel, Arthrotec (combined with misoprostol), Flector, Zipsor, Pennsaid |
 | Diflunisal | Dolobid |
 | Etodolac | Lodine, Lodine XL |
 | Fenoprofen | Nalfon, Nalfon 200 |
-| Flurbirofen | Ansaid |
-| Ibuprofen | Motrin, Tab-Profen, Vicoprofen* (combined with hydrocodone), Combunox (combined with oxycodone) |
-| Indomethacin | Indocin, Indocin SR, Indo-Lemmon, Indomethagan |
-| Ketoprofen | Oruvail |
-| Ketorolac | Toradol |
+| Flurbiprofen | Ansaid |
+| Ibuprofen | Motrin, Tab-Profen, *Vicoprofen (combined with hydrocodone), Combunox (combined with oxycodone), Duexis (combined with famotidine) |
+| Indomethacin | Tivorbex, Indocin, Indocin SR, Indo-Lemmon, Indomethagan |
+| Ketoprofen | Oruvail, Nexcede |
+| Ketorolac | Toradol, Sprix |
 | Mefenamic Acid | Ponstel |
 | Meloxicam | Mobic |
 | Nabumetone | Relafen |
-| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naproxyn, Naprelan, Naprapac (copackaged with lansoprazole) |
+| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naprosyn, Naprelan, Naprapac (copackaged with lansoprazole), Treximet (combined with sumatriptan succinate) and Vimovo (combined with esomeprazole magnesium) |
 | Oxaprozin | Daypro |
 | Piroxicam | Feldene |
 | Sulindac | Clinoril |

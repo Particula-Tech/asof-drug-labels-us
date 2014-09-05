@@ -30,7 +30,7 @@ Hydrocodone bitartrate and ibuprofen should be used with caution in patients wit
 
 Misuse Abuse and Diversion of Opioids
 
-Hydrocodone bitartrate and ibuprofen tablets contain hydrocodone an opioid agonist, and is a Schedule III controlled substance.
+Hydrocodone bitartrate and ibuprofen tablets contain hydrocodone an opioid agonist, and is a Schedule II controlled substance.
 Opioid agonists have the potential for being abused and are sought by abusers and people with addiction disorders, and are subject to diversion.
 
 Hydrocodone bitartrate and ibuprofen tablets can be abused in a manner similar to other opioid agonists, legal or illicit.
