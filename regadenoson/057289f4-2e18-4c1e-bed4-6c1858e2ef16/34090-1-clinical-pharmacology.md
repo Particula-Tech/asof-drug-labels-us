@@ -27,8 +27,7 @@ Ingestion of caffeine decreases the ability to detect reversible ischemic defect
 In a placebo-controlled, parallel group clinical study, patients with known or suspected myocardial ischemia received a baseline rest/stress MPI followed by a second stress MPI.
 Patients received caffeine or placebo 90 minutes before the second Lexiscan stress MPI.
 Following caffeine administration (200 or 400 mg), the mean number of reversible defects identified was reduced by approximately 60%.
-This decrease was statistically significant.
-[see Drug Interactions (7.1) and Patient Counseling Information (17.1)].
+This decrease was statistically significant [see Drug Interactions (7.1) and Patient Counseling Information (17)].
 
 Hemodynamic Effects
 

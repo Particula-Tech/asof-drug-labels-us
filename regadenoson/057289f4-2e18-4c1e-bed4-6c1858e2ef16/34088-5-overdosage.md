@@ -5,4 +5,6 @@ In a study of healthy volunteers, symptoms of flushing, dizziness and increased 
 
 Aminophylline to Reverse Effects
 
-Aminophylline may be administered in doses ranging from 50 mg to 250 mg by slow intravenous injection (50 mg to 100 mg over 30–60 seconds) to attenuate severe and/or persistent adverse reactions to Lexiscan.
+Methylxanthines, such as caffeine, aminophylline, and theophylline, are competitive adenosine receptor antagonists and aminophylline has been used to terminate persistent pharmacodynamic effects.
+Aminophylline may be administered in doses ranging from 50 mg to 250 mg by slow intravenous injection (50 mg to 100 mg over 30–60 seconds).
+Methylxanthine use is not recommended in patients who experience a seizure in association with Lexiscan administration.

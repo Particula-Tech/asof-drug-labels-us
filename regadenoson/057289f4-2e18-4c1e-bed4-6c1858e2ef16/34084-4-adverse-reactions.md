@@ -4,10 +4,13 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - •Myocardial Ischemia [see Warnings and Precautions (5.1)]
 - •Sinoatrial and Atrioventricular Nodal Block [see Warnings and Precautions (5.2)]
-- •Hypersensitivity, Including Anaphylaxis [see Warnings and Precautions (5.3)]
-- •Hypotension [see Warnings and Precautions (5.4)]
-- •Hypertension [see Warnings and Precautions (5.5)]
-- •Bronchoconstriction [see Warnings and Precautions (5.6)]
+- •Atrial Fibrillation/Atrial Flutter [see Warnings and Precautions (5.3)]
+- •Hypersensitivity, Including Anaphylaxis [see Warnings and Precautions (5.4)]
+- •Hypotension [see Warnings and Precautions (5.5)]
+- •Hypertension [see Warnings and Precautions (5.6)]
+- •Bronchoconstriction [see Warnings and Precautions (5.7)]
+- •Seizure [see Warnings and Precautions (5.8)]
+- •Cerebrovascular Accident (Stroke) [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -80,13 +83,13 @@ In a randomized, placebo-controlled trial of 504 subjects (Lexiscan n=334 and pl
 
 Cardiovascular
 
-Myocardial infarction, cardiac arrest, ventricular arrhythmias, supraventricular tachyarrhythmias including atrial fibrillation or flutter, heart block (including third degree block), asystole, marked hypertension, symptomatic hypotension in association with transient ischemic attack, seizures and syncope [see Warnings and Precautions (5.1)] have been reported.
-Some events required intervention with fluids and/or aminophylline.
+Myocardial infarction, cardiac arrest, ventricular arrhythmias, supraventricular tachyarrhythmias including atrial fibrillation with rapid ventricular response (new-onset or recurrent), atrial flutter, heart block (including third-degree block), asystole, marked hypertension, symptomatic hypotension in association with transient ischemic attack, seizures and syncope [see Warnings and Precautions (5.1), (5.2), (5.3), (5.5), (5.6) and (5.8)] have been reported.
+Some events required intervention with fluids and/or aminophylline [see Overdosage (10)].
 QTc prolongation shortly after Lexiscan administration has been reported.
 
 Central Nervous System
 
-Tremor, seizure (particularly with a history of seizure)
+Tremor, seizure, transient ischemic attack, and cerebrovascular accident including intracranial hemorrhage [see Warnings and Precautions (5.8) and (5.9)].
 
 Gastrointestinal
 
@@ -95,7 +98,7 @@ Diarrhea and fecal incontinence have also been reported following Lexiscan admin
 
 Hypersensitivity
 
-Anaphylaxis, angioedema, cardiac or respiratory arrest, respiratory distress, decreased oxygen saturation, hypotension, throat tightness, urticaria, rashes have occurred and have required treatment including resuscitation [see Warnings and Precautions (5.3)].
+Anaphylaxis, angioedema, cardiac or respiratory arrest, respiratory distress, decreased oxygen saturation, hypotension, throat tightness, urticaria, rashes have occurred and have required treatment including resuscitation [see Warnings and Precautions (5.4)].
 
 Musculoskeletal
 
