@@ -239,6 +239,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Roxane Laboratories, Inc. Columbus, Ohio 43216
 
-10004966/03
+10004966/02
 
 Revised February 2014 © RLI, 2014

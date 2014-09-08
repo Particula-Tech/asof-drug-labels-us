@@ -80,6 +80,6 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 Roxane Laboratories, Inc. Columbus, Ohio 43216
 
-10004966/03
+10004966/02
 
 Revised February 2014 © RLI, 2014
