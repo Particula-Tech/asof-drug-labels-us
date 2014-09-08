@@ -13,7 +13,7 @@ The mean elimination half-life (±SD) of bupropion after chronic dosing is 21 (�
 
 In a study comparing 14-day dosing with a bupropion hydrochloride extended-release tablet (XL) 300 mg once daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion).
 
-Additionally, in a study comparing 14-day dosing with a bupropion hydrochloride extended-release tablet (XL) 300 mg once daily to the sustainedrelease formulation of bupropion at 150 mg 2 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites.
+Additionally, in a study comparing 14-day dosing with a bupropion hydrochloride extended-release tablet (XL) 300 mg once daily to the sustained-release formulation of bupropion at 150 mg 2 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites.
 
 ### Absorption
 
@@ -35,7 +35,7 @@ However, it has been demonstrated in an antidepressant screening test in mice th
 This may be of clinical importance because the plasma concentrations of the metabolites are as high or higher than those of bupropion.
 
 Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by or which inhibit /induce the cytochrome P450IIB6 (CYP2B6) isoenzyme, such as ritonavir or efavirenz.
-In a healthy volunteer study, ritonavir at a dose of 100 mg twice daily reduced the AUC and C max of bupropion by 22% and 21%, respectively.
+In a healthy volunteer study, ritonavir at a dose of 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38% and the erythrohydrobupropion decreased by 48%.
 
 In a second healthy volunteer study, ritonavir at a dose of 600 mg twice daily decreased the AUC and the Cmax of bupropion by 66% and 62%, respectively.
@@ -43,6 +43,7 @@ The exposure of the hydroxybupropion metabolite was decreased by 78%, the threoh
 
 In another healthy volunteer study, KALETRA® (lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
 The AUC and Cmax of hydroxybupropion were decreased by 50% and 31%, respectively, (see PRECAUTIONS: Drug Interactions).
+
 In a study in healthy volunteers, efavirenz 600 mg once daily for 2 weeks reduces the AUC and Cmax of bupropion by approximately 55% and 34%, respectively.
 The AUC of hydroxybupropion was unchanged, whereas Cmax of hydroxybupropion was increased by 50%.
 
@@ -95,7 +96,7 @@ During a chronic dosing study with bupropion in 14 depressed patients with left 
 
 #### Age
 
-The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steadystate bupropion concentrations from several depression efficacy studies involving patients dosed in a range of 300 to 750 mg/day, on a 3 times daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
+The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy studies involving patients dosed in a range of 300 to 750 mg/day, on a 3 times daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
 A single-dose pharmacokinetic study demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that of younger subjects.
 These data suggest there is no prominent effect of age on bupropion concentration; however, another pharmacokinetic study, single and multiple dose, has suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites (see PRECAUTIONS: Geriatric Use).
 

@@ -4,12 +4,12 @@
 
 ## Major Depressive Disorder
 
-Bupropion hydrochloride extended-release tablets (XL) have been demonstrated to have similar bioavailability both to the immediate-release formulation of bupropion and to the sustainedrelease formulation of bupropion (see CLINICAL PHARMACOLOGY).
+Bupropion hydrochloride extended-release tablets (XL) have been demonstrated to have similar bioavailability both to the immediate-release formulation of bupropion and to the sustained-release formulation of bupropion (see CLINICAL PHARMACOLOGY).
 The information included under this subsection is based primarily on data from controlled clinical trials with the sustained-release formulation of bupropion.
 
 ### Adverse Events Leading to Discontinuation of Treatment With Immediate Release or Sustained Release Formulations of Bupropion
 
-In placebocontrolled clinical trials, 9% and 11% of patients treated with 300 and 400 mg/day, respectively, of the sustained-release formulation of bupropion and 4% of patients treated with placebo discontinued treatment due to adverse events.
+In placebo-controlled clinical trials, 9% and 11% of patients treated with 300 and 400 mg/day, respectively, of the sustained-release formulation of bupropion and 4% of patients treated with placebo discontinued treatment due to adverse events.
 The specific adverse events in these trials that led to discontinuation in at least 1% of patients treated with either 300 mg/day or 400 mg/day of bupropion hydrochloride sustained-release tablets (SR), the sustained-release formulation of bupropion, and at a rate at least twice the placebo rate are listed in Table 6.
 
 Table 6.
@@ -189,7 +189,7 @@ Adverse events with onset during the 2 weeks following discontinuation of buprop
 
 ## Other Events Observed During the Clinical Development and Post-Marketing Experience of Bupropion
 
-In addition to the adverse events noted above, the following events have been reported in clinical trials and post-marketing experience with the sustained-release formulation of bupropion in depressed patients and in nondepressed smokers, as well as in clinical trials and post-marketing clinical experience with the immediaterelease formulation of bupropion.
+In addition to the adverse events noted above, the following events have been reported in clinical trials and post-marketing experience with the sustained-release formulation of bupropion in depressed patients and in nondepressed smokers, as well as in clinical trials and post-marketing clinical experience with the immediate-release formulation of bupropion.
 
 Adverse events for which frequencies are provided below occurred in clinical trials with the sustained-release formulation of bupropion.
 The frequencies represent the proportion of patients who experienced a treatment-emergent adverse event on at least one occasion in placebo-controlled studies for depression (n = 987) or smoking cessation (n = 1,013), or patients who experienced an adverse event requiring discontinuation of treatment in an open-label surveillance study with the sustained-release formulation of bupropion (n = 3,100).

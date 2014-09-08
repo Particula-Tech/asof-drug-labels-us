@@ -117,6 +117,11 @@ What Other Important Information Should I Know About Bupropion Hydrochloride Ext
 - Unusual thoughts or behaviors.
   Some patients have unusual thoughts or behaviors while taking bupropion hydrochloride extended-release tablets (XL), including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your doctor.
+- Visual ProblemsOnly some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+  - eye pain
+  - changes in vision
+  - swelling or redness in or around the eye
 
 What are bupropion hydrochloride extended-release tablets (XL)?
 
@@ -130,7 +135,7 @@ Do not take bupropion hydrochloride extended-release tablets (XL) if you:
 - are taking ZYBAN® (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN® (bupropion hydrochloride tablets) or WELLBUTRIN SR® [bupropion hydrochloride extended-release tablets (SR)].
   Bupropion is the same active ingredient that is in bupropion hydrochloride extended-release tablets (XL).
 - drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE® (tranylcypromine sulfate), or MARPLAN®(isocarboxazid).
+- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE® (tranylcypromine sulfate), or MARPLAN® (isocarboxazid).
 - have or had an eating disorder such as anorexia nervosa or bulimia.
 - are allergic to the active ingredient in bupropion hydrochloride extended-release tablets (XL), bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in bupropion hydrochloride extended-release tablets (XL).
@@ -207,7 +212,7 @@ These are not all the side effects of bupropion hydrochloride extended-release t
 For a complete list, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088 or Impax Laboratories, Inc. at 1-800-934-6729.
 
 How should I store bupropion hydrochloride extended-release tablets (XL)?
 
@@ -223,6 +228,8 @@ General Information about bupropion hydrochloride extended-release tablets (XL).
   Do not give bupropion hydrochloride extended-release tablets (XL) to other people, even if they have the same symptoms you have.
   It may harm them.
   Keep bupropion hydrochloride extended-release tablets (XL) out of the reach of children.
+- If you take a urine drug screening test, bupropion hydrochloride extended-release tablets (XL) may make the test result positive for amphetamines.
+  If you tell the person giving you the drug screening test that you are taking bupropion hydrochloride extended-release tablets (XL), they can do a more specific drug screening test that should not have this problem.
 
 This Medication Guide summarizes important information about bupropion hydrochloride extended-release tablets (XL).
 For more information, talk with your doctor.
@@ -251,7 +258,5 @@ Nardil® is a registered trademark of Parke Davis.
 Parnate® is a registered trademark of GlaxoSmithKline.
 Marplan® is a registered trademark of Oxford Pharmaceutical Services.
 
-Rev.
-08/2011
-
-662-12
+662-13 Rev.
+08/2014
