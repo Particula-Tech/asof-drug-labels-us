@@ -26,7 +26,7 @@ Furthermore, narcotics produce adverse reactions which may obscure the clinical 
 
 Acute Abdominal Conditions – The administration of narcotics may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
 
-Misuse, Abuse, and Diversion of Opioids – Hydrocodone bitartrate and acetaminophen tablets contains hydrocodone an opioid agonist, and is a Schedule III controlled substance.
+Misuse, Abuse, and Diversion of Opioids – Hydrocodone bitartrate and acetaminophen tablets contains hydrocodone, an opioid agonist, and is a Schedule II controlled substance.
 Opioid agonists have the potential for being abused and are sought by abusers and people with addiction disorders, and are subject to diversion.
 
 Hydrocodone bitartrate and acetaminophen tablets can be abused in a manner similar to other opioid agonists, legal or illicit.
