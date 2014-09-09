@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C.
+Pregnancy Category C
 
 There are no adequate and well-controlled studies of ACTOPLUS MET or its individual components in pregnant women.
 Animal studies using pioglitazone show increased rates of post-implantation loss, delayed development, reduced fetal weights, and delayed parturition at doses 10 to 40 times the maximum recommended human dose.
@@ -17,13 +17,13 @@ Most experts recommend the use of insulin during pregnancy to maintain blood glu
 
 Animal Data
 
-In animal reproductive studies, pregnant rats and rabbits received pioglitazone at doses up to approximately 17 (rat) and 40 (rabbit) times the maximum recommended human oral dose (MRHD) based on body surface area (mg/m2); no teratogenicity was observed [see Nonclinical Toxicology (13.3)].
+In animal reproductive studies, pregnant rats and rabbits received pioglitazone at doses up to approximately 17 (rat) and 40 (rabbit) times the maximum recommended human oral dose (MRHD) based on body surface area (mg/m2); no teratogenicity was observed.
 Increases in embryotoxicity (increased postimplantation losses, delayed development, reduced fetal weights, and delayed parturition) occurred in rats that received oral doses approximately 10 or more times the MRHD (mg/m2 basis).
 No functional or behavioral toxicity was observed in rat offspring.
 When pregnant rats received pioglitazone during late gestation and lactation, delayed postnatal development, attributed to decreased body weight, occurred in rat offspring at oral maternal doses approximately 2 or more times the MRHD (mg/m2 basis).
 In rabbits, embryotoxicity occurred at oral doses approximately 40 times the MRHD (mg/m2 basis).
 
-Metformin Hydrochloride
+Metformin hydrochloride
 
 Metformin was not teratogenic in rats and rabbits at doses up to 600 mg/kg/day.
 This represents an exposure of about two and six times a human daily dose of 2000 mg based on body surface area comparisons for rats and rabbits, respectively.
@@ -44,7 +44,7 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 Safety and effectiveness of ACTOPLUS MET in pediatric patients have not been established.
 
-ACTOPLUS MET is not recommended for the treatment of diabetes in pediatric patients based on adverse effects observed with pioglitazone in adults, including fluid retention and congestive heart failure, fractures, and urinary bladder tumors [see Warnings and Precautions (5.1, 5.2, 5.5, 5.6)].
+ACTOPLUS MET is not recommended for use in pediatric patients based on adverse effects observed in adults, including fluid retention and congestive heart failure, fractures, and urinary bladder tumors [see Warnings and Precautions (5.1, 5.3, 5.6, 5.7)].
 
 ## 8.5 Geriatric Use
 
@@ -55,12 +55,13 @@ In the two pooled 16- to 24-week add-on to sulfonylurea trials, 201 patients (18
 In the two pooled 16- to 24-week add-on to metformin trials, 155 patients (15.5%) treated with pioglitazone were ≥65 years old and 19 (1.9%) were ≥75 years old.
 In the two pooled 16- to 24-week add-on to insulin trials, 272 patients (25.4%) treated with pioglitazone were ≥65 years old and 22 (2.1%) were ≥75 years old.
 
-In PROactive, 1068 patients (41.0%) treated with pioglitazone were ≥65 years old and 42 (1.6%) were ≥75 years old.
+In PROactive trial, 1068 patients (41.0%) treated with pioglitazone were ≥65 years old and 42 (1.6%) were ≥75 years old.
 
-In pharmacokinetic studies with pioglitazone, no significant differences were observed in pharmacokinetic parameters between elderly and younger patients.
-These clinical experiences have not identified differences in effectiveness and safety between the elderly (≥65 years) and younger patients although small sample sizes for patients ≥75 years old limit conclusions [see Clinical Pharmacology (12.3)].
+In pharmacokinetic studies with pioglitazone, no significant differences were observed in pharmacokinetic parameters between elderly and younger patients [see Clinical Pharmacology (12.3)].
 
-Metformin Hydrochloride
+Although clinical experiences have not identified differences in effectiveness and safety between the elderly (≥65 years) and younger patients, these conclusions are limited by small sample sizes for patients ≥75 years old.
+
+Metformin hydrochloride
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 Metformin is known to be substantially excreted by the kidney and because the risk of serious adverse reactions to the drug is greater in patients with impaired renal function, ACTOPLUS MET should only be used in patients with normal renal function [see Contraindications (4), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].

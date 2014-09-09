@@ -2,7 +2,7 @@
 
 ## 7.1 Strong CYP2C8 Inhibitors
 
-An inhibitor of CYP2C8 (e.g., gemfibrozil) significantly increases the exposure (area under the serum concentration-time curve or AUC) and half-life of pioglitazone.
+An inhibitor of CYP2C8 (e.g., gemfibrozil) significantly increases the exposure (area under the serum concentration-time curve or AUC) and half-life (t½) of pioglitazone.
 Therefore, the maximum recommended dose of pioglitazone is 15 mg daily if used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 7.2 CYP2C8 Inducers

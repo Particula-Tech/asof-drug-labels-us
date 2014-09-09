@@ -15,7 +15,7 @@ Metformin hydrochloride
 
 Lactic Acidosis
 
-Lactic acidosis is a serious, metabolic complication that can occur due to metformin accumulation during treatment with ACTOPLUS MET and, it is fatal in approximately 50% of cases.
+Lactic acidosis is a serious, metabolic complication that can occur due to metformin accumulation during treatment with ACTOPLUS MET and it is fatal in approximately 50% of cases.
 Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
 Lactic acidosis is characterized by elevated blood lactate concentrations (>5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
 When metformin is implicated as the cause of lactic acidosis, metformin plasma levels >5 mcg/mL are generally found.
@@ -60,7 +60,16 @@ ACTOPLUS MET should be used with caution in patients with edema.
 Because thiazolidinediones, including pioglitazone, can cause fluid retention, which can exacerbate or lead to congestive heart failure, ACTOPLUS MET should be used with caution in patients at risk for congestive heart failure.
 Patients treated with ACTOPLUS MET should be monitored for signs and symptoms of congestive heart failure [see Boxed Warning, Warnings and Precautions (5.1), and Patient Counseling Information (17.1)].
 
-## 5.4 Hepatic Effects
+## 5.4 Hypoglycemia
+
+Patients receiving ACTOPLUS MET in combination with insulin or other antidiabetic medications (particularly insulin secretagogues such as sulfonylureas) may be at risk for hypoglycemia.
+A reduction in the dose of the concomitant antidiabetic medication may be necessary to reduce the risk of hypoglycemia [see Dosage and Administration (2.2)].
+
+Hypoglycemia can also occur when caloric intake is deficient or when strenuous exercise is not compensated by caloric supplement.
+Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
+Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
+
+## 5.5 Hepatic Effects
 
 There have been postmarketing reports of fatal and nonfatal hepatic failure in patients taking pioglitazone, although the reports contain insufficient information necessary to establish the probable cause.
 There has been no evidence of drug-induced hepatotoxicity in the pioglitazone controlled clinical trial database to date [see Adverse Reactions (6.1)].
@@ -79,15 +88,6 @@ For patients with lesser elevations of serum ALT or bilirubin and with an altern
 
 Because impaired hepatic function has been associated with some cases of lactic acidosis ACTOPLUS MET should generally be avoided in patients with clinical or laboratory evidence of hepatic disease.
 
-## 5.5 Fractures
-
-In PROactive (the Prospective Pioglitazone Clinical Trial in Macrovascular Events), 5238 patients with type 2 diabetes and a history of macrovascular disease were randomized to pioglitazone (N=2605), force-titrated up to 45 mg daily or placebo (N=2633) in addition to standard of care.
-During a mean follow-up of 34.5 months, the incidence of bone fracture in females was 5.1% (44/870) for pioglitazone versus 2.5% (23/905) for placebo.
-This difference was noted after the first year of treatment and persisted during the course of the study.
-The majority of fractures observed in female patients were nonvertebral fractures including lower limb and distal upper limb.
-No increase in the incidence of fracture was observed in men treated with pioglitazone (1.7%) versus placebo (2.1%).
-The risk of fracture should be considered in the care of patients, especially female patients, treated with ACTOPLUS MET and attention should be given to assessing and maintaining bone health according to current standards of care.
-
 ## 5.6 Urinary Bladder Tumors
 
 Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
@@ -101,14 +101,14 @@ Interim results from this study suggested that taking pioglitazone longer than 1
 There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.
 Consequently, ACTOPLUS MET should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with ACTOPLUS MET should be considered in patients with a prior history of bladder cancer.
 
-## 5.7 Hypoglycemia
+## 5.7 Fractures
 
-Patients receiving ACTOPLUS MET in combination with insulin or other antidiabetic medications (particularly insulin secretagogues such as sulfonylureas) may be at risk for hypoglycemia.
-A reduction in the dose of the concomitant antidiabetic medication may be necessary to reduce the risk of hypoglycemia [see Dosage and Administration (2.2)].
-
-Hypoglycemia can also occur when caloric intake is deficient or when strenuous exercise is not compensated by caloric supplement.
-Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
-Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
+In PROactive (the Prospective Pioglitazone Clinical Trial in Macrovascular Events), 5238 patients with type 2 diabetes and a history of macrovascular disease were randomized to pioglitazone (N=2605), force-titrated up to 45 mg daily or placebo (N=2633) in addition to standard of care.
+During a mean follow-up of 34.5 months, the incidence of bone fracture in females was 5.1% (44/870) for pioglitazone versus 2.5% (23/905) for placebo.
+This difference was noted after the first year of treatment and persisted during the course of the study.
+The majority of fractures observed in female patients were nonvertebral fractures including lower limb and distal upper limb.
+No increase in the incidence of fracture was observed in men treated with pioglitazone (1.7%) versus placebo (2.1%).
+The risk of fracture should be considered in the care of patients, especially female patients, treated with ACTOPLUS MET and attention should be given to assessing and maintaining bone health according to current standards of care.
 
 ## 5.8 Macular Edema
 

@@ -9,28 +9,38 @@ What is the most important information I should know about ACTOPLUS MET?
 
 ACTOPLUS MET can cause serious side effects, including:
 
-- •New or worse heart failure.
+- •new or worse heart failure.
   Pioglitazone, one of the medicines in ACTOPLUS MET, can cause your body to keep extra fluid (fluid retention), which leads to swelling (edema) and weight gain.
   Extra body fluid can make some heart problems worse or lead to heart failure.
   Heart failure means your heart does not pump blood well enough.
-  - ∘ Do not take ACTOPLUS MET if you have severe heart failure
-  - ∘ If you have heart failure with symptoms (such as shortness of breath or swelling), even if these symptoms are not severe, ACTOPLUS MET may not be right for you.
+- oDo not take ACTOPLUS MET if you have severe heart failure
+
+- oIf you have heart failure with symptoms (such as shortness of breath or swelling), even if these symptoms are not severe, ACTOPLUS MET may not be right for you.
 - Call your doctor right away if you have any of the following:
-  - ∘ swelling or fluid retention, especially in the ankles or legs
-  - ∘ shortness of breath or trouble breathing, especially when you lie down
-  - ∘ an unusually fast increase in weight
-  - ∘ unusual tiredness
-- •Lactic Acidosis.
+
+- o swelling or fluid retention, especially in the ankles or legs
+
+- o shortness of breath or trouble breathing, especially when you lie down
+
+- o an unusually fast increase in weight
+
+- o unusual tiredness
+
+- •lactic acidosis.
   Metformin, one of the medicines in ACTOPLUS MET, can cause a rare but serious condition called lactic acidosis (a buildup of an acid in the blood) that can cause death.
   Lactic acidosis is a medical emergency and must be treated in the hospital.
-- Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
-- 
-  - ∘ you feel weak or tired
-  - ∘ you have unusual (not normal) muscle pain
-  - ∘ you have stomach pains, nausea, or vomiting
-  - ∘ you have trouble breathing
-  - ∘ you feel dizzy or lightheaded
-  - ∘ you have a slow or irregular heartbeat
+  - Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
+- o you feel weak or tired
+
+- o you have unusual (not normal) muscle pain
+
+- o you have stomach pains, nausea, or vomiting
+
+- o you have trouble breathing
+
+- o you feel dizzy or lightheaded
+
+- o you have a slow or irregular heartbeat
 
 Most people who have had lactic acidosis with metformin have other things that, combined with the metformin, led to the lactic acidosis.
 Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with ACTOPLUS MET if you:
@@ -61,7 +71,8 @@ ACTOPLUS MET is not for people with type 1 diabetes.
 
 ACTOPLUS MET is not for people with diabetic ketoacidosis (increased ketones in your blood or urine).
 
-It is not known if ACTOPLUS MET is safe and effective in children.
+It is not known if ACTOPLUS MET is safe and effective in children under the age of 18.
+ACTOPLUS MET is not recommended for use in children.
 
 Who should not take ACTOPLUS MET?
 
@@ -80,7 +91,7 @@ Tell your doctor before taking ACTOPLUS MET if you have any of these conditions.
 
 What should I tell my doctor before taking ACTOPLUS MET?
 
-Before you start taking ACTOPLUS MET, tell your doctor if you:
+Before you take ACTOPLUS MET, tell your doctor if you:
 
 - •have heart failure
 - •have kidney problems
@@ -90,6 +101,7 @@ Before you start taking ACTOPLUS MET, tell your doctor if you:
 - •have type 1 ("juvenile") diabetes or had diabetic ketoacidosis
 - •have a type of diabetic eye disease that causes swelling in the back of the eye (macular edema)
 - •have liver problems
+- •have or have had cancer of the bladder
 - •are pregnant or plan to become pregnant.
   It is not known if ACTOPLUS MET will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant about the best way to control your blood glucose levels while pregnant
@@ -103,7 +115,7 @@ Before you start taking ACTOPLUS MET, tell your doctor if you:
   You should not do both.
   Talk to your doctor about the best way to control your blood glucose levels while breastfeeding
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over the counter medicines, vitamins, and herbal supplements.
 
 ACTOPLUS MET and some of your other medicines can affect each other.
 You may need to have your dose of ACTOPLUS MET or certain other medicines changed.
@@ -135,28 +147,37 @@ What are the possible side effects of ACTOPLUS MET?
 ACTOPLUS MET may cause serious side effects, including:
 
 - •See "What is the most important information I should know about ACTOPLUS MET?"
-- •liver problems.
-  Call your doctor right away if you have:
-  - ∘ nausea or vomiting
-  - ∘ stomach pain
-  - ∘ unusual or unexplained tiredness
-  - ∘ loss of appetite
-  - ∘ dark urine
-  - ∘ yellowing of your skin or the whites of your eyes
-- •broken bones (fractures).
-  Usually in the hand, upper arm, or foot in women.
-  Talk to your doctor for advice on how to keep your bones healthy
-- •bladder cancer.
-  There may be an increased chance of having bladder cancer when you take ACTOPLUS MET.
-  You should not take ACTOPLUS MET if you are receiving treatment for bladder cancer.
-  Tell your doctor right away if you have any of the following symptoms of bladder cancer:
-  - ∘ blood or a red color in your urine
-  - ∘ an increased need to urinate
-  - ∘ pain while you urinate
 - •low blood sugar (hypoglycemia).
   This can happen if you skip meals, if you also use another medicine that lowers blood sugar, or if you have certain medical problems.
   Lightheadedness, dizziness, shakiness, or hunger may happen if your blood sugar is too low.
   Call your doctor if low blood sugar levels are a problem for you
+- •liver problems.
+  Call your doctor right away if you have:
+- onausea or vomiting
+
+- ostomach pain
+
+- ounusual or unexplained tiredness
+
+- oloss of appetite
+
+- odark urine
+
+- oyellowing of your skin or the whites of your eyes
+
+- •bladder cancer.
+  There may be an increased chance of having bladder cancer when you take ACTOPLUS MET.
+  You should not take ACTOPLUS MET if you are receiving treatment for bladder cancer.
+  Tell your doctor right away if you have any of the following symptoms of bladder cancer:
+- oblood or a red color in your urine
+
+- oan increased need to urinate
+
+- opain while you urinate
+
+- •broken bones (fractures).
+  Usually in the hand, upper arm, or foot in women.
+  Talk to your doctor for advice on how to keep your bones healthy
 - •diabetic eye disease with swelling in the back of the eye (macular edema).
   Tell your doctor right away if you have any changes in your vision.
   Your doctor should check your eyes regularly
@@ -167,11 +188,11 @@ ACTOPLUS MET may cause serious side effects, including:
 
 The most common side effects of ACTOPLUS MET include:
 
-- • coldlike symptoms (upper respiratory tract infection)
-- • swelling (edema)
-- • diarrhea
-- • headache
-- • increased weight
+- •cold-like symptoms (upper respiratory tract infection)
+- •swelling (edema)
+- •diarrhea
+- •headache
+- •increased weight
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 These are not all the side effects of ACTOPLUS MET.
@@ -182,9 +203,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ACTOPLUS MET?
 
-- •Store ACTOPLUS MET at 59°F to 86°F (15°C to 30°C).
+- •Store ACTOPLUS MET at 68°F to 77°F (20°C to 25°C).
   Keep ACTOPLUS MET in the original container and protect from light
-- •Keep the ACTOPLUS MET bottle tightly closed and protect from getting wet (away from moisture and humidity)
+
+Keep the ACTOPLUS MET bottle tightly closed and keep tablets dry
 
 Keep ACTOPLUS MET and all medicines out of the reach of children.
 
@@ -207,16 +229,14 @@ Active Ingredients: pioglitazone hydrochloride and metformin hydrochloride
 
 Inactive Ingredients: povidone, microcrystalline cellulose, croscarmellose sodium, magnesium stearate, hypromellose 2910, polyethylene glycol 8000, titanium dioxide, and talc
 
+ACTOS and ACTOPLUS MET are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-Revised: September 2012
+Revised: July 2014
 
-ACTOS and ACTOPLUS MET are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
+© 2009 - 2014 Takeda Pharmaceuticals America, Inc.
 
-All other trademarks are the property of their respective owners.
-
-© 2009, 2011-2012 Takeda Pharmaceuticals America, Inc.
-
-APM001 R11
+APM001 R12

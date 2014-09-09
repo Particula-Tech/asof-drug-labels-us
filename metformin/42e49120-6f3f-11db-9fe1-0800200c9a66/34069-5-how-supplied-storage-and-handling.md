@@ -1,14 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ACTOPLUS MET is available in 15-mg pioglitazone (as the base)/500-mg metformin hydrochloride and 15-mg pioglitazone (as the base)/850-mg metformin hydrochloride tablets as follows:
+ACTOPLUS MET is available in 15 mg pioglitazone (as the base)/500 mg metformin hydrochloride and 15 mg pioglitazone (as the base)/850 mg metformin hydrochloride tablets as follows:
 
-15-mg/500-mg tablet: white to off-white, oblong, film-coated tablet with "4833M" on one side and "15/500" on the other, available in:
+15 mg/500 mg tablet: white to off-white, oblong, film-coated tablet with "4833M" on one side and "15/500" on the other, available in:
 
 | Bottles of 60 | NDC 64764-155-60 |
 | --- | --- |
 | Bottles of 180 | NDC 64764-155-18 |
 
-15-mg/850-mg tablet: white to off-white, oblong, film-coated tablet with "4833M" on one side and "15/850" on the other, available in:
+15 mg/850 mg tablet: white to off-white, oblong, film-coated tablet with "4833M" on one side and "15/850" on the other, available in:
 
 | Bottles of 60 | NDC 64764-158-60 |
 | --- | --- |
