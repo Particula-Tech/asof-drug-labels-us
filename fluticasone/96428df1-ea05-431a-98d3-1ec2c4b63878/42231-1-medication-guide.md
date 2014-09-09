@@ -1,3 +1,16 @@
+BREO and ELLIPTA are registered trademarks of the GSK group of companies.
+
+BREO ELLIPTA was developed in collaboration with Theravance.
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2014, the GSK group of companies.
+All rights reserved.
+
+BRE:3PI
+
 Medication Guide
 
 BREO® ELLIPTA® (BREE-oh ee-LIP-ta)
@@ -21,8 +34,8 @@ BREO ELLIPTA can cause serious side effects, including:
 - •Call your healthcare provider if breathing problems worsen over time while using BREO ELLIPTA.
   You may need different treatment.
 - •Get emergency medical care if:
-  - •your breathing problems worsen quickly
-  - •you use your rescue inhaler, but it does not relieve your breathing problems.
+  - your breathing problems worsen quickly
+  - you use your rescue inhaler, but it does not relieve your breathing problems.
 
 What is BREO ELLIPTA?
 
@@ -108,11 +121,11 @@ Read the step-by-step instructions for using BREO ELLIPTA at the end of this Med
   Always have a rescue inhaler with you to treat sudden symptoms.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
-  - •your breathing problems get worse
-  - •you need to use your rescue inhaler more often than usual
-  - •your rescue inhaler does not work as well to relieve your symptoms
-  - •you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row
-  - •you use 1 whole canister of your rescue inhaler in 8 weeks
+  - your breathing problems get worse
+  - you need to use your rescue inhaler more often than usual
+  - your rescue inhaler does not work as well to relieve your symptoms
+  - you need to use 4 or more inhalations of your rescue inhaler in 24 hours for 2 or more days in a row
+  - you use 1 whole canister of your rescue inhaler in 8 weeks
 
 What are the possible side effects with BREO ELLIPTA?
 
@@ -123,39 +136,39 @@ BREO ELLIPTA can cause serious side effects, including:
   People with COPD have a higher chance of getting pneumonia.
   BREO ELLIPTA may increase the chance of getting pneumonia.
   Call your healthcare provider if you notice any of the following symptoms:
-  - •increase in mucus (sputum) production
-  - •change in mucus color
-  - •fever
-  - •chills
-  - •increased cough
-  - •increased breathing problems
+  - increase in mucus (sputum) production
+  - change in mucus color
+  - fever
+  - chills
+  - increased cough
+  - increased breathing problems
 - •thrush (fungal infection) in mouth and throat.
   You may develop a yeast infection (Candida albicans) in your mouth or throat.
   Rinse your mouth with water without swallowing after using BREO ELLIPTA to help prevent thrush in your mouth and throat.
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - •rash
-  - •hives
-  - •swelling of the face, mouth, and tongue
-  - •breathing problems
+  - rash
+  - hives
+  - swelling of the face, mouth, and tongue
+  - breathing problems
 - •sudden breathing problems immediately after inhaling your medicine
 - •effects on heart
-  - •increased blood pressure
-  - •a fast and/or irregular heartbeat
-  - •chest pain
+  - increased blood pressure
+  - a fast and/or irregular heartbeat
+  - chest pain
 - •effects on nervous system
-  - •tremor
-  - •nervousness
+  - tremor
+  - nervousness
 - •reduced adrenal function (adrenal insufficiency).
   Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled corticosteroid (such as BREO ELLIPTA).
   When your body is under stress from fever, trauma (such as a car accident), infection, surgery, or worse COPD symptoms, adrenal insufficiency can get worse and may cause death.
   Symptoms of adrenal insufficiency include:
-  - •feeling tired (fatigue)
-  - •lack of energy
-  - •weakness
-  - •nausea and vomiting
-  - •low blood pressure
+  - feeling tired (fatigue)
+  - lack of energy
+  - weakness
+  - nausea and vomiting
+  - low blood pressure
 - •changes in laboratory blood values (sugar, potassium)
 - •weakened immune system and increased chance of getting infections (immunosuppression)
 - •bone thinning or weakness (osteoporosis)

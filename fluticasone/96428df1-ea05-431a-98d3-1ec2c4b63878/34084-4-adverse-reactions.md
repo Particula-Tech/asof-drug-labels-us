@@ -33,7 +33,7 @@ Adverse Reactions With ≥3% Incidence and More Common Than Placebo With BREO EL
 | Infections and infestations |  |  |  |  |
 | Nasopharyngitis | 9 | 10 | 8 | 8 |
 | Upper respiratory tract infection | 7 | 5 | 4 | 3 |
-| Oropharyngeal candidiasisa | 5 | 2 | 3 | 2 |
+| Oropharyngeal candidiasis a | 5 | 2 | 3 | 2 |
 | Nervous system disorders |  |  |  |  |
 | Headache | 7 | 9 | 7 | 5 |
 
@@ -45,3 +45,11 @@ They had a mean age of 64 years and an average smoking history of 46 pack years,
 At screening, the mean postbronchodilator percent predicted FEV1 was 45% (range: 12% to 91%), and the mean postbronchodilator FEV1/FVC ratio was 46% (range: 17% to 81%), indicating that the subject population had moderate to very severely impaired airflow obstruction.
 Subjects received 1 inhalation once daily of the following: BREO ELLIPTA 100 mcg/25 mcg, fluticasone furoate/vilanterol 50 mcg/25 mcg, fluticasone furoate/vilanterol 200 mcg/25 mcg, or vilanterol 25 mcg.
 In addition to the events shown in Table 1, adverse reactions occurring in greater than or equal to 3% of the subjects treated with BREO ELLIPTA (N = 806) for 12 months included COPD, back pain, pneumonia [see Warnings and Precautions (5.5)], bronchitis, sinusitis, cough, oropharyngeal pain, arthralgia, hypertension, influenza, pharyngitis, diarrhea, peripheral edema, and pyrexia.
+
+## 6.2 Postmarketing Experience
+
+In addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postapproval use of BREO ELLIPTA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to BREO ELLIPTA or a combination of these factors.
+
+Immune System Disorders: Hypersensitivity reactions including anaphylaxis, angioedema, rash, and urticaria.

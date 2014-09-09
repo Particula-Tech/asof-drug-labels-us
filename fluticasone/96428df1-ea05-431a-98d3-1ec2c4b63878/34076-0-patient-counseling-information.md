@@ -47,15 +47,8 @@ Ocular Effects: Long-term use of inhaled corticosteroids may increase the risk o
 
 Patients should be informed of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
-BREO and ELLIPTA are registered trademarks of the GSK group of companies.
+## 17.6 Hypersensitivity Reactions, Including Anaphylaxis
 
-BREO ELLIPTA was developed in collaboration with Theravance.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-©2014, the GSK group of companies.
-All rights reserved.
-
-BRE:2PI
+Advise patients that hypersensitivity reactions (e.g., anaphylaxis, angioedema, rash, urticaria) may occur after administration of BREO ELLIPTA.
+Instruct patients to discontinue BREO ELLIPTA if such reactions occur.
+There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder medications containing lactose; therefore, patients with severe milk protein allergy should not use BREO ELLIPTA.

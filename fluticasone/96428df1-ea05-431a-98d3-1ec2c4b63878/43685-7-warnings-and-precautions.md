@@ -108,10 +108,11 @@ Caution should be exercised when considering the coadministration of BREO ELLIPT
 As with other inhaled medicines, BREO ELLIPTA can produce paradoxical bronchospasm, which may be life threatening.
 If paradoxical bronchospasm occurs following dosing with BREO ELLIPTA, it should be treated immediately with an inhaled, short-acting bronchodilator; BREO ELLIPTA should be discontinued immediately; and alternative therapy should be instituted.
 
-## 5.11 Hypersensitivity Reactions
+## 5.11 Hypersensitivity Reactions, Including Anaphylaxis
 
-Hypersensitivity reactions may occur after administration of BREO ELLIPTA.
-There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder products containing lactose; therefore, patients with severe milk protein allergy should not use BREO ELLIPTA [see Contraindications (4)].
+Hypersensitivity reactions such as anaphylaxis, angioedema, rash, and urticaria may occur after administration of BREO ELLIPTA.
+Discontinue BREO ELLIPTA if such reactions occur.
+There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder medications containing lactose; therefore, patients with severe milk protein allergy should not use BREO ELLIPTA [see Contraindications (4)].
 
 ## 5.12 Cardiovascular Effects
 

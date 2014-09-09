@@ -25,7 +25,7 @@ Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhi
 ## 12.2 Pharmacodynamics
 
 Cardiovascular Effects: Healthy Subjects: QTc interval prolongation was studied in a double-blind, multiple dose, placebo- and positive-controlled crossover study in 85 healthy volunteers.
-The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline-correction was 4.9 (7.5) milliseconds and 9.6 (12.2) milliseconds seen 30 minutes after dosing for fluticasone furoate /vilanterol 200mcg/25 mcg and fluticasone furoate/vilanterol 800 mcg/100 mcg, respectively.
+The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline-correction was 4.9 (7.5) milliseconds and 9.6 (12.2) milliseconds seen 30 minutes after dosing for fluticasone furoate /vilanterol 200 mcg/25 mcg and fluticasone furoate/vilanterol 800 mcg/100 mcg, respectively.
 
 A dose-dependent increase in heart rate was also observed.
 The maximum mean (95% upper confidence bound) difference in heart rate from placebo after baseline-correction was 7.8 (9.4) beats/min and 17.1 (18.7) beats/min seen 10 minutes after dosing for fluticasone furoate/vilanterol 200 mcg/25 mcg and fluticasone furoate/vilanterol 800 mcg/100 mcg, respectively.

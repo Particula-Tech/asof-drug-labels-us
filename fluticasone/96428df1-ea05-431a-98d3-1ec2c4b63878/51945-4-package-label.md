@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0859-10
 
@@ -6,34 +6,22 @@ BREO® ELLIPTA®
 
 (fluticasone furoate and vilanterol inhalation powder)
 
-100 mcg/25 mcg
+Rx Only
 
 FOR ORAL INHALATION ONLY
 
-Rx Only
-
-Each blister on one strip contains 100 mcg of fluticasone furoate and latose monohydrate.
-
+Each blister on one strip contains 100 mcg of fluticasone furoate and lactose monohydrate.
 Each blister on the other strip contains 25 mcg of vilanterol, magnesium stearate, and lactose monohydrate.
 
-Dosage: Use only as directed by your doctor
+100/25
 
-IMPORTANT: Read the accompanying Mediation Guide leaflet carefully for further information.
+Federal Law requires the dispensing of BREO ELLIPTA with the Medication Guide inside the carton.
 
-If you open and close the cover without inhaling the medicine, you will lose the dose.
+1 ELLIPTA® Inhaler containing2 Foil Strips of 30 Blisters each
 
-Discard the inhaler 6 weeks after opening the moisture-protective foil tray or when the counter reads “0” (after all blisters have been used), whichever comes first.
+©2014, the GSK group of companies
 
-Store at room temperature between 68°F and 77°F (20°C and 25°C); excursions permitted from 59°F to 86°F (15°C to 30°C) [See USP Controlled Room Temperature].
-Store in a dry place away from direct heat or sunlight.
+Made in the UK
 
-1 ELLIPTA® Inhaler containing
-
-2Foil Strips of 30 Blisters each
-
-GlaxoSmithKline, RTP, NC 27709
-
-Theravance
-
-10000000124271 Rev.
+10000000124249 Rev.
 4/14
