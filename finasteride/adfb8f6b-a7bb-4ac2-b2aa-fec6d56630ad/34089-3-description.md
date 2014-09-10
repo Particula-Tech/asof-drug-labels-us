@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Finasteride, a synthetic 4-azasteroid compound, is a specific inhibitor of steroid Type II 5α-reductase, an intracellular enzyme that converts the androgen testosterone into 5α-dihydrotestosterone (DHT).
 
@@ -9,4 +9,4 @@ Its structural formula is:
 Finasteride is a white crystalline powder with a melting point near 250°C.
 It is freely soluble in chloroform and in lower alcohol solvents, but is practically insoluble in water.
 
-Finasteride tablets USP for oral administration are film-coated tablets that contain 5 mg of finasteride and the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, pregelatinized starch, sodium starch glycolate, hypromellose, titanium dioxide, magnesium stearate, lauryl macrogolglycerides, FD&C Blue # 2 aluminum lake and polyethylene glycol.
+Finasteride tablets USP for oral administration are film-coated tablets that contain 5 mg of finasteride and the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, pregelatinized starch (maize), sodium starch glycolate, hypromellose, titanium dioxide, magnesium stearate, lauryl macrogolglycerides, FD&C Blue # 2 aluminum lake and polyethylene glycol.
