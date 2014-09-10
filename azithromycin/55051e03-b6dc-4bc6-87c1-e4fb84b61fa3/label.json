@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA065501"
+  ],
+  "inn": "azithromycin",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-199-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azithromycin monohydrate",
+      "name": "Azithromycin monohydrate"
+    }
+  ],
+  "setid": "55051e03-b6dc-4bc6-87c1-e4fb84b61fa3",
+  "source": "dailymed"
+}
