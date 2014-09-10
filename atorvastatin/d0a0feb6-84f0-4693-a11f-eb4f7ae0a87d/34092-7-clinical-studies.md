@@ -60,7 +60,7 @@ Overview of Efficacy Results in TNT
 | SECONDARY ENDPOINTSSecondary endpoints not included in primary endpoint |  |  |  |  |  |
 | First CHF with hospitalization | 164 | (3.3) | 122 | (2.4) | 0.74 (0.59, 0.94) |
 | First PVD endpoint | 282 | (5.6) | 275 | (5.5) | 0.97 (0.83, 1.15) |
-| First CABG or other coronary revascularization procedureComponent of other secondary endpoints | 904 | (18.1) | 667 | (13.4) | 0.72 (0.65, 0.8) |
+| First CABG or other coronary revascularization procedureComponent of other secondary endpoints | 904 | (18.1) | 667 | (13.4) | 0.72 (0.65, 0.80) |
 | First documented angina endpoint‡ | 615 | (12.3) | 545 | (10.9) | 0.88 (0.79, 0.99) |
 | All-cause mortality | 282 | (5.6) | 284 | (5.7) | 1.01 (0.85, 1.19) |
 | Components of All-Cause Mortality |  |  |  |  |  |
@@ -185,7 +185,7 @@ In a double-blind, placebo-controlled study followed by an open-label phase, 187
 Inclusion in the study required 1) a baseline LDL-C level ≥ 190 mg/dL or 2) a baseline LDL-C level ≥ 160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative.
 The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5 to 385 mg/dL) in the atorvastatin group compared to 230 mg/dL (range: 160.0–324.5 mg/dL) in the placebo group.
 The dosage of atorvastatin (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL.
-The number of atorvastatin-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 80 (57.1%).
+The number of atorvastatin-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (55.7%).
 
 Atorvastatin significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 10).
 

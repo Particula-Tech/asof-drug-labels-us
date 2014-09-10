@@ -1,4 +1,4 @@
-PATIENT INFORMATION LEAFLET ATORVASTATIN CALCIUM TABLETS (a tor″ va stat′ in kal′ see um) 10 mg, 20 mg, 40 mg and 80 mg
+PATIENT INFORMATION ATORVASTATIN CALCIUM TABLETS (a tor″ va stat′ in kal′ see um) 10 mg, 20 mg, 40 mg and 80 mg
 
 Read the Patient Information that comes with atorvastatin before you start taking it and each time you get a refill.
 There may be new information.
@@ -149,16 +149,16 @@ FDA at 1-800-FDA-1088.
 
 How do I store atorvastatin calcium tablets?
 
-- •Store at 20° to 25°C (68° to 77°F).
+- •Store atorvastatin calcium tablets at 20° to 25°C (68° to 77°F).
 - •Do not keep medicine that is out of date or that you no longer need.
 - •Keep atorvastatin calcium tablets and all medicines out of the reach of children.
   Be sure that if you throw medicine away, it is out of the reach of children.
 
-General information about atorvastatin calcium tablets:
+General information about atorvastatin calcium tablets
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not use atorvastatin calcium tablets for a condition for which it was not prescribed.
-Do not give atorvastatin calcium tablets to other people, even if they have the same problem you have.
+Do not use atorvastatin for a condition for which it was not prescribed.
+Do not give atorvastatin to other people, even if they have the same problem you have.
 It may harm them.
 
 This leaflet summarizes the most important information about atorvastatin calcium tablets.
@@ -171,8 +171,10 @@ Active Ingredient: atorvastatin calcium, USP
 
 Inactive Ingredients: anhydrous lactose, anhydrous sodium carbonate, colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl cellulose, L-Arginine, lecithin, magnesium stearate, microcrystalline cellulose, polyvinyl alcohol, talc, titanium dioxide and xanthan gum.
 
+For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-REVISED APRIL 2013 75051643 MX:ATOR:R7ppt
+REVISED AUGUST 2014 75054926 MX:ATOR:R8ppt
