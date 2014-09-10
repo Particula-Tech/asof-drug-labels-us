@@ -1,5 +1,14 @@
 # ADVERSE EVENTS
 
+The premarketing development program for EMSAM included selegiline exposures in patients and/or normal subjects from two different groups of studies: 702 healthy subjects in clinical pharmacology/pharmacokinetics studies and 2036 exposures from patients in controlled and uncontrolled major depressive disorder clinical trials.
+The conditions and duration of treatment with EMSAM varied and included double-blind, open-label, fixed-dose, and dose titration studies of short-term and longer-term exposures.
+Safety was assessed by monitoring adverse events, physical examinations, vital signs, body weights, laboratory analyses, and ECGs.
+
+Adverse events during exposure were obtained primarily by general inquiry and recorded by clinical investigators.
+In the tables and tabulations that follow, standard COSTART terminology has been used to classify reported adverse events.
+The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
+An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
+
 ## Adverse Findings Observed in Short-Term Placebo-Controlled Trials
 
 ### Adverse Events Associated with Discontinuation of Treatment
@@ -117,7 +126,7 @@ The conditions and duration of exposure to EMSAM varied and included double-blin
 
 In the tabulations that follow, reported adverse events were classified using a standard COSTART-based dictionary terminology.
 All reported adverse events are included except those already listed in Table 2 or elsewhere in labeling, and those events occurring in only one patient.
-It is important to emphasize that although the events occurred during treatment with EMSAM,they were not necessarily caused by it.
+It is important to emphasize that although the events occurred during treatment with EMSAM, they were not necessarily caused by it.
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in less than 1/100 patients but at least 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 
@@ -133,27 +142,27 @@ Digestive System: Frequent: Constipation, flatulence, anorexia, gastroenteritis,
 Infrequent: Increased appetite, thirst, periodontal abscess, eructation, gastritis, colitis, dysphagia, tongue edema, glossitis, increased salivation, abnormal liver function tests, melena, tongue disorder, tooth caries.
 Rare: GI neoplasia, rectal hemorrhage.
 
-Hemic and Lymphatic System:Frequent: Ecchymosis.
+Hemic and Lymphatic System: Frequent: Ecchymosis.
 Infrequent: Anemia, lymphadenopathy.
 Rare: Leukocytosis, leukopenia, petechia.
 
-Metabolic and Nutritional: Frequent:Peripheral edema.
+Metabolic and Nutritional: Frequent: Peripheral edema.
 Infrequent: Hyperglycemia, increased SGPT, edema, hypercholesteremia, increased SGOT, dehydration, alcohol intolerance, hyponatremia, increased lactic dehydrogenase.
 Rare: Increased alkaline phosphatase, bilirubinemia, hypoglycemic reaction.
 
-Musculoskeletal System:Frequent: Myalgia, pathological fracture.
+Musculoskeletal System: Frequent: Myalgia, pathological fracture.
 Infrequent: Arthralgia, generalized spasm, arthritis, myasthenia, arthrosis, tenosynovitis.
 Rare: Osteoporosis.
 
-Nervous System: Frequent:Agitation, paresthesia, thinking abnormal, amnesia.
+Nervous System: Frequent: Agitation, paresthesia, thinking abnormal, amnesia.
 Infrequent: Leg cramps, tremor, vertigo, hypertonia, twitching, emotional lability, confusion, manic reaction, depersonalization, hyperkinesias, hostility, myoclonus, circumoral paresthesia, hyperesthesia, increased libido, euphoria, neurosis, paranoid reaction.
 Rare: Ataxia.
 
-Respiratory System: Frequent:Cough increased, bronchitis.
+Respiratory System: Frequent: Cough increased, bronchitis.
 Infrequent: Dyspnea, asthma, pneumonia, laryngismus.
 Rare: Epistaxis, laryngitis, yawn.
 
-Skin and Appendages:Frequent: Pruritus, sweating, acne.
+Skin and Appendages: Frequent: Pruritus, sweating, acne.
 Infrequent: Dry skin, maculopapular rash, contact dermatitis, urticaria, herpes simplex, alopecia, vesiculobullous rash, herpes zoster, skin hypertrophy, fungal dermatitis, skin benign neoplasm.
 Rare: Eczema.
 

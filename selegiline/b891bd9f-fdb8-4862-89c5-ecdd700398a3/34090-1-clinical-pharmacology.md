@@ -18,7 +18,7 @@ No affinity [Ki > 10 μM] was noted at dopamine receptors, adrenergic β3, gluta
 
 ### Absorption
 
-Following dermal application of EMSAM to humans, 25% - 30% of theselegilinecontent on average is delivered systemically over 24 hours (range ~ 10% - 40%).
+Following dermal application of EMSAM to humans, 25% - 30% of the selegiline content on average is delivered systemically over 24 hours (range ~ 10% - 40%).
 Consequently, the degree of drug absorption may be 1/3 higher than the average amounts of 6 mg to 12 mg per 24 hours.
 Transdermal dosing results in substantially higher exposure to selegiline and lower exposure to metabolites compared to oral dosing, where extensive first-pass metabolism occurs (Figure 2).
 In a 10-day study with EMSAM administered to normal volunteers, steady-state selegiline plasma concentrations were achieved within 5 days of daily dosing.
@@ -39,7 +39,7 @@ Selegiline is extensively metabolized by several CYP450-dependent enzyme systems
 Selegiline is metabolized initially via N-dealkylation or N-depropargylation to form N-desmethylselegiline or R(-)-methamphetamine, respectively.
 Both of these metabolites can be further metabolized to R(-)-amphetamine.
 These metabolites are all levorotatory (l-)enantiomers and no racemic biotransformation to the dextrorotatory form (i.e., S(+)-amphetamine or S(+)-methamphetamine) occurs.
-R(-)-methamphetamine and R(-)-amphetamine are mainly excreted unchanged in urine
+R(-)-methamphetamine and R(-)-amphetamine are mainly excreted unchanged in urine.
 
 ### In vitro Metabolism
 
@@ -50,7 +50,8 @@ CYP2A6, CYP2B6, and CYP3A4/5 appeared to contribute to the formation of R(-)-amp
 The potential for selegiline or N-desmethylselegiline to inhibit individual CYP450-dependent enzyme pathways was also examined in vitro with human liver microsomes.
 Each substrate was examined over a concentration range of 2.5 to 250 μM.
 Consistent with competitive inhibition, both selegiline and N-desmethylselegiline caused a concentration dependent inhibition of CYP2D6 at 10 - 250 μM and CYP3A4/5 at 25 - 250 μM.
-CYP2C19 and CYP2B6 were also inhibited at concentrations ≥ 100 μM.All inhibitory effects of selegiline and N-desmethylselegiline occurred at concentrations that are several orders of magnitude higher than concentrations seen clinically (highest predose concentration observed at a dose of 12 mg/24 hours at steady-state was 0.046 μM) (see PRECAUTIONS, Drug Interactions)
+CYP2C19 and CYP2B6 were also inhibited at concentrations ≥ 100 μM.
+All inhibitory effects of selegiline and N-desmethylselegiline occurred at concentrations that are several orders of magnitude higher than concentrations seen clinically (highest predose concentration observed at a dose of 12 mg/24 hours at steady-state was 0.046 μM) (see PRECAUTIONS, Drug Interactions).
 
 ### Excretion
 

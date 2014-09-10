@@ -23,11 +23,11 @@ Talk to your, or your family member’s, healthcare provider about:
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-1. 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-2. 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-   Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+- 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+  Some people may have a particularly high risk of having suicidal thoughts or actions.
+  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+- 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
 - •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
@@ -92,10 +92,7 @@ See “What are the possible side effects of EMSAM?” for signs and symptoms of
 • a 12 mg/24 hours patch
 
 • You must avoid (not eat or drink) certain foods and drinks while using EMSAM 9 mg/24 hours and EMSAM 12 mg/24 hours patches and for 2 weeks after stopping EMSAM 9 mg/24 hours and EMSAM 12 mg/24 hours patches.
-(The table below lists these foods and drinks.
-Adapted from K.I.
-Shulman, S.E.
-Walker, Psychiatric Annals 2001; 31:378-384) The table also lists foods and drinks that are okay to eat and drink while using EMSAM 9 mg/24 hours and EMSAM 12 mg/24 hours patches.
+(The table below lists these foods and drinks.1) The table also lists foods and drinks that are okay to eat and drink while using EMSAM 9 mg/24 hours and EMSAM 12 mg/24 hours patches.
 
 • You do not have to make any diet changes with the EMSAM 6 mg/24 hours patch.
 
@@ -106,6 +103,10 @@ Walker, Psychiatric Annals 2001; 31:378-384) The table also lists foods and drin
 | Dairy (milk products) | • Aged cheeses | • Processed cheeses, mozzarella, ricotta cheese, cottage cheese, and yogurt |
 | Drinks | • All tap beers and other beers that have not been pasteurized | • As with other antidepressants, concomitant use of alcohol with EMSAM is not recommended. (Bottled and canned beers and wines contain little or no tyramine.) |
 | Other | • Concentrated yeast extract (such as Marmite)• Sauerkraut• Most soybean products (including soy sauce and tofu) • Over-the-counter supplements containing tyramine | • Brewer’s yeast, baker’s yeast • Soy milk• Pizzas from commercial chain restaurants prepared with cheeses low in tyramine |
+
+1Adapted from K.I.
+Shulman, S.E.
+Walker, Psychiatric Annals 2001; 31:378-384
 
 • All foods you eat must be fresh or properly frozen.
 
@@ -350,10 +351,8 @@ If your EMSAM (selegiline transdermal system) patch falls off, apply a new EMSAM
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-DISTRIBUTED BY:
-
-Mylan Specialty L.P.
-Basking Ridge, NJ 07920
+DISTRIBUTED BY: Mylan Specialty L.P.
+Morgantown, WV 26505
 
 MANUFACTURED FOR: Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
@@ -367,8 +366,4 @@ MANUFACTURED FOR: Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
 *BuSpar® is registered trademark of Bristol-Myers Squibb Company
 
-REVISED NOVEMBER 2012
-
-EMSAM:PLR10
-
-03-944-03
+REVISED JUNE 2014 EMSAM:PLR11

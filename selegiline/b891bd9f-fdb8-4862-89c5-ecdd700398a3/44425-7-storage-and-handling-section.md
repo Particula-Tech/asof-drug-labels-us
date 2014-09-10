@@ -6,8 +6,8 @@ Apply immediately upon removal from the protective pouch.
 Discard used EMSAM in household trash in a manner that prevents accidental application or ingestion by children, pets or others.
 
 DISTRIBUTED BY: Mylan Specialty L.P.
-Basking Ridge, NJ 07920
+Morgantown, WV 26505
 
 MANUFACTURED FOR: Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
-REVISED NOVEMBER 2012 EMSAM:PIR10 03-943-0
+REVISED JUNE 2014 EMSAM:PIR11

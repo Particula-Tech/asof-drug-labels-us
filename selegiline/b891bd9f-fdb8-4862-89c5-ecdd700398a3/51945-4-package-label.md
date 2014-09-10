@@ -38,7 +38,7 @@ Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Dist. by Mylan Specialty L.P.
-Basking Ridge, NJ 07920
+Morgantown, WV 26505
 
 Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
@@ -85,7 +85,7 @@ Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Dist. by Mylan Specialty L.P.
-Basking Ridge, NJ 07920
+Morgantown, WV 26505
 
 Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
@@ -132,7 +132,7 @@ Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Dist. by Mylan Specialty L.P.
-Basking Ridge, NJ 07920
+Morgantown, WV 26505
 
 Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
