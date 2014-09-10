@@ -10,8 +10,11 @@ Mild to moderate skin dryness may also be experienced; if so, use of an appropri
 
 Tretinoin has been reported to cause severe irritation on eczematous or sunburned skin and should be used with caution in patients with these conditions.
 
-Topical over-the-counter acne preparations, concomitant topical medication, medicated cleansers, topical products with alcohol or astringents, when used with Atralin Gel, should be used with caution.
-[see Drug Interactions (7)].
+To help limit skin irritation, patients must:
+
+- wash the treated skin gently, using a mild, non-medicated soap, and pat it dry
+- avoid washing the treated skin too often and scrubbing the affected skin area
+- avoid contact with the peels of limes
 
 ## 5.2 Ultraviolet Light and Environmental Exposure
 
@@ -19,7 +22,7 @@ Unprotected exposure to sunlight, including sunlamps, should be minimized during
 Patients who normally experience high levels of sun exposure, and those with inherent sensitivity to sun, should be warned to exercise caution.
 Use of sunscreen products of at least SPF 15 and protective clothing over treated areas is recommended when exposure cannot be avoided.
 
-Weather extremes, such as wind or cold, also may be irritating to patients under treatment with tretinoin.
+Weather extremes, such as wind or cold, also may be irritating to tretinoin-treated skin.
 
 ## 5.3 Fish Allergies
 

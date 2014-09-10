@@ -1,3 +1,5 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-0.05% weight/weight topical gel, in 45 gram tubes
+Gel, 0.05%
+
+Each gram of Atralin Gel contains 0.5 mg (0.05%) tretinoin in a translucent to opaque, pale yellow topical gel.

@@ -1,17 +1,16 @@
-# 14 CLINICAL STUDIES
+# 14 CLINICAL TRIALS
 
-The safety and efficacy of Atralin Gel used once daily before bedtime for the treatment of mild to moderate acne vulgaris were assessed in two 12-week prospective, multi-center, randomized, controlled studies.
-Subjects in these two studies ranged from 10 to 65 years of age, were approximately 52% female, 48% male, and were 74% Caucasian, 15% Black or African American, 3% Asian, and 8% Other.
+The safety and efficacy of Atralin Gel used once daily before bedtime for the treatment of mild to moderate acne vulgaris were assessed in two 12-week prospective, multi-center, randomized, controlled trials.
+Subjects in these two trials ranged from 10 to 65 years of age, were approximately 52% female, 48% male, and were 74% Caucasian, 15% Black or African American, 3% Asian, and 8% Other.
 
 Efficacy results at Week 12 are presented in Table 3.
 Success on the 6-point Global Severity Score is defined as a score of 0 (clear) or 1 (very mild).
-In Study 2, subjects were also required to have at least two grades reduction from baseline for success. 'Very mild' acne is defined as: skin almost clear; rare non-inflammatory lesions present, with rare non-inflamed papules (papules may be hyperpigmented, though not pink-red, less than 4 lesions).
+In Trial 2, subjects were also required to have at least two grades reduction from baseline for success. 'Very mild' acne is defined as: skin almost clear; rare non-inflammatory lesions present, with rare non-inflamed papules (papules may be hyperpigmented, though not pink-red, less than 4 lesions).
 The database was not large enough to assess whether there were differences in effects in age, gender, or race subgroups.
 
-Table 3.
-Efficacy Results at Week 12 in Studies 1 and 2
+Table 3: Efficacy Results at Week 12 in Trials 1 and 2
 
-| Study 1 | Atralin Gel N=375 | Vehicle N=185 |
+| Trial 1 | Atralin Gel N=375 | Vehicle N=185 |
 | --- | --- | --- |
 | Global Severity Score SuccessSuccess was defined as 0 (clear) or 1 (very mild) | 78 (21%) | 23 (12%) |
 | Non-Inflammatory Facial Lesions |  |  |
@@ -26,7 +25,7 @@ Efficacy Results at Week 12 in Studies 1 and 2
 | Mean Baseline Count | 74.1 | 76.3 |
 | Mean Absolute Reduction | 31.4 | 16.1 |
 | Mean Percent Reduction | 43% | 22% |
-| Study 2 | Atralin Gel N=299 | Vehicle N=302 |
+| Trial 2 | Atralin Gel N=299 | Vehicle N=302 |
 | Global Severity Score SuccessSuccess was defined as 0 (clear) or 1 (very mild) with at least 2 grades reduction from baseline | 69 (23%) | 42 (14%) |
 | Non-Inflammatory Facial Lesions |  |  |
 | Mean Baseline Count | 51.9 | 52.7 |

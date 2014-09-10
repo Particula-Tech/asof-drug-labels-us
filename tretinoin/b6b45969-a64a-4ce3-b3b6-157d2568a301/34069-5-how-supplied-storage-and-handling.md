@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Atralin (tretinoin) Gel, 0.05% is available as:
+Atralin (tretinoin) Gel, 0.05% is a translucent to opaque, pale yellow topical gel and available as:
 
 - 45 g tubes (NDC 13548-070-45)
 
