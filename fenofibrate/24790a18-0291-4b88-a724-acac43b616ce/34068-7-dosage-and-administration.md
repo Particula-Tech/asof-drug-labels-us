@@ -1,9 +1,12 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 General Consideration
 
 Patients should be placed on an appropriate lipid-lowering diet before receiving Antara, and should continue this diet during treatment with Antara.
 Antara tablets can be given without regard to meals.
+
+Patients should be advised to swallow Antara capsules whole.
+Do not open, crush, dissolve or chew capsules.
 
 The initial treatment for dyslipidemia is dietary therapy specific for the type of lipoprotein abnormality.
 Excess body weight and excess alcoholic intake may be important factors in hypertriglyceridemia and should be addressed prior to any drug therapy.
@@ -16,7 +19,7 @@ Lipid levels should be monitored periodically and consideration should be given 
 
 Therapy should be withdrawn in patients who do not have an adequate response after two months of treatment with the maximum recommended dose of 130 mg once daily.
 
-## 2.2 Hypercholesterolemia and Mixed Dyslipidemia
+## 2.2 Primary Hypercholesterolemia and Mixed Dyslipidemia
 
 The initial dose of Antara is 130 mg per day.
 
@@ -31,6 +34,6 @@ The maximum dose is 130 mg per day.
 Treatment with Antara should be initiated at a dose of 43 mg per day in patients having mild to moderately impaired renal function, and increased only after evaluation of the effects on renal function and lipid levels at this dose.
 The use of Antara should be avoided in patients with severe renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-## 2.5 Elderly Patients
+## 2.5 Geriatric Patients
 
 Dose selection for the elderly should be made on the basis of renal function [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)]

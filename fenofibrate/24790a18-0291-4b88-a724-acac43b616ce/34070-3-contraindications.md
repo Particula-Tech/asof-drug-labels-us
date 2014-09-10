@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Antara is contraindicated in:
 
@@ -6,4 +6,4 @@ Antara is contraindicated in:
 - patients with active liver disease, including those with primary biliary cirrhosis and unexplained persistent liver function abnormalities [see Warnings and Precautions (5.3)].
 - patients with preexisting gallbladder disease [see Warnings and Precautions (5.5)].
 - nursing mothers [see Use in Specific Populations (8.3)].
-- patients with hypersensitivity to fenofibric acid, choline fenofibrate or fenofibrate [see Warnings and Precautions (5.9)].
+- patients with known hypersensitivity to fenofibric acid or fenofibrate [see Warnings and Precautions (5.9)].

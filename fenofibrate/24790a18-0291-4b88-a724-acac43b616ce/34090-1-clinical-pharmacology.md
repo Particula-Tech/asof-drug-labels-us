@@ -1,14 +1,14 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
 The active moiety of Antara is fenofibric acid.
 The pharmacological effects of fenofibric acid in both animals and humans have been extensively studied through oral administration of fenofibrate.
 
-The effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of peroxisome proliferator activated receptor α (PPARα).
+The lipid-lowering effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of peroxisome proliferator activated receptor α (PPARα).
 
 Through this mechanism, fenofibrate increases lipolysis and elimination of triglyceride-rich particles from plasma by activating lipoprotein lipase and reducing production of apoprotein C-III (an inhibitor of lipoprotein lipase activity).
-The resulting fall in triglycerides produces an alteration in the size and composition of LDL from small, dense particles (which are thought to be atherogenic due to their susceptibility to oxidation), to large buoyant particles.
+The resulting decrease in triglycerides produces an alteration in the size and composition of LDL from small, dense particles (which are thought to be atherogenic due to their susceptibility to oxidation) to large buoyant particles.
 These larger particles have a greater affinity for cholesterol receptors and are catabolized rapidly.
 Activation of PPARα also induces an increase in the synthesis of apoproteins A-I, A-II and HDL-cholesterol.
 
@@ -52,10 +52,10 @@ A small amount of fenofibric acid is reduced at the carbonyl moiety to a benzhyd
 
 In vivo metabolism data indicate that neither fenofibrate nor fenofibric acid undergo oxidative metabolism (eg, cytochrome P450) to a significant extent.
 
-• Excretion: After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
+• Elimination: After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
 After administration of radiolabeled fenofibrate, approximately 60% of the dose appeared in the urine and 25% was excreted in the feces.
 
-Fenofibrate acid from Antara is eliminated with a half-life of 23 hours, allowing once daily administration in a clinical setting.
+Fenofibrate acid from Antara is eliminated with a half-life of 23 hours, allowing once daily dosing.
 
 • Geriatrics: In elderly volunteers 77 to 87 years of age, the oral clearance of fenofibric acid following a single oral dose of fenofibrate was 1.2 L/h, which compares to 1.1 L/h in young adults.
 This indicates that a similar dosage regimen can be used in the elderly with normal renal function, without increasing accumulation of the drug or metabolites [see Dosage and Administration (2.4) and Use in Special Populations (8.5)].
@@ -67,14 +67,14 @@ This indicates that a similar dosage regimen can be used in the elderly with nor
 • Race: The influence of race on the pharmacokinetics of fenofibrate has not been studied; however, fenofibrate is not metabolized by enzymes known for exhibiting inter-ethnic variability.
 
 • Renal Impairment: The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
-Patients with severe renal impairment (creatinine clearance [CrCl] ≤ 30 mL/min) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
-Patients with mild (CrCl 50-80 mL/min) to moderate (CrCl 30-50 mL/min) renal impairment had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
-Based on these findings, the use of Antara should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment.
+Patients with severe renal impairment (creatinine clearance [CrCl] ≤ 30 mL/min or estimated glomerular filtration rate [eGFR] < 30 mL/min/1.73m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
+Patients with mild to moderate (CrCl 30-80 mL/min or eGFR 30-59 mL/min/1.73m2) renal impairment had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
+Based on these findings, the use of Antara should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment [see Dosage and Administration (2.4).].
 
-• Hepatic Impairment: No pharmacokinetic studies have been conducted in patients having hepatic insufficiency.
+• Hepatic Impairment: No pharmacokinetic studies have been conducted in patients having hepatic impairment.
 
-• Drug-Drug Interactions: In vitro studies using human liver microsomes indicate that fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.
-It is a weak inhibitor of CYP2C8, CYP2C19 and CYP2A6, and mild-to-moderate inhibitors of CYP2C9 at therapeutic concentrations.
+• Drug-Drug Interactions: In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.
+They are weak inhibitor of CYP2C8, CYP2C19 and CYP2A6, and mild-to-moderate inhibitors of CYP2C9 at therapeutic concentrations.
 
 Table 2 describes the effects of co-administered drugs on fenofibric acid systemic exposure.
 Table 3 describes the effects of co-administered fenofibric acid on exposure to other drugs.

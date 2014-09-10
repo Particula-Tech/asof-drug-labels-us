@@ -1,6 +1,6 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect rates observed in clinical practice.
 
@@ -31,5 +31,5 @@ Table 1 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofi
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of fenofibrate: myalgia, rhabdomyolysis, increased creatine phosphokinase, pancreatitis, increased alanine aminotransaminase, increased aspartate aminotransaminase, renal failure, muscle spasms, acute renal failure, hepatitis, cirrhosis, nausea, abdominal pain, anemia, headache, arthralgia, and asthenia.
+The following adverse reactions have been identified during post approval use of fenofibrate: myalgia, rhabdomyolysis, pancreatitis, renal failure, muscle spasms, acute renal failure, hepatitis, cirrhosis, anemia, arthralgia, asthenia and severely depressed HDL-cholesterol levels.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.

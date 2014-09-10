@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Antara (fenofibrate) Capsules, is a lipid regulating agent available as capsules for oral administration.
 Each capsule contains 43 mg or 130 mg of micronized fenofibrate.

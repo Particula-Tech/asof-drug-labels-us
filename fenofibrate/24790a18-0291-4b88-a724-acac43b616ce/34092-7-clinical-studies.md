@@ -1,6 +1,6 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
-## 14.1 Hypercholesterolemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia
+## 14.1 Primary Hypercholesterolemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia
 
 The effects of fenofibrate at a dose equivalent to 130 mg Antara per day were assessed from four randomized, placebo-controlled, double-blind, parallel group studies including patients with the following mean baseline lipid values: total-C 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191.0 mg/dL.
 Fenofibrate therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.
@@ -71,3 +71,5 @@ Table 6 Antara Treatment in Patients with Hypertriglyceridemia
 | Non-HDL Cholesterol | 202 | -1.1 | 212 | -8.2p ≤0.05 vs placebo (log transformed data) | 205 | -6.6 |
 | LDL Cholesterol | 115 | +3.2 | 120 | +15.4 | 122 | +14.5 |
 | VLDL Cholesterol | 87 | -1.6 | 92 | -34.4 | 83 | -30.4 |
+
+The effect of ANTARA on cardiovascular morbidity and mortality has not been determined.

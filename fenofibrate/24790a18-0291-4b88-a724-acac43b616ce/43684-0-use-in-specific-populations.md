@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -25,18 +25,21 @@ A decision should be made whether to discontinue nursing or to discontinue the d
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-Fenofibric acid is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.Since elderly patients have a higher incidenjce of renal impairment, dose selection for the elderly should be made on the basis of renal function [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Fenofibric acid is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Fenofibric acid exposure is not influenced by age.
+Since elderly patients have a higher incidence of renal impairment, dose selection for the elderly should be made on the basis of renal function [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 Elderly patients with normal renal function should require no dose modifications.
-Consider monitoruing renal function in elderly patients taking Antara.
+Consider monitoring renal function in elderly patients taking Antara.
 
 ## 8.6 Renal Impairment
 
 Fenofibrate should be avoided in patients with severe renal impairment [see Contraindications (4)].
 Dose reduction is required in patients with mild to moderate renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Monitoring renal function in patients with renal impairment is recommended.
 
 ## 8.7 Hepatic Impairment
 
