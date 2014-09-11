@@ -1,7 +1,5 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Partial-Onset Seizures
+VIMPAT (lacosamide) is indicated in patients 17 years and older with partial-onset seizures as monotherapy or adjunctive therapy.
 
-VIMPAT (lacosamide) tablets and oral solution are indicated as adjunctive therapy in the treatment of partial-onset seizures in patients with epilepsy aged 17 years and older.
-
-VIMPAT (lacosamide) injection for intravenous use is indicated as adjunctive therapy in the treatment of partial-onset seizures in patients with epilepsy aged 17 years and older when oral administration is temporarily not feasible.
+VIMPAT (lacosamide) injection for intravenous use is an alternative when oral administration is temporarily not feasible.

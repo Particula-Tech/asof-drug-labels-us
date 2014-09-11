@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category C
+Pregnancy Category C
 
 Lacosamide produced developmental toxicity (increased embryofetal and perinatal mortality, growth deficit) in rats following administration during pregnancy.
 Developmental neurotoxicity was observed in rats following administration during a period of postnatal development corresponding to the third trimester of human pregnancy.
@@ -25,7 +25,7 @@ Oral administration of lacosamide (30, 90, or 180 mg/kg/day) to rats during the 
 The early postnatal period in rats is generally thought to correspond to late pregnancy in humans in terms of brain development.
 The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide AUC approximately 0.5 times that in humans at the MRHD.
 
-### Pregnancy Registry
+Pregnancy Registry
 
 Physicians are advised to recommend that pregnant patients taking VIMPAT enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
@@ -56,21 +56,19 @@ The no-effect dose for developmental neurotoxicity in rats was associated with a
 There were insufficient numbers of elderly patients enrolled in partial-onset seizure trials (n=18) to adequately assess the effectiveness of VIMPAT in this population.
 
 No VIMPAT dose adjustment based on age is necessary.
-In elderly patients, dose titration should be performed with caution.
-[See Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]
+In elderly patients, dose titration should be performed with caution [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Renal Impairment
 
 A maximum dose of 300 mg/day is recommended for patients with severe renal impairment (CLCR≤30 mL/min) and in patients with endstage renal disease.
 VIMPAT is effectively removed from plasma by hemodialysis.
 Dosage supplementation of up to 50% following hemodialysis should be considered.
-In all renally impaired patients, dose titration should be performed with caution.
-[See Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]
+In all renally impaired patients, dose titration should be performed with caution [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Hepatic Impairment
 
 Patients with mild to moderate hepatic impairment should be observed closely during dose titration.
 A maximum dose of 300 mg/day is recommended for patients with mild to moderate hepatic impairment.
 The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment.
-VIMPAT use is not recommended in patients with severe hepatic impairment.
-[See Dosage and Administration (2.3) and Clinical Pharmacology (12.3)] Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
+VIMPAT use is not recommended in patients with severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.

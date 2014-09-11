@@ -11,7 +11,7 @@ A pharmacokinetic-pharmacodynamic (efficacy) analysis was performed based on the
 Lacosamide exposure is correlated with the reduction in seizure frequency.
 However, doses above 400 mg/day do not appear to confer additional benefit in group analyses.
 
-### Cardiac Electrophysiology
+Cardiac Electrophysiology
 
 Electrocardiographic effects of VIMPAT were determined in a double-blind, randomized clinical pharmacology trial of 247 healthy subjects.
 Chronic oral doses of 400 and 800 mg/day were compared with placebo and a positive control (400 mg moxifloxacin).
@@ -31,7 +31,7 @@ Steady state plasma concentrations are achieved after 3 days of twice daily repe
 Pharmacokinetics of VIMPAT are dose proportional (100-800 mg) and time invariant, with low inter- and intra-subject variability.
 Compared to lacosamide the major metabolite, O-desmethyl metabolite, has a longer Tmax (0.5 to 12 hours) and elimination half-life (15-23 hours).
 
-### Absorption and Bioavailability
+Absorption and Bioavailability
 
 VIMPAT is completely absorbed after oral administration.
 The oral bioavailability of VIMPAT tablets is approximately 100%.
@@ -39,15 +39,19 @@ Food does not affect the rate and extent of absorption.
 
 After intravenous administration, Cmax is reached at the end of infusion.
 The 30- and 60-minute intravenous infusions are bioequivalent to the oral tablet.
+For the 15-minute intravenous infusion, bioequivalence was met for AUC(0-tz) but not for Cmax.
+The point estimate of Cmax was 20% higher than Cmax for oral tablet and the 90% CI for Cmax exceeded the upper boundary of the bioequivalence range.
 
 In a trial comparing the oral tablet with an oral solution containing 10 mg/mL lacosamide, bioequivalence between both formulations was shown.
 
-### Distribution
+A single loading dose of 200 mg approximates steady-state concentrations comparable to the 100 mg twice daily oral administration.
+
+Distribution
 
 The volume of distribution is approximately 0.6 L/kg and thus close to the volume of total body water.
 VIMPAT is less than 15% bound to plasma proteins.
 
-### Metabolism and Elimination
+Metabolism and Elimination
 
 VIMPAT is primarily eliminated from the systemic circulation by renal excretion and biotransformation.
 
@@ -61,7 +65,7 @@ The elimination half-life of the unchanged drug is approximately 13 hours and is
 
 There is no enantiomeric interconversion of lacosamide.
 
-### Special Populations
+Special Populations
 
 Renal impairment
 
@@ -73,8 +77,7 @@ A maximum dose of 300 mg/day is recommended for patients with severe renal impai
 VIMPAT is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, AUC of VIMPAT is reduced by approximately 50%.
 Therefore dosage supplementation of up to 50% following hemodialysis should be considered.
-In all renally impaired patients, the dose titration should be performed with caution.
-[See Dosage and Administration (2.3)]
+In all renally impaired patients, the dose titration should be performed with caution [see Dosage and Administration (2.3)].
 
 Hepatic impairment
 
@@ -86,8 +89,8 @@ A maximum dose of 300 mg/day is recommended for patients with mild or moderate h
 Patients with mild to moderate hepatic impairment should be observed closely during dose titration.
 A maximum dose of 300 mg/day is recommended for patients with mild to moderate hepatic impairment.
 The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment.
-VIMPAT use is not recommended in patients with severe hepatic impairment.
-[See Dosage and Administration (2.3)] Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
+VIMPAT use is not recommended in patients with severe hepatic impairment [see Dosage and Administration (2.4)].
+Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
 
 Geriatric
 
@@ -107,12 +110,12 @@ Race
 
 There are no clinically relevant differences in the pharmacokinetics of VIMPAT between Asian, Black, and Caucasian subjects.
 
-### CYP2C19 Polymorphism
+CYP2C19 Polymorphism
 
 There are no clinically relevant differences in the pharmacokinetics of VIMPAT between CYP2C19 poor metabolizers and extensive metabolizers.
 Results from a trial in poor metabolizers (PM) (N=4) and extensive metabolizers (EM) (N=8) of cytochrome P450 (CYP) 2C19 showed that lacosamide plasma concentrations were similar in PMs and EMs, but plasma concentrations and the amount excreted into urine of the O-desmethyl metabolite were about 70% reduced in PMs compared to EMs.
 
-### Drug interactions
+Drug interactions
 
 In Vitro Assessment of Drug Interactions
 
@@ -131,48 +134,17 @@ Since <15% of lacosamide is bound to plasma proteins, a clinically relevant inte
 
 In Vivo Assessment of Drug Interactions
 
-Drug interaction studies with AEDs
-
-Effect of VIMPAT on concomitant AEDs: VIMPAT 400 mg/day had no influence on the pharmacokinetics of 600 mg/day valproic acid and 400 mg/day carbamazepine in healthy subjects.
-
-The placebo-controlled clinical studies in patients with partial-onset seizures showed that steady-state plasma concentrations of levetiracetam, carbamazepine, carbamazepine epoxide, lamotrigine, topiramate, oxcarbazepine monohydroxy derivative (MHD), phenytoin, valproic acid, phenobarbital, gabapentin, clonazepam, and zonisamide were not affected by concomitant intake of VIMPAT at any dose.
-
-Effect of concomitant AEDs on VIMPAT: Drug-drug interaction studies in healthy subjects showed that 600 mg/day valproic acid had no influence on the pharmacokinetics of 400 mg/day VIMPAT.
-Likewise, 400 mg/day carbamazepine had no influence on the pharmacokinetics of VIMPAT in a healthy subject study.
-Population pharmacokinetics results in patients with partial-onset seizures showed small reductions (15% to 20% lower) in lacosamide plasma concentrations when VIMPAT was coadministered with carbamazepine, phenobarbital or phenytoin.
-
-Drug-drug interaction studies with other drugs
-
-Digoxin
-
-There was no effect of VIMPAT (400 mg/day) on the pharmacokinetics of digoxin (0.5 mg once daily) in a study in healthy subjects.
-
-Metformin
-
-There were no clinically relevant changes in metformin levels following coadministration of VIMPAT (400 mg/day).
-
-Metformin (500 mg three times a day) had no effect on the pharmacokinetics of VIMPAT (400 mg/day).
-
-Omeprazole
-
-Omeprazole is a CYP2C19 substrate and inhibitor.
-
-There was no effect of VIMPAT (600 mg/day) on the pharmacokinetics of omeprazole (40 mg single dose) in healthy subjects.
-The data indicated that lacosamide had little in vivo inhibitory or inducing effect on CYP2C19.
-
-Omeprazole at a dose of 40 mg once daily had no effect on the pharmacokinetics of VIMPAT (300 mg single dose).
-However, plasma levels of the O-desmethyl metabolite were reduced about 60% in the presence of omeprazole.
-
-Midazolam
-
-Midazolam is a 3A4 substrate.
-
-There was no effect of VIMPAT (200 mg single dose or repeat doses of 400 mg/day given as 200 mg BID) on the pharmacokinetics of midazolam (single dose, 7.5 mg), indicating no inhibitory or inducing effects on CYP3A4.
-
-Oral Contraceptives
-
-There was no influence of VIMPAT (400 mg/day) on the pharmacodynamics and pharmacokinetics of an oral contraceptive containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel in healthy subjects, except that a 20% increase in ethinylestradiol Cmax was observed.
-
-Warfarin
-
-Co-administration of VIMPAT (400 mg/day) with warfarin (25 mg single dose) did not result in a clinically relevant change in the pharmacokinetic and pharmacodynamic effects of warfarin in a study in healthy male subjects.
+- Drug interaction studies with AEDs
+  - Effect of VIMPAT on concomitant AEDsVIMPAT 400 mg/day had no influence on the pharmacokinetics of 600 mg/day valproic acid and 400 mg/day carbamazepine in healthy subjects.The placebo-controlled clinical studies in patients with partial-onset seizures showed that steady-state plasma concentrations of levetiracetam, carbamazepine, carbamazepine epoxide, lamotrigine, topiramate, oxcarbazepine monohydroxy derivative (MHD), phenytoin, valproic acid, phenobarbital, gabapentin, clonazepam, and zonisamide were not affected by concomitant intake of VIMPAT at any dose.
+  - Effect of concomitant AEDs on VIMPATDrug-drug interaction studies in healthy subjects showed that 600 mg/day valproic acid had no influence on the pharmacokinetics of 400 mg/day VIMPAT.
+    Likewise, 400 mg/day carbamazepine had no influence on the pharmacokinetics of VIMPAT in a healthy subject study.
+    Population pharmacokinetics results in patients with partial-onset seizures showed small reductions (15% to 20% lower) in lacosamide plasma concentrations when VIMPAT was coadministered with carbamazepine, phenobarbital or phenytoin.
+- Drug-drug interaction studies with other drugs
+  - DigoxinThere was no effect of VIMPAT (400 mg/day) on the pharmacokinetics of digoxin (0.5 mg once daily) in a study in healthy subjects.
+  - MetforminThere were no clinically relevant changes in metformin levels following coadministration of VIMPAT (400 mg/day).Metformin (500 mg three times a day) had no effect on the pharmacokinetics of VIMPAT (400 mg/day).
+  - OmeprazoleOmeprazole is a CYP2C19 substrate and inhibitor.There was no effect of VIMPAT (600 mg/day) on the pharmacokinetics of omeprazole (40 mg single dose) in healthy subjects.
+    The data indicated that lacosamide had little in vivo inhibitory or inducing effect on CYP2C19.Omeprazole at a dose of 40 mg once daily had no effect on the pharmacokinetics of VIMPAT (300 mg single dose).
+    However, plasma levels of the O-desmethyl metabolite were reduced about 60% in the presence of omeprazole.
+  - MidazolamMidazolam is a 3A4 substrate.There was no effect of VIMPAT (200 mg single dose or repeat doses of 400 mg/day given as 200 mg BID) on the pharmacokinetics of midazolam (single dose, 7.5 mg), indicating no inhibitory or inducing effects on CYP3A4.
+  - Oral ContraceptivesThere was no influence of VIMPAT (400 mg/day) on the pharmacodynamics and pharmacokinetics of an oral contraceptive containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel in healthy subjects, except that a 20% increase in ethinylestradiol Cmax was observed.
+  - WarfarinCo-administration of VIMPAT (400 mg/day) with warfarin (25 mg single dose) did not result in a clinically relevant change in the pharmacokinetic and pharmacodynamic effects of warfarin in a study in healthy male subjects.

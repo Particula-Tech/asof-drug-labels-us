@@ -38,29 +38,30 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.2 Dizziness and Ataxia
 
-Patients should be advised that VIMPAT may cause dizziness and ataxia.
-Accordingly, they should be advised not to drive a car or to operate other complex machinery until they are familiar with the effects of VIMPAT on their ability to perform such activities.
+VIMPAT may cause dizziness and ataxia.
 
 In patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of VIMPAT (compared with 8% of placebo patients) and was the adverse event most frequently leading to discontinuation (3%).
 Ataxia was experienced by 6% of patients randomized to the recommended doses (200 to 400 mg/day) of VIMPAT (compared to 2% of placebo patients).
 The onset of dizziness and ataxia was most commonly observed during titration.
-There was a substantial increase in these adverse events at doses higher than 400 mg/day.
-[See Adverse Reactions/Table 2 (6.1)]
+There was a substantial increase in these adverse events at doses higher than 400 mg/day [see Adverse Reactions (6.1)].
 
 ## 5.3 Cardiac Rhythm and Conduction Abnormalities
 
-### PR interval prolongation
+PR interval prolongation
 
-Dose-dependent prolongations in PR interval with VIMPAT have been observed in clinical studies in patients and in healthy volunteers.
-[See Clinical Pharmacology (12.2)] In clinical trials in patients with partial-onset epilepsy, asymptomatic first-degree atrioventricular (AV) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive VIMPAT and 0% (0/364) of patients randomized to receive placebo.
+Dose-dependent prolongations in PR interval with VIMPAT have been observed in clinical studies in patients and in healthy volunteers [see Clinical Pharmacology (12.2)].
+In adjunctive clinical trials in patients with partial-onset epilepsy, asymptomatic first-degree atrioventricular (AV) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive VIMPAT and 0% (0/364) of patients randomized to receive placebo.
 In clinical trials in patients with diabetic neuropathy, asymptomatic first-degree AV block was observed as an adverse reaction in 0.5% (5/1023) of patients receiving VIMPAT and 0% (0/291) of patients receiving placebo.
 Second degree and complete AV block have been reported in patients in pain studies and in patients with seizures.
 When VIMPAT is given with other drugs that prolong the PR interval, further PR prolongation is possible.
 
-VIMPAT should be used with caution in patients with known conduction problems (e.g. marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker, sodium channelopathies (e.g., Brugada Syndrome), on concomitant medications that prolong PR interval, or with severe cardiac disease such as myocardial ischemia or heart failure, or structural heart disease.
-In such patients, obtaining an ECG before beginning VIMPAT, and after VIMPAT is titrated to steady-state, is recommended.
+VIMPAT should be used with caution in patients with known conduction problems (e.g., marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), sodium channelopathies (e.g., Brugada Syndrome), on concomitant medications that prolong PR interval, or with severe cardiac disease such as myocardial ischemia or heart failure, or structural heart disease.
+In such patients, obtaining an ECG before beginning VIMPAT, and after VIMPAT is titrated to steady-state maintenance dose, is recommended.
+In addition, these patients should be closely monitored if they are administered VIMPAT through the intravenous route.
+One case of profound bradycardia was observed in a patient during a 15-minute infusion of 150 mg VIMPAT.
+There were two postmarketing reports of third degree AV block in patients with significant cardiac history and also receiving metoprolol and amlodipine during infusion of VIMPAT injection at doses higher than recommended [see Adverse Reactions (6.1) and Drug Interactions (7.3)].
 
-### Atrial fibrillation and Atrial flutter
+Atrial fibrillation and Atrial flutter
 
 In the short-term investigational trials of VIMPAT in epilepsy patients, there were no cases of atrial fibrillation or flutter.
 Both atrial fibrillation and atrial flutter have been reported in open label epilepsy trials and in postmarketing experience.
@@ -74,6 +75,8 @@ In the short-term controlled trials of VIMPAT in patients with diabetic neuropat
 Most of the cases of syncope were observed in patients receiving doses above 400 mg/day.
 The cause of syncope was not determined in most cases.
 However, several were associated with either changes in orthostatic blood pressure, atrial flutter/fibrillation (and associated tachycardia), or bradycardia.
+Cases of syncope have also been observed in open-label clinical epilepsy studies.
+These cases were associated with a history of risk factors for cardiac disease and the use of drugs that slow AV conduction.
 
 ## 5.5 Withdrawal of Antiepileptic Drugs (AEDs)
 
@@ -88,7 +91,7 @@ The subject fully recovered within a month, without specific treatment.
 The case is consistent with a delayed multiorgan hypersensitivity reaction.
 Additional potential cases included 2 with rash and elevated liver enzymes and 1 with myocarditis and hepatitis of uncertain etiology.
 
-Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, or DRESS) have been reported with other anticonvulsants and typically, although not exclusively, present with fever and rash associated with other organ system involvement, that may or may not include eosinophilia, hepatitis, nephritis, lymphadenopathy, and/or myocarditis.
+Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, or DRESS) have been reported with other antiepileptics and typically, although not exclusively, present with fever and rash associated with other organ system involvement, that may or may not include eosinophilia, hepatitis, nephritis, lymphadenopathy, and/or myocarditis.
 Because this disorder is variable in its expression, other organ system signs and symptoms not noted here may occur.
 If this reaction is suspected, VIMPAT should be discontinued and alternative treatment started.
 

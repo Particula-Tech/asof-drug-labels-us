@@ -43,7 +43,8 @@ It is supplied in PET bottles as follows:
 ## 16.1 Storage
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).
-[See USP Controlled Room Temperature].
+
+[See USP Controlled Room Temperature]
 
 Do not freeze VIMPAT injection or oral solution.
 Discard any unused VIMPAT oral solution remaining after seven (7) weeks of first opening the bottle.

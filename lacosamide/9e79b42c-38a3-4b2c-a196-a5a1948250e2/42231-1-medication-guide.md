@@ -56,7 +56,9 @@ VIMPAT can cause serious side effects, including:
 
 What is VIMPAT?
 
-VIMPAT is a prescription medicine used with other medicines to treat partial-onset seizures in people 17 years of age and older.
+VIMPAT is a prescription medicine that can be used alone or with other medicines to treat partial-onset seizures in people 17 years of age and older.
+
+It is not known if VIMPAT is safe and effective in children under 17 years of age.
 
 What should I tell my healthcare provider before taking VIMPAT?
 
@@ -79,7 +81,7 @@ Before you take VIMPAT, tell your healthcare provider, if you:
   It is not known if VIMPAT passes into your breast milk or if it can harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take VIMPAT.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Taking VIMPAT with certain other medicines may cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
@@ -119,9 +121,9 @@ Call your healthcare provider right away if you have:
 
 The most common side effects of VIMPAT include:
 
-- dizziness
-- headache
 - double vision
+- headache
+- dizziness
 - nausea
 
 These are not all of the possible side effects of VIMPAT.
@@ -132,11 +134,13 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store VIMPAT?
 
-- Store VIMPAT between 59°F to 86°F (15°C to 30°C)
+- Store VIMPAT between 68°F to 77°F (20°C to 25°C)
+- Do not freeze VIMPAT injection or oral solution.
+- Throw away any VIMPAT oral solution 7 weeks after you first open the bottle that has not been used.
 
 Keep VIMPAT and all medicines out of the reach of children
 
-General Information about VIMPAT
+General Information about the safe and effective use of VIMPAT.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use VIMPAT for a condition for which it was not prescribed.
@@ -162,7 +166,7 @@ What are the ingredients in VIMPAT?
 
 Manufactured for UCB, Inc. Smyrna, GA 30080
 
-Issued 08/2014
+Revised 08/2014
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
