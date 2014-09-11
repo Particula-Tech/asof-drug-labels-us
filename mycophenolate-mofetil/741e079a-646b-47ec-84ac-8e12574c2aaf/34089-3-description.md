@@ -15,6 +15,7 @@ Mycophenolate mofetil is available for oral administration as capsules containin
 
 Inactive ingredients in mycophenolate mofetil 250 mg capsules include croscarmellose sodium, magnesium stearate, povidone (K-90), microcrystalline cellulose, hydroxy propyl cellulose and talc.
 
-The capsule shells contain TekPrintTM SW-9008 black ink, FD&C blue #2, gelatin, red iron oxide,sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
+The capsule shells contain FD&C blue #2, gelatin, red iron oxide,sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
+The imprinting ink contains shellac, iron oxide black and potassium hydroxide.
 
 Inactive ingredients in mycophenolate mofetil tablets 500 mg include iron oxide black, croscarmellose sodium, FD&C blue #2 aluminum lake, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, povidone (K-90), iron oxide red, talc, and titanium dioxide

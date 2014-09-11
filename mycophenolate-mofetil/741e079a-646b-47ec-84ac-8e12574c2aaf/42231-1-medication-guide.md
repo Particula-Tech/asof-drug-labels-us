@@ -1,4 +1,4 @@
-# MEDICATION GUIDE Mycophenolate Mofetil Capsules USP 250 mg Mycophenolate Mofetil Tablets USP 500 mg
+# MEDICATION GUIDE Mycophenolate Mofetil Capsules USP 250 mg Mycophenolate Mofetil Tablets USP 500 mg (MYE koe FEN oh late MOE fe til)
 
 Read the Medication Guide that comes with mycophenolate mofetil capsules and tablets before you start taking it and each time you refill your prescription.
 There may be new information.
@@ -34,12 +34,10 @@ In certain situations, you and your doctor may decide that taking mycophenolate 
 
 The purpose of this registry is to gather information about the health of you and your baby.
 
-- Increased risk of getting serious infections.
-  Mycophenolate mofetil weakens the body's immune system and affects your ability to fight infections.
+- Increased risk of getting serious infections.Mycophenolate mofetil weakens the body's immune system and affects your ability to fight infections.
   Serious infections can happen with mycophenolate mofetil and can lead to death.
   These serious infections can include:
-  - Viral infections.
-    Certain viruses can live in your body and cause active infections when your immune system is weak.
+  - Viral infections.Certain viruses can live in your body and cause active infections when your immune system is weak.
     Viral infections that can happen with mycophenolate mofetil include:
     - Shingles, other herpes infections, and cytomegalovirus (CMV).
       CMV can cause serious tissue and blood infections.
@@ -48,8 +46,7 @@ The purpose of this registry is to gather information about the health of you an
     - Hepatitis B and C viruses.
       Hepatitis viruses can affect how your liver works.
       Talk to your doctor about how hepatitis viruses may affect you.
-  - A brain infection called Progressive Multifocal Leukoencephalopathy (PML).
-    In some patients, mycophenolate mofetil may cause an infection of the brain that may cause death.
+  - A brain infection called Progressive Multifocal Leukoencephalopathy (PML).In some patients, mycophenolate mofetil may cause an infection of the brain that may cause death.
     You are at risk for this brain infection because you have a weakened immune system.
     You should tell your doctor right away if you have any of the following symptoms:
     - Weakness on one side of the body
@@ -70,8 +67,7 @@ Call your doctor right away if you have any of the following signs and symptoms 
 - Unexpected bruising or bleeding
 - Cuts, scrapes or incisions that are red, warm and oozing pus
 
-- Increased risk of getting certain cancers.
-  People who take mycophenolate mofetil have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
+- Increased risk of getting certain cancers.People who take mycophenolate mofetil have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
   Tell your doctor if you have:
   - unexplained fever, prolonged tiredness, weight loss or lymph node swelling
   - a brown or black skin lesion with uneven borders, or one part of the lesion does not look like the other
@@ -168,8 +164,7 @@ What are the possible side effects of mycophenolate mofetil?
 Mycophenolate mofetil can cause serious side effects:
 
 - See "What is the most important information I should know about mycophenolate mofetil capsules and tablets?"
-- Low blood cell counts.
-  People taking high doses of mycophenolate mofetil each day may have a decrease in blood counts, including
+- Low blood cell counts.People taking high doses of mycophenolate mofetil each day may have a decrease in blood counts, including
   - white blood cells, especially neutrophils.
     Neutrophils fight against bacterial infections.
     You have a higher chance of getting an infection when your white blood cell count is low.
@@ -237,7 +232,8 @@ Active Ingredient: mycophenolate mofetil
 Inactive Ingredients:
 
 Mycophenolate mofetil capsules 250 mg: croscarmellose sodium, magnesium stearate, povidone (K-90), microcrystalline cellulose, hydroxypropyl cellulose and talc.
-The capsule shells contain TekPrintTM SW-9008 black ink, FD&C blue #2, gelatin, red iron oxide, sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
+The capsule shells contain FD&C blue #2, gelatin, red iron oxide, sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
+The imprinting ink contains shellac, iron oxide black and potassium hydroxide.
 
 Mycophenolate mofetil tablets 500 mg: iron oxide black, croscarmellose sodium, FD&C blue #2 aluminum lake, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, povidone (K-90), iron oxide red, talc, and titanium dioxide.
 
@@ -249,4 +245,4 @@ Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham
 Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
 INDIA.
 
-10 4847 5 647836 Issued August 2013
+10 4847 6 654763 Issued June 2014
