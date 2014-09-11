@@ -30,7 +30,7 @@ Patients receiving warfarin therapy should be carefully monitored when escitalop
 
 ## 7.7 Cimetidine
 
-In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
+In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of 400 mg twice a day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
 The clinical significance of these findings is unknown.
 
 ## 7.8 Digoxin

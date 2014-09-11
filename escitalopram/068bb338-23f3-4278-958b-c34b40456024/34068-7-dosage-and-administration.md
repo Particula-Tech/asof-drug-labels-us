@@ -60,7 +60,7 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with escitalopram tablets, USP.
 Conversely, at least 14 days should be allowed after stopping escitalopram tablets, USP before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.1)].
 
-## 2.6 Use of Escitalopram Tablet with Other MAOIs such as Linezolid or Methylene Blue
+## 2.6 Use of Escitalopram Tablet, USP with Other MAOIs such as Linezolid or Methylene Blue
 
 Do not start escitalopram tablets, USP in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.1)].

@@ -6,7 +6,7 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 
 Clinical Trial Data Sources
 
-Pediatrics (6 -17 years)
+Pediatrics (6-17 years)
 
 Adverse events were collected in 576 pediatric patients (286 escitalopram oxalate, 290 placebo) with major depressive disorder in double-blind placebo-controlled studies.
 Safety and effectiveness of escitalopram oxalate in pediatric patients less than 12 years of age has not been established.
@@ -28,7 +28,7 @@ Adverse Events Associated with Discontinuation of Treatment
 
 Major Depressive Disorder
 
-Pediatrics (6 -17 years)
+Pediatrics (6-17 years)
 
 Adverse events were associated with discontinuation of 3.5% of 286 patients receiving escitalopram oxalate and 1% of 290 patients receiving placebo.
 The most common adverse event (incidence at least 1% for escitalopram oxalate and greater than placebo) associated with discontinuation was insomnia (1% escitalopram oxalate, 0% placebo).
@@ -51,7 +51,7 @@ Incidence of Adverse Reactions in Placebo-Controlled Clinical Trials
 
 Major Depressive Disorder
 
-Pediatrics (6 -17 years)
+Pediatrics (6-17 years)
 
 The overall profile of adverse reactions in pediatric patients was generally similar to that seen in adult studies, as shown in Table 2.
 However, the following adverse reactions (excluding those which appear in Table 2 and those for which the coded terms were uninformative or misleading) were reported at an incidence of at least 2% for escitalopram oxalate and greater than placebo: back pain, urinary tract infection, vomiting, and nasal congestion.
@@ -198,7 +198,7 @@ Ear and labyrinth disorders: vertigo
 
 Endocrine Disorders: diabetes mellitus, hyperprolactinemia, SIADH.
 
-Eye Disorders: diplopia, glaucoma, mydriasis, visual disturbance.
+Eye Disorders: angle closure glaucoma, diplopia, mydriasis, visual disturbance.
 
 Gastrointestinal Disorder: dysphagia, gastrointestinal hemorrhage, gastroesophageal reflux, pancreatitis, rectal hemorrhage.
 

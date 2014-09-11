@@ -78,7 +78,7 @@ Nevertheless, greater sensitivity of some elderly individuals to effects of esci
 
 SSRIs and SNRIs, including escitalopram oxalate, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Hyponatremia (5.6)].
 
-In two pharmacokinetic studies, escitalopram half-life was increased by approximately 50% in elderly subjects as compared to young subjects and Cmaxwas unchanged [see Clinical Pharmacology (12.3)].
+In two pharmacokinetic studies, escitalopram half-life was increased by approximately 50% in elderly subjects as compared to young subjects and Cmax was unchanged [see Clinical Pharmacology (12.3)].
 10 mg/day is the recommended dose for elderly patients [see Dosage and Administration (2.3)].
 
 Of 4422 patients in clinical studies of racemic citalopram, 1357 were 60 and over, 1034 were 65 and over, and 457 were 75 and over.

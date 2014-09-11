@@ -25,11 +25,18 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram oxalate with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol tryptophan, buspirone and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram oxalate with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
 
 Abnormal Bleeding
 
 Patients should be cautioned about the concomitant use of escitalopram oxalate and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.7)].
+
+Angle Closure Glaucoma
+
+Patients should be advised that taking escitalopram tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.9)].
 
 Concomitant Medications
 
@@ -60,16 +67,27 @@ Need for Comprehensive Treatment Program
 
 Escitalopram tablets are indicated as an integral part of a total treatment program for MDD that may include other measures (psychological, educational, social) for patients with this syndrome.
 Drug treatment may not be indicated for all adolescents with this syndrome.
-Safety and effectiveness of escitalopram oxalate in MDD has not been established in pediatrics patients less than 12 years of age.
+Safety and effectiveness of escitalopram oxalate in MDD has not been established in pediatric patients less than 12 years of age.
 Antidepressants are not intended for use in the adolescent who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms.
+
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
+Mehsana, INDIA.
+
+For:
+
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
+
+8050635 Revised August 2014
 
 ## 17.2 FDA-Approved Medication Guide
 
 Medication Guide
 
-Escitalopram Tablets, USP
+Escitalopram (EE sye TAL o pram) Tablets, USP
 
 Read the Medication Guide that comes with escitalopram tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -83,7 +101,7 @@ Escitalopram tablets and other antidepressant medicines may cause serious side e
 1.
 Suicidal thoughts or actions:
 
-- Escitalopramtablets and other antidepressant medicinesmay increase suicidal thoughts or actions in some children, teenagers, or young adults within the first fewmonths of treatment or when the doseis changed.
+- Escitalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - Watch for these changes and call your healthcare provider right away if you notice:
 - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
@@ -154,6 +172,16 @@ Symptoms may include:
 - headache
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
+
+9.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 Do not stop escitalopram tablets without first talking to your healthcare provider.
 Stopping escitalopram tablets too quickly may cause serious symptoms including:
@@ -314,6 +342,8 @@ Inactive ingredients:
 - Tablets: cellulose microcrystalline, colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, povidone and talc.
   The film coating contains hypromellose, polyethylene glycol 400 and titanium dioxide.
 
+Trademarks are the property of their respective owners.
+
 Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
@@ -321,8 +351,8 @@ Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8039180 Revised January 2013
+8050636 Revised August 2014
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
