@@ -1,13 +1,17 @@
 {
   "application_numbers": [
-    "ANDA203853"
+    "ANDA203853",
+    "ANDA204674"
   ],
   "inn": "acetylcysteine",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
     "63323-690-30",
+    "63323-691-30",
     "63323-692-10",
-    "63323-694-04"
+    "63323-693-10",
+    "63323-694-04",
+    "63323-695-04"
   ],
   "products": [
     {

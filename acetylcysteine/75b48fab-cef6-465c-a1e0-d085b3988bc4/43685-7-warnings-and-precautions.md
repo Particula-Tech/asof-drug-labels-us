@@ -19,7 +19,7 @@ Under certain conditions, a color change may occur in acetylcysteine in the open
 The light purple color is the result of a chemical reaction which does not significantly affect the safety or mucolytic effectiveness of acetylcysteine.
 Continued nebulization of acetylcysteine solution with a dry gas will result in an increased concentration of the drug in the nebulizer because of evaporation of the solvent.
 Extreme concentration may impede nebulization and efficient delivery of the drug.
-Dilution of the nebulizing solution with appropriate amounts of Sterile Water for Injection, USP, as concentration occurs, will obviate thisproblem.
+Dilution of the nebulizing solution with appropriate amounts of Sterile Water for Injection, USP, as concentration occurs, will obviate this problem.
 
 ## Drug Interactions
 
@@ -47,7 +47,7 @@ Reproductive toxicity studies of acetylcysteine in the rat given oral doses of a
 
 Pregnancy
 
-Teratogenic Effects: Pregnancy Category B:
+Teratogenic Effects: Pregnancy Category B
 
 In a teratology study of acetylcysteine in the rabbit, oral doses of 500 mg/kg/day (2.6 times the human mucolytic dose) were administered to pregnant does by intubation on days 6 through 16 of gestation.
 Acetylcysteine was found to be nonteratogenic under the conditions of the study.

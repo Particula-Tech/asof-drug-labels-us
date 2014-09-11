@@ -2,10 +2,7 @@ Sterile, Not For Injection
 
 PRESERVATIVE FREE
 
-Manufactured For: Fresenius Kabi USA, LLC Lake Zurich, IL 60047
+Manufactured For: Fresenius Kabi USA, LLC Lake Zurich, IL 60047 451291A
 
-451329
-
-Issued: August 2013
-
-Made in India
+Rev.
+February 2014

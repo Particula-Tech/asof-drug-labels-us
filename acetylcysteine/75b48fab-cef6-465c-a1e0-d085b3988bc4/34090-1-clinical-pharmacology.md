@@ -10,7 +10,7 @@ Significant mucolysis occurs between pH 7 and 9.
 Acetylcysteine undergoes rapid deacetylation in vivo to yield cysteine or oxidation to yield diacetylcystine.
 
 Occasionally, patients exposed to the inhalation of an acetylcysteine aerosol respond with the development of increased airways obstruction of varying and unpredictable severity.
-Those patients who are reactors cannot be identified a a priori from a random patient population.
+Those patients who are reactors cannot be identified a priori from a random patient population.
 Even when patients are known to have reacted previously to the inhalation of an acetylcysteine aerosol, they may not react during a subsequent treatment.
 The converse is also true; patients who have had inhalation treatments of acetylcysteine without incident may still react to subsequent inhalation with increased airways obstruction.
 Most patients with bronchospasm are quickly relieved by the use of a bronchodilator given by nebulization.
