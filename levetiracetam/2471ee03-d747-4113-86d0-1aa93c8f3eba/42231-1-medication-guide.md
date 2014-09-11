@@ -152,4 +152,4 @@ Information on the use of levetiracetam in pediatric patients less than 4 years 
 However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 04/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 09/2014
