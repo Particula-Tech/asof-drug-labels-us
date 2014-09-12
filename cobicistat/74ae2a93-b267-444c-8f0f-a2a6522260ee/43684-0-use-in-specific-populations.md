@@ -51,7 +51,16 @@ In general, caution should be exercised in the administration of STRIBILD in eld
 ## 8.6 Renal Impairment
 
 Initiation of STRIBILD in patients with estimated creatinine clearance below 70 mL per min is not recommended.
-Because STRIBILD is a fixed-dose combination tablet, STRIBILD should be discontinued if estimated creatinine clearance declines below 50 mL per min during treatment with STRIBILD as dose interval adjustment required for emtricitabine and tenofovir DF cannot be achieved [see Warnings and Precautions (5.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+Because STRIBILD is a fixed-dose combination tablet, STRIBILD should be discontinued if estimated creatinine clearance declines below 50 mL per minute during treatment with STRIBILD as dose interval adjustment required for emtricitabine and tenofovir DF cannot be achieved [see Warnings and Precautions (5.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+
+Clinical Trials in Subjects with Mild to Moderate Renal Impairment
+
+In Study 118, 33 HIV-1 infected treatment naïve subjects with mild to moderate renal impairment (eGFR by Cockcroft-Gault method between 50 and 89 mL/minute) were studied in an open-label clinical trial evaluating the safety of 48 weeks of treatment with STRIBILD.
+After 48 weeks of treatment, the mean change in serum creatinine was 0.17 ± 0.14 mg/dL and the mean change in eGFR by Cockcroft-Gault method was -6.9 ± 9.0 mL/minute for subjects treated with STRIBILD.
+
+Twelve of the 33 subjects studied had baseline eGFR between 50 and 70 mL/minute.
+Three subjects, all with baseline eGFR between 50–60 mL/minute, discontinued STRIBLD due to a renal adverse event.
+The safety of STRIBILD among 21 of the 33 subjects with baseline eGFR greater than or equal to 70 mL/minute was consistent with the safety profile in Studies 102 and 103.
 
 ## 8.7 Hepatic Impairment
 

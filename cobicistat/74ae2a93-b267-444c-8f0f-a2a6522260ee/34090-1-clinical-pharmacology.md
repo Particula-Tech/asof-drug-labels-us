@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-STRIBILD is a fixed-dose combination of antiviral drugs elvitegravir (boosted by the CYP3A inhibitor cobicistat), emtricitabine, and tenofovir DF [see Microbiology (12.4)].
+STRIBILD is a fixed-dose combination of antiretroviral drugs elvitegravir (boosted by the CYP3A inhibitor cobicistat), emtricitabine, and tenofovir DF [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -53,8 +53,9 @@ Because the 150 mg cobicistat dose used in the STRIBILD fixed-dose combination t
 Special Populations
 
 - Patients with Renal Impairment
-- Elvitegravir and cobicistat: A study of the pharmacokinetics of cobicistat-boosted elvitegravir was performed in healthy subjects and subjects with severe renal impairment (estimated creatinine clearance less than 30 mL per min). No clinically relevant differences in elvitegravir or cobicistat pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
-- Emtricitabine and Tenofovir Disoproxil Fumarate: The pharmacokinetics of emtricitabine and tenofovir are altered in subjects with estimated creatinine clearance below 50 mL per min or with end stage renal disease requiring dialysis [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+- Elvitegravir and cobicistat: A study of the pharmacokinetics of cobicistat-boosted elvitegravir was performed in healthy subjects and subjects with severe renal impairment (estimated creatinine clearance less than 30 mL per minute).
+  No clinically relevant differences in elvitegravir or cobicistat pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
+- Emtricitabine and Tenofovir Disoproxil Fumarate: The pharmacokinetics of emtricitabine and tenofovir are altered in subjects with estimated creatinine clearance below 50 mL per minute or with end stage renal disease requiring dialysis [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
 - Patients with Hepatic Impairment
 - Elvitegravir and cobicistat: A study of the pharmacokinetics of cobicistat-boosted elvitegravir was performed in healthy subjects and subjects with moderate hepatic impairment.
   No clinically relevant differences in elvitegravir or cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
@@ -110,6 +111,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravi
 | 20 once daily given 12 hours after elvitegravir | 11 | 1.03 (0.92,1.15) | 1.05 (0.93,1.18) | 1.10 (0.92,1.32) |  |  |  |
 | Rifabutin | 150 once every other day | 150 once daily | Cobicistat 150 once daily | 12 | 0.91 (0.84,0.99) | 0.79 (0.74,0.85) | 0.33 (0.27,0.40) |
 | Rosuvastatin | 10 single dose | 150 once daily | Cobicistat 150 once daily | 10 | 0.94 (0.83,1.07) | 1.02 (0.91,1.14) | 0.98 (0.83,1.16) |
+| Telaprevir | 750 three times daily | 150 once daily | 150 once daily | 16 | 0.79 (0.74,0.85) | 0.84 (0.79,0.89) | 1.29 (1.14,1.46) |
 
 Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Elvitegravir plus Cobicistat, Cobicistat, or STRIBILDAll interaction studies conducted in healthy volunteers.
 
@@ -128,6 +130,7 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | Rifabutin | 150 once every other day | 150 once daily | 150 once daily | 12 | 1.09 (0.98,1.20)Comparison based on rifabutin 300 mg once daily. | 0.92 (0.83,1.03) | 0.94 (0.85,1.04) |
 | 25-O-desacetyl-rifabutin | 12 | 4.84 (4.09,5.74) | 6.25 (5.08,7.69) | 4.94 (4.04,6.04) |  |  |  |
 | Rosuvastatin | 10 single dose | 150 single dose | 150 single dose | 10 | 1.89 (1.48,2.42) | 1.38 (1.14,1.67) | NC |
+| Telaprevir | 750 three times daily | 150 once daily | 150 once daily | 15 | 1.06 (0.97, 1.16) | 1.13 (1.00, 1.29) | 1.15 (1.05, 1.25) |
 
 ## 12.4 Microbiology
 
@@ -169,11 +172,11 @@ Resistance
 - Emtricitabine and Tenofovir DF: HIV-1 isolates with reduced susceptibility to emtricitabine or tenofovir have been selected in cell culture.
   Reduced susceptibility to emtricitabine was associated with M184V/I substitutions in HIV-1 RT.
   HIV-1 isolates selected by tenofovir expressed a K65R substitution in HIV-1 RT and showed a 2–4 fold reduction in susceptibility to tenofovir.
-- In Clinical Studies: In Treatment-Naïve HIV-1-Infected Adult Subjects: In Studies 102 and 103 [see Clinical Studies (14)], the development of one or more primary substitutions associated with resistance to elvitegravir (T66A/I/K, E92G/Q, T97A, S147G, Q148H/K/R, and N155H), emtricitabine, and/or tenofovir was observed in 53% (16/30) of the STRIBILD-treatment failure subjects with evaluable genotypic resistance data who received at least 8 weeks of STRIBILD and had HIV-1 RNA greater than 400 copies per mL at Week 96 or at the time of early study drug discontinuation.
-  The most common substitutions that emerged were M184V/I (N=15) in HIV-1 RT and the primary elvitegravir resistance-associated substitutions, E92Q (N=9), N155H (N=5), Q148R (N=3), and T66I (N=2) in integrase; K65R in RT was also detected (N=5).
-  In virus isolates harboring the observed primary elvitegravir resistance substitutions, additional substitutions in integrase were detected including H51Y, L68I/V, G70R, I73V, G140C, S153A and E157Q.
-  All subjects with evaluable data for RT and IN and who developed integrase substitutions associated with elvitegravir resistance (N=13) also developed the M184I/V RT substitutions, conferring reduced susceptibility to both elvitegravir and emtricitabine.
-  In phenotypic analyses, HIV-1 isolates expressing M184V/I RT substitutions showed reduced susceptibility to emtricitabine (42- to greater than 152-fold); those expressing the primary elvitegravir resistance-associated integrase substitutions showed reduced susceptibility to elvitegravir (6- to greater than 198-fold); and those expressing the K65R RT substitution showed reduced susceptibility to tenofovir (0.8- to 1.6-fold), compared to wild-type reference HIV-1.
+- In Clinical Studies: In Treatment-Naïve HIV-1-Infected Adult Subjects: In Studies 102 and 103 [see Clinical Studies (14)], the development of one or more primary substitutions associated with resistance to elvitegravir (T66A/I/K, E92G/Q, T97A, S147G, Q148H/K/R, and N155H), emtricitabine, and/or tenofovir was observed in viruses from 51% (18/35) of the STRIBILD-treatment failure subjects with evaluable genotypic resistance data who received at least 8 weeks of STRIBILD and had HIV-1 RNA greater than or equal to 400 copies per mL at confirmed virologic failure, the end of each study year, or the time of early study drug discontinuation.
+  The most common substitutions that emerged were M184V/I (N=17) in HIV-1 RT and the primary elvitegravir resistance-associated substitutions, E92Q (N=9), N155H (N=5), Q148R (N=3), T66I (N=2) and T97A (N=1) in integrase; K65R in RT was also detected (N=5).
+  In virus isolates harboring the observed primary elvitegravir resistance substitutions, additional substitutions in integrase were detected including H51Y, L68I/V, G70R, I73V, G140C, S153A, E157Q, and G163R.
+  The virus in all subjects with evaluable data for RT and IN and whose virus developed integrase substitutions associated with elvitegravir resistance (N=14) also developed the M184I/V RT substitutions, and had reduced susceptibility to both elvitegravir and emtricitabine.
+  In phenotypic analyses, HIV-1 isolates expressing M184V/I RT substitutions showed reduced susceptibility to emtricitabine (42- to greater than 152-fold); those expressing the primary elvitegravir resistance-associated integrase substitutions showed reduced susceptibility to elvitegravir (4- to greater than 198-fold); and those expressing the K65R RT substitution showed reduced susceptibility to tenofovir (0.8- to 1.6-fold), compared to wild-type reference HIV-1.
 
 Cross Resistance
 
@@ -190,6 +193,7 @@ Cross Resistance
   The K65R substitution in HIV-1 RT selected by tenofovir is also selected in some HIV-1-infected patients treated with abacavir or didanosine.
   HIV-1 isolates with the K65R substitution also showed reduced susceptibility to emtricitabine and lamivudine.
   Therefore, cross-resistance among these NRTIs may occur in patients whose virus harbors the K65R substitution.
+  The K70E substitution selected clinically by tenofovir DF results in reduced susceptibility to abacavir, didanosine, emtricitabine, lamivudine, and tenofovir.
   HIV-1 isolates from patients (N=20) whose HIV-1 expressed a mean of 3 zidovudine-associated RT amino acid substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.
-  Subjects whose virus expressed an L74V RT substitution without zidovudine resistance-associated substitutions (N=8) had reduced response to VIREAD.
+  Subjects whose virus expressed an L74V RT substitution without zidovudine resistance-associated substitutions (N=8) had reduced response to tenofovir DF.
   Limited data are available for patients whose virus expressed a Y115F substitution (N=3), Q151M substitution (N=2), or T69 insertion (N=4) in HIV-1 RT, all of whom had a reduced response in clinical trials.

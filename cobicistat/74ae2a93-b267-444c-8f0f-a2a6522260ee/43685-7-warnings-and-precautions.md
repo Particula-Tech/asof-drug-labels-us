@@ -21,22 +21,24 @@ If appropriate, initiation of anti-hepatitis B therapy may be warranted.
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir DF, a component of STRIBILD, and with the use of STRIBILD [see Adverse Reactions (6.2)].
 
-In the clinical trials of STRIBILD over 96 weeks, 10 (1.4%) subjects in the STRIBILD group (N=701) and 2 (0.3%) subjects in the combined comparator groups (N = 707) discontinued study drug due to a renal adverse reaction.
-Of these discontinuations, 8 in the STRIBILD group and 1 in the combined comparator groups occurred during the first 48 week.
-Four (0.6%) of the subjects who received STRIBILD developed laboratory findings consistent with proximal renal tubular dysfunction leading to discontinuation of STRIBILD compared to none in the comparator groups.
-Two of these four subjects had renal impairment (i.e. estimated creatinine clearance less than 70 mL per minute) at baseline.
-The laboratory findings in these 4 subjects with evidence of proximal tubulopathy improved but did not completely resolve in all subjects upon discontinuation of STRIBILD.
+In the clinical trials of STRIBILD over 144 weeks, 13 (1.9%) subjects in the STRIBILD group (N=701), 8 (2.3%) subjects in the ATV + RTV + TRUVADA group (N=355) and no subjects in the ATRIPLA group (N = 352) discontinued study drug due to a renal adverse reaction.
+Of these discontinuations, 8 in the STRIBILD group and 1 in the ATV + RTV + TRUVADA group occurred during the first 48 weeks.
+Four (0.6%) subjects who received STRIBILD developed laboratory findings consistent with proximal renal tubular dysfunction leading to discontinuation of STRIBILD during the first 48 weeks of treatment.
+Two of the four subjects had renal impairment (i.e. estimated creatinine clearance less than 70 mL per minute) at baseline.
+The laboratory findings in these 4 subjects improved but did not completely resolve in all subjects upon discontinuation of STRIBILD.
 Renal replacement therapy was not required for these subjects.
+One (0.3%) subject who received ATV + RTV + TRUVADA developed laboratory findings consistent with proximal renal tubular dysfunction leading to discontinuation of ATV + RTV + TRUVADA after Week 96.
 
-Estimated creatinine clearance, urine glucose and urine protein should be documented in all patients prior to initiating therapy.
-Initiation of STRIBILD in patients with estimated creatinine clearance below 70 mL per minute is not recommended.
-
-STRIBILD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [see Drug Interactions (7.4)].
+STRIBILD should be avoided with concurrent or recent use of a nephrotoxic agent.
+(e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [see Drug Interactions (7.4)].
 Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir DF.
 Some patients required hospitalization and renal replacement therapy.
 Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
 
 Persistent or worsening bone pain, pain in extremities, fractures and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in at-risk patients.
+
+Estimated creatinine clearance, urine glucose and urine protein should be documented in all patients prior to initiating therapy.
+Initiation of STRIBILD in patients with estimated creatinine clearance below 70 mL per minute is not recommended.
 
 Routine monitoring of estimated creatinine clearance, urine glucose, and urine protein should be performed during STRIBILD therapy in all patients.
 Additionally, serum phosphorus should be measured in patients at risk for renal impairment.

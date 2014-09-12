@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 A statement to patients and healthcare providers is included on the product's bottle label: ALERT: Find out about medicines that should NOT be taken with STRIBILD.
 
