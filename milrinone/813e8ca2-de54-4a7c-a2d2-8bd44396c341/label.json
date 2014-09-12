@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA203280"
+  ],
+  "inn": "milrinone",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-0212-01",
+    "0409-0212-02",
+    "0409-0212-03",
+    "0409-0212-10",
+    "0409-0212-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "milrinone lactate",
+      "name": "MILRINONE LACTATE"
+    }
+  ],
+  "setid": "813e8ca2-de54-4a7c-a2d2-8bd44396c341",
+  "source": "dailymed"
+}
