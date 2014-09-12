@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-Clinical Trials on the Scalp
+Clinical Trials Conducted in Subjects 18 Years and Older with Scalp Psoriasis
 
-Two multicenter, randomized, double-blind trials were conducted in subjects with scalp psoriasis.
+Two multicenter, randomized, double-blind trials were conducted in adult subjects with scalp psoriasis.
 In Trial One, 1,407 subjects were randomized to 1 of 4 treatment groups: Taclonex® Topical Suspension, betamethasone dipropionate in the same vehicle, calcipotriene hydrate in the same vehicle, or the vehicle alone.
 Trial Two did not include a vehicle arm; 1,280 subjects were randomized to 1 of 3 treatment groups: Taclonex® Topical Suspension, betamethasone dipropionate in the same vehicle, or calcipotriene hydrate in the same vehicle.
 Both trials enrolled subjects with moderate to very severe scalp psoriasis.
@@ -24,11 +24,21 @@ Table 2
 | Trial TwoWeek 2 | (N = 512)47.1% | (N = 517)36.4% | (N = 251)12.7% | -- |
 | Week 8 | 67.2% | 59.6% | 41.0% | - |
 
-Clinical Trial on the Body
+Clinical Trial Conducted in Subjects 12 to 17 years with Scalp Psoriasis
 
-One multicenter, randomized, double-blind trial was conducted in subjects with psoriasis vulgaris on non-scalp areas, excluding face, axillae, and groin.
+Two prospective, uncontrolled trials (N=109) were conducted in subjects 12 to 17 years with scalp psoriasis.
+In trial one 78 subjects with at least moderate scalp psoriasis at baseline and at least 10% scalp involvement were evaluated for safety.
+Seventy four percent (74%) of subjects had disease of moderate severity at baseline.
+In trial two, 31 subjects with at least moderate scalp psoriasis at baseline and at least 20% scalp involvement were evaluated for safety (including 30 subjects evaluated for HPA axis suppression).
+Sixty eight percent (68%) of subjects had disease of moderate severity at baseline.
+Subjects were treated once daily for up to 8 weeks with Taclonex® Topical Suspension.
+Calcium metabolism was evaluated in all subjects (N=109).
+
+Psoriasis on the Body in Subjects 18 Years and Older
+
+One multicenter, randomized, double-blind trial was conducted in subjects with plaque psoriasis on non-scalp areas, excluding face, axillae, and groin.
 In this trial, 1152 subjects were randomizd to 1 of 4 treatment groups: Taclonex® Topical Suspension, betamethasone dipropionate in the same vehicle, calcipotriene hydrate in the same vehicle, or the vehicle alone.
-The trial enrolled subjects with mild to moderate psoriasis vulgaris.
+The trial enrolled subjects with mild to moderate plaque psoriasis.
 Seventy-eight percent of subjects had disease of moderate severity at baseline.
 Subjects were treated once daily for 8 weeks.
 

@@ -16,7 +16,7 @@ This information does not take the place of talking with your doctor about your 
 How to apply Taclonex® Topical Suspension to your body:
 
 Follow your doctor’s instructions of how much Taclonex® Topical Suspension to use and where to use it.
-Apply Taclonex® Topical Suspension directly to areas affected by psoriasis and gently rub in.
+Apply Taclonex® Topical Suspension directly to areas affected by plaque psoriasis and gently rub in.
 Wash your hands after applying Taclonex® Topical Suspension.
 
 How to apply Taclonex® Topical Suspension to your scalp:

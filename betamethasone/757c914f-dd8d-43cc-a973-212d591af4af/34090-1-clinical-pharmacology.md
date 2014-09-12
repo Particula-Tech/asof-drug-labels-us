@@ -3,20 +3,24 @@
 ## 12.1 Mechanism of Action
 
 Taclonex® Topical Suspension combines the pharmacological effects of calcipotriene hydrate as a synthetic vitamin D3 analog and betamethasone dipropionate as a synthetic corticosteroid.
-However, while their pharmacologic and clinical effects are known, the exact mechanisms of their actions in psoriasis vulgaris are unknown.
+However, while their pharmacologic and clinical effects are known, the exact mechanisms of their actions in plaque psoriasis are unknown.
 
 ## 12.2 Pharmacodynamics
 
 Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression:
 
-HPA axis suppression was evaluated in two trials (Trial A and B) following the application of Taclonex® Topical Suspension.
+HPA axis suppression was evaluated in three trials (Trial A, B and C) following the application of Taclonex® Topical Suspension.
 In Trial A, HPA axis suppression was evaluated in adult subjects (N=32) with extensive psoriasis involving at least 30% of the scalp and, in total, 15-30% of the body surface area.
 Treatment consisted of once daily application of Taclonex® Topical Suspension on the scalp in combination with Taclonex® Ointment on the body for 4 to 8 weeks.
 Adrenal suppression as indicated by a 30-minute post-stimulation cortisol level ≤18 mcg/dL was observed in 5 of 32 subjects (15.6%) after 4 weeks of treatment and in 2 of 11 subjects (18.2%) who continued treatment for 8 weeks.
 
 In Trial B, HPA axis suppression was evaluated in adult subjects (N=43) with extensive psoriasis involving 15-30% of the body surface area (including the scalp).
-Treatment consisted of once daily application of Taclonex® Topical Suspension to the body (including the scalp in 36 out of 43 subjects)for 4 to 8 weeks.
-Adrenal suppression as indicated by a 30-minute post-stimulation cortisol level ≤18 mcg/dL was observed in 3 out of 43 subjects (7%) after 4 weeks of treatment and in none of the 36 subjects who continued treatment for 8 weeks.
+Treatment consisted of once daily application of Taclonex® Topical Suspension to the body (including the scalp in 36 out of 43 subjects) for 4 to 8 weeks.
+Adrenal suppression as indicated by a 30-minute post-stimulation cortisol level ≤18 mcg/dL was observed in 3 out of 43 subjects (7.0%) after 4 weeks of treatment and in none of the 36 subjects who continued treatment for 8 weeks.
+
+In Trial C, HPA axis suppression was evaluated in subjects 12 to 17 years (N=30) with plaque psoriasis of the scalp involving at least 20% of the scalp area.
+Treatment consisted of once daily application of Taclonex® Topical Suspension to the affected area on the scalp for up to 8 weeks.
+Adrenal suppression as indicated by a 30-minute post-stimulation cortisol level ≤18 mcg/dL was observed in 1 of 30 evaluable subjects (3.3%) after 4 weeks of treatment and in no subjects who continued treatment for 8 weeks.
 
 Effects on Calcium Metabolism
 
@@ -26,6 +30,9 @@ Following once daily application of Taclonex® Topical Suspension on the scalp i
 In Trial B, the effects on calcium metabolism of once daily application of Taclonex® Topical Suspension to 15-30% of the body surface area (including the scalp) for 4 to 8 weeks were also examined.
 There was no change in mean serum or urinary calcium levels.
 Elevated urinary calcium levels outside the normal range were observed in two subjects (one at 4 weeks and one at 8 weeks).
+
+In addition, calcium metabolism was evaluated in a total of 109 subjects aged 12 to 17 years with plaque psoriasis of the scalp involving at least 10% of the scalp area undergoing once daily application of Taclonex® Topical Suspension to the scalp for up to 8 weeks.
+No cases of hypercalcemia and no clinically relevant changes in urinary calcium were reported.
 
 ## 12.3 Pharmacokinetics
 

@@ -15,40 +15,38 @@ In a rat study, a dosage of 54 mcg/kg/day (324 mcg/m2/day) resulted in a signifi
 The enlarged fontanelles were most likely due to the effect of calcipotriene upon calcium metabolism.
 The estimated maternal and fetal no-adverse effect levels (NOAEL) in the rat (108 mcg/m2/day) and rabbit (48 mcg/m2/day) derived from oral studies are lower than the maximum topical dose of calcipotriene in man (460 mcg/m2/day).
 
-Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
+Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Betamethasone dipropionate has been shown to be teratogenic in mice and rabbits when given by the subcutaneous route at doses of 156 mcg/kg (468 mcg/m2/day) and 2.5 mcg/kg (30 mcg/m2/day), respectively.
 Those dose levels are lower than the maximum topical dose in man (about 5,950 mcg/m2/day).
 The abnormalities observed included umbilical hernia, exencephaly and cleft palate.
 
-Pregnant women were excluded from the clinical studies conducted with Taclonex® Topical Suspension.
-
 ## 8.3 Nursing Mothers
 
-Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
+Systemically administered corticosteroids appear in human milk and can suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 It is not known whether topically administered calcipotriene or corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when Taclonex® Topical Suspension is administered to a nursing woman.
 The patient should be instructed not to use Taclonex® Topical Suspension on the breast when nursing.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of the use of Taclonex® Topical Suspension in pediatric patients have not been studied.
-Because of a higher ratio of skin surface area to body mass, children under the age of 12 years may be at particular risk of systemic adverse effects when they are treated with topical corticosteroids.
+Safety and effectiveness of the use of Taclonex® Topical Suspension in pediatric patients under the age of 12 years have not been established.
+
+The safety and effectiveness of Taclonex® Topical Suspension for the treatment of plaque psoriasis of the scalp have been established in the age group 12 to 17 years.
+Two prospective, uncontrolled trials (N=109) were conducted in pediatric subjects age 12 to 17 years with scalp psoriasis, including assessment of HPA axis suppression in 30 subjects.
+[See Warnings and Precautions (5.2), Adverse Reactions (6.1) and Clinical Pharmacology (12.2)].
+
+Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of systemic toxicity when treated with topical drugs.
+They are, therefore, also at greater risk of HPA axis suppression and adrenal insufficiency upon the use of topical corticosteroids.
 [See Warnings and Precautions (5.2)]
 
-HPA axis suppression, Cushing’s syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
-Manifestations of adrenal suppression in children include low plasma cortisol levels and absence of response to ACTH stimulation.
-Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
+Rare systemic toxicities such as Cushing’s syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in pediatric patients, especially those with prolonged exposure to large doses of high potency topical corticosteroids.
+
+Local adverse reactions including striae have also been reported with use of topical corticosteroids in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in the controlled clinical studies of Taclonex® Topical Suspension in psoriasis vulgaris on non-scalp areas, 124 were 65 years or older, while 36 were 75 years or older.
-Of the total number of subjects in the controlled clinical studies of Taclonex® Topical Suspension in scalp psoriasis, 334 were 65 years or older, while 84 were 75 years or older.
+Clinical studies of Taclonex® Topical Suspension in plaque psoriasis on non-scalp areas included 124 subjects who were 65 years of age or over, and 36 were 75 years of age or over.
+Clinical studies of Taclonex® Topical Suspension in scalp psoriasis included 334 subjects who were 65 years or over and 84 subjects who were 75 years or over.
 
-No overall differences in safety or effectiveness of Taclonex® Topical Suspension were observed between subjects in these age ranges versus younger subjects.
-All other reported clinical experience has not identified any differences in response between elderly and younger patients.
-
-## 8.6 Unevaluated Uses
-
-- Safety and efficacy in patients with known or suspected disorders of calcium metabolism have not been evaluated
-- Safety and efficacy in patients with known erythrodermic, exfoliative, or pustular psoriasis have not been evaluated
-- Safety and efficacy in patients with severe renal insufficiency or severe hepatic disorders have not been evaluated
+No overall differences in safety or effectiveness of Taclonex®Topical Suspension were observed between these subjects and younger subjects, and other reported clinical experience has not identified any differences in response between elderly and younger patients.
+However, greater sensitivity of some older individuals cannot be ruled out.

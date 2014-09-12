@@ -21,6 +21,5 @@ The product should be used within six months after it has been opened.
 
 ## 16.3 Handling
 
-Shake before use
-
+Shake before use.
 Keep out of reach of children
