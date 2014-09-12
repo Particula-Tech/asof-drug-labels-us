@@ -8,9 +8,9 @@ Pantoprazole sodium delayed-release tablets were used in the following clinical 
 
 A U.S. multicenter, double-blind, placebo-controlled study of pantoprazole 10 mg, 20 mg, or 40 mg once daily was conducted in 603 patients with reflux symptoms and endoscopically diagnosed EE of grade 2 or above (Hetzel-Dent scale).
 In this study, approximately 25% of enrolled patients had severe EE of grade 3, and 10% had grade 4.
-The percentages of patients healed (per protocol, n = 541) in this study are shown in Table 5.
+The percentages of patients healed (per protocol, n = 541) in this study are shown in Table 6.
 
-Table 5: Erosive Esophagitis Healing Rates (Per Protocol)
+Table 6: Erosive Esophagitis Healing Rates (Per Protocol)
 
 |  | Pantoprazole |  |  | Placebo |
 | --- | --- | --- | --- | --- |
@@ -26,9 +26,9 @@ A significantly greater proportion of patients taking pantoprazole 40 mg experie
 Patients taking pantoprazole consumed significantly fewer antacid tablets per day than those taking placebo.
 
 Pantoprazole 40 mg and 20 mg once daily were also compared with nizatidine 150 mg twice daily in a U.S. multicenter, double-blind study of 243 patients with reflux symptoms and endoscopically diagnosed EE of grade 2 or above.
-The percentages of patients healed (per protocol, n = 212) are shown in Table 6.
+The percentages of patients healed (per protocol, n = 212) are shown in Table 7.
 
-Table 6: Erosive Esophagitis Healing Rates (Per Protocol)
+Table 7: Erosive Esophagitis Healing Rates (Per Protocol)
 
 |  | Pantoprazole |  | Nizatidine |
 | --- | --- | --- | --- |
@@ -42,17 +42,21 @@ For the 40 mg treatment group, significantly greater healing rates compared to n
 A significantly greater proportion of the patients in the pantoprazole treatment groups experienced complete relief of nighttime heartburn and regurgitation, starting on the first day and of daytime heartburn on the second day, compared with those taking nizatidine 150 mg twice daily.
 Patients taking pantoprazole consumed significantly fewer antacid tablets per day than those taking nizatidine.
 
-Clinical study information in pediatric patients ages 5 years through 16 years with erosive esophagitis associated with GERD is approved for Wyeth Pharmaceuticals Inc.’s pantoprazole sodium delayed-release tablets.
-However, due to Wyeth Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+### Pediatric Patients Ages 5 Years Through 16 Years
+
+The efficacy of pantoprazole in the treatment of EE associated with GERD in pediatric patients ages 5 years through 16 years is extrapolated from adequate and well conducted trials in adults, as the pathophysiology is thought to be the same.
+Four pediatric patients with endoscopically diagnosed EE were studied in multicenter, randomized, double-blind, parallel-treatment trials.
+Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole (20 mg or 40 mg).
+All four patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 
 ## 14.2 Long-term Maintenance of Healing of Erosive Esophagitis
 
 Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in adult GERD patients with endoscopically confirmed healed erosive esophagitis to demonstrate efficacy of pantoprazole in long-term maintenance of healing.
 The two US studies enrolled 386 and 404 patients, respectively, to receive either 10 mg, 20 mg, or 40 mg of pantoprazole sodium delayed-release tablets once daily or 150 mg of ranitidine twice daily.
-As demonstrated in Table 7, pantoprazole 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
+As demonstrated in Table 8, pantoprazole 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
 In addition, pantoprazole 40 mg was superior to all other treatments studied.
 
-Table 7: Long-term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
+Table 8: Long-term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
 
 |  | Pantoprazole 20 mg daily | Pantoprazole 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
@@ -68,9 +72,9 @@ Table 7: Long-term Maintenance of Healing of Erosive Gastroesophageal Reflux Dis
 | Month 12 | 72 | 83 | 37 |
 
 Pantoprazole 40 mg was superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment.
-Pantoprazole 20 mg, administered once daily, was also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 8.
+Pantoprazole 20 mg, administered once daily, was also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 9.
 
-Table 8: Number of Episodes of Heartburn (Mean ± SD)
+Table 9: Number of Episodes of Heartburn (Mean ± SD)
 
 |  |  | Pantoprazole 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |

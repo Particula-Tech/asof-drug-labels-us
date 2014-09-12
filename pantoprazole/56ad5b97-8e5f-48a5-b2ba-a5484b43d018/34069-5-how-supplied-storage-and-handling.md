@@ -7,8 +7,6 @@ They are available as follows:
 
 NDC 0378-6688-77 bottles of 90 tablets
 
-NDC 0378-6688-10 bottles of 1000 tablets
-
 The 40 mg tablets are dark yellow film-coated, oval unscored tablets imprinted with M P9 in black ink on one side of the tablet and blank on the other side.
 They are available as follows:
 

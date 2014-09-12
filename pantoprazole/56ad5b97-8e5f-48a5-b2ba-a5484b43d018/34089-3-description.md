@@ -16,4 +16,6 @@ Pantoprazole sodium, USP is supplied as a delayed-release tablet, available in t
 
 Each pantoprazole sodium delayed-release tablet, USP contains 45.10 mg or 22.55 mg of pantoprazole sodium sesquihydrate (equivalent to 40 mg or 20 mg pantoprazole, respectively) with the following inactive ingredients: ammonium hydroxide, anhydrous sodium carbonate, black iron oxide, calcium stearate, crospovidone, hypromellose, mannitol, methacrylic acid copolymer, povidone, propylene glycol, shellac glaze, titanium dioxide, triethyl citrate and yellow iron oxide.
 
+Pantoprazole sodium, USP complies with Related Compounds Test 2.
+
 Pantoprazole sodium delayed-release tablets USP, 20 mg and 40 mg, meet USP Dissolution Test 3.

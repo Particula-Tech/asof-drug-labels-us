@@ -15,6 +15,7 @@ Pantoprazole sodium delayed-release tablets can cause serious side effects, incl
   Pantoprazole sodium delayed-release tablets may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
 - Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
+
 - •Bone fractures.
   People who take multiple daily doses of proton pump inhibitor medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist or spine.
   You should take pantoprazole sodium delayed-release tablets exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
@@ -37,12 +38,13 @@ Pantoprazole sodium delayed-release tablets are used in adults:
   It is not known if pantoprazole sodium delayed-release tablets are safe and effective if used longer than 12 months (one year).
 - GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
   This may cause a burning feeling in your chest or throat, sour taste, or burping.
+
 - •for the long-term treatment of conditions where your stomach makes too much acid.
   This includes a rare condition called Zollinger-Ellison syndrome.
 
-Information describing use in pediatric patients ages 5 years through 16 years old with erosive esophagitis associated with GERD is approved for Wyeth Pharmaceuticals Inc.’s pantoprazole sodium delayed-release tablets.
-However, due to Wyeth Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pantoprazole sodium delayed-release tablets are used in children 5 years of age and older for up to 8 weeks to heal acid-related damage to the lining of the esophagus (erosive esophagitis or EE) caused by GERD.
 
+It is not known if pantoprazole sodium delayed-release tablets are safe if used longer than 8 weeks in children.
 Pantoprazole sodium delayed-release tablets are not for children under 5 years of age.
 
 Who should not take pantoprazole sodium delayed-release tablets?
@@ -100,6 +102,8 @@ How should I take pantoprazole sodium delayed-release tablets?
 
 What are the possible side effects of pantoprazole sodium delayed-release tablets?
 
+Pantoprazole sodium delayed-release tablets may cause serious side effects, including:
+
 See “What is the most important information I should know about pantoprazole sodium delayed-release tablets?”
 
 - •Chronic (lasting a long time) inflammation of the lining of the stomach (Atrophic Gastritis).
@@ -116,18 +120,16 @@ See “What is the most important information I should know about pantoprazole s
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
 
-Tell your doctor right away if you have any of these symptoms:
-
-- 
-  - •seizures
-  - •dizziness
-  - •abnormal or fast heartbeat
-  - •jitteriness
-  - •jerking movements or shaking (tremors)
-  - •muscle weakness
-  - •spasms of the hands and feet
-  - •cramps or muscle aches
-  - •spasm of the voice box
+- Tell your doctor right away if you have any of these symptoms:
+  1. •seizures
+  2. •dizziness
+  3. •abnormal or fast heartbeat
+  4. •jitteriness
+  5. •jerking movements or shaking (tremors)
+  6. •muscle weakness
+  7. •spasms of the hands and feet
+  8. •cramps or muscle aches
+  9. •spasm of the voice box
 - Your doctor may check the level of magnesium in your body before you start taking pantoprazole sodium delayed-release tablets or during treatment, if you will be taking pantoprazole sodium delayed-release tablets for a long period of time.
 
 The most common side effects with pantoprazole sodium delayed-release tablets in adults include:
@@ -174,8 +176,8 @@ Keep pantoprazole sodium delayed-release tablets and all medicines out of the re
 General Information About Pantoprazole Sodium Delayed-release Tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use pantoprazole sodium delayed-release tablets for a condition for which it was not prescribed.
-Do not give pantoprazole sodium delayed-release tablets to other people, even if they have the same symptoms you have.
+Do not use pantoprazole for a condition for which it was not prescribed.
+Do not give pantoprazole to other people, even if they have the same symptoms you have.
 It may harm them.
 
 This Medication Guide summarizes the most important information about pantoprazole sodium delayed-release tablets.
@@ -199,7 +201,7 @@ Pantoprazole Sodium Delayed-release Tablets:
 - •If you have trouble swallowing a pantoprazole sodium delayed-release 40 mg tablet, you can take two 20 mg tablets instead.
 - •Do not split, chew, or crush pantoprazole sodium delayed-release tablets.
 
-This Medication Guide has been approved by the U.S. food and Drug Administration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 The brands listed are trademarks of their respective owners.
 
@@ -207,4 +209,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
 
-REVISED MARCH 2013 75051766 MX:PANTDR:R6mmt
+REVISED AUGUST 2014 75052373 MX:PANTDR:R7mmh

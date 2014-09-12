@@ -40,8 +40,30 @@ Skin and Appendages: urticaria, rash, pruritus
 
 Special Senses: blurred vision
 
-Adverse reaction information in pediatric patients with erosive esophagitis associated with GERD is approved for Wyeth Pharmaceuticals Inc.’s pantoprazole sodium delayed-release tablets.
-However, due to Wyeth Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+### Pediatric Patients
+
+Safety of pantoprazole in the treatment of Erosive Esophagitis (EE) associated with GERD was evaluated in pediatric patients ages one year through 16 years in three clinical trials.
+Safety trials involved pediatric patients with EE; however, as EE is uncommon in the pediatric population, 249 pediatric patients with endoscopically-proven or symptomatic GERD were also evaluated.
+All adult adverse reactions to pantoprazole are considered relevant to pediatric patients.
+In patients ages one year through 16 years, the most commonly reported (> 4%) adverse reactions include: URI, headache, fever, diarrhea, vomiting, rash, and abdominal pain.
+
+For safety information in patients less than one year of age see Use in Specific Populations (8.4).
+
+Additional adverse reactions that were reported for pantoprazole in pediatric patients in clinical trials with a frequency of ≤ 4% are listed below by body system:
+
+Body as a Whole: allergic reaction, facial edema
+
+Gastrointestinal: constipation, flatulence, nausea
+
+Metabolic/Nutritional: elevated triglycerides, elevated liver enzymes, elevated CK (creatine kinase)
+
+Musculoskeletal: arthralgia, myalgia
+
+Nervous: dizziness, vertigo
+
+Skin and Appendages: urticaria
+
+The following adverse reactions seen in adults in clinical trials were not reported in pediatric patients in clinical trials, but are considered relevant to pediatric patients: photosensitivity reaction, dry mouth, hepatitis, thrombocytopenia, generalized edema, depression, pruritus, leukopenia, and blurred vision.
 
 ### Zollinger-Ellison Syndrome
 
@@ -56,17 +78,21 @@ These adverse reactions are listed below by body system:
 
 General Disorders and Administration Conditions: asthenia, fatigue, malaise
 
+Hematologic: pancytopenia, agranulocytosis
+
 Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure
 
 Immune System Disorders: anaphylaxis (including anaphylactic shock)
 
-Infections and Infestations:Clostridium difficile associated diarrhea
+Infections and Infestations: Clostridium difficile associated diarrhea
 
 Investigations: weight changes
 
 Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
+
+Nervous: ageusia, dysgeusia
 
 Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
