@@ -35,7 +35,7 @@ The following is a suggested approach to dose titration.
 If a patient is taking the lowest dose, 1 mcg, on the daily regimen and a dose reduction is needed, the dose can be decreased to 1 mcg three times a week.
 If a further dose reduction is required, the drug should be withheld as needed and restarted at a lower dosing frequency.
 If a patient is on a calcium-based phosphate binder, the phosphate-binder dose may be decreased or withheld, or the patient may be switched to a non-calcium-based phosphate binder.
-If hypercalcemia or an elevated Ca x P is observed, the dose of Zemplar should be reduced or withheld until these parameters are normalized.
+If hypercalcemia is observed, the dose of Zemplar should be reduced or withheld until these parameters are normalized.
 
 Serum calcium and phosphorus levels should be closely monitored after initiation of Zemplar Capsules, during dose titration periods and during co-administration with strong CYP3A inhibitors [see Warnings and Precautions (5.3), Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
@@ -59,8 +59,8 @@ A suggested dose titration of Zemplar Capsules is based on the following formula
 Titration dose (micrograms) = most recent iPTH level (pg/ml)/80
 
 Serum calcium and phosphorus levels should be closely monitored after initiation, during dose titration periods, and with co-administration of strong P450 3A inhibitors.
-If an elevated serum calcium or elevated Ca x P is observed and the patient is on a calcium-based phosphate binder, the binder dose may be decreased or withheld, or the patient may be switched to a non-calcium-based phosphate binder.
-If serum calcium or Ca x P are elevated, the dose should be decreased by 2 to 4 micrograms lower than that calculated by the most recent iPTH/80.
+If an elevated serum calcium is observed and the patient is on a calcium-based phosphate binder, the binder dose may be decreased or withheld, or the patient may be switched to a non-calcium-based phosphate binder.
+If serum calcium is elevated, the dose should be decreased by 2 to 4 micrograms lower than that calculated by the most recent iPTH/80.
 If further adjustment is required, the dose of paricalcitol capsules should be reduced or withheld until these parameters are normalized.
 
 As iPTH approaches the target range, small, individualized dose adjustments may be necessary in order to achieve a stable iPTH.

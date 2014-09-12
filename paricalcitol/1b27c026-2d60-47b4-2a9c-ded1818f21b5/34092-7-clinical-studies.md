@@ -25,7 +25,7 @@ Seventy-seven percent (77%) of the Zemplar Capsules treated patients and 82% of 
 The primary efficacy endpoint of at least two consecutive ≥ 30% reductions from baseline iPTH was achieved by 91% of Zemplar Capsules treated patients and 13% of the placebo treated patients (p < 0.001).
 The proportion of Zemplar Capsules treated patients achieving two consecutive ≥ 30% reductions was similar between the daily and the three times a week regimens (daily: 30/33, 91%; three times a week: 62/68, 91%).
 
-The incidence of hypercalcemia (defined as two consecutive serum calcium values > 10.5 mg/dL), hyperphosphatemia and elevated Ca x P product in Zemplar Capsules treated patients was similar to placebo.
+The incidence of hypercalcemia (defined as two consecutive serum calcium values > 10.5 mg/dL), and hyperphosphatemia in Zemplar Capsules treated patients was similar to placebo.
 There were no treatment related adverse events associated with hypercalcemia or hyperphosphatemia in the Zemplar Capsules group.
 No increases in urinary calcium or phosphorous were detected in Zemplar Capsules treated patients compared to placebo.
 
@@ -34,7 +34,7 @@ The pattern of change in the mean values for serum iPTH during the studies is sh
 Figure 1.
 Mean Values for Serum iPTH Over Time in the Three Double-Blind, Placebo-Controlled, Phase 3, CKD Stages 3 and 4 Studies Combined
 
-The mean changes from baseline to final treatment visit in serum iPTH, calcium, phosphorus, calcium-phosphorus product (Ca x P), and bone-specific alkaline phosphatase are shown in Table 4.
+The mean changes from baseline to final treatment visit in serum iPTH, calcium, phosphorus, calcium-phosphorus product, and bone-specific alkaline phosphatase are shown in Table 4.
 
 Table 4.
 Mean Changes from Baseline to Final Treatment Visit in Serum iPTH, Bone Specific Alkaline Phosphatase, Calcium, Phosphorus, and Calcium x Phosphorus Product in Three Combined Double-Blind, Placebo-Controlled, Phase 3, CKD Stages 3 and 4 Studies

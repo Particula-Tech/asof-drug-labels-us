@@ -125,4 +125,10 @@ Skin and Subcutaneous Tissue Disorders: Acne
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been reported during post-approval use with the active ingredient in Zemplar capsules: angioedema (including laryngeal edema).
+The following additional adverse reactions have been reported during post-approval use and post-approval clinical trials with the active ingredient in Zemplar capsules:
+
+Immune System Disorders: Angioedema (including laryngeal edema)
+
+Metabolism and Nutrition Disorders: Hypercalcemia
+
+Investigations: Blood creatinine increased
