@@ -4,17 +4,18 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 
 ## 6.1 Mania
 
-The incidence of treatment-emergent events has been ascertained based on combined data from 2 placebo-controlled clinical trials of valproate in the treatment of manic episodes associated with bipolar disorder.
-The adverse events were usually mild or moderate in intensity, but sometimes were serious enough to interrupt treatment.
+The incidence of adverse reactions has been ascertained based on combined data from 2 placebo-controlled clinical trials of valproate in the treatment of manic episodes associated with bipolar disorder.
+The adverse reactions were usually mild or moderate in intensity, but sometimes were serious enough to interrupt treatment.
 In clinical trials, the rates of premature termination due to intolerance were not statistically different between placebo, valproate, and lithium carbonate.
 A total of 4%, 8% and 11% of patients discontinued therapy due to intolerance in the placebo, valproate, and lithium carbonate groups, respectively.
 
-Table 2 summarizes those adverse events reported for patients in these trials where the incidence rate in the valproate -treated group was greater than 5% and greater than the placebo incidence, or where the incidence in the valproate -treated group was statistically significantly greater than the placebo group.
-Vomiting was the only event that was reported by significantly (p ≤ 0.05) more patients receiving valproate compared to placebo.
+Table 2 summarizes those adverse reactions reported for patients in these trials where the incidence rate in the valproate -treated group was greater than 5% and greater than the placebo incidence, or where the incidence in the valproate -treated group was statistically significantly greater than the placebo group.
+Vomiting was the only event that was reported by significantly (p≤ 0.05) more patients receiving valproate compared to placebo.
 
-Table 2.Adverse Reactions Reported by > 5% of Valproate –Treated Patients During Placebo –Controlled Trials of Acute Maniaa
+Table 2.
+Adverse Reactions Reported by >5% of Valproate-Treated Patients During Placebo-Controlled Trials of Acute ManiaThe following adverse reactions occurred at an equal or greater incidence for placebo than for valproate: back pain, headache, constipation, diarrhea, tremor, and pharyngitis.
 
-| Adverse Event | Valproate (n=89) | Placebo (n=97) |
+| Adverse Reaction | Valproate (n=89) | Placebo (n=97) |
 | --- | --- | --- |
 | Nausea | 22% | 15% |
 | Somnolence | 19% | 12% |
@@ -24,9 +25,8 @@ Table 2.Adverse Reactions Reported by > 5% of Valproate –Treated Patients Duri
 | Abdominal Pain | 9% | 8% |
 | Dyspepsia | 9% | 8% |
 | Rash | 6% | 3% |
-| a. The following adverse events occurred at an equal or greater incidence for placebo than for valproate: back pain, headache, constipation, diarrhea, tremor, and pharyngitis. |  |  |
 
-The following additional adverse events were reported by greater than 1% but not more than 5% of the 89 valproate-treated patients in controlled clinical trials:
+The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 89 valproate-treated patients in controlled clinical trials:
 
 Body as a Whole: Chest pain, chills, chills and fever, fever, neck pain, neck rigidity.
 
@@ -44,7 +44,7 @@ Nervous System: Abnormal dreams, abnormal gait, agitation, ataxia, catatonic rea
 
 Respiratory System: Dyspnea, rhinitis.
 
-Skin and Appendages: Alopecia, discoid lupus erythematosis, dry skin, furunculosis, maculopapular rash, seborrhea.
+Skin and Appendages: Alopecia, discoid lupus erythematosus, dry skin, furunculosis, maculopapular rash, seborrhea.
 
 Special Senses: Amblyopia, conjunctivitis, deafness, dry eyes, ear pain, eye pain, tinnitus.
 
@@ -52,11 +52,11 @@ Urogenital System: Dysmenorrhea, dysuria, urinary incontinence.
 
 ## 6.2 Epilepsy
 
-Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, valproate was generally well tolerated with most adverse events rated as mild to moderate in severity.
+Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, valproate was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
 Intolerance was the primary reason for discontinuation in the valproate -treated patients (6%), compared to 1% of placebo-treated patients.
 
-Table 3 lists treatment-emergent adverse events which were reported by ≥ 5% of valproate -treated patients and for which the incidence was greater than in the placebo group, in the placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
-Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse events can be ascribed to valproate alone, or the combination of valproate and other antiepilepsy drugs.
+Table 3 lists treatment-emergent adverse reactions which were reported by ≥5% of valproate -treated patients and for which the incidence was greater than in the placebo group, in the placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
+Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse reactions can be ascribed to valproate alone, or the combination of valproate and other antiepilepsy drugs.
 
 Table 3.
 Adverse Reactions Reported by > 5% of Patients Treated with Valproate During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
@@ -95,11 +95,11 @@ Adverse Reactions Reported by > 5% of Patients Treated with Valproate During Pla
 | Alopecia | 6 | 1 |
 | Weight Loss | 6 | 0 |
 
-Table 4 lists treatment-emergent adverse events which were reported by ≥ 5% of patients in the high dose valproate group, and for which the incidence was greater than in the low dose group, in a controlled trial of valproate monotherapy treatment of complex partial seizures.
-Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse events can be ascribed to valproate alone, or the combination of valproate and other antiepilepsy drugs.
+Table 4 lists treatment-emergent adverse reactions which were reported by ≥ 5% of patients in the high dose valproate group, and for which the incidence was greater than in the low dose group, in a controlled trial of valproate monotherapy treatment of complex partial seizures.
+Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse reactions can be ascribed to valproate alone, or the combination of valproate and other antiepilepsy drugs.
 
 Table 4.
-Adverse Reactions Reported by > 5% of Patients in the High-Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizuresa
+Adverse Reactions Reported by >5% of Patients in the High-Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial SeizuresHeadache was the only adverse event that occurred in ≥5% of patients in the high-dose group and at an equal or greater incidence in the low-dose group.
 
 | Body System/Event | High Dose (%) (n = 131) | Low Dose (%) (n = 134) |
 | --- | --- | --- |
@@ -136,9 +136,8 @@ Adverse Reactions Reported by > 5% of Patients in the High-Dose Group in the Con
 | Special Senses |  |  |
 | Amblyopia/Blurred Vision | 8 | 4 |
 | Tinnitus | 7 | 1 |
-| a. Headache was the only adverse event that occurred in ≥ 5% of patients in the high-dose group and at an equal or greater incidence in the low-dose group. |  |  |
 
-The following additional adverse events were reported by greater than 1% but less than 5% of the 358 patients treated with valproate in the controlled trials of complex partial seizures:
+The following additional adverse reactions were reported by greater than 1% but less than 5% of the 358 patients treated with valproate in the controlled trials of complex partial seizures:
 
 Body as a Whole: Back pain, chest pain, malaise.
 
@@ -164,15 +163,15 @@ Urogenital System: Urinary incontinence, vaginitis, dysmenorrhea, amenorrhea, ur
 
 ## 6.3 Migraine
 
-Based on 2 placebo-controlled clinical trials and their long-term extension, valproate was generally well tolerated with most adverse events rated as mild to moderate in severity.
+Based on 2 placebo-controlled clinical trials and their long-term extension, valproate was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
 Of the 202 patients exposed to valproate in the placebo-controlled trials, 17% discontinued for intolerance.
 This is compared to a rate of 5% for the 81 placebo patients.
-Including the long-term extension study, the adverse events reported as the primary reason for discontinuation by ≥ 1% of 248 valproate -treated patients were alopecia (6%), nausea and/or vomiting (5%), weight gain (2%), tremor (2%), somnolence (1%), elevated SGOT and/or SGPT (1%), and depression (1%).
+Including the long-term extension study, the adverse reactions reported as the primary reason for discontinuation by ≥1% of 248 valproate-treated patients were alopecia (6%), nausea and/or vomiting (5%), weight gain (2%), tremor (2%), somnolence (1%), elevated SGOT and/or SGPT (1%), and depression (1%).
 
-Table 5 includes those adverse events reported for patients in the placebo-controlled trials where the incidence rate in the valproate -treated group was greater than 5% and was greater than that for placebo patients.
+Table 5 includes those adverse reactions reported for patients in the placebo-controlled trials where the incidence rate in the valproate-treated group was greater than 5% and was greater than that for placebo patients.
 
 Table 5.
-Adverse Reactions Reported by > 5% of Valproate -Treated Patients During Migraine Placebo-Controlled Trials With a Greater Incidence Than Patients Taking Placeboa
+Adverse Reactions Reported by >5% of Valproate-Treated Patients During Migraine Placebo-Controlled Trials With a Greater Incidence Than Patients Taking Placeboa
 
 | Body System Event | Valproate (n=202) | Placebo (n=81) |
 | --- | --- | --- |
@@ -192,7 +191,8 @@ Adverse Reactions Reported by > 5% of Valproate -Treated Patients During Migrain
 | Weight gain | 8% | 2% |
 | Back pain | 8% | 6% |
 | Alopecia | 7% | 1% |
-| The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 202 valproate-treated patients in the controlled clinical trials: |  |  |
+
+The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 202 valproate-treated patients in the controlled clinical trials:
 
 Body as a Whole: Chest pain, chills, face edema, fever and malaise.
 
@@ -216,78 +216,23 @@ Special Senses: Conjunctivitis, ear disorder, taste perversion, and tinnitus.
 
 Urogenital System: Cystitis, metrorrhagia, and vaginal hemorrhage.
 
-## 6.4 Other Patient Populations
+## 6.4 Post Marketing Experience
 
-Adverse events that have been reported with all dosage forms of valproate from epilepsy trials, spontaneous reports, and other sources are listed below by body system.
+The following adverse reactions have been identified during post approval use of STAVZOR.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal
+Dermatologic: Photosensitivity, erythema multiforme, toxic epidermal necrolysis and Stevens-Johnson syndrome.
 
-The most commonly reported side effects at the initiation of therapy are nausea, vomiting, and indigestion.
-These effects are usually transient and rarely require discontinuation of therapy.
-Diarrhea, abdominal cramps, and constipation have been reported.
-Both anorexia with some weight loss and increased appetite with weight gain have also been reported.
-The administration of delayed-release valproic acid capsules may result in reduction of gastrointestinal side effects in some patients.
+Psychiatric: Emotional upset, psychosis, aggression, hyperactivity, hostility, and behavioral deterioration.
 
-CNS Effects
+Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 
-Sedative effects have occurred in patients receiving valproate alone but occur most often in patients receiving combination therapy.
-Sedation usually abates upon reduction of other antiepileptic medication.
-Tremor (may be dose- related), hallucinations, ataxia, headache, nystagmus, diplopia, asterixis, “spots before eyes”, dysarthria, dizziness, confusion, hypesthesia, vertigo, incoordination, and parkinsonism have been reported with the use of valproate.
-Rare cases of coma have occurred in patients receiving valproate alone or in conjunction with phenobarbital.
-In rare instances, encephalopathy with or without fever has developed shortly after the introduction of valproate monotherapy without evidence of hepatic dysfunction or inappropriately high plasma valproate levels.
-Although recovery has been described following drug withdrawal, there have been fatalities in patients with hyperammonemic encephalopathy, particularly in patients with underlying urea cycle disorders [see Warnings and Precautions (5.5)].
+Hematologic: Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
-Several reports have noted reversible cerebral atrophy and dementia in association with valproate therapy.
-
-Dermatologic
-
-Transient hair loss, skin rash, photosensitivity, generalized pruritus, erythema multiforme, and Stevens-Johnson syndrome.
-Rare cases of toxic epidermal necrolysis have been reported including a fatal case in a 6 month-old infant taking valproate and several other concomitant medications.
-An additional case of toxic epidermal necrosis resulting in death was reported in a 35 year-old patient with AIDS taking several concomitant medications and with a history of multiple cutaneous drug reactions.
-Serious skin reactions have been reported with concomitant administration of lamotrigine and valproate [see Drug Interactions (7)].
-
-Psychiatric
-
-Emotional upset, depression, psychosis, aggression, hyperactivity, hostility, and behavioral deterioration.
-
-Musculoskeletal
-
-Weakness.
-
-Hematologic
-
-Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see Warnings and Precautions (5.7) and Drug Interactions (7)].
-Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
-
-Hepatic
-
-Minor elevations of transaminases (eg, SGOT and SGPT) and LDH are frequent and appear to be dose-related.
-Occasionally, laboratory test results include increases in serum bilirubin and abnormal changes in other liver function tests.
-These results may reflect potentially serious hepatotoxicity [see Warnings and Precautions (5.1)].
-
-Endocrine
-
-Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, and parotid gland swelling.
-Abnormal thyroid function tests [see Warnings and Precautions (5.15)].
-
-There have been rare spontaneous reports of polycystic ovary disease.
-A cause and effect relationship has not been established.
-
-Pancreatic: Acute pancreatitis including fatalities [see Warnings and Precautions (5.4)].
-
-Metabolic: Hyperammonemia [see Warnings and Precautions (5.8)], hyponatremia, and inappropriate ADH secretion.
-
-There have been rare reports of Fanconi’s syndrome occurring chiefly in children.
-
-Decreased carnitine concentrations have been reported although the clinical relevance is undetermined.
-
-Hyperglycinemia has occurred and was associated with a fatal outcome in a patient with preexistent nonketotic hyperglycinemia.
+Endocrine: Irregular menses, secondary amenorrhea, breast enlargement, galactorrhea, polycystic ovary disease, and parotid gland swelling, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
 Genitourinary: Enuresis and urinary tract infection.
 
-Special Senses: Hearing loss, either reversible or irreversible, has been reported; however, a cause and effect relationship has not been established.
-Ear pain has also been reported.
+Special Senses: Hearing loss.
 
-Other: Allergic reaction, anaphylaxis, edema of the extremities, lupus erythematosus, bone pain, cough increased, pneumonia, otitis media, bradycardia, cutaneous vasculitis, fever, and hypothermia.
-
-There have been reports of developmental delay, autism and/or autism spectrum disorder in the offspring of women exposed to valproate during pregnancy.
+Other: Allergic reaction, anaphylaxis, developmental delay, bone pain, bradycardia, and cutaneous vasculitis.

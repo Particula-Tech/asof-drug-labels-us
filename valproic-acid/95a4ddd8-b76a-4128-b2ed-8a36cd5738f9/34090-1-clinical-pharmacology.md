@@ -10,10 +10,10 @@ It has been suggested that its activity in epilepsy is related to increased brai
 
 Absorption/Bioavailability
 
-A single-dose randomized crossover study compared Stavzor 500-mg strength capsules to 500-mg Depakote delayed-release tablets.
-These studies demonstrated that the 2 products had similar plasma concentration-time profiles under fasted conditions in terms of valproic acid, although the median Tmax occurred earlier with STAVZOR (2.0 hrs versus 3.5 hrs). Co-administration with food increased the Tmax of Stavzor (2.0 hrs without food and approximately 4.8 hours with food), and resulted in a 23% decrease in Cmax of valproic acid, although there was no change in systemic exposure (AUC).
+A single-dose randomized crossover study compared STAVZOR 500-mg strength capsules to 500-mg Depakote delayed-release tablets.
+These studies demonstrated that the 2 products had similar plasma concentration-time profiles under fasted conditions in terms of valproic acid, although the median Tmax occurre d earlier with STAVZOR (2.0 hrs versus 3.5 hrs). Co-administration with food increased the Tmax of STAVZOR (2.0 hrs without food and approximately 4.8 hours with food), and resulted in a 23% decrease in Cmax of valproic acid, although there was no change in systemic exposure (AUC).
 
-Although the rate of valproate ion absorption may vary with the conditions of use (eg. fasting or postprandial), these differences should be of minor clinical importance under the steady-state conditions achieved in chronic use in the treatment of epilepsy.
+Although the rate of valproate ion absorption may vary with the conditions of use (eg, fasting or postprandial), these differences should be of minor clinical importance under the steady-state conditions achieved in chronic use in the treatment of epilepsy.
 However, it is possible that differences among the various valproate products in Tmax and Cmax could be important upon initiation of treatment.
 For example, in single dose studies, the effect of feeding had an influence on the rate of absorption of the capsule (increase in Tmax from 2.3 to 6.1 hours).
 While the absorption rate from the GI tract and fluctuation in valproate plasma concentrations vary with dosing regimen, the efficacy of valproate as an anticonvulsant in chronic use is unlikely to be affected.
@@ -32,9 +32,8 @@ Distribution
 Protein Binding
 
 The plasma protein binding of valproate is concentration dependent and the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL.
-Protein binding of valproate is reduced in the elderly, in patients with chronic hepatic diseases, in patients with renal impairment, and in the presence of other drugs (eg. aspirin).
-Conversely, valproate may displace certain protein-bound drugs (eg. phenytoin, carbamazepine, warfarin, and tolbutamide).
-[See Drug Interactions (7) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
+Protein binding of valproate is reduced in the elderly, in patients with chronic hepatic diseases, in patients with renal impairment, and in the presence of other drugs (eg, aspirin).
+Conversely, valproate may displace certain protein-bound drugs (eg, phenytoin, carbamazepine, warfarin, and tolbutamide) [See Drug Interactions (7) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
 
 CNS Distribution
 
@@ -65,22 +64,16 @@ Special Populations
 
 Effect of Age
 
-Neonates
+- Neonates Children within the first 2 months of life have a markedly decreased ability to eliminate valproate compared to older children and adults.
+  This is a result of reduced clearance (perhaps due to delay in development of glucuronosyltransferase and other enzyme systems involved in valproate elimination) as well as increased volume of distribution (in part due to decreased plasma protein binding).
+  For example, in one study, the half-life in children under 10 days ranged from 10 to 67 hours compared to a range of 7 to 13 hours in children greater than 2 months.
 
-Children within the first 2 months of life have a markedly decreased ability to eliminate valproate compared to older children and adults.
-This is a result of reduced clearance (perhaps due to delay in development of glucuronosyltransferase and other enzyme systems involved in valproate elimination) as well as increased volume of distribution (in part due to decreased plasma protein binding).
-For example, in one study, the half-life in children under 10 days ranged from 10 to 67 hours compared to a range of 7 to 13 hours in children greater than 2 months.
+- Children Pediatric patients (ie, between 3 months and 10 years) have 50% higher clearances expressed on weight (ie, mL/min/kg) than do adults.
+  Over the age of 10 years, children have pharmacokinetic parameters that approximate those of adults.
 
-Children
-
-Pediatric patients (i.e., between 3 months and 10 years) have 50% higher clearances expressed on weight (i.e., mL/min/kg) than do adults.
-Over the age of 10 years, children have pharmacokinetic parameters that approximate those of adults.
-
-Elderly
-
-The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26).
-Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%.
-Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.4)].
+- Elderly The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26).
+  Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%.
+  Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.4)].
 
 Effect of Gender
 
@@ -92,19 +85,15 @@ The effects of race on the kinetics of valproate have not been studied.
 
 Effect of Disease
 
-Liver Disease
+- Liver Disease Liver disease impairs the capacity to eliminate valproate.
+  In one study, the clearance of free valproate was decreased by 50% in 7 patients with cirrhosis and by 16% in 4 patients with acute hepatitis, compared with 6 healthy subjects.
+  In that study, the half-life of valproate was increased from 12 to 18 hours.
+  Liver disease is also associated with decreased albumin concentrations and larger unbound fractions (2- to 2.6-fold increase) of valproate.
+  Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal [See Boxed Warning, Contraindications (4), Warnings and Precautions (5.1)].
 
-Liver disease impairs the capacity to eliminate valproate.
-In one study, the clearance of free valproate was decreased by 50% in 7 patients with cirrhosis and by 16% in 4 patients with acute hepatitis, compared with 6 healthy subjects.
-In that study, the half-life of valproate was increased from 12 to 18 hours.
-Liver disease is also associated with decreased albumin concentrations and larger unbound fractions (2- to 2.6-fold increase) of valproate.
-Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal [See Boxed Warning, Contraindications (4), Warnings and Precautions (5.1)].
-
-Renal Disease
-
-A slight reduction (27%) in the unbound clearance of valproate has been reported in patients with renal failure (creatinine clearance < 10 mL/minute); however, hemodialysis typically reduces valproate concentrations by about 20%.
-Therefore, no dosage adjustment appears to be necessary in patients with renal failure.
-Protein binding in these patients is substantially reduced; thus, monitoring total concentrations may be misleading.
+- Renal Disease A slight reduction (27%) in the unbound clearance of valproate has been reported in patients with renal failure (creatinine clearance <10 mL/minute); however, hemodialysis typically reduces valproate concentrations by about 20%.
+  Therefore, no dosage adjustment appears to be necessary in patients with renal failure.
+  Protein binding in these patients is substantially reduced; thus, monitoring total concentrations may be misleading.
 
 Plasma Levels and Clinical Effect
 

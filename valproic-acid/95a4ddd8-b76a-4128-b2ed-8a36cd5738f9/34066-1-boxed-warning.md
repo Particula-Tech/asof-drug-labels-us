@@ -2,27 +2,30 @@
 
 Hepatotoxicity
 
-General Population: Hepatic failure resulting in fatalities has occurred in patients receiving valporate and its derivatives.
+General Population
+
+Hepatic failure resulting in fatalities has occurred in patients receiving valporate and its derivatives.
 These incidents usually have occurred during the first six months of treatment.
 Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
 In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
-Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months [see Warnings and Precautions (5.1)].
+Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months [see Warning and Precautions (5.1)].
 
 Children under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those on multiple anticonvulsants, those with congenital metabolic disorders, those with severe seizure disorders accompanied by mental retardation, and those with organic brain disease.
-When Stavzor is used in this patient group, it should be used with extreme caution and as a sole agent.
+When STAVZOR is used in this patient group, it should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
 The incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
 
-Patients with Mitochondrial Disease: There is an increased risk of valproate-induced acute liver failure and resultant deaths in patients with hereditary neurometabolic syndromes caused by DNA mutations of the mitochondrial DNA Polymerase γ (POLG) gene (e.g.
-Alpers Huttenlocher Syndrome) Stavzor is contraindicated in patients known to have mitochondrial disorders caused by POLG mutations and children under two years of age who are clinically suspected of having a mitochondrial disorder [see Contraindications (4)].
-In patients over two years of age who are clinically suspected of having a hereditary mitochondrial disease, Stavzor should only be used after other anticonvulsants have failed.
-This older group of patients should be closely monitored during treatment with Stavzor for the development of acute liver injury with regular clinical assessments and serum liver testing.
-POLG mutation screening should be performed in accordance with current clinical practice.
-[see Warnings and Precautions (5.1)]
+Patients with Mitochondrial Disease
+
+There is an increased risk of valproate-induced acute liver failure and resultant deaths in patients with hereditary neurometabolic syndromes caused by DNA mutations of the mitochondrial DNA Polymerase γ (POLG) gene (e.g.
+Alpers Huttenlocher Syndrome) STAVZOR is contraindicated in patients known to have mitochondrial disorders caused by POLG mutations and children under two years of age who are clinically suspected of having a mitochondrial disorder [see Contraindications (4)].
+In patients over two years of age who are clinically suspected of having a hereditary mitochondrial disease, STAVZOR should only be used after other anticonvulsants have failed.
+This older group of patients should be closely monitored during treatment with STAVZOR for the development of acute liver injury with regular clinical assessments and serum liver testing.
+POLG mutation screening should be performed in accordance with current clinical practice [see Warnings and Precautions (5.1)].
 
 These incidents usually have occurred during the first 6 months of treatment.
-Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
+Serious or fatal hepatotoxicity may be preceded by nonspecific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
 In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
 Liver function tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first 6 months [see Warnings and Precautions (5.1)].
@@ -36,10 +39,9 @@ Valproate should only be used to treat pregnant women with epilepsy or bipolar d
 
 Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
 This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
-Women should use effective contraception while using valproate [see Warnings and Precautions (5.2)(5.3)].
+Women should use effective contraception while using valproate [see Warnings and Precautions (5.2), (5.3)].
 
-A Medication Guide describing the risks of valproate is available for patients.
-[see Patient Counseling Information (17)].
+A Medication Guide describing the risks of valproate is available for patients [see Patient Counseling Information (17)].
 
 Pancreatitis
 
@@ -48,4 +50,4 @@ Some of the cases have been described as hemorrhagic with a rapid progression fr
 Cases have been reported shortly after initial use as well as after several years of use.
 Patients and guardians should be warned that abdominal pain, nausea, vomiting and/or anorexia can be symptoms of pancreatitis that require prompt medical evaluation.
 If pancreatitis is diagnosed, valproate should ordinarily be discontinued.
-Alternative treatment for the underlying medical condition should be initiated as clinically indicated [see warnings and precautions (5.3)].
+Alternative treatment for the underlying medical condition should be initiated as clinically indicated [see Warnings and Precautions (5.3)].
