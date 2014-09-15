@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203869"
+  ],
+  "inn": "oxaliplatin",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-233-10",
+    "25021-233-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "oxaliplatin",
+      "name": "oxaliplatin"
+    }
+  ],
+  "setid": "29a5d098-bfa7-4a65-bb4f-5daa1fef1c2f",
+  "source": "dailymed"
+}
