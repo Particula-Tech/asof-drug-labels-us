@@ -6,7 +6,9 @@
   "labeler": "Ranbaxy Laboratories Inc.",
   "package_ndcs": [
     "10631-206-01",
-    "10631-206-02"
+    "10631-206-02",
+    "10631-238-01",
+    "10631-238-02"
   ],
   "products": [
     {
