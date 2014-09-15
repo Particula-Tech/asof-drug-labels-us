@@ -30,11 +30,11 @@ Table 7 First Occurrence of Stroke or Systemic Embolism in the RE-LY Study
 |  | PRADAXA 150 mg twice daily | PRADAXA 110 mg twice daily | Warfarin |
 | --- | --- | --- | --- |
 | Patients randomized | 6076 | 6015 | 6022 |
-| Patients (%) with events | 134 (2.2%) | 183 (3%) | 202 (3.4%) |
-| Hazard ratio vs. warfarin (95% CI) | 0.65 (0.52, 0.81) | 0.90 (0.74, 1.10) |  |
-| P-value for superiority | 0.0001 | 0.3 |  |
-| Hazard ratio vs. PRADAXA 110 mg (95% CI) | 0.72 (0.58, 0.90) |  |  |
-| P-value for superiority | 0.004 |  |  |
+| Patients (%) with events | 135 (2.2%) | 183 (3%) | 203 (3.4%) |
+| Hazard ratio vs. warfarin (95% CI) | 0.65 (0.52, 0.81) | 0.89 (0.73, 1.09) |  |
+| P-value for superiority | 0.0001 | 0.27 |  |
+| Hazard ratio vs. PRADAXA 110 mg (95% CI) | 0.72 (0.58, 0.91) |  |  |
+| P-value for superiority | 0.005 |  |  |
 
 Figure 2 Kaplan-Meier Curve Estimate of Time to First Stroke or Systemic Embolism
 
@@ -47,8 +47,8 @@ Table 8 Strokes and Systemic Embolism in the RE-LY Study
 |  | PRADAXA 150 mg twice daily | Warfarin | Hazard ratio vs. warfarin (95% CI) |
 | --- | --- | --- | --- |
 | Patients randomized | 6076 | 6022 |  |
-| Stroke | 122 | 186 | 0.64 (0.51, 0.81) |
-| Ischemic stroke | 103 | 134 | 0.75 (0.58, 0.97) |
+| Stroke | 123 | 187 | 0.64 (0.51, 0.81) |
+| Ischemic stroke | 104 | 134 | 0.76 (0.59, 0.98) |
 | Hemorrhagic stroke | 12 | 45 | 0.26 (0.14, 0.49) |
 | Systemic embolism | 13 | 21 | 0.61 (0.30, 1.21) |
 

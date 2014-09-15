@@ -41,15 +41,15 @@ Table 2 Bleeding Events* (per 100 Patient-Years)
 | --- | --- | --- | --- |
 | Randomized patients | 6076 | 6022 |  |
 | Patient-years | 12,033 | 11,794 |  |
-| Intracranial hemorrhage | 38 (0.3) | 90 (0.8) | 0.41 (0.28, 0.60) |
-| Life-threatening bleed | 179 (1.5) | 218 (1.9) | 0.80 (0.66, 0.98) |
-| Major bleed | 399 (3.3) | 421 (3.6) | 0.93 (0.81, 1.07) |
-| Any bleed | 1993 (16.6) | 2166 (18.4) | 0.91 (0.85, 0.96) |
+| Intracranial hemorrhage | 39 (0.3) | 91 (0.8) | 0.42 (0.29, 0.61) |
+| Life-threatening bleed | 183 (1.5) | 221 (1.9) | 0.81 (0.67, 0.99) |
+| Major bleed | 409 (3.4) | 426 (3.6) | 0.94 (0.82, 1.08) |
+| Any bleed | 1997 (16.6) | 2169 (18.4) | 0.91 (0.85, 0.96) |
 | * Patients contributed multiple events and events were counted in multiple categories. ** Confidence interval |  |  |  |
 
 The risk of major bleeds was similar with PRADAXA 150 mg and warfarin across major subgroups defined by baseline characteristics, with the exception of age, where there was a trend towards a higher incidence of major bleeding on PRADAXA (hazard ratio 1.2, 95% CI: 1.0 to 1.4) for patients ≥75 years of age.
 
-There was a higher rate of major gastrointestinal bleeds in patients receiving PRADAXA 150 mg than in patients receiving warfarin (1.6% vs. 1.1%, respectively, with a hazard ratio vs. warfarin of 1.5, 95% CI, 1.2 to 1.9), and a higher rate of any gastrointestinal bleeds (6.1% vs. 4.0%, respectively).
+There was a higher rate of major gastrointestinal bleeds in patients receiving PRADAXA 150 mg than in patients receiving warfarin (1.6% vs. 1.1%, respectively, with a hazard ratio vs. warfarin of 1.5, 95% CI, 1.2 to 1.9), and a higher rate of any gastrointestinal bleeds (5.7% vs. 3.9%, respectively).
 
 Gastrointestinal Adverse Reactions
 
