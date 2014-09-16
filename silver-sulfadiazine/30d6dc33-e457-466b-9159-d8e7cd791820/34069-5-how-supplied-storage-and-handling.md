@@ -20,4 +20,6 @@ SSD AF™ (1% Silver Sulfadiazine) Cream: white to off-white cream.
 
 Store at controlled room temperature 15° - 30°C (59° - 86°F)
 
-SSD is a trademark of Dr. Reddy's Laboratories, Inc. Distributed by: Dr. Reddy's Laboratories, Inc. Bridgewater, NJ 08807 USA
+SSD is a trademark of Dr. Reddy's Laboratories, Inc. Manufactured by: Dr. Reddy's Laboratories Louisiana LLC Shreveport, LA 71106 USA
+
+Revised, June 2013
