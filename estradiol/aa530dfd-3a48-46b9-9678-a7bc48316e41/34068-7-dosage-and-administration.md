@@ -10,7 +10,7 @@ Retention of the ring for greater than 90 days does not represent overdosage but
 
 ## Instructions for Use
 
-ESTRING (estradiol vaginal ring) insertion
+### ESTRING (estradiol vaginal ring) insertion
 
 The ring should be pressed into an oval and inserted into the upper third of the vaginal vault.
 The exact position is not critical.
@@ -18,7 +18,7 @@ When ESTRING is in place, the patient should not feel anything.
 If the patient feels discomfort, ESTRING is probably not far enough inside.
 Gently push ESTRING further into the vagina.
 
-ESTRING use
+### ESTRING use
 
 ESTRING should be left in place continuously for 90 days and then, if continuation of therapy is deemed appropriate, replaced by a new ESTRING.
 
@@ -28,7 +28,7 @@ If so, it may be pushed up again with a finger.
 
 If ESTRING is expelled totally from the vagina, it should be rinsed in lukewarm water and reinserted by the patient (or doctor/nurse if necessary).
 
-ESTRING removal
+### ESTRING removal
 
 ESTRING may be removed by hooking a finger through the ring and pulling it out.
 

@@ -4,7 +4,7 @@ Endogenous estrogens are largely responsible for the development and maintenance
 Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level.
 
 The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle.
-After menopause, most endogenous estrogen is produced by conversion of androstenedione, secreted by the adrenal cortex, to estrone by peripheral tissues.
+After menopause, most endogenous estrogen is produced by conversion of androstenedione, secreted by the adrenal cortex, to estrone in the peripheral tissues.
 Thus, estrone and the sulfate conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women.
 
 Estrogens act through binding to nuclear receptors in estrogen-responsive tissues.
@@ -16,7 +16,7 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## Pharmacokinetics
 
-### A. Absorption
+### Absorption
 
 Estrogens used in therapeutics are well absorbed through the skin, mucous membranes, and the gastrointestinal (GI) tract.
 The vaginal delivery of estrogens circumvents first-pass metabolism.
@@ -38,43 +38,41 @@ In postmenopausal women, mean dose of estradiol systemically absorbed unchanged 
 
 TABLE 1: PHARMACOKINETIC MEAN ESTIMATES FOLLOWING SINGLE ESTRING APPLICATION
 
-| Estrogen | Cmax (pg/mL) | Css–48 hr (pg/mL) | Css–4w (pg/mL) | Css–12w (pg/mL) |
+| Estrogen | Cmax (pg/mL) | Css-48 hr (pg/mL) | Css-4w (pg/mL) | Css-12w (pg/mL) |
 | --- | --- | --- | --- | --- |
 | Estradiol (E2) | 63.2n=14 | 11.2 | 9.5 | 8.0 |
 | Baseline-adjusted E2Based on means | 55.6 | 3.6 | 2.0 | 0.4 |
 | Estrone (E1) | 66.3 | 52.5 | 43.8 | 47.0 |
 | Baseline-adjusted E1 | 20.0 | 6.2 | -2.4 | 0.8 |
 
-### B. Distribution
+### Distribution
 
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to sex hormone binding globulin (SHBG) and albumin.
 
-### C. Metabolism
+### Metabolism
 
 Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
 These transformations take place mainly in the liver.
-Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is the major urinary metabolite.
+Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite.
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
 In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
-### D. Excretion
+### Excretion
 
 Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 
-Mean percent dose excreted in the 24-hour urine as estradiol, 4 and 12 weeks post-application of ESTRING in a Phase I study was 5 percent and 8 percent, respectively, of the daily released amount.
+### Special Populations
 
-### E. Special Populations
+No pharmacokinetic studies were conducted with Estring in specific populations, including women with renal or hepatic impairment.
 
-ESTRING has not been studied in patients with hepatic or renal impairment.
-
-### F. Drug Interactions
+### Drug Interactions
 
 No formal drug interactions studies have been done with ESTRING.
 
 In vitro and in vivo studies have shown that systemic estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
 Therefore, inducers or inhibitors of CYP3A4 may affect estrogen metabolism.
-Inducers of CYP3A4 such as St. John's Wort preparations (Hypericum perforatum), phenobarbital, carbamazepine, and rifampin may reduce plasma concentrations of estrogens, possibly resulting in a decrease in systemic effects and/or changes in the uterine bleeding profile.
+Inducers of CYP3A4 such as St. John's Wort (Hypericum perforatum) preparations, phenobarbital, carbamazepine, and rifampin may reduce plasma concentrations of estrogens, possibly resulting in a decrease in systemic effects and/or changes in the uterine bleeding profile.
 Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir and grapefruit juice may increase plasma concentrations of estrogens and may result in side effects.
