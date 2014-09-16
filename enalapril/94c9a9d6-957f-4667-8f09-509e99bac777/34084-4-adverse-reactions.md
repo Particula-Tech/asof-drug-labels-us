@@ -2,10 +2,10 @@
 
 The following adverse reactions are described elsewhere:
 
-- Angioedema [see Warnings and Precautions (5.2)]
-- Hypotension [see Warnings and Precautions (5.3)]
-- Hepatic failure [see Warnings and Precautions (5.4)]
-- Renal impairment [see Warnings and Precautions (5.5)]
+- •Angioedema [see Warnings and Precautions (5.2)]
+- •Hypotension [see Warnings and Precautions (5.3)]
+- •Hepatic failure [see Warnings and Precautions (5.4)]
+- •Renal impairment [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -14,6 +14,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Enalapril has been evaluated for safety in more than 10,000 patients, including over 1,000 patients treated for one year or more.
 
 In clinical trials, discontinuation of therapy for clinical adverse experiences was required in 3.3% of patients with hypertension and in 5.7% of patients with heart failure.
+
+Hypertension
 
 Adverse reactions (where rate on enalapril exceeds the rate on placebo by at least 0.2%) occurring in greater than 1% of patients with hypertension treated with enalapril in controlled clinical trials are shown below.
 In patients treated with enalapril, the maximum duration of therapy was three years; in placebo treated patients, the maximum duration of therapy was 12 weeks.
@@ -30,6 +32,11 @@ Adverse Reactions Occurring in Greater Than 1% of Patients With Hypertension
 | Cough | 1.3 (0.1) | 0.9 |
 | Skin |  |  |
 | Rash | 1.4 (0.4) | 0.4 |
+
+Heart Failure
+
+Adverse reactions seen in clinical trials of heart failure were similar to those seen in clinical trials for hypertension.
+In patients treated for heart failure, there was an increased incidence of hypotension 6.7 percent versus 0.6 percent in placebo and dizziness 7.9 percent versus 0.6 percent in placebo.
 
 ## 6.2 Other Adverse Reactions from Clinical Studies or Postmarketing Experience
 

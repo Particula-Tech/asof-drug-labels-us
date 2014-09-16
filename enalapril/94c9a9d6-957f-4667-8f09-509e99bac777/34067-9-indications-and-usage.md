@@ -22,3 +22,12 @@ These considerations may guide selection of therapy.
 
 EPANED is effective alone or in combination with other antihypertensive agents, especially thiazide-type diuretics.
 The blood pressure lowering effects of EPANED and thiazides are approximately additive.
+
+## 1.2 Heart Failure
+
+EPANED is indicated for the treatment of symptomatic heart failure, usually in combination with diuretics and digitalis.
+In these patients, EPANED increases survival and decreases the frequency of hospitalization.
+
+## 1.3 Asymptomatic Left Ventricular Dysfunction
+
+In clinically stable asymptomatic patients with left ventricular dysfunction (ejection fraction ≤35 percent), EPANED decreases the rate of development of overt heart failure and decreases the incidence of hospitalization for heart failure.

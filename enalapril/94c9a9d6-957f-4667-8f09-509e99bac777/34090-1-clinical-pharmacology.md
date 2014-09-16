@@ -20,6 +20,8 @@ Although enalapril maleate tablets was antihypertensive in all races studied, bl
 
 ## 12.2 Pharmacodynamics
 
+Hypertension
+
 Adults
 
 Administration of enalapril maleate tablets to patients with hypertension of severity ranging from mild to severe results in a reduction of both supine and standing blood pressure, usually with no orthostatic component.
@@ -52,6 +54,14 @@ The dose-dependent antihypertensive efficacy of enalapril was consistent across 
 However, the lowest doses studied, 0.625 mg and 1.25 mg, corresponding to an average of 0.02 mg/kg once daily, did not appear to offer consistent antihypertensive efficacy.
 In this study, enalapril maleate was generally well tolerated.
 
+Heart Failure
+
+In trials in patients treated with digitalis and diuretics, treatment with enalapril resulted in decreased systemic vascular resistance, blood pressure, pulmonary capillary wedge pressure and heart size, and increased cardiac output and exercise tolerance.
+Heart rate was unchanged or slightly reduced, and mean ejection fraction was unchanged or increased.
+There was a beneficial effect on severity of heart failure as measured by the New York Heart Association (NYHA) classification and on symptoms of dyspnea and fatigue.
+Hemodynamic effects were observed after the first dose, and appeared to be maintained in uncontrolled studies lasting as long as four months.
+Effects on exercise tolerance, heart size, and severity and symptoms of heart failure were observed in placebo-controlled studies lasting from eight weeks to over one year.
+
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of EPANED Oral Solution were shown to be similar to that of Vasotec® tablets under fasted conditions.
@@ -79,7 +89,7 @@ The effective half-life for accumulation of enalaprilat following multiple doses
 
 The disposition of enalapril and enalaprilat in patients with renal insufficiency is similar to that in patients with normal renal function until the glomerular filtration rate is 30 mL/min or less.
 With glomerular filtration rate ≤30 mL/min, peak and trough enalaprilat levels increase, time to peak concentration increases, and time to steady state may be delayed.
-The effective half-life of enalaprilat following multiple doses of enalapril maleate is prolonged at this level of renal insufficiency [see Dosage and Administration (2.2)].
+The effective half-life of enalaprilat following multiple doses of enalapril maleate is prolonged at this level of renal insufficiency [see Dosage and Administration (2.1)].
 Enalaprilat is dialyzable at the rate of 62 mL/min.
 
 Pediatric Patients

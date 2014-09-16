@@ -20,6 +20,6 @@ Enalapril, which crosses the placenta, has been removed from neonatal circulatio
 Pediatric Patients 1 month to 16 years of age
 
 Enalapril lowers blood pressure in hypertensive pediatric patients age 1 month to 16 years.
-Use of enalapril in these age groups is supported by evidence from adequate and well-controlled studies of enalapril in pediatric and adult patients as well as by published literature in pediatric patients [see Clinical Pharmacology (12.3) and Dosage and Administration (2.3)].
+Use of enalapril in these age groups is supported by evidence from adequate and well-controlled studies of enalapril in pediatric and adult patients as well as by published literature in pediatric patients [see Clinical Pharmacology (12.3) and Dosage and Administration (2.1)].
 
 EPANED is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
