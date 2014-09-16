@@ -29,7 +29,7 @@ Ciprofloxacin has been shown to be active against most isolates of the following
 | Gram-negative bacteria |  |
 | --- | --- |
 | Campylobacter jejuni | Proteus mirabilis |
-| Citrobacter koseri diversus | Proteus vulgaris |
+| Citrobacter koseri (diversus) | Proteus vulgaris |
 | Citrobacter freundii | Providencia rettgeri |
 | Enterobacter cloacae | Providencia stuartii |
 | Escherichia coli | Pseudomonas aeruginosa |
@@ -86,7 +86,7 @@ These reports should aid the physician in selecting an antibacterial drug produc
 | Pseudomonas aeruginosa | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
 | Haemophilus influenzaea | ≤1 | - | - | ≥21 | - | - |
 | Haemophilus parainfluenzaea | ≤1 | - | - | ≥21 | - | - |
-| Salmonella typhi | <0.06 | 0.12 to 0.5 | >1 | >31 | 21 to 30 | <20 |
+| Salmonella typhi | ≤0.06 | 0.12 to 0.5 | >1 | ≥31 | 21 to 30 | ≤20 |
 | Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
 | Streptococcus pyogenes | ≤1 | 2 | ≥4 | ≥21 | 16 to 20 | ≤15 |
 | Neisseria gonorrhoeae | ≤0.06 | 0.12 to 0.5 | ≥1 | ≥41 | 28 to 40 | ≤27 |
@@ -113,4 +113,4 @@ A report of “Resistant” indicates that the antimicrobial is not likely to in
 | Staphylococcus aureus ATCC29213 | 0.12 to 0.5 | - |
 | Staphylococcus aureus ATCC25923 | - | 22 to 30 |
 | Neisseria gonorrhoeae ATCC 49226 | 0.001 to 0.008 | 48 to 58 |
-| Campylobacter jejuni ATCC 33560 | 0.06 to 0.25 and 0.03 to 0.12 | - |
+| Campylobacter jejuni ATCC 33560 | 0.06 to 0.25 and 0.03 to 0.12 |  |

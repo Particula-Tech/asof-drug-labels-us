@@ -95,7 +95,7 @@ Acute generalized exanthematous pustulosis (AGEP), Agitation, agranulocytosis, a
 (See PRECAUTIONS.)
 
 Adverse events were also reported by persons who received ciprofloxacin for anthrax post-exposure prophylaxis following the anthrax bioterror attacks of October 2001.
-(See also Inhalational Anthrax, Additional Information.)
+(See also INHALATION ANTHRAX -ADDITIONAL INFORMATION.)
 
 Adverse Laboratory Changes: Changes in laboratory parameters listed as adverse events without regard to drug relationship are listed below:
 

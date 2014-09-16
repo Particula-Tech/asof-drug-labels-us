@@ -190,7 +190,7 @@ Patients should be advised:
 - That ciprofloxacin has been associated with an increased rate of adverse events involving joints and surrounding tissue structures (like tendons) in pediatric patients (less than 18 years of age).
   Parents should inform their child’s physician if the child has a history of joint-related problems before taking this drug.
   Parents of pediatric patients should also notify their child’s physician of any joint-related problems that occur during or following ciprofloxacin therapy.
-  (See WARNINGS, PRECAUTIONS, Pediatric Useand ADVERSE REACTIONS.)
+  (See WARNINGS, PRECAUTIONS, Pediatric Use and ADVERSE REACTIONS.)
 - That diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
@@ -293,7 +293,8 @@ Teratogenic Effects.
 Pregnancy Category C
 
 There are no adequate and well-controlled studies in pregnant women.
-Ciprofloxacin should not be used during pregnancy unless the potential benefit justifies the potential risk to both fetus and mother (see WARNINGS).An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (quantity and quality of data=fair), but the data are insufficient to state that there is no risk.9
+Ciprofloxacin should not be used during pregnancy unless the potential benefit justifies the potential risk to both fetus and mother (see WARNINGS).
+An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (quantity and quality of data=fair), but the data are insufficient to state that there is no risk.9
 
 A controlled prospective observational study followed 200 women exposed to fluoroquinolones (52.5% exposed to ciprofloxacin and 68% first trimester exposures) during gestation.10 In utero exposure to fluoroquinolones during embryogenesis was not associated with increased risk of major malformations.
 The reported rates of major congenital malformations were 2.2% for the fluoroquinolone group and 2.6% for the control group (background incidence of major malformations is 1 to 5%).
