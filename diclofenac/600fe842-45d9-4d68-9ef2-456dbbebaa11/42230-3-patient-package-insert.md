@@ -21,7 +21,7 @@ If you become pregnant during therapy with ARTHROTEC, stop taking ARTHROTEC and 
 Remember that even if you are using a means of birth control, it is still possible to become pregnant.
 Should this occur, stop taking ARTHROTEC and consult your doctor immediately.
 
-ARTHROTEC is not recommended for nursing mothers.
+Exercise caution if you are nursing.
 
 ARTHROTEC, like other NSAIDs, may cause an increased risk of heart attack or stroke, which can lead to death.
 This risk may increase with duration of use.
@@ -36,6 +36,7 @@ ARTHROTEC may cause diarrhea, abdominal pain, upset stomach, and/or nausea in so
 In most cases these problems develop during the first few weeks of therapy and stop after about a week with continued treatment.
 You can minimize possible diarrhea by making sure you take ARTHROTEC with meals and by avoiding the use of antacids containing magnesium (if needed, use one containing aluminum or calcium instead).
 ARTHROTEC tablets should be swallowed whole and not chewed, crushed, or dissolved.
+ARTHROTEC tablets that are broken should not be taken.
 
 Because these side effects are usually mild to moderate and usually go away in a matter of days, most patients can continue to take ARTHROTEC.
 If you have prolonged difficulty (more than 7 days), or if you have severe diarrhea, cramping, and/or nausea, call your doctor.

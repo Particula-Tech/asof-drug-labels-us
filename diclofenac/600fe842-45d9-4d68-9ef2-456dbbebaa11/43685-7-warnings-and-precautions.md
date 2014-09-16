@@ -8,6 +8,8 @@ Regarding diclofenac:
 
 See boxed CONTRAINDICATIONS AND WARNINGS.
 
+The use of diclofenac/misoprostol with concomitant NSAIDs including COX-2 inhibitors should be avoided.
+
 ## CARDIOVASCULAR EFFECTS
 
 ### Cardiovascular Thrombotic Events
@@ -53,6 +55,8 @@ To minimize the potential risk for an adverse GI event in patients treated with 
 Patients and physicians should remain alert for signs and symptoms of GI ulcerations and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious GI event is suspected.
 This should include discontinuation of the NSAID until a serious GI adverse event is ruled out.
 For high risk patients, alternate therapies that do not involve NSAIDs should be considered.
+
+ARTHROTEC is contraindicated in patients with active GI bleeding.
 
 ## Renal Effects
 
@@ -120,6 +124,7 @@ Allergic reactions have been reported by less than 0.1% of patients who received
 
 NSAIDs, including ARTHROTEC, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
+Patients appear to be at highest risk for these events early in the course of therapy, the onset of the event occurring in the majority of cases within the first month of treatment.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
 ## Pregnancy
@@ -197,7 +202,6 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 - Patients should be informed of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactic Reactions).
 - In late pregnancy, as with other NSAIDs, ARTHROTEC should not be taken because it may cause premature closure of the ductus arteriosus.
-- ARTHROTEC should not be taken by nursing mothers.
 - Concomitant use of voriconazole increases the systemic exposure to diclofenac.
   When concomitant voriconazole use is necessary, the total daily dose of diclofenac should not exceed the lowest recommended dose of ARTHROTEC 50 twice daily (see Drug Interactions and DOSAGE AND ADMINISTRATION).
 
@@ -257,6 +261,10 @@ A direct causal relationship has not been established, but physicians should con
 NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
 This may indicate that they could enhance the toxicity of methotrexate.
 Caution should be used when NSAIDs are administered concomitantly with methotrexate.
+
+#### Tacrolimus
+
+Possible increased risk of nephrotoxicity when NSAIDs are given with tacrolimus.
 
 #### Cyclosporine
 
@@ -373,8 +381,9 @@ There are no adequate and well-controlled studies in pregnant women.
 ## Nursing mothers
 
 Diclofenac sodium has been found in the milk of nursing mothers.
-Misoprostol is rapidly metabolized in the mother to misoprostol acid, which is biologically active and is excreted in breast milk.
-There are no published reports of adverse effects of misoprostol in breastfeeding infants of mothers taking misoprostol.
+Based on limited published data from 2 studies of 22 lactating women who took a single 200–600 microgram dose of misoprostol 4–6 days postpartum, misoprostolic acid, the active metabolite of misoprostol was found in breast milk at very low levels.
+The highest level measured in milk was 20.9 ng/L 1 hour after dosing.
+These data may not reflect drug level in mature milk and in a daily dosing regimen for osteoarthritis or rheumatoid arthritis.
 Caution should be exercised when ARTHROTEC is administered to a nursing woman.
 
 ## Labor and Delivery

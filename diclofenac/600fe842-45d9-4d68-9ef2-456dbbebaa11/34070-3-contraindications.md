@@ -9,3 +9,5 @@ ARTHROTEC should not be given to patients who have experienced asthma, urticaria
 Severe, rarely fatal, anaphylactic-like reactions to diclofenac sodium have been reported in such patients (see WARNINGS- Anaphylactic Reactions, and PRECAUTIONS- Preexisting Asthma).
 
 ARTHROTEC is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see boxed CONTRAINDICATIONS AND WARNINGS).
+
+ARTHROTEC is contraindicated in patients with active gastrointestinal bleeding (see WARNINGS).

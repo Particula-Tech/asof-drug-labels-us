@@ -1,3 +1,1 @@
-Rx only
-
-LAB-0061-21.0 March 2013
+LAB-0061-22.0 September 2014

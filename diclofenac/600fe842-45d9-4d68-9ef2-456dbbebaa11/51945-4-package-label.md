@@ -7,7 +7,7 @@ Arthrotec® 50
 Distributed by G.D.
 Searle LLC Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
@@ -44,7 +44,7 @@ Arthrotec® 75
 Distributed by G.D.
 Searle LLC Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 75 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 75 mg Tablet Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
