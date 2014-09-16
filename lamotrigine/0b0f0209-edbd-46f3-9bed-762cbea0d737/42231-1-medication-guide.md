@@ -172,6 +172,7 @@ How should I take Lamotrigine Tablets?
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
   Do not take two doses at the same time.
+- If you take too much Lamotrigine Tablets, call your healthcare provider or your local Poison Control Center or go to the nearest hospital emergency room right away.
 - You may not feel the full effect of Lamotrigine Tablets for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow Lamotrigine Tablets whole.
@@ -238,4 +239,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 *DEPAKENE and *DEPAKOTE are registered trademarks of Abbott Laboratories.
 
-Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 02/2014
+Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 07/2014

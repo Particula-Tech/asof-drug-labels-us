@@ -62,4 +62,4 @@ To reduce the potential of medication errors, write and say lamotrigine clearly.
 Description of the Lamotrigine Tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
 
-Manufactured By: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 02/2014
+Manufactured By: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 07/2014
