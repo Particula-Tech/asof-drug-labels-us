@@ -24,7 +24,7 @@ TABLE 2
 
 | Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo- Controlled, Depression Trials |  |  |
 | --- | --- | --- |
-| Percentage of Patients Discontinuing Due to Adverse Event |  |  |
+|  |  | Percentage of Patients Discontinuing Due to Adverse Event |
 |  | Citalopram | Placebo |
 |  | (N=1063) | (N=446) |
 | Body System/Adverse Event |  |  |
@@ -34,8 +34,7 @@ TABLE 2
 | Nausea | 4% | 0% |
 | Dry Mouth | 1% | <1% |
 | Vomiting | 1% | 0% |
-| Central and Peripheral |  |  |
-| Nervous System Disorders |  |  |
+| Central and Peripheral Nervous System Disorders |  |  |
 | Dizziness | 2% | <1% |
 | Psychiatric Disorders |  |  |
 | Insomnia | 3% | 1% |
@@ -58,15 +57,13 @@ TABLE 3
 | Treatment-Emergent Adverse Events: |  |  |
 | --- | --- | --- |
 | Incidence in Placebo-Controlled Clinical Trials* |  |  |
-|  | (Percentage of Patients Reporting Event) |  |
+| (Percentage of Patients Reporting Event) |  |  |
 | Body System/Adverse Event | Citalopram HBr | Placebo |
 |  | (N=1063) | (N=446) |
-| Autonomic Nervous System |  |  |
-| Disorders |  |  |
+| Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 20% | 14% |
 | Sweating Increased | 11% | 9% |
-| Central & Peripheral Nervous |  |  |
-| System Disorders |  |  |
+| Central & Peripheral Nervous System Disorders |  |  |
 | Tremor | 8% | 6% |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 21% | 14% |
@@ -77,8 +74,7 @@ TABLE 3
 | General |  |  |
 | Fatigue | 5% | 3% |
 | Fever | 2% | <1% |
-| Musculoskeletal System |  |  |
-| Disorders |  |  |
+| Musculoskeletal System Disorders |  |  |
 | Arthralgia | 2% | 1% |
 | Myalgia | 2% | 1% |
 | Psychiatric Disorders |  |  |
@@ -105,7 +101,7 @@ TABLE 3
 Dose Dependency of Adverse Events
 
 The potential relationship between the dose of citalopram administered and the incidence of adverse events was examined in a fixed-dose study in depressed patients receiving placebo or citalopram 10, 20, 40, and 60 mg.
-Jonckheere’s trend test revealed a positive dose response (p<0.05) for the following adverse events: fatigue, impotence, insomnia, sweating increased, somnolence, and yawning.
+Jonckheere's trend test revealed a positive dose response (p<0.05) for the following adverse events: fatigue, impotence, insomnia, sweating increased, somnolence, and yawning.
 
 Male and Female Sexual Dysfunction with SSRIs
 
@@ -117,11 +113,15 @@ Accordingly, estimates of the incidence of untoward sexual experience and perfor
 
 The table below displays the incidence of sexual side effects reported by at least 2% of patients taking citalopram in a pool of placebo-controlled clinical trials in patients with depression.
 
-| Treatment | Citalopram (425 males) | Placebo (194 males) |
+| Treatment | Citalopram | Placebo |
 | --- | --- | --- |
-| Abnormal Ejaculation (mostly ejaculatory delay) | 6.1% (males only) | 1% (males only) |
-| Libido Decreased | 3.8% (males only) | <1% (males only) |
-| Impotence | 2.8% (males only) | <1% (males only) |
+|  | (425 males) | (194 males) |
+| Abnormal Ejaculation | 6.1% | 1% |
+| (mostly ejaculatory delay) | (males only) | (males only) |
+| Libido Decreased | 3.8% | <1% |
+|  | (males only) | (males only) |
+| Impotence | 2.8% | <1% |
+|  | (males only) | (males only) |
 
 In female depressed patients receiving citalopram, the reported incidence of decreased libido and anorgasmia was 1.3% (n=638 females) and 1.1% (n=252 females), respectively.
 
@@ -219,4 +219,4 @@ Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal p
 ## Other Events Observed During the Postmarketing Evaluation of Citalopram HBr
 
 It is estimated that over 30 million patients have been treated with citalopram since market introduction.
-Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsades de pointes, and withdrawal syndrome.
+Although no causal relationship to citalopram treatment has been found, the following adverse events have been reported to be temporally associated with citalopram treatment, and have not been described elsewhere in labeling: acute renal failure, akathisia, allergic reaction, anaphylaxis, angioedema, angle-closure glaucoma, choreoathetosis, chest pain, delirium, dyskinesia, ecchymosis, epidermal necrolysis, erythema multiforme, gastrointestinal hemorrhage, glaucoma, grand mal convulsions, hemolytic anemia, hepatic necrosis, myoclonus, nystagmus, pancreatitis, priapism, prolactinemia, prothrombin decreased, QT prolonged, rhabdomyolysis, spontaneous abortion, thrombocytopenia, thrombosis, ventricular arrhythmia, torsades de pointes, and withdrawal syndrome.

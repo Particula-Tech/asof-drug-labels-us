@@ -1,6 +1,6 @@
 Medication Guide
 
-Citalopram Tablets USP
+Citalopram (si TAL o pram) Tablets, USP
 
 Rx Only
 
@@ -16,11 +16,9 @@ Citalopram tablets and other antidepressant medicines may cause serious side eff
 1.
 Suicidal thoughts or actions:
 
-• Citalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
-
-• Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-
-• Watch for these changes and call your healthcare provider right away if you notice:
+- Citalopram tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
+- Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+- Watch for these changes and call your healthcare provider right away if you notice:
 
 • New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
 
@@ -57,7 +55,7 @@ The symptoms may include:
 - dizziness or fainting
 
 3.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+Serotonin Syndrome.
 This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
@@ -98,7 +96,9 @@ Children and adolescents should have height and weight monitored during treatmen
 
 9.
 Low salt (sodium) levels in the blood.
-Elderly people may be at greater risk for this.
+Elderly people may be at greater risk
+
+for this.
 Symptoms may include:
 
 - headache
@@ -111,6 +111,16 @@ Stopping citalopram tablets too quickly may cause serious symptoms including:
 - anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
 - headache, sweating, nausea, dizziness
 - electric shock-like sensations, shaking, confusion
+
+10.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 What are Citalopram Tablets?
 
@@ -127,15 +137,12 @@ Who should not take citalopram tablets?
 
 Do not take citalopram tablets if you:
 
-• are allergic to citalopram hydrobromide or escitalopram oxalate or any of the ingredients in citalopram tablets.
-See the end of this Medication Guide for a complete list of ingredients in citalopram tablets.
-
-• take a Monoamine Oxidase Inhibitor (MAOI).
-Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-
-• Do not take an MAOI within 14 days of stopping citalopram tablets.
-
-• Do not start citalopram tablets if you stopped taking an MAOI in the last 14 days.
+- are allergic to citalopram hydrobromide or escitalopram oxalate or any of the ingredients in citalopram tablets.
+  See the end of this Medication Guide for a complete list of ingredients in citalopram tablets.
+- If you take a Monoamine Oxidase Inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+- Do not take an MAOI within 2 weeks of stopping citalopram tablets unless directed to do so by your physician.
+- Do not start citalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take citalopram tablets close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -152,9 +159,8 @@ Get medical help right away if you have any of these symptoms:
 
 • loss of consciousness (pass out)
 
-• take the antipsychotic medicine pimozide because this can cause serious heart problems.
-
-• have a heart problem including congenital long QT syndrome
+- take the antipsychotic medicine pimozide because this can cause serious heart problems.
+- have a heart problem including congenital long QT syndrome
 
 What should I tell my healthcare provider before taking citalopram tablets?
 Ask if you are not sure.
@@ -177,31 +183,21 @@ Before starting citalopram tablets, tell your healthcare provider if you
 
 • Over-the-counter supplements such as tryptophan or St. John’s Wort
 
-• have liver problems
-
-• have kidney problems
-
-• have heart problems
-
-• have or had seizures or convulsions
-
-• have bipolar disorder or mania
-
-• have low sodium levels in your blood
-
-• have a history of a stroke
-
-• have high blood pressure
-
-• have or had bleeding problems
-
-• are pregnant or plan to become pregnant.
-It is not known if citalopram tablets will harm your unborn baby.
-Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
-
-• are breast-feeding or plan to breast-feed.
-Some citalopram may pass into your breast milk.
-Talk to your healthcare provider about the best way to feed your baby while taking citalopram tablets.
+- have liver problems
+- have kidney problems
+- have heart problems
+- have or had seizures or convulsions
+- have bipolar disorder or mania
+- have low sodium levels in your blood
+- have a history of a stroke
+- have high blood pressure
+- have or had bleeding problems
+- are pregnant or plan to become pregnant.
+  It is not known if citalopram tablets will harm your unborn baby.
+  Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
+- are breast-feeding or plan to breast-feed.
+  Some citalopram may pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby while taking citalopram tablets.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Citalopram tablets and some medicines may interact with each other, may not work as well, or may cause serious side effects.
@@ -209,7 +205,7 @@ Citalopram tablets and some medicines may interact with each other, may not work
 Your healthcare provider or pharmacist can tell you if it is safe to take citalopram tablets with your other medicines.
 Do not start or stop any medicine while taking citalopram tablets without talking to your healthcare provider first.
 
-| If you take citalopram tablets, you should not take any other medicines that contain citalopram hydrobromide or escitalopram oxalate including: Lexapro. |
+| If you take citalopram tablets, you should not take any other medicines that contain citalopram hydrobromide or escitalopram oxalateincluding: Lexapro. |
 | --- |
 
 How should I take citalopram tablets?
@@ -295,19 +291,17 @@ Active ingredient: citalopram hydrobromide, USP
 
 Inactive ingredients:
 
-- Tablets: lactose monohydrate, microcrystalline cellulose, starch, croscarmellose sodium, copovidone, magnesium stearate, hypromellose, titanium dioxide, ferric oxide red, ferric oxide yellow, glycerin, and polyethylene glycol.
+- Tablets: copovidone, croscarmellose sodium, ferric oxide red, ferric oxide yellow, glycerin, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, starch, and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721,
-
-Dist.
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
 Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
 
-8030420 Revised September 2011
+8050573 Revised August 2014

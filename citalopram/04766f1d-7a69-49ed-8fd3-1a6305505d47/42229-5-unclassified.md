@@ -2,15 +2,11 @@ Rx Only
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD.
-
-Indrad-382 721, Dist.
+TORRENT PHARMACEUTICALS LTD. Indrad-382 721, Dist.
 Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace,
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
 
-Suite 40, Kalamazoo, Michigan 49009.
-
-8030420 Revised September 2011
+8050572 Revised August 2014
