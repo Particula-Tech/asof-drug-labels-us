@@ -95,6 +95,11 @@ If the increase exceeds three times normal, or doubles in a patient with an elev
 In a few cases in which biopsy has been done, the histology has resembled that of alcoholic hepatitis or cirrhosis.
 Hepatic failure has been a rare cause of death in patients treated with Cordarone.
 
+## Severe Bullous Reactions
+
+Life-threatening or even fatal cutaneous reactions, Stevens-Johnson syndrome (SJS), Toxic Epidermal Necrolysis (TEN) (See "ADVERSE REACTIONS").
+If symptoms or signs of SJS, TEN (e.g., progressive skin rash often with blisters or mucosal lesions) are present amiodarone treatment should be discontinued immediately.
+
 ## Loss of Vision
 
 Cases of optic neuropathy and/or optic neuritis, usually resulting in visual impairment, have been reported in patients treated with amiodarone.
