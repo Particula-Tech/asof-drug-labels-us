@@ -100,7 +100,7 @@ Dosage for Hepatically Impaired Patients
 
 The use of sertraline in patients with liver disease should be approached with caution.
 The effects of sertraline in patients with moderate and severe hepatic impairment have not been studied.
-If sertraline is administered to patients with liver impairment, a lower or less frequent dose should be used (see CLINICAL PHARMACOLOGYand PRECAUTIONS).
+If sertraline is administered to patients with liver impairment, a lower or less frequent dose should be used (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
 
 Treatment of Pregnant Women During the Third Trimester
 

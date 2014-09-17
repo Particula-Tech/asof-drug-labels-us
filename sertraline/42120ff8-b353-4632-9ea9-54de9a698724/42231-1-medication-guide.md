@@ -92,6 +92,16 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
+9.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
 Do not stop sertraline hydrochloride tablets without first talking to your healthcare provider.
 Stopping sertraline hydrochloride tablets too quickly may cause serious symptoms including:
 
@@ -101,7 +111,7 @@ Stopping sertraline hydrochloride tablets too quickly may cause serious symptoms
 
 What are sertraline hydrochloride tablets?
 
-Sertraline hydrochloride tablets are prescription medicines used to treat depression.
+Sertraline hydrochloride tablets are prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
 You should discuss all treatment choices with your healthcare provider.
 Sertraline hydrochloride tablets are also used to treat:
@@ -122,6 +132,7 @@ Do not take sertraline hydrochloride tablets if you:
 - are allergic to sertraline or any of the ingredients in sertraline hydrochloride tablets.
   See the end of this Medication Guide for a complete list of ingredients in sertraline hydrochloride tablets.
 - take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
+- take Antabuse®(disulfiram) (if you are taking the liquid form of sertraline) due to the alcohol content.
 - take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - Do not take an MAOI within 2 weeks of stopping sertraline hydrochloride tablets unless directed to do so by your physician.
@@ -243,8 +254,7 @@ What are the possible side effects of sertraline hydrochloride tablets?
 
 Sertraline hydrochloride tablets may cause serious side effects, including:
 
-- See "What is the most important information I should know about sertraline hydrochloride tablets?
-  "
+- See "What is the most important information I should know about sertraline hydrochloride tablets?"
 - Feeling anxious or trouble sleeping
 
 Common possible side effects in people who take sertraline hydrochloride tablets include:
@@ -299,7 +309,7 @@ What are the ingredients in sertraline hydrochloride tablets?
 
 Active ingredient: sertraline hydrochloride
 
-Inactive ingredients: D & C Yellow #10 (in 25 mg tablet), dibasic calcium phosphate anhydrous, FD & C Blue #1 (in 25 mg tablet), FD & C Blue #2 (in 50 mg tablet), FD & C Red #40 (in 25 mg tablet), hydroxypropyl cellulose, hypromellose, iron oxide yellow (in 100 mg tablet), magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium starch glycolate and titanium dioxide
+Inactive ingredients: D&C Yellow #10 (in 25 mg tablet), dibasic calcium phosphate anhydrous, FD&C Blue #1 (in 25 mg tablet), FD&C Blue #2 (in 50 mg tablet), FD&C Red #40 (in 25 mg tablet), hydroxypropyl cellulose, hypromellose, iron oxide yellow (in 100 mg tablet), magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium starch glycolate and titanium dioxide
 
 The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
 
@@ -313,12 +323,6 @@ Baltimore, Maryland 21202
 
 United States
 
-Manufactured by:
+MADE IN INDIA
 
-Lupin Limited
-
-Goa 403 722
-
-INDIA
-
-Revised: August 2014 ID#: 238280
+Revised: October 2014 ID#: 238577

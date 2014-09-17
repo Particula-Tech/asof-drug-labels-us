@@ -15,6 +15,10 @@ Cimetidine
 In a study assessing disposition of sertraline (100 mg) on the second of 8 days of cimetidine administration (800 mg daily), there were significant increases in sertraline mean AUC (50%), Cmax (24%) and half-life (26%) compared to the placebo group.
 The clinical significance of these changes is unknown.
 
+Drugs that Prolong the QT Interval
+
+The risk of QTc prolongation and/or ventricular arrhythmias (e.g., TdP) is increased with concomitant use of other drugs which prolong the QTc interval (e.g., some antipsychotics and antibiotics) (see PRECAUTIONS).
+
 CNS Active Drugs
 
 In a study comparing the disposition of intravenously administered diazepam before and after 21 days of dosing with either sertraline (50 to 200 mg/day escalating dose) or placebo, there was a 32% decrease relative to baseline in diazepam clearance for the sertraline group compared to a 19% decrease relative to baseline for the placebo group (p<0.03).
@@ -85,7 +89,8 @@ Plasma TCA concentrations may need to be monitored, and the dose of TCA may need
 
 Hypoglycemic Drugs
 
-In a placebo-controlled trial in normal volunteers, administration of sertraline for 22 days (including 200 mg/day for the final 13 days) caused a statistically significant 16% decrease from baseline in the clearance of tolbutamide following an intravenous 1000 mg dose. sertraline administration did not noticeably change either the plasma protein binding or the apparent volume of distribution of tolbutamide, suggesting that the decreased clearance was due to a change in the metabolism of the drug.
+In a placebo-controlled trial in normal volunteers, administration of sertraline for 22 days (including 200 mg/day for the final 13 days) caused a statistically significant 16% decrease from baseline in the clearance of tolbutamide following an intravenous 1000 mg dose.
+Sertraline administration did not noticeably change either the plasma protein binding or the apparent volume of distribution of tolbutamide, suggesting that the decreased clearance was due to a change in the metabolism of the drug.
 The clinical significance of this decrease in tolbutamide clearance is unknown.
 
 Atenolol
@@ -106,7 +111,6 @@ Drugs That Interfere With Hemostasis (Non-selective NSAIDs, Aspirin, Warfarin, e
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
-These studies have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when sertraline is initiated or discontinued.
 
@@ -122,11 +126,11 @@ Although sertraline did not potentiate the cognitive and psychomotor effects of 
 
 Lifetime carcinogenicity studies were carried out in CD-1 mice and Long-Evans rats at doses up to 40 mg/kg/day.
 These doses correspond to 1 times (mice) and 2 times (rats) the maximum recommended human dose (MRHD) on a mg/m2 basis.
-There was a dose-related increase of liver adenomas in male mice receiving sertraline at 10 to 40 mg/kg (0.25 to 1.0 times the MRHD on a mg/m2 basis).
+There was a dose-related increase of liver adenomas in male mice receiving sertraline at 10 to 40 mg/kg (0.25 to 1 times the MRHD on a mg/m2 basis).
 No increase was seen in female mice or in rats of either sex receiving the same treatments, nor was there an increase in hepatocellular carcinomas.
 Liver adenomas have a variable rate of spontaneous occurrence in the CD-1 mouse and are of unknown significance to humans.
 There was an increase in follicular adenomas of the thyroid in female rats receiving sertraline at 40 mg/kg (2 times the MRHD on a mg/m2 basis); this was not accompanied by thyroid hyperplasia.
-While there was an increase in uterine adenocarcinomas in rats receiving sertraline at 10 to 40 mg/kg (0.5 to 2.0 times the MRHD on a mg/m2 basis) compared to placebo controls, this effect was not clearly drug related.
+While there was an increase in uterine adenocarcinomas in rats receiving sertraline at 10 to 40 mg/kg (0.5 to 2 times the MRHD on a mg/m2 basis) compared to placebo controls, this effect was not clearly drug related.
 
 ## Mutagenesis
 
@@ -186,7 +190,8 @@ Safety and effectiveness in the pediatric population other than pediatric patien
 Two placebo controlled trials (n=373) in pediatric patients with MDD have been conducted with sertraline, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of sertraline in a child or adolescent must balance the potential risks with the clinical need.
 
-The safety of sertraline use in children and adolescents with OCD, ages 6 to 18, was evaluated in a 12-week, multicenter, placebo-controlled study with 187 outpatients, ages 6 to 17, and in a flexible dose, 52 week open extension study of 137 patients, ages 6 to 18, who had completed the initial 12-week, double-blind, placebo-controlled study. sertraline was administered at doses of either 25 mg/day (children, ages 6 to 12) or 50 mg/day (adolescents, ages 13 to 18) and then titrated in weekly 25 mg/day or 50 mg/day increments, respectively, to a maximum dose of 200 mg/day based upon clinical response.
+The safety of sertraline use in children and adolescents with OCD, ages 6 to 18, was evaluated in a 12-week, multicenter, placebo-controlled study with 187 outpatients, ages 6 to 17, and in a flexible dose, 52 week open extension study of 137 patients, ages 6 to 18, who had completed the initial 12-week, double-blind, placebo-controlled study.
+Sertraline was administered at doses of either 25 mg/day (children, ages 6 to 12) or 50 mg/day (adolescents, ages 13 to 18) and then titrated in weekly 25 mg/day or 50 mg/day increments, respectively, to a maximum dose of 200 mg/day based upon clinical response.
 The mean dose for completers was 157 mg/day.
 In the acute 12 week pediatric study and in the 52 week study, sertraline had an adverse event profile generally similar to that observed in adults.
 
@@ -196,14 +201,14 @@ Approximately 600 patients with major depressive disorder or OCD between 6 and 1
 The adverse event profile observed in these patients was generally similar to that observed in adult studies with sertraline (see ADVERSE REACTIONS).
 As with other SSRIs, decreased appetite and weight loss have been observed in association with the use of sertraline.
 In a pooled analysis of two 10-week, double-blind, placebo-controlled, flexible dose (50 to 200 mg) outpatient trials for major depressive disorder (n=373), there was a difference in weight change between sertraline and placebo of roughly 1 kilogram, for both children (ages 6 to 11) and adolescents (ages 12 to 17), in both cases representing a slight weight loss for sertraline compared to a slight gain for placebo.
-At baseline the mean weight for children was 39.0 kg for sertraline and 38.5 kg for placebo.
+At baseline the mean weight for children was 39 kg for sertraline and 38.5 kg for placebo.
 At baseline the mean weight for adolescents was 61.4 kg for sertraline and 62.5 kg for placebo.
 There was a bigger difference between sertraline and placebo in the proportion of outliers for clinically important weight loss in children than in adolescents.
 For children, about 7% had a weight loss > 7% of body weight compared to none of the placebo patients; for adolescents, about 2% had a weight loss > 7% of body weight compared to about 1% of the placebo patients.
 A subset of these patients who completed the randomized controlled trials (sertraline n=99, placebo n=122) were continued into a 24-week, flexible-dose, open-label, extension study.
 A mean weight loss of approximately 0.5 kg was seen during the first eight weeks of treatment for subjects with first exposure to sertraline during the open-label extension study, similar to mean weight loss observed among sertraline treated subjects during the first eight weeks of the randomized controlled trials.
 The subjects continuing in the open label study began gaining weight compared to baseline by week 12 of sertraline treatment.
-Those subjects who completed 34 weeks of sertraline treatment (10 weeks in a placebo controlled trial + 24 weeks open label, n=68) had weight gain that was similar to that expected using data from age- adjusted peers.
+Those subjects who completed 34 weeks of sertraline treatment (10 weeks in a placebo controlled trial + 24 weeks open label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
 Regular monitoring of weight and growth is recommended if treatment of a pediatric patient with an SSRI is to be continued long term.
 Safety and effectiveness in pediatric patients below the age of 6 have not been established.
 

@@ -17,7 +17,7 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 ## Incidence in Placebo-Controlled Trials
 
-Table 2 enumerates the most common treatment- emergent adverse events associated with the use of sertraline (incidence of at least 5% for sertraline and at least twice that for placebo within at least one of the indications) for the treatment of adult patients with major depressive disorder/other*, OCD, panic disorder, PTSD, PMDD and social anxiety disorder in placebo-controlled clinical trials.
+Table 2 enumerates the most common treatment-emergent adverse events associated with the use of sertraline (incidence of at least 5% for sertraline and at least twice that for placebo within at least one of the indications) for the treatment of adult patients with major depressive disorder/other*, OCD, panic disorder, PTSD, PMDD and social anxiety disorder in placebo-controlled clinical trials.
 Most patients in major depressive disorder/other*, OCD, panic disorder, PTSD and social anxiety disorder studies received doses of 50 to 200 mg/day.
 Patients in the PMDD study with daily dosing throughout the menstrual cycle received doses of 50 to 150 mg/day, and in the PMDD study with dosing during the luteal phase of the menstrual cycle received doses of 50 to 100 mg/day.
 Table 3 enumerates treatment-emergent adverse events that occurred in 2% or more of adult patients treated with sertraline and with incidence greater than placebo who participated in controlled clinical trials comparing sertraline with placebo in the treatment of major depressive disorder/other*, OCD, panic disorder, PTSD, PMDD and social anxiety disorder.
@@ -184,7 +184,7 @@ All events are included except those already listed in the previous tables or el
 It is important to emphasize that although the events reported occurred during treatment with sertraline, they were not necessarily caused by it.
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
-Events of major clinical importance are also described in the PRECAUTIONSsection.
+Events of major clinical importance are also described in the PRECAUTIONS section.
 
 Autonomic Nervous System Disorders
 
@@ -192,7 +192,7 @@ Frequent: impotence.
 
 Infrequent: flushing, increased saliva, cold clammy skin, mydriasis.
 
-Rare: pallor, glaucoma, priapism, vasodilation.
+Rare: pallor, angle-closure glaucoma, priapism, vasodilation.
 
 Body as a Whole-General Disorders
 
@@ -313,4 +313,4 @@ The safety profile observed with sertraline treatment in patients with major dep
 
 ## Other Events Observed During the Post marketing Evaluation of Sertraline
 
-Reports of adverse events temporally associated with sertraline that have been received since market introduction, that are not listed above and that may have no causal relationship with the drug, include the following: acute renal failure, anaphylactoid reaction, angioedema, blindness, optic neuritis, cataract, increased coagulation times, bradycardia, AV block, atrial arrhythmias, QT-interval prolongation, ventricular tachycardia (including torsade de pointes-type arrhythmias), cerebrovascular spasm (including reversible cerebral vasconstriction syndrome and Call-Fleming syndrome), hypothyroidism, agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness, diabetes mellitus, hyperglycemia, galactorrhea, hyperprolactinemia, extrapyramidal symptoms, oculogyric crisis, serotonin syndrome, psychosis, pulmonary hypertension, severe skin reactions, which potentially can be fatal, such as Stevens- Johnson syndrome, vasculitis, photosensitivity and other severe cutaneous disorders, rare reports of pancreatitis, and liver events—clinical features (which in the majority of cases appeared to be reversible with discontinuation of sertraline) occurring in one or more patients include: elevated enzymes, increased bilirubin, hepatomegaly, hepatitis, jaundice, abdominal pain, vomiting, liver failure and death.
+Reports of adverse events temporally associated with sertraline that have been received since market introduction, that are not listed above and that may have no causal relationship with the drug, include the following: acute renal failure, anaphylactoid reaction, angioedema, blindness, optic neuritis, cataract, increased coagulation times, bradycardia, AV block, atrial arrhythmias, QT-interval prolongation, ventricular tachycardia (including Torsade de Pointes arrhythmias), cerebrovascular spasm (including reversible cerebral vasconstriction syndrome and Call-Fleming syndrome), hypothyroidism, agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness, diabetes mellitus, hyperglycemia, galactorrhea, hyperprolactinemia, extrapyramidal symptoms, oculogyric crisis, serotonin syndrome, psychosis, pulmonary hypertension, severe skin reactions, which potentially can be fatal, such as Stevens- Johnson syndrome, vasculitis, photosensitivity and other severe cutaneous disorders, rare reports of pancreatitis, and liver events—clinical features (which in the majority of cases appeared to be reversible with discontinuation of sertraline) occurring in one or more patients include: elevated enzymes, increased bilirubin, hepatomegaly, hepatitis, jaundice, abdominal pain, vomiting, liver failure and death.

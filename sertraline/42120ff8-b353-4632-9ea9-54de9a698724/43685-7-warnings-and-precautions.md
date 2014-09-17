@@ -70,13 +70,17 @@ If concomitant use of sertraline with other serotonergic drugs including triptan
 
 Treatment with sertraline and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
+Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including sertraline may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
 # PRECAUTIONS
 
 ## General
 
 Activation of Mania/Hypomania
 
-During premarketing testing, hypomania or mania occurred in approximately 0.4% of sertraline (sertraline hydrochloride) treated patients.
+During premarketing testing, hypomania or mania occurred in approximately 0.4% of sertraline hydrochloride treated patients.
 
 Weight Loss
 
@@ -104,10 +108,9 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 ## Abnormal Bleeding
 
-SSRIs and SNRIs, including sertraline, may increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
+SSRIs and SNRIs, including sertraline, may increase the risk of bleeding events ranging from ecchymoses, hematomas, epistaxis, petechiae, and gastrointestinal hemorrhage to life-threatening hemorrhage.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants or other drugs known to affect platelet function may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of sertraline and NSAIDs, aspirin, or other drugs that affect coagulation.
 
@@ -124,6 +127,10 @@ Caution is advisable in using sertraline in patients with diseases or conditions
 Patients with a recent history of myocardial infarction or unstable heart disease were excluded from clinical studies during the product's premarket testing.
 However, the electrocardiograms of 774 patients who received sertraline in double-blind trials were evaluated and the data indicate that sertraline is not associated with the development of significant ECG abnormalities.
 
+During post-marketing use of sertraline, cases of QTc prolongation and Torsade de Pointes (TdP) have been reported.
+The majority of reports occurred in patients with other risk factors for QTc prolongation/TdP.
+Therefore sertraline should be used with caution in patients with risk factors for QTc prolongation.
+
 Sertraline administered in a flexible dose range of 50 to 200 mg/day (mean dose of 89 mg/day) was evaluated in a post-marketing, placebo-controlled trial of 372 randomized subjects with a DSM-IV diagnosis of major depressive disorder and recent history of myocardial infarction or unstable angina requiring hospitalization.
 Exclusions from this trial included, among others, patients with uncontrolled hypertension, need for cardiac surgery, history of CABG within 3 months of index event, severe or symptomatic bradycardia, non-atherosclerotic cause of angina, clinically significant renal impairment (creatinine > 2.5 mg/dl), and clinically significant hepatic dysfunction.
 Sertraline treatment initiated during the acute phase of recovery (within 30 days post-MI or post-hospitalization for unstable angina) was indistinguishable from placebo in this study on the following week 16 treatment endpoints: left ventricular ejection fraction, total cardiovascular events (angina, chest pain, edema, palpitations, syncope, postural dizziness, CHF, MI, tachycardia, bradycardia, and changes in BP), and major cardiovascular events involving death or requiring hospitalization (for MI, CHF, stroke, or angina).
@@ -132,7 +139,7 @@ Sertraline is extensively metabolized by the liver.
 In patients with chronic mild liver impairment, sertraline clearance was reduced, resulting in increased AUC, Cmax and elimination half-life.
 The effects of sertraline in patients with moderate and severe hepatic impairment have not been studied.
 The use of sertraline in patients with liver disease must be approached with caution.
-If sertraline is administered to patients with liver impairment, a lower or less frequent dose should be used (see CLINICAL PHARMACOLOGYand DOSAGE AND ADMINISTRATION).
+If sertraline is administered to patients with liver impairment, a lower or less frequent dose should be used (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 Since sertraline is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
 A clinical study comparing sertraline pharmacokinetics in healthy volunteers to that in patients with renal impairment ranging from mild to severe (requiring dialysis) indicated that the pharmacokinetics and protein binding are unaffected by renal disease.
@@ -160,12 +167,6 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 There have been rare reports of altered platelet function and/or abnormal results from laboratory studies in patients taking sertraline.
 While there have been reports of abnormal bleeding or purpura in several patients taking sertraline, it is unclear whether sertraline had a causative role.
 
-## Angle-Closure Glaucoma
-
-SSRIs including sertraline may have an effect on pupil size resulting in mydriasis.
-This mydriatic effect has the potential to narrow the eye angle resulting in increased intraocular pressure and angle-closure glaucoma, especially in patients pre-disposed.
-Sertraline should therefore be used with caution in patients with angle-closure glaucoma or history of glaucoma.
-
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with sertraline and should counsel them in its appropriate use.
@@ -184,6 +185,11 @@ Such symptoms should be reported to the patient's prescriber or health professio
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of SNRIs and SSRIs, including sertraline, and triptans, tramadol, or other serotonergic agents.
+
+Patients should be advised that taking sertraline can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
 Patients should be told that although sertraline has not been shown to impair the ability of normal subjects to perform tasks requiring complex motor and mental skills in laboratory experiments, drugs that act upon the central nervous system may affect some individuals adversely.
 Therefore, patients should be told that until they learn how they respond to sertraline they should be careful doing activities when they need to be alert, such as driving a car or operating machinery.
