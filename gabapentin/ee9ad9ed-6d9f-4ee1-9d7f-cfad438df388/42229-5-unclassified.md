@@ -1,1 +1,4 @@
-LAB-0106-15.0 December 2012
+This product's label may have been updated.
+For full prescribing information, please visit www.pfizer.com.
+
+LAB-0106-17.0

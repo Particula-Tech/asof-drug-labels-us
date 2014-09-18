@@ -16,9 +16,11 @@ Stopping NEURONTIN suddenly can cause serious problems.
 
 NEURONTIN can cause serious side effects including:
 
-- 1.Like other antiepileptic drugs, NEURONTIN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-  Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:How can I watch for early symptoms of suicidal thoughts and actions?Call your healthcare provider between visits as needed, especially if you are worried about symptoms.Do not stop taking NEURONTIN without first talking to a healthcare provider.Suicidal thoughts or actions can be caused by things other than medicines.
-  If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
+- 1.Suicidal Thoughts.
+  Like other antiepileptic drugs, NEURONTIN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+  Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you: How can I watch for early symptoms of suicidal thoughts and actions?
+  Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+  Do not stop taking NEURONTIN without first talking to a healthcare provider.
   - thoughts about suicide or dying
   - attempts to commit suicide
   - new or worse depression
@@ -35,11 +37,14 @@ NEURONTIN can cause serious side effects including:
   - Keep all follow-up visits with your healthcare provider as scheduled.
   - Stopping NEURONTIN suddenly can cause serious problems.
     Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+  - Suicidal thoughts or actions can be caused by things other than medicines.
+    If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 - 2.Changes in behavior and thinking - Using NEURONTIN in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
 - 3.NEURONTIN may cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
   You may or may not have rash when you get this type of reaction.
   It may cause you to be hospitalized or to stop NEURONTIN.
-  Call a healthcare provider right away if you have any of the following symptoms:
+  Call a healthcare provider right away if you have any of the following symptoms: These symptoms may be the first signs of a serious reaction.
+  A healthcare provider should examine you to decide if you should continue taking NEURONTIN.
   - skin rash
   - hives
   - fever
@@ -51,15 +56,12 @@ NEURONTIN can cause serious side effects including:
   - unexpected muscle pain
   - frequent infections
 
-These symptoms may be the first signs of a serious reaction.
-A healthcare provider should examine you to decide if you should continue taking NEURONTIN.
-
 What is NEURONTIN?
 
 NEURONTIN is a prescription medicine used to treat:
 
 - Pain from damaged nerves (postherpetic pain) that follows healing of shingles (a painful rash that comes after a herpes zoster infection) in adults.
-- Partial seizures when taken together with other medicines in adults and children 3 years of age and older.
+- Partial seizures when taken together with other medicines in adults and children 3 years of age and older with seizures.
 
 Who should not take NEURONTIN?
 
@@ -83,7 +85,7 @@ Before taking NEURONTIN, tell your healthcare provider if you:
   NEURONTIN can pass into breast milk.
   You and your healthcare provider should decide how you will feed your baby while you take NEURONTIN.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Taking NEURONTIN with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
@@ -96,12 +98,13 @@ How should I take NEURONTIN?
 - Take NEURONTIN exactly as prescribed.
   Your healthcare provider will tell you how much NEURONTIN to take.
   - Do not change your dose of NEURONTIN without talking to your healthcare provider.
-    If you break a tablet in half, the unused half of the tablet should be taken at your next scheduled dose.
-    Half tablets not used within several days of breaking should be thrown away.
-    If taking capsules, always swallow them whole with plenty of water.
-- NEURONTIN can be taken with or without food.
+  - If you take NEURONTIN tablets and break a tablet in half, the unused half of the tablet should be taken at your next scheduled dose.
+    Half tablets not used within 28 days of breaking should be thrown away
+  - Take NEURONTIN capsules with plenty of water.
+- NEURONTIN tablets can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of NEURONTIN.
-- If you take too much NEURONTIN, call your healthcare provider or your local Poison Control Center right away.
+
+If you take too much NEURONTIN, call your healthcare provider or your local Poison Control Center right away at 1-800-222-1222.
 
 What should I avoid while taking NEURONTIN?
 
@@ -112,8 +115,17 @@ What should I avoid while taking NEURONTIN?
 
 What are the possible side effects of NEURONTIN?
 
-- See "What is the most important information I should know about NEURONTIN?"
-- The most common side effects of NEURONTIN include: dizziness lack of coordinationviral infectionfeeling drowsyfeeling tiredfeverjerky movements difficulty with speakingtemporary loss of memory (amnesia)tremor difficulty with coordination double visionunusual eye movement
+NEURONTIN may cause serious side effects including:
+
+See "What is the most important information I should know about NEURONTIN?"
+
+- problems driving while using NEURONTIN.
+  See "What I should avoid while taking Neurontin?"
+- sleepiness and dizziness
+- The most common side effects of NEURONTIN include:
+
+|  | lack of coordinationviral infectionfeeling drowsynausea and vomitingdifficulty with speakingtremorswelling, usually of legs and feet | feeling tiredfeverjerky movementsdifficulty with coordinationdouble visionunusual eye movement |
+| --- | --- | --- |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -125,8 +137,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store NEURONTIN?
 
-- Store NEURONTIN Capsules between 59°F to 86°F (15°C to 30°C).
-- Store NEURONTIN Tablets between 59°F to 86°F (15°C to 30°C).
+- Store NEURONTIN Capsules and Tablets between 68°F to 77°F (20°C to 25°C).
 - Store NEURONTIN Oral Solution in the refrigerator between 36°F to 46°F (2°C to 8°C).
 
 Keep NEURONTIN and all medicines out of the reach of children.
@@ -142,23 +153,19 @@ This Medication Guide summarizes the most important information about NEURONTIN.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about NEURONTIN that was written for healthcare professionals.
 
-For more information about NEURONTIN, go to http://www.pfizer.com.
-For medical inquiries or to report side effects regarding NEURONTIN, please call 1-800-438-1985.
+For more information go to http://www.pfizer.com. or call 1-800-438-1985.
 
 What are the ingredients in NEURONTIN?
 
 Active ingredient: gabapentin
 
-Inactive ingredients in the capsules: lactose, cornstarch, and talc.
+Inactive ingredients in the capsules: lactose, cornstarch, talc, gelatin, titanium dioxide and FD&C Blue No. 2.
 
-The 100-mg capsule shell also contains: gelatin and titanium dioxide.
+The 300-mg capsule shell also contains: yellow iron oxide.
 
-The 300-mg capsule shell also contains: gelatin, titanium dioxide, and yellow iron oxide.
+The 400-mg capsule shell also contains: red iron oxide, and yellow iron oxide.
 
-The 400-mg capsule shell also contains: gelatin, red iron oxide, titanium dioxide, and yellow iron oxide.
-The imprinting ink contains FD&C Blue No. 2 and titanium dioxide.
-
-Inactive ingredients in the tablets: poloxamer 407, copolyvidonum, cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, candelilla wax, and purified water.
+Inactive ingredients in the tablets: poloxamer 407, copovidone, cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, and candelilla wax
 
 Inactive ingredients in the oral solution: glycerin, xylitol, purified water, and artificial flavor.
 
@@ -167,4 +174,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0397-4.0 July 2012
+LAB-0397-5.0 August 2014
