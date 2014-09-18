@@ -53,7 +53,7 @@ Other metabolites detected in vitro using cultured human hepatoma cells have not
 Elimination: Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 
-Special Populations:Gender: No significant difference in clearance (CL/F) of fluticasone propionate was observed.
+Special Populations: Gender: No significant difference in clearance (CL/F) of fluticasone propionate was observed.
 
 Pediatrics: A population pharmacokinetic analysis was performed for FLOVENT HFA using steady-state data from 4 controlled clinical trials and single-dose data from 1 controlled clinical trial.
 The combined cohort for analysis included 269 patients (161 males and 108 females) with asthma aged 6 months to 66 years who received treatment with FLOVENT HFA.

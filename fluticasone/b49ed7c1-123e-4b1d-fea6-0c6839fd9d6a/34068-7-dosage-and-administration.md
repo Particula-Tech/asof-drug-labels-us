@@ -13,9 +13,10 @@ The recommended starting dosage and the highest recommended dosage of FLOVENT HF
 Table 1.
 Recommended Dosages of FLOVENT HFA Inhalation Aerosol
 
-| NOTE: In all patients, it is desirable to titrate to the lowest effective dosage once asthma stability is achieved. |  |  |
-| --- | --- | --- |
+NOTE: In all patients, it is desirable to titrate to the lowest effective dosage once asthma stability is achieved.
+
 | Previous Therapy | Recommended Starting Dosage | Highest Recommended Dosage |
+| --- | --- | --- |
 | Adult and adolescent patients (aged 12 years and older) |  |  |
 | Bronchodilators aloneInhaled corticosteroidsOral corticosteroidsb | 88 mcg twice daily88-220 mcg twice dailya440 mcg twice daily | 440 mcg twice daily440 mcg twice daily880 mcg twice daily |
 | Pediatric patients (aged 4-11 years)c | 88 mcg twice daily | 88 mcg twice daily |

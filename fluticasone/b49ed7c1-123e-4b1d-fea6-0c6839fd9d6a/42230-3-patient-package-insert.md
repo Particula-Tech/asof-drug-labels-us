@@ -178,6 +178,8 @@ The parts of your FLOVENT HFA
 
 There are 2 main parts to your FLOVENT HFA inhaler—the metal canister that holds the medicine and the dark orange plastic actuator that sprays the medicine from the canister (see Figure 1).
 
+Figure 1
+
 The canister has a counter to show how many sprays of medicine you have left.
 The number shows through a window in the back of the actuator.
 The counter starts at 124.
@@ -212,42 +214,56 @@ Using your FLOVENT HFA
 Read the following 7 steps before using FLOVENT HFA and follow them at each use.
 If you have any questions, ask your doctor or pharmacist.
 
-1. 1.Take the cap off the mouthpiece of the actuator (see Figure 2).
-   Look inside the mouthpiece for foreign objects, and take out any you see.
-   Make sure the canister fits firmly in the actuator.
-   Shake the inhaler well for 5 seconds.
-2. 2.Hold the inhaler with the mouthpiece down (see Figure 2).
-   Breathe out through your mouth and push as much air from your lungs as you can.
-   Put the mouthpiece in your mouth and close your lips around it.
+- 1.Take the cap off the mouthpiece of the actuator (see Figure 2).
 
-1. 1.Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
-   Right after the spray comes out, take your finger off the canister.
-   After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+Look inside the mouthpiece for foreign objects, and take out any you see.
 
-1. 1.Hold your breath as long as you can, up to 10 seconds.
-   Then breathe normally.
-2. 2.Wait about 30 seconds and shake the inhaler well for 5 seconds.
-   Repeat steps 2 through 4.
-3. After you finish taking this medicine, rinse your mouth with water.
-   Spit out the water.
-   Do not swallow it.
-4. 3.Put the cap back on the mouthpiece after each time you use the inhaler.
-   Make sure it snaps firmly into place.
+Make sure the canister fits firmly in the actuator.
+
+Shake the inhaler well for 5 seconds.
+
+- 2.Hold the inhaler with the mouthpiece down (see Figure 2).
+  Breathe out through your mouth and push as much air from your lungs as you can.
+  Put the mouthpiece in your mouth and close your lips around it.
+
+Figure 2
+
+- 3.Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
+- 
+- Figure 3
+
+Right after the spray comes out, take your finger off the canister.
+After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+
+- 4.Hold your breath as long as you can, up to 10 seconds.
+  Then breathe normally.
+- 5.Wait about 30 seconds and shake the inhaler well for 5 seconds.
+  Repeat steps 2 through 4.
+
+After you finish taking this medicine, rinse your mouth with water.
+Spit out the water.
+Do not swallow it.
+
+- 6.Put the cap back on the mouthpiece after each time you use the inhaler.
+  Make sure it snaps firmly into place.
 
 Cleaning your FLOVENT HFA
 
 Clean the inhaler at least once a week after your evening dose.
 It is important to keep the canister and plastic actuator clean so the medicine will not build-up and block the spray.
 
-1. 1.Take the cap off the mouthpiece.
-   The strap on the cap will stay attached to the actuator.
-   Do not take the canister out of the plastic actuator.
-2. 2.Use a clean cotton swab dampened with water to clean the small circular opening where the medicine sprays out of the canister.
-   Gently twist the swab in a circular motion to take off any medicine (see Figure 4).
-   Repeat with a new swab dampened with water to take off any medicine still at the opening.
-3. 3.Wipe the inside of the mouthpiece with a clean tissue dampened with water.
-   Let the actuator air-dry overnight.
-4. 4.Put the cap back on the mouthpiece after the actuator has dried.
+- 1.Take the cap off the mouthpiece.
+  The strap on the cap will stay attached to the actuator.
+  Do not take the canister out of the plastic actuator.
+- 2.Use a clean cotton swab dampened with water to clean the small circular opening where the medicine sprays out of the canister.
+  Gently twist the swab in a circular motion to take off any medicine (see Figure 4).
+  Repeat with a new swab dampened with water to take off any medicine still at the opening.
+
+Figure 4
+
+- 3.Wipe the inside of the mouthpiece with a clean tissue dampened with water.
+  Let the actuator air-dry overnight.
+- 4.Put the cap back on the mouthpiece after the actuator has dried.
 
 Replacing your FLOVENT HFA
 
@@ -255,7 +271,8 @@ Replacing your FLOVENT HFA
 - •When the counter reads 000, throw the inhaler away.
   You should not keep using the inhaler because you will not receive the right amount of medicine.
 - •Do not use the inhaler after the expiration date, which is on the packaging it comes in.
-- This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
+
+This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
 FLOVENT is a registered trademark of the GSK group of companies.
 The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.

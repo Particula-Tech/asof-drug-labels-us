@@ -21,6 +21,9 @@ Figure 1 displays results of pulmonary function tests (mean percent change from 
 This trial used predetermined criteria for lack of efficacy (indicators of worsening asthma), resulting in withdrawal of more patients in the placebo group.
 Therefore, pulmonary function results at Endpoint (the last evaluable FEV1 result, including most patients’ lung function data) are also displayed.
 
+Figure 1.
+A 12-Week Clinical Trial in Patients Aged 12 Years and Older Inadequately Controlled on Bronchodilators Alone: Mean Percent Change From Baseline in FEV1 Prior to AM Dose (Study 1)
+
 In Study 2, FLOVENT HFA at dosages of 88, 220, and 440 mcg twice daily was evaluated over 12 weeks of treatment in 415 patients with asthma who were already receiving an inhaled corticosteroid at a daily dose within its recommended dose range in addition to as-needed albuterol.
 Baseline FEV1 values were similar across groups (mean 65% to 66% of predicted normal).
 All 3 dosages of FLOVENT HFA demonstrated a statistically significant improvement in lung function, as measured by improvement in FEV1, compared with placebo.
@@ -33,6 +36,9 @@ The mean differences between the groups treated with FLOVENT HFA 88, 220, and 44
 Figure 2 displays the mean percent change from baseline in FEV1 from Week 1 through Week 12.
 This study also used predetermined criteria for lack of efficacy, resulting in withdrawal of more patients in the placebo group; therefore, pulmonary function results at Endpoint are also displayed.
 
+Figure 2.
+A 12-Week Clinical Trial in Patients Aged 12 Years and Older Already Receiving Daily Inhaled Corticosteroids: Mean Percent Change From Baseline in FEV1 Prior to AM Dose (Study 2)
+
 In both studies, use of VENTOLIN, AM and PM PEF, and asthma symptom scores showed numerical improvement with FLOVENT HFA compared with placebo.
 
 Study 3 enrolled 168 patients with asthma requiring oral prednisone therapy (average baseline daily prednisone dose ranged from 13 to 14 mg).
@@ -42,6 +48,9 @@ Over the course of the study, patients treated with either dosage of FLOVENT HFA
 Both dosages of FLOVENT HFA enabled a larger percentage of patients (59% and 56% in the groups treated with FLOVENT HFA 440 and 880 mcg, respectively, twice daily) to eliminate oral prednisone as compared with placebo (13%) (see Figure 3).
 There was no efficacy advantage of FLOVENT HFA 880 mcg twice daily compared with 440 mcg twice daily.
 Accompanying the reduction in oral corticosteroid use, patients treated with either dosage of FLOVENT HFA had statistically significantly improved lung function, fewer asthma symptoms, and less use of VENTOLIN Inhalation Aerosol compared with the placebo-treated patients.
+
+Figure 3.
+A 16-Week Clinical Trial in Patients Aged 12 Years and Older Requiring Chronic Oral Prednisone Therapy: Change in Maintenance Prednisone Dose
 
 Two long-term safety studies (Study 4 and Study 5) of ≥6 months’ duration were conducted in 507 adult and adolescent patients with asthma.
 Study 4 was designed to monitor the safety of 2 doses of FLOVENT HFA, while Study 5 compared fluticasone propionate HFA with fluticasone propionate CFC.
