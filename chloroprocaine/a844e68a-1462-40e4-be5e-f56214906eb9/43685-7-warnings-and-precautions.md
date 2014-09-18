@@ -69,7 +69,7 @@ Concurrent administration of vasopressor drugs (for the treatment of hypotension
 The para-aminobenzoic acid metabolite of chloroprocaine inhibits the action of sulfonamides.
 Therefore, chloroprocaine should not be used in any condition in which a sulfonamide drug is being employed.
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals to evaluate carcinogenic potential and reproduction studies to evaluate mutagenesis or impairment of fertility have not been conducted with chloroprocaine.
 

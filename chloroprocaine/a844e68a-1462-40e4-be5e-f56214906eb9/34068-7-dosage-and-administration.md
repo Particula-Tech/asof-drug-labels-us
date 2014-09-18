@@ -25,7 +25,7 @@ As a guide for some routine procedures, suggested doses are given below:
 
 | Anesthetic Procedure | Solution Concentration % | Volume (mL) | Total Dose (mg) |
 | --- | --- | --- | --- |
-| Mandibular Infraorbital Brachial plexus Digital (without epinephrine) Pudendal Paracervical (see also PRECAUTIONS) | 222121 | 2 – 30.5 – 130 – 403 – 410 each side3 per each of 4 sites | 40 – 6010 – 20600 – 80030 – 40400up to 120 |
+| Mandibular Infraorbital Brachial plexus Digital (without epinephrine) Pudendal Paracervical (see also PRECAUTIONS) | 222121 | 2 to 30.5 to 130 to 403 to 410 each side3 per each of 4 sites | 40 to 6010 to 20600 to 80030 to 40400up to 120 |
 
 2.
 Caudal and Lumbar Epidural Block: NESACAINE-MPF INJECTION.
@@ -43,7 +43,7 @@ Maximum dosages of all local anesthetics must be individualized after evaluating
 Pediatric Dosage: It is difficult to recommend a maximum dose of any drug for children, since this varies as a function of age and weight.
 For children over 3 years of age who have a normal lean body mass and normal body development, the maximum dose is determined by the child’s age and weight and should not exceed 11 mg/kg (5 mg/lb).
 For example, in a child of 5 years weighing 50 lbs (23 kg), the dose of chloroprocaine HCl without epinephrine would be 250 mg.
-Concentrations of 0.5–1% are suggested for infiltration and 1–1.5% for nerve block.
+Concentrations of 0.5 to 1% are suggested for infiltration and 1 to 1.5% for nerve block.
 In order to guard against systemic toxicity, the lowest effective concentration and lowest effective dose should be used at all times.
 Some of the lower concentrations for use in infants and smaller children are not available in prepackaged containers; it will be necessary to dilute available concentrations with the amount of 0.9% sodium chloride injection necessary to obtain the required final concentration of chloroprocaine injection.
 
