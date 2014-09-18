@@ -115,19 +115,19 @@ DUETACT may cause serious side effects including:
   Call your doctor if low blood sugar levels are a problem for you
 - •liver problems.
   Call your doctor right away if you have:
-  - onausea or vomiting
-  - ostomach pain
-  - ounusual or unexplained tiredness
-  - oloss of appetite
-  - odark urine
-  - oyellowing of your skin or the whites of your eyes
+  - •nausea or vomiting
+  - •stomach pain
+  - •unusual or unexplained tiredness
+  - •loss of appetite
+  - •dark urine
+  - •yellowing of your skin or the whites of your eyes
 - •bladder cancer.
   There may be an increased chance of having bladder cancer when you take DUETACT.
   You should not take DUETACT if you are receiving treatment for bladder cancer.
   Tell your doctor right away if you have any of the following symptoms of bladder cancer:
-  - oblood or a red color in your urine
-  - oan increased need to urinate
-  - opain while you urinate
+  - •blood or a red color in your urine
+  - •an increased need to urinate
+  - •pain while you urinate
 - •broken bones (fractures).
   Usually in the hand, upper arm, or foot in women.
   Talk to your doctor for advice on how to keep your bones healthy.
@@ -188,10 +188,10 @@ Takeda Pharmaceuticals America, Inc.
 
 Deerfield, IL 60015
 
-Revised: November 2013
+Revised: Month 2014
 
 DUETACT and ACTOS are registered trademarks of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2009 - 2013 Takeda Pharmaceuticals America, Inc.
+© 2009 - 2014 Takeda Pharmaceuticals America, Inc.
 
-DTA007 R12
+DTA007 R13

@@ -135,19 +135,19 @@ A total of 514 (19.7%) patients treated with pioglitazone and 572 (21.7%) placeb
 Although there was no statistically significant difference between pioglitazone and placebo for the three-year incidence of a first event within this composite, there was no increase in mortality or in total macrovascular events with pioglitazone.
 The number of first occurrences and total individual events contributing to the primary composite endpoint is shown in Table 7.
 
-| Table 7. PROactive: Number of First and Total Events for Each Component within the Cardiovascular Composite Endpoint |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Cardiovascular Events | Placebo N=2633 |  | Pioglitazone N=2605 |  |  |
-| First Events n (%) | Total Events n | First Events n (%) | Total Events n |  |  |
-| Any event | 572 (21.7) | 900 | 514 (19.7) | 803 |  |
-| All-cause mortality | 122 (4.6) | 186 | 110 (4.2) | 177 |  |
-| Non-fatal myocardial infarction (MI) | 118 (4.5) | 157 | 105 (4.0) | 131 |  |
-| Stroke | 96 (3.6) | 119 | 76 (2.9) | 92 |  |
-| Acute coronary syndrome | 63 (2.4) | 78 | 42 (1.6) | 65 |  |
-| Cardiac intervention (CABG/PCI) | 101 (3.8) | 240 | 101 (3.9) | 195 |  |
-| Major leg amputation | 15 (0.6) | 28 | 9 (0.3) | 28 |  |
-| Leg revascularization | 57 (2.2) | 92 | 71 (2.7) | 115 |  |
-| CABG = coronary artery bypass grafting; PCI = percutaneous intervention |  |  |  |  |  |
+| Table 7. PROactive: Number of First and Total Events for Each Component within the Cardiovascular Composite Endpoint |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Cardiovascular Events | Placebo N=2633 |  | Pioglitazone N=2605 |  |
+| First Events n (%) | Total Events n | First Events n (%) | Total Events n |  |
+| Any event | 572 (21.7) | 900 | 514 (19.7) | 803 |
+| All-cause mortality | 122 (4.6) | 186 | 110 (4.2) | 177 |
+| Non-fatal myocardial infarction (MI) | 118 (4.5) | 157 | 105 (4.0) | 131 |
+| Stroke | 96 (3.6) | 119 | 76 (2.9) | 92 |
+| Acute coronary syndrome | 63 (2.4) | 78 | 42 (1.6) | 65 |
+| Cardiac intervention (CABG/PCI) | 101 (3.8) | 240 | 101 (3.9) | 195 |
+| Major leg amputation | 15 (0.6) | 28 | 9 (0.3) | 28 |
+| Leg revascularization | 57 (2.2) | 92 | 71 (2.7) | 115 |
+| CABG = coronary artery bypass grafting; PCI = percutaneous intervention |  |  |  |  |
 
 Weight Gain
 
@@ -295,6 +295,7 @@ Glimepiride
 - •Hemolytic anemia in patients with and without G6PD deficiency [see Warnings and Precautions (5.9)]
 - •Impairment of liver function (e.g. with cholestasis and jaundice), as well as hepatitis, which may progress to liver failure.
 - •Porphyria cutanea tarda, photosensitivity reactions and allergic vasculitis
-- •Leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia, and pancytopenia
+- •Leukopenia, agranulocytosis, aplastic anemia, and pancytopenia
+- •Thrombocytopenia (including severe cases with platelet count less than 10,000/mcL) and thrombocytopenic purpura
 - •Hepatic porphyria reactions and disulfiram-like reactions
 - •Hyponatremia and syndrome of inappropriate antidiuretic hormone secretion (SIADH), most often in patients who are on other medications or who have medical conditions known to cause hyponatremia or increase release of antidiuretic hormone

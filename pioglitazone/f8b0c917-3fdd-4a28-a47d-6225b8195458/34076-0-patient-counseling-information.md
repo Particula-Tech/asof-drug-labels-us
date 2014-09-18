@@ -21,6 +21,6 @@ Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
 DUETACT is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2009-2013 Takeda Pharmaceuticals America, Inc.
+© 2009-2014 Takeda Pharmaceuticals America, Inc.
 
-DTA007 R12
+DTA007 R13
