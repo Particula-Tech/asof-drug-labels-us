@@ -2,10 +2,14 @@ Package Label - Principal Display Panel - Neostigmine Methylsulfate - 0.5 mg Via
 
 Package Label - Principal Display Panel - Neostigmine Methylsulfate - 0.5 mg Carton - NDC 76014-002-33
 
-Package Label - Principal Display Panel - Neostigmine Methylsulfate - 0.5 mg Ten Carton Package - NDC 76014-002-10
+Package Label - Principal Display Panel - Neostigmine Methylsulfate – 0.5 mg Ten Carton Package Flat Label - NDC 76014-002-10
+
+Package Label - Principal Display Panel - Neostigmine Methylsulfate – 0.5 mg Ten Carton Package ECL - NDC 76014-002-10
 
 Package Label - Principal Display Panel - Neostigmine Methylsulfate - 1.0 mg Vial - NDC 76014-003-33
 
 Package Label - Principal Display Panel - Neostigmine Methylsulfate - 1.0 mg Carton - NDC 76014-003-33
 
-Package Label - Principal Display Panel - Neostigmine Methylsulfate - 1.0 mg Ten Carton Package - NDC 76014-003-10
+Package Label - Principal Display Panel - Neostigmine Methylsulfate – 1.0 mg Ten Carton Package Flat Label - NDC 76014-003-10
+
+Package Label - Principal Display Panel - Neostigmine Methylsulfate – 1.0 mg Ten Carton Package ECL - NDC 76014-003-10
