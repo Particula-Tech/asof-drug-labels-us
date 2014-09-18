@@ -28,7 +28,7 @@ Abnormal Bleeding
 
 Patients should be cautioned about the concomitant use of PRISTIQ and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.4)].
 
-Narrow-angle Glaucoma
+Angle Closure Glaucoma
 
 Patients should be advised that taking Pristiq can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
