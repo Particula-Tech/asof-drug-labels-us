@@ -10,11 +10,11 @@ Extended-release Capsules
 
 10 mg
 
+ONCE-A-DAY DOSING
+
 30 Capsules
 
 Rx only
-
-ONCE-A-DAY DOSING
 
 www.CoregCR.com
 
@@ -29,14 +29,14 @@ This extended-release capsule formulation differs in strength from COREG® table
 Keep this and all drugs out of the reach of children.
 In case of accidental overdose, seek professional help or contact a poison control center immediately.
 
-GlaxoSmithKline, Research Triangle Park, NC 27709
+GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-©2012, GlaxoSmithKline Rev.
-7/12
+©2014, the GSK group of companies Rev.
+7/14
 
-10000000107275
+10000000127119
 
 Principal Display Panel
 
@@ -50,11 +50,11 @@ Extended-release Capsules
 
 20 mg
 
+ONCE-A-DAY DOSING
+
 30 Capsules
 
 Rx only
-
-ONCE-A-DAY DOSING
 
 www.CoregCR.com
 
@@ -69,14 +69,14 @@ This extended-release capsule formulation differs in strength from COREG® table
 Keep this and all drugs out of the reach of children.
 In case of accidental overdose, seek professional help or contact a poison control center immediately.
 
-GlaxoSmithKline, Research Triangle Park, NC 27709
+GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-©2012, GlaxoSmithKline Rev.
-7/12
+©2014, the GSK group of companies Rev.
+8/14
 
-10000000107276
+10000000127120
 
 Principal Display Panel
 
@@ -90,11 +90,11 @@ Extended-release Capsules
 
 40 mg
 
+ONCE-A-DAY DOSING
+
 30 Capsules
 
 Rx only
-
-ONCE-A-DAY DOSING
 
 www.CoregCR.com
 
@@ -109,14 +109,14 @@ This extended-release capsule formulation differs in strength from COREG® table
 Keep this and all drugs out of the reach of children.
 In case of accidental overdose, seek professional help or contact a poison control center immediately.
 
-GlaxoSmithKline, Research Triangle Park, NC 27709
+GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-©2012, GlaxoSmithKline Rev.
-7/12
+©2014, the GSK group of companies Rev.
+8/14
 
-10000000107277
+10000000127121
 
 Principal Display Panel
 
@@ -130,11 +130,11 @@ Extended-release Capsules
 
 80 mg
 
+ONCE-A-DAY DOSING
+
 30 Capsules
 
 Rx only
-
-ONCE-A-DAY DOSING
 
 www.CoregCR.com
 
@@ -149,11 +149,11 @@ This extended-release capsule formulation differs in strength from COREG® table
 Keep this and all drugs out of the reach of children.
 In case of accidental overdose, seek professional help or contact a poison control center immediately.
 
-GlaxoSmithKline, Research Triangle Park, NC 27709
+GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-©2012, GlaxoSmithKline Rev.
-7/12
+©2014, the GSK group of companies Rev.
+8/14
 
-10000000107278
+10000000127122
