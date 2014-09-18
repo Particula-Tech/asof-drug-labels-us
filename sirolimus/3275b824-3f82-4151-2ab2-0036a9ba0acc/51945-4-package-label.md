@@ -1,34 +1,40 @@
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG/ML ORAL SOLUTION – PATIENT KIT
+# PRINCIPAL DISPLAY PANEL - 1 mg/mL Oral Solution Kit Carton
 
-NDC 0008-1030-06
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-60 mL Patient Kit
-
-Rapamune® (sirolimus) Oral Solution 1 mg/mL
-
-Rx only
-
-For oral use only.
-
-Each mL of RAPAMUNE contains 1 mg sirolimus.
-
-1.5%-2.5% ethanol
-
-Also contains a mixture of propylene glycol and phosphatidylcholine derived from soy lecithin (and other components) and polysorbate 80.
-
-Pfizer
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG/ML ORAL SOLUTION – LABEL
-
-NDC 0008-1030-04
-
-60 mL
+Pfizer NDC 0008-1030-06
 
 Rapamune®
 
-(sirolimus)
+(sirolimus) Oral Solution
 
-Oral Solution 1 mg/mL
+1 mg/mL
+
+For oral use only.
+
+Each mL of RAPAMUNE contains 1 mg sirolimus.
+1.5%-2.5% ethanol
+
+Also contains a mixture of propylene glycol and phosphatidylcholine derived from soy lecithin (and other components) and polysorbate 80.
+
+60 mL Patient Kit Rx only
+
+Each Rapamune Oral Solution carton contains: a) A 2 oz.
+(60 mL fill) amber glass bottle of sirolimus (concentration of 1 mg/mL) b) 1 oral syringe adapter for fitting into the neck of the bottle c) 30 amber oral syringes and 30 caps for daily dosing d) 1 carrying case
+
+Also contains: Package Insert and Medication Guide
+
+You will also need: • glass or plastic cup • 6 oz. of water or orange juice only
+
+# PRINCIPAL DISPLAY PANEL - 1 mg/mL Oral Solution Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0008-1030-04
+
+Rapamune® (sirolimus) Oral Solution
+
+1 mg/mL
 
 For oral use only.
 
@@ -38,21 +44,17 @@ Each mL of RAPAMUNE contains 1 mg sirolimus.
 
 Also contains a mixture of propylene glycol and phosphatidylcholine derived from soy lecithin (and other components) and polysorbate 80.
 
-Rx only
+60 mL Rx only
 
-Wyeth®
+# PRINCIPAL DISPLAY PANEL - 1 mg/mL Oral Solution Bottle Carton
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG/ML ORAL SOLUTION – CARTON
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-NDC 0008-1030-04
+Pfizer NDC 0008-1030-04
 
-Rapamune®
+Rapamune® (sirolimus) Oral Solution
 
-(sirolimus)
-
-Oral Solution 1 mg/mL
-
-60 mL bottle
+1 mg/mL
 
 For oral use only.
 
@@ -62,25 +64,21 @@ Each mL of RAPAMUNE contains 1 mg sirolimus.
 
 Also contains a mixture of propylene glycol and phosphatidylcholine derived from soy lecithin (and other components) and polysorbate 80.
 
-Rx only
+60 mL bottle Rx only
 
-Wyeth®
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Bottle Label
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 TABLETS
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-NDC 0008-1040-05
+Pfizer NDC 0008-1040-05
 
-100 Tablets
+Rapamune® (sirolimus) Tablets
 
-Rapamune® (sirolimus)
-
-Rx Only
-
-0.5 mg Tablets
+0.5 mg
 
 For oral use only.
 
-Pfizer
+100 Tablets Rx only
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.5 MG TABLETS - REDIPAK®BLISTER
 
@@ -96,37 +94,33 @@ Wyeth Sub of Pfizer Inc Phila, PA 19101
 
 EXP AND LOT AREA
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.5 MG TABLETS – CARTON
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Blister Pack Carton
 
-NDC 0008-1040-10
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Rx Only
+Pfizer NDC 0008-1040-10
 
-Rapamune® (sirolimus)
+Rapamune® (sirolimus) Tablets
 
-0.5 mg Tablets
-
-For oral use only.
-
-DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY
-
-10 blister cards of 10 tablets each (100 tablets total)
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS – LABEL
-
-NDC 0008-1041-05
-
-100 Tablets
-
-Rapamune® (sirolimus)
-
-Rx Only
-
-1 mg Tablets
+0.5 mg
 
 For oral use only.
 
-Pfizer
+Unit Dose - 100 Tablets (10 Blister Cards of 10 Tablets Each) Rx only
+
+# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0008-1041-05
+
+Rapamune® (sirolimus) Tablets
+
+1 mg
+
+For oral use only.
+
+100 Tablets Rx only
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS - REDIPAK®BLISTER
 
@@ -142,34 +136,30 @@ Wyeth Sub of Pfizer Inc Phila, PA 19101
 
 EXP AND LOT AREA
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS – CARTON
+# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Blister Pack Carton
 
-NDC 0008-1041-10
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Rx Only
+Pfizer NDC 0008-1041-10
 
-Rapamune® (sirolimus)
+Rapamune® (sirolimus) Tablets
 
-1 mg Tablets
-
-For oral use only.
-
-DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY
-
-10 blister cards of 10 tablets each (100 tablets total)
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 2 MG TABLETS – LABEL
-
-NDC 0008-1042-05
-
-100 Tablets
-
-Rapamune® (sirolimus)
-
-Rx Only
-
-2 mg Tablets
+1 mg
 
 For oral use only.
 
-Pfizer
+Unit Dose - 100 Tablets (10 Blister Cards of 10 Tablets Each) Rx only
+
+# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0008-1042-05
+
+Rapamune® (sirolimus) Tablets
+
+2 mg
+
+For oral use only.
+
+100 Tablets Rx only
