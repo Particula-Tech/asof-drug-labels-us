@@ -1,17 +1,16 @@
 # DESCRIPTION
 
-Desoximetasone Cream USP, 0.05%; Desoximetasone Cream USP, 0.25% and Desoximetasone Gel USP, 0.05% contain desoximetasone a synthetic fluorinated corticosteroid for topical dermatologic use.
-The corticosteroids constitute a class of primarily synthetic steroids used topically as anti-inflammatory and anti-pruritic agents.
+Desoximetasone cream USP, 0.05%, desoximetasone cream USP, 0.25%, and desoximetasone gel USP, 0.05% contain the active synthetic corticosteroid desoximetasone.
+The topical corticosteroids constitute a class of primarily synthetic steroids used as anti-inflammatory and antipruritic agents.
 
-Chemically, desoximetasone is Pregna-1, 4-diene-3, 20-dione, 9-fluoro-11,21-dihydroxy-16-methyl-, (11β, 16α)-.
-It has the molecular formula C22H29FO4 and a molecular weight of 376.47.
+Each gram of desoximetasone cream USP, 0.05% contains 0.5 mg of desoximetasone in an emollient cream base consisting of cetostearyl alcohol, edetate disodium, isopropyl myristate, lanolin alcohol, mineral oil, purified water, and white petrolatum.
+
+Each gram of desoximetasone cream USP, 0.25% contains 2.5 mg of desoximetasone in an emollient cream base consisting of cetostearyl alcohol, isopropyl myristate, lanolin alcohol, mineral oil, purified water, and white petrolatum.
+
+Each gram of desoximetasone gel USP, 0.05% contains 0.5 mg of desoximetasone in a gel base consisting of carbomer 940, docusate sodium, edetate disodium, isopropyl myristate, purified water, SDAG-3 95% alcohol, and trolamine.
+
+The chemical name of desoximetasone is Pregna-1, 4-diene-3, 20-dione, 9-fluoro-11, 21-dihydroxy-16-methyl-,(11β,16α)-.
+Desoximetasone has the molecular formula C22H29FO4 and a molecular weight of 376.47.
 The CAS Registry Number is 382-67-2.
-The chemical structure is:
 
-Desoximetasone is a white to off-white, odorless, crystalline powder and is soluble in alcohol, acetone, chloroform, and hot ethyl acetate; slightly soluble in ether and benzene; and insoluble in water, dilute aqueous acids and alkalis.
-
-Each gram of Desoximetasone Cream USP, 0.05% contains 0.5 mg of desoximetasone in an emollient cream consisting of white petrolatum, purified water, isopropyl myristate, lanolin alcohols, mineral oil, cetostearyl alcohol and edetate disodium.
-
-Each gram of Desoximetasone Cream USP, 0.25% contains 2.5 mg of desoximetasone in an emollient cream consisting of white petrolatum, purified water, isopropyl myristate, lanolin alcohols, mineral oil and cetostearyl alcohol.
-
-Each gram of Desoximetasone Gel USP, 0.05% contains 0.5 mg of desoximetasone in a gel base consisting of purified water, docusate sodium, edetate disodium, isopropyl myristate, carbomer 940, trolamine, and SDAG-3 95% alcohol.
+The structural formula is:
