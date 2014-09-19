@@ -5,7 +5,7 @@
 The mechanism of action of sertraline is presumed to be linked to its inhibition of CNS neuronal uptake of serotonin (5HT).
 Studies at clinically relevant doses in man have demonstrated that sertraline blocks the uptake of serotonin into human platelets.
 In vitro studies in animals also suggest that sertraline is a potent and selective inhibitor of neuronal serotonin reuptake and has only very weak effects on norepinephrine and dopamine neuronal reuptake.
-In vitro studies have shown that sertraline has no significant affinity for adrenergic (alpha 1 , alpha 2 , beta), cholinergic, GABA, dopaminergic, histaminergic, serotonergic (5HT 1A , 5HT 1B , 5HT 2 ), or benzodiazepine receptors; antagonism of such receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects for other psychotropic drugs.
+In vitro studies have shown that sertraline has no significant affinity for adrenergic (alpha1, alpha2, beta), cholinergic, GABA, dopaminergic, histaminergic, serotonergic (5HT1A, 5HT1B, 5HT2), or benzodiazepine receptors; antagonism of such receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects for other psychotropic drugs.
 The chronic administration of sertraline was found in animals to down regulate brain norepinephrine receptors, as has been observed with other drugs effective in the treatment of major depressive disorder.
 Sertraline does not inhibit monoamine oxidase.
 
@@ -13,16 +13,17 @@ Sertraline does not inhibit monoamine oxidase.
 
 ### Systemic Bioavailability
 
-In man, following oral once-daily dosing over the range of 50 to 200 mg for 14 days, mean peak plasma concentrations (C max ) of sertraline occurred between 4.5 to 8.4 hours post-dosing.
+In man, following oral once-daily dosing over the range of 50 to 200 mg for 14 days, mean peak plasma concentrations (Cmax) of sertraline occurred between 4.5 to 8.4 hours post-dosing.
 The average terminal elimination half-life of plasma sertraline is about 26 hours.
 Based on this pharmacokinetic parameter, steady-state sertraline plasma levels should be achieved after approximately one week of once-daily dosing.
-Linear dose-proportional pharmacokinetics were demonstrated in a single dose study in which the C max and area under the plasma concentration time curve (AUC) of sertraline were proportional to dose over a range of 50 to 200 mg.
+Linear dose-proportional pharmacokinetics were demonstrated in a single dose study in which the Cmax and area under the plasma concentration time curve (AUC) of sertraline were proportional to dose over a range of 50 to 200 mg.
 Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation, compared to a single dose, of sertraline with repeated dosing over a 50 to 200 mg dose range.
 The single dose bioavailability of sertraline tablets is approximately equal to an equivalent dose of solution.
-In a relative bioavailability study comparing the pharmacokinetics of 100 mg sertraline as the oral solution to a 100 mg sertraline tablet in 16 healthy adults, the solution to tablet ratio of geometric mean AUC and C max values were 114.8% and 120.6%, respectively.
-90% confidence intervals (CI) were within the range of 80 to 125% with the exception of the upper 90% CI limit for C max which was 126.5%.
-The effects of food on the bioavailability of the sertraline oral concentrate was studied in subjects administered a single dose with and without food.
-For the oral concentrate, T max was slightly prolonged from 5.9 hours to 7 hours with food.
+In a relative bioavailability study comparing the pharmacokinetics of 100 mg sertraline as the oral solution to a 100 mg sertraline tablet in 16 healthy adults, the solution to tablet ratio of geometric mean AUC and Cmax values were 114.8% and 120.6%, respectively.
+90% confidence intervals (CI) were within the range of 80 to 125% with the exception of the upper 90% CI limit for Cmax which was 126.5%.
+The effects of food on the bioavailability of the sertraline tablet and oral solution were studied in subjects administered a single dose with and without food.
+For the tablet, AUC was slightly increased when drug was administered with food but the Cmax was 25% greater, while the time to reach peak plasma concentration (Tmax) decreased from 8 hours post-dosing to 5.5 hours.
+For the oral solution, Tmax was slightly prolonged from 5.9 hours to 7 hours with food.
 
 ### Metabolism
 
@@ -35,23 +36,23 @@ In a study of radiolabeled sertraline involving two healthy male subjects, sertr
 About 40 to 45% of the administered radioactivity was recovered in urine in 9 days.
 Unchanged sertraline was not detectable in the urine.
 For the same period, about 40 to 45% of the administered radioactivity was accounted for in feces, including 12 to 14% unchanged sertraline.
-Desmethylsertraline exhibits time-related, dose dependent increases in AUC (0 to 24 hour) , C max and C min , with about a 5 to 9 fold increase in these pharmacokinetic parameters between day 1 and day 14.
+Desmethylsertraline exhibits time-related, dose dependent increases in AUC (0 to 24 hour), Cmax and Cmin, with about a 5 to 9 fold increase in these pharmacokinetic parameters between day 1 and day 14.
 
 ### Protein Binding
 
-In vitro protein binding studies performed with radiolabeled 3 H-sertraline showed that sertraline is highly bound to serum proteins (98%) in the range of 20 to 500 ng/mL.
-However, at up to 300 and 200 ng/mL concentrations, respectively, sertraline and N-desmethylsertraline did not alter the plasma protein binding of two other highly protein bound drugs, viz., warfarin and propranolol (see PRECAUTIONS ).
+In vitro protein binding studies performed with radiolabeled 3H-sertraline showed that sertraline is highly bound to serum proteins (98%) in the range of 20 to 500 ng/mL.
+However, at up to 300 and 200 ng/mL concentrations, respectively, sertraline and N-desmethylsertraline did not alter the plasma protein binding of two other highly protein bound drugs, viz., warfarin and propranolol (see PRECAUTIONS).
 
 ## Pediatric Pharmacokinetics
 
 Sertraline pharmacokinetics were evaluated in a group of 61 pediatric patients (29 aged 6 to 12 years, 32 aged 13 to 17 years) with a DSM-III-R diagnosis of major depressive disorder or obsessive-compulsive disorder.
 Patients included both males (N=28) and females (N=33).
 During 42 days of chronic sertraline dosing, sertraline was titrated up to 200 mg/day and maintained at that dose for a minimum of 11 days.
-On the final day of sertraline 200 mg/day, the 6 to 12 year old group exhibited a mean sertraline AUC (0 to 24 hr) of 3107 ng-hr/mL, mean C max of 165 ng/mL, and mean half-life of 26.2 hr. The 13 to 17 year old group exhibited a mean sertraline AUC (0 to 24 hr) of 2296 ng-hr/mL, mean C max of 123 ng/mL, and mean half-life of 27.8 hr. Higher plasma levels in the 6 to 12 year old group were largely attributable to patients with lower body weights.
+On the final day of sertraline 200 mg/day, the 6 to 12 year old group exhibited a mean sertraline AUC (0 to 24 hr) of 3107 ng-hr/mL, mean Cmax of 165 ng/mL, and mean half-life of 26.2 hr. The 13 to 17 year old group exhibited a mean sertraline AUC (0 to 24 hr) of 2296 ng-hr/mL, mean Cmax of 123 ng/mL, and mean half-life of 27.8 hr. Higher plasma levels in the 6 to 12 year old group were largely attributable to patients with lower body weights.
 No gender associated differences were observed.
-By comparison, a group of 22 separately studied adults between 18 and 45 years of age (11 male, 11 female) received 30 days of 200 mg/day sertraline and exhibited a mean sertraline AUC (0 to 24 hr) of 2570 ng-hr/mL, mean C max of 142 ng/mL, and mean half-life of 27.2 hr. Relative to the adults, both the 6 to 12 year olds and the 13 to 17 year olds showed about 22% lower AUC (0 to 24 hr) and C max values when plasma concentration was adjusted for weight.
+By comparison, a group of 22 separately studied adults between 18 and 45 years of age (11 male, 11 female) received 30 days of 200 mg/day sertraline and exhibited a mean sertraline AUC (0 to 24 hr) of 2570 ng-hr/mL, mean Cmax of 142 ng/mL, and mean half-life of 27.2 hr. Relative to the adults, both the 6 to 12 year olds and the 13 to 17 year olds showed about 22% lower AUC (0 to 24 hr) and Cmax values when plasma concentration was adjusted for weight.
 These data suggest that pediatric patients metabolize sertraline with slightly greater efficiency than adults.
-Nevertheless, lower doses may be advisable for pediatric patients given their lower body weights, especially in very young patients, in order to avoid excessive plasma levels (see DOSAGE AND ADMINISTRATION ).
+Nevertheless, lower doses may be advisable for pediatric patients given their lower body weights, especially in very young patients, in order to avoid excessive plasma levels (see DOSAGE AND ADMINISTRATION).
 
 ### Age
 
@@ -67,13 +68,13 @@ The exposure to desmethylsertraline was approximately 2-fold greater compared to
 There were no significant differences in plasma protein binding observed between the two groups.
 The effects of sertraline in patients with moderate and severe hepatic impairment have not been studied.
 The results suggest that the use of sertraline in patients with liver disease must be approached with caution.
-If sertraline is administered to patients with liver impairment, a lower or less frequent dose should be used (see PRECAUTIONS and DOSAGE AND ADMINISTRATION ).
+If sertraline is administered to patients with liver impairment, a lower or less frequent dose should be used (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 ### Renal Disease
 
 Sertraline is extensively metabolized and excretion of unchanged drug in urine is a minor route of elimination.
 In volunteers with mild to moderate (CLcr=30 to 60 mL/min), moderate to severe (CLcr=10 to 29 mL/min) or severe (receiving hemodialysis) renal impairment (N=10 each group), the pharmacokinetics and protein binding of 200 mg sertraline per day maintained for 21 days were not altered compared to age-matched volunteers (N=12) with no renal impairment.
-Thus sertraline multiple dose pharmacokinetics appear to be unaffected by renal impairment (see PRECAUTIONS ).
+Thus sertraline multiple dose pharmacokinetics appear to be unaffected by renal impairment (see PRECAUTIONS).
 
 ## Clinical Trials
 
@@ -132,7 +133,8 @@ The mean duration of PTSD for these patients was 12 years (Studies 1 and 2 combi
 Studies 1 and 2 were 12-week flexible dose studies.
 Sertraline hydrochloride was initiated at 25 mg/day for the first week, and patients were then dosed in the range of 50 to 200 mg/day on the basis of clinical response and toleration.
 The mean sertraline hydrochloride dose for completers was 146 mg/day and 151 mg/day, respectively for Studies 1 and 2.
-Study outcome was assessed by the Clinician-Administered PTSD Scale Part 2 (CAPS) which is a multi-item instrument that measures the three PTSD diagnostic symptom clusters of reexperiencing/intrusion, avoidance/numbing, and hyperarousal as well as the patient-rated Impact of Event Scale (IES) which measures intrusion and avoidance symptoms.Sertraline hydrochloride was shown to be significantly more effective than placebo on change from baseline to endpoint on the CAPS, IES and on the Clinical Global Impressions (CGI) Severity of Illness and Global Improvement scores.
+Study outcome was assessed by the Clinician-Administered PTSD Scale Part 2 (CAPS) which is a multi-item instrument that measures the three PTSD diagnostic symptom clusters of reexperiencing/intrusion, avoidance/numbing, and hyperarousal as well as the patient-rated Impact of Event Scale (IES) which measures intrusion and avoidance symptoms.
+Sertraline hydrochloride was shown to be significantly more effective than placebo on change from baseline to endpoint on the CAPS, IES and on the Clinical Global Impressions (CGI) Severity of Illness and Global Improvement scores.
 In two additional placebo-controlled PTSD trials, the difference in response to treatment between patients receiving sertraline hydrochloride and patients receiving placebo was not statistically significant.
 One of these additional studies was conducted in patients similar to those recruited for Studies 1 and 2, while the second additional study was conducted in predominantly male veterans.
 As PTSD is a more common disorder in women than men, the majority (76%) of patients in these trials were women (152 and 139 women on sertraline and placebo versus 39 and 55 men on sertraline and placebo; Studies 1 and 2 combined).
@@ -152,7 +154,7 @@ The mean duration of PMDD symptoms for these patients was approximately 10.5 yea
 Patients on oral contraceptives were excluded from these trials; therefore, the efficacy of sertraline in combination with oral contraceptives for the treatment of PMDD is unknown.
 Efficacy was assessed with the Daily Record of Severity of Problems (DRSP), a patient-rated instrument that mirrors the diagnostic criteria for PMDD as identified in the DSM-IV, and includes assessments for mood, physical symptoms, and other symptoms.
 Other efficacy assessments included the Hamilton Depression Rating Scale (HAMD-17), and the Clinical Global Impression Severity of Illness (CGI-S) and Improvement (CGI-I) scores.
-In Study 1, involving n=251 randomized patients, sertraline hydrochloride treatment was initiated at 50 mg/day and administered daily throughout the menstrual cycle.
+In Study 1, involving n=251 randomized patients; sertraline hydrochloride treatment was initiated at 50 mg/day and administered daily throughout the menstrual cycle.
 In subsequent cycles, patients were dosed in the range of 50 to 150 mg/day on the basis of clinical response and toleration.
 The mean dose for completers was 102 mg/day.
 Sertraline hydrochloride administered daily throughout the menstrual cycle was significantly more effective than placebo on change from baseline to endpoint on the DRSP total score, the HAMD-17 total score, and the CGI-S score, as well as the CGI-I score at endpoint.
