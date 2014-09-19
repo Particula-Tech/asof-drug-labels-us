@@ -1,7 +1,6 @@
 {
   "application_numbers": [
     "NDA019949",
-    "NDA019950",
     "NDA020090"
   ],
   "inn": "fluconazole",
@@ -12,20 +11,11 @@
     "59762-5017-1",
     "59762-5018-1",
     "59762-5029-1",
-    "59762-5030-1",
-    "59762-5034-2",
-    "59762-5035-2",
-    "59762-5036-2",
-    "59762-5037-2"
+    "59762-5030-1"
   ],
   "products": [
     {
       "form": "POWDER, FOR SUSPENSION",
-      "generic": "fluconazole",
-      "name": "Fluconazole"
-    },
-    {
-      "form": "SOLUTION",
       "generic": "fluconazole",
       "name": "Fluconazole"
     },

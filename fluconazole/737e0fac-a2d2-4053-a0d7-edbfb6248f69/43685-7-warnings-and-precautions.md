@@ -15,9 +15,10 @@ In rare cases, anaphylaxis has been reported.
 
 ## (3) Dermatologic
 
-Patients have rarely developed exfoliative skin disorders during treatment with fluconazole.
-In patients with serious underlying diseases (predominantly AIDS and malignancy), these have rarely resulted in a fatal outcome.
-Patients who develop rashes during treatment with fluconazole should be monitored closely and the drug discontinued if lesions progress.
+Exfoliative skin disorders during treatment with fluconazole have been reported.
+Fatal outcomes have been reported in patients with serious underlying diseases.
+Patients with deep seated fungal infections who develop rashes during treatment with fluconazole should be monitored closely and the drug discontinued if lesions progress.
+Fluconazole should be discontinued in patients treated for superficial fungal infection who develop a rash that may be attributed to fluconazole.
 
 ## (4) Use in Pregnancy
 
@@ -64,7 +65,7 @@ The enzyme inhibiting effect of fluconazole persists 4–5 days after discontinu
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed.
 These are described in greater detail below:
 
-Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Voriconazole Theophylline Terfenadine Cisapride Astemizole Rifabutin Tacrolimus Short-acting benzodiazepines Tofacitinib Triazolam Oral Contraceptives Pimozide Hydrochlorothiazide Alfentanil Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine
+Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Theophylline Terfenadine Cisapride Astemizole Rifabutin Voriconazole Tacrolimus Short-acting benzodiazepines Tofacitinib Triazolam Oral Contraceptives Pimozide Quinidine Hydrochlorothiazide Alfentanil Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine
 
 ### Oral hypoglycemics
 
@@ -89,9 +90,10 @@ Careful monitoring of phenytoin concentrations in patients receiving fluconazole
 
 ### Cyclosporine
 
-Fluconazole may significantly increase cyclosporine levels in renal transplant patients with or without renal impairment.
+Fluconazole significantly increases cyclosporine levels in renal transplant patients with or without renal impairment.
 Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving fluconazole and cyclosporine.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies).
+This combination may be used by reducing the dosage of cyclosporine depending on cyclosporine concentration.
 
 ### Rifampin
 
@@ -145,7 +147,8 @@ Monitoring for adverse events and toxicity related to voriconazole is recommende
 Fluconazole may increase the serum concentrations of orally administered tacrolimus up to 5 times due to inhibition of tacrolimus metabolism through CYP3A4 in the intestines.
 No significant pharmacokinetic changes have been observed when tacrolimus is given intravenously.
 Increased tacrolimus levels have been associated with nephrotoxicity.
-Dosage of orally administered tacrolimus should be decreased depending on tacrolimus concentration.(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+Dosage of orally administered tacrolimus should be decreased depending on tacrolimus concentration.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 ### Short-acting Benzodiazepines
 
@@ -156,8 +159,8 @@ If short-acting benzodiazepines, which are metabolized by the cytochrome P450 sy
 
 ### Tofacitinib
 
-Exposure is increased when tofacitinib is coadministered with medications that result in both moderate inhibition of CYP3A4 and potent inhibition of CYP2C19 (e.g., fluconazole).
-Reduced daily dose of tofacitinib should be considered when given concomitantly with fluconazole.
+Systemic exposure to tofacitinib is increased when tofacitinib is coadministered with fluconazole, a combined moderate CYP3A4 and potent CYP2C19 inhibitor.
+Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label).
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 ### Triazolam
@@ -176,6 +179,13 @@ Thus, multiple dose use of fluconazole at these doses is unlikely to have an eff
 Although not studied in vitro or in vivo, concomitant administration of fluconazole with pimozide may result in inhibition of pimozide metabolism.
 Increased pimozide plasma concentrations can lead to QT prolongation and rare occurrences of torsade de pointes.
 Coadministration of fluconazole and pimozide is contraindicated.
+
+### Quinidine
+
+Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
+Use of quinidine has been associated with QT prolongation and rare occurrences of torsades de pointes.
+Coadministration of fluconazole and quinidine is contraindicated.
+(See CONTRAINDICATIONS.)
 
 ### Hydrochlorothiazide
 
@@ -245,7 +255,7 @@ HMG-CoA reductase inhibitors should be discontinued if a marked increase in crea
 
 ### Losartan
 
-Fluconazole inhibits the metabolism of losartan to its active metabolite (E-31 74) which is responsible for most of the angiotensin Il-receptor antagonism which occurs during treatment with losartan.
+Fluconazole inhibits the metabolism of losartan to its active metabolite (E-31 74) which is responsible for most of the angiotensin II-receptor antagonism which occurs during treatment with losartan.
 Patients should have their blood pressure monitored continuously.
 
 ### Methadone
@@ -346,7 +356,7 @@ Maternal weight gain was impaired at all dose levels (approximately 0.25 to 4 ti
 In several studies in which pregnant rats received fluconazole orally during organogenesis, maternal weight gain was impaired and placental weights were increased at 25 mg/kg.
 There were no fetal effects at 5 or 10 mg/kg; increases in fetal anatomical variants (supernumerary ribs, renal pelvis dilation) and delays in ossification were observed at 25 and 50 mg/kg and higher doses.
 At doses ranging from 80 to 320 mg/kg (approximately 2 to 8 times the 400 mg clinical dose based on BSA), embryolethality in rats was increased and fetal abnormalities included wavy ribs, cleft palate, and abnormal cranio-facial ossification.
-These effects are consistent with the inhibition of estrogen synthesis in rats and may be a result of known effects of lowered estrogen on pregnancy, organogenesis, and parturition
+These effects are consistent with the inhibition of estrogen synthesis in rats and may be a result of known effects of lowered estrogen on pregnancy, organogenesis, and parturition.
 
 ## Nursing Mothers
 

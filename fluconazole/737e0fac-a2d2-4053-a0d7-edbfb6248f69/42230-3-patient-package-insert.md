@@ -36,7 +36,7 @@ If you get a vaginal yeast infection, you may have any of the following symptoms
 - soreness
 - a thick white vaginal discharge that looks like cottage cheese
 
-What to Tell Your Doctor Before You Start FLUCONAZOLE?
+What To Tell Your Doctor Before You Start FLUCONAZOLE?
 
 Do not take FLUCONAZOLE if you take certain medicines.
 They can cause serious problems.
@@ -119,7 +119,7 @@ If you cannot reach your doctor, go to the nearest hospital emergency room.
 Signs of an allergic reaction can include shortness of breath; coughing; wheezing; fever; chills; throbbing of the heart or ears; swelling of the eyelids, face, mouth, neck, or any other part of the body; or skin rash, hives, blisters or skin peeling.
 
 FLUCONAZOLE has been linked to rare cases of serious liver damage, including deaths, mostly in patients with serious medical problems.
-Call your doctor if your skin or eyes become yellow, your urine turns a darker color, your stool (bowel movements) are light-colored, or if you vomit or feel like vomiting or if you have severe skin itching.
+Call your doctor if your skin or eyes become yellow, your urine turns a darker color, your stools (bowel movements) are light-colored, or if you vomit or feel like vomiting or if you have severe skin itching.
 
 In patients with serious conditions such as AIDS or cancer, rare cases of severe rashes with skin peeling have been reported.
 Tell your doctor right away if you get a rash while taking FLUCONAZOLE.
@@ -128,7 +128,7 @@ FLUCONAZOLE may cause other less common side effects besides those listed here.
 If you develop any side effects that concern you, call your doctor.
 For a list of all side effects, ask your doctor or pharmacist.
 
-What to Do for an Overdose?
+What to Do For an Overdose?
 
 In case of an accidental overdose, call your doctor right away or go to the nearest emergency room.
 
@@ -150,4 +150,4 @@ You can ask your pharmacist or doctor for information about FLUCONAZOLE that is 
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com
 
-LAB-0367-7.0 August 2013
+LAB-0367-8.0 September 2014

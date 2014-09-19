@@ -17,7 +17,7 @@ NDC 59762-5016-1 Bottles of 30
 
 Fluconazole 150 mg Tablets: Embossed with "FLZ 150" on one side with no markings on the other side.
 
-NDC 59762-5017-1 Unit dose package of 1
+NDC 59762-5017-1 Unit dose package of 12
 
 Fluconazole 200 mg Tablets: Embossed with "FLZ 200" on one side with no markings on the other side.
 
