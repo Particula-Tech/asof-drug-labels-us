@@ -39,7 +39,7 @@ Prolonged severe hypoglycemia (4 to 10 days) has been reported in neonates born 
 ## 8.3 Nursing Mothers
 
 No studies have been conducted with the combined components of DUETACT.
-In studies performed with the individual components, pioglitazone was secreted in the milk of lactating rats and significant concentrations of glimepiride were present in the serum and breast milk of the dams and serum of the pups.
+In studies performed with the individual components, pioglitazone was secreted in the milk of lactating rats and significant concentrations of glimepiride were observed in the serum and breast milk of the dams and serum of the pups.
 It is not known whether pioglitazone or glimepiride are secreted in human milk.
 However, other sulfonylureas are excreted in human milk.
 Because many drugs are excreted in human milk, and because of the potential for DUETACT to cause serious adverse reactions in nursing infants, a decision should be made to discontinue nursing or discontinue DUETACT, taking into account the importance of DUETACT to the mother.

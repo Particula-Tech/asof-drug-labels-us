@@ -15,7 +15,7 @@ If therapy with a combination tablet containing pioglitazone and glimepiride is 
   Observe for hypoglycemia for one to two weeks due to the potential overlapping drug effect.
 - •for patients with systolic dysfunction, the lowest approved dose of DUETACT should be prescribed only after titration from 15 mg to 30 mg of pioglitazone has been safely tolerated.
 
-After initiation of DUETACT or with dose increase, monitor patients carefully for hypoglycemia and adverse reactions related to fluid retention such as weight gain, edema, and signs and symptoms of congestive heart failure [see Boxed Warning and Warnings and Precautions (5.7)].
+After initiation of DUETACT or with dose increase, monitor patients carefully for hypoglycemia and adverse reactions related to fluid retention such as weight gain, edema, and signs and symptoms of congestive heart failure [see BoxedWarning and Warnings and Precautions (5.7)].
 
 Liver tests (serum alanine and aspartate aminotransferases, alkaline phosphatase, and total bilirubin) should be obtained prior to initiating DUETACT.
 Routine periodic monitoring of liver tests during treatment with DUETACT is not recommended in patients without liver disease.
@@ -37,4 +37,4 @@ If gemfibrozil or other CYP2C8 inhibitors need to co-administered, patients shou
 ## 2.4 Concomitant Use with Colesevelam
 
 When colesevelam is coadministered with glimepiride, maximum plasma concentration and total exposure to glimepiride is reduced.
-Therefore, DUETACT should be administered at least four hours prior to colesevelam [see Drug Interactions (7.6) and Clinical Pharmacology (12.3)].
+Therefore, DUETACT should be administered at least four hours prior to colesevelam [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].

@@ -295,7 +295,6 @@ Glimepiride
 - •Hemolytic anemia in patients with and without G6PD deficiency [see Warnings and Precautions (5.9)]
 - •Impairment of liver function (e.g. with cholestasis and jaundice), as well as hepatitis, which may progress to liver failure.
 - •Porphyria cutanea tarda, photosensitivity reactions and allergic vasculitis
-- •Leukopenia, agranulocytosis, aplastic anemia, and pancytopenia
-- •Thrombocytopenia (including severe cases with platelet count less than 10,000/mcL) and thrombocytopenic purpura
+- •Leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia, and pancytopenia
 - •Hepatic porphyria reactions and disulfiram-like reactions
 - •Hyponatremia and syndrome of inappropriate antidiuretic hormone secretion (SIADH), most often in patients who are on other medications or who have medical conditions known to cause hyponatremia or increase release of antidiuretic hormone
