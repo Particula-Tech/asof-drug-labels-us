@@ -1,6 +1,4 @@
-# MEDICATION GUIDE
-
-Epogen® (Ee-po-jen) (epoetin alfa)
+MEDICATION GUIDE Epogen® (Ee-po-jen) (epoetin alfa)
 
 Read this Medication Guide:
 
@@ -24,24 +22,16 @@ For all people who take Epogen, including people with cancer or chronic kidney d
 
 - Serious heart problems, such as heart attack or heart failure, and stroke.
   You may die sooner if you are treated with Epogen to increase red blood cells (RBCs) to near the same level found in healthy people.
+
 - Blood clots.
   Blood clots may happen at any time while taking Epogen.
   If you are receiving Epogen for any reason and you are going to have surgery, talk to your healthcare provider about whether or not you need to take a blood thinner to lessen the chance of blood clots during or following surgery.
   Clots can form in blood vessels (veins), especially in your leg (deep venous thrombosis or DVT).
   Pieces of a blood clot may travel to the lungs and block the blood circulation in the lungs (pulmonary embolus).
-- Call your healthcare provider or get medical help right away if you have any of these symptoms:
-  - Chest pain
-  - Trouble breathing or shortness of breath
-  - Pain in your legs, with or without swelling
-  - A cool or pale arm or leg
-  - Sudden confusion, trouble speaking, or trouble understanding others’ speech
-  - Sudden numbness or weakness in your face, arm, or leg, especially on one side of your body
-  - Sudden trouble seeing
-  - Sudden trouble walking, dizziness, loss of balance or coordination
-  - Loss of consciousness (fainting)
-  - Hemodialysis vascular access stops working
 
-See “What are the possible side effects of Epogen?" below for more information.
+- Call your healthcare provider or get medical help right away if you have any of these symptoms: • Chest pain • Trouble breathing or shortness of breath • Pain in your legs, with or without swelling • A cool or pale arm or leg • Sudden confusion, trouble speaking, or trouble understanding others’ speech • Sudden numbness or weakness in your face, arm, or leg, especially on one side of your body • Sudden trouble seeing • Sudden trouble walking, dizziness, loss of balance or coordination • Loss of consciousness (fainting) • Hemodialysis vascular access stops working
+
+See “What are the possible side effects of Epogen?”below for more information.
 
 If you decide to take Epogen, your healthcare provider should prescribe the smallest dose of Epogen that is necessary to reduce your chance of needing RBC transfusions.
 
@@ -103,7 +93,7 @@ Tell your healthcare provider about all your health conditions, including if you
 - Are pregnant or planning to become pregnant.
   It is not known if Epogen may harm your unborn baby.
   Talk to your healthcare provider about possible pregnancy and birth control choices that are right for you.
-  If you are pregnant, discuss with your healthcare provider about enrolling in Amgen's Pregnancy Surveillance Program or call 1-800-772-6436 (1-800-77-AMGEN).
+  If you are pregnant, discuss with your healthcare provider about enrolling in Amgen’s Pregnancy Surveillance Program or call 1-800-772-6436 (1-800-77-AMGEN).
 - Are breastfeeding or planning to breastfeed.
   It is not known if Epogen passes into breast milk.
 
@@ -121,35 +111,40 @@ How should I take Epogen?
   - Your healthcare provider will show you how much Epogen to use, how to inject it, how often it should be injected, and how to safely throw away the used vials, syringes, and needles.
   - If you miss a dose of Epogen, call your healthcare provider right away and ask what to do.
   - If you take more than the prescribed amount of Epogen, call your healthcare provider right away.
-- During treatment with Epogen, continue to follow your healthcare provider's instructions for diet and medicines.
+- During treatment with Epogen, continue to follow your healthcare provider’s instructions for diet and medicines.
 - Have your blood pressure checked as instructed by your healthcare provider.
 
 What are the possible side effects of Epogen?
 
 Epogen may cause serious side effects.
 
-- See "What is the most important information I should know about Epogen?"
+- See “What is the most important information I should know about Epogen?”
+
 - High blood pressure.
   High blood pressure is a common side effect of Epogen in patients with chronic kidney disease.
   Your blood pressure may go up or be difficult to control with blood pressure medicine while taking Epogen.
   This can happen even if you have never had high blood pressure before.
   Your healthcare provider should check your blood pressure often.
   If your blood pressure does go up, your healthcare provider may prescribe new or more blood pressure medicine.
+
 - Seizures.
   If you have any seizures while taking Epogen, get medical help right away and tell your healthcare provider.
+
 - Antibodies to Epogen.
   Your body may make antibodies to Epogen.
   These antibodies can block or lessen your body’s ability to make RBCs and cause you to have severe anemia.
   Call your healthcare provider if you have unusual tiredness, lack of energy, dizziness, or fainting.
   You may need to stop taking Epogen.
+
 - Serious allergic reactions.
   Serious allergic reactions can cause a rash over your whole body, shortness of breath, wheezing, dizziness and fainting because of a drop in blood pressure, swelling around your mouth or eyes, fast pulse, or sweating.
   If you have a serious allergic reaction, stop using Epogen and call your healthcare provider or get medical help right away.
-- Dangers of using Epogen from multi-dose vials in newborns, infants, and pregnant or breastfeeding women.
-  Do not use Epogen from multi-dose vials in newborns, infants, pregnant or breastfeeding women because the Epogen in these vials contains benzyl alcohol.
+
+- Dangers of using Epogen from multidose vials in newborns, infants, and pregnant or breastfeeding women.
+  Do not use Epogen from multidose vials in newborns, infants, pregnant or breastfeeding women because the Epogen in these vials contains benzyl alcohol.
   Benzyl alcohol has been shown to cause brain damage, other serious side effects, and death in newborn and premature babies.
   Epogen that comes in single-dose vials does not contain benzyl alcohol.
-  See "Who should not take Epogen?"
+  See “Who should not take Epogen?”
 
 Common side effects of Epogen include:
 
@@ -204,14 +199,15 @@ Inactive Ingredients:
 
 - Multidose vials contain benzyl alcohol.
 - All vials contain albumin (human), sodium citrate, sodium chloride, and citric acid.
-- Single-dose vials containing 40,000 Units of Epogen also contain sodium phosphate monobasic monohydrate and sodium phosphate dibasic anhydrate.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
+[Amgen Logo]
 
-Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A Revised: 12/2013 © 1989-2013 Amgen Inc. All rights reserved.
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A.
 
-1xxxxxx- v5
+Revised: 04/2014
 
-PMV 5
+©1989-2014 Amgen Inc. All rights reserved.
+
+1xxxxxx- v6

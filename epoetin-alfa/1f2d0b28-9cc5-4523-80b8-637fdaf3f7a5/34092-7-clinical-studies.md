@@ -99,12 +99,14 @@ Efficacy results are shown in Table 9.
 Table 9.
 Study C1: Proportion of Patients Transfused
 
-|  | Week 5 Through Week 16 or End of Study Last-known RBC transfusion status carried forward for patients who discontinued treatment. |  |
+|  | Week 5 Through Week 16 or End of Studyb |  |
 | --- | --- | --- |
 | Chemotherapy Regimen | Epogen (n = 174) | Placebo(n = 170) |
-| All Regimens | 14% (25/174)Two-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables | 28% (48/170) |
+| All Regimens | 14% (25/174)a | 28% (48/170) |
 | Regimens without cisplatin | 14% (21/148) | 26% (35/137) |
 | Regimens containing cisplatin | 15% (4/26) | 39% (13/33) |
+
+aTwo-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables b Last-known RBC transfusion status carried forward for patients who discontinued treatment.
 
 Study C2
 
@@ -123,14 +125,16 @@ Patients were randomized to receive epoetin alfa at 150 Units/kg (n = 63) or pla
 Across all studies, 72 patients were treated with concomitant non cisplatin-containing chemotherapy regimens and 59 patients were treated with concomitant cisplatin-containing chemotherapy regimens.
 Twelve patients (19%) in the epoetin alfa arm and 10 patients (15%) in the placebo-arm dropped out prior to week 6 and are excluded from efficacy analyses.
 
-Table 10: Proportion of Patients Transfused in the Pooled Analysis for Three Times Per Week Dosing
+Table 10: Proportion of Patients Transfused in the Pooled Analysis for Three Times Per Week Dosingb
 
-|  | Week 5 Through Week 12 or End of StudyLimited to patients remaining on study beyond week 6 and includes only RBC transfusions during weeks 5-12. |  |
+|  | Week 5 Through Week 12 or End of Study |  |
 | --- | --- | --- |
 | Chemotherapy Regimen | Epogen | Placebo |
-| All Regimens | 22% (11/51)Two-sided p < 0.05, unadjusted | 43% (25/58) |
+| All Regimens | 22% (11/51)a | 43% (25/58) |
 | Regimens without cisplatin | 21% (6/29) | 33% (11/33) |
 | Regimens containing cisplatin | 23% (5/22) | 56% (14/25) |
+
+a Two-sided p < 0.05, unadjusted b Limited to patients remaining on study beyond week 6 and includes only RBC transfusions during weeks 5-12.
 
 ## 14.4 Surgery Patients
 
@@ -138,10 +142,10 @@ The safety and efficacy of Epogen were evaluated in a placebo-controlled, double
 Patients were stratified into 1 of 3 groups based on their pretreatment hemoglobin [≤ 10 g/dL (n = 2), > 10 to ≤ 13 g/dL (n = 96), and > 13 to ≤ 15 g/dL (n = 218)] and then randomly assigned to receive 300 Units/kg Epogen, 100 Units/kg Epogen, or placebo by subcutaneous injection for 10 days before surgery, on the day of surgery, and for 4 days after surgery.
 All patients received oral iron and a low-dose, postoperative warfarin regimen.
 
-Treatment with Epogen 300 Units/kg significantly (p = 0.024) reduced the risk of allogeneic RBC transfusion in patients with a pretreatment hemoglobin of > 10 to ≤ 13 g/dL; 5/31 (16%) of patients treated with Epogen 300 Units/kg, 6/26 (23%) of patients treated with Epogen 100 Units/kg, and 13/29 (45%) of placebo-treated patients were transfused.
+Treatment with Epogen 300 Units/kg significantly (p = 0.024) reduced the risk of allogeneic RBC transfusion in patients with a pretreatment hemoglobin of > 10 to £ 13 g/dL; 5/31 (16%) of patients treated with Epogen 300 Units/kg, 6/26 (23%) of patients treated with Epogen 100 Units/kg, and 13/29 (45%) of placebo-treated patients were transfused.
 There was no significant difference in the number of patients transfused between Epogen (9% 300 Units/kg, 6% 100 Units/kg) and placebo (13%) in the > 13 to ≤ 15 g/dL hemoglobin stratum.
-There were too few patients in the ≤ 10 g/dL group to determine if Epogen is useful in this hemoglobin strata.
-In the > 10 to ≤ 13 g/dL pretreatment stratum, the mean number of units transfused per Epogen-treated patient (0.45 units blood for 300 Units/kg, 0.42 units blood for 100 Units/kg) was less than the mean transfused per placebo-treated patient (1.14 units) (overall p = 0.028).
+There were too few patients in the £ 10 g/dL group to determine if Epogen is useful in this hemoglobin strata.
+In the > 10 to ≤13 g/dL pretreatment stratum, the mean number of units transfused per Epogen-treated patient (0.45 units blood for 300 Units/kg, 0.42 units blood for 100 Units/kg) was less than the mean transfused per placebo-treated patient (1.14 units) (overall p = 0.028).
 In addition, mean hemoglobin, hematocrit, and reticulocyte counts increased significantly during the presurgery period in patients treated with Epogen.
 
 Epogen was also evaluated in an open-label, parallel-group study (S2) enrolling 145 patients with a pretreatment hemoglobin level of ≥ 10 to ≤ 13 g/dL who were scheduled for major orthopedic hip or knee surgery and who were not participating in an autologous program.
@@ -149,7 +153,7 @@ Patients were randomly assigned to receive 1 of 2 subcutaneous dosing regimens o
 All patients received oral iron and appropriate pharmacologic anticoagulation therapy.
 
 From pretreatment to presurgery, the mean increase in hemoglobin in the 600 Units/kg weekly group (1.44 g/dL) was greater than that observed in the 300 Units/kg daily group.
-The mean increase in absolute reticulocyte count was smaller in the weekly group (0.11 × 106/mm3) compared to the daily group (0.17 × 106/mm3).
+The mean increase in absolute reticulocyte count was smaller in the weekly group (0.11 x 106/mm3) compared to the daily group (0.17 x 106/mm3).
 Mean hemoglobin levels were similar for the 2 treatment groups throughout the postsurgical period.
 
 The erythropoietic response observed in both treatment groups resulted in similar RBC transfusion rates [11/69 (16%) in the 600 Units/kg weekly group and 14/71 (20%) in the 300 Units/kg daily group].

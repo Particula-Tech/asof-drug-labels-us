@@ -134,18 +134,21 @@ Adverse Reactions in Surgery Patients
 
 | Adverse Reaction | Study S1 |  |  | Study S2 |  |
 | --- | --- | --- | --- | --- | --- |
-| Epogen 300 U/kg (n = 112)Study included patients undergoing orthopedic surgery treated with Epogen or placebo for 15 days. | Epogen 100 U/kg (n = 101) | Placebo (n = 103) | Epogen 600 U/kg x 4 weeks (n = 73)Study included patients undergoing orthopedic surgery treated with Epogen 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days. | Epogen 300 U/kg x 15 days (n = 72) |  |
+| Epogen 300 U/kg | Epogen 100 U/kg | Placebo | Epogen 600 U/kg x 4 weeks | Epogen 300 U/kg x 15 days |  |
+| (n = 112)a | (n = 101)a | (n = 103)a | (n = 73)b | (n = 72)b |  |
 | Nausea | 47% | 43% | 45% | 45% | 56% |
 | Vomiting | 21% | 12% | 14% | 19% | 28% |
 | Pruritus | 16% | 16% | 14% | 12% | 21% |
 | Headache | 13% | 11% | 9% | 10% | 18% |
 | Injection site pain | 13% | 9% | 8% | 12% | 11% |
 | Chills | 7% | 4% | 1% | 1% | 0% |
-| Deep vein thrombosis | 6% | 3% | 3% | 0%DVTs were determined by clinical symptoms. | 0% |
+| Deep vein thrombosis | 6% | 3% | 3% | 0%c | 0%c |
 | Cough | 5% | 4% | 0% | 4% | 4% |
 | Hypertension | 5% | 3% | 5% | 5% | 6% |
 | Rash | 2% | 2% | 1% | 3% | 3% |
 | Edema | 1% | 2% | 2% | 1% | 3% |
+
+aStudy included patients undergoing orthopedic surgery treated with Epogen or placebo for 15 days. bStudy included patients undergoing orthopedic surgery treated with Epogen 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days. cDVTs were determined by clinical symptoms.
 
 ## 6.2 Postmarketing Experience
 

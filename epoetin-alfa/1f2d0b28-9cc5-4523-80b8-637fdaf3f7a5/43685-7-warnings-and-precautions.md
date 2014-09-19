@@ -80,7 +80,7 @@ These findings were observed in studies of patients with advanced head and neck 
 Table 2.
 Randomized, Controlled Studies With Decreased Survival and/or Decreased Locoregional Control
 
-| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin(Median; Q1, Q3Q1= 25th percentile Q3= 75th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA- containing Arm |
+| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin(Median; Q1, Q3*) | Primary Efficacy Outcome | Adverse Outcome for ESA- containing Arm |
 | --- | --- | --- | --- | --- |
 | Chemotherapy |  |  |  |  |
 | Study 1 Metastatic breast cancer (n = 939) | 12-14 g/dL | 12.9 g/dL;12.2, 13.3 g/dL | 12-month overall survival | Decreased 12-month survival |
@@ -93,6 +93,8 @@ Randomized, Controlled Studies With Decreased Survival and/or Decreased Locoregi
 | No Chemotherapy or Radiotherapy |  |  |  |  |
 | Study 7 Non-small cell lung cancer (n = 70) | 12-14 g/dL | Not available | Quality of life | Decreased overall survival |
 | Study 8 Non-myeloid malignancy(n = 989) | 12-13 g/dL | 10.6 g/dL;9.4, 11.8 g/dL | RBC transfusions | Decreased overall survival |
+
+*Q1= 25th percentile Q3= 75th percentile
 
 ### Decreased Overall Survival
 
