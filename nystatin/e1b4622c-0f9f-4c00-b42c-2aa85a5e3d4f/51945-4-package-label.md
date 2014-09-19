@@ -1,17 +1,19 @@
-# PRINCIPAL DISPLAY PANEL- 15 grams label
+# PRINCIPAL DISPLAY PANEL- 60 grams label
 
-NYSTOP® Nystatin Topical Powder, USP
+Rx Only
 
-NDC 0574-2008-15
+NDC 0574-2008-02
 
-100,000 USP UNITS PER GRAM
+NYSTOP®
 
-Rx ONLY
+Nystatin Topical Powder, USP
+
+100,000 USP Units Per Gram
 
 USUAL DOSAGE: Apply to affected area 2 or 3 times daily.
 
-STORAGE: Store at controlled room temperature 15°-30°C (59°-86°F); avoid excessive heat (40°C; 104°F).
+STORAGE: Store at controlled room temperature 15° - 30°C (59° - 86°); avoid excessive heat (40°C; 104°F).
 
-NET WEIGHT 15 GRAMS
+Net Weight
 
-Paddock Laboratories, Inc.
+60 grams

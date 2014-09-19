@@ -11,10 +11,10 @@ It is recommended that KOH smears, cultures, or other diagnostic methods be used
 
 Patients using this medication should receive the following information and instructions:
 
-1. The patient should be instructed to use this medication as directed (including the replacement of missed doses).
+1. 1.The patient should be instructed to use this medication as directed (including the replacement of missed doses).
    This medication is not for any disorder other than that for which it is prescribed.
-2. Even if symptomatic relief occurs within the first few days of treatment, the patient should be advised not to interrupt or discontinue therapy until the prescribed course of treatment is completed.
-3. If symptoms of irritation develop, the patient should be advised to notify the physician promptly.
+2. 2.Even if symptomatic relief occurs within the first few days of treatment, the patient should be advised not to interrupt or discontinue therapy until the prescribed course of treatment is completed.
+3. 3.If symptoms of irritation develop, the patient should be advised to notify the physician promptly.
 
 ## Laboratory Tests
 
