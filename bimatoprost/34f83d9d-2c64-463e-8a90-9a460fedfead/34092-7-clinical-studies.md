@@ -4,7 +4,8 @@ LATISSE® solution was evaluated for its effect on overall eyelash prominence in
 The primary efficacy endpoint in this study was an increase in overall eyelash prominence as measured by at least a 1-grade increase on the 4-point Global Eyelash Assessment (GEA) scale, from baseline to the end of the treatment period (week 16).
 LATISSE® was more effective than vehicle as measured by the GEA score, with statistically significant differences seen at 8-week, 12-week, and 16-week (primary endpoint) treatment durations.
 
-Table 1 Number (%) of Subjects with at Least a 1-grade Increase from Baseline in Global Eyelash Assessment (Primary Efficacy Endpoint – Week 16)
+Table 2.
+Number (%) of subjects with at least a 1-grade increase from baseline in Global Eyelash Assessment (Primary Efficacy Endpoint – Week 16)
 
 | Week | LATISSE® N=137 N (%) | Vehicle N=141 N (%) |
 | --- | --- | --- |
@@ -18,7 +19,7 @@ Table 1 Number (%) of Subjects with at Least a 1-grade Increase from Baseline in
 In this study, patients were also evaluated for the effect of LATISSE® solution on the length, thickness and darkness of their eyelashes.
 Improvements from baseline in eyelash growth as measured by digital image analysis assessing eyelash length, fullness/thickness, and darkness were statistically significantly more pronounced in the bimatoprost group at weeks 8, 12, and 16.
 
-Table 2
+Table 3
 
 | Efficacy endpoint at Week 16 (Mean Change from Baseline) | LATISSE® | Vehicle |
 | --- | --- | --- |

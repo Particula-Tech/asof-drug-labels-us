@@ -50,5 +50,5 @@ There have been reports of bacterial keratitis associated with the use of multip
 
 ## 5.8 Use with Contact Lenses
 
-LATISSE® contains benzalkonium chloride, which may be absorbed by soft contact lenses.
+LATISSE® contains benzalkonium chloride, which may be absorbed by and cause discoloration of soft contact lenses.
 Contact lenses should be removed prior to application of solution and may be reinserted 15 minutes following its administration [see Patient Counseling Information (17.8)].

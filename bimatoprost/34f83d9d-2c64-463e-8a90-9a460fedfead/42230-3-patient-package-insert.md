@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-LATISSE® (la teece) (bimatoprost ophthalmic solution) 0.03%
+LATISSE® [la teece] (bimatoprost ophthalmic solution) 0.03%
 
 Read the Patient Information that comes with LATISSE® before you start using it and each time you get a refill.
 There may be new information.
@@ -116,7 +116,9 @@ Inactive ingredients: benzalkonium chloride; sodium chloride; sodium phosphate, 
 Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.
 The pH during its shelf life ranges from 6.8 - 7.8.
 
-© 2013 Allergan, Inc. Irvine, CA 92612 ® marks owned by Allergan, Inc. Patented.
-See: www.allergan.com/products/patent_notices
+© 2014 Allergan, Inc.
 
-72303US15
+Irvine, CA 92612 ® marks owned by Allergan, Inc. Patented.
+See: www.allergan.com/products/patent_notices Made in the U.S.A.
+
+72303US16
