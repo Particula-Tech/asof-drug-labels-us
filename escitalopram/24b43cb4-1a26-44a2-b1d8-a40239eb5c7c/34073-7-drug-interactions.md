@@ -2,16 +2,16 @@
 
 ## 7.1 Monoamine Oxidase Inhibitors (MAOIs)
 
-[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2 )].
+[See Dosage and Administration (2.5 and 2.6),Contraindications (4.1) and Warnings and Precautions (5.2)].
 
 ## 7.2 Serotonergic Drugs
 
-[See Dosage and Administration (2.5and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2 )].
+[See Dosage and Administration (2.5and 2.6),Contraindications (4.1) and Warnings and Precautions (5.2)].
 
 ## 7.3 Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
-If concomitant treatment of escitalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Warnings and Precautions ( 5.2 )].
+If concomitant treatment of escitalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Warnings and Precautions (5.2)].
 
 ## 7.4 CNS Drugs
 
@@ -30,7 +30,7 @@ Patients receiving warfarin therapy should be carefully monitored when escitalop
 
 ## 7.7 Cimetidine
 
-In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and C max of 43% and 39%, respectively.
+In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of 400 mg twice a day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
 The clinical significance of these findings is unknown.
 
 ## 7.8 Digoxin
@@ -46,7 +46,7 @@ Because lithium may enhance the serotonergic effects of escitalopram, caution sh
 ## 7.10 Pimozide and Celexa
 
 In a controlled study, a single dose of pimozide 2 mg co-administered with racemic citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
-Racemic citalopram did not alter the mean AUC or C max of pimozide.
+Racemic citalopram did not alter the mean AUC or Cmax of pimozide.
 The mechanism of this pharmacodynamic interaction is not known.
 
 ## 7.11 Sumatriptan
@@ -75,7 +75,7 @@ Combined administration of racemic citalopram (titrated to 40 mg/day for 28 days
 
 ## 7.16 Ketoconazole
 
-Combined administration of racemic citalopram (40 mg) and ketoconazole (200 mg), a potent CYP3A4 inhibitor, decreased the C max and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
+Combined administration of racemic citalopram (40 mg) and ketoconazole (200 mg), a potent CYP3A4 inhibitor, decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
 
 ## 7.17 Ritonavir
 
@@ -97,7 +97,7 @@ Nevertheless, caution is indicated in the coadministration of escitalopram and d
 
 ## 7.20 Metoprolol
 
-Administration of 20 mg/day escitalopram tablets for 21 days in healthy volunteers resulted in a 50% increase in C max and 82% increase in AUC of the beta-adrenergic blocker metoprolol (given in a single dose of 100 mg).
+Administration of 20 mg/day escitalopram tablets for 21 days in healthy volunteers resulted in a 50% increase in Cmax and 82% increase in AUC of the beta-adrenergic blocker metoprolol (given in a single dose of 100 mg).
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
 Coadministration of escitalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
 

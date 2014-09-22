@@ -9,7 +9,7 @@ Starting escitalopram tablets in a patient who is being treated with MAOIs such 
 
 ## 4.2 Pimozide
 
-Concomitant use in patients taking pimozide is contraindicated [see Drug Interactions (7.10)] .
+Concomitant use in patients taking pimozide is contraindicated [see Drug Interactions (7.10)].
 
 ## 4.3 Hypersensitivity to escitalopram or citalopram
 

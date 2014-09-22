@@ -12,7 +12,7 @@ The pooled analyses of placebo-controlled trials in adults with MDD or other psy
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1 .
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 | Table 1 |  |
 | --- | --- |
@@ -32,9 +32,9 @@ All patients being treated with antidepressants for any indication should be mon
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Dosage and Administration (2.4 )].
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Dosage and Administration (2.4)].
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
-Such monitoring should include daily observation by families and caregivers [see also Patient Counseling Information (17.1 )].
+Such monitoring should include daily observation by families and caregivers [see also Patient Counseling Information (17.1)].
 Prescriptions for escitalopram tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 Screening Patients for Bipolar Disorder A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
@@ -44,7 +44,7 @@ It should be noted that escitalopram is not approved for use in treating bipolar
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including escitalopram tablets, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including escitalopram tablets, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination) seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
 The concomitant use of escitalopram tablets with MAOIs intended to treat psychiatric disorders is contraindicated.
@@ -53,8 +53,7 @@ All reports with methylene blue that provided information on the route of admini
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking escitalopram tablets.
 Escitalopram tablets should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.5 and 2.6)].
-If concomitant use of escitalopram tablets with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-Treatment with escitalopram tablets and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+If concomitant use of escitalopram tablets with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.Treatment with escitalopram tablets and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.3 Discontinuation of Treatment with Escitalopram
 
@@ -63,7 +62,7 @@ While these events are generally self-limiting, there have been reports of serio
 Patients should be monitored for these symptoms when discontinuing treatment with escitalopram.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration ( 2.4 )].
+Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration (2.4)].
 
 ## 5.4 Seizures
 
@@ -85,7 +84,7 @@ Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including 
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH), and was reversible when escitalopram was discontinued.
 Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
-Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk [see Geriatric Use ( 8.5 )].
+Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk [see Geriatric Use (8.5)].
 Discontinuation of escitalopram should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
@@ -104,13 +103,20 @@ Patients should be cautioned about the risk of bleeding associated with the conc
 In a study in normal volunteers, escitalopram 10 mg/day did not produce impairment of intellectual function or psychomotor performance.
 Because any psychoactive drug may impair judgment, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that escitalopram therapy does not affect their ability to engage in such activities.
 
-## 5.9 Use in Patients with Concomitant Illness
+## 5.9 Angle Closure Glaucoma
+
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including Lexapro may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.10 Use in Patients with Concomitant Illness
 
 Clinical experience with escitalopram in patients with certain concomitant systemic illnesses is limited.
 Caution is advisable in using escitalopram in patients with diseases or conditions that produce altered metabolism or hemodynamic responses.
+
 Escitalopram has not been systematically evaluated in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were generally excluded from clinical studies during the product's premarketing testing.
+
 In subjects with hepatic impairment, clearance of racemic citalopram was decreased and plasma concentrations were increased.
-The recommended dose of escitalopram in hepatically impaired patients is 10 mg/day [see Dosage and Administration ( 2.3 )].
+The recommended dose of escitalopram in hepatically impaired patients is 10 mg/day [see Dosage and Administration (2.3)].
+
 Because escitalopram is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
-Until adequate numbers of patients with severe renal impairment have been evaluated during chronic treatment with escitalopram, however, it should be used with caution in such patients [see Dosage and Administration ( 2.3 )].
+Until adequate numbers of patients with severe renal impairment have been evaluated during chronic treatment with escitalopram, however, it should be used with caution in such patients [see Dosage and Administration (2.3)].

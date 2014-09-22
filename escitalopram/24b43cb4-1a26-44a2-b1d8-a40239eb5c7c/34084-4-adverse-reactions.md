@@ -160,9 +160,9 @@ Based on the established exposure-response relationship, the predicted QTcF chan
 Escitalopram 30 mg given once daily resulted in mean Cmax of 1.7-fold higher than the mean Cmax for the maximum recommended therapeutic dose at steady state (20 mg).
 The exposure under supratherapeutic 30 mg dose is similar to the steady state concentrations expected in CYP2C19 poor metabolizers following a therapeutic dose of 20 mg.
 Other Reactions Observed During the Premarketing Evaluation of escitalopram Following is a list of treatment-emergent adverse events, as defined in the introduction to the ADVERSE REACTIONS section, reported by the 1428 patients treated with escitalopram for periods of up to one year in double-blind or open-label clinical trials during its premarketing evaluation.
-The listing does not include those events already listed in Tables 2 & 3 , those events for which a drug cause was remote and at a rate less than 1% or lower than placebo, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life threatening.
+The listing does not include those events already listed in Tables 2 & 3, those events for which a drug cause was remote and at a rate less than 1% or lower than placebo, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life threatening.
 Events are categorized by body system.
-Events of major clinical importance are described in the Warnings and Precautions section ( 5 ).
+Events of major clinical importance are described in the Warnings and Precautions section (5).
 Cardiovascular - hypertension, palpitation.
 Central and Peripheral Nervous System Disorders - light-headed feeling, migraine.
 Gastrointestinal Disorders - abdominal cramp, heartburn, gastroenteritis.
@@ -184,7 +184,7 @@ However, because these adverse reactions were reported voluntarily from a popula
 These events include: Blood and Lymphatic System Disorders: anemia, agranulocytis, aplastic anemia, hemolytic anemia, idiopathic thrombocytopenia purpura, leukopenia, thrombocytopenia.
 Cardiac Disorders: atrial fibrillation, bradycardia, cardiac failure, myocardial infarction, tachycardia, torsade de pointes, ventricular arrhythmia, ventricular tachycardia.
 Ear and labyrinth disorders: vertigo Endocrine Disorders: diabetes mellitus, hyperprolactinemia, SIADH.
-Eye Disorders: diplopia, glaucoma, mydriasis, visual disturbance.
+Eye Disorders: angle closure glaucoma, diplopia, mydriasis, visual disturbance.
 Gastrointestinal Disorder: dysphagia, gastrointestinal hemorrhage, gastroesophageal reflux, pancreatitis, rectal hemorrhage.
 General Disorders and Administration Site Conditions: abnormal gait, asthenia, edema, fall, feeling abnormal, malaise.
 Hepatobiliary Disorders: fulminant hepatitis, hepatic failure, hepatic necrosis, hepatitis.

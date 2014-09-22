@@ -1,0 +1,3 @@
+# SPL MEDGUIDE SECTION
+
+.
