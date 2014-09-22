@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects:Pregnancy Category C.
+Teratogenic Effects:Pregnancy Category C.
 
 Loteprednol etabonate has been shown to be embryotoxic (delayed ossification) and teratogenic (increased incidence of meningocele, abnormal left common carotid artery, and limb flexures) when administered orally to rabbits during organogenesis at a dose of 3 mg/kg/day (35 times the maximum daily clinical dose), a dose which caused no maternal toxicity.
 The no-observed-effect-level (NOEL) for these effects was 0.5 mg/kg/day (6 times the maximum daily clinical dose).
@@ -14,7 +14,7 @@ Oral exposure of female rats to 50 mg/kg/day of loteprednol etabonate from the s
 Loteprednol etabonate had no effect on the duration of gestation or parturition when administered orally to pregnant rats at doses up to 50 mg/kg/day during the fetal period.
 
 There are no adequate and well controlled studies in pregnant women.
-LOTEMAX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+LOTEMAX® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
 
