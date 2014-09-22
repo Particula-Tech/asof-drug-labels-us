@@ -5,13 +5,15 @@ LB0105-00 Rev.
 
 Rx Only
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba Canada R5G 1Z7
+Rx Only.
+
+Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba R5G 1Z7, Canada
 
 For:
 
 Oceanside Pharmaceuticals,
 
-A division of Valeant Pharmaceuticals North America LLC
+a division of Valeant Pharmaceuticals North America LLC
 
 Bridgewater, NJ 08807, USA
 
