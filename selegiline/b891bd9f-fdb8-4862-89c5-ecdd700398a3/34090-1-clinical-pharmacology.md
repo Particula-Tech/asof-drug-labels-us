@@ -1,35 +1,77 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## 12.1 Mechanism of Action
 
-Selegiline (the drug substance of EMSAM) is an irreversible inhibitor of monoamine oxidase (MAO), an intracellular enzyme associated with the outer membrane of mitochondria.
+The mechanism of action of selegiline (the drug substance of EMSAM) as an antidepressant is not fully understood, but is presumed to be linked to potentiation of monoamine neurotransmitter activity in the central nervous system (CNS) resulting from its irreversible inhibition of the enzyme monoamine oxidase (MAO).
+
+## 12.2 Pharmacodynamics
+
 MAO exists as two isoenzymes, referred to as MAO-A and MAO-B.
 Selegiline has a greater affinity for MAO-B, compared to MAO-A.
-However, at antidepressant doses, selegiline inhibits both isoenzymes (see below).
-
-The mechanism of action of EMSAM as an antidepressant is not fully understood, but is presumed to be linked to potentiation of monoamine neurotransmitter activity in the central nervous system (CNS) resulting from its inhibition of MAO activity.
-In an in vivo animal model used to test for antidepressant activity (Forced Swim Test), selegiline administered by transdermal patch exhibited antidepressant properties only at doses that inhibited both MAO-A and MAO-B activity in the brain.
+However, at antidepressant doses, selegiline inhibits both isoenzymes.
+In an in vivo animal model used to test for antidepressant activity (Forced Swim Test), selegiline administered by transdermal system exhibited antidepressant properties only at doses that inhibited both MAO-A and MAO-B activity in the brain.
 In the CNS, MAO-A and MAO-B play important roles in the catabolism of neurotransmitter amines such as norepinephrine, dopamine, and serotonin, as well as neuromodulators such as phenylethylamine.
-Other molecular sites of action have also been explored and in this regard, a direct pharmacological interaction may also occur between selegiline and brain neuronal α2B receptors.
-In in vitro receptor binding assays, selegiline has demonstrated affinity for the human recombinant adrenergic α2B receptor (Ki = 0.3 μM).
-No affinity [Ki > 10 μM] was noted at dopamine receptors, adrenergic β3, glutamate, muscarinic M1-M5, nicotinic, or rolipram receptor/sites.
 
-## Pharmacokinetics
+### Receptor Binding
+
+In in vitro receptor binding assays, selegiline has demonstrated affinity for the human recombinant adrenergic α2B receptor (Ki = 0.3 mcM).
+No affinity [Ki greater than 10 mcM] was noted at dopamine receptors, adrenergic β3, glutamate, muscarinic M1-M5, nicotinic, or rolipram receptor/sites.
+
+### Interaction with Tyramine
+
+Selegiline (the drug substance of EMSAM) is an irreversible inhibitor of monoamine oxidase (MAO), a ubiquitous intracellular enzyme.
+MAO exists as two isoenzymes, referred to as MAO-A and MAO-B.
+Selegiline shows greater affinity for MAO-B; however, as selegiline concentration increases, this selectivity is lost with resulting dose-related inhibition of MAO-A.
+Intestinal MAO is predominantly type A, while in the brain both isoenzymes exist.
+
+MAO plays a vital physiological role in terminating the biological activity of both endogenous and exogenous amines.
+In addition to their role in the catabolism of monoamines in the CNS, MAOs are also important in the catabolism of exogenous amines found in a variety of foods and drugs.
+MAO in the gastrointestinal tract (primarily type A) provides protection from exogenous amines with vasopressor actions, such as tyramine, which if absorbed intact can cause a hypertensive crisis, the so-called “cheese reaction”.
+If a large amount of tyramine is absorbed systemically, it is taken up by adrenergic neurons and causes norepinephrine release from neuronal storage sites with resultant elevation of blood pressure.
+While most foods contain negligible amounts or no tyramine, certain food products may contain large amounts of tyramine that represent a potential risk for hypertensive crisis [see Warnings and Precautions (5.3)].
+
+To define the risk of hypertensive crises with use of EMSAM, several Phase I tyramine challenge studies were conducted both with and without food.
+Fourteen tyramine challenge studies including 214 healthy subjects (age range 18 to 65; 31 subjects greater than 50 years of age) were conducted to determine the pressor effects of oral tyramine with concurrent EMSAM treatment (6 mg per 24 hours to 12 mg per 24 hours), measured as the dose of tyramine required to raise systolic blood pressure by 30 mmHg (TYR30).
+Studies were conducted with and without concomitant administration of food.
+Studies conducted with food are most relevant to clinical practice since tyramine typically will be consumed in food.
+A high-tyramine meal is considered to contain up to 40 mg of tyramine.
+
+One study using a crossover design in 13 subjects investigated tyramine pressor doses (TYR30) after administration of EMSAM 6 mg per 24 hours and oral selegiline (5 mg twice daily) for 9 days.
+Mean pressor doses (TYR30) of tyramine capsules administered without food were 338 mg and 385 mg in subjects treated with EMSAM and oral selegiline, respectively.
+
+Another study using a crossover design in 10 subjects investigated tyramine pressor doses after administration of EMSAM 6 mg per 24 hours or tranylcypromine 30 mg per day for 10 days.
+Mean pressor doses (TYR30) of tyramine capsules administered without food were 270 mg in subjects treated with EMSAM 6 mg per 24 hours and 10 mg in subjects treated with tranylcypromine.
+
+In a third crossover study, tyramine without food was administered to 12 subjects.
+The mean tyramine pressor doses (TYR30) after administration of EMSAM 6 mg per 24 hours for 9 and 33 days were 292 mg and 204 mg, respectively.
+The lowest pressor dose was 50 mg in one subject in the 33-day group.
+
+Tyramine pressor doses were also studied in 11 subjects after extended treatment with EMSAM 12 mg per 24 hours.
+At 30, 60, and 90 days, the mean pressor doses (TYR30) of tyramine administered without food were 95 mg, 72 mg, and 88 mg, respectively.
+The lowest pressor dose without food was 25 mg in 3 subjects at day 30 while on EMSAM 12 mg per 24 hours.
+Eight subjects from this study, with a mean tyramine pressor dose of 64 mg at 90 days, were subsequently administered tyramine with food, resulting in a mean pressor dose of 172 mg (2.7 times the mean pressor dose observed without food, p less than 0.003).
+
+With the exception of one study (N = 153), the Phase III clinical development program was conducted without requiring a modified diet (N = 2,553, 1,606 at 6 mg per 24 hours, and 947 at 9 mg per 24 hours or 12 mg per 24 hours).
+No hypertensive crises were reported in any patient receiving EMSAM.
+
+Overall, the data for EMSAM 6 mg per 24 hours support a recommendation that a modified diet is not required at this dose.
+Due to the more limited data available for EMSAM 9 mg per 24 hours and the results from the Phase I tyramine challenge study in fed volunteers administered EMSAM 12 mg per 24 hours, patients receiving these doses should follow Dietary Modifications Required for Patients Taking EMSAM 9 mg per 24 hours and 12 mg per 24 hours [see Warnings and Precautions (5.3)].
+
+## 12.3 Pharmacokinetics
 
 ### Absorption
 
-Following dermal application of EMSAM to humans, 25% - 30% of the selegiline content on average is delivered systemically over 24 hours (range ~ 10% - 40%).
+Following dermal application of EMSAM to humans, 25% to 30% of the selegiline content on average is delivered systemically over 24 hours (range approximately 10% to 40%).
 Consequently, the degree of drug absorption may be 1/3 higher than the average amounts of 6 mg to 12 mg per 24 hours.
-Transdermal dosing results in substantially higher exposure to selegiline and lower exposure to metabolites compared to oral dosing, where extensive first-pass metabolism occurs (Figure 2).
-In a 10-day study with EMSAM administered to normal volunteers, steady-state selegiline plasma concentrations were achieved within 5 days of daily dosing.
-Absorption of selegiline is similar when EMSAM is applied to the upper torso or upper thigh.
-Mean (95% CI) steady-state plasma concentrations in healthy men and women following application of EMSAM to the upper torso or upper thigh are shown in Figure 3.
+Transdermal dosing results in significantly higher exposure to selegiline with significantly lower exposure for all metabolites when compared to oral dosing, due to extensive first-pass metabolism.
+In a 10-day study with daily administration of EMSAM to healthy male and female volunteers, steady-state selegiline plasma concentrations indicated selegiline concentration-time profiles were comparable when EMSAM is applied to the upper torso or upper thigh, and absorption from these two sites of administration was equivalent.
 
 ### Distribution
 
 Following dermal application of radiolabeled selegiline to laboratory animals, selegiline is rapidly distributed to all body tissues.
 Selegiline rapidly penetrates the blood-brain barrier.
-In humans, selegiline is approximately 90% bound to plasma protein over a 2 - 500 ng/mL concentration range.
+
+In humans, selegiline is approximately 90% bound to plasma protein over a 2 to 500 ng per mL concentration range.
 Selegiline does not accumulate in the skin.
 
 ### In vivo Metabolism
@@ -44,14 +86,14 @@ R(-)-methamphetamine and R(-)-amphetamine are mainly excreted unchanged in urine
 ### In vitro Metabolism
 
 In vitro studies utilizing human liver microsomes demonstrated that several CYP450-dependent enzymes are involved in the metabolism of selegiline and its metabolites.
-CYP2B6, CYP2C9, and CYP3A4/5 appeared to be the major contributing enzymes in the formation of R(-)-methamphetamine from selegiline, with CYP2A6 having a minor role.
-CYP2A6, CYP2B6, and CYP3A4/5 appeared to contribute to the formation of R(-)-amphetamine from N-desmethylselegiline.
+CYP2B6, CYP2C9, CYP3A4 and CYP3A5 appeared to be the major contributing enzymes in the formation of R(-)-methamphetamine from selegiline, with CYP2A6 having a minor role.
+CYP2A6, CYP2B6, CYP3A4 and CYP3A5 appeared to contribute to the formation of R(-)-amphetamine from N-desmethylselegiline.
 
 The potential for selegiline or N-desmethylselegiline to inhibit individual CYP450-dependent enzyme pathways was also examined in vitro with human liver microsomes.
-Each substrate was examined over a concentration range of 2.5 to 250 μM.
-Consistent with competitive inhibition, both selegiline and N-desmethylselegiline caused a concentration dependent inhibition of CYP2D6 at 10 - 250 μM and CYP3A4/5 at 25 - 250 μM.
-CYP2C19 and CYP2B6 were also inhibited at concentrations ≥ 100 μM.
-All inhibitory effects of selegiline and N-desmethylselegiline occurred at concentrations that are several orders of magnitude higher than concentrations seen clinically (highest predose concentration observed at a dose of 12 mg/24 hours at steady-state was 0.046 μM) (see PRECAUTIONS, Drug Interactions).
+Each substrate was examined over a concentration range of 2.5 to 250 mcM.
+Consistent with competitive inhibition, both selegiline and N-desmethylselegiline caused a concentration dependent inhibition of CYP2D6 at 10 to 250 mcM and CYP3A4 and CYP3A5 at 25 to 250 mcM.
+CYP2C19 and CYP2B6 were also inhibited at concentrations of 100 mcM or greater.
+All inhibitory effects of selegiline and N-desmethylselegiline occurred at concentrations that are several orders of magnitude higher than concentrations seen clinically (highest predose concentration observed at a dose of 12 mg per 24 hours at steady-state was 0.046 mcM) [see Drug Interactions (7)].
 
 ### Excretion
 
@@ -59,53 +101,75 @@ Approximately 10% and 2% of a radiolabeled dose applied dermally, as a DMSO solu
 The remaining 25% of the dose was unaccounted for.
 Urinary excretion of unchanged selegiline accounted for 0.1% of the applied dose with the remainder of the dose recovered in urine being metabolites.
 
-The systemic clearance of selegiline after intravenous administration was 1.4 L/min, and the mean half-lives of selegiline and its three metabolites, R(-)-N-desmethylselegiline, R(-)-amphetamine, and R(-)-methamphetamine, ranged from 18 - 25 hours.
+The systemic clearance of selegiline after intravenous administration was 1.4 L per min, and the mean half-lives of selegiline and its three metabolites, R(-)-N-desmethylselegiline, R(-)-amphetamine, and R(-)-methamphetamine, ranged from 18 to 25 hours.
 
 ### Population Subgroups
 
 #### Age
 
-The effect of age on the pharmacokinetics or metabolism of selegiline during administration of EMSAM has not been systematically evaluated.
-The recommended dose for elderly patients is EMSAM 6 mg/24 hours.
-(See DOSAGE AND ADMINISTRATION.)
+EMSAM should not be used in patients less than 18 years of age [see Use in Specific Populations (8.4)].
 
-#### Gender
+Stratification of exposure data following treatment with EMSAM indicated that pre-dose (trough) selegiline plasma concentrations at steady state appeared higher (p = 0.12) in children aged < 12 years old, compared to adolescents aged ≥ 12 years as shown in Table 6.
 
-No gender differences have been observed in the pharmacokinetics or metabolism of selegiline during administration of EMSAM.
-No adjustment of EMSAM dosage based on gender is needed.
+Table 6.
+Steady State selegiline tough concentrations associated with administration of EMSAM 15 mg/15 cm2 daily for 7 days
 
-### Reduced Hepatic Function
+| Trough Concentration, pg/mL |  |  |
+| --- | --- | --- |
+|  | 6 to 11 year old age group | 12 to 14 year old age group |
+|  | (N = 6) | (N = 4) |
+| Mean (SD) | 2,562 (974) | 1,821 (146) |
 
-After a single administration of EMSAM 6 mg/24 hours in 8 patients with mild or moderate liver impairment (Child-Pugh classifications of A or B), no differences in either the metabolism or pharmacokinetic behavior of selegiline or its metabolites were observed as compared with data of normal subjects.
-No adjustment of EMSAM dosage is required in patients with moderate liver impairment.
+### Drug-Drug Interactions
 
-### Reduced Renal Function
+#### Alcohol
 
-Data from a single dose study examining the pharmacokinetics of EMSAM 6 mg/24 hours in 12 patients with renal impairment suggest that mild, moderate, or severe renal impairment does not affect the pharmacokinetics of selegiline after transdermal application.
-Therefore, no adjustment of EMSAM dosage is required in patients with renal impairment.
+The pharmacokinetics and pharmacodynamics of alcohol (0.75 mg per kg) alone or in combination with EMSAM 6 mg per 24 hours for 7 days of treatment was examined in 16 healthy volunteers.
+No clinically significant differences were observed in the pharmacokinetics or pharmacodynamics of alcohol or the pharmacokinetics of selegiline during co-administration.
+Although EMSAM has not been shown to increase the impairment of mental and motor skills caused by alcohol (0.75 mg per kg) and failed to alter the pharmacokinetic properties of alcohol, patients should be advised that the use of alcohol is not recommended while taking EMSAM [see Drug Interactions (7.4) and (7.5)].
 
-### Dermal Adhesion
+#### Alprazolam
 
-Dermal adhesion of EMSAM was examined after application of 6 mg/24 hours selegiline patches for 10 days to the upper torso.
-Approximately 88% - 89% of 6 mg/24 hours selegiline patches applied to the upper torso exhibited < 10% lift with approximately 6% - 7% of patches becoming detached.
+In subjects who had received EMSAM 6 mg per 24 hours for 7 days, co-administration with alprazolam (15 mg per day), a CYP3A4 and CYP3A5 substrate, did not affect the pharmacokinetics of alprazolam or selegiline [see Drug Interactions (7.4) and (7.5)].
 
-### External Heat
+#### Carbamazepine
 
-The effect of direct heat applied to the EMSAM patch on the bioavailability of selegiline has not been studied.
-However, in theory, heat may result in an increase in the amount of selegiline absorbed from the EMSAM patch and produce elevated serum levels of selegiline.
-Patients should be advised to avoid exposing the EMSAM application site to external sources of direct heat, such as heating pads or electric blankets, heat lamps, saunas, hot tubs, heated water beds, and prolonged direct sunlight.
+Carbamazepine is an enzyme inducer and typically causes decreases in drug exposure; however, approximately 2-fold increased systemic exposure of selegiline and its metabolites, L-amphetamine and L-methamphetamine were seen after single application of EMSAM 6 mg per 24 hours in subjects who had received carbamazepine (400 mg per day) for 14 days.
+Changes in plasma selegiline concentrations were nearly two-fold and variable across the subject population.
+Such increases may increase the risk of a hypertensive crisis when carbamazepine is used with EMSAM at any dose [see Contraindications (4), Warnings and Precautions (5.3) and Drug Interaction (7.4)].
 
-## Clinical Efficacy Trials
+#### Ibuprofen
 
-The efficacy of EMSAM as a treatment for major depressive disorder was established in two placebo-controlled studies of 6 and 8 weeks duration in adult outpatients (ages 18 to 70 years) meeting DSM-IV criteria for major depressive disorder.
-In both studies, patients were randomized to double-blind treatment with EMSAM or placebo.
-The 6-week trial (N = 176) showed that EMSAM 6 mg/24 hours was significantly more effective than placebo on the 17-item Hamilton Depression Rating Scale (HAM-D).
-In an 8-week dose titration trial, depressed patients (N = 265), who received EMSAM or placebo at a starting dose of 6 mg/24 hours, with possible increases to 9 mg/24 hours or 12 mg/24 hours based on clinical response, showed significant improvement compared with placebo on the primary outcome measure, the 28-item HAM-D total score.
+In subjects who had received EMSAM 6 mg per 24 hours for 11 days, combined administration with the CYP2C9 substrate ibuprofen (800 mg single dose) did not affect the pharmacokinetics of either selegiline or ibuprofen [see Drug Interactions (7.4) and (7.5)].
 
-In another trial, 322 patients meeting DSM-IV criteria for major depressive disorder who had responded during an initial 10-week open-label treatment phase for about 25 days, on average, to EMSAM 6 mg/24 hours were randomized either to continuation of EMSAM at the same dose (N = 159) or to placebo (N = 163) under double-blind conditions for observation of relapse.
-About 52% of the EMSAM-treated patients, as well as about 52% of the placebo-treated patients, had discontinued treatment by week 12 of the double-blind phase.
-Response during the open-label phase was defined as 17-item HAM-D score < 10 at either week 8 or 9 and at week 10 of the open-label phase.
-Relapse during the double-blind phase was defined as follows: (1) a 17-item HAM-D score ≥ 14, (2) a CGI-S score of ≥ 3 (with at least a 2-point increase from double-blind baseline), and (3) meeting DSM-IV criteria for major depressive disorder on two consecutive visits ≥ 11 days apart.
-In the double-blind phase, patients receiving continued EMSAM experienced a significantly longer time to relapse.
+#### Ketoconazole
 
-An examination of population subgroups did not reveal any clear evidence of differential responsiveness on the basis of age, gender, or race.
+Seven-day treatment with ketoconazole (200 mg per day), a potent inhibitor of CYP3A4, did not affect the steady-state pharmacokinetics of selegiline in subjects who received EMSAM 6 mg per 24 hours for 7 days and no differences in the pharmacokinetics of ketoconazole were observed [see Drug Interactions (7.4) and (7.5)].
+
+#### Levothyroxine
+
+In healthy subjects who had received EMSAM 6 mg per 24 hours for 10 days, single dose administration with levothyroxine (150 mcg) did not alter the pharmacokinetics of either selegiline or levothyroxine [see Drug Interactions (7.4) and (7.5)].
+
+#### Olanzapine
+
+In subjects who had received EMSAM 6 mg per 24 hours for 10 days, co-administration with olanzapine, a substrate for CYP1A2, CYP2D6, and possibly CYP2A6, did not affect the pharmacokinetics of selegiline or olanzapine [see Drug Interactions (7.4) and (7.5)].
+
+#### Phenylpropanolamine (PPA)
+
+In subjects who had received EMSAM 6 mg per 24 hours for 9 days, co-administration with PPA (25 mg every 4 hours for 24 hours) did not affect the pharmacokinetics of PPA.
+There was a higher incidence of significant blood pressure elevations with the co-administration of EMSAM and PPA than with PPA alone, suggesting a possible pharmacodynamic interaction [see Drug Interactions (7.4) and (7.5)].
+
+#### Pseudoephedrine
+
+EMSAM 6 mg per 24 hours for 10 days, co-administered with pseudoephedrine (60 mg, 3 times a day) did not affect the pharmacokinetics of pseudoephedrine.
+There were no clinically significant changes in blood pressure during pseudoephedrine administration alone, or in combination with EMSAM [see Drug Interactions (7.4) and (7.5)].
+
+#### Risperidone
+
+In subjects who had received EMSAM 6 mg per 24 hours for 10 days, co-administration with risperidone (2 mg per day for 7 days), a substrate for CYP2D6, did not affect the pharmacokinetics of selegiline or risperidone [see Drug Interactions (7.4) and (7.5)].
+
+#### Warfarin
+
+Warfarin is a substrate for CYP2C9 and CYP3A4 metabolism pathways.
+In healthy volunteers titrated with Coumadin® (warfarin sodium) to clinical levels of anticoagulation (INR of 1.5 to 2), co-administration with EMSAM 6 mg per 24 hours for 7 days did not affect the pharmacokinetics of the individual warfarin enantiomers.
+EMSAM did not alter the clinical pharmacodynamic effects of warfarin as measured by INR, Factor VII or Factor X levels [see Drug Interactions (7.4) and (7.5)].
