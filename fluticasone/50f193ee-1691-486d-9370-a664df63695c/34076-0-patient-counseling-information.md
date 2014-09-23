@@ -20,7 +20,7 @@ If they miss a dose, instruct patients to take their next dose at the same time 
 Tell patients they should not stop or reduce therapy with ARNUITY ELLIPTA without physician/provider guidance since symptoms may recur after discontinuation.
 
 Local Effects: Inform patients that localized infections with Candida albicans occurred in the mouth and pharynx in some patients.
-If oropharyngeal candidiasis develops, treat it with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with ARNUITY ELLIPTA therapy, but at times therapy with ARNUITY ELLIPTA may need to be temporarily interrupted under close medical supervision.
+If oropharyngeal candidiasis develops, treat it with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with ARNUITY ELLIPTA, but at times therapy with ARNUITY ELLIPTA may need to be temporarily interrupted under close medical supervision.
 Advise patients to rinse the mouth with water without swallowing after inhalation to help reduce the risk of thrush.
 
 Immunosuppression: Warn patients who are on immunosuppressant doses of corticosteroids to avoid exposure to chickenpox or measles and, if exposed, to consult their physicians without delay.
