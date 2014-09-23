@@ -1,8 +1,6 @@
 # 17.2 FDA-Approved Medication Guide
 
-Medication Guide
-
-Escitalopram Oxalate (EE-sye-TAL-o-pram OX-a-late) Oral Solution
+Medication Guide Escitalopram Oxalate (EE-sye-TAL-o-pram OX-a-late) Oral Solution
 
 Read the Medication Guide that comes with escitalopram oxalate before you start taking it and each time you get a refill.
 There may be new information.
@@ -13,8 +11,8 @@ What is the most important information I should know aboutescitalopram oxalate?
 
 Escitalopram oxalate and other antidepressant medicines may cause serious side effects, including:
 
-- 1.
-  Suicidal thoughts or actions:
+1.
+Suicidal thoughts or actions:
 
 - Escitalopram oxalate and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
@@ -41,9 +39,9 @@ Call your healthcare provider right away if you have any of the following sympto
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
 Escitalopram oxalate may be associated with these serious side effects:
 
-- 2.
-  Serotonin Syndrome.
-  This condition can be life-threatening and may include:
+2.
+Serotonin Syndrome.
+This condition can be life-threatening and may include:
 
 - agitation, hallucinations, coma or other changes in mental status
 - coordination problems or muscle twitching (overactive reflexes)
@@ -52,20 +50,21 @@ Escitalopram oxalate may be associated with these serious side effects:
 - nausea, vomiting, or diarrhea
 - muscle rigidity
 
-- 3.
-  Severe allergic reactions:
+3.
+Severe allergic reactions:
 
 - trouble breathing
 - swelling of the face, tongue, eyes or mouth
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
-- 4.
-  Abnormal bleeding: escitalopram oxalate and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®1, Jantoven®2), a nonsteroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+4.
+Abnormal bleeding: escitalopram oxalate and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®1, Jantoven®2), a nonsteroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
-- 5.
-  Seizures or convulsions
-- 6.
-  Manic episodes:
+5.
+Seizures or convulsions
+
+6.
+Manic episodes:
 
 - greatly increased energy
 - severe trouble sleeping
@@ -75,17 +74,28 @@ Escitalopram oxalate may be associated with these serious side effects:
 - excessive happiness or irritability
 - talking more or faster than usual
 
-- 7.
-  Changes in appetite or weight.
-  Children and adolescents should have height and weight monitored during treatment.
-- 8.
-  Low salt (sodium) levels in the blood.
-  Elderly people may be at greater risk for this.
-  Symptoms may include:
+7.
+Changes in appetite or weight.
+Children and adolescents should have height and weight monitored during treatment.
+
+8.
+Low salt (sodium) levels in the blood.
+Elderly people may be at greater risk for this.
+Symptoms may include:
 
 - headache
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
+
+9.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 Do not stop escitalopram oxalate without first talking to your healthcare provider.
 Stopping escitalopram oxalate too quickly may cause serious symptoms including:
@@ -112,9 +122,11 @@ Do not take escitalopram oxalate oral solution if you:
 
 - are allergic to escitalopram oxalate or citalopram hydrobromide or any of the ingredients in escitalopram oxalate oral solution.
   See the end of this Medication Guide for a complete list of ingredients in escitalopram oxalate oral solution.
-- If you take a monoamine oxidase inhibitor (MAOI).
+- Take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+
 - Do not take an MAOI within 2 weeks of stopping escitalopram oxalate unless directed to do so by your physician.
+- Do not start escitalopram oxalate if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take escitalopram oxalate close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -137,6 +149,7 @@ Before starting escitalopram oxalate, tell your healthcare provider if you:
 - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
 - tramadol
 - Over-the-counter supplements such as tryptophan or St. John’s Wort
+
 - have liver problems
 - have kidney problems
 - have heart problems
@@ -252,11 +265,9 @@ Inactive ingredients:
 
 Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
 
-Distributed by:
-
-Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-01-2014
+08-2014-00
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

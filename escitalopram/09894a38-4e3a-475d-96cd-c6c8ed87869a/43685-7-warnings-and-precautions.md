@@ -120,7 +120,11 @@ Patients should be cautioned about the risk of bleeding associated with the conc
 In a study in normal volunteers, escitalopram oxalate 10 mg/day did not produce impairment of intellectual function or psychomotor performance.
 Because any psychoactive drug may impair judgment, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that escitalopram oxalate therapy does not affect their ability to engage in such activities.
 
-## 5.9 Use in Patients with Concomitant Illness
+## 5.9 Angle Closure Glaucoma
+
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including escitalopram oxalate may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.10 Use in Patients with Concomitant Illness
 
 Clinical experience with escitalopram oxalate in patients with certain concomitant systemic illnesses is limited.
 Caution is advisable in using escitalopram oxalate in patients with diseases or conditions that produce altered metabolism or hemodynamic responses.

@@ -31,6 +31,13 @@ Abnormal Bleeding
 
 Patients should be cautioned about the concomitant use of escitalopram oxalate and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.7)].
 
+Angle Closure Glaucoma
+
+Patients should be advised that taking escitalopram oxalate can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.9)].
+
 Concomitant Medications
 
 Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered.
@@ -59,7 +66,7 @@ Need for Comprehensive Treatment Program
 
 Escitalopram oxalate is indicated as an integral part of a total treatment program for MDD that may include other measures (psychological, educational, social) for patients with this syndrome.
 Drug treatment may not be indicated for all adolescents with this syndrome.
-Safety and effectiveness of escitalopram oxalate in MDD has not been established in pediatrics patients less than 12 years of age.
+Safety and effectiveness of escitalopram oxalate in MDD has not been established in pediatric patients less than 12 years of age.
 Antidepressants are not intended for use in the adolescent who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms.
@@ -71,4 +78,4 @@ Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
 Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-01-2014
+08-2014-00

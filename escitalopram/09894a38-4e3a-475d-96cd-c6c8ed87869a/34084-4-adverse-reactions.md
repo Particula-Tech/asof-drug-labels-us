@@ -275,7 +275,7 @@ Ear and labyrinth disorders: vertigo.
 
 Endocrine Disorders: diabetes mellitus, hyperprolactinemia, SIADH.
 
-Eye Disorders: diplopia, glaucoma, mydriasis, visual disturbance.
+Eye Disorders: angle closure glaucoma, diplopia, mydriasis, visual disturbance.
 
 Gastrointestinal Disorder: dysphagia, gastrointestinal hemorrhage, gastroesophageal reflux, pancreatitis, rectal hemorrhage.
 
