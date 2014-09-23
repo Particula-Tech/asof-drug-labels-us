@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA090077",
+    "ANDA090357"
+  ],
+  "inn": "caffeine",
+  "labeler": "Sun Pharma Global FZE",
+  "package_ndcs": [
+    "47335-289-26",
+    "47335-289-27",
+    "47335-290-26",
+    "47335-290-27"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "caffeine citrate",
+      "name": "Caffeine Citrate"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "caffeine citrate",
+      "name": "Caffeine Citrate"
+    }
+  ],
+  "setid": "d06d3810-9923-4199-be5e-ee5ee086b0a4",
+  "source": "dailymed"
+}
