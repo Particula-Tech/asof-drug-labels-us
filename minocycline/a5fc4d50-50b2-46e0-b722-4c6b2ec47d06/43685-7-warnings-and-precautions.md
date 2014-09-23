@@ -15,6 +15,9 @@ This reaction was shown to be reversible when the drug was discontinued.
 Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can have toxic effects on the developing fetus (often related to retardation of skeletal development).
 Evidence of embryotoxicity has been noted in animals treated early in pregnancy.
 
+Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) including fatal cases have been reported with minocycline use.
+If this syndrome is recognized, the drug should be discontinued immediately.
+
 The anti-anabolic action of the tetracyclines may cause an increase in BUN.
 While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis.
 Under such conditions, monitoring of creatinine and BUN is recommended, and the total daily dosage should not exceed 200 mg in 24 hours.

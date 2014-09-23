@@ -10,6 +10,6 @@
 
 Manufactured by: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Watson Pharma, Inc. Corona, CA 92880 USA
+Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: June 2009 190791 0609B
+Revised: July 2014

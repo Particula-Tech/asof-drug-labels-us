@@ -40,11 +40,11 @@ Tell your doctor about all of your medical conditions, including if you:
   Minocycline hydrochloride may harm your unborn baby.
   Stop taking minocycline hydrochloride capsules and call your doctor if you become pregnant while taking it.
 
-- are breast feeding.
+- are breastfeeding.
   Minocycline hydrochloride passes into your milk and may harm your baby.
   You should decide whether to use minocycline hydrochloride capsules or breastfeed, but not both.
 
-Tell your doctor about all the medicines you are taking including prescription and non prescription medications, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you are taking including prescription and nonprescription medications, vitamins, and herbal supplements.
 Minocycline hydrochloride capsules and other medicines may interact.
 Especially tell your doctor if you take:
 
@@ -63,7 +63,10 @@ Know the medicines you take, keep a list of them to show your doctor and pharmac
 How should I take minocycline hydrochloride capsules?
 
 - Take minocycline hydrochloride capsules exactly as your doctor tells you to take them.
-  Skipping doses or not taking all your minocycline hydrochloride capsules may: Decrease the effectiveness of the treatment Increase the chance that bacteria will develop resistance to minocycline hydrochloride capsules
+  Skipping doses or not taking all your minocycline hydrochloride capsules may:
+  - Decrease the effectiveness of the treatment
+  - Increase the chance that bacteria will develop resistance to minocycline hydrochloride capsules
+
 - Take minocycline hydrochloride capsules with a full glass of liquid.
   Taking minocycline hydrochloride capsules with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
   Your esophagus is the tube that connects your mouth to your stomach.
@@ -133,6 +136,6 @@ The 100 mg capsule shell also contains black iron oxide.
 
 Manufactured by: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722 INDIA
 
-Distributed by: Watson Pharma, Inc. Corona, CA 92880 USA
+Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: June 2009 0609B
+Revised: July 2014

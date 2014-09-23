@@ -8,7 +8,6 @@ Minocycline Hydrochloride Capsules USP, equivalent to 100 mg minocycline are opa
 
 Dispense in a tight, light-resistant container with child-resistant closure.
 
-Store at 20°-25°C (68°-77°F).
-[See USP controlled room temperature.]
+Store at 20° to 25°C (68° to 77°F) [See USP controlled room temperature].
 
 Protect from light, moisture and excessive heat.
