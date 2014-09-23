@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA202882"
+  ],
+  "inn": "pantoprazole",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-712-31",
+    "31722-712-32",
+    "31722-712-90",
+    "31722-713-31",
+    "31722-713-32",
+    "31722-713-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "pantoprazole",
+      "name": "PANTOPRAZOLE SODIUM"
+    }
+  ],
+  "setid": "9daa1483-5a36-44db-9e0d-904d100da262",
+  "source": "dailymed"
+}
