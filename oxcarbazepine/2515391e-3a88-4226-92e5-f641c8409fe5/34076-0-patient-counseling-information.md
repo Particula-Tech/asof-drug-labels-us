@@ -1,9 +1,9 @@
-# 17 INFORMATION FOR PATIENTS
+# 17 PATIENT COUNSELING INFORMATION
 
 Patients and caregivers should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking oxcarbazepine.
 
 Patients should be advised that oxcarbazepine may reduce the serum sodium concentrations especially if they are taking other medications that can lower sodium.
-Patients should be advised to report symptoms of low sodium like nausea, tiredness, lack of energy, confusion, and more frequent or more severe seizures [see Warnings and Precautions (5.1)].
+Patients should be advised to report symptoms of low sodium like nausea, tiredness, lack of energy, confusion and more frequent or more severe seizures [see Warnings and Precautions (5.1)].
 
 Anaphylactic reactions and angioedema may occur during treatment with oxcarbazepine.
 Patients should be advised to report immediately signs and symptoms suggesting angioedema (swelling of the face, eyes, lips, tongue or difficulty in swallowing or breathing) and to stop taking the drug until they have consulted with their physician [see Warnings and Precautions (5.2)].
@@ -22,7 +22,7 @@ Patients should be instructed to immediately consult with their physician if the
 Female patients of childbearing age should be warned that the concurrent use of oxcarbazepine with hormonal contraceptives may render this method of contraception less effective [see Drug Interactions (7.2)].
 Additional non-hormonal forms of contraception are recommended when using oxcarbazepine.
 
-Patients, their caregivers, and families should be counseled that AEDs, including oxcarbazepine, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Patients, their caregivers and families should be counseled that AEDs, including oxcarbazepine, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 Caution should be exercised if alcohol is taken in combination with oxcarbazepine therapy, due to a possible additive sedative effect.
@@ -33,3 +33,10 @@ Accordingly, patients should be advised not to drive or operate machinery until 
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+
+Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
+
+Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+
+Rev.
+07-2014-00

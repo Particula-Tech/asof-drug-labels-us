@@ -12,7 +12,7 @@ Oxcarbazepine should be used during pregnancy only if the potential benefit just
 
 Increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity (embryolethality, growth retardation) were observed in the offspring of animals treated with either oxcarbazepine or its active 10-hydroxy metabolite (MHD) during pregnancy at doses similar to the maximum recommended human dose.
 
-When pregnant rats were given oxcarbazepine (30, 300, or 1000 mg/kg) orally throughout the period of organogenesis, increased incidences of fetal malformations (craniofacial, cardiovascular, and skeletal) and variations were observed at the intermediate and high doses (approximately 1.2 and 4 times, respectively, the maximum recommended human dose [MRHD] on a mg/m2 basis).
+When pregnant rats were given oxcarbazepine (30, 300, or 1000 mg/kg) orally throughout the period of organogenesis, increased incidences of fetal malformations (craniofacial, cardiovascular and skeletal) and variations were observed at the intermediate and high doses (approximately 1.2 and 4 times, respectively, the maximum recommended human dose [MRHD] on a mg/m2 basis).
 Increased embryofetal death and decreased fetal body weights were seen at the high dose.
 Doses ≥300 mg/kg were also maternally toxic (decreased body weight gain, clinical signs), but there is no evidence to suggest that teratogenicity was secondary to the maternal effects.
 
@@ -51,5 +51,5 @@ Comparisons of creatinine clearance in young and elderly volunteers indicate tha
 
 ## 8.6 Renal Impairment
 
-In renally-impaired patients (creatinine clearance <30 mL/min), the elimination half-life of MHD is prolonged with a corresponding two-fold increase in AUC [see Clinical Pharmacology (12.4)].
+In renally-impaired patients (creatinine clearance <30 mL/min), the elimination half-life of MHD is prolonged with a corresponding two-fold increase in AUC [see Clinical Pharmacology (12.3)].
 Oxcarbazepine therapy should be initiated at one-half the usual starting dose and increased, if necessary, at a slower than usual rate until the desired clinical response is achieved.

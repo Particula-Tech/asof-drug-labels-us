@@ -11,7 +11,7 @@ No significant interactions of oxcarbazepine or MHD with brain neurotransmitter 
 ## 12.2 Pharmacodynamics
 
 Oxcarbazepine and its active metabolite (MHD) exhibit anticonvulsant properties in animal seizure models.
-They protected rodents against electrically induced tonic extension seizures and, to a lesser degree, chemically induced clonic seizures, and abolished or reduced the frequency of chronically recurring focal seizures in Rhesus monkeys with aluminum implants.
+They protected rodents against electrically induced tonic extension seizures and, to a lesser degree, chemically induced clonic seizures and abolished or reduced the frequency of chronically recurring focal seizures in Rhesus monkeys with aluminum implants.
 No development of tolerance (i.e., attenuation of anticonvulsive activity) was observed in the maximal electroshock test when mice and rats were treated daily for five days and four weeks, respectively, with oxcarbazepine or MHD.
 
 ## 12.3 Pharmacokinetics
@@ -55,13 +55,13 @@ Approximately 80% of the dose is excreted in the urine either as glucuronides of
 
 The half-life of the parent is about two hours, while the half-life of MHD is about nine hours.
 
-## 12.4 Special Populations
+## 12.6 Special Populations
 
 Hepatic Impairment
 
 The pharmacokinetics and metabolism of oxcarbazepine and MHD were evaluated in healthy volunteers and hepatically-impaired subjects after a single 900-mg oral dose.
 Mild-to-moderate hepatic impairment did not affect the pharmacokinetics of oxcarbazepine and MHD.
-No dose adjustment for oxcarbazepine is recommended in patients with mild-tomoderate hepatic impairment.
+No dose adjustment for oxcarbazepine is recommended in patients with mild-to-moderate hepatic impairment.
 The pharmacokinetics of oxcarbazepine and MHD have not been evaluated in severe hepatic impairment and, therefore, caution should be exercised when dosing severely impaired patients [see Dosage and Administration (2.7)].
 
 Renal Impairment

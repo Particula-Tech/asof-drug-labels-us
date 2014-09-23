@@ -9,7 +9,7 @@ Most Common Adverse Reactions in All Clinical Studies
 Adjunctive Therapy/Monotherapy in Adults Previously Treated with other AEDs: The most commonly observed (≥5%) adverse reactions seen in association with oxcarbazepine and substantially more frequent than in placebo-treated patients were: dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, abdominal pain, tremor, dyspepsia, abnormal gait.
 
 Approximately 23% of these 1,537 adult patients discontinued treatment because of an adverse experience.
-The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), hyponatremia (1.0%).
+The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), hyponatremia (1%).
 
 Monotherapy in Adults Not Previously Treated with other AEDs: The most commonly observed (≥5%) adverse reactions seen in association with oxcarbazepine in these patients were similar to those in previously treated patients.
 
@@ -19,7 +19,7 @@ The adverse reactions most commonly associated with discontinuation were: dizzin
 Adjunctive Therapy/Monotherapy in Pediatric Patients 4 Years Old and Above Previously Treated with other AEDs: The most commonly observed (≥5%) adverse reactions seen in association with oxcarbazepine in these patients were similar to those seen in adults.
 
 Approximately 11% of these 456 pediatric patients discontinued treatment because of an adverse experience.
-The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2.0%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), nystagmus (1.1%).
+The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), nystagmus (1.1%).
 
 Monotherapy in Pediatric Patients 4 Years Old and Above Not Previously Treated with other AEDs: The most commonly observed (≥5%) adverse reactions seen in association with oxcarbazepine in these patients were similar to those in adults.
 
@@ -29,7 +29,7 @@ The adverse reactions most commonly associated (≥1%) with discontinuation were
 Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to <4 Years Old Previously Treated or Not Previously Treated with other AEDs: The most commonly observed (≥5%) adverse reactions seen in association with oxcarbazepine in these patients were similar to those seen in older children and adults except for infections and infestations which were more frequently seen in these younger children.
 
 Approximately 11% of these 241 pediatric patients discontinued treatment because of an adverse experience.
-The adverse reaction most commonly associated with discontinuation were: convulsions (3.7%), status epilepticus (1.2%), and ataxia (1.2%).
+The adverse reaction most commonly associated with discontinuation were: convulsions (3.7%), status epilepticus (1.2%) and ataxia (1.2%).
 
 Incidence in Controlled Clinical Studies: The prescriber should be aware that the figures in Tables 3, 4, 5 and 6 cannot be used to predict the frequency of adverse reactions in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
@@ -269,9 +269,8 @@ Other: Systemic lupus erythematosus.
 
 ## 6.2 Post-Marketing and Other Experience
 
-The following adverse events not seen in controlled clinical trials have been observed in named patient programs or post-marketing experience:
-
-Body as a Whole: multi-organ hypersensitivity disorders characterized by features such as rash, fever, lymphadenopathy, abnormal liver function tests, eosinophilia and arthralgia [see Warnings and Precautions (5.8)]
+The following adverse events have been observed in named patient programs or post-marketing experience.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Anaphylaxis: [see Warnings and Precautions (5.2)]
 
@@ -279,4 +278,8 @@ Digestive System: pancreatitis and/or lipase and/or amylase increase
 
 Hematologic and Lymphatic Systems: aplastic anemia [see Warnings and Precautions (5.9)]
 
-Skin and Appendages: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)]
+Metabolism: hypothyroidism
+
+Skin and subcutaneous tissue disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)], Acute Generalized Exanthematous Pustulosis (AGEP)
+
+Musculoskeletal, connective tissue and bone disorders: There have been reports of decreased bone mineral density, osteoporosis and fractures in patients on long-term therapy with oxcarbazepine.

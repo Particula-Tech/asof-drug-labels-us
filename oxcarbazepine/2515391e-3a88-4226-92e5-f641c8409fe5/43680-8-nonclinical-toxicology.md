@@ -18,4 +18,4 @@ Oxcarbazepine and MHD were both negative for clastogenic or aneugenic effects (m
 
 Impairment of Fertility
 
-In a fertility study in which rats were administered MHD (50, 150, or 450 mg/kg) orally prior to and during mating and early gestation, estrous cyclicity was disrupted and numbers of corpora lutea, implantations, and live embryos were reduced in females receiving the highest dose (approximately two times the MRHD on a mg/m2 basis).
+In a fertility study in which rats were administered MHD (50, 150, or 450 mg/kg) orally prior to and during mating and early gestation, estrous cyclicity was disrupted and numbers of corpora lutea, implantations and live embryos were reduced in females receiving the highest dose (approximately two times the MRHD on a mg/m2 basis).

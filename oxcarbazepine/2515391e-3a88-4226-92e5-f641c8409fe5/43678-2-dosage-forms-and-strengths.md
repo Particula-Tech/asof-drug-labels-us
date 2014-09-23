@@ -1,3 +1,3 @@
-# 3 DOSAGE FORMS & STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Oral Suspension: 300 mg/5 mL (60 mg/mL)
