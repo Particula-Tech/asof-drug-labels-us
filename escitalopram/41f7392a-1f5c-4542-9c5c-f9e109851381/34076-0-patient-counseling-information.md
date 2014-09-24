@@ -1,20 +1,20 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-approved Medication Guide
 
 ## 17.1 Information for Patients
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe Escitalopram Tablets.
+Physicians are advised to discuss the following issues with patients for whom they prescribe escitalopram tablets.
 
 General Information about Medication Guide
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with Escitalopram Tablets and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for Escitalopram Tablets.
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with escitalopram tablets and should counsel them in its appropriate use.
+A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for escitalopram tablets.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking Escitalopram Tablets.
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking escitalopram tablets.
 
 Clinical Worsening and Suicide Risk
 
@@ -25,11 +25,18 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram and triptans, tramadol or other serotonergic agents [see WARNINGS AND PRECAUTIONS (5.2)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone and St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see WARNINGS AND PRECAUTIONS (5.2)].
 
 Abnormal Bleeding
 
 Patients should be cautioned about the concomitant use of escitalopram and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see WARNINGS AND PRECAUTIONS (5.7)].
+
+Angle Closure Glaucoma
+
+Patients should be advised that taking escitalopram can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see WARNINGS AND PRECAUTIONS (5.9)].
 
 Concomitant Medications
 
@@ -38,7 +45,7 @@ Patients should be advised to inform their physician if they are taking, or plan
 
 Continuing the Therapy Prescribed
 
-While patients may notice improvement with Escitalopram Tablets therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
+While patients may notice improvement with escitalopram tablets therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
 Interference with Psychomotor Performance
 
@@ -57,9 +64,9 @@ Patients should be advised to notify their physician if they
 
 Need for Comprehensive Treatment Program
 
-Escitalopram Tablets is indicated as an integral part of a total treatment program for MDD that may include other measures (psychological, educational, social) for patients with this syndrome.
+Escitalopram tablets is indicated as an integral part of a total treatment program for MDD that may include other measures (psychological, educational, social) for patients with this syndrome.
 Drug treatment may not be indicated for all adolescents with this syndrome.
-Safety and effectiveness of Escitalopram Tablets in MDD has not been established in pediatrics patients less than 12 years of age.
+Safety and effectiveness of escitalopram tablets in MDD has not been established in pediatric patients less than 12 years of age.
 Antidepressants are not intended for use in the adolescent who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms.
@@ -80,6 +87,22 @@ Goa 403 722
 
 INDIA
 
-July 2012 ID# 210792
+Revised: October 2014 ID#: 238797
 
 ## 17.2 FDA-Approved Medication Guide
+
+Medication Guide
+
+Escitalopram Tablets USP
+
+Read the Medication Guide that comes with escitalopram tablets USP before you start taking it and each time you get a refill.
+There may be new information.
+This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
+Talk with your healthcare provider if there is something you do not understand or want to learn more about.
+
+What is the most important information I should know about Escitalopram Tablets?
+
+Escitalopram tablets and other antidepressant medicines may cause serious side effects, including:
+
+1.
+Suicidal thoughts or actions:

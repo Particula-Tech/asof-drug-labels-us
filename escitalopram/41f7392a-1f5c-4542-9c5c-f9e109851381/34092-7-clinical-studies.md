@@ -1,14 +1,14 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Major Depressive Disorder
 
 Adolescents
 
-The efficacy of escitalopram as an acute treatment for major depressive disorder in adolescent patients was established in an 8-week, flexible-dose, placebo-controlled study that compared escitalopram 10-20 mg/day to placebo in outpatients 12 to 17 years of age inclusive who met DSM-IV criteria for major depressive disorder.
+The efficacy of escitalopram as an acute treatment for major depressive disorder in adolescent patients was established in an 8-week, flexible-dose, placebo-controlled study that compared escitalopram 10 to 20 mg/day to placebo in outpatients 12 to 17 years of age inclusive who met DSM-IV criteria for major depressive disorder.
 The primary outcome was change from baseline to endpoint in the Children's Depression Rating Scale - Revised (CDRS-R).
 In this study, escitalopram showed statistically significant greater mean improvement compared to placebo on the CDRS-R.
 
-The efficacy of escitalopram in the acute treatment of major depressive disorder in adolescents was established, in part, on the basis of extrapolation from the 8-week, flexible-dose, placebo-controlled study with racemic citalopram 20-40 mg/day.
+The efficacy of escitalopram in the acute treatment of major depressive disorder in adolescents was established, in part, on the basis of extrapolation from the 8-week, flexible-dose, placebo-controlled study with racemic citalopram 20 to 40 mg/day.
 In this outpatient study in children and adolescents 7 to 17 years of age who met DSM-IV criteria for major depressive disorder, citalopram treatment showed statistically significant greater mean improvement from baseline, compared to placebo, on the CDRS-R; the positive results for this trial largely came from the adolescent subgroup.
 
 Two additional flexible-dose, placebo-controlled MDD studies (one escitalopram study in patients ages 7 to 17 and one citalopram study in adolescents) did not demonstrate efficacy.
@@ -37,7 +37,7 @@ Patients receiving continued escitalopram experienced a statistically significan
 
 ## 14.2 Generalized Anxiety Disorder
 
-The efficacy of escitalopram in the acute treatment of Generalized Anxiety Disorder (GAD) was demonstrated in three, 8-week, multicenter, flexible-dose, placebo-controlled studies that compared escitalopram 10-20 mg/day to placebo in adult outpatients between 18 and 80 years of age who met DSM-IV criteria for GAD.
+The efficacy of escitalopram in the acute treatment of Generalized Anxiety Disorder (GAD) was demonstrated in three, 8-week, multicenter, flexible-dose, placebo-controlled studies that compared escitalopram 10 to 20 mg/day to placebo in adult outpatients between 18 and 80 years of age who met DSM-IV criteria for GAD.
 In all three studies, escitalopram showed statistically significant greater mean improvement compared to placebo on the Hamilton Anxiety Scale (HAM-A).
 
 There were too few patients in differing ethnic and age groups to adequately assess whether or not escitalopram has differential effects in these groups.

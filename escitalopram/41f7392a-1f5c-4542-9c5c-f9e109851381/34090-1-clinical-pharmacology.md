@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -16,9 +16,9 @@ Antagonism of muscarinic, histaminergic, and adrenergic receptors has been hypot
 ## 12.3 Pharmacokinetics
 
 The single- and multiple-dose pharmacokinetics of escitalopram are linear and dose-proportional in a dose range of 10 to 30 mg/ day.
-Biotransformation of escitalopram is mainly hepatic, with a mean terminal half-life of about 27-32 hours.
+Biotransformation of escitalopram is mainly hepatic, with a mean terminal half-life of about 27 to 32 hours.
 With once-daily dosing, steady state plasma concentrations are achieved within approximately one week.
-At steady state, the extent of accumulation of escitalopram in plasma in young healthy subjects was 2.2-2.5 times the plasma concentrations observed after a single dose.
+At steady state, the extent of accumulation of escitalopram in plasma in young healthy subjects was 2.2 to 2.5 times the plasma concentrations observed after a single dose.
 
 Absorption and Distribution
 
@@ -53,7 +53,7 @@ Adolescents - In a single dose study of 10 mg escitalopram, AUC of escitalopram 
 Following multiple dosing of 40 mg/day citalopram, escitalopram elimination half-life, steady-state Cmax and AUC were similar in patients with MDD (12 to 17 years of age) compared to adult patients.
 No adjustment of dosage is needed in adolescent patients.
 
-Elderly - Escitalopram pharmacokinetics in subjects (65 years of age were compared to younger subjects in a single-dose and a multiple-dose study.
+Elderly - Escitalopram pharmacokinetics in subjects ≥ 65 years of age were compared to younger subjects in a single-dose and a multiple-dose study.
 Escitalopram AUC and half-life were increased by approximately 50% in elderly subjects, and Cmax was unchanged.
 10 mg is the recommended dose for elderly patients [see DOSAGE AND ADMINISTRATION (2.3)].
 
@@ -66,7 +66,7 @@ Reduced renal function - In patients with mild to moderate renal function impair
 No adjustment of dosage for such patients is recommended.
 No information is available about the pharmacokinetics of escitalopram in patients with severely reduced renal function (creatinine clearance < 20 mL/min).
 
-Drug-Drug Interactions-In vitro enzyme inhibition data did not reveal an inhibitory effect of escitalopram on CYP3A4, -1A2, -2C9, -2C19, and -2E1.
+Drug-Drug Interactions - In vitro enzyme inhibition data did not reveal an inhibitory effect of escitalopram on CYP3A4, -1A2, -2C9, -2C19, and -2E1.
 Based on in vitro data, escitalopram would be expected to have little inhibitory effect on in vivo metabolism mediated by these cytochromes.
 While in vivo data to address this question are limited, results from drug interaction studies suggest that escitalopram, at a dose of 20 mg, has no 3A4 inhibitory effect and a modest 2D6 inhibitory effect.
-SEE DRUG INTERACTIONS (7.18)for more detailed information on available drug interaction data.
+See DRUG INTERACTIONS (7.18) for more detailed information on available drug interaction data.

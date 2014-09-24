@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Trials Experience
 
@@ -6,7 +6,7 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 
 Clinical Trial Data Sources
 
-Pediatrics (6 -17 years):
+Pediatrics (6 to 17 years):
 
 Adverse events were collected in 576 pediatric patients (286 escitalopram, 290 placebo) with major depressive disorder in double-blind placebo-controlled studies.
 Safety and effectiveness of escitalopram in pediatric patients less than 12 years of age has not been established.
@@ -26,9 +26,9 @@ An event was considered treatment-emergent if it occurred for the first time or 
 
 Adverse Events Associated with Discontinuation of Treatment
 
-Major Depressive Disorder
+Major Depressive Disorder:
 
-Pediatrics (6 -17 years):
+Pediatrics (6 to 17 years)
 
 Adverse events were associated with discontinuation of 3.5% of 286 patients receiving escitalopram and 1% of 290 patients receiving placebo.
 The most common adverse event (incidence at least 1% for escitalopram and greater than placebo) associated with discontinuation was insomnia (1% escitalopram, 0% placebo).
@@ -40,27 +40,27 @@ In two fixed-dose studies, the rate of discontinuation for adverse events in pat
 The rate of discontinuation for adverse events in patients assigned to a fixed dose of 20 mg/day escitalopram was 10%, which was significantly different from the rate of discontinuation for adverse events in patients receiving 10 mg/day escitalopram (4%) and placebo (3%).
 Adverse events that were associated with the discontinuation of at least 1% of patients treated with escitalopram, and for which the rate was at least twice that of placebo, were nausea (2%) and ejaculation disorder (2% of male patients).
 
-Generalized Anxiety Disorder
+Generalized Anxiety Disorder:
 
-Adults:
+Adults
 
-Among the 429 GAD patients who received escitalopram 10-20 mg/day in placebo-controlled trials, 8% discontinued treatment due to an adverse event, as compared to 4% of 427 patients receiving placebo.
+Among the 429 GAD patients who received escitalopram 10 to 20 mg/day in placebo-controlled trials, 8% discontinued treatment due to an adverse event, as compared to 4% of 427 patients receiving placebo.
 Adverse events that were associated with the discontinuation of at least 1% of patients treated with escitalopram, and for which the rate was at least twice the placebo rate, were nausea (2%), insomnia (1%), and fatigue (1%).
 
 Incidence of Adverse Reactions in Placebo-Controlled Clinical Trials
 
-Major Depressive Disorder
+Major Depressive Disorder:
 
-Pediatrics (6 -17 years)
+Pediatrics (6 to 17 years)
 
 The overall profile of adverse reactions in pediatric patients was generally similar to that seen in adult studies, as shown in Table 2.
 However, the following adverse reactions (excluding those which appear in Table 2 and those for which the coded terms were uninformative or misleading) were reported at an incidence of at least 2% for escitalopram and greater than placebo: back pain, urinary tract infection, vomiting, and nasal congestion.
 
-Adults:
+Adults
 
 The most commonly observed adverse reactions in escitalopram patients (incidence of approximately 5% or greater and approximately twice the incidence in placebo patients) were insomnia, ejaculation disorder (primarily ejaculatory delay), nausea, sweating increased, fatigue, and somnolence.
 
-Table 2 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 715 depressed patients who received Escitalopram Tablets at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
+Table 2 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 715 depressed patients who received escitalopram tablets at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with escitalopram and for which the incidence in patients treated with escitalopram was greater than the incidence in placebo-treated patients.
 
 TABLE 2 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder
@@ -71,7 +71,7 @@ TABLE 2 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2%
 | Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 6% | 5% |
 | Sweating Increased | 5% | 2% |
-| Central & Peripheral Nervous System Disorders |  |  |
+| Central and Peripheral Nervous System Disorders |  |  |
 | Dizziness | 5% | 3% |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 15% | 7% |
@@ -91,25 +91,23 @@ TABLE 2 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2%
 | Rhinitis | 5% | 4% |
 | Sinusitis | 3% | 2% |
 | Urogenital |  |  |
-| Ejaculation Disorder1,2 | 9% | <1% |
-| Impotence2 | 3% | <1% |
-| Anorgasmia3 | 2% | <1% |
-| 1 Primarily ejaculatory delay. 2 Denominator used was for males only (N=225 escitalopram; N=188 placebo). 3 Denominator used was for females only (N=490 escitalopram; N=404 placebo). |  |  |
+| Ejaculation DisorderPrimarily ejaculatory delay.,Denominator used was for males only (N=225 escitalopram; N=188 placebo). | 9% | <1% |
+| Impotence | 3% | <1% |
+| AnorgasmiaDenominator used was for females only (N=490 escitalopram; N=404 placebo). | 2% | <1% |
 
-Generalized Anxiety Disorder
+Generalized Anxiety Disorder:
 
-Adults:
+Adults
 
 The most commonly observed adverse reactions in escitalopram patients (incidence of approximately 5% or greater and approximately twice the incidence in placebo patients) were nausea, ejaculation disorder (primarily ejaculatory delay), insomnia, fatigue, decreased libido, and anorgasmia.
 
-Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse events that occurred among 429 GAD patients who received Escitalopram Tablets 10 to 20 mg/day in placebo-controlled trials.
+Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse events that occurred among 429 GAD patients who received escitalopram tablets 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with escitalopram and for which the incidence in patients treated with escitalopram was greater than the incidence in placebo-treated patients.
 
 TABLE 3 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Generalized Anxiety Disorder
 
-| Adverse Reactions | Escitalopram | Placebo |
+| Adverse Reactions | Escitalopram (N=429) % | Placebo (N=427) % |
 | --- | --- | --- |
-|  | (N=429) % | (N=427) % |
 | Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 9% | 5% |
 | Sweating Increased | 4% | 1% |
@@ -140,10 +138,9 @@ TABLE 3 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2%
 | Respiratory System Disorders |  |  |
 | Yawning | 2% | 1% |
 | Urogenital |  |  |
-| Ejaculation Disorder1,2 | 14% | 2% |
-| Anorgasmia3 | 6% | <1% |
+| Ejaculation DisorderPrimarily ejaculatory delay.,Denominator used was for males only (N=182 escitalopram; N=195 placebo). | 14% | 2% |
+| AnorgasmiaDenominator used was for females only (N=247 escitalopram; N=232 placebo). | 6% | <1% |
 | Menstrual Disorder | 2% | 1% |
-| 1Primarily ejaculatory delay. 2Denominator used was for males only (N=182 escitalopram; N=195 placebo). 3Denominator used was for females only (N=247 escitalopram; N=232 placebo). |  |  |
 
 Dose Dependency of Adverse Reactions:
 
@@ -191,7 +188,7 @@ TABLE 5 Incidence of Sexual Side Effects in Placebo-Controlled Clinical Trials
 | Libido Decreased | 3% | 1% |
 | Anorgasmia | 3% | <1% |
 
-There are no adequately designed studies examining sexual dysfunction with escitalopram treatment
+There are no adequately designed studies examining sexual dysfunction with escitalopram treatment.
 
 Priapism has been reported with all SSRIs.
 
@@ -273,7 +270,7 @@ Ear and labyrinth disorders: vertigo
 
 Endocrine Disorders: diabetes mellitus, hyperprolactinemia, SIADH.
 
-Eye Disorders: diplopia, glaucoma, mydriasis, visual disturbance.
+Eye Disorders: angle closure glaucoma, diplopia, mydriasis, visual disturbance.
 
 Gastrointestinal Disorder: dysphagia, gastrointestinal hemorrhage, gastroesophageal reflux, pancreatitis, rectal hemorrhage.
 
