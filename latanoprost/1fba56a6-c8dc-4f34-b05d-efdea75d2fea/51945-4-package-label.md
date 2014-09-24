@@ -2,16 +2,10 @@
 
 NDC 61314-547-01 Rx Only
 
-FALCON Pharmaceuticals®
-
-Latanoprost Ophthalmic Solution
-
-0.005%
+Latanoprost Ophthalmic Solution, 0.005%
 
 FOR USE IN THE EYES ONLY
 
-125 μg/2.5 mL STERILE
+STERILE
 
-AFILLIATE OF ALCON LABAORATORIES, INC.
-
-QUALITY RX
+125 μg/2.5 mL
