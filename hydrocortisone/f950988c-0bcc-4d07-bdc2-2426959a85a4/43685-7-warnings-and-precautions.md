@@ -21,6 +21,7 @@ If a favorable response does not occur promptly, use of Locoid Lipocream should 
 ## 5.3 Skin Irritation
 
 Locoid Lipocream may cause local skin adverse reactions [see Adverse Reactions (6)].
+
 If irritation develops, Locoid Lipocream should be discontinued and appropriate therapy instituted.
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noticing a clinical exacerbation.
 Such an observation should be corroborated with appropriate patch testing.

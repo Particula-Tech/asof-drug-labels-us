@@ -32,7 +32,7 @@ No treatment related effects on embryofetal toxicity or teratogenicity were note
 
 No topical embryofetal development studies were conducted with hydrocortisone butyrate cream.
 However, topical embryofetal development studies were conducted in rats and rabbits with a hydrocortisone butyrate ointment formulation.
-Topical doses of 1% and 10% hydrocortisone butyrate ointment were administered to pregnant female rats during gestation days 6 – 15 or pregnant female rabbits during gestation days 6 – 18.
+Topical doses of 1% and 10% hydrocortisone butyrate ointment were administered to pregnant female rats during gestation days 6 – 15 or pregnant female rabbits during gestation days 6 –18.
 A dose-dependent increase in fetal resorptions was noted in rabbits (0.2 – 2X MTHD) and fetal resorptions were noted in rats at the 10% hydrocortisone butyrate ointment dose (80X MTHD).
 No treatment related effects on embyrofetal toxicity were noted at the 1% hydrocortisone butyrate ointment dose in rats (8 MTHD).
 A dose at which no treatment related effects on embryofetal toxicity were observed in rabbits after topical administration of hydrocortisone butyrate ointment was not established in this study.
@@ -49,13 +49,13 @@ No treatment related effects on behavioral development or subsequent reproductiv
 ## 8.3 Nursing Mothers
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when Locoid Lipocream is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
 Safety and efficacy in pediatric patients below 3 months of age have not been established.
+
 Because of higher skin surface-to-body-mass ratios, pediatric patients are at a greater risk than adults of HPA axis suppression when they are treated with topical corticosteroids.
 They are therefore also at a greater risk of glucocorticosteroid insufficiency after withdrawal of treatment and of Cushing’s syndrome while on treatment.
 
