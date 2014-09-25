@@ -32,13 +32,12 @@ Do not start using ESTRING if you:
 - currently have or have had blood clots
 - currently have or have had liver problems
 - have been diagnosed with a bleeding disorder
-- are allergic to ESTRING or any of its ingredientsSee the list of ingredients in ESTRING at the end of this leaflet.
+- are allergic to ESTRING or any of its ingredients See the list of ingredients in ESTRING at the end of this leaflet.
 - think you may be pregnantESTRING is not for pregnant women.
   If you think you may be pregnant, you should have a pregnancy test and know the results.
   Do not use ESTRING if the test is positive and talk to your healthcare provider.
 
 What should I tell my healthcare provider before I use ESTRING?
-
 Before you use ESTRING, tell your healthcare provider if you:
 
 - have any unusual vaginal bleedingVaginal bleeding after menopause may be a warning sigh of cancer of the uterus (womb).
@@ -145,6 +144,4 @@ What are the ingredients in ESTRING?
 ESTRING (estradiol vaginal ring) is a slightly opaque ring with a whitish core containing a drug reservoir of 2 mg estradiol (an estrogen hormone).
 Estradiol, silicone polymers and barium sulfate are combined to form the ring.
 
-Storage
-
-Store at controlled room temperature 15° to 30° C (59° to 86° F).
+Storage: Store at controlled room temperature 15° to 30° C (59° to 86° F).

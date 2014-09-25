@@ -2,4 +2,4 @@
 
 Rx only
 
-LAB-0082-6.3 August 2014
+LAB-0082--7.0 August 2014

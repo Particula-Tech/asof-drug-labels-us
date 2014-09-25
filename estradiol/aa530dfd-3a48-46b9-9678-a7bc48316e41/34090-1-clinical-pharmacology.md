@@ -38,7 +38,7 @@ In postmenopausal women, mean dose of estradiol systemically absorbed unchanged 
 
 TABLE 1: PHARMACOKINETIC MEAN ESTIMATES FOLLOWING SINGLE ESTRING APPLICATION
 
-| Estrogen | Cmax (pg/mL) | Css-48 hr (pg/mL) | Css-4w (pg/mL) | Css-12w (pg/mL) |
+| Estrogen | Cmax (pg/mL) | Css–48 hr (pg/mL) | Css–4w (pg/mL) | Css–12w (pg/mL) |
 | --- | --- | --- | --- | --- |
 | Estradiol (E2) | 63.2n=14 | 11.2 | 9.5 | 8.0 |
 | Baseline-adjusted E2Based on means | 55.6 | 3.6 | 2.0 | 0.4 |
