@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Trial Data Sources
 
@@ -21,8 +21,8 @@ Nausea (duloxetine 1.3%, placebo 0.5%) was the only common adverse reaction repo
 
 Generalized Anxiety Disorder
 
-Approximately 15.3% (102/668) of the patients who received duloxetine in placebo-controlled trials for GAD discontinued treatment due to an adverse reaction, compared with 4.0% (20/495) for placebo.
-Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 3.7%, placebo 0.2%), and vomiting (duloxetine 1.3%, placebo 0.0%), and dizziness (duloxetine 1.0%, placebo 0.2%).
+Approximately 15.3% (102/668) of the patients who received duloxetine in placebo-controlled trials for GAD discontinued treatment due to an adverse reaction, compared with 4% (20/495) for placebo.
+Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 3.7%, placebo 0.2%), and vomiting (duloxetine 1.3%, placebo 0.0%), and dizziness (duloxetine 1%, placebo 0.2%).
 
 Diabetic Peripheral Neuropathic Pain
 
@@ -38,14 +38,6 @@ The most commonly observed adverse reactions in duloxetine -treated patients (in
 Diabetic Peripheral Neuropathic Pain
 
 The most commonly observed adverse reactions in duloxetine -treated patients (as defined above) were nausea, somnolence, decreased appetite, constipation, hyperhidrosis, and dry mouth.
-
-Chronic Pain due to Osteoarthritis
-
-The most commonly observed adverse reactions in duloxetine -treated patients (as defined above) were nausea, fatigue, and constipation.
-
-Chronic Low Back Pain
-
-The most commonly observed adverse reactions in duloxetine -treated patients (as defined above) were nausea, dry mouth, insomnia, somnolence, constipation, dizziness, and fatigue.
 
 ## 6.4 Adverse Reactions Occurring at an Incidence of 5% or More Among Duloxetine-Treated Patients in Placebo-Controlled Trials
 
@@ -69,7 +61,7 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More in Placeb
 | Hyperhidrosis | 7 | 2 |
 | aAlso includes asthenia. |  |  |
 
-## 6.12 Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine-Treated Patients in Placebo-Controlled Trials
+## 6.5 Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine-Treated Patients in Placebo-Controlled Trials
 
 Pooled MDD and GAD Trials
 
@@ -195,7 +187,7 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in DPNP P
 | mMale patients only (N=885 for duloxetine, 494 for placebo). Also includes ejaculation failure |  |  |
 | nAlso includes hot flush |  |  |
 
-## 6.5 Effects on Male and Female Sexual Function
+## 6.6 Effects on Male and Female Sexual Function
 
 Changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of psychiatric disorders or diabetes, but they may also be a consequence of pharmacologic treatment.
 Because adverse sexual reactions are presumed to be voluntarily underreported, the Arizona Sexual Experience Scale (ASEX), a validated measure designed to identify sexual side effects, was used prospectively in 4 MDD placebo-controlled trials.
@@ -218,29 +210,29 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 | Item 4-Ease of reaching orgasm | 0.40p<0.001 versus placebo | -0.24 | -0.09 | -0.13 |
 | Item 5-Orgasm satisfaction | 0.09 | -0.13 | -0.11 | -0.17 |
 
-## 6.6 Vital Sign Changes
+## 6.7 Vital Sign Changes
 
 In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.07 mm Hg in systolic blood pressure and 0.62 mm Hg in diastolic blood pressure compared to mean decreases of 1.31 mm Hg systolic and 0.73 mm Hg diastolic in placebo-treated patients.
-There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see WARNINGS AND PRECAUTIONS (5.3and 5.10)].
+There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see WARNINGS AND PRECAUTIONS (5.3and 5.11)].
 
 Duloxetine treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.40 beats per minute.
 
-## 6.7 Weight Changes
+## 6.8 Weight Changes
 
 In placebo-controlled clinical trials, MDD and GAD patients treated with duloxetine for up to 10 weeks experienced a mean weight loss of approximately 0.5 kg, compared with a mean weight gain of approximately 0.2 kg in placebo-treated patients.
 In studies of DPNP, patients treated with duloxetine for up to 26 weeks experienced a mean weight loss of approximately 0.6 kg compared with a mean weight gain of approximately 0.2 kg in placebo-treated patients.
 
-## 6.8 Laboratory Changes
+## 6.9 Laboratory Changes
 
 Duloxetine treatment in placebo-controlled clinical trials across approved indications, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, and alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in duloxetine -treated patients when compared with placebo-treated patients [see WARNINGS AND PRECAUTIONS (5.2)].
 
-## 6.9 Electrocardiogram Changes
+## 6.10 Electrocardiogram Changes
 
 The effect of duloxetine 160 mg and 200 mg administered twice daily to steady state was evaluated in a randomized, double-blinded, two-way crossover study in 117 healthy female subjects.
 No QT interval prolongation was detected.
 Duloxetine appears to be associated with concentration-dependent but not clinically meaningful QT shortening.
 
-## 6.10 Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine
+## 6.11 Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine
 
 Following is a list of treatment-emergent adverse reactions reported by patients treated with duloxetine in clinical trials.
 In clinical trials of all indications, 29,435 patients were treated with duloxetine.
@@ -315,9 +307,9 @@ Vascular Disorders
 
 Frequent: hot flush; Infrequent: flushing, orthostatic hypotension, and peripheral coldness.
 
-## 6.11 Postmarketing Spontaneous Reports
+## 6.12 Postmarketing Spontaneous Reports
 
 The following adverse reactions have been identified during postapproval use of duloxetine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, extrapyramidal disorder, galactorrhea, glaucoma, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.
+Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, angle-closure glaucoma, extrapyramidal disorder, galactorrhea, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.

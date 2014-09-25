@@ -1,16 +1,16 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 Both CYP1A2 and CYP2D6 are responsible for duloxetine metabolism.
 
 ## 7.1 Inhibitors of CYP1A2
 
 When duloxetine 60 mg was co-administered with fluvoxamine 100 mg, a potent CYP1A2 inhibitor, to male subjects (n=14) duloxetine AUC was increased approximately 6-fold, the Cmax was increased about 2.5-fold, and duloxetine t1/2 was increased approximately 3-fold.
-Other drugs that inhibit CYP1A2 metabolism include cimetidine and quinolone antimicrobials such as ciprofloxacin and enoxacin [see WARNINGS AND PRECAUTIONS (5.11)].
+Other drugs that inhibit CYP1A2 metabolism include cimetidine and quinolone antimicrobials such as ciprofloxacin and enoxacin [see WARNINGS AND PRECAUTIONS (5.12)].
 
 ## 7.2 Inhibitors of CYP2D6
 
 Concomitant use of duloxetine (40 mg once daily) with paroxetine (20 mg once daily) increased the concentration of duloxetine AUC by about 60%, and greater degrees of inhibition are expected with higher doses of paroxetine.
-Similar effects would be expected with other potent CYP2D6 inhibitors (e.g., fluoxetine, quinidine) [see WARNINGS AND PRECAUTIONS (5.11)].
+Similar effects would be expected with other potent CYP2D6 inhibitors (e.g., fluoxetine, quinidine) [see WARNINGS AND PRECAUTIONS (5.12)].
 
 ## 7.3 Dual Inhibition of CYP1A2 and CYP2D6
 
@@ -40,7 +40,7 @@ In extremely acidic conditions, duloxetine, unprotected by the enteric coating, 
 Caution is advised in using duloxetine in patients with conditions that may slow gastric emptying (e.g., some diabetics).
 Drugs that raise the gastrointestinal pH may lead to an earlier release of duloxetine.
 However, coadministration of duloxetine with aluminum- and magnesium-containing antacids (51 mEq) or duloxetine with famotidine, had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
-It is unknown whether the concomitant administration of proton pump inhibitors affects duloxetine absorption [see WARNINGS AND PRECAUTIONS (5.13)].
+It is unknown whether the concomitant administration of proton pump inhibitors affects duloxetine absorption [see WARNINGS AND PRECAUTIONS (5.14)].
 
 ## 7.8 Drugs Metabolized by CYP1A2
 
@@ -51,48 +51,43 @@ Duloxetine is an inhibitor of the CYP1A2 isoform in in vitro studies, and in two
 ## 7.9 Drugs Metabolized by CYP2D6
 
 Duloxetine is a moderate inhibitor of CYP2D6.
-When duloxetine was administered (at a dose of 60 mg twice daily) in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold [see WARNINGS AND PRECAUTIONS (5.11)].
+When duloxetine was administered (at a dose of 60 mg twice daily) in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold [see WARNINGS AND PRECAUTIONS (5.12)].
 
 ## 7.10 Drugs Metabolized by CYP2C9
 
 Results of in vitro studies demonstrate that duloxetine does not inhibit activity.
 In a clinical study, the pharmacokinetics of S-warfarin, a CYP2C9 substrate, were not significantly affected by duloxetine [see DRUG INTERACTIONS (7.4)].
 
-## 7.18 Drugs Metabolized by CYP3A
+## 7.11 Drugs Metabolized by CYP3A
 
 Results of in vitro studies demonstrate that duloxetine does not inhibit or induce CYP3A activity.
 Therefore, an increase or decrease in the metabolism of CYP3A substrates (e.g., oral contraceptives and other steroidal agents) resulting from induction or inhibition is not anticipated, although clinical studies have not been performed.
 
-## 7.11 Drugs Metabolized by CYP2C19
+## 7.12 Drugs Metabolized by CYP2C19
 
 Results of in vitro studies demonstrate that duloxetine does not inhibit CYP2C19 activity at therapeutic concentrations.
 Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated, although clinical studies have not been performed.
 
-## 7.17 Drugs Metabolized by CYP3A
-
-Results of in vitro studies demonstrate that duloxetine does not inhibit or induce CYP3A activity.
-Therefore, an increase or decrease in the metabolism of CYP3A substrates (e.g., oral contraceptives and other steroidal agents) resulting from induction or inhibition is not anticipated, although clinical studies have not been performed.
-
-## 7.12 Monoamine Oxidase Inhibitors (MAOIs)
+## 7.13 Monoamine Oxidase Inhibitors (MAOIs)
 
 [See DOSAGE AND ADMINISTRATION (2.5, 2.6), CONTRAINDICATIONS (4.1), and WARNINGS AND PRECAUTIONS (5.4)].
 
-## 7.13 Serotonergic Drugs
+## 7.14 Serotonergic Drugs
 
 [See DOSAGE AND ADMINISTRATION (2.5, 2.6), CONTRAINDICATIONS (4.1), and WARNINGS AND PRECAUTIONS (5.4)].
 
-## 7.14 Alcohol
+## 7.15 Alcohol
 
 When duloxetine and ethanol were administered several hours apart so that peak concentrations of each would coincide, duloxetine did not increase the impairment of mental and motor skills caused by alcohol.
 
 In the duloxetine clinical trials database, three duloxetine -treated patients had liver injury as manifested by ALT and total bilirubin elevations, with evidence of obstruction.
-Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see WARNINGS AND PRECAUTIONS (5.2 and 5.11)].
+Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see WARNINGS AND PRECAUTIONS (5.2 and 5.12)].
 
-## 7.15 CNS Drugs
+## 7.16 CNS Drugs
 
-[See WARNINGS AND PRECAUTIONS (5.11)].
+[See WARNINGS AND PRECAUTIONS (5.12)].
 
-## 7.16 Drugs Highly Bound to Plasma Protein
+## 7.17 Drugs Highly Bound to Plasma Protein
 
 Because duloxetine is highly bound to plasma protein, administration of duloxetine to a patient taking another drug that is highly protein bound may cause increased free concentrations of the other drug, potentially resulting in adverse reactions.
 However, co-administration of duloxetine (60 or 120 mg) with warfarin (2 to 9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see DRUG INTERACTIONS (7.4)].

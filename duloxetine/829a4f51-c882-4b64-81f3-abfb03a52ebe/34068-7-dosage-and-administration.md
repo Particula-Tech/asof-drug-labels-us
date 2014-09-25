@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Duloxetine delayed-release capsules should be swallowed whole and should not be chewed or crushed, nor should the capsule be opened and its contents sprinkled on food or mixed with liquids.
 All of these might affect the enteric coating.
@@ -54,11 +54,11 @@ Efficacy beyond 12 weeks has not been systematically studied in placebo-controll
 
 Hepatic Insufficiency
 
-It is recommended that duloxetine delayed-release capsules should ordinarily not be administered to patients with any hepatic insufficiency [see WARNINGS AND PRECAUTIONS (5.13) and USE IN SPECIFIC POPULATIONS (8.9)].
+It is recommended that duloxetine delayed-release capsules should ordinarily not be administered to patients with any hepatic insufficiency [see WARNINGS AND PRECAUTIONS (5.14) and USE IN SPECIFIC POPULATIONS (8.9)].
 
 Severe Renal Impairment
 
-Duloxetine delayed-release capsules are not recommended for patients with end-stage renal disease or severe renal impairment (estimated creatinine clearance <30 mL/min) [see WARNINGS AND PRECAUTIONS (5.13) and USE IN SPECIFIC POPULATIONS (8.10)].
+Duloxetine delayed-release capsules are not recommended for patients with end-stage renal disease or severe renal impairment (estimated creatinine clearance <30 mL/min) [see WARNINGS AND PRECAUTIONS (5.14) and USE IN SPECIFIC POPULATIONS (8.10)].
 
 Elderly Patients
 
@@ -87,7 +87,7 @@ Conversely, at least 5 days should be allowed after stopping duloxetine delayed-
 ## 2.6 Use of Duloxetine Delayed-release Capsules with Other MAOIs such as Linezolid or Methylene Blue
 
 Do not start duloxetine delayed-release capsules in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
-In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered[see CONTRAINDICATIONS (4.1)].
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see CONTRAINDICATIONS (4.1)].
 
 In some cases, a patient already receiving duloxetine delayed-release capsules therapy may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, duloxetine delayed-release capsules should be stopped promptly, and linezolid or intravenous methylene blue can be administered.

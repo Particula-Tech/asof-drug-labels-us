@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 How Supplied
 
@@ -18,6 +18,6 @@ Duloxetine is available as delayed-release capsules in the following strengths, 
 | Bottles of 90 | 68180-294-09 | 68180-295-09 | 68180-296-09 |
 | Bottles of 1000 | 68180-294-03 | 68180-295-03 | 68180-296-03 |
 
-## 16.2 Storage
+## 16.2 Storage and Handling
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].

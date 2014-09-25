@@ -86,16 +86,28 @@ Manic episodes:
 - talking more or faster than usual
 
 7.
-Seizures or convulsions
+Visual Problems
+
+• eye pain
+
+• changes in vision
+
+• swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 8.
+Seizures or convulsions
+
+9.
 Changes in blood pressure.
 Monitor your blood pressure before starting and throughout treatment. duloxetine may:
 
 - increase your blood pressure.
 - decrease your blood pressure when standing and cause dizziness or fainting, mostly when first starting duloxetine delayed-release capsules or when increasing the dose.
 
-9.
+10.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
@@ -104,13 +116,13 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
-10.
+11.
 Problems with urination include:
 
 - decreased urine flow
 - unable to pass any urine
 
-11.
+12.
 Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
 
@@ -141,9 +153,8 @@ Who should not take duloxetine delayed-release capsules?
 
 Do NOT take duloxetine delayed-release capsules if you:
 
-- have uncontrolled narrow-angle glaucoma
 - take a Monoamine Oxidase Inhibitor (MAOI).
-- Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - Do not take an MAOI within 5 days of stopping duloxetine delayed-release capsules unless directed to do so by your physician.
 - Do not start duloxetine delayed-release capsules if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
@@ -175,22 +186,34 @@ Before starting duloxetine delayed-release capsules, tell your healthcare provid
 - The blood thinner warfarin (Coumadin*, Jantoven*)
 - Non-steroidal anti-inflammatory drug (NSAID), like ibuprofen, naproxen or aspirin.
 - Over-the-counter supplements such as tryptophan or St. John's Wort
-- have heart problems or high blood pressure
-- have diabetes (duloxetine delayed-release capsules treatment worsens the control of blood sugar in some patients with diabetes)
-- have liver problems
-- have kidney problems
-- have glaucoma
-- have or had seizures or convulsions
-- have bipolar disorder or mania
-- have low sodium levels in your blood
-- have delayed stomach emptying
-- have or had bleeding problems
-- are pregnant or plan to become pregnant.
-  It is not known if duloxetine will harm your unborn baby.
-  Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with duloxetine during pregnancy.
-- are breast-feeding or plan to breast-feed.
-  Some duloxetine may pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release capsules.
+
+• have heart problems or high blood pressure
+
+• have diabetes (duloxetine delayed-release capsules treatment worsens the control of blood sugar in some patients with diabetes)
+
+• have liver problems
+
+• have kidney problems
+
+• have angle-closure glaucoma
+
+• have or had seizures or convulsions
+
+• have bipolar disorder or mania
+
+• have low sodium levels in your blood
+
+• have delayed stomach emptying
+
+• have or had bleeding problems
+
+• are pregnant or plan to become pregnant.
+It is not known if duloxetine will harm your unborn baby.
+Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with duloxetine during pregnancy.
+
+• are breast-feeding or plan to breast-feed.
+Some duloxetine may pass into your breast milk.
+Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release capsules.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Duloxetine delayed-release capsules and some medicines may interact with each other, may not work as well, or may cause serious side effects.
@@ -289,4 +312,4 @@ Goa 403722
 
 INDIA
 
-Revised: June 2014 ID#: 237191
+Revised: October 2014 ID#: 238913

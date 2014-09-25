@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Major Depressive Disorder
 
@@ -57,3 +57,7 @@ For various degrees of improvement in pain from baseline to study endpoint, Figu
 The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
+
+Figure 1: Percentage of Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity - DPNP-1
+
+Figure 2: Percentage of Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity - DPNP-2
