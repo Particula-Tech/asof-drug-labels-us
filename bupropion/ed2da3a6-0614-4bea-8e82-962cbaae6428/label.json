@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA200063"
+  ],
+  "inn": "bupropion",
+  "labeler": "Takeda Pharmaceuticals America, Inc.",
+  "package_ndcs": [
+    "64764-890-00",
+    "64764-890-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "naltrexone hydrochloride and bupropion hydrochloride",
+      "name": "CONTRAVE"
+    }
+  ],
+  "setid": "ed2da3a6-0614-4bea-8e82-962cbaae6428",
+  "source": "dailymed"
+}

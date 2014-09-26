@@ -1,0 +1,34 @@
+# 10OVERDOSAGE
+
+Human Experience
+
+There is no clinical experience with overdosage with CONTRAVE.
+The maximum daily dose of CONTRAVE administered in clinical trials contained 50 mg naltrexone and 400 mg bupropion.
+The most serious clinical implications of CONTRAVE overdose are likely those related to overdose of bupropion.
+
+Overdoses of up to 30 grams or more of bupropion (equivalent of up to 83 times the recommended daily dose of CONTRAVE 32 mg/360 mg) have been reported.
+Seizure was reported in approximately one third of all cases.
+Other serious reactions reported with overdoses of bupropion alone included hallucinations, loss of consciousness, sinus tachycardia, and ECG changes such as conduction disturbances (including QRS prolongation) or arrhythmias.
+Fever, muscle rigidity, rhabdomyolysis, hypotension, stupor, coma, and respiratory failure have been reported mainly when bupropion was part of multiple drug overdoses.
+
+Although most patients recovered without sequelae, deaths associated with overdoses of bupropion alone have been reported in patients ingesting large doses of the drug.
+Multiple uncontrolled seizures, bradycardia, cardiac failure, and cardiac arrest prior to death were reported in these patients.
+
+There is limited experience with overdose of naltrexone monotherapy in humans.
+In one study, subjects who received 800 mg naltrexone daily (equivalent to 25 times the recommended daily dose of CONTRAVE 32 mg/360 mg) for up to one week showed no evidence of toxicity.
+
+Animal Experience
+
+In the mouse, rat, and guinea pig, the oral LD50s for naltrexone were 1,100 to 1,550 mg/kg; 1,450 mg/kg; and 1,490 mg/kg; respectively.
+High doses of naltrexone (generally greater than or equal to 1,000 mg/kg) produced salivation, depression/reduced activity, tremors, and convulsions.
+Mortality in animals due to high-dose naltrexone administration usually was due to clonic-tonic convulsions and/or respiratory failure.
+
+Overdosage Management
+
+If over-exposure occurs, call your poison control center at 1-800-222-1222.
+There are no known antidotes for CONTRAVE.
+In case of an overdose, provide supportive care, including close medical supervision and monitoring.
+Consider the possibility of multiple drug overdose.
+Ensure an adequate airway, oxygenation, and ventilation.
+Monitor cardiac rhythm and vital signs.
+Induction of emesis is not recommended.
