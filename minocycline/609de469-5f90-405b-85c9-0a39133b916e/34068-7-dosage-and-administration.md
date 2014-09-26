@@ -8,12 +8,16 @@ Parenteral therapy is indicated only when oral therapy is not adequate or tolera
 Oral therapy should be instituted as soon as possible.
 If intravenous therapy is given over prolonged periods of time, thrombophlebitis may result.
 
-For Pediatric Patients above 8 years of Age Usual pediatric dose: Initial dose of 4 mg/kg, then 2 mg/kg every 12 hours, not to exceed the usual adult dose
+## For Pediatric Patients above 8 years of Age
 
-Adults Usual adult dose: Initial dose of 200 mg, then 100 mg every 12 hours and should not exceed 400 mg in 24 hours.
-The cryodesiccated powder should be reconstituted with 5 mL Sterile Water for Injection USP and immediately further diluted to 500 mL to 1,000 mL with Sodium Chloride Injection USP, Dextrose Injection USP, Dextrose and Sodium Chloride Injection USP, Ringer’s Injection USP, or Lactated Ringer’s Injection USP, but not with other solutions containing calcium because a precipitate may form especially in neutral and alkaline solutions.
-When further diluted in 500 mL to 1,000 mL of compatible solutions (except Lactated Ringer’s), the pH usually ranges from 2.5 to 4.0.
-The pH of MINOCIN® IV 100 mg in Lactated Ringer’s 500 mL to 1,000 mL usually ranges from 4.5 to 6.0.
+Usual pediatric dose: Initial dose of 4 mg/kg, then 2 mg/kg every 12 hours, not to exceed the usual adult dose
+
+## Adults
+
+Usual adult dose: Initial dose of 200 mg, then 100 mg every 12 hours and should not exceed 400 mg in 24 hours.
+The cryodesiccated powder should be reconstituted with 5 mL Sterile Water for Injection USP and immediately further diluted to 500 mL to 1,000 mL with Sodium Chloride Injection USP, Dextrose Injection USP, Dextrose and Sodium Chloride Injection USP, Ringer's Injection USP, or Lactated Ringer's Injection USP, but not with other solutions containing calcium because a precipitate may form especially in neutral and alkaline solutions.
+When further diluted in 500 mL to 1,000 mL of compatible solutions (except Lactated Ringer's), the pH usually ranges from 2.5 to 4.0.
+The pH of MINOCIN® IV 100 mg in Lactated Ringer's 500 mL to 1,000 mL usually ranges from 4.5 to 6.0.
 
 Final dilutions (500 mL to 1,000 mL) should be administered immediately but product and diluents are compatible at room temperature for 24 hours without a significant loss of potency.
 Any unused portions must be discarded after that period.
@@ -25,4 +29,6 @@ However, due to the anti-anabolic effect of tetracyclines, BUN and creatinine sh
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Incompatibilities MINOCIN® IV should not be mixed before or during administration with any solutions containing: adrenocorticotropic hormone (ACTH), aminophylline, amobarbital sodium, amphotericin B, bicarbonate infusion mixtures, calcium gluconate or chloride, carbenicillin, cephalothin sodium, cefazolin sodium, chloramphenicol succinate, colistin sulfate, heparin sodium, hydrocortisone sodium succinate, iodine sodium, methicillin sodium, novobiocin, penicillin, pentobarbital, phenytoin sodium, polymyxin, prochlorperazine, sodium ascorbate, sulfadiazine, sulfisoxazole, thiopental sodium, vitamin K (sodium bisulfate or sodium salt), whole blood.
+## Incompatibilities
+
+MINOCIN® IV should not be mixed before or during administration with any solutions containing: adrenocorticotropic hormone (ACTH), aminophylline, amobarbital sodium, amphotericin B, bicarbonate infusion mixtures, calcium gluconate or chloride, carbenicillin, cephalothin sodium, cefazolin sodium, chloramphenicol succinate, colistin sulfate, heparin sodium, hydrocortisone sodium succinate, iodine sodium, methicillin sodium, novobiocin, penicillin, pentobarbital, phenytoin sodium, polymyxin, prochlorperazine, sodium ascorbate, sulfadiazine, sulfisoxazole, thiopental sodium, vitamin K (sodium bisulfate or sodium salt), whole blood.
