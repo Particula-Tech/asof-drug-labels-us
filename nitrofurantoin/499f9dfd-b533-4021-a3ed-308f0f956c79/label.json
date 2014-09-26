@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA201693"
+  ],
+  "inn": "nitrofurantoin",
+  "labeler": "Novel Laboratories, Inc.",
+  "package_ndcs": [
+    "40032-450-11"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "nitrofurantoin",
+      "name": "Nitrofurantoin Oral Suspension"
+    }
+  ],
+  "setid": "499f9dfd-b533-4021-a3ed-308f0f956c79",
+  "source": "dailymed"
+}

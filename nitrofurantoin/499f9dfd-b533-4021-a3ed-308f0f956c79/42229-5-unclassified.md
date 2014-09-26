@@ -1,0 +1,102 @@
+Nitrofurantoin Oral Suspension, USP contains carboxymethylcellulose sodium, citric acid, flavors, glycerin, magnesium aluminum silicate, methylparaben, propylparaben, purified water, saccharin sodium, sodium citrate, and sorbitol.
+
+## Mode of Action
+
+Nitrofurantoin is reduced by a wide range of enzymes including bacterial flavoproteins to reactive intermediates which are damaging to macromolecules such as DNA and proteins.
+
+## Cross-Resistance
+
+Although cross-resistance with other antimicrobials may occur, cross resistance with sulfonamides has not been observed.
+
+## Interaction with Other Antimicrobials
+
+Antagonism has been demonstrated in vitro between nitrofurantoin and quinolone antimicrobial agents.
+
+Nitrofurantoin, in the form of nitrofurantoin oral suspension, has been shown to be active against most strains of the following bacteria both in vitro and in clinical infections: (See INDICATIONS AND USAGE).
+
+Gram-positive Aerobes
+
+Staphylococcus aureus
+
+Enterococcus Species
+
+Gram-Negative Aerobes
+
+Escherichia coli
+
+NOTE: Some strains of Enterobacter species and Klebsiella species are resistant to nitrofurantoin.
+
+The following in vitro data are available, but their clinical significance is unknown.
+Nitrofurantoin exhibits in vitro activity against the following bacteria; however, the safety and effectiveness of nitrofurantoin in treating clinical infections due to these bacteria have not been established in adequate and well controlled clinical trials.
+
+Gram-Positive Aerobes Coagulase-negative staphylococci (including Staphylococcus epidermidis and Staphylococcus saprophyticus)
+
+Streptococcus agalactiae
+
+Viridans group streptococci
+
+Gram-Negative Aerobes
+
+Citrobacter Koseri
+
+Citrobacter freundii
+
+Klebsiella oxytoca
+
+Nitrofurantoin is not active against most strains of Proteus species or Serratia species.
+It has no activity against Pseudomonas species.
+
+Susceptibility Tests Methods
+
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
+
+Dilution Techniques
+
+Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MIC's).
+These MIC's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The MIC's should be determined using a standardized test method1,3 (broth or agar).
+The MIC values should be interpreted according to the criteria in Table 1.
+
+Diffusion Techniques
+
+Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+The zone size should be determined using a standardized method.2 This procedure uses paper disks impregnated with 300 mcg of nitrofurantoin to test the susceptibility of bacteria to nitrofurantoin.
+The disk diffusion interpretive criteria are provided in Table 1.
+
+Table 1: Suceptibility interpretive Criteria for Nitrofurantoin
+
+| Pathogen | Minimum Inhibitory Concentrations (mcg/ml) |  |  | Disk Diffusion Zone (mm) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| S | I | R | S | I | R |  |
+| Enterobacteriaceae | ≤32 | 64 | ≥128 | ≥17 | 15-16 | ≤14 |
+| Staphylococcusaureus | ≤32 | 64 | ≥128 | ≥17 | 15-16 | ≤14 |
+| Enterococcus species | ≤32 | 64 | ≥128 | ≥17 | 15-16 | ≤14 |
+| S=susceptible, I=intermediate, R=resistant |  |  |  |  |  |  |
+
+A report of "Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
+A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body site where the drug is physiologically concentrated.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of "Resistant" indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+
+Quality Control
+
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3 Standard nitrofurantoin powder should provide the following MIC values provided in Table 2.
+For the diffusion technique using the 300-mcg nitrofurantoin disk the criteria provided in Table 2 should be achieved.
+
+Table 2: Acceptable Quality Control Ranges for Susceptibility Testing
+
+| Quality Control Organism | Minimum Inhibitory Concentrations(mcg/ml) | Disk Diffusion(zone diameters in mm) |
+| --- | --- | --- |
+| Escherichia coli (ATCC 25922) | 4-16 | 20-25 |
+| Staphylococcus aureus (ATCC 25923) | N/A* | 18-22 |
+| Staphylococcus aureus (ATCC 29213) | 8-32 | N/A* |
+| Streptococcus pneumoniae (ATCC 49619) | 4-16 | 23-29 |
+| Enterococcus faecalis (ATCC 29212) | 4-16 | N/A* |
+| * Not Applicable |  |  |
+
+The following laboratory adverse events have been reported with the use of nitrofurantoin; increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus, eosinophilia, glucose-6-phosphate dehydrogenase deficiency anemia (see WARNINGS), agranulocytosis, leukopenia, granulocytopenia, hemolytic anemia, thrombocytopenia, megaloblastic anemia.
+In most cases, these hematologic abnormalities resolved following cessation of therapy.
+Aplastic anemia has been reported rarely.
