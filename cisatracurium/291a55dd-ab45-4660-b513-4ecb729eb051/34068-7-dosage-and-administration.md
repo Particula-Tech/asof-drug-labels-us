@@ -13,7 +13,7 @@ The use of a peripheral nerve stimulator will permit the most advantageous use o
 One of two intubating doses of cisatracurium besylate may be chosen, based on the desired time to tracheal intubation and the anticipated length of surgery.
 In addition to the dose of neuromuscular blocking agent, the presence of co-induction agents (e.g., fentanyl and midazolam) and the depth of anesthesia are factors that can influence intubation conditions.
 Doses of 0.15 (3 × ED95) and 0.20 (4 × ED95) mg/kg cisatracurium besylate, as components of a propofol/nitrous oxide/oxygen induction-intubation technique, may produce generally GOOD or EXCELLENT conditions for intubation in 2 and 1.5 minutes, respectively.
-Similar intubation conditions may be expected when these doses of cisatracurium besylate are administered as components of a thiopental/nitrous oxide/oxygen induction-intubation technique.
+Similar intubation conditions may be expected when these doses of cisatracurium besylate injection are administered as components of a thiopental/nitrous oxide/oxygen induction-intubation technique.
 In two intubation studies using thiopental or propofol and midazolam and fentanyl as co-induction agents, EXCELLENT intubation conditions were most frequently achieved with the 0.2 mg/kg compared to 0.15 mg/kg dose of cisatracurium besylate injection.
 The clinically effective durations of action for 0.15 and 0.20 mg/kg cisatracurium besylate injection during propofol anesthesia are 55 minutes (range: 44 to 74 minutes) and 61 minutes (range: 41 to 81 minutes), respectively.
 Lower doses may result in a longer time for the development of satisfactory intubation conditions.

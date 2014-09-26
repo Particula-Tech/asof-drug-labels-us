@@ -5,7 +5,9 @@
   "inn": "cisatracurium",
   "labeler": "Sandoz Inc",
   "package_ndcs": [
+    "0781-3150-75",
     "0781-3150-95",
+    "0781-3153-80",
     "0781-3153-95"
   ],
   "products": [

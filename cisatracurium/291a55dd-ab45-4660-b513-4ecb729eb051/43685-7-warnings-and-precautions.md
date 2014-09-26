@@ -88,7 +88,7 @@ The use of cisatracurium besylate before succinylcholine to attenuate some of th
 
 Although not studied systematically in clinical trials, no drug interactions were observed when vecuronium, pancuronium, or atracurium were administered following varying degrees of recovery from single doses or infusions of cisatracurium besylate.
 
-Isoflurane or enflurane administered with nitrous oxide/oxygen to achieve 1.25 MAC [Minimum Alveolar Concentration] may prolong the clinically effective duration of action of initial and maintenance doses of cisatracurium besylate and decrease the required infusion rate of cisatracurium.
+Isoflurane or enflurane administered with nitrous oxide/oxygen to achieve 1.25 MAC [Minimum Alveolar Concentration] may prolong the clinically effective duration of action of initial and maintenance doses of cisatracurium besylate and decrease the required infusion rate of cisatracurium besylate.
 The magnitude of these effects may depend on the duration of administration of the volatile agents.
 Fifteen to 30 minutes of exposure to 1.25 MAC isoflurane or enflurane had minimal effects on the duration of action of initial doses of cisatracurium besylate and therefore, no adjustment to the initial dose should be necessary when cisatracurium besylate is administered shortly after initiation of volatile agents.
 In long surgical procedures during enflurane or isoflurane anesthesia, less frequent maintenance dosing, lower maintenance doses, or reduced infusion rates of cisatracurium besylate may be necessary.
