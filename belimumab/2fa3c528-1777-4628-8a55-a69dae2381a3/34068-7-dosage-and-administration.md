@@ -37,24 +37,22 @@ Reconstitution Instructions
 - 4.If a mechanical reconstitution device (swirler) is used to reconstitute BENLYSTA, it should not exceed 500 rpm and the vial swirled for no longer than 30 minutes.
 - 5.Once reconstitution is complete, the solution should be opalescent and colorless to pale yellow, and without particles.
   Small air bubbles, however, are expected and acceptable.
-- Dilution Instructions
-  1. 6.
-     Dextrose intravenous solutions are incompatible with BENLYSTA.
-     BENLYSTA should only be diluted in 0.9% Sodium Chloride Injection, USP.
-     Dilute the reconstituted product to 250 mL in 0.9% Sodium Chloride Injection, USP (normal saline) for intravenous infusion.
-     From a 250-mL infusion bag or bottle of normal saline, withdraw and discard a volume equal to the volume of the reconstituted solution of BENLYSTA required for the patient’s dose.
-     Then add the required volume of the reconstituted solution of BENLYSTA into the infusion bag or bottle.
-     Gently invert the bag or bottle to mix the solution.
-     Any unused solution in the vials must be discarded.
-- 7.
-  Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+Dilution Instructions
+
+- 6.Dextrose intravenous solutions are incompatible with BENLYSTA.
+  BENLYSTA should only be diluted in 0.9% Sodium Chloride Injection, USP.
+  Dilute the reconstituted product to 250 mL in 0.9% Sodium Chloride Injection, USP (normal saline) for intravenous infusion.
+  From a 250-mL infusion bag or bottle of normal saline, withdraw and discard a volume equal to the volume of the reconstituted solution of BENLYSTA required for the patient’s dose.
+  Then add the required volume of the reconstituted solution of BENLYSTA into the infusion bag or bottle.
+  Gently invert the bag or bottle to mix the solution.
+  Any unused solution in the vials must be discarded.
+- 7.Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Discard the solution if any particulate matter or discoloration is observed.
-- 8.
-  The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 2° to 8°C (36° to 46°F).
+- 8.The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 2° to 8°C (36° to 46°F).
   Solutions of BENLYSTA diluted in normal saline may be stored at 2° to 8°C (36° to 46°F) or room temperature.
   The total time from reconstitution of BENLYSTA to completion of infusion should not exceed 8 hours.
-- 9.
-  No incompatibilities between BENLYSTA and polyvinylchloride or polyolefin bags have been observed.
+- 9.No incompatibilities between BENLYSTA and polyvinylchloride or polyolefin bags have been observed.
 
 ## 2.4 Administration Instructions
 

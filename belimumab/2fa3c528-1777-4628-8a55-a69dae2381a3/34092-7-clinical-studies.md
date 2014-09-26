@@ -60,7 +60,7 @@ Clinical Response Rate in Patients With SLE After 52 Weeks of Treatment
 | Percent of patients with no worsening by BILAG index | 65% | 75% | 69% | 73% | 79% | 81% |
 | Percent of patients with no worsening by PGA | 63% | 73% | 69% | 69% | 79% | 80% |
 
-aPatients dropping out of the trial early or experiencing certain increases in background medication were considered as failures in these analyses.
+a Patients dropping out of the trial early or experiencing certain increases in background medication were considered as failures in these analyses.
 In both trials, a higher proportion of placebo patients were considered as failures for this reason as compared with the groups receiving BENLYSTA.
 
 b The 1-mg/kg dose is not recommended.
