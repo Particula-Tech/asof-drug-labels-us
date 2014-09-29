@@ -16,6 +16,15 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including Vibramycin.
+Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
+Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
+Concomitant use of isotretinoin and Vibramycin should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
+
+Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
+If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.
+Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize.
+
 All tetracyclines form a stable calcium complex in any bone-forming tissue.
 A decrease in fibula growth rate has been observed in prematures given oral tetracycline in doses of 25 mg/kg every 6 hours.
 This reaction was shown to be reversible when the drug was discontinued.
@@ -40,15 +49,6 @@ Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic p
 
 As with other antibacterial drugs, use of Vibramycin may result in overgrowth of nonsusceptible organisms, including fungi.
 If superinfection occurs, Vibramycin should be discontinued and appropriate therapy instituted.
-
-Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including Vibramycin.
-Clinical manifestations of IH include headache, blurred vision, diplopia, vision loss, and papilledema.
-Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
-Concomitant use of isotretinoin and Vibramycin should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
-
-Although IH typically resolves after discontinuation of treatment, it is possible that permanent visual loss can occur.
-If visual symptoms develop during treatment, prompt ophthalmologic evaluation is warranted.
-Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize.
 
 Incision and drainage or other surgical procedures should be performed in conjunction with antibacterial therapy, when indicated.
 
