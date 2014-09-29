@@ -1,11 +1,11 @@
 # INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ampicillin and other antibacterial drugs, Ampicillin should be used only to treat or prevent infections that are proven or strongly suspected to be
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ampicillin for Injection, USP and other antibacterial drugs, Ampicillin for Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be
 
 caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
-Ampicillin is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the conditions listed below:
+Ampicillin for Injection, USP is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the following conditions:
 
 Respiratory Tract Infections caused by S. pneumoniae (formerly D. pneumoniae), Staphylococcus aureus (penicillinase and non-penicillinase producing), H. influenzae and Group A beta-hemolytic streptococci.
 
@@ -14,14 +14,14 @@ The addition of an aminoglycoside with ampicillin may increase its effectiveness
 
 Gram-negative bacteria.
 
-Septicemia and Endocarditis caused by susceptible Gram-positive organisms including Streptococcus spp., penicillin-G-susceptible staphylococci and enterococci.
-Gram-negative sepsis caused by E. coli, Proteus mirabilis and Salmonella spp. respond to ampicillin.
+Septicemia and Endocarditis caused by susceptible Gram-positive organisms including Streptococcus sp., penicillin-G-susceptible staphylococci and enterococci.
+Gram-negative sepsis caused by E. coli, Proteus mirabilis and Salmonella sp. respond to ampicillin.
 Endocarditis due to enterococcal strains usually respond to intravenous therapy.
 The addition of an aminoglycoside may enhance the effectiveness of ampicillin when treating streptococcal endocarditis.
 
 Urinary Tract Infections caused by sensitive strains of E. coli and Proteus mirabilis.
 
-Gastrointestinal Infections caused by Salmonella typhosa (typhoid fever), other Salmonella spp. and Shigella spp.
+Gastrointestinal Infections caused by Salmonella typhosa (typhoid fever), other Salmonella sp. and Shigella sp.
 (dysentery) usually respond to oral or intravenous therapy.
 
 Bacteriology studies to determine the causative organisms and their susceptibility to ampicillin should be performed.

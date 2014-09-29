@@ -10,28 +10,43 @@ If an allergic reaction occurs, the drug should be discontinued and appropriate 
 
 SERIOUS ANAPHYLACTOID REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE, OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ampicillin, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
 # PRECAUTIONS
 
 ## General
 
-Prescribing Ampicillin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing Ampicillin for Injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 The possibility of superinfections with mycotic organisms or bacterial pathogens should be kept in mind during therapy.
 In such cases, discontinue the drug and substitute appropriate treatment.
 
 A high percentage (43 to 100 percent) of patients with infectious mononucleosis who receive ampicillin develop a skin rash.
 Typically, the rash appears 7 to 10 days after the start of oral ampicillin therapy and remains for a few days to a week after the drug is discontinued.
-In most cases, the rash is maculopapular; pruritic and generalized.
+In most cases, the rash is maculopapular, pruritic and generalized.
 Therefore, the administration of ampicillin is not recommended in patients with mononucleosis.
 It is not known whether these patients are truly allergic to ampicillin.
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including Ampicillin should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including Ampicillin for Injection, USP should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Ampicillin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+When Ampicillin for Injection, USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ampicillin or other antibacterial drugs in the future.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ampicillin for Injection, USP or other antibacterial drugs in the future.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 ## Laboratory Tests
 
@@ -47,10 +62,10 @@ It is not known whether this potentiation of ampicillin rashes is due to allopur
 
 ## Drug/Laboratory Test Interactions
 
-With high urine concentrations of ampicillin, false-positive glucose reactions may occur if Clinitest, Benedict’s Solution, or Fehling’s Solution are used.
-Therefore, it is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix or Tes-Tape) be used.
+With high urine concentrations of ampicillin, false-positive glucose reactions may occur if Clinitest®, Benedict’s Solution, or Fehling’s Solution are used.
+Therefore, it is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix® or Tes-Tape) be used.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 No long-term animal studies have been conducted with this drug.
 
@@ -64,7 +79,7 @@ Because animal reproduction studies are not always predictive of human response,
 
 Oral ampicillin-class antibiotics are poorly absorbed during labor.
 Studies in guinea pigs showed that intravenous administration of ampicillin slightly decreased the uterine tone and frequency of contractions, but moderately increased the height and duration of contractions.
-However, it is not known whether use of these drugs in humans during labor or delivery has immediate or delayed adverse effects on the fetus, prolongs the duration of labor, or increases the likelihood that forceps delivery or other obstetrical intervention of resuscitation of the newborn will be necessary.
+However, it is not known whether use of these drugs in humans during labor or delivery has immediate or delayed adverse effects on the fetus, prolongs the duration of labor, or increases the likelihood that forceps delivery or other obstetrical intervention or resuscitation of the newborn will be necessary.
 
 ## Nursing Mothers
 
