@@ -15,11 +15,10 @@ The occurrence of higher rates of these reactions in countries with higher frequ
 
 Across Asian populations, notable variation exists in the prevalence of HLA-B*1502.
 Greater than 15% of the population is reported positive in Hong Kong, Thailand, Malaysia, and parts of the Philippines, compared to about 10% in Taiwan and 4% in North China.
-South Asians, including Indians, appear to have intermediate prevalence of HLA-B*1502, averaging 2 to 4%, but higher in some groups.
+South Asians, including Indians, appear to have intermediate prevalence of HLA-B*1502, averaging 2% to 4%, but higher in some groups.
 HLA-B*1502 is present in less than 1% of the population in Japan and Korea.
 
-HLA-B*1502 is largely absent in individuals not of Asian origin (e.g.
-Caucasians, African-Americans, Hispanics, and Native Americans).
+HLA-B*1502 is largely absent in individuals not of Asian origin (e.g., Caucasians, African-Americans, Hispanics, and Native Americans).
 
 Prior to initiating Tegretol therapy, testing for HLA-B*1502 should be performed in patients with ancestry in populations in which HLA-B*1502 may be present.
 In deciding which patients to screen, the rates provided above for the prevalence of HLA-B*1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
@@ -59,7 +58,7 @@ Some of these events have been fatal or life-threatening.
 DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 This disorder is variable in its expression, and other organ systems not noted here may be involved.
-It is important to note that early manifestations of hypersensitivity (e.g. fever, lymphadenopathy) may be present even though rash is not evident.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.
 Tegretol should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
@@ -111,7 +110,7 @@ Tegretol has shown mild anticholinergic activity; therefore, patients with incre
 
 Because of the relationship of the drug to other tricyclic compounds, the possibility of activation of a latent psychosis and, in elderly patients, of confusion or agitation should be borne in mind.
 
-The use of Tegretol should be avoided in patients with a history of hepatic porphyria (e.g. acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
+The use of Tegretol should be avoided in patients with a history of hepatic porphyria (e.g., acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
 Acute attacks have been reported in such patients receiving Tegretol therapy.
 Carbamazepine administration has also been demonstrated to increase porphyrin precursors in rodents, a presumed mechanism for the induction of acute attacks of porphyria.
 
@@ -122,7 +121,7 @@ As with all antiepileptic drugs, Tegretol should be withdrawn gradually to minim
 Carbamazepine can cause fetal harm when administered to a pregnant woman.
 
 Epidemiological data suggest that there may be an association between the use of carbamazepine during pregnancy and congenital malformations, including spina bifida.
-There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g. craniofacial defects, cardiovascular malformations, hypospadias, and anomalies involving various body systems).
+There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g., craniofacial defects, cardiovascular malformations, hypospadias, and anomalies involving various body systems).
 Developmental delays based on neurobehavioral assessments have been reported.
 When treating or counseling women of childbearing potential, the prescribing physician will wish to weigh the benefits of therapy against the risks.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -157,9 +156,9 @@ Before initiating therapy, a detailed history and physical examination should be
 
 Tegretol should be used with caution in patients with a mixed seizure disorder that includes atypical absence seizures, since in these patients Tegretol has been associated with increased frequency of generalized convulsions (see INDICATIONS AND USAGE).
 
-Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of cardiac conduction disturbance, including second and third degree AV heart block; cardiac, hepatic, or renal damage; adverse hematologic or hypersensitivity reaction to other drugs, including reactions to other anticonvulsants; or interrupted courses of therapy with Tegretol.
+Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of cardiac conduction disturbance, including second- and third-degree AV heart block; cardiac, hepatic, or renal damage; adverse hematologic or hypersensitivity reaction to other drugs, including reactions to other anticonvulsants; or interrupted courses of therapy with Tegretol.
 
-AV heart block, including second and third degree block, have been reported following Tegretol treatment.
+AV heart block, including second- and third-degree block, have been reported following Tegretol treatment.
 This occurred generally, but not solely, in patients with underlying EKG abnormalities or risk factors for conduction disturbances.
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
@@ -231,7 +230,7 @@ There has been a report of a patient who passed an orange rubbery precipitate in
 Subsequent testing has shown that mixing Tegretol suspension and chlorpromazine solution (both generic and brand name) as well as Tegretol suspension and liquid Mellaril®, resulted in the occurrence of this precipitate.
 Because the extent to which this occurs with other liquid medications is not known, Tegretol suspension should not be administered simultaneously with other liquid medicinal agents or diluents (see DOSAGE AND ADMINISTRATION).
 
-Clinically meaningful drug interactions have occurred with concomitant medications and include, but are not limited to, the following:
+Clinically meaningful drug interactions have occurred with concomitant medications and include (but are not limited to) the following:
 
 ## Agents That May Affect Tegretol Plasma Levels
 
@@ -240,64 +239,54 @@ When carbamazepine is given with drugs that can increase or decrease carbamazepi
 Agents That Increase Carbamazepine Levels
 
 CYP3A4 inhibitors inhibit Tegretol metabolism and can thus increase plasma carbamazepine levels.
-Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include:
+Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, trazodone, olanzapine, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, and protease inhibitors.
 
-aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, nefazodone, trazodone, loxapine,* olanzapine, quetiapine*, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, protease inhibitors, valproate*.
+Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine-10,11 epoxide.
+Coadministration of inhibitors of human microsomal epoxide hydrolase may result in increased carbamazepine-10,11 epoxide plasma concentrations.
+Accordingly, the dosage of Tegretol should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, or valproic acid.
 
 Agents That Decrease Carbamazepine Levels
 
 CYP3A4 inducers can increase the rate of Tegretol metabolism.
-Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include:
-
-cisplatin, doxorubicin HCl, felbamate†, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline. ___________________________________________________________________________________________________ *increased levels of the active carbamazepine-10,11-epoxide †decreased levels of carbamazepine and increased levels of the 10,11-epoxide
+Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include cisplatin, doxorubicin HCl, felbamate, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline.
 
 ## Effect of Tegretol on Plasma Levels of Concomitant Agents
 
 Decreased Levels of Concomitant Medications
 
-Tegretol is a potent inducer of hepatic CYP3A4 and may therefore reduce plasma concentrations of comedications mainly metabolized by CYP3A4 through induction of their metabolism.
-Tegretol causes, or would be expected to cause, decreased levels of the following: acetaminophen, albendazole, alprazolam, aprepitant, buprenorphone, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g. prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g. felodipine), doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, mianserin, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, sertraline, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g. imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
+Tegretol is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C9/19 and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C9/19 and 3A4, through induction of their metabolism.
+When used concomitantly with Tegretol, monitoring of concentrations or dosage adjustment of these agents may be necessary:
 
-In concomitant use with Tegretol, monitoring of concentrations or dosage adjustment of the above agents may be necessary.
+- When carbamazepine is added to aripiprazole, the aripiprazole dose should be doubled.
+  Additional dose increases should be based on clinical evaluation.
+  If carbamazepine is later withdrawn, the aripiprazole dose should be reduced.
+- When carbamazepine is used with tacrolimus, monitoring of tacrolimus blood concentrations and appropriate dosage adjustments are recommended.
+- The use of concomitant strong CYP3A4 inducers such as carbamazepine should be avoided with temsirolimus.
+  If patients must be coadministered carbamazepine with temsirolimus, an adjustment of temsirolimus dosage should be considered.
+- The use of carbamazepine with lapatinib should generally be avoided.
+  If carbamazepine is started in a patient already taking lapatinib, the dose of lapatinib should be gradually titrated up.
+  If carbamazepine is discontinued, the lapatinib dose should be reduced.
+- Concomitant use of carbamazepine with nefazodone results in plasma concentrations of nefazodone and its active metabolite insufficient to achieve a therapeutic effect.
+  Coadministration of carbamazepine with nefazodone is contraindicated (see CONTRAINDICATIONS).
+- Monitor concentrations of valproate when Tegretol is introduced or withdrawn in patients using valproic acid.
 
-Cyclophosphamide is an inactive prodrug and is converted to its active metabolite in part by CYP3A.
-The rate of metabolism and the leukopenic activity of cyclophosphamide reportedly are increased by chronic administration of high doses of another CYP3A4 inducer.
-There is a potential for increased cyclophosphamide toxicity when coadministered with carbamazepine.
-
-When carbamazepine is added to aripiprazole therapy, the aripiprazole dose should be doubled.
-Additional dose increases should be based on clinical evaluation.
-When carbamazepine is withdrawn from the combination therapy, the aripiprazole dose should be reduced.
-
-When carbamazepine is used with tacrolimus, monitoring of tacrolimus blood concentrations and appropriate dosage adjustments are recommended.
-
-The use of concomitant strong CYP3A4 inducers such as carbamazepine should be avoided with temsirolimus.
-Based on pharmacokinetic studies, if patients must be coadministered carbamazepine with temsirolimus, an adjustment of temsirolimus dosage should be considered.
-
-The use of carbamazepine with lapatinib should generally be avoided.
-Dosage adjustment should be considered if lapatinib is coadministered with carbamazepine.
-If carbamazepine is started in a patient already taking lapatinib, the dose of lapatinib should be gradually titrated up.
-If carbamazepine is discontinued, the lapatinib dose should be reduced.
-
-Coadministration of carbamazepine with nefazodone results in insufficient plasma concentrations of nefazodone and its active metabolite to achieve a therapeutic effect.
-Coadministration of carbamazepine with nefazodone is contraindicated (see CONTRAINDICATIONS).
+In addition, Tegretol causes, or would be expected to cause, decreased levels of the following drugs, for which monitoring of concentrations or dosage adjustment may be necessary: acetaminophen, albendazole, alprazolam, aprepitant, buprenorphone, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g., prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, mianserin, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, sertraline, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
 
 Other Drug Interactions
 
-Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.
-
-Concomitant use of carbamazepine and isoniazid has been reported to increase isoniazid-induced hepatotoxicity.
-
-Concomitant medication with Tegretol and some diuretics (hydrochlorothiazide, furosemide) may lead to symptomatic hyponatremia.
-
-Alterations of thyroid function have been reported in combination therapy with other anticonvulsant medications.
-
-Concomitant use of Tegretol with hormonal contraceptive products (e.g. oral, and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
-Breakthrough bleeding and unintended pregnancies have been reported.
-Alternative or back-up methods of contraception should be considered.
-
-Resistance to the neuromuscular blocking action of the nondepolarizing neuromuscular blocking agents pancuronium, vecuronium, rocuronium and cisatracurium has occurred in patients chronically administered carbamazepine.
-Whether or not carbamazepine has the same effect on other non-depolarizing agents is unknown.
-Patients should be monitored closely for more rapid recovery from neuromuscular blockade than expected, and infusion rate requirements may be higher.
+- Cyclophosphamide is an inactive prodrug and is converted to its active metabolite in part by CYP3A.
+  The rate of metabolism and the leukopenic activity of cyclophosphamide are reportedly increased by chronic coadministration of CYP3A4 inducers.
+  There is a potential for increased cyclophosphamide toxicity when coadministered with carbamazepine.
+- Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.
+- Concomitant use of carbamazepine and isoniazid has been reported to increase isoniazid-induced hepatotoxicity.
+- Concomitant medication with Tegretol and some diuretics (e.g., hydrochlorothiazide, furosemide) may lead to symptomatic hyponatremia.
+- Alterations of thyroid function have been reported in combination therapy with other anticonvulsant medications.
+- Concomitant use of Tegretol with hormonal contraceptive products (e.g., oral, and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
+  Breakthrough bleeding and unintended pregnancies have been reported.
+  Alternative or back-up methods of contraception should be considered.
+- Resistance to the neuromuscular blocking action of the nondepolarizing neuromuscular blocking agents pancuronium, vecuronium, rocuronium and cisatracurium has occurred in patients chronically administered carbamazepine.
+  Whether or not carbamazepine has the same effect on other non-depolarizing agents is unknown.
+  Patients should be monitored closely for more rapid recovery from neuromuscular blockade than expected, and infusion rate requirements may be higher.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

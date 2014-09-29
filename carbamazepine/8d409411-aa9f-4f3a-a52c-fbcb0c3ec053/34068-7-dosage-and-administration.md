@@ -11,7 +11,7 @@ Medication should be taken with meals.
 
 Since a given dose of Tegretol suspension will produce higher peak levels than the same dose given as the tablet, it is recommended to start with low doses (children 6 to 12 years: ½ teaspoon q.i.d.) and to increase slowly to avoid unwanted side effects.
 
-Conversion of patients from oral Tegretol tablets to Tegretol suspension: Patients should be converted by administering the same number of mg per day in smaller, more frequent doses (i.e. b.i.d. tablets to t.i.d. suspension).
+Conversion of patients from oral Tegretol tablets to Tegretol suspension: Patients should be converted by administering the same number of mg per day in smaller, more frequent doses (i.e., b.i.d. tablets to t.i.d. suspension).
 
 Tegretol-XR is an extended-release formulation for twice-a-day administration.
 When converting patients from Tegretol conventional tablets to Tegretol-XR, the same total daily mg dose of Tegretol-XR should be administered.
@@ -22,18 +22,18 @@ Tegretol-XR tablet coating is not absorbed and is excreted in the feces; these c
 
 Epilepsy (SEE INDICATIONS AND USAGE)
 
-Adults and children over 12 years of age - Initial: Either 200 mg b.i.d. for tablets and XR tablets, or 1 teaspoon q.i.d. for suspension (400 mg/day).
+Adults and children over 12 years of age-Initial: Either 200 mg b.i.d. for tablets and XR tablets, or 1 teaspoon q.i.d. for suspension (400 mg/day).
 Increase at weekly intervals by adding up to 200 mg/day using a b.i.d. regimen of Tegretol-XR or a t.i.d. or q.i.d. regimen of the other formulations until the optimal response is obtained.
 Dosage generally should not exceed 1000 mg daily in children 12 to 15 years of age, and 1200 mg daily in patients above 15 years of age.
 Doses up to 1600 mg daily have been used in adults in rare instances.
 Maintenance: Adjust dosage to the minimum effective level, usually 800 to 1200 mg daily.
 
-Children 6 to 12 years of age - Initial: Either 100 mg b.i.d. for tablets or XR tablets, or ½ teaspoon q.i.d. for suspension (200 mg/day).
+Children 6 to 12 years of age-Initial: Either 100 mg b.i.d. for tablets or XR tablets, or ½ teaspoon q.i.d. for suspension (200 mg/day).
 Increase at weekly intervals by adding up to 100 mg/day using a b.i.d. regimen of Tegretol-XR or a t.i.d. or q.i.d. regimen of the other formulations until the optimal response is obtained.
 Dosage generally should not exceed 1000 mg daily.
 Maintenance: Adjust dosage to the minimum effective level, usually 400 to 800 mg daily.
 
-Children under 6 years of age - Initial: 10 to 20 mg/kg/day b.i.d. or t.i.d. as tablets, or q.i.d. as suspension.
+Children under 6 years of age-Initial: 10 to 20 mg/kg/day b.i.d. or t.i.d. as tablets, or q.i.d. as suspension.
 Increase weekly to achieve optimal clinical response administered t.i.d. or q.i.d.
 Maintenance: Ordinarily, optimal clinical response is achieved at daily doses below 35 mg/kg.
 If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the therapeutic range.

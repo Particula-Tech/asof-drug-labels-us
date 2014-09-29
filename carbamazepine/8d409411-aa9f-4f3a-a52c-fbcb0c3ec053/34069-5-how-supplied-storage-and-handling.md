@@ -53,4 +53,4 @@ Dispense in tight, light-resistant container (USP).
 
 *Thorazine® is a registered trademark of GlaxoSmithKline.
 
-T2014-04 January 2014
+T2014-89 September 2014

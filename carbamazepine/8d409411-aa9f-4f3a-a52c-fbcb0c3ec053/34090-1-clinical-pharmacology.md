@@ -23,7 +23,7 @@ Following a b.i.d. dosage regimen, the suspension provides higher peak levels an
 On the other hand, following a t.i.d. dosage regimen, Tegretol suspension affords steady-state plasma levels comparable to Tegretol tablets given b.i.d. when administered at the same total mg daily dose.
 Following a b.i.d. dosage regimen, Tegretol-XR tablets afford steady-state plasma levels comparable to conventional Tegretol tablets given q.i.d., when administered at the same total mg daily dose.
 Tegretol in blood is 76% bound to plasma proteins.
-Plasma levels of Tegretol are variable and may range from 0.5 to 25 mcg/mL/mL, with no apparent relationship to the daily intake of the drug.
+Plasma levels of Tegretol are variable and may range from 0.5 to 25 mcg/mL, with no apparent relationship to the daily intake of the drug.
 Usual adult therapeutic levels are between 4 and 12 mcg/mL.
 In polytherapy, the concentration of Tegretol and concomitant drugs may be increased or decreased during therapy, and drug effects may be altered (see PRECAUTIONS, Drug Interactions).
 Following chronic oral administration of suspension, plasma levels peak at approximately 1.5 hours compared to 4 to 5 hours after administration of conventional Tegretol tablets, and 3 to 12 hours after administration of Tegretol-XR tablets.
@@ -33,6 +33,7 @@ Autoinduction is completed after 3 to 5 weeks of a fixed dosing regimen.
 Initial half-life values range from 25 to 65 hours, decreasing to 12 to 17 hours on repeated doses.
 Tegretol is metabolized in the liver.
 Cytochrome P450 3A4 was identified as the major isoform responsible for the formation of carbamazepine-10,11-epoxide from Tegretol.
+Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine-10,11 epoxide.
 After oral administration of 14C-carbamazepine, 72% of the administered radioactivity was found in the urine and 28% in the feces.
 This urinary radioactivity was composed largely of hydroxylated and conjugated metabolites, with only 3% of unchanged Tegretol.
 

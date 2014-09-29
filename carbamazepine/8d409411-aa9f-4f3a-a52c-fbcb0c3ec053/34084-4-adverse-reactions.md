@@ -11,11 +11,10 @@ The following additional adverse reactions have been reported:
 
 Hemopoietic System: Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, anemia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
 
-Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis and onychomadesis.
+Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
 In certain cases, discontinuation of therapy may be necessary.
-Isolated cases of hirsutism have been reported, but a causal relationship is not clear.
 
-Cardiovascular System: Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g. pulmonary embolism), and adenopathy or lymphadenopathy.
+Cardiovascular System: Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.
 
 Some of these cardiovascular complications have resulted in fatalities.
 Myocardial infarction has been associated with other tricyclic compounds.
