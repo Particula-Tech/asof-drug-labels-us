@@ -16,13 +16,15 @@ All patients with Prader-Willi Syndrome treated with somatropin should also have
 
 ## 5.3 Neoplasms
 
-Patients with preexisting tumors or GHD secondary to an intracranial lesion should be monitored routinely for progression or recurrence of the underlying disease process.
-In pediatric patients, clinical literature has revealed no relationship between somatropin replacement therapy and central nervous system (CNS) tumor recurrence or new extracranial tumors.
-However, in childhood cancer survivors, an increased risk of a second neoplasm has been reported in patients treated with somatropin after their first neoplasm.
-Intracranial tumors, in particular meningiomas, in patients treated with radiation to the head for their first neoplasm, were the most common of these second neoplasms.
+In childhood cancer survivors who were treated with radiation to the brain/head for their first neoplasm and who developed subsequent GHD and were treated with somatropin, an increased risk of a second neoplasm has been reported.
+Intracranial tumors, in particular meningiomas, were the most common of these second neoplasms.
 In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence [see Contraindications (4.3)].
+Monitor all patients with a history of GHD secondary to an intracranial neoplasm routinely while on somatropin therapy for progression or recurrence of the tumor.
 
-Patients should be monitored carefully for potential malignant transformation of skin lesions, i.e. increased growth of preexisting nevi.
+Because children with certain rare genetic causes of short stature have an increased risk of developing malignancies, practitioners should thoroughly consider the risks and benefits of starting somatropin in these patients.
+If treatment with somatropin is initiated, these patients should be carefully monitored for development of neoplasms.
+
+Monitor patients on somatropin therapy carefully for increased growth, or potential malignant changes, of preexisting nevi.
 
 ## 5.4 Impaired Glucose Tolerance and Diabetes Mellitus
 
@@ -76,7 +78,7 @@ Physicians should be alert to these abnormalities, which may manifest during som
 
 ## 5.11 Confirmation of Childhood Onset Adult GHD
 
-Patients with epiphyseal closure who were treated with somatropin replacement therapy in childhood should be reevaluated according to the criteria in Indications And Usage (1.2) before continuation of somatropin therapy at the reduced dose level recommended for GH deficient adults.
+Patients with epiphyseal closure who were treated with somatropin replacement therapy in childhood should be reevaluated according to the criteria in Indications and Usage (1.2) before continuation of somatropin therapy at the reduced dose level recommended for GH deficient adults.
 
 ## 5.12 Otitis Media and Cardiovascular Disorders in Turner Syndrome
 
@@ -87,7 +89,7 @@ In addition, patients with Turner syndrome should be monitored closely for cardi
 ## 5.13 Local and Systemic Reactions
 
 When somatropin is administered subcutaneously at the same site over a long period of time, tissue atrophy may result.
-This can be avoided by rotating the injection site [see Dosage And Administration (2.3)].
+This can be avoided by rotating the injection site [see Dosage and Administration (2.3)].
 
 As with any protein, local or systemic allergic reactions may occur.
 Parents/Patients should be informed that such reactions are possible and that prompt medical attention should be sought if allergic reactions occur.

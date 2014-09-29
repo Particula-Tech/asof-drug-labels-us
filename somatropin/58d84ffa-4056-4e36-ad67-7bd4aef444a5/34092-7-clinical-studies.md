@@ -15,10 +15,10 @@ The efficacy results after 9 months of treatment (Omnitrope® for Injection vs. 
 Table 5.
 Baseline Growth Characteristics and Effect of Omnitrope® after 9 and 15 Months of Treatment
 
-| Treatment Duration | TreatmentGroup | TreatmentGroup |
+| Treatment Duration | Treatment Group | Treatment Group |
 | --- | --- | --- |
-| 0 - 9 months | Omnitrope®for Injection(n=44) | Another SomatropinProduct(n=45) |
-| 9 - 15 months | Omnitrope®for Injection(n=42) | Omnitrope® Cartridge(n=44) |
+| 0 - 9 months | Omnitrope® for Injection (n=44) | Another Somatropin Product(n=45) |
+| 9 - 15 months | Omnitrope® for Injection (n=42) | Omnitrope® Cartridge (n=44) |
 | Treatment Parameter | Mean (SD) | Mean (SD) |
 | Height velocity (cm/yr) |  |  |
 | Pre-treatment | 3.8 (1.2) | 4.0 (0.8) |
@@ -68,10 +68,10 @@ Linear growth continued to increase in the second year, when both groups receive
 Table 6.
 Efficacy of Another Somatropin Product in Pediatric Patients with Prader-Willi Syndrome (Mean ± SD)
 
-|  | Study 1 |  | Study 2 |  |
+|  | Another Somatropin Product (0.24 mg/kg/week) (n=15) | Untreated Control (n=12) | Another Somatropin Product (0.36 mg/kg/week) (n=7) | Untreated Control (n=9) |
 | --- | --- | --- | --- | --- |
-| AnotherSomatropinProduct(0.24mg/kg/week)(n=15) | UntreatedControl(n=12) | AnotherSomatropinProduct(0.36mg/kg/week)(n=7) | UntreatedControl(n=9) |  |
-| Linear growth (cm)Baseline height | 112.7 ± 14.9 | 109.5 ± 12.0 | 120.3 ± 17.5 | 120.5 ± 11.2 |
+|  | Study 1 |  | Study 2 |  |
+| Linear growth (cm) Baseline height | 112.7 ± 14.9 | 109.5 ± 12.0 | 120.3 ± 17.5 | 120.5 ± 11.2 |
 | Growth from months 0 to 12 | 11.6p ≤ 0.001 ± 2.3 | 5.0 ± 1.2 | 10.7 ± 2.3 | 4.3 ± 1.5 |
 | Baseline SDS | -1.6 ± 1.3 | -1.8 ± 1.5 | -2.6 ± 1.7 | -2.1 ± 1.4 |
 | SDS at 12 months | -0.5p ≤ 0.002 (when comparing SDS change at 12 months) ± 1.3 | -1.9 ± 1.4 | -1.4 ± 1.5 | -2.2 ± 1.4 |
@@ -83,15 +83,15 @@ Treatment with this other somatropin product did not accelerate bone age, compar
 Table 7.
 Effect of Another Somatropin Product on Body Composition in Pediatric Patients with Prader-Willi Syndrome (Mean ± SD)
 
-|  | AnotherSomatropinProduct(n=14) | UntreatedControl(n=10) |
+|  | Another Somatropin Product (n=14) | Untreated Control (n=10) |
 | --- | --- | --- |
-| Fat mass (kg)Baseline | 12.3 ± 6.8 | 9.4 ± 4.9 |
+| Fat mass (kg) Baseline | 12.3 ± 6.8 | 9.4 ± 4.9 |
 | Change from months 0 to 12 | -0.9p < 0.005 ± 2.2 | 2.3 ± 2.4 |
-| Lean body mass (kg)Baseline | 15.6 ± 5.7 | 14.3 ± 4.0 |
+| Lean body mass (kg) Baseline | 15.6 ± 5.7 | 14.3 ± 4.0 |
 | Change from months 0 to 12 | 4.7 ± 1.9 | 0.7 ± 2.4 |
-| Lean body mass/Fat massBaseline | 1.4 ± 0.4 | 1.8 ± 0.8 |
-| Change from months 0 to 12 | 1.0* ± 1.4 | -0.1 ± 0.6 |
-| Body weight (kg)n=15 for the group receiving another somatropin product; n=12 for the Control groupBaseline | 27.2 ± 12.0 | 23.2 ± 7.0 |
+| Lean body mass/Fat mass Baseline | 1.4 ± 0.4 | 1.8 ± 0.8 |
+| Change from months 0 to 12 | 1.0 ± 1.4 | -0.1 ± 0.6 |
+| Body weight (kg)n=15 for the group receiving another somatropin product; n=12 for the Control group Baseline | 27.2 ± 12.0 | 23.2 ± 7.0 |
 | Change from months 0 to 12 | 3.7n.s. ± 2.0 | 3.5 ± 1.9 |
 
 ## 14.4 Pediatric Patients Born Small for Gestational Age (SGA) Who Fail to Manifest Catch-up Growth by Age 2
@@ -107,12 +107,12 @@ Both of these doses resulted in a slower but constant increase in growth between
 Table 8.
 Efficacy of Another Somatropin Product in Children Born Small for Gestational Age (Mean ± SD)
 
-|  | AnotherSomatropinProduct(0.24 mg/kg/week)(n=76) | AnotherSomatropinProduct(0.48 mg/kg/week)(n=93) | UntreatedControl(n=40) |
+|  | Another Somatropin Product (0.24 mg/kg/week) (n=76) | Another Somatropin Product (0.48 mg/kg/week) (n=93) | Untreated Control (n=40) |
 | --- | --- | --- | --- |
 | Height Standard Deviation Score (SDS) |  |  |  |
 | Baseline SDS | -3.2 ± 0.8 | -3.4 ± 1.0 | -3.1 ± 0.9 |
 | SDS at 24 months | -2.0 ± 0.8 | -1.7 ± 1.0 | -2.9 ± 0.9 |
-| Change in SDS from baseline to month 24 | 1.2p = 0.0001 vs Untreated Control group ± 0.5 | 1.7p = 0.0001 vs group treated with another somatropin product 0.24 mg/kg/week ± 0.6 | 0.1 ± 0.3 |
+| Change in SDS from baseline to month 24 | 1.2p = 0.0001 vs Untreated Control group ± 0.5 | 1.7,p = 0.0001 vs group treated with another somatropin product 0.24 mg/kg/week ± 0.6 | 0.1 ± 0.3 |
 
 ## 14.5 Idiopathic Short Stature (ISS)
 
@@ -130,10 +130,10 @@ A height gain of 1 SDS was observed in 10 % of untreated subjects, 50% of subjec
 Table 9.
 Final height SDS results for pre-pubertal patients with ISSMean (SD) are observed values.
 
-|  | Untreated(n=30) | AnotherSomatropinProduct0.033mg/kg/day(n=30) | AnotherSomatropinProduct0.067mg/kg/day(n=42) | AnotherSomatropinProduct0.033 vs.Untreated(95% CI) | AnotherSomatropinProduct0.067 vs.Untreated(95% CI) |
+|  | Untreated (n=30) | Another Somatropin Product 0.033 mg/kg/day (n=30) | Another Somatropin Product 0.067 mg/kg/day (n=42) | Another Somatropin Product 0.033 vs. Untreated (95% CI) | Another Somatropin Product 0.067 vs. Untreated (95% CI) |
 | --- | --- | --- | --- | --- | --- |
-| Baseline heightSDSFinal height SDSminus Baseline | 0.41(0.58) | 0.95 (0.75) | 1.36 (0.64) | +0.53 (0.20, 0.87)p=0.0022 | +0.94 (0.63, 1.26)p<0.0001 |
-| Baselinepredicted htFinal height SDSminus baselinepredicted finalheight SDS | 0.23 (0.66) | 0.73 (0.63) | 1.05 (0.83) | +0.60 (0.09, 1.11)p=0.0217 | +0.90 (0.42, 1.39)p=0.0004 |
+| Baseline height SDS Final height SDS minus Baseline | 0.41 (0.58) | 0.95 (0.75) | 1.36 (0.64) | +0.53 (0.20, 0.87) p=0.0022 | +0.94 (0.63, 1.26) p<0.0001 |
+| Baseline predicted ht Final height SDS minus baseline predicted final height SDS | 0.23 (0.66) | 0.73 (0.63) | 1.05 (0.83) | +0.60 (0.09, 1.11) p=0.0217 | +0.90 (0.42, 1.39) p=0.0004 |
 | Least square means based on ANCOVA (final height SDS and final height SDS minus baseline predicted height SDS were adjusted for baseline height SDS) |  |  |  |  |  |
 
 ## 14.6 Turner Syndrome
@@ -153,21 +153,21 @@ The linear growth response was greater in Study 1 wherein patients were treated 
 Table 10.
 Growth Parameters (mean ± SD) after 12 Months of Treatment with Another Somatropin Product in Pediatric Patients with Turner Syndrome in Two Open Label Studies
 
-|  | Another somatropinproduct0.33 mg/kg/weekStudy 1* n=22 | Another somatropinproduct0.13-0.23 mg/kg/weekStudy 2† n=16 |
+|  | Another somatropin product 0.33 mg/kg/week Study 1* n=22 | Another somatropin product 0.13-0.23 mg/kg/week Study 2† n=16 |
 | --- | --- | --- |
 | Height Velocity (cm/yr) |  |  |
 | Baseline | 4.1 ± 1.5 | 3.9 ± 1.0 |
 | Month 12 | 7.8 ± 1.6 | 6.1 ± 0.9 |
 | Change from baseline (95% CI) | 3.7 (3.0, 4.3) | 2.2 (1.5, 2.9) |
-| Height Velocity SDS(Tanner*/Sempé† Standards) (n=20) |  |  |
+| Height Velocity SDS (Tanner*/Sempé† Standards) (n=20) |  |  |
 | Baseline | -2.3 ± 1.4 | -1.6 ± 0.6 |
 | Month 12 | 2.2 ± 2.3 | 0.7 ± 1.3 |
 | Change from baseline (95% CI) | 4.6 (3.5, 5.6) | 2.2 (1.4, 3.0) |
-| Height Velocity SDS (RankeStandard) |  |  |
+| Height Velocity SDS (Ranke Standard) |  |  |
 | Baseline | -0.1 ± 1.2 | -0.4 ± 0.6 |
 | Month 12 | 4.2 ± 1.2 | 2.3 ± 1.2 |
 | Change from baseline (95% CI) | 4.3 (3.5, 5.0) | 2.7 (1.8, 3.5) |
-| Height SDS (Tanner*/Sempé†Standards) |  |  |
+| Height SDS (Tanner*/Sempé† Standards) |  |  |
 | Baseline | -3.1 ± 1.0 | -3.2 ± 1.0 |
 | Month 12 | -2.7 ± 1.1 | -2.9 ± 1.0 |
 | Change from baseline (95% CI) | 0.4 (0.3, 0.6) | 0.3 (0.1, 0.4) |

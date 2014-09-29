@@ -20,22 +20,22 @@ Treatment with Omnitrope® for short stature should be discontinued when the epi
 Generally, a dosage of 0.16 to 0.24 mg/kg body weight /week is recommended.
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
-Prader-Willi Syndrome (PWS)
+### Prader-Willi Syndrome (PWS)
 
 Generally, a dosage of 0.24 mg/kg body weight/week is recommended.
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
-Small for Gestational Age (SGA)
+### Small for Gestational Age (SGA)
 
 Generally, a dosage of up to 0.48 mg/kg body weight/week is recommended.
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
-Turner Syndrome (TS)
+### Turner Syndrome (TS)
 
 Generally, a dose of 0.33 mg/kg body weight/week is recommended.
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
-Idiopathic Short Stature (ISS)
+### Idiopathic Short Stature (ISS)
 
 Generally, a dose up to 0.47 mg/kg of body weight/week is recommended.
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.

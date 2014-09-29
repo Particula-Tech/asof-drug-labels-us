@@ -4,17 +4,17 @@
 
 This list presents the most seriousb and/or most frequently observeda adverse reactions during treatment with somatropin:
 
-- bSudden death in pediatric patients with Prader-Willi Syndrome with risk factors including severe obesity, history of upper airway obstruction or sleep apnea and unidentified respiratory infection [see Contraindications (4.2) and Warnings and Precautions (5.2)].
-- bIntracranial tumors, in particular meningiomas, in teenagers/young adults treated with radiation to the head as children for a first neoplasm and somatropin [see Contraindications (4.3) and Warnings and Precautions (5.3)]
-- a,bGlucose intolerance including impaired glucose tolerance/impaired fasting glucose as well as overt diabetes mellitus [Warnings and Precautions (5.4)]
-- bIntracranial hypertension [see Warnings and Precautions (5.5)]
-- bSignificant diabetic-retinopathy [see Contraindications (4.4)]
-- bSlipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.9)]
-- bProgression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.10)]
-- bPancreatitis [see Warnings and Precautions (5.15)]
-- aFluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see Warnings and Precautions (5.6)]
-- aUnmasking of latent central hypothyroidism [see Warnings and Precautions (5.8)]
-- aInjection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see Warnings and Precautions (5.12)]
+- •bSudden death in pediatric patients with Prader-Willi Syndrome with risk factors including severe obesity, history of upper airway obstruction or sleep apnea and unidentified respiratory infection [see Contraindications (4.2) and Warnings and Precautions (5.2)].
+- •bIntracranial tumors, in particular meningiomas, in teenagers/young adults treated with radiation to the head as children for a first neoplasm and somatropin [see Contraindications (4.3) and Warnings and Precautions (5.3)]
+- •a,bGlucose intolerance including impaired glucose tolerance/impaired fasting glucose as well as overt diabetes mellitus [Warnings and Precautions (5.4)]
+- •bIntracranial hypertension [see Warnings and Precautions (5.5)]
+- •bSignificant diabetic-retinopathy [see Contraindications (4.4)]
+- •bSlipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.9)]
+- •bProgression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.10)]
+- •bPancreatitis [see Warnings and Precautions (5.15)]
+- •aFluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see Warnings and Precautions (5.6)]
+- •aUnmasking of latent central hypothyroidism [see Warnings and Precautions (5.8)]
+- •aInjection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see Warnings and Precautions (5.12)]
 
 ## 6.2 Clinical Trials Experience
 
@@ -39,16 +39,16 @@ The following events were observed during clinical studies with Omnitrope® for 
 Table 2.
 Incidence of Adverse Reactions Reported in ≥ 5% Pediatric Patients with GHD During Treatment with Omnitrope® for Injection (N=44)
 
-| Adverse Event | n (%) |
-| --- | --- |
-| Hypothyroidism | 7 (16%) |
-| Eosinophilia | 5 (11%) |
-| Elevated HbA1c | 4 (9%) |
-| Hematoma | 4 (9%) |
-| Headache | 3 (7%) |
-| Hypertriglyceridemia | 2 (5%) |
-| Leg Pain | 2 (5%) |
-| N=number of patients receiving treatment n=number of patients who reported the event during study period %= percentage of patients who reported the event during study period |  |
+| Adverse Event | n (%) |  |  |
+| --- | --- | --- | --- |
+| Hypothyroidism | 7 (16%) |  |  |
+| Eosinophilia | 5 (11%) |  |  |
+| Elevated HbA1c | 4 (9%) |  |  |
+| Hematoma | 4 (9%) |  |  |
+| Headache | 3 (7%) |  |  |
+| Hypertriglyceridemia | 2 (5%) |  |  |
+| Leg Pain | 2 (5%) |  |  |
+| N=number of patients receiving treatment n=number of patients who reported the event during study period %= percentage of patients who reported the event during study period |  |  |  |
 
 ### Clinical Trials in PWS
 
@@ -80,9 +80,9 @@ Also presented are the corresponding incidence rates of these adverse events in 
 Table 3.
 Adverse Events Reported by ≥ 5% of 1,145 Adult GHD Patients During Clinical Trials of Another Somatropin Product and Placebo, Grouped by Duration of Treatment
 
-|  | Double Blind Phase |  | Open Label PhaseAnother Somatropin Product |  |  |
+| Adverse Event | Placebo 0–6 mo. (n = 572) % Patients | Another Somatropin Product 0–6 mo. (n = 573) % Patients | 6–12 mo. (n = 504) % Patients | 12–18 mo. (n = 63) % Patients | 18–24 mo. (n = 60) % Patients |
 | --- | --- | --- | --- | --- | --- |
-| Adverse Event | Placebo0–6 mo.(n = 572)% Patients | AnotherSomatropinProduct 0–6 mo.(n = 573)% Patients | 6–12 mo.(n = 504)% Patients | 12–18 mo.(n = 63)% Patients | 18–24 mo.(n = 60)% Patients |
+|  | Double Blind Phase |  | Open Label Phase Another Somatropin Product |  |  |
 | Swelling, peripheral | 5.1 | 17.5Increased significantly when compared to placebo, P ≤.025: Fisher’s Exact Test (one-sided) | 5.6 | 0 | 1.7 |
 | Arthralgia | 4.2 | 17.3 | 6.9 | 6.3 | 3.3 |
 | Upper respiratory infection | 14.5 | 15.5 | 13.1 | 15.9 | 13.3 |
@@ -118,7 +118,7 @@ The adverse events reported during post-marketing surveillance do not differ fro
 Leukemia has been reported in a small number of GH deficient children treated with somatropin, somatrem (methionylated rhGH) and GH of pituitary origin.
 It is uncertain whether these cases of leukemia are related to GH therapy, the pathology of GHD itself, or other associated treatments such as radiation therapy.
 On the basis of current evidence, experts have not been able to conclude that GH therapy per se was responsible for these cases of leukemia.
-The risk for children with GHD, if any, remains to be established [see Contraindications (4.3) and Warnings And Precautions (5.3)].
+The risk for children with GHD, if any, remains to be established [see Contraindications (4.3) and Warnings and Precautions (5.3)].
 
 The following additional adverse reactions have been observed during the use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults [see Warnings and Precautions (5.15)].
 

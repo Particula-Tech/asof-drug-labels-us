@@ -12,8 +12,8 @@ Omnitrope® is light sensitive and should be stored in the carton.
 
 Omnitrope® Cartridge (somatropin-[rDNA origin]) 5 mg/1.5 mL is supplied in the following package sizes:
 
-- One cartridge (NDC 0781-3001-07)
-- Five cartridges (NDC 0781-3001-26)
+- •One cartridge (NDC 0781-3001-07)
+- •Five cartridges (NDC 0781-3001-26)
 
 For use only with the Omnitrope® Pen 5 delivery system, which is sold separately After the first use the cartridge should remain in the pen and has to be kept in a refrigerator at 2° to 8°C (36° to 46°F) for a maximum of 28 days (see Table 11).
 
@@ -21,8 +21,8 @@ For use only with the Omnitrope® Pen 5 delivery system, which is sold separatel
 
 Omnitrope® Cartridge (somatropin-[rDNA origin]) 10 mg/1.5 mL is supplied in the following package sizes:
 
-- One cartridge (NDC 0781-3004-07)
-- Five cartridges (NDC 0781-3004-26)
+- •One cartridge (NDC 0781-3004-07)
+- •Five cartridges (NDC 0781-3004-26)
 
 For use only with the Omnitrope® Pen 10 delivery system, which is sold separately.
 After the first use the cartridge should remain in the pen and has to be kept in a refrigerator at 2° to 8°C (36° to 46°F) for a maximum of 28 days (see Table 11).
@@ -31,7 +31,7 @@ After the first use the cartridge should remain in the pen and has to be kept in
 
 After reconstitution, the concentration is 5 mg/mL.
 
-- Carton contains 8 vials of Omnitrope® 5.8 mg and 8 vials of diluent (Bacteriostatic Water for injection containing 1.5% benzyl alcohol as a preservative.)
+- •Carton contains 8 vials of Omnitrope® 5.8 mg and 8 vials of diluent (Bacteriostatic Water for injection containing 1.5% benzyl alcohol as a preservative.)
 
 NDC 0781-4004-36
 
@@ -42,9 +42,9 @@ After the first injection, the vial should be stored in the carton in a refriger
 Table 11.
 Storage Options
 
-| Omnitrope®ProductFormulation | Storage Requirement |  |
+| Omnitrope® Product Formulation | Storage Requirement |  |
 | --- | --- | --- |
-| Before Use | In-use(after 1st injection) |  |
-| 5 mg/1.5 mLcartridge | 2-8ºC/36-46ºFUntil exp date | 2-8 ºC/36-46 ºF4 weeks |
-| 10 mg/1.5 mLcartridge | 2-8 ºC/36-46 ºF4 weeks |  |
-| 5.8 mg/vial | 2-8 ºC/36-46 ºF3 weeks |  |
+| Before Use | In-use (after 1st injection) |  |
+| 5 mg/1.5 mL Cartridge | 2-8ºC/ 36-46ºF Until exp date | 2-8 ºC/36-46 ºF 4 weeks |
+| 10 mg/1.5 mL Cartridge | 2-8 ºC/36-46 ºF 4 weeks |  |
+| 5.8 mg/vial | 2-8 ºC/36-46 ºF 3 weeks |  |

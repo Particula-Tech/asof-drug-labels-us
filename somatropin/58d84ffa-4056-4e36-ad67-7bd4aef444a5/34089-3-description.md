@@ -8,23 +8,26 @@ Escherichia coli that has been modified by the addition of the gene for human gr
 Omnitrope® Cartridge is a clear, colorless, sterile solution for subcutaneous injection.
 Omnitrope® for Injection is a lyophilized powder that is reconstituted for subcutaneous injection.
 
+Figure 1.
+Schematic amino acid sequence of human growth hormone including the disulfide bonds
+
 Each Omnitrope® Cartridge or vial contains the following (see Table 4):
 
 Table 4.
 Contents of Omnitrope® Cartridges and Vial
 
-| Product | Cartridge5 mg/1.5 mL | Cartridge10 mg/1.5 mL | ForInjection5.8 mg/vial |
+| Product | Cartridge 5 mg/ 1.5 mL | Cartridge 10 mg/ 1.5 mL | For Injection 5.8 mg/ vial |
 | --- | --- | --- | --- |
 | Component |  |  |  |
 | Somatropin | 5 mg | 10 mg | 5.8 mg |
-| Disodium hydrogenphosphate heptahydrate | 1.3 mg | 1.70 mg | 2.09 mg |
-| Sodium dihydrogenphosphate dihydrate | 1.6 mg | 1.35 mg | 0.56 mg |
+| Disodium hydrogen phosphate heptahydrate | 1.3 mg | 1.70 mg | 2.09 mg |
+| Sodium dihydrogen phosphate dihydrate | 1.6 mg | 1.35 mg | 0.56 mg |
 | Poloxamer 188 | 3.0 mg | 3.0 mg | - |
 | Mannitol | 52.5 mg | - | - |
 | Glycine | - | 27.75 mg | 27.6 mg |
 | Benzyl alcohol | 13.5 mg | - | - |
 | Phenol | - | 4.50 mg | - |
-| Water for Injection | to make1.5 mL | to make1.5 mL | - |
-| Diluent (vials only) |  |  | BacteriostaticWater forInjection |
-| Water for injection |  |  | to make1.14 mL |
+| Water for Injection | to make 1.5 mL | to make 1.5 mL | - |
+| Diluent (vials only) |  |  | Bacteriostatic Water for Injection |
+| Water for injection |  |  | to make 1.14 mL |
 | Benzyl alcohol |  |  | 17 mg |
