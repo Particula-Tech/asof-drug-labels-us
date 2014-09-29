@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Ceftriaxone in the ADD-Vantage® Vial is intended for intravenous infusion only, after dilution with appropriate volume of ADD-Vantage diluent solution.
+Ceftriaxone in the ADD-Vantage® Vial is intended for intravenous infusion only, after dilution with appropriate volume of ADD-Vantage® diluent solution.
 
 Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone vials or to further dilute a reconstituted vial for IV administration because a precipitate can form.
 Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line.
@@ -22,7 +22,7 @@ The total daily dose should not exceed 2 grams.
 
 For the treatment of acute bacterial otitis media, a single intramuscular dose of 50 mg/kg (not to exceed 1 gram) is recommended (see INDICATIONS AND USAGE).
 (The above is for informational purposes only.
-Ceftriaxone in ADD-Vantage vials is not intended for intramuscular use.)
+Ceftriaxone in ADD-Vantage® vials is not intended for intramuscular use.)
 
 For the treatment of serious miscellaneous infections other than meningitis, the recommended total daily dose is 50 to 75 mg/kg, given in divided doses every 12 hours.
 The total daily dose should not exceed 2 grams.
@@ -35,14 +35,14 @@ The usual duration of therapy is 7 to 14 days.
 ## Adults
 
 The usual adult daily dose is 1 to 2 grams given once a day (or in equally divided doses twice a day) depending on the type and severity of infection.
-For infections caused by Staphylococcus aureus (MSSA), the recommended daily dose is 2 to 4 grams, in order to achieve >90% target attainment.
+For infections caused by Staphylococcus aureus(MSSA), the recommended daily dose is 2 to 4 grams, in order to achieve >90% target attainment.
 The total daily dose should not exceed 4 grams.
 
 If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial coverage should be added, because ceftriaxone sodium has no activity against this organism.
 
 For the treatment of uncomplicated gonococcal infections, a single intramuscular dose of 250 mg is recommended.
 (The above is for informational purposes only.
-Ceftriaxone in ADD-Vantage vials is not intended for intramuscular use.)
+Ceftriaxone in ADD-Vantage® vials is not intended for intramuscular use.)
 
 For preoperative use (surgical prophylaxis), a single dose of 1 gram administered intravenously ½ to 2 hours before surgery is recommended.
 
@@ -59,7 +59,7 @@ No dosage adjustment is necessary for patients with impairment of renal or hepat
 
 Ceftriaxone should be administered intravenously by infusion over a period of 30 minutes
 
-ADD-Vantage Vials for IV Use Only contain ceftriaxone sodium equivalent to 1 gm or 2 gm ceftriaxone to be used with 50 mL or 100 mL of 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP, in the ADD-Vantage Flexible Diluent Container.
+ADD-Vantage® Vials for IV Use Only contain ceftriaxone sodium equivalent to 1 gm or 2 gm ceftriaxone to be used with 50 mL or 100 mL of 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP, in the ADD-Vantage® Flexible Diluent Container.
 (See Instructions For Use of the ADD-Vantage® System at the end of this package insert.)
 
 ## Compatibility and Stability
@@ -79,11 +79,11 @@ Particulate formation can result.
 
 Ceftriaxone solutions should not be physically mixed with or piggybacked into solutions containing other antimicrobial drugs or into diluent solutions other than those listed above, due to the possible incompatibility (see WARNINGS).
 
-Ceftriaxone sodium sterile powder should be stored at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature] and protected from light.
+Ceftriaxone sodium sterile powder should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] and protected from light.
 After reconstitution, protection from normal light is not necessary.
 The color of solutions ranges from light yellow to amber, depending on the length of storage, concentration and diluent used.
 
 After the indicated stability time periods, unused portions of solutions should be discarded.
 
 NOTE: Parenteral drug products should be inspected visually for particulate matter before administration.
-ADD-Vantage Vials – Ceftriaxone for Injection Units: See Instructions For Use of the ADD-Vantage® System at the end of this package insert.
+ADD-Vantage® Vials – Ceftriaxone for Injection Units: See Instructions For Use of the ADD-Vantage® System at the end of this package insert.

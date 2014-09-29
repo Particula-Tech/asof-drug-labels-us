@@ -44,7 +44,7 @@ Prescribing ceftriaxone for injection in the absence of a proven or strongly sus
 
 Although transient elevations of BUN and serum creatinine have been observed, at the recommended dosages, the nephrotoxic potential of ceftriaxone is similar to that of other cephalosporins.
 
-Ceftriaxone is excreted via both biliary and renal excretion (seeCLINICAL PHARMACOLOGY).
+Ceftriaxone is excreted via both biliary and renal excretion (see CLINICAL PHARMACOLOGY).
 
 Therefore, patients with renal failure normally require no adjustment in dosage when usual doses of ceftriaxone are administered.
 
