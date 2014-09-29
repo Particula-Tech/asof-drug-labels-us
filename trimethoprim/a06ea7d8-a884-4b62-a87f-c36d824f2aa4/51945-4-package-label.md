@@ -2,7 +2,7 @@
 
 NDC 13551-501-05
 
-Primsol®Solution trimethoprim hydrochloride oral solution
+PRIMSOL® solution trimethoprim hydrochloride oral solution
 
 50 mg/5 mL
 
