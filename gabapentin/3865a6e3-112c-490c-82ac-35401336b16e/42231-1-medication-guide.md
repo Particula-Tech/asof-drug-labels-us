@@ -92,7 +92,7 @@ Before taking gabapentin, tell your healthcare provider if you:
   It is not known if gabapentin can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking gabapentin.
   You and your healthcare provider will decide if you should take gabapentin while you are pregnant.
-  - ∘If you become pregnant while taking gabapentin, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  - If you become pregnant while taking gabapentin, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
     The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
     You can enroll in this registry by calling 1-888-233-2334.
 - •are breast-feeding or plan to breast-feed.
@@ -111,7 +111,7 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 
 - •Take gabapentin exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin to take.
-  - ∘Do not change your dose of gabapentin without talking to your healthcare provider.
+  - Do not change your dose of gabapentin without talking to your healthcare provider.
     If you break a tablet in half the unused half of the tablet should be taken at your next scheduled dose.
     Half tablets not used within several days of breaking should be thrown away.
 - •Gabapentin can be taken with or without food.
@@ -129,6 +129,7 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 
 - •See “What is the most important information I should know about gabapentin?”
 - •The most common side effects of gabapentin include:
+
 - • dizziness
 - • lack of coordination
 - • viral infection

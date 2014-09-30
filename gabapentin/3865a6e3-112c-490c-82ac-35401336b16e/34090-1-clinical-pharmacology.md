@@ -139,6 +139,9 @@ Figures 1 and 2 show these changes for Studies 1 and 2.
 Figure 1.
 Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 1
 
+Figure 2.
+Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 2
+
 The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared with baseline) was calculated for each study (Figure 3).
 
 Figure 3.
@@ -182,6 +185,9 @@ Analysis of responder rate using combined data from all three studies and all do
 In two of the three controlled studies, more than one dose of gabapentin was used.
 Within each study the results did not show a consistently increased response to dose.
 However, looking across studies, a trend toward increasing efficacy with increasing dose is evident (see Figure 4).
+
+Figure 4.
+Responder Rate in Patients Receiving Gabapentin Expressed as a Difference from Placebo by Dose and Study: Adjunctive Therapy Studies in Patients ≥12 Years of Age with Partial Seizures
 
 In the figure, treatment effect magnitude, measured on the Y axis in terms of the difference in the proportion of gabapentin and placebo assigned patients attaining a 50% or greater reduction in seizure frequency from baseline, is plotted against the daily dose of gabapentin administered (X axis).
 

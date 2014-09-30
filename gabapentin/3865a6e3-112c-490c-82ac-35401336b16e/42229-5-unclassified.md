@@ -1,3 +1,5 @@
+# Rx only
+
 Manufactured by:
 
 Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
