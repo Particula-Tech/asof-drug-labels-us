@@ -19,7 +19,7 @@ REVLIMID is a thalidomide analog and can cause serious birth defects or death to
 
 REVLIMID REMS™ program Because of the risk of embryo-fetal toxicity, REVLIMID is only available through a restricted program called the REVLIMID REMS™ program (formerly known as the “RevAssist®” program) [see Warnings and Precautions (5.2)].
 
-- Patients must sign a Patient-Prescriber agreement form and comply with the requirements to receive REVLIMID.
+- Patients must sign a Patient-Physician agreement form and comply with the requirements to receive REVLIMID.
   In particular, females of reproductive potential must comply with the pregnancy testing, contraception requirements and participate in monthly telephone surveys.
   Males must comply with the contraception requirements [see Use in Specific Populations (8.6)].
 - REVLIMID is available only from pharmacies that are certified in REVLIMID REMS™ program.
@@ -29,9 +29,9 @@ Hematologic Toxicity
 
 Inform patients that REVLIMID is associated with significant neutropenia and thrombocytopenia [see Boxed Warnings and Warnings and Precautions (5.3)].
 
-Venous Thromboembolism
+Venous and Arterial Thromboembolism
 
-Inform patients that REVLIMID/dexamethasone has demonstrated significant increased risk of DVT and PE in patients with multiple myeloma [see Boxed Warnings and Warning and Precautions (5.4)].
+Inform patients of the risk of thrombosis including DVT, PE, MI, and stroke and to report immediately any signs and symptoms suggestive of these events for evaluation [see Boxed Warnings and Warning and Precautions (5.4)].
 
 Increased Mortality in Patients with CLL
 
@@ -74,9 +74,8 @@ REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Cor
 
 REVLIMID REMS™ is a trademark of Celgene Corporation.
 
-U.S. Pat.
-Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,468,363; 7,465,800; 7,855,217; 7,968,569
+Pat. http://www.celgene.com/products.aspx
 
 ©2005-2013 Celgene Corporation, All Rights Reserved.
 
-RevPlyPI.018/MG.018 11/13
+RevPlyPI.019/MG.019 09/14

@@ -17,7 +17,7 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 
 If pregnancy does occur during treatment, immediately discontinue the drug.
 Under these conditions, refer patient to an obstetrician/gynecologist experienced in reproductive toxicity for further evaluation and counseling.
-Any suspected fetal exposure to REVLIMID must be reported to the FDA via the MedWatch program at 1-800-332-1088 and also to Celgene Corporation at 1-888-423-5436.
+Any suspected fetal exposure to REVLIMID must be reported to the FDA via the MedWatch program at 1-800-FDA-1088 and also to Celgene Corporation at 1-888-423-5436.
 
 Animal data
 

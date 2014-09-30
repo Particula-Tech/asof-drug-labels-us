@@ -24,7 +24,7 @@ If you become pregnant while taking REVLIMID, stop taking it right away and call
 If your healthcare provider is not available, you can call 1-888-668-2528 for medical information.
 Healthcare providers and patients should report all cases of pregnancy to:
 
-- FDA MedWatch at 1-800-332-1088, and
+- FDA MedWatch at 1-800-FDA-1088, and
 - Celgene Corporation at 1-888-423-5436
 
 REVLIMID can pass into human semen:
@@ -43,11 +43,20 @@ Men, if your female partner becomes pregnant, you should call your healthcare pr
   If you are being treated for deletion 5q myelodysplastic syndromes (MDS) your blood counts should be checked weekly during the first 8 weeks of treatment with REVLIMID, and at least monthly thereafter.
   If you are being treated for multiple myeloma, your blood counts should be checked every 2 weeks for the first 12 weeks and then at least monthly thereafter.
 - Blood clots.
-  If you take REVLIMID and dexamethasone, you may have an increased risk for blood clots in your veins and lungs.
-  Call your healthcare provider or get medical help right away if you get any of these signs or symptoms while taking REVLIMID:
-  - shortness of breath
-  - chest pain
-  - arm or leg swelling
+  Blood clots in the arteries, veins, and lungs happen more often in people who take REVLIMID.
+  This risk is even higher for people with multiple myeloma who take the medicine dexamethasone with REVLIMID.
+  Heart attacks and strokes also happen more often in people who take REVLIMID with dexamethasone.
+  To reduce this increased risk, most people who take REVLIMID will also take a blood thinner medicine.
+  Before taking REVLIMID, tell your healthcare provider: Call your healthcare provider or get medical help right away if you get any of the following during treatment with REVLIMID:
+  - if you have had a blood clot in the past
+  - if you have high blood pressure
+  - if you smoke
+  - if you have been told that you have a high level of fat in your blood (hyperlipidemia)
+  - about all the medicines you take.
+    Certain other medicines can also increase your risk for blood clots.
+  - signs or symptoms of a blood clot in the lung, arm, or leg may include: shortness of breath, chest pain, or arm or leg swelling
+  - signs or symptoms of a heart attack may include: chest pain that may spread to the arms, neck, jaw, back, or stomach-area (abdomen), feeling sweaty, shortness of breath, feeling sick or vomiting
+  - signs or symptoms of stroke may include: sudden numbness or weakness, especially on one side of the body, severe headache or confusion, or problems with vision, speech, or balance.
 
 What is REVLIMID?
 
@@ -73,9 +82,12 @@ Who should not take REVLIMID?
   See the end of this Medication Guide for a complete list of ingredients in REVLIMID.
 
 What should I tell my healthcare provider before taking REVLIMID?
+
+See “What is the most important information I should know about REVLIMID?”
 Before you take REVLIMID, tell your healthcare provider if you:
 
 - have liver problems
+- have kidney problems or receive kidney dialysis treatment
 - are lactose intolerant.
   REVLIMID contains lactose.
 - have any other medical condition
@@ -174,7 +186,7 @@ Common side effects of REVLIMID include:
 These are not all the possible side effects of REVLIMID.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-332-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store REVLIMID?
 
@@ -208,15 +220,14 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for: Celgene Corporation Summit, NJ 07901
 
-Revised 11/2013
+Revised 2014
 
 REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Corporation.
 
 REVLIMID REMS™ is a trademark of Celgene Corporation.
 
-U.S. Pat.
-Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800; 7,468,363; 7,855,217; 7,968,569
+Pat. http://www.celgene.com/products.aspx
 
-©2005-2013 Celgene Corporation, All Rights Reserved.
+©2005-2014 Celgene Corporation, All Rights Reserved.
 
-RevPlyMG.018 11/13
+RevPlyMG.019 09/14

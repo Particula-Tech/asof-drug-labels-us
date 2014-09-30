@@ -28,7 +28,7 @@ Because of the embryo-fetal risk [see Warnings and Precautions (5.1)], REVLIMID 
 Required components of the REVLIMID REMS™ program include the following:
 
 - Prescribers must be certified with the REVLIMID REMS™ program by enrolling and complying with the REMS requirements.
-- Patients must sign a Patient-Prescriber agreement form and comply with the REMS requirements.
+- Patients must sign a Patient-Physician agreement form and comply with the REMS requirements.
   In particular, female patients of reproductive potential who are not pregnant must comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.6)] and males must comply with contraception requirements [see Use in Specific Populations (8.6)].
 - Pharmacies must be certified with the REVLIMID REMS™ program, must only dispense to patients who are authorized to receive REVLIMID and comply with REMS requirements.
 
@@ -51,12 +51,20 @@ In the pooled MM trials Grade 3 and 4 hematologic toxicities were more frequent 
 In the MCL trial, Grade 3 or 4 neutropenia was reported in 43% of the patients.
 Grade 3 or 4 thrombocytopenia was reported in 28% of the patients.
 
-## 5.4 Venous Thromboembolism
+## 5.4 Venous and Arterial Thromboembolism
 
-Venous thromboembolic events (predominantly deep venous thrombosis and pulmonary embolism) have occurred in patients with multiple myeloma treated with lenalidomide combination therapy [see Boxed Warning] and patients with MDS or MCL treated with lenalidomide monotherapy.
-A significantly increased risk of DVT and PE was observed in patients with multiple myeloma who were treated with REVLIMID and dexamethasone therapy in a clinical trial [see Boxed Warning].
-It is not known whether prophylactic anticoagulation or antiplatelet therapy prescribed in conjunction with REVLIMID may lessen the potential for venous thromboembolism.
-The decision to take prophylactic measures should be done carefully after an assessment of an individual patient’s underlying risk factors.
+Venous thromboembolic events (deep venous thrombosis and pulmonary embolism) and arterial thromboses are increased in patients treated with REVLIMID.
+A significantly increased risk of DVT (7.4%) and of PE (3.7%) occurred in patients with multiple myeloma who were treated with REVLIMID and dexamethasone therapy compared to patients treated in the placebo and dexamethasone group (3.1% and 0.9%) in clinical trials with varying use of anticoagulant therapies [see Boxed Warning and Adverse Reactions (6.1)].
+
+Myocardial infarction (1.7%) and stroke (CVA) (2.3%) are increased in patients with multiple myeloma who were treated with REVLIMID and dexamethasone therapy compared to patients treated with placebo and dexamethasone (0.6%, and 0.9%) in clinical trials [see Adverse Reactions (6.1)].
+Patients with known risk factors, including prior thrombosis, may be at greater risk and actions should be taken to try to minimize all modifiable factors (e.g. hyperlipidemia, hypertension, smoking)
+
+In controlled clinical trials that did not use concomitant thromboprophylaxis, 21.5% overall thrombotic events (Standardized MedDRA Query Embolic and Thrombotic events) occurred in patients with refractory and relapsed multiple myeloma who were treated with REVLIMID and dexamethasone compared to 8.3% thrombosis in patients treated with placebo and dexamethasone.
+The median time to first thrombosis event was 2.7 months.
+Thromboprophylaxis is recommended.
+The regimen of thromboprophylaxis should be based on an assessment of the patient’s underlying risks.
+Instruct patients to report immediately any signs and symptoms suggestive of thrombotic events.
+ESAs and estrogens may further increase the risk of thrombosis and their use should be based on a benefit-risk decision in patients receiving REVLIMID [see Drug Interactions (7.3)].
 
 ## 5.5 Increased Mortality in Patients with CLL
 

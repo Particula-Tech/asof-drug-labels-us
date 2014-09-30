@@ -1,4 +1,4 @@
-# WARNING: EMBRYO-FETAL TOXICITY, HEMATOLOGIC TOXICITY, and VENOUS THROMBOEMBOLISM
+# WARNING: EMBRYO-FETAL TOXICITY, HEMATOLOGIC TOXICITY, and VENOUS and ARTERIAL THROMBOEMBOLISM
 
 Embryo-Fetal Toxicity
 
@@ -22,10 +22,9 @@ Patients on therapy for del 5q myelodysplastic syndromes should have their compl
 Patients may require dose interruption and/or reduction.
 Patients may require use of blood product support and/or growth factors [see Dosage and Administration (2.2)].
 
-Venous Thromboembolism
+Venous and Arterial Thromboembolism
 
-REVLIMID has demonstrated a significantly increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients with multiple myeloma who were treated with REVLIMID and dexamethasone therapy.
-Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism.
-Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, or arm or leg swelling.
-It is not known whether prophylactic anticoagulation or antiplatelet therapy prescribed in conjunction with REVLIMID may lessen the potential for venous thromboembolism.
-The decision to take prophylactic measures should be done carefully after an assessment of an individual patient’s underlying risk factors [see Warnings and Precautions (5.4)].
+REVLIMID has demonstrated a significantly increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE), as well as risk of myocardial infarction and stroke in patients with multiple myeloma who were treated with REVLIMID and dexamethasone therapy.
+Monitor for and advise patients about signs and symptoms of thromboembolism.
+Advise patients to seek immediate medical care if they develop symptoms such as shortness of breath, chest pain, or arm or leg swelling.
+Thromboprophylaxis is recommended and the choice of regimen should be based on an assessment of the patient’s underlying risks [see Warnings and Precautions (5.4)].

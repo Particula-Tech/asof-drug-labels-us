@@ -1,9 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are described in detail in other labeling sections:
+The following adverse reactions are described in detail in other sections of the prescribing information:
 
+- Embryo-Fetal Toxicity [see Boxed Warnings, Warnings and Precautions (5.1, 5.2)]
 - Neutropenia and thrombocytopenia [see Boxed Warnings, Warnings and Precautions (5.3)]
-- Deep vein thrombosis and pulmonary embolism [see Boxed Warnings, Warnings and Precautions (5.4)]
+- Venous and arterial thromboembolism [see Boxed Warnings, Warnings and Precautions (5.4)]
 - Increased Mortality in Patients with CLL [see Warnings and Precautions (5.5)]
 - Second Primary Malignancies [see Warnings and Precautions (5.6)]
 - Hepatotoxicity [see Warnings and Precautions (5.7)]
@@ -17,8 +18,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Data were evaluated from 703 patients in two studies who received at least one dose of REVLIMID/dexamethasone (353 patients) or placebo/dexamethasone (350 patients).
 
-In the REVLIMID/dexamethasone treatment group, 269 patients (76%) underwent at least one dose interruption with or without a dose reduction of REVLIMID compared to 199 patients (57%) in the placebo/dexamethasone treatment group.
-Of these patients who had one dose interruption with or without a dose reduction, 50% in the REVLIMID/dexamethasone treatment group underwent at least one additional dose interruption with or without a dose reduction compared to 21% in the placebo/dexamethasone treatment group.
+In the REVLIMID/dexamethasone treatment group, 269 patients (76%) had at least one dose interruption with or without a dose reduction of REVLIMID compared to 199 patients (57%) in the placebo/dexamethasone treatment group.
+Of these patients who had one dose interruption with or without a dose reduction, 50% in the REVLIMID/dexamethasone treatment group had at least one additional dose interruption with or without a dose reduction compared to 21% in the placebo/dexamethasone treatment group.
 Most adverse events and Grade 3/4 adverse events were more frequent in patients who received the combination of REVLIMID/dexamethasone compared to placebo/dexamethasone.
 
 Tables 2, 3, and 4 summarize the adverse reactions reported for REVLIMID/dexamethasone and placebo/dexamethasone groups.
@@ -155,15 +156,19 @@ Table 4: Serious Adverse Reactions Reported in ≥1% Patients and With a ≥1% D
 | Bone Pain | 4 (1.1) | 0 (0.0) |
 | For all tables above:n – Number of Patients* - All Treatment Emergent AEs with ≥5% of Patients in REVLIMID/ Dex and at Least 2% Difference in Proportion between the Two Arms - (Safety population)# - All Treatment Emergent Grades 3 and 4 AEs with ≥1% Patients in REVLIMID/ Dex and at Least 1% Difference in Proportion between the Two Arms - (Safety population)& - All Treatment Emergent Serious AEs with ≥1% Patients in REVLIMID/ Dex and at Least 1% Difference in Proportion between the Two Arms - (Safety population)@ - ADRs with Death as an outcome% - ADRs which were considered to be life threatening (if the outcome of the event was death, it is included with death cases)a - All PTs under the MedDRA SMQ of Neuropathy of a peripheral sensory nature will be considered listedb - All PTs under SOC of Infections except for rare infections of Public Health interest will be considered listedc - All PTs under HLT of Rash will be considered listedDex=dexamethasoneMedian duration of exposure among patients treated with REVLIMID/dexamethasone was 44 weeks while median duration of exposure among patients treated with placebo/dexamethasone was 23 weeks. This should be taken into consideration when comparing frequency of adverse events between two treatment groups REVLIMID/dexamethasone vs. placebo/dexamethasone. |  |  |
 
-Venous Thromboembolism
+Venous and Arterial Thromboembolism [see Boxed Warning, Warnings and Precautions (5.4)]
 
-Deep Vein Thrombosis and Pulmonary Embolism [see Warnings and Precautions (5.3)]
-
-Deep vein thrombosis (DVT) was reported as a serious adverse drug reaction (7.4%) or Grade 3/4 (8.2%) at a higher rate in the REVLIMID/dexamethasone group compared to 3.1 % and 3.4% in the placebo/dexamethasone group, respectively.
+Deep vein thrombosis (DVT) was reported as a serious (7.4%) or severe (8.2%) adverse drug reaction at a higher rate in the REVLIMID/dexamethasone group compared to 3.1 % and 3.4% in the placebo/dexamethasone group, respectively.
 Discontinuations due to DVT adverse reactions were reported at comparable rates between groups.
 
 Pulmonary embolism (PE) was reported as a serious adverse drug reaction including Grade 3/4 (3.7%) at a higher rate in the REVLIMID/dexamethasone group compared to 0.9% in the placebo/dexamethasone group.
 Discontinuations due to PE adverse reactions were reported at comparable rates between groups.
+
+Myocardial infarction was reported as a serious (1.7%) or severe (1.7%) adverse drug reaction at a higher rate in the REVLIMID/dexamethasone group compared to 0.6 % and 0.6% respectively in the placebo/dexamethasone group.
+Discontinuation due to MI (including acute) adverse reactions was 0.8% in REVLIMID/dexamethasone group and none in the placebo/dexamethasone group.
+
+Stroke (CVA) was reported as a serious (2.3%) or severe (2.0%) adverse drug reaction in the REVLIMID/dexamethasone group compared to 0.9% and 0.9% respectively in the placebo/dexamethasone group.
+Discontinuation due to stroke (CVA) was 1.4% in REVLIMID/ dexamethasone group and 0.3% in the placebo/dexamethasone group.
 
 Other Adverse Reactions
 
