@@ -19,8 +19,8 @@ Suicidal thoughts or actions:
 - •Fluoxetine capsules and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - •Watch for these changes and call your healthcare provider right away if you notice:
-  - ∘New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - ∘Pay particular attention to such changes when fluoxetine capsules are started or when the dose is changed.
+  - •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+  - •Pay particular attention to such changes when fluoxetine capsules are started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
@@ -66,9 +66,18 @@ Severe allergic reactions:
 Abnormal bleeding: Fluoxetine capsules and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 5.
-Seizures or convulsions
+Visual problems:
+
+- •eye pain
+- •changes in vision
+- •swelling or redness in or around the eye
+- Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 6.
+Seizures or convulsions
+
+7.
 Manic episodes:
 
 - •greatly increased energy
@@ -79,21 +88,20 @@ Manic episodes:
 - •excessive happiness or irritability
 - •talking more or faster than usual
 
-7.
+8.
 Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
 
-8.
+9.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
-
 Symptoms may include:
 
 - •headache
 - •weakness or feeling unsteady
 - •confusion, problems concentrating or thinking or memory problems
 
-9.
+10.
 Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including torsade de pointes).
 This condition can be life threatening.
 The symptoms may include:
@@ -136,19 +144,19 @@ Do not take fluoxetine capsules if you:
   See the end of this Medication Guide for a complete list of ingredients in fluoxetine capsules.
 - •take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - ∘Do not take an MAOI within 5 weeks of stopping fluoxetine capsules unless directed to do so by your physician.
-  - ∘Do not start fluoxetine capsules if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+  - •Do not take an MAOI within 5 weeks of stopping fluoxetine capsules unless directed to do so by your physician.
+  - •Do not start fluoxetine capsules if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take fluoxetine capsules close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
 
 - 
-  - ∘high fever
-  - ∘uncontrolled muscle spasms
-  - ∘stiff muscles
-  - ∘rapid changes in heart rate or blood pressure
-  - ∘confusion
-  - ∘loss of consciousness (pass out)
+  - •high fever
+  - •uncontrolled muscle spasms
+  - •stiff muscles
+  - •rapid changes in heart rate or blood pressure
+  - •confusion
+  - •loss of consciousness (pass out)
 - •take Mellaril® (thioridazine).
   Do not take Mellaril® within 5 weeks of stopping fluoxetine capsules because this can cause serious heart rhythm problems or sudden death.
 - •take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
@@ -159,11 +167,11 @@ Ask if you are not sure.
 Before starting fluoxetine capsules, tell your healthcare provider if you:
 
 - •Are taking certain drugs or treatments such as:
-  - ∘Triptans used to treat migraine headache
-  - ∘Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
-  - ∘Tramadol and fentanyl
-  - ∘Over-the-counter supplements such as tryptophan or St. John's Wort
-  - ∘Electroconvulsive therapy (ECT)
+  - •Triptans used to treat migraine headache
+  - •Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
+  - •Tramadol and fentanyl
+  - •Over-the-counter supplements such as tryptophan or St. John's Wort
+  - •Electroconvulsive therapy (ECT)
 - •have liver problems
 - •have kidney problems
 - •have heart problems
@@ -276,7 +284,6 @@ The capsule shell contains D&C Red #28, D&C Yellow #10, FD&C Blue #1, FD&C Blue 
 The imprinting ink contains ammonium hydroxide, iron oxide black, propylene glycol and shellac glaze.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
 Manufactured In Canada By:
@@ -292,4 +299,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-H 2/2014
+I 7/2014

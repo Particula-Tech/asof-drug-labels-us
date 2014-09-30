@@ -89,6 +89,7 @@ Adult — Fluoxetine should be administered in combination with oral olanzapine 
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of fluoxetine 20 to 50 mg and oral olanzapine 5 to 12.5 mg.
 Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination with a dose range of olanzapine 6 to 12 mg and fluoxetine 25 to 50 mg.
 Safety of coadministration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
+
 Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
 However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
@@ -122,16 +123,16 @@ Geriatric — A lower or less frequent dosage should be considered for the elder
 
 Hepatic Impairment — As with many other medications, a lower or less frequent dosage should be used in patients with hepatic impairment [see Clinical Pharmacology (12.4) and Use in Specific Populations (8.6)].
 
-Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.10)].
+Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.12)].
 
 Fluoxetine and Olanzapine in Combination — The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, non-smoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modifications may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
-Fluoxetine and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 10 years of age [see Warnings and Precautions (5.14) and Drug Interactions (7.7)].
+Fluoxetine and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 10 years of age [see Warnings and Precautions (5.16) and Drug Interactions (7.7)].
 
 ## 2.8 Discontinuation of Treatment
 
-Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.13)].
+Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.15)].
 
 ## 2.9 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
@@ -147,5 +148,6 @@ In some cases, a patient already receiving fluoxetine therapy may require urgent
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, fluoxetine should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for five weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with fluoxetine may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.2)].
+
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with fluoxetine is unclear.
 The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].

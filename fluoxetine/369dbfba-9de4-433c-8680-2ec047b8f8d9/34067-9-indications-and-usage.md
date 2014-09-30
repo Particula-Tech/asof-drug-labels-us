@@ -11,7 +11,7 @@ The usefulness of the drug in adult and pediatric patients receiving fluoxetine 
 Fluoxetine Capsules USP are indicated for the acute and maintenance treatment of obsessions and compulsions in adult patients and in pediatric patients aged 7 to 17 years with Obsessive Compulsive Disorder (OCD) [see Clinical Studies (14.2)].
 
 The effectiveness of fluoxetine capsules USP in long-term use, i.e., for more than 13 weeks, has not been systematically evaluated in placebo-controlled trials.
-Therefore, the physician who elects to use fluoxetine capsules USP for extended periods, should periodically re-evaluate the long-term usefulness of the drug for the individual patient [see Dosage and Administration (2.2)].
+Therefore, the physician who elects to use fluoxetine capsules USP for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient [see Dosage and Administration (2.2)].
 
 ## 1.3 Bulimia Nervosa
 
@@ -24,7 +24,7 @@ The physician who elects to use fluoxetine capsules USP for extended periods sho
 Fluoxetine Capsules USP are indicated for the acute treatment of Panic Disorder, with or without agoraphobia, in adult patients [see Clinical Studies (14.4)].
 
 The effectiveness of fluoxetine capsules USP in long-term use, i.e., for more than 12 weeks, has not been established in placebo-controlled trials.
-Therefore, the physician who elects to use fluoxetine capsules USP for extended periods, should periodically re-evaluate the long-term usefulness of the drug for the individual patient [see Dosage and Administration (2.4)].
+Therefore, the physician who elects to use fluoxetine capsules USP for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient [see Dosage and Administration (2.4)].
 
 ## 1.5 Fluoxetine Capsules USP and Olanzapine in Combination: Depressive Episodes Associated With Bipolar I Disorder
 
