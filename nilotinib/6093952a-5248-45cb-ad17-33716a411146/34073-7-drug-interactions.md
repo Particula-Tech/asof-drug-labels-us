@@ -5,10 +5,14 @@
 Nilotinib is a competitive inhibitor of CYP3A4, CYP2C8, CYP2C9, CYP2D6 and UGT1A1 in vitro, potentially increasing the concentrations of drugs eliminated by these enzymes.
 In vitro studies also suggest that nilotinib may induce CYP2B6, CYP2C8 and CYP2C9, and decrease the concentrations of drugs which are eliminated by these enzymes.
 
-Single-dose administration of Tasigna with midazolam (a CYP3A4 substrate) to healthy subjects increased midazolam exposure by 30%.
+In patients with CML, multiple doses of Tasigna increased the systemic exposure of oral midazolam (a substrate of CYP3A4) 2.6-fold.
+Tasigna is a moderate CYP3A4 inhibitor.
+As a result, the systemic exposure of drugs metabolized by CYP3A4 (e.g., certain HMG-CoA reductase inhibitors) may be increased when co-administered with Tasigna.
+Dose adjustment may be necessary for drugs that are CYP3A4 substrates, especially those that have narrow therapeutic indices (e.g., alfentanil, cyclosporine, dihydroergotamine, ergotamine, fentanyl, sirolimus and tacrolimus) when co-administered with Tasigna.
+
 Single-dose administration of Tasigna to healthy subjects did not change the pharmacokinetics and pharmacodynamics of warfarin (a CYP2C9 substrate).
-The ability of Tasigna to induce metabolism has not been determined in vivo.
-Exercise caution when coadministering Tasigna with substrates for these enzymes that have a narrow therapeutic index.
+The ability of multiple doses of Tasigna to induce metabolism of drugs other than midazolam has not been determined in vivo.
+Monitor patients closely when co-administering Tasigna with drugs that have a narrow therapeutic index and are substrates for CYP2B6, CYP2C8, or CYP2C9 enzymes.
 
 Nilotinib inhibits human P-glycoprotein (P-gp).
 If Tasigna is administered with drugs that are substrates of P-gp, increased concentrations of the substrate drug are likely, and caution should be exercised.

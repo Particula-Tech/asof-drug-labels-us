@@ -176,8 +176,8 @@ These adverse drug reactions are ranked under a heading of frequency, the most f
 For laboratory abnormalities, very common events (≥10%), which were not included in Tables 5 and 6, are also reported.
 These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category, obtained from 2 clinical studies:
 
-1. Newly diagnosed Ph+CML-CP 48 month analysis and,
-2. Resistant or intolerant Ph+CML-CP and CMP-AP 24 months’ analysis.
+1. Newly diagnosed Ph+ CML-CP 48 month analysis and,
+2. Resistant or intolerant Ph+ CML-CP and CMP-AP 24 months’ analysis.
 
 Infections and Infestations: Common: folliculitis, upper respiratory tract infection (including pharyngitis, nasopharyngitis, rhinitis).
 Uncommon: pneumonia, bronchitis, urinary tract infection, candidiasis (including oral candidiasis), gastroenteritis.

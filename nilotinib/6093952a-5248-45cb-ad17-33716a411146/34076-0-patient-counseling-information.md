@@ -46,4 +46,4 @@ Advise patients of the following:
 - If a dose is missed, take the next dose as scheduled.
   Do not take a double dose to make up for the missed capsules.
 
-T2014-02 January 2014
+T2014-91 September 2014
