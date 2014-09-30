@@ -144,6 +144,8 @@ The bioavailability of olmesartan was not significantly altered by the co-admini
 Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce or are metabolized by those enzymes are not expected.
 
 Dual Blockade of the Renin- Angiotensin System (RAS) Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
+In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on Benicar HCT and other agents that affect the RAS.
 
 Do not co-administer aliskiren with Benicar HCT in patients with diabetes (see CONTRAINDICATIONS).
