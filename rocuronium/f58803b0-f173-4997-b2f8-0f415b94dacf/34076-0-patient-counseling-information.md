@@ -8,6 +8,10 @@ Since allergic cross-reactivity has been reported in this class, request informa
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Manufactured by: Gland Pharma Ltd Hyderabad 500 043 India Code No.: AP/DRUGS/103/97
+Manufactured by: Gland Pharma Ltd Hyderabad 500 043 India
 
-LEA-019177-03 REVISED MARCH 2013 MI:ROCUIJ:R3
+Code No.: AP/DRUGS/103/97
+
+“PREMIERPro™Rx” is a registered trademark of Premier, Inc., used under license.
+
+LEA-019588-00 REVISED MAY 2014 MI:ROCUIJ:R4
