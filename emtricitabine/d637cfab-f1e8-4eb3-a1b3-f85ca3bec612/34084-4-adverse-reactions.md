@@ -16,7 +16,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 In HIV-1-Infected Subjects With No Antiretroviral Treatment History
 
-Studies C209 and C215 – Treatment-Emergent Adverse Drug Reactions: The safety assessment of rilpivirine, used in combination with other antiretroviral drugs, is based on the Week 96 pooled data from 1368 subjects in the Phase 3 trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE) in antiretroviral treatment-naive HIV-1-infected adult subjects.
+Studies C209 and C215 – Treatment-Emergent Adverse Drug Reactions: The safety assessment of rilpivirine, used in combination with other antiretroviral drugs, is based on the Week 96 pooled data from 1368 subjects in the Phase 3 trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE) in antiretroviral treatment-naïve HIV-1-infected adult subjects.
 A total of 686 subjects received rilpivirine in combination with other antiretroviral drugs as background regimen; most (N=550) received emtricitabine/tenofovir DF as background regimen.
 The number of subjects randomized to the control arm efavirenz was 682, of which 546 received emtricitabine/tenofovir DF as background regimen [See Clinical Studies (14)].
 The median duration of exposure for subjects in either treatment arm was 104 weeks.
@@ -59,8 +59,8 @@ No new adverse reactions to COMPLERA were identified in stable, virologically-su
 
 Emtricitabine and Tenofovir Disoproxil Fumarate: The following adverse reactions were observed in clinical trials of emtricitabine or tenofovir DF in combination with other antiretroviral agents:
 
-The most common adverse drug reactions occurring in at least 10% of HIV-1-infected treatment-naive adult subjects in a Phase 3 clinical trial of emtricitabine and tenofovir DF in combination with another antiretroviral agent are diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
-In addition, adverse drug reactions that occurred in at least 5% of treatment-experienced or treatment-naive subjects receiving emtricitabine or tenofovir DF with other antiretroviral agents in clinical trials include abdominal pain, dyspepsia, vomiting, fever, pain, nasopharyngitis, pneumonia, sinusitis, upper respiratory tract infection, arthralgia, back pain, myalgia, paresthesia, peripheral neuropathy (including peripheral neuritis and neuropathy), anxiety, increased cough, and rhinitis.
+The most common adverse drug reactions occurring in at least 10% of HIV-1-infected treatment-naïve adult subjects in a Phase 3 clinical trial of emtricitabine and tenofovir DF in combination with another antiretroviral agent are diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
+In addition, adverse drug reactions that occurred in at least 5% of treatment-experienced or treatment-naïve subjects receiving emtricitabine or tenofovir DF with other antiretroviral agents in clinical trials include abdominal pain, dyspepsia, vomiting, fever, pain, nasopharyngitis, pneumonia, sinusitis, upper respiratory tract infection, arthralgia, back pain, myalgia, paresthesia, peripheral neuropathy (including peripheral neuritis and neuropathy), anxiety, increased cough, and rhinitis.
 
 Skin discoloration has been reported with higher frequency among emtricitabine-treated subjects; it was manifested by hyperpigmentation on the palms and/or soles and was generally mild and asymptomatic.
 The mechanism and clinical significance are unknown.

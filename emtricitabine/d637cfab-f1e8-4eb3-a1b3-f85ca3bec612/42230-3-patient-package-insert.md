@@ -63,7 +63,7 @@ COMPLERA is used to treat HIV-1 infection in:
 
 Your healthcare provider will measure your viral load.
 
-COMPLERA contains 3 medicines, (rilpivirine, emtricitabine, tenofovir disoproxil fumarate) combined in one tablet.
+COMPLERA contains 3 medicines (rilpivirine, emtricitabine, tenofovir disoproxil fumarate) combined in one tablet.
 Emtricitabine (EMTRIVA®) and tenofovir disoproxil fumarate (VIREAD®) are HIV-1 (human immunodeficiency virus) nucleoside analog reverse transcriptase inhibitors (NRTIs).
 Rilpivirine (Edurant®) is an HIV-1 non-nucleoside analog reverse transcriptase inhibitor (NNRTI).
 
@@ -287,10 +287,10 @@ Gilead Sciences, Inc.
 
 Foster City, CA 94404
 
-Revised: June 2014
+Revised: September 2014
 
 COMPLERA, EMTRIVA, HEPSERA, STRIBILD, TRUVADA, VIREAD, and VISTIDE are trademarks of Gilead Sciences, Inc., or its related companies.
 Edurant is a trademark of Janssen Pharmaceuticals, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-202123-GS-006
+202123-GS-007

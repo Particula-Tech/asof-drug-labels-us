@@ -2,7 +2,7 @@
 
 In HIV-1-Infected Subjects With No Antiretroviral Treatment History
 
-The efficacy of COMPLERA is based on the analyses of 48- and 96-week data from two randomized, double-blind, controlled studies C209 (ECHO) and C215 (THRIVE) in treatment-naive, HIV-1-infected subjects (N=1368).
+The efficacy of COMPLERA is based on the analyses of 48- and 96-week data from two randomized, double-blind, controlled studies (Study C209 (ECHO) and TRUVADA subset of Study C215 (THRIVE)) in treatment-naïve, HIV-1-infected subjects (N=1368).
 The studies are identical in design with the exception of the background regimen (BR).
 Subjects were randomized in a 1:1 ratio to receive either rilpivirine 25 mg (N=686) once daily or efavirenz 600 mg (N=682) once daily in addition to a BR.
 In Study C209 (N=690), the BR was emtricitabine/tenofovir DF.

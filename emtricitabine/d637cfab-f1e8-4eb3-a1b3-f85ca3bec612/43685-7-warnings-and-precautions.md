@@ -65,7 +65,7 @@ Bone Mineral Density:
 
 In clinical trials in HIV-1-infected adults, tenofovir DF was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving tenofovir DF.
-For more information, please consult the VIREAD prescribing information.
+For more information, please consult the VIREAD® prescribing information.
 
 The effects of tenofovir DF-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
 Assessment of BMD should be considered for patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.

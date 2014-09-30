@@ -30,12 +30,12 @@ The metabolites of emtricitabine include 3′-sulfoxide diastereomers (approxima
 Emtricitabine is eliminated by a combination of glomerular filtration and active tubular secretion with a renal clearance in adults with creatinine clearance >80 mL per minute of 213 ± 89 mL per minute (mean ± SD).
 The plasma emtricitabine half-life is approximately 10 hours.
 
-Rilpivirine: The pharmacokinetic properties of rilpivirine have been evaluated in adult healthy subjects and in adult antiretroviral treatment-naive HIV-1-infected subjects.
+Rilpivirine: The pharmacokinetic properties of rilpivirine have been evaluated in adult healthy subjects and in adult antiretroviral treatment-naïve HIV-1-infected subjects.
 Exposure to rilpivirine was generally lower in HIV-1-infected subjects than in healthy subjects.
 After oral administration, the Cmax of rilpivirine is achieved within 4–5 hours.
 The absolute bioavailability of rilpivirine is unknown.
 
-Table 5 Population Pharmacokinetic Estimates of Rilpivirine 25 mg Once Daily in Antiretroviral Treatment-Naive HIV-1-infected Subjects (Pooled Data from Phase 3 Trials through Week 96)
+Table 5 Population Pharmacokinetic Estimates of Rilpivirine 25 mg Once Daily in Antiretroviral Treatment-Naïve HIV-1-infected Subjects (Pooled Data from Phase 3 Trials through Week 96)
 
 | Parameter | Rilpivirine 25 mg once daily N=679 |
 | --- | --- |
@@ -124,7 +124,7 @@ Population pharmacokinetic analysis indicated that hepatitis B and/or C virus co
 Assessment of Drug Interactions
 
 COMPLERA is a complete regimen for the treatment of HIV-1 infection; therefore, COMPLERA should not be administered with other HIV antiretroviral medications.
-Information regarding potential drug-drug interactions with other antiretroviral medications is not provided.
+Information regarding potential drug-drug interactions with other HIV antiretroviral medications is not provided.
 Please refer to the Edurant, VIREAD and EMTRIVA prescribing information as needed.
 
 The drug interaction studies described were conducted with emtricitabine, rilpivirine, or tenofovir DF as individual agents; no drug interaction studies have been conducted using COMPLERA.
@@ -252,6 +252,7 @@ In Cell Culture
 Emtricitabine and Tenofovir Disoproxil Fumarate: HIV-1 isolates with reduced susceptibility to emtricitabine or tenofovir have been selected in cell culture.
 Reduced susceptibility to emtricitabine was associated with M184V/I substitutions in HIV-1 RT.
 HIV-1 isolates selected by tenofovir expressed a K65R substitution in HIV-1 RT and showed a 2–4 fold reduction in susceptibility to tenofovir.
+In addition, a K70E substitution in HIV-1 RT has been selected by tenofovir and results in low-level reduced susceptibility to abacavir, emtricitabine, lamivudine, and tenofovir.
 
 Rilpivirine: Rilpivirine-resistant strains were selected in cell culture starting from wild-type HIV-1 of different origins and subtypes as well as NNRTI resistant HIV-1.
 The frequently observed amino acid substitutions that emerged and conferred decreased phenotypic susceptibility to rilpivirine included: L100I, K101E, V106I and A, V108I, E138K and G, Q, R, V179F and I, Y181C and I, V189I, G190E, H221Y, F227C and M230I and L.
@@ -322,7 +323,7 @@ Combinations of 2 or 3 NNRTI resistance-associated substitutions gave decreased 
 
 In HIV-1-Infected Subjects With No Antiretroviral Treatment History
 
-Considering all of the available cell culture and clinical data, any of the following amino acid substitutions, when present at baseline, are likely to decrease the antiviral activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, Y188L, H221Y, F227C, M230I or M230L.
+Considering all of the available cell culture and clinical data, any of the following amino acid substitutions, when present at baseline, are likely to decrease the antiviral activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, Y188L, H221Y, F227C, M230I, M230L, and the combination of L100I+K103N.
 
 Cross-resistance to efavirenz, etravirine and/or nevirapine is likely after virologic failure and development of rilpivirine resistance.
 In a pooled 96-Week analysis for subjects receiving rilpivirine in combination with emtricitabine/tenofovir DF in the Phase 3 clinical trials TMC278-C209 and TMC278-C215, 43 of the 70 (61%) rilpivirine resistance analysis subjects with post-baseline resistance data had virus with decreased susceptibility to rilpivirine (≥2.5-fold).
@@ -335,8 +336,8 @@ HIV-1 isolates containing the K65R substitution, selected in vivo by abacavir, d
 Viruses harboring substitutions conferring reduced susceptibility to stavudine and zidovudine (M41L, D67N, K70R, L210W, T215Y/F, K219Q/E), or didanosine (L74V) remained sensitive to emtricitabine.
 HIV-1 containing the substitutions associated with NNRTI resistance K103N or rilpivirine-associated substitutions were susceptible to emtricitabine.
 
-Tenofovir Disoproxil Fumarate: The K65R substitution selected by tenofovir is also selected in some HIV-1-infected patients treated with abacavir or didanosine.
-HIV-1 isolates with the K65R substitution also showed reduced susceptibility to emtricitabine and lamivudine.
+Tenofovir Disoproxil Fumarate: The K65R and K70E substitutions selected by tenofovir are also selected in some HIV-1-infected patients treated with abacavir or didanosine.
+HIV-1 isolates with the K65R and K70E substitutions also showed reduced susceptibility to emtricitabine and lamivudine.
 Therefore, cross-resistance among these NRTIs may occur in patients whose virus harbors the K65R substitution.
 HIV-1 isolates from patients (N=20) whose HIV-1 expressed a mean of 3 zidovudine-associated RT amino acid substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.
 
