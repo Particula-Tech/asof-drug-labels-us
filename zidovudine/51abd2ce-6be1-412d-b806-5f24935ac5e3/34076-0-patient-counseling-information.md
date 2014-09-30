@@ -32,4 +32,4 @@ Patients should be advised to avoid doing things that can spread HIV-1 infection
 
 Patients should be informed to take all HIV medications exactly as prescribed.
 COMBIVIR, EPIVIR, and TRIZIVIR are registered trademarks of ViiV Healthcare.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 08/2012
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 05/2014
