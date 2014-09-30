@@ -25,7 +25,7 @@ Table 5 enumerates treatment-emergent adverse reactions that occurred in 2% or m
 Panic Disorder controlled clinical trials.
 Table 4 provides combined data for the pool of studies that are provided separately by indication in Table 3.
 
-Table 3: Most Common Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical TrialsIncidence less than 1%.Includes U.S. data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials.
+Table 3: Most Common Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical TrialsIncidence less than 1%.
 
 |  | Percentage of Patients Reporting Event |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -61,7 +61,7 @@ Table 3: Most Common Treatment-Emergent Adverse Reactions: Incidence in Major De
 | ImpotenceDenominator used was for males only (N = 690 fluoxetine Major Depressive Disorder; N = 410 placebo Major Depressive Disorder; N = 116 fluoxetine OCD; N = 43 placebo OCD; N = 14 fluoxetine bulimia; N = 1 placebo bulimia; N = 162 fluoxetine panic; N = 121 placebo panic). | 2 | -- | -- | -- | 7 | -- | 1 | -- |
 | Abnormal ejaculation | -- | -- | 7 | -- | 7 | -- | 2 | 1 |
 
-Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical TrialsIncidence less than 1%.Includes U.S. data for Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials.
+Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -103,10 +103,10 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Dis
 | Special Senses |  |  |
 | Abnormal vision | 2 | 1 |
 
-Associated with discontinuation in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 5 lists the adverse reactions associated with discontinuation of fluoxetine treatment (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S.
+Associated with discontinuation in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 5 lists the adverse reactions associated with discontinuation of fluoxetine treatment (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S.
 Panic Disorder clinical trials.
 
-Table 5: Most Common Adverse Reactions Associated With Discontinuation in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical TrialsIncludes U.S. Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S.
+Table 5: Most Common Adverse Reactions Associated With Discontinuation in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical TrialsIncludes U.S. Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S.
 Panic Disorder clinical trials.
 
 | Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Combined (N = 1533) | Major Depressive Disorder (N = 392) | OCD (N = 266) | Bulimia (N = 450) | Panic Disorder (N = 425) |
@@ -173,7 +173,7 @@ Adjusted for gender.
 The following adverse reactions have been identified during post approval use of fluoxetine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Voluntary reports of adverse reactions temporally associated with fluoxetine that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, memory impairment, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of preexisting movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including torsade de pointes-type arrhythmias), vaginal bleeding, and violent behaviors1.
+Voluntary reports of adverse reactions temporally associated with fluoxetine that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, galactorrhea, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, memory impairment, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of preexisting movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including torsade de pointes-type arrhythmias), vaginal bleeding, and violent behaviors1.
 
 1 These terms represent serious adverse events, but do not meet the definition for adverse drug reactions.
 They are included here because of their seriousness.

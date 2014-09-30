@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Fluoxetine Capsules USP 10 mg 100s Label Text
 
@@ -14,7 +14,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Fluoxetine Capsules USP 20 mg 100s Label Text
 

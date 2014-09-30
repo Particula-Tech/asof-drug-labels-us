@@ -7,7 +7,7 @@ There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
 
-What is the most important information I should know about fluoxetinecapsules?
+What is the most important information I should know about fluoxetine capsules?
 
 Fluoxetine capsules and other antidepressant medicines may cause serious side effects, including:
 
@@ -17,8 +17,8 @@ Suicidal thoughts or actions:
 - •Fluoxetine capsules and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - •Watch for these changes and call your healthcare provider right away if you notice:
-  - •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - •Pay particular attention to such changes when fluoxetine capsules are started or when the dose is changed.
+  1. •New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+  2. •Pay particular attention to such changes when fluoxetine capsules are started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
@@ -64,9 +64,18 @@ Severe allergic reactions:
 Abnormal bleeding: Fluoxetine capsules and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 5.
-Seizures or convulsions
+Visual problems:
+
+- •eye pain
+- •changes in vision
+- •swelling or redness in or around the eye
+- Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 6.
+Seizures or convulsions
+
+7.
 Manic episodes:
 
 - •greatly increased energy
@@ -77,11 +86,11 @@ Manic episodes:
 - •excessive happiness or irritability
 - •talking more or faster than usual
 
-7.
+8.
 Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
 
-8.
+9.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 
@@ -91,7 +100,7 @@ Symptoms may include:
 - •weakness or feeling unsteady
 - •confusion, problems concentrating or thinking or memory problems
 
-9.
+10.
 Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including torsade de pointes).
 This condition can be life threatening.
 The symptoms may include:
@@ -136,8 +145,8 @@ Do not take fluoxetine capsules if you:
   See the end of this Medication Guide for a complete list of ingredients in fluoxetine capsules.
 - •take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - •Do not take an MAOI within 5 weeks of stopping fluoxetine capsules unless directed to do so by your physician.
-  - •Do not start fluoxetine capsules if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+  1. •Do not take an MAOI within 5 weeks of stopping fluoxetine capsules unless directed to do so by your physician.
+  2. •Do not start fluoxetine capsules if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take fluoxetine capsules close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -159,11 +168,11 @@ Ask if you are not sure.
 Before starting fluoxetine capsules, tell your healthcare provider if you:
 
 - •Are taking certain drugs or treatments such as:
-  - •Triptans used to treat migraine headache
-  - •Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
-  - •Tramadol and fentanyl
-  - •Over-the-counter supplements such as tryptophan or St. John's Wort
-  - •Electroconvulsive therapy (ECT)
+  1. •Triptans used to treat migraine headache
+  2. •Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
+  3. •Tramadol and fentanyl
+  4. •Over-the-counter supplements such as tryptophan or St. John's Wort
+  5. •Electroconvulsive therapy (ECT)
 - •have liver problems
 - •have kidney problems
 - •have heart problems
@@ -186,101 +195,8 @@ Fluoxetine capsules and some medicines may interact with each other, may not wor
 Your healthcare provider or pharmacist can tell you if it is safe to take fluoxetine capsules with your other medicines.
 Do not start or stop any medicine while taking fluoxetine capsules without talking to your healthcare provider first.
 
-How should I take fluoxetine capsules?
+If you take fluoxetine capsules, you should not take any other medicines that contain fluoxetine hydrochloride including:
 
-- •Take fluoxetine capsules exactly as prescribed.
-  Your healthcare provider may need to change the dose of fluoxetine capsules until it is the right dose for you.
-- •Fluoxetine capsules may be taken with or without food.
-- •If you miss a dose of fluoxetine capsules, take the missed dose as soon as you remember.
-  If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
-  Do not take two doses of fluoxetine capsules at the same time.
-- •If you take too many fluoxetine capsules, call your healthcare provider or poison control center right away, or get emergency treatment.
-
-What should I avoid while taking fluoxetine capsules?
-
-Fluoxetine capsules can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
-You should not drive, operate heavy machinery, or do other dangerous activities until you know how fluoxetine capsules affect you.
-Do not drink alcohol while using fluoxetine capsules.
-
-What are the possible side effects of fluoxetine capsules?
-
-Fluoxetine capsules may cause serious side effects, including:
-
-- •See “What is the most important information I should know about fluoxetine capsules?”
-- •Problems with blood sugar control.
-  People who have diabetes and take fluoxetine capsules may have problems with low blood sugar while taking fluoxetine capsules.
-  High blood sugar can happen when fluoxetine capsules are stopped.
-  Your healthcare provider may need to change the dose of your diabetes medicines when you start or stop taking fluoxetine capsules.
-- •Feeling anxious or trouble sleeping
-
-Common possible side effects in people who take fluoxetine capsules include:
-
-- •unusual dreams
-- •sexual problems
-- •loss of appetite, diarrhea, indigestion, nausea or vomiting, weakness, or dry mouth
-- •flu symptoms
-- •feeling tired or fatigued
-- •change in sleep habits
-- •yawning
-- •sinus infection or sore throat
-- •tremor or shaking
-- •sweating
-- •feeling anxious or nervous
-- •hot flashes
-- •rash
-
-Other side effects in children and adolescents include:
-
-- •increased thirst
-- •abnormal increase in muscle movement or agitation
-- •nose bleed
-- •urinating more often
-- •heavy menstrual periods
-- •possible slowed growth rate and weight change.
-  Your child’s height and weight should be monitored during treatment with fluoxetine capsules.
-
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
-These are not all the possible side effects of fluoxetine capsules.
-For more information, ask your healthcare provider or pharmacist.
-
-CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
-YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
-
-How should I store fluoxetine capsules?
-
-- •Store fluoxetine capsules at room temperature between 20° to 25°C (68° to 77°F).
-- •Keep fluoxetine capsules away from light.
-- •Keep fluoxetine capsules bottle closed tightly.
-
-Keep fluoxetine capsules and all medicines out of the reach of children.
-
-General information about fluoxetine capsules
-
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use fluoxetine capsules for a condition for which they were not prescribed.
-Do not give fluoxetine capsules to other people, even if they have the same condition.
-They may harm them.
-
-This Medication Guide summarizes the most important information about fluoxetine capsules.
-If you would like more information, talk with your healthcare provider.
-You may ask your healthcare provider or pharmacist for information about fluoxetine capsules that is written for healthcare professionals.
-
-For more information about fluoxetine capsules call 1-888-838-2872.
-
-What are the ingredients in fluoxetine capsules?
-
-Active ingredient: fluoxetine hydrochloride
-
-Inactive ingredients: ammonium hydroxide, D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, gelatin, magnesium stearate, pregelatinized corn starch, propylene glycol, shellac, and titanium dioxide.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
-
-Manufactured In Poland By: PLIVA Krakow Pharmaceutical Company S.A.
-Krakow, Poland
-
-Manufactured For: TEVA PHARMACEUTICALS USA Sellersville, PA 18960
-
-Rev.
-E 2/2014
+- •Symbyax®
+- •Sarafem®
+- •Prozac® Weekly™
