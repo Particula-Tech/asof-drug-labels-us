@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020608"
+  ],
+  "inn": "iohexol",
+  "labeler": "GE Healthcare Inc.",
+  "package_ndcs": [
+    "0407-1413-89",
+    "0407-1414-88"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "iohexol",
+      "name": "Omnipaque"
+    }
+  ],
+  "setid": "3fa9bff0-676b-45d9-9d77-a6363c63395f",
+  "source": "dailymed"
+}
