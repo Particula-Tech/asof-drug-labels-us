@@ -1,0 +1,36 @@
+{
+  "application_numbers": [
+    "ANDA202446"
+  ],
+  "inn": "amitriptyline",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-171-01",
+    "16729-171-10",
+    "16729-171-17",
+    "16729-172-01",
+    "16729-172-10",
+    "16729-172-17",
+    "16729-173-01",
+    "16729-173-10",
+    "16729-173-17",
+    "16729-174-01",
+    "16729-174-10",
+    "16729-174-17",
+    "16729-175-01",
+    "16729-175-10",
+    "16729-175-17",
+    "16729-176-01",
+    "16729-176-10",
+    "16729-176-17"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amitriptyline hydrochloride",
+      "name": "AMITRIPTYLINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "1e6d2c80-fbc8-444e-bdd3-6a91fe1b95bd",
+  "source": "dailymed"
+}
