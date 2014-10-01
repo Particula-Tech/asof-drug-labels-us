@@ -44,11 +44,15 @@ Table 5: Visual Acuity outcomes at Month 39 (All randomized subjects with LOCFc)
 
 | Study | Outcomes | OZURDEX® | Sham | Estimated Difference (95% CI) |
 | --- | --- | --- | --- | --- |
-| 1a | Gain of ≥15 letters in BCVA (n(%)) | 34 (21%) | 19 (12%) | 9.3% (1.4%, 17.3%) |
+| 1a | Mean (SD) Baseline BCVA (Letters) | 56 (10) | 57 (9) |  |
+| Median (range) Baseline BCVA (Letters) | 59 (34-95) | 58 (34-74) |  |  |
+| Gain of ≥15 letters in BCVA (n(%)) | 34 (21%) | 19 (12%) | 9.3% (1.4%, 17.3%) |  |
 |  | Loss of ≥15 letters in BCVA (n(%)) | 15 (9%) | 17 (10%) | -1.1% (-7.5%, 5.3%) |
 |  | Mean change in BCVA (SD) | 4.1 (13.9) | 0.9 (11.9) | 3.2 (0.4, 5.9) |
-|  | Gain of ≥15 letters in BCVA (n(%)) | 30 (18%) | 16 (10%) | 8.4% (0.9%, 15.8%) |
-| 2b | Loss of ≥15 letters in BCVA (n(%)) | 30 (18%) | 18 (11%) | 7.1% (-0.5%, 14.7%) |
+| 2b | Mean (SD) Baseline BCVA (Letters) | 55 (10) | 56 (9) |  |
+| Median (range) Baseline BCVA (Letters) | 58 (34-72) | 58 (36-82) |  |  |
+| Gain of ≥15 letters in BCVA (n(%)) | 30 (18%) | 16 (10%) | 8.4% (0.9%, 15.8%) |  |
+|  | Loss of ≥15 letters in BCVA (n(%)) | 30 (18%) | 18 (11%) | 7.1% (-0.5%, 14.7%) |
 |  | Mean change in BCVA (SD) | 0.4 (17.5) | 0.8 (13.6) | -0.7 (-4.1, 2.6) |
 | aStudy 1: OZURDEX®, N=163; Sham, N=165 |  |  |  |  |
 | bStudy 2: OZURDEX®, N=165; Sham, N=163 |  |  |  |  |
@@ -59,9 +63,9 @@ The occurrence of cataracts impacted visual acuity during the study.
 The visual acuity improvement from baseline increases during a treatment cycle, peaks at approximately 3 Months posttreatment and diminishes thereafter.
 Patients who were pseudophakic at baseline achieved greater mean BCVA change from baseline at the final study visit.
 
-Figure 2 Proportion of Subjects with ≥ 15 Letters Improvement from Baseline BCVA in the Study Eye
+Figure 2: Proportion of Subjects with ≥ 15 Letters Improvement from Baseline BCVA in the Study Eye
 
-Figure 3 Mean BCVA Change from Baseline
+Figure 3: Mean BCVA Change from Baseline
 
 The best corrected visual acuity outcomes for the Pseudophakic and Phakic subgroups from Studies 1 and 2 at Month 39 are presented in Table 6.
 

@@ -21,6 +21,6 @@ Inform patients that they may experience temporary visual blurring after receivi
 Advise patients not to drive or use machines until this has been resolved.
 
 © 2014 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Patented.
-See: www.allergan.com/products/patent_notices Made in Ireland
+See: www.allergan.com/products/patent_notices Made in Ireland.
 
-72212US17
+72212US18

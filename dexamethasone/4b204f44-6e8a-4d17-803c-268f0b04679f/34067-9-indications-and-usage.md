@@ -10,4 +10,4 @@ OZURDEX® is indicated for the treatment of non-infectious uveitis affecting the
 
 ## 1.3 Diabetic Macular Edema
 
-OZURDEX® is indicated for the treatment of diabetic macular edema in patients who are pseudophakic or are phakic and scheduled for cataract surgery.
+OZURDEX® is indicated for the treatment of diabetic macular edema.

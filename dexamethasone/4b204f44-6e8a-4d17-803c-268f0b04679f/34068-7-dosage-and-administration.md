@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosing Information
 
-For ophthalmic intravitreal injection only.
+For ophthalmic intravitreal injection.
 
 ## 2.2 Administration
 

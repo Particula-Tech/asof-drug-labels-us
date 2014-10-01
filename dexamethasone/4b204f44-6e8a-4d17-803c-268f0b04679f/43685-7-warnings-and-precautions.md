@@ -3,7 +3,6 @@
 ## 5.1 Intravitreal Injection-related Effects
 
 Intravitreal injections, including those with OZURDEX®, have been associated with endophthalmitis, eye inflammation, increased intraocular pressure, and retinal detachments.
-
 Patients should be monitored regularly following the injection [see Patient Counseling Information (17)].
 
 ## 5.2 Steroid-related Effects
@@ -11,8 +10,4 @@ Patients should be monitored regularly following the injection [see Patient Coun
 Use of corticosteroids including OZURDEX® may produce posterior subcapsular cataracts, increased intraocular pressure, and glaucoma.
 Use of corticosteroids may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses [see Adverse Reactions (6.1)].
 
-Corticosteroids should be used cautiously in patients with a history of ocular herpes simplex.
-
-## 5.3 Risk of Implant Migration
-
-Patients in whom the posterior capsule of the lens is absent or has a tear are at risk of implant migration into the anterior chamber.
+Corticosteroids are not recommended to be used in patients with a history of ocular herpes simplex because of the potential for reactivation of the viral infection.
