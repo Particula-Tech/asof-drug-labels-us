@@ -12,7 +12,7 @@ Contains: 1 Starting Week (0.5 mg* x 11 tablets) 1 Continuing Week (1 mg† x 14
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
-PRINCIPAL DISPLAY PANEL - 1 mg Starting Pack Carton
+# PRINCIPAL DISPLAY PANEL - 1 mg Starting Pack Carton
 
 CHANTIX™ (varenicline) TABLETS
 
@@ -24,7 +24,7 @@ Rx only
 
 Starting Month PAK Contains: 1 card (0.5 mg x 11 tablets) 3 cards (1 mg x 14 tablets)
 
-PRINCIPAL DISPLAY PANEL - 1 mg Starting Month Box
+# PRINCIPAL DISPLAY PANEL - 1 mg Starting Month Box
 
 Starting Month Box (Your first 4 weeks)
 
@@ -40,7 +40,7 @@ Contains: 1 Starting Pack (0.5 mg* x 11 tablets) and (1 mg† x 14 tablets) 1 Co
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
-PRINCIPAL DISPLAY PANEL - 0.5 mg Label
+# PRINCIPAL DISPLAY PANEL - 0.5 mg Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069-0468-56
 
@@ -52,7 +52,7 @@ Chantix® (varenicline) tablets
 
 56 Tablets Rx only
 
-PRINCIPAL DISPLAY PANEL - 1 mg Label
+# PRINCIPAL DISPLAY PANEL - 1 mg Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0069-0469-56
 
@@ -64,7 +64,7 @@ Chantix® (varenicline) tablets
 
 56 Tablets Rx only
 
-PRINCIPAL DISPLAY PANEL - 4 cards (1 mg x 14 tablets)
+# PRINCIPAL DISPLAY PANEL - 4 cards (1 mg x 14 tablets)
 
 CHANTIX™ (varenicline) TABLETS
 
@@ -88,7 +88,7 @@ Contains: 2 Continuing Weeks (1 mg† x 28 tablets)
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
 
-PRINCIPAL DISPLAY PANEL - 1 mg Continuing Month Box
+# PRINCIPAL DISPLAY PANEL - 1 mg Continuing Month Box
 
 Continuing Month Box (Your next 4 weeks)
 

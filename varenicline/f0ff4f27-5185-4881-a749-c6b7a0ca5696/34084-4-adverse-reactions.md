@@ -2,10 +2,13 @@
 
 The following serious adverse reactions were reported in postmarketing experience and are discussed in greater detail in other sections of the labeling:
 
-- Neuropsychiatric symptoms and suicidality [see Boxed Warning and Warnings and Precautions (5.1)
-- Angioedema and hypersensitivity reactions [see Warnings and Precautions (5.2)]
-- Serious skin reactions [see Warnings and Precautions (5.3)]
-- Accidental injury [see Warnings and Precautions (5.5)]
+- Neuropsychiatric symptoms and suicidality [see Boxed Warning and Warnings and Precautions (5.1)]
+- Seizures [see Warnings and Precautions (5.2)]
+- Interaction with Alcohol [see Warnings and Precautions (5.3)]
+- Accidental injury [see Warnings and Precautions (5.4)]
+- Cardiovascular Events [see Warnings and Precautions (5.5)]
+- Angioedema and hypersensitivity reactions [see Warnings and Precautions (5.6)]
+- Serious skin reactions [see Warnings and Precautions (5.7)]
 
 In the placebo-controlled studies, the most common adverse events associated with CHANTIX (>5% and twice the rate seen in placebo-treated patients) were nausea, abnormal (vivid, unusual, or strange) dreams, constipation, flatulence, and vomiting.
 
@@ -23,16 +26,17 @@ Most study participants were treated for 12 weeks or less.
 
 The most common adverse event associated with CHANTIX treatment is nausea, occurring in 30% of patients treated at the recommended dose, compared with 10% in patients taking a comparable placebo regimen [see Warnings and Precautions (5.6)].
 
-Table 3 shows the adverse events for CHANTIX and placebo in the 12-week fixed dose studies with titration in the first week [Studies 2 (titrated arm only), 4, and 5].
+Table 5 shows the adverse events for CHANTIX and placebo in the 12- week fixed dose studies with titration in the first week [Studies 2 (titrated arm only), 4, and 5].
 Adverse events were categorized using the Medical Dictionary for Regulatory Activities (MedDRA, Version 7.1).
 
 MedDRA High Level Group Terms (HLGT) reported in ≥ 5% of patients in the CHANTIX 1 mg twice daily dose group, and more commonly than in the placebo group, are listed, along with subordinate Preferred Terms (PT) reported in ≥ 1% of CHANTIX patients (and at least 0.5% more frequent than placebo).
 Closely related Preferred Terms such as 'Insomnia', 'Initial insomnia', 'Middle insomnia', 'Early morning awakening' were grouped, but individual patients reporting two or more grouped events are only counted once.
 
-Table 3: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (HLGTs ≥ 5% of patients in the 1 mg BID CHANTIX Group and more commonly than placebo and PT ≥ 1% in the 1 mg BID CHANTIX Group, and 1 mg BID CHANTIX at least 0.5% more than Placebo)
+Table 5: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (HLGTs ≥ 5% of patients in the 1 mg BID CHANTIX Group and more commonly than placebo and PT ≥ 1% in the 1 mg BID CHANTIX Group, and 1 mg BID CHANTIX at least 0.5% more than Placebo)
 
-| SYSTEM ORGAN CLASS High Level Group Term Preferred Term | CHANTIX 0.5 mg BID N=129 | CHANTIX 1 mg BID N=821 | Placebo N=805 |
+| Preferred Term | N=129 | N=821 | N=805 |
 | --- | --- | --- | --- |
+| SYSTEM ORGAN CLASS High Level Group Term | CHANTIX 0.5 mg BID | CHANTIX 1 mg BID | Placebo |
 | GASTROINTESTINAL (GI) |  |  |  |
 | GI Signs and Symptoms |  |  |  |
 | Nausea | 16 | 30 | 10 |
@@ -75,7 +79,7 @@ Table 3: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled
 | Increased appetite | 4 | 3 | 2 |
 | Decreased appetite/Anorexia | 1 | 2 | 1 |
 
-The overall pattern and frequency of adverse events during the longer-term trials was similar to those described in Table 3, though several of the most common events were reported by a greater proportion of patients with long-term use (e.g., nausea was reported in 40% of patients treated with CHANTIX 1 mg twice daily in a one-year study, compared to 8% of placebo-treated patients).
+The overall pattern and frequency of adverse events during the longer-term trials was similar to those described in Table 5, though several of the most common events were reported by a greater proportion of patients with long-term use (e.g., nausea was reported in 40% of patients treated with CHANTIX 1 mg twice daily in a one-year study, compared to 8% of placebo-treated patients).
 
 Following is a list of treatment-emergent adverse events reported by patients treated with CHANTIX during all clinical trials.
 The listing does not include those events already listed in the previous tables or elsewhere in labeling, those events for which a drug cause was remote, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life-threatening.
@@ -157,8 +161,7 @@ Vascular Disorders.
 Frequent: hot flush.
 Infrequent: thrombosis.
 
-CHANTIX has also been studied in postmarketing trials including (1) a trial conducted in patients with chronic obstructive pulmonary disease (COPD) (2) a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment ("alternative quit date instruction trial").
-(3) a trial conducted in patients with stable cardiovascular disease and (4) a trial conducted in patients with stable schizophrenia or schizoaffective disorder.
+CHANTIX has also been studied in postmarketing trials including (1) a trial conducted in patients with chronic obstructive pulmonary disease (COPD), (2) a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment ("alternative quit date instruction trial"), (3) a trial conducted in patients with stable cardiovascular disease and (4) a trial conducted in patients with stable schizophrenia or schizoaffective disorder.
 
 Adverse events in the trial of patients with COPD and in the alternative quit date instruction trial were quantitatively and qualitatively similar to those observed in premarketing studies.
 
@@ -195,10 +198,15 @@ There have been reports of depression, mania, psychosis, hallucinations, paranoi
 Smoking cessation with or without treatment is associated with nicotine withdrawal symptoms and the exacerbation of underlying psychiatric illness.
 Not all patients had known pre-existing psychiatric illness and not all had discontinued smoking.
 
-There have been reports of hypersensitivity reactions, including angioedema [see Warnings and Precautions (5.2)].
+There have been post-marketing reports of new or worsening seizures in patients treated with CHANTIX [see Warnings and Precautions (5.2)].
 
-There have also been reports of serious skin reactions, including Stevens-Johnson Syndrome and erythema multiforme, in patients taking CHANTIX [see Warnings and Precautions (5.3)].
+There have been post-marketing reports of patients experiencing increased intoxicating effects of alcohol while taking CHANTIX.
+Some reported neuropsychiatric events, included unusual and sometimes aggressive behavior [see Warnings and Precautions (5.1) and (5.3)].
 
-There have been reports of myocardial infarction (MI) and cerebrovascular accident (CVA) including ischemic and hemorrhagic events in patients taking Chantix.
+There have been reports of hypersensitivity reactions, including angioedema [see Warnings and Precautions (5.6)].
+
+There have also been reports of serious skin reactions, including Stevens- Johnson Syndrome and erythema multiforme, in patients taking CHANTIX [see Warnings and Precautions (5.7)].
+
+There have been reports of myocardial infarction (MI) and cerebrovascular accident (CVA) including ischemic and hemorrhagic events in patients taking CHANTIX.
 In the majority of the reported cases, patients had pre-existing cardiovascular disease and/or other risk factors.
 Although smoking is a risk factor for MI and CVA, based on temporal relationship between medication use and events, a contributory role of varenicline cannot be ruled out.

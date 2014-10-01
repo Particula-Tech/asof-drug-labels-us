@@ -11,7 +11,7 @@ These symptoms, as well as worsening of pre-existing psychiatric illness and com
 When symptoms were reported, most were during CHANTIX treatment, but some were following discontinuation of CHANTIX therapy.
 
 These events have occurred in patients with and without pre-existing psychiatric disease.
-Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the premarketing studies of CHANTIX, and the safety and efficacy of CHANTIX in such patients has not been established.
+Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the premarketing studies of CHANTIX.
 
 Advise patients and caregivers that the patient should stop taking CHANTIX and contact a healthcare provider immediately if agitation, hostility, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
 In many postmarketing cases, resolution of symptoms after discontinuation of CHANTIX was reported, although in some cases the symptoms persisted; therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
@@ -19,4 +19,4 @@ In many postmarketing cases, resolution of symptoms after discontinuation of CHA
 The risks of CHANTIX should be weighed against the benefits of its use.
 CHANTIX has been demonstrated to increase the likelihood of abstinence from smoking for as long as one year compared to treatment with placebo.
 The health benefits of quitting smoking are immediate and substantial.
-[see Warnings and Precautions (5.1) and Adverse Reactions 6.2)]
+[see Warnings and Precautions (5.1) and Adverse Reactions (6.2)]
