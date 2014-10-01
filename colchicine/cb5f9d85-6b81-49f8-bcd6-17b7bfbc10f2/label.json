@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204820"
+  ],
+  "inn": "colchicine",
+  "labeler": "Hikma Americas, Inc.",
+  "package_ndcs": [
+    "59467-318-01",
+    "59467-318-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "colchicine",
+      "name": "MITIGARE"
+    }
+  ],
+  "setid": "cb5f9d85-6b81-49f8-bcd6-17b7bfbc10f2",
+  "source": "dailymed"
+}
