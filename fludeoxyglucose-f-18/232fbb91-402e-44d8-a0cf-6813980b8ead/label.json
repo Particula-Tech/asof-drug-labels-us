@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204333"
+  ],
+  "inn": "fludeoxyglucose-f-18",
+  "labeler": "The General Hospital Corporation",
+  "package_ndcs": [
+    "76318-334-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fludeoxyglucose f-18",
+      "name": "Fludeoxyglucose F 18"
+    }
+  ],
+  "setid": "232fbb91-402e-44d8-a0cf-6813980b8ead",
+  "source": "dailymed"
+}
