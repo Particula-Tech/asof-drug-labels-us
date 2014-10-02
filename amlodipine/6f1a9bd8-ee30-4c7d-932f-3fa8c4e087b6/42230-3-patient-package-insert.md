@@ -114,6 +114,7 @@ These serious side effects include:
   - dark amber colored urine
   - yellowing of your skin or the whites of your eyes
 - Low blood pressure or dizziness
+- Muscle rigidity, tremor and/or abnormal muscle movement
 
 Call your doctor right away if:
 
@@ -205,4 +206,4 @@ Inactive ingredients: calcium carbonate, croscarmellose sodium, microcrystalline
 
 Film coating: Opadry® II White 85F28751 (polyvinyl alcohol, titanium dioxide, PEG 3000, and talc) or Opadry® II Blue 85F10919 (polyvinyl alcohol, titanium dioxide, PEG 3000, talc, and FD&C blue #2)
 
-LAB-0347-8.0 November 2012
+LAB-0347-9.0 August 2014
