@@ -6,12 +6,10 @@ Store between 2° and 30°C (36° and 86°F).
 Protect from light.
 Dispense in tight, light-resistant container as defined in the USP.
 
-ZOFRAN Tablets, 8 mg (ondansetron HCl dihydrate equivalent to 8 mg of ondansetron), are yellow, oval, film-coated tablets engraved with “Zofran” on one side and “8” on the other in daily unit dose packs of 3 tablets (NDC 0173-0447-04), and bottles of 30 tablets (NDC 0173-0447-00).
+ZOFRAN Tablets, 8 mg (ondansetron HCl dihydrate equivalent to 8 mg of ondansetron), are yellow, oval, film-coated tablets engraved with “Zofran” on one side and “8” on the other in bottles of 30 tablets (NDC 0173-0447-00).
 
 Bottles: Store between 2° and 30°C (36° and 86°F).
 Dispense in tight container as defined in the USP.
-
-Unit Dose Packs: Store between 2° and 30°C (36° and 86°F).
 
 ZOFRAN ODT Orally Disintegrating Tablets, 4 mg (as 4 mg ondansetron base) are white, round and plano-convex tablets debossed with a “Z4” on one side in unit dose packs of 30 tablets (NDC 0173-0569-00).
 

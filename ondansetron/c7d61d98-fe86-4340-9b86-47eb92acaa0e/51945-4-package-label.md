@@ -10,20 +10,18 @@ Tablets
 
 4 mg
 
-Rx only
+Each tablet contains 5 mg of ondansetron hydrochloride dihydrate equivalent to 4 mg of ondansetron.
 
 30 Tablets
 
-Each tablet contains 5 mg of ondansetron hydrochloride dihydrate equivalent to 4 mg of ondansetron.
-
-Note: Bottle color now gray.
-
-Note Change in Light-Resistant Bottle
+Rx only
 
 See package insert for Dosage and Administration.
 
 Store between 2o and 30oC (36o and 86oF).
 Protect from light.
+
+Do not use if printed safety seal under cap is broken or missing.
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
@@ -33,8 +31,8 @@ Research Triangle Park, NC 27709
 
 Made in Singapore
 
-10000000060764 Rev.
-9/08
+10000000125173 Rev.
+4/14
 
 # Principal Display Panel
 
@@ -44,25 +42,33 @@ Zofran®
 
 (ondansetron hydrochloride)
 
-Tablets 8 mg
+Tablets
 
-Rx only
-
-3 Tablets
+8 mg
 
 Each tablet contains 10 mg of ondansetron hydrochloride dihydrate equivalent to 8 mg of ondansetron.
 
+30 Tablets
+
+Rx only
+
 See package insert for Dosage and Administration.
 
-Do not use if blisters are torn, broken or missing.
+Store between 2o and 30oC (36o and 86oF).
+Protect from light.
+
+Do not use if printed safety seal under cap is broken or missing.
+
+Dispense in a tight, light-resistant container as defined in the USP.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2004, GlaxoSmithKline
+Made in Singapore
 
-A008738
+10000000125172 Rev.
+4/14
 
 # Principal Display Panel
 
@@ -80,20 +86,22 @@ Each tablet contains 4 mg ondansetron base.
 
 Store between 2o and 30oC (36o and 86oF).
 
+Do not use if blisters are torn, broken, or missing.
+
 Phenylketonurics: Contains phenylalanine.
 
-Rx only
-
 See package insert for Dosage and Administration.
+
+Rx only
 
 30 Tablets (3 blistercards each containing 10 tablets)
 
 Made in Singapore
 
-©2012, GlaxoSmithKline
+©2014, GSK group of companies.
 
-A106432 Rev.
-6/12
+A125174 Rev.
+4/14
 
 # Principal Display Panel
 
@@ -111,20 +119,22 @@ Each tablet contains 8 mg ondansetron base.
 
 Store between 2o and 30oC (36o and 86oF).
 
+Do not use if blisters are torn, broken, or missing.
+
 Phenylketonurics: Contains phenylalanine.
 
-Rx only
-
 See package insert for Dosage and Administration.
+
+Rx only
 
 30 Tablets (3 blistercards each containing 10 tablets)
 
 Made in Singapore
 
-©2012, GlaxoSmithKline
+©2014, GSK group of companies.
 
-A106434 Rev.
-6/12
+A125175 Rev.
+4/14
 
 # Principal Display Panel
 
@@ -150,11 +160,13 @@ Store between 15o and 30oC (59o and 86oF).
 Protect from light.
 Store bottle upright in carton.
 
+Do not use if shrinkband on bottle is broken or missing.
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
 Made in Canada
 
-A023146 Rev.
-1/06
+A124815 Rev.
+3/14

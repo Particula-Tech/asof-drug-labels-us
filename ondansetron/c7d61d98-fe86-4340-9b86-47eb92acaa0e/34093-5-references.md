@@ -1,19 +1,21 @@
 # REFERENCES
 
-- •Britto MR, Hussey EK, Mydlow P, et al. Effect of enzyme inducers on ondansetron (OND) metabolism in humans.
+- 1.Britto MR, Hussey EK, Mydlow P, et al. Effect of enzyme inducers on ondansetron (OND) metabolism in humans.
   Clin Pharmacol Ther.
   1997;61:228.
-- •Pugh RNH, Murray-Lyon IM, Dawson JL, Pietroni MC, Williams R. Transection of the oesophagus for bleeding oesophageal varices.
+- 2.Pugh RNH, Murray-Lyon IM, Dawson JL, Pietroni MC, Williams R. Transection of the oesophagus for bleeding oesophageal varices.
   Brit J Surg.
   1973;60:646-649.
-- •Villikka K, Kivisto KT, Neuvonen PJ.
+- 3.Villikka K, Kivisto KT, Neuvonen PJ.
   The effect of rifampin on the pharmacokinetics of oral and intravenous ondansetron.
   Clin Pharmacol Ther.
   1999;65:377-381.
-- •De Witte JL, Schoenmaekers B, Sessler DI, et al. Anesth Analg.
+- 4.De Witte JL, Schoenmaekers B, Sessler DI, et al. Anesth Analg.
   2001;92:1319-1321.
-- •Arcioni R, della Rocca M, Romanò R, et al. Anesth Analg.
+- 5.Arcioni R, della Rocca M, Romanò R, et al. Anesth Analg.
   2002;94:1553-1557.
+
+ZOFRAN and ZOFRAN ODT are registered trademarks of the GSK group of companies.
 
 GlaxoSmithKline
 
@@ -31,13 +33,9 @@ Manufactured for GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-by Catalent UK Swindon Zydis Ltd.
-
-Blagrove, Swindon, Wiltshire, UK SN5 8RU
-
-©2013, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-December 2013
+September 2014
 
-ZFT:6PI
+ZFT:7PI

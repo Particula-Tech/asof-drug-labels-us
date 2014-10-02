@@ -37,20 +37,20 @@ In vitro metabolism studies have shown that ondansetron is a substrate for human
 In terms of overall ondansetron turnover, CYP3A4 played the predominant role.
 Because of the multiplicity of metabolic enzymes capable of metabolizing ondansetron, it is likely that inhibition or loss of one enzyme (e.g., CYP2D6 genetic deficiency) will be compensated by others and may result in little change in overall rates of ondansetron elimination.
 Ondansetron elimination may be affected by cytochrome P-450 inducers.
-In a pharmacokinetic study of 16 epileptic patients maintained chronically on CYP3A4 inducers, carbamazepine, or phenytoin, reduction in AUC, Cmax, and T½ of ondansetron was observed.1 This resulted in a significant increase in clearance.
+In a pharmacokinetic trial of 16 epileptic patients maintained chronically on CYP3A4 inducers, carbamazepine, or phenytoin, reduction in AUC, Cmax, and t½ of ondansetron was observed.1 This resulted in a significant increase in clearance.
 However, on the basis of available data, no dosage adjustment for ondansetron is recommended (see PRECAUTIONS: Drug Interactions).
 
 In humans, carmustine, etoposide, and cisplatin do not affect the pharmacokinetics of ondansetron.
 
 Gender differences were shown in the disposition of ondansetron given as a single dose.
-The extent and rate of ondansetron's absorption is greater in women than men.
+The extent and rate of ondansetron's absorption are greater in women than men.
 Slower clearance in women, a smaller apparent volume of distribution (adjusted for weight), and higher absolute bioavailability resulted in higher plasma ondansetron levels.
 These higher plasma levels may in part be explained by differences in body weight between men and women.
 It is not known whether these gender-related differences were clinically important.
-More detailed pharmacokinetic information is contained in Tables 1 and 2 taken from 2 studies.
+More detailed pharmacokinetic information is contained in Tables 1 and 2 taken from 2 trials.
 
 Table 1.
-Pharmacokinetics in Normal Volunteers: Single 8-mg ZOFRAN Tablet Dose
+Pharmacokinetics in Normal Volunteers: Single 8-mg Tablet Dose of ZOFRAN
 
 | Age-group(years) | MeanWeight(kg) | n | Peak PlasmaConcentration(ng/mL) | Time ofPeak PlasmaConcentration(h) | MeanEliminationHalf-life(h) | SystemicPlasmaClearanceL/h/kg | AbsoluteBioavailability |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -59,17 +59,17 @@ Pharmacokinetics in Normal Volunteers: Single 8-mg ZOFRAN Tablet Dose
 | ≥ 75 MF | 78.067.6 | 56 | 37.046.1 | 2.22.1 | 4.56.2 | 0.2770.249 | 0.6190.747 |
 
 Table 2.
-Pharmacokinetics in Normal Volunteers: Single 24-mg ZOFRAN Tablet Dose
+Pharmacokinetics in Normal Volunteers: Single 24-mg Tablet Dose of ZOFRAN
 
 | Age-group(years) | MeanWeight(kg) | n | Peak PlasmaConcentration(ng/mL) | Time ofPeak PlasmaConcentration(h) | MeanEliminationHalf-life(h) |
 | --- | --- | --- | --- | --- | --- |
 | 18-43 MF | 84.171.8 | 88 | 125.8194.4 | 1.91.6 | 4.75.8 |
 
-A reduction in clearance and increase in elimination half-life are seen in patients over 75 years of age.
-In clinical trials with cancer patients, safety and efficacy were similar in patients over 65 years of age and those under 65 years of age; there was an insufficient number of patients over 75 years of age to permit conclusions in that age-group.
+A reduction in clearance and increase in elimination half-life are seen in patients older than 75 years.
+In clinical trials with cancer patients, safety and efficacy were similar in patients older than 65 years and those younger than 65 years; there was an insufficient number of patients older than 75 years to permit conclusions in that age-group.
 No dosage adjustment is recommended in the elderly.
 
-In patients with mild-to-moderate hepatic impairment, clearance is reduced 2-fold and mean half-life is increased to 11.6 hours compared to 5.7 hours in normals.
+In patients with mild-to-moderate hepatic impairment, clearance is reduced 2-fold and mean half-life is increased to 11.6 hours compared with 5.7 hours in normals.
 In patients with severe hepatic impairment (Child-Pugh2 score of 10 or greater), clearance is reduced 2-fold to 3-fold and apparent volume of distribution is increased with a resultant increase in half-life to 20 hours.
 In patients with severe hepatic impairment, a total daily dose of 8 mg should not be exceeded.
 
