@@ -81,4 +81,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 The following postmarketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.
 In postmarketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.
 
+Postmarketing reporting has also revealed a possible association between extrapyramidal disorder and amlodipine.
+
 NORVASC has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles.

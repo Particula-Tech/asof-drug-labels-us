@@ -71,6 +71,7 @@ Most side effects are mild or moderate:
 - flushing (hot or warm feeling in your face)
 - arrhythmia (irregular heartbeat)
 - heart palpitations (very fast heartbeat)
+- muscle rigidity, tremor and/or abnormal muscle movement
 
 It is rare, but when you first start taking NORVASC or increase your dose, you may have a heart attack or your angina may get worse.
 If that happens, call your doctor right away or go directly to a hospital emergency room.
@@ -96,4 +97,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about NORVASC, or you can visit the Pfizer website at www.pfizer.com or call 1-800-438-1985.
 
-LAB-0015-7.0 January 2013
+LAB-0015-8.0 August 2014
