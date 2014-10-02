@@ -12,7 +12,7 @@ Subsequent doses (0.15 mg/kg up to a maximum of 16 mg per dose) are administered
 
 ### Pediatrics
 
-For pediatric patients 6 months through 18 years of age, the intravenous dosage of ZOFRAN is three 0.15-mg/kg doses up to a maximum of 16 mg per dose [see Clinical Studies (14.1) and Clinical Pharmacology (12.2 and 12.3)].
+For pediatric patients aged 6 months through 18 years, the intravenous dosage of ZOFRAN is three 0.15-mg/kg doses up to a maximum of 16 mg per dose [see Clinical Studies (14.1), Clinical Pharmacology (12.2, 12.3)].
 The first dose is to be administered 30 minutes before the start of moderately to highly emetogenic chemotherapy.
 Subsequent doses (0.15 mg/kg up to a maximum of 16 mg per dose) are administered 4 and 8 hours after the first dose of ZOFRAN.
 The drug should be infused intravenously over 15 minutes.
@@ -31,7 +31,7 @@ In patients who do not achieve adequate control of postoperative nausea and vomi
 
 ### Pediatrics
 
-For pediatric patients 1 month through 12 years of age, the dosage is a single 0.1-mg/kg dose for patients weighing 40 kg or less, or a single 4-mg dose for patients weighing more than 40 kg.
+For pediatric patients aged 1 month through 12 years, the dosage is a single 0.1-mg/kg dose for patients weighing 40 kg or less, or a single 4-mg dose for patients weighing more than 40 kg.
 The rate of administration should not be less than 30 seconds, preferably over 2 to 5 minutes immediately prior to or following anesthesia induction, or postoperatively if the patient did not receive prophylactic antiemetics and experiences nausea and/or vomiting occurring shortly after surgery.
 Prevention of further nausea and vomiting was only studied in patients who had not received prophylactic ZOFRAN.
 

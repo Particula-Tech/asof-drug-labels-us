@@ -17,20 +17,24 @@ However, on the basis of available data, no dosage adjustment for ondansetron is
 
 ## 7.4 Tramadol
 
-Although there are no data on pharmacokinetic drug interactions between ondansetron and tramadol, data from two small studies indicate that concomitant use of ondansetron may result in reduced analgesic activity of tramadol.
-Patients on concomitant ondansetron self administered tramadol more frequently in these studies, leading to an increased cumulative dose in patient controlled administration (PCA) of tramadol.
+Although there are no data on pharmacokinetic drug interactions between ondansetron and tramadol, data from two small trials indicate that concomitant use of ondansetron may result in reduced analgesic activity of tramadol.
+Patients on concomitant ondansetron self administered tramadol more frequently in these trials, leading to an increased cumulative dose in patient-controlled administration (PCA) of tramadol.
 
-## 7.5 Chemotherapy
+## 7.5 Serotonergic Drugs
+
+Serotonin syndrome (including altered mental status, autonomic instability, and neuromuscular symptoms) has been described following the concomitant use of 5-HT3 receptor antagonists and other serotonergic drugs, including selective serotonin reuptake inhibitors (SSRIs) and serotonin and noradrenaline reuptake inhibitors (SNRIs) [see Warnings and Precautions (5.3)].
+
+## 7.6 Chemotherapy
 
 In humans, carmustine, etoposide, and cisplatin do not affect the pharmacokinetics of ondansetron.
 
-In a crossover study in 76 pediatric patients, intravenous ondansetron did not increase blood levels of high-dose methotrexate.
+In a crossover trial in 76 pediatric patients, intravenous ondansetron did not increase blood levels of high-dose methotrexate.
 
-## 7.6 Temazepam
+## 7.7 Temazepam
 
 The coadministration of ondansetron had no effect on the pharmacokinetics and pharmacodynamics of temazepam.
 
-## 7.7 Alfentanil and Atracurium
+## 7.8 Alfentanil and Atracurium
 
 Ondansetron does not alter the respiratory depressant effects produced by alfentanil or the degree of neuromuscular blockade produced by atracurium.
 Interactions with general or local anesthetics have not been studied.

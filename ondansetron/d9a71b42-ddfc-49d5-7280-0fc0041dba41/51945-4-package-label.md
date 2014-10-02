@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0442-00
 
@@ -23,7 +23,7 @@ Sterile
 
 Made in Singapore
 
-©2002, GlaxoSmithKline
+©2014, GSK group of companies.
 
-10000000110796 Rev.
-10/12
+10000000124651 Rev.
+3/14

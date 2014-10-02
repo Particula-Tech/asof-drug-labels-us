@@ -14,18 +14,18 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-Little information is available about the use of ondansetron in pediatric surgical patients younger than 1 month of age.
-[See Clinical Studies (14.2)].
-Little information is available about the use of ondansetron in pediatric cancer patients younger than 6 months of age.
-[See Clinical Studies (14.1) and Dosage and Administration (2)].
+Little information is available about the use of ondansetron in pediatric surgical patients younger than 1 month.
+[See Clinical Studies (14.2).]
+Little information is available about the use of ondansetron in pediatric cancer patients younger than 6 months.
+[See Clinical Studies (14.1), Dosage and Administration (2).]
 
-The clearance of ondansetron in pediatric patients 1 month to 4 months of age is slower and the half-life is ~2.5 fold longer than patients who are > 4 to 24 months of age.
-As a precaution, it is recommended that patients less than 4 months of age receiving this drug be closely monitored.
-[See Clinical Pharmacology (12.3)].
+The clearance of ondansetron in pediatric patients aged 1 month to 4 months is slower and the half-life is ~2.5-fold longer than patients who are aged >4 to 24 months.
+As a precaution, it is recommended that patients younger than 4 months receiving this drug be closely monitored.
+[See Clinical Pharmacology (12.3).]
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects enrolled in cancer chemotherapy-induced and postoperative nausea and vomiting in US- and foreign-controlled clinical trials, 862 were 65 years of age and over.
+Of the total number of subjects enrolled in cancer chemotherapy-induced and postoperative nausea and vomiting US- and foreign-controlled clinical trials, 862 were aged 65 years and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Dosage adjustment is not needed in patients over the age of 65 [see Clinical Pharmacology (12.3)].
 
@@ -36,4 +36,4 @@ In such patients, a total daily dose of 8 mg should not be exceeded [see Dosage 
 
 ## 8.7 Renal Impairment
 
-Although plasma clearance is reduced in patients with severe renal impairment (creatinine clearance < 30 mL/min), no dosage adjustment is recommended [see Clinical Pharmacology (12.3)].
+Although plasma clearance is reduced in patients with severe renal impairment (creatinine clearance <30 mL/min), no dosage adjustment is recommended [see Clinical Pharmacology (12.3)].
