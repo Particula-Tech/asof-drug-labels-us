@@ -1,18 +1,20 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
-## JinteliTM (norethindrone acetate and ethinyl estradiol tablets, USP) 1 mg/5 mcg 90s Label Text
+## Jinteli® (norethindrone acetate and ethinyl estradiol tablets USP) 1 mg/5 mcg Label Text
 
 NDC 0093-3122-98
 
-Rx only
+Jinteli®
 
-JinteliTM
+(norethindrone acetate
 
-(norethindreone acetate and
+and ethinyl estradiol
 
-ethinyl etradiol tablets, USP)
+tablets USP)
 
 1 mg/5 mcg
+
+Rx only
 
 90 TABLETS
 

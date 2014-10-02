@@ -1,24 +1,12 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Use of estrogen, alone or in combination with a progestin, should be limited to the shortest duration consistent with treatment goals and risks for individual woman.
-Patients should be reevaluated periodically as clinically appropriate (e.g., 3 to 6 month intervals) to determine if treatment is still necessary (See BOXED WARNING and WARNINGS.)
-For women who have a uterus, adequate diagnostic measures, such as endometrial sampling, when indicated, should be undertaken to rule out malignancy in cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
-Patients should be evaluated for breast abnormalities in accordance with good clinical practice.
+Use of estrogen-alone, or in combination with a progestin, should be with the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
+Postmenopausal women should be re-evaluated periodically as clinically appropriate to determine if treatment is still necessary.
 
-Patients should be started at the lowest dose.
+## 2.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
 
-Jinteli therapy consists of a single tablet taken once daily.
+Jintelitherapy consists of a single tablet to be taken orally once daily.
 
-## 1. For the Treatment of Moderate to Severe Vasomotor Symptoms Associated with the Menopause
+## 2.2 Prevention of Postmenopausal Osteoporosis
 
-Jinteli tablets should be given once daily for the treatment of moderate to severe vasomotor symptoms associated with the menopause.
-Patients should be reevaluated at 3 to 6 month intervals to determine if treatment is still necessary.
-
-## 2. For Prevention of Postmenopausal Osteoporosis
-
-When prescribing solely of the prevention of postmenopausal osteoporosis, Jinteli tablets should only be prescribed to postmenopausal women who are at significant risk of osteoporosis.
-Non-estrogen medications should be carefully considered.
-Risk factors for osteoporosis include low bone mineral density, low estrogen levels, family history of osteoporosis, previous fracture, small frame (low BMI), light skin color, smoking, and alcohol intake.
-Patients should be treated with the lowest effective dose.
-This dose should be periodically reassessed by the healthcare provider.
-Response to therapy can be assessed during treatment by measuring biochemical markers of bone formation/resorption, and/or bone mineral density.
+Jinteli therapy consists of a single tablet taken orally once daily.
