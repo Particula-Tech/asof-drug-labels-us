@@ -1,16 +1,16 @@
-# PRECAUTIONS
+# PRECAUTIONS:
 
 General: Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients.
 
 Conditions which augment systemic absorption include the application of the more potent steroids, use over large surface areas, prolonged use, and the addition of occlusive dressings.
 
 Therefore, patients receiving a large dose of a potent topical steroid applied to a large surface area should be evaluated periodically for evidence of HPA axis suppression by using the urinary free cortisol and ACTH stimulation tests.
-If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid.
+If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or substitute to a less potent steroid.
 
 Recovery of HPA axis function is generally prompt and complete upon discontinuation of the drug.
 Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids.
 
-Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (See PRECAUTIONS—Pediatric Use).
+Pediatric patients may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (See PRECAUTIONS—Pediatric Use).
 
 If irritation develops, topical corticosteroids should be discontinued and appropriate therapy instituted.
 
@@ -19,13 +19,13 @@ If a favorable response does not occur promptly, the corticosteroid should be di
 
 Information for Patients: Patients using topical corticosteroids should receive the following information and instructions:
 
-1. This medication is to be used as directed by the physician.
+1. 1.This medication is to be used as directed by the physician.
    It is for external use only.
    Avoid contact with the eyes.
-2. Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
-3. The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
-4. Patients should report any signs of local adverse reactions especially under occlusive dressing.
-5. Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
+2. 2.Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
+3. 3.The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
+4. 4.Patients should report any signs of local adverse reactions especially under occlusive dressing.
+5. 5.Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
 
 Laboratory tests: The following tests may be helpful in evaluating the HPA axis suppression:
 
@@ -36,7 +36,7 @@ Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term animal studie
 
 Studies to determine mutagenicity with prednisolone and hydrocortisone have revealed negative results.
 
-Pregnancy: Teratogenic Effects—Pregnancy Category C. Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
+Pregnancy: Teratogenic Effects — Pregnancy Category C. Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 There are no adequate and well-controlled studies in pregnant women on teratogenic effects from topically applied corticosteroids.
 Therefore, topical corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
