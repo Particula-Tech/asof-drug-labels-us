@@ -54,7 +54,7 @@ Table 4: Common (≥ 1%) Adverse Reactions Reported in Clinical Trials with Levo
 | Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.3)] pruritus | 2 1 |
 | Reproductive System and Breast Disorders | vaginitis | 1b |
 | General Disorders and Administration Site Conditions | edema injection site reaction chest pain | 1 1 1 |
-| a N = 7274 |  |  |
+| a N=7274 |  |  |
 | b N=3758 (women) |  |  |
 
 Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin (N=7537)
@@ -63,7 +63,7 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | --- | --- |
 | Infections and Infestations | genital moniliasis |
 | Blood and Lymphatic System Disorders | anemia thrombocytopenia granulocytopenia [see Warnings and Precautions (5.4)] |
-| Immune System Disorders | allergic reaction [see Warnings and Precautions (5.3, 5.4)] |
+| Immune System Disorders | allergic reaction [see Warnings and Precautions (5.3,5.4)] |
 | Metabolism and Nutrition Disorders | hyperglycemia hypoglycemia [see Warnings and Precautions (5.11)] hyperkalemia |
 | Psychiatric Disorders | anxiety agitation confusion depression hallucination nightmarea [see Warnings and Precautions (5.6)] sleep disordera anorexia abnormal dreaminga |
 | Nervous System Disorders | tremor convulsions [see Warnings and Precautions (5.6)] paresthesia [see Warnings and Precautions (5.8)] vertigo hypertonia hyperkinesias abnormal gait somnolencea syncope |
@@ -93,7 +93,7 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.3, 5.4)] |
 | Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see Warnings and Precautions (5.6)] |
 | Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.6)] |
-| Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
+| Eye Disorders | Uveitis vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.9)] tachycardia |
 | Vascular Disorders | vasodilatation |

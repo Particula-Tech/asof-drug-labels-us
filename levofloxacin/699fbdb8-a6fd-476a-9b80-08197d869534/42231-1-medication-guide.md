@@ -273,10 +273,12 @@ LEVOFLOXACIN Injection in 5% dextrose in Single-Use Flexible Containers:
 - Inactive ingredients: Dextrose (D5W).
   Solutions of hydrochloric acid and sodium hydroxide may have been added to adjust the pH.
 
+Brands listed are the trademarks of their respective owners.
+
 SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2013 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2014 Sagent Pharmaceuticals, Inc.
 
-Revised: October 2013
+Revised: July 2014
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

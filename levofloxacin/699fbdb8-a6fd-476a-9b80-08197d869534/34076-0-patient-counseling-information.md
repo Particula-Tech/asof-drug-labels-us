@@ -56,10 +56,12 @@ Patients should notify their physician if they are taking warfarin, be monitored
 Patients given levofloxacin for these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
 
+Brands listed are the trademarks of their respective owners.
+
 SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2013 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2014 Sagent Pharmaceuticals, Inc.
 
-Revised: October 2013
+Revised: July 2014
 
 ## 17.6 FDA-Approved Medication Guide
