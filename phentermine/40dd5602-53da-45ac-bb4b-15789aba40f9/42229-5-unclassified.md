@@ -1,14 +1,14 @@
-Manufactured for VIVUS Inc. by Catalent Pharma Solutions, LLC 1100 Enterprise Drive Winchester, KY 40391
+Manufactured for VIVUS, Inc. by Catalent Pharma Solutions, LLC 1100 Enterprise Drive Winchester, KY 40391
 
-Copyright © 2012-2013 VIVUS, Inc. All rights reserved.
+Copyright © 2012 - 2014 VIVUS, Inc. All rights reserved.
 
-09/2013
+09/2014
 
 VIVUS, Inc 351 East Evelyn Avenue Mountain View, CA 94041 USA
 
-US Patent Numbers: 7,056,890; 7,553,818; 7,659,256 and 7,674,776
+US Patent Numbers: 7,056,890; 7,553,818; 7,659,256; 7,674,776; 8,580,298; and 8,580,299
 
-Qsymia is a registered trademark of VIVUS, Inc. © 2012-2013, VIVUS, Inc.
+Qsymia is a registered trademark of VIVUS, Inc. © 2012 - 2014, VIVUS, Inc.
 
 Who should not take Qsymia?
 
@@ -100,7 +100,7 @@ What are the possible side effects of Qsymia?
   Qsymia may cause depression or mood problems, and trouble sleeping.
   Tell your healthcare provider if symptoms occur.
 - Concentration, memory, and speech difficulties.
-  Qsymia may affect how you think and cause confusion, problems with concentration, attention, memory or speech.
+  Qsymia may affect how you think and cause confusion, problems with concentration, attention, memory, or speech.
   Tell your healthcare provider if symptoms occur.
 - Increases of acid in bloodstream (metabolic acidosis).
   If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones, can slow the rate of growth in children, and may possibly harm your baby if you are pregnant.
@@ -167,14 +167,16 @@ Inactive Ingredients: methylcellulose, sucrose, starch, microcrystalline cellulo
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Copyright © 2012-2013 VIVUS, Inc. All rights reserved.
+Copyright © 2012 - 2014 VIVUS, Inc. All rights reserved.
 
 VIVUS, Inc 351 East Evelyn Avenue Mountain View, CA 94041 USA
 
-US Patent Numbers: 7,056,890; 7,553,818; 7,659,256 and 7,674,776
+US Patent Numbers: 7,056,890; 7,553,818; 7,659,256; 7,674,776; 8,580,298; and 8,580,299
 
-Qsymia is a registered trademark of VIVUS, Inc. © 2012-2013, VIVUS, Inc.
+Qsymia is a registered trademark of VIVUS, Inc.
 
-Issued: 09/2013
+© 2012 - 2014, VIVUS, Inc.
 
-PH-03-002-03
+Issued: 09/2014
+
+PH-03-002-06

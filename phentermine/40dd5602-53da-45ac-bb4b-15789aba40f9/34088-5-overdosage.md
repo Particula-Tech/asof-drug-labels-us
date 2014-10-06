@@ -8,7 +8,7 @@ Fatigue and depression usually follow the central stimulation.
 Cardiovascular effects include arrhythmia, hypertension or hypotension, and circulatory collapse.
 Gastrointestinal symptoms include nausea, vomiting, diarrhea, and abdominal cramps.
 Fatal poisoning usually terminates in convulsions and coma.
-Manifestations of chronic intoxication with anorectic drugs include severe dermatoses, marked insomnia, irritability, hyperactivity and personality changes.
+Manifestations of chronic intoxication with anorectic drugs include severe dermatoses, marked insomnia, irritability, hyperactivity, and personality changes.
 A severe manifestation of chronic intoxication is psychosis, often clinically indistinguishable from schizophrenia.
 
 Management of acute phentermine intoxication is largely symptomatic and includes lavage and sedation with a barbiturate.

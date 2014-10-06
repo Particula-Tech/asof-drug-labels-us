@@ -21,5 +21,5 @@ The capsules are supplied as follows:
 | Dose Escalation Pack – Blister | 11.25 mg/69 mg and | 62541-220-28 |
 | Configuration (28 Capsules) | 15 mg/92 mg capsules |  |
 
-Store at controlled room temperature, 15 to 25°C (59 to 77°F).
+Store at controlled room temperature, 15°C to 25°C (59°F to 77°F).
 Keep container tightly closed and protect from moisture.

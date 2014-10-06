@@ -163,6 +163,15 @@ Adverse Reactions Greater Than or Equal To 1% Leading to Treatment Discontinuati
 The following adverse reactions have been reported during post approval use of phentermine and topiramate, the components of Qsymia.
 Because these reactions are reported voluntarily from a population of uncertain size it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Qsymia
+
+- Psychiatric Disorders
+- Suicidal ideation, Suicidal behavior
+
+- Ophthalmic disorders
+
+- Acute angle closure glaucoma Increased intraocular pressure
+
 Phentermine
 
 - Allergic adverse reactions

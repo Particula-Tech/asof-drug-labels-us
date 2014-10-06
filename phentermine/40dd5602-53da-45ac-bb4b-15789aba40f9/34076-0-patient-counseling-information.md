@@ -67,7 +67,7 @@ Qsymia can increase the risk of acute myopia and secondary angle closure glaucom
 
 Cognitive Adverse Reactions
 
-Qsymia can cause dizziness, confusion, concentration and word-finding difficulties, or visual changes [see Warnings and Precautions (5.6)].
+Qsymia can cause dizziness, confusion, concentration, and word-finding difficulties, or visual changes [see Warnings and Precautions (5.6)].
 
 - Advise patients to tell their healthcare provider(s) about any changes in attention, concentration, memory, and/or difficulty finding words.
 - Advise patients not to drive or operate machinery until they have gained sufficient experience on Qsymia to gauge whether it adversely affects their mental performance, motor performance, and/or vision.

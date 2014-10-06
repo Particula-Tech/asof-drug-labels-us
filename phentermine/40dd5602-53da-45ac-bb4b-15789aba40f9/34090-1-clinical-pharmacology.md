@@ -17,7 +17,7 @@ Tachyphylaxis and tolerance have been demonstrated with all drugs of this class 
 
 Cardiac Electrophysiology
 
-The effect of Qsymia on the QTc interval was evaluated in a randomized, double-blind, placebo- and active-controlled (400 mg moxifloxacin), parallel group/crossover thorough QT/QTc study.
+The effect of Qsymia on the QTc interval was evaluated in a randomized, double-blind, placebo- and active-controlled (400 mg moxifloxacin), and parallel group/crossover thorough QT/QTc study.
 A total of 54 healthy subjects were administered Qsymia 7.5 mg/46 mg at steady state and then titrated to Qsymia 22.5 mg/138 mg at steady state.
 Qsymia 22.5 mg/138 mg [a supra-therapeutic dose resulting in a phentermine and topiramate maximum concentration (Cmax) of 4- and 3- times higher than those at Qsymia 7.5 mg/46 mg, respectively] did not affect cardiac repolarization as measured by the change from baseline in QTc.
 
@@ -54,7 +54,7 @@ Metabolism and Excretion
 
 Phentermine
 
-Phentermine has two metabolic pathways, namely p-hydroxylation on the aromatic ring and N-oxidation on the alipthatic side chain.
+Phentermine has two metabolic pathways, namely p-hydroxylation on the aromatic ring and N-oxidation on the aliphatic side chain.
 Cytochrome P450 (CYP) 3A4 primarily metabolizes phentermine but does not show extensive metabolism.
 Monoamine oxidase (MAO)-A and MAO-B do not metabolize phentermine.
 Seventy to 80% of a dose exists as unchanged phentermine in urine when administered alone.
@@ -96,7 +96,7 @@ In Vitro Assessment of Drug Interactions
 
 Phentermine
 
-Phentermine is not an inhibitor of CYP isozymes CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A4, and is not an inhibitor of monoamine oxidases.
+Phentermine is not an inhibitor of CYP isozymes CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4, and is not an inhibitor of monoamine oxidases.
 Phentermine is not an inducer of CYP1A2, CYP2B6, and CYP3A4.
 Phentermine is not a P-glycoprotein substrate.
 
@@ -183,7 +183,7 @@ Glyburide
 
 A drug-drug interaction study conducted in patients with type 2 diabetes evaluated the steady-state pharmacokinetics of glyburide (5 mg/day) alone and concomitantly with topiramate (150 mg/day).
 There was a 22% decrease in Cmax and a 25% reduction in AUC24 for glyburide during topiramate administration.
-Systemic exposure (AUC) of the active metabolites, 4-trans-hydroxyglyburide (M1) and 3-cis-hydroxyglyburide (M2), was reduced by 13% and 15%, and Cmax was reduced by 18% and 25%, respectively.
+Systemic exposure (AUC) of the active metabolites, 4-trans-hydroxyglyburide (M1), and 3-cis-hydroxyglyburide (M2), was reduced by 13% and 15%, and Cmax was reduced by 18% and 25%, respectively.
 The steady-state pharmacokinetics of topiramate were unaffected by concomitant administration of glyburide.
 
 Lithium

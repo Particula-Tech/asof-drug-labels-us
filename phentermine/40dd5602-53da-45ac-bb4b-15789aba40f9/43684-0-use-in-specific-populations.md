@@ -31,6 +31,7 @@ Human Data
 Data evaluating the risk of major congenital malformations and oral clefts with topiramate (a component of Qsymia) exposure during pregnancy is available from the North American Anti-Epileptic Drug (NAAED) Pregnancy Registry and from several larger retrospective epidemiologic studies.
 The NAAED Pregnancy Registry suggested an estimated increase in risk for oral clefts of 9.60 (95% CI 3.60 - 25.70).
 Larger retrospective epidemiology studies showed that topiramate monotherapy exposure in pregnancy is associated with an approximately two to five-fold increased risk of oral clefts (Table 5).
+The FORTRESS study, sponsored by the maker of Qsymia, found an excess risk of 1.5 (95% CI = -1.1 to 4.1) oral cleft cases per 1,000 infants exposed to topiramate during the first trimester.
 
 Table 5.
 Summary of Studies Evaluating the Association of Topiramate in Utero Exposure and Oral Clefts and Major Congenital Malformations
@@ -39,7 +40,7 @@ Summary of Studies Evaluating the Association of Topiramate in Utero Exposure an
 | --- | --- | --- | --- | --- |
 | Epidemiology Study | Oral clefts |  | Major Congenital Malformations |  |
 | Wolters KluwerSponsored by the maker of Qsymia | 1.47 | 0.36 – 6.06 | 1.12 | 0.81 – 1.55 |
-| FORTRESS | 2.00 | 0.71 – 5.68 | Not available | Not available |
+| FORTRESS | 2.22 | 0.78 – 6.36 | 1.21 | 0.99 – 1.47 |
 | Slone/CDC | 5.36 | 1.49 – 20.07 | 1.01 | 0.37 – 3.22 |
 | CI = confidence interval |  |  |  |  |
 

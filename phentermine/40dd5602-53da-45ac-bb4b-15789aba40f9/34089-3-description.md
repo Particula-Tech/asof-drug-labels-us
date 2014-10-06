@@ -1,13 +1,13 @@
 # 11 DESCRIPTION
 
 Qsymia capsule is a combination oral product comprised of immediate-release phentermine hydrochloride (expressed as the weight of the free base) and extended-release topiramate.
-Qsymia contains phentermine hydrochloride, a sympathomimetic amine anorectic and topiramate, a sulfamate-substituted monosaccharide related to fructose antiepileptic drug.
+Qsymia contains phentermine hydrochloride, a sympathomimetic amine anorectic, and topiramate, a sulfamate-substituted monosaccharide related to fructose antiepileptic drug.
 
 Phentermine Hydrochloride
 
 The chemical name of phentermine hydrochloride is α,α-dimethylphenethylamine hydrochloride.
 The molecular formula is C10H15N • HCl and its molecular weight is 185.7 (hydrochloride salt) or 149.2 (free base).
-Phentermine hydrochloride is a white, odorless, hygroscopic, crystalline powder that is soluble in water, methanol and ethanol.
+Phentermine hydrochloride is a white, odorless, hygroscopic, crystalline powder that is soluble in water, methanol, and ethanol.
 Its structural formula is:
 
 Topiramate
