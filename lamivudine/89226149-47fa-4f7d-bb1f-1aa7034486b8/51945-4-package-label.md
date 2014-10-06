@@ -36,10 +36,12 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in Singapore
+Made in Canada
 
-A082720 Rev.
-7/10
+EPIVIR is a registered trademark
+
+A126815 Rev.
+7/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -79,10 +81,12 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in Singapore
+Made in Canada
 
-A082781 Rev.
-7/10
+EPIVIR is a registered trademark
+
+A126816 Rev.
+7/14
 
 PRINCIPAL DISPLAY PANEL
 
@@ -122,7 +126,9 @@ Manufactured under agreement from Shire Pharmaceuticals Group plc
 
 Basingstoke, UK
 
-Made in Singapore
+Made in Canada
 
-A083801 Rev.
-6/10
+EPIVIR is a registered trademark
+
+A126951 Rev.
+7/14

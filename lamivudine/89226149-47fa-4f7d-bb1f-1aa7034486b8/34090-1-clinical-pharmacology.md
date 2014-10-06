@@ -158,7 +158,7 @@ Phenotypic analysis of baseline-matched on-therapy HIV-1 isolates from subjects 
 Phenotypic analysis of baseline-matched on-therapy HIV-1 isolates from subjects (n = 13) receiving lamivudine twice daily showed that isolates from all 13 subjects were susceptible to zidovudine; isolates from 3/13 subjects exhibited a 21- to 342-fold decrease in susceptibility to efavirenz, and isolates from 4/13 subjects exhibited a 29- to 159-fold decrease in susceptibility to lamivudine.
 
 Trial EPV40001: Fifty subjects received zidovudine 300 mg twice daily plus abacavir 300 mg twice daily plus lamivudine 300 mg once daily and 50 subjects received zidovudine 300 mg plus abacavir 300 mg plus lamivudine 150 mg all twice-daily.
-The median baseline plasma HIV-1 RNA levels for subjectsin the 2 groups were 4.79 log10 copies/mL and 4.83 log10 copies/mL, respectively.
+The median baseline plasma HIV-1 RNA levels for subjects in the 2 groups were 4.79 log10 copies/mL and 4.83 log10 copies/mL, respectively.
 Fourteen of 50 subjects in the lamivudine once-daily treatment group and 9 of 50 subjects in the lamivudine twice-daily group were identified as virologic failures.
 
 Genotypic analysis of on-therapy HIV-1 isolates from subjects (n = 9) in the lamivudine once-daily treatment group showed that isolates from 6 subjects had an abacavir and/or lamivudine resistance-associated substitution M184V alone.

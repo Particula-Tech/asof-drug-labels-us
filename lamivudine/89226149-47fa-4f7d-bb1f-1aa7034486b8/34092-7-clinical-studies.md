@@ -52,7 +52,7 @@ Median increases in CD4+ cell counts were 144 cells/mm3 at Week 48 in subjects r
 
 A small, randomized, open-label pilot trial, EPV40001, was conducted in Thailand.
 A total of 159 treatment-naive adult subjects (male 32%, Asian 100%, median age 30 years, baseline median CD4+ cell count 380 cells/mm3, median plasma HIV-1 RNA 4.8 log10 copies/mL) were enrolled.
-Two of the treatment arms in this trial provided a comparison between lamivudine 300 mg once daily (n = 54) and lamivudine 150 mg twicedaily (n = 52), each in combination with zidovudine 300 mg twice daily and abacavir 300 mg twice daily.
+Two of the treatment arms in this trial provided a comparison between lamivudine 300 mg once daily (n = 54) and lamivudine 150 mg twice daily (n = 52), each in combination with zidovudine 300 mg twice daily and abacavir 300 mg twice daily.
 In intent-to-treat analyses of 48-week data, the proportions of subjects with HIV-1 RNA below 400 copies/mL were 61% (33/54) in the group randomized to once-daily lamivudine and 75% (39/52) in the group randomized to receive all 3 drugs twice daily; the proportions with HIV-1 RNA below 50 copies/mL were 54% (29/54) in the once-daily lamivudine group and 67% (35/52) in the all-twice-daily group; and the median increases in CD4+ cell counts were 166 cells/mm3 in the once-daily lamivudine group and 216 cells/mm3 in the all-twice-daily group.
 
 ## 14.2 Pediatric Subjects
