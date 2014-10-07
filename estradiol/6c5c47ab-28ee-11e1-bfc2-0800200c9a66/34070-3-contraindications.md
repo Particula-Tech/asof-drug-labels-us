@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 MINIVELLE is contraindicated in women with any of the following conditions:
 
@@ -6,8 +6,8 @@ MINIVELLE is contraindicated in women with any of the following conditions:
 - Known, suspected or history of breast cancer
 - Known or suspected estrogen-dependent neoplasia
 - Active DVT, PE, or a history of these conditions
-- Active arterial thromboembolic disease (for example, stroke, and MI), or a history of these conditions
-- Known anaphylactic reaction or angioedema with MINIVELLE
-- Known liver impairment
+- Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions
+- Known anaphylactic reaction or angioedema or hypersensitivity with MINIVELLE
+- Known liver impairment or disease
 - Known protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders
 - Known or suspected pregnancy

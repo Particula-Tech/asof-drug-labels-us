@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -27,7 +27,7 @@ Absorption
 In a single-dose, two way-crossover clinical study conducted in 96 healthy, non-smoking postmenopausal women under fed condition, MINIVELLE (0.1 mg per day) was bioequivalent to Vivelle (0.1 mg per day) based on estradiol exposure (AUC0-84) and estradiol peak concentration (Cmax) following a single-dose on the lower abdomen for 84 hours.
 
 Estradiol pharmacokinetics were characterized in a separate open-label, single-center, randomized, single-dose, three-way crossover study conducted in 36 healthy, non-smoking postmenopausal women (aged 40 to 65 years).
-MINIVELLE delivering nominal estradiol of approximately 0.025 mg, 0.05 mg, and 0.1 mg per day were applied to the lower abdomen under fed state in a crossover fashion for 84 hours.
+MINIVELLE transdermal systems delivering nominal estradiol of approximately 0.025 mg, 0.05 mg, and 0.1 mg per day were applied to the lower abdomen under fed state in a crossover fashion for 84 hours.
 The mean estradiol pharmacokinetics parameters are summarized in Table 2.
 AUC and Cmax are dose proportional from 0.025 mg to 0.1 mg per day.
 
@@ -35,11 +35,11 @@ Table 2: Mean (SD) Serum Pharmacokinetic Parameters of Baseline-Uncorrected Estr
 
 | Parameter | 0.1 mg/day | 0.05 mg/day | 0.025 mg/day |
 | --- | --- | --- | --- |
-| AUC84 (pg•hr/mL) | 5875 (1857) | 3057 (980) | 1763 (600) |
-| AUC120 (pg•hr/mL) | 6252 (1938) | 3320 (1038) | 1979 (648) |
+| AUC84 (pg·hr/mL) | 5875 (1857) | 3057 (980) | 1763 (600) |
+| AUC120 (pg·hr/mL) | 6252 (1938) | 3320 (1038) | 1979 (648) |
 | Cmax (pg/mL) | 117 (39.3) | 56.6 (17.6) | 30.3 (11.1) |
 | Tmax (hr)a | 24.0 (8-60) | 24.0 (8-60) | 36.0 (8-84) |
-| aMedian (minimum-maximum) |  |  |  |
+| a Median (minimum-maximum) |  |  |  |
 
 Figure 1 illustrates the mean baseline-uncorrected estradiol serum concentrations of MINIVELLE at three different strengths.
 
@@ -47,9 +47,10 @@ Figure 1: Mean Baseline-Uncorrected Estradiol Serum Concentration-Time Profiles 
 
 Distribution
 
+No specific investigation of the tissue distribution of estradiol absorbed from Minivelle in humans has been conducted.
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
-Estrogens circulate in the blood largely bound to SHBG and albumin.
+Estrogens circulate in the blood largely bound to sex hormone-binding globulin (SHBG) and albumin.
 
 Metabolism
 
@@ -65,10 +66,6 @@ Excretion
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 The mean half-life values of estradiol calculated from treatment groups in the bioequivalence study and dose-proportionality study after dosing with the MINIVELLE ranged from 6.2 to 7.9 hours.
 After removal of the transdermal systems, serum concentrations of estradiol and estrone returned to baseline concentrations within 24 hours.
-
-Use in Specific Populations
-
-No pharmacokinetic studies were conducted with MINIVELLE in specific populations, including patients with renal or hepatic impairment.
 
 Adhesion and Adhesive Residue
 

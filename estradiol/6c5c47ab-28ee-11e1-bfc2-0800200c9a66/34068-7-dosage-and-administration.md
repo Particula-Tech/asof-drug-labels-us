@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Generally, when estrogen is prescribed for a postmenopausal woman with a uterus, a progestin should be considered to reduce the risk of endometrial cancer.
 A woman without a uterus does not need a progestin.
@@ -15,8 +15,16 @@ Dosage adjustment should be guided by the clinical response.
 Therapy should be started at the lowest effective dose and the shortest duration consistent with the treatment goals.
 Attempts to taper or discontinue the medication should be made at 3 to 6 month intervals.
 
+## 2.2 Prevention of Postmenopausal Osteoporosis
+
+Start therapy with MINIVELLE 0.025 mg per day applied to the skin twice weekly.
+The dose may be adjusted as necessary.
+
+## 2.3 Patch Application Instructions
+
 The adhesive side of MINIVELLE should be placed on a clean, dry area on the lower abdomen (below the umbilicus) or buttocks.
 MINIVELLE should not be applied to the breasts.
+
 MINIVELLE should be replaced twice weekly (every 3-4 days).
 
 The sites of application must be rotated, with an interval of at least 1 week allowed between applications to a particular site.

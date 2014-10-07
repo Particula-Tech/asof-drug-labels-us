@@ -1,7 +1,8 @@
-# 15. REFERENCES
+# 15 REFERENCES
 
 1. Rossouw JE, et al. Postmenopausal Hormone Therapy and Risk of Cardiovascular Disease by Age and Years Since Menopause.
-   JAMA.2007;297:1465-1477.
+   JAMA.
+   2007;297:1465-1477.
 2. Hsia J, et al. Conjugated Equine Estrogens and Coronary Heart Disease.
    Arch Int Med.
    2006;166:357–365.

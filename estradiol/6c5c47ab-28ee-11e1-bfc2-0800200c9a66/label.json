@@ -6,22 +6,20 @@
   "labeler": "Noven Therapeutics, LLC",
   "package_ndcs": [
     "68968-6610-1",
-    "68968-6610-3",
     "68968-6610-8",
+    "68968-6625-1",
+    "68968-6625-8",
     "68968-6637-1",
-    "68968-6637-3",
     "68968-6637-8",
     "68968-6650-1",
-    "68968-6650-3",
     "68968-6650-8",
     "68968-6675-1",
-    "68968-6675-3",
     "68968-6675-8"
   ],
   "products": [
     {
       "form": "FILM, EXTENDED RELEASE",
-      "generic": "(estradiol transdermal system)",
+      "generic": "estradiol",
       "name": "Minivelle"
     }
   ],

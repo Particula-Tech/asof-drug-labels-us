@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Effects on Vasomotor Symptoms
 
@@ -14,7 +14,41 @@ Figure 2: Mean (SD) change from baseline in mean daily number of hot flushes for
 
 The 0.0375 mg dose was superior to placebo in reducing both the frequency and severity of vasomotor symptoms at Weeks 4, 8 and 12 of treatment.
 
-## 14.2 Women’s Health Initiative Studies
+## 14.2 Effects on Bone Mineral Density
+
+There have been no bone efficacy and safety trials conducted with MINIVELLE.
+In a pharmacokinetic study, MINIVELLE was shown to be bioequivalent to Vivelle.
+
+Efficacy and safety of Vivelle in the prevention of postmenopausal osteoporosis have been studied in a 2-year double-blind, randomized, placebo-controlled, parallel group study.
+A total of 261 hysterectomized (161) and non-hysterectomized (100), surgically or naturally menopausal women (within 5 years of menopause), with no evidence of osteoporosis (lumbar spine bone mineral density within 2 standard deviations of average peak bone mass, i.e., ≥0.0827 g/cm2) were enrolled in this study; 194 patients were randomized to one of the four doses of Vivelle (0.1, 0.05, 0.0375, or 0.025 mg/day) and 67 patients to placebo.
+Over 2 years, study systems were applied to the buttock or the abdomen twice a week.
+Non-hysterectomized women received oral medroxyprogesterone acetate (2.5 mg/day) throughout the study.
+
+The study population comprised naturally (82 percent) or surgically (18 percent) menopausal, hysterectomized (61 percent) or non-hysterectomized (39 percent) women with a mean age of 52.0 years (range 27 to 62 years); the mean duration of menopause was 31.7 months (range 2 to 72 months).
+Two hundred thirty-two (89 percent) randomized subjects (173 on active drug, 59 on placebo) contributed data to the analysis of percent change from baseline in bone mineral density (BMD) of the AP lumbar spine, the primary efficacy variable.
+Patients were given supplemental dietary calcium (100 mg elemental calcium/day) but no supplemental vitamin D. There was an increase in BMD of the AP lumbar spine in all Vivelle dose groups; in contrast to this, a decrease in AP lumbar spine BMD was observed in placebo patients.
+All Vivelle doses were significantly superior to placebo (p<0.05) at all time points with the exception of Vivelle 0.05 mg/day at 6 months.
+The highest dose of Vivelle was superior to the three lower doses.
+There were no statistically significant differences in pairwise comparisons among the three lower doses (See Figure 3).
+
+Figure 3: Bone mineral density – AP Lumbar spine
+
+Least squares means of percentage change from baseline
+
+All randomized patients with at least one post-baseline assessment available with last post-baseline observation carried forward
+
+Analysis of percent change from baseline in femoral neck BMD, a secondary efficacy outcome variable, showed qualitatively similar results; all doses of Vivelle were significantly superior to placebo (p<0.05) at 24 months.
+The highest Vivelle dose was superior to placebo at all time points.
+A mixture of significant and non-significant results were obtained for the lower dose groups at earlier time points.
+The highest Vivelle dose was superior to the three lower doses, and there were no significant differences among the three lower doses at this skeletal site (see Figure 4).
+
+Figure 4: Bone mineral density - Femoral neck
+
+Least squares means of percentage change from baseline
+
+All randomized patients with at least one post-baseline assessment available with last post-baseline observation carried forward
+
+## 14.3 Women's Health Initiative Studies
 
 The WHI enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
 The primary endpoint was the incidence of CHD (defined as nonfatal MI, silent MI and CHD death), with invasive breast cancer as the primary adverse outcome.
@@ -29,7 +63,7 @@ Results of the estrogen-alone substudy, which included 10,739 women (average 63 
 
 Table 3: Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHIa
 
-| Event | Relative Risk CE vs. Placebo (95% nCIb) | CE n = 5,310) | Placebo n = 5,429 |
+| Event | Relative Risk CE vs. Placebo (95% nCIb) | CE n = 5,310 | Placebo n = 5,429 |
 | --- | --- | --- | --- |
 | Absolute Risk per 10,000 Women-Years |  |  |  |
 | CHD eventsc Non-fatal MI c CHD deathc | 0.95 (0.78–1.16) 0.91 (0.73–1.14) 1.01 (0.71–1.43) | 54 40 16 | 57 43 16 |
@@ -40,7 +74,7 @@ Table 3: Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHIa
 | Colorectal cancere | 1.08 (0.75–1.55) | 17 | 16 |
 | Hip fracturec | 0.65 (0.45–0.94) | 12 | 19 |
 | Vertebral fracturesc,d | 0.64 (0.44–0.93) | 11 | 18 |
-| Lower arm/wrist fracturesc,d | 0.58 (0.47-0.72) | 35 | 59 |
+| Lower arm/wrist fracturesc,d | 0.58 (0.47–0.72) | 35 | 59 |
 | Total fracturesc,d | 0.71 (0.64–0.80) | 144 | 197 |
 | Death due to other causese,f | 1.08 (0.88–1.32) | 53 | 50 |
 | Overall mortalityc,d | 1.04 (0.88–1.22) | 79 | 75 |
@@ -77,7 +111,7 @@ These results reflect centrally adjudicated data after an average follow-up of 5
 
 Table 4: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Yearsa,b
 
-| Event | Relative Risk CE/MPA vs. Placebo (95% nCIc) | CE/MPA (n = 8,506) | Placebo (n = 8, 102) |
+| Event | Relative Risk CE/MPA vs. Placebo (95% nCIc) | CE/MPA (n = 8,506) | Placebo (n = 8,102) |
 | --- | --- | --- | --- |
 | Absolute Risk per 10,000 Women-Years |  |  |  |
 | CHD events Non-fatal MI CHD death | 1.23 (0.99–1.53) 1.28 (1.00–1.63) 1.10 (0.70–1.75) | 41 31 8 | 34 25 8 |
@@ -92,20 +126,20 @@ Table 4: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy
 | Vertebral fracturesd | 0.65 (0.46–0.92) | 11 | 17 |
 | Lower arm/wrist fracturesd | 0.71 (0.59–0.85) | 44 | 62 |
 | Total fracturesd | 0.76 (0.69–0.83) | 152 | 199 |
-| Overall mortalityf | 1.00 (0.83-1.19) | 52 | 52 |
-| Global Index g | 1.13 (1.02-1.25) | 184 | 165 |
-| aAdapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. |  |  |  |
-| bResults are based on centrally adjudicated data. |  |  |  |
-| cNominal confidence intervals unadjusted for multiple looks and multiple comparisons. |  |  |  |
-| dNot included in “global index”. |  |  |  |
-| eIncludes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
-| fAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE, or cerebrovascular disease. |  |  |  |
-| gA subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
+| Overall mortalityf | 1.00 (0.83–1.19) | 52 | 52 |
+| Global Index g | 1.13 (1.02–1.25) | 184 | 165 |
+| a Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi. |  |  |  |
+| b Results are based on centrally adjudicated data. |  |  |  |
+| c Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. |  |  |  |
+| d Not included in “global index”. |  |  |  |
+| e Includes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
+| f All deaths, except from breast or colorectal cancer, definite or probable CHD, PE, or cerebrovascular disease. |  |  |  |
+| g A subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
 
 Timing of the initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified for age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44-1.07)].
 
-## 14.3 Women’s Health Initiative Memory Study
+## 14.4 Women's Health Initiative Memory Study
 
 The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominantly healthy hysterectomized postmenopausal women 65 to 79 years of age (45 percent were 65 to 69 years of age, 36 percent were 70 to 74 years of age, and 19 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)-alone on the incidence of probable dementia (primary outcome) compared to placebo.
 
@@ -121,8 +155,8 @@ After an average follow-up of 4 years, the relative risk of probable dementia fo
 The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 per 10,000 women-years.
 Probable dementia as defined in this study included AD, VaD and mixed type (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
-Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5)].
+Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
 
 When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Differences between groups became apparent in the first year of treatment.
-It is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5)].
+It is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].

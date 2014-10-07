@@ -1,6 +1,6 @@
 Instructions for Use
 
-MINIVELLE (MIN-ee-vell)
+MINIVELLE® (MIN-ee-vell)
 
 (estradiol transdermal system)
 
@@ -24,7 +24,7 @@ Figure B
 Step 2.
 Remove the MINIVELLE patch from the pouch.
 
-- Remove the patch from its protective pouch by tearing at the notch (do not use scissors,See Figure C).
+- Remove the patch from its protective pouch by tearing at the notch (do not use scissors, See Figure C).
 - Do not remove your patch from the protective pouch until you are ready to apply it
 
 Figure C
@@ -72,4 +72,4 @@ This Patient Information and Instructions for Use have been approved by the U.S 
 
 Manufactured by: Noven Pharmaceuticals Inc. Miami, FL 33186
 
-Approved 10/2012
+Approved 09/2014
