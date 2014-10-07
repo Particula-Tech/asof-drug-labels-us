@@ -16,13 +16,13 @@ Hydrochlorothiazide has been shown to have an additive effect (see CLINICAL PHAR
 
 No initial dosage adjustment is necessary for elderly patients or for patients with renal impairment, including patients on dialysis.
 
-Pediatric Hypertensive patient ≥ 6 years of age:
+Pediatric Hypertensive Patients greater than or equal to 6 years of age:
 
 The usual recommended starting dose is 0.7 mg/kg once daily (up to 50 mg total) administered as a tablet or a suspension (see Preparation of Suspension).
 Dosage should be adjusted according to blood pressure response.
-Doses above 1.4 mg/kg (or in excess of 100 mg) daily have not been studied in pediatric patients (see CLINICAL PHARMACOLOGY, Pharmacokinetics,Special Populationsand Pharmacodynamics and Clinical Effectsand WARNINGS, Hypotension — Volume-Depleted Patients,).
+Doses above 1.4 mg/kg (or in excess of 100 mg) daily have not been studied in pediatric patients (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations and Pharmacodynamics and Clinical Effects and WARNINGS, Hypotension — Volume-Depleted Patients,).
 
-Losartan potassium tablets are not recommended in pediatric patients <6 years of age or in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics,Special Populations, Pharmacodynamics and Clinical Effects, and PRECAUTIONS).
+Losartan potassium tablets are not recommended in pediatric patients <6 years of age or in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations, Pharmacodynamics and Clinical Effects, and PRECAUTIONS).
 
 ## Preparation of Suspension (for 200 mL of a 2.5 mg/mL suspension):
 

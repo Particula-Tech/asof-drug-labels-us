@@ -1,4 +1,10 @@
-# SPL PATIENT PACKAGE INSERT
+Patient Information Leaflet
+
+Losartan Potassium
+
+(loe-SAR-tan poe-TASS-ee-um)
+
+Tablets, USP
 
 Read the Patient Information that comes with losartan potassium tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -64,6 +70,7 @@ Especially tell your doctor if you are taking:
 - potassium supplements
 - salt substitutes containing potassium
 - water pills (diuretics)
+- lithium (a medicine used to treat a certain kind of depression)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDS), including COX-2 inhibitors.
 - other medicines to reduce blood pressure.
 
