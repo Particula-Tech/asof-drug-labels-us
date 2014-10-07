@@ -44,7 +44,7 @@ Withdraw the prescribed dose of ZALTRAP and dilute in 0.9% sodium chloride solut
 
 Use polyvinyl chloride (PVC) infusion bags containing bis (2-ethylhexyl) phthalate (DEHP) or polyolefin infusion bags.
 
-Store diluted ZALTRAP at 2–8°C (36–46°F) for up to 4 hours.
+Store diluted ZALTRAP at 2°–8°C (36°–46°F) for up to 24 hours, or at controlled room temperature 20°–25°C (68°–77°F) for up to 8 hours.
 Discard any unused portion left in the infusion bag.
 
 ## 2.4 Administration
