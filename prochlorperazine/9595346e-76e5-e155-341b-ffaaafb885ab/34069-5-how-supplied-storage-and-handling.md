@@ -7,6 +7,5 @@ Rx only
 Storage: Store at 20-25°C (68-77°F) [See USP Controlled Room Temperature].
 Do not remove from foil until ready to use.
 
-Manufactured by: G & W Laboratories, Inc., S. Plainfield, N.J.
-07080 Rev.
-4/09 8-0135GW8
+Manufactured by: G&W Laboratories, Inc.South Plainfield, NJ 07080 Rev.
+08/2014 8-0135GW10
