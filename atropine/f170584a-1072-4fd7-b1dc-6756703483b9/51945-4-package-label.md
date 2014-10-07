@@ -2,11 +2,12 @@
 
 NDC 0025-0061-31
 
-100 Tablets Rx only
+Pfizer
 
-Lomotil® CV (diphenoxylate hydrochloride and atropine sulfate tablets USP)
+Lomotil® CV
+
+(diphenoxylate hydrochloride and atropine sulfate tablets USP)
 
 2.5 mg/0.025 mg*
 
-Pfizer Distributed by G.D.
-Searle LLC Division of Pfizer Inc, NY, NY 10017
+100 Tablets Rx only

@@ -1,24 +1,13 @@
 {
   "application_numbers": [
-    "NDA012462",
-    "NDA012699"
+    "NDA012462"
   ],
   "inn": "atropine",
   "labeler": "G.D. Searle LLC Division of Pfizer Inc",
   "package_ndcs": [
-    "0025-0061-31",
-    "0025-0061-34",
-    "0025-0061-51",
-    "0025-0061-52",
-    "0025-0061-55",
-    "0025-0066-02"
+    "0025-0061-31"
   ],
   "products": [
-    {
-      "form": "LIQUID",
-      "generic": "diphenoxylate hydrochloride and atropine sulfate",
-      "name": "Lomotil"
-    },
     {
       "form": "TABLET",
       "generic": "diphenoxylate hydrochloride and atropine sulfate",
