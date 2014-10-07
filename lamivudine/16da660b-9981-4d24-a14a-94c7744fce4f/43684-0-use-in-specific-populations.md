@@ -22,7 +22,7 @@ No dose adjustments are needed during pregnancy.
 In a clinical trial, adverse events among HIV-1-infected women were not different among untreated women and women treated with zidovudine.
 It is not known whether risks of adverse events associated with lamivudine are altered in pregnant women compared with other HIV-1-infected patients (see Human data below).
 
-Data:Human Data: Lamivudine: Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
+Data: Human Data: Lamivudine: Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
 The trial assessed pharmacokinetics in: 16 women at 36 weeks gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily without other antiretrovirals.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in nonpregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.

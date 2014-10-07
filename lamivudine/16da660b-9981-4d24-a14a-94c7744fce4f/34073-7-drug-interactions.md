@@ -4,10 +4,10 @@ No drug interaction trials have been conducted using COMBIVIR Tablets [see Clini
 
 ## 7.1 Antiretroviral Agents
 
-Lamivudine:Zalcitabine: Lamivudine and zalcitabine may inhibit the intracellular phosphorylation of one another.
+Lamivudine: Zalcitabine: Lamivudine and zalcitabine may inhibit the intracellular phosphorylation of one another.
 Therefore, use of COMBIVIR in combination with zalcitabine is not recommended.
 
-Zidovudine:Stavudine: Concomitant use of COMBIVIR with stavudine should be avoided since an antagonistic relationship with zidovudine has been demonstrated in vitro.
+Zidovudine: Stavudine: Concomitant use of COMBIVIR with stavudine should be avoided since an antagonistic relationship with zidovudine has been demonstrated in vitro.
 
 Nucleoside Analogues Affecting DNA Replication: Some nucleoside analogues affecting DNA replication, such as ribavirin, antagonize the in vitro antiviral activity of zidovudine against HIV-1; concomitant use of such drugs should be avoided.
 
