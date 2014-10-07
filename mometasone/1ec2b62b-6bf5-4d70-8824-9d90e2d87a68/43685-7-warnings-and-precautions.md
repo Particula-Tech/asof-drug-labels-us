@@ -15,10 +15,10 @@ During such episodes, patients may require therapy with oral corticosteroids.
 ## 5.3 Hypersensitivity Reactions Including Anaphylaxis
 
 Hypersensitivity reactions including rash, pruritus, angioedema, and anaphylactic reaction have been reported with use of ASMANEX TWISTHALER.
-Discontinue ASMANEX TWISTHALER if such reactions occur [see Contraindications (4.2) and Postmarketing Experience (6.2)].
+Discontinue ASMANEX TWISTHALER if such reactions occur [see Contraindications (4.2) and Adverse Reactions (6.2)].
 
 ASMANEX TWISTHALER contains small amounts of lactose, which contains trace levels of milk proteins.
-In postmarketing experience with ASMANEX TWISTHALER, anaphylactic reactions in patients with milk protein allergy have been reported [see Contraindications (4.2) and Postmarketing Experience (6.2)].
+In postmarketing experience with ASMANEX TWISTHALER, anaphylactic reactions in patients with milk protein allergy have been reported [see Contraindications (4.2) and Adverse Reactions (6.2)].
 
 ## 5.4 Immunosuppression
 
