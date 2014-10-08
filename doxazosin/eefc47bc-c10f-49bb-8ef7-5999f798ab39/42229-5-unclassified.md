@@ -1,3 +1,3 @@
 Rx only
 
-LAB-0071-5.0 November 2013
+LAB-0071-6.0 September 2014
