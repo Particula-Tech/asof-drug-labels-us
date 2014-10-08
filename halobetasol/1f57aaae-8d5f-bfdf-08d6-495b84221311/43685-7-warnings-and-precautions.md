@@ -49,7 +49,7 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 Positive mutagenicity effects were observed in two genotoxicity assays.
 Halobetasol propionate was positive in a Chinese hamster micronucleus test, and in a mouse lymphoma gene mutation assay in vitro.
 
-Studies in the rat following oral administration at dose levels up to 50 µg/kg/day indicated no impairment of fertility or general reproductive performance.
+Studies in the rat following oral administration at dose levels up to 50 mcg/kg/day indicated no impairment of fertility or general reproductive performance.
 
 In other genotoxicity testing, halobetasol propionate was not found to be genotoxic in the Ames/Salmonella assay, in the sister chromatid exchange test in somatic cells of the Chinese hamster, in chromosome aberration studies of germinal and somatic cells of rodents, and in a mammalian spot test to determine point mutations.
 
@@ -61,7 +61,7 @@ Corticosteroids have been shown to be teratogenic in laboratory animals when adm
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 
 Halobetasol propionate has been shown to be teratogenic in SPF rats and chinchilla-type rabbits when given systemically during gestation at doses of 0.04 to 0.1 mg/kg in rats and 0.01 mg/kg in rabbits.
-These doses are approximately 13, 33 and 3 times, respectively, the human topical dose of halobetasol propionate cream.
+These doses are approximately 13, 33 and 3 times, respectively, the human topical dose of Halobetasol Propionate Cream.
 Halobetasol propionate was embryotoxic in rabbits but not in rats.
 
 Cleft palate was observed in both rats and rabbits.

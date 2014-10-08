@@ -15,4 +15,4 @@ Inflammation and/or other disease processes in the skin may increase percutaneou
 
 Human and animal studies indicate that less than 6% of the applied dose of halobetasol propionate enters the circulation within 96 hours following topical administration of the cream.
 
-Studies performed with halobetasol propionate cream indicate that it is in the super-high range of potency as compared with other topical corticosteroids.
+Studies performed with Halobetasol Propionate Cream indicate that it is in the super-high range of potency as compared with other topical corticosteroids.

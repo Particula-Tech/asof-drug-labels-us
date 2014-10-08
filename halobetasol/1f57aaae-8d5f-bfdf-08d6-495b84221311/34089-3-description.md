@@ -9,4 +9,4 @@ It has the following structural formula:
 Halobetasol propionate has the molecular weight of 485.
 It is a white crystalline powder insoluble in water.
 
-Each gram of Halobetasol Propionate Cream contains 0.5 mg/g of halobetasol propionate in a cream base of cetyl alcohol, glycerin, isopropyl isostearate, isopropyl palmitate, steareth-21, diazolidinyl urea, methylchloroisothiazolinone,(and) methylisothiazolinone and water.
+Each gram of Halobetasol Propionate Cream contains 0.5 mg/g of halobetasol propionate in a cream base of cetyl alcohol, glycerin, isopropyl isostearate, isopropyl palmitate, steareth-21, diazolidinyl urea, methylchloroisothiazolinone, (and) methylisothiazolinone and water.
