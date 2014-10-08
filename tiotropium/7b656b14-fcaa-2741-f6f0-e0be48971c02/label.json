@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021936"
+  ],
+  "inn": "tiotropium",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0597-0100-28",
+    "0597-0100-31",
+    "0597-0100-61"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "tiotropium bromide inhalation spray",
+      "name": "Spiriva Respimat"
+    }
+  ],
+  "setid": "7b656b14-fcaa-2741-f6f0-e0be48971c02",
+  "source": "dailymed"
+}
