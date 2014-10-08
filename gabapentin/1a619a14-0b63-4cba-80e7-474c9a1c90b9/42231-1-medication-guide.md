@@ -1,12 +1,13 @@
 # MEDICATION GUIDE
 
-Gabapentin Capsules, USP Rx only Read the Medication Guide before you start taking gabapentin capsules and each time you get a refill.
+Gabapentin Capsules, USP (gab'' a pen' tin) Read the Medication Guide before you start taking gabapentin capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 What is the most important information I should know about gabapentin capsules?
 Do not stop taking gabapentin capsules without first talking to your healthcare provider.
 Stopping gabapentin capsules suddenly can cause serious problems.
 Gabapentin capsules can cause serious side effects including: 1.
+Suicidal Thoughts.
 Like other antiepileptic drugs, gabapentin capsules may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -33,9 +34,9 @@ Do not stop taking gabapentin capsules without first talking to a healthcare pro
 
 - Stopping gabapentin capsules suddenly can cause serious problems.
   Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+- Suicidal thoughts or actions can be caused by things other than medicines.
+  If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
-Suicidal thoughts or actions can be caused by things other than medicines.
-If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 2.
 Changes in behavior and thinking - Using gabapentin capsules in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
 3.
@@ -61,7 +62,7 @@ What are gabapentin capsules?
 Gabapentin capsules are a prescription medicine used to treat:
 
 - Pain from damaged nerves (postherpetic pain) that follows healing of shingles (a painful rash that comes after a herpes zoster infection) in adults.
-- Partial seizures when taken together with other medicines in adults and children 3 years of age and older.
+- Partial seizures when taken together with other medicines in adults and children 3 years of age and older with seizures.
 
 Who should not take gabapentin capsules?
 Do not take gabapentin capsules if you are allergic to gabapentin or any of the other ingredients in gabapentin capsules.
@@ -78,11 +79,11 @@ Before taking gabapentin capsules, tell your healthcare provider if you:
   - If you become pregnant while taking gabapentin capsules, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
     The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
     You can enroll in this registry by calling 1-888-233-2334.
-- are breastfeeding or plan to breastfeed.
+- are breast-feeding or plan to breast-feed.
   Gabapentin can pass into breast milk.
   You and your healthcare provider should decide how you will feed your baby while you take gabapentin capsules.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Taking gabapentin capsules with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
 Know the medicines you take.
@@ -90,13 +91,13 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 How should I take gabapentin capsules?
 
 - Take gabapentin capsules exactly as prescribed.
-  Your healthcare provider will tell you how much gabapentin capsules to take.
+  Your healthcare provider will tell you how much gabapentin to take.
   - Do not change your dose of gabapentin capsules without talking to your healthcare provider.
-    Always swallow gabapentin capsules whole with plenty of water.
+  - Take gabapentin capsules with plenty of water.
 - Gabapentin capsules can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin capsules.
-- If you take too much gabapentin capsules, call your healthcare provider or your local Poison Control Center right away.
 
+If you take too much gabapentin, call your healthcare provider or your local Poison Control Center right away at 1-800-222-1222.
 What should I avoid while taking gabapentin capsules?
 
 - Do not drink alcohol or take other medicines that make you sleepy or dizzy while taking gabapentin capsules without first talking with your healthcare provider.
@@ -105,22 +106,25 @@ What should I avoid while taking gabapentin capsules?
   Gabapentin capsules can slow your thinking and motor skills.
 
 What are the possible side effects of gabapentin capsules?
+Gabapentin capsules may cause serious side effects including: See “What is the most important information I should know about gabapentin capsules?”
 
-- See “What is the most important information I should know about gabapentin capsules?”
+- problems driving while using gabapentin capsules.
+  See “What I should avoid while taking gabapentin capsules?”
+- sleepiness and dizziness
 - The most common side effects of gabapentin capsules include:
-  - dizziness
-  - difficulty with speaking
   - lack of coordination
-  - temporary loss of memory (amnesia)
-  - viral infection
-  - tremor
-  - feeling drowsy
-  - difficulty with coordination
   - feeling tired
-  - double vision
+  - viral infection
   - fever
-  - unusual eye movement
+  - feeling drowsy
   - jerky movements
+  - nausea and vomiting
+  - difficulty with coordination
+  - difficulty with speaking
+  - double vision
+  - tremor
+  - unusual eye movement
+  - swelling, usually of legs and feet
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of gabapentin capsules.
@@ -129,7 +133,7 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 How should I store gabapentin capsules?
 
-- Store gabapentin capsules between 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- Store gabapentin capsules between 20° to 25°C (68° to 77°F).
 
 Keep gabapentin capsules and all medicines out of the reach of children.
 General information about the safe and effective use of gabapentin capsules Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
@@ -139,11 +143,11 @@ They may harm them.
 This Medication Guide summarizes the most important information about gabapentin capsules.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about gabapentin capsules that was written for healthcare professionals.
-For more information about gabapentin capsules and for medical inquiries or to report side effects regarding gabapentin capsules, please call 1-866-850-2876.
+For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in gabapentin capsules?
 Active ingredient: gabapentin Inactive ingredients: corn starch and talc.
-The empty hard gelatin capsule shell consists of gelatin, titanium dioxide, and sodium lauryl sulfate.
+The empty hard gelatin capsule shell consists of gelatin, sodium lauryl sulfate, and titanium dioxide.
 In addition 300 mg also contains yellow iron oxide and 400 mg also contains yellow iron oxide and red iron oxide.
 The capsules are printed with edible ink containing black iron oxide and shellac.
 This Medication Guide has been approved by the U.S. Food and Drug Administration. * All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 05/2013
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 10/2014
