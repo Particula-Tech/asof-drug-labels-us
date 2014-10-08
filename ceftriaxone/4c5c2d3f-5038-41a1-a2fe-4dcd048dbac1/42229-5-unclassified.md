@@ -25,11 +25,12 @@ If leaks are detected, discard solution as sterility may be impaired.
 
 Do not add supplementary medication.
 
-The container should be visually inspected.
+Visually inspect the container.
+If the outlet port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
 Components of the solution may precipitate in the frozen state and will dissolve upon reaching room temperature with little or no agitation.
 Potency is not affected.
 Agitate after solution has reached room temperature.
-If after visual inspection the solution remains cloudy or if an insoluble precipitate is noted or if any seals or outlet ports are not intact, the container should be discarded.
+If after visual inspection the solution remains cloudy or if an insoluble precipitate is noted, or if any seals are not intact, the container should be discarded.
 
 The thawed solution is stable for 21 days under refrigeration (5°C/41°F) or 48 hours at room temperature (25°C/77°F).
 Do not refreeze thawed antibiotics.
@@ -39,10 +40,10 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 ## Preparation for Intravenous Administration:
 
-1. Suspend container from eyelet support.
-2. Remove protector from outlet port at bottom of container.
-3. Attach administration set.
-   Refer to complete directions accompanying set.
+- 1.Suspend container from eyelet support.
+- 2.Remove protector from outlet port at bottom of container.
+- 3.Attach administration set.
+  Refer to complete directions accompanying set.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
@@ -52,7 +53,7 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 ATCC is a trademark of the American Type Culture Collection.
 
-07-19-71-063
+07-19-73-085
 
 Rev.
-June 2013
+June 2014

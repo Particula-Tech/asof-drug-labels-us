@@ -21,7 +21,7 @@ SKIN AND SKIN STRUCTURE INFECTIONS caused by Staphylococcus aureus, Staphylococc
 
 URINARY TRACT INFECTIONS (complicated and uncomplicated) caused by Escherichia coli, Proteus mirabilis, Proteus vulgaris, Morganella morganii or Klebsiella pneumoniae.
 
-UNCOMPLICATED GONORRHEA (cervical/urethral and rectal) caused by Neisseria gonorrhoeae, including both penicillinase- and nonpenicillinase-producing strains, and pharyngeal gonorrhea caused by nonpenicillinase-producing strains of Neisseria gonorrhoeae.
+UNCOMPLICATED GONORRHEA (cervical/urethral and rectal) caused by Neisseria gonorrhoeae, including both penicillinase-and nonpenicillinase-producing strains, and pharyngeal gonorrhea caused by nonpenicillinase-producing strains of Neisseria gonorrhoeae.
 
 PELVIC INFLAMMATORY DISEASE caused by Neisseria gonorrhoeae.
 Ceftriaxone, like other cephalosporins, has no activity against Chlamydia trachomatis.

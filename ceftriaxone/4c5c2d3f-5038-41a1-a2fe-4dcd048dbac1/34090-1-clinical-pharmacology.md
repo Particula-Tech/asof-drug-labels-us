@@ -274,7 +274,7 @@ Standardized ceftriaxone powder should provide the following MIC values:
 | Neisseria gonorrhoeae | 49226 | 0.004-0.015 |
 | Streptococcus pneumoniae | 49619 | 0.03-0.12 |
 
-## Diffusion Techniques
+### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure3 requires the use of standardized inoculum concentrations.
@@ -305,7 +305,7 @@ The following interpretive criteria should be used when testing Neisseria gonorr
 | --- | --- |
 | ≥35 | (S) Susceptible |
 
-For Neisseria meningitidis, the following disc diffusion criteria apply:5
+For Neisseria meningitidis, the following disc diffusion criteria apply: 5
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -352,7 +352,7 @@ For the diffusion technique, the 30 mcg ceftriaxone disc should provide the foll
 | Neisseria gonorrhoeae | 49226 | 39 - 51 |
 | Streptococcus pneumoniae | 49619 | 30 - 35 |
 
-## Anaerobic Susceptibility Testing by Agar Dilution
+### Anaerobic Susceptibility Testing by Agar Dilution
 
 For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by standardized test methods.6 The MIC values obtained should be interpreted according to the following criteria:
 
