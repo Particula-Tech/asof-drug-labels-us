@@ -11,4 +11,4 @@ All patients should be cautioned that inadequate fluid intake, excessive perspir
 
 Potassium Supplements: A patient receiving Exforge HCT should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
 
-T2014-64 June 2014
+T2014-96 September 2014
