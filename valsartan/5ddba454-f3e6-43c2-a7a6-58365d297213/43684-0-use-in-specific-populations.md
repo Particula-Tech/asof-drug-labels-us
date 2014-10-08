@@ -27,7 +27,7 @@ Because many drugs are excreted into human milk and because of the potential for
 
 ## 8.4 Pediatric Use
 
-The antihypertensive effects of Diovan have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1-5 and 6-16 years of age [see Clinical Studies(14.1)].
+The antihypertensive effects of Diovan have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1-5 and 6-16 years of age [see Clinical Studies (14.1)].
 The pharmacokinetics of Diovan have been evaluated in pediatric patients 1 to 16 years of age [see Pharmacokinetics, Special Populations, Pediatric (12.3)].
 Diovan was generally well tolerated in children 6-16 years and the adverse experience profile was similar to that described for adults.
 
