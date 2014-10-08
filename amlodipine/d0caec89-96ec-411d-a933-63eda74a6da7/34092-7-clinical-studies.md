@@ -72,9 +72,9 @@ Table 5: Effect of Exforge on Sitting Diastolic/Systolic Blood Pressure
 | Valsartan 160 mg | -6.6 | --- | -8.2 | --- |
 
 *Mean Change from Baseline at Week 8 in Sitting Diastolic/Systolic Blood Pressure.
-Mean baseline BP was 149.5/96.5 (systolic/diastolic) mmHg
+Mean baseline BP was 149.5/96.5 (systolic/diastolic) mmHg.
 
-**Treatment Difference = difference in mean BP reduction between Exforge and the control group (Valsartan 160 mg)
+**Treatment Difference = difference in mean BP reduction between Exforge and the control group (Valsartan 160 mg).
 
 In a double-blind, active-controlled study, a total of 944 patients with mild to moderate hypertension who were not adequately controlled on amlodipine 10 mg received a combination of amlodipine and valsartan (10/160 mg) or amlodipine alone (10 mg).
 At week 8, the combination treatment was statistically significantly superior to the monotherapy component in reduction of diastolic and systolic blood pressures.
@@ -88,9 +88,9 @@ Table 6: Effect of Exforge on Sitting Diastolic/Systolic Blood Pressure
 | Amlodipine 10 mg | -10.0 | --- | -10.8 | --- |
 
 *Mean Change from Baseline at Week 8 in Sitting Diastolic/Systolic Blood Pressure.
-Mean baseline BP was 147.0/95.1 (systolic/diastolic) mmHg
+Mean baseline BP was 147.0/95.1 (systolic/diastolic) mmHg.
 
-**Treatment Difference = difference in mean BP reduction between Exforge and the control group (Amlodipine 10 mg)
+**Treatment Difference = difference in mean BP reduction between Exforge and the control group (Amlodipine 10 mg).
 
 Exforge was also evaluated for safety in a 6-week, double-blind, active-controlled trial of 130 hypertensive patients with severe hypertension (mean baseline BP of 171/113 mmHg).
 Adverse events were similar in patients with severe hypertension and mild/moderate hypertension treated with Exforge.

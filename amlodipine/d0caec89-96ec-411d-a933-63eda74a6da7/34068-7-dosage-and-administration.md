@@ -3,7 +3,7 @@
 ## 2.1 General Considerations
 
 Dose once daily.
-The dosage can be increased after 1 to 2 weeks of therapy to a maximum of one 10/320mg tablet once daily as needed to control blood pressure.
+The dosage can be increased after 1 to 2 weeks of therapy to a maximum of one 10/320 mg tablet once daily as needed to control blood pressure.
 The majority of the antihypertensive effect is attained within 2 weeks after initiation of therapy or a change in dose.
 
 Exforge may be administered with or without food.
