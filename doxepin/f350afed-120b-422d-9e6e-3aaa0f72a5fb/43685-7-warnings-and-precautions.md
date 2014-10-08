@@ -1,6 +1,6 @@
 # WARNINGS
 
-WARNINGS-Clinical Worsening and Suicide Risk Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
+Clinical Worsening and Suicide Risk Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
@@ -34,20 +34,19 @@ Although a causal link between the emergence of such symptoms and either the wor
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for Doxepin Hydrochloride Oral Solution should be written for the smallest quantity of liquid consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for Doxepin Hydrochloride Oral Solution should be written for the smallest quantity consistent with good patient management, in order to reduce the risk of overdose.
 Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Doxepin Hydrochloride Oral Solution is not approved for use in treating bipolar depression.
-The once-a-day dosage regimen of doxepin in patients with intercurrent illness or patients taking other medications should be carefully adjusted.
-This is especially important in patients receiving other medications with anticholinergic effects.
+Angle-Closure GlaucomaThe pupillary dilation that occurs following use of many antidepressant drugs including Doxepin Hydrochloride Oral Solution may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 Usage in Geriatrics: The use of doxepin on a once-a-day dosage regimen in geriatric patients should be adjusted carefully based on the patient's condition - (see PRECAUTIONS – Geriatric Use).
 Usage in Pregnancy: Reproduction studies have been performed in rats, rabbits, monkeys and dogs and there was no evidence of harm to the animal fetus.
 The relevance to humans is not known.
 Since there is no experience in pregnant women who have received this drug, safety in pregnancy has not been established.
 There has been a report of apnea and drowsiness occurring in a nursing infant whose mother was taking doxepin.
-Usage in Children: The use of doxepin hydrochloride oral solution in children under 12 years of age is not recommended because safe conditions for its use have not been established.
+Usage in pediatric patients: The use of doxepin hydrochloride oral solution in children under 12 years of age is not recommended because safe conditions for its use have not been established.
 
 # PRECAUTIONS
 
@@ -60,6 +59,11 @@ Patients should be given the opportunity to discuss the contents of the Medicati
 The complete text of the Medication Guide is reprinted at the end of this document.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking Doxepin Hydrochloride Oral Solution.
+
+Patients should be advised that taking Doxepin Hydrochloride Oral Solution can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle- closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle- closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
 Clinical Worsening and Suicide Risk: Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
