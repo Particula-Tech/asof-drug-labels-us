@@ -9,4 +9,4 @@ Doxazosin mesylate tablet is freely soluble in dimethylsulfoxide, soluble in dim
 Doxazosin mesylate tablet is available as colored tablets for oral use and contains 1 mg (white), 2 mg (yellow), 4 mg (orange) and 8 mg (green) of doxazosin as the free base.
 
 The inactive ingredients for all tablets are: microcrystalline cellulose, lactose, sodium starch glycolate, magnesium stearate and sodium lauryl sulfate.
-The 2 mg tablet contains D & C yellow 10 and FD & C yellow 6; the 4 mg tablet contains FD & C yellow 6; the 8 mg tablet contains FD & C blue 10 and D & C yellow 10.
+The 2 mg tablet contains D & C yellow 10 and FD & C yellow 6; the 4 mg tablet contains FD & C yellow 6; the 8 mg tablet contains FD & C blue 2 and D & C yellow 10.
