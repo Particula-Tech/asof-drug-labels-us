@@ -38,8 +38,7 @@ Hydrochlorothiazide: Thiazide diuretics have been reported to cause exacerbation
 ## 5.6 Lithium Interaction
 
 Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of valsartan or thiazide diuretics.
-Monitor lithium levels in patients receiving Diovan HCT and lithium.
-[see Drug Interactions (7)].
+Monitor lithium levels in patients receiving Diovan HCT and lithium [see Drug Interactions (7)].
 
 ## 5.7 Potassium Abnormalities
 

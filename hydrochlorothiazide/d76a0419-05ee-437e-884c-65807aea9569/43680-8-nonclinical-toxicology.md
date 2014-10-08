@@ -21,7 +21,7 @@ Hydrochlorothiazide: Two-year feeding studies in mice and rats conducted under t
 The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
 
 Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella Typhimurium strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
-Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 mcgm/mL, and in the Aspergillus Nidulans non-disjunction assay at an unspecified concentration.
+Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 mcg/mL, and in the Aspergillus Nidulans non-disjunction assay at an unspecified concentration.
 
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to mating and throughout gestation.
 These doses of hydrochlorothiazide in mice and rats represent 19 and 1.5 times, respectively, the MRHD on a mg/m2 basis.
