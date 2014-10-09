@@ -27,7 +27,7 @@ The most commonly reported adverse reactions (>5%) across CLOZARIL clinical tria
 Table 8 summarizes the most commonly reported adverse reactions (>5%) in CLOZARIL-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
 
 Table 8.
-Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
+Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-Controlled Trial in Treatment-Resistant Schizophrenia
 
 | Adverse Reaction | CLOZARIL (N=126) (%) | Chlorpromazine (N=142) (%) |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Adverse Reactions (≥2%) Reported in CLOZARIL-treated Patients (N=842) Across a
 | Miscellaneous |  |
 | Fever | 5 |
 | Weight Gain | 4 |
-| † Rate based on population of approximately 1700 exposed during premarket clinical evaluation of CLOZARIL. |  |
+| †Rate based on population of approximately 1700 exposed during premarket clinical evaluation of CLOZARIL. |  |
 
 Table 10 summarizes the most commonly reported adverse reactions (>10% of the CLOZARIL or olanzapine group) in the InterSePTTM Study.
 This was an adequate and well-controlled, 2-year study evaluating the efficacy of CLOZARIL relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
@@ -135,23 +135,27 @@ Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolong
 
 Gastrointestinal System
 
-Acute pancreatitis, dysphagia, salivary gland swelling.
+Acute pancreatitis, dysphagia, salivary gland swelling, colitis.
 
 Hepatobiliary System
 
 Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 
+Immune System Disorders
+
+Angioedema, leukocytoclastic vasculitis.
+
 Urogenital System
 
 Acute interstitial nephritis, nocturnal enuresis, priapism, and renal failure.
 
-Skin
+Skin and Subcutaneous Tissue Disorders
 
-Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, and Stevens-Johnson Syndrome.
+Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson Syndrome.
 
-Musculoskeletal System
+Musculoskeletal System and Connective Tissue Disorders
 
-Myasthenic syndrome and rhabdomyolysis.
+Myasthenic syndrome, rhabdomyolysis, and systemic lupus erythematosus.
 
 Respiratory System
 

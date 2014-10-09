@@ -8,7 +8,7 @@ Prior to initiating treatment with CLOZARIL, obtain a baseline white blood cell 
 The ANC must be greater than or equal to 2000/mm3 and the WBC must be greater than or equal to 3500/mm3 for a patient to begin treatment with CLOZARIL.
 During treatment, patients must have regular monitoring of ANC and WBC.
 Discontinue CLOZARIL and do not rechallenge if the ANC is less than 1000/mm3 or the WBC is less than 2000/mm3.
-Advise patients to immediately report symptoms consistent with agranulocytosis or infection (e.g., fever, weakness, lethargy, or sore throat) [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)].
+Advise patients to immediately report symptoms consistent with agranulocytosis or infection (e.g., fever, weakness, lethargy, or sore throat) [see Dosage and Administration (2.1), Warnings and Precautions (5.1)].
 
 Because of the risk of agranulocytosis, CLOZARIL is available only through a restricted program called the CLOZARIL National Registry.
 Under the CLOZARIL National Registry, prescribers, patients, and pharmacies must enroll in the program [see Warnings and Precautions (5.2)].
@@ -19,7 +19,7 @@ Orthostatic hypotension, bradycardia, syncope, and cardiac arrest have occurred 
 The risk is highest during the initial titration period, particularly with rapid dose escalation.
 These reactions can occur with the first dose, with doses as low as 12.5 mg per day.
 Initiate treatment at 12.5 mg once or twice daily; titrate slowly; and use divided dosages.
-Use CLOZARIL cautiously in patients with cardiovascular or cerebrovascular disease or conditions predisposing to hypotension (e.g., dehydration, use of antihypertensive medications) [see Dosage and Administration (2.2, and 2.5) and Warnings and Precautions (5.3)].
+Use CLOZARIL cautiously in patients with cardiovascular or cerebrovascular disease or conditions predisposing to hypotension (e.g., dehydration, use of antihypertensive medications) [see Dosage and Administration (2.2, 2.5), Warnings and Precautions (5.3)].
 
 Seizures
 

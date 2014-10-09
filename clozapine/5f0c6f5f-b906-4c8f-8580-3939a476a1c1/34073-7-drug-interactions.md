@@ -38,7 +38,7 @@ Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasi
 
 ## 7.2 Potential for CLOZARIL to Affect Other Drugs
 
-Concomitant use of CLOZARIL with other drugs metabolized by CYP2D6 can increase levels of these CYPD26 substrates.
+Concomitant use of CLOZARIL with other drugs metabolized by CYP2D6 can increase levels of these CYP2D6 substrates.
 Use caution when coadministering CLOZARIL with other drugs that are metabolized by CYP2D6.
 It may be necessary to use lower doses of such drugs than usually prescribed.
 Such drugs include specific antidepressants, phenothiazines, carbamazepine, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide).

@@ -42,15 +42,15 @@ Frequency of Monitoring Based on Stage of Therapy or Results from WBC Count and 
 
 | Situation | Hematological Values for Monitoring | Frequency of WBC Count and ANC Monitoring |
 | --- | --- | --- |
-| Initiation of therapy | WBC count≥3500/mm3 and ANC≥2000/mm3 Note: Do not initiate in patients with a history of clozapine-induced agranulocytosis or severe granulocytopenia. | Weekly for 6 months |
+| Initiation of therapy | WBC count ≥3500/mm3 and ANC ≥2000/mm3 Note: Do not initiate in patients with a history of clozapine-induced agranulocytosis or severe granulocytopenia. | Weekly for 6 months |
 | 6 to 12 months of therapy | WBC ≥3500/mm3 and ANC ≥2000/mm3 | Every 2 weeks for 6 months |
 | 12 months of therapy | WBC ≥3500/mm3 and ANC ≥2000/mm3 | Every 4 weeks ad infinitum |
 | Immature forms present | N/A | Repeat WBC and ANC |
 | Discontinuation of therapy | N/A | Weekly for at least 4 weeks from day of discontinuation or until WBC ≥3500/mm3 and ANC ≥2000/mm3 |
-| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of: WBC ≥3000/mm3 or ANC ≥1500/mm3 | Repeat WBC and ANC If repeat values are: WBC 3000/mm3 to 3500 and ANC >2000/mm3, then monitor twice weekly |
+| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of: WBC ≥3000/mm3 or ANC ≥1500/mm3 | Repeat WBC and ANC If repeat values are: WBC 3000/mm3 to 3500 and ANC <2000/mm3, then monitor twice weekly |
 | Mild leukopenia and/or Mild granulocytopenia | If WBC 3000 mm3 to <3500/mm3 and/or ANC 1500/mm3 to <2000/mm3 | Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 then return to previous monitoring frequency |
 | Moderate leukopenia and/or Moderate granulocytopenia | WBC 2000/mm3 to <3000/mm3 and/or ANC 1000/mm3 to <1500/mm3 | Interrupt therapy Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 May rechallenge when WBC >3500/mm3 and ANC >2000/mm3 If rechallenged, monitor weekly for 1 year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
-| Severe leukopenia and/or Severe granulocytopenia | WBC count <2000/mm3 and/or ANC <1000/mm3 | Discontinue treatment and do not rechallenge patient Monitor until normal and for at least 4 weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3Twice weekly until WBC >3500/mm3 and ANC >2000/mm3Weekly after WBC >3500/mm3 |
+| Severe leukopenia and/or Severe granulocytopenia | WBC count <2000/mm3 and/or ANC <1000/mm3 | Discontinue treatment and do not rechallenge patient Monitor until normal and for at least 4 weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3Twice weekly until WBC >3500/mm3 and ANC > 2000/mm3Weekly after WBC >3500/mm3 |
 | Agranulocytosis | ANC <500/mm3 | Discontinue treatment and do not rechallenge patient Monitor until normal and for at least 4 weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3Twice weekly until WBC >3500/mm3 and ANC >2000/mm3Weekly after WBC >3500/mm3 |
 | WBC=White blood cell |  |  |
 | ANC=Absolute neutrophil count |  |  |
@@ -186,7 +186,7 @@ If patients experience symptoms consistent with Torsades de Pointes, or other ar
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of CLOZARIL.
 Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmic medications (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
 Clozapine is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
-Concomitant treatment with inhibitors of these enzymes can increase the concentration of CLOZARIL [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Concomitant treatment with inhibitors of these enzymes can increase the concentration of CLOZARIL [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 Hypokalemia and hypomagnesemia increase the risk of QT prolongation.
 Hypokalemia can result from diuretic therapy, diarrhea, and other causes.
@@ -240,7 +240,8 @@ No data were collected on LDL and HDL cholesterol.
 The mean increase in total cholesterol was 13 mg/dL in the CLOZARIL group and 15 mg/dL in the chlorpromazine group.
 In a pooled data analysis of 2 studies in adult subjects with schizophrenia, CLOZARIL treatment was associated with increases in fasting serum triglyceride.
 The mean increase in fasting triglyceride was 71 mg/dL (54%) in the CLOZARIL group and 39 mg/dL (35%) in the chlorpromazine group (Table 4).
-In addition, CLOZARIL treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 5.The proportion of patients with categorical increases in total cholesterol or fasting triglyceride increased with the duration of exposure.
+In addition, CLOZARIL treatment was associated with categorical increases in serum total cholesterol and triglyceride, as illustrated in Table 5.
+The proportion of patients with categorical increases in total cholesterol or fasting triglyceride increased with the duration of exposure.
 The median duration of CLOZARIL and chlorpromazine exposure was 45 days and 38 days, respectively.
 The CLOZARIL dose range was 100 mg to 900 mg daily; the maximum chlorpromazine dose was 1800 mg daily.
 
@@ -250,7 +251,7 @@ Mean Changes in Total Cholesterol and Triglyceride Concentration in Studies in A
 | Treatment Arm | Baseline total cholesterol concentration (mg/dL) | Change from baseline mg/dL (%) |
 | --- | --- | --- |
 | CLOZARIL (N=334) | 184 | +13 (7) |
-| Chlorpromazine (185) | 182 | +15 (8) |
+| Chlorpromazine (N=185) | 182 | +15 (8) |
 |  | Baseline triglyceride concentration (mg/dL) | Change from baseline mg/dL (%) |
 | CLOZARIL (N=6) | 130 | +71 (54) |
 | Chlorpromazine (N=7) | 110 | +39 (35) |
@@ -264,7 +265,7 @@ Categorical Changes in Lipid Concentrations in Studies in Adult Subjects with Sc
 | Chlorpromazine | 185 | 46 (25) |  |  |
 | Normal (<200 mg/dL) to High (≥240 mg/dL) | CLOZARIL | 222 | 18 (8) |  |
 | Chlorpromazine | 132 | 3 (2) |  |  |
-| Borderline (200-239 mg/dL) to High (≥240 mg/dL) | CLOZARIL | 79 | 30 (38) |  |
+| Borderline (200 - 239 mg/dL) to High (≥240 mg/dL) | CLOZARIL | 79 | 30 (38) |  |
 | Chlorpromazine | 34 | 14 (41) |  |  |
 | Triglycerides (fasting) | Increase by ≥50 mg/dL | CLOZARIL | 6 | 3 (50) |
 | Chlorpromazine | 7 | 3 (43) |  |  |
@@ -281,7 +282,7 @@ Table 6 summarizes the data on weight gain by the duration of exposure pooled fr
 The median duration of exposure was 609, 728, and 42 days, in the CLOZARIL, olanzapine, and chlorpromazine group, respectively.
 
 Table 6.
-Mean Change in Body Weight (kg) by duration of exposure from studies in adult subjects with schizophrenia
+Mean Change in Body Weight (kg) by Duration of Exposure from Studies in Adult Subjects with Schizophrenia
 
 | Metabolic parameter | Exposure duration | CLOZARIL (N=669) |  | Olanzapine (N=442) |  | Chlorpromazine (N=155) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -290,7 +291,7 @@ Mean Change in Body Weight (kg) by duration of exposure from studies in adult su
 | 4 weeks (Day 21–35) | 23 | +0.7 | 8 | +0.8 | 17 | +0.6 |  |
 | 8 weeks (Day 49–63) | 12 | +1.9 | 13 | +1.8 | 16 | +0.9 |  |
 | 12 weeks (Day 70–98) | 17 | +2.8 | 5 | +3.1 | 0 | 0 |  |
-| 24 weeks (154–182) | 42 | - 0.6 | 12 | +5.7 | 0 | 0 |  |
+| 24 weeks (Day 154–182) | 42 | -0.6 | 12 | +5.7 | 0 | 0 |  |
 | 48 weeks (Day 322–350) | 3 | +3.7 | 3 | +13.7 | 0 | 0 |  |
 
 Table 7 summarizes pooled data from 11 studies in adult subjects with schizophrenia demonstrating weight gain ≥7% of body weight relative to baseline.
