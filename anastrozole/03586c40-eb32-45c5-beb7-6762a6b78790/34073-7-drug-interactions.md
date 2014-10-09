@@ -15,7 +15,7 @@ Estrogen-containing therapies should not be used with anastrozole as they may di
 
 ## 7.3 Warfarin
 
-In a study conducted in 16 male volunteers, anastrozole did not alter the exposure (as measured by Cmax and AUC), and anticoagulant activity (as measured by prothrombin time, activated partial thromboplastin time, and thrombin time) of both R- and S-warfarin.
+In a study conducted in 16 male volunteers, anastrozole did not alter the exposure (as measured by C max and AUC), and anticoagulant activity (as measured by prothrombin time, activated partial thromboplastin time, and thrombin time) of both R- and S-warfarin.
 
 ## 7.4 Cytochrome P450
 

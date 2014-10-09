@@ -7,9 +7,9 @@ Manufactured By:
 Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta. - Sanand, Dist.- Ahmedabad – 382 210.
 India.
 
-10 1557 4 646965
+10 1557 5 654728
 
-Issued June 2013
+Issued June 2014
 
 Patient Information
 
@@ -102,7 +102,7 @@ What are the possible side effects of anastrozole tablets?
 
 Anastrozole tablets may cause serious side effects including:
 
-- See “What is the most important information I should know about anastrozole tablet ?”
+- See “ What is the most important information I should know about anastrozole tablet ?”
 - bone thinning or weakness (osteoporosis).
   Anastrozole lowers estrogen in your body, which may cause your bones to become thinner and weaker.
   This may increase your risk of fractures, especially of your spine, hip and wrist.
@@ -145,6 +145,8 @@ Common side effects in women taking anastrozole tablets include:
   - shortness of breath
   - build up of lymph fluid in the tissues of your affected arm (lymphedema)
 
+Anastrozole tablets may also cause you to have tickling, tingling or numbness of your skin.
+
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
 - These are not all the possible side effects of anastrozole tablets.
@@ -185,6 +187,6 @@ Manufactured By:
 Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta. - Sanand, Dist.- Ahmedabad – 382 210.
 India.
 
-10 1557 4 646965
+10 1557 5 654728
 
-Issued June 2013
+Issued June 2014

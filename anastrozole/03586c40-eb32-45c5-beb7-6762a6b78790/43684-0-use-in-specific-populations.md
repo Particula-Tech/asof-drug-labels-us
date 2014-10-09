@@ -10,11 +10,11 @@ In animal studies, anastrozole caused pregnancy failure, increased pregnancy los
 There are no studies of anastrozole use in pregnant women.
 If anastrozole is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus and potential risk for pregnancy loss.
 
-In animal reproduction studies, pregnant rats and rabbits received anastrozole during organogenesis at doses equal to or greater than 1 (rats) and 1/3 (rabbits) the recommended human dose on a mg/m2 basis.
+In animal reproduction studies, pregnant rats and rabbits received anastrozole during organogenesis at doses equal to or greater than 1 (rats) and 1/3 (rabbits) the recommended human dose on a mg/m 2 basis.
 In both species, anastrozole crossed the placenta, and there was increased pregnancy loss (increased pre- and/or post-implantation loss, increased resorption, and decreased numbers of live fetuses).
 In rats, these effects were dose related, and placental weights were significantly increased.
-Fetotoxicity, including delayed fetal development (i.e., incomplete ossification and depressed fetal body weights), occurred in rats at anastrozole doses that produced peak plasma levels 19 times higher than serum levels in humans at the therapeutic dose (AUC0-24hr 9 times higher).
-In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 16 times the recommended human dose on a mg/m2 basis [see Animal Toxicology and/or Pharmacology (13.2)].
+Fetotoxicity, including delayed fetal development (i.e., incomplete ossification and depressed fetal body weights), occurred in rats at anastrozole doses that produced peak plasma levels 19 times higher than serum levels in humans at the therapeutic dose (AUC 0-24hr 9 times higher).
+In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 16 times the recommended human dose on a mg/m 2 basis [see Animal Toxicology and/or Pharmacology (13.2)].
 
 ## 8.3 Nursing Mothers
 
@@ -36,7 +36,7 @@ Serum estradiol concentrations at Month 6 of treatment were reduced by 15.4% in 
 
 Adverse reactions that were assessed as treatment-related by the investigators occurred in 16.3% of the anastrozole-treated patients and 8.1% of the placebo-treated patients with the most frequent being acne (7% anastrozole and 2.7% placebo) and headache (7% anastrozole and 0% placebo); all other adverse reactions showed small differences between treatment groups.
 One patient treated with anastrozole discontinued the trial because of testicular enlargement.
-The mean baseline-subtracted change in testicular volume after 6 months of treatment was + 6.6 ± 7.9 cm3 in the anastrozole-treated patients and + 5.2 ± 8.0 cm3 in the placebo group.
+The mean baseline-subtracted change in testicular volume after 6 months of treatment was + 6.6 ± 7.9 cm 3 in the anastrozole-treated patients and + 5.2 ± 8.0 cm 3 in the placebo group.
 
 McCune-Albright Syndrome Study
 

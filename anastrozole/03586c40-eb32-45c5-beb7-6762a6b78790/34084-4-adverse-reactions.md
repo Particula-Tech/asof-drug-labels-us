@@ -3,7 +3,7 @@
 Serious adverse reactions with anastrozole occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
 This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see Adverse Reactions (6.2)].
 
-Common adverse reactions (occurring with an incidence of ≥10%) in women taking anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
+Common adverse reactions (occurring with an incidence of ≥10%) in women taking anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
 In the ATAC trial, the most common reported adverse reaction (>0.1%) leading to discontinuation of therapy for both treatment groups was hot flashes, although there were fewer patients who discontinued therapy as a result of hot flashes in the anastrozole group.
 
@@ -18,9 +18,9 @@ The median duration of adjuvant treatment for safety evaluation was 59.8 months 
 
 Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment or within 14 days of the end of treatment are presented in Table 1.
 
-Table 1 - Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trialThe combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
+Table 1 - Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trial The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
 
-| Body system and adverse reactions byCOSTARTCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.preferred termA patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | Anastrozole 1 mg(NN=Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg(N = 3094) |
+| Body system and adverse reactions byCOSTART COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.preferred term A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | Anastrozole 1 mg(N N=Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg(N = 3094) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |
@@ -82,17 +82,17 @@ Table 1 - Adverse reactions occurring with an incidence of at least 5% in either
 | Breast pain | 251 (8) | 169 (6) |
 | Breast Neoplasm | 164 (5) | 139 (5) |
 | Vulvovaginitis | 194 (6) | 150 (5) |
-| Vaginal HemorrhageVaginal Hemorrhage without further diagnosis. | 122 (4) | 180 (6) |
+| Vaginal Hemorrhage Vaginal Hemorrhage without further diagnosis. | 122 (4) | 180 (6) |
 | Vaginitis | 125 (4) | 158 (5) |
 
 Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (see Table 2).
 
-Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC TrialPatients with multiple events in the same category are counted only once in that category.
+Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC Trial Patients with multiple events in the same category are counted only once in that category.
 
 |  | AnastrozoleN=3092(%) | TamoxifenN=3094(%) | Odds-ratio | 95% CI |
 | --- | --- | --- | --- | --- |
 | Hot Flashes | 1104 (36) | 1264 (41) | 0.80 | 0.73 to 0.89 |
-| Musculoskeletal EventsRefers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 1100 (36) | 911 (29) | 1.32 | 1.19 to 1.47 |
+| Musculoskeletal Events Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 1100 (36) | 911 (29) | 1.32 | 1.19 to 1.47 |
 | Fatigue/Asthenia | 575 (19) | 544 (18) | 1.07 | 0.94 to 1.22 |
 | Mood Disturbances | 597 (19) | 554 (18) | 1.10 | 0.97 to 1.25 |
 | Nausea and Vomiting | 393 (13) | 384 (12) | 1.03 | 0.88 to 1.19 |
@@ -108,7 +108,7 @@ Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC Tria
 | Venous Thromboembolic events | 87 (3) | 140 (5) | 0.61 | 0.47 to 0.80 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 to 0.93 |
 | Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.70 | 0.50 to 0.97 |
-| Endometrial CancerPercentages calculated based upon the numbers of patients with an intact uterus at baseline | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 to 0.94 |
+| Endometrial Cancer Percentages calculated based upon the numbers of patients with an intact uterus at baseline | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 to 0.94 |
 
 Ischemic Cardiovascular Events
 
@@ -177,9 +177,9 @@ Adverse reactions occurring with an incidence of at least 5% in either treatment
 
 Table 3 — Adverse Reactions Occurring with an Incidence of at Least 5% in Trials 0030 and 0027
 
-|  | Anastrozole(n=506) | Tamoxifen(n=511) |
+|  | Anastrozole(N=506) | Tamoxifen(N=511) |
 | --- | --- | --- |
-| Body system Adverse ReactionA patient may have had more than 1 adverse event. | Number (%) of subjects |  |
+| Body system Adverse Reaction A patient may have had more than 1 adverse event. | Number (%) of subjects |  |
 | Whole body |  |  |
 | Asthenia | 83 (16) | 81 (16) |
 | Pain | 70 (14) | 73 (14) |
@@ -223,14 +223,14 @@ No significant differences were seen between treatment groups.
 
 Table 4 — Number of Patients with Pre-specified Adverse Reactions in Trials 0030 and 0027
 
-| Adverse ReactionA patient may have had more than 1 adverse reaction. | Anastrozole1 mg(n=506)n (%) | NOLVADEX20 mg(n=511)n (%) |
+| Adverse Reaction A patient may have had more than 1 adverse reaction. | Anastrozole1 mg(N=506)n (%) | NOLVADEX20 mg(N=511)n (%) |
 | --- | --- | --- |
 |  | Number (n) and Percentage of Patients |  |
 | Depression | 23 (5) | 32 (6) |
 | Tumor Flare | 15 (3) | 18 (4) |
-| Thromboembolic DiseaseIncludes pulmonary embolus, thrombophlebitis, retinal vein thrombosis. | 18 (4) | 33 (6) |
+| Thromboembolic Disease Includes pulmonary embolus, thrombophlebitis, retinal vein thrombosis. | 18 (4) | 33 (6) |
 | Venous | 5 | 15 |
-| Coronary and CerebralIncludes myocardial infarction, myocardial ischemia, angina pectoris, cerebrovascular accident, cerebral ischemia and cerebral infarct. | 13 | 19 |
+| Coronary and Cerebral Includes myocardial infarction, myocardial ischemia, angina pectoris, cerebrovascular accident, cerebral ischemia and cerebral infarct. | 13 | 19 |
 | Gastrointestinal Disturbance | 170 (34) | 196 (38) |
 | Hot Flushes | 134 (26) | 118 (23) |
 | Vaginal Dryness | 9 (2) | 3 (1) |
@@ -245,13 +245,13 @@ Anastrozole was tolerated in two controlled clinical trials (i.e., Trials 0004 a
 The principal adverse reaction more common with anastrozole than megestrol acetate was diarrhea.
 Adverse reactions reported in greater than 5% of the patients in any of the treatment groups in these two controlled clinical trials, regardless of causality, are presented below:
 
-Table 5 — Number (N) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005A patient may have had more than one adverse reaction
+Table 5 — Number (N) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005 A patient may have had more than one adverse reaction
 
 | n | % | n | % | n | % |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reaction | Anastrozole |  | Anastrozole |  | Megesterol Acetate |  |
 | 1 mg |  | 10 mg |  | 160 mg |  |  |
-| (n=262) |  | (n=246) |  | (n=253) |  |  |
+| (N=262) |  | (N=246) |  | (N=253) |  |  |
 | Asthenia | 42 | (16) | 33 | (13) | 47 | (19) |
 | Nausea | 41 | (16) | 48 | (20) | 28 | (11) |
 | Headache | 34 | (13) | 44 | (18) | 24 | (9) |
