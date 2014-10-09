@@ -138,4 +138,4 @@ Table 10: Secondary Measures of Effectiveness in Study 4
 | AZILECT 1 mg | 19.0 | -2.61 |
 | UPDRS Motor subscale score while “ON” |  |  |
 | Placebo | 23.5 | -0.82 |
-| AZILECT 1 mg | 23.8 | -3.8 |
+| AZILECT 1 mg | 23.8 | -3.87 |

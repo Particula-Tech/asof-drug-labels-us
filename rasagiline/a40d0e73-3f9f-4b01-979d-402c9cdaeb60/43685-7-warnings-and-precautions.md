@@ -63,7 +63,7 @@ AZILECT should not be used in patients with moderate or severe hepatic impairmen
 
 ## 5.6 Hypotension / Orthostatic Hypotension
 
-In Study 3, the incidence of orthostatic hypotension consisting of a systolic blood pressure decrease (≥30 mm Hg) or a diastolic blood pressure decrease (> 20 mm Hg) after standing was 13% with AZILECT (1 mg/day) compared to 9% with placebo [see Adverse Reactions (6.1)].
+In Study 3, the incidence of orthostatic hypotension consisting of a systolic blood pressure decrease (≥ 30 mm Hg) or a diastolic blood pressure decrease (> 20 mm Hg) after standing was 13% with AZILECT (1 mg/day) compared to 9% with placebo [see Adverse Reactions (6.1)].
 
 At the 1 mg dose, the frequency of orthostatic hypotension (at any time during the study) was approximately 44% for AZILECT vs 33% for placebo for mild to moderate systolic blood pressure decrements (> 20 mm Hg), 40% for AZILECT vs 33% for placebo for mild to moderate diastolic blood pressure decrements (> 10 mm Hg), 7% for AZILECT vs 3% for placebo for severe systolic blood pressure decrements (> 40 mm Hg), and 9% for AZILECT vs 6% for placebo for severe diastolic blood pressure decrements (≥ 20 mm Hg).
 There was also an increased risk for some of these abnormalities at the lower 0.5 mg daily dose and for an individual patient having mild to moderate or severe orthostatic hypotension for both systolic and diastolic blood pressure.
