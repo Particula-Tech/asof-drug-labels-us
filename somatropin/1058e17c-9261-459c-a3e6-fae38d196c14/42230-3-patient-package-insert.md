@@ -344,11 +344,11 @@ Figure O
   Put your used needles and Pen in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - omade of a heavy-duty plastic,
-  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - oupright and stable during use,
-  - oleak-resistant, and
-  - oproperly labeled to warn of hazardous waste inside the container.
+  - •made of a heavy-duty plastic,
+  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - •upright and stable during use,
+  - •leak-resistant, and
+  - •properly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and Pens.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
@@ -620,11 +620,11 @@ Figure O
   Put your used needles and Pen in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - omade of a heavy-duty plastic,
-  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - oupright and stable during use,
-  - oleak-resistant, and
-  - oproperly labeled to warn of hazardous waste inside the container.
+  - •made of a heavy-duty plastic,
+  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - •upright and stable during use,
+  - •leak-resistant, and
+  - •properly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and Pens.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
@@ -894,11 +894,11 @@ Figure O
   Put your used needles and Pen in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - omade of a heavy-duty plastic,
-  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - oupright and stable during use,
-  - oleak-resistant, and
-  - oproperly labeled to warn of hazardous waste inside the container.
+  - •made of a heavy-duty plastic,
+  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - •upright and stable during use,
+  - •leak-resistant, and
+  - •properly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and Pens.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
@@ -1168,11 +1168,11 @@ Figure O
   Put your used needles and Pen in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - omade of a heavy-duty plastic,
-  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - oupright and stable during use,
-  - oleak-resistant, and
-  - oproperly labeled to warn of hazardous waste inside the container.
+  - •made of a heavy-duty plastic,
+  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - •upright and stable during use,
+  - •leak-resistant, and
+  - •properly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and Pens.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.

@@ -28,7 +28,7 @@ Table 10 - Storage Options
 | Norditropin Product Formulation | Before Use | In-use (After 1st injection) |  |
 | --- | --- | --- | --- |
 | Storage requirement | Storage Option 1(Refrigeration) | Storage Option 2(Room temperature) |  |
-| 5 mg | 2-8 ºC/36-46 ºF Until exp date | 2-8 ºC/36-46 ºF4 weeks | Up to 25ºC/77ºF3 weeks |
+| 5 mg | 2-8ºC/36-46ºF Until exp date | 2-8ºC/36-46ºF4 weeks | Up to 25ºC/77ºF3 weeks |
 | 10 mg |  |  |  |
 | 15 mg |  |  |  |
 | 30 mg |  |  |  |

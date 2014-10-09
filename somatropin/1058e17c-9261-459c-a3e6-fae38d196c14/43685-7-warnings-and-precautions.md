@@ -17,13 +17,15 @@ Norditropin is not indicated for the treatment of pediatric patients who have gr
 
 ## 5.3 Neoplasms
 
-Patients with preexisting tumors or GHD secondary to an intracranial lesion should be monitored routinely for progression or recurrence of the underlying disease process.
-In pediatric patients, clinical literature has revealed no relationship between somatropin replacement therapy and central nervous system (CNS) tumor recurrence or new extracranial tumors.
-However, in childhood cancer survivors, an increased risk of a second neoplasm has been reported in patients treated with somatropin after their first neoplasm.
-Intracranial tumors, in particular meningiomas, in patients treated with radiation to the head for their first neoplasm, were the most common of these second neoplasms.
-In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence.
+In childhood cancer survivors who were treated with radiation to the brain/head for their first neoplasm and who developed subsequent GHD and were treated with somatropin, an increased risk of a second neoplasm has been reported.
+Intracranial tumors, in particular meningiomas, were the most common of these second neoplasms.
+In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence [see Contraindications (4.3)].
+Monitor all patients with a history of GHD secondary to an intracranial neoplasm routinely while on somatropin therapy for progression or recurrence of the tumor.
 
-Patients should be monitored carefully for potential malignant transformation of skin lesions, i.e. increased growth of preexisting nevi.
+Because children with certain rare genetic causes of short stature have an increased risk of developing malignancies, practitioners should thoroughly consider the risks and benefits of starting somatropin in these patients.
+If treatment with somatropin is initiated, these patients should be carefully monitored for development of neoplasms.
+
+Monitor patients on somatropin therapy carefully for increased growth, or potential malignant changes, of preexisting nevi.
 
 ## 5.4 Impaired Glucose Tolerance and Diabetes Mellitus
 
