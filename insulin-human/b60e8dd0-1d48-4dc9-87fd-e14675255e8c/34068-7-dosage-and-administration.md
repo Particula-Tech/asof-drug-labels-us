@@ -74,6 +74,6 @@ Divide prescribed Dose (actual units) by 500 = Volume (mL) in a tuberculin syrin
 Not in-use (unopened): Humulin R U-500 vials not in-use should be stored in a refrigerator, (2° to 8°C [36° to 46°F]), but not in the freezer.
 
 In-use (opened): The Humulin R U-500 vial currently in-use can be kept unrefrigerated as long as it is kept as cool as possible (below 30°C [86°F]) away from heat and light.
-In-use vials must be used within 31 days or be discarded, even if they still contain Humulin R U-500.
+In-use vials must be used within 40 days or be discarded, even if they still contain Humulin R U-500.
 
 Do not use Humulin R U-500 after the expiration date stamped on the label or if it has been frozen.

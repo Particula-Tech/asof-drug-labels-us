@@ -234,8 +234,8 @@ Opened (in-use) vial of Humulin R U-500:
 
 - Keep opened vial of Humulin R U-500 in the refrigerator or at room temperature below 86°F (30°C).
 - Keep Humulin R U-500 away from heat and direct sunlight.
-- The opened vial must be used within 31 days of opening.
-  Throw away any opened vial after 31 days of use, even if there is insulin left in the vial.
+- The opened vial must be used within 40 days of opening.
+  Throw away any opened vial after 40 days of use, even if there is insulin left in the vial.
 - Do not use Humulin R U-500 after the expiration date stamped on the label.
 
 Keep Humulin R U-500 and all medicines out of the reach of children.
@@ -261,8 +261,8 @@ Inactive ingredients: glycerin, metacresol, zinc oxide, water for injection, sod
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Patient Information revised March 9, 2013
+Patient Information revised September 23, 2014
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-PA 8902 AMP
+LINR500-0001-PPI-20140923
