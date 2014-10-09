@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Allergic Asthma
+Asthma
 
 Omalizumab inhibits the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of mast cells and basophils.
 Reduction in surface-bound IgE on FcεRI-bearing cells limits the degree of release of mediators of the allergic response.
@@ -16,7 +16,7 @@ The mechanism by which these effects of omalizumab result in an improvement of C
 
 ## 12.2 Pharmacodynamics
 
-Allergic Asthma
+Asthma
 
 In clinical studies, serum free IgE levels were reduced in a dose dependent manner within 1 hour following the first dose and maintained between doses.
 Mean serum free IgE decrease was greater than 96% using recommended doses.
@@ -27,7 +27,7 @@ Total IgE levels did not return to pre-treatment levels for up to one year after
 
 Chronic Idiopathic Urticaria
 
-In clinical studies in CIU patients, Xolair treatment led to a dose-dependent reduction of serum free IgE and an increase of serum total IgE levels, similar to the observations in allergic asthma patients.
+In clinical studies in CIU patients, Xolair treatment led to a dose-dependent reduction of serum free IgE and an increase of serum total IgE levels, similar to the observations in asthma patients.
 Maximum suppression of free IgE was observed 3 days following the first subcutaneous dose.
 After repeat dosing once every 4 weeks, predose serum free IgE levels remained stable between 12 and 24 weeks of treatment.
 Total IgE levels in serum increased after the first dose due to the formation of omalizumab-IgE complexes which have a slower elimination rate compared with free IgE.
@@ -60,9 +60,9 @@ In CIU patients, at steady state, based on population pharmacokinetics, omalizum
 
 Special Populations
 
-Allergic Asthma
+Asthma
 
-The population pharmacokinetics of omalizumab was analyzed to evaluate the effects of demographic characteristics in patients with allergic asthma.
+The population pharmacokinetics of omalizumab was analyzed to evaluate the effects of demographic characteristics in patients with asthma.
 Analyses of these data suggested that no dose adjustments are necessary for age (12-76 years), race, ethnicity, or gender.
 
 Chronic Idiopathic Urticaria

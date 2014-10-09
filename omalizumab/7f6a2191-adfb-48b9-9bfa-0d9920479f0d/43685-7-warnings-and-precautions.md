@@ -2,10 +2,10 @@
 
 ## 5.1 Anaphylaxis
 
-Anaphylaxis has been reported to occur after administration of Xolair in premarketing clinical trials and in postmarketing spontaneous reports.
+Anaphylaxis has been reported to occur after administration of Xolair in premarketing clinical trials and in postmarketing spontaneous reports [see Boxed Warning and Adverse Reactions (6.3)].
 Signs and symptoms in these reported cases have included bronchospasm, hypotension, syncope, urticaria, and/or angioedema of the throat or tongue.
 Some of these events have been life-threatening.
-In premarketing clinical trials in allergic asthma, anaphylaxis was reported in 3 of 3507 (0.1%) patients in clinical trials.
+In premarketing clinical trials in patients with asthma, anaphylaxis was reported in 3 of 3507 (0.1%) patients.
 Anaphylaxis occurred with the first dose of Xolair in two patients and with the fourth dose in one patient.
 The time to onset of anaphylaxis was 90 minutes after administration in two patients and 2 hours after administration in one patient.
 In postmarketing spontaneous reports, the frequency of anaphylaxis attributed to Xolair use was estimated to be at least 0.2% of patients based on an estimated exposure of about 57,300 patients from June 2003 through December 2006.
@@ -22,7 +22,12 @@ Discontinue Xolair in patients who experience a severe hypersensitivity reaction
 Malignant neoplasms were observed in 20 of 4127 (0.5%) Xolair-treated patients compared with 5 of 2236 (0.2%) control patients in clinical studies of adults and adolescents (≥ 12 years of age) with asthma and other allergic disorders.
 The observed malignancies in Xolair-treated patients were a variety of types, with breast, non-melanoma skin, prostate, melanoma, and parotid occurring more than once, and five other types occurring once each.
 The majority of patients were observed for less than 1 year.
-The impact of longer exposure to Xolair or use in patients at higher risk for malignancy (e.g., elderly, current smokers) is not known [see Adverse Reactions (6)].
+The impact of longer exposure to Xolair or use in patients at higher risk for malignancy (e.g., elderly, current smokers) is not known.
+
+In a subsequent observational study of 5007 Xolair-treated and 2829 non-Xolair-treated patients with moderate to severe persistent asthma and a positive skin test reaction or in vitro reactivity to a perennial aeroallergen, patients were followed for up to 5 years.
+In this study, the incidence rates of primary malignancies (per 1000 patient years) were similar among Xolair-treated (12.3) and non-Xolair-treated patients (13.0) [see Adverse Reactions (6)].
+However, study limitations preclude definitively ruling out a malignancy risk with Xolair.
+Study limitations include: the observational study design, the bias introduced by allowing enrollment of patients previously exposed to Xolair (88%), enrollment of patients (56%) while a history of cancer or a premalignant condition were study exclusion criteria, and the high study discontinuation rate (44%).
 
 ## 5.3 Acute Asthma Symptoms
 
@@ -31,7 +36,7 @@ Do not use Xolair to treat acute bronchospasm or status asthmaticus.
 
 ## 5.4 Corticosteroid Reduction
 
-Do not discontinue systemic or inhaled corticosteroids abruptly upon initiation of Xolair therapy for allergic asthma.
+Do not discontinue systemic or inhaled corticosteroids abruptly upon initiation of Xolair therapy for asthma.
 Decrease corticosteroids gradually under the direct supervision of a physician.
 In CIU patients, the use of Xolair in combination with corticosteroids has not been evaluated.
 
@@ -47,7 +52,7 @@ A causal association between Xolair and these underlying conditions has not been
 In post-approval use, some patients have experienced a constellation of signs and symptoms including arthritis/arthralgia, rash, fever and lymphadenopathy with an onset 1 to 5 days after the first or subsequent injections of Xolair.
 These signs and symptoms have recurred after additional doses in some patients.
 Although circulating immune complexes or a skin biopsy consistent with a Type III reaction were not seen with these cases, these signs and symptoms are similar to those seen in patients with serum sickness.
-Physicians should stop Xolair if a patient develops this constellation of signs and symptoms [see Adverse Reactions (6.4)].
+Physicians should stop Xolair if a patient develops this constellation of signs and symptoms [see Adverse Reactions (6.3)].
 
 ## 5.7 Parasitic (Helminth) Infection
 
@@ -62,4 +67,4 @@ Response to appropriate anti-geohelminth treatment of infection as measured by s
 
 Serum total IgE levels increase following administration of Xolair due to formation of Xolair:IgE complexes [see Clinical Pharmacology (12.2)].
 Elevated serum total IgE levels may persist for up to 1 year following discontinuation of Xolair.
-Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen for allergic asthma patients, because these levels may not reflect steady state free IgE levels.
+Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen for asthma patients, because these levels may not reflect steady state free IgE levels.
