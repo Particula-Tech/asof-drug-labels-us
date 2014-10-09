@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Amitriptyline Hydrochloride Tablets, USP
+Amitriptyline Hydrochloride Tablets, USP (am'' i trip' tileen)
 
 Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
@@ -18,10 +18,10 @@ What is the most important information I should know about antidepressant medici
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 - 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  1. Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+  1. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
      This is very important when an antidepressant medicine is started or when the dose is changed.
-  2. Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  3. Keep all follow-up visits with the healthcare provider as scheduled.
+  2. •Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+  3. •Keep all follow-up visits with the healthcare provider as scheduled.
      Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
@@ -62,3 +62,5 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
+
+For Medication Guides, please visit www.us.sandoz.com or call 1-800-507-2130.

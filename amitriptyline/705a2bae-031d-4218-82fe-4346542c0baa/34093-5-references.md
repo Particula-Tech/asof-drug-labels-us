@@ -18,7 +18,7 @@ J. 63: 1492-1493, Dec.
 1970 (in Soc.
 Proc.).
 
-Hollister, L.E.; Overall, J.E.; Johnson, M.; Pennington, V.; Katz, G.; Shelton, J.: Controlled comparison of amitriptyline, imipramine and placebo in hospitalized depressed patients, J. Nerv. and Ment.
+Hollister, L.E.; Overall, J.E.; Johnson, M.; Pennington, V.; Katz, G.; Shelton, J.: Controlled comparison of amitriptyline, imipramine and placebo in hospitalized depressed patients, J. Nerv. andMent.
 Dis.
 139: 370-375, Oct.
 1964.
