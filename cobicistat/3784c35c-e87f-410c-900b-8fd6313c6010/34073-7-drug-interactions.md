@@ -1,0 +1,95 @@
+# 7 DRUG INTERACTIONS
+
+See also Dosage and Administration (2), Contraindications (4), Warnings and Precautions (5.3, 5.4), and Clinical Pharmacology (12.3).
+
+## 7.1 Potential Effect of Cobicistat (Coadministered with Atazanavir or Darunavir) on the Pharmacokinetics of Concomitant Drugs
+
+Cobicistat is an inhibitor of CYP3A and CYP2D6.
+The transporters that cobicistat inhibits include p-glycoprotein (P-gp), BCRP, OATP1B1 and OATP1B3.
+The plasma concentration of drugs that are primarily metabolized by CYP3A or CYP2D6, or are substrates of P-gp, BCRP, OATP1B1 or OATP1B3 may be increased if those drugs are coadministered with TYBOST.
+
+Based on in vitro data, cobicistat is not expected to induce CYP1A2 or CYP2B6 and based on in vivo data, cobicistat is not expected to induce MDR1 or, in general, CYP3A to a clinically significant extent.
+The induction effect of cobicistat on CYP2C9, CYP2C19, or UGT1A1 is unknown, but is expected to be low based on CYP3A in vitro induction data.
+
+Coadministration of TYBOST with atazanavir or darunavir with drugs highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events is contraindicated.
+Coadministration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 6.
+
+## 7.2 Potential Effect of Concomitant Drugs on the Pharmacokinetics of Cobicistat (Coadministered with Atazanavir or Darunavir)
+
+Cobicistat is metabolized by CYP3A, and to a minor extent, by CYP2D6.
+Atazanavir and darunavir are also metabolized by CYP3A.
+
+Coadministration of TYBOST with atazanavir or darunavir in combination with drugs that induce CYP3A activity have the potential to decrease plasma concentrations of cobicistat, atazanavir and darunavir, which may lead to loss of therapeutic effect and development of resistance (see Table 6).
+
+Coadministration of TYBOST with atazanavir or darunavir in combination with other drugs that inhibit CYP3A may further increase the plasma concentrations of cobicistat, atazanavir and darunavir (see Table 6).
+
+## 7.3 Established and Other Potentially Significant Interactions
+
+Coadministration of TYBOST with fosamprenavir, saquinavir, or tipranavir is not recommended because pharmacokinetic data are not available to provide appropriate dosing recommendations.
+Use of TYBOST with lopinavir is not recommended because lopinavir is co-formulated with ritonavir.
+
+Drug interaction trials were not conducted for TYBOST in combination with atazanavir or darunavir.
+As a single entity, drug interaction trials were conducted with TYBOST and desipramine, digoxin, and efavirenz.
+Drug interaction trials of TYBOST coadministered with elvitegravir were conducted that included rosuvastatin and rifabutin.
+
+Table 6 provides dosing recommendations as a result of drug interactions with TYBOST.
+These recommendations are based on either drug interaction trials or predicted interactions due to the expected magnitude of the interaction and potential for serious adverse events or loss of therapeutic effect.
+
+In Table 6, if not specifically stated, the drug interaction information applies to both coadministered agents: TYBOST coadministered with atazanavir or darunavir [see also Clinical Pharmacology (12.3)].
+
+In addition to the drug interactions noted in Table 6, TYBOST is not recommended for use in combination with STRIBILD tablets, lopinavir/ritonavir or regimens containing ritonavir, or in combination with more than one antiretroviral agent that requires pharmacokinetic enhancement [see also Warnings and Precautions (5.4)].
+
+Evaluate whether dosing adjustments of concomitant medications or coadministered antiretroviral drugs are necessary in:
+
+- Patients on a stable concomitant medication who initiate or switch to a TYBOST-containing regimen
+- Patients on a TYBOST-containing regimen who initiate a new concomitant medication
+- Patients initiating a TYBOST-containing regimen and a new concomitant medication simultaneously
+
+Under these circumstances, also monitor for adverse events and/or monitor concentrations of concomitant medications if appropriate.
+
+No dose adjustment is required when tenofovir DF or rilpivirine are coadministered with TYBOST and atazanavir or darunavir.
+
+Table 6 Established and Other Potentially SignificantThis table is not all inclusive.
+Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction
+
+| Concomitant Drug Class: Drug Name | Potential Effect ↑ = Increase, ↓ = Decrease, ↔ = No change | Clinical Comment |
+| --- | --- | --- |
+| Antiretroviral Agents: Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs) |  |  |
+| efavirenz | ↓ cobicistat ↓ darunavir ↓ atazanavir | TYBOST coadministered with darunavir: Coadministration of darunavir and TYBOST with efavirenz is not recommended because it may result in the loss of therapeutic effect and development of resistance to darunavir. TYBOST coadministered with atazanavir: In treatment-naïve patients: Atazanavir 400 mg with TYBOST150 mg should be coadministered once daily as a single dose with food, and efavirenz 600 mg should be administered once daily on an empty stomach, preferably at bedtime. In treatment-experienced patients: Coadministration of atazanavir and TYBOST with efavirenz in treatment-experienced patients is not recommended because it may result in the loss of therapeutic effect and development of resistance to atazanavir. |
+| etravirine | ↓ cobicistat darunavir: effect unknown ↓ atazanavir | Coadministration with etravirine is not recommended because it may result in the loss of therapeutic effect and development of resistance to atazanavir or darunavir. |
+| nevirapine | ↓ cobicistat darunavir: effect unknown | TYBOST coadministration with nevirapine and darunavir is not recommended because it may result in the loss of therapeutic effect and development of resistance to darunavir. |
+| Antiretroviral Agents: CCR5 Antagonists |  |  |
+| maraviroc | ↑ maraviroc | Maraviroc is a substrate of CYP3A. When coadministering with maraviroc, patients should receive maraviroc 150 mg twice daily. |
+| Other Agents: |  |  |
+| Antacids: e.g., aluminum and magnesium hydroxide (please also see H2-receptor antagonists and proton pump inhibitors below) | ↓ atazanavir | TYBOST coadministered with atazanavir: With concomitant use, administer a minimum of 2 hours apart. |
+| Antiarrhythmics: e.g., amiodarone disopyramide flecainide mexiletine propafenone quinidine | ↑ antiarrhythmics | Clinical monitoring is recommended upon coadministration with antiarrhythmics. |
+| digoxin | ↑ digoxin | When coadministering with digoxin, titrate the digoxin dose and monitor digoxin concentrations. |
+| Antibacterials (macrolide or ketolide antibiotics): clarithromycin erythromycin telithromycin | ↑ clarithromycin ↑ erythromycin ↑ telithromycin ↑ cobicistat ↑ atazanavir ↑ darunavir | Consider alternative antibiotics with concomitant use of TYBOST coadministered with atazanavir or darunavir. |
+| Anticancer Agents: dasatinib nilotinib vinblastine vincristine | ↑ anticancer agents | A decrease in the dosage or an adjustment of the dosing interval of dasatinib or nilotinib may be necessary upon coadministration with TYBOST. Consult the dasatinib and nilotinib prescribing information for dosing instructions. For vincristine and vinblastine, monitor for hematologic or gastrointestinal side effects. |
+| Anticoagulants: warfarin | warfarin: effect unknown | Monitor the international normalized ratio (INR) when coadministering with warfarin. |
+| rivaroxaban | ↑ rivaroxaban | Avoid coadministration with rivaroxaban which may result in increased exposure of rivaroxaban and increased risk of bleeding. |
+| Anticonvulsants: Anticonvulsants that induce CYP3A (e.g., carbamazepine, oxcarbazepine, phenytoin, phenobarbital) | ↓ cobicistat ↓ atazanavir darunavir: effect unknown | Consider alternative anticonvulsant or antiretroviral therapy to avoid potential changes in exposures. If coadministration is necessary, monitor for lack or loss of virologic response. |
+| phenobarbital phenytoin | phenobarbital: effect unknown phenytoin: effect unknown | Monitor phenobarbital or phenytoin concentrations. |
+| Anticonvulsants that are metabolized by CYP3A (e.g., clonazepam, carbamazepine) | ↑ clonazepam ↑ carbamazepine | Clinical monitoring of anticonvulsants is recommended. |
+| Antidepressants: Selective Serotonin Reuptake Inhibitors (SSRIs) e.g., paroxetine Tricyclic Antidepressants (TCAs) e.g., amitriptyline desipramine imipramine nortriptyline Other antidepressants: trazodone | SSRIs: effects unknown ↑ TCAs ↑ trazodone | When coadministering with SSRIs, TCAs, or trazodone, careful dose titration of the antidepressant to the desired effect, including using the lowest feasible initial or maintenance dose, and monitoring for antidepressant response are recommended. |
+| Antifungals: itraconazole ketoconazole voriconazole | ↑ itraconazole ↑ ketoconazole Voriconazole: effects unknown ↑ cobicistat ↑ atazanavir ↑ darunavir | Specific dosing recommendations are not available for coadministration with itraconazole or ketoconazole. Coadministration with voriconazole is not recommended unless the benefit/risk assessment justifies the use of voriconazole. |
+| Anti-gout: colchicine | ↑ colchicine | Coadministration with colchicine in patients with renal or hepatic impairment is not recommended. Treatment of gout flares - coadministration of colchicine: 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Treatment course to be repeated no earlier than 3 days. Prophylaxis of gout flares - coadministration of colchicine: If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day. Treatment of familial Mediterranean fever - coadministration of colchicine: Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day). |
+| Antimycobacterial: rifabutin | ↑ rifabutin cobicistat: effects unknown darunavir: effects unknown atazanavir: effects unknown | The recommended dosage regimen for rifabutin is 150 mg every other day. Monitor for rifabutin associated adverse reactions including neutropenia and uveitis. |
+| Beta-Blockers: e.g., metoprolol carvedilol timolol | ↑ beta-blockers | Clinical monitoring is recommended for coadministration with beta-blockers that are metabolized by CYP2D6. |
+| Calcium Channel Blockers: e.g., amlodipine diltiazem felodipine nifedipine verapamil | ↑ calcium channel blockers | Clinical monitoring is recommended for coadministration with calcium channel blockers metabolized by CYP3A. |
+| Corticosteroids (systemic): e.g., dexamethasone | ↓ cobicistat ↓darunavir ↓ atazanavir ↑corticosteroids | Coadministration with dexamethasone or other corticosteroids that induce CYP3A may result in loss of therapeutic effect and development of resistance to atazanavir or darunavir. Consider alternative corticosteroids. Coadministration with corticosteroids that are metabolized by CYP3A, particularly for long-term use, may increase the risk for development of systemic corticosteroid effects including Cushing's syndrome and adrenal suppression. Consider the potential benefit of treatment versus the risk of systemic corticosteroid effects. |
+| Inhaled/Nasal Corticosteroids: e.g., fluticasone budesonide | ↑ corticosteroids | Coadministration with inhaled or nasal fluticasone or other corticosteroids that are metabolized by CYP3A may result in reduced serum cortisol concentrations. Alternative corticosteroids should be considered, particularly for long term use. |
+| Endothelin Receptor Antagonists: bosentan | ↑ bosentan ↓ cobicistat ↓ darunavir ↓ atazanavir | Initiation of bosentan in patients taking TYBOST coadministered with atazanavir or darunavir: In patients who have been receiving TYBOST coadministered with atazanavir or darunavir for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability. Initiation of TYBOST coadministered with atazanavir or darunavir in patients taking bosentan: Discontinue use of bosentan at least 36 hours prior to initiation of TYBOST coadministered with atazanavir or darunavir. After at least 10 days following the initiation of TYBOST combined with atazanavir or darunavir, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability. Switching from ritonavir to TYBOST coadministered with atazanavir or darunavir: Maintain bosentan dose. |
+| H2-Receptor Antagonists: e.g., famotidine | ↓ atazanavir | TYBOST coadministered with atazanavir: Administer atazanavir/TYBOST either at the same time or a minimum of 10 hours after administering H2-receptor antagonists. The dose of the H2-receptor antagonist should not exceed a dose comparable to famotidine 40 mg twice daily in treatment-naïve patients or 20 mg twice daily in treatment-experienced patients. TYBOST coadministered with atazanavir and tenofovir DF: Treatment-experienced patients: The recommended once daily dosage regimen is TYBOST 150 mg coadministered with atazanavir 400 mg with concomitant use of H2-receptor antagonists and tenofovir. |
+| HCV Protease Inhibitors: boceprevir telaprevir simeprevir | darunavir: effects unknown atazanavir: effects unknown boceprevir: effects unknown telaprevir: effects unknown ↑ simeprevir | No drug interaction data are available. Coadministration with boceprevir, simeprevir, or telaprevir is not recommended. |
+| HMG-CoA Reductase Inhibitors: e.g., atorvastatin rosuvastatin | ↑ HMG-CoA reductase inhibitors | For HMG-CoA reductase inhibitors that are not contraindicated with TYBOST, start with the lowest recommended dose and titrate while monitoring for safety [see Contraindications (4)]. |
+| Hormonal Contraceptives: progestin/estrogen | progestin: effects unknown estrogen: effects unknown | No data are available to make recommendations on the coadministration of TYBOST and atazanavir or darunavir with oral or other hormonal contraceptives. Additional or alternative (non-hormonal) forms of contraception should be considered. |
+| Immuno-suppressants: cyclosporine everolimus sirolimus tacrolimus | ↑ immuno-suppressants | These immunosuppressant agents are metabolized by CYP3A. Therapeutic drug monitoring is recommended if coadministered. |
+| Inhaled Beta Agonist: salmeterol | ↑ salmeterol | Coadministration with salmeterol is not recommended and may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations, and sinus tachycardia. |
+| Narcotic analgesics For treatment of opioid dependence: buprenorphine buprenorphine/naloxone methadone | buprenorphine or buprenorphine/naloxone: effects unknown methadone: effects unknown | Initiation of buprenorphine, buprenorphine/naloxone, or methadone in patients taking TYBOST coadministered with atazanavir or darunavir: Carefully titrate the dose of buprenorphine, buprenorphine/naloxone, or methadone to the desired effect; use the lowest feasible initial or maintenance dose. Initiation of TYBOST coadministered with atazanavir or darunavir in patients taking buprenorphine, buprenorphine/naloxone, or methadone: A dose adjustment for buprenorphine, buprenorphine/naloxone, or methadone may be needed. Monitor clinical signs and symptoms. |
+| fentanyl | ↑ fentanyl | Careful monitoring of therapeutic and adverse effects of fentanyl (including potentially fatal respiratory depression) is recommended with coadministration. |
+| tramadol | ↑ tramadol | A dose decrease may be needed for tramadol with concomitant use. |
+| Neuroleptics: e.g., perphenazine risperidone thioridazine | ↑ neuroleptics | A decrease in the dose of neuroleptics that are CYP3A or CYP2D6 metabolized may be needed upon coadministration. |
+| Phosphodiesterase-5 (PDE-5) Inhibitors: avanafil sildenafil tadalafil vardenafil | ↑ PDE-5 inhibitors | Coadministration with avanafil is not recommended because a safe and effective avanafil dosage regimen has not been established. Coadministration with TYBOST may result in an increase in PDE-5 inhibitor associated adverse events, including hypotension, syncope, visual disturbances, and priapism. Use of PDE-5 inhibitors for pulmonary arterial hypertension (PAH): •Use of sildenafil is contraindicated when used for the treatment of pulmonary arterial hypertension (PAH) [see Contraindications (4)].•The following dose adjustments are recommended for tadalafil concomitant use: Initiation of tadalafil in patients taking TYBOST coadministered with atazanavir or darunavir: In patients taking TYBOST coadministered with atazanavir or darunavir for at least 1 week, start tadalafil at 20 mg once daily. Increase tadalafil dose to 40 mg once daily based upon individual tolerability. Initiation of TYBOST coadministered with atazanavir or darunavir in patients taking tadalafil: Avoid use of tadalafil during the initiation of TYBOST coadministered with atazanavir or darunavir. Stop tadalafil at least 24 hours prior to starting TYBOST coadministered with atazanavir or darunavir. After at least one week following initiation of TYBOST coadministered with atazanavir or darunavir, resume tadalafil at 20 mg once daily. Increase tadalafil dose to 40 mg once daily based upon individual tolerability. Patients switching from ritonavir to TYBOST coadministered with atazanavir or darunavir: Maintain tadalafil dose. Use of PDE-5 inhibitors for erectile dysfunction: Sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg in 72 hours, or tadalafil at a single dose not exceeding 10 mg in 72 hours can be used with increased monitoring for PDE-5 inhibitor associated adverse events. |
+| Proton-pump Inhibitors (PPIs) e.g., omeprazole | ↓ atazanavir | TYBOST coadministered with atazanavir: In treatment-naïve patients, administer TYBOST with atazanavir a minimum of 12 hours after administering PPIs. The dose of the PPI should not exceed a dose comparable to omeprazole 20 mg daily. In treatment-experienced patients, coadministration with PPIs, with or without tenofovir, is not recommended. |
+| Sedative/hypnotics: e.g., buspirone diazepam parenterally-administered midazolam | ↑ sedatives/hypnotics | Coadministration with parenteral midazolam may increase plasma concentrations of midazolam. Coadministration should be done in a setting that ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosing reduction for midazolam should be considered, especially if more than a single dose of midazolam is administered. Concomitant use with oral midazolam is contraindicated [see Contraindications (4)]. With other sedatives/hypnotics that are CYP3A metabolized, dose reduction may be necessary and clinical monitoring is recommended. |

@@ -1,0 +1,133 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Cobicistat is a mechanism-based inhibitor of cytochrome P450 3A (CYP3A).
+Inhibition of CYP3A-mediated metabolism by cobicistat increases the systemic exposure of CYP3A substrates atazanavir and darunavir.
+
+## 12.2 Pharmacodynamics
+
+Effects on Pharmacokinetic Enhancement
+
+The effect of TYBOST on atazanavir pharmacokinetics was evaluated in the pharmacokinetic substudy (N=48) of Study 114 in which HIV-1 infected subjects received atazanavir 300 mg coadministered with TYBOST 150 mg or atazanavir 300 mg coadministered with ritonavir 100 mg, both in combination with TRUVADA.
+The steady-state pharmacokinetic parameters of atazanavir were comparable when coadministered with TYBOST versus ritonavir groups as shown in Table 7 [see Clinical Studies (14)].
+
+Table 7 Pharmacokinetic Parameters (Mean ± SD) of Atazanavir in HIV-1 Infected Treatment-Naïve Adults (Pharmacokinetic Substudy of Study 114)
+
+| Atazanavir Pharmacokinetic Parameters | N=22 | N=26 |
+| --- | --- | --- |
+|  | TYBOST + Atazanavir + TRUVADA Once Daily | Ritonavir + Atazanavir + TRUVADA Once Daily |
+| AUCtau (mcg∙hr/mL) | 46.13 ± 26.18 | 47.59 ± 24.38 |
+| Cmax (mcg/mL) | 3.91 ± 1.94 | 4.76 ± 1.94 |
+| Ctau (mcg/mL) | 0.80 ± 0.72 | 0.85 ± 0.72 |
+
+The effect of TYBOST on darunavir was evaluated in a clinical study (Study 115) in 31 healthy subjects who received darunavir 800 mg in combination with TYBOST 150 mg or ritonavir 100 mg, all once daily, for 10 days.
+With the exception of Ctau, the steady-state pharmacokinetic parameters of darunavir were comparable when coadministered with TYBOST versus ritonavir as shown in Table 8, and these results were similar to those reported in previous clinical trials of darunavir 800 mg with ritonavir 100 mg once daily (refer to prescribing information for darunavir).
+
+Table 8 Pharmacokinetic Parameters (Mean ± SD) of Darunavir in Healthy Adults (Study 115)
+
+| Darunavir Pharmacokinetic Parameters | N=31 | N=31 |
+| --- | --- | --- |
+|  | TYBOST + Darunavir Once Daily | Ritonavir + Darunavir Once Daily |
+| AUCtau (mcg∙hr/mL) | 81.08 ± 25.15 | 79.99 ± 27.20 |
+| Cmax (mcg/mL) | 7.74 ± 1.69 | 7.46 ± 1.52 |
+| C0h (mcg/mL) | 2.40 ± 1.22 | 2.48 ± 0.85 |
+| Ctau (mcg/mL) | 1.33 ± 0.89 | 1.87 ± 1.56 |
+
+Cardiac Electrophysiology
+
+The effect of a single dose of cobicistat 250 mg and 400 mg (approximately 1.7 and 2.7 times the recommended dose) on QTc interval was evaluated in a randomized, placebo- and active-controlled (moxifloxacin 400 mg) four-period crossover thorough QT study in 48 healthy subjects.
+In this study, no significant QTc prolongation effect of cobicistat was detected.
+The dose of 400 mg TYBOST is expected to cover a high exposure clinical scenario.
+Prolongation of the PR interval was noted in subjects receiving TYBOST in the same study.
+The maximum mean (95% upper confidence bound) difference in PR from placebo after baseline-correction was 9.5 (12.1) msec for 250 mg and 20.2 (22.8) msec for 400 mg of cobicistat.
+
+Effects on Serum Creatinine
+
+The effect of TYBOST on serum creatinine was investigated in a trial in subjects with normal renal function (eGFR ≥80 mL/min, N=12) and mild-to-moderate renal impairment (eGFR 50–79 mL/min, N=18).
+A statistically significant decrease in the estimated glomerular filtration rate, calculated by Cockcroft-Gault method (eGFRCG) from baseline, was observed after 7 days of treatment with cobicistat 150 mg among subjects with normal renal function (-9.9 ± 13.1 mL/min) and mild-to-moderate renal impairment (-11.9 ± 7.0 mL/min).
+No statistically significant changes in eGFRCG were observed compared to baseline for subjects with normal renal function or mild-to-moderate renal impairment 7 days after cobicistat was discontinued.
+The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment of TYBOST among subjects with normal renal function and mild-to-moderate renal impairment, indicating that cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in eGFRCG, without affecting the actual glomerular filtration rate [see Warnings and Precautions (5.1)].
+
+## 12.3 Pharmacokinetics
+
+Absorption
+
+In a trial where subjects were instructed to take coadministered TYBOST and darunavir with food, median cobicistat peak plasma concentrations were observed was approximately 3.5 hours post-dose.
+Steady-state cobicistat Cmax, AUCtau, and Ctau (mean ± SD), values were 0.99 ± 0.3 mcg/mL (n=60), 7.6 ± 3.7 mcg*hr/mL (n=59), and 0.03 ± 0.1 mcg/mL (n=59), respectively.
+
+Effect of Food on Oral Absorption
+
+A food effect trial was not conducted for TYBOST.
+In clinical trials, TYBOST was coadministered with other antiretroviral agents [see Clinical Studies (14)] under fed conditions, in accordance with the prescribing information for these agents.
+It is recommended that TYBOST coadministered with atazanavir or darunavir be administered with food [see Dosage and Administration (2.1)].
+
+Distribution
+
+Cobicistat is 97–98% bound to human plasma proteins and the mean blood-to-plasma ratio was approximately 0.5.
+
+Metabolism
+
+Cobicistat is metabolized by CYP3A and to a minor extent by CYP2D6 enzymes and does not undergo glucuronidation.
+
+Elimination
+
+The terminal plasma half-life of cobicistat following administration of TYBOST is approximately 3 to 4 hours.
+With single dose administration of [14C] cobicistat after multiple dosing of cobicistat for six days, the mean percent of the administered dose excreted in feces and urine was 86.2% and 8.2%, respectively.
+
+Specific Populations
+
+Patients with Hepatic Impairment
+
+Cobicistat is primarily metabolized and eliminated by the liver.
+A study of the pharmacokinetics of cobicistat was performed in non-HIV-1 infected subjects with moderate hepatic impairment.
+No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
+The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied [see Use in Specific Populations (8.7)].
+
+Patients with Renal Impairment
+
+A study of the pharmacokinetics of cobicistat was performed in non-HIV-1 infected subjects with severe renal impairment (estimated creatinine clearance below 30 mL/min).
+No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment and healthy subjects [see Use in Specific Populations (8.6)].
+
+Race
+
+Population pharmacokinetic analysis of cobicistat in HIV-1 infected subjects indicated that race had no clinically relevant effect on the exposure of cobicistat.
+
+Gender
+
+No clinically relevant pharmacokinetic differences have been observed between men and women for cobicistat.
+
+Assessment of Drug Interactions
+
+Drug interaction trials were not conducted for TYBOST coadministered with atazanavir or darunavir.
+
+Drug interaction trials were conducted with TYBOST (as a single entity) and desipramine, digoxin, and efavirenz.
+Drug interaction trials of TYBOST coadministered with elvitegravir included rosuvastatin and rifabutin.
+
+The effects of cobicistat on the exposure of coadministered drugs are shown in Table 9.
+
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of CobicistatAll interaction studies conducted in healthy subjects.
+
+| Cmax | AUC | Ctau |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | TYBOST Dose (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
+| Desipramine | 50 single dose | 150 once daily | 8 | 1.24 (1.08, 1.44) | 1.65 (1.36, 2.02) | NCNC = Not Calculated. |
+| Digoxin | 0.5 single dose | 150 once daily | 22 | 1.41 (1.29, 1.55) | 1.08 (1.00, 1.17) | NC |
+| Efavirenz | 600 single dose | 150 once daily | 17 | 0.87 (0.80, 0.94) | 0.93 (0.89, 0.97) | NC |
+| Rifabutin | 150 once every other day | 150 once dailyStudy was conducted in the presence of 150 mg elvitegravir. | 12 | 1.09 (0.98, 1.20)Comparison based on rifabutin 300 mg once daily. | 0.92 (0.83, 1.03) | 0.94 (0.85, 1.04) |
+| 25-O-desacetyl-rifabutin | 4.84 (4.09, 5.74) | 6.25 (5.08, 7.69) | 4.94 (4.04, 6.04) |  |  |  |
+| Rosuvastatin | 10 single dose | 150 single dose | 10 | 1.89 (1.48, 2.42) | 1.38 (1.14, 1.67) | 1.43Parameter is Clast (1.08, 1.89) |
+
+## 12.4 Microbiology
+
+Antiviral Activity
+
+Cobicistat does not inhibit recombinant HIV-1 protease in a biochemical assay and has no detectable antiviral activity in cell culture against HIV-1, HBV, or HCV.
+The antiviral activity in cell culture of selected HIV-1 antiretroviral drugs was not antagonized by cobicistat.
+
+Resistance
+
+In an analysis of treatment-failure subjects who received TYBOST coadministered with atazanavir and TRUVADA in Study 114 through Week 48, evaluable genotypic data from paired baseline and treatment-failure isolates were available for 11 of the 12 virologic failures in the TYBOST group [3%, 11/344].
+Among the 11 subjects, 2 developed the emtricitabine-associated resistance substitution M184V.
+No subject developed the tenofovir-associated resistance substitution K65R or any primary resistance substitution associated with protease inhibitors.
+In the ritonavir group, evaluable genotypic data was available for all 12 virologic failures [3%, 12/348] and no subject had emergent resistance to any component of the regimen.

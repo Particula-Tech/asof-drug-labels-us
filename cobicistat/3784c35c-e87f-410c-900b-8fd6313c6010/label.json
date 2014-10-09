@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203094"
+  ],
+  "inn": "cobicistat",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-1401-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cobicistat",
+      "name": "Tybost"
+    }
+  ],
+  "setid": "3784c35c-e87f-410c-900b-8fd6313c6010",
+  "source": "dailymed"
+}
