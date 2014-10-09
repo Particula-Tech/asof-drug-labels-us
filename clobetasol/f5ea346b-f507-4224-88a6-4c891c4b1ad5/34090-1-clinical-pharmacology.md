@@ -9,7 +9,7 @@ Clobetasol propionate, a corticosteroid, has been shown to have topical (dermato
 
 ## Pharmacokinetics
 
-The extent of percutaneous absorption of topical corticosteroids, including clobetasol propionate is determined by many factors, including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings (see DOSAGE AND ADMINISTRATION).
+The extent of percutaneous absorption of topical corticosteroids, including clobetasol propionate, is determined by many factors, including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings (see DOSAGE AND ADMINISTRATION).
 
 As with all topical corticosteroids, clobetasol propionate can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin may increase percutaneous absorption.
@@ -21,4 +21,4 @@ Corticosteroids are metabolized primarily in the liver and are then excreted by 
 Some of the topical corticosteroids, including clobetasol propionate and its metabolites, are also excreted into the bile.
 
 Following repeated nonocclusive application in the treatment of scalp psoriasis, there is some evidence that clobetasol propionate topical solution has the potential to depress plasma cortisol levels in some patients.
-However, hypothalamic-pituitary-adrenal (HPA) axis effects produced by systemically absorbed clobetasol propionate have been shown to be transient and reversible upon completion of a two-week course of treatment.
+However, hypothalamic-pituitary-adrenal (HPA) axis effects produced by systemically absorbed clobetasol propionate have been shown to be transient and reversible upon completion of a 2-week course of treatment.

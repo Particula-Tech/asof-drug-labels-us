@@ -7,5 +7,7 @@ Less frequent adverse events were itching and tightness of the scalp, dermatitis
 
 The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended.
 These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria.
-Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients.
+Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing syndrome, hyperglycemia, and glucosuria in some patients.
 In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Taro Pharmaceuticals U.S.A., Inc., at 1-866-923-4914 or FDA at 1-800-FDA-1088.

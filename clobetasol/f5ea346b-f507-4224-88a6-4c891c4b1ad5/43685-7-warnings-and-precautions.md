@@ -3,7 +3,7 @@
 ## General
 
 Clobetasol propionate is a highly potent topical corticosteroid that has been shown to suppress the HPA axis at doses as low as 2 g (of ointment) per day.
-Systemic absorption of topical corticosteroids has resulted in reversible HPA axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients.
+Systemic absorption of topical corticosteroids has resulted in reversible HPA axis suppression, manifestations of Cushing syndrome, hyperglycemia, and glucosuria in some patients.
 
 Conditions that augment systemic absorption include the application of the more potent corticosteroids, use over large surface areas, prolonged use, and the addition of occlusive dressings.
 Therefore, patients receiving a large dose of a potent topical steroid applied to a large surface area should be evaluated periodically for evidence of HPA axis suppression by using the urinary free cortisol and ACTH stimulation tests.
@@ -40,16 +40,16 @@ Patients using clobetasol propionate topical solution should receive the followi
 
 ## Laboratory Tests
 
-The following tests may be helpful in evaluating HPA axis suppression:
+The following tests may be helpful in evaluating patients for HPA axis suppression:
 
 - Urinary free cortisol test
 - ACTH stimulation test
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of topical corticosteroids.
+Long-term animal studies have not been performed to evaluate the carcinogenic potential of clobetasol propionate.
 
-Studies in the rat following subcutaneous administration at dosage levels up to 50 mcg/kg per day revealed that the females exhibited an increase in the number of resorbed embryos and a decrease in the number of living fetuses at the highest dose.
+Studies in the rat following subcutaneous administration at dosage levels up to 50 mcg/kg/day revealed that the females exhibited an increase in the number of resorbed embryos and a decrease in the number of living fetuses at the highest dose.
 
 Clobetasol propionate was nonmutagenic in 3 different test systems: the Ames test, the Saccharomyces cerevisiae gene conversion assay, and the E. coli B WP2 fluctuation test.
 
@@ -86,14 +86,14 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 Use of clobetasol propionate topical solution in pediatric patients under 12 years of age is not recommended.
 
-Pediatric patients may demonstrate greater susceptibility to topical corticosteroid-induced HPA axis suppression and Cushing's syndrome than mature patients because of a larger skin surface area to body weight ratio.
+Pediatric patients may demonstrate greater susceptibility to topical corticosteroid-induced HPA axis suppression and Cushing syndrome than mature patients because of a larger skin surface area to body weight ratio.
 
-HPA axis suppression, Cushing's syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
+HPA axis suppression, Cushing syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
 Manifestations of adrenal suppression in children include low plasma cortisol levels and an absence of response to ACTH stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
 ## Geriatric Use
 
-Clinical studies of Clobetasol Propionate Topical Solution USP, 0.05% did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious.
+A limited number of patients at or above 65 years of age (n=65) have been treated with clobetasol propionate topical solution in US and non-US clinical trials.
+While the number of patients is too small to permit separate analysis of efficacy and safety, the adverse reactions reported in this population were similar to those reported by younger patients.
+Based on available data, no adjustment of dosage of clobetasol propionate topical solution in geriatric patients is warranted.
