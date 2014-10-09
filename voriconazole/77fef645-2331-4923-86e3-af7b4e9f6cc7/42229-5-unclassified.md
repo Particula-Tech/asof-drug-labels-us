@@ -1,3 +1,3 @@
-LAB-0632-1.0
+Amerinet Choice is a registered trademark of Amerinet, Inc.
 
-July 2012
+LAB-0632-2.0
