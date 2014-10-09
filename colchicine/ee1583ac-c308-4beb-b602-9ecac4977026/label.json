@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204820"
+  ],
+  "inn": "colchicine",
+  "labeler": "West-Ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-3018-01",
+    "0143-3018-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "colchicine",
+      "name": "Colchicine"
+    }
+  ],
+  "setid": "ee1583ac-c308-4beb-b602-9ecac4977026",
+  "source": "dailymed"
+}
