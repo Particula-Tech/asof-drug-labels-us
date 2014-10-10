@@ -16,7 +16,7 @@ EYLEA is a registered trademark of Regeneron Pharmaceuticals, Inc.
 
 All rights reserved.
 
-Issue Date: July 2014
+Issue Date: October 2014
 
 Initial U.S. Approval: 2011
 

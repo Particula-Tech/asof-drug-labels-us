@@ -58,7 +58,35 @@ Figure 9: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to
 
 Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline visual acuity, retinal perfusion status, and CRVO duration) in each study and in the combined analysis were in general consistent with the results in the overall populations.
 
-## 14.3 Diabetic Macular Edema (DME)
+## 14.3 Macular Edema Following Branch Retinal Vein Occlusion (BRVO)
+
+The safety and efficacy of EYLEA were assessed in a 24-week, randomized, multi-center, double-masked, controlled study in patients with macular edema following BRVO.
+A total of 181 patients were treated and evaluable for efficacy (91 with EYLEA) in the VIBRANT study.
+In the study, patients were randomly assigned in a 1:1 ratio to either 2 mg EYLEA administered every 4 weeks (2Q4) or laser photocoagulation administered at baseline and subsequently as needed (control group).
+Patient ages ranged from 42 to 94 years with a mean of 65 years.
+
+In the VIBRANT study, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA at week 24 compared to baseline.
+At week 24, the EYLEA 2 mg Q4 group was superior to the control group for the primary endpoint.
+
+Detailed results from the analysis of the VIBRANT study are shown in Table 6 and Figure 10 below.
+
+Table 6: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in VIBRANT Study
+
+|  | N=90 | N=91 |
+| --- | --- | --- |
+|  | VIBRANT |  |
+|  | Control | EYLEA 2 mg Q4 weeks |
+| Efficacy Outcomes |  |  |
+| Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 26.7% | 52.7% |
+| Weighted Difference Difference is EYLEA 2 mg Q4 weeks minus Control,Difference and CI are calculated using Mantel-Haenszel weighting scheme adjusted for region (North America vs. Japan) and baseline BCVA category (> 20/200 and ≤ 20/200) (%) (95% CI) |  | 26.6%p<0.01 compared with Control (13.0, 40.1) |
+| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 6.9 (12.9) | 17.0 (11.9) |
+| Difference in LS mean,LS mean and CI based on an ANCOVA model (95% CI) |  | 10.5 (7.1, 14.0) |
+
+Figure 10: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in VIBRANT Study
+
+Treatment effects in evaluable subgroups (e.g., age, gender, and baseline retinal perfusion status) in the study were in general consistent with the results in the overall populations.
+
+## 14.4 Diabetic Macular Edema (DME)
 
 The safety and efficacy of EYLEA were assessed in two randomized, multi-center, double-masked, controlled studies in patients with DME.
 A total of 862 randomized and treated patients were evaluable for efficacy.
@@ -71,9 +99,9 @@ Beginning at week 24, patients meeting a pre-specified threshold of vision loss 
 In both studies, the primary efficacy endpoint was the mean change from baseline in BCVA at week 52 as measured by ETDRS letter score.
 Efficacy of both EYLEA 2Q8 and EYLEA 2Q4 groups was statistically superior to the control group.
 
-Results from the analysis of the VIVID and VISTA studies are shown in Table 6 and Figure 10 below.
+Results from the analysis of the VIVID and VISTA studies are shown in Table 7 and Figure 11 below.
 
-Table 6: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIVID and VISTA Studies
+Table 7: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIVID and VISTA Studies
 
 | Full Analysis Set | N=135 | N=136 | N=132 | N=151 | N=154 | N=154 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -85,7 +113,7 @@ Table 6: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIVID and
 | Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 33.3% | 32.4% | 9.1% | 31.1% | 41.6% | 7.8% |
 | Adjusted Difference, Difference with confidence interval (CI) and statistical test is calculated using Mantel-Haenszel weighting scheme adjusted by protocol specified stratification factors. (%) (97.5% CI) | 24.2% (13.5, 34.9) | 23.3% (12.6, 33.9) |  | 23.3% (13.5, 33.1) | 34.2% (24.1, 44.4) |  |
 
-Figure 10: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 52 in VIVID and VISTA Studies
+Figure 11: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 52 in VIVID and VISTA Studies
 
 Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor prior to study participation were similar to those seen in patients who were VEGF inhibitor naïve prior to study participation.
 
