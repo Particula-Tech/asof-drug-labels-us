@@ -22,7 +22,7 @@ Mfg for: Heritage Pharmaceuticals Inc. Eatontown, NJ 07724 1.866.901.DRUG (3784)
 
 # Principal display panel- 40 mg/4 mL -carton
 
-FUROSEMIDE INJECTION, USP 40 mg/4 mL (10 mg/ mL) NDC 23155-473-42 Rx only Twenty Five 4 mL Single Dose Vials FOR INTRAVENOUS OR INTRAMUSCULAR USE Each mL contains: Furosemide, USP 10 mg, Water for Injection, USP q.s.
+FUROSEMIDE INJECTION, USP 40 mg/4 mL (10 mg/ mL) NDC 23155-473-42 Rx only 25 Single Dose Vials FOR INTRAVENOUS OR INTRAMUSCULAR USE Each mL contains: Furosemide, USP 10 mg, Water for Injection, USP q.s.
 Sodium Chloride, USP for isotonicity, Sodium Hydroxide, NF and, if necessary, Hydrochloric Acid, NF to adjust pH between 8.0 and 9.3.
 WARNING:DISCARD UNUSED PORTION.
 USE ONLY IF SOLUTION IS CLEAR & COLORLESS.
