@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B Risk Summary Adequate and well controlled studies with ALOXI have not been conducted in pregnant women.
+Pregnancy Category B
+
+Risk Summary Adequate and well controlled studies with ALOXI have not been conducted in pregnant women.
 In animal reproduction studies, no effects on embryo-fetal development were observed with the administration of oral palonosetron during the period of organogenesis at doses up to 1894 and 3789 times the recommended human intravenous dose in rats and rabbits, respectively.
 Because animal reproduction studies are not always predictive of human response, ALOXI should be used during pregnancy only if clearly needed.
 
@@ -24,15 +26,15 @@ Safety and effectiveness of ALOXI in neonates (less than 1 month of age) have no
 Postoperative Nausea and Vomiting Studies Safety and efficacy have not been established in pediatric patients for prevention of postoperative nausea and vomiting.
 Two pediatric trials were performed.
 
-Pediatric Study 1, a dose finding study was conducted to compare two doses of palonosetron, 1 mcg/kg (max 0.075 mg) versus 3 mcg/kg (max 0.25 mg).
+Pediatric Study 1, a dose finding study, was conducted to compare two doses of palonosetron, 1 mcg/kg (max 0.075 mg) versus 3 mcg/kg (max 0.25 mg).
 A total of 150 pediatric surgical patients participated, age range 1 month to <17 years.
 No dose response was observed.
 
 Pediatric Study 2, a multicenter, double-blind, double-dummy, randomized, parallel group, active control, single-dose non-inferiority study, compared I.V. palonosetron (1 mcg/kg, max 0.075 mg) versus I.V. ondansetron.
 A total of 670 pediatric surgical patients participated, age 30 days to <17 years.
 The primary efficacy endpoint, Complete Response (CR: no vomiting, no retching, and no antiemetic rescue medication) during the first 24 hours postoperatively was achieved in 78.2% of patients in the palonosetron group and 82.7% in the ondansetron group.
-Given the pre- specified non-inferiority margin of -10%, the stratum adjusted Mantel- Haenszel statistical non-inferiority confidence interval for the difference in the primary endpoint, complete response (CR), was [-10.5, 1.7%], therefore non-inferiority was not demonstrated.
-Adverse reactions to palonosetron were similar to those reported in adults (see Table 2).
+Given the pre-specified non-inferiority margin of -10%, the stratum adjusted Mantel-Haenszel statistical non-inferiority confidence interval for the difference in the primary endpoint, complete response (CR), was [-10.5, 1.7%], therefore non-inferiority was not demonstrated.
+Adverse reactions to palonosetron were similar to those reported in adults (Table 2).
 
 ## 8.5 Geriatric Use
 
@@ -41,10 +43,10 @@ Of the 1374 adult cancer patients in clinical studies of palonosetron, 316 (23%)
 No overall differences in safety or effectiveness were observed between these subjects and the younger subjects, but greater sensitivity in some older individuals cannot be ruled out.
 No dose adjustment or special monitoring are required for geriatric patients.
 
-Of the 1520 adult patients in Aloxi PONV clinical studies, 73 (5%) were ≥65 years old.
+Of the 1520 adult patients in ALOXI PONV clinical studies, 73 (5%) were ≥65 years old.
 No overall differences in safety were observed between older and younger subjects in these studies, though the possibility of heightened sensitivity in some older individuals cannot be excluded.
 No differences in efficacy were observed in geriatric patients for the CINV indication and none are expected for geriatric PONV patients.
-However, Aloxi efficacy in geriatric patients has not been adequately evaluated.
+However, ALOXI efficacy in geriatric patients has not been adequately evaluated.
 
 ## 8.6 Renal Impairment
 

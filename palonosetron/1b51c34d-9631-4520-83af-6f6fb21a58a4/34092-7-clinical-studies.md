@@ -132,7 +132,7 @@ Palonosetron 0.075 mg reduced the severity of nausea compared to placebo.
 Analyses of other secondary endpoints indicate that palonosetron 0.075 mg was numerically better than placebo, however, statistical significance was not formally demonstrated.
 
 A phase 2 randomized, double-blind, multicenter, placebo-controlled, dose ranging study was performed to evaluate I.V. palonosetron for the prevention of post-operative nausea and vomiting following abdominal or vaginal hysterectomy.
-Five I.V. palonosetron doses (0.1, 0.3, 1.0, 3.0 and 30 µg/kg) were evaluated in a total of 381 intent-to-treat patients.
+Five I.V. palonosetron doses (0.1, 0.3, 1.0, 3.0, and 30 µg/kg) were evaluated in a total of 381 intent-to-treat patients.
 The primary efficacy measure was the proportion of patients with CR in the first 24 hours after recovery from surgery.
 The lowest effective dose was palonosetron 1 µg/kg (approximately 0.075 mg) which had a CR rate of 44% versus 19% for placebo, p=0.004.
 Palonosetron 1 µg/kg also significantly reduced the severity of nausea versus placebo, p=0.009.

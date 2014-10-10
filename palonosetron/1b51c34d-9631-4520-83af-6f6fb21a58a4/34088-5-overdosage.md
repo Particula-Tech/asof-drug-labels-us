@@ -9,4 +9,4 @@ This dose group had a similar incidence of adverse events compared to the other 
 
 Dialysis studies have not been performed, however, due to the large volume of distribution, dialysis is unlikely to be an effective treatment for palonosetron overdose.
 A single intravenous dose of palonosetron at 30 mg/kg (947 and 474 times the human dose for rats and mice, respectively, based on body surface area) was lethal to rats and mice.
-The major signs of toxicity were convulsions, gasping, pallor, cyanosis and collapse.
+The major signs of toxicity were convulsions, gasping, pallor, cyanosis, and collapse.

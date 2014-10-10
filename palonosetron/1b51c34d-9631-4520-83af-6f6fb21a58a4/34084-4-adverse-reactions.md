@@ -4,13 +4,15 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Chemotherapy-Induced Nausea and Vomiting
 
-Adults In clinical trials for the prevention of nausea and vomiting induced by moderately or highly emetogenic chemotherapy, 1374 adult patients received palonosetron.
+Adults
+
+In clinical trials for the prevention of nausea and vomiting induced by moderately or highly emetogenic chemotherapy, 1374 adult patients received palonosetron.
 Adverse reactions were similar in frequency and severity with ALOXI and ondansetron or dolasetron.
 Following is a listing of all adverse reactions reported by ≥ 2% of patients in these trials (Table 1).
 
 Table 1: Adverse Reactions from Chemotherapy-Induced Nausea and Vomiting Studies ≥ 2% in any Treatment Group
 
-| Event | Aloxi 0.25 mg (N=633) | Ondansetron 32 mg I.V. (N=410) | Dolasetron 100 mg I.V. (N=194) |
+| Event | ALOXI 0.25 mg (N=633) | Ondansetron 32 mg I.V. (N=410) | Dolasetron 100 mg I.V. (N=194) |
 | --- | --- | --- | --- |
 | Headache | 60 (9%) | 34 (8%) | 32 (16%) |
 | Constipation | 29 (5%) | 8 (2%) | 12 (6%) |
@@ -51,7 +53,9 @@ Urinary System: < 1%: urinary retention.
 
 Vascular: < 1%: vein discoloration, vein distention.
 
-Pediatrics In a pediatric clinical trial for the prevention of chemotherapy-induced nausea and vomiting 163 cancer patients received a single 20 mcg/kg (maximum 1.5 mg) intravenous infusion of palonosetron 30 minutes before beginning the first cycle of emetogenic chemotherapy.
+Pediatrics
+
+In a pediatric clinical trial for the prevention of chemotherapy-induced nausea and vomiting 163 cancer patients received a single 20 mcg/kg (maximum 1.5 mg) intravenous infusion of palonosetron 30 minutes before beginning the first cycle of emetogenic chemotherapy.
 Patients had a mean age of 8.4 years (range 2 months to 16.9 years) and were 46% male; and 93% white.
 
 The following adverse reactions were reported for palonosetron:
@@ -67,14 +71,14 @@ In the trial, adverse reactions were evaluated in pediatric patients receiving p
 ## 6.2 Postoperative Nausea and Vomiting
 
 The adverse reactions cited in Table 2 were reported in ≥ 2% of adults receiving I.V.
-Aloxi 0.075 mg immediately before induction of anesthesia in one phase 2 and two phase 3 randomized placebo-controlled trials.
+ALOXI 0.075 mg immediately before induction of anesthesia in one phase 2 and two phase 3 randomized placebo-controlled trials.
 Rates of events between palonosetron and placebo groups were similar.
 Some events are known to be associated with, or may be exacerbated by concomitant perioperative and intraoperative medications administered in this surgical population.
 Please refer to Section 12.2, thorough QT/QTc study results, for data demonstrating the lack of palonosetron effect on QT/QTc.
 
 Table 2: Adverse Reactions from Postoperative Nausea and Vomiting Studies ≥ 2% in any Treatment Group
 
-| Event | Aloxi 0.075 mg (N=336) | Placebo (N=369) |
+| Event | ALOXI 0.075 mg (N=336) | Placebo (N=369) |
 | --- | --- | --- |
 | Electrocardiogram QT prolongation | 16 (5%) | 11 (3%) |
 | Bradycardia | 13 (4%) | 16 (4%) |

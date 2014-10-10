@@ -1,8 +1,10 @@
 # 7 DRUG INTERACTIONS
 
 Palonosetron is eliminated from the body through both renal excretion and metabolic pathways with the latter mediated via multiple CYP enzymes.
-Further in vitro studies indicated that palonosetron is not an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1 and CYP3A4/5 (CYP2C19 was not investigated) nor does it induce the activity of CYP1A2, CYP2D6, or CYP3A4/5.
+Further in vitro studies indicated that palonosetron is not an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1 and, CYP3A4/5 (CYP2C19 was not investigated) nor does it induce the activity of CYP1A2, CYP2D6, or CYP3A4/5.
 Therefore, the potential for clinically significant drug interactions with palonosetron appears to be low.
+
+Serotonin syndrome (including altered mental status, autonomic instability, and neuromuscular symptoms) has been described following the concomitant use of 5-HT3 receptor antagonists and other serotonergic drugs, including selective serotonin reuptake inhibitors (SSRIs) and serotonin and noradrenaline reuptake inhibitors (SNRIs) [see Warnings and Precautions (5.2)].
 
 Coadministration of 0.25 mg I.V. palonosetron and 20 mg I.V. dexamethasone in healthy subjects revealed no pharmacokinetic drug-interactions between palonosetron and dexamethasone.
 
@@ -12,4 +14,4 @@ A study in healthy volunteers involving single-dose I.V. palonosetron (0.75 mg) 
 
 In controlled clinical trials, ALOXI injection has been safely administered with corticosteroids, analgesics, antiemetics/antinauseants, antispasmodics and anticholinergic agents.
 
-Palonosetron did not inhibit the antitumor activity of the five chemotherapeutic agents tested (cisplatin, cyclophosphamide, cytarabine, doxorubicin and mitomycin C) in murine tumor models.
+Palonosetron did not inhibit the antitumor activity of the five chemotherapeutic agents tested (cisplatin, cyclophosphamide, cytarabine, doxorubicin, and mitomycin C) in murine tumor models.
