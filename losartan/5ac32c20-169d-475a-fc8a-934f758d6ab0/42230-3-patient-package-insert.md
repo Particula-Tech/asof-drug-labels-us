@@ -61,6 +61,7 @@ Especially tell your doctor if you are taking:
 - potassium supplements
 - salt substitutes containing potassium
 - water pills (diuretics)
+- lithium (a medicine used to treat a certain kind of depression)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
 - other medicines to reduce blood pressure
 
