@@ -4,9 +4,9 @@ Febrile Neutropenic Patients
 
 The safety and efficacy of empiric cefepime monotherapy of febrile neutropenic patients have been assessed in two multicenter, randomized trials comparing cefepime monotherapy (at a dose of 2 g intravenously every 8 hours) to ceftazidime monotherapy (at a dose of 2 g intravenously every 8 hours).
 These studies comprised 317 evaluable patients.
-Table 8 describes the characteristics of the evaluable patient population.
+Table 6 describes the characteristics of the evaluable patient population.
 
-Table 8: Demographics of Evaluable Patients (First Episodes Only)
+Table 6: Demographics of Evaluable Patients (First Episodes Only)
 
 | Total | Cefepime | Ceftazidime |
 | --- | --- | --- |
@@ -18,7 +18,7 @@ Table 8: Demographics of Evaluable Patients (First Episodes Only)
 | Other hematologic malignancies | 43 (26%) | 36 (24%) |
 | Solid tumor | 54 (33%) | 56 (37%) |
 | Median ANC nadir (cells/microliter) | 20 (range, 0 to 500) | 20 (range, 0 to 500) |
-| Median duration of neutropenia (days) | 6 (range 0 to 39) | 6 (range, 0 to 32) |
+| Median duration of neutropenia (days) | 6 (range, 0 to 39) | 6 (range, 0 to 32) |
 | Indwelling venous catheter | 97 (59%) | 86 (56%) |
 | Prophylactic antibiotics | 62 (38%) | 64 (42%) |
 | Bone marrow graft | 9 (5%) | 7 (5%) |
@@ -26,10 +26,10 @@ Table 8: Demographics of Evaluable Patients (First Episodes Only)
 
 ANC = absolute neutrophil count; SBP = systolic blood pressure
 
-Table 9 describes the clinical response rates observed.
+Table 7 describes the clinical response rates observed.
 For all outcome measures, cefepime was therapeutically equivalent to ceftazidime.
 
-Table 9: Pooled Response Rates for Empiric Therapy of Febrile Neutropenic Patients
+Table 7: Pooled Response Rates for Empiric Therapy of Febrile Neutropenic Patients
 
 | Outcome Measures | % Response |  |
 | --- | --- | --- |

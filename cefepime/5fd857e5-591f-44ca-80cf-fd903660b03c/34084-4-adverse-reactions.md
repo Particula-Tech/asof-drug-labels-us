@@ -11,20 +11,20 @@ Thirty-three (51%) of these 64 patients who discontinued therapy did so because 
 The percentage of cefepime-treated patients who discontinued study drug because of drug-related adverse events was very similar at daily doses of 500 mg, 1 g, and 2 g every 12 hours (0.8%, 1.1%, and 2%, respectively).
 However, the incidence of discontinuation due to rash increased with the higher recommended doses.
 
-The following adverse events were thought to be probably related to cefepime during evaluation of the drug in clinical trials conducted in North America (n=3125 cefepime-treated patients).
+The following adverse events (Table 8) were thought to be probably related to cefepime during evaluation of the drug in clinical trials conducted in North America (n=3125 cefepime-treated patients).
 
-Table 10: Adverse Reactions Cefepime Multiple-Dose Dosing Regimens Clinical Trials - North America
+Table 8: Adverse Reactions Cefepime Multiple-Dose Dosing Regimens Clinical Trials - North America
 
 | INCIDENCE EQUAL TO OR GREATER THAN 1% | Local reactions (3%), including phlebitis (1.3%), pain and/or inflammation (0.6%)Local reactions, irrespective of relationship to cefepime in those patients who received intravenous infusion (n=3048).; rash (1.1%) |
 | --- | --- |
-| INCIDENCE LESS THAN 1% BUT GREATER THAN 0.1% | Colitis (including pseudomembranous colitis), diarrhea, fever, headache, nausea, oral moniliasis, pruritus, urticaria, vaginitis, vomiting |
+| INCIDENCE LESS THAN 1% BUT GREATER THAN 0.1% | Colitis (including pseudomembranous colitis), diarrhea, erythema, fever, headache, nausea, oral moniliasis, pruritus, urticaria, vaginitis, vomiting, anemia |
 
 At the higher dose of 2 g every 8 hours, the incidence of probably-related adverse events was higher among the 795 patients who received this dose of cefepime.
 They consisted of rash (4%), diarrhea (3%), nausea (2%), vomiting (1%), pruritus (1%), fever (1%), and headache (1%).
 
-The following adverse laboratory changes, irrespective of relationship to therapy with cefepime, were seen during clinical trials conducted in North America.
+The following (Table 9) adverse laboratory changes, irrespective of relationship to therapy with cefepime, were seen during clinical trials conducted in North America.
 
-Table 11: Adverse Laboratory Changes Cefepime Multiple-Dose Dosing Regimens Clinical Trials-North America
+Table 9: Adverse Laboratory Changes Cefepime Multiple-Dose Dosing Regimens Clinical Trials-North America
 
 | INCIDENCE EQUAL TO OR GREATER THAN 1% | Positive Coombs’ test (without hemolysis) (16.2%); decreased phosphorus (2.8%); increased ALT/SGPT (2.8%), AST/SGOT (2.4%), eosinophils (1.7%); abnormal PTT (1.6%), PT (1.4%) |
 | --- | --- |
@@ -36,12 +36,9 @@ A similar safety profile was seen in clinical trials of pediatric patients (see 
 
 In addition to the events reported during North American clinical trials with cefepime, the following adverse experiences have been reported during worldwide postmarketing experience.
 
-As with some other drugs in this class, encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, and seizures have been reported.
-Although most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosage schedules, some cases of encephalopathy occurred in patients receiving a dosage adjustment for their renal function (see also WARNINGS).
-
-If seizures associated with drug therapy occur, the drug should be discontinued.
-Anticonvulsant therapy can be given if clinically indicated.
-Precautions should be taken to adjust daily dosage in patients with renal insufficiency or other conditions that may compromise renal function to reduce antibiotic concentrations that can lead or contribute to these and other serious adverse events, including renal failure.
+Encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and non-convulsive status epilepticus have been reported.
+Although most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosage schedules, some cases of neurotoxicity occurred in patients receiving an appropriate dosage adjustment for their degree of renal impairment.
+If neurotoxicity associated with cefepime therapy occurs, consider discontinuing cefepime or making appropriate dosage adjustments in patients with renal impairment (see WARNINGS).
 
 As with other cephalosporins, anaphylaxis including anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis and thrombocytopenia have been reported.
 
@@ -51,4 +48,4 @@ In addition to the adverse reactions listed above that have been observed in pat
 
 Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, hepatic dysfunction including cholestasis, and pancytopenia.
 
-To report SUSPECTED ADVERSE REACTIONS, contact WG Critical Care, LLC at 1-866-562-4708 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+To report SUSPECTED ADVERSE REACTIONS, contact WG Critical Care, LLC at 1-866-562-4708 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
