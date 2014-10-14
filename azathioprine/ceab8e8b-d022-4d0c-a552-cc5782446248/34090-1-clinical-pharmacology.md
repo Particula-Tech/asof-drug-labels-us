@@ -23,6 +23,9 @@ Patients with intermediate TPMT activity may be at increased risk of myelotoxici
 Patients with low or absent TPMT activity are at an increased risk of developing severe, life-threatening myelotoxicity if receiving conventional doses ofazathioprine.4-9 TPMT genotyping or phenotyping (red blood cell TPMT activity) can help identify patients who are at an increased risk for developing azathioprine toxicity.2, 3, 7, 8, 9 Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions.
 See WARNINGS, PRECAUTIONS: Drug interactions, PRECAUTIONS: Laboratory tests and ADVERSE REACTIONS sections.
 
+Figure 1.
+Metabolism pathway of azathioprine: competing pathways result in inactivation by TPMT or XO, or incorporation of cytotoxic nucleotides into DNA.
+
 GMPS: Guanosine monophosphate synthetase; HGPRT: Hypoxanthineguanine-phosphoribosyl-transferase; IMPD: Inosine monophosphate dehydrogenase; MeMP: Methylmercaptopurine; MeMPN: Methylmercaptopurine nucleotide; TGN: Thioguanine nucleotides; TIMP: Thioinosine monophosphate; TPMT: Thiopurine S-methyltransferase; TU: Thiouric acid; XO: Xanthine oxidase) (Adapted from Pharmacogenomics 2002; 3:89-98; and Cancer Res 2001; 61:5810-5816.)
 
 Another inactivation pathway is oxidation, which is catalyzed by xanthine oxidase (XO) to form 6-thiouric acid.
