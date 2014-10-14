@@ -14,8 +14,8 @@ Rx only
 
 For topical use only
 
-©2011 Stiefel Laboratories, Inc.
+©2013 Stiefel Laboratories, Inc.
 
 Made in Israel
 
-10000000094996
+10000000121779

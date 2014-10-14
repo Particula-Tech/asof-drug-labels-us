@@ -64,6 +64,8 @@ Instructions for applying SORILUX Foam
 Before applying SORILUX Foam for the first time, break the tiny plastic piece at the base of the can’s rim by gently pushing back (away from the piece) on the nozzle.
 See Figure A.
 
+Figure A
+
 2.
 Shake the can of SORILUX Foam before use.
 See Figure B.
