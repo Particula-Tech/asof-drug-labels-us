@@ -18,5 +18,5 @@ Recommend the use of sunscreen products and protective apparel (e.g., hat) when 
 
 Rx only
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 by: DPT Laboratories, Ltd. San Antonio, TX 78215 ©2014 Valeant Pharmaceuticals North America LLC 9389400 Rev.
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 by: DPT Laboratories, Ltd. San Antonio, TX 78215 ©2014 Valeant Pharmaceuticals North America LLC 9389401 Rev.
 08/2014
