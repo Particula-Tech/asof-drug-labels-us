@@ -1,36 +1,36 @@
 # MEDICATION GUIDE
 
-Gabapentin (GA-ba-PEN-tin) Capsules
+Gabapentin (GA-be-PEN-tin) Capsules
 
 Read the Medication Guide before you start taking gabapentin capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
-What is the most important information I should know about gabapentin capsules?
-
-Do not stop taking gabapentin capsules without first talking to your healthcare provider.
+What is the most important information I should know aboutgabapentin capsules?
+Do not stop taking gabapentin capsuleswithout first talking to your healthcare provider.
 
 Stopping gabapentin capsules suddenly can cause serious problems.
 
-Gabapentin capsules can cause serious side effects including:
+Gabapentin capsulescan cause serious side effects including:
 
 1.
-Like other antiepileptic drugs, gabapentin capsules may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+Suicidal Thoughts.
+Like other antiepileptic drugs, gabapentin capsulesmay cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
 - attempts to commit suicide
-- new or worse depression
-- new or worse anxiety
+- ·new or worse depression
+- ·new or worse anxiety
 - feeling agitated or restless
 - panic attacks
 - trouble sleeping (insomnia)
-- new or worse irritability
+- ·new or worse irritability
 - acting aggressive, being angry, or violent
 - acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
-- other unusual changes in behavior or mood
+- ·other unusual changes in behavior or mood
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
@@ -39,19 +39,18 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-Do not stop taking gabapentin capsules without first talking to a healthcare provider.
+Do not stop taking gabapentin capsuleswithout first talking to a healthcare provider.
 
 - Stopping gabapentin capsules suddenly can cause serious problems.
   Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
-
-Suicidal thoughts or actions can be caused by things other than medicines.
-If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
+- Suicidal thoughts or actions can be caused by things other than medicines.
+  If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
 2.
 Changes in behavior and thinking - Using gabapentin capsules in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
 
 3.
-Gabapentin capsules may cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
+Gabapentin capsulesmay cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
 You may or may not have rash when you get this type of reaction.
 It may cause you to be hospitalized or to stop gabapentin capsules.
 Call a healthcare provider right away if you have any of the following symptoms:
@@ -61,7 +60,7 @@ Call a healthcare provider right away if you have any of the following symptoms:
 - fever
 - swollen glands that do not go away
 - swelling of your lip and tongue
-- yellowing of your skin or the whites of the eyes
+- yellowing of your skin or of the whites of the eyes
 - unusual bruising or bleeding
 - severe fatigue or weakness
 - unexpected muscle pain
@@ -70,21 +69,21 @@ Call a healthcare provider right away if you have any of the following symptoms:
 These symptoms may be the first signs of a serious reaction.
 A healthcare provider should examine you to decide if you should continue taking gabapentin capsules.
 
-What are gabapentin capsules?
+What aregabapentin capsules?
 
 Gabapentin capsules are a prescription medicine used to treat:
 
 - Pain from damaged nerves (postherpetic pain) that follows healing of shingles (a painful rash that comes after a herpes zoster infection) in adults.
-- Partial seizures when taken together with other medicines in adults and children 3 years of age and older.
+- Partial seizures when taken together with other medicines in adults and children 3 years of age and older with seizures.
 
-Who should not take gabapentin capsules?
+Who should not takegabapentin capsules?
 
 Do not take gabapentin capsules if you are allergic to gabapentin or any of the other ingredients in gabapentin capsules.
 See the end of this Medication Guide for a complete list of ingredients in gabapentin capsules.
 
-What should I tell my healthcare provider before taking gabapentin capsules?
+What should I tell my healthcare provider before takinggabapentin capsules?
 
-Before taking gabapentin capsules, tell your healthcare provider if you:
+Before takinggabapentin capsules, tell your healthcare provider if you:
 
 - have or have had kidney problems or are on hemodialysis
 - have or have had depression, mood problems, or suicidal thoughts or behavior
@@ -99,49 +98,51 @@ Before taking gabapentin capsules, tell your healthcare provider if you:
 - are breast-feeding or plan to breast-feed.
   Gabapentin can pass into breast milk.
   You and your healthcare provider should decide how you will feed your baby while you take gabapentin capsules.
-
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-
-Taking gabapentin capsules with certain other medicines can cause side effects or affect how well they work.
-Do not start or stop other medicines without talking to your healthcare provider.
-
-Know the medicines you take.
-Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
-
-How should I take gabapentin capsules?
-
+  Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+  Taking gabapentin capsules with certain other medicines can cause side effects or affect how well they work.
+  Do not start or stop other medicines without talking to your healthcare provider.
+  Know the medicines you take.
+  Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
+  How should I takegabapentin capsules?
 - Take gabapentin capsules exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin capsules to take.
-  - Do not change your dose of gabapentin capsules without talking to your healthcare provider.
-    While taking gabapentin capsules, always swallow them whole with plenty of water.
+
+- Do not change your dose of gabapentin capsules without talking to your healthcare provider.
+- Take gabapentin capsules with plenty of water.
+
 - Gabapentin capsules can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin capsules.
-- If you take too much gabapentin capsules, call your healthcare provider or your local Poison Control Center right away.
-
-What should I avoid while taking gabapentin capsules?
-
+  If you take too much gabapentin capsules, call your healthcare provider or your local Poison Control Center right away at 1-800-222-1222.
+  What should I avoid while takinggabapentin capsules?
 - Do not drink alcohol or take other medicines that make you sleepy or dizzy while taking gabapentin capsules without first talking with your healthcare provider.
   Taking gabapentin capsules with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
-- Do not drive, operate heavy machinery, or do other dangerous activities until you know how gabapentin capsules affect you.
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how gabapentin capsules affects you.
   Gabapentin capsules can slow your thinking and motor skills.
 
-What are the possible side effects of gabapentin capsules?
+What are the possible side effects ofgabapentin capsules?
 
-- See “What is the most important information I should know about gabapentin capsules?”
-- The most common side effects of gabapentin capsules include:
-  - dizziness
-  - lack of coordination
-  - viral infection
-  - feeling drowsy
-  - feeling tired
-  - fever
-  - jerky movements
-  - difficulty with speaking
-  - temporary loss of memory (amnesia)
-  - tremor
-  - difficulty with coordination
-  - double vision
-  - unusual eye movement
+Gabapentin capsulesmay cause serious side effects including:
+
+See “What is the most important information I should know about gabapentin capsules?”
+
+- problems driving while using gabapentin capsules.
+  See “What I should avoid while taking gabapentin capsules?”
+- sleepiness and dizziness
+- The most common side effects of gabapentin capsulesinclude:
+
+- lack of coordination
+- viral infection
+- feeling drowsy
+- nausea and vomiting
+- difficulty with speaking
+- tremor
+- swelling, usually of legs and feet
+- feeling tired
+- fever
+- jerky movements
+- difficulty with coordination
+- double vision
+- unusual eye movement
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -151,11 +152,11 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store gabapentin capsules?
+How should I storegabapentin capsules?
 
-- Store Gabapentin Capsules between 59°F to 86°F (15°C to 30°C).
+- Store Gabapentin Capsules between 68°F to 77°F (20°C to 25°C).
 
-Keep gabapentin capsules and all medicines out of the reach of children.
+Keep gabapentin capsulesand all medicines out of the reach of children.
 
 General information about the safe and effective use of gabapentin capsules
 
@@ -168,22 +169,24 @@ This Medication Guide summarizes the most important information about gabapentin
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about gabapentin capsules that was written for healthcare professionals.
 
-For more information about gabapentin capsules, go to http://www.amneal.com.
-For medical inquiries or to report side effects regarding gabapentin capsules, please call 1-877-835-5472.
+For more information go to http://www.amneal.com or call 1-877-835-5472.
 
-What are the ingredients in gabapentin capsules?
+What are the ingredients ingabapentin capsules?
 
-Active ingredient: gabapentin
+Active ingredient: gabapentin, USP
 
 Inactive ingredients in the capsules: magnesium stearate, pregelatinized starch (corn), starch (corn) and talc.
 
-The 100-mg capsule shell contains: gelatin, sodium lauryl sulfate and titanium dioxide.
+The 100-mg capsule shell contains: gelatin, sodium lauryl sulfate, and titanium dioxide.
 
 The 300-mg capsule shell contains: gelatin, sodium lauryl sulfate, titanium dioxide, and iron oxide yellow.
 
 The 400-mg capsule shell contains: gelatin, sodium lauryl sulfate, titanium dioxide, FD&C Yellow No. 6, and FD&C Blue No. 1.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+This product’s label may have been updated.
+For current full prescribing information, please visit www.amneal.com
 
 *Trademarks are the property of their respective owners.
 
@@ -193,4 +196,4 @@ Ltd. Ahmedabad, INDIA 382220
 Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-07-2014-00
+09-2014-01
