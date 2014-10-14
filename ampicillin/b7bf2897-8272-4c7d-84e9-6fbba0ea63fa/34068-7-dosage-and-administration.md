@@ -43,7 +43,7 @@ For Intramuscular Use - Dissolve contents of a vial with the amount of Sterile W
 While ampicillin for injection, USP, 1 g and 2 g, are primarily for intravenous use, they may be administered intramusculary when the 250 mg or 500 mg vials are unavailable.
 In such instances, dissolve in 3.5 or 6.8 mL Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP, respectively.
 The resulting solution will provide a concentration of 250 mg per mL.
-For Direct Intravenous Use - Add 5 mL Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP to the 1250 and 500 mg vials and administer slowly over a 3- to 5-minute period.
+For Direct Intravenous Use - Add 5 mL Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP to the 125 and 500 mg vials and administer slowly over a 3- to 5-minute period.
 Ampicillin for injection, USP, 1 g or 2 g, may also be given by direct Intravenous administration.
 Dissolve in 7.4 or 14.8 mL Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP, respectively, and administer slowly over at least 10 to 15 minutes.
 CAUTION: More rapid administration may result in convulsive seizures.
