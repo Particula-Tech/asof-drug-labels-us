@@ -2,8 +2,33 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Sterile Solution is for Intramuscular and Intravenous Use
 
+# DIRECTIONS FOR USE
+
+## CLEOCIN PHOSPHATE IV Solution in GALAXY Plastic Container
+
+Premixed CLEOCIN PHOSPHATE IV Solution is for intravenous administration using sterile equipment.
+Check for minute leaks prior to use by squeezing bag firmly.
+If leaks are found, discard solution as sterility may be impaired.
+Do not add supplementary medication.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+Do not use unless solution is clear and seal is intact.
+
+Caution: Do not use plastic containers in series connections.
+Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
+
+## Preparation for Administration
+
+1. Suspend container from eyelet support.
+2. Remove protector from outlet port at bottom of container.
+3. Attach administration set.
+   Refer to complete directions accompanying set.
+
 PREMIERPro™Rx is a trademark of Premier, Inc., used under license.
+
+CLEOCIN PHOSPHATE IV Solution in the GALAXY plastic containers is manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015.
+
+GALAXY® is a trademark of Baxter International Inc.
 
 Distributed by Pharmacia & Upjohn Co. Division of Pfizer Inc. New York, NY 10017
 
-LAB-0696-1.0 December 2013
+LAB-0696-2.0 May 2014

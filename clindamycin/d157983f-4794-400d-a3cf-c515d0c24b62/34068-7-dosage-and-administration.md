@@ -4,7 +4,7 @@ If diarrhea occurs during therapy, this antibiotic should be discontinued (see W
 
 Clindamycin phosphate IM administration should be used undiluted.
 
-Clindamycin phosphate IV administration should be diluted (See Dilution for IV use and IV infusion rates below)
+Clindamycin phosphate IV administration should be diluted (see Dilution for IV use and IV infusion rates below).
 
 ## Adults
 
@@ -18,8 +18,7 @@ More severe infections, particularly those due to proven or suspected Bacteroide
 
 For more serious infections, these doses may have to be increased.
 In life-threatening situations due to either aerobes or anaerobes these doses may be increased.
-Doses of as much as 4800 mg daily have been given intravenously to adults.
-See Dilution for IV use and IV Infusion Rates section below.
+Doses of as much as 4800 mg daily have been given intravenously to adults (see Dilution for IV use and IV Infusion Rates section below).
 
 Single intramuscular injections of greater than 600 mg are not recommended.
 
@@ -75,14 +74,9 @@ For current information regarding compatibilities of clindamycin phosphate under
 
 ## Physico-Chemical Stability of diluted solutions of CLEOCIN PHOSPHATE
 
-Room temperature: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or minibags, demonstrated physical and chemical stability for at least 16 days at 25°C.
-Also, 18 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, in minibags, demonstrated physical and chemical stability for at least 16 days at 25°C.
+Room temperature: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles, demonstrated physical and chemical stability for at least 16 days at 25°C.
 
-Refrigeration: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or minibags, demonstrated physical and chemical stability for at least 32 days at 4°C.
+Refrigeration: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles, demonstrated physical and chemical stability for at least 32 days at 4°C.
 
 IMPORTANT: This chemical stability information in no way indicates that it would be acceptable practice to use this product well after the preparation time.
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
-
-Frozen: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in minibags demonstrated physical and chemical stability for at least eight weeks at -10°C.
-
-Frozen solutions should be thawed at room temperature and not refrozen.
