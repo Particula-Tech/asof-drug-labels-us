@@ -9,10 +9,10 @@ DIFLUCAN should be discontinued if clinical signs and symptoms consistent with l
 
 (2) Anaphylaxis: In rare cases, anaphylaxis has been reported.
 
-(3) Dermatologic: Patients have rarely developed exfoliative skin disorders during treatment with DIFLUCAN.
-In patients with serious underlying diseases (predominantly AIDS and malignancy), these have rarely resulted in a fatal outcome.
-Patients who develop rashes during treatment with DIFLUCAN should be monitored closely and the drug discontinued if lesions progress.
-If a rash, which is considered attributable to fluconazole, develops in a patient treated for a superficial fungal infection, further therapy with this agent should be discontinued.
+(3) Dermatologic: Exfoliative skin disorders during treatment with DIFLUCAN have been reported.
+Fatal outcomes have been reported in patients with serious underlying diseases.
+Patients with deep seated fungal infections who develop rashes during treatment with DIFLUCAN should be monitored closely and the drug discontinued if lesions progress.
+Fluconazole should be discontinued in patients treated for superficial fungal infection who develop a rash that may be attributed to fluconazole.
 
 (4) Use in Pregnancy: There are no adequate and well-controlled studies of DIFLUCAN in pregnant women.
 Available human data do not suggest an increased risk of congenital anomalies following a single maternal dose of 150 mg.
@@ -85,7 +85,7 @@ Careful monitoring of phenytoin concentrations in patients receiving DIFLUCAN an
 DIFLUCAN significantly increases cyclosporine levels in renal transplant patients with or without renal impairment.
 Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving DIFLUCAN and cyclosporine.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies).
-This combination may be used by reducing the dosage of cyclosporin depending on cyclosporin concentration.
+This combination may be used by reducing the dosage of cyclosporine depending on cyclosporine concentration.
 
 ### Rifampin
 
