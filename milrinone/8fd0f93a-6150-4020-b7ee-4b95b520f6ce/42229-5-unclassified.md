@@ -1,5 +1,3 @@
-in INTRAVIA Plastic Container
-
 # DIRECTIONS FOR USE
 
 When administering Milrinone Lactate in 5% Dextrose Injection by continuous infusion, it is advisable to use a calibrated electronic infusion device.
@@ -15,16 +13,18 @@ If leaks are found, discard solution as sterility may be impaired.
 
 ## Preparation for Administration
 
+Visually inspect the container.
+If the administration port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
+
 (Use aseptic technique)
 
 1. Suspend container from eyelet support.
-2. Remove protector from outlet port at bottom of container.
+2. Remove protector from administration port at bottom of container.
 3. Attach administration set.
    Refer to complete directions accompanying set.
 
-WARNING: DO NOT USE IN SERIES CONNECTIONS.
-Do not administer simultaneously with blood.
-Caution: Do not use plastic containers in series connections.
+Caution: Do not administer simultaneously with blood.
+Do not use plastic containers in series connections.
 Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
@@ -33,6 +33,7 @@ Printed in USA
 
 BAXTER and INTRAVIA are trademarks of Baxter International Inc.
 
-07-19-54-485
+07-19-73-096
 
-Revised, September 2007
+Rev.
+April 2014
