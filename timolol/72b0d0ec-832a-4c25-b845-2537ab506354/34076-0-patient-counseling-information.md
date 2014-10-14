@@ -62,16 +62,14 @@ Patients should be advised that transient blurred vision or visual disturbance, 
 
 **DROP-TAINER® is a registered trademark of Alcon Research, Ltd.
 
-Distributed by:
-
-FALCON Pharmaceuticals, Ltd.
-
-Fort Worth, Texas 76134
-
 Manufactured by:
 
-ALCON LABORATORIES, INC.
+Alcon Laboratories, Inc.
 
-Fort Worth, Texas 76134
+Fort Worth, Texas 76134 for
 
-9005450-0310
+Sandoz Inc.
+
+Princeton, NJ 08540
+
+9007201-1011

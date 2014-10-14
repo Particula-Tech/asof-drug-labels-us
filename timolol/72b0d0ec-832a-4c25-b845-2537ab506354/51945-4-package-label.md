@@ -2,18 +2,30 @@
 
 NDC 61314-224-05
 
-Rx Only
-
-FALCON® PHARMACEUTICALS
-
 Timolol GFS
 
 Timolol maleate ophthalmic gel forming solution
 
 0.25%
 
+Rx only
+
 5 mL STERILE
 
-AFFILIATE OF ALCON LABORATORIES, INC.
+SANDOZ
 
-QUALITY RX
+# Package/Label Display Panel
+
+NDC 61314-224-05
+
+Timolol GFS
+
+Timolol maleate ophthalmic gel forming solution
+
+0.5%
+
+Rx only
+
+5 mL STERILE
+
+SANDOZ
