@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205718"
+  ],
+  "inn": "palonosetron",
+  "labeler": "Eisai Inc.",
+  "package_ndcs": [
+    "62856-796-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "netupitant and palonosetron",
+      "name": "AKYNZEO"
+    }
+  ],
+  "setid": "2daa0c22-3051-4f12-a860-e5404c862760",
+  "source": "dailymed"
+}
