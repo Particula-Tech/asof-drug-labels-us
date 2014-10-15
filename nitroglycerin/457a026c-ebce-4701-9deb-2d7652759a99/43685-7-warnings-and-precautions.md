@@ -1,9 +1,5 @@
 # WARNINGS
 
-Amplification of the vasodilatory effects of Nitroglycerin by sildenafil can result in severe hypotension.
-The time course and dose dependence of this interaction have not been studied.
-Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
-
 Nitroglycerin readily migrates into many plastics, including the polyvinyl chloride (PVC) plastics commonly used for intravenous administration sets.
 Nitroglycerin absorption by PVC tubing is increased when the tubing is long, the flow rates are low, and the nitroglycerin concentration of the solution is high.
 The delivered fraction of the solution's original nitroglycerin content has been 20-60% in published studies using PVC tubing; the fraction varies with time during a single infusion, and no simple correction factor can be used.
@@ -56,6 +52,10 @@ Because of the propylene glycol content of intravenous nitroglycerin, serum trig
 ## Drug Interactions:
 
 The vasodilating effects of nitroglycerin may be additive with those of other vasodilators.
+
+Concomitant use of Nitroglycerin in 5% Dextrose Injection with phosphodiesterase inhibitors in any form is contraindicated (see Contraindications).
+
+Concomitant use of Nitroglycerin in 5% Dextrose Injection with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see Contraindications).
 
 Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and organic nitrates were used in combination.
 
