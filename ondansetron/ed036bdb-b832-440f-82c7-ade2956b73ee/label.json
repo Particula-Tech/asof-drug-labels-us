@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022524"
+  ],
+  "inn": "ondansetron",
+  "labeler": "Galena Biopharma, Inc.",
+  "package_ndcs": [
+    "57881-444-01",
+    "57881-444-10",
+    "57881-448-01",
+    "57881-448-10"
+  ],
+  "products": [
+    {
+      "form": "FILM, SOLUBLE",
+      "generic": "ondansetron",
+      "name": "Zuplenz"
+    }
+  ],
+  "setid": "ed036bdb-b832-440f-82c7-ade2956b73ee",
+  "source": "dailymed"
+}
