@@ -71,7 +71,7 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 | Strong CYP3A4 Inhibitors, e.g.:ItraconazoleKetoconazolePosaconazoleVoriconazoleErythromycinClarithromycinTelithromycinHIV protease inhibitorsBoceprevirTelaprevirNefazodoneCobicistat-containing productsGemfibrozilCyclosporineDanazol | Contraindicated with simvastatin |
 | VerapamilDiltiazemDronedarone | Do not exceed 10 mg simvastatin daily |
 | AmiodaroneAmlodipineRanolazine | Do not exceed 20 mg simvastatin daily |
-| Lomitapide | For patients with HoFH, do not exceed 20 mg simvastatin dailyFor patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 40 mg simvastatin when taking lomitapide. |
+| Lomitapide | For patients with HoFH, do not exceed 20 mg simvastatin daily For patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 40 mg simvastatin when taking lomitapide. |
 | Grapefruit juice | Avoid grapefruit juice |
 
 ## 5.2 Liver Dysfunction

@@ -37,7 +37,7 @@ The HPS results showed that simvastatin tablets 40 mg/day significantly reduced:
 
 Table 4: Summary of Heart Protection Study Results
 
-| Endpoint | Simvastatin Tablets (N=10,269)n(%)n = number of patients with indicated event | Placebo (N=10,267)n (%) | Risk Reduction (%) (95% CI) | p-Value |
+| Endpoint | Simvastatin Tablets (N=10,269) n(%)n = number of patients with indicated event | Placebo (N=10,267) n (%) | Risk Reduction (%) (95% CI) | p-Value |
 | --- | --- | --- | --- | --- |
 | Primary |  |  |  |  |
 | Mortality | 1,328 (12.9) | 1,507 (14.7) | 13 (6 to 19) | p=0.0003 |
@@ -96,7 +96,7 @@ Hypertriglyceridemia (Frederickson type IV)
 
 The results of a subgroup analysis in 74 patients with type lV hyperlipidemia from a 130-patient, double-blind, placebo-controlled, 3-period crossover study are presented in Table 6.
 
-Table 6: Six-week, Lipid-lowering Effects of Simvastatin in Type lV Hyperlipidemia Median Percent Change (25th and 75th percentile) from BaselineThe median baseline values (mg/dL) for the patients in this study were: total-C = 254, LDL-C = 135, HDL-C = 36, TG = 404, VLDL-C = 83, and non-HDL-C = 215
+Table 6: Six-week, Lipid-lowering Effects of Simvastatin in Type lV Hyperlipidemia Median Percent Change (25 th and 75 th percentile) from Baseline The median baseline values (mg/dL) for the patients in this study were: total-C = 254, LDL-C = 135, HDL-C = 36, TG = 404, VLDL-C = 83, and non-HDL-C = 215
 
 | TREATMENT | N | Total-C | LDL-C | HDL-C | TG | VLDL-C | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -108,7 +108,7 @@ Dysbetalipoproteinemia (Fredrickson type lll)
 
 The results of a subgroup analysis in 7 patients with type lll hyperlipidemia (dysbetalipoproteinemia) (apo E2/2) (VLDL-C/TG>0.25) from a 130-patient, double-blind, placebo-controlled, 3-period crossover study are presented in Table 7.
 
-Table 7: Six-week, Lipid-lowering Effects of Simvastatin in Type lll Hyperlipidemia Median Percent Change (min, max) from BaselineThe median baseline values (mg/dL) were: total-C = 324, LDL-C = 121, HDL-C = 31, TG = 411, VLDL-C = 170, and non-HDL-C = 291.
+Table 7: Six-week, Lipid-lowering Effects of Simvastatin in Type lll Hyperlipidemia Median Percent Change (min, max) from Baseline The median baseline values (mg/dL) were: total-C = 324, LDL-C = 121, HDL-C = 31, TG = 411, VLDL-C = 170, and non-HDL-C = 291.
 
 | TREATMENT | N | Total-C | LDL-C + IDL | HDL-C | TG | VLDL-C+IDL | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |

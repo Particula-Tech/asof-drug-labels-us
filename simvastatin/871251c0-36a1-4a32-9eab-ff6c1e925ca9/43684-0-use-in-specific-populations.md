@@ -14,11 +14,11 @@ Because statins decrease cholesterol synthesis and possibly the synthesis of oth
 If simvastatin tablets are used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
 There are rare reports of congenital anomalies following intrauterine exposure to statins.
-In a reviewManson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology,, 10(6):439-446, 1996. of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or another structurally related statin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed those expected in the general population.
+In a review Manson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology,, 10(6):439-446, 1996. of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or another structurally related statin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed those expected in the general population.
 However, the study was only able to exclude a 3- to 4-fold increased risk of congenital anomalies over the background rate.
 In 89% of these cases, drug treatment was initiated prior to pregnancy and was discontinued during the first trimester when pregnancy was identified.
 
-Simvastatin was not teratogenic in rats or rabbits at doses (25, 10 mg/kg/day, respectively) that resulted in 3 times the human exposure based on mg/m2 surface area.
+Simvastatin was not teratogenic in rats or rabbits at doses (25, 10 mg/kg/day, respectively) that resulted in 3 times the human exposure based on mg/m 2 surface area.
 However, in studies with another structurally-related statin, skeletal malformations were observed in rats and mice.
 
 Women of childbearing potential, who require treatment with simvastatin tablets for a lipid disorder, should be advised to use effective contraception.
