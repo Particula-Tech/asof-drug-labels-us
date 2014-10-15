@@ -1,5 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+See FDA-Approved Patient Labeling
+
+FDA-Approved Patient Labeling
+
 VFEND® /VEE-fend/
 
 (voriconazole) IV injection
@@ -29,6 +33,7 @@ Do not take VFEND if you:
   - rifampin (Rifadin®)
   - carbamazepine (Tegretol®)
   - long-acting barbiturates like phenobarbital (Luminal®)
+  - efavirenz (Sustiva®)
   - ritonavir (Norvir®)
   - rifabutin (Mycobutin®)
   - ergotamine, dihydroergotamine (ergot alkaloids)
@@ -167,6 +172,6 @@ VFEND IV: sulfobutyl ether beta-cyclodextrin sodium
 
 PREMIERPro™Rx is a trademark of Premier, Inc., used under license.
 
-LAB-0668-1.0
+LAB-0668-2.0
 
-March 2013.
+September 2014
