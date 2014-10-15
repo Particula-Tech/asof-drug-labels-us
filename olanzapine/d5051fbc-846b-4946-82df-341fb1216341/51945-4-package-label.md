@@ -16,8 +16,6 @@ Rx only
 
 Medication Guide is to be dispensed to patients.
 
-zyprexa.com
-
 Lilly
 
 PACKAGE LABEL - ZYPREXA 5 mg tablet, bottle of 30
@@ -37,8 +35,6 @@ Olanzapine Tablets
 Rx only
 
 Medication Guide is to be dispensed to patients.
-
-zyprexa.com
 
 Lilly
 
@@ -60,8 +56,6 @@ Rx only
 
 Medication Guide is to be dispensed to patients.
 
-zyprexa.com
-
 Lilly
 
 PACKAGE LABEL - ZYPREXA 10 mg tablet, bottle of 30
@@ -81,8 +75,6 @@ Olanzapine Tablets
 Rx only
 
 Medication Guide is to be dispensed to patients.
-
-zyprexa.com
 
 Lilly
 
@@ -104,8 +96,6 @@ Rx only
 
 Medication Guide is to be dispensed to patients.
 
-zyprexa.com
-
 Lilly
 
 PACKAGE LABEL - ZYPREXA 20 mg tablet, bottle of 30
@@ -125,8 +115,6 @@ Olanzapine Tablets
 Rx only
 
 Medication Guide is to be dispensed to patients.
-
-zyprexa.com
 
 Lilly
 
@@ -152,8 +140,6 @@ Phenylketonurics: Contains phenylalanine 0.34 mg per tablet.
 
 DO NOT OPEN POUCH UNTIL IMMEDIATELY PRIOR TO USE.
 
-www.ZYPREXA.com
-
 Lilly
 
 PACKAGE LABEL - ZYPREXA ZYDIS 10 mg tablet, 30 sachets
@@ -177,8 +163,6 @@ Olanzapine Orally Disintegrating Tablets
 Phenylketonurics: Contains phenylalanine 0.45 mg per tablet.
 
 DO NOT OPEN POUCH UNTIL IMMEDIATELY PRIOR TO USE.
-
-www.ZYPREXA.com
 
 Lilly
 
@@ -204,8 +188,6 @@ Phenylketonurics: Contains phenylalanine 0.67 mg per tablet.
 
 DO NOT OPEN POUCH UNTIL IMMEDIATELY PRIOR TO USE.
 
-www.ZYPREXA.com
-
 Lilly
 
 PACKAGE LABEL - ZYPREXA ZYDIS 20 mg tablet, 30 sachets
@@ -230,8 +212,6 @@ Phenylketonurics: Contains phenylalanine 0.90 mg per tablet.
 
 DO NOT OPEN POUCH UNTIL IMMEDIATELY PRIOR TO USE.
 
-www.ZYPREXA.com
-
 Lilly
 
 PACKAGE LABEL - ZYPREXA INTRAMUSCULAR 10 mg/vial
@@ -253,7 +233,5 @@ Rx only
 For intramuscular use only.
 
 10 mg/vial
-
-www.ZYPREXA.com
 
 Lilly
