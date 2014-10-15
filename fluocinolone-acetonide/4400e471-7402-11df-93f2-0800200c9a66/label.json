@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA201923"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "Alimera Sciences, Inc.",
+  "package_ndcs": [
+    "68611-190-02"
+  ],
+  "products": [
+    {
+      "form": "IMPLANT",
+      "generic": "fluocinolone acetonide",
+      "name": "Iluvien"
+    }
+  ],
+  "setid": "4400e471-7402-11df-93f2-0800200c9a66",
+  "source": "dailymed"
+}
