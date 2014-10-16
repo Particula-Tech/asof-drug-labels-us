@@ -49,6 +49,10 @@ A patient leaflet is supplied with the systems.
 The vasodilating effects of nitroglycerin may be additive with those of other vasodilators.
 Alcohol, in particular, has been found to exhibit additive effects of this variety.
 
+Concomitant use of NITRO-DUR with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS).
+
+Concomitant use of NITRO-DUR with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS).
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Animal carcinogenesis studies with topically applied nitroglycerin have not been performed.
