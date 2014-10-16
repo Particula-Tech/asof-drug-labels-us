@@ -1,3 +1,4 @@
-Rx only
+This product's label may have been updated.
+For full prescribing information, please visit www.greenstonellc.com.
 
-LAB-0290-14.0 December 2012
+LAB-0290-15.0
