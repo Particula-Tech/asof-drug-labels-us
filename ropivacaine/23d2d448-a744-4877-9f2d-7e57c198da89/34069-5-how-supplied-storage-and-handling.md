@@ -13,15 +13,6 @@ polypropylene ampules fitting both Luer-lock and Luer-slip (tapered syringes)
 | 278810 | 63323-288-10 | 10 mg/mL (1%) | 10 mL |
 | 278820 | 63323-288-20 | 10 mg/mL (1%) | 20 mL |
 
-Naropin® Flexible Plastic Containers
-
-| ProductNo. | NDCNo. | Strength | Size |
-| --- | --- | --- | --- |
-| 278561 | 63323-285-61 | 2 mg/mL (0.2%) | 100 mL flexible plastic container. |
-| 278563 | 63323-285-63 | 2 mg/mL (0.2%) | 200 mL flexible plastic container. |
-
-This container is not made with natural rubber latex or polyvinyl chloride (PVC), Non-DEHP.
-
 Naropin® is also available as follows:
 
 Naropin® Single Dose Vials
