@@ -4,16 +4,14 @@ NDC 0085-0575-02
 
 15 g
 
-Diprolene® brand of augmented betamethasone dipropionate*
+Diprolene® (augmented betamethasone dipropionate)
 
-Ointment 0.05%
+Ointment, 0.05%*
 
-(Potency expressed as betamethasone)
+*Strength expressed as betamethasone
 
-*Vehicle augments the penetration of the steroid.
+For topical use only.
 
-For dermatologic use only.
-
-Not for ophthalmic use.
+Not for oral, ophthalmic, or intravaginal use.
 
 Rx only
