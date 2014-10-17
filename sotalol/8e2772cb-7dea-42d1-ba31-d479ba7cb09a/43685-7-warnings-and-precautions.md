@@ -224,7 +224,7 @@ No significant reduction in fertility occurred in rats at oral doses of 1000 mg/
 
 ### Teratogenic Effects
 
-#### Pregnancy category B
+### Pregnancy category B
 
 Reproduction studies in rats and rabbits during organogenesis at 100 and 22 times the MRHD as mg/kg (9 and 7 times the MRHD as mg/m2), respectively, did not reveal any teratogenic potential associated with sotalol HCl.
 In rabbits, a high dose of sotalol HCl (160 mg/kg/day) at 16 times the MRHD as mg/kg (6 times the MRHD as mg/m2) produced a slight increase in fetal death likely due to maternal toxicity.
