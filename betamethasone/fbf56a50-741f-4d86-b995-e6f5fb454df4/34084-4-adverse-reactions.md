@@ -1,12 +1,19 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The only local adverse reaction reported to be possibly or probably related to treatment with DIPROLENE® AF Cream 0.05% during adult-controlled clinical studies was stinging.
-It occurred in 1 patient, 0.4%, of the 242 patients or subjects involved in the studies.
+## 6.1 Clinical Trials Experience
 
-Adverse reactions reported to be possibly or probably related to treatment with DIPROLENE AF Cream 0.05% during a pediatric clinical study include signs of skin atrophy (telangiectasia, bruising, shininess).
-Skin atrophy occurred in 7 of 67 (10%) patients, involving all age groups from 3 months – 12 years of age.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended.
-These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria.
+In controlled clinical trials, involving 242 adult subjects, the adverse reaction associated with the use of DIPROLENE AF Cream reported at a frequency of 0.4% was stinging.
+It occurred in 1 subject.
 
-Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients.
+In a controlled clinical trial involving 67 pediatric subjects from 3 months to 12 years of age, the adverse reactions associated with the use of DIPROLENE AF Cream occurred in 7 of 67 (10%) subjects.
+Reported reactions included signs of skin atrophy (telangiectasia, bruising, shininess).
+
+## 6.2 Postmarketing Experience
+
+Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Postmarketing reports for local adverse reactions to topical corticosteroids may also include: burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, hypertrichosis, skin atrophy, striae, and miliaria.
+
+Hypersensitivity reactions, consisting of predominantly skin signs and symptoms, e.g., contact dermatitis, pruritus, bullous dermatitis, and erythematous rash have been reported.

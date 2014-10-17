@@ -4,14 +4,14 @@ NDC 0085-0517-01
 
 15 g
 
-Diprolene® AF brand of augmented betamethasone dipropionate*
+Diprolene® AF (augmented betamethasone dipropionate)
 
-Cream, 0.05% (Potency expressed as betamethasone)
+Cream, 0.05%*
 
-*Vehicle augments the penetration of the steroid.
+*Strength expressed as betamethasone
 
-For dermatologic use only.
+For topical use only.
 
-Not for ophthalmic use.
+Not for oral, ophthalmic, or intravaginal use.
 
 Rx only

@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-DIPROLENE® AF Cream 0.05% is a high-potency corticosteroid indicated for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in patients 13 years and older.
+DIPROLENE® AF Cream is a corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in patients 13 years of age or older.
