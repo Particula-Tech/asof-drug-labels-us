@@ -3,11 +3,11 @@
 Esmolol hydrochloride is a beta adrenergic receptor blocker with a very short duration of action (elimination half-life is approximately 9 minutes).
 Esmolol hydrochloride is:
 
-- (±)-Methyl p-[2-hydroxy-3-(isopropylamino) propoxy] hydrocinnamate hydrochloride and has the following structure:
+- •(±)-Methyl p-[2-hydroxy-3-(isopropylamino) propoxy] hydrocinnamate hydrochloride and has the following structure:
 
-- Esmolol hydrochloride has the empirical formula C16H26NO4Cl and a molecular weight of 331.8.
+- •Esmolol hydrochloride has the empirical formula C16H26NO4Cl and a molecular weight of 331.8.
   It has one asymmetric center and exists as an enantiomeric pair.
-- Esmolol hydrochloride is a white to off-white crystalline powder.
+- •Esmolol hydrochloride is a white to off-white crystalline powder.
   It is a relatively hydrophilic compound which is very soluble in water and freely soluble in alcohol.
   Its partition coefficient (octanol/water) at pH 7.0 is 0.42 compared to 17.0 for propranolol.
 
@@ -18,7 +18,7 @@ The formulation is described in the table below:
 
 Table 4 Formulation for Esmolol Hydrochloride Injection
 
-| Esmolol Hydrochloride | 10 mg/mL |
+| Esmolol Hydrochloride. USP | 10 mg/mL |
 | --- | --- |
 | Sodium Chloride, USP | 5.9 mg/mL |
 | Water for Injection, USP | Q.S. to volume of 10 mL |
