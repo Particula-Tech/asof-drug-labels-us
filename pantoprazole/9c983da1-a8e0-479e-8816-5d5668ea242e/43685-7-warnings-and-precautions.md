@@ -34,8 +34,7 @@ Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patien
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
-For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
-[See Adverse Reactions 6.2)]
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [See Adverse Reactions 6.2)].
 
 ## 5.7 Tumorigenicity
 
@@ -50,5 +49,4 @@ See Drug Interactions (7.5).
 ## 5.9 Concomitant use of Pantoprazole with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients.
-[see Drug Interactions (7.6)]
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.6)].

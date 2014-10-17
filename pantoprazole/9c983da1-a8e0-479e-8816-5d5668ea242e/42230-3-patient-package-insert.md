@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-Pantoprazole sodium delayed-release tablets, USP
+Pantoprazole sodium (pan TOE pra zole SO-dee-um) delayed-release tablets, USP
 
 Read this Medication Guide before you start taking pantoprazole sodium delayed-release tablets and each time you get a refill.
 There may be new information.
@@ -223,7 +223,7 @@ Pantoprazole sodium Delayed-Release Tablets:
 - If you have trouble swallowing a pantoprazole sodium delayed-release 40 mg tablet, you can take two 20 mg tablets instead.
 - Do not split, chew, or crush pantoprazole sodium delayed-release tablets.
 
-This Medication Guide has been approved by the U.S. food and Drug Administration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.torrentpharma.com.
@@ -235,6 +235,6 @@ Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
 
-8042296 Revised July 2013
+8044689 Revised January 2014

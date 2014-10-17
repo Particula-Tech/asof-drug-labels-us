@@ -80,6 +80,8 @@ These adverse reactions are listed below by body system:
 
 General Disorders and Administration Conditions: asthenia, fatigue, malaise
 
+Hematologic: pancytopenia, agranulocytosis
+
 Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure
 
 Immune System Disorders: anaphylaxis (including anaphylactic shock)
@@ -91,6 +93,8 @@ Investigations: weight changes
 Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
+
+Nervous: ageusia, dysgeusia
 
 Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 

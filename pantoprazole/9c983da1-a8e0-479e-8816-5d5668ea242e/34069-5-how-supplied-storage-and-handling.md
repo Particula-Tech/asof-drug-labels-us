@@ -24,5 +24,4 @@ They are available as follows:
 
 Storage
 
-Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F).
-[see USP Controlled Room Temperature].
+Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
