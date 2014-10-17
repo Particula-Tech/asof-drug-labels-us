@@ -16,5 +16,3 @@ Risperidone tablets, USP contain the following inactive ingredients: anhydrous l
 0.5 mg tablets: Ferric oxide red
 
 2 mg tablets: FD&C yellow # 6 Orange yellow S (E 110)
-
-4 mg tablets: FD&C Blue # 2 Lake of indigo carmine

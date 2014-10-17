@@ -5,6 +5,6 @@ Mehsana, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
+TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8038162 Revised October 2012
+8048607 Revised June 2014

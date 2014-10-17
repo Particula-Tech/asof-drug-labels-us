@@ -28,10 +28,10 @@ Advise patients and caregivers to inform their physicians if the patient is taki
 
 Advise patients to avoid alcohol while taking risperidone [see Drug Interactions (7.2)].
 
-## 17.8 Metabolic Changes
+## 17.7 Metabolic Changes
 
 Inform patients and caregivers that treatment with risperidone can be associated with hyperglycemia and diabetes mellitus, dyslipidemia, and weight gain [see Warnings and Precautions (5.5)].
 
-## 17.9 Tardive Dyskinesia
+## 17.8 Tardive Dyskinesia
 
 Inform patients and caregivers about the risk of tardive dyskinesia [see Warnings and Precautions (5.4)].

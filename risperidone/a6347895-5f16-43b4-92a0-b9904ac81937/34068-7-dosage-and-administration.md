@@ -6,13 +6,13 @@ Recommended Daily Dosage by Indication
 |  | Initial Dose | Titration (Increments) | Target Dose | Effective Dose Range |
 | --- | --- | --- | --- | --- |
 | Schizophrenia: adults (2.1) | 2 mg | 1 to 2 mg | 4 to 8 mg | 4 to 16 mg |
-| Schizophrenia: adolescents (2.2 | 0.5 mg | 0.5 to 1 mg | 3 mg | 1 to 6 mg |
-| Bipolar mania: adults (2.2) | 2 to 3 mg | 1mg | 1 to 6mg | 1 to 6 mg |
-| Bipolar mania: children and adolescents (2.2) | 0.5 mg | 0.5 to 1mg | 1 to 2.5 mg | 1 to 6 mg |
+| Schizophrenia: adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 3 mg | 1 to 6 mg |
+| Bipolar mania: adults (2.2) | 2 to 3 mg | 1 mg | 1 to 6 mg | 1 to 6 mg |
+| Bipolar mania: children and adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 1 to 2.5 mg | 1 to 6 mg |
 | Irritability in autistic disorder (2.3) | 0.25 mg Can increase to 0.5 mg by Day 4: (body weight less than 20 kg) 0.5 mg Can increase to 1 mg by Day 4: (body weight greater than or equal to 20 kg) | After Day 4, at intervals of > 2 weeks: 0.25 mg (body weight less than 20 kg) 0.5 mg (body weight greater than or equal to 20 kg) | 0.5 mg: (body weight less than 20 kg) 1 mg: (body weight greater than or equal to 20 kg) | 0.5 to 3 mg |
 
 Severe Renal and Hepatic Impairment in Adults: use a lower starting dose of 0.5 mg twice daily.
-May increase to dosages above 1.5 mg twice daily at intervals of at one week or longer
+May increase to dosages above 1.5 mg twice daily at intervals of at one week or longer.
 
 ## 2.1 Schizophrenia
 
@@ -24,7 +24,7 @@ Risperidone tablets can be administered once or twice daily.
 Initial dosing is 2 mg per day.
 May increase the dose at intervals of 24 hours or greater, in increments of 1 to 2 mg per day, as tolerated, to a recommended dose of 4 to 8 mg per day.
 In some patients, slower titration may be appropriate.
-Efficacy has been demonstrated in a range of 4 mg to 16 mg per.
+Efficacy has been demonstrated in a range of 4 mg to 16 mg per day.
 However, doses above 6 mg per day for twice daily dosing were not demonstrated to be more efficacious than lower doses, were associated with more extrapyramidal symptoms and other adverse effects, and are generally not recommended.
 In a single study supporting once-daily dosing, the efficacy results were generally stronger for 8 mg than for 4 mg.
 The safety of doses above 16 mg per day has not been evaluated in clinical trials [see Clinical Studies (14.1)].
@@ -67,7 +67,7 @@ Risperidone tablet doses higher than 6 mg per day were not studied.
 Pediatrics
 
 The initial dose is 0.5 mg once daily, administered as a single-daily dose in the morning or evening.
-The dose may be adjusted at intervals of 24 hours or greater, in increments of 0.5 mg or 1 mg per day, as tolerated, to the recommended target dose of 1mg to 2.5 mg per day.
+The dose may be adjusted at intervals of 24 hours or greater, in increments of 0.5 mg or 1 mg per day, as tolerated, to the recommended target dose of 1 mg to 2.5 mg per day.
 Although efficacy has been demonstrated in studies of pediatric patients with bipolar mania at doses between 0.5 mg and 6 mg per day, no additional benefit was observed above 2.5 mg per day, and higher doses were associated with more adverse events.
 Doses higher than 6 mg per day have not been studied.
 

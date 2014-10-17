@@ -36,7 +36,7 @@ Adult Patients with Schizophrenia
 Table 8 lists the adverse reactions reported in 1% or more of risperidone-treated adult patients with schizophrenia in three 4- to 8-week, double-blind, placebo-controlled trials.
 
 Table 8.
-Adverse Reactions in ≥ 2% of Risperidone-Treated Adult Patients (and greater than placebo) with Schizophrenia in Double-Blind, Placebo-Controlled Trials.
+Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients (and greater than placebo) with Schizophrenia in Double-Blind, Placebo-Controlled Trials.
 
 |  | Percentage of Patients Reporting Reaction Risperidone |  |  |
 | --- | --- | --- | --- |
@@ -98,7 +98,7 @@ Table 9 lists the adverse reactions reported in 5% or more of risperidone-treate
 Table 9.
 Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients (and greater than placebo) with Schizophrenia in a Double-Blind Trial
 
-|  | Percentage of Patients Reporting Reaction Risperidone |  |  |
+|  | Percentage of Patients Reporting ReactionRisperidone |  |  |
 | --- | --- | --- | --- |
 | System/Organ ClassAdverse Reaction | 1-3 mg per day (N=55) | 4-6 mg per day (N=51) | Placebo (N=54) |
 | Gastrointestinal Disorders |  |  |  |
@@ -118,7 +118,7 @@ Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical
 
 Adult Patients with Bipolar Mania
 
-Table 10 lists the adverse reactions reported in 1% or more of risperidone-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
+Table 10 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
 
 Table 10.
 Adverse Reactions in ≥2% Risperidone-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials
@@ -416,4 +416,4 @@ In two controlled schizophrenia trials in adolescents (aged 13 – 17 years), th
 
 The following adverse reactions have been identified during postapproval use of risperidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.
+These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.

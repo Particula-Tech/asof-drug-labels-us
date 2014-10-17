@@ -106,7 +106,7 @@ Change in Fasting Glucose from Three Placebo-controlled, 3- to 6-week, Fixed Dos
 | Serum Glucose | -1.3 | 2.6 |
 |  | Proportion of patients with shifts |  |
 | Serum Glucose |  |  |
-| (<100 mg/dL to ≥ 126 | 0% | 0.8% |
+| (<100 mg/dL to ≥126 | 0% | 0.8% |
 | mg/dL) | (0/64) | (1/120) |
 
 In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in fasting glucose of +5.2 mg/dL at Week 24 (n=119).
@@ -129,10 +129,10 @@ Change in Random Lipids From Seven Placebo-Controlled, 3-to 8-Week, Fixed- or Fl
 | Triglycerides | n=183 | n=307 | n=123 |
 | Change from baseline | -17.4 | -4.9 | -8.3 |
 |  |  | Proportion of patients With Shifts |  |
-| Cholesterol | 2.7 % | 4.3 % | 6.3 % |
-| (<200 mg/dL to ≥ 240 mg/dL) | (10/368) | (22/516) | (6/96) |
-| Triglycerides | 1.1 % | 2.7 % | 2.5% |
-| (<500 mg/dL to ≥ 500 mg/dL) | (2/180) | (8/301) | (3/121) |
+| Cholesterol | 2.7% | 4.3% | 6.3% |
+| (<200 mg/dL to ≥240 mg/dL) | (10/368) | (22/516) | (6/96) |
+| Triglycerides | 1.1% | 2.7% | 2.5% |
+| (<500 mg/dL to ≥500 mg/dL) | (2/180) | (8/301) | (3/121) |
 
 In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n=231) and +5.5 mg/dL at Week 48 (n=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n=52).
 
@@ -155,13 +155,13 @@ Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed- Dos
 | Change from baseline | -9.0 | -2.6 |
 |  | Proportion of patients with shifts |  |
 | Cholesterol | 2.4 % | 3.8 % |
-| (<170 mg/dL to ≥ 200 mg/dL) | (1/42) | (3/80) |
+| (<170 mg/dL to ≥200 mg/dL) | (1/42) | (3/80) |
 | LDL | 0 % | 0 % |
-| (<110 mg/dL to ≥ 130 mg/dL) | (0/16) | (0/16) |
+| (<110 mg/dL to ≥130 mg/dL) | (0/16) | (0/16) |
 | HDL | 0 % | 10 % |
-| (≥40 mg/dL to < 40 mg/dL) | (0/19) | (2/20) |
+| (≥40 mg/dL to <40 mg/dL) | (0/19) | (2/20) |
 | Triglycerides | 1.5 % | 7.1 % |
-| (<150 mg/dL to ≥ 200 mg/dL) | (1/65) | (8/113) |
+| (<150 mg/dL to ≥200 mg/dL) | (1/65) | (8/113) |
 
 In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in (a) fasting cholesterol of +2.1 mg/dL at Week 24 (n=114); (b) fasting LDL of -0.2 mg/dL at Week 24 (n=103); (c) fasting HDL of +0.4 mg/dL at Week 24 (n=103); and (d) fasting triglycerides of +6.8 mg/dL at Week 24 (n=120).
 
@@ -181,7 +181,7 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥7% Gain i
 | Weight (kg) |  |  |  |
 | Change from baseline | -0.3 | 0.7 | 2.2 |
 | Weight Gain |  |  |  |
-| ≥ 7% increase from baseline | 2.9 % | 8.7 % | 20.9 % |
+| ≥ 7% increase from baseline | 2.9% | 8.7% | 20.9% |
 
 In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in weight of +4.3 kg at Week 24 (n=395) and +5.3 kg at Week 48 (n=203).
 
