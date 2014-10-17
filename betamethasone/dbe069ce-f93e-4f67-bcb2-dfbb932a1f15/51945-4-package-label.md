@@ -4,17 +4,13 @@
 
 Diprolene®
 
-brand of augmented betamethasone dipropionate* Lotion, 0.05%
+(augmented betamethasone dipropionate) Lotion, 0.05%*
 
-(Potency expressed as betamethasone)
+*Strength expressed as betamethasone
 
-L
+For topical use only.
 
-*Vehicle augments the penetration of the steroid.
-
-For dermatologic use only.
-
-Not for ophthalmic use.
+Not for oral, ophthalmic, or intravaginal use.
 
 DO NOT USE IN EYES
 
