@@ -4,26 +4,29 @@
 
 Several cases of overdosage have been reported, some leading to death.
 
-Oral LD50’s (mg/kg): mice, 1158 - 2460; rats, 3090 - 4670.
+Oral LD50s (mg/kg): mice, 1158 - 2460; rats, 3090 - 4670.
 
 ## Signs and Symptoms
 
-Potential signs and symptoms associated with overdosage with metoprolol are bradycardia, hypotension, bronchospasm, and cardiac failure.
+Potential signs and symptoms associated with overdosage with metoprolol are bradycardia, hypotension, bronchospasm, myocardial infarction, cardiac failure and death.
 
-## Treatment
+## Management
 
 There is no specific antidote.
 
-In general, patients with acute or recent myocardial infarction may be more hemodynamically unstable than other patients and should be treated accordingly (see WARNINGS, Myocardial Infarction).
+In general, patients with acute or recent myocardial infarction may be more hemodynamically unstable than other patients and should be treated accordingly (see WARNINGS).
 
 On the basis of the pharmacologic actions of metoprolol, the following general measures should be employed:
 
-Bradycardia:Atropine should be administered.
-If there is no response to vagal blockade, isoproterenol should be administered cautiously.
+Elimination of the Drug: Gastric lavage should be performed.
 
-Hypotension:A vasopressor should be administered, e.g., levarterenol or dopamine.
+Other clinical manifestations of overdose should be managed symptomatically based on modern methods of intensive care.
 
-Bronchospasm:A beta 2 -stimulating agent and/or a theophylline derivative should be administered.
+Hypotension: Administer a vasopressor, e.g., levarterenol or dopamine.
 
-Cardiac Failure:A digitalis glycoside and diuretic should be administered.
-In shock resulting from inadequate cardiac contractility, administration of dobutamine, isoproterenol, or glucagon may be considered.
+Bronchospasm: Administer a beta2-stimulating agent and/or a theophylline derivative.
+
+Cardiac Failure: Administer digitalis glycoside and diuretic.
+In shock resulting from inadequate
+
+cardiac contractility, consider administration of dobutamine, isoproterenol or glucagon.

@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-Metoprolol Tartrate Injection, USP, is a selective beta 1-adrenoreceptor blocking agent, available as 5 mL single dose vials for intravenous administration.
+Metoprolol Tartrate Injection, USP, is a selective beta 1-adrenoreceptor blocking agent, available in 5 mL single dose vials for intravenous administration.
 Each vial contains a sterile solution of Metoprolol Tartrate, USP, 5 mg, Sodium Chloride, USP, 45 mg, and Water for Injection, USP.
-Metoprolol tartrate is (±)-1-(Isopropylamino)-3-[p-(2-methoxyethyl)phenoxy]-2-propanol L-(+)-tartrate (2:1) salt, and its structural formula is:
+Metoprolol Tartrate, USP is (±)-1-(Isopropylamino)-3-[p-(2-methoxyethyl)phenoxy]-2-propanol L-(+)-tartrate (2:1) salt, and its structural formula is:
 
 Molecular Formula: (C15H25NO3)2•C4H6O6
 

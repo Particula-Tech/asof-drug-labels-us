@@ -3,10 +3,11 @@
     "ANDA077761"
   ],
   "inn": "metoprolol",
-  "labeler": "West-ward Pharmaceutical Corp",
+  "labeler": "West-Ward Pharmaceutical Corp",
   "package_ndcs": [
+    "0143-9660-01",
     "0143-9660-10",
-    "0143-9873-01"
+    "0143-9873-10"
   ],
   "products": [
     {
