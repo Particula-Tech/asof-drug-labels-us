@@ -1,6 +1,8 @@
 # OVERDOSAGE
 
-Neurological adverse reactions, including convulsions, may occur with the attainment of high CSF levels of beta-lactams.
-In case of overdosage, discontinue medication, treat symptomatically, and institute supportive measures as required.
+Dose related toxicity may arise with the use of massive doses of intravenous penicillins (40 to 100 million units per day), particularly in patients with severe renal impairment (see Precautions).
+The manifestations may include agitation, confusion, asterixis, hallucinations, stupor, coma, multifocal myoclonus, seizures and encephalopathy.
+Hyperkalemia is also possible (see Adverse Reactions-Metabolic).
 
-Penicillin G potassium is hemodialyzable.
+In case of overdosage, discontinue penicillin, treat symptomatically and institute supportive measures as required.
+If necessary, hemodialysis may be used to reduce blood levels of Penicillin G, although the degree of effectiveness of this procedure is questionable.
