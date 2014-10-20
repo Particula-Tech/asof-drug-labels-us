@@ -1,5 +1,3 @@
-©Copyright 2013 United Therapeutics Corp. All rights reserved.
-
-Orenitram manufactured for:
+©Copyright 2014 United Therapeutics Corp. All rights reserved.
 
 United Therapeutics Corp. Research Triangle Park, NC 27709

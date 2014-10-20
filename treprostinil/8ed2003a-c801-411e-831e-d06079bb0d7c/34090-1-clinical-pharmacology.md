@@ -40,7 +40,7 @@ Based on in vitro studies treprostinil does not inhibit or induce major CYP enzy
 Special Populations
 
 Hepatic Impairment: In subjects with mild (n=8) hepatic impairment, administration of a single 1 mg dose of Orenitram resulted in a mean Cmax and an AUC0-inf that were 1.6- and 2.1-fold, respectively values seen in healthy subjects.
-With moderate impairment (n=8), the corresponding ratios were 4.0- and 4.8-fold, and with severe impairment (n=6), they were 4.8- and 7.6-fold [see Dosage and Administration (2.1), Contraindications (4), and Use in Specific Populations (8.6)].
+With moderate impairment (n=8), the corresponding ratios were 4.0- and 4.8-fold, and with severe impairment (n=6), they were 4.8- and 7.6-fold [see Dosage and Administration (2.2), Contraindications (4), and Use in Specific Populations (8.6)].
 
 Renal Impairment: In patients with severe renal impairment requiring dialysis (n=8), administration of a single 1 mg dose of Orenitram pre- and post-dialysis resulted in an AUC 0-inf that was not significantly altered compared to healthy subjects.
 

@@ -111,7 +111,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 United Therapeutics Corp. Research Triangle Park, NC 27709 USA
 
-Issued: December 2013
+Issued: October 2014
 
-©Copyright 2013, United Therapeutics Corp. All rights reserved.
-ORENITRAM™ is a trademark of United Therapeutics Corp.
+©Copyright 2014, United Therapeutics Corp. All rights reserved.
+ORENITRAM is a registered trademark of United Therapeutics Corp.

@@ -2,7 +2,7 @@
 
 ## 14.1 Clinical Trials in Pulmonary Arterial Hypertension (PAH)
 
-Three multi-center, randomized, double-blind studies were conducted and compared oral Orenitram to placebo in a total of 349 (Study 1), 350 (Study 2), and 310 (Study 3) patients with PAH.
+Three multi-center, randomized, double-blind studies were conducted and compared Orenitram to placebo in a total of 349 (Study 1), 350 (Study 2), and 310 (Study 3) patients with PAH.
 
 Study 1 (effect seen with no background vasodilator)
 
@@ -44,7 +44,7 @@ Long-Term Treatment of Pulmonary Hypertension
 
 Patients (N=824) from the placebo-controlled studies entered a long-term, uncontrolled, open-label extension study.
 The average exposure to Orenitram was approximately 2 years with a maximum exposure of approximately 6 years.
-The dose of Orenitram continued to increase over time with doses (mean ± SD) of 3.6 ± 2.7, 4.1 ± 3.1, and 5 ± 3.7 mg BID at 6 (n=649), 12 (n=433), and 24 months (n=238), respectively.
+The dose of Orenitram continued to increase over time with doses (mean ± SD) of 3.6 ± 2.7, 4.2 ± 3.1, and 5 ± 3.7 mg BID at 6 (n=649), 12 (n=433), and 24 months (n=238), respectively.
 Reasons for discontinuation from the study included adverse event (16%), progression of disease (15%), death (13%), and withdrawn consent (7%).
 In the 522 subjects that completed the 12-month efficacy assessment, their mean 6MWD improved by 24 meters compared to baseline (30 meters in monotherapy patients and 20 meters when Orenitram was used in combination with an ERA and/or a PDE-5 inhibitor).
 Of the patients that remained in the study, overall survival was 92%, 87%, and 82% at the end of 1, 2, and 3-years, respectively, with progression-free survival (progression defined as death, discontinuation or addition of a PAH therapy) of 74%, 61%, and 47%.
