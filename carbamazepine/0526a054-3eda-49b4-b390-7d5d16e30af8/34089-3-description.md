@@ -6,7 +6,7 @@ Its chemical name is 5H-dibenz[b,f]azepine-5-carboxamide, and its structural for
 Carbamazepine USP is a white to off-white powder, practically insoluble in water and soluble in alcohol and in acetone.
 Its molecular weight is 236.27.
 
-Inactive Ingredients: Carbamazepine Tablets USP, (chewable), 100 mg and 200 mg – ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized starch and sorbitol.
+Inactive Ingredients: Carbamazepine Tablets USP, (Chewable), 100 mg and 200 mg – ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized maize starch and sorbitol.
 
 Carbamazepine Tablets USP, 200 mg – ammonio methacrylate copolymer, corn starch, croscarmellose sodium, diethyl phthalate, magnesium stearate and microcrystalline cellulose.
 

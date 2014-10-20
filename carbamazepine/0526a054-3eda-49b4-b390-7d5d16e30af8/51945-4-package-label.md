@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Chewable Tablet Bottle Label
 
 NDC 51672-4041-2
 
@@ -16,9 +16,9 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
-NDC 51672-4005-2
+NDC 51672-4005-3
 
-500 Tablets
+1000 Tablets
 
 Dispense the accompanying medication guide to each patient.
 
@@ -45,7 +45,7 @@ TARO
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Extended-Release Tablet Bottle Label
 
 NDC 51672-4124-3
 
@@ -62,7 +62,7 @@ TARO
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 400 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 400 mg Extended-Release Tablet Bottle Label
 
 NDC 51672-4125-3
 
@@ -95,10 +95,10 @@ Dispense the accompanying medication guide to each patient.
 Dispense in tight, light-resistant container (USP).
 Keep this and all medications out of the reach of children.
 Dosage: See package insert for full prescribing information.
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from freezing and from excessive heat.
 
-Mfd. by: Taro Pharmaceutical Industries Ltd. Haifa Bay, Israel 26110 Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532 70065-0511-2
+Mfd. by: Taro Pharmaceutical Industries Ltd. Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532 70065-1014-3
 
 Rx only
 

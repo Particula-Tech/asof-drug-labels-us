@@ -2,8 +2,7 @@
 
 (SEE TABLE BELOW)
 
-Carbamazepine suspension in combination with liquid chlorpromazine or thioridazine results in precipitate formation, and, in the case of chlorpromazine, there has been a report of a patient passing an orange rubbery precipitate in the stool following coadministration of the two drugs.
-(see PRECAUTIONS, Drug Interactions).
+Carbamazepine suspension in combination with liquid chlorpromazine or thioridazine results in precipitate formation, and, in the case of chlorpromazine, there has been a report of a patient passing an orange rubbery precipitate in the stool following coadministration of the two drugs (see PRECAUTIONS, Drug Interactions).
 Because the extent to which this occurs with other liquid medications is not known, carbamazepine suspension should not be administered simultaneously with other liquid medications or diluents.
 
 Monitoring of blood levels has increased the efficacy and safety of anticonvulsants (see PRECAUTIONS, Laboratory Tests).
@@ -56,11 +55,11 @@ This daily dose may be increased by up to 200 mg/day using increments of 100 mg 
 Do not exceed 1200 mg daily.
 Maintenance: Control of pain can be maintained in most patients with 400 to 800 mg daily.
 However, some patients may be maintained on as little as 200 mg daily, while others may require as much as 1200 mg daily.
-At least once every 3 months throughout the treatment period, attempts should be made to reduce the dose to the minimum effective level or even discontinue the drug.
+At least once every 3 months throughout the treatment period, attempts should be made to reduce the dose to the minimum effective level or even to discontinue the drug.
 
 Dosage Information
 
-| Indication | TabletTablet = Chewable or conventional tablets. | XRXR = Carbamazepine extended-release tablets | Suspension | Tablet | XR | Suspension | Tablet | XR | Suspension |
+| Indication | TabletTablet = Chewable or conventional tablets | XRXR = Carbamazepine extended-release tablets | Suspension | Tablet | XR | Suspension | Tablet | XR | Suspension |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Initial Dose |  |  | Subsequent Dose |  |  | Maximum Daily Dose |  |  |
 | Epilepsy Under 6 yr | 10 to 20 mg/kg/day b.i.d. or t.i.d. |  | 10 to 20 mg/kg/day q.i.d. | Increase weekly to achieve optimal clinical response, t.i.d. or q.i.d. |  | Increase weekly to achieve optimal clinical response, t.i.d. or q.i.d. | 35 mg/kg/24 hr (see Dosage and Administration section above) |  | 35 mg/kg/24 hr (see Dosage and Administration section above) |

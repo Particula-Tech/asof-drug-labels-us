@@ -31,7 +31,7 @@ Carbamazepine may cause rare but serious blood problems.
 
 Symptoms may include:
 
-- fever, sore throat or other infections that come and go or do not go away
+- fever, sore throat, or other infections that come and go or do not go away
 - easy bruising
 - red or purple spots on your body
 - bleeding gums or nose bleeds
@@ -96,7 +96,7 @@ What should I tell my healthcare provider before taking carbamazepine?
 
 Before you take carbamazepine, tell your healthcare provider if you:
 
-- have or have had suicidal thoughts or actions, depression or mood problems
+- have or have had suicidal thoughts or actions, depression, or mood problems
 - have or ever had heart problems
 - have or ever had blood problems
 - have or ever had liver problems
@@ -172,7 +172,7 @@ These include:
   - loss of appetite
   - nausea or vomiting
 
-Get medical help right away if you have any of the symptoms listed above or listed in "What is the most important information I should know about carbamazepine ?".
+Get medical help right away if you have any of the symptoms listed above or listed in "What is the most important information I should know about carbamazepine?"
 
 The most common side effects of carbamazepine include:
 
@@ -192,16 +192,16 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store carbamazepine?
 
-- Store Carbamazepine Tablets USP at 20°C-25°C (68°-77°F).
-  - Keep Carbamazepine tablets dry.
-- Store Carbamazepine Tablets USP (chewable) at 20°C-25°C (68°-77°F).
-  - Keep Carbamazepine Tablets USP (chewable) out of the light.
-  - Keep Carbamazepine Tablets USP (chewable) dry.
-- Store Carbamazepine Extended-Release Tablets USP at 20°C-25°C (68°-77°F).
+- Store Carbamazepine Tablets USP at 20°C to 25°C (68° to 77°F).
+  - Keep Carbamazepine Tablets USP dry.
+- Store Carbamazepine Tablets USP (Chewable) at 20°C to 25°C (68° to 77°F).
+  - Keep Carbamazepine Tablets USP (Chewable) out of the light.
+  - Keep Carbamazepine Tablets USP (Chewable) dry.
+- Store Carbamazepine Extended-Release Tablets USP at 20°C to 25°C (68° to 77°F).
   - Keep Carbamazepine Extended-Release Tablets USP dry.
-- Store Carbamazepine Oral Suspension USP at 20°C-25°C (68°-77°F).
+- Store Carbamazepine Oral Suspension USP at 20°C to 25°C (68° to 77°F).
   - Shake well before using.
-  - Keep Carbamazepine Oral Suspension USP in a tight, light resistant container.
+- Keep Carbamazepine Oral Suspension USP in a tight, light-resistant container.
 
 Keep carbamazepine and all medicines out of the reach of children.
 
@@ -216,13 +216,15 @@ This Medication Guide summarizes the most important information about carbamazep
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for the full prescribing information about carbamazepine that is written for health professionals.
 
+For more information call 1-866-923-4914.
+
 What are the ingredients in carbamazepine?
 
 Active ingredient: carbamazepine
 
 Inactive ingredients:
 
-- Carbamazepine Tablets USP, (chewable), 100 mg and 200 mg – ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized starch and sorbitol.
+- Carbamazepine Tablets USP, (Chewable), 100 mg and 200 mg – ammonio methacrylate copolymer, croscarmellose sodium, diethyl phthalate, FD&C red no. 40 lake, magnesium stearate, microcrystalline cellulose, natural cherry flavor, pregelatinized maize starch and sorbitol.
 - Carbamazepine Tablets USP, 200 mg – ammonio methacrylate copolymer, corn starch, croscarmellose sodium, diethyl phthalate, magnesium stearate and microcrystalline cellulose.
 - Carbamazepine Extended-Release Tablets USP, 100 mg, 200 mg, and 400 mg – ammonio methacrylate copolymer, corn starch, diethyl phthalate, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
 - Carbamazepine Oral Suspension USP, 100 mg/5 mL – citric acid monohydrate, FD&C yellow no. 6, orange flavor, poloxamer 188, potassium sorbate, propylene glycol, purified water, sorbitol solution, sucrose and xanthan gum.
@@ -230,4 +232,4 @@ Inactive ingredients:
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Made in Israel
 
-Revised: April 2013 70725-0413-6
+Revised: October, 2014 70725-1014-8
