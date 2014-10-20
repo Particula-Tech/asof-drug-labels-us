@@ -27,7 +27,7 @@ Respiratory: Advise patients to contact their physicians if they experience shor
 
 Hepatic: Advise patients to contact their physicians if they experience jaundice or right upper quadrant abdominal pain [see Warnings and Precautions (5.9)].
 
-Dermal: Advise patients to contact their physicians if they experience rash, severe injection site reactions [see Dosage and Administration (2.7)], or skin pain.
+Dermal: Advise patients to contact their physicians if they experience rash, severe injection site reactions [see Dosage and Administration (2.9)], or skin pain.
 Discuss with patients the option for antiviral prophylaxis for herpes virus infection [see Clinical Trials Safety Experience (6.1)].
 
 Other: Instruct patients to contact their physicians if they develop an increase in blood pressure, bleeding, fever, constipation, or decreased appetite.

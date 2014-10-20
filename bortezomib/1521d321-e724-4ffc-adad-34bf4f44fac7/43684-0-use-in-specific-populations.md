@@ -4,15 +4,22 @@
 
 Pregnancy Category D [see Warnings and Precautions (5.10)].
 
-Bortezomib was not teratogenic in nonclinical developmental toxicity studies in rats and rabbits at the highest dose tested (0.075 mg/kg; 0.5 mg/m2 in the rat and 0.05 mg/kg; 0.6 mg/m2 in the rabbit) when administered during organogenesis.
-These dosages are approximately half the clinical dose of 1.3 mg/m2 based on body surface area.
+Risk Summary
 
-Pregnant rabbits given bortezomib during organogenesis at a dose of 0.05mg/kg (0.6 mg/m2) experienced significant post-implantation loss and decreased number of live fetuses.
-Live fetuses from these litters also showed significant decreases in fetal weight.
-The dose is approximately 0.5 times the clinical dose of 1.3 mg/m2 based on body surface area.
-
+VELCADE may cause fetal harm when administered to a pregnant woman.
 There are no adequate and well-controlled studies in pregnant women.
 If VELCADE is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
+
+Bortezomib caused embryo-fetal lethality in rabbits at doses lower than the clinical dose.
+
+Animal Data
+
+Bortezomib was not teratogenic in nonclinical developmental toxicity studies in rats and rabbits at the highest dose tested (0.075 mg/kg; 0.5 mg/m2 in the rat and 0.05 mg/kg; 0.6 mg/m2 in the rabbit) when administered during organogenesis.
+These dosages are approximately 0.5 times the clinical dose of 1.3 mg/m2 based on body surface area.
+
+Pregnant rabbits given bortezomib during organogenesis at a dose of 0.05 mg/kg (0.6 mg/m2) experienced significant post-implantation loss and decreased number of live fetuses.
+Live fetuses from these litters also showed significant decreases in fetal weight.
+The dose is approximately 0.5 times the clinical dose of 1.3 mg/m2 based on body surface area.
 
 ## 8.3 Nursing Mothers
 
@@ -41,7 +48,7 @@ Since dialysis may reduce VELCADE concentrations, VELCADE should be administered
 ## 8.7 Patients with Hepatic Impairment
 
 The exposure of bortezomib is increased in patients with moderate (bilirubin ≥ 1.5 – 3× ULN) and severe (bilirubin > 3 × ULN) hepatic impairment.
-Starting dose should be reduced in those patients [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
+Starting dose should be reduced in those patients [see Dosage and Administration (2.8), Clinical Pharmacology (12.3)].
 
 ## 8.8 Patients with Diabetes
 

@@ -2,7 +2,7 @@
 
 The following adverse reactions are also discussed in other sections of the labeling:
 
-- Peripheral Neuropathy [see Warnings and Precautions (5.1); Dosage and Administration (2.5)(Table 3)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.1)]
 - Hypotension [see Warnings and Precautions (5.2)]
 - Cardiac Toxicity[see Warnings and Precautions (5.3)]
 - Pulmonary Toxicity [see Warnings and Precautions (5.4)]
@@ -16,13 +16,13 @@ The following adverse reactions are also discussed in other sections of the labe
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Summary of Clinical Trial in Patients with Previously Untreated Multiple Myeloma:
+Summary of Clinical Trial in Patients with Previously Untreated Multiple Myeloma
 
-Table 7 describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) administered intravenously in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective randomized study.
+Table 9 describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) administered intravenously in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective randomized study.
 
 The safety profile of VELCADE in combination with melphalan/prednisone is consistent with the known safety profiles of both VELCADE and melphalan/prednisone.
 
-Table 7: Most Commonly Reported Adverse Reactions (≥ 10% in the VELCADE, Melphalan and Prednisone arm) with Grades 3 and ≥ 4 Intensity in the Previously Untreated Multiple Myeloma Study
+Table 9: Most Commonly Reported Adverse Reactions (≥ 10% in the VELCADE, Melphalan and Prednisone arm) with Grades 3 and ≥ 4 Intensity in the Previously Untreated Multiple Myeloma Study
 
 | Preferred Term | n (%) | 3 | ≥ 4 | n (%) | 3 | ≥ 4 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ Table 7: Most Commonly Reported Adverse Reactions (≥ 10% in the VELCADE, Melph
 
 Relapsed Multiple Myeloma Randomized Study of VELCADE versus Dexamethasone
 
-The safety data described below and in Table 8 reflect exposure to either VELCADE (n=331) or dexamethasone (n=332) in a study of patients with relapsed multiple myeloma.
+The safety data described below and in Table 10 reflect exposure to either VELCADE (n=331) or dexamethasone (n=332) in a study of patients with relapsed multiple myeloma.
 VELCADE was administered intravenously at doses of 1.3 mg/m2 twice weekly for 2 out of 3 weeks (21-day cycle).
 After eight 21-day cycles patients continued therapy for three 35-day cycles on a weekly schedule.
 Duration of treatment was up to 11 cycles (9 months) with a median duration of 6 cycles (4.1 months).
@@ -92,10 +92,10 @@ Four deaths were considered dexamethasone-related: 2 cases of sepsis, 1 case of 
 
 Most Commonly Reported Adverse Reactions in the Relapsed Multiple Myeloma Study of VELCADE versus Dexamethasone
 
-The most common adverse reactions from the relapsed multiple myeloma study are shown in Table 8.
+The most common adverse reactions from the relapsed multiple myeloma study are shown in Table 10.
 All adverse reactions with incidence ≥ 10% in the VELCADE arm are included.
 
-Table 8: Most Commonly Reported Adverse Reactions (≥ 10% in VELCADE arm), with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study of VELCADE versus Dexamethasone (N=663)
+Table 10: Most Commonly Reported Adverse Reactions (≥ 10% in VELCADE arm), with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study of VELCADE versus Dexamethasone (N=663)
 
 | Preferred Term | All | Grade 3 | Grade 4 | All | Grade 3 | Grade 4 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -129,9 +129,9 @@ Safety Experience from the Phase 3 Open-Label Study of VELCADE Subcutaneous vers
 
 The safety and efficacy of VELCADE administered subcutaneously were evaluated in one Phase 3 study at the recommended dose of 1.3 mg/m2.
 This was a randomized, comparative study of VELCADE subcutaneous versus intravenous in 222 patients with relapsed multiple myeloma.
-The safety data described below and in Table 9 reflect exposure to either VELCADE subcutaneous (n=147) or VELCADE intravenous (n=74) [see Clinical Studies (14.1)].
+The safety data described below and in Table 11 reflect exposure to either VELCADE subcutaneous (n=147) or VELCADE intravenous (n=74) [see Clinical Studies (14.1)].
 
-Table 9: Most Commonly Reported Adverse Reactions (≥ 10%), with Grade 3 and ≥ 4 Intensity in the Relapsed Multiple Myeloma Study (N=221) of VELCADE Subcutaneous versus Intravenous
+Table 11: Most Commonly Reported Adverse Reactions (≥ 10%), with Grade 3 and ≥ 4 Intensity in the Relapsed Multiple Myeloma Study (N=221) of VELCADE Subcutaneous versus Intravenous
 
 | Preferred Term | n (%) | 3 | ≥ 4 | n (%) | 3 | ≥ 4 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -182,7 +182,66 @@ Two patients (1%) in the subcutaneous treatment group and 1 (1%) patient in the 
 In the subcutaneous group the causes of death were one case of pneumonia and one case of sudden death.
 In the intravenous group the cause of death was coronary artery insufficiency.
 
-Integrated Summary of Safety (Relapsed Multiple Myeloma and Mantle Cell Lymphoma)
+Safety Experience from the Clinical Trial in Patients with Previously Untreated Mantle Cell Lymphoma
+
+Table 12 describes safety data from 240 patients with previously untreated mantle cell lymphoma who received VELCADE (1.3 mg/m2) administered intravenously in combination with rituximab (375 mg/m2), cyclophosphamide (750 mg/m2), doxorubicin (50 mg/m2), and prednisone (100 mg/m2) (VcR-CAP) in a prospective randomized study.
+
+Infections were reported for 31% of patients in the VcR-CAP arm and 23% of the patients in the comparator (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone [R-CHOP]) arm, including the predominant preferred term of pneumonia (VcR-CAP 8% versus R-CHOP 5%).
+
+Table 12: Most Commonly Reported Adverse Reactions (≥ 5%) with Grades 3 and ≥ 4 Intensity in the Previously Untreated Mantle Cell Lymphoma Study
+
+| System Organ Class Preferred Term | All n (%) | Toxicity Grade 3 n (%) | Toxicity Grade ≥4 n (%) | All n (%) | Toxicity Grade 3 n (%) | Toxicity Grade ≥4 n (%) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | VcR-CAP n=240 |  |  | R-CHOP n=242 |  |  |
+| Blood and lymphatic system disorders |  |  |  |  |  |  |
+| Neutropenia | 209 (87) | 32 (13) | 168 (70) | 172 (71) | 31 (13) | 125 (52) |
+| Leukopenia | 116 (48) | 34 (14) | 69 (29) | 87 (36) | 39 (16) | 27 (11) |
+| Anemia | 106 (44) | 27 (11) | 4 (2) | 71 (29) | 23 (10) | 4 (2) |
+| Thrombocytopenia | 172 (72) | 59 (25) | 76 (32) | 42 (17) | 9 (4) | 3 (1) |
+| Febrile neutropenia | 41 (17) | 24 (10) | 12 (5) | 33 (14) | 17 (7) | 15 (6) |
+| Lymphopenia | 68 (28) | 25 (10) | 36 (15) | 28 (12) | 15 (6) | 2 (1) |
+| Nervous system disorders |  |  |  |  |  |  |
+| Peripheral neuropathyRepresents High Level Term Peripheral Neuropathies NEC | 71 (30) | 17 (7) | 1 (< 1) | 65 (27) | 10 (4) | 0 |
+| Hypoesthesia | 14 (6) | 3 (1) | 0 | 13 (5) | 0 | 0 |
+| Paresthesia | 14 (6) | 2 (1) | 0 | 11 (5) | 0 | 0 |
+| Neuralgia | 25 (10) | 9 (4) | 0 | 1 (< 1) | 0 | 0 |
+| General disorders and administration site conditions |  |  |  |  |  |  |
+| Fatigue | 43 (18) | 11 (5) | 1 (< 1) | 38 (16) | 5 (2) | 0 |
+| Pyrexia | 48 (20) | 7 (3) | 0 | 23 (10) | 5 (2) | 0 |
+| Asthenia | 29 (12) | 4 (2) | 1 (< 1) | 18 (7) | 1 (< 1) | 0 |
+| Edema peripheral | 16 (7) | 1 (< 1) | 0 | 13 (5) | 0 | 0 |
+| Gastrointestinal disorders |  |  |  |  |  |  |
+| Nausea | 54 (23) | 1 (< 1) | 0 | 28 (12) | 0 | 0 |
+| Constipation | 42 (18) | 1 (< 1) | 0 | 22 (9) | 2 (1) | 0 |
+| Stomatitis | 20 (8) | 2 (1) | 0 | 19 (8) | 0 | 1 (< 1) |
+| Diarrhea | 59 (25) | 11 (5) | 0 | 11 (5) | 3 (1) | 1 (< 1) |
+| Vomiting | 24 (10) | 1 (< 1) | 0 | 8 (3) | 0 | 0 |
+| Abdominal distension | 13 (5) | 0 | 0 | 4 (2) | 0 | 0 |
+| Infections and infestations |  |  |  |  |  |  |
+| Pneumonia | 20 (8) | 8 (3) | 5 (2) | 11 (5) | 5 (2) | 3 (1) |
+| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |
+| Alopecia | 31 (13) | 1 (< 1) | 1 (< 1) | 33 (14) | 4 (2) | 0 |
+| Metabolism and nutrition disorders |  |  |  |  |  |  |
+| Hyperglycemia | 10 (4) | 1 (< 1) | 0 | 17 (7) | 10 (4) | 0 |
+| Decreased appetite | 36 (15) | 2 (1) | 0 | 15 (6) | 1 (< 1) | 0 |
+| Vascular disorders |  |  |  |  |  |  |
+| Hypertension | 15 (6) | 1 (< 1) | 0 | 3 (1) | 0 | 0 |
+| Psychiatric disorders |  |  |  |  |  |  |
+| Insomnia | 16 (7) | 1 (< 1) | 0 | 8 (3) | 0 | 0 |
+| Key: R-CHOP=rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; |  |  |  |  |  |  |
+| VcR-CAP=VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone. |  |  |  |  |  |  |
+
+The incidence of herpes zoster reactivation was 4.6% in the VcR-CAP arm and 0.8% in the R-CHOP arm.
+Antiviral prophylaxis was mandated by protocol amendment.
+
+The incidences of Grade ≥ 3 bleeding events were similar between the 2 arms (3 patients in the VcR-CAP arm and 1 patient in the R-CHOP arm).
+All of the Grade ≥ 3 bleeding events resolved without sequelae in the VcR-CAP arm.
+
+Adverse reactions leading to discontinuation occurred in 8% of patients in VcR-CAP group and 6% of patients in R-CHOP group.
+In the VcR-CAP group, the most commonly reported adverse reaction leading to discontinuation was peripheral sensory neuropathy (1%; 3 patients).
+The most commonly reported adverse reaction leading to discontinuation in the R-CHOP group was febrile neutropenia (< 1%; 2 patients).
+
+Integrated Summary of Safety (Relapsed Multiple Myeloma and Relapsed Mantle Cell Lymphoma)
 
 Safety data from phase 2 and 3 studies of single agent VELCADE 1.3 mg/m2/dose twice weekly for 2 weeks followed by a 10-day rest period in 1163 patients with previously-treated multiple myeloma (N=1008) and previously-treated mantle cell lymphoma (N=155) were integrated and tabulated.
 This analysis does not include data from the Phase 3 Open-Label Study of VELCADE subcutaneous versus intravenous in relapsed multiple myeloma.
@@ -205,12 +264,12 @@ In total, 2% of the patients died and the cause of death was considered by the i
 
 Most Commonly Reported Adverse Reactions in the Integrated Summary of Safety
 
-The most common adverse reactions are shown in Table 10.
+The most common adverse reactions are shown in Table 13.
 All adverse reactions occurring at ≥ 10% are included.
 In the absence of a randomized comparator arm, it is often not possible to distinguish between adverse events that are drug-caused and those that reflect the patient's underlying disease.
 Please see the discussion of specific adverse reactions that follows.
 
-Table 10: Most Commonly Reported (≥ 10% Overall) Adverse Reactions in Integrated Analyses of Relapsed Multiple Myeloma and Mantle Cell Lymphoma Studies using the 1.3 mg/m2 Dose (N=1163)
+Table 13: Most Commonly Reported (≥ 10% Overall) Adverse Reactions in Integrated Analyses of Relapsed Multiple Myeloma and Relapsed Mantle Cell Lymphoma Studies using the 1.3 mg/m2 Dose (N=1163)
 
 | Preferred Term | All | ≥ Grade 3 | All | ≥ Grade 3 | All | ≥ Grade 3 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -232,7 +291,7 @@ Table 10: Most Commonly Reported (≥ 10% Overall) Adverse Reactions in Integrat
 | Dizziness (excl vertigo) | 129 (11) | 13 (1) | 101 (10) | 9 (< 1) | 28 (18) | 4 (3) |
 | Weakness | 124 (11) | 31 (3) | 106 (11) | 28 (3) | 18 (12) | 3 (2) |
 
-Description of Selected Adverse Reactions from the Integrated Phase 2 and 3 Relapsed Multiple Myeloma and Phase 2 Mantle Cell Lymphoma Studies
+Description of Selected Adverse Reactions from the Integrated Phase 2 and 3 Relapsed Multiple Myeloma and Phase 2 Relapsed Mantle Cell Lymphoma Studies
 
 Gastrointestinal Toxicity
 
@@ -305,7 +364,7 @@ In the previously untreated multiple myeloma study, herpes zoster virus reactiva
 Retreatment in Relapsed Multiple Myeloma
 
 A single-arm trial was conducted in 130 patients with relapsed multiple myeloma to determine the efficacy and safety of retreatment with intravenous VELCADE.
-The safety profile of patients in this trial is consistent with the known safety profile of VELCADE-treated patients with relapsed multiple myeloma as demonstrated in Tables 8, 9, and 10; no cumulative toxicities were observed upon retreatment.
+The safety profile of patients in this trial is consistent with the known safety profile of VELCADE-treated patients with relapsed multiple myeloma as demonstrated in Tables 10, 11, and 13; no cumulative toxicities were observed upon retreatment.
 The most common adverse drug reaction was thrombocytopenia which occurred in 52% of the patients.
 The incidence of ≥ Grade 3 thrombocytopenia was 24%.
 Peripheral neuropathy occurred in 28% of patients, with the incidence of ≥ Grade 3 peripheral neuropathy reported at 6%.

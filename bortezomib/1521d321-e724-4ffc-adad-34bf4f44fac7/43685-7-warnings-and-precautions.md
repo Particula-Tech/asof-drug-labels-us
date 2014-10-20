@@ -9,7 +9,7 @@ In the Phase 3 relapsed multiple myeloma trial comparing VELCADE subcutaneous ve
 Grade ≥ 3 peripheral neuropathy occurred in 6% of patients in the subcutaneous treatment group, compared with 15% in the intravenous treatment group.
 Starting VELCADE subcutaneously may be considered for patients with pre-existing or at high risk of peripheral neuropathy.
 
-Patients experiencing new or worsening peripheral neuropathy during VELCADE therapy may require a decrease in the dose and/or a less dose-intense schedule [see Dosage and Administration (2.5)].
+Patients experiencing new or worsening peripheral neuropathy during VELCADE therapy may require a decrease in the dose and/or a less dose-intense schedule [see Dosage and Administration (2.7)].
 In the VELCADE versus dexamethasone phase 3 relapsed multiple myeloma study, improvement in or resolution of peripheral neuropathy was reported in 48% of patients with ≥ Grade 2 peripheral neuropathy following dose adjustment or interruption.
 Improvement in or resolution of peripheral neuropathy was reported in 73% of patients who discontinued due to Grade 2 neuropathy or who had ≥ Grade 3 peripheral neuropathy in the phase 2 multiple myeloma studies [see Adverse Reactions (6.1)].
 The long-term outcome of peripheral neuropathy has not been studied in mantle cell lymphoma.
@@ -59,23 +59,34 @@ Interrupt VELCADE for severe symptoms.
 ## 5.7 Thrombocytopenia/Neutropenia
 
 VELCADE is associated with thrombocytopenia and neutropenia that follow a cyclical pattern with nadirs occurring following the last dose of each cycle and typically recovering prior to initiation of the subsequent cycle.
-The cyclical pattern of platelet and neutrophil decreases and recovery remained consistent over the 8 cycles of twice weekly dosing, and there was no evidence of cumulative thrombocytopenia or neutropenia.
-The mean platelet count nadir measured was approximately 40% of baseline.
-The severity of thrombocytopenia related to pretreatment platelet count is shown in Table 6.
-In the relapsed multiple myeloma study of VELCADE versus dexamethasone, the incidence of bleeding (≥ Grade 3) was 2% on the VELCADE arm and was < 1% in the dexamethasone arm.
-Complete blood counts (CBC) should be monitored frequently during treatment with VELCADE.
-Platelet count should be monitored prior to each dose of VELCADE.
-Patients experiencing thrombocytopenia may require change in the dose and schedule of VELCADE [see Table 2 and Dosage and Administration (2.4)].
-Gastrointestinal and intracerebral hemorrhage has been reported in association with VELCADE.
-Transfusions may be considered.
+The cyclical pattern of platelet and neutrophil decreases and recovery remain consistent in the studies of multiple myeloma and mantle cell lymphoma, with no evidence of cumulative thrombocytopenia or neutropenia in the treatment regimens studied.
 
-Table 6: Severity of Thrombocytopenia Related to Pretreatment Platelet Count in the Relapsed Multiple Myeloma Study of VELCADE versus Dexamethasone
+Monitor complete blood counts (CBC) frequently during treatment with VELCADE.
+Measure platelet counts prior to each dose of VELCADE.
+Adjust dose/schedule for thrombocytopenia [see Tables 2 and 4 and Dosage and Administration (2.6)].
+Gastrointestinal and intracerebral hemorrhage has occurred during thrombocytopenia in association with VELCADE.
+Support with transfusions and supportive care, according to published guidelines.
+
+In the single-agent, relapsed multiple myeloma study of VELCADE versus dexamethasone, the mean platelet count nadir measured was approximately 40% of baseline.
+The severity of thrombocytopenia related to pretreatment platelet count is shown in Table 8.
+The incidence of bleeding (≥ Grade 3) was 2% on the VELCADE arm and was < 1% in the dexamethasone arm.
+
+Table 8: Severity of Thrombocytopenia Related to Pretreatment Platelet Count in the Relapsed Multiple Myeloma Study of VELCADE versus Dexamethasone
 
 | Pretreatment Platelet CountA baseline platelet count of 50,000/µL was required for study eligibility | Number of Patients (N=331)Data were missing at baseline for 1 patient | Number (%) of Patients with Platelet Count < 10,000/µL | Number (%) of Patients with Platelet Count 10,000-25,000/µL |
 | --- | --- | --- | --- |
 | ≥ 75,000/µL | 309 | 8 (3%) | 36 (12%) |
 | ≥ 50,000/µL-< 75,000/µL | 14 | 2 (14%) | 11 (79%) |
 | ≥ 10,000/µL-< 50,000/µL | 7 | 1 (14%) | 5 (71%) |
+
+In the combination study of VELCADE with rituximab, cyclophosphamide, doxorubicin and prednisone (VcR-CAP) in previously untreated mantle cell lymphoma patients, the incidence of thrombocytopenia (≥ Grade 4) was 32% versus 1% for the rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) arm as shown in Table 12.
+The incidence of bleeding events (≥ Grade 3) was 1% in the VcR-CAP arm (3 patients) and was < 1% in the R-CHOP arm (1 patient).
+
+Platelet transfusions were given to 23% of the patients in the VcR-CAP arm and 3% of the patients in the R-CHOP arm.
+
+The incidence of neutropenia (≥ Grade 4) was 70% in the VcR-CAP arm and was 52% in the R-CHOP arm.
+The incidence of febrile neutropenia (≥ Grade 4) was 5% in the VcR-CAP arm and was 6% in the R-CHOP arm.
+Myeloid growth factor support was provided at a rate of 78% in the VcR-CAP arm and 61% in the R-CHOP arm.
 
 ## 5.8 Tumor Lysis Syndrome
 
