@@ -42,7 +42,7 @@ Monitoring of blood concentrations and appropriate dosage adjustments of tacroli
 
 ## 7.7 Antimycobacterials
 
-Rifampin [see Clinical Pharmacology (12.3)]and rifabutin are inducers of CYP3A enzymes and may decrease tacrolimus whole blood concentrations.
+Rifampin [see Clinical Pharmacology (12.3)] and rifabutin are inducers of CYP3A enzymes and may decrease tacrolimus whole blood concentrations.
 Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when these antimycobacterial drugs and tacrolimus are used concomitantly.
 
 ## 7.8 Anticonvulsants

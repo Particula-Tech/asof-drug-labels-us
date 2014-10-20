@@ -14,7 +14,7 @@ Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough C
 | --- | --- | --- |
 | Adult kidney transplant patients |  |  |
 | In combination with azathioprine | 0.2 mg/kg/day | month 1 to 3: 7 to 20 ng/mLmonth 4 to 12: 5 to 15 ng/mL |
-| In combination with MMF/IL-2 receptor antagonistIn a second smaller trial, the initial dose of tacrolimus was 0.15 to 0.2 mg/kg/day and observed tacrolimus concentrations were 6 to 16 ng/mL during month 1 to 3 and 5 to 12 ng/mL during month 4 to 12 [see Clinical Studies (14.1)]. | 0.1 mg/kg/day | month 1 to 12: 4 to 11 ng/mL |
+| In combination with MMF/IL-2 receptor antagonist In a second smaller trial, the initial dose of tacrolimus was 0.15 to 0.2 mg/kg/day and observed tacrolimus concentrations were 6 to 16 ng/mL during month 1 to 3 and 5 to 12 ng/mL during month 4 to 12 [see Clinical Studies (14.1)]. | 0.1 mg/kg/day | month 1 to 12: 4 to 11 ng/mL |
 | Adult liver transplant patients | 0.10 to 0.15 mg/kg/day | month 1 to 12: 5 to 20 ng/mL |
 | Adult heart transplant patients | 0.075 mg/kg/day | month 1 to 3: 10 to 20 ng/mLmonth ≥4: 5 to 15 ng/mL |
 

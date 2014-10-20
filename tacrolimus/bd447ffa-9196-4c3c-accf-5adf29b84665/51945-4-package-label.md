@@ -1,5 +1,5 @@
-PRINCIPAL DISPLAY PANEL 0.5 mg 100 CAPSULES
+PRINCIPAL DISPLAY PANEL Tacrolimus Capsules USP 0.5 mg-100 Capsules-Label
 
-1 mg 100 CAPSULES
+Tacrolimus Capsules USP 1 mg-100 Capsules-Label
 
-5 mg 100 CAPSULES
+Tacrolimus Capsules USP 5 mg-100 Capsules-Label

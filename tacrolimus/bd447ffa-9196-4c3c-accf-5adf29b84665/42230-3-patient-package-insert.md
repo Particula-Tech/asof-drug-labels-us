@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Tacrolimus Capsules
+Tacrolimus Capsules USP (ta-KROE-li-mus)
 
 Read this Patient Information before you start taking tacrolimus capsules and each time you get a refill.
 There may be new information.
@@ -25,9 +25,9 @@ Tacrolimus capsules can cause serious side effects, including:
 
 What are tacrolimus capsules?
 
-Tacrolimus capsules are a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant and tacrolimus capsules are not for use with medicines called cyclosporines (Gengraf®, Neoral®, and Sandimune®).
+Tacrolimus capsules are a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant and tacrolimus capsules are not for use with medicines called cyclosporines (Gengraf ®, Neoral ®, and Sandimune ®).
 
-Tacrolimus capsules are not for use with a medicine called sirolimus (Rapamune®) in people who have had a liver or heart transplants.
+Tacrolimus capsules are not for use with a medicine called sirolimus (Rapamune ®) in people who have had a liver or heart transplants.
 
 It is not known if tacrolimus capsules are safe and effective when used with sirolimus in people who have had kidney transplants.
 
@@ -56,12 +56,12 @@ Tell your doctor about all the medicines you take, including prescription and no
 
 Especially tell your doctor if you take:
 
-- cyclosporine (Gengraf®, Neoral®, and Sandimune®)
-- sirolimus (Rapamune®)
-- nelfinavir (Viracept®)
-- telaprevir (IncivekTM)
-- boceprevir (VictrelisTM)
-- amiodarone (CordaroneTM, NexteroneTM, PaceroneTM)
+- cyclosporine (Gengraf ®, Neoral ®, and Sandimune ®)
+- sirolimus (Rapamune ®)
+- nelfinavir (Viracept ®)
+- telaprevir (Incivek TM)
+- boceprevir (Victrelis TM)
+- amiodarone (Cordarone TM, Nexterone TM, Pacerone TM)
 
 Ask your doctor or pharmacist if you are not sure if you take any of the medicines listed above.
 Tacrolimus capsules may affect the way other medicines work, and other medicines may affect how tacrolimus capsules works.
@@ -247,6 +247,6 @@ Dist.- Ahmedabad – 382210.
 
 India.
 
-10 2711 5 648255
+10 2711 6 653114
 
-Issued September 2013
+Issued April 2014

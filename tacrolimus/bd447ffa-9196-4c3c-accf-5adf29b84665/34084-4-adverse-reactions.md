@@ -216,7 +216,7 @@ New Onset Diabetes After Transplant
 
 Kidney Transplant
 
-New Onset Diabetes After Transplant (NODAT) is defined as a composite of fasting plasma glucose ≥126 mg/dL, HbA1C ≥ 6%, insulin use ≥ 30 days or oral hypoglycemic use.
+New Onset Diabetes After Transplant (NODAT) is defined as a composite of fasting plasma glucose ≥126 mg/dL, HbA 1C ≥ 6%, insulin use ≥ 30 days or oral hypoglycemic use.
 In a trial in kidney transplant patients (Study 2), NODAT was observed in 75% in the tacrolimus-treated and 61% in the Neoral-treated patients without pre-transplant history of diabetes mellitus (Table 9) [see Clinical Studies (14.1)].
 
 Table 9.
@@ -227,7 +227,7 @@ Incidence of New Onset Diabetes After Transplant at 1 year in Kidney Transplant 
 | Tacrolimus/MMF(n = 212) | Neoral/MMF(n = 212) |  |
 | NODAT | 112/150 (75%) | 93/152 (61%) |
 | Fasting Plasma Glucose ≥ 126 mg/dL | 96/150 (64%) | 80/152 (53%) |
-| HbA1C ≥ 6% | 59/150 (39%) | 28/152 (18%) |
+| HbA 1C ≥ 6% | 59/150 (39%) | 28/152 (18%) |
 | Insulin Use ≥ 30 days | 9/150 (6%) | 4/152 (3%) |
 | Oral Hypoglycemic Use | 15/150 (10%) | 5/152 (3%) |
 
@@ -244,7 +244,7 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kid
 | Status of PTDMUse of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | Tacrolimus/AZA | CsA/AZA |
 | --- | --- | --- |
 | Patients without pre-transplant history of diabetes mellitus | 151 | 151 |
-| New onset PTDM, 1st Year | 30/151 (20%) | 6/151 (4%) |
+| New onset PTDM, 1 st Year | 30/151 (20%) | 6/151 (4%) |
 | Still insulin-dependent at one year in those without prior history of diabetes | 25/151 (17%) | 5/151 (3%) |
 | New onset PTDM post 1 year | 1 | 0 |
 | Patients with PTDM at 2 years | 16/151 (11%) | 5/151 (3%) |
@@ -252,7 +252,7 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kid
 Table 11.
 Development of Post-Transplant Diabetes Mellitus by Race or Ethnicity and by Treatment Group During First Year Post Kidney Transplantation in a Phase 3 Trial
 
-| Patient Race | Patients Who Developed PTDMUse of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. |  |
+| Patient Race | Patients Who Developed PTDM Use of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. |  |
 | --- | --- | --- |
 | Tacrolimus | Cyclosporine |  |
 | Black | 15/41 (37%) | 3 (8%) |
@@ -272,7 +272,7 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Live
 | Status of PTDMUse of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
 | Tacrolimus | Cyclosporine | Tacrolimus | Cyclosporine |  |
-| Patients at riskPatients without pre-transplant history of diabetes mellitus. | 239 | 236 | 239 | 249 |
+| Patients at risk Patients without pre-transplant history of diabetes mellitus. | 239 | 236 | 239 | 249 |
 | New Onset PTDM | 42 (18%) | 30 (13%) | 26 (11%) | 12 (5%) |
 | Patients still on insulin at 1 year | 23 (10%) | 19 (8%) | 18 (8%) | 6 (2%) |
 
@@ -287,9 +287,9 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Hear
 | Status of PTDMUse of insulin for 30 or more consecutive days without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
 | Tacrolimus/MMF | Cyclosporine/MMF | Tacrolimus/AZA | Cyclosporine/AZA |  |
-| Patients at riskPatients without pre-transplant history of diabetes mellitus. | 75 | 83 | 132 | 138 |
+| Patients at risk Patients without pre-transplant history of diabetes mellitus. | 75 | 83 | 132 | 138 |
 | New Onset PTDM | 10 (13%) | 6 (7%) | 29 (22%) | 5 (4%) |
-| Patients still on insulin at 1 year7 to 12 months for the U.S. trial. | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
+| Patients still on insulin at 1 year 7 to 12 months for the U.S. trial. | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
 
 Less Frequently Reported Adverse Reactions (>3% and <15%)
 
