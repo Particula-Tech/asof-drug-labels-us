@@ -96,20 +96,19 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8043417 Revised March 2014
+8049346 Revised June 2014
 
 Medication Guide
 
 Olanzapine (oh-LAN-za-peen) Tablets, USP
 
-Olanzapine (oh-LAN-za-peen) Orally Disintegrating Tablets
+Olanzapine (oh-LAN-za-peen) Orally Disintegrating Tablets, USP
 
 Read the Medication Guide that comes with olanzapine tablets or orally disintegrating tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -347,11 +346,10 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., Indrad-382 721, INDIA.
 
 For:
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8043418 Revised March 2014
+8049347 Revised June 2014

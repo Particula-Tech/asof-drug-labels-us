@@ -14,6 +14,8 @@ Inactive ingredients are crospovidone, magnesium stearate, mannitol and microcry
 
 Olanzapine orally disintegrating tablets are intended for oral administration only.
 
+Olanzapine orally disintegrating tablets, USP are intended for oral administration only.
+
 Each orally disintegrating tablet contains olanzapine equivalent to 5 mg (16 μmol), 10 mg (32 μmol), 15 mg (48 μmol) or 20 mg (64 μmol).
 It begins disintegrating in the mouth within seconds, allowing its contents to be subsequently swallowed with or without liquid.
-Olanzapine orally disintegrating tablets also contain the following inactive ingredients: aspartame, crospovidone, magnesium stearate, mannitol and microcrystalline cellulose.
+Olanzapine orally disintegrating tablets, USP also contain the following inactive ingredients: aspartame, crospovidone, magnesium stearate, mannitol and microcrystalline cellulose.

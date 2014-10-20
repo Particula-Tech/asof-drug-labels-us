@@ -98,11 +98,11 @@ Bottles of 1000 NDC 13668-171-10
 
 100 Unit dose Tablets NDC 13668-171-74
 
-For Olanzapine Orally Disintegrating Tablets
+For Olanzapine Orally Disintegrating, USP
 
 The tablets are available as follows:
 
-Olanzapine orally disintegrating 5 mg tablets are yellow colored, round, flat, bevel edged uncoated tablets debossed with "86" on one side and "5" on other side.
+Olanzapine orally disintegrating 5 mg tablets, USP are yellow colored, round, flat, bevel edged uncoated tablets debossed with "86" on one side and "5" on other side.
 
 Bottles of 30 NDC 13668-086-30
 
@@ -112,7 +112,7 @@ Bottles of 500 NDC 13668-086-05
 
 100 Unit dose Tablets NDC 13668-086-74
 
-Olanzapine orally disintegrating 10 mg tablets are yellow colored, round, flat, bevel edged uncoated tablets debossed with "88" on one side and "10" on other side.
+Olanzapine orally disintegrating 10 mg tablets, USP are yellow colored, round, flat, bevel edged uncoated tablets debossed with "88" on one side and "10" on other side.
 
 Bottles of 30 NDC 13668-088-30
 
@@ -122,7 +122,7 @@ Bottles of 500 NDC 13668-088-05
 
 100 Unit dose Tablets NDC 13668-088-74
 
-Olanzapine orally disintegrating 15 mg tablets are yellow colored, round, flat, bevel edged uncoated tablets debossed with "89" on one side and "15" on other side.
+Olanzapine orally disintegrating 15 mg tablets, USP are yellow colored, round, flat, bevel edged uncoated tablets debossed with "89" on one side and "15" on other side.
 
 Bottles of 30 NDC 13668-089-30
 
@@ -132,7 +132,7 @@ Bottles of 500 NDC 13668-089-05
 
 100 Unit dose Tablets NDC 13668-089-74
 
-Olanzapine orally disintegrating 20 mg tablets are yellow colored, round, flat, bevel edged uncoated tablets debossed with "90" on one side and "20" on other side.
+Olanzapine orally disintegrating 20 mg tablets, USP are yellow colored, round, flat, bevel edged uncoated tablets debossed with "90" on one side and "20" on other side.
 
 Bottles of 30 NDC 13668-090-30
 
