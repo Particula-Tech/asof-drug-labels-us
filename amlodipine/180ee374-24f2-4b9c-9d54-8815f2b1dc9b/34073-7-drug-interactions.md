@@ -46,7 +46,7 @@ Co-administration of amlodipine besylate tablets with warfarin did not change th
 
 Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
 Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
-However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
+However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent.
 Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A4 inhibitors.
 
 ## 7.12 CYP3A4 Inducers
@@ -58,6 +58,11 @@ Blood pressure should be closely monitored when amlodipine is co-administered wi
 
 A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine.
 
-## 7.14 Drug/Laboratory Test Interactions
+## 7.14 Tacrolimus
+
+There is a risk of increased tacrolimus blood levels when co-administered with amlodipine.
+In order to avoid toxicity of tacrolimus, administration of amlodipine in a patient treated with tacrolimus requires monitoring of tacrolimus blood levels and dose adjustment of tacrolimus when appropriate.
+
+## 7.15 Drug/Laboratory Test Interactions
 
 None known.

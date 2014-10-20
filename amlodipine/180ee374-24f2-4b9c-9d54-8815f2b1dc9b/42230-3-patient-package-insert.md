@@ -1,4 +1,4 @@
-SUMMARY OF INFORMATION ABOUT Amlodipine Besylate Tablets
+Amlodipine Besylate Tablets
 
 Read this information carefully before you start taking amlodipine besylate tablets and each time you refill your prescription.
 There may be new information.
@@ -75,6 +75,7 @@ Most side effects are mild or moderate:
 - flushing (hot or warm feeling in your face)
 - arrhythmia (irregular heartbeat)
 - heart palpitations (very fast heartbeat)
+- muscle rigidity, tremor and/or abnormal muscle movement
 
 It is rare, but when you first start taking amlodipine besylate or increase your dose, you may have a heart attack or your angina may get worse.
 If that happens, call your doctor right away or go directly to a hospital emergency room.
@@ -98,6 +99,6 @@ Only use amlodipine besylate tablets the way your doctor told you to.
 Do not give amlodipine besylate tablets to other people, even if they have the same symptoms you have.
 It may harm them.
 
-You can ask your pharmacist or doctor for information about amlodipine besylate, or call 1-800-438-1985.
+You can ask your pharmacist or doctor for information about amlodipine besylate, or you can visit www.greenstonellc.com or call 1-800-438-1985.
 
-LAB-0342-7.0 January 2013
+LAB-0342-8.0 October 2014
