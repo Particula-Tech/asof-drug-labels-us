@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205834"
+  ],
+  "inn": "sofosbuvir",
+  "labeler": "Gilead Sciences, Inc",
+  "package_ndcs": [
+    "61958-1801-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ledipasvir and sofosbuvir",
+      "name": "Harvoni"
+    }
+  ],
+  "setid": "f4ec77e4-bae8-4db0-b3d5-bde09c5fa075",
+  "source": "dailymed"
+}
