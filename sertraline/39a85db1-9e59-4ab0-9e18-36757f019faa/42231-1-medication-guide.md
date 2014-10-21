@@ -1,6 +1,6 @@
 # Medication Guide
 
-Sertraline Hydrochloride Tablets USP Read the Medication Guide that comes with sertraline hydrochloride tablets before you start taking them and each time you get a refill.
+Sertraline Hydrochloride Tablets USP (ser' tra leen hye'' droe klor' ide) Read the Medication Guide that comes with sertraline hydrochloride tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -47,7 +47,7 @@ Severe allergic reactions:
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 4.
-Abnormal bleeding: Sertraline hydrochloride tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin ® , Jantoven ® ), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal bleeding: Sertraline hydrochloride tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 5.
 Seizures or convulsions 6.
 Manic episodes:
@@ -72,6 +72,15 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
+9.
+Visual problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 Do not stop sertraline hydrochloride tablets without first talking to your healthcare provider.
 Stopping sertraline hydrochloride tablets too quickly may cause serious symptoms including:
 
@@ -158,7 +167,7 @@ Before starting sertraline hydrochloride tablets, tell your healthcare provider 
 - are pregnant or plan to become pregnant.
   It is not known if sertraline hydrochloride tablets will harm your unborn baby.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy.
-- are breastfeeding or plan to breastfeed.
+- are breast-feeding or plan to breast-feed.
   Some sertraline hydrochloride may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking sertraline hydrochloride tablets.
 
@@ -230,10 +239,10 @@ This Medication Guide summarizes the most important information about sertraline
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about sertraline hydrochloride tablets that is written for healthcare professionals.
 For more information about sertraline hydrochloride tablets call 1-866-850-2876.
-What are the ingredients in sertraline hydrochloride tablets ?
+What are the ingredients in sertraline hydrochloride tablets?
 Active ingredient: sertraline hydrochloride Inactive ingredients: microcrystalline cellulose, sodium starch glycolate, hydroxypropyl cellulose, dibasic calcium phosphate dihydrate, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, and polysorbate 80.
 Besides, 25 mg contains D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, FD&C red #40 aluminum lake; 50 mg contains FD&C blue #2 aluminum lake; and 100 mg contains iron oxide yellow.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Orap ® is a registered trademark of Teva Pharmaceuticals USA.
-Coumadin ® is a registered trademark of Bristol Myers Squibb.
-Jantoven ® is a registered trademark of Upsher-Smith Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 01/2013
+Orap® is a registered trademark of Teva Pharmaceuticals USA.
+Coumadin® is a registered trademark of Bristol Myers Squibb.
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 10/2014
