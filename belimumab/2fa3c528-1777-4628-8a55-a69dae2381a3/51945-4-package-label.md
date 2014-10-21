@@ -10,22 +10,25 @@ For Injection
 
 120 mg/vial
 
-For Intravenous Infusion after dilution only
+For Intravenous Infusion after dilution only.
+Single-use vial.
 
-Single-use vial; Discard unused portion
+Discard unused portion
 
 Product must be reconstituted with 1.5 mL of Sterile Water for Injection, USP.
 After reconstitution, the concentration of BENLYSTA is 80 mg/mL.
 Further dilute in 250 mL of 0.9% Sodium Chloride Injection, USP before use.
 
-Dispense the enclosed Medication Guide to each patient.
+Federal Law requires dispensing of BENLYSTA® with the Medication Guide provided with this carton.
 
 Rx only
 
-©2011 Human Genome Sciences
+©2014, the GSK group of companies
 
-80040 Rev.
-002
+Rev.
+10/14
+
+10000000129614
 
 PRINCIPAL DISPLAY PANEL
 
@@ -39,19 +42,22 @@ For Injection
 
 400 mg/vial
 
-For Intravenous Infusion after dilution only
+For Intravenous Infusion after dilution only.
+Single-use vial.
 
-Single-use vial; Discard unused portion
+Discard unused portion
 
 Product must be reconstituted with 4.8 mL of Sterile Water for Injection, USP.
 After reconstitution, the concentration of BENLYSTA is 80 mg/mL.
 Further dilute in 250 mL of 0.9% Sodium Chloride Injection, USP before use.
 
-Dispense the enclosed Medication Guide to each patient.
+Federal Law requires dispensing of BENLYSTA® with the Medication Guide provided with this carton.
 
 Rx only
 
-©2011 Human Genome Sciences
+©2014, the GSK group of companies
 
-80036 Rev.
-001
+Rev.
+10/14
+
+10000000129616

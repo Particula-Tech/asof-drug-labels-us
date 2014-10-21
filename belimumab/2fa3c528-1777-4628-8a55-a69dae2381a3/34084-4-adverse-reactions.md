@@ -7,7 +7,7 @@ The following have been observed with BENLYSTA and are discussed in detail in th
 - •Mortality [see Warnings and Precautions (5.1)]
 - •Serious Infections [see Warnings and Precautions (5.2)]
 - •Malignancy [see Warnings and Precautions (5.3)]
-- •Hypersensitivity Reactions, Including Anaphylaxis [see Warnings and Precautions (5.4)]
+- •Hypersensitivity Reactions, including Anaphylaxis [see Warnings and Precautions (5.4)]
 - •Infusion Reactions [see Warnings and Precautions (5.5)]
 - •Depression [see Warnings and Precautions (5.6)]
 
@@ -31,7 +31,7 @@ The most common adverse reactions resulting in discontinuation of treatment (≥
 Table 1 lists adverse reactions, regardless of causality, occurring in at least 3% of patients with SLE who received BENLYSTA 10 mg/kg and at an incidence at least 1% greater than that observed with placebo in the 3 controlled studies.
 
 Table 1.
-Incidence of Adverse Reactions Occurring in at Least 3% of Patients Treated With BENLYSTA 10 mg/kg Plus Standard of Care and at Least 1% More Frequently Than in Patients Receiving Placebo Plus Standard of Care in 3 Controlled SLE Studies
+Incidence of Adverse Reactions occurring in at Least 3% of Patients Treated with BENLYSTA 10 mg/kg plus Standard of Care and at Least 1% More Frequently than in Patients receiving Placebo plus Standard of Care in 3 Controlled SLE Studies
 
 | Preferred Term | BENLYSTA 10 mg/kg + Standard of Care (n = 674) % | Placebo + Standard of Care (n = 675) % |
 | --- | --- | --- |

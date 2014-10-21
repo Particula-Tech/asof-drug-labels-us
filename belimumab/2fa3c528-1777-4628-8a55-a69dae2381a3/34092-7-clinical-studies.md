@@ -48,7 +48,7 @@ The trends in comparisons between the treatment groups for the rates of response
 At Week 76 in Trial 2, the SRI response rate with BENLYSTA 10 mg/kg was not significantly different from that of placebo (39% and 32%, respectively).
 
 Table 3.
-Clinical Response Rate in Patients With SLE After 52 Weeks of Treatment
+Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment
 
 |  | Trial 2 |  |  | Trial 3 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

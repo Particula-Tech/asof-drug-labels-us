@@ -185,11 +185,19 @@ Active ingredient: belimumab.
 
 Inactive ingredients: citric acid, polysorbate 80, sodium citrate, sucrose.
 
-BENLYSTA is a registered trademark of the GlaxoSmithKline group of companies.
+BENLYSTA is a registered trademark of the GSK group of companies.
 
 Manufactured by
 
+GlaxoSmithKline Manufacturing SpA
+
+43056 S. Polo di Torrile (PR), Italy
+
+Manufactured for
+
 Human Genome Sciences, Inc.
+
+(a subsidiary of GlaxoSmithKline)
 
 Rockville, Maryland 20850
 
@@ -203,9 +211,9 @@ Research Triangle Park, NC 27709
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-©2014, GlaxoSmithKline group of companies.
+©2014, the GSK group of companies.
 All rights reserved.
 
-April 2014
+October 2014
 
-BNL:2MG
+BNL:3MG

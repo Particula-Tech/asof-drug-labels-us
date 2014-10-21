@@ -33,7 +33,7 @@ In the controlled clinical trials, malignancies (including non-melanoma skin can
 In the controlled clinical trials, malignancies, excluding non-melanoma skin cancers, were observed in 0.2% (3/1,458) and 0.3% (2/675) of patients receiving BENLYSTA and placebo, respectively.
 The mechanism of action of BENLYSTA could increase the risk for the development of malignancies.
 
-## 5.4 Hypersensitivity Reactions, Including Anaphylaxis
+## 5.4 Hypersensitivity Reactions, including Anaphylaxis
 
 Acute hypersensitivity reactions, including anaphylaxis and death, have been reported in association with BENLYSTA.
 These events generally occurred within hours of the infusion; however, they may occur later.
@@ -80,7 +80,7 @@ Live vaccines should not be given for 30 days before or concurrently with BENLYS
 No data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving BENLYSTA or the effect of BENLYSTA on new immunizations.
 Because of its mechanism of action, BENLYSTA may interfere with the response to immunizations.
 
-## 5.8 Concomitant Use With Other Biologic Therapies or Intravenous Cyclophosphamide
+## 5.8 Concomitant Use with Other Biologic Therapies or Intravenous Cyclophosphamide
 
 BENLYSTA has not been studied in combination with other biologic therapies, including B-cell targeted therapies, or intravenous cyclophosphamide.
 Therefore, use of BENLYSTA is not recommended in combination with biologic therapies or intravenous cyclophosphamide.

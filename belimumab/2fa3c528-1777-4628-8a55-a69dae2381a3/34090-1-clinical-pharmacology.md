@@ -21,7 +21,7 @@ The clinical relevance of normalizing these biomarkers has not been definitively
 The pharmacokinetic parameters displayed in Table 2 are based on population parameter estimates which are specific to the 563 patients who received BENLYSTA 10 mg/kg in Trials 2 and 3 [see Clinical Studies (14)].
 
 Table 2.
-Population Pharmacokinetic Parameters in Patients With SLE After Intravenous Infusion of BENLYSTA 10 mg/kga
+Population Pharmacokinetic Parameters in Patients with SLE after Intravenous Infusion of BENLYSTA 10 mg/kga
 
 | Pharmacokinetic Parameter | Population Estimates (n = 563) |
 | --- | --- |

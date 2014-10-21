@@ -29,11 +29,19 @@ Instruct patients to tell their healthcare provider if they are pregnant, become
 Encourage pregnant patients to enroll in the pregnancy registry for BENLYSTA [see Use in Specific Populations (8.1)].
 Instruct patients to tell their healthcare provider if they plan to breastfeed their infant [see Use in Specific Populations (8.3)].
 
-BENLYSTA is a registered trademark of the GlaxoSmithKline group of companies.
+BENLYSTA is a registered trademark of the GSK group of companies.
 
-Manufactured by:
+Manufactured by
+
+GlaxoSmithKline Manufacturing SpA
+
+43056 S. Polo di Torrile (PR), Italy
+
+Manufactured for
 
 Human Genome Sciences, Inc.
+
+(a subsidiary of GlaxoSmithKline)
 
 Rockville, Maryland 20850
 
@@ -45,7 +53,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, GlaxoSmithKline group of companies.
+©2014, the GSK group of companies.
 All rights reserved.
 
-BNL:2PI
+BNL:3PI

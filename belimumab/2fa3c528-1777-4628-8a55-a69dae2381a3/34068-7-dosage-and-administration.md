@@ -12,8 +12,7 @@ The infusion must be discontinued immediately if the patient experiences a serio
 
 ## 2.2 Premedication Recommendations
 
-Prior to dosing with BENLYSTA, consider administering premedication for prophylaxis against infusion reactions and hypersensitivity reactions.
-[see Warnings and Precautions (5.4, 5.5),Adverse Reactions (6.1)].
+Prior to dosing with BENLYSTA, consider administering premedication for prophylaxis against infusion reactions and hypersensitivity reactions [see Warnings and Precautions (5.4, 5.5), Adverse Reactions (6.1)].
 
 ## 2.3 Preparation of Solutions
 
@@ -56,7 +55,10 @@ Dilution Instructions
 
 ## 2.4 Administration Instructions
 
-- 1.The diluted solution of BENLYSTA should be administered by intravenous infusion only, over a period of 1 hour.
-- 2.BENLYSTA should be administered by healthcare providers prepared to manage anaphylaxis [Warnings and Precautions (5.4)].
-- 3.BENLYSTA should not be infused concomitantly in the same intravenous line with other agents.
+- 1.
+  BENLYSTA should be administered by healthcare providers prepared to manage anaphylaxis [see Warnings and Precautions (5.4)].
+- 2.BENLYSTA should not be infused concomitantly in the same intravenous line with other agents.
   No physical or biochemical compatibility studies have been conducted to evaluate the coadministration of BENLYSTA with other agents.
+- 3.The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 2° to 8°C (36° to 46°F).
+  Solutions of BENLYSTA diluted in normal saline may be stored at 2° to 8°C (36° to 46°F) or room temperature.
+  The total time from reconstitution of BENLYSTA to completion of infusion should not exceed 8 hours.
