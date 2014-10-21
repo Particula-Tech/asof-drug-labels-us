@@ -18,4 +18,4 @@ IMPORTANT: Please read these instructions before using Sertraline hydrochloride 
 8. Replace the plastic cap on the bottle by screwing it clockwise; rinse the empty dispensing syringe with water.
    And close the orifice of the dispensing syringe by fixing the secure tip (see Figure 8).
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 07/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 10/2014
