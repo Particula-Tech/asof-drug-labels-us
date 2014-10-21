@@ -35,11 +35,11 @@ Hemolysis is an indication for discontinuing nitrofurantoin (monohydrate/macrocr
 
 ## Clostridium difficile-Associated Diarrhea
 
-Clostridium difficileassociated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-C. difficileproduces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
