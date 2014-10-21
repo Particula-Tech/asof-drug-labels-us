@@ -43,7 +43,7 @@ In patients where delayed gastric emptying interferes with radiological examinat
 
 For dosage, see intubation, above.
 
-Use in Patients with Renal or Hepatic Impairment
+## Use in Patients with Renal or Hepatic Impairment
 
 Since metoclopramide is excreted principally through the kidneys, in those patients whose creatinine clearance is below 40 mL/min, therapy should be initiated at approximately one-half the recommended dosage.
 Depending upon clinical efficacy and safety considerations, the dosage may be increased or decreased as appropriate.
@@ -55,7 +55,7 @@ Its safe use has been described in patients with advanced liver disease whose re
 
 NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
-ADMIXTURE COMPATIBILITIES
+## ADMIXTURE COMPATIBILITIES
 
 Metoclopramide Injection, USP is compatible for mixing and injection with the following dosage forms to the extent indicated below:
 

@@ -3,7 +3,7 @@
 In general, the incidence of adverse reactions correlates with the dose and duration of metoclopramide administration.
 The following reactions have been reported, although in most instances, data do not permit an estimate of frequency.
 
-CNS Effects
+## CNS Effects
 
 Restlessness, drowsiness, fatigue and lassitude may occur in patients receiving the recommended prescribed dosage of metoclopramide injection.
 Insomnia, headache, confusion, dizziness, or mental depression with suicidal ideation also may occur (see WARNINGS).
@@ -11,7 +11,7 @@ In cancer chemotherapy patients being treated with 1 to 2 mg/kg per dose, incide
 There are isolated reports of convulsive seizures without a clear-cut relationship to metoclopramide.
 Rarely, hallucinations have been reported.
 
-Extrapyramidal Reactions (EPS)
+## Extrapyramidal Reactions (EPS)
 
 Acute dystonic reactions, the most common type of EPS associated with metoclopramide, occur in approximately 0.2% of patients (1 in 500) treated with 30 to 40 mg of metoclopramide per day.
 In cancer chemotherapy patients receiving 1 to 2 mg/kg per dose, the incidence is 2% in patients over the ages of 30 to 35, and 25% or higher in pediatric patients and adult patients less than 30 years of age who have not had prophylactic administration of diphenhydramine.
@@ -24,7 +24,7 @@ Tardive dyskinesia most frequently is characterized by involuntary movements of 
 Motor restlessness (akathisia) may consist of feelings of anxiety, agitation, jitteriness, and insomnia, as well as inability to sit still, pacing, and foot tapping.
 These symptoms may disappear spontaneously or respond to a reduction in dosage.
 
-Neuroleptic Malignant Syndrome
+## Neuroleptic Malignant Syndrome
 
 Rare occurrences of neuroleptic malignant syndrome (NMS) have been reported.
 This potentially fatal syndrome is comprised of the symptom complex of hyperthermia, muscular rigidity, altered consciousness, and autonomic instability (see WARNINGS).

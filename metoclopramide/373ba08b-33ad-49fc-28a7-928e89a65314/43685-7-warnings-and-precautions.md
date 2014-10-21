@@ -40,7 +40,7 @@ Metoclopramide itself may suppress, or partially suppress, the signs of TD, ther
 The effect of this symptomatic suppression upon the long-term course of TD is unknown.
 Therefore, metoclopramide should not be used for the symptomatic control of TD.
 
-Parkinsonian-like Symptoms
+## Parkinsonian-like Symptoms
 
 Parkinsonian-like symptoms, including bradykinesia, tremor, cogwheel rigidity, or mask-like facies, have occurred, more commonly within the first 6 months after beginning treatment with metoclopramide, but occasionally after longer periods.
 These symptoms generally subside within 2 to 3 months following discontinuance of metoclopramide.
@@ -68,7 +68,7 @@ Intravenous administration of Metoclopramide Injection, USP, diluted in a parent
 Giving a promotility drug such as metoclopramide theoretically could put increased pressure on suture lines following a gut anastomosis or closure.
 This possibility should be considered and weighed when deciding whether to use metoclopramide or nasogastric suction in the prevention of postoperative nausea and vomiting.
 
-Information for Patients
+## Information for Patients
 
 A patient Medication Guide is available for metoclopramide.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
@@ -78,7 +78,7 @@ Refer to the accompanying Medication Guide.
 Metoclopramide may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
 The ambulatory patient should be cautioned accordingly.
 
-Drug Interactions
+## Drug Interactions
 
 The effects of metoclopramide on gastrointestinal motility are antagonized by anticholinergic drugs and narcotic analgesics.
 Additive sedative effects can occur when metoclopramide is given with alcohol, sedatives, hypnotics, narcotics or tranquilizers.
@@ -142,7 +142,7 @@ Metoclopramide is known to be substantially excreted by the kidney, and the risk
 
 For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see DOSAGE AND ADMINISTRATION – Use in Patients with Renal or Hepatic Impairment).
 
-Other Special Populations
+## Other Special Populations
 
 Patients with NADH-cytochrome b5 reductase deficiency are at an increased risk of developing methemoglobinemia and/or sulfhemoglobinemia when metoclopramide is administered.
 In patients with G6PD deficiency who experience metoclopramide-induced methemoglobinemia, methylene blue treatment is not recommended (see OVERDOSAGE).

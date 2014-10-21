@@ -23,7 +23,7 @@ Metoclopramide inhibits the central and peripheral effects of apomorphine, induc
 
 The onset of pharmacological action of metoclopramide is 1 to 3 minutes following an intravenous dose, 10 to 15 minutes following intramuscular administration, and 30 to 60 minutes following an oral dose, pharmacological effects persist for 1 to 2 hours.
 
-Pharmacokinetics
+## Pharmacokinetics
 
 Metoclopramide is rapidly and well absorbed.
 Relative to an intravenous dose of 20 mg, the absolute oral bioavailability of metoclopramide is 80% ± 15.5% as demonstrated in a crossover study of 18 subjects.
@@ -76,8 +76,8 @@ The mean elimination half-life, clearance, and volume of distribution of metoclo
 
 Pediatric Pharmacokinetic Studies
 
-| Reference | Dose, Route | t1/2(hr) | CI(L/hr/kg) | Vd(L/kg) | Cmax(mcg/L) |
-| --- | --- | --- | --- | --- | --- |
-| 1. | 0.35 mg/kgIV over 5 min | 4.4 ± 0.56 | 0.56 ± 0.10 | 3.0 ± 0.38(Dose/Cp0) | 152 ± 31 |
-| 2. | 2 mg/kg30 min IV infusion 4 to 5 times within 9.5 hours | 4.5a | 0.37a | 1.93a | 1060 to 5680a |
-| a SEM not available. 1. Bateman, DN, et, al. Br J Clin Pharmac 15:557-559, 1983.2. Ford, C. Clin Pharmac Ther 43:196, 1988. |  |  |  |  |  |
+| Reference | Dose, Route | t1/2(hr) | CI(L/hr/kg) | Vd(L/kg) | Cmax(mcg/L) |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1. | 0.35 mg/kgIV over 5 min | 4.4 ± 0.56 | 0.56 ± 0.10 | 3.0 ± 0.38(Dose/Cp0) | 152 ± 31 |  |  |
+| 2. | 2 mg/kg30 min IV infusion 4 to 5 times within 9.5 hours | 4.5a | 0.37a | 1.93a | 1060 to 5680a |  |  |
+| a SEM not available. 1. Bateman, DN, et, al. Br J Clin Pharmac 15:557-559, 1983. 2. Ford, C. Clin Pharmac Ther 43:196, 1988. |  |  |  |  |  |  |  |
