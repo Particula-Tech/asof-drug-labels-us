@@ -1,5 +1,14 @@
 # WARNINGS
 
+## Serious Neurologic Adverse Reactions with Epidural Administration
+
+Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids.
+Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke.
+These serious neurologic events have been reported with and without use of fluoroscopy.
+The safety and effectiveness of epidural administration of corticosteroids has not been established, and corticosteroids are not approved for this use.
+
+## General
+
 Because rare instances of anaphylactoid reactions have occurred in patients receiving parenteral corticosteroid therapy, appropriate precautionary measures should be taken prior to administration, especially when the patient has a history of allergy to any drug.
 Anaphylactoid and hypersensitivity reactions have been reported for Dexamethasone Sodium Phosphate Injection (see ADVERSE REACTIONS).
 
@@ -52,13 +61,6 @@ If corticosteroids are indicated in patients with latent tuberculosis or tubercu
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
 Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
-
-## Serious Neurologic Adverse Reactions with Epidural Administration
-
-Serious neurologic events, some resulting in death, have been reported with epidural injection of corticosteroids.
-Specific events reported include, but are not limited to, spinal cord infarction, paraplegia, quadriplegia, cortical blindness, and stroke.
-These serious neurologic events have been reported with and without use of fluoroscopy.
-The safety and effectiveness of epidural administration of corticosteroids has not been established, and corticosteroids are not approved for this use.
 
 ## Usage in Pregnancy
 
