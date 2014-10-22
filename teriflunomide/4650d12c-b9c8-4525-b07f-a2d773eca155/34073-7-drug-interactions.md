@@ -1,22 +1,34 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
-Effect of teriflunomide on CYP2C8 substrates
+Effect of AUBAGIO on CYP2C8 substrates
 
-There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.
-The magnitude of interaction could be higher at the recommended repaglinide dose.
-Therefore, monitoring patients with concomitant use of drugs metabolized by CYP2C8, such as repaglinide, paclitaxel, pioglitazone, or rosiglitazone is recommended as they may have higher exposure.
+Teriflunomide is an inhibitor of CYP2C8 in vivo.
+In patients taking AUBAGIO, exposure of drugs metabolized by CYP2C8 (e.g., paclitaxel, pioglitazone, repaglinide, rosiglitazone) may be increased.
+Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP2C8 as required [see Clinical Pharmacology (12.3)].
 
-Effect of teriflunomide on warfarin
+Effect of AUBAGIO on warfarin
 
-A 25% decrease in peak international normalized ratio (INR) was observed when teriflunomide was coadministered with warfarin as compared with warfarin alone.
-Therefore, when warfarin is coadministered with teriflunomide, close INR follow-up and monitoring is recommended.
+Coadministration of AUBAGIO with warfarin requires close monitoring of the international normalized ratio (INR) because AUBAGIO may decrease peak INR by approximately 25%.
 
-Effect of teriflunomide on oral contraceptives
+Effect of AUBAGIO on oral contraceptives
 
-There was an increase in mean ethinylestradiol Cmax and AUC0–24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0–24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide.
-Consideration should be given to the type or dose of oral contraceptives used in combination with teriflunomide.
+AUBAGIO may increase the systemic exposures of ethinylestradiol and levonorgestrel.
+Consideration should be given to the type or dose of contraceptives used in combination with AUBAGIO [see Clinical Pharmacology (12.3)].
 
-Effect of teriflunomide on CYP1A2 substrates
+Effect of AUBAGIO on CYP1A2 substrates
 
-Repeated doses of teriflunomide decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18% and 55% respectively, suggesting that teriflunomide may be in vivo a weak inducer of CYP1A2.
-Therefore, patients should be monitored when teriflunomide is coadministered with drugs metabolized by CYP1A2 (such as duloxetine, alosetron, theophylline, and tizanidine), as the efficacy of such drugs could be reduced.
+Teriflunomide may be a weak inducer of CYP1A2 in vivo.
+In patients taking AUBAGIO, exposure of drugs metabolized by CYP1A2 (e.g., alosetron, duloxetine, theophylline, tizanidine) may be reduced.
+Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP1A2 as required [see Clinical Pharmacology (12.3)].
+
+Effect of AUBAGIO on organic anion transporter 3 (OAT3) substrates
+
+Teriflunomide inhibits the activity of OAT3 in vivo.
+In patients taking AUBAGIO, exposure of drugs which are OAT3 substrates (e.g., cefaclor, cimetidine, ciprofloxacin, penicillin G, ketoprofen, furosemide, methotrexate, zidovudine) may be increased.
+Monitor these patients and adjust the dose of the concomitant drug(s) which are OAT3 substrates as required [see Clinical Pharmacology (12.3)].
+
+Effect of AUBAGIO on BCRP and organic anion transporting polypeptide B1 and B3 (OATP1B1/1B3) substrates
+
+Teriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo.
+For a patient taking AUBAGIO, the dose of rosuvastatin should not exceed 10 mg once daily.
+For other substrates of BCRP (e.g., mitoxantrone) and drugs in the OATP family (e.g., methotrexate, rifampin), especially HMG-Co reductase inhibitors (e.g., atorvastatin, nateglinide, pravastatin, repaglinide, and simvastatin), consider reducing the dose of these drugs and monitor patients closely for signs and symptoms of increased exposures to the drugs while patients are taking AUBAGIO [see Clinical Pharmacology (12.3)].

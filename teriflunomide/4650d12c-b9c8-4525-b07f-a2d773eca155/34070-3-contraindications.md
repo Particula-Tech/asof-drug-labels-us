@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 ## 4.1. Severe Hepatic Impairment
 
@@ -14,8 +14,7 @@ Nonclinical studies indicate further that the intended pharmacologic action of t
 AUBAGIO is contraindicated in women who are pregnant or women of child bearing potential not using reliable contraception.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
 If pregnancy does occur during treatment, the drug should be immediately discontinued and an accelerated elimination procedure should be initiated [see Warnings and Precautions (5.3)].
-Under these conditions, the patient should be referred to an obstetrician/gynecologist, preferably experienced in reproductive toxicity, for further evaluation and counseling.
-[see Warnings and Precautions and Use in Specific Populations (5.2, 8.1)]
+Under these conditions, the patient should be referred to an obstetrician/gynecologist, preferably experienced in reproductive toxicity, for further evaluation and counseling [see Warnings and Precautions and Use in Specific Populations (5.2, 8.1)].
 
 ## 4.3. Current treatment with leflunomide
 

@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -49,7 +49,7 @@ Clinical studies of AUBAGIO did not include patients over 65 years old.
 
 No dosage adjustment is necessary for patients with mild and moderate hepatic impairment.
 The pharmacokinetics of teriflunomide in severe hepatic impairment have not been evaluated.
-Teriflunomide is contraindicated in patients with severe hepatic impairment [see Contraindications (4.1) and Warnings and Precautions (5.1)].
+AUBAGIO is contraindicated in patients with severe hepatic impairment [see Contraindications (4.1) Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

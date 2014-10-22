@@ -110,14 +110,10 @@ AUBAGIO may cause serious side effects, including:
     - vomiting
   - should not receive certain vaccinations during your treatment with AUBAGIO and for 6 months after your treatment with AUBAGIO ends.
 - numbness or tingling in your hands or feet that is different from your MS symptoms.
-  You have a greater chance of getting peripheral neuropathy if you:Tell your doctor if you have numbness or tingling in your hands or feet that is different from your MS.
+  You have a greater chance of getting peripheral neuropathy if you: Tell your doctor if you have numbness or tingling in your hands or feet that is different from your MS.
   - are over 60 years of age
   - take certain medicines that affect your nervous system
   - have diabetes
-- kidney problems.
-  Tell your doctor if you have pain in your side (flank pain).
-- high potassium levels in your blood.
-  Tell your doctor if you have nausea that does not go away or a racing heartbeat.
 - serious skin problems.
   Tell your doctor if you have any skin problems such as redness and peeling.
 - new or worsening breathing problems.
@@ -127,12 +123,11 @@ AUBAGIO may cause serious side effects, including:
 
 The most common side effects of AUBAGIO include:
 
-- increases in the results of blood tests to check your liver
-- hair thinning or loss (alopecia)
+- headache
 - diarrhea
-- flu
 - nausea
-- burning or prickling feeling in your skin (paraesthesia)
+- hair thinning or loss (alopecia)
+- increases in the results of blood tests to check your liver function
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 

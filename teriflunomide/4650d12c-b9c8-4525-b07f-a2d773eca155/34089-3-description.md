@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 AUBAGIO (teriflunomide) is an oral de novo pyrimidine synthesis inhibitor of the DHO-DH enzyme, with the chemical name (Z)-2-Cyano-3-hydroxy-but-2-enoic acid-(4-trifluoromethylphenyl)-amide.
 Its molecular weight is 270.21, and the empirical formula is C12H9F3N2O2 with the following chemical structure:

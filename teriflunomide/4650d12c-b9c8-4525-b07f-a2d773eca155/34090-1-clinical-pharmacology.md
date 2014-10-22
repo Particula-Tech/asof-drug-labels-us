@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -44,31 +44,28 @@ Over 21 days, 60.1% of the administered dose is excreted via feces (37.5%) and u
 After an accelerated elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in feces).
 After a single IV administration, the total body clearance of teriflunomide is 30.5 mL/h.
 
-Drug Interactions
+Drug Interaction Studies
 
 Teriflunomide is not metabolized by Cytochrome P450 or flavin monoamine oxidase enzymes.
-Based on in vitro studies, teriflunomide is a substrate of the efflux transporter Breast Cancer Resistant Protein (BCRP).
-BCRP inhibitors (such as cyclosporine, eltrombopag, gefitinib) may increase exposure of teriflunomide.
 
-In vitro and in vivo studies suggested teriflunomide is an inhibitor of CYP2C8 and an in vivo study with caffeine indicated that teriflunomide induces CYP1A2.
-Teriflunomide is also an inhibitor of BCRP, hepatic uptake transporter (OATP1B1), and renal uptake transporter (OAT3).
-In vivo studies to confirm transporter based interaction have not been conducted.
+The Potential Effect of AUBAGIO on Other Drugs
 
-Potential of Other Drugs to Affect AUBAGIO:
+- CYP2C8 Substrates There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.
+  The magnitude of interaction could be higher at the recommended repaglinide dose [see Drug Interactions (7)].
+- CYP1A2 Substrates Repeated doses of teriflunomide decreased mean Cmax and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo.
+- OAT3 Substrates There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo [see Drug Interactions (7)].
+- BCRP and OATP1B1/1B3 Substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7)].
+- Oral Contraceptives There was an increase in mean ethinylestradiol Cmax and AUC0–24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0–24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide [see Drug Interactions (7)].
+- Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate).
 
-Potent CYP and transporter inducers: Rifampin did not affect the pharmacokinetics of teriflunomide.
+The Potential Effect of Other Drugs on AUBAGIO
 
-Potential of AUBAGIO to Affect Other Drugs:
+- Potent CYP and transporter inducers: Rifampin did not affect the pharmacokinetics of teriflunomide.
 
-Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate) and metoprolol (a CYP2D6 substrate).
+Specific populations
 
-Special populations
-
-Hepatic Impairment: Mild and moderate hepatic impairment had no impact on the pharmacokinetics of teriflunomide.
-The pharmacokinetics of teriflunomide in severe hepatic impairment have not been evaluated [see Contraindications (4.1)].
-
-Renal Impairment: Severe renal impairment had no impact on the pharmacokinetics of teriflunomide [see Use in Specific Populations (8.7)].
-
-Gender: In a population analysis, there was a 23% decrease in clearance in females compared to males.
-
-Race: Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.
+- Hepatic Impairment Mild and moderate hepatic impairment had no impact on the pharmacokinetics of teriflunomide.
+  The pharmacokinetics of teriflunomide in severe hepatic impairment have not been evaluated [see Contraindications (4.1), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
+- Renal Impairment Severe renal impairment had no impact on the pharmacokinetics of teriflunomide [see Use in Specific Populations (8.7)].
+- Gender In a population analysis, the clearance rate for teriflunomide is 23% less in females than in males.
+- Race Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.

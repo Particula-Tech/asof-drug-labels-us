@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 There is no experience regarding teriflunomide overdose or intoxication in humans.
 Teriflunomide 70 mg daily up to 14 days was well tolerated by healthy subjects.
