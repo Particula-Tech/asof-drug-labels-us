@@ -74,6 +74,7 @@ Before taking NEURONTIN, tell your healthcare provider if you:
 
 - have or have had kidney problems or are on hemodialysis
 - have or have had depression, mood problems, or suicidal thoughts or behavior
+- have diabetes
 - are pregnant or plan to become pregnant.
   It is not known if NEURONTIN can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking NEURONTIN.
@@ -121,7 +122,7 @@ See "What is the most important information I should know about NEURONTIN?"
 
 - problems driving while using NEURONTIN.
   See "What I should avoid while taking Neurontin?"
-- sleepiness and dizziness
+- sleepiness and dizziness, which could increase the occurrence of accidental injury, including falls
 - The most common side effects of NEURONTIN include:
 
 |  | lack of coordinationviral infectionfeeling drowsynausea and vomitingdifficulty with speakingtremorswelling, usually of legs and feet | feeling tiredfeverjerky movementsdifficulty with coordinationdouble visionunusual eye movement |
@@ -174,4 +175,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0397-5.0 August 2014
+LAB-0397-6.0 September 2014

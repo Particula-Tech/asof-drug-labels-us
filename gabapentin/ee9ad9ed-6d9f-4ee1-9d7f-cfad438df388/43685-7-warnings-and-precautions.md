@@ -39,7 +39,18 @@ Among the 2074 patients >12 years of age treated with NEURONTIN across all epile
 Of these, 14 patients had no prior history of status epilepticus either before treatment or while on other medications.
 Because adequate historical data are not available, it is impossible to say whether or not treatment with NEURONTIN is associated with a higher or lower rate of status epilepticus than would be expected to occur in a similar population not treated with NEURONTIN.
 
-## 5.5 Suicidal Behavior and Ideation
+## 5.5 Concomitant Use with Opioids
+
+Patients who require concomitant treatment with opioids may experience increases in gabapentin concentrations.
+Patients should be carefully observed for signs of central nervous system (CNS) depression, such as somnolence, sedation and respiratory depression and the dose of gabapentin or opioid should be reduced appropriately [See Drug Interactions (7.2)].
+
+## 5.6 Accidental Injury
+
+Gabapentin treatment has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall).
+There have also been post-marketing reports of confusion, loss of consciousness and mental impairment.
+Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medication.
+
+## 5.7 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including NEURONTIN, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -74,7 +85,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.6 Neuropsychiatric Adverse Reactions (Pediatric Patients 3–12 Years of Age)
+## 5.8 Neuropsychiatric Adverse Reactions (Pediatric Patients 3–12 Years of Age)
 
 Gabapentin use in pediatric patients with epilepsy 3–12 years of age is associated with the occurrence of central nervous system related adverse reactions.
 The most significant of these can be classified into the following categories: 1) emotional lability (primarily behavioral problems), 2) hostility, including aggressive behaviors, 3) thought disorder, including concentration problems and change in school performance, and 4) hyperkinesia (primarily restlessness and hyperactivity).
@@ -85,7 +96,7 @@ One of these reactions, a report of hostility, was considered serious.
 Discontinuation of gabapentin treatment occurred in 1.3% of patients reporting emotional lability and hyperkinesia and 0.9% of gabapentin-treated patients reporting hostility and thought disorder.
 One placebo-treated patient (0.4%) withdrew due to emotional lability.
 
-## 5.7 Tumorigenic Potential
+## 5.9 Tumorigenic Potential
 
 In an oral carcinogenicity study, gabapentin increased the incidence of pancreatic acinar cell tumors in rats [see Nonclinical Toxicology (13.1)].
 The clinical significance of this finding is unknown.
@@ -94,7 +105,7 @@ Clinical experience during gabapentin's premarketing development provides no dir
 In clinical studies in adjunctive therapy in epilepsy comprising 2085 patient-years of exposure in patients >12 years of age, new tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal, 1 non-Hodgkin's lymphoma, 1 endometrial carcinoma in situ), and preexisting tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate) during or up to 2 years following discontinuation of NEURONTIN.
 Without knowledge of the background incidence and recurrence in a similar population not treated with NEURONTIN, it is impossible to know whether the incidence seen in this cohort is or is not affected by treatment.
 
-## 5.8 Sudden and Unexplained Death in Patients with Epilepsy
+## 5.10 Sudden and Unexplained Death in Patients with Epilepsy
 
 During the course of premarketing development of NEURONTIN, 8 sudden and unexplained deaths were recorded among a cohort of 2203 epilepsy patients treated (2103 patient-years of exposure) with NEURONTIN.
 
@@ -103,7 +114,7 @@ This represents an incidence of 0.0038 deaths per patient-year.
 Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with epilepsy not receiving NEURONTIN (ranging from 0.0005 for the general population of epileptics to 0.003 for a clinical trial population similar to that in the NEURONTIN program, to 0.005 for patients with refractory epilepsy).
 Consequently, whether these figures are reassuring or raise further concern depends on comparability of the populations reported upon to the NEURONTIN cohort and the accuracy of the estimates provided.
 
-## 5.9 Laboratory Tests
+## 5.11 Laboratory Tests
 
 Clinical trials data do not indicate that routine monitoring of clinical laboratory parameters is necessary for the safe use of NEURONTIN.
 The value of monitoring gabapentin blood concentrations has not been established.

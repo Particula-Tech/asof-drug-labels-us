@@ -5,9 +5,9 @@ The following serious adverse reactions are discussed in greater detail in other
 - Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.1)]
 - Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.3)]
 - Withdrawal Precipitated Seizure, Status Epilepticus [see Warnings and Precautions (5.4)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
-- Neuropsychiatric Adverse Reactions (Pediatric Patients 3–12 Years of Age) [see Warnings and Precautions (5.5)]
-- Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.8)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
+- Neuropsychiatric Adverse Reactions (Pediatric Patients 3–12 Years of Age) [see Warnings and Precautions (5.8)]
+- Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -160,15 +160,17 @@ General disorders and administration site conditions: fever
 
 Hepatobiliary disorders: jaundice
 
-Investigations: blood glucose fluctuation, elevated creatine kinase, elevated liver function tests
+Injury, Poisoning and Procedural Complications: fall
 
-Metabolism and nutrition disorders: hyponatremia
+Investigations: elevated creatine kinase, elevated liver function tests
 
-Nervous system disorders: movement disorder
+Metabolism and nutrition disorders: hyponatremia, hyperglycemia and hypoglycemia (most often observed in patients with diabetes)
 
-Musculoskeletal and connective tissue disorders: rhabdomyolysis
+Musculoskeletal and connective tissue disorder: rhabdomyolysis
 
-Reproductive system and breast disorders: breast enlargement
+Nervous system disorders: movement disorder, loss of consciousness
+
+Reproductive system and breast disorders: breast enlargement, sexual dysfunction (including changes in libido, ejaculation disorders and anorgasmia)
 
 Skin and subcutaneous tissue disorders: angioedema, erythema multiforme, Stevens-Johnson syndrome.
 
