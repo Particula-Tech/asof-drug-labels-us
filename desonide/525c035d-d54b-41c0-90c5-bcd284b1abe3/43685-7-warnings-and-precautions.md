@@ -51,19 +51,19 @@ Patients should report to their physician any signs of local adverse reactions.
 
 ## Laboratory Tests -
 
-The following test may be helpful in evaluating patients for HPA axis suppression:
+The following tests may be helpful in evaluating patients for HPA axis suppression:
 
 - ACTH stimulation test
 - A.M. plasma cortisol test
 - Urinary free cortisol test
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility -
 
 Long-term animal studies have not been performed to evaluate the carcinogenic, mutagenic, or fertility impairment potential of Desonide Ointment, 0.05%.
 
 ## Pregnancy:
 
-### Teratogenic effects:
+### Teratogenic Effects:
 
 #### Pregnancy Category C
 

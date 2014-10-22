@@ -1,4 +1,6 @@
-For Dermatologic Use Only Not for Ophthalmic Use
+For Dermatologic Use Only
+
+Not for Ophthalmic Use
 
 Rx Only
 
@@ -13,4 +15,4 @@ Allegan, MI 49010 • www.perrigo.com
 Rev.
 01/13
 
-: 1F100 RC J4
+:1F100 RC J4

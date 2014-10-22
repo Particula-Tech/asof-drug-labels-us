@@ -1,4 +1,4 @@
-# Description
+# DESCRIPTION
 
 Desonide Ointment, 0.05% contains desonide (Pregna-1,4-diene-3,20-dione,11,21-dihydroxy-16,17-[(1-methylethylidene)bis(oxy)]-,(11β,16α)) a synthetic corticosteroid for topical dermatologic use.
 The corticosteroids constitute a class of primary synthetic steroids used topically as anti-inflammatory and antipruritic agents.
