@@ -13,19 +13,12 @@ Several guidelines on this subject have been published.
 
 TEMODAR Capsules:
 
-TEMODAR (temozolomide) Capsules are supplied in amber glass bottles with child-resistant polypropylene caps or child-resistant sachets containing the following capsule strengths:
+TEMODAR (temozolomide) Capsules are supplied in child-resistant sachets containing the following capsule strengths:
 
 TEMODAR Capsules 5 mg: have opaque white bodies with green caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
-
-Bottles:
-
-- 5-count – NDC 0085-3004-02
-- 14-count – NDC 0085-3004-01
-
-Sachets:
 
 - 5-count – NDC 0085-3004-03
 - 14-count – NDC 0085-3004-04
@@ -35,13 +28,6 @@ The capsule body is imprinted with two stripes, the dosage strength, and the Sch
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
 
-Bottles:
-
-- 5-count – NDC 0085-1519-02
-- 14-count – NDC 0085-1519-01
-
-Sachets:
-
 - 5-count – NDC 0085-1519-03
 - 14-count – NDC 0085-1519-04
 
@@ -49,13 +35,6 @@ TEMODAR Capsules 100 mg: have opaque white bodies with pink caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
-
-Bottles:
-
-- 5-count – NDC 0085-1366-02
-- 14-count – NDC 0085-1366-01
-
-Sachets:
 
 - 5-count – NDC 0085-1366-03
 - 14-count – NDC 0085-1366-04
@@ -65,13 +44,6 @@ The capsule body is imprinted with two stripes, the dosage strength, and the Sch
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
 
-Bottles:
-
-- 5-count – NDC 0085-1425-01
-- 14-count – NDC 0085-1425-02
-
-Sachets:
-
 - 5-count – NDC 0085-1425-03
 - 14-count – NDC 0085-1425-04
 
@@ -80,13 +52,6 @@ The capsule body is imprinted with two stripes, the dosage strength, and the Sch
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
 
-Bottles:
-
-- 5-count – NDC 0085-1430-01
-- 14-count – NDC 0085-1430-02
-
-Sachets:
-
 - 5-count – NDC 0085-1430-03
 - 14-count – NDC 0085-1430-04
 
@@ -94,12 +59,6 @@ TEMODAR Capsules 250 mg: have opaque white bodies with white caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
-
-Bottles:
-
-- 5-count – NDC 0085-1417-01
-
-Sachets:
 
 - 5-count – NDC 0085-1417-02
 

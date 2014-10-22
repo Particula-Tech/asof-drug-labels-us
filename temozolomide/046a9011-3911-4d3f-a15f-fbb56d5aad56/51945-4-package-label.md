@@ -1,6 +1,6 @@
-PRINCIPAL DISPLAY PANEL - 5 mg Capsule Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 5 mg Capsule Bottle Carton
 
-NDC 0085-3004-02
+NDC 0085-3004-03
 
 5 mg per capsule
 
@@ -8,11 +8,13 @@ Temodar® (temozolomide) Capsules
 
 For Oral Administration Rx only
 
-THIS PACKAGE CONTAINS 5 CAPSULES
+THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
-PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Carton
+Each Individual Sachet Contains One Capsule Each
 
-NDC 0085-1519-02
+# PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Carton
+
+NDC 0085-1519-03
 
 20 mg per capsule
 
@@ -20,11 +22,13 @@ Temodar® (temozolomide) Capsules
 
 For Oral Administration Rx only
 
-THIS PACKAGE CONTAINS 5 CAPSULES
+THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
-PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Carton
+Each Individual Sachet Contains One Capsule Each
 
-NDC 0085-1366-01
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Carton
+
+NDC 0085-1366-03
 
 100 mg per capsule
 
@@ -32,11 +36,13 @@ Temodar® (temozolomide) Capsules
 
 For Oral Administration Rx only
 
-THIS PACKAGE CONTAINS 14 CAPSULES
+THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
-PRINCIPAL DISPLAY PANEL - 140 mg Capsule Bottle Carton
+Each Individual Sachet Contains One Capsule Each
 
-NDC 0085-1425-01
+# PRINCIPAL DISPLAY PANEL - 140 mg Capsule Bottle Carton
+
+NDC 0085-1425-03
 
 140 mg per capsule
 
@@ -44,11 +50,13 @@ Temodar® (temozolomide) Capsules
 
 For Oral Administration Rx only
 
-THIS PACKAGE CONTAINS 5 CAPSULES
+THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
-PRINCIPAL DISPLAY PANEL - 180 mg Capsule Bottle Carton
+Each Individual Sachet Contains One Capsule Each
 
-NDC 0085-1430-01
+# PRINCIPAL DISPLAY PANEL - 180 mg Capsule Bottle Carton
+
+NDC 0085-1430-03
 
 180 mg per capsule
 
@@ -56,11 +64,13 @@ Temodar® (temozolomide) Capsules
 
 For Oral Administration Rx only
 
-THIS PACKAGE CONTAINS 5 CAPSULES
+THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
-PRINCIPAL DISPLAY PANEL - 250 mg Capsule Bottle Carton
+Each Individual Sachet Contains One Capsule Each
 
-NDC 0085-1417-01
+# PRINCIPAL DISPLAY PANEL - 250 mg Capsule Bottle Carton
+
+NDC 0085-1417-02
 
 250 mg per capsule
 
@@ -68,9 +78,11 @@ Temodar® (temozolomide) Capsules
 
 For Oral Administration Rx only
 
-THIS PACKAGE CONTAINS 5 CAPSULES
+THIS PACKAGE CONTAINS 5 INDIVIDUAL SACHETS
 
-PRINCIPAL DISPLAY PANEL - 100 mg Vial Carton
+Each Individual Sachet Contains One Capsule Each
+
+# PRINCIPAL DISPLAY PANEL - 100 mg Vial Carton
 
 NDC 0085-1381-01
 

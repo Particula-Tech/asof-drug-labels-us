@@ -4,9 +4,7 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 1999, 2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 05/2014
-
-uspi-mk7365-mtl-1405r016
+uspi-mk7365-mtl-1410r017
 
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -315,18 +313,6 @@ For examples of other dosing regimens, please refer to the full Prescribing Info
 
 | TEMODAR Product | NDC Number |
 | --- | --- |
-| Bottles: |  |
-| 5-mg capsules (5 count) | 0085-3004-02 |
-| 5-mg capsules (14 count) | 0085-3004-01 |
-| 20-mg capsules (5 count) | 0085-1519-02 |
-| 20-mg capsules (14 count) | 0085-1519-01 |
-| 100-mg capsules (5 count) | 0085-1366-02 |
-| 100-mg capsules (14 count) | 0085-1366-01 |
-| 140-mg capsules (5 count) | 0085-1425-01 |
-| 140-mg capsules (14 count) | 0085-1425-02 |
-| 180-mg capsules (5 count) | 0085-1430-01 |
-| 180-mg capsules (14 count) | 0085-1430-02 |
-| 250-mg capsules (5 count) | 0085-1417-01 |
 | Sachets: |  |
 | 5-mg capsules (5 count) | 0085-3004-03 |
 | 5-mg capsules (14 count) | 0085-3004-04 |
@@ -346,6 +332,6 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 05/2014
+Revised: 10/2014
 
-usphi-mk7365-cp-1405r010
+usphi-mk7365-cp-1410r011
