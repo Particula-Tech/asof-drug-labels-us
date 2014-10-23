@@ -17,7 +17,7 @@ Patients should be advised of the following issues and asked to alert their heal
 
 When using PROZAC and olanzapine in combination, also refer to the Medication Guide for Symbyax.
 
-## 17.2 Clinical Worsening and Suicide Risk
+## 17.2 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
