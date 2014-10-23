@@ -9,22 +9,22 @@ This selective binding of zolpidem on the BZ1 receptor is not absolute, but it m
 
 ## 12.3 Pharmacokinetics
 
-Ambien CR exhibits biphasic absorption characteristics, which results in rapid initial absorption from the gastrointestinal tract similar to zolpidem tartrate immediate-release, then provides extended plasma concentrations beyond three hours after administration.
-A study in 24 healthy male subjects was conducted to compare mean zolpidem plasma concentration-time profiles obtained after single oral administration of Ambien CR 12.5 mg and of an immediate-release formulation of zolpidem tartrate (10 mg).
-The terminal elimination half-life observed with Ambien CR (12.5 mg) was similar to that obtained with immediate-release zolpidem tartrate (10 mg).
+AMBIEN CR exhibits biphasic absorption characteristics, which results in rapid initial absorption from the gastrointestinal tract similar to zolpidem tartrate immediate-release, then provides extended plasma concentrations beyond three hours after administration.
+A study in 24 healthy male subjects was conducted to compare mean zolpidem plasma concentration-time profiles obtained after single oral administration of AMBIEN CR 12.5 mg and of an immediate-release formulation of zolpidem tartrate (10 mg).
+The terminal elimination half-life observed with AMBIEN CR (12.5 mg) was similar to that obtained with immediate-release zolpidem tartrate (10 mg).
 The mean plasma concentration-time profiles are shown in Figure 1.
 
-In adult and elderly patients treated with Ambien CR, there was no evidence of accumulation after repeated once-daily dosing for up to two weeks.
+In adult and elderly patients treated with AMBIEN CR, there was no evidence of accumulation after repeated once-daily dosing for up to two weeks.
 
 Absorption:
 
-Following administration of Ambien CR, administered as a single 12.5 mg dose in healthy male adult subjects, the mean peak concentration (Cmax) of zolpidem was 134 ng/mL (range: 68.9 to 197 ng/ml) occurring at a median time (Tmax) of 1.5 hours.
+Following administration of AMBIEN CR, administered as a single 12.5 mg dose in healthy male adult subjects, the mean peak concentration (Cmax) of zolpidem was 134 ng/mL (range: 68.9 to 197 ng/ml) occurring at a median time (Tmax) of 1.5 hours.
 The mean AUC of zolpidem was 740 ng∙hr/mL (range: 295 to 1359 ng∙hr/mL).
 
-A food-effect study in 45 healthy subjects compared the pharmacokinetics of Ambien CR 12.5 mg when administered while fasting or within 30 minutes after a meal.
+A food-effect study in 45 healthy subjects compared the pharmacokinetics of AMBIEN CR 12.5 mg when administered while fasting or within 30 minutes after a meal.
 Results demonstrated that with food, mean AUC and Cmax were decreased by 23% and 30%, respectively, while median Tmax was increased from 2 hours to 4 hours.
 The half-life was not changed.
-These results suggest that, for faster sleep onset, Ambien CR should not be administered with or immediately after a meal.
+These results suggest that, for faster sleep onset, AMBIEN CR should not be administered with or immediately after a meal.
 
 Distribution:
 
@@ -36,18 +36,18 @@ Zolpidem is converted to inactive metabolites that are eliminated primarily by r
 
 Elimination:
 
-When Ambien CR was administered as a single 12.5 mg dose in healthy male adult subjects, the mean zolpidem elimination half-life was 2.8 hours (range: 1.62 to 4.05 hr).
+When AMBIEN CR was administered as a single 12.5 mg dose in healthy male adult subjects, the mean zolpidem elimination half-life was 2.8 hours (range: 1.62 to 4.05 hr).
 
 Special Populations
 
 Elderly:
 
-In 24 elderly (≥ 65 years) healthy subjects administered a single 6.25 mg dose of Ambien CR, the mean peak concentration (Cmax) of zolpidem was 70.6 (range: 35.0 to 161) ng/mL occurring at a median time (Tmax) of 2.0 hours.
+In 24 elderly (≥ 65 years) healthy subjects administered a single 6.25 mg dose of AMBIEN CR, the mean peak concentration (Cmax) of zolpidem was 70.6 (range: 35.0 to 161) ng/mL occurring at a median time (Tmax) of 2.0 hours.
 The mean AUC of zolpidem was 413 ng∙hr/mL (range: 124 to 1190 ng∙hr/mL) and the mean elimination half-life was 2.9 hours (range: 1.59 to 5.50 hours).
 
 Hepatic Impairment:
 
-Ambien CR was not studied in patients with hepatic impairment.
+AMBIEN CR was not studied in patients with hepatic impairment.
 The pharmacokinetics of an immediate-release formulation of zolpidem tartrate in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
 Following a single 20-mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng∙hr/mL) higher, respectively, in hepatically compromised patients.
 Tmax did not change.
@@ -55,7 +55,7 @@ The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was g
 
 Renal Impairment:
 
-Ambien CR was not studied in patients with renal impairment.
+AMBIEN CR was not studied in patients with renal impairment.
 The pharmacokinetics of an immediate-release formulation of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean ClCr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
 No statistically significant differences were observed for Cmax, Tmax, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.
 Zolpidem was not hemodialyzable.

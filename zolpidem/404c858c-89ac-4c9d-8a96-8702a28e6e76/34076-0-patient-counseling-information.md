@@ -1,15 +1,14 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
-
-Inform patients and their families about the benefits and risks of treatment with Ambien CR.
-Inform patients of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with Ambien CR and with each prescription refill.
-Review the Ambien CR Medication Guide with every patient prior to initiation of treatment.
-Instruct patients or caregivers that Ambien CR should be taken only as prescribed.
+Advise patients to read the FDA-approved patient labeling (Medication Guide).
+Inform patients and their families about the benefits and risks of treatment with AMBIEN CR.
+Inform patients of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with AMBIEN CR and with each prescription refill.
+Review the AMBIEN CR Medication Guide with every patient prior to initiation of treatment.
+Instruct patients or caregivers that AMBIEN CR should be taken only as prescribed.
 
 CNS Depressant Effects and Next-Day Impairment
 
-Tell patients that Ambien CR can cause next-day impairment even when used as prescribed, and that this risk is increased if dosing instructions are not carefully followed.
+Tell patients that AMBIEN CR can cause next-day impairment even when used as prescribed, and that this risk is increased if dosing instructions are not carefully followed.
 Caution patients against driving and other activities requiring complete mental alertness the day after use.
 Inform patients that impairment can be present despite feeling fully awake.
 
@@ -30,14 +29,14 @@ Tell patients to immediately report any suicidal thoughts.
 Alcohol and Other Drugs
 
 Ask patients about alcohol consumption, medicines they are taking, and drugs they may be taking without a prescription.
-Advise patients not to use Ambien CR if they drank alcohol that evening or before bed.
+Advise patients not to use AMBIEN CR if they drank alcohol that evening or before bed.
 
 Tolerance, Abuse, and Dependence
 
-Tell patients not to increase the dose of Ambien CR on their own, and to inform you if they believe the drug "does not work".
+Tell patients not to increase the dose of AMBIEN CR on their own, and to inform you if they believe the drug "does not work".
 
 Administration Instructions
 
-Patients should be counseled to take Ambien CR right before they get into bed and only when they are able to stay in bed a full night (7–8 hours) before being active again.
-Ambien CR tablets should not be taken with or immediately after a meal.
-Advise patients NOT to take Ambien CR if they drank alcohol that evening.
+Patients should be counseled to take AMBIEN CR right before they get into bed and only when they are able to stay in bed a full night (7–8 hours) before being active again.
+AMBIEN CR tablets should not be taken with or immediately after a meal.
+Advise patients NOT to take AMBIEN CR if they drank alcohol that evening.

@@ -1,13 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ambien CR 6.25 mg tablets are composed of two layersLayers are covered by the coating and are indistinguishable. and are coated, pink, round, bi-convex, debossed with A~ on one side and supplied as:
+AMBIEN CR 6.25 mg tablets are composed of two layersLayers are covered by the coating and are indistinguishable. and are coated, pink, round, bi-convex, debossed with A~ on one side and supplied as:
 
 | NDC Number | Size |
 | --- | --- |
 | 0024-5501-31 | bottle of 100 |
-| 0024-5501-10 | carton of 30 unit dose |
 
-Ambien CR 12.5 mg tablets are composed of two layers and are coated, blue, round, bi-convex, debossed with A~ on one side and supplied as:
+AMBIEN CR 12.5 mg tablets are composed of two layers and are coated, blue, round, bi-convex, debossed with A~ on one side and supplied as:
 
 | NDC Number | Size |
 | --- | --- |
