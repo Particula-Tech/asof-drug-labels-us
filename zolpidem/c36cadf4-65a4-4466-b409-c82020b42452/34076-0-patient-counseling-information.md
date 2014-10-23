@@ -2,14 +2,14 @@
 
 See FDA-approved patient labeling (Medication Guide).
 
-Inform patients and their families about the benefits and risks of treatment with Ambien.
-Inform patients of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with Ambien and with each prescription refill.
-Review the Ambien Medication Guide with every patient prior to initiation of treatment.
-Instruct patients or caregivers that Ambien should be taken only as prescribed.
+Inform patients and their families about the benefits and risks of treatment with AMBIEN.
+Inform patients of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with AMBIEN and with each prescription refill.
+Review the AMBIEN Medication Guide with every patient prior to initiation of treatment.
+Instruct patients or caregivers that AMBIEN should be taken only as prescribed.
 
 CNS Depressant Effects and Next-Day Impairment
 
-Tell patients that Ambien has the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
+Tell patients that AMBIEN has the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
 Tell patients to wait for at least 8 hours after dosing before driving or engaging in other activities requiring full mental alertness.
 Inform patients that impairment can be present despite feeling fully awake.
 
@@ -30,14 +30,14 @@ Tell patients to immediately report any suicidal thoughts.
 Alcohol and Other Drugs
 
 Ask patients about alcohol consumption, medicines they are taking, and drugs they may be taking without a prescription.
-Advise patients not to use Ambien if they drank alcohol that evening or before bed.
+Advise patients not to use AMBIEN if they drank alcohol that evening or before bed.
 
 Tolerance, Abuse, and Dependence
 
-Tell patients not to increase the dose of Ambien on their own, and to inform you if they believe the drug "does not work".
+Tell patients not to increase the dose of AMBIEN on their own, and to inform you if they believe the drug "does not work".
 
 Administration Instructions
 
-Patients should be counseled to take Ambien right before they get into bed and only when they are able to stay in bed a full night (7–8 hours) before being active again.
-Ambien tablets should not be taken with or immediately after a meal.
-Advise patients NOT to take Ambien if they drank alcohol that evening.
+Patients should be counseled to take AMBIEN right before they get into bed and only when they are able to stay in bed a full night (7–8 hours) before being active again.
+AMBIEN tablets should not be taken with or immediately after a meal.
+Advise patients NOT to take AMBIEN if they drank alcohol that evening.

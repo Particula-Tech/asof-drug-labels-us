@@ -1,4 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-Ambien is contraindicated in patients with known hypersensitivity to zolpidem.
+AMBIEN is contraindicated in patients with known hypersensitivity to zolpidem.
 Observed reactions include anaphylaxis and angioedema [see Warnings and Precautions (5.3)].

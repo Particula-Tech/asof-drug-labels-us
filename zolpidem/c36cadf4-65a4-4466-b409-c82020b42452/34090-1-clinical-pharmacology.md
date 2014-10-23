@@ -9,31 +9,31 @@ This selective binding of zolpidem on the BZ1 receptor is not absolute, but it m
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic profile of Ambien is characterized by rapid absorption from the gastrointestinal tract and a short elimination half-life (T1/2) in healthy subjects.
+The pharmacokinetic profile of AMBIEN is characterized by rapid absorption from the gastrointestinal tract and a short elimination half-life (T1/2) in healthy subjects.
 
 In a single-dose crossover study in 45 healthy subjects administered 5 and 10 mg zolpidem tartrate tablets, the mean peak concentrations (Cmax) were 59 (range: 29 to 113) and 121 (range: 58 to 272) ng/mL, respectively, occurring at a mean time (Tmax) of 1.6 hours for both.
-The mean Ambien elimination half-life was 2.6 (range: 1.4 to 4.5) and 2.5 (range: 1.4 to 3.8) hours, for the 5 and 10 mg tablets, respectively.
-Ambien is converted to inactive metabolites that are eliminated primarily by renal excretion.
-Ambien demonstrated linear kinetics in the dose range of 5 to 20 mg.
+The mean AMBIEN elimination half-life was 2.6 (range: 1.4 to 4.5) and 2.5 (range: 1.4 to 3.8) hours, for the 5 and 10 mg tablets, respectively.
+AMBIEN is converted to inactive metabolites that are eliminated primarily by renal excretion.
+AMBIEN demonstrated linear kinetics in the dose range of 5 to 20 mg.
 Total protein binding was found to be 92.5 ± 0.1% and remained constant, independent of concentration between 40 and 790 ng/mL.
 Zolpidem did not accumulate in young adults following nightly dosing with 20 mg zolpidem tartrate tablets for 2 weeks.
 
-A food-effect study in 30 healthy male subjects compared the pharmacokinetics of Ambien 10 mg when administered while fasting or 20 minutes after a meal.
+A food-effect study in 30 healthy male subjects compared the pharmacokinetics of AMBIEN 10 mg when administered while fasting or 20 minutes after a meal.
 Results demonstrated that with food, mean AUC and Cmax were decreased by 15% and 25%, respectively, while mean Tmax was prolonged by 60% (from 1.4 to 2.2 hr). The half-life remained unchanged.
-These results suggest that, for faster sleep onset, Ambien should not be administered with or immediately after a meal.
+These results suggest that, for faster sleep onset, AMBIEN should not be administered with or immediately after a meal.
 
 Special Populations
 
 Elderly:
 
-In the elderly, the dose for Ambien should be 5 mg [see Warnings and Precautions (5) and Dosage and Administration (2)].
+In the elderly, the dose for AMBIEN should be 5 mg [see Warnings and Precautions (5) and Dosage and Administration (2)].
 This recommendation is based on several studies in which the mean Cmax, T1/2, and AUC were significantly increased when compared to results in young adults.
 In one study of eight elderly subjects (> 70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng∙hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
-Ambien did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.
+AMBIEN did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.
 
 Hepatic Impairment:
 
-The pharmacokinetics of Ambien in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
+The pharmacokinetics of AMBIEN in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
 Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng∙hr/mL) higher, respectively, in hepatically -compromised patients.
 Tmax did not change.
 The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see Dosage and Administration (2.2)].

@@ -96,6 +96,7 @@ AMBIEN may cause serious side effects, including:
 - severe allergic reactions.
   Symptoms include swelling of the tongue or throat, and trouble breathing.
   Get emergency medical help if you get these symptoms after taking AMBIEN.
+- falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using AMBIEN.
 
@@ -155,6 +156,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-April 2013
+October 2014
 
-© 2013 sanofi-aventis U.S. LLC
+© 2014 sanofi-aventis U.S. LLC

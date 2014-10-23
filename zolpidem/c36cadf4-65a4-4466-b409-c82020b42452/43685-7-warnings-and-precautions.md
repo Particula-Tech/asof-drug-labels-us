@@ -2,13 +2,13 @@
 
 ## 5.1 CNS Depressant Effects and Next-Day Impairment
 
-Ambien, like other sedative-hypnotic drugs, has central nervous system (CNS) depressant effects.
+AMBIEN, like other sedative-hypnotic drugs, has central nervous system (CNS) depressant effects.
 Co-administration with other CNS depressants (e.g., benzodiazepines, opioids, tricyclic antidepressants, alcohol) increases the risk of CNS depression.
-Dosage adjustments of Ambien and of other concomitant CNS depressants may be necessary when Ambien is administered with such agents because of the potentially additive effects.
-The use of Ambien with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended [see Dosage and Administration (2.3)].
+Dosage adjustments of AMBIEN and of other concomitant CNS depressants may be necessary when AMBIEN is administered with such agents because of the potentially additive effects.
+The use of AMBIEN with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended [see Dosage and Administration (2.3)].
 
-The risk of next-day psychomotor impairment, including impaired driving, is increased if Ambien is taken with less than a full night of sleep remaining (7- to 8 hours); if a higher than the recommended dose is taken; if co-administered with other CNS depressants; or if co-administered with other drugs that increase the blood levels of zolpidem.
-Patients should be cautioned against driving and other activities requiring complete mental alertness if Ambien is taken in these circumstances [see Dosage and Administration (2) and Clinical Studies (14.3)].
+The risk of next-day psychomotor impairment, including impaired driving, is increased if AMBIEN is taken with less than a full night of sleep remaining (7 to 8 hours); if a higher than the recommended dose is taken; if co-administered with other CNS depressants; or if co-administered with other drugs that increase the blood levels of zolpidem.
+Patients should be cautioned against driving and other activities requiring complete mental alertness if AMBIEN is taken in these circumstances [see Dosage and Administration (2) and Clinical Studies (14.3)].
 
 ## 5.2 Need to Evaluate for Co-morbid Diagnoses
 
@@ -27,16 +27,16 @@ Patients who develop angioedema after treatment with zolpidem should not be rech
 
 ## 5.4 Abnormal Thinking and Behavioral Changes
 
-Abnormal thinking and behavior changes have been reported in patients treated with sedative/hypnotics, including Ambien.
+Abnormal thinking and behavior changes have been reported in patients treated with sedative/hypnotics, including AMBIEN.
 Some of these changes included decreased inhibition (e.g., aggressiveness and extroversion that seemed out of character), bizarre behavior, agitation and depersonalization.
 Visual and auditory hallucinations have been reported.
 
-In controlled trials of Ambien 10 mg taken at bedtime < 1% of adults with insomnia reported hallucinations.
-In a clinical trial, 7% of pediatric patients treated with Ambien 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see Use in Specific Populations (8.4)].
+In controlled trials of AMBIEN 10 mg taken at bedtime < 1% of adults with insomnia reported hallucinations.
+In a clinical trial, 7% of pediatric patients treated with AMBIEN 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see Use in Specific Populations (8.4)].
 
 Complex behaviors such as "sleep-driving" (i.e., driving while not fully awake after ingestion of a sedative-hypnotic, with amnesia for the event) have been reported in sedative-hypnotic-naive as well as in sedative-hypnotic-experienced persons.
-Although behaviors such as "sleep-driving" have occurred with Ambien alone at therapeutic doses, the co-administration of Ambien with alcohol and other CNS depressants increases the risk of such behaviors, as does the use of Ambien at doses exceeding the maximum recommended dose.
-Due to the risk to the patient and the community, discontinuation of Ambien should be strongly considered for patients who report a "sleep-driving" episode.
+Although behaviors such as "sleep-driving" have occurred with AMBIEN alone at therapeutic doses, the co-administration of AMBIEN with alcohol and other CNS depressants increases the risk of such behaviors, as does the use of AMBIEN at doses exceeding the maximum recommended dose.
+Due to the risk to the patient and the community, discontinuation of AMBIEN should be strongly considered for patients who report a "sleep-driving" episode.
 
 Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a sedative-hypnotic.
 As with "sleep-driving", patients usually do not remember these events.
@@ -54,11 +54,16 @@ Intentional overdosage is more common in this group of patients; therefore, the 
 ## 5.6 Respiratory Depression
 
 Although studies with 10 mg zolpidem tartrate did not reveal respiratory depressant effects at hypnotic doses in healthy subjects or in patients with mild-to-moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index, together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90%, was observed in patients with mild-to-moderate sleep apnea when treated with zolpidem compared to placebo.
-Since sedative-hypnotics have the capacity to depress respiratory drive, precautions should be taken if Ambien is prescribed to patients with compromised respiratory function.
+Since sedative-hypnotics have the capacity to depress respiratory drive, precautions should be taken if AMBIEN is prescribed to patients with compromised respiratory function.
 Post-marketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
-The risk of respiratory depression should be considered prior to prescribing Ambien in patients with respiratory impairment including sleep apnea and myasthenia gravis.
+The risk of respiratory depression should be considered prior to prescribing AMBIEN in patients with respiratory impairment including sleep apnea and myasthenia gravis.
 
 ## 5.7 Withdrawal Effects
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
 Monitor patients for tolerance, abuse, and dependence [see Drug Abuse and Dependence (9.2) and (9.3)].
+
+## 5.8 Severe Injuries
+
+Zolpidem can cause drowsiness and a decreased level of consciousness, which may lead to falls and consequently to severe injuries.
+Severe injuries such as hip fractures and intracranial hemorrhage have been reported.

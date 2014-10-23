@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 5 mg, 100 Tablet Bottle
+PRINCIPAL DISPLAY PANEL - 5 mg, 100 Tablet Bottle Label
 
 A-031 NDC 0024-5401-31
 
@@ -14,7 +14,7 @@ Rx only
 
 sanofi aventis
 
-PRINCIPAL DISPLAY PANEL - 10 mg, 100 Tablet Bottle
+PRINCIPAL DISPLAY PANEL - 10 mg, 100 Tablet Bottle Label
 
 A-231 NDC 0024-5421-31
 
