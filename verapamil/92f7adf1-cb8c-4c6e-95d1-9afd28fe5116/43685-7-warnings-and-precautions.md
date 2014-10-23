@@ -84,7 +84,7 @@ When the sprinkle method of administration is prescribed, details of the proper 
 ### Drug Interactions: Effects of other drugs on verapamil pharmacokinetics
 
 In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450, -CYP3A4, CYP1A2, and CYP2C.
-Clinically significant interactions have been reported with inhibitors of CYP3A4 (eg, erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (eg, rifampin) have caused a lowering of plasma levels of verapamil.
+Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
 Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent telithromycin, and antibiotic in the ketolide class of antibiotics.
 
 #### HMG-CoA Reductase Inhibitors

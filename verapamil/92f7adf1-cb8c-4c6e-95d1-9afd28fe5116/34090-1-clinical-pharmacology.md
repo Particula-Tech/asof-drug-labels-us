@@ -73,7 +73,7 @@ Verapamil AUCs were positively correlated (r = 0.71) to increased ethanol blood 
 ### Geriatric Use
 
 The pharmacokinetics of verapamil GITS were studied after 5 consecutive nights of dosing 180 mg in 30 healthy young (19-43 years) versus 30 healthy elderly (65-80years) male and female subjects.
-Older subjects had significantly higher mean veapamil Cmax, Cmin and AUC (0-24h) compared to younger subjects.
+Older subjects had significantly higher mean verapamil Cmax, Cmin and AUC (0-24h) compared to younger subjects.
 Older subjects had mean AUCs that were approximately 1.7-2.0 times higher than those of younger subjects as well as a longer average verapamil t1/2 (approximately 20 hr vs 13 hr).
 
 ## Hemodynamics and Myocardial Metabolism
