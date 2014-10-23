@@ -10,9 +10,9 @@ Absorption and Bioavailability
 
 Oseltamivir is readily absorbed from the gastrointestinal tract after oral administration of oseltamivir phosphate and is extensively converted predominantly by hepatic esterases to oseltamivir carboxylate.
 At least 75% of an oral dose reaches the systemic circulation as oseltamivir carboxylate.
-Exposure to oseltamivir is less than 5% of the total exposure after oral dosing (see Table 6).
+Exposure to oseltamivir is less than 5% of the total exposure after oral dosing (see Table 8).
 
-Table 6 Mean (% CV) Pharmacokinetic Parameters of Oseltamivir and Oseltamivir Carboxylate Following Multiple Dosing of 75 mg Capsules Twice Daily (n=20)
+Table 8 Mean (% CV) Pharmacokinetic Parameters of Oseltamivir and Oseltamivir Carboxylate Following Multiple Dosing of 75 mg Capsules Twice Daily (n=20)
 
 | Parameter | Oseltamivir | Oseltamivir Carboxylate |
 | --- | --- | --- |
@@ -45,23 +45,34 @@ Oseltamivir carboxylate is eliminated entirely (>99%) by renal excretion.
 Renal clearance (18.8 L/h) exceeds glomerular filtration rate (7.5 L/h), indicating that tubular secretion occurs in addition to glomerular filtration.
 Less than 20% of an oral radiolabeled dose is eliminated in feces.
 
-Special Populations
+Specific Populations
 
 Renal Impairment
 
 Administration of 100 mg of oseltamivir phosphate twice daily for 5 days to subjects with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
-Oseltamivir carboxylate exposures in subjects with normal and impaired renal function administered various dose regimens of oseltamivir are described in Table 7.
 
-Table 7 Oseltamivir Carboxylate Exposures in Subjects With Normal and Reduced Serum Creatinine Clearance
+Population-derived pharmacokinetic parameters were determined for patients with varying degrees of renal function including ESRD patients on hemodialysis.
+Median simulated exposures of oseltamivir carboxylate for recommended treatment and prophylaxis regimens are provided in Table 9.
+The pharmacokinetics of oseltamivir have not been studied in ESRD patients not undergoing dialysis [see Dosage and Administration (2.4)].
 
-| 30 mg weekly | 30 mg alternate HD cycle |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Parameter | Normal Renal Function |  |  | Impaired Renal Function |  |  |  |  |
-|  | 75 mg once daily | 75 mg twice daily | 150 mg twice daily | Creatinine Clearance <10 mL/min |  | Creatinine Clearance >10 and <30 mL/min |  |  |
-|  |  |  |  | CAPD | Hemodialysis | 75 mg daily | 75 mg alternate days | 30 mg daily |
-| Cmax | 259Observed values. All other values are predicted. | 348 | 705 | 766 | 850 | 1638 | 1175 | 655 |
-| Cmin | 39 | 138 | 288 | 62 | 48 | 864 | 209 | 346 |
-| AUC48AUC normalized to 48 hours. | 7476 | 10876 | 21864 | 17381 | 12429 | 62636 | 21999 | 25054 |
+Table 9 Simulated Median Treatment Exposure Metrics of Oseltamivir Carboxylate in Normal, Renally Impaired and ESRD Patients on Hemodialysis
+
+| Renal Function/ Impairment | Normal Creatinine Clearance 90-140 mL/min (n=57) | Mild Creatinine Clearance 60-90 mL/min (n=45) | Moderate Creatinine Clearance 30-60 mL/min (n=13) | Severe Creatinine Clearance 10-30 mL/min (n=11) | ESRD Creatinine Clearance <10 mL/min on Hemodialysis (n=24) |
+| --- | --- | --- | --- | --- | --- |
+| Recommended Treatment Regimens |  |  |  |  |  |
+| PK exposure parameter | 75 mg twice daily | 75 mg twice daily | 30 mg twice daily | 30 mg once daily | 30 mg every HD cycle |
+| Cmin (ng/mL) | 145 | 253 | 180 | 219 | 221 |
+| Cmax (ng/mL) | 298 | 464 | 306 | 477 | 1170 |
+| AUC48 (ng∙h/mL)AUC normalized to 48 hours. | 11224 | 18476 | 12008 | 16818 | 23200 |
+| Recommended Prophylaxis Regimens |  |  |  |  |  |
+| PK exposure parameter | 75 mg once daily | 75 mg once daily | 30 mg once daily | 30 mg every other day | 30 mg alternate HD cycle |
+| Cmin (ng/mL) | 39 | 62 | 57 | 70 | 42 |
+| Cmax (ng/mL) | 213 | 311 | 209 | 377 | 903 |
+| AUC48 (ng∙hr/mL) | 5294 | 8336 | 6262 | 9317 | 11200 |
+
+In continuous ambulatory peritoneal dialysis (CAPD) patients, the peak concentration of oseltamivir carboxylate following a single 30 mg dose of oseltamivir or once weekly oseltamivir was approximately 3-fold higher than in patients with normal renal function who received 75 mg twice daily.
+The plasma concentration of oseltamivir carboxylate on Day 5 (147 ng/mL) following a single 30 mg dose in CAPD patients is similar to the predicted Cmin (160 ng/mL) in patients with normal renal function following 75 mg twice daily.
+Administration of 30 mg once weekly to CAPD patients resulted in plasma concentrations of oseltamivir carboxylate at the 168 hour blood sample of 63 ng/mL, which were comparable to the Cmin in patients with normal renal function receiving the approved regimen of 75 mg once daily (40 ng/mL).
 
 Hepatic Impairment
 
@@ -104,11 +115,11 @@ Resistance
 
 Influenza A virus isolates with reduced susceptibility to oseltamivir carboxylate have been recovered by serial passage of virus in cell culture in the presence of increasing concentrations of oseltamivir carboxylate, from clinical isolates collected during treatment with oseltamivir, and from viral isolates sampled during community surveillance studies.
 Reduced susceptibility of influenza virus to inhibition by oseltamivir carboxylate may be conferred by amino acid substitutions in the viral neuraminidase and/or hemagglutinin proteins.
-Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 8.
+Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 10.
 The clinical impact of this reduced susceptibility is unknown.
 Hemagglutinin substitutions associated with oseltamivir resistance include A28T and R124M in influenza A H3N2 and H154Q in H1N9, a reassortant human/avian virus.
 
-Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptibility to Oseltamivir
+Table 10 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptibility to Oseltamivir
 
 | Amino Acid SubstitutionAll numbering is N2, except where indicated | Source |
 | --- | --- |

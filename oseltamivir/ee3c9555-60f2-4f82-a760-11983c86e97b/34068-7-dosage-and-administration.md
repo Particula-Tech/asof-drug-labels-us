@@ -61,15 +61,36 @@ Data are available on plasma concentrations of oseltamivir carboxylate following
 
 Treatment of Influenza
 
-Dose adjustment is recommended for adult patients with creatinine clearance between 10 and 30 mL/min receiving TAMIFLU for the treatment of influenza.
-In these patients it is recommended that the dose be reduced to 75 mg of TAMIFLU once daily for 5 days.
-No recommended dosing regimens are available for patients with end-stage renal disease undergoing routine hemodialysis or continuous peritoneal dialysis treatment.
+Dose adjustment is recommended for adult patients with creatinine clearance between 10 and 60 mL/min and patients with end-stage renal disease (ESRD) undergoing hemodialysis or continuous peritoneal dialysis receiving TAMIFLU for the treatment of influenza [see Clinical Pharmacology (12.3)].
+TAMIFLU is not recommended for patients with ESRD not undergoing dialysis.
+The recommended doses are detailed in Table 2 below.
+
+Table 2 Recommended Dose Adjustments for Treatment of Influenza in Adult Patients with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis
+
+| Renal Impairment/Creatinine Clearance | Recommended Treatment RegimenCapsules or suspension can be used for 30 mg dosing. |
+| --- | --- |
+| Mild Creatinine Clearance >60-90 mL/min | 75 mg twice daily for 5 days |
+| Moderate Creatinine Clearance >30-60 mL/min | 30 mg twice daily for 5 days |
+| Severe Creatinine Clearance >10-30 mL/min | 30 mg once daily for 5 days |
+| ESRD Patients on Hemodialysis Creatinine Clearance ≤10 mL/min | 30 mg after every hemodialysis cycle. Treatment duration not to exceed 5 daysAssuming three hemodialysis sessions are performed in the 5-day period. Treatment can be initiated immediately if influenza symptoms develop during the 48 hours between hemodialysis sessions; however, the post-hemodialysis dose should still be administered independently of time of administration of the initial dose. |
+| ESRD Patients on Continuous Ambulatory Peritoneal DialysisData derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients. Creatinine Clearance ≤10 mL/min | A single 30 mg dose administered immediately after a dialysis exchange |
 
 Prophylaxis of Influenza
 
-For the prophylaxis of influenza, dose adjustment is recommended for adult patients with creatinine clearance between 10 and 30 mL/min receiving TAMIFLU.
-In these patients it is recommended that the dose be reduced to 75 mg of TAMIFLU every other day or 30 mg TAMIFLU every day.
-No recommended dosing regimens are available for patients undergoing routine hemodialysis and continuous peritoneal dialysis treatment with end-stage renal disease.
+For the prophylaxis of influenza, dose adjustment is recommended for adult patients with creatinine clearance between 10 and 60 mL/min and patients with end-stage renal disease (ESRD) undergoing hemodialysis or continuous peritoneal dialysis receiving TAMIFLU [see Clinical Pharmacology (12.3)].
+The duration of prophylaxis is the same as recommended for patients with normal renal function.
+TAMIFLU is not recommended for patients with ESRD not undergoing dialysis.
+The recommended doses are detailed in Table 3 below.
+
+Table 3 Recommended Dose Adjustments for Prophylaxis of Influenza in Adult Patients with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis
+
+| Renal Impairment/Creatinine Clearance | Recommended Prophylaxis RegimenCapsules or suspension can be used for 30 mg dosing. |
+| --- | --- |
+| Mild Creatinine Clearance >60-90 mL/min | 75 mg once daily |
+| Moderate Creatinine Clearance >30-60 mL/min | 30 mg once daily |
+| Severe Creatinine Clearance >10-30 mL/min | 30 mg every other day |
+| ESRD Patients on Hemodialysis Creatinine Clearance ≤10 mL/min | 30 mg after alternate hemodialysis cyclesAn initial dose can be administered prior to the start of dialysis. |
+| ESRD Patients on Continuous Ambulatory Peritoneal DialysisData derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients. Creatinine Clearance ≤10 mL/min | 30 mg once weekly immediately after dialysis exchange |
 
 ## 2.5 Hepatic Impairment
 
@@ -85,8 +106,8 @@ It is recommended that TAMIFLU for oral suspension be constituted by the pharmac
 
 - a)Tap the closed bottle several times to loosen the powder.
 - b)Measure 55 mL of water in a graduated cylinder.
-- c)Add the total amount of water for constitution to the bottle.
-- d)Close bottle with child-resistant cap tightly and shake the closed bottle well for 15 seconds.
+- c) Add the total amount of water for constitution to the bottle.
+- d) Close bottle with child-resistant cap tightly and shake the closed bottle well for 15 seconds.
 
 Label the bottle with instructions to Shake Well before each use.
 
@@ -107,9 +128,9 @@ In the event that TAMIFLU for oral suspension is not available, the pharmacist m
 Other vehicles have not been studied.
 This compounded suspension should not be used for convenience or when the FDA-approved TAMIFLU for oral suspension is commercially available.
 
-First, determine the dose of TAMIFLU for the patients [see Dosage and Administration (2)] then determine total volume of an oral suspension needed to be compounded based on Table 2.
+First, determine the dose of TAMIFLU for the patients [see Dosage and Administration (2)] then determine total volume of an oral suspension needed to be compounded based on Table 4.
 
-Table 2 Volume of an Oral Suspension (6 mg/mL) Needed to be Compounded Based Upon the Patient's TAMIFLU Dose
+Table 4 Volume of an Oral Suspension (6 mg/mL) Needed to be Compounded Based Upon the Patient's TAMIFLU Dose
 
 | TAMIFLU DoseIf the TAMIFLU dose is between the doses listed, the total volume of oral suspension to compound should default to the next greater dose listed. |  | Total Volume to Compound per Patient (mL) |
 | --- | --- | --- |
@@ -119,19 +140,19 @@ Table 2 Volume of an Oral Suspension (6 mg/mL) Needed to be Compounded Based Upo
 | 60 mg |  | 125 mL |
 | 75 mg |  | 150 mL |
 
-Second, determine the number of capsules and the amount of water and vehicle (Cherry Syrup, Ora-Sweet® SF, or simple syrup) that are needed to prepare the total volume (determined from Table 2: 37.5 mL, 75 mL, 100 mL, 125 mL, or 150 mL) of compounded oral suspension (6 mg/mL) (see Table 3).
+Second, determine the number of capsules and the amount of water and vehicle (Cherry Syrup, Ora-Sweet® SF, or simple syrup) that are needed to prepare the total volume (determined from Table 4: 37.5 mL, 75 mL, 100 mL, 125 mL, or 150 mL) of compounded oral suspension (6 mg/mL) (see Table 5).
 
-Table 3 Number of TAMIFLU 75 mg Capsules and Amount of Vehicle (Cherry Syrup, Ora-Sweet® SF, or Simple Syrup) Needed to Prepare the Total Volume of a Compounded Oral Suspension (6 mg/mL)
+Table 5 Number of TAMIFLU 75 mg Capsules and Amount of Vehicle (Cherry Syrup, Ora-Sweet® SF, or Simple Syrup) Needed to Prepare the Total Volume of a Compounded Oral Suspension (6 mg/mL)
 
 | Total Volume of Compounded Oral Suspension to be Prepared | 37.5 mL | 75 mL | 100 mL | 125 mL | 150 mL |
 | --- | --- | --- | --- | --- | --- |
-| Number of TAMIFLU 75 mg CapsulesIncludes overage to ensure all doses can be delivered | 3 capsules (225mg oseltamivir) | 6 capsules (450 mg oseltamivir) | 8 capsules (600 mg oseltamivir) | 10 capsules (750 mg oseltamivir) | 12 capsules (900 mg oseltamivir) |
+| Number of TAMIFLU 75 mg CapsulesIncludes overage to ensure all doses can be delivered | 3 capsules (225 mg oseltamivir) | 6 capsules (450 mg oseltamivir) | 8 capsules (600 mg oseltamivir) | 10 capsules (750 mg oseltamivir) | 12 capsules (900 mg oseltamivir) |
 | Amount of Water | 2.5 mL | 5 mL | 7 mL | 8 mL | 10 mL |
 | Volume of Vehicle Cherry Syrup (Humco®) OR Ora-Sweet® SF (Paddock Laboratories) OR simple syrup | 34.5 mL | 69 mL | 91 mL | 115 mL | 137 mL |
 
 Third, follow the procedure below for compounding the oral suspension (6 mg/mL) from TAMIFLU capsules 75 mg:
 
-1. Place the specified amount of water into a polyethyleneterephthalate (PET) or glass bottle (see Table 3).
+1. Place the specified amount of water into a polyethyleneterephthalate (PET) or glass bottle (see Table 5).
 2. Carefully separate the capsule body and cap and pour the contents of the required number of TAMIFLU 75 mg capsules into the PET or glass bottle.
 3. Gently swirl the suspension to ensure adequate wetting of the TAMIFLU powder for at least 2 minutes.
 4. Slowly add the specified amount of vehicle to the bottle.

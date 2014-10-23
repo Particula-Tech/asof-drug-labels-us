@@ -40,8 +40,7 @@ Many of these individuals had cardiac and/or respiratory disease, and most had r
 
 ## 8.6 Renal Impairment
 
-Dose adjustment is recommended for patients with a serum creatinine clearance between 10 and 30 mL/min [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
-No recommended dosing regimens are available for patients with end-stage renal disease undergoing routine hemodialysis or continuous peritoneal dialysis treatment.
+Dose adjustment is recommended for patients with a serum creatinine clearance between 10 and 60 mL/min and for patients with end-stage renal disease (ESRD) undergoing routine hemodialysis or continuous peritoneal dialysis treatment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
