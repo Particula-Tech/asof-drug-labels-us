@@ -55,9 +55,9 @@ Pharmacokinetics in Normal Volunteers: Single 8 mg Ondansetron Tablet Dose
 
 | Age-group (years) | Mean Weight (kg) | n | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) | Systemic Plasma Clearance L/h/kg | Absolute Bioavailability |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 18-40 M | 69 | 6 | 26.2 | 2 | 3.1 | 0.403 | 0.483 |
+| 18 to 40 M | 69 | 6 | 26.2 | 2 | 3.1 | 0.403 | 0.483 |
 | F | 62.7 | 5 | 42.7 | 1.7 | 3.5 | 0.354 | 0.663 |
-| 61-74 M | 77.5 | 6 | 24.1 | 2.1 | 4.1 | 0.384 | 0.585 |
+| 61 to 74 M | 77.5 | 6 | 24.1 | 2.1 | 4.1 | 0.384 | 0.585 |
 | F | 60.2 | 6 | 52.4 | 1.9 | 4.9 | 0.255 | 0.643 |
 | ≥75 M | 78 | 5 | 37 | 2.2 | 4.5 | 0.277 | 0.619 |
 | F | 67.6 | 6 | 46.1 | 2.1 | 6.2 | 0.249 | 0.747 |
@@ -67,7 +67,7 @@ Pharmacokinetics in Normal Volunteers: Single 24 mg Ondansetron Tablet Dose
 
 | Age-group (years) | Mean Weight (kg) | n | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) |
 | --- | --- | --- | --- | --- | --- |
-| 18-43 M | 84.1 | 8 | 125.8 | 1.9 | 4.7 |
+| 18 to 43 M | 84.1 | 8 | 125.8 | 1.9 | 4.7 |
 | F | 71.8 | 8 | 194.4 | 1.6 | 5.8 |
 
 A reduction in clearance and increase in elimination half-life are seen in patients over 75 years of age.

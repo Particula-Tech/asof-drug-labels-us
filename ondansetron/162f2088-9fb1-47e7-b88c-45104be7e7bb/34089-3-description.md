@@ -6,7 +6,7 @@ It has the following structural formula:
 
 The molecular formula is C18H19N3O•HCl•2H2O, representing a molecular weight of 365.86.
 
-Ondansetron HCl dihydrate USP is a white to off-white powder that is soluble in water and normal saline.
+Ondansetron HCl dihydrate USP is a white to off-white powder that is soluble in methanol, sparingly soluble in purified water and in alcohol, and slightly soluble in isopropyl alcohol, in dichloromethane, very slightly soluble in acetone, in chloroform and in ethyl acetate.
 
 Each 4 mg ondansetron tablet USP for oral administration contains ondansetron HCl dihydrate USP equivalent to 4 mg of ondansetron.
 Each 8 mg ondansetrone tablet USP for oral administration contains ondansetron HCl dihydrate USP equivalent to 8 mg of ondansetron.

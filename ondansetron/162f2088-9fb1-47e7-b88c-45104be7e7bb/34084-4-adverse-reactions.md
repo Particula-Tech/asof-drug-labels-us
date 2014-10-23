@@ -101,7 +101,7 @@ Lower Respiratory: Hiccups
 
 Neurology: Oculogyric crisis, appearing alone, as well as with other dystonic reactions
 
-Skin: Urticaria
+Skin: Urticaria, Stevens-Johnson syndrome, and toxic epidermal necrolysis.
 
 Special Senses: Eye Disorders: Cases of transient blindness, predominantly during intravenous administration, have been reported.
 These cases of transient blindness were reported to resolve within a few minutes up to 48 hours.

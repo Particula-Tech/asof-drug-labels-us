@@ -30,7 +30,7 @@ Emetic Episodes: Treatment Response
 | Number of patients | 33 | 34 |  |
 | Treatment response |  |  |  |
 | 0 Emetic episodes | 20 (61%) | 2 (6%) | <0.001 |
-| 1-2 Emetic episodes | 6 (18%) | 8 (24%) |  |
+| 1 to 2 Emetic episodes | 6 (18%) | 8 (24%) |  |
 | More than 2 emetic episodes/withdrawn | 7 (21%) | 24 (71%) | <0.001 |
 | Median number of emetic episodes | 0.0 | UndefinedMedian undefined since at least 50% of the patients were withdrawn or had more than 2 emetic episodes. |  |
 | Median time to first emetic episode (h) | UndefinedMedian undefined since at least 50% of patients did not have any emetic episodes. | 6.5 |  |
@@ -48,11 +48,11 @@ Emetic Episodes: Treatment Response
 | Number of patients | 165 | 171 |
 | Treatment response |  |  |
 | 0 Emetic episodes | 101 (61%) | 99 (58%) |
-| 1-2 Emetic episodes | 16 (10%) | 17 (10%) |
+| 1 to 2 Emetic episodes | 16 (10%) | 17 (10%) |
 | More than 2 emetic episodes/withdrawn | 48 (29%) | 55 (32%) |
 | Median number of emetic episodes | 0.0 | 0.0 |
 | Median time to first emetic episode (h) | UndefinedMedian undefined since at least 50% of patients did not have any emetic episodes. | Undefined |
-| Median nausea scores (0-100)Visual analog scale assessment: 0 = no nausea, 100 = nausea as bad as it can be. | 6 | 6 |
+| Median nausea scores (0 to 100)Visual analog scale assessment: 0 = no nausea, 100 = nausea as bad as it can be. | 6 | 6 |
 
 ### Re-treatment
 

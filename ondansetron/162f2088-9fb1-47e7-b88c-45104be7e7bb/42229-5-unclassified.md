@@ -1,3 +1,5 @@
-Manufactured by: Dr. Reddy's Laboratories Limited Bachepalli - 502 325 INDIA
+Rx Only
 
-Revised: 1011
+Manufactured by: Dr. Reddy's Laboratories Limited Bachupally - 500 090 INDIA
+
+Revised: 1014
