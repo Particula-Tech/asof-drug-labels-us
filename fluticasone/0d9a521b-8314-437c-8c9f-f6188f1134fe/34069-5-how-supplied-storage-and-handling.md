@@ -8,8 +8,12 @@ The bottle should be discarded when the labeled number of actuations have been u
 
 Store between 4° and 30°C (39° and 86°F).
 
-10002064/04
+Roxane Laboratories, Inc.
 
-Revised September 2010
+Columbus, Ohio 43216
 
-© RLI, 2010
+10002064/05
+
+Revised March 2014
+
+© RLI, 2014
