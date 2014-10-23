@@ -4,7 +4,7 @@ As with all drugs, the potential for interaction by a variety of mechanisms (e.g
 
 ## 7.1 Monoamine Oxidase Inhibitors (MAOI)
 
-[see Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
+[See Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
 
 ## 7.2 CNS Acting Drugs
 
@@ -13,7 +13,7 @@ In evaluating individual cases, consideration should be given to using lower ini
 
 ## 7.3 Serotonergic Drugs
 
-[see Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
+[See Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
 
 ## 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDS, Aspirin, Warfarin)
 
@@ -80,7 +80,7 @@ Drugs Metabolized by CYP3A4 — In an in vivo interaction study involving coadmi
 Additionally, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than fluoxetine or norfluoxetine as an inhibitor of the metabolism of several substrates for this enzyme, including astemizole, cisapride, and midazolam.
 These data indicate that fluoxetine's extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
 
-Olanzapine— Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) causes a small (mean 16%) increase in the maximum concentration of olanzapine and a small (mean 16%) decrease in olanzapine clearance.
+Olanzapine — Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) causes a small (mean 16%) increase in the maximum concentration of olanzapine and a small (mean 16%) decrease in olanzapine clearance.
 The magnitude of the impact of this factor is small in comparison to the overall variability between individuals, and therefore dose modification is not routinely recommended.
 
 When using PROZAC and olanzapine and in combination, also refer to the Drug Interactions section of the package insert for Symbyax.

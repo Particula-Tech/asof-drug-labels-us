@@ -1,4 +1,20 @@
-# 6 ADVERSE REACTIONS
+# 6 ADVERSE REACTION
+
+The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning and Warnings and Precautions (5.1)]
+- Serotonin Syndrome [see Warnings and Precautions (5.2)]
+- Allergic Reactions and Rash [see Warnings and Precautions (5.3)]
+- Screening Patients for Bipolar Disorder and Monitoring for Mania/Hypomania [see Warnings and Precautions (5.4)]
+- Seizures [see Warnings and Precautions (5.5)]
+- Altered Appetite and Weight [see Warnings and Precautions (5.6)]
+- Abnormal Bleeding [see Warnings and Precautions (5.7)]
+- Angle-Closure Glaucoma [see Warnings and Precautions (5.8)]
+- Hyponatremia [see Warnings and Precautions (5.9)]
+- Anxiety and Insomnia [see Warnings and Precautions (5.10)]
+- QT Prolongation [see Warnings and Precautions (5.11)]
+- Potential for Cognitive and Motor Impairment [see Warnings and Precautions (5.13)]
+- Discontinuation Adverse Reactions [see Warnings and Precautions (5.15)]
 
 When using PROZAC and olanzapine in combination, also refer to the Adverse Reactions section of the package insert for Symbyax.
 
@@ -8,17 +24,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Multiple doses of PROZAC have been administered to 10,782 patients with various diagnoses in US clinical trials.
 In addition, there have been 425 patients administered PROZAC in panic clinical trials.
-Adverse reactions were recorded by clinical investigators using descriptive terminology of their own choosing.
-Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse reactions without first grouping similar types of reactions into a limited (i.e., reduced) number of standardized reaction categories.
-
-In the tables and tabulations that follow, COSTART Dictionary terminology has been used to classify reported adverse reactions.
 The stated frequencies represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
 A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
-It is important to emphasize that reactions reported during therapy were not necessarily caused by it.
-
-The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
-Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
 
 Incidence in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 3 enumerates the most common treatment-emergent adverse reactions associated with the use of PROZAC (incidence of at least 5% for PROZAC and at least twice that for placebo within at least 1 of the indications) for the treatment of Major Depressive Disorder, OCD, and bulimia in US controlled clinical trials and Panic Disorder in US plus non-US controlled trials.
 Table 5 enumerates treatment-emergent adverse reactions that occurred in 2% or more patients treated with PROZAC and with incidence greater than placebo who participated in US Major Depressive Disorder, OCD, and bulimia controlled clinical trials and US plus non-US Panic Disorder controlled clinical trials.
@@ -159,8 +166,6 @@ Digestive System — Infrequent: dysphagia, gastritis, gastroenteritis, melena, 
 
 Hemic and Lymphatic System — Infrequent: ecchymosis; Rare: petechia, purpura.
 
-Investigations — Frequent: QT interval prolongation (QTcF ≥450 msec)3
-
 Nervous System — Frequent: emotional lability; Infrequent: akathisia, ataxia, balance disorder1, bruxism1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
 
 Respiratory System — Rare: larynx edema.
@@ -175,8 +180,6 @@ Urogenital System — Frequent: micturition disorder; Infrequent: dysuria, gynec
 
 2 Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
 Adjusted for gender.
-
-3 QT prolongation data are based on routine ECG measurements in clinical trials.
 
 ## 6.3 Postmarketing Experience
 

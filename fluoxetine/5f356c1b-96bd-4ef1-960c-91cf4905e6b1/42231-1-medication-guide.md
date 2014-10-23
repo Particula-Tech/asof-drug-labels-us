@@ -1,10 +1,8 @@
 Medication Guide
 
-PROZAC® (PRO-zac)
+PROZAC® (PRO-zac) (Fluoxetine Capsules)
 
-(fluoxetine hydrochloride)
-
-Pulvule® and Weekly™ Capsule
+(Fluoxetine Delayed-Release Capsules) Pulvule® and Weekly™ Capsule
 
 Read the Medication Guide that comes with PROZAC before you start taking it and each time you get a refill.
 There may be new information.
@@ -294,7 +292,7 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised July 18, 2014
+Medication Guide revised October 10, 2014
 
 Marketed by: Lilly USA, LLC
 
@@ -303,4 +301,4 @@ Indianapolis, IN 46285, USA
 Copyright © 2009, 2014, Eli Lilly and Company.
 All rights reserved.
 
-PRZ-0001-MG-20140718
+PRZ-0002-MG-20141010

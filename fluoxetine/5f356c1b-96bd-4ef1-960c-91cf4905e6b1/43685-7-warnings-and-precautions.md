@@ -2,7 +2,7 @@
 
 When using PROZAC and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
 
-## 5.1 Clinical Worsening and Suicide Risk
+## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients with Major Depressive Disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -140,7 +140,7 @@ Patients should be cautioned about the risk of bleeding associated with the conc
 
 ## 5.8 Angle-Closure Glaucoma
 
-Angle-Closure Glaucoma — The pupillary dilation that occurs following use of many antidepressant drugs including Prozac may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle-Closure Glaucoma — The pupillary dilation that occurs following use of many antidepressant drugs including Prozac may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.9 Hyponatremia
 
@@ -171,11 +171,11 @@ Among the most common adverse reactions associated with discontinuation (inciden
 Post-marketing cases of QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with PROZAC.
 PROZAC should be used with caution in patients with congenital long QT syndrome; a previous history of QT prolongation; a family history of long QT syndrome or sudden cardiac death; and other conditions that predispose to QT prolongation and ventricular arrhythmia.
 Such conditions include concomitant use of drugs that prolong the QT interval; hypokalemia or hypomagnesemia; recent myocardial infarction, uncompensated heart failure, bradyarrhythmias, and other significant arrhythmias; and conditions that predispose to increased fluoxetine exposure (overdose, hepatic impairment, use of CYP2D6 inhibitors, CYP2D6 poor metabolizer status, or use of other highly protein-bound drugs).
-PROZAC is primarily metabolized by CYP2D6 [see Contraindications (4.2), Adverse Reactions (6.2), Drug Interactions (7.7, 7.8), Overdose (10.1), and Clinical Pharmacology (12.3)].
+PROZAC is primarily metabolized by CYP2D6 [see Contraindications (4.2), Drug Interactions (7.7, 7.8), Overdose (10.1), and Clinical Pharmacology (12.3)].
 
 Pimozide and thioridazine are contraindicated for use with PROZAC.
 Avoid the concomitant use of drugs known to prolong the QT interval.
-These include specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol,); specific antibiotics (e.g.,erythromycin, gatifloxacin, moxifloxacin, sparfloxacin); Class 1A antiarrhythmic medications (e.g., quinidine, procainamide); Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Drug Interactions (7.7, 7.8) and Clinical Pharmacology (12.3)].
+These include specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol,); specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin); Class 1A antiarrhythmic medications (e.g., quinidine, procainamide); Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Drug Interactions (7.7, 7.8) and Clinical Pharmacology (12.3)].
 
 Consider ECG assessment and periodic ECG monitoring if initiating treatment with PROZAC in patients with risk factors for QT prolongation and ventricular arrhythmia.
 Consider discontinuing PROZAC and obtaining a cardiac evaluation if patients develop signs or symptoms consistent with ventricular arrhythmia.
