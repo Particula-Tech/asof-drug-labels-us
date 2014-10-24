@@ -2,7 +2,7 @@
 
 WELLBUTRIN XL is contraindicated in patients with a seizure disorder.
 
-WELLBUTRIN XL is contraindicated in patients treated with ZYBAN® (bupropion hydrochloride) Sustained-Release Tablets; WELLBUTRIN® (bupropion hydrochloride), the immediate-release formulation; WELLBUTRIN SR (bupropion hydrochloride), the sustained-release formulation; or any other medications that contain bupropion because the incidence of seizure is dose dependent.
+WELLBUTRIN XL is contraindicated in patients treated with ZYBAN (bupropion hydrochloride) Sustained-Release Tablets; WELLBUTRIN (bupropion hydrochloride), the immediate-release formulation; WELLBUTRIN SR (bupropion hydrochloride), the sustained-release formulation; or any other medications that contain bupropion because the incidence of seizure is dose dependent.
 
 WELLBUTRIN XL is contraindicated in patients with a current or prior diagnosis of bulimia or anorexia nervosa because of a higher incidence of seizures noted in patients treated for bulimia with the immediate-release formulation of bupropion.
 

@@ -30,10 +30,10 @@ The exposure of the hydroxybupropion metabolite was decreased by 23%, the threoh
 In a second healthy volunteer study, ritonavir at a dose of 600 mg twice daily decreased the AUC and the Cmax of bupropion by 66% and 62%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50%, and the erythrohydrobupropion decreased by 68%.
 
-In another healthy volunteer study, KALETRA® * (lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
+In another healthy volunteer study, KALETRA (lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
 The AUC and Cmax of hydroxybupropion were decreased by 50% and 31%, respectively, (see PRECAUTIONS: Drug Interactions).
 
-In a study in healthy volunteers, efzvirenz 600 mg once daily for 2 weeks reduces the AUC and Cmax of bupropion by approximately 55% and 34%, respectively.
+In a study in healthy volunteers, efavirenz 600 mg once daily for 2 weeks reduces the AUC and Cmax of bupropion by approximately 55% and 34%, respectively.
 The AUC of hydroxybupropion was unchanged, whereas Cmax of hydroxybupropion was increased by 50%.
 
 Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is coadministered with drugs metabolized by this isoenzyme (see PRECAUTIONS: Drug Interactions).

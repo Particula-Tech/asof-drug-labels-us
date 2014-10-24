@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-WELLBUTRIN XL®* (WELL byu-trin)
+WELLBUTRIN XL (WELL byu-trin)
 
 (bupropion hydrochloride extended-release tablets)
 
@@ -22,16 +22,16 @@ Talk to your doctor or your family member's healthcare provider about:
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-- 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+- •Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+- •Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  1. Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-     This is very important when an antidepressant medicine is started or when the dose is changed.
-  2. Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  3. Keep all follow-up visits with the healthcare provider as scheduled.
-     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+- •How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+- Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+  This is very important when an antidepressant medicine is started or when the dose is changed.
+- Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+- Keep all follow-up visits with the healthcare provider as scheduled.
+  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -60,7 +60,7 @@ Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, De
 
 This section of the Medication Guide is only about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with drugs used to quit smoking.
 
-Although WELLBUTRIN XL is not a treatment for quitting smoking, it contains the same active ingredient (bupropion hydrochloride) as ZYBAN®* which is used to help patients quit smoking.
+Although WELLBUTRIN XL is not a treatment for quitting smoking, it contains the same active ingredient (bupropion hydrochloride) as ZYBAN which is used to help patients quit smoking.
 
 Some people have had changes in behavior, hostility, agitation, depression, suicidal thoughts or actions while taking bupropion to help them quit smoking.
 These symptoms can develop during treatment with bupropion or after stopping treatment with bupropion.
@@ -91,14 +91,13 @@ Do not take any other medicines while you are using WELLBUTRIN XL unless your do
 If you have a seizure while taking WELLBUTRIN XL, stop taking the tablets and call your doctor right away.
 Do not take WELLBUTRIN XL again if you have a seizure.
 
-- 1.High blood pressure (hypertension): Some people get high blood pressure, that can be severe, while taking Wellbutrin XL.
+- •High blood pressure (hypertension): Some people get high blood pressure, that can be severe, while taking Wellbutrin XL.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking.
-- 2.Severe allergic reactions: Some people have severe allergic reactions to Wellbutrin XL.
+- •Severe allergic reactions: Some people have severe allergic reactions to Wellbutrin XL.
   Stop taking Wellbutrin XL and call your doctor right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
   These could be signs of a serious allergic reaction.
-- 3.Unusual thoughts or behaviors: Some patients have unusual thoughts or behaviors while taking Wellbutrin XL, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
+- •Unusual thoughts or behaviors: Some patients have unusual thoughts or behaviors while taking Wellbutrin XL, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your doctor.
-
 - •Visual problems
 - •eye pain
 - •changes in vision
@@ -116,10 +115,10 @@ Who should not take WELLBUTRIN XL?
 Do not take WELLBUTRIN XL if you:
 
 - •have or had a seizure disorder or epilepsy.
-- •are taking ZYBAN® (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN®* Tablets or WELLBUTRIN SR, Sustained-Release Tablets.
+- •are taking ZYBAN (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN Tablets or WELLBUTRIN SR, Sustained-Release Tablets.
   Bupropion is the same active ingredient that is in WELLBUTRIN XL.
 - •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- •have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL®* (phenelzine sulfate), PARNATE®* (tranylcypromine sulfate), or MARPLAN®* (isocarboxazid).
+- •have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL(phenelzine sulfate), PARNATE (tranylcypromine sulfate), or MARPLAN (isocarboxazid).
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
 - •are allergic to the active ingredient in WELLBUTRIN XL, bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in WELLBUTRIN XL.
@@ -150,7 +149,6 @@ What should I tell my doctor before using WELLBUTRIN XL?
 How should I take WELLBUTRIN XL?
 
 - •Take WELLBUTRIN XL exactly as prescribed by your doctor.
-
 - Do not chew, cut, or crush WELLBUTRIN XL tablets.
   If you do, the medicine will be released into your body too quickly.
   If this happens you may be more likely to get side effects including seizures.
@@ -230,16 +228,22 @@ Active ingredient: bupropion hydrochloride.
 Inactive ingredients: ethylcellulose aqueous dispersion, glyceryl behenate, methacrylic acid copolymer dispersion, polyethylene glycol, polyvinyl alcohol, povidone, silicon dioxide, and triethyl citrate.
 The tablets are printed with edible black ink.
 
-*The following are registered trademarks of their respective manufacturers: WELLBUTRIN® and WELLBUTRIN XL®/GlaxoSmithKline; Zyban®/GlaxoSmithKline; NARDIL®/Warner Lambert Company LLC; PARNATE®/GlaxoSmithKline; MARPLAN®/Validus Pharmaceuticals LLC; KALETRA®/Abbott Laboratories.
-
 Rx Only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-WELLBUTRIN XL® is a federally registered trademark of GlaxoSmithKline LLC
+WELLBUTRIN XL is a federally registered trademark of GlaxoSmithKline LLC under license.
+
+All other product/brand names are the trademarks of their respective owners.
 
 Manufactured in Canada by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
 For: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Revised July 2014 9395600
+©Valeant Pharmaceuticals International, Inc.
+
+Made in Canada
+
+Revised 07/2014 9395600
+
+20000071

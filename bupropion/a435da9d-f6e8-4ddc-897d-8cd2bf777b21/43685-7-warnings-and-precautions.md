@@ -180,7 +180,7 @@ These symptoms may resemble serum sickness.
 Cardiovascular Effects: In clinical practice, hypertension, in some cases severe, requiring acute treatment, has been reported in patients receiving bupropion alone and in combination with nicotine replacement therapy.
 These events have been observed in both patients with and without evidence of preexisting hypertension.
 
-Data from a comparative study of the sustained-release formulation of bupropion (ZYBAN® Sustained-Release Tablets), nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
+Data from a comparative study of the sustained-release formulation of bupropion (ZYBAN Sustained-Release Tablets), nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
 In this study, 6.1% of patients treated with the combination of sustained-release bupropion and NTS had treatment-emergent hypertension compared to 2.5%, 1.6%, and 3.1% of patients treated with sustained-release bupropion, NTS, and placebo, respectively.
 The majority of these patients had evidence of preexisting hypertension.
 Three patients (1.2%) treated with the combination of ZYBAN and NTS and 1 patient (0.4%) treated with NTS had study medication discontinued due to hypertension compared to none of the patients treated with ZYBAN or placebo.

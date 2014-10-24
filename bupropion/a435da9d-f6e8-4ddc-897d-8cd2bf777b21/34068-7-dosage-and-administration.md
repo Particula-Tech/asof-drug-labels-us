@@ -6,7 +6,7 @@ If necessary, these effects may be managed by temporary reduction of dose or the
 A sedative hypnotic usually is not required beyond the first week of treatment.
 Insomnia may also be minimized by avoiding bedtime doses.
 If distressing, untoward effects supervene, dose escalation should be stopped.
-WELLBUTRIN XL tablets should be swallowed whole and not crushed, divided, or chewed as this may lead to an increased risk of adverse effects including seizures.
+WELLBUTRIN XL tablets should be swallowed whole and not crushed, divided, or chewed, as this may lead to an increased risk of adverse effects including seizures.
 WELLBUTRIN XL may be taken without regard to meals.
 
 Major Depressive Disorder: Initial Treatment: The usual adult target dose for WELLBUTRIN XL is 300 mg/day, given once daily in the morning.
