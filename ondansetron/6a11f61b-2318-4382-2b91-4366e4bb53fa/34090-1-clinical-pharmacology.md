@@ -66,12 +66,12 @@ The results of this analysis are included in Table 4 and are compared to the pha
 Table 4.
 Pharmacokinetics in Pediatric Cancer Patients 1 Month to 18 Years of Age
 
-| Subjects and Age Group | N | CL (L/h/kg) | Vdss (L/kg) | T½ (h) |
-| --- | --- | --- | --- | --- |
-|  |  | Geometric Mean |  | Mean |
-| Pediatric Cancer Patients 4 to 18 years of age | N = 21 | 0.599 | 1.9 | 2.8 |
-| Population PK Patientsa 1 month to 48 months of age | N = 115 | 0.582 | 3.65 | 4.9 |
-| a Population PK (Pharmacokinetic) Patients: 64% cancer patients and 36% surgery patients. |  |  |  |  |
+| Subjects and Age Group | N | CL (L/h/kg) | Vdss (L/kg) | T½ (h) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Geometric Mean |  | Mean |  |  |  |  |  |
+| Pediatric Cancer Patients 4 to 18 years of age | N = 21 | 0.599 | 1.9 | 2.8 |  |  |  |  |  |
+| Population PK Patientsa 1 month to 48 months of age | N = 115 | 0.582 | 3.65 | 4.9 |  |  |  |  |  |
+| a Population PK (Pharmacokinetic) Patients: 64% cancer patients and 36% surgery patients. |  |  |  |  |  |  |  |  |  |
 
 Based on the population pharmacokinetic analysis, cancer patients 6 to 48 months of age who receive a dose of 0.15 mg/kg of intravenous ondansetron every 4 hours for 3 doses would be expected to achieve a systemic exposure (AUC) consistent with the exposure achieved in previous pediatric studies in cancer patients (4 to 18 years of age) at similar doses.
 

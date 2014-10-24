@@ -38,16 +38,16 @@ Postoperative Nausea and Vomiting The adverse reactions in Table 2 have been rep
 Table 2.
 Adverse Reactions Reported in ≥2% (and With Greater Frequency than the Placebo Group) of Adult Patients Receiving Ondansetron at a Dosage of 4 mg Intravenous over 2 to 5 Minutes
 
-| Adverse Reactiona,b | Ondansetron Injection 4 mg Intravenous n = 547 patients | Placebo n = 547 patients |
-| --- | --- | --- |
-| Headache | 92 (17%) | 77 (14%) |
-| Drowsiness/sedation | 44 (8%) | 37 (7%) |
-| Injection site reaction | 21 (4%) | 18 (3%) |
-| Fever | 10 (2%) | 6 (1%) |
-| Cold sensation | 9 (2%) | 8 (1%) |
-| Pruritus | 9 (2%) | 3 (<1%) |
-| Paresthesia | 9 (2%) | 2 (<1%) |
-| a Adverse Reactions: Rates of these reactions were not significantly different in the ondansetron and placebo groupsb Patients were receiving multiple concomitant perioperative and postoperative medications |  |  |
+| Adverse Reactiona,b | Ondansetron Injection 4 mg Intravenous n = 547 patients | Placebo n = 547 patients |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Headache | 92 (17%) | 77 (14%) |  |  |  |  |
+| Drowsiness/sedation | 44 (8%) | 37 (7%) |  |  |  |  |
+| Injection site reaction | 21 (4%) | 18 (3%) |  |  |  |  |
+| Fever | 10 (2%) | 6 (1%) |  |  |  |  |
+| Cold sensation | 9 (2%) | 8 (1%) |  |  |  |  |
+| Pruritus | 9 (2%) | 3 (<1%) |  |  |  |  |
+| Paresthesia | 9 (2%) | 2 (<1%) |  |  |  |  |
+| a Adverse Reactions: Rates of these reactions were not significantly different in the ondansetron and placebo groups b Patients were receiving multiple concomitant perioperative and postoperative medications |  |  |  |  |  |  |
 
 Pediatric Use Rates of adverse reactions were similar in both the ondansetron and placebo groups in pediatric patients receiving ondansetron (a single 0.1-mg/kg dose for pediatric patients weighing 40 kg or less, or 4 mg for pediatric patients weighing more than 40 kg) administered intravenously over at least 30 seconds.
 Diarrhea was seen more frequently in patients taking Ondansetron (2%) compared to placebo (<1%) in the 1 month to 24 month age group.
@@ -63,7 +63,7 @@ Cardiovascular Arrhythmias (including ventricular and supraventricular tachycard
 Rarely and predominantly with intravenous ondansetron, transient ECG changes including QT/QTc interval prolongation have been reported [see Warnings and Precautions (5.2)].
 
 General Flushing.
-Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylatic reactions, angioedema, bronchospasm, cardiopulmonary arrest, hypotension, laryngeal edema, laryngospasm, shock, shortness of breath, stridor) have also been reported.
+Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylactic reactions, angioedema, bronchospasm, cardiopulmonary arrest, hypotension, laryngeal edema, laryngospasm, shock, shortness of breath, stridor) have also been reported.
 A positive lymphocyte transformation test to ondansetron has been reported, which suggests immunologic sensitivity to ondansetron.
 
 Hepatobiliary Liver enzyme abnormalities have been reported.
@@ -76,7 +76,7 @@ Lower Respiratory Hiccups
 Neurological Oculogyric crisis, appearing alone, as well as with other dystonic reactions.
 Transient dizziness during or shortly after intravenous infusion.
 
-Skin Urticaria
+Skin Urticaria, Stevens-Johnson syndrome, and toxic epidermal necrolysis.
 
 Eye Disorders Cases of transient blindness, predominantly during intravenous administration, have been reported.
 These cases of transient blindness were reported to resolve within a few minutes up to 48 hours.

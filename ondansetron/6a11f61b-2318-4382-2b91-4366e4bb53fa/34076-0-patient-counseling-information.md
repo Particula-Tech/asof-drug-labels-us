@@ -1,22 +1,22 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-- Patients should be informed that Ondansetron may cause serious cardiac arrhythmias such as QT prolongation.
+- •Patients should be informed that Ondansetron may cause serious cardiac arrhythmias such as QT prolongation.
   Patients should be instructed to tell their health care provider right away if they perceive a change in their heart rate, if they feel lightheaded, or if they have a syncopal episode.
-- Patients should be informed that the chances of developing severe cardiac arrhythmias such as QT prolongation and Torsade de Pointes are higher in the following people:
-  - Patients with a personal or family history of abnormal heart rhythms, such as congenital long QT syndrome;
-  - Patients who take medications, such as diuretics, which may cause electrolyte abnormalities
-  - Patients with hypokalemia or hypomagnesemia
+- •Patients should be informed that the chances of developing severe cardiac arrhythmias such as QT prolongation and Torsade de Pointes are higher in the following people:
+  - oPatients with a personal or family history of abnormal heart rhythms, such as congenital long QT syndrome;
+  - oPatients who take medications, such as diuretics, which may cause electrolyte abnormalities
+  - oPatients with hypokalemia or hypomagnesemia
 
 Ondansetron Injection, USP should be avoided in these patients, since they may be more at risk for cardiac arrhythmias such as QT prolongation and Torsade de Pointes.
 
-- Inform patients that Ondansetron may cause hypersensitivity reactions, some as severe as anaphylaxis and bronchospasm.
+- •Advise patients of the possibility of serotonin syndrome with concomitant use of Ondansetron and another serotonergic agent such as medications to treat depression and migraines.
+  Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms.
+- •Inform patients that Ondansetron may cause hypersensitivity reactions, some as severe as anaphylaxis and bronchospasm.
   The patient should report any signs and symptoms of hypersensitivity reactions, including fever, chills, rash, or breathing problems.
-- The patient should report the use of all medications, especially apomorphine, to their health care provider.
+- •The patient should report the use of all medications, especially apomorphine, to their health care provider.
   Concomitant use of apomorphine and Ondansetron may cause a significant drop in blood pressure and loss of consciousness.
-- Inform patients that Ondansetron may cause headache, drowsiness/sedation, constipation, fever and diarrhea.
+- •Inform patients that Ondansetron may cause headache, drowsiness/sedation, constipation, fever and diarrhea.
 
-Revised: 01/2013
-
-EN-3192
+EN-3579
 
 Hospira, Inc., Lake Forest, IL 60045 USA

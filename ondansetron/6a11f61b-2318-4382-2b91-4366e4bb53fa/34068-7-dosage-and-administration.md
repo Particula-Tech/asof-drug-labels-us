@@ -4,7 +4,7 @@
 
 Ondansetron Injection, USP should be diluted in 50 mL of 5% Dextrose Injection or 0.9% Sodium Chloride Injection before administration.
 
-Adults The recommended adult intravenous dosage of Ondansetron is three 0.15‑mg/kg doses up to a maximum of 16 mg per dose [see Clinical Pharmacology (12.2)].
+Adults The recommended adult intravenous dosage of Ondansetron is three 0.15-mg/kg doses up to a maximum of 16 mg per dose [see Clinical Pharmacology (12.2)].
 The first dose is infused over 15 minutes beginning 30 minutes before the start of emetogenic chemotherapy.
 Subsequent doses (0.15 mg/kg up to a maximum of 16 mg per dose) are administered 4 and 8 hours after the first dose of Ondansetron.
 

@@ -4,7 +4,7 @@ The clinical efficacy of ondansetron hydrochloride, the active ingredient of Ond
 
 ## 14.1 Chemotherapy-Induced Nausea and Vomiting
 
-Adults In a double-blind study of three different dosing regimens of Ondansetron Injection, USP, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15‑mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
+Adults In a double-blind study of three different dosing regimens of Ondansetron Injection, USP, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
 The 0.30-mg/kg dosing regimen was not shown to be more effective than the 0.15-mg/kg dosing regimen.
 
 Cisplatin-Based Chemotherapy In a double-blind study in 28 patients, Ondansetron Injection, USP (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
@@ -21,7 +21,7 @@ Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting i
 | Median time to first emetic episode (h) | 11.6 | 2.8 | 0.001 |
 | Median nausea scores (0-100)d | 3 | 59 | 0.034 |
 | Global satisfaction with control of nausea and vomiting (0-100)e | 96 | 10.5 | 0.009 |
-| a Chemotherapy was high dose (100 and 120 mg/m2; Ondansetron Injection, USP n = 6, placebo n = 5) or moderate dose (50 and 80 mg/m2; Ondansetron Injection, USP n = 8, placebo n = 9). Other chemotherapeutic agents included fluorouracil, doxorubicin, and cyclophosphamide. There was no difference between treatments in the types of chemotherapy that would account for differences in response.b Efficacy based on “all patients treated” analysis.c Median undefined since at least 50% of the patients were rescued or had more than five emetic episodes.d Visual analog scale assessment of nausea: 0 = no nausea, 100 = nausea as bad as it can be.e Visual analog scale assessment of satisfaction: 0 = not at all satisfied, 100 = totally satisfied. |  |  |  |
+| a Chemotherapy was high dose (100 and 120 mg/m2; Ondansetron Injection, USP n = 6, placebo n = 5) or moderate dose (50 and 80 mg/m2; Ondansetron Injection, USP n = 8, placebo n = 9). Other chemotherapeutic agents included fluorouracil, doxorubicin, and cyclophosphamide. There was no difference between treatments in the types of chemotherapy that would account for differences in response. b Efficacy based on “all patients treated” analysis. c Median undefined since at least 50% of the patients were rescued or had more than five emetic episodes. d Visual analog scale assessment of nausea: 0 = no nausea, 100 = nausea as bad as it can be. e Visual analog scale assessment of satisfaction: 0 = not at all satisfied, 100 = totally satisfied. |  |  |  |
 
 Ondansetron Injection, USP (0.15-mg/kg x 3 doses) was compared with metoclopramide (2 mg/kg x 6 doses) in a single-blind trial in 307 patients receiving cisplatin ≥100 mg/m2 with or without other chemotherapeutic agents.
 Patients received the first dose of ondansetron or metoclopramide 30 minutes before cisplatin.
@@ -33,18 +33,18 @@ The results of this study are summarized in Table 7.
 Table 7.
 Therapeutic Response in Prevention of Vomiting Induced by Cisplatin (≥100 mg/m2) Single-Day Therapya in Adults
 
-|  | Ondansetron Injection, USP | Metoclopramide | P Value |
-| --- | --- | --- | --- |
-| Dose | 0.15 mg/kg x 3 | 2 mg/kg x 6 |  |
-| Number of patients in efficacy population | 136 | 138 |  |
-| Treatment response 0 Emetic episodes 1-2 Emetic episodes 3-5 Emetic episodes More than 5 emetic episodes/rescued | 54 (40%)34 (25%)19 (14%)29 (21%) | 41 (30%)30 (22%)18 (13%)49 (36%) |  |
-| Comparison of treatments with respect to 0 Emetic episodes More than 5 emetic episodes/rescued | 54/13629/136 | 41/13849/138 | 0.0830.009 |
-| Median number of emetic episodes | 1 | 2 | 0.005 |
-| Median time to first emetic episode (h) | 20.5 | 4.3 | <0.001 |
-| Global satisfaction with control of nausea and vomiting (0‑100)b | 85 | 63 | 0.001 |
-| Acute dystonic reactions | 0 | 8 | 0.005 |
-| Akathisia | 0 | 10 | 0.002 |
-| a In addition to cisplatin, 68% of patients received other chemotherapeutic agents, including cyclophosphamide, etoposide, and fluorouracil. There was no difference between treatments in the types of chemotherapy that would account for differences in response.b Visual analog scale assessment: 0 = not at all satisfied, 100 = totally satisfied. |  |  |  |
+|  | Ondansetron Injection, USP | Metoclopramide | P Value |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Dose | 0.15 mg/kg x 3 | 2 mg/kg x 6 |  |  |  |  |  |
+| Number of patients in efficacy population | 136 | 138 |  |  |  |  |  |
+| Treatment response 0 Emetic episodes 1-2 Emetic episodes 3-5 Emetic episodes More than 5 emetic episodes/rescued | 54 (40%)34 (25%)19 (14%)29 (21%) | 41 (30%)30 (22%)18 (13%)49 (36%) |  |  |  |  |  |
+| Comparison of treatments with respect to 0 Emetic episodes More than 5 emetic episodes/rescued | 54/13629/136 | 41/13849/138 | 0.0830.009 |  |  |  |  |
+| Median number of emetic episodes | 1 | 2 | 0.005 |  |  |  |  |
+| Median time to first emetic episode (h) | 20.5 | 4.3 | <0.001 |  |  |  |  |
+| Global satisfaction with control of nausea and vomiting (0-100)b | 85 | 63 | 0.001 |  |  |  |  |
+| Acute dystonic reactions | 0 | 8 | 0.005 |  |  |  |  |
+| Akathisia | 0 | 10 | 0.002 |  |  |  |  |
+| a In addition to cisplatin, 68% of patients received other chemotherapeutic agents, including cyclophosphamide, etoposide, and fluorouracil. There was no difference between treatments in the types of chemotherapy that would account for differences in response. b Visual analog scale assessment: 0 = not at all satisfied, 100 = totally satisfied. |  |  |  |  |  |  |  |
 
 Cyclophosphamide-Based Chemotherapy In a double-blind, placebo-controlled study of Ondansetron Injection, USP (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, Ondansetron Injection, USP was significantly more effective than placebo in preventing nausea and vomiting.
 The results are summarized in Table 8.
@@ -52,15 +52,15 @@ The results are summarized in Table 8.
 Table 8.
 Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-Day Cyclophosphamide Therapya in Adults
 
-|  | Ondansetron Injection, USP (0.15 mg/kg x 3) | Placebo | P Valueb |
-| --- | --- | --- | --- |
-| Number of patients | 10 | 10 |  |
-| Treatment response 0 Emetic episodes 1-2 Emetic episodes 3-5 Emetic episodes More than 5 emetic episodes/rescued | 7 (70%)0 (0%)2 (20%)1 (10%) | 0 (0%)2 (20%)4 (40%)4 (40%) | 0.001 0.131 |
-| Median number of emetic episodes | 0 | 4 | 0.008 |
-| Median time to first emetic episode (h) | Undefinedc | 8.79 |  |
-| Median nausea scores (0-100)d | 0 | 60 | 0.001 |
-| Global satisfaction with control of nausea and vomiting (0-100)e | 100 | 52 | 0.008 |
-| a Chemotherapy consisted of cyclophosphamide in all patients, plus other agents, including fluorouracil, doxorubicin, methotrexate, and vincristine. There was no difference between treatments in the type of chemotherapy that would account for differences in response.b Efficacy based on “all patients treated” analysis.c Median undefined since at least 50% of patients did not have any emetic episodes.d Visual analog scale assessment of nausea: 0 = no nausea, 100 = nausea as bad as it can be.e Visual analog scale assessment of satisfaction: 0 = not at all satisfied, 100 = totally satisfied. |  |  |  |
+|  | Ondansetron Injection, USP (0.15 mg/kg x 3) | Placebo | P Valueb |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Number of patients | 10 | 10 |  |  |  |  |  |  |  |  |  |
+| Treatment response 0 Emetic episodes 1-2 Emetic episodes 3-5 Emetic episodes More than 5 emetic episodes/rescued | 7 (70%)0 (0%)2 (20%)1 (10%) | 0 (0%)2 (20%)4 (40%)4 (40%) | 0.001 0.131 |  |  |  |  |  |  |  |  |
+| Median number of emetic episodes | 0 | 4 | 0.008 |  |  |  |  |  |  |  |  |
+| Median time to first emetic episode (h) | Undefinedc | 8.79 |  |  |  |  |  |  |  |  |  |
+| Median nausea scores (0-100)d | 0 | 60 | 0.001 |  |  |  |  |  |  |  |  |
+| Global satisfaction with control of nausea and vomiting (0-100)e | 100 | 52 | 0.008 |  |  |  |  |  |  |  |  |
+| a Chemotherapy consisted of cyclophosphamide in all patients, plus other agents, including fluorouracil, doxorubicin, methotrexate, and vincristine. There was no difference between treatments in the type of chemotherapy that would account for differences in response. b Efficacy based on “all patients treated” analysis. c Median undefined since at least 50% of patients did not have any emetic episodes. d Visual analog scale assessment of nausea: 0 = no nausea, 100 = nausea as bad as it can be. e Visual analog scale assessment of satisfaction: 0 = not at all satisfied, 100 = totally satisfied. |  |  |  |  |  |  |  |  |  |  |  |
 
 Re-treatment In uncontrolled trials, 127 patients receiving cisplatin (median dose, 100 mg/m2) and ondansetron who had two or fewer emetic episodes were re-treated with ondansetron and chemotherapy, mainly cisplatin, for a total of 269 re-treatment courses (median, 2; range, 1 to 10).
 No emetic episodes occurred in 160 (59%), and two or fewer emetic episodes occurred in 217 (81%) re-treatment courses.
@@ -116,16 +116,16 @@ The results of these studies are summarized in Table 10.
 Table 10.
 Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Pediatric Patients 2 to 12 Years of Age
 
-| Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P Value |
-| --- | --- | --- | --- |
-| Study 1 |  |  |  |
-| Number of patients0 Emetic episodesFailurea | 205140 (68%)65 (32%) | 21082 (39%)128 (61%) | ≤0.001 |
-| Study 2 |  |  |  |
-| Number of patients0 Emetic episodesFailurea | 11268 (61%)44 (39%) | 11038 (35%)72 (65%) | ≤0.001 |
-| Study 3 |  |  |  |
-| Number of patients0 Emetic episodesFailurea | 206123 (60%)83 (40%) | 20696 (47%)110 (53%) | ≤0.01 |
-| Nausea assessmentsb: Number of patientsNone | 185119 (64%) | 19199 (52%) | ≤0.01 |
-| a Failure was one or more emetic episodes, rescued, or withdrawn.b Nausea measured as none, mild, or severe. |  |  |  |
+| Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P Value |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Study 1 |  |  |  |  |  |  |  |
+| Number of patients0 Emetic episodesFailurea | 205140 (68%)65 (32%) | 21082 (39%)128 (61%) | ≤0.001 |  |  |  |  |
+| Study 2 |  |  |  |  |  |  |  |
+| Number of patients0 Emetic episodesFailurea | 11268 (61%)44 (39%) | 11038 (35%)72 (65%) | ≤0.001 |  |  |  |  |
+| Study 3 |  |  |  |  |  |  |  |
+| Number of patients0 Emetic episodesFailurea | 206123 (60%)83 (40%) | 20696 (47%)110 (53%) | ≤0.01 |  |  |  |  |
+| Nausea assessmentsb: Number of patientsNone | 185119 (64%) | 19199 (52%) | ≤0.01 |  |  |  |  |
+| a Failure was one or more emetic episodes, rescued, or withdrawn. b Nausea measured as none, mild, or severe. |  |  |  |  |  |  |  |
 
 A double-blind, multicenter, placebo-controlled study was conducted in 670 pediatric patients 1 month to 24 months of age who were undergoing routine surgery under general anesthesia.
 Seventy-five percent (75%) were males; 64% were white, 15% were black, 13% were American Hispanic, 2% were Asian, and 6% were “other race” patients.
@@ -150,7 +150,7 @@ Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting 
 | Study 2 |  |  |  |
 | Emetic episodes: Number of patientsTreatment response 24 h after study drug 0 Emetic episodes 1 Emetic episode More than 1 emetic episode/rescuedMedian time to first emetic episode (min)a | 112 49 (44%)14 (13%)49 (44%)60.5 | 108 28 (26%)3 (3%)77 (71%)34.0 | 0.006 |
 | Nausea assessments: Number of patientsMean nausea score over 24-h postoperative periodb | 1051.9 | 852.9 |  |
-| a After administration of study drug.b Nausea measured on a scale of 0-10 with 0 = no nausea, 10 = nausea as bad as it can be. |  |  |  |
+| a After administration of study drug. b Nausea measured on a scale of 0-10 with 0 = no nausea, 10 = nausea as bad as it can be. |  |  |  |
 
 The study populations in Table 11 consisted mainly of women undergoing laparoscopic procedures.
 
@@ -165,7 +165,7 @@ The results of the study are summarized in Table 12.
 Table 12.
 Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting in Pediatric Patients 2 to 12 Years of Age
 
-| Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P Value |
-| --- | --- | --- | --- |
-| Number of patients0 Emetic episodesFailurea | 18096 (53%)84 (47%) | 17129 (17%)142 (83%) | ≤0.001 |
-| a Failure was one or more emetic episodes, rescued, or withdrawn. |  |  |  |
+| Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P Value |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Number of patients0 Emetic episodesFailurea | 18096 (53%)84 (47%) | 17129 (17%)142 (83%) | ≤0.001 |  |  |  |  |
+| a Failure was one or more emetic episodes, rescued, or withdrawn. |  |  |  |  |  |  |  |

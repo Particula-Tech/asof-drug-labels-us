@@ -9,3 +9,7 @@ In addition to the adverse reactions listed above, the following events have bee
 Hypotension (and faintness) occurred in another patient that took 48 mg of ondansetron hydrochloride tablets.
 Following infusion of 32 mg over only a 4-minute period, a vasovagal episode with transient second-degree heart block was observed.
 In all instances, the events resolved completely.
+
+Pediatric cases consistent with serotonin syndrome have been reported after inadvertent oral overdoses of ondansetron (exceeding estimated ingestion of 5 mg/kg) in young children.
+Reported symptoms included somnolence, agitation, tachycardia, tachypnea, hypertension, flushing, mydriasis, diaphoresis, myoclonic movements, horizontal nystagmus, hyperreflexia, and seizure.
+Patients required supportive care, including intubation in some cases, with complete recovery without sequelae within 1 to 2 days.
