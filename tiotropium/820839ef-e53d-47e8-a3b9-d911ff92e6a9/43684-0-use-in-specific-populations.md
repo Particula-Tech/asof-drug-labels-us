@@ -40,7 +40,7 @@ Based on available data, no adjustment of SPIRIVA HandiHaler dosage in geriatric
 
 ## 8.6 Renal Impairment
 
-Patients with moderate to severe renal impairment (creatinine clearance of ≤50 mL/min) treated with SPIRIVA HandiHaler should be monitored closely for anticholinergic side effects [see Dosage and Administration (2), Warnings and Precautions (5.4), and Clinical Pharmacology (12.3)].
+Patients with moderate to severe renal impairment (creatinine clearance of ≤50 mL/min) treated with SPIRIVA HandiHaler should be monitored closely for anticholinergic side effects [see Dosage and Administration (2), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

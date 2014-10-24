@@ -68,6 +68,6 @@ Plasma concentrations were numerically increased with advancing age within COPD 
 Renal Impairment Since tiotropium is predominantly renally excreted, renal impairment was associated with increased plasma drug concentrations and reduced drug clearance after both intravenous infusion and dry powder inhalation.
 Mild renal impairment (creatinine clearance of 50 to 80 mL/min), which is often seen in elderly patients, increased tiotropium plasma concentrations (39% increase in AUC0-4 after intravenous infusion).
 In COPD patients with moderate to severe renal impairment (creatinine clearance of <50 mL/min), the intravenous administration of tiotropium resulted in doubling of the plasma concentrations (82% increase in AUC0-4), which was confirmed by plasma concentrations after dry powder inhalation.
-Patients with moderate to severe renal impairment (creatinine clearance of ≤50 mL/min) treated with SPIRIVA HandiHaler should be monitored closely for anticholinergic side effects [see Dosage and Administration (2), Warnings and Precautions (5.4), and Use in Specific Populations (8.6)].
+Patients with moderate to severe renal impairment (creatinine clearance of ≤50 mL/min) treated with SPIRIVA HandiHaler should be monitored closely for anticholinergic side effects [see Dosage and Administration (2), Warnings and Precautions (5.6), and Use in Specific Populations (8.6)].
 
 Hepatic Impairment The effects of hepatic impairment on the pharmacokinetics of tiotropium were not studied.

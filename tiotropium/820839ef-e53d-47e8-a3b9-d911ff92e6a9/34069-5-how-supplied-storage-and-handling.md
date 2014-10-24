@@ -4,7 +4,7 @@ SPIRIVA HandiHaler consists of SPIRIVA capsules and the HandiHaler device.
 SPIRIVA capsules contain 18 mcg of tiotropium and are light green, with the Boehringer Ingelheim company logo on the SPIRIVA capsule cap and TI 01 on the SPIRIVA capsule body, or vice versa.
 
 The HandiHaler device is gray colored with a green piercing button.
-It is imprinted with SPIRIVA HandiHaler (tiotropium bromide inhalation powder), the Boehringer Ingelheim company logo, and the Pfizer company logo.
+It is imprinted with SPIRIVA HandiHaler (tiotropium bromide inhalation powder), the Boehringer Ingelheim company logo.
 It is also imprinted to indicate that SPIRIVA capsules should not be stored in the HandiHaler device and that the HandiHaler device is only to be used with SPIRIVA capsules.
 
 SPIRIVA capsules are packaged in an aluminum/aluminum blister card and joined along a perforated-cut line.
@@ -13,7 +13,7 @@ The drug should be used immediately after the packaging over an individual SPIRI
 
 The following packages are available:
 
-- carton containing 5 SPIRIVA capsules (1 unit-dose blister card) and 1 HandiHaler inhalation device (NDC 0597-0075-75)
+- carton containing 5 SPIRIVA capsules (1 unit-dose blister card) and 1 HandiHaler inhalation device (NDC 0597-0075-75) (institutional pack)
 - carton containing 30 SPIRIVA capsules (3 unit-dose blister cards) and 1 HandiHaler inhalation device (NDC 0597-0075-41)
 - carton containing 90 SPIRIVA capsules (9 unit-dose blister cards) and 1 HandiHaler inhalation device (NDC 0597-0075-47)
 

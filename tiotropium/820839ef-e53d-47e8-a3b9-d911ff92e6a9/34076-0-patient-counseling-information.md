@@ -37,16 +37,14 @@ Instruct patients that SPIRIVA HandiHaler is a once-daily maintenance bronchodil
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA and Pfizer Inc New York, NY 10017 USA
-
 Licensed from: Boehringer Ingelheim International GmbH
 
 Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
 
 SPIRIVA® and HandiHaler® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT1600ABC062012 10004551/10
+IT1600AED292014 10004551/12
 
-IT5300F 75740-05
+IT5300H 75740-08
