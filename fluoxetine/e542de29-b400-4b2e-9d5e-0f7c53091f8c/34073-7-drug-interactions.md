@@ -18,7 +18,7 @@ In evaluating individual cases, consideration should be given to using lower ini
 ## 7.3 Serotonergic Drugs
 
 Based on the mechanism of action of SNRIs and SSRIs, including SARAFEM, and the potential for serotonin syndrome, caution is advised when SARAFEM is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John’s Wort [see Warnings and Precautions (5.2)].
-The concomitant use of SARAFEM with SNRIs, SSRIs, or tryptophan is not recommended [see Dosage and Administration (2.4 and 2.5), Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions(7.4), (7.5)].
+The concomitant use of SARAFEM with SNRIs, SSRIs, or tryptophan is not recommended [see Dosage and Administration (2.4 and 2.5), Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.4), (7.5)].
 
 ## 7.4 Triptans
 
@@ -44,7 +44,7 @@ There have been rare reports of prolonged seizures in patients on fluoxetine rec
 
 ## 7.8 Potential for Other Drugs to affect SARAFEM
 
-Drugs Tightly Bound to Plasma Proteins Because fluoxetine is tightly bound to plasma proteins, adverse effects may result from displacement of protein-bound fluoxetine by other tightly bound drugs [see Clinical Pharmacology (12.3)].
+Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma proteins, adverse effects may result from displacement of protein-bound fluoxetine by other tightly bound drugs [see Clinical Pharmacology (12.3)].
 
 ## 7.9 Potential for SARAFEM to affect Other Drugs
 

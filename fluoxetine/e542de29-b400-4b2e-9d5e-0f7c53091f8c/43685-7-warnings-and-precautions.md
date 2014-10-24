@@ -39,7 +39,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Warnings and Precautions (5.13)].
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Warnings and Precautions (5.14)].
 
 Families and caregivers of patients being treated with antidepressants for Major Depressive Disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
@@ -135,7 +135,11 @@ Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, h
 
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.6)].
 
-## 5.8 Hyponatremia
+## 5.8 Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressants and SARAFEM may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.9 Hyponatremia
 
 Hyponatremia has been reported during treatment with SNRIs and SSRIs, including fluoxetine.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
@@ -147,7 +151,7 @@ Discontinuation of SARAFEM should be considered in patients with symptomatic hyp
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-## 5.9 Anxiety and Insomnia
+## 5.10 Anxiety and Insomnia
 
 In 2 placebo-controlled clinical trials for PMDD, patients treated with SARAFEM reported anxiety, nervousness, and insomnia [see Table 3].
 
@@ -162,7 +166,7 @@ Table 3: Anxiety and Insomnia Treatment Emergent Adverse Reactions: Incidence in
 | Nervousness | 5% | 9% | 3% |
 | Insomnia | 9% | 26% | 7% |
 
-Anxiety, nervousness, and insomnia were associated with discontinuation for SARAFEM [see Table 4 and Warnings and Precautions (5.13)].
+Anxiety, nervousness, and insomnia were associated with discontinuation for SARAFEM [see Table 4 and Warnings and Precautions (5.14)].
 
 Table 4: Anxiety, Nervousness, and Insomnia: Treatment Discontinuation Rates in PMDD Placebo-Controlled Clinical Trials
 
@@ -175,7 +179,7 @@ Table 4: Anxiety, Nervousness, and Insomnia: Treatment Discontinuation Rates in 
 
 In US placebo-controlled clinical trials of fluoxetine for other approved indications, anxiety, nervousness, and insomnia have been among the most commonly reported adverse reactions [see Table 6 and Adverse Reactions (6.1)].
 
-## 5.10 Use in Patients with Concomitant Illness
+## 5.11 Use in Patients with Concomitant Illness
 
 Clinical experience with fluoxetine in patients with concomitant systemic illness is limited.
 Caution is advisable in using fluoxetine in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
@@ -189,19 +193,17 @@ Glycemic Control — In patients with diabetes, fluoxetine may alter glycemic co
 Hypoglycemia has occurred during therapy with fluoxetine, and hyperglycemia has developed following discontinuation of the drug.
 As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic, dosage may need to be adjusted when therapy with fluoxetine is instituted or discontinued.
 
-Acute Narrow-Angle Glaucoma — Mydriasis has been reported in association with fluoxetine; therefore, caution should be used when prescribing SARAFEM, in patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma.
-
-## 5.11 Potential for Cognitive and Motor Impairment
+## 5.12 Potential for Cognitive and Motor Impairment
 
 SARAFEM has the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that the drug treatment does not affect them adversely.
 
-## 5.12 Long Elimination Half-Life
+## 5.13 Long Elimination Half-Life
 
 Because of the long elimination half-lives of the parent drug and its major active metabolite, changes in dose will not be fully reflected in plasma for several weeks, affecting both strategies for titration to final dose and withdrawal from treatment.
 This is of potential consequence when drug discontinuation is required or when drugs are prescribed that might interact with fluoxetine and norfluoxetine following the discontinuation of fluoxetine [see Clinical Pharmacology (12.3) and Drug Interactions (7)].
 
-## 5.13 Discontinuation of Treatment
+## 5.14 Discontinuation of Treatment
 
 During marketing of SARAFEM, SNRIs, and SSRIs, there have been spontaneous reports of adverse reactions occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (for example, paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these reactions are generally self-limiting, there have been reports of serious discontinuation symptoms.

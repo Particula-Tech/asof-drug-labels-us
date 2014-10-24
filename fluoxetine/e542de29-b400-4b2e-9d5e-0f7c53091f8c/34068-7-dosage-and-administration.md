@@ -19,11 +19,11 @@ Neonates exposed to SSRIs or SNRIs late in the third trimester have developed co
 
 Hepatic Impairment — A lower or less frequent dosage should be used in patients with hepatic impairment [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].
 
-Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Warnings and Precautions (5.10) and Clinical Pharmacology (12.3)].
+Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Warnings and Precautions (5.11) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Discontinuation of Treatment
 
-Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.13)].
+Symptoms associated with discontinuation of fluoxetine, SNRIs, and SSRIs, have been reported [see Warnings and Precautions (5.14)].
 
 ## 2.4 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 

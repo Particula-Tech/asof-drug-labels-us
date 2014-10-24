@@ -85,6 +85,16 @@ Children and adolescents should have height and weight monitored during treatmen
 Abnormal bleeding: SARAFEM and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAID’s, like ibuprofen or naproxen), or aspirin.
 
 8.
+Visual Problems
+
+- eye pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
+9.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
@@ -126,7 +136,6 @@ Get medical help right away if you have any of these symptoms:
 - rapid changes in heart rate or blood pressure
 - confusion
 - loss of consciousness (pass out)
-
 - take Mellaril® (thioridazine).
   Do not take Mellaril® within 5 weeks of stopping SARAFEM because this can cause serious heart rhythm problems or sudden death.
 - take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
@@ -250,4 +259,4 @@ Manufactured by: Pharmaceutics International, Inc., Hunt Valley, MD 21031 for Wa
 
 Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866
 
-0210G093 Revised 07/2013
+114600 Content Updated: October 2014
