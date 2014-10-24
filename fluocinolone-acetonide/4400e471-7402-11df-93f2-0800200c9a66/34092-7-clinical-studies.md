@@ -31,7 +31,7 @@ Figure 2: Proportion of subjects with >=15 Letters Improvement from Baseline BCV
 
 Figure 3: Mean BCVA Change from Baseline
 
-The BCVA outcomes for the Pseudophakic and Phakic subgroups from Studies 1 and 2 at Month 24 are presented in Table 4.
+The BCVA outcomes for the Pseudophakic and Phakic subgroups from Studies 1 and 2 at Month 24 are presented in Table 5.
 
 Table 5: Visual Acuity outcomes at Month 24 (Subgroup for pooled data with LOCF)
 
