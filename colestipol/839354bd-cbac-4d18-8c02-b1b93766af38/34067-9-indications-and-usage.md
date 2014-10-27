@@ -2,8 +2,8 @@
 
 Since no drug is innocuous, strict attention should be paid to the indications and contraindications, particularly when selecting drugs for chronic long-term use.
 
-Colestipol HCl for oral suspension USP is indicated as adjunctive therapy to diet for the reduction of elevated serum total and low-density lipoprotein (LDL) cholesterol in patients with primary hypercholesterolemia (elevated low density lipoproteins [LDL] cholesterol) who do not respond adequately to diet.
-Generally, colestipol HCl for oral suspension USP has no clinically significant effect on serum triglycerides, but with its use triglyceride levels may be raised in some patients.
+Colestipol hydrochloride for oral suspension, USP is indicated as adjunctive therapy to diet for the reduction of elevated serum total and low-density lipoprotein (LDL) cholesterol in patients with primary hypercholesterolemia (elevated low density lipoproteins [LDL] cholesterol) who do not respond adequately to diet.
+Generally, colestipol hydrochloride for oral suspension, USP has no clinically significant effect on serum triglycerides, but with its use triglyceride levels may be raised in some patients.
 
 Therapy with lipid-altering agents should be a component of multiple risk factor intervention in those individuals at significantly increased risk for atherosclerotic vascular disease due to hypercholesterolemia.
 Treatment should begin and continue with dietary therapy (see NCEP guidelines).
