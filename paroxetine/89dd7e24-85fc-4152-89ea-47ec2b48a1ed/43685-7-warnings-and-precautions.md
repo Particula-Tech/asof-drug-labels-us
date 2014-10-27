@@ -71,6 +71,10 @@ If concomitant use of paroxetine hydrochloride with certain other serotonergic d
 
 Treatment with paroxetine hydrochloride and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
+## Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including paroxetine hydrochloride may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
 ## Potential Interaction with Thioridazine
 
 Thioridazine administration alone produces prolongation of the QTc interval, which is associated with serious ventricular arrhythmias, such as Torsades de pointes-type arrhythmias, and sudden death.
@@ -231,6 +235,11 @@ A lower starting dose should be used in such patients (see DOSAGE AND ADMINISTRA
 Paroxetine tablets should not be chewed or crushed, and should be swallowed whole.
 
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of paroxetine hydrochloride and triptans, tramadol, or other serotonergic agents.
+
+Patients should be advised that taking paroxetine hydrochloride can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with paroxetine hydrochloride and should counsel them in its appropriate use.
 A patient Medication Guide is available for paroxetine hydrochloride.

@@ -2,7 +2,7 @@
 
 ## Major Depressive Disorder
 
-Paroxetine tablets are indicated for the treatment of major depressive disorder.
+Paroxetine tablets, USP are indicated for the treatment of major depressive disorder.
 
 The efficacy of paroxetine tablets in the treatment of a major depressive episode was established in 6-week controlled trials of outpatients whose diagnoses corresponded most closely to the DSM-III category of major depressive disorder (see CLINICAL PHARMACOLOGY: Clinical Trials).
 A major depressive episode implies a prominent and relatively persistent depressed or dysphoric mood that usually interferes with daily functioning (nearly every day for at least 2 weeks); it should include at least four of the following eight symptoms: Change in appetite, change in sleep, psychomotor agitation or retardation, loss of interest in usual activities or decrease in sexual drive, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, and a suicide attempt or suicidal ideation.

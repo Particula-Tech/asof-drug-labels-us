@@ -1,4 +1,4 @@
-# MEDICATION GUIDE PAROXETINE TABLETS, USP (pa rox′ e teen hye″ droe klor′ ide)
+# MEDICATION GUIDE PAROXETINE TABLETS, USP (pa rox′ e teen)
 
 Read the Medication Guide that comes with paroxetine tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -48,19 +48,29 @@ This condition can be life threatening and may include:
 - •muscle rigidity
 
 3.
+Visual problems
+
+- •eye pain
+- •changes in vision
+- •swelling or redness in or around the eye
+
+- Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
+4.
 Severe allergic reactions:
 
 - •trouble breathing
 - •swelling of the face, tongue, eyes or mouth
 - •rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
-4.
+5.
 Abnormal bleeding: Paroxetine tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®*, Jantoven®*), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen) or aspirin.
 
-5.
+6.
 Seizures or convulsions
 
-6.
+7.
 Manic episodes:
 
 - •greatly increased energy
@@ -71,11 +81,11 @@ Manic episodes:
 - •excessive happiness or irritability
 - •talking more or faster than usual
 
-7.
+8.
 Changes in appetite or weight.
 Children and adolescents should have height and weight monitored during treatment.
 
-8.
+9.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
@@ -231,7 +241,7 @@ For more information about paroxetine tablets call Mylan Pharmaceuticals Inc. at
 
 What are the ingredients in paroxetine tablets?
 
-Active ingredient: paroxetine hydrochloride
+Active ingredient: paroxetine hydrochloride, USP
 
 Inactive ingredients in tablets: dibasic calcium phosphate dihydrate, FD&C Blue No. 1 Aluminum Lake, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, sodium lauryl sulfate, sodium starch glycolate, titanium dioxide and triacetin.
 
@@ -241,4 +251,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JANUARY 2014 PXTT:R9mpbmt/MG:PXTT:R3mpb/MG:PXTT:R3mt
+REVISED OCTOBER 2014 PXTT:R10mh/MG:PXTT:R4mh
