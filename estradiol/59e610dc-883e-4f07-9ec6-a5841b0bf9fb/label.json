@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022038"
+  ],
+  "inn": "estradiol",
+  "labeler": "Vertical Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "68025-065-30",
+    "68025-066-30",
+    "68025-067-30"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "estradiol",
+      "name": "DiviGel"
+    }
+  ],
+  "setid": "59e610dc-883e-4f07-9ec6-a5841b0bf9fb",
+  "source": "dailymed"
+}
