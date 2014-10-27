@@ -12,7 +12,7 @@ The structural formula is represented below:
 
 CLEOCIN PHOSPHATE in the ADD-Vantage Vial is intended for intravenous use only after further dilution with appropriate volume of ADD-Vantage diluent base solution.
 
-CLEOCIN PHOSPHATE IV Solution in the Galaxy® plastic container for intravenous use is composed of clindamycin phosphate equivalent to 300, 600 and 900 mg of clindamycin premixed with 5% dextrose as a sterile solution.
+CLEOCIN PHOSPHATE IV Solution in the GALAXY® plastic container for intravenous use is composed of clindamycin phosphate equivalent to 300, 600 and 900 mg of clindamycin premixed with 5% dextrose as a sterile solution.
 Disodium edetate has been added at a concentration of 0.04 mg/mL.
 The pH has been adjusted with sodium hydroxide and/or hydrochloric acid.
 

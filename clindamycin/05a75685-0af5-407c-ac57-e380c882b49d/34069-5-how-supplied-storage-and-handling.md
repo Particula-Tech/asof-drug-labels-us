@@ -19,8 +19,8 @@ CLEOCIN PHOSPHATE is supplied in ADD-Vantage vials as follows:
 
 Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].
 
-CLEOCIN PHOSPHATE IV Solution in Galaxy plastic containers is a sterile solution of clindamycin phosphate with 5% dextrose.
-The single dose Galaxy plastic containers are available as follows:
+CLEOCIN PHOSPHATE IV Solution in GALAXY plastic containers is a sterile solution of clindamycin phosphate with 5% dextrose.
+The single dose GALAXY plastic containers are available as follows:
 
 | 24-300 mg/50 mL containers | NDC 0009-3381-02 |
 | --- | --- |
@@ -28,5 +28,5 @@ The single dose Galaxy plastic containers are available as follows:
 | 24-900 mg/50 mL containers | NDC 0009-3382-02 |
 
 Exposure of pharmaceutical products to heat should be minimized.
-It is recommended that Galaxy plastic containers be stored at room temperature (25°C).
+It is recommended that GALAXY plastic containers be stored at room temperature (25°C).
 Avoid temperatures above 30°C.

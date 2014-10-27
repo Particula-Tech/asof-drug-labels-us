@@ -99,7 +99,7 @@ ANY UNUSED PORTION MUST BE DISCARDED WITHIN 24 HOURS AFTER INITIAL ENTRY.
 
 ## DIRECTIONS FOR USE
 
-### CLEOCIN PHOSPHATE IV Solution in Galaxy Plastic Container
+### CLEOCIN PHOSPHATE IV Solution in GALAXY Plastic Container
 
 Premixed CLEOCIN PHOSPHATE IV Solution is for intravenous administration using sterile equipment.
 Check for minute leaks prior to use by squeezing bag firmly.
@@ -122,4 +122,4 @@ Preparation for Administration:
 
 For IV Use Only.
 CLEOCIN PHOSPHATE 600 mg and 900 mg may be reconstituted in 50 mL or 100 mL, respectively, of dextrose injection 5% or sodium chloride injection 0.9% in the ADD-diluent container.
-Refer to separate instructions for ADD-Vantage‡ System.
+Refer to separate instructions for ADD-Vantage System.

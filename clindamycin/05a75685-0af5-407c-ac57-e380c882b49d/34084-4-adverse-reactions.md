@@ -12,12 +12,12 @@ An unpleasant or metallic taste occasionally has been reported after intravenous
 
 Maculopapular rash and urticaria have been observed during drug therapy.
 Generalized mild to moderate morbilliform-like skin rashes are the most frequently reported of all adverse reactions.
-Rare instances of erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
-A few cases of anaphylactoid reactions have been reported.
+
+Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (See WARNINGS).
+Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
+Anaphylactoid reactions have also been reported.
 If a hypersensitivity reaction occurs, the drug should be discontinued.
 The usual agents (epinephrine, corticosteroids, antihistamines) should be available for emergency treatment of serious reactions.
-Acute Generalised Exanthematous Pustulosis (AGEP).
-Toxic epidermal necrolysis.
 
 ## Skin and Mucous Membranes
 
@@ -29,7 +29,7 @@ Jaundice and abnormalities in liver function tests have been observed during cli
 
 ## Renal
 
-Although no direct relationship of clindamycin to renal damage has been established, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed in rare instances.
+Although no direct relationship of clindamycin to renal damage has been established, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed.
 
 ## Hematopoietic
 
@@ -39,7 +39,7 @@ No direct etiologic relationship to concurrent clindamycin therapy could be made
 
 ## Immune system
 
-Drug reaction with eosinophilia and systemic symptoms (DRESS)
+Drug reaction with eosinophilia and systemic symptoms (DRESS) cases have been reported.
 
 ## Local Reactions
 
@@ -48,9 +48,9 @@ Reactions can be minimized or avoided by giving deep intramuscular injections an
 
 ## Musculoskeletal
 
-Rare instances of polyarthritis have been reported.
+Polyarthritis cases have been reported.
 
 ## Cardiovascular
 
-Rare instances of cardiopulmonary arrest and hypotension have been reported following too rapid intravenous administration.
+Cardiopulmonary arrest and hypotension have been reported following too rapid intravenous administration.
 (See DOSAGE AND ADMINISTRATION section.)

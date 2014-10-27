@@ -2,6 +2,8 @@
 
 See WARNING box.
 
+## Clostridium difficile associated diarrhea
+
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PHOSPHATE, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
@@ -13,7 +15,14 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+## Severe Skin Reactions
+
+Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported.
+In case of such an event, treatment should be permanently discontinued.
+
 A careful inquiry should be made concerning previous sensitivities to drugs and other allergens.
+
+## Benzyl Alcohol Toxicity in Pediatric Patients ("Gasping Syndrome")
 
 This product contains benzyl alcohol as a preservative.
 The preservative benzyl alcohol has been associated with serious adverse events, including the "gasping syndrome", and death in pediatric patients.
@@ -83,21 +92,19 @@ Both tests were negative.
 
 Fertility studies in rats treated orally with up to 300 mg/kg/day (approximately 1.1 times the highest recommended adult human dose based on mg/m2) revealed no effects on fertility or mating ability.
 
-In oral embryo fetal development studies in rats and subcutaneous embryo fetal development studies in rats and rabbits, no developmental toxicity was observed except at doses that produced maternal toxicity.
-
 ## Pregnancy
 
 ### Teratogenic effects
 
 #### Pregnancy Category B
 
-Oral and subcutaneous reproductive toxicity studies in rats and rabbits revealed no evidence of impaired fertility or harm to the fetus due to clindamycin, except at doses that caused maternal toxicity.
-Animal reproduction studies are not always predictive of human response.
-
 In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
 
 Clindamycin should be used during the first trimester of pregnancy only if clearly needed.
 There are no adequate and well-controlled studies in pregnant women during the first trimester of pregnancy.
+Because animal reproduction studies are not always predictive of the human response, this drug should be used during pregnancy only if clearly needed.
+
+Reproduction studies performed in rats and mice using oral doses of clindamycin up to 600 mg/kg/day (2.1 and 1.1 times the highest recommended adult human dose based on mg/m2, respectively) or subcutaneous doses of clindamycin up to 250 mg/kg/day (0.9 and 0.5 times the highest recommended adult human dose based on mg/m2, respectively) revealed no evidence of teratogenicity.
 
 CLEOCIN PHOSPHATE Sterile Solution contains benzyl alcohol.
 Benzyl alcohol can cross the placenta.
