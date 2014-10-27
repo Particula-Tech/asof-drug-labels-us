@@ -33,7 +33,7 @@ Hemodialysis and peritoneal dialysis are not effective in removing clindamycin f
 
 Pharmacokinetic studies in elderly volunteers (61–79 years) and younger adults (18–39 years) indicate that age alone does not alter clindamycin pharmacokinetics (clearance, elimination half-life, volume of distribution, and area under the serum concentration-time curve) after IV administration of clindamycin phosphate.
 After oral administration of clindamycin hydrochloride, elimination half-life is increased to approximately 4.0 hours (range 3.4–5.1 h) in the elderly compared to 3.2 hours (range 2.1 – 4.2 h) in younger adults.
-The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function.
+The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function1.
 
 ## Microbiology
 
@@ -93,13 +93,13 @@ These reports should aid the physician in selecting the most effective antimicro
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure based on dilution methods (broth, agar, or microdilution)1,2 or equivalent using standardized inoculum and concentrations of clindamycin.
+The MICs should be determined using a standardized procedure based on dilution methods (broth, agar, or microdilution)2,3 or equivalent using standardized inoculum and concentrations of clindamycin.
 The MIC values should be interpreted according to the criteria provided in Table 1.
 
 #### Diffusion Techniques
 
 Quantitative methods that require the measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The standardized procedure1,3 requires the use of standardized inoculum concentrations.
+The standardized procedure2,4 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 2 mcg of clindamycin to test the susceptibility of microorganisms to clindamycin.
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 2 mcg clindamycin disk should be interpreted according to the criteria in Table 1.
 
@@ -124,7 +124,7 @@ A report of "Resistant" indicates that the pathogen is not likely to be inhibite
 
 #### Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard clindamycin powder should provide the MIC ranges in Table 2.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.2,3,4,5 Standard clindamycin powder should provide the MIC ranges in Table 2.
 For the disk diffusion technique using the 2 mcg clindamycin disk the criteria provided in Table 2 should be achieved.
 
 Table 2.
