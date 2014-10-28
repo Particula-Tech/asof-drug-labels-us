@@ -16,7 +16,11 @@ If your doctor prescribed the
 
 15 mg tablet:
 
+7.5 mg (one-half of a tablet)
+
 If your doctor prescribed the 30 mg tablet:
+
+15 mg (one-half of a tablet)
 
 To break a multi-scored tablet accurately and easily, hold the tablet between your thumbs and index fingers close to the appropriate tablet score (groove) as shown in the picture.
 Then, with the tablet score facing you, apply pressure and snap the tablet segments apart (segments breaking incorrectly should not be used).
