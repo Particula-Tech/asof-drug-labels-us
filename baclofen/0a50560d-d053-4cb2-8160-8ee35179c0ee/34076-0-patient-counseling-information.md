@@ -29,6 +29,6 @@ SynchroMed is a trademark of Medtronic, Inc. © 2013 Mallinckrodt.
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-Issued 10/2013 P/N: 750-05421
+Issued 10/2013 P/N: 750-0543
 
 Mallinckrodt™ Pharmaceuticals
