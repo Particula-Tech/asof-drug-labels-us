@@ -13,4 +13,4 @@ Verelan® is a registered trademark of Alkermes Pharma Ireland Limited CODAS® i
 Printed in USA
 
 Material Code: 6002421 Rev.
-11/2013
+06/2014
