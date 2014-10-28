@@ -152,8 +152,8 @@ How should I store Adrenaclick?
   The solution should be clear.
   If the solution is discolored (pinkish or brown), cloudy or contains solid particles, replace the unit.
 - Always keep your Adrenaclick auto-injector in the carrying case to protect it from damage; however, the carrying case is not waterproof.
-- The two gray end caps marked (1) and (2) help to prevent accidental injection.
-  Do not remove the gray end caps until you are ready to use Adrenaclick.
+- The two blue end caps help to prevent accidental injection.
+  Do not remove the blue end caps until you are ready to use Adrenaclick.
 - Your Adrenaclick has an expiration date.
   Replace it before the expiration date.
 
@@ -183,8 +183,8 @@ Important Information
 - The Adrenaclick 0.15 mg auto-injector has an orange colored label.
 - The Adrenaclick Trainer has a beige color, and contains no medicine and no needle.
 - Your auto-injector is designed to work through clothing.
-- The two gray end caps marked (1) and (2) on the Adrenaclick auto-injector help to prevent accidental injection of the device.
-  Do not remove the gray end caps until you are ready to use it.
+- The two blue end caps on the Adrenaclick auto-injector help to prevent accidental injection of the device.
+  Do not remove the blue end caps until you are ready to use it.
 - Only inject into the middle of the outer thigh (upper leg).
   Never inject into any other part of the body.
 - Never put your thumb, fingers, or your hand over the red tip.

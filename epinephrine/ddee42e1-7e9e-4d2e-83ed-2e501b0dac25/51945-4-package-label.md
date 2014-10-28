@@ -6,10 +6,6 @@ ADRENACLICK® (epinephrine injection, USP) auto-injector 0.15 mg
 
 PRINCIPAL DISPLAY PANEL - 0.15 mg WRAP LABEL Amedra Pharmaceuticals ADRENACLICK® (epinephrine injection, USP) auto-injector 0.15 mg
 
-Outer Wrap
-
-Inner Wrap
-
 PRINCIPAL DISPLAY PANEL - 0.15 mg CARTON
 
 Rx Only
@@ -34,9 +30,7 @@ ADRENACLICK® (epinephrine injection, USP) auto-injector 0.3 mg
 
 PRINCIPAL DISPLAY PANEL - 0.3 mg WRAP LABEL Amedra Pharmaceuticals ADRENACLICK® (epinephrine injection, USP) auto-injector 0.3 mg
 
-Outer Wrap
-
-Inner Wrap
+Wrap Label
 
 PRINCIPAL DISPLAY PANEL - 0.3 mg CARTON
 

@@ -11,7 +11,7 @@ STEP 1.
 Prepare Adrenaclick for injection
 
 - Remove Adrenaclick from its protective carrying case.
-- Pull off gray end cap with the [1]; you will now see a red tip.
+- Pull off blue end caps; you will now see a red tip.
   Grasp the auto-injector in your fist with the red tip pointing downward.
   See Figure A.
 
@@ -23,19 +23,14 @@ Note:
 
 Figure A
 
-- Pull off gray end cap with [2].
-  See Figure B.
-
-Figure B
-
 STEP 2.
 Administer Adrenaclick
 
 - Put the red tip against the middle of the outer thigh (upper leg) at a 90° angle (perpendicular) to the thigh.
 - Press down hard and hold firmly against the thigh for approximately 10 seconds to deliver the medicine.
-  See Figure C.
+  See Figure B.
 
-Figure C
+Figure B
 
 - Only inject into the middle of the outer thigh.
   Do not inject into any other part of the body.
@@ -57,14 +52,14 @@ Carefully cover the needle with the carrying case.
 
 - Lay the labeled half of the carrying case cover down on a flat surface.
   Use one hand to carefully slide the end of the auto-injector, needle first, into the labeled carrying case cover.
+  See Figure C.
+
+Figure C
+
+- After the needle is inside the labeled cover, push the unlabeled half of the carrying case cover firmly over the non-needle end of the auto-injector.
   See Figure D.
 
 Figure D
-
-- After the needle is inside the labeled cover, push the unlabeled half of the carrying case cover firmly over the non-needle end of the auto-injector.
-  See Figure E.
-
-Figure E
 
 - Take your used Adrenaclick auto-injector with you when you go to see a healthcare provider.
 - Tell the healthcare provider that you have received an injection of epinephrine.
@@ -88,11 +83,11 @@ For more information and video instructions on the use of Adrenaclick, go to www
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-04/2014
+10/2014
 
 © 2014 Amedra Pharmaceuticals LLC, Horsham, PA.
 All rights reserved.
 
 Manufactured for and Distributed by: Amedra Pharmaceuticals LLC Horsham, PA 19044
 
-51007-05
+51007-06

@@ -38,7 +38,7 @@ Storage and Handling
 Instruct patients to inspect the epinephrine solution visually through the viewing window periodically.
 Adrenaclick should be replaced if the epinephrine solution appears discolored (pinkish or brown), cloudy, or contains particles.
 Epinephrine is light sensitive and should be stored in the outer case provided to protect it from light.
-Patients should be instructed that Adrenaclick must be properly disposed of once the gray caps have been removed or after use [see How Supplied/Storage and Handling (16.2)].
+Patients should be instructed that Adrenaclick must be properly disposed of once the blue caps have been removed or after use [see How Supplied/Storage and Handling (16.2)].
 
 Complete patient information, including dosage, directions for proper administration and precautions are provided inside each Adrenaclick auto-injector carton.
 
@@ -50,4 +50,4 @@ This product and the use thereof is proprietary and protected under one or more 
 
 For inquiries call 1-888-894-6528
 
-51006-05
+51006-06
