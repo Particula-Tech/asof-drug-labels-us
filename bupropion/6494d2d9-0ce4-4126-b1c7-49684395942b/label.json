@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA022108"
+  ],
+  "inn": "bupropion",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-5810-07",
+    "0187-5810-30",
+    "0187-5811-07",
+    "0187-5811-30",
+    "0187-5812-07",
+    "0187-5812-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "bupropion hydrobromide",
+      "name": "Aplenzin"
+    }
+  ],
+  "setid": "6494d2d9-0ce4-4126-b1c7-49684395942b",
+  "source": "dailymed"
+}
