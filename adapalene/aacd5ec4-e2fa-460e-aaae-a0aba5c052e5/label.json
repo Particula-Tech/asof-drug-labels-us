@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA201000"
+  ],
+  "inn": "adapalene",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0472-0126-45"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "adapalene",
+      "name": "adapalene"
+    }
+  ],
+  "setid": "aacd5ec4-e2fa-460e-aaae-a0aba5c052e5",
+  "source": "dailymed"
+}
