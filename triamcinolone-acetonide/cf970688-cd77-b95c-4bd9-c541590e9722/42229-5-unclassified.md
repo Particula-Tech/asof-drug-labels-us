@@ -2,6 +2,8 @@ NOT FOR USE IN NEONATES CONTAINS BENZYL ALCOHOL
 
 For Intramuscular or Intra-articular Use Only NOT FOR INTRAVENOUS, INTRADERMAL, INTRAOCULAR, EPIDURAL, OR INTRATHECAL USE
 
-Bristol-Myers Squibb Company Princeton, NJ 08543 USA Product of Italy
+Bristol-Myers Squibb Company Princeton, NJ 08543 USA Product of Spain
 
-Rev July 2014
+1221153A6
+
+Rev September 2014
