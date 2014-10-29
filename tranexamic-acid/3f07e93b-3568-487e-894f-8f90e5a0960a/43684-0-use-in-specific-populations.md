@@ -1,8 +1,6 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
-
-(Category B)
+## 8.1 Pregnancy (Category B)
 
 Tranexamic acid tablets are not indicated for use in pregnant women.
 Reproduction studies have been performed in mice, rats and rabbits and have revealed no evidence of impaired fertility or harm to the fetus due to tranexamic acid.
@@ -20,7 +18,7 @@ Tranexamic acid tablets should be used during lactation only if clearly needed.
 ## 8.4 Pediatric Use
 
 Tranexamic acid tablets are indicated for women of reproductive age and are not intended for use in premenarcheal girls.
-Tranexamic acid tablets have not been studied in adolescents under age 18 with heavy menstrual bleeding.
+Based on a pharmacokinetic study in 20 adolescent females, 12 to 16 years of age, no dose adjustment is needed in the adolescent population [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -28,10 +26,10 @@ Tranexamic acid tablets are indicated for women of reproductive age and are not 
 
 ## 8.6 Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of Tranexamic acid tablets has not been studied.
+The effect of renal impairment on the pharmacokinetics of tranexamic acid tablets has not been studied.
 Because tranexamic acid is primarily eliminated via the kidneys by glomerular filtration with more than 95% excreted as unchanged in urine, dosage adjustment in patient with renal impairment is needed [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of Tranexamic acid tablets has not been studied.
+The effect of hepatic impairment on the pharmacokinetics of tranexamic acid tablets has not been studied.
 Because only a small fraction of the drug is metabolized, dosage adjustment in patients with hepatic impairment is not needed [see Clinical Pharmacology (12.3)].

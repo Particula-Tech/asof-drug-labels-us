@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosage
 
-The recommended dose of Tranexamic acid tablets for women with normal renal function is two 650 mg tablets taken three times daily (3900 mg/day) for a maximum of 5 days during monthly menstruation.
+The recommended dose of tranexamic acid tablets for women with normal renal function is two 650 mg tablets taken three times daily (3900 mg/day) for a maximum of 5 days during monthly menstruation.
 Tranexamic acid tablets may be administered without regard to meals.
 Tablets should be swallowed whole and not chewed or broken apart.
 

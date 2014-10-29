@@ -6,25 +6,25 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Short-term Studies
 
-The safety of Tranexamic acid tablets in the treatment of heavy menstrual bleeding (HMB) was studied in two randomized, double-blind, placebo-controlled studies [see Clinical Studies (14)].
-One study compared the effects of two doses of Tranexamic acid tablets (1950 mg and 3900 mg given daily for up to 5 days during each menstrual period) versus placebo over a 3-cycle treatment duration.
-A total of 304 women were randomized to this study, with 115 receiving at least one dose of 3900 mg/day of Tranexamic acid tablets.
-A second study compared the effects of Tranexamic acid tablets (3900 mg/day) versus placebo over a 6-cycle treatment duration.
-A total of 196 women were randomized to this study, with 117 receiving at least one dose of Tranexamic acid tablets.
+The safety of tranexamic acid tablets in the treatment of heavy menstrual bleeding (HMB) was studied in two randomized, double-blind, placebo-controlled studies [see Clinical Studies (14)].
+One study compared the effects of two doses of tranexamic acid tablets (1950 mg and 3900 mg given daily for up to 5 days during each menstrual period) versus placebo over a 3-cycle treatment duration.
+A total of 304 women were randomized to this study, with 115 receiving at least one dose of 3900 mg/day of tranexamic acid tablets.
+A second study compared the effects of tranexamic acid tablets (3900 mg/day) versus placebo over a 6-cycle treatment duration.
+A total of 196 women were randomized to this study, with 117 receiving at least one dose of tranexamic acid tablets.
 In both studies, subjects were generally healthy women who had menstrual blood loss of ≥ 80 mL.
 
-In these studies, subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21-35 days, and a BMI of approximately 32 kg/m2.
+In these studies, subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21 to 35 days, and a BMI of approximately 32 kg/m2.
 On average, subjects had a history of HMB for approximately 10 years and 40% had fibroids as determined by transvaginal ultrasound.
 Approximately 70% were Caucasian, 25% were Black, and 5% were Asian, Native American, Pacific Islander, or Other.
 Seven percent (7%) of all subjects were of Hispanic origin.
 Women using hormonal contraception were excluded from the trials.
 
-The rates of discontinuation due to adverse events during the two clinical trials were comparable between Tranexamic acid tablets and placebo.
-In the 3-cycle study, the rate in the 3900 mg Tranexamic Acid tablets dose group was 0.8% as compared to 1.4% in the placebo group.
-In the 6-cycle study, the rate in the Tranexamic acid tablets group was 2.4% as compared to 4.1% in the placebo group.
-Across the studies, the combined exposure to 3900 mg/day Tranexamic acid tablets was 947 cycles and the average duration of use was 3.4 days per cycle.
+The rates of discontinuation due to adverse events during the two clinical trials were comparable between tranexamic acid tablets and placebo.
+In the 3-cycle study, the rate in the 3900 mg tranexamic Acid tablets dose group was 0.8% as compared to 1.4% in the placebo group.
+In the 6-cycle study, the rate in the tranexamic acid tablets group was 2.4% as compared to 4.1% in the placebo group.
+Across the studies, the combined exposure to 3900 mg/day tranexamic acid tablets was 947 cycles and the average duration of use was 3.4 days per cycle.
 
-A list of adverse events occurring in ≥ 5% of subjects and more frequently in Tranexamic acid tablets treated subjects receiving 3900 mg/day compared to placebo is provided in Table 2.
+A list of adverse events occurring in ≥ 5% of subjects and more frequently in tranexamic acid tablets treated subjects receiving 3900 mg/day compared to placebo is provided in Table 2.
 
 Table 2.
 Adverse Events Reported by ≥ 5% of Subjects Treated with Tranexamic Acid Tablets and More Frequently in Tranexamic Acid Tablets-treated Subjects
@@ -56,23 +56,23 @@ e Arthralgia includes joint stiffness and swelling
 
 Long-term Studies
 
-Long-term safety of Tranexamic acid tablets was studied in two open-label studies.
+Long-term safety of tranexamic acid tablets was studied in two open-label studies.
 In one study, subjects with physician-diagnosed heavy menstrual bleeding (not using the alkaline hematin methodology) were treated with 3900 mg/day for up to 5 days during each menstrual period for up to 27 menstrual cycles.
 A total of 781 subjects were enrolled and 239 completed the study through 27 menstrual cycles.
 A total of 12.4% of the subjects withdrew due to adverse events.
 Women using hormonal contraception were excluded from the study.
-The total exposure in this study to 3900 mg/day Tranexamic acid tablets was 10,213 cycles.
-The average duration of Tranexamic acid tablets use was 2.9 days per cycle.
+The total exposure in this study to 3900 mg/day tranexamic acid tablets was 10,213 cycles.
+The average duration of tranexamic acid tablets use was 2.9 days per cycle.
 
 A long-term open-label extension study of subjects from the two short-term efficacy studies was also conducted in which subjects were treated with 3900 mg/day for up to 5 days during each menstrual period for up to 9 menstrual cycles.
 A total of 288 subjects were enrolled and 196 subjects completed the study through 9 menstrual cycles.
 A total of 2.1% of the subjects withdrew due to adverse events.
-The total exposure to 3900 mg/day Tranexamic acid tablets in this study was 1,956 cycles.
-The average duration of Tranexamic acid tablets use was 3.5 days per cycle.
+The total exposure to 3900 mg/day tranexamic acid tablets in this study was 1,956 cycles.
+The average duration of tranexamic acid tablets use was 3.5 days per cycle.
 
 The types and severity of adverse events in these two long-term open-label trials were similar to those observed in the double-blind, placebo-controlled studies although the percentage of subjects reporting them was greater in the 27-month study, most likely because of the longer study duration.
 
-A case of severe allergic reaction to Tranexamic acid tablets was reported in the extension trial, involving a subject on her fourth cycle of treatment, who experienced dyspnea, tightening of her throat, and facial flushing that required emergency medical treatment.
+A case of severe allergic reaction to tranexamic acid tablets was reported in the extension trial, involving a subject on her fourth cycle of treatment, who experienced dyspnea, tightening of her throat, and facial flushing that required emergency medical treatment.
 
 ## 6.2 Postmarketing Experience
 
@@ -84,6 +84,6 @@ Based on US and worldwide postmarketing reports, the following have been reporte
 - Nausea, vomiting, and diarrhea
 - Allergic skin reactions
 - Anaphylactic shock and anaphylactoid reactions
-- Thromboembolic events (e.g., deep vein thrombosis, pulmonary embolism, cerebral thrombosis, acute renal cortical necrosis, and central retinal artery and vein obstruction)
+- Thromboembolic events (e.g., deep vein thrombosis, pulmonary embolism, cerebral thrombosis, acute renal cortical necrosis, and central retinal artery and vein obstruction); cases have been associated with concomitant use of combination hormonal contraceptives
 - Impaired color vision and other visual disturbances
 - Dizziness

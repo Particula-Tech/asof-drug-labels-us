@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-The efficacy and safety of Tranexamic acid tablets in the treatment of heavy menstrual bleeding (HMB) was demonstrated in one 3-cycle treatment and one 6-cycle treatment, randomized, double-blind, placebo-controlled study [see Adverse Reactions (6)].
+The efficacy and safety of tranexamic acid tablets in the treatment of heavy menstrual bleeding (HMB) was demonstrated in one 3-cycle treatment and one 6-cycle treatment, randomized, double-blind, placebo-controlled study [see Adverse Reactions (6.1)].
 In these studies, HMB was defined as an average menstrual blood loss of ≥ 80 mL as assessed by alkaline hematin analysis of collected sanitary products over two baseline menstrual cycles.
-Subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21-35 days, and a BMI of approximately 32 kg/m2.
+Subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21 to 35 days, and a BMI of approximately 32 kg/m2.
 On average, subjects had an HMB history of approximately 10 years and 40% had fibroids as determined by transvaginal ultrasound.
 Approximately 70% were Caucasian, 25% were Black, and 5% were Asian, Native American, Pacific Islander, or Other.
 Seven percent (7%) of all subjects were of Hispanic origin.
@@ -15,13 +15,13 @@ Large stains (soiling beyond the undergarment) were also included as a key secon
 
 ## 14.1 Three-Cycle Treatment Study
 
-This study compared the effects of two doses of Tranexamic acid tablets (1950 mg and 3900 mg given daily for up to 5 days during each menstrual period) versus placebo on MBL over a 3-cycle treatment duration.
-Of the 294 evaluable subjects, 115 Tranexamic acid tablets 1950 mg/day subjects, 112 Tranexamic acid tablets 3900 mg/day subjects and 67 placebo subjects took at least one dose of study drug and had post-treatment data available.
+This study compared the effects of two doses of tranexamic acid tablets (1950 mg and 3900 mg given daily for up to 5 days during each menstrual period) versus placebo on MBL over a 3-cycle treatment duration.
+Of the 294 evaluable subjects, 115 tranexamic acid tablets 1950 mg/day subjects, 112 tranexamic acid tablets 3900 mg/day subjects and 67 placebo subjects took at least one dose of study drug and had post-treatment data available.
 
 Results are shown in Table 4.
-MBL was statistically significantly reduced in patients treated with 3900 mg/day Tranexamic acid tablets compared to placebo.
+MBL was statistically significantly reduced in patients treated with 3900 mg/day tranexamic acid tablets compared to placebo.
 Study success also required achieving a reduction in MBL that was determined to be clinically meaningful to the subjects.
-The 1950 mg/day Tranexamic acid tablets dose did not meet the criteria for success.
+The 1950 mg/day tranexamic acid tablets dose did not meet the criteria for success.
 
 Table 4.
 Mean Reduction from Baseline in MBL
@@ -64,11 +64,11 @@ e Non-significant difference versus placebo
 
 ## 14.2 Six-Cycle Treatment Study
 
-This study compared the effects of Tranexamic acid tablets 3900 mg/day given daily for up to 5 days during each menstrual period versus placebo on MBL over a 6-cycle treatment duration.
-Of the 187 evaluable subjects, 115 Tranexamic acid tablets subjects and 72 placebo subjects took at least one dose of study drug and had post-treatment data available.
+This study compared the effects of tranexamic acid tablets 3900 mg/day given daily for up to 5 days during each menstrual period versus placebo on MBL over a 6-cycle treatment duration.
+Of the 187 evaluable subjects, 115 tranexamic acid tablets subjects and 72 placebo subjects took at least one dose of study drug and had post-treatment data available.
 
 Results are shown in Table 6.
-MBL was statistically significantly reduced in patients treated with 3900 mg/day Tranexamic acid tablets compared to placebo.
+MBL was statistically significantly reduced in patients treated with 3900 mg/day tranexamic acid tablets compared to placebo.
 Study success also required achieving a reduction in MBL that was determined to be clinically meaningful to the subjects.
 
 Table 6.
@@ -81,7 +81,7 @@ Mean Reduction from Baseline in MBL
 
 * p<0.001 versus placebo
 
-Limitations on social, leisure, and physical activities were also statistically significantly reduced in the Tranexamic acid tablets group compared to placebo (see Table 7).
+Limitations on social, leisure, and physical activities were also statistically significantly reduced in the tranexamic acid tablets group compared to placebo (see Table 7).
 No statistically significant treatment difference was observed in response rates on the number of large stains.
 
 Table 7.
@@ -112,5 +112,7 @@ e Non-significant difference versus placebo
 
 ## 14.3 MBL Results over Time
 
-The efficacy of Tranexamic acid tablets 3900 mg/day over 3 menstrual cycles and over 6 menstrual cycles was demonstrated versus placebo in the double-blind, placebo-controlled efficacy studies (see Figure 1).
+The efficacy of tranexamic acid tablets 3900 mg/day over 3 menstrual cycles and over 6 menstrual cycles was demonstrated versus placebo in the double-blind, placebo-controlled efficacy studies (see Figure 1).
 The change in MBL from baseline was similar across all post-baseline treatment cycles.
+
+Figure 1: MBL Levels over Duration of Therapy

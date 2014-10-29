@@ -40,4 +40,4 @@ In some female dogs, the presence of inflammatory exudate over the bulbar conjun
 Histopathological examinations did not reveal any retinal alteration.
 No adverse effects were observed at 5 times the human dose.
 
-In other studies, focal areas of retinal degeneration were observed in cats, dogs and rats following oral or intravenous tranexamic acid doses at 6-40 times the recommended usual human dose based on mg/m2 (actual animal doses between 250-1600 mg/kg/day).
+In other studies, focal areas of retinal degeneration were observed in cats, dogs and rats following oral or intravenous tranexamic acid doses at 6 to 40 times the recommended usual human dose based on mg/m2 (actual animal doses between 250 to 1600 mg/kg/day).
