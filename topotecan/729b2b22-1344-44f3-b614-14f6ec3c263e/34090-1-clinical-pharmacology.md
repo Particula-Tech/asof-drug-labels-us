@@ -11,11 +11,11 @@ Mammalian cells cannot efficiently repair these double strand breaks.
 
 The dose-limiting toxicity of topotecan is leukopenia.
 White blood cell count decreases with increasing topotecan dose or topotecan AUC.
-When topotecan is administered at a dose of 1.5 mg/m2/day for 5 days, an 80% to 90% decrease in white blood cell count at nadir is typically observed after the first cycle of therapy.
+When topotecan is administered at a dose of 1.5 mg/m 2/day for 5 days, an 80% to 90% decrease in white blood cell count at nadir is typically observed after the first cycle of therapy.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of topotecan have been evaluated in cancer patients following doses of 0.5 to 1.5 mg/m2 administered as a 30-minute infusion.
+The pharmacokinetics of topotecan have been evaluated in cancer patients following doses of 0.5 to 1.5 mg/m 2 administered as a 30-minute infusion.
 Topotecan exhibits multiexponential pharmacokinetics with a terminal half-life of 2 to 3 hours.
 Total exposure (AUC) is approximately dose-proportional.
 
@@ -34,7 +34,7 @@ The mean metabolite:parent AUC ratio was about 3% for total topotecan and topote
 
 Renal clearance is an important determinant of topotecan elimination.
 
-In a mass balance/excretion study in 4 patients with solid tumors, the overall recovery of total topotecan and its N-desmethyl metabolite in urine and feces over 9 days averaged 73.4 ± 2.3% of the administered IV dose.
+In a mass balance/excretion trial in 4 patients with solid tumors, the overall recovery of total topotecan and its N-desmethyl metabolite in urine and feces over 9 days averaged 73.4 ± 2.3% of the administered IV dose.
 Mean values of 50.8 ± 2.9% as total topotecan and 3.1 ± 1.0% as N-desmethyl topotecan were excreted in the urine following IV administration.
 Fecal elimination of total topotecan accounted for 17.9 ± 3.6% while fecal elimination of N-desmethyl topotecan was 1.7 ± 0.6%.
 An O-glucuronidation metabolite of topotecan and N-desmethyl topotecan has been identified in the urine.
@@ -56,8 +56,8 @@ The effect of race on topotecan pharmacokinetics has not been studied.
 ### Effect of Renal Impairment:
 
 In patients with mild renal impairment (creatinine clearance of 40 to 60 mL/min.), topotecan plasma clearance was decreased to about 67% of the value in patients with normal renal function.
-In patients with moderate renal impairment (Clcr of 20 to 39 mL/min.), topotecan plasma clearance was reduced to about 34% of the value in control patients, with an increase in half-life.
-Mean half-life, estimated in 3 renally impaired patients, was about 5.0 hours.
+In patients with moderate renal impairment (Cl cr of 20 to 39 mL/min.), topotecan plasma clearance was reduced to about 34% of the value in control patients, with an increase in half-life.
+Mean half-life, estimated in 3 patients with renal impairment, was about 5.0 hours.
 Dosage adjustment is recommended for these patients [see Dosage and Administration (2.3)].
 
 ### Effect of Hepatic Impairment:
@@ -67,12 +67,24 @@ Topotecan half-life increased slightly, from 2.0 hours to 2.5 hours, but these h
 
 ### Drug Interactions:
 
-Pharmacokinetic studies of the interaction of topotecan with concomitantly administered medications have not been formally investigated.
+Pharmacokinetic trials of the interaction of topotecan with concomitantly administered medications have not been formally investigated.
 
 In vitro inhibition studies using marker substrates known to be metabolized by human P450 CYP1A2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E, CYP3A, or CYP4A or dihydropyrimidine dehydrogenase indicate that the activities of these enzymes were not altered by topotecan.
 Enzyme inhibition by topotecan has not been evaluated in vivo.
 
-No pharmacokinetic data are available following topotecan (0.75 mg/m2/day for 3 consecutive days) and cisplatin (50 mg/m2/day on day 1) in patients with cervical cancer.
+No pharmacokinetic data are available following topotecan (0.75 mg/m 2/day for 3 consecutive days) and cisplatin (50 mg/m 2/day on day 1) in patients with cervical cancer.
 
 Myelosuppression was more severe when topotecan hydrochloride for injection was given in combination with cisplatin.
-[see Drug Interactions (7)].
+[see Drug Interactions (7)]
+
+### Cisplatin:
+
+Administration of cisplatin (60 or 75 mg/m 2 on day 1) before topotecan (0.75 mg/m 2/day on days 1 to 5) in 9 patients with ovarian cancer had no significant effect on the Cmax and AUC of total topotecan.
+
+Topotecan had no effect on the pharmacokinetics of free platinum in 15 patients with ovarian cancer who were administered cisplatin 50 mg/m 2 (n = 9) or 75 mg/m 2 (n = 6) on day 2 after paclitaxel 110 mg/m 2 on day 1 before topotecan 0.3 mg/m 2 IV daily on days 2 to 6.
+Topotecan had no effect on dose-normalized (60 mg/m 2) Cmax values of free platinum in 13 patients with ovarian cancer who were administered 60 mg/m 2 (n = 10) or 75 mg/m 2 (n = 3) cisplatin on day 1 before topotecan 0.75 mg/m 2IV daily on days 1 to 5.
+
+No pharmacokinetic data are available following topotecan (0.75 mg/m 2/day for 3 consecutive days) and cisplatin (50 mg/m 2/day on day 1) in patients with cervical cancer.
+
+Myelosuppression was more severe when topotecan hydrochloride for injection was given in combination with cisplatin.
+[see Drug Interactions (7)]

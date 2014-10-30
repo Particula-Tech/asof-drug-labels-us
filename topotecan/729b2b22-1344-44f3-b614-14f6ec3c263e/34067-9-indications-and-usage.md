@@ -7,4 +7,4 @@ Topotecan Hydrochloride for Injection is indicated for the treatment of:
 
 Topotecan Hydrochloride for Injection in combination with cisplatin is indicated for the treatment of:
 
-- stage IV-B, recurrent, or persistent carcinoma of the cervix which is not amenable to curative treatment with surgery and/or radiation therapy.
+- Stage IV-B, recurrent, or persistent carcinoma of the cervix which is not amenable to curative treatment with surgery and/or radiation therapy.

@@ -10,8 +10,8 @@ Inactive ingredients are mannitol, 48 mg, and tartaric acid, 20 mg.
 Hydrochloric acid and sodium hydroxide may be used to adjust the pH.
 The solution pH ranges from 2.5 to 3.5.
 
-The chemical name for topotecan hydrochloride is (S)-10-[(dimethylamino)methyl]-4-ethyl-4,9-dihydroxy-1H-pyrano[3’,4’:6,7] indolizino [1,2-b]quinoline-3,14-(4H,12H)-dione monohydrochloride.
-It has the molecular formula C23H23N3O5•HCl and a molecular weight of 457.9.
+The chemical name for topotecan hydrochloride is (S)-10-[(dimethylamino)methyl]-4-ethyl-4,9-dihydroxy-1 H-pyrano[3’,4’:6,7] indolizino [1,2- b]quinoline-3,14-(4 H,12 H)-dione monohydrochloride.
+It has the molecular formula C 23H 23N 3O 5•HCl and a molecular weight of 457.9.
 
 Topotecan hydrochloride has the following structural formula:
 
