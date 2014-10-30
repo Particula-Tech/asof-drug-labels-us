@@ -4,6 +4,6 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
-07-19-66-566
+07-19-73-082
 
-Revised, October 2011
+Revised, June 2014

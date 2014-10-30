@@ -35,6 +35,8 @@ PL 2040 Plastic
 
 07-34-63-664
 
+500 mg, Panel 1 of 2
+
 Baxter Logo
 
 Vancomycin Injection, USP
@@ -58,11 +60,13 @@ PL 2040 Plastic
 
 07-04-65-192
 
+500 mg, Panel 2 of 2
+
 NDC 0338-3551-48 Code 2G3551
 
 *FOR BAR CODE POSITION ONLY (01) 20303383551485
 
-GALAXY Container
+GALAXYContainer
 
 Sterile Nonpyrogenic
 
@@ -113,6 +117,8 @@ PL 2040 Plastic
 
 07-34-63-665
 
+1g - Panel 1
+
 Baxter Logo
 
 Vancomycin Injection, USP
@@ -136,7 +142,9 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 PL 2040 Plastic
 
-07-04-65-193
+0 7-04-65-193
+
+1g - Panel 2
 
 NDC 0338-3552-48 Code 2G3552
 
@@ -157,6 +165,8 @@ Check for minute leaks by squeezing thawed bag firmly.
 If leaks are found, discard bag as sterility may be impaired.
 Do not use unless solution is clear.
 Rx Only.
+
+Container Label
 
 Baxter
 
@@ -197,6 +207,8 @@ PL 2040 Plastic
 
 07-34-61-824
 
+750 mg - Panel 1
+
 Baxter Logo
 
 Vancomycin Injection, USP
@@ -219,6 +231,8 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 PL 2040 Plastic
 
 07-04-66-117
+
+750 mg - Panel 2
 
 NDC 0338-3580-48 Code 2G3580
 
