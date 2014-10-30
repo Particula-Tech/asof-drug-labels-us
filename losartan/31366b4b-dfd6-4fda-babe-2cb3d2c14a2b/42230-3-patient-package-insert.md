@@ -1,15 +1,18 @@
 # PATIENT INFORMATION ABOUT
 
-LOSARTAN POTASSIUM TABLETS USP (loe sar' tan poe tas' ee um) Rx only Read the Patient Information that comes with losartan potassium tablets USP before you start taking them and each time you get a refill.
+LOSARTAN POTASSIUM TABLETS USP (loe sar' tan poe tas' ee um) Rx only
+
+Read the Patient Information that comes with losartan potassium tablets USP before you start taking them and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
+
 What is the most important information I should know about losartan potassium tablets USP?
 
-- Losartan potassium tablets USP can cause harm or death to an unborn baby.
+- Losartanpotassiumtablets USP can cause harm or death to an unborn baby.
 - Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
-- If you get pregnant while taking losartan potassium tablets USP, tell your doctor right away.
+- If you get pregnant while taking losartan potassiumtablets USP, tell your doctor right away.
 
-What are losartan potassium tablets USP?
+What are losartanpotassiumtablets USP?
 
 Losartan potassium tablets USP are a prescription medicine called an angiotensin receptor blocker (ARB).
 They are used:
@@ -25,23 +28,26 @@ High Blood Pressure (hypertension).
 Blood pressure is the force in your blood vessels when your heart beats and when your heart rests.
 You have high blood pressure when the force is too much.
 Losartan potassium tablets USP can help your blood vessels relax so your blood pressure is lower.
-Left Ventricular Hypertrophy (LVH) is an enlargement of the walls of the left chamber of the heart (the heart’s main pumping chamber).
+
+Left Ventricular Hypertrophy (LVH)is an enlargement of the walls of the left chamber of the heart (the heart’s main pumping chamber).
 LVH can happen from several things.
 High blood pressure is the most common cause of LVH.
+
 Type 2 Diabetes with Nephropathy.
 Type 2 diabetes is a type of diabetes that happens mainly in adults.
 If you have diabetic nephropathy it means that your kidneys do not work properly because of damage from the diabetes.
-Who should not take losartan potassium tablets USP?
 
-- Do not take losartan potassium tablets USP if you are allergic to any of the ingredients in losartan potassium tablets USP.
-  See the end of this leaflet for a complete list of ingredients in losartan potassium tablets USP.
-- Do not take losartan potassium tablets USP if you have diabetes and are taking a medicine called aliskiren to reduce blood pressure.
+Who should not take losartanpotassium tablets USP?
 
-What should I tell my doctor before taking losartan potassium tablets USP?
+- Do not take losartanpotassium tablets USP if you are allergic to any of the ingredients in losartanpotassium tablets USP.
+  See the end of this leaflet for a complete list of ingredients in losartan potassiumtablets USP.
+- Do not take losartan potassiumtablets USP if you have diabetes and are taking a medicine called aliskiren to reduce blood pressure.
+
+What should I tell my doctor before taking losartanpotassium tablets USP?
+
 Tell your doctor about all of your medical conditions including if you:
 
-- are pregnant or planning to become pregnant.
-  See “What is the most important information I should know about losartan potassium tablets USP?”
+- are pregnant or planning to become pregnant.See“What is the most important information I should know about losartan potassium tablets USP?”
 - are breastfeeding.
   It is not known if losartan potassium passes into your breast milk.
   You should choose either to take losartan potassium tablets USP or breastfeed, but not both.
@@ -50,16 +56,18 @@ Tell your doctor about all of your medical conditions including if you:
 - have kidney problems
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+
 Losartan potassium tablets USP and certain other medicines may interact with each other.
 Especially tell your doctor if you are taking:
 
 - potassium supplements
 - salt substitutes containing potassium
 - water pills (diuretics)
+- lithium (a medicine used to treat a certain kind of depression)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
 - other medicines to reduce blood pressure
 
-How should I take losartan potassium tablets USP?
+How should I take losartanpotassium tablets USP?
 
 - Take losartan potassium tablets USP exactly as prescribed by your doctor.
   Your doctor may change your dose if needed.
@@ -69,12 +77,12 @@ How should I take losartan potassium tablets USP?
   Just take the next dose at your regular time.
 - If you take too many losartan potassium tablets USP, call your doctor or Poison Control Center, or go to the nearest hospital emergency room right away.
 
-What are the possible side effects of losartan potassium tablets USP?
+What are the possible side effects of losartan potassiumtablets USP?
 
 Losartan potassium tablets USP may cause the following side effects that may be serious:
 
 - Injury or death of unborn babies.
-  See “What is the most important information I should know about losartan potassium tablets USP?”
+  See “What is the most important information I should know about losartan potassiumtablets USP?”
 - Allergic reaction.
   Symptoms of an allergic reaction are swelling of the face, lips, throat or tongue.
   Get emergency medical help right away and stop taking losartan potassium tablets USP.
@@ -102,23 +110,34 @@ The most common side effects of losartan potassium tablets USP in people with ty
 - low blood pressure
 
 Tell your doctor if you get any side effect that bothers you or that won’t go away.
+
 This is not a complete list of side effects.
 For a complete list, ask your doctor or pharmacist.
-How do I store losartan potassium tablets USP?
+
+How do I store losartanpotassium tablets USP?
 
 - Store losartan potassium tablets USP at 59°F to 86°F (15°C to 30°C).
-- Keep losartan potassium tablets USP in a tightly closed container that protects the medicine from light.
+- Keep losartan potassiumtablets USP in a tightly closed container that protects the medicine from light.
 - Keep losartan potassium tablets USP and all medicines out of the reach of children.
 
-General information about losartan potassium tablets USP
+General information about losartan potassiumtablets USP
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use losartan potassium tablets USP for a condition for which they were not prescribed.
 Do not give losartan potassium tablets USP to other people, even if they have the same symptoms that you have.
 They may harm them.
+
 This leaflet summarizes the most important information about losartan potassium tablets USP.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about losartan potassium tablets USP that is written for health professionals.
+
 What are the ingredients in losartan potassium tablets USP?
-Active ingredient: losartan potassium USP Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelatinized starch (maize), low substituted hydroxypropyl cellulose, magnesium stearate, hydroxypropyl cellulose, hypromellose 6 cP, titanium dioxide, FD&C blue #2/indigo carmine aluminum lake, D&C yellow #10 aluminum lake, and purified water.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 02/2014
+
+Active ingredient: losartan potassium USP
+
+Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelatinized starch (maize), low substituted hydroxypropyl cellulose, magnesium stearate, hydroxypropyl cellulose, hypromellose 6 cP, titanium dioxide, FD&C blue #2/indigo carmine aluminum lake, D&C yellow #10 aluminum lake, and purified water.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
+
+Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India
+
+Revised: 10/2014

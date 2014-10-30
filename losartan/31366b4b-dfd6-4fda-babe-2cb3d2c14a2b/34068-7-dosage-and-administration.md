@@ -9,7 +9,7 @@ The effect of losartan is substantially present within one week but in some stud
 If blood pressure is not controlled by losartan potassium tablets USP alone, a low dose of a diuretic may be added.
 Hydrochlorothiazide has been shown to have an additive effect (see CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Hypertension).
 No initial dosage adjustment is necessary for elderly patients or for patients with renal impairment, including patients on dialysis.
-Pediatric Hypertensive Patients ≥6 years of age The usual recommended starting dose is 0.7 mg/kg once daily (up to 50 mg total) administered as a tablet or a suspension (see Preparation of Suspension).
+Pediatric Hypertensive Patients greater than or equal to 6 years of age The usual recommended starting dose is 0.7 mg/kg once daily (up to 50 mg total) administered as a tablet or a suspension (see Preparation of Suspension).
 Dosage should be adjusted according to blood pressure response.
 Doses above 1.4 mg/kg (or in excess of 100 mg) daily have not been studied in pediatric patients.
 (See CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations and Pharmacodynamics and Clinical Effects, and WARNINGS, Hypotension ― Volume-Depleted Patients.)
