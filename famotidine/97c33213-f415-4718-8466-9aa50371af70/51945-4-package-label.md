@@ -1,16 +1,10 @@
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL
 
-Baxter Famotidine Injection
+Container Label
 
-20 mg
+Baxter Famotidine 20 mg Injection Rx only
 
-Rx only
-
-GALAXY Single Dose Container
-
-50 mL Iso-osmotic
-
-NDC 0338-5197-41 Code 2G3424 Sterile Nonpyrogenic
+GALAXY 50 mL NDC 0338-5197-41 Single Dose Code 2G3424 Container Iso-osmotic Sterile Nonpyrogenic
 
 Each 50 mL contains: 20 mg famotidine, USP, 450 mg sodium chloride, USP, and 6.8 mg L-aspartic acid. pH may have been adjusted with additional L-aspartic acid and/or sodium hydroxide. pH 5.7 to 6.4
 
@@ -28,23 +22,45 @@ Recommended storage: Room temperature (25°C/77°F).
 Avoid excessive heat.
 Brief exposure up to 35°C/95°F does not adversely affect the product.
 
-______________________________________________________________________
+Baxter and Galaxy are registered trademarks of PL 2501 Plastic Baxter International Inc. Baxter Healthcare Corporation Deerfield, IL 60015 USA 07-34-63-666
 
-Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Recommended storage: Room temperature (25°C/77°F).
+Avoid excessive heat.
+
+Brief exposure up to 35°C/95°F does not adversely affect the product.
+
+Baxter and GALAXY are trademarks of Baxter International Inc. 07-04-47-201
+
+07-04-47-201
 
 PL 2501 Plastic
 
-07-34-63-666
+Recommended storage: Room temperature (25°C/77°F).
+Avoid excessive heat.
 
-Baxter Famotidine Injection
+Brief exposure up to 35°C/95°F does not adversely affect the product.
+
+Baxter and GALAXY are trademarks of Baxter International Inc. 07-04-47-201
+
+07-04-47-201
+
+PL 2501 Plastic
+
+Baxter NDC 0338-5197-41 Famotidine Injection Rx only 20 mg Code 2G3424
 
 12 x 50 mL Single Dose Containers Iso-osmotic Recommended storage: Room temperature (25°C/77°F)
 
-Rx only
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-20 mg
+*FOR BAR CODE POSITION ONLY (01) 20303385197414
+
+Baxter NDC 0338-5197-41 Famotidine Injection Rx only 20 mg Code 2G3424
+
+12 x 50 mL Single Dose Containers Iso-osmotic Recommended storage: Room temperature (25°C/77°F)
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+*FOR BAR CODE POSITION ONLY (01) 20303385197414
 
 GALAXY Container Sterile Nonpyrogenic
 
@@ -59,12 +75,15 @@ Check for minute leaks by squeezing bag firmly.
 If leaks are found, discard bag as sterility may be impaired.
 Do not use unless solution is clear.
 
-Recommended storage: Room temperature (25°C/77°F).
-Avoid excessive heat.
-Brief exposure up to 35°C/95°F does not adversely affect the product.
+GALAXY Container Sterile Nonpyrogenic
 
-Baxter and GALAXY are trademarks of Baxter International Inc.
+Each 50 mL contains: 20 mg famotidine, USP, 450 mg sodium chloride, USP, and 6.8 mg L-aspartic acid. pH may have been adjusted with additional L-aspartic acid and/or sodium hydroxide. pH 5.7 to 6.4
 
-PL 2501 Plastic
+Usual Dosage: Intravenously as directed by physician.
+See package insert.
 
-07-04-47-201
+Cautions: Do not add supplementary medication.
+Must not be used in series connections.
+Check for minute leaks by squeezing bag firmly.
+If leaks are found, discard bag as sterility may be impaired.
+Do not use unless solution is clear.

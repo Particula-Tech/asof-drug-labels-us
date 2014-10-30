@@ -44,7 +44,7 @@ While each study had a different design, acid suppression data over time are sum
 
 Table 8.
 
-| Dosage | Route | Effect Values reported in published literature. | Number of Patients (age range) |
+| Dosage | Route | EffectValues reported in published literature. | Number of Patients (age range) |
 | --- | --- | --- | --- |
 | 0.5 mg/kg, single dose | I.V. | gastric pH >4 for 19.5 hours (17.3, 21.8)Mean (95% confidence interval). | 11 (5-19 days) |
 | 0.3 mg/kg; single dose | I.V. | gastric pH >3.5 for 8.7 ± 4.7Mean ± SD. hours | 6 (2-7 years) |
@@ -55,4 +55,4 @@ Table 8.
 
 The duration of effect of famotidine I.V.
 0.5 mg/kg on gastric pH and acid suppression was shown in one study to be longer in pediatric patients <1 month of age than in older pediatric patients.
-This longer duration of gastric acid suppression is consistent with the decreased clearance in pediatric patients <3 months of age (see Table 6).
+This longer duration of gastric acid suppression is consistent with the decreased clearance in pediatric patients <3 months of age (see Table 6.).

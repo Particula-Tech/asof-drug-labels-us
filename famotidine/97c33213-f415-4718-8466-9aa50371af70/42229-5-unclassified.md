@@ -2,6 +2,8 @@
 
 Check the container for minute leaks prior to use by squeezing the bag firmly.
 If leaks are found, discard solution as sterility may be impaired.
+Visually inspect the container.
+If the outlet port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
 Do not add supplementary medication.
 Do not use unless solution is clear and seal is intact.
 
@@ -10,10 +12,10 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 ## Preparation for administration:
 
-1. Suspend container from eyelet support.
-2. Remove protector from outlet port at bottom of container.
-3. Attach administration set.
-   Refer to complete directions accompanying set.
+- 1.Suspend container from eyelet support.
+- 2.Remove protector from outlet port at bottom of container.
+- 3.Attach administration set.
+  Refer to complete directions accompanying set.
 
 ## Concomitant Use of Antacids
 
@@ -34,6 +36,7 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 Novation, the supply company of VHA and UHC, and NOVAPLUS are trademarks of Novation LLC
 
-07-19-69-941
+07-19-73-086
 
-Revised, November 2012
+Rev.
+April 2014
