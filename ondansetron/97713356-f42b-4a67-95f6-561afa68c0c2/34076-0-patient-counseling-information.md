@@ -6,6 +6,8 @@
   - Patients with a personal or family history of abnormal heart rhythms, such as congenital long QT syndrome;
   - Patients who take medications, such as diuretics, which may cause electrolyte abnormalities
   - Patients with hypokalemia or hypomagnesemia Ondansetron Injection should be avoided in these patients, since they may be more at risk for cardiac arrhythmias such as QT prolongation and Torsade de Pointes.
+- Advise patients of the possibility of serotonin syndrome with concomitant use of Ondansetron Injection and another serotonergic agent such as medications to treat depression and migraines.
+  Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms.
 - Inform patients that Ondansetron Injection may cause hypersensitivity reactions, some as severe as anaphylaxis and bronchospasm.
   The patient should report any signs and symptoms of hypersensitivity reactions, including fever, chills, rash, or breathing problems.
 - The patient should report the use of all medications, especially apomorphine, to their healthcare provider.

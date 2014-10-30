@@ -6,7 +6,7 @@ Ondansetron Injection should be diluted in 50 mL of 5% Dextrose Injection or 0.9
 Adults: The recommended adult intravenous dosage of Ondansetron Injection is three 0.15-mg/kg doses up to a maximum of 16 mg per dose [see Clinical Pharmacology (12.2)].
 The first dose is infused over 15 minutes beginning 30 minutes before the start of emetogenic chemotherapy.
 Subsequent doses (0.15 mg/kg up to a maximum of 16 mg per dose) are administered 4 and 8 hours after the first dose of Ondansetron Injection.
-Pediatrics: For pediatric patients 6 months through 18 years of age, the intravenous dosage of Ondansetron Injection, is three 0.15-mg/kg doses up to a maximum of 16 mg per dose [see Clinical Studies (14.1) and Clinical Pharmacology (12.2 and 12.3)].
+Pediatrics: For pediatric patients 6 months through 18 years of age, the intravenous dosage of Ondansetron Injection, is three 0.15-mg/kg doses up to a maximum of 16 mg per dose [see Clinical Studies (14.1), Clinical Pharmacology (12.2, 12.3)].
 The first dose is to be administered 30 minutes before the start of moderately to highly emetogenic chemotherapy.
 Subsequent doses (0.15 mg/kg up to a maximum of 16 mg per dose) are administered 4 and 8 hours after the first dose of Ondansetron Injection.
 The drug should be infused intravenously over 15 minutes.

@@ -10,7 +10,7 @@ Chemotherapy-Induced Nausea and Vomiting:
 Table 1.
 Adverse Reactions Reported in > 5% of Adult Patients Who Received Ondansetron at a Dosage of Three 0.15-mg/kg Doses
 
-|  | Number of Adult Patients With Reaction |  |  |
+|  | Number of Adult Patients with Reaction |  |  |
 | --- | --- | --- | --- |
 | Adverse Reaction | Ondansetron Injection 0.15 mg/kg x 3 n = 419 | Metoclopramide n = 156 | Placebo n = 34 |
 | Diarrhea | 16% | 44% | 18% |
@@ -28,7 +28,7 @@ Other: Rare cases of hypokalemia have been reported.
 Postoperative Nausea and Vomiting: The adverse reactions in Table 2 have been reported in ≥ 2% of adults receiving ondansetron at a dosage of 4 mg intravenous over 2 to 5 minutes in clinical trials.
 
 Table 2.
-Adverse Reactions Reported in ≥ 2% (and With Greater Frequency than the Placebo Group) of Adult Patients Receiving Ondansetron at a Dosage of 4 mg Intravenous over 2 to 5 Minutes
+Adverse Reactions Reported in ≥ 2% (and with Greater Frequency than the Placebo Group) of Adult Patients Receiving Ondansetron at a Dosage of 4 mg Intravenous over 2 to 5 Minutes
 
 | Adverse ReactionAdverse Reactions: Rates of these reactions were not significantly different in the ondansetron and placebo groups Patients were receiving multiple concomitant perioperative and postoperative medications | Ondansetron Injection 4 mg Intravenous n = 547 patients | Placebo n = 547 patients |
 | --- | --- | --- |
