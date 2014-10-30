@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA201578"
+  ],
+  "inn": "sirolimus",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-653-01",
+    "55111-653-30",
+    "55111-654-01",
+    "55111-654-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sirolimus",
+      "name": "Sirolimus"
+    }
+  ],
+  "setid": "2e6130e5-fa94-dcf8-605c-817bf396e93d",
+  "source": "dailymed"
+}
