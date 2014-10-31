@@ -1,94 +1,90 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Cymbalta should be swallowed whole and should not be chewed or crushed, nor should the capsule be opened and its contents sprinkled on food or mixed with liquids.
+Swallow CYMBALTA whole.
+Do not chew or crush.
+Do not open the capsule and sprinkle its contents on food or mix with liquids.
 All of these might affect the enteric coating.
-Cymbalta can be given without regard to meals.
+CYMBALTA can be given without regard to meals.
+If a dose of CYMBALTA is missed, take the missed dose as soon as it is remembered.
+If it is almost time for the next dose, skip the missed dose and take the next dose at the regular time.
+Do not take two doses of CYMBALTA at the same time.
 
-## 2.1 Initial Treatment
+## 2.1 Dosage for Treatment of Major Depressive Disorder
 
-Major Depressive Disorder — Cymbalta should be administered at a total dose of 40 mg/day (given as 20 mg twice daily) to 60 mg/day (given either once daily or as 30 mg twice daily).
+Administer CYMBALTA at a total dose of 40 mg/day (given as 20 mg twice daily) to 60 mg/day (given either once daily or as 30 mg twice daily).
 For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
 While a 120 mg/day dose was shown to be effective, there is no evidence that doses greater than 60 mg/day confer any additional benefits.
-The safety of doses above 120 mg/day has not been adequately evaluated [see Clinical Studies (14.1)].
+The safety of doses above 120 mg/day has not been adequately evaluated.
+Periodically reassess to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.1)].
 
-Generalized Anxiety Disorder — For most patients, the recommended starting dose for Cymbalta is 60 mg administered once daily.
+## 2.2 Dosage for Treatment of Generalized Anxiety Disorder
+
+Adults — For most patients, initiate CYMBALTA 60 mg once daily.
 For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
 While a 120 mg once daily dose was shown to be effective, there is no evidence that doses greater than 60 mg/day confer additional benefit.
-Nevertheless, if a decision is made to increase the dose beyond 60 mg once daily, dose increases should be in increments of 30 mg once daily.
-The safety of doses above 120 mg once daily has not been adequately evaluated [see Clinical Studies (14.2)].
+Nevertheless, if a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
+The safety of doses above 120 mg once daily has not been adequately evaluated.
+Periodically reassess to determine the continued need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
 
-Diabetic Peripheral Neuropathic Pain — The recommended dose for Cymbalta is 60 mg administered once daily.
+Elderly — Initiate CYMBALTA at a dose of 30 mg once daily for 2 weeks before considering an increase to the target dose of 60 mg.
+Thereafter, patients may benefit from doses above 60 mg once daily.
+If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
+The maximum dose studied was 120 mg per day.
+Safety of doses above 120 mg once daily has not been adequately evaluated [see Clinical Studies (14.2)].
+
+Children and Adolescents (7 to 17 years of age) — Initiate CYMBALTA at a dose of 30 mg once daily for 2 weeks before considering an increase to 60 mg.
+The recommended dose range is 30 to 60 mg once daily.
+Some patients may benefit from doses above 60 mg once daily.
+If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
+The maximum dose studied was 120 mg per day.
+The safety of doses above 120 mg once daily has not been evaluated [see Clinical Studies (14.2)].
+
+## 2.3 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain
+
+Administer CYMBALTA 60 mg once daily.
 There is no evidence that doses higher than 60 mg confer additional significant benefit and the higher dose is clearly less well tolerated [see Clinical Studies (14.3)].
 For patients for whom tolerability is a concern, a lower starting dose may be considered.
 
-Since diabetes is frequently complicated by renal disease, a lower starting dose and gradual increase in dose should be considered for patients with renal impairment [see Dosage and Administration (2.3), Use in Specific Populations (8.10), and Clinical Pharmacology (12.3)].
+Since diabetes is frequently complicated by renal disease, consider a lower starting dose and gradual increase in dose for patients with renal impairment [see Dosage and Administration (2.6), Use in Specific Populations (8.10), and Clinical Pharmacology (12.3)].
 
-Fibromyalgia — The recommended dose for Cymbalta is 60 mg administered once daily.
-Treatment should begin at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
+## 2.4 Dosage for Treatment of Fibromyalgia
+
+Administer CYMBALTA 60 mg once daily.
+Begin treatment at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
 Some patients may respond to the starting dose.
 There is no evidence that doses greater than 60 mg/day confer additional benefit, even in patients who do not respond to a 60 mg dose, and higher doses are associated with a higher rate of adverse reactions [see Clinical Studies (14.4)].
 
-Chronic Musculoskeletal Pain — The recommended dose for Cymbalta is 60 mg once daily.
-Dosing may be started at 30 mg for one week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
+## 2.5 Dosage for Treatment of Chronic Musculoskeletal Pain
+
+Administer CYMBALTA 60 mg once daily.
+Begin treatment at 30 mg for one week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
 There is no evidence that higher doses confer additional benefit, even in patients who do not respond to a 60 mg dose, and higher doses are associated with a higher rate of adverse reactions [see Clinical Studies (14.5)].
 
-## 2.2 Maintenance/Continuation/Extended Treatment
+## 2.6 Dosing in Special Populations
 
-Major Depressive Disorder — It is generally agreed that acute episodes of major depression require several months or longer of sustained pharmacologic therapy.
-Maintenance of efficacy in MDD was demonstrated with Cymbalta as monotherapy.
-Cymbalta should be administered at a total dose of 60 mg once daily.
-Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.1)].
+Hepatic Impairment — Avoid use in patients with chronic liver disease or cirrhosis [see Warnings and Precautions (5.14) and Use in Specific Populations (8.9)].
 
-Generalized Anxiety Disorder — It is generally agreed that episodes of generalized anxiety disorder require several months or longer of sustained pharmacological therapy.
-Maintenance of efficacy in GAD was demonstrated with Cymbalta as monotherapy.
-Cymbalta should be administered in a dose range of 60-120 mg once daily.
-Patients should be periodically reassessed to determine the continued need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
+Severe Renal Impairment — Avoid use in patients with severe renal impairment, GFR <30 mL/min [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
 
-Diabetic Peripheral Neuropathic Pain — As the progression of diabetic peripheral neuropathy is highly variable and management of pain is empirical, the effectiveness of Cymbalta must be assessed individually.
-Efficacy beyond 12 weeks has not been systematically studied in placebo-controlled trials.
+## 2.7 Discontinuing CYMBALTA
 
-Fibromyalgia — Fibromyalgia is recognized as a chronic condition.
-The efficacy of Cymbalta in the management of fibromyalgia has been demonstrated in placebo-controlled studies up to 3 months.
-The efficacy of Cymbalta was not demonstrated in longer studies; however, continued treatment should be based on individual patient response.
+Adverse reactions after discontinuation of CYMBALTA, after abrupt or tapered discontinuation, include: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
+A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Warnings and Precautions (5.7)].
 
-Chronic Musculoskeletal Pain — The efficacy of Cymbalta has not been established in placebo-controlled studies beyond 13 weeks.
+## 2.8 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
-## 2.3 Dosing in Special Populations
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with CYMBALTA.
+Conversely, at least 5 days should be allowed after stopping CYMBALTA before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4)].
 
-Hepatic Insufficiency — It is recommended that Cymbalta should ordinarily not be administered to patients with any hepatic insufficiency [see Warnings and Precautions (5.14) and Use in Specific Populations (8.9)].
+## 2.9 Use of CYMBALTA with Other MAOIs such as Linezolid or Methylene Blue
 
-Severe Renal Impairment — Cymbalta is not recommended for patients with end-stage renal disease or severe renal impairment (estimated creatinine clearance <30 mL/min) [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
+Do not start CYMBALTA in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4)].
 
-Elderly Patients — No dose adjustment is recommended for elderly patients on the basis of age.
-As with any drug, caution should be exercised in treating the elderly.
-When individualizing the dosage in elderly patients, extra care should be taken when increasing the dose [see Use in Specific Populations (8.5)].
-
-Pregnant Women — There are no adequate and well-controlled studies in pregnant women; therefore, Cymbalta should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
-
-Lilly maintains a pregnancy registry to monitor the pregnancy outcomes of women exposed to Cymbalta while pregnant.
-Healthcare providers are encouraged to register any patient who is exposed to Cymbalta during pregnancy by calling the Cymbalta Pregnancy Registry at 1-866-814-6975 or by visiting www.cymbaltapregnancyregistry.com
-
-Nursing Mothers — Because the safety of duloxetine in infants is not known, nursing while on Cymbalta is not recommended [see Use in Specific Populations (8.3)].
-
-## 2.4 Discontinuing Cymbalta
-
-Symptoms associated with discontinuation of Cymbalta and other SSRIs and SNRIs have been reported.
-A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible [see Warnings and Precautions (5.7)].
-
-## 2.5 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
-
-At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with Cymbalta.
-Conversely, at least 5 days should be allowed after stopping Cymbalta before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.1)].
-
-## 2.6 Use of Cymbalta with Other MAOIs such as Linezolid or Methylene Blue
-
-Do not start Cymbalta in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
-In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.1)].
-
-In some cases, a patient already receiving Cymbalta therapy may require urgent treatment with linezolid or intravenous methylene blue.
-If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, Cymbalta should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+In some cases, a patient already receiving CYMBALTA therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, CYMBALTA should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for 5 days or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with Cymbalta may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.4)].
+Therapy with CYMBALTA may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.4)].
 
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with Cymbalta is unclear.
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with CYMBALTA is unclear.
 The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.4)].

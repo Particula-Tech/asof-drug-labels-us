@@ -10,8 +10,8 @@ Preclinical studies have shown that duloxetine is a potent inhibitor of neuronal
 Duloxetine has no significant affinity for dopaminergic, adrenergic, cholinergic, histaminergic, opioid, glutamate, and GABA receptors in vitro.
 Duloxetine does not inhibit monoamine oxidase (MAO).
 
-Cymbalta is in a class of drugs known to affect urethral resistance.
-If symptoms of urinary hesitation develop during treatment with Cymbalta, consideration should be given to the possibility that they might be drug-related.
+CYMBALTA is in a class of drugs known to affect urethral resistance.
+If symptoms of urinary hesitation develop during treatment with CYMBALTA, consideration should be given to the possibility that they might be drug-related.
 
 ## 12.3 Pharmacokinetics
 
@@ -37,3 +37,7 @@ Many additional metabolites have been identified in urine, some representing onl
 Only trace (<1% of the dose) amounts of unchanged duloxetine are present in the urine.
 Most (about 70%) of the duloxetine dose appears in the urine as metabolites of duloxetine; about 20% is excreted in the feces.
 Duloxetine undergoes extensive metabolism, but the major circulating metabolites have not been shown to contribute significantly to the pharmacologic activity of duloxetine.
+
+Children and Adolescents (ages 7 to 17 years) — Duloxetine steady-state plasma concentration was comparable in children (7 to 12 years of age), adolescents (13 to 17 years of age) and adults.
+The average steady-state duloxetine concentration was approximately 30% lower in the pediatric population (children and adolescents) relative to the adults.
+The model-predicted duloxetine steady state plasma concentrations in children and adolescents were mostly within the concentration range observed in adult patients and did not exceed the concentration range in adults.

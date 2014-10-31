@@ -35,11 +35,11 @@ Under steady-state conditions for duloxetine (20 mg qhs) and temazepam (30 mg qh
 
 ## 7.7 Drugs that Affect Gastric Acidity
 
-Cymbalta has an enteric coating that resists dissolution until reaching a segment of the gastrointestinal tract where the pH exceeds 5.5.
-In extremely acidic conditions, Cymbalta, unprotected by the enteric coating, may undergo hydrolysis to form naphthol.
-Caution is advised in using Cymbalta in patients with conditions that may slow gastric emptying (e.g., some diabetics).
+CYMBALTA has an enteric coating that resists dissolution until reaching a segment of the gastrointestinal tract where the pH exceeds 5.5.
+In extremely acidic conditions, CYMBALTA, unprotected by the enteric coating, may undergo hydrolysis to form naphthol.
+Caution is advised in using CYMBALTA in patients with conditions that may slow gastric emptying (e.g., some diabetics).
 Drugs that raise the gastrointestinal pH may lead to an earlier release of duloxetine.
-However, co-administration of Cymbalta with aluminum- and magnesium-containing antacids (51 mEq) or Cymbalta with famotidine, had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
+However, co-administration of CYMBALTA with aluminum- and magnesium-containing antacids (51 mEq) or CYMBALTA with famotidine, had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
 It is unknown whether the concomitant administration of proton pump inhibitors affects duloxetine absorption [see Warnings and Precautions (5.14)].
 
 ## 7.8 Drugs Metabolized by CYP1A2
@@ -70,18 +70,18 @@ Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated,
 
 ## 7.13 Monoamine Oxidase Inhibitors (MAOIs)
 
-[See Dosage and Administration (2.5, 2.6), Contraindications (4.1), and Warnings and Precautions (5.4)].
+[See Dosage and Administration (2.8, 2.9), Contraindications (4), and Warnings and Precautions (5.4)].
 
 ## 7.14 Serotonergic Drugs
 
-[See Dosage and Administration (2.5, 2.6), Contraindications (4.1), and Warnings and Precautions (5.4)].
+[See Dosage and Administration (2.8, 2.9), Contraindications (4), and Warnings and Precautions (5.4)].
 
 ## 7.15 Alcohol
 
-When Cymbalta and ethanol were administered several hours apart so that peak concentrations of each would coincide, Cymbalta did not increase the impairment of mental and motor skills caused by alcohol.
+When CYMBALTA and ethanol were administered several hours apart so that peak concentrations of each would coincide, CYMBALTA did not increase the impairment of mental and motor skills caused by alcohol.
 
-In the Cymbalta clinical trials database, three Cymbalta-treated patients had liver injury as manifested by ALT and total bilirubin elevations, with evidence of obstruction.
-Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see Warnings and Precautions (5.2 and 5.12)].
+In the CYMBALTA clinical trials database, three CYMBALTA-treated patients had liver injury as manifested by ALT and total bilirubin elevations, with evidence of obstruction.
+Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see Warnings and Precautions (5.2, 5.12)].
 
 ## 7.16 CNS Drugs
 
@@ -89,5 +89,5 @@ Substantial intercurrent ethanol use was present in each of these cases, and thi
 
 ## 7.17 Drugs Highly Bound to Plasma Protein
 
-Because duloxetine is highly bound to plasma protein, administration of Cymbalta to a patient taking another drug that is highly protein bound may cause increased free concentrations of the other drug, potentially resulting in adverse reactions.
+Because duloxetine is highly bound to plasma protein, administration of CYMBALTA to a patient taking another drug that is highly protein bound may cause increased free concentrations of the other drug, potentially resulting in adverse reactions.
 However, co-administration of duloxetine (60 or 120 mg) with warfarin (2-9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see Drug Interactions (7.4)].

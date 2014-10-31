@@ -5,5 +5,3 @@ These studies did not show an increase in the risk of suicidal thoughts and beha
 
 In patients of all ages who are started on antidepressant therapy, monitor closely for worsening, and for emergence of suicidal thoughts and behaviors.
 Advise families and caregivers of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.1)].
-
-Cymbalta is not approved for use in pediatric patients [see Use in Specific Populations (8.4)].

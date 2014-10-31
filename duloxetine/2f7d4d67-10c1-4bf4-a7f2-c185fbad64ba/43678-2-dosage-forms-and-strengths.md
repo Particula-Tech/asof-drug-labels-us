@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Cymbalta is available as delayed release capsules:
+CYMBALTA is available as delayed release capsules:
 
 20 mg opaque green capsules imprinted with “Lilly 3235 20mg”
 
