@@ -24,6 +24,8 @@ The capsules are supplied in bottles of 30, 90, 100, 1000 and unit-dose packages
 
 Bottles of 30 NDC 55111-158-30
 
+NDC 55111-158-34
+
 Bottles of 90 NDC 55111-158-90
 
 Bottles of 100 NDC 55111-158-01

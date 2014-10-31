@@ -8,6 +8,10 @@ Omeprazole Delayed-Release Capsules, USP 20 mg - Container Label
 
 Omeprazole Delayed-Release Capsules, USP 20 mg - Carton Label
 
+Omeprazole Delayed-Release Capsules, USP 20 mg - Dispenser pack container
+
+Omeprazole Delayed-Release Capsules, USP 20 mg - Dispenser pack carton
+
 Omeprazole Delayed-Release Capsules, USP 40 mg - Container Label
 
 Omeprazole Delayed-Release Capsules, USP 40 mg - Carton Label
