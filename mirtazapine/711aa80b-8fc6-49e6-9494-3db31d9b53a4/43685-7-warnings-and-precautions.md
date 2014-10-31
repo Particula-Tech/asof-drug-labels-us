@@ -77,6 +77,10 @@ If concomitant use of mirtazapine with other serotonergic drugs, including tript
 
 Treatment with mirtazapine and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
+## Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including mirtazapine tablets may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
 # PRECAUTIONS
 
 ## General
@@ -122,7 +126,7 @@ In an 8-week long pediatric clinical trial of doses between 15 to 45 mg/day, 49%
 
 ### Cholesterol/Triglycerides
 
-In U.S. controlled studies, nonfasting cholesterol increases to ≥ 20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine compared to 7% for placebo and 8% for amitriptyline.
+In U.S. controlled studies, nonfasting cholesterol increases to ≥ 20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine, compared to 7% for placebo and 8% for amitriptyline.
 In these same studies, nonfasting triglyceride increases to ≥ 500 mg/dL were observed in 6% of patients treated with mirtazapine, compared to 3% for placebo and 3% for amitriptyline.
 
 ### Transaminase Elevations
@@ -159,7 +163,7 @@ Caution is indicated in administering mirtazapine to such patients (see CLINICAL
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with mirtazapine and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness and Suicidal Thoughts or Actions" is available for mirtazapine.
+A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illnesses and Suicidal Thoughts or Actions" is available for mirtazapine.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.

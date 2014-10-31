@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Mirtazapine tablets are indicated for the treatment of major depressive disorder.
+Mirtazapine tablets, USP are indicated for the treatment of major depressive disorder.
 
 The efficacy of mirtazapine in the treatment of major depressive disorder was established in 6-week controlled trials of outpatients whose diagnoses corresponded most closely to the Diagnostic and Statistical Manual of Mental Disorders – 3rd edition (DSM-III) category of major depressive disorder (see CLINICAL PHARMACOLOGY).
 
