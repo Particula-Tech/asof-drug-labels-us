@@ -4,6 +4,8 @@ For Intra-articular or Intralesional Use Only
 
 NOT FOR INTRAVENOUS, INTRAMUSCULAR, INTRAOCULAR, EPIDURAL, OR INTRATHECAL USE
 
-Bristol-Myers Squibb Company Princeton, NJ 08543 USA Product of Italy
+Bristol-Myers Squibb Company Princeton, NJ 08543 USA Product of Spain
 
-Rev July 2014
+1221154A6
+
+Rev September 2014
