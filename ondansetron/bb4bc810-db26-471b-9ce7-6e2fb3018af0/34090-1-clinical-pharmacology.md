@@ -29,7 +29,7 @@ Pharmacokinetics in Normal Adult Volunteers
 | --- | --- | --- | --- | --- |
 | 19-40 | 11 | 102 | 3.5 | 0.381 |
 | 61-74 | 12 | 106 | 4.7 | 0.319 |
-| ≥75 | 11 | 170 | 5.5 | 0.262 |
+| ≥ 75 | 11 | 170 | 5.5 | 0.262 |
 
 Absorption A study was performed in normal volunteers (n = 56) to evaluate the pharmacokinetics of a single 4-mg dose administered as a 5-minute infusion compared to a single intramuscular injection.
 Systemic exposure as measured by mean AUC were equivalent, with values of 156 [95% CI 136, 180] and 161 [95% CI 137, 190] ng•h/mL for intravenous and intramuscular groups, respectively.
@@ -58,7 +58,7 @@ Geriatrics A reduction in clearance and increase in elimination half-life are se
 In clinical trials with cancer patients, safety and efficacy were similar in patients over 65 years of age and those under 65 years of age; there was an insufficient number of patients over 75 years of age to permit conclusions in that age-group.
 No dosage adjustment is recommended in the elderly.
 
-Pediatrics Pharmacokinetic samples were collected from 74 cancer patients 6 to 48 months of age, who received a dose of 0.15 mg/‌kg of intravenous ondansetron every 4 hours for 3 doses during a safety and efficacy trial.
+Pediatrics Pharmacokinetic samples were collected from 74 cancer patients 6 to 48 months of age, who received a dose of 0.15 mg/kg of intravenous ondansetron every 4 hours for 3 doses during a safety and efficacy trial.
 These data were combined with sequential pharmacokinetics data from 41 surgery patients 1 month to 24 months of age, who received a single dose of 0.1 mg/kg of intravenous ondansetron prior to surgery with general anesthesia, and a population pharmacokinetic analysis was performed on the combined data set.
 The results of this analysis are included in Table 4 and are compared to the pharmacokinetic results in cancer patients 4 to 18 years of age.
 
