@@ -1,4 +1,4 @@
-Patient Information
+# Patient Information
 
 Depo-Provera® (DEP-po pro-VAIR-ah) CI (medroxyprogesterone acetate injectable suspension) Contraceptive Injection
 
@@ -17,7 +17,7 @@ Depo-Provera CI can cause serious side effects, including:
 - If you use Depo-Provera CI continuously for a long time (for more than 2 years), it may increase the risk of weak, porous bones (osteoporosis) that could increase the risk of broken bones, especially after menopause.
 - You should not use Depo-Provera CI for more than two years unless you cannot use other birth control methods.
 - It is not known if your risk of developing osteoporosis is greater if you are a teenager or young adult when you start to use Depo-Provera CI.
-  (See "What are the possible side effects of Depo-Provera CI?").
+  (see "What are the possible side effects of Depo-Provera CI?").
 
 Depo-Provera CI is intended to prevent pregnancy.
 Depo-Provera CI does not protect against HIV infection (AIDS) and other sexually transmitted diseases (STDs).
@@ -154,7 +154,9 @@ Call your healthcare provider right away if you have:
 - severe pain or tenderness in the lower abdominal area
 - persistent pain, pus, or bleeding at the injection site
 - yellowing of the eyes or skin
-- hives or difficulty breathing
+- hives
+- difficulty breathing
+- swelling of the face, mouth, tongue, neck or genitals
 
 The most common side effects of Depo-Provera CI include:
 
@@ -231,8 +233,11 @@ Active ingredient: medroxyprogesterone acetate
 Inactive ingredients: polyethylene glycol 3350, polysorbate 80, sodium chloride, methylparaben, propylparaben, and water for injection.
 When necessary, pH is adjusted with sodium hydroxide or hydrochloric acid, or both.
 
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0148-7.0
+LAB-0148-8.0
 
-July 2011
+October 2014

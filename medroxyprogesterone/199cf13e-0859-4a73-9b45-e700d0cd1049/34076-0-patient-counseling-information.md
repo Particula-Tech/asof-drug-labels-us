@@ -6,3 +6,6 @@
 - Counsel patients that this product does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
 - Counsel patients on Warnings and Precautions associated with use of Depo-Provera CI.
 - Counsel patients to use a back-up method or alternative method of contraception when enzyme inducers are used with Depo-Provera CI.
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
