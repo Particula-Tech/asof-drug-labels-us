@@ -42,7 +42,7 @@ In the clinical trial, in which the intention was to reach these target doses, t
 
 In pediatric patients aged 2-<4 years, treatment should also be initiated at a daily dose of 8-10 mg/kg generally not to exceed 600 mg/day, given in a twice-a-day regimen.
 For patients under 20 kg, a starting dose of 16-20 mg/kg may be considered [see Clinical Pharmacology (12.3)].
-The maximum maintenance dose of oxcarbazepine tablets should be achieved over 24 weeks and should not exceed 60 mg/kg/day in a twice-a-day regimen.
+The maximum maintenance dose of oxcarbazepine tablets should be achieved over 2-4 weeks and should not exceed 60 mg/kg/day in a twice-a-day regimen.
 
 In the clinical trial in pediatric patients (2 to 4 years of age) in which the intention was to reach the target dose of 60 mg/kg/day, 50% of patients reached a final dose of at least 55 mg/kg/day.
 
@@ -62,7 +62,7 @@ Patients not currently being treated with antiepileptic drugs may have monothera
 In these patients, oxcarbazepine tablets should be initiated at a dose of 8-10 mg/kg/day given in a twice-a-day regimen.
 The dose should be increased by 5 mg/kg/day every third day to the recommended daily dose shown in the table below.
 
-Table 1 Range of Maintenance Doses of Oxcarbazepine Tablets for Children by Weight During Monotherapy
+Table 1: Range of Maintenance Doses of Oxcarbazepine Tablets for Children by Weight During Monotherapy
 
 |  | From | To |
 | --- | --- | --- |

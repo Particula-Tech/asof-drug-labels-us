@@ -39,7 +39,7 @@ Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Adults Previous
 Table 4 lists treatment-emergent signs and symptoms in patients converted from other AEDs to either high dose oxcarbazepine or low dose (300 mg) oxcarbazepine.
 Note that in some of these monotherapy studies patients who dropped out during a preliminary tolerability phase are not included in the tables.
 
-Table 3 Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Adjunctive Therapy in Adults (Events in at Least 2% of Patients Treated with 2400 mg/day of Oxcarbazepine and Numerically More Frequent than in the Placebo Group)
+Table 3: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Adjunctive Therapy in Adults (Events in at Least 2% of Patients Treated with 2400 mg/day of Oxcarbazepine and Numerically More Frequent than in the Placebo Group)
 
 |  | Oxcarbazepine Dosage (mg/day) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ Table 3 Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Stud
 | Vision Abnormal | 6 | 14 | 13 | 4 |
 | Accommodation Abnormal | 0 | 0 | 2 | 0 |
 
-Table 4 Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Monotherapy in Adults Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with 2400 mg/day of Oxcarbazepine and Numerically More Frequent than in the Low Dose Control Group)
+Table 4: Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Monotherapy in Adults Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with 2400 mg/day of Oxcarbazepine and Numerically More Frequent than in the Low Dose Control Group)
 
 |  | Oxcarbazepine Dosage (mg/day) |  |
 | --- | --- | --- |
@@ -165,7 +165,7 @@ Table 4 Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studie
 
 Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with other AEDs: Table 5 lists treatment-emergent signs and symptoms in a controlled clinical study of monotherapy in adults not previously treated with other AEDs that occurred in at least 2% of adult patients with epilepsy treated with oxcarbazepine or placebo and were numerically more common in the patients treated with oxcarbazepine.
 
-Table 5 Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Oxcarbazepine and Numerically More Frequent than in the Placebo Group)
+Table 5: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Oxcarbazepine and Numerically More Frequent than in the Placebo Group)
 
 | Body System/ | Oxcarbazepine | Placebo |
 | --- | --- | --- |
@@ -201,7 +201,7 @@ Table 5 Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Stud
 
 Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with other AEDs: Table 6 lists treatment-emergent signs and symptoms that occurred in at least 2% of pediatric patients with epilepsy treated with oxcarbazepine or placebo as adjunctive treatment and were numerically more common in the patients treated with oxcarbazepine.
 
-Table 6 Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Oxcarbazepine and Numerically More Frequent than in the Placebo Group)
+Table 6: Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Oxcarbazepine and Numerically More Frequent than in the Placebo Group)
 
 | Body System/ | Oxcarbazepine | Placebo |
 | --- | --- | --- |
@@ -275,9 +275,8 @@ Other: Systemic lupus erythematosus.
 
 ## 6.2 Post-Marketing and Other Experience
 
-The following adverse events not seen in controlled clinical trials have been observed in named patient programs or post-marketing experience:
-
-Body as a Whole: multi-organ hypersensitivity disorders characterized by features such as rash, fever, lymphadenopathy, abnormal liver function tests, eosinophilia and arthralgia [see Warnings and Precautions (5.8)]
+The following adverse events have been observed in named patient programs or post-marketing experience.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Anaphylaxis: [see Warnings and Precautions (5.2)]
 
@@ -287,4 +286,6 @@ Hematologic and Lymphatic Systems: aplastic anemia [see Warnings and Precautions
 
 Metabolism: hypothyroidism
 
-Skin and Appendages: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)]
+Skin and subcutaneous tissue disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)], Acute Generalized Exanthematous Pustulosis (AGEP)
+
+Musculoskeletal, connective tissue and bone disorders: There have been reports of decreased bone mineral density, osteoporosis and fractures in patients on long-term therapy with oxcarbazepine.

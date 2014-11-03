@@ -13,13 +13,13 @@ No autoinduction has been observed with oxcarbazepine.
 Potential interactions between oxcarbazepine and other AEDs were assessed in clinical studies.
 The effect of these interactions on mean AUCs and Cmin are summarized in Table 7.
 
-Table 7 Summary of AED Interactions with Oxcarbazepine
+Table 7: Summary of AED Interactions with Oxcarbazepine
 
 | AED Coadministered | Dose of AED (mg/day) | Oxcarbazepine Dose (mg/day) | Influence of Oxcarbazepine on AED Concentration (Mean Change, 90% Confidence Interval) | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) |
 | --- | --- | --- | --- | --- |
 | Carbamazepine | 400-2000 | 900 | ncnc denotes a mean change of less than 10% | 40% decrease[CI: 17% decrease,57% decrease] |
 | Phenobarbital | 100-150 | 600-1800 | 14% increase[CI: 2% increase, 24% increase] | 25% decrease[CI: 12% decrease,51% decrease] |
-| Phenytoin | 250-500 | 600-1800>1200-2400 | ncPediatricsup to 40% increaseMean increase in adults at high oxcarbazepine doses [CI: 12% increase,60% increase] | 30% decrease[CI: 3% decrease,48% decrease] |
+| Phenytoin | 250-500 | 600-1800>1200-2400 | ncPediatricsup to 40% increaseMean increase in adults at high oxcarbazepine doses[CI: 12% increase,60% increase] | 30% decrease[CI: 3% decrease,48% decrease] |
 | Valproic acid | 400-2800 | 600-1800 | nc | 18% decrease[CI: 13% decrease,40% decrease] |
 
 In vivo, the plasma levels of phenytoin increased by up to 40% when oxcarbazepine was given at doses above 1200 mg/day.

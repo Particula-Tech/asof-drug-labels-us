@@ -21,7 +21,7 @@ In a mass balance study in people, only 2% of total radioactivity in plasma was 
 
 The half-life of the parent is about two hours, while the half-life of MHD is about nine hours, so that MHD is responsible for most antiepileptic activity.
 
-### Absorption
+Absorption
 
 After single-dose administration of oxcarbazepine tablets to healthy male volunteers under fasted conditions, the median tmax was 4.5 (range 3 to 13) hours.
 
@@ -31,7 +31,7 @@ At steady state the pharmacokinetics of MHD are linear and show dose proportiona
 Effect of Food: Food has no effect on the rate and extent of absorption of oxcarbazepine from oxcarbazepine tablets.
 Therefore, oxcarbazepine tablets can be taken with or without food.
 
-### Distribution
+Distribution
 
 The apparent volume of distribution of MHD is 49L.
 
@@ -39,7 +39,7 @@ Approximately 40% of MHD is bound to serum proteins, predominantly to albumin.
 Binding is independent of the serum concentration within the therapeutically relevant range.
 Oxcarbazepine and MHD do not bind to alpha-1-acid glycoprotein.
 
-### Metabolism and Excretion
+Metabolism and Excretion
 
 Oxcarbazepine is rapidly reduced by cytosolic enzymes in the liver to its 10-monohydroxy metabolite, MHD, which is primarily responsible for the pharmacological effect of oxcarbazepine.
 MHD is metabolized further by conjugation with glucuronic acid.
@@ -52,51 +52,50 @@ Approximately 80% of the dose is excreted in the urine either as glucuronides of
 
 The half-life of the parent is about two hours, while the half-life of MHD is about nine hours.
 
-### Special Populations
+## 12.6 Special Populations
 
-#### Hepatic Impairment
+Hepatic Impairment
 
 The pharmacokinetics and metabolism of oxcarbazepine and MHD were evaluated in healthy volunteers and hepatically-impaired subjects after a single 900-mg oral dose.
 Mild-to-moderate hepatic impairment did not affect the pharmacokinetics of oxcarbazepine and MHD.
 No dose adjustment for oxcarbazepine is recommended in patients with mild-to-moderate hepatic impairment.
 The pharmacokinetics of oxcarbazepine and MHD have not been evaluated in severe hepatic impairment and, therefore, caution should be exercised when dosing severely impaired patients [see Dosage and Administration (2.7)].
 
-#### Renal Impairment
+Renal Impairment
 
 There is a linear correlation between creatinine clearance and the renal clearance of MHD.
 When oxcarbazepine is administered as a single 300-mg dose in renally-impaired patients (creatinine clearance <30 mL/min), the elimination half-life of MHD is prolonged to 19 hours, with a two-fold increase in AUC.
 Dose adjustment for oxcarbazepine is recommended in these patients [see Use in Specific Populations (8.6) and see Dosage and Administration (2.8)].
 
-#### Pediatrics
+Pediatrics
 
 Weight-adjusted MHD clearance decreases as age and weight increases, approaching that of adults.
 The mean weight-adjusted clearance in children 2 years-<4 years of age is approximately 80% higher on average than that of adults.
-
-Therefore, MHD exposure in these children is expected to be about one-half that of adults when treated with a similar weight-adjusted dose.
+Therefore, MHD exposure in these children is expected to be about one-half that of adults when treated with a similar weight adjusted dose.
 The mean weight-adjusted clearance in children 4–12 years of age is approximately 40% higher on average than that of adults.
 Therefore, MHD exposure in these children is expected to be about three-quarters that of adults when treated with a similar weight-adjusted dose.
 As weight increases, for patients 13 years of age and above, the weight-adjusted MHD clearance is expected to reach that of adults.
 
-#### Pregnancy
+Pregnancy
 
 Due to physiological changes during pregnancy, MHD plasma levels may gradually decrease throughout pregnancy [see Use in Specific Populations (8.1)]
 
-#### Geriatrics
+Geriatrics
 
 Following administration of single (300 mg) and multiple (600 mg/day) doses of oxcarbazepine to elderly volunteers (60-82 years of age), the maximum plasma concentrations and AUC values of MHD were 30%-60% higher than in younger volunteers (18-32 years of age).
 Comparisons of creatinine clearance in young and elderly volunteers indicate that the difference was due to age-related reductions in creatinine clearance.
 
-#### Gender
+Gender
 
 No gender-related pharmacokinetic differences have been observed in children, adults, or the elderly.
 
-#### Race
+Race
 
 No specific studies have been conducted to assess what effect, if any, race may have on the disposition of oxcarbazepine.
 
-### Drug Interactions
+Drug Interactions:
 
-#### In Vitro
+In Vitro
 
 Oxcarbazepine can inhibit CYP2C19 and induce CYP3A4/5 with potentially important effects on plasma concentrations of other drugs.
 In addition, several AEDs that are cytochrome P450 inducers can decrease plasma concentrations of oxcarbazepine and MHD.
@@ -114,6 +113,6 @@ In addition, oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A f
 
 As binding of MHD to plasma proteins is low (40%), clinically significant interactions with other drugs through competition for protein binding sites are unlikely.
 
-#### In Vivo
+In Vivo
 
 For in vivo drug interactions [see Drug Interactions (7)].

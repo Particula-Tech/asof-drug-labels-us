@@ -17,10 +17,14 @@ Patients were randomized to receive either placebo or oxcarbazepine given as 150
 The primary measure of effectiveness was a between-group comparison of the time to meet exit criteria.
 There was a statistically significant difference in favor of oxcarbazepine (see Figure 1), p=0.0001.
 
+Figure 1 Kaplan-Meier Estimates of Exit Rate by Treatment Group
+
 The second placebo-controlled trial was conducted in 67 untreated patients (8-69 years of age) with newly-diagnosed and recent-onset partial seizures.
 Patients were randomized to placebo or oxcarbazepine, initiated at 300 mg twice a day and titrated to 1200 mg/day (given as 600 mg twice a day) in six days, followed by maintenance treatment for 84 days.
 The primary measure of effectiveness was a between-group comparison of the time to first seizure.
 The difference between the two treatments was statistically significant in favor of oxcarbazepine (see Figure 2), p=0.046.
+
+Figure 2 Kaplan-Meier Estimates of First Seizure Event Rate by Treatment Group
 
 A third trial substituted oxcarbazepine monotherapy at 2400 mg/day for carbamazepine in 143 patients (12-65 years of age) whose partial seizures were inadequately controlled on carbamazepine (CBZ) monotherapy at a stable dose of 800 to 1600 mg/day, and maintained this oxcarbazepine dose for 56 days (baseline phase).
 Patients who were able to tolerate titration of oxcarbazepine to 2400 mg/day during simultaneous carbamazepine withdrawal were randomly assigned to either 300 mg/day of oxcarbazepine or 2400 mg/day oxcarbazepine.
@@ -28,12 +32,16 @@ Patients were observed for 126 days or until one of the following four exit crit
 The primary measure of effectiveness was a between-group comparison of the time to meet exit criteria.
 The difference between the curves was statistically significant in favor of the oxcarbazepine 2400 mg/day group (see Figure 3), p=0.0001.
 
+Figure 3 Kaplan-Meier Estimates of Exit Rate by Treatment Group
+
 Another monotherapy substitution trial was conducted in 87 patients (11-66 years of age) whose seizures were inadequately controlled on one or two AEDs.
 Patients were randomized to either oxcarbazepine 2400 mg/day or 300 mg/day and their standard AED regimen(s) were eliminated over the first six weeks of double-blind therapy.
 Double-blind treatment continued for another 84 days (total double-blind treatment of 126 days) or until one of the four exit criteria described for the previous study occurred.
 The primary measure of effectiveness was a between-group comparison of the percentage of patients meeting exit criteria.
 The results were statistically significant in favor of the oxcarbazepine 2400 mg/day group (14/34; 41.2%) compared to the oxcarbazepine 300 mg/day group (42/45; 93.3%) (p<0.0001).
 The time to meeting one of the exit criteria was also statistically significant in favor of the oxcarbazepine 2400 mg/day group (see Figure 4), p=0.0001.
+
+Figure 4 Kaplan-Meier Estimates of Exit Rate by Treatment Group
 
 A monotherapy trial was conducted in 92 pediatric patients (1 month to 16 years of age) with inadequately-controlled or new-onset partial seizures.
 Patients were hospitalized and randomized to either oxcarbazepine 10 mg/kg/day or were titrated up to 40-60 mg/kg/day within three days while withdrawing the previous AED on the second day of oxcarbazepine therapy.
@@ -61,7 +69,7 @@ In the pediatric trial, patients received maintenance doses in the range of 30-4
 The primary measure of effectiveness in both trials was a between-group comparison of the percentage change in partial seizure frequency in the double-blind treatment phase relative to baseline phase.
 This comparison was statistically significant in favor of oxcarbazepine at all doses tested in both trials (p=0.0001 for all doses for both trials).
 The number of patients randomized to each dose, the median baseline seizure rate, and the median percentage seizure rate reduction for each trial are shown in Table 8.
-It is important to note that in the high-dose group in the study in adults, over 65% of patients discontinued treatment because of adverse events; only 46 (27%) of the patients in this group completed the 28-week study [see Adverse Reactions(7)], an outcome not seen in the monotherapy studies.
+It is important to note that in the high-dose group in the study in adults, over 65% of patients discontinued treatment because of adverse events; only 46 (27%) of the patients in this group completed the 28-week study [see Adverse Reactions (7)], an outcome not seen in the monotherapy studies.
 
 Table 8 Summary of Percentage Change in Partial Seizure Frequency from Baseline for Placebo-Controlled Adjunctive Therapy Trials
 

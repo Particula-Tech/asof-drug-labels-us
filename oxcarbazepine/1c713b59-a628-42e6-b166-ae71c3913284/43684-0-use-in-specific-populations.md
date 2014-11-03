@@ -24,7 +24,8 @@ Oral administration of MHD (25, 75, or 250 mg/kg) to rats during gestation and l
 
 To provide information regarding the effects of in utero exposure to oxcarbazepine, physicians are advised to recommend that pregnant patients taking oxcarbazepine enroll in the NAAED Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+Information on the registry can also be found at the website Error!
+Hyperlink reference not valid..
 
 ## 8.2 Labor and Delivery
 

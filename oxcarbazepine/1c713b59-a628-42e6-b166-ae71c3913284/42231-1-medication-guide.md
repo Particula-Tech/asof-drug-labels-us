@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Oxcarbazepine Tablets
+Oxcarbazepine Tablets USP
 
 (ox kar baz' e peen)
 
@@ -117,7 +117,7 @@ Before taking oxcarbazepine tablets, tell your healthcare provider about all you
   Oxcarbazepine tablets may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking oxcarbazepine tablets.
   You and your healthcare provider will decide if you should take oxcarbazepine tablets while you are pregnant.
-  - ∘If you become pregnant while taking oxcarbazepine tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  - If you become pregnant while taking oxcarbazepine tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
     The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
     You can enroll in this registry by calling 1-888-233-2334.
 - •are breastfeeding or plan to breastfeed.
@@ -191,7 +191,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 ## How should I store oxcarbazepine tablets?
 
 - •Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-  - ∘Keep oxcarbazepine tablets dry.
+  - Keep oxcarbazepine tablets dry.
 
 Keep oxcarbazepine tablets and all medicines out of the reach of children.
 
@@ -227,4 +227,4 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-March 2013
+September 2014
