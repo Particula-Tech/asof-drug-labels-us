@@ -7,7 +7,7 @@ It is also not known whether Omidria can cause fetal harm when administered to a
 Omidria should be used in pregnant women only if clearly needed.
 
 Ketorolac, administered during organogenesis, was not teratogenic in rabbits or rats at oral doses of 3.6 mg/kg/day and 10 mg/kg/day, respectively.
-These doses produced systemic exposure that is 1150 times and 4960 times the plasma exposure (based on Cmax) at the recommended human ophthalmic dose (RHOD), respectively.
+These doses produced systemic exposure that is 1150 times and 4960 times the plasma exposure (based on C max) at the recommended human ophthalmic dose (RHOD), respectively.
 When administered to rats after Day 17 of gestation at oral doses up to 1.5 mg/kg/day (740 times the plasma exposure at the RHOD), ketorolac produced dystocia and increased pup mortality.
 
 Clinical Considerations: Premature closure of the ductus arteriosus in the fetus has occurred with third trimester use of oral and injectable NSAIDs.

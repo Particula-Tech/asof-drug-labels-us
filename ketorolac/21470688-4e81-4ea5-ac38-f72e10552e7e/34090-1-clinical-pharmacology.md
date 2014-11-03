@@ -4,7 +4,7 @@
 
 The two active pharmaceutical ingredients (API) in Omidria, phenylephrine and ketorolac, act to maintain pupil size by preventing intraoperative miosis, and reducing postoperative pain.
 
-Phenylephrine is an α1-adrenergic receptor agonist and, in the eye, acts as a mydriatic agent by contracting the radial muscle of the iris.
+Phenylephrine is an α 1-adrenergic receptor agonist and, in the eye, acts as a mydriatic agent by contracting the radial muscle of the iris.
 Ketorolac is a nonsteroidal anti-inflammatory that inhibits both cyclooxygenase enzymes (COX-1 and COX-2), resulting in a decrease in tissue concentrations of prostaglandins to reduce pain due to surgical trauma.
 Ketorolac, by inhibiting prostaglandin synthesis secondary to ocular surgical insult or direct mechanical stimulation of the iris, also prevents surgically induced miosis.
 
