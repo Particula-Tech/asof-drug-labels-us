@@ -2,11 +2,11 @@
 
 ## 5.1 Anemia, Neutropenia and Thrombocytopenia
 
-Treatment with azacitidine for injection is associated with anemia, neutropenia and thrombocytopenia.
-Complete blood counts should be performed as needed to monitor response and toxicity, but at a minimum, prior to each dosing cycle.
-After administration of the recommended dosage for the first cycle, dosage for subsequent cycles should be reduced or delayed based on nadir counts and hematologic response [see Dosage and Administration (2.3)].
+Azacitidine for injection causes anemia, neutropenia and thrombocytopenia.
+Monitor complete blood counts frequently for response and/or toxicity, at a minimum, prior to each dosing cycle.
+After administration of the recommended dosage for the first cycle, adjust dosage for subsequent cycles based on nadir counts and hematologic response [see Dosage and Administration (2.3)].
 
-## 5.2 Severe Pre-existing Hepatic Impairment
+## 5.2 Azacitidine For Injection Toxicity in Patients with Severe Pre-existing Hepatic Impairment
 
 Because azacitidine is potentially hepatotoxic in patients with severe pre-existing hepatic impairment, caution is needed in patients with liver disease.
 Patients with extensive tumor burden due to metastatic disease have been reported to experience progressive hepatic coma and death during azacitidine treatment, especially in such patients with baseline albumin <30 g/L.
@@ -14,20 +14,16 @@ Azacitidine is contraindicated in patients with advanced malignant hepatic tumor
 
 Safety and effectiveness of azacitidine for injection in patients with MDS and hepatic impairment have not been studied as these patients were excluded from the clinical trials.
 
-## 5.3 Renal Abnormalities
+## 5.3 Renal Toxicity
 
-Renal abnormalities ranging from elevated serum creatinine to renal failure and death have been reported in patients treated with intravenous azacitidine in combination with other chemotherapeutic agents for non MDS conditions.
+Renal toxicity ranging from elevated serum creatinine to renal failure and death have been reported in patients treated with intravenous azacitidine in combination with other chemotherapeutic agents for non MDS conditions.
 In addition, renal tubular acidosis, defined as a fall in serum bicarbonate to <20 mEq/L in association with an alkaline urine and hypokalemia (serum potassium <3 mEq/L) developed in 5 patients with CML treated with azacitidine and etoposide.
 If unexplained reductions in serum bicarbonate <20 mEq/L or elevations of BUN or serum creatinine occur, the dosage should be reduced or held [see Dosage and Administration (2.4)].
 
-Patients with renal impairment should be closely monitored for toxicity since azacitidine and its metabolites are primarily excreted by the kidneys [see Dosage and Administration (2.4,2.5)].
-
-Safety and effectiveness of azacitidine for injection in patients with MDS and renal impairment have not been studied as these patients were excluded from the clinical trials.
-
-## 5.4 Monitoring Laboratory Tests
-
-Complete blood counts should be performed as needed to monitor response and toxicity, but at a minimum, prior to each cycle.
-Liver chemistries and serum creatinine should be obtained prior to initiation of therapy.
+Patients with renal impairment may be at increased risk for renal toxicity.
+Also, azacitidine and its metabolites are primarily excreted by the kidney.
+Therefore, these patients should be closely monitored for toxicity [see Dosage and Administration (2.4, 2.5)].
+Patients with MDS and renal impairment were excluded from the clinical studies.
 
 ## 5.5 Use in Pregnancy
 

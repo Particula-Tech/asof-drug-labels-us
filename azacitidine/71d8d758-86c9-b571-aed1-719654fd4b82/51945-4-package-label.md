@@ -1,3 +1,7 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
 
+Vial Label
+
 Vial Carton
+
+Vial Label

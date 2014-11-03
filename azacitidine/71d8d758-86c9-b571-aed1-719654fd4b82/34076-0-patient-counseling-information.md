@@ -22,7 +22,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Issued: 0113
+Revised: 0214
 
 OR
 
@@ -32,4 +32,4 @@ Dr. Reddy’s Laboratories Limited
 
 Visakhapatnam - 530 046 INDIA
 
-Issued: 0913
+Revised: 0214
