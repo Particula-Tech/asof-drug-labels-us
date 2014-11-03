@@ -2,7 +2,7 @@
 
 The dose of any local anesthetic administered varies with the anesthetic procedure, the area to be anesthetized, the vascularity of the tissues, the number of neuronal segments to be blocked, the depth of anesthesia and degree of muscle relaxation required, the duration of anesthesia desired, individual tolerance, and the physical condition of the patient.
 The smallest dose and concentration required to produce the desired result should be administered.
-Dosages of Sensorcaine should be reduced for young, elderly and/or debilitated patients and patients with cardiac and/or liver disease.
+Dosages of Sensorcaine should be reduced for elderly and/or debilitated patients and patients with cardiac and/or liver disease.
 The rapid injection of a large volume of local anesthetic solution should be avoided and fractional (incremental) doses should be used when feasible.
 
 For specific techniques and procedures, refer to standard textbooks.
@@ -28,13 +28,13 @@ Maximum dosage limit must be individualized in each case after evaluating the si
 Most experience to date is with single doses of Sensorcaine up to 225 mg with epinephrine 1:200,000 and 175 mg without epinephrine; more or less drug may be used depending on individualization of each case.
 
 These doses may be repeated up to once every three hours.
-In clinical studies to date, total daily doses up to 400 mg have been reported.
+In clinical studies to date, total daily doses have been up to 400 mg.
 Until further experience is gained, this dose should not be exceeded in 24 hours.
 The duration of anesthetic effect may be prolonged by the addition of epinephrine.
 
 The dosages in Table 1 have generally proved satisfactory and are recommended as a guide for use in the average adult.
 These dosages should be reduced for elderly or debilitated patients.
-Until further experience is gained Sensorcaine is not recommended for pediatric patients younger than 12 years.
+Until further experience is gained, Sensorcaine is not recommended for pediatric patients younger than 12 years.
 Sensorcaine is contraindicated for obstetrical paracervical blocks, and is not recommended for intravenous regional anesthesia (Bier Block).
 
 ## Use in Epidural Anesthesia
@@ -44,16 +44,21 @@ In obstetrics, only the 0.5% and 0.25% concentrations should be used; incrementa
 Repeat doses should be preceded by a test dose containing epinephrine if not contraindicated.
 Use only the single dose ampules and single dose vials for caudal or epidural anesthesia; the multiple dose vials contain a preservative and therefore should not be used for these procedures.
 
-Test Dose for Caudal and Lumbar Epidural Blocks
+## Use in Dentistry
 
-See PRECAUTIONS.
+The 0.5% concentration with epinephrine is recommended for infiltration and block injection in the maxillary and mandibular area when a longer duration of local anesthetic action is desired, such as for oral surgical procedures generally associated with significant postoperative pain.
+The average dose of 1.8 mL (9 mg) per injection site will usually suffice; an occasional second dose of 1.8 mL (9 mg) may be used if necessary to produce adequate anesthesia after making allowance for 2 to 10 minutes onset time (see CLINICAL PHARMACOLOGY).
+The lowest effective dose should be employed and time should be allowed between injections; it is recommended that the total dose for all injection sites, spread out over a single dental sitting, should not ordinarily exceed 90 mg for a healthy adult patient (ten 1.8 mL injections of 0.5% sensorcaine with epinephrine).
+Injections should be made slowly and with frequent aspirations.
+Until further experience is gained, sensorcaine in dentistry is not recommended for pediatric patients younger than 12 years.
 
-Unused portions of solutions in single dose containers should be discarded, since this product form contains no preservatives.
+Unused portions of solution not containing preservatives, i.e., those supplied in single dose ampules and single dose vials, should be discarded following initial use.
+
+This product should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+Solutions which are discolored or which contain particulate matter should not be administered.
 
 TABLE 1.
-DOSAGE RECOMMENDATIONS —
-
-SENSORCAINE (bupivacaine HCl) INJECTIONS
+Recommended Concentrations and Doses of Sensorcaine (bupivacaine HCl) Injections
 
 |  |  | Each Dose |  |  |
 | --- | --- | --- | --- | --- |
@@ -68,19 +73,16 @@ SENSORCAINE (bupivacaine HCl) INJECTIONS
 |  | 0.25%4 | 5 to max. | 12.5 to max. | moderate to complete |
 | Retrobulbar3 | 0.75%4 | 2 to 4 | 15 to 30 | complete |
 | Sympathetic | 0.25% | 20 to 50 | 50 to 125 | — |
+| Dental3 | 0.5% w/epi | 1.8 to 3.6 per site | 9 to 18 per site | — |
 | Epidural3 | 0.5% | 2 to 3 | 10 to 15 | — |
-| Test Dose | w/epi |  | 10 to 15 mcg epinephrine(see PRECAUTIONS) |  |
 
 1 With continuous (intermittent) techniques, repeat doses increase the degree of motor block.
 The first repeat dose of 0.5% may produce complete motor block.
 Intercostal nerve block with 0.25% may also produce complete motor block for intra-abdominal surgery.
 
 2 For single dose use, not for intermittent epidural technique.
-Not for obstetric anesthesia.
+Not for obstetrical anesthesia.
 
 3 See PRECAUTIONS.
 
 4 Solutions with or without epinephrine.
-
-NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever the solution and container permit.
-The Injection is not to be used if its color is pinkish or darker than slightly yellow or if it contains a precipitate.

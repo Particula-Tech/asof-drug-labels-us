@@ -24,7 +24,7 @@ Warning: Contains Sulfites
 
 Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Carton Panel
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Tray Label
 
 NDC 63323-462-37
 
@@ -72,7 +72,7 @@ Methylparaben Free
 
 Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Carton Panel
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Tray Label
 
 NDC 63323-464-37
 
@@ -114,7 +114,7 @@ Not for Caudal, Epidural or Spinal Anesthesia
 
 Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Carton Panel
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Tray Label
 
 NDC 63323-465-57
 
@@ -156,7 +156,7 @@ Methylparaben Free
 
 Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Carton Panel
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Tray Label
 
 NDC 63323-466-37
 
@@ -198,7 +198,7 @@ Not for Caudal, Epidural or Spinal Anesthesia
 
 Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Carton Panel
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Tray Label
 
 NDC 63323-467-57
 
@@ -246,7 +246,7 @@ Warning: Contains Sulfites
 
 Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Carton Panel
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Tray Label
 
 NDC 63323-460-37
 
