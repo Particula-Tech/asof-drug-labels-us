@@ -1,6 +1,11 @@
-Distributed by: Caraco Pharmaceutical Laboratories, Ltd. 1150 Elijah McCoy Drive, Detroit, MI 48202
+# POST MARKETING EXPERIENCE
 
-Manufactured by: Sun Pharmaceutical Industries Ltd. Acme Plaza, Andheri-Kurla Road, Andheri (East), Mumbai - 400 059, India.
+The following serious adverse events have been reported since approval and use of zonisamide worldwide.
+These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
 
-PJPI0192B ISS.
-07/2010
+Acute pancreatitis, rhabdomyolysis, creatine phosphokinase increased.
+
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
+
+PJPI0192D ISS.
+07/2014

@@ -7,7 +7,7 @@ Zonisamide is a white powder, pKa = 10.2, and is moderately soluble in water (0.
 
 The chemical structure is:
 
-Zonisamide is supplied for oral administration as capsules containing 25 mg, 50 mg or 100 mg zonisamide.
+Zonisamide is supplied for oral administration as capsules containing 25 mg, 50 mg or 100 mg zonisamide, USP.
 Each capsule contains the labeled amount of zonisamide plus the following inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, gelatin, and titanium dioxide.
 
 In addition, individual empty hard gelatin capsule shell contains: 50 mg: Black iron oxide.

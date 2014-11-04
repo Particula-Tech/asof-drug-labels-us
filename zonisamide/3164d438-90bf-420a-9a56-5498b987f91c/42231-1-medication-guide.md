@@ -1,12 +1,29 @@
 # MEDICATION GUIDE
 
-Zonisamide Capsules
+Zonisamide Capsules (zoe nis′ a mide)
 
 Read this Medication Guide before you start taking zonisamide capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
 What is the most important information I should know about Zonisamide Capsules?
+
+Zonisamide capsules may cause serious side effects, including:
+
+1.
+Serious skin rash that can cause death.
+2.
+Less sweating and increase in your body temperature (fever).
+3.
+Suicidal thoughts or actions in some people.
+4.
+Increased level of acid in your blood (metabolic acidosis).
+5.
+Problems with your concentration, attention, memory, thinking, speech, or language.
+6.
+Blood cell changes such as reduced red and white blood cell counts.
+
+These serious side effects are described below.
 
 1. Zonisamide capsules may cause a serious skin rash that can cause death.
    These serious skin reactions are more likely to happen when you begin taking zonisamide capsules within the first 4 months of treatment but may occur at later times.
@@ -127,7 +144,7 @@ Zonisamide capsules can cause serious side effects including:
 - The side effects mentioned above (see “What is the most important information I should know about Zonisamide Capsules?”)
 - kidney stones: back pain, stomach pain, or blood in your urine may mean you have kidney stones.
   Drink plenty of fluids while you take zonisamide capsules to lower your chance of getting kidney stones.
-- problems with mood or thinking (new or worse depression; sudden changes in mood, behavior, or loss of contact with reality, sometimes associated with hearing voices or seeing things that are not really there; feeling sleepy or tired; trouble concentrating; speech and language problems)
+- problems with mood or thinking (new or worse depression; sudden changes in mood, behavior, or loss of contact with reality, sometimes associated with hearing voices or seeing things that are not really there; feeling sleepy or tired; trouble concentrating; speech and language problems).
 
 Call your healthcare provider right away if you have any of the symptoms listed above.
 
@@ -181,9 +198,7 @@ The imprinting ink contains black iron oxide, shellac glaze, propylene glycol an
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Caraco Pharmaceutical Laboratories, Ltd. 1150 Elijah McCoy Drive, Detroit, MI 48202
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Manufactured by: Sun Pharmaceutical Industries Ltd. Acme Plaza, Andheri-Kurla Road, Andheri (East), Mumbai - 400 059, India.
-
-PJPI0265A ISS.
-07/2010
+PJPI0265C ISS.
+07/2014

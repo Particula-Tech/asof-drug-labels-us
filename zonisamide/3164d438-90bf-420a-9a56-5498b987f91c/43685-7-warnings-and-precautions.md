@@ -9,23 +9,22 @@ Specific experience with sulfonamide-type adverse reaction to zonisamide is desc
 
 Consideration should be given to discontinuing zonisamide in patients who develop an otherwise unexplained rash.
 If the drug is not discontinued, patients should be observed frequently.
-Seven deaths from severe rash [i.e.
-Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)] were reported in the first 11 years of marketing in Japan.
+Seven deaths from severe rash [i.e., Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)] were reported in the first 11 years of marketing in Japan.
 All of the patients were receiving other drugs in addition to zonisamide.
-In post-marketing experience from Japan, a total of 49 cases of SJS or TEN have been reported, a reporting rate of 46 per million patient-years of exposure.
+In postmarketing experience from Japan, a total of 49 cases of SJS or TEN have been reported, a reporting rate of 46 per million patient-years of exposure.
 Although this rate is greater than background, it is probably an underestimate of the true incidence because of under-reporting.
-There were no confirmed cases of SJS or TEN in the US, European, or Japanese development programs.
+There were no confirmed cases of SJS or TEN in the U.S., European, or Japanese development programs.
 
-In the US and European randomized controlled trials, 6 of 269 (2.2%) zonisamide patients discontinued treatment because of rash compared to none on placebo.
-Across all trials during the US and European development, rash that led to discontinuation of zonisamide was reported in 1.4% of patients (12 events per 1000 patient-years of exposure).
+In the U.S. and European randomized controlled trials, 6 of 269 (2.2%) zonisamide patients discontinued treatment because of rash compared to none on placebo.
+Across all trials during the U.S. and European development, rash that led to discontinuation of zonisamide was reported in 1.4% of patients (12 events per 1000 patient-years of exposure).
 During Japanese development, serious rash or rash that led to study drug discontinuation was reported in 2% of patients (27.8 events per 1000 patient years).
-Rash usually occurred early in treatment, with 85% reported within 16 weeks in the US and European studies and 90% reported within two weeks in the Japanese studies.
+Rash usually occurred early in treatment, with 85% reported within 16 weeks in the U.S. and European studies and 90% reported within two weeks in the Japanese studies.
 There was no apparent relationship of dose to the occurrence of rash.
 
 ## Serious Hematologic Events
 
 Two confirmed cases of aplastic anemia and one confirmed case of agranulocytosis were reported in the first 11 years of marketing in Japan, rates greater than generally accepted background rates.
-There were no cases of aplastic anemia and two confirmed cases of agranulocytosis in the US, European, or Japanese development programs.
+There were no cases of aplastic anemia and two confirmed cases of agranulocytosis in the U.S., European, or Japanese development programs.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
 
 ## Oligohidrosis and Hyperthermia in Pediatric Patients
@@ -33,12 +32,12 @@ There is inadequate information to assess the relationship, if any, between dose
 Oligohidrosis, sometimes resulting in heat stroke and hospitalization, is seen in association with zonisamide in pediatric patients.
 
 During the pre-approval development program in Japan, one case of oligohidrosis was reported in 403 pediatric patients, an incidence of 1 case per 285 patient-years of exposure.
-While there were no cases reported in the US or European development programs, fewer than 100 pediatric patients participated in these trials.
+While there were no cases reported in the U.S. or European development programs, fewer than 100 pediatric patients participated in these trials.
 
 In the first 11 years of marketing in Japan, 38 cases were reported, an estimated reporting rate of about 1 case per 10,000 patient-years of exposure.
-In the first year of marketing in the US, 2 cases were reported, an estimated reporting rate of about 12 cases per 10,000 patient-years of exposure.
+In the first year of marketing in the U.S., 2 cases were reported, an estimated reporting rate of about 12 cases per 10,000 patient-years of exposure.
 These rates are underestimates of the true incidence because of under-reporting.
-There has also been one report of heat stroke in an 18-year-old patient in the US.
+There has also been one report of heat stroke in an 18-year-old patient in the U.S.
 
 Decreased sweating and an elevation in body temperature above normal characterized these cases.
 Many cases were reported after exposure to elevated environmental temperatures.
@@ -186,7 +185,7 @@ The incidence of kidney stone as an adverse event was 3 % (see WARNINGS, Metabol
 
 In several clinical studies, zonisamide was associated with a statistically significant 8% mean increase from baseline of serum creatinine and blood urea nitrogen (BUN) compared to essentially no change in the placebo patients.
 The increase appeared to persist over time but was not progressive; this has been interpreted as an effect on glomerular filtration rate (GFR).
-There were no episodes of unexplained acute renal failure in clinical development in the US, Europe, or Japan.
+There were no episodes of unexplained acute renal failure in clinical development in the U.S., Europe, or Japan.
 The decrease in GFR appeared within the first 4 weeks of treatment.
 In a 30-day study, the GFR returned to baseline within 2 to 3 weeks of drug discontinuation.
 There is no information about reversibility, after drug discontinuation, of the effects on GFR after long-term use.

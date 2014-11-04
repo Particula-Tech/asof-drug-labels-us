@@ -88,7 +88,7 @@ Therefore, if zonisamide is given concomitantly with another carbonic anhydrase 
 The effectiveness of zonisamide as adjunctive therapy (added to other antiepilepsy drugs) has been established in three multicenter, placebo-controlled, double blind, 3-month clinical trials (two domestic, one European) in 499 patients with refractory partial onset seizures with or without secondary generalization.
 Each patient had a history of at least four partial onset seizures per month in spite of receiving one or two antiepilepsy drugs at therapeutic concentrations.
 The 499 patients (209 women, 290 men) ranged in age from 13 to 68 years with a mean age of about 35 years.
-In the two US studies, over 80% of patients were Caucasian; 100% of patients in the European study were Caucasian.
+In the two U.S. studies, over 80% of patients were Caucasian; 100% of patients in the European study were Caucasian.
 Zonisamide or placebo was added to the existing therapy.
 The primary measure of effectiveness was median percent reduction from baseline in partial seizure frequency.
 The secondary measure was proportion of patients achieving a 50% or greater seizure reduction from baseline (responders).
