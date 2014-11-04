@@ -66,9 +66,9 @@ In a 12-week randomized, multicenter, double-blind, double-dummy parallel group 
 Plasma ipratropium concentrations were low with an average peak plasma concentration of 33.5 pg/mL from COMBIVENT RESPIMAT.
 The majority of the study participants exhibited levels below the lower limit of quantitation (<10 pg/mL) by 4 to 6 hours following dosing.
 The steady state systemic exposure obtained for ipratropium bromide following COMBIVENT RESPIMAT was comparable to that of CFC-propelled COMBIVENT Inhalation Aerosol.
-Ipratropium plasma AUC and total amount of drug excreted unchanged in urine (Ae) ratios for COMBIVENT RESPIMAT/ CFC-propelled COMBIVENT Inhalation Aerosol were 1.04 and 1.18, respectively.
+Ipratropium plasma AUC and total amount of drug excreted unchanged in urine (Ae) ratios for COMBIVENT RESPIMAT/CFC-propelled COMBIVENT Inhalation Aerosol were 1.04 and 1.18, respectively.
 For albuterol the steady-state systemic exposure was less from COMBIVENT RESPIMAT compared to that of CFC-propelled COMBIVENT Inhalation Aerosol.
-Albuterol plasma AUC and urine Ae ratios for COMBIVENT RESPIMAT/ CFC-propelled COMBIVENT Inhalation Aerosol were 0.74 and 0.86, respectively.
+Albuterol plasma AUC and urine Ae ratios for COMBIVENT RESPIMAT/CFC-propelled COMBIVENT Inhalation Aerosol were 0.74 and 0.86, respectively.
 
 Pharmacokinetic drug-drug interaction between ipratropium bromide and albuterol sulfate was evaluated in a crossover study in 12 healthy male volunteers who received CFC-propelled COMBIVENT Inhalation Aerosol and the two active components separately as individual treatments.
 Results from this study indicated that the coadministration of these two components from a single canister did not significantly alter the systemic absorption of either component, indicating lack of any pharmacokinetic interaction between these two drugs.

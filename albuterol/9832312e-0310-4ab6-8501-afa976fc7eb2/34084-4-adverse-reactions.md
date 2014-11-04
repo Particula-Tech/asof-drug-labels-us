@@ -61,7 +61,7 @@ However, cough occurred more frequently in patients enrolled in the COMBIVENT RE
 
 In addition to the adverse reactions reported in the controlled clinical trial with COMBIVENT RESPIMAT, adverse reaction information concerning CFC-propelled COMBIVENT Inhalation Aerosol is derived from two 12-week controlled clinical trials (N=358 for CFC-propelled COMBIVENT Inhalation Aerosol).
 Adverse reactions reported in ≥2% of patients in the CFC-propelled COMBIVENT Inhalation Aerosol treatment group include: bronchitis, upper respiratory tract infection, headache, dyspnea, cough, pain, respiratory disorder, sinusitis, pharyngitis and nausea.
-Adverse reactions reported in < 2% of patients in the CFC-propelled COMBIVENT Inhalation Aerosol treatment group include: edema, fatigue, hypertension, dizziness, nervousness, tremor, dysphonia, insomnia, diarrhea, dry mouth, dyspepsia, vomiting, arrhythmia, palpitation, tachycardia, arthralgia, angina, increased sputum, taste perversion, urinary tract infection, dysuria, dry throat and bronchospasm.
+Adverse reactions reported in <2% of patients in the CFC-propelled COMBIVENT Inhalation Aerosol treatment group include: edema, fatigue, hypertension, dizziness, nervousness, tremor, dysphonia, insomnia, diarrhea, dry mouth, dyspepsia, vomiting, arrhythmia, palpitation, tachycardia, arthralgia, angina, increased sputum, taste perversion, urinary tract infection, dysuria, dry throat and bronchospasm.
 
 ## 6.2 Post-Marketing Experience
 
