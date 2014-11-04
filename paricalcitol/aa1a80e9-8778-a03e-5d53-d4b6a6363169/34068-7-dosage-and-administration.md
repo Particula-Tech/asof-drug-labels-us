@@ -35,6 +35,6 @@ The following is a suggested approach to dose titration.
 If a patient is taking the lowest dose, 1 mcg, on the daily regimen and a dose reduction is needed, the dose can be decreased to 1 mcg three times a week.
 If a further dose reduction is required, the drug should be withheld as needed and restarted at a lower dosing frequency.
 If a patient is on a calcium-based phosphate binder, the phosphate-binder dose may be decreased or withheld, or the patient may be switched to a non-calcium-based phosphate binder.
-If hypercalcemia or an elevated Ca x P is observed, the dose of paricalcitol should be reduced or withheld until these parameters are normalized.
+If hypercalcemia is observed, the dose of paricalcitol should be reduced or withheld until these parameters are normalized.
 
 Serum calcium and phosphorus levels should be closely monitored after initiation of paricalcitol capsules, during dose titration periods and during co-administration with strong CYP3A inhibitors [see Warnings and Precautions (5.3), Drug Interactions (7) and Clinical Pharmacology (12.3)].

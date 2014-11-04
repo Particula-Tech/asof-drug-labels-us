@@ -21,6 +21,9 @@ Use caution when paricalcitol capsules are prescribed concomitantly with digital
 
 During the initial dosing or following any dose adjustment of medication, serum calcium, serum phosphorus, and serum or plasma iPTH should be monitored at least every two weeks for 3 months, then monthly for 3 months, and every 3 months thereafter.
 
+In pre-dialysis patients, paricalcitol capsules may increase serum creatinine and therefore decrease the estimated GFR (eGFR).
+Similar effects have also been seen with calcitriol.
+
 ## 5.4 Aluminum Overload and Toxicity
 
 TAluminum-containing preparations (e.g., antacids, phosphate binders) should not be administered chronically with paricalcitol, as increased blood levels of aluminum and aluminum bone toxicity may occur.
