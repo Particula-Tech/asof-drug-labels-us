@@ -1,10 +1,11 @@
-# Suicidality and Antidepressant Drugs
+# BOXED WARNING
 
-Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders.
-Anyone considering the use of venlafaxine hydrochloride tablet or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.
-Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older.
-Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide.
-Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
-Families and caregivers should be advised of the need for close observation and communication with the prescriber.
-Venlafaxine hydrochloride tablet is not approved for use in pediatric patients.
+Suicidality and AntidepressantDrugs
+
+Antidepressants increased the risk compared to placeboof suicidal thinking and behavior (suicidality) in children, adolescents, andyoung adults in short-term studies of Major Depressive Disorder (MDD) and otherpsychiatric disorders.
+Anyone considering the use of venlafaxine tablets, USPor any other antidepressant in a child, adolescent, or young adult must balancethis risk with the clinical need.
+Short-term studies did not show an increasein the risk of suicidality with antidepressants compared to placebo in adultsbeyond age 24; there was a reduction in risk with antidepressants compared toplacebo in adults aged 65 and older.
+Depression and certain other psychiatricdisorders are themselves associated with increases in the risk of suicide.Patients of all ages who are started on antidepressant therapy should bemonitored appropriately and observed closely for clinical worsening,suicidality, or unusual changes in behavior.
+Families and caregivers should beadvised of the need for close observation and communication with theprescriber.
+Venlafaxine tablets, USP is not approved for use in pediatricpatients.
 (See WARNINGS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use)

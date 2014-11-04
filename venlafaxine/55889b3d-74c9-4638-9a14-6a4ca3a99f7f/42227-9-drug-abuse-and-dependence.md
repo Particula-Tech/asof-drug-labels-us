@@ -1,8 +1,8 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance Class
+## CONTROLLED SUBSTANCE
 
-Venlafaxine hydrochloride is not a controlled substance.
+Venlafaxine tablets, USP is not a controlled substance.
 
 ## Physical and Psychological Dependence
 
@@ -13,6 +13,6 @@ In primate drug discrimination studies, venlafaxine showed no significant stimul
 
 Discontinuation effects have been reported in patients receiving venlafaxine (see DOSAGE AND ADMINISTRATION).
 
-While venlafaxine hydrochloride has not been systematically studied in clinical trials for its potential for abuse, there was no indication of drug-seeking behavior in the clinical trials.
+While venlafaxine tablets, USP has not been systematically studied in clinical trials for its potential for abuse, there was no indication of drug-seeking behavior in the clinical trials.
 However, it is not possible to predict on the basis of premarketing experience the extent to which a CNS active drug will be misused, diverted, and/or abused once marketed.
-Consequently, physicians should carefully evaluate patients for history of drug abuse and follow such patients closely, observing them for signs of misuse or abuse of venlafaxine hydrochloride (eg, development of tolerance, incrementation of dose, drug-seeking behavior).
+Consequently, physicians should carefully evaluate patients for history of drug abuse and follow such patients closely, observing them for signs of misuse or abuse of venlafaxine tablets, USP (e.g., development of tolerance, incrementation of dose, drug-seeking behavior).
