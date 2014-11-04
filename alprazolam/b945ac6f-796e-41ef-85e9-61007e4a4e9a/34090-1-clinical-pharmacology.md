@@ -8,19 +8,19 @@ Clinically, all benzodiazepines cause a dose-related central nervous system depr
 
 ## Pharmacokinetics
 
-### Absorption
+Absorption
 
 Following oral administration, alprazolam is readily absorbed.
 Peak concentrations in the plasma occur in 1 to 2 hours following administration.
 Plasma levels are proportionate to the dose given; over the dose range of 0.5 to 3 mg, peak levels of 8 to 37 ng/mL were observed.
 Using a specific assay methodology, the mean plasma elimination half-life of alprazolam has been found to be about 11.2 hours (range: 6.3 to 26.9 hours) in healthy adults.
 
-### Distribution
+Distribution
 
 In vitro, alprazolam is bound (80 percent) to human serum protein.
 Serum albumin accounts for the majority of the binding.
 
-### Metabolism/Elimination
+Metabolism/Elimination
 
 Alprazolam is extensively metabolized in humans, primarily by cytochrome P450 3A4 (CYP3A4), to two major metabolites in the plasma: 4-hydroxyalprazolam and α-hydroxyalprazolam.
 A benzophenone derived from alprazolam is also found in humans.
@@ -32,7 +32,7 @@ The benzophenone metabolite is essentially inactive.
 
 Alprazolam and its metabolites are excreted primarily in the urine.
 
-### Special Populations
+Special Populations
 
 Changes in the absorption, distribution, metabolism and excretion of benzodiazepines have been reported in a variety of disease states including alcoholism, impaired hepatic function and impaired renal function.
 Changes have also been demonstrated in geriatric patients.
@@ -42,23 +42,15 @@ In an obese group of subjects the half-life of alprazolam ranged between 9.9 and
 
 Because of its similarity to other benzodiazepines, it is assumed that alprazolam undergoes transplacental passage and that it is excreted in human milk.
 
-#### Race
+Race: Maximal concentrations and half-life of alprazolam are approximately 15% and 25% higher in Asians compared to Caucasians.
 
-Maximal concentrations and half-life of alprazolam are approximately 15% and 25% higher in Asians compared to Caucasians.
+Pediatrics: The pharmacokinetics of alprazolam in pediatric patients have not been studied.
 
-#### Pediatrics
+Gender:Gender has no effect on the pharmacokinetics of alprazolam.
 
-The pharmacokinetics of alprazolam in pediatric patients have not been studied.
+Cigarette Smoking: Alprazolam concentrations may be reduced by up to 50% in smokers compared to non-smokers.
 
-#### Gender
-
-Gender has no effect on the pharmacokinetics of alprazolam.
-
-#### Cigarette Smoking
-
-Alprazolam concentrations may be reduced by up to 50% in smokers compared to non-smokers.
-
-### Drug-Drug Interactions
+Drug-Drug Interactions
 
 Alprazolam is primarily eliminated by metabolism via cytochrome P450 3A (CYP3A).
 Most of the interactions that have been documented with alprazolam are with drugs that inhibit or induce CYP3A4.

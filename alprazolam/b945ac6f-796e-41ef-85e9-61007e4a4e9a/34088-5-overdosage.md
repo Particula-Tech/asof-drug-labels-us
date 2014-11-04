@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-## Clinical Experience
+Clinical Experience
 
 Manifestations of alprazolam overdosage include somnolence, confusion, impaired coordination, diminished reflexes and coma.
 Death has been reported in association with overdoses of alprazolam by itself, as it has with other benzodiazepines.
@@ -12,7 +12,7 @@ Animals could be resuscitated with positive mechanical ventilation and the intra
 
 Animal experiments have suggested that forced diuresis or hemodialysis are probably of little value in treating overdosage.
 
-## General Treatment of Overdose
+General Treatment of Overdose
 
 Overdosage reports with alprazolam are limited.
 As in all cases of drug overdosage, respiration, pulse rate, and blood pressure should be monitored.

@@ -135,7 +135,7 @@ In addition to the relatively common (ie, greater than 1%) untoward events enume
 
 Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients (see PRECAUTIONS: General).
 
-## Adverse Events Reported as Reasons for Discontinuation in Treatment of Panic Disorder in Placebo-Controlled Trials
+Adverse Events Reported as Reasons for Discontinuation in Treatment of Panic Disorder in Placebo-Controlled Trials
 
 In a larger database comprised of both controlled and uncontrolled studies in which 641 patients received alprazolam, discontinuation-emergent symptoms which occurred at a rate of over 5% in patients treated with alprazolam and at a greater rate than the placebo treated group were as follows:
 
@@ -176,7 +176,7 @@ Should any of the above events occur, alprazolam should be discontinued.
 Isolated published reports involving small numbers of patients have suggested that patients who have borderline personality disorder, a prior history of violent or aggressive behavior, or alcohol or substance abuse may be at risk for such events.
 Instances of irritability, hostility, and intrusive thoughts have been reported during discontinuation of alprazolam in patients with posttraumatic stress disorder.
 
-## Post Introduction Reports
+Post Introduction Reports
 
 Various adverse drug reactions have been reported in association with the use of alprazolam since market introduction.
 The majority of these reactions were reported through the medical event voluntary reporting system.

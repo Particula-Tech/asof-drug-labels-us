@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-## Anxiety Disorders
+Anxiety Disorders
 
 Alprazolam IntensolTM Oral Solution is indicated for the management of anxiety disorder (a condition corresponding most closely to the APA Diagnostic and Statistical Manual [DSM-III-R] diagnosis of generalized anxiety disorder) or the short-term relief of symptoms of anxiety.
 Anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic.
@@ -11,7 +11,7 @@ These symptoms must not be secondary to another psychiatric disorder or caused b
 
 Anxiety associated with depression is responsive to Alprazolam IntensolTM Oral Solution.
 
-## Panic Disorder
+Panic Disorder
 
 Alprazolam IntensolTM Oral Solution is also indicated for the treatment of panic disorder, with or without agoraphobia.
 

@@ -1,6 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## Physical and Psychological Dependence
+Physical and Psychological Dependence
 
 Withdrawal symptoms similar in character to those noted with sedative/hypnotics and alcohol have occurred following discontinuance of benzodiazepines, including alprazolam.
 The symptoms can range from mild dysphoria and insomnia to a major syndrome that may include abdominal and muscle cramps, vomiting, sweating, tremors and convulsions.
@@ -27,6 +27,6 @@ Some patients have experienced considerable difficulty in tapering and discontin
 Addiction-prone individuals should be under careful surveillance when receiving alprazolam.
 As with all anxiolytics, repeat prescriptions should be limited to those who are under medical supervision.
 
-## Controlled Substance Class
+Controlled Substance Class
 
 Alprazolam is a controlled substance under the Controlled Substance Act by the Drug Enforcement Administration and Alprazolam Intensol™ has been assigned to Schedule IV.
