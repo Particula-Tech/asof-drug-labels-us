@@ -65,9 +65,7 @@ Table 12 Efficacy of XELODA vs 5-FU/LV in Adjuvant Treatment of Colon CancerAppr
 | --- | --- | --- |
 | Median follow-up (months) | 83 | 83 |
 | 5-year Disease-free Survival Rates (%)Based on Kaplan-Meier estimates | 59.1 | 54.6 |
-| Hazard Ratio | 0.88 |  |
-| (XELODA/5-FU/LV) | (0.77 - 1.01) |  |
-| (95% C.I. for Hazard Ratio) |  |  |
+| Hazard Ratio (XELODA/5-FU/LV) (95% C.I. for Hazard Ratio) | 0.88 (0.77 - 1.01) |  |
 | p-valueTest of superiority of XELODA vs 5-FU/LV (Wald chi-square test) | p = 0.068 |  |
 
 | Figure 1 Kaplan-Meier Estimates of Disease-Free Survival (All Randomized Population)XELODA has been demonstrated to be non-inferior to 5-FU/LV. |
@@ -120,12 +118,15 @@ Table 14 Efficacy of XELODA vs 5-FU/LV in Colorectal Cancer (Study 1)
 
 |  | XELODA (n=302) | 5-FU/LV (n=303) |
 | --- | --- | --- |
-| Overall Response Rate (%, 95% C.I.) | 21 (16-26) | 11 (8-15) |
+| Overall Response Rate |  |  |
+| (%, 95% C.I.) | 21 (16-26) | 11 (8-15) |
 | (p-value) | 0.0014 |  |
-| Time to Progression (Median, days, 95% C.I.) | 128 (120-136) | 131 (105-153) |
+| Time to Progression |  |  |
+| (Median, days, 95% C.I.) | 128 (120-136) | 131 (105-153) |
 | Hazard Ratio (XELODA/5-FU/LV) | 0.99 |  |
 | 95% C.I. for Hazard Ratio | (0.84-1.17) |  |
-| Survival (Median, days, 95% C.I.) | 380 (321-434) | 407 (366-446) |
+| Survival |  |  |
+| (Median, days, 95% C.I.) | 380 (321-434) | 407 (366-446) |
 | Hazard Ratio (XELODA/5-FU/LV) | 1.00 |  |
 | 95% C.I. for Hazard Ratio | (0.84-1.18) |  |
 
@@ -133,12 +134,15 @@ Table 15 Efficacy of XELODA vs 5-FU/LV in Colorectal Cancer (Study 2)
 
 |  | XELODA (n=301) | 5-FU/LV (n=301) |
 | --- | --- | --- |
-| Overall Response Rate (%, 95% C.I.) | 21 (16-26) | 14 (10-18) |
+| Overall Response Rate |  |  |
+| (%, 95% C.I.) | 21 (16-26) | 14 (10-18) |
 | (p-value) | 0.027 |  |
-| Time to Progression (Median, days, 95% C.I.) | 137 (128-165) | 131 (102-156) |
+| Time to Progression |  |  |
+| (Median, days, 95% C.I.) | 137 (128-165) | 131 (102-156) |
 | Hazard Ratio (XELODA/5-FU/LV) | 0.97 |  |
 | 95% C.I. for Hazard Ratio | (0.82-1.14) |  |
-| Survival (Median, days, 95% C.I.) | 404 (367-452) | 369 (338-430) |
+| Survival |  |  |
+| (Median, days, 95% C.I.) | 404 (367-452) | 369 (338-430) |
 | Hazard Ratio (XELODA/5-FU/LV) | 0.92 |  |
 | 95% C.I. for Hazard Ratio | (0.78-1.09) |  |
 

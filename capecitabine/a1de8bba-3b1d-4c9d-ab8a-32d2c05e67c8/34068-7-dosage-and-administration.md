@@ -1,6 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 XELODA tablets should be swallowed whole with water within 30 minutes after a meal.
+Do not crush or cut XELODA tablets.
 XELODA dose is calculated according to body surface area.
 
 ## 2.1 Standard Starting Dose
@@ -89,12 +90,15 @@ In patients with moderate renal impairment (baseline creatinine clearance = 30 t
 Subsequent dose adjustment is recommended as outlined in Table 2 and Table 3 (depending on the regimen) if a patient develops a grade 2 to 4 adverse event [see Warnings and Precautions (5.5)].
 The starting dose adjustment recommendations for patients with moderate renal impairment apply to both XELODA monotherapy and XELODA in combination use with docetaxel.
 
-| Cockroft and Gault Equation: |  |
-| --- | --- |
-|  | (140 - age [yrs]) (body wt [kg]) |
-| Creatinine clearance for males = | ————————————— |
-|  | (72) (serum creatinine [mg/dL]) |
-| Creatinine clearance for females = 0.85 × male value |  |
+Cockroft and Gault Equation:
+
+(140 - age [yrs]) (body wt [kg])
+
+Creatinine clearance for males = ——————————————
+
+(72) (serum creatinine [mg/dL])
+
+Creatinine clearance for females = 0.85 × male value
 
 Geriatrics
 

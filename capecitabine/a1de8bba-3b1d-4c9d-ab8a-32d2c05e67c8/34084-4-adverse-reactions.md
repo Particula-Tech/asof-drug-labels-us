@@ -14,7 +14,7 @@ Table 5 shows grade 3/4 laboratory abnormalities occurring in ≥1% of patients 
 
 Table 4 Percent Incidence of Adverse Reactions Reported in ≥5% of Patients Treated With XELODA or 5-FU/LV for Colon Cancer in the Adjuvant Setting (Safety Population)
 
-| Body System/ Adverse Event | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
+| Body System/Adverse Event | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
 | --- | --- | --- | --- | --- |
 |  | Adjuvant Treatment for Colon Cancer (N=1969) |  |  |  |
 |  | XELODA (N=995) |  | 5-FU/LV (N=974) |  |
@@ -157,7 +157,8 @@ Table 7 Percent Incidence of Adverse Events Considered Related or Unrelated to T
 
 |  | Total % | Grade 3 % | Grade 4 % | Total % | Grade 3 % | Grade 4 % |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Event | XELODA 1250 mg/m2/bid With Docetaxel 75 mg/m2/3 weeks (n=251) |  |  | Docetaxel 100 mg/m2/3 weeks (n=255) |  |  |
+| Adverse Event | XELODA 1250 mg/m2/bid With Docetaxel 75 mg/m2/3 weeks |  |  | Docetaxel 100 mg/m2/3 weeks |  |  |
+|  | (n=251) |  |  | (n=255) |  |  |
 | Number of Patients With at Least One Adverse Event | 99 | 76.5 | 29.1 | 97 | 57.6 | 31.8 |
 | Body System/Adverse Event |  |  |  |  |  |  |
 | GI |  |  |  |  |  |  |
@@ -237,7 +238,8 @@ Table 8 Percent of Patients With Laboratory Abnormalities Participating in the X
 
 | Body System/Adverse Event | Total % | Grade 3 % | Grade 4 % | Total % | Grade 3 % | Grade 4 % |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Event | XELODA 1250 mg/m2/bid With Docetaxel 75 mg/m2/3 weeks (n=251) |  |  | Docetaxel 100 mg/m2/3 weeks (n=255) |  |  |
+| Adverse Event | XELODA 1250 mg/m2/bid With Docetaxel 75 mg/m2/3 weeks |  |  | Docetaxel 100 mg/m2/3 weeks |  |  |
+|  | (n=251) |  |  | (n=255) |  |  |
 | Hematologic |  |  |  |  |  |  |
 | Leukopenia | 91 | 37 | 24 | 88 | 42 | 33 |
 | Neutropenia/Granulocytopenia | 86 | 20 | 49 | 87 | 10 | 66 |
@@ -322,7 +324,7 @@ Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastati
 | Ear: | vertigo |
 | Hepatobiliary: | hepatic fibrosis (0.1%), hepatitis (0.1%), cholestatic hepatitis (0.1%), abnormal liver function tests |
 | Immune System: | drug hypersensitivity (0.1%) |
-| Postmarketing: | hepatic failure, lacrimal duct stenosis |
+| Postmarketing: | hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)] |
 
 XELODA In Combination With Docetaxel (Metastatic Breast Cancer)
 

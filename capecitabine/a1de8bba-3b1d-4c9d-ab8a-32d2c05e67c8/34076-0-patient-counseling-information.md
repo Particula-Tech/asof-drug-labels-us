@@ -1,17 +1,20 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## Information for Patients
-
-(see Patient Package Insert)
+Information for Patients (see FDA-approved Patient Labeling)
 
 Patients and patients' caregivers should be informed of the expected adverse effects of XELODA, particularly nausea, vomiting, diarrhea, and hand-and-foot syndrome, and should be made aware that patient-specific dose adaptations during therapy are expected and necessary [see Dosage and Administration (2.2)].
-As described below, patients taking XELODA should be informed of the need to interrupt treatment immediately if moderate or severe toxicity occurs.
-Patients should be encouraged to recognize the common grade 2 toxicities associated with XELODA treatment.
+As described below, patients taking XELODA should be informed of the need to interrupt treatment and to call their physician immediately if moderate or severe toxicity occurs.
+Patients should be encouraged to recognize the common grade 2 toxicities associated with XELODA treatment See FDA-approved patient labeling (Patient Information).
 
 Diarrhea
 
-Patients experiencing grade 2 diarrhea (an increase of 4 to 6 stools/day or nocturnal stools) or greater should be instructed to stop taking XELODA immediately.
+Patients experiencing grade 2 diarrhea (an increase of 4 to 6 stools/day or nocturnal stools) or greater or experiencing severe bloody diarrhea with severe abdominal pain and fever should be instructed to stop taking XELODA and to call their physician immediately.
 Standard antidiarrheal treatments (eg, loperamide) are recommended.
+
+Dehydration
+
+Patients experiencing grade 2 or higher dehydration should be instructed to stop taking XELODA immediately and the dehydration corrected.
+Treatment should not be restarted until the patient is rehydrated and any precipitating causes have been corrected or controlled.
 
 Nausea
 
@@ -26,14 +29,13 @@ Initiation of symptomatic treatment is recommended.
 Hand-and-Foot Syndrome
 
 Patients experiencing grade 2 hand-and-foot syndrome (painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patients' activities of daily living) or greater should be instructed to stop taking XELODA immediately.
+Initiation of symptomatic treatment is recommended.
 
 Stomatitis
 
-Patients experiencing grade 2 stomatitis (painful erythema, edema or ulcers of the mouth or tongue, but able to eat) or greater should be instructed to stop taking XELODA immediately.
-Initiation of symptomatic treatment is recommended [see Dosage and Administration (2.2)].
+Patients experiencing grade 2 stomatitis (painful erythema, edema or ulcers of the mouth or tongue, but able to eat) or greater should be instructed to stop taking XELODA immediately and to call their physician.
+Initiation of symptomatic treatment is recommended.
 
 Fever and Neutropenia
 
-Patients who develop a fever of 100.5°F or greater or other evidence of potential infection should be instructed to call their physician.
-
-## Patient Package Insert
+Patients who develop a fever of 100.5°F or greater or other evidence of potential infection should be instructed to call their physician immediately.

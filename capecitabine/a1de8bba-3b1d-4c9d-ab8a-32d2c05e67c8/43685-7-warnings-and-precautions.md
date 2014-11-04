@@ -5,22 +5,21 @@ General
 Patients receiving therapy with XELODA should be monitored by a physician experienced in the use of cancer chemotherapeutic agents.
 Most adverse reactions are reversible and do not need to result in discontinuation, although doses may need to be withheld or reduced [see Dosage and Administration (2.2)].
 
-## 5.1 Diarrhea
+## 5.1 Coagulopathy
+
+Patients receiving concomitant capecitabine and oral coumarin-derivative anticoagulant therapy should have their anticoagulant response (INR or prothrombin time) monitored closely with great frequency and the anticoagulant dose should be adjusted accordingly [see Boxed Warning and Drug Interactions (7.1)].
+
+## 5.2 Diarrhea
 
 XELODA can induce diarrhea, sometimes severe.
 Patients with severe diarrhea should be carefully monitored and given fluid and electrolyte replacement if they become dehydrated.
 In 875 patients with either metastatic breast or colorectal cancer who received XELODA monotherapy, the median time to first occurrence of grade 2 to 4 diarrhea was 34 days (range from 1 to 369 days).
 The median duration of grade 3 to 4 diarrhea was 5 days.
 National Cancer Institute of Canada (NCIC) grade 2 diarrhea is defined as an increase of 4 to 6 stools/day or nocturnal stools, grade 3 diarrhea as an increase of 7 to 9 stools/day or incontinence and malabsorption, and grade 4 diarrhea as an increase of ≥10 stools/day or grossly bloody diarrhea or the need for parenteral support.
-If grade 2, 3 or 4 diarrhea occurs, administration of XELODA should be immediately interrupted until the diarrhea resolves or decreases in intensity to grade 1.
-Following a reoccurrence of grade 2 diarrhea or occurrence of any grade 3 or 4 diarrhea, subsequent doses of XELODA should be decreased [see Dosage and Administration (2.2)].
+If grade 2, 3 or 4 diarrhea occurs, administration of XELODA should be immediately interrupted until the diarrhea resolves or decreases in intensity to grade 1 [see Dosage and Administration (2.2)].
 Standard antidiarrheal treatments (eg, loperamide) are recommended.
 
 Necrotizing enterocolitis (typhlitis) has been reported.
-
-## 5.2 Coagulopathy
-
-Patients receiving concomitant capecitabine and oral coumarin-derivative anticoagulant therapy should have their anticoagulant response (INR or prothrombin time) monitored closely with great frequency and the anticoagulant dose should be adjusted accordingly [see Boxed Warning and Drug Interactions (7.1)].
 
 ## 5.3 Cardiotoxicity
 
@@ -32,11 +31,19 @@ These adverse reactions may be more common in patients with a prior history of c
 Rarely, unexpected, severe toxicity (eg, stomatitis, diarrhea, neutropenia and neurotoxicity) associated with 5-fluorouracil has been attributed to a deficiency of dihydropyrimidine dehydrogenase (DPD) activity.
 A link between decreased levels of DPD and increased, potentially fatal toxic effects of 5-fluorouracil therefore cannot be excluded.
 
-## 5.5 Renal Insufficiency
+## 5.5 Dehydration and Renal Failure
+
+Dehydration has been observed and may cause acute renal failure which can be fatal.
+Patients with pre-existing compromised renal function or who are receiving concomitant XELODA with known nephrotoxic agents are at higher risk.
+Patients with anorexia, asthenia, nausea, vomiting or diarrhea may rapidly become dehydrated.
+Monitor patients when XELODA is administered to prevent and correct dehydration at the onset.
+If grade 2 (or higher) dehydration occurs, XELODA treatment should be immediately interrupted and the dehydration corrected.
+Treatment should not be restarted until the patient is rehydrated and any precipitating causes have been corrected or controlled.
+Dose modifications should be applied for the precipitating adverse event as necessary [see Dosage and Administration (2.2)].
 
 Patients with moderate renal impairment at baseline require dose reduction [see Dosage and Administration (2.3)].
 Patients with mild and moderate renal impairment at baseline should be carefully monitored for adverse reactions.
-Prompt interruption of therapy with subsequent dose adjustments is recommended if a patient develops a grade 2 to 4 adverse event as outlined in Table 2 [see Dosage and Administration (2.2), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+Prompt interruption of therapy with subsequent dose adjustments is recommended if a patient develops a grade 2 to 4 adverse event as outlined in Table 2 [see Dosage and Administration (2.2), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
 
 ## 5.6 Pregnancy
 
@@ -44,7 +51,10 @@ XELODA may cause fetal harm when given to a pregnant woman.
 Capecitabine caused embryolethality and teratogenicity in mice and embryolethality in monkeys when administered during organogenesis.
 If this drug is used during pregnancy, or if a patient becomes pregnant while receiving XELODA, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
 
-## 5.7 Hand-and-Foot Syndrome
+## 5.7 Mucocutaneous and Dermatologic Toxicity
+
+Severe mucocutaneous reactions, some with fatal outcome, such as Stevens-Johnson syndrome and Toxic Epidermal Necrolysis (TEN) can occur in patients treated with XELODA [see Adverse Reactions (6.4)].
+XELODA should be permanently discontinued in patients who experience a severe mucocutaneous reaction possibly attributable to XELODA treatment.
 
 Hand-and-foot syndrome (palmar-plantar erythrodysesthesia or chemotherapy-induced acral erythema) is a cutaneous toxicity.
 Median time to onset was 79 days (range from 11 to 360 days) with a severity range of grades 1 to 3 for patients receiving XELODA monotherapy in the metastatic setting.
@@ -69,7 +79,7 @@ Of the 136 colorectal cancer patients with grade 3 or 4 hyperbilirubinemia, 49 p
 
 In 251 patients with metastatic breast cancer who received a combination of XELODA and docetaxel, grade 3 (1.5 to 3 × ULN) hyperbilirubinemia occurred in 7% (n=17) and grade 4 (>3 × ULN) hyperbilirubinemia occurred in 2% (n=5).
 
-If drug-related grade 3 to 4 elevations in bilirubin occur, administration of XELODA should be immediately interrupted until the hyperbilirubinemia decreases to ≤3.0 X ULN [see recommended dose modifications under Dosage and Administration (2.2)].
+If drug-related grade 3 to 4 elevations in bilirubin occur, administration of XELODA should be immediately interrupted until the hyperbilirubinemia decreases to ≤3.0 × ULN [see recommended dose modifications under Dosage and Administration (2.2)].
 
 ## 5.9 Hematologic
 

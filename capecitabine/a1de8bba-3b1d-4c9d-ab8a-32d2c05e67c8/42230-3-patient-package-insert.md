@@ -1,135 +1,174 @@
-Read this leaflet before you start taking XELODA® [zeh-LOE-duh] and each time you refill your prescription in case the information has changed.
-This leaflet contains important information about XELODA.
-However, this information does not take the place of talking with your doctor.
-This information cannot cover all possible risks and benefits of XELODA.
-Your doctor should always be your first choice for discussing your medical condition and this medicine.
+# Patient Information
+
+XELODA® (zeh-LOE-duh) (capecitabine) Tablets, Film Coated
+
+What is the most important information I should know about XELODA?
+
+XELODA can cause serious side effects, including:
+
+- XELODA can interact with blood thinner medicines, such as warfarin (COUMADIN®).
+  Taking XELODA with these medicines can cause changes in how fast your blood clots, and can cause bleeding that can lead to death.
+  This can happen as soon as a few days after you start taking XELODA, or later during treatment, and possibly even within 1 month after you stop taking XELODA.
+  Your risk may be higher because you have cancer, and if you are over 60 years of age.
+  - Before taking XELODA, tell your doctor if you are taking warfarin (COUMADIN) or another blood thinner medicine.
+  - If you take warfarin (COUMADIN) or another blood thinner that is like warfarin (COUMADIN) during treatment with XELODA, your doctor should do blood tests often, to check how fast your blood clots during and after you stop treatment with XELODA.
+    Your doctor may change your dose of the blood thinner medicine if needed.
+
+See "What are the possible side effects of XELODA?" for more information about side effects.
 
 What is XELODA?
 
-XELODA is a medicine you take by mouth (orally).
-XELODA is changed in the body to 5-fluorouracil (5-FU).
-In some patients with colon, rectum or breast cancer, 5-FU stops cancer cells from growing and decreases the size of the tumor.
+XELODA is a prescription medicine used to treat people with:
 
-XELODA is used to treat:
+- cancer of the colon that has spread to lymph nodes in the area close to the colon (Dukes' C stage), after they have surgery.
+- cancer of the colon or rectum (colorectal) that has spread to other parts of the body (metastatic).
+- breast cancer that has spread to other parts of the body (metastatic) together with another medicine called docetaxel after treatment with certain other anti-cancer medicines have not worked.
+- breast cancer that has spread to other parts of the body and has not improved after treatment with paclitaxel and certain other anti-cancer medicines, or who cannot receive any more treatment with certain anti-cancer medicines.
 
-- –cancer of the colon after surgery
-- – cancer of the colon or rectum (colorectal cancer) that has spread to other parts of the body (metastatic colorectal cancer).
-  You should know that in studies, other medicines showed improved survival when they were taken together with 5-FU and leucovorin.
-  In studies, XELODA was no worse than 5-FU and leucovorin taken together but did not improve survival compared to these two medicines.
-- –breast cancer that has spread to other parts of the body (metastatic breast cancer) together with another medicine called docetaxel (TAXOTERE ®)
-- –breast cancer that has spread to other parts of the body and has not improved after treatment with other medicines such as paclitaxel (TAXOL ®) and anthracycline-containing medicine such as Adriamycin™ and doxorubicin
-
-What is the most important information about XELODA?
-
-XELODA may increase the effect of other medicines used to thin your blood such as warfarin (COUMADIN®).
-It is very important that your doctor knows if you are taking a blood thinner such as warfarin because XELODA may increase the effect of this medicine and could lead to serious side effects.
-If you are taking blood thinners and XELODA, your doctor needs to check more often how fast your blood clots and change the dose of the blood thinner, if needed.
+It is not known if XELODA is safe and effective in children.
 
 Who should not take XELODA?
 
-- 1.DO NOT TAKE XELODA IF YOU
-  - – are nursing a baby.
-    Tell your doctor if you are nursing.
-    XELODA may pass to the baby in your milk and harm the baby.
-  - – are allergic to 5-fluorouracil
-  - – are allergic to capecitabine or to any of the ingredients in XELODA
-  - – have been told that you lack the enzyme DPD (dihydropyrimidine dehydrogenase)
-- 2.TELL YOUR DOCTOR IF YOU
-  - – take a blood thinner such as warfarin (COUMADIN).
-    This is very important because XELODA may increase the effect of the blood thinner.
-    If you are taking blood thinners and XELODA, your doctor needs to check more often how fast your blood clots and change the dose of the blood thinner, if needed.
-  - – take phenytoin (DILANTIN®).
-    Your doctor needs to test the levels of phenytoin in your blood more often or change your dose of phenytoin.
-  - – are pregnant or think you may be pregnant.
-    XELODA may harm your unborn child.
-  - – have kidney problems.
-    Your doctor may prescribe a different medicine or lower the XELODA dose.
-  - – have liver problems.
-    You may need to be checked for liver problems while you take XELODA.
-  - – have heart problems because you could have more side effects related to your heart.
-  - – take the vitamin folic acid.
-    It may affect how XELODA works.
+Do not take XELODA if you:
+
+- have been told that you lack the enzyme DPD (dihydropyrimidine dehydrogenase).
+- have severe kidney problems.
+- are allergic to capecitabine, 5-fluorouracil, or any of the ingredients in XELODA.
+  See the end of this leaflet for a complete list of ingredients in XELODA.
+
+Talk to your doctor before taking XELODA if you are not sure if you have any of the conditions listed above.
+
+What should I tell my doctor before taking XELODA?
+
+See "What is the most important information I should know about XELODA?".
+
+Before you take XELODA, tell your doctor if you:
+
+- have had heart problems.
+- have kidney or liver problems.
+- have any other medical conditions.
+- are pregnant or plan to become pregnant.
+  XELODA can harm your unborn baby.
+  You should not become pregnant during treatment with XELODA.
+  Talk to your doctor about birth control choices that may be right for you during treatment with XELODA.
+- are breastfeeding or plan to breastfeed.
+  It is not known if XELODA passes into your breast milk.
+  You and your doctor should decide if you will take XELODA or breastfeed.
+  You should not do both.
+
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+XELODA may affect the way other medicines work, and other medicines may affect the way XELODA works.
+
+Know the medicines you take.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
 How should I take XELODA?
 
-Take XELODA exactly as your doctor tells you to.
-Your doctor will prescribe a dose and treatment plan that is right for you.
-Your doctor may want you to take both 150 mg and 500 mg tablets together for each dose.
-If so, you must be able to identify the tablets.
-Taking the wrong tablets could cause an overdose (too much medicine) or underdose (too little medicine).
-The 150 mg tablets are light peach in color with 150 on one side.
-The 500 mg tablets are peach in color with 500 on one side.
-Your doctor may change the amount of medicine you take during your treatment.
-Your doctor may prescribe XELODA Tablets with docetaxel (TAXOTERE) injection.
+- Take XELODA exactly as your doctor tells you to take it.
+- Your doctor will tell you how much XELODA to take and when to take it.
+- Take XELODA 2 times a day, 1 time in the morning and 1 time in the evening.
+- Take XELODA within 30 minutes after finishing a meal.
+  Swallow XELODA tablets whole with water.
+  Do not crush or cut XELODA tablets.
+- Ask your healthcare provider or pharmacist how to safely throw away any unused XELODA.
+- If you have side effects with XELODA, if needed your doctor may decide to:
+  - change your dose of XELODA
+  - treat you with XELODA less often
+  - tell you to stop taking XELODA until certain side effects get better or go away
+  - stop your treatment with XELODA if you have certain side effects and they are severe
+- If you take too much XELODA, call your doctor or go to the nearest emergency room right away.
 
-- –XELODA is taken in 2 daily doses, a morning dose and an evening dose
-- – Take XELODA tablets within 30 minutes after the end of a meal (breakfast and dinner)
-- –Swallow XELODA tablets whole with water
-- – If you miss a dose of XELODA, do not take the missed dose at all and do not double the next dose.
-  Instead, continue your regular dosing schedule and check with your doctor.
-- –XELODA is usually taken for 14 days followed by a 7-day rest period (no drug), for a 21-day cycle.
-  Your doctor will tell you how many cycles of treatment you will need.
-- –If you take too much XELODA, contact your doctor or local poison control center or emergency room right away.
+What are the possible side effects of XELODA?
 
-What should I avoid while taking XELODA?
+XELODA may cause serious side effects including:
 
-- – Women should not become pregnant while taking XELODA.
-  XELODA may harm your unborn child.
-  Use effective birth control while taking XELODA.
-  Tell your doctor if you become pregnant.
-- –Do not breast-feed.
-  XELODA may pass through your milk and harm your baby.
-- – Men should use birth control while taking XELODA
+See "What is the most important information I should know about XELODA?".
 
-What are the most common side effects of XELODA?
+- diarrhea.
+  Diarrhea is common with XELODA and can sometimes be severe.
+  Stop taking XELODA and call your doctor right away if the number of bowel movements you have in a day increases by 4 or more than is usual for you.
+  Ask your doctor about what medicines you can take to treat your diarrhea.
+  If you have severe bloody diarrhea with severe abdominal pain and fever, call your doctor or go to the nearest emergency room right away.
+- heart problems.
+  XELODA can cause heart problems including: heart attack and decreased blood flow to the heart, chest pain, irregular heartbeats, changes in the electrical activity of your heart seen on an electrocardiogram (ECG), problems with your heart muscle, heart failure, and sudden death.
+  Stop taking XELODA and call your doctor right away if you get any of the following symptoms:
+  - chest pain
+  - shortness of breath
+  - feeling faint
+  - irregular heartbeats or skipping beats
+  - sudden weight gain
+  - swollen ankles or legs
+- unexplained tiredness
+- loss of too much body fluid (dehydration) and kidney failure.
+  Dehydration can happen with XELODA and may cause sudden kidney failure that can lead to death.
+  You are at higher risk if you have kidney problems before taking XELODA and also take other medicines that can cause kidney problems.
+  Nausea, and vomiting are common with XELODA.
+  If you lose your appetite, feel weak, and have nausea, vomiting, or diarrhea, you can quickly become dehydrated.Stop taking XELODA and call your doctor right away if you:
+  - vomit 2 or more times in a day.
+  - are only able to eat or drink a little now and then, or not at all due to nausea.
+  - have diarrhea.
+    See "diarrhea" above.
+- serious skin and mouth reactions.
+  - XELODA can cause serious skin reactions that may lead to death.
+    Tell your doctor right away if you develop a skin rash, blisters and peeling of your skin.
+    Your doctor may tell you to stop taking XELODA if you have a serious skin reaction.
+    Do not take XELODA again if this happens.
+  - XELODA can also cause "hand and foot syndrome."
+    Hand and foot syndrome is common with XELODA and can cause you to have numbness and changes in sensation in your hands and feet, or cause redness, pain, swelling of your hands and feet.
+    Stop taking XELODA and call your doctor right away if you have any of these symptoms and you are not able to do your usual activities.
+  - you may get sores in your mouth or on your tongue when taking XELODA.
+    Stop taking XELODA and call your doctor if you get painful redness, swelling, or ulcers in your mouth and tongue, or if you are having problems eating.
+    Tell your doctor if you have any side effect that bothers you or that does not go away.
+- increased level of bilirubin in your blood and liver problems.
+  Increased bilirubin in your blood is common with XELODA.
+  Your doctor will check you for these problems during treatment with XELODA.
+- decreased white blood cells, platelets, and red blood cell counts.
+  Your doctor will do blood tests during treatment with XELODA to check your blood cell counts.
 
-The most common side effects of XELODA are:
+If your white blood cell count is very low, you are at increased risk for infection.
+Call your doctor right away if you develop a fever of 100.5°F or greater or have other signs and symptoms of infection.
 
-- – diarrhea, nausea, vomiting, sores in the mouth and throat (stomatitis), stomach area pain (abdominal pain), upset stomach, constipation, loss of appetite, and too much water loss from the body (dehydration).
-  These side effects are more common in patients age 80 and older.
-- – hand-and-foot syndrome (palms of the hands or soles of the feet tingle, become numb, painful, swollen or red), rash, dry, itchy or discolored skin, nail problems, and hair loss
-- – tiredness, weakness, dizziness, headache, fever, pain (including chest, back, joint, and muscle pain), trouble sleeping, and taste problems
+People 80 years of age or older may be more likely to develop severe or serious side effects with XELODA.
 
-These side effects may differ when taking XELODA with docetaxel (TAXOTERE).
-Please consult your doctor for possible side effects that may be caused by taking XELODA with docetaxel (TAXOTERE).
+The most common side effects of XELODA include:
 
-If you are concerned about these or any other side effects while taking XELODA, talk to your doctor.
+- diarrhea
+- hand and foot syndrome
+- nausea
+- vomiting
+- stomach-area (abdominal) pain
+- tiredness
+- weakness
+- increased amounts of red blood cell breakdown products (bilirubin) in your blood
 
-Stop taking XELODA immediately and contact your doctor right away if you have the side effects listed below, or other side effects that concern you.
-Your doctor can then adjust XELODA to a dose that is right for you or stop your XELODA treatment for a while.
-This should help to reduce the side effects and stop them from getting worse.
+These are not all the possible side effects of XELODA.
+For more information, ask your doctor or pharmacist.
 
-- –Diarrhea: if you have an additional 4 bowel movements each day beyond what is normal or any diarrhea at night
-- –Vomiting: if you vomit more than once in a 24-hour time period
-- –Nausea: if you lose your appetite, and the amount of food you eat each day is much less than usual
-- –Stomatitis: if you have pain, redness, swelling or sores in your mouth
-- –Hand-and-Foot Syndrome: if you have pain, swelling or redness of your hands or feet that prevents normal activity
-- –Fever or Infection: if you have a temperature of 100.5°F or greater, or other signs of infection
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-Your doctor may tell you to lower the dose or to stop XELODA treatment for a while.
-If caught early, most of these side effects usually improve after you stop taking XELODA.
-If they do not improve within 2 to 3 days, call your doctor again.
-After your side effects have improved, your doctor will tell you whether to start taking XELODA again and what dose to take.
-Adjusting the dose of XELODA to be right for each patient is an important part of treatment.
+How should I store XELODA?
 
-How should I store and use XELODA?
+- Store XELODA at room temperature between 68°F to 77°F (20°C to 25°C).
+- Keep XELODA in a tightly closed container.
+- Keep XELODA and all medicines out of the reach of children.
 
-- – Never share XELODA with anyone
-- –Store XELODA at normal room temperature (about 65° to 85°F)
-- – Keep XELODA and all other medicines out of the reach of children
-- – If you take too much XELODA by mistake, contact your doctor or local poison control center or emergency room right away
-
-General advice about prescription medicines:
+General information about the safe and effective use of XELODA.
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use XELODA for a condition for which it was not prescribed.
 Do not give XELODA to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This leaflet summarizes the most important information about XELODA.
-If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about XELODA that is written for health professionals.
 
-XELODA is a registered trademark of Hoffmann-La Roche Inc.
+For more information, go to http://www.gene.com/patients/medicines/xeloda or call 1-877-436-3683.
 
-For full TAXOTERE prescribing information, please refer to TAXOTERE Package Insert.
+What are the ingredients in XELODA?
+
+Active ingredient: capecitabine
+
+Inactive ingredients: anhydrous lactose, croscarmellose sodium, hydroxypropyl methylcellulose, microcrystalline cellulose, magnesium stearate and purified water.
+The peach or light peach film coating contains hydroxypropyl methylcellulose, talc, titanium dioxide, and synthetic yellow and red iron oxides.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
