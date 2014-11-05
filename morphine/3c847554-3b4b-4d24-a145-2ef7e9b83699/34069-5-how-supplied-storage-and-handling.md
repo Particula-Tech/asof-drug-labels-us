@@ -20,7 +20,8 @@ NDC 0054-0236-25: Bottle of 100 Tablets
 
 Storage
 
-Store at Controlled Room Temperature, 15° to 30°C (59° to 86°F).
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
 
 PROTECT FROM MOISTURE.
 
