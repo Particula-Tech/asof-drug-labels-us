@@ -10,25 +10,23 @@ These patients were receiving concurrent highly emetogenic cisplatin-based chemo
 
 Table 5: Principal Adverse Events in US Trials: Single Day Therapy With 24 mg Ondansetron Tablets (Highly Emetogenic Chemotherapy)
 
-|  | Ondansetron 24 mg q.d. | Ondansetron 8 mg b.i.d. | Ondansetron 32 mg q.d. |
+| Event | Ondansetron 24 mg q.d.n=300 | Ondansetron 8 mg b.i.d.n=124 | Ondansetron 32 mg q.d.n=117 |
 | --- | --- | --- | --- |
-| Event | N=300 | N=124 | N=117 |
-| Headache | 33(11%) | 16(13%) | 17(15%) |
-| Diarrhea | 13(4%) | 9(7%) | 3(3%) |
+| Headache | 33 (11%) | 16 (13%) | 17 (15%) |
+| Diarrhea | 13 (4%) | 9 (7%) | 3 (3%) |
 
 The adverse events in Table 6 have been reported in ≥5% of adults receiving either 8 mg of ondansetron tablets 2 or 3 times a day for 3 days or placebo in 4 trials.
 These patients were receiving concurrent moderately emetogenic chemotherapy, primarily cyclophosphamide-based regimens.
 
 Table 6: Principal Adverse Events in US Trials: 3 Days of Therapy With 8 mg Ondansetron Tablets (Moderately Emetogenic Chemotherapy)
 
-|  | Ondansetron 8 mg b.i.d. | Ondansetron 8 mg t.i.d. | Placebo |
+| Event | Ondansetron 8 mg b.i.d.n=242 | Ondansetron 8 mg t.i.d.n=415 | Placebon=262 |
 | --- | --- | --- | --- |
-| Event | n=242 | n=415 | n=262 |
-| Headache | 58(24%) | 113(27%) | 34(13%) |
-| Malaise/fatigue | 32(13%) | 37(9%) | 6(2%) |
-| Constipation | 22(9%) | 26(6%) | 1 (<1%) |
-| Diarrhea | 15(6%) | 16(4%) | 10(4%) |
-| Dizziness | 13(5%) | 18(4%) | 12(5%) |
+| Headache | 58 (24%) | 113 (27%) | 34 (13%) |
+| Malaise/fatigue | 32 (13%) | 37 (9%) | 6 (2%) |
+| Constipation | 22 (9%) | 26 (6%) | 1 (<1%) |
+| Diarrhea | 15 (6%) | 16 (4%) | 10 (4%) |
+| Dizziness | 13 (5%) | 18 (4%) | 12 (5%) |
 
 ### Central Nervous System
 
@@ -66,22 +64,21 @@ These patients were receiving multiple concomitant perioperative and postoperati
 
 Table 7: Frequency of Adverse Events From Controlled Studies With Ondansetron Tablets (Postoperative Nausea and Vomiting)
 
-|  | Ondansetron 16 mg | Placebo |
+| Adverse Event | Ondansetron 16 mg(n=550) | Placebo(n=531) |
 | --- | --- | --- |
-| Adverse Event | (n = 550) | (n = 531) |
-| Wound problem | 152(28%) | 162(31%) |
-| Drowsiness/sedation | 112(20%) | 122(23%) |
-| Headache | 49(9%) | 27(5%) |
-| Hypoxia | 49(9%) | 35(7%) |
-| Pyrexia | 45(8%) | 34(6%) |
-| Dizziness | 36(7%) | 34(6%) |
-| Gynecological disorder | 36(7%) | 33(6%) |
-| Anxiety/agitation | 33(6%) | 29(5%) |
-| Bradycardia | 32(6%) | 30(6%) |
-| Shiver(s) | 28(5%) | 30(6%) |
-| Urinary retention | 28(5%) | 18(3%) |
-| Hypotension | 27(5%) | 32(6%) |
-| Pruritus | 27(5%) | 20(4%) |
+| Wound problem | 152 (28%) | 162 (31%) |
+| Drowsiness/sedation | 112 (20%) | 122 (23%) |
+| Headache | 49 (9%) | 27 (5%) |
+| Hypoxia | 49 (9%) | 35 (7%) |
+| Pyrexia | 45 (8%) | 34 (6%) |
+| Dizziness | 36 (7%) | 34 (6%) |
+| Gynecological disorder | 36 (7%) | 33 (6%) |
+| Anxiety/agitation | 33 (6%) | 29 (5%) |
+| Bradycardia | 32 (6%) | 30 (6%) |
+| Shiver(s) | 28 (5%) | 30 (6%) |
+| Urinary retention | 28 (5%) | 18 (3%) |
+| Hypotension | 27 (5%) | 32 (6%) |
+| Pruritus | 27 (5%) | 20 (4%) |
 
 ## Observed During Clinical Practice
 
@@ -101,7 +98,7 @@ Lower Respiratory: Hiccups
 
 Neurology: Oculogyric crisis, appearing alone, as well as with other dystonic reactions
 
-Skin: Urticaria
+Skin: Urticaria, Stevens-Johnson syndrome, and toxic epidermal necrolysis.
 
-Special Senses:Eye Disorders: Cases of transient blindness, predominantly during intravenous administration, have been reported.
+Special Senses: Eye Disorders: Cases of transient blindness, predominantly during intravenous administration, have been reported.
 These cases of transient blindness were reported to resolve within a few minutes up to 48 hours.

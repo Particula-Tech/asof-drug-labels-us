@@ -2,7 +2,7 @@
 
 ## Prevention of Nausea and Vomiting Associated With Highly Emetogenic Cancer Chemotherapy
 
-The recommended adult oral dosage is 24 mg given as three 8 mg tablets administered 30 minutes before the start of single-day highly emetogenic chemotherapy, including cisplatin ≥50 mg/m2.
+The recommended adult oral dosage of ondansetron is 24 mg given as three 8 mg tablets administered 30 minutes before the start of single-day highly emetogenic chemotherapy, including cisplatin ≥50 mg/m2.
 Multiday, single-dose administration of a 24 mg dosage has not been studied.
 
 ### Pediatric Use
@@ -52,11 +52,11 @@ The dosage recommendation is the same as for the general population.
 
 The recommended dosage is 16 mg given as two 8 mg ondansetron tablets or 20 mL (4 teaspoonfuls equivalent to 16 mg of ondansetron) of Ondansetron Oral Solution, USP 1 hour before induction of anesthesia.
 
-### Pediatric Use:
+### Pediatric Use
 
 There is no experience with the use of Ondansetron Oral Solution, USP in the prevention of postoperative nausea and vomiting in pediatric patients.
 
-### Geriatric Use:
+### Geriatric Use
 
 The dosage is the same as for the general population.
 

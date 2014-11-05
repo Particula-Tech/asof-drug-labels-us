@@ -26,13 +26,13 @@ The results of this study are summarized in Table 3:
 
 Table 3: Emetic Episodes: Treatment Response
 
-|  | Ondansetron 8 mg b.i.d. Ondansetron TabletsThe first dose was administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent dose 8 hours after the first dose. An 8 mg ondansetron tablet was administered twice a day for 2 days after completion of chemotherapy. | Placebo | p Value |
+|  | Ondansetron 8 mg b.i.d. Ondansetron TabletsThe first dose was administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent dose 8 hours after the first dose. An 8 mg ondansetron tablet was administered twice a day for 2 days after completion of chemotherapy. | Placebo | P Value |
 | --- | --- | --- | --- |
 | Number of patients | 33 | 34 |  |
 | Treatment response |  |  |  |
-| 0 Emetic episodes | 20(61%) | 2(6%) | <0.001 |
-| 1-2 Emetic episodes | 6(18%) | 8(24%) |  |
-| More than 2 emetic episodes/withdrawn | 7(21%) | 24(71%) | <0.001 |
+| 0 Emetic episodes | 20 (61%) | 2 (6%) | <0.001 |
+| 1-2 Emetic episodes | 6 (18%) | 8 (24%) |  |
+| More than 2 emetic episodes/withdrawn | 7 (21%) | 24 (71%) | <0.001 |
 | Median number of emetic episodes | 0.0 | UndefinedMedian undefined since at least 50% of the patients were withdrawn or had more than 2 emetic episodes. |  |
 | Median time to first emetic episode (h) | UndefinedMedian undefined since at least 50% of patients did not have any emetic episodes. | 6.5 |  |
 
@@ -44,12 +44,12 @@ Table 4: Emetic Episodes: Treatment Response
 
 |  | Ondansetron |  |
 | --- | --- | --- |
-|  | 8 mg b.i.d. Ondansetron TabletsThe first dose was administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent dose 8 hours after the first dose. An 8 mg ondansetron tablet was administered twice a day for 2 days after completion of chemotherapy | 8 mg t.i.d. Ondansetron TabletsThe first dose was administered 30 minutes before the start of emetogenic chemotherapy, with subsequent doses 4 and 8 hours after the first dose. An 8 mg ondansetron tablet was administered 3 times a day for 2 days after completion of chemotherapy. |
+|  | 8 mg b.i.d. Ondansetron TabletsThe first dose was administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent dose 8 hours after the first dose. An 8 mg ondansetron tablet was administered twice a day for 2 days after completion of chemotherapy. | 8 mg t.i.d. Ondansetron TabletsThe first dose was administered 30 minutes before the start of emetogenic chemotherapy, with subsequent doses 4 and 8 hours after the first dose. An 8 mg ondansetron tablet was administered 3 times a day for 2 days after completion of chemotherapy. |
 | Number of patients | 165 | 171 |
 | Treatment response |  |  |
-| 0 Emetic episodes | 101(61%) | 99(58%) |
-| 1-2 Emetic episodes | 16(10%) | 17(10%) |
-| More than 2 emetic episodes/withdrawn | 48(29%) | 55(32%) |
+| 0 Emetic episodes | 101 (61%) | 99 (58%) |
+| 1-2 Emetic episodes | 16 (10%) | 17 (10%) |
+| More than 2 emetic episodes/withdrawn | 48 (29%) | 55 (32%) |
 | Median number of emetic episodes | 0.0 | 0.0 |
 | Median time to first emetic episode (h) | Undefined Median undefined since at least 50% of patients did not have any emetic episodes. | Undefined |
 | Median nausea scores (0-100)Visual analog scale assessment: 0 = no nausea, 100 = nausea as bad as it can be. | 6 | 6 |
@@ -99,3 +99,8 @@ Ondansetron tablets (16 mg) were significantly more effective than placebo in pr
 The study populations in all trials thus far consisted of women undergoing inpatient surgical procedures.
 No studies have been performed in males.
 No controlled clinical study comparing ondansetron tablets to ondansetron injection has been performed.
+
+# PATIENT COUNSELING INFORMATION
+
+Advise patients of the possibility of serotonin syndrome with concomitant use of ondansetron and another serotonergic agent such as medications to treat depression and migraines.
+Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms.
