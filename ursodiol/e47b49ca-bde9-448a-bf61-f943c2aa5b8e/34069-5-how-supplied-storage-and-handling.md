@@ -16,8 +16,8 @@ Epic Pharma, LLC
 
 Laurelton, NY 11413
 
-Issued 05/10
+Revised August 2014
 
-MF503ISS0510
+MF503REV08/14
 
 OE1105
