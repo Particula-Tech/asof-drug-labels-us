@@ -4,4 +4,6 @@ Flomax is a registered trademark of, and licensed from: Astellas Pharma Inc. Tok
 
 Copyright © 2014, ALL RIGHTS RESERVED
 
-IT6074BH202014
+IT6074CJ272014
+
+46147165

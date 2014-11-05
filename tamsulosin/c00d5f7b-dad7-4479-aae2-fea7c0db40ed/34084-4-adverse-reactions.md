@@ -77,6 +77,6 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 Allergic-type reactions such as skin rash, urticaria, pruritus, angioedema, and respiratory symptoms have been reported with positive rechallenge in some cases.
 Priapism has been reported rarely.
-Infrequent reports of dyspnea, palpitations, hypotension, atrial fibrillation, arrhythmia, tachycardia, skin desquamation including reports of Stevens-Johnson syndrome, erythema multiforme, dermatitis exfoliative, constipation, vomiting, visual impairment, and epistaxis have been received during the postmarketing period.
+Infrequent reports of dyspnea, palpitations, hypotension, atrial fibrillation, arrhythmia, tachycardia, skin desquamation including reports of Stevens-Johnson syndrome, erythema multiforme, dermatitis exfoliative, constipation, vomiting, dry mouth, visual impairment, and epistaxis have been received during the postmarketing period.
 
 During cataract and glaucoma surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha1 blocker therapy [see Warnings and Precautions (5.5)].

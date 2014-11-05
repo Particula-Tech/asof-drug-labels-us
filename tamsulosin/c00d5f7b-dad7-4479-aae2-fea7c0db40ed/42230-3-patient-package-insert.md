@@ -110,7 +110,7 @@ Therefore, ask your doctor about screening for prostate cancer prior to treatmen
 This patient information leaflet summarizes the most important information about FLOMAX.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about FLOMAX that is written for health professionals.
-For current prescribing information, scan the code below, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
+For current prescribing information scan the code below, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
 
 What are the ingredients in FLOMAX capsules?
 
@@ -123,6 +123,8 @@ Flomax is a registered trademark of, and licensed from: Astellas Pharma Inc. Tok
 
 Copyright © 2014, ALL RIGHTS RESERVED
 
-IT6074BH202014
+IT6074CJ272014
 
-Revised: August 2014
+46147165
+
+Revised: October 2014

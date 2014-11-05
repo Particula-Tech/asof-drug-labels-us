@@ -2,6 +2,7 @@
 
 FLOMAX capsules 0.4 mg once daily is recommended as the dose for the treatment of the signs and symptoms of BPH.
 It should be administered approximately one-half hour following the same meal each day.
+FLOMAX capsules should not be crushed, chewed or opened.
 
 For those patients who fail to respond to the 0.4 mg dose after 2 to 4 weeks of dosing, the dose of FLOMAX capsules can be increased to 0.8 mg once daily.
 FLOMAX capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2)].

@@ -4,7 +4,7 @@
 
 The signs and symptoms of orthostasis (postural hypotension, dizziness, and vertigo) were detected more frequently in FLOMAX capsule-treated patients than in placebo recipients.
 As with other alpha adrenergic blocking agents there is a potential risk of syncope [see Adverse Reactions (6.1)].
-Patients beginning treatment with FLOMAX capsules should be cautioned to avoid situations in which injury could result should syncope occur [see Patient Counseling Information (17.1)].
+Patients beginning treatment with FLOMAX capsules should be cautioned to avoid situations in which injury could result should syncope occur.
 
 ## 5.2 Drug Interactions
 
@@ -25,11 +25,11 @@ Caution should be exercised with concomitant administration of warfarin and FLOM
 ## 5.3 Priapism
 
 Rarely (probably less than 1 in 50,000 patients), tamsulosin, like other alpha1 antagonists, has been associated with priapism (persistent painful penile erection unrelated to sexual activity).
-Because this condition can lead to permanent impotence if not properly treated, patients must be advised about the seriousness of the condition [see Patient Counseling Information (17.2)].
+Because this condition can lead to permanent impotence if not properly treated, patients must be advised about the seriousness of the condition.
 
 ## 5.4 Screening for Prostate Cancer
 
-Prostate cancer and BPH frequently co-exist; therefore, patients should be screened for the presence of prostate cancer prior to treatment with FLOMAX capsules and at regular intervals afterwards [see Patient Counseling Information (17.3)].
+Prostate cancer and BPH frequently co-exist; therefore, patients should be screened for the presence of prostate cancer prior to treatment with FLOMAX capsules and at regular intervals afterwards.
 
 ## 5.5 Intraoperative Floppy Iris Syndrome
 
