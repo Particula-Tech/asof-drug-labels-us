@@ -14,14 +14,14 @@ For intravaginal use only.
 Not for ophthalmic, dermal or oral use.
 Avoid contact with eyes.
 
-DOSAGE AND USE: See accompanying prescribing information.
-
-*Each gram contains clindamycin phosphate equivalent to 20 mg (2%) of clindamycin.
+DOSAGE AND USE: See accompanying prescribing information. *Each gram contains clindamycin phosphate equivalent to 20 mg (2%) of clindamycin.
 Also contains sorbitan monostearate, polysorbate 60, propylene glycol, stearic acid, cetostearyl alcohol, mixed fatty acid esters, mineral oil, benzyl alcohol, and purified water.
 
 Distributed by: Greenstone LLC Peapack, NJ 07977
 
 LOT EXP
+
+PAA049601
 
 # PRINCIPAL DISPLAY PANEL - 40 gram Tube Carton
 
