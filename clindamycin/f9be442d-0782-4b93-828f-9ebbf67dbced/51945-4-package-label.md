@@ -1,4 +1,16 @@
-# PRINCIPAL DISPLAY PANEL- 40 Gram Tube Carton
+# PRINCIPAL DISPLAY PANEL - 40 g Tube Label
+
+NDC 0009-3448-01
+
+40 Gram Rx only
+
+Cleocin® clindamycin phosphate vaginal cream, USP
+
+For Intravaginal Use Only
+
+2%*
+
+# PRINCIPAL DISPLAY PANEL - 40 g Tube Carton
 
 NDC 0009-3448-01
 
