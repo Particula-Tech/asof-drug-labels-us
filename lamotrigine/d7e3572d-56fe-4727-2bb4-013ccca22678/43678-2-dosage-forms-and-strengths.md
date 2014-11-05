@@ -20,13 +20,13 @@
 
 ## 3.3 Orally Disintegrating Tablets
 
-25 mg, white to off-white, round, flat-faced, radius edge, tablets debossed with “LMT” on one side and “25” on the other side.
+25 mg, white to off-white, round, flat-faced, radius-edged tablets debossed with “LMT” on one side and “25” on the other side.
 
-50 mg, white to off-white, round, flat-faced, radius edge, tablets debossed with “LMT” on one side and “50” on the other side.
+50 mg, white to off-white, round, flat-faced, radius-edged tablets debossed with “LMT” on one side and “50” on the other side.
 
-100 mg, white to off-white, round, flat-faced, radius edge, tablets debossed with “LAMICTAL” on one side and “100” on the other side.
+100 mg, white to off-white, round, flat-faced, radius-edged tablets debossed with “LAMICTAL” on one side and “100” on the other side.
 
-200 mg, white to off-white, round, flat-faced, radius edge, tablets debossed with “LAMICTAL” on one side and “200” on the other side.
+200 mg, white to off-white, round, flat-faced, radius-edged tablets debossed with “LAMICTAL” on one side and “200” on the other side.
 
 ## 3.4 Potential Medication Errors
 

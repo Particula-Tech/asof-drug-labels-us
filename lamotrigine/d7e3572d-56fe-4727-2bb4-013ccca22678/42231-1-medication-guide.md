@@ -130,9 +130,9 @@ What is LAMICTAL?
 
 LAMICTAL is a prescription medicine used:
 
-1. 1.together with other medicines to treat certain types of seizures (partial seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people 2 years or older.
-2. 2.alone when changing from other medicines used to treat partial seizures in people 16 years or older.
-3. 3.for the long-term treatment of Bipolar I Disorder to lengthen the time between mood episodes in people 18 years or older who have been treated for mood episodes with other medicine.
+- 1.together with other medicines to treat certain types of seizures (partial seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people 2 years or older.
+- 2.alone when changing from other medicines used to treat partial seizures in people 16 years or older.
+- 3.for the long-term treatment of Bipolar I Disorder to lengthen the time between mood episodes in people 18 years or older who have been treated for mood episodes with other medicine.
 
 It is not known if LAMICTAL is safe or effective in children or teenagers under the age of 18 with mood disorders such as bipolar disorder or depression.
 
@@ -255,37 +255,25 @@ Inactive ingredients: blackcurrant flavor, calcium carbonate, low-substituted hy
 
 LAMICTAL ODT Orally Disintegrating Tablets
 
-Active ingredient: lamotrigine
+Active ingredient: lamotrigine.
 
 Inactive ingredients: artificial cherry flavor, crospovidone, ethylcellulose, magnesium stearate, mannitol, polyethylene, and sucralose.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 LAMICTAL and LAMICTAL ODT are registered trademarks of the GSK group of companies.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
-DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-LAMICTAL Tablets and Chewable Dispersible Tablets are manufactured by
-
-DSM Pharmaceuticals, Inc.,
-
-Greenville, NC 27834 or
+Manufactured for
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
-
-LAMICTAL Orally Disintegrating Tablets are manufactured by
-
-Eurand, Inc., Vandalia, OH 45377
 
 ©2014, the GSK group of companies.
 All rights reserved.
 
-June 2014
+October 2014
 
-LMT:9MG
+LMT:10MG

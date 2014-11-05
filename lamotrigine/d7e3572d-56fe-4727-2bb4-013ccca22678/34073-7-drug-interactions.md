@@ -10,13 +10,13 @@ Established and Other Potentially Significant Drug Interactions
 | --- | --- | --- |
 | Estrogen-containing oral contraceptive preparations containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel | ↓ lamotrigine | Decreased lamotrigine levels approximately 50%. |
 |  | ↓ levonorgestrel | Decrease in levonorgestrel component by 19%. |
-| Carbamazepine (CBZ) and CBZ epoxide | ↓ lamotrigine | Addition of carbamazepine decreases lamotrigine concentration approximately 40%. |
-|  | ? CBZ epoxide | May increase CBZ epoxide levels |
+| Carbamazepine and carbamazepine epoxide | ↓ lamotrigine | Addition of carbamazepine decreases lamotrigine concentration approximately 40%. |
+|  | ? carbamazepine epoxide | May increase carbamazepine epoxide levels |
 | Phenobarbital/primidone | ↓ lamotrigine | Decreased lamotrigine concentration approximately 40%. |
-| Phenytoin (PHT) | ↓ lamotrigine | Decreased lamotrigine concentration approximately 40%. |
+| Phenytoin | ↓ lamotrigine | Decreased lamotrigine concentration approximately 40%. |
 | Rifampin | ↓ lamotrigine | Decreased lamotrigine AUC approximately 40%. |
 | Valproate | ↑ lamotrigine | Increased lamotrigine concentrations slightly more than 2-fold. |
-|  | ? valproate | Decreased valproate concentrations an average of 25% over a 3-week period then stabilized in healthy volunteers; no change in controlled clinical trials in epilepsy patients. |
+|  | ? valproate | Decreased valproate concentrations an average of 25% over a 3-week period then stabilized in healthy volunteers; no change in controlled clinical trials in patients with epilepsy. |
 
 ↓= Decreased (induces lamotrigine glucuronidation).
 

@@ -7,19 +7,19 @@ The following adverse reactions are described in more detail in the Warnings and
 - •Blood dyscrasias [see Warnings and Precautions (5.3)]
 - •Suicidal behavior and ideation [see Warnings and Precautions (5.4)]
 - •Aseptic meningitis [see Warnings and Precautions (5.6)]
-- •Withdrawal seizures [see Warnings and Precautions(5.9)]
-- •Status epilepticus [see Warnings and Precautions(5.10)]
-- •Sudden unexplained death in epilepsy [see Warnings and Precautions(5.11)]
+- •Withdrawal seizures [see Warnings and Precautions (5.9)]
+- •Status epilepticus [see Warnings and Precautions (5.10)]
+- •Sudden unexplained death in epilepsy [see Warnings and Precautions (5.11)]
 
-## 6.1 Clinical Trials
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-LAMICTAL has been evaluated for safety in patients with epilepsy and in patients with Bipolar I Disorder.
+LAMICTAL has been evaluated for safety in patients with epilepsy and in patients with bipolar I disorder.
 Adverse reactions reported for each of these patient populations are provided below.
 Excluded are adverse reactions considered too general to be informative and those not reasonably attributable to the use of the drug.
 
-Epilepsy: Most Common Adverse Reactions in All Clinical Studies: Adjunctive Therapy in Adults With Epilepsy: The most commonly observed (≥5% for LAMICTAL and more common on drug than placebo) adverse reactions seen in association with LAMICTAL during adjunctive therapy in adults and not seen at an equivalent frequency among placebo-treated patients were: dizziness, ataxia, somnolence, headache, diplopia, blurred vision, nausea, vomiting, and rash.
+Epilepsy: Most Common Adverse Reactions in All Clinical Studies: Adjunctive Therapy in Adults with Epilepsy: The most commonly observed (≥5% for LAMICTAL and more common on drug than placebo) adverse reactions seen in association with LAMICTAL during adjunctive therapy in adults and not seen at an equivalent frequency among placebo-treated patients were: dizziness, ataxia, somnolence, headache, diplopia, blurred vision, nausea, vomiting, and rash.
 Dizziness, diplopia, ataxia, blurred vision, nausea, and vomiting were dose-related.
 Dizziness, diplopia, ataxia, and blurred vision occurred more commonly in patients receiving carbamazepine with LAMICTAL than in patients receiving other AEDs with LAMICTAL.
 Clinical data suggest a higher incidence of rash, including serious rash, in patients receiving concomitant valproate than in patients not receiving valproate [see Warnings and Precautions (5.1)].
@@ -27,28 +27,28 @@ Clinical data suggest a higher incidence of rash, including serious rash, in pat
 Approximately 11% of the 3,378 adult patients who received LAMICTAL as adjunctive therapy in premarketing clinical trials discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were rash (3.0%), dizziness (2.8%), and headache (2.5%).
 
-In a dose-response study in adults, the rate of discontinuation of LAMICTAL for dizziness, ataxia, diplopia, blurred vision, nausea, and vomiting was dose-related.
+In a dose-response study in adults, the rate of discontinuation of LAMICTAL for dizziness, ataxia, diplopia, blurred vision, nausea, and vomiting was dose related.
 
-Monotherapy in Adults With Epilepsy: The most commonly observed (≥5% for LAMICTAL and more common on drug than placebo) adverse reactions seen in association with the use of LAMICTAL during the monotherapy phase of the controlled trial in adults not seen at an equivalent rate in the control group were vomiting, coordination abnormality, dyspepsia, nausea, dizziness, rhinitis, anxiety, insomnia, infection, pain, weight decrease, chest pain, and dysmenorrhea.
+Monotherapy in Adults with Epilepsy: The most commonly observed (≥5% for LAMICTAL and more common on drug than placebo) adverse reactions seen in association with the use of LAMICTAL during the monotherapy phase of the controlled trial in adults not seen at an equivalent rate in the control group were vomiting, coordination abnormality, dyspepsia, nausea, dizziness, rhinitis, anxiety, insomnia, infection, pain, weight decrease, chest pain, and dysmenorrhea.
 The most commonly observed (≥5% for LAMICTAL and more common on drug than placebo) adverse reactions associated with the use of LAMICTAL during the conversion to monotherapy (add-on) period, not seen at an equivalent frequency among low-dose valproate-treated patients, were dizziness, headache, nausea, asthenia, coordination abnormality, vomiting, rash, somnolence, diplopia, ataxia, accidental injury, tremor, blurred vision, insomnia, nystagmus, diarrhea, lymphadenopathy, pruritus, and sinusitis.
 
 Approximately 10% of the 420 adult patients who received LAMICTAL as monotherapy in premarketing clinical trials discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were rash (4.5%), headache (3.1%), and asthenia (2.4%).
 
-Adjunctive Therapy in Pediatric Patients With Epilepsy: The most commonly observed (≥5% for LAMICTAL and more common on drug than placebo) adverse reactions seen in association with the use of LAMICTAL as adjunctive treatment in pediatric patients 2 to 16 years of age and not seen at an equivalent rate in the control group were infection, vomiting, rash, fever, somnolence, accidental injury, dizziness, diarrhea, abdominal pain, nausea, ataxia, tremor, asthenia, bronchitis, flu syndrome, and diplopia.
+Adjunctive Therapy in Pediatric Patients with Epilepsy: The most commonly observed (≥5% for LAMICTAL and more common on drug than placebo) adverse reactions seen in association with the use of LAMICTAL as adjunctive treatment in pediatric patients aged 2 to 16 years and not seen at an equivalent rate in the control group were infection, vomiting, rash, fever, somnolence, accidental injury, dizziness, diarrhea, abdominal pain, nausea, ataxia, tremor, asthenia, bronchitis, flu syndrome, and diplopia.
 
-In 339 patients 2 to 16 years of age with partial seizures or generalized seizures of Lennox-Gastaut syndrome, 4.2% of patients on LAMICTAL and 2.9% of patients on placebo discontinued due to adverse reactions.
+In 339 patients aged 2 to 16 years with partial seizures or generalized seizures of Lennox-Gastaut syndrome, 4.2% of patients on LAMICTAL and 2.9% of patients on placebo discontinued due to adverse reactions.
 The most commonly reported adverse reaction that led to discontinuation of LAMICTAL was rash.
 
-Approximately 11.5% of the 1,081 pediatric patients 2 to 16 years of age who received LAMICTAL as adjunctive therapy in premarketing clinical trials discontinued treatment because of an adverse reaction.
+Approximately 11.5% of the 1,081 pediatric patients aged 2 to 16 years who received LAMICTAL as adjunctive therapy in premarketing clinical trials discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were rash (4.4%), reaction aggravated (1.7%), and ataxia (0.6%).
 
-Controlled Adjunctive Clinical Studies in Adults With Epilepsy: Table 8 lists treatment-emergent adverse reactions that occurred in at least 2% of adult patients with epilepsy treated with LAMICTAL in placebo-controlled trials and were numerically more common in the patients treated with LAMICTAL.
+Controlled Adjunctive Clinical Studies in Adults with Epilepsy: Table 8 lists treatment-emergent adverse reactions that occurred in at least 2% of adult patients with epilepsy treated with LAMICTAL in placebo-controlled trials and were numerically more common in the patients treated with LAMICTAL.
 In these studies, either LAMICTAL or placebo was added to the patient’s current AED therapy.
 Adverse reactions were usually mild to moderate in intensity.
 
 Table 8.
-Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Trials in Adult Patients With Epilepsya (Adverse reactions in at least 2% of patients treated with LAMICTAL and numerically more frequent than in the placebo group.)
+Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Trials in Adult Patients with Epilepsya (Adverse reactions in at least 2% of patients treated with LAMICTAL and numerically more frequent than in the placebo group.)
 
 | Body System/Adverse Reaction | Percent of Patients Receiving Adjunctive LAMICTAL(n = 711) | Percent of Patients Receiving Adjunctive Placebo(n = 419) |
 | --- | --- | --- |
@@ -98,13 +98,13 @@ Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive T
 | Vaginitis | 4 | 1 |
 | Amenorrhea | 2 | 1 |
 
-aPatients in these adjunctive studies were receiving 1 to 3 of the following concomitant AEDs (carbamazepine, phenytoin, phenobarbital, or primidone) in addition to LAMICTAL or placebo.
-Patients may have reported multiple adverse reactions during the study or at discontinuation; thus, patients may be included in more than one category.
+aPatients in these adjunctive studies were receiving 1 to 3 of the concomitant antiepileptic drugs carbamazepine, phenytoin, phenobarbital, or primidone in addition to LAMICTAL or placebo.
+Patients may have reported multiple adverse reactions during the study or at discontinuation; thus, patients may be included in more than 1 category.
 
-In a randomized, parallel study comparing placebo and 300 and 500 mg/day of LAMICTAL, some of the more common drug-related adverse reactions were dose-related (see Table 9).
+In a randomized, parallel study comparing placebo with 300 and 500 mg/day of LAMICTAL, some of the more common drug-related adverse reactions were dose related (see Table 9).
 
 Table 9.
-Dose-Related Adverse Reactions From a Randomized, Placebo-Controlled Adjunctive Trial in Adults With Epilepsy
+Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled Adjunctive Trial in Adults with Epilepsy
 
 | Adverse Reaction | Percent of Patients Experiencing Adverse Reactions |  |  |
 | --- | --- | --- | --- |
@@ -120,16 +120,16 @@ aSignificantly greater than placebo group (P<0.05).
 
 bSignificantly greater than group receiving LAMICTAL 300 mg (P<0.05).
 
-The overall adverse reaction profile for LAMICTAL was similar between females and males, and was independent of age.
+The overall adverse reaction profile for LAMICTAL was similar between females and males and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to LAMICTAL in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
 Generally, females receiving either LAMICTAL as adjunctive therapy or placebo were more likely to report adverse reactions than males.
 The only adverse reaction for which the reports on LAMICTAL were greater than 10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
 There was little difference between females and males in the rates of discontinuation of LAMICTAL for individual adverse reactions.
 
-Controlled Monotherapy Trial in Adults With Partial Seizures: Table 10 lists treatment-emergent adverse reactions that occurred in at least 5% of patients with epilepsy treated with monotherapy with LAMICTAL in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
+Controlled Monotherapy Trial in Adults with Partial Seizures: Table 10 lists treatment-emergent adverse reactions that occurred in at least 5% of patients with epilepsy treated with monotherapy with LAMICTAL in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
 
 Table 10.
-Treatment-Emergent Adverse Reaction Incidence in Adults With Partial Seizures in a Controlled Monotherapy Triala (Adverse reactions in at least 5% of patients treated with LAMICTAL and numerically more frequent than in the valproate group.)
+Treatment-Emergent Adverse Reaction Incidence in Adults with Partial Seizures in a Controlled Monotherapy Triala (Adverse reactions in at least 5% of patients treated with LAMICTAL and numerically more frequent than in the valproate group.)
 
 | Body System/Adverse Reaction | Percent of Patients Receiving LAMICTAL as Monotherapyb(n = 43) | Percent of Patients Receiving Low-Dose Valproatec Monotherapy(n = 44) |
 | --- | --- | --- |
@@ -154,7 +154,7 @@ Treatment-Emergent Adverse Reaction Incidence in Adults With Partial Seizures in
 | Dysmenorrhea | 5 | 0 |
 
 aPatients in these studies were converted to LAMICTAL or valproate monotherapy from adjunctive therapy with carbamazepine or phenytoin.
-Patients may have reported multiple adverse reactions during the study; thus, patients may be included in more than one category.
+Patients may have reported multiple adverse reactions during the study; thus, patients may be included in more than 1 category.
 
 bUp to 500 mg/day.
 
@@ -176,11 +176,11 @@ Skin and Appendages: Contact dermatitis, dry skin, sweating.
 
 Special Senses: Vision abnormality.
 
-Incidence in Controlled Adjunctive Trials in Pediatric Patients With Epilepsy: Table 11 lists adverse reactions that occurred in at least 2% of 339 pediatric patients with partial seizures or generalized seizures of Lennox-Gastaut syndrome, who received LAMICTAL up to 15 mg/kg/day or a maximum of 750 mg/day.
+Incidence in Controlled Adjunctive Trials in Pediatric Patients with Epilepsy: Table 11 lists adverse reactions that occurred in at least 2% of 339 pediatric patients with partial seizures or generalized seizures of Lennox-Gastaut syndrome, who received LAMICTAL up to 15 mg/kg/day or a maximum of 750 mg/day.
 Reported adverse reactions were classified using COSTART terminology.
 
 Table 11.
-Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Trials in Pediatric Patients With Epilepsy (Adverse reactions in at least 2% of patients treated with LAMICTAL and numerically more frequent than in the placebo group.)
+Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Trials in Pediatric Patients with Epilepsy (Adverse reactions in at least 2% of patients treated with LAMICTAL and numerically more frequent than in the placebo group.)
 
 | Body System/Adverse Reaction | Percent of Patients Receiving LAMICTAL(n = 168) | Percent of Patients Receiving Placebo(n = 171) |
 | --- | --- | --- |
@@ -235,17 +235,17 @@ Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive T
 | Male and female patients |  |  |
 | Urinary tract infection | 3 | 0 |
 
-Bipolar Disorder: The most commonly observed (≥5%) treatment-emergent adverse reactions seen in association with the use of LAMICTAL as monotherapy (100 to 400 mg/day) in adult patients (≥18 years of age) with Bipolar Disorder in the 2 double-blind, placebo-controlled trials of 18 months’ duration, and numerically more frequent than in placebo-treated patients are included in Table 12.
+Bipolar Disorder: The most commonly observed (≥5%) treatment-emergent adverse reactions seen in association with the use of LAMICTAL as monotherapy (100 to 400 mg/day) in adult patients (aged 18 years and older) with bipolar disorder in the 2 double-blind, placebo-controlled trials of 18 months’ duration and numerically more frequent than in placebo-treated patients are included in Table 12.
 Adverse reactions that occurred in at least 5% of patients and were numerically more common during the dose-escalation phase of LAMICTAL in these trials (when patients may have been receiving concomitant medications) compared with the monotherapy phase were: headache (25%), rash (11%), dizziness (10%), diarrhea (8%), dream abnormality (6%), and pruritus (6%).
 
 During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months’ duration, 13% of 227 patients who received LAMICTAL (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
 The adverse reactions which most commonly led to discontinuation of LAMICTAL were rash (3%) and mania/hypomania/mixed mood adverse reactions (2%).
-Approximately 16% of 2,401 patients who received LAMICTAL (50 to 500 mg/day) for Bipolar Disorder in premarketing trials discontinued therapy because of an adverse reaction, most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
+Approximately 16% of 2,401 patients who received LAMICTAL (50 to 500 mg/day) for bipolar disorder in premarketing trials discontinued therapy because of an adverse reaction, most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
 
 The overall adverse reaction profile for LAMICTAL was similar between females and males, between elderly and nonelderly patients, and among racial groups.
 
 Table 12.
-Treatment-Emergent Adverse Reaction Incidence in 2 Placebo-Controlled Trials in Adults With Bipolar I Disordera (Adverse reactions in at least 5% of patients treated with LAMICTAL as monotherapy and numerically more frequent than in the placebo group.)
+Treatment-Emergent Adverse Reaction Incidence in 2 Placebo-Controlled Trials in Adults with Bipolar I Disordera (Adverse reactions in at least 5% of patients treated with LAMICTAL as monotherapy and numerically more frequent than in the placebo group.)
 
 | Body System/Adverse Reaction | Percent of Patients Receiving LAMICTAL(n = 227) | Percent of Patients Receiving Placebo(n = 190) |
 | --- | --- | --- |
@@ -266,10 +266,10 @@ Treatment-Emergent Adverse Reaction Incidence in 2 Placebo-Controlled Trials in 
 | Exacerbation of cough | 5 | 3 |
 | Pharyngitis | 5 | 4 |
 | Skin |  |  |
-| Rash (nonserious)b | 7 | 5 |
+| Rash (nonserious) b | 7 | 5 |
 
 aPatients in these studies were converted to LAMICTAL (100 to 400 mg/day) or placebo monotherapy from add-on therapy with other psychotropic medications.
-Patients may have reported multiple adverse reactions during the study; thus, patients may be included in more than one category.
+Patients may have reported multiple adverse reactions during the study; thus, patients may be included in more than 1 category.
 
 bIn the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received LAMICTAL as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received LAMICTAL as adjunctive therapy [see Warnings and Precautions (5.1)].
 
@@ -294,11 +294,11 @@ Respiratory: Sinusitis.
 
 Urogenital: Urinary frequency.
 
-Adverse Reactions Following Abrupt Discontinuation: In the 2 maintenance trials, there was no increase in the incidence, severity, or type of adverse reactions in Bipolar Disorder patients after abruptly terminating therapy with LAMICTAL.
-In clinical trials in patients with Bipolar Disorder, 2 patients experienced seizures shortly after abrupt withdrawal of LAMICTAL.
-However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients [see Warnings and Precautions (5.9)].
+Adverse Reactions Following Abrupt Discontinuation: In the 2 maintenance trials, there was no increase in the incidence, severity, or type of adverse reactions in bipolar disorder patients after abruptly terminating therapy with LAMICTAL.
+In clinical trials in patients with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of LAMICTAL.
+However, there were confounding factors that may have contributed to the occurrence of seizures in these patients with bipolar disorder [see Warnings and Precautions (5.9)].
 
-Mania/Hypomania/Mixed Episodes: During the double-blind, placebo-controlled clinical trials in Bipolar I Disorder in which patients were converted to monotherapy with LAMICTAL (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with LAMICTAL (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
+Mania/Hypomania/Mixed Episodes: During the double-blind, placebo-controlled clinical trials in bipolar I disorder in which patients were converted to monotherapy with LAMICTAL (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with LAMICTAL (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
 In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with LAMICTAL (n = 956), 3% of patients treated with lithium (n = 280), and 4% of patients treated with placebo (n = 803).
 
 ## 6.2 Other Adverse Reactions Observed in All Clinical Trials
@@ -306,50 +306,50 @@ In all bipolar controlled trials combined, adverse reactions of mania (including
 LAMICTAL has been administered to 6,694 individuals for whom complete adverse reaction data was captured during all clinical trials, only some of which were placebo controlled.
 During these trials, all adverse reactions were recorded by the clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals having adverse reactions, similar types of adverse reactions were grouped into a smaller number of standardized categories using modified COSTART dictionary terminology.
-The frequencies presented represent the proportion of the 6,694 individuals exposed to LAMICTAL who experienced an event of the type cited on at least one occasion while receiving LAMICTAL.
+The frequencies presented represent the proportion of the 6,694 individuals exposed to LAMICTAL who experienced an event of the type cited on at least 1 occasion while receiving LAMICTAL.
 All reported adverse reactions are included except those already listed in the previous tables or elsewhere in the labeling, those too general to be informative, and those not reasonably associated with the use of the drug.
 
 Adverse reactions are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse reactions are defined as those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare adverse reactions are those occurring in fewer than 1/1,000 patients.
 
-Body as a Whole: Infrequent: Allergic reaction, chills, and malaise.
+Body as a Whole: Infrequent: Allergic reaction, chills, malaise.
 
-Cardiovascular System: Infrequent: Flushing, hot flashes, hypertension, palpitations, postural hypotension, syncope, tachycardia, and vasodilation.
+Cardiovascular System: Infrequent: Flushing, hot flashes, hypertension, palpitations, postural hypotension, syncope, tachycardia, vasodilation.
 
-Dermatological: Infrequent: Acne, alopecia, hirsutism, maculopapular rash, skin discoloration, and urticaria.
-Rare: Angioedema, erythema, exfoliative dermatitis, fungal dermatitis, herpes zoster, leukoderma, multiforme erythema, petechial rash, pustular rash, Stevens-Johnson syndrome, and vesiculobullous rash.
+Dermatological: Infrequent: Acne, alopecia, hirsutism, maculopapular rash, skin discoloration, urticaria.
+Rare: Angioedema, erythema, exfoliative dermatitis, fungal dermatitis, herpes zoster, leukoderma, multiforme erythema, petechial rash, pustular rash, Stevens-Johnson syndrome, vesiculobullous rash.
 
-Digestive System: Infrequent: Dysphagia, eructation, gastritis, gingivitis, increased appetite, increased salivation, liver function tests abnormal, and mouth ulceration.
-Rare: Gastrointestinal hemorrhage, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hemorrhagic colitis, hepatitis, melena, stomach ulcer, stomatitis, and tongue edema.
+Digestive System: Infrequent: Dysphagia, eructation, gastritis, gingivitis, increased appetite, increased salivation, liver function tests abnormal, mouth ulceration.
+Rare: Gastrointestinal hemorrhage, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hemorrhagic colitis, hepatitis, melena, stomach ulcer, stomatitis, tongue edema.
 
-Endocrine System: Rare: Goiter and hypothyroidism.
+Endocrine System: Rare: Goiter, hypothyroidism.
 
-Hematologic and Lymphatic System: Infrequent: Ecchymosis and leukopenia.
-Rare: Anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficiency anemia, leukocytosis, lymphocytosis, macrocytic anemia, petechia, and thrombocytopenia.
+Hematologic and Lymphatic System: Infrequent: Ecchymosis, leukopenia.
+Rare: Anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficiency anemia, leukocytosis, lymphocytosis, macrocytic anemia, petechia, thrombocytopenia.
 
 Metabolic and Nutritional Disorders: Infrequent: Aspartate transaminase increased.
-Rare: Alcohol intolerance, alkaline phosphatase increase, alanine transaminase increase, bilirubinemia, general edema, gamma glutamyl transpeptidase increase, and hyperglycemia.
+Rare: Alcohol intolerance, alkaline phosphatase increase, alanine transaminase increase, bilirubinemia, general edema, gamma glutamyl transpeptidase increase, hyperglycemia.
 
-Musculoskeletal System: Infrequent: Arthritis, leg cramps, myasthenia, and twitching.
-Rare: Bursitis, muscle atrophy, pathological fracture, and tendinous contracture.
+Musculoskeletal System: Infrequent: Arthritis, leg cramps, myasthenia, twitching.
+Rare: Bursitis, muscle atrophy, pathological fracture, tendinous contracture.
 
-Nervous System: Frequent: Confusion and paresthesia.
-Infrequent: Akathisia, apathy, aphasia, central nervous system (CNS) depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
-Rare: Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal syndrome, faintness, grand mal convulsions, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, manic depression reaction, muscle spasm, neuralgia, neurosis, paralysis, and peripheral neuritis.
+Nervous System: Frequent: Confusion, paresthesia.
+Infrequent: Akathisia, apathy, aphasia, central nervous system (CNS) depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, suicidal ideation.
+Rare: Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal syndrome, faintness, grand mal convulsions, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, manic depression reaction, muscle spasm, neuralgia, neurosis, paralysis, peripheral neuritis.
 
 Respiratory System: Infrequent: Yawn.
-Rare: Hiccup and hyperventilation.
+Rare: Hiccup, hyperventilation.
 
 Special Senses: Frequent: Amblyopia.
-Infrequent: Abnormality of accommodation, conjunctivitis, dry eyes, ear pain, photophobia, taste perversion, and tinnitus.
-Rare: Deafness, lacrimation disorder, oscillopsia, parosmia, ptosis, strabismus, taste loss, uveitis, and visual field defect.
+Infrequent: Abnormality of accommodation, conjunctivitis, dry eyes, ear pain, photophobia, taste perversion, tinnitus.
+Rare: Deafness, lacrimation disorder, oscillopsia, parosmia, ptosis, strabismus, taste loss, uveitis, visual field defect.
 
-Urogenital System: Infrequent: Abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, and urinary incontinence.
-Rare: Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatinine increase, cystitis, dysuria, epididymitis, female lactation, kidney failure, kidney pain, nocturia, urinary retention, and urinary urgency.
+Urogenital System: Infrequent: Abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, urinary incontinence.
+Rare: Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatinine increase, cystitis, dysuria, epididymitis, female lactation, kidney failure, kidney pain, nocturia, urinary retention, urinary urgency.
 
 ## 6.3 Postmarketing Experience
 
-The following adverse events (not listed above in clinical trials or other sections of the prescribing information) have been identified during postapproval use of LAMICTAL.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during postapproval use of LAMICTAL.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic: Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
 
@@ -363,6 +363,6 @@ Lower Respiratory: Apnea.
 
 Musculoskeletal: Rhabdomyolysis has been observed in patients experiencing hypersensitivity reactions.
 
-Neurology: Exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson’s disease, tics.
+Neurology: Exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson’s disease, nightmares, tics.
 
 Non-site Specific: Progressive immunosuppression.
