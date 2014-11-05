@@ -108,9 +108,7 @@ Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
 NDC 0009-3331-01
 
-60 gram
-
-Rx only
+60 gram Rx only
 
 Cleocin T® clindamycin phosphate topical gel
 
@@ -148,9 +146,7 @@ Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
 NDC 0009-3331-02
 
-30 gram
-
-Rx only
+30 gram Rx only
 
 Cleocin T® clindamycin phosphate topical gel
 
