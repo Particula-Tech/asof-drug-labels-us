@@ -40,6 +40,20 @@ Pledget for topical use only
 
 Rx only
 
+# PRINCIPAL DISPLAY PANEL - 60 Pledget Packet Carton
+
+NDC 59762-3728-3 60 Pledgets
+
+GREENSTONE® BRAND
+
+clindamycin phosphate topical solution, USP
+
+1%*
+
+Pledget for topical use only
+
+Rx only
+
 # PRINCIPAL DISPLAY PANEL - 60 mL Bottle Label - Lotion
 
 NDC 59762-3744-1 60 mL
@@ -53,6 +67,10 @@ clindamycin phosphate topical lotion
 For topical use only
 
 Rx only
+
+PAA041327
+
+LOT/EXP
 
 # PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton - Lotion
 
