@@ -17,9 +17,9 @@ Impairment of Fertility
 
 No studies of colchicine effects on fertility were conducted with COLCRYS.
 However, published nonclinical studies demonstrated that colchicine-induced disruption of microtubule formation affects meiosis and mitosis.
-Reproductive studies also reported abnormal sperm morphology and reduced sperm counts in males, and interference with sperm penetration, second meiotic division, and normal cleavage in females when exposed to colchicine.
+Reproductive studies also reported abnormal sperm morphology and reduced sperm counts in males, and interference with sperm penetration, second meiotic division and normal cleavage in females when exposed to colchicine.
 Colchicine administered to pregnant animals resulted in fetal death and teratogenicity.
-These effects were dose dependent, with the timing of exposure critical for the effects on embryofetal development.
+These effects were dose-dependent, with the timing of exposure critical for the effects on embryofetal development.
 The nonclinical doses evaluated were generally higher than an equivalent human therapeutic dose, but safety margins for reproductive and developmental toxicity could not be determined.
 
 Case reports and epidemiology studies in human male subjects on colchicine therapy indicated that infertility from colchicine is rare.

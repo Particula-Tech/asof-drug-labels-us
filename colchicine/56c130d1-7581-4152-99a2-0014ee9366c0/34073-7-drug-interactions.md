@@ -13,8 +13,8 @@ Table 1 provides recommendations for strong and moderate CYP3A4 inhibitors and P
 
 Table 4 Other Potentially Significant Drug Interactions
 
-| Concomitant Drug Class or Food | Noted or anticipated Outcome | Clinical Comment |
+| Concomitant Drug Class or Food | Noted or Anticipated Outcome | Clinical Comment |
 | --- | --- | --- |
-| HMG-Co A Reductase Inhibitors: atorvastatin, fluvastatin, lovastatin, pravastatin, simvastatin | Pharmacokinetic and/or pharmacodynamic interaction: the addition of one drug to a stable long-term regimen of the other has resulted in myopathy and rhabdomyolysis (including a fatality) | Weigh the potential benefits and risks and carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during initial therapy; monitoring CPK (creatine phosphokinase) will not necessarily prevent the occurrence of severe myopathy. |
-| Other Lipid Lowering Drugs: fibrates, gemfibrozil |  |  |
-| Digitalis Glycosides: digoxin | P-gp substrate; rhabdomyolysis has been reported |  |
+| HMG-Co A Reductase Inhibitors: atorvastatin, fluvastatin, lovastatin, pravastatin, simvastatin | Pharmacokinetic and/or pharmacodynamic interaction: the addition of one drug to a stable long-term regimen of the other has resulted in myopathy and rhabdomyolysis (including a fatality)P-gp substrate; rhabdomyolysis has been reported | Weigh the potential benefits and risks and carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during initial therapy; monitoring CPK (creatine phosphokinase) will not necessarily prevent the occurrence of severe myopathy. |
+| Other Lipid-Lowering Drugs: fibrates, gemfibrozil |  |  |
+| Digitalis Glycosides: digoxin |  |  |
