@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "barium-sulfate",
+  "labeler": "E-Z-EM Canada Inc",
+  "package_ndcs": [
+    "32909-145-06"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "barium sulfate",
+      "name": "ENTERO Vu 24%"
+    }
+  ],
+  "setid": "83a06a8e-93db-a59b-933c-5882127bce7c",
+  "source": "dailymed"
+}
