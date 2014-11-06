@@ -20,7 +20,7 @@ PANSS Total Score-Change From Baseline to Endpoint-Last Observation Carried Forw
 
 | 39 mg | 78 mg | 156 mg | 234 mg |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Study | Placebo | Doses of Invega Sustenna |  |  |  |
+| Study | Placebo | Doses of INVEGA® SUSTENNA® |  |  |  |
 | R092670-PSY-3007 N Baseline (mean) Change from baseline (mean) | 160 86.8 -2.9 | 155 86.9 -8.0p-value < 0.05 | - | 161 86.2 -11.6p-value ≤ 0.001 | 160 88.4 -13.2 |
 | R092670-PSY-3003 N Baseline (mean) Change from baseline (mean) | 132 92.4 -4.1 | - | 93 89.9 -7.9 | 94 90.1 -11.0 | 30 92.2 -5.5 |
 | R092670-PSY-3004 N Baseline (mean) Change from baseline (mean) | 125 90.7 -7.0 | 129 90.7 -13.6 | 128 91.2 -13.2 | 131 90.8 -16.1 | - |
