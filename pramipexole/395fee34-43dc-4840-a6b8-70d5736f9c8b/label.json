@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA203855"
+  ],
+  "inn": "pramipexole",
+  "labeler": "ScieGen Pharmaceuticals Inc",
+  "package_ndcs": [
+    "50228-126-10",
+    "50228-126-90",
+    "50228-127-10",
+    "50228-127-90",
+    "50228-128-10",
+    "50228-128-90",
+    "50228-129-10",
+    "50228-129-90",
+    "50228-130-10",
+    "50228-130-90",
+    "50228-131-10",
+    "50228-131-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pramipexole dihydrochloride",
+      "name": "Pramipexole Dihydrochloride"
+    }
+  ],
+  "setid": "395fee34-43dc-4840-a6b8-70d5736f9c8b",
+  "source": "dailymed"
+}
