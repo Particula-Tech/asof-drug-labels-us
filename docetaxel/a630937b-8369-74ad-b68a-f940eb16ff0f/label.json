@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204193"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
+  "package_ndcs": [
+    "43598-258-11",
+    "43598-259-40"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "docetaxel",
+      "name": "Docetaxel"
+    }
+  ],
+  "setid": "a630937b-8369-74ad-b68a-f940eb16ff0f",
+  "source": "dailymed"
+}
