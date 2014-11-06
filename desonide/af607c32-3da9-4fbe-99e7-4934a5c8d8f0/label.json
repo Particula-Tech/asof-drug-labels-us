@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202161"
+  ],
+  "inn": "desonide",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-4079-4",
+    "51672-4079-8"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "desonide",
+      "name": "Desonide"
+    }
+  ],
+  "setid": "af607c32-3da9-4fbe-99e7-4934a5c8d8f0",
+  "source": "dailymed"
+}
