@@ -10,27 +10,17 @@ Nasal Spray, 50 mcg
 
 120 Metered Sprays
 
-50 mcg per spray / 16 g net fill weight
+50 mcg per spray
 
-For Intranasal Use Only
+Spray – For Intranasal Use Only
+
+ATTENTION PHARMACIST:
+
+Dispense with enclosed patient’s instructions for use
+
+16 g net fill weight
 
 Rx only
 
-Important: Read accompanying directions carefully.
-
-See prescribing information for dosage information.
-
-After initial priming, each 100-mg spray contains 50 mcg of fluticasone propionate.
-
-Store between 4o and 30oC (39o and 86oF).
-
-Shake gently before each use.
-
-GlaxoSmithKline
-
-Research Triangle Park,
-
-NC 27709
-
-A107265 Rev.
+A107266 Rev.
 6/12

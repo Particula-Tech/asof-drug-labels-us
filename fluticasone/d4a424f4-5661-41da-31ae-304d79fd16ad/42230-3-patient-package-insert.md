@@ -25,10 +25,10 @@ When you spray FLONASE into your nose, it helps to reduce the symptoms of allerg
 
 THINGS TO REMEMBER ABOUT FLONASE NASAL SPRAY
 
-1. 1.Shake gently before using.
-2. 2.Use your nasal spray as directed by your doctor.
-   The directions are on the pharmacy label.
-3. 3.Keep your nasal spray out of the reach of children.
+- 1.Shake gently before using.
+- 2.Use your nasal spray as directed by your doctor.
+  The directions are on the pharmacy label.
+- 3.Keep your nasal spray out of the reach of children.
 
 BEFORE USING YOUR NASAL SPRAY
 
@@ -79,12 +79,16 @@ BEFORE USING
 1.
 Shake the bottle gently and then remove the dust cover (Figure 1).
 
+Figure 1
+
 2.
 It is necessary to prime the pump into the air the first time it is used, or when you have not used it for a week or more.
 To prime the pump, hold the bottle as shown with the nasal applicator pointing away from you and with your forefinger and middle finger on either side of the nasal applicator and your thumb underneath the bottle.
 When you prime the pump for the first time, press down and release the pump 6 times (Figure 2).
 The pump is now ready for use.
 If the pump is not used for 7 days, prime until a fine spray appears.
+
+Figure 2
 
 USING THE SPRAY
 
@@ -95,11 +99,15 @@ Blow your nose to clear your nostrils.
 Close one nostril.
 Tilt your head forward slightly and, keeping the bottle upright, carefully insert the nasal applicator into the other nostril (Figure 3).
 
+Figure 3
+
 5.
 Start to breathe in through your nose, and WHILE BREATHING IN press firmly and quickly down once on the applicator to release the spray.
 To get a full actuation, use your forefinger and middle finger to spray while supporting the base of the bottle with your thumb.
 Avoid spraying in eyes.
 Breathe gently inwards through the nostril (Figure 4).
+
+Figure 4
 
 6.
 Breathe out through your mouth.
@@ -113,6 +121,8 @@ Repeat steps 4 through 7 in the other nostril.
 9.
 Wipe the nasal applicator with a clean tissue and replace the dust cover (Figure 5).
 
+Figure 5
+
 10.
 Do not use this bottle for more than the labeled number of sprays even though the bottle is not completely empty.
 Before you throw the bottle away, you should consult your doctor to see if a refill is needed.
@@ -123,12 +133,12 @@ CLEANING
 Your nasal spray should be cleaned at least once a week.
 To do this:
 
-1. 1.Remove the dust cover and then gently pull upwards to free the nasal applicator.
-2. 2.Wash the applicator and dust cover under warm tap water.
-   Allow to dry at room temperature, then place the applicator and dust cover back on the bottle.
-3. 3.If the nasal applicator becomes blocked, it can be removed as above and left to soak in warm water.
-   Rinse with cold tap water, dry, and refit.
-   Do not try to unblock the nasal applicator by inserting a pin or other sharp object.
+- 1.Remove the dust cover and then gently pull upwards to free the nasal applicator.
+- 2.Wash the applicator and dust cover under warm tap water.
+  Allow to dry at room temperature, then place the applicator and dust cover back on the bottle.
+- 3.If the nasal applicator becomes blocked, it can be removed as above and left to soak in warm water.
+  Rinse with cold tap water, dry, and refit.
+  Do not try to unblock the nasal applicator by inserting a pin or other sharp object.
 
 STORING YOUR NASAL SPRAY
 
