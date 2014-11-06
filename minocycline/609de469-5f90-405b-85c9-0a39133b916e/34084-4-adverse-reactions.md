@@ -40,7 +40,7 @@ Pseudotumor cerebri (benign intracranial hypertension) in adults and bulging fon
 Headache has also been reported.
 
 Other: Thyroid cancer has been reported in the post-marketing setting in association with minocycline products.
-When minocycline therarapy is given over prolonged periods, monitoring for signs of thyroid cancer should be considered.
+When minocycline therapy is given over prolonged periods, monitoring for signs of thyroid cancer should be considered.
 When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of the thyroid gland.
 Cases of abnormal thyroid function have been reported.
 

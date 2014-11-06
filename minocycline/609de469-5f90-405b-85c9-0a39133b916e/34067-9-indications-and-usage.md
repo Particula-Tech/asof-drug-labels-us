@@ -5,7 +5,7 @@ MINOCIN® Intravenous is indicated in the treatment of the following infections 
 Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsialpox and tick fevers caused by rickettsiae.
 Respiratory tract infections caused by Mycoplasma pneumoniae.
 Lymphogranuloma venereum caused by Chlamydia trachomatis.
-Psittacosis (Ornithosis) due to Chlamydia psittaci.
+Psittacosis (Ornithosis) due to Chlamydophila psittaci.
 Trachoma caused by Chlamydia trachomatis, although the infectious agent is not always eliminated, as judged by immunofluorescence.
 Inclusion conjunctivitis caused by Chlamydia trachomatis.
 Nongonococcal urethritis, endocervical, or rectal infections in adults caused by Ureaplasma urealyticum or Chlamydia trachomatis.
@@ -16,7 +16,7 @@ Cholera caused by Vibrio cholerae.
 Campylobacter fetus infections caused by Campylobacter fetus.
 Brucellosis due to Brucella species (in conjunction with streptomycin).
 Bartonellosis due to Bartonella bacilliformis.
-Granuloma inguinale caused by Klebsiella (Calymmatobacterium) granulomatis.
+Granuloma inguinale caused by Klebsiella granulomatis.
 
 Minocycline is indicated for the treatment of infections caused by the following Gram-negative bacteria when bacteriologic testing indicates appropriate susceptibility to the drug:
 
@@ -39,7 +39,7 @@ Syphilis caused by Treponema pallidum subspecies pallidum.
 Yaws caused by Treponema pallidum subspecies pertenue.
 Listeriosis due to Listeria monocytogenes.
 Anthrax due to Bacillus anthracis.
-Vincent's infection caused by Fusobacterium fusiforme.
+Vincent’s infection caused by Fusobacterium fusiforme.
 Actinomycosis caused by Actinomyces israelii.
 Infections caused by Clostridium species.
 
