@@ -1,74 +1,99 @@
-# PATIENT: How To Use Instructions
+PATIENT INFORMATION Astelin [AS-ta-LIN] (azelastine hydrochloride) Nasal Spray
 
-FOR INTRANASAL USE ONLY
+| Important: For use in your nose only. |
+| --- |
 
-IMPORTANT: FOLLOW INSTRUCTIONS CAREFULLY TO ENSURE PROPER DOSING.
+What is Astelin Nasal Spray?
 
-DOSING: The dosage of Astelin® Nasal Spray is 1 spray per nostril twice daily for pediatric patients (ages 5-11 years) with seasonal allergic rhinitis.
-For patients age 12 and older with seasonal allergic rhinitis the dosage is one or two sprays per nostril twice daily.
-For patients age 12 and older with nonallergic vasomotor rhinitis the dosage is two sprays per nostril twice daily.
-Keep your head tilted downward when spraying.
-Alternate sprays between nostrils.
-Breathe gently to avoid drawing any medication into the throat.
+- Astelin Nasal Spray is a prescription medicine used to treat symptoms of seasonal allergic rhinitis in people age 5 and older and vasomotor rhinitis in people age 12 and older.
+- Astelin Nasal Spray may help to reduce your nasal symptoms including stuffy nose, runny nose, itching and sneezing.
 
-Follow the instructions below to use your Astelin® Nasal Spray pump.
+It is not known if Astelin Nasal Spray is safe and effective in children with seasonal allergic rhinitis under 5 years of age or in children with vasomotor rhinitis under 12 years of age.
 
-TO PRIME:
+What should I tell my healthcare provider before using Astelin Nasal Spray?
 
-1. Remove and retain the blue spray tip dust cover and blue safety clip.
-2. Prime for initial use by putting two fingers on the shoulders of the spray pump unit and place your thumb on the bottom of the bottle.
-   Press upward with thumb, release, and repeat until a fine mist appears (4 sprays or less).
-   Now your pump is primed and ready to use.
-3. If the solution is delivered in a stream of liquid, it may fail to provide maximum benefit and cause some discomfort.
-   A fine mist can be produced only by a rapid and firm pumping action.
-4. When 3 or more days have elapsed since the last use, the pump should be reprimed with 2 sprays or until a fine mist appears.
+Before using Astelin Nasal Spray, tell your healthcare provider if you are:
 
-TO USE:
+- allergic to any of the ingredients in Astelin Nasal Spray.
+  See the end of this leaflet for a complete list of ingredients in Astelin Nasal Spray.
+- pregnant, or plan to become pregnant.
+  It is not known if Astelin Nasal Spray will harm your unborn baby.
+- breastfeeding, or plan to breastfeed.
+  It is not known if Astelin Nasal Spray passes into your breast milk.
+  You and your healthcare provider should decide if you will use Astelin Nasal Spray if you plan to breastfeed.
 
-1. Gently blow nose to clear nostrils.
-2. Keep your head tilted downward toward your toes.
-3. Place the spray tip ¼ to ½ inch into one nostril.
-   Hold bottle vertically upright (as shown), allowing spray tip to aim toward the back of the nose.
-   Close other nostril with finger, rapidly press once with thumb and sniff gently at the same time.
-   You may feel a brief burning or stinging sensation after using the unit.
-4. Repeat in other nostril.
-5. For patients aged 12 and over who were instructed by their doctor to administer 2 sprays in each nostril, repeat Steps 2 and 3 for second spray, again alternating sprays between nostrils.
-6. Breathe in gently, and do not tilt head back after dosing to avoid drawing medication into the throat (where it will be tasted).
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Astelin Nasal Spray and other medicines may affect each other, causing side effects.
 
-CAUTION: In case of accidental ingestion by a young child, seek professional assistance or contact a poison control center immediately.
-Do not spray in eyes.
+How should I use Astelin Nasal Spray?
 
-NOTE: Keep the dust cover and safety clip on the spray pump unit when not in use.
-After each use and before replacing the dust cover, wipe the spray tip with a clean tissue or cloth.
+- Read the Instructions for Use at the end of this leaflet for information about the right way to use Astelin Nasal Spray.
+- Spray Astelin Nasal Spray in your nose only.
+  Do not spray it into your eyes or mouth.
+- Use Astelin Nasal Spray exactly as your healthcare provider tells you to use it.
+- Do not use more than your healthcare provider tells you.
+- Throw away your Astelin Nasal Spray bottle after using 200 sprays.
+  Even though the bottle may not be completely empty, you may not get the correct dose of medicine.
+- If you use too much or a child accidentally swallows Astelin Nasal Spray, call your healthcare provider or go to the nearest hospital emergency room right away.
 
-FOR ASSISTANCE, CALL 1-800-598-4856
+What should I avoid while using Astelin Nasal Spray?
 
-TO CLEAN:
+Astelin Nasal Spray can cause sleepiness:
 
-1. If spray nozzle becomes clogged, DO NOT ATTEMPT TO CLEAR IT USING A POINTED OBJECT.
-   Remove the spray pump unit from the bottle.
-2. Soak only the spray pump unit in warm water.
-   Squirt several times while holding under water.
-3. Make sure the spray pump unit is dry.
-4. Reinsert the pump into the open bottle and tighten by turning clockwise.
-5. To avoid leakage, firm pressure is required to ensure that the pump is fully threaded onto the bottle.
-6. Follow instructions for priming.
+- Do not drive, operate machinery, or do other dangerous activities until you know how Astelin Nasal Spray affects you.
+- Do not drink alcohol or take other medicines that may cause you to feel sleepy while using Astelin Nasal Spray.
+  It may make your sleepiness worse.
 
-Keep bottle tightly closed and away from children.
+What are the possible side effects of Astelin Nasal Spray?
 
-www.astelin.com
+The most common side effects of Astelin Nasal Spray include:
 
-Manufactured by
+- unusual bitter taste
+- headache
+- sleepiness
+- nose burning, pain or discomfort
+- runny nose
+- scratchy or sore throat
+- nosebleeds
+- inflamation or swelling of the sinuses
+- sneezing
+- nausea
+- dry mouth
+- fatigue
+- dizziness
+- weight increase
 
-Meda Pharmaceuticals
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-Meda Pharmaceuticals Inc.
+These are not all of the possible side effects of Astelin Nasal Spray.
+For more information, ask your healthcare provider or pharmacist.
 
-Somerset, New Jersey 08873-4120
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-800-526-3840 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+How should I store Astelin Nasal Spray?
 
-©2011 Meda Pharmaceuticals Inc. U.S. Patent D447,419 ASTELIN is a registered trademark of Meda Pharmaceuticals Inc.
+- Keep Astelin Nasal Spray upright at 68°F to 77°F (20°C to 25°C).
+- Do not freeze Astelin Nasal Spray.
+- Do not use Astelin Nasal Spray after the expiration date "EXP" on the medicine label and box.
 
-IN-023S6-10 Rev.
-1/12
+Keep Astelin Nasal Spray and all medicines out of reach of children.
+
+General information about the safe and effective use of Astelin Nasal Spray.
+
+Medicines are sometimes prescribed for conditions other than those listed in a Patient Information leaflet.
+Do not use Astelin Nasal Spray for a condition for which it was not prescribed.
+Do not give Astelin Nasal Spray to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+This Patient Information leaflet summarizes the most important information about Astelin Nasal Spray.
+If you would like more information, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about Astelin Nasal Spray that is written for health professionals.
+
+For more information call 1-866-210-5954.
+
+What are the ingredients in Astelin Nasal Spray?
+
+Active ingredient: azelastine hydrochloride
+
+Inactive ingredients: benzalkonium chloride, edetate disodium, hypromellose, citric acid, dibasic sodium phosphate, sodium chloride, and purified water.
