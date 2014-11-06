@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0754-00
 
@@ -28,16 +28,18 @@ Store at 25oC (77oF); excursions permitted to 15-30oC (59-86oF).
 
 Visit www.LAMICTALXR.com
 
-GlaxoSmithKline RTP, NC 27709
+GlaxoSmithKline
+
+RTP, NC 27709
 
 Made in India
 
 Rev.
-8/11
+9/14
 
-A098128
+A129061
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0755-00
 
@@ -74,11 +76,11 @@ RTP, NC 27709
 Made in India
 
 Rev.
-8/11
+9/14
 
-A098129
+A129062
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0756-00
 
@@ -115,11 +117,11 @@ RTP, NC 27709
 Made in India
 
 Rev.
-8/11
+9/14
 
-A098130
+A129063
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0757-00
 
@@ -156,9 +158,11 @@ RTP, NC 27709
 Made in India
 
 Rev.
-8/11
+9/14
 
-A098131
+A129064
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0781-00
 
@@ -176,9 +180,9 @@ Rx only
 
 CAUTION: Verify Product Dispensed
 
-Dispense the accompanying Medication Guide to each patient.
-
 30 tablets
+
+Dispense the accompanying Medication Guide to each patient.
 
 See prescribing information for dosage information.
 
@@ -195,11 +199,11 @@ RTP, NC 27709
 Made in India
 
 Rev.
-9/11
+10/14
 
-A098909
+A129066
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0758-00
 
@@ -242,7 +246,7 @@ GlaxoSmithKline
 10000000098324 Rev.
 8/11
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0759-00
 
@@ -289,7 +293,7 @@ GlaxoSmithKline
 10000000098323 Rev.
 8/11
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0760-00
 
@@ -336,7 +340,7 @@ GlaxoSmithKline
 10000000098325 Rev.
 8/11
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0761-00
 
@@ -373,6 +377,6 @@ RTP, NC 27709
 Made in India
 
 Rev.
-8/11
+10/14
 
-A098132
+A129065

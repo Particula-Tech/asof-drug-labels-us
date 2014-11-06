@@ -2,15 +2,15 @@
 
 ## 12.1 Mechanism of Action
 
-The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action is unknown.
-In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock and pentylenetetrazol tests, and prevented seizures in the visually and electrically evoked after-discharge tests for antiepileptic activity.
-Lamotrigine also displayed inhibitory properties in a kindling model in rats both during kindling development and in the fully kindled state.
+The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown.
+In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity.
+Lamotrigine also displayed inhibitory properties in the kindling model in rats both during kindling development and in the fully kindled state.
 The relevance of these models to human epilepsy, however, is not known.
 
 One proposed mechanism of action of lamotrigine, the relevance of which remains to be established in humans, involves an effect on sodium channels.
 In vitro pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).
 
-Effect of Lamotrigine on N-Methyl d-Aspartate-Receptor Mediated Activity: Lamotrigine did not inhibit N-methyl d-aspartate (NMDA)-induced depolarizations in rat cortical slices or NMDA-induced cyclic GMP formation in immature rat cerebellum, nor did lamotrigine displace compounds that are either competitive or noncompetitive ligands at this glutamate receptor complex (CNQX, CGS, TCHP).
+Effect of Lamotrigine on N-Methyl d-Aspartate-Receptor–Mediated Activity: Lamotrigine did not inhibit N-methyl d-aspartate (NMDA)-induced depolarizations in rat cortical slices or NMDA-induced cyclic GMP formation in immature rat cerebellum, nor did lamotrigine displace compounds that are either competitive or noncompetitive ligands at this glutamate receptor complex (CNQX, CGS, TCHP).
 The IC50 for lamotrigine effects on NMDA-induced currents (in the presence of 3 µM of glycine) in cultured hippocampal neurons exceeded 100 µM.
 
 ## 12.2 Pharmacodynamics
@@ -29,7 +29,7 @@ However, it is conceivable that plasma concentrations of this metabolite could b
 
 ## 12.3 Pharmacokinetics
 
-In comparison to immediate-release lamotrigine, the plasma lamotrigine levels following administration of LAMICTAL XR are not associated with any significant changes in trough plasma concentrations, and are characterized by lower peaks, longer time to peaks, and lower peak-to-trough fluctuation, as described in detail below.
+In comparison with immediate-release lamotrigine, the plasma lamotrigine levels following administration of LAMICTAL XR are not associated with any significant changes in trough plasma concentrations, and are characterized by lower peaks, longer time to peaks, and lower peak-to-trough fluctuation, as described in detail below.
 
 Absorption: Lamotrigine is absorbed after oral administration with negligible first-pass metabolism.
 The bioavailability of lamotrigine is not affected by food.
@@ -38,8 +38,8 @@ In an open-label, crossover study of 44 subjects with epilepsy receiving concomi
 In this study, the median time to peak concentration (Tmax) following administration of LAMICTAL XR was 4 to 6 hours in patients taking carbamazepine, phenytoin, phenobarbital, or primidone; 9 to 11 hours in patients taking valproate; and 6 to 10 hours in patients taking AEDs other than carbamazepine, phenytoin, phenobarbital, primidone, or valproate.
 In comparison, the median Tmax following administration of immediate-release lamotrigine was between 1 and 1.5 hours.
 
-The steady-state trough concentrations for extended-release lamotrigine were similar to or higher than those of immediate-release lamotrigine depending on concomitant AED (Table 6).
-A mean reduction in the lamotrigine Cmax by 11% to 29% was observed for LAMICTAL XR compared to immediate-release lamotrigine, resulting in a decrease in the peak-to-trough fluctuation in serum lamotrigine concentrations.
+The steady-state trough concentrations for extended-release lamotrigine were similar to or higher than those of immediate-release lamotrigine depending on concomitant AED (see Table 6).
+A mean reduction in the lamotrigine Cmax by 11% to 29% was observed for LAMICTAL XR compared with immediate-release lamotrigine, resulting in a decrease in the peak-to-trough fluctuation in serum lamotrigine concentrations.
 However, in some subjects receiving enzyme-inducing AEDs, a reduction in Cmax of 44% to 77% was observed.
 The degree of fluctuation was reduced by 17% in patients taking enzyme-inducing AEDs; 34% in patients taking valproate; and 37% in patients taking AEDs other than carbamazepine, phenytoin, phenobarbital, primidone, or valproate.
 LAMICTAL XR and immediate-release lamotrigine regimens were similar with respect to area under the curve (AUC, a measure of the extent of bioavailability) for patients receiving AEDs other than those known to induce the metabolism of lamotrigine.
@@ -81,12 +81,12 @@ Evidence gathered from other sources suggests that self-induction by lamotrigine
 Elimination: The elimination half-life and apparent clearance of lamotrigine following oral administration of immediate-release lamotrigine to adult patients with epilepsy and healthy volunteers is summarized in Table 7.
 Half-life and apparent clearance vary depending on concomitant AEDs.
 
-Since the half-life of lamotrigine following administration of single doses of immediate-release lamotrigine is comparable to that observed following administration of LAMICTAL XR, similar changes in the half-life of lamotrigine would be expected for LAMICTAL XR.
+Since the half-life of lamotrigine following administration of single doses of immediate-release lamotrigine is comparable with that observed following administration of LAMICTAL XR, similar changes in the half-life of lamotrigine would be expected for LAMICTAL XR.
 
 Table 7.
-Meana Pharmacokinetic Parameters of Immediate-Release Lamotrigine in Healthy Volunteers and Adult Patients With Epilepsy
+Meana Pharmacokinetic Parameters of Immediate-Release Lamotrigine in Healthy Volunteers and Adult Patients with Epilepsy
 
-| Adult Study Population | Number of Subjects | t½: Elimination Half-life (hr) | CL/F: Apparent Plasma Clearance (mL/min/kg) |
+| Adult Study Population | Number of Subjects | t½: Elimination Half-life (h) | CL/F: Apparent Plasma Clearance (mL/min/kg) |
 | --- | --- | --- | --- |
 | Healthy volunteers taking no other medications: |  |  |  |
 | Single-dose lamotrigine | 179 | 32.8(14.0-103.0) | 0.44(0.12-1.10) |
@@ -115,11 +115,11 @@ The net effects of drug interactions with lamotrigine are summarized in Table 8.
 Details of the drug interaction studies, which were done using immediate-release lamotrigine, are provided in Table 8.
 
 Table 8.
-Summary of Drug Interactions With Lamotrigine
+Summary of Drug Interactions with Lamotrigine
 
-| Drug | Drug Plasma Concentration With Adjunctive Lamotriginea | Lamotrigine Plasma Concentration With Adjunctive Drugsb |
+| Drug | Drug Plasma Concentration with Adjunctive Lamotriginea | Lamotrigine Plasma Concentration with Adjunctive Drugsb |
 | --- | --- | --- |
-| Oral contraceptives (e.g., ethinylestradiol/levonorgestrelc) | ↔d | ↓ |
+| Oral contraceptives (e.g., ethinylestradiol/levonorgestrel)c | ↔d | ↓ |
 | Bupropion | Not assessed | ↔ |
 | Carbamazepine | ↔ | ↓ |
 | Carbamazepine epoxidee | ? |  |
@@ -129,7 +129,7 @@ Summary of Drug Interactions With Lamotrigine
 | Lithium | ↔ | Not assessed |
 | Olanzapine | ↔ | ↔f |
 | Oxcarbazepine | ↔ | ↔ |
-| 10-monohydroxy oxcarbazepine metaboliteg | ↔ |  |
+| 10-Monohydroxy oxcarbazepine metaboliteg | ↔ |  |
 | Phenobarbital/primidone | ↔ | ↓ |
 | Phenytoin | ↔ | ↓ |
 | Pregabalin | ↔ | ↔ |
@@ -234,9 +234,9 @@ Valproate: When lamotrigine was administered to healthy volunteers (n = 18) rece
 However, adding lamotrigine to the existing therapy did not cause a change in valproate plasma concentrations in either adult or pediatric patients in controlled clinical trials.
 
 The addition of valproate increased lamotrigine steady-state concentrations in normal volunteers by slightly more than 2-fold.
-In one study, maximal inhibition of lamotrigine clearance was reached at valproate doses between 250 and 500 mg/day and did not increase as the valproate dose was further increased.
+In 1 study, maximal inhibition of lamotrigine clearance was reached at valproate doses between 250 and 500 mg/day and did not increase as the valproate dose was further increased.
 
-Zonisamide: In a study of 18 patients with epilepsy, coadministration of zonisamide (200 to 400 mg/day) with lamotrigine (150 to 500 mg/day for 35 days) had no significant effect on the pharmacokinetics of lamotrigine.
+Zonisamide: In a study in 18 patients with epilepsy, coadministration of zonisamide (200 to 400 mg/day) with lamotrigine (150 to 500 mg/day for 35 days) had no significant effect on the pharmacokinetics of lamotrigine.
 
 Known Inducers or Inhibitors of Glucuronidation: Drugs other than those listed above have not been systematically evaluated in combination with lamotrigine.
 Since lamotrigine is metabolized predominately by glucuronic acid conjugation, drugs that are known to induce or inhibit glucuronidation may affect the apparent clearance of lamotrigine, and doses of LAMICTAL XR may require adjustment based on clinical response.
@@ -245,11 +245,11 @@ Other: Results of in vitro experiments suggest that clearance of lamotrigine is 
 
 Results of in vitro experiments suggest that lamotrigine does not reduce the clearance of drugs eliminated predominantly by CYP2D6.
 
-Special Populations: Patients With Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min, range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100 mg dose of immediate-release lamotrigine.
+Special Populations: Patients with Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min, range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100-mg dose of immediate-release lamotrigine.
 The mean plasma half-lives determined in the study were 42.9 hours (chronic renal failure), 13.0 hours (during hemodialysis), and 57.4 hours (between hemodialysis) compared with 26.2 hours in healthy volunteers.
 On average, approximately 20% (range: 5.6 to 35.1) of the amount of lamotrigine present in the body was eliminated by hemodialysis during a 4-hour session [see Dosage and Administration (2.1)].
 
-Hepatic Disease: The pharmacokinetics of lamotrigine following a single 100-mg dose of immediate-release lamotrigine were evaluated in 24 subjects with mild, moderate, and severe hepatic impairment (Child-Pugh Classification system) and compared with 12 subjects without hepatic impairment.
+Hepatic Disease: The pharmacokinetics of lamotrigine following a single 100-mg dose of immediate-release lamotrigine were evaluated in 24 subjects with mild, moderate, and severe hepatic impairment (Child-Pugh classification system) and compared with 12 subjects without hepatic impairment.
 The patients with severe hepatic impairment were without ascites (n = 2) or with ascites (n = 5).
 The mean apparent clearances of lamotrigine in patients with mild (n = 12), moderate (n = 5), severe without ascites (n = 2), and severe with ascites (n = 5) liver impairment were 0.30 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
 Mean half-lives of lamotrigine in patients with mild, moderate, severe without ascites, and severe with ascites hepatic impairment were 46 ± 20, 72 ± 44, 67 ± 11, and 100 ± 48 hours, respectively, as compared with 33 ± 7 hours in healthy controls [see Dosage and Administration (2.1)].
@@ -258,8 +258,8 @@ Elderly: The pharmacokinetics of lamotrigine following a single 150-mg dose of i
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).
 
 Gender: The clearance of lamotrigine is not affected by gender.
-However, during dose escalation of immediate-release lamotrigine in one clinical trial in patients with epilepsy on a stable dose of valproate (n = 77), mean trough lamotrigine concentrations, unadjusted for weight, were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
+However, during dose escalation of immediate-release lamotrigine in 1 clinical trial in patients with epilepsy on a stable dose of valproate (n = 77), mean trough lamotrigine concentrations, unadjusted for weight, were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
 
 Race: The apparent oral clearance of lamotrigine was 25% lower in non-Caucasians than Caucasians.
 
-Pediatric Patients: Safety and effectiveness of LAMICTAL XR for use in patients less than 13 years of age have not been established.
+Pediatric Patients: Safety and effectiveness of LAMICTAL XR for use in patients younger than 13 years have not been established.

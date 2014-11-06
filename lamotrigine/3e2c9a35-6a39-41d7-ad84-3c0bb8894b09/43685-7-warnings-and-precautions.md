@@ -7,14 +7,14 @@ However, the relatively limited treatment experience with LAMICTAL XR makes it d
 
 Pediatric Population: The incidence of serious rash associated with hospitalization and discontinuation of immediate-release lamotrigine in a prospectively followed cohort of pediatric patients (aged 2 to 16 years) with epilepsy receiving adjunctive therapy with immediate-release lamotrigine was approximately 0.8% (16 of 1,983).
 When 14 of these cases were reviewed by 3 expert dermatologists, there was considerable disagreement as to their proper classification.
-To illustrate, one dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
+To illustrate, 1 dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
 There was 1 rash-related death in this 1,983-patient cohort.
 Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in US and foreign postmarketing experience.
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients.
 In pediatric patients who used valproate concomitantly, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
 
-LAMICTAL XR is not approved in patients less than 13 years of age.
+LAMICTAL XR is not approved in patients younger than 13 years.
 
 Adult Population: Serious rash associated with hospitalization and discontinuation of immediate-release lamotrigine occurred in 0.3% (11 of 3,348) of adult patients who received immediate-release lamotrigine in premarketing clinical trials of epilepsy.
 In worldwide postmarketing experience, rare cases of rash-related death have been reported, but their numbers are too few to permit a precise estimate of the rate.
@@ -24,11 +24,11 @@ Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered immediate-release lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered immediate-release lamotrigine in the absence of valproate were hospitalized.
 
-Patients With History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for LAMICTAL XR is exceeded and in patients with a history of allergy or rash to other AEDs.
+Patients with History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation of LAMICTAL XR is exceeded and in patients with a history of allergy or rash to other AEDs.
 
 ## 5.2 Multiorgan Hypersensitivity Reactions and Organ Failure
 
-Multiorgan hypersensitivity reactions, also known as Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have occurred with LAMICTAL.
+Multiorgan hypersensitivity reactions, also known as drug reaction with eosinophilia and systemic symptoms (DRESS), have occurred with LAMICTAL.
 Some have been fatal or life threatening.
 DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
 Eosinophilia is often present.
@@ -43,7 +43,7 @@ It is important to note that early manifestations of hypersensitivity (e.g., fev
 If such signs or symptoms are present, the patient should be evaluated immediately.
 LAMICTAL XR should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
-Prior to initiation of treatment with LAMICTAL XR, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
+Prior to initiation of treatment with LAMICTAL XR, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a healthcare provider immediately.
 
 ## 5.3 Blood Dyscrasias
 
@@ -55,8 +55,8 @@ These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytope
 AEDs, including LAMICTAL XR, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
-In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately 1 case of suicidal thinking or behavior for every 530 patients treated.
+Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared with patients randomized to placebo.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared with 0.24% among 16,029 placebo-treated patients, representing an increase of approximately 1 case of suicidal thinking or behavior for every 530 patients treated.
 There were 4 suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on suicide.
 
 The increased risk of suicidal thoughts or behavior with AEDs was observed as early as 1 week after starting treatment with AEDs and persisted for the duration of treatment assessed.
@@ -71,7 +71,7 @@ Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 Table 3.
 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients With Events per 1,000 Patients | Drug Patients With Events per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients With Events per 1,000 Patients |
+| Indication | Placebo Patients with Events per 1,000 Patients | Drug Patients with Events per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1,000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -84,7 +84,7 @@ Anyone considering prescribing LAMICTAL XR or any other AED must balance the ris
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression; any unusual changes in mood or behavior; or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, the emergence of suicidal thoughts or behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.5 Aseptic Meningitis
@@ -118,7 +118,7 @@ The label on the bottle includes a depiction of the tablets that further communi
 The unit-of-use bottle with a distinctive orange cap and distinctive bottle label features serves to identify the different presentations of the drug and thus may help to reduce the risk of medication errors.
 To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are LAMICTAL XR each time they fill their prescription.
 
-## 5.7 Concomitant Use With Oral Contraceptives
+## 5.7 Concomitant Use with Oral Contraceptives
 
 Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see Clinical Pharmacology (12.3)].
 Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking LAMICTAL XR [see Dosage and Administration (2.1)].
@@ -137,19 +137,19 @@ Valid estimates of the incidence of treatment-emergent status epilepticus among 
 At a minimum, 7 of 2,343 adult patients had episodes that could unequivocally be described as status epilepticus.
 In addition, a number of reports of variably defined episodes of seizure exacerbation (e.g., seizure clusters, seizure flurries) were made.
 
-## 5.10 Sudden Unexplained Death in Epilepsy
+## 5.10 Sudden Unexplained Death in Epilepsy (SUDEP)
 
 During the premarketing development of immediate-release lamotrigine, 20 sudden and unexplained deaths were recorded among a cohort of 4,700 patients with epilepsy (5,747 patient-years of exposure).
 
 Some of these could represent seizure-related deaths in which the seizure was not observed, e.g., at night.
 This represents an incidence of 0.0035 deaths per patient-year.
-Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained death in patients with epilepsy not receiving lamotrigine (ranging from 0.0005 for the general population of patients with epilepsy, to 0.004 for a recently studied clinical trial population similar to that in the clinical development program for immediate-release lamotrigine, to 0.005 for patients with refractory epilepsy).
-Consequently, whether these figures are reassuring or suggest concern depends on the comparability of the populations reported upon to the cohort receiving immediate-release lamotrigine and the accuracy of the estimates provided.
-Probably most reassuring is the similarity of estimated sudden unexplained death in epilepsy (SUDEP) rates in patients receiving immediate-release lamotrigine and those receiving other AEDs, chemically unrelated to each other, that underwent clinical testing in similar populations.
+Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained death in epilepsy (SUDEP) in patients not receiving lamotrigine (ranging from 0.0005 for the general population of patients with epilepsy, to 0.004 for a recently studied clinical trial population similar to that in the clinical development program for immediate-release lamotrigine, to 0.005 for patients with refractory epilepsy).
+Consequently, whether these figures are reassuring or suggest concern depends on the comparability of the populations reported upon with the cohort receiving immediate-release lamotrigine and the accuracy of the estimates provided.
+Probably most reassuring is the similarity of estimated SUDEP rates in patients receiving immediate-release lamotrigine and those receiving other AEDs, chemically unrelated to each other, that underwent clinical testing in similar populations.
 Importantly, that drug is chemically unrelated to lamotrigine.
 This evidence suggests, although it certainly does not prove, that the high SUDEP rates reflect population rates, not a drug effect.
 
-## 5.11 Addition of LAMICTAL XR to a Multidrug Regimen That Includes Valproate
+## 5.11 Addition of LAMICTAL XR to a Multidrug Regimen that Includes Valproate
 
 Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence [see Dosage and Administration (2.1, 2.2), Drug Interactions (7)].
 
@@ -158,7 +158,7 @@ Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigin
 Because lamotrigine binds to melanin, it could accumulate in melanin-rich tissues over time.
 This raises the possibility that lamotrigine may cause toxicity in these tissues after extended use.
 Although ophthalmological testing was performed in 1 controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long-term exposure.
-Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine binding to melanin is unknown [see Clinical Pharmacology (12.2)].
+Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine’s binding to melanin is unknown [see Clinical Pharmacology (12.2)].
 
 Accordingly, although there are no specific recommendations for periodic ophthalmological monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects.
 

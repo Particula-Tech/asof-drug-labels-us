@@ -22,14 +22,16 @@ The risk of getting a rash is higher if you:
 
 - •take LAMICTAL XR while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)].
 - •take a higher starting dose of LAMICTAL XR than your healthcare provider prescribed.
-- •increase your dose of LAMICTAL XR faster than prescribed.LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like the liver or blood cells.
+- •increase your dose of LAMICTAL XR faster than prescribed.
+
+- LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like the liver or blood cells.
   You may or may not have a rash with these types of reactions.
 
 Call your healthcare provider right away if you have any of the following:
 
 - •a skin rash
 - •hives
-  - ∘fever
+- •fever
 - •swollen lymph glands
 - •painful sores in the mouth or around your eyes
 - •swelling of your lips or tongue
@@ -226,14 +228,14 @@ What are the ingredients in LAMICTAL XR?
 
 Active ingredient: Lamotrigine.
 
-Inactive ingredients: glycerol monostearate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, polysorbate 80, silicon dioxide (25- and 50-mg tablets only), titanium dioxide, triethyl citrate, carmine (250 mg tablet only), iron oxide black (50-, 250-, and 300-mg tablets only), iron oxide yellow (25-, 50-, and 100-mg tablets only), iron oxide red (100 mg tablet only), FD&C Blue No. 2 Aluminum Lake (200- and 250-mg tablets only).
+Inactive ingredients: glycerol monostearate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, polysorbate 80, silicon dioxide (25- and 50-mg tablets only), titanium dioxide, triethyl citrate, carmine (250 mg tablet only), iron oxide black (50-, 250-, and 300-mg tablets only), iron oxide yellow (25-, 50-, 100-mg tablets only), iron oxide red (100 mg tablet only), FD&C Blue No. 2 Aluminum Lake (200- and 250-mg tablets only).
 Tablets are printed with edible black ink.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 LAMICTAL XR is a trademark of the GSK group of companies.
-
-DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
+The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
@@ -242,6 +244,6 @@ Research Triangle Park, NC 27709
 ©2014, the GSK group of companies.
 All rights reserved.
 
-June 2014
+October 2014
 
-LXR:12MG
+LXR:13MG

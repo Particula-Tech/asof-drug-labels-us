@@ -47,12 +47,12 @@ Caution should be exercised when LAMICTAL XR is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-LAMICTAL XR is indicated as adjunctive therapy for PGTC and partial onset seizures with or without secondary generalization in patients ≥13 years of age.
-Safety and effectiveness of LAMICTAL XR for any use in patients less than 13 years of age have not been established.
+LAMICTAL XR is indicated as adjunctive therapy for PGTC and partial-onset seizures with or without secondary generalization in patients aged 13 years and older.
+Safety and effectiveness of LAMICTAL XR for any use in patients younger than 13 years have not been established.
 
-Immediate-release lamotrigine is indicated for adjunctive therapy in patients ≥2 years of age for partial seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
+Immediate-release lamotrigine is indicated as adjunctive therapy in patients aged 2 years and older for partial seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
 
-Safety and efficacy of immediate-release lamotrigine, used as adjunctive treatment for partial seizures, were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal study in very young pediatric patients (aged 1 to 24 months).
+Safety and efficacy of immediate-release lamotrigine used as adjunctive treatment for partial seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal study in very young pediatric patients (aged 1 to 24 months).
 Immediate-release lamotrigine was associated with an increased risk for infectious adverse reactions (lamotrigine 37%, placebo 5%), and respiratory adverse reactions (lamotrigine 26%, placebo 5%).
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
@@ -62,10 +62,10 @@ The no-effect dose for adverse effects on neurobehavioral development is less th
 
 ## 8.5 Geriatric Use
 
-Clinical studies of LAMICTAL XR for epilepsy did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects or exhibit a different safety profile than that of younger patients.
+Clinical studies of LAMICTAL XR for epilepsy did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently from younger subjects or exhibit a different safety profile than that of younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
-## 8.6 Patients With Hepatic Impairment
+## 8.6 Patients with Hepatic Impairment
 
 Experience in patients with hepatic impairment is limited.
 Based on a clinical pharmacology study with immediate-release lamotrigine in 24 patients with mild, moderate, and severe liver impairment [see Clinical Pharmacology (12.3)], the following general recommendations can be made.
@@ -73,7 +73,7 @@ No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response [see Dosage and Administration (2.1)].
 
-## 8.7 Patients With Renal Impairment
+## 8.7 Patients with Renal Impairment
 
 Lamotrigine is metabolized mainly by glucuronic acid conjugation, with the majority of the metabolites being recovered in the urine.
 In a small study comparing a single dose of immediate-release lamotrigine in patients with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was approximately twice as long in the patients with significant renal impairment [see Clinical Pharmacology (12.3)].
