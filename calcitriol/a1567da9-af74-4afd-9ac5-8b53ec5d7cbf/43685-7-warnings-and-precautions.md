@@ -12,7 +12,7 @@ Increased absorption may occur with occlusive use.
 ## 5.2 Ultraviolet Light Exposure
 
 Animal data suggest that the vehicle of VECTICAL Ointment may enhance the ability of ultraviolet radiation (UVR) to induce skin tumors.
-Carcinogenesis, Mutagenesis, Impairment of Fertility (13.1)
+[see Carcinogenesis, Mutagenesis, Impairment of Fertility (13.1)]
 
 Subjects who apply VECTICAL Ointment to exposed skin should avoid excessive exposure of the treated areas to either natural or artificial sunlight, including tanning booths and sun lamps.
 Physicians may wish to limit or avoid use of phototherapy in patients who use VECTICAL Ointment.
