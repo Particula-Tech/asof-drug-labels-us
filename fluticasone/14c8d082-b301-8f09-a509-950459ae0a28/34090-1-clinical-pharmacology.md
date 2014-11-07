@@ -15,7 +15,8 @@ Pharmacokinetics: Absorption: The activity of Fluticasone Propionate Cream is du
 The extent of percutaneous absorption of topical corticosteroids is determined by many factors, including the vehicle and the integrity of the epidermal barrier.
 Occlusive dressing enhances penetration.
 Topical corticosteroids can be absorbed from normal intact skin.
-Inflammation and/or other disease processes in the skin increase percutaneous absorption.In a human study of 12 healthy males receiving 12.5 g of 0.05% fluticasone propionate cream twice daily for 3 weeks, plasma levels were generally below the level of quantification (0.05 ng/mL).
+Inflammation and/or other disease processes in the skin increase percutaneous absorption.
+In a human study of 12 healthy males receiving 12.5 g of 0.05% fluticasone propionate cream twice daily for 3 weeks, plasma levels were generally below the level of quantification (0.05 ng/mL).
 In another study of 6 healthy males administered 25 g of 0.05% fluticasone propionate cream under occlusion for 5 days, plasma levels of fluticasone ranged from 0.07 to 0.39 ng/mL.
 In an animal study using radiolabeled 0.05% fluticasone propionate cream and ointment preparations, rats received a topical dose of 1 g/kg for a 24-hour period.
 Total recovery of radioactivity was approximately 80% at the end of 7 days.

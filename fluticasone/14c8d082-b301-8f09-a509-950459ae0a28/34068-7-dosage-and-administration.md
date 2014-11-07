@@ -1,4 +1,4 @@
-# DOSAGE & ADMINISTRATION
+# DOSAGE AND ADMINISTRATION
 
 Fluticasone Propionate Cream may be used in adult and pediatric patients 3 months of age or older.
 Safety and efficacy of Fluticasone Propionate Cream in pediatric patients for more than 4 weeks of use have not been established (see PRECAUTIONS: Pediatric Use).

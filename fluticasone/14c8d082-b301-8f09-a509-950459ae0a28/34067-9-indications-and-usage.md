@@ -1,4 +1,4 @@
-# INDICATIONS & USAGE
+# INDICATIONS AND USAGE
 
 Fluticasone Propionate Cream is a medium potency corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
 Fluticasone Propionate Cream may be used with caution in pediatric patients 3 months of age or older.

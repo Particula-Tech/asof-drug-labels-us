@@ -13,40 +13,7 @@ In 2 of 43 (4.7%) patients with end-treatment results, peak cortisol levels foll
 Follow-up testing after treatment discontinuation, available for 1 of the 2 subjects, demonstrated a normally responsive HPA axis.
 Local drug-related adverse events were transient burning, resolving the same day it was reported; transient urticaria, resolving the same day it was reported; erythematous rash; dusky erythema, resolving within 1 month after cessation of Fluticasone Propionate Cream; and telangiectasia, resolving within 3 months after stopping Fluticasone Propionate Cream.
 
-Table 1: Drug-Related Adverse Events - Skin
-
-| Adverse Event | Fluticasone Once Daily (n = 210) | Fluticasone Twice Daily (n = 203) | Vehicle Twice Daily (n = 78) |
-| --- | --- | --- | --- |
-| Skin Infection | 1 (0.5%) | 0 | 0 |
-| Infected eczema | 1 (0.5%) | 2 (1.0%) | 0 |
-| Viral warts | 0 | 1 (0.5%) | 0 |
-| Herpes simplex | 0 | 1 (0.5%) | 0 |
-| Impetigo | 1 (0.5%) | 0 | 0 |
-| Atopic dermatitis | 1 (0.5%) | 0 | 0 |
-| Eczema | 1 (0.5%) | 0 | 0 |
-| Exacerbation of eczema | 4 (1.9%) | 1 (0.5%) | 1 (1.3%) |
-| Erythema | 0 | 2 (1.0%) | 0 |
-| Burning | 2 (1.0%) | 2 (1.0%) | 2 (2.6%) |
-| Stinging | 0 | 2 (1.0%) | 1 (1.3%) |
-| Skin irritation | 6 (2.9%) | 2 (1.0%) | 0 |
-| Pruritis | 2 (1.0%) | 4 (1.9%) | 4 (5.1%) |
-| Exacerbation of pruritis | 4 (1.9%) | 1 (0.5%) | 1 (1.3%) |
-| Folliculitis | 1 (0.5%) | 1 (0.5%) | 0 |
-| Blisters | 0 | 1 (0.5%) | 0 |
-| Dryness of skin | 3 (1.4%) | 1 (0.5%) | 0 |
-
-Table 2: Adverse Events* From Pediatric Open-Label Trial (n = 51)
-
-| Adverse Events | Fluticasone Twice Daily |
-| --- | --- |
-| Burning | 1 (2.0%) |
-| Dusky erythema | 1 (2.0%) |
-| Erythematous rash | 1 (2.0%) |
-| Facial teleangiectasia† | 2 (4.9%) |
-| Non-facial teleangiectasia | 1 (2.0%) |
-| Urticaria | 1 (2.0%) |
-| * See text for additional detail.† n = 41 |  |
-
 The following local adverse reactions have been reported infrequently with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids.
 These reactions are listed in an approximately decreasing order of occurrence: irritation, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria.
 Also, there are reports of the development of pustular psoriasis from chronic plaque psoriasis following reduction or discontinuation of potent topical corticosteroid products.
+To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
