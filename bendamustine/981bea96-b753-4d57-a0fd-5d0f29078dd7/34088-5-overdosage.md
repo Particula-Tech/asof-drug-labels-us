@@ -1,0 +1,12 @@
+# 10 OVERDOSAGE
+
+The intravenous LD50 of bendamustine HCl is 240 mg/m2 in the mouse and rat.
+Toxicities included sedation, tremor, ataxia, convulsions and respiratory distress.
+
+Across all clinical experience, the reported maximum single dose received was 280 mg/m2.
+Three of four patients treated at this dose showed ECG changes considered dose-limiting at 7 and 21 days post-dosing.
+These changes included QT prolongation (one patient), sinus tachycardia (one patient), ST and T wave deviations (two patients) and left anterior fascicular block (one patient).
+Cardiac enzymes and ejection fractions remained normal in all patients.
+
+No specific antidote for TREANDA overdose is known.
+Management of overdosage should include general supportive measures, including monitoring of hematologic parameters and ECGs.

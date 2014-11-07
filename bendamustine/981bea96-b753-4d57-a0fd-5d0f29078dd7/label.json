@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022249"
+  ],
+  "inn": "bendamustine",
+  "labeler": "Cephalon, Inc.",
+  "package_ndcs": [
+    "63459-395-02",
+    "63459-396-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "bendamustine hydrochloride",
+      "name": "TREANDA"
+    }
+  ],
+  "setid": "981bea96-b753-4d57-a0fd-5d0f29078dd7",
+  "source": "dailymed"
+}
