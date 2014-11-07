@@ -1,3 +1,15 @@
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 100 mL Bag Label
+
+NDC 63323-285-61
+
+278561
+
+Naropin® (ropivacaine HCl Injection, USP)
+
+0.2% 200 mg/100 mL (2 mg/mL)
+
+For Infiltration and Epidural Administration Only.
+
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 30 mL Single Dose Vial Label
 
 NDC 63323-286-35
