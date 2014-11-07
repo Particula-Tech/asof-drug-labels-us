@@ -8,7 +8,7 @@ What is the most important information I should know about Edluar?
 
 - Do not take more Edluar than prescribed.
 - Do not take Edluar unless you are able to stay in bed a full night (7 to 8 hours) before you must be active again.
-- Take Edluar right before you get in bed, not sooner.
+- Take Edluar right before you get in bed, not sooner
 
 Edluar may cause serious side effects, including:
 
@@ -89,6 +89,7 @@ How should I take Edluar?
 - Do not use the tablet if the seal on the childproof blister pack is broken, or if the blister holding the tablet is broken.
 - To open the blister pack, separate the individual blisters at the perforations.
   Peel off the top layer of paper, and push the tablet through the foil.
+  Alternatively, use scissors to open the blister.
 - Place the tablet under the tongue, where it will disintegrate.
   Do not swallow or take with water.
 - Call your healthcare provider if your insomnia worsens or is not better within 7 to 10 days.
@@ -105,12 +106,9 @@ Edluar may cause serious side effects, including:
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, suicidal thoughts or actions.
 - memory loss
 - anxiety
-
-severe allergic reactions.
-
-- Symptoms include swelling of the tongue or throat, trouble breathing.
-
-Get emergency medical help if you get these symptoms after taking Edluar.
+- severe allergic reactions.
+  Symptoms include swelling of the tongue or throat, trouble breathing.
+  Get emergency medical help if you get these symptoms after taking Edluar.
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using Edluar.
 
@@ -163,7 +161,7 @@ This Medication Guide summarizes the most important information about Edluar.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about Edluar that is written for healthcare professionals.
 
-For more information about Edluar, go to www.meda.us or call Meda Pharmaceuticals Inc. at 1-800-526-3840.
+For more information about Edluar, go to www.meda.us or call Meda Pharmaceuticals Inc. at 1-866-444-7799
 
 What are the ingredients in Edluar?
 
@@ -177,10 +175,10 @@ Manufactured by: Recipharm Stockholm AB, Sweden for Meda Pharmaceuticals Inc.
 
 Distributed by: Meda Pharmaceuticals Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-©2013 Meda Pharmaceuticals Inc. U.S. Patent 6,761,910
+©2014 Meda Pharmaceuticals Inc. U.S. Patents 6,761,910; 8,512,747;
 
 MEDA PHARMACEUTICALS is a registered trademark of Meda AB.
-EDLUAR is a trademark of Meda Pharmaceuticals Inc.
+EDLUAR is a registered trademark of Meda Pharmaceuticals Inc.
 
-IG-6010-04 Rev.
-4/2013
+IG-6010-05 Rev.
+10/2014

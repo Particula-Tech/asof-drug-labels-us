@@ -53,7 +53,7 @@ Intentional overdosage is more common in this group of patients; therefore, the 
 
 ## 5.6 Respiratory Depression
 
-Although studies with 10 mg zolpidem tartrate did not reveal respiratory depressant effects at hypnotic doses in healthy subjects or in patients with mild-to-moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index, together with a reduction in lowest oxygen saturation and increase in the time of oxygen desaturation below 80% and 90% was observed in patients with mild-to-moderate sleep apnea when treated with zolpidem compared to placebo.
+Although studies with 10 mg zolpidem tartrate did not reveal respiratory depressant effects at hypnotic doses in healthy subjects or in patients with mild-to-moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index, together with a reduction in lowest oxygen saturation and increase in the time of oxygen desaturation below 80% and 90%, was observed in patients with mild-to-moderate sleep apnea when treated with zolpidem compared to placebo.
 Since sedative-hypnotics have the capacity to depress respiratory drive, precautions should be taken if Edluar is prescribed to patients with compromised respiratory function.
 Post-marketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
 The risks of respiratory depression should be considered prior to prescribing Edluar in patients with respiratory impairment including sleep apnea and myasthenia gravis.

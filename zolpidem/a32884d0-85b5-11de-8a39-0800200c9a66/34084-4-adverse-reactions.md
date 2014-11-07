@@ -2,10 +2,10 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- CNS-depressant effects and next-day impairment [see Warning and Precautions (5.1)]
+- CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
 - Serious anaphylactic and anaphylactoid reactions [see Warning and Precautions (5.3)]
 - Abnormal thinking and behavior changes, and complex behaviors [see Warning and Precautions (5.4)]
-- Withdrawal effects [see Warnings and Precautions (5.7)]
+- Withdrawal effects [see Warning and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
