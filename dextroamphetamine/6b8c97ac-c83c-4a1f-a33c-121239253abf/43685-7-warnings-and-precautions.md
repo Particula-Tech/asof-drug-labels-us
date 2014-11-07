@@ -2,7 +2,7 @@
 
 ## Serious Cardiovascular Events
 
-### Sudden Death in Patients with Pre-existing Structural Cardiac Abnormalities or Other Serious Heart Problems.
+### Sudden Death in Patients with Pre-existing Structural Cardiac Abnormalities or Other Serious Heart Problems
 
 #### Children and Adolescents
 
@@ -19,7 +19,7 @@ Adults with such abnormalities should also generally not be treated with stimula
 
 Stimulant medications cause a modest increase in average blood pressure (about 2 to 4 mmHg) and average heart rate (about 3 to 6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with preexisting hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia (see CONTRAINDICATIONS).
+Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia (see CONTRAINDICATIONS).
 
 ### Assessing Cardiovascular Status in Patients Being Treated with Stimulant Medications
 
@@ -59,6 +59,15 @@ Therefore, growth should be monitored during treatment with stimulants, and pati
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in absence of seizures, and, very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, the drug should be discontinued.
 
+## Peripheral Vasculopathy, Including Raynaud's Phenomenon
+
+Stimulants, including dextroamphetamine sulfate tablets, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
+Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulcerations and/or soft tissue breakdown.
+Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
+Careful observation for digital changes is necessary during treatment with ADHD stimulants.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
 ## Visual Disturbance
 
 Difficulties with accommodation and blurring of vision have been reported with stimulant treatment.
@@ -72,9 +81,19 @@ The least amount feasible should be prescribed or dispensed at one time in order
 ## Information for Patients
 
 Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles; the patient should therefore be cautioned accordingly.
-The prescribers or other health professionals should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with dextroamphetamine and should counsel them in its appropriate use.
+A patient Medication Guide is available for dextroamphetamine.
+The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
+
+### Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]
+
+- Instruct patients beginning treatment with dextroamphetamine sulfate tablets about the risk of peripheral vasculopathy, including Raynaud's Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
+- Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dextroamphetamine sulfate tablets.
+- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 ## Drug Interactions
 
@@ -158,9 +177,9 @@ Amphetamines inhibit the hypotensive effect of veratrum alkaloids.
 
 ## Drug/Laboratory Test Interactions
 
-Amphetamines can cause a significant elevation in plasma corticosteroid levels.
-This increase is greatest in the evening.
-Amphetamines may interfere with urinary steroid determinations.
+- Amphetamines can cause a significant elevation in plasma corticosteroid levels.
+  This increase is greatest in the evening.
+- Amphetamines may interfere with urinary steroid determinations.
 
 ## Carcinogenesis/Mutagenesis
 
@@ -175,7 +194,6 @@ Mutagenicity studies and long-term studies in animals to determine the carcinoge
 Dextroamphetamine has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
 Embryotoxic effects were not seen in New Zealand white rabbits given the drug in doses 7 times the human dose nor in rats given 12.5 times the maximum human dose.
 While there are no adequate and well-controlled studies in pregnant women, there has been one report of severe congenital bony deformity, tracheoesophageal fistula, and anal atresia (Vater association) in a baby born to a woman who took dextroamphetamine sulfate with lovastatin during the first trimester of pregnancy.
-
 Dextroamphetamine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ### Nonteratogenic Effects
@@ -191,6 +209,7 @@ Mothers taking amphetamines should be advised to refrain from nursing.
 ## Pediatric Use
 
 Long-term effects of amphetamines in pediatric patients have not been well established.
+
 Amphetamines are not recommended for use in pediatric patients under 3 years of age with Attention Deficit Disorder with Hyperactivity described under INDICATIONS AND USAGE.
 
 Clinical experience suggests that in psychotic pediatric patients, administration of amphetamines may exacerbate symptoms of behavior disturbance and thought disorder.

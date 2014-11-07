@@ -1,1 +1,5 @@
-Manufactured by: Mikart Inc. Atlanta, GA 30318
+DEA Order Form Required.
+
+Pharmacist: Medication Guide to be dispensed to Patients.
+
+Manufactured for: Wilshire Pharmaceuticals, Inc. Atlanta, GA 30328
