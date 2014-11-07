@@ -47,36 +47,44 @@
 |  | DO NOT MASSAGE THE INJECTION SITE. |  |  |  |  |  |  |  |  |
 | 4.8 | Engage the needle safety device. |  |  |  |  |  |  |  |  |
 | 4.9 | Dispose of the vials, needles, and syringe appropriately after injection. The vial is for single-use only. |  |  |  |  |  |  |  |  |
-| JELCO™ HYPODERMIC NEEDLE-PRO® SYRINGE AND NEEDLE with NEEDLE PROTECTION DEVICE |  |  |  |  |  |  |  |  |  |
-| 1. | DESCRIPTION |  |  |  |  |  |  |  |  |
-|  | The Hypodermic Needle-Pro Syringe and Needle is a sterile, latex-free, single-use device. It includes a needle, needle safety sheath, and syringe. The Needle-Pro device can be used with a Luer slip or Luer lock syringe. |  |  |  |  |  |  |  |  |
-| 2. | INDICATIONS FOR USE |  |  |  |  |  |  |  |  |
+| JELCO® |  |  |  |  |  |  |  |  |  |
+| Hypodermic Needle-Pro® Needle |  |  |  |  |  |  |  |  |  |
+| With Needle Protection Device |  |  |  |  |  |  |  |  |  |
+| 1. | DESCRIPTION: |  |  |  |  |  |  |  |  |
+|  | The Jelco® Hypodermic Needle-Pro® device is a sterile, single use device. It includes a needle and needle safety sheath. The Needle-Pro® device can be used with a Luer slip or Luer lock syringe. |  |  |  |  |  |  |  |  |
+| 2. | INDICATIONS FOR USE: |  |  |  |  |  |  |  |  |
 |  | This device is intended for injection or aspiration of fluids. The needle protection device covers the needle after use to help prevent needle sticks. |  |  |  |  |  |  |  |  |
-| 3. | CONTRAINDICATIONS |  |  |  |  |  |  |  |  |
+| 3. | CONTRAINDICATIONS: |  |  |  |  |  |  |  |  |
 |  | None known. |  |  |  |  |  |  |  |  |
-| 4. | WARNINGS |  |  |  |  |  |  |  |  |
+| 4. | WARNINGS: |  |  |  |  |  |  |  |  |
 | 4.1 | A needle stick with a contaminated needle may cause infectious diseases. |  |  |  |  |  |  |  |  |
-| 4.2 | Intentional disengagement of the Needle-Pro device may result in a needle stick with a contaminated needle. |  |  |  |  |  |  |  |  |
-| 4.3 | Bent or damaged needles can result in breakage or damage to the tissue or accidental needle puncture. If the needle is bent or damaged, no attempt should be made to straighten the needle or engage the Needle-Pro device. The Needle-Pro device may not properly contain a bent needle and/or the needle could puncture the needle protection device, which may result in a needle stick with a contaminated needle. |  |  |  |  |  |  |  |  |
-| 4.4 | Mishandling of the needle protection device may cause needles, especially short or small gauge needles, to bend whereby they protrude from the needle protector sheath, which may result in a contaminated needle stick. |  |  |  |  |  |  |  |  |
-| 4.5 | Do not use with paraldehyde. |  |  |  |  |  |  |  |  |
-| 5. | INSTRUCTIONS FOR USE |  |  |  |  |  |  |  |  |
-| 5.1 | Peel blister and remove device. |  |  |  |  |  |  |  |  |
-| 5.2 | Insure needle is firmly seated on the Needle-Pro device with a push and a clockwise twist, then pull the needle cap straight away from the needle. |  |  |  |  |  |  |  |  |
-| 5.3 | After procedure is completed, press the needle into the sheath using a one-handed technique. Perform a one-handed technique by GENTLY pressing the sheath against a flat surface. AS THE SHEATH IS PRESSED, THE NEEDLE IS FIRMLY ENGAGED INTO THE SHEATH (see Figures 1, 2, and 3). |  |  |  |  |  |  |  |  |
-| 5.4 | Visually confirm that the needle is fully engaged into the needle protection sheath. |  |  |  |  |  |  |  |  |
-| 5.5 | Only remove the Needle-Pro device with engaged needle from the syringe when required by a specific medical procedure. |  |  |  |  |  |  |  |  |
-|  | Remove by grasping the Luer hub of the needle protection device with thumb and forefinger, keeping the free fingers clear of the end of the device containing the needle point. |  |  |  |  |  |  |  |  |
-| 5.6 | After use, place sharps in a suitable sharps container. Dispose of contaminated product in a safe manner according to Centers for Disease Control and Prevention, USA and federal/state/local regulations (EPA, OSHA), and healthcare facility guidelines or local equivalent. |  |  |  |  |  |  |  |  |
-| NON-PYROGENIC |  |  |  |  |  |  |  |  |  |
-|  | CAUTION: Follow standard infection control procedures as specified by the Centers for Disease Control and Prevention (USA) or local equivalent. |  |  |  |  |  |  |  |  |
-| Zyprexa® Relprevv™ is a registered trademark of Eli Lilly and Company. |  |  |  |  |  |  |  |  |  |
-| © 2009, Eli Lilly and Company. All rights reserved. |  |  |  |  |  |  |  |  |  |
-| Literature issued: December 11, 2009 |  |  |  |  |  |  |  |  |  |
-| The Smiths Medical, Jelco design mark; Needle-Pro; Portex; and the color orange applied to the needle protection device are trademarks of the Smiths Medical family of companies. The symbol ® indicates the trademark is registered in the U.S. Patent and Trademark Office and certain other countries. |  |  |  |  |  |  |  |  |  |
-| The products described are covered by one or more of the following: U.S. Patent No. 4,982,842; its counterpart foreign patent(s); and other U.S. and/or foreign pending patents. |  |  |  |  |  |  |  |  |  |
-| © 2008 Smiths Medical family of companies. All rights reserved. |  |  |  |  |  |  |  |  |  |
-| The JELCO™ Hypodermic Needle-Pro® is manufactured by Smiths Medical ASD, Inc., Keene, NH 03431 USA |  |  |  |  |  |  |  |  |  |
+| 4.2 | Intentional disengagement of the Needle-Pro® device may result in a needle stick with a contaminated needle. |  |  |  |  |  |  |  |  |
+| 4.3 | Bent or damaged needles can result in breakage or damage to the tissue or accidental needle puncture. If the needle is bent or damaged, no attempt should be made to straighten the needle or engage the Needle-Pro® device. The Needle-Pro® device may not properly contain a bent needle and/or the needle could puncture the needle protection device which may result in a needle stick with a contaminated needle. |  |  |  |  |  |  |  |  |
+| 4.4 | Mishandling of the needle protection device may cause needles, especially short or small gauge needles, to bend whereby they protrude from the needle protector sheath which may result in a contaminated needle stick. |  |  |  |  |  |  |  |  |
+| 4.5 | Do not use with Paraldehyde. |  |  |  |  |  |  |  |  |
+| 5. | CAUTION: |  |  |  |  |  |  |  |  |
+| 5.1 | Do Not Reuse: Medical devices require specific material characteristics to perform as intended. These characteristics have been verified for single use only. Any attempt to re-process the device for subsequent re-use may adversely affect the integrity of the device or lead to deterioration in performance. |  |  |  |  |  |  |  |  |
+| 5.2 | Follow standard infection control procedures as specified by the Centers for Disease Control and Prevention (USA) or local equivalent. |  |  |  |  |  |  |  |  |
+| 6. | INSTRUCTIONS FOR USE: |  |  |  |  |  |  |  |  |
+| 6.1 | Peel blister pouch and remove device. |  |  |  |  |  |  |  |  |
+| 6.2 | Attach a syringe (if not already attached) to the Luer connection of the Needle-Pro® device with an easy twisting motion. Seat the needle firmly on the Needle-Pro® device with a push and a clockwise twist, then pull the needle cap straight away from the needle. |  |  |  |  |  |  |  |  |
+| 6.3 | After procedure is completed, press the needle into the sheath using a one-handed technique. Perform a one-handed technique by gently pressing the sheath against a flat surface. As The Sheath Is Pressed (Fig. 1), The Needle Is Firmly Engaged Into The Sheath (Fig. 2). |  |  |  |  |  |  |  |  |
+| 6.4 | Visually confirm that the needle is fully engaged into the needle protection sheath. |  |  |  |  |  |  |  |  |
+| 6.5 | Only remove the Needle-Pro® device with engaged needle from the syringe when required by a specific medical procedure. Remove by grasping the Luer hub of the needle protection device with thumb and forefinger, keeping the free fingers clear of the end of the device containing the needle point. (See Fig. 3) |  |  |  |  |  |  |  |  |
+| 6.6 | After use, place sharps in a suitable sharps container. Dispose of contaminated product in a safe manner according to Centers for Disease Control and Prevention, USA and Federal/State/Local regulations (EPA, OSHA) and health care facility guidelines or local equivalent. |  |  |  |  |  |  |  |  |
+|  | NOTE: Additional dead space added by Needle-Pro® device averages 0.036ml. |  |  |  |  |  |  |  |  |
+| Caution • Do Not Reuse • Not made with natural rubber latex • Do not use if package is damaged • Sterilized using ethylene oxide • Non-pyrogenic fluid path • Caution: Federal (USA) law restricts this device to sale by or on the order of a physician • Catalogue Number • Batch Code • Date of Manufacture • Use by • Quantity |  |  |  |  |  |  |  |  |  |
+| The Smiths Medical and Jelco design marks; Needle-Pro; and the color orange applied to the needle protection device are trademarks of Smiths Medical. The symbol ® indicates the trademark is registered in the U.S. Patent and Trademark Office and certain other countries. |  |  |  |  |  |  |  |  |  |
+| © 2013 Smiths Medical. All rights reserved. |  |  |  |  |  |  |  |  |  |
+| Manufacturer: |  |  |  |  |  |  |  |  |  |
+| Smiths Medical ASD, Inc. |  |  |  |  |  |  |  |  |  |
+| 10 Bowman Drive, Keene, NH 03431 USA |  |  |  |  |  |  |  |  |  |
+| Tel: 1 800 258 5361 (US/CA) |  |  |  |  |  |  |  |  |  |
+| Tel: +1 614 210 7300 |  |  |  |  |  |  |  |  |  |
 | www.smiths-medical.com |  |  |  |  |  |  |  |  |  |
-| Smiths Medical International Ltd., Hythe, Kent, CT21 6JL, UK is the EU representative for the Hypodermic Needle-Pro® device. |  |  |  |  |  |  |  |  |  |
-| PV 6350 AMP |  |  |  |  |  |  |  |  |  |
+| CE |  |  |  |  |  |  |  |  |  |
+| 0473 |  |  |  |  |  |  |  |  |  |
+| Zyprexa® Relprevv™ is a registered trademark of Eli Lilly and Company. |  |  |  |  |  |  |  |  |  |
+| Copyright © 2009, 2014, Eli Lilly and Company. All rights reserved. |  |  |  |  |  |  |  |  |  |
+| Literature revised: October 30, 2014 |  |  |  |  |  |  |  |  |  |
+| ZYPR-0001-IFU-20141030 |  |  |  |  |  |  |  |  |  |
