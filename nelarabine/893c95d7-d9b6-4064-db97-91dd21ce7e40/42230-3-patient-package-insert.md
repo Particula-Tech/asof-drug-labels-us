@@ -75,9 +75,9 @@ ARRANON may also cause:
 - •decreased blood counts such as low red blood cells, low white blood cells, and low platelets.
   Blood tests should be done regularly to check blood counts.
   Call the doctor right away if you or your child:
-  - ∘is more tired than usual, pale, or has trouble breathing
-  - ∘has a fever or other signs of an infection
-  - ∘bruises easy or has any unusual bleeding
+  - •is more tired than usual, pale, or has trouble breathing
+  - •has a fever or other signs of an infection
+  - •bruises easy or has any unusual bleeding
 - •stomach area problems such as nausea, vomiting, diarrhea, and constipation
 - •headache
 - •sleepiness

@@ -61,7 +61,7 @@ No differences in safety or effectiveness were observed.
 
 Effect of Hepatic Impairment: The influence of hepatic impairment on the pharmacokinetics of nelarabine has not been evaluated [see Use in Specific Populations (8.7)].
 
-Drug Interactions:Cytochrome P450: Nelarabine and ara-G did not significantly inhibit the activities of the human hepatic cytochrome P450 isoenzymes 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4 in vitro at concentrations of nelarabine and ara-G up to 100 μM.
+Drug Interactions: Cytochrome P450: Nelarabine and ara-G did not significantly inhibit the activities of the human hepatic cytochrome P450 isoenzymes 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4 in vitro at concentrations of nelarabine and ara-G up to 100 μM.
 
 Fludarabine: Administration of fludarabine 30 mg/m2 as a 30-minute infusion 4 hours before a 1,200 mg/m2 infusion of nelarabine did not affect the pharmacokinetics of nelarabine, ara-G, or ara-GTP in 12 patients with refractory leukemia.
 
