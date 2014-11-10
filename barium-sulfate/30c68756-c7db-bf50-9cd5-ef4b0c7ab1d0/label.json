@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "barium-sulfate",
+  "labeler": "E-Z-EM Canada Inc",
+  "package_ndcs": [
+    "32909-814-53"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "barium sulfate",
+      "name": "Tagitol V"
+    }
+  ],
+  "setid": "30c68756-c7db-bf50-9cd5-ef4b0c7ab1d0",
+  "source": "dailymed"
+}
