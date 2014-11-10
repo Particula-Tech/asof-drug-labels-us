@@ -50,7 +50,7 @@ Rx only
 
 FOR DERMATOLOGIC USE ONLY.
 Not for ophthalmic use.
-WARNING:Keep out of the reach of children.
+WARNING: Keep out of the reach of children.
 
 NET WT.
 60 grams
