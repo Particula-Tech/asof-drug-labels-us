@@ -33,6 +33,9 @@ The variability in Cmax, Cmin, and AUC is similar between dexmethylphenidate hyd
 Radiolabeled racemic methylphenidate is well absorbed after oral administration with approximately 90% of the radioactivity recovered in urine.
 However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22 to 25%.
 
+Figure 1.
+Mean Dexmethylphenidate Plasma Concentration-Time Profiles After Administration of 1 x 20 mg Dexmethylphenidate Hydrochloride Extended-Release Capsules (n = 24) and 2 x 10 mg Dexmethylphenidate Hydrochloride Immediate-Release Tablets (n = 25)
+
 Dose Proportionality
 
 Dose proportionality of dexmethylphenidate hydrochloride extended-release capsules was evaluated in a randomized, single-dose, five-period, cross-over study with administration of single doses of 5, 10, 20, 30 and 40 mg to healthy adults.
