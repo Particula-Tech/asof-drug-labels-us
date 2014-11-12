@@ -1,3 +1,5 @@
+Distributed by Roerig Division of Pfizer Inc New York, NY 10017
+
 Amerinet Choice is a registered trademark of Amerinet, Inc.
 
-LAB-0632-2.0
+LAB-0632-3.0
