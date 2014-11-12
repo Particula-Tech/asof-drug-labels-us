@@ -101,6 +101,8 @@ After the loading dose, the daily dose (according to indication) should be based
 | ≤50 (no dialysis) | 50% |
 | Regular dialysis | 100% after each dialysis |
 
+Patients on regular dialysis should receive 100% of the recommended dose after each dialysis; on non-dialysis days, patients should receive a reduced dose according to their creatinine clearance.
+
 These are suggested dose adjustments based on pharmacokinetics following administration of multiple doses.
 Further adjustment may be needed depending upon clinical condition.
 
