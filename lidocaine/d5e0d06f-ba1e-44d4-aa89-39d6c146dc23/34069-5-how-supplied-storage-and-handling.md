@@ -4,4 +4,4 @@ All solutions should be stored at 20° to 25°C (68° to 77°F) [see USP Control
 
 Protect from light.
 
-XYLOCAINE is a trademark of APP Pharmaceuticals, LLC.
+XYLOCAINE is a trademark of Fresenius Kabi USA, LLC.

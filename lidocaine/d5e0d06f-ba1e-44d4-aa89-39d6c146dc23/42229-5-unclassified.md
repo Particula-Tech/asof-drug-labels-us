@@ -78,6 +78,6 @@ Manufactured for:
 
 Made in Norway
 
-451142D
+451142E
 
-Revised: June 2011
+Revised: June 2013
