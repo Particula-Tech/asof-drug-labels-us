@@ -2,6 +2,8 @@
 
 ## 16.1 How Supplied
 
+Vyvanse capsules 10 mg: pink body/pink cap (imprinted with S489 and 10 mg), bottles of 100, NDC 59417-101-10
+
 Vyvanse capsules 20 mg: ivory body/ivory cap (imprinted with S489 and 20 mg), bottles of 100, NDC 59417-102-10
 
 Vyvanse capsules 30 mg: white body/orange cap (imprinted with S489 and 30 mg), bottles of 100, NDC 59417-103-10

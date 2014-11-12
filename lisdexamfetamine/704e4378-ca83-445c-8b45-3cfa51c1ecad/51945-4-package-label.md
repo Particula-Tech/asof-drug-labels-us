@@ -1,11 +1,83 @@
-NDC 59417-102-10 20 mg bottle of 100 Capsules
+# PRINCIPAL DISPLAY PANEL - 10 mg Capsule Bottle Label
 
-NDC 59417-103-10 30 mg bottle of 100 Capsules
+NDC 59417-101-10
 
-NDC 59417-104-10 40 mg bottle of 100 Capsules
+Vyvanse® (lisdexamfetamine dimesylate) capsules
 
-NDC 59417-105-10 50 mg bottle of 100 Capsules
+10 mg
 
-NDC 59417-106-10 60 mg bottle of 100 Capsules
+CII Rx only
 
-NDC 59417-107-10 70 mg bottle of 100 Capsules
+100 CAPSULES Shire
+
+# PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Label
+
+NDC 59417-102-10
+
+Vyvanse® (lisdexamfetamine dimesylate) capsules
+
+20 mg
+
+CII Rx only
+
+100 CAPSULES Shire
+
+# PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
+
+NDC 59417-103-10
+
+Vyvanse® (lisdexamfetamine dimesylate) capsules
+
+30 mg
+
+CII Rx only
+
+100 CAPSULES Shire
+
+# PRINCIPAL DISPLAY PANEL - 40 mg Capsule Bottle Label
+
+NDC 59417-104-10
+
+Vyvanse® (lisdexamfetamine dimesylate) capsules
+
+40 mg
+
+CII Rx only
+
+100 CAPSULES Shire
+
+# PRINCIPAL DISPLAY PANEL - 50 mg Capsule Bottle Label
+
+NDC 59417-105-10
+
+Vyvanse® (lisdexamfetamine dimesylate) capsules
+
+50 mg
+
+CII Rx only
+
+100 CAPSULES Shire
+
+# PRINCIPAL DISPLAY PANEL - 60 mg Capsule Bottle Label
+
+NDC 59417-106-10
+
+Vyvanse® (lisdexamfetamine dimesylate) capsules
+
+60 mg
+
+CII Rx only
+
+100 CAPSULES Shire
+
+# PRINCIPAL DISPLAY PANEL - 70 mg Capsule Bottle Label
+
+NDC 59417-107-10
+
+Vyvanse® (lisdexamfetamine dimesylate) capsules
+
+70 mg
+
+CII Rx only
+
+100 CAPSULES Shire

@@ -196,4 +196,4 @@ Manufactured for: Shire US Inc., Wayne, PA 19087.
 
 © 2014 Shire US Inc.
 
-Revised July 2014
+Revised October 2014

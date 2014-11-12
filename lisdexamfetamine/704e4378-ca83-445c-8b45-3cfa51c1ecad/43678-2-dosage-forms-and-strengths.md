@@ -1,5 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
+Capsules 10 mg: pink body/pink cap (imprinted with S489 and 10 mg)
+
 Capsules 20 mg: ivory body/ivory cap (imprinted with S489 and 20 mg)
 
 Capsules 30 mg: white body/orange cap (imprinted with S489 and 30 mg)
