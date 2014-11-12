@@ -17,8 +17,9 @@ What is ARNUITY ELLIPTA?
 ARNUITY ELLIPTA is an inhaled corticosteroid (ICS) medicine used for the control and prevention of asthma in adults and children aged 12 years and older.
 
 - •ARNUITY ELLIPTA helps to prevent and control symptoms of asthma.
-- •ARNUITY ELLIPTA is not for use to treat sudden symptoms of an asthma attack, wheezing, cough, shortness of breath, and chest pain or tightness.Always have a rescue inhaler (an inhaled, short-acting bronchodilator) with you to treat sudden symptoms.
-  If you do not havea rescue inhaler, contact your healthcare provider to have one prescribed for you.
+- •ARNUITY ELLIPTA is not for use to treat sudden symptoms of an asthma attack, wheezing, cough, shortness of breath, and chest pain or tightness.
+  Always have a rescue inhaler (an inhaled, short-acting bronchodilator) with you to treat sudden symptoms.
+  If you do not have a rescue inhaler, contact your healthcare provider to have one prescribed for you.
 - •It is not known if ARNUITY ELLIPTA is safe and effective in children younger than 12 years.
 
 Who should not use ARNUITY ELLIPTA?
@@ -99,18 +100,18 @@ ARNUITY ELLIPTA can cause serious side effects, including:
   This can happen when you stop taking oral corticosteroid medicines (such as prednisone) and start taking a medicine containing an inhaled corticosteroid (such as ARNUITY ELLIPTA).
   When your body is under stress from fever, trauma (such as a car accident), infection, surgery, or worse asthma symptoms, adrenal insufficiency can get worse and may cause death.
 - Symptoms of adrenal insufficiency include:
-  1. 1.feeling tired
-  2. 2.lack of energy
-  3. 3.weakness
-  4. 4.nausea and vomiting
-  5. 5.low blood pressure
+  1. •feeling tired
+  2. •lack of energy
+  3. •weakness
+  4. •nausea and vomiting
+  5. •low blood pressure
 - •sudden breathing problems immediately after inhaling your medicine
 - •serious allergic reactions.
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
-  - 6.rash
-  - 7.hives
-  - 8.swelling of your face, mouth, and tongue
-  - 9.breathing problems
+  - •rash
+  - •hives
+  - •swelling of your face, mouth, and tongue
+  - •breathing problems
 - •bone thinning or weakness (osteoporosis)
 - •slow growth in adolescents.
   An adolescent’s growth should be checked often.

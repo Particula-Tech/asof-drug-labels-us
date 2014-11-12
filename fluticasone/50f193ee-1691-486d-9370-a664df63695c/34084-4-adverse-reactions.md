@@ -22,7 +22,7 @@ Subject ages ranged from 12 to 84 years, 65% were female, and 75% were Caucasian
 In these trials, the proportion of subjects who discontinued study treatment early due to adverse reactions was 2% for subjects treated with both ARNUITY ELLIPTA 100 mcg and ARNUITY ELLIPTA 200 mcg and less than or equal to 1% for placebo-treated subjects.
 Serious adverse events, whether considered drug-related or not by the investigators, that occurred in more than 1 subject and in a greater percentage of subjects treated with ARNUITY ELLIPTA than placebo included hypertension, abscess, breast cancer, traumatic limb amputation, subarachnoid hemorrhage, and intervertebral disc protrusion; all events occurred at rates less than or equal to 1%.
 
-The incidence of adverse reactions associated with ARNUITY ELLIPTA 100 mcg is shown in Table 1 and is based on one 24‑week trial (Trial 1) in adolescent and adult subjects with asthma.
+The incidence of adverse reactions associated with ARNUITY ELLIPTA 100 mcg is shown in Table 1 and is based on one 24-week trial (Trial 1) in adolescent and adult subjects with asthma.
 
 Table 1.
 Adverse Reactions with ARNUITY ELLIPTA 100 mcg with Greater than or Equal to 3% Incidence and More Common than Placebo (Trial 1, Intent-to-Treat Population)
@@ -41,7 +41,7 @@ Adverse Reactions with ARNUITY ELLIPTA 100 mcg with Greater than or Equal to 3% 
 | Oropharyngeal candidiasis | 3 | 0 |
 | Oropharyngeal pain | 3 | 0 |
 
-The incidence of adverse reactions associated with ARNUITY ELLIPTA 200 mcg is shown in Table 2 and is based on one 24‑week trial (Trial 3) in adolescent and adult subjects with asthma.
+The incidence of adverse reactions associated with ARNUITY ELLIPTA 200 mcg is shown in Table 2 and is based on one 24-week trial (Trial 3) in adolescent and adult subjects with asthma.
 This trial did not have a placebo arm.
 
 Table 2.

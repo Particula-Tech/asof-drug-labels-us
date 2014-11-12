@@ -16,8 +16,8 @@ Individual patients will experience a variable time to onset and degree of sympt
 Maximum benefit may not be achieved for 1 to 2 weeks or longer after starting treatment.
 When corticosteroids are discontinued, asthma stability may persist for several days or longer.
 
-Trials in subjects with asthma have shown a favorable ratio between topical anti‑inflammatory activity and systemic corticosteroid effects with recommended doses of orally inhaled fluticasone furoate.
-This is explained by a combination of a relatively high local anti‑inflammatory effect, negligible oral systemic bioavailability (approximately 1.3%), and the minimal pharmacological activity of the metabolites detected in man.
+Trials in subjects with asthma have shown a favorable ratio between topical anti-inflammatory activity and systemic corticosteroid effects with recommended doses of orally inhaled fluticasone furoate.
+This is explained by a combination of a relatively high local anti-inflammatory effect, negligible oral systemic bioavailability (approximately 1.3%), and the minimal pharmacological activity of the metabolites detected in man.
 
 ## 12.2 Pharmacodynamics
 
@@ -82,3 +82,5 @@ The increase in fluticasone furoate exposure was associated with a 27% reduction
 
 Figure 2.
 Impact of Coadministered Ketoconazolea on the Pharmacokinetics (PK) of Fluticasone Furoate
+
+- a Compared with placebo group.

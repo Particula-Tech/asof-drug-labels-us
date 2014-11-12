@@ -7,7 +7,7 @@ The efficacy of ARNUITY ELLIPTA is based primarily on the dose-ranging trials an
 ## 14.1 Dose-Ranging Trials
 
 Eight doses of fluticasone furoate ranging from 25 to 800 mcg once daily were evaluated in 3 randomized, double-blind, placebo-controlled, 8-week trials in subjects with asthma.
-Across the 3 trials, subjects were uncontrolled at baseline on treatments of short-acting beta2-agonist and/or non-inhaled corticosteroid controller medications (Trial 687), low-dose inhaled corticosteroid (Trial 685), or medium doses of inhaled corticosteroid (Trial 684).
+Across the 3 trials, subjects were uncontrolled at baseline on treatments of short-acting beta2-agonist and/or non-corticosteroid controller medications (Trial 687), low-dose inhaled corticosteroid (Trial 685), or medium doses of inhaled corticosteroid (Trial 684).
 The trials in Figure 3 were dose-ranging trials of ARNUITY ELLIPTA not designed to provide comparative effectiveness data and should not be interpreted as evidence of superiority/inferiority to fluticasone propionate.
 A dose-related increase in trough FEV1 at Week 8 was seen for doses from 25 to 200 mcg with no consistent additional benefit for doses above 200 mcg as seen in Figure 3.
 To evaluate dosing frequency, a separate trial compared fluticasone furoate 200 mcg once daily, fluticasone furoate 100 mcg twice daily, fluticasone propionate 100 mcg twice daily, and fluticasone propionate 200 mcg once daily.
@@ -51,10 +51,10 @@ Change from Baseline in Trough FEV1 (mL) at Week 24 – Trial 1
 | --- | --- | --- | --- |
 | Least squares mean | 2,372 | 2,519 | 2,517 |
 | Least squares mean change (SE) | 15 (39.4) | 161 (39.8) | 159 (40.6) |
-| Column vs. Placebo |  |  |  |
-| Difference | --- | 146 | 145 |
-| 95% CI | --- | 36, 257 | 33, 257 |
-| P value | --- | 0.009 | 0.011 |
+| Column vs. placebo |  |  |  |
+| Difference | — | 146 | 145 |
+| 95% CI | — | 36, 257 | 33, 257 |
+| P value | — | 0.009 | 0.011 |
 
 Trial 2 was a 12-week trial that evaluated the efficacy of ARNUITY ELLIPTA 100 mcg on lung function in subjects with asthma compared with placebo.
 The combination of fluticasone furoate 100 mcg and vilanterol 25 mcg was also included as a treatment arm.

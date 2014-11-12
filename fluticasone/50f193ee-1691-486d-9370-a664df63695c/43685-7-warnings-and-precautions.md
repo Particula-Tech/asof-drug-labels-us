@@ -32,7 +32,7 @@ Inhaled corticosteroids should be used with caution, if at all, in patients with
 ## 5.4 Transferring Patients from Systemic Corticosteroid Therapy
 
 Particular care is needed for patients who are transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
-After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic‑pituitary‑adrenal (HPA) function.
+After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.
 
 Patients who have been previously maintained on 20 mg or more of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
 During this period of HPA suppression, patients may exhibit signs and symptoms of adrenal insufficiency when exposed to trauma, surgery, or infection (particularly gastroenteritis) or other conditions associated with severe electrolyte loss.
@@ -64,7 +64,7 @@ If such effects occur, the dosage of ARNUITY ELLIPTA should be reduced slowly, c
 
 Caution should be exercised when considering the coadministration of ARNUITY ELLIPTA with long-term ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) because increased systemic corticosteroid adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
-## 5.7 Paradoxical Bronchospasmand Upper Airway Symptoms
+## 5.7 Paradoxical Bronchospasm and Upper Airway Symptoms
 
 As with other inhaled medicines, bronchospasm may occur with an immediate increase in wheezing after dosing.
 If bronchospasm occurs following dosing with ARNUITY ELLIPTA, it should be treated immediately with an inhaled, short-acting bronchodilator; ARNUITY ELLIPTA should be discontinued immediately; and alternative therapy should be instituted.
@@ -83,7 +83,8 @@ Patients with major risk factors for decreased bone mineral content, such as pro
 
 ## 5.10 Effect on Growth
 
-Orally inhaled corticosteroids, including ARNUITY ELLIPTA, may cause a reduction in growth velocity when administered to children and adolescents.Monitor the growth of children and adolescents receiving ARNUITY ELLIPTA routinely (e.g., via stadiometry).
+Orally inhaled corticosteroids, including ARNUITY ELLIPTA, may cause a reduction in growth velocity when administered to children and adolescents.
+Monitor the growth of children and adolescents receiving ARNUITY ELLIPTA routinely (e.g., via stadiometry).
 To minimize the systemic effects of orally inhaled corticosteroids, including ARNUITY ELLIPTA, titrate each patient’s dose to the lowest dosage that effectively controls his/her symptoms [see Use in Specific Populations (8.4)].
 
 ## 5.11 Glaucoma and Cataracts

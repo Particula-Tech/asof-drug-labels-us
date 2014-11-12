@@ -2,7 +2,7 @@
 
 No human overdosage data have been reported for ARNUITY ELLIPTA.
 The potential for acute toxic corticosteroid effects following overdosage with ARNUITY ELLIPTA is low.
-Because of low systemic bioavailability (13.9%) and an absence of acute drug‑related systemic findings in clinical trials, overdosage of fluticasone furoate is unlikely to require any treatment other than observation.
+Because of low systemic bioavailability (13.9%) and an absence of acute drug-related systemic findings in clinical trials, overdosage of fluticasone furoate is unlikely to require any treatment other than observation.
 If used at excessive doses for prolonged periods, systemic effects such as hypercorticism may occur [see Warnings and Precautions (5.5)].
 
 Single- and repeat-dose trials of fluticasone furoate at doses of 50 to 4,000 mcg have been studied in human subjects.
