@@ -1,7 +1,18 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL- LOCOID OINTMENT-45 g carton
 
-Locoid Ointment-45g Carton
+NDC 16781-389-15
 
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+Locoid®
 
-Locoid Ointment-15g Carton
+(hydrocortisone butyrate)
+
+Ointment, 0.1%
+
+For topical use only.
+
+Not for ophthalmic use.
+
+Rx only
+
+Net Wt.
+15 grams

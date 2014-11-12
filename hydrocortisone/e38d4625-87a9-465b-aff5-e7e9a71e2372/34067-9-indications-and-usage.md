@@ -1,3 +1,3 @@
 # INDICATIONS AND USAGE
 
-Locoid (hydrocortisone butyrate 0.1%) Ointment is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+Locoid® (hydrocortisone butyrate) Ointment, 0.1% is indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
