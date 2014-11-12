@@ -108,7 +108,7 @@ Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
 Manufactured by: Nuvo Manufacturing Varennes, Quebec, J3X 1P7 Canada
 
-Revised 07/2014
+Revised 08/2014
 
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 PENNSAID is a registered trademark of Nuvo Research Inc. Other brands are trademarks of their respective owners.

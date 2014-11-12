@@ -31,7 +31,7 @@ It is not known whether diffusion into the joint plays a role in the effectivene
 Metabolism:
 
 Five diclofenac metabolites have been identified in human plasma and urine.
-The metabolites include 4'‑hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4', 5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac.
+The metabolites include 4'‑hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac.
 The major diclofenac metabolite, 4'-hydroxy-diclofenac, has very weak pharmacologic activity.
 The formation of 4'‑hydroxy diclofenac is primarily mediated by CYP2C9.
 Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.

@@ -55,13 +55,13 @@ Tell your healthcare provider:
   NSAIDs and some other medicines can interact with each other and cause serious side effects.
   Keep a list of your medicines to show to your healthcare provider and pharmacist.
 - if you are pregnant.
-  NSAID medicines should not be used past 30 weeks of pregnancy.
+  NSAID medicines should not be used by pregnant women late in their pregnancy.
 - if you are breastfeeding.
   Talk to your healthcare provider.
 
 What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
-| Serious side effects include: heart attack stroke high blood pressure heart failure from body swelling (fluid retention) kidney problems including kidney failure bleeding and ulcers in the stomach and intestine low red blood cells (anemia) life-threatening skin reactions life-threatening allergic reactions liver problems including liver failure asthma attacks in people who have asthma | Other side effects include: stomach pain constipation diarrhea gas heartburn nausea vomiting dizziness |
+| Serious side effects include: heart attackstrokehigh blood pressureheart failure from body swelling (fluid retention)kidney problems including kidney failurebleeding and ulcers in the stomach and intestinelow red blood cells (anemia)life-threatening skin reactionslife-threatening allergic reactionsliver problems including liver failureasthma attacks in people who have asthma | Other side effects include: stomach painconstipationdiarrheagasheartburnnauseavomitingdizziness |
 | --- | --- |
 
 Get emergency help right away if you have any of the following symptoms:
@@ -105,15 +105,15 @@ NSAID medicines that need a prescription
 | Generic Name | Tradename |
 | --- | --- |
 | Celecoxib | Celebrex® |
-| Diclofenac | Zorvolex, Zipsor, Flector, Cataflam®, Voltaren®, Voltaren gel, Arthrotec™ (combined with misoprostol), PENNSAID® 1.5%, PENNSAID |
+| Diclofenac | Flector®, Cataflam®, Voltaren®, Arthrotec® (combined with misoprostol), PENNSAID®, Zorvolex, Cambia, Voltaren gel, Zipsor |
 | Diflunisal | Dolobid® |
-| Etodolac | Lodine®, Lodine® XL |
+| Etodolac | Lodine®, LodineXL® |
 | Fenoprofen | Nalfon®, Nalfon® 200 |
-| Flurbirofen | Ansaid® |
+| Flurbiprofen | Ansaid® |
 | Ibuprofen | Motrin®, Tab-Profen®, Vicoprofen®* (combined with hydrocodone), Combunox™ (combined with oxycodone), Duexis (combined with famotidine) |
-| Indomethacin | Indocin®, Indocin® SR, Indo-Lemmon™, Indomethagan™ |
-| Ketoprofen | Oruvail, Nexcede® |
-| Ketorolac | Toradol, Sprix® |
+| Indomethacin | Indocin®, IndocinSR®, Indo-Lemmon™, Indomethagan™, Tivorbex |
+| Ketoprofen | Oruvail® |
+| Ketorolac | Toradol®, SPRIX® |
 | Mefenamic Acid | Ponstel® |
 | Meloxicam | Mobic® |
 | Nabumetone | Relafen® |
