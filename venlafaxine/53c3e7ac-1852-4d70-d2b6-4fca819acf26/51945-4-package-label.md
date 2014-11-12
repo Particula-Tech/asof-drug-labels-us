@@ -1,113 +1,87 @@
-# PRINCIPAL DISPLAY PANEL - 37.5 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 37.5 mg Capsule Bottle Label
 
-Pfizer NDC 0008-0837-20 Rx Only
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer NDC 0008-0837-20
 
 Effexor XR® (venlafaxine HCl) Extended-Release Capsules
 
-equivalent to 37.5 mg venlafaxine
+37.5 mg*
 
-SEALED FOR YOUR PROTECTION Note to authorized dispenser: Each time Effexor XR is dispensed, give the patient the attached Medication Guide.
+15 Capsules Rx only
 
-Unit of Use 15 Capsules
+# PRINCIPAL DISPLAY PANEL - 37.5 mg Capsule Blister Pack
 
-# PRINCIPAL DISPLAY PANEL - 37.5 mg Blister Pack
+Effexor XR® (venlafaxine HCl) Extended-Release Capsules 37.5 mg
 
-Effexor® XR (venlafaxine HCl)
-
-Extended-Release Capsules equivalent to 37.5 mg venlafaxine
-
-MADE IN SWITZERLAND Wyeth® Phila.
+Wyeth® Phila.
 PA 19101
 
-# PRINCIPAL DISPLAY PANEL - 37.5 mg Blister Carton
+# PRINCIPAL DISPLAY PANEL - 37.5 mg Capsule Blister Pack Carton
 
-NDC 0008-0837-03
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0008-0837-03
 
 Pfizer
 
 Effexor XR® (venlafaxine HCl) Extended-Release Capsules
 
-equivalent to
+37.5 mg*
 
-37.5 mg
+10 Redipak® Blister Strips of 10 Capsules 100 Capsules Rx only
 
-venlafaxine
+# PRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Label
 
-Note to authorized dispenser: Give a Medication Guide to each patient dispensed Effexor XR.
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-10 Redipak® Blister Strips of 10 Capsules
-
-100 Capsules Rx only
-
-# PRINCIPAL DISPLAY PANEL - 75 mg Bottle Label
-
-Pfizer NDC 0008-0833-20 Rx Only
+Pfizer NDC 0008-0833-20
 
 Effexor XR® (venlafaxine HCl) Extended-Release Capsules
 
-equivalent to 75 mg venlafaxine
+75 mg*
 
-SEALED FOR YOUR PROTECTION Note to authorized dispenser: Each time Effexor XR is dispensed, give the patient the attached Medication Guide.
+15 Capsules Rx only
 
-Unit of Use 15 Capsules
+# PRINCIPAL DISPLAY PANEL - 75 mg Capsule Blister Pack
 
-# PRINCIPAL DISPLAY PANEL - 75 mg Blister Pack
+Effexor XR® (venlafaxine HCl) Extended-Release Capsules 75 mg
 
-Effexor® XR (venlafaxine HCl)
-
-Extended-Release Capsules equivalent to 75 mg venlafaxine
-
-MADE IN SWITZERLAND Wyeth® Phila.
+Wyeth® Phila.
 PA 19101
 
-# PRINCIPAL DISPLAY PANEL - 75 mg Blister Carton
+# PRINCIPAL DISPLAY PANEL - 75 mg Capsule Blister Pack Carton
 
-NDC 0008-0833-03
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0008-0833-03
 
 Pfizer
 
 Effexor XR® (venlafaxine HCl) Extended-Release Capsules
 
-equivalent to
+75 mg*
 
-75 mg
+10 Redipak® Blister Strips of 10 Capsules 100 Capsules Rx only
 
-venlafaxine
+# PRINCIPAL DISPLAY PANEL - 150 mg Capsule Bottle Label
 
-Note to authorized dispenser: Give a Medication Guide to each patient dispensed Effexor XR.
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-10 Redipak® Blister Strips of 10 Capsules
+Pfizer NDC 0008-0836-20
 
-100 Capsules Rx only
+Effexor XR® (venlafaxine HCl) Extended-Release Capsules
 
-# PRINCIPAL DISPLAY PANEL - 150 mg Bottle Label
+150 mg*
 
-Pfizer
+15 Capsules Rx only
 
-NDC 0008-0836-20 Rx Only
+# PRINCIPAL DISPLAY PANEL - 150 mg Capsule Blister Pack
 
-Effexor XR® (venlafaxine HCl)
+Effexor XR® (venlafaxine HCl) Extended-Release Capsules 150 mg
 
-Extended-Release Capsules
-
-equivalent to
-
-150 mg venlafaxine
-
-SEALED FOR YOUR PROTECTION Note to authorized dispenser: Each time Effexor XR is dispensed, give the patient the attached Medication Guide.
-
-Unit of Use 15 Capsules
-
-# PRINCIPAL DISPLAY PANEL - 150 mg Blister Pack
-
-Effexor® XR (venlafaxine HCl)
-
-Extended-Release Capsules equivalent to 150 mg venlafaxine
-
-MADE IN SWITZERLAND Wyeth® Phila.
+Wyeth® Phila.
 PA 19101
 
-# PRINCIPAL DISPLAY PANEL - 150 mg Blister Carton
+# PRINCIPAL DISPLAY PANEL - 150 mg Capsule Blister Pack Carton
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 NDC 0008-0836-03
 
@@ -115,14 +89,6 @@ Pfizer
 
 Effexor XR® (venlafaxine HCl) Extended-Release Capsules
 
-equivalent to
+150 mg*
 
-150 mg
-
-venlafaxine
-
-Note to authorized dispenser: Give a Medication Guide to each patient dispensed Effexor XR.
-
-10 Redipak® Blister Strips of 10 Capsules
-
-100 Capsules Rx only
+10 Redipak® Blister Strips of 10 Capsules 100 Capsules Rx only
