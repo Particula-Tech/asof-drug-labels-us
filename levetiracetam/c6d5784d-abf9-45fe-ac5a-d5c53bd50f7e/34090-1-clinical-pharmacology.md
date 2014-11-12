@@ -30,7 +30,7 @@ Therefore, there was no evidence of significant QTc prolongation in this study.
 
 ## 12.3 Pharmacokinetics
 
-Equivalent doses of intravenous (IV) levetiracetam and oral levetiracetam result in equivalent Cmax, Cmin, and total systemic exposure to levetiracetam when the IV levetiracetam is administered as a 15 minute infusion.
+Equivalent doses of intravenous (IV) levetiracetam and oral levetiracetam result in equivalent Cmax, Cmin, and total systemic exposure to levetiracetam when the IV levetiracetam is administered as a 15-minute infusion.
 
 The pharmacokinetics of levetiracetam have been studied in healthy adult subjects, adults and pediatric patients with epilepsy, elderly subjects and subjects with renal and hepatic impairment.
 
@@ -86,11 +86,32 @@ This is most likely due to the decrease in renal function in these subjects.
 
 Pediatric Patients
 
-Safety and effectiveness of KEPPRA injection in patients below the age of 16 years have not been established.
+Intravenous Formulation
+
+A population pharmacokinetic analysis for the intravenous formulation was conducted in 49 pediatric patients (1 month to < 16 years of age) weighing 3-79 kg.
+Patients received levetiracetam as a 15-minute IV infusion at doses between 14 mg/kg/day and 60 mg/kg/day twice daily.
+Plasma concentrations and model derived steady-state exposure AUC (0-12) were within the range of the exposure observed in pediatric patients receiving equivalent doses of the oral solution.
+
+Oral Formulations
+
+Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6-12 years) after single oral dose (20 mg/kg) of the immediate release formulation of KEPPRA.
+The body weight adjusted apparent clearance of levetiracetam was approximately 40% higher than in adults.
+
+A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4-12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day of the immediate release formulation of KEPPRA.
+The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses, with a Tmax of about 1 hour and a t1/2 of 5 hours across all dosing levels.
+The pharmacokinetics of levetiracetam in pediatric patients was linear between 20 to 60 mg/kg/day.
+The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
+Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
+However, there was about a 22% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED (e.g., carbamazepine).
+
+Following single dose administration (20 mg/kg) of a 10% oral solution to pediatric patients with epilepsy (1 month to < 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
+Levetiracetam half-life in pediatric patients 1 month to < 4 years with epilepsy was shorter (5.3 h) than in adults (7.2 h), and apparent clearance (1.5 mL/min/kg) was faster than in adults (0.96 mL/min/kg).
+
+Population pharmacokinetic analysis showed that body weight was significantly correlated to the clearance of levetiracetam in pediatric patients; clearance increased with an increase in body weight.
 
 Pregnancy
 
-Keppra levels may decrease during pregnancy.
+Levetiracetam levels may decrease during pregnancy.
 
 Gender
 
@@ -100,7 +121,7 @@ However, clearances adjusted for body weight were comparable.
 Race
 
 Formal pharmacokinetic studies of the effects of race have not been conducted.
-Cross study comparisons involving Caucasians (N=12) and Asians (N=12), however, show that pharmacokinetics of levetiracetam were comparable between the two races.
+Cross-study comparisons involving Caucasians (N=12) and Asians (N=12), however, show that pharmacokinetics of levetiracetam were comparable between the two races.
 Because levetiracetam is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.
 
 Renal Impairment
@@ -112,13 +133,10 @@ Clearance of levetiracetam is correlated with creatinine clearance.
 In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80mL/min).
 Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4 hour hemodialysis procedure.
 
-Dosage should be reduced in patients with impaired renal function receiving levetiracetam, and supplemental doses should be given to patients after dialysis [see Dosage and Administration (2.6)].
-
-Hepatic Impairment
+#### Hepatic Impairment
 
 In subjects with mild (Child-Pugh A) to moderate (Child-Pugh B) hepatic impairment, the pharmacokinetics of levetiracetam were unchanged.
 In patients with severe hepatic impairment (Child-Pugh C), total body clearance was 50% that of normal subjects, but decreased renal clearance accounted for most of the decrease.
-No dose adjustment is needed for patients with hepatic impairment.
 
 Drug Interactions
 
@@ -143,6 +161,11 @@ Other Antiepileptic Drugs
 
 Potential drug interactions between KEPPRA and other AEDs (carbamazepine, gabapentin, lamotrigine, phenobarbital, phenytoin, primidone and valproate) were also assessed by evaluating the serum concentrations of levetiracetam and these AEDs during placebo-controlled clinical studies.
 These data indicate that levetiracetam does not influence the plasma concentration of other AEDs and that these AEDs do not influence the pharmacokinetics of levetiracetam.
+
+Effect of AEDs in Pediatric Patients
+
+There was about a 22% increase of apparent total body clearance of levetiracetam when it was co-administered with enzyme-inducing AEDs.
+Levetiracetam had no effect on plasma concentrations of carbamazepine, valproate, topiramate, or lamotrigine.
 
 Oral Contraceptives
 

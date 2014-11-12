@@ -1,15 +1,16 @@
 # 1 INDICATIONS AND USAGE
 
-KEPPRA injection is an alternative for adult patients (16 years and older) when oral administration is temporarily not feasible.
-
 ## 1.1 Partial Onset Seizures
 
-KEPPRA is indicated as adjunctive therapy in the treatment of partial onset seizures in adults with epilepsy.
+KEPPRA is indicated as adjunctive therapy in the treatment of partial onset seizures in adults and children 1 month of age and older with epilepsy.
+KEPPRA injection is for intravenous use only as an alternative for patients when oral administration is temporarily not feasible.
 
 ## 1.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 
-KEPPRA is indicated as adjunctive therapy in the treatment of myoclonic seizures in adults with juvenile myoclonic epilepsy.
+KEPPRA is indicated as adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents 12 years of age and older with juvenile myoclonic epilepsy.
+KEPPRA injection is for intravenous use only as an alternative for patients when oral administration is temporarily not feasible.
 
 ## 1.3 Primary Generalized Tonic-Clonic Seizures
 
-KEPPRA is indicated as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in adults with idiopathic generalized epilepsy.
+KEPPRA is indicated as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in adults and children 6 years of age and older with idiopathic generalized epilepsy.
+KEPPRA injection is for intravenous use only as an alternative for patients when oral administration is temporarily not feasible.

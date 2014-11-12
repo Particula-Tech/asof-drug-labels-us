@@ -7,7 +7,7 @@ Advise patients, their caregivers, and/or families to immediately report behavio
 
 Psychiatric Reactions and Changes in Behavior
 
-Advise patients that KEPPRA may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and in rare cases, psychotic symptoms have occurred.
+Advise patients and their caregivers that KEPPRA may cause changes in behavior (e.g., aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and psychotic symptoms.
 
 Effects on Driving or Operating Machinery
 

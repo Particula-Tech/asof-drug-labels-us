@@ -1,9 +1,7 @@
 # 14 CLINICAL STUDIES
 
-All efficacy trials utilized oral formulations.
-The recommendation for the parenteral formulation is based upon these studies as well as the demonstration of comparable bioavailability of the oral and the parenteral formulation [see Pharmacokinetics (12.3)].
-
-In the following studies, statistical significance versus placebo indicates a p value <0.05.
+All clinical studies supporting the efficacy of KEPPRA utilized oral formulations.
+The finding of efficacy of KEPPRA injection is based on the results of studies using an oral formulation of KEPPRA, and on the demonstration of comparable bioavailability of the oral and parenteral formulations [see Pharmacokinetics (12.3)].
 
 ## 14.1 Partial Onset Seizures
 
@@ -24,9 +22,9 @@ After a prospective baseline period of 12 weeks, patients were randomized to one
 The 18-week treatment period consisted of a 6-week titration period, followed by a 12-week fixed dose evaluation period, during which concomitant AED regimens were held constant.
 The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period).
 Secondary outcome variables included the responder rate (incidence of patients with ≥50% reduction from baseline in partial onset seizure frequency).
-The results of the analysis of Study 1 are displayed in Table 9.
+The results of the analysis of Study 1 are displayed in Table 11.
 
-Table 9: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures In Study 1
+Table 11: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures In Study 1
 
 |  | Placebo (N=95) | KEPPRA 1000 mg/day (N=97) | KEPPRA 3000 mg/day (N=101) |
 | --- | --- | --- | --- |
@@ -36,7 +34,8 @@ The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seiz
 
 Figure 1: Responder Rate (≥50% Reduction From Baseline) In Study 1
 
-* statistically significant versus placebo
+| * statistically significant versus placebo |
+| --- |
 
 Study 2
 
@@ -47,9 +46,9 @@ After a prospective baseline period of up to 12 weeks, patients were randomized 
 The 16-week treatment period consisted of the 4-week titration period followed by a 12-week fixed dose evaluation period, during which concomitant AED regimens were held constant.
 The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period).
 Secondary outcome variables included the responder rate (incidence of patients with ≥50% reduction from baseline in partial onset seizure frequency).
-The results of the analysis of Period A are displayed in Table 10.
+The results of the analysis of Period A are displayed in Table 12.
 
-Table 10: Reduction in Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures In Study 2: Period A
+Table 12: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures In Study 2: Period A
 
 |  | Placebo (N=111) | KEPPRA 1000 mg/day (N=106) | KEPPRA 2000 mg/day (N=105) |
 | --- | --- | --- | --- |
@@ -59,7 +58,8 @@ The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seiz
 
 Figure 2: Responder Rate (≥50% Reduction From Baseline) In Study 2: Period A
 
-* statistically significant versus placebo
+| * statistically significant versus placebo |
+| --- |
 
 The comparison of KEPPRA 2000 mg/day to KEPPRA 1000 mg/day for responder rate was statistically significant (P=0.02).
 Analysis of the trial as a cross-over yielded similar results.
@@ -72,9 +72,9 @@ After a prospective baseline period of 12 weeks, patients were randomized to one
 The 16-week treatment period consisted of a 4-week titration period, followed by a 12-week fixed dose evaluation period, during which concomitant AED doses were held constant.
 The primary measure of effectiveness was a between group comparison of the percent reduction in weekly seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period).
 Secondary outcome variables included the responder rate (incidence of patients with ≥50% reduction from baseline in partial onset seizure frequency).
-Table 11 displays the results of the analysis of Study 3.
+Table 13 displays the results of the analysis of Study 3.
 
-Table 11: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures In Study 3
+Table 13: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures In Study 3
 
 |  | Placebo (N=104) | KEPPRA 3000 mg/day (N=180) |
 | --- | --- | --- |
@@ -84,22 +84,67 @@ The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seiz
 
 Figure 3: Responder Rate (≥50% Reduction From Baseline) In Study 3
 
-* statistically significant versus placebo
+| * statistically significant versus placebo |
+| --- |
+
+Effectiveness in Partial Onset Seizures in Pediatric Patients 4 Years to 16 Years with Epilepsy
+
+Study 4 was a multicenter, randomized double-blind, placebo-controlled study, in pediatric patients 4 to 16 years of age with partial seizures uncontrolled by standard antiepileptic drugs (AEDs).
+Study 4 was conducted at 60 sites in North America.
+The study consisted of an 8-week baseline period and 4-week titration period followed by a 10-week evaluation period.
+Eligible patients who still experienced, on a stable dose of 1-2 AEDs, at least 4 partial onset seizures during the 4 weeks prior to screening, as well as at least 4 partial onset seizures in each of the two 4-week baseline periods, were randomized to receive either KEPPRA or placebo.
+Dosing was initiated at a dose of 20 mg/kg/day in two divided doses.
+During the treatment period, KEPPRA doses were adjusted in 20 mg/kg/day increments, at 2-week intervals to the target dose of 60 mg/kg/day.
+The primary measure of efficacy was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire 14-week randomized treatment period (titration + evaluation period).
+Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial onset seizure frequency per week).
+The enrolled population included 198 patients (KEPPRA N=101, placebo N=97) with refractory partial onset seizures, whether or not secondarily generalized.
+Table 14 displays the results of Study 4.
+
+Table 14: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures in Study 4
+
+|  | Placebo (N=97) | KEPPRA (N=101) |
+| --- | --- | --- |
+| Percent reduction in partial seizure frequency over placebo | - | 26.8%statistically significant versus placebo |
+
+The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
+
+Figure 4: Responder Rate (≥ 50% Reduction From Baseline) in Study 4
+
+| *statistically significant versus placebo |
+| --- |
+
+Effectiveness in Partial Onset Seizures in Pediatric Patients 1 Month to <4 Years with Epilepsy
+
+Study 5 was a multicenter, randomized double-blind, placebo-controlled study, in children 1 month to less than 4 years of age with partial seizures, uncontrolled by standard epileptic drugs (AEDs).
+Study 5 was conducted at 62 sites in North America, South America, and Europe.
+Study 5 consisted of a 5-day evaluation period, which included a 1-day titration period followed by a 4-day maintenance period.
+Eligible patients who experienced, on a stable dose of 1-2 AEDs, at least 2 partial onset seizures during the 48-hour baseline video EEG were randomized to receive either KEPPRA or placebo.
+Randomization was stratified by age range as follows: 1 month to less than 6 months of age (N=4 treated with KEPPRA), 6 months to less than 1 year of age (N=8 treated with KEPPRA), 1 year to less than 2 years of age (N=20 treated with KEPPRA), and 2 years to less than 4 years of age (N=28 treated with KEPPRA).
+KEPPRA dosing was determined by age and weight as follows: children 1 month to less than 6 months old were randomized to a target dose of 40 mg/kg/day, and children 6 months to less than 4 years old were randomized to a target dose of 50 mg/kg/day.
+The primary measure of efficacy was the responder rate (percent of patients with ≥ 50% reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG performed during the last two days of the 4-day maintenance period.
+The enrolled population included 116 patients (KEPPRA N=60, placebo N=56) with refractory partial onset seizures, whether or not secondarily generalized.
+A total of 109 patients were included in the efficacy analysis.
+A statistically significant difference between KEPPRA and placebo was observed in Study 5 (see Figure 5).
+The treatment effect associated with KEPPRA was consistent across age groups.
+
+Figure 5: Responder Rate For All Subjects Ages 1 Month to < 4 Years (≥ 50% Reduction From Baseline) in Study 5
+
+| *statistically significant versus placebo |
+| --- |
 
 ## 14.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 
-Effectiveness in Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy (JME)
-
-The effectiveness of KEPPRA as adjunctive therapy (added to other antiepileptic drugs) in patients with juvenile myoclonic epilepsy (JME) experiencing myoclonic seizures was established in one multicenter, randomized, double-blind, placebo-controlled study, conducted at 37 sites in 14 countries.
-Of the 120 patients enrolled, 113 had a diagnosis of confirmed or suspected JME.
+Study 6 was a multicenter, randomized, double-blind, placebo-controlled study in patients 12 years of age and older with juvenile myoclonic epilepsy (JME) experiencing myoclonic seizures.
+Study 6 was conducted at 37 sites in 14 countries.
 Eligible patients on a stable dose of 1 antiepileptic drug (AED) experiencing one or more myoclonic seizures per day for at least 8 days during the prospective 8-week baseline period were randomized to either KEPPRA or placebo (KEPPRA N=60, placebo N=60).
 Patients were titrated over 4 weeks to a target dose of 3000 mg/day and treated at a stable dose of 3000 mg/day over 12 weeks (evaluation period).
 Study drug was given in 2 divided doses.
+The primary measure of efficacy was the proportion of patients with at least 50% reduction in the number of days per week with one or more myoclonic seizures during the treatment period (titration + evaluation periods) as compared to baseline.
+Table 15 displays the results for the 113 patients with JME in this study.
+Of 120 patients enrolled, 113 had a diagnosis of confirmed or suspected JME.
+The results of Study 6 are displayed in Table 15.
 
-The primary measure of effectiveness was the proportion of patients with at least 50% reduction in the number of days per week with one or more myoclonic seizures during the treatment period (titration + evaluation periods) as compared to baseline.
-Table 12 displays the results for the 113 patients with JME in this study.
-
-Table 12: Responder Rate (≥50% Reduction From Baseline) In Myoclonic Seizure Days Per Week For Patients With JME
+Table 15: Responder Rate (≥50% Reduction From Baseline) In Myoclonic Seizure Days Per Week in Study 6
 
 |  | Placebo (N=59) | KEPPRA (N=54) |
 | --- | --- | --- |
@@ -107,25 +152,29 @@ Table 12: Responder Rate (≥50% Reduction From Baseline) In Myoclonic Seizure D
 
 ## 14.3 Primary Generalized Tonic-Clonic Seizures
 
-The effectiveness of KEPPRA as adjunctive therapy (added to other antiepileptic drugs) in patients with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic (PGTC) seizures was established in one multicenter, randomized, double-blind, placebo-controlled study, conducted at 50 sites in 8 countries.
+Effectiveness in Primary Generalized Tonic-Clonic Seizures in Patients ≥6 years of age
+
+Study 7 was a multicenter, randomized, double-blind, placebo-controlled study in patients 6 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic (PGTC) seizures.
+Study 7 was conducted at 50 sites in 8 countries.
 Eligible patients on a stable dose of 1 or 2 antiepileptic drugs (AEDs) experiencing at least 3 PGTC seizures during the 8-week combined baseline period (at least one PGTC seizure during the 4 weeks prior to the prospective baseline period and at least one PGTC seizure during the 4-week prospective baseline period) were randomized to either KEPPRA or placebo.
 The 8-week combined baseline period is referred to as "baseline" in the remainder of this section.
-The population included 164 patients (KEPPRA N=80, placebo N=84) with idiopathic generalized epilepsy (predominately juvenile myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand Mal seizures on awakening) experiencing primary generalized tonic-clonic seizures.
-Each of these syndromes of idiopathic generalized epilepsy was well represented in this patient population.
 Patients were titrated over 4 weeks to a target dose of 3000 mg/day for adults or a pediatric target dose of 60 mg/kg/day and treated at a stable dose of 3000 mg/day (or 60 mg/kg/day for children) over 20 weeks (evaluation period).
 Study drug was given in 2 equally divided doses per day.
+The primary measure of efficacy was the percent reduction from baseline in weekly PGTC seizure frequency for KEPPRA and placebo treatment groups over the treatment period (titration + evaluation periods).
+The population included 164 patients (KEPPRA N=80, placebo N=84) with idiopathic generalized epilepsy (predominately juvenile myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand Mal seizures on awakening) experiencing primary generalized tonic-clonic seizures.
+Each of these syndromes of idiopathic generalized epilepsy was well represented in this patient population.
 
-The primary measure of effectiveness was the percent reduction from baseline in weekly PGTC seizure frequency for KEPPRA and placebo treatment groups over the treatment period (titration + evaluation periods).
-There was a statistically significant decrease from baseline in PGTC frequency in the KEPPRA-treated patients compared to the placebo-treated patients.
+There was a statistically significant decrease from baseline in PGTC frequency in the KEPPRA-treated patients compared to the placebo-treated patients in Study 7 (see Table 16).
 
-Table 13: Median Percent Reduction From Baseline In PGTC Seizure Frequency Per Week
+Table 16: Median Percent Reduction From Baseline In PGTC Seizure Frequency Per Week in Study 7
 
 |  | Placebo (N=84) | KEPPRA (N=78) |
 | --- | --- | --- |
 | Percentage reduction in PGTC seizure frequency | 44.6% | 77.6%statistically significant versus placebo |
 
-The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in PGTC seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
+The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in PGTC seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 6.
 
-Figure 4: Responder Rate (≥50% Reduction From Baseline) In PGTC Seizure Frequency Per Week
+Figure 6: Responder Rate (≥50% Reduction From Baseline) In PGTC Seizure Frequency Per Week in Study 7
 
-* statistically significant versus placebo
+| * statistically significant versus placebo |
+| --- |

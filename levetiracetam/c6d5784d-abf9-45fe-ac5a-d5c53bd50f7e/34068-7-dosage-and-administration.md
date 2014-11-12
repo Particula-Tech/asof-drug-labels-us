@@ -1,55 +1,83 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Information
+## 2.1 Partial Onset Seizures
 
-KEPPRA injection is for intravenous use only and must be diluted prior to administration.
-KEPPRA injection (500 mg/5 mL) should be diluted in 100 mL of a compatible diluent [see Dosage and Administration (2.7)] and administered intravenously as a 15-minute IV infusion.
+Adults 16 Years and Older
 
+Initiate treatment with a daily dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
+Additional dosing increments may be given (1000 mg/day additional every 2 weeks) to a maximum recommended daily dose of 3000 mg.
+There is no evidence that doses greater than 3000 mg/day confer additional benefit.
+
+Pediatric Patients
+
+1 Month to < 6 Months
+
+Initiate treatment with a daily dose of 14 mg/kg in 2 divided doses (7 mg/kg twice daily).
+Increase the daily dose every 2 weeks by increments of 14 mg/kg to the recommended daily dose of 42 mg/kg (21 mg/kg twice daily).
+In the clinical trial, the mean daily dose was 35 mg/kg in this age group.
+The effectiveness of lower doses has not been studied.
+
+6 Months to < 4 Years
+
+Initiate treatment with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
+Increase the daily dose in 2 weeks by an increment of 20 mg/kg to the recommended daily dose of 50 mg/kg (25 mg/kg twice daily).
+If a patient cannot tolerate a daily dose of 50 mg/kg, the daily dose may be reduced.
+In the clinical trial, the mean daily dose was 47 mg/kg in this age group.
+
+4 Years to < 16 Years
+
+Initiate treatment with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
+Increase the daily dose every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
+If a patient cannot tolerate a daily dose of 60 mg/kg, the daily dose may be reduced.
+In the clinical trial, the mean daily dose was 44 mg/kg.
+The maximum daily dose was 3000 mg/day.
+
+## 2.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
+
+Initiate treatment with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
+Increase the dosage by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
+The effectiveness of doses lower than 3000 mg/day has not been studied.
+
+## 2.3 Primary Generalized Tonic-Clonic Seizures
+
+Adults 16 Years and Older
+
+Initiate treatment with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
+Increase dosage by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
+The effectiveness of doses lower than 3000 mg/day has not been adequately studied.
+
+Pediatric Patients Ages 6 to <16 Years
+
+Initiate treatment with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
+Increase the daily dose every 2 weeks by increments of 20 mg/kg (10 mg/kg twice daily) to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
+The effectiveness of doses lower than 60 mg/kg/day has not been adequately studied.
+
+## 2.4 Switching from Oral Dosing
+
+When switching from oral KEPPRA, the initial total daily intravenous dosage of KEPPRA should be equivalent to the total daily dosage and frequency of oral KEPPRA.
+
+## 2.5 Switching to Oral Dosing
+
+At the end of the intravenous treatment period, the patient may be switched to KEPPRA oral administration at the equivalent daily dosage and frequency of the intravenous administration.
+
+## 2.6 Preparation and Administration Instructions
+
+KEPPRA injection is for intravenous use only and should be diluted in 100 mL of a compatible diluent prior to administration.
+If a smaller volume is required (e.g. pediatric patients), the amount of diluent should be calculated to not exceed a maximum levetiracetam concentration of 15 mg per mL of diluted solution.
+Consideration should also be given to the total daily fluid intake of the patient.
+KEPPRA injection should be administered as a 15-minute IV infusion.
+One vial of KEPPRA injection contains 500 mg levetiracetam (500 mg/5 mL).
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 Product with particulate matter or discoloration should not be used.
 
 Any unused portion of the KEPPRA injection vial contents should be discarded.
 
-## 2.2 Initial Exposure to KEPPRA
+Adults
 
-KEPPRA can be initiated with either intravenous or oral administration.
+See Table 1 for the recommended preparation and administration of KEPPRA injection for adults to achieve a dose of 500 mg, 1000 mg, or 1500 mg.
 
-Partial Onset Seizures
-
-In clinical trials of oral KEPPRA, daily doses of 1000 mg, 2000 mg, and 3000 mg, given as twice-daily dosing, were shown to be effective.
-Although in some studies there was a tendency toward greater response with higher dose [see Clinical Studies (14.1)], a consistent increase in response with increased dose has not been shown.
-
-Treatment should be initiated with a daily dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
-Additional dosing increments may be given (1000 mg/day additional every 2 weeks) to a maximum recommended daily dose of 3000 mg.
-Doses greater than 3000 mg/day have been used in open-label studies with KEPPRA tablets for periods of 6 months and longer.
-There is no evidence that doses greater than 3000 mg/day confer additional benefit.
-
-Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
-
-Treatment should be initiated with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
-Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
-The effectiveness of doses lower than 3000 mg/day has not been studied.
-
-Primary Generalized Tonic-Clonic Seizures
-
-Treatment should be initiated with a dose of 1000 mg/day, given as twice-daily dosing (500 mg BID).
-Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
-The effectiveness of doses lower than 3000 mg/day has not been adequately studied.
-
-## 2.3 Replacement Therapy
-
-When switching from oral KEPPRA, the initial total daily intravenous dosage of KEPPRA should be equivalent to the total daily dosage and frequency of oral KEPPRA and should be administered as a 15-minute intravenous infusion following dilution in 100 mL of a compatible diluent.
-
-## 2.4 Switching to Oral Dosing
-
-At the end of the intravenous treatment period, the patient may be switched to KEPPRA oral administration at the equivalent daily dosage and frequency of the intravenous administration.
-
-## 2.5 Dosing Instructions
-
-KEPPRA injection is for intravenous use only and must be diluted prior to administration.
-One vial of KEPPRA injection contains 500 mg levetiracetam (500 mg/5 mL).
-See Table 1 for the recommended preparation and administration of KEPPRA injection to achieve a dose of 500 mg, 1000 mg, or 1500 mg.
-
-Table 1: Preparation And Administration Of KEPPRA Injection
+Table 1: Preparation and Administration of KEPPRA Injection for Adults
 
 | Dose | Withdraw Volume | Volume of Diluent | Infusion Time |
 | --- | --- | --- | --- |
@@ -57,13 +85,24 @@ Table 1: Preparation And Administration Of KEPPRA Injection
 | 1000 mg | 10 mL (two 5 mL vials) | 100 mL | 15 minutes |
 | 1500 mg | 15 mL (three 5 mL vials) | 100 mL | 15 minutes |
 
-For example, to prepare a 1000 mg dose, dilute 10 mL of KEPPRA injection in 100 mL of a compatible diluent [see Dosage and Administration (2.7)] and administer intravenously as a 15-minute infusion.
+For example, to prepare a 1000 mg dose, dilute 10 mL of KEPPRA injection in 100 mL of a compatible diluent and administer intravenously as a 15-minute infusion.
 
-## 2.6 Adult Patients with Impaired Renal Function
+Pediatric Patients
+
+When using KEPPRA injection for pediatric patients, dosing is weight-based (mg per kg).
+
+The following calculation should be used to determine the appropriate daily dose of KEPPRA injection for pediatric patients:
+
+| Total daily dose (mL/day) = | Daily dose (mg/kg/day) × patient weight (kg) |
+| --- | --- |
+| 100 mg/mL |  |
+
+## 2.7 Dosage Adjustments in Adult Patients with Renal Impairment
 
 KEPPRA dosing must be individualized according to the patient's renal function status.
-Recommended doses and adjustment for dose for adults are shown in Table 2.
-In order to calculate the dose recommended for patients with renal impairment, creatinine clearance adjusted for body surface area must be calculated.
+Recommended dosage adjustments for adults with renal impairment are shown in Table 2.
+Information is unavailable for dosage adjustments in pediatric patients with renal impairment.
+In order to calculate the dose recommended for adult patients with renal impairment, creatinine clearance adjusted for body surface area must be calculated.
 To do this an estimate of the patient's creatinine clearance (CLcr) in mL/min must first be calculated using the following formula:
 
 | CLcr= | [140-age (years)] × weight (kg) | (× 0.85 for female patients) |
@@ -76,7 +115,7 @@ Then CLcr is adjusted for body surface area (BSA) as follows:
 | --- | --- | --- |
 | BSA subject (m2) |  |  |
 
-Table 2: Dosing Adjustment Regimen For Adult Patients With Impaired Renal Function
+Table 2: Dosage Adjustment Regimen for Adult Patients with Renal Impairment
 
 | Group | Creatinine Clearance (mL/min/1.73m2) | Dosage (mg) | Frequency |
 | --- | --- | --- | --- |
@@ -86,14 +125,24 @@ Table 2: Dosing Adjustment Regimen For Adult Patients With Impaired Renal Functi
 | Severe | < 30 | 250 to 500 | Every 12 hours |
 | ESRD patients using dialysis | ------- | 500 to 1,000Following dialysis, a 250 to 500 mg supplemental dose is recommended. | Every 24 hours |
 
-## 2.7 Compatibility and Stability
+## 2.8 Compatibility and Stability
 
-KEPPRA injection was found to be physically compatible and chemically stable when mixed with the following diluents and antiepileptic drugs for at least 24 hours and stored in polyvinyl chloride (PVC) bags at controlled room temperature 15-30˚C (59-86˚F).
+KEPPRA injection was found to be physically compatible and chemically stable when mixed with the following diluents and antiepileptic drugs for at least 24 hours and stored in polyvinyl chloride (PVC) bags at controlled room temperature 15-30°C (59-86°F).
 
-Diluents Sodium chloride (0.9%) injection, USP Lactated Ringer's injection Dextrose 5% injection, USP
+Diluents
 
-Other Antiepileptic Drugs Lorazepam Diazepam Valproate sodium
+Sodium chloride (0.9%) injection, USP
+
+Lactated Ringer's injection
+
+Dextrose 5% injection, USP
+
+Other Antiepileptic Drugs
+
+Lorazepam
+
+Diazepam
+
+Valproate sodium
 
 There is no data to support the physical compatibility of KEPPRA injection with antiepileptic drugs that are not listed above.
-
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.

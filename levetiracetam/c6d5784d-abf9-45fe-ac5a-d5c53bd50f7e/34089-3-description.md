@@ -13,4 +13,4 @@ It is freely soluble in chloroform (65.3 g/100 mL) and in methanol (53.6 g/100 m
 
 KEPPRA injection contains 100 mg of levetiracetam per mL.
 It is supplied in single-use 5 mL vials containing 500 mg levetiracetam, water for injection, 45 mg sodium chloride, and buffered at approximately pH 5.5 with glacial acetic acid and 8.2 mg sodium acetate trihydrate.
-KEPPRA injection must be diluted prior to intravenous infusion [see Dosage and Administration (2.1)].
+KEPPRA injection must be diluted prior to intravenous infusion [see Dosage and Administration (2.6)].
