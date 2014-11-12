@@ -1,7 +1,16 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL-Locoid Cream 15 g carton
 
-Locoid Cream 45g carton
+NDC 16781-382-15
 
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+Locoid® (hydrocortisone butyrate)
 
-Locoid Cream 15g carton
+Cream, 0.1%
+
+For topical use only.
+
+Not for ophthalmic use.
+
+Rx only
+
+Net Wt.
+15 grams
