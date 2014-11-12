@@ -46,11 +46,9 @@ Bottle of 500 NDC 13668-270-05
 
 Bottle of 1000 NDC 13668-270-10
 
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from light and moisture.
 Dispense in a tight, light-resistant container as defined in the USP.
-
-Trademarks are the property of their respective owners.
 
 Manufactured by:
 
@@ -61,4 +59,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8046800 Revised March 2014
+8051523 Revised October 2014

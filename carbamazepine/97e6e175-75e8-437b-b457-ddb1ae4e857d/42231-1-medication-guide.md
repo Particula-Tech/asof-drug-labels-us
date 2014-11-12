@@ -167,7 +167,7 @@ These include:
 - loss of appetite
 - nausea or vomiting
 
-Get medical help right away if you have any of the symptoms listed above or listed in "What is the most important information I should know about carbamazepine tablets or chewable tablets".
+Get medical help right away if you have any of the symptoms listed above or listed in "What is the most important information I should know about carbamazepine tablets or chewable tablets?"
 
 The most common side effects of carbamazepine tablets or chewable tablets include:
 
@@ -187,7 +187,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store carbamazepine tablets or chewable tablets?
 
-- Store carbamazepine tablets or chewable tablets at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+- Store carbamazepine tablets or chewable tablets at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
   Protect from light and moisture.
   Dispense in a tight, light-resistant container as defined in the USP.
 
@@ -218,6 +218,8 @@ Carbamazepine tablets (Chewable): artificial flavors, colloidal silicon dioxide,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Trademarks are the property of their respective owners.
+
 Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
@@ -227,4 +229,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8046801 Revised March 2014
+8051524 Revised October 2014
