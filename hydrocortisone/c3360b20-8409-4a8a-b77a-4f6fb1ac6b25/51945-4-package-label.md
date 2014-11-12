@@ -1,5 +1,13 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL-Locoid Solution – 60 mL Carton
 
-Locoid Solution 60mL
+NDC 16781-391-60
 
-Locoid Solution 60mL Carton
+Locoid®
+
+(hydrocortisone butyrate)
+
+Solution, 0.1%
+
+Rx only
+
+60 mL
