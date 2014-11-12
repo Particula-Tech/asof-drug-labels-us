@@ -1,3 +1,17 @@
-Locoid Lotion 2 fluid oz carton
+PRINCIPAL DISPLAY PANEL - Locoid® Lotion 2 fl oz Carton
 
-Locoid Lotion 4 fluid oz carton
+NDC 16781-392-02
+
+Locoid®
+
+(hydrocortisone butyrate)
+
+Lotion, 0.1%
+
+For topical use only.
+
+Not for eye use.
+
+Rx only
+
+2 fl oz (59 mL)

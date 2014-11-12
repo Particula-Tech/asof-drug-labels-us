@@ -1,12 +1,10 @@
 # 11 DESCRIPTION
 
-Locoid® Lotion contains hydrocortisone butyrate, a non- fluorinated hydrocortisone ester [Pregn-4-ene-3, 20-dione, 11, 21-dihydroxy-17- [(1-oxobutyl) oxy (11β)-] for topical dermatologic use.
-The topical corticosteroids constitute a class of primarily synthetic steroids used as anti-inflammatory and antipruritic agents.
-
-Chemically, hydrocortisone butyrate is C25H36O6.
+Locoid® (hydrocortisone butyrate) Lotion, 0.1% contains hydrocortisone butyrate, a non-fluorinated hydrocortisone ester, for topical use.
+The chemical name of hydrocortisone butyrate is 11ß,17,21-Trihydroxypregn-4-ene-3,20-dione 17-butyrate.
 It has the following structural formula:
 
-Hydrocortisone butyrate is a white to practically white powder with a molecular weight of 432.56.
+Hydrocortisone butyrate is a white to off white powder with a molecular weight of 432.56, and a molecular formula of C25H36O6.
 It is practically insoluble in water, slightly soluble in ether, soluble in methanol, in alcohol, and in acetone, and freely soluble in chloroform.
 
-Each gram of Locoid® Lotion contains 1 mg hydrocortisone butyrate in a base consisting of purified water, light mineral oil, cetostearyl alcohol, white petrolatum, ceteth-20, citric acid, sodium citrate, safflower oil and butylated hydroxytoluene (BHT), with propylparaben and butylparaben as preservatives.
+Each gram of Locoid® Lotion contains 1 mg of hydrocortisone butyrate in a white to off white lotion base consisting of anhydrous citric acid, ceteth-20, cetostearyl alcohol, butylated hydroxytoluene (BHT), butylparaben, light mineral oil, propylparaben, purified water, safflower oil, sodium citrate, and white petrolatum.
