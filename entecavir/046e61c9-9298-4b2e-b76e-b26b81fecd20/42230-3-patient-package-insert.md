@@ -10,40 +10,40 @@ This information does not take the place of talking with your healthcare provide
 
 What is the most important information I should know about BARACLUDE?
 
-1. 1.Your hepatitis B virus (HBV) infection may get worse if you stop taking BARACLUDE.
-   This usually happens within 6 months after stopping BARACLUDE.
-   - •Take BARACLUDE exactly as prescribed.
-   - •Do not run out of BARACLUDE.
-   - •Do not stop BARACLUDE without talking to your healthcare provider.
-   - •Your healthcare provider should monitor your health and do regular blood tests to check your liver if you stop taking BARACLUDE.
-2. 2.If you have or get HIV that is not being treated with medicines while taking BARACLUDE, the HIV virus may develop resistance to certain HIV medicines and become harder to treat.
-   You should get an HIV test before you start taking BARACLUDE and anytime after that when there is a chance you were exposed to HIV.
+- 1.Your hepatitis B virus (HBV) infection may get worse if you stop taking BARACLUDE.
+  This usually happens within 6 months after stopping BARACLUDE.
+  1. •Take BARACLUDE exactly as prescribed.
+  2. •Do not run out of BARACLUDE.
+  3. •Do not stop BARACLUDE without talking to your healthcare provider.
+  4. •Your healthcare provider should monitor your health and do regular blood tests to check your liver if you stop taking BARACLUDE.
+- 2.If you have or get HIV that is not being treated with medicines while taking BARACLUDE, the HIV virus may develop resistance to certain HIV medicines and become harder to treat.
+  You should get an HIV test before you start taking BARACLUDE and anytime after that when there is a chance you were exposed to HIV.
 
 BARACLUDE can cause serious side effects including:
 
-1. 3.Lactic acidosis (buildup of acid in the blood).
-   Some people who have taken BARACLUDE or medicines like BARACLUDE (a nucleoside analogue) have developed a serious condition called lactic acidosis.
-   Lactic acidosis is a serious medical emergency that can cause death.
-   Lactic acidosis must be treated in the hospital.
-   Reports of lactic acidosis with BARACLUDE generally involved patients who were seriously ill due to their liver disease or other medical condition.
-   Call your healthcare provider right away if you get any of the following signs or symptoms of lactic acidosis:
-   - •You feel very weak or tired.
-   - •You have unusual (not normal) muscle pain.
-   - •You have trouble breathing.
-   - •You have stomach pain with nausea and vomiting.
-   - •You feel cold, especially in your arms and legs.
-   - •You feel dizzy or light-headed.
-   - •You have a fast or irregular heartbeat.
-2. 4.Serious liver problems.
-   Some people who have taken medicines like BARACLUDE have developed serious liver problems called hepatotoxicity, with liver enlargement (hepatomegaly) and fat in the liver (steatosis).
-   Hepatomegaly with steatosis is a serious medical emergency that can cause death.
-   Call your healthcare provider right away if you get any of the following signs or symptoms of liver problems:
-   - •Your skin or the white part of your eyes turns yellow (jaundice).
-   - •Your urine turns dark.
-   - •Your bowel movements (stools) turn light in color.
-   - •You don’t feel like eating food for several days or longer.
-   - •You feel sick to your stomach (nausea).
-   - •You have lower stomach pain.
+- 3.Lactic acidosis (buildup of acid in the blood).
+  Some people who have taken BARACLUDE or medicines like BARACLUDE (a nucleoside analogue) have developed a serious condition called lactic acidosis.
+  Lactic acidosis is a serious medical emergency that can cause death.
+  Lactic acidosis must be treated in the hospital.
+  Reports of lactic acidosis with BARACLUDE generally involved patients who were seriously ill due to their liver disease or other medical condition.
+  Call your healthcare provider right away if you get any of the following signs or symptoms of lactic acidosis:
+  1. •You feel very weak or tired.
+  2. •You have unusual (not normal) muscle pain.
+  3. •You have trouble breathing.
+  4. •You have stomach pain with nausea and vomiting.
+  5. •You feel cold, especially in your arms and legs.
+  6. •You feel dizzy or light-headed.
+  7. •You have a fast or irregular heartbeat.
+- 4.Serious liver problems.
+  Some people who have taken medicines like BARACLUDE have developed serious liver problems called hepatotoxicity, with liver enlargement (hepatomegaly) and fat in the liver (steatosis).
+  Hepatomegaly with steatosis is a serious medical emergency that can cause death.
+  Call your healthcare provider right away if you get any of the following signs or symptoms of liver problems:
+  1. •Your skin or the white part of your eyes turns yellow (jaundice).
+  2. •Your urine turns dark.
+  3. •Your bowel movements (stools) turn light in color.
+  4. •You don’t feel like eating food for several days or longer.
+  5. •You feel sick to your stomach (nausea).
+  6. •You have lower stomach pain.
 
 You may be more likely to get lactic acidosis or serious liver problems if you are female, very overweight, or have been taking nucleoside analogue medicines, like BARACLUDE, for a long time.
 
@@ -171,10 +171,8 @@ Inactive ingredients in BARACLUDE Oral Solution: maltitol, sodium citrate, citri
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Product of Ireland
-
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-1323583
+1323583A0
 
-Revised: May 2014
+Revised: August 2014
