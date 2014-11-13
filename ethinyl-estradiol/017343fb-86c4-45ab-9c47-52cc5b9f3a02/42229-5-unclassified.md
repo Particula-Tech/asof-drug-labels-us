@@ -7,9 +7,7 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2001-2012 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 12/2013
-
-uspi-mk8342a-rng-1312r05
+uspi-mk8342a-rng-1411r006
 
 Instructions for Use
 
@@ -133,7 +131,7 @@ What If I leave NuvaRing in too long?
 
 What should I do if my NuvaRing comes out of my vagina?
 
-NuvaRing can slip or accidentally come out (expelled) of your vagina during sexual intercourse, bowel movements, use of tampons, or if it breaks.
+NuvaRing can slip or accidentally come out (expelled) of your vagina, for example, during sexual intercourse, bowel movements, use of tampons, or if it breaks.
 
 - NuvaRing may break causing the ring to lose its shape.
   If the ring stays in your vagina this should not lower NuvaRing's effectiveness at preventing pregnancy.
@@ -142,19 +140,20 @@ NuvaRing can slip or accidentally come out (expelled) of your vagina during sexu
 - You should pay attention when removing a tampon to be sure that your NuvaRing is not accidentally pulled out.
   - Be sure to insert NuvaRing before inserting a tampon.
   - If you accidentally pull out your NuvaRing while using tampons, rinse your NuvaRing in cool to lukewarm (not hot) water and insert it again right away.
-- NuvaRing can be pushed out of (expelled from) your vagina during sexual intercourse or during a bowel movement.
-  - If the expelled ring has been left out of your vagina for less than 3 hours, rinse the expelled NuvaRing in cool to lukewarm (not hot) water and insert it again right away.
-  - If the expelled NuvaRing has been out of your vagina for more than 3 hours, insert a new NuvaRing as soon as you remember (See Step 1 thru Step 4).Option 1.
-    Insert a new ring right away to start your 21 Day NuvaRing use cycle.
-    You may not have your regular period but you may have spotting or vaginal bleeding.
-    Option 2.
-    Insert a new ring no later than 7 days, from the time the previous ring was removed or expelled.
-    During this time, you may have your period.
-    Note: You should only choose to do option 2 if you used NuvaRing for 7 days in a row, prior to the day that your previous NuvaRing was accidently removed or expelled.
-    With either option 1 or 2, you should use another birth control method such as male condoms with spermicides until the new NuvaRing has been used for 7 days in a row.
-    - During Weeks 1 and 2 after you have inserted your new NuvaRing, you may not be protected from pregnancy.
-      You should use another birth control method, such as male condoms with spermicide, until the ring has been in place for 7 days in a row.
-    - At the end of Week 3, you should remove the NuvaRing and throw it away in your household trash away from children and pets and follow one of the two options below:
+- NuvaRing can be pushed out of (expelled from) your vagina, for example, during sexual intercourse or during a bowel movement.
+  - If the expelled ring has been out of your vagina for less than 3 hours, rinse the expelled NuvaRing in cool to lukewarm (not hot) water and insert it again right away.
+  - If the expelled NuvaRing has been out of your vagina for more than 3 continuous hours:Note: You should only choose to do option 2 if you used NuvaRing for 7 days in a row, prior to the day that your previous NuvaRing was accidently removed or expelled.
+    - During Weeks 1 and 2, you may not be protected from pregnancy.
+      Reinsert the ring as soon as you remember (See Steps 1 through 4).
+      Use another birth control method, such as male condoms with spermicide, until the ring has been in place for 7 days in a row.
+    - During Week 3, do not reinsert the NuvaRing that has been out of your vagina; but throw it away in your household trash away from children and pets.
+      Use another birth control method, such as male condoms with spermicide, until the new NuvaRing has been used for 7 days in a row, following one of the two options below:
+      - -Option 1.
+        Insert a new ring right away to start your next 21 Day NuvaRing use cycle.
+        You may not have your regular period but you may have spotting or vaginal bleeding.
+      - -Option 2.
+        Insert a new ring no later than 7 days from the time the previous ring was removed or expelled.
+        During this time, you may have your period.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
@@ -167,6 +166,6 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2001-2012 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 12/2013
+Revised: 10/2014
 
-usppi-mk8342a-rng-1312r05
+usppi-mk8342a-rng-1410r006
