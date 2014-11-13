@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA050649"
+  ],
+  "inn": "minocycline",
+  "labeler": "Onset Dermatologics LLC",
+  "package_ndcs": [
+    "16781-400-05",
+    "16781-400-60",
+    "16781-403-05",
+    "16781-403-60",
+    "16781-457-05",
+    "16781-457-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, COATED PELLETS",
+      "generic": "minocycline hydrochloride",
+      "name": "Minocin"
+    }
+  ],
+  "setid": "39aee369-b5dc-4ff4-98de-06fb4189c733",
+  "source": "dailymed"
+}
