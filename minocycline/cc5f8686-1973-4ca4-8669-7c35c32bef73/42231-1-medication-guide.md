@@ -30,19 +30,19 @@ See the end of this leaflet for a complete list of ingredients in MINOCIN®.
 
 MINOCIN® is not recommended for pregnant women or children up to 8 years old because:
 
-1. MINOCIN® may harm an unborn baby
-2. MINOCIN® may permanently turn a baby’s or child’s teeth yellow-gray-brown during tooth development.
-   Tooth development happens in the last half of pregnancy and birth to age 8 years.
+- 1.MINOCIN® may harm an unborn baby
+- 2.MINOCIN® may permanently turn a baby’s or child’s teeth yellow-gray-brown during tooth development.
+  Tooth development happens in the last half of pregnancy and birth to age 8 years.
 
 WHAT SHOULD I TELL MY DOCTOR BEFORE STARTING MINOCIN® CAPSULES?
 
 Tell your doctor about all of your medical conditions, including if you:
 
-- Have liver or kidney problems
-- Are pregnant or planning to become pregnant.
+- •Have liver or kidney problems
+- •Are pregnant or planning to become pregnant.
   MINOCIN® may harm your unborn baby.
   Stop taking MINOCIN® and call your doctor if you become pregnant while taking it.
-- Are breast feeding.
+- •Are breast feeding.
   MINOCIN® passes into your milk and may harm your baby.
   You should decide whether to use MINOCIN® or breastfeed, but not both.
 
@@ -50,51 +50,51 @@ Tell your doctor about all the medicines you are taking including prescription a
 MINOCIN® and other medicines may interact.
 Especially tell your doctor if you take:
 
-- Birth control pills.
+- •Birth control pills.
   MINOCIN® may make your birth control pills less effective
-- A blood thinner medicine.
+- •A blood thinner medicine.
   The dose of your blood thinner may have to be lowered.
-- A penicillin antibiotic medicine.
+- •A penicillin antibiotic medicine.
   MINOCIN® and penicillins should not be used together.
-- Migraine medicines called ergot alkaloids
-- An acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret)
-- Antacids that contain aluminum, calcium, or magnesium, or iron-containing products.
+- •Migraine medicines called ergot alkaloids
+- •An acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret)
+- •Antacids that contain aluminum, calcium, or magnesium, or iron-containing products.
 
 Know the medicines you take, keep a list of them to show your doctor and pharmacist each time you get a new medicine.
 
 HOW SHOULD I TAKE MINOCIN® CAPSULES?
 
-- Take MINOCIN® capsules exactly as your doctor tells you to take them.
+- •Take MINOCIN® capsules exactly as your doctor tells you to take them.
   Skipping doses or not taking all your MINOCIN® may:
-  - Decrease the effectiveness of the treatment
-  - Increase the chance that bacteria will develop resistance to MINOCIN®
-- Take MINOCIN® with a full glass of liquid.
+  - • Decrease the effectiveness of the treatment
+  - •Increase the chance that bacteria will develop resistance to MINOCIN®
+- •Take MINOCIN® with a full glass of liquid.
   Taking MINOCIN® with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
   Your esophagus is the tube that connects your mouth to your stomach.
-- MINOCIN® capsules may be taken with or without food.If you forget to take MINOCIN®, take it as soon as you remember.
-- If you take too much MINOCIN®, call you doctor or poison control center right away.
+- •MINOCIN® capsules may be taken with or without food.If you forget to take MINOCIN®, take it as soon as you remember.
+- •If you take too much MINOCIN®, call you doctor or poison control center right away.
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF MINOCIN®?
 
 MINOCIN® may cause serious side effects.
 Stop MINOCIN® and call your doctor if you have:
 
-- Watery diarrhea
-- Bloody stools
-- Stomach cramps
-- Unusual headaches
-- Blurred vision
-- Fever
-- Rash
-- Joint pain
-- Feeling very tired
+- •Watery diarrhea
+- •Bloody stools
+- •Stomach cramps
+- •Unusual headaches
+- •Blurred vision
+- •Fever
+- •Rash
+- •Joint pain
+- •Feeling very tired
 
 MINOCIN® may also cause:
 
-- Central nervous system effects.
+- •Central nervous system effects.
   Symptoms include light-headedness, dizziness, and a spinning feeling (vertigo).
   You should not drive or operate machines if you have these symptoms.
-- Sun sensitivity (photosensitivity).
+- •Sun sensitivity (photosensitivity).
   You may get a worse sunburn with MINOCIN®.
   Avoid sun exposure and the use of sunlamps or tanning beds.
   Protect your skin while out in the sunlight.
@@ -105,9 +105,9 @@ Ask your doctor or pharmacist for more information.
 
 HOW SHOULD I STORE MINOCIN® CAPSULES?
 
-- Store MINOCIN® capsules at room temperature and away from excess heat and moisture.
-- Throw away any MINOCIN® that is outdated or no longer needed.
-- Keep MINOCIN® capsules and all medicines out of the reach of children.
+- •Store MINOCIN® capsules at room temperature and away from excess heat and moisture.
+- •Throw away any MINOCIN® that is outdated or no longer needed.
+- •Keep MINOCIN® capsules and all medicines out of the reach of children.
 
 GENERAL ADVICE ABOUT MINOCIN® CAPSULES
 
