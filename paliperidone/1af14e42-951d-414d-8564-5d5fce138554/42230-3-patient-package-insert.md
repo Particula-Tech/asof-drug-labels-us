@@ -182,7 +182,4 @@ Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 © Janssen Pharmaceuticals, Inc. 2009
 
-November 2014
-
-1 Illustrations in the Instructions for Use (IFU) are revised to show the backstop component attached to the syringe.
-2 Module 3.2.P.7 Container Closure System - R092670 Extended Release Suspension for Injection
+April 2014
