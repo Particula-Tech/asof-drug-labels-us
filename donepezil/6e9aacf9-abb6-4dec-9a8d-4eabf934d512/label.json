@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA203907"
+  ],
+  "inn": "donepezil",
+  "labeler": "ScieGen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50228-139-10",
+    "50228-139-30",
+    "50228-140-10",
+    "50228-140-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "donepezil hydrochloride",
+      "name": "Donepezil Hydrochloride"
+    }
+  ],
+  "setid": "6e9aacf9-abb6-4dec-9a8d-4eabf934d512",
+  "source": "dailymed"
+}
