@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA205649"
+  ],
+  "inn": "dapagliflozin",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
+  "package_ndcs": [
+    "0310-6250-30",
+    "0310-6250-95",
+    "0310-6260-30",
+    "0310-6260-60",
+    "0310-6260-94",
+    "0310-6260-95",
+    "0310-6270-30",
+    "0310-6270-95",
+    "0310-6280-30",
+    "0310-6280-95"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "dapagliflozin and metformin hydrochloride",
+      "name": "XIGDUO"
+    }
+  ],
+  "setid": "ac8a0f7b-9f69-4495-abbc-3a47cd75a859",
+  "source": "dailymed"
+}
