@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA074513"
+  ],
+  "inn": "etoposide",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-265-22",
+    "68001-265-23",
+    "68001-265-24",
+    "68001-265-25",
+    "68001-265-26",
+    "68001-265-27"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "etoposide",
+      "name": "Etoposide"
+    }
+  ],
+  "setid": "157d4e0f-806d-4011-9dec-97e2449e507b",
+  "source": "dailymed"
+}
