@@ -66,7 +66,7 @@ This procedure uses paper disks impregnated with 10 units of penicillin to test 
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for penicillin.
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 10 unit penicillin disk should be interpreted according to the following criteria in Table 1.
 
-Table 1: Susceptibility Test Interpretive Criteria for Penicillin2,4
+Table 1:Susceptibility Test Interpretive Criteria for Penicillin2,4
 
 |  | MIC (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm)Organisms for which no values for disk susceptibility appear cannot be reliably tested with this method |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ In Vitro Susceptibility Test Quality Control Ranges for Penicillin
 
 |  | MIC range | Disk diffusion |
 | --- | --- | --- |
-| Organism (ATCC #) | mcg/mL | range (mm) |
+| Organism (ATTC #) | mcg/mL | range (mm) |
 | Staphylococcus aureus (29213) | 0.25 - 2 | Not applicable |
 | Staphylococcus aureus (25923) | Not applicable | 26 - 37 |
 | Streptococcus pneumoniae (49619) | 0.25 - 1 | 24 - 30 |

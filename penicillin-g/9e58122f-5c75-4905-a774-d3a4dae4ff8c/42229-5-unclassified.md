@@ -18,11 +18,12 @@ If leaks are detected, discard solution as sterility may be impaired.
 
 Do not add supplementary medication.
 
-The container should be visually inspected.
+Visually inspect the container.
+If the outlet port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
 Components of the solution may precipitate in the frozen state and will dissolve upon reaching room temperature with little or no agitation.
 Potency is not affected.
 Agitate after solution has reached room temperature.
-If after visual inspection the solution remains cloudy or if an insoluble precipitate is noted or if any seals or outlet ports are not intact, the container should be discarded.
+If after visual inspection the solution remains cloudy or if an insoluble precipitate is noted, or if any seals are not intact, the container should be discarded.
 The thawed solution is stable for 14 days under refrigeration (5°C/41°F) or for 24 hours at room temperature (25°C/77°F).
 Do not refreeze thawed antibiotics.
 
@@ -31,10 +32,10 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 ## Preparation for Intravenous Administration:
 
-1. Suspend container from eyelet support.
-2. Remove protector from outlet port at bottom of container.
-3. Attach administration set.
-   Refer to complete directions accompanying set.
+- 1.Suspend container from eyelet support.
+- 2.Remove protector from outlet port at bottom of container.
+- 3.Attach administration set.
+  Refer to complete directions accompanying set.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
@@ -46,7 +47,7 @@ Clinistix is a trademark of Bayer Healthcare LLC.
 
 Clinitest is a trademark of Siemens Healthcare Diagnostics Inc.
 
-07-19-66-587
+07-19-73-083
 
 Rev.
-April 2012
+June 2014

@@ -1,5 +1,7 @@
 # PRINCIPAL DISPLAY PANEL - PACKAGING LABELING
 
+Container Label
+
 Baxter Logo
 
 Penicillin G Potassium Injection, USP 1,000,000 units
