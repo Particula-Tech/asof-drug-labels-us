@@ -1,4 +1,2 @@
-Manufactured by: Sun Pharmaceutical Ind.
-Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
-Distributed by: Caraco Pharmaceutical Laboratories, Ltd. 1150 Elijah McCoy Drive Detroit, MI 48202 PJPI0307F ISS.
-07/2012
+Distributed by: Sun Pharmaceutical Indusries, Inc. Cranbury, NJ 08512 PJPI0307G ISS.
+11/2014

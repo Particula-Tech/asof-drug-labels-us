@@ -16,4 +16,4 @@ Retain in the original package to protect from bright light.
 ## 16.3 Handling and Disposal
 
 Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published [see References (15)] .
+Several guidelines on this subject have been published [see References (15)].

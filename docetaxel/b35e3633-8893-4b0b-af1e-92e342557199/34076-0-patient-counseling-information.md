@@ -2,9 +2,12 @@
 
 See FDA-Approved Patient Labeling
 
+- Explain to patients the possible effects of the alcohol content in Docetaxel Injection, including possible effects on the central nervous system.
+  Patients in whom alcohol should be avoided or minimized should consider the alcohol content of Docetaxel Injection.
+  Alcohol could impair their ability to drive or use machines immediately after infusion.
 - DOCEFREZ may cause fetal harm.
   Advise patients to avoid becoming pregnant while receiving this drug.
-  Women of childbearing potential should use effective contraceptives if receiving DOCEFREZ [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+  Women of childbearing potential should use effective contraceptives if receiving DOCEFREZ [see Warnings and Precautions (5.12) and Use in Specific Populations (8.1)].
 - Obtain detailed allergy and concomitant drug information from the patient prior to DOCEFREZ administration.
 - Explain the significance of oral corticosteroids such as dexamethasone administration to the patient to help facilitate compliance.
   Instruct patients to report if they were not compliant with oral corticosteroid regimen.
@@ -17,9 +20,10 @@ See FDA-Approved Patient Labeling
 
 Patient Information
 
-DOCEFREZ™ (‘dō-sə-‘frāz) (docetaxel) for Injection Read this Patient Information before you receive your first treatment with DOCEFREZ and each time before you are treated.
+DOCEFREZ™(‘dō-sə-‘frāz) (docetaxel) for Injection Read this Patient Information before you receive your first treatment with DOCEFREZ and each time before you are treated.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
+
 What is the most important information I should know about DOCEFREZ?
 DOCEFREZ can cause serious side effects, including death.
 
@@ -35,7 +39,7 @@ DOCEFREZ can cause serious side effects, including death.
    The earliest sign of infection may be fever.
    Follow your doctor’s instructions for how often to take your temperature while taking DOCEFREZ.
    Call your doctor right away if you have a fever.
-3. Serious allergic reactions can happen in people who take DOCEFREZ.
+3. Serious allergic reactionscan happen in people who take DOCEFREZ.
    Serious allergic reactions are medical emergencies that can lead to death and must be treated right away.
    Tell your doctor right away if you have any of these signs of a serious allergic reaction:
    - trouble breathing
@@ -48,15 +52,17 @@ DOCEFREZ can cause serious side effects, including death.
    Tell your doctor or nurse before your DOCEFREZ treatment if you forget to take corticosteroid dose or do not take it as your doctor tells you.
 
 What is DOCEFREZ?
+
 DOCEFREZ is a prescription anti-cancer medicine used to treat certain people with:
 
 - breast cancer
 - non-small cell lung cancer
 - prostate cancer
 
-The effectiveness of DOCEFREZ in children has not been established.
-Who should not take DOCEFREZ?
-Do not take DOCEFREZ if you:
+It is not known if DOCEFREZ is effective in children.
+Who should not receive DOCEFREZ?
+
+Do not receive DOCEFREZ if you:
 
 - have had a severe allergic reaction to:
   - docetaxel, the active ingredient in DOCEFREZ, or
@@ -71,37 +77,40 @@ What should I tell my doctor before receiving DOCEFREZ?
 Before you receive DOCEFREZ, tell your doctor if you:
 
 - are allergic to any medicines.
-  See “Who should not take DOCEFREZ?”
-  Also, see the end of this leaflet for a list of the ingredients in DOCEFREZ.
+  See “Who should not receive DOCEFREZ?”
+  Also, see the end of this leaflet for a complete list of the ingredients in DOCEFREZ.
 - have liver problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
   DOCEFREZ can harm your unborn baby.
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   It is not known if DOCEFREZ passes into your breast milk.
-  You and your doctor should decide if you will take DOCEFREZ or breast-feed.
+  You and your doctor should decide if you will receive DOCEFREZ or breastfeed.
 
-Tell your doctor about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 DOCEFREZ may affect the way other medicines work, and other medicines may affect the way DOCEFREZ works.
 Know the medicines you take.
-Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
+Keep a list of them show to your doctor and pharmacist when you get a new medicine.
 How will I receive DOCEFREZ?
 
 - DOCEFREZ will be given to you as an intravenous injection into your vein, usually over 1 hour.
 - DOCEFREZ is usually given every 3 weeks.
 - Your doctor will decide how long you will receive treatment with DOCEFREZ
 - Your doctor will check your blood cell counts and other blood tests during your treatment with DOCEFREZ to check for side effects of DOCEFREZ.
-- Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while taking DOCEFREZ.
+- Your doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while receiving DOCEFREZ.
 
 What are the possible side effects of DOCEFREZ?
 DOCEFREZ may cause serious side effects including death.
 
 - See “What is the most important information I should know about DOCEFREZ?”
 - Acute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who take DOCEFREZ along with certain other medicines.
-  Tell your doctor about all the medicines you take.
 - Other Blood Disorders – Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with Docefrez.
 - Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
 - Neurologic Symptoms including numbness, tingling, or burning in your hands and feet.
+- Vision Problems including blurred vision or loss of vision.
+- Docetaxel Injection contains alcohol.
+  The alcohol content in Docetaxel Injection may impair your ability to drive or use machinery right after receiving Docetaxel Injection.
+  Consider whether you should drive, operate machinery or do other dangerous activities right after you receive Docetaxel Injection treatment.
 
 The most common side effects of DOCEFREZ include:
 
@@ -127,14 +136,17 @@ These are not all the possible side effects of DOCEFREZ.
 For more information ask your doctor or pharmacist.
 Call your doctor or for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
+
 General information about DOCEFREZ Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 This Patient Information leaflet summarizes the most important information about DOCEFREZ.
 If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about DOCEFREZ that is written for healthcare professionals.
-For more information contact Caraco Pharmaceutical Laboratories, Ltd. at 1-800-818-4555.
+You can ask your pharmacist or doctor for information about DOCEFREZ that is written for health professionals.
+For more information, call 1-800-818-4555.
 What are the ingredients in DOCEFREZ?
 Active ingredient: docetaxel Inactive ingredients include: ethanol in polysorbate 80 (Diluent)
 
-| Every three-week injection of DOCEFREZ for breast, and non-small cell lung cancers Take your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Day 1 Date:_________ Time:______AM _______PM Day 2 Date:_________ Time:______AM _______PM (DOCEFREZ Treatment Day) Day 3 Date:_________ Time:______AM _______PM |
+| Every three-week injection of DOCEFREZ for breast, and non-small cell lung cancers Take your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Day 1Date:_________ Time:______AM _______PM Day 2Date:_________ Time:______AM _______PM (DOCEFREZ Treatment Day) Day 3Date:_________ Time:______AM _______PM |
 | --- |
 | Every three-week injection of DOCEFREZ for prostate cancer Take your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Date:___________ Time:___________ Date:___________ Time:___________ (DOCEFREZ Treatment Day) Time:___________ |
+
+This Patient Information has been approved bythe U.S. Food and Drug Administration.

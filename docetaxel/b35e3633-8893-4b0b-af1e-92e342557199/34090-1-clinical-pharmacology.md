@@ -7,22 +7,25 @@ Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable
 This leads to the production of microtubule bundles without normal function and to the stabilization of microtubules, which results in the inhibition of mitosis in cells.
 Docetaxel’s binding to microtubules does not alter the number of protofilaments in the bound microtubules, a feature which differs from most spindle poisons currently in clinical use.
 
-## 12.3 Pharmacokinetics
+## 12.3 Human Pharmacokinetics
 
-Absorption: The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20 mg/m 2 to 115 mg/m 2 in phase 1 studies.
-The area under the curve (AUC) was dose proportional following doses of 70 mg/m 2 to 115 mg/m 2 with infusion times of 1 to 2 hours.
-Docetaxel’s pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the α, β, and γ phases of 4 min, 36 min, and 11.1 hour, respectively.
-Mean total body clearance was 21 L/h/m 2 .
+Absorption: The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20 mg/m2 to 115 mg/m2 in phase 1 studies.
+The area under the curve (AUC) was dose proportional following doses of 70 mg/m2 to 115 mg/m2 with infusion times of 1 to 2 hours.
+Docetaxel’s pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the
+
+α, β, and γ phases of 4 min, 36 min, and 11.1 hour, respectively.
+Mean total body clearance was 21 L/h/m2.
+
 Distribution: The initial rapid decline represents distribution to the peripheral compartments and the late (terminal) phase is due, in part, to a relatively slow efflux of docetaxel from the peripheral compartment.
-Mean steady state volume of distribution was 113 L. In vitro studies showed that docetaxel is about 94% protein bound, mainly to α 1 -acid glycoprotein, albumin, and lipoproteins.
+Mean steady state volume of distribution was 113 L. In vitro studies showed that docetaxel is about 94% protein bound, mainly to α1-acid glycoprotein, albumin, and lipoproteins.
 In three cancer patients, the in vitro binding to plasma proteins was found to be approximately 97%.
 Dexamethasone does not affect the protein binding of docetaxel.
-Metabolism: In vitro drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme, and its metabolism may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4 [see Drug Interactions (7)] .
-Elimination: A study of 14 C-docetaxel was conducted in three cancer patients.
-Docetaxel was eliminated in both the urine and feces following oxidative metabolism of the tert -butyl ester group, but fecal excretion was the main elimination route.
+Metabolism: In vitro drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme, and its metabolism may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4 [see Drug Interactions (7)].
+Elimination: A study of 14C-docetaxel was conducted in three cancer patients.
+Docetaxel was eliminated in both the urine and feces following oxidative metabolism of the tert-butyl ester group, but fecal excretion was the main elimination route.
 Within 7 days, urinary and fecal excretion accounted for approximately 6% and 75% of the administered radioactivity, respectively.
 About 80% of the radioactivity recovered in feces is excreted during the first 48 hours as 1 major and 3 minor metabolites with very small amounts (less than 8%) of unchanged drug.
-Effect of Age: A population pharmacokinetic analysis was carried out after docetaxel treatment of 535 patients dosed at 100 mg/m 2 .
+Effect of Age: A population pharmacokinetic analysis was carried out after docetaxel treatment of 535 patients dosed at 100 mg/m2.
 Pharmacokinetic parameters estimated by this analysis were very close to those estimated from phase 1 studies.
 The pharmacokinetics of docetaxel were not influenced by age.
 Effect of Gender: The population pharmacokinetics analysis described above also indicated that gender did not influence the pharmacokinetics of docetaxel.
@@ -31,9 +34,14 @@ This average, however, includes a substantial range and there is, at present, no
 Patients with combined abnormalities of transaminase and alkaline phosphatase should not be treated with DOCEFREZ.
 Patients with severe hepatic impairment have not been studied.
 [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
-Effect of Race: Mean total body clearance for Japanese patients dosed at the range of 10 mg/m 2 to 90 mg/m 2 was similar to that of European/American populations dosed at 100 mg/m 2 , suggesting no significant difference in the elimination of docetaxel in the two populations.
-Effect of Ketoconazole : The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
+Effect of Race: Mean total body clearance for Japanese patients dosed at the range of 10 mg/m2 to 90 mg/m2 was similar to that of European/American populations dosed at 100 mg/m2, suggesting no significant difference in the elimination of docetaxel in the two populations.
+Effect of Ketoconazole: The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
 Patients were randomized to receive either docetaxel (100 mg/m² intravenous) alone or docetaxel (10 mg/m² intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
-The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administration with ketoconazole [see Dosage and Administration (2.7) and Drug-Drug Interactions (7)] .
-Effect of Combination Therapies: Dexamethasone : Docetaxel total body clearance was not modified by pretreatment with dexamethasone.
-Prednisone : A population pharmacokinetic analysis of plasma data from 40 patients with hormone-refractory metastatic prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
+The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administration with ketoconazole [see Dosage and Administration (2.7) and Drug-Drug Interactions (7)].
+
+Effect of Combination Therapies: Dexamethasone: Docetaxel total body clearance was not modified by pretreatment with dexamethasone.
+
+Cisplatin: Clearance of docetaxel in combination therapy with cisplatin was similar to that previously observed following monotherapy with docetaxel.
+The pharmacokinetic profile of cisplatin in combination therapy with docetaxel was similar to that observed with cisplatin alone.
+
+Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with hormone-refractory metastatic prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
