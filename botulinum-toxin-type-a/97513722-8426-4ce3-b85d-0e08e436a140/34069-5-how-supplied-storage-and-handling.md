@@ -12,7 +12,7 @@ All vials, including expired vials, or equipment used with DYSPORT® should be d
 
 DYSPORT® contains a unique hologram on the carton.
 If you do not see the hologram, do not use the product.
-Instead contact 877-397-7671.
+Instead contact 1-855-463-5127.
 
 Cervical Dystonia
 

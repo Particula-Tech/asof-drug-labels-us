@@ -4,4 +4,5 @@ Distributed by: Ipsen Biopharmaceuticals, Inc. Basking Ridge, NJ 07920
 
 And
 
-Medicis Aesthetics Inc. a wholly owned subsidiary of Medicis Pharmaceutical Corporation Scottsdale, AZ 85256
+Galderma Laboratories, L.P.
+Fort Worth, TX 76177 USA

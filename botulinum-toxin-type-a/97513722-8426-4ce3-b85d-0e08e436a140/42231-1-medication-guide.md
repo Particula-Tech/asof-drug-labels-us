@@ -157,14 +157,14 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 This Medication Guide summarizes the most important information about DYSPORT®.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about DYSPORT® that is written for healthcare professionals.
-For more information about DYSPORT® call 877-397-7671 or go to www.dysport.com or www.DysportUSA.com.
+For more information about DYSPORT® call 1-855-463-5127 or go to www.dysport.com or www.DysportUSA.com.
 
 What are the ingredients in DYSPORT®?
 
 Active ingredient: (botulinum toxin Type A) Inactive ingredients: human albumin, and lactose.
 DYSPORT® may contain cow's milk protein.
 
-Revised February 2012
+Revised October 2014
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -172,4 +172,5 @@ Distributed by: Ipsen Biopharmaceuticals, Inc. Basking Ridge, NJ 07920
 
 and
 
-Medicis Aesthetics Inc., a wholly owned subsidiary of Medicis Pharmaceutical Corporation Scottsdale, AZ 85256
+Galderma Laboratories, L.P.
+Fort Worth, TX 76177 USA
