@@ -2,7 +2,7 @@
 
 NDC 0009-0758-01
 
-Single use vial.
+Multi-dose vial.
 Discard unused portion.
 
 Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
@@ -18,7 +18,7 @@ Rx only
 
 NDC 0009-0758-01
 
-1 Vial Single use vial.
+1 Vial Multi-dose vial.
 Discard unused portion.
 
 Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
@@ -38,7 +38,7 @@ Pfizer Injectables
 
 NDC 0009-0698-01
 
-Single use vial.
+Multi-dose vial.
 Discard unused portion.
 
 Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
@@ -56,7 +56,7 @@ Rx only
 
 NDC 0009-0698-01
 
-1 Vial Single use vial.
+1 Vial Multi-dose vial.
 Discard unused portion.
 
 Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
