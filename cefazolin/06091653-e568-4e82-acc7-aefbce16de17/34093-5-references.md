@@ -13,3 +13,10 @@ Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow A
 NCCLS, Wayne, PA, USA.
 
 CLINITEST is a registered trademark of Miles, Inc. CLINISTIX is a registered trademark of Bayer Corporation.
+
+Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL) S.A.
+Estrada do Rio da Mó, nº8, 8A and 8B – Fervença 2705-906 Terrugem SNT PORTUGAL
+
+Distributed by: WEST-WARD PHARMACEUTICAL, CORP. EATONTOWN, NJ 07724 USA
+
+Revised: 09/2014 PIN089-WES/4

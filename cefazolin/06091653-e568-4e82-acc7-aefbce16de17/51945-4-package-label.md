@@ -1,19 +1,69 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0143-9983-03 Cefazolin for injection, USP 10 grams per Pharmacy Bulk Package
+Carton of 10 Vials NDC 0143-9983-03 CEFAZOLIN FOR INJECTION, USP
+
+| PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION |
+| --- |
+
+10 grams per Pharmacy Bulk Package THIS PACKAGE IS NOT INTENDED TO BE DISPENSED AS A UNIT FOR IV USE ONLY Rx ONLY
 
 # PRINCIPAL DISPLAY PANEL
 
-Cefazolin for Injection, USP 10 Grams per Pharmacy Bulk Package NDC 0143-9983-91
+NDC 0143-9983-91 CEFAZOLIN FOR INJECTION, USP
+
+| PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION |
+| --- |
+
+10 grams per Pharmacy Bulk Package NOT TO BE DISPENSED AS A UNIT FOR IV USE ONLY Rx ONLY THIS PHARMACY BULK PACKAGE IS INTENDED FOR PREPARING MANY SINGLE DOSES IN A PHARMACY ADMIXTURE PROGRAM.
+FURTHER DILUTION IS REQUIRED.
+SEE INSERT FOR PROPER USE.
+Each Pharmacy Bulk Package contains cefazolin sodium equivalent to 10 grams of cefazolin.
+The sodium content is 48 mg (2.1 mEq) per gram of cefazolin.
+Before reconstitution protect from light and store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
+USUAL ADULT DOSAGE: 250 mg to 1 gram every 6 to 8 hours.
+For more information see package insert.
+Reconstitution: Under a laminar flow hood, using aseptic technique, the container closure may be penetrated only one time using a suitable sterile dispensing set.
+Transfer individual doses to appropriate intravenous infusion solutions.
+Use of a syringe with needle is not recommended.
+Add: Sterile Water for Injection, Bacteriostatic Water for Injection or Sodium Chloride Injection according to the table below.
+SHAKE WELL.
+See package insert.
+USE PROMPTLY.
+DISCARD VIAL WITHIN 4 HOURS AFTER INITIAL ENTRY.
+
+| Approx. Concentration | Amount of Diluent |
+| --- | --- |
+| 1 gram/5 mL | 45 mL |
+| 1 gram/10 mL | 96 mL |
+
+Prepared by/ Date/ Time: Diluent/ Concentration:
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0143-9923-90 Cefazolin for injection, USP 500 mg/vial
+NDC 0143-9665-10 CEFAZOLIN FOR INJECTION, USP
 
-# PRINCIPAL DISPLAY PANEL
+| PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION |
+| --- |
 
-NDC 0143-9924-90 Cefazolin for injection, USP 1 mg/vial
+20 grams per Pharmacy Bulk Package NOT TO BE DISPENSED AS A UNIT FOR IV USE ONLY Rx ONLY THIS PHARMACY BULK PACKAGE IS INTENDED FOR PREPARING MANY SINGLE DOSES IN A PHARMACY ADMIXTURE PROGRAM.
+FURTHER DILUTION IS REQUIRED.
+SEE INSERT FOR PROPER USE.
+Each Pharmacy Bulk Package contains sterile cefazolin sodium equivalent to 20 grams of cefazolin.
+The sodium contnet is 48 mg (2.1 mEq) per gram of cefazolin.
+Before reconstitution, protect from light and store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
+USUAL ADULT DOSAGE: 250 mg to 1 gram every 6 to 8 hours.
+For more information see package insert.
+Reconstitution: Under a laminar flow hood, using aseptic technique, the container closure may be penetrated only one time using a suitable sterile dispensing set.
+Transfer individual doses to appropriate intravenous infusion solutions.
+Use of a syringe with needle is not recommended.
+Add: Sterile Water for Injection, Bacteriostatic Water for Injection or Sodium Chloride Injection according to the table below.
+SHAKE WELL.
+See package insert.
+USE PROMPTLY.
+DISCARD VIAL WITHIN 4 HOURS AFTER INITIAL ENTRY.
 
-# PRINCIPAL DISPLAY PANEL
+| Approx. Concentration | Amount of Diluent |
+| --- | --- |
+| 1 gram/5 mL | 87 mL |
 
-Cefazolin for Injection, USP 20 Grams per Pharmacy Bulk Package NDC 0143-9665-10
+Prepared by/ Date/ Time: Diluent/ Concentration:

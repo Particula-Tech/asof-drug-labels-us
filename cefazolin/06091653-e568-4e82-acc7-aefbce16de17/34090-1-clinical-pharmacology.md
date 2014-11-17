@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Studies have shown that following intravenous administration of cefazolin to normal volunteers mean serum levels peaked at approximately 185 mcg/ mL and were approximately 4 mcg/mL at 8 hours for 1 gram dose.
+Studies have shown that following intravenous administration of cefazolin to normal volunteers mean serum concentrations peaked at approximately 185 mcg/ mL and were approximately 4 mcg/mL at 8 hours for 1 gram dose.
 
 The serum half-life for cefazolin is approximately 1.8 hours following intravenous administration.
 
@@ -10,7 +10,7 @@ Studies in patients hospitalized with infections indicate that cefazolin produce
 
 Bile levels in patients without obstructive biliary disease can reach or exceed serum levels by up to five times; however, in patients with obstructive biliary disease, bile levels of cefazolin are considerably lower than serum levels (<1 mcg/mL).
 
-In synovial fluid, the level of cefazolin becomes comparable to that reached in serum at about 4 hours after drug administration.
+In synovial fluid, the cefazolin level becomes comparable to that reached in serum at about 4 hours after drug administration.
 
 Studies of cord blood show prompt transfer of cefazolin across the placenta.
 Cefazolin is present in very low levels in the milk of nursing mothers.
@@ -29,13 +29,13 @@ Controlled studies on adult normal volunteers, receiving 1 gram 4 times a day fo
 In vitro tests demonstrate that the bactericidal action of cephalosporins results from inhibition of cell wall synthesis.
 Cefazolin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE.
 
-Gram-positive Aerobes Gram-positive Aerobes Staphylococcus aureus (including beta-lactamase producing strains) (including beta-lactamase producing strains) Staphylococcus epidermidis Staphylococcus pyogenes, Streptococcus agalactiae, and other strains of streptotocci and other strains of streptotocci Streptococcus pneumonia Methicillin-resistant staphylococci are uniformly resistant to cefazolin, and many strains of enterococci are resistant.
+Gram-positive Aerobes Staphylococcus aureus (including beta-lactamase producing strains) Staphylococcus epidermidis Streptococcus pyogenes, Streptococcus agalactiae, and other strains of streptotocci Streptococcus pneumoniae Methicillin-resistant staphylococci are uniformly resistant to cefazolin, and many strains of enterococci are resistant.
 
 Gram-negative Aerobes Escherichia coli Proteus mirabilis Most strains of indole positive Proteus (Proteus vulgaris), Enterobacter spp., Morganella morganii, Providencia rettgeri, Serratia spp., and Pseudomonas spp. are resistant to cefazolin.
 
-## Susceptibility Testing
+## Susceptibility Tests:
 
-### Dilution techniques
+### Diffusion Techniques:
 
 Quantitative methods that require measurement of zone diameters provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure1 that has been recommended for use with disks to test the susceptibility of microorganisms to cefazolin uses the 30 mcg cefazolin disk.
@@ -49,24 +49,24 @@ RECOMMENDED RANGES FOR CEFAZOLIN SUSCEPTIBILITY TESTING
 
 Standardized single-disk susceptibility test should be performed ONLY with a 30 mcg cefazolin disk.
 
-A report of &apos;Susceptible&apos; indicates that the pathogen is likely to be inhibited by usually achievable levels of the antimicrobial compound in the blood.
-A report of &apos;Intermediate&apos; indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of "Susceptible" indicates that the pathogen is likely to be inhibited by usually achievable concentrations of the antimicrobial compound in the blood.
+A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of &apos;Resistant&apos; indicates that usually achievable levels of the antimicrobial compound in the blood are unlikely to be inhibitory and that other therapy should be selected.
+A report of "Resistant" indicates that usually achievable concentrations of the antimicrobial compound in the blood are unlikely to be inhibitory and that other therapy should be selected.
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms.
 The 30 mcg cefazolin disk should provide the following zone diameters in these laboratory test quality control strains:
 
-| Microorganism | Zone Diameters (mm) |
+| Microorganism | Zone diameter (mm) |
 | --- | --- |
-| E. coli ATCC 25922ATCC 25922 S. aureus ATCC 25923ATCC 25923 | 21 – 2729 – 35 |
+| E. coli ATCC 25922S. aureus ATCC 25923 | 21 – 2729 – 35 |
 
 The cefazolin disk should not be used for testing susceptibility to other cephalosporins.
 
-### Diffusion Techniques
+### Dilution Techniques:
 
-Quantitative methods that are used to determine minimum inhibitory levels provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+Quantitative methods that are used to determine minimum inhibitory concentrations provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure uses a standardized dilution method2 (broth, agar, or microdilution) or equivalent with cefazolin powder.
 The MIC values obtained should be interpreted according to the following criteria:
 
@@ -81,4 +81,4 @@ Standard cefazolin powder should provide the following MIC values:
 
 | Microorganism | MIC (mcg/mL) |
 | --- | --- |
-| S. aureus ATCC 25923ATCC 25923 E. coli ATCC 25922ATCC 25922 | 0.25 – 11 – 4 |
+| S. aureus ATCC 25923 E. coli ATCC 25922 | 0.25 – 11 – 4 |

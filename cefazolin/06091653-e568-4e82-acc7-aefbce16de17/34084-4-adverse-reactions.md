@@ -8,7 +8,7 @@ Nausea and vomiting have been reported rarely.
 
 Allergic: Anaphylaxis, eosinophilia, itching, drug fever, skin rash, Stevens-Johnson syndrome.
 
-Hematologic: Neutropenia, leucopenia, thrombocytopenia, thrombocythemia.
+Hematologic: Neutropenia, leukopenia, thrombocytopenia, thrombocythemia.
 
 Hepatic: Transient rise in SGOT, SGPT, and alkaline phosphatase levels has been observed.
 As with other cephalosporins, reports of hepatitis have been received.
@@ -25,3 +25,5 @@ Altered Laboratory Tests: Prolonged prothrombin time, positive direct Coombs’ 
 Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced (see DOSAGE AND ADMINISTRATION).
 If seizures associated with drug therapy occur, the drug should be discontinued.
 Anticonvulsant therapy can be given if clinically indicated.
+
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
