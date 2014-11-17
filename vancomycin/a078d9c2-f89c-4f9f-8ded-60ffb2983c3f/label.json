@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050606"
+  ],
+  "inn": "vancomycin",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-310-20",
+    "62559-311-20"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "vancomycin hydrochloride",
+      "name": "Vancocin"
+    }
+  ],
+  "setid": "a078d9c2-f89c-4f9f-8ded-60ffb2983c3f",
+  "source": "dailymed"
+}
