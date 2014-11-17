@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204154"
+  ],
+  "inn": "ivermectin",
+  "labeler": "Edenbridge Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "42799-806-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ivermectin",
+      "name": "Ivermectin"
+    }
+  ],
+  "setid": "847a1dd7-d65b-4a0e-a67d-d90392059dac",
+  "source": "dailymed"
+}
