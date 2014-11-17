@@ -22,19 +22,22 @@ For patients with creatinine clearance < 50 mL/min, adjustments to the dosing re
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)5 | 750 mg | 5 |
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)6 | 250 mg | 10 |
 | Uncomplicated Urinary Tract Infection | 250 mg | 3 |
-| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg and ≥ 6 months of age 7,8Pediatric patients < 50 kg and ≥ 6 months of age 7,8 | 500 mgsee Table 2 below (2.2) | 608608 |
+| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg 7,8 Pediatric patients < 50 kg and ≥ 6 months of age 7,8 | 500 mg see Table 2 below (2.2) | 60 8 60 8 |
+| Plague, adult and pediatric patients > 50 kg 9 Pediatric patients < 50 kg and ≥ 6 months of age | 500 mg see Table 2 below (2.2) | 10 to 14 10 to 14 |
 
 1 Due to the designated pathogens [see INDICATIONS AND USAGE (1)].
 2 Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician.
-3 Due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug‑resistant strains [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see INDICATIONS AND USAGE (1.2)].
-4 Due to Streptococcus pneumoniae (excluding multi-drug-resistant strains [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae [see INDICATIONS AND USAGE (1.3)].
+3 Due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see INDICATIONS AND USAGE (1.2)].
+4 Due to Streptococcus pneumoniae (excluding multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae [see INDICATIONS AND USAGE (1.3)].
 5 This regimen is indicated for cUTI due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis and AP due to E. coli, including cases with concurrent bacteremia.
 6 This regimen is indicated for cUTI due to Enterococcus faecalis, Enterococcus cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa; and for AP due to E. coli.
 7 Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis.
 This indication is based on a surrogate endpoint.
 Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see CLINICAL STUDIES (14.9)].
 8 The safety of levofloxacin in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied.
-An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see WARNINGS AND PRECAUTIONS (5.10); USE IN SPECIFIC POPULATIONS (8.4); CLINICAL STUDIES (14.9)] Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
+An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see WARNINGS AND PRECAUTIONS (5.10); USE IN SPECIFIC POPULATIONS (8.4); and CLINICAL STUDIES (14.9)] Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
+9 Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
+Higher doses of levofloxacin typically used for treatment of pneumonia can be used for treatment of plague, if clinically indicated.
 
 ## 2.2 Dosage in Pediatric Patients
 
@@ -44,15 +47,19 @@ The dosage in pediatric patients ≥ 6 months of age is described below in Table
 | --- | --- | --- | --- |
 | Type of Infection 1 | Dose | Freq. Once Every | Duration2 |
 | Inhalational Anthrax (post-exposure)3,4 |  |  |  |
-| Pediatric patients > 50 kg and ≥ 6 months of age | 500 mg | 24 hr | 60 days4 |
+| Pediatric patients > 50 kg | 500 mg | 24 hr | 60 days4 |
 | Pediatric patients < 50 kg and ≥ 6 months of age | 8 mg/kg (not to exceed 250 mg per dose) | 12 hr | 60 days4 |
+| Plague5 |  |  |  |
+| Pediatric patients > 50 kg | 500 mg | 24 hr | 10 to 14 days |
+| Pediatric patients < 50 kg and ≥ 6 months of age | 8 mg/kg (not to exceed 250 mg per dose) | 12 hr | 10 to 14 days |
 
-1 Due to Bacillus anthracis [see INDICATIONS AND USAGE (1.13)] 2 Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician.
+1 Due to Bacillus anthracis [see INDICATIONS AND USAGE (1.13) and Yersinia pestis (see INDICATIONS AND USAGE (1.14)] 2 Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician.
 3 Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis.
 This indication is based on a surrogate endpoint.
 Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see CLINICAL STUDIES (14.9)] 4 The safety of levofloxacin in pediatric patients for durations of therapy beyond 14 has not been studied.
 An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see WARNINGS AND PRECAUTIONS (5.10); USE IN SPECIFIC POPULATIONS (8.4); CLINICAL STUDIES (14.9).]
 Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk.
+5 Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis.
 
 ## 2.3 Dosage Adjustment in Adults with Renal Impairment
 
@@ -61,7 +68,7 @@ Careful clinical observation and appropriate laboratory studies should be perfor
 
 No adjustment is necessary for patients with a creatinine clearance ≥ 50 mL/min.
 
-In patients with impaired renal function (creatinine clearance < 50 mL/min), adjustment of the dosage regimen is necessary to avoid the accumulation of levofloxacin due to decreased clearance[see USE IN SPECIFIC POPULATIONS (8.6)].
+In patients with impaired renal function (creatinine clearance < 50 mL/min), adjustment of the dosage regimen is necessary to avoid the accumulation of levofloxacin due to decreased clearance [see USE IN SPECIFIC POPULATIONS (8.6)].
 
 Table 3 shows how to adjust dose based on creatinine clearance.
 
@@ -72,9 +79,9 @@ Table 3 shows how to adjust dose based on creatinine clearance.
 | 500 mg | 500 mg initial dose, then 250 mg every 24 hours | 500 mg initial dose, then 250 mg every 48 hours | 500 mg initial dose, then 250 mg every 48 hours |
 | 250 mg | No dosage adjustment required | 250 mg every 48 hours. If treating uncomplicated UTI, then no dosage adjustment is required | No information on dosing adjustment is available |
 
-## 2.4 Drug Interaction with Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins Levofloxacin Injection
+## 2.4 Drug Interaction with Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins
 
-Levofloxacin injection should not be co-administered with any solution containing multivalent cations, e.g., magnesium, through the same intravenous line[see DOSAGE AND ADMINISTRATION (2.6)].
+Levofloxacin Injection Levofloxacin Injection should not be co-administered with any solution containing multivalent cations, e.g., magnesium, through the same intravenous line [see DOSAGE AND ADMINISTRATION (2.6)].
 
 ## 2.5 Administration Instructions
 
@@ -84,7 +91,7 @@ Levofloxacin injection should be administered only by intravenous infusion.
 It is not for intramuscular, intrathecal, intraperitoneal, or subcutaneous administration.
 
 Hydration for Patients Receiving Levofloxacin Injection Adequate hydration of patients receiving intravenous levofloxacin should be maintained to prevent the formation of highly concentrated urine.
-Crystalluria and cylindruria have been reported with quinolones [see ADVERSE REACTIONS (6.1);PATIENT COUNSELING INFORMATION (17.2)].
+Crystalluria and cylindruria have been reported with quinolones [see ADVERSE REACTIONS (6.1); PATIENT COUNSELING INFORMATION (17.2)].
 
 ## 2.6 Preparation of Intravenous Product
 
@@ -93,9 +100,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 Because only limited data are available on the compatibility of levofloxacin injection with other intravenous substances, additives or other medications should not be added to Levofloxacin Injection Premix in Single Dose Flexible Containers, or infused simultaneously through the same intravenous line.
 If the same intravenous line is used for sequential infusion of several different drugs, the line should be flushed before and after infusion of levofloxacin injection with an infusion solution compatible with levofloxacin injection and with any other drug(s) administered via this common line.
 
-Levofloxacin Injection Premix in Single Dose Flexible Containers (5 mg/mL)
-
-Levofloxacin injection is supplied in flexible containers within a foil overwrap.
+Levofloxacin Injection Premix in Single Dose Flexible Containers (5 mg/mL) Levofloxacin injection is supplied in flexible containers within a foil overwrap.
 These contain a premixed, ready to use levofloxacin solution in 5% dextrose (D5W) for single dose.
 The 50 mL premixed flexible containers contain 250 mg/50 mL, the 100 mL premixed flexible containers contain 500 mg/100 mL, and the 200 mL premixed flexible containers contain 750 mg/150 mL of levofloxacin solution.
 The concentration of each container is 5 mg/mL.

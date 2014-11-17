@@ -4,7 +4,7 @@
 
 Pregnancy Category C. Levofloxacin was not teratogenic in rats at oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended human dose based upon relative body surface area, or at intravenous doses as high as 160 mg/kg/day corresponding to 1.9 times the highest recommended human dose based upon relative body surface area.
 The oral dose of 810 mg/kg/day to rats caused decreased fetal body weight and increased fetal mortality.
-No teratogenicity was observed when rabbits were dosed orally as high as 50 mg/‌kg/‌day which corresponds to 1.1 times the highest recommended human dose based upon relative body surface area, or when dosed intravenously as high as 25 mg/kg/day, corresponding to 0.5 times the highest recommended human dose based upon relative body surface area.
+No teratogenicity was observed when rabbits were dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended human dose based upon relative body surface area, or when dosed intravenously as high as 25 mg/kg/day, corresponding to 0.5 times the highest recommended human dose based upon relative body surface area.
 
 There are, however, no adequate and well-controlled studies in pregnant women.
 Levofloxacin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -18,11 +18,19 @@ Because of the potential for serious adverse reactions from levofloxacin in nurs
 
 Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile animals of several species [see WARNINGS AND PRECAUTIONS (5.10); NONCLINICAL TOXICOLOGY (13.2)].
 
-Inhalational Anthrax (Post-Exposure) Levofloxacin is indicated in pediatric patients for inhalational anthrax (post-exposure).
+Pharmacokinetics following intravenous administration The pharmacokinetics of levofloxacin following a single intravenous dose were investigated in pediatric patients ranging in age from six months to 16 years.
+Pediatric patients cleared levofloxacin faster than adult patients resulting in lower plasma exposures than adults for a given mg/kg dose [see CLINICAL PHARMACOLOGY (12.3) and CLINICAL STUDIES (14.9)].
+
+Inhalational Anthrax (Post-Exposure) Levofloxacin is indicated in pediatric patients 6 months of age and older, for inhalational anthrax (post-exposure).
 The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate.
-The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied.
-The pharmacokinetics of levofloxacin following a single intravenous dose were investigated in pediatric patients ranging in age from six months to 16 years.
-Pediatric patients cleared levofloxacin faster than adult patients resulting in lower plasma exposures than adults for a given mg/kg dose [see INDICATIONS AND USAGE (1.13); DOSAGE AND ADMINISTRATION (2.2); CLINICAL PHARMACOLOGY (12.3); CLINICAL STUDIES (14.9)].
+The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied [see INDICATIONS AND USAGE (1.13); DOSAGE AND ADMINISTRATION (2.2) and CLINICAL STUDIES (14.9)].
+
+Plague Levofloxacin is indicated in pediatric patients, 6 months of age and older, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis) and prophylaxis for plague.
+Efficacy studies of levofloxacin could not be conducted in humans with pneumonic plague for ethical and feasibility reasons.
+Therefore, approval of this indication was based on an efficacy study conducted in animals.
+The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate [see INDICATIONS AND USAGE (1.14); DOSAGE AND ADMINISTRATION (2.2) and CLINICAL STUDIES (14.10)].
+
+Safety and effectiveness in pediatric patients below the age of six months have not been established.
 
 Adverse Events In clinical trials, 1534 children (6 months to 16 years of age) were treated with oral and intravenous levofloxacin.
 Children 6 months to 5 years of age received levofloxacin 10 mg/kg twice a day and children greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
@@ -55,7 +63,7 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing levofloxacin to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue levofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning; WARNINGS AND PRECAUTIONS (5.1); ADVERSE REACTIONS (6.3)].
+Patients should be informed of this potential side effect and advised to discontinue levofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning; WARNINGS AND PRECAUTIONS (5.1) and ADVERSE REACTIONS (6.3)].
 
 In phase 3 clinical trials, 1,945 levofloxacin-treated patients (26%) were ≥ 65 years of age.
 Of these, 1,081 patients (14%) were between the ages of 65 and 74 and 864 patients (12%) were 75 years or older.

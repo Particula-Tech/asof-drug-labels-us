@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 LEVOFLOXACIN INJECTION in 5% Dextrose, Solution for Intravenous Use
 
@@ -7,9 +7,10 @@ There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
 What is the most important information I should know about levofloxacin?
-Levofloxacin belongs to a class of antibiotics called fluoroquinolones.
-Levofloxacin can cause side effects that may be serious or even cause death.
-If you get any of the following serious side effects, get medical help right away.
+Levofloxacin, a fluoroquinolone antibiotic, can cause serious side effects.
+Some of these serious side effects could result in death.
+
+If you have any of the following serious side effects while you take levofloxacin, get medical help right away.
 Talk with your healthcare provider about whether you should continue to take levofloxacin.
 
 1.
@@ -18,12 +19,12 @@ Tendon rupture or swelling of the tendon (tendinitis).
 - Tendon problems can happen in people of all ages who take levofloxacin.
   Tendons are tough cords of tissue that connect muscles to bones.
 - Some tendon problems include pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
-- The risk of getting tendon problems is higher if you:
+- The risk of getting tendon problems while you take levofloxacin is higher if you:
   - are over 60 years of age
   - are taking steroids (corticosteroids)
   - have had a kidney, heart or lung transplant.
 - Tendon problems can happen in people who do not have the above risk factors when they take levofloxacin.
-  Other reasons that can increase your risk of tendon problems can include:
+- Other reasons that can increase your risk of tendon problems can include:
   - physical activity or exercise
   - kidney failure
   - tendon problems in the past, such as in people with rheumatoid arthritis (RA).
@@ -32,7 +33,7 @@ Tendon rupture or swelling of the tendon (tendinitis).
   Avoid exercise and using the affected area.
   The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
   This can also happen with other tendons.
-- Talk to your healthcare provider about the risk of tendon rupture with continued use of levofloxacin.
+  Talk to your healthcare provider about the risk of tendon rupture with continued use of levofloxacin.
   You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
 - Tendon rupture can happen while you are taking or after you have finished taking levofloxacin.
   Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
@@ -46,25 +47,30 @@ Worsening of myasthenia gravis (a disease that causes muscle weakness).
 Fluoroquinolones like levofloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
 Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
-See the section “What are the possible side effects of levofloxacin?” for more information about side effects.
+- See “What are the possible side effects of levofloxacin?”
 
 What is levofloxacin?
 Levofloxacin is a fluoroquinolone antibiotic medicine used in adults, 18 years or older, to treat certain infections caused by certain germs called bacteria.
+These bacterial infections include:
 
-Children have a higher chance of getting bone, joint, or tendon (musculoskeletal) problems such as pain or swelling while taking levofloxacin.
+- nosocomial pneumonia
+- community-acquired pneumonia
+- acute sinus infection
+- acute worsening of chronic bronchitis
+- skin infections, complicated and uncomplicated
+- chronic prostate infection
+- urinary tract infections, complicated and uncomplicated
+- acute kidney infection (pyelonephritis)
+- inhalational anthrax
+- plague
 
-In children 6 months and older who have breathed the anthrax bacteria germ:
+Studies of levofloxacin for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
 
-- Levofloxacin is used to prevent anthrax disease (inhalation anthrax).
-- It is not known if it is safe to use levofloxacin in children for more than 14 days.
+Levofloxacin is also used to treat children who are 6 months of age or older and may have breathed in anthrax germs, have plague, or been exposed to plague germs.
 
-It is not known if levofloxacin is safe and works in children under the age of 6 months.
+It is not known if levofloxacin is safe and effective in children under 6 months of age.
 
-Sometimes infections are caused by viruses rather than by bacteria.
-Examples include viral infections in the sinuses and lungs, such as the common cold or flu.
-Antibiotics, including levofloxacin, do not kill viruses.
-
-Call your healthcare provider if you think your condition is not getting better while you are taking levofloxacin.
+The safety and effectiveness in children treated with levofloxacin for more than 14 days is not known.
 
 Who should not take levofloxacin?
 Do not take levofloxacin if you have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or if you are allergic to any of the ingredients in levofloxacin.
@@ -72,9 +78,7 @@ Ask your healthcare provider if you are not sure.
 See the list of the ingredients in levofloxacin at the end of this Medication Guide.
 
 What should I tell my healthcare provider before taking levofloxacin?
-See “What is the most important information I should know about levofloxacin?”.
-
-Tell your healthcare provider about all your medical conditions, including if you:
+Before you take levofloxacin, tell your healthcare provider if you:
 
 - have tendon problems
 - have a disease that causes muscle weakness (myasthenia gravis)
@@ -90,62 +94,53 @@ Tell your healthcare provider about all your medical conditions, including if yo
 - have rheumatoid arthritis (RA) or other history of joint problems
 - are pregnant or planning to become pregnant.
   It is not known if levofloxacin will harm your unborn child
-- are breast-feeding or planning to breast-feed.
+- are breast-feeding or planning to breast‑feed.
   Levofloxacin is thought to pass into breast milk.
   You and your healthcare provider should decide whether you will take levofloxacin or breast-feed.
+  You should not do both.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, herbal and dietary supplements.
+
 Levofloxacin and other medicines can affect each other causing side effects.
 Especially tell your healthcare provider if you take:
 
-- an NSAID (Non-Steroidal Anti-Inflammatory Drug).
-  Many common medicines for pain relief are NSAIDs.
-  Taking an NSAID while you take levofloxacin or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
-  See “What are the possible side effects of levofloxacin?”
-- an oral anti-diabetes medicine or insulin
-- a blood thinner (warfarin, Coumadin, Jantoven)
-- a medicine to control your heart rate or rhythm (antiarrhythmics).
-  See“What are the possible side effects of levofloxacin”
+- a steroid medicine
 - an anti-psychotic medicine
 - a tricyclic antidepressant
 - a water pill (diuretic)
-- a steroid medicine.
-  Corticosteroids taken by mouth or by injection may increase the chance of tendon injury.
-  See“What is the most important information I should know about levofloxacin?”
-- theophylline (Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®).
+- a blood thinner (warfarin, Coumadin, Jantoven)
+- an oral anti-diabetes medicine or insulin
+- an NSAID (Non-Steroidal Anti-Inflammatory Drug).
+  Many common medicines for pain relief are NSAIDs.
+  Taking an NSAID while you take levofloxacin or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
+- theophylline (Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®)
+- a medicine to control your heart rate or rhythm (antiarrhythmics)
 
 Ask your healthcare provider if you are not sure if any of your medicines are listed above.
+
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take levofloxacin?
 
-- Take levofloxacin exactly as prescribed by your healthcare provider.
+- Take levofloxacin exactly as your healthcare provider tells you to take it.
 - Take levofloxacin at about the same time each day.
 - Drink plenty of fluids while taking levofloxacin.
 - If you miss a dose of levofloxacin, take it as soon as you remember.
   Do not take more than one dose in one day.
 - Levofloxacin for Injection is given to you by intravenous (IV) infusion into your vein, slowly, over 60 or 90 minutes, as prescribed by your healthcare provider.
-  See “What are the possible side effects of levofloxacin?”.
 - Do not skip any doses, or stop taking levofloxacin even if you begin to feel better, until you finish your prescribed treatment, unless:
   - you have tendon effects (see “What is the most important information I should know about levofloxacin?”),
   - you have a serious allergic reaction (see “What are the possible side effects of levofloxacin?”), or
   - your healthcare provider tells you to stop.
-- This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to levofloxacin.
-  If this happens, levofloxacin and other antibiotic medicines may not work in the future.
 
-If you take too much, call your healthcare provider or get medical help immediately.
+Taking all of your levofloxacin doses will help make sure that all of the bacteria are killed.
+Taking all of your levofloxacin doses will help you lower the chance that the bacteria will become resistant to levofloxacin.
+If your infection does not get better while you take levofloxacin, it may mean that the bacteria causing your infection may be resistant to levofloxacin.
+If your infection does not get better, call your healthcare provider.
+If your infection does not get better, levofloxacin and other similar antibiotic medicines may not work for you in the future.
 
-If you have been prescribed levofloxacin after being exposed to anthrax:
-
-- Levofloxacin has been approved to lessen the chance of getting anthrax disease or worsening of the disease after you are exposed to the anthrax bacteria germ.
-- Take levofloxacin exactly as prescribed by your healthcare provider.
-  Do not stop taking levofloxacin without talking with your healthcare provider.
-  If you stop taking levofloxacin too soon, it may not keep you from getting the anthrax disease.
-- Side effects may happen while you are taking levofloxacin.
-  When taking levofloxacin to prevent anthrax infection, you and your healthcare provider should talk about whether the risks of stopping your medicine too soon are more important than the risks of side effects with levofloxacin.
-  It is not known if it is safe to use levofloxacin for more than 28 days in adults and for more than 14 days in children 6 months of age and older.
-- If you are pregnant, or plan to become pregnant while taking levofloxacin, you and your healthcare provider should decide whether the benefits of taking levofloxacin for anthrax are more important than the risks.
+If you take too much levofloxacin, call your healthcare provider or get medical help right away.
 
 What should I avoid while taking levofloxacin?
 
@@ -158,106 +153,125 @@ What should I avoid while taking levofloxacin?
   You should use a sunscreen and wear a hat and clothes that cover your skin if you have to be in sunlight.
 
 What are the possible side effects of levofloxacin?
-Levofloxacin can cause side effects that may be serious or even cause death.
-See“What is the most important information I should know about levofloxacin?”.
+Levofloxacin can cause serious side effects, including:
 
-Other serious side effects of levofloxacin include:
+- See "What is the most important information I should know about levofloxacin?"
+- Serious allergic reactions: Allergic reactions can happen in people taking fluoroquinolones, including levofloxacin, even after only one dose.
+  Stop taking levofloxacin and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
 
-- Liver damage (hepatotoxicity): Liver damage (hepatotoxicity) can happen in people who take levofloxacin.
+- hives
+- trouble breathing or swallowing
+- swelling of the lips, tongue, face
+- throat tightness, hoarseness
+- rapid heartbeat
+- faint
+- skin rash
+
+Skin rash may happen in people taking levofloxacin, even after only one dose.
+Stop taking levofloxacin at the first sign of a skin rash and call your healthcare provider.
+Skin rash may be a sign of a more serious reaction to levofloxacin.
+
+- Liver damage (hepatotoxicity): Hepatotoxicity can happen in people who take levofloxacin.
   Call your healthcare provider right away if you have unexplained symptoms such as:
-  - nausea or vomiting
-  - stomach pain
-  - fever
-  - weakness
-  - abdominal pain or tenderness
-  - itching
-  - unusual tiredness
-  - loss of appetite
-  - light colored bowel movements
-  - dark colored urine or yellowing of your skin or the whites of your eyes.
+
+- nausea or vomiting
+- stomack pain
+- fever
+- weakness
+- abdominal pain or tenderness
+- itching
+- unusual tiredness
+- loss of appetite
+- light colored bowel movements
+- dark colored urine
+- yellowing of your skin or the whites of your eyes
+
+Stop taking levofloxacin and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
+These can be signs of a serious reaction to levofloxacin (a liver problem).
+
 - Central Nervous System Effects: Seizures have been reported in people who take fluoroquinolone antibiotics including levofloxacin.
   Tell your healthcare provider if you have a history of seizures.
   Ask your healthcare provider whether taking levofloxacin will change your risk of having a seizure.
-  Central Nervous System (CNS) side effects may happen as soon as after taking the first dose of levofloxacin.
-  Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
-  - seizures
-  - hear voices, see things, or sense things that are not there (hallucinations)
-  - feel restless
-  - tremors
-  - feel anxious or nervous
-  - confusion
-  - depression
-  - trouble sleeping
-  - nightmares
-  - feel lightheaded
-  - feel more suspicious (paranoia)
-  - suicidal thoughts or acts
-  - persistent headache with or without blurred vision.
-- Serious allergic reactions: Allergic reactions can happen in people taking fluoroquinolones, including levofloxacin, even after only onedose.
-  Stop taking levofloxacin and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
-  - hives
-  - trouble breathing or swallowing
-  - swelling of the lips, tongue, face
-  - throat tightness, hoarseness
-  - rapid heartbeat
-  - faint
-  - yellowing of the skin or eyes.
-    Stop taking levofloxacin and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
-    These can be signs of a serious reaction to levofloxacin (a liver problem).
-- Skin rash: Skin rash may happen in people taking levofloxacin, even after only one dose.
-  Stop taking levofloxacin at the first sign of a skin rash and call your healthcare provider.
-  Skin rash may be a sign of a more serious reaction to levofloxacin.
+
+Central Nervous System (CNS) side effects may happen as soon as after taking the first does of levofloxacin.
+Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
+
+- seizures
+- hear voices, see things, or sense things that are not there (hallucinations)
+- feel restless
+- tremors
+- feel anxious or nervous
+- confusion
+- depression
+- trouble sleeping
+- nightmares
+- feel lightheaded
+- feel more suspicious (paranoia)
+- suicidal thoughts or acts
+- a headache that will not go away, with or without blurred vision.
+
 - Intestine infection (Pseudomembranous colitis): Pseudomembranous colitis can happen with most antibiotics, including levofloxacin.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
-  You may have stomach cramps and a fever.
+  You may have stomack cramps and a fever.
   Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
-- Changes in sensation and possible nerve damage (Peripheral Neuropathy): Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including levofloxacin.
-  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
-  - pain
-  - burning
-  - tingling
-  - numbness
-  - weakness
 
-Levofloxacin may need to be stopped to prevent permanent nerve damage.
+- Changes in sensation and possible nerve damage (Peripheral Neuropathy): Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including levofloxacin.
+  Stop levofloxacin and talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+
+- pain
+- burning
+- tingling
+- numbness
+- weakness
+
+The nerve damage may be permanent.
 
 - Serious heart rhythm changes (QT prolongation and torsades de pointes): Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   Levofloxacin may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this happening are higher in people:
-  - who are elderly
-  - with a family history of prolonged QT interval
-  - with low blood potassium (hypokalemia)
-  - who take certain medicines to control heart rhythm (antiarrhythmics).
-- Changes in blood sugar [low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia)]: People who take levofloxacin and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
-  Follow your healthcare provider’s instructions for how often to check your blood sugar.
-  If you have diabetes and you get low blood sugar while taking levofloxacin, stop taking levofloxacin and call your healthcare provider right away.
-  Your antibiotic medicine may need to be changed.
-- Sensitivity to sunlight (photosensitivity): See“What should I avoid while taking levofloxacin?”.
+
+- who are elderly
+- with a family history of prolonged QT interval
+- with low blood potassium (hypokalemia)
+- who take certain medicines to control heart rhythm (antiarrhythmics).
+
 - Joint Problems: Increased chance of problems with joints and tissues around joints in children.
-  Tell your child’s healthcare provider if your child has any joint problems during or after treatment with levofloxacin.
+  Tell your child's healthcare provider if your child has any problems during or after treatment with levofloxacin.
+
+- Changes in blood sugar: People who take levofloxacin and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+  Follow your healthcare provider's instructions for how often to check your blood sugar.
+  If you have diabetes and you get low blood sugar while taking levofloxacin, stop takig levofloxacin and call your healthcare provider right away.
+  Your antibiotic medicine may need to be changed.
+
+- Sensitivity to sunlight (photosensitivity): See "What should I avoid while taking levofloxacin?".
 
 The most common side effects of levofloxacin include:
 
-- dizziness
-- headache
-- constipation
 - nausea
-- diarrhea.
+- headache
+- diarrhea
+- insomnia
+- constipation
+- dizziness
 
 In children 6 months and older who take levofloxacin to prevent anthrax disease, vomiting is also common.
-Low blood pressure can happen with levofloxacin given by IV injection if it is given too fast.
-Tell your healthcare provider if you feel dizzy, or faint during a treatment with levofloxacin.
+
+Low blood pressure can happen when levofloxacin is given too fast by IV injection.
+Tell your healthcare provider if you feel dizzy or faint during a treatment with levofloxacin injection.
+
 Levofloxacin may cause false-positive urine screening results for opiates when testing is done with some commercially available kits.
 A positive result should be confirmed using a more specific test.
+
 These are not all the possible side effects of levofloxacin.
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 Keep levofloxacin and all medicines out of the reach of children.
 
-General Information About Levofloxacin Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+General information about the safe and effective use of Levofloxacin Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use levofloxacin for a condition for which it is not prescribed.
 Do not give levofloxacin to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -280,4 +294,4 @@ Estrada do Rio da Mó, nº 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, P
 
 Distributed by: WEST-WARD PHARMACEUTICAL Corp. Eatontown, NJ 07724 USA
 
-Issued: 10/2011
+Issued: 09/2014 PIN288-WES/2

@@ -10,7 +10,7 @@ Factors, in addition to age and corticosteroid use, that may independently incre
 Tendinitis and tendon rupture have been reported in patients taking fluoroquinolones who do not have the above risk factors.
 Tendon rupture can occur during or after completion of therapy; cases occurring up to several months after completion of therapy have been reported.
 Levofloxacin should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
-Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug [seeADVERSE REACTIONS (6.3);PATIENT COUNSELING INFORMATION (17.3)].
+Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug [see ADVERSE REACTIONS (6.3); PATIENT COUNSELING INFORMATION (17.3)].
 
 ## 5.2 Exacerbation of Myasthenia Gravis
 
@@ -24,7 +24,7 @@ Serious and occasionally fatal hypersensitivity and/or anaphylactic reactions ha
 These reactions often occur following the first dose.
 Some reactions have been accompanied by cardiovascular collapse, hypotension/shock, seizure, loss of consciousness, tingling, angioedema (including tongue, laryngeal, throat, or facial edema/swelling), airway obstruction (including bronchospasm, shortness of breath, and acute respiratory distress), dyspnea, urticaria, itching, and other serious skin reactions.
 Levofloxacin should be discontinued immediately at the first appearance of a skin rash or any other sign of hypersensitivity.
-Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines,corticosteroids, pressor amines, and airway management, as clinically indicated[see ADVERSE REACTIONS (6); PATIENT COUNSELING INFORMATION (17.3)].
+Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines,corticosteroids, pressor amines, and airway management, as clinically indicated [see ADVERSE REACTIONS (6); PATIENT COUNSELING INFORMATION (17.3)].
 
 ## 5.4 Other Serious and Sometimes Fatal Reactions
 
@@ -48,7 +48,7 @@ No evidence of serious drug-associated hepatotoxicity was detected in clinical t
 Severe hepatotoxicity generally occurred within 14 days of initiation of therapy and most cases occurred within 6 days.
 Most cases of severe hepatotoxicity were not associated with hypersensitivity [see WARNINGS AND PRECAUTIONS (5.4)].
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
-Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see ADVERSE REACTIONS (6);PATIENT COUNSELING INFORMATION (17.3)].
+Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see ADVERSE REACTIONS (6); PATIENT COUNSELING INFORMATION (17.3)].
 
 ## 5.6 Central Nervous System Effects
 
@@ -73,20 +73,21 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## 5.8 Peripheral Neuropathy
 
-Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including levofloxacin.
-Levofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation in order to prevent the development of an irreversible condition [see ADVERSE REACTIONS (6); PATIENT COUNSELING INFORMATION (17.3)].
+Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including levofloxacin.
+Symptoms may occur soon after initiation of levofloxacin and may be irreversible.
+Levofloxacin should be discontinued immediately if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation [see ADVERSE REACTIONS (6); PATIENT COUNSELING INFORMATION (17.3)].
 
 ## 5.9 Prolongation of the QT Interval
 
 Some fluoroquinolones, including levofloxacin, have been associated with prolongation of the QT interval on the electrocardiogram and infrequent cases of arrhythmia.
 Rare cases of torsade de pointes have been spontaneously reported during postmarketing surveillance in patients receiving fluoroquinolones, including levofloxacin.
 Levofloxacin should be avoided in patients with known prolongation of the QT interval, patients with uncorrected hypokalemia, and patients receiving Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
-Elderly patients may be more susceptible to drug-associated effects on the QT interval [see ADVERSE REACTIONS (6.3); USE IN SPECIFIC POPULATIONS (8.5); PATIENT COUNSELING INFORMATION (17.3)].
+Elderly patients may be more susceptible to drug-associated effects on the QT interval [see ADVERSE REACTIONS (6.3); USE IN SPECIFIC POPULATIONS (8.5); and PATIENT COUNSELING INFORMATION (17.3)].
 
 ## 5.10 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
-Levofloxacin is indicated in pediatric patients (≥ 6 months of age) only for the prevention of inhalational anthrax (post‑exposure) [see INDICATIONS AND USAGE (1.13)].
-An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendinopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin[see USE IN SPECIFIC POPULATIONS (8.4)].
+Levofloxacin is indicated in pediatric patients (6 months of age and older) only for the prevention of inhalational anthrax (post-exposure) and for plague [see INDICATIONS AND USAGE (1.13, 1.14)].
+An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendinopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin [see USE IN SPECIFIC POPULATIONS (8.4)].
 
 In immature rats and dogs, the oral and intravenous administration of levofloxacin resulted in increased osteochondrosis.
 Histopathological examination of the weight-bearing joints of immature dogs dosed with levofloxacin revealed persistent lesions of the cartilage.
@@ -102,7 +103,7 @@ If a hypoglycemic reaction occurs in a patient being treated with levofloxacin, 
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if photosensitivity/‌phototoxicity occurs [see ADVERSE REACTIONS (6.3); PATIENT COUNSELING INFORMATION (17.3)].
+Drug therapy should be discontinued if photosensitivity/phototoxicity occurs [see ADVERSE REACTIONS (6.3); PATIENT COUNSELING INFORMATION (17.3)].
 
 ## 5.13 Development of Drug Resistant Bacteria
 

@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis and Mutagenesis and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a lifetime bioassay in rats, levofloxacin exhibited no carcinogenic potential following daily dietary administration for 2 years; the highest dose (100 mg/kg/day) was 1.4 times the highest recommended human dose (750 mg) based upon relative body surface area.
 Levofloxacin did not shorten the time to tumor development of UV-induced skin tumors in hairless albino (Skh-1) mice at any levofloxacin dose level and was therefore not photo-carcinogenic under conditions of this study.
@@ -10,7 +10,7 @@ By comparison, dermal levofloxacin concentrations in human subjects receiving 75
 Levofloxacin was not mutagenic in the following assays: Ames bacterial mutation assay (S. typhimurium and E. coli), CHO/HGPRT forward mutation assay, mouse micronucleus test, mouse dominant lethal test, rat unscheduled DNA synthesis assay, and the mouse sister chromatid exchange assay.
 It was positive in the in vitro chromosomal aberration (CHL cell line) and sister chromatid exchange (CHL/IU cell line) assays.
 
-Levofloxacin caused no impairment of fertility or reproductive performance in rats at oral doses as high as 360 mg/‌kg/‌day, corresponding to 4.2 times the highest recommended human dose based upon relative body surface area and intravenous doses as high as 100 mg/kg/day, corresponding to 1.2 times the highest recommended human dose based upon relative body surface area.
+Levofloxacin caused no impairment of fertility or reproductive performance in rats at oral doses as high as 360 mg/kg/day, corresponding to 4.2 times the highest recommended human dose based upon relative body surface area and intravenous doses as high as 100 mg/kg/day, corresponding to 1.2 times the highest recommended human dose based upon relative body surface area.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

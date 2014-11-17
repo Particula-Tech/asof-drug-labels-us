@@ -91,7 +91,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see WARNINGS AND PRECAUTIONS (5.3, 5.4)] |
 | Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see WARNINGS AND PRECAUTIONS (5.6)] |
 | Nervous System Disorders | exacerbation of myasthenia gravis [see WARNINGS AND PRECAUTIONS (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy [see WARNINGS AND PRECAUTIONS (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphoniapseudotumor cerebri [see WARNINGS AND PRECAUTIONS (5.6)] |
-| Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
+| Eye Disorders | uveitis vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see WARNINGS AND PRECAUTIONS (5.9)] tachycardia |
 | Vascular Disorders | vasodilatation |

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide (17.5).
+See FDA-Approved Medication Guide (17.6).
 
 ## 17.1 Antibacterial Resistance
 
@@ -34,7 +34,9 @@ Patients should be informed of the following serious adverse reactions that have
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
-- Peripheral Neuropathies: If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should discontinue treatment and contact their physician.
+- Peripheral Neuropathies: Patients should be informed that peripheral neuropathy has been associated with levofloxacinuse.
+  Symptoms may occur soon after initiation of therapy and may be irreversible.
+  If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should discontinue treatment and contact their physician.
 - Prolongation of the QT Interval: Patients should inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
   Patients should notify their physicians if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
 - Musculoskeletal Disorders in Pediatric Patients: Parents should inform their child’s physician if their child has a history of joint-related problems before taking this drug.
@@ -51,9 +53,14 @@ Patients should be informed that if they are diabetic and are being treated with
 Patients should be informed that concurrent administration of warfarin and levofloxacin has been associated with increases of the International Normalized Ratio (INR) or prothrombin time and clinical episodes of bleeding.
 Patients should notify their physician if they are taking warfarin, be monitored for evidence of bleeding, and also have their anticoagulation tests closely monitored while taking warfarin concomitantly.
 
+## 17.5 Plague and Anthrax Studies
+
+Patients given levofloxacinfor these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
+Therefore, approval for these conditions was based on efficacy studies conducted in animals.
+
 Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
 Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
 
 Distributed by: WEST-WARD PHARMACEUTICAL CORP. Eatontown, NJ 07724 USA
 
-Issued: 10/2011
+PIN287-WES/3 Revised: 09/2014
