@@ -4,7 +4,7 @@ Agranulocytosis
 
 Clozapine treatment has caused agranulocytosis, defined as an absolute neutrophil count (ANC) less than 500/mm3.
 Agranulocytosis can lead to serious infection and death.
-Prior to initiating treatment with clozapine, obtain a baseline white blood cell count (WBC) and ANC.
+Prior to initiating treatment with clozapine, obtain a baseline white blood cell (WBC) count and ANC.
 The ANC must be greater than or equal to 2000/mm3 and the WBC must be greater than or equal to 3500/mm3 for a patient to begin treatment with clozapine.
 During treatment, patients must have regular monitoring of ANC and WBC.
 Discontinue clozapine and do not rechallenge if the ANC is less than 1000/mm3 or the WBC is less than 2000/mm3.

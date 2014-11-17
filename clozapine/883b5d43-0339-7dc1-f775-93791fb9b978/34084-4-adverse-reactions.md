@@ -47,7 +47,7 @@ Table 9 summarizes the adverse reactions reported in clozapine-treated patients 
 These rates are not adjusted for duration of exposure.
 
 Table 9.
-Adverse Reactions (≥ 2%) Reported in Clozapine-Treated Patients (N = 842) across all Clozapine Studies (excluding the 2-year InterSePT™ Study)
+Adverse Reactions (≥ 2%) Reported in Clozapine-Treated Patients (N = 842) Across all Clozapine Studies (excluding the 2-year InterSePT™ Study)
 
 | Body SystemAdverse Reaction | ClozapineN = 842Percentage of Patients |
 | --- | --- |
@@ -102,15 +102,15 @@ Incidence of Adverse Reactions in Patients Treated with Clozapine or Olanzapine 
 
 | Adverse Reactions | ClozapineN = 479% Reporting | OlanzapineN = 477% Reporting |
 | --- | --- | --- |
-| Salivary hypersecretion | 48% | 6% |
-| Somnolence | 46% | 25% |
-| Weight increased | 31% | 56% |
-| Dizziness (excluding vertigo) | 27% | 12% |
-| Constipation | 25% | 10% |
-| Insomnia | 20% | 33% |
-| Nausea | 17% | 10% |
-| Vomiting | 17% | 9% |
-| Dyspepsia | 14% | 8% |
+| Salivary hypersecretion | 48 | 6 |
+| Somnolence | 46 | 25 |
+| Weight increased | 31 | 56 |
+| Dizziness (excluding vertigo) | 27 | 12 |
+| Constipation | 25 | 10 |
+| Insomnia | 20 | 33 |
+| Nausea | 17 | 10 |
+| Vomiting | 17 | 9 |
+| Dyspepsia | 14 | 8 |
 
 ### Dystonia
 
@@ -128,17 +128,19 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Central Nervous System: Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, and post-discontinuation cholinergic rebound adverse reactions.
 
-Cardiovascular System: Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de pointes, myocardial infarction, cardiac arrest, and periorbital edema.
+Cardiovascular System: Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, myocardial infarction, cardiac arrest, and periorbital edema.
 
-Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling.
+Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling, colitis.
 
 Hepatobiliary System: Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 
+Immune System Disorders: Angioedema, leukocytoclastic vasculitis.
+
 Urogenital System: Acute interstitial nephritis, nocturnal enuresis, priapism, and renal failure.
 
-Skin: Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, and Stevens-Johnson Syndrome.
+Skin and Subcutaneous Tissue Disorders: Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson Syndrome.
 
-Musculoskeletal System: Myasthenic syndrome and rhabdomyolysis.
+Musculoskeletal System and Connective Tissue Disorders: Myasthenic syndrome, rhabdomyolysis, and systemic lupus erythematosus.
 
 Respiratory System: Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
 

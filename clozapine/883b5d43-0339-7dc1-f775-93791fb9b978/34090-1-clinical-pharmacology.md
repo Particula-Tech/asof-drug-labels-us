@@ -4,7 +4,7 @@
 
 The mechanism of action of clozapine is unknown.
 However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D2) and the serotonin type 2A (5-HT2A) receptors.
-Clozaril also acts as an antagonist at adrenergic, cholinergic, histaminergic and other dopaminergic and serotonergic receptors.
+Clozapine also acts as an antagonist at adrenergic, cholinergic, histaminergic and other dopaminergic and serotonergic receptors.
 
 ## 12.2 Pharmacodynamics
 
@@ -41,10 +41,10 @@ Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2
 Approximately 50% of the administered dose is excreted in the urine and 30% in the feces.
 The demethylated, hydroxylated, and N-oxide derivatives are components in both urine and feces.
 Pharmacological testing has shown the desmethyl metabolite (norclozapine) to have only limited activity, while the hydroxylated and N-oxide derivatives were inactive.
-The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to12 hours), compared to a mean elimination half-life of 12 hours (range: 4-66 hours), after achieving steady-state with 100mg twice daily dosing.
+The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to 12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady-state with 100 mg twice daily dosing.
 
 A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics.
-However, at steady-state, approximately dose proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5 mg, 75 mg, 150 mg twice daily.
+However, at steady-state, approximately dose proportional changes with respect to area under the curve (AUC), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5 mg, 75 mg, and 150 mg twice daily.
 
 ### Drug-Drug Interaction Studies
 

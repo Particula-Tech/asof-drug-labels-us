@@ -26,7 +26,7 @@ In embryofetal developmental studies, clozapine had no effects on maternal param
 
 In peri/postnatal developmental studies, pregnant female rats were administered clozapine over the last third of pregnancy and until day 21 postpartum.
 Observations were made on fetuses at birth and during the postnatal period; the offspring were allowed to reach sexual maturity and mated.
-Clozapine caused a decrease in maternal body weight but had no effects on litter size or body weights of either F1or F2 generations at doses up to 0.4 times the MRHD of 900 mg/day on a mg/m2 body surface area basis.
+Clozapine caused a decrease in maternal body weight but had no effects on litter size or body weights of either F1 or F2 generations at doses up to 0.4 times the MRHD of 900 mg/day on a mg/m2 body surface area basis.
 
 ## 8.3 Nursing Mothers
 

@@ -47,7 +47,7 @@ Frequency of Monitoring Based on Stage of Therapy or Results from WBC Count and 
 | 12 months of therapy | WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3 | Every 4 weeks ad infinitum |
 | Immature forms present | N/A | Repeat WBC and ANC |
 | Discontinuation of therapy | N/A | Weekly for at least 4 weeks from day of discontinuation or until WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3 |
-| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of: WBC ≥ 3000/mm3 or ANC ≥ 1500/mm3 | 1. Repeat WBC and ANC2. If repeat values are: WBC 3000/mm3 to 3500 and ANC > 2000/mm3, then monitor twice weekly |
+| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of: WBC ≥ 3000/mm3 or ANC ≥ 1500/mm3 | 1. Repeat WBC and ANC2. If repeat values are: WBC 3000/mm3 to 3500 and ANC ≤ 2000/mm3, then monitor twice weekly |
 | Mild leukopenia and/or Mild granulocytopenia | If WBC 3000 mm3 to < 3500/mm3 and/or ANC 1500/mm3 to < 2000/mm3 | Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3 then return to previous monitoring frequency |
 | Moderate leukopenia and/or Moderate granulocytopenia | WBC 2000/mm3 to < 3000/mm3 and/or ANC 1000/mm3 to < 1500/mm3 | 1. Interrupt therapy 2. Daily until WBC > 3000/mm3 and ANC > 1500/mm33. Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm34. May rechallenge when WBC > 3500/mm3 and ANC > 2000/mm35. If rechallenged, monitor weekly for one year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum. |
 | Severe leukopenia and/or Severe granulocytopenia | WBC count < 2000/mm3 and/or ANC < 1000/mm3 | 1. Discontinue treatment and do not rechallenge patient.2. Monitor until normal and for at least 4 weeks from day of discontinuation as follows:- Daily until WBC > 3000/mm3 and ANC >1500/mm3- Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3- Weekly after WBC > 3500/mm3 |
@@ -78,7 +78,7 @@ Although clozapine therapy may be resumed if no symptoms of infection develop an
 Analyses of the Clozapine National Registry have shown an increased risk of having a subsequent episode of granulopoietic suppression up to a year after recovery from the initial episode.
 Therefore, as noted in Table 2, patients must undergo weekly WBC count and ANC monitoring for one year following recovery from an episode of moderate leukopenia and/or moderate granulocytopenia regardless of when the episode develops.
 If acceptable WBC counts and ANC (WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3) have been maintained during the year of weekly monitoring, WBC counts can be monitored every 2 weeks for the next 6 months.
-If acceptable WBC counts and ANC (WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3) continue to be maintained during the 6 months of every-2-week monitoring, WBC counts can be monitored every 4 weeks thereafter, ad infinitum.
+If acceptable WBC counts and ANC (WBC count ≥ 3500/mm3 and ANC ≥ 2000/mm3) continue to be maintained during the 6 months of every 2-week monitoring, WBC counts can be monitored every 4 weeks thereafter, ad infinitum.
 
 ### Interruptions in Therapy
 
@@ -97,7 +97,7 @@ Required components of CPAS are:
 - •Healthcare professionals who prescribe clozapine tablets must enroll in the program and comply with the CPAS requirements.
   - •Pharmacies that dispense clozapine tablets must enroll in the program and comply with the CPAS requirements.
 - •Routine monitoring and submission of laboratory results (WBC and ANC) is required during treatment with clozapine tablets [see Warnings and Precautions (5.1)].
-- •Patients that receive clozapine tablets must be enrolled in the Clozapine Prescription Access System (CPAS).
+- •Patients who receive clozapine tablets must be enrolled in the Clozapine Prescription Access System (CPAS).
 
 Further information is available at https://www.mylan-clozapine.com or 1-800-843-9915.
 
@@ -160,7 +160,7 @@ Eosinophilia, defined as a blood eosinophil count of greater than 700/mm3, has o
 In clinical trials, approximately 1% of patients developed eosinophilia.
 Clozapine-related eosinophilia usually occurs during the first month of treatment.
 In some patients, it has been associated with myocarditis, pancreatitis, hepatitis, colitis, and nephritis.
-Such organ involvement could be consistent with a drug reaction with eosinophilia and systemic symptoms syndrome (DRESS), also known as drug induced hypersensitivity syndrome (DIHS).
+Such organ involvement could be consistent with a drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome, also known as drug induced hypersensitivity syndrome (DIHS).
 If eosinophilia develops during clozapine treatment, evaluate promptly for signs and symptoms of systemic reactions, such as rash or other allergic symptoms, myocarditis, or other organ-specific disease associated with eosinophilia.
 If clozapine-related systemic disease is suspected, discontinue clozapine immediately.
 
@@ -173,7 +173,7 @@ If the total eosinophil count continues to increase over several weeks in the ab
 
 ## 5.8 QT Interval Prolongation
 
-QT prolongation, Torsades de pointes and other life threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with clozapine treatment.
+QT prolongation, Torsades de Pointes and other life threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with clozapine treatment.
 When prescribing clozapine, consider the presence of additional risk factors for QT prolongation and serious cardiovascular reactions.
 Conditions that increase these risks include the following: history of QT prolongation, long QT syndrome, family history of long QT syndrome or sudden cardiac death, significant cardiac arrhythmia, recent myocardial infarction, uncompensated heart failure, treatment with other medications that cause QT prolongation, treatment with medications that inhibit the metabolism of clozapine, and electrolyte abnormalities.
 
@@ -250,7 +250,7 @@ Mean Changes in Total Cholesterol and Triglyceride Concentration in Studies in A
 | Treatment Arm | Baseline total cholesterolconcentration (mg/dL) | Change from baselinemg/dL (%) |
 | --- | --- | --- |
 | Clozapine (N = 334) | 184 | +13 (7) |
-| Chlorpromazine (185) | 182 | +15 (8) |
+| Chlorpromazine (N = 185) | 182 | +15 (8) |
 |  | Baseline triglycerideconcentration (mg/dL) | Change from baselinemg/dL (%) |
 | Clozapine (N = 6) | 130 | +71 (54) |
 | Chlorpromazine (N = 7) | 110 | +39 (35) |

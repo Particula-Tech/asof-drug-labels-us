@@ -14,7 +14,7 @@ Patients must have had a Clinical Global Impressions – Severity Scale score of
 In the prospective, lead-in phase of the trial, all patients (N = 305) initially received single-blind treatment with haloperidol (the mean dose was 61 mg per day) for 6 weeks.
 More than 80% of patients completed the 6-week trial.
 Patients with an inadequate response to haloperidol (n = 268) were randomized to double-blind treatment with clozapine (N = 126) or chlorpromazine (N = 142).
-The maximum daily clozapine dose was 900 mg; the mean daily dose was > 600 mg).
+The maximum daily clozapine dose was 900 mg; the mean daily dose was > 600 mg.
 The maximum daily chlorpromazine dose was 1800 mg; the mean daily dose was > 1200 mg.
 
 The primary endpoint was treatment response, predefined as a decrease in BPRS score of at least 20% and either (1) a CGI-S score of ≤ 3 (mildly ill), or (2) a BPRS score of ≤ 35, at the end of 6 weeks of treatment.
@@ -54,7 +54,7 @@ Most patients were Caucasian (71%), 15% were Black, 1% were Asian, and 13% were 
 Patients treated with clozapine had a statistically significant longer delay in the time to recurrent suicidal behavior in comparison with olanzapine.
 This result should be interpreted only as evidence of the effectiveness of clozapine in delaying time to recurrent suicidal behavior and not a demonstration of the superior efficacy of clozapine over olanzapine.
 
-The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization because of imminent suicide risk, including increased level of surveillance for suicidality for patients already hospitalized, was lower for clozapine patients than for olanzapine patients at Week 104: Clozapine 24% vs. olanzapine 32%; 95% CI of the difference: 2%, 14% (Figure 2).
+The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization because of imminent suicide risk, including increased level of surveillance for suicidality for patients already hospitalized, was lower for clozapine patients than for olanzapine patients at Week 104: clozapine 24% vs. olanzapine 32%; 95% CI of the difference: 2%, 14% (Figure 2).
 
 Figure 2.
 Cumulative Probability of a Significant Suicide Attempt or Hospitalization to Prevent Suicide in Patients with Schizophrenia or Schizoaffective Disorder at High Risk of Suicidality
