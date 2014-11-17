@@ -1,5 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+See FDA-Approved Patient Labeling
+
+FDA-Approved Patient Labeling
+
 VORICONAZOLE TABLETS (vor" i kon' a zole)
 
 50 mg and 200 mg
@@ -29,6 +33,7 @@ Do not take voriconazole tablets if you:
   - •rifampin (Rifadin®)
   - •carbamazepine (Tegretol®)
   - •long-acting barbiturates like phenobarbital (Luminal®)
+  - •efavirenz (Sustiva®)
   - •ritonavir (Norvir®)
   - •rifabutin (Mycobutin®)
   - •ergotamine, dihydroergotamine (ergot alkaloids)
@@ -53,10 +58,9 @@ Before you take voriconazole tablets, tell your healthcare provider if you:
   Voriconazole tablets can harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
   Women who can become pregnant should use effective birth control while taking voriconazole tablets.
-
-are breast-feeding or plan to breast-feed.
-It is not known if voriconazole passes into breast milk.
-Talk to your healthcare provider about the best way to feed your baby if you take voriconazole tablets.
+- •are breast-feeding or plan to breast-feed.
+  It is not known if voriconazole passes into breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you take voriconazole tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 
@@ -148,7 +152,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store voriconazole tablets?
 
 - •Store voriconazole tablets at room temperature, 20° to 25°C (68° to 77°F).
-  [See USP Controlled Room Temperature.]
   Do not refrigerate or freeze.
 - •Keep voriconazole tablets in a tightly closed container.
 - •Safely throw away medicine that is out of date or no longer needed.
@@ -156,7 +159,7 @@ How should I store voriconazole tablets?
 
 General information about the safe and effective use of voriconazole tablets
 
-Medicines are sometimes prescribed for purposs other than those listed in a Patient Information leaflet.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use voriconazole tablets for a condition for which it was not prescribed.
 Do not give voriconazole tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -169,14 +172,16 @@ For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4
 
 What are the ingredients of voriconazole tablets?
 
-Active ingredient: voriconazole
+Active ingredient: voriconazole, USP
 
-Inactive ingredients: croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, povidone, pregelatinized starch, titanium dioxide and triacetin.
+Inactive ingredients: croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, povidone, pregelatinized starch (corn), titanium dioxide and triacetin.
 
-Trademarks are property of their respective owners.
-
-Manufactured in India by: Mylan Laboratories Limited Hyderabad—500 034, India Code No. MH/DRUGS/25/NKD/89
+The brands listed are trademarks of their respective owners.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED DECEMBER 2011 MX:VORIC:R3pt
+Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
+
+75055384
+
+REVISED OCTOBER 2014 MX:VORIC:R4

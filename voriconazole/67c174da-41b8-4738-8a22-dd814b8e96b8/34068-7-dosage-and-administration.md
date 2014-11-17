@@ -28,10 +28,10 @@ Patients should be treated for a minimum of 14 days and for at least 7 days foll
 Table 1.
 Recommended Dosing Regimen
 
-| Infection | Loading dose | Maintenance DoseIncrease dose when voriconazole is coadministered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.7)In healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see Clinical Pharmacology (12)] |  |
+| Infection | Loading dose | Maintenance DoseIncrease dose when voriconazole is coadministered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.7).In healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see Clinical Pharmacology (12)]. |  |
 | --- | --- | --- | --- |
 |  | IV | IV | OralAdult patients who weigh less than 40 kg should receive half of the oral maintenance dose. |
-| Invasive AspergillosisIn a clinical study of invasive aspergillosis, the median duration of IV voriconazole therapy was 10 days (range 2 to 90 days). The median duration of oral voriconazole therapy was 76 days (range 2 to 232 days) [see Clinical Studies (14.1)] | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
+| Invasive AspergillosisIn a clinical study of invasive aspergillosis, the median duration of IV voriconazole therapy was 10 days (range 2 to 85 days). The median duration of oral voriconazole therapy was 76 days (range 2 to 232 days) [see Clinical Studies (14.1)]. | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
 | Candidemia in non-neutropenic patients and other deep tissue Candida infections | 6 mg/kg q12h for the first 24 hours | 3 to 4 mg/kg q12hIn clinical trials, patients with candidemia received 3 mg/kg IV q12h as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg q12h as salvage therapy. Appropriate dose should be based on the severity and nature of the infection. | 200 mg q12h |
 | Esophageal Candidiasis | Not evaluated in patients with esophageal candidiasis. |  | 200 mg q12h |
 | Scedosporiosis and Fusariosis | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
@@ -47,7 +47,9 @@ If patient is unable to tolerate 4 mg/kg IV q12h, reduce the intravenous mainten
 The maintenance dose of voriconazole should be increased when coadministered with phenytoin or efavirenz [see Drug Interactions (7)].
 
 The maintenance dose of voriconazole should be reduced in patients with mild to moderate hepatic impairment, Child-Pugh Class A and B [see Dosage and Administration (2.7)].
-There are no PK data to allow for dosage adjustment recommendations in patients with severe hepatic impairment (Child-Pugh Class C). Duration of therapy should be based on the severity of the patient’s underlying disease, recovery from immunosuppression and clinical response.
+There are no PK data to allow for dosage adjustment recommendations in patients with severe hepatic impairment (Child-Pugh Class C).
+
+Duration of therapy should be based on the severity of the patient’s underlying disease, recovery from immunosuppression and clinical response.
 
 ## 2.7 Use in Patients with Hepatic Impairment
 
@@ -62,7 +64,7 @@ Patients with hepatic insufficiency must be carefully monitored for drug toxicit
 
 ## 2.8 Use in Patients with Renal Impairment
 
-The pharmacokinetics of orally administered voriconazole are not significantly affected by renal impairment.
+The pharmacokinetics of orally administered voriconazole tablets are not significantly affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing in patients with mild to severe renal impairment [see Clinical Pharmacology (12.3)].
 
 In patients with moderate or severe renal impairment (creatinine clearance < 50 mL/min), accumulation of the intravenous vehicle, SBECD, occurs.

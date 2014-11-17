@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category D
+### Teratogenic Effects. Pregnancy Category D
 
 Voriconazole can cause fetal harm when administered to a pregnant woman and should not be taken in pregnancy except in patients where the benefit to the mother clearly outweighs the potential risk to the fetus.
 There are no adequate and well controlled studies in pregnant women.
@@ -44,4 +44,4 @@ However, the overall safety profile of the elderly patients was similar to that 
 
 Women of childbearing potential should use effective contraception during treatment.
 The coadministration of voriconazole with the oral contraceptive, Ortho-Novum® (35 mcg ethinyl estradiol and 1 mg norethindrone), results in an interaction between these two drugs, but is unlikely to reduce the contraceptive effect.
-Monitoring for adverse events associated with oral contraceptives and voriconazole is recommended [see Drug Interactions (7) and Clinical Pharmacology (12.3)]
+Monitoring for adverse events associated with oral contraceptives and voriconazole is recommended [see Drug Interactions (7) and Clinical Pharmacology (12.3)].

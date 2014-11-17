@@ -4,15 +4,15 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Overview
 
-The most frequently reported adverse events (all causalities) in the therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3.0%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
-The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash and visual disturbances [see Warning and Precautions (5.2, 5.3) and Adverse Reactions (6.2, 6.3)].
+The most frequently reported adverse events (all causalities) in the therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
+The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash and visual disturbances [see Warnings and Precautions (5.2, 5.3) and Adverse Reactions (6.2, 6.3)].
 
 ## 6.2 Clinical Trial Experience in Adults
 
 The data described in Table 2 reflect exposure to voriconazole in 1,655 patients in the therapeutic studies.
-This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy or HIV and non-neutropenic patients.
+This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy or HIV and nonneutropenic patients.
 This subgroup does not include healthy subjects and patients treated in the compassionate use and non-therapeutic studies.
-This patient population was 62% male, had a mean age of 46 years (range 11 to 90, including 51 patients aged 12 to 18 years) and was 78% white and 10% black.
+This patient population was 62% male, had a mean age of 46 years (range 11 to 90, including 51 patients aged 12 to 18 years) and was 78% White and 10% Black.
 Five hundred sixty one patients had a duration of voriconazole therapy of greater than 12 weeks, with 136 patients receiving voriconazole for over 6 months.
 Table 2 includes all adverse events which were reported at an incidence of ≥ 2% during voriconazole therapy in the all therapeutic studies population, studies 307/602 and 608 combined or study 305, as well as events of concern which occurred at an incidence of < 2%.
 
@@ -25,7 +25,7 @@ The rate of discontinuation from voriconazole study medication in Study 305 due 
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
 Table 2.
-Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined or Study 305.
+Treatment Emergent Adverse Events: Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined or Study 305.
 Possibly Related to Therapy or Causality UnknownStudy 307/602: invasive aspergillosis; Study 608: candidemia; Study 305: esophageal candidiasis
 
 |  | All Therapeutic Studies | Studies 307/602 and 608 (IV/oral therapy) |  |  | Study 305 (oral therapy) |  |
@@ -75,7 +75,7 @@ The mechanism of action of the visual disturbance is unknown, although the site 
 In a study in healthy subjects investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field and an alteration in color perception.
 The ERG measures electrical currents in the retina.
 The effects were noted early in administration of voriconazole and continued through the course of study drug dosing.
-Fourteen days after end of dosing, ERG, visual fields and color perception returned to normal [see Warnings an Precautions (5)].
+Fourteen days after end of dosing, ERG, visual fields and color perception returned to normal [see Warnings and Precautions (5)].
 
 ### Dermatological Reactions
 
@@ -96,31 +96,29 @@ The following adverse events occurred in < 2% of all voriconazole-treated patien
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
 The list does not include events included in Table 2 above and does not include every event reported in the voriconazole clinical program.
 
-Body as a Whole: abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction [see Warnings and Precautions (5.6)], ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain
+Body as a Whole: abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction [see Warnings and Precautions (5.6)], ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain.
 
 Cardiovascular: atrial arrhythmia, atrial fibrillation, AV block complete, bigeminy, bradycardia, bundle branch block, cardiomegaly, cardiomyopathy, cerebral hemorrhage, cerebral ischemia, cerebrovascular accident, congestive heart failure, deep thrombophlebitis, endocarditis, extrasystoles, heart arrest, hypertension, hypotension, myocardial infarction, nodal arrhythmia, palpitation, phlebitis, postural hypotension, pulmonary embolus, QT interval prolonged, supraventricular extrasystoles, supraventricular tachycardia, syncope, thrombophlebitis, vasodilatation, ventricular arrhythmia, ventricular fibrillation, ventricular tachycardia (including torsade de pointes) [see Warnings and Precautions (5.6)].
 
-Digestive: anorexia, cheilitis, cholecystitis, cholelithiasis, constipation, diarrhea, duodenal ulcer perforation, duodenitis, dyspepsia, dysphagia, dry mouth, esophageal ulcer, esophagitis, flatulence, gastroenteritis, gastrointestinal hemorrhage, GGT/LDH elevated, gingivitis, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hepatic coma, hepatic failure, hepatitis, intestinal perforation, intestinal ulcer, jaundice, enlarged liver, melena, mouth ulceration, pancreatitis, parotid gland enlargement, periodontitis, proctitis, pseudomembranous colitis, rectal disorder, rectal hemorrhage, stomach ulcer, stomatitis, tongue edema
+Digestive: anorexia, cheilitis, cholecystitis, cholelithiasis, constipation, diarrhea, duodenal ulcer perforation, duodenitis, dyspepsia, dysphagia, dry mouth, esophageal ulcer, esophagitis, flatulence, gastroenteritis, gastrointestinal hemorrhage, GGT/LDH elevated, gingivitis, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hepatic coma, hepatic failure, hepatitis, intestinal perforation, intestinal ulcer, jaundice, enlarged liver, melena, mouth ulceration, pancreatitis, parotid gland enlargement, periodontitis, proctitis, pseudomembranous colitis, rectal disorder, rectal hemorrhage, stomach ulcer, stomatitis, tongue edema.
 
-Endocrine: adrenal cortex insufficiency, diabetes insipidus, hyperthyroidism, hypothyroidism
+Endocrine: adrenal cortex insufficiency, diabetes insipidus, hyperthyroidism, hypothyroidism.
 
-Hemic and Lymphatic: agranulocytosis, anemia (macrocytic, megaloblastic, microcytic, normocytic), aplastic anemia, hemolytic anemia, bleeding time increased, cyanosis, DIC, ecchymosis, eosinophilia, hypervolemia, leukopenia, lymphadenopathy, lymphangitis, marrow depression, pancytopenia, petechia, purpura, enlarged spleen, thrombocytopenia, thrombotic thrombocytopenic purpura
+Hemic and Lymphatic: agranulocytosis, anemia (macrocytic, megaloblastic, microcytic, normocytic), aplastic anemia, hemolytic anemia, bleeding time increased, cyanosis, DIC, ecchymosis, eosinophilia, hypervolemia, leukopenia, lymphadenopathy, lymphangitis, marrow depression, pancytopenia, petechia, purpura, enlarged spleen, thrombocytopenia, thrombotic thrombocytopenic purpura.
 
-Metabolic and Nutritional: albuminuria, BUN increased, creatine phosphokinase increased, edema, glucose tolerance decreased, hypercalcemia, hypercholesteremia, hyperglycemia, hyperkalemia, hypermagnesemia, hypernatremia, hyperuricemia, hypocalcemia, hypoglycemia, hypomagnesemia, hyponatremia, hypophosphatemia, peripheral edema, uremia
+Metabolic and Nutritional: albuminuria, BUN increased, creatine phosphokinase increased, edema, glucose tolerance decreased, hypercalcemia, hypercholesteremia, hyperglycemia, hyperkalemia, hypermagnesemia, hypernatremia, hyperuricemia, hypocalcemia, hypoglycemia, hypomagnesemia, hyponatremia, hypophosphatemia, peripheral edema, uremia.
 
-Musculoskeletal: arthralgia, arthritis, bone necrosis, bone pain, leg cramps, myalgia, myasthenia, myopathy, osteomalacia, osteoporosis
+Musculoskeletal: arthralgia, arthritis, bone necrosis, bone pain, leg cramps, myalgia, myasthenia, myopathy, osteomalacia, osteoporosis.
 
-Nervous System: abnormal dreams, acute brain syndrome, agitation, akathisia, amnesia, anxiety, ataxia, brain edema, coma, confusion, convulsion, delirium, dementia, depersonalization, depression, diplopia, dizziness, encephalitis, encephalopathy, euphoria, Extrapyramidal Syndrome, grand mal convulsion, Guillain-Barré syndrome, hypertonia, hypesthesia, insomnia, intracranial hypertension, libido decreased, neuralgia, neuropathy, nystagmus, oculogyric
+Nervous System: abnormal dreams, acute brain syndrome, agitation, akathisia, amnesia, anxiety, ataxia, brain edema, coma, confusion, convulsion, delirium, dementia, depersonalization, depression, diplopia, dizziness, encephalitis, encephalopathy, euphoria, Extrapyramidal Syndrome, grand mal convulsion, Guillain-Barré syndrome, hypertonia, hypesthesia, insomnia, intracranial hypertension, libido decreased, neuralgia, neuropathy, nystagmus, oculogyric crisis, paresthesia, psychosis, somnolence, suicidal ideation, tremor, vertigo.
 
-crisis, paresthesia, psychosis, somnolence, suicidal ideation, tremor, vertigo
+Respiratory System: cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngitis, pleural effusion, pneumonia, respiratory disorder, respiratory distress syndrome, respiratory tract infection, rhinitis, sinusitis, voice alteration.
 
-Respiratory System: cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngitis, pleural effusion, pneumonia, respiratory disorder, respiratory distress syndrome, respiratory tract infection, rhinitis, sinusitis, voice alteration
+Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria.
 
-Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria
+Special Senses: abnormality of accommodation, blepharitis, color blindness, conjunctivitis, corneal opacity, deafness, ear pain, eye pain, eye hemorrhage, dry eyes, hypoacusis, keratitis, keratoconjunctivitis, mydriasis, night blindness, optic atrophy, optic neuritis, otitis externa, papilledema, retinal hemorrhage, retinitis, scleritis, taste loss, taste perversion, tinnitus, uveitis, visual field defect.
 
-Special Senses: abnormality of accommodation, blepharitis, color blindness, conjunctivitis, corneal opacity, deafness, ear pain, eye pain, eye hemorrhage, dry eyes, hypoacusis, keratitis, keratoconjunctivitis, mydriasis, night blindness, optic atrophy, optic neuritis, otitis externa, papilledema, retinal hemorrhage, retinitis, scleritis, taste loss, taste perversion, tinnitus, uveitis, visual field defect
-
-Urogenital: anuria, blighted ovum, creatinine clearance decreased, dysmenorrhea, dysuria, epididymitis, glycosuria, hemorrhagic cystitis, hematuria, hydronephrosis, impotence, kidney pain, kidney tubular necrosis, metrorrhagia, nephritis, nephrosis, oliguria, scrotal edema, urinary incontinence, urinary retention, urinary tract infection, uterine hemorrhage, vaginal hemorrhage
+Urogenital: anuria, blighted ovum, creatinine clearance decreased, dysmenorrhea, dysuria, epididymitis, glycosuria, hemorrhagic cystitis, hematuria, hydronephrosis, impotence, kidney pain, kidney tubular necrosis, metrorrhagia, nephritis, nephrosis, oliguria, scrotal edema, urinary incontinence, urinary retention, urinary tract infection, uterine hemorrhage, vaginal hemorrhage.
 
 ## 6.3 Clinical Laboratory Values
 

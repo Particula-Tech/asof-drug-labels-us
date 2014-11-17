@@ -14,7 +14,7 @@ Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
-Store at 20° to 25°C (68° to 77°F).[See USP Controlled RoomTemperature.]
+Store at 20° to 25°C (68° to 77°F).[See USP Controlled Room Temperature.]
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -22,7 +22,7 @@ Made in India
 
 Mylan.com
 
-RMX1626H3
+RMX1626H4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -54,7 +54,7 @@ Made in India
 
 Mylan.com
 
-RMX1640H3
+RMX1640H4
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

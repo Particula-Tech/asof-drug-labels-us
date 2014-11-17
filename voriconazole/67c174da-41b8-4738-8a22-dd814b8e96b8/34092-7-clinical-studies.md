@@ -17,7 +17,7 @@ Diagnosis of definite or probable invasive aspergillosis was made according to c
 
 Voriconazole was administered intravenously with a loading dose of 6 mg/kg every 12 hours for the first 24 hours followed by a maintenance dose of 4 mg/kg every 12 hours for a minimum of 7 days.
 Therapy could then be switched to the oral formulation at a dose of 200 mg q12h.
-Median duration of IV voriconazole therapy was 10 days (range 2 to 90 days).
+Median duration of IV voriconazole therapy was 10 days (range 2 to 85 days).
 After IV voriconazole therapy, the median duration of PO voriconazole therapy was 76 days (range 2 to 232 days).
 
 Patients in the comparator group received conventional amphotericin B as a slow infusion at a daily dose of 1 to 1.5 mg/kg/day.
@@ -27,11 +27,11 @@ Although initial therapy with conventional amphotericin B was to be continued fo
 Patients who discontinued initial randomized therapy due to toxicity or lack of efficacy were eligible to continue in the study with OLAT treatment.
 
 A satisfactory global response at 12 weeks (complete or partial resolution of all attributable symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole treated patients compared to 32% of amphotericin B treated patients (Table 13).
-A benefit of voriconazole compared to amphotericin B on patient survival at Day 84 was seen with a 71% survival rate on voriconazole compared to 58% on amphotericin B (Table 13).
+A benefit of voriconazole compared to amphotericin B on patient survival at Day 84 was seen with a 71% survival rate on voriconazole compared to 58% on amphotericin B (Table 11).
 
-Table 13 also summarizes the response (success) based on mycological confirmation and species.
+Table 11 also summarizes the response (success) based on mycological confirmation and species.
 
-Table 13.
+Table 11.
 Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
 
 |  | Voriconazole | Ampho BAmphotericin B followed by other licensed antifungal therapy | StratifiedDifference (95% CI)Difference and corresponding 95% confidence interval are stratified by protocol |
@@ -56,17 +56,17 @@ Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasi
 
 In this non-comparative study, an overall success rate of 52% (26/50) was seen in patients treated with voriconazole for primary therapy.
 Success was seen in 17/29 (59%) with Aspergillus fumigatus infections and 3/6 (50%) patients with infections due to non-fumigatus species [A. flavus (1/1); A. nidulans (0/2); A. niger (2/2); A. terreus (0/1)].
-Success in patients who received voriconazole as salvage therapy is presented in Table 14.
+Success in patients who received voriconazole as salvage therapy is presented in Table 12.
 
-### Study 309/604 – Treatment of Patients with Invasive Aspergillosis who were Refractory to, or Intolerant of, other Antifugal Therapy
+### Study 309/604 – Treatment of Patients with Invasive Aspergillosis who were Refractory to, or Intolerant of, other Antifungal Therapy
 
 Additional data regarding response rates in patients who were refractory to, or intolerant of, other antifungal agents are also provided in Table 14.
 In this non-comparative study, overall mycological eradication for culture-documented infections due to fumigatus and non-fumigatus species of Aspergillus was 36/82 (44%) and 12/30 (40%), respectively, in voriconazole treated patients.
 Patients had various underlying diseases and species other than A. fumigatus contributed to mixed infections in some cases.
 
-For patients who were infected with a single pathogen and were refractory to, or intolerant of, other antifungal agents, the satisfactory response rates for voriconazole in studies 304 and 309/604 are presented in Table 14.
+For patients who were infected with a single pathogen and were refractory to, or intolerant of, other antifungal agents, the satisfactory response rates for voriconazole in studies 304 and 309/604 are presented in Table 12.
 
-Table 14.
+Table 12.
 Combined Response Data in Salvage Patients with Single Aspergillus Species (Studies 304 and 309/604)
 
 |  | Success n/N |
@@ -93,19 +93,19 @@ A successful response required all of the following: resolution or improvement i
 The primary analysis, which counted DRC-assessed successes at the fixed time point (12 weeks after End of Therapy [EOT]), demonstrated that voriconazole was comparable to the regimen of amphotericin B followed by fluconazole (response rates of 41% and 41%, respectively) in the treatment of candidemia.
 Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
 
-The overall clinical and mycological success rates by Candida species in Study 150-608 are presented in Table 15.
+The overall clinical and mycological success rates by Candida species in Study 150-608 are presented in Table 13.
 
-Table 15.
+Table 13.
 Overall Success Rates Sustained From EOT to the Fixed 12 Week Follow-Up Time Point by Baseline PathogenA few patients had more than one pathogen at baseline.Patients who did not have a 12 week assessment for any reason were considered a treatment failure.
 
 | Baseline Pathogen | Clinical and Mycological Success (%) |  |
 | --- | --- | --- |
 | Voriconazole | Amphotericin B →Fluconazole |  |
-| C. albicans | 46/107 (43) | 30/63 (48) |
-| C. tropicalis | 17/53 (32) | 1/16 (6) |
-| C. parapsilosis | 24/45 (53) | 10/19 (53) |
-| C. glabrata | 12/36 (33) | 7/21 (33) |
-| C. krusei | 1/4 (25) | 0/1 (0) |
+| C. albicans | 46/107 (43%) | 30/63 (48%) |
+| C. tropicalis | 17/53 (32%) | 1/16 (6%) |
+| C. parapsilosis | 24/45 (53%) | 10/19 (53%) |
+| C. glabrata | 12/36 (33%) | 7/21 (33%) |
+| C. krusei | 1/4 | 0/1 |
 
 In a secondary analysis, which counted DRC-assessed successes at any time point (EOT, or 2, 6 or 12 weeks after EOT), the response rates were 65% for voriconazole and 71% for the regimen of amphotericin B followed by fluconazole.
 
@@ -119,28 +119,28 @@ Patients were treated for a median of 15 days (range 1 to 49 days).
 Outcome was assessed by repeat endoscopy at end of treatment (EOT).
 A successful response was defined as a normal endoscopy at EOT or at least a 1 grade improvement over baseline endoscopic score.
 For patients in the Intent to Treat (ITT) population with only a baseline endoscopy, a successful response was defined as symptomatic cure or improvement at EOT compared to baseline.
-Voriconazole and fluconazole (200 mg once daily) showed comparable efficacy rates against esophageal candidiasis, as presented in Table 16.
+Voriconazole and fluconazole (200 mg once daily) showed comparable efficacy rates against esophageal candidiasis, as presented in Table 14.
 
-Table 16.
+Table 14.
 Success Rates in Patients Treated for Esophageal Candidiasis
 
-| Population | Voriconazole (%) | Fluconazole (%) | Difference % (95% CI)Confidence Interval for the difference (Voriconazole – Fluconazole) in success rates. |
+| Population | Voriconazole | Fluconazole | Difference % (95% CI)Confidence Interval for the difference (Voriconazole – Fluconazole) in success rates. |
 | --- | --- | --- | --- |
-| PPPP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment and had a repeat endoscopy at EOT (end of treatment). | 113/115 (98.2) | 134/141 (95) | 3.2 (-1.1, 7.5) |
-| ITTITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT were treated as failures. | 175/200 (87.5) | 171/191 (89.5) | -2 (-8.3, 4.3) |
+| PPPP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment and had a repeat endoscopy at EOT (end of treatment). | 113/115 (98.2%) | 134/141 (95%) | 3.2 (-1.1, 7.5) |
+| ITTITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT were treated as failures. | 175/200 (87.5%) | 171/191 (89.5%) | -2 (-8.3, 4.3) |
 
-Microbiologic success rates by Candida species are presented in Table 17.
+Microbiologic success rates by Candida species are presented in Table 15.
 
-Table 17.
+Table 15.
 Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study 150-305)
 
 | PathogenSome patients had more than one species isolated at baseline | Voriconazole |  | Fluconazole |  |
 | --- | --- | --- | --- | --- |
 | Favorable endoscopic responsePatients with endoscopic and/or mycological assessment at end of therapy | Mycological eradication | Favorable endoscopic response | Mycological eradication |  |
 | Success/Total(%) | Eradication/Total(%) | Success/Total(%) | Eradication/Total (%) |  |
-| C. albicans | 134/140 (96) | 90/107 (84) | 147/156 (94) | 91/115 (79) |
-| C. glabrata | 8/8 (100) | 4/7 (57) | 4/4 (100) | 1/4 (25) |
-| C. krusei | 1/1 (100) | 1/1 (100) | 2/2 (100) | 0/0 |
+| C. albicans | 134/140 (96%) | 90/107 (84%) | 147/156 (94%) | 91/115 (79%) |
+| C. glabrata | 8/8 (100%) | 4/7 (57%) | 4/4 (100%) | 1/4 (25%) |
+| C. krusei | 1/1 | 1/1 | 2/2 (100%) | 0/0 |
 
 ## 14.4 Other Serious Fungal Pathogens
 
