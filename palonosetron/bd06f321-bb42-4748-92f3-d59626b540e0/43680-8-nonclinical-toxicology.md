@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carciogenesis, Mutagenesis, Impairment of Fertility
 
 In a 104-week carcinogenicity study in CD-1 mice, animals were treated with oral doses of palonosetron at 10, 30 and 60 mg/kg/day.
 Treatment with palonosetron was not tumorigenic.

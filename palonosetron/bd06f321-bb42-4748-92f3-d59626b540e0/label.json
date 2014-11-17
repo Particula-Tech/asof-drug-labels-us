@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022233"
+  ],
   "inn": "palonosetron",
-  "labeler": "",
+  "labeler": "Eisai Inc.",
   "package_ndcs": [
     "62856-799-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "palonosetron hydrochloride",
+      "name": "ALOXI"
+    }
+  ],
   "setid": "bd06f321-bb42-4748-92f3-d59626b540e0",
   "source": "dailymed"
 }

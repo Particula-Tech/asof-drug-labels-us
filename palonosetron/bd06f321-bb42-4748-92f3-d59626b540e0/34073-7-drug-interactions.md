@@ -4,6 +4,8 @@ Palonosetron is eliminated from the body through both renal excretion and metabo
 Further in vitro studies indicated that palonosetron is not an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1 and CYP3A4/5 (CYP2C19 was not investigated) nor does it induce the activity of CYP1A2, CYP2D6, or CYP3A4/5.
 Therefore, the potential for clinically significant drug interactions with palonosetron appears to be low.
 
+Serotonin syndrome (including altered mental status, autonomic instability, and neuromuscular symptoms) has been described following the concomitant use of 5-HT3 receptor antagonists and other serotonergic drugs, including selective serotonin reuptake inhibitors (SSRIs) and serotonin and noradrenaline reuptake inhibitors (SNRIs) [see Warnings and Precautions (5.2)].
+
 A study in healthy volunteers involving single-dose I.V. palonosetron (0.75 mg) and steady state oral metoclopramide (10 mg four times daily) demonstrated no significant pharmacokinetic interaction.
 
 Concomitant administration of an antacid (Maalox® liquid 30 mL) had no effect on the oral absorption or pharmacokinetics of a single capsule of palonosetron 0.75 mg in healthy subjects.

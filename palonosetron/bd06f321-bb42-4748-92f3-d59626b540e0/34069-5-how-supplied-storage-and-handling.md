@@ -4,6 +4,5 @@ NDC #62856-799-05, ALOXI Capsules, 0.5 mg (free base), are supplied as light bei
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-
-Protect from light.
+- Store at 25ºC (77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [see USP Controlled Room Temperature].
+- Protect from light.

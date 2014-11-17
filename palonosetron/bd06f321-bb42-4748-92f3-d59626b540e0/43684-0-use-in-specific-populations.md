@@ -26,7 +26,7 @@ Safety and effectiveness in patients below the age of 18 years have not been est
 Of the total number of adult cancer patients in a pivotal study of oral palonosetron, 181 were 65 years of age and over.
 The number of geriatric patients receiving 0.5 mg palonosetron was insufficient to draw any efficacy or safety conclusions.
 
-In a cross-study comparison, after a single oral dose (0.75 mg) the systemic exposure of palonosetron (AUC) was similar, but mean Cmax was 15% lower in healthy elderly subjects ≥65 years of age compared with the subjects <65 years of age.
+In a cross-study comparison, after a single oral dose (0.75 mg) the systemic exposure of palonosetron (AUC) was similar, but mean Cmax was 15% lower in healthy elderly subjects ≥65 years of age compared with the subjects < 65 years of age.
 No dose adjustment is required for geriatric patients.
 
 ## 8.6 Renal Impairment
@@ -43,10 +43,10 @@ Dosage adjustment is not necessary in patients with any degree of hepatic impair
 
 ## 8.8 Race
 
-Oral pharmacokinetics of palonosetron were characterized in thirty-two healthy Japanese male subjects using solution over the dose range of 3-90 μg/kg.
+Oral pharmacokinetics of palonosetron were characterized in thirty-two healthy Japanese male subjects using solution over the dose range of 3-90 µg/kg.
 The apparent total body clearance was 26% higher in Japanese males than in white males based on a cross-study comparison; however, no dose adjustment is necessary.
 The pharmacokinetics of palonosetron in other races have not been adequately characterized.
 
 ## 8.9 Gender
 
-Although a single dose of 0.5 mg ALOXI Capsule was associated with a 26-35% higher systemic exposure in female subjects than in male subjects, dosage adjustment is not necessary based on gender.
+Although a single dose of 0.5 mg ALOXI Capsule was associated with a 26- 35% higher systemic exposure in female subjects than in male subjects, dosage adjustment is not necessary based on gender.

@@ -3,7 +3,7 @@
 There is no known antidote to ALOXI.
 Overdose should be managed with supportive care.
 
-Thirty-three adult cancer patients were administered oral palonosetron at a dose of 90 μg/kg (equivalent to 6 mg fixed dose) as part of a dose ranging study.
+Thirty-three adult cancer patients were administered oral palonosetron at a dose of 90 µg/kg (equivalent to 6 mg fixed dose) as part of a dose ranging study.
 This is approximately 12 times the recommended oral dose of 0.5 mg.
 This dose group had a similar incidence of adverse events compared to the other dose groups and no dose response effects were observed.
 
