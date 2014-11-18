@@ -32,11 +32,11 @@ CARDIZEM LA can be given once daily, either in the evening or in the morning.
 
 ## Concomitant Use with Other Cardiovascular Agents
 
-- 1.Sublingual NTG.
+- •Sublingual NTG.
   May be taken as required to abort acute anginal attacks during Diltiazem Hydrochloride Extended-Release therapy.
-- 2.Prophylactic Nitrate Therapy.
+- •Prophylactic Nitrate Therapy.
   Diltiazem Hydrochloride Extended-Release Tablets may be safely coadministered with short-and long-acting nitrates.
-- 3.Beta-blockers (see WARNINGS and PRECAUTIONS).
-- 4.Antihypertensives.
+- •Beta-blockers (see WARNINGS and PRECAUTIONS).
+- •Antihypertensives.
   CARDIZEM LA has an additive antihypertensive effect when used with other antihypertensive agents.
   Therefore, the dosage of Diltiazem Hydrochloride Extended-Release Tablets or the concomitant antihypertensives may need to be adjusted when adding one to the other.
