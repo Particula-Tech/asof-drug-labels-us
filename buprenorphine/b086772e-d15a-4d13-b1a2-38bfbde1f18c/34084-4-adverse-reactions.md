@@ -1,20 +1,21 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 The most frequent side effect in clinical studies involving 1,133 patients was sedation which occurred in approximately two-thirds of the patients.
 Although sedated, these patients could easily be aroused to an alert state.
 
 Other less frequent adverse reactions occurring in 5-10% of the patients were:
 
-| Nausea | Dizziness/Vertigo |
-| --- | --- |
+Nausea Dizziness/Vertigo
 
 Occurring in 1-5% of the patients:
 
-| Sweating | Headache |
-| --- | --- |
-| Hypotension | Nausea/Vomiting |
-| Vomiting | Hypoventilation |
-| Miosis |  |
+Sweating Headache
+
+Hypotension Nausea/Vomiting
+
+Vomiting Hypoventilation
+
+Miosis
 
 The following adverse reactions were reported to have occurred in less than 1% of the patients:
 
@@ -36,7 +37,7 @@ Other effects observed infrequently include malaise, hallucinations, depersonali
 
 The following reactions have been reported to occur rarely: loss of appetite, dysphoria/agitation, diarrhea, urticaria, and convulsions/lack of muscle coordination.
 
-Allergic Reactions: Cases of acute and chronic hypersensitivity to buprenorphine have been reported both in clinical trials and in the post-marketing experience of Buprenex and other buprenorphine- containing products.
+Allergic Reactions: Cases of acute and chronic hypersensitivity to buprenorphine have been reported both in clinical trials and in the postmarketing experience of Buprenex and other buprenorphine- containing products.
 The most common signs and symptoms include rashes, hives, and pruritus.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 A history of hypersensitivity to buprenorphine is a contraindication to Buprenex.

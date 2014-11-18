@@ -1,21 +1,38 @@
-Principal Display Panel – Carton Label
+# Principal Display Panel - Carton Label
 
-NDC 12496-0757-1 LIST 7571 NSN 6505-01-224-0160
+NDC 12496-0757-5
+
+LIST 7571
+
+NSN 6505-01-224-0160
 
 CIII
 
-0.3 mg buprenorphine in 1ml
+Buprenex® Injection
 
-Buprenex® Injectable (buprenorphine hydrochloride)
+(buprenorphine hydrochloride)
 
-FOR INTRAMUSCULAR OR INTRAVENOUS USE
+0.3 mg/mL
 
-5 ampuls-1 ml each
+For Intramuscular or Intravenous Use
+
+5 ampuls-1 mL each
 
 Rx only
 
-Principal Display Panel – Ampule Label
+# Principal Display Panel - Ampule Label
 
-Unit of NDC 12496-0757-1 1 ml of 0.3 mg buprenorphine CIII Buprenex® (buprenorphine HCl) IM or IV Protect from light Mfd.
-By Reckitt Benckiser Hull, England HU8 7DS.
-Distributed by Reckitt Benckiser Pharmaceuticals Inc., Richmond, VA 23235. #0060178
+NDC 12496-0757-1
+
+Buprenex®
+
+(buprenorphine HCl) Injection
+
+0.3 mg/mL
+
+For Intramuscular or Intravenous Use
+
+Protect from light Mfd. by Reckitt Benckiser,
+
+Hull, England HU8 7DS.
+RB125447

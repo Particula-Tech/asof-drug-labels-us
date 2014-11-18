@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 Impaired Respiration: As with other potent opioids, clinically significant respiratory depression may occur within the recommended dose range in patients receiving therapeutic doses of buprenorphine.
 Buprenex should be used with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or preexisting respiratory depression).
@@ -19,7 +19,7 @@ Therefore, Buprenex should be administered with caution to ambulatory patients w
 
 Use in Narcotic-Dependent Patients: Because of the narcotic antagonist activity of Buprenex, use in the physically dependent individual may result in withdrawal effects.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 General: Buprenex should be administered with caution in the elderly, debilitated patients, in children and those with severe impairment of hepatic, pulmonary, or renal function; myxedema or hypothyroidism; adrenal cortical insufficiency (e.g., Addison's disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; acute alcoholism; delirium tremens; or kyphoscoliosis.
 
@@ -45,13 +45,13 @@ Thus patients coadministered with inhibitors of CYP3A4 such as macrolide antibio
 CYP3A4 Inducers: Cytochrome P450 inducers, such as rifampin, carbamazepine, and phenytoin, induce metabolism and as such may cause increased clearance of buprenorphine.
 Caution is advised when administering Buprenex to patients receiving these medications and if necessary dose adjustments should be considered
 
-## Carcinogenesis, Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis and Impairment of Fertility:
 
 Carcinogenesis: Carcinogenicity studies were conducted in Sprague-Dawley rats and CD-1 mice.
 Buprenorphine was administered in the diet at doses of 0.6, 5.5, and 56 mg/kg/day for 27 months in rats.
 These doses were approximately equivalent to 5.7, 52 and 534 times the recommended human dose (1.2 mg) on a mg/m2 body surface area basis.
 Statistically significant dose-related increases in testicular interstitial (Leydig's) cell tumors occurred, according to the trend test adjusted for survival.
-Pair-wise comparison of the high dose against control failed to show statistical significance.
+Pairwise comparison of the high dose against control failed to show statistical significance.
 In the mouse study, buprenorphine was administered in the diet at doses of 8, 50, and 100 mg/kg/day for 86 weeks.
 
 The high dose was approximately equivalent to 477 times the recommended human dose (1.2 mg) on a mg/m2 basis.

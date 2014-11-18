@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Buprenex is a parenteral opioid analgesic with 0.3mg Buprenex being approximately equivalent to 10 mg morphine sulfate in analgesic and respiratory depressant effects in adults.
 Pharmacological effects occur as soon as 15 minutes after intramuscular injection and persist for 6 hours or longer.
@@ -15,7 +15,7 @@ Studies in patients anesthetized with 0.5% halothane have shown that this anesth
 
 Mechanism of Analgesic Action: Buprenex exerts its analgesic effect via high affinity binding to μ subclass opiate receptors in the central nervous system.
 Although Buprenex may be classified as a partial agonist, under the conditions of recommended use it behaves very much like classical μ agonists such as morphine.
-One unusual property of Buprenex observed in in vitro studies is its very slow rate of dissociation from its receptor.
+One unusual property of Buprenex observed in vitro studies is its very slow rate of dissociation from its receptor.
 This could account for its longer duration of action than morphine, the unpredictability of its reversal by opioid antagonists, and its low level of manifest physical dependence.
 
 Narcotic Antagonist Activity: Buprenorphine demonstrates narcotic antagonist activity and has been shown to be equipotent with naloxone as an antagonist of morphine in the mouse tail flick test.

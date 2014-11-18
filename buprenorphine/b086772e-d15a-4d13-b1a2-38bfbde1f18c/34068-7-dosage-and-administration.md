@@ -1,10 +1,9 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Adults: The usual dosage for persons 13 years of age and over is 1 ml Buprenex (0.3 mg buprenorphine) given by deep intramuscular or slow (over at least 2 minutes) intravenous injection at up to 6-hour intervals, as needed.
 Repeat once (up to 0.3 mg) if required, 30 to 60 minutes after initial dosage, giving consideration to previous dose pharmacokinetics, and thereafter only as needed.
 In high-risk patients (e.g., elderly, debilitated, presence of respiratory disease, etc.) and/or in patients where other CNS depressants are present, such as in the immediate postoperative period, the dose should be reduced by approximately one-half.
 Extra caution should be exercised with the intravenous route of administration, particularly with the initial dose.
-
 Occasionally, it may be necessary to administer single doses of up to 0.6 mg to adults depending on the severity of the pain and the response of the patient.
 This dose should only be given I.M. and only to adult patients who are not in a high risk category (see WARNINGS and PRECAUTIONS).
 At this time, there are insufficient data to recommend single doses greater than 0.6 mg for long-term use.
