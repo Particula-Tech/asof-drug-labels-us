@@ -6,7 +6,7 @@ A total of 256 hypertensives were treated for between 4 and 8 weeks; a total of 
 Two patients experienced first-degree AV block at the 540 mg dose.
 The following table presents the most common adverse reactions, whether or not drug-related, reported in placebo-controlled trials in patients receiving Tiazac up to 360 mg and up to 540 mg with rates in placebo patients shown for comparison.
 
-MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED HYPERTENSION TRIALS
+MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED HYPERTENSION TRIALSAdverse events occurring in treated patients at 2% or more than placebo-treated patients.
 
 | Adverse Events (COSTART Term) | n=57 # pts (%) | Up to 360 mg n=149 # pts (%) | 480-540mg n=48 # pts (%) |
 | --- | --- | --- | --- |
