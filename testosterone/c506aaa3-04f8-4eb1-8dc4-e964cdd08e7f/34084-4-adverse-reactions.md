@@ -10,10 +10,10 @@ Table 2 shows the incidence of all adverse events judged by the investigator to 
 
 Table 2: Adverse Events Possibly, Probably or Definitely Related to Use of AndroGel 1% in the 180-Day Controlled Clinical Trial
 
-|  | N = 77 | N = 40 | N = 78 |
-| --- | --- | --- | --- |
 | Adverse Event | Dose of AndroGel 1% |  |  |
+| --- | --- | --- | --- |
 | 50 mg | 75 mg | 100 mg |  |
+|  | N = 77 | N = 40 | N = 78 |
 | Acne | 1% | 3% | 8% |
 | Alopecia | 1% | 0% | 1% |
 | Application Site Reaction | 5% | 3% | 4% |

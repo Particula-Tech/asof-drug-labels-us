@@ -20,7 +20,7 @@ The application site and dose of AndroGel 1% are not interchangeable with other 
 
 AndroGel 1% should be applied to clean, dry, healthy, intact skin of the right and left upper arms/shoulders and/or right and left abdomen.
 Area of application should be limited to the area that will be covered by the patient’s short sleeve T-shirt.
-Do not apply AndroGel 1% to any other part of the body including the genitals, chest or back.
+Do not apply AndroGel 1% to any other part of the body including the genitals, chest, armpits (axillae), knees, or back.
 AndroGel 1% should be evenly distributed between the right and left upper arms/shoulders or both sides of the abdomen.
 
 The prescribed daily dose of AndroGel 1% should be applied to the right and left upper arms/shoulders and/or right/left abdomen as shown in the shaded areas in the figure below.

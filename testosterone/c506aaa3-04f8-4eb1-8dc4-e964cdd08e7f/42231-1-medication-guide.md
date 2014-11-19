@@ -96,7 +96,7 @@ How should I use ANDROGEL 1%?
 - Your healthcare provider may change your ANDROGEL 1% dose.
   Do not change your ANDROGEL 1% dose without talking to your healthcare provider.
 - ANDROGEL 1% is to be applied to the area of your shoulders, upper arms, or abdomen that will be covered by a short sleeve t-shirt.
-  Do not apply ANDROGEL 1% to any other parts of your body such as your penis, scrotum, chest, or back.
+  Do not apply ANDROGEL 1% to any other parts of your body such as your penis, scrotum, chest, armpits (axillae), knees, or back.
 - Apply AndroGel 1% at the same time each morning.
   ANDROGEL 1% should be applied after showering or bathing.
 - Wash your hands right away with soap and water after applying ANDROGEL 1%.
@@ -216,4 +216,4 @@ AbbVie Inc. North Chicago, IL 60064, USA
 
 © 2014 AbbVie Inc.
 
-A090630057537-Revised June, 2014
+A090630058412-Revised November, 2014

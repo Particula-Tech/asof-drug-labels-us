@@ -22,9 +22,9 @@ The 75 mg dose produced mean concentrations intermediate to those produced by 50
 
 Table 5: Mean (± SD) Steady-State Serum Testosterone Concentrations During Therapy (Day 180)
 
-|  | N = 44 | N = 37 | N = 48 |
-| --- | --- | --- | --- |
 |  | 50 mg | 75 mg | 100 mg |
+| --- | --- | --- | --- |
+|  | N = 44 | N = 37 | N = 48 |
 | Cavg | 555 ± 225 | 601 ± 309 | 713 ± 209 |
 | Cmax | 830 ± 347 | 901 ± 471 | 1083 ± 434 |
 | Cmin | 371 ± 165 | 406 ± 220 | 485 ± 156 |

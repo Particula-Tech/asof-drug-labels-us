@@ -42,7 +42,7 @@ Topical testosterone products may have different doses, strengths, or applicatio
 
 Dispense the enclosed Medication Guide to each patient.
 
-* See accompanying package insert.
+*See accompanying package insert.
 
 abbvie
 
