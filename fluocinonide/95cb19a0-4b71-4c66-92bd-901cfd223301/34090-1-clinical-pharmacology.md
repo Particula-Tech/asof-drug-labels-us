@@ -1,4 +1,4 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -14,7 +14,7 @@ HPA-axis suppression following application of VANOS Cream, 0.1% (once or twice d
 HPA-axis suppression was observed in 4 patients in the twice daily groups.
 Follow-up testing 14 days after treatment discontinuation demonstrated a normally responsive HPA axis in all 4 suppressed patients [see Warnings and Precautions (5.1) and Use in Specific populations (8.4)].
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle and the integrity of the epidermal barrier.
 Topical corticosteroids can be absorbed from normal intact skin.

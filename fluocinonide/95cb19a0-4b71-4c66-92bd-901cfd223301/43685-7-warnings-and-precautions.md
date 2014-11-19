@@ -1,6 +1,6 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Effect on Endocrine System
+## 5.1Effect on Endocrine System
 
 Systemic absorption of topical corticosteroids, including Vanos Cream, can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for clinical glucocorticosteroid insufficiency.
 This may occur during treatment or upon withdrawal of the topical corticosteroid.
@@ -23,18 +23,18 @@ Use of more than one corticosteroid-containing product at the same time may incr
 Studies conducted in pediatric patients demonstrated reversible HPA axis suppression after use of VANOS Cream.
 Pediatric patients may be more susceptible than adults to systemic toxicity from equivalent doses of VANOS Cream due to their larger skin surface-to-body-mass ratios [See Use in Specific Populations (8.4)].
 
-## 5.2 Local Adverse Reactions with Topical Corticosteroids
+## 5.2Local Adverse Reactions with Topical Corticosteroids
 
 Local adverse reactions may be more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids.
 Reactions may include atrophy, striae, telangiectasis, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria.
 Some local adverse reactions may be irreversible.
 
-## 5.3 Concomitant Skin Infections
+## 5.3Concomitant Skin Infections
 
 If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
 If a favorable response does not occur promptly, use of VANOS Cream should be discontinued until the infection has been adequately controlled.
 
-## 5.4 Allergic Contact Dermatitis
+## 5.4Allergic Contact Dermatitis
 
 If irritation develops, VANOS Cream should be discontinued and appropriate therapy instituted.
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
