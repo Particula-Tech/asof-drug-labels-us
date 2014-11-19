@@ -48,56 +48,54 @@ Penicillin G is no longer considered a drug of choice for infections caused by t
 
 ## Susceptibility Testing
 
-### Diffusion techniques
+### Diffusion Techniques
 
-The use of antibiotic disk susceptibility test methods which measure zone diameter give an accurate estimation of antibiotic susceptibility.
-One such standard procedure1 which has been recommended for use with disks to test susceptibility of organisms to penicillin G uses the 10 Unit (U) penicillin disk.
+Quantitative methods that require measurement of zone diameters provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+One such standardized procedure1,2 which has been recommended for use with disks to test susceptibility of organisms to penicillin G uses the 10 Unit (U) penicillin disk.
 Interpretation involves the correlation of the diameters obtained in the disk test with the minimum inhibitory concentration (MIC) for penicillin G.
 
-Reports from the laboratory giving results of the standard single-disk susceptibility test with a 10 U penicillin disk should be interpreted according to the following criteria:
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 10 U penicillin disk should be interpreted according to the criteria provided in Table 1.
 
-Table 1 Zone Diameter Interpretive Standards (nearest whole mm)
+### Dilution Techniques
 
-|  | Susceptible | Moderately Susceptible | Resistant |
-| --- | --- | --- | --- |
-| Staphylococci | ≥ 29 | - | ≤ 28 |
-| N. gonorrhoeae | ≥ 20 | - | ≤ 19 |
-| L. monocytogenes | ≥ 20 | - | ≤ 19 |
-| Non-enterococcal streptococci | ≥ 28 | 20-27 | ≤ 19 |
+Quantitative methods that are used to determine minimum inhibitory concentrations (MICs) provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+One such standardized procedure1,3 uses a standardized dilution method (broth or agar) or equivalent with penicillin powder.
+The MIC values obtained should be interpreted according to the criteria provided in Table 1.
 
-A report of “susceptible” indicates that the pathogen is likely to be inhibited by generally achievable blood levels.
-A report of “moderately susceptible” suggests that the organism would be susceptible if high dosage is used or if the infection is confined to tissue and fluids (e.g., urine) in which high antibiotic levels are obtained.
-A report of “resistant” indicates that achievable concentrations are unlikely to be inhibitory and other therapy should be selected.
+Table 1: Susceptibility Interpretive Criteria
 
-Standardized procedures require the use of laboratory control organisms.
-The 10 U penicillin G disk should give the following zone diameters:
+| Pathogen | Disk diffusion (Zone diameter in mm) |  |  | Minimal Inhibitory Concentration (MIC in mcg/mL) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Susceptibility Test Result Interpretive Criteria |  |  |  |  |  |
+|  | S | I | R | S | I | R |
+| Staphylococcus spp. | ≥29 | - | ≤28 | ≤0.12 | - | ≥0.25 |
+| Neisseria gonorrhoeae | ≥47 | 27-46 | ≤26 | ≤0.06 | 0.12-1 | ≥2 |
+| Streptococcus spp.(beta-hemolytic group) | ≥24 | - | - | ≤0.12 | - | - |
+| Streptococcus spp.(viridans group) |  |  |  | ≤0.12 | 0.25-2 | ≥4 |
+| Streptococcuspneumoniae (meningitis isolates) |  |  |  | ≤0.06 | - | ≥0.12 |
+| Streptococcuspneumoniae (non-meningitis isolates) |  |  |  | ≤2 | 4 | ≥8 |
+| Neisseria meningitidis |  |  |  | ≤ 0.06 | 0.12-0.25 | ≥0.5 |
+| Bacillus anthracis |  |  |  | ≤0.12 |  | ≥0.25 |
 
-| Organism | Zone Diameter (mm) |
-| --- | --- |
-| Staphylococcus aureus ATCC 25923 | 26-37 |
+A report of “susceptible” indicates that the pathogen is likely to be inhibited by usually achievable concentrations of the antimicrobial compound in the blood.
+A report of “Intermediate” (I) indicates that the result should be considered equivocal, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of the drug can be used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of “resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
-### Dilution techniques
+### Quality Control
 
-When using a standardized dilution method2 (broth, agar, microdilution) or equivalent an organism may be considered susceptible if the minimum inhibitory concentration (MIC) values are interpreted according to the following table:
+Standardized susceptibility test procedures require the use of laboratory control microorganisms1,2,3.
+The 10 U penicillin G disk and the standard penicillin powder should provide respectively the following zone diameters and MIC values in these laboratory test quality control strains:
 
-Table 2 MIC Interpretive Standards (mcg/mL)
+Table 2.
+Acceptable Quality Control Ranges
 
-|  | Susceptible | Moderately Susceptible | Resistant |
-| --- | --- | --- | --- |
-| Staphylococci | ≤ 0.12 | - | ≥ 0.25 |
-| N. gonorrhoeae | ≤ 0.12 | 0.25 - 2 | ≥ 4 |
-| L. monocytogenes | ≤ 2 | - | ≥ 4 |
-| Non-enterococcal streptococci | ≤ 0.12 | 0.25 - 2 | ≥ 4 |
-| Pneumococci | ≤ 0.06 | 0.12 - 1 | ≥ 2 |
-
-MIC test results should be interpreted according to the concentration of penicillin G that can be attained in blood (serum), tissue, and body fluids.
-
-As with standard diffusion techniques, dilution methods require the use of laboratory control organisms.
-Standard penicillin G powder should provide the following MIC values:
-
-| Organism | MIC |
-| --- | --- |
-| S. aureus ATCC 29213 | 0.2 - 1 mcg/mL |
-| Enterococcus faecalis ATCC 29212 | 1 - 4 mcg/mL |
-
-For anaerobic bacteria the MIC of penicillin G can be determined by agar or broth dilution (including microdilution) techniques3.
+| Microorganism | Disk diffusion (Zone diameter ranges in mm) | Minimal Inhibitory Concentration Range (MIC in mcg/mL) |
+| --- | --- | --- |
+|  | Acceptable Quality Control Ranges |  |
+| Enterococcus faecalisATCC® 29212 |  | 1-4 |
+| Neisseria gonorrhoeaeATCC® 49226 | 26-34 | 0.25-1(agar dilution method) |
+| Staphylococcus aureusATCC® 25923 | 26-37 |  |
+| Staphylococcus aureusATCC® 29213 |  | 0.25-2 |
+| Streptococcus pneumoniaeATCC® 49619 | 24-30 | 0.25-1 |

@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Penicillin G Sodium for Injection, USP, for IM or IV use, is supplied in dry powder form in vials containing 5,000,000 units (5 million units) of crystalline penicillin G as the sodium salt, with 1.68 mEq of sodium per million units of penicillin G, in tray packs of 10 (NDC 0781-6153-95) and in tray packs of 50 (NDC 0781-6153-97).
+Penicillin G Sodium for lnjection, USP, for IM or IV use, is supplied in dry powder form in vials containing 5,000,000 units (5 million units) of crystalline penicillin G as the sodium salt, with 1.68 mEq of sodium per million units of penicillin G, in tray packs of 10 (NDC 0781-6153-95) and in tray packs of 50 (NDC 0781-6153-97).
 
 ## STORAGE
 

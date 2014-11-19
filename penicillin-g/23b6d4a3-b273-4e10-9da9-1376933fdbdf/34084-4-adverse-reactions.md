@@ -1,19 +1,19 @@
 # ADVERSE REACTIONS
 
-## Body as a whole
+## Body as a Whole
 
 The Jarisch-Herxheimer reaction is a systemic reaction, that may occur after the initiation of penicillin therapy in patients with syphilis or other spirochetal infections (i.e., Lyme disease and Relapsing fever).
 The reaction begins one to two hours after initiation of therapy and disappears within 12 to 24 hours.
 It is characterized by fever, chills, myalgias, headache, exacerbation of cutaneous lesions, tachycardia, hyperventiliation, vasodilation with flushing and mild hypotension.
 The pathogenesis of the Herxheimer reaction may be due to the release from the spirochaete of host stable pyrogen.
 
-## Hypersensitivity reactions
+## Hypersensitivity Reactions
 
 The reported incidence of allergic reactions to all penicillins ranges from 0.7 to 10 percent in different studies (see WARNINGS).
 Sensitization is usually the result of previous treatment with a penicillin, but some individuals have had immediate reactions when first treated.
 In such cases, it is postulated that prior exposure to penicillin may have occurred via trace amounts present in milk or vaccines.
 
-Two types of allergic reactions to penicillin are noted clinically - Immediate and delayed.
+Two types of allergic reactions to penicillin are noted clinically – Immediate and delayed.
 
 Immediate reactions usually occur within 20 minutes of administration and range in severity from urticaria and pruritus to angloneurotic edema, laryngospasm, bronchospasm, hypotension, vascular collapse and death (see WARNINGS).
 Such immediate anaphylactic reactions are very rare and usually occur after parenteral therapy, but a few cases of anaphylaxis have been reported following oral therapy.
@@ -24,32 +24,32 @@ Manifestations include serum sickness-like symptoms, i.e., fever, malaise, urtic
 
 Contact dermatitis has been observed in individuals who prepare penicillin solutions.
 
-## Gastrointestinal system
+## Gastrointestinal System
 
 Pseudomembranous colitis has been reported with the onset occurring during or after penicillin G treatment.
 Nausea, vomiting, stomatitis, black or hairy tongue, and other symptoms of gastrointestinal irritation may occur, especially during oral therapy.
 
-## Hematologic system
+## Hematologic System
 
 Reactions include neutropenia, which resolves after penicillin therapy is discontinued; Coombs-positive hemolytic anemia, an uncommon reaction, occurs in patients treated with intravenous penicillin G in doses greater than 10 million units/day and who have previously received large doses of the drug; and with large doses of penicillin, a bleeding diathesis, can occur secondary to platelet dysfunction.
 
 ## Metabolic
 
-Penicillin G Sodium for Injection, USP (1 million units contains 1.68 mEq of sodium ion) may cause serious and even fatal electrolyte disturbances when given intravenously in large doses.
+Penicillin G Sodium for lnjection, USP (1 million units contains 1.68 mEq of sodium ion) may cause serious and even fatal electrolyte disturbances when given intravenously in large doses.
 
-## Cardiovascular system
+## Cardiovascular System
 
 High dosage of penicillin G sodium may result in congestive heart failure due to high sodium intake.
 
-## Nervous system
+## Nervous System
 
 Neurotoxic reactions including hyperreflexia, myoclonic twitches, seizures and coma have been reported following the administration of massive intravenous doses, and are more likely in patients with impaired renal function.
 
-## Urogenital system
+## Urogenital System
 
 Renal tubular damage and interstitial nephritis have been associated with large intravenous doses of penicillin G. Manifestations of this reaction may include fever, rash, eosinophilia, proteinuria, eosinophiluria, hematuria and a rise in serum urea nitrogen.
 Discontinuation of penicillin G results in resolution in the majority of patients.
 
-## Local reactions
+## Local Reactions
 
 Phlebitis and thrombophlebitis may occur with intravenous administration.
