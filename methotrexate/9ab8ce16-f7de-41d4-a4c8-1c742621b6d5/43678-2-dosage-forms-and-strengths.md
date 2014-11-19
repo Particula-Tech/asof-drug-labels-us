@@ -2,6 +2,7 @@
 
 Otrexup is an injection available as an auto-injector that administers a single 0.4 mL dose of methotrexate solution in the following dosage strengths:
 
+- • 7.5 mg/0.4 mL methotrexate
 - • 10 mg/0.4 mL methotrexate
 - • 15 mg/0.4 mL methotrexate
 - • 20 mg/0.4 mL methotrexate

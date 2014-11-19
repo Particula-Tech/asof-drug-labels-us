@@ -1,9 +1,10 @@
 # Instructions for Use
 
-Read this Instructions for Use before using Otrexup™(oh-TREKS-up) (methotrexate) injection, for subcutaneous use
+Read this Instructions for Use before using Otrexup™ (oh-TREKS-up) (methotrexate) injection, for subcutaneous use
 
 Prepare to Use Otrexup
 
+- •Do not remove cap (marked 1) or safety clip (marked 2) until you are ready to inject Otrexup.
 - •Wash your hands well with soap and warm water.
 - •Check the expiration date on the label.
   Do not use if expired.
@@ -19,7 +20,6 @@ Check the Liquid
 - •The liquid should be yellow in color and should not have any lumps or particles in it.
 - •You may see an air bubble.
   This is normal.
-- •Do not remove cap (marked 1) or safety clip (marked 2) until you are ready to use Otrexup.
 
 Choose an Injection Site
 
@@ -50,8 +50,8 @@ STEP 2: Remove the Safety Clip (marked 2)
 
 STEP 3: Inject Otrexup
 
-- •Place needle end of Otrexup against thigh or stomach (abdomen) at 90° and firmly push until you hear a click.
-  Hold for 3 seconds (slowly count 1,2,3) (See Figure G).
+- •Place needle end of Otrexup flat against thigh or stomach (abdomen) at a 90° and firmly push device against the injection site until fully depressed.
+  You will hear a click, hold for 3 seconds (slowly count 1,2,3) (See Figure G).
 - 
 - •After counting to 3, remove Otrexup from the injection site.
   You may notice a small amount of blood or liquid at the administration site, which is normal.
@@ -61,10 +61,10 @@ STEP 3: Inject Otrexup
 Step 4: Check the Viewing Window
 
 - •Check the viewing window (See Figure H).
-- •The viewing window will be blocked to confirm the medicine was given.
+- •The viewing window will be half blocked with a red flag to show that the full dose was delivered.
   (See Figure H).
 - •Dispose of Otrexup in a puncture-proof disposable container (See Step 5).
-- •If the viewing window is not blocked, call your doctor or pharmacist, or call 1-855-Otrexup (1-855-687-3987) for help.
+- •If the viewing window is not half blocked with a red flag, call your doctor or pharmacist, or call 1-855-Otrexup (1-855-687-3987) for help.
 - •Do not use another Otrexup without talking to your doctor.
 
 Step 5:
@@ -97,6 +97,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 Mfd.
 For Antares Pharma, Inc. Ewing, NJ 08628
 
-04/2014
+11/2014
 
-PII-13-001 v02
+PII-13-001 V03

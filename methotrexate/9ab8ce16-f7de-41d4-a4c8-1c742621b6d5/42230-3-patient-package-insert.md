@@ -2,7 +2,7 @@
 
 PATIENT INFORMATION
 
-Otrexup™(oh-TREKS-up)
+Otrexup™ (oh-TREKS-up)
 
 (methotrexate)
 
@@ -16,9 +16,9 @@ Methotrexate is used to:
 - • treat certain adults with severe, active rheumatoid arthritis (RA), and children with active polyarticular juvenile idiopathic arthritis (pJIA), after treatment with other medicines including non-steroidal anti-inflammatory (NSAIDS) have been used and did not work well.
 - • control the symptoms of severe, resistant, disabling psoriasis in adults when other types of treatment have been used and did not work well.
 
-Otrexup is only available in doses of 10, 15, 20 and 25 mg.
+Otrexup is only available in doses of 7.5, 10, 15, 20 and 25 mg.
 Your doctor will prescribe a different way to take methotrexate if you need to take methotrexate by mouth or in some other way.
-Your doctor may also change your prescription if your dose does not match the available Otrexup doses, such as doses of less than 10 mg, more than 25 mg, or doses in between the available Otrexup doses.
+Your doctor may also change your prescription if your dose does not match the available Otrexup doses, such as doses of less than 7.5 mg, more than 25 mg, or doses in between the available Otrexup doses.
 
 Otrexup should not be used for the treatment of cancer.
 
@@ -58,7 +58,7 @@ Who should not take Otrexup?
 Do not take Otrexup if you:
 
 - •are pregnant or planning to become pregnant.
-  See “What is the most important information I should know about Otrexup?”
+  See “What is the most important information I should know about Otrexup?
 - •are breastfeeding.
 - •Otrexup can pass into your breast milk and may harm your baby.
   Do not breastfeed while taking Otrexup.
@@ -117,7 +117,7 @@ What are the possible side effects of Otrexup?
 
 Otrexup may cause serious side effects, including:
 
-See “What is the most important information I should know about Otrexup?”
+See “What is the most important information I should know about Otrexup?
 
 - •fertility problems.
   Methotrexate, the active ingredient in Otrexup, may affect your ability to have a baby.
@@ -200,4 +200,4 @@ Ewing, NJ 08628 USA
 
 ©2014 Antares Pharma, Inc., Ewing, NJ 08628
 
-Issued: 04/2014
+Issued: 11/2014

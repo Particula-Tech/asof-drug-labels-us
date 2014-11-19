@@ -13,8 +13,8 @@ Otrexup solution is yellow in color.
 Inactive ingredients include sodium chloride and water for injection, USP.
 The amounts of sodium chloride vary with the amount of methotrexate.
 
-| Amount of methotrexate (mg) per 0.4 mL | 10 | 15 | 20 | 25 |
-| --- | --- | --- | --- | --- |
-| Amount of sodium chloride (mg) per 0.4 mL | 1.96 | 1.60 | 1.28 | 0.56 |
+| Amount of methotrexate (mg) per 0.4 mL | 7.5 | 10 | 15 | 20 | 25 |
+| --- | --- | --- | --- | --- | --- |
+| Amount of sodium chloride (mg) per 0.4 mL | 2.6 | 1.96 | 1.60 | 1.28 | 0.56 |
 
 Hydrochloric acid and additional sodium hydroxide may have been added, if necessary, to adjust the pH to 8.0.
