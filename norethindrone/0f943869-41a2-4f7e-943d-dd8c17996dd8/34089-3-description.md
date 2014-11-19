@@ -8,6 +8,10 @@ Estradiol (E2), an estrogen, is a white or almost white crystalline powder.
 Its chemical name is estra-1, 3, 5 (10)-triene-3, 17β-diol hemihydrate with the empirical formula of C18H24O2, ½ H2O and a molecular weight of 281.4.
 The structural formula of E2 is as follows:
 
+Estradiol
+
 Norethindrone acetate (NETA), a progestin, is a white or yellowish-white crystalline powder.
 Its chemical name is 17β -acetoxy-19-nor-17α -pregn-4-en-20-yn-3-one with the empirical formula of C22H28O3 and molecular weight of 340.5.
 The structural formula of NETA is as follows:
+
+Norethindrone Acetate
