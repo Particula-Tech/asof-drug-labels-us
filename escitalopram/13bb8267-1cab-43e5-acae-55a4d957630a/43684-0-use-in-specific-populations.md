@@ -61,13 +61,15 @@ Caution should be exercised and breastfeeding infants should be observed for adv
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Lexapro has not been established in pediatric patients (less than 12 years of age) with Major Depressive Disorder.
-Safety and effectiveness of Lexapro has been established in adolescents (12 to 17 years of age) for the treatment of major depressive disorder [see Clinical Studies (14.1)].
-Although maintenance efficacy in adolescent patients with Major Depressive Disorder has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of escitalopram pharmacokinetic parameters in adults and adolescent patients.
+The safety and effectiveness of Lexapro have been established in adolescents (12 to 17 years of age) for the treatment of major depressive disorder [see Clinical Studies (14.1)].
+Although maintenance efficacy in adolescent patients with major depressive disorder has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of escitalopram pharmacokinetic parameters in adults and adolescent patients.
+
+The safety and effectiveness of Lexapro have not been established in pediatric (younger than 12 years of age) patients with major depressive disorder.
+In a 24-week, open- label safety study in 118 children (aged 7 to 11 years) who had major depressive disorder, the safety findings were consistent with the known safety and tolerability profile for Lexapro.
 
 Safety and effectiveness of Lexapro has not been established in pediatric patients less than 18 years of age with Generalized Anxiety Disorder.
 
-Decrease appetite and weight loss have been observed in association with the use of SSRIs.
+Decreased appetite and weight loss have been observed in association with the use of SSRIs.
 Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with an SSRI such as Lexapro.
 
 ## 8.5 Geriatric Use

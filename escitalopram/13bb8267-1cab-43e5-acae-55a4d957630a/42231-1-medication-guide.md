@@ -252,7 +252,8 @@ Inactive ingredients:
   The film coating contains hypromellose, titanium dioxide, and polyethylene glycol.
 - Oral Solution: sorbitol, purified water, citric acid, sodium citrate, malic acid, glycerin, propylene glycol, methylparaben, propylparaben, and natural peppermint flavor.
 
-Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045 USA
+Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, LLC.
+St. Louis, MO 63045 USA
 
 Licensed from H. Lundbeck A/S
 
@@ -260,4 +261,5 @@ Revised: July 2014
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2014 Forest Laboratories, Inc.
+© Actavis 2014.
+All rights reserved.
