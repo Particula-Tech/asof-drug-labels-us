@@ -14,19 +14,19 @@ Who should not use ZIANA Gel?
 
 Do not use ZIANA Gel if you:
 
-- have Crohn's Disease
-- have Ulcerative Colitis
-- have developed colitis with past antibiotic use
+- •have Crohn's Disease
+- •have Ulcerative Colitis
+- •have developed colitis with past antibiotic use
 
 Tell your doctor:
 
-- if you are pregnant or planning to become pregnant.
+- •if you are pregnant or planning to become pregnant.
   It is not known if ZIANA Gel may harm your unborn baby.
-- if you are breastfeeding.
+- •if you are breastfeeding.
   ZIANA Gel may pass through your milk and may harm your baby.
-- about all the medicines and skin products you use:
-  - ZIANA Gel should not be used with erythromycin-containing products.
-  - Avoid medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and skin products that contain alcohol, astringents, spices or lime.
+- •about all the medicines and skin products you use:
+  - •ZIANA Gel should not be used with erythromycin-containing products.
+  - •Avoid medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and skin products that contain alcohol, astringents, spices or lime.
     These products may cause increased skin irritation if used with ZIANA Gel.
 
 How should I use ZIANA Gel?
@@ -37,39 +37,39 @@ Your doctor will tell you how long to use ZIANA Gel.
 
 At bedtime:
 
-- Wash your face gently with a mild soap and warm water.
-- Pat the skin dry.
-- Apply a pea-size amount of ZIANA Gel to your fingertip and spread it over your face.
+- •Wash your face gently with a mild soap and warm water.
+- •Pat the skin dry.
+- •Apply a pea-size amount of ZIANA Gel to your fingertip and spread it over your face.
   Gently, smooth it into your skin.
   Do not get ZIANA Gel in your eyes or mouth, on your lips, on the corners of your nose, or on open wounds.
 
 In the morning:
 
-- Apply a sunscreen and reapply during the day as needed.
-- Do not apply ZIANA Gel more than once a day
-- Do not use too much ZIANA Gel.
+- •Apply a sunscreen and reapply during the day as needed.
+- •Do not apply ZIANA Gel more than once a day
+- •Do not use too much ZIANA Gel.
   Too much ZIANA Gel may irritate your skin.
-- Do not wash your face more than 2 to 3 times a day.
+- •Do not wash your face more than 2 to 3 times a day.
   Washing your face too often or scrubbing it may make your acne worse.
 
 Avoid:
 
-- excessive exposure to the sun, cold, and wind.
+- •excessive exposure to the sun, cold, and wind.
   Weather extremes can dry and burn the skin.
   Always use a sunscreen on ZIANA Gel treated skin, even on cloudy days.
   Use other protective clothing such as a hat when you are in the sun.
-- the use of sunlamps and tanning booths
+- •the use of sunlamps and tanning booths
 
 If your face becomes sunburned, stop ZIANA Gel until your skin has healed.
 
 What are possible side effects with ZIANA Gel?
 
-- Skin irritation.
+- •Skin irritation.
   ZIANA Gel may cause skin irritation such as dryness, redness, peeling, burning, or stinging.
   Stop ZIANA Gel and call your doctor if your skin becomes very red, swollen, blistered, or crusted.
-- Change in skin color.
+- •Change in skin color.
   ZIANA Gel may cause a temporary skin color change (lighter or darker).
-- Colitis.
+- •Colitis.
   This occurs rarely.
   Stop ZIANA Gel and call your doctor if you develop severe watery diarrhea, or bloody diarrhea.
 
@@ -80,11 +80,11 @@ Ask your doctor or pharmacist for more information.
 
 How should I store ZIANA Gel?
 
-- Store ZIANA Gel at room temperature, 59 to 86°F (15 to 30°C).
+- •Store ZIANA Gel at room temperature, 59 to 86°F (15 to 30°C).
   Do not freeze.
-- Keep ZIANA Gel away from heat and light.
-- Keep the tube tightly closed.
-- Keep ZIANA Gel and all medicines out of the reach of children
+- •Keep ZIANA Gel away from heat and light.
+- •Keep the tube tightly closed.
+- •Keep ZIANA Gel and all medicines out of the reach of children
 
 General information about ZIANA Gel
 
@@ -105,3 +105,14 @@ What are the ingredients in ZIANA Gel?
 Active Ingredients: clindamycin phosphate 1.2% and tretinoin 0.025%
 
 Inactive Ingredients: purified water USP, glycerin USP, carbomer 981 NF, methylparaben NF, polysorbate 80 NF, edetate disodium USP, citric acid USP, propylparaben NF, butylated hydroxytoluene NF, and tromethamine USP.
+
+Manufactured for: Medicis, The Dermatology Company Scottsdale, AZ 85256
+
+By: Contract Pharmaceuticals Limited Mississauga, Ontario, Canada L5N 6L6
+
+Made in Canada
+
+U.S. Patent 6,387,383 and RE 41,134
+
+05100256 Rev.
+03/2012

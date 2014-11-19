@@ -6,9 +6,9 @@ ZIANA (clindamycin phosphate 1.2% and tretinoin 0.025%) Gel is supplied as follo
 
 Storage and Handling
 
-- Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature]
-- Protect from light.
-- Protect from freezing.
-- Keep out of the reach of children.
-- Keep away from heat.
-- Keep tube tightly closed.
+- •Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature]
+- •Protect from light.
+- •Protect from freezing.
+- •Keep out of the reach of children.
+- •Keep away from heat.
+- •Keep tube tightly closed.

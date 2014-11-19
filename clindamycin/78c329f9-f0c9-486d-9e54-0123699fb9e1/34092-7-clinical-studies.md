@@ -5,11 +5,11 @@ Studies 1 and 2 were of identical design, and compared ZIANA Gel to clindamycin 
 Patients with mild, moderate, or severe acne were enrolled in the studies.
 The co-primary efficacy variables were:
 
-- (1)Mean percent change from baseline at Week 12 in
-  - inflammatory lesion counts,
-  - non-inflammatory lesion counts, and
-  - total lesion counts
-- (2)Percent of subjects who cleared or almost cleared at Week 12 as judged by an Evaluator's Global Severity (EGS) score.
+- •Mean percent change from baseline at Week 12 in
+  - •inflammatory lesion counts,
+  - •non-inflammatory lesion counts, and
+  - •total lesion counts
+- •Percent of subjects who cleared or almost cleared at Week 12 as judged by an Evaluator's Global Severity (EGS) score.
 
 The EGS scoring scale used in all of the clinical trials for ZIANA Gel is as follows:
 
