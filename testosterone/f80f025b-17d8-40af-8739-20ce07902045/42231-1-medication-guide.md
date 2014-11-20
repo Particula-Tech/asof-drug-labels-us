@@ -1,4 +1,4 @@
-AVEED™ (Uh-Veed) (testosterone undecanoate) injection
+AVEED® (Uh-Veed) (testosterone undecanoate) injection
 
 Read this Medication Guide before you receive AVEED and before each injection.
 There may be new information.
@@ -173,6 +173,6 @@ AVEED is a trademark of Endo Pharmaceuticals Inc.
 
 © 2014 Endo Pharmaceuticals Solutions Inc. All rights reserved.
 
-Approved: 06/2014
+Approved: 09/2014
 
-84215899
+84299820
