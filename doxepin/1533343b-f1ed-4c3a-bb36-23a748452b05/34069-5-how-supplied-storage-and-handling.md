@@ -48,4 +48,4 @@ PHARMACIST: Dispense a Medication Guide with each prescription.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED MAY 2014 DXPN:R27mc
+REVISED OCTOBER 2014 DXPN:R28mc

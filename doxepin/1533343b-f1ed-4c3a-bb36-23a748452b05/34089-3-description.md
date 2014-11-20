@@ -1,8 +1,8 @@
 # DESCRIPTION
 
 Doxepin hydrochloride is one of a class of psychotherapeutic agents known as dibenzoxepin tricyclic compounds.
-The molecular formula of the compound is C19H21NO • HCl having a molecular weight of 316.
-It is a white crystalline solid readily soluble in water, lower alcohols and chloroform.
+The molecular formula of the compound is C19H21NO • HCl having a molecular weight of 315.84.
+It is a white crystalline powder freely soluble in water, in ethanol (96%), and methylene chloride.
 It may be represented by the following structural formula:
 
 Chemically, doxepin hydrochloride is a dibenzoxepin derivative and is the first of a family of tricyclic psychotherapeutic agents.
