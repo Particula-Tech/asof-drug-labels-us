@@ -1,3 +1,3 @@
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Revised: 12/2013 © 2013 sanofi-aventis U.S. LLC
+Revised: 11/2014 © 2014 sanofi-aventis U.S. LLC

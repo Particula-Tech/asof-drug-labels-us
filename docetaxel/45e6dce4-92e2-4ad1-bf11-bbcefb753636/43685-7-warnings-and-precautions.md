@@ -96,7 +96,16 @@ Alternative non-taxane cancer treatment should be considered.
 Severe asthenia has been reported in 14.9% (144/965) of metastatic breast cancer patients but has led to treatment discontinuation in only 1.8%.
 Symptoms of fatigue and weakness may last a few days up to several weeks and may be associated with deterioration of performance status in patients with progressive disease.
 
-## 5.11 Use in Pregnancy
+## 5.11 Alcohol Content
+
+Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
+The alcohol content in a dose of TAXOTERE Injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
+Consideration should be given to the alcohol content in TAXOTERE Injection on the ability to drive or use machines immediately after the infusion.
+Each administration of TAXOTERE Injection at 100 mg/m2 delivers 2.0 g/m2 of ethanol.
+For a patient with a BSA of 2.0 m2, this would deliver 4.0 grams of ethanol [see Description (11)].
+Other docetaxel products may have a different amount of alcohol.
+
+## 5.12 Use in Pregnancy
 
 TAXOTERE can cause fetal harm when administered to a pregnant woman.
 Docetaxel caused embryofetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.

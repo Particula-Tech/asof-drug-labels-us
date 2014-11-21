@@ -1,6 +1,6 @@
 Patient Information
 
-TAXOTERE (TAX-O-TEER) (docetaxel Injection Concentrate) Intravenous Infusion
+TAXOTERE (TAX-O-TEER) (docetaxel) Injection Concentrate Intravenous Infusion
 
 Read this Patient Information before you receive your first treatment with TAXOTERE and each time before you are treated.
 There may be new information.
@@ -96,6 +96,9 @@ TAXOTERE may cause serious side effects including death.
 - Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
 - Neurologic Symptoms including numbness, tingling, or burning in your hands and feet.
 - Vision Problems including blurred vision or loss of vision.
+- TAXOTERE Injection contains alcohol.
+  The alcohol content in TAXOTERE Injection may impair your ability to drive or use machinery right after receiving TAXOTERE Injection.
+  Consider whether you should drive, operate machinery or do other dangerous activities right after you receive TAXOTERE Injection treatment.
 
 The most common side effects of TAXOTERE include:
 
