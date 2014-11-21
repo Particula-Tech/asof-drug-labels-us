@@ -48,4 +48,4 @@ The trademarks depicted herein are owned by their respective companies.
 
 ## Manufactured by:
 
-Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 01/2014
+Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 10/2014

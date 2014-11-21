@@ -1,6 +1,6 @@
 # Patient Information
 
-LOSARTAN POTASSIUM TABLETS USP 25 mg, 50 mg, and 100 mg Rx Only
+LOSARTAN POTASSIUM TABLETS USP 25 mg, 50 mg, and 100 mg (loe sar' tan poe tas' ee um) Rx Only
 
 Read the Patient Information that comes with LOSARTAN POTASSIUM tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -57,6 +57,7 @@ Tell your doctor about all the medicines you take, including prescription and no
 - potassium supplements
 - salt substitutes containing potassium
 - water pills (diuretics)
+- lithium (a medicine used to treat a certain kind of depression)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors.
 - other medicines to reduce blood pressure
 
@@ -120,4 +121,4 @@ Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelati
 
 Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA
 
-0333/PIL Rev. # 01/2014
+0333/PIL Rev. # 10/2014

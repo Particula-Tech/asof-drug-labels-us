@@ -73,7 +73,7 @@ Pediatric Patients: No relevant differences between the adverse experience profi
 Hypertensive Patients with Left Ventricular Hypertrophy In the LIFE study, adverse events with losartan potassium were similar to those reported previously for patients with hypertension.
 
 Nephropathy in Type 2 Diabetic Patients In the RENAAL study involving 1513 patients treated with losartan potassium tablets or placebo, the overall incidences of reported adverse experiences were similar for the two groups.
-Losartan potassium tablet was generally well tolerated as evidenced by a similar incidence of discontinuations due to side effects compared to placebo (19% for losartan potassium tablets, 24% for placebo).
+Losartan potassium tablets were generally well tolerated as evidenced by a similar incidence of discontinuations due to side effects compared to placebo (19% for losartan potassium tablets, 24% for placebo).
 The adverse experiences, regardless of drug relationship, reported with an incidence of ≥4% of patients treated with losartan potassium tablets and occurring more commonly than placebo, on a background of conventional antihypertensive therapy, are shown in the table below.
 
 | Table 7 |  |  |
