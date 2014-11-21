@@ -25,12 +25,9 @@ While most of the acyclovir-resistant mutants isolated thus far from immunocompr
 TK-negative mutants may cause severe disease in infants and immunocompromised adults.
 The possibility of viral resistance to acyclovir should be considered in patients who show poor clinical response during therapy.
 
-Manufactured by GlaxoSmithKline Mississauga, Ontario L5N 6L4 Canada
-
-Distributed by Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+Distributed by Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 Manufactured in Canada
 
 ZOVIRAX® is a registered trademark of the GlaxoSmithKline group of companies and used under license by Valeant.
 
-August 2011
-
-A094586
+Rev.
+April 2013 50104042A

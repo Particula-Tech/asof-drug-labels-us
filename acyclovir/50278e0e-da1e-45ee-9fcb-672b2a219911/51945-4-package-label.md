@@ -2,7 +2,7 @@
 
 ZOVIRAX® (ACYCLOVIR) OINTMENT 5%
 
-Manufactured by GlaxoSmithKline, Mississauga, Ontario L5N 6L4 Canada Distributed by Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 Made in Canada
+Distributed by Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 Made in Canada
 
 NDC 0187-0993-95
 
