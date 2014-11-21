@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA050777"
+  ],
+  "inn": "tacrolimus",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-390-00",
+    "45802-390-01",
+    "45802-390-02",
+    "45802-700-00",
+    "45802-700-01",
+    "45802-700-02"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "tacrolimus",
+      "name": "Tacrolimus"
+    }
+  ],
+  "setid": "6b601eaf-4f3a-4a8b-8cd8-1000defa9822",
+  "source": "dailymed"
+}

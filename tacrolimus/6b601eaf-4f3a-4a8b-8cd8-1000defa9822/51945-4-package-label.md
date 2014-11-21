@@ -1,0 +1,53 @@
+# PRINCIPAL DISPLAY PANEL - Carton – 0.03%
+
+Rx Only
+
+NDC 45802-390-01
+
+Tacrolimus Ointment 0.03%
+
+For Dermatologic Use Only.
+Not for Ophthalmic Use.
+
+60 g
+
+ATTENTION: DISPENSE WITH ENCLOSED MEDICATION GUIDE
+
+# PRINCIPAL DISPLAY PANEL – Tube 0.03%
+
+Rx Only
+
+NDC 45802-390-01
+
+Tacrolimus Ointment 0.03%
+
+60 g
+
+ATTENTION: DISPENSE WITH ENCLOSED MEDICATION GUIDE
+
+# PRINCIPAL DISPLAY PANEL – Carton 0.1%
+
+Rx Only
+
+NDC 45802-700-01
+
+Tacrolimus Ointment 0.1%
+
+For Dermatologic Use Only.
+Not for Ophthalmic Use.
+
+60 g
+
+ATTENTION: DISPENSE WITH ENCLOSED MEDICATION GUIDE
+
+# PRINCIPAL DISPLAY PANEL
+
+Rx Only
+
+NDC 45802-700-01
+
+Tacrolimus Ointment 0.1%
+
+60 g
+
+ATTENTION: DISPENSE WITH ENCLOSED MEDICATION GUIDE
