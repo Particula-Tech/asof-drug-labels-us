@@ -88,6 +88,7 @@ When the sprinkle method of administration is prescribed, details of the proper 
 
 In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450, CYP3A4, CYP1A2, and CYP2C.
 Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
+Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent telithromycin, and antibiotic in the ketolide class of antibiotics.
 
 #### HMG-CoA Reductase Inhibitors
 
@@ -112,14 +113,21 @@ Asymptomatic bradycardia (36 beats/min) with a wandering atrial pacemaker has be
 A decrease in metoprolol clearance has been reported when verapamil and metoprolol were administered together.
 A similar effect has not been observed when verapamil and atenolol are given together.
 
+#### Clonidine
+
+Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil.
+Monitor heart rate in patients receiving concomitant verapamil and clonidine.
+
 #### Digitalis
 
-Clinical use of verapamil in digitalized patients has shown the combination to be well tolerated if digoxin doses are properly adjusted.
+Consider reducing digoxin dose when verapamil and digoxin are to be given together.
+Monitor digoxin level periodically during therapy.
 Chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity.
 In patients with hepatic cirrhosis the influence of verapamil on digoxin kinetics is magnified.
-Maintenance digitalis doses should be reduced when verapamil is administered, and the patient should be carefully monitored to avoid over or under digitalization.
-Whenever over digitalization is suspected, the daily dose of digoxin should be reduced or temporarily discontinued.
-Upon discontinuation of verapamil hydrochloride, the patient should be reassessed to avoid under digitalization.
+Verapamil may reduce total body clearance and extrarenal clearance of digoxin by 27% and 29%, respectively.
+If digoxin toxicity is suspected, suspend or discontinue digoxin therapy.
+
+In previous clinical trials with other verapamil formulations related to the control of ventricular response in patients taking digoxin who had atrial fibrillation or atrial flutter, ventricular rates below 50/min at rest occurred in 15% of patients, and asymptomatic hypotension occurred in 5% of patients.
 
 #### Antihypertensive Agents
 
