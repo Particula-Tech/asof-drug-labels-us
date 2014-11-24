@@ -34,16 +34,16 @@ Maximum concentration (Cmax) increased dose-proportionally.
 At steady-state, estimated AUC and Cmin were 2.7 and 6.5-fold higher at 8 mg per kg as compared to 4 mg per kg, respectively.
 In a long-term study with dosing for 104 weeks, observed Cmin was sustained over time.
 
-For doses of ACTEMRA 4 mg per kg given every 4 weeks, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 13000 ± 5800 mcg•h per mL, 1.49 ± 2.13 mcg per mL, and 88.3 ± 41.4 mcg per mL, respectively.
+For doses of ACTEMRA 4 mg per kg given every 4 weeks, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 13000 ± 5800 mcg∙h per mL, 1.49 ± 2.13 mcg per mL, and 88.3 ± 41.4 mcg per mL, respectively.
 The accumulation ratios for AUC and Cmax were 1.11 and 1.02, respectively.
 The accumulation ratio was higher for Cmin (1.96).
 Steady-state was reached following the first administration for Cmax and AUC, respectively, and after 16 weeks Cmin.
-For doses of ACTEMRA 8 mg per kg given every 4 weeks, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 35000 ± 15500 mcg•h per mL, 9.74 ± 10.5 mcg per mL, and 183 ± 85.6 mcg per mL, respectively.
+For doses of ACTEMRA 8 mg per kg given every 4 weeks, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 35000 ± 15500 mcg∙h per mL, 9.74 ± 10.5 mcg per mL, and 183 ± 85.6 mcg per mL, respectively.
 The accumulation ratios for AUC and Cmax were 1.22 and 1.06, respectively.
 The accumulation ratio was higher for Cmin (2.35).
 Steady-state was reached following the first administration and after 8 and 20 weeks for Cmax, AUC, and Cmin, respectively.
 Tocilizumab AUC, Cmin and Cmax increased with increase of body weight.
-At body weight at or above 100 kg, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 55500 ± 14100 mcg•h per mL, 19.0 ± 12.0 mcg per mL, and 269 ± 57 mcg per mL, respectively, which are higher than mean exposure values for the patient population.
+At body weight at or above 100 kg, the estimated mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 55500 ± 14100 mcg∙h per mL, 19.0 ± 12.0 mcg per mL, and 269 ± 57 mcg per mL, respectively, which are higher than mean exposure values for the patient population.
 Therefore, ACTEMRA doses exceeding 800 mg per infusion are not recommended [see Dosage and Administration (2.1)].
 
 Rheumatoid Arthritis—Subcutaneous Administration
@@ -51,11 +51,11 @@ Rheumatoid Arthritis—Subcutaneous Administration
 The pharmacokinetics of tocilizumab was characterized using a population pharmacokinetic analysis using a database composed of 1759 rheumatoid arthritis patients treated with 162 mg SC every week, 162 mg SC every other week, and 8 mg/kg every 4 weeks for 24 weeks.
 
 The pharmacokinetic parameters of tocilizumab did not change with time.
-For the 162 mg every week dose, the estimated mean (±SD) steady-state AUC1week, Cmin and Cmax of tocilizumab were 8200 ± 3600 mcg•h/mL, 44.6 ± 20.6 mcg/mL, and 50.9 ± 21.8 mcg/mL, respectively.
+For the 162 mg every week dose, the estimated mean (±SD) steady-state AUC1week, Cmin and Cmax of tocilizumab were 8200 ± 3600 mcg∙h/mL, 44.6 ± 20.6 mcg/mL, and 50.9 ± 21.8 mcg/mL, respectively.
 The accumulation ratios for AUC, Cmin, and Cmax were 6.83, 6.37, and 5.47, respectively.
 Steady state was reached after 12 weeks for AUC, Cmin, and Cmax.
 
-For the 162 mg every other week dose, the estimated mean (±SD) steady-state AUC2week, Cmin, and Cmax of tocilizumab were 3200 ± 2700 mcg•h/mL, 5.6 ± 7.0 mcg/mL, and 12.3 ± 8.7 mcg/mL, respectively.
+For the 162 mg every other week dose, the estimated mean (±SD) steady-state AUC2week, Cmin, and Cmax of tocilizumab were 3200 ± 2700 mcg∙h/mL, 5.6 ± 7.0 mcg/mL, and 12.3 ± 8.7 mcg/mL, respectively.
 The accumulation ratios for AUC, Cmin, and Cmax were 2.67, 5.6, and 2.12, respectively.
 Steady state was reached after 12 weeks for AUC and Cmin, and after 10 weeks for Cmax.
 
@@ -63,9 +63,9 @@ Polyarticular Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The pharmacokinetics of tocilizumab was determined using a population pharmacokinetic analysis on a database composed of 188 patients with polyarticular juvenile idiopathic arthritis.
 
-For doses of 8 mg/kg tocilizumab (patients with a body weight at or above 30 kg) given every 4 weeks, the estimated mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 29500 ± 8660 mcg•hr/mL, 182 ± 37 mcg/mL and 7.49 ± 8.2 mcg/mL, respectively.
+For doses of 8 mg/kg tocilizumab (patients with a body weight at or above 30 kg) given every 4 weeks, the estimated mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 29500 ± 8660 mcg∙hr/mL, 182 ± 37 mcg/mL and 7.49 ± 8.2 mcg/mL, respectively.
 
-For doses of 10 mg/kg tocilizumab (patients with a body weight less than 30 kg) given every 4 weeks, the estimated mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 23200 ± 6100 mcg•hr/mL, 175 ± 32 mcg/mL and 2.35 ± 3.59 mcg/mL, respectively.
+For doses of 10 mg/kg tocilizumab (patients with a body weight less than 30 kg) given every 4 weeks, the estimated mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 23200 ± 6100 mcg∙hr/mL, 175 ± 32 mcg/mL and 2.35 ± 3.59 mcg/mL, respectively.
 
 The accumulation ratios were 1.05 and 1.16 for AUC4weeks, and 1.43 and 2.22 for Cmin for 10 mg/kg (BW less than 30 kg) and 8 mg/kg (BW at or above 30 kg) doses, respectively.
 No accumulation for Cmax was observed.
@@ -73,7 +73,7 @@ No accumulation for Cmax was observed.
 Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 75 patients with SJIA treated with 8 mg per kg (patients with a body weight at or above 30 kg) or 12 mg per kg (patients with a body weight less than 30 kg), given every 2 weeks.
-The estimated mean (± SD) AUC2 weeks, Cmax and Cmin of tocilizumab were 32200 ± 9960 mcg•hr per mL, 245 ± 57.2 mcg per mL and 57.5 ± 23.3 mcg per mL, respectively.
+The estimated mean (± SD) AUC2 weeks, Cmax and Cmin of tocilizumab were 32200 ± 9960 mcg∙hr per mL, 245 ± 57.2 mcg per mL and 57.5 ± 23.3 mcg per mL, respectively.
 The accumulation ratio for Cmin (week 12 over week 2) was 3.2 ± 1.3.
 Steady state was reached on or after week 12.
 Mean estimated tocilizumab exposure parameters were similar between the two dose groups defined by body weight.
