@@ -12,7 +12,7 @@ Insufficient data exist to support the efficacy of cefepime monotherapy in such 
 
 Uncomplicated and Complicated Urinary Tract Infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms.
 
-Uncomplicated Skin and Skin Structure Infections caused by Staphylococcus aureus (methicillin-susceptible strains only) or Streptococcus pyogenes.
+Uncomplicated Skin and Skin Structure Infections caused by Staphylococcus aureus (methicillin-susceptible isolates only) or Streptococcus pyogenes.
 
 Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
 (See CLINICAL STUDIES.)

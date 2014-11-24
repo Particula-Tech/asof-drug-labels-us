@@ -1,6 +1,6 @@
 SAGENT™
 
-Rx Only
+Rx only
 
 For Intravenous or Intramuscular Use
 

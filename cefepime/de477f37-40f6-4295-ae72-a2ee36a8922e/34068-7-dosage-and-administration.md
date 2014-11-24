@@ -1,23 +1,25 @@
 # DOSAGE AND ADMINISTRATION
 
-The recommended adult and pediatric dosages and routes of administration are outlined in the following table.
+The recommended adult and pediatric dosages and routes of administration are outlined in the following Table 10.
 Cefepime for injection should be administered intravenously over approximately 30 minutes.
 
-Table 12: Recommended Dosage Schedule for Cefepime for Injection in Patients with CrCL Greater Than 60 mL/min
+Table 10: Recommended Dosage Schedule for Cefepime for Injection in Patients with CrCL Greater Than 60 mL/min†
 
 | Site and Type of Infection | Dose | Frequency | Duration (days) |
 | --- | --- | --- | --- |
 | Adults |  |  |  |
-| Moderate to Severe Pneumonia due to S. pneumoniae*, P. aeruginosa, K. pneumoniae, or Enterobacter species | 1 to 2 g IV | Every 12 hours | 10 |
+| Moderate to Severe Pneumonia due to S. pneumoniae*, P. aeruginosa§, K. pneumoniae, or Enterobacter species | 1 to 2 g IV | Every 8 to 12 hours | 10 |
 | Empiric therapy for febrile neutropenic patients (see INDICATIONS AND USAGE and CLINICAL STUDIES.) | 2 g IV | Every 8 hours | 7** |
 | Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli, K. pneumoniae, or P. mirabilis* | 0.5 to 1 g IV/IM*** | Every 12 hours | 7 to 10 |
 | Severe Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli or K. pneumoniae* | 2 g IV | Every 12 hours | 10 |
 | Moderate to Severe Uncomplicated Skin and Skin Structure Infections due to S. aureus or S. pyogenes | 2 g IV | Every 12 hours | 10 |
-| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa, K. pneumoniae, Enterobacter species, or B. fragilis (see CLINICAL STUDIES.) | 2 g IV | Every 12 hours | 7 to 10 |
+| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa§, K. pneumoniae, Enterobacter species, or B. fragilis (see CLINICAL STUDIES.) | 2 g IV | Every 8 to 12 hours | 7 to 10 |
 | Pediatric Patients (2 months up to 16 years) The maximum dose for pediatric patients should not exceed the recommended adult dose. The usual recommended dosage in pediatric patients up to 40 kg in weight for uncomplicated and complicated urinary tract infections (including pyelonephritis), uncomplicated skin and skin structure infections, and pneumonia is 50 mg per kg per dose, administered every 12 hours (50 mg per kg per dose, every 8 hours for febrile neutropenic patients), for durations as given above. |  |  |  |
+| †Adjust dose in patients with CrCL less than or equal to 60 mL/min |  |  |  |
 | *including cases associated with concurrent bacteremia. |  |  |  |
 | **or until resolution of neutropenia. In patients whose fever resolves but who remain neutropenic for more than 7 days, the need for continued antimicrobial therapy should be re-evaluated frequently. |  |  |  |
 | ***Intramuscular route of administration is indicated only for mild to moderate, uncomplicated or complicated UTIs due to E. coli when the intramuscular route is considered to be a more appropriate route of drug administration. |  |  |  |
+| §For Pseudomonas aeruginosa, use 2 g IV every 8 hours (50 mg per kg per dose in pediatric patients 2 months up to 16 years) |  |  |  |
 
 ## Patients with Hepatic Impairment
 
@@ -27,12 +29,12 @@ No adjustment is necessary for patients with hepatic impairment.
 
 In patients with creatinine clearance less than or equal to 60 mL/min, the dose of cefepime for injection should be adjusted to compensate for the slower rate of renal elimination.
 The recommended initial dose of cefepime for injection should be the same as in patients with normal renal function except in patients undergoing hemodialysis.
-The recommended doses of cefepime for injection in patients with renal impairment are presented in Table 13.
+The recommended doses of cefepime for injection in patients with renal impairment are presented in Table 11.
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation)3 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation)4 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function:
 
-Table 13: Recommended Dosing Schedule for Cefepime for Injection in Adult Patients (Normal Renal Function, Renal Impairment, and Hemodialysis)
+Table 11: Recommended Dosing Schedule for Cefepime for Injection in Adult Patients (Normal Renal Function, Renal Impairment, and Hemodialysis)
 
 | Creatinine Clearance (mL/min) | Recommended Maintenance Schedule |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -44,14 +46,14 @@ Table 13: Recommended Dosing Schedule for Cefepime for Injection in Adult Patien
 | Hemodialysis* | 1 g on day 1, then 500 mg every 24 hours thereafter |  |  | 1 g every 24 hours |
 | *On hemodialysis days, cefepime should be administered following hemodialysis. Whenever possible, cefepime should be administered at the same time each day. |  |  |  |  |
 
-In patients undergoing continuous ambulatory peritoneal dialysis, cefepime for injection may be administered at normally recommended doses at a dosage interval of every 48 hours (see Table 13).
+In patients undergoing continuous ambulatory peritoneal dialysis, cefepime for injection may be administered at normally recommended doses at a dosage interval of every 48 hours (see Table 11).
 
 In patients undergoing hemodialysis, approximately 68% of the total amount of cefepime present in the body at the start of dialysis will be removed during a 3-hour dialysis period.
 The dosage of cefepime for injection for hemodialysis patients is 1 g on Day 1 followed by 500 mg every 24 hours for the treatment of all infections except febrile neutropenia, which is 1 g every 24 hours.
 
-Cefepime for injection should be administered at the same time each day and following the completion of hemodialysis on hemodialysis days (see Table 13).
+Cefepime for injection should be administered at the same time each day and following the completion of hemodialysis on hemodialysis days (see Table 11).
 
-Data in pediatric patients with impaired renal function are not available; however, since cefepime pharmacokinetics are similar in adults and pediatric patients (see CLINICAL PHARMACOLOGY), changes in the dosing regimen proportional to those in adults (see Tables 12 and 13) are recommended for pediatric patients.
+Data in pediatric patients with impaired renal function are not available; however, since cefepime pharmacokinetics are similar in adults and pediatric patients (see CLINICAL PHARMACOLOGY), changes in the dosing regimen proportional to those in adults (see Tables 10 and 11) are recommended for pediatric patients.
 
 ## Administration
 
@@ -62,10 +64,11 @@ THE RESULTING SOLUTION SHOULD BE ADMINISTERED OVER APPROXIMATELY 30 MINUTES.
 Intermittent intravenous infusion with a Y-type administration set can be accomplished with compatible solutions.
 However, during infusion of a solution containing cefepime, it is desirable to discontinue the other solution.
 
-Intramuscular Administration: For intramuscular administration, cefepime for injection should be constituted with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1% Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol (refer to Table 14).
-Preparation of cefepime for injection solutions is summarized in Table 14.
+Intramuscular Administration: For intramuscular administration, cefepime for injection should be constituted with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1% Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol (refer to Table 12).
 
-Table 14: Preparation of Solutions of Cefepime for Injection
+Preparation of cefepime for injection solutions is summarized in Table 12.
+
+Table 12: Preparation of Solutions of Cefepime for Injection
 
 | Single-Dose Vials for Intravenous/Intramuscular Administration | Amount of Diluent to be added (mL) | Approximate Available Volume (mL) | Approximate Cefepime Concentration (mg/mL) |
 | --- | --- | --- | --- |
@@ -79,9 +82,9 @@ Table 14: Preparation of Solutions of Cefepime for Injection
 Intravenous: Cefepime for injection is compatible at concentrations between 1 mg per mL and 40 mg per mL with the following intravenous infusion fluids: 0.9% Sodium Chloride Injection, 5% and 10% Dextrose Injection, M/6 Sodium Lactate Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, Lactated Ringers and 5% Dextrose Injection, NormosolTM-R, and NormosolTM-M in 5% Dextrose Injection.
 These solutions may be stored up to 24 hours at controlled room temperature 20°C to 25°C (68°F to 77°F) or 7 days in a refrigerator 2°C to 8°C (36°F to 46°F).
 
-Cefepime for injection admixture compatibility information is summarized in Table 15.
+Cefepime for injection admixture compatibility information is summarized in Table 13.
 
-Table 15: Cefepime Admixture Stability
+Table 13: Cefepime Admixture Stability
 
 |  |  |  | Stability Time for |  |
 | --- | --- | --- | --- | --- |

@@ -72,7 +72,7 @@ Sometimes after starting treatment with antibiotics, patients can develop watery
 If this occurs, patients should contact their physician as soon as possible.
 
 Patients should be advised of neurological adverse events that could occur with cefepime for injection use.
-Patients should be instructed to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and non-convulsive status epilepticus for immediate treatment, dosage adjustment, or discontinuation of cefepime for injection.
+Patients should be instructed to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures and non-convulsive status epilepticus, for immediate treatment, dosage adjustment, or discontinuation of cefepime for injection.
 
 ## Drug Interactions
 
@@ -124,11 +124,11 @@ IN THOSE PATIENTS IN WHOM MENINGEAL SEEDING FROM A DISTANT INFECTION SITE OR IN 
 ## Geriatric Use
 
 Of the more than 6400 adults treated with cefepime for injection in clinical studies, 35% were 65 years or older while 16% were 75 years or older.
-When geriatric patients received the usual recommended adult dose, clinical efficacy and safety were comparable to clinical efficacy and safety in nongeriatric adult patients.
+When geriatric patients received the usual recommended adult dose, clinical efficacy and safety were comparable to clinical efficacy and safety in non-geriatric adult patients.
 
 Serious adverse events have occurred in geriatric patients with renal insufficiency given unadjusted doses of cefepime, including life-threatening or fatal occurrences of the following: encephalopathy, myoclonus, and seizures.
 (See WARNINGS and ADVERSE REACTIONS.)
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and renal function should be monitored.
-(See CLINICAL PHARMACOLOGY: Specific Populations, WARNINGS, and DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, and DOSAGE AND ADMINISTRATION.)
