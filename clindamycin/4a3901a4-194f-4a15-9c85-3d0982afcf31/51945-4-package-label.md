@@ -48,6 +48,20 @@ Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 MADE I
 
 Rx only
 
+# PRINCIPAL DISPLAY PANEL - 60 Pledget Packet Carton
+
+Pfizer
+
+NDC 0009-3116-14
+
+Cleocin T® clindamycin phosphate topical solution, USP
+
+1%*
+
+Pledget for topical use only
+
+60 Pledgets Rx only
+
 # PRINCIPAL DISPLAY PANEL - 60 mL Bottle Label
 
 Pfizer
