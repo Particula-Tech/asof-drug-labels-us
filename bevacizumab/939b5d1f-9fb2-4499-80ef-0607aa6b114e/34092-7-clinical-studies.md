@@ -12,9 +12,9 @@ Of the 813 patients randomized to Arms 1 and 2, the median age was 60, 40% were 
 In 56% of the patients, the dominant site of disease was extra-abdominal, while the liver was the dominant site in 38% of patients.
 
 The addition of Avastin resulted in an improvement in survival across subgroups defined by age (< 65 yrs, ≥ 65 yrs) and gender.
-Results are presented in Table 5 and Figure 1.
+Results are presented in Table 6 and Figure 1.
 
-Table 5 Study 1 Efficacy Results
+Table 6 Study 1 Efficacy Results
 
 |  | IFL + Placebo | IFL + Avastin 5 mg/kg q 2 wks |
 | --- | --- | --- |
@@ -69,9 +69,9 @@ At baseline, 52% of patients were ECOG performance status (PS) 1, 44% were ECOG 
 Second-line chemotherapy regimens were generally balanced between each treatment arm.
 
 The addition of Avastin to fluoropyrimidine-based chemotherapy resulted in a statistically significant prolongation of survival and PFS; there was no significant difference in overall response rate, a key secondary outcome measure.
-Results are presented in Table 6 and Figure 2.
+Results are presented in Table 7 and Figure 2.
 
-Table 6 Study 4 Efficacy Results
+Table 7 Study 4 Efficacy Results
 
 |  | Chemotherapy | Avastin + Chemotherapy |
 | --- | --- | --- |
@@ -208,12 +208,12 @@ Of the 452 patients randomized at baseline, 78% of patients were Caucasian, 80% 
 Patients had a GOG Performance Status (PS) of 0 (58%) or 1 (42%).
 Demographic and disease characteristics were balanced across arms.
 
-The study results for OS in patients who received chemotherapy plus Avastin as compared to chemotherapy alone are presented in Table 7 and Figure 5.
+The study results for OS in patients who received chemotherapy plus Avastin as compared to chemotherapy alone are presented in Table 8 and Figure 5.
 
 | Figure 5 Study 9: Overall Survival for Chemotherapy vs. Chemotherapy plus Avastin |
 | --- |
 
-Table 7 Study 9 Efficacy Results: Chemotherapy versus Chemotherapy + Avastin
+Table 8 Study 9 Efficacy Results: Chemotherapy versus Chemotherapy + Avastin
 
 | Overall Survival |  |  |
 | --- | --- | --- |
@@ -223,7 +223,7 @@ Table 7 Study 9 Efficacy Results: Chemotherapy versus Chemotherapy + Avastin
 
 The overall response rate was also higher in patients who received chemotherapy plus Avastin [45% (95% CI: 39, 52)] than in patients who received chemotherapy alone [34% (95% CI: 28,40)].
 
-Table 8 Study 9 Efficacy Results: Platinum Doublet versus Nonplatinum Doublet
+Table 9 Study 9 Efficacy Results: Platinum Doublet versus Nonplatinum Doublet
 
 | Overall Survival |  |  |
 | --- | --- | --- |
@@ -233,3 +233,63 @@ Table 8 Study 9 Efficacy Results: Platinum Doublet versus Nonplatinum Doublet
 
 The hazard ratio for OS with Cisplatin +Paclitaxel + Avastin as compared to Cisplatin +Paclitaxel alone was 0.72 (95% CI: 0.51,1.02).
 The hazard ratio for OS with Topotecan +Paclitaxel +Avastin as compared to Topotecan +Paclitaxel alone was 0.76 (95% CI: 0.55, 1.06).
+
+## 14.7 Platinum-Resistant Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+
+Study 10
+
+Avastin was evaluated in a multicenter, open-label, randomized, two-arm study (Study 10) comparing Avastin plus chemotherapy versus chemotherapy alone in patients with platinum-resistant, recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer that recurred within < 6 months from the most recent platinum-based therapy (N=361).
+Patients had received no more than 2 prior chemotherapy regimens.
+Patients received one of the following intravenous chemotherapies at the discretion of the investigator: paclitaxel (80mg/m2 on days 1, 8, 15 and 22 every 4 weeks; pegylated liposomal doxorubicin (PLD) 40mg/m2 on day 1 every 4 weeks; or topotecan 4mg/m2 on days 1, 8 and 15 every 4 weeks or 1.25mg/m2 on days 1-5 every 3 weeks).
+Patients were treated until disease progression, unacceptable toxicity, or withdrawal.
+Forty percent of patients on the chemotherapy alone arm received Avastin monotherapy upon progression..
+The main outcome measure was investigator-assessed Progression-Free Survival (PFS).
+Secondary outcome measures were Objective Response Rate (ORR) and Overall Survival (OS).
+
+The median age was 61 years (range 25–84 years) and 37% of patients were ≥ age 65.
+Seventy-nine percent had measurable disease at baseline, 87% had baseline CA-125 levels ≥ 2 × ULN and 31% had ascites at baseline.
+Seventy-three percent had a platinum-free interval (PFI) of 3–6 months and 27% had PFI of < 3 months.
+ECOG Performance Status was 0 for 59%, 1 for 34% and 2 for 7% of the patients.
+
+The addition of Avastin to chemotherapy demonstrated a statistically significant improvement in investigator-assessed PFS, which was supported by a retrospective independent review analysis.
+Study results for the intent to treat (ITT) population are presented in Table 10 and Figure 6.
+Results for the separate chemotherapy cohorts are presented in Table 11.
+
+Table 10: Efficacy Results in Study 10 ITT Population
+
+| Efficacy Parameter | CTchemotherapy (N=182) | CT+Avastin (N=179) |
+| --- | --- | --- |
+| PFS per Investigator |  |  |
+| Median (95% CI), in months | 3.4 (2.1, 3.8) | 6.8 (5.6, 7.8) |
+| HR (95% CI)per stratified Cox proportional hazards model | 0.38 (0.30, 0.49) |  |
+| p-value per stratified logrank test | <0.0001 |  |
+| Overall Survival |  |  |
+| Median (95% CI), in months | 13.3 (11.9, 16.4) | 16.6 (13.7, 19.0) |
+| HR (95% CI) | 0.89 (0.69, 1.14) |  |
+| Objective Response Rate |  |  |
+| Number of Patients with Measurable | 144 | 142 |
+| Disease at Baseline Rate, % (95% CI) | 13% (7%, 18%) | 28% (21%, 36%) |
+| Median of Response Duration |  |  |
+| in months | 5.4 | 9.4 |
+
+| Figure 6 Investigator-Assessed Progression-Free Survival in Study 10 ITT Population |
+| --- |
+
+Table 11 Study 10 Efficacy Results in Chemotherapy Cohorts
+
+|  | CTchemotherapy (N=55) | CT+Avastin (N=60) | CT (N=63) | CT+Avastin (N=57) | CT (N=64) | CT+Avastin (N=62) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Efficacy Parameter | Paclitaxel |  | Topotecan |  | PLD |  |
+| PFS per Investigator |  |  |  |  |  |  |
+| Median (months) | 3.9 | 9.6 | 2.1 | 6.2 | 3.5 | 5.1 |
+| (95% CI) | (3.5, 5.5) | (7.8, 11.5) | (1.9, 2.3) | (5.3, 7.6) | (1.9, 3.9) | (3.9, 6.3) |
+| HR (95% CI)per stratified Cox proportional hazards model | 0.47 (0.31, 0.72) |  | 0.24 (0.15, 0.38) |  | 0.47 (0.32, 0.71) |  |
+| Overall Survival |  |  |  |  |  |  |
+| Median (months) | 13.2 | 22.4 | 13.3 | 13.8 | 14.1 | 13.7 |
+| (95% CI) | (8.2, 19.7) | (16.7, 26.7) | (10.4, 18.3) | (11.0, 18.3) | (9.9, 17.8) | (11.0, 18.3) |
+| HR (95% CI) | 0.64 (0.41, 1.01) |  | 1.12 (0.73, 1.73) |  | 0.94 (0.63, 1.42) |  |
+| Objective Response Rate |  |  |  |  |  |  |
+| Number of Patients with Measurable Disease at Baseline | 43 | 45 | 50 | 46 | 51 | 51 |
+| Rate, % (95% CI) | 30 (17, 44) | 53 (39, 68) | 2 (0, 6) | 17 (6, 28) | 8 (0, 15) | 16 (6, 26) |
+| Median of Response Duration (months) | 6.8 | 11.6 | NE | 5.2 | 4.6 | 8.0 |
+| NE= Not Estimable |  |  |  |  |  |  |

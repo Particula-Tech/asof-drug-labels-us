@@ -29,3 +29,7 @@ Avastin is indicated for the treatment of metastatic renal cell carcinoma in com
 
 Avastin in combination with paclitaxel and cisplatin or paclitaxel and topotecan is indicated for the treatment of persistent, recurrent, or metastatic carcinoma of the cervix.
 [See Clinical Studies (14.6).]
+
+## 1.6 Platinum-Resistant Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+
+Avastin in combination with paclitaxel, pegylated liposomal doxorubicin or topotecan is indicated for the treatment of patients with platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer who received no more than 2 prior chemotherapy regimens.

@@ -5,17 +5,19 @@
 Serious and sometimes fatal gastrointestinal perforation occurs at a higher incidence in Avastin treated patients compared to controls.
 The incidence of gastrointestinal perforation ranged from 0.3 to 3.2% across clinical studies.
 [See Adverse Reactions (6.1).]
-
 From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (Study 9), gastrointestinal perforations were reported in 3.2% of Avastin treated patients, all of whom had a history of prior pelvic radiation.
 Fatal outcome was reported in <1% of Avastin-treated patients.
+In a platinum-resistant ovarian cancer trial (Study 10), the incidence of GI perforation was 1.7% (3/179).
+In this trial, patients with evidence of recto-sigmoid involvement by pelvic examination or bowel involvement on CT scan or clinical symptoms of bowel obstruction were excluded.
 
 The typical presentation may include abdominal pain, nausea, emesis, constipation, and fever.
 Perforation can be complicated by intra-abdominal abscess, fistula formation, and the need for diverting ostomies.
 The majority of cases occurred within the first 50 days of initiation of Avastin.
+Avoid use of Avastin in patients with ovarian cancer who have evidence of recto-sigmoid involvement by pelvic examination or bowel involvement on CT scan or clinical symptoms of bowel obstruction.
 Permanently discontinue Avastin in patients with gastrointestinal perforation.
 
-In Avastin clinical trials, gastrointestinal fistulae have been reported with an incidence of up to 2% in patients with metastatic colorectal cancer but were also reported less commonly in patients with other types of cancer.
-In a cervical cancer trial (Study 9), the incidence of gastrointestinal-vaginal fistulae was 8.2% in Avastin-treated patients and 0.9% in control patients, all of whom had a history of prior pelvic radiation.
+In Avastin clinical trials, gastrointestinal fistulae have been reported with an incidence of up to 2% in patients with metastatic colorectal cancer and ovarian cancer.
+In a cervical cancer trial (Study 9), the incidence of gastrointestinal-vaginal fistulae was 8.3% in Avastin-treated patients and 0.9% in control patients, all of whom had a history of prior pelvic radiation.
 Patients who develop GI vaginal fistulas may also have bowel obstructions and require surgical intervention as well as diverting ostomies.
 [See Boxed Warning, Dosage and Administration (2.4).]
 

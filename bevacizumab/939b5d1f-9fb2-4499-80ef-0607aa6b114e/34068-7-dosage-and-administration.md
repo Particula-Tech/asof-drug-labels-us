@@ -38,6 +38,10 @@ Cervical Cancer
 
 The recommended dose of Avastin is 15 mg/kg every 3 weeks as an intravenous infusion administered in combination with one of the following chemotherapy regimens: paclitaxel and cisplatin, or paclitaxel and topotecan.
 
+Platinum-Resistant Recurrent Epithelial Ovarian, Fallopian Tube or Primary Peritoneal Cancer
+
+The recommended dose is 10mg/kg every 2 weeks in combination with one of the following intravenous chemotherapy regimens: paclitaxel, pegylated liposomal doxorubicin, or topotecan (weekly); or 15 mg/kg every 3 weeks in combination with topotecan (every 3 weeks).
+
 ## 2.3 Preparation for Administration
 
 Use appropriate aseptic technique.

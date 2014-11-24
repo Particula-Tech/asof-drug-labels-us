@@ -2,15 +2,19 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Category D
 
 There are no adequate or well controlled studies of bevacizumab in pregnant women.
-While it is not known if bevacizumab crosses the placenta, human IgG is known to cross the placenta Reproduction studies in rabbits treated with approximately 1 to 12 times the recommended human dose of bevacizumab demonstrated teratogenicity, including an increased incidence of specific gross and skeletal fetal alterations.
+While it is not known if bevacizumab crosses the placenta, human IgG is known to cross the placenta.
+Reproduction studies in rabbits treated with approximately 1 to 12 times the recommended human dose of bevacizumab demonstrated teratogenicity, including an increased incidence of specific gross and skeletal fetal alterations.
 Adverse fetal outcomes were observed at all doses tested.
 Other observed effects included decreases in maternal and fetal body weights and an increased number of fetal resorptions.
 [See Nonclinical Toxicology (13.3).]
+In the postmarketing setting, cases of fetal abnormalities have been observed in women treated with Avastin alone or in combination with known embryotoxic chemotherapeutics (see Section 6.3 ADVERSE REACTIONS, Postmarketing Experience).
 
 Because of the observed teratogenic effects of bevacizumab in animals and of other inhibitors of angiogenesis in humans, bevacizumab should be used during pregnancy only if the potential benefit to the pregnant woman justifies the potential risk to the fetus.
+In women with childbearing potential, appropriate contraceptive measures should be used during Avastin therapy.
+Based on pharmacokinetic considerations, contraceptive measures should be used for at least 6 months following the last dose of Avastin.
 
 ## 8.3 Nursing Mothers
 
@@ -37,7 +41,7 @@ The effect of Avastin on overall survival was similar in elderly patients as com
 In Study 2, patients aged ≥ 65 years receiving Avastin plus FOLFOX4 had a greater relative risk as compared to younger patients for the following adverse events: nausea, emesis, ileus, and fatigue.
 
 In Study 5, patients aged ≥ 65 years receiving carboplatin, paclitaxel, and Avastin had a greater relative risk for proteinuria as compared to younger patients.
-[See Warnings and Precautions (5.8).]
+[See Warnings and Precautions (5.9).]
 
 Of the 742 patients enrolled in Genentech-sponsored clinical studies in which all adverse events were captured, 212 (29%) were age 65 or older and 43 (6%) were age 75 or older.
 Adverse events of any severity that occurred at a higher incidence in the elderly as compared to younger patients, in addition to those described above, were dyspepsia, gastrointestinal hemorrhage, edema, epistaxis, increased cough, and voice alteration.

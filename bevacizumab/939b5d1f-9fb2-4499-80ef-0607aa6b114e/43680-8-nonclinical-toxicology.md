@@ -24,3 +24,4 @@ Using full-thickness skin incision and partial thickness circular dermal wound m
 Pregnant rabbits dosed with 1 to 12 times the human dose of bevacizumab every three days during the period of organogenesis (gestation day 6–18) exhibited teratogenic effects, decreases in maternal and fetal body weights, and increased number of fetal resorptions.
 Teratogenic effects included: reduced or irregular ossification in the skull, jaw, spine, ribs, tibia and bones of the paws; meningocele; fontanel, rib and hindlimb deformities; corneal opacity; and absent hindlimb phalanges.
 There are no data available regarding the level of bevacizumab exposure in the offspring.
+Information on fetal malformations observed in the post marketing setting are provided in Section 6.3 ADVERSE REACTIONS, Postmarketing Experience and section 8.1 USE IN SPECIFIC POPULATIONS, Pregnancy.

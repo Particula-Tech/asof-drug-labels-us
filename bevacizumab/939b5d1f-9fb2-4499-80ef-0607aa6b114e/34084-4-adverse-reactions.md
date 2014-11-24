@@ -14,7 +14,8 @@ The following serious adverse reactions are discussed in greater detail in other
 - Infusion Reactions [See Dosage and Administration (2.4), Warnings and Precautions (5.10)]
 - Ovarian Failure [See Warnings and Precautions (5.11), Use in Specific Populations (8.6).]
 
-The most common adverse reactions observed in Avastin patients at a rate > 10% and at least twice the control arm rate, are epistaxis, headache, hypertension, rhinitis, proteinuria, taste alteration, dry skin, rectal hemorrhage, lacrimation disorder, back pain and exfoliative dermatitis.
+The most common adverse reactions observed in Avastin patients at a rate > 10% and at least twice the control arm rate, are epistaxis, headache, hypertension, rhinitis, proteinuria, taste alteration, dry skin, rectal hemorrhage, lacrimation disorder, back pain and exfoliative dermatitis Some of the adverse reactions are commonly seen with chemotherapy; however, Avastin may exacerbate these reactions when combined with chemotherapeutic agents.
+Examples include palmar-plantar erythrodysaesthesia syndrome with pegylated liposomal doxorubicin or capecitabine peripheral sensory neuropathy with paclitaxel or oxaliplatin, and nail disorders or alopecia with paclitaxel.
 
 Across all studies, Avastin was discontinued in 8.4 to 21% of patients because of adverse reactions.
 
@@ -22,10 +23,10 @@ Across all studies, Avastin was discontinued in 8.4 to 21% of patients because o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data below reflect exposure to Avastin in 4817 patients with CRC, non-squamous NSCLC, glioblastoma, mRCC, or cervical cancer, including controlled (Studies 1, 2, 4, 5, 8 and 9) or uncontrolled, single arm trials (Study 6) treated at the recommended dose and schedule for a median of 6 to 23 doses of Avastin.
+The data below reflect exposure to Avastin in 4996 patients with CRC, non-squamous NSCLC, glioblastoma, mRCC, or cervical cancer or platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer including controlled (Studies 1, 2, 4, 5, 8 9 and 10) or uncontrolled, single arm trials (Study 6) treated at the recommended dose and schedule for a median of 6 to 23 doses of Avastin.
 [See Clinical Studies (14).]
-The population was aged 18-89 years (median 59 years), 44% male and 85% White.
-The population included 2184 first- and second-line mCRC patients who received a median of 10 doses of Avastin, 480 first-line metastatic NSCLC patients who received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, 337 mRCC patients who received a median of 16 doses of Avastin, and 218 cervical cancer patients who received a median of 6 doses of Avastin.
+The population was aged 18-89 years (median 60 years), 42% male and 86% White.
+The population included 2184 first- and second-line mCRC patients who received a median of 10 doses of Avastin, 480 first-line metastatic NSCLC patients who received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, 337 mRCC patients who received a median of 16 doses of Avastin, 218 cervical cancer patients who received a median of 6 doses of Avastin and 179 platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer patients who received a median of 6 doses of Avastin.
 These data also reflect exposure to Avastin in 363 patients with metastatic breast cancer (MBC) who received a median of 9.5 doses of Avastin, 1338 adjuvant CRC patients, including 669 female patients, who received a median of 23 doses of Avastin, and 403 previously untreated patients with diffuse large B-cell lymphoma (DLBCL) who received a median of 8 doses of Avastin.
 Avastin is not approved for use in MBC, adjuvant CRC, or DLBCL.
 
@@ -75,7 +76,7 @@ The incidence of any grade of infection in patients receiving Avastin alone was 
 
 Proteinuria
 
-Grade 3–4 proteinuria ranged from 0.7 to 7.4% in Studies 1, 2, 4, 5 and 8.
+Grade 3–4 proteinuria ranged from 0.7 to 7.4% in Studies 1, 2, 4, 5, 8 and 10.
 The overall incidence of proteinuria (all grades) was only adequately assessed in Study 8, in which the incidence was 20%.
 Median onset of proteinuria was 5.6 months (range 15 days to 37 months) after initiation of Avastin.
 Median time to resolution was 6.1 months (95% CI 2.8 months, 11.3 months).
@@ -296,9 +297,40 @@ Table 4 NCI-CTC Grades 1-4 and 3-4 Adverse Reactions in Study 9 (Incidence Diffe
 | Renal and Urinary Disorders |  |  |  |  |
 | Proteinuria | 3% | 10% |  |  |
 
-Grade 3 or 4 adverse reactions occurring at a higher incidence (≥2%) in 218 patients receiving chemotherapy plus Avastin compared to 222 patients receiving chemotherapy alone were abdominal pain (11.9% vs. 9.9%), diarrhea (5.5% vs. 2.7%), anal fistula (3.7% vs. 0%), proctalgia (2.8% vs. 0%), urinary tract infection 8.3% vs. 6.3%), cellulitis (3.2% vs. 0.5%), fatigue (14.2% vs. 9.9%), hypokalemia (7.3% vs. 4.5%), hyponatremia (3.7% vs. 1.4%), dehydration (4.1% vs. 0.5%), neutropenia (7.8% vs. 4.1%), lymphopenia (6.0% vs. 3.2%), back pain (5.5% vs. 3.2%), and pelvic pain (5.5% vs. 1.4%).
+Grade 3 or 4 adverse reactions occurring at a higher incidence (≥2%) in 218 patients receiving chemotherapy plus Avastin compared to 222 patients receiving chemotherapy alone were abdominal pain (11.9% vs. 9.9%), diarrhea (5.5% vs. 2.7%), anal fistula (3.7% vs. 0%), proctalgia (2.8% vs. 0%), urinary tract infection (8.3% vs. 6.3%), cellulitis (3.2% vs. 0.5%), fatigue (14.2% vs. 9.9%), hypokalemia (7.3% vs. 4.5%), hyponatremia (3.7% vs. 1.4%), dehydration (4.1% vs. 0.5%), neutropenia (7.8% vs. 4.1%), lymphopenia (6.0% vs. 3.2%), back pain (5.5% vs. 3.2%), and pelvic pain (5.5% vs. 1.4%).
 
 There were no Grade 5 adverse reactions occurring at a higher incidence (≥2%) in patients receiving chemotherapy plus Avastin compared to patients receiving chemotherapy alone.
+
+Platinum-Resistant Recurrent Epithelia Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+
+Patients with evidence of recto-sigmoid involvement by pelvic examination or bowel involvement on CT scan or clinical symptoms of bowel obstruction were excluded in this study.
+
+Grade 2-4 adverse events occurring at a higher incidence (≥5%) in patients receiving Avastin plus chemotherapy compared to patients receiving chemotherapy alone are presented in Table 5.
+
+Table 5 Grade 2–4 Adverse Events Occurring at Higher Incidence [≥ 5%] in Chemo + Avastin vs. Chemo Safety–Evaluable Patients
+
+| System Organ Class Preferred Term | Chemo (n=181) | Chemo+Avastin (n=179) |
+| --- | --- | --- |
+| Blood And Lymphatic System Disorders |  |  |
+| Neutropenia | 25.4% | 30.7% |
+| General Disorders And Administration Site Conditions |  |  |
+| Mucosal Inflammation | 5.5% | 12.8% |
+| Infections And Infestations |  |  |
+| Infection | 4.4% | 10.6% |
+| Nervous System Disorders |  |  |
+| Peripheral Sensory Neuropathy | 7.2% | 17.9% |
+| Renal And Urinary Disorders |  |  |
+| Proteinuria | 0.6% | 12.3% |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Epistaxis | 0.0% | 5.0% |
+| Skin And Subcutaneous Tissue Disorders |  |  |
+| Palmar–Plantar Erythrodysaesthesia Syndrome | 5.0% | 10.6% |
+| Vascular Disorders |  |  |
+| Hypertension | 5.5% | 19.0% |
+
+Grade 3–4 adverse events occurring at a higher incidence (≥ 2%) in 179 patients receiving Avastin plus chemotherapy compared to 181 patients receiving chemotherapy alone were hypertension (6.7% vs. 1.1%) and palmar-plantar erythrodysaesthesia syndrome (4.5% vs. 1.7%).
+
+There were no Grade 5 events occurring at a higher incidence (≥ 2%) in patients receiving Avastin plus chemotherapy compared to patients receiving chemotherapy alone.
 
 ## 6.2 Immunogenicity
 
@@ -321,6 +353,8 @@ Body as a Whole: Polyserositis
 Cardiovascular: Pulmonary hypertension, PRES, Mesenteric venous occlusion
 
 Eye disorders (from unapproved intravitreal use for treatment of various ocular disorders): Permanent loss of vision; Endophthalmitis (infectious and sterile); Intraocular inflammation; Retinal detachment; Increased intraocular pressure; Hemorrhage including conjunctival, vitreous hemorrhage or retinal hemorrhage; Vitreous floaters; Ocular hyperemia; Ocular pain or discomfort
+
+Fetal abnormalities: Cases of fetal abnormalities have been observed in women treated with Avastin alone or in combination with known embryotoxic chemotherapeutics (see Section 8.1 USE IN SPECIFIC POPULATIONS, Pregnancy).
 
 Gastrointestinal: Gastrointestinal ulcer, Intestinal necrosis, Anastomotic ulceration
 
