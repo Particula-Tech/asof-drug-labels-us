@@ -1,6 +1,6 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+## 16.1How Supplied
 
 SOLODYN (minocycline HCl, USP) Extended Release Tablets are supplied as aqueous film coated tablets containing minocycline hydrochloride equivalent to 55 mg, 65 mg, 80 mg, 105 mg, or 115 mg minocycline, are supplied as follows.
 
@@ -34,11 +34,11 @@ Each tablet contains minocycline hydrochloride equivalent to 115 mg minocycline,
 | NDC 99207-464-30 | Bottle of 30 |
 | --- | --- |
 
-## 16.2 Storage
+## 16.2Storage
 
 Store at 25°C (77°F); excursions are permitted to 15°–30°C (59°–86°F) [See USP Controlled Room Temperature].
 
-## 16.3 Handling
+## 16.3Handling
 
 Keep out of reach of children.
 

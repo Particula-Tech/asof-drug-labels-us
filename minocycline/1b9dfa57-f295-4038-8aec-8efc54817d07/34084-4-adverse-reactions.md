@@ -1,6 +1,6 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
-## 6.1 Clinical Trial Experience
+## 6.1Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
 
@@ -25,7 +25,7 @@ Table 2: Selected Treatment-Emergent Adverse Reactions in at least 1% of Clinica
 | Dry mouth | 7 (1) | 5 (1) |
 | Myalgia | 7 (1) | 4 (1) |
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 Adverse reactions that have been reported with minocycline hydrochloride use in a variety of indications include:
 

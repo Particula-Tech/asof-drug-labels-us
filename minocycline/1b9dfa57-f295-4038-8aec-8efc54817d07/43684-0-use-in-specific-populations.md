@@ -1,6 +1,6 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Teratogenic Effects: Pregnancy category D [see Warnings and Precautions (5.1)]
 
@@ -22,19 +22,19 @@ No effects of treatment on the duration of the gestation period or the number of
 Gross external anomalies observed in F1 pups (offspring of animals that received minocycline) included reduced body size, improperly rotated forelimbs, and reduced size of extremities.
 No effects were observed on the physical development, behavior, learning ability, or reproduction of F1 pups, and there was no effect on gross appearance of F2 pups (offspring of F1 animals).
 
-## 8.3 Nursing Mothers
+## 8.3Nursing Mothers
 
 Tetracycline-class antibiotics are excreted in human milk.
 Because of the potential for serious adverse effects on bone and tooth development in nursing infants from the tetracycline-class antibiotics, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother [see Warnings and Precautions (5.1)].
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 SOLODYN is indicated to treat only inflammatory lesions of non-nodular moderate to severe acne vulgaris in patients 12 years and older.
 Safety and effectiveness in pediatric patients below the age of 12 has not been established.
 
 Use of tetracycline-class antibiotics below the age of 8 is not recommended due to the potential for tooth discoloration [see Warnings and Precautions (5.1)].
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 Clinical studies of SOLODYN did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

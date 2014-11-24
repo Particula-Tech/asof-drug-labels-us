@@ -1,4 +1,4 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -8,7 +8,7 @@ The mechanism of action of SOLODYN for the treatment of acne is unknown.
 
 The pharmacodynamics of SOLODYN for the treatment of acne are unknown.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 SOLODYN Tablets are not bioequivalent to non-modified release minocycline products.
 Based on pharmacokinetic studies in healthy adults, SOLODYN Tablets produce a delayed Tmax at 3.5–4.0 hours as compared to a non-modified release reference minocycline product (Tmax at 2.25–3 hours).

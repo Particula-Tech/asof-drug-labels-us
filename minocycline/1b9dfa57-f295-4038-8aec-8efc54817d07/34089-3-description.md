@@ -1,7 +1,13 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
 Minocycline hydrochloride, a semi synthetic derivative of tetracycline, is [4S-(4α,4aα,5aα,12aα)]-4,7-Bis(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,10,12,12a-tetrahydroxy-1,11-dioxo-2-naphthacenecarboxamide mono hydrochloride.
 The structural formula is represented below:
+
+C23H27N3O7•HCl M. W. 493.95
+
+C23H27N3O7•HCl M. W. 493.95
+
+C23H27N3O7•HCl M. W. 493.95
 
 SOLODYN Tablets for oral administration contain minocycline hydrochloride USP equivalent to 55 mg, 65 mg, 80 mg, 105 mg, or 115 mg of minocycline.
 In addition, 55 mg, 65 mg, 80 mg, 105 mg, and 115 mg, tablets contain the following inactive ingredients: lactose monohydrate NF, hypromellose type 2910 USP, magnesium stearate NF, colloidal silicon dioxide NF, and carnauba wax NF.

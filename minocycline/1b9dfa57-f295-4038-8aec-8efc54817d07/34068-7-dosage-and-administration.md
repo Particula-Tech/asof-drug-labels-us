@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
 The recommended dosage of SOLODYN is approximately 1 mg/kg once daily for 12 weeks.
 Higher doses have not shown to be of additional benefit in the treatment of inflammatory lesions of acne, and may be associated with more acute vestibular side effects.
