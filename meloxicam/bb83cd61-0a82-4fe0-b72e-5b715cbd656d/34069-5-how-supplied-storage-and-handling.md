@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Meloxicam tablets, USP 7.5 mg are yellow coloured, round, biconvex tablets, debossed with "158" on one side and "C" on the other.
 
