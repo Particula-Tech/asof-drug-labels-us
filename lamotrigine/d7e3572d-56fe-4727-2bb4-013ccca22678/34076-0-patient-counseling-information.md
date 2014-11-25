@@ -15,9 +15,9 @@ Instruct them to immediately report behaviors of concern to their healthcare pro
 Worsening of Seizures: Instruct patients to notify their healthcare providers if worsening of seizure control occurs.
 
 Central Nervous System Adverse Effects: Inform patients that LAMICTAL may cause dizziness, somnolence, and other symptoms and signs of central nervous system depression.
-Accordingly, instruct them neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on LAMICTAL to gauge whether or not it adversely affects their mental and/or motor performance..
+Accordingly, instruct them neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on LAMICTAL to gauge whether or not it adversely affects their mental and/or motor performance.
 
-Pregnancy and Nursing: Instruct patients to notify their healthcare providers if they become pregnant or intend to become pregnant during therapy and if they intend to breastfeed or are breastfeeding an infant..
+Pregnancy and Nursing: Instruct patients to notify their healthcare providers if they become pregnant or intend to become pregnant during therapy and if they intend to breastfeed or are breastfeeding an infant.
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
@@ -46,7 +46,7 @@ LAMICTAL and LAMICTAL ODT are registered trademarks of the GSK group of companie
 The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
 The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
-Manufactured for
+Distributed by
 
 GlaxoSmithKline
 
@@ -55,4 +55,4 @@ Research Triangle Park, NC 27709
 ©2014, the GSK group of companies.
 All rights reserved.
 
-LMT:11PI
+LMT:12PI

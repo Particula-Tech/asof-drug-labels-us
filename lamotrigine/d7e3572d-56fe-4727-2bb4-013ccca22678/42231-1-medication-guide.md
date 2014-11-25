@@ -113,7 +113,7 @@ When your healthcare provider gives you a prescription for LAMICTAL:
 
 LAMICTAL (lamotrigine) Tablets
 
-| 25 mg, whiteImprinted withLAMICTAL 25 | 100 mg, peachImprinted withLAMICTAL 100 | 150 mg, creamImprinted withLAMICTAL 150 | 200 mg, blueImprinted withLAMICTAL 200 |
+| LAMICTAL (lamotrigine) Tablets 25 mg, whiteImprinted withLAMICTAL 25 | LAMICTAL (lamotrigine) Tablets 100 mg, peachImprinted withLAMICTAL 100 | LAMICTAL (lamotrigine) Tablets 150 mg, creamImprinted withLAMICTAL 150 | LAMICTAL (lamotrigine) Tablets 200 mg, blueImprinted withLAMICTAL 200 |
 | --- | --- | --- | --- |
 
 LAMICTAL (lamotrigine) Chewable Dispersible Tablets
@@ -130,9 +130,9 @@ What is LAMICTAL?
 
 LAMICTAL is a prescription medicine used:
 
-- 1.together with other medicines to treat certain types of seizures (partial seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people 2 years or older.
-- 2.alone when changing from other medicines used to treat partial seizures in people 16 years or older.
-- 3.for the long-term treatment of Bipolar I Disorder to lengthen the time between mood episodes in people 18 years or older who have been treated for mood episodes with other medicine.
+- •together with other medicines to treat certain types of seizures (partial seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people 2 years or older.
+- •alone when changing from other medicines used to treat partial seizures in people 16 years or older.
+- •for the long-term treatment of Bipolar I Disorder to lengthen the time between mood episodes in people 18 years or older who have been treated for mood episodes with other medicine.
 
 It is not known if LAMICTAL is safe or effective in children or teenagers under the age of 18 with mood disorders such as bipolar disorder or depression.
 
@@ -265,7 +265,7 @@ LAMICTAL and LAMICTAL ODT are registered trademarks of the GSK group of companie
 The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
 The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
-Manufactured for
+Distributed by
 
 GlaxoSmithKline
 
@@ -274,6 +274,6 @@ Research Triangle Park, NC 27709
 ©2014, the GSK group of companies.
 All rights reserved.
 
-October 2014
+November 2014
 
-LMT:10MG
+LMT:11MG

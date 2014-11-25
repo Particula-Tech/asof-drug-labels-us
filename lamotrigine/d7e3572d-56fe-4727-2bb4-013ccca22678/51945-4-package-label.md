@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0633-02
 
@@ -9,8 +9,6 @@ LAMICTAL®
 TABLETS
 
 25 mg
-
-Rx only
 
 100 Tablets
 
@@ -24,6 +22,8 @@ See Prescribing Information for dosage information.
 
 Store at 25oC (77oF); excursions 15-30oC (59-86oF) in a dry place.
 
+Do not accept if printed seal under cap is missing or broken.
+
 Dispense in a tight container as defined in the USP.
 
 GlaxoSmithKline
@@ -32,10 +32,12 @@ Research Triangle Park, NC 27709
 
 Made in India
 
-10000000098122 Rev.
-8/11
+Rx only
 
-Principal Display Panel
+10000000128978 Rev.
+10/14
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0642-55
 
@@ -46,8 +48,6 @@ LAMICTAL®
 TABLETS
 
 100 mg
-
-Rx only
 
 100 Tablets
 
@@ -61,6 +61,8 @@ See Prescribing Information for dosage information.
 
 Store at 25oC (77oF); excursions 15-30oC (59-86oF) in a dry place.
 
+Do not accept if printed seal under cap is missing or broken.
+
 Dispense in a tight, light-resistant container as defined in the USP.
 
 GlaxoSmithKline
@@ -69,10 +71,12 @@ Research Triangle Park, NC 27709
 
 Made in India
 
-10000000098123 Rev.
-8/11
+Rx only
 
-Principal Display Panel
+10000000128979 Rev.
+10/14
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0643-60
 
@@ -83,8 +87,6 @@ LAMICTAL®
 TABLETS
 
 150 mg
-
-Rx only
 
 60 Tablets
 
@@ -98,6 +100,8 @@ See Prescribing Information for dosage information.
 
 Store at 25oC (77oF); excursions 15-30oC (59-86oF) in a dry place.
 
+Do not accept if printed seal under cap is missing or broken.
+
 Dispense in a tight, light-resistant container as defined in the USP.
 
 GlaxoSmithKline
@@ -106,10 +110,12 @@ Research Triangle Park, NC 27709
 
 Made in India
 
-10000000098124 Rev.
-8/11
+Rx only
 
-Principal Display Panel
+10000000128980 Rev.
+10/14
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0644-60
 
@@ -120,8 +126,6 @@ LAMICTAL®
 TABLETS
 
 200 mg
-
-Rx only
 
 60 Tablets
 
@@ -135,6 +139,8 @@ See Prescribing Information for dosage information.
 
 Store at 25oC (77oF); excursions 15-30oC (59-86oF) in a dry place.
 
+Do not accept if printed seal under cap is missing or broken.
+
 Dispense in a tight, light-resistant container as defined in the USP.
 
 GlaxoSmithKline
@@ -143,10 +149,12 @@ Research Triangle Park, NC 27709
 
 Made in India
 
-10000000098125 Rev.
-8/11
+Rx only
 
-Principal Display Panel
+10000000128981 Rev.
+10/14
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0633-10
 
@@ -180,14 +188,16 @@ CAUTION: Verify Product Dispensed
 
 Dispense the enclosed Medication Guide to each patient.
 
-GlaxoSmithKline
+Do not use if blisters are torn, broken, or missing.
+
+GSK
 
 Made in India
 
-10000000098322 Rev.
-8/11
+10000000130196 Rev.
+11/14
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0817-28
 
@@ -225,14 +235,16 @@ CAUTION: Verify Product Dispensed
 
 Dispense the enclosed Medication Guide to each patient.
 
-GlaxoSmithKline
+Do not use if blisters are torn, broken, or missing.
+
+GSK
 
 Made in India
 
-10000000098321 Rev.
-8/11
+10000000130195 Rev.
+11/14
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0594-02
 
@@ -270,14 +282,16 @@ CAUTION: Verify Product Dispensed
 
 Dispense the enclosed Medication Guide to each patient.
 
-GlaxoSmithKline
+Do not use if blisters are torn, broken, or missing.
+
+GSK
 
 Made in India
 
-10000000098270 Rev.
-8/11
+10000000130194 Rev.
+11/14
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0699-00
 
@@ -291,8 +305,6 @@ CHEWABLE DISPERSIBLE TABLETS
 
 30 Tablets
 
-Rx only
-
 CAUTION: Verify Product Dispensed
 
 Dispense the accompanying Medication Guide to each patient.
@@ -303,6 +315,8 @@ See Prescribing Information for dosage information.
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) in a dry place.
 
+Do not accept if printed seal under cap is missing or broken.
+
 Dispense in a tight, light-resistant container as defined in the USP.
 
 GlaxoSmithKline
@@ -311,10 +325,12 @@ Research Triangle Park, NC 27709
 
 Made in India
 
-10000000098065 Rev.
-8/11
+Rx only
 
-Principal Display Panel
+10000000128976 Rev.
+10/14
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0526-00
 
@@ -328,8 +344,6 @@ CHEWABLE DISPERSIBLE TABLETS
 
 100 Tablets
 
-Rx only
-
 CAUTION: Verify Product Dispensed
 
 Dispense the accompanying Medication Guide to each patient.
@@ -340,6 +354,8 @@ See Prescribing Information for dosage information.
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) in a dry place.
 
+Do not accept if printed seal under cap is missing or broken.
+
 Dispense in a tight, light-resistant container as defined in the USP.
 
 GlaxoSmithKline
@@ -348,10 +364,12 @@ Research Triangle Park, NC 27709
 
 Made in India
 
-10000000098063 Rev.
-8/11
+Rx only
 
-Principal Display Panel
+10000000128974 Rev.
+10/14
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0527-00
 
@@ -365,8 +383,6 @@ CHEWABLE DISPERSABLE TABLETS
 
 100 Tablets
 
-Rx only
-
 CAUTION: Verify Product Dispensed
 
 Dispense the accompanying Medication Guide to each patient.
@@ -377,6 +393,8 @@ See Prescribing Information for dosage information.
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) in a dry place.
 
+Do not accept if printed seal under cap is missing or broken.
+
 Dispense in a tight, light-resistant container as defined in the USP.
 
 GlaxoSmithKline
@@ -385,10 +403,12 @@ Research Triangle Park, NC 27709
 
 Made in India
 
-10000000098064 Rev.
-8/11
+Rx only
 
-Principal Display Panel
+10000000128975 Rev.
+10/14
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0772-02
 
@@ -421,7 +441,7 @@ Made in India
 10000000091910 Rev.
 3/11
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0774-02
 
@@ -454,7 +474,7 @@ Made in India
 10000000092032 Rev.
 2/11
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0776-02
 
@@ -487,7 +507,7 @@ Made in India
 10000000092031 Rev.
 3/11
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0777-02
 
@@ -520,7 +540,7 @@ Made in India
 10000000091909 Rev.
 2/11
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0779-00
 
@@ -560,7 +580,7 @@ Visit www.LAMICTALODT.com for more information
 
 10000000071820
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0780-00
 
@@ -600,7 +620,7 @@ Visit www.LAMICTALODT.com for more information\
 
 10000000071822
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0778-00
 
