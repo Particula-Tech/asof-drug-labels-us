@@ -79,6 +79,7 @@ Dosage adjustments, which may include changes between dosage regimens (e.g., dai
 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with sertraline.
+
 Conversely, at least 14 days should be allowed after stopping sertraline before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
 
 Use of Sertraline with other MAOIs such as Linezolid or Methylene Blue

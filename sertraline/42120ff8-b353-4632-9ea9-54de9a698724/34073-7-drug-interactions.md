@@ -15,10 +15,6 @@ Cimetidine
 In a study assessing disposition of sertraline (100 mg) on the second of 8 days of cimetidine administration (800 mg daily), there were significant increases in sertraline mean AUC (50%), Cmax (24%) and half-life (26%) compared to the placebo group.
 The clinical significance of these changes is unknown.
 
-Drugs that Prolong the QT Interval
-
-The risk of QTc prolongation and/or ventricular arrhythmias (e.g., TdP) is increased with concomitant use of other drugs which prolong the QTc interval (e.g., some antipsychotics and antibiotics) (see PRECAUTIONS).
-
 CNS Active Drugs
 
 In a study comparing the disposition of intravenously administered diazepam before and after 21 days of dosing with either sertraline (50 to 200 mg/day escalating dose) or placebo, there was a 32% decrease relative to baseline in diazepam clearance for the sertraline group compared to a 19% decrease relative to baseline for the placebo group (p<0.03).
