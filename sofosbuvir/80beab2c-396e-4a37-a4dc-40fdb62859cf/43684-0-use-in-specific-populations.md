@@ -5,9 +5,7 @@
 Pregnancy Category X: Use with Ribavirin or Peginterferon Alfa/Ribavirin
 
 Extreme caution must be taken to avoid pregnancy in female patients and female partners of male patients while taking this combination.
-Women of childbearing potential and their male partners should not receive ribavirin unless they are using two forms of effective contraception during treatment with ribavirin and for 6 months after treatment has concluded.
-There are no data on the effectiveness of systemic hormonal contraceptives in women taking SOVALDI.
-Therefore, two effective non-hormonal methods of contraception should be used during treatment with SOVALDI and concomitant ribavirin [See Warnings and Precautions (5.1)].
+Women of childbearing potential and their male partners should not receive ribavirin unless they are using two forms of effective contraception during treatment with ribavirin and for 6 months after treatment has concluded [See Warnings and Precautions (5.1)].
 
 In case of exposure during pregnancy, a Ribavirin Pregnancy Registry has been established to monitor maternal-fetal outcomes of pregnancies in female patients and female partners of male patients exposed to ribavirin during treatment and for 6 months following cessation of treatment.
 Healthcare providers and patients are encouraged to report such cases by calling Ribavirin Pregnancy Registry at 1-800-593-2214.
@@ -53,7 +51,8 @@ Refer also to ribavirin and peginterferon alfa prescribing information for patie
 
 ## 8.7 Hepatic Impairment
 
-No dose adjustment of SOVALDI is required for patients with mild, moderate or severe hepatic impairment (Child-Pugh Class A, B or C). Safety and efficacy of SOVALDI have not been established in patients with decompensated cirrhosis [See Clinical Pharmacology (12.3)].
+No dose adjustment of SOVALDI is required for patients with mild, moderate or severe hepatic impairment (Child-Pugh Class A, B or C) [See Clinical Pharmacology (12.3)].
+Safety and efficacy of SOVALDI have not been established in patients with decompensated cirrhosis.
 See peginterferon alfa prescribing information for contraindication in hepatic decompensation.
 
 ## 8.8 Patients with HCV/HIV-1 Co-infection

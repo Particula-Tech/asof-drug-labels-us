@@ -8,9 +8,11 @@ Use with Ribavirin and/or Peginterferon alfa: Ribavirin was shown to be genotoxi
 Ribavirin was not oncogenic in a 6-month p53+/- transgenic mouse study or a 2-year carcinogenicity study in rats.
 See the prescribing information for ribavirin.
 
-Carcinogenicity studies of sofosbuvir in mice and rats are ongoing.
-
 Sofosbuvir was not genotoxic in a battery of in vitro or in vivo assays, including bacterial mutagenicity, chromosome aberration using human peripheral blood lymphocytes and in vivo mouse micronucleus assays.
+
+Two-year carcinogenicity studies in mice and rats were conducted with sofosbuvir.
+Mice were administered doses of up to 200 mg/kg/day in males and 600 mg/kg/day in females, while rats were administered doses of up to 750 mg/kg/day in males and females.
+No increase in the incidence of drug-related neoplasms were observed at the highest doses tested in mice and rats, resulting in AUC exposure to the predominant circulating metabolite GS-331007 of approximately 7- and 30-fold (in mice) and 13- and 17-fold (in rats), in males and females respectively, the exposure in humans at the recommended clinical dose.
 
 Impairment of Fertility
 

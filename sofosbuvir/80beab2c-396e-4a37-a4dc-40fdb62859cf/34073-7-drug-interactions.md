@@ -29,4 +29,4 @@ Table 5 Potentially Significant Drug Interactions: Alteration in Dose or Regimen
 
 ## 7.3 Drugs without Clinically Significant Interactions with SOVALDI
 
-In addition to the drugs included in Table 5, the interaction between SOVALDI and the following drugs was evaluated in clinical trials and no dose adjustment is needed for either drug [See Clinical Pharmacology (12.3)]: cyclosporine, darunavir/ritonavir, efavirenz, emtricitabine, methadone, raltegravir, rilpivirine, tacrolimus, or tenofovir disoproxil fumarate.
+In addition to the drugs included in Table 5, the interaction between SOVALDI and the following drugs was evaluated in clinical trials and no dose adjustment is needed for either drug [See Clinical Pharmacology (12.3)]: cyclosporine, darunavir/ritonavir, efavirenz, emtricitabine, methadone, oral contraceptives, raltegravir, rilpivirine, tacrolimus, or tenofovir disoproxil fumarate.

@@ -8,7 +8,7 @@ Ribavirin therapy should not be started unless a report of a negative pregnancy 
 
 When SOVALDI is used in combination with ribavirin or peginterferon alfa/ribavirin, women of childbearing potential and their male partners must use two forms of effective contraception during treatment and for at least 6 months after treatment has concluded.
 Routine monthly pregnancy tests must be performed during this time.
-There are no data on the effectiveness of systemic hormonal contraceptives in women taking SOVALDI, therefore, two non-hormonal methods of contraception should be used during treatment with SOVALDI and concomitant ribavirin [See Contraindications (4) and Use in Specific Populations (8.1)].
+[See Contraindications (4) and Use in Specific Populations (8.1)].
 Refer also to the prescribing information for ribavirin.
 
 ## 5.2 Use with Potent P-gp Inducers

@@ -71,11 +71,11 @@ Keep a list of your medicines and show it to your healthcare provider and pharma
 
 How should I take SOVALDI?
 
+- Take 1 tablet of SOVALDI 1 time each day only, with or without food.
 - Take SOVALDI exactly as your healthcare provider tells you to take it.
   Do not change your dose unless your healthcare provider tells you to.
 - Do not stop taking SOVALDI without first talking with your healthcare provider.
   If you think there is a reason to stop taking SOVALDI, talk to your healthcare provider before doing so.
-- Take SOVALDI 1 time each day with or without food.
 - If you miss a dose of SOVALDI, take the missed dose as soon as you remember the same day.
   Do not take more than 1 tablet (400 mg) of SOVALDI in a day.
   Take your next dose of SOVALDI at your regular time the next day.

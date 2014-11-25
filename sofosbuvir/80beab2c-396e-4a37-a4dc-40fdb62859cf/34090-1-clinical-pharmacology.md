@@ -17,8 +17,8 @@ Absorption
 
 The pharmacokinetic properties of sofosbuvir and the predominant circulating metabolite GS-331007 have been evaluated in healthy adult subjects and in subjects with chronic hepatitis C. Following oral administration of SOVALDI, sofosbuvir was absorbed with a peak plasma concentration observed at ~0.5–2 hour post-dose, regardless of dose level.
 Peak plasma concentration of GS-331007 was observed between 2 to 4 hours post-dose.
-Based on population pharmacokinetic analysis in subjects with genotype 1 to 6 HCV infection who were coadministered ribavirin (with or without pegylated interferon), geometric mean steady state sofosbuvir (N=838) and GS-331007 (N=1695) AUC0–24 were 828 ng∙hr/mL and 6790 ng∙hr/mL, respectively.
-Relative to healthy subjects administered sofosbuvir alone (N = 272), the sofosbuvir AUC0–24 was 39% higher and GS-331007 AUC0–24 was 39% lower, respectively, in HCV-infected subjects.
+Based on population pharmacokinetic analysis in subjects with genotype 1 to 6 HCV infection who were coadministered ribavirin (with or without pegylated interferon), geometric mean steady state AUC0-24 was 969 ng∙hr/mL for sofosbuvir (N=838), and 6790 ng∙hr/mL for GS-331007 (N=1695), respectively.
+Relative to healthy subjects administered sofosbuvir alone (N = 272), the sofosbuvir AUC0–24 was 60% higher; and GS-331007 AUC0–24 was 39% lower, respectively, in HCV-infected subjects.
 Sofosbuvir and GS-331007 AUCs are near dose proportional over the dose range of 200 mg to 1200 mg.
 
 Effect of Food
@@ -113,13 +113,16 @@ Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Coadministered drug PK With/Without Coadministered Drug No Effect=1.00 |  |  |
-| Tenofovir disoproxil fumarateAdministered as ATRIPLA | 300 once daily | 400 single dose | 16 | 1.25 (1.08, 1.45) | 0.98 (0.91, 1.05) | 0.99 (0.91, 1.07) |
-| Raltegravir | 400 once daily | 400 single dose | 19 | 0.57 (0.44, 0.75) | 0.73 (0.59, 0.91) | 0.95 (0.81, 1.12) |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir No Effect=1.00 |  |  |
+| Norelgestromin | norgestimate 0.18/0.215/0.25/ ethinyl estradiol 0.025 once daily | 400 once daily | 15 | 1.07 (0.94, 1.22) | 1.06 (0.92, 1.21) | 1.07 (0.89, 1.28) |
+| Norgestrel | 1.18 (0.99, 1.41) | 1.19 (0.98, 1.45) | 1.23 (1.00, 1.51) |  |  |  |
+| Ethinyl estradiol | 1.15 (0.97, 1.36) | 1.09 (0.94, 1.26) | 0.99 (0.80, 1.23) |  |  |  |
+| Raltegravir | 400 twice daily | 400 single dose | 19 | 0.57 (0.44, 0.75) | 0.73 (0.59, 0.91) | 0.95 (0.81, 1.12) |
 | Tacrolimus | 5 single dose | 400 single dose | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |
+| Tenofovir disoproxil fumarateAdministered as ATRIPLA | 300 once daily | 400 single dose | 16 | 1.25 (1.08, 1.45) | 0.98 (0.91, 1.05) | 0.99 (0.91, 1.07) |
 | NA = not available/not applicable |  |  |  |  |  |  |
 
-No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with sofosbuvir: cyclosporine, darunavir/ritonavir, efavirenz, emtricitabine, methadone or rilpivirine.
+No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with sofosbuvir: cyclosporine, darunavir/ritonavir, efavirenz, emtricitabine, methadone, or rilpivirine.
 
 ## 12.4 Microbiology
 
