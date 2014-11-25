@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050819"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-3050-35",
+    "0187-3050-50"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate and benzoyl peroxide",
+      "name": "ONEXTON"
+    }
+  ],
+  "setid": "697e760a-c206-4565-8f4e-a8085e215827",
+  "source": "dailymed"
+}
