@@ -5,22 +5,22 @@
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 TOBI Podhaler has been evaluated for safety in 425 cystic fibrosis patients exposed to at least one dose of TOBI Podhaler, including 273 patients who were exposed across three cycles (6 months) of treatment.
-Each cycle consisted of 28 days on-treatment (with 112 mg administered twice daily) and 28 days off-treatment.
-Patients with serum creatinine ≥ 2 mg/dL and blood urea nitrogen (BUN) ≥ 40 mg/dL were excluded from clinical studies.
+Each cycle consisted of 28 days on-treatment (with 112 mg administered twice-daily) and 28 days off-treatment.
+Patients with serum creatinine ≥2 mg/dL and blood urea nitrogen (BUN) ≥40 mg/dL were excluded from clinical studies.
 There were 218 males and 207 females in this population, and reflecting the cystic fibrosis population in the U.S., the vast majority of patients were Caucasian.
-There were 221 patients ≥ 20 years old, 121 patients ≥ 13 to < 20 years old, and 83 patients ≥ 6 to < 13 years old.
-There were 239 patients with screening FEV1 % predicted ≥ 50%, 156 patients with screening FEV1 % predicted < 50%, and 30 patients with missing FEV1 % predicted.
+There were 221 patients ≥20 years old, 121 patients ≥13 to <20 years old, and 83 patients ≥6 to <13 years old.
+There were 239 patients with screening FEV1 % predicted ≥50%, 156 patients with screening FEV1 % predicted <50%, and 30 patients with missing FEV1 % predicted.
 
 The primary safety population reflects patients from Study 1, an open-label study comparing TOBI Podhaler with TOBI (tobramycin inhalation solution, USP) over three cycles of 4 weeks on treatment followed by 4 weeks off treatment.
 Randomization, in a planned 3:2 ratio, resulted in 308 patients treated with TOBI Podhaler and 209 patients treated with TOBI.
-For both the TOBI Podhaler and TOBI groups, mean exposure to medication for each cycle was 28-29 days.
+For both the TOBI Podhaler and TOBI groups, mean exposure to medication for each cycle was 28 to 29 days.
 The mean age for both arms was between 25 and 26 years old.
 The mean baseline FEV1 % predicted for both arms was 53%.
 
 Table 1 displays adverse drug reactions reported by at least 2% of TOBI Podhaler patients in Study 1, inclusive of all cycles (on and off treatment).
 Adverse drug reactions are listed according to MedDRA system organ class and sorted within system organ class group in descending order of frequency.
 
-Table 1: Adverse reactions reported in Study 1 (occurring in ≥2% of TOBI Podhaler patients)
+Table 1: Adverse Reactions Reported in Study 1 (Occurring in ≥2% of TOBI Podhaler Patients)
 
 | Primary System Organ Class Preferred Term | TOBI Podhaler N=308 % | TOBI N=209 % |
 | --- | --- | --- |
@@ -62,12 +62,12 @@ Table 1: Adverse reactions reported in Study 1 (occurring in ≥2% of TOBI Podha
 
 Adverse drug reactions that occurred in <2% of patients treated with TOBI Podhaler in Study 1 were: bronchospasm (TOBI Podhaler 1.6%, TOBI 0.5%); deafness including deafness unilateral (reported as mild to moderate hearing loss or increased hearing loss) (TOBI Podhaler 1.0%, TOBI 0.5%); and tinnitus (TOBI Podhaler 1.9%, TOBI 2.4%).
 
-Discontinuations in Study 1 were higher in the TOBI Podhaler arm compared to TOBI (27% TOBI Podhaler vs 18% TOBI).
-This was driven primarily by discontinuations due to adverse events (14% TOBI Podhaler vs 8% TOBI).
-Higher rates of discontinuation were seen in subjects ≥ 20 years old and those with baseline FEV1 % predicted < 50%.
+Discontinuations in Study 1 were higher in the TOBI Podhaler arm compared to TOBI (27% TOBI Podhaler versus 18% TOBI).
+This was driven primarily by discontinuations due to adverse events (14% TOBI Podhaler versus 8% TOBI).
+Higher rates of discontinuation were seen in subjects ≥20 years old and those with baseline FEV1 % predicted <50%.
 
 Respiratory related hospitalizations occurred in 24% of the patients in the TOBI Podhaler arm and 22% of the patients in the TOBI arm.
-There was an increased new usage of antipseudomonal medication in the TOBI Podhaler arm (65% TOBI Podhaler vs 55% TOBI).
+There was an increased new usage of antipseudomonal medication in the TOBI Podhaler arm (65% TOBI Podhaler versus 55% TOBI).
 This included oral antibiotics in 55% of TOBI Podhaler patients and 40% of TOBI patients and intravenous antibiotics in 35% of TOBI Podhaler patients and 33% of TOBI patients.
 Median time to first antipseudomonal usage was 89 days in the TOBI Podhaler arm and 112 days in the TOBI arm.
 
@@ -95,21 +95,21 @@ Ear and labyrinth disorders
 
 Hypoacusis (TOBI Podhaler 10%, placebo 6.3%)
 
-Audiometric assessment
+Audiometric Assessment
 
 In Study 1, audiology testing was performed in a subset of approximately 25% of TOBI Podhaler (n=78) and TOBI (n=45) patients.
-Using the criteria for either ear of ≥ 10 dB loss at two consecutive frequencies, ≥ 20 dB loss at any frequency, or loss of response at three consecutive frequencies where responses were previously obtained, five TOBI Podhaler patients and three TOBI patients were judged to have ototoxicity, a ratio similar to the planned 3:2 randomization for this study.
+Using the criteria for either ear of ≥10 dB loss at two consecutive frequencies, ≥20 dB loss at any frequency, or loss of response at three consecutive frequencies where responses were previously obtained, five TOBI Podhaler patients and three TOBI patients were judged to have ototoxicity, a ratio similar to the planned 3:2 randomization for this study.
 
 Audiology testing was also performed in a subset of patients in both Study 2 (n=13 from the TOBI Podhaler group and n=9 from the placebo group) and Study 3 (n=14 from the TOBI Podhaler group and n=11 from the placebo group).
 In Study 2, no patients reported hearing complaints but two TOBI Podhaler patients met the criteria for ototoxicity.
-In Study 3, three TOBI Podhaler and two placebo patients had reports of ‘hypoacusis’.
+In Study 3, three TOBI Podhaler and two placebo patients had reports of ‘hypoacusis.’
 One TOBI Podhaler and two placebo patients met the criteria for ototoxicity.
 In some patients, ototoxicity was transient or may have been related to a conductive defect.
 
 Cough
 
 Cough is a common symptom in cystic fibrosis, reported in 42% of the patients in Study 1 at baseline.
-Cough was the most frequently reported adverse event in Study 1 and was more common in the TOBI Podhaler arm (48% TOBI Podhaler vs 31 % TOBI).
+Cough was the most frequently reported adverse event in Study 1 and was more common in the TOBI Podhaler arm (48% TOBI Podhaler versus 31 % TOBI).
 There was a higher rate of cough adverse event reporting during the first week of active treatment with TOBI Podhaler (i.e., the first week of Cycle 1).
 The time to first cough event in the TOBI Podhaler and TOBI groups were similar thereafter.
 In some patients, cough resulted in discontinuation of TOBI Podhaler treatment.
@@ -121,7 +121,7 @@ In Study 2, cough was the most commonly reported adverse event during the first 
 Similar percentages of patients in both treatment groups reported cough as a baseline symptom.
 In Study 3, cough events were reported by three patients in the TOBI Podhaler group (10%) and none in the placebo group (0%).
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reaction has been identified during postapproval use of TOBI Podhaler.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -6,6 +6,8 @@ Follow the instructions below for using your TOBI Podhaler.
 You will breathe in (inhale) the medicine in the TOBI Podhaler capsules using the Podhaler device.
 If you have any questions, ask your healthcare provider or pharmacist.
 
+TOBI Podhaler is available as a 28-day, 7-day, and 1-day supply package.
+
 Each TOBI Podhaler package contains (See Figure A):
 
 - 4 weekly packs (28-day supply), each containing:
@@ -13,6 +15,20 @@ Each TOBI Podhaler package contains (See Figure A):
     Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
   - 1 Podhaler device and its storage case
 - 1 reserve Podhaler device (to be used if needed) and its storage case
+
+Or:
+
+- A 7 day pack (7-day supply) containing:
+  - 56 capsules (7 blister cards of 8 capsules).
+    Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
+  - 1 Podhaler device and its storage case
+
+Or:
+
+- A 1 day pack (1-day supply) containing:
+  - 8 capsules (1 blister card of 8 capsules).
+    Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
+  - 1 Podhaler device and its storage case
 
 Please note the following:
 
@@ -123,4 +139,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, NJ 07936
 
 © Novartis
 
-T2013-22 March 2013
+T2014-108 November 2014

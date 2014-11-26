@@ -17,7 +17,7 @@ Dosage is not adjusted by weight.
 Each dose of four capsules should be taken as close to 12 hours apart as possible; each dose should not be taken less than 6 hours apart.
 
 TOBI Podhaler is administered twice-daily in alternating periods of 28 days.
-After 28 days of therapy, patients should stop TOBI Podhaler therapy for the next 28 days, and then resume therapy for the next 28 day on and 28 day off cycle.
+After 28 days of therapy, patients should stop TOBI Podhaler therapy for the next 28 days, and then resume therapy for the next 28-day on and 28-day off cycle.
 
 TOBI Podhaler capsules should always be stored in the blister and each capsule should only be removed IMMEDIATELY BEFORE USE.
 

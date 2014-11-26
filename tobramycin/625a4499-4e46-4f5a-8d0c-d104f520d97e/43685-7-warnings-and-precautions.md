@@ -36,9 +36,9 @@ If a patient reports tinnitus or hearing loss during TOBI Podhaler therapy, the 
 
 Serum Concentrations
 
-In patients treated with TOBI Podhaler, serum tobramycin concentrations are approximately 1 to 2 µg/mL one hour after dose administration and do not require routine monitoring.
+In patients treated with TOBI Podhaler, serum tobramycin concentrations are approximately 1 to 2 mcg/mL one hour after dose administration and do not require routine monitoring.
 Serum concentrations of tobramycin in patients with known or suspected auditory or renal dysfunction or patients treated with a concomitant parenteral aminoglycoside (or other nephrotoxic or ototoxic medications) should be monitored at the discretion of the treating physician.
-If ototoxicity or nephrotoxicity occurs in a patient receiving TOBI Podhaler, tobramycin therapy should be discontinued until serum concentrations fall below 2 µg/mL.
+If ototoxicity or nephrotoxicity occurs in a patient receiving TOBI Podhaler, tobramycin therapy should be discontinued until serum concentrations fall below 2 mcg/mL.
 
 The serum concentration of tobramycin should only be monitored through venipuncture and not finger prick blood sampling.
 Contamination of the skin of the fingers with tobramycin may lead to falsely increased measurements of serum levels of the drug.

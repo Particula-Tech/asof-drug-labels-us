@@ -14,9 +14,9 @@ Consistent with the population of cystic fibrosis patients, the most frequently 
 
 Study 2
 
-Study 2 was a randomized, three-cycle, two-arm trial.
+Study 2 was a randomized, 3-cycle, 2-arm trial.
 Each cycle comprised of 28 days on treatment followed by 28 days off treatment.
-The first cycle was double-blind, placebo-controlled with eligible patients randomized 1:1 to TOBI Podhaler (4 x 28 mg capsules twice daily) or placebo.
+The first cycle was double-blind, placebo-controlled with eligible patients randomized 1:1 to TOBI Podhaler (4 times 28 mg capsules twice-daily) or placebo.
 Upon completion of the first cycle, patients who were randomized to the placebo treatment group received TOBI Podhaler for Cycles 2 and 3.
 The total treatment period was 24 weeks.
 
@@ -41,12 +41,12 @@ Error bars represent the mean relative change (95% CI)
 Study 3
 
 Study 3 was a randomized, double-blind, placebo-controlled trial, similar in design to Study 2.
-Eligible patients were randomized 1:1 to receive TOBI Podhaler (4 x 28 mg capsules twice daily) or placebo for one cycle (28 days on-treatment and 28 days off-treatment).
+Eligible patients were randomized 1:1 to receive TOBI Podhaler (4 times 28 mg capsules twice-daily) or placebo for one cycle (28 days on-treatment and 28 days off-treatment).
 
 A total of 62 patients were randomized into Study 3 and allocated to TOBI Podhaler (n=32) or placebo (n=30).
 All patients were less than 22 years of age (mean age 12.9 years) and had not received inhaled antipseudomonal antibiotics within 4 months prior to screening; 64.5% were female and 98.4% were Caucasian.
 
-In this study, the results were not statistically significant for the primary lung function endpoint when adjusting for the covariates of age (<13 years, ≥13 years) and FEV1 % predicted at screening (< 50%, ≥ 50%) and imputing for missing data.
+In this study, the results were not statistically significant for the primary lung function endpoint when adjusting for the covariates of age (<13 years, ≥13 years) and FEV1 % predicted at screening (<50%, ≥50%) and imputing for missing data.
 Improvement in lung function for TOBI Podhaler compared with placebo was evaluated using the relative change in FEV1 % predicted from baseline to the end of Cycle 1 dosing.
 Treatment with TOBI Podhaler (8.19%) compared to placebo (2.27%) failed to achieve statistical significance in relative change in FEV1 % predicted (LS mean difference = 5.91%; 95% CI: -2.54, 14.37; p=0.167).
 Analyses of absolute changes in FEV1 % predicted showed LS means of 4.86% for TOBI Podhaler and 0.48% for placebo with a difference of 4.38% (95% CI:-0.17, 8.94).
@@ -54,10 +54,10 @@ Analyses of absolute changes in FEV1 % predicted showed LS means of 4.86% for TO
 Study 1
 
 Study 1 was a randomized, open-label, active-controlled parallel arm trial.
-Eligible patients were randomized 3:2 to TOBI Podhaler (4 x 28 mg capsules twice daily) or TOBI (300 mg/5 mL twice daily).
+Eligible patients were randomized 3:2 to TOBI Podhaler (4 times 28 mg capsules twice-daily) or TOBI (300 mg/5 mL twice-daily).
 Treatment was administered for 28 days, followed by 28 days off therapy (one cycle) for three cycles.
 The total treatment period was 24 weeks.
-The time to administer a dose of TOBI Podhaler (10th to 90th percentiles) ranged from 2-7 minutes at the end of the dosing period for Cycle 1, and 2-6 minutes at the end of the dosing period for Cycle 3.
+The time to administer a dose of TOBI Podhaler (10th to 90th percentiles) ranged from 2 to 7 minutes at the end of the dosing period for Cycle 1, and 2 to 6 minutes at the end of the dosing period for Cycle 3.
 
 A total of 517 patients were randomized in Study 1 and received TOBI Podhaler (n=308) or TOBI (n=209).
 Patients were predominantly 20 years of age or older (mean age 25.6 years) with no inhaled antipseudomonal antibiotic use within 28 days prior to study drug administration; 45% were female and 91% were Caucasian.

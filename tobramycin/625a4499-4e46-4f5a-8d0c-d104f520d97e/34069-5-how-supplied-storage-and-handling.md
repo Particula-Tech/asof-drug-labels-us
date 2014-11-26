@@ -7,19 +7,15 @@ TOBI Podhaler contains aluminum blister-packaged 28 mg TOBI Podhaler (tobramycin
 Each Podhaler device consists of the inhaler body, mouthpiece, capsule chamber and blue push button.
 The Podhaler device is provided in a case that protects the device during shipment, storage and its one week in-use period.
 
-Unit Dose (blister pack), Box of 224 capsules contains: NDC 0078-0630-35
+Unit Dose (blister pack), Box of 224 capsules contains: NDC 0078-0630-35 4 weekly packs, each containing: 56 capsules (7 blister cards of 8 capsules) 1 Podhaler device 1 reserve Podhaler device
 
-4 weekly packs, each containing:
+Unit dose (blister pack), Box of 56 capsules (7-day pack) contains: NDC 0078-0630-20 56 capsules (7 blister cards of 8 capsules) 1 Podhaler device
 
-56 capsules (7 blister cards of 8 capsules)
+Unit dose (blister pack), Box of 8 capsules (1-day pack) contains: NDC 0078-0630-19 8 capsules (1 blister card of 8 capsules) 1 Podhaler device
 
-1 Podhaler device
+## 16.2 Storage and Handling
 
-1 reserve Podhaler device
-
-## 16.2 Information for Patients
-
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F)
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F)
 
 Protect TOBI Podhaler from moisture.
 

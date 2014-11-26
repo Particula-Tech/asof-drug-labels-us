@@ -80,6 +80,10 @@ How should I use TOBI Podhaler?
   Complete the full 28 day course even if you are feeling better.
   It is important that you keep to the 28-day on, 28-day off cycle (See Figure A).
 
+- If you have been prescribed a 7-day pack of TOBI Podhaler either immediately before or during a 28-day treatment with TOBI Podhaler, then you must count each day of use toward the 28-day on-treatment part of the cycle.
+  You should only take a total of 28 consecutive days of treatment during a cycle.
+- If you have been prescribed a 1-day pack of TOBI Podhaler either immediately before or during a 28-day treatment with TOBI Podhaler, then you must count each day of use toward the 28-day on-treatment part of the cycle.
+  You should only take a total of 28 consecutive days of treatment during a cycle.
 - If you are taking several different medicines inhaled through your mouth, your healthcare provider will tell you how to take your medicines the right way.
 - If you are doing therapies for cystic fibrosis (chest physiotherapy), you should take TOBI Podhaler after your therapies are done.
 - If you inhale too much TOBI Podhaler, tell your healthcare provider right away.
@@ -131,7 +135,7 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-General information about the safe and effective use of TOBI Podhaler
+General information about the safe and effective use of TOBI Podhaler.
 
 Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
 Do not use TOBI Podhaler for a condition for which it was not prescribed.
@@ -157,4 +161,4 @@ Some people do not get this infection until later in their lives, while others g
 It is one of the most damaging bacteria for people with cystic fibrosis.
 If the infection is not properly managed, it will continue to damage your lungs causing further problems to your breathing.
 
-T2013-91 November 2013
+T2014-107 November 2014

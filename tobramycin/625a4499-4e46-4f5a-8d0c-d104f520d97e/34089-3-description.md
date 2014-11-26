@@ -16,5 +16,5 @@ Tobramycin is freely soluble in water, very slightly soluble in ethanol, and pra
 The Podhaler device is a plastic device used to inhale the dry powder contained in the TOBI Podhaler capsule.
 Under standardized in vitro testing at a fixed flow rate of 60 L/min and volume of 2 L for 2 seconds, the Podhaler device has a target delivered dose of 102 mg of tobramycin from the mouthpiece (4 capsules per dose).
 Peak inspiratory flow rate and inhaled volumes were explored in 96 cystic fibrosis patients aged 6 years and older.
-Older patients with significant disease progression and associated decreases in forced expiratory volume (FEV1) and younger patients with inhaled volumes < 1 L were able to generate inspiratory flow rates and volumes required to receive their medication when following the instructions for use.
+Older patients with significant disease progression and associated decreases in forced expiratory volume (FEV1) and younger patients with inhaled volumes <1 L were able to generate inspiratory flow rates and volumes required to receive their medication when following the instructions for use.
 However, no pediatric patients aged 6 to 10 years with FEV1 less than 40% predicted were evaluated.

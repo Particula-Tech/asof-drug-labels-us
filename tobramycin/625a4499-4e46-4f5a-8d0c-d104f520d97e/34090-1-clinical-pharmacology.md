@@ -12,22 +12,22 @@ TOBI Podhaler contains tobramycin, a cationic polar molecule that does not readi
 TOBI Podhaler is specifically formulated for administration by oral inhalation.
 The systemic exposure to tobramycin after inhalation of TOBI Podhaler is expected to result from pulmonary absorption of the dose fraction delivered to the lungs as tobramycin and is not absorbed to any appreciable extent when administered via the oral route.
 
-Serum concentrations
+Serum Concentrations
 
-After inhalation of a 112 mg single dose (4 x 28 mg capsules) of TOBI Podhaler in cystic fibrosis patients, the maximum serum concentration (Cmax) of tobramycin was 1.02 ± 0.53 µg/mL (mean ± SD) and the median time to reach the peak concentration (Tmax) was 1 hour.
-In comparison, after inhalation of a single 300 mg dose of TOBI, Cmax was 1.04 ± 0.58 µg/mL and median Tmax was 1 hour.
-The extent of systemic exposure (AUC0-12) was also similar: 4.6 ± 2.0 µg∙h/mL following the 112 mg TOBI Podhaler dose and 4.8 ± 2.5 µg∙h/mL following the 300 mg TOBI dose.
-At the end of a 4-week dosing cycle of TOBI Podhaler (112 mg twice daily), the maximum serum concentration of tobramycin 1 hour after dosing ranged from 1.48 ± 0.69 µg/mL to 1.99 ± 0.59 µg/mL (mean ± SD).
+After inhalation of a 112 mg single dose (4 times 28 mg capsules) of TOBI Podhaler in cystic fibrosis patients, the maximum serum concentration (Cmax) of tobramycin was 1.02 ± 0.53 mcg/mL (mean ± SD) and the median time to reach the peak concentration (Tmax) was 1 hour.
+In comparison, after inhalation of a single 300 mg dose of TOBI, Cmax was 1.04 ± 0.58 mcg/mL and median Tmax was 1 hour.
+The extent of systemic exposure (AUC0-12) was also similar: 4.6 ± 2.0 mcg∙h/mL following the 112 mg TOBI Podhaler dose and 4.8 ± 2.5 mcg∙h/mL following the 300 mg TOBI dose.
+At the end of a 4-week dosing cycle of TOBI Podhaler (112 mg twice-daily), the maximum serum concentration of tobramycin 1 hour after dosing ranged from 1.48 ± 0.69 mcg/mL to 1.99 ± 0.59 mcg/mL (mean ± SD).
 
-Sputum concentrations
+Sputum Concentrations
 
-After inhalation of a 112 mg single dose (4 x 28 mg capsules) of TOBI Podhaler in cystic fibrosis patients, sputum Cmax of tobramycin was 1048 ± 1080 µg/g (mean ± SD).
-In comparison, after inhalation of a single 300 mg dose of TOBI, sputum Cmax was 737 ± 1028 µg/g.
+After inhalation of a 112 mg single dose (4 times 28 mg capsules) of TOBI Podhaler in cystic fibrosis patients, sputum Cmax of tobramycin was 1048 ± 1080 mcg/g (mean ± SD).
+In comparison, after inhalation of a single 300 mg dose of TOBI, sputum Cmax was 737 ± 1028 mcg/g.
 The variability in pharmacokinetic parameters was higher in sputum as compared to serum.
 
 Distribution
 
-A population pharmacokinetic analysis for TOBI Podhaler in cystic fibrosis patients estimated the apparent volume of distribution of tobramycin in the central compartment to be 85.1 L for a typical CF patient.
+A population pharmacokinetic analysis for TOBI Podhaler in cystic fibrosis patients estimated the apparent volume of distribution of tobramycin in the central compartment to be 85.1 L for a typical cystic fibrosis (CF) patient.
 
 Binding of tobramycin to serum proteins is negligible.
 
@@ -58,8 +58,7 @@ It is bactericidal in vitro at peak concentrations equal to or slightly greater 
 Susceptibility Testing
 
 Interpretive criteria for inhaled antibacterial products are not defined.
-The in vitro antimicrobial susceptibility test methods used to determine the susceptibility for parenteral tobramycin therapy can be used to monitor the susceptibility of P. aeruginosa isolated from cystic fibrosis patients (1, 2, 3).
-The relationship between in vitro susceptibility test results and clinical outcome with TOBI Podhaler therapy is not clear.
+The in vitro antimicrobial susceptibility test methods used to determine the susceptibility for parenteral tobramycin therapy can be used to monitor the susceptibility of P. aeruginosa isolated from cystic fibrosis patients.(1, 2, 3) The relationship between in vitro susceptibility test results and clinical outcome with TOBI Podhaler therapy is not clear.
 A single sputum sample from a cystic fibrosis patient may contain multiple morphotypes of P. aeruginosa and each morphotype may require a different concentration of tobramycin to inhibit its growth in vitro.
 Patients should be monitored for changes in tobramycin susceptibility.
 

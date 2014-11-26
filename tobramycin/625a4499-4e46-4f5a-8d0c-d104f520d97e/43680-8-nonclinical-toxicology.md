@@ -3,9 +3,9 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenicity studies were not conducted with TOBI Podhaler.
-A two-year rat inhalation toxicology study to assess carcinogenic potential of TOBI (tobramycin inhalation solution, USP) has been completed.
+A 2-year rat inhalation toxicology study to assess carcinogenic potential of TOBI (tobramycin inhalation solution, USP) has been completed.
 Rats were exposed to TOBI for up to 1.5 hours per day for 95 weeks.
-Serum levels of tobramycin of up to 35 µg/mL were measured in rats, in contrast to the maximum 1.99 ± 0.59 µg/mL level observed in cystic fibrosis patients in TOBI Podhaler clinical trials.
+Serum levels of tobramycin of up to 35 mcg/mL were measured in rats, in contrast to the maximum 1.99 ± 0.59 mcg/mL level observed in cystic fibrosis patients in TOBI Podhaler clinical trials.
 There was no drug-related increase in the incidence of any variety of tumor.
 
 Additionally, tobramycin has been evaluated for genotoxicity in a battery of in vitro and in vivo tests.
