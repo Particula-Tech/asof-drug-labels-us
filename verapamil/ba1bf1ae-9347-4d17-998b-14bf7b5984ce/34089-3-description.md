@@ -2,7 +2,7 @@
 
 Verapamil hydrochloride extended-release tablets USP are calcium ion influx inhibitor (slow channel blocker or calcium ion antagonist).
 Verapamil hydrochloride extended-release tablets USP are available for oral administration as brown colored, oval, biconvex, film-coated tablets containing 120 mg verapamil hydrochloride USP, as brown colored, oval, biconvex, film-coated tablets containing 180 mg verapamil hydrochloride USP, and as brown colored, oval, biconvex, film-coated tablets containing 240 mg verapamil hydrochloride USP.
-The tablets are designed for sustained-release of the drug in the gastrointestinal tract, sustained-release characteristics are not altered when the tablet is divided in half.
+The tablets are designed for sustained release of the drug in the gastrointestinal tract; sustained-release characteristics are not altered when the tablet is divided in half.
 
 The structural formula of verapamil HCl USP is given below:
 
