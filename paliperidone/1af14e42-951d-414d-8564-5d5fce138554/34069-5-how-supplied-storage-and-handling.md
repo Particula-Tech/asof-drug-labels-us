@@ -16,5 +16,3 @@ The kit contains a prefilled syringe and 2 safety needles (a 1 ½-inch 22 gauge 
 Storage and Handling
 
 Store at room temperature (25°C, 77°F); excursions between 15°C and 30°C (between 59°F and 86°F) are permitted.
-
-Keep out of reach of children.

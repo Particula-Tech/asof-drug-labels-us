@@ -39,10 +39,6 @@ Approximately 80% of the administered radioactivity was recovered in urine and 1
 Four metabolic pathways have been identified in vivo, none of which accounted for more than 10% of the dose: dealkylation, hydroxylation, dehydrogenation, and benzisoxazole scission.
 Although in vitro studies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, there is no evidence in vivo that these isozymes play a significant role in the metabolism of paliperidone.
 Population pharmacokinetics analyses indicated no discernible difference on the apparent clearance of paliperidone after administration of oral paliperidone between extensive metabolizers and poor metabolizers of CYP2D6 substrates.
-In vitro studies in human liver microsomes showed that paliperidone does not substantially inhibit the metabolism of medicines metabolized by cytochrome P450 isozymes, including CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, CYP2E1, CYP3A4, and CYP3A5.
-
-In vitro studies have shown that paliperidone is a P-gp substrate and a weak inhibitor of P-gp at high concentrations.
-No in vivo data are available and the clinical relevance is unknown.
 
 The median apparent half-life of paliperidone following INVEGA® SUSTENNA® single-dose administration over the dose range of 39 mg – 234 mg ranged from 25 days – 49 days.
 
@@ -75,7 +71,7 @@ Potential for Other Drugs to Affect INVEGA® SUSTENNA®
 While in vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, in vivo studies did not demonstrate decreased elimination by these isozymes; they contribute to only a small fraction of total body clearance.
 In vitro studies demonstrated that paliperidone is a P-gp substrate [see Drug Interactions (7.2)].
 
-Co-administration of oral paliperidone extended-release 6 mg once daily with carbamazepine, a strong inducer of both CYP3A4 and P-gp. at 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
+Co-administration of oral paliperidone extended-release 6 mg once daily with carbamazepine, a strong inducer of both CYP3A4 and P-gp, at 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
 This decrease is caused, to a substantial degree, by a 35% increase in renal clearance of paliperidone.
 A minor decrease in the amount of drug excreted unchanged in the urine suggests that there was little effect on the CYP metabolism or bioavailability of paliperidone during carbamazepine co-administration [see Drug Interactions (7.2)].
 
@@ -87,7 +83,7 @@ In an interaction study in healthy subjects in which a single 3 mg dose of oral 
 Higher doses of paroxetine have not been studied.
 The clinical relevance is unknown.
 
-Special Populations
+Specific Populations
 
 Renal Impairment
 

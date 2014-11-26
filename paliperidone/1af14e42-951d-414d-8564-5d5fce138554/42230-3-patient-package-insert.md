@@ -1,185 +1,141 @@
-INVEGA® SUSTENNA® (paliperidone palmitate) Extended-Release Injectable Suspension
+# PATIENT INFORMATION
 
-Important Information
+INVEGA® SUSTENNA® (In-VEY-guh Suss-TEN-uh) (paliperidone palmitate) Extended-Release Injectable Suspension
 
-This summary contains important information about INVEGA® SUSTENNA® for patients and caregivers and has been reviewed by the U.S. Food and Drug Administration.
+Read this Patient Information carefully before you receive INVEGA SUSTENNA and each time you receive it.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-Read this information carefully and talk to your doctor or treatment team if you have any questions about INVEGA® SUSTENNA®.
-Keep this information handy so that you can refer to it later if you have any questions.
-Ask your doctor or treatment team if there is any new information that you need to know about INVEGA® SUSTENNA®.
+What is the most important information I should know about INVEGA SUSTENNA?
 
-This summary does not contain all the information about INVEGA® SUSTENNA®.
-It does not take the place of talking with your doctor.
+INVEGA SUSTENNA can cause serious side effects, including:
 
-What is INVEGA® SUSTENNA®?
+- Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+  INVEGA SUSTENNA is not for treating dementia-related psychosis.
 
-INVEGA® SUSTENNA® is a type of prescription medicine called an atypical antipsychotic given as an injection by a healthcare provider.
+What is INVEGA SUSTENNA?
 
-INVEGA® SUSTENNA® is used to treat symptoms of schizophrenia.
-INVEGA® SUSTENNA® can also be used to lessen the chance of your schizophrenia symptoms from coming back.
+INVEGA SUSTENNA is a prescription medicine given by injection by a health care professional and used to treat:
 
-How does INVEGA® SUSTENNA® work?
+- schizophrenia
+- schizoaffective disorder either alone or with other medicines such as mood stabilizers or antidepressants
 
-Schizophrenia is believed to be caused when certain chemicals in the brain are not in balance.
-Not all people with schizophrenia have the same symptoms.
-Some of the most common symptoms of schizophrenia may include:
+It is not known if INVEGA SUSTENNA is safe and effective in children under 18 years of age.
 
-- Seeing, hearing, or sensing things that are not there (hallucinations)
-- Believing that what other people say are not true (delusions)
-- Not trusting others and feeling very suspicious (paranoia)
-- Avoiding family and friends and wanting to be alone
+Who should not receive INVEGA SUSTENNA?
 
-The exact way INVEGA® SUSTENNA® works is not known.
-INVEGA® SUSTENNA® is thought to help restore the balance of these chemicals in the brain, and has been shown to help many people manage their symptoms of schizophrenia.
+Do not receive INVEGA SUSTENNA if you:
 
-It may take some time before your symptoms of schizophrenia start to improve.
-Remember that INVEGA® SUSTENNA® is one part of your overall treatment plan.
-It is important to keep all your appointments so you can get your treatments on time and your treatment team can check your progress.
+- are allergic to paliperidone, risperidone, or any of the ingredients in INVEGA SUSTENNA.
+  See the end of this Patient Information leaflet for a complete list of ingredients in INVEGA SUSTENNA.
 
-What is the most important safety information I need to know about INVEGA® SUSTENNA®?
+What should I tell my healthcare provider before receiving INVEGA SUSTENNA?
 
-INVEGA® SUSTENNA® is not approved for the treatment of dementia-related psychosis in elderly patients.
-Elderly patients who were given oral antipsychotics like INVEGA® SUSTENNA® in clinical studies for psychosis caused by dementia (memory problems) had a higher risk of death.
+Before you receive INVEGA SUSTENNA, tell your healthcare provider about all your medical conditions, including if you:
 
-Who should not use INVEGA® SUSTENNA®?
+- have had Neuroleptic Malignant Syndrome (NMS)
+- have or have had heart problems, including a heart attack, heart failure, abnormal heart rhythm, or long QT syndrome
+- have or have had low levels of potassium or magnesium in your blood
+- have or have had uncontrolled movements of your tongue, face, mouth, or jaw (tardive dyskinesia)
+- have or have had kidney or liver problems
+- have diabetes or have a family history of diabetes
+- have had a low white blood cell count
+- have had problems with dizziness or fainting or are being treated for high blood pressure
+- have or have had seizures or epilepsy
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
+  It is not known if INVEGA SUSTENNA will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  INVEGA SUSTENNA can pass into your breast milk and may harm your baby.
+  You and your healthcare provider should decide if you will receive INVEGA SUSTENNA or breastfeed.
+  You should not do both.
 
-INVEGA® SUSTENNA® is not approved for the treatment of elderly patients who have a diagnosis of psychosis related to dementia.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-Do not take INVEGA® SUSTENNA® if you:
+Know the medicines you take.
+Keep a list of them to show to your healthcare provider or pharmacist when you get a new medicine.
 
-- Are allergic to paliperidone (INVEGA® Extended-release Tablets) or any other ingredient in INVEGA® SUSTENNA®.
-  Ask your doctor or pharmacist for a list of these ingredients.
-- Are allergic to risperidone (RISPERDAL®).
+How will I receive INVEGA SUSTENNA?
 
-What should I tell my doctor before starting INVEGA® SUSTENNA®?
+- Take INVEGA SUSTENNA exactly as your healthcare provider tells you to.
+- Your healthcare provider will tell you how much INVEGA SUSTENNA you will receive and when you will receive it.
+- INVEGA SUSTENNA is given as an injection by your healthcare provider into the muscle (intramuscularly) of your arm or your buttocks.
+- When you receive your first dose of INVEGA SUSTENNA you will need to get a second dose 1 week later.
+  After that you will only need to get a dose 1 time a month.
 
-Only your doctor can decide if INVEGA® SUSTENNA® is right for you.
-Before you start INVEGA® SUSTENNA®, be sure to tell your doctor or treatment team if you:
+What should I avoid while receiving INVEGA SUSTENNA?
 
-- Have a history of heart problems, any problems with the way your heart beats, or are being treated for high blood pressure.
-- Have diabetes or a family history of diabetes.
-- Have a history of low white blood cell counts.
-- Have low levels of potassium or magnesium in your blood.
-- Are being treated for seizures (fits or convulsions), have had seizures in the past, or have conditions that increase the risk of having seizures.
-- Have kidney or liver problems.
-- Have ever had any conditions that cause dizziness or fainting.
-- Are pregnant or plan to become pregnant during treatment.
-- Are breast-feeding.
-  Women should not breast-feed a baby during treatment.
-- Are taking or plan to take any prescription medicines or over-the-counter medicines such as vitamins, herbal products, or dietary supplements.
+- INVEGA SUSTENNA may affect your ability to make decisions, think clearly, or react quickly.
+  Do not drive, operate heavy machinery, or do other dangerous activities until you know how INVEGA SUSTENNA affects you.
+- Avoid getting overheated or dehydrated.
 
-How often is INVEGA® SUSTENNA® given?
+What are the possible side effects of INVEGA SUSTENNA?
 
-INVEGA® SUSTENNA® is a long-acting medicine that a healthcare professional will give you by injection.
-This means that you do not have to take this medicine every day.
+INVEGA SUSTENNA may cause serious side effects, including:
 
-When you receive your first dose of INVEGA® SUSTENNA® you will need to get a second dose one week later.
-After that you will only need to get a dose once a month.
+- See "What is the most important information I should know about INVEGA SUSTENNA?"
+- stroke in elderly people (cerebrovascular problems) that can lead to death
+- Neuroleptic Malignant Syndrome (NMS).
+  NMS is a rare but very serious problem that can happen in people who receive INVEGA SUSTENNA.
+  NMS can cause death and must be treated in a hospital.
+  Call your healthcare provider right away if you become severely ill and have any of these symptoms:
+  - high fever
+  - severe muscle stiffness
+  - confusion
+  - loss of consciousness
+  - changes in your breathing, heartbeat and blood pressure
+- problems with your heartbeat.
+  These heart problems can cause death.
+  Call your healthcare provider right away if you have any of these symptoms:
+  - passing out or feeling like you will pass out
+  - dizziness
+  - feeling as if your heart is pounding or missing beats
+- uncontrolled movements of your tongue, face, mouth, or jaw (tardive dyskinesia)
+- metabolic changes.
+  Metabolic changes may include high blood sugar (hyperglycemia), diabetes mellitus and changes in the fat levels in your blood (dyslipidemia), and weight gain.
+- low blood pressure and fainting
+- changes in your blood cell counts
+- high level of prolactin in your blood (hyperprolactemia).
+  INVEGA SUSTENNA may cause a rise in the blood levels of a hormone called prolactin (hyperprolactemia) that may cause side effects including missed menstrual periods, leakage of milk from the breasts, development of breasts in men, or problems with erection
+- problems thinking clearly and moving your body
+- seizures
+- difficulty swallowing that can cause food or liquid to get into your lungs
+- prolonged or painful erection lasting more than 4 hours.
+  Call your healthcare provider or go to your nearest emergency room right away if you have an erection that lasts more than 4 hours.
+- problems with control of your body temperature especially when you exercise a lot or spend time doing things that make you warm.
+  It is important for you to drink water to avoid dehydration.
 
-Your doctor or healthcare provider will give you the injection into the upper arm or buttocks.
-People usually feel some pain or discomfort.
-In clinical studies, most patients reported the injections became less painful over time.
+The most common side effects of INVEGA SUSTENNA include:
 
-What if I miss an injection of INVEGA® SUSTENNA®?
+- injection site reactions
+- sleepiness or drowsiness
+- dizziness
+- feeling of inner restlessness or needing to be constantly moving
+- abnormal muscle movements, including tremor (shaking), shuffling, uncontrolled involuntary movements, and abnormal movements of your eyes
 
-It is very important to keep all your appointments and get your injections on time.
-If you think you are going to miss your appointment, call your doctor or treatment team as soon as you can.
-Your doctor or treatment team will decide what you should do next.
+Tell your healthcare provider if you have any side effect that bothers you or does not go away.
+These are not all the possible side effects of INVEGA SUSTENNA.
+For more information, ask your healthcare provider or pharmacist.
 
-What if I stop receiving INVEGA® SUSTENNA®?
+Call your doctor for medical advice about side effects.
+You may report side effects to the FDA at 1-800-FDA-1088.
 
-If you stop coming for your injections, your symptoms may return.
-You should not stop receiving injections of this medicine unless you have discussed this with your doctor.
+General information about the safe and effective use of INVEGA SUSTENNA.
 
-What are the possible side effects of INVEGA® SUSTENNA®?
+This Patient Information leaflet summarizes the most important information about INVEGA SUSTENNA.
+If you would like more information, talk with your healthcare provider.
 
-As with any medicine, INVEGA® SUSTENNA® may cause side effects in some people.
-If you think you are developing a side effect, always discuss this with your doctor or treatment team.
+You can ask your healthcare provider or pharmacist for more information that is written for healthcare professionals.
+For more information, go to www.invegasustenna.com or call 1-800-526-7736.
 
-Common side effects of INVEGA® SUSTENNA® include:
+What are the ingredients in INVEGA SUSTENNA?
 
-- Reactions at the injection site
-- Sleepiness
-- Dizziness
-- Feeling of inner restlessness
-- Abnormal muscle movements, including tremor (shaking), shuffling, uncontrolled involuntary movements, and abnormal movements of the eyes
+Active ingredient: paliperidone palmitate
 
-Other important safety information
+Inactive ingredients: polysorbate 20, polyethylene glycol 4000, citric acid monohydrate, disodium hydrogen phosphate anhydrous, sodium dihydrogen phosphate monohydrate, sodium hydroxide, and water for injection
 
-Neuroleptic Malignant Syndrome (NMS) is a rare, but serious side effect that could be fatal and has been reported with INVEGA® SUSTENNA® and similar medicines.
-Call the doctor right away if you develop symptoms such as a high fever, rigid muscles, shaking, confusion, sweating more than usual, increased heart rate or blood pressure, or muscle pain or weakness.
-Treatment should be stopped if you are being treated for NMS.
+Manufactured by: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560, Janssen Pharmaceuticals, Inc. 2009
 
-Tardive Dyskinesia (TD) is a rare, but serious and sometimes permanent side effect reported with INVEGA® SUSTENNA® and similar medicines.
-Call your doctor right away if you start to develop twitching or jerking movements that you cannot control in your face, tongue, or other parts of your body.
-The risk of developing TD and the chance that it will become permanent is thought to increase with the length of therapy and the total dose received.
-This condition can also develop after a short period of treatment at low doses but this is less common.
-There is no known treatment for TD but it may go away partially or completely if the medicine is stopped.
+This Patient Information has been approved by the U.S. Food and Drug Administration
 
-One risk of INVEGA® SUSTENNA® is that it may change your heart rhythm.
-This effect is potentially serious.
-You should talk to your doctor about any current or past heart problems.
-Because these problems could mean you're having a heart rhythm abnormality, contact your doctor IMMEDIATELY if you feel faint or feel a change in the way that your heart beats (palpitations).
-
-High blood sugar and diabetes have been reported with INVEGA® SUSTENNA® and similar medicines.
-If you already have diabetes or have risk factors such as being overweight or a family history of diabetes, blood sugar testing should be done at the beginning and during the treatment.
-The complications of diabetes can be serious and even life-threatening.
-Call your doctor if you develop signs of high blood sugar or diabetes, such as being thirsty all the time, having to urinate or "pass urine" more often than usual, or feeling weak or hungry.
-
-Weight gain has been observed with INVEGA® SUSTENNA® and other atypical antipsychotic medications.
-If you notice that you are gaining weight, please notify your doctor.
-
-Some people may feel faint, dizzy, or may pass out when they stand up or sit up suddenly.
-Be careful not to get up too quickly.
-It may help if you get up slowly and sit on the edge of the bed or chair for a few minutes before you stand up.
-These symptoms may decrease or go away after your body becomes used to the medicine.
-
-INVEGA® SUSTENNA® and similar medicines have been associated with decreases in the counts of white cells in circulating blood.
-If you have a history of low white blood cell counts or have unexplained fever or infection, then please contact your doctor right away.
-
-INVEGA® SUSTENNA® and similar medicines can raise the blood levels of a hormone called prolactin and blood levels of prolactin remain high with continued use.
-This may result in some side effects including missed menstrual periods, leakage of milk from the breasts, development of breasts in men, or problems with erection.
-
-If you have a prolonged or painful erection lasting more than 4 hours, seek immediate medical help to avoid long-term injury.
-
-INVEGA® SUSTENNA® can make some people feel dizzy, sleepy, or less alert.
-Until you know how you are going to respond to INVEGA® SUSTENNA®, be careful driving a car, operating machines, or doing things that require you to be alert.
-
-This medicine may make you more sensitive to heat.
-You may have trouble cooling off or be more likely to become dehydrated.
-Be careful when you exercise or spend time doing things that make you warm.
-
-Do not drink alcohol while you are taking INVEGA® SUSTENNA®.
-
-This is not a complete list of all possible side effects.
-Ask your doctor or treatment team if you have any questions or want more information.
-
-Other information to share with your doctor
-
-Call your doctor right away if you start thinking about suicide or wanting to hurt yourself.
-
-How can I get the most benefit from my INVEGA® SUSTENNA® treatment?
-
-- Remember to keep all your appointments.
-  You need to receive your INVEGA® SUSTENNA® treatments on time and your treatment team needs to check your progress.
-  If you are going to miss an appointment, call your doctor's office right away so you can get your next dose as soon as possible.
-- Keep a list of questions.
-  Discuss this list with your treatment team at your next visit.
-  Your treatment team wants to know how the medicine is working so they can give you the best care possible.
-- Be patient.
-  It may take some time before your symptoms of schizophrenia start to improve.
-- Follow the plan developed by you and your treatment team.
-  Remember that INVEGA® SUSTENNA® is one part of your overall treatment plan.
-
-Where can I find more information about INVEGA® SUSTENNA®?
-
-This is a summary of important information about INVEGA® SUSTENNA®.
-If you have any questions about this information, talk with your doctor or treatment team.
-
-You can also visit the website at www.invegasustenna.com or call the toll-free number at 1-800-JANSSEN (1-800-526-7736) for more information about INVEGA® SUSTENNA®.
-
-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
-
-© Janssen Pharmaceuticals, Inc. 2009
-
-April 2014
+Revised: November 2014

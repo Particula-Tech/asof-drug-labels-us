@@ -61,7 +61,7 @@ Clinical studies of INVEGA® SUSTENNA® did not include sufficient numbers of su
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
 This drug is known to be substantially excreted by the kidney and clearance is decreased in patients with renal impairment [see Clinical Pharmacology (12.3)], who should be given reduced doses.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.5)].
+Because elderly patients are more likely to have decreased renal function, adjust dose based on renal function [see Dosage and Administration (2.5)].
 
 ## 8.6 Renal Impairment
 
