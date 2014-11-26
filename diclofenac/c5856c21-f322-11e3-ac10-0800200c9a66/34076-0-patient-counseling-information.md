@@ -50,6 +50,6 @@ Depomed, Inc. Newark, CA 94560
 
 U.S. Patents: 6,974,595; 7,482,377; 7,759,394; 8,097,651
 
-CAM-007-C.1 JAN 2014
+CAM-007-C.2 NOV 2014
 
 ©2014 Depomed, Inc.

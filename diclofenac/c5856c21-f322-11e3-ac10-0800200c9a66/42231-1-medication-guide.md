@@ -231,6 +231,6 @@ Rx only
 
 Depomed, Inc. Newark, CA 94560 United States of America
 
-CAM-007-C.1 JAN 2014 ©2014 Depomed, Inc.
+CAM-007-C.2 NOV 2014 ©2014 Depomed, Inc.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

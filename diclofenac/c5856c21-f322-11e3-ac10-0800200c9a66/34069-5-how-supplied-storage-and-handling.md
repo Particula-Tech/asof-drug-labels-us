@@ -5,7 +5,7 @@ Each individual packet is designed to deliver a dose of 50 mg diclofenac potassi
 
 CAMBIA is a white to off-white, buffered, flavored powder for oral solution packaged in individual unit dose packets.
 
-Individual CAMBIA Packets - NDC 13913-011-91
+Individual CAMBIA Packets - NDC 13913-011-01
 
 Boxes of nine (9) CAMBIA Packets - NDC 13913-011-19
 
