@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-## 1. Indication
+## 1. Indications
 
 Progestin-only oral contraceptives are indicated for the prevention of pregnancy.
 

@@ -1,6 +1,6 @@
 # DETAILED PATIENT LABELING
 
-Norethindrone tablets USP, 0.35 mg
+Norethindrone Tablets USP, 0.35 mg
 
 This product (like all oral contraceptives) is used to prevent pregnancy.
 It does not protect against HIV infection (AIDS) or other sexually transmitted diseases.
@@ -10,7 +10,7 @@ It does not protect against HIV infection (AIDS) or other sexually transmitted d
 ### Norethindrone tablets USP, 0.35 mg
 
 Each tablet contains 0.35 mg norethindrone USP.
-Inactive ingredients include colloidal silicon dioxide, corn starch, D&C Yellow No. 10, ethylcellulose, lactose anhydrous, magnesium stearate, microcrystalline cellulose, povidone, sodium starch glycolate and talc.
+Inactive ingredients include colloidal silicon dioxide, corn starch, D&C Yellow No. 10, ethyl cellulose, lactose anhydrous, magnesium stearate, microcrystalline cellulose, povidone, sodium starch glycolate, methylene chloride, isopropyl alcohol and talc.
 
 ## INTRODUCTION
 
@@ -66,24 +66,24 @@ United States.
 
 Norethindrone tablets have not been studied for and are not indicated for use in emergency contraception.
 
-## HOW DO POPs WORK ?
+## HOW DO POPs WORK?
 
 POPs can prevent pregnancy in different ways including:
 
-- They make the cervical mucus at the entrance to the womb (the uterus) too thick for the sperm to get through to the egg
-- They prevent ovulation (release of the egg from the ovary) in about half of the cycles
-- They also affect other hormones, the fallopian tubes and the lining of the uterus
+- •They make the cervical mucus at the entrance to the womb (the uterus) too thick for the sperm to get through to the egg
+- •They prevent ovulation (release of the egg from the ovary) in about half of the cycles
+- •They also affect other hormones, the fallopian tubes and the lining of the uterus
 
 ## YOU SHOULD NOT TAKE POPs
 
-- If there is any chance you may be pregnant.
-- If you have breast cancer
-- If you have bleeding between your periods that has not been diagnosed
-- If you are taking certain drugs for epilepsy (seizures) or for TB.
+- •If there is any chance you may be pregnant.
+- •If you have breast cancer
+- •If you have bleeding between your periods that has not been diagnosed
+- •If you are taking certain drugs for epilepsy (seizures) or for TB, or medicine for pulmonary hypertension or certain herbal products.
   (See "Using POPs with Other Medicines" below)
-- If you are hypersensitive, or allergic, to any component of this product
-- If you have liver tumors, either benign or cancerous
-- If you have acute liver disease
+- •If you are hypersensitive, or allergic, to any component of this product.
+- •If you have liver tumors, either benign or cancerous
+- •If you have acute liver disease
 
 ## RISKS OF TAKING POPs
 
@@ -146,8 +146,8 @@ Taking your pills late or missing pills can result in some spotting or bleeding.
 
 ### Other Side Effects
 
-Less common side effects include headache, tender breasts, nausea and dizziness.
-Weight gain, acne and extra hair on your face and body have been reported, but are rare.
+Less common side effects include headaches, tender breasts, nausea, vomiting, dizziness, and fatigue.
+Depression, nervousness, leg pain, vaginal discharge, fluid retention, allergic reactions, jaundice or a yellowing of the skin or eyeballs, loss of scalp hair, rash/itchy rash, weight gain, acne and extra hair on your face and body have been reported, but are rare.
 
 If you are concerned about any of these side effects, check with your healthcare professional.
 
@@ -159,13 +159,22 @@ These medicines can make POPs less effective:
 
 Medicines for seizures such as:
 
-- Phenytoin (Dilantin®)
-- Carbamazepine (Tegretol)
-- Phenobarbital
+- •Phenytoin (Dilantin®)
+- •Carbamazepine (Tegretol®)
+- •Phenobarbital
 
 Medicine for TB:
 
-- Rifampin (Rifampicin)
+- •Rifampin (Rifampicin)
+
+Medicine for pulmonary hypertension such as:
+
+- •Bosentan (Tracleer®)
+
+Herbal products such as:
+
+- •St.
+  John’s Wort
 
 Before you begin taking any new medicines be sure your healthcare professional knows you are taking a progestin-only birth control pill.
 
@@ -173,46 +182,46 @@ Before you begin taking any new medicines be sure your healthcare professional k
 
 ### IMPORTANT POINTS TO REMEMBER
 
-- POPs must be taken at the same time every day, so choose a time and then take the pill at that same time every day.
+- •POPs must be taken at the same time every day, so choose a time and then take the pill at that same time every day.
   Every time you take a pill late, and especially if you miss a pill, you are more likely to get pregnant.
-- Start the next pack the day after the last pack is finished.
+- •Start the next pack the day after the last pack is finished.
   There is no break between packs.
   Always have your next pack of pills ready.
-- You may have some menstrual spotting between periods.
+- •You may have some menstrual spotting between periods.
   Do not stop taking your pills if this happens.
-- If you vomit soon after taking a pill, use a backup method (such as a condom and/or a spermicide) for 48 hours.
-- If you want to stop taking POPs, you can do so at any time, but, if you remain sexually active and don’t wish to become pregnant, be certain to use another birth control method.
-- If you are not sure about how to take POPs, ask your healthcare professional.
+- •If you vomit soon after taking a pill, use a backup method (such as a condom and/or a spermicide) for 48 hours.
+- •If you want to stop taking POPs, you can do so at any time, but, if you remain sexually active and don’t wish to become pregnant, be certain to use another birth control method.
+- •If you are not sure about how to take POPs, ask your healthcare professional.
 
 ## STARTING POPs
 
-- It’s best to take your first POP on the first day of your menstrual period.
-- If you decide to take your first POP on another day, use a backup method (such as a condom and/or a spermicide) every time you have sex during the next 48 hours.
-- If you have had a miscarriage or an abortion, you can start POPs the next day.
+- •It’s best to take your first POP on the first day of your menstrual period.
+- •If you decide to take your first POP on another day, use a backup method (such as a condom and/or a spermicide) every time you have sex during the next 48 hours.
+- •If you have had a miscarriage or an abortion, you can start POPs the next day.
 
 ## IF YOU ARE LATE OR MISS TAKING YOUR POPs
 
-- If you are more than 3 hours late or you miss one or more POPs:
+- •If you are more than 3 hours late or you miss one or more POPs:
 
-1. TAKE a missed pill as soon as you remember that you missed it,
-2. THEN go back to taking POPs at your regular time,
-3. BUT be sure to use a backup method (such as a condom and/or a spermicide) every time you have sex for the next 48 hours.
+- 1.TAKE a missed pill as soon as you remember that you missed it,
+- 2.THEN go back to taking POPs at your regular time,
+- 3.BUT be sure to use a backup method (such as a condom and/or a spermicide) every time you have sex for the next 48 hours.
 
-- If you are not sure what to do about the pills you have missed, keep taking POPs and use a backup method until you can talk to your healthcare professional.
+- •If you are not sure what to do about the pills you have missed, keep taking POPs and use a backup method until you can talk to your healthcare professional.
 
 ## IF YOU ARE BREASTFEEDING
 
-- If you are fully breastfeeding (not giving your baby any food or formula), you may start your pills 6 weeks after delivery.
-- If you are partially breastfeeding (giving your baby some food or formula), you should start taking pills by 3 weeks after delivery.
+- •If you are fully breastfeeding (not giving your baby any food or formula), you may start your pills 6 weeks after delivery.
+- •If you are partially breastfeeding (giving your baby some food or formula), you should start taking pills by 3 weeks after delivery.
 
 ## IF YOU ARE SWITCHING PILLS
 
-- If you are switching from the combined pills to POPs, take the first POP the day after you finish the last active combined pill.
+- •If you are switching from the combined pills to POPs, take the first POP the day after you finish the last active combined pill.
   Do not take any of the 7 inactive pills from the combined pill pack.
   You should know that many women have irregular periods after switching to POPs, but this is normal and to be expected.
-- If you are switching from POPs to the combined pills, take the first active combined pill on the first day of your period, even if your POPs pack is not finished.
-- If you switch to another brand of POPs, start the new brand anytime.
-- If you are breastfeeding, you can switch to another method of birth control at any time, except do not switch to the combined pills until you stop breastfeeding or at least until 6 months after delivery.
+- •If you are switching from POPs to the combined pills, take the first active combined pill on the first day of your period, even if your POPs pack is not finished.
+- •If you switch to another brand of POPs, start the new brand anytime.
+- •If you are breastfeeding, you can switch to another method of birth control at any time, except do not switch to the combined pills until you stop breastfeeding or at least until 6 months after delivery.
 
 ## PREGNANCY WHILE ON THE PILL
 
@@ -221,8 +230,8 @@ Even though research has shown that POPs do not cause harm to the unborn baby, i
 
 You should get a pregnancy test:
 
-- If your period is late and you took one or more pills late or missed taking them and had sex without a backup method.
-- Anytime it has been more than 45 days since the beginning of your last period.
+- •If your period is late and you took one or more pills late or missed taking them and had sex without a backup method.
+- •Anytime it has been more than 45 days since the beginning of your last period.
 
 ## WILL POPs AFFECT YOUR ABILITY TO GET PREGNANT LATER?
 
@@ -231,7 +240,7 @@ POPs will not delay your ability to get pregnant.
 
 ## BREASTFEEDING
 
-If you are breastfeeding, POPs should not affect the quality or amount of your breast milk or the health of your nursing baby.
+If you are breastfeeding, POPs will not affect the quality or amount of your breast milk or the health of your nursing baby.
 However, isolated cases of decreased milk production have been reported.
 
 ## OVERDOSE
@@ -260,4 +269,4 @@ Glenmark Generics Inc., USA Mahwah, NJ 0743
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-August 2010
+November 2014

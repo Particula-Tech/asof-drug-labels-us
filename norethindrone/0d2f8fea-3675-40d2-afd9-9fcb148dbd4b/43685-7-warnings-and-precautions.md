@@ -41,7 +41,7 @@ There was no increase in the frequency of having breast cancer diagnosed ten or 
 Women with breast cancer should not use oral contraceptives because the role of female hormones in breast cancer has not been fully determined.
 
 Some studies suggest that oral contraceptive use has been associated with an increase in the risk of cervical intraepithelial neoplasia in some populations of women.
-However, there continues to be controversy about the extent of which such findings may be due to differences in sexual behavior and other factors.
+However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
 There is insufficient data to determine whether the use of POPs increases the risk of developing cervical intraepithelial neoplasia.
 
 ## 5. Hepatic Neoplasia
@@ -76,16 +76,21 @@ There is usually no effect on total cholesterol, HDL3, LDL, or VLDL.
 The effectiveness of progestin-only pills is reduced by hepatic enzyme-inducing drugs such as the anticonvulsants phenytoin, carbamazepine, and barbiturates, and the antituberculosis drug rifampin.
 No significant interaction has been found with broad-spectrum antibiotics.
 
+Herbal products containing St. John’s Wort (Hypericum perforatum) may induce hepatic enzymes (cytochrome P450) and p-glycoprotein transporter and may reduce the effectiveness of contraceptive steroids.
+This may also result in breakthrough bleeding.
+
+Concurrent use of bosentan and norethindrone containing products may result in decreased concentrations of these contraceptive hormones thereby increasing the risk of unintended pregnancy and unscheduled bleeding.
+
 ## 5. Interactions with Laboratory Tests
 
 The following endocrine tests may be affected by progestin-only oral contraceptive use:
 
-- Sex hormone-binding globulin (SHBG) concentrations may be decreased.
-- Thyroxine concentrations may be decreased, due to a decrease in thyroid binding globulin (TBG).
+- •Sex hormone-binding globulin (SHBG) concentrations may be decreased.
+- •Thyroxine concentrations may be decreased, due to a decrease in thyroid binding globulin (TBG).
 
 ## 6. Carcinogenesis
 
-See WARNINGSsection.
+See WARNINGS.
 
 ## 7. Pregnancy
 
@@ -115,13 +120,13 @@ The onset or exacerbation of migraine or development of severe headache with foc
 
 ## INFORMATION FOR THE PATIENT
 
-1. See “Detailed Patient Labeling” for detailed information.
-2. Counseling issue
+- 1.See “Detailed Patient Labeling” for detailed information.
+- 2.Counseling issues
 
 The following points should be discussed with prospective users before prescribing progestin-only oral contraceptives:
 
-- The necessity of taking pills at the same time every day, including throughout all bleeding episodes.
-- The need to use a backup method such as condoms and spermicides for the next 48 hours whenever a progestin-only oral contraceptive is taken 3 or more hours late.
-- The potential side effects of progestin-only oral contraceptives, particularly menstrual irregularities.
-- The need to inform the healthcare professional of prolonged episodes of bleeding, amenorrhea or severe abdominal pain.
-- The importance of using a barrier method in addition to progestin-only oral contraceptives if a woman is at risk of contracting or transmitting STDs/HIV.
+- •The necessity of taking pills at the same time every day, including throughout all bleeding episodes.
+- •The need to use a backup method such as a condom and spermicide for the next 48 hours whenever a progestin-only oral contraceptive is taken 3 or more hours late.
+- •The potential side effects of progestin-only oral contraceptives, particularly menstrual irregularities.
+- •The need to inform the healthcare professional of prolonged episodes of bleeding, amenorrhea or severe abdominal pain.
+- •The importance of using a barrier method in addition to progestin-only oral contraceptives if a woman is at risk of contracting or transmitting STDs/HIV.
