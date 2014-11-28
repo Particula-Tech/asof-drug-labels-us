@@ -409,7 +409,7 @@ Transient rise in serum creatinine can be correctable with intravenous fluids.
 
 Allergic Reactions
 
-Allergic reaction with intravenous zoledronic acid including anaphylactic reaction/shock, urticaria, angioedema, and bronchoconstriction have been reported.
+Allergic reaction with intravenous zoledronic acid including anaphylactic reaction/shock, urticaria, angioedema, Stevens-Johnson syndrome, toxic epidermal necrolysis, and bronchoconstriction have been reported.
 
 Asthma Exacerbations
 
