@@ -20,6 +20,9 @@ The recommended starting dose is 30 mg once daily in the morning in patients age
 Dosage may be adjusted in increments of 10 mg or 20 mg at approximately weekly intervals up to maximum dose of 70 mg/day.
 Patients may be maintained on their optimal dose [see Clinical Studies (14)].
 
+In patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2) the maximum dose should not exceed 50 mg/day.
+In patients with end stage renal disease (ESRD, GFR < 15 mL/min/1.73 m2), the maximum recommended dose is 30 mg/day [see Use in Specific Populations (8.6)].
+
 ## 2.3 Important Information Prior to Dosing
 
 Prior to treating children, adolescents, and adults with CNS stimulants, assess for the presence of cardiac disease (e.g., a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].

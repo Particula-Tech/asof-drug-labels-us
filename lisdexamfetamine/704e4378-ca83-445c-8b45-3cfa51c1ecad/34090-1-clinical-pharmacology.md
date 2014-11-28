@@ -15,12 +15,12 @@ In 18 patients ages 6 to 12 years with ADHD, the Tmax of dextroamphetamine was a
 The Tmax of lisdexamfetamine was approximately 1 hour.
 Linear pharmacokinetics of dextroamphetamine after single-dose oral administration of lisdexamfetamine dimesylate was established over the dose range of 30 mg to 70 mg in children ages 6 to 12 years and over a range of 50 mg to 250 mg in adults.
 Dextroamphetamine pharmacokinetic parameters following administration of lisdexamfetamine dimesylate in adults exhibited low inter-subject (<25%) and intra-subject (<8%) variability.
-Safety and efficacy have not been studied above the maximum recommended dose of 70mg.
+Safety and efficacy have not been studied above the maximum recommended dose of 70 mg.
 
 There is no accumulation of dextroamphetamine AUC at steady state in healthy adults and no accumulation of lisdexamfetamine after once-daily dosing for 7 consecutive days.
 
 Neither food (a high fat meal or yogurt) nor orange juice affect the observed AUC and Cmax of dextroamphetamine in healthy adults after single-dose oral administration of 70 mg of Vyvanse capsules.
-Food prolongs Tmax by approximately 1 hour (from 3.8 hrs at fasted state to 4.7 hrs after a high fat meal or to 4.8 hrs with yogurt).
+Food prolongs Tmax by approximately 1 hour (from 3.8 hrs at fasted state to 4.7 hrs after a high fat meal or to 4.2 hrs with yogurt).
 After an 8-hour fast, the AUCs for dextroamphetamine following oral administration of lisdexamfetamine dimesylate in solution and as intact capsules were equivalent.
 
 Weight/Dose normalized AUC and Cmax were 22% and 12% lower, respectively, in adult females than in males on day 7 following a 70 mg/day dose of lisdexamfetamine dimesylate for 7 days.
@@ -36,3 +36,12 @@ Following the oral administration of a 70 mg dose of radiolabeled lisdexamfetami
 Of the radioactivity recovered in the urine, 42% of the dose was related to amphetamine, 25% to hippuric acid, and 2% to intact lisdexamfetamine.
 Plasma concentrations of unconverted lisdexamfetamine are low and transient, generally becoming non-quantifiable by 8 hours after administration.
 The plasma elimination half-life of lisdexamfetamine typically averaged less than one hour in studies of lisdexamfetamine dimesylate in volunteers.
+
+Drug Interaction Studies
+
+Studies in Specific Populations
+
+Renal Impairment
+
+In a pharmacokinetic study of lisdexamfetamine in subjects with normal and impaired renal function mean d-amphetamine clearance was reduced from 0.7 L/hr/kg in normal subjects to 0.4 L/hr/kg in subjects with severe renal impairment (GFR 15 to <30mL/min/1.73m2) and 0.3 L/hr/kg in ESRD patients.
+Dialysis did not significantly affect the clearance of d-amphetamine; the mean clearance of d-amphetamine was 0.3 L/hr/kg for both pre- and post- dialysis [see Use in Specific Populations (8.6)].

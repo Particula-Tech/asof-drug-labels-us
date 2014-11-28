@@ -47,7 +47,9 @@ Growth Suppression
 
 Growth should be monitored during treatment with stimulants, including Vyvanse, and children who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
 
-Juvenile Animal Data Studies conducted in juvenile rats and dogs at clinically relevant doses showed growth suppression that partially or fully reversed in dogs and female rats but not in male rats after a four-week drug-free recovery period.
+Juvenile Animal Data
+
+Studies conducted in juvenile rats and dogs at clinically relevant doses showed growth suppression that partially or fully reversed in dogs and female rats but not in male rats after a four-week drug-free recovery period.
 
 A study was conducted in which juvenile rats received oral doses of 4, 10, or 40 mg/kg/day of lisdexamfetamine dimesylate from day 7 to day 63 of age.
 These doses are approximately 0.3, 0.7, and 3 times the maximum recommended human daily dose of 70 mg on a mg/m2 basis for a child.
@@ -60,12 +62,16 @@ This effect partially or fully reversed during a four-week drug-free recovery pe
 ## 8.5 Geriatric Use
 
 Clinical studies of Vyvanse did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+Other reported clinical experience and pharmacokinetic data [see Clinical Pharmacology (12.3)] have not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-## 8.6 Special Populations
+## 8.6 Renal Impairment
 
-Figure 3: Special Populations:
+Due to reduced clearance in patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2) the maximum dose should not exceed 50 mg/day.
+And the maximum recommended dose in ESRD (GFR < 15 mL/min/1.73 m2) patients is 30 mg/day [see Clinical Pharmacology (12.3)].
 
-| *Figure 3 shows the geometric mean ratios and the 90% confidence limits for Cmax and AUC of d-amphetamine. Comparison for gender uses males as the reference. Comparison for age uses 55-64 years as the reference. |
-| --- |
+Lisdexamfetamine and d-amphetamine are not dialyzable.
+
+## 8.7 Gender
+
+No dosage adjustment of Vyvanse is necessary on the basis of gender [see CLINICAL PHARMACOLOGY (12.3)].

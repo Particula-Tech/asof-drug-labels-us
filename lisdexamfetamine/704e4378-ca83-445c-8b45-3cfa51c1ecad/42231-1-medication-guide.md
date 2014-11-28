@@ -1,8 +1,6 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
-VYVANSE® [Vī' - văns]
-
-(lisdexamfetamine dimesylate) CII Capsules
+VYVANSE® [Vī' - văns] (lisdexamfetamine dimesylate) CII Capsules
 
 Read the Medication Guide that comes with Vyvanse before you or your child starts taking it and each time you get a refill.
 There may be new information.
@@ -34,19 +32,18 @@ Your doctor should check your or your child's blood pressure and heart rate regu
 
 Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Vyvanse.
 
-2.
-Mental (psychiatric) problems including: In Children, Teenagers, and Adults:
-
-- new or worse behavior and thought problems
-- new or worse bipolar illness
-
-In Children and Teenagers
-
-- new psychotic symptoms such as:
-  - hearing voices
-  - believing things that are not true
-  - being suspicious
-- new manic symptoms
+- 2.Mental (psychiatric) problems including:
+- In Children, Teenagers, and Adults:
+- 
+  - new or worse behavior and thought problems
+  - new or worse bipolar illness
+- In Children and Teenagers
+- 
+  - new psychotic symptoms such as:
+    - hearing voices
+    - believing things that are not true
+    - being suspicious
+  - new manic symptoms
 
 Tell your doctor about any mental problems you or your child has, or about a family history of suicide, bipolar illness, or depression.
 
@@ -70,6 +67,7 @@ What Is Vyvanse?
 
 Vyvanse is a central nervous system stimulant prescription medicine.
 Vyvanse is used for the treatment of Attention-Deficit/Hyperactivity Disorder (ADHD).
+
 Vyvanse may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
 
 It is not known if Vyvanse is safe and effective in children under 6 years of age.
@@ -89,11 +87,13 @@ Before you or your child takes Vyvanse, tell your doctor if you or your child ha
 - mental problems including psychosis, mania, bipolar illness, or depression
 - circulation problems in fingers and toes
 
-Tell your doctor if:
+Tell your doctor if you or your child:
 
-- you or your child is pregnant or plan to become pregnant.
+- has any kidney problems.
+  Your doctor may lower your dose.
+- is pregnant or plan to become pregnant.
   It is not known if Vyvanse will harm your unborn baby.
-- you or your child is breastfeeding or plan to breastfeed.
+- is breastfeeding or plan to breastfeed.
   Vyvanse passes into breast milk.
   Discuss with your doctor before you breastfeed while you are taking Vyvanse.
 
@@ -126,7 +126,7 @@ How should I take Vyvanse?
     Do not store the yogurt, water, or orange juice after it has been mixed with Vyvanse.
     It is normal to see a filmy coating on the inside of your glass or container after you eat or drink all the Vyvanse.
 - Your doctor may sometimes stop Vyvanse treatment for a while to check your ADHD symptoms.
-- Your doctor may do regular checks of your blood, heart, and blood pressure while taking Vyvanse.
+- Your doctor may do regular checks of your heart, and blood pressure while taking Vyvanse.
 - Children should have their height and weight checked often while taking Vyvanse.
   Vyvanse treatment may be stopped if a problem is found during these check-ups.
 - If you or your child takes too much Vyvanse, call your doctor or poison control center right away, or get to the nearest hospital emergency room.
@@ -139,18 +139,13 @@ What are possible side effects of Vyvanse?
 
 Vyvanse may cause serious side effects, including:
 
-- See "What is the most important information I should know about Vyvanse?".
+- See "What is the most important information I should know about Vyvanse?"
 - slowing of growth (height and weight) in children
 
 The most common side effects of Vyvanse include:
 
-| o anxiety | o loss of appetite |
+| anxietydecreased appetitediarrheadizzinessdry mouthirritability | loss of appetitenauseatrouble sleepingupper stomach painvomitingweight loss |
 | --- | --- |
-| o decreased appetite | o nausea |
-| o diarrhea | o trouble sleeping |
-| o dizziness | o upper stomach pain |
-| o dry mouth | o vomiting |
-| o irritability | o weight loss |
 
 Talk to your doctor if you or your child has any side effects that are bothersome or do not go away.
 
@@ -178,6 +173,7 @@ Do not give Vyvanse to other people, even if they have the same condition.
 It may harm them.
 
 This Medication Guide summarizes the most important information about Vyvanse.
+
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Vyvanse that is written for healthcare professionals.
 
@@ -196,4 +192,4 @@ Manufactured for: Shire US Inc., Wayne, PA 19087.
 
 © 2014 Shire US Inc.
 
-Revised October 2014
+Revised November 2014

@@ -8,3 +8,5 @@ Manifestations of amphetamine overdose include restlessness, tremor, hyperreflex
 Fatigue and depression usually follow the central nervous system stimulation.
 Other reactions include arrhythmias, hypertension or hypotension, circulatory collapse, nausea, vomiting, diarrhea, and abdominal cramps.
 Fatal poisoning is usually preceded by convulsions and coma.
+
+Lisdexamfetamine and d-amphetamine are not dialyzable.
