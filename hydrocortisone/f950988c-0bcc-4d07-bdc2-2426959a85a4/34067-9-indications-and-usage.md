@@ -1,7 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Locoid Lipocream® is a topical corticosteroid indicated for:
+Locoid Lipocream® is indicated for:
 
-1.1Relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in adults.
-
-1.2The topical treatment of mild to moderate atopic dermatitis in pediatric patients 3 months to 18 years of age.
+- •Relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in adults.
+- •The topical treatment of mild to moderate atopic dermatitis in pediatric patients 3 months to 18 years of age.
