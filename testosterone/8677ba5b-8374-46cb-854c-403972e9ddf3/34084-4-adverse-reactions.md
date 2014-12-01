@@ -32,7 +32,9 @@ Table 4: Adverse Reactions Reported in >2% of Patients in the 182-Day, Double-Bl
 | Hypertension | 5 (2.1%) | 0% |
 | Hematocrit or hemoglobin increased | 5 (2.1%) | 0% |
 | Contact dermatitis*** | 5 (2.1%) | 0% |
-| *PSA increased includes: PSA values that met pre-specified criteria for abnormal PSA values (an average change from baseline > 0.75 ng/mL and/or an average PSA value >4.0 ng/mL based on two measurements) as well as those reported as adverse events. **Emotional lability includes: mood swings, affective disorder, impatience, anger, and aggression. ***Contact dermatitis includes: 4 patients with dermatitis at non-application sites. |  |  |
+| *PSA increased includes: PSA values that met pre-specified criteria for abnormal PSA values (an average change from baseline > 0.75 ng/mL and/or an average PSA value >4.0 ng/mL based on two measurements) as well as those reported as adverse events. |  |  |
+| **Emotional lability includes: mood swings, affective disorder, impatience, anger, and aggression. |  |  |
+| ***Contact dermatitis includes: 4 patients with dermatitis at non-application sites. |  |  |
 
 Other adverse reactions occurring in less than or equal to 2% of AndroGel 1.62%-treated patients and more frequently than placebo included: frequent urination, and hyperlipidemia.
 
@@ -74,7 +76,9 @@ Table 5: Adverse Reactions from Post Approval Experience of AndroGel 1% by Syste
 | Respiratory disorders: | Dyspnea |
 | Skin and subcutaneous tissue disorders: | Acne, alopecia, application site reaction (discolored hair, dry skin, erythema, paresthesia, pruritus, rash), skin dry, pruritus, sweating |
 | Vascular disorders: | Hypertension, vasodilation (hot flushes), venous thromboembolism |
-| * Impaired urination includes nocturia, urinary hesitancy, urinary incontinence, urinary retention, urinary urgency and weak urinary stream **Lab test abnormal includes elevated AST, elevated ALT, elevated testosterone, elevated hemoglobin or hematocrit, elevated cholesterol, elevated cholesterol/LDL ratio, elevated triglycerides, or elevated serum creatinine ***Testis disorder includes atrophy or non-palpable testis, varicocele, testis sensitivity or tenderness |  |
+| * Impaired urination includes nocturia, urinary hesitancy, urinary incontinence, urinary retention, urinary urgency and weak urinary stream |  |
+| **Lab test abnormal includes elevated AST, elevated ALT, elevated testosterone, elevated hemoglobin or hematocrit, elevated cholesterol, elevated cholesterol/LDL ratio, elevated triglycerides, or elevated serum creatinine |  |
+| ***Testis disorder includes atrophy or non-palpable testis, varicocele, testis sensitivity or tenderness |  |
 
 Secondary Exposure to Testosterone in Children
 

@@ -69,6 +69,14 @@ The effect of showering at 2 or 6 hours post-dose on Day 7 resulted in 13% and 1
 Showering at 10 hours after drug application had no effect on bioavailability.
 The amount of testosterone remaining in the outer layers of the skin at the application site on the 7th day was assessed using a tape stripping procedure and was reduced by at least 80% after showering 2-10 hours post-dose compared to on the 6th day when no shower was taken after drug application.
 
+Effect of hand washing
+
+In a randomized, open-label, single-dose, 2-way crossover study in 16 healthy male subjects, the effect of hand washing on the amount of residual testosterone on the hands was evaluated.
+Subjects used their hands to apply the maximum dose (81 mg testosterone) of AndroGel 1.62% to their upper arms and shoulders.
+Within 1 minute of applying the gel, subjects either washed or did not wash their hands prior to study personnel wiping the subjects’ hands with ethanol dampened gauze pads.
+The gauze pads were then analyzed for residual testosterone content.
+A mean (SD) of 0.1 (0.04) mg of residual testosterone (0.12% of the actual applied dose of testosterone, and a 96% reduction compared to when hands were not washed) was recovered after washing hands with water and soap.
+
 Effect of sunscreen or moisturizing lotion on absorption of testosterone
 
 In a randomized, 3-way (3 treatment periods without washout period) crossover study in 18 hypogonadal males, the effect of applying a moisturizing lotion or a sunscreen on the absorption of testosterone was evaluated with the upper arms/shoulders as application sites.

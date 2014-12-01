@@ -26,7 +26,7 @@ The application site and dose of AndroGel 1.62% are not interchangeable with oth
 ## 2.2 Administration Instructions
 
 AndroGel 1.62% should be applied to clean, dry, intact skin of the upper arms and shoulders.
-Do not apply AndroGel 1.62% to any other parts of the body, including the abdomen or genitals [see Clinical Pharmacology (12.3)].
+Do not apply AndroGel 1.62% to any other parts of the body, including the abdomen, genitals, chest, armpits (axillae), or knees [see Clinical Pharmacology (12.3)].
 Area of application should be limited to the area that will be covered by the patient's short sleeve t-shirt.
 Patients should be instructed to use the palm of the hand to apply AndroGel 1.62% and spread across the maximum surface area as directed in Table 2 (for pump) and Table 3 (for packets) and in Figure 1.
 

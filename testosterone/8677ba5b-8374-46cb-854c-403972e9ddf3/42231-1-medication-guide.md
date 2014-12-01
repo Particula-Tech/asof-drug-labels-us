@@ -96,7 +96,7 @@ How should I use ANDROGEL 1.62%?
 - Your healthcare provider may change your ANDROGEL 1.62% dose.
   Do not change your ANDROGEL 1.62% dose without talking to your healthcare provider.
 - ANDROGEL 1.62% is to be applied to the area of your shoulders and upper arms that will be covered by a short sleeve t-shirt.
-  Do not apply ANDROGEL 1.62% to any other parts of your body such as your stomach area (abdomen), penis, or scrotum.
+  Do not apply ANDROGEL 1.62% to any other parts of your body such as your stomach area (abdomen), penis, scrotum, chest, armpits (axillae), or knees.
 - Apply ANDROGEL 1.62% at the same time each morning.
   ANDROGEL 1.62% should be applied after showering or bathing.
 - Wash your hands right away with soap and water after applying ANDROGEL 1.62%.
@@ -111,6 +111,8 @@ ANDROGEL 1.62% comes in a pump or in packets.
 
 - Before applying ANDROGEL 1.62% make sure that your shoulders and upper arms are clean, dry, and that there is no broken skin.
 - The application sites for ANDROGEL 1.62% are the upper arms and shoulders that will be covered by a short sleeve t-shirt (See Figure A).
+
+(Figure A)
 
 If you are using ANDROGEL 1.62% pump:
 
@@ -229,4 +231,4 @@ AbbVie Inc. North Chicago, IL 60064, USA
 
 © 2014 AbbVie Inc.
 
-A090630057538-Revised June, 2014
+A090630058411 November, 2014
