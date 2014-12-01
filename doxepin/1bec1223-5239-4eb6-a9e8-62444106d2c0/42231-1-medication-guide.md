@@ -127,7 +127,7 @@ You may report side effects to the FDA at 1-800-FDA-1088.
 
 How should I store SILENOR?
 
-- Store SILENOR between 68° and 77° F (20º to 25ºC).
+- Store SILENOR between 68° and 77° F (20° to 25°C).
 - Keep SILENOR in a tightly closed container, and away from light.
   Safely throw away medicine that is out of date or no longer needed.
 - Keep SILENOR and all medicines out of the reach of children.
@@ -143,7 +143,7 @@ This Medication Guide summarizes the most important information about SILENOR.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about SILENOR that is written for healthcare professionals.
 
-For more information, contact Somaxon Pharmaceuticals, Inc. at 1-877-SILENOR (745-3667) or visit http://www.silenor.com.
+For more information, contact Pernix Therapeutics, LLC. at 1-877-SILENOR (745-3667) or visit http://www.silenor.com.
 
 What are the ingredients in SILENOR?
 
@@ -153,6 +153,8 @@ Inactive Ingredients: Microcrystalline cellulose, colloidal silicon dioxide, and
 The 3 mg tablet also contains FD&C Blue No. 1.
 The 6 mg tablet also contains FD&C Yellow No. 10 and FD&C Blue No. 1.
 
-Manufactured for: Somaxon Pharmaceuticals, Inc. San Diego, CA 92130 USA
+Manufactured for: Pernix Therapeutics, LLC Morristown, NJ 07960 USA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+SIL-0030.03.P1A 09/14

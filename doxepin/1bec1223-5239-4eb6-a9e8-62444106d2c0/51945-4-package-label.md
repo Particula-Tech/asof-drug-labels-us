@@ -1,23 +1,19 @@
-PRINCIPAL DISPLAY PANEL - 3mg Tablet Carton
-
-NDC 42847-103-03
-
-30 tablets Rx Only
+PRINCIPAL DISPLAY PANEL - 3 mg Tablet Bottle Label
 
 3mg
 
-Silenor® doxepin tablets
-
-30262
-
-PRINCIPAL DISPLAY PANEL - 6mg Tablet Carton
-
-NDC 42847-106-03
-
 30 tablets Rx Only
+
+silenor® doxepin tablets
+
+NDC 42847-103-30
+
+PRINCIPAL DISPLAY PANEL - 6 mg Tablet Bottle Label
 
 6mg
 
-Silenor® doxepin tablets
+30 tablets Rx Only
 
-30258
+silenor® doxepin tablets
+
+NDC 42847-106-30
