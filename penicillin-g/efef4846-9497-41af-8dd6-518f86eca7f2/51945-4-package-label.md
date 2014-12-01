@@ -34,6 +34,24 @@ LOT EXP
 
 Distributed by Roerig Division of Pfizer Inc, NY, NY 10017 NOVAPLUS is a registered trademark of Novation, LLC
 
+# PRINCIPAL DISPLAY PANEL - 20 Million Unit Vial Label
+
+Buffered NDC 0049-0530-22
+
+Pfizerpen® (penicillin G potassium)
+
+TWENTY MILLION UNITS 20
+
+For Injection
+
+FOR INTRAVENOUS INFUSION ONLY
+
+Rx ONLY
+
+NOVAPLUS®
+
+Distributed by Roerig Division of Pfizer Inc, NY, NY 10017 NOVAPLUS is a registered trademark of Novation, LLC
+
 # PRINCIPAL DISPLAY PANEL - 20 Million Unit Carton
 
 Buffered NDC 0049-0530-22
