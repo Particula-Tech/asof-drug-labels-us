@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -42,7 +42,7 @@ Similar results were obtained in patients receiving amlodipine and concomitant b
 In clinical studies in which amlodipine was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed.
 In clinical trials with angina patients alone, amlodipine therapy did not alter electrocardiographic intervals or produce higher degrees of AV blocks.
 
-## 12.4 Pharmacokinetics and Metabolism
+## 12.3 Pharmacokinetics and Metabolism
 
 After oral administration of therapeutic doses of amlodipine, absorption produces peak plasma concentrations between 6 and 12 hours.
 Absolute bioavailability has been estimated to be between 64 and 90%.
@@ -59,7 +59,7 @@ Patients with renal failure may therefore receive the usual initial dose.
 Elderly patients and patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40–60%, and a lower initial dose may be required.
 A similar increase in AUC was observed in patients with moderate to severe heart failure.
 
-## 12.5 Pediatric Patients
+## 12.4 Pediatric Patients
 
 Sixty-two hypertensive patients aged 6 to 17 years received doses of amlodipine between 1.25 mg and 20 mg.
 Weight adjusted clearance and volume of distribution were similar to values in adults.

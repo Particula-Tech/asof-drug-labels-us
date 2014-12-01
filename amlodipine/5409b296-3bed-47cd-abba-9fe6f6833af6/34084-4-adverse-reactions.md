@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Trials Experience
 
@@ -31,7 +31,7 @@ Other adverse reactions that were not clearly dose related but were reported wit
 
 For several adverse experiences that appear to be drug and dose related, there was a greater incidence in women than men associated with amlodipine treatment as shown in the following table:
 
-|  | Amlodi | pine | Pla | cebo |
+|  | Amlodipine |  | Placebo |  |
 | --- | --- | --- | --- | --- |
 |  | Male=% (N=1218) | Female=% (N=512) | Male=% (N=914) | Female=% (N=336) |
 | Edema | 5.6 | 14.6 | 1.4 | 5.1 |

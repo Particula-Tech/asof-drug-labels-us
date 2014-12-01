@@ -3,7 +3,7 @@
     "ANDA077073"
   ],
   "inn": "amlodipine",
-  "labeler": "Cipla Limited",
+  "labeler": "Cipla USA Inc.",
   "package_ndcs": [
     "69097-126-05",
     "69097-126-15",
@@ -15,7 +15,7 @@
   "products": [
     {
       "form": "TABLET",
-      "generic": "amlodipine besylate tablet",
+      "generic": "amlodipine besylate",
       "name": "AMLODIPINE BESYLATE"
     }
   ],

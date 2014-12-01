@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Amlodipine besylate is the besylate salt of amlodipine, a long-acting calcium channel blocker.
 
