@@ -1,4 +1,6 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+ZITHROMAX is supplied in the following strengths and package configurations:
 
 ZITHROMAX 250 mg tablets are supplied as pink modified capsular shaped, engraved, film-coated tablets containing azithromycin dihydrate equivalent to 250 mg of azithromycin.
 ZITHROMAX 250 mg tablets are engraved with "PFIZER" on one side and "306" on the other.
@@ -30,9 +32,7 @@ ZITHROMAX for oral suspension is supplied to provide 100 mg/5 mL or 200 mg/5 mL 
 | 900 mg | 0069-3130-19 |
 | 1200 mg | 0069-3140-19 |
 
-See DOSAGE AND ADMINISTRATION for constitution instructions with each bottle type.
+[see Dosage and Administration (2)] for constitution instructions with each bottle type.
 
-## Storage
-
-Store dry powder below 30°C (86°F).
+Storage: Store dry powder below 30°C (86°F).
 Store constituted suspension between 5° to 30°C (41° to 86°F) and discard when full dosing is completed.
