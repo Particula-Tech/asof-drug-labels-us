@@ -2,7 +2,7 @@ Principal Display Panel
 
 NDC 0173-0809-13
 
-JalynTM
+Jalyn®
 
 (dutasteride and tamsulosin HCl)
 
@@ -35,7 +35,7 @@ Research Triangle Park, NC 27709
 
 Made in Germany
 
-JALYN is a trademark of GlaxoSmithKline.
+JALYN is a trademark of the GSK group of companies.
 
-A394780 Rev.
-7/13
+A414415 Rev.
+7/14
