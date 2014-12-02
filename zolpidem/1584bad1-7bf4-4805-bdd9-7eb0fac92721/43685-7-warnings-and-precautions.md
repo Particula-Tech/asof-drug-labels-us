@@ -7,7 +7,7 @@ Co-administration with other CNS depressants (e.g., benzodiazepines, opioids, tr
 Dosage adjustments of zolpidem tartrate tablets and of other concomitant CNS depressants may be necessary when zolpidem tartrate tablets are administered with such agents because of the potentially additive effects.
 The use of zolpidem tartrate tablets with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended [see Dosage and Administration (2.3)].
 
-The risk of next-day psychomotor impairment, including impaired driving, is increased if zolpidem tartrate tablets are taken with less than a full night of sleep remaining (7- to 8 hours); if a higher than the recommended dose is taken; if co-administered with other CNS depressants; or if co-administered with other drugs that increase the blood levels of zolpidem.
+The risk of next-day psychomotor impairment, including impaired driving, is increased if zolpidem tartrate tablets are taken with less than a full night of sleep remaining (7 to 8 hours); if a higher than the recommended dose is taken; if co-administered with other CNS depressants; or if co-administered with other drugs that increase the blood levels of zolpidem.
 Patients should be cautioned against driving and other activities requiring complete mental alertness if zolpidem tartrate tablets are taken in these circumstances [see Dosage and Administration (2) and Clinical Studies (14.3)].
 
 ## 5.2 Need to Evaluate for Co-Morbid Diagnoses
@@ -62,3 +62,8 @@ The risk of respiratory depression should be considered prior to prescribing zol
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
 Monitor patients for tolerance, abuse, and dependence [see Drug Abuse and Dependence (9.2) and (9.3)].
+
+## 5.8 Severe Injuries
+
+Zolpidem can cause drowsiness and a decreased level of consciousness, which may lead to falls and consequently to severe injuries.
+Severe injuries such as hip fractures and intracranial hemorrhage have been reported.

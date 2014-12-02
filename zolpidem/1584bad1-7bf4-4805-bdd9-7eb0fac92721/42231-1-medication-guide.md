@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-Zolpidem Tartrate Tablets, USP C-IV
+Zolpidem Tartrate (zole-PI-dem TAR-trate) Tablets, USP C-IV
 
 Read the Medication Guide that comes with zolpidem tartrate tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -36,7 +36,7 @@ Call your healthcare provider right away if you find out that you have done any 
 Do not take zolpidem tartrate tablets if you:
 
 - drank alcohol that evening or before bed
-- took another medicine to help you sleep
+- took another medicine to help you sleep.
 
 What are zolpidem tartrate tablets?
 
@@ -98,7 +98,7 @@ How should I take zolpidem tartrate tablets?
 
 What are the possible side effects of zolpidem tartrate tablets?
 
-Zolpidem tartrate tablets may cause serious side effects, include:
+Zolpidem tartrate tablets may cause serious side effects, including:
 
 - getting out of bed while not being fully awake and do an activity that you do not know you are doing.
   See "What is the most important information I should know about zolpidem tartrate tablets?
@@ -107,9 +107,12 @@ Zolpidem tartrate tablets may cause serious side effects, include:
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
 - memory loss
 - anxiety
-- severe allergic reactions.
-  Symptoms include swelling of the tongue or throat, and trouble breathing.
-  Get emergency medical help if you get these symptoms after taking zolpidem tartrate tablets.
+
+severe allergic reactions.
+Symptoms include swelling of the tongue or throat, and trouble breathing.
+Get emergency medical help if you get these symptoms after taking zolpidem tartrate tablets.
+
+- falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate tablets.
 
@@ -150,7 +153,7 @@ You may report side effects to FDA at 1–800–FDA–1088.
 
 How should I store zolpidem tartrate tablets?
 
-- Store at 20°-25°C (68°-77°F); excursions permitted to 15° - 30°C (59°- 86°F) [see USP Controlled Room Temperature].
+- Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Keep zolpidem tartrate tablets and all medicines out of reach of children.
 
@@ -186,4 +189,4 @@ For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8044984 Revised January 2014
+8052217 Revised November 2014
