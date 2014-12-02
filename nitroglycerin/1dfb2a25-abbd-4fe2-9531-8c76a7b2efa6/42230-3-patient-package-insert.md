@@ -50,8 +50,8 @@ by Dynamit Nobel GmbH, Leverkusen, Germany
 
 Marketed and Distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 USA
 
-NitroMist is a registered trademark of NovaDel Pharma Inc., used by permission.
+NitroMist is a registered trademark of Mist Pharmaceuticals, LLC, used by permission.
 
 NDC 24090-410-08 NDC 24090-410-04
 
-141P004 Revised 05/2011
+141P005 Revised 04/2014

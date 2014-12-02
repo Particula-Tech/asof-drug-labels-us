@@ -38,6 +38,6 @@ Manufactured for Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 by Dynamit Nobe
 
 Marketed and Distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 USA
 
-NitroMist is a registered trademark of NovaDel Pharma Inc., used by permission.
+NitroMist is a registered trademark of Mist Pharmaceuticals, LLC, used by permission.
 
-141F006 Revised 02/2012
+141F007 Revised 04/2014
