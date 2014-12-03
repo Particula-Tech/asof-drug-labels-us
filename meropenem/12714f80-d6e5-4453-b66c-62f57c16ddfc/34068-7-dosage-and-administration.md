@@ -22,7 +22,7 @@ Females: 0.85 x above value
 Recommended Meropenem for injection (I.V.)
 Dosage Schedule for Adult Patients With Renal Impairment
 
-| Creatinine Clearance(mL/min) | Dose (dependent on type of infection) | Dosing Interval |
+| Creatinine Clearance (mL/min) | Dose (dependent on type of infection) | Dosing Interval |
 | --- | --- | --- |
 | > 50 | Recommended dose (500 mg cSSSI and 1 g Intra-abdominal) | Every 8 hours |
 | > 25-50 | Recommended dose | Every 12 hours |
@@ -55,7 +55,8 @@ There is no experience in pediatric patients with renal impairment.
 
 For Intravenous Bolus Administration
 
-Constitute injection vials (500 mg and 1 g) with sterile Water for Injection (see table below.)
+Constitute injection vials (500 mg and 1 g) with sterile Water for Injection.
+(see table below.)
 Shake to dissolve and let stand until clear.
 
 | Vial size | Amount of Diluent Added (mL) | Approximate Withdrawable Volume (mL) | Approximate Average Concentration (mg/mL) |
@@ -83,7 +84,7 @@ Solutions of intravenous Meropenem should not be frozen.
 
 Intravenous Bolus Administration
 
-Meropenem injection vials constituted with sterile Water for Injection for bolus administration (up to 50 mg/mL of Meropenem) may be stored for up to 2 hours at controlled room temperature 15-25°C (59-77°F) or for up to 12 hours at 4°C (39°F).
+Meropenem injection vials constituted with sterile Water for injection for bolus administration (up to 50 mg/mL of Meropenem) may be stored for up to 2 hours at controlled room temperature 15-25°C (59-77°F) or for up to 12 hours at 4°C (39°F).
 
 Intravenous Infusion Administration
 

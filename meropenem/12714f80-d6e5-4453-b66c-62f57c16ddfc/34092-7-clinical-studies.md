@@ -15,7 +15,7 @@ The following table provides the results for the overall as well as subgroup com
 
 | Success Rate1 |  |  |
 | --- | --- | --- |
-| Population | Meropenem for injection (I.V.)N2/N3 (%) | Imipenem-cilastatinN2/N3 (%) |
+| Population | Meropenem for injection (I.V.) n2/N3 (%) | Imipenem-cilastatin n2/N3 (%) |
 | Total | 225/261 (86) | 238/287 (83) |
 | Diabetes mellitus | 83/97 (86) | 76/105 (72) |
 | No diabetes mellitus | 142/164 (87) | 162/182 (89) |
@@ -33,10 +33,10 @@ The following table provides the results for the overall as well as subgroup com
 The following clinical efficacy rates were obtained, per organism.
 The values represent the number of patients clinically cured/number of clinically evaluable patients at the post-treatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
 
-| MICROORGANISMS1 | Meropenem for injection (I.V.)N2 /N3 (%)4 | Imipenem-cilastatinN2/N3 (%)4 |
+| MICROORGANISMS1 | Meropenem for injection (I.V.) n2/N3 (%)4 | Imipenem-cilastatin n2/N3 (%)4 |
 | --- | --- | --- |
 | Gram-positive aerobes |  |  |
-| Staphylococcus aureus,methicillin susceptible | 82/88 (93) | 84/100 (84) |
+| Staphylococcus aureus, methicillin susceptible | 82/88 (93) | 84/100 (84) |
 | Streptococcus pyogenes (Group A) | 26/29 (90) | 28/32 (88) |
 | Streptococcus agalactiae (Group B) | 12/17 (71) | 16/19 (84) |
 | Enterococcus faecalis | 9/12 (75) | 14/20 (70) |
@@ -114,7 +114,7 @@ In the Meropenem for injection (I.V.) treated group, 12/15 patients with seizure
 With respect to hearing loss, 263 of the 271 evaluable patients had at least one hearing test performed post-therapy.
 The following table shows the degree of hearing loss between the meropenem-treated patients and the comparator-treated patients.
 
-| Degree of Hearing Loss(in one or both ears) | Meropenemn = 128 | Comparatorn = 135 |
+| Degree of Hearing Loss (in one or both ears) | Meropenem n = 128 | Comparator n = 135 |
 | --- | --- | --- |
 | No loss | 61% | 56% |
 | 20-40 decibels | 20% | 24% |

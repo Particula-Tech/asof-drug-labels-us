@@ -11,7 +11,7 @@
   Valproic acid concentrations in the blood may drop below the therapeutic range upon co-administration with Meropenem for injection (I.V.).
   If treatment with Meropenem for injection (I.V.) is necessary and continued, alternative or supplemental anti-convulsant medication to prevent and/or treat seizures may be needed [see Warnings and Precautions (5.3)].
 - Patients receiving Meropenem for injection (I.V.) on an outpatient basis may develop adverse events such as seizures, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
-  Until it is reasonably well established that Meropenem for injection (I.V.) is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.10)]
+  Until it is reasonably well established that Meropenem for injection (I.V.) is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.10)].
 
 NORMOSOL is a registered trademark of Hospira Inc.
 
@@ -23,10 +23,4 @@ Fresenius Kabi USA, LLC
 
 Lake Zurich, IL 60047
 
-Made in Italy
-
-451304A
-
-Revised: July 2013
-
-NOVAPLUS®
+February 2014 NOVAPLUS®

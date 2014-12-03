@@ -22,11 +22,9 @@ The plasma protein binding of meropenem is approximately 2%.
 Meropenem penetrates well into most body fluids and tissues including cerebrospinal fluid, achieving concentrations matching or exceeding those required to inhibit most susceptible bacteria.
 After a single intravenous dose of Meropenem for injection (I.V.), the highest mean concentrations of meropenem were found in tissues and fluids at 1 hour (0.5 to 1.5 hours) after the start of infusion, except where indicated in the tissues and fluids listed in the table below.
 
-Table 1.
-Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
-
-| Tissue | I.V. Dose (g) | Number of Samples | Mean [mcg/mL or mcg/(g)]1 | Range [mcg/mL or mcg/(g)] |
+| Table 1. Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported) |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| Tissue | I.V. Dose (g) | Number of Samples | Mean [mcg/mL or mcg/(g)]1 | Range [mcg/mL or mcg/(g)] |
 | Endometrium | 0.5 | 7 | 4.2 | 1.7-10.2 |
 | Myometrium | 0.5 | 15 | 3.8 | 0.4-8.1 |
 | Ovary | 0.5 | 8 | 2.8 | 0.8-4.8 |
@@ -46,7 +44,7 @@ Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
 | Fascia | 1 | 9 | 8.8 | 1.5-20 |
 | Heart valves | 1 | 7 | 9.7 | 6.4-12.1 |
 | Myocardium | 1 | 10 | 15.5 | 5.2-25.5 |
-| CSF (inflamed) | 20 mg/kg340 mg/kg4 | 85 | 1.1 (2 h)3.3 (3 h) | 0.2-2.80.9-6.5 |
+| CSF (inflamed) | 20 mg/kg3 40 mg/kg4 | 8 5 | 1.1 (2 h) 3.3 (3 h) | 0.2-2.8 0.9-6.5 |
 | CSF (uninflamed) | 1 | 4 | 0.2 (2 h) | 0.1-0.3 |
 
 1 at 1 hour unless otherwise noted
@@ -167,7 +165,7 @@ Bacteroides thetaiotaomicron
 Peptostreptococcus species
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90% of the following bacteria have exhibited in vitro minimum inhibitory concentrations (MICs) less than or equal to the susceptible breakpoints for meropenem.
+At least 90% of the following bacteria have exhibited in vitro minimum inhibitory concentrations (MIC) less than or equal to the susceptible breakpoints for meropenem.
 However, the safety and effectiveness of meropenem in treating clinical infections due to these bacteria have not been established in adequate and well-controlled trials.
 
 Gram-positive bacteria
@@ -253,11 +251,11 @@ The disk diffusion interpretive criteria are provided in Table 2.
 
 Anaerobic Techniques:
 
-For anaerobic bacteria, the susceptibility to meropenem as MICs can be determined by a standardized test method.2,4 The MIC values obtained should be interpreted according to the criteria provided in Table 2.
+For anaerobic bacteria, the susceptibility to meropenem as MICs can be determined by a standardized test method.2 The MIC values obtained should be interpreted according to the criteria provided in Table 2.
 
 | Table 2. Susceptibility Interpretive Criteria for Meropenem |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion(zone diameters in mm) |  |  |
+|  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
 | Pathogen | S | I | R | S | I | R |
 | Enterobacteriaceae, | ≤ 1 | 2 | ≥ 4 | ≥ 23 | 20-22 | ≤ 19 |
 | Pseudomonas aeruginosa | ≤ 4 | 8 | ≥ 16 | ≥ 16 | 14-15 | ≤ 13 |
@@ -297,21 +295,19 @@ Quality Control
 Standardized susceptibility test procedures require the use of quality controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.
 Standard meropenem powder should provide the following range of values noted in Table 3.
 
-Table 3.
-Acceptable Quality Control Ranges for Meropenem
-
-| QC Strain | Minimum Inhibitory Concentrations (MICs = mcg/mL) | Disk Diffusion(Zone diameters in mm) |
+| Table 3. Acceptable Quality Control Ranges for Meropenem |  |  |
 | --- | --- | --- |
-| Staphylococcus aureusATCC 29213 | 0.03-0.12 | ___________ |
-| Staphylococcus aureusATCC 25923 | ______________ | 29-37 |
-| Streptococcus pneumoniaeATCC 49619 | 0.06-0.25 | 28-35 |
-| Enterococcus faecalisATCC 29212 | 2-8 |  |
-| Escherichia coliATCC 25922 | 0.008-0.06 | 28-34 |
-| Haemophilus influenzaeATCC 49766 | 0.03-0.12 |  |
-| Haemophilus influenzaeATCC 49247 | ________________ | 20-28 |
-| Pseudomonas aeruginosaATCC 27853 | 0.25-1 | 27-33 |
-| Bacteroides fragilis1ATCC 25285 | 0.03-0.25 |  |
-| Bacteroides thetaiotaomicron1ATCC 29741 | 0.125-0.5 |  |
-| Eubacterium lentum1ATCC 43055 | 0.125-1 |  |
+| QC Strain | Minimum Inhibitory Concentrations (MICs = mcg/mL) | Disk Diffusion (Zone diameters in mm) |
+| Staphylococcus aureus ATCC 29213 | 0.03-0.12 | ___________ |
+| Staphylococcus aureus ATCC 25923 | ______________ | 29-37 |
+| Streptococcus pneumoniae ATCC 49619 | 0.06-0.25 | 28-35 |
+| Enterococcus faecalis ATCC 29212 | 2-8 |  |
+| Escherichia coli ATCC 25922 | 0.008-0.06 | 28-34 |
+| Haemophilus influenzae ATCC 49766 | 0.03-0.12 |  |
+| Haemophilus influenzae ATCC 49247 | ________________ | 20-28 |
+| Pseudomonas aeruginosa ATCC 27853 | 0.25-1 | 27-33 |
+| Bacteroides fragilis1 ATCC 25285 | 0.03-0.25 |  |
+| Bacteroides thetaiotaomicron1 ATCC 29741 | 0.125-0.5 |  |
+| Eubacterium lentum1 ATCC 43055 | 0.125-1 |  |
 
 1Using the Reference Agar Dilution procedure.
