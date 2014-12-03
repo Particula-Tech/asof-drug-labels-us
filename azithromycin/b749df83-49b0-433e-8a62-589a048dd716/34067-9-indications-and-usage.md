@@ -1,24 +1,21 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Zithromax (azithromycin) and other antibacterial drugs, Zithromax (azithromycin) should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ZITHROMAX and other antibacterial drugs, ZITHROMAX should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-ZITHROMAX (azithromycin) is indicated for the treatment of MAC infection and prophylaxis against MAC Infection (pneumonia: see WARNINGS) caused by susceptible isolates.
+ZITHROMAX is a macrolide antibacterial drug indicated for the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below.
 
-## Treatment of Disseminated Mycobacterium avium complex (MAC) Disease
+## 1.1 Sexually Transmitted Diseases
 
-ZITHROMAX, taken in combination with ethambutol, is indicated for the treatment of disseminated MAC infections in persons with advanced HIV infection (See DOSAGE AND ADMINISTRATION, CLINICAL STUDIES).
+Non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis
 
-## Prophylaxis of Disseminated Mycobacterium avium complex (MAC) Disease
+## 1.2 Mycobacterial Infections
 
-ZITHROMAX, taken alone or in combination with rifabutin at its approved dose, is indicated for the prevention of disseminated MAC disease in persons with advanced HIV infection (See DOSAGE AND ADMINISTRATION, CLINICAL STUDIES).
+Prophylaxis of Disseminated Mycobacterium avium complex (MAC) Disease
 
-## Sexually Transmitted Diseases
+ZITHROMAX, taken alone or in combination with rifabutin at its approved dose, is indicated for the prevention of disseminated MAC disease in persons with advanced HIV infection [see Dosage and Administration (2)].
 
-Non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis.
+Treatment of Disseminated MAC Disease
 
-ZITHROMAX, at the recommended dose, should not be relied upon to treat gonorrhea or syphilis.
-Antimicrobial agents used in high doses for short periods of time to treat non-gonococcal urethritis may mask or delay the symptoms of incubating gonorrhea or syphilis.
-All patients with sexually-transmitted urethritis or cervicitis should have a serologic test for syphilis and appropriate cultures for gonorrhea performed at the time of diagnosis.
-Appropriate antimicrobial therapy and follow-up tests for these diseases should be initiated if infection is confirmed.
+ZITHROMAX, taken in combination with ethambutol, is indicated for the treatment of disseminated MAC infections in persons with advanced HIV infection [see Use in Specific Populations (8.4) and Clinical Studies (14.1)].

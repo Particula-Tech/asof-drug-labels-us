@@ -1,20 +1,22 @@
-# CLINICAL STUDIES IN PATIENTS WITH ADVANCED HIV INFECTION FOR THE PREVENTION AND TREATMENT OF DISEASE DUE TO DISSEMINATED MYCOBACTERIUM AVIUM COMPLEX (MAC)
+# 14 CLINICAL STUDIES
 
-(See INDICATIONS AND USAGE)
+## 14.1 Clinical Studies in Patients with Advanced HIV Infection for the Prevention and Treatment of Disease Due to Disseminated MAC
 
-## Prevention of Disseminated MAC Disease
+[see Indications and Usage (1)]
 
-Two randomized, double blind clinical trials were performed in patients with CD4 counts <100 cells/µL.
-The first study (155) compared azithromycin (1200 mg once weekly) to placebo and enrolled 182 patients with a mean CD4 count of 35 cells/µL.
-The second study (174) randomized 723 patients to either azithromycin (1200 mg once weekly), rifabutin (300 mg daily) or the combination of both.
-The mean CD4 count was 51 cells/µL.
-The primary endpoint in these studies was disseminated MAC disease.
+Prevention of Disseminated MAC Disease
+
+Two randomized, double-blind clinical trials were performed in patients with CD4 counts <100 cells/µL.
+The first trial (Study 155) compared azithromycin (1200 mg once weekly) to placebo and enrolled 182 patients with a mean CD4 count of 35 cells/mcgL.
+The second trial (Study 174) randomized 723 patients to either azithromycin (1200 mg once weekly), rifabutin (300 mg daily), or the combination of both.
+The mean CD4 count was 51 cells/mcgL.
+The primary endpoint in these trials was disseminated MAC disease.
 Other endpoints included the incidence of clinically significant MAC disease and discontinuations from therapy for drug-related side effects.
 
-### MAC bacteremia
+MAC bacteremia
 
-In trial 155, 85 patients randomized to receive azithromycin and 89 patients randomized to receive placebo met study entrance criteria.
-Cumulative incidences at 6, 12 and 18 months of the possible outcomes are in the following table:
+In Study 155, 85 patients randomized to receive azithromycin and 89 patients randomized to receive placebo met the entrance criteria.
+Cumulative incidences at 6, 12, and 18 months of the possible outcomes are in the following table:
 
 | Cumulative Incidence Rate, %: Placebo (n=89) |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -28,12 +30,12 @@ Cumulative incidences at 6, 12 and 18 months of the possible outcomes are in the
 | 12 | 63.5 | 8.2 | 16.5 | 11.8 |
 | 18 | 44.7 | 11.8 | 25.9 | 17.6 |
 
-The difference in the one year cumulative incidence rates of disseminated MAC disease (placebo–azithromycin) is 10.9%.
-This difference is statistically significant (p=0.037) with a 95% confidence interval for this difference of (0.8%, 20.9%).
+The difference in the one-year cumulative incidence rates of disseminated MAC disease (placebo – azithromycin) is 10.9%.
+This difference is statistically significant (p=0.037) with a 95% confidence interval for this difference of 0.8%, 20.9%.
 The comparable number of patients experiencing adverse events and the fewer number of patients lost to follow-up on azithromycin should be taken into account when interpreting the significance of this difference.
 
-In trial 174, 223 patients randomized to receive rifabutin, 223 patients randomized to receive azithromycin, and 218 patients randomized to receive both rifabutin and azithromycin met study entrance criteria.
-Cumulative incidences at 6, 12 and 18 months of the possible outcomes are recorded in the following table:
+In Study 174, 223 patients randomized to receive rifabutin, 223 patients randomized to receive azithromycin, and 218 patients randomized to receive both rifabutin and azithromycin met the entrance criteria.
+Cumulative incidences at 6, 12, and 18 months of the possible outcomes are recorded in the following table:
 
 | Cumulative Incidence Rate, %: Rifabutin (n=223) |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -52,36 +54,36 @@ Cumulative incidences at 6, 12 and 18 months of the possible outcomes are record
 | 12 | 71.6 | 2.8 | 15.1 | 10.6 |
 | 18 | 49.1 | 6.4 | 29.4 | 15.1 |
 
-Comparing the cumulative one year incidence rates, azithromycin monotherapy is at least as effective as rifabutin monotherapy.
-The difference (rifabutin–azithromycin) in the one year rates (7.6%) is statistically significant (p=0.022) with an adjusted 95% confidence interval (0.9%, 14.3%).
+Comparing the cumulative one-year incidence rates, azithromycin monotherapy is at least as effective as rifabutin monotherapy.
+The difference (rifabutin – azithromycin) in the one-year rates (7.6%) is statistically significant (p=0.022) with an adjusted 95% confidence interval (0.9%, 14.3%).
 Additionally, azithromycin/rifabutin combination therapy is more effective than rifabutin alone.
-The difference (rifabutin–azithromycin/rifabutin) in the cumulative one year incidence rates (12.5%) is statistically significant (p<0.001) with an adjusted 95% confidence interval of (6.6%, 18.4%).
+The difference (rifabutin – azithromycin/rifabutin) in the cumulative one-year incidence rates (12.5%) is statistically significant (p<0.001) with an adjusted 95% confidence interval of 6.6%, 18.4%.
 The comparable number of patients experiencing adverse events and the fewer number of patients lost to follow-up on rifabutin should be taken into account when interpreting the significance of this difference.
 
-In Study 174, sensitivity testing4 was performed on all available MAC isolates from subjects randomized to either azithromycin, rifabutin or the combination.
-The distribution of MIC values for azithromycin from susceptibility testing of the breakthrough isolates was similar between study arms.
+In Study 174, sensitivity testing5 was performed on all available MAC isolates from subjects randomized to either azithromycin, rifabutin, or the combination.
+The distribution of MIC values for azithromycin from susceptibility testing of the breakthrough isolates was similar between trial arms.
 As the efficacy of azithromycin in the treatment of disseminated MAC has not been established, the clinical relevance of these in vitro MICs as an indicator of susceptibility or resistance is not known.
 
-### Clinically Significant Disseminated MAC Disease
+Clinically Significant Disseminated MAC Disease
 
-In association with the decreased incidence of bacteremia, patients in the groups randomized to either azithromycin alone or azithromycin in combination with rifabutin showed reductions in the signs and symptoms of disseminated MAC disease, including fever or night sweats, weight loss and anemia.
+In association with the decreased incidence of bacteremia, patients in the groups randomized to either azithromycin alone or azithromycin in combination with rifabutin showed reductions in the signs and symptoms of disseminated MAC disease, including fever or night sweats, weight loss, and anemia.
 
-### Discontinuations From Therapy For Drug-Related Side Effects
+Discontinuations from Therapy for Drug-Related Side Effects
 
 In Study 155, discontinuations for drug-related toxicity occurred in 8.2% of subjects treated with azithromycin and 2.3% of those given placebo (p=0.121).
 In Study 174, more subjects discontinued from the combination of azithromycin and rifabutin (22.7%) than from azithromycin alone (13.5%; p=0.026) or rifabutin alone (15.9%; p=0.209).
 
-### Safety
+Safety
 
-As these patients with advanced HIV disease were taking multiple concomitant medications and experienced a variety of intercurrent illnesses, it was often difficult to attribute adverse events to study medication.
-Overall, the nature of side effects seen on the weekly dosage regimen of azithromycin over a period of approximately one year in patients with advanced HIV disease was similar to that previously reported for shorter course therapies.
+As these patients with advanced HIV disease were taking multiple concomitant medications and experienced a variety of intercurrent illnesses, it was often difficult to attribute adverse reactions to study medication.
+Overall, the nature of adverse reactions seen on the weekly dosage regimen of azithromycin over a period of approximately one year in patients with advanced HIV disease were similar to that previously reported for shorter course therapies.
 
-INCIDENCE OF ONE OR MORE TREATMENT RELATEDIncludes those events considered possibly or probably related to study drug ADVERSE EVENTS>2% adverse event rates for any group (except uveitis).
-IN HIV INFECTED PATIENTS RECEIVING PROPHYLAXIS FOR DISSEMINATED MAC OVER APPROXIMATELY 1 YEAR
+INCIDENCE OF ONE OR MORE TREATMENT-RELATEDIncludes those reactions considered possibly or probably related to study drug ADVERSE REACTIONS>2% adverse reaction rates for any group (except uveitis) IN HIV INFECTED PATIENTS RECEIVING PROPHYLAXIS FOR DISSEMINATED MAC OVER APPROXIMATELY 1 YEAR
 
-|  | Placebo (N=91) | Azithromycin 1200 mg weekly (N=89) | Azithromycin 1200 mg weekly (N=233) | Rifabutin 300 mg daily (N=236) | Azithromycin + Rifabutin (N=224) |
+|  | (N=91) | (N=89) | (N=233) | (N=236) | (N=224) |
 | --- | --- | --- | --- | --- | --- |
 |  | Study 155 |  | Study 174 |  |  |
+|  | Placebo | Azithromycin 1200 mg weekly | Azithromycin 1200 mg weekly | Rifabutin 300 mg daily | Azithromycin + Rifabutin |
 | Mean Duration of Therapy (days) | 303.8 | 402.9 | 315 | 296.1 | 344.4 |
 | Discontinuation of Therapy | 2.3 | 8.2 | 13.5 | 15.9 | 22.7 |
 | Autonomic Nervous System |  |  |  |  |  |
@@ -115,73 +117,73 @@ IN HIV INFECTED PATIENTS RECEIVING PROPHYLAXIS FOR DISSEMINATED MAC OVER APPROXI
 | Uveitis | 0 | 0 | 0.4 | 1.3 | 1.8 |
 | Taste Perversion | 0 | 0 | 1.3 | 2.5 | 1.3 |
 
-Side effects related to the gastrointestinal tract were seen more frequently in patients receiving azithromycin than in those receiving placebo or rifabutin.
+Adverse reactions related to the gastrointestinal tract were seen more frequently in patients receiving azithromycin than in those receiving placebo or rifabutin.
 In Study 174, 86% of diarrheal episodes were mild to moderate in nature with discontinuation of therapy for this reason occurring in only 9/233 (3.8%) of patients.
 
-### Changes in Laboratory Values
+Changes in Laboratory Values
 
-In these immunocompromised patients with advanced HIV infection, it was necessary to assess laboratory abnormalities developing on study with additional criteria if baseline values were outside the relevant normal range.
+In these immunocompromised patients with advanced HIV infection, it was necessary to assess laboratory abnormalities developing on trial with additional criteria if baseline values were outside the relevant normal range.
 
-Prophylaxis Against Disseminated MAC Abnormal Laboratory Valuesexcludes subjects outside of the relevant normal range at baseline
+PROPHYLAXIS AGAINST DISSEMINATED MAC ABNORMAL LABORATORY VALUESexcludes subjects outside of the relevant normal range at baseline
 
-|  |  | Placebo |  | Azithromycin 1200 mg weekly |  | Rifabutin 300 mg daily |  | Azithromycin & Rifabutin |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Hemoglobin | <8 g/dl | 1/51 | 2% | 4/170 | 2% | 4/114 | 4% | 8/107 | 8% |
-| Platelet Count | <50 × 103/mm3 | 1/71 | 1% | 4/260 | 2% | 2/182 | 1% | 6/181 | 3% |
-| WBC Count | <1 × 103/mm3 | 0/8 | 0% | 2/70 | 3% | 2/47 | 4% | 0/43 | 0% |
-| Neutrophils | <500/mm3 | 0/26 | 0% | 4/106 | 4% | 3/82 | 4% | 2/78 | 3% |
-| SGOT | >5 × ULN=Upper Limit of Normal | 1/41 | 2% | 8/158 | 5% | 3/121 | 3% | 6/114 | 5% |
-| SGPT | >5 × ULN | 0/49 | 0% | 8/166 | 5% | 3/130 | 2% | 5/117 | 4% |
-| Alk Phos | >5 × ULN | 1/80 | 1% | 4/247 | 2% | 2/172 | 1% | 3/164 | 2% |
+|  |  | Placebo | Azithromycin 1200 mg weekly | Rifabutin 300 mg daily | Azithromycin & Rifabutin |
+| --- | --- | --- | --- | --- | --- |
+| Hemoglobin | <8 g/dL | 1/51 2% | 4/170 2% | 4/114 4% | 8/107 8% |
+| Platelet Count | <50 × 103/mm3 | 1/71 1% | 4/260 2% | 2/182 1% | 6/181 3% |
+| WBC Count | <1 × 103/mm3 | 0/8 0% | 2/70 3% | 2/47 4% | 0/43 0% |
+| Neutrophils | <500/mm3 | 0/26 0% | 4/106 4% | 3/82 4% | 2/78 3% |
+| SGOT | >5 × ULNUpper Limit of Normal | 1/41 2% | 8/158 5% | 3/121 3% | 6/114 5% |
+| SGPT | >5 × ULN | 0/49 0% | 8/166 5% | 3/130 2% | 5/117 4% |
+| Alk Phos | >5 × ULN | 1/80 1% | 4/247 2% | 2/172 1% | 3/164 2% |
 
-## Treatment of Disseminated MAC Disease
+Treatment of Disseminated MAC Disease
 
-One randomized, double blind clinical trial (Study 189) was performed in patients with disseminated MAC.
-In this trial, 246 HIV infected patients with disseminated MAC received either azithromycin 250 mg qd (N=65), azithromycin 600 mg qd (N=91) or clarithromycin 500 mg bid (N=90), each administered with ethambutol 15 mg/kg qd, for 24 weeks.
-Patients were cultured and clinically assessed every 3 weeks through week 12 and monthly thereafter through week 24.
-After week 24, patients were switched to any open label therapy at the discretion of the investigator and followed every 3 months through the last follow up visit of the trial.
+One randomized, double-blind clinical trial (Study 189) was performed in patients with disseminated MAC.
+In this trial, 246 HIV-infected patients with disseminated MAC received either azithromycin 250 mg daily (N=65), azithromycin 600 mg daily (N=91), or clarithromycin 500 mg twice a day (N=90), each administered with ethambutol 15 mg/kg daily, for 24 weeks.
+Blood cultures and clinical assessments were performed every 3 weeks through week 12 and monthly thereafter through week 24.
+After week 24, patients were switched to any open-label therapy at the discretion of the investigator and followed every 3 months through the last follow-up visit of the trial.
 Patients were followed from the baseline visit for a period of up to 3.7 years (median: 9 months).
-MAC isolates recovered during study treatment or post-treatment were obtained whenever possible.
+MAC isolates recovered during treatment or post-treatment were obtained whenever possible.
 
 The primary endpoint was sterilization by week 24.
 Sterilization was based on data from the central laboratory, and was defined as two consecutive observed negative blood cultures for MAC, independent of missing culture data between the two negative observations.
 Analyses were performed on all randomized patients who had a positive baseline culture for MAC.
 
-The azithromycin 250 mg arm was discontinued after an interim analysis at 12 weeks showed a significantly lower clearance of bacteremia compared to clarithromycin 500 mg bid.
+The azithromycin 250 mg arm was discontinued after an interim analysis at 12 weeks showed a significantly lower clearance of bacteremia compared to clarithromycin 500 mg twice a day.
+Efficacy results for the azithromycin 600 mg daily and clarithromycin 500 mg twice a day treatment regimens are described in the following table:
 
-Efficacy results for the azithromycin 600 mg qd and clarithromycin 500 mg bid treatment regimens are described in the following table:
+RESPONSE TO THERAPY OF PATIENTS TAKING ETHAMBUTOL AND EITHER AZITHROMYCIN 600 MG DAILY OR CLARITHROMYCIN 500 MG TWICE A DAY
 
-|  | Azithromycin 600 mg qd | Clarithromycin 500 mg bid | [95% confidence interval] on difference in rates (azithromycin-clarithromycin)95.1% CI on difference |
+|  | Azithromycin 600 mg daily | Clarithromycin 500 mg twice a day | [95% confidence interval] on difference in rates (azithromycin-clarithromycin)95.1% CI on difference |
 | --- | --- | --- | --- |
-| Response to therapy of patients taking ethambutol and either azithromycin 600 mg qd or clarithromycin 500 mg bid |  |  |  |
 | Patients with positive culture at baseline | 68 | 57 |  |
 | Week 24 |  |  |  |
 | Two consecutive negative blood culturesPrimary endpoint | 31/68 (46%) | 32/57 (56%) | [-28, 7] |
 | Mortality | 16/68 (24%) | 15/57 (26%) | [-18, 13] |
 
-The primary endpoint, rate of sterilization of blood cultures (two consecutive negative cultures) at 24 weeks, was lower in the azithromycin 600 mg qd group than in the clarithromycin 500 mg bid group.
+The primary endpoint, rate of sterilization of blood cultures (two consecutive negative cultures) at 24 weeks, was lower in the azithromycin 600 mg daily group than in the clarithromycin 500 mg twice a day group.
 
-## Sterilization by Baseline Colony Count
+Sterilization by Baseline Colony Count
 
 Within both treatment groups, the sterilization rates at week 24 decreased as the range of MAC cfu/mL increased.
 
-| ≤ 10 cfu/mL | 10/15 (66.7%) | 12/17 (70.6%) |
+| groups stratified by MAC colony counts at baseline | no. (%) subjects in stratified group sterile at week 24 | no. (%) subjects in stratified group sterile at week 24 |
 | --- | --- | --- |
-|  | Azithromycin 600 mg (N=68) | Clarithromycin 500 mg bid (N=57) |
-| Groups Stratified by MAC Colony Counts at Baseline | No. (%) Subjects in Stratified Group Sterile at Week 24 | No. (%) Subjects in Stratified Group Sterile at Week 24 |
+|  | Azithromycin 600 mg (N=68) | Clarithromycin 500 mg twice a day(N=57) |
+| ≤10 cfu/mL | 10/15 (66.7%) | 12/17 (70.6%) |
 | 11–100 cfu/mL | 13/28 (46.4%) | 13/19 (68.4%) |
 | 101–1,000 cfu/mL | 7/19 (36.8%) | 5/13 (38.5%) |
 | 1,001–10,000 cfu/mL | 1/5 (20.0%) | 1/5 (20%) |
 | >10,000 cfu/mL | 0/1 (0.0%) | 1/3 (33.3%) |
 
-## Susceptibility Pattern of MAC Isolates
+Susceptibility Pattern of MAC Isolates
 
 Susceptibility testing was performed on MAC isolates recovered at baseline, at the time of breakthrough on therapy or during post-therapy follow-up.
 The T100 radiometric broth method was employed to determine azithromycin and clarithromycin MIC values.
 Azithromycin MIC values ranged from <4 to >256 µg/mL and clarithromycin MICs ranged from <1 to >32 µg/mL.
-The individual MAC susceptibility results demonstrated that azithromycin MIC values could be 4 to 32 fold higher than clarithromycin MIC values.
+The individual MAC susceptibility results demonstrated that azithromycin MIC values could be 4 to 32-fold higher than clarithromycin MIC values.
 
-During study treatment and post-treatment follow up for up to 3.7 years (median: 9 months) in study 189, a total of 6/68 (9%) and 6/57 (11%) of the patients randomized to azithromycin 600 mg daily and clarithromycin 500 mg bid, respectively, developed MAC blood culture isolates that had a sharp increase in MIC values.
-All twelve MAC isolates had azithromycin MIC's ≥256 µg/mL and clarithromycin MIC's >32 µg/mL.
+During treatment and post-treatment follow-up for up to 3.7 years (median: 9 months) in Study 189, a total of 6/68 (9%) and 6/57 (11%) of the patients randomized to azithromycin 600 mg daily and clarithromycin 500 mg twice a day respectively, developed MAC blood culture isolates that had a sharp increase in MIC values.
+All twelve MAC isolates had azithromycin MICs ≥256 µg/mL and clarithromycin MICs >32 µg/mL.
 These high MIC values suggest development of drug resistance.
 However, at this time, specific breakpoints for separating susceptible and resistant MAC isolates have not been established for either macrolide.
