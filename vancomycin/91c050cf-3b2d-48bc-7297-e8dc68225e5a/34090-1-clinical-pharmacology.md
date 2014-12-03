@@ -42,34 +42,20 @@ Vancomycin has been shown to be active against most strains of the following mic
 
 Aerobic gram-positive microorganisms
 
-Diphtheroids
+Diphtheroids Enterococci (e.g., Enterococcus faecalis) Staphylococci, including Staphylococcus aureus and Staphylococcus epidermidis (including heterogeneous methicillin-resistant strains)
 
-Enterococci (e.g., Enterococcus faecalis)
-
-Staphylococci, including Staphylococcus aureus and Staphylococcus epidermidis (including heterogeneous methicillin-resistant strains)
-
-Streptococcus bovis
-
-Viridans group streptococci
+Streptococcus bovis Viridans group streptococci
 
 The following in vitro data are available, but their clinical significance is unknown.
 Vancomycin exhibits in vitro MIC’s of 1 mcg/mL or less against most (≥90%) strains of streptococci listed below and MIC’s of 4 mcg/mL or less against most (≥90%) strains of other listed microorganisms; however, the safety and effectiveness of vancomycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
 Aerobic gram-positive microorganisms
 
-Listeria monocytogenes
-
-Streptococcus pyogenes
-
-Streptococcus pneumoniae (including penicillin-resistant strains)
-
-Streptococcus agalactiae
+Listeria monocytogenes Streptococcus pyogenes Streptococcus pneumoniae (including penicillin-resistant strains) Streptococcus agalactiae
 
 Anaerobic gram-positive microorganisms
 
-Actinomyces species
-
-Lactobacillus species
+Actinomyces species Lactobacillus species
 
 Susceptibility Test Methods
 
@@ -99,10 +85,10 @@ Table 1: Susceptibility Test Interpretive Criteria for Vancomycin
 | --- | --- | --- | --- | --- | --- | --- |
 | Susceptible(S) | Intermediate(I) | Resistant(R) | Susceptible(S) | Intermediate(I) | Resistant(R) |  |
 | Enterococci | ≤4 | 8 – 16a | ≥32 | ≥17b | 15 – 16b | ≤14b |
-| Staphylococcus aureusc,d | ≤2 | 4 – 8 | ≥16 | –– | –– | –– |
-| Coagulase-negative staphylococcic,e | ≤4 | 8 – 16 | ≥32 | –– | –– | –– |
+| Staphylococcus aureus c,d | ≤2 | 4 – 8 | ≥16 | –– | –– | –– |
+| Coagulase-negative staphylococci c,e | ≤4 | 8 – 16 | ≥32 | –– | –– | –– |
 | Streptococci spp. other than S. pneumoniae | ≤1f,g | –– | –– | ≥17f,h | –– | –– |
-| a Isolates with vancomycin MICs of 8 to 16 mcg/mL should be further screened for vancomycin resistance using standardized procedures.1,2b Plates should be held for a full 24 hours and examined using transmitted light. Measure the diameter of the zones of complete inhibition (as judged by the unaided eye), including the diameter of the disk. The zone margin should be considered showing no obvious, visible growth that can be detected with the unaided eye. Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth. Any discernible growth within the zone of inhibition indicates vancomycin resistance. Organisms with intermediate zones should be tested by a standardized dilution method.1,2 c Dilution testing should be performed to determine the susceptibility of all staphylococcal isolates. Disk diffusion testing is not reliable for testing vancomycin, as it does not differentiate vancomycin insusceptible isolates of S. aureus from vancomycin-intermediate isolates, nor does it differentiate among vancomycin-susceptible, intermediate, and resistant isolates of coagulase-negative staphylococci.2d Any S. aureus isolate for which the vancomycin MIC is ≥ 8 mcg/mL should be sent to a reference laboratory.2 e Any coagulase-negative Staphylococcus isolate for which the vancomycin MIC is ≥ 32 mcg/mL should be sent to a reference laboratory.2f The rare occurrence of resistant isolates precludes defining any results categories other than “Susceptible”. For isolates yielding results suggestive of a nonsusceptible category, organism identification and vancomycin susceptibility test results should be confirmed. If confirmed, isolates should be sent to a reference laboratory.2g Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.1,2h Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO23. |  |  |  |  |  |  |
+| a Isolates with vancomycin MICs of 8 to 16 mcg/mL should be further screened for vancomycin resistance using standardized procedures. 1,2 b Plates should be held for a full 24 hours and examined using transmitted light. Measure the diameter of the zones of complete inhibition (as judged by the unaided eye), including the diameter of the disk. The zone margin should be considered the area showing no obvious, visible growth that can be detected with the unaided eye. Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth. Any discernible growth within the zone of inhibition indicates vancomycin resistance. Organisms with intermediate zones should be tested by a standardized dilution method. 1,2 c Dilution testing should be performed to determine the susceptibility of all staphylococcal isolates. Disk diffusion testing is not reliable for testing vancomycin, as it does not differentiate vancomycin-susceptible isolates of S. aureus from vancomycin-intermediate isolates, nor does it differentiate among vancomycin-susceptible, intermediate, and resistant isolates of coagulase-negative staphylococci.2 d Any S. aureus isolate for which the vancomycin MIC is ≥ 8 mcg/mL should be sent to a reference laboratory.2 e Any coagulase-negative Staphylococcus isolate for which the vancomycin MIC is ≥ 32 mcg/mL should be sent to a reference laboratory.2 f The rare occurrence of resistant isolates precludes defining any results categories other than “Susceptible”. For isolates yielding results suggestive of a nonsusceptible category, organism identification and vancomycin susceptibility test results should be confirmed. If confirmed, isolates should be sent to a reference laboratory.2 g Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.1,2 h Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO2.3 |  |  |  |  |  |  |
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -119,10 +105,10 @@ For the diffusion technique, the 30 mcg vancomycin disk should provide the follo
 Table 2.
 In Vitro Susceptibility Test Quality Control Ranges for Vancomycin
 
-| Organism (ATCC #) | MIC range (mcg/mL) | Disk diffusion range (mm) |
-| --- | --- | --- |
-| Enterococcus faecalis (29212) | 1 – 4 | Not applicable |
-| Staphylococcus aureus (29213) | 0.5 – 2 | Not applicable |
-| Staphylococcus aureus (25923)a | Not applicable | 17 – 21 |
-| Streptococcus pneumoniae (49619)b,c | 0.12 – 0.5 | 20 – 27 |
-| a Quality control strain and interpretive criteria for testing vancomycin susceptibility of Enterococci spp.b Interpretative criteria applicable only to tests performed using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood1. Disk diffusion interpretive criteria applicable only to tests performed using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO2.c Quality control strain and interpretive criteria for testing vancomycin susceptibility of Streptococci spp. other than S. pneumoniae. |  |  |
+| Organism (ATCC #) | MIC range (mcg/mL) | Disk diffusion range (mm) |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Enterococcus faecalis (29212) | 1 – 4 | Not applicable |  |  |  |  |  |  |  |
+| Staphylococcus aureus (29213) | 0.5 – 2 | Not applicable |  |  |  |  |  |  |  |
+| Staphylococcus aureus (25923)a | Not applicable | 17 – 21 |  |  |  |  |  |  |  |
+| Streptococcus pneumoniae (49619)b,c | 0.12 – 0.5 | 20 – 27 |  |  |  |  |  |  |  |
+| a Quality control strain and interpretive criteria for testing vancomycin susceptibility of Enterococci spp. b Interpretative criteria applicable only to tests performed using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.1 Disk diffusion interpretive criteria applicable only to tests performed using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO2.2 c Quality control strain and interpretive criteria for testing vancomycin susceptibility of Streptococci spp. other than S. pneumoniae. |  |  |  |  |  |  |  |  |  |

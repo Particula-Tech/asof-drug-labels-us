@@ -1,7 +1,5 @@
 Hydrochloride for Injection, USP
 
-Rx only
-
 | PHARMACY BULK PACKAGE – NOT FOR DIRECT INFUSION |
 | --- |
 
@@ -9,7 +7,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 # PREPARATION AND STABILITY
 
-DIRECTIONS FOR PROPER USE OF PHARMACY BULK PACKAGE - NOT FOR DIRECT INFUSION.
+DIRECTIONS FOR PROPER USE OF PHARMACY BULK PACKAGE ─ NOT FOR DIRECT INFUSION.
 The pharmacy bulk package is for use in the Hospital Pharmacy Admixture Service only in a suitable work area such as a laminar flow hood.
 Using aseptic technique, the closure may be penetrated only one time after reconstitution using a suitable sterile transfer device or dispensing set, which allows measured dispensing of the contents.
 Use of a syringe and needle is not recommended as it may cause leakage.
@@ -28,19 +26,7 @@ Compatibility with Other Drugs and Intravenous Fluids
 
 The following diluents are physically and chemically compatible (with 5 mg/mL vancomycin, present as the HCl):
 
-5% Dextrose Injection, USP
-
-5% Dextrose and 0.9% Sodium Chloride Injection, USP
-
-Lactated Ringer’s Injection, USP
-
-5% Dextrose and Lactated Ringer’s Injection
-
-Normosol®-M and 5% Dextrose
-
-0.9% Sodium Chloride Injection, USP
-
-ISOLYTE® E
+5% Dextrose Injection, USP 5% Dextrose and 0.9% Sodium Chloride Injection, USP Lactated Ringer’s Injection, USP 5% Dextrose and Lactated Ringer’s Injection Normosol®-M and 5% Dextrose 0.9% Sodium Chloride Injection, USP ISOLYTE® E
 
 Good professional practice suggests that administration of compounded admixtures should be administered as soon after preparation as is feasible.
 

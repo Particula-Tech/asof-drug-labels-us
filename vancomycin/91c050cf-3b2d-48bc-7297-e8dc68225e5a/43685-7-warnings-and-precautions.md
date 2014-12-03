@@ -19,7 +19,7 @@ Hypertoxin producing strains of C. difficile cause increased morbidity and morta
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not direct against C. difficile may need to be discontinued.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
@@ -28,26 +28,26 @@ General
 
 Clinically significant serum concentrations have been reported in some patients who have taken multiple oral doses of vancomycin for active C. difficile-induced pseudomembranous colitis.
 
-Prolonged use of vancomycin may result in the overgrowth of nonsusceptible organisms.
+Prolonged use of vancomycin may result in the overgrowth of nonsusceptible microorganisms.
 Careful observation of the patient is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
-In rare instances, there have been reports of pseudomembranous colitis due to C. difficile developing in patients who receive intravenous vancomycin.
+In rare instances, there have been reports of pseudomembranous colitis due to C. difficile developing in patients who received intravenous vancomycin.
 
 In order to minimize the risk of nephrotoxicity when treating patients with underlying renal dysfunction or patients receiving concomitant therapy with an aminoglycoside, serial monitoring of renal function should be performed and particular care should be taken in following appropriate dosing schedules (see DOSAGE AND ADMINISTRATION).
 
 Serial tests of auditory function may be helpful in order to minimize the risk of ototoxicity.
 
 Reversible neutropenia has been reported in patients receiving vancomycin hydrochloride (see ADVERSE REACTIONS).
-Patients who will undergo prolonged therapy with vancomycin hydrochloride or those who are receiving concomitant drugs which may cause neutropenia should have periodic monitoring of the leukocyte count.
+Patients who will undergo prolonged therapy with vancomycin hydrochloride or those who are receiving concomitant drugs that may cause neutropenia should have periodic monitoring of the leukocyte count.
 
 Vancomycin hydrochloride is irritating to tissue and must be given by a secure intravenous route of administration.
 Pain, tenderness, and necrosis occur with intramuscular injection or with inadvertent extravasation.
 Thrombophlebitis may occur, the frequency and severity of which can be minimized by administering the drug slowly as a dilute solution (2.5 to 5 g/L) and by rotation of venous access sites.
 
-There have been reports that the frequency of infusion-related events (including hypotension, flushing, erythemia, urticaria, and pruritus) increases with the concomitant administration of anesthetic agents.
+There have been reports that the frequency of infusion-related events (including hypotension, flushing, erythema, urticaria, and pruritus) increases with the concomitant administration of anesthetic agents.
 Infusion-related events may be minimized by the administration of vancomycin hydrochloride as a 60-minute infusion prior to anesthetic induction.
 
-The safety and efficacy of vancomycin administration by the intrathecal (intralumbar or intraventricular) route or by intraperitoneal route have not been established by adequate and well-controlled trials.
+The safety and efficacy of vancomycin administered by the intrathecal (intralumbar or intraventricular) route or by the intraperitoneal route have not been established by adequate and well-controlled trials.
 
 Reports have revealed that administration of Vancomycin Hydrochloride for Injection, USP by the intraperitoneal route during continuous ambulatory peritoneal dialysis (CAPD) has resulted in a syndrome of chemical peritonitis.
 To date, this syndrome has ranged from a cloudy dialysate alone to a cloudy dialysate accompanied by variable degrees of abdominal pain and fever.
@@ -59,7 +59,7 @@ Information for Patients
 
 Patients should be counseled that antibacterial drugs including vancomycin should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When vancomycin is prescribed to treat a bacterial infection, the patient should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+When vancomycin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by vancomycin or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
@@ -98,12 +98,12 @@ Vancomycin is excreted in human milk.
 Caution should be exercised when vancomycin hydrochloride is administered to a nursing woman.
 Because of the potential for adverse events, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-Pediatric Use
+## Pediatric Use
 
-In premature neonates and young infants, it may be appropriate to confirm desired vancomycin serum concentrations.
+In pediatric patients, it may be appropriate to confirm desired vancomycin serum concentrations.
 Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing in pediatric patients (see ADVERSE REACTIONS).
 
-Geriatric Use
+## Geriatric Use
 
 The natural decrement of glomerular filtration with increasing age may lead to elevated vancomycin serum concentrations if dosage is not adjusted.
 Vancomycin dosage schedules should be adjusted in elderly patients (see DOSAGE AND ADMINISTRATION).

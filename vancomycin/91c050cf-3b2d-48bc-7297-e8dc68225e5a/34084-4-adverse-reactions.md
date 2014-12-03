@@ -10,10 +10,10 @@ In studies of normal volunteers, infusion-related events did not occur when vanc
 
 Nephrotoxicity
 
-Renal failure, principally manifested by increased serum creatinine or BUN concentrations, especially in patients given large doses of vancomycin, has been reported.
-Rare cases of interstitial nephritis have been reported.
+Renal failure, principally manifested by increased serum creatinine or BUN concentrations, especially in patients administered large doses of vancomycin, has been reported rarely.
+Cases of interstitial nephritis have also been reported rarely.
 Most of these have occurred in patients who were given aminoglycosides concomitantly or who had preexisting kidney dysfunction.
-When vancomycin hydrochloride was discontinued, azotemia resolved in most patients.
+When vancomycin was discontinued, azotemia resolved in most patients.
 
 Gastrointestinal
 
@@ -39,7 +39,7 @@ Inflammation at the injection site has been reported.
 
 Miscellaneous
 
-Infrequently, patients have been reported to have had anaphylaxis, drug fever, nausea, chills, eosinophilia, rashes (including exfoliative dermatitis), linear IgA bullous dermatosis, Stevens-Johnson syndrome, toxic epidermal necrolysis, and rare cases of vasculitis in association with the administration of vancomycin.
+Infrequently, patients have been reported to have had anaphylaxis, drug fever, nausea, chills, eosinophilia, rashes (including exfoliative dermatitis), linear IgA bullous dermatosis, Stevens-Johnson syndrome, toxic epidermal necrolysis, and vasculitis in association with administration of vancomycin.
 
 Chemical peritonitis has been reported following intraperitoneal administration of vancomycin (see PRECAUTIONS).
 
@@ -48,8 +48,6 @@ Post Marketing Reports
 The following adverse reactions have been identified during post-approval use of vancomycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to the drug exposure.
 
-Skin and Subcutaneous Tissue Disorders
-
-Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+Skin and Subcutaneous Tissue Disorders Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
 
 To report SUSPECTED ADVERSE EVENTS, contact FDA at 1-800-FDA-1088 or www.fda.gov.
