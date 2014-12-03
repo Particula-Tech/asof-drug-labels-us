@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA200881"
+  ],
+  "inn": "guanfacine",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0228-2850-11",
+    "0228-2850-50",
+    "0228-2851-11",
+    "0228-2851-50",
+    "0228-2853-11",
+    "0228-2853-50",
+    "0228-2855-11",
+    "0228-2855-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "guanfacine",
+      "name": "guanfacine"
+    }
+  ],
+  "setid": "3a171942-37af-430d-8b9d-bb678ca2be4b",
+  "source": "dailymed"
+}
