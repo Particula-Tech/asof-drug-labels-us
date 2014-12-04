@@ -12,7 +12,5 @@ Sensipar tablets are formulated as light-green, film-coated, oval-shaped tablets
 
 The hydrochloride salt of cinacalcet is described chemically as N-[1-(R)-(-)-(1-naphthyl)ethyl]-3-[3-(trifluoromethyl)phenyl]-1-aminopropane hydrochloride and has the following structural formula:
 
-Inactive Ingredients
-
-The following are the inactive ingredients in Sensipar tablets: pre-gelatinized starch, microcrystalline cellulose, povidone, crospovidone, colloidal silicon dioxide and magnesium stearate.
+Inactive Ingredients The following are the inactive ingredients in Sensipar tablets: pre-gelatinized starch, microcrystalline cellulose, povidone, crospovidone, colloidal silicon dioxide and magnesium stearate.
 Tablets are coated with color (Opadry® II green), clear film coat (Opadry® clear), and carnauba wax.
