@@ -11,10 +11,11 @@ Pregnancy Registry Patients should be encouraged to enroll in the North American
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334.
 Information about the North American Drug Pregnancy Registry can be found at http://www.massgeneral.org/aed/.
-Human Data Data from the NAAED Pregnancy Registry indicate an increased risk of oral clefts in infants exposed to topiramate monotherapy during the first trimester of pregnancy.
-The prevalence of oral clefts was 1.2% compared to a prevalence of 0.39% to 0.46% in infants exposed to other AEDs, and a prevalence of 0.12% in infants of mothers without epilepsy or treatment with other AEDs.
+Human Data Data from the NAAED Pregnancy Registry (425 prospective topiramate monotherapy-exposed pregnancies) indicate an increased risk of oral clefts in infants exposed during the first trimester of pregnancy.
+The prevalence of oral clefts among topiramate-exposed infants was 1.2% compared to a prevalence of 0.39% for infants exposed to a reference AED.
+In infants of mothers without epilepsy or treatment with other AEDs, the prevalence was 0.12%.
 For comparison, the Centers for Disease Control and Prevention (CDC) reviewed available data on oral clefts in the United States and found a similar background rate of 0.17%.
-The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval = CI 3.6 to 25.7) as compared to the risk in a background population of untreated women.
+The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval [CI] 4 to 23) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a similarly increased prevalence of oral clefts of 3.2% among infants exposed to topiramate monotherapy.
 The observed rate of oral clefts was 16 times higher than the background rate in the UK, which is approximately 0.2%.
 Topiramate treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].

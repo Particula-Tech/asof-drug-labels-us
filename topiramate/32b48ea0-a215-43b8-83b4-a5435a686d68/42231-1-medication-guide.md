@@ -236,18 +236,4 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for:
-
-Aurobindo Pharma USA, Inc.
-
-2400 Route 130 North
-
-Dayton, NJ 08810
-
-Manufactured by:
-
-Aurobindo Pharma Limited
-
-Hyderabad–500 072, India
-
-Revised: 07/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 12/2014

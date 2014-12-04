@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The precise mechanisms by which topiramate exerts its anticonvulsant and other effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate’s efficacy for epilepsy and other indications.
+The precise mechanisms by which topiramate exerts its anticonvulsant effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate’s efficacy for epilepsy.
 Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABAA receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
 
 ## 12.2 Pharmacodynamics

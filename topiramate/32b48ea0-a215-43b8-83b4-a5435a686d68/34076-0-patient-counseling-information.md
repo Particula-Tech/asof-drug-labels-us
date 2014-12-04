@@ -13,7 +13,7 @@ Interference with Cognitive and Motor Performance Warn patients about the potent
 Even when taking topiramate or other anticonvulsants, some patients with epilepsy will continue to have unpredictable seizures.
 Therefore, advise all patients taking topiramate for epilepsy to exercise appropriate caution when engaging in any activities where loss of consciousness could result in serious danger to themselves or those around them (including swimming, driving a car, climbing in high places, etc.). Some patients with refractory epilepsy will need to avoid such activities altogether.
 Discuss the appropriate level of caution with patients, before patients with epilepsy engage in such activities.
-Fetal Toxicity Inform pregnant women and women of childbearing potential that use of topiramateduring pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
+Fetal Toxicity Inform pregnant women and women of childbearing potential that use of topiramate during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
 There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1), (8.9)].
 When appropriate, counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 This is particularly important when topiramate use is considered for a condition not usually associated with permanent injury or death.
@@ -31,14 +31,4 @@ Instructions for a Missing Dose Instruct patients that if they miss a single dos
 However, if a patient is within 6 hours of taking the next scheduled dose, tell the patient to wait until then to take the usual dose of topiramate, and to skip the missed dose.
 Tell patients that they should not take a double dose in the event of a missed dose.
 Advise patients to contact their healthcare provider if they have missed more than one dose.
-Manufactured for:
-
-Aurobindo Pharma USA, Inc.
-
-2400 Route 130 North
-
-Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited
-
-Hyderabad–500 072, India
-
-Revised: 07/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 12/2014

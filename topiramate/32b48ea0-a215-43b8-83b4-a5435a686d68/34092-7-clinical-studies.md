@@ -31,21 +31,21 @@ In five of the six studies, patients received active drug beginning at 100 mg pe
 In the sixth study (119), the 25 or 50 mg/day initial doses of topiramate were followed by respective weekly increments of 25 or 50 mg/day until the target dose of 200 mg/day was reached.
 After titration, patients entered a 4, 8 or 12­-week stabilization period.
 The numbers of patients randomized to each dose and the actual mean and median doses in the stabilization period are shown in Table 14.
-Pediatric Patients Ages 2 to 16 Years with Partial Onset Seizures The effectiveness of topiramate as an adjunctive treatment for pediatric patients ages 2 to 16 years with partial onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial, comparing topiramate and placebo in patients with a history of partial onset seizures, with or without secondarily generalized seizures.
+Pediatric Patients Ages 2 to 16 Years with Partial Onset Seizures The effectiveness of topiramate as an adjunctive treatment for pediatric patients ages 2 to 16 years with partial onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study YP), comparing topiramate and placebo in patients with a history of partial onset seizures, with or without secondarily generalized seizures (see Table 15).
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate tablets or placebo.
 In this study, patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
 Patients who experienced at least six partial onset seizures, with or without secondarily generalized seizures, during the baseline phase were randomly assigned to placebo or topiramate tablets in addition to their other AEDs.
 Following randomization, patients began the double-blind phase of treatment.
 Patients received active drug beginning at 25 or 50 mg/day; the dose was then increased by 25 mg to 150 mg/day increments every other week until the assigned dosage of 125, 175, 225, or 400 mg/day based on patients’ weight to approximate a dosage of 6 mg/kg/day was reached, unless intolerance prevented increases.
 After titration, patients entered an 8-week stabilization period.
-Patients With Primary Generalized Tonic-Clonic Seizures The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 2 years old and older was established in a multicenter, randomized, double-blind, placebo-controlled trial, comparing a single dosage of topiramate and placebo.
+Patients With Primary Generalized Tonic-Clonic Seizures The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 2 years old and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study YTC), comparing a single dosage of topiramate and placebo (see Table 15).
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
 Patients who experienced at least three primary generalized tonic-clonic seizures during the baseline phase were randomly assigned to placebo or topiramate in addition to their other AEDs.
 Following randomization, patients began the double-blind phase of treatment.
 Patients received active drug beginning at 50 mg/day for four weeks; the dose was then increased by 50 mg to 150 mg/day increments every other week until the assigned dose of 175, 225, or 400 mg/day based on patients’ body weight to approximate a dosage of 6 mg/kg/day was reached, unless intolerance prevented increases.
 After titration, patients entered a 12-week stabilization period.
-Patients With Lennox-Gastaut Syndrome The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome was established in a multicenter, randomized, double-blind, placebo-controlled trial comparing a single dosage of topiramate with placebo in patients 2 years of age and older.
+Patients With Lennox-Gastaut Syndrome The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study YL) comparing a single dosage of topiramate with placebo in patients 2 years of age and older (see Table 15).
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients who were experiencing at least 60 seizures per month before study entry were stabilized on optimum dosages of their concomitant AEDs during a 4­-week baseline phase.
 Following baseline, patients were randomly assigned to placebo or topiramate in addition to their other AEDs.
