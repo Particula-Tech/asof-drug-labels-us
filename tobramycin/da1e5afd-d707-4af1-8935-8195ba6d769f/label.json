@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205433"
+  ],
+  "inn": "tobramycin",
+  "labeler": "Pari Respiratory Equipment",
+  "package_ndcs": [
+    "24492-850-56"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tobramycin",
+      "name": "Kitabis Pak"
+    }
+  ],
+  "setid": "da1e5afd-d707-4af1-8935-8195ba6d769f",
+  "source": "dailymed"
+}
