@@ -80,9 +80,12 @@ Of the 1,074 patients in the DPNP premarketing studies, 33% (357) were 65 years 
 Of the 1,761 patients in FM premarketing studies, 7.9% (140) were 65 years of age or over.
 In the MDD, GAD, DPNP, FM, OA, and CLBP studies, no overall differences in safety or effectiveness were generally observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 SSRIs and SNRIs, including CYMBALTA have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.13)].
-In a subgroup analysis of patients 65 years of age and older (N=3278) from all placebo-controlled trials, 1.1% of patients treated with duloxetine reported one or more falls, compared with 0.4% of patients treated with placebo.
-While many patients with falls had underlying potential risk factors for falls (e.g., medications; medical comorbidities; gait disturbances), the impact of these factors on falls is unclear.
-Fall with serious consequences including bone fractures and hospitalizations have been reported [see Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine (6.10)].
+
+In an analysis of data from all placebo-controlled-trials, patients treated with CYMBALTA reported a higher rate of falls compared to patients treated with placebo.
+The increased risk appears to be proportional to a patient's underlying risk for falls.
+Underlying risk appears to increase steadily with age.
+As elderly patients tend to have a higher prevalence of risk factors for falls such as medications, medical comorbidities and gait disturbances, the impact of increasing age by itself on falls during treatment with CYMBALTA is unclear.
+Falls with serious consequences including bone fractures and hospitalizations have been reported [see Warnings and Precautions (5.3) and Adverse Reactions (6.10)].
 
 The pharmacokinetics of duloxetine after a single dose of 40 mg were compared in healthy elderly females (65 to 77 years) and healthy middle-age females (32 to 50 years).
 There was no difference in the Cmax, but the AUC of duloxetine was somewhat (about 25%) higher and the half-life about 4 hours longer in the elderly females.

@@ -4,7 +4,7 @@ The following serious adverse reactions are described below and elsewhere in the
 
 - Suicidal Thoughts and Behaviors in Children, Adolescents and Young Adults [see Boxed Warning and Warnings and Precautions (5.1)]
 - Hepatotoxicity [see Warnings and Precautions (5.2)]
-- Orthostatic Hypotension and Syncope [see Warnings and Precautions (5.3)]
+- Orthostatic Hypotension, Falls and Syncope [see Warnings and Precautions (5.3)]
 - Serotonin Syndrome [see Warnings and Precautions (5.4)]
 - Abnormal Bleeding [see Warnings and Precautions (5.5)]
 - Severe Skin Reactions [see Warnings and Precautions (5.6)]
@@ -126,12 +126,12 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Psychiatric Disorders |  |  |  |
 | Insomniag | 9 | 5 |  |
 | Agitationh | 4 | 2 |  |
-| Libido decreasedi | 3 | 1 |  |
 | Anxiety | 3 | 2 |  |
-| Orgasm abnormalj | 2 | <1 |  |
 | Reproductive System and Breast Disorders |  |  |  |
 | Erectile dysfunction | 4 | 1 |  |
 | Ejaculation delayedc | 2 | 1 |  |
+| Libido decreasedi | 3 | 1 |  |
+| Orgasm abnormalj | 2 | <1 |  |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |
 | Yawning | 2 | <1 |  |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |
@@ -173,7 +173,6 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Musculoskeletal and Connective Tissue |  |  |
 | Musculoskeletal Paine | 3 | 3 |
 | Muscle Spasms | 2 | 2 |
-| Back Pain | 3 | 3 |
 | Nervous System Disorders |  |  |
 | Headache | 13 | 8 |
 | Somnolenceb,f | 11 | 3 |
@@ -182,17 +181,16 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Tremorb | 2 | <1 |
 | Psychiatric Disorders |  |  |
 | Insomniab,h | 10 | 5 |
-| Agitationi | 3 | <1 |
+| Agitationi | 3 | 1 |
 | Reproductive System and Breast Disorders |  |  |
 | Erectile Dysfunctionb | 4 | <1 |
 | Ejaculation Disorderj | 2 | <1 |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Cough | 2 | 2 |
-| Oropharyngeal Painb | 2 | 2 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 6 | 1 |
 | Vascular Disorders |  |  |
-| Flushingk | 3 | <1 |
+| Flushingk | 3 | 1 |
 | Blood pressure increasedl | 2 | 1 |
 | a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
 | b Incidence of 120 mg/day is significantly greater than the incidence for 60 mg/day. |  |  |
@@ -201,7 +199,7 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | e Also includes myalgia and neck pain |  |  |
 | f Also includes hypersomnia and sedation |  |  |
 | g Also includes hypoaesthesia, hypoaesthesia facial, genital hypoaesthesia and paraesthesia oral |  |  |
-| h Also includes middle insomnia, early morning awakening and initial insomnia |  |  |
+| h Also includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
 | i Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
 | j Also includes ejaculation failure |  |  |
 | k Also includes hot flush |  |  |
@@ -238,12 +236,12 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, CYMBALTA treatment was associated with mean increases of 0.23 mm Hg in systolic blood pressure and 0.73 mm Hg in diastolic blood pressure compared to mean decreases of 1.09 mm Hg systolic and 0.55 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3, 5.11)].
 
-CYMBALTA treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.37 beats per minute (increase of 1.20 beats per minute in duloxetine-treated patients, decrease of 0.17 beats per minute in placebo-treated patients).
+CYMBALTA treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.37 beats per minute (increase of 1.20 beats per minute in CYMBALTA - treated patients, decrease of 0.17 beats per minute in placebo-treated patients).
 
 ## 6.8 Laboratory Changes in Adults
 
-CYMBALTA treatment in placebo-controlled clinical trials across approved indications, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in CYMBALTA-treated patients when compared with placebo-treated patients [see Warnings and Precautions (5.2)].
-High bicarbonate and cholesterol and abnormal (high or low) potassium were observed more frequently in duloxetine treated patients compared to placebo.
+CYMBALTA treatment in placebo-controlled clinical trials across approved indications, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, and alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in CYMBALTA-treated patients when compared with placebo-treated patients [see Warnings and Precautions (5.2)].
+High bicarbonate, cholesterol, and abnormal (high or low) potassium, were observed more frequently in CYMBALTA treated patients compared to placebo.
 
 ## 6.9 Electrocardiogram Changes in Adults
 

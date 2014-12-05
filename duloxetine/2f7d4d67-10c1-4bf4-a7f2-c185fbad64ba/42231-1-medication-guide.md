@@ -120,7 +120,7 @@ Especially tell your healthcare provider if you take:
 - medicine to treat irregular heart rate (like propafenone, flecainide, quinidine)
 - theophylline
 - the blood thinner warfarin (Coumadin, Jantoven)
-- non-steroidal anti-inflammatory drug (NSAID) (like ibuprofen, naproxen or aspirin)
+- non-steroidal anti-inflammatory drug (NSAID) (like ibuprofen, naproxen or aspirin).
 - over-the-counter supplements such as tryptophan or St. John’s Wort
 - thioridazine (Mellaril).
   Mellaril together with Cymbalta can cause serious heart rhythm problems or sudden death.
@@ -167,12 +167,13 @@ Symptoms may include:
 - enlarged liver
 - increased liver enzymes
 
-2. changes in blood pressure.
+2. changes in blood pressure and falls.
 Monitor your blood pressure before starting and throughout treatment.
 Cymbalta may:
 
 - increase your blood pressure.
 - decrease your blood pressure when standing and cause dizziness or fainting, mostly when first starting Cymbalta or when increasing the dose.
+- increase risk of falls, especially in elderly.
 
 3.
 Serotonin Syndrome: This condition can be life-threatening and symptoms may include:
@@ -301,7 +302,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and not trademarks of Eli Lilly and Company.
 
-Medication Guide revised: October 2014
+Medication Guide revised: November 2014
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
@@ -310,4 +311,4 @@ Cymbalta is a registered trademark of Eli Lilly and Company.
 Copyright © 2009, 2014, Eli Lilly and Company.
 All rights reserved.
 
-CYM-0002-MG-20141016
+CYM-0003-MG-20141125

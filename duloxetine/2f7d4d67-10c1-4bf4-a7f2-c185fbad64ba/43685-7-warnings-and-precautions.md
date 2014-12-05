@@ -69,13 +69,20 @@ In adult placebo-controlled studies using a fixed dose design, there was evidenc
 
 Because it is possible that CYMBALTA and alcohol may interact to cause liver injury or that CYMBALTA may aggravate pre-existing liver disease, CYMBALTA should not be prescribed to patients with substantial alcohol use or evidence of chronic liver disease.
 
-## 5.3 Orthostatic Hypotension and Syncope
+## 5.3 Orthostatic Hypotension, Falls and Syncope
 
-Orthostatic hypotension and syncope have been reported with therapeutic doses of CYMBALTA.
+Orthostatic hypotension, falls and syncope have been reported with therapeutic doses of CYMBALTA.
 Syncope and orthostatic hypotension tend to occur within the first week of therapy but can occur at any time during CYMBALTA treatment, particularly after dose increases.
+The risk of falling appears to be related to the degree of orthostatic decrease in blood pressure as well as other factors that may increase the underlying risk of falls.
 
+In an analysis of patients from all placebo-controlled trials, patients treated with CYMBALTA reported a higher rate of falls compared to patients treated with placebo.
+Risk appears to be related to the presence of orthostatic decrease in blood pressure.
 The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see Warnings and Precautions (5.12) and Drug Interactions (7.1)] and in patients taking CYMBALTA at doses above 60 mg daily.
-Consideration should be given to discontinuing CYMBALTA in patients who experience symptomatic orthostatic hypotension and/or syncope during CYMBALTA therapy.
+Consideration should be given to dose reduction or discontinuation of CYMBALTA in patients who experience symptomatic orthostatic hypotension, falls and/or syncope during CYMBALTA therapy.
+
+Risk of falling also appeared to be proportional to a patient's underlying risk for falls and appeared to increase steadily with age.
+As elderly patients tend to have a higher underlying risk for falls due to a higher prevalence of risk factors such as use of multiple medications, medical comorbidities and gait disturbances, the impact of increasing age by itself is unclear.
+Falls with serious consequences including bone fractures and hospitalizations have been reported [see Adverse Reactions (6.10) and Patient Counseling Information (17)].
 
 ## 5.4 Serotonin Syndrome
 
@@ -127,7 +134,7 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 ## 5.8 Activation of Mania/Hypomania
 
 In adult placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (4/3779) of CYMBALTA-treated patients and 0.04% (1/2536) of placebo-treated patients.
-No activation of mania or hypomania was reported in GAD, fibromyalgia, or chronic musculoskeletal pain placebo-controlled trials.
+No activation of mania or hypomania was reported in DPNP, GAD, fibromyalgia, or chronic musculoskeletal pain placebo-controlled trials.
 Activation of mania or hypomania has been reported in a small proportion of patients with mood disorders who were treated with other marketed drugs effective in the treatment of major depressive disorder.
 As with these other agents, CYMBALTA should be used cautiously in patients with a history of mania.
 
