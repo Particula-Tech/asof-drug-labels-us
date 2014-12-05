@@ -19,6 +19,22 @@ Distributor:
 
 Dr. Reddy’s Laboratories Inc.,
 
-Bridgewater, NJ 08807
+Princeton, NJ 08540
 
-Issued: 0513
+Revised: 0914
+
+OR
+
+Manfactured By:
+
+Dr. Reddy’s Laboratories Limited
+
+Visakhapatnam- INDIA
+
+Distributor:
+
+Dr. Reddy’s Laboratories Inc.,
+
+Princeton, NJ 08540
+
+Issued: 0414
