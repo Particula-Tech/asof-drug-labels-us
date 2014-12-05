@@ -7,14 +7,14 @@ Pregnancy Category B
 Risk Summary
 
 There are no adequate and well-controlled studies of INTUNIV in pregnant women.
-No fetal harm was observed in rats and rabbits with administration of guanfacine at 6 and 4 times, respectively, the maximum recommended human dose.
+No fetal harm was observed in rats and rabbits with administration of guanfacine at 4 and 2.7 times, respectively, the maximum recommended human dose.
 Because animal studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 Animal data
 
 Reproduction studies conducted in rats have shown that guanfacine crosses the placenta.
-However, administration of guanfacine to rats and rabbits at 6 and 4 times, respectively, the maximum recommended human dose of 4 mg/day on a mg/m2 basis resulted in no evidence of harm to the fetus.
-Higher doses (20 times the maximum recommended human dose in both rabbits and rats) were associated with reduced fetal survival and maternal toxicity.
+However, administration of guanfacine to rats and rabbits at 4 and 2.7 times, respectively, the maximum recommended human dose of 0.12 mg/kg/day on a mg/m2 basis resulted in no evidence of harm to the fetus.
+Higher doses (13.5 times the maximum recommended human dose in both rabbits and rats) were associated with reduced fetal survival and maternal toxicity.
 
 ## 8.3 Nursing Mothers
 
@@ -25,10 +25,12 @@ Observe human milk-fed infants for sedation and somnolence.
 ## 8.4 Pediatric Use
 
 Safety and efficacy of INTUNIV® in pediatric patients less than 6 years of age have not been established.
+The efficacy of INTUNIV® was studied for the treatment of ADHD in five controlled monotherapy clinical trials (up to 15 weeks in duration) and one controlled adjunctive trial with psychostimulants (8 weeks in duration) in children and adolescents ages 6-17 who met DSM-IV® criteria for ADHD.
+The effectiveness of INTUNIV® for longer-term use (beyond 15 weeks) has not been systematically evaluated in controlled trials [see Adverse Reactions (6) and Clinical Studies (14)].
 
 Animal Data
 
-In studies in juvenile rats, guanfacine alone produced a slight delay in sexual maturation in males and females at 2-3 times the maximum recommended human dose (MRHD).
+In studies in juvenile rats, guanfacine alone produced a slight delay in sexual maturation in males and females at 2 to 3 times the maximum recommended human dose (MRHD).
 Guanfacine in combination with methylphenidate produced a slight delay in sexual maturation and decreased growth as measured by a decrease in bone length in males at a dose of guanfacine comparable to the MRHD and a dose of methylphenidate approximately 4 times the MRHD.
 
 In a study where juvenile rats were treated with guanfacine alone from 7 to 59 days of age, development was delayed as indicated by a slight delay in sexual maturation and decreased body weight gain in males at 2 mg/kg/day and in females at 3 mg/kg/day.
@@ -43,18 +45,10 @@ These findings were not observed with guanfacine alone at 1 mg/kg/day or methylp
 
 The safety and efficacy of INTUNIV® in geriatric patients have not been established.
 
-## 8.6 Use in Patients with Renal or Hepatic Impairment
+## 8.6 Renal Impairment
 
-Renal Impairment
+It may be necessary to reduce the dosage in patients with significant impairment of renal function [see Clinical Pharmacology (12.3)].
 
-The impact of renal impairment on the pharmacokinetics of guanfacine in children was not assessed.
-In adult patients with impaired renal function, the cumulative urinary excretion of guanfacine and the renal clearance diminished as renal function decreased.
-In patients on hemodialysis, the dialysis clearance was about 15% of the total clearance.
-The low dialysis clearance suggests that the hepatic elimination (metabolism) increases as renal function decreases.
-It may be necessary to adjust the dose in patients with significant impairment of renal function.
+## 8.7 Hepatic Impairment
 
-Hepatic Impairment
-
-The impact of hepatic impairment on PK of guanfacine in children was not assessed.
-Guanfacine in adults is cleared both by the liver and the kidney, and approximately 50% of the clearance of guanfacine is hepatic.
-It may be necessary to adjust the dose in patients with significant impairment of hepatic function.
+It may be necessary to reduce the dosage in patients with significant impairment of hepatic function [see Clinical Pharmacology (12.3)].

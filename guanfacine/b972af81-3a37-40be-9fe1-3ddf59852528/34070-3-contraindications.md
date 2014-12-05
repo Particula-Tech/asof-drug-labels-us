@@ -1,3 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-Patients with a history of hypersensitivity to INTUNIV®, its inactive ingredients [see Description (11)] or other products containing guanfacine should not take INTUNIV®.
+INTUNIV is contraindicated in patients with a history of a hypersensitivity reaction to INTUNIV or its inactive ingredients.
+Rash and pruritus have been reported.

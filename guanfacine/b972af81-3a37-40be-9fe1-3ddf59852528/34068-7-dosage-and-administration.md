@@ -8,48 +8,53 @@ Do not administer with high fat meals, due to increased exposure.
 
 ## 2.2 Dose Selection
 
-INTUNIV should be taken once daily, either in the morning or evening, at approximately same time each day.
+Take INTUNIV orally once daily, either in the morning or evening, at approximately the same time each day.
 Begin at a dose of 1 mg/day, and adjust in increments of no more than 1 mg/week.
-Maintain the dose within the range of 1 mg to 4 mg once daily, depending on clinical response and tolerability, for both monotherapy and adjunctive therapy to a psychostimulant.
-Doses above 4 mg/day have not been systematically studied in controlled clinical studies [see Clinical Studies (14.1)].
 
-Clinically relevant improvements were observed beginning at doses in the range 0.05-0.08 mg/kg once daily in both mono- and adjunctive therapy.
-Efficacy increased with increasing weight-adjusted dose (mg/kg).
-If well tolerated, doses up to 0.12 mg/kg once daily may provide additional benefit.
+In monotherapy clinical trials, there was dose- and exposure-related clinical improvement as well as risks for several clinically significant adverse reactions (hypotension, bradycardia, sedative events).
+To balance the exposure-related potential benefits and risks, the recommended target dose range depending on clinical response and tolerability for INTUNIV® is 0.05-0.12 mg/kg/day (total daily dose between 1-7 mg.
+(See Table 1).
 
-In clinical trials, there were dose-related and exposure-related risks for several clinically significant adverse reactions (hypotension, bradycardia, sedative events).
-Thus, consideration should be given to dosing INTUNIV® on a mg/kg basis, in order to balance the exposure-related potential benefits and risks of treatment.
+Table 1: Recommended Target Dose Range for Therapy with INTUNIV®
 
-## 2.3 Switching from Immediate-Release Guanfacine to INTUNIV
+| Weight | Target dose range (0.05 - 0.12 mg/kg/day) |
+| --- | --- |
+| 25-33.9 kg | 2-3 mg/day |
+| 34-41.4 kg | 2-4 mg/day |
+| 41.5-49.4 kg | 3-5 mg/day |
+| 49.5-58.4 kg | 3-6 mg/day |
+| 58.5-91 kg | 4-7 mg/day |
+| >91 kg | 5-7 mg/day |
+| Doses above 4 mg/day have not been evaluated in children (ages 6-12 years) and doses above 7 mg/day have not been evaluated in adolescents (ages 13-17 years) |  |
+
+In the adjunctive trial which evaluated INTUNIV® treatment with psychostimulants, the majority of patients reached optimal doses in the 0.05-0.12 mg/kg/day range.
+Doses above 4 mg/day have not been studied in adjunctive trials.
+
+Periodically re-evaluate the long-term usefulness of the drug for the individual patient.
+
+## 2.3 Switching from Immediate-Release Guanfacine to INTUNIV®
 
 If switching from immediate-release guanfacine, discontinue that treatment, and titrate with INTUNIV® following above recommended schedule.
 
 Do not substitute for immediate-release guanfacine tablets on a milligram-per-milligram basis, because of differing pharmacokinetic profiles.
-INTUNIV® has a delayed Tmax, reduced Cmax and lower bioavailability compared to those of the same dose of immediate-release guanfacine [see Clinical Pharmacology (12.3)].
+INTUNIV® has significantly reduced Cmax (60% lower), bioavailability (43% lower), and a delayed Tmax (3 hours later) compared to those of the same dose of immediate-release guanfacine [see Clinical Pharmacology (12.3)].
 
-## 2.4 Maintenance Treatment
+## 2.4 Discontinuation
 
-It is generally agreed that pharmacological treatment of ADHD may be needed for an extended period.
-The effectiveness of INTUNIV® for longer-term use (more than 9 weeks) has not been systematically evaluated in controlled trials.
-Therefore the physician electing to use INTUNIV® for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
+When discontinuing INTUNIV, taper the daily dose in decrements of no more than 1 mg every 3 to 7 days to avoid rebound hypertension.
 
-## 2.5 Discontinuation
+## 2.5 Missed Doses
 
-Infrequent, transient elevations in blood pressure above original baseline (i.e., rebound) have been reported to occur upon abrupt discontinuation of guanfacine.
-To minimize these effects, the dose should generally be tapered in decrements of no more than 1 mg every 3 to 7 days.
+When reinitiating patients to the previous maintenance dose after two or more missed consecutive doses, consider titration based on patient tolerability.
 
-## 2.6 Missed Doses
+## 2.6 Dosage Adjustment with Concomitant Use of Strong CYP3A4 Inhibitors or Inducers
 
-When reinitiating patients to the previous maintenance dose after two or more missed consecutive doses, physicians should consider titration based on patient tolerability.
+Dosage adjustments for INTUNIV® are recommended with concomitant use of strong CYP3A4 inhibitors (e.g., ketoconazole), or CYP3A4 inducers (e.g., carbamazepine) (Table 2) [see Drug Interactions (7)].
 
-## 2.7 Dose Adjustment with Concomitant Use of Strong CYP3A4 Inhibitors or Inducers
+Table 2: INTUNIV® Dosage Adjustments for Patients Taking Concomitant CYP3A4 Inhibitors or Inducers
 
-Dosage adjustments for INTUNIV® are recommended with concomitant use of strong CYP3A4 inhibitors (e.g., boceprevir, clarithromycin, conivaptan, grapefruit juice, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, mibefradil, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, and voriconazole), or CYP3A4 inducers (e.g., avasimibe, carbamazepine, phenytoin, rifampin, and St.John’s wort) (Table 1) [see Drug Interactions (7)].
-
-Table 1: Dose Adjustments in Patients Taking Concomitant CYP3A4 Inhibitors or Inducers
-
-| Comedications | Scenarios |  |  |
+|  | Starting INTUNIV® while currently on a CYP3A4 modulator | Continuing INTUNIV® while adding a CYP3A4 modulator | Continuing INTUNIV® while stopping a CYP3A4 modulator |
 | --- | --- | --- | --- |
-| Initiate INTUNIV® when taking comedications | Continue INTUNIV® when adding a comedication | Stop a comedication when continuing INTUNIV® |  |
-| Strong CYP3A4 Inhibitors | INTUNIV® dose should be limited to 2 mg/day | INTUNIV® dose should be decreased by half. | INTUNIV® dose should be doubled based on patient tolerability. The maximum dose should not exceed 4 mg/day |
-| Strong CYP3A4 Inducers | INTUNIV® dose may be titrated up to 8 mg/day. Consider faster titration (e.g. in increments of 2 mg/week) | Consider increase INTUNIV® dose gradually in 1-2 weeks to 2 fold of the original dose based on patient tolerability. | INTUNIV® dose should be decreased by half in 1-2 weeks based on patient tolerability. The maximum dose should not exceed 4 mg/day |
+|  | Clinical Scenarios |  |  |
+| CYP3A4 Strong Inhibitors | Decrease INTUNIV® dosage to half the recommended level. (see Table 1) | Decrease INTUNIV® dosage to half the recommended level. (see Table 1) | Increase INTUNIV® dosage to recommended level. (see Table 1) |
+| CYP3A4 Strong Inducers | Consider increasing INTUNIV® dosage up to double the recommended level. (see Table 1) | Consider increasing INTUNIV® dosage up to double the recommended level over 1 to 2 weeks. (see Table 1) | Decrease INTUNIV® dosage to recommended level over 1 to 2 weeks. (see Table 1) |

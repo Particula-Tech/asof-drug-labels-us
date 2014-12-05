@@ -4,121 +4,209 @@ The following serious adverse reactions are described elsewhere in the labelling
 
 - Hypotension, bradycardia, and syncope [see Warnings and Precautions (5.1)]
 - Sedation and somnolence [see Warnings and Precautions (5.2)]
+- Cardiac conduction abnormalities [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-A total of 2,028 subjects have been exposed to INTUNIV® while participating in clinical trials.
-This includes 1,533 patients from completed studies in children and adolescents, and 495 subjects in completed studies in adult healthy volunteers.
+The data described below reflect clinical trial exposure to INTUNIV® in 2,299 patients.
+This includes 1,804 patients from completed studies in children and adolescents, ages 6 to 17 years and 495 patients in completed studies in adult healthy volunteers.
 
 The mean duration of exposure of 446 patients that previously participated in two 2-year, open-label long-term studies was approximately 10 months.
 
-Monotherapy Trials
+Fixed Dose Trials
 
-Most Common Adverse Reactions - The most commonly observed adverse reactions (incidence ≥ 5% and at least twice the rate for placebo) in the monotherapy trials (Studies 1 and 2) with INTUNIV® were: somnolence, fatigue, nausea, lethargy, and hypotension.
+Table 3: Percentage of Patients Experiencing Most Common (≥ 5% and at least twice the rate for placebo) Adverse Reactions in Fixed Dose Studies 1 and 2
 
-Adverse Reactions Leading to Discontinuation - Twelve percent (12%) of patients receiving INTUNIV® discontinued from the monotherapy clinical studies (Studies 1 and 2) due to adverse reactions, compared to 4% in the placebo group.
-The most common adverse reactions leading to discontinuation of INTUNIV®-treated patients from the studies were somnolence/sedation (6%) and fatigue (2%).
-Less common adverse reactions leading to discontinuation (occurring in approximately 1% of patients) included: hypotension, headache, and dizziness.
+| Adverse Reaction Term | Placebo (N=149) | 1mgThe lowest dose of 1 mg used in Study 2 was not randomized to patients weighing more than 50 kg. (N=61) | 2mg (N=150) | 3mg (N=151) | 4mg (N=151) | All Doses of INTUNIV® (N=513) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | INTUNIV® (mg) |  |  |  |  |
+| SomnolenceThe somnolence term includes somnolence, sedation, and hypersomnia. | 11% | 28% | 30% | 38% | 51% | 38% |
+| Fatigue | 3% | 10% | 13% | 17% | 15% | 14% |
+| HypotensionThe hypotension term includes hypotension, diastolic hypotension, orthostatic hypotension, blood pressure decreased, blood pressure diastolic decreased, blood pressure systolic decreased). | 3% | 8% | 5% | 7% | 8% | 7% |
+| Dizziness | 4% | 5% | 3% | 7% | 10% | 6% |
+| Lethargy | 3% | 2% | 3% | 8% | 7% | 6% |
+| Nausea | 2% | 7% | 5% | 5% | 6% | 6% |
+| Dry mouth | 1% | 0% | 1% | 6% | 7% | 4% |
+
+Table 4: Adverse Reactions Leading to Discontinuation (≥ 2% for all doses of INTUNIV and > rate in placebo) in Fixed Dose Studies 1 and 2
+
+|  | n | (%) | n | (%) | n | (%) | n | (%) | n | (%) | n | (%) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | INTUNIV® (mg) |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction Term | Placebo (N=149) |  | 1mgThe lowest dose of 1 mg used in Study 2 was not randomized to patients weighing more than 50 kg. (N=61) |  | 2mg (N=150) |  | 3mg (N=151) |  | 4mg (N=151) |  | All Doses of INTUNIV® (N=513) |  |
+| Total patients | 4 | (3%) | 2 | (3%) | 10 | (7%) | 15 | (10%) | 27 | (18%) | 54 | (11%) |
+| SomnolenceThe somnolence term includes somnolence, sedation, and hypersomnia. | 1 | (1%) | 2 | (3%) | 5 | (3%) | 6 | (4%) | 17 | (11%) | 30 | (6%) |
+| Fatigue | 0 | (0%) | 0 | (0%) | 2 | (1%) | 2 | (1%) | 4 | (3%) | 8 | (2%) |
+| Adverse reactions leading to discontinuation in ≥ 2% in any dose group but did not meet this criteria in all doses combined: hypotension (hypotension, diastolic hypotension, orthostatic hypotension, blood pressure decreased, blood pressure diastolic decreased, blood pressure systolic decreased), headache, and dizziness. |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Table 5: Other Common Adverse Reactions (≥ 2% for all doses of INTUNIV and > rate in placebo) in Fixed Dose Studies 1 and 2
+
+| Adverse Reaction Term | Placebo (N=149) | 1mgThe lowest dose of 1 mg used in Study 2 was not randomized to patients weighing more than 50 kg. (N=61) | 2mg (N=150) | 3mg (N=151) | 4mg (N=151) | All Doses of INTUNIV® (N=513) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | INTUNIV® (mg) |  |  |  |  |
+| Headache | 19% | 26% | 25% | 16% | 28% | 23% |
+| Abdominal PainThe abdominal pain term includes abdominal pain, abdominal pain lower, abdominal pain upper, and abdominal tenderness. | 9% | 10% | 7% | 11% | 15% | 11% |
+| Decreased Appetite | 4% | 5% | 4% | 9% | 6% | 6% |
+| Irritability | 4% | 5% | 8% | 3% | 7% | 6% |
+| Constipation | 1% | 2% | 2% | 3% | 4% | 3% |
+| NightmareThe nightmare term includes abnormal dreams, nightmare, and sleep terror. | 0% | 0% | 0% | 3% | 4% | 2% |
+| EnuresisThe enuresis term includes enuresis, nocturia, and urinary incontinence. | 1% | 0% | 1% | 3% | 2% | 2% |
+| Affect LabilityThe affect lability term includes affect lability and mood swings. | 1% | 2% | 1% | 3% | 1% | 2% |
+| Adverse reactions ≥ 2% for all doses of INTUNIV and > rate in placebo in any dose group but did not meet this criteria in all doses combined: insomnia (insomnia, initial insomnia, middle insomnia, terminal insomnia, sleep disorder), vomiting, diarrhea, abdominal/stomach discomfort (abdominal discomfort, epigastric discomfort, stomach discomfort), rash (rash, rash generalized, rash papular), dyspepsia, increased weight, bradycardia (bradycardia, sinus bradycardia), asthma (asthma, bronchospasm, wheezing), agitation, anxiety (anxiety, nervousness), sinus arrhythmia, blood pressure increased (blood pressure increased, blood pressure diastolic increased), and first degree atrioventricular block. |  |  |  |  |  |  |
+
+Monotherapy Flexible Dose Trials
+
+Table 6: Percentage of Patients Experiencing Most Common (≥ 5% and at least twice the rate for placebo) Adverse Reactions in the Monotherapy Flexible Dose Study 4
+
+| Adverse Reaction Term | Placebo (N=112) | AM (N=107) | PM (N=114) | All Doses of INTUNIV® (N=221) |
+| --- | --- | --- | --- | --- |
+|  |  | INTUNIV® |  |  |
+| SomnolenceThe somnolence term includes somnolence, sedation, and hypersomnia. | 15% | 57% | 54% | 56% |
+| Abdominal PainThe abdominal pain term includes abdominal pain, abdominal pain lower, abdominal pain upper, and abdominal tenderness | 7% | 8% | 19% | 14% |
+| Fatigue | 3% | 10% | 11% | 11% |
+| Irritability | 3% | 7% | 7% | 7% |
+| Nausea | 1% | 6% | 5% | 5% |
+| Dizziness | 3% | 6% | 4% | 5% |
+| Vomiting | 2% | 7% | 4% | 5% |
+| HypotensionThe hypotension term includes hypotension, diastolic hypotension, orthostatic hypotension, blood pressure decreased, blood pressure diastolic decreased, blood pressure systolic decreased). | 0% | 6% | 4% | 5% |
+| Decreased Appetite | 3% | 6% | 3% | 4% |
+| EnuresisThe enuresis term includes enuresis, nocturia, and urinary incontinence. | 1% | 2% | 5% | 4% |
+
+Table 7: Adverse Reactions Leading to Discontinuation (≥ 2% for all doses of INTUNIV and > rate in placebo) in Monotherapy Flexible Dose Study 4
+
+|  | n | (%) | n | (%) | n | (%) | n | (%) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | INTUNIV® |  |  |  |  |  |
+| Adverse Reaction Term | Placebo (N=112) |  | AM (N=107) |  | PM (N=114) |  | All Doses of INTUNIV® (N=221) |  |
+| Total patients | 0 | (0%) | 8 | (7%) | 7 | (6%) | 15 | (7%) |
+| SomnolenceThe somnolence term includes somnolence, sedation, and hypersomnia. | 0 | (0%) | 4 | (4%) | 3 | (3%) | 7 | (3%) |
+| Adverse reactions leading to discontinuation in ≥ 2% in any dose group but did not meet this criteria in all doses combined: fatigue |  |  |  |  |  |  |  |  |
+
+Table 8: Other Common Adverse Reactions (≥2% for all doses of INTUNIV and > rate in placebo) in the Monotherapy Flexible Dose Study 4
+
+| Adverse Reaction Term | Placebo (N=112) | AM (N=107) | PM (N=114) | All Doses of INTUNIV® (N=221) |
+| --- | --- | --- | --- | --- |
+|  |  | INTUNIV® |  |  |
+| Headache | 11% | 18% | 16% | 17% |
+| InsomniaThe insomnia term includes insomnia, initial insomnia, middle insomnia, terminal insomnia, and sleep disorder. | 6% | 8% | 6% | 7% |
+| Diarrhea | 4% | 4% | 6% | 5% |
+| Lethargy | 0% | 4% | 3% | 3% |
+| Constipation | 2% | 2% | 4% | 3% |
+| Dry Mouth | 1% | 3% | 3% | 3% |
+| Adverse reactions ≥ 2% for all doses of INTUNIV and > rate in placebo in any dose group but did not meet this criteria in all doses combined: affect lability (affect lability, mood swings), increased weight, syncope/loss of consciousness (loss of consciousness, presyncope, syncope), dyspepsia, tachycardia (tachycardia, sinus tachycardia), and bradycardia (bradycardia, sinus bradycardia). |  |  |  |  |
+
+Table 9: Percentage of Patients Experiencing Most Common (≥ 5% and at least twice the rate for placebo) Adverse Reactions in the Monotherapy Flexible Dose Study 5
+
+| Adverse Reaction Term | Placebo (N=155) | All Doses of INTUNIV® (N=157) |
+| --- | --- | --- |
+| SomnolenceThe somnolence term includes somnolence, sedation, and hypersomnia. | 23% | 54% |
+| InsomniaThe insomnia term includes insomnia, initial insomnia, middle insomnia, terminal insomnia, and sleep disorder. | 6% | 13% |
+| HypotensionThe hypotension term includes hypotension, diastolic hypotension, orthostatic hypotension, blood pressure decreased, blood pressure diastolic decreased, blood pressure systolic decreased). | 3% | 9% |
+| Dry Mouth | 0% | 8% |
+| Postural Dizziness | 2% | 5% |
+| BradycardiaThe bradycardia term includes bradycardia and sinus bradycardia. | 0% | 5% |
+
+There were no specific adverse reactions ≥ 2% in any treatment group that led to discontinuation in the monotherapy flexible dose study (Study 5).
+
+Table 10: Other Common Adverse Reactions (≥ 2% for all doses of INTUNIV and > rate in placebo) in the Monotherapy Flexible Dose Study 5
+
+| Adverse Reaction Term | Placebo (N=155) | All Doses of INTUNIV® (N=157) |
+| --- | --- | --- |
+|  |  | INTUNIV® |
+| Headache | 18% | 27% |
+| Fatigue | 12% | 22% |
+| Dizziness | 10% | 16% |
+| Decreased Appetite | 14% | 15% |
+| Abdominal PainThe abdominal pain term includes abdominal pain, abdominal pain lower, abdominal pain upper, and abdominal tenderness. | 8% | 12% |
+| Irritability | 4% | 7% |
+| AnxietyThe anxiety term includes anxiety and nervousness. | 3% | 5% |
+| RashThe rash term includes rash, rash generalized, and rash papular. | 1% | 3% |
+| Constipation | 0% | 3% |
+| Increased Weight | 2% | 3% |
+| Abdominal/Stomach DiscomfortThe abdominal/stomach discomfort term includes abdominal discomfort, epigastric discomfort, and stomach discomfort. | 1% | 2% |
+| Pruritus | 1% | 2% |
+| Adverse reactions ≥ 2% for all doses of INTUNIV and > rate in placebo in any dose group but did not meet this criteria in all doses combined: nausea, diarrhea, vomiting, and depression (depressed mood, depression, depressive symptom). |  |  |
 
 Adjunctive Trial
 
-Most Common Adverse Reactions - The most commonly observed adverse reactions (incidence ≥ 5% and at least twice the rate for placebo) in the adjunctive trial with INTUNIV® were: somnolence, fatigue, insomnia, dizziness, and abdominal pain.
+Table 11: Percentage of Patients Experiencing Most Common (≥ 5% and at least twice the rate for placebo) Adverse Reactions in the Short-Term Adjunctive Study 3
 
-Adverse Reactions Leading to Discontinuation – In the adjunctive clinical study, 3% of patients receiving INTUNIV® discontinued due to adverse reactions, compared to 1% in the placebo group.
-Each adverse reaction leading to discontinuation occurred in less than 1% of INTUNIV®-treated patients.
+| Adverse Reaction Term | Placebo+ stimulant (N=153) | AM (N=150) | PM (N=152) | All Doses (N=302) |
+| --- | --- | --- | --- | --- |
+|  |  | INTUNIV® + stimulant |  |  |
+| SomnolenceThe somnolence term includes somnolence, sedation, and hypersomnia. | 7% | 18% | 18% | 18% |
+| InsomniaThe insomnia term includes insomnia, initial insomnia, middle insomnia, terminal insomnia, and sleep disorder. | 6% | 10% | 14% | 12% |
+| Abdominal PainThe abdominal pain term includes abdominal pain, abdominal pain lower, abdominal pain upper, and abdominal tenderness. | 3% | 8% | 12% | 10% |
+| Fatigue | 3% | 12% | 7% | 10% |
+| Dizziness | 4% | 10% | 5% | 8% |
+| Decreased Appetite | 4% | 7% | 8% | 7% |
+| Nausea | 3% | 3% | 7% | 5% |
 
-Short Term Monotherapy Clinical Studies
+There were no specific adverse reactions ≥ 2% in any treatment group that led to discontinuation in the short-term adjunctive study (Study 3).
 
-Common Adverse Reactions - Two short-term, placebo-controlled, double-blind pivotal studies (Studies 1 and 2) were conducted in children and adolescents with ADHD, using fixed doses of INTUNIV® (1 mg, 2 mg, 3 mg, and 4 mg/day).
-The most commonly reported adverse reactions (occurring in ≥ 2% of patients) that were considered drug-related and reported in a greater percentage of patients taking INTUNIV® compared to patients taking placebo are shown in Table 2.
-Adverse reactions that were dose-related include: somnolence/sedation, abdominal pain, dizziness, hypotension, dry mouth and constipation.
+Table 12: Other Common Adverse Reactions (≥ 2% for all doses of INTUNIV and > rate in placebo) in the Short-Term Adjunctive Study 3
 
-| Table 2: Percentage of Patients Experiencing Common (≥ 2%) Adverse Reactions in Short-Term Monotherapy Studies 1 and 2 |  |  |
-| --- | --- | --- |
-| Adverse Reaction Term | All Doses of INTUNIV® (N=513) | Placebo (N=149) |
-| Somnolencea | 38% | 12% |
-| Headache | 24% | 19% |
-| Fatigue | 14% | 3% |
-| Abdominal painb | 11% | 9% |
-| Hypotensionc | 7% | 3% |
-| Nausea | 6% | 2% |
-| Lethargy | 6% | 3% |
-| Dizziness | 6% | 4% |
-| Irritability | 6% | 4% |
-| Decreased appetite | 5% | 3% |
-| Dry mouth | 4% | 1% |
-| Constipation | 3% | 1% |
-| a: The somnolence term includes somnolence, sedation, and hypersomnia. b: The abdominal pain term includes abdominal pain, abdominal pain upper, and abdominal pain lower. c: The hypotension term includes hypotension, orthostatic hypotension, and decreased blood pressure. |  |  |
-
-In an 8-week, placebo-controlled study in children 6-12 years of age with ADHD in which INTUNIV® was dosed once (1-4 mg/day) in the morning or evening (Study 4), the safety profile was consistent with the once daily morning dosing of INTUNIV®.
-
-Short Term Adjunctive Clinical Study
-
-Common Adverse Reactions - A 8-week, placebo-controlled, double-blind, dose-optimized pivotal study (Study 3) was conducted in children and adolescents aged 6-17 years with a diagnosis of ADHD who were identified as having a sub-optimal response to psychostimulants.
-Patients received INTUNIV® (1 mg, 2 mg, 3 mg, and 4 mg/day) or placebo, dosed in the morning or in the evening, in combination with their morning dose of psychostimulant.
-The most commonly reported adverse reactions (occurring in ≥ 2% of patients in the overall INTUNIV® group) that were reported in a greater percentage of patients taking INTUNIV® compared to patients taking placebo are shown in Table 3.
-
-| Table 3: Percentage of Patients Experiencing Common (≥ 2%) Adverse Reactions in Short-Term Adjunctive Study 3 |  |  |
-| --- | --- | --- |
-| Adverse Reaction Term | All Doses of INTUNIV® (N=302)a | Placebo (N=153) |
-| Headache | 21% | 13% |
-| Somnolenceb | 18% | 7% |
-| Insomniac | 12% | 6% |
-| Fatigue | 10% | 3% |
-| Abdominal paind | 10% | 3% |
-| Dizziness | 8% | 4% |
-| Decreased appetite | 7% | 4% |
-| Nausea | 5% | 3% |
-| Diarrhea | 4% | 1% |
-| Hypotensione | 3% | 0% |
-| Affect lability | 2% | 1% |
-| Bradycardia | 2% | 0% |
-| Constipation | 2% | 0% |
-| Dry mouth | 2% | 0% |
-| a: The morning and evening dose groups of INTUNIV® are combined. b: The somnolence term includes somnolence, sedation, and hypersomnia. c: The insomnia term includes insomnia, initial insomnia, and middle insomnia. d: The abdominal pain term includes abdominal pain, abdominal pain upper, and abdominal pain lower. e: The hypotension term includes hypotension, orthostatic hypotension, and decreased blood pressure. |  |  |
+| Adverse Reaction Term | Placebo (N=153) | AM (N=150) | PM (N=152) | All Doses of INTUNIV® (N=302) |
+| --- | --- | --- | --- | --- |
+|  |  | INTUNIV® + stimulant |  |  |
+| Headache | 13% | 21% | 21% | 21% |
+| Diarrhea | 1% | 4% | 3% | 4% |
+| HypotensionThe hypotension term includes hypotension, diastolic hypotension, orthostatic hypotension, blood pressure decreased, blood pressure diastolic decreased, blood pressure systolic decreased. | 0% | 4% | 2% | 3% |
+| Constipation | 0% | 2% | 3% | 2% |
+| Affect LabilityThe affect lability term includes affect lability and mood swings. | 1% | 3% | 2% | 2% |
+| Dry Mouth | 0% | 1% | 3% | 2% |
+| BradycardiaThe bradycardia term includes bradycardia and sinus bradycardia. | 0% | 1% | 3% | 2% |
+| Postural Dizziness | 0% | 1% | 3% | 2% |
+| RashThe rash term includes rash, rash generalized, and rash papular. | 1% | 1% | 2% | 2% |
+| NightmareThe nightmare term includes abnormal dreams, nightmare, and sleep terror. | 1% | 2% | 1% | 2% |
+| TachycardiaThe tachycardia term includes tachycardia and sinus tachycardia. | 1% | 2% | 1% | 2% |
+| Adverse reactions ≥ 2% for all doses of INTUNIV and > rate in placebo in any dose group but did not meet this criteria in all doses combined: irritability, vomiting, asthma (asthma, bronchospasm, wheezing), and enuresis (enuresis, nocturia, urinary incontinence). |  |  |  |  |
 
 Effects on Blood Pressure and Heart Rate
 
-In the monotherapy pediatric, short-term, controlled trials (Studies 1 and 2), the maximum mean changes from baseline in systolic blood pressure, diastolic blood pressure, and pulse were −5 mmHg, −3 mmHg, and −6 bpm, respectively, for all dose groups combined (generally one week after reaching target doses of 1 mg/day, 2 mg/day, 3 mg/day or 4 mg/day).
-These changes were dose dependent.
+In the monotherapy pediatric, short-term, controlled trials (Studies 1 and 2), the maximum mean changes from baseline in seated systolic blood pressure, diastolic blood pressure, and pulse were −5.4 mmHg, −3.4 mmHg, and −5.5 bpm, respectively, for all doses combined (generally one week after reaching target doses).
+For the respective fixed doses 1 mg/day, 2 mg/day, 3 mg/day or 4 mg/day the maximum mean changes in seated systolic blood pressure were -4.3 mmHg, -5.5 mmHg, -5.4 mmHg and -8.2 mmHg.
+For these respective fixed doses the maximum mean changes in seated diastolic blood pressure were -3.4 mmHg, -3.3 mmHg, -4.4 mmHg and -5.4 mmHg.
+For these respective fixed doses the maximum mean changes in seated pulse were -4.8 bpm, -3.1 bpm, -6.5 bpm and -8.6 bpm.
 Decreases in blood pressure and heart rate were usually modest and asymptomatic; however, hypotension and bradycardia can occur.
 Hypotension was reported as an adverse reaction for 7% of the INTUNIV® group and 3% of the placebo group.
 This includes orthostatic hypotension, which was reported for 1% of the INTUNIV® group and none in the placebo group.
+These findings were generally similar in the monotherapy flexible dose trials (Studies 4 and 5).
 In the adjunctive trial, hypotension (3%) and bradycardia (2%) were observed in patients treated with INTUNIV® as compared to none in the placebo group.
 In long-term, open label studies, (mean exposure of approximately 10 months), maximum decreases in systolic and diastolic blood pressure occurred in the first month of therapy.
 Decreases were less pronounced over time.
-Syncope occurred in 1% of pediatric subjects in the clinical program.
+Syncope occurred in 1% of pediatric patients in the clinical program.
 The majority of these cases occurred in the long-term, open-label studies.
+
+Effects on Height, Weight, and Body Mass Index (BMI)
+
+Patients taking INTUNIV® demonstrated similar growth compared to normative data.
+Patients taking INTUNIV® had a mean increase in weight of 0.5 kg compared to those receiving placebo over a comparable treatment period.
+Patients receiving INTUNIV® for at least 12 months in open-label studies gained an average of 8 kg in weight and 8 cm (3 in) in height.
+The height, weight, and BMI percentile remained stable in patients at 12 months in the long-term studies compared to when they began receiving INTUNIV®.
 
 Other Adverse Reactions Observed in Clinical Studies
 
-Table 4 includes additional adverse reactions observed in short-term, placebo-controlled and long-term, open-label clinical studies not included elsewhere in section 6.1, listed by organ system.
+Table 13 includes additional adverse reactions observed in short-term, placebo-controlled and long-term, open-label clinical studies not included elsewhere in section 6.1, listed by organ system.
 
-| Table 4: Other adverse reactions observed in clinical studies |  |
-| --- | --- |
+Table 13: Other adverse reactions observed in clinical studies
+
 | Body System | Adverse Reaction |
-| Cardiac | Atrioventricular block, sinus arrhythmia |
-| Gastrointestinal | Dyspepsia, stomach discomfort, vomiting |
+| --- | --- |
+| Cardiac | Atrioventricular block |
 | General | Asthenia, chest pain |
 | Immune System Disorders | Hypersensitivity |
-| Investigations | Increased alanine amino transferase, increased weight |
+| Investigations | Increased alanine amino transferase |
 | Nervous system | Convulsion |
-| Psychiatric | Agitation, anxiety, depression, nightmare |
-| Renal | Increased urinary frequency, enuresis |
-| Respiratory | Asthma |
+| Renal | Increased urinary frequency |
 | Vascular | Hypertension, pallor |
 
 ## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of guanfacine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-An open-label post-marketing study involving 21,718 patients was conducted to assess the safety of guanfacine (as the hydrochloride) 1 mg/day given at bedtime for 28 days.
-Guanfacine was administered with or without other antihypertensive agents.
-Adverse events reported in the post-marketing study at an incidence greater than 1% included dry mouth, dizziness, somnolence, fatigue, headache and nausea.
-The most commonly reported adverse events in this study were the same as those observed in controlled clinical trials.
 
 Less frequent, possibly guanfacine-related events observed in the post-marketing study and/or reported spontaneously, not included in section 6.1, include:
 
