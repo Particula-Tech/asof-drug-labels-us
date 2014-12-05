@@ -4,22 +4,39 @@
 
 Pregnancy Category C
 
-There are insufficient human data upon which to base an evaluation of risk of TAMIFLU to the pregnant woman or developing fetus.
-Studies for effects on embryo-fetal development were conducted in rats (50, 250, and 1500 mg/kg/day) and rabbits (50, 150, and 500 mg/kg/day) by the oral route.
-Relative exposures at these doses were, respectively, 2, 13, and 100 times human exposure in the rat and 4, 8, and 50 times human exposure in the rabbit.
-Pharmacokinetic studies indicated that fetal exposure was seen in both species.
+Risk Summary
+
+There are no adequate and well-controlled studies with TAMIFLU in pregnant women.
+Available published epidemiological data suggest that TAMIFLU, taken in any trimester, is not associated with an increased risk of birth defects.
+However, these studies individually are limited by small sample sizes, use of different comparison groups, and some lacked information on dose, which preclude a definitive assessment of the risk.
+In animal studies, there was a dose-dependent increase in the incidence rates of a variety of minor skeletal abnormalities and variants in offspring of rats and rabbits exposed at maternally toxic doses 100 and 50 times human exposures, respectively.
+TAMIFLU should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Pregnant women are at higher risk of severe complications from influenza, which may lead to adverse pregnancy and/or fetal outcomes including maternal death, still births, birth defects, preterm delivery, low birth weight and small for gestational age.
+
+Data
+
+Human Data – Published prospective and retrospective observational studies of approximately 1500 women exposed to oseltamivir during pregnancy including approximately 400 women exposed in the first trimester suggest that the observed rate of congenital malformations was not increased above the rate in the general comparison population, regardless of when therapy was administered during the gestational period.
+However, individually, none of these studies had adequate sample sizes and some lacked information on dose which preclude a definitive assessment of the risk.
+
+Animal Data - Studies for effects on embryo-fetal development were conducted in rats (50, 250, and 1500 mg/kg/day) and rabbits (50, 150, and 500 mg/kg/day) by the oral route.
+Relative exposures at these doses were, respectively, 2, 13, and 100 times human exposure in the rat and 4, 8, and 50 times human exposure in the rabbit, based on AUC.
+Pharmacokinetic studies indicated that there was fetal exposure in both species.
 In the rat study, minimal maternal toxicity was reported in the 1500 mg/kg/day group.
 In the rabbit study, slight and marked maternal toxicities were observed, respectively, in the 150 and 500 mg/kg/day groups.
-There was a dose-dependent increase in the incidence rates of a variety of minor skeletal abnormalities and variants in the exposed offspring in these studies.
+At the maternally toxic doses, statistically significant increases in the incidence rates of a variety of minor skeletal abnormalities and variants were observed in the exposed offspring.
 However, the individual incidence rate of each skeletal abnormality or variant remained within the background rates of occurrence in the species studied.
-
-Because animal reproductive studies may not be predictive of human response and there are no adequate and well-controlled studies in pregnant women, TAMIFLU should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
 
-In lactating rats, oseltamivir and oseltamivir carboxylate are excreted in the milk.
-It is not known whether oseltamivir or oseltamivir carboxylate is excreted in human milk.
-TAMIFLU should, therefore, be used only if the potential benefit for the lactating mother justifies the potential risk to the breast-fed infant.
+Risk Summary
+
+Based on limited published data, oseltamivir and oseltamivir carboxylate are present in human milk at low levels considered unlikely to lead to toxicity in the breastfed infant.
+Exercise caution when TAMIFLU is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 

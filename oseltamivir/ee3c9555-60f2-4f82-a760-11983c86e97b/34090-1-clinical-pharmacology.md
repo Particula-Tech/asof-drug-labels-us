@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Oseltamivir is an antiviral drug [see Microbiology(12.4)].
+Oseltamivir is an antiviral drug with activity against influenza virus [see Microbiology(12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -78,6 +78,11 @@ Hepatic Impairment
 
 In clinical studies oseltamivir carboxylate exposure was not altered in subjects with mild or moderate hepatic impairment [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
+Pregnant Women
+
+A pooled population pharmacokinetic analysis indicates that the TAMIFLU dosage regimen [see Dosage and Administration (2)] resulted in lower exposure to the active metabolite in pregnant women (n=59) compared to non-pregnant women (n=33).
+However, this predicted exposure is expected to have activity against susceptible influenza virus strains and there are insufficient pharmacokinetics and safety data to recommend a dose adjustment for pregnant women.
+
 Pediatric Subjects (1 to 12 years of age)
 
 The pharmacokinetics of oseltamivir and oseltamivir carboxylate have been evaluated in a single-dose pharmacokinetic study in pediatric subjects aged 5 to 16 years (n=18) and in a small number of pediatric subjects aged 3 to 12 years (n=5) enrolled in a clinical trial.
@@ -102,19 +107,21 @@ Mechanism of Action
 
 Oseltamivir phosphate is an ethyl ester prodrug requiring ester hydrolysis for conversion to the active form, oseltamivir carboxylate.
 Oseltamivir carboxylate is an inhibitor of influenza virus neuraminidase affecting release of viral particles.
+The median IC50 values of oseltamivir against influenza A/H1N1, influenza A/H3N2, and influenza B clinical isolates were 2.5 nM (range 0.93-4.16 nM, N=74), 0.96 nM (range 0.13-7.95 nM, N=774), and 60 nM (20-285 nM, N=256), respectively, in a neuraminidase assay with a fluorescently labeled MUNANA substrate.
 
 Antiviral Activity
 
-The antiviral activity and neuraminidase inhibitory activity of oseltamivir carboxylate against laboratory strains and clinical isolates of influenza virus was determined in cell culture and biochemical assays.
+The antiviral activity of oseltamivir carboxylate against laboratory strains and clinical isolates of influenza virus was determined in cell culture.
 The concentrations of oseltamivir carboxylate required for inhibition of influenza virus in cell culture were highly variable depending on the assay method used and the virus tested.
 The 50% and 90% effective concentrations (EC50 and EC90) were in the range of 0.0008 µM to >35 µM and 0.004 µM to >100 µM, respectively (1 µM=0.284 µg/mL).
-The median IC50 values of oseltamivir against influenza A/H1N1, influenza A/H3N2, and influenza B clinical isolates were 2.5 nM (range 0.93-4.16 nM, N=74), 0.96 nM (range 0.13-7.95 nM, N=774), and 60 nM (20-285 nM, N=256), respectively, in a neuraminidase assay with a fluorescently labeled MUNANA substrate.
 The relationship between the antiviral activity in cell culture, inhibitory activity in the neuraminidase assay, and the inhibition of influenza virus replication in humans has not been established.
 
 Resistance
 
-Influenza A virus isolates with reduced susceptibility to oseltamivir carboxylate have been recovered by serial passage of virus in cell culture in the presence of increasing concentrations of oseltamivir carboxylate, from clinical isolates collected during treatment with oseltamivir, and from viral isolates sampled during community surveillance studies.
+Cell culture studies: Influenza A virus isolates with reduced susceptibility to oseltamivir carboxylate have been recovered by serial passage of virus in cell culture in the presence of increasing concentrations of oseltamivir carboxylate.
 Reduced susceptibility of influenza virus to inhibition by oseltamivir carboxylate may be conferred by amino acid substitutions in the viral neuraminidase and/or hemagglutinin proteins.
+
+Clinical studies: Reduced susceptibility isolates have been obtained during treatment with oseltamivir and from sampling during community surveillance studies.
 Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 10.
 The clinical impact of this reduced susceptibility is unknown.
 Hemagglutinin substitutions associated with oseltamivir resistance include A28T and R124M in influenza A H3N2 and H154Q in H1N9, a reassortant human/avian virus.
@@ -166,16 +173,16 @@ The incidence of oseltamivir treatment-associated resistance in pediatric treatm
 The frequency of resistance selection to oseltamivir and the prevalence of such resistant virus vary seasonally and geographically.
 
 Circulating seasonal influenza strains expressing neuraminidase resistance-associated substitutions have been observed in individuals who have not received oseltamivir treatment.
-The oseltamivir resistance-associated substitution H275Y was found in >99% of US circulating 2008 H1N1 influenza isolates.
-The 2009 H1N1 influenza ("swine flu") was almost uniformly susceptible to oseltamivir.
-Prescribers should consider available information from the CDC on influenza drug susceptibility patterns and treatment effects when deciding whether to use TAMIFLU.
+The oseltamivir resistance-associated substitution H275Y was found in >99% of US circulating 2008 H1N1 influenza virus isolates.
+The 2009 H1N1 influenza virus ("swine flu") was almost uniformly susceptible to oseltamivir.
+Prescribers should consider available information from the CDC on influenza virus drug susceptibility patterns and treatment effects when deciding whether to use TAMIFLU.
 
 Cross-resistance
 
 Cross-resistance between oseltamivir and zanamivir has been observed in neuraminidase biochemical assays.
 The H275Y (N1 numbering) or N294S (N2 numbering) oseltamivir resistance-associated substitutions observed in the N1 neuraminidase subtype, and the E119V or N294S oseltamivir resistance-associated substitutions observed in the N2 subtype (N2 numbering), are associated with reduced susceptibility to oseltamivir but not zanamivir.
-The Q136K and K150T zanamivir resistance-associated substitutions observed in N1 neuraminidase, or the S250G zanamivir resistance-associated substitutions observed in influenza B, confer reduced susceptibility to zanamivir but not oseltamivir.
-The R292K oseltamivir resistance-associated substitution observed in N2, and the I222T, D198E/N, R371K, or G402S oseltamivir resistance-associated substitutions observed in influenza B neuraminidase, confer reduced susceptibility to both oseltamivir and zanamivir.
+The Q136K and K150T zanamivir resistance-associated substitutions observed in N1 neuraminidase, or the S250G zanamivir resistance-associated substitutions observed in influenza B virus neuraminidase, confer reduced susceptibility to zanamivir but not oseltamivir.
+The R292K oseltamivir resistance-associated substitution observed in N2, and the I222T, D198E/N, R371K, or G402S oseltamivir resistance-associated substitutions observed in influenza B virus neuraminidase, confer reduced susceptibility to both oseltamivir and zanamivir.
 These examples do not represent an exhaustive list of cross resistance-associated substitutions and prescribers should consider available information from the CDC on influenza drug susceptibility patterns and treatment effects when deciding whether to use TAMIFLU.
 
 No single amino acid substitution has been identified that could confer cross-resistance between the neuraminidase inhibitor class (oseltamivir, zanamivir) and the M2 ion channel inhibitor class (amantadine, rimantadine).

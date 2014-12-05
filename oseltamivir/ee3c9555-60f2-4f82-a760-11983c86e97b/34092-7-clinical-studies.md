@@ -2,7 +2,7 @@
 
 ## 14.1 Treatment of Influenza
 
-Adult and Adolescents Subjects (13 years of age and older)
+Adult and Adolescent Subjects (13 years of age and older)
 
 Two placebo-controlled double-blind clinical trials were conducted: one in the U.S. and one outside the U.S. Subjects were eligible for these trials if they had fever >100°F, accompanied by at least one respiratory symptom (cough, nasal symptoms, or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue, or headache) and influenza virus was known to be circulating in the community.
 In addition, all subjects enrolled in the trials were allowed to take fever-reducing medications.
@@ -41,7 +41,7 @@ Subgroup analyses of this study by gender showed no differences in the treatment
 
 Pediatric Subjects (2 weeks to less than 1 year of age)
 
-Two open label trials evaluated the safety and pharmacokinetics of oseltamivir and oseltamivir carboxylate in influenza infected pediatric subjects 2 weeks to less than 1 year of age (including premature infants at least 36 weeks post conceptional age).
+Two open label trials evaluated the safety and pharmacokinetics of oseltamivir and oseltamivir carboxylate in influenza-infected pediatric subjects 2 weeks to less than 1 year of age (including premature infants at least 36 weeks post conceptional age).
 Subjects received TAMIFLU at doses ranging from 2 to 3.5 mg/kg twice daily for 5 days depending on subject age.
 These clinical trials were not designed to evaluate clinical efficacy or virologic response.
 
@@ -81,5 +81,5 @@ Median time since transplant for hematopoietic stem cell transplant recipients w
 Approximately 40% of subjects received influenza vaccine prior to entering the study.
 The primary efficacy endpoint for this study was the incidence of confirmed, clinical influenza, defined as oral temperature >99.0°F/37.2°C plus cough and/or coryza, all recorded within 24 hours, plus either a positive virus culture or a four-fold increase in virus antibody titers from baseline.
 The incidence of confirmed clinical influenza was 3% (7/238) in the group not receiving TAMIFLU compared with 2% (5/237) in the group receiving TAMIFLU; this difference was not statistically significant.
-A secondary analysis was performed using the same clinical symptoms and RT-PCR for laboratory confirmation of influenza.
-Among subjects who were not already shedding virus at baseline, the incidence of RT-PCR-confirmed clinical influenza was 3% (7/231) in the group not receiving TAMIFLU and <1% (1/232) in the group receiving TAMIFLU.
+A secondary analysis was performed using the same clinical symptoms and RT-PCR for laboratory confirmation of influenza infection.
+Among subjects who were not already shedding virus at baseline, the incidence of RT-PCR-confirmed clinical influenza infection was 3% (7/231) in the group not receiving TAMIFLU and <1% (1/232) in the group receiving TAMIFLU.

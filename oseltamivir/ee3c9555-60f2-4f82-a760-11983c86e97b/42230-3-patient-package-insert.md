@@ -41,10 +41,9 @@ Before you take TAMIFLU, tell your healthcare provider if you:
   TAMIFLU contains sorbitol and may cause stomach upset and diarrhea in people who are fructose intolerant.
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  It is not known if TAMIFLU will harm your unborn baby.
+  Available information indicate that TAMIFLU does not increase the risk of birth defects.
 - are breastfeeding or plan to breastfeed.
-  It is not known if TAMIFLU passes into your breast milk.
-  You and your healthcare provider should decide if you will take TAMIFLU while you are breastfeeding.
+  TAMIFLU can pass into breast milk in small amounts.
 
 Tell your healthcare provider about all the medicines you take, including prescription or over-the-counter medicines, vitamins, and herbal supplements.
 
