@@ -7,7 +7,7 @@ Co-administration with other CNS depressants (e.g., benzodiazepines, opioids, tr
 Dosage adjustments of zolpidem tartrate and of other concomitant CNS depressants may be necessary when zolpidem tartrate is administered with such agents because of the potentially additive effects.
 The use of zolpidem tartrate with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended [see DOSAGE AND ADMINISTRATION (2.3)].
 
-The risk of next-day psychomotor impairment, including impaired driving, is increased if zolpidem tartrate is taken with less than a full night of sleep remaining (7- to 8 hours); if a higher than the recommended dose is taken; if co-administered with other CNS depressants; or if co-administered with other drugs that increase the blood levels of zolpidem.
+The risk of next-day psychomotor impairment, including impaired driving, is increased if zolpidem tartrate is taken with less than a full night of sleep remaining (7 to 8 hours); if a higher than the recommended dose is taken; if co-administered with other CNS depressants; or if co-administered with other drugs that increase the blood levels of zolpidem.
 Patients should be cautioned against driving and other activities requiring complete mental alertness if zolpidem tartrate is taken in these circumstances [see DOSAGE AND ADMINISTRATION (2) and CLINICAL STUDIES (14.3)].
 
 ## 5.2 Need to Evaluate for Co-morbid Diagnoses
@@ -32,7 +32,7 @@ Some of these changes included decreased inhibition (e.g., aggressiveness and ex
 Visual and auditory hallucinations have been reported.
 
 In controlled trials of zolpidem tartrate 10 mg taken at bedtime < 1% of adults with insomnia reported hallucinations.
-In a clinical trial, 7% of pediatric patients treated with zolpidem tartrate 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo[see USE IN SPECIFIC POPULATIONS (8.4)].
+In a clinical trial, 7% of pediatric patients treated with zolpidem tartrate 0.25 mg/kg taken at bedtime reported hallucinations versus 0% treated with placebo [see USE IN SPECIFIC POPULATIONS (8.4)].
 
 Complex behaviors such as "sleep-driving" (i.e., driving while not fully awake after ingestion of a sedative-hypnotic, with amnesia for the event) have been reported in sedative-hypnotic-naive as well as in sedative-hypnotic-experienced persons.
 Although behaviors such as "sleep-driving" have occurred with zolpidem tartrate alone at therapeutic doses, the co-administration of zolpidem tartrate with alcohol and other CNS depressants increases the risk of such behaviors, as does the use of zolpidem tartrate at doses exceeding the maximum recommended dose.
@@ -62,3 +62,8 @@ The risk of respiratory depression should be considered prior to prescribing zol
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
 Monitor patients for tolerance, abuse, and dependence [see DRUG ABUSE AND DEPENDENCE (9.2) AND (9.3)].
+
+## 5.8 Severe Injuries
+
+Zolpidem can cause drowsiness and a decreased level of consciousness, which may lead to falls and consequently to severe injuries.
+Severe injuries such as hip fractures and intracranial hemorrhage have been reported.

@@ -14,7 +14,7 @@ Mutagenesis
 
 Zolpidem was negative in in vitro (bacterial reverse mutation, mouse lymphoma, and chromosomal aberration) and in vivo (mouse micronucleus) genetic toxicology assays.
 
-Impairment of fertility
+Impairment of Fertility
 
 Oral administration of zolpidem (doses of 4, 20, and 100 mg base/kg/day) to rats prior to and during mating, and continuing in females through postpartum day 25, resulted in irregular estrus cycles and prolonged precoital intervals at the highest dose tested.
 The no-effect dose for these findings is approximately 24 times the MRHD on a mg/m2 basis.

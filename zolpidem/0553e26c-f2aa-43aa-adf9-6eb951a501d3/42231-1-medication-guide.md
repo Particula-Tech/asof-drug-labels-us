@@ -95,6 +95,7 @@ Zolpidem tartrate tablets may cause serious side effects, including:
 - •severe allergic reactions.
   Symptoms include swelling of the tongue or throat, and trouble breathing.
   Get emergency medical help if you get these symptoms after taking zolpidem tartrate tablets.
+- •falls, which may lead to severe injuries.
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate tablets.
 
@@ -145,7 +146,7 @@ What are the ingredients in zolpidem tartrate tablets?
 
 Active Ingredient: Zolpidem tartrate
 
-Inactive Ingredients: colloidal silicon dioxide, lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, povidone, magnesium stearate, hypromellose 2910, hydroxypropyl cellulose, polyethylene glycol 400, talc, titanium dioxide, carnauba wax; the 10-mg tablet also contains ferric oxide
+Inactive Ingredients: colloidal silicon dioxide, lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, povidone, magnesium stearate, hypromellose, hydroxypropyl cellulose, polyethylene glycol, talc, titanium dioxide, carnauba wax; the 10-mg tablet also contains ferric oxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -156,4 +157,4 @@ Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-March 2014
+October 2014

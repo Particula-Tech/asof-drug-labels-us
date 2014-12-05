@@ -11,7 +11,7 @@ This selective binding of zolpidem on the BZ1 receptor is not absolute, but it m
 
 The pharmacokinetic profile of zolpidem is characterized by rapid absorption from the gastrointestinal tract and a short elimination half-life (T1/2) in healthy subjects.
 
-In a single-dose crossover study in 45 healthy subjects administered 5 and 10 mg zolpidem, the mean peak concentrations (Cmax) were 59 (range: 29 to 113) and 121 (range: 58 to 272) ng/mL, respectively, occurring at a mean time (Tmax) of 1.6 hours for both.
+In a single-dose crossover study in 45 healthy subjects administered 5 and 10 mg zolpidem tartrate tablets, the mean peak concentrations (Cmax) were 59 (range: 29 to 113) and 121 (range: 58 to 272) ng/mL, respectively, occurring at a mean time (Tmax) of 1.6 hours for both.
 The mean zolpidem elimination half-life was 2.6 (range: 1.4 to 4.5) and 2.5 (range: 1.4 to 3.8) hours, for the 5 and 10 mg tablets, respectively.
 Zolpidem is converted to inactive metabolites that are eliminated primarily by renal excretion.
 Zolpidem demonstrated linear kinetics in the dose range of 5 to 20 mg.

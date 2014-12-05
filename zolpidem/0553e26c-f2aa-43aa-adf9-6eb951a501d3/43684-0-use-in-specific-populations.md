@@ -57,7 +57,7 @@ The dose of zolpidem tartrate in elderly patients is 5 mg to minimize adverse ef
 ## 8.6 Gender Difference in Pharmacokinetics
 
 Women clear zolpidem tartrate from the body at a lower rate than men.
-Cmaxand AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
+Cmax and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
 Given the higher blood levels of zolpidem tartrate in women compared to men at a given dose, the recommended initial dose of zolpidem tartrate for adult women is 5 mg, and the recommended dose for adult men is 5 or 10 mg.
 
 In geriatric patients, clearance of zolpidem is similar in men and women.
