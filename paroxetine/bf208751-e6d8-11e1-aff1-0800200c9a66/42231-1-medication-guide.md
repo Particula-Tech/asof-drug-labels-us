@@ -66,6 +66,10 @@ Abnormal bleeding.
 BRISDELLE may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin or non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen, naproxen, or aspirin.
 
 5.
+Visual problems. • Eye pain • Changes in vision • Swelling or redness in or around the eye Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
+6.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this condition.
 Symptoms may include:
@@ -74,12 +78,12 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems.
 
-6.
+7.
 Bone Fractures.
 Women who take BRISDELLE may have a higher risk of bone fractures.
 Contact your healthcare provider if you have pain in a bone.
 
-7.
+8.
 Manic episodes:
 
 - greatly increased energy
@@ -90,21 +94,13 @@ Manic episodes:
 - excessive happiness or irritability
 - talking more or faster than usual.
 
-8.
+9.
 Seizures or convulsions.
 
-9.
+10.
 Restlessness.
 Women who take BRISDELLE may feel an inner restlessness, agitation (nervousness), or be unable to sit still or stand still especially when they start taking BRISDELLE.
 Call your healthcare provider if this happens to you.
-
-10.
-Visual problems.
-
-- Eye pain
-- Changes in vision
-- Swelling or redness in or around the eye Only some people are at risk for these problems.
-  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 11.
 Driving.
@@ -267,4 +263,4 @@ Distributed by: Noven Therapeutics, LLC, Miami, FL 33186.
 BRISDELLE® is a registered trademark of Noven Therapeutics, LLC. © 2013-2014 Noven Therapeutics, LLC.
 All rights reserved.
 
-Revised 08/2014
+Revised 12/2014

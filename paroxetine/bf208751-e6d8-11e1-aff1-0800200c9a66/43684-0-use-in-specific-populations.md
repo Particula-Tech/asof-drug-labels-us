@@ -61,7 +61,7 @@ Clinical studies of BRISDELLE did not include sufficient numbers of subjects age
 Elderly patients may have elevated paroxetine plasma concentrations compared to younger patients.
 However, no BRISDELLE dose adjustment is considered necessary in elderly patients [see Clinical Pharmacology (12.3)].
 
-SSRIs have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.5)].
+SSRIs have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.6)].
 
 ## 8.6 Renal Impairment
 

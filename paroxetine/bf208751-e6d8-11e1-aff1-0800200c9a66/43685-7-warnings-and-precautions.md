@@ -50,7 +50,11 @@ Case reports and epidemiological studies (case-control and cohort design) have d
 Bleeding events related to SSRIs have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
 Caution patients about the risk of bleeding associated with the concomitant use of BRISDELLE and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.1)].
 
-## 5.5 Hyponatremia
+## 5.5 Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressants and BRISDELLE may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.6 Hyponatremia
 
 Hyponatremia may occur as a result of treatment with SSRIs, including BRISDELLE.
 Elderly patients may be at greater risk.
@@ -62,33 +66,29 @@ Consider discontinuation of BRISDELLE in patients with symptomatic hyponatremia 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-## 5.6 Bone Fracture
+## 5.7 Bone Fracture
 
 Epidemiological studies on bone fracture risk following exposure to SSRIs have reported an association between SSRI treatment and fractures.
 It is unknown to what extent fracture risk is directly attributable to SSRI treatment.
 If a BRISDELLE-treated patient presents with unexplained bone pain, point tenderness, swelling, or bruising, consider the possibility of a fragility fracture.
 
-## 5.7 Screening Patients for Bipolar Disorder and Monitoring for Mania/Hypomania
+## 5.8 Screening Patients for Bipolar Disorder and Monitoring for Mania/Hypomania
 
 BRISDELLE is only indicated for the treatment of moderate to severe VMS and is not approved for use in treating either depression or bipolar depression.
 However, prior to initiating treatment with BRISDELLE, all patients should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It is generally believed (though not established in controlled trials) that use of an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 
-## 5.8 Seizures
+## 5.9 Seizures
 
 In premarketing testing of paroxetine, seizures occurred in 0.1% of paroxetine-treated patients.
 Use BRISDELLE cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold.
 Evaluate and consider discontinuing use in any patient who develops seizures.
 
-## 5.9 Akathisia
+## 5.10 Akathisia
 
 The use of paroxetine or other SSRIs has been associated with the development of akathisia, which is characterized by an inner sense of restlessness and psychomotor agitation such as an inability to sit or stand still usually associated with subjective distress.
 This is most likely to occur within the first few weeks of treatment.
 Discontinue treatment with BRISDELLLE if akathisia occurs.
-
-## 5.10 Angle Closure Glaucoma
-
-Angle-Closure Glaucoma — The pupillary dilation that occurs following use of many antidepressant drugs including BRISDELLE may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.11 Potential for Cognitive and Motor Impairment
 

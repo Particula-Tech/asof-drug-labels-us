@@ -5,11 +5,12 @@ The following serious adverse reactions are discussed elsewhere in labeling:
 - Suicidality [see Warnings and Precautions (5.1)]
 - Serotonin syndrome [see Warnings and Precautions (5.2)]
 - Abnormal bleeding [see Warnings and Precautions (5.4)]
-- Hyponatremia [see Warnings and Precautions (5.5)]
-- Bone Fracture [see Warnings and Precautions (5.6)]
-- Mania/Hypomania [see Warnings and Precautions (5.7)]
-- Seizure [see Warnings and Precautions (5.8)]
-- Akathisia [see Warnings and Precautions (5.9)]
+- Angle-Closure Glaucoma [see Warnings and Precautions (5.5)]
+- Hyponatremia [see Warnings and Precautions (5.6)]
+- Bone Fracture [see Warnings and Precautions (5.7)]
+- Mania/Hypomania [see Warnings and Precautions (5.8)]
+- Seizure [see Warnings and Precautions (5.9)]
+- Akathisia [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
