@@ -7,7 +7,7 @@ These doses are approximately 20, 25, and 15 times, respectively, the maximum re
 
 There was no evidence of genotoxicity in the Ames test for mutagenicity or mouse micronucleus test for clastogenicity.
 
-Fertility of male or female rats was unaffected by clonidine HCl doses as high as 150 mcg/kg/day (approximately 3 times the MRDHD on a mg/m2 basis).
+Fertility of male or female rats was unaffected by clonidine HCl doses as high as 150 mcg/kg/day (approximately 3 times the MRHD on a mg/m2 basis).
 In a separate experiment, fertility of female rats appeared to be adversely affected at dose levels of 500 and 2000 mcg/kg/day (10 and 40 times the MRHD on a mg/m2 basis).
 
 ## 13.2 Animal Toxicology and/or Pharmacology

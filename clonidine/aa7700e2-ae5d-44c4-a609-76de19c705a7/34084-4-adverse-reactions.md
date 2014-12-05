@@ -1,12 +1,29 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described in greater detail elsewhere in labeling:
+
+- Hypotension/bradycardia [see Warnings and Precautions (5.1)]
+- Sedation and somnolence [see Warnings and Precautions (5.2)]
+- Rebound hypertension [see Warnings and Precautions (5.3)]
+- Allergic reactions [see Warnings and Precautions (5.4)]
+- Cardiac Conduction Abnormalities [see Warnings and Precautions (5.5)]
+
 ## 6.1 Clinical Trial Experience
 
-Two KAPVAY ADHD clinical studies evaluated 256 patients who received active therapy, in one of the two placebo-controlled studies (Studies 1 and 2) with primary efficacy end-points at 5-weeks.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Two KAPVAY ADHD clinical studies (Study 1, CLON-301 and Study 2, CLON-302) evaluated 256 patients in two 8-week placebo-controlled studies.
+
+A third KAPVAY ADHD clinical study (Study 3, SHN-KAP-401) evaluated 135 children and adolescents in a 40-week placebo-controlled randomized-withdrawal study.
 
 Study 1: Fixed-dose KAPVAY Monotherapy
 
-Study 1 was a multi-center, randomized, double-blind, placebo-controlled study with primary efficacy endpoint at 5 weeks, of two fixed doses (0.2 mg/day or 0.4 mg/day) of KAPVAY in children and adolescents (6 to 17 years of age) who met DSM-IV criteria for ADHD hyperactive or combined inattentive/hyperactive subtypes.
+Study 1 (CLON-301) was a short-term, multi-center, randomized, double-blind, placebo-controlled study of two fixed doses (0.2 mg/day or 0.4 mg/day) of KAPVAY in children and adolescents (6 to 17 years of age) who met DSM-IV criteria for ADHD hyperactive or combined inattentive/hyperactive subtypes.
+
+Most Common Adverse Reactions (incidence of ≥ 5% and at least twice the rate of placebo): somnolence, fatigue, irritability, insomnia, nightmare, constipation, dry mouth.
+
+Adverse Events Leading to Discontinuation of KAPVAY –Five patients (7%) in the low dose group (0.2 mg), 15 patients (20%) in the high dose group (0.4 mg), and 1 patient in the placebo group (1%) reported adverse reactions that led to discontinuation.
+The most common adverse reactions that led to discontinuation were somnolence and fatigue.
 
 Commonly observed adverse reactions (incidence of ≥2% in either active treatment group and greater than the rate on placebo) during the treatment period are listed in Table 2.
 
@@ -14,92 +31,60 @@ Table 2 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial-Treatment P
 
 |  | Percentage of Patients Reporting Event |  |  |
 | --- | --- | --- | --- |
-| Preferred Term | KAPVAY 0.4 mg/day N=78 | KAPVAY 0.2 mg/day N=76 | Placebo (N=76) |
-| Somnolence* | 31% | 38% | 5% |
-| Headache | 19% | 29% | 18% |
-| Upper Abdominal Pain | 13% | 20% | 17% |
-| Fatigue† | 13% | 16% | 1% |
-| Upper Respiratory Tract Infection | 6% | 11% | 4% |
-| Irritability | 6% | 9% | 3% |
-| Throat Pain | 6% | 8% | 3% |
-| Nausea | 8% | 5% | 4% |
-| Nightmare | 9% | 3% | 0 |
-| Dizziness | 3% | 7% | 5% |
-| Insomnia | 6% | 4% | 1% |
-| Emotional Disorder | 5% | 4% | 1% |
-| Constipation | 6% | 1% | 0 |
-| Dry Mouth | 5% | 0 | 1% |
-| Nasal Congestion | 5% | 3% | 1% |
-| Body Temperature Increased | 1% | 5% | 3% |
-| Gastrointestinal Viral | 0% | 7% | 4% |
-| Diarrhea | 1% | 4% | 3% |
-| Ear Pain | 0 | 5% | 1% |
-| Nasopharyngitis | 3% | 3% | 1% |
-| Abnormal Sleep-Related Event | 1% | 3% | 0 |
-| Aggression | 1% | 3% | 1% |
-| Asthma | 1% | 3% | 1% |
-| Bradycardia | 4% | 0 | 0 |
-| Enuresis | 4% | 0 | 0 |
-| Influenza like Illness | 3% | 1% | 1% |
-| Tearfulness | 3% | 1% | 0 |
-| Thirst | 3% | 1% | 0 |
-| Tremor | 3% | 1% | 0 |
-| Epistaxis | 0 | 3% | 0 |
-| Lower Respiratory Tract Infection | 0 | 3% | 1% |
-| Pollakiuria | 0 | 3% | 0 |
-| Sleep Terror | 0 | 3% | 0 |
+| Preferred Term | KAPVAY0.2 mg/dayN=76 | KAPVAY 0.4 mg/day N=78 | Placebo (N=76) |
+| PSYCHIATRIC DISORDERS Somnolence* Nightmare Emotional Disorder Aggression Tearfulness Enuresis Sleep Terror Poor Quality Sleep | 38%4%4%3%1%0%3%0% | 31%9%4%1%3%4%0%3% | 4%0%1%0%0%0%0%1% |
+| NERVOUS SYSTEM DISORDERS Headache Insomnia Tremor Abnormal Sleep-Related Event | 20%5%1%3% | 13%6%4%1% | 16%1%0%0% |
+| GASTROINTESTINAL DISORDERS Upper Abdominal Pain Nausea Constipation Dry Mouth | 15%4%1%0% | 10%5%6%5% | 12%3%0%1% |
+| GENERAL DISORDERS Fatigue† Irritability | 16%9% | 13%5% | 1%4% |
+| CARDIAC DISORDERS Dizziness Bradycardia | 7%0% | 3%4% | 5%0% |
+| INVESTIGATIONS Increased Heart Rate | 0% | 3% | 0% |
+| METABOLISM AND NUTRITION DISORDERS Decreased Appetite | 3% | 4% | 4% |
 
 * Somnolence includes the terms "somnolence" and "sedation". † Fatigue includes the terms "fatigue" and "lethargy".
 
-Commonly observed adverse reactions (incidence of ≥2% in either active treatment group and greater than the rate on placebo) during the taper period are listed in Table 3.
+Commonly observed adverse reactions (incidence of >2% in either active treatment group and greater than the rate on placebo) during the taper period are listed in Table 3.
 
 Table 3 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial-Taper Period* (Study 1)
 
 |  | Percentage of Patients Reporting Event |  |  |
 | --- | --- | --- | --- |
-| Preferred Term | KAPVAY 0.4 mg/day N=78 | KAPVAY 0.2 mg/day N=76 | Placebo (N=76) |
-| Abdominal Pain Upper | 6% | 0 | 3% |
-| Headache | 2% | 5% | 3% |
-| Gastrointestinal Viral | 5% | 0 | 0 |
-| Somnolence | 3% | 2% | 0 |
-| Heart Rate Increased | 3% | 0 | 0 |
-| Otitis Media Acute | 0 | 3% | 0 |
+| Preferred Term | KAPVAY 0.2 mg/day N=76 | KAPVAY 0.4 mg/day N=78 | Placebo (N=76) |
+| Abdominal Pain Upper | 0% | 6% | 3% |
+| Headache | 5% | 2% | 3% |
+| Gastrointestinal Viral | 0% | 5% | 0% |
+| Somnolence | 2% | 3% | 0% |
+| Heart Rate Increased | 0% | 3% | 0% |
+| Otitis Media Acute | 3% | 0% | 0% |
 
 * Taper Period: 0.2 mg dose, week 8; 0.4 mg dose, weeks 6-8; Placebo dose, weeks 6-8
 
 Study 2: Flexible-dose KAPVAY as Adjunctive Therapy to Psychostimulants
 
-Study 2 was a multi-center, randomized, double-blind, placebo-controlled study, with primary efficacy endpoint at 5 weeks, of a flexible dose of KAPVAY as adjunctive therapy to a psychostimulant in children and adolescents (6 to 17 years) who met DSM-IV criteria for ADHD hyperactive or combined inattentive/hyperactive subtypes.
-KAPVAY was initiated at 0.1 mg/day and titrated up to 0.4 mg/day over a 3-week period.
+Study 2 (CLON-302) was a short-term, randomized, double-blind, placebo-controlled study of a flexible dose of KAPVAY as adjunctive therapy to a psychostimulant in children and adolescents (6 to 17 years) who met DSM-IV criteria for ADHD hyperactive or combined inattentive/hyperactive subtypes during which KAPVAY was initiated at 0.1 mg/day and titrated up to 0.4 mg/day over a 3-week period.
 Most KAPVAY treated patients (75.5%) were escalated to the maximum dose of 0.4 mg/day.
 
-Commonly observed adverse reactions (incidence of ≥ 2% in the treatment group and greater than the rate on placebo) during the treatment period are listed in Table 4.
+Most Common Adverse Reactions (incidence of ≥ 5% and at least twice the rate of placebo): somnolence, fatigue, decreased appetite, dizziness.
+
+Adverse Events Leading to Discontinuation –There was one patient in the CLON+STM group (1%) who discontinued because of an adverse event (severe bradyphrenia, with severe fatigue).
+
+Commonly observed adverse reactions (incidence of ≥2% in the treatment group and greater than the rate on placebo) during the treatment period are listed in Table 4.
 
 Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial-Treatment Period (Study 2)
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
 | Preferred Term | KAPVAY+STM (N=102) | PBO+STM (N=96) |
-| Somnolence* | 19% | 8% |
-| Fatigue† | 16% | 4% |
-| Abdominal Pain Upper | 12% | 7% |
-| Nasal Congestion | 6% | 5% |
-| Throat Pain | 6% | 3% |
-| Decreased Appetite | 5% | 4% |
-| Body Temperature Increased | 4% | 2% |
-| Dizziness | 4% | 2% |
-| Insomnia | 4% | 2% |
-| Epistaxis | 3% | 0 |
-| Rhinorrhea | 3% | 0 |
-| Abdominal Pain | 2% | 1% |
-| Anxiety | 2% | 0 |
-| Pain in Extremity | 2% | 0 |
+| PSYCHIATRIC DISORDERS Somnolence* Aggression Affect Lability | 19%2%2% | 7%1%1% |
+| GENERAL DISORDERS Fatigue† Irritability Emotional Disorder | 14%2%2% | 4%7%0% |
+| NERVOUS SYSTEM DISORDERS Headache Insomnia | 7%4% | 12%3% |
+| GASTROINTESTINAL DISORDERS Upper Abdominal Pain | 7% | 4% |
+| RESPIRATORY DISORDERS Nasal Congestion | 2% | 2% |
+| METABOLISM AND NUTRITION DISORDERS Decreased Appetite | 6% | 3% |
+| CARDIAC DISORDERS Dizziness | 5% | 1% |
 
 * Somnolence includes the terms: "somnolence" and "sedation". † Fatigue includes the terms "fatigue" and "lethargy".
 
-Commonly observed adverse reactions (incidence of ≥2% in the treatment group and greater than the rate on placebo) during the taper period are listed in Table 5.
-
-Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial-Taper Period* (Study 2)
+Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial- Taper Period* (Study 2)
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -108,28 +93,30 @@ Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Th
 | Headache | 3% | 1% |
 | Irritability | 3% | 2% |
 | Throat Pain | 3% | 1% |
-| Gastroenteritis Viral | 2% | 0 |
-| Rash | 2% | 0 |
+| Gastroenteritis Viral | 2% | 0% |
+| Rash | 2% | 0% |
 
-* Taper Period: weeks 6-8 Most common adverse reactions, defined as events that were reported in at least 5% of drug-treated patients and at least twice the rate as in placebo patients, during the treatment period were somnolence, fatigue, upper respiratory tract infection, irritability, throat pain, insomnia, nightmares, emotional disorder, constipation, nasal congestion, increased body temperature, dry mouth, and ear pain.
-The most common adverse reactions that were reported during the taper phase were upper abdominal pain and gastrointestinal virus.
+* Taper Period: weeks 6-8
 
 Adverse Reactions Leading to Discontinuation
 
 Thirteen percent (13%) of patients receiving KAPVAY discontinued from the pediatric monotherapy study due to adverse events, compared to 1% in the placebo group.
 The most common adverse reactions leading to discontinuation of KAPVAY monotherapy treated patients were from somnolence/sedation (5%) and fatigue (4%).
-Less common adverse reactions leading to discontinuation (occurring in approximately 1% of patients) included: formication, vomiting, prolonged QT, increased heart rate, and rash.
-In the pediatric adjunctive treatment to stimulants study, one patient discontinued from KAPVAY + stimulant group because of bradyphrenia.
 
-Effects on Laboratory Tests, Vital Signs, and Electrocardiograms
+Effect on Blood Pressure and Heart Rate
 
-KAPVAY treatment was not associated with any clinically important effects on any laboratory parameters in either of the placebo-controlled studies.
+In patients that completed 5 weeks of treatment in a controlled, fixed-dose monotherapy study in pediatric patients, during the treatment period the maximum placebo-subtracted mean change in systolic blood pressure was -4.0 mmHg on KAPVAY 0.2 mg/day and -8.8 mmHg on KAPVAY 0.4 mg/day.
+The maximum placebo-subtracted mean change in diastolic blood pressure was -4.0 mmHg on KAPVAY 0.2 mg/day and -7.3 mmHg on KAPVAY 0.4 mg/day.
+The maximum placebo-subtracted mean change in heart rate was -4.0 beats per minute on KAPVAY 0.2 mg/day and -7.7 beats per minute on KAPVAY 0.4 mg/day.
 
-Mean decreases in blood pressure and heart rate were seen [see Warnings and Precautions (5.1)].
-
-There were no changes on ECGs to suggest a drug-related effect.
+During the taper period of the fixed-dose monotherapy study the maximum placebo-subtracted mean change in systolic blood pressure was +3.4 mmHg on KAPVAY 0.2 mg/day and -5.6 mmHg on KAPVAY 0.4 mg/day.
+The maximum placebo-subtracted mean change in diastolic blood pressure was +3.3 mmHg on KAPVAY 0.2 mg/day and -5.4 mmHg on KAPVAY 0.4 mg/day.
+The maximum placebo-subtracted mean change in heart rate was -0.6 beats per minute on KAPVAY 0.2 mg/day and -3.0 beats per minute on KAPVAY 0.4 mg/day.
 
 ## 6.2 Postmarketing Experience
 
-Hallucinations and atrioventricular (AV) block have been identified during post approval use of KAPVAY.
-Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post-approval use of KAPVAY.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These events exclude those already mentioned in 6.1:
+
+Psychiatric: hallucinations Cardiovascular: Q-T prolongation

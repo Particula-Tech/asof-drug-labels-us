@@ -21,19 +21,20 @@ A comparison across studies suggests that the Cmax is 50% lower for KAPVAY compa
 Following oral administration of an immediate release formulation, plasma clonidine concentration peaks in approximately 3 to 5 hours and the plasma half-life ranges from 12 to 16 hours.
 The half-life increases up to 41 hours in patients with severe impairment of renal function.
 Following oral administration about 40-60% of the absorbed dose is recovered in the urine as unchanged drug in 24 hours.
+
 About 50% of the absorbed dose is metabolized in the liver.
 Although studies of the effect of renal impairment and studies of clonidine excretion have not been performed with KAPVAY, results are likely to be similar to those of the immediate release formulation.
 
-The pharmacokinetic profile of KAPVAY administration was evaluated in an open-label, three-period, randomized, crossover study of 15 healthy adult subjects who received three single dose regimens of clonidine: 0.1 mg of KAPVAY under fasted conditions, 0.1 mg of KAPVAY following a high fat meal, and 0.1 mg of clonidine immediate-release (Catapres®) under fasted conditions.
+The pharmacokinetic profile of KAPVAY administration was evaluated in an open-label, three-period, randomized, crossover study of 15 healthy adult subjects who received three single-dose regimens of clonidine: 0.1 mg of KAPVAY under fasted conditions, 0.1 mg of KAPVAY following a high fat meal, and 0.1 mg of clonidine immediate-release (Catapres®) under fasted conditions.
 Treatments were separated by one-week washout periods.
 
-Mean concentration-time data from the 3 treatments are shown in Table 6 and Figure 1.
+Mean concentration-time data from the 3 treatments are shown in Table 7 and Figure 1.
 After administration of KAPVAY, maximum clonidine concentrations were approximately 50% of the Catapres maximum concentrations and occurred approximately 5 hours later relative to Catapres.
 Similar elimination half-lives were observed and total systemic bioavailability following KAPVAY was approximately 89% of that following Catapres.
 
 Food had no effect on plasma concentrations, bioavailability, or elimination half-life.
 
-Table 6 Pharmacokinetic Parameters of Clonidine in Healthy Adult Volunteers
+Table 7 Pharmacokinetic Parameters of Clonidine in Healthy Adult Volunteers
 
 |  | CATAPRES-Fasted n=15 |  | KAPVAY-Fed n=15 |  | KAPVAY-Fasted n=14 |  |
 | --- | --- | --- | --- | --- | --- | --- |

@@ -1,3 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-KAPVAY should not be used in patients with known hypersensitivity to clonidine.
+KAPVAY is contraindicated in patients with a history of a hypersensitivity reaction to clonidine.
+Reactions have included generalized rash, urticaria, and angioedema [see Adverse Reactions (6)].

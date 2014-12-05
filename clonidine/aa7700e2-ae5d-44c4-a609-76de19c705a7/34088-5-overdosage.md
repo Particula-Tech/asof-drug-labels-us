@@ -9,4 +9,4 @@ Signs and symptoms of overdose generally occur within 30 minutes to two hours af
 
 Treatment
 
-Consult with a Certified Poison Control Center for up-to-date guidance and advice.
+Consult with a Certified Poison Control Center (1-800-222-1222) for up-to-date guidance and advice.

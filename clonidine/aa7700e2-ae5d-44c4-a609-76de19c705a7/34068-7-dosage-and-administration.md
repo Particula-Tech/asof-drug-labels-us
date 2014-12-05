@@ -1,14 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-KAPVAY is an extended-release tablet formulation of clonidine hydrochloride.
-While it is dosed twice a day, the same as the immediate-release clonidine formulation, it is not to be used interchangeably with the immediate-release formulation.
-
 ## 2.1 General Dosing Information
 
-KAPVAY is an extended-release tablet and, therefore, must be swallowed whole and never crushed, cut or chewed.
-KAPVAY may be taken with or without food.
+KAPVAY is an extended-release tablet to be taken orally with or without food.
+Swallow tablets whole.
+Do not crush, chew, or break tablets because this will increase the rate of clonidine release.
 
-Due to the lack of controlled clinical trial data and differing pharmacokinetic profiles, substitution of KAPVAY for other clonidine products on a mg-per-mg basis is not recommended.
+Due to the lack of controlled clinical trial data and differing pharmacokinetic profiles, substitution of KAPVAY for other clonidine products on a mg-per-mg basis is not recommended [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Dose Selection
 
@@ -29,11 +27,11 @@ Doses of KAPVAY higher than 0.4 mg/day (0.2 mg twice daily) were not evaluated i
 
 When KAPVAY is being added-on to a psychostimulant, the dose of the psychostimulant can be adjusted depending on the patient's response to KAPVAY.
 
-## 2.3 Maintenance Treatment
+## 2.3 Discontinuation
 
-The effectiveness of KAPVAY for longer-term use (more than 5 weeks) has not been systematically evaluated in controlled trials.
-Therefore the physician electing to use KAPVAY for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
+When discontinuing KAPVAY, the total daily dose should be tapered in decrements of no more than 0.1 mg every 3 to 7 days to avoid rebound hypertension [see Warnings and Precautions (5.3)].
 
-## 2.4 Discontinuation
+## 2.4 Missed Doses
 
-When discontinuing KAPVAY, the total daily dose should be tapered in decrements of no more than 0.1 mg every 3 to 7 days.
+If patients miss a dose of KAPVAY, they should skip that dose and take the next dose as scheduled.
+Do not take more than the prescribed total daily amount of KAPVAY in any 24-hour period.
