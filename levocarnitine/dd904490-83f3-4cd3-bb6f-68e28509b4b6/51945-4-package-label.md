@@ -41,3 +41,5 @@ REV.
 MFD by: Hi-Tech Pharmacal Co., Inc.
 
 Amityville, NY 11701
+
+Bottle Label
