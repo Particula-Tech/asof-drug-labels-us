@@ -49,7 +49,7 @@ Table 11 Clinical Success Rates By Pathogen (Pooled CAP Studies)
 | Mycoplasma pneumoniae | 73/76 | (96%) |
 | Moraxella catarrhalis | 11/12 | (92%) |
 
-## 14.3 Community Acquired Pneumonia caused by Multi-Drug Resistant Streptococcus pneumoniae (MDRSP)*
+## 14.3 Community Acquired Pneumonia caused by Multi-Drug Resistant Streptococcus pneumoniae (MDRSP)
 
 AVELOX was effective in the treatment of community acquired pneumonia (CAP) caused by multi-drug resistant Streptococcus pneumoniae MDRSP* isolates.
 Of 37 microbiologically evaluable patients with MDRSP isolates, 35 patients (95%) achieved clinical and bacteriological success post-therapy.
@@ -89,7 +89,7 @@ Clinical success (cure plus improvement) at the 7 to 21 day post-therapy test of
 
 An additional non-comparative study was conducted to gather bacteriological data and to evaluate microbiological eradication in adult patients treated with AVELOX 400 mg once daily for seven days.
 All patients (n = 336) underwent antral puncture in this study.
-Clinical success rates and eradication/presumed eradication rates at the 21 to 37 day follow-up visit were 97% (29 out of 30) for Streptococcus pneumoniae, 83% (15 out of 18) for Moraxella catarrhalis, and 80% (24 out of 30) for Haemophilusinfluenzae.
+Clinical success rates and eradication/presumed eradication rates at the 21 to 37 day follow-up visit were 97% (29 out of 30) for Streptococcus pneumoniae, 83% (15 out of 18) for Moraxella catarrhalis, and 80% (24 out of 30) for Haemophilus influenzae.
 
 ## 14.5 Uncomplicated Skin and Skin Structure Infections
 

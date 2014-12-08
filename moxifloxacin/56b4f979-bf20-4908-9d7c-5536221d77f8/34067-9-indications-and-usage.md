@@ -4,7 +4,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-AVELOX® Tablets and IV are indicated for the treatment of adults (≥ 18 years of age) with infections caused by susceptible isolates of the designated microorganisms in the conditions listed below [see Dosage and Administration (2) and Use In Specific Populations (8.5)].
+AVELOX Tablets and IV are indicated for the treatment of adults (≥ 18 years of age) with infections caused by susceptible isolates of the designated microorganisms in the conditions listed below [see Dosage and Administration (2) and Use In Specific Populations (8.5)].
 
 Culture and Susceptibility Testing
 
@@ -35,4 +35,4 @@ AVELOX is indicated for the treatment of Complicated Skin and Skin Structure Inf
 
 ## 1.6 Complicated Intra-Abdominal Infections
 
-AVELOX is indicated for the treatment of Complicated Intra-Abdominal Infections including polymicrobial infections such as abscess caused by Escherichia coli, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, Enterococcus faecalis, Proteus mirabilis, Clostridium perfringens, Bacteroides thetaiotaomicron, or Peptostreptococcusspecies [see Clinical Studies (14.7)].
+AVELOX is indicated for the treatment of Complicated Intra-Abdominal Infections including polymicrobial infections such as abscess caused by Escherichia coli, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, Enterococcus faecalis, Proteus mirabilis, Clostridium perfringens, Bacteroides thetaiotaomicron, or Peptostreptococcus species [see Clinical Studies (14.7)].

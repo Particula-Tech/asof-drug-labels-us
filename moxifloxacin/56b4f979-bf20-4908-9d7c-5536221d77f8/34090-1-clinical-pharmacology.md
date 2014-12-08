@@ -14,7 +14,7 @@ Co-administration with a high fat meal (that is, 500 calories from fat) does not
 
 Consumption of 1 cup of yogurt with moxifloxacin does not significantly affect the extent or rate of systemic absorption (AUC).
 
-Table 5 Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given orally
+Table 5: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given orally
 
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hr) |
 | --- | --- | --- | --- |
@@ -166,7 +166,7 @@ A study of the skin response to ultraviolet (UVA and UVB) and visible radiation 
 The minimum erythematous dose (MED) was measured before and after treatment with AVELOX (200 mg or 400 mg once daily), lomefloxacin (400 mg once daily), or placebo.
 In this study, the MED measured for both doses of AVELOX were not significantly different from placebo, while lomefloxacin significantly lowered the MED.
 
-It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject’s susceptibility to this adverse event such as: a patient’s skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.10), Adverse Reactions (6.3), and Patient Counseling Information (17.3)].
+It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject’s susceptibility to this adverse event such as: a patient’s skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.11), Adverse Reactions (6.3), and Patient Counseling Information (17)].
 
 ### Drug-Drug Interactions
 
@@ -174,16 +174,15 @@ The following drug interactions were studied in healthy volunteers or patients.
 
 Antacids and iron significantly reduced bioavailability of moxifloxacin, as observed with other quinolones [see Drug Interactions (7.1)].
 
-Calcium, digoxin, itraconazole, morphine, probenecid, ranitidine, theophylline, and warfarin did not significantly affect the pharmacokinetics of moxifloxacin.
+Calcium, digoxin, itraconazole, morphine, probenecid, ranitidine, theophylline and warfarin did not significantly affect the pharmacokinetics of moxifloxacin.
 These results and the data from in vitro studies suggest that moxifloxacin is unlikely to significantly alter the metabolic clearance of drugs metabolized by CYP3A4, CYP2D6, CYP2C9, CYP2C19, or CYP1A2 enzymes.
 
-Moxifloxacin had no clinically significant effect on the pharmacokinetics of atenolol, digoxin, glyburide, itraconazole, oral contraceptives, theophylline, and warfarin [see Drug Interactions (7.2)].
+Moxifloxacin had no clinically significant effect on the pharmacokinetics of atenolol, digoxin, glyburide, itraconazole, oral contraceptives, theophylline, cyclosporine and warfarin [see Drug Interactions (7.2)].
 
 #### Antacids
 
 When moxifloxacin (single 400 mg tablet dose) was administered two hours before, concomitantly, or 4 hours after an aluminum/magnesium-containing antacid (900 mg aluminum hydroxide and 600 mg magnesium hydroxide as a single oral dose) to 12 healthy volunteers there was a 26%, 60% and 23% reduction in the mean AUC of moxifloxacin, respectively.
-Moxifloxacin should be taken at least 4 hours before or 8 hours after antacids containing magnesium or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc, or VIDEX® (didanosine) chewable/ buffered tablets or the pediatric powder for oral solution.
-[see Dosage and Administration (2.2), Drug Interactions (7.1)].
+Moxifloxacin should be taken at least 4 hours before or 8 hours after antacids containing magnesium or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc, or VIDEX® (didanosine) chewable/ buffered tablets or the pediatric powder for oral solution [see Dosage and Administration (2.2), Drug Interactions (7.1)].
 
 #### Atenolol
 
@@ -271,8 +270,7 @@ Cross-resistance has been observed between moxifloxacin and other fluoroquinolon
 Gram-positive bacteria resistant to other fluoroquinolones may, however, still be susceptible to moxifloxacin.
 There is no known cross-resistance between moxifloxacin and other classes of antimicrobials.
 
-Moxifloxacin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections.
-[see Indications and Usage (1)].
+Moxifloxacin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1)].
 
 Gram-positive bacteria
 
@@ -320,7 +318,7 @@ Gram-positive bacteria
 Gram-negative bacteria
 
 - •Citrobacter freundii
-- •Klebsiellao xytoca
+- •Klebsiellao axytoca
 - •Legionella pneumophila
 
 Anaerobic bacteria

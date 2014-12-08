@@ -7,7 +7,7 @@ The duration of therapy depends on the type of infection as described in Table 1
 
 Table 1 Dosage and Duration of Therapy in Adult Patients
 
-| Type of InfectionDue to the designated pathogens [see Indications and Usage (1), for IV use, see Use in Specific Populations (8.5)]. | Dose Every 24 hours | Duration (days) |
+| Type of InfectionDue to the designated pathogens [see Indications and Usage (1), for IV use, see Use in Specific Populations (8.5)]. | Dose Every 24 hours | Duration (days)Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician |
 | --- | --- | --- |
 | Acute Bacterial Sinusitis (1.1) | 400 mg | 10 |
 | Acute Bacterial Exacerbation of Chronic Bronchitis (1.2) | 400 mg | 5 |
@@ -53,8 +53,8 @@ If the same intravenous line or a Y-type line is used for sequential infusion of
 
 To prepare AVELOX IV injection premix in flexible containers:
 
-1. 1.Close flow control clamp of administration set.
-2. 2.Remove cover from port at bottom of container.
-3. 3.Insert piercing pin from an appropriate transfer set (for example, one that does not require excessive force, such as ISO compatible administration set) into port with a gentle twisting motion until pin is firmly seated.
+- 1.Close flow control clamp of administration set.
+- 2.Remove cover from port at bottom of container.
+- 3.Insert piercing pin from an appropriate transfer set (for example, one that does not require excessive force, such as ISO compatible administration set) into port with a gentle twisting motion until pin is firmly seated.
 
 NOTE: Refer to complete directions that have been provided with the administration set.

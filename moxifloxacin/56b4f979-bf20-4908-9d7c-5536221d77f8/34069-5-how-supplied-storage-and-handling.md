@@ -8,16 +8,16 @@ The tablet is coded with the word “BAYER” on one side and “M400” on the 
 
 | Package | NDC Code |
 | --- | --- |
-| Bottles of 30: | 0085-1733-01 |
-| Unit Dose Pack of 50: | 0085-1733-02 |
-| ABC Pack of 5: | 0085-1733-03 |
+| Bottles of 30 | 0085-1733-01 |
+| Unit Dose Pack of 50 | 0085-1733-02 |
+| ABC Pack of 5 | 0085-1733-03 |
 
 Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
 Avoid high humidity.
 
 ## 16.2 AVELOX Intravenous Solution – Premix Bags
 
-AVELOX IV (moxifloxacin) hydrochloride in sodium chloride injection) is available in ready-to-use 250 mL latex-free flexible bags containing 400 mg of moxifloxacin in 0.8% saline.
+AVELOX IV (moxifloxacin) hydrochloride in sodium chloride injection is available in ready-to-use 250 mL latex-free flexible bags containing 400 mg of moxifloxacin in 0.8% saline.
 NO FURTHER DILUTION OF THIS PREPARATION IS NECESSARY.
 
 | Package | NDC Code |

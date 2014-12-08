@@ -5,22 +5,29 @@
 Quinolones form chelates with alkaline earth and transition metal cations.
 Oral administration of quinolones with antacids containing aluminum or magnesium, with sucralfate, with metal cations such as iron, or with multivitamins containing iron or zinc, or with formulations containing divalent and trivalent cations such as VIDEX® (didanosine) chewable/buffered tablets or the pediatric powder for oral solution, may substantially interfere with the absorption of quinolones, resulting in systemic concentrations considerably lower than desired.
 Therefore, AVELOX should be taken at least 4 hours before or 8 hours after these agents.
-[see Dosage and Administration (2.2), Pharmacokinetics (12.3), and Patient Counseling Information (17.2).]
+[See Dosage and Administration (2.2), Pharmacokinetics (12.3), and Patient Counseling Information (17).]
 
 ## 7.2 Warfarin
 
 Quinolones, including AVELOX, have been reported to enhance the anticoagulant effects of warfarin or its derivatives in the patient population.
 In addition, infectious disease and its accompanying inflammatory process, age, and general status of the patient are risk factors for increased anticoagulant activity.
 Therefore the prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored if a quinolone is administered concomitantly with warfarin or its derivatives.
-[see Adverse Reactions (6.2, 6.3), Pharmacokinetics (12.3), and Patient Counseling Information (17.3).]
+[See Adverse Reactions (6.2, 6.3), Pharmacokinetics (12.3), and Patient Counseling Information (17).]
 
-## 7.3 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
+## 7.3 Antidiabetic Agents
 
-Although not observed with AVELOX in preclinical and clinical trials, the concomitant administration of a nonsteroidal anti-inflammatory drug with a quinolone may increase the risks of CNS stimulation and convulsions [see Warnings and Precautions (5.6), and Patient Counseling Information (17.3)].
+Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones and an antidiabetic agent.
+Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered.
+If a hypoglycemic reaction occurs, AVELOX should be discontinued and appropriate therapy should be initiated immediately.
+[See Warnings and Precautions (5.10); Adverse Reactions (6.2), Patient Counseling Information (17).]
 
-## 7.4 Drugs that Prolong QT
+## 7.4 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
+
+Although not observed with AVELOX in preclinical and clinical trials, the concomitant administration of a nonsteroidal anti-inflammatory drug with a quinolone may increase the risks of CNS stimulation and convulsions [see Warnings and Precautions (5.6), and Patient Counseling Information (17)].
+
+## 7.5 Drugs that Prolong QT
 
 There is limited information available on the potential for a pharmacodynamic interaction in humans between AVELOX and other drugs that prolong the QTc interval of the electrocardiogram.
 Sotalol, a Class III antiarrhythmic, has been shown to further increase the QTc interval when combined with high doses of intravenous (IV) AVELOX in dogs.
 Therefore, AVELOX should be avoided with Class IA and Class III antiarrhythmics.
-[see Warnings and Precautions, (5.3), Nonclinical Toxicology (13.2), and Patient Counseling Information (17.3).]
+[See Warnings and Precautions, (5.3), Nonclinical Toxicology (13.2), and Patient Counseling Information (17).]

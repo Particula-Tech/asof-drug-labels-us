@@ -95,6 +95,7 @@ Tell your healthcare provider about all your medical conditions, including if yo
 - •Are breast-feeding or planning to breast-feed.
   It is not known if AVELOX passes into breast milk.
   You and your healthcare provider should decide whether you will take AVELOX or breast-feed.
+- •Have diabetes or problems with low blood sugar (hypoglycemia)
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal and dietary supplements.
 AVELOX and other medicines can affect each other causing side effects.
@@ -108,6 +109,7 @@ Especially tell your healthcare provider if you take:
 - •A medicine to control your heart rate or rhythm (antiarrhythmic) See “What are the possible side effects of AVELOX?”
 - •An anti-psychotic medicine.
 - •A tricyclic antidepressant.
+- •An oral anti-diabetes medicine or insulin.
 - •Erythromycin.
 - •A water pill (diuretic).
 - •A steroid medicine.
@@ -231,6 +233,11 @@ Stop AVELOX and talk with your healthcare provider right away if you get any of 
 
 The nerve damage may be permanent.
 
+- •Changes in blood sugar
+- People who take AVELOX and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+  Follow your healthcare provider's instructions for how often to check your blood sugar.
+  If you have diabetes and you get low blood sugar while taking AVELOX, stop taking AVELOX and call your healthcare provider right away.
+  Your antibiotic medicine may need to be changed.
 - •Sensitivity to sunlight (photosensitivity)
 
 See “What should I avoid while taking AVELOX?”
@@ -273,11 +280,11 @@ What are the ingredients in AVELOX?
   - •Active ingredient: moxifloxacin hydrochloride
   - •Inactive ingredients: sodium chloride, USP, water for injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment
 
-Revised August 2013
+Revised November 2014
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
+Manufactured for: Bayer HealthCare Pharmaceuticals Inc. Whippany, NJ 07981
 
 AVELOX Tablets manufactured in Germany AVELOX IV manufactured in Germany or AVELOX IV manufactured in Norway by Fresenius Kabi Norge AS NO-1753 Halden, Norway
 
@@ -287,6 +294,4 @@ AVELOX® is a registered trademark of Bayer Aktiengesellschaft and is used under
 
 Rx Only
 
-©2012 Bayer HealthCare Pharmaceuticals Inc.
-
-83680831, R.4
+©2014 Bayer HealthCare Pharmaceuticals Inc.
