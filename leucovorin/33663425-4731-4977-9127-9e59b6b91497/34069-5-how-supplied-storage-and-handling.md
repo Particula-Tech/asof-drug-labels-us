@@ -24,7 +24,8 @@ NDC 0054-4498-10: Bottles of 24 tablets.
 
 NDC 0054-4499-11: Bottles of 25 tablets.
 
-Store at Controlled Room Temperature 15° to 30°C (59° to 86°F).
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
 
 Protect From Light and Moisture.
 
@@ -41,6 +42,6 @@ Roxane Laboratories, Inc.
 
 Columbus, Ohio 43216
 
-4055309//04 Revised September 2012
+4055309//05 Revised October 2014
 
-© RLI, 2012
+© RLI, 2014
