@@ -2,14 +2,16 @@
 
 NDC 0187-0245-03
 
-MIGRANAL® (dihydroergotamine mesylate, USP) NASAL SPRAY
+MIGRANAL®
+
+(dihydroergotamine mesylate, USP) NASAL SPRAY
 
 This Kit Contains:
 
-- 8 MIGRANAL Vials
-- 8 MIGRANAL Nasal Sprayers
-- Administration Instructions
-- Package Insert
+- •8 MIGRANAL Vials
+- •8 MIGRANAL Nasal Sprayers
+- •Administration Instructions
+- •Package Insert
 
 FOR NASAL USE ONLY.
 NOT FOR INJECTION.
