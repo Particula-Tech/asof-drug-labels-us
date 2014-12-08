@@ -1,4 +1,8 @@
-# OMNITROPE® PEN 5 INSTRUCTIONS FOR USE
+# INSTRUCTIONS FOR USE
+
+….
+
+## OMNITROPE® PEN 5 INSTRUCTIONS FOR USE
 
 For use with Omnitrope® (Somatropin [rDNA origin] Injection) 5 mg/1.5 mL cartridges
 
@@ -6,7 +10,7 @@ TABLE OF CONTENTS
 
 Important Safety Information
 
-DOs and DON'Ts
+DOs and DON’Ts
 
 Pen Parts
 
@@ -49,7 +53,7 @@ It is for use with Omnitrope® cartridges 5 mg/1.5 mL and BD® pen needles (29G 
 3.
 People with very poor vision should not use the Omnitrope® Pen 5 unless someone with good eyesight is able to help.
 
-DOS AND DON'TS
+DOS AND DON’TS
 
 DOs
 
@@ -344,7 +348,7 @@ TABLE OF CONTENTS
 
 Important Safety Information
 
-DOs and DON'Ts
+DOs and DON’Ts
 
 Pen Parts
 
@@ -387,7 +391,7 @@ It is for use with Omnitrope® cartridges 10 mg/1.5 mL and BD® pen needles (29G
 3.
 People with very poor vision should not use the Omnitrope® Pen 10 unless someone with good eyesight is able to help.
 
-DOS AND DON'TS
+DOS AND DON’TS
 
 DOs
 
@@ -784,7 +788,7 @@ Manufactured in Austria by Sandoz GmbH
 
 Distributed by Sandoz Inc., Princeton, NJ 08540
 
-08-2014M
+10-2014M
 
 46096407
 

@@ -8,9 +8,6 @@ Escherichia coli that has been modified by the addition of the gene for human gr
 Omnitrope® Cartridge is a clear, colorless, sterile solution for subcutaneous injection.
 Omnitrope® for Injection is a lyophilized powder that is reconstituted for subcutaneous injection.
 
-Figure 1.
-Schematic amino acid sequence of human growth hormone including the disulfide bonds
-
 Each Omnitrope® Cartridge or vial contains the following (see Table 4):
 
 Table 4.

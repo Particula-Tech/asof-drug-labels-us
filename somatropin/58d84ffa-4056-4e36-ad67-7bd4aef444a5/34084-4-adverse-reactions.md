@@ -14,7 +14,7 @@ This list presents the most seriousb and/or most frequently observeda adverse re
 - •bPancreatitis [see Warnings and Precautions (5.15)]
 - •aFluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see Warnings and Precautions (5.6)]
 - •aUnmasking of latent central hypothyroidism [see Warnings and Precautions (5.8)]
-- •aInjection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see Warnings and Precautions (5.12)]
+- •aInjection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see Warnings and Precautions (5.13)]
 
 ## 6.2 Clinical Trials Experience
 

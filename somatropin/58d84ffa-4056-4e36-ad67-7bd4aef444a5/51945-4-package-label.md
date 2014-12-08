@@ -1,4 +1,4 @@
-# 5 mg 1.5 mL Carton
+# 5 mg/1.5 mL Carton
 
 NDC 0781-3001-07
 
@@ -22,7 +22,9 @@ somatropin 5 mg/1.5 mL
 
 SANDOZ
 
-# 10 mg 1.5 mL Carton
+a Novartis company
+
+# 10 mg/1.5 mL Carton
 
 NDC 0781-3004-07
 
@@ -45,6 +47,8 @@ somatropin 10 mg/1.5 mL
 1 cartridge
 
 SANDOZ
+
+a Novartis company
 
 # 5.8 mg Carton
 
