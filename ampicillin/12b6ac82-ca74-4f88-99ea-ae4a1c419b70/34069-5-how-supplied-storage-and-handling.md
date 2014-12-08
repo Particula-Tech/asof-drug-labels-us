@@ -13,7 +13,9 @@ Also available: Ampicillin for Injection, USP equivalent to 250 mg, 500 mg, 1 or
 | NDC 44567-102-10 | 1 gram vial | (Tray of 10) |
 | NDC 44567-103-10 | 2 gram vial | (Tray of 10) |
 
-Ampicillin for Injection, USP dry powder should be stored at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].CLINITEST® is a registered trademark of Siemans Medical Solutions Diagnostics.
+Ampicillin for Injection, USP dry powder should be stored at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+
+CLINITEST® is a registered trademark of Siemans Healthcare Diagnostics LLC.
 
 CLINISTIX® is a registered trademark of Bayer Healthcare LLC.
 
@@ -23,4 +25,6 @@ WG Critical Care, LLC
 
 Paramus, NJ 07652
 
-INS15792 04
+09/2014
+
+INS15792 05

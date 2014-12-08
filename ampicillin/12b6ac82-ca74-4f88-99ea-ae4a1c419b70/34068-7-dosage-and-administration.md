@@ -98,7 +98,8 @@ d) After entry, use entire contents of Pharmacy Bulk Package bottle promptly.
 The entire contents of the Pharmacy Bulk Package bottle must be dispensed within ONE HOUR of reconstitution.
 This time limit should begin with the introduction of solvent in the Pharmacy Bulk Package Bottle.
 
-e) A plastic bail band attached to the Pharmacy Bulk Package provides a suitable hanging device while dispensing contents.
+e) The hanger label on the Pharmacy Bulk Package provides a suitable hanging device while dispensing contents.
+If the Pharmacy Bulk Package does not have a hanger label, a plastic bail band will provide a suitable hanging device.
 
 Use of this product is restricted to a suitable work area, such as a laminar flow hood.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
