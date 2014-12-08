@@ -60,7 +60,7 @@ Figure 1: Mean IOP during the study
 
 Cataracts and Cataract Surgery At baseline, 235 of the 375 ILUVIEN subjects were phakic; 121 of 185 sham-controlled subjects were phakic.
 The incidence of cataract development in patients who had a phakic study eye was higher in the ILUVIEN group (82%) compared with Sham (50%).
-The median time of cataract being reported as an adverse event was approximately 12 months in the ILUVIEN group and 9 months in the Sham group.
+The median time of cataract being reported as an adverse event was approximately 12 months in the ILUVIEN group and 19 months in the Sham group.
 Among these patients, 80% of ILUVIEN subjects vs. 27% of sham-controlled subjects underwent cataract surgery, generally within the first 18 months (Median Month 15 for both ILUVIEN group and for Sham) of the studies.
 
 ## 6.2 Postmarketing Experience
