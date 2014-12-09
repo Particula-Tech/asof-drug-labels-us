@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA203623"
+  ],
+  "inn": "sildenafil",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-776-05",
+    "31722-776-31",
+    "31722-776-32",
+    "31722-776-33",
+    "31722-776-34",
+    "31722-776-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sildenafil",
+      "name": "Sildenafil"
+    }
+  ],
+  "setid": "f9415142-a5ac-45c0-a7c2-fb1fb6751f3d",
+  "source": "dailymed"
+}
