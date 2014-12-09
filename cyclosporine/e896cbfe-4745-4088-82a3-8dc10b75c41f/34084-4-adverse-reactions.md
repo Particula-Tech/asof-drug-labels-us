@@ -27,8 +27,7 @@ Based on the historical experience with Sandimmune®, the following reactions oc
 
 |  |  | Randomized Kidney Patients |  | Cyclosporine Patients (Sandimmune®) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Body System | Adverse Reactions |  |  |  |  |  |
-|  |  | Sandimmune® (N = 227) % | Azathioprine (N = 228) % | Kidney (N = 705) % | Heart (N = 112) % | Liver (N = 75) % |
+| Body System | Adverse Reactions | Sandimmune® (N = 227) % | Azathioprine (N = 228) % | Kidney (N = 705) % | Heart (N = 112) % | Liver (N = 75) % |
 | Genitourinary |  |  |  |  |  |  |
 |  | Renal Dysfunction | 32 | 6 | 25 | 38 | 37 |
 | Cardiovascular |  |  |  |  |  |  |
@@ -110,13 +109,13 @@ These changes are usually reversible with timely dose decrease or drug discontin
 The frequency and severity of serum creatinine elevations increase with dose and duration of cyclosporine therapy.
 These elevations are likely to become more pronounced without dose reduction or discontinuation.
 
-## The following adverse events occurred in controlled clinical trials
+The following adverse events occurred in controlled clinical trials
 
 Cyclosporine (MODIFIED)/Sandimmune® Rheumatoid Arthritis Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Group
 
-|  |  | Studies 651+652+2008 | Study 302 | Study 654 | Study 654 | Study 302 | Studies 651+652 +2008 |
+|  |  | Studies651+652+2008 | Study 302 | Study 654 | Study 654 | Study 302 | Studies651+652+2008 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body System | Preferred Term | Sandimmune®† (N = 269) | Sandimmune® (N = 155) | Methotrexate & Sandimmune® (N = 74) | Methotrexate & Placebo (N = 73) | Cyclosporine (MODIFIED) (N = 143) | Placebo (N = 201) |
+| BodySystem | PreferredTerm | Sandimmune®†(N = 269) | Sandimmune®(N = 155) | Metho-trexate &Sandimmune®(N = 74) | Metho-trexate &Placebo(N = 73) | Cyclosporine (MODIFIED)(N = 143) | Placebo(N = 201) |
 | Autonomic Nervous System Disorders |  |  |  |  |  |  |  |
 |  | Flushing | 2% | 2% | 3% | 0% | 5% | 2% |
 | Body As A Whole - General Disorders |  |  |  |  |  |  |  |

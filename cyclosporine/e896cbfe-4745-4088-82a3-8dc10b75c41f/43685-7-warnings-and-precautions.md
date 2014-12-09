@@ -454,7 +454,7 @@ Nifedipine
 Frequent gingival hyperplasia when nifedipine is given concurrently with cyclosporine have been reported.
 The concomitant use of nifedipine should be avoided in patients in whom gingival hyperplasia develops as a side effect of cyclosporine.
 
-Methyprednisolone
+Methylprednisolone
 
 Convulsions when high dose methylprednisolone is given concomitantly with cyclosporine have been reported.
 
