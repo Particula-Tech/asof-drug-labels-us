@@ -13,15 +13,15 @@ Dispense in tight container as defined in USP.
 Store at 15° to 25°C (59° to 77°F).
 DO NOT FREEZE.
 
-1 (A-a)DO2 = [(713 x FiO2) − (PaCO2/0.8)]− PaO2 (mm Hg)
+1 (A-a)DO2 = [(713 x FiO2) − (PaCO2/0.8)]− PaO2 (mm Hg) MEPRON is a registered trademark of the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2013, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-March 2013
+December 2014
 
-MPR:2PI
+MPR:3PI

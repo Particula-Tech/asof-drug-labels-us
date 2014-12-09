@@ -8,7 +8,7 @@ MEPRON®
 
 SUSPENSION
 
-750 mg/ 5mL
+750mg/5mL
 
 210 mL
 

@@ -26,7 +26,7 @@ The results of the PCP event rates appear in Table 3.
 There were no significant differences in mortality rates among the groups.
 
 Table 3.
-Confirmed or Presumed/Probable PCP Events(As-Treated Analysis)a
+Confirmed or Presumed/Probable PCP Events(As-treated Analysis)a
 
 | Assessment | Study 115-211 |  | Study 115-213 |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -34,12 +34,15 @@ Confirmed or Presumed/Probable PCP Events(As-Treated Analysis)a
 | % | 15 | 19 | 23 | 18 | 17 |
 | Relative Riskb(CI)c | 0.77(0.57, 1.04) |  | 1.47(0.86, 2.50) | 1.14(0.63, 2.06) |  |
 
-- aThose events occurring during or within 30 days of stopping assigned treatment.
-- bRelative risk <1 favors atovaquone and values >1 favor comparator.
-  These trials were designed to show superiority of atovaquone to the comparator.
-  This was not shown.
-- cThe confidence level of the interval for the dapsone comparative study was 95% and for the pentamidine comparative study was 97.5%.
-- An analysis of all PCP events (intent-to-treat analysis) showed results similar to those above.
+a Those events occurring during or within 30 days of stopping assigned treatment.
+
+b Relative risk <1 favors atovaquone and values >1 favor comparator.
+These trials were designed to show superiority of atovaquone to the comparator.
+This was not shown.
+
+cThe confidence level of the interval for the dapsone comparative study was 95% and for the pentamidine comparative study was 97.5%.
+
+An analysis of all PCP events (intent-to-treat analysis) showed results similar to those above.
 
 ## Treatment of PCP
 
@@ -72,7 +75,7 @@ However, only 1 (2.0%) of the 49 patients with day 4 plasma atovaquone concentra
 Sixty-two percent of patients on MEPRON and 64% of patients on TMP-SMX were classified as protocol-defined therapy successes (Table 4).
 
 Table 4.
-Outcome of Treatment for PCP-Positive Patients Enrolled in the TMP-SMX Comparative Study
+Outcome of Treatment for PCP-positive Patients Enrolled in the TMP-SMX Comparative Study
 
 |  | Number of Patients(% of Total) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -84,7 +87,7 @@ Outcome of Treatment for PCP-Positive Patients Enrolled in the TMP-SMX Comparati
 | -Unevaluable | 22 | (14) | 16 | (10) | 0.28 |
 | Required alternate PCP therapy during study | 55 | (34) | 55 | (34) | 0.95 |
 
-- a As defined by the protocol and described in study description above.
+a As defined by the protocol and described in study description above.
 
 The failure rate due to lack of response was significantly larger for patients receiving MEPRON while the failure rate due to adverse experiences was significantly larger for patients receiving TMP-SMX.
 
@@ -112,7 +115,7 @@ However, only 2 of 21 (9%) patients with day 4 plasma concentrations ≥5 mcg/mL
 The therapeutic outcomes for the 134 patients who received study medication in this trial are presented in Table 5.
 
 Table 5.
-Outcome of Treatment for PCP-Positive Patients Enrolled in the Pentamidine Comparative Study
+Outcome of Treatment for PCP-positive Patients Enrolled in the Pentamidine Comparative Study
 
 |  | Primary Treatment |  |  |  |  | Salvage Treatment |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

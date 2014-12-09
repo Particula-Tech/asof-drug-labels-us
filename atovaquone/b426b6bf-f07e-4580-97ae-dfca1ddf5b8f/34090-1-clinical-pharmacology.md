@@ -12,9 +12,9 @@ In the same study, the bioavailability of a 750-mg dose of the previously market
 
 Administering atovaquone with food enhances its absorption by approximately 2 fold.
 In one study, 16 healthy volunteers received a single dose of 750 mg MEPRON Suspension after an overnight fast and following a standard breakfast (23 g fat: 610 kCal).
-The mean (±SD) area under the concentration-time curve (AUC) values were 324 ± 115 and 801 ± 320 hr●mcg/mL under fasting and fed conditions, respectively, representing a 2.6 ± 1.0-fold increase.
+The mean (±SD) area under the concentration-time curve (AUC) values were 324 ± 115 and 801 ± 320 h●mcg/mL under fasting and fed conditions, respectively, representing a 2.6 ± 1.0-fold increase.
 The effect of food (23 g fat: 400 kCal) on plasma atovaquone concentrations was also evaluated in a multiple-dose, randomized, crossover study in 19 HIV-infected volunteers (CD4 <200 cells/mm3) receiving daily doses of 500 mg MEPRON Suspension.
-AUC was 280 ± 114 hr●mcg/mL when atovaquone was administered with food as compared to 169 ± 77 hr●mcg/mL under fasting conditions.
+AUC was 280 ± 114 h●mcg/mL when atovaquone was administered with food as compared to 169 ± 77 h●mcg/mL under fasting conditions.
 Maximum plasma atovaquone concentration (Cmax) was 15.1 ± 6.1 and 8.8 ± 3.7 mcg/mL when atovaquone was administered with food and under fasting conditions, respectively.
 
 ### Dose Proportionality
@@ -49,7 +49,7 @@ These patients were dosed once daily with food for 12 days.
 The average steady-state plasma atovaquone concentrations in the 24 patients with available concentration data are shown in Table 1.
 
 Table 1.
-Average Steady-State Plasma Atovaquone Concentrations in Pediatric Patients
+Average Steady-state Plasma Atovaquone Concentrations in Pediatric Patients
 
 | Age | Dose of MEPRON Suspension |  |  |
 | --- | --- | --- | --- |
@@ -88,16 +88,16 @@ The glucuronide metabolite:parent ratio decreased from a mean of 4.5 when zidovu
 This effect is minor and would not be expected to produce clinically significant events.
 Zidovudine had no effect on atovaquone pharmacokinetics.
 
-## Relationship Between Plasma Atovaquone Concentration and Clinical Outcome
+## Relationship between Plasma Atovaquone Concentration and Clinical Outcome
 
 In a comparative study of atovaquone tablets with TMP-SMX for oral treatment of mild-to-moderate PCP (see INDICATIONS AND USAGE), where AIDS patients received 750 mg atovaquone tablets 3 times daily for 21 days, the mean steady-state atovaquone concentration was 13.9 ± 6.9 mcg/mL (n = 133).
 Analysis of these data established a relationship between plasma atovaquone concentration and successful treatment.
 This is shown in Table 2.
 
 Table 2.
-Relationship Between Plasma Atovaquone Concentration and Successful Treatment
+Relationship between Plasma Atovaquone Concentration and Successful Treatment
 
-| Steady-State PlasmaAtovaquone Concentrations | Successful TreatmentaNo. Successes/No. in Group (%) |  |  |  |
+| Steady-state PlasmaAtovaquone Concentrations | Successful TreatmentaNo. Successes/No. in Group (%) |  |  |  |
 | --- | --- | --- | --- | --- |
 | (mcg/mL) | Observed |  | Predictedb |  |
 | 0 to <5 | 0/6 | (0) | 1.5/6 | (25) |
@@ -107,9 +107,10 @@ Relationship Between Plasma Atovaquone Concentration and Successful Treatment
 | 20 to <25 | 18/18 | (100) | 17.8/18 | (99) |
 | 25+ | 6/6 | (100) | 6/6 | (100) |
 
-- a Successful treatment was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
-  This was based on data from patients for which both outcome and steady-state plasma atovaquone concentration data are available.
-- b Based on logistic regression analysis.
+a Successful treatment was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
+This was based on data from patients for which both outcome and steady-state plasma atovaquone concentration data are available.
+
+b Based on logistic regression analysis.
 
 A dosing regimen of MEPRON Suspension for the treatment of mild-to-moderate PCP has been selected to achieve average plasma atovaquone concentrations of approximately 20 mcg/mL, because this plasma concentration was previously shown to be well tolerated and associated with the highest treatment success rates (Table 2).
 In an open-label PCP treatment study with MEPRON Suspension, dosing regimens of 1,000 mg once daily, 750 mg twice daily, 1,500 mg once daily, and 1,000 mg twice daily were explored.

@@ -12,9 +12,9 @@ In both populations, the type of treatment-limiting events differed between the 
 Hypersensitivity reactions (rash, fever, allergic reaction) and anemia were more common in patients treated with dapsone, while gastrointestinal events (nausea, diarrhea, and vomiting) were more common in patients treated with MEPRON Suspension.
 
 Table 6.
-Treatment-Limiting Adverse Experiences in the Dapsone Comparative PCP Prevention Study
+Treatment-limiting Adverse Experiences in the Dapsone Comparative PCP Prevention Study
 
-| Treatment-LimitingAdverse Experience | Percentage of Patients with Treatment-Limiting Adverse Experience |  |  |  |
+| Treatment-limitingAdverse Experience | Percentage of Patients with Treatment-limiting Adverse Experience |  |  |  |
 | --- | --- | --- | --- | --- |
 | All Patients |  | Patients Not Taking Either Drug at Enrollment |  |  |
 | MEPRON 1,500 mg/day(n = 536) | Dapsone100 mg/day(n = 521) | MEPRON1,500 mg/day(n = 238) | Dapsone 100 mg/day(n = 249) |  |
@@ -36,9 +36,9 @@ The most common adverse experiences requiring discontinuation of dosing in the g
 The most common adverse experience requiring discontinuation of dosing in the group receiving aerosolized pentamidine was bronchospasm (2%).
 
 Table 7.
-Treatment-Emergent Adverse Experiences in the Aerosolized Pentamidine Comparative PCP Prevention Study
+Treatment-emergent Adverse Experiences in the Aerosolized Pentamidine Comparative PCP Prevention Study
 
-| Treatment-EmergentAdverse Experience | Percentage of Patients with Treatment-Emergent Adverse Experience |  |  |
+| Treatment-emergentAdverse Experience | Percentage of Patients with Treatment-emergent Adverse Experience |  |  |
 | --- | --- | --- | --- |
 | MEPRON 1,500 mg/day(n = 175) | MEPRON 750 mg/day (n = 188) | Aerosolized Pentamidine (n = 186) |  |
 | Diarrhea | 42 | 42 | 35 |
@@ -68,11 +68,11 @@ Table 8 summarizes all the clinical adverse experiences reported by ≥5% of the
 The incidence of adverse experiences with MEPRON Suspension at the recommended dose was similar to that seen with the tablet formulation of atovaquone.
 
 Table 8.
-Treatment-Emergent Adverse Experiences in the TMP-SMX Comparative PCP Treatment Study
+Treatment-emergent Adverse Experiences in the TMP-SMX Comparative PCP Treatment Study
 
-|  | Percentage of Patients with Treatment-Emergent Adverse Experience |  |
+|  | Percentage of Patients with Treatment-emergent Adverse Experience |  |
 | --- | --- | --- |
-| Treatment-EmergentAdverse Experience | MEPRON(n = 203) | TMP-SMX(n = 205) |
+| Treatment-emergentAdverse Experience | MEPRON(n = 203) | TMP-SMX(n = 205) |
 | Rash (including maculopapular) | 23 | 34 |
 | Nausea | 21 | 44 |
 | Diarrhea | 19 | 7 |
@@ -101,7 +101,7 @@ Two percent of patients treated with MEPRON and 7% of patients treated with TMP-
 In general, patients treated with MEPRON developed fewer abnormalities in measures of hepatocellular function (ALT, AST, alkaline phosphatase) or amylase values than patients treated with TMP-SMX.
 
 Table 9.
-Treatment-Emergent Laboratory Test Abnormalities in the TMP-SMX Comparative PCP Treatment Study
+Treatment-emergent Laboratory Test Abnormalities in the TMP-SMX Comparative PCP Treatment Study
 
 |  | Percentage of Patients Developing a Laboratory Test Abnormality |  |
 | --- | --- | --- |
@@ -118,7 +118,7 @@ ULN = upper limit of normal range.
 
 LLN = lower limit of normal range.
 Table 10 summarizes the clinical adverse experiences reported by ≥5% of the primary therapy study population (n = 144) during the comparative trial of MEPRON and intravenous pentamidine, regardless of attribution.
-A slightly lower percentage of patients who received MEPRON reported occurrence of adverse events than did those who received pentamidine (63% vs 72%).
+A slightly lower percentage of patients who received MEPRON reported occurrence of adverse events than did those who received pentamidine (63% vs. 72%).
 However, only 7% of patients discontinued treatment with MEPRON due to adverse events, while 41% of patients who received pentamidine discontinued treatment for this reason (P <0.001).
 Of the 5 patients who discontinued therapy with MEPRON, 3 reported rash (4%).
 Rash was not severe in any patient.
@@ -126,11 +126,11 @@ No other reason for discontinuation of MEPRON was cited more than once.
 The most frequently cited reasons for discontinuation of pentamidine therapy were hypoglycemia (11%) and vomiting (9%).
 
 Table 10.
-Treatment-Emergent Adverse Experiences in the Pentamidine Comparative PCP Treatment Study (Primary Therapy Group)
+Treatment-emergent Adverse Experiences in the Pentamidine Comparative PCP Treatment Study (Primary Therapy Group)
 
-|  | Percentage of Patients with Treatment-Emergent Adverse Experience |  |
+|  | Percentage of Patients with Treatment-emergent Adverse Experience |  |
 | --- | --- | --- |
-| Treatment-EmergentAdverse Experience | MEPRON(n = 73) | Pentamidine(n = 71) |
+| Treatment-emergentAdverse Experience | MEPRON(n = 73) | Pentamidine(n = 71) |
 | Fever | 40 | 25 |
 | Nausea | 22 | 37 |
 | Rash | 22 | 13 |
@@ -163,7 +163,7 @@ Laboratory abnormalities were the sole or contributing factor in 14 patients who
 In the 71 patients who received pentamidine, laboratory parameters most frequently reported as reasons for discontinuation were hypoglycemia (11%), elevated creatinine levels (6%), and leukopenia (4%).
 
 Table 11.
-Treatment-Emergent Laboratory Test Abnormalities in the Pentamidine Comparative PCP Treatment Study
+Treatment-emergent Laboratory Test Abnormalities in the Pentamidine Comparative PCP Treatment Study
 
 | Laboratory Test | Percentage of Patients Developing a Laboratory Test Abnormality |  |
 | --- | --- | --- |
