@@ -149,3 +149,7 @@ p < 0.01 for all time points comparing LUCENTIS 0.3 mg to sham through Month 24
 
 VA outcomes observed at Month 24 in patients treated with LUCENTIS 0.3 mg were maintained with continued treatment through Month 36 in both DME studies.
 Patients in the sham arms who received LUCENTIS 0.5 mg beginning at Month 25 achieved lesser VA gains compared to patients who began treatment with LUCENTIS at the beginning of the studies.
+
+In Studies DME-1 and DME-2, patients received monthly injections of LUCENTIS for 12 or 36 months, after which 500 patients opted to continue in the long-term follow-up study.
+Of 298 patients who had at least 12 months of follow-up from Month 36, 58 (19.5%) patients maintained vision with no further therapy.
+The remaining 202 patients were followed for less than 12 months.
