@@ -24,10 +24,10 @@ When you spray fluticasone into your nose, it helps to reduce the symptoms of al
 
 THINGS TO REMEMBER ABOUT FLUTICASONE PROPIONATE NASAL SPRAY USP
 
-- 1.Shake gently before using.
-- 2.Use your nasal spray as directed by your doctor.
+- •Shake gently before using.
+- •Use your nasal spray as directed by your doctor.
   The directions are on the pharmacy label.
-- 3.Keep your nasal spray out of the reach of children.
+- •Keep your nasal spray out of the reach of children.
 
 BEFORE USING YOUR NASAL SPRAY
 
@@ -79,10 +79,14 @@ Shake the bottle gently and then remove the dust cap and the safety clip (Figure
 
 Figure 1
 
+Figure 1
+
 2.
 It is necessary to prime the pump into the air the first time it is used, or when you have not used it for a week or more.
 To prime the pump, hold the bottle as shown with the nasal applicator pointing away from you and with your forefinger and middle finger on either side of the nasal applicator and your thumb underneath the bottle.
 When you prime the pump for the first time, press down and release the pump six times (Figure 2).
+
+Figure 2
 
 Figure 2
 
@@ -100,11 +104,15 @@ Tilt your head forward slightly and, keeping the bottle upright, carefully inser
 
 Figure 3
 
+Figure 3
+
 5.
 Start to breathe in through your nose, and WHILE BREATHING IN press firmly and quickly down once on the applicator to release the spray.
 To get a full actuation, use your forefinger and middle finger to spray while supporting the base of the bottle with your thumb.
 Avoid spraying in eyes.
 Breathe gently inwards through the nostril (Figure 4).
+
+Figure 4
 
 Figure 4
 
@@ -119,6 +127,8 @@ Repeat steps 4 through 7 in the other nostril.
 
 9.
 Wipe the nasal applicator with a clean tissue and replace the dust cap and the safety clip (Figure 5).
+
+Figure 5
 
 Figure 5
 
@@ -150,7 +160,8 @@ STORING YOUR NASAL SPRAY
 
 - •Keep you Fluticasone Propionate Nasal Spray out of the reach of children.
 - •Avoid spraying in eyes.
-- •Store between 4° and 30°C (39° and 86°F).
+- •Store at 20° to 25°C (68° to 77°F).
+  [See USP Controlled Room Temperature.]
 - •Do not use your Fluticasone Propionate Nasal Spray after the date shown as “EXP” on the label or box.
 
 REMEMBER: This medicine has been prescribed for you by your doctor.
@@ -167,8 +178,8 @@ Please DO NOT THROW IT AWAY until you have finished your medicine.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-10002064/05
+10002064/06
 
-Revised March 2014
+Revised November 2014
 
 © RLI, 2014
