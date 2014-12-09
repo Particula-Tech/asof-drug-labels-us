@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-UNASYN is an injectable antibacterial combination consisting of the semisynthetic antibiotic ampicillin sodium and the beta-lactamase inhibitor sulbactam sodium for intravenous and intramuscular administration.
+UNASYN is an injectable antibacterial combination consisting of the semisynthetic antibacterial ampicillin sodium and the beta-lactamase inhibitor sulbactam sodium for intravenous and intramuscular administration.
 
 Ampicillin sodium is derived from the penicillin nucleus, 6-aminopenicillanic acid.
 Chemically, it is monosodium (2S, 5R, 6R)-6-[(R)-2-amino-2-phenylacetamido]-3, 3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate and has a molecular weight of 371.39.

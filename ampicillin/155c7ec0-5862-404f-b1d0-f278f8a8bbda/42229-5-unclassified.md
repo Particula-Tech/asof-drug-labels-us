@@ -1,4 +1,4 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of UNASYN® and other antibacterial drugs, UNASYN should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of UNASYN® and other antibacterial drugs, UNASYN should be used only to treat infections that are proven or strongly suspected to be caused by bacteria.
 
 # COMPATIBILITY, RECONSTITUTION AND STABILITY
 
@@ -115,8 +115,8 @@ Note: Once vial is sealed, do not attempt to remove.
 4. Mix container contents thoroughly and use within the specified time.
    Figure 5 Figure 6
 
-To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1 800 FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
 
-LAB-0017-8.0
+LAB-0017-11.0
 
-May 2014
+November 2014

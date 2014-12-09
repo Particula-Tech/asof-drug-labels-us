@@ -10,8 +10,8 @@ Although sulbactam alone possesses little useful antibacterial activity except a
 In particular, sulbactam has good inhibitory activity against the clinically important plasmid mediated beta-lactamases most frequently responsible for transferred drug resistance.
 Sulbactam has no effect on the activity of ampicillin against ampicillin susceptible strains.
 
-The presence of sulbactam in the UNASYN formulation effectively extends the antibiotic spectrum of ampicillin to include many bacteria normally resistant to it and to other beta-lactam antibiotics.
-Thus, UNASYN possesses the properties of a broad-spectrum antibiotic and a beta-lactamase inhibitor.
+The presence of sulbactam in the UNASYN formulation effectively extends the antibacterial spectrum of ampicillin to include many bacteria normally resistant to it and to other beta-lactam antibacterials.
+Thus, UNASYN possesses the properties of a broad-spectrum antibacterial and a beta-lactamase inhibitor.
 
 While in vitro studies have demonstrated the susceptibility of most strains of the following organisms, clinical efficacy for infections other than those included in the indications and USAGE section has not been documented.
 
@@ -29,7 +29,7 @@ Anaerobes: Clostridium species, Peptococcus species, Peptostreptococcus species,
 For the disk diffusion method of susceptibility testing, a 20 mcg (10 mcg ampicillin + 10 mcg sulbactam) disk should be used.
 The standardized procedure requires the use of a standardized inoculum concentration.
 With this procedure, a report from the laboratory of "Susceptible" indicates that the infecting organism is likely to respond to UNASYN therapy and a report of "Resistant" indicates that the infecting organism is not likely to respond to therapy.
-An "Intermediate" susceptibility report suggests that the infecting organism would be susceptible to UNASYN if a higher dosage is used or if the infection is confined to tissues or fluids (e.g., urine) in which high antibiotic levels are attained.
+An "Intermediate" susceptibility report suggests that the infecting organism would be susceptible to UNASYN if a higher dosage is used or if the infection is confined to tissues or fluids (e.g., urine) in which high antibacterial levels are attained.
 
 ### Dilution Techniques
 

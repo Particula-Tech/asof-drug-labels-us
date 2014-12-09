@@ -40,42 +40,24 @@ Renal: Increased BUN and creatinine.
 
 Urinalysis: Presence of RBC's and hyaline casts in urine.
 
-The following adverse reactions have been identified in post-marketing reports.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+## Postmarketing Experience
 
-Blood and Lymphatic System Disorders: Hemolytic anemia, thrombocytopenic purpura
+In addition to adverse reactions reported from clinical trials, the following have been identified during post-marketing use of UNASYN or other products containing ampicillin.
+Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
+These events have been chosen for inclusion due to a combination of their seriousness, frequency, or potential causal connection to UNASYN.
+
+Blood and Lymphatic System Disorders: Hemolytic anemia, thrombocytopenic purpura, and agranulocytosis have been reported.
+These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
+Some individuals have developed positive direct Coombs Tests during treatment with UNASYN, as with other beta-lactam antibacterials.
+
+Gastrointestinal Disorders: Cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, gastritis, stomatitis, black "hairy" tongue, and Clostridium difficile associated diarrhea (see CONTRAINDICATIONS and WARNINGS sections).
 
 General Disorders and Administration Site Conditions: Injection site reaction
 
-Hepatobiliary Disorders: Hepatitis cholestatic, cholestasis, hyperbilirubinemia, jaundice, and hepatic function abnormal
+Immune System Disorders: Serious and fatal hypersensitivity (anaphylactic) reactions (See WARNINGS section).
 
 Nervous System Disorders: Convulsion
 
 Renal and Urinary Disorders: Tubulointerstitial nephritis
 
-Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, and acute generalised exanthematous pustulosis (AGEP)
-
-The following adverse reactions have been reported with ampicillin-class antibiotics and can also occur with UNASYN.
-
-### Gastrointestinal Disorders
-
-Gastritis, stomatitis, black "hairy" tongue and enterocolitis.
-Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment.
-(see WARNINGS section).
-
-### Skin and Subcutaneous Tissue Disorders
-
-Urticaria, erythema multiforme, and an occasional case of exfoliative dermatitis have been reported.
-These reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
-Whenever such reactions occur, the drug should be discontinued, unless the opinion of the physician dictates otherwise.
-
-### Immune System Disorders
-
-Serious and occasional fatal hypersensitivity (anaphylactic) reactions can occur with a penicillin including UNASYN.
-(See WARNINGS section).
-
-### Blood and Lymphatic System Disorders
-
-In addition to the adverse laboratory changes listed above, agranulocytosis has been reported during therapy with penicillins including UNASYN.
-All of these reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
-Some individuals have developed positive direct Coombs Tests during treatment with UNASYN, as with other beta-lactam antibiotics.
+Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, and acute generalised exanthematous pustulosis (AGEP), urticaria, erythema multiforme, and exfoliative dermatitis (see CONTRAINDICATIONS section).
