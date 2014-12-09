@@ -2,8 +2,8 @@ CUBICIN® (daptomycin for injection)
 
 CUBICIN is a registered trademark of Cubist Pharmaceuticals, Inc. All other trademarks are property of their respective owners.
 
-Manufactured for:
+Distributed by:
 
-Cubist Pharmaceuticals, Inc. Lexington, MA 02421 USA
+Cubist Pharmaceuticals U.S. Lexington, MA 02421 USA
 
-April 2013 (1004-12)
+November 2014

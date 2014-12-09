@@ -17,7 +17,7 @@ In the Phase 3 trial, there were a total of 14 patients who were treated with CU
 ## 2.4 Patients with Renal Impairment
 
 The recommended dosage regimen for patients with creatinine clearance (CLCR) <30 mL/min, including patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 1).
-When possible, CUBICIN should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.7), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+When possible, CUBICIN should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.8), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 Table 1.
 Recommended Dosage of CUBICIN in Adult Patients

@@ -13,7 +13,7 @@ See Warnings and Precautions (5.3).
 Diarrhea is a common problem caused by antibacterials that usually ends when the antibacterial is discontinued.
 Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever), even as late as 2 or more months after having received the last dose of the antibacterial.
 If this occurs, patients should contact their physician as soon as possible.
-See Warnings and Precautions (5.5).
+See Warnings and Precautions (5.6).
 
 Patients should be counseled that antibacterial drugs, including CUBICIN, should be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
