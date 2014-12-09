@@ -3,7 +3,7 @@
 ## 5.1 Neurologic Adverse Reactions
 
 Neurotoxicity is the dose-limiting toxicity of nelarabine.
-Patients undergoing therapy with ARRANON should be closely observed for signs and symptoms of neurologic toxicity [see Boxed Warning and Dosage and Administration (2.2)].
+Patients undergoing therapy with ARRANON should be closely observed for signs and symptoms of neurologic toxicity [see Boxed Warning, Dosage and Administration (2.2)].
 Common signs and symptoms of nelarabine-related neurotoxicity include somnolence, confusion, convulsions, ataxia, paresthesias, and hypoesthesia.
 Severe neurologic toxicity can manifest as coma, status epilepticus, craniospinal demyelination, or ascending neuropathy similar in presentation to Guillain-Barré syndrome.
 
@@ -11,8 +11,8 @@ Patients treated previously or concurrently with intrathecal chemotherapy or pre
 
 ## 5.2 Hematologic Adverse Reactions
 
-Leukopenia, thrombocytopenia, anemia, and neutropenia, including febrile neutropenia have been associated with nelarabine therapy.
-Complete blood counts including platelets should be monitored regularly [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
+Leukopenia, thrombocytopenia, anemia, and neutropenia, including febrile neutropenia, have been associated with nelarabine therapy.
+Complete blood counts including platelets should be monitored regularly [see Dosage and Administration (2.2), Adverse Reactions (6.1)].
 
 ## 5.3 Pregnancy
 

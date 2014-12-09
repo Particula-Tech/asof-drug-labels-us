@@ -2,9 +2,9 @@ PATIENT INFORMATION LEAFLET
 
 ARRANON® (AIR-ra-non)
 
-Nelarabine Injection
+(nelarabine) Injection
 
-Read the Patient Information that comes with ARRANON before you or your child start treatment with ARRANON.
+Read the Patient Information that comes with ARRANON before you or your child starts treatment with ARRANON.
 Read the information you get each time before each treatment with ARRANON.
 There may be new information.
 This information does not take the place of talking with the doctor about your or your child’s medical condition or treatment.
@@ -44,9 +44,9 @@ Tell the doctor about all health conditions you or your child have, including if
 
 - •have any nervous system problems.
 - •have kidney problems.
-- •are breast-feeding or plan to breast-feed.
+- •are breastfeeding or plan to breastfeed.
   It is not known whether ARRANON passes through breast milk.
-  You should not breast-feed during treatment with ARRANON.
+  You should not breastfeed during treatment with ARRANON.
 - •are pregnant or plan to become pregnant.
   ARRANON may harm an unborn baby.
   You should use effective birth control to avoid getting pregnant.
@@ -89,21 +89,24 @@ This is because on rare occasions, muscle problems can be serious.
 These are not all the side effects associated with ARRANON.
 Ask your doctor or pharmacist for more information.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 General Advice about ARRANON
 
 This leaflet summarizes important information about ARRANON.
 If you have questions or problems, talk with your or your child’s doctor.
 You can ask your doctor or pharmacist for information about ARRANON that is written for healthcare providers or it is available at www.GSK.com.
 
-ARRANON is a registered trademark of GlaxoSmithKline.
+ARRANON is a registered trademark of the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2014, the GSK group of companies.
 All rights reserved.
 
-December 2011
+December 2014
 
-ARR:2PIL
+ARR:3PIL

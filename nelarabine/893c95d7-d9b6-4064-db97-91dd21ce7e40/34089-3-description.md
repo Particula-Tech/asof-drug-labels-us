@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ARRANON (nelarabine) is a pro-drug of the cytotoxic deoxyguanosine analogue, 9-β-D-arabinofuranosylguanine (ara-G).
+ARRANON (nelarabine) is a prodrug of the cytotoxic deoxyguanosine analogue, 9-β-D-arabinofuranosylguanine (ara-G).
 
 The chemical name for nelarabine is 2-amino-9-β-D-arabinofuranosyl-6-methoxy-9H-purine.
 It has the molecular formula C11H15N5O5 and a molecular weight of 297.27.

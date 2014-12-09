@@ -2,11 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.3)]
+Pregnancy Category D [see Warnings and Precautions (5.3)].
 
 ARRANON can cause fetal harm when administered to a pregnant woman.
 Nelarabine administered to rabbits during the period of organogenesis caused increased incidences of fetal malformations, anomalies, and variations at doses ≥360 mg/m2/day (8-hour IV infusion; approximately ¼ the adult dose compared on a mg/m2 basis), which was the lowest dose tested.
-Cleft palate was seen in rabbits given 3,600 mg/m2/day (approximately 2-fold the adult dose), absent pollices (digits) in rabbits given ≥1,200 mg/m2/day (approximately ¾ the adult dose), while absent gall bladder, absent accessory lung lobes, fused or extra sternebrae and delayed ossification was seen at all doses.
+Cleft palate was seen in rabbits given 3,600 mg/m2/day (approximately 2-fold the adult dose), absent pollices (digits) in rabbits given ≥1,200 mg/m2/day (approximately ¾ the adult dose), while absent gall bladder, absent accessory lung lobes, fused or extra sternebrae, and delayed ossification was seen at all doses.
 Maternal body weight gain and fetal body weights were reduced in rabbits given 3,600 mg/m2/day (approximately 2-fold the adult dose), but could not account for the increased incidence of malformations seen at this or lower administered doses.
 
 There are no adequate and well-controlled studies of ARRANON in pregnant women.
@@ -20,7 +20,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ARRANON has been established in pediatric patients [see Dosage and Administration (2.1) and Clinical Studies (14.2].
+The safety and effectiveness of ARRANON has been established in pediatric patients [see Dosage and Administration (2.1), Clinical Studies (14.2].
 
 ## 8.5 Geriatric Use
 
