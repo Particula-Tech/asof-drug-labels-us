@@ -150,4 +150,4 @@ You can ask your pharmacist or doctor for information about FLUCONAZOLE that is 
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com
 
-LAB-0367-8.0 September 2014
+LAB-0367-9.0 December 2014

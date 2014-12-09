@@ -58,8 +58,8 @@ The convenience and efficacy of the single dose oral tablet of fluconazole regim
 ## Drug Interactions
 
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies and CONTRAINDICATIONS.)
-Fluconazole is a potent inhibitor of cytochrome P450 (CYP) isoenzyme 2C9 and a moderate inhibitor of CYP3A4.
-In addition to the observed /documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9 and CYP3A4 coadministered with fluconazole.
+Fluconazole is a potent inhibitor of cytochrome P450 (CYP) isoenzyme 2C9 and 2C19, and a moderate inhibitor of CYP3A4.
+In addition to the observed /documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9, CYP2C19 and CYP3A4 coadministered with fluconazole.
 Therefore, caution should be exercised when using these combinations and the patients should be carefully monitored.
 The enzyme inhibiting effect of fluconazole persists 4–5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed.
@@ -222,7 +222,7 @@ Dosage adjustment of carbamazepine may be necessary depending on concentration m
 
 ### Calcium Channel Blockers
 
-Certain dihydropyridine calcium channel antagonists (nifedipine, isradipine, amlodipine, and felodipine) are metabolized by CYP3A4.
+Certain calcium channel antagonists (nifedipine, isradipine, amlodipine, verapamil, and felodipine) are metabolized by CYP3A4.
 Fluconazole has the potential to increase the systemic exposure of the calcium channel antagonists.
 Frequent monitoring for adverse events is recommended.
 

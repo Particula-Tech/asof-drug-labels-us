@@ -267,12 +267,12 @@ Concurrent administration of oral Voriconazole (400 mg Q12h for 1 day, then 200 
 In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect.
 Concomitant administration of voriconazole and fluconazole at any dose is not recommended.
 Close monitoring for adverse events related to voriconazole is recommended if voriconazole is used sequentially after fluconazole, especially within 24 h of the last dose of fluconazole.
-(See PRECAUTIONS)
+(See PRECAUTIONS.)
 
 ### Tofacitinib
 
 Co-administration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days [Days 2-7]) and tofacitinib (30 mg single dose on Day 5) in healthy subjects resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% – 96%) and 27% (90% CI: 12% – 44%), respectively, compared to administration of tofacitinib alone.
-(See PRECAUTIONS)
+(See PRECAUTIONS.)
 
 ## Microbiology
 
@@ -347,16 +347,18 @@ One such standardized procedure2 requires the use of standardized inoculum conce
 This procedure uses paper disks impregnated with 25 µg of fluconazole to test the susceptibility of yeasts to fluconazole.
 Disk diffusion interpretive criteria are also provided in Table 1.
 
-Table 1: Susceptibility Interpretive Criteria for Fluconazole
+Table 1: Susceptibility Interpretive Criteria for Fluconazole against Candida species
 
 | Antifungal agent | Susceptible (S) | Intermediate (I)The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for fluconazole. | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Broth Dilution at 48 hours (MIC in µg/mL) |  |  | Disk Diffusion at 24 hours (Zone Diameters in mm) |  |  |
 | FluconazoleIsolates of C. krusei are assumed to be intrinsically resistant to fluconazole and their MICs and/or zone diameters should not be interpreted using this scale. | ≤ 8.0 | 16–32 | ≥64 | ≥19 | 15–18 | ≤14 |
 
-The susceptible category implies that isolates are inhibited by the usually achievable concentrations of antifungal agent tested when the recommended dosage is used.
-The intermediate category implies that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
-The resistant category implies that isolates are not inhibited by the usually achievable concentrations of the agent with normal dosage schedules and clinical efficacy of the agent against the isolate has not been reliably shown in treatment studies.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+
+A report of Intermediate (I) indicates that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
+
+A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 ### Quality Control
 
