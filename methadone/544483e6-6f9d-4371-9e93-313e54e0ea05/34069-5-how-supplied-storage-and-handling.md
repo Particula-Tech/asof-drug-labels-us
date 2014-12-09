@@ -1,6 +1,16 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Each Methadone Hydrochloride Tablet for Oral Suspension USP contains 40 mg of methadone hydrochloride USP.
+## 16.1 Storage and Handling
+
+Methadone hydrochloride tablets for oral suspension contain methadone which is a controlled substance.
+Like fentanyl, morphine, oxycodone, hydromorphone, and oxymorphone, methadone is controlled under Schedule II of the Federal Controlled Substances Act.
+Methadone hydrochloride tablets for oral suspension may be targeted for theft and diversion by criminals [see Warnings and Precautions (5.4)].
+
+Methadone hydrochloride tablets for oral suspension, if dispensed, must be packaged in child-resistant containers and kept out of reach of children to prevent accidental ingestion.
+
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+
+## 16.2 How Supplied
 
 METHADOSE™ Dispersible Tablets, 40 mg:
 
@@ -14,17 +24,4 @@ Available as a speckled orange colored, rounded rectangular tablet, debossed wit
 
 Bottles of 100……NDC 0406-2540-01
 
-Dispense in a tight container (USP) with a child-resistant closure.
-Methadone hydrochloride tablets for oral suspension, if dispensed, must be packaged in child-resistant containers and kept out of reach of children to prevent accidental ingestion.
-
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
-
-METHADOSEis a trademark of Mallinckrodt Inc.
-
-Mallinckrodt Inc. Hazelwood, MO 63042 USA
-
-Mallinckrodt COVIDIEN™
-
-Printed in U.S.A.
-
-Rev 08/2013
+DEA order form required.

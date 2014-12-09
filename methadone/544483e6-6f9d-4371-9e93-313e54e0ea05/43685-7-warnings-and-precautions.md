@@ -1,211 +1,120 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## Respiratory Depression
+Methadone hydrochloride tablets for oral suspension are for oral administration only.
+The preparation must not be injected.
+Methadone should be kept out of reach of children to prevent accidental ingestion.
 
-Respiratory depression is the chief hazard associated with methadone hydrochloride administration.
-Methadone's peak respiratory depressant effects typically occur later, and persist longer than its peak analgesic effects, in the short-term use setting.
-These characteristics can contribute to cases of iatrogenic overdose, particularly during treatment initiation and dose titration.
+## 5.1 Life-Threatening Respiratory Depression
 
-Respiratory depression is of particular concern in elderly or debilitated patients as well as in those suffering from conditions accompanied by hypoxia or hypercapnia when even moderate therapeutic doses may dangerously decrease pulmonary ventilation.
+Respiratory depression is the primary risk of methadone.
+Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
+Respiratory depression from opioids is manifested by a reduced urge to breathe and a decreased rate of respiration, often associated with a “sighing” pattern of breathing (deep breaths separated by abnormally long pauses).
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
 
-Methadone should be administered with extreme caution to patients with conditions accompanied by hypoxia, hypercapnia, or decreased respiratory reserve such as: asthma, chronic obstructive pulmonary disease or cor pulmonale, severe obesity, sleep apnea syndrome, myxedema, kyphoscoliosis, and central nervous system (CNS) depression or coma.
-In these patients, even usual therapeutic doses of methadone may decrease respiratory drive while simultaneously increasing airway resistance to the point of apnea.
-Methadone should be used at the lowest effective dose and only under careful medical supervision.
+While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of methadone, the risk is greatest during the initiation of therapy or following a dose increase.
+The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak pharmacologic effect, especially during the initial dosing period.
+Closely monitor patients with respiratory depression when initiating therapy with methadone and following dose increases.
 
-## Cardiac Conduction Effects
+Instruct patients against use by individuals other than the patient for whom methadone was prescribed and to keep methadone out of the reach of children, as such inappropriate use may result in fatal respiratory depression.
 
-This information is intended to alert the prescriber to comprehensively evaluate the risks and benefits of methadone treatment.
-The intent is not to deter the appropriate use of methadone in patients with a history of cardiac disease.
+To reduce the risk of respiratory depression, proper dosing and titration of methadone are essential [see Dosage and Administration (2.1)].
+Overestimating the methadone dose when converting patients from another opioid product can result in fatal overdose with the first dose.
+Respiratory depression has also been reported with use of methadone when used as recommended and not misused or abused.
 
-Laboratory studies, both in vivo and in vitro, have demonstrated that methadone inhibits cardiac potassium channels and prolongs the QT interval.
+To further reduce the risk of respiratory depression, consider the following:
+
+- Patients tolerant to other opioids may be incompletely tolerant to methadone.
+  Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists who are being converted to treatment with methadone, thus making determination of dosing during opioid treatment conversion complex.
+  Deaths have been reported during conversion from chronic, high-dose treatment with other opioid agonists.
+- Proper dosing and titration are essential and methadone should be prescribed only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone.
+- Methadone is contraindicated in patients with respiratory depression and in patients with conditions that increase the risk of life-threatening respiratory depression [see Contraindications (4)].
+
+## 5.2 Life-Threatening QT Prolongation
+
 Cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
-These cases appear to be more commonly associated with, but not limited to, higher dose treatment (>200 mg/day).
-Although most cases involve patients being treated for pain with large, multiple daily doses of methadone, cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
-In most of the cases seen at typical maintenance doses, concomitant medications and/or clinical conditions such as hypokalemia were noted as contributing factors.
+These cases appear to be more commonly associated with, but not limited to, higher dose treatment (> 200 mg/day).
+Most cases involve patients being treated for pain with large, multiple daily doses of methadone, although cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
+In most patients on the lower doses typically used for maintenance, concomitant medications and/or clinical conditions such as hypokalemia were noted as contributing factors.
 However, the evidence strongly suggests that methadone possesses the potential for adverse cardiac conduction effects in some patients.
+The effects of methadone on the QT interval have been confirmed in in vivo laboratory studies, and methadone has been shown to inhibit cardiac potassium channels in in vitro studies.
 
-Methadone should be administered with particular caution to patients already at risk for development of prolonged QT interval (e.g., cardiac hypertrophy, concomitant diuretic use, hypokalemia, hypomagnesemia).
-Careful monitoring is recommended when using methadone in patients with a history of cardiac conduction abnormalities, those taking medications affecting cardiac conduction, and in other cases where history or physical exam suggest an increased risk of dysrhythmia.
+Closely monitor patients with risk factors for development of prolonged QT interval (e.g., cardiac hypertrophy, concomitant diuretic use, hypokalemia, hypomagnesemia), a history of cardiac conduction abnormalities, and those taking medications affecting cardiac conduction.
 QT prolongation has also been reported in patients with no prior cardiac history who have received high doses of methadone.
-Patients developing QT prolongation while on methadone treatment should be evaluated for the presence of modifiable risk factors, such as concomitant medications with cardiac effects, drugs which might cause electrolyte abnormalities and drugs which might act as inhibitors of methadone metabolism.
 
-The potential risks of methadone, including the risk of life-threatening arrhythmias, should be weighed against the risks of discontinuing methadone treatment.
-In the patient being treated for opiate dependence with methadone maintenance therapy, these risks include a very high likelihood of relapse to illicit drug use following methadone discontinuation.
+Evaluate patients developing QT prolongation while on methadone hydrochloride tablets for oral suspension treatment for the presence of modifiable risk factors, such as concomitant medications with cardiac effects, drugs which might cause electrolyte abnormalities, and drugs which might act as inhibitors of methadone metabolism.
 
+Only initiate therapy with methadone hydrochloride tablets for oral suspension in patients for whom the anticipated benefit outweighs the risk of QT prolongation and development of dysrhythmias that have been reported with high doses of methadone.
 The use of methadone in patients already known to have a prolonged QT interval has not been systematically studied.
-The potential risks of methadone should be weighed against the substantial morbidity and mortality associated with untreated opioid addiction.
 
-In using methadone an individualized benefit to risk assessment should be carried out and should include evaluation of patient presentation and complete medical history.
-For patients judged to be at risk, careful monitoring of cardiovascular status, including evaluation of QT prolongation and dysrhythmias should be performed.
+## 5.3 Accidental Exposure
 
-## Incomplete Cross-Tolerance between Methadone and Other Opioids
+Accidental ingestion of methadone hydrochloride tablets for oral suspension, especially in children, can result in a fatal overdose of methadone.
+Methadone hydrochloride tablets for oral suspension should be kept out of reach of children to prevent accidental ingestion.
 
-Patients tolerant to other opioids may be incompletely tolerant to methadone.
-Incomplete cross-tolerance is of particular concern for patients tolerant to other mu-opioid agonists who are being converted to methadone, thus making determination of dosing during opioid conversion complex.
-Deaths have been reported during conversion from chronic, high-dose treatment with other opioid agonists.
-A high degree of “opioid tolerance” does not eliminate the possibility of methadone overdose, iatrogenic or otherwise.
+## 5.4 Abuse Potential
 
-## Misuse, Abuse, and Diversion of Opioids
-
-Methadone is a mu-agonist opioid with an abuse liability similar to that of morphine and other opioid agonists and is a Schedule II controlled substance.
-Methadone, like morphine and other opioids used for analgesia, has the potential for being abused and is subject to criminal diversion.
-
+Methadone hydrochloride tablets for oral suspension contain methadone, an opioid agonist and a Schedule II controlled substance.
 Methadone can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when prescribing or dispensing methadone hydrochloride tablets for oral suspension in situations where the clinician is concerned about an increased risk of misuse, abuse, or diversion.
-Abuse of methadone poses a risk of overdose and death.
-This risk is increased with concurrent abuse of methadone with alcohol and other substances.
-In addition, parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
+Opioid agonists are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 
-Healthcare professionals should contact their State Professional Licensing Board or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-## Interactions with Other CNS Depressants
+## 5.5 Elderly, Cachectic, and Debilitated Patients
 
-Patients receiving other opioid analgesics, general anesthetics, phenothiazines, other tranquilizers, sedatives, hypnotics, or other CNS depressants (including alcohol) concomitantly with methadone may experience respiratory depression, hypotension, profound sedation, or coma (see PRECAUTIONS).
+Respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics due to poor fat stores, muscle wasting, or altered clearance compared to younger, healthier patients.
+Therefore, monitor such patients closely, particularly when initiating and titrating methadone hydrochloride tablets for oral suspension and when methadone hydrochloride tablets for oral suspension are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.1)].
 
-## Interactions with Alcohol and Drugs of Abuse
+## 5.6 Use in Patients with Chronic Pulmonary Disease
 
-Methadone may be expected to have additive effects when used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
-Deaths associated with illicit use of methadone frequently have involved concomitant benzodiazepine abuse.
+Monitor patients with significant chronic obstructive pulmonary disease or cor pulmonale, and patients having a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression, particularly when initiating therapy and titrating with methadone hydrochloride tablets for oral suspension, as in these patients, even usual therapeutic doses of methadone may decrease respiratory drive to the point of apnea [see Warnings and Precautions (5.1)].
 
-## Head Injury and Increased Intracranial Pressure
+## 5.7 Interactions with CNS Depressants and Illicit Drugs
 
-The respiratory depressant effects of opioids and their capacity to elevate cerebrospinal-fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions or a pre-existing increase in intracranial pressure.
-Furthermore, opioids produce effects which may obscure the clinical course of patients with head injuries.
-In such patients, methadone must be used with caution, and only if it is deemed essential.
+Hypotension, profound sedation, coma, or respiratory depression may result if methadone is used concomitantly with other CNS depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, other opioids).
+When considering the use of methadone hydrochloride tablets for oral suspension in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
+Additionally, consider the patient’s use, if any, of alcohol or illicit drugs that cause CNS depression.
+If methadone therapy is to be initiated in a patient taking a CNS depressant, start with a lower methadone dose than usual and monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant [see Drug Interactions (7.2)].
 
-## Acute Abdominal Conditions
+Deaths associated with illicit use of methadone have frequently involved concomitant benzodiazepine abuse.
 
-The administration of opioids may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
+## 5.8 Hypotensive Effect
 
-## Hypotensive Effect
+Methadone may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
+There is an increased risk in patients whose ability to maintain normal blood pressure is compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g. phenothiazines or general anesthetics) [see Drug Interactions (7.2)].
+Monitor these patients for signs of hypotension after initiating or titrating the dose of methadone hydrochloride tablets for oral suspension.
 
-The administration of methadone may result in severe hypotension in patients whose ability to maintain normal blood pressure is compromised (e.g., severe volume depletion).
+## 5.9 Use in Patients with Head Injury or Increased Intracranial Pressure
 
-# PRECAUTIONS
+Monitor patients taking methadone hydrochloride tablets for oral suspension who may be susceptible to the intracranial effects of CO2 retention (e.g. those with evidence of increased intracranial pressure or brain tumors) for signs of sedation and respiratory depression, particularly when initiating therapy with methadone.
+Methadone may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+Opioids may also obscure the clinical course in a patient with a head injury.
 
-Methadone hydrochloride tablets for oral suspension should be used with caution in elderly and debilitated patients; patients who are known to be sensitive to central nervous system depressants, such as those with cardiovascular, pulmonary, renal, or hepatic disease; and in patients with comorbid conditions or concomitant medications which may predispose to dysrhythmia or reduced ventilatory drive.
+Avoid the use of methadone in patients with impaired consciousness or coma.
 
-## Drug Interactions
+## 5.10 Use in Patients with Gastrointestinal Conditions
 
-In vitro results suggest that methadone undergoes hepatic N-demethylation by cytochrome P450 enzymes, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6.
-Coadministration of methadone with inducers of these enzymes may result in a more rapid metabolism and potential for decreased effects of methadone, whereas administration with CYP inhibitors may reduce metabolism and potentiate methadone's effects.
-Although anti-retroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination are known to inhibit CYPs, they are shown to reduce the plasma levels of methadone, possibly due to their CYP induction activity.
-Therefore, drugs administered concomitantly with methadone should be evaluated for interaction potential; clinicians are advised to evaluate individual response to drug therapy.
+Methadone hydrochloride tablets for oral suspension are contraindicated in patients with paralytic ileus.
+Avoid the use of methadone hydrochloride tablets for oral suspension in patients with other gastrointestinal obstruction.
 
-## Opioid Antagonists, Mixed Agonist/Antagonists, and Partial Agonists
+Methadone may cause spasm of the sphincter of Oddi.
+Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+Opioids may cause increases in the serum amylase.
 
-As with other mu-agonists, patients maintained on methadone may experience withdrawal symptoms when given opioid antagonists, mixed agonist/antagonists, and partial agonists.
-Examples of such agents are naloxone, naltrexone, pentazocine, nalbuphine, butorphanol, and buprenorphine.
+## 5.11 Use in Patients with Convulsive or Seizure Disorders
 
-## Anti-Retroviral Agents
+Methadone may aggravate convulsions in patients with convulsive disorders, and may induce or aggravate seizures in some clinical settings.
+Monitor patients with a history of seizure disorders for worsened seizure control during methadone hydrochloride tablets for oral suspension therapy.
 
-Abacavir, Amprenavir, Efavirenz, Nelfinavir, Nevirapine, Ritonavir, Lopinavir+Ritonavir Combination – Coadministration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone.
-Methadone-maintained patients beginning treatment with these anti-retroviral drugs should be monitored for evidence of withdrawal effects and methadone dose should be adjusted accordingly.
+## 5.12 Avoidance of Withdrawal
 
-Didanosine and Stavudine – Experimental evidence demonstrated that methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
-Methadone disposition was not substantially altered.
+Avoid the use of partial agonists or mixed agonist/antagonist analgesics (i.e., buprenorphine, pentazocine, nalbuphine, and butorphanol) in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including methadone.
+In these patients, partial agonists or mixed agonists/antagonists analgesics may precipitate withdrawal symptoms [see Drug Interactions (7.4)].
 
-Zidovudine – Experimental evidence demonstrated that methadone increased the area under the concentration-time curve (AUC) of zidovudine which could result in toxic effects.
+When discontinuing methadone hydrochloride tablets for oral suspension, gradually taper the dose [see Dosage and Administration (2.3, 2.4)].
+Do not abruptly discontinue methadone hydrochloride tablets for oral suspension.
 
-## Cytochrome P450 Inducers
+## 5.13 Driving and Operating Machinery
 
-Methadone-maintained patients beginning treatment with CYP3A4 inducers should be monitored for evidence of withdrawal effects and methadone dose should be adjusted accordingly.
-The following drug interactions were reported following coadministration of methadone with inducers of cytochrome P450 enzymes:
-
-Rifampin – In patients well-stabilized on methadone, concomitant administration of rifampin resulted in a marked reduction in serum methadone levels and a concurrent appearance of withdrawal symptoms.
-
-Phenytoin – In a pharmacokinetic study with patients on methadone maintenance therapy, phenytoin administration (250 mg b.i.d. initially for 1 day followed by 300 mg QD for 3 to 4 days) resulted in an approximately 50% reduction in methadone exposure and withdrawal symptoms occurred concurrently.
-Upon discontinuation of phenytoin, the incidence of withdrawal symptoms decreased and methadone exposure increased to a level comparable to that prior to phenytoin administration.
-
-St. John's Wort, Phenobarbital, Carbamazepine – Administration of methadone along with other CYP3A4 inducers may result in withdrawal symptoms.
-
-## Cytochrome P450 Inhibitors
-
-Since the metabolism of methadone is mediated primarily by CYP3A4 isozyme, coadministration of drugs that inhibit CYP3A4 activity may cause decreased clearance of methadone.
-The expected clinical results would be increased or prolonged opioid effects.
-Thus, methadone-treated patients coadministered strong inhibitors of CYP3A4, such as azole antifungal agents (e.g., ketoconazole) and macrolide antibiotics (e.g., erythromycin), with methadone should be carefully monitored and dosage adjustment should be undertaken if warranted.
-Some selective serotonin reuptake inhibitors (SSRIs) (e.g., sertraline, fluvoxamine) may increase methadone plasma levels upon coadministration with methadone and result in increased opiate effects and/or toxicity.
-
-Voriconazole – Repeat dose administration of oral voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 4 days) increased the Cmax and AUC of (R)-methadone by 31% and 47%, respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg QD).
-The Cmax and AUC of (S)-methadone increased by 65% and 103%, respectively.
-Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation.
-Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration.
-Dose reduction of methadone may be needed.
-
-## Others
-
-Monoamine Oxidase (MAO) Inhibitors – Therapeutic doses of meperidine have precipitated severe reactions in patients concurrently receiving monoamine oxidase inhibitors or those who have received such agents within 14 days.
-Similar reactions thus far have not been reported with methadone.
-However, if the use of methadone is necessary in such patients, a sensitivity test should be performed in which repeated small, incremental doses of methadone are administered over the course of several hours while the patient's condition and vital signs are under careful observation.
-
-Desipramine – Blood levels of desipramine have increased with concurrent methadone administration.
-
-## Potentially Arrhythmogenic Agents
-
-Extreme caution is necessary when any drug known to have the potential to prolong the QT interval is prescribed in conjunction with methadone.
-Pharmacodynamic interactions may occur with concomitant use of methadone and potentially arrhythmogenic agents such as class I and III antiarrhythmics, some neuroleptics and tricyclic antidepressants, and calcium channel blockers.
-
-Caution should also be exercised when treating methadone patients concomitantly with drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia) that may prolong the QT interval.
-These drugs include diuretics, laxatives, and, in rare cases, mineralocorticoid hormones.
-
-## Interactions with Alcohol and Drugs of Abuse
-
-Methadone may be expected to have additive effects when used in conjunction with alcohol, other opioids or CNS depressants, or with illicit drugs that cause central nervous system depression.
-Deaths have been reported when methadone has been abused in conjunction with benzodiazepines.
-
-Anxiety – Since methadone is used by tolerant patients at a constant maintenance dosage does not act as a tranquilizer, patients who are maintained on this drug will react to life problems and stresses with the same symptoms of anxiety as do other individuals.
-The physician should not confuse such symptoms with those of narcotic abstinence and should not attempt to treat anxiety by increasing the dose of methadone.
-The action of methadone in maintenance treatment is limited to the control of narcotic withdrawal symptoms and is ineffective for relief of general anxiety.
-
-Acute Pain – Maintenance patients on a stable dose of methadone who experience physical trauma, postoperative pain or other acute pain cannot be expected to derive analgesia from their existing dose of methadone.
-Such patients should be administered analgesics, including opioids, in doses that would otherwise be indicated for non-methadone-treated patients with similar painful conditions.
-Due to the opioid tolerance induced by methadone, when opioids are required for management of acute pain in methadone patients, somewhat higher and/or more frequent doses will often be required than would be the case for non-tolerant patients.
-
-## Physical Dependence
-
-Physical dependence is manifested by withdrawal symptoms after abrupt discontinuation of a drug or upon administration of an antagonist.
-Physical dependence is expected during opioid agonist therapy of opioid addiction.
-
-If a physically dependent patient abruptly discontinues use of methadone, or the dose of methadone does not adequately “cover” the patient, an opioid abstinence or withdrawal syndrome may develop and is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-Other symptoms may also develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
-
-Infants born to mothers physically dependent on opioids may also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms (see PRECAUTIONS, Pregnancy, Labor and Delivery).
-
-In general, opioids should not be abruptly discontinued (see DOSAGE AND ADMINISTRATION, For Medically Supervised Withdrawal After a Period of Maintenance Treatment).
-
-## Special-Risk Patients
-
-Methadone should be given with caution, and the initial dose reduced, in certain patients such as the elderly and debilitated, and those with severe impairment of hepatic or renal function, hypothyroidism, Addison's disease, prostatic hypertrophy, or urethral stricture.
-
-The usual precautions should be observed and the possibility of respiratory depression requires added vigilance.
-
-## Information for Patients
-
-- Patients should be cautioned that methadone, like all opioids, may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving or operating machinery.
-- Patients should be cautioned that methadone, like other opioids, may produce orthostatic hypotension in ambulatory patients.
-- Patients should be cautioned that alcohol and other CNS depressants may produce an additive CNS depression when taken with this product and should be avoided.
-- Patients should be instructed to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, dizziness, lightheadedness, or syncope) when taking methadone.
-- Patients initiating treatment with methadone should be reassured that the dose of methadone will “hold” for longer periods of time as treatment progresses.
-- Patients should be instructed to keep methadone in a secure place out of the reach of children and other household members.
-  Accidental or deliberate ingestion by a child may cause respiratory depression that can result in death.
-- Patients should be advised not to change the dose of methadone without consulting their physician.
-- Women of childbearing potential who become or are planning to become pregnant should be advised to consult their physician regarding the effects of methadone use during pregnancy.
-- If a physically dependent patient abruptly discontinues use of methadone, an opioid abstinence or withdrawal syndrome may develop.
-  If cessation of therapy is indicated, it may be appropriate to taper the methadone dose, rather than abruptly discontinue it, due to the risk of precipitating withdrawal symptoms.
-  Their physician can provide a dose schedule to accomplish a gradual discontinuation of the medication.
-- Patients seeking to discontinue treatment with methadone for opioid dependence should be apprised of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.
-- Patients should be advised that methadone is a potential drug of abuse.
-  They should protect it from theft, and it should never be given to anyone other than the individual for whom it was prescribed.
-- Methadone hydrochloride tablets for oral suspension is for oral administration only and must be initially dispersed in liquid before use.
-  After dispersion in liquid, the preparation must not be injected.
-- Breastfeeding:
-
-1. Methadone use is usually compatible with breastfeeding.
-   Pregnant mothers using methadone should be counseled about the benefits and risks of breastfeeding while using methadone.
-   Counseling should include the following information:
-   - The baby receives a small amount of methadone through breastmilk.
-   - The baby may experience methadone withdrawal if breastfeeding is discontinued suddenly.
-     Patients discontinuing breastfeeding should develop a plan to wean with the baby’s healthcare team.
-   - Use of other substances of abuse during breastfeeding will expose the baby to additional risks.
-     Patients who use other substances of abuse should not breastfeed.
-2. When starting methadone for the first time or increasing the dose, breastfeeding patients should watch their babies closely for changes in behavior or breathing patterns.
+Methadone may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of methadone hydrochloride tablets for oral suspension and know how they will react to the medication.

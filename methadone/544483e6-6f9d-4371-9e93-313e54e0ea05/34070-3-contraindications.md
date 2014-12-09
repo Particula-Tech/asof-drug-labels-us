@@ -1,7 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Methadone hydrochloride tablets for oral suspension is contraindicated in patients with a known hypersensitivity to methadone hydrochloride or any other ingredient in methadone hydrochloride tablets for oral suspension.
+Methadone hydrochloride tablets for oral suspension are contraindicated in patients with:
 
-Methadone is contraindicated in any situation where opioids are contraindicated such as: patients with respiratory depression (in the absence of resuscitative equipment or in unmonitored settings), and in patients with acute bronchial asthma or hypercarbia.
-
-Methadone is contraindicated in any patient who has or is suspected of having a paralytic ileus.
+- Significant respiratory depression
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment
+- Known or suspected paralytic ileus
+- Hypersensitivity (e.g. anaphylaxis) to methadone or any other ingredient in methadone hydrochloride tablets for oral suspension [see Adverse Reactions (6)]

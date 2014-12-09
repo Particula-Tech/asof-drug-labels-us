@@ -1,4 +1,6 @@
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Methadose™ Label
+# PRINCIPAL DISPLAY PANEL
+
+## PRINCIPAL DISPLAY PANEL - METHADOSE
 
 NDC 0406-0540-34
 
@@ -17,7 +19,9 @@ Rx only
 
 Mallinckrodt
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Methadone Hydrochloride Tablets Label
+L00M10 Rev 08/2013
+
+## PRINCIPAL DISPLAY PANEL - METHADONE HYDROCHLORIDE TABLETS
 
 NDC 0406-2540-01
 
@@ -37,3 +41,5 @@ Each tablet contains: Methadone Hydrochloride USP.......
 Rx only
 
 Mallinckrodt
+
+L00M82 Rev 08/2013
