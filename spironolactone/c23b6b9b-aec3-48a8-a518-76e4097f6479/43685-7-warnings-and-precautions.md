@@ -12,7 +12,7 @@ Concomitant administration of spironolactone with the following drugs or potassi
 - aldosterone blockers
 - non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin
 - heparin and low molecular weight heparin
-- other drugs known to cause hyperkalemia
+- other drugs or conditions known to cause hyperkalemia
 - potassium supplements
 - diet rich in potassium
 - salt substitutes containing potassium

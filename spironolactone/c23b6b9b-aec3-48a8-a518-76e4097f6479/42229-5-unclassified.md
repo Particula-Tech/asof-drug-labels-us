@@ -2,4 +2,4 @@ Rx only
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Rev 06, September 2014
+Rev 07, December 2014
