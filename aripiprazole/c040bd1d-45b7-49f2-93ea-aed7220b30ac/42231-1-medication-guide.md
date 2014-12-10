@@ -253,7 +253,7 @@ Inactive ingredients:
 Tablets: cornstarch, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and microcrystalline cellulose.
 Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake.
 
-ABILIFY DISCMELT Orally Disintegrating Tablets:acesulfame potassium, aspartame (which contains phenylalanine), calcium silicate, croscarmellose sodium, crospovidone, crème de vanilla (natural and artificial flavors), magnesium stearate, microcrystalline cellulose, silicon dioxide, tartaric acid, and xylitol.
+ABILIFY DISCMELT Orally Disintegrating Tablets: acesulfame potassium, aspartame (which contains phenylalanine), calcium silicate, croscarmellose sodium, crospovidone, crème de vanilla (natural and artificial flavors), magnesium stearate, microcrystalline cellulose, silicon dioxide, tartaric acid, and xylitol.
 Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake.
 
 ABILIFY Oral Solution: disodium edetate, fructose (200 mg per mL), glycerin, dl-lactic acid, methylparaben, propylene glycol, propylparaben, sodium hydroxide, sucrose (400 mg per mL), and purified water.

@@ -47,7 +47,7 @@ Nursing
 
 Patients should be advised not to breast-feed an infant if they are taking ABILIFY [see USE IN SPECIFIC POPULATIONS (8.3)].
 
-ConcomitantMedication
+Concomitant Medication
 
 Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions [see DRUG INTERACTIONS (7)].
 
@@ -76,6 +76,6 @@ Distributed and marketed by Otsuka America Pharmaceutical, Inc., Rockville, MD 2
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550B5 03US14L-1120C Rev June 2014
+1239550B5 03US14L-1120A Rev June 2014
 
 © 2013, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
