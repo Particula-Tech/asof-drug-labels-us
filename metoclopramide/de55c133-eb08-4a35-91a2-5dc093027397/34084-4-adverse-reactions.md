@@ -3,11 +3,13 @@
 In general, the incidence of adverse reactions correlates with the dose and duration of metoclopramide administration.
 The following reactions have been reported, although in most instances, data do not permit an estimate of frequency:
 
-CNS Effects Restlessness, drowsiness, fatigue, and lassitude occur in approximately 10% of patients receiving the most commonly prescribed dosage of 10 mg q.i.d.
+CNS Effects
+
+Restlessness, drowsiness, fatigue, and lassitude occur in approximately 10% of patients receiving the most commonly prescribed dosage of 10 mg q.i.d.
 (see PRECAUTIONS).
 Insomnia, headache, confusion, dizziness, or mental depression with suicidal ideation (see WARNINGS) occur less frequently.
 The incidence of drowsiness is greater at higher doses.
-There are isolated reports of convulsive seizures without clearcut relationship to metoclopramide.
+There are isolated reports of convulsive seizures without clear-cut relationship to metoclopramide.
 Rarely, hallucinations have been reported.
 
 ## Extrapyramidal Reactions (EPS)
@@ -22,7 +24,9 @@ Tardive dyskinesia most frequently is characterized by involuntary movements of 
 Motor restlessness (akathisia) may consist of feelings of anxiety, agitation, jitteriness, and insomnia, as well as inability to sit still, pacing, foot tapping.
 These symptoms may disappear spontaneously or respond to a reduction in dosage.
 
-Neuroleptic Malignant Syndrome Rare occurrences of neuroleptic malignant syndrome (NMS) have been reported.
+Neuroleptic Malignant Syndrome
+
+Rare occurrences of neuroleptic malignant syndrome (NMS) have been reported.
 This potentially fatal syndrome is comprised of the symptom complex of hyperthermia, altered consciousness, muscular rigidity, and autonomic dysfunction (see WARNINGS).
 
 Endocrine Disturbances
@@ -30,20 +34,34 @@ Endocrine Disturbances
 Galactorrhea, amenorrhea, gynecomastia, impotence secondary to hyperprolactinemia (see PRECAUTIONS).
 Fluid retention secondary to transient elevation of aldosterone (see CLINICAL PHARMACOLOGY).
 
-Cardiovascular Hypotension, hypertension, supraventricular tachycardia, bradycardia, fluid retention, acute congestive heart failure and possible AV block (see CONTRAINDICATIONS and PRECAUTIONS).
+Cardiovascular
 
-Gastrointestinal Nausea and bowel disturbances, primarily diarrhea.
+Hypotension, hypertension, supraventricular tachycardia, bradycardia, fluid retention, acute congestive heart failure and possible AV block (see CONTRAINDICATIONS and PRECAUTIONS).
 
-Hepatic Rarely, cases of hepatotoxicity, characterized by such findings as jaundice and altered liver function tests, when metoclopramide was administered with other drugs with known hepatotoxic potential.
+Gastrointestinal
 
-Renal Urinary frequency and incontinence.
+Nausea and bowel disturbances, primarily diarrhea.
 
-Hematologic A few cases of neutropenia, leukopenia, or agranulocytosis, generally without clearcut relationship to metoclopramide.
+Hepatic
+
+Rarely, cases of hepatotoxicity, characterized by such findings as jaundice and altered liver function tests, when metoclopramide was administered with other drugs with known hepatotoxic potential.
+
+Renal
+
+Urinary frequency and incontinence.
+
+Hematologic
+
+A few cases of neutropenia, leukopenia, or agranulocytosis, generally without clear-cut relationship to metoclopramide.
 Methemoglobinemia, in adults and especially with overdosage in neonates (see OVERDOSAGE).
 Sulfhemoglobinemia in adults.
 
-Allergic Reactions A few cases of rash, urticaria, or bronchospasm, especially in patients with a history of asthma.
+Allergic Reactions
+
+A few cases of rash, urticaria, or bronchospasm, especially in patients with a history of asthma.
 Rarely, angioneurotic edema, including glossal or laryngeal edema.
 
-Miscellaneous Visual disturbances.
+Miscellaneous
+
+Visual disturbances.
 Porphyria.

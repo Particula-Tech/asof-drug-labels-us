@@ -17,6 +17,6 @@ Inactive Ingredients
 Corn starch, D&C Yellow 10 Aluminum Lake, FD&C Blue 1 Aluminum Lake, Lactose, Microcrystalline Cellulose, Silicon Dioxide, Stearic Acid.
 
 Metoclopramide hydrochloride is a white crystalline, odorless substance, freely soluble in water.
-Chemically, it is 4-amino-5- chloro-N-[2-(diethylamino)ethyl]-2-methoxy benzamide monohydrochloride monohydrate.
+Chemically, it is 4-amino-5-chloro-N-[2-(diethylamino)ethyl]-2-methoxy benzamide monohydrochloride monohydrate.
 Its molecular formula is C14H22ClN3O2•HCl•H2O.
 Its molecular weight is 354.3.
