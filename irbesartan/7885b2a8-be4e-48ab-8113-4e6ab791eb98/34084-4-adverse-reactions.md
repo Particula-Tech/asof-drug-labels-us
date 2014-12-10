@@ -53,7 +53,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to AVAPRO.
 
-The following have been reported: urticaria; angioedema (involving swelling of the face, lips, pharynx, and/or tongue); increased liver function tests; jaundice; hepatitis; hyperkalemia, and thrombocytopenia.
+The following have been reported: urticaria; angioedema (involving swelling of the face, lips, pharynx, and/or tongue); increased liver function tests; jaundice; hepatitis; hyperkalemia, thrombocytopenia, and tinnitus.
 
 Impaired renal function, including cases of renal failure, has been reported.
 
