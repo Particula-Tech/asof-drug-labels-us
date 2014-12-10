@@ -120,6 +120,8 @@ Very rare cases of jaundice have been reported with irbesartan.
 
 Impaired renal function, including cases of renal failure in patients at risk, has been reported with irbesartan and AVALIDE.
 
+Tinnitus has been reported in patients receiving irbesartan or AVALIDE.
+
 Cases of increased CPK and rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 
 ## 6.3 Laboratory Abnormalities
