@@ -12,11 +12,12 @@ Vials are intended for single use only.
 
 Precedex in 0.9% Sodium Chloride Injection
 
-Precedex (dexmedetomidine hydrochloride in 0.9% Sodium Chloride) injection is available as 200 mcg/50 mL (4 mcg/mL) and 400 mcg/100 mL (4 mcg/mL) in 50 mL and 100 mL clear glass bottles, respectively.
+Precedex (dexmedetomidine hydrochloride in 0.9% Sodium Chloride) injection is available as 80 mcg/20 mL (4 mcg/mL), 200 mcg/50 mL (4 mcg/mL) and 400 mcg/100 mL (4 mcg/mL) in 20 mL clear glass vials, 50 mL and 100 mL clear glass bottles, respectively.
 Containers are intended for single use only.
 
 | NDC No. | Container | Size |
 | --- | --- | --- |
+| 0409-1660-20 | Vial | 20 mL |
 | 0409-1660-50 | Bottle | 50 mL |
 | 0409-1660-10 | Bottle | 100 mL |
 

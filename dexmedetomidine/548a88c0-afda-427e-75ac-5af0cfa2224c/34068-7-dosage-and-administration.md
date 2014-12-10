@@ -2,9 +2,9 @@
 
 ## 2.1 Dosing Guidelines
 
-- Precedex dosing should be individualized and titrated to desired clinical response.
-- Precedex is not indicated for infusions lasting longer than 24 hours.
-- Precedex should be administered using a controlled infusion device.
+- •Precedex dosing should be individualized and titrated to desired clinical response.
+- •Precedex is not indicated for infusions lasting longer than 24 hours.
+- •Precedex should be administered using a controlled infusion device.
 
 ## 2.2 Dosage Information
 
@@ -37,7 +37,7 @@ Preparation of solutions is the same, whether for the loading dose or maintenanc
 To prepare the infusion, withdraw 2 mL of Precedex Injection, and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
 Shake gently to mix well.
 
-Precedex in 0.9% Sodium Chloride Injection, 200 mcg/50 mL (4 mcg/mL) and 400 mcg/100 mL (4 mcg/mL)
+Precedex in 0.9% Sodium Chloride Injection, 80 mcg/20 mL (4 mcg/mL), 200 mcg/50 mL (4 mcg/mL) and 400 mcg/100 mL (4 mcg/mL)
 
 Precedex in 0.9% Sodium Chloride Injection is supplied in glass containers containing a premixed, ready to use dexmedetomidine hydrochloride solution in 0.9% sodium chloride in water.
 No further dilution of these preparations are necessary.
@@ -50,12 +50,12 @@ Precedex has been shown to be incompatible when administered with the following 
 
 Precedex has been shown to be compatible when administered with the following intravenous fluids:
 
-- 0.9% sodium chloride in water
-- 5% dextrose in water
-- 20% mannitol
-- Lactated Ringer’s solution
-- 100 mg/mL magnesium sulfate solution
-- 0.3% potassium chloride solution
+- •0.9% sodium chloride in water
+- •5% dextrose in water
+- •20% mannitol
+- •Lactated Ringer’s solution
+- •100 mg/mL magnesium sulfate solution
+- •0.3% potassium chloride solution
 
 ## 2.6 Compatibility with Natural Rubber
 

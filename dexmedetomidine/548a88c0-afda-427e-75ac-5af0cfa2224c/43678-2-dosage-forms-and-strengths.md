@@ -7,6 +7,9 @@ To be used after dilution.
 
 Precedex in 0.9% Sodium Chloride Injection
 
+Precedex Injection, 80 mcg dexmedetomidine/20 mL (4 mcg/mL) dexmedetomidine in a 20 mL glass vial.
+Ready to use.
+
 Precedex Injection, 200 mcg dexmedetomidine/50 mL (4 mcg/mL) dexmedetomidine in a 50 mL glass bottle.
 Ready to use.
 
