@@ -1,5 +1,5 @@
 Regitine® is a registered trademark of CIBA PHARMACEUTICAL PRODUCTS, INC.
 
-Manufactured by: MUTUAL PHARMACEUTICAL COMPANY, INC. Philadelphia, PA 19124 USA
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Rev 11, October 2012
+Rev 12, October 2014
