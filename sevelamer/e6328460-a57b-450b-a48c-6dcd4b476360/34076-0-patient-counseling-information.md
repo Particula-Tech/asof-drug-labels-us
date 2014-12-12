@@ -11,9 +11,9 @@ For Renvela powder, brief the patient on preparation of the powder in water.
 
 Sevelamer Carbonate Powder Preparation Instructions
 
-The entire contents of each 0.8 or 2.4 g packet should be placed in a cup and mixed thoroughly with the amount of water described in Table 6.
+The entire contents of each 0.8 or 2.4 g packet should be placed in a cup and mixed thoroughly with the amount of water described in Table 7.
 
-Table 6.
+Table 7.
 Sevelamer Carbonate Powder Preparation Instructions
 
 | Renvela Powder Packet Strength | Minimum amount of water for dose preparation (either ounces, mL or teaspoon/Tablespoon) |  |  |

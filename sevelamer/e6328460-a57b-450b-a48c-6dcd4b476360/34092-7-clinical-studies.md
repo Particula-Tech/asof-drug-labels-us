@@ -27,9 +27,9 @@ Eighty-four CKD patients on hemodialysis who were hyperphosphatemic (serum phosp
 Treatment periods were separated by a two-week phosphate binder washout period.
 Patients started on treatment three times per day with meals.
 Over each eight-week treatment period, at three separate time points the dose of sevelamer hydrochloride could be titrated up to control serum phosphorus, the dose of active-control could also be altered to attain phosphorus control.
-Both treatments significantly decreased mean serum phosphorus by about 2 mg/dL (Table 4).
+Both treatments significantly decreased mean serum phosphorus by about 2 mg/dL (Table 5).
 
-Table 4.
+Table 5.
 Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint
 
 |  | Sevelamer Hydrochloride (N=81) | Active Control (N=83) |
@@ -51,9 +51,9 @@ Average daily sevelamer hydrochloride dose at the end of treatment was 4.9 g (ra
 ## 14.4 Sevelamer Hydrochloride Versus Active-Control in Hemodialysis Patients
 
 Two hundred CKD patients on hemodialysis who were hyperphosphatemic (serum phosphorus > 5.5 mg/dL) following a two-week phosphate binder washout period were randomized to receive sevelamer hydrochloride 800 mg tablets (N=99) or an active-control (N=101).
-At week 52, using last-observation-carried-forward, sevelamer and active-control both significantly decreased mean serum phosphorus (Table 5).
+At week 52, using last-observation-carried-forward, sevelamer and active-control both significantly decreased mean serum phosphorus (Table 6).
 
-Table 5.
+Table 6.
 Mean Serum Phosphorus (mg/dL) and Ion Product at Baseline and Change from Baseline to End of Treatment
 
 |  | Sevelamer HCl (N=94) | Active-Control (N=98) |

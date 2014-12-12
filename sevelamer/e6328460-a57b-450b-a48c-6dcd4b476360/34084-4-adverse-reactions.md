@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 There are limited data on the safety of Renvela.
 However, based on the fact that it contains the same active ingredient as the hydrochloride salt, the adverse event profiles of the two salts should be similar.
-In a cross-over study in hemodialysis patients with treatment durations of eight weeks each and no washout the adverse reactions on sevelamer carbonate tablets were similar to those reported for sevelamer hydrochloride.
+In a cross-over study in hemodialysis patients with treatment durations of eight weeks each and no washout, the adverse reactions on sevelamer carbonate tablets were similar to those reported for sevelamer hydrochloride.
 In another cross-over study in hemodialysis patients, with treatment durations of four weeks each and no washout between treatment periods, the adverse reactions on sevelamer carbonate powder were similar to those reported for sevelamer hydrochloride.
 
 In a parallel design study of sevelamer hydrochloride with treatment duration of 52 weeks, adverse reactions reported for sevelamer hydrochloride (n=99) were similar to those reported for the active-comparator group (n=101).
