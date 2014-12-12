@@ -1,40 +1,17 @@
 # 7 DRUG INTERACTIONS
 
-Renagel has been studied in human drug-drug interaction studies with ciprofloxacin, digoxin, warfarin, enalapril, metoprolol and iron.
+There are no empirical data on avoiding drug interactions between Renagel® and most concomitant oral drugs.
+For oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy (e.g., cyclosporine, tacrolimus, levothyroxine), consider separation of the timing of the administration of the two drugs [see Clinical Pharmacology (12.3)].
+The duration of separation depends upon the absorption characteristics of the medication concomitantly administered, such as the time to reach peak systemic levels and whether the drug is an immediate release or an extended release product.
+Where possible consider monitoring clinical responses and/or blood levels of concomitant drugs that have a narrow therapeutic range.
 
-## 7.1 Ciprofloxacin
+Table 4.
+Sevelamer Drug Interactions
 
-In a study of 15 healthy subjects, a co-administered single dose of 7 Renagel capsules (approximately 2.8 g) decreased the bioavailability of ciprofloxacin by approximately 50%.
-
-## 7.2 Digoxin
-
-In 19 healthy subjects receiving 6 Renagel capsules three times a day with meals for 2 days, Renagel did not alter the pharmacokinetics of a single dose of digoxin.
-
-## 7.3 Warfarin
-
-In 14 healthy subjects receiving 6 Renagel capsules three times a day with meals for 2 days, Renagel did not alter the pharmacokinetics of a single dose of warfarin.
-
-## 7.4 Enalapril
-
-In 28 healthy subjects a single dose of 6 Renagel capsules did not alter the pharmacokinetics of a single dose of enalapril.
-
-## 7.5 Metoprolol
-
-In 31 healthy subjects a single dose of 6 Renagel capsules did not alter the pharmacokinetics of a single dose of metoprolol.
-
-## 7.6 Iron
-
-In 23 healthy subjects, a single dose of 7 Renagel capsules did not alter the absorption of a single oral dose of iron as 200 mg exsiccated ferrous sulfate tablet.
-
-## 7.7 Other Concomitant Drug Therapy
-
-During postmarketing experience, reduced concentrations of cyclosporin, mycophenolate mofetil and tacrolimus have been reported in transplant patients when co-administered with sevelamer hydrochloride without any clinical consequences (for example, graft rejection).
-The possibility of an interaction cannot be excluded and close monitoring of blood concentrations of cyclosporin, mycophenolate mofetil and tacrolimus should be considered during the use of any of these agents in combination with sevelamer and after its withdrawal.
-
-There are no empirical data on avoiding drug interactions between Renagel® and most concomitant drugs.
-During postmarketing experience, very rare cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients co-administered sevelamer hydrochloride and levothyroxine.
-Closer monitoring of TSH levels is therefore recommended in patients receiving both medications.
-
-When administering an oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy, the drug should be administered at least one hour before or three hours after Renagel, or the physician should consider monitoring blood levels of the drug.
-Patients taking anti-arrhythmic medications for the control of arrhythmias and anti-seizure medications for the control of seizure disorders were excluded from the clinical trials.
-Special precautions should be taken when prescribing Renagel to patients also taking these medications.
+| Oral drugs for which sevelamer did not alter the pharmacokinetics when administered concomitantly |  |
+| --- | --- |
+| Digoxin Enalapril Iron Metoprolol Warfarin |  |
+| Oral drugs that have demonstrated interaction with sevelamer and are to be dosed separately from Renagel |  |
+|  | Dosing Recommendations |
+| Ciprofloxacin | Take at least 2 hours before or 6 hours after sevelamer |
+| Mycophenolate mofetil | Take at least 2 hours before sevelamer |

@@ -12,9 +12,9 @@ Eighty-four CKD patients on hemodialysis who were hyperphosphatemic (serum phosp
 Treatment periods were separated by a two-week phosphate binder washout period.
 Patients started on treatment three times per day with meals.
 Over each eight-week treatment period, at three separate time points the dose of Renagel could be titrated up 1 capsule or tablet per meal (3 per day) to control serum phosphorus, the dose of active-control could also be altered to attain phosphate control.
-Both treatments significantly decreased mean serum phosphorus by about 2 mg/dL (Table 4).
+Both treatments significantly decreased mean serum phosphorus by about 2 mg/dL (Table 5).
 
-Table 4.
+Table 5.
 Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint
 
 |  | Renagel® (N=81) | Active-Control (N=83) |
@@ -37,9 +37,9 @@ Average daily Renagel dose at the end of treatment was 4.9 g (range of 0.0 to 12
 
 Two hundred CKD patients on hemodialysis who were hyperphosphatemic (serum phosphorus >5.5 mg/dL) following a two-week phosphate binder washout period were randomized to receive Renagel 800 mg tablets (N=99) or an active-control (N=101).
 The two treatments produced similar decreases in serum phosphorus.
-At week 52, using last-observation-carried-forward, Renagel and active-control both significantly decreased mean serum phosphorus (Table 5).
+At week 52, using last-observation-carried-forward, Renagel and active-control both significantly decreased mean serum phosphorus (Table 6).
 
-Table 5.
+Table 6.
 Mean Serum Phosphorus (mg/dL) and Ion Product at Baseline and Change from Baseline to End of Treatment
 
 |  | Renagel® (N=94) | Active-Control (N=98) |
