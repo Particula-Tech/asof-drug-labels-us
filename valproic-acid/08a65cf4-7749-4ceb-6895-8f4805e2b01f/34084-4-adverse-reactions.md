@@ -1,24 +1,19 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the labeling:
-
-Hepatic failure (5.1)
-
-Birth defects (5.2)
-
-Decreased IQ following in utero exposure (5.3)
-
-Pancreatitis (5.5)
-
-Thrombocytopenia (5.9)
-
-Hyperammonemic encephalopathy (5.6, 5.10, 5.11)
-
-Multi-organ hypersensitivity reactions (5.13)
-
-Somnolence in the elderly (5.15)
-
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+The following serious adverse reactions are described below and elsewhere in the labeling:
+
+- Hepatic failure [see Warnings and Precautions (5.1)]
+- Birth defects [see Warnings and Precautions (5.2)]
+- Decreased IQ following in utero exposure [see Warnings and Precautions (5.3)]
+- Pancreatitis [see Warnings and Precautions (5.5)]
+- Hyperammonemic encephalopathy [see Warnings and Precautions (5.6), (5.9), (5.10)]
+- Suicidal behavior and ideation [see Warnings and Precautions (5.7)]
+- Thrombocytopenia [see Warnings and Precautions (5.8)]
+- Hypothermia [see Warnings and Precautions (5.11)]
+- Multi-organ hypersensitivity reactions [see Warnings and Precautions (5.12)]
+- Somnolence in the elderly [see Warnings and Precautions (5.14)]
 
 ## 6.1 Mania
 
@@ -246,6 +241,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Dermatologic: Photosensitivity, erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
 
 Psychiatric: Emotional upset, psychosis, aggression, hyperactivity, hostility, and behavioral deterioration.
+
+Neurologic: There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
 Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 

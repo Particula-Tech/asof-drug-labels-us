@@ -19,8 +19,6 @@ Maternal valproate use during pregnancy for any indication increases the risk of
 The risk of major structural abnormalities is greatest during the first trimester; however, other serious developmental effects can occur with valproate use throughout pregnancy.
 The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see Warnings and Precautions (5.3)].
 
-Exposure in utero to valproate products has been associated with cerebral atrophy [see Warnings and Precautions (5.7)].
-
 Several published epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores than children exposed to either another antiepileptic drug in utero or to no antiepileptic drugs in utero[see Warnings and Precautions (5.3)].
 
 An observational study has suggested that exposure to valproate products during pregnancy may increase the risk of autism spectrum disorders.
@@ -49,7 +47,7 @@ Clinical Considerations
 - Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
   It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
   Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.
-- Patients taking valproate may develop clotting abnormalities [see Warnings and Precautions (5.9)].
+- Patients taking valproate may develop clotting abnormalities [see Warnings and Precautions (5.8)].
   A patient who had low fibrinogen when taking multiple anticonvulsants including valproate gave birth to an infant with afibrinogenemia who subsequently died of hemorrhage.
   If valproate is used in pregnancy, the clotting parameters should be monitored carefully.
 - Patients taking valproate may develop hepatic failure [see Boxed Warning and Warnings and Precautions (5.1)].
@@ -137,7 +135,7 @@ A higher percentage of patients above 65 years of age reported accidental injury
 Discontinuation of valproate was occasionally associated with the latter two events.
 It is not clear whether these events indicate additional risk or whether they result from preexisting medical illness and concomitant medication use among these patients.
 
-A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.15)].
+A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.14)].
 The starting dose should be reduced in these patients, and dosage reductions or discontinuation should be considered in patients with excessive somnolence [see Dosage and Administration (2.4)].
 
 There is insufficient information available to discern the safety and effectiveness of valproate for the prophylaxis of migraines in patients over 65.
