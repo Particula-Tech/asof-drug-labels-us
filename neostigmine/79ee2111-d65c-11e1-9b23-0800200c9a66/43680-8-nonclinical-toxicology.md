@@ -4,6 +4,6 @@
 
 Carcinogenesis: Long-term animal studies have not been performed to evaluate the carcinogenic potential of neostigmine.
 
-Mutagenesis: Neostigmine methylsulfate was not mutagenic in an in vitro bacterial reverse mutation assay (Ames test).
+Genotoxicity: Neostigmine methylsulfate was not mutagenic or clastogenic when evaluated in an in vitro bacterial reverse mutation assay (Ames test), an in vitro Chinese hamster ovary cell chromosomal aberration assay, or an in vivo mouse bone marrow micronucleus assay.
 
 Impairment of Fertility: Studies on the effect of neostigmine methylsulfate on fertility have not been performed.

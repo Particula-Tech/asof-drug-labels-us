@@ -24,7 +24,7 @@ BLOXIVERZ is approved for the reversal of the effects of non-depolarizing neurom
 
 Recovery of neuromuscular activity occurs more rapidly with smaller doses of cholinesterase inhibitors in infants and children than in adults.
 However, infants and small children may be at greater risk of complications from incomplete reversal of neuromuscular blockade due to decreased respiratory reserve.
-The risks associated with incomplete reversal outweigh any risk from giving higher doses of BLOXIVERZ (up to 0.07 mg/kg or up to a total of 5 mg, whichever is lower).
+The risks associated with incomplete reversal outweigh any risk from giving higher doses of BLOXIVERZ (up to 0.07 mg/kg or up to a total of 5 mg, whichever is less).
 
 The dose of BLOXIVERZ required to reverse neuromuscular blockade in children varies between 0.03 mg - 0.07 mg/kg, the same dose range shown to be effective in adults, and should be selected using the same criteria as used for adult patients.
 [see Clinical Pharmacology (12.3)]
