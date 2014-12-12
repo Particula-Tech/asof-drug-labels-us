@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Hepatotoxicity
 
@@ -27,11 +27,11 @@ To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Spe
 ## 17.4 Suicidal Thinking and Behavior
 
 Counsel patients, their caregivers, and families that AEDs, including Depakene, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Instruct patients, caregivers, and families to report behaviors of concern immediately to the healthcare providers [see Warnings and Precautions (5.8)].
+Instruct patients, caregivers, and families to report behaviors of concern immediately to the healthcare providers [see Warnings and Precautions (5.7)].
 
 ## 17.5 Hyperammonemia
 
-Inform patients of the signs and symptoms associated with hyperammonemic encephalopathy and be told to inform the prescriber if any of these symptoms occur [see Warnings and Precautions (5.10, 5.11)].
+Inform patients of the signs and symptoms associated with hyperammonemic encephalopathy and be told to inform the prescriber if any of these symptoms occur [see Warnings and Precautions (5.9, 5.10)].
 
 ## 17.6 CNS Depression
 
@@ -39,8 +39,4 @@ Since valproate products may produce CNS depression, especially when combined wi
 
 ## 17.7 Multi-Organ Hypersensitivity Reactions
 
-Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see Warnings and Precautions (5.13)].
-
-Depakene Capsules Mfd. by Banner Pharmacaps, Inc., High Point, NC 27265 U.S.A. For AbbVie Inc., North Chicago, IL 60064, U.S.A.
-
-Depakene Oral solution Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A. OR by DPT Laboratories, Ltd., San Antonio, TX 78215, U.S.A. For AbbVie Inc., North Chicago, IL 60064, U.S.A.
+Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see Warnings and Precautions (5.12)].
