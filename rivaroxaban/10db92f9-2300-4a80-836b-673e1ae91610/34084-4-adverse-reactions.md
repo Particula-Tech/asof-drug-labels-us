@@ -169,11 +169,11 @@ Other clinical trial experience: In an investigational study of acute medically 
 The following adverse reactions have been identified during post-approval use of rivaroxaban.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system disorders: agranulocytosis
+Blood and lymphatic system disorders: agranulocytosis, thrombocytopenia
 
 Gastrointestinal disorders: retroperitoneal hemorrhage
 
-Hepatobiliary disorders: jaundice, cholestasis, cytolytic hepatitis
+Hepatobiliary disorders: jaundice, cholestasis, hepatitis (including hepatocellular injury)
 
 Immune system disorders: hypersensitivity, anaphylactic reaction, anaphylactic shock, angioedema
 

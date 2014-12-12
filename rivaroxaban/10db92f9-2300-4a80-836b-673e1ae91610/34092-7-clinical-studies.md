@@ -124,7 +124,7 @@ Table 11: Primary Composite Endpoint ResultsFor the primary efficacy analysis, a
 
 | Event | XARELTO 20 mg N = 602 n (%) | Placebo N = 594 n (%) | XARELTO vs. Placebo Hazard Ratio (95% CI) |
 | --- | --- | --- | --- |
-| Primary Composite Endpoint | 8 (1.3) | 42 (7.1) | 0.18 (0.09, 0.39) p-value=<0.0001 |
+| Primary Composite Endpoint | 8 (1.3) | 42 (7.1) | 0.18 (0.09, 0.39) p-value = <0.0001 |
 | Death (PE) | 0 | 1 (0.2) |  |
 | Death (PE cannot be excluded) | 1 (0.2) | 0 |  |
 | Symptomatic recurrent PE | 2 (0.3) | 13 (2.2) |  |
@@ -150,7 +150,7 @@ The efficacy data for RECORD 1 and 2 are provided in Table 12.
 
 Table 12: Summary of Key Efficacy Analysis Results for Patients Undergoing Total Hip Replacement Surgery - Modified Intent-to-Treat Population
 
-| Treatment Dosage and Duration | XARELTO 10 mg once daily | Enoxaparin 40 mg once daily | RRRRelative Risk Reduction; CI=confidence interval, p-value | XARELTO 10 mg once daily | EnoxaparinIncludes the placebo-controlled period of RECORD 2 40 mg once daily | RRR, p-value |
+| Treatment Dosage and Duration | XARELTO 10 mg once daily | Enoxaparin 40 mg once daily | RRRRelative Risk Reduction; CI = confidence interval, p-value | XARELTO 10 mg once daily | EnoxaparinIncludes the placebo-controlled period of RECORD 2 40 mg once daily | RRR, p-value |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | RECORD 1 |  |  | RECORD 2 |  |  |
 | Number of Patients | N = 1513 | N = 1473 |  | N = 834 | N = 835 |  |
@@ -176,7 +176,7 @@ The efficacy data are provided in Table 13.
 
 Table 13: Summary of Key Efficacy Analysis Results for Patients Undergoing Total Knee Replacement Surgery - Modified Intent-to-Treat Population
 
-| Treatment Dosage and Duration | XARELTO 10 mg once daily | Enoxaparin 40 mg once daily | RRRRelative Risk Reduction; CI=confidence interval, p-value |
+| Treatment Dosage and Duration | XARELTO 10 mg once daily | Enoxaparin 40 mg once daily | RRRRelative Risk Reduction; CI = confidence interval, p-value |
 | --- | --- | --- | --- |
 |  | RECORD 3 |  |  |
 | Number of Patients | N = 813 | N = 871 |  |
@@ -187,6 +187,6 @@ Table 13: Summary of Key Efficacy Analysis Results for Patients Undergoing Total
 | Non-fatal PE | 0 | 4 (0.5%) |  |
 | Death (any cause) | 0 | 2 (0.2%) |  |
 | Number of Patients | N = 895 | N = 917 |  |
-| Major VTEProximal DVT, nonfatal PE or VTE-related death | 9 (1.0%) | 23 (2.5%) | 60% (95% CI: 14, 81), p=0.024 |
+| Major VTEProximal DVT, nonfatal PE or VTE-related death | 9 (1.0%) | 23 (2.5%) | 60% (95% CI: 14, 81), p = 0.024 |
 | Number of Patients | N = 1206 | N = 1226 |  |
 | Symptomatic VTE | 8 (0.7%) | 24 (2.0%) |  |

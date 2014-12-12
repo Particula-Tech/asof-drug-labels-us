@@ -34,10 +34,10 @@ What is the most important information I should know about XARELTO?
 - Spinal or epidural blood clots (hematoma).
   People who take a blood thinner medicine (anticoagulant) like XARELTO, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot that can cause long-term or permanent loss of the ability to move (paralysis).
   Your risk of developing a spinal or epidural blood clot is higher if:
-  - a thin tube called an epidural catheter is placed in your back to give you certain medicine.
+  - a thin tube called an epidural catheter is placed in your back to give you certain medicine
   - you take NSAIDs or a medicine to prevent blood from clotting
   - you have a history of difficult or repeated epidural or spinal punctures
-  - you have a history of problems with your spine or have had surgery on your spine.
+  - you have a history of problems with your spine or have had surgery on your spine
 
 If you take XARELTO and receive spinal anesthesia or have a spinal puncture, your doctor should watch you closely for symptoms of spinal or epidural blood clots.
 Tell your doctor right away if you have back pain, tingling, numbness, muscle weakness (especially in your legs and feet), loss of control of the bowels or bladder (incontinence).
@@ -52,8 +52,8 @@ What is XARELTO?
   - reduce the risk of stroke and blood clots in people who have a medical condition called atrial fibrillation.
     With atrial fibrillation, part of the heart does not beat the way it should.
     This can lead to the formation of blood clots, which can travel to the brain, causing a stroke, or to other parts of the body.
-  - treat blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism) and reduce the risk of them occurring again.
-  - reduce the risk of forming a blood clot in the legs and lungs of people who have just had hip or knee replacement surgery.
+  - treat blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism) and reduce the risk of them occurring again
+  - reduce the risk of forming a blood clot in the legs and lungs of people who have just had hip or knee replacement surgery
 
 It is not known if XARELTO is safe and effective in children.
 
@@ -152,7 +152,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store XARELTO?
 
-- Store XARELTO at room temperature between 68°F to 77°F (20° to 25° C).
+- Store XARELTO at room temperature between 68°F to 77°F (20° to 25°C).
 
 Keep XARELTO and all medicines out of the reach of children.
 
@@ -193,7 +193,7 @@ Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 Licensed from: Bayer HealthCare AG 51368 Leverkusen, Germany
 
-Revised: August 2014
+Revised: December 2014
 
 © Janssen Pharmaceuticals, Inc. 2011
 
