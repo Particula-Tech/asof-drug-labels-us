@@ -280,5 +280,3 @@ Depakene Oral solution:
 - For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-03-B020 August 2014

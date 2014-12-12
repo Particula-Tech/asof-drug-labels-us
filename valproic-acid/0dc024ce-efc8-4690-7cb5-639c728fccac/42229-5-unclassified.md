@@ -2,3 +2,5 @@
 - 500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or
 - AbbVie LTD, Barceloneta, PR 00617
 - For AbbVie Inc., North Chicago, IL 60064 U.S.A.
+
+03-B064 November 2014
