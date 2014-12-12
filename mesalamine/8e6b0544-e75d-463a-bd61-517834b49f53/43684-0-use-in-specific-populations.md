@@ -59,4 +59,4 @@ Caution should be taken to closely monitor blood cell counts during treatment wi
 
 Mesalamine is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken when prescribing this drug therapy.
-It is recommended that all patients have an evaluation of renal function prior to initiation of DELZICOL therapy and periodically while on DELZICOL therapy [see Dosage and Administration (2.4) andWarnings and Precautions (5.1)].
+It is recommended that all patients have an evaluation of renal function prior to initiation of DELZICOL therapy and periodically while on DELZICOL therapy [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)].

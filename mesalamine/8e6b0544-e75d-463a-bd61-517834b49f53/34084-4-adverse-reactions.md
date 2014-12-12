@@ -70,8 +70,8 @@ Table 2: Adverse Reactions Reported in One Six-Week Trial (Study 3) Experienced 
 
 |  | % of Patients with Adverse Reactions |  |
 | --- | --- | --- |
-| Adverse Reaction | Low Dose | High Dose |
-|  | (n=41) | (n=41) |
+|  | Low Dose | High Dose |
+| Adverse Reaction | (n=41) | (n=41) |
 | Nasopharyngitis | 15 | 12 |
 | Ulcerative Colitis | 12 | 5 |
 | Headache | 10 | 5 |
@@ -84,7 +84,7 @@ Table 2: Adverse Reactions Reported in One Six-Week Trial (Study 3) Experienced 
 | Fatigue | 2 | 10 |
 | Pyrexia | 0 | 7 |
 | Increased Lipase | 0 | 5 |
-| Low Dose = mesalamine 400mg delayed-release tablet 1.2 - 2.4 g/day; High Dose = mesalamine 400mg delayed-release tablet 2.0 - 4.8 g/day. Dosage was dependent on body weight. Adverse Reactions reported at the 1-week telephone follow-up visit are included. |  |  |
+| Low Dose = mesalamine 400 mg delayed-release tablet 1.2 - 2.4 g/day; High Dose = mesalamine 400 mg delayed-release tablet 2.0 - 4.8 g/day. Dosage was dependent on body weight. Adverse Reactions reported at the 1-week telephone follow-up visit are included. |  |  |
 
 Twelve percent of the patients in the low dose group and 5% of the patients in the high dose group had serious adverse reactions (ARs).
 Ulcerative colitis was reported as a serious AR in one subject in each group.
