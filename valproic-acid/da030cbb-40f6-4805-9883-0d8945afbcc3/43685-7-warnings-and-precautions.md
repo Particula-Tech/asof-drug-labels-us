@@ -94,16 +94,9 @@ Valproate sodium is contraindicated in patients with known urea cycle disorders 
 
 Hyperammonemic encephalopathy, sometimes fatal, has been reported following initiation of valproate therapy in patients with urea cycle disorders, a group of uncommon genetic abnormalities, particularly ornithine transcarbamylase deficiency.
 Prior to the initiation of valproate therapy, evaluation for UCD should be considered in the following patients: 1) those with a history of unexplained encephalopathy or coma, encephalopathy associated with a protein load, pregnancy-related or postpartum encephalopathy, unexplained mental retardation, or history of elevated plasma ammonia or glutamine; 2) those with cyclical vomiting and lethargy, episodic extreme irritability, ataxia, low BUN, or protein avoidance; 3) those with a family history of UCD or a family history of unexplained infant deaths (particularly males); 4) those with other signs or symptoms of UCD.
-Patients who develop symptoms of unexplained hyperammonemic encephalopathy while receiving valproate therapy should receive prompt treatment (including discontinuation of valproate therapy) and be evaluated for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.10)].
+Patients who develop symptoms of unexplained hyperammonemic encephalopathy while receiving valproate therapy should receive prompt treatment (including discontinuation of valproate therapy) and be evaluated for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.9)].
 
-## 5.7 Brain Atrophy
-
-There have been postmarketing reports of reversible and irreversible cerebral and cerebellar atrophy temporally associated with the use of valproate products; in some cases, patients recovered with permanent sequelae [see Adverse Reactions].
-The motor and cognitive functions of patients on valproate should be routinely monitored and drug should be evaluated for continued use in the presence of suspected or apparent signs of brain atrophy.
-
-Reports of cerebral atrophy have also been reported in children who were exposed in utero to valproate products [see Use in Specific Populations (8.1)].
-
-## 5.8 Thrombocytopenia
+## 5.7 Thrombocytopenia
 
 The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related.
 In a clinical trial of valproate as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
@@ -116,37 +109,37 @@ Because of reports of thrombocytopenia, inhibition of the secondary phase of pla
 It is recommended that patients receiving Depacon be monitored for platelet count and coagulation parameters prior to planned surgery.
 Evidence of hemorrhage, bruising, or a disorder of hemostasis/coagulation is an indication for reduction of the dosage or withdrawal of therapy.
 
-## 5.9 Hyperammonemia
+## 5.8 Hyperammonemia
 
 Hyperammonemia has been reported in association with valproate therapy and may be present despite normal liver function tests.
 In patients who develop unexplained lethargy and vomiting or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
-Hyperammonemia should also be considered in patients who present with hypothermia [see Warnings and Precautions (5.11)].
+Hyperammonemia should also be considered in patients who present with hypothermia [see Warnings and Precautions (5.10)].
 If ammonia is increased, valproate therapy should be discontinued.
-Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.6, 5.10)].
+Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.6, 5.9)].
 
 Asymptomatic elevations of ammonia are more common and when present, require close monitoring of plasma ammonia levels.
 If the elevation persists, discontinuation of valproate therapy should be considered.
 
-## 5.10 Hyperammonemia and Encephalopathy associated with Concomitant Topiramate Use
+## 5.9 Hyperammonemia and Encephalopathy associated with Concomitant Topiramate Use
 
 Concomitant administration of topiramate and valproate has been associated with hyperammonemia with or without encephalopathy in patients who have tolerated either drug alone.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
-Hypothermia can also be a manifestation of hyperammonemia [see Warnings and Precautions (5.11)].
+Hypothermia can also be a manifestation of hyperammonemia [see Warnings and Precautions (5.10)].
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse reaction is not due to a pharmacokinetic interaction.
 It is not known if topiramate monotherapy is associated with hyperammonemia.
 Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy.
 Although not studied, an interaction of topiramate and valproate may exacerbate existing defects or unmask deficiencies in susceptible persons.
-In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.9)].
+In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.8)].
 
-## 5.11 Hypothermia
+## 5.10 Hypothermia
 
 Hypothermia, defined as an unintentional drop in body core temperature to <35°C (95°F), has been reported in association with valproate therapy both in conjunction with and in the absence of hyperammonemia.
 This adverse reaction can also occur in patients using concomitant topiramate with valproate after starting topiramate treatment or after increasing the daily dose of topiramate [see Drug Interactions (7.3)].
 Consideration should be given to stopping valproate in patients who develop hypothermia, which may be manifested by a variety of clinical abnormalities including lethargy, confusion, coma, and significant alterations in other major organ systems such as the cardiovascular and respiratory systems.
 Clinical management and assessment should include examination of blood ammonia levels.
 
-## 5.12 Multi-Organ Hypersensitivity Reactions
+## 5.11 Multi-Organ Hypersensitivity Reactions
 
 Multi-organ hypersensitivity reactions have been rarely reported in close temporal association to the initiation of valproate therapy in adult and pediatric patients (median time to detection 21 days: range 1 to 40 days).
 Although there have been a limited number of reports, many of these cases resulted in hospitalization and at least one death has been reported.
@@ -156,13 +149,13 @@ Because the disorder is variable in its expression, other organ system symptoms 
 If this reaction is suspected, valproate should be discontinued and an alternative treatment started.
 Although the existence of cross sensitivity with other drugs that produce this syndrome is unclear, the experience amongst drugs associated with multi-organ hypersensitivity would indicate this to be a possibility.
 
-## 5.13 Interaction with Carbapenem Antibiotics
+## 5.12 Interaction with Carbapenem Antibiotics
 
 Carbapenem antibiotics (for example, ertapenem, imipenem, meropenem; this is not a complete list) may reduce serum valproate concentrations to subtherapeutic levels, resulting in loss of seizure control.
 Serum valproate concentrations should be monitored frequently after initiating carbapenem therapy.
 Alternative antibacterial or anticonvulsant therapy should be considered if serum valproate concentrations drop significantly or seizure control deteriorates [see Drug Interactions (7.1)].
 
-## 5.14 Somnolence in the Elderly
+## 5.13 Somnolence in the Elderly
 
 In a double-blind, multicenter trial of valproate in elderly patients with dementia (mean age = 83 years), doses were increased by 125 mg/day to a target dose of 20 mg/kg/day.
 A significantly higher proportion of valproate patients had somnolence compared to placebo, and although not statistically significant, there was a higher proportion of patients with dehydration.
@@ -172,7 +165,7 @@ There was a trend for the patients who experienced these events to have a lower 
 In elderly patients, dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions.
 Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence [see Dosage and Administration (2.2)].
 
-## 5.15 Post-traumatic Seizures
+## 5.14 Post-traumatic Seizures
 
 A study was conducted to evaluate the effect of IV valproate in the prevention of post-traumatic seizures in patients with acute head injuries.
 Patients were randomly assigned to receive either IV valproate given for one week (followed by oral valproate products for either one or six months per random treatment assignment) or IV phenytoin given for one week (followed by placebo).
@@ -181,18 +174,18 @@ Many of these patients were critically ill with multiple and/or severe injuries,
 Further, in the absence of a concurrent placebo control during the initial week of intravenous therapy, it is impossible to determine if the mortality rate in the patients treated with valproate was greater or less than that expected in a similar group not treated with valproate, or whether the rate seen in the IV phenytoin treated patients was lower than would be expected.
 Nonetheless, until further information is available, it seems prudent not to use Depacon in patients with acute head trauma for the prophylaxis of post-traumatic seizures.
 
-## 5.16 Monitoring: Drug Plasma Concentration
+## 5.15 Monitoring: Drug Plasma Concentration
 
 Since valproate may interact with concurrently administered drugs which are capable of enzyme induction, periodic plasma concentration determinations of valproate and concomitant drugs are recommended during the early course of therapy [see Drug Interactions (7)].
 
-## 5.17 Effect on Ketone and Thyroid Function Tests
+## 5.16 Effect on Ketone and Thyroid Function Tests
 
 Valproate is partially eliminated in the urine as a keto-metabolite which may lead to a false interpretation of the urine ketone test.
 
 There have been reports of altered thyroid function tests associated with valproate.
 The clinical significance of these is unknown.
 
-## 5.18 Effect on HIV and CMV Viruses Replication
+## 5.17 Effect on HIV and CMV Viruses Replication
 
 There are in vitro studies that suggest valproate stimulates the replication of the HIV and CMV viruses under certain experimental conditions.
 The clinical consequence, if any, is not known.
