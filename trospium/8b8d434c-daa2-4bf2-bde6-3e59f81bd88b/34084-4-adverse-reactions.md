@@ -37,7 +37,7 @@ Table 1: Incidence of treatment-emergent adverse events reported in at least 1% 
 | Abdominal distension | 2 (0.3) | 6 (1.0) |
 | Nasal dryness | 0 (0.0) | 6 (1.0) |
 
-Additional adverse events reported in less than 1% of trospium chloride extended-release capsules treated patients and more common for trospium chloride extended-release capsules than placebo, judged by the investigator at least possibly related to treatment were: vision blurred, feces hard, back pain, somnolence, urinary retention and dry skin.
+Additional adverse events reported in less than 1% of trospium chloride extended-release capsules treated patients and more common for trospium chloride extended-release capsules than placebo, judged by the investigator at least possibly related to treatment were: vision blurred, feces hard, back pain, somnolence, urinary retention, and dry skin.
 
 Table 2 lists all treatment-emergent adverse events for the trials reported in at least 2% of all trospium chloride extended-release capsules patients and more common for the trospium chloride extended-release capsules group than for placebo without regard to the investigator’s judgment on drug relatedness.
 
@@ -63,4 +63,4 @@ Several adverse events were reported as severe in the open-label treatment phase
 The following adverse reactions have been identified during post-approval use of trospium chloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal – gastritis; Cardiovascular – palpitations, supraventricular tachycardia, chest pain, syncope, “hypertensive crisis”; Immunological – Stevens-Johnson syndrome, anaphylactic reaction, angioedema; Nervous System – dizziness, confusion, vision abnormal, hallucinations, somnolence and delirium; Musculoskeletal – rhabdomyolysis; General – rash.
+Gastrointestinal – gastritis; Cardiovascular – palpitations, supraventricular tachycardia, chest pain, syncope, “hypertensive crisis”; Immunological – Stevens-Johnson syndrome, anaphylactic reaction, angioedema; Nervous System – dizziness, confusion, vision abnormal, hallucinations, somnolence, and delirium; Musculoskeletal – rhabdomyolysis; General – rash.

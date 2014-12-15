@@ -42,14 +42,14 @@ Table 3: Mean (±SD) Pharmacokinetic Parameter Estimates for a Single 60 mg Oral
 | Treatment | AUC(0-24) (ng●h/mL) | Cmax (ng/mL) | Tmaxa (h) | t1/2b (h) |
 | --- | --- | --- | --- | --- |
 | Trospium Chloride Extended-release Capsules 60 mg | 18.0 ± 13.4 | 2.0 ± 1.5 | 5.0 (3.0 to 7.5) | 36 ± 22 |
-| a Tmax expressed as median (range) |  |  |  |  |
+| a Tmax expressed as median (range). |  |  |  |  |
 | b t1/2 was determined following multiple (10) doses. |  |  |  |  |
 
 The mean sample concentration-time (+ standard deviation) profile for trospium chloride extended-release capsules is shown in Figure 1.
 
 Administration of trospium chloride extended-release capsules immediately after a high (50%) fat-content meal reduced the oral bioavailability of trospium chloride by 35% for AUC(0-Tlast) and by 60% for Cmax.
 Other pharmacokinetic parameters such as Tmax and t1/2 were unchanged in the presence of food.
-Co-administration with antacid had inconsistent effects on the oral bioavailability of trospium chloride extended-release capsules.
+Coadministration with antacid had inconsistent effects on the oral bioavailability of trospium chloride extended-release capsules.
 
 Distribution: Protein binding ranged from 50 to 85%, depending upon the assessment method used, when a range of concentration levels of trospium chloride (0.5 to 50 mcg/L) were incubated in vitro with human serum.
 

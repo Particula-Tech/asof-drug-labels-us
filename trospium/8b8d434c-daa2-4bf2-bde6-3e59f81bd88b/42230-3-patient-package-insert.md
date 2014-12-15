@@ -1,6 +1,6 @@
 Patient Information
 
-Trospium Chloride Extended-release Capsules
+Trospium (TROSE-pee-um) Chloride Extended-release Capsules
 
 Read the Patient Information that comes with trospium chloride extended-release capsules before you start taking it and each time you get a refill.
 There may be new information.
@@ -97,7 +97,7 @@ It may harm them.
 This leaflet summarizes the most important information about trospium chloride extended-release capsules.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about trospium chloride extended-release capsules that is written for health professionals.
-You can also call Watson’s product information department at 1-800-272-5525 or visit the website at www.watson.com.
+You can also call Actavis’s product information department at 1-800-272-5525 or visit the website at www.actavis.com.
 
 What are the ingredients in trospium chloride extended-release capsules?
 
@@ -107,8 +107,8 @@ The capsule shell and imprinting ink have the following inactive ingredients: D&
 
 Glucophage® is a registered trademark of Merck Santé S.A.S.
 
-Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
+Manufactured by: Actavis Laboratories, FL., Inc. Fort Lauderdale, FL 33314 USA
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Rev. date: 01/2014 174696-2
+Revised: August 2014 174696-3

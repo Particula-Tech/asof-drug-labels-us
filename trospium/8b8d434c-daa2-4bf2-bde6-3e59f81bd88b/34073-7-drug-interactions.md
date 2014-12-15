@@ -2,7 +2,7 @@
 
 Trospium is metabolized by ester hydrolysis and excreted by the kidneys through a combination of tubular secretion and glomerular filtration.
 Based on in vitro data, no clinically relevant metabolic drug-drug interactions are anticipated with trospium.
-However, some drugs, which are actively secreted by the kidney may interact with trospium by competing for renal tubular secretion.
+However, some drugs which are actively secreted by the kidney may interact with trospium by competing for renal tubular secretion.
 
 The concomitant use of trospium chloride extended-release capsules with other antimuscarinic agents that produce dry mouth, constipation, and other anticholinergic effects may increase the frequency and/or severity of such effects.
 Trospium chloride extended-release capsules may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility.
