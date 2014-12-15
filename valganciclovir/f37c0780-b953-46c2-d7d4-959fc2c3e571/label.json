@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA203511"
+  ],
+  "inn": "valganciclovir",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-762-05",
+    "55111-762-60",
+    "55111-762-78",
+    "55111-762-79"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valganciclovir",
+      "name": "Valganciclovir"
+    }
+  ],
+  "setid": "f37c0780-b953-46c2-d7d4-959fc2c3e571",
+  "source": "dailymed"
+}
