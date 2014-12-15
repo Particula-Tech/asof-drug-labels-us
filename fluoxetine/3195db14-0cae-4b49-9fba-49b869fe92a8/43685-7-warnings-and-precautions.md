@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Clinical Worsening and Suicide Risk
+## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients with Major Depressive Disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -20,9 +20,9 @@ Table 2: Suicidality per 1000 Patients Treated
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
+| 25 to 64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -33,10 +33,10 @@ All patients being treated with antidepressants for any indication should be mon
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for Major Depressive Disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Warnings and Precautions (5.14)].
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Warnings and Precautions (5.15)].
 Families and caregivers of patients being treated with antidepressants for Major Depressive Disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for fluoxetine should be written for the smallest quantity of liquid consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for fluoxetine should be written for the smallest quantity of oral solution consistent with good patient management, in order to reduce the risk of overdose.
 It should be noted that fluoxetine is approved in the pediatric population only for Major Depressive Disorder and Obsessive Compulsive Disorder.
 
 ## 5.2 Serotonin Syndrome
@@ -78,7 +78,7 @@ A major depressive episode may be the initial presentation of Bipolar Disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for Bipolar Disorder.
 Whether any of the symptoms described for clinical worsening and suicide risk represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for Bipolar Disorder; such screening should include a detailed psychiatric history, including a family history of suicide, Bipolar Disorder, and depression.
-Fluoxetine is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
+It should be noted that fluoxetine is not indicated for the use in treating bipolar depression.
 In U.S. placebo-controlled clinical trials for Major Depressive Disorder, mania/hypomania was reported in 0.1% of patients treated with fluoxetine and 0.1% of patients treated with placebo.
 Activation of mania/hypomania has also been reported in a small proportion of patients with Major Affective Disorder treated with other marketed drugs effective in the treatment of Major Depressive Disorder [see Use in Specific Populations (8.4)].
 In U.S. placebo-controlled clinical trials for OCD, mania/hypomania was reported in 0.8% of patients treated with fluoxetine and no patients treated with placebo.
@@ -135,10 +135,10 @@ Among the most common adverse reactions associated with discontinuation (inciden
 
 ## 5.10 QT Prolongation
 
-Post-marketing cases of QT interval prolongation and ventricular arrhythmia including Torsade de Pointes have been reported in patients treated with fluoxetine.
+Post-marketing cases of QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with fluoxetine.
 Fluoxetine should be used with caution in patients with congenital long QT syndrome; a previous history of QT prolongation; a family history of long QT syndrome or sudden cardiac death; and other conditions that predispose to QT prolongation and ventricular arrhythmia.
-Such conditions include concomitant use of drugs that prolong the QT interval; hypokalemia or hypomagnesemia; recent myocardial infarction, uncompensated heart failure, bradyarrhythmias, and other significant arrhythmias; and conditions that predispose to increased fluoxetine exposure (overdose, hepatic impairment, use of CYP2D6 inhibitors, CYP2D6 poor metabilizer status, or use of other highly protein-bound drugs).
-Fluoxetine is primarily metabolized by CYP2D6 [see Contraindications (4.2), Drug Interactions (7.7,7.8), Overdose (10.1), and Clinical Pharmacology (12.3)].
+Such conditions include concomitant use of drugs that prolong the QT interval; hypokalemia or hypomagnesemia; recent myocardial infarction, uncompensated heart failure, bradyarrhythmias, and other significant arrhythmias; and conditions that predispose to increased fluoxetine exposure (overdose, hepatic impairment, use of CYP2D6 inhibitors, CYP2D6 poor metabolizer status, or use of other highly protein-bound drugs).
+Fluoxetine is primarily metabolized by CYP2D6 [see Contraindications (4.2), Drug Interactions (7.7, 7.8), Overdose (10.1), and Clinical Pharmacology (12.3)].
 
 Pimozide and thioridazine are contraindicated for use with fluoxetine.
 Avoid the concomitant use of drugs known to prolong the QT interval.
@@ -158,7 +158,6 @@ The mean heart rate was reduced by approximately 3 beats/min.
 Glycemic Control — In patients with diabetes, fluoxetine may alter glycemic control.
 Hypoglycemia has occurred during therapy with fluoxetine, and hyperglycemia has developed following discontinuation of the drug.
 As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic, dosage may need to be adjusted when therapy with fluoxetine is instituted or discontinued.
-Acute Narrow-Angle Glaucoma — Mydriasis has been reported in association with fluoxetine; therefore, caution should be used when prescribing fluoxetine in patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma.
 
 ## 5.12 Potential for Cognitive and Motor Impairment
 
@@ -174,7 +173,7 @@ Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many
 Because of the long elimination half-lives of the parent drug and its major active metabolite, changes in dose will not be fully reflected in plasma for several weeks, affecting both strategies for titration to final dose and withdrawal from treatment.
 This is of potential consequence when drug discontinuation is required or when drugs are prescribed that might interact with fluoxetine and norfluoxetine following the discontinuation of fluoxetine [see Clinical Pharmacology (12.3)].
 
-## 5.15 Discontinuation Adverse Reaction
+## 5.15 Discontinuation Adverse Reactions
 
 During marketing of fluoxetine, SNRIs, and SSRIs, there have been spontaneous reports of adverse reactions occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these reactions are generally self-limiting, there have been reports of serious discontinuation symptoms.

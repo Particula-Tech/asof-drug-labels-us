@@ -54,7 +54,7 @@ Severe allergic reactions:
 4.
 Abnormal bleeding: Fluoxetine oral solution and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 5.
-Seizures or convulsion 6.
+Seizures or convulsions 6.
 Manic episodes:
 
 - greatly increased energy
@@ -79,7 +79,7 @@ Symptoms may include:
 - confusion, problems concentrating or thinking or memory problems
 
 9.
-Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsade de Pointes).
+Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsades de Pointes).
 This condition can be life threatening.
 The symptoms may include:
 
@@ -103,7 +103,7 @@ Visual problems:
 
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-Call a healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you: What is fluoxetine oral solution?
+What is fluoxetine oral solution?
 
 Fluoxetine oral solution is a prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
@@ -150,7 +150,7 @@ Before starting fluoxetine oral solution, tell your healthcare provider if you:
 
 - Are taking certain drugs or treatments such as:
   - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs, or antipsychotics
+  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs, MAOIs or antipsychotics
   - Tramadol and fentanyl
   - Over-the-counter supplements such as tryptophan or St. John's Wort
 - Electroconvulsive therapy (ECT)
@@ -249,12 +249,12 @@ It may harm them.
 This Medication Guide summarizes the most important information about fluoxetine oral solution.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about fluoxetine oral solution that is written for healthcare professionals.
-For more information about fluoxetine oral solution call 1-866-850-2876.
+For more information about fluoxetine oral solution, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
 What are the ingredients in fluoxetine oral solution?
-Active ingredient: fluoxetine hydrochloride Inactive ingredients in oral solution: alcohol 0.23%, sucrose, glycerin, benzoic acid, natural peppermint flavor, and purified water Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
+Active ingredient: fluoxetine hydrochloride Inactive ingredients in oral solution: alcohol 0.23%, sucrose, glycerin, benzoic acid, natural peppermint flavor, and purified water This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
 Mellaril® is a registered trademark of Novartis AG Corporation.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad—500 072, India Revised: 05/2014
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad—500 072, India Revised: 12/2014

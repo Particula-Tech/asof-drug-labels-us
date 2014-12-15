@@ -4,7 +4,7 @@ As with all drugs, the potential for interaction by a variety of mechanisms (e.g
 
 ## 7.1 Monoamine Oxidase Inhibitors (MAOI)
 
-[see Dosage and Administration (2.9,2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
+[See Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
 
 ## 7.2 CNS Acting Drugs
 
@@ -13,9 +13,9 @@ In evaluating individual cases, consideration should be given to using lower ini
 
 ## 7.3 Serotonergic Drugs
 
-[see Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
+[See Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
 
-## 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, Warfarin)
+## 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDS, Aspirin, Warfarin)
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
@@ -38,12 +38,12 @@ Pimozide can prolong the QT interval.
 Fluoxetine can increase the level of pimozide through inhibition of CYP2D6.
 Fluoxetine can also prolong the QT interval.
 Clinical studies of pimozide with other antidepressants demonstrate an increase in drug interaction or QTc prolongation.
-While a specific study with pimozide and fluoxetine has not been conducted, the potential for drug interactions or QTc prolongation warrants restricting the concurrent use of pimozide and fluoxetine [see Contraindications (4.2), Warnings and precautions (5.10), and Drug Interactions (7.8)].
-Thioridazine — Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued because of the risk of QT Prolongation [see Contraindications (4.2),Warnings and Precautions (5.10), and Drug Interactions (7.8)].
+While a specific study with pimozide and fluoxetine has not been conducted, the potential for drug interactions or QT prolongation warrants restricting the concurrent use of pimozide and fluoxetine [see Contraindications (4.2), Warnings and precautions (5.10), and Drug Interactions (7.8)].
+Thioridazine — Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued, because of the risk of QT Prolongation [see Contraindications (4.2), Warnings and Precautions (5.10), and Drug Interactions (7.8)].
 In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4-fold higher Cmax and a 4.5-fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.
 The rate of debrisoquin hydroxylation is felt to depend on the level of CYP2D6 isozyme activity.
 Thus, this study suggests that drugs which inhibit CYP2D6, such as certain SSRIs, including fluoxetine, will produce elevated plasma levels of thioridazine.
-Thioridazine administration produces a dose-related prolongation of the QT interval, which is associated with serious ventricular arrhythmias, such as torsades de pointes-type arrhythmias, and sudden death.
+Thioridazine administration produces a dose-related prolongation of the QT interval, which is associated with serious ventricular arrhythmias, such as Torsades de Pointes-type arrhythmias, and sudden death.
 This risk is expected to increase with fluoxetine-induced inhibition of thioridazine metabolism.
 Drugs Metabolized by CYP2D6 — Fluoxetine inhibits the activity of CYP2D6, and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer.
 Coadministration of fluoxetine with other drugs that are metabolized by CYP2D6, including certain antidepressants (e.g., TCAs), antipsychotics (e.g., phenothiazines and most atypicals), and antiarrhythmics (e.g., propafenone, flecainide, and others) should be approached with caution.
@@ -67,8 +67,6 @@ Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound t
 Drugs Metabolized by CYP3A4 — In an in vivo interaction study involving coadministration of fluoxetine with single doses of terfenadine (a CYP3A4 substrate), no increase in plasma terfenadine concentrations occurred with concomitant fluoxetine.
 Additionally, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than fluoxetine or norfluoxetine as an inhibitor of the metabolism of several substrates for this enzyme, including astemizole, cisapride, and midazolam.
 These data indicate that fluoxetine's extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
-Olanzapine — Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) causes a small (mean 16%) increase in the maximum concentration of olanzapine and a small (mean 16%) decrease in olanzapine clearance.
-The magnitude of the impact of this factor is small in comparison to the overall variability between individuals, and therefore dose modification is not routinely recommended.
 
 ## 7.8 Drugs that Prolong the QT Interval
 

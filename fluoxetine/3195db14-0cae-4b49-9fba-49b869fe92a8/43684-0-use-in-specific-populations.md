@@ -10,9 +10,8 @@ More than 10 cohort studies and case-control studies failed to demonstrate an in
 However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N = 253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N = 1359) who were not exposed to fluoxetine.
 There was no specific pattern of cardiovascular malformations.
 Overall, however, a causal relationship has not been established.
-Nonteratogenic Effects
 
-— Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Nonteratogenic Effects — Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
@@ -47,7 +46,6 @@ The infant's plasma drug levels were 340 ng/mL of fluoxetine and 208 ng/mL of no
 ## 8.4 Pediatric Use
 
 Use of fluoxetine in children - The efficacy of fluoxetine for the treatment of Major Depressive Disorder was demonstrated in two 8- to 9-week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤18 [see Clinical Studies (14.1)].
-Doses greater than 20 mg once daily have not been studied in pediatric patients with MDD.
 The efficacy of fluoxetine for the treatment of OCD was demonstrated in one 13-week placebo-controlled clinical trial with 103 pediatric outpatients ages 7 to <18 [see Clinical Studies (14.2)].
 The safety and effectiveness in pediatric patients <8 years of age in Major Depressive Disorder and <7 years of age in OCD have not been established.
 Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients (ages 6 to ≤18) with Major Depressive Disorder or OCD [see Clinical Pharmacology (12.3)].
@@ -68,7 +66,7 @@ Anyone considering the use of fluoxetine in a child or adolescent must balance t
 Animal Data
 
 Significant toxicity, on muscle tissue, neurobehavior, reproductive organs, and bone development has been observed following exposure of juvenile rats to fluoxetine from weaning through maturity.
-Oral administration of fluoxetine to rats from weaning postnatal day 21 through adulthood day 90 at 3, 10, or 30 mg/kg/day was associated with testicular degeneration and necrosis, epididymal vacuolation and hypospermia (at 30 mg/kg/day corresponding to plasma exposures [AUC] approximately 5 to 10 times the average AUC in pediatric patients at the MRHD of 20 mg/day), increased serum levels of creatine kinase (at AUC as low as 1 to 2 times the average AUC in pediatric patients at the MRHD of 20 mg/day), skeletal muscle degeneration and necrosis, decreases femur length/growth and body weight gain (at AUC 5 to 10 times the average AUC in pediatric patients at the MRHD of 20 mg/day).
+Oral administration of fluoxetine to rats from weaning postnatal day 21 through adulthood day 90 at 3, 10, or 30 mg/kg/day was associated with testicular degeneration and necrosis, epididymal vacuolation and hypospermia (at 30 mg/kg/day corresponding to plasma exposures [AUC] approximately 5 to 10 times the average AUC in pediatric patients at the MRHD of 20 mg/day), increased serum levels of creatine kinase (at AUC as low as 1 to 2 times the average AUC in pediatric patients at the MRHD of 20 mg/day), skeletal muscle degeneration and necrosis, decreased femur length/growth and body weight gain (at AUC 5 to 10 times the average AUC in pediatric patients at the MRHD of 20 mg/day).
 The high dose of 30 mg/kg/day exceeded a maximum tolerated dose.
 When animals were evaluated after a drug-free period (up to 11 weeks after cessation of dosing), fluoxetine was associated with neurobehavioral abnormalities (decreased reactivity at AUC as low as approximately 0.1 to 0.2 times the average AUC in pediatric patients at the MRHD and learning deficit at the high dose), and reproductive functional impairment (decreased mating at all doses and impaired fertility at the high dose).
 In addition, the testicular and epididymal microscopic lesions and decreased sperm concentrations found in high dose group were also observed, indicating that the drug effects on reproductive organs are irreversible.

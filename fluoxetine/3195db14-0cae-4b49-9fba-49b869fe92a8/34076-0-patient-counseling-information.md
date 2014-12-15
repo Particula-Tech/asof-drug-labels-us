@@ -11,7 +11,7 @@ Healthcare providers should instruct patients, their families, and their caregiv
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 Patients should be advised of the following issues and asked to alert their healthcare provider if these occur while taking fluoxetine.
 
-## 17.2 Clinical Worsening and Suicide Risk
+## 17.2 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
@@ -43,13 +43,13 @@ More severe and/or acute cases have been associated with hallucination, syncope,
 
 ## 17.7 QT Prolongation
 
-Patients should be advised that QT interval prolongation and ventricular arrhythmia including Torsade de Pointes have been reported in patients treated with fluoxetine.
+Patients should be advised that QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with fluoxetine.
 Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular heart rate, dyspnea, syncope, or dizziness, which may indicate serious cardiac arrhythmia [see Warnings and Precautions (5.10)]
 
 ## 17.8 Potential for Cognitive and Motor Impairment
 
 Fluoxetine may impair judgment, thinking, or motor skills.
-Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.11)].
+Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.12)].
 
 ## 17.9 Angle-Closure Glaucoma
 
@@ -57,7 +57,7 @@ Patients should be advised that taking fluoxetine oral solution can cause mild p
 Pre-existing glaucoma is almost always open-angle glaucoma because angle- closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle- closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle- closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
-[seeWarnings and Precautions (5.13)]
+[see Warnings and Precautions (5.13)]
 
 ## 17.10 Use of Concomitant Medications
 
@@ -67,7 +67,7 @@ Patients should also be advised to inform their physicians if they plan to disco
 ## 17.11 Discontinuation of Treatment
 
 Patients should be advised to take fluoxetine exactly as prescribed, and to continue taking fluoxetine as prescribed even after their symptoms improve.
-Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their physician [see Warnings and Precautions (5.14)].
+Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their physician [see Warnings and Precautions (5.15)].
 Patients should be advised to consult with their healthcare provider if their symptoms do not improve with fluoxetine.
 
 ## 17.12 Use in Specific Populations
@@ -76,8 +76,8 @@ Pregnancy — Patients should be advised to notify their physician if they becom
 Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 Nursing Mothers — Patients should be advised to notify their physician if they intend to breastfeed an infant during therapy.
 Because fluoxetine is excreted in human milk, nursing while taking fluoxetine is not recommended [see Use in Specific Populations (8.3)].
-Pediatric Use of fluoxetine— Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
+Pediatric Use of fluoxetine — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad—500 072, India Revised: 05/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad—500 072, India Revised: 12/2014

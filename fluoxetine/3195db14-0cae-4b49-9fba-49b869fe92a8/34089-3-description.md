@@ -1,7 +1,6 @@
 # 11 DESCRIPTION
 
 Fluoxetine oral solution, USP is a selective serotonin reuptake inhibitor for oral administration.
-It is also marketed for the treatment of premenstrual dysphoric disorder (Sarafem®, fluoxetine hydrochloride).
 It is designated (±)-N-methyl-3-phenyl-3-[(α,α,α-trifluoro-p-tolyl)oxy]propylamine hydrochloride and has the molecular
 
 formula of C17H18F3NO•HCl.
