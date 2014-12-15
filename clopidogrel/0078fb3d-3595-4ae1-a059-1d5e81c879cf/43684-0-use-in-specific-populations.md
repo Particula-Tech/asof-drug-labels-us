@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B Reproduction studies performed in rats and rabbits at doses up to 500 and 300 mg/kg/day, respectively (65 and 78 times the recommended daily human dose, respectively, on a mg/m2 basis), revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.
+Teratogenic Effects Pregnancy Category
+
+Reproduction studies performed in rats and rabbits at doses up to 500 and 300 mg/kg/day, respectively (65 and 78 times the recommended daily human dose, respectively, on a mg/m2 basis), revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of a human response, clopidogrel bisulfate should be used during pregnancy only if clearly needed.
 
@@ -15,8 +17,9 @@ Because many drugs are excreted in human milk and because of the potential for s
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric populations have not been established.
-Additional information describing a clinical study in which efficacy was not demonstrated in neonates and infants is approved in the package insert for Bristol-Myers Squibb’s clopidogrel tablets.
-However, due to Bristol-Myers Squibb’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+A randomized, placebo-controlled trial (CLARINET) did not demonstrate a clinical benefit of clopidogrel in neonates and infants with cyanotic congenital heart disease palliated with a systemic-to-pulmonary arterial shunt.
+Possible factors contributing to this outcome were the dose of clopidogrel, the concomitant administration of aspirin and the late initiation of therapy following shunt palliation.
+It cannot be ruled out that a trial with a different design would demonstrate a clinical benefit in this patient population.
 
 ## 8.5 Geriatric Use
 
