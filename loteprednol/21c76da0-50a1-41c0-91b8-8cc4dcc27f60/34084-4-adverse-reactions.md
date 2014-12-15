@@ -1,6 +1,7 @@
 # ADVERSE REACTIONS
 
 Reactions associated with ophthalmic steroids include elevated intraocular pressure, which may be associated with optic nerve damage, visual acuity and field defects, posterior subcapsular cataract formation, secondary ocular infection from pathogens including herpes simplex, and perforation of the globe where there is thinning of the cornea or sclera.
+
 Ocular adverse reactions occurring in 5-15% of patients treated with loteprednol etabonate ophthalmic suspension (0.2% - 0.5%) in clinical studies included abnormal vision/blurring, burning on instillation, chemosis, discharge, dry eyes, epiphora, foreign body sensation, itching, injection, and photophobia.
 Other ocular adverse reactions occurring in less than 5% of patients include conjunctivitis, corneal abnormalities, eyelid erythema, keratoconjunctivitis, ocular irritation/pain/discomfort, papillae, and uveitis.
 Some of these events were similar to the underlying ocular disease being studied.

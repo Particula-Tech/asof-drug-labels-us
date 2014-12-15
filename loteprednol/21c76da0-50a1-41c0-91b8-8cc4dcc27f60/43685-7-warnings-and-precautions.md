@@ -4,12 +4,10 @@ Prolonged use of corticosteroids may result in glaucoma with damage to the optic
 Steroids should be used with caution in the presence of glaucoma.
 
 Prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections.
-
 In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids.
 In acute purulent conditions of the eye, steroids may mask infection or enhance existing infection.
 
 Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex).
-
 Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution.
 
 # PRECAUTIONS
@@ -34,12 +32,10 @@ Patients should be advised not to allow the dropper tip to touch any surface, as
 If redness or itching becomes aggravated, the patient should be advised to consult a physician.
 
 Patients should be advised not to wear a contact lens if their eye is red.
-ALREX should not be used to treat contact lens related irritation.
-
-The preservative in ALREX, benzalkonium chloride, may be absorbed by soft contact lenses.
+ALREX should not be used to treat contact lens related irritation.The preservative in ALREX, benzalkonium chloride, may be absorbed by soft contact lenses.
 Patients who wear soft contact lenses and whose eyes are not red, should be instructed to wait at least ten minutes after instilling ALREX before they insert their contact lenses.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term animal studies have not been conducted to evaluate the carcinogenic potential of loteprednol etabonate.
 Loteprednol etabonate was not genotoxic in vitro in the Ames test, the mouse lymphoma tk assay, or in a chromosome aberration test in human lymphocytes, or in vivo in the single dose mouse micronucleus assay.
