@@ -71,8 +71,8 @@ The mean treatment difference (25 mg/kg/day topiramate-placebo) was -5.9 mEq/L f
 The incidence of metabolic acidosis (defined by a serum bicarbonate <20 mEq/L) was 0% for placebo, 30% for 5 mg/kg/day, 50% for 15 mg/kg/day, and 45% for 25 mg/kg/day.
 The incidence of markedly abnormal changes (i.e., <17 mEq/L and >5 mEq/L decrease from baseline of >20 mEq/L) was 0% for placebo, 4% for 5 mg/kg/day, 5% for 15 mg/kg/day, and 5% for 25 mg/kg/day [see Use in Specific Populations (8.4)].
 
-In pediatric patients (10 years up to 16 years of age), the incidence of persistent treatment-emergent decreases in serum bicarbonate in the epilepsy controlled clinical trial for monotherapy was 7% for 50 mg/day and 20% for 400 mg/day.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) in this trial was 4% for 50 mg/day and 4% for 400 mg/day.
+In pediatric patients (6 to 15 years of age), the incidence of persistent treatment-emergent decreases in serum bicarbonate in the epilepsy controlled clinical trial for monotherapy was 9% for 50 mg/day and 25% for 400 mg/day.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from pretreatment) in this trial was 1% for 50 mg/day and 6% for 400 mg/day.
 
 Measurement of Serum Bicarbonate in Epilepsy Patients
 
@@ -96,9 +96,9 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
-Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients. |
 | --- | --- | --- | --- | --- |
@@ -129,7 +129,7 @@ The majority of cognitive-related adverse reactions were mild to moderate in sev
 Rapid titration rate and higher initial dose were associated with higher incidences of these reactions.
 Many of these reactions contributed to withdrawal from treatment [see Adverse Reactions (6)].
 
-In the add-on epilepsy controlled trials (using rapid titration such as 100-200 mg/day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 42% for 200 mg/day, 41% for 400 mg/day, 52% for 600 mg/day, 56% for 800 and 1,000 mg/day, and 14% for placebo.
+In the add-on epilepsy controlled trials (using rapid titration such as 100 to 200 mg/day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 42% for 200 mg/day, 41% for 400 mg/day, 52% for 600 mg/day, 56% for 800 and 1,000 mg/day, and 14% for placebo.
 These dose-related adverse reactions began with a similar frequency in the titration or in the maintenance phase, although in some patients the events began during titration and persisted into the maintenance phase.
 Some patients who experienced one or more cognitive-related adverse reactions in the titration phase had a dose-related recurrence of these reactions in the maintenance phase.
 
@@ -164,9 +164,9 @@ The most common adverse reaction associated with discontinuation of therapy was 
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts).
-When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Special Populations (8.1)].
+When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
-Consider the benefits and the risks of topiramate when administering this drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Special Populations (8.9) and Patient Counseling Information (17)].
+Consider the benefits and the risks of topiramate when administering this drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.9) and Patient Counseling Information (17)].
 Topiramate should be used during pregnancy only if the potential benefit outweighs the potential risk.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1) and (8.9)].
 
@@ -201,7 +201,7 @@ Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse reaction is not due to a pharmacokinetic interaction.
 
-Although topiramate is not indicated for use in infants/toddlers (1-24 months), topiramate with concomitant VPA clearly produced a dose-related increase in the incidence of treatment-emergent hyperammonemia (above the upper limit of normal, 0% for placebo, 12% for 5 mg/kg/day, 7% for 15 mg/kg/day, 17% for 25 mg/kg/day) in an investigational program.
+Although topiramate is not indicated for use in infants/toddlers (1 to 24 months), topiramate with concomitant VPA clearly produced a dose-related increase in the incidence of treatment-emergent hyperammonemia (above the upper limit of normal, 0% for placebo, 12% for 5 mg/kg/day, 7% for 15 mg/kg/day, 17% for 25 mg/kg/day) in an investigational program.
 Markedly increased, dose-related hyperammonemia (0% for placebo and 5 mg/kg/day, 7% for 15 mg/kg/day, 8% for 25 mg/kg/day) also occurred in these infants/toddlers.
 Dose-related hyperammonemia was similarly observed in a long-term extension trial in these very young, pediatric patients [see Use in Specific Populations (8.4)].
 
@@ -223,7 +223,7 @@ In the double-blind monotherapy epilepsy study, a total of 4/319 (1.3%) of adult
 As in the general population, the incidence of stone formation among topiramate-treated patients was higher in men.
 Kidney stones have also been reported in pediatric patients taking topiramate for epilepsy.
 
-During long-term (up to 1 year) topiramate treatment in an open-label extension study of 284 pediatric patients 1-24 months old with epilepsy, 7% developed kidney or bladder stones that were diagnosed clinically or by sonogram.
+During long-term (up to 1 year) topiramate treatment in an open-label extension study of 284 pediatric patients 1 to 24 months old with epilepsy, 7% developed kidney or bladder stones that were diagnosed clinically or by sonogram.
 Topiramate is not approved for treatment of epilepsy in pediatric patients less than 2 years old [see Use in Specific Populations (8.4)].
 
 An explanation for the association of topiramate and kidney stones may lie in the fact that topiramate is a carbonic anhydrase inhibitor.

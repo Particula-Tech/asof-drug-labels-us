@@ -30,6 +30,30 @@ Table 1: Monotherapy Titration Schedule for Adults and Pediatric Patients 10 yea
 | Week 5 | 150 mg | 150 mg |
 | Week 6 | 200 mg | 200 mg |
 
+Children Ages 2 to <10 Years
+
+Dosing of topiramate as initial monotherapy in children 2 to < 10 years of age with partial onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach [see Clinical Studies (14.1)].
+
+Dosing in patients 2 to <10 years is based on weight.
+During the titration period, the initial dose of topiramate should be 25 mg/day administered nightly for the first week.
+Based upon tolerability, the dosage can be increased to 50 mg/day (25 mg twice daily) in the second week.
+Dosage can be increased by 25 to 50 mg/day each subsequent week as tolerated.
+Titration to the minimum maintenance dose should be attempted over 5 to 7 weeks of the total titration period.
+Based upon tolerability and clinical response, additional titration to a higher dose (up to the maximum maintenance dose) can be attempted at 25 to 50 mg/day weekly increments.
+The total daily dose should not exceed the maximum maintenance dose for each range of body weight (Table 2).
+
+Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to <10 Years
+
+| Weight (kg) | Total Daily Dose (mg/day)*Minimum Maintenance Dose | Total Daily Dose (mg/day)*Maximum Maintenance Dose |
+| --- | --- | --- |
+| Up to 11 | 150 | 250 |
+| 12 to 22 | 200 | 300 |
+| 23 to 31 | 200 | 350 |
+| 32 to 38 | 250 | 350 |
+| Greater than 38 | 250 | 400 |
+
+*Administered in two equally divided doses
+
 Adjunctive Therapy Use
 
 Adults 17 Years of Age and Over - Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
@@ -42,7 +66,7 @@ Daily doses above 1,600 mg have not been studied.
 
 In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose was reached at the end of 8 weeks [see Clinical Studies (14.1)].
 
-Pediatric Patients Ages 2 - 16 Years – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
+Pediatric Patients Ages 2 to 16 Years – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
 
 The recommended total daily dose of topiramate tablets as adjunctive therapy for pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome is approximately 5 to 9 mg/kg/day in two divided doses.
 Titration should begin at 25 mg/day (or less, based on a range of 1 to 3 mg/kg/day) nightly for the first week.

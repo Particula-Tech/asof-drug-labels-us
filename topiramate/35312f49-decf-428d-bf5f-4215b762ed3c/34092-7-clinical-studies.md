@@ -22,6 +22,13 @@ The treatment effects with respect to time to first seizure were consistent acro
 
 Figure 1: Kaplan-Meier Estimates of Cumulative Rates for Time to First Seizure
 
+Children 2 to <10 Years of Age
+
+The conclusion that topiramate is effective as initial monotherapy in children 2 to <10 years of age with partial onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach using data from the controlled epilepsy trials described in labeling.
+This approach consisted of first showing a similar exposure response relationship between pediatric patients down to 2 years of age and adults when topiramate was given as adjunctive therapy.
+Similarity of exposure-response was also demonstrated in pediatric patients ages 6 to <16 years and adults when topiramate was given as initial monotherapy.
+Specific dosing in children 2 to <10 years of age was derived from simulations utilizing plasma exposure ranges observed in pediatric and adult patients treated with topiramate initial monotherapy [see Dosage and Administration (2.1)].
+
 ## 14.2 Adjunctive Therapy Epilepsy Controlled Trials
 
 Adult Patients With Partial Onset Seizures
@@ -40,7 +47,7 @@ The numbers of patients randomized to each dose and the actual mean and median d
 
 Pediatric Patients Ages 2 to 16 Years with Partial Onset Seizures
 
-The effectiveness of topiramate as an adjunctive treatment for pediatric patients ages 2 to 16 years with partial onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial, comparing topiramate and placebo in patients with a history of partial onset seizures, with or without secondarily generalized seizures.
+The effectiveness of topiramate as an adjunctive treatment for pediatric patients ages 2 to 16 years with partial onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial, comparing topiramate and placebo in patients with a history of partial onset seizures, with or without secondarily generalized seizures (see Table 11).
 
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate tablets or placebo.
 In this study, patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
@@ -52,7 +59,7 @@ After titration, patients entered an 8-week stabilization period.
 
 Patients With Primary Generalized Tonic-Clonic Seizures
 
-The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 2 years old and older was established in a multicenter, randomized, double-blind, placebo-controlled trial, comparing a single dosage of topiramate and placebo.
+The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 2 years old and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study YTC), comparing a single dosage of topiramate and placebo (see Table 11).
 
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
@@ -64,7 +71,7 @@ After titration, patients entered a 12-week stabilization period.
 
 Patients With Lennox-Gastaut Syndrome
 
-The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome was established in a multicenter, randomized, double-blind, placebo-controlled trial comparing a single dosage of topiramate with placebo in patients 2 years of age and older.
+The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study YL) comparing a single dosage of topiramate with placebo in patients 2 years of age and older (see Table 11).
 
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramateor placebo.
 Patients who were experiencing at least 60 seizures per month before study entry were stabilized on optimum dosages of their concomitant AEDs during a 4-week baseline phase.
@@ -73,7 +80,7 @@ Active drug was titrated beginning at 1 mg/kg/day for a week; the dose was then 
 After titration, patients entered an 8-week stabilization period.
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
-Table 9: Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Add-On Trials in Adults with Partial Onset Seizuresa
+Table 10: Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Add-On Trials in Adults with Partial Onset Seizuresa
 
 |  |  |  | Target Topiramate Dosage (mg/day) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -103,10 +110,10 @@ b Placebo dosages are given as the number of tablets.
 Placebo target dosages were as follows: Protocol Y1, 4 tablets/day; Protocols YD and Y2, 6 tablets/day; Protocols Y3 and 119, 8 tablets/day; Protocol YE, 10 tablets/day.
 
 In all add-on trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
-The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 10.
+The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 11.
 As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial.
 
-Table 10: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy Trials
+Table 11: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy Trials
 
 |  |  | Target Topiramate Dosage (mg/day) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -2,10 +2,10 @@
 
 Topiramate (TOE-pee-rah-mate) Tablets USP
 
-Read this Medication Guide before you start taking topiramate and each time you get a refill.
+Read this Medication Guide before you start taking topiramate tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-If you have any questions about topiramate talk to your healthcare provider or pharmacist.
+If you have any questions about topiramate tablets talk to your healthcare provider or pharmacist.
 
 What is the most important information I should know about topiramate tablets?
 
@@ -67,7 +67,7 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 Topiramate tablets can harm your unborn baby.
 
-- •If you take topiramate tables during pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
+- •If you take topiramate tablets during pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
   These defects can begin early in pregnancy, even before you know you are pregnant.
 - •Cleft lip and cleft palate may happen even in children born to women who are not taking any medicines and do not have other risk factors.
 - •There may be other medicines to treat your condition that have a lower chance of birth defects.
@@ -86,7 +86,7 @@ What are topiramate tablets?
 
 Topiramate tablets are a prescription medicine used:
 
-- •to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 10 years and older,
+- •to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
 - •with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older.
 
 What should I tell my healthcare provider before taking topiramate tablets?
@@ -221,7 +221,7 @@ This Medication Guide summarizes the most important information about topiramate
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about topiramate that is written for health professionals.
 
-For more information, go to www.glenmarkgenerics.com or call 1(888)721-7115.
+For more information, call 1(888)721-7115.
 
 What are the ingredients in topiramate tablets?
 
@@ -233,7 +233,7 @@ The 100 mg and 200 mg tablets also contain iron oxide red and iron oxide yellow 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
+Manufactured by: Glenmark Generics Ltd. India
 
 Manufactured for:
 
@@ -242,6 +242,6 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-May 2014
+December 2014
 
 Trademarks are the property of their respective owners

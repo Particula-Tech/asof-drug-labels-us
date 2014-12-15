@@ -21,7 +21,7 @@ Because of the potential of topiramate to cause CNS depression, as well as other
 
 ## 7.3 Oral Contraceptives
 
-Exposure to ethinyl estradiol was statistically significantly decreased at doses of 200, 400, and 800 mg/day (18%, 21%, and 30%, respectively) when topiramate was given as adjunctive therapy in patients taking valproic acid).
+Exposure to ethinyl estradiol was statistically significantly decreased at doses of 200, 400, and 800 mg/day (18%, 21%, and 30%, respectively) when topiramate was given as adjunctive therapy in patients taking valproic acid.
 However, norethindrone exposure was not significantly affected.
 In another pharmacokinetic interaction study in healthy volunteers with a concomitantly administered combination oral contraceptive product containing 1 mg norethindrone (NET) plus 35 mcg ethinyl estradiol (EE), topiramate, given in the absence of other medications at doses of 50 to 200 mg/day, was not associated with statistically significant changes in mean exposure (AUC) to either component of the oral contraceptive.
 The possibility of decreased contraceptive efficacy and increased breakthrough bleeding should be considered in patients taking combination oral contraceptive products with topiramate.

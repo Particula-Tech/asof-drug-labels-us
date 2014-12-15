@@ -64,7 +64,7 @@ Advise patients to contact their healthcare provider if they have missed more th
 
 Manufactured by:
 
-Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Generics Ltd. India
 
 Manufactured for:
 
@@ -73,6 +73,6 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-May 2014
+December 2014
 
 Trademarks are the property of their respective owners

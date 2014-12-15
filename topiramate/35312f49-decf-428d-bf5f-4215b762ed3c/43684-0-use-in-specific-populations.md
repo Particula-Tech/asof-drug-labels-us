@@ -19,10 +19,12 @@ Information about the North American Drug Pregnancy Registry can be found at htt
 
 Human Data
 
-Data from the NAAED Pregnancy Registry indicate an increased risk of oral clefts in infants exposed to topiramate monotherapy during the first trimester of pregnancy.
-The prevalence of oral clefts was 1.2% compared to a prevalence of 0.39% - 0.46% in infants exposed to other AEDs, and a prevalence of 0.12% in infants of mothers without epilepsy or treatment with other AEDs.
+Data from the NAAED Pregnancy Registry (425 prospective topiramate monotherapy-exposed pregnancies) indicate an increased risk of oral clefts in infants exposed during the first trimester of pregnancy.
+The prevalence of oral clefts among topiramate-exposed infants was 1.2% compared to a prevalence of 0.39% for infants exposed to a reference AED.
+In infants of mothers without epilepsy or treatment with other AEDs, the prevalence was 0.12%.
 For comparison, the Centers for Disease Control and Prevention (CDC) reviewed available data on oral clefts in the United States and found a similar background rate of 0.17%.
-The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval = CI 3.6 – 25.7) as compared to the risk in a background population of untreated women.
+
+The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval [CI] 4.0 to 23.0) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a similarly increased prevalence of oral clefts of 3.2% among infants exposed to topiramate monotherapy.
 The observed rate of oral clefts was 16 times higher than the background rate in the UK, which is approximately 0.2%.
 
@@ -56,7 +58,7 @@ Although the effect of topiramate on labor and delivery in humans has not been e
 
 ## 8.3 Nursing Mothers
 
-Limited data on 5 breastfeeding infants exposed to topiramate showed infant plasma topiramate levels equal to 10-20% of the maternal plasma level.
+Limited data on 5 breastfeeding infants exposed to topiramate showed infant plasma topiramate levels equal to 10 to 20% of the maternal plasma level.
 The effects of this exposure on infants are unknown.
 Caution should be exercised when administered to a nursing woman.
 
@@ -93,7 +95,7 @@ There was a suggestion that this effect was dose-related.
 However, because of the absence of an appropriate control group, it is not known if this decrement in function was treatment-related or reflects the patient’s underlying disease (e.g., patients who received higher doses may have more severe underlying disease) [see Warnings and Precautions (5.6)].
 
 In this open-label, uncontrolled study, the mortality was 37 deaths/1000 patient years.
-It is not possible to know whether this mortality rate is related to topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1-24 months) with partial epilepsy is not known.
+It is not possible to know whether this mortality rate is related to topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1 to 24 months) with partial epilepsy is not known.
 
 Monotherapy Treatment in Partial Onset Epilepsy in Patients <2 Years Old
 
@@ -101,7 +103,7 @@ Safety and effectiveness in patients below the age of 2 years have not been esta
 
 Juvenile Animal Studies
 
-When topiramate (30, 90, or 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose, which is approximately 5-8 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
+When topiramate (30, 90, or 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose, which is approximately 5 to 8 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
 
 ## 8.5 Geriatric Use
 
