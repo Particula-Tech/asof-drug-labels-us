@@ -34,6 +34,6 @@ Renal tubule epithelia regeneration, suggestive of tubule epithelial injury, was
 Renal tubular hyperplasia was observed in rats with dosing for up to two years.
 Cortical atrophy and interstitial fibrosis were observed in dogs and monkeys at doses above 5 mg/kg/day.
 In monkeys, the highest dose tested (75 mg/kg/day) was associated with single cell necrosis and multifocal and diffuse interstitial fibrosis, indicating irreversible loss of renal tissue and function.
-In dogs and monkeys, the 5-mg/kg/day dose was associated with plasma MMF exposures less than or similar to that in humans at the recommended human dose (RHD).
+In dogs and monkeys, the 5 mg/kg/day dose was associated with plasma MMF exposures less than or similar to that in humans at the recommended human dose (RHD).
 
 A dose-related increase in incidence and severity of retinal degeneration was observed in mice following oral administration of DMF for up to two years at doses above 75 mg/kg/day, a dose associated with plasma MMF exposure (AUC) similar to that in humans at the RHD.

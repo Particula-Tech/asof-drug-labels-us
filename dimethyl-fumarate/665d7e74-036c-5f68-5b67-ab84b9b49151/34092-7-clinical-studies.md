@@ -26,25 +26,16 @@ Table 2: Clinical and MRI Results of Study 1
 
 |  | TECFIDERA 240 mg BID | Placebo | P-value |
 | --- | --- | --- | --- |
-| Clinical Endpoints | (N=410) | (N=408) |  |
-| Proportion relapsing (primary endpoint) | 27% | 46% | <0.0001 |
-| Relative risk reduction | 49% |  |  |
+| Clinical Endpoints | N=410 | N=408 |  |
+| Proportion relapsing (primary endpoint) Relative risk reduction | 27% 49% | 46% | <0.0001 |
 | Annualized relapse rate | 0.172 | 0.364 | <0.0001 |
-| Relative Reduction | 53% |  |  |
+| Relative reduction | 53% |  |  |
 | Proportion with disability progression | 16% | 27% | 0.0050 |
 | Relative risk reduction | 38% |  |  |
-| MRI Endpoints | (N=152) | (N=165) |  |
-| Mean number of new or newly enlarging T2 lesions over 2 years | 2.6 | 17 | <0.0001 |
-| Percentage of subjects with no new or newly enlarging lesions | 45% | 27% |  |
-| Number of Gd+ lesions at 2 years Mean (median) | 0.1 (0) | 1.8 (0) |  |
-| Percentage of subjects with |  |  |  |
-| 0 lesions | 93% | 62% |  |
-| 1 lesion | 5% | 10% |  |
-| 2 lesions | <1% | 8% |  |
-| 3 to 4 lesions | 0 | 9% |  |
-| 5 or more lesions | <1% | 11% |  |
-| Relative odds reduction (percentage) | 90% |  | <0.0001 |
-| Mean number of new T1 hypointense lesions over 2 years | 1.5 | 5.6 | <0.0001 |
+| MRI Endpoints | N=152 | N=165 |  |
+| Mean number of new or newly enlarging T2 lesions over 2 years Percentage of subjects with no new or newly enlarging lesions | 2.6 45% | 17 27% | <0.0001 |
+| Number of Gd+ lesions at 2 years Mean (median) Percentage of subjects with 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions Relative odds reduction (percentage) | 0.1 (0) 93% 5% <1% 0 <1% 90% | 1.8 (0) 62% 10% 8% 9% 11% | <0.0001 |
+| Mean number of new T1 hypointense lesions over 2 years | 1.5 | 5.6 | < 0.0001 |
 
 Figure 1: Time to 12-Week Confirmed Progression of Disability (Study 1)
 
@@ -57,7 +48,7 @@ Additional endpoints at 2 years included the number of new or newly enlarging T2
 Patients were randomized to receive TECFIDERA 240 mg twice a day (n=359), TECFIDERA 240 mg three times a day (n=345), an open-label comparator (n=350), or placebo (n=363) for up to 2 years.
 The median age was 37 years, median time since diagnosis was 3 years, and median EDSS score at baseline was 2.5.
 The median time on study drug for all treatment arms was 96 weeks.
-The percentages of patients who completed 96 weeks on study drug per treatment group were 72% for patients assigned to TECFIDERA 240 mg twice a day, 70% for patients assigned to TECFIDERA 240 mg three times a day and 64% for patients assigned to placebo groups.
+The percentages of patients who completed 96 weeks on study drug per treatment group were 70% for patients assigned to TECFIDERA 240 mg twice a day, 72% for patients assigned to TECFIDERA 240 mg three times a day and 64% for patients assigned to placebo groups.
 
 TECFIDERA had a statistically significant effect on the relapse and MRI endpoints described above.
 There was no statistically significant effect on disability progression.
@@ -76,14 +67,6 @@ Table 3: Clinical and MRI Results of Study 2
 | Proportion with disability progression | 13% | 17% | 0.25 |
 | Relative risk reduction | 21% |  |  |
 | MRI Endpoints | N=147 | N=144 |  |
-| Mean number of new or newly enlarging T2 lesions over 2 years | 5.1 | 17.4 | <0.0001 |
-| Percentage of subjects with no new or newly enlarging lesions | 27% | 12% |  |
-| Number of Gd+ lesions at 2 years Mean (median) | 0.5 (0.0) | 2.0 (0.0) |  |
-| Percentage of subjects with |  |  |  |
-| 0 lesions | 80% | 61% |  |
-| 1 lesion | 11% | 17% |  |
-| 2 lesions | 3% | 6% |  |
-| 3 to 4 lesions | 3% | 2% |  |
-| 5 or more lesions | 3% | 14% |  |
-| Relative odds reduction (percentage) | 74% |  | <0.0001 |
+| Mean number of new or newly enlarging T2 lesions over 2 years Percentage of subjects with no new or newly enlarging lesions | 5.1 27% | 17.4 12% | <0.0001 |
+| Number of Gd+ lesions at 2 years Mean (median) Percentage of subjects with 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions Relative odds reduction (percentage) | 0.5 (0.0) 80% 11% 3% 3% 3% 74% | 2.0 (0.0) 61% 17% 6% 2% 14% | <0.0001 |
 | Mean number of new T1 hypointense lesions over 2 years | 3.0 | 7.0 | <0.0001 |

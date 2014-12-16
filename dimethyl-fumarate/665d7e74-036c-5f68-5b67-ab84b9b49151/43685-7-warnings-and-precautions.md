@@ -1,20 +1,43 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Lymphopenia
+## 5.1 Anaphylaxis and Angioedema
 
-TECFIDERA may decrease lymphocyte counts [see Adverse Reactions(6.1)].
+TECFIDERA can cause anaphylaxis and angioedema after the first dose or at any time during treatment.
+Signs and symptoms have included difficulty breathing, urticaria, and swelling of the throat and tongue.
+Patients should be instructed to discontinue TECFIDERA and seek immediate medical care should they experience signs and symptoms of anaphylaxis or angioedema.
+
+## 5.2 Progressive Multifocal Leukoencephalopathy
+
+A fatal case of progressive multifocal leukoencephalopathy (PML) occurred in a patient with MS who received TECFIDERA for 4 years while enrolled in a clinical trial.
+PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability.
+During the clinical trial, the patient experienced prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) while taking TECFIDERA [see Warnings and Precautions (5.3)].
+The role of lymphopenia in this case is unknown.
+The patient had no other identified systemic medical conditions resulting in compromised immune system function and had not previously been treated with natalizumab, which has a known association with PML.
+The patient was also not taking any immunosuppressive or immunomodulatory medications concomitantly.
+
+At the first sign or symptom suggestive of PML, withhold TECFIDERA and perform an appropriate diagnostic evaluation.
+Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+
+## 5.3 Lymphopenia
+
+TECFIDERA may decrease lymphocyte counts.
 In the MS placebo controlled trials, mean lymphocyte counts decreased by approximately 30% during the first year of treatment with TECFIDERA and then remained stable.
 Four weeks after stopping TECFIDERA, mean lymphocyte counts increased but did not return to baseline.
-Six percent (6%) of TEDFIDERA patients and <1% of placebo patients experienced lymphocyte counts <0.5x109/L (lower limit of normal 0.91x109/L).
+Six percent (6%) of TECFIDERA patients and <1% of placebo patients experienced lymphocyte counts <0.5x109/L (lower limit of normal 0.91x109/L).
 The incidence of infections (60% vs 58%) and serious infections (2% vs 2%) was similar in patients treated with TECFIDERA or placebo, respectively.
-There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x109/L or 0.5x109/L.
-
-Before initiating treatment with TECFIDERA, a recent CBC (i.e., within 6 months) should be available.
-A CBC is recommended annually, and as clinically indicated.
-Withholding treatment should be considered in patients with serious infections until the infection(s) is resolved.
+There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x109/L or 0.5x109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) [see Warnings and Precautions (5.2)].
+In controlled and uncontrolled clinical trials, 2% of patients experienced lymphocyte counts <0.5 x 109/L for at least six months.
+In these patients, the majority of lymphocyte counts remained <0.5x109/L with continued therapy.
 TECFIDERA has not been studied in patients with pre-existing low lymphocyte counts.
 
-## 5.2 Flushing
+Before initiating treatment with TECFIDERA, a CBC including lymphocyte count should be obtained.
+A CBC including lymphocyte count should also be obtained after 6 months of treatment, every 6 to 12 months thereafter, and as clinically indicated.
+Consider interruption of TECFIDERA in patients with lymphocyte counts <0.5 x 109/L persisting for more than six months.
+Given the potential for delay in lymphocyte recovery after discontinuation of TECFIDERA, consider following lymphocyte counts until lymphopenia is resolved.
+Withholding treatment should be considered in patients with serious infections until the infection(s) is resolved.
+Decisions about whether or not to restart TECFIDERA should be individualized based on clinical circumstances.
+
+## 5.4 Flushing
 
 TECFIDERA may cause flushing (e.g., warmth, redness, itching, and/or burning sensation).
 In clinical trials, 40% of TECFIDERA treated patients experienced flushing.
@@ -22,3 +45,4 @@ Flushing symptoms generally began soon after initiating TECFIDERA and usually im
 In the majority of patients who experienced flushing, it was mild or moderate in severity.
 Three percent (3%) of patients discontinued TECFIDERA for flushing and <1% had serious flushing symptoms that were not life-threatening but led to hospitalization.
 Administration of TECFIDERA with food may reduce the incidence of flushing.
+Alternatively, administration of non-enteric coated aspirin (up to a dose of 325 mg) 30 minutes prior to TECFIDERA dosing may reduce the incidence or severity of flushing [see Dosing and Administration (2.1) and Clinical Pharmacology (12.3)].

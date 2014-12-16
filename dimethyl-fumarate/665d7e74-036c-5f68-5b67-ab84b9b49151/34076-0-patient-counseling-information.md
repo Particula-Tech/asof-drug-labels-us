@@ -1,38 +1,50 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information)
 
-## 17.1 Dosage
+Dosage
 
 Inform patients that they will be provided two strengths of TECFIDERA when starting treatment: 120 mg capsules for the 7 day starter dose and 240 mg capsules for the maintenance dose, both to be taken twice daily.
 Inform patients to swallow TECFIDERA capsules whole and intact.
 Inform patients to not crush, chew, or sprinkle capsule contents on food.
-Inform patients that TECFIDERA can be taken with or without food [see Dosage and Administration(2.1)].
+Inform patients that TECFIDERA can be taken with or without food [see Dosage and Administration (2.1)].
 
-## 17.2 Flushing and Gastrointestinal (GI) Reactions
+Anaphylaxis and Angioedema
+
+Advise patients to discontinue TECFIDERA and seek medical care if they develop signs and symptoms of anaphylaxis or angioedema [see Warnings and Precautions (5.1)].
+
+Progressive Multifocal Leukoencephalopathy
+
+Inform patients that progressive multifocal leukoencephalopathy (PML) has occurred in a patient who received TECFIDERA.
+Inform the patient that PML is characterized by a progression of deficits and usually leads to death or severe disability over weeks or months.
+Instruct the patient of the importance of contacting their doctor if they develop any symptoms suggestive of PML.
+Inform the patient that typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+[see Warnings and Precautions (5.2)].
+
+Lymphocyte Counts
+
+Inform patients that TECFIDERA may decrease lymphocyte counts.
+A blood test should be obtained before they start therapy.
+Blood tests are also recommended after 6 months of treatment, every 6 to 12 months thereafter, and as clinically indicated [see Warnings and Precautions (5.3), Adverse Reactions (6.1)].
+
+Flushing and Gastrointestinal (GI) Reactions
 
 Flushing and GI reactions (abdominal pain, diarrhea, and nausea) are the most common reactions, especially at the initiation of therapy, and may decrease over time.
-Advise patients to contact their healthcare provider if they experience persistent and/or severe flushing or GI reactions, as taking TECFIDERA with food may help [see Adverse Reactions (6.1)].
+Advise patients to contact their healthcare provider if they experience persistent and/or severe flushing or GI reactions.
+Advise patients experiencing flushing that taking TECFIDERA with food or taking a non-enteric coated aspirin prior to taking TECFIDERA may help.
+[see Adverse Reactions (6.1)].
 
-## 17.3 Pregnancy and Pregnancy Registry
+Pregnancy and Pregnancy Registry
 
 Instruct patients that if they are pregnant or plan to become pregnant while taking TECFIDERA they should inform their physician.
 
 Encourage patients to enroll in the TECFIDERA Pregnancy Registry if they become pregnant while taking TECFIDERA.
-Advise patients to call 1-800-456-2255 for more information [see Use in Specific Populations (8.1)].
+Advise patients to call 1-866-810-1462 or visit www.tecfiderapregnancyregistry.com for more information [see Use in Specific Populations (8.1)].
 
-## 17.4 Lymphocyte Counts
+41347-04
 
-Inform patients that TECFIDERA may decrease lymphocyte counts.
-A recent blood test (i.e., within 6 months) should be available before they start therapy to identify patients with pre-existing low lymphocyte counts.
-Blood tests are also recommended annually and as clinically indicated [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
+Manufactured by: Biogen Idec Inc. Cambridge, MA 02142
 
-41347-02
+TECFIDERA is a registered trademark of Biogen Idec.
 
-Manufactured by:
-
-Biogen Idec Inc., Cambridge, MA 02142
-
-TECFIDERA is a trademark of Biogen Idec.
-
-© 2013 Biogen Idec
+© 2014 Biogen Idec

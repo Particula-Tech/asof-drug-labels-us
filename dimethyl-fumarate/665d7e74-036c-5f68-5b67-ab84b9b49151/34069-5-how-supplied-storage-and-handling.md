@@ -7,19 +7,18 @@ TECFIDERA is available as follows:
 
 30-day Starter Pack, (NDC 64406-007-03):
 
-7-day bottle 120 mg capsules, quantity 14
-
-23-day bottle 240 mg capsules, quantity 46
+- 7-day bottle 120 mg capsules, quantity 14
+- 23-day bottle 240 mg capsules, quantity 46
 
 120 mg capsules:
 
-7-day bottle of 14 capsules (NDC 64406-005-01)
+- 7-day bottle of 14 capsules (NDC 64406-005-01)
 
 240 mg capsules:
 
-30-day bottle of 60 capsules (NDC 64406-006-02)
+- 30-day bottle of 60 capsules (NDC 64406-006-02)
 
-Store at 15°C – 30°C (59-86°F).
+Store at 15°C to 30°C (59 to 86°F).
 Protect the capsules from light.
 Store in original container.
 Once opened, discard bottles of TECFIDERA after 90 days.

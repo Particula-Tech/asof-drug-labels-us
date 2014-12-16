@@ -14,7 +14,7 @@ Plasma exposure (AUC) for monomethyl fumarate (MMF), the major circulating metab
 In rabbits administered DMF orally (25, 75, and 150 mg/kg/day) throughout organogenesis, embryolethality and decreased maternal body weight were observed at the highest dose tested.
 The plasma AUC for MMF at the no-effect dose is approximately 5 times that in humans at the RHD.
 
-Oral administration of DMF (25, 100, and 250 mg/kg/day) to rats throughout organogenesis and lactation resulted in increased lethality, persistent reductions in body weight, delayed sexual maturation (male and female pups) and reduced testicular weight at the highest dose tested.
+Oral administration of DMF (25, 100, and 250 mg/kg/day) to rats throughout organogenesis and lactation resulted in increased lethality, persistent reductions in body weight, delayed sexual maturation (male and female pups), and reduced testicular weight at the highest dose tested.
 Neurobehavioral impairment was observed at all doses.
 A no-effect dose for developmental toxicity was not identified.
 The lowest dose tested was associated with plasma AUC for MMF lower than that in humans at the RHD.
@@ -22,7 +22,7 @@ The lowest dose tested was associated with plasma AUC for MMF lower than that in
 Pregnancy Registry
 
 There is a pregnancy registry that monitors pregnancy outcomes in women exposed to TECFIDERA during pregnancy.
-Encourage patients to enroll by calling 1-800-456-2255.
+Encourage patients to enroll by calling 1-866-810-1462 or visiting www.tecfiderapregnancyregistry.com.
 
 ## 8.3 Nursing Mothers
 
