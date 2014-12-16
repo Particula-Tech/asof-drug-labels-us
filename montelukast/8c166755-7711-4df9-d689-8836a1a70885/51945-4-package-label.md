@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - Oral Granules - Carton 4 mg
+# PRINCIPAL DISPLAY PANEL - Oral Granules - 4 mg Carton
 
 Singulair® 4 mg (Montelukast Sodium) ORAL GRANULES
 
@@ -8,12 +8,12 @@ For Pediatric Patients 6 months to 5 years of age.
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-Manuf. by: DSM Pharmaceuticals, Inc. Greenville, NC 27834, USA
+Manuf. by: Patheon Manufacturing Services LLC Greenville, NC 27834, USA
 
 Montelukast Sodium (active ingred.)
 Made in Ireland Formulated in USA
 
-DIRECTIONS FOR USE: See accompanying circular.
+DIRECTIONS FOR USE: See accompanying Package Insert.
 Once opened, use the contents of this packet within 15 minutes (with or without mixing with food).
 Discard any unused portion.
 
