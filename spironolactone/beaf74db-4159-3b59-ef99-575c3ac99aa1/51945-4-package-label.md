@@ -29,11 +29,11 @@ RM2146A12
 
 PRINCIPAL DISPLAY PANEL - 50 mg
 
-NDC 0378-0243-93
+NDC 0378-0243-01
 
 Spironolactone Tablets, USP 50 mg
 
-Rx only 30 Tablets
+Rx only 100 Tablets
 
 Each film-coated tablet contains: Spironolactone, USP 50 mg
 
@@ -54,7 +54,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0243H2
+RM0243A3
 
 PRINCIPAL DISPLAY PANEL - 100 mg
 

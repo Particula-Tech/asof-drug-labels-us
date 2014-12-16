@@ -13,7 +13,7 @@ Concomitant administration of spironolactone with the following drugs or potassi
 - •aldosterone blockers
 - •non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin
 - •heparin and low molecular weight heparin
-- •other drugs known to cause hyperkalemia
+- •other drugs or conditions known to cause hyperkalemia
 - •potassium supplements
 - •diet rich in potassium
 - •salt substitutes containing potassium
@@ -22,7 +22,7 @@ Spironolactone should not be administered concurrently with other potassium-spar
 Spironolactone, when used with ACE inhibitors or indomethacin, even in the presence of a diuretic, has been associated with severe hyperkalemia.
 Extreme caution should be exercised when spironolactone is given concomitantly with these drugs.
 
-## Hyperkalemia In Patients With Severe Heart Failure
+## Hyperkalemia in Patients with Severe Heart Failure
 
 Hyperkalemia may be fatal.
 It is critical to monitor and manage serum potassium in patients with severe heart failure receiving spironolactone.

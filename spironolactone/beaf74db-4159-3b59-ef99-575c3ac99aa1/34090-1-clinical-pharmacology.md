@@ -36,7 +36,7 @@ On the 15th day, spironolactone was given immediately after a low fat breakfast 
 | Spironolactone | 1.30 | 80 ng/mL at 2.6 hr | Approximately 1.4 hr (0.5) (β half-life) |
 
 The pharmacological activity of spironolactone metabolites in man is not known.
-However, in the adrenalectomized rat the antimineralocorticoid activities of the metabolites C, TMS and HTMS relative to spironolactone, were 1.10, 1.28 and 0.32, respectively.
+However, in the adrenalectomized rat the antimineralocorticoid activities of the metabolites C, TMS, and HTMS, relative to spironolactone were 1.10, 1.28 and 0.32, respectively.
 Relative to spironolactone, their binding affinities to the aldosterone receptors in rat kidney slices were 0.19, 0.86 and 0.06, respectively.
 
 In humans, the potencies of TMS and 7-α-thiospirolactone in reversing the effects of the synthetic mineralocorticoid, fludrocortisone, on urinary electrolyte composition were 0.33 and 0.26, respectively, relative to spironolactone.

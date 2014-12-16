@@ -41,4 +41,4 @@ Spironolactone tablets in a dosage ranging from 25 mg to 100 mg daily is useful 
 Treatment should be initiated with spironolactone tablets 25 mg once daily if the patient's serum potassium is ≤ 5 mEq/L and the patient's serum creatinine is ≤ 2.5 mg/dL.
 Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated.
 Patients who do not tolerate 25 mg once daily may have their dosage reduced to 25 mg every other day.
-See WARNINGS: Hyperkalemia In Patients With Severe Heart Failure for advice on monitoring serum potassium and serum creatinine.
+See WARNINGS: Hyperkalemia in Patients with Severe Heart Failure for advice on monitoring serum potassium and serum creatinine.
