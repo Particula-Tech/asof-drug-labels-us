@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Carcinogenicity:
+### Carcinogenicity
 
 Abacavir was administered orally at three dosage levels to separate groups of mice and rats in 2-year carcinogenicity studies.
 Results showed an increase in the incidence of malignant and non-malignant tumors.
@@ -11,7 +11,7 @@ In addition, non-malignant tumors also occurred in the liver and thyroid gland o
 These observations were made at systemic exposures in the range of 6 to 32 times the human exposure at the recommended dose.
 It is not known how predictive the results of rodent carcinogenicity studies may be for humans.
 
-### Mutagenicity:
+### Mutagenicity
 
 Abacavir induced chromosomal aberrations both in the presence and absence of metabolic activation in an in vitro cytogenetic study in human lymphocytes.
 Abacavir was mutagenic in the absence of metabolic activation, although it was not mutagenic in the presence of metabolic activation in an L5178Y mouse lymphoma assay.
@@ -19,7 +19,7 @@ Abacavir was clastogenic in males and not clastogenic in females in an in vivo m
 
 Abacavir was not mutagenic in bacterial mutagenicity assays in the presence and absence of metabolic activation.
 
-### Impairment of Fertility:
+### Impairment of Fertility
 
 Abacavir had no adverse effects on the mating performance or fertility of male and female rats at a dose approximately 8 times the human exposure at the recommended dose based on body surface area comparisons.
 

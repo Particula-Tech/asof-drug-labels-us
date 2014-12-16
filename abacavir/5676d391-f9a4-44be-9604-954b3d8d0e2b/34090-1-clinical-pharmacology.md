@@ -2,13 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-Abacavir is an antiviral agent [see Clinical Pharmacology (12.4)].
+Abacavir is an antiviral agent [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
 ### Pharmacokinetics in Adults
 
-The pharmacokinetic properties of abacavir have been studied in asymptomatic, HIV-1-infected adult patients after administration of a single intravenous (IV) dose of 150 mg and after single and multiple oral doses.
+The pharmacokinetic properties of abacavir have been studied in asymptomatic, HIV-1-infected adult subjects after administration of a single intravenous (IV) dose of 150 mg and after single and multiple oral doses.
 The pharmacokinetic properties of abacavir were independent of dose over the range of 300 to 1,200 mg/day.
 
 #### Absorption and Bioavailability
@@ -36,7 +36,7 @@ In vitro experiments reveal that abacavir does not inhibit human CYP3A4, CYP2D6,
 
 #### Elimination
 
-Elimination of abacavir was quantified in a mass balance trial following administration of a 600 mg dose of 14C-abacavir: 99% of the radioactivity was recovered, 1.2% was excreted in the urine as abacavir, 30% as the 5′-carboxylic acid metabolite, 36% as the 5′-glucuronide metabolite and 15% as unidentified minor metabolites in the urine.
+Elimination of abacavir was quantified in a mass balance trial following administration of a 600 mg dose of 14C-abacavir: 99% of the radioactivity was recovered, 1.2% was excreted in the urine as abacavir, 30% as the 5′-carboxylic acid metabolite, 36% as the 5′-glucuronide metabolite, and 15% as unidentified minor metabolites in the urine.
 Fecal elimination accounted for 16% of the dose.
 
 In single-dose trials, the observed elimination half-life (t1/2) was 1.54 ± 0.63 hours.
@@ -62,12 +62,12 @@ The pharmacokinetics of abacavir have been studied in subjects with mild hepatic
 Results showed that there was a mean increase of 89% in the abacavir AUC, and an increase of 58% in the half-life of abacavir after a single dose of 600 mg of abacavir.
 The AUCs of the metabolites were not modified by mild liver disease; however, the rates of formation and elimination of the metabolites were decreased.
 A dose of 200 mg (provided by 10 mL of abacavir oral solution) administered twice daily is recommended for patients with mild liver disease.
-The safety, efficacy, and pharmacokinetics of abacavir have not been studied in patients with moderate or severe hepatic impairment, therefore abacavir is contraindicated in these patients.
+The safety, efficacy, and pharmacokinetics of abacavir have not been studied in patients with moderate or severe hepatic impairment; therefore, abacavir is contraindicated in these patients.
 
 #### Pediatric Patients
 
 The pharmacokinetics of abacavir have been studied after either single or repeat doses of abacavir in 68 pediatric subjects.
-Following multiple dose administration of abacavir 8 mg/kg twice daily, steady-state AUC(0-12 hr) and Cmax were 9.8 ± 4.56 mcg•hr/mL and 3.71 ± 1.36 mcg/mL (mean ± SD), respectively [see Use in Specific Populations (8.4)].
+Following multiple-dose administration of abacavir 8 mg/kg twice daily, steady-state AUC(0-12 hr) and Cmax were 9.8 ± 4.56 mcg•hr/mL and 3.71 ± 1.36 mcg/mL (mean ± SD), respectively [see Use in Specific Populations (8.4)].
 In addition, to support dosing of abacavir scored tablet (300 mg) for pediatric patients 14 kg to greater than 30 kg, analysis of actual and simulated pharmacokinetic data indicated comparable exposures are expected following administration of 300 mg scored tablet and the 8 mg/kg dosing regimen using oral solution.
 
 #### Geriatric Patients
@@ -103,7 +103,7 @@ This interaction has not been studied in females.
 
 #### Methadone
 
-In a study of 11 HIV-1-infected subjects receiving methadone-maintenance therapy (40 mg and 90 mg daily), with 600 mg of abacavir twice daily (twice the currently recommended dose), oral methadone clearance increased 22% (90% CI: 6% to 42%).
+In a trial of 11 HIV-1-infected subjects receiving methadone-maintenance therapy (40 mg and 90 mg daily), with 600 mg of abacavir twice daily (twice the currently recommended dose), oral methadone clearance increased 22% (90% CI: 6% to 42%).
 This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients.
 The addition of methadone had no clinically significant effect on the pharmacokinetic properties of abacavir.
 
@@ -120,8 +120,8 @@ CBV-TP is a weak inhibitor of cellular DNA polymerases α, β, and γ.
 The antiviral activity of abacavir against HIV-1 was evaluated against a T-cell tropic laboratory strain HIV-1IIIB in lymphoblastic cell lines, a monocyte/macrophage tropic laboratory strain HIV-1BaL in primary monocytes/macrophages, and clinical isolates in peripheral blood mononuclear cells.
 The concentration of drug necessary to effect viral replication by 50 percent (EC50) ranged from 3.7 to 5.8 μM (1 μM = 0.28 mcg/mL) and 0.07 to 1 μM against HIV-1IIIB and HIV-1BaL, respectively, and was 0.26 ± 0.18 μM against eight clinical isolates.
 The EC50 values of abacavir against different HIV-1 clades (A-G) ranged from 0.0015 to 1.05 μM, and against HIV-2 isolates, from 0.024 to 0.49 μM.
-Abacavir had synergistic activity in cell culture in combination with the nucleoside reverse transcriptase inhibitor (NRTI) zidovudine, the non-nucleoside reverse transcriptase inhibitor (NNRTI) nevirapine, and the protease inhibitor (PI) amprenavir; and additive activity in combination with the NRTIs didanosine, emtricitabine, lamivudine, stavudine, tenofovir, and zalcitabine.
-Ribavirin (50 μM) had no effect on the anti–HIV-1 activity of abacavir in cell culture.
+The antiviral activity of abacavir in cell culture was not antagonized when combined with the nucleoside reverse transcriptase inhibitors (NRTIs) didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine or zidovudine, the non-nucleoside reverse transcriptase inhibitor (NNRTI) nevirapine, or the protease inhibitor (PI) amprenavir.
+Ribavirin (50 μM) had no effect on the anti-HIV-1 activity of abacavir in cell culture.
 
 ### Resistance
 

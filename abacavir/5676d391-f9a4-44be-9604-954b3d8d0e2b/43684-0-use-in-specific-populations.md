@@ -9,7 +9,7 @@ Fetal malformations (increased incidences of fetal anasarca and skeletal malform
 Embryonic and fetal toxicities (increased resorptions, decreased fetal body weights) and toxicities to the offspring (increased incidence of stillbirth and lower body weights) occurred at half of the above-mentioned dose in separate fertility studies conducted in rats.
 In the rabbit, no developmental toxicity and no increases in fetal malformations occurred at doses that produced 8.5 times the human exposure at the recommended dose based on AUC.
 
-There are no adequate and well controlled studies in pregnant women.
+There are no adequate and well-controlled studies in pregnant women.
 Abacavir should be used during pregnancy only if the potential benefits outweigh the risk.
 
 #### Antiretroviral Pregnancy Registry
@@ -19,15 +19,15 @@ Physicians are encouraged to register patients by calling 1-800-258-4263.
 
 ## 8.3 Nursing Mothers
 
-The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV-1 infection.
+The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 
 Although it is not known if abacavir is excreted in human milk, abacavir is secreted into the milk of lactating rats.
-Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breast-feed if they are receiving abacavir.
+Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving abacavir.
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of abacavir have been established in pediatric patients 3 months to 13 years of age.
-Use of abacavir in these age groups is supported by pharmacokinetic trials and evidence from adequate and well controlled trials of abacavir in adults and pediatric patients [see Dosage and Administration (2.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+Use of abacavir in these age groups is supported by pharmacokinetic trials and evidence from adequate and well-controlled trials of abacavir in adults and pediatric patients [see Dosage and Administration (2.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 

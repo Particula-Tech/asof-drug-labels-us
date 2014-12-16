@@ -49,9 +49,9 @@ Laboratory abnormalities associated with hypersensitivity to abacavir in some pa
 ### Clinical Management of Hypersensitivity
 
 Discontinue abacavir as soon as a hypersensitivity reaction is suspected.
-To minimize the risk of a life threatening hypersensitivity reaction, permanently discontinue abacavir if hypersensitivity cannot be ruled out, even when other diagnoses are possible (e.g., acute onset respiratory diseases such as pneumonia, bronchitis, pharyngitis, or influenza; gastroenteritis; or reactions to other medications).
+To minimize the risk of a life-threatening hypersensitivity reaction, permanently discontinue abacavir if hypersensitivity cannot be ruled out, even when other diagnoses are possible (e.g., acute onset respiratory diseases such as pneumonia, bronchitis, pharyngitis, or influenza; gastroenteritis; or reactions to other medications).
 
-Following a hypersensitivity reaction to abacavir, NEVER restart abacavir tablets or any other abacavir-containing product because more severe symptoms can occur within hours and may include life threatening hypotension and death.
+Following a hypersensitivity reaction to abacavir, NEVER restart abacavir tablets or any other abacavir-containing product because more severe symptoms can occur within hours and may include life-threatening hypotension and death.
 
 When therapy with abacavir has been discontinued for reasons other than symptoms of a hypersensitivity reaction, and if reinitiation of abacavir tablets or any other abacavir-containing product is under consideration, carefully evaluate the reason for discontinuation of abacavir to ensure that the patient did not have symptoms of a hypersensitivity reaction.
 If the patient is of unknown HLA-B*5701 status, screening for the allele is recommended prior to reinitiation of abacavir.
@@ -62,7 +62,11 @@ Even in the absence of the HLA-B*5701 allele, it is important to permanently dis
 If symptoms consistent with hypersensitivity are not identified, reintroduction can be undertaken with continued monitoring for symptoms of a hypersensitivity reaction.
 Make patients aware that a hypersensitivity reaction can occur with reintroduction of abacavir tablets or any other abacavir-containing product and that reintroduction of abacavir tablets or any other abacavir-containing product needs to be undertaken only if medical care can be readily accessed by the patient or others.
 
-Risk Factor:HLA-B*5701 Allele: Trials have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
+#### Risk Factor
+
+##### HLA-B*5701 Allele
+
+Trials have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
 
 CNA106030 (PREDICT-1), a randomized, double-blind trial, evaluated the clinical utility of prospective HLA-B*5701 screening on the incidence of abacavir hypersensitivity reaction in abacavir-naive HIV-1-infected adults (n = 1,650).
 In this trial, use of pre-therapy screening for the HLA-B*5701 allele and exclusion of subjects with this allele reduced the incidence of clinically suspected abacavir hypersensitivity reactions from 7.8% (66/847) to 3.4% (27/803).
@@ -90,7 +94,7 @@ Treatment with abacavir should be suspended in any patient who develops clinical
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including abacavir.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
 
 ## 5.4 Fat Redistribution
 
@@ -100,7 +104,7 @@ A causal relationship has not been established.
 
 ## 5.5 Myocardial Infarction
 
-In a published prospective, observational, epidemiological study designed to investigate the rate of myocardial infarction in patients on combination antiretroviral therapy, the use of abacavir within the previous 6 months was correlated with an increased risk of myocardial infarction (MI).1 In a sponsor-conducted pooled analysis of clinical trials, no excess risk of myocardial infarction was observed in abacavir-treated subjects as compared with control subjects.
+In a published prospective, observational, epidemiological trial designed to investigate the rate of myocardial infarction in patients on combination antiretroviral therapy, the use of abacavir within the previous 6 months was correlated with an increased risk of myocardial infarction (MI).1 In a sponsor-conducted pooled analysis of clinical trials, no excess risk of myocardial infarction was observed in abacavir-treated subjects as compared with control subjects.
 In totality, the available data from the observational cohort and from clinical trials are inconclusive.
 
 As a precaution, the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies, including abacavir, and action taken to minimize all modifiable risk factors (e.g., hypertension, hyperlipidemia, diabetes mellitus, smoking).

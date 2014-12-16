@@ -1,6 +1,6 @@
 # WARNING: RISK OF HYPERSENSITIVITY REACTIONS, LACTIC ACIDOSIS, AND SEVERE HEPATOMEGALY
 
-Hypersensitivity Reactions: Serious and sometimes fatal hypersensitivity reactions have been associated with abacavir (abacavir sulfate).
+Hypersensitivity Reactions: Serious and sometimes fatal hypersensitivity reactions have been associated with abacavir tablets (abacavir sulfate).
 
 Hypersensitivity to abacavir is a multi-organ clinical syndrome usually characterized by a sign or symptom in two or more of the following groups: (1) fever, (2) rash, (3) gastrointestinal (including nausea, vomiting, diarrhea, or abdominal pain), (4) constitutional (including generalized malaise, fatigue, or achiness), and (5) respiratory (including dyspnea, cough, or pharyngitis).
 Discontinue abacavir as soon as a hypersensitivity reaction is suspected.

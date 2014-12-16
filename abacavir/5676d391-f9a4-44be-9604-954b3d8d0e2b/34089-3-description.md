@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Abacavir sulfate is a synthetic carbocyclic nucleoside analogue with inhibitory activity against HIV-1.
-The chemical name of abacavir sulfate is (1S,cis)-4-[2-amino-6-(cyclopropylamino)-9H-purin-9-yl]-2-cyclopentene-1-methanol sulfate (salt) (2:1).
+The chemical name of abacavir sulfate is (1S,4R)-4-[2-Amino-6-(cyclopropylamino)-9H-purin-9-yl]-2-cyclopentene-1-methanol sulfate (salt) (2:1).
 Abacavir sulfate is the enantiomer with 1S, 4R absolute configuration on the cyclopentene ring.
 It has a molecular formula of (C14H18N6O)2•H2SO4 and a molecular weight of 670.76 daltons.
 It has the following structural formula:

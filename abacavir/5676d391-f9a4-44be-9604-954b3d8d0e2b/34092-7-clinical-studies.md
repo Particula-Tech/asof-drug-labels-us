@@ -15,7 +15,7 @@ Outcomes of Randomized Treatment Through Week 48 (CNA30024)
 
 | Outcome | Abacavir plus Lamivudine plus Efavirenz (n = 324) | Zidovudine plus Lamivudine plus Efavirenz (n = 325) |
 | --- | --- | --- |
-| ResponderSubjects achieved and maintained confirmed HIV-1 RNA ≤ 50 copies/mL (< 400 copies/mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR®** standard test 1.0 PCR). | 69% (73%) | 69% (71%) |
+| ResponderSubjects achieved and maintained confirmed HIV-1 RNA ≤ 50 copies/mL (< 400 copies/mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR® standard test 1.0 PCR). | 69% (73%) | 69% (71%) |
 | Virologic failuresIncludes viral rebound, insufficient viral response according to the investigator, and failure to achieve confirmed ≤ 50 copies/mL by Week 48. | 6% | 4% |
 | Discontinued due to adverse reactions | 14% | 16% |
 | Discontinued due to other reasonsIncludes consent withdrawn, lost to follow up, protocol violations, those with missing data, clinical progression, and other. | 10% | 11% |
@@ -23,7 +23,7 @@ Outcomes of Randomized Treatment Through Week 48 (CNA30024)
 After 48 weeks of therapy, the median CD4+ cell count increases from baseline were 209 cells/mm3 in the group receiving abacavir and 155 cells/mm3 in the zidovudine group.
 Through Week 48, eight subjects (2%) in the group receiving abacavir (five CDC classification C events and three deaths) and five subjects (2%) on the zidovudine arm (three CDC classification C events and two deaths) experienced clinical disease progression.
 
-CNA3005 was a multicenter, double-blind, controlled trial in which 562 HIV-1-infected, therapy-naive adults were randomized to receive either abacavir (300 mg twice daily) plus COMBIVIR®** (lamivudine 150 mg/zidovudine 300 mg twice daily), or indinavir (800 mg 3 times a day) plus COMBIVIR®** twice daily.
+CNA3005 was a multicenter, double-blind, controlled trial in which 562 HIV-1-infected, therapy-naive adults were randomized to receive either abacavir (300 mg twice daily) plus COMBIVIR® (lamivudine 150 mg/zidovudine 300 mg twice daily), or indinavir (800 mg 3 times a day) plus COMBIVIR® twice daily.
 The trial was stratified at randomization by pre-entry plasma HIV-1 RNA 10,000 to 100,000 copies/mL and plasma HIV-1 RNA greater than 100,000 copies/mL.
 Trial participants were male (87%), Caucasian (73%), black (15%), and Hispanic (9%).
 At baseline the median age was 36 years; the median baseline CD4+ cell count was 360 cells/mm3, and median baseline plasma HIV-1 RNA was 4.8 log10 copies/mL.
@@ -53,7 +53,7 @@ Proportions of Responders Through Week 48 By Screening Plasma HIV-1 RNA Levels (
 In subjects with baseline viral load greater than 100,000 copies/mL, percentages of subjects with HIV-1 RNA levels less than 50 copies/mL were 31% in the group receiving abacavir versus 45% in the group receiving indinavir.
 
 Through Week 48, an overall mean increase in CD4+ cell count of about 150 cells/mm3 was observed in both treatment arms.
-Through Week 48, nine subjects (3.4%) in the group receiving abacavir (six CDC classification C events and three deaths) and three subjects (1.5%) in the group receiving indinavir (two CDC classification C events and one death) experienced clinical disease progression.
+Through Week 48, nine subjects (3.4%) in the group receiving abacavir sulfate (six CDC classification C events and three deaths) and three subjects (1.5%) in the group receiving indinavir (two CDC classification C events and one death) experienced clinical disease progression.
 
 CNA30021 was an international, multicenter, double-blind, controlled trial in which 770 HIV-1-infected, therapy-naive adults were randomized and received either abacavir 600 mg once daily or abacavir 300 mg twice daily, both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily.
 The double-blind treatment duration was at least 48 weeks.
@@ -65,7 +65,7 @@ The outcomes of randomized treatment are provided in Table 10.
 Table 10.
 Outcomes of Randomized Treatment Through Week 48 (CNA30021)
 
-| Outcome | Abacavir 600 mg q.d. plus EPIVIR®** plus Efavirenz (n = 384) | Abacavir 300 mg b.i.d. plus EPIVIR®** plus Efavirenz (n = 386) |
+| Outcome | Abacavir 600 mg q.d. plus EPIVIR® plus Efavirenz (n = 384) | Abacavir 300 mg b.i.d. plus EPIVIR® plus Efavirenz (n = 386) |
 | --- | --- | --- |
 | ResponderSubjects achieved and maintained confirmed HIV-1 RNA < 50 copies/mL (<400 copies/mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR standard test version 1.0). | 64% (71%) | 65% (72%) |
 | Virologic failuresIncludes viral rebound, failure to achieve confirmed < 50 copies/mL (< 400 copies/mL) by Week 48, and insufficient viral load response. | 11% (5%) | 11% (5%) |
