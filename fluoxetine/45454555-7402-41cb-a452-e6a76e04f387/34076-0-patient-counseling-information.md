@@ -13,7 +13,7 @@ Patients should be given the opportunity to discuss the contents of the Medicati
 Patients should be advised of the following issues and asked to alert their healthcare provider if these occur while taking fluoxetine.
 When using fluoxetine and olanzapine in combination, also refer to the Medication Guide for Symbyax.
 
-## 17.2 Clinical Worsening and Suicide Risk
+## 17.2 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
@@ -43,7 +43,7 @@ Patients should be advised that taking fluoxetine can cause mild pupillary dilat
 Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
-[See Warnings andPrecautions (5.8)]
+[See Warnings and Precautions (5.8)]
 
 ## 17.7 Hyponatremia
 
@@ -76,12 +76,12 @@ Patients should be advised to consult with their healthcare provider if their sy
 
 Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
-Nursing Mothers — Patients should be advised to notify their physician if they intend to breastfeed an infant during therapy.
+Nursing Mothers — Patients should be advised to notify their physician if they intend to breast-feed an infant during therapy.
 Because fluoxetine is excreted in human milk, nursing while taking fluoxetine is not recommended [see Use in Specific Populations (8.3)].
 Pediatric Use of Fluoxetine — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
-Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.16) and Use in Specific Populations (8.4)].
+Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
 However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 08/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 12/2014

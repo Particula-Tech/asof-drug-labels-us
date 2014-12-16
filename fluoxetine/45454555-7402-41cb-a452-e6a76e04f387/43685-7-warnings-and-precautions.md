@@ -1,8 +1,8 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-When using Fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
+When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
 
-## 5.1 Clinical Worsening and Suicide Risk
+## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients with Major Depressive Disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.

@@ -1,10 +1,24 @@
 # 14 CLINICAL STUDIES
 
+Efficacy for fluoxetine was established for the:
+
+- Acute and maintenance treatment of Major Depressive Disorder in adults, and children and adolescents (8 to 18 years) in 7 short-term and 2 long-term, placebo-controlled trials [see Clinical Studies (14.1)].
+- Acute treatment of obsessions and compulsions in adults, and children and adolescents (7 to 17 years) with Obsessive Compulsive Disorder (OCD) in 3 short-term placebo-controlled trials [see Clinical Studies (14.2)].
+- Acute and maintenance treatment of binge-eating and vomiting behaviors in adult patients with moderate to severe Bulimia Nervosa in 3 short-term and 1 long-term, placebo-controlled trials [see Clinical Studies (14.3)].
+- Acute treatment of Panic Disorder, with or without agoraphobia, in adult patients in 2 short-term, placebo-controlled trials [see Clinical Studies (14.4)].
+
+Efficacy for fluoxetine and olanzapine in combination was established for the:
+
+- Acute treatment of depressive episodes in Bipolar I Disorder in adults.
+
+Information for pediatric patients (10 to 17 years) is approved for Eli Lilly and Company’s Fluoxetine Capsules.
+However due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
 ## 14.1 Major Depressive Disorder
 
-Daily Dosing Adult — The efficacy of fluoxetine was studied in 5- and 6-week placebo-controlled trials with depressed adult and geriatric outpatients (≥18 years of age) whose diagnoses corresponded most closely to the DSM-III (currently DSM-IV) category of Major Depressive Disorder. fluoxetine was shown to be significantly more effective than placebo as measured by the Hamilton Depression Rating Scale (HAM-D).
+Daily Dosing Adult — The efficacy of fluoxetine was studied in 5- and 6-week placebo-controlled trials with depressed adult and geriatric outpatients (≥18 years of age) whose diagnoses corresponded most closely to the DSM-III (currently DSM-IV) category of Major Depressive Disorder.
+Fluoxetine was shown to be significantly more effective than placebo as measured by the Hamilton Depression Rating Scale (HAM-D).
 Fluoxetine was also significantly more effective than placebo on the HAM-D subscores for depressed mood, sleep disturbance, and the anxiety subfactor.
 Two 6-week controlled studies (N=671, randomized) comparing fluoxetine 20 mg and placebo have shown fluoxetine 20 mg daily to be effective in the treatment of elderly patients (≥60 years of age) with Major Depressive Disorder.
 In these studies, fluoxetine produced a significantly higher rate of response and remission as defined, respectively, by a 50% decrease in the HAM-D score and a total endpoint HAM-D score of ≤8.

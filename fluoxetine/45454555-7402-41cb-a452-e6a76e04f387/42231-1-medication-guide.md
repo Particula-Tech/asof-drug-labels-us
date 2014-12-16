@@ -61,7 +61,7 @@ Visual Problems:
 - swelling or redness in or around the eye
 
 Only some people are at risk for these problems.
-You may want to undergo an eye examination to see if you are risk and receive preventative treatment if you are.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
 6.
 Seizures or convulsions
@@ -245,7 +245,7 @@ They may harm them.
 This Medication Guide summarizes the most important information about fluoxetine capsules.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about fluoxetine capsules that is written for healthcare professionals.
-For more information about fluoxetine capsules call 1-866-850-2876.
+For more information about fluoxetine capsules, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in fluoxetine capsules?
 Active ingredient: fluoxetine hydrochloride Inactive ingredients: colloidal silicon dioxide, FD&C Blue #1, gelatin, pregelatinized starch (maize), sodium lauryl sulphate, titanium dioxide and yellow iron oxide.
 In addition 40 mg also contains FD&C Yellow #6.
@@ -256,4 +256,4 @@ Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Zyprexa® is a registered trademark of Eli Lilly and Company.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 08/2014
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 12/2014
