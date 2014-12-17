@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA077233"
+  ],
+  "inn": "caffeine",
+  "labeler": "Exela Pharma Sciences, LLC",
+  "package_ndcs": [
+    "51754-0500-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "caffeine citrate",
+      "name": "caffeine citrate"
+    }
+  ],
+  "setid": "f423a220-e7bf-4d24-bc52-bafc1864265b",
+  "source": "dailymed"
+}
