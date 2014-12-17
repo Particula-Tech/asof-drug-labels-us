@@ -20,7 +20,7 @@ There is little potential for drug interactions with ziprasidone due to displace
 
 Ziprasidone should not be used with any drug that prolongs the QT interval [see Contraindications (4.1)].
 
-Given the primary CNS effects of ziprasidone, caution should be used when it is taken in combination with other centrally acting drugs, including alcohol and drugs acting on the dopaminergic and serotonergic systems.
+Given the primary CNS effects of ziprasidone, caution should be used when it is taken in combination with other centrally acting drugs.
 
 Because of its potential for inducing hypotension, ziprasidone may enhance the effects of certain antihypertensive agents.
 
