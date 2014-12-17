@@ -2,7 +2,9 @@
 
 0.5 mg GILENYA capsules are hard gelatin capsules with a white opaque body and bright yellow cap imprinted with “FTY 0.5 mg” on the cap and 2 radial bands imprinted on the capsule body with yellow ink.
 
-GILENYA capsules are supplied in blister packs.
+GILENYA capsules are supplied as follows:
+
+Bottle of 30 capsules NDC 0078-0607-15
 
 Carton of 28 capsules containing 2 folded blister cards of 14 capsules per blister card NDC 0078-0607-51
 

@@ -5,6 +5,7 @@
   "inn": "fingolimod",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
+    "0078-0607-15",
     "0078-0607-51",
     "0078-0607-89"
   ],

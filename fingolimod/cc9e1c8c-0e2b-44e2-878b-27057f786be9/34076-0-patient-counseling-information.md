@@ -51,4 +51,4 @@ Persistence of GILENYA Effects After Drug Discontinuation
 
 Advise patients that GILENYA remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to 2 months following the last dose.
 
-T2014-53 April 2014
+T2014-86 August 2014

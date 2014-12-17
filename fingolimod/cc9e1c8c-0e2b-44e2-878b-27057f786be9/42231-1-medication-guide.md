@@ -1,4 +1,6 @@
-MEDICATION GUIDE GILENYA® (je-LEN-yah) (fingolimod) capsules
+# MEDICATION GUIDE
+
+GILENYA® (je-LEN-yah) (fingolimod) capsules
 
 Read this Medication Guide before you start using Gilenya and each time you get a refill.
 There may be new information.
@@ -200,7 +202,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store GILENYA?
 
-- Store GILENYA in the original blister pack in a dry place.
+- Store GILENYA in the original bottle or blister pack in a dry place.
 - Store GILENYA at room temperature between 59°F to 86°F (15°C to 30°C).
 - Keep GILENYA and all medicines out of the reach of children.
 
@@ -233,6 +235,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2014-54
+T2014-87
 
-Revised: April 2014
+Revised: August 2014
