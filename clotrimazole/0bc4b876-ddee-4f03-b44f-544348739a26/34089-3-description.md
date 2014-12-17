@@ -4,4 +4,6 @@ Each Clotrimazole Troche (clotrimazole lozenges) USP contains 10 mg clotrimazole
 
 Structural Formula:
 
+C22H17ClN2
+
 The troche dosage form is a large, slowly dissolving tablet (lozenge) containing 10 mg of clotrimazole USP dispersed in croscarmellose sodium, dextrates, magnesium stearate, microcrystalline cellulose, and povidone.

@@ -10,9 +10,14 @@ Clotrimazole Troche (clotrimazole lozenges) USP, 10 mg
 
 0054-8146-22: 7 x 10 Unit-Dose Tablets
 
-Store below 86°F (30°C).
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
 Avoid freezing.
 
-10001777/07 Revised August 2013
+Roxane Laboratories, Inc.
 
-© RLI, 2013
+Columbus, Ohio 43216
+
+10001777/08 Revised August 2014
+
+© RLI, 2014

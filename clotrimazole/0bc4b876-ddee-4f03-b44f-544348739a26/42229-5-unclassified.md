@@ -1,3 +1,3 @@
 FOR TOPICAL ORAL ADMINISTRATION
 
-# Rx only
+Rx only
