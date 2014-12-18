@@ -39,7 +39,7 @@ A maximal limb-lead QRS duration of ≥0.10 seconds may be the best indication o
 Intravenous sodium bicarbonate should be used to maintain the serum pH in the range of 7.45 to 7.55.
 If the pH response is inadequate, hyperventilation may also be used.
 Concomitant use of hyperventilation and sodium bicarbonate should be done with extreme caution, with frequent pH monitoring.
-A pH >7.60 or a pCO2 <20 mm Hg is undesirable.
+A pH >7.60 or a pCO 2 <20 mm Hg is undesirable.
 Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium or phenytoin.
 Type 1 A and 1 C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).
 

@@ -70,7 +70,7 @@ Delirium has been reported with concurrent administration of amitriptyline and d
 
 ### Pregnancy Category C
 
-Teratogenic effects were not observed in mice, rats, or rabbits when amitriptyline was given orally at doses of 2 to 40 mg/kg/day (up to 13 times the maximum recommended human doseBased on a maximum recommended amitriptyline dose of 150 mg/day or 3 mg/kg/day for a 50 kg patient.).
+Teratogenic effects were not observed in mice, rats, or rabbits when amitriptyline was given orally at doses of 2 to 40 mg/kg/day (up to 13 times the maximum recommended human dose Based on a maximum recommended amitriptyline dose of 150 mg/day or 3 mg/kg/day for a 50 kg patient.).
 Studies in literature have shown amitriptyline to be teratogenic in mice and hamsters when given by various routes of administration at doses of 28 to 100 mg/kg/day (9 to 33 times the maximum recommended human dose), producing multiple malformations.
 Another study in the rat reported that an oral dose of 25 mg/kg/day (8 times the maximum recommended human dose) produced delays in ossification of fetal vertebral bodies without other signs of embryotoxicity.
 In rabbits, an oral dose of 60 mg/kg/day (20 times the maximum recommended human dose) was reported to cause incomplete ossification of cranial bones.

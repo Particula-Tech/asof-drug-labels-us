@@ -41,5 +41,6 @@ Because of the wide variation in the absorption and distribution of tricyclic an
 However, determination of plasma levels may be useful in identifying patients who appear to have toxic effects and may have excessively high levels, or those in whom lack of absorption or noncompliance is suspected.
 Because of increased intestinal transit time and decreased hepatic metabolism in elderly patients, plasma levels are generally higher for a given oral dose of amitriptyline hydrochloride than in younger patients.
 Elderly patients should be monitored carefully and quantitative serum levels obtained as clinically appropriate.
-Adjustments in dosage should be made according to the patient’s clinical response and not on the basis of plasma levels.Hollister, L.E.; Monitoring Tricyclic Antidepressant Plasma Concentrations.
+Adjustments in dosage should be made according to the patient’s clinical response and not on the basis of plasma levels.
+Hollister, L.E.; Monitoring Tricyclic Antidepressant Plasma Concentrations.
 JAMA 1979; 241(23):2530-2533.
