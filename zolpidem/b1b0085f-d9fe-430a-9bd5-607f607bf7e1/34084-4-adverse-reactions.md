@@ -168,7 +168,7 @@ To provide a meaningful estimate of the proportion of individuals experiencing t
 
 The frequencies presented, therefore, represent the proportions of the 3,660 individuals exposed to zolpidem, at all doses, who experienced an event of the type cited on at least one occasion while receiving zolpidem.
 All reported treatment-emergent adverse events are included, except those already listed in the table above of adverse events in placebo-controlled studies, those coding terms that are so general as to be uninformative, and those events where a drug cause was remote.
-It is important to emphasize that, although the events reported did occur during treatment with zolpidem tartrate tablets, they were not necessarily caused by it.
+It is important to emphasize that, although the events reported did occur during treatment with zolpidem tartrate, they were not necessarily caused by it.
 
 Adverse events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in greater than 1/100 subjects; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in less than 1/1,000 patients.
 

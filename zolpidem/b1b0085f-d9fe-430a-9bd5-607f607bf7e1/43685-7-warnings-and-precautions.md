@@ -7,7 +7,7 @@ Prescribers should monitor for excess depressant effects, but impairment can occ
 While pharmacodynamic tolerance or adaptation to some adverse depressant effects of zolpidem tartrate extended-release may develop, patients using zolpidem tartrate extended-release should be cautioned against driving or engaging in other hazardous activities or activities requiring complete mental alertness the day after use.
 
 Additive effects occur with concomitant use of other CNS depressants (e.g. benzodiazepines, opioids, tricyclic antidepressants, alcohol), including daytime use.
-Downward dose adjustment of zolpidem tartrate extended-release tablet are and concomitant CNS depressants should be considered [see DOSAGE AND ADMINISTRATION (2.3)].
+Downward dose adjustment of zolpidem tartrate extended-release and concomitant CNS depressants should be considered [see DOSAGE AND ADMINISTRATION (2.3)].
 
 The use of zolpidem tartrate extended-release with other sedative-hypnotics (including other zolpidem products) at bedtime or the middle of the night is not recommended.
 
@@ -64,4 +64,9 @@ The risk of respiratory depression should be considered prior to prescribing zol
 ## 5.7 Withdrawal Effects
 
 There have been reports of withdrawal signs and symptoms following the rapid dose decrease or abrupt discontinuation of zolpidem.
-Monitor patients for tolerance, abuse, and dependence [see DRUG ABUSE AND DEPENDENCE (9.2) AND (9.3)].
+Monitor patients for tolerance, abuse, and dependence [see DRUG ABUSE AND DEPENDENCE (9.2) and (9.3)].
+
+## 5.8 Severe Injuries
+
+Zolpidem can cause drowsiness and a decreased level of consciousness, which may lead to falls and consequently to severe injuries.
+Severe injuries such as hip fractures and intracranial hemorrhage have been reported.

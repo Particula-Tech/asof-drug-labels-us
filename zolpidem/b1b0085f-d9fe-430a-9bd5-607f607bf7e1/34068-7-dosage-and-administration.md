@@ -6,7 +6,7 @@ Use the lowest effective dose for the patient.
 The recommended initial dose is 6.25 mg for women and either 6.25 or 12.5 mg for men, taken only once per night immediately before bedtime with at least 7 to 8 hours remaining before the planned time of awakening.
 If the 6.25 mg dose is not effective, the dose can be increased to 12.5 mg.
 In some patients, the higher morning blood levels following use of the 12.5 mg dose increase the risk of next day impairment of driving and other activities that require full alertness [see WARNINGS AND PRECAUTIONS (5.1)].
-The total dose of zolpidem tartrate extended-release tablet, USP should not exceed 12.5 mg once daily immediately before bedtime.
+The total dose of zolpidem tartrate extended-release tablets should not exceed 12.5 mg once daily immediately before bedtime.
 
 The recommended initial doses for women and men are different because zolpidem clearance is lower in women.
 

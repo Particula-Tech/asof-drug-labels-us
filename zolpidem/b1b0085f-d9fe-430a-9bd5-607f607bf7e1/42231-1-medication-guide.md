@@ -1,5 +1,7 @@
 MEDICATION GUIDE Zolpidem Tartrate Extended-Release Tablets, USPC-IV
 
+(ZOL-pih-dem)
+
 Read the Medication Guide that comes with zolpidem tartrate extended-release tablets before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
@@ -35,9 +37,9 @@ Do not take zolpidem tartrate extended-release tablets if you:
   Your healthcare provider will tell you if you can take zolpidem tartrate extended-release tablets with your other medicines.
 - •cannot get a full night's sleep
 
-What is zolpidem tartrate extended-release tablets?
+What are zolpidem tartrate extended-release tablets?
 
-Zolpidem tartrate extended-release tablets is a sedative-hypnotic (sleep) medicine.
+Zolpidem tartrate extended-release tablets are a sedative-hypnotic (sleep) medicine.
 Zolpidem tartrate extended-release tablets are used in adults for the treatment of a sleep problem called insomnia.
 Symptoms of insomnia include:
 
@@ -85,7 +87,7 @@ How should I take zolpidem tartrate extended-release tablets?
 
 - •See "what is the most important information i should know about zolpidem tartrate extended-release tablets?"
 - •Take zolpidem tartrate extended-release tablets exactly as prescribed.
-  Only take one zolpidem tartrate extended-release tablets a night if needed.
+  Only take one zolpidem tartrate extended-release tablet a night if needed.
 - •Do not take zolpidem tartrate extended-release tablets if you drank alcohol that evening or before bed.
 - •You should not take zolpidem tartrate extended-release tablets with or right after a meal. zolpidem tartrate extended-release tablets may help you fall asleep faster if you take it on an empty stomach.
 - •Take zolpidem tartrate extended-release tablets whole.
@@ -94,7 +96,7 @@ How should I take zolpidem tartrate extended-release tablets?
   You may need a different medicine.
 - •Call your healthcare provider if your insomnia worsens or is not better within 7 to 10 days.
   This may mean that there is another condition causing your sleep problems.
-- •If you take too much zolpidem tartrate extended-release tablets or overdose, get emergency treatment.
+- •If you take too many zolpidem tartrate extended-release tablets or overdose, get emergency treatment.
 
 What are the possible side effects of zolpidem tartrate extended-release tablets?
 
@@ -109,6 +111,7 @@ Zolpidem tartrate extended-release tablets may cause serious side effects includ
 - •severe allergic reactions.
   Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
   Get emergency medical help if you get these symptoms after taking zolpidem tartrate extended-release tablets.
+- •Falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate extended-release tablets.
 
@@ -171,5 +174,4 @@ Manufactured in Slovenia by Lek Pharmaceuticals d.d.
 
 for Sandoz Inc., Princeton, NJ 08540
 
-Rev.
-May 2013
+Rev.: October 2014

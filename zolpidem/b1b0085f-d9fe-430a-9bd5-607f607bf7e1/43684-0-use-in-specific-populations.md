@@ -19,12 +19,12 @@ Administration of zolpidem to rats at oral doses of 4, 20, and 100 mg base/kg/da
 
 ## 8.2 Labor and Delivery
 
-Zolpidem tartrate extended-release tablet has no established use in labor and delivery [see PREGNANCY (8.1)].
+Zolpidem tartrate extended-release has no established use in labor and delivery [see PREGNANCY (8.1)].
 
 ## 8.3 Nursing Mothers
 
 Zolpidem is excreted in human milk.
-Caution should be exercised when zolpidem tartrate extended-release tablet is administered to a nursing woman.
+Caution should be exercised when zolpidem tartrate extended-release is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
@@ -35,7 +35,7 @@ In an 8-week study in pediatric patients (aged 6 to 17 years) with insomnia asso
 Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations were reported in 7% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [see WARNINGS AND PRECAUTIONS (5.4)].
 Ten patients on zolpidem (7.4%) discontinued treatment due to an adverse reaction.
 
-FDA has not required pediatric studies of zolpidem tartrate extended-release tablets in the pediatric population based on these efficacy and safety findings.
+FDA has not required pediatric studies of zolpidem tartrate extended-release in the pediatric population based on these efficacy and safety findings.
 
 ## 8.5 Geriatric Use
 

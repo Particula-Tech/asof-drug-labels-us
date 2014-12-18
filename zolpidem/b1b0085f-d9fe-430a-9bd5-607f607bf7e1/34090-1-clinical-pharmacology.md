@@ -14,6 +14,8 @@ A study in 24 healthy male subjects was conducted to compare mean zolpidem plasm
 The terminal elimination half-life observed with zolpidem tartrate extended-release (12.5 mg) was similar to that obtained with immediate-release zolpidem tartrate (10 mg).
 The mean plasma concentration-time profiles are shown in Figure 1.
 
+Figure 1: Mean plasma concentration-time profiles for zolpidem tartrate extended-release (12.5 mg) and immediate-release zolpidem tartrate (10 mg)
+
 In adult and elderly patients treated with zolpidem tartrate extended-release, there was no evidence of accumulation after repeated once-daily dosing for up to two weeks.
 
 Absorption:
