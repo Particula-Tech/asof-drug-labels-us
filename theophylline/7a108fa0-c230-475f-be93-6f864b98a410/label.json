@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA081034",
+    "ANDA087942",
+    "ANDA087943",
+    "ANDA087944"
+  ],
+  "inn": "theophylline",
+  "labeler": "Actient Pharmaceuticals LLC",
+  "package_ndcs": [
+    "52244-100-10",
+    "52244-200-10",
+    "52244-300-10",
+    "52244-400-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "theophylline anhydrous",
+      "name": "Theo-24"
+    }
+  ],
+  "setid": "7a108fa0-c230-475f-be93-6f864b98a410",
+  "source": "dailymed"
+}
