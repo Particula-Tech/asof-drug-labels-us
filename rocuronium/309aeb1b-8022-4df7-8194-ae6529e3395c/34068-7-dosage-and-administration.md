@@ -76,41 +76,41 @@ TABLE 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)*
 
 TABLE 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)**
 
-| Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
-| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
-| 10 | 22 | 2.4 | 3 | 3.6 | 4.2 | 4.8 | 5.4 | 6 | 7.2 | 8.4 | 9.6 |
-| 15 | 33 | 3.6 | 4.5 | 5.4 | 6.3 | 7.2 | 8.1 | 9 | 10.8 | 12.6 | 14.4 |
-| 20 | 44 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |
-| 25 | 55 | 6 | 7.5 | 9 | 10.5 | 12 | 13.5 | 15 | 18 | 21 | 24 |
-| 35 | 77 | 8.4 | 10.5 | 12.6 | 14.7 | 16.8 | 18.9 | 21 | 25.2 | 29.4 | 33.6 |
-| 50 | 110 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 36 | 42 | 48 |
-| 60 | 132 | 14.4 | 18 | 21.6 | 25.2 | 28.8 | 32.4 | 36 | 43.2 | 50.4 | 57.6 |
-| 70 | 154 | 16.8 | 21 | 25.2 | 29.4 | 33.6 | 37.8 | 42 | 50.4 | 58.8 | 67.2 |
-| 80 | 176 | 19.2 | 24 | 28.8 | 33.6 | 38.4 | 43.2 | 48 | 57.6 | 67.2 | 76.8 |
-| 90 | 198 | 21.6 | 27 | 32.4 | 37.8 | 43.2 | 48.6 | 54 | 64.8 | 75.6 | 86.4 |
-| 100 | 220 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 72 | 84 | 96 |
-| ** 100 mg rocuronium bromide injection in 100 mL solution |  |  |  |  |  |  |  |  |  |  |  |
+| Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10 | 22 | 2.4 | 3 | 3.6 | 4.2 | 4.8 | 5.4 | 6 | 7.2 | 8.4 | 9.6 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 15 | 33 | 3.6 | 4.5 | 5.4 | 6.3 | 7.2 | 8.1 | 9 | 10.8 | 12.6 | 14.4 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20 | 44 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 25 | 55 | 6 | 7.5 | 9 | 10.5 | 12 | 13.5 | 15 | 18 | 21 | 24 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 35 | 77 | 8.4 | 10.5 | 12.6 | 14.7 | 16.8 | 18.9 | 21 | 25.2 | 29.4 | 33.6 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 50 | 110 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 36 | 42 | 48 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 60 | 132 | 14.4 | 18 | 21.6 | 25.2 | 28.8 | 32.4 | 36 | 43.2 | 50.4 | 57.6 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 70 | 154 | 16.8 | 21 | 25.2 | 29.4 | 33.6 | 37.8 | 42 | 50.4 | 58.8 | 67.2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 80 | 176 | 19.2 | 24 | 28.8 | 33.6 | 38.4 | 43.2 | 48 | 57.6 | 67.2 | 76.8 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 90 | 198 | 21.6 | 27 | 32.4 | 37.8 | 43.2 | 48.6 | 54 | 64.8 | 75.6 | 86.4 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 100 | 220 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 72 | 84 | 96 |  |  |  |  |  |  |  |  |  |  |  |  |
+| ** 100 mg rocuronium bromide injection in 100 mL solution |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 TABLE 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)***
 
-| Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
-| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
-| 10 | 22 | 0.5 | 0.6 | 0.7 | 0.8 | 1 | 1.1 | 1.2 | 1.4 | 1.7 | 1.9 |
-| 15 | 33 | 0.7 | 0.9 | 1.1 | 1.3 | 1.4 | 1.6 | 1.8 | 2.2 | 2.5 | 2.9 |
-| 20 | 44 | 1 | 1.2 | 1.4 | 1.7 | 1.9 | 2.2 | 2.4 | 2.9 | 3.4 | 3.8 |
-| 25 | 55 | 1.2 | 1.5 | 1.8 | 2.1 | 2.4 | 2.7 | 3 | 3.6 | 4.2 | 4.8 |
-| 35 | 77 | 1.7 | 2.1 | 2.5 | 2.9 | 3.4 | 3.8 | 4.2 | 5 | 5.9 | 6.7 |
-| 50 | 110 | 2.4 | 3 | 3.6 | 4.2 | 4.8 | 5.4 | 6 | 7.2 | 8.4 | 9.6 |
-| 60 | 132 | 2.9 | 3.6 | 4.3 | 5 | 5.8 | 6.5 | 7.2 | 8.6 | 10.1 | 11.5 |
-| 70 | 154 | 3.4 | 4.2 | 5 | 5.9 | 6.7 | 7.6 | 8.4 | 10.1 | 11.8 | 13.4 |
-| 80 | 176 | 3.8 | 4.8 | 5.8 | 6.7 | 7.7 | 8.6 | 9.6 | 11.5 | 13.4 | 15.4 |
-| 90 | 198 | 4.3 | 5.4 | 6.5 | 7.6 | 8.6 | 9.7 | 10.8 | 13 | 15.1 | 17.3 |
-| 100 | 220 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |
-| *** 500 mg rocuronium bromide injection in 100 mL solution |  |  |  |  |  |  |  |  |  |  |  |
+| Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10 | 22 | 0.5 | 0.6 | 0.7 | 0.8 | 1 | 1.1 | 1.2 | 1.4 | 1.7 | 1.9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 15 | 33 | 0.7 | 0.9 | 1.1 | 1.3 | 1.4 | 1.6 | 1.8 | 2.2 | 2.5 | 2.9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20 | 44 | 1 | 1.2 | 1.4 | 1.7 | 1.9 | 2.2 | 2.4 | 2.9 | 3.4 | 3.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 25 | 55 | 1.2 | 1.5 | 1.8 | 2.1 | 2.4 | 2.7 | 3 | 3.6 | 4.2 | 4.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 35 | 77 | 1.7 | 2.1 | 2.5 | 2.9 | 3.4 | 3.8 | 4.2 | 5 | 5.9 | 6.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 50 | 110 | 2.4 | 3 | 3.6 | 4.2 | 4.8 | 5.4 | 6 | 7.2 | 8.4 | 9.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 60 | 132 | 2.9 | 3.6 | 4.3 | 5 | 5.8 | 6.5 | 7.2 | 8.6 | 10.1 | 11.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 70 | 154 | 3.4 | 4.2 | 5 | 5.9 | 6.7 | 7.6 | 8.4 | 10.1 | 11.8 | 13.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 80 | 176 | 3.8 | 4.8 | 5.8 | 6.7 | 7.7 | 8.6 | 9.6 | 11.5 | 13.4 | 15.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 90 | 198 | 4.3 | 5.4 | 6.5 | 7.6 | 8.6 | 9.7 | 10.8 | 13 | 15.1 | 17.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 100 | 220 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| *** 500 mg rocuronium bromide injection in 100 mL solution |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 2.5 Dosage in Specific Populations
 
@@ -128,7 +128,7 @@ When sevoflurane is used for induction and isoflurane/nitrous oxide for maintena
 Maintenance dosing can also be administered at the reappearance of T2 at a rate of 7 to 10 mcg/kg/min, with the lowest dose requirement for neonates (birth to less than 28 days) and the highest dose requirement for children (greater than 2 years up to 11 years).
 
 When halothane is used for general anesthesia, patients ranging from 3 months old through adolescence can be administered rocuronium bromide injection maintenance doses of 0.075 to 0.125 mg/kg upon return of T1 to 0.25% to provide clinical relaxation for 7 to 10 minutes.
-Alternatively, a continuous infusion of rocuronium bromide injection initiated at a rate of 12 mcg/kg/min upon return of T1 to 10% (one twitch present in train-of-­four) may also be used to maintain neuromuscular blockade in pediatric patients.
+Alternatively, a continuous infusion of rocuronium bromide injection initiated at a rate of 12 mcg/kg/min upon return of T1 to 10% (one twitch present in train-of-four) may also be used to maintain neuromuscular blockade in pediatric patients.
 
 Additional information for administration to pediatric patients of all age groups is presented elsewhere in the label [see Clinical Pharmacology (12.2)].
 

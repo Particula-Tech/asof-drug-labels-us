@@ -19,43 +19,43 @@ Table 4: Percent of Excellent or Good Intubating Conditions and Median (Range) T
 | --- | --- | --- |
 | Adults* 18 to 64 yrs 0.45 (n=43) 0.6 (n=51) | 86%96% | 1.6 (1.0 to 7.0)1.6 (1.0 to 3.2) |
 | Infants** 3 mo to 1 yr 0.6 (n=18) Pediatric** 1 to 12 yrs 0.6 (n=12) | 100% 100% | 1.0 (1.0 to 1.5) 1.0 (0.5 to 2.3) |
-| * Excludes patients undergoing Cesarean section** Pediatric patients were under halothane anesthesia Excellent intubating conditions = jaw relaxed, vocal cords apart and immobile, no diaphragmatic movement Good intubating conditions = same as excellent but with some diaphragmatic movement |  |  |
+| * Excludes patients undergoing Cesarean section ** Pediatric patients were under halothane anesthesia Excellent intubating conditions = jaw relaxed, vocal cords apart and immobile, no diaphragmatic movement Good intubating conditions = same as excellent but with some diaphragmatic movement |  |  |
 
 Table 5 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under opioid/nitrous oxide/oxygen anesthesia in adults and geriatric patients, and under halothane anesthesia in pediatric patients.
 
 TABLE 5: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Opioid/Nitrous Oxide/Oxygen Anesthesia (Adults) and Halothane Anesthesia (Pediatric Patients)
 
-| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to ≥80% Block (min) | Time to Maximum Block (min) | Clinical Duration (min) |
-| --- | --- | --- | --- |
-| Adults 18 to 64 yrs |  |  |  |
-| 0.45 (n=50) | 1.3 (0.8 to 6.2) | 3.0 (1.3 to 8.2) | 22 (12 to 31) |
-| 0.6 (n=142) | 1.0 (0.4 to 6.0) | 1.8 (0.6 to 13.0) | 31 (15 to 85) |
-| 0.9 (n=20) | 1.1 (0.3 to 3.8) | 1.4 (0.8 to 6.2) | 58 (27 to 111) |
-| 1.2 (n=18) | 0.7 (0.4 to 1.7) | 1.0 (0.6 to 4.7) | 67 (38 to 160) |
-| Geriatric ≥65 yrs |  |  |  |
-| 0.6 (n=31) | 2.3 (1.0 to 8.3) | 3.7 (1.3 to 11.3) | 46 (22 to 73) |
-| 0.9 (n=5) | 2.0 (1.0 to 3.0) | 2.5 (1.2 to 5.0) | 62 (49 to 75) |
-| 1.2 (n=7) | 1.0 (0.8 to 3.5) | 1.3 (1.2 to 4.7) | 94 (64 to 138) |
-| Infants 3 mo to 1 yr |  |  |  |
-| 0.6 (n=17) | — | 0.8 (0.3 to 3.0) | 41 (24 to 68) |
-| 0.8 (n=9) | — | 0.7 (0.5 to 0.8) | 40 (27 to 70) |
-| Pediatric 1 to 12 yrs |  |  |  |
-| 0.6 (n=27) | 0.8 (0.4 to 2.0) | 1.0 (0.5 to 3.3) | 26 (17 to 39) |
-| 0.8 (n=18) | — | 0.5 (0.3 to 1.0) | 30 (17 to 56) |
-| n = the number of patients who had time to maximum block recordedClinical duration = time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery. |  |  |  |
+| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to ≥80% Block (min) | Time to Maximum Block (min) | Clinical Duration (min) |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Adults 18 to 64 yrs |  |  |  |  |  |  |
+| 0.45 (n=50) | 1.3 (0.8 to 6.2) | 3.0 (1.3 to 8.2) | 22 (12 to 31) |  |  |  |
+| 0.6 (n=142) | 1.0 (0.4 to 6.0) | 1.8 (0.6 to 13.0) | 31 (15 to 85) |  |  |  |
+| 0.9 (n=20) | 1.1 (0.3 to 3.8) | 1.4 (0.8 to 6.2) | 58 (27 to 111) |  |  |  |
+| 1.2 (n=18) | 0.7 (0.4 to 1.7) | 1.0 (0.6 to 4.7) | 67 (38 to 160) |  |  |  |
+| Geriatric ≥65 yrs |  |  |  |  |  |  |
+| 0.6 (n=31) | 2.3 (1.0 to 8.3) | 3.7 (1.3 to 11.3) | 46 (22 to 73) |  |  |  |
+| 0.9 (n=5) | 2.0 (1.0 to 3.0) | 2.5 (1.2 to 5.0) | 62 (49 to 75) |  |  |  |
+| 1.2 (n=7) | 1.0 (0.8 to 3.5) | 1.3 (1.2 to 4.7) | 94 (64 to 138) |  |  |  |
+| Infants 3 mo to 1 yr |  |  |  |  |  |  |
+| 0.6 (n=17) | — | 0.8 (0.3 to 3.0) | 41 (24 to 68) |  |  |  |
+| 0.8 (n=9) | — | 0.7 (0.5 to 0.8) | 40 (27 to 70) |  |  |  |
+| Pediatric 1 to 12 yrs |  |  |  |  |  |  |
+| 0.6 (n=27) | 0.8 (0.4 to 2.0) | 1.0 (0.5 to 3.3) | 26 (17 to 39) |  |  |  |
+| 0.8 (n=18) | — | 0.5 (0.3 to 1.0) | 30 (17 to 56) |  |  |  |
+| n = the number of patients who had time to maximum block recorded Clinical duration = time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery. |  |  |  |  |  |  |
 
 Table 6 presents the time to onset and clinical duration for the initial dose of Rocuronium Bromide Injection under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia in pediatric patients.
 
 TABLE 6: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia (Pediatric Patients)
 
-| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3 (min) |
-| --- | --- | --- |
-| Neonates birth to <28 days 0.45 (n=5) 0.6 (n=10) 1 (n=6) | 1.1 (0.6-2.2) 1.0 (0.2-2.1) 0.6 (0.3-1.8) | 40.3 (32.5-62.6) 49.7 (16.6-119.0) 114.4 (92.6-136.3) |
-| Infants 28 days to ≤3 mo 0.45 (n=9) 0.6 (n=11) 1 (n=5) | 0.5 (0.4-1.3) 0.4 (0.2-0.8) 0.3 (0.2-0.7) | 49.1 (13.5-79.9) 59.8 (32.3-87.8) 103.3 (90.8-155.4) |
-| Toddlers >3 mo to ≤2 yrs 0.45 (n=17) 0.6 (n=29) 1 (n=15) | 0.8 (0.3-1.9) 0.6 (0.2-1.6) 0.5 (0.2-1.5) | 39.2 (16.9-59.4) 44.2 (18.9-68.8) 72.0 (36.2-128.2) |
-| Children >2 yrs to ≤11 yrs 0.45 (n=14) 0.6 (n=37) 1 (n=16) | 0.9 (0.4-1.9) 0.8 (0.3-1.7) 0.7 (0.4-1.2) | 21.5 (17.5-38.0) 36.7 (20.1-65.9) 53.1 (31.2-89.9) |
-| Adolescents >11 to ≤17 yrs 0.45 (n=18) 0.6 (n=31) 1 (n=14) | 1.0 (0.5-1.7) 0.9 (0.2-2.1) 0.7 (0.5-1.2) | 37.5 (18.3-65.7) 41.4 (16.3-91.2) 67.1 (25.6-93.8) |
-| n=the number of patients with the highest number of observations for time to maximum block or reappearance T3. |  |  |
+| Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3 (min) |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Neonates birth to <28 days 0.45 (n=5) 0.6 (n=10) 1 (n=6) | 1.1 (0.6-2.2) 1.0 (0.2-2.1) 0.6 (0.3-1.8) | 40.3 (32.5-62.6) 49.7 (16.6-119.0) 114.4 (92.6-136.3) |  |  |  |  |  |  |  |
+| Infants 28 days to ≤3 mo 0.45 (n=9) 0.6 (n=11) 1 (n=5) | 0.5 (0.4-1.3) 0.4 (0.2-0.8) 0.3 (0.2-0.7) | 49.1 (13.5-79.9) 59.8 (32.3-87.8) 103.3 (90.8-155.4) |  |  |  |  |  |  |  |
+| Toddlers >3 mo to ≤2 yrs 0.45 (n=17) 0.6 (n=29) 1 (n=15) | 0.8 (0.3-1.9) 0.6 (0.2-1.6) 0.5 (0.2-1.5) | 39.2 (16.9-59.4) 44.2 (18.9-68.8) 72.0 (36.2-128.2) |  |  |  |  |  |  |  |
+| Children >2 yrs to ≤11 yrs 0.45 (n=14) 0.6 (n=37) 1 (n=16) | 0.9 (0.4-1.9) 0.8 (0.3-1.7) 0.7 (0.4-1.2) | 21.5 (17.5-38.0) 36.7 (20.1-65.9) 53.1 (31.2-89.9) |  |  |  |  |  |  |  |
+| Adolescents >11 to ≤17 yrs 0.45 (n=18) 0.6 (n=31) 1 (n=14) | 1.0 (0.5-1.7) 0.9 (0.2-2.1) 0.7 (0.5-1.2) | 37.5 (18.3-65.7) 41.4 (16.3-91.2) 67.1 (25.6-93.8) |  |  |  |  |  |  |  |
+| n=the number of patients with the highest number of observations for time to maximum block or reappearance T3. |  |  |  |  |  |  |  |  |  |
 
 The time to 80% or greater block and clinical duration as a function of dose are presented in Figures 1 and 2.
 
@@ -127,12 +127,12 @@ Table 8 shows the pharmacokinetic parameters in subjects with either impaired re
 
 TABLE 8: Mean (SD) Pharmacokinetic Parameters in Adults with Normal Renal and Hepatic Function (n=10, ages 23 to 65), Renal Transplant Patients (n=10, ages 21 to 45), and Hepatic Dysfunction Patients (n=9, ages 31 to 67) During Isoflurane Anesthesia
 
-| PK Parameters | Normal Renal and Hepatic Function | Renal Transplant Patients | Hepatic Dysfunction Patients |
-| --- | --- | --- | --- |
-| Clearance (L/kg/hr) | 0.16 (0.05)* | 0.13 (0.04) | 0.13 (0.06) |
-| Volume of Distribution at Steady State (L/kg) | 0.26 (0.03) | 0.34 (0.11) | 0.53 (0.14) |
-| t1/2 β Elimination (hr) | 2.4 (0.8)* | 2.4 (1.1) | 4.3 (2.6) |
-| * Differences in the calculated t1/2 β and Cl between this study and the study in young adults vs. geriatrics (≥65 years) is related to the different sample populations and anesthetic techniques. |  |  |  |
+| PK Parameters | Normal Renal and Hepatic Function | Renal Transplant Patients | Hepatic Dysfunction Patients |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Clearance (L/kg/hr) | 0.16 (0.05)* | 0.13 (0.04) | 0.13 (0.06) |  |  |  |
+| Volume of Distribution at Steady State (L/kg) | 0.26 (0.03) | 0.34 (0.11) | 0.53 (0.14) |  |  |  |
+| t1/2 β Elimination (hr) | 2.4 (0.8)* | 2.4 (1.1) | 4.3 (2.6) |  |  |  |
+| * Differences in the calculated t1/2 β and Cl between this study and the study in young adults vs. geriatrics (≥65 years) is related to the different sample populations and anesthetic techniques. |  |  |  |  |  |  |
 
 The net result of these findings is that subjects with renal failure have clinical durations that are similar to but somewhat more variable than the duration that one would expect in subjects with normal renal function.
 Hepatically impaired patients, due to the large increase in volume, may demonstrate clinical durations approaching 1.5 times that of subjects with normal hepatic function.
