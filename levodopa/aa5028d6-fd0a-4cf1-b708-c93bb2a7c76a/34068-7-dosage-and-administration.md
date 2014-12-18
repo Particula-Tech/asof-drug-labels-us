@@ -16,7 +16,7 @@ Since carbidopa prevents the reversal of levodopa effects caused by pyridoxine, 
 Studies show that peripheral dopa-decarboxylase is saturated by the bioavailable carbidopa at doses of 70 mg a day and greater.
 Because the bioavailabilities of carbidopa and levodopa in carbidopa and levodopa immediate-release tablets and carbidopa and levodopa extended-release tablets are different, appropriate adjustments should be made, as shown in Table 2.
 
-Table 2 Approximate Bioavailabilities at Steady-StateThis table is only a guide to bioavailabilities since other factors such as food, drugs, and inter-patient variabilities may affect the bioavailability of carbidopa and levodopa.
+Table 2: Approximate Bioavailabilities at Steady-StateThis table is only a guide to bioavailabilities since other factors such as food, drugs, and inter-patient variabilities may affect the bioavailability of carbidopa and levodopa.
 
 | Tablet | Amount of Levodopa (mg) in Each Tablet | Approximate Bioavailability | Approximate Amount of Bioavailable Levodopa (mg) in Each Tablet |
 | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ The interval between doses of carbidopa and levodopa extended-release tablets sh
 
 A guideline for initiation of carbidopa and levodopa extended-release tablets is shown in Table 3.
 
-Table 3 Guidelines for Initial Conversion from Carbidopa and Levodopa Immediate-release Tablets to Carbidopa and Levodopa Extended-release Tablets
+Table 3: Guidelines for Initial Conversion from Carbidopa and Levodopa Immediate-release Tablets to Carbidopa and Levodopa Extended-release Tablets
 
 | Carbidopa and Levodopa Immediate-release Tablets | Carbidopa and Levodopa Extended-release Tablets |
 | --- | --- |
@@ -72,7 +72,7 @@ A dose of carbidopa and levodopa immediate-release tablets 25 mg/100 mg or 10 mg
 
 ## Interruption of Therapy
 
-Sporadic cases of a symptom complex resembling Neuroleptic Malignant Syndrome (NMS) have been associated with dose reductions and withdrawal of carbidopa and levodopa immediate-release tablets or carbidopa and levodopa extended-release tablets.
+Sporadic cases of hyperpyrexia and confusion have been associated with dose reductions and withdrawal of carbidopa and levodopa immediate-release tablets or carbidopa and levodopa extended-release tablets.
 
 Patients should be observed carefully if abrupt reduction or discontinuation of carbidopa and levodopa extended-release tablets is required, especially if the patient is receiving neuroleptics (see WARNINGS).
 

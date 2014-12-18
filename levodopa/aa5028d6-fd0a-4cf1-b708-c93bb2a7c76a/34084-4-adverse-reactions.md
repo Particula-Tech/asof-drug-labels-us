@@ -3,7 +3,7 @@
 In controlled clinical trials, patients predominantly with moderate to severe motor fluctuations while on carbidopa and levodopa immediate-release were randomized to therapy with either carbidopa and levodopa immediate-release or carbidopa and levodopa extended-release.
 The adverse experience frequency profile of carbidopa and levodopa extended-release did not differ substantially from that of carbidopa and levodopa immediate-release, as shown in Table 1.
 
-Table 1 Clinical Adverse Experiences Occurring In 1% or Greater of Patients
+Table 1: Clinical Adverse Experiences Occurring In 1% or Greater of Patients
 
 | Adverse Experience | Carbidopa and Levodopa Extended-release n = 491 % | Carbidopa and Levodopa Immediate-release n = 524 % |
 | --- | --- | --- |
@@ -71,7 +71,7 @@ Gastrointestinal: Taste alterations, dark saliva.
 
 Hypersensitivity: Angioedema, urticaria, pruritus, bullous lesions (including pemphigus-like reactions).
 
-Nervous System/Psychiatric: Neuroleptic malignant syndrome (NMS), (see WARNINGS), increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
+Nervous System/Psychiatric: Increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
 
 Skin: Alopecia, flushing, dark sweat.
 
