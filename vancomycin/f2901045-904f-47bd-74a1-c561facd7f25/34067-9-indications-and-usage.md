@@ -5,11 +5,11 @@ It is indicated for penicillin-allergic patients, for patients who cannot receiv
 Vancomycin is indicated for initial therapy when methicillin-resistant staphylococci are suspected, but after susceptibility data are available, therapy should be adjusted accordingly.
 
 Vancomycin hydrochloride is effective in the treatment of staphylococcal endocarditis.
-It’s effectiveness has been documented in other infections due to staphylococci, including septicemia, bone infections, lower respiratory tract infections, skin, and skin structure infections.
+Its effectiveness has been documented in other infections due to staphylococci, including septicemia, bone infections, lower respiratory tract infections, skin, and skin structure infections.
 When staphylococcal infections are localized and purulent, antibiotics are used as adjuncts to appropriate surgical measures.
 
-Vancomycin hydrochloride has been reported to be effective alone or in combination with an aminoglycoside for endocarditis caused by Streptococcus viridans or S. bovis.
-For endocarditis caused by enterococci (e.g., E. faecalis), vancomycin hydrochloride has been reported to be effective only in combination with an aminoglycoside.
+Vancomycin has been reported to be effective alone or in combination with an aminoglycoside for endocarditis caused by Streptococcus viridans or S. bovis.
+For endocarditis caused by enterococci (e.g., E. faecalis), vancomycin has been reported to be effective only in combination with an aminoglycoside.
 
 Vancomycin hydrochloride has been reported to be effective for the treatment of diphtheroid endocarditis.
 Vancomycin hydrochloride has been used successfully in combination with either rifampin, an aminoglycoside, or both in early-onset prosthetic valve endocarditis caused by S. epidermidis or diphtheroids.

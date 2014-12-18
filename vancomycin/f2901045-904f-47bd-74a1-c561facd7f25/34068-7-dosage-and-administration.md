@@ -11,15 +11,15 @@ Patients with Normal Renal Function
 
 Adults
 
-The usual intravenous daily dose is 2 g divided either as 500 mg every six hours or 1 g every 12 hours.
+The usual daily intravenous dose is 2 g divided either as 500 mg every 6 hours or 1 g every 12 hours.
 Each dose should be administered at no more than 10 mg/min, or over a period of at least 60 minutes, whichever is longer.
 Other patient factors, such as age or obesity, may call for modification of the usual intravenous daily dose.
 
 Pediatric Patients
 
-The usual intravenous dosage of vancomycin is 10 mg/kg per dose given every six hours.
+The usual intravenous dosage of vancomycin is 10 mg/kg per dose given every 6 hours.
 Each dose should be administered over a period of at least 60 minutes.
-Close monitoring of serum concentrations of vancomycin is recommended in these patients.
+Close monitoring of serum concentrations of vancomycin may be warranted in these patients.
 
 Neonates
 
@@ -33,7 +33,7 @@ Close monitoring of serum concentrations of vancomycin is recommended in these p
 Patients with Impaired Renal Function and Elderly Patients
 
 Dosage adjustment must be made in patients with impaired renal function.
-In premature infants and in the elderly, greater dosage reductions than expected may be necessary because of decreased renal function.
+In the elderly, greater dosage reductions than expected may be necessary because of decreased renal function.
 Measurement of vancomycin serum concentrations can be helpful in optimizing therapy, especially in seriously ill patients with changing renal function.
 Vancomycin serum concentrations can be determined by use of microbiologic assay, radioimmunoassay, fluorescence polarization immunoassay, fluorescence immunoassay, or high-pressure liquid chromatography.
 
@@ -57,10 +57,9 @@ When only the serum creatinine concentration is known, the following formula (ba
 Calculated creatinine clearances (mL/min) are only estimates.
 The creatinine clearance should be measured promptly.
 
-| Men: | Weight (kg) x (140 - age in years) |
-| --- | --- |
-|  | 72 x serum creatinine concentration (mg/dL) |
-| Women: | 0.85 x above value |
+Men: Weight (kg) x (140 - age in years) 72 x serum creatinine concentration (mg/dL)
+
+Women: 0.85 x above value
 
 The serum creatinine must represent a steady state of renal function.
 Otherwise the estimated value for creatinine clearance is not valid.

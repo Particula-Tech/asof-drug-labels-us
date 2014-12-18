@@ -21,9 +21,9 @@ Compatibility with Other Drugs and Intravenous Fluids
 Solutions that are diluted with 5% Dextrose Injection or 0.9% Sodium Chloride Injection may be refrigerated for 14 days without significant loss of potency.
 Solutions in the vial that are further diluted with the following infusion fluids may be stored in a refrigerator for 96 hours:
 
-5% Dextrose Injection, USP 5% Dextrose and 0.9% Sodium Chloride Injection, USP Lactated Ringer’s Injection, USP Lactated Ringer’s and 5% Dextrose Injection, USP Normosol®-M and 5% Dextrose ISOLYTE® E
+5% Dextrose Injection, USP 5% Dextrose and 0.9% Sodium Chloride Injection, USP Lactated Ringer’s Injection, USP 5% Dextrose and Lactated Ringer’s Injection Normosol®-M and 5% Dextrose 0.9% Sodium Chloride Injection, USP ISOLYTE® E
 
-Vancomycin solution has a low pH and may cause chemical or physical instability when it is mixed with other compounds.
+Vancomycin solution has a low pH and may cause physical instability when it is mixed with other compounds.
 
 Mixtures of solutions of vancomycin and beta-lactam antibiotics have been shown to be physically incompatible.
 The likelihood of precipitation increases with higher concentrations of vancomycin.

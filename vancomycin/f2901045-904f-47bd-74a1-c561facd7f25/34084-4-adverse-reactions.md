@@ -11,7 +11,7 @@ In studies of normal volunteers, infusion-related events did not occur when vanc
 Nephrotoxicity
 
 Renal failure, principally manifested by increased serum creatinine or BUN concentrations, especially in patients administered large doses of vancomycin, has been reported rarely.
-Rare cases of interstitial nephritis have been reported.
+Cases of interstitial nephritis have also been reported rarely.
 Most of these have occurred in patients who were given aminoglycosides concomitantly or who had preexisting kidney dysfunction.
 When vancomycin was discontinued, azotemia resolved in most patients.
 

@@ -31,7 +31,7 @@ Clinically significant serum concentrations have been reported in some patients 
 Prolonged use of vancomycin may result in the overgrowth of nonsusceptible microorganisms.
 Careful observation of the patient is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
-In rare instances, there have been reports of pseudomembranous colitis due to C. difficile developing in patients who receive intravenous vancomycin.
+In rare instances, there have been reports of pseudomembranous colitis due to C. difficile developing in patients who received intravenous vancomycin.
 
 In order to minimize the risk of nephrotoxicity when treating patients with underlying renal dysfunction or patients receiving concomitant therapy with an aminoglycoside, serial monitoring of renal function should be performed and particular care should be taken in following appropriate dosing schedules (see DOSAGE AND ADMINISTRATION).
 
@@ -46,7 +46,6 @@ Thrombophlebitis may occur, the frequency and severity of which can be minimized
 
 There have been reports that the frequency of infusion-related events (including hypotension, flushing, erythema, urticaria, and pruritus) increases with the concomitant administration of anesthetic agents.
 Infusion-related events may be minimized by the administration of vancomycin as a 60-minute infusion prior to anesthetic induction.
-
 The safety and efficacy of vancomycin administered by the intrathecal (intralumbar or intraventricular) route or by the intraperitoneal route have not been established by adequate and well-controlled trials.
 
 Reports have revealed that administration of Vancomycin Hydrochloride for Injection, USP by the intraperitoneal route during continuous ambulatory peritoneal dialysis (CAPD) has resulted in a syndrome of chemical peritonitis.
