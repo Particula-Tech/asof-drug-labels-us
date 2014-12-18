@@ -2,31 +2,33 @@
 
 NDC 61570-131-20
 
-SILVADENE® (silver sulfadiazine) CREAM 1%
-
-FOR TOPICAL USE ONLY.
-
-Dosage and Administration: Read package insert for prescribing information.
-
-Rx Only
-
-KEEP OUT OF REACH OF CHILDREN
-
-Store at controlled room temper- ature 59°–86°F (15°–30°C).
+SILVADENE® CREAM 1% (silver sulfadiazine)
 
 20 grams
 
-Monarch Pharmaceuticals®
+FOR TOPICAL USE ONLY.
 
-U.S. Patent 3,761,590
+DOSAGE AND USE See accompanying prescribing information.
+
+KEEP OUT OF REACH OF CHILDREN
+
+Store at controlled room temperature 59°–86°F (15°–30°C).
+
+Rx only
+
+Pfizer Injectables
 
 # PRINCIPAL DISPLAY PANEL - 20 g Tube Carton
 
-NDC 61570-131-20 20 grams
+NDC 61570-131-20
 
 SILVADENE® CREAM 1% (silver sulfadiazine)
 
-Monarch Pharmaceuticals®
+20 grams
+
+Pfizer Injectables
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 50 g Jar Label
 
@@ -34,8 +36,10 @@ NDC 61570-131-50
 
 SILVADENE® CREAM 1% (silver sulfadiazine)
 
-Monarch Pharmaceuticals®
-
-Rx Only
-
 50 grams
+
+FOR TOPICAL USE ONLY
+
+Pfizer Injectables
+
+Rx only
