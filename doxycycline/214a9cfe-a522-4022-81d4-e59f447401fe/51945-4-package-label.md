@@ -1,47 +1,47 @@
 # PRINCIPAL DISPLAY PANEL - 50 mg Capsule Bottle Label
 
-MP
-
 NDC 53489-118-02
 
-DOXYCYCLINE HYCLATE CAPSULES USP
+Doxycycline Hyclate Capsules USP
 
-equivalent to 50 mg Doxycycline
+50 mg
 
-50 CAPSULES
+equivalent to 50 mg doxycycline
 
-Rx only
+Rx Only
 
-MUTUAL PHARMACEUTICAL CO., INC. PHILADELPHIA, PA 19124 USA
+50 Capsules
+
+SUN PHARMA
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
-MP
-
 NDC 53489-119-02
 
-DOXYCYCLINE HYCLATE CAPSULES USP
+Doxycycline Hyclate Capsules USP
 
-equivalent to 100 mg Doxycycline
+100 mg
 
-50 CAPSULES
+equivalent to 100 mg doxycycline
 
-Rx only
+Rx Only
 
-MUTUAL PHARMACEUTICAL CO., INC. PHILADELPHIA, PA 19124 USA
+50 Capsules
+
+SUN PHARMA
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
-MP
-
 NDC 53489-120-02
 
-DOXYCYCLINE HYCLATE TABLETS USP
+Doxycycline Hyclate Tablets USP
 
-equivalent to 100 mg Doxycycline
+100 mg
 
-50 TABLETS
+equivalent to 100 mg doxycycline
 
-Rx only
+Rx Only
 
-MUTUAL PHARMACEUTICAL CO., INC. PHILADELPHIA, PA 19124 USA
+50 Tablets
+
+SUN PHARMA

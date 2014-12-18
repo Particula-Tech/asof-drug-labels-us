@@ -1,8 +1,8 @@
 # REFERENCES
 
 1. Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-third Informational Supplement, CLSI document M100-S23.
-   CLSI document M100-S23, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2013.
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Fourth Informational Supplement, CLSI document M100-S24.
+   CLSI document M100-S24, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2014.
 2. Clinical and Laboratory Standards Institute (CLSI).
    Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - Ninth Edition.
    CLSI document M07-A9, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
