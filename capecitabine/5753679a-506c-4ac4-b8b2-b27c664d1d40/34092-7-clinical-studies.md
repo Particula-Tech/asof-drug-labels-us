@@ -52,7 +52,7 @@ Table 11: Summary of Dose Modifications in X-ACT Study
 
 The median follow-up at the time of the analysis was 83 months (6.9 years).
 The hazard ratio for DFS for capecitabine compared to 5-FU/LV was 0.88 (95% C.I.
-0.77 to 1.01) (see Table 12andFigure 1).
+0.77 to 1.01) (see Table 12 and Figure 1).
 Because the upper 2-sided 95% confidence limit of hazard ratio was less than 1.20, capecitabine was non-inferior to 5-FU/LV.
 The choice of the non-inferiority margin of 1.20 corresponds to the retention of approximately 75% of the 5-FU/LV effect on DFS.
 The hazard ratio for capecitabine compared to 5-FU/LV with respect to overall survival was 0.86 (95% C.I.
@@ -69,6 +69,10 @@ Table 12: Efficacy of Capecitabine vs 5-FU/LV in Adjuvant Treatment of Colon Can
 | (Capecitabine/5-FU/LV) | (0.77 to 1.01) |  |
 | (95% C.I. for Hazard Ratio) |  |  |
 | p-valueTest of superiority of capecitabine vs 5-FU/LV (Wald chi-square test) | p = 0.068 |  |
+
+Figure 1: Kaplan-Meier Estimates of Disease-Free Survival (All Randomized Population)a
+
+a Capecitabine has been demonstrated to be non-inferior to 5-FU/LV.
 
 ## 14.2 Metastatic Colorectal Cancer
 
@@ -111,7 +115,7 @@ Table 13: Baseline Demographics of Controlled Colorectal Trials
 
 The efficacy endpoints for the two phase 3 trials are shown in Table 14 and Table 15.
 
-Table 14: Efficacy of Capecitabine vs. 5-FU/LV in Colorectal Cancer (Study 1)
+Table 14: Efficacy of Capecitabine vs 5-FU/LV in Colorectal Cancer (Study 1)
 
 |  | Capecitabine (n = 302) | 5-FU/LV (n = 303) |
 | --- | --- | --- |
@@ -124,7 +128,7 @@ Table 14: Efficacy of Capecitabine vs. 5-FU/LV in Colorectal Cancer (Study 1)
 | Hazard Ratio (Capecitabine/5-FU/LV) | 1 |  |
 | 95% C.I. for Hazard Ratio | (0.84 to 1.18) |  |
 
-Table 15: Efficacy of Capecitabine vs. 5-FU/LV in Colorectal Cancer (Study 2)
+Table 15: Efficacy of Capecitabine vs 5-FU/LV in Colorectal Cancer (Study 2)
 
 |  | Capecitabine (n = 301) | 5-FU/LV (n = 301) |
 | --- | --- | --- |
@@ -167,8 +171,8 @@ Table 16: Baseline Demographics and Clinical Characteristics Capecitabine and Do
 
 |  | Capecitabine + Docetaxel (n = 255) | Docetaxel (n = 256) |
 | --- | --- | --- |
-| Age(median, years) | 52 | 51 |
-| Karnofsky PS(median) | 90 | 90 |
+| Age (median, years) | 52 | 51 |
+| Karnofsky PS (median) | 90 | 90 |
 | Site of Disease |  |  |
 | Lymph nodes | 121 (47%) | 125 (49%) |
 | Liver | 116 (45%) | 122 (48%) |
@@ -176,7 +180,7 @@ Table 16: Baseline Demographics and Clinical Characteristics Capecitabine and Do
 | Lung | 95 (37%) | 99 (39%) |
 | Skin | 73 (29%) | 73 (29%) |
 | Prior Chemotherapy |  |  |
-| Anthracycline Includes 10 patients in combination and 18 patients in monotherapy arms treated with an anthracenedione | 255 (100%) | 256 (100%) |
+| AnthracyclineIncludes 10 patients in combination and 18 patients in monotherapy arms treated with an anthracenedione | 255 (100%) | 256 (100%) |
 | 5-FU | 196 (77%) | 189 (74%) |
 | Paclitaxel | 25 (10%) | 22 (9%) |
 | Resistance to an Anthracycline |  |  |

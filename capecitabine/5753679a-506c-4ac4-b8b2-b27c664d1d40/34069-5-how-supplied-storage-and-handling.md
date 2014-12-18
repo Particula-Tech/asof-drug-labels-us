@@ -3,10 +3,10 @@
 Capecitabine Tablets USP are available as follows:
 
 150 mg: Peach to light peach, oblong, film-coated, biconvex, unscored tablets, debossed with 190 on one side and 77 on the other side.
-Available in bottles of 60 tablets.
+Available in bottles of 60 tablets (NDC 0093-7473-06).
 
 500 mg: Peach to light peach, oblong, film-coated, biconvex, unscored tablets debossed with 191 on one side and 77 on the other side.
-Available in bottles of 120 tablets.
+Available in bottles of 120 tablets (NDC 0093-7474-89).
 
 Storage and Handling
 
@@ -20,9 +20,6 @@ KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
 Care should be exercised in the handling of capecitabine tablets USP.
 Capecitabine tablets USP should not be cut or crushed.
-The use of gloves and safety glasses is recommended to avoid exposure in case of breakage of tablets.
-If powder from broken capecitabine tablets USP contacts the skin, wash the skin immediately and thoroughly with soap and water.
-If capecitabine tablets USP contact the mucous membranes, flush thoroughly with water.
-
 Procedures for the proper handling and disposal of anticancer drugs should be considered.
+Any unused product should be disposed of in accordance with local requirements, or drug take back programs.
 Several guidelines on the subject have been published.1 to 4

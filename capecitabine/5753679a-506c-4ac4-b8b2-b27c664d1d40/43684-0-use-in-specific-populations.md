@@ -45,8 +45,6 @@ There was no improvement in one-year progression-free survival rate and one-year
 The adverse reaction profile of capecitabine was consistent with the known adverse reaction profile in adults, with the exception of laboratory abnormalities which occurred more commonly in pediatric patients.
 The most frequently reported laboratory abnormalities (per-patient incidence ≥ 40%) were increased ALT (75%), lymphocytopenia (73%), leukopenia (73%), hypokalemia (68%), thrombocytopenia (57%), hypoalbuminemia (55%), neutropenia (50%), low hematocrit (50%), hypocalcemia (48%), hypophosphatemia (45%) and hyponatremia (45%).
 
-.
-
 ## 8.5 Geriatric Use
 
 Physicians should pay particular attention to monitoring the adverse effects of capecitabine in the elderly [see Warnings and Precautions (5.11)].

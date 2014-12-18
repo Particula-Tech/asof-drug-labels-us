@@ -1,13 +1,14 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Capecitabine tablets should be swallowed whole with water within 30 minutes after a meal.
+Do not crush or cut capecitabine tablets.
 Capecitabine tablets dose is calculated according to body surface area.
 
 ## 2.1 Standard Starting Dose
 
 Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastatic Breast Cancer)
 
-The recommended dose of capecitabine tablets are 1250 mg/m2 administered orally twice daily (morning and evening; equivalent to 2500 mg/m2 total daily dose) for 2 weeks followed by a 1-week rest period given as 3-week cycles (seeTable 1).
+The recommended dose of capecitabine tablets is 1250 mg/m2 administered orally twice daily (morning and evening; equivalent to 2500 mg/m2 total daily dose) for 2 weeks followed by a 1-week rest period given as 3-week cycles (see Table 1).
 
 Adjuvant treatment in patients with Dukes' C colon cancer is recommended for a total of 6 months [i.e., capecitabine tablets 1250 mg/m2 orally twice daily for 2 weeks followed by a 1-week rest period, given as 3-week cycles for a total of 8 cycles (24 weeks)].
 
@@ -38,7 +39,7 @@ General
 
 Capecitabine tablets dosage may need to be individualized to optimize patient management.
 Patients should be carefully monitored for toxicity and doses of capecitabine tablets should be modified as necessary to accommodate individual patient tolerance to treatment [see Clinical Studies (14)].
-Toxicity due to capecitabine tablets administration may be managed by symptomatic treatment, dose interruptions and adjustment of capecitabine tablets dose.
+Toxicity due to capecitabine tablet administration may be managed by symptomatic treatment, dose interruptions and adjustment of capecitabine tablets dose.
 Once the dose has been reduced, it should not be increased at a later time.
 Doses of capecitabine tablets omitted for toxicity are not replaced or restored; instead the patient should resume the planned treatment cycles.
 
@@ -46,7 +47,7 @@ The dose of phenytoin and the dose of coumarin-derivative anticoagulants may nee
 
 Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastatic Breast Cancer)
 
-Capecitabine tablets dose modification scheme as described below (seeTable 2) is recommended for the management of adverse reactions.
+Capecitabine tablets dose modification scheme as described below (see Table 2) is recommended for the management of adverse reactions.
 
 Table 2: Recommended Dose Modifications of Capecitabine Tablets
 
@@ -86,7 +87,7 @@ Renal Impairment
 
 No adjustment to the starting dose of capecitabine tablets is recommended in patients with mild renal impairment (creatinine clearance = 51 to 80 mL/min [Cockroft and Gault, as shown below]).
 In patients with moderate renal impairment (baseline creatinine clearance = 30 to 50 mL/min), a dose reduction to 75% of the capecitabine tablets starting dose when used as monotherapy or in combination with docetaxel (from 1250 mg/m2 to 950 mg/m2 twice daily) is recommended [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
-Subsequent dose adjustment is recommended as outlined in Table 2andTable 3 (depending on the regimen) if a patient develops a grade 2 to 4 adverse event [see Warnings and Precautions (5.5)].
+Subsequent dose adjustment is recommended as outlined in Table 2 and Table 3 (depending on the regimen) if a patient develops a grade 2 to 4 adverse event [see Warnings and Precautions (5.5)].
 The starting dose adjustment recommendations for patients with moderate renal impairment apply to both capecitabine tablets monotherapy and capecitabine tablets in combination use with docetaxel.
 
 | Cockroft and Gault Equation: |  |

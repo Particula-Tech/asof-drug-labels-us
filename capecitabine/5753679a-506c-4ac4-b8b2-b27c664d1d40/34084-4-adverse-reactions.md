@@ -62,13 +62,13 @@ Table 5: Percent Incidence of Grade 3/4 Laboratory Abnormalities Reported in ≥
 | Decreased neutrophilsThe incidence of grade 3/4 white blood cell abnormalities was 1.3% in the capecitabine arm and 4.9% in the IV 5-FU/LV arm. | 2.2 | 26.2 |
 | Decreased neutrophils/granulocytes | 2.4 | 26.4 |
 | Decreased platelets | 1 | 0.7 |
-| Increased bilirubin It should be noted that grading was according to NCIC CTC Version 1 (May, 1994). In the NCIC-CTC Version 1, hyperbilirubinemia grade 3 indicates a bilirubin value of 1.5 to 3 × upper limit of normal (ULN) range, and grade 4 a value of > 3 × ULN. The NCI CTC Version 2 and above define a grade 3 bilirubin value of > 3 to 10 × ULN, and grade 4 values > 10 × ULN. | 20 | 6.3 |
+| Increased bilirubinIt should be noted that grading was according to NCIC CTC Version 1 (May, 1994). In the NCIC-CTC Version 1, hyperbilirubinemia grade 3 indicates a bilirubin value of 1.5 to 3 × upper limit of normal (ULN) range, and grade 4 a value of > 3 × ULN. The NCI CTC Version 2 and above define a grade 3 bilirubin value of > 3 to 10 × ULN, and grade 4 values > 10 × ULN. | 20 | 6.3 |
 
 ## 6.2 Metastatic Colorectal Cancer
 
 Monotherapy
 
-Table 6shows the adverse reactions occurring in ≥ 5% of patients from pooling the two phase 3 trials in first line metastatic colorectal cancer.
+Table 6 shows the adverse reactions occurring in ≥ 5% of patients from pooling the two phase 3 trials in first line metastatic colorectal cancer.
 A total of 596 patients with metastatic colorectal cancer were treated with 1250 mg/m2 twice a day of capecitabine administered for 2 weeks followed by a 1-week rest period, and 593 patients were administered 5-FU and leucovorin in the Mayo regimen (20 mg/m2 leucovorin IV followed by 425 mg/m2 IV bolus 5-FU, on days 1 to 5, every 28 days).
 In the pooled colorectal database the median duration of treatment was 139 days for capecitabine-treated patients and 140 days for 5-FU/LV-treated patients.
 A total of 78 (13%) and 63 (11%) capecitabine and 5-FU/LV-treated patients, respectively, discontinued treatment because of adverse reactions/intercurrent illness.
@@ -137,13 +137,15 @@ Table 6: Pooled Phase 3 Colorectal Trials: Percent Incidence of Adverse Reaction
 | Neutropenia | 13 | 1 | 2 | 46 | 8 | 13 |
 | Hepatobiliary |  |  |  |  |  |  |
 | Hyperbilirubinemia | 48 | 18 | 5 | 17 | 3 | 3 |
-| – Not observed NA = Not Applicable |  |  |  |  |  |  |
+| – Not observed |  |  |  |  |  |  |
+
+NA = Not Applicable
 
 ## 6.3 Breast Cancer
 
 In Combination with Docetaxel
 
-The following data are shown for the combination study with capecitabine and docetaxel in patients with metastatic breast cancer in Table 7 andTable 8.
+The following data are shown for the combination study with capecitabine and docetaxel in patients with metastatic breast cancer in Table 7 and Table 8.
 In the capecitabine and docetaxel combination arm the treatment was capecitabine administered orally 1250 mg/m2 twice daily as intermittent therapy (2 weeks of treatment followed by 1 week without treatment) for at least 6 weeks and docetaxel administered as a 1-hour intravenous infusion at a dose of 75 mg/m2 on the first day of each 3-week cycle for at least 6 weeks.
 In the monotherapy arm docetaxel was administered as a 1-hour intravenous infusion at a dose of 100 mg/m2 on the first day of each 3-week cycle for at least 6 weeks.
 The mean duration of treatment was 129 days in the combination arm and 98 days in the monotherapy arm.
@@ -253,51 +255,51 @@ A total of 13 out of 162 patients (8%) discontinued treatment because of adverse
 
 Table 9: Percent Incidence of Adverse Reactions Considered Remotely, Possibly or Probably Related to Treatment in ≥ 5% of Patients Participating in the Single Arm Trial in Stage IV Breast Cancer
 
-| Adverse Event | Phase 2 Trial in Stage IV Breast Cancer (n = 162) |  |  |
-| --- | --- | --- | --- |
-| Body System/Adverse Event | Total % | Grade 3 % | Grade 4 % |
-| GI |  |  |  |
-| Diarrhea | 57 | 12 | 3 |
-| Nausea | 53 | 4 | – |
-| Vomiting | 37 | 4 | – |
-| Stomatitis | 24 | 7 | – |
-| Abdominal Pain | 20 | 4 | – |
-| Constipation | 15 | 1 | – |
-| Dyspepsia | 8 | – | – |
-| Skin and Subcutaneous |  |  |  |
-| Hand-and-Foot Syndrome | 57 | 11 | NA |
-| Dermatitis | 37 | 1 | – |
-| Nail Disorder | 7 | – | – |
-| General |  |  |  |
-| Fatigue | 41 | 8 | – |
-| Pyrexia | 12 | 1 | – |
-| Pain in Limb | 6 | 1 | – |
-| Neurological |  |  |  |
-| Paresthesia | 21 | 1 | – |
-| Headache | 9 | 1 | – |
-| Dizziness | 8 | – | – |
-| Insomnia | 8 | – | – |
-| Metabolism |  |  |  |
-| Anorexia | 23 | 3 | – |
-| Dehydration | 7 | 4 | 1 |
-| Eye |  |  |  |
-| Eye Irritation | 15 | – | – |
-| Musculoskeletal |  |  |  |
-| Myalgia | 9 | – | – |
-| Cardiac |  |  |  |
-| Edema | 9 | 1 | – |
-| Blood |  |  |  |
-| Neutropenia | 26 | 2 | 2 |
-| Thrombocytopenia | 24 | 3 | 1 |
-| Anemia | 72 | 3 | 1 |
-| Lymphopenia | 94 | 44 | 15 |
-| Hepatobiliary |  |  |  |
-| Hyperbilirubinemia | 22 | 9 | 2 |
-| – Not observed NA = Not Applicable |  |  |  |
+| Adverse Event | Phase 2 Trial in Stage IV Breast Cancer (n = 162) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Body System/Adverse Event | Total % | Grade 3 % | Grade 4 % |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| GI |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Diarrhea | 57 | 12 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 53 | 4 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vomiting | 37 | 4 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Stomatitis | 24 | 7 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Abdominal Pain | 20 | 4 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Constipation | 15 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dyspepsia | 8 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Skin and Subcutaneous |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hand-and-Foot Syndrome | 57 | 11 | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dermatitis | 37 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nail Disorder | 7 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| General |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fatigue | 41 | 8 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pyrexia | 12 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pain in Limb | 6 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Neurological |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Paresthesia | 21 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Headache | 9 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | 8 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Insomnia | 8 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metabolism |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Anorexia | 23 | 3 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dehydration | 7 | 4 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Eye |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Eye Irritation | 15 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Myalgia | 9 | – | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cardiac |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Edema | 9 | 1 | – |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Blood |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Neutropenia | 26 | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Thrombocytopenia | 24 | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Anemia | 72 | 3 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Lymphopenia | 94 | 44 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hepatobiliary |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hyperbilirubinemia | 22 | 9 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| – Not observed NA = Not Applicable |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 6.4 Clinically Relevant Adverse Events in < 5% of Patients
 
-Clinically relevant adverse events reported in < 5% of patients treated with capecitabine either as monotherapy or in combination with docetaxol that were considered at least remotely related to treatment are shown below; occurrences of each grade 3 and 4 adverse event are provided in parentheses.
+Clinically relevant adverse events reported in < 5% of patients treated with capecitabine either as monotherapy or in combination with docetaxel that were considered at least remotely related to treatment are shown below; occurrences of each grade 3 and 4 adverse event are provided in parentheses.
 
 Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastatic Breast Cancer)
 
@@ -319,7 +321,7 @@ Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastati
 | Ear: | vertigo |
 | Hepatobiliary: | hepatic fibrosis (0.1%), hepatitis (0.1%), cholestatic hepatitis (0.1%), abnormal liver function tests |
 | Immune System: | drug hypersensitivity (0.1%) |
-| Postmarketing: | hepatic failure, lacrimal duct stenosis |
+| Postmarketing: | hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)] |
 
 Capecitabine In Combination With Docetaxel (Metastatic Breast Cancer)
 

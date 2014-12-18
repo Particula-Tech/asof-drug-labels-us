@@ -1,6 +1,6 @@
-# PRINCIPLE DISPLAY PANEL
+# Package/Label Display Panel
 
-## Capecitabine Tablets USP, 150 mg 60s Label Text
+## Capecitabine Tablets USP 150 mg 60s Label Text
 
 NDC 0093-7473-06
 
@@ -8,7 +8,9 @@ CAPECITABINE Tablets USP 150 mg
 
 Cytotoxic Agent
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
+PHARMACIST: PLEASE DISPENSE WITH
+
+ATTACHED PATIENT INFORMATION LEAFLET
 
 Rx only
 
@@ -16,9 +18,9 @@ Rx only
 
 TEVA
 
-# PRINCIPLE DISPLAY PANEL
+# Package/Label Display Panel
 
-## Capecitabine Tablets USP, 500 mg 120s Label Text
+## Capecitabine Tablets USP 500 mg 120s Label Text
 
 NDC 0093-7474-89
 
