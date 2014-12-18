@@ -16,10 +16,10 @@ Table 12 - Efficacy of Docetaxel Injection in the Treatment of Breast Cancer Pat
 | Efficacy Parameter | Docetaxel(n=203) |  | Mitomycin/Vinblastine(n=189) |  | p-value |
 | --- | --- | --- | --- | --- | --- |
 | Median Survival | 11.4 months |  | 8.7 months |  | p=0.01Log Rank |
-| Risk Ratio*, Mortality (Docetaxel: Control) 95% CI (Risk Ratio) | 0.73 0.58-0.93 |  |  |  |  |
+| Risk Ratio*, Mortality (Docetaxel: Control) 95% CI (Risk Ratio) | 0.73 0.58 to 0.93 |  |  |  |  |
 | Median Time to Progression | 4.3 months |  | 2.5 months |  | p=0.01 Log Rank |
 | Risk Ratio*, Progression(Docetaxel: Control) | 0.75 |  |  |  |  |
-| 95% CI (Risk Ratio) | 0.61-0.94 |  |  |  |  |
+| 95% CI (Risk Ratio) | 0.61 to 0.94 |  |  |  |  |
 | Overall Response RateComplete Response Rate | 28.1% 3.4% |  |  | 9.5% 1.6% | p<0.0001 Chi Square |
 
 *For the risk ratio, a value less than 1 favors docetaxel.
@@ -35,11 +35,11 @@ Table 13 - Efficacy of Docetaxel Injection in the Treatment of Breast Cancer Pat
 
 | Efficacy Parameter | Docetaxel (n=161) |  | Doxorubicin (n=165) | p-value |
 | --- | --- | --- | --- | --- |
-| Median Survival | 14.7 months |  | 14.3 months | p=0.39Log Rank |
-| Risk Ratio*, Mortality (Docetaxel: Control) 95% CI (Risk Ratio) | 0.89 0.68-1.16 |  |  |  |
-| Median Time to Progression | 6.5 months |  | 5.3 months | p=0.45Log Rank |
-| Risk Ratio*, Progression (Docetaxel: Control) 95% CI (Risk Ratio) | 0.93 0.71-1.16 |  |  |  |
-| Overall Response Rate Complete ResponseRate | 45.3%6.8% |  | 29.7%4.2% | p=0.004Chi Square |
+| Median Survival | 14.7 months |  | 14.3 months | p=0.39 Log Rank |
+| Risk Ratio*, Mortality (Docetaxel: Control) 95% CI (Risk Ratio) | 0.89 0.68 to 1.16 |  |  |  |
+| Median Time to Progression | 6.5 months |  | 5.3 months | p=0.45 Log Rank |
+| Risk Ratio*, Progression (Docetaxel: Control) 95% CI (Risk Ratio) | 0.93 0.71 to 1.16 |  |  |  |
+| Overall Response Rate Complete ResponseRate | 45.3%6.8% |  | 29.7%4.2% | p=0.004 Chi Square |
 
 *For the risk ratio, a value less than 1 favors docetaxel.
 
@@ -52,7 +52,7 @@ Single Arm Studies
 
 Docetaxel injection at a dose of 100 mg/m2 was studied in six single arm studies involving a total of 309 patients with metastatic breast cancer in whom previous chemotherapy had failed.
 Among these, 190 patients had anthracycline-resistant breast cancer, defined as progression during an anthracycline-containing chemotherapy regimen for metastatic disease, or relapse during an anthracycline-containing adjuvant regimen.
-In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95% C.I.: 31.0 to 44.8) and the complete response rate was 2.1%.
+In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95% C.I.: 31 to 44.8) and the complete response rate was 2.1%.
 
 Docetaxel injection was also studied in three single arm Japanese studies at a dose of 60 mg/m2, in 174 patients who had received prior chemotherapy for locally advanced or metastatic breast cancer.
 Among 26 patients whose best response to an anthracycline had been progression, the response rate was 34.6% (95% C.I.: 17.2 to 55.7), similar to the response rate in single arm studies of 100 mg/m2.
@@ -88,7 +88,7 @@ Table 14 - Subset Analyses-Adjuvant Breast Cancer Study
 |  |  | Disease Free Survival |  | Overall Survival |  |
 | No. of positive nodes |  |  |  |  |  |
 | Overall | 744 | 0.74 | (0.60, 0.92) | 0.69 | (0.53, 0.90) |
-| 1–3 | 467 | 0.64 | (0.47, 0.87) | 0.45 | (0.29, 0.70) |
+| 1 to 3 | 467 | 0.64 | (0.47, 0.87) | 0.45 | (0.29, 0.70) |
 | 4+ | 277 | 0.84 | (0.63, 1.12) | 0.93 | (0.66, 1.32) |
 | Receptor status |  |  |  |  |  |
 | Positive | 566 | 0.76 | (0.59, 0.98) | 0.69 | (0.48, 0.99) |
@@ -129,10 +129,10 @@ Table 15 - Efficacy of Docetaxel Injection in the Treatment of Non-Small Cell Lu
 | 95% CI | (5.5, 12.8) | (3.7, 6.1) | (5.1, 7.1) | (4.4, 7.9) |
 | % 1-year Survival | 37%**† | 12% | 30%**† | 20% |
 | 95% CI | (24, 50) | (2, 23) | (22, 39) | (13, 27) |
-| Time to Progression | 12.3 weeks** | 7.0 weeks | 8.3 weeks | 7.6 weeks |
-| 95% CI | (9.0, 18.3) | (6.0, 9.3) | (7.0, 11.7) | (6.7, 10.1) |
+| Time to Progression | 12.3 weeks** | 7 weeks | 8.3 weeks | 7.6 weeks |
+| 95% CI | (9, 18.3) | (6, 9.3) | (7, 11.7) | (6.7, 10.1) |
 | Response Rate | 5.5% | Not Applicable | 5.7% | 0.8% |
-| 95% CI | (1.1, 15.1) |  | (2.3, 11.3) | (0.0, 4.5) |
+| 95% CI | (1.1, 15.1) |  | (2.3, 11.3) | (0, 4.5) |
 
 * Vinorelbine/Ifosfamide
 
@@ -140,7 +140,7 @@ Table 15 - Efficacy of Docetaxel Injection in the Treatment of Non-Small Cell Lu
 
 † uncorrected for multiple comparisons;
 
-†† a value less than 1.00 favors docetaxel.
+†† a value less than 1 favors docetaxel.
 
 Only one of the two trials (TAX317) showed a clear effect on survival, the primary endpoint; that trial also showed an increased rate of survival to one year.
 In the second study (TAX320) the rate of survival at one year favored docetaxel injection 75 mg/m2.
@@ -177,7 +177,7 @@ A hazard ratio of less than 1 indicates that docetaxel injection+cisplatin is as
 
 cAdjusted for interim analysis and multiple comparisons.
 
-The second comparison in the same three-arm study, vinorelbine+cisplatin versus docetaxel injection+carboplatin, did not demonstrate superior survival associated with the docetaxel injection arm (Kaplan-Meier estimate of median survival was 9.1 months for docetaxel injection+carboplatin compared to 10.0 months on the vinorelbine+cisplatin arm) and the docetaxel injection+carboplatin arm did not demonstrate preservation of at least 50% of the survival effect of vinorelbine added to cisplatin.
+The second comparison in the same three-arm study, vinorelbine+cisplatin versus docetaxel injection+carboplatin, did not demonstrate superior survival associated with the docetaxel injection arm (Kaplan-Meier estimate of median survival was 9.1 months for docetaxel injection+carboplatin compared to 10 months on the vinorelbine+cisplatin arm) and the docetaxel injection+carboplatin arm did not demonstrate preservation of at least 50% of the survival effect of vinorelbine added to cisplatin.
 Secondary endpoints evaluated in the trial included objective response and time to progression.
 There was no statistically significant difference between docetaxel injection+cisplatin and vinorelbine+cisplatin with respect to objective response and time to progression (see Table 17).
 
@@ -195,7 +195,7 @@ b Kaplan-Meier estimates
 ## 14.4 Hormone Refractory Prostate Cancer
 
 The safety and efficacy of docetaxel injection in combination with prednisone in patients with androgen independent (hormone refractory) metastatic prostate cancer were evaluated in a randomized multicenter active control trial.
-A total of 1006 patients with Karnofsky Performance Status (KPS) ³60 were randomized to the following treatment groups:
+A total of 1006 patients with Karnofsky Performance Status (KPS) ≥ 60 were randomized to the following treatment groups:
 
 - Docetaxel injection 75 mg/m2every 3 weeks for 10 cycles.
 - Docetaxel injection 30 mg/m2administered weekly for the first 5 weeks in a 6-week cycle for 5 cycles.
@@ -211,7 +211,7 @@ Table 18 - Efficacy of Docetaxel Injection in the Treatment of Patients with And
 
 |  | Docetaxel Injection+ Prednisone every 3 weeks |  | Mitoxantrone+ Prednisone every 3 weeks |
 | --- | --- | --- | --- |
-| Number of patients Median survival (months) 95% CI Hazard ratio 95% CIp-value* | 335 18.9 (17.0-21.2) 0.761 (0.619-0.936) 0.0094 |  | 337 16.5 (14.4-18.6) -- -- -- |
+| Number of patients Median survival (months) 95% CI Hazard ratio 95% CIp-value* | 335 18.9 (17 to 21.2) 0.761 (0.619 to 0.936) 0.0094 |  | 337 16.5 (14.4 to 18.6) -- -- -- |
 
 *Stratified log rank test.
 Threshold for statistical significance = 0.0175 because of 3 arms.
@@ -263,7 +263,7 @@ Patients whose disease did not progress received radiotherapy (RT) according to 
 Patients on the comparator arm received cisplatin (P) 100 mg/m2 on Day 1, followed by fluorouracil (F) 1000 mg/m2/day as a continuous infusion on Days 1 to 5.
 The cycles were repeated every three weeks for 4 cycles.Patients whose disease did not progress received RT according to institutional guidelines (PF/RT).
 At the end of chemotherapy, with a minimal interval of 4 weeks and a maximal interval of 7 weeks, patients whose disease did not progress received radiotherapy (RT) according to institutional guidelines.
-Locoregional therapy with radiation was delivered either with a conventional fraction regimen (1.8 Gy-2.0 Gy once a day, 5 days per week for a total dose of 66 to 70 Gy) or with an accelerated/hyperfractionated regimen (twice a day, with a minimum interfraction interval of 6 hours, 5 days per week, for a total dose of 70 to 74 Gy, respectively).
+Locoregional therapy with radiation was delivered either with a conventional fraction regimen (1.8 Gy to 2 Gy once a day, 5 days per week for a total dose of 66 to 70 Gy) or with an accelerated/hyperfractionated regimen (twice a day, with a minimum interfraction interval of 6 hours, 5 days per week, for a total dose of 70 to 74 Gy, respectively).
 Surgical resection was allowed following chemotherapy, before or after radiotherapy.
 
 The primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p=0.0077 (median PFS: 11.4 vs. 8.3 months respectively) with an overall median follow up time of 33.7 months.
@@ -274,11 +274,11 @@ Table 20 - Efficacy of Docetaxel Injection in the induction treatment of patient
 
 | ENDPOINT | Docetaxel injection+ Cisplatin+ Fluorouracil n=177 | Cisplatin+ Fluorouracil n=181 |
 | --- | --- | --- |
-| Median progression free survival (months) (95%CI) Adjusted Hazard ratio (95%CI) *p-value | 11.4 (10.1 to 14.0) | 8.3 (7.4 o 9.1) |
+| Median progression free survival (months) (95%CI) Adjusted Hazard ratio (95%CI) *p-value | 11.4 (10.1 to 14) | 8.3 (7.4 to 9.1) |
 | 0.71 (0.56 to 0.91) 0.0077 |  |  |
-| Median survival (months) (95%CI) Hazard ratio (95%CI) **p-value | 18.6 (15.7 to 24.0) | 14.2 (11.5 to 18.7) |
+| Median survival (months) (95%CI) Hazard ratio (95%CI) **p-value | 18.6 (15.7 to 24) | 14.2 (11.5 to 18.7) |
 | 0.71 (0.56 to 0.90) 0.0055 |  |  |
-| Best overall response (CR + PR) to chemotherapy (%) (95%CI) ***p-value | 67.8 (60.4 to 74.6) | 53.6 (46 to 61.0) |
+| Best overall response (CR + PR) to chemotherapy (%) (95%CI) ***p-value | 67.8 (60.4 to 74.6) | 53.6 (46 to 61) |
 | 0.006 |  |  |
 | Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%) (95%CI) ***p-value | 72.3 (65.1 to 78.8) | 58.6 (51 to 65.8) |
 | 0.006 |  |  |

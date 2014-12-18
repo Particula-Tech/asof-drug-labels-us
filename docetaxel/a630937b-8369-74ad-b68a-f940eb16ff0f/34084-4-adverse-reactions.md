@@ -126,7 +126,7 @@ Severe nail disorders were characterized by hypo- or hyperpigmentation, and occa
 Neurologic ReactionsNeurologic reactions are discussed elsewhere in the label [see Warnings and Precautions (5.8)]
 
 Gastrointestinal ReactionsNausea, vomiting, and diarrhea were generally mild to moderate.
-Severe reactions occurred in 3­ 5% of patients with solid tumors and to a similar extent among metastatic breast cancer patients.
+Severe reactions occurred in 3­ to 5% of patients with solid tumors and to a similar extent among metastatic breast cancer patients.
 The incidence of severe reactions was 1% or less for the 92 breast cancer patients premedicated with 3-day corticosteroids.
 Severe stomatitis occurred in 5.5% of patients with solid tumors, in 7.4% of patients with metastatic breast cancer, and in 1.1% of the 92 breast cancer patients premedicated with 3-day corticosteroids.
 
@@ -213,8 +213,8 @@ Table 5 - Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously
 
 NA = not available
 
-In the three-arm monotherapy trial, TAX313, which compared docetaxel injection 60 mg/m2, 75 mg/m2 and 100 mg/m2 in advanced breast cancer, grade 3/4 or severe adverse reactions occurred in 49.0% of patients treated with docetaxel injection 60 mg/m2 compared to 55.3% and 65.9% treated with 75 mg/m2 and 100 mg/m2 respectively.Discontinuation due to adverse reactions was reported in 5.3% of patients treated with 60 mg/m2 vs. 6.9% and 16.5% for patients treated at 75 and 100 mg/m2 respectively.
-Deaths within 30 days of last treatment occurred in 4.0% of patients treated with 60 mg/m2 compared to 5.3% and 1.6% for patients treated at 75 mg/m2 and 100 mg/m2 respectively.The following adverse reactions were associated with increasing docetaxel doses: fluid retention (26%, 38%, and 46% at 60 mg/m2, 75 mg/m2, and 100 mg/m2 respectively), thrombocytopenia (7%, 11% and 12% respectively), neutropenia (92%, 94%, and 97% respectively), febrile neutropenia (5%, 7%, and 14% respectively), treatment-related grade 3/4 infection (2%, 3%, and 7% respectively) and anemia (87%, 94%, and 97% respectively).
+In the three-arm monotherapy trial, TAX313, which compared docetaxel injection 60 mg/m2, 75 mg/m2 and 100 mg/m2 in advanced breast cancer, grade 3/4 or severe adverse reactions occurred in 49% of patients treated with docetaxel injection 60 mg/m2 compared to 55.3% and 65.9% treated with 75 mg/m2 and 100 mg/m2 respectively.Discontinuation due to adverse reactions was reported in 5.3% of patients treated with 60 mg/m2 vs. 6.9% and 16.5% for patients treated at 75 and 100 mg/m2 respectively.
+Deaths within 30 days of last treatment occurred in 4% of patients treated with 60 mg/m2 compared to 5.3% and 1.6% for patients treated at 75 mg/m2 and 100 mg/m2 respectively.The following adverse reactions were associated with increasing docetaxel doses: fluid retention (26%, 38%, and 46% at 60 mg/m2, 75 mg/m2, and 100 mg/m2 respectively), thrombocytopenia (7%, 11% and 12% respectively), neutropenia (92%, 94%, and 97% respectively), febrile neutropenia (5%, 7%, and 14% respectively), treatment-related grade 3/4 infection (2%, 3%, and 7% respectively) and anemia (87%, 94%, and 97% respectively).
 
 Combination therapy with Docetaxel Injection in the adjuvant treatment of breast cancerThe following table presents treatment emergent adverse reactions observed in 744 patients, who were treated with docetaxel injection 75 mg/m² every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 6).
 
@@ -277,7 +277,7 @@ There were no septic deaths in either treatment arm.
 Gastrointestinal ReactionsIn addition to gastrointestinal reactions reflected in the table above, 7 patients in the TAC arm were reported to have colitis/enteritis/large intestine perforation vs. one patient in the FAC arm.
 Five of the 7 TAC-treated patients required treatment discontinuation; no deaths due to these events occurred.
 
-Cardiovascular ReactionsMore cardiovascular reactions were reported in the TAC arm vs. the FAC arm; dysrhythmias, all grades (7.9% vs. 6.0%), hypotension, all grades (2.6% vs. 1.1%) and CHF (2.3% vs. 0.9%, at 70 months median follow-up).
+Cardiovascular ReactionsMore cardiovascular reactions were reported in the TAC arm vs. the FAC arm; dysrhythmias, all grades (7.9% vs. 6%), hypotension, all grades (2.6% vs. 1.1%) and CHF (2.3% vs. 0.9%, at 70 months median follow-up).
 One patient in each arm died due to heart failure.
 
 Acute Myeloid Leukemia (AML)Treatment-related acute myeloid leukemia or myelodysplasia is known to occur in patients treated with anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
@@ -446,7 +446,7 @@ Table 8 - Adverse Reactions Regardless of Relationship to Treatment in Chemother
 | * Replaces NCI term "Allergy " † COSTART term and grading system |  |  |
 
 Deaths within 30 days of last study treatment occurred in 31 patients (7.6%) in the docetaxel+cisplatin arm and 37 patients (9.3%) in the vinorelbine+cisplatin arm.
-Deaths within 30 days of last study treatment attributed to study drug occurred in 9 patients (2.2%) in the docetaxel+cisplatin arm and 8 patients (2.0%) in the vinorelbine+cisplatin arm.The second comparison in the study, vinorelbine+cisplatin versus docetaxel injection+carboplatin (which did not demonstrate a superior survival associated with docetaxel injection, [see Clinical Studies (14.3)]) demonstrated a higher incidence of thrombocytopenia, diarrhea, fluid retention, hypersensitivity reactions, skin toxicity, alopecia and nail changes on the docetaxel injection+carboplatin arm, while a higher incidence of anemia, neurosensory toxicity, nausea, vomiting, anorexia and asthenia was observed on the vinorelbine+cisplatin arm.
+Deaths within 30 days of last study treatment attributed to study drug occurred in 9 patients (2.2%) in the docetaxel+cisplatin arm and 8 patients (2%) in the vinorelbine+cisplatin arm.The second comparison in the study, vinorelbine+cisplatin versus docetaxel injection+carboplatin (which did not demonstrate a superior survival associated with docetaxel injection, [see Clinical Studies (14.3)] demonstrated a higher incidence of thrombocytopenia, diarrhea, fluid retention, hypersensitivity reactions, skin toxicity, alopecia and nail changes on the docetaxel injection+carboplatin arm, while a higher incidence of anemia, neurosensory toxicity, nausea, vomiting, anorexia and asthenia was observed on the vinorelbine+cisplatin arm.
 
 Prostate CancerCombination therapy with Docetaxel Injection in patients with prostate cancerThe following data are based on the experience of 332 patients, who were treated with docetaxel injection 75 mg/m² every 3 weeks in combination with prednisone 5 mg orally twice daily (see Table 9).
 
@@ -615,7 +615,7 @@ Cases of cystoid macular edema (CME) have been reported in patients treated with
 
 Hearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
 
-Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis have rarely been reported and may be associated with fatal outcome.
+Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure and pulmonary fibrosis have rarely been reported and may be associated with fatal syndrome.
 Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
 
 Renal: renal insufficiency and renal failure have been reported, the majority of these cases were associated with concomitant nephrotoxic drugs.

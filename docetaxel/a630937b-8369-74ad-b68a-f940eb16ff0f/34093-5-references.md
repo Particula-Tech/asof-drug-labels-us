@@ -2,7 +2,7 @@
 
 1. NIOSH Alert: Preventing Occupational exposures to antineoplastic and other hazardous drugs in healthcare settings.
    2004.
-   U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention, National Institute for occupational Safety and Health, DHHS (NIOSH) Publication No. 2004-165.
+   U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention, National Institute for Occupational Safety and Health, DHHS (NIOSH) Publication No. 2004-165.
 2. OSHA Technical Manual, TED 1-0.15A, Section VI: Chapter 2.
    Controlling Occupational Exposure to Hazardous Drugs.
    OSHA, 1999.

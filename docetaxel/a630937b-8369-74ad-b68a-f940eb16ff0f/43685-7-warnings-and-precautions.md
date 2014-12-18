@@ -2,7 +2,7 @@
 
 ## 5.1 Toxic Deaths
 
-Breast CancerDocetaxel injection administered at 100 mg/m2 was associated with deaths considered possibly or probably related to treatment in 2.0% (19/965) of metastatic breast cancer patients, both previously treated and untreated, with normal baseline liver function and in 11.5% (7/61) of patients with various tumor types who had abnormal baseline liver function (AST and/or ALT >1.5 times ULN together with AP >2.5 times ULN).
+Breast CancerDocetaxel injection administered at 100 mg/m2 was associated with deaths considered possibly or probably related to treatment in 2% (19/965) of metastatic breast cancer patients, both previously treated and untreated, with normal baseline liver function and in 11.5% (7/61) of patients with various tumor types who had abnormal baseline liver function (AST and/or ALT >1.5 times ULN together with AP >2.5 times ULN).
 Among patients dosed at 60 mg/m2, mortality related to treatment occurred in 0.6% (3/481) of patients with normal liver function, and in 3 of 7 patients with abnormal liver function.
 Approximately half of these deaths occurred during the first cycle.
 Sepsis accounted for the majority of the deaths.
@@ -89,7 +89,16 @@ Alternative non-taxane cancer treatment should be considered.
 Severe asthenia has been reported in 14.9% (144/965) of metastatic breast cancer patients but has led to treatment discontinuation in only 1.8%.
 Symptoms of fatigue and weakness may last a few days up to several weeks and may be associated with deterioration of performance status in patients with progressive disease.
 
-## 5.11 Use in Pregnancy
+## 5.11 Alcohol Content
+
+Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
+The alcohol content in a dose of docetaxel injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
+Consideration should be given to the alcohol content in docetaxel injection on the ability to drive or use machines immediately after the infusion.
+Each administration of docetaxel injection at 100 mg/m2 delivers 2 g/m2 of ethanol.
+For a patient with a BSA of 2 m2, this would deliver 4 grams of ethanol [see Description (11)].
+Other docetaxel products may have a different amount of alcohol.
+
+## 5.12 Use in Pregnancy
 
 Docetaxel injection can cause fetal harm when administered to a pregnant woman.
 Docetaxel caused embryofetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.

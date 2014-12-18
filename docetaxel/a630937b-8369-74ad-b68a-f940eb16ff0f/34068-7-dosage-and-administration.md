@@ -44,7 +44,7 @@ All patients treated on the docetaxel injection containing arms of the TAX323 an
 
 All patients should be premedicated with oral corticosteroids (see below for prostate cancer) such as dexamethasone 16 mg per day (e.g., 8 mg twice daily) for 3 days starting 1 day prior to docetaxel injection administration in order to reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.4)].
 
-For hormone-refractory metastatic prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg, at 12 hours, 3 hours and 1 hour before the docetaxel injection infusion [see Warnings and Precautions (5.4)].
+For hormone-refractory metastatic prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg, at 12 hours, 3 hours and 1 hour before the docetaxel infusion [see Warnings and Precautions (5.4)].
 
 ## 2.7 Dosage Adjustments During Treatment
 
@@ -57,7 +57,7 @@ Combination Therapy with Docetaxel Injection in the Adjuvant Treatment of Breast
 Patients who experience febrile neutropenia should receive G-CSF in all subsequent cycles.
 Patients who continue to experience this reaction should remain on G-CSF and have their docetaxel injection dose reduced to 60 mg/m².
 Patients who experience grade 3 or 4 stomatitis should have their docetaxel injection dose decreased to 60 mg/m².
-Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during docetaxel injection therapy should have their dosage of docetaxel injection reduced from 75mg/m2 to 60 mg/m².
+Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during docetaxel injection therapy should have their dosage of docetaxel injection reduced from 75 mg/m2 to 60 mg/m².
 If the patient continues to experience these reactions at 60 mg/m², treatment should be discontinued.
 
 Non-Small Cell Lung CancerMonotherapy with Docetaxel Injection for NSCLC treatment after failure of prior platinum-based chemotherapy Patients who are dosed initially at 75 mg/m2 and who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions, or other grade 3/4 non-hematological toxicities during docetaxel injection treatment should have treatment withheld until resolution of the toxicity and then resumed at 55 mg/m2.
@@ -91,7 +91,7 @@ Table 1 - Recommended Dose Modifications for Toxicities in Patients Treated with
 | Stomatitis/mucositisgrade 3 |  | First episode: reduce fluorouracil dose by 20%.Second episode: stop fluorouracil only, at all subsequent cycles. Third episode: reduce docetaxel injection dose by 20%. |
 | Stomatitis/mucositisgrade 4 |  | First episode: stop fluorouracil only, at all subsequent cycles.Second episode: reduce docetaxel injection dose by 20%. |
 
-Liver dysfunction:In case of AST/ALT >2.5 to £5 x ULN and AP £ 2.5 x ULN, or AST/ALT >1.5 to £ 5 x ULN and AP >2.5 to £5 x ULN, docetaxel injection should be reduced by 20%.
+In case of AST/ALT >2.5 to ≤5 x ULN and AP ≤ 2.5 x ULN, or AST/ALT >1.5 to ≤ 5 x ULN and AP >2.5 to ≤5 x ULN, docetaxelinjection should be reduced by 20%.≤5 x ULN and AP ≤ 2.5 x ULN, or AST/ALT >1.5 to ≤ 5 x ULN and AP >2.5 to ≤5 x ULN, docetaxelinjection should be reduced by 20%.
 
 In case of AST/ALT >5 x ULN and/or AP >5 x ULN docetaxel injection should be stopped.The dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided below:
 
@@ -151,17 +151,17 @@ Please follow the preparation instructions provided below.
 
 DO NOT use the two-vial formulation (Injection Concentrate and diluent) with the one-vial formulation.
 
-One-vial Docetaxel Injection USP Formulation
+One-vial Docetaxel Injection USP
 
 Docetaxel Injection, (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
-Use only a 21 gauge needle to withdraw docetaxel from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
+Use only a 21 gauge needle to withdraw docetaxel injection from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
 
 1.
 Docetaxel vials should be stored between 2 and 25°C (36 and 77°F).
 If the vials are stored under refrigeration, allow the appropriate number of vials of docetaxel injection, vials to stand at room temperature for approximately 5 minutes before use.
 
 2.
-Using only a 21 gauge needle, aseptically withdraw the required amount of docetaxel injection, (20 mg docetaxel/mL) with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+Using only a 21 gauge needle, aseptically withdraw the required amount of docetaxel injection, (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection (one shot) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
 If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel is not exceeded
 
 3.

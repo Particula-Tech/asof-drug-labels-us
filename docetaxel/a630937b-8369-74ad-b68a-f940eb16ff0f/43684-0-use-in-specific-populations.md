@@ -18,17 +18,19 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
+The alcohol content in docetaxel injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.11)].
+
 The efficacy of docetaxel injection in pediatric patients as monotherapy or in combination has not been established.
 The overall safety profile of docetaxel injection in pediatric patients receiving monotherapy or TCF was consistent with the known safety profile in adults.
 Docetaxel injection has been studied in a total of 289 pediatric patients: 239 in 2 trials with monotherapy and 50 in combination treatment with cisplatin and 5-fluoruracil (TCF).
 
 Docetaxel Injection Monotherapy:
 
-Docetaxel injection monotherapy was evaluated in a dose-finding phase 1 trial in 61 pediatric patients (median age 12.5 years, range 1-22 years) with a variety of refractory solid tumors.
+Docetaxel injection monotherapy was evaluated in a dose-finding phase 1 trial in 61 pediatric patients (median age 12.5 years, range 1 to 22 years) with a variety of refractory solid tumors.
 The recommended dose was 125 mg/m2 as a 1-hour intravenous infusion every 21 days.
 The primary dose limiting toxicity was neutropenia.
 
-The recommended dose for docetaxel injection monotherapy was evaluated in a phase 2 single-arm trial in 178 pediatric patients (median age 12 years, range 1-26 years) with a variety of recurrent/refractory solid tumors.Efficacy was not established with tumor response rates ranging from one complete response (CR) (0.6%) in a patient with undifferentiated sarcoma to four partial responses (2.2%) seen in one patient each with Ewing Sarcoma, neuroblastoma, osteosarcoma, and squamous cell carcinoma.
+The recommended dose for docetaxel injection monotherapy was evaluated in a phase 2 single-arm trial in 178 pediatric patients (median age 12 years, range 1 to 26 years) with a variety of recurrent/refractory solid tumors.Efficacy was not established with tumor response rates ranging from one complete response (CR) (0.6%) in a patient with undifferentiated sarcoma to four partial responses (2.2%) seen in one patient each with Ewing Sarcoma, neuroblastoma, osteosarcoma, and squamous cell carcinoma.
 
 Docetaxel Injection in Combination
 
@@ -78,3 +80,5 @@ Other reported clinical experience with this treatment regimen has not identifie
 
 Patients with bilirubin >ULN should not receive docetaxel injection.
 Also, patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN should not receive docetaxel injection [see Boxed Warning, Warnings and Precautions (5.2)],Clinical Pharmacology (12.3)].
+
+The alcohol content in docetaxel injection should be taken intoaccount when given to patients with hepatic impairment [see Warnings and Precautions (5.11)]
