@@ -2,7 +2,7 @@
 
 When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
 
-## 5.1 Clinical Worsening and Suicide Risk
+## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients with Major Depressive Disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -139,6 +139,7 @@ SNRIs and SSRIs, including fluoxetine, may increase the risk of bleeding reactio
 Concomitant use of aspirin, non-steroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.8 Angle-Closure Glaucoma

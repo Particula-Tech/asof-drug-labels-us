@@ -92,7 +92,7 @@ All brand names listed are the registered trademarks of their respective owners 
 Manufactured In Poland By: PLIVA Krakow Pharmaceutical Company S.A.
 Krakow, Poland
 
-Manufactured For: TEVA PHARMACEUTICALS USA Sellersville, PA 18960
+Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
 
 Rev.
-F 7/2014
+G 10/2014
