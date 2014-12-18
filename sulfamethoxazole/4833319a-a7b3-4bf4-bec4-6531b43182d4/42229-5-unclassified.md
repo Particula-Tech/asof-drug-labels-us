@@ -2,6 +2,6 @@ Rx only
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of sulfamethoxazole and trimethoprim tablets and other antibacterial drugs, sulfamethoxazole and trimethoprim tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-Manufactured by: MUTUAL PHARMACEUTICAL COMPANY, INC. Philadelphia, PA 19124 USA
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Rev 05, July 2013
+Rev 06, October 2014
