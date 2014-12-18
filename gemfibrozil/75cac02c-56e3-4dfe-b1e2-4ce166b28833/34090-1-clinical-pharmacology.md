@@ -55,7 +55,7 @@ Table III Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths and All-Cause Morta
 | All-Cause Mortality | 101 | 83 | 1.20 | 0. 90 to 1.61 |
 
 1Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions.
-2 Hazard ratio for risk event in the group originally randomized to gemfibrozil tablets compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study condition.
+2 Hazard ratio for risk event in the group originally randomized to gemfibrozil tablets compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study conditions.
 3 95% confidence intervals of gemfibrozil tablets:placebo group hazard ratio 4 Fatal and non-fatal myocardial infarctions plus sudden cardiac deaths over the 8.5 year period.
 It is not clear to what extent the findings of the primary prevention component of the Helsinki Heart Study can be extrapolated to other segments of the dyslipidemic population not studied (such as women, younger or older males, or those with lipid abnormalities limited solely to HDL-cholesterol) or to other lipid-altering drugs.
 

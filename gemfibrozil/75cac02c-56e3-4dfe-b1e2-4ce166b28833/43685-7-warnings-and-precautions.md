@@ -39,8 +39,8 @@ Since a reduction of mortality from coronary heart disease has not been demonstr
 If a significant serum lipid response is not obtained, gemfibrozil should be discontinued.
 
 4.
-Concomitant Anticoagulants-Caution should be exercised when anticoagulants are given in conjunction with gemfibrozil.
-The dosage of the anticoagulant should be reduced to maintain the prothrombin time at the desired level to prevent bleeding complications.
+Concomitant Anticoagulants-Caution should be exercised when warfarin is given in conjunction with gemfibrozil.
+The dosage of warfarin should be reduced to maintain the prothrombin time at the desired level to prevent bleeding complications.
 Frequent prothrombin determinations are advisable until it has been definitely determined that the prothrombin level has stabilized.
 
 5.
@@ -67,7 +67,7 @@ Periodic determination of serum lipids should be obtained, and the drug withdraw
 
 ## 3. Drug Interactions
 
-### (A) HMG-CoA reductase inhibitors:
+### (A) HMG-CoA Reductase Inhibitors:
 
 The concomitant administration of gemfibrozil with simvastatin is contraindicated (see CONTRAINDICATIONS and WARNINGS).
 The risk of myopathy and rhabdomyolysis is increased with combined gemfibrozil and HMG-CoA reductase inhibitor therapy.
@@ -76,8 +76,8 @@ There is no assurance that periodic monitoring of creatine kinase will prevent t
 
 ### (B) Anti-coagulants:
 
-CAUTION SHOULD BE EXERCISED WHEN ANTI-COAGULANTS ARE GIVEN IN CONJUNCTION WITH GEMFIBROZIL.
-THE DOSAGE OF THE ANTICOAGULANT SHOULD BE REDUCED TO MAINTAIN THE PROTHROMBIN TIME AT THE DESIRED LEVEL TO PREVENT BLEEDING COMPLICATIONS.
+CAUTION SHOULD BE EXERCISED WHEN WARFARIN IS GIVEN IN CONJUNCTION WITH GEMFIBROZIL.
+THE DOSAGE OF WARFARIN SHOULD BE REDUCED TO MAINTAIN THE PROTHROMBIN TIME AT THE DESIRED LEVEL TO PREVENT BLEEDING COMPLICATIONS.
 FREQUENT PROTHROMBIN DETERMINATIONS ARE ADVISABLE UNTIL IT HAS BEEN DEFINITELY DETERMINED THAT THE PROTHROMBIN LEVEL HAS STABILIZED.
 
 ### (C) Repaglinide:
