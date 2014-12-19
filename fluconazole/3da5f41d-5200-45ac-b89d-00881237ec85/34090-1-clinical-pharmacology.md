@@ -167,7 +167,7 @@ Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that
 Quinidine: Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
 Use of quinidine has been associated with QT prolongation and rare occurrences of torsades de pointes.
 Coadministration of fluconazole and quinidine is contraindicated.
-(See CONTRAINDICATIONS and PRECAUTIONS.)
+(See CONTRAINDICATIONSand PRECAUTIONS.)
 
 Oral hypoglycemics: The effects of fluconazole on the pharmacokinetics of the sulfonylurea oral hypoglycemic agents tolbutamide, glipizide, and glyburide were evaluated in three placebo-controlled studies in normal volunteers.
 All subjects received the sulfonylurea alone as a single dose and again as a single dose following the administration of fluconazole 100 mg daily for 7 days.
@@ -199,7 +199,7 @@ Cisapride 20 mg four times daily was started after 7 days of fluconazole or plac
 Following a single dose of fluconazole, there was a 101% increase in the cisapride AUC and a 91% increase in the cisapride Cmax.
 Following multiple doses of fluconazole, there was a 192% increase in the cisapride AUC and a 154% increase in the cisapride Cmax.
 Fluconazole significantly increased the QTc interval in subjects receiving cisapride 20 mg four times daily for 5 days.
-(See CONTRAINDICATIONS and PRECAUTIONS.)
+(See CONTRAINDICATIONSand PRECAUTIONS.)
 
 Midazolam: The effect of fluconazole on the pharmacokinetics and pharmacodynamics of midazolam was examined in a randomized, cross-over study in 12 volunteers.
 In the study, subjects ingested placebo or 400 mg fluconazole on Day 1 followed by 200 mg daily from Day 2 to Day 6.
@@ -315,7 +315,7 @@ One such standardized procedure2 requires the use of standardized inoculum conce
 This procedure uses paper disks impregnated with 25 μg of fluconazole to test the susceptibility of yeasts to fluconazole.
 Disk diffusion interpretive criteria are also provided in Table 1.
 
-Table 1: Susceptibility Interpretive Criteria for Fluconazole
+Table 1: Susceptibility Interpretive Criteria for Fluconazole against Candida species
 
 |  | Broth Dilution at 48 hours (MIC in μg/mL) |  |  | Disk Diffusion at 24 hours (Zone Diameters in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -326,9 +326,11 @@ Table 1: Susceptibility Interpretive Criteria for Fluconazole
 
 ** The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for fluconazole.
 
-The susceptible category implies that isolates are inhibited by the usually achievable concentrations of antifungal agent tested when the recommended dosage is used.
-The intermediate category implies that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
-The resistant category implies that isolates are not inhibited by the usually achievable concentrations of the agent with normal dosage schedules and clinical efficacy of the agent against the isolate has not been reliably shown in treatment studies.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+
+A report of Intermediate (I) indicates that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
+
+A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 ## Quality Control
 
