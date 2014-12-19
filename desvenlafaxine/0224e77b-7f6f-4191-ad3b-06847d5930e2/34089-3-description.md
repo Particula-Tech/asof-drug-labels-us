@@ -7,6 +7,8 @@ Desvenlafaxine is designated RS-4-[2-dimethylamino-1-(1-hydroxycyclohexyl)ethyl]
 Desvenlafaxine has a molecular weight of 263.38.
 The structural formula is shown below.
 
+* Chiral Centre
+
 Desvenlafaxine is a white to off-white crystalline powder that is sparingly soluble in dimethyl sulfoxide.
 The solubility of desvenlafaxine is pH dependent.
 

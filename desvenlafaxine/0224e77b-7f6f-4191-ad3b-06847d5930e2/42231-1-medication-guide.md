@@ -10,21 +10,21 @@ Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Sui
 
 Talk to your healthcare provider about:
 
-- all risks and benefits of treatment with antidepressant medicines
-- all treatment choices for depression or other serious mental illness
+- •all risks and benefits of treatment with antidepressant medicines
+- •all treatment choices for depression or other serious mental illness
 
 ### What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-   Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. How can I watch for and try to prevent suicidal thoughts and actions?
+- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+- 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+  Some people may have a particularly high risk of having suicidal thoughts or actions.
+  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+- 3.How can I watch for and try to prevent suicidal thoughts and actions?
 
-- Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+- •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
-- Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-- Keep all follow-up visits with the healthcare provider as scheduled.
+- •Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+- •Keep all follow-up visits with the healthcare provider as scheduled.
   Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you have any of the following symptoms, especially if they are new, worse, or worry you:
@@ -39,55 +39,56 @@ Call a healthcare provider right away if you have any of the following symptoms,
 
 ### What else do I need to know about antidepressant medicines?
 
-- Never stop an antidepressant medicine without first talking to a healthcare provider.
+- • Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
-- Antidepressants are medicines used to treat depression and other illnesses.
+- • Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- Antidepressant medicines have other side effects.
+- •Antidepressant medicines have other side effects.
   Talk to the healthcare provider about the side effects of this medicine.
-- Antidepressant medicines can interact with other medicines.
+- •Antidepressant medicines can interact with other medicines.
   Know all of the medicines that you take.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
-- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
+- •Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
 
 ### What is KHEDEZLA?
 
 - KHEDEZLA is a prescription medicine used to treat depression.
-  KHEDEZLA belongs to a class of medicines known as SNRIs (or serotonin-norepinephrine reuptake inhibitors).It is not known if KHEDEZLA is safe and effective for use in children.
+  KHEDEZLA belongs to a class of medicines known as SNRIs (or serotonin-norepinephrine reuptake inhibitors).
+- It is not known if KHEDEZLA is safe and effective for use in children.
 
 ### Who should not take KHEDEZLA?
 
 ### Do not take KHEDEZLA if you:
 
-- are allergic to desvenlafaxine, venlafaxine or any of the ingredients in KHEDEZLA.
+- •are allergic to desvenlafaxine, venlafaxine or any of the ingredients in KHEDEZLA.
   See the end of this Medication Guide for a complete list of ingredients in KHEDEZLA.
-- take a monoamine oxidase inhibitor (MAOI).
+- • take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid and the intravenous medicine methylene blue.
-- have taken an MAOI within 7 days of stopping KHEDEZLA unless directed by your healthcare provider.
-- have started KHEDEZLA and if you stopped taking an MAOI in the last 14 days unless directed by your healthcare provider.
+- •have taken an MAOI within 7 days of stopping KHEDEZLA unless directed by your healthcare provider.
+- •have started KHEDEZLA and if you stopped taking an MAOI in the last 14 days unless directed by your healthcare provider.
 
 ### What should I tell my healthcare provider before taking KHEDEZLA?
 
 Tell your healthcare provider about all your medical conditions, including if you:
 
-- have high blood pressure
-- have heart problems
-- have high cholesterol or high triglycerides
-- have a history of a stroke
-- have or had depression, suicidal thoughts or behavior
-- have glaucoma
-- have kidney problems
-- have liver problems
-- have or had bleeding problems
-- have or had seizures or convulsions
-- have mania or bipolar disorder
-- have low sodium levels in your blood
-- are pregnant or plan to become pregnant.
+- •have high blood pressure
+- •have heart problems
+- •have high cholesterol or high triglycerides
+- •have a history of a stroke
+- •have or had depression, suicidal thoughts or behavior
+- •have glaucoma
+- •have kidney problems
+- •have liver problems
+- •have or had bleeding problems
+- •have or had seizures or convulsions
+- •have mania or bipolar disorder
+- •have low sodium levels in your blood
+- •are pregnant or plan to become pregnant.
   It is not known if KHEDEZLA will harm your unborn baby.
-- are breastfeeding.
+- •are breastfeeding.
   KHEDEZLA can pass into your breast milk and may harm your baby.
   Talk with your healthcare provider about the best way to feed your baby if you take KHEDEZLA.
 
@@ -97,13 +98,14 @@ Rare, but potentially life-threatening conditions called serotonin syndrome can 
 Serotonin syndrome can cause serious changes in how your brain, muscles, heart and blood vessels, and digestive system work.
 Especially tell your healthcare provider if you take the following:
 
-- medicines to treat migraine headaches known as triptans
-- medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), or other dopamine antagonists, such as metoclopramide
-- silbutramine
-- tramadol
-- St. John’s Wort
-- MAOIs (including linezolid, an antibiotic and intravenous methylene blue)
-- tryptophan supplements
+- •medicines to treat migraine headaches known as triptans
+- •medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), or other dopamine antagonists, such as metoclopramide
+- •silbutramine
+- •tramadol
+- •St.
+  John’s Wort
+- •MAOIs (including linezolid, an antibiotic and intravenous methylene blue)
+- •tryptophan supplements
 
 Ask your healthcare provider if you are not sure if you are taking any of these medicines.
 
@@ -114,24 +116,24 @@ Do not take KHEDEZLA with other medicines containing venlafaxine or desvenlafaxi
 
 ### How should I take KHEDEZLA?
 
-- Take KHEDEZLA exactly as your healthcare provider has told you.
-- Take KHEDEZLA at about the same time each day.
-- KHEDEZLA may be taken either with or without food.
-- Swallow KHEDEZLA tablets whole, with fluid.
+- •Take KHEDEZLA exactly as your healthcare provider has told you.
+- •Take KHEDEZLA at about the same time each day.
+- •KHEDEZLA may be taken either with or without food.
+- •Swallow KHEDEZLA tablets whole, with fluid.
   Do not crush, cut, chew, or dissolve KHEDEZLA tablets because the tablets are time-released.
-- When you take KHEDEZLA, you may see something in your stool that looks like a tablet.
+- •When you take KHEDEZLA, you may see something in your stool that looks like a tablet.
   This is the empty shell from the tablet after the medicine has been absorbed by your body.
-- It is common for antidepressant medicines such as KHEDEZLA to take several weeks before you start to feel better.
+- •It is common for antidepressant medicines such as KHEDEZLA to take several weeks before you start to feel better.
   Do not stop taking KHEDEZLA if you do not feel results right away.
-- Do not stop taking or change the dose of KHEDEZLA without talking with your healthcare provider, even if you feel better.
-- Talk with your healthcare provider about how long you should use KHEDEZLA.
+- •Do not stop taking or change the dose of KHEDEZLA without talking with your healthcare provider, even if you feel better.
+- •Talk with your healthcare provider about how long you should use KHEDEZLA.
   Take KHEDEZLA for as long as your healthcare provider tells you to.
-- If you miss a dose of KHEDEZLA, take it as soon as you remember.
+- •If you miss a dose of KHEDEZLA, take it as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Do not try to “make up” for the missed dose by taking two doses at the same time.
-- Do not take more KHEDEZLA than prescribed by your healthcare provider.
+- •Do not take more KHEDEZLA than prescribed by your healthcare provider.
   If you take more KHEDEZLA than the amount prescribed, contact your healthcare provider right away.
-- If you take too much KHEDEZLA, call the Poison Control Center at 1-800-222-1222 or go to the nearest hospital emergency room right away.
+- •If you take too much KHEDEZLA, call the Poison Control Center at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 
 Switching from other antidepressants
 
@@ -140,15 +142,15 @@ Your doctor may gradually reduce the dose of your initial antidepressant medicat
 
 ### What should I avoid while taking KHEDEZLA?
 
-- Do not drive a car or operate machinery until you know how KHEDEZLA affects you.
-- Avoid drinking alcohol while taking KHEDEZLA.
+- •Do not drive a car or operate machinery until you know how KHEDEZLA affects you.
+- •Avoid drinking alcohol while taking KHEDEZLA.
 
 ### What are the possible side effects of KHEDEZLA?
 
 ### KHEDEZLA can cause serious side effects, including:
 
-- See the beginning of this Medication Guide - Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions.
-- Serotonin syndrome.
+- •See the beginning of this Medication Guide - Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions.
+- •Serotonin syndrome.
   See “What should I tell my healthcare provider before taking KHEDEZLA?”
 
 Get medical help right away if you think that you have these syndromes.
@@ -177,22 +179,12 @@ Signs and symptoms of these syndromes may include one or more of the following:
   Your healthcare provider may want to decrease your dose slowly to help avoid side effects.
   Some of these side effects may include:
 
-| dizziness | anxiety |
+| • dizziness | • anxiety |
 | --- | --- |
-| nausea | abnormal dreams |
-| headache | tiredness |
-| irritability | sweating |
-| sleeping problems (insomnia) | diarrhea |
-
-- Seizures (convulsions)
-- Low sodium levels in your blood.
-  Symptoms of this may include: headache, difficulty concentrating, memory changes, confusion, weakness and unsteadiness on your feet.
-  In severe or more sudden cases, symptoms can include: hallucinations (seeing or hearing things that are not real), fainting, seizures and coma.
-  If not treated, severe low sodium levels could be fatal.
-- Lung problems.
-  Some people who have taken the medicine venlafaxine which is the same kind of medicine as the medicine in KHEDEZLA have had lung problems.
-  Symptoms of lung problems include difficulty breathing, cough, or chest discomfort.
-  Tell your healthcare provider right away if you have any of these symptoms.
+| • nausea | • abnormal dreams |
+| • headache | • tiredness |
+| • irritability | • sweating |
+| • sleeping problems (insomnia) | • diarrhea |
 
 Common side effects with KHEDEZLA include:
 
@@ -211,10 +203,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 ### How should I store KHEDEZLA?
 
-- Store KHEDEZLA at room temperature between 68°F to 77°F (20°C to 25°C).
-- Do not use KHEDEZLA after the expiration date (EXP), which is on the container.
+- •Store KHEDEZLA at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Do not use KHEDEZLA after the expiration date (EXP), which is on the container.
   The expiration date refers to the last day of that month.
-- Keep KHEDEZLA and all medicines out of the reach of children.
+- •Keep KHEDEZLA and all medicines out of the reach of children.
 
 ### General Information about the safe and effective use of KHEDEZLA
 
@@ -235,8 +227,8 @@ Active ingredient: desvenlafaxine
 
 Inactive ingredients:
 
-- 50 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, talc, magnesium stearate, colloidal silicon dioxide and film coating, which consist of titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, and iron oxides
-- 100 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, colloidal silicon dioxide, talc, magnesium stearate, and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, iron oxides and FD&C yellow #6
+- •50 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, talc, magnesium stearate, colloidal silicon dioxide and film coating, which consist of titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, and iron oxides
+- •100 mg tablet: citric acid monohydrate, hypromellose, microcrystalline cellulose, colloidal silicon dioxide, talc, magnesium stearate, and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, talc, polyvinyl alcohol, iron oxides and FD&C yellow #6
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

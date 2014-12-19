@@ -2,17 +2,17 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
-- Hypersensitivity [see Contraindications (4)]
-- Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see Warnings and Precautions (5.1)]
-- Serotonin Syndrome [see Warnings and Precautions (5.2)]
-- Elevated Blood Pressure [see Warnings and Precautions (5.3)]
-- Abnormal Bleeding [see Warnings and Precautions (5.4)]
-- Narrow-Angle Glaucoma [see Warnings and Precautions (5.5)]
-- Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
-- Discontinuation Syndrome [see Warnings and Precautions (5.7)]
-- Seizure [see Warnings and Precautions (5.8)]
-- Hyponatremia [see Warnings and Precautions (5.9)]
-- Interstitial Lung Disease and Eosinophilic Pneumonia [see Warnings and Precautions (5.10)]
+- •Hypersensitivity [see Contraindications (4)]
+- •Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see Warnings and Precautions (5.1)]
+- •Serotonin Syndrome [see Warnings and Precautions (5.2)]
+- •Elevated Blood Pressure [see Warnings and Precautions (5.3)]
+- •Abnormal Bleeding [see Warnings and Precautions (5.4)]
+- •Narrow-Angle Glaucoma [see Warnings and Precautions (5.5)]
+- •Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
+- •Discontinuation Syndrome [see Warnings and Precautions (5.7)]
+- •Seizure [see Warnings and Precautions (5.8)]
+- •Hyponatremia [see Warnings and Precautions (5.9)]
+- •Interstitial Lung Disease and Eosinophilic Pneumonia [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Studies Experience
 
