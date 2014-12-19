@@ -5,7 +5,9 @@ Peripheral actions include elevations of systolic and diastolic blood pressures 
 
 There is neither specific evidence which clearly establishes the mechanism whereby amphetamines produce mental and behavioral effects in children, nor conclusive evidence regarding how these effects relate to the condition of the central nervous system.
 
-Pharmacokinetics – The pharmacokinetics of the tablet and sustained-release capsule were compared in 12 healthy subjects.
+Pharmacokinetics
+
+The pharmacokinetics of the tablet and sustained-release capsule were compared in 12 healthy subjects.
 The extent of bioavailability of the sustained-release capsule was similar compared to the immediate-release tablet.
 Following administration of three 5 mg tablets, average maximal dextroamphetamine plasma concentrations (Cmax) of 36.6 ng/mL were achieved at approximately 3 hours.
 Following administration of one 15 mg sustained-release capsule, maximal dextroamphetamine plasma concentrations were obtained approximately 8 hours after dosing.
