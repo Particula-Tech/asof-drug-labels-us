@@ -32,7 +32,8 @@ The NCEP treatment guidelines are summarized below.
 | NO | NO | ≥190 (≥4.9) | <160 (<4.1) |
 | NO | YES | ≥160 (≥4.1) | <130 (<3.4) |
 | YES | YES or NO | ≥130 (≥3.4) | ≤100 (≤2.6) |
-| *Coronary heart disease or peripheral vascular disease (including symptomatic carotid artery disease).**Other risk factors for coronary heart disease (CHD) include: age (males ≥45 years; females ≥55 years or premature menopause without estrogen replacement therapy); family history of premature CHD; current cigarette smoking; hypertension; confirmed HDL-C <35 mg/dL (<0.91 mmol/L); and diabetes mellitus. Subtract one risk factor if HDL-C is ≥60 mg/dL (≥1.6 mmol/L). |  |  |  |
+| *Coronary heart disease or peripheral vascular disease (including symptomatic carotid artery disease). |  |  |  |
+| **Other risk factors for coronary heart disease (CHD) include: age (males ≥45 years; females ≥55 years or premature menopause without estrogen replacement therapy); family history of premature CHD; current cigarette smoking; hypertension; confirmed HDL-C <35 mg/dL (<0.91 mmol/L); and diabetes mellitus. Subtract one risk factor if HDL-C is ≥60 mg/dL (≥1.6 mmol/L). |  |  |  |
 
 1) QUESTRAN monotherapy has been demonstrated to retard the rate of progression 2,3 and increase the rate of regression3 of coronary atherosclerosis.
 
