@@ -34,7 +34,7 @@ The safety and effectiveness of Jakafi in pediatric patients have not been estab
 
 ## 8.5 Geriatric Use
 
-Of the total number of myelofibrosis patients in clinical studies with Jakafi, 51.9% were 65 years of age and older.
+Of the total number of myelofibrosis patients in clinical studies with Jakafi, 52% were 65 years of age and older.
 No overall differences in safety or effectiveness of Jakafi were observed between these patients and younger patients.
 
 ## 8.6 Renal Impairment
@@ -48,7 +48,9 @@ This was most marked in the subjects with end stage renal disease requiring hemo
 The change in the pharmacodynamic marker, pSTAT3 inhibition, was consistent with the corresponding increase in metabolite exposure.
 Ruxolitinib is not removed by dialysis; however, the removal of some active metabolites by dialysis cannot be ruled out.
 
-When administering Jakafi to patients with moderate (CrCl 30-59 mL/min) or severe renal impairment (CrCl 15-29 mL/min) with a platelet count between 100 X 109/L and 150 X 109/L and patients with end stage renal disease on dialysis a dose reduction is recommended [see Dosage and Administration (2.8)].
+When administering Jakafi to patients with myelofibrosis and moderate (CrCl 30-59 mL/min) or severe renal impairment (CrCl 15-29 mL/min) with a platelet count between 50 X 109/L and 150 X 109/L, a dose reduction is recommended.
+A dose reduction is also recommended for patients with polycythemia vera and moderate (CrCl 30-59 mL/min) or severe renal impairment (CrCl 15-29 mL/min).
+In all patients with end stage renal disease on dialysis, a dose reduction is recommended [see Dosage and Administration (2.4)].
 
 ## 8.7 Hepatic Impairment
 
@@ -57,4 +59,5 @@ The mean AUC for ruxolitinib was increased by 87%, 28% and 65%, respectively, in
 The terminal elimination half-life was prolonged in patients with hepatic impairment compared to healthy controls (4.1-5.0 hours versus 2.8 hours).
 The change in the pharmacodynamic marker, pSTAT3 inhibition, was consistent with the corresponding increase in ruxolitinib exposure except in the severe (Child-Pugh C) hepatic impairment cohort where the pharmacodynamic activity was more prolonged in some subjects than expected based on plasma concentrations of ruxolitinib.
 
-When administering Jakafi to patients with any degree of hepatic impairment and with a platelet count between 100 X 109/L and 150 X 109/L, a dose reduction is recommended [see Dosage and Administration (2.8)].
+When administering Jakafi to patients with myelofibrosis and any degree of hepatic impairment and with a platelet count between 50 X 109/L and 150 X 109/L, a dose reduction is recommended.
+A dose reduction is also recommended for patients with polycythemia vera and hepatic impairment [see Dosage and Administration (2.4)].

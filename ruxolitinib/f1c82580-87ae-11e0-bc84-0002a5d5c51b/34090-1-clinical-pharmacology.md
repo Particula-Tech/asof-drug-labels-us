@@ -5,13 +5,13 @@
 Ruxolitinib, a kinase inhibitor, inhibits Janus Associated Kinases (JAKs) JAK1 and JAK2 which mediate the signaling of a number of cytokines and growth factors that are important for hematopoiesis and immune function.
 JAK signaling involves recruitment of STATs (signal transducers and activators of transcription) to cytokine receptors, activation and subsequent localization of STATs to the nucleus leading to modulation of gene expression.
 
-Myelofibrosis (MF) is a myeloproliferative neoplasm (MPN) known to be associated with dysregulated JAK1 and JAK2 signaling.
+Myelofibrosis (MF) and polycythemia vera (PV) are myeloproliferative neoplasms (MPN) known to be associated with dysregulated JAK1 and JAK2 signaling.
 In a mouse model of JAK2V617F-positive MPN, oral administration of ruxolitinib prevented splenomegaly, preferentially decreased JAK2V617F mutant cells in the spleen and decreased circulating inflammatory cytokines (eg, TNF-α, IL-6).
 
 ## 12.2 Pharmacodynamics
 
-Ruxolitinib inhibits cytokine induced STAT3 phosphorylation in whole blood from healthy subjects and MF patients.
-Jakafi administration resulted in maximal inhibition of STAT3 phosphorylation 2 hours after dosing which returned to near baseline by 10 hours in both healthy subjects and myelofibrosis patients.
+Ruxolitinib inhibits cytokine induced STAT3 phosphorylation in whole blood from healthy subjects and MF and PV patients.
+Jakafi administration resulted in maximal inhibition of STAT3 phosphorylation 2 hours after dosing which returned to near baseline by 10 hours in both healthy subjects and MF and PV patients.
 
 ## 12.3 Pharmacokinetics
 
@@ -24,7 +24,7 @@ There were no clinically relevant changes in the pharmacokinetics of ruxolitinib
 
 Distribution
 
-The apparent volume of distribution of ruxolitinib at steady-state is 53 to 65 L in myelofibrosis patients.
+The mean volume of distribution at steady-state is 72 L in MF patients with an associated inter-subject variability of 29% and 75 L in PV patients with an associated inter-subject variability of 23%.
 Binding to plasma proteins in vitro is approximately 97%, mostly to albumin.
 
 Metabolism
@@ -40,15 +40,16 @@ The mean elimination half-life of ruxolitinib is approximately 3 hours and the m
 Effects of Age, Gender, or Race
 
 In healthy subjects, no significant differences in ruxolitinib pharmacokinetics were observed with regard to gender and race.
-In a population pharmacokinetic evaluation in myelofibrosis patients, no relationship was apparent between oral clearance and patient age or race, and in women, clearance was 17.7 L/h and in men, 22.1 L/h with 39% inter-subject variability.
+In a population pharmacokinetic evaluation in MF patients, no relationship was apparent between oral clearance and patient age or race, and in women, clearance was 17.7 L/h and in men, 22.1 L/h with 39% inter-subject variability.
+Clearance was 12.7 L/h in PV patients, with a 42% inter-subject variability, and no relationship was apparent between oral clearance and gender, patient age or race in this patient population.
 
 Drug Interactions
 
-Strong CYP3A4 inhibitors: In a trial of 16 healthy volunteers, a single dose of 10 mg of Jakafi was administered alone on Day 1and a single dose of 10 mg of Jakafi was administered on Day 5 in combination with 200 mg of ketoconazole (a strong CYP3A4 inhibitor, given twice daily on Days 2 to 5).
+Strong CYP3A4 inhibitors: In a trial of 16 healthy volunteers, a single dose of 10 mg of Jakafi was administered alone on Day 1 and a single dose of 10 mg of Jakafi was administered on Day 5 in combination with 200 mg of ketoconazole (a strong CYP3A4 inhibitor, given twice daily on Days 2 to 5).
 Ketoconazole increased ruxolitinib Cmax and AUC by 33% and 91%, respectively.
-Ketoconazole also prolonged ruxolitinib half-life from 3.7 to 6.0 hours [see Dosage and Administration (2.7) and Drug Interactions (7.1)].
+Ketoconazole also prolonged ruxolitinib half-life from 3.7 to 6.0 hours [see Dosage and Administration (2.3) and Drug Interactions (7.1)].
 
-Fluconazole: Simulations using physiologically-based pharmacokinetic (PBPK) models suggested that fluconazole (a dual CYP3A4 and CYP2C9 inhibitor) increases steady state ruxolitinib AUC by approximately 100% to 300% following concomitant administration of 10 mg of Jakafi twice daily with 100 mg to 400 mg of fluconazole once daily, respectively [see Dosage and Administration (2.7) and Drug Interactions (7.1)].
+Fluconazole: Simulations using physiologically-based pharmacokinetic (PBPK) models suggested that fluconazole (a dual CYP3A4 and CYP2C9 inhibitor) increases steady state ruxolitinib AUC by approximately 100% to 300% following concomitant administration of 10 mg of Jakafi twice daily with 100 mg to 400 mg of fluconazole once daily, respectively [see Dosage and Administration (2.3) and Drug Interactions (7.1)].
 
 Mild or moderate CYP3A4 inhibitors: In a trial of 15 healthy volunteers, a single dose of 10 mg of Jakafi was administered alone on Day 1 and a single dose of 10 mg of Jakafi was administered on Day 5 in combination with 500 mg of erythromycin (a moderate CYP3A4 inhibitor, given twice daily on Days 2 to 5).
 Erythromycin increased ruxolitinib Cmax and AUC by 8% and 27%, respectively [see Drug Interactions (7.1)].

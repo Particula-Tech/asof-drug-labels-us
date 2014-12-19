@@ -2,36 +2,46 @@
 
 See FDA-approved patient labeling (Patient Information).
 
-Discuss the following with patients prior to treatment with Jakafi:
+Discuss the following with patients prior to and during treatment with Jakafi:
 
-## 17.1 Thrombocytopenia, Anemia and Neutropenia
+Thrombocytopenia, Anemia and Neutropenia
 
 Inform patients that Jakafi is associated with thrombocytopenia, anemia and neutropenia, and of the need to monitor complete blood counts before and during treatment.
 Advise patients to observe for and report bleeding.
 
-## 17.2 Infections
+Infections
 
 Inform patients of the signs and symptoms of infection and to report any such signs and symptoms promptly.
 
 Inform patients regarding the early signs and symptoms of herpes zoster and of progressive multifocal leukoencephalopathy, and advise patients to seek advice of a clinician if such symptoms are observed.
 
-## 17.3 Drug-drug Interactions
+Symptom Exacerbation Following Interruption or Discontinuation of Treatment with Jakafi
+
+Inform patients that after discontinuation of treatment, signs and symptoms from myeloproliferative neoplasms are expected to return.
+Instruct patients not to interrupt or discontinue Jakafi therapy without consulting their physician.
+
+Non-Melanoma Skin Cancer
+
+Inform patients that Jakafi may increase their risk of certain non-melanoma skin cancers.
+Advise patients to inform their healthcare provider if they have ever had any type of skin cancer or if they observe any new or changing skin lesions.
+
+Drug-drug Interactions
 
 Advise patients to inform their healthcare providers of all medications they are taking, including over-the-counter medications, herbal products and dietary supplements.
 
-## 17.4 Dialysis
+Dialysis
 
 Inform patients on dialysis that their dose should not be taken before dialysis but only following dialysis.
 
-## 17.5 Compliance
+Compliance
 
-Patients should be advised to continue taking Jakafi every day for as long as their physician tells them and that this is a long-term treatment.
+Advise patients to continue taking Jakafi every day for as long as their physician tells them and that this is a long-term treatment.
 Patients should not change dose or stop taking Jakafi without first consulting their physician.
-Patients should be aware that after discontinuation of treatment, myelofibrosis signs and symptoms are expected to return.
+Patients should be aware that after discontinuation of treatment, signs and symptoms from myeloproliferative neoplasms are expected to return.
 
-Manufactured for: Incyte Corporation Wilmington, DE 19880
+Manufactured for: Incyte Corporation Wilmington, DE 19803
 
-Jakafi is a registered trademark of Incyte Corporation.
+Jakafi is a registered trademark of Incyte.
 All rights reserved.
-U.S. Patent No. 7,598,257; 8,415,362; 8,722,693 © 2011-2014 Incyte Corporation.
+U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 8829013 © 2011-2014 Incyte Corporation.
 All rights reserved.

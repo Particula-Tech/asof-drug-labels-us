@@ -1,8 +1,10 @@
 Patient Information
 
-Jakafi® (JAK-ah-fye)
+JAKAFI® (JAK-ah-fye)
 
-(ruxolitinib) Tablets
+(ruxolitinib)
+
+tablets
 
 Read this Patient Information before you start taking Jakafi and each time you get a refill.
 There may be new information.
@@ -10,7 +12,9 @@ This information does not take the place of talking to your healthcare provider 
 
 What is Jakafi?
 
-Jakafi is a prescription medicine used to treat people with intermediate or high-risk myelofibrosis, including primary myelofibrosis, post-polycythemia vera myelofibrosis and post-essential thrombocythemia myelofibrosis.
+Jakafi is a prescription medicine used to treat certain types of myelofibrosis.
+
+Jakafi is also used to treat people with polycythemia vera who have already taken a medicine called hydroxyurea and it did not work well enough or they could not tolerate it.
 
 It is not known if Jakafi is safe or effective in children.
 
@@ -18,19 +22,21 @@ What should I tell my healthcare provider before taking Jakafi?
 
 Before taking Jakafi, tell your healthcare provider if you:
 
-- have an infection.
-- have or have had liver or kidney problems.
-- are on dialysis.
-  Jakafi should be taken after your dialysis.
-- have any other medical conditions.
-- are pregnant, or plan to become pregnant.
+- have an infection
+- have or had tuberculosis (TB), or have been in close contact with someone who has TB
+- have or have had liver problems
+- have or have had kidney problems or are on dialysis.
+  If you are on dialysis, Jakafi should be taken after your dialysis
+- have had skin cancer in the past
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
   It is not known if Jakafi will harm your unborn baby.
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   It is not known if Jakafi passes into your breast milk.
-  You and your healthcare provider should decide if you will take Jakafi or breast-feed.
+  You and your healthcare provider should decide if you will take Jakafi or breastfeed.
   You should not do both.
 
-Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all the medicines you take including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Taking Jakafi with certain other medicines may affect how Jakafi works.
 
 Especially tell your healthcare provider if you take medicine for:
@@ -67,7 +73,7 @@ What are the possible side effects of Jakafi?
 Jakafi can cause serious side effects including:
 
 Low blood cell counts: Jakafi may cause low platelet counts (thrombocytopenia), low red blood cell counts (anemia), and low white blood cell counts (neutropenia).
-If you develop bleeding, stop Jakafi and call your doctor.
+If you develop bleeding, stop Jakafi and call your healthcare provider.
 Your healthcare provider will do a blood test to check your blood cell counts before you start Jakafi and regularly during your treatment with Jakafi.
 Tell your healthcare provider right away if you develop any of these symptoms:
 
@@ -77,8 +83,8 @@ Tell your healthcare provider right away if you develop any of these symptoms:
 - shortness of breath
 - fever
 
-Infection: You may be at risk for developing a serious infection while taking Jakafi.
-Tell your healthcare provider if you have:
+Infection: You may be at risk for developing a serious infection during treatment with Jakafi.
+Tell your healthcare provider if you develop any of the following symptoms of infection:
 
 - chills
 - aches
@@ -88,8 +94,14 @@ Tell your healthcare provider if you have:
 - weakness
 - painful skin rash or blisters
 
+Skin cancers: Some people who take Jakafi have developed certain types of non-melanoma skin cancers.
+Tell your healthcare provider if you develop any new or changing skin lesions during treatment with Jakafi.
+
 The most common side effects of Jakafi include:
 
+- anemia
+- low platelet count
+- bruising
 - dizziness
 - headache
 
@@ -99,13 +111,15 @@ These are not all the possible side effects of Jakafi.
 Ask your healthcare provider or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to Incyte Corporation at 1-855-463-3463 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+You may also report side effects to Incyte Corporation at 1-855-463-3463.
 
 How should I store Jakafi?
 
-- Store Jakafi at room temperature between 68°F and 77°F (20°C and 25°C).
+- Store Jakafi at room temperature between 68°F to 77°F (20°C to 25°C).
 
-Keep this and all medicines out of the reach of children.
+Keep Jakafi and all medicines out of the reach of children.
 
 General information about the safe and effective use of Jakafi:
 
@@ -116,21 +130,25 @@ It may harm them.
 
 This Patient Information leaflet summarizes the most important information about Jakafi.
 If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information that is written for healthcare professionals.
+You can ask your pharmacist or healthcare provider for information that is written for healthcare professionals.
 
 For more information call 1-855-463-3463 or go to www.jakafi.com.
 
 What are the ingredients in Jakafi?
 
-Active ingredient: ruxolitinib.
+Active ingredient: ruxolitinib phosphate
 
-Inactive ingredients: microcrystalline cellulose, lactose monohydrate, magnesium stearate, colloidal silicon dioxide, sodium starch glycolate, povidone and hydroxypropyl cellulose.
+Inactive ingredients: microcrystalline cellulose, lactose monohydrate, magnesium stearate, colloidal silicon dioxide, sodium starch glycolate, povidone and hydroxypropyl cellulose
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Jakafi is a registered trademark of Incyte Corporation.
-All rights reserved.
-U.S. Patent No. 7,598,257; 8,415,362; 8,722,693 © 2011-2014 Incyte Corporation.
-All rights reserved.
+Manufactured for: Incyte Corporation Wilmington, DE 19803
 
-Issued: July 2014
+Revised: December 2014
+
+Jakafi is a registered trademark of Incyte.
+All rights reserved.
+U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 8829013
+
+© 2011-2014 Incyte Corporation.
+All rights reserved.

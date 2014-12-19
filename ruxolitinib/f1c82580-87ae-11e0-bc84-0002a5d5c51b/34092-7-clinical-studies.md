@@ -1,5 +1,7 @@
 # 14. CLINICAL STUDIES
 
+## 14.1 Myelofibrosis
+
 Two randomized Phase 3 studies (Studies 1 and 2) were conducted in patients with myelofibrosis (either primary myelofibrosis, post-polycythemia vera myelofibrosis or post-essential thrombocythemia-myelofibrosis).
 In both studies, patients had palpable splenomegaly at least 5 cm below the costal margin and risk category of intermediate 2 (2 prognostic factors) or high risk (3 or more prognostic factors) based on the International Working Group Consensus Criteria (IWG).
 
@@ -42,17 +44,17 @@ A secondary endpoint in Study 2 was the proportion of patients achieving a 35% o
 
 Study 1 and 2 Efficacy Results
 
-Efficacy analyses of the primary endpoint in Studies 1 and 2 are presented in Table 7 below.
+Efficacy analyses of the primary endpoint in Studies 1 and 2 are presented in Table 14 below.
 A significantly larger proportion of patients in the Jakafi group achieved a 35% or greater reduction in spleen volume from baseline in both studies compared to placebo in Study 1 and best available therapy in Study 2.
 A similar proportion of patients in the Jakafi group achieved a 50% or greater reduction in palpable spleen length.
 
-Table 7: Percent of Patients with 35% or Greater Reduction from Baseline in Spleen Volume at Week 24 in Study 1 and at Week 48 in Study 2 (Intent to Treat)
+Table 14: Percent of Patients with Myelofibrosis Achieving 35% or Greater Reduction from Baseline in Spleen Volume at Week 24 in Study 1 and at Week 48 in Study 2 (Intent to Treat)
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
 |  | Jakafi (N=155) | Placebo (N=154) | Jakafi (N=146) | Best Available Therapy (N=73) |
 | Time Points | Week 24 |  | Week 48 |  |
-| Number (%) of Patients with Spleen Volume Reduction by 35% or More | 65 (41.9) | 1 (0.7) | 41 (28.5) | 0 |
+| Number (%) of Patients with Spleen Volume Reduction by 35% or More | 65 (42) | 1 (<1) | 41 (29) | 0 |
 | P-value | < 0.0001 |  | < 0.0001 |  |
 
 Figure 1 shows the percent change from baseline in spleen volume for each patient at Week 24 (Jakafi N=139, placebo N=106) or the last evaluation prior to Week 24 for patients who did not complete 24 weeks of randomized treatment (Jakafi N=16, placebo N=47).
@@ -63,15 +65,15 @@ The modified MFSAF is a daily diary capturing the core symptoms of myelofibrosis
 Symptom scores ranged from 0 to 10 with 0 representing symptoms "absent" and 10 representing "worst imaginable" symptoms.
 These scores were added to create the daily total score, which has a maximum of 60.
 
-Table 8 presents assessments of Total Symptom Score from baseline to Week 24 in Study 1 including the proportion of patients with at least a 50% reduction (ie, improvement in symptoms).
+Table 15 presents assessments of Total Symptom Score from baseline to Week 24 in Study 1 including the proportion of patients with at least a 50% reduction (ie, improvement in symptoms).
 At baseline, the mean Total Symptom Score was 18.0 in the Jakafi group and 16.5 in the placebo group.
 A higher proportion of patients in the Jakafi group had a 50% or greater reduction in Total Symptom Score than in the placebo group, with a median time to response of less than 4 weeks.
 
-Table 8: Improvement in Total Symptom Score
+Table 15: Improvement in Total Symptom Score in Patients with Myelofibrosis
 
 |  | Jakafi (N=148) | Placebo (N=152) |
 | --- | --- | --- |
-| Number (%) of Patients with 50% or Greater Reduction in Total Symptom Score by Week 24 | 68 (45.9) | 8 (5.3) |
+| Number (%) of Patients with 50% or Greater Reduction in Total Symptom Score by Week 24 | 68 (46) | 8 (5) |
 | P-value | < 0.0001 |  |
 
 Figure 2 shows the percent change from baseline in Total Symptom Score for each patient at Week 24 (Jakafi N=129, placebo N=103) or the last evaluation on randomized therapy prior to Week 24 for patients who did not complete 24 weeks of randomized treatment (Jakafi N=16, placebo N=42).
@@ -83,3 +85,43 @@ Overall survival was a secondary endpoint in both Study 1 and Study 2.
 Patients in the control groups were eligible for crossover in both studies, and the median times to crossover were 9 months in Study 1 and 17 months in Study 2.
 
 Figure 4 and Figure 5 show Kaplan-Meier curves of overall survival at prospectively planned analyses after all patients remaining on study had completed 144 weeks on study.
+
+## 14.2 Polycythemia Vera
+
+Study 3 was a randomized, open-label, active-controlled Phase 3 study conducted in 222 patients with polycythemia vera.
+Patients had been diagnosed with polycythemia vera for at least 24 weeks, had an inadequate response to or were intolerant of hydroxyurea, required phlebotomy and exhibited splenomegaly.
+All patients were required to demonstrate hematocrit control between 40-45% prior to randomization.
+The age ranged from 33 to 90 years with 30% of patients over 65 years of age and 66% were male.
+Patients had a median spleen volume as measured by MRI or CT of 1272 cm3 (range 254 cm3 to 5147 cm3) and median palpable spleen length below the costal margin was 7 cm.
+
+Patients were randomized to Jakafi or best available therapy.
+The starting dose of Jakafi was 10 mg twice daily.
+Doses were then individualized based upon tolerability and efficacy with a maximum dose of 25 mg twice daily.
+At Week 32, 98 patients were still on Jakafi with 8% receiving greater than 20 mg twice daily, 15% receiving 20 mg twice daily, 33% receiving 15 mg twice daily, 34% receiving 10 mg twice daily, and 10% receiving less than 10 mg twice daily.
+Best available therapy (BAT) was selected by the investigator on a patient-by-patient basis and included hydroxyurea (60%), interferon/pegylated interferon (12%), anagrelide (7%), pipobroman (2%), lenalidomide/thalidomide (5%), and observation (15%).
+
+The primary endpoint was the proportion of subjects achieving a response at Week 32, with response defined as having achieved both hematocrit control (the absence of phlebotomy eligibility beginning at the Week 8 visit and continuing through Week 32) and spleen volume reduction (a greater than or equal to 35% reduction from baseline in spleen volume at Week 32).
+Phlebotomy eligibility was defined as a confirmed hematocrit greater than 45% that is at least 3 percentage points higher than the hematocrit obtained at baseline or a confirmed hematocrit greater than 48%, whichever was lower.
+Secondary endpoints included the proportion of all randomized subjects who achieved the primary endpoint and who maintained their response 48 weeks after randomization, and the proportion of subjects achieving complete hematological remission at Week 32 with complete hematological remission defined as achieving hematocrit control, platelet count less than or equal to 400 X 109/L, and white blood cell count less than or equal to 10 X 109/L.
+
+Results of the primary and secondary endpoints are presented in Table 16.
+A significantly larger proportion of patients in the Jakafi group achieved a response for the primary endpoint compared to best available therapy at Week 32 and maintained their response 48 weeks after randomization.
+A significantly larger proportion of patients in the Jakafi group compared to best available therapy also achieved complete hematological remission at Week 32.
+
+Table 16: Percent of Patients with Polycythemia Vera Achieving the Primary and Key Secondary Endpoints (Intent to Treat)
+
+|  | Jakafi (N=110) | Best Available Therapy (N=112) |  |  |
+| --- | --- | --- | --- | --- |
+| Number (%) of Patients Achieving a Primary Response at Week 32 | 23 (21%) | 1 (<1%) |  |  |
+| 95% CI of the response rate (%) | (14%, 30%) | (0%, 5%) |  |  |
+| P-value | < 0.0001 |  |  |  |
+| Number (%) of Patients Achieving a Durable Primary Response at Week 48 | 21 (19%) | 1 (<1%) |  |  |
+| 95% CI of the response rate (%) | (12%, 28%) | (0%, 5%) |  |  |
+| P-value | < 0.0001 |  |  |  |
+| Number (%) of Patients Achieving Complete Hematological Remission at Week 32 | 26 (24%) | 10 (9%) |  |  |
+| 95% CI of the response rate (%) | (16%, 33%) | (4%, 16%) |  |  |
+| P-value | 0.0034 |  |  |  |
+| Primary Response defined as having achieved both the absence of phlebotomy eligibility beginning at the Week 8 visit and continuing through Week 32 and a greater than or equal to 35% reduction from baseline in spleen volume at Week 32. |  |  |  |  |
+
+For the proportion of patients achieving each of the individual components that make up the primary endpoint at Week 32, there were 60% of the patients with hematocrit control in the Jakafi group vs. 20% of the patients in the best available therapy group.
+There were 38% of the patients with spleen volume reduction from baseline greater than or equal to 35% at Week 32 in the Jakafi group vs. less than 1% of the patients in the best available therapy group.
