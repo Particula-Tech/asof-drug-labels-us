@@ -17,6 +17,6 @@
 
 SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in China ©2014 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) By Jiangsu Hengrui Medicine Co., Ltd. Lianyungang, Jiangsu 222047, China ©2014 Sagent Pharmaceuticals, Inc.
 
-March 2014
+Revised: September 2014
