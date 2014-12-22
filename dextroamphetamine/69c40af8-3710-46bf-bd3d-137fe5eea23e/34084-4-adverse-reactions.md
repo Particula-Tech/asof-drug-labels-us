@@ -6,4 +6,5 @@ Central Nervous System – Psychotic episodes at recommended doses (rare), overs
 Gastrointestinal – Dryness of the mouth, unpleasant taste, diarrhea, constipation, other gastrointestinal disturbances.
 Anorexia and weight loss may occur as undesirable effects.
 Allergic – Urticaria.
-Endocrine – Impotence, changes in libido.
+
+Endocrine – Impotence, changes in libido, frequent or prolonged erections.

@@ -1,8 +1,45 @@
 # MEDICATION GUIDE
 
-Dextroamphetamine Sulfate Extended-Release Capsules CII Read the Medication Guide that comes with dextroamphetamine sulfate extended-release capsules before you or your child starts taking it and each time you get a refill.
+Dextroamphetamine Sulfate Extended-Release Capsules (DEX-troe-am-FET-uh-meen SULL-fate) CII Read the Medication Guide that comes with dextroamphetamine sulfate extended-release capsules before you or your child starts taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with dextroamphetamine sulfate extended-release capsules.
+
+What is the most important information I should know about Dextroamphetamine Sulfate Extended-Release Capsules?
+The following have been reported with use of dextroamphetamine sulfate extended-release capsules and other stimulant medicines.
+1.
+Heart-related problems:
+
+- sudden death in patients who have heart problems or heart defects
+- stroke and heart attack in adults
+- increased blood pressure and heart rate
+
+Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
+Your doctor should check you or your child carefully for heart problems before starting dextroamphetamine sulfate extended-release capsules.
+Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with dextroamphetamine sulfate extended-release capsules.
+Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking dextroamphetamine sulfate extended-release capsules.
+2.
+Mental (Psychiatric) problems: All Patients
+
+- new or worse behavior and thought problems
+- new or worse bipolar illness
+- new or worse aggressive behavior or hostility
+
+Children and Teenagers
+
+- new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms
+
+Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
+Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking dextroamphetamine sulfate extended-release capsules, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
+
+3.
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]:
+
+- fingers or toes may feel numb, cool, painful
+- fingers or toes may change color from pale, to blue, to red
+
+Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.
+
+Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking dextroamphetamine sulfate extended-release capsules.
 
 What are Dextroamphetamine Sulfate Extended-Release Capsules?
 Dextroamphetamine sulfate extended-release capsules are a central nervous system stimulant prescription medicine.
@@ -10,6 +47,11 @@ It is used for the treatment of Attention-Deficit Hyperactivity Disorder (ADHD).
 Dextroamphetamine sulfate extended-release capsules may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
 Dextroamphetamine sulfate extended-release capsules should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
 Dextroamphetamine sulfate extended-release capsules are also used in the treatment of a sleep disorder called narcolepsy.
+
+Dextroamphetamine sulfate extended-release capsules are a federally controlled substance (CII) because it can be abused or lead to dependence.
+Keep dextroamphetamine sulfate extended-release capsules in a safe place to prevent misuse and abuse.
+Selling or giving away dextroamphetamine sulfate extended-release capsules may harm others, and is against the law.
+Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs.
 
 Who should not take Dextroamphetamine Sulfate Extended-Release Capsules?
 Dextroamphetamine sulfate extended-release capsules should not be taken if you or your child:
@@ -24,7 +66,6 @@ Dextroamphetamine sulfate extended-release capsules should not be taken if you o
 - is sensitive to, allergic to, or had a reaction to other stimulant medicines
 
 Dextroamphetamine sulfate extended-release capsules are not recommended for use in children younger than 6 years old.
-
 Dextroamphetamine sulfate extended-release capsules may not be right for you or your child.
 Before starting dextroamphetamine sulfate extended-release capsules tell your or your child’s doctor about all health conditions (or a family history of) including:
 
@@ -33,6 +74,7 @@ Before starting dextroamphetamine sulfate extended-release capsules tell your or
 - tics or Tourette’s syndrome
 - thyroid problems
 - seizures or have had an abnormal brain wave test (EEG)
+- circulation problems in fingers and toes
 
 Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
 
@@ -78,8 +120,15 @@ Other serious side effects include:
 
 Common side effects include:
 
-| fast heartbeattremorstrouble sleepingstomach upsetdry mouth | decreased appetiteheadachedizzinessweight loss |
-| --- | --- |
+- fast heartbeat
+- tremors
+- trouble sleeping
+- stomach upset
+- dry mouth
+- decreased appetite
+- headache
+- dizziness
+- weight loss
 
 Dextroamphetamine sulfate extended-release capsules may affect your or your child’s ability to drive or do other dangerous activities.
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
@@ -110,6 +159,12 @@ Inactive Ingredients: sugar spheres, titanium dioxide, gelatin, shellac glaze-45
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mallinckrodt Inc. Hazelwood, MO 63042 USA Rev 01/2011
+Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-Mallinckrodt COVIDIENTM
+© 2014 Mallinckrodt.
+
+Mallinckrodt Inc. Hazelwood, MO 63042 USA
+
+Rev 10/2014
+
+Mallinckrodt™ Pharmaceuticals
