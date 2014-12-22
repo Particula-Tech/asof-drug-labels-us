@@ -1,13 +1,13 @@
-# Principal display panel- tablets
+# Package/Label Display Panel - Carton
 
 Rx Only
 
-Levocetirizine Dihydrochloride Tablets 5 mg
+NDC 45802-680-28
 
-For oral administration
+Levocetirizine Dihydrochloride Oral Solution
 
-# principal display panel- solution
+2.5 mg/5 mL
 
-Rx Only
+(0.5 mg/mL)
 
-Levocetirizine Dihydrochloride Oral Solution 2.5 mg/5 mL (0.5 mg/mL)
+5 FL OZ (148 mL)

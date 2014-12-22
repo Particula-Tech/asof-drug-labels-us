@@ -1,29 +1,19 @@
-Tablets Manufactured by:
+Made in Israel
 
-Rottendorf Pharma GmbH
-
-Ennigerloh, Germany
-
-Made in Germany
-
-Oral Solution Manufactured by:
-
-Perrigo Israel Pharmaceuticals Ltd.
+Manufactured By Perrigo
 
 Yeruham 80500, Israel
 
-Made in Israel
+Distributed By
 
-Tablets and Oral Solution Distributed by:
-
-Perrigo
+Perrigo®
 
 Allegan, MI 49010
 
 www.perrigo.com
 
-Issue Date: 04/2011
+Rev 09-14
 
-PI-5016-0
+PI-5018-1
 
-4T800 RC J1
+4T800 RC J3

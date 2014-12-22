@@ -9,8 +9,8 @@ Observed reactions range from urticaria to anaphylaxis [see Adverse Reactions (6
 
 ## 4.2 Patients with end-stage renal disease
 
-Patients with end-stage renal disease (CLCR < 10 mL/min) and patients undergoing hemodialysis
+Patients with end-stage renal disease (CLCR < 10 mL/min) and patients undergoing hemodialysis.
 
 ## 4.3 Pediatric patients with impaired renal function
 
-Children 6 months to 11 years of age with impaired renal function
+Children 6 months to 11 years of age with impaired renal function.

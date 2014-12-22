@@ -18,14 +18,22 @@ One trial was 2 weeks in duration conducted in patients with seasonal allergic r
 In these trials, each of the three doses of levocetirizine dihydrochloride demonstrated greater decrease in the reflective total symptom score than placebo and the difference was statistically significant for all three doses in two of the studies.
 Results for two of these trials are shown in Table 4.
 
+Table 4 Mean Reflective Total Symptom Score* in Allergic Rhinitis Dose-Ranging Trials
+
+*Total symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale.
+
 One clinical trial was designed to evaluate the efficacy of levocetirizine dihydrochloride 5 mg once daily in the evening compared with placebo in patients with seasonal allergic rhinitis over a 2-week treatment period.
-In this trial, levocetirizine dihydrochloride 5 mg demonstrated a greater decrease from baseline in the reflective and instantaneous total symptom score than placebo, and the difference was statistically significant (see Table 6).
+In this trial, levocetirizine dihydrochloride 5 mg demonstrated a greater decrease from baseline in the reflective and instantaneous total symptom score than placebo, and the difference was statistically significant (see Table 5).
 The results of the instantaneous total symptom score support efficacy at the end of the dosing interval.
 
 One clinical trial evaluated the efficacy of levocetirizine dihydrochloride 5 mg once daily in the evening compared to placebo in patients with perennial allergic rhinitis over a 6-week treatment period.
 Another trial conducted over a 6-month treatment period assessed efficacy at 4 weeks.
 Levocetirizine dihydrochloride 5 mg demonstrated a greater decrease from baseline in the reflective total symptom score than placebo and the difference from placebo was statistically significant.
 Results of one of these trials are shown in Table 5.
+
+Table 5 Mean Reflective Total Symptom Score* and Instantaneous Total Symptom Score in Allergic Rhinitis Trials
+
+*Total symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale.
 
 Onset of action was evaluated in two environmental exposure unit studies in allergic rhinitis patients with a single dose of levocetirizine dihydrochloride 2.5 or 5 mg.
 Levocetirizine dihydrochloride 5 mg was found to have an onset of action 1 hour after oral intake.
@@ -43,6 +51,7 @@ Adult Patients 18 Years of Age and Older
 
 The efficacy of levocetirizine dihydrochloride for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria was evaluated in two multi-center, randomized, placebo-controlled, double-blind clinical trials of 4 weeks duration in adult patients 18 to 85 years of age with chronic idiopathic urticaria.
 The two trials included one 4-week dose-ranging trial and one 4-week single-dose level efficacy trial.
+
 These trials included 423 patients (139 males and 284 females).
 Most patients (>90%) were Caucasian and the mean age was 41.
 Of these patients, 146 received levocetirizine dihydrochloride 5 mg once daily in the evening.
@@ -58,6 +67,8 @@ Levocetirizine dihydrochloride 5 mg demonstrated a greater decrease from baselin
 
 Duration of pruritus, number and size of wheals, and instantaneous pruritus severity score also showed significant improvement over placebo.
 The significant improvement in the instantaneous pruritus severity score over placebo confirmed end of dosing interval efficacy (see Table 6).
+
+Table 6 Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria Trials
 
 Pediatric Patients
 
