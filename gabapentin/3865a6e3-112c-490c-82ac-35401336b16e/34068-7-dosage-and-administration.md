@@ -1,60 +1,46 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Gabapentin tablets USP are given orally with or without food.
-Patients should be informed that, should they break the scored 600 or 800 mg tablet in order to administer a half-tablet, they should take the unused half-tablet as the next dose.
-Half-tablets not used within several days of breaking the scored tablet should be discarded.
+Gabapentin tablets are given orally with or without food.
+Patients should be informed that, should they break the scored 600 mg or 800 mg tablet in order to administer a half-tablet, they should take the unused half-tablet as the next dose.
+Half-tablets not used within 28 days of breaking the scored tablet should be discarded.
 
-If gabapentin tablets USP dose is reduced, discontinued or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
+If gabapentin tablets dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
 
-## Postherpetic Neuralgia
+## 2.1 Postherpetic Neuralgia
 
-In adults with postherpetic neuralgia, gabapentin tablets USP therapy may be initiated as a single 300 mg dose on Day 1, 600 mg/day on Day 2 (divided BID), and 900 mg/day on Day 3 (divided TID).
-The dose can subsequently be titrated up as needed for pain relief to a daily dose of 1800 mg (divided TID).
-In clinical studies, efficacy was demonstrated over a range of doses from 1800 mg/day to 3600 mg/day with comparable effects across the dose range.
-Additional benefit of using doses greater than 1800 mg/day was not demonstrated.
+In adults with postherpetic neuralgia, gabapentin tablets therapy may be initiated on Day 1 as a single 300 mg dose, on Day 2 as 600 mg/day (300 mg two times a day), and on Day 3 as 900 mg/day (300 mg three times a day).
+The dose can subsequently be titrated up as needed for pain relief to a dose of 1800 mg/day (600 mg three times a day).
+In clinical studies, efficacy was demonstrated over a range of doses from 1800 mg/day to 3600 mg/day with comparable effects across the dose range; however, in these clinical studies, the additional benefit of using doses greater than 1800 mg/day was not demonstrated.
 
-## Epilepsy
+## 2.2 Epilepsy with Partial Onset Seizures
 
-Gabapentin tablets USP are recommended for add-on therapy in patients 3 years of age and older.
+Gabapentin tablets are recommended for add-on therapy in patients 3 years of age and older.
 Effectiveness in pediatric patients below the age of 3 years has not been established.
 
-### Patients >12 years of age:
-
-The effective dose of gabapentin tablets USP is 900 to 1800 mg/day and given in divided doses (three times a day) using 600 or 800 mg tablets.
-The starting dose is 300 mg three times a day.
-If necessary, the dose may be increased using 600 or 800 mg tablets three times a day up to 1800 mg/day.
+Patients 12 years of age and above: The starting dose is 300 mg three times a day.
+The effective dose of gabapentin tablets is 300 mg to 600 mg three times a day.
 Dosages up to 2400 mg/day have been well tolerated in long-term clinical studies.
 Doses of 3600 mg/day have also been administered to a small number of patients for a relatively short duration, and have been well tolerated.
-The maximum time between doses in the TID schedule should not exceed 12 hours.
+Gabapentin tablets should be administered three times a day using 600 mg or 800 mg tablets.
+The maximum time between doses should not exceed 12 hours.
 
-### Pediatric Patients Age 3–12 years:
-
-The starting dose should range from 10-15 mg/kg/day in 3 divided doses, and the effective dose reached by upward titration over a period of approximately 3 days.
-The effective dose of gabapentin tablets USP in patients 5 years of age and older is 25–35 mg/kg/day and given in divided doses (three times a day).
-The effective dose in pediatric patients ages 3 and 4 years is 40 mg/kg/day and given in divided doses (three times a day) (see CLINICAL PHARMACOLOGY, Pediatric).
-Dosages up to 50 mg/kg/day have been well-tolerated in a long-term clinical study.
+Pediatric Patients Age 3 to 11 years: The starting dose range is 10 mg/kg/day to 15 mg/kg/day, given in three divided doses, and the effective dose reached by upward titration over a period of approximately 3 days.
+The effective dose of gabapentin tablets in patients 3 to 4 years of age is 40 mg/kg/day, given in three divided doses.
+The effective dose of gabapentin tablets in patients 5 to 11 years of age is 25 mg/kg/day to 35 mg/kg/day, given in three divided doses.
+Dosages up to 50 mg/kg/day have been well tolerated in a long-term clinical study.
 The maximum time interval between doses should not exceed 12 hours.
 
-It is not necessary to monitor gabapentin plasma concentrations to optimize gabapentin tablets USP therapy.
-Further, because there are no significant pharmacokinetic interactions among gabapentin tablets USP and other commonly used antiepileptic drugs, the addition of gabapentin tablets USP does not alter the plasma levels of these drugs appreciably.
+It is not necessary to monitor gabapentin plasma concentrations to optimize gabapentin tablets therapy.
+Further, because there are no significant pharmacokinetic interactions among gabapentin tablets and other commonly used antiepileptic drugs, the addition of gabapentin tablets does not alter the plasma levels of these drugs appreciably.
 
-If gabapentin tablets USP are discontinued and/or an alternate anticonvulsant medication is added to the therapy, this should be done gradually over a minimum of 1 week.
+If gabapentin tablets are discontinued and/or an alternate anticonvulsant medication is added to the therapy, this should be done gradually over a minimum of 1 week.
 
-## Dosage in Renal Impairment
+## 2.3 Patients with Renal Impairment
 
-Creatinine clearance is difficult to measure in outpatients.
-In patients with stable renal function, creatinine clearance (CCr) can be reasonably well estimated using the equation of Cockcroft and Gault:
+Dosage adjustment in patients 12 years of age and older with compromised renal function or undergoing hemodialysis is recommended, as follows (see dosing recommendations above for effective doses in each indication):
 
-for females CCr=(0.85)(140-age)(weight)/[(72)(SCr)]
-
-for males CCr=(140-age)(weight)/[(72)(SCr)]
-
-in which age is in years, weight is in kilograms and SCr is serum creatinine in mg/dL.
-
-Dosage adjustment in patients ≥12 years of age with compromised renal function or undergoing hemodialysis is recommended as follows (see dosing recommendations above for effective doses in each indication).
-
-TABLE 6.
-Gabapentin Tablets USP Dosage Based on Renal Function
+TABLE 1.
+Gabapentin Tablets Dosage Based on Renal Function
 
 | Renal Function Creatinine Clearance(mL/min) | Total Daily Dose Range(mg/day) | Dose Regimen(mg) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -65,12 +51,17 @@ Gabapentin Tablets USP Dosage Based on Renal Function
 | Post-Hemodialysis Supplemental Dose (mg)b |  |  |  |  |  |  |
 | Hemodialysis |  | 125b | 150b | 200b | 250b | 350b |
 
+TID = Three times a day; BID = Two times a day; QD = Single daily dose
+
 a For patients with creatinine clearance <15 mL/min, reduce daily dose in proportion to creatinine clearance (e.g., patients with a creatinine clearance of 7.5 mL/min should receive one-half the daily dose that patients with a creatinine clearance of 15 mL/min receive).
 
 b Patients on hemodialysis should receive maintenance doses based on estimates of creatinine clearance as indicated in the upper portion of the table and a supplemental post-hemodialysis dose administered after each 4 hours of hemodialysis as indicated in the lower portion of the table.
 
-The use of gabapentin tablets USP in patients <12 years of age with compromised renal function has not been studied.
+Creatinine clearance (CLCr) is difficult to measure in outpatients.
+In patients with stable renal function, creatinine clearance can be reasonably well estimated using the equation of Cockcroft and Gault:
 
-## Dosage in Elderly
+The use of gabapentin tablets in patients less than 12 years of age with compromised renal function has not been studied.
+
+## 2.4 Dosage in Elderly
 
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients.
