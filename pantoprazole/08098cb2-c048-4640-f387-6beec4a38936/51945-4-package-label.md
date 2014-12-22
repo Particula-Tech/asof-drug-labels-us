@@ -87,21 +87,21 @@ www.protonix.com
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 40 mg Granule Packet
+# PRINCIPAL DISPLAY PANEL - 40 mg Granule Packet
 
 NDC 0008-0844-01
 
 Pfizer
 
-PROTONIX® 40 mg (pantoprazole sodium) For Delayed-Release Oral Suspension* Equivalent to 40 mg pantoprazole
+Protonix® 40 mg (pantoprazole sodium) For Delayed-Release Oral Suspension* Equivalent to 40 mg pantoprazole
 
-USA F.1/0813/6090377
+14287100 F.1/0214/6103546
 
 *suspension in apple juice or applesauce only Store at 20º to 25ºC (68º to 77ºF).
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 40 mg Granule Packet Carton
+# PRINCIPAL DISPLAY PANEL - 40 mg Granule Packet Carton
 
 Pfizer
 
