@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078559"
+  ],
+  "inn": "ofloxacin",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-515-01",
+    "64980-515-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ofloxacin",
+      "name": "Ofloxacin"
+    }
+  ],
+  "setid": "c76d8dc7-9a66-471b-814b-ef7f3605ec93",
+  "source": "dailymed"
+}
