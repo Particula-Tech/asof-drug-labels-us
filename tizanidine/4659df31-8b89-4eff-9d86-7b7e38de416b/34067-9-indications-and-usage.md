@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS & USAGE
 
-Tizanidine tablet is a short-acting drug for the management of spasticity.
-Because of the short duration of effect, treatment with tizanidine should be reserved for those daily activities and times when relief of spasticity is most important (see DOSAGE AND ADMINISTRATION).
+TizanidineTablets, USP is a central alpha-2-adrenergic agonist indicated for themanagement of spasticity.
+Because of the short duration of therapeutic effect,treatment with Tizanidine Tablets, USP should be reserved for those dailyactivities and times when relief of spasticity is most important [see Dosage andAdministration(2.1)].

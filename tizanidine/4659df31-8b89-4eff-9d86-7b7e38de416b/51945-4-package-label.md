@@ -1,27 +1,21 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC57664-502-89
+Tizanidine Tablets, USP 2 mg
 
-Tizanidine Tablets,USP
-
-2mg
-
-Tizanidine Tablets are not interchageable with Tizanidine capsules.
+NDC 57664-502-89
 
 Rx Only
 
 150 Tablets
 
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+ALKALOIDA Chemical Company Zrt.
 
-NDC57664-503-89
+Tizanidine Tablets, USP 4 mg
 
-Tizanidine Tablets,USP
-
-4mg
-
-Tizanidine Tablets are not interchageable with Tizanidine capsules.
+NDC 57664-503-89
 
 Rx Only
 
 150 Tablets
+
+ALKALOIDA Chemical Company Zrt.
