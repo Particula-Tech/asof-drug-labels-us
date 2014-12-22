@@ -1,30 +1,41 @@
 # 8. USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1 Pregnancy Category C
 
-Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women of the effect of bupivacaine on the developing fetus.
+Risk Summary
+
+There are no adequate and well-controlled studies of EXPAREL in pregnant women.
+Animal reproduction studies have been conducted to evaluate bupivacaine.
+In these studies, subcutaneous administration of bupivacaine to rats and rabbits during organogenesis was associated with embryo-fetal deaths in rabbits at a dose equivalent to the maximum recommended human dose (MRHD).
+Subcutaneous administration of bupivacaine to rats from implantation through weaning, also at an MRHD-equivalent dose, produced decreased pup survival.
 EXPAREL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Bupivacaine hydrochloride (HCl) produced developmental toxicity when administered subcutaneously to pregnant rats and rabbits at clinically relevant doses.
-This does not exclude the use of EXPAREL at term for analgesia [See Labor and Delivery (8.2)].
 
-Bupivacaine HCl was administered subcutaneously to rats and rabbits during the period of fetal organogenesis.
-No embryo-fetal effects were observed in rats at the high dose which caused increased maternal lethality.
-An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity.
+Clinical Considerations
 
-Administration of bupivacaine HCl to rats during pregnancy and lactation resulted in decreased offspring survival.
+Labor or Delivery
 
-## 8.2 Labor and Delivery
+Bupivacaine is contraindicated for obstetrical paracervical block anesthesia.
+While EXPAREL has not been studied with this technique, the use of bupivacaine for obstetrical paracervical block anesthesia has resulted in fetal bradycardia and death.
 
-Bupivacaine hydrochloride is contraindicated for obstetrical paracervical block anesthesia.
-
-Local anesthetics rapidly cross the placenta, and when used for epidural, caudal, or pudendal block anesthesia, can cause varying degrees of maternal, fetal, and neonatal toxicity [See Clinical Pharmacology (12.3)].
+Bupivacaine can rapidly cross the placenta, and when used for epidural, caudal, or pudendal block anesthesia, can cause varying degrees of maternal, fetal, and neonatal toxicity [See Clinical Pharmacology (12.3)].
 The incidence and degree of toxicity depend upon the procedure performed, the type, and amount of drug used, and the technique of drug administration.
 Adverse reactions in the parturient, fetus, and neonate involve alterations of the central nervous system, peripheral vascular tone, and cardiac function.
 
+Data
+
+Animal Data
+
+Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, and 40 mg/kg/day and to rabbits at doses of 1.3, 5.8, and 22.2 mg/kg/day during the period of organogenesis (implantation to closure of the hard palate).
+No embryo-fetal effects were observed in rats at the doses tested with the high dose causing increased maternal lethality.
+An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity.
+This dose is clinically relevant as is comparable to the MRHD based on Body Surface Area (BSA) comparisons.
+
+In a rat pre- and post-natal development study conducted at subcutaneous doses of 4.4, 13.3, and 40 mg/kg/day with dosing from implantation through weaning (during pregnancy and lactation), decreased pup survival was observed at the high dose, a clinically relevant dose as it is comparable to the MRHD based on BSA comparisons.
+
 ## 8.3 Nursing Mothers
 
-Bupivacaine has been reported to be excreted to some extent in human milk, suggesting that the nursing infant could be theoretically exposed to a dose of the drug.
-Because of the potential for serious adverse reactions in nursing infants from bupivacaine, a decision should be made whether to discontinue nursing or not administer EXPAREL, taking into account the importance of the drug to the mother.
+Published literature reports that bupivacaine is present in human milk at low levels; however, the drug is poorly absorbed orally.
+Exercise caution when administering EXPAREL to a nursing woman.
 
 ## 8.4 Pediatric Use
 

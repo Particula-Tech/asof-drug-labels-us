@@ -14,11 +14,9 @@ EXPAREL may be held at a controlled room temperature of 20°C to 25°C (68°F to
 Vials should not be re-refrigerated.
 As a convenience to the hospital pharmacist, each vial label includes space to record the date when the vial has been removed from refrigeration.
 
-EXPAREL should not be frozen as reflected by the temperature indicator or exposed to high temperatures (greater than 40°C or 104°F) for an extended period.
-Do not administer EXPAREL if it is suspected of having been frozen as reflected by the temperature indicator or exposed to high temperatures.
-
-Check the freeze indicator and discard product if it has been triggered.
-The freeze indicator turns from green to white when exposed to freezing temperatures.
+EXPAREL should not be frozen or exposed to high temperatures (greater than 40°C or 104°F) for an extended period.
+Do not administer EXPAREL if it is suspected of having been frozen or exposed to high temperatures.
+Do not use the vial if the stopper is bulging.
 
 Handling
 
@@ -30,6 +28,6 @@ Handling
 - Do not autoclave.
 - EXPAREL should be administered with a 25 gauge or larger bore needle.
 - EXPAREL can be administered undiluted or diluted up to 0.89 mg/mL (i.e.
-  1:14 dilution by volume) with preservative-free normal (0.9%) sterile saline for injection.
+  1:14 dilution by volume) with normal (0.9%) sterile saline for injection or lactated Ringer’s solution.
 - Following withdrawal from the vial, EXPAREL may be stored at controlled room temperature of 20°C to 25°C (68°F to 77°F) for up to 4 hours prior to administration.
 - Discard any unused portion in an appropriate manner.

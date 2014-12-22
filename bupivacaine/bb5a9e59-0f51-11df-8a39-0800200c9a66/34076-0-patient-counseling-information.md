@@ -22,5 +22,3 @@ Trademark of Pacira Pharmaceuticals, Inc.
 PACIRA PHARMACEUTICALS, INC.
 
 For additional information call 1-855-RX-EXPAREL (1-855-793-9727)
-
-025-00076.003
