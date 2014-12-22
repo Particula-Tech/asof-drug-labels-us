@@ -13,4 +13,4 @@ Thus, occlusive dressings may be a valuable therapeutic adjunct for treatment of
 Once absorbed through the skin, topical corticosteroids are handled through pharmacokinetic pathways similar to systemically administered corticosteroids.
 Corticosteroids are bound to plasma proteins in varying degrees.
 Corticosteroids are metabolized primarily in the liver and are then excreted by the kidneys.
-Some of the topical corticosteroids and their metabolites are also excreted into the bile.
+Some of the topical corticosteroids and their metabolites are also excreted in the bile.
