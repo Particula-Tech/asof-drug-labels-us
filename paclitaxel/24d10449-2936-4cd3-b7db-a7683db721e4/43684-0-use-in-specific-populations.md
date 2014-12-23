@@ -2,14 +2,14 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.9)].
+Pregnancy Category D [see Warnings and Precautions (5.8)].
 
 There are no adequate and well-controlled studies in pregnant women using ABRAXANE.
 Based on its mechanism of action and findings in animals, ABRAXANE can cause fetal harm when administered to a pregnant woman.
 If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant while receiving ABRAXANE.
 
-Administration of paclitaxel protein-bound particles to rats during pregnancy, on gestation days 7 to 17 at doses of 6 mg/m2 (approximately 2% of the daily maximum recommended human dose on a mg/m2 basis) caused embryofetal toxicities, as indicated by intrauterine mortality, increased resorptions (up to 5-fold), reduced numbers of litters and live fetuses, reduction in fetal body weight and increase in fetal anomalies.
+Administration of paclitaxel formulated as albumin-bound particles to rats during pregnancy, on gestation days 7 to 17 at doses of 6 mg/m2 (approximately 2% of the daily maximum recommended human dose on a mg/m2 basis) caused embryofetal toxicities, as indicated by intrauterine mortality, increased resorptions (up to 5-fold), reduced numbers of litters and live fetuses, reduction in fetal body weight and increase in fetal anomalies.
 Fetal anomalies included soft tissue and skeletal malformations, such as eye bulge, folded retina, microphthalmia, and dilation of brain ventricles.
 A lower incidence of soft tissue and skeletal malformations were also exhibited at 3 mg/m2 (approximately 1% of the daily maximum recommended human dose on a mg/m2 basis).
 
@@ -39,9 +39,12 @@ Clinical studies of ABRAXANE did not include sufficient number of patients with 
 
 ## 8.6 Patients with Hepatic Impairment
 
-Because the exposure and toxicity of paclitaxel can be increased in patients with hepatic impairment, the administration of ABRAXANE should be performed with caution in patients with hepatic impairment [see Dosage and Administration (2.4), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].
-Abraxane has not been studied in combination with gemcitabine for the treatment of pancreatic cancer in patients with a bilirubin greater than the upper limit of normal.
+The exposure to paclitaxel may be higher in patients with hepatic impairment than in patients with normal hepatic function.
+Reduce ABRAXANE starting dose in patients with moderate to severe hepatic impairment.
+Do not administer ABRAXANE to patients with total bilirubin > 5 x ULN or AST > 10 x ULN [see Dosage and Administration (2.4), Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+Do not administer to patients with metastatic adenocarcinoma of the pancreas who have moderate to severe hepatic impairment see Dosage and Administration (2.4)].
 
 ## 8.7 Patients with Renal Impairment
 
-The use of ABRAXANE has not been studied in patients with renal impairment.
+Adjustment of the starting ABRAXANE dose is not required for patients with mild to moderate renal impairment (estimated creatinine clearance ≥30 to <90 mL/min) [see Clinical Pharmacology (12.3)].
+There are insufficient data to permit dosage recommendations in patients with severe renal impairment or end stage renal disease (estimated creatinine clearance <30 mL/min).

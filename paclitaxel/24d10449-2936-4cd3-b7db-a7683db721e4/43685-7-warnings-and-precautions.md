@@ -43,6 +43,9 @@ Patients who experience a severe hypersensitivity reaction to ABRAXANE should no
 ## 5.6 Hepatic Impairment
 
 Because the exposure and toxicity of paclitaxel can be increased with hepatic impairment, administration of ABRAXANE in patients with hepatic impairment should be performed with caution.
+Patients with hepatic impairment may be at increased risk of toxicity, particularly from myelosuppression; such patients should be closely monitored for development of profound myelosuppression.
+ABRAXANE is not recommended in patients who have total bilirubin >5 x ULN or AST >10 x ULN.
+In addition, ABRAXANE is not recommended in patients with metastatic adenocarcinoma of the pancreas who have moderate to severe hepatic impairment (total bilirubin >1.5 x ULN and AST ≤10 x ULN).
 The starting dose should be reduced for patients with moderate or severe hepatic impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 5.7 Albumin (Human)
@@ -55,7 +58,7 @@ No cases of transmission of viral diseases or CJD have ever been identified for 
 ## 5.8 Use in Pregnancy
 
 ABRAXANE can cause fetal harm when administered to a pregnant woman.
-Administration of paclitaxel protein-bound particles to rats during pregnancy at doses lower than the maximum recommended human dose, based on body surface area, caused embryo-fetal toxicities, including intrauterine mortality, increased resorptions, reduced numbers of live fetuses, and malformations.
+Administration of paclitaxel formulated as albumin-bound particles to rats during pregnancy at doses lower than the maximum recommended human dose, based on body surface area, caused embryo-fetal toxicities, including intrauterine mortality, increased resorptions, reduced numbers of live fetuses, and malformations.
 
 There are no adequate and well-controlled studies in pregnant women receiving ABRAXANE.
 If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.

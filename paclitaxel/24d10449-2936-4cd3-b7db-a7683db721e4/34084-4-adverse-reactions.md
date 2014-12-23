@@ -151,7 +151,7 @@ Patients in both treatment arms received a median of 6 cycles of treatment.
 
 The following common (≥ 10% incidence) adverse reactions were observed at a similar incidence in ABRAXANE plus carboplatin-treated and paclitaxel injection plus carboplatin-treated patients: alopecia 56%, nausea 27%, fatigue 25%, decreased appetite 17%, asthenia 16%, constipation 16%, diarrhea 15%, vomiting 12%, dyspnea 12%, and rash 10% (incidence rates are for the ABRAXANE plus carboplatin treatment group).
 
-Table 7 provides the frequency and severity laboratory-detected abnormalities which occurred with a difference of ≥ 5% for all grades (1-4) or ≥ 2% for Grade 3-4 toxicity between ABRAXANE plus carboplatin-treated patients or paclitaxel injection plus carboplatin-treated patients.
+Table 7 provides the frequency and severity of laboratory-detected abnormalities which occurred with a difference of ≥ 5% for all grades (1-4) or ≥ 2% for Grade 3-4 toxicity between ABRAXANE plus carboplatin-treated patients or paclitaxel injection plus carboplatin-treated patients.
 
 Table 7: Selected Hematologic Laboratory-Detected Abnormalities With a Difference of ≥ 5% for grades (1-4) or ≥ 2% for Grade 3-4 Toxicity Between Treatment Groups
 
@@ -234,13 +234,13 @@ Table 10: Selected Adverse Reactions with a Higher Incidence (≥5% for All Grad
 |  | Myalgia | 44 (10%) | 4 (1%) | 15 (4%) | 0 |
 | Psychiatric disorders | Depression | 51 (12%) | 1 (<1%) | 24 (6%) | 0 |
 | a Peripheral neuropathy is defined by the MedDRA Version 15.0 Standard MedDRA Query neuropathy (broad scope). |  |  |  |  |  |
-| b Urinary tract infections includes the preferred terms of: urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, and urinary tract infection enterococccal. |  |  |  |  |  |
+| b Urinary tract infections includes the preferred terms of: urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, and urinary tract infection enterococcal. |  |  |  |  |  |
 
 Additional clinically relevant adverse reactions that were reported in < 10% of the patients with adenocarcinoma of the pancreas who received ABRAXANE/gemcitabine included:
 
 Infections & infestations: oral candidiasis, pneumonia Vascular disorders: hypertension Cardiac disorders: tachycardia, congestive cardiac failure Eye disorders: cystoid macular edema
 
-Peripheral Neuropathy Grade 3 peripheral neuropathy occurred in 17% of patients who received ABRAXANE/gemcitibine compared to 1% of patients who received gemcitabine only; no patients developed grade 4 peripheral neuropathy.
+Peripheral Neuropathy Grade 3 peripheral neuropathy occurred in 17% of patients who received ABRAXANE/gemcitabine compared to 1% of patients who received gemcitabine only; no patients developed grade 4 peripheral neuropathy.
 The median time to first occurrence of Grade 3 peripheral neuropathy in the ABRAXANE arm was 140 days.
 Upon suspension of ABRAXANE dosing, the median time to improvement from Grade 3 peripheral neuropathy to ≤ Grade 1 was 29 days.
 Of ABRAXANE-treated patients with Grade 3 peripheral neuropathy, 44% resumed ABRAXANE at a reduced dose.

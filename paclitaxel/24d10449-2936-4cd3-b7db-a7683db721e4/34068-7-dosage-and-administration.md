@@ -16,35 +16,31 @@ Administer gemcitabine immediately after ABRAXANE on Days 1, 8 and 15 of each 28
 
 ## 2.4 Dosage in Patients with Hepatic Impairment
 
-No dose adjustment is necessary for patients with mild hepatic impairment.
-Patients with moderate and severe hepatic impairment treated with ABRAXANE may be at increased risk of toxicities known to paclitaxel.
-Withhold ABRAXANE if AST >10 x ULN or bilirubin > 5 x ULN.
+For patients with mild hepatic impairment (total bilirubin greater than ULN and less than or equal to 1.5 x ULN and aspartate aminotransferase [AST] less than or equal to 10 x ULN), no dose adjustments are required, regardless of indication.
+
+Do not administer ABRAXANE to patients with metastatic adenocarcinoma of the pancreas who have moderate to severe hepatic impairment.
+
+Do not administer ABRAXANE to patients with total bilirubin greater than 5 x ULN or AST greater than 10 x ULN regardless of indication as these patients have not been studied.
+
 Recommendations for dosage adjustment for the first course of therapy are shown in Table 1.
-
-For metastatic breast cancer, the dose of ABRAXANE can be increased from 130 mg/m2 up to 200 mg/m2 in patients with severe hepatic impairment in subsequent cycles based on individual tolerance.
-
-For non-small cell lung cancer, reduce the dose of ABRAXANE to 50 mg/m2 in patients with severe hepatic impairment.
-In subsequent cycles, the dose of ABRAXANE may be increased to 75 mg/m2 as tolerated.
-
-Monitor patients closely [see Warnings and Precautions (5.6), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 Table 1: Recommendations for Starting Dose in Patients with Hepatic Impairment
 
 |  | SGOT (AST) Levels |  | Bilirubin Levels | ABRAXANE Dosea |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  | MBC | NSCLC c | Pancreatic c Adenocarcinoma |  |  |
-| Mild | < 10 x ULN | AND | > ULN to ≤ 1.25 x ULN | 260 mg/m2 | 100 mg/m2 | 125 mg/m2 |
-| Moderate | < 10 x ULN | AND | 1.26 to 2 x ULN | 200 mg/m2 | 75 mg/m2 | not recommended |
-| Severe | < 10 x ULN | AND | 2.01 to 5 x ULN | 130 mg/m2 b | 50 mg/m2 | not recommended |
+| Mild | < 10 x ULN | AND | > ULN to ≤ 1.5 x ULN | 260 mg/m2 | 100 mg/m2 | 125 mg/m2 |
+| Moderate | < 10 x ULN | AND | >1.5 to ≤ 3 x ULN | 200 mg/m2 b | 80 mg/m2 b | not recommended |
+| Severe | < 10 x ULN | AND | > 3 to ≤ 5 x ULN | 200 mg/m2 b | 80 mg/m2 b | not recommended |
 |  | > 10 x ULN | OR | > 5 x ULN | not recommended | not recommended | not recommended |
 | MBC = Metastatic Breast Cancer; NSCLC = Non-Small Cell Lung Cancer. |  |  |  |  |  |  |
 | a Dosage recommendations are for the first course of therapy. The need for further dose adjustments in subsequent courses should be based on individual tolerance. |  |  |  |  |  |  |
-| b A dose increase to 200 mg/m2 in subsequent courses should be considered based on individual tolerance. |  |  |  |  |  |  |
+| b A dose increase to 260 mg/m2 for patients with metastatic breast cancer or 100 mg/m2 for patients with non-small cell lung cancer in subsequent courses should be considered if the patient tolerates the reduced dose for two cycles. |  |  |  |  |  |  |
 | c Patients with bilirubin levels above the upper limit of normal were excluded from clinical trials for pancreatic or lung cancer. |  |  |  |  |  |  |
 
 ## 2.5 Dose Reduction/Discontinuation Recommendations
 
-Metastatic Breast Cancer Patients who experience severe neutropenia (neutrophil <500 cells/mm3 for a week or longer) or severe sensory neuropathy during ABRAXANE therapy should have dosage reduced to 220 mg/m2 for subsequent courses of ABRAXANE.
+Metastatic Breast Cancer Patients who experience severe neutropenia (neutrophils less than 500 cells/mm3 for a week or longer) or severe sensory neuropathy during ABRAXANE therapy should have dosage reduced to 220 mg/m2 for subsequent courses of ABRAXANE.
 For recurrence of severe neutropenia or severe sensory neuropathy, additional dose reduction should be made to 180 mg/m2.
 For Grade 3 sensory neuropathy hold treatment until resolution to Grade 1 or 2, followed by a dose reduction for all subsequent courses of ABRAXANE [see Contraindications (4), Warnings and Precautions (5.1, 5.2) and Adverse Reactions (6.1)].
 
@@ -89,14 +85,14 @@ Table 4: Dose Recommendation and Modifications for Neutropenia and/or Thrombocyt
 | Day 1 | < 1500 | OR | < 100,000 | Delay doses until recovery |
 | Day 8 | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level |
 |  | < 500 | OR | < 50,000 | Withhold doses |
-| Day 15: IF Day 8 doses were reduced or given without modification: |  |  |  |  |
+| Day 15: If Day 8 doses were reduced or given without modification: |  |  |  |  |
 |  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 1 dose level from Day 8 |
 |  | < 500 | OR | < 50,000 | Withhold doses |
-| Day 15: IF Day 8 doses were withheld: |  |  |  |  |
+| Day 15: If Day 8 doses were withheld: |  |  |  |  |
 |  | ≥ 1000 | OR | ≥ 75,000 | Reduce 1 dose level from Day 1 |
 |  | 500 to < 1000 | OR | 50,000 to < 75,000 | Reduce 2 dose levels from Day 1 |
 |  | < 500 | OR | < 50,000 | Withhold doses |
-| Abbreviations: ANC = Absolute Neutrophil Count |  |  |  |  |
+| ANC = Absolute Neutrophil Count |  |  |  |  |
 
 Recommended dose modifications for other adverse drug reactions in patients with adenocarcinoma of the pancreas are provided in Table 5.
 
@@ -152,9 +148,13 @@ Parenteral drug products should be inspected visually for particulate matter and
 Unopened vials of ABRAXANE are stable until the date indicated on the package when stored between 20°C to 25°C (68°F to 77°F) in the original package.
 Neither freezing nor refrigeration adversely affects the stability of the product.
 
-Stability of Reconstituted Suspension in the Vial Reconstituted ABRAXANE in the vial should be used immediately, but may be refrigerated at 2°C to 8°C (36°F to 46°F) for a maximum of 8 hours if necessary.
+Stability of Reconstituted Suspension in the Vial Reconstituted ABRAXANE in the vial should be used immediately, but may be refrigerated at 2°C to 8°C (36°F to 46°F) for a maximum of 24 hours if necessary.
 If not used immediately, each vial of reconstituted suspension should be replaced in the original carton to protect it from bright light.
 Discard any unused portion.
 
-Stability of Reconstituted Suspension in the Infusion Bag The suspension for infusion when prepared as recommended in an infusion bag should be used immediately but may be stored at ambient temperature (approximately 25°C) and lighting conditions for up to 4 hours.
+Stability of Reconstituted Suspension in the Infusion Bag The suspension for infusion when prepared as recommended in an infusion bag should be used immediately, but may be refrigerated at 2°C to 8°C (36°F to 46°F) and protected from bright light for a maximum of 24 hours.
+
+The total combined refrigerated storage time of reconstituted ABRAXANE in the vial and in the infusion bag is 24 hours.
+This may be followed by storage in the infusion bag at ambient temperature (approximately 25°C) and lighting conditions for a maximum of 4 hours.
+
 Discard any unused portion.

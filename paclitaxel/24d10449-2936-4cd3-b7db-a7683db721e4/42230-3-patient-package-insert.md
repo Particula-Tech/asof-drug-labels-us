@@ -114,14 +114,14 @@ Other ingredient: human albumin (containing sodium caprylate and sodium acetyltr
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: October 2013
+Revised: December 2014
 
 Manufactured for: Celgene Corporation Summit, NJ 07901
 
-ABRAXANE® is a registered trademark of Abraxis BioScience, LLC. ©2005-2013 Abraxis BioScience, LLC.
+ABRAXANE® is a registered trademark of Abraxis BioScience, LLC. ©2005-2014 Abraxis BioScience, LLC.
 All Rights Reserved.
 Abraxis BioScience, LLC is a wholly owned subsidiary of Celgene Corporation.
 
 U.S. Patent Numbers: See www.celgene.com.
 
-ABRPPI.007 10/13
+ABRPPI.008 12/14

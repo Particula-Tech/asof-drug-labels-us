@@ -17,10 +17,10 @@ Fifty-nine percent received study drug as second or greater than second-line the
 Seventy-seven percent of the patients had been previously exposed to anthracyclines.
 
 In this trial, patients in the ABRAXANE treatment arm had a statistically significantly higher reconciled target lesion response rate (the trial primary endpoint) of 21.5% (95% CI: 16.2% to 26.7%), compared to 11.1% (95% CI: 6.9% to 15.1%) for patients in the paclitaxel injection treatment arm.
-See Table 12.
+See Table 11.
 There was no statistically significant difference in overall survival between the two study arms.
 
-Table 12: Efficacy Results from Randomized Metastatic Breast Cancer Trial
+Table 11: Efficacy Results from Randomized Metastatic Breast Cancer Trial
 
 |  |  | ABRAXANE 260 mg/m2 | Paclitaxel Injection 175 mg/m2 |
 | --- | --- | --- | --- |
@@ -44,10 +44,10 @@ The major efficacy outcome measure was overall response rate as determined by a 
 In the intent-to-treat (all-randomized) population, the median age was 60 years, 75% were men, 81% were White, 49% had adenocarcinoma, 43% had squamous cell lung cancer, 76% were ECOG PS 1, and 73% were current or former smokers.
 Patients received a median of 6 cycles of treatment in both study arms.
 
-Patients in the ABRAXANE/carboplatin arm had a statistically significantly higher overall response rate compared to patients in the paclitaxel injection/carboplatin arm [(33% versus 25%) see Table 13].
+Patients in the ABRAXANE/carboplatin arm had a statistically significantly higher overall response rate compared to patients in the paclitaxel injection/carboplatin arm [(33% versus 25%) see Table 12].
 There was no statistically significant difference in overall survival between the two study arms.
 
-Table 13: Efficacy Results from Randomized Non-Small Cell Lung Cancer Trial (Intent-to-Treat Population)
+Table 12: Efficacy Results from Randomized Non-Small Cell Lung Cancer Trial (Intent-to-Treat Population)
 
 |  | ABRAXANE (100 mg/m2 weekly) + carboplatin (N=521) | Paclitaxel Injection (200 mg/m2 every 3 weeks) + carboplatin (N=531) |
 | --- | --- | --- |
@@ -79,9 +79,9 @@ Additional outcome measures were progression-free survival (PFS) and overall res
 In the intent to treat (all randomized) population, the median age was 63 years (range 27-88 years) with 42% ≥ 65 years of age; 58% were men; 93% were White and KPS was 90-100 in 60%.
 Disease characteristics included 46% of patients with 3 or more metastatic sites; 84% of patients had liver metastasis; and the location of the primary pancreatic lesion was in the head of pancreas (43%), body (31%), or tail (25%).
 
-Results for overall survival, progression-free survival, and overall response rate are shown in Table 14.
+Results for overall survival, progression-free survival, and overall response rate are shown in Table 13.
 
-Table 14: Efficacy Results from Randomized Study in Patients with Adenocarcinoma of the Pancreas (ITT Population)
+Table 13: Efficacy Results from Randomized Study in Patients with Adenocarcinoma of the Pancreas (ITT Population)
 
 |  | ABRAXANE (125 mg/m2) and gemcitabine (N = 431) | Gemcitabine (N = 430) |
 | --- | --- | --- |
