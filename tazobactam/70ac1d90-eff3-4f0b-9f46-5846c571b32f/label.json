@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA206829"
+  ],
+  "inn": "tazobactam",
+  "labeler": "Cubist Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "67919-030-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "ceftolozane sulfate and tazobactam sodium",
+      "name": "ZERBAXA"
+    }
+  ],
+  "setid": "70ac1d90-eff3-4f0b-9f46-5846c571b32f",
+  "source": "dailymed"
+}
