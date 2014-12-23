@@ -41,8 +41,8 @@ Serious skin reactions have been seen with ONFI and may require stopping its use
 Do not stop taking ONFI without first talking to your healthcare provider.
 
 - A serious skin reaction can happen at any time during your treatment with ONFI, but is more likely to happen within the first 8 weeks of treatment.
-  These skin reactions may need to be treated right away.
-- Call your healthcare provider immediately if you have skin blisters, peeling rash, sores in the mouth, hives or any other allergic reaction.
+  These skin reactions need to be treated right away.
+- Call your healthcare provider immediately if you have skin blisters, rash, sores in the mouth, hives or any other allergic reaction.
 
 5.
 Like other antiepileptic drugs, ONFI may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
@@ -77,6 +77,15 @@ ONFI is a prescription medicine used along with other medicines to treat seizure
 
 It is not known if ONFI is safe and effective in children less than 2 years old.
 
+Who should not take ONFI?
+
+Patients with a history of hypersensitivity to ONFI or its ingredients should not take ONFI.
+
+Do not take ONFI if you:
+
+- are allergic to clobazam or any of the ingredients in ONFI.
+  See the end of this Medication Guide for a complete list of ingredients in ONFI.
+
 What should I tell my healthcare provider before taking ONFI?
 
 Before you take ONFI, tell your healthcare provider if you:
@@ -92,7 +101,7 @@ Before you take ONFI, tell your healthcare provider if you:
   ONFI may harm your unborn baby.
   - Tell your healthcare provider right away if you become pregnant while taking ONFI.
     You and your healthcare provider will decide if you should take ONFI while you are pregnant.
-  - Children born to mothers receiving benzodiazepine medications (including ONFI) late in pregnancy may be at some risk of experiencing breathing problems, feeding problems, dangerously low body temperature, and withdrawal symptoms.
+  - Babies born to mothers receiving benzodiazepine medications (including ONFI) late in pregnancy may be at some risk of experiencing breathing problems, feeding problems, dangerously low body temperature, and withdrawal symptoms.
 - If you become pregnant while taking ONFI, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can register by calling 1-888-233-2334.
   For more information about the registry go to http://www.aedpregnancyregistry.org.
@@ -102,7 +111,7 @@ Before you take ONFI, tell your healthcare provider if you:
   You and your healthcare provider should decide if you will take ONFI or breast feed.
   You should not do both.
 
-Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Taking ONFI with certain other medicines can cause side effects or affect how well ONFI or the other medications work.
 Do not start or stop other medicines without talking to your healthcare provider.
 
@@ -164,12 +173,12 @@ How should I store ONFI?
 
 Tablets
 
-- Keep ONFI tablets in a dry place
+- Keep ONFI tablets in a dry place.
 
 Oral Suspension
 
 - Replace the cap securely after opening.
-- Keep ONFI oral suspension in an upright position.
+- Store and dispense ONFI oral suspension in its original bottle in an upright position.
 - Use ONFI oral suspension within 90 days of first opening the bottle.
 - After 90 days safely throw away any ONFI oral suspension that has not been used.
 
@@ -200,7 +209,7 @@ Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
 ONFI is a registered trademark of Lundbeck
 
-11/2013
+12/2014
 
 Instructions for Use ONFI® (ON-fee) (clobazam) Oral Suspension
 
@@ -273,8 +282,7 @@ Cap the bottle tightly with the adapter in place.
 If the cap does not fit securely, check to see if the adapter is fully inserted.
 See Figure I
 
-Store the bottle upright at 68°F to 77°F (20°C to 25°C).
-
+- Store and dispense ONFI oral suspension in its original bottle in an upright position at 68°F to 77°F (20°C to 25°C).
 - Use ONFI oral suspension within 90 days of first opening bottle.
 - After 90 days safely throw away any ONFI oral suspension that has not been used.
 
@@ -288,8 +296,10 @@ Wash the oral syringe after each use.
 - The barrel and plunger can be washed with soap and water, rinsed, and allowed to dry.
 - Do not wash the oral syringe in the dishwasher.
 
+This Instruction for Use has been approved by the U.S. Food and Drug Administration.
+
 Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
 ONFI is a registered trademark of Lundbeck
 
-11/2013
+12/2014

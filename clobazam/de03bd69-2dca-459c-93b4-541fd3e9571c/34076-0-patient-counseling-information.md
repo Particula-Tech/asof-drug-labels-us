@@ -1,9 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide and Instructions for Use).
-Inform patients or caregivers of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with ONFI and with each prescription refill.
-Review the ONFI Medication Guide with every patient or caregiver prior to initiation of treatment.
-Instruct patients or caregivers that ONFI should be taken only as prescribed.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+
+Hypersensitivity
+
+Inform patients or caregivers that ONFI is contraindicated in patients with a history of hypersensitivity to the drug or its ingredients [see Warnings and Precautions 5.4)].
 
 Somnolence or Sedation Advise patients or caregivers to check with their healthcare provider before ONFI is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions (5.1, 5.2)].
 

@@ -21,7 +21,7 @@ Absorption Clobazam is rapidly and extensively absorbed following oral administr
 The time to peak concentrations (Tmax) of clobazam tablets under fasted conditions ranged from 0.5 to 4 hours after single- or multiple-dose administrations.
 The relative bioavailability of clobazam tablets compared to an oral solution is approximately 100%.
 After single dose administration of the oral suspension under fasted conditions, the Tmax ranged from 0.5 to 2 hours.
-Based on exposure (Cmax and AUC) of clobazam, ONFI tablets and suspension were shown to have similar bioavailability under fasted condition.
+Based on exposure (Cmax and AUC) of clobazam, ONFI tablets and suspension were shown to have similar bioavailability under fasted conditions.
 The administration of ONFI tablets with food or when crushed in applesauce does not affect absorption.
 Although not studied, the oral bioavailability of the oral suspension is unlikely to be affected under fed conditions.
 

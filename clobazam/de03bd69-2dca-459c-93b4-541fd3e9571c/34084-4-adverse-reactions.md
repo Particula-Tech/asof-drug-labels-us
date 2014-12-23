@@ -5,7 +5,7 @@ Clinically significant adverse reactions that appear in other sections of the la
 - Somnolence or Sedation [see Warnings and Precautions (5.1)]
 - Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants [see Warnings and Precautions (5.2)]
 - Withdrawal Symptoms [see Warnings and Precautions (5.3)]
-- Serious Dermatological Reactions [see Warnings and Precautions (5.4)]
+- Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.4)]
 - Physical and Psychological Dependence [see Warnings and Precautions (5.5)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
 
@@ -64,4 +64,4 @@ Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placeb
 These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
 Adverse reactions are categorized by system organ class.
 
-Blood Disorders: Anemia, eosinophilia, leukopenia, thrombocytopenia Eye Disorders: Diplopia, vision blurred Gastrointestinal Disorders: Abdominal distention Investigations: Hepatic enzyme increased Musculoskeletal: Muscle spasms Psychiatric Disorders: Agitation, anxiety, apathy, confusional state, depression, delirium, delusion, hallucination Respiratory Disorders: Aspiration, respiratory depression Skin and Subcutaneous Tissue Disorders: Rash, urticaria
+Blood Disorders: Anemia, eosinophilia, leukopenia, thrombocytopenia Eye Disorders: Diplopia, vision blurred Gastrointestinal Disorders: Abdominal distention General Disorders and Administration Site Conditions: Hypothermia Investigations: Hepatic enzyme increased Musculoskeletal: Muscle spasms Psychiatric Disorders: Agitation, anxiety, apathy, confusional state, depression, delirium, delusion, hallucination Renal and Urinary Disorders: Urinary retention Respiratory Disorders: Aspiration, respiratory depression Skin and Subcutaneous Tissue Disorders: Rash, urticaria, angioedema, and facial and lip edema
