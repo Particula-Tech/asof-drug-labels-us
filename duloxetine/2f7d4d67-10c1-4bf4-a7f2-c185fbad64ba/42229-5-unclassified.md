@@ -1,6 +1,6 @@
-Literature revised November, 2014
+Literature revised December, 2014
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2004, 2014, Eli Lilly and Company.
 All rights reserved.
 
-CYM-0004-USPI-20141125
+CYM-0005-USPI-20141219
