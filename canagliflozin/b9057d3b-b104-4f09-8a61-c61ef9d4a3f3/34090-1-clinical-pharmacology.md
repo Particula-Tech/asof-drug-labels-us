@@ -50,7 +50,7 @@ CYP3A4-mediated (oxidative) metabolism of canagliflozin is minimal (approximatel
 
 Excretion
 
-Following administration of a single oral [14C]canagliflozin dose to healthy subjects, 41.5%, 7.0%, and 3.2% of the administered radioactive dose was recovered in feces as canagliflozin, a hydroxylated metabolite, and an O-glucuronide metabolite, respectively.
+Following administration of a single oral [14C] canagliflozin dose to healthy subjects, 41.5%, 7.0%, and 3.2% of the administered radioactive dose was recovered in feces as canagliflozin, a hydroxylated metabolite, and an O-glucuronide metabolite, respectively.
 Enterohepatic circulation of canagliflozin was negligible.
 
 Approximately 33% of the administered radioactive dose was excreted in urine, mainly as O-glucuronide metabolites (30.5%).
@@ -129,7 +129,7 @@ Table 6: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 | Glyburide | 1.25 mg | 200 mg QD for 6 days | glyburide | 1.02 (0.98; 1.07) | 0.93 (0.85; 1.01) |
 | 3-cis-hydroxy-glyburide | 1.01 (0.96; 1.07) | 0.99 (0.91; 1.08) |  |  |  |
 | 4-trans-hydroxy-glyburide | 1.03 (0.97; 1.09) | 0.96 (0.88; 1.04) |  |  |  |
-| Hydrochloro-thiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | hydrochlorothiazide | 0.99 (0.95; 1.04) | 0.94 (0.87; 1.01) |
+| Hydrochlorothiazide | 25 mg QD for 35 days | 300 mg QD for 7 days | hydrochlorothiazide | 0.99 (0.95; 1.04) | 0.94 (0.87; 1.01) |
 | Metformin | 2,000 mg | 300 mg QD for 8 days | metformin | 1.20 (1.08; 1.34) | 1.06 (0.93; 1.20) |
 | Simvastatin | 40 mg | 300 mg QD for 7 days | simvastatin | 1.12 (0.94; 1.33) | 1.09 (0.91; 1.31) |
 | simvastatin acid | 1.18 (1.03; 1.35) | 1.26 (1.10; 1.45) |  |  |  |

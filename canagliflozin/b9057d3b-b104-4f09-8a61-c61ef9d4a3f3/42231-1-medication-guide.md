@@ -1,4 +1,6 @@
-# MEDICATION GUIDE INVOKANA™ (in-vo-KAHN-uh) (canagliflozin) Tablets
+# MEDICATION GUIDE
+
+INVOKANA® (in-vo-KAHN-uh) (canagliflozin) Tablets
 
 What is the most important information I should know about INVOKANA?
 
@@ -55,12 +57,12 @@ What should I tell my doctor before taking INVOKANA?
 
 Before you take INVOKANA, tell your doctor if you:
 
-- have kidney problems
-- have liver problems
+- have kidney problems.
+- have liver problems.
 - are on a low sodium (salt) diet.
   Your doctor may change your diet or your dose of INVOKANA.
-- have ever had an allergic reaction to INVOKANA
-- have other medical conditions
+- have ever had an allergic reaction to INVOKANA.
+- have other medical conditions.
 - are pregnant or plan to become pregnant.
   It is not known if INVOKANA will harm your unborn baby.
   If you are pregnant, talk with your doctor about the best way to control your blood sugar while you are pregnant.

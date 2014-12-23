@@ -26,20 +26,20 @@ Table 7: Results from 26-Week Placebo-Controlled Clinical Study with INVOKANA as
 | HbA1C (%) |  |  |  |
 | Baseline (mean) | 7.97 | 8.06 | 8.01 |
 | Change from baseline (adjusted mean) | 0.14 | -0.77 | -1.03 |
-| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors |  | -0.91p<0.001 (-1.09, -0.73) | -1.16 (-1.34, -0.99) |
+| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors |  | -0.91p<0.001 (-1.09; -0.73) | -1.16 (-1.34; -0.99) |
 | Percent of Patients Achieving HbA1C < 7% | 21 | 45 | 62 |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 166 | 172 | 173 |
 | Change from baseline (adjusted mean) | 8 | -27 | -35 |
-| Difference from placebo (adjusted mean) (95% CI) |  | -36 (-42, -29) | -43 (-50, -37) |
+| Difference from placebo (adjusted mean) (95% CI) |  | -36 (-42; -29) | -43 (-50; -37) |
 | 2-hour Postprandial Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 229 | 250 | 254 |
 | Change from baseline (adjusted mean) | 5 | -43 | -59 |
-| Difference from placebo (adjusted mean) (95% CI) |  | -48 (-59.1, -37.0) | -64 (-75.0, -52.9) |
+| Difference from placebo (adjusted mean) (95% CI) |  | -48 (-59.1; -37.0) | -64 (-75.0; -52.9) |
 | Body Weight |  |  |  |
 | Baseline (mean) in kg | 87.5 | 85.9 | 86.9 |
 | % change from baseline (adjusted mean) | -0.6 | -2.8 | -3.9 |
-| Difference from placebo (adjusted mean) (95% CI) |  | -2.2 (-2.9, -1.6) | -3.3 (-4.0, -2.6) |
+| Difference from placebo (adjusted mean) (95% CI) |  | -2.2 (-2.9; -1.6) | -3.3 (-4.0; -2.6) |
 
 ## 14.2 Combination Therapy
 
@@ -62,20 +62,20 @@ Table 8: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in C
 | HbA1C (%) |  |  |  |
 | Baseline (mean) | 7.96 | 7.94 | 7.95 |
 | Change from baseline (adjusted mean) | -0.17 | -0.79 | -0.94 |
-| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors |  | -0.62p<0.001 (-0.76, -0.48) | -0.77 (-0.91, -0.64) |
+| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors |  | -0.62p<0.001 (-0.76; -0.48) | -0.77 (-0.91; -0.64) |
 | Percent of patients achieving HbA1C < 7% | 30 | 46 | 58 |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 164 | 169 | 173 |
 | Change from baseline (adjusted mean) | 2 | -27 | -38 |
-| Difference from placebo (adjusted mean) (95% CI) |  | -30 (-36, -24) | -40 (-46, -34) |
+| Difference from placebo (adjusted mean) (95% CI) |  | -30 (-36; -24) | -40 (-46; -34) |
 | 2-hour Postprandial Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 249 | 258 | 262 |
 | Change from baseline (adjusted mean) | -10 | -48 | -57 |
-| Difference from placebo (adjusted mean) (95% CI) |  | -38 (-49, -27) | -47 (-58, -36) |
+| Difference from placebo (adjusted mean) (95% CI) |  | -38 (-49; -27) | -47 (-58; -36) |
 | Body Weight |  |  |  |
 | Baseline (mean) in kg | 86.7 | 88.7 | 85.4 |
 | % change from baseline (adjusted mean) | -1.2 | -3.7 | -4.2 |
-| Difference from placebo (adjusted mean) (95% CI) |  | -2.5 (-3.1, -1.9) | -2.9 (-3.5, -2.3) |
+| Difference from placebo (adjusted mean) (95% CI) |  | -2.5 (-3.1; -1.9) | -2.9 (-3.5; -2.3) |
 
 INVOKANA Compared to Glimepiride, Both as Add-on Combination With Metformin
 
@@ -125,7 +125,7 @@ Table 10: Results from 18-Week Placebo–Controlled Clinical Study of INVOKANA i
 | HbA1C (%) |  |  |  |
 | Baseline (mean) | 8.49 | 8.29 | 8.28 |
 | Change from baseline (adjusted mean) | 0.04 | -0.70 | -0.79 |
-| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value |  | -0.74p<0.001 (-1.15, -0.33) | -0.83 (-1.24, -0.41) |
+| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value |  | -0.74p<0.001 (-1.15; -0.33) | -0.83 (-1.24; -0.41) |
 
 Add-on Combination Therapy With Metformin and Sulfonylurea
 
@@ -150,11 +150,11 @@ Table 11: Results from 26–Week Placebo-Controlled Clinical Study of INVOKANA i
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline (mean) | 170 | 173 | 168 |
 | Change from baseline (adjusted mean) | 4 | -18 | -31 |
-| Difference from placebo (adjusted mean) (95% CI) |  | -22 (-31, -13) | -35 (-44, -25) |
+| Difference from placebo (adjusted mean) (95% CI) |  | -22 (-31; -13) | -35 (-44; -25) |
 | Body Weight |  |  |  |
 | Baseline (mean) in kg | 90.8 | 93.5 | 93.5 |
 | % change from baseline (adjusted mean) | -0.7 | -2.1 | -2.6 |
-| Difference from placebo (adjusted mean) (95% CI) |  | -1.4 (-2.1; - 0.7) | -2.0 (-2.7; - 1.3) |
+| Difference from placebo (adjusted mean) (95% CI) |  | -1.4 (-2.1; -0.7) | -2.0 (-2.7; -1.3) |
 
 INVOKANA Compared to Sitagliptin, Both as Add-on Combination Therapy With Metformin and Sulfonylurea
 
@@ -236,16 +236,16 @@ Table 14: Results from 18–Week Placebo-Controlled Clinical Study of INVOKANA i
 | HbA1C (%) |  |  |  |
 | Baseline (mean) | 8.20 | 8.33 | 8.27 |
 | Change from baseline (adjusted mean) | 0.01 | -0.63 | -0.72 |
-| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors |  | -0.65p<0.001 (-0.73, -0.56) | -0.73 (-0.82, -0.65) |
+| Difference from placebo (adjusted mean) (95% CI) Least squares mean adjusted for baseline value and stratification factors |  | -0.65p<0.001 (-0.73; -0.56) | -0.73 (-0.82; -0.65) |
 | Percent of patients achieving HbA1C < 7% | 8 | 20 | 25 |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |
 | Baseline | 169 | 170 | 168 |
 | Change from baseline (adjusted mean) | 4 | -19 | -25 |
-| Difference from placebo (adjusted mean) (97.5% CI) |  | -23 (-29, -16) | -29 (-35, -23) |
+| Difference from placebo (adjusted mean) (97.5% CI) |  | -23 (-29; -16) | -29 (-35; -23) |
 | Body Weight |  |  |  |
 | Baseline (mean) in kg | 97.7 | 96.9 | 96.7 |
 | % change from baseline (adjusted mean) | 0.1 | -1.8 | -2.3 |
-| Difference from placebo (adjusted mean) (97.5% CI) |  | -1.9 (-2.2, -1.5) | -2.4 (-2.8, -2.0) |
+| Difference from placebo (adjusted mean) (97.5% CI) |  | -1.9 (-2.2; -1.5) | -2.4 (-2.8; -2.0) |
 
 ## 14.3 Studies in Special Populations
 
