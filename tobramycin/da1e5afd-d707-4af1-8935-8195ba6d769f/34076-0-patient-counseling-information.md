@@ -28,7 +28,7 @@ Nursing Mothers
 
 Advise patients to talk with their physician before using tobramycin inhalation solution while nursing a baby [see Use in Specific Populations (8.3)].
 
-Additional Information PARI LC PLUS® Reusable Nebulizer: 1-800-327-8632 Devilbiss® Pulmo-Aide® air compressor: 1-800-338-1988 KITABIS PAK: 1-844-KITABIS (548-2247)
+Additional InformationPARI LC PLUS® Reusable Nebulizer: 1-800-327-8632 Devilbiss® Pulmo-Aide® air compressor: 1-800-338-1988 KITABIS PAK: 1-844-KITABIS (548-2247)
 
 Manufactured by: Catalent Pharma Solutions, LLC Woodstock, IL 60098
 
@@ -36,7 +36,6 @@ Distributed by:
 
 PARI Respiratory Equipment, Inc. 2412 PARI Way, Midlothian, VA 23112
 
-850D5601 Rev.
-8/2014
+850D5601 Rev B 11/2014
 
 © 2013-2014 PulmoFlow, Inc.. All rights reserved.

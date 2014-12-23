@@ -105,5 +105,4 @@ Distributed by:
 
 PARI Respiratory Equipment, Inc. 2412 PARI Way, Midlothian, VA 23112
 
-850D5601 Rev.
-8/2014 © 2013-2014 PulmoFlow, Inc.. All rights reserved.
+850D5601 Rev B 11/2014 © 2013-2014 PulmoFlow, Inc.. All rights reserved.

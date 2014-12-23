@@ -19,6 +19,6 @@ The entire tobramycin inhalation solution treatment should take approximately 15
 Continue treatment until all the tobramycin inhalation solution has been delivered, and there is no longer any mist being produced.
 
 Tobramycin inhalation solution should not be diluted or mixed with other drugs including dornase alfa (Pulmozyme®) in the nebulizer.
-Instruct patients on multiple therapies to take their medications prior to inhaling the tobramycin inhalation solution
+Instruct patients on multiple therapies to take their medications prior to inhaling the tobramycin inhalation solution, or as directed by their physician.
 
 Tobramycin inhalation solution should not be used if it is cloudy, if there are particles in the solution, or if it has been stored at room temperature for more than 28 days.
