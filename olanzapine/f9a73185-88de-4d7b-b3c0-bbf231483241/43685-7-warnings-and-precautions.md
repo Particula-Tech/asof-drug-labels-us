@@ -33,7 +33,7 @@ If parenteral benzodiazepines are required for patient management during an even
 Increased Mortality
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-ZYPREXA RELPREVV is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.16), and Patient Counseling Information (17.3)].
+ZYPREXA RELPREVV is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.14), and Patient Counseling Information (17.3)].
 
 In placebo-controlled oral olanzapine clinical trials of elderly patients with dementia-related psychosis, the incidence of death in olanzapine-treated patients was significantly greater than placebo-treated patients (3.5% vs 1.5%, respectively).
 
@@ -63,7 +63,13 @@ There is no general agreement about specific pharmacological treatment regimens 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered and tolerability with oral olanzapine should be established prior to initiating treatment with ZYPREXA RELPREVV [see Dosage and Administration (2.1)].
 The patient should be carefully monitored, since recurrences of NMS have been reported [see Patient Counseling Information (17.4)].
 
-## 5.6 Hyperglycemia
+## 5.6 Metabolic Changes
+
+Atypical antipsychotic drugs have been associated with metabolic changes including hyperglycemia, dyslipidemia, and weight gain.
+Metabolic changes may be associated with increased cardiovascular/cerebrovascular risk.
+Olanzapine's specific metabolic profile is presented below.
+
+Hyperglycemia and Diabetes Mellitus
 
 Physicians should consider the risks and benefits when prescribing olanzapine to patients with an established diagnosis of diabetes mellitus, or having borderline increased blood glucose level (fasting 100-126 mg/dL, nonfasting 140-200 mg/dL).
 Patients taking olanzapine should be monitored regularly for worsening of glucose control.
@@ -122,7 +128,7 @@ Table 3: Changes in Fasting Glucose Levels from Adolescent Oral Olanzapine Monot
 | Placebo | 13 | 0% | NAa | NAa |  |  |
 | a Not Applicable. |  |  |  |  |  |  |
 
-## 5.7 Hyperlipidemia
+Dyslipidemia
 
 Undesirable alterations in lipids have been observed with olanzapine use.
 Clinical monitoring, including baseline and periodic follow-up lipid evaluations in patients using olanzapine, is recommended [see Patient Counseling Information (17.6)].
@@ -168,6 +174,10 @@ Table 4: Changes in Fasting Lipids Values from Adult Olanzapine Monotherapy Stud
 In phase 1 of the Clinical Antipsychotic Trials of Intervention Effectiveness (CATIE), over a median exposure of 9.2 months, the mean increase in triglycerides in patients taking olanzapine was 40.5 mg/dL.
 In phase 1 of CATIE, the mean increase in total cholesterol was 9.4 mg/dL.
 
+Dose group differences with respect to increases in fasting triglycerides have been observed.
+In a 24-week randomized, double-blind, fixed-dose study with ZYPREXA RELPREVV, statistically significant differences among dose groups have been observed for fasting triglycerides.
+Incidence of changes from normal to high levels of fasting triglycerides at any time during the trial indicated significant differences between the highest dose group (300 mg/2 weeks, 24.5% [13/53]) and the lower dose groups (150 mg/2 weeks, 6.5% [4/62]; 405 mg/4 weeks, 9.8% [13/133]).
+
 Olanzapine Monotherapy in Adolescents — The safety and efficacy of ZYPREXA RELPREVV have not been established in patients under the age of 18 years.
 
 In an analysis of 3 placebo-controlled oral olanzapine monotherapy studies of adolescents (13-17 years), including those with schizophrenia (6 weeks) or bipolar I disorder (manic or mixed episodes) (3 weeks), olanzapine-treated adolescents had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 12.9 mg/dL, 6.5 mg/dL, and 28.4 mg/dL, respectively, compared to increases from baseline in mean fasting total cholesterol and LDL cholesterol of 1.3 mg/dL and 1.0 mg/dL, and a decrease in triglycerides of 1.1 mg/dL for placebo-treated adolescents.
@@ -201,7 +211,7 @@ Table 5: Changes in Fasting Lipids Values from Adolescent Oral Olanzapine Monoth
 | Placebo | 9 | 0% | NAa | NAa |  |  |
 | a Not Applicable. |  |  |  |  |  |  |
 
-## 5.8 Weight Gain
+Weight Gain
 
 Potential consequences of weight gain should be considered prior to starting olanzapine.
 Patients receiving olanzapine should receive regular monitoring of weight [see Patient Counseling Information (17.7)].
@@ -229,6 +239,10 @@ Table 6: Weight Gain with Olanzapine Use in Adults
 | >20 to ≤25 (44-55 lb) | 0 | 0.9 | 3.3 | 5.1 | 4.1 |
 | >25 to ≤30 (55-66 lb) | 0 | 0.2 | 1.4 | 2.3 | 4.8 |
 | >30 (>66 lb) | 0 | 0.1 | 0.8 | 1.2 | 2 |
+
+Dose group differences with respect to weight gain have been observed in some studies.
+In a 24-week randomized, double-blind, fixed-dose study with ZYPREXA RELPREVV, mean baseline-to-endpoint increase in weight (150 mg/2 weeks, n=140: 0.67 kg; 405 mg/4 weeks, n=315: 0.89 kg; 300 mg/2 weeks, n=140: 1.70 kg) was observed with significant differences between the lowest and highest dose groups (150 vs 300 mg/2 weeks).
+In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, mean baseline to endpoint increase in weight (10 mg/day: 1.9 kg; 20 mg/day: 2.3 kg; 40 mg/day: 3 kg) was observed with significant differences between 10 vs 40 mg/day.
 
 Olanzapine Monotherapy in Adolescents — The safety and efficacy of ZYPREXA RELPREVV have not been established in patients under the age of 18 years.
 
@@ -267,7 +281,7 @@ Table 8: Weight Gain with Olanzapine Use in Adolescents
 | >35 to ≤40 (77-88 lb) | 0 | 0 |
 | >40 (>88 lb) | 0 | 0.5 |
 
-## 5.9 Tardive Dyskinesia
+## 5.7 Tardive Dyskinesia
 
 A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
@@ -288,7 +302,7 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient on olanzapine, drug discontinuation should be considered.
 However, some patients may require treatment with olanzapine despite the presence of the syndrome.
 
-## 5.10 Orthostatic Hypotension
+## 5.8 Orthostatic Hypotension
 
 ZYPREXA RELPREVV may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, probably reflecting its α1-adrenergic antagonistic properties [see Patient Counseling Information (17.8)].
 Syncope-related adverse reactions were reported in 0.1% of patients treated with ZYPREXA RELPREVV in clinical studies.
@@ -298,7 +312,7 @@ For patients in this population who have never taken oral olanzapine, tolerabili
 
 Caution is necessary in patients who receive treatment with other drugs having effects that can induce hypotension, bradycardia, respiratory or central nervous system depression [see Drug Interactions (7)].
 
-## 5.11 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
 Class Effect — In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including ZYPREXA.
 Agranulocytosis has also been reported.
@@ -309,13 +323,13 @@ Patients with a history of a clinically significant low WBC or drug induced leuk
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue ZYPREXA RELPREVV and have their WBC followed until recovery.
 
-## 5.12 Dysphagia
+## 5.10 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's disease.
 Olanzapine is not approved for the treatment of patients with Alzheimer's disease.
 
-## 5.13 Seizures
+## 5.11 Seizures
 
 During premarketing testing of ZYPREXA RELPREVV, seizures occurred in 0.15% of patients.
 During premarketing testing of oral olanzapine, seizures occurred in 0.9% of olanzapine-treated patients.
@@ -325,7 +339,7 @@ Olanzapine should be used cautiously in patients with a history of seizures or w
 Olanzapine is not approved for the treatment of patients with Alzheimer's disease.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.14 Potential for Cognitive and Motor Impairment
+## 5.12 Potential for Cognitive and Motor Impairment
 
 Sedation was a commonly reported adverse reaction associated with ZYPREXA RELPREVV treatment, occurring at an incidence of 8% in ZYPREXA RELPREVV patients compared to 2% in placebo patients.
 Somnolence and sedation adverse reactions led to discontinuation in 0.6% of patients in the premarketing ZYPREXA RELPREVV database.
@@ -333,12 +347,12 @@ Somnolence and sedation adverse reactions led to discontinuation in 0.6% of pati
 Since olanzapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine therapy does not affect them adversely.
 However, due to the risk of post-injection delirium/sedation syndrome after each injection, patients should not drive or operate heavy machinery for the remainder of the day of each injection [see Dosage and Administration (2.1), Warnings and Precautions (5.1), and Patient Counseling Information (17.9)].
 
-## 5.15 Body Temperature Regulation
+## 5.13 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing ZYPREXA RELPREVV for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration [see Patient Counseling Information (17.10)].
 
-## 5.16 Use in Patients with Concomitant Illness
+## 5.14 Use in Patients with Concomitant Illness
 
 Experience with ZYPREXA RELPREVV in patients with concomitant systemic illnesses is limited [see Clinical Pharmacology (12.3)].
 
@@ -353,9 +367,9 @@ Olanzapine is not approved for the treatment of patients with dementia-related p
 
 Olanzapine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
-Because of the risk of orthostatic hypotension with olanzapine, caution should be observed in cardiac patients [see Warnings and Precautions (5.10)].
+Because of the risk of orthostatic hypotension with olanzapine, caution should be observed in cardiac patients [see Warnings and Precautions (5.8)].
 
-## 5.17 Hyperprolactinemia
+## 5.15 Hyperprolactinemia
 
 As with other drugs that antagonize dopamine D2 receptors, olanzapine elevates prolactin levels, and the elevation persists during chronic administration.
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
@@ -366,7 +380,6 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the oral olanzapine carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
-In premarketing studies with ZYPREXA RELPREVV, statistically significant differences among dose groups have been observed for prolactin levels [see Adverse Reactions (6.1)].
 
 In placebo-controlled olanzapine clinical studies (up to 12 weeks), changes from normal to high in prolactin concentrations were observed in 30% of adults treated with olanzapine as compared to 10.5% of adults treated with placebo.
 In a pooled analysis from clinical studies including 8136 adults treated with olanzapine, potentially associated clinical manifestations included menstrual-related events1 (2% [49/3240] of females), sexual function-related events2 (2% [150/8136] of females and males), and breast-related events3 (0.7% [23/3240] of females, 0.2% [9/4896] of males).
@@ -378,6 +391,10 @@ In a pooled analysis from clinical trials including 454 adolescents treated with
 2 Based on a search of the following terms: anorgasmia, delayed ejaculation, erectile dysfunction, decreased libido, loss of libido, abnormal orgasm, and sexual dysfunction.
 3 Based on a search of the following terms: breast discharge, enlargement or swelling, galactorrhea, gynecomastia, and lactation disorder.
 
-## 5.18 Laboratory Tests
+Dose group differences with respect to prolactin elevation have been observed in some studies.
+In a 24-week randomized, double-blind, fixed-dose study with ZYPREXA RELPREVV, statistically significant differences among dose groups were observed for prolactin levels, with a mean baseline-to-endpoint increase observed in the highest dose group (300 mg/2 weeks, n=115: 3.57 ng/mL) relative to mean decreases in the lower dose groups (150 mg/2 weeks, n=109: –5.61 ng/mL; 405 mg/4 weeks, n=259: –2.76 ng/mL).
+In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of prolactin elevation >24.2 ng/mL (female) or >18.77 ng/mL (male) at any time during the trial (10 mg/day: 31.2%; 20 mg/day: 42.7%; 40 mg/day: 61.1%) indicated significant differences between 10 vs 40 mg/day and 20 vs 40 mg/day.
 
-Fasting blood glucose testing and lipid profile at the beginning of, and periodically during, treatment is recommended [see Warnings and Precautions (5.6, 5.7) and Patient Counseling Information (17.4, 17.5)].
+## 5.16 Laboratory Tests
+
+Fasting blood glucose testing and lipid profile at the beginning of, and periodically during, treatment is recommended [see Warnings and Precautions (5.6) and Patient Counseling Information (17.4, 17.5)].

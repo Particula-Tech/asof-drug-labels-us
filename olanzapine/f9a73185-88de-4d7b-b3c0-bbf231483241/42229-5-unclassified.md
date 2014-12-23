@@ -1,8 +1,8 @@
-Literature revised July 5, 2011
+Literature revised December 19, 2014
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 2009, 2011, Eli Lilly and Company.
+Copyright © 2009, 2014, Eli Lilly and Company.
 All rights reserved.
 
-PV 5924 AMP
+ZYPR-0001-USPI-20141219

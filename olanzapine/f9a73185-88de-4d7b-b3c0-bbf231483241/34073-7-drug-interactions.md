@@ -51,6 +51,6 @@ However, diazepam co-administered with olanzapine increased the orthostatic hypo
 
 Alcohol — Multiple doses of olanzapine did not influence the kinetics of ethanol [see Drug Interactions (7.1)].
 
-Biperiden — Multiple dosed of olanzapine did not influence the kinetics of biperiden.
+Biperiden — Multiple doses of olanzapine did not influence the kinetics of biperiden.
 
 Theophylline — Multiple doses of olanzapine did not affect the pharmacokinetics of theophylline or its metabolites.

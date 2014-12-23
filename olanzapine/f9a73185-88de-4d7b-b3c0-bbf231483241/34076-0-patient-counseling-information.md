@@ -32,37 +32,37 @@ ZYPREXA RELPREVV is not approved for elderly patients with dementia-related psyc
 Patients and caregivers should be counseled that a potentially fatal symptom complex sometimes referred to as NMS has been reported in association with administration of antipsychotic drugs, including ZYPREXA.
 Signs and symptoms of NMS include hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia) [see Warnings and Precautions (5.5)].
 
-## 17.5 Hyperglycemia
+## 17.5 Hyperglycemia and Diabetes Mellitus
 
 Patients should be advised of the potential risk of hyperglycemia-related adverse reactions related to ZYPREXA RELPREVV.
 Patients should be monitored regularly for worsening of glucose control.
 Patients who have diabetes should follow their doctor's instructions about how often to check their blood sugar while taking ZYPREXA RELPREVV [see Warnings and Precautions (5.6)].
 
-## 17.6 Hyperlipidemia
+## 17.6 Dyslipidemia
 
-Patients should be counseled that hyperlipidemia has occurred during treatment with ZYPREXA RELPREVV.
-Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.7)].
+Patients should be counseled that dyslipidemia has occurred during treatment with ZYPREXA RELPREVV.
+Patients should have their lipid profile monitored regularly [see Warnings and Precautions (5.6)].
 
 ## 17.7 Weight Gain
 
 Patients should be counseled that weight gain has occurred during treatment with ZYPREXA RELPREVV.
-Patients should have their weight monitored regularly [see Warnings and Precautions (5.8)].
+Patients should have their weight monitored regularly [see Warnings and Precautions (5.6)].
 
 ## 17.8 Orthostatic Hypotension
 
-Patients should be advised of the risk of orthostatic hypotension, and in association with the use of concomitant drugs that may potentiate the orthostatic effect of ZYPREXA RELPREVV, e.g., diazepam or alcohol [see Warnings and Precautions (5.10) and Drug Interactions (7)].
+Patients should be advised of the risk of orthostatic hypotension, and in association with the use of concomitant drugs that may potentiate the orthostatic effect of ZYPREXA RELPREVV, e.g., diazepam or alcohol [see Warnings and Precautions (5.8) and Drug Interactions (7)].
 Patients should be advised to change positions carefully to help prevent orthostatic hypotension, and to lie down if they feel dizzy or faint, until they feel better.
 Patients should be advised to call their doctor if they experience any of the following signs and symptoms associated with orthostatic hypotension: dizziness, fast or slow heart beat, or fainting.
 
 ## 17.9 Potential for Cognitive and Motor Impairment
 
 Because ZYPREXA RELPREVV has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that ZYPREXA RELPREVV therapy does not affect them adversely.
-Additionally, due to the risk of post-injection delirium/sedation syndrome, patients should not drive or operate heavy machinery for the remainder of the day of each injection [see Dosage and Administration (2.1) and Warnings and Precautions (5.1, 5.14)].
+Additionally, due to the risk of post-injection delirium/sedation syndrome, patients should not drive or operate heavy machinery for the remainder of the day of each injection [see Dosage and Administration (2.1) and Warnings and Precautions (5.1, 5.12)].
 
 ## 17.10 Body Temperature Regulation
 
 Patients should be advised regarding appropriate care in avoiding overheating and dehydration.
-Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.15)].
+Patients should be advised to call their doctor right away if they become severely ill and have some or all of these symptoms of dehydration: sweating too much or not at all, dry mouth, feeling very hot, feeling thirsty, not able to produce urine [see Warnings and Precautions (5.13)].
 
 ## 17.11 Concomitant Medication
 

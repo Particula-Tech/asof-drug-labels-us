@@ -45,7 +45,7 @@ Dosing in Specific Populations — Tolerance of oral ZYPREXA should be establish
 The recommended starting dose is ZYPREXA RELPREVV 150 mg/4 wks in patients who are debilitated, who have a predisposition to hypotensive reactions, who otherwise exhibit a combination of factors that may result in slower metabolism of olanzapine (e.g., nonsmoking female patients ≥65 years of age), or who may be more pharmacodynamically sensitive to olanzapine.
 When indicated, dose escalation should be undertaken with caution in these patients [see Warnings and Precautions (5.4), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
-ZYPREXA RELPREVV has not been studied in subjects under 18 years of age [see Warnings and Precautions (5.6, 5.7, and 5.8)].
+ZYPREXA RELPREVV has not been studied in subjects under 18 years of age [see Warnings and Precautions (5.6)].
 
 Maintenance Treatment — Although no controlled studies have been conducted to determine how long patients should be treated with ZYPREXA RELPREVV, efficacy has been demonstrated over a period of 24 weeks in patients with stabilized schizophrenia.
 Additionally, oral ZYPREXA has been shown to be effective in maintenance of treatment response in schizophrenia in longer-term use.

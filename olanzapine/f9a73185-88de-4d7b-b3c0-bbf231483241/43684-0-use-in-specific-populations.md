@@ -32,7 +32,7 @@ It is recommended that women receiving ZYPREXA RELPREVV should not breast-feed.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of ZYPREXA RELPREVV in children and adolescent patients have not been established [see Warnings and Precautions (5.6, 5.7, 5.8)].
+Safety and effectiveness of ZYPREXA RELPREVV in children and adolescent patients have not been established [see Warnings and Precautions (5.6)].
 
 Compared to patients from adult clinical trials, adolescents treated with oral ZYPREXA were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels.
 
@@ -44,4 +44,4 @@ Oral olanzapine studies in elderly patients with dementia-related psychosis have
 Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
 In placebo-controlled studies of olanzapine in elderly patients with dementia-related psychosis, there was a higher incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack) in patients treated with olanzapine compared to patients treated with placebo.
 Olanzapine is not approved for the treatment of patients with dementia-related psychosis.
-Also, the presence of factors that might decrease pharmacokinetic clearance or increase the pharmacodynamic response to olanzapine should lead to consideration of a lower starting dose for any geriatric patient [see Boxed Warning, Warnings and Precautions (5.3), and Dosage and Administration (2.1)].
+Also, the presence of factors that might decrease pharmacokinetic clearance or increase the pharmacodynamic response to olanzapine should lead to consideration of a lower starting dose for any geriatric patient [see Boxed Warning, Dosage and Administration (2.1), and Warnings and Precautions (5.3)].

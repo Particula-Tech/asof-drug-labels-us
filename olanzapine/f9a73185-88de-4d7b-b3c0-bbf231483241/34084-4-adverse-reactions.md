@@ -98,28 +98,20 @@ Table 9: Treatment-Emergent Adverse Reactions: Incidence in a Short-Term, Placeb
 | e The term somnolence was combined under sedation. |  |  |  |  |
 | f The term sinus congestion was combined under nasal congestion. |  |  |  |  |
 
-Summary of Statistically Significant Changes by Dose
+Dose Dependency of Adverse Reactions
 
-In a 24-week randomized, double-blind, fixed-dose study comparing 3 doses of ZYPREXA RELPREVV in patients with schizophrenia, statistically significant differences among dose groups were observed for the below safety outcomes (Table 10) [see Warnings and Precautions (5.8, 5.17)].
+Dose group differences have been observed for weight, fasting triglycerides and prolactin elevation for ZYPREXA RELPREVV [see Warnings and Precautions (5.6, 5.15)].
 
-Table 10: Summary of Statistically Significant Changes by Dose in a Double-Blind, Fixed-Dose Study for ZYPREXA RELPREVVa
+A dose group difference for oral olanzapine has been observed for fatigue, dizziness, weight gain and prolactin elevation.
+In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of fatigue (10 mg/day: 1.5%; 20 mg/day: 2.1%; 40 mg/day: 6.6%) was observed with significant differences between 10 vs 40 and 20 vs 40 mg/day.
+The incidence of dizziness (10 mg/day: 2.6%; 20 mg/day: 1.6%; 40 mg/day: 6.6%) was observed with significant differences between 20 vs 40 mg.
+Dose group differences were also noted for weight gain and prolactin elevation [see Warnings and Precautions (5.6, 5.15)].
 
-|  | ZYPREXA RELPREVV Dose |  |  |
-| --- | --- | --- | --- |
-|  | 150 mg/2 weeks | 405 mg/4 weeks | 300 mg/2 weeks |
-| Weight: mean change in kg (N1) | 0.67 (140) | 0.89 (315) | 1.70b (140) |
-| Prolactin: mean change in μg/L (N1) | -5.61 (109) | -2.76 (259) | 3.57b, c (115) |
-| Fasting triglycerides: patients who met the criteriad for change from normal at baseline to high at anytime n/N2 (%) | 4/62 (6.5) | 13/133 (9.8) | 13/53b, c (24.5) |
-| a Abbreviations: N1=Number of patients who have both baseline and post-baseline measurement; n=number of patients with an abnormal post-baseline measurement at any time; N2=Number of patients with a normal baseline and at least one post-baseline measurement. |  |  |  |
-| b p<0.05 versus 150 mg/2 weeks ZYPREXA RELPREVV; pairwise p-values. |  |  |  |
-| c p<0.05 versus 405 mg/4 weeks ZYPREXA RELPREVV; pairwise p-values. |  |  |  |
-| d Triglycerides normal to high limits are <150 mg/dL to 200 mg/dL ≤X <500 mg/dL. |  |  |  |
+## 6.2 Extrapyramidal Symptoms
 
-Dose Dependency of Adverse Reactions in Short-Term, Placebo-Controlled Trials
+The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by categorical analyses of formal rating scales during acute therapy in a controlled clinical trial comparing oral olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
 
-Extrapyramidal Symptoms: The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by categorical analyses of formal rating scales during acute therapy in a controlled clinical trial comparing oral olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
-
-Table 11: Treatment-Emergent Extrapyramidal Symptoms Assessed by Rating Scales Incidence in a Fixed Dosage Range, Placebo-Controlled Clinical Trial of Oral Olanzapine in Schizophrenia — Acute Phase
+Table 10: Treatment-Emergent Extrapyramidal Symptoms Assessed by Rating Scales Incidence in a Fixed Dosage Range, Placebo-Controlled Clinical Trial of Oral Olanzapine in Schizophrenia — Acute Phase
 
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -131,7 +123,7 @@ Table 11: Treatment-Emergent Extrapyramidal Symptoms Assessed by Rating Scales I
 
 The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by spontaneously reported adverse reactions during acute therapy in the same controlled clinical trial comparing olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
 
-Table 12: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactions Incidence in a Fixed Dosage Range, Placebo-Controlled Clinical Trial of Oral Olanzapine in Schizophrenia — Acute Phase
+Table 11: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactions Incidence in a Fixed Dosage Range, Placebo-Controlled Clinical Trial of Oral Olanzapine in Schizophrenia — Acute Phase
 
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -153,11 +145,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, the frequency and severity are greater with high potency and at higher doses of first generation antipsychotic drugs.
 In general, an elevated risk of acute dystonia may be observed in males and younger age groups receiving antipsychotics; however, events of dystonia have been reported infrequently (<1%) with olanzapine use.
 
-Differences among Fixed-Dose Groups Observed in Oral Olanzapine Clinical Trials
-
-In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in patients with schizophrenia or schizoaffective disorder, differences among 3 dose groups were observed for the following safety outcomes: weight gain, prolactin elevation, fatigue and dizziness.
-Mean baseline to endpoint increase in weight (10 mg/day: 1.9 kg; 20 mg/day: 2.3 kg; 40 mg/day: 3 kg) was observed with significant differences between 10 vs 40 mg/day.
-Incidence of treatment-emergent prolactin elevation >24.2 ng/mL (female) or >18.77 ng/mL (male) at any time during the trial (10 mg/day: 31.2%; 20 mg/day: 42.7%; 40 mg/day: 61.1%) with significant differences between 10 vs 40 mg/day and 20 vs 40 mg/day; fatigue (10 mg/day: 1.5%; 20 mg/day: 2.1%; 40 mg/day: 6.6%) with significant differences between 10 vs 40 and 20 vs 40 mg/day; and dizziness (10 mg/day: 2.6%; 20 mg/day: 1.6%; 40 mg/day: 6.6%) with significant differences between 20 vs 40 mg, was observed.
+## 6.3 Other Adverse Reactions
 
 Local Injection Site Reactions
 
@@ -191,14 +179,14 @@ They are included here because of their seriousness.
 
 2 Adjusted for gender.
 
-## 6.2 Vital Signs and Laboratory Studies
+## 6.4 Vital Signs and Laboratory Studies
 
 Laboratory Changes
 
 ZYPREXA RELPREVV in Adults: Statistically significant within group mean changes for ZYPREXA RELPREVV, which were also significantly different from placebo, were observed for the following: eosinophils, monocytes, cholesterol, low-density lipoprotein (LDL), triglycerides, and direct bilirubin.
 There were no statistically significant differences between ZYPREXA RELPREVV and placebo in the incidence of potentially clinically significant changes in any of the laboratory values studied.
 
-Statistically significant within group mean changes for ZYPREXA RELPREVV, which were also significantly different from oral olanzapine (in a 24-week double-blind study), were observed for the following: gamma-glutamyltranseferase (GGT) and sodium.
+Statistically significant within group mean changes for ZYPREXA RELPREVV, which were also significantly different from oral olanzapine (in a 24-week double-blind study), were observed for the following: gamma-glutamyltransferase (GGT) and sodium.
 Statistically significant differences were observed between ZYPREXA RELPREVV and oral olanzapine for the incidence of treatment-emergent low platelet count (0% ZYPREXA RELPREVV vs 1% oral olanzapine); and low total bilirubin (2.8% ZYPREXA RELPREVV vs 0.7% for oral olanzapine).
 There was a statistically significant difference between ZYPREXA RELPREVV and oral olanzapine in potentially clinically significant changes for high leukocyte count (0% ZYPREXA RELPREVV vs 1% oral olanzapine).
 
@@ -224,14 +212,14 @@ Very rare cases of cholestatic or mixed liver injury have also been reported in 
 
 Caution should be exercised in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic drugs.
 
-Oral olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.17)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
+Oral olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.15)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
 
 ECG Changes — Comparison of ZYPREXA RELPREVV and oral olanzapine, in a 24 week study, revealed no significant differences on ECG changes.
 Between-group comparisons for pooled placebo-controlled trials revealed no significant oral olanzapine/placebo differences in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc, and PR intervals.
 Oral olanzapine use was associated with a mean increase in heart rate of 2.4 beats per minute compared to no change among placebo patients.
-This slight tendency to tachycardia may be related to olanzapine's potential for inducing orthostatic changes [see Warnings and Precautions (5.11)].
+This slight tendency to tachycardia may be related to olanzapine's potential for inducing orthostatic changes [see Warnings and Precautions (5.9)].
 
-## 6.3 Postmarketing Experience
+## 6.5 Postmarketing Experience
 
 Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to ZYPREXA therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea, or vomiting), jaundice, neutropenia, pancreatitis, priapism, rash, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1000 mg/dL have been reported.
