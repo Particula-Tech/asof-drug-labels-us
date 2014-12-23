@@ -15,7 +15,7 @@ At the first sign or symptom of cardiac failure, TIMOPTIC-XE should be discontin
 
 ## Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which TIMOPTIC-XE is contraindicated [see CONTRAINDICATIONS]) should, in general, not receive beta-blockers, including TIMOPTIC-XE.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which TIMOPTIC-XE is contraindicated [see CONTRAINDICATIONS] should, in general, not receive beta-blockers, including TIMOPTIC-XE.
 
 ## Major Surgery
 

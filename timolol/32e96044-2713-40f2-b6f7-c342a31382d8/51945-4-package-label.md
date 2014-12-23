@@ -16,9 +16,9 @@ Sterile Ophthalmic Gel Forming Solution
 
 Ocumeter® Plus Ophthalmic Dispenser
 
-Mfg. for: ATON PHARMA, INC. Lawrenceville, NJ 08648, USA
+VALEANT®Ophthalmics
 
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France Made in France
+Made in France
 
 # PRINCIPAL DISPLAY PANEL - 0.5% Carton
 
@@ -38,6 +38,6 @@ Sterile Ophthalmic Gel Forming Solution
 
 Ocumeter® Plus Ophthalmic Dispenser
 
-Mfg. for: ATON PHARMA, INC. Lawrenceville, NJ 08648, USA
+VALEANT®Ophthalmics
 
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France Made in France
+Made in France

@@ -1,17 +1,27 @@
 STERILE OPHTHALMIC GEL FORMING SOLUTION
 
-Manuf. for: ATON PHARMA Lawrenceville NJ 08648 USA
+Manufactured by: Laboratories Merck Sharp & Dohme-Chibret
 
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
+63963 Clermont-Ferrand Cedex 9, France
 
-Issued May 2009
+Distributed by:Valeant Ophthalmics, a division of
 
-50100237
+Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
 
-Manuf. for: ATON PHARMA Lawrenceville NJ 08648 USA
+Rev.
+07/2012
 
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
+70009111
 
-Issued May 2009
+Manufactured by: Laboratories Merck Sharp & Dohme-Chibret
 
-50100237
+63963 Clermont-Ferrand Cedex 9, France
+
+Distributed by:Valeant Ophthalmics, a division of
+
+Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
+
+Rev.
+07/2012
+
+70009111

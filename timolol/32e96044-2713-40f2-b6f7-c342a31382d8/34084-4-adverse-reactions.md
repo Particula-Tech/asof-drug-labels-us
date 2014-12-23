@@ -11,7 +11,7 @@ Adverse experiences reported in 1-5% of patients were:
 | --- | --- |
 | Systemic: | Headache, dizziness, and upper respiratory infections. |
 
-The followingadditional adverse experiences have been reported with the ocular administration of this or other timolol maleate formulations:
+The following additional adverse experiences have been reported with the ocular administration of this or other timolol maleate formulations:
 
 BODY AS A WHOLE
 
@@ -39,7 +39,7 @@ Alopecia and psoriasiform rash or exacerbation of psoriasis.
 
 HYPERSENSITIVITY
 
-Signs and symptoms of systemic allergic reactions, including anaphylaxis, angioedema, urticaria, localized and generalized rash.
+Signs and symptoms of systemic allergic reactions including anaphylaxis, angioedema, urticaria, localized and generalized rash.
 
 RESPIRATORY
 

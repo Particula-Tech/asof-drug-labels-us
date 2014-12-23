@@ -2,7 +2,7 @@
 
 INSTRUCTIONS FOR USE
 
-Please follow these instructions carefully when using TIMOPTIC-XERegistered trademark of ATON PHARMA, INC. COPYRIGHT © 2009 ATON PHARMA, INC. All rights reserved.
+Please follow these instructions carefully when using TIMOPTIC-XERegistered trademark of ATON PHARMA, INC. COPYRIGHT © 2012 ATON PHARMA, INC. All rights reserved.
 Use TIMOPTIC-XE as prescribed by your doctor.
 
 1. If you use other topically applied ophthalmic medications, they should be administered at least 10 minutes before or after TIMOPTIC-XE.

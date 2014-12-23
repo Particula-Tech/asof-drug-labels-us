@@ -2,7 +2,7 @@
 
 TIMOPTIC-XE Sterile Ophthalmic Gel Forming Solution is a colorless to nearly colorless, slightly opalescent, and slightly viscous solution.
 
-No. 810– TIMOPTIC-XE Sterile Ophthalmic Gel Forming Solution, 0.25% timolol equivalent, is supplied in an OCUMETER®Registered trademark of ATON PHARMA, INC. PLUS container, a white, translucent, HDPE plastic ophthalmic dispenser with a controlled drop tip and a white polystyrene cap as follows:
+No. 810– TIMOPTIC-XE Sterile Ophthalmic Gel Forming Solution, 0.25% timolol equivalent, is supplied in an OCUMETER®Registered trademark of MERCK SHARP & DOHME CORP. PLUS container, a white, translucent, HDPE plastic ophthalmic dispenser with a controlled drop tip and a white polystyrene cap as follows:
 
 NDC 25010-810-56, 5 mL in a 7.5 mL capacity bottle.
 

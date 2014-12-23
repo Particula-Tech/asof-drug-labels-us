@@ -8,7 +8,7 @@ TIMOPTIC-XE, when applied topically on the eye, has the action of reducing eleva
 Elevated intraocular pressure is a major risk factor in the pathogenesis of glaucomatous visual field loss and optic nerve damage.
 
 The precise mechanism of the ocular hypotensive action of TIMOPTIC-XE is not clearly established at this time.
-Tonography and fluorophotometry studies of TIMOPTICRegistered trademark of ATON PHARMA, INC COPYRIGHT © 2009 ATON PHARMA, INC. All rights reserved (timolol maleate ophthalmic solution) in man suggest that its predominant action may be related to reduced aqueous formation.
+Tonography and fluorophotometry studies of TIMOPTICRegistered trademark of ATON PHARMA, INC. COPYRIGHT © 2012 ATON PHARMA, INC. All rights reserved (timolol maleate ophthalmic solution) in man suggest that its predominant action may be related to reduced aqueous formation.
 However, in some studies, a slight increase in outflow facility was also observed.
 
 Beta-adrenergic receptor blockade reduces cardiac output in both healthy subjects and patients with heart disease.
