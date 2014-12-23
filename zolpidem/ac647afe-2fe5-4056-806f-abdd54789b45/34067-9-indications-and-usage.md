@@ -1,4 +1,4 @@
-# 1. INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 Zolpidem tartrate extended-release tablets USP are indicated for the treatment of insomnia characterized by difficulties with sleep onset and/or sleep maintenance (as measured by wake time after sleep onset).
 

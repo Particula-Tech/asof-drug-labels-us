@@ -1,7 +1,6 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (MEDICATION GUIDE).
-
+Advice patients to read the FDA-approved patient labeling (Medication Guide).
 Inform patients and their families about the benefits and risks of treatment with zolpidem tartrate extended-release tablets.
 Inform patients of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with zolpidem tartrate extended-release tablets and with each prescription refill.
 Review the zolpidem tartrate extended-release tablets Medication Guide with every patient prior to initiation of treatment.
@@ -38,7 +37,8 @@ Tell patients not to increase the dose of zolpidem tartrate extended-release tab
 
 Administration Instructions
 
-Patients should be counseled to take zolpidem tartrate extended-release tablets right before they get into bed and only when they are able to stay in bed a full night (7-8 hours) before being active again. zolpidem tartrate extended-release tablets should not be taken with or immediately after a meal.
+Patients should be counseled to take zolpidem tartrate extended-release tablets right before they get into bed and only when they are able to stay in bed a full night (7 to 8 hours) before being active again.
+Zolpidem tartrate extended-release tablets should not be taken with or immediately after a meal.
 Advise patients NOT to take zolpidem tartrate extended-release tablets if they drank alcohol that evening.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
@@ -59,4 +59,4 @@ Goa 403 722
 
 INDIA
 
-Revised: August 2014 ID#:238255
+Revised: January 2015 ID#:239582

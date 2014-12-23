@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
@@ -14,7 +14,7 @@ Associated with Discontinuation of Treatment
 In 3-week clinical trials in adults and elderly patients (> 65 years), 3.5% (7/201) patients receiving zolpidem tartrate extended-release tablets 6.25 or 12.5 mg discontinued treatment due to an adverse reaction as compared to 0.9% (2/216) of patients on placebo.
 The reaction most commonly associated with discontinuation in patients treated with zolpidem tartrate extended-release tablets were somnolence (1%).
 
-In a 6-month study in adult patients (18-64 years of age), 8.5% (57/669) of patients receiving zolpidem tartrate extended-release tablets 12.5 mg as compared to 4.6% on placebo (16/349) discontinued treatment due to an adverse reaction.
+In a 6-month study in adult patients (18 to 64 years of age), 8.5% (57/669) of patients receiving zolpidem tartrate extended-release tablets 12.5 mg as compared to 4.6% on placebo (16/349) discontinued treatment due to an adverse reaction.
 Reactions most commonly associated with discontinuation of zolpidem tartrate extended-release tablets included anxiety (anxiety, restlessness or agitation) reported in 1.5% (10/669) of patients as compared to 0.3% (1/349) of patients on placebo, and depression (depression, major depression or depressed mood) reported in 1.5% (10/669) of patients as compared to 0.3% (1/349) of patients on placebo.
 
 Data from a clinical study in which selective serotonin reuptake inhibitor- (SSRI-) treated patients were given zolpidem revealed that four of the seven discontinuations during double-blind treatment with zolpidem (n=95) were associated with impaired concentration, continuing or aggravated depression, and manic reaction; one patient treated with placebo (n=97) was discontinued after an attempted suicide.
@@ -172,7 +172,7 @@ To provide a meaningful estimate of the proportion of individuals experiencing t
 
 The frequencies presented, therefore, represent the proportions of the 3,660 individuals exposed to zolpidem, at all doses, who experienced an event of the type cited on at least one occasion while receiving zolpidem.
 All reported treatment-emergent adverse events are included, except those already listed in the table above of adverse events in placebo-controlled studies, those coding terms that are so general as to be uninformative, and those events where a drug cause was remote.
-It is important to emphasize that, although the events reported did occur during treatment with Ambien, they were not necessarily caused by it.
+It is important to emphasize that, although the events reported did occur during treatment with AMBIEN, they were not necessarily caused by it.
 
 Adverse events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in greater than 1/100 subjects; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in less than 1/1,000 patients.
 

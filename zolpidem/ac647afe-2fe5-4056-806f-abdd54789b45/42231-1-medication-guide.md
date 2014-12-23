@@ -1,6 +1,8 @@
 MEDICATION GUIDE
 
-Zolpidem Tartrate Extended-Release Tablets USP, 6.25 mg and 12.5 mg C-IV
+Zolpidem Tartrate (zole-PI-dem TAR-trate)
+
+Extended-Release Tablets USP, 6.25 mg and 12.5 mg C-IV
 
 Rx only
 
@@ -90,11 +92,12 @@ Keep a list of your medicines with you to show your healthcare provider and phar
 
 How should I take zolpidem tartrate extended-release tablets?
 
-- See "What is the most important information I should know about zolpidem tartrate extended-release tablets?"
+- See"What is the most important information I should know about zolpidem tartrate extended-release tablets?"
 - Take zolpidem tartrate extended-release tablets exactly as prescribed.
   Only take 1 zolpidem tartrate extended-release tablet a night if needed.
 - Do not take zolpidem tartrate extended-release tablets if you drank alcohol that evening or before bed.
-- You should not take zolpidem tartrate extended-release tablets with or right after a meal. zolpidem tartrate extended-release tablets may help you fall asleep faster if you take it on an empty stomach.
+- You should not take zolpidem tartrate extended-release tablets with or right after a meal.
+  Zolpidem tartrate extended-release tablets may help you fall asleep faster if you take it on an empty stomach.
 - Take zolpidem tartrate extended-release tablets whole.
   Do not break, crush, dissolve or chew zolpidem tartrate extended-release tablets before swallowing.
   If you cannot swallow zolpidem tartrate extended-release tablets whole, tell your healthcare provider.
@@ -108,7 +111,7 @@ What are the possible side effects of zolpidem tartrate extended-release tablets
 Zolpidem tartrate extended-release tablets may cause serious side effects including:
 
 - getting out of bed while not being fully awake and doing an activity that you do not know you are doing.
-  (See "What is the most important information I should know about zolpidem tartrate extended-release tablets?
+  (See "What is the most important information I should know aboutzolpidem tartrate extended-release tablets?
   ")
 - abnormal thoughts and behavior.
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
@@ -117,6 +120,7 @@ Zolpidem tartrate extended-release tablets may cause serious side effects includ
 - severe allergic reactions.
   Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
   Get emergency medical help if you get these symptoms after taking zolpidem tartrate extended-release tablets.
+- falls, which may lead to severe injuries
 
 Call your healthcare provider right away if you have any of the above side effects or any other side effects that worry you while using zolpidem tartrate extended-release tablets.
 
@@ -193,4 +197,4 @@ Goa 403 722
 
 INDIA
 
-November 2013 ID #: 219520
+Revised: January 2015 ID #: 239583
