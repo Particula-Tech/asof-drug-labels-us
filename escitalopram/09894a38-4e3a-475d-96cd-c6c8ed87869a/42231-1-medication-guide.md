@@ -251,7 +251,7 @@ For more information about escitalopram oxalate call 1-877-835-5472 or go to www
 
 What are the ingredients inescitalopram oxalate oral solution?
 
-Active ingredient: escitalopram oxalate
+Active ingredient: escitalopram oxalate, USP
 
 Inactive ingredients:
 
@@ -268,6 +268,6 @@ Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
 Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
 
 Rev.
-08-2014-00
+11-2014-01
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
