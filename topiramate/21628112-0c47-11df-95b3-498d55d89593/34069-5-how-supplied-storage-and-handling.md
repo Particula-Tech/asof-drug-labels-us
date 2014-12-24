@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+## 16.1 How Supplied
+
 TOPAMAX® Tablets
 
 TOPAMAX® (topiramate) Tablets are available as debossed, coated, round tablets in the following strengths and colors:
@@ -21,10 +23,14 @@ The gelatin capsules are white and clear and are marked as follows:
 
 25 mg capsule with "TOP" and "25 mg" on the side and are available in bottles of 60 (NDC 50458-645-65)
 
-Storage and Handling
+## 16.2 Storage and Handling
+
+TOPAMAX® Tablets
 
 TOPAMAX® Tablets should be stored in tightly-closed containers at controlled room temperature (59° to 86°F, 15° to 30°C).
 Protect from moisture.
+
+TOPAMAX® Sprinkle Capsules
 
 TOPAMAX® Sprinkle Capsules should be stored in tightly-closed containers at or below 25°C (77°F).
 Protect from moisture.

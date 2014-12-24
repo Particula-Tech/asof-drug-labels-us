@@ -228,7 +228,7 @@ The incidence of markedly increased hyperammonemia (at least 50% or higher above
 During this trial, markedly increased ammonia levels returned to normal in all but one patient (in whom the ammonia level fell to high instead of markedly abnormal).
 
 Topiramate treatment has produced hyperammonemia in a clinical investigational program in very young pediatric patients (1 to 24 months) who were treated with adjunctive topiramate for partial onset epilepsy (8% for placebo, 10% for 5 mg/kg/day, 0% for 15 mg/kg/day, 9% for 25 mg/kg/day).
-In some patients, ammonia was markedly increased (≥50% above upper limit of normal).
+In some patients, ammonia was markedly increased (≥ 50% above upper limit of normal).
 The hyperammonemia associated with topiramate treatment occurred with and without encephalopathy in placebo-controlled trials and in an open-label, extension trial of infants with refractory epilepsy.
 Dose-related hyperammonemia was observed in the extension trial in pediatric patients up to 2 years old.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.

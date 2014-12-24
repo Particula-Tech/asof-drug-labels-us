@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D. [see Warnings and Precautions (5.7)]
+Pregnancy Category D [see Warnings and Precautions (5.7)]
 
 TOPAMAX® (topiramate) can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts).

@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide.
-Inform patients and their caregivers of the availability of a Medication Guide, and instruct them to read this prior to taking TOPAMAX®.
-Instruct patients to take TOPAMAX® only as prescribed.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Eye Disorders
 

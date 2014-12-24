@@ -9,9 +9,8 @@ The following adverse reactions are discussed in more detail in other sections o
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
 - Fetal Toxicity [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)]
-- Withdrawal of Antiepileptic Drugs (AEDs) [see Warnings and Precautions (5.8)]
 - Sudden Unexplained Death in Epilepsy (SUDEP) [see Warnings and Precautions (5.9)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use [see Warnings and Precautions (5.10)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.10)]
 - Kidney Stones [see Warnings and Precautions (5.11)]
 - Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.12)]
 - Paresthesia [see Warnings and Precautions (5.13)]
@@ -21,6 +20,15 @@ The data described in the following sections were obtained using TOPAMAX® (topi
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the incidence of adverse reactions observed in the clinical trials of a drug cannot be directly compared to the incidence of adverse reactions in the clinical trials of another drug, and may not reflect the incidence of adverse reactions observed in practice.
+
+Increased Risk for Bleeding
+
+Topiramate treatment is associated with an increased risk for bleeding.
+In a pooled analysis of placebo-controlled studies of approved and unapproved indications, bleeding was more frequently reported as an adverse event for TOPAMAX® than for placebo (4.5% versus 3.0% in adult patients, and 4.4% versus 2.3% in pediatric patients).
+In this analysis, the incidence of serious bleeding events for TOPAMAX® and placebo was 0.3% versus 0.2% for adult patients, and 0.4% versus 0% for pediatric patients.
+
+Adverse bleeding reactions reported with TOPAMAX® ranged from mild epistaxis, ecchymosis, and increased menstrual bleeding to life-threatening hemorrhages.
+In patients with serious bleeding events, conditions that increased the risk for bleeding were often present, or patients were often taking drugs that cause thrombocytopenia (other antiepileptic drugs) or affect platelet function or coagulation (e.g., aspirin, nonsteroidal anti-inflammatory drugs, selective serotonin reuptake inhibitors, or warfarin or other anticoagulants).
 
 Monotherapy Epilepsy
 
@@ -37,7 +45,7 @@ The adverse reactions in the controlled trial that occurred most commonly in ped
 Table 5 also presents the incidence of adverse reactions occurring in at least 2% of adult and pediatric patients treated with 400 mg/day TOPAMAX® and occurring with greater incidence than 50 mg/day TOPAMAX®.
 
 Approximately 14% of the 77 pediatric patients in the 400 mg/day group who received TOPAMAX® as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
-The most common (> 2% more frequent than low-dose 50 mg/day TOPAMAX®) adverse reactions resulting in discontinuation in this trial were difficulty with concentration/attention, fever, flushing, and confusion.
+The most common (≥ 2% more frequent than low-dose 50 mg/day TOPAMAX®) adverse reactions resulting in discontinuation in this trial were difficulty with concentration/attention, fever, flushing, and confusion.
 
 Table 5: Incidence (%) of Treatment-Emergent Adverse Reactions in Monotherapy Epilepsy Where the Incidence Was at Least 2% in Any TOPAMAX® Group and the Incidence in the 400 mg/day TOPAMAX® Group Was Greater Than the Incidence in the 50 mg/day TOPAMAX® Group for Adults (≥16 Years) and Pediatric (6 to <16 Years) Patients in Study TOPMAX-EPMN-106
 
