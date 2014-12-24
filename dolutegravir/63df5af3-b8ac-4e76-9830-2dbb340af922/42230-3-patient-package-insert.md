@@ -4,7 +4,7 @@ TIVICAY® (TIV-eh-kay)
 
 (dolutegravir)
 
-Tablets
+tablets
 
 Read this Patient Information before you start taking TIVICAY and each time you get a refill.
 There may be new information.
@@ -12,7 +12,7 @@ This information does not take the place of talking with your healthcare provide
 
 What is TIVICAY?
 
-TIVICAY is a prescription HIV medicine that is used with other antiretroviral medicines to treat Human Immunodeficiency Virus-1 (HIV-1) infections in adults and children 12 years of age and older and weighing at least 88 pounds.
+TIVICAY is a prescription HIV-1 medicine that is used with other antiretroviral medicines to treat Human Immunodeficiency Virus-1 (HIV-1) infection.
 
 HIV-1 is the virus that causes Acquired Immune Deficiency Syndrome (AIDS).
 
@@ -20,11 +20,12 @@ It is not known if TIVICAY is safe and effective in children under 12 years of a
 
 When used with other HIV-1 medicines to treat HIV–1 infection, TIVICAY may help:
 
-- •Reduce the amount of HIV-1 in your blood.
+- •reduce the amount of HIV-1 in your blood.
   This is called “viral load”.
-- •Increase the number of white blood cells called CD4+ (T) cells in your blood, which help fight off other infections.
-- •Reduce the amount of HIV-1 and increase the CD4+ (T) cells in your blood which may help improve your immune system.
-  This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
+- •increase the number of white blood cells called CD4+ (T) cells in your blood, which help fight off other infections.
+
+Reducing the amount of HIV-1 and increasing the CD4+ (T) cells in your blood may help improve your immune system.
+This may reduce your risk of death or getting infections that can happen when your immune system is weak (opportunistic infections).
 
 TIVICAY does not cure HIV-1 infection or AIDS.
 You must stay on continuous HIV-1 therapy to control HIV-1 infection and decrease HIV-related illnesses.
@@ -34,33 +35,38 @@ Avoid doing things that can spread HIV-1 infection to others.
 - •Do not share or re-use needles or other injection equipment.
 - •Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - •Do not have any kind of sex without protection.
-  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
+  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
 
 Ask your healthcare provider if you have any questions about how to prevent passing HIV to other people.
 
 Who should not take TIVICAY?
 
-Do not take TIVICAY if you take dofetilide.
-Taking TIVICAY and dofetilide can cause side effects that may be life-threatening.
+Do not take TIVICAY if you:
+
+- •have ever had an allergic reaction to a medicine that contains dolutegravir (TIVICAY, TRIUMEQ).
+- •take dofetilide (TIKOSYN®).
+  Taking TIVICAY and dofetilide (TIKOSYN) can cause side effects that may be life-threatening.
 
 What should I tell my healthcare provider before taking TIVICAY?
 
 Before you take TIVICAY, tell your healthcare provider if you:
 
-- •have ever had an allergic reaction to TIVICAY
-- •have or had liver problems, including hepatitis B or C infection
-- •have any other medical condition
+- •have ever had an allergic reaction to TIVICAY.
+- •have or had liver problems, including hepatitis B or C infection.
+- •have any other medical condition.
 - •are pregnant or plan to become pregnant.
   It is not known if TIVICAY will harm your unborn baby.
-  Tell your healthcare provider if you become pregnant while taking TIVICAY.Pregnancy Registry.
+  Tell your healthcare provider if you become pregnant while taking TIVICAY.
+- Pregnancy Registry.
   There is a pregnancy registry for women who take antiviral medicines during pregnancy.
   The purpose of the registry is to collect information about the health of you and your baby.
   Talk to your healthcare provider about how you can take part in this registry.
+
 - •are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take TIVICAY.
-  - ∘You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
-  - ∘It is not known if TIVICAY passes into your breast milk.
-  - ∘Talk to your healthcare provider about the best way to feed your baby.
+  - •You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
+  - •It is not known if TIVICAY passes into your breast milk.
+  - •Talk to your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about the medicines you take, including prescription and over-the-counter medicines, vitamins, or herbal supplements.
 
@@ -69,17 +75,18 @@ TIVICAY may affect the way other medicines work, and other medicines may affect 
 
 Especially tell your healthcare provider if you take:
 
-- •other HIV-1 medicines including: efavirenz (SUSTIVA®), etravirine (INTELENCE®), fosamprenavir (LEXIVA®)/ritonavir (N0RVIR®), nevirapine (VIRAMUNE®), or tipranavir (APTIVUS®)/ritonavir (N0RVIR).
-- •antacids or laxatives that contain aluminum, magnesium, sucralfate (CARAFATE®), or buffered medicines.
+- •other HIV-1 medicines including: efavirenz (SUSTIVA®), etravirine (INTELENCE®), fosamprenavir (LEXIVA®)/ritonavir (NORVIR®), nevirapine (VIRAMUNE®), tipranavir (APTIVUS®)/ritonavir (NORVIR).
+- •another medicine that contains dolutegravir (TRIUMEQ).
+- •antacids, laxatives or other medicines that contain aluminum, magnesium, sucralfate (CARAFATE®), or buffered medicines.
   TIVICAY should be taken at least 2 hours before or 6 hours after you take these medicines.
 - •iron or calcium supplements.
   Supplements including multivitamins containing calcium or iron may be taken at the same time with TIVICAY if taken with food.
   Otherwise, TIVICAY should be taken at least 2 hours before or 6 hours after you take these medicines.
 - •anti-seizure medicines:
-  - ∘oxcarbazepine (TRILEPTAL®)
-  - ∘phenytoin (DILANTIN®, DILANTIN®-125, PHENYTEK®)
-  - ∘phenobarbital (LUMINAL®)
-  - ∘carbamazepine (CARBATROL®, EQUETRO®, TEGRETOL®, TEGRETOL®-XR, TERIL®, EPITOL®)
+  - •oxcarbazepine (TRILEPTAL®)
+  - •phenytoin (DILANTIN®, DILANTIN®-125, PHENYTEK®)
+  - •phenobarbital (LUMINAL®)
+  - •carbamazepine (CARBATROL®, EQUETRO®, TEGRETOL®, TEGRETOL®-XR, TERIL®, EPITOL®)
 - •St.
   John’s wort (Hypericum perforatum)
 - •a medicine that contains metformin
@@ -100,10 +107,10 @@ How should I take TIVICAY?
   If it is within 4 hours of your next dose, skip the missed dose and take the next dose at your regular time.
   Do not take 2 doses at the same time.
   If you are not sure about your dosing, call your healthcare provider.
-- •If you take too much TIVICAY, call your healthcare provider or go to the nearest hospital emergency room right away.
 - •Do not run out of TIVICAY.
   The virus in your blood may become resistant to other HIV-1 medicines if TIVICAY is stopped for even a short time.
   When your supply starts to run low, get more from your healthcare provider or pharmacy.
+- •If you take too much TIVICAY, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of TIVICAY?
 
@@ -113,22 +120,22 @@ TIVICAY may cause serious side effects, including:
   Call your healthcare provider right away if you develop a rash with TIVICAY.
   Stop taking TIVICAY and get medical help right away if you:
 - •develop a rash with any of the following signs or symptoms
-  - ∘fever
-  - ∘generally ill feeling
-  - ∘extreme tiredness
-  - ∘muscle or joint aches
-  - ∘blisters or sores in mouth
-  - ∘blisters or peeling of the skin
-  - ∘redness or swelling of the eyes
-  - ∘swelling of the mouth, face, lips, or tongue
-  - ∘problems breathing
+  - •fever
+  - •generally ill feeling
+  - •extreme tiredness
+  - •muscle or joint aches
+  - •blisters or sores in mouth
+  - •blisters or peeling of the skin
+  - •redness or swelling of the eyes
+  - •swelling of the mouth, face, lips, or tongue
+  - •problems breathing
 - •develop any of the following signs or symptoms of liver problems:
-  - ∘yellowing of the skin or whites of the eyes
-  - ∘dark or tea-colored urine
-  - ∘pale-colored stools or bowel movements
-  - ∘nausea or vomiting
-  - ∘loss of appetite
-  - ∘pain, aching, or tenderness on the right side below the ribs
+  - •yellowing of the skin or whites of the eyes
+  - •dark or tea-colored urine
+  - •pale-colored stools or bowel movements
+  - •nausea or vomiting
+  - •loss of appetite
+  - •pain, aching, or tenderness on the right side below the ribs
 - •Changes in liver tests.
   People with a history of hepatitis B or C virus may have an increased risk of developing new or worsening changes in certain liver tests during treatment with TIVICAY.
   Your healthcare provider may do tests to check your liver function before and during treatment with TIVICAY.
@@ -142,7 +149,9 @@ TIVICAY may cause serious side effects, including:
 
 The most common side effects of TIVICAY include:
 
+- •see “Allergic reactions” above
 - •trouble sleeping
+- •tiredness
 - •headache
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
@@ -159,7 +168,7 @@ How should I store TIVICAY?
 
 Keep TIVICAY and all medicines out of the reach of children.
 
-General information about TIVICAY
+General information about the safe and effective use of TIVICAY.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use TIVICAY for a condition for which it was not prescribed.
@@ -168,7 +177,7 @@ It may harm them.
 
 You can ask your pharmacist or healthcare provider for information about TIVICAY that is written for health professionals.
 
-For more information call 1-877-844-8872 or go to www.TIVICAY.com.
+For more information, call 1-877-844-8872 or go to www.TIVICAY.com.
 
 What are the ingredients in TIVICAY?
 
@@ -191,9 +200,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-May 2014
+Revised: December 2014
 
-TVC:2PIL
+TVC:3PIL
 
 ©2014, the ViiV Healthcare group of companies.
 All rights reserved.

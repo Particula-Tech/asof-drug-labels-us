@@ -1,7 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-TIVICAY® is indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults and children aged 12 years and older and weighing at least 40 kg.
+TIVICAY® is indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus type 1 (HIV-1) infection.
 
-The following should be considered prior to initiating treatment with TIVICAY:
+Limitations of Use:
 
-- •Poor virologic response was observed in subjects treated with TIVICAY 50 mg twice daily with an integrase strand transfer inhibitor (INSTI)-resistance Q148 substitution plus 2 or more additional INSTI-resistance substitutions, including L74I/M, E138A/D/K/T, G140A/S, Y143H/R, E157Q, G163E/K/Q/R/S, or G193E/R [see Microbiology (12.4)].
+- •Use of TIVICAY in integrase strand transfer inhibitor (INSTI)-experienced patients should be guided by the number and type of baseline INSTI substitutions.
+  The efficacy of TIVICAY 50 mg twice daily is reduced in patients with an INSTI-resistance Q148 substitution plus 2 or more additional INSTI-resistance substitutions, including T66A, L74I/M, E138A/K/T, G140S/A/C, Y143R/C/H, E157Q, G163S/E/K/Q, or G193E/R [see Microbiology (12.4)].
