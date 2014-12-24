@@ -8,8 +8,8 @@ Naloxone is a potent antagonist at mu-opioid receptors and produces opioid withd
 
 ## 12.2 Pharmacodynamics
 
-ZUBSOLV has been shown to have different bioavailability compared to SUBOXONE tablet.
-One ZUBSOLV 5.7 mg/1.4 mg tablet provides equivalent buprenorphine exposure and 12% lower naloxone exposure to one SUBOXONE 8 mg/2 mg tablet.
+ZUBSOLV has been shown to have different bioavailability compared to Suboxone tablet.
+One ZUBSOLV 5.7 mg/1.4 mg tablet provides equivalent buprenorphine exposure and 12% lower naloxone exposure to one Suboxone 8 mg/2 mg tablet.
 The pharmacodynamic information of other currently marketed buprenorphine/naloxone-containing sublingual products is not directly comparable on a mg basis to ZUBSOLV.
 (see section 2.6).
 
@@ -60,8 +60,8 @@ There was wide inter-patient variability in the sublingual absorption of bupreno
 Both Cmax and AUC of buprenorphine increased with the increase in dose (in the range of 1.4 to 11.4 mg), although the increase was not directly dose-proportional.
 Naloxone did not affect the pharmacokinetics of buprenorphine.
 
-ZUBSOLV has been shown to have different bioavailability compared to SUBOXONE tablet.
-One ZUBSOLV 5.7 mg/1.4 mg tablet provides equivalent buprenorphine exposure and 12% lower naloxone exposure to one SUBOXONE 8 mg/2 mg tablet.
+ZUBSOLV has been shown to have different bioavailability compared to Suboxone tablet.
+One ZUBSOLV 5.7 mg/1.4 mg tablet provides equivalent buprenorphine exposure and 12% lower naloxone exposure to one Suboxone 8 mg/2 mg tablet.
 
 Distribution:
 
@@ -92,3 +92,31 @@ The interaction of buprenorphine with all CYP3A4 inducers has not been studied, 
 
 Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in-vitro studies employing human liver microsomes.
 However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns.
+
+Special Populations:
+
+Hepatic Impairment: In a pharmacokinetic study, the disposition of buprenorphine and naloxone were determined after administering a SUBOXONE 2.0/0.5 mg (Buprenorphine/Naloxone) sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
+The disposition of buprenorphine and naloxone in patients with hepatic impairment were compared to disposition in subjects with normal hepatic function.
+
+In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of both buprenorphine and naloxone were not clinically significant.
+No dosing adjustment is needed in patients with mild hepatic impairment.
+
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of both buprenorphine and naloxone were increased; the effects on naloxone are greater than that on buprenorphine (Table 4).
+
+Table 4.
+Changes in Pharmacokinetic Parameters in Subjects With Moderate and Severe Hepatic Impairment
+
+| Hepatic Impairment | PK Parameters | Increase in buprenorphine compared to healthy subjects | Increase in naloxone compared to healthy subjects |
+| --- | --- | --- | --- |
+| Moderate | Cmax | 8% | 170% |
+| AUC0-last | 64% | 218% |  |
+| Half-life | 35% | 165% |  |
+| Severe | Cmax | 72% | 1030% |
+| AUC0-last | 181% | 1302% |  |
+| Half-life | 57% | 122% |  |
+
+The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than subjects with moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
+Buprenorphine/naloxone products should be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.11) and Use in Specific Populations (8.6)].
+
+HCV infection: In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean Cmax, AUC0-last, and half-life values of buprenorphine and naloxone were not clinically significant in comparison to healthy subjects without HCV infection.
+No dosing adjustment is needed in patients with HCV infection.

@@ -1,5 +1,8 @@
 MEDICATION GUIDE ZUBSOLV® (Zub-solve) (buprenorphine and naloxone) Sublingual Tablet (CIII)
 
+| IMPORTANT:Keep ZUBSOLV in a secure place away from children. If a child accidentally takes ZUBSOLV, this is a medical emergency and can result in death. Get emergency help right away. |
+| --- |
+
 Read this Medication Guide before you start taking ZUBSOLV and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor.
@@ -37,6 +40,9 @@ What is the most important information I should know about ZUBSOLV?
 What is ZUBSOLV?
 
 - ZUBSOLV is a prescription medicine used to treat adults who are addicted to opioid drugs (either prescription or illegal); as part of a complete treatment program that also includes counseling and behavioral therapy.
+
+| ZUBSOLV is a controlled substance (CIII) because it contains buprenorphine, which can be a target for people who abuse prescription medicines or street drugs. Keep your ZUBSOLV in a safe place to protect it from theft. Never give your ZUBSOLV to anyone else; it can cause death or harm them. Selling or giving away this medicine is against the law. |
+| --- |
 
 - It is not known if ZUBSOLV is safe or effective in children.
 
@@ -106,10 +112,12 @@ How should I take ZUBSOLV?
     This could cause the tablet to break.
   - As soon as you remove your prescribed dose of ZUBSOLV from the blister pack:
     - Place the tablet under your tongue (See Figures D, E, and F). If more than 1 tablet is required, place the tablets in different places under your tongue at the same time.
-    - Let the tablet dissolve completely.
-      ZUBSOLV usually dissolves in your mouth within 5 minutes.
-      If your mouth is dry, take a sip of water to moisten it.
-      Spit out or swallow the water and dry your hands if they are wet before you place the ZUBSOLV tablet under your tongue.
+
+Let the tablet dissolve completely.
+ZUBSOLV usually dissolves in your mouth within 5 minutes.
+If your mouth is dry, take a sip of water to moisten it.
+Spit out or swallow the water and dry your hands if they are wet before you place the ZUBSOLV tablet under your tongue.
+
 - While ZUBSOLV is dissolving, do not chew or swallow the tablet because the medicine will not work as well.
 - Do not eat or drink anything until the ZUBSOLV tablet has completely dissolved.
 - Talking while the tablet is dissolving can affect how well the medicine in ZUBSOLV is absorbed.
@@ -196,12 +204,6 @@ Inactive Ingredients: mannitol, citric acid, sodium citrate, microcrystalline ce
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for Orexo US, Inc. by Orexo AB with AAIPharma Wilmington, North Carolina
+Manufactured for Orexo US, Inc. by AAIPharma ZUBSOLV is a registered trademark of Orexo US, Inc. © 2013 Orexo US, Inc. All rights reserved.
 
-Distributed by Orexo US, Inc. New York, New York
-
-ZUBSOLV is a licensed trademark of Orexo US, Inc. © 2013 Orexo US, Inc. All rights reserved.
-
-Issued: 07/2013
-
-Printed in USA Code # ZUB 01
+Issued: 07/2013 Printed in USA Code # ZUB 01

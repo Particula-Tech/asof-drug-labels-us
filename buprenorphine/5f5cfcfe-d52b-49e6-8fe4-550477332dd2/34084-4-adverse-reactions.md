@@ -46,7 +46,7 @@ Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-week Study
 | N (%) | N (%) | N (%) | N (%) | N (%) |  |
 | --- | --- | --- | --- | --- | --- |
 | Body System /Adverse Event (COSTART Terminology) | Buprenorphine doseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a Suboxone tablet dose of 2 mg "Low" dose (4 mg solution) approximates a 6 mg Suboxone tablet dose "Moderate" dose (8 mg solution) approximates a 12 mg Suboxone tablet dose "High" dose (16 mg solution) approximates a 24 mg Suboxone tablet dose |  |  |  |  |
-| Very Low (N=184) | Low (N=180) | Moderate (N=186) | High (N=181) | Total (N=731) |  |
+| Very Low (N=184) | Low(N=180) | Moderate (N=186) | High (N=181) | Total (N=731) |  |
 | Body as a Whole |  |  |  |  |  |
 | Abscess | 9 (5%) | 2 (1%) | 3 (2%) | 2 (1%) | 16 (2%) |
 | Asthenia | 26 (14%) | 28 (16%) | 26 (14%) | 24 (13%) | 104 (14%) |

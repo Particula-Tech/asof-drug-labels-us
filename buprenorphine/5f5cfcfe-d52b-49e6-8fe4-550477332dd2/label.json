@@ -5,8 +5,10 @@
   "inn": "buprenorphine",
   "labeler": "Orexo US, Inc.",
   "package_ndcs": [
+    "54123-114-30",
     "54123-914-30",
-    "54123-957-30"
+    "54123-957-30",
+    "54123-986-30"
   ],
   "products": [
     {

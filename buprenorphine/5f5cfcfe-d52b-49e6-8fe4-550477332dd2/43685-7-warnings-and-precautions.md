@@ -32,7 +32,7 @@ Consider dose reduction of CNS depressants, ZUBSOLV sublingual tablets, or both 
 
 Buprenorphine can cause fatal respiratory depression in children who are accidentally exposed to it.
 Store buprenorphine containing medications safely out of the sight and reach of children and destroy any unused medication appropriately.
-[see Patient Counseling Information (17.2)]
+[see Patient Counseling Information (17)]
 
 ## 5.5 Dependence
 
@@ -78,28 +78,38 @@ Adverse events associated with the neonatal abstinence syndrome included hyperto
 There have been reported deaths of opioid naive individuals who received a 2 mg dose of buprenorphine as a sublingual tablet for analgesia.
 ZUBSOLV sublingual tablet is not appropriate as an analgesic.
 
-## 5.11 Impairment of Ability to Drive or Operate Machinery
+## 5.11 Use in Patients With Impaired Hepatic Function
+
+Buprenorphine/naloxone products are not recommended in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment.
+The the doses of buprenorphine and naloxone in this fixed-dose combination product cannot be individually titrated, and hepatic impairment results in a reduced clearance of naloxone to a much greater extent than buprenorphine.
+Therefore, patients with severe hepatic impairment will be exposed to substantially higher levels of naloxone than patients with normal hepatic function.
+This may interfere with buprenorphine's efficacy throughout treatment.
+In patients with moderate hepatic impairment, the differential reduction of naloxone clearance compared to buprenorphine clearance is not as great as in subjects with severe hepatic impairment.
+Therefore, buprenorphine/naloxone products may be used with caution for maintenance treatment in patients with moderate hepatic impairment who have initiated treatment on a buprenorphine product without naloxone.
+However, patients should be carefully monitored and consideration given to the possibility of naloxone interfering with buprenorphine's efficacy [see Use in Specific Populations (8.6)].
+
+## 5.12 Impairment of Ability to Drive or Operate Machinery
 
 ZUBSOLV sublingual tablet may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially during treatment induction and dose adjustment.
 Patients should be cautioned about driving or operating hazardous machinery until they are reasonably certain that ZUBSOLV sublingual tablet therapy does not adversely affect his or her ability to engage in such activities.
 
-## 5.12 Orthostatic Hypotension
+## 5.13 Orthostatic Hypotension
 
 Like other opioids, ZUBSOLV sublingual tablets may produce orthostatic hypotension in ambulatory patients.
 
-## 5.13 Elevation of Cerebrospinal Fluid Pressure
+## 5.14 Elevation of Cerebrospinal Fluid Pressure
 
 Buprenorphine, like other opioids, may elevate cerebrospinal fluid pressure and should be used with caution in patients with head injury, intracranial lesions, and other circumstances when cerebrospinal pressure may be increased.
 Buprenorphine can produce miosis and changes in the level of consciousness that may interfere with patient evaluation.
 
-## 5.14 Elevation of Intracholedochal Pressure
+## 5.15 Elevation of Intracholedochal Pressure
 
 Buprenorphine has been shown to increase intracholedochal pressure, as do other opioids, and thus should be administered with caution to patients with dysfunction of the biliary tract.
 
-## 5.15 Effects in Acute Abdominal Conditions
+## 5.16 Effects in Acute Abdominal Conditions
 
 As with other opioids, buprenorphine may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
 
-## 5.16 General Precautions
+## 5.17 General Precautions
 
 ZUBSOLV sublingual tablet should be administered with caution in debilitated patients and those with myxedema or hypothyroidism, adrenal cortical insufficiency (e.g., Addison's disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; acute alcoholism; delirium tremens; or kyphoscoliosis.

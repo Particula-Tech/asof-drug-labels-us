@@ -46,7 +46,7 @@ Based on these studies the incidence of neonatal abstinence syndrome is not clea
 Animal Data
 
 ZUBSOLV has been shown to have differences in bioavailability compared to other buprenorphine/naloxone-containing sublingual products.
-The exposure margins listed below are based on body surface area comparisons (mg/m2) to the recommended human sublingual dose of 16 mg buprenorphine via Suboxone, which is equivalent to a human sublingual dose of 11.4 mg buprenorphine via Zubsolv.
+The exposure margins listed below are based on body surface area comparisons (mg/m2) to the recommended human sublingual dose of 16 mg buprenorphine via Suboxone, which is equivalent to a human sublingual dose of 11.4 mg buprenorphine via ZUBSOLV.
 
 Effects on embryo-fetal development were studied in Sprague-Dawley rats and Russian white rabbits following oral (1:1) and intramuscular (IM) (3:2) administration of mixtures of buprenorphine and naloxone.
 Following oral administration to rats and rabbits, no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day and 40 mg/kg/day, respectively (estimated exposure approximately 150 times and 50 times, respectively, the recommended human sublingual dose).
@@ -72,12 +72,12 @@ Risk Summary
 
 Based on two studies in 13 lactating women, buprenorphine and its metabolite norbuprenorphine are present in low levels in human milk and infant urine, and available data have not shown adverse reactions in breastfed infants.
 There are no data on the combination product buprenorphine/naloxone in breastfeeding, however oral absorption of naloxone is minimal.
-Caution should be exercised when Zubsolv is administered to a nursing woman.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Zubsolv and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
+Caution should be exercised when ZUBSOLV is administered to a nursing woman.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ZUBSOLV and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
 Clinical Considerations
 
-Advise the nursing mother taking Zubsolv to monitor the infant for increased drowsiness and breathing difficulties.
+Advise the nursing mother taking ZUBSOLV to monitor the infant for increased drowsiness and breathing difficulties.
 
 Data
 
@@ -101,10 +101,12 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of buprenorphine and naloxone is unknown.
-Since both drugs are extensively metabolized, the plasma levels will be expected to be higher in patients with moderate and severe hepatic impairment.
-However, it is not known whether both drugs are affected to the same degree.
-Therefore, dosage should be adjusted and patients should be watched for signs and symptoms of precipitated opioid withdrawal.
+The effect of hepatic impairment on the pharmacokinetics of buprenorphine and naloxone has been evaluated in a pharmacokinetic study.
+Both drugs are extensively metabolized in the liver.
+While no clinically significant changes have been observed in subjects with mild hepatic impairment; the plasma levels have been shown to be higher and half-life values have been shown to be longer for both buprenorphine and naloxone in subjects with moderate and severe hepatic impairment.
+The magnitude of the effects on naloxone is greater than that on buprenorphine in both moderately and severely impaired subjects.
+The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than in subjects with moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
+Buprenorphine/naloxone products should be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.11) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

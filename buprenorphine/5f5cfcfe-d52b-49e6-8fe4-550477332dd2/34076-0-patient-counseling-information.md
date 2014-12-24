@@ -3,7 +3,7 @@
 See FDA-approved patient labeling.
 (Medication Guide)
 
-## 17.1 Safe Use
+Safe Use
 
 Before initiating treatment with ZUBSOLV sublingual tablets, explain the points listed below to caregivers and patients.
 Instruct patients to read the Medication Guide each time ZUBSOLV is dispensed because new information may be available.
@@ -21,7 +21,7 @@ Instruct patients to read the Medication Guide each time ZUBSOLV is dispensed be
 - Patients should be advised that selling or giving away this medication is against the law.
 - Patients should be cautioned that ZUBSOLV sublingual tablets may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving or operating machinery.
   Caution should be taken especially during drug induction and dose adjustment and until individuals are reasonably certain that buprenorphine therapy does not adversely affect their ability to engage in such activities.
-  [see Warnings and Precautions (5.11)]
+  [see Warnings and Precautions (5.12)]
 - Patients should be advised not to change the dosage of ZUBSOLV sublingual tablets without consulting their physician.
 - Patients should be advised to take ZUBSOLV sublingual tablets once a day.
 - Patients should be advised that if they miss a dose of ZUBSOLV they should take it as soon as they remember.
@@ -30,7 +30,7 @@ Instruct patients to read the Medication Guide each time ZUBSOLV is dispensed be
 - Patients seeking to discontinue treatment with buprenorphine for opioid dependence should be advised to work closely with their physician on a tapering schedule and should be apprised of the potential to relapse to illicit drug use associated with discontinuation of opioid agonist/partial agonist medication-assisted treatment.
 - Patients should be cautioned that, like other opioids, ZUBSOLV sublingual tablets may produce orthostatic hypotension in ambulatory individuals.
   [see Warnings and Precautions.
-  (5.12)]
+  (5.13)]
 - Patients should inform their physician if any other prescription medications, over-the-counter medications, or herbal preparations are prescribed or currently being used.
   [see Drug Interactions (7.1, 7.2 and 7.3)]
 - Advise females of reproductive potential, who become pregnant or are planning to become pregnant, to consult their physician regarding the possible effects of using ZUBSOLV sublingual tablets during pregnancy.
@@ -39,7 +39,7 @@ Instruct patients to read the Medication Guide each time ZUBSOLV is dispensed be
 - Patients should inform their family members that, in the event of emergency, the treating physician or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with ZUBSOLV sublingual tablets.
 - Refer to the Medication Guide for additional information regarding the counseling information.
 
-## 17.2 Disposal of Unused ZUBSOLV Sublingual Tablets
+Disposal of Unused ZUBSOLV Sublingual Tablets
 
 Unused ZUBSOLV sublingual tablets should be disposed of as soon as they are no longer needed.
 Unused tablets should be flushed down the toilet.
