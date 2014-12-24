@@ -21,7 +21,7 @@ Objective response rate was 12.6% (95% CI: 9.8, 15.9) in the AFINITOR plus exeme
 There were 3 complete responses (0.6%) and 58 partial responses (12.0%) in the AFINITOR plus exemestane arm.
 There were no complete responses and 4 partial responses (1.7%) in the placebo plus exemestane arm.
 
-The overall survival results were not mature at the time of the interim analysis, and no statistically significant treatment-related difference in OS was noted [HR=0.77 (95% CI: 0.57, 1.04)].
+After a median follow-up of 39.3 months, there was no statistically significant difference in OS between the AFINITOR plus exemestane arm and the placebo plus exemestane arm [HR 0.89 (95% CI 0.73, 1.10)].
 
 Table 12: Progression-free Survival Results
 
