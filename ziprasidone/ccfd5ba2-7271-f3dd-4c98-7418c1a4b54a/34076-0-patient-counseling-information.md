@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.3).
+See FDA-Approved Patient Labeling (17.4).
 
 Please refer to the patient package insert.
 To assure safe and effective use of ziprasidone hydrochloride capsules, the information and instructions provided in the patient information should be discussed with patients.
@@ -17,18 +17,20 @@ Patients should be advised to inform their health care providers of the followin
 Patients should be instructed to report the onset of any conditions that put them at risk for significant electrolyte disturbances, hypokalemia in particular, including but not limited to the initiation of diuretic therapy or prolonged diarrhea.
 In addition, patients should be instructed to report symptoms such as dizziness, palpitations, or syncope to the prescriber [see Warnings and Precautions (5.2)].
 
+## 17.3 DRESS
+
+Patients should be instructed to report to their health care provider at the earliest onset any signs or symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.4)].
+
+## 17.4 FDA-Approved Patient Labeling
+
 Maalox® is a Registered Trademark of Novartis Consumer Health Inc.
 
 APOTEX INC. ZIPRASIDONE HYDROCHLORIDE CAPSULES 20 mg, 40 mg, 60 mg and 80 mg
 
-Manufactured by: Manufactured for:
+| Manufactured by | Manufactured for |
+| --- | --- |
+| Apotex Inc. | Apotex Corp. |
+| Toronto, Ontario | Weston, Florida |
+| Canada M9L 1T9 | 33326 |
 
-Apotex Inc. Apotex Corp.
-
-Toronto, Ontario Weston, Florida
-
-Canada M9L 1T9 33326
-
-Revised: July 2014
-
-Revision: 8
+Revised: December 2014 Revision: 9

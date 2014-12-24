@@ -30,7 +30,7 @@ SCHIZOPHRENIA
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials of Oral Ziprasidone
 
 Approximately 4.1% (29/702) of ziprasidone-treated patients in short-term, placebo-controlled studies discontinued treatment due to an adverse reaction, compared with about 2.2% (6/273) on placebo.
-The most common reaction associated with dropout was rash, including 7 dropouts for rash among ziprasidone patients (1%) compared to no placebo patients [See Warnings and Precautions (5.6)].
+The most common reaction associated with dropout was rash, including 7 dropouts for rash among ziprasidone patients (1%) compared to no placebo patients [see Warnings and Precautions (5.7)].
 
 Adverse Reactions Occurring at an Incidence of 2% or More Among Ziprasidone-Treated Patients in Short-Term, Oral, Placebo-Controlled Trials
 
@@ -55,10 +55,10 @@ Table 6: Treatment-Emergent Adverse Reaction Incidence In Short-Term Oral Placeb
 | Dry Mouth | 4 | 2 |
 | Anorexia | 2 | 1 |
 | Nervous |  |  |
-| Extrapyramidal SymptomsExtrapyramidal Symptoms includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching. None of these adverse reactions occurred individually at an incidence greater than 5% in schizophrenia trials. | 14 | 8 |
+| Extrapyramidal Symptoms* | 14 | 8 |
 | Somnolence | 14 | 7 |
 | Akathisia | 8 | 7 |
-| DizzinessDizziness includes the adverse reaction terms dizziness and lightheadedness. | 8 | 6 |
+| Dizziness** | 8 | 6 |
 | Respiratory |  |  |
 | Respiratory Tract Infection | 8 | 3 |
 | Rhinitis | 4 | 2 |
@@ -86,7 +86,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-Vital Sign Changes -Ziprasidone is associated with orthostatic hypotension [see Warnings and Precautions (5.7)]
+Vital Sign Changes -Ziprasidone is associated with orthostatic hypotension [see Warnings and Precautions (5.8)]
 
 ECG Changes -Ziprasidone is associated with an increase in the QTc interval [see Warnings and Precautions (5.2)].
 In the schizophrenia trials, ziprasidone was associated with a mean increase in heart rate of 1.4 beats per minute compared to a 0.2 beats per minute decrease among placebo patients.
@@ -151,4 +151,4 @@ Rare – adverse reactions occurring in fewer than 1/1000 patients (<0.1% of pat
 The following adverse reactions have been identified during post approval use of ziprasidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reaction reports not listed above that have been received since market introduction include rare occurrences of the following: Cardiac Disorders: Tachycardia, torsade de pointes (in the presence of multiple confounding factors), [See Warnings and Precautions (5.2)]; Digestive System Disorders: Swollen Tongue; Reproductive System and Breast Disorders: Galactorrhea, priapism; Nervous System Disorders: Facial Droop, neuroleptic malignant syndrome, serotonin syndrome (alone or in combination with serotonergic medicinal products), tardive dyskinesia; Psychiatric Disorders: Insomnia, mania/hypomania; Skin and subcutaneous Tissue Disorders: Allergic reaction (such as allergic dermatitis, angioedema, orofacial edema, urticaria), rash; Urogenital System Disorders: Enuresis, urinary incontinence; Vascular Disorders: Postural hypotension, syncope.
+Adverse reaction reports not listed above that have been received since market introduction include rare occurrences of the following: Cardiac Disorders: Tachycardia, torsade de pointes (in the presence of multiple confounding factors), [see Warnings and Precautions (5.2)]; Digestive System Disorders: Swollen Tongue; Reproductive System and Breast Disorders: Galactorrhea, priapism; Nervous System Disorders: Facial Droop, neuroleptic malignant syndrome, serotonin syndrome (alone or in combination with serotonergic medicinal products), tardive dyskinesia; Psychiatric Disorders: Insomnia, mania/hypomania; Skin and subcutaneous Tissue Disorders: Allergic reaction (such as allergic dermatitis, angioedema, orofacial edema, urticaria), rash, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS); Urogenital System Disorders: Enuresis, urinary incontinence; Vascular Disorders: Postural hypotension, syncope.

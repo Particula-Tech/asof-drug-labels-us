@@ -1,5 +1,3 @@
-# 17.3 FDA-Approved Patient Labeling
-
 PATIENT SUMMARY OF INFORMATION ABOUT
 
 Ziprasidone Hydrochloride Capsules
@@ -133,6 +131,10 @@ Signs of NMS include very high fever, rigid muscles, shaking, confusion, sweatin
 NMS is a rare but serious side effect that could be fatal.
 Therefore, tell your doctor if you experience any of these signs.
 
+Delayed-onset drug reaction called drug reaction with eosinophilia and systemic symptoms (DRESS) can occur with ziprasidone.
+Signs of DRESS may include rash, fever, and swollen lymph nodes.
+DRESS is sometimes fatal; therefore, tell your doctor immediately if you experience any of these signs.
+
 Adverse reactions related to high blood sugar (hyperglycemia), sometimes serious, have been reported in patients treated with atypical antipsychotics.
 There have been few reports of hyperglycemia or diabetes in patients treated with ziprasidone hydrochloride capsules, and it is not known if ziprasidone hydrochloride capsules are associated with these reactions.
 Patients treated with an atypical antipsychotic should be monitored for symptoms of hyperglycemia.
@@ -167,14 +169,8 @@ If you have any questions or want more information about ziprasidone hydrochlori
 
 APOTEX INC. ZIPRASIDONE HYDROCHLORIDE CAPSULES 20 mg, 40 mg, 60 mg and 80 mg
 
-Manufactured by: Manufactured for:
+Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Apotex Inc. Apotex Corp.
+Revised: December 2014
 
-Toronto, Ontario Weston, Florida
-
-Canada M9L 1T9 33326
-
-Revised: July 2014
-
-Revision: 8
+Revision: 9

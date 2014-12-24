@@ -6,7 +6,7 @@ It has a molecular weight of 412.94 (free base), with the following chemical nam
 The molecular formula of C21H21ClN4OS (free base of ziprasidone) represents the following structural formula:
 
 Ziprasidone hydrochloride capsules contain a monohydrochloride salt of ziprasidone.
-Chemically, ziprasidone hydrochloride is 5-[2-[4-(1,2­benzisothiazol-3-yl)-1-piperazinyl]ethyl]-6-chloro-1,3-dihydro-2H-indol-2-one, monohydrochloride.
+Chemically, ziprasidone hydrochloride is 5-[2-[4-(1,2-­benzisothiazol-3-yl)-1-piperazinyl]ethyl]-6-chloro-1,3-dihydro-2H-indol-2-one, monohydrochloride.
 The molecular formula is C21H21ClN4OS · HCl and its molecular weight is 449.40.
 Ziprasidone hydrochloride is an off white to beige brown powder.
 
