@@ -1,6 +1,6 @@
 # Medication Guide
 
-EFFEXOR XR (e-fex-or) (venlafaxine hydrochloride) (Extended-Release Capsules)
+EFFEXOR XR(e-fex-or) (venlafaxine hydrochloride) (Extended-Release Capsules)
 
 Read the Medication Guide that comes with EFFEXOR XR before you start taking it and each time you get a refill.
 There may be new information.
@@ -79,7 +79,6 @@ Manic/hypomanic episodes:
 8.
 Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
-
 Symptoms may include:
 
 - headache
@@ -262,7 +261,7 @@ How should I store EFFEXOR XR?
 
 Keep EFFEXOR XR and all medicines out of the reach of children.
 
-General information about EFFEXOR XR
+General information about EFFEXOR
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use EFFEXOR XR for a condition for which it was not prescribed.
@@ -274,7 +273,7 @@ If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about EFFEXOR XR that is written for healthcare professionals.
 
 For more information about EFFEXOR XR call 1-800-934-5556 or go to www.
-EFFEXORXR.com.
+EFFEXOR XR.com.
 
 What are the ingredients in EFFEXOR XR?
 
@@ -282,7 +281,7 @@ Active ingredient: (venlafaxine)
 
 Inactive ingredients:
 
-Extended-Release Capsules: cellulose, ethylcellulose, gelatin, hypromellose, iron oxide, and titanium dioxide
+- Extended-Release Capsules: cellulose, ethylcellulose, gelatin, hypromellose, iron oxides, and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
