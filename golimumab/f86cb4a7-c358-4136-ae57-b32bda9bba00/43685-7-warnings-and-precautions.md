@@ -98,7 +98,7 @@ Even in the absence of TNF blocker therapy, patients with rheumatoid arthritis m
 
 Rare post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been reported in patients treated with TNF-blocking agents.
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
-Nearly all of the reported TNF-blocker associated cases have occurred in patients with Crohn's disease with some occurring in ulcerative colitis patients.
+Nearly all of the reported TNF-blocker associated cases have occurred in patients with Crohn's disease or ulcerative colitis.
 The majority were in adolescent and young adult males.
 Almost all these patients had received treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) concomitantly with a TNF blocker at or prior to diagnosis.
 The potential risk with the combination of AZA or 6-MP and SIMPONI should be carefully considered.

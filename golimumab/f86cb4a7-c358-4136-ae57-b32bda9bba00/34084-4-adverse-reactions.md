@@ -134,4 +134,4 @@ Neoplasms benign, malignant and unspecified: Melanoma [see Warnings and Precauti
 
 Respiratory, thoracic and mediastinal disorders: Interstitial lung disease
 
-Skin and subcutaneous tissue disorders: Skin exfoliation, rash
+Skin and subcutaneous tissue disorders: Skin exfoliation, rash, bullous skin reactions
