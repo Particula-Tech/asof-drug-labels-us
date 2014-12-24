@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-SIMPONI® ARIA™ (SIM-puh-nee AHR-ee-uh) (golimumab) For Infusion
+SIMPONI® ARIA® (SIM-puh-nee AHR-ee-uh) (golimumab) For Infusion
 
 Read the Medication Guide for SIMPONI ARIA before each infusion.
 There may be new information.
@@ -41,6 +41,10 @@ Cancer
 - For children and adults receiving TNF-blocker medicines, including SIMPONI ARIA, the chances of getting cancer may increase.
 - There have been cases of unusual cancers in children and teenage patients taking TNF-blocking agents.
 - People with inflammatory diseases including rheumatoid arthritis especially those with very active disease, may be more likely to get lymphoma.
+- Some people receiving TNF-blocker medicines developed a rare type of cancer called hepatosplenic T-cell lymphoma.
+  This type of cancer often results in death.
+  Most of these people were male teenagers or young men.
+  Also, most people were being treated for Crohn's disease or ulcerative colitis with a TNF-blocker and another medicine called IMURAN® (azathioprine) or PURINETHOL® (6-mercaptopurine, 6-MP).
 - Some people treated with SIMPONI ARIA developed skin cancer.
   If any changes in the appearance of your skin or growths on your skin occur during or after your treatment with SIMPONI ARIA, tell your doctor.
 - You should see your doctor periodically for skin examinations, especially if you have a history of skin cancer.
@@ -177,7 +181,7 @@ What are the ingredients in SIMPONI ARIA?
 
 Active ingredient: golimumab
 
-Inactive ingredients: L-histidine, L-histidine monohydrochloride monohydrate, sorbitol, polysorbate 80, and water for injection.
+Inactive ingredients: L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80, sorbitol, and water for injection.
 SIMPONI ARIA does not contain preservatives, natural rubber or latex.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -186,4 +190,4 @@ Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864 at 
 
 © Janssen Biotech, Inc. 2013
 
-Approved: February 2014
+Approved: December 2014

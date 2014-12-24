@@ -114,4 +114,4 @@ Immune System Disorders: Serious systemic hypersensitivity reactions (including 
 
 Respiratory, thoracic and mediastinal disorders: Interstitial lung disease
 
-Skin and subcutaneous tissue disorders: Skin exfoliation
+Skin and subcutaneous tissue disorders: Skin exfoliation, bullous skin reactions

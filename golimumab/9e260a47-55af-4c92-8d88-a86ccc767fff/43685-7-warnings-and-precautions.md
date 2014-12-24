@@ -84,6 +84,13 @@ Patients with RA and other chronic inflammatory diseases, particularly patients 
 Cases of acute and chronic leukemia have been reported with post-marketing TNF-blocker use in rheumatoid arthritis and other indications.
 Even in the absence of TNF-blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
 
+Rare post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been reported in patients treated with TNF-blocking agents.
+This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
+Nearly all of the reported TNF-blocker associated cases have occurred in patients with Crohn's disease or ulcerative colitis.
+The majority were in adolescent and young adult males.
+Almost all these patients had received treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) concomitantly with a TNF-blocker at or prior to diagnosis.
+A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF-blockers cannot be excluded.
+
 Melanoma has been reported in patients treated with TNF-blocking agents, including the subcutaneous formulation of golimumab.
 Merkel cell carcinoma has been reported in patients treated with TNF-blocking agents.
 Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
