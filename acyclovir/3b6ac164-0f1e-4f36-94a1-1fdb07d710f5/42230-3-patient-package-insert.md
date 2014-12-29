@@ -7,36 +7,36 @@ XERESE should not be used in eyes, mouth, nose or on your genitals.
 
 What is XERESE?
 
-- XERESE is a prescription medicine used in people 6 years of age and older to shorten the healing time of cold sores (herpes labialis) and lower the chance of a cold sore becoming worse (ulcerating).
-- XERESE is not a cure for cold sores.
-- It is not known if XERESE is safe and effective in children less than 6 years of age.
+- •XERESE is a prescription medicine used in people 6 years of age and older to shorten the healing time of cold sores (herpes labialis) and lower the chance of a cold sore becoming worse (ulcerating).
+- •XERESE is not a cure for cold sores.
+- •It is not known if XERESE is safe and effective in children less than 6 years of age.
 
 What should I tell my healthcare provider before using XERESE?
 
 Before using XERESE, tell your healthcare provider about all of your medical conditions, including if you:
 
-- become sick very easily (have a weak immune system)
-- are pregnant or plan to become pregnant.
+- 1.become sick very easily (have a weak immune system)
+- 2.are pregnant or plan to become pregnant.
   It is not known if XERESE will harm your unborn baby.
-- are breastfeeding or plan to breastfeed.
+- 3.are breastfeeding or plan to breastfeed.
   It is not known if XERESE passes into your breast milk
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 How should I use XERESE?
 
-- Use XERESE exactly as your healthcare provider tells you to use it.
-- Use XERESE as soon as you have the first symptom of a cold sore such as itching, redness, burning or tingling or when the cold sore appears.
-- Apply XERESE over the affected area, including the outer edge of the cold sore.
-- Do not rub the cold sore because this may cause the cold sore to spread to other areas around your mouth, or make your cold sore worse.
-- Do not cover the cold sore or the area around the cold sore with a bandage.
-- Do not use other skin products (such as make-up, sun screen or lip balm) or other skin medicine on the cold sore or the area around the cold sore.
-- Tell your healthcare provider if your cold sore is not better in 2 weeks.
+- 1.Use XERESE exactly as your healthcare provider tells you to use it.
+- 2.Use XERESE as soon as you have the first symptom of a cold sore such as itching, redness, burning or tingling or when the cold sore appears.
+- 3.Apply XERESE over the affected area, including the outer edge of the cold sore.
+- 4.Do not rub the cold sore because this may cause the cold sore to spread to other areas around your mouth, or make your cold sore worse.
+- 5.Do not cover the cold sore or the area around the cold sore with a bandage.
+- 6.Do not use other skin products (such as make-up, sun screen or lip balm) or other skin medicine on the cold sore or the area around the cold sore.
+- 7.Tell your healthcare provider if your cold sore is not better in 2 weeks.
 
 What are the possible side effects of XERESE?
 The most common side effects of XERESE are skin reactions at the treatment site and may include:
 
-- drying or flaking, tingling or burning after you apply XERESE, redness, changes in skin color where the cream is applied, and swelling.
+- 1.drying or flaking, tingling or burning after you apply XERESE, redness, changes in skin color where the cream is applied, and swelling.
 
 These are not all the possible side effects of XERESE.
 Call your doctor for medical advice about side effects.
@@ -44,7 +44,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store XERESE?
 
-- Store XERESE at room temperature between 68° to 77°F (20° to 25°C).
+- 1.Store XERESE at room temperature between 68° to 77°F (20° to 25°C).
   Do not freeze XERESE.
 
 Keep XERESE and all medicines out of the reach of children.
