@@ -48,7 +48,7 @@ Patients should also be advised that if they become pregnant during therapy or i
 
 ## Withdrawal Symptoms
 
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of regular use of benzodiazepines (seeDRUG ABUSE AND DEPENDENCE section).
+Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of regular use of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section).
 
 ## Chronic Use
 
@@ -68,7 +68,7 @@ Metabolites of Diazepam rectal gel are excreted by the kidneys; to avoid their e
 
 ## Caution in Hepatically Impaired Patients
 
-Concomitant liver disease is known to decrease the clearance of diazepam (seeCLINICAL PHARMACOLOGY, Special Populations, Hepatic Impairment).
+Concomitant liver disease is known to decrease the clearance of diazepam (see CLINICAL PHARMACOLOGY, Special Populations, Hepatic Impairment).
 Therefore, Diazepam rectal gel should be used with caution in patients with liver disease.
 
 ## Use in Pediatrics
@@ -95,7 +95,7 @@ Prescribers should advise caregivers that they expect to be informed immediately
 
 Interference With Cognitive and Motor Performance: Because benzodiazepines have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that Diazepam rectal gel therapy does not affect them adversely.
 
-Pregnancy: Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with Diazepam rectal gel (seeWARNINGS section).
+Pregnancy: Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with Diazepam rectal gel (see WARNINGS section).
 
 Nursing: Because diazepam and its metabolites may be present in human breast milk for prolonged periods of time after acute use of Diazepam rectal gel, patients should be advised not to breast-feed for an appropriate period of time after receiving treatment with Diazepam rectal gel.
 

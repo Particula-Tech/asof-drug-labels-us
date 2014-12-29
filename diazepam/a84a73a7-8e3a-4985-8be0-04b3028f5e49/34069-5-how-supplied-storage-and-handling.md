@@ -2,8 +2,8 @@
 
 Diazepam rectal gel rectal delivery system is a non-sterile, prefilled, unit dose, rectal delivery system.
 The rectal delivery system includes a plastic applicator with a flexible, molded tip available in two lengths, designated for convenience as 10 mg Delivery System and 20 mg Delivery System.
-The available doses from 20 mg delivery system are 12.5 mg, 15 mg, 17.5 mg, and 20 mg.
-The available doses from 10 mg delivery system are 5 mg, 7.5 mg, and 10 mg.
+The available doses from 20 mg delivery system are 12.5 mg, 15 mg, 17.5 mg and 20 mg.
+The available doses from 10 mg delivery system are 5 mg, 7.5 mg and 10 mg.
 The Diazepam rectal gel delivery system is available in the following three presentations:
 
 | Diastat® | Rectal Tip Size | NDC |
@@ -41,9 +41,9 @@ CAUTION: Federal law prohibits the transfer of this drug to any person other tha
 
 Valium® is a registered trademark of Roche Pharmaceuticals.
 
-Distributed by: Valeant Pharmaceuticals International One Enterprise Aliso Viejo, CA 92656 USA
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
 
-Manufactured by: DPT Laboratories, LTD. San Antonio, Texas 78215
+By: DPT Laboratories, LTD. San Antonio, TX 78215
 
-128486 Rev.
-11/06
+9435000 Rev.
+12/14

@@ -18,12 +18,9 @@ Diazepam rectal gel is well absorbed following rectal administration, reaching p
 The absolute bioavailability of Diazepam rectal gel relative to Valium® injectable is 90%.
 The volume of distribution of Diazepam rectal gel is calculated to be approximately 1 L/kg.
 The mean elimination half-life of diazepam and desmethyldiazepam following administration of a 15 mg dose of Diazepam rectal gel was found to be about 46 hours (CV=43%) and 71 hours (CV=37%), respectively.
-
 Both diazepam and its major active metabolite desmethyldiazepam bind extensively to plasma proteins (95-98%).
 
-### Metabolism and Elimination
-
-It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite (desmethyldiazepam) and two minor active metabolites, 3-hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam) in plasma.
+Metabolism and Elimination: It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite (desmethyldiazepam) and two minor active metabolites, 3-hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam) in plasma.
 At therapeutic doses, desmethyldiazepam is found in plasma at concentrations equivalent to those of diazepam while oxazepam and temazepam are not usually detectable.
 The metabolism of diazepam is primarily hepatic and involves demethylation (involving primarily CYP2C19 and CYP3A4) and 3-hydroxylation (involving primarily CYP3A4), followed by glucuronidation.
 The marked inter-individual variability in the clearance of diazepam reported in the literature is probably attributable to variability of CYP2C19 (which is known to exhibit genetic polymorphism; about 3-5% of Caucasians have little or no activity and are “poor metabolizers”) and CYP3A4.
@@ -34,20 +31,20 @@ No inhibition was demonstrated in the presence of inhibitors selective for CYP2A
 ### Hepatic Impairment:
 
 No pharmacokinetic studies were conducted with diazepam rectal gel in hepatically impaired subjects.
-Literature review indicates that following administration of 0.1 to 0.15 mg/kg of diazepam intravenously, the half-life of diazepam was prolonged by two to five-fold in subjects with alcoholic cirrhosis (n=24) compared to age-matched control subjects (n=37) with a corresponding decrease in clearance by half: however, the exact degree of hepatic impairment in these subjects was not characterized in this literature (seePRECAUTIONS section).
+Literature review indicates that following administration of 0.1 to 0.15 mg/kg of diazepam intravenously, the half-life of diazepam was prolonged by two to five-fold in subjects with alcoholic cirrhosis (n=24) compared to age-matched control subjects (n=37) with a corresponding decrease in clearance by half: however, the exact degree of hepatic impairment in these subjects was not characterized in this literature (see PRECAUTIONS section).
 
 ### Renal Impairment:
 
-The pharmacokinetics of diazepam have not been studied in renally impaired subjects (seePRECAUTIONS section).
+The pharmacokinetics of diazepam have not been studied in renally impaired subjects (see PRECAUTIONS section).
 
 ### Pediatrics:
 
 No pharmacokinetic studies were conducted with diazepam rectal gel in the pediatric population.
-However, literature review indicates that following IV administration (0.33 mg/kg), diazepam has a longer half-life in neonates (birth up to one month; approximately 50-95 hours) and infants (one month up to two years; about 40-50 hours), whereas it has a shorter half-life in children (two to 12 years; approximately 15-21 hours) and adolescents (12 to 16 years; about 18-20 hours) (seePRECAUTIONS section).
+However, literature review indicates that following IV administration (0.33 mg/kg), diazepam has a longer half-life in neonates (birth up to one month; approximately 50-95 hours) and infants (one month up to two years; about 40-50 hours), whereas it has a shorter half-life in children (two to 12 years; approximately 15-21 hours) and adolescents (12 to 16 years; about 18-20 hours) (see PRECAUTIONS section).
 
 ### Elderly:
 
-A study of single dose IV administration of diazepam (0.1 mg/kg) indicates that the elimination half-life of diazepam increases linearly with age, ranging from about 15 hours at 18 years (healthy young adults) to about 100 hours at 95 years (healthy elderly) with a corresponding decrease in clearance of free diazepam (seePRECAUTIONS andDOSAGE AND ADMINISTRATION sections).
+A study of single dose IV administration of diazepam (0.1 mg/kg) indicates that the elimination half-life of diazepam increases linearly with age, ranging from about 15 hours at 18 years (healthy young adults) to about 100 hours at 95 years (healthy elderly) with a corresponding decrease in clearance of free diazepam (see PRECAUTIONS andDOSAGE AND ADMINISTRATION sections).
 
 ### Effect of Gender, Race, and Cigarette Smoking:
 
@@ -56,7 +53,7 @@ However, covariate analysis of a population of treated patients following admini
 
 ## Clinical Studies
 
-The effectiveness of diazepam rectal gel has been established in two adequate and well controlled clinical studies in children and adults exhibiting the seizure pattern described below underINDICATIONS AND USAGE.
+The effectiveness of diazepam rectal gel has been established in two adequate and well controlled clinical studies in children and adults exhibiting the seizure pattern described below under INDICATIONS AND USAGE.
 
 A randomized, double-blind study compared sequential doses of diazepam rectal gel and placebo in 91 patients (47 children, 44 adults) exhibiting the appropriate seizure profile.
 The first dose was given at the onset of an identified episode.
