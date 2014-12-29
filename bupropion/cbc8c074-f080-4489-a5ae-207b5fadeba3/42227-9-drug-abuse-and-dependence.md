@@ -6,14 +6,18 @@ Bupropion is not a controlled substance.
 
 ## 9.2 Abuse
 
-Humans: Controlled clinical trials of bupropion (immediate-release formulation) conducted in normal volunteers, in subjects with a history of multiple drug abuse, and in depressed subjects showed some increase in motor activity and agitation/excitement.
+Humans: Controlled clinical trials conducted in normal volunteers, in subjects with a history of multiple drug abuse, and in depressed subjects showed some increase in motor activity and agitation/excitement, often typical of central stimulant activity.
 
-In a population of individuals experienced with drugs of abuse, a single dose of 400 mg of bupropion produced mild amphetamine‑like activity as compared with placebo on the Morphine‑Benzedrine Subscale of the Addiction Research Center Inventories (ARCI) and a score intermediate between placebo and amphetamine on the Liking Scale of the ARCI.
-These scales measure general feelings of euphoria and drug desirability.
+In a population of individuals experienced with drugs of abuse, a single oral dose of 400 mg of bupropion produced mild amphetamine‑like activity as compared with placebo on the Morphine‑Benzedrine Subscale of the Addiction Research Center Inventories (ARCI) and a score greater than placebo but less than 15 mg of the Schedule II stimulant dextroamphetamine on the Liking Scale of the ARCI.
+These scales measure general feelings of euphoria and drug liking which are often associated with abuse potential.
 
 Findings in clinical trials, however, are not known to reliably predict the abuse potential of drugs.
-Nonetheless, evidence from single‑dose trials does suggest that the recommended daily dosage of bupropion when administered in divided doses is not likely to be significantly reinforcing to amphetamine or CNS stimulant abusers.
+Nonetheless, evidence from single‑dose trials does suggest that the recommended daily dosage of bupropion when administered orally in divided doses is not likely to be significantly reinforcing to amphetamine or CNS stimulant abusers.
 However, higher doses (that could not be tested because of the risk of seizure) might be modestly attractive to those who abuse CNS stimulant drugs.
+
+WELLBUTRIN SR is intended for oral use only.
+The inhalation of crushed tablets or injection of dissolved bupropion has been reported.
+Seizures and/or cases of death have been reported when bupropion has been administered intranasally or by parenteral injection.
 
 Animals: Studies in rodents and primates demonstrated that bupropion exhibits some pharmacologic actions common to psychostimulants.
 In rodents, it has been shown to increase locomotor activity, elicit a mild stereotyped behavior response, and increase rates of responding in several schedule‑controlled behavior paradigms.

@@ -24,7 +24,7 @@ When used concomitantly with WELLBUTRIN SR, it may be necessary to decrease the 
 Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
 Patients treated concomitantly with WELLBUTRIN SR and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3)].
 
-## 7.3 Drugs That Lower Seizure Threshold
+## 7.3 Drugs that Lower Seizure Threshold
 
 Use extreme caution when coadministering WELLBUTRIN SR with other drugs that lower seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
 Use low initial doses and increase the dose gradually [see Contraindications (4), Warnings and Precautions (5.3)].
@@ -37,7 +37,7 @@ Adverse reactions have included restlessness, agitation, tremor, ataxia, gait di
 It is presumed that the toxicity results from cumulative dopamine agonist effects.
 Use caution when administering WELLBUTRIN SR concomitantly with these drugs.
 
-## 7.5 Use With Alcohol
+## 7.5 Use with Alcohol
 
 In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with WELLBUTRIN SR.
 The consumption of alcohol during treatment with WELLBUTRIN SR should be minimized or avoided.

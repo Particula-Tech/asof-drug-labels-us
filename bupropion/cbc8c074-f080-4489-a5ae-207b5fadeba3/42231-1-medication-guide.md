@@ -103,6 +103,7 @@ Do not take WELLBUTRIN SR again if you have a seizure.
   - •Excessive happiness or irritability
   - •Talking more or faster than usual
 - If you have any of the above symptoms of mania, call your healthcare provider.
+
 - •Unusual thoughts or behaviors.
   Some patients have unusual thoughts or behaviors while taking WELLBUTRIN, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
@@ -112,6 +113,7 @@ Do not take WELLBUTRIN SR again if you have a seizure.
   - •swelling or redness in or around the eye
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
 - •Severe allergic reactions.
   Some people can have severe allergic reactions to WELLBUTRIN SR.
   Stop taking WELLBUTRIN SR and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.

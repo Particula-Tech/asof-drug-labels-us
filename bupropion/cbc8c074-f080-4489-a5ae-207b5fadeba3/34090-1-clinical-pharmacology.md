@@ -68,7 +68,7 @@ However, more variability was observed in some of the pharmacokinetic parameters
 In subjects with severe hepatic cirrhosis, significant alterations in the pharmacokinetics of bupropion and its metabolites were seen (Table 5).
 
 Table 5.
-Pharmacokinetics of Bupropion and Metabolites in Patients With Severe Hepatic Cirrhosis: Ratio Relative to Healthy Matched Controls
+Pharmacokinetics of Bupropion and Metabolites in Patients with Severe Hepatic Cirrhosis: Ratio Relative to Healthy Matched Controls
 
 |  | Cmax | AUC | t½ | Tmaxa |
 | --- | --- | --- | --- | --- |

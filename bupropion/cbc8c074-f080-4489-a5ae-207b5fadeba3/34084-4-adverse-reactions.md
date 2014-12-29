@@ -38,7 +38,7 @@ Adverse reactions reported in placebo-controlled trials are presented in Table 3
 Reported adverse reactions were classified using a COSTART‑based Dictionary.
 
 Table 3.
-Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency Than Placebo in Controlled Clinical Trials
+Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency than Placebo in Controlled Clinical Trials
 
 | Body System/Adverse Reaction | WELLBUTRIN SR 300 mg/day(n = 376) | WELLBUTRIN SR 400 mg/day(n = 114) | Placebo(n = 385) |
 | --- | --- | --- | --- |
@@ -138,7 +138,7 @@ Urogenital: Infrequent were impotence, polyuria, and prostate disorder.
 Changes in Body Weight: In placebo‑controlled trials, subjects experienced weight gain or weight loss as shown in Table 4.
 
 Table 4.
-Incidence of Weight Gain and Weight Loss (≥5 lbs.) in Placebo-Controlled Trials
+Incidence of Weight Gain and Weight Loss (≥5 lbs) in Placebo-Controlled Trials
 
 | Weight Change | WELLBUTRIN SR 300 mg/day(n = 339) | WELLBUTRIN SR 400 mg/day(n = 112) | Placebo(n = 347) |
 | --- | --- | --- | --- |
