@@ -24,7 +24,7 @@ Commonly Observed Adverse Reactions: Adverse reactions commonly encountered in s
 Table 2 summarizes the adverse reactions that occurred in placebo-controlled trials at an incidence of at least 1% of subjects receiving WELLBUTRIN and more frequently in these subjects than in the placebo group.
 
 Table 2.
-Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency Than Placebo in Controlled Clinical Trials
+Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency than Placebo in Controlled Clinical Trials
 
 | Adverse Reaction | WELLBUTRIN(n = 323)% | Placebo(n = 185)% |
 | --- | --- | --- |

@@ -4,7 +4,7 @@
 
 Pregnancy Category C
 
-Risk Summary:Data from epidemiological studies of pregnant women exposed to bupropion in the first trimester indicate no increased risk of congenital malformations overall.
+Risk Summary: Data from epidemiological studies of pregnant women exposed to bupropion in the first trimester indicate no increased risk of congenital malformations overall.
 All pregnancies, regardless of drug exposure, have a background rate of 2% to 4% for major malformations, and 15% to 20% for pregnancy loss.
 No clear evidence of teratogenic activity was found in reproductive developmental studies conducted in rats and rabbits; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at doses approximately equal to the maximum recommended human dose (MRHD) and greater and decreased fetal weights were seen at doses twice the MRHD and greater.
 WELLBUTRIN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

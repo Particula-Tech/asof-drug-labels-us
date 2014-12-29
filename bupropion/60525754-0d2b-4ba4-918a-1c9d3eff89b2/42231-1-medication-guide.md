@@ -114,6 +114,7 @@ If you have any of the above symptoms of mania, call your healthcare provider.
   - •swelling or redness in or around the eye
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
 - •Severe allergic reactions.
   Some people can have severe allergic reactions to WELLBUTRIN.
   Stop taking WELLBUTRIN and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.

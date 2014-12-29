@@ -47,7 +47,7 @@ Precautions for Nursing Mothers: Advise patients that WELLBUTRIN is present in h
 
 Storage Information: Instruct patients to store WELLBUTRIN at room temperature, between 59°F and 86°F (15°C to 30°C) and keep the tablets dry and out of the light.
 
-Administration Information: Instruct patients to take WELLBUTRIN in equally divided doses 3 or 4 times a day, with doses separated by least 6 hours to minimize the risk of seizure.
+Administration Information: Instruct patients to take WELLBUTRIN in equally divided doses 3 or 4 times a day, with doses separated by at least 6 hours to minimize the risk of seizure.
 Instruct patients if they miss a dose, not to take an extra tablet to make up for the missed dose and to take the next tablet at the regular time because of the dose-related risk of seizure.
 Instruct patients that WELLBUTRIN Tablets should be swallowed whole and not crushed, divided, or chewed.
 WELLBUTRIN can be taken with or without food.
@@ -65,4 +65,4 @@ Research Triangle Park, NC 27709
 ©2014, the GSK group of companies.
 All rights reserved.
 
-WLT:11PI
+WLT:12PI

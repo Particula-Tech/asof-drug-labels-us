@@ -18,21 +18,21 @@ It is generally agreed that acute episodes of depression require several months 
 It is unknown whether the dose of WELLBUTRIN needed for maintenance treatment is identical to the dose that provided an initial response.
 Periodically reassess the need for maintenance treatment and the appropriate dose for such treatment.
 
-## 2.2 Dose Adjustment in Patients With Hepatic Impairment
+## 2.2 Dose Adjustment in Patients with Hepatic Impairment
 
 In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of WELLBUTRIN is 75 mg per day.
 In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
-## 2.3 Dose Adjustment in Patients With Renal Impairment
+## 2.3 Dose Adjustment in Patients with Renal Impairment
 
 Consider reducing the dose and/or frequency of WELLBUTRIN in patients with renal impairment (Glomerular Filtration Rate <90 mL/min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-## 2.4 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
+## 2.4 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with WELLBUTRIN.
 Conversely, at least 14 days should be allowed after stopping WELLBUTRIN before starting an MAOI antidepressant [see Contraindications (4), Drug Interactions (7.6)].
 
-## 2.5 Use of WELLBUTRIN With Reversible MAOIs Such as Linezolid or Methylene Blue
+## 2.5 Use of WELLBUTRIN with Reversible MAOIs Such as Linezolid or Methylene Blue
 
 Do not start WELLBUTRIN in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
 Drug interactions can increase the risk of hypertensive reactions.

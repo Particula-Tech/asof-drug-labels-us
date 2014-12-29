@@ -70,7 +70,7 @@ WELLBUTRIN is contraindicated in patients with a seizure disorder, current or pr
 The following conditions can also increase the risk of seizure: severe head injury; arteriovenous malformation; CNS tumor or CNS infection; severe stroke; concomitant use of other medications that lower the seizure threshold (e.g., other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids); metabolic disorders (e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia); use of illicit drugs (e.g., cocaine); or abuse or misuse of prescription drugs such as CNS stimulants.
 Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin; use of anorectic drugs; and excessive use of alcohol, benzodiazepines, sedative/hypnotics, or opiates.
 
-Incidence of Seizure With Bupropion Use: Bupropion is associated with seizures in approximately 0.4% (4/1,000) of patients treated at doses up to 450 mg per day.
+Incidence of Seizure with Bupropion Use: Bupropion is associated with seizures in approximately 0.4% (4/1,000) of patients treated at doses up to 450 mg per day.
 The estimated seizure incidence for WELLBUTRIN increases almost 10-fold between 450 and 600 mg per day.
 
 The risk of seizure can be reduced if the dose of WELLBUTRIN does not exceed 450 mg per day, given as 150 mg 3 times daily, and the titration rate is gradual.
