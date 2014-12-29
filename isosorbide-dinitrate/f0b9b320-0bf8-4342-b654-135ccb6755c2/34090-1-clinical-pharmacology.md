@@ -1,8 +1,8 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
-The principal pharmacological action of ISDN is relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins, especially the latter.
+The principal pharmacological action of isosorbide dinitrate is relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins, especially the latter.
 Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end-diastolic pressure and pulmonary capillary wedge pressure (preload).
-Arteriolar relaxation reduces systemic vascular lesistance, systolic arterial pressure, and mean arterial pressure (afterload).
+Arteriolar relaxation reduces systemic vascular resistance, systolic arterial pressure, and mean arterial pressure (afterload).
 Dilatation of the coronary arteries also occurs.
 The relative importance of preload reduction, afterload reduction, and coronary dilatation remains undefined.
 
@@ -19,7 +19,7 @@ Absorption of isosorbide dinitrate after oral dosing is nearly complete, but bio
 Serum levels reach their maxima about an hour after ingestion.
 The average bioavailability of ISDN is about 25%; most studies have observed progressive increases in bioavailability during chronic therapy.
 
-Once absorbed, the distribution volume of isosorbide dinitrate is 2 to 4 L/kg, and this volume is cleared at the rate of 2 to 4 L/min, so isosorbide dinitrate's half-life in serum is about an hour.
+Once absorbed, the volume of distribution of isosorbide dinitrate is 2 to 4 L/kg, and this volume is cleared at the rate of 2 to 4 L/min, so ISDN’s half-life in serum is about an hour.
 Since the clearance exceeds hepatic blood flow, considerable extrahepatic metabolism must also occur.
 Clearance is affected primarily by denitration to the 2-mononitrate (15 to 25%) and the 5-mononitrate (75 to 85%).
 
@@ -29,22 +29,22 @@ The 2-mononitrate has been less well studied, but it appears to participate in t
 
 The daily dose-free interval sufficient to avoid tolerance to organic nitrates has not been well defined.
 Studies of nitroglycerin (an organic nitrate with a very short half-life) have shown that daily dose-free intervals of 10 to 12 hours are usually sufficient to minimize tolerance.
-Daily dose-free intervals that have succeeded in avoiding tolerance during trials of moderate doses (e.g., 30 mg) of immediate-release isosorbide dinitrate have generally been somewhat longer (at least 14 hours), but this is consistent with the longer half-lives of ISDN and its active metabolites.
+Daily dose-free intervals that have succeeded in avoiding tolerance during trials of moderate doses (e.g., 30 mg) of immediate-release ISDN have generally been somewhat longer (at least 14 hours), but this is consistent with the longer half-lives of ISDN and its active metabolites.
 
 Few well-controlled clinical trials of organic nitrates have been designed to detect rebound or withdrawal effects.
-In one such trial, however, subjects receiving nitroglycerin had less exercise tolerance at the end of the daily dose-fiee interval than the parallel group receiving placebo.
-The incidence, magnitude, and clinical significance of similar phenomena in patients receiving isosorbide dinitrate have not been studied.
+In one such trial, however, subjects receiving nitroglycerin had less exercise tolerance at the end of the daily dose-free interval than the parallel group receiving placebo.
+The incidence, magnitude, and clinical significance of similar phenomena in patients receiving ISDN have not been studied.
 
 ## Clinical trials:
 
-In clinical trials, immediate-release oral ISDN has been administered in a variety of regimens, with total daily doses ranging from 30 mg to 480 mg.
+In clinical trials, immediate-release oral isosorbide dinitrate has been administered in a variety of regimens, with total daily doses ranging from 30 mg to 480 mg.
 Controlled trials of single oral doses of ISDN have demonstrated effective reductions in exercise-related angina for up to 8 hours.
 Anti-anginal activity is present about 1 hour after dosing.
 
 Most controlled trials of multiple-dose oral ISDN taken every 12 hours (or more frequently) for several weeks have shown statistically significant anti-anginal efficacy for only 2 hours after dosing.
-Once-daily regimens, and regimens with one daily dose-free interval of at least 14 hours (e.g., a regimen providing doses at 0800, 1400, and 1800 hours'), have shown efficacy after the first dose of each day that was similar to that shown in the single-dose studies cited above.
+Once-daily regimens, and regimens with one daily dose-free interval of at least 14 hours (e.g., a regimen providing doses at 0800, 1400, and 1800 hours), have shown efficacy after the first dose of each day that was similar to that shown in the single-dose studies cited above.
 The effects of the second and later doses have been smaller and shorter-lasting than the effect of the first.
 
-From large, well-controlled studies of other nitrates, it is reasonable to believe that the maximal achievable daily duration of anti-anginal effect from ISDN is about 12 hours.
-No dosing regimen for ISDN has, however, ever actually been shown to achieve this duration of effect.
-One study of 8 patients administered a pretitrated dose (average 27.5 mg) of immediate-release ISDN at 0800, 1300, and 1800 hours for 2 weeks, revealed that significant anti-anginal effectiveness was discontinuous and totaled about 6 hours in a 24 hour period.
+From large, well-controlled studies of other nitrates, it is reasonable to believe that the maximal achievable daily duration of anti-anginal effect from isosorbide dinitrate is about 12 hours.
+No dosing regimen for isosorbide dinitrate has, however, ever actually been shown to achieve this duration of effect.
+One study of 8 patients, who were administered a pretitrated dose (average 27.5 mg) of immediate-release ISDN at 0800, 1300, and 1800 hours for 2 weeks, revealed that significant anti-anginal effectiveness was discontinuous and totaled about 6 hours in a 24-hour period.

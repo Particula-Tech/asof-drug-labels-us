@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS
+# CONTRAINDICATIONS:
 
 Allergic reactions to organic nitrates are extremely rare, but they do occur.
-Isosorbide Dinitrate Tablets, USP (oral) are contraindicated in patients who are allergic to ISDN or any of its other ingredients.
+Isosorbide Dinitrate Tablets (oral) are contraindicated in patients who are allergic to isosorbide dinitrate or any of its other ingredients.

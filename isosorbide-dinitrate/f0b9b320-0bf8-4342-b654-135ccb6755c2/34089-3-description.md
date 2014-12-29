@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Isosorbide dinitrate (ISDN) is 1,4:3,6-dianhydro-D-glucitol 2,5-dinitrate, an organic nitrate whose structural formula is:
 
@@ -9,7 +9,7 @@ Isosorbide dinitrate is a white, crystalline, odorless compound which is stable 
 20°C).
 Isosorbide dinitrate is freely soluble in organic solvents such as acetone, alcohol, and ether, but is only sparingly soluble in water.
 
-Each isosorbide dinitrate tablet contains 5 mg, 10 mg, or 20 mg of ISDN.
+Each Isosorbide Dinitrate Tablet, USP (Oral) contains 5 mg, 10 mg, or 20 mg of isosorbide dinitrate.
 
 Inactive ingredients are as follows:
 

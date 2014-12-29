@@ -1,6 +1,6 @@
-# WARNINGS
+# WARNINGS:
 
-Amplification of the vasodilatory effects of ISDN by sildenafil can result in severe hypotension.
+Amplification of the vasodilatory effects of Isosorbide Dinitrate Tablets (oral) by sildenafil can result in severe hypotension.
 The time course and dose dependence of this interaction have not been studied.
 Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion.
 
@@ -8,7 +8,7 @@ The benefits of immediate-release oral isosorbide dinitrate in patients with acu
 If one elects to use isosorbide dinitrate in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia.
 Because the effects of oral isosorbide dinitrate are so difficult to terminate rapidly, this formulation is not recommended in these settings.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General:
 
@@ -22,7 +22,7 @@ As tolerance to isosorbide dinitrate develops, the effect of sublingual nitrogly
 
 Some clinical trials in angina patients have provided nitroglycerin for about 12 continuous hours of every 24-hour day.
 During the daily dose-free interval in some of these trials, anginal attacks have been more easily provoked than before treatment, and patients have demonstrated hemodynamic rebound and decreased exercise tolerance.
-The importance of these observations to the routine, clinical use of sublingual and immediate-release oral isosorbide dinitrate is not known.
+The importance of these observations to the routine, clinical use of immediate-release oral isosorbide dinitrate is not known.
 
 In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs.
 Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence.
@@ -32,8 +32,8 @@ Chest pain, acute myocardial infarction, and even sudden death have occurred dur
 Patients should be told that the anti-anginal efficacy of isosorbide dinitrate is strongly related to its dosing regimen, so the prescribed schedule of dosing should be followed carefully.
 In particular, daily headaches sometimes accompany treatment with isosorbide dinitrate.
 In patients who get these headaches, the headaches are a marker of the activity of the drug.
-Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with ISDN, since loss of headache may be associated with simultaneous loss of anti-anginal efficacy.
-Aspirin and/or acetaminophen, on the other hand, often successfully relieve isosorbide dinitrate-induced headaches with no deleterious effect on isosorbide dinitrate's anti-anginal efficacy.
+Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with isosorbide dinitrate, since loss of headache may be associated with simultaneous loss of anti-anginal efficacy.
+Aspirin and/or acetaminophen, on the other hand, often successfully relieve isosorbide dinitrate-induced headaches with no deleterious effect on isosorbide dinitrate’s anti-anginal efficacy.
 
 Treatment with isosorbide dinitrate may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position.
 This effect may be more frequent in patients who have also consumed alcohol.
@@ -43,15 +43,14 @@ This effect may be more frequent in patients who have also consumed alcohol.
 The vasodilating effects of isosorbide dinitrate may be additive with those of other vasodilators.
 Alcohol, in particular, has been found to exhibit additive effects of this variety.
 
-## Carcinogenesis. Mutagenesis. Impairment of Fertility:
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 No long-term studies in animals have been performed to evaluate the carcinogenic potential of isosorbide dinitrate.
 In a modified two-litter reproduction study, there was no remarkable gross pathology and no altered fertility or gestation among rats fed isosorbide dinitrate at 25 or 100 mg/kg/day.
 
 ## Pregnancy Category C:
 
-At oral doses 35 and 150 times the maximum recommended human daily dose.
-Isosorbide dinitrate has been shown to cause a dose-related increase in embryotoxicity (increase in mummified pups) in rabbits.
+At oral doses 35 and 150 times the maximum recommended human daily dose, isosorbide dinitrate has been shown to cause a dose-related increase in embryotoxicity (increase in mummified pups) in rabbits.
 There are no adequate, well-controlled studies in pregnant women.
 Isosorbide dinitrate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
