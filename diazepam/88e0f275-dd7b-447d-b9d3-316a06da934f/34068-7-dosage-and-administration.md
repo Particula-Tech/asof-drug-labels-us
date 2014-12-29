@@ -35,7 +35,7 @@ The safety of this strategy has been established in clinical trials.
 | 2-5 Years |  | 6-11 years |  | 12+ Years |  |
 | 0.5 mg/kg |  | 0.3 mg/kg |  | 0.2 mg/kg |  |
 | Weight | Dose | Weight | Dose | Weight | Dose |
-| 6 to10 | 5 | 10 to 16 | 5 | 14 to 25 | 5 |
+| 6 to 10 | 5 | 10 to 16 | 5 | 14 to 25 | 5 |
 | 11 to 15 | 7.5 | 17 to 25 | 7.5 | 26 to 37 | 7.5 |
 | 16 to 20 | 10 | 26 to 33 | 10 | 38 to 50 | 10 |
 | 21 to 25 | 12.5 | 34 to 41 | 12.5 | 51 to 62 | 12.5 |
@@ -44,8 +44,8 @@ The safety of this strategy has been established in clinical trials.
 | 36 to 44 | 20 | 59 to 74 | 20 | 88 to 111 | 20 |
 
 The rectal delivery system includes a plastic applicator with a flexible, molded tip available in two lengths.
-The Diastat® AcuDial™ 10-mg syringe is available with a 4.4 cm tip and the Diastat® AcuDial™ 20-mg syringe is available with a 6.0 cm tip.
-Diastat® 2.5mg is also available with a 4.4cm tip.
+The Diastat® AcuDial™ 10-mg syringe is available with a 4.4 cm tip and the Diastat® AcuDial™ 20 mg syringe is available with a 6.0 cm tip.
+Diastat® 2.5mg is also available with a 4.4 cm tip.
 
 In elderly and debilitated patients, it is recommended that the dosage be adjusted downward to reduce the likelihood of ataxia or oversedation.
 

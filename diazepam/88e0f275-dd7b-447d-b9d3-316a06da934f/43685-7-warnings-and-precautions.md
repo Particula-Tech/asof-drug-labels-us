@@ -48,7 +48,7 @@ Patients should also be advised that if they become pregnant during therapy or i
 
 ## Withdrawal Symptoms
 
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of regular use of benzodiazepines (seeDRUG ABUSE AND DEPENDENCE section).
+Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of regular use of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section).
 
 ## Chronic Use
 
@@ -68,7 +68,7 @@ Metabolites of Diazepam rectal gel are excreted by the kidneys; to avoid their e
 
 ## Caution in Hepatically Impaired Patients
 
-Concomitant liver disease is known to decrease the clearance of diazepam (seeCLINICAL PHARMACOLOGY, Special Populations, Hepatic Impairment).
+Concomitant liver disease is known to decrease the clearance of diazepam (see CLINICAL PHARMACOLOGY, Special Populations, Hepatic Impairment).
 Therefore, Diazepam rectal gel should be used with caution in patients with liver disease.
 
 ## Use in Pediatrics
