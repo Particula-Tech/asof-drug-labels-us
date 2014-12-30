@@ -15,8 +15,8 @@ Active or recent (e.g., within the past year) arterial thromboembolic disease (e
 6.
 Liver dysfunction or disease.
 7.
-Estrasorb® should not be used in patients with known hypersensitivity to its ingredients.
+Estrasorb ® should not be used in patients with known hypersensitivity to its ingredients.
 8.
 Known or suspected pregnancy.
-There is no indication for Estrasorb® in pregnancy.
+There is no indication for Estrasorb ® in pregnancy.
 There appears to be little or no increased risk of birth defects in women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy (See PRECAUTIONS.)

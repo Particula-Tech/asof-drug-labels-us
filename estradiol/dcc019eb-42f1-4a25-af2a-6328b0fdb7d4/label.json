@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021371"
+  ],
   "inn": "estradiol",
-  "labeler": "Esprit Pharma",
+  "labeler": "Esprit Pharma, Inc",
   "package_ndcs": [
     "66500-325-17"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "EMULSION",
+      "generic": "estradiol",
+      "name": "Estrasorb"
+    }
+  ],
   "setid": "dcc019eb-42f1-4a25-af2a-6328b0fdb7d4",
   "source": "dailymed"
 }

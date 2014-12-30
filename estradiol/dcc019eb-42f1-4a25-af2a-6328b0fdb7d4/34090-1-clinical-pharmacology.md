@@ -85,22 +85,22 @@ Severity results are shown in Table 2.
 | P-value vs. Placebo |  | NA | <0.001 |
 | SD = Standard Deviation; NA = Not applicable |  |  |  |
 
-| Table 2: Mean Change from Baseline in the Severity Scorea of Hot Flushes Per Day, Intent-to-Treat Population, Most Recent Value Carried Forward |  |  |
-| --- | --- | --- |
-| Time point | Treatment Group |  |
-|  | Placebo | Estrasorb® |
-| Baseline (observed value) | (N=100) | (N=100) |
-| Mean Severity Score per Day (SD) | 2.44 (0.37) | 2.36 (0.36) |
-| Week 4 | (N=97) | (N=96) |
-| Mean Severity Score per Day (SD) | 1.99 (0.81) | 1.47 (1.03) |
-| Mean Change from Baseline (SD) | -0.45 (0.75) | -0.89 (1.04) |
-| P-value versus Placebo | NA | <0.001 |
-| Week 12 | (N=90) | (N=90) |
-| Mean Severity Score per Day (SD) | 1.88 (0.98) | 0.92 (1.00) |
-| Mean Change from Baseline (SD) | -0.55 (0.91) | -1.44 (1.04) |
-| P-value versus Placebo | NA | <0.001 |
-| SD = Standard deviation; NA = Not applicable |  |  |
-| aThe severity score per day is determined by calculating the sum of recorded daily severity and dividing this number by the total number of hot flushes on that day. |  |  |
+| Table 2: Mean Change from Baseline in the Severity Scorea of Hot Flushes Per Day, Intent-to-Treat Population, Most Recent Value Carried Forward |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Time point | Treatment Group |  |  |  |  |  |
+|  | Placebo | Estrasorb® |  |  |  |  |
+| Baseline (observed value) | (N=100) | (N=100) |  |  |  |  |
+| Mean Severity Score per Day (SD) | 2.44 (0.37) | 2.36 (0.36) |  |  |  |  |
+| Week 4 | (N=97) | (N=96) |  |  |  |  |
+| Mean Severity Score per Day (SD) | 1.99 (0.81) | 1.47 (1.03) |  |  |  |  |
+| Mean Change from Baseline (SD) | -0.45 (0.75) | -0.89 (1.04) |  |  |  |  |
+| P-value versus Placebo | NA | <0.001 |  |  |  |  |
+| Week 12 | (N=90) | (N=90) |  |  |  |  |
+| Mean Severity Score per Day (SD) | 1.88 (0.98) | 0.92 (1.00) |  |  |  |  |
+| Mean Change from Baseline (SD) | -0.55 (0.91) | -1.44 (1.04) |  |  |  |  |
+| P-value versus Placebo | NA | <0.001 |  |  |  |  |
+| SD = Standard deviation; NA = Not applicable |  |  |  |  |  |  |
+| The severity score per day is determined by calculating the sum of recorded daily severity and dividing this number by the total number of hot flushes on that day. |  |  |  |  |  |  |
 
 ### Potential for estradiol transfer
 
@@ -138,7 +138,11 @@ Results of the CE/MPA substudy, which included 16,608 women (average age of 63 y
 | Deep vein thrombosisd | 2.07 (1.49-2.87) | 13 | 26 |
 | Verterbral fracturesd | 0.66 (0.44-0.98) | 15 | 9 |
 | Other osteoporotic fracturesd | 0.77 (0.69-0.86) | 170 | 131 |
-| a: adapted from JAMA, 2002; 288:321-333 b: includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer c: a subset of the events was combined in a“global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causesd: not included in Global Index * nominal confidence intervals unadjusted for multiple looks and multiple comparisons |  |  |  |
+| a: adapted from JAMA, 2002; 288:321-333 |  |  |  |
+| b: includes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer |  |  |  |
+| c: a subset of the events was combined in a“global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes |  |  |  |
+| d: not included in Global Index |  |  |  |
+| * nominal confidence intervals unadjusted for multiple looks and multiple comparisons |  |  |  |
 
 For those outcomes included in the "global index," absolute excess risks per 10,000 person-years in the group treated with CE/MPA were 7 more CHD events, 8 more strokes, 8 more PEs, and 8 more invasive breast cancers, while absolute risk reductions per 10,000 person-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 The absolute excess risk of events included in the "global index" was 19 per 10,000 person-years.
