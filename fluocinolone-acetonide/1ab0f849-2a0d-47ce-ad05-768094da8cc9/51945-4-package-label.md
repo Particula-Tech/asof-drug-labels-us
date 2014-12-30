@@ -2,7 +2,9 @@ NDC 24208-416-01
 
 Bausch & Lomb
 
-Retisert™ (fluocinolone acetonide intravitreal implant) 0.59 mg
+Retisert® (fluocinolone acetonide
+
+intravitreal implant) 0.59 mg
 
 STERILE
 
